@@ -594,14 +594,16 @@ http://gov.ge/index.php?lang_id=ENG&sec_id=547&info_id=75892
 
 
 # Germany 
-
-*Answer:* *No answer entered* 
+*Answer*: 2 
 
 *Comments*:
-*No comment provided* 
+ The federal government have coordinated a lot of the emergency response and implemented a set of measures during the pandemic that have resulted in a fairly similar response across most states. However, some states such as Bavaria and Thuringia have taken more far reaching responses, and there are also other states in which differing emergency measures have been imposed. While there thus are some states that do differ a lot from most others, the measures taken are not so different across the states that it results complete or almost complete sub-national variation, and this is therefore coded as 2. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
+https://www.tagesschau.de/inland/freiburg-ausgangssperre-101.html
+https://www.stmi.bayern.de/assets/stmi/sus/katastrophenschutz/baymbl_2020_155_feststellung_katastrophenfall.pdf
+https://finanzen.thueringen.de/aktuelles/medieninfo/detailseite/servicestellen-der-thueringer-finanzaemter-werden-fuer-den-besucherverkehr-geschlossen-finanzministeri/
 
 
 
@@ -970,14 +972,13 @@ https://www.garda.com/crisis24/news-alerts/329996/madagascar-nationwide-state-of
 
 
 # Malaysia 
-
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ The emergency measures are primarily taken at the national level without big regional differences. However, ACAPS record some such differences, for example that Yangon has implemented a 21-day traffic restriction, and that states with camps of internally displaced people have implemented action plans to handle the Covid-19 outbreak in these camps. This is then a minor sub-national variation, and coded as 1. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
 
 
 
@@ -1232,14 +1233,13 @@ https://www.yomeinformopma.org/static/dash/docs/decretos/RESOLUCION_No._491.pdf
 
 
 # Papua New Guinea 
-
-*Answer:* *No answer entered* 
+*Answer*: 2 
 
 *Comments*:
-*No comment provided* 
+ Papua New Guinea have taken many nation-wide emergency measures such as school closings, lockdowns, quarantine rules and the like. However, within this, there have also been some regional variation in that some regions have imposed additional measures or prolonged those already in place, sich as curfews, travel restrictions and limits on public gatherings. This is therefore coded as 2. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
 
 
 
@@ -1367,14 +1367,15 @@ https://www.garda.com/crisis24/news-alerts/321106/rwanda-public-gatherings-banne
 
 
 # Saudi Arabia 
-
-*Answer:* *No answer entered* 
+*Answer*: 2 
 
 *Comments*:
-*No comment provided* 
+ Saudi Arabia have imposed several nation-wide emergence measures, but also a number of regional measures, primarily specific lockdowns and curfews (or easing of these). This is therefore coded as 2, as there's some regional variation along with several measures in place for the whole country. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
+https://www.garda.com/crisis24/news-alerts/340651/saudi-arabia-authorities-ease-covid-19-restrictions-in-several-districts-of-medina-may-9-update-33
+https://www.garda.com/crisis24/news-alerts/341441/saudi-arabia-lockdown-measures-introduced-in-baish-province-jazan-region-as-of-may-12-to-curb-the-spread-of-covid-19-update-34
 
 
 

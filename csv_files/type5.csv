@@ -1,34 +1,7 @@
 "country_name","type5","leglimit"
-"Democratic Republic of the Congo",3,4
-"Eritrea",3,4
-"Ethiopia",3,4
-"Haiti",3,5
-"India",3,4
-"Saudi Arabia",3,5
-"Sudan",3,5
-"Zambia",3,4
-"Algeria",2,3
-"El Salvador",2,3
-"Ghana",2,3
-"Hungary",2,3
-"Jordan",2,3
-"Kuwait",2,3
-"Lesotho",2,3
-"Malawi",2,3
-"Malaysia",2,3
-"Mexico",2,3
-"Namibia",2,3
-"Nepal",2,3
-"Oman",2,3
-"Serbia",2,3
-"Sierra Leone",2,3
-"Sri Lanka",2,3
-"Thailand",2,3
-"Tunisia",2,3
-"Turkey",2,3
-"Venezuela",2,3
 "Afghanistan",0,1
 "Albania",0,0
+"Algeria",2,3
 "Angola",0,2
 "Argentina",0,2
 "Armenia",0,0
@@ -59,19 +32,27 @@
 "Croatia",0,2
 "Cuba",0,2
 "Czech Republic",0,2
+"Democratic Republic of the Congo",3,4
 "Denmark",0,0
 "Dominican Republic",0,0
 "Ecuador",0,2
 "Egypt",0,0
+"El Salvador",2,3
+"Eritrea",3,4
+"Ethiopia",3,4
 "Finland",0,0
 "France",0,2
 "Gabon",0,2
 "Georgia",0,1
 "Germany",0,0
+"Ghana",2,3
 "Greece",0,1
 "Guatemala",0,2
 "Guinea",0,2
+"Haiti",3,5
 "Honduras",0,2
+"Hungary",2,3
+"India",3,4
 "Indonesia",0,2
 "Iran",0,0
 "Iraq",0,0
@@ -81,21 +62,29 @@
 "Ivory Coast",0,2
 "Jamaica",0,2
 "Japan",0,0
+"Jordan",2,3
 "Kazakhstan",0,2
 "Kenya",0,2
+"Kuwait",2,3
 "Kyrgyzstan",0,0
 "Laos",0,0
 "Lebanon",0,2
+"Lesotho",2,3
 "Liberia",0,2
 "Libya",0,0
 "Lithuania",0,2
 "Madagascar",0,2
+"Malawi",2,3
+"Malaysia",2,3
 "Mali",0,2
 "Mauritania",0,2
+"Mexico",2,3
 "Moldova",0,2
 "Mongolia",0,0
 "Morocco",0,1
 "Mozambique",0,2
+"Namibia",2,3
+"Nepal",2,3
 "Netherlands",0,0
 "New Zealand",0,0
 "Nicaragua",0,0
@@ -104,6 +93,7 @@
 "North Korea",0,0
 "North Macedonia",0,0
 "Norway",0,0
+"Oman",2,3
 "Pakistan",0,0
 "Panama",0,2
 "Papua New Guinea",0,2
@@ -117,7 +107,10 @@
 "Romania",0,2
 "Russia",0,0
 "Rwanda",0,2
+"Saudi Arabia",3,5
 "Senegal",0,2
+"Serbia",2,3
+"Sierra Leone",2,3
 "Singapore",0,0
 "Slovakia",0,0
 "Slovenia",0,0
@@ -126,14 +119,19 @@
 "South Korea",0,0
 "South Sudan",0,0
 "Spain",0,2
+"Sri Lanka",2,3
+"Sudan",3,5
 "Sweden",0,0
 "Switzerland",0,2
 "Syria",0,0
 "Taiwan",0,0
 "Tajikistan",0,0
 "Tanzania",0,0
+"Thailand",2,3
 "The Gambia",0,1
 "Togo",0,1
+"Tunisia",2,3
+"Turkey",2,3
 "Turkmenistan",0,0
 "Uganda",0,2
 "Ukraine",0,0
@@ -142,6 +140,8 @@
 "United States of America",0,0
 "Uruguay",0,2
 "Uzbekistan",0,0
+"Venezuela",2,3
 "Vietnam",0,0
 "Yemen",0,0
+"Zambia",3,4
 "Zimbabwe",0,2

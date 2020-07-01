@@ -1,24 +1,4 @@
 "country_name","type2","discrim"
-"Bulgaria",3,4
-"Kuwait",3,2
-"Qatar",3,2
-"Saudi Arabia",3,2
-"Slovakia",3,4
-"Sri Lanka",3,2
-"Oman",2,3
-"Panama",2,3
-"Peru",2,3
-"Serbia",2,3
-"Burma/Myanmar",1,1
-"China",1,1
-"France",1,1
-"Greece",1,1
-"India",1,1
-"North Macedonia",1,1
-"Pakistan",1,1
-"Philippines",1,1
-"Russia",1,1
-"Uganda",1,1
 "Afghanistan",0,0
 "Albania",0,0
 "Algeria",0,0
@@ -36,7 +16,9 @@
 "Bosnia and Herzegovina",0,0
 "Botswana",0,0
 "Brazil",0,0
+"Bulgaria",3,4
 "Burkina Faso",0,0
+"Burma/Myanmar",1,1
 "Burundi",0,0
 "Cambodia",0,0
 "Cameroon",0,0
@@ -44,6 +26,7 @@
 "Central African Republic",0,0
 "Chad",0,0
 "Chile",0,0
+"China",1,1
 "Colombia",0,0
 "Costa Rica",0,0
 "Croatia",0,0
@@ -58,15 +41,18 @@
 "Eritrea",0,0
 "Ethiopia",0,0
 "Finland",0,0
+"France",1,1
 "Gabon",0,0
 "Georgia",0,0
 "Germany",0,0
 "Ghana",0,0
+"Greece",1,1
 "Guatemala",0,0
 "Guinea",0,0
 "Haiti",0,0
 "Honduras",0,0
 "Hungary",0,0
+"India",1,1
 "Indonesia",0,0
 "Iran",0,0
 "Iraq",0,0
@@ -79,6 +65,7 @@
 "Jordan",0,0
 "Kazakhstan",0,0
 "Kenya",0,0
+"Kuwait",3,2
 "Kyrgyzstan",0,0
 "Laos",0,0
 "Lebanon",0,0
@@ -104,23 +91,35 @@
 "Niger",0,0
 "Nigeria",0,0
 "North Korea",0,0
+"North Macedonia",1,1
 "Norway",0,0
+"Oman",2,3
+"Pakistan",1,1
+"Panama",2,3
 "Papua New Guinea",0,0
 "Paraguay",0,0
+"Peru",2,3
+"Philippines",1,1
 "Poland",0,0
 "Portugal",0,0
+"Qatar",3,2
 "Republic of the Congo",0,0
 "Romania",0,0
+"Russia",1,1
 "Rwanda",0,0
+"Saudi Arabia",3,2
 "Senegal",0,0
+"Serbia",2,3
 "Sierra Leone",0,0
 "Singapore",0,0
+"Slovakia",3,4
 "Slovenia",0,0
 "Somalia",0,0
 "South Africa",0,0
 "South Korea",0,0
 "South Sudan",0,0
 "Spain",0,0
+"Sri Lanka",3,2
 "Sudan",0,0
 "Sweden",0,0
 "Switzerland",0,0
@@ -134,6 +133,7 @@
 "Tunisia",0,0
 "Turkey",0,0
 "Turkmenistan",0,0
+"Uganda",1,1
 "Ukraine",0,0
 "United Arab Emirates",0,0
 "United Kingdom",0,0

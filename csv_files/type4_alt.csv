@@ -1,24 +1,54 @@
 "country_name","type4_alt","melim","merepfact","merepgov","merepoth","mevhar","mephar","meinf"
+"Afghanistan",0,0,0,0,0,0,0,0
 "Albania",3,0,0,0,1,0,0,0
 "Algeria",3,1,1,1,0,0,0,1
+"Angola",0,0,0,0,0,0,0,0
+"Argentina",0,0,0,0,0,0,0,0
 "Armenia",3,2,1,1,0,0,0,0
+"Australia",0,0,0,0,0,0,0,0
+"Austria",0,0,0,0,0,0,0,0
 "Azerbaijan",3,2,0,1,1,0,1,2
 "Bangladesh",3,0,0,1,0,0,1,0
 "Belarus",3,0,1,1,0,0,0,1
+"Belgium",0,0,0,0,0,0,0,0
+"Benin",0,0,0,0,0,0,0,0
 "Bolivia",3,2,0,0,0,0,0,0
 "Bosnia and Herzegovina",3,0,0,1,0,0,0,1
+"Botswana",1,1,0,0,0,0,0,0
 "Brazil",3,0,1,1,1,1,0,2
+"Bulgaria",1,0,0,0,0,0,0,1
+"Burkina Faso",0,0,0,0,0,0,0,0
 "Burma/Myanmar",3,0,1,1,1,0,1,2
 "Burundi",3,0,1,1,0,0,0,2
 "Cambodia",3,1,0,0,1,0,0,1
+"Cameroon",2,0,0,0,0,0,0,2
+"Canada",0,0,0,0,0,0,0,0
+"Central African Republic",0,0,0,0,0,0,0,0
 "Chad",3,0,0,1,0,1,1,0
+"Chile",0,0,0,0,0,0,0,0
 "China",3,1,1,1,1,1,0,2
+"Colombia",0,0,0,0,0,0,0,0
+"Costa Rica",0,0,0,0,0,0,0,0
+"Croatia",0,0,0,0,0,0,0,0
+"Cuba",0,0,0,0,0,0,0,0
+"Czech Republic",1,0,0,0,0,0,0,1
 "Democratic Republic of the Congo",3,0,0,1,0,0,1,0
+"Denmark",0,0,0,0,0,0,0,0
+"Dominican Republic",0,0,0,0,0,0,0,0
+"Ecuador",0,0,0,0,0,0,0,0
 "Egypt",3,2,1,1,1,0,1,2
 "El Salvador",3,2,1,1,1,1,0,2
+"Eritrea",0,0,0,0,0,0,0,0
 "Ethiopia",3,2,0,0,0,1,0,0
+"Finland",0,0,0,0,0,0,0,0
+"France",0,0,0,0,0,0,0,0
+"Gabon",0,0,0,0,0,0,0,0
+"Georgia",0,0,0,0,0,0,0,0
+"Germany",0,0,0,0,0,0,0,0
 "Ghana",3,0,0,1,1,1,1,1
+"Greece",1,0,0,0,0,0,0,1
 "Guatemala",3,0,0,0,0,1,1,2
+"Guinea",0,0,0,0,0,0,0,0
 "Haiti",3,0,0,0,0,1,1,0
 "Honduras",3,2,1,1,1,0,0,1
 "Hungary",3,2,0,0,0,1,0,2
@@ -26,122 +56,92 @@
 "Indonesia",3,0,0,0,1,0,0,2
 "Iran",3,1,1,1,1,1,1,2
 "Iraq",3,0,1,1,0,1,1,1
+"Ireland",0,0,0,0,0,0,0,0
+"Israel",0,0,0,0,0,0,0,0
+"Italy",1,0,0,0,0,0,0,1
 "Ivory Coast",3,0,1,1,0,0,0,1
+"Jamaica",0,0,0,0,0,0,0,0
+"Japan",0,0,0,0,0,0,0,0
 "Jordan",3,1,1,1,1,1,1,0
 "Kazakhstan",3,2,0,1,0,0,1,1
 "Kenya",3,1,0,1,0,1,1,1
+"Kuwait",0,0,0,0,0,0,0,0
 "Kyrgyzstan",3,2,0,1,0,0,0,2
 "Laos",3,3,1,1,1,0,0,2
+"Lebanon",0,0,0,0,0,0,0,0
+"Lesotho",1,1,0,0,0,0,0,0
 "Liberia",3,1,0,1,0,1,1,2
+"Libya",0,0,0,0,0,0,0,0
+"Lithuania",0,0,0,0,0,0,0,0
 "Madagascar",3,3,1,1,1,0,1,2
+"Malawi",0,0,0,0,0,0,0,0
 "Malaysia",3,0,1,1,0,1,1,0
 "Mali",3,0,0,1,0,0,0,0
+"Mauritania",0,0,0,0,0,0,0,0
+"Mexico",2,0,0,0,0,1,0,1
 "Moldova",3,1,0,1,0,1,0,1
 "Mongolia",3,1,1,1,0,0,0,0
 "Morocco",3,2,0,0,0,1,1,2
+"Mozambique",0,0,0,0,0,0,0,0
 "Namibia",3,1,0,1,0,0,0,1
 "Nepal",3,0,0,1,0,0,1,0
+"Netherlands",0,0,0,0,0,0,0,0
+"New Zealand",0,0,0,0,0,0,0,0
 "Nicaragua",3,0,1,1,0,1,0,2
 "Niger",3,0,1,1,0,1,1,1
 "Nigeria",3,1,1,1,1,1,1,2
-"Oman",3,3,1,1,1,0,0,0
-"Philippines",3,1,0,1,1,0,0,2
-"Poland",3,0,0,0,1,0,1,0
-"Republic of the Congo",3,0,1,1,0,0,0,1
-"Russia",3,2,1,1,0,1,0,2
-"Rwanda",3,0,0,1,1,0,1,0
-"Senegal",3,0,0,0,0,0,1,0
-"Serbia",3,2,0,1,0,1,1,2
-"Sierra Leone",3,0,0,1,0,0,1,1
-"Somalia",3,0,1,1,0,1,1,2
-"South Africa",3,2,0,1,0,1,1,0
-"Syria",3,0,1,1,0,1,0,2
-"Tajikistan",3,0,0,0,0,1,1,1
-"Tanzania",3,0,0,1,0,0,0,0
-"Thailand",3,2,0,0,1,0,0,1
-"Turkey",3,0,1,1,0,1,1,2
-"Uganda",3,0,0,1,0,0,1,1
-"Ukraine",3,0,0,1,1,0,1,1
-"Uzbekistan",3,2,0,1,0,0,0,0
-"Venezuela",3,0,0,1,0,1,1,2
-"Zimbabwe",3,0,0,1,0,1,1,2
-"Cameroon",2,0,0,0,0,0,0,2
-"Mexico",2,0,0,0,0,1,0,1
-"Papua New Guinea",2,0,1,0,0,1,0,1
-"Slovenia",2,0,0,0,0,1,0,1
-"United States of America",2,0,0,0,0,1,0,1
-"Botswana",1,1,0,0,0,0,0,0
-"Bulgaria",1,0,0,0,0,0,0,1
-"Czech Republic",1,0,0,0,0,0,0,1
-"Greece",1,0,0,0,0,0,0,1
-"Italy",1,0,0,0,0,0,0,1
-"Lesotho",1,1,0,0,0,0,0,0
-"Romania",1,1,0,0,0,0,0,1
-"Spain",1,0,0,0,0,0,0,1
-"Taiwan",1,1,0,0,0,0,0,0
-"United Arab Emirates",1,1,0,0,0,0,0,0
-"United Kingdom",1,0,0,0,0,0,0,1
-"Yemen",1,0,0,0,0,0,0,1
-"Afghanistan",0,0,0,0,0,0,0,0
-"Angola",0,0,0,0,0,0,0,0
-"Argentina",0,0,0,0,0,0,0,0
-"Australia",0,0,0,0,0,0,0,0
-"Austria",0,0,0,0,0,0,0,0
-"Belgium",0,0,0,0,0,0,0,0
-"Benin",0,0,0,0,0,0,0,0
-"Burkina Faso",0,0,0,0,0,0,0,0
-"Canada",0,0,0,0,0,0,0,0
-"Central African Republic",0,0,0,0,0,0,0,0
-"Chile",0,0,0,0,0,0,0,0
-"Colombia",0,0,0,0,0,0,0,0
-"Costa Rica",0,0,0,0,0,0,0,0
-"Croatia",0,0,0,0,0,0,0,0
-"Cuba",0,0,0,0,0,0,0,0
-"Denmark",0,0,0,0,0,0,0,0
-"Dominican Republic",0,0,0,0,0,0,0,0
-"Ecuador",0,0,0,0,0,0,0,0
-"Eritrea",0,0,0,0,0,0,0,0
-"Finland",0,0,0,0,0,0,0,0
-"France",0,0,0,0,0,0,0,0
-"Gabon",0,0,0,0,0,0,0,0
-"Georgia",0,0,0,0,0,0,0,0
-"Germany",0,0,0,0,0,0,0,0
-"Guinea",0,0,0,0,0,0,0,0
-"Ireland",0,0,0,0,0,0,0,0
-"Israel",0,0,0,0,0,0,0,0
-"Jamaica",0,0,0,0,0,0,0,0
-"Japan",0,0,0,0,0,0,0,0
-"Kuwait",0,0,0,0,0,0,0,0
-"Lebanon",0,0,0,0,0,0,0,0
-"Libya",0,0,0,0,0,0,0,0
-"Lithuania",0,0,0,0,0,0,0,0
-"Malawi",0,0,0,0,0,0,0,0
-"Mauritania",0,0,0,0,0,0,0,0
-"Mozambique",0,0,0,0,0,0,0,0
-"Netherlands",0,0,0,0,0,0,0,0
-"New Zealand",0,0,0,0,0,0,0,0
 "North Korea",0,0,0,0,0,0,0,0
 "North Macedonia",0,0,0,0,0,0,0,0
 "Norway",0,0,0,0,0,0,0,0
+"Oman",3,3,1,1,1,0,0,0
 "Pakistan",0,0,0,0,0,0,0,0
 "Panama",0,0,0,0,0,0,0,0
+"Papua New Guinea",2,0,1,0,0,1,0,1
 "Paraguay",0,0,0,0,0,0,0,0
 "Peru",0,0,0,0,0,0,0,0
+"Philippines",3,1,0,1,1,0,0,2
+"Poland",3,0,0,0,1,0,1,0
 "Portugal",0,0,0,0,0,0,0,0
 "Qatar",0,0,0,0,0,0,0,0
+"Republic of the Congo",3,0,1,1,0,0,0,1
+"Romania",1,1,0,0,0,0,0,1
+"Russia",3,2,1,1,0,1,0,2
+"Rwanda",3,0,0,1,1,0,1,0
 "Saudi Arabia",0,0,0,0,0,0,0,0
+"Senegal",3,0,0,0,0,0,1,0
+"Serbia",3,2,0,1,0,1,1,2
+"Sierra Leone",3,0,0,1,0,0,1,1
 "Singapore",0,0,0,0,0,0,0,0
 "Slovakia",0,0,0,0,0,0,0,0
+"Slovenia",2,0,0,0,0,1,0,1
+"Somalia",3,0,1,1,0,1,1,2
+"South Africa",3,2,0,1,0,1,1,0
 "South Korea",0,0,0,0,0,0,0,0
 "South Sudan",0,0,0,0,0,0,0,0
+"Spain",1,0,0,0,0,0,0,1
 "Sri Lanka",0,0,0,0,0,0,0,0
 "Sudan",0,0,0,0,0,0,0,0
 "Sweden",0,0,0,0,0,0,0,0
 "Switzerland",0,0,0,0,0,0,0,0
+"Syria",3,0,1,1,0,1,0,2
+"Taiwan",1,1,0,0,0,0,0,0
+"Tajikistan",3,0,0,0,0,1,1,1
+"Tanzania",3,0,0,1,0,0,0,0
+"Thailand",3,2,0,0,1,0,0,1
 "The Gambia",0,0,0,0,0,0,0,0
 "Togo",0,0,0,0,0,0,0,0
 "Tunisia",0,0,0,0,0,0,0,0
+"Turkey",3,0,1,1,0,1,1,2
 "Turkmenistan",0,0,0,0,0,0,0,0
+"Uganda",3,0,0,1,0,0,1,1
+"Ukraine",3,0,0,1,1,0,1,1
+"United Arab Emirates",1,1,0,0,0,0,0,0
+"United Kingdom",1,0,0,0,0,0,0,1
+"United States of America",2,0,0,0,0,1,0,1
 "Uruguay",0,0,0,0,0,0,0,0
+"Uzbekistan",3,2,0,1,0,0,0,0
+"Venezuela",3,0,0,1,0,1,1,2
 "Vietnam",0,0,0,0,0,0,0,0
+"Yemen",1,0,0,0,0,0,0,1
 "Zambia",0,0,0,0,0,0,0,0
+"Zimbabwe",3,0,0,1,0,1,1,2

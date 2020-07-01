@@ -252,13 +252,13 @@ https://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-resp
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 2 
 
 *Comments*:
-*No comment provided* 
+ Papua New Guinea have taken many nation-wide emergency measures such as school closings, lockdowns, quarantine rules and the like. However, within this, there have also been some regional variation in that some regions have imposed additional measures or prolonged those already in place, sich as curfews, travel restrictions and limits on public gatherings. This is therefore coded as 2. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
 
 
 

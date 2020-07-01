@@ -1,0 +1,147 @@
+"country_name","type1","emlimit","emend"
+"Afghanistan",0,NA,NA
+"Albania",0,1,NA
+"Algeria",0,1,NA
+"Angola",0,1,"2020-05-25"
+"Argentina",0,1,NA
+"Armenia",0,1,NA
+"Australia",0,1,NA
+"Austria",0,1,NA
+"Azerbaijan",0,1,NA
+"Bangladesh",0,1,"2020-05-31"
+"Belarus",0,NA,NA
+"Belgium",0,1,"2020-06-08"
+"Benin",0,NA,NA
+"Bolivia",0,1,NA
+"Bosnia and Herzegovina",2,0,NA
+"Botswana",0,1,NA
+"Brazil",2,0,NA
+"Bulgaria",0,1,"2020-05-13"
+"Burkina Faso",2,0,NA
+"Burma/Myanmar",0,NA,NA
+"Burundi",0,NA,NA
+"Cambodia",2,0,NA
+"Cameroon",0,NA,NA
+"Canada",0,NA,NA
+"Central African Republic",0,NA,NA
+"Chad",0,1,NA
+"Chile",0,1,NA
+"China",2,0,NA
+"Colombia",0,1,"2020-06-05"
+"Costa Rica",2,0,NA
+"Croatia",0,1,"2020-05-04"
+"Cuba",2,0,NA
+"Czech Republic",0,1,"2020-05-17"
+"Democratic Republic of the Congo",0,1,NA
+"Denmark",0,1,NA
+"Dominican Republic",0,1,NA
+"Ecuador",0,1,NA
+"Egypt",0,1,NA
+"El Salvador",0,1,"2020-06-15"
+"Eritrea",0,NA,NA
+"Ethiopia",0,1,NA
+"Finland",0,1,"2020-06-16"
+"France",0,1,NA
+"Gabon",0,1,NA
+"Georgia",0,1,"2020-05-22"
+"Germany",0,NA,NA
+"Ghana",0,1,NA
+"Greece",0,1,"2020-05-04"
+"Guatemala",0,1,NA
+"Guinea",0,1,NA
+"Haiti",0,1,NA
+"Honduras",0,1,NA
+"Hungary",1,0,"2020-06-17"
+"India",0,NA,NA
+"Indonesia",2,0,NA
+"Iran",0,NA,NA
+"Iraq",0,NA,NA
+"Ireland",0,1,NA
+"Israel",0,1,NA
+"Italy",0,1,NA
+"Ivory Coast",2,0,NA
+"Jamaica",2,0,NA
+"Japan",0,1,"2020-05-25"
+"Jordan",0,1,NA
+"Kazakhstan",0,1,"2020-05-11"
+"Kenya",0,1,NA
+"Kuwait",0,NA,NA
+"Kyrgyzstan",0,1,"2020-05-10"
+"Laos",0,1,NA
+"Lebanon",0,1,NA
+"Lesotho",0,1,"2020-05-05"
+"Liberia",0,1,NA
+"Libya",0,NA,NA
+"Lithuania",0,1,NA
+"Madagascar",0,1,NA
+"Malawi",0,1,"2020-04-20"
+"Malaysia",0,1,NA
+"Mali",2,0,NA
+"Mauritania",2,0,NA
+"Mexico",0,1,"2020-05-30"
+"Moldova",0,1,"2020-05-15"
+"Mongolia",0,1,NA
+"Morocco",0,1,NA
+"Mozambique",0,1,NA
+"Namibia",0,1,NA
+"Nepal",0,1,NA
+"Netherlands",0,NA,NA
+"New Zealand",0,1,"2020-05-13"
+"Nicaragua",0,NA,NA
+"Niger",0,1,NA
+"Nigeria",0,1,NA
+"North Korea",0,NA,NA
+"North Macedonia",0,1,NA
+"Norway",0,1,"2020-05-27"
+"Oman",2,0,NA
+"Pakistan",0,1,"2020-05-09"
+"Panama",1,0,"2020-06-01"
+"Papua New Guinea",0,1,"2020-06-16"
+"Paraguay",2,0,NA
+"Peru",0,1,NA
+"Philippines",0,1,NA
+"Poland",2,0,NA
+"Portugal",0,1,"2020-05-02"
+"Qatar",0,NA,NA
+"Republic of the Congo",0,1,NA
+"Romania",0,1,"2020-05-14"
+"Russia",0,1,"2020-05-14"
+"Rwanda",0,NA,NA
+"Saudi Arabia",0,NA,NA
+"Senegal",0,1,NA
+"Serbia",0,1,"2020-05-06"
+"Sierra Leone",0,1,"2021-03-24"
+"Singapore",0,1,NA
+"Slovakia",0,1,"2020-06-13"
+"Slovenia",0,1,"2020-05-31"
+"Somalia",2,0,NA
+"South Africa",0,1,NA
+"South Korea",0,1,NA
+"South Sudan",0,NA,NA
+"Spain",0,1,NA
+"Sri Lanka",0,1,NA
+"Sudan",0,NA,NA
+"Sweden",0,1,NA
+"Switzerland",0,1,NA
+"Syria",0,NA,NA
+"Taiwan",0,1,NA
+"Tajikistan",0,1,NA
+"Tanzania",0,NA,NA
+"Thailand",0,1,NA
+"The Gambia",0,1,NA
+"Togo",0,1,NA
+"Tunisia",2,0,NA
+"Turkey",0,NA,NA
+"Turkmenistan",0,NA,NA
+"Uganda",2,0,NA
+"Ukraine",0,1,"2020-04-24"
+"United Arab Emirates",0,NA,NA
+"United Kingdom",0,1,NA
+"United States of America",2,0,NA
+"Uruguay",2,0,NA
+"Uzbekistan",0,1,NA
+"Venezuela",0,1,NA
+"Vietnam",0,1,NA
+"Yemen",0,NA,NA
+"Zambia",2,0,NA
+"Zimbabwe",2,0,NA

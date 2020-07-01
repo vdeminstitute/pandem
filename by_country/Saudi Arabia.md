@@ -229,13 +229,15 @@ https://www.garda.com/crisis24/news-alert-full-history/2vkXk5oi3DhYpxPo5/saudi-a
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 2 
 
 *Comments*:
-*No comment provided* 
+ Saudi Arabia have imposed several nation-wide emergence measures, but also a number of regional measures, primarily specific lockdowns and curfews (or easing of these). This is therefore coded as 2, as there's some regional variation along with several measures in place for the whole country. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
+https://www.garda.com/crisis24/news-alerts/340651/saudi-arabia-authorities-ease-covid-19-restrictions-in-several-districts-of-medina-may-9-update-33
+https://www.garda.com/crisis24/news-alerts/341441/saudi-arabia-lockdown-measures-introduced-in-baish-province-jazan-region-as-of-may-12-to-curb-the-spread-of-covid-19-update-34
 
 
 

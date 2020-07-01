@@ -1,10 +1,4 @@
 "country_name","type3","ndrights"
-"Egypt",3,1
-"El Salvador",3,1
-"Eritrea",3,1
-"Pakistan",3,1
-"Philippines",3,1
-"Sri Lanka",3,1
 "Afghanistan",0,0
 "Albania",0,0
 "Algeria",0,0
@@ -42,6 +36,9 @@
 "Denmark",0,0
 "Dominican Republic",0,0
 "Ecuador",0,0
+"Egypt",3,1
+"El Salvador",3,1
+"Eritrea",3,1
 "Ethiopia",0,0
 "Finland",0,0
 "France",0,0
@@ -97,10 +94,12 @@
 "North Macedonia",0,0
 "Norway",0,0
 "Oman",0,0
+"Pakistan",3,1
 "Panama",0,0
 "Papua New Guinea",0,0
 "Paraguay",0,0
 "Peru",0,0
+"Philippines",3,1
 "Poland",0,0
 "Portugal",0,0
 "Qatar",0,0
@@ -120,6 +119,7 @@
 "South Korea",0,0
 "South Sudan",0,0
 "Spain",0,0
+"Sri Lanka",3,1
 "Sudan",0,0
 "Sweden",0,0
 "Switzerland",0,0

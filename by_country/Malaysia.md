@@ -255,13 +255,13 @@ https://www.parlimen.gov.my/index.php?lang=en
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ The emergency measures are primarily taken at the national level without big regional differences. However, ACAPS record some such differences, for example that Yangon has implemented a 21-day traffic restriction, and that states with camps of internally displaced people have implemented action plans to handle the Covid-19 outbreak in these camps. This is then a minor sub-national variation, and coded as 1. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
 
 
 
