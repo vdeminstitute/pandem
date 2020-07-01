@@ -3,7 +3,7 @@
 This folder contains the datasets for Pandem V3. For a description of the data see the [codebook](https://github.com/vdeminstitute/pandem/tree/master/codebook).
 
 
-- [full_data.csv](https://github.com/vdeminstitute/pandem/blob/master/csv_files/full_data_V3.csv): Full dataset (with indices and without coder comments)
+- [full_data.csv](https://github.com/vdeminstitute/pandem/blob/master/csv_files/full_data_V3.csv): Full dataset (with all indicators and indices)
 - [raw_data.csv](https://github.com/vdeminstitute/pandem/blob/master/csv_files/full_data_V3.csv): Raw dataset without the indices and including coder comments and sources
 - [pandem.csv](https://github.com/vdeminstitute/pandem/blob/master/csv_files/pandem_V3.csv): Pandemic Democratic Violations Index
 - [pandem_alt.csv](https://github.com/vdeminstitute/pandem/blob/master/csv_files/pandem_V3.csv): Pandemic Democratic Violations Index, alternative measure
