@@ -1,6 +1,6 @@
 # Data
 
-This folder contains the datasets for Pandem V3. For a description of the data see the [codebook](https://github.com/vdeminstitute/pandem/tree/master/codebook).
+This folder contains the datasets for Pandem V3. For a description of the data see the [codebook](https://github.com/vdeminstitute/pandem/tree/master/codebook). To download, click on the dataset link, then right click on the "Raw" button on the top right of the page and select "save as."
 
 
 - [full_data.csv](https://github.com/vdeminstitute/pandem/blob/master/csv_files/full_data_V3.csv): Full dataset (with all indicators and indices)
