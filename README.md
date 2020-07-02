@@ -1,6 +1,6 @@
 # The Pandemic Backsliding Project (PanDem)
 
-This repository contains the data, comments and sources for the Pandem dataset V3.
+This repository contains the data, comments and sources for the Pandem dataset V3. Download the repository including the codebook and data by clicking the green clone or download button.
 
 ## Background
 
