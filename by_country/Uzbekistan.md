@@ -43,10 +43,10 @@ Time 2020-06-15
 
 *Scale*: Character string. 
 
-*Answer*: Decree 5537 
+*Answer*: RASPORYAZHENIYE PREZIDENTA RESPUBLIKI UZBEKISTAN OB OBRAZOVANII SPETSIAL'NOY RESPUBLIKANSKOY KOMISSII PO PODGOTOVKE PROGRAMMY MER PO PREDUPREZHDENIYU ZAVOZA I RASPROSTRANENIYA NOVOGO TIPA KORONAVIRUSA V RESPUBLIKE UZBEKISTAN 
 
 *Comments*:
- from 29 January 2020 on creation of an anti-crisis commussion 
+ Decree 5537 from 29 January 2020 on creation of an anti-crisis commussion 
 
 *Sources*:
  https://www.lex.uz/docs/4720408
@@ -180,10 +180,11 @@ https://coronavirus.uz/uz/lists/index?page=2&per-page=12
 *Answer*: 0 
 
 *Comments*:
- Legislature approval not required 
+ Legislature approval not required and I found no evidence of legislature's approval on its website 
 
 *Sources*:
  https://www.lex.uz/docs/4720408
+http://parliament.gov.uz/ru/events/chamber/index.php?PAGEN_1=7&SIZEN_1=12
 
 
 
@@ -599,7 +600,7 @@ https://www.hrw.org/europe/central-asia/uzbekistan
 *Answer*: privacy violations 
 
 *Comments*:
- Everyone who is quarantined (because of having symptoms of covid-19 or upon arrival from other countries) has to give their mobie phones and bank cards to the authorities for the duration of the quarantine (for decontamination and contact tracing) 
+ Everyone who is quarantined (because of having symptoms of covid-19 or upon arrival from other countries) has to give their mobile phones and bank cards to the authorities for the duration of the quarantine (for decontamination and contact tracing) 
 
 *Sources*:
  https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses

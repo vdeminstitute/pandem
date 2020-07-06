@@ -241,7 +241,7 @@ https://www.france24.com/en/20200314-syria-elections-postponed-over-coronavirus
 *Answer*: 0 
 
 *Comments*:
- The coronavirus measures for Syrian Arab republic (government controlled area) is uniform, and this is what has been coded here. However, there is variation in the other two governments which have followed slightly different strategies and do not have the supplies of the government cotrolled areas. Also, borders closed at different times. However, more or less the measures have been similar even if we take all regions into account. 
+ The coronavirus measures for Syrian Arab republic (government controlled area) is uniform. However, there is variation in the other two governments which have followed slightly different strategies and do not have the supplies of the government cotrolled areas. Also, borders closed at different times. 
 
 *Sources*:
  https://www.washingtoninstitute.org/policy-analysis/view/syrias-three-governments-confront-the-coronavirus;

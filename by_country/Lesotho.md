@@ -188,12 +188,13 @@ https://www.constituteproject.org/constitution/Lesotho_2018.pdf?lang=en
 *Answer*: 1 
 
 *Comments*:
- Coded as 1 because although the declaration does not need approval, the extension of a state of emergency needs to be approved by Parliament.
+ The Prime Minister can declare a state of emergency without the legislature's approval, but the extension of the state of emergency needs to be approved by Parliament (therefore coded as 1).
 
-''...the Prime Minister has the power to declare the state of emergency without the approval of Parliament. However, only Parliament has the power to extend such a declaration from the initial 14 days. The problem in Lesotho is that the state of emergency was declared at a time when Parliament was prorogued. This means that there was no constitutional authority to extend the state of emergency beyond the 14 days that the Prime Minister is allowed to establish. Realizing this constitutional reality, on 15 April 2020, the Prime Minister re-declared the state of emergency from 15 April 2020 to 28 April 2020. Whilst this was legally correct under those circumstances, it does raise questions about the legal position that persisted between 8 April and 15 April 2020. Was there a state of emergency during this period? Were the things done or enforced during this period constitutionally sanctioned? The answers to some of these or other questions remain unclear and may never be found. 
+''...the Prime Minister has the power to declare the state of emergency without the approval of Parliament. However, only Parliament has the power to extend such a declaration from the initial 14 days.'' (1) 
 
 *Sources*:
- https://ancl-radc.org.za/node/631
+ (1)
+https://ancl-radc.org.za/node/631
 https://www.constituteproject.org/constitution/Lesotho_2018.pdf?lang=en
 https://www.aljazeera.com/news/2020/04/fire-lesotho-pm-deploys-army-streets-restore-order-200418122720308.html
 
@@ -215,7 +216,7 @@ https://www.aljazeera.com/news/2020/04/fire-lesotho-pm-deploys-army-streets-rest
 *Answer*: 0 
 
 *Comments*:
- Parliament had been prorogued. 
+ The Parliament had been prorogued (March 19, 2020) in the initial declaration of the state of emergency (retrospectively on March 28, 2020, to be in force from March 18). In the second declaration of the state of emergency on April 15, 2020 the Parliament properly approved the extension, since the Constitutional court had ruled the suspension unconstitutional. 
 
 *Sources*:
  https://ancl-radc.org.za/node/631
@@ -285,7 +286,7 @@ https://www.dailymaverick.co.za/article/2020-04-20-lesotho-government-agrees-to-
 *Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ Nationwide state of emergency. 
 
 *Sources*:
  https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
@@ -398,7 +399,7 @@ https://ancl-radc.org.za/node/631
 *Answer*: 2020-03-18 
 
 *Comments*:
-*No comment provided* 
+ Started with the declaration of the state of emergency. 
 
 *Sources*:
  https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
@@ -686,7 +687,7 @@ https://www.gov.ls/national-command-centre/
 
 5. The Lesotho Defence Force and the Lesotho Mounted Police Service shall operationalise all the above measures upon the commencement of this Declaration.
 
-Also: ''The army has been deployed onto the streets of Maseru since Saturday, April 18, to "restore peace and order" following the constitutional court's rejection of Thabane's decision to suspend Parliament for a three-month period as part of the COVID-19 lockdown.'' 
+In addition, the army was deployed on April 18, to "restore peace and order", after the constitutional court's decision to rule out the Prime Minster's suspension of Parliament for three months as part of the COVID-19 lockdown. 
 
 *Sources*:
  https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf

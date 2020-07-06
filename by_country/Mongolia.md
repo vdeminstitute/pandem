@@ -251,13 +251,14 @@ https://montsame.mn/en/read/223999
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The emergency measures have been taken nationwide and no sub-national variation has been found in Mongolia. This is therefore coded as 0. 
 
 *Sources*:
-*No source provided*
+ https://www.garda.com/crisis24/news-alert-full-history/YDjwxi8GHSZoCDHEK/mongolia-government-closes-borders-with-china-to-prevent-2019-ncov-spread-january-27
+https://www.acaps.org/covid19-government-measures-dataset
 
 
 
@@ -614,13 +615,13 @@ https://www.hrw.org/sitesearch?search=Mongolia
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ No sources have been found stating that Mongolia has deployed its military to enforce emergency measures. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
 
 
 

@@ -236,13 +236,16 @@ https://www.constituteproject.org/constitution/Switzerland_2014.pdf?lang=en
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 2 
 
 *Comments*:
-*No comment provided* 
+ Switzerland has both had a lot of nationwide emergency measures such as lockdowns and school closings, and emergency measures taken by the states such as curfews and varies reopening. This thus coded as 2, there's some sub-national variation in the emergency measures. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
+https://www.garda.com/crisis24/news-alert-full-history/sqd227zbeYFtufCtT/switzerland-first-coronavirus-confirmed-in-ticino-canton-february-25
+https://www.swissinfo.ch/eng/covid-19-_-geneva-bans-gatherings-of-more-than-five-people-/45619940
+https://www.swissinfo.ch/eng/coronavirus-fallout_swiss-canton-orders-non-essential-industry-to-cease-production/45634594
 
 
 
@@ -580,13 +583,13 @@ https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The Swiss military has not been involved in enforcing emergency measures. 
 
 *Sources*:
-*No source provided*
+ http://euromil.org/armed-forces-and-covid-19/
 
 
 

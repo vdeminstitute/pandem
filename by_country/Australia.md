@@ -601,7 +601,7 @@ https://www.amnesty.org/en/search/?country=38345&resourceType=newsarticle&sort=d
  0. No. 
  1. Yes. 
 
-*Answer*: 1 
+*Answer*: 0 
 
 *Comments*:
  The military is involved in aiding law enforcement with enforcing measures, but it is made clear that they "will not be authorised as law enforcement officers as this remains the responsibility of the states and territories." Therefore, the military is not involved in enforcing the confinement measures as such. 

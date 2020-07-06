@@ -231,13 +231,14 @@ https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20637%20DEL%206%20D
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The measures have a national scope 
 
 *Sources*:
-*No source provided*
+ http://www.regiones.gov.co/Inicio/assets/files/51.pdf
+https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20637%20DEL%206%20DE%20MAYO%20DE%202020.pdf
 
 
 
@@ -594,7 +595,9 @@ https://www.eltiempo.com/colombia/otras-ciudades/en-video-policia-agrede-a-un-ho
 *No comment provided* 
 
 *Sources*:
- https://www.elpais.com.co/cali/autoridades-tendran-puntos-de-control-en-durante-cuarentena-por-coronavirus.html
+ https://www.infodefensa.com/latam/2020/03/25/noticia-paises-latinoamerica-despliegan-combatir-covid19.html
+https://www.elpais.com.co/cali/autoridades-tendran-puntos-de-control-en-durante-cuarentena-por-coronavirus.html
+https://www.infodefensa.com/latam/2020/06/23/noticia-ejercito-colombiano-primer-batallon-anticovid.html
 
 
 

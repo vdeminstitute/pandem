@@ -247,13 +247,14 @@ https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_p
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The emergency measures have been taken nationwide and no sub-national variation has been found in Norway. This is therefore coded as 0. 
 
 *Sources*:
-*No source provided*
+ https://www.garda.com/crisis24/news-alert-full-history/Lxd2u5XvrbqyRML3R/sweden-scandanavian-airlines-sas-suspends-all-flights-to-northern-italy-march-3
+https://www.acaps.org/covid19-government-measures-dataset
 
 
 
@@ -595,13 +596,14 @@ https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_p
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The Swedish military has aided the emergency response, but has not been involved in enforcing emergency measures. 
 
 *Sources*:
-*No source provided*
+ http://euromil.org/armed-forces-and-covid-19/
+http://euromil.org/wp-content/uploads/2020/04/Swedish-Armed-Forces-and-the-Corona-Pandemic.pdf
 
 
 

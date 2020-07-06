@@ -46,10 +46,16 @@ Time 2020-06-16
 *Answer*: Constitution (Article 120) 
 
 *Comments*:
-*No comment provided* 
+ "ARTICLE 120. STATE OF EMERGENCY
+   
+1.In the event of an imminent threat to the constitutional order, the Government shall declare a state of emergency and take measures appropriate in the situation and address the people thereon.
+2.In case of declaration of a state of emergency, a special sitting of the National Assembly shall be convened immediately by virtue of law.
+3.The National Assembly may, by majority vote of the total number of parliamentarians, terminate the state of emergency or cancel the implementation of measures prescribed by the legal regime of a state of emergency.
+4.The legal regime of a state of emergency shall be stipulated by a law adopted by majority vote of the total number of parliamentarians." (Constitute Project) 
 
 *Sources*:
  https://www.arlis.am/DocumentView.aspx?docid=140631
+https://www.constituteproject.org/constitution/Armenia_2015?lang=en
 
 
 
@@ -354,13 +360,14 @@ https://www.osce.org/representative-on-freedom-of-media/449098
 
 *Scale*: Date format. 
 
-*Answer*: 2020-03-24 
+*Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ The media measures were relaxed and made less severe from 24 March following consultations with media representatives;  the measures are in place for the duration of the state of emergency 
 
 *Sources*:
- https://www.e-gov.am/gov-decrees/item/33613/
+ https://cabmin.gov.az/az/document/4485/
+https://www.e-gov.am/gov-decrees/item/33613/
 https://www.osce.org/representative-on-freedom-of-media/449098
 https://rm.coe.int/armenia-reply-en-emergency-restrictions-force-media-to-suppress-indepe/16809e4ace
 
@@ -606,7 +613,7 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/armenia/
 *Answer*: 1) new survelliance law 2) postponed constitutional referendum 
 
 *Comments*:
- referendum (initially planned for 5 April 2020) to terminate mandates of sitting constitutional judges 
+ 1) "Armenia’s parliament on March 31, 2020 passed amendments giving the authorities very broad surveillance powers to use cellphone data for tracking coronavirus cases, Human Rights Watch said today. The amendments impose restrictions on the right to privacy and allow the authorities access to confidential medical information related to people exposed to the virus." 2) referendum (initially planned for 5 April 2020) to terminate mandates of sitting constitutional judges 
 
 *Sources*:
  1)

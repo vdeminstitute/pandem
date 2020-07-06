@@ -238,13 +238,13 @@ https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-pa
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The emergency measures have been taken nationwide and no sub-national variation has been found in Norway. This is therefore coded as 0. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
 
 
 
@@ -584,13 +584,14 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/norway/
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The Norwegian military is not involved in enforcing emergency measures. 
 
 *Sources*:
-*No source provided*
+ http://euromil.org/armed-forces-and-covid-19/
+https://forsvaret.no/en/nor-armed-forces-covid-19?fbclid=IwAR2D9HdCRcuQHhXH7VGC8eeLfEaBEUrZ1YMaWFpmqYN0-ibiRO-wOT0JXas
 
 
 

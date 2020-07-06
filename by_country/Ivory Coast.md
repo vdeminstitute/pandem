@@ -137,7 +137,7 @@ https://www.osac.gov/Country/CotedIvoire/Detail
 *Answer*: 0 
 
 *Comments*:
- In the Decree 2020-351 du 23 mars, 2020 whis declared a state of emergency, it mentions that this measure may be renewed if necessary, no limit date.  
+ In the Decree 2020-351 du 23 mars, 2020 which declared a state of emergency, it mentions that this measure may be renewed if necessary, no limit date.  
 All the sources also mention that the President did not specify the duration of these new measures.
 In the Law of 1969 on the state of emergency, it states that the decree declaring a state of emergency should specify its duration, but it does not do so.
 
@@ -192,7 +192,7 @@ https://www.fratmat.info/article/204668/Politique/Alassane
 *Answer*: 0 
 
 *Comments*:
- It is a not very clear. It looks more like the Parliament does not need to authorize on a state of emergency. The Constitution mentions:
+ It is not very clear. It looks more like the Parliament does not need to authorize on a state of emergency. The Constitution mentions:
 Article 73 • Should the institutions of the Republic......be interrupted, the President of the Republic takes the exceptional measures required by these circumstances, after consultation with the President of the National Assembly, President of the Senate and the President of the Constitutional Council. He informs the Nation thereof by message. Parliament meets without requiring to be convened. The end of the crisis is recognized by a message from the President of the Republic to the Nation.
 And Article 74 • The President of the Republic initiates legislation concurrently with the members of Parliament. He ensures the promulgation of laws within thirty days after the law definitively adopted has been submitted to him. This period is shortened to five days in the event of an emergency.
  

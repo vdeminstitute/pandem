@@ -238,13 +238,14 @@ https://www.parliament.nz/en/site-search?term=Covid-19
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The emergency measures have been taken nationwide and no sub-national variation has been found in New Zealand. This is therefore coded as 0. 
 
 *Sources*:
-*No source provided*
+ https://www.garda.com/crisis24/news-alert-full-history/mzyupTSAse7MPSwJx/new-zealand-first-coronavirus-case-confirmed-february-28
+https://www.acaps.org/covid19-government-measures-dataset
 
 
 
@@ -581,13 +582,14 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ The military has recently been given responsibility to "oversee the quarantine of new arrivals and audit the quarantine process" as the Guardian reports. Consequently, the military is involved in enforcing some emergency measures. 
 
 *Sources*:
-*No source provided*
+ https://www.theguardian.com/world/2020/jun/17/new-zealand-brings-in-military-after-covid-19-quarantine-fiasco
+https://www.aa.com.tr/en/asia-pacific/new-zealand-military-to-oversee-quarantine-measures/1879928
 
 
 

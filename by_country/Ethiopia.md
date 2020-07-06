@@ -45,14 +45,13 @@ https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en
 
 *Scale*: Character string. 
 
-*Answer*: State of emergency 
+*Answer*: Constitution of Ethiopia (Section 93) 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/330611/ethiopia-government-declares-state-of-emergency-due-to-covid-19-april-8-update-8
-
+ 
 https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en
 
 
@@ -70,7 +69,7 @@ https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en
 *Answer*: 2020-04-08 
 
 *Comments*:
-*No comment provided* 
+ Ethiopia declares a State of Emergency on April 8. 
 
 *Sources*:
  https://www.garda.com/crisis24/news-alerts/330611/ethiopia-government-declares-state-of-emergency-due-to-covid-19-april-8-update-8
@@ -91,7 +90,7 @@ https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en
 *Answer:* *No answer entered* 
 
 *Comments*:
- The state of emergency is expected to end in early september. Ethiopia is currently under a five-month state of emergency declared in early April. 
+ The state of emergency is expected to end September 8, based on the five months State of Emergency that started on April 8 2020. 
 
 *Sources*:
  https://www.garda.com/crisis24/news-alerts/330611/ethiopia-government-declares-state-of-emergency-due-to-covid-19-april-8-update-8
@@ -116,7 +115,7 @@ https://www.africanews.com/2020/05/19/ethiopia-s-coronavirus-rules-crowd-ban-fre
 *Answer*: 1 
 
 *Comments*:
- The state of emergency is expected to end in early september. Ethiopia is currently under a five-month state of emergency declared in early April. 
+ The state of emergency is expected to end September 8, based on the five months State of Emergency that started on April 8 2020. 
 
 *Sources*:
  
@@ -136,13 +135,14 @@ https://www.africanews.com/2020/05/19/ethiopia-s-coronavirus-rules-crowd-ban-fre
 
 *Scale*: Date format. 
 
-*Answer:* *No answer entered* 
+*Answer*: 2020-09-08 
 
 *Comments*:
-*No comment provided* 
+ Based on the five months State of Emergency that started on April 8 2020. 
 
 *Sources*:
-*No source provided*
+ https://www.garda.com/crisis24/news-alerts/330611/ethiopia-government-declares-state-of-emergency-due-to-covid-19-april-8-update-8
+
 
 
 
@@ -159,13 +159,13 @@ https://www.africanews.com/2020/05/19/ethiopia-s-coronavirus-rules-crowd-ban-fre
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ According to the constitution, section 93:2, a declaration of State of Emergency needs to be endorsed by the House of Peoples' Representatives within 48 hours, unless the House of Peoples' Representatives is not in session, then it need to be submitted to it within 15 days. 
 
 *Sources*:
-*No source provided*
+ https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en
 
 
 
@@ -182,13 +182,15 @@ https://www.africanews.com/2020/05/19/ethiopia-s-coronavirus-rules-crowd-ban-fre
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ The House of Peoples' Representatives endorsed the declaration of a State of Emergency on April 10. 
 
 *Sources*:
-*No source provided*
+ https://borkena.com/2020/04/10/ethiopian-house-of-representatives-endorsed-the-state-of-emergency/
+
+https://www.ethioembassy.org.uk/ethiopia-declares-state-of-emergency-to-curb-transmission-of-coronavirus/
 
 
 
@@ -362,13 +364,13 @@ https://globalfreedomofexpression.columbia.edu/publications/ethiopian-council-of
 
 *Scale*: Date format. 
 
-*Answer:* *No answer entered* 
+*Answer*: 2020-04-11 
 
 *Comments*:
-*No comment provided* 
+ Article 3:6 of the State of Emergency Declaration limits media freedom as it states: "Disseminating rumors or information that is likely to create confusion or panic among the public is prohibited." Article 4:5 also limits media freedom: "Government and private media shall ensure that information and news on COVID are not exaggerated or underreported, are sufficient and are not likely to create panic." This declaration went into effect on  April 11, 2020. 
 
 *Sources*:
-*No source provided*
+ https://globalfreedomofexpression.columbia.edu/publications/ethiopian-council-of-ministers-regulation-for-the-implementation-of-the-state-of-emergency/
 
 
 
@@ -382,13 +384,14 @@ https://globalfreedomofexpression.columbia.edu/publications/ethiopian-council-of
 
 *Scale*: Date format. 
 
-*Answer:* *No answer entered* 
+*Answer*: 2020-09-08 
 
 *Comments*:
-*No comment provided* 
+ Based on the five months State of Emergency that started on April 8 2020. 
 
 *Sources*:
-*No source provided*
+ https://www.garda.com/crisis24/news-alerts/330611/ethiopia-government-declares-state-of-emergency-due-to-covid-19-april-8-update-8
+
 
 
 
@@ -615,13 +618,15 @@ https://www.amnesty.org/en/countries/africa/ethiopia/
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ Neither the constitution (article 93), nor the Ethiopian Council of Ministers Regulations mention the army, military, defence- or security forces. There are also no news reports on the military being involved in lockdown enforcements. 
 
 *Sources*:
-*No source provided*
+ https://globalfreedomofexpression.columbia.edu/publications/ethiopian-council-of-ministers-regulation-for-the-implementation-of-the-state-of-emergency/
+
+https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en
 
 
 
@@ -635,7 +640,7 @@ https://www.amnesty.org/en/countries/africa/ethiopia/
 
 *Scale*: Character string. 
 
-*Answer:* *No answer entered* 
+*Answer*: Elections are postponed from august until september, causing upstir. 
 
 *Comments*:
  Elections are postponed from august until september, causing upstir. 

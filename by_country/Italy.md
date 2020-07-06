@@ -613,13 +613,14 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CF
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ Military personell has been deployed in Italy to help enforce emergency measures. 
 
 *Sources*:
-*No source provided*
+ https://www.washingtonpost.com/world/coronavirus-military-enforce-soldiers-armed-forces/2020/03/25/647cbbb6-6d53-11ea-a156-0048b62cdb51_story.html
+http://euromil.org/armed-forces-and-covid-19/
 
 
 

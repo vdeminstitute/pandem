@@ -134,7 +134,7 @@ https://www.bacn.gov.py/leyes-paraguayas/2399/ley-n-836-codigo-sanitario
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ No limit established 
 
 *Sources*:
 *No source provided*
@@ -235,7 +235,7 @@ https://www.infobae.com/america/america-latina/2020/04/03/el-parlamento-de-parag
 *Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The measures have a national scope 
 
 *Sources*:
  https://www.ip.gov.py/ip/covid-19/
@@ -592,6 +592,8 @@ https://www.amnesty.org/en/latest/news/2020/05/americas-authorities-must-protect
 
 *Sources*:
  https://www.ip.gov.py/ip/las-fuerzas-armadas-cuenta-con-buses-para-el-traslado-de-pasajeros/
+https://www.facebook.com/ejercitopy/posts/1653805504757424/
+
 
 
 

@@ -47,14 +47,8 @@ https://www.gacetaoficial.gob.cu/sites/default/files/goc-2020-ex25_0.pdf
 *Answer*: Decreto 139 de 22 de febrero de 1988 “Reglamento de la Ley de la Salud Pública” 
 
 *Comments*:
- El Decreto 139 de 22 de febrero de 1988 “Reglamento de la Ley
-de la Salud Pública”, establece en los artículos 125, 126 y 138 que frente a situaciones
-excepcionales a causa de epidemias que impliquen riesgos graves e inmediatos para la
-salud, el Ministerio de Salud Pública dictará las disposiciones sanitarias de cumplimiento
-obligatorio encaminadas a limitar los daños a la salud humana, a controlar o interrumpir
-la cadena epidemiológica en la transmisión de las enfermedades y mediante un sistema
-de vigilancia epidemiológica permanente, decidirá sobre bases objetivas y científicas las
-medidas sanitario-epidemiológicas a corto, medio o largo plazos con la finalidad de prevenir o controlar un problema de salud que dañe a la población. 
+ "El Decreto 139 de 22 de febrero de 1988 “Reglamento de la Ley de la Salud Pública”, establece en los artículos 125, 126 y 138 que frente a situaciones excepcionales a causa de epidemias que impliquen riesgos graves e inmediatos para la salud, el Ministerio de Salud Pública dictará las disposiciones sanitarias de cumplimiento obligatorio encaminadas a limitar los daños a la salud humana, a controlar o interrumpir la cadena epidemiológica en la transmisión de las enfermedades y mediante un sistema
+de vigilancia epidemiológica permanente, decidirá sobre bases objetivas y científicas las medidas sanitario-epidemiológicas a corto, medio o largo plazos con la finalidad de prevenir o controlar un problema de salud que dañe a la población." 
 
 *Sources*:
  http://juriscuba.com/wp-content/uploads/2015/10/Decreto-No.-139.pdf
@@ -137,7 +131,7 @@ medidas sanitario-epidemiológicas a corto, medio o largo plazos con la finalida
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ No limit established 
 
 *Sources*:
 *No source provided*
@@ -157,13 +151,13 @@ medidas sanitario-epidemiológicas a corto, medio o largo plazos con la finalida
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ Articles 108 and 110: it is a prerrogative of the Ministry of Health 
 
 *Sources*:
-*No source provided*
+ http://juriscuba.com/wp-content/uploads/2015/10/Decreto-No.-139.pdf
 
 
 
@@ -180,10 +174,10 @@ medidas sanitario-epidemiológicas a corto, medio o largo plazos con la finalida
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The law doesn't require legislative approval 
 
 *Sources*:
 *No source provided*
@@ -232,13 +226,14 @@ medidas sanitario-epidemiológicas a corto, medio o largo plazos con la finalida
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 2 
 
 *Comments*:
-*No comment provided* 
+ Some more restrictive measures have been implemented in cities with a higher number of cases 
 
 *Sources*:
-*No source provided*
+ http://www.cubadebate.cu/noticias/2020/05/30/prolongan-cuarentena-por-la-covid-19-en-poblado-de-ciego-de-avila/#.Xv9cPCgzbIU
+https://diariodecuba.com/cuba/1588083336_17725.html
 
 
 
@@ -583,13 +578,13 @@ https://www.hrw.org/americas/cuba
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ I only found evidence of the police monitoring the confinement measures. 
 
 *Sources*:
-*No source provided*
+ http://www.granma.cu/cuba-covid-19/2020-03-24/el-primer-secretario-del-pcc-y-el-presidente-activaron-los-consejos-de-defensa-en-el-pais-24-03-2020-01-03-10
 
 
 

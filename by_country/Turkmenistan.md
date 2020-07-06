@@ -568,10 +568,10 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/turkmenistan/
 *Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ No information found 
 
 *Sources*:
-*No source provided*
+ https://milligosun.gov.tm/
 
 
 

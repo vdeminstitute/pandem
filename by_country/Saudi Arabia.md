@@ -591,13 +591,14 @@ https://www.hrw.org/news?country[]=9647
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ According to sources found on this, Saudi Arabia has not deployed the military to enforce emergency measures. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
+https://themedialine.org/by-region/corona-as-security-threat-mideast-states-call-out-army/
 
 
 

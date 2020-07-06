@@ -238,13 +238,14 @@ https://www.garda.com/crisis24/news-alerts?https://www.garda.com/crisis24/news-a
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ Iran's emergency measures have been implemented nationwide by the government, and no sub-national variation in these measures have been found. This is therefore coded as 0. 
 
 *Sources*:
-*No source provided*
+ https://www.garda.com/crisis24/news-alert-full-history/N9NhpAJjGdQ34cnYX/iran-officials-suspend-flights-to-and-from-china-due-to-novel-coronavirus-as-of-january-31
+https://www.acaps.org/covid19-government-measures-dataset
 
 
 
@@ -595,13 +596,14 @@ https://www.amnesty.org/en/latest/news/2020/04/iran-prisoners-killed-by-security
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The Iranian military is in charge of much of the emergency measures in terms of planning and logistics, but no sources have been found stating that soldiers have been used to enforce measures themselves. This is therefore coded as 0. 
 
 *Sources*:
-*No source provided*
+ https://www.washingtonpost.com/outlook/2020/05/27/irans-strategy-fighting-covid-19-could-backfire/
+https://www.acaps.org/covid19-government-measures-dataset
 
 
 

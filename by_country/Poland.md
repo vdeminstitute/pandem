@@ -45,10 +45,10 @@ http://www.dziennikustaw.gov.pl/DU/2020/491
 
 *Scale*: Character string. 
 
-*Answer*: Act on preventing and combating infections and infectious diseases (5 December 2008) (Article 46, paragraph 2 and 4), amended by Act on specific solutions related to the prevention and combating COVID and other infectious diseases and crises they caused (2 March 2020) 
+*Answer*: Art. 46 ust. 2 i 4 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2019 r. poz. 1239 i 1495 oraz z 2020 r. poz. 284, 322 i 374) 
 
 *Comments*:
- Additional note: there are provisions in the Constitution for a state of natural disaster (Chapter 6, Article 228), where mass spread of infectious diseases is classified as natural disaster based on the Act on the state of natural disaster of 2002. Several sources mention that the reason the declaration of a state of epidemiological emergency was not based on the Constitution is because in that case it won't be possible to hold presidential elections, initially scheduled for 10 May 2020. 
+ Own translation: Act on preventing and combating infections and infectious diseases. Additional note: there are provisions in the Constitution for a state of natural disaster (Chapter 6, Article 228), where mass spread of infectious diseases is classified as natural disaster based on the Act on the state of natural disaster of 2002. Several sources mention that the reason the declaration of a state of epidemiological emergency was not based on the Constitution is because in that case it won't be possible to hold presidential elections, initially scheduled for 10 May 2020. 
 
 *Sources*:
  http://www.dziennikustaw.gov.pl/D2020000037401.pdf

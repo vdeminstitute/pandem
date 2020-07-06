@@ -263,13 +263,15 @@ https://www.parliament.uk/business/news/covid-19/
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ The emergency measures have been implemented across the UK and the response is more or less uniform. However, England has started some reopening that differs from other parts of the UK, such as opening school for some age groups and allowing a larger set of people to gather at the same place. However, the variation is relatively small, and this is therefore coded as 1. 
 
 *Sources*:
-*No source provided*
+ https://www.gov.uk/government/news/pm-six-people-can-meet-outside-under-new-measures-to-ease-lockdown
+https://www.garda.com/crisis24/news-alert-full-history/7Jh4PXSYFEpgJ6Mi2/uk-british-airways-to-reduce-flights-to-italy-singapore-and-south-korea-february-28
+https://www.acaps.org/covid19-government-measures-dataset
 
 
 
@@ -609,13 +611,14 @@ https://www.amnesty.org/en/search/?country=38510&resourceType=newsarticle&sort=d
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The British military has aided the emergency response in several ways, but have not been involved in enforcing emergency measures. 
 
 *Sources*:
-*No source provided*
+ http://euromil.org/armed-forces-and-covid-19/
+https://www.gov.uk/guidance/covid-support-force-the-mods-contribution-to-the-coronavirus-response
 
 
 

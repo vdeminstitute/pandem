@@ -229,13 +229,13 @@ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The measures have a national scope 
 
 *Sources*:
-*No source provided*
+ https://www.minfin.gob.gt/images/calamidad/documentos/Decreto%20No%205-2020%20-%20COVID-19.pdf
 
 
 
@@ -588,13 +588,13 @@ https://cnnespanol.cnn.com/video/guatemala-manuel-sagastume-covid19-coronavirus-
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://www.elpais.cr/2020/05/15/guatemaltecos-asumen-cuarentena-total-y-obligatoria-por-covid-19/
 
 
 

@@ -44,10 +44,10 @@ https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-ap
 
 *Scale*: Character string. 
 
-*Answer*: Civil Protection Act (Article 22a) 
+*Answer*: Zakon o sustavu civilne zaštite 
 
 *Comments*:
- According to Article 22a of the Civil Protection Act, the Civil Protection Headquarters can take measures to mitigate unforseen circumstances 
+ According to Article 22a of the Civil Protection Act (Zakon o sustavu civilne zaštite), the Civil Protection Headquarters can take measures to mitigate unforseen circumstances 
 
 *Sources*:
  https://vlada.gov.hr/UserDocsImages//Vijesti/2020/03%20o%C5%BEujak/18%20o%C5%BEujka//Odluka%20-%20mjere%20ograni%C4%8Davanja%20dru%C5%A1tvenih%20okupljanja,%20rada%20trgovina.pdf
@@ -591,7 +591,7 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25976&LangID=E
 *Answer*: 0 
 
 *Comments*:
- The military was involved with transporing patients and erecting a camp to accomodate infected patients (not with confinement maasures) 
+ The military was involved with transporing patients and erecting a camp to accomodate infected patients (not with confinement measures) 
 
 *Sources*:
  http://euromil.org/armed-forces-and-covid-19/

@@ -588,13 +588,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_p
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The German military has been used to aid in a number of health and logistics measures, but have not been used to enforce emergency measures. 
 
 *Sources*:
-*No source provided*
+ http://euromil.org/armed-forces-and-covid-19/
 
 
 

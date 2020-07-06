@@ -601,7 +601,8 @@ https://www.hrw.org/americas/chile
 *No comment provided* 
 
 *Sources*:
- https://lta.reuters.com/articulo/salud-coronavirus-chile-patrullas-idLTAKBN23J358-OUSLT
+ https://www.infodefensa.com/latam/2020/03/25/noticia-paises-latinoamerica-despliegan-combatir-covid19.html
+https://lta.reuters.com/articulo/salud-coronavirus-chile-patrullas-idLTAKBN23J358-OUSLT
 https://www.diariooficial.interior.gob.cl/publicaciones/2020/03/18/42607-B/01/1742691.pdf
 
 

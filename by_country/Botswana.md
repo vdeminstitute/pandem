@@ -241,10 +241,12 @@ https://www.constituteproject.org/constitution/Botswana_2016?lang=en
 *Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The regulations apply to the wole of Botswana, accordig to section 3 in the  Emergency Powers Covid-19 Regulations 2020. 
 
 *Sources*:
-*No source provided*
+ https://bw.usembassy.gov/wp-content/uploads/sites/125/Emergency-Powers-COVID-19-Regulations-2020.pdf
+
+https://ifex.org/covid-19-in-africa-right-to-information-another-casualty-with-spike-in-attacks-on-journalists/
 
 
 
@@ -356,13 +358,13 @@ https://www.amnesty.org/en/search/?country=38571&resourceType=newsarticle&sort=d
 
 *Scale*: Date format. 
 
-*Answer:* *No answer entered* 
+*Answer*: 2020-04-02 
 
 *Comments*:
-*No comment provided* 
+ Based on the publication date of the Emergency Powers Covid-19 Regulations 2020, which state sthe media limitations in section 30(3). 
 
 *Sources*:
-*No source provided*
+ https://bw.usembassy.gov/wp-content/uploads/sites/125/Emergency-Powers-COVID-19-Regulations-2020.pdf
 
 
 
@@ -376,13 +378,15 @@ https://www.amnesty.org/en/search/?country=38571&resourceType=newsarticle&sort=d
 
 *Scale*: Date format. 
 
-*Answer:* *No answer entered* 
+*Answer*: 2020-10-09 
 
 *Comments*:
-*No comment provided* 
+ Based on six months from the parliamentary decision to extend the State of Emergency for a six month period, and section 3 in the Emergency Powers Covid-19 Regulations 2020, declaring that the media limitations last for the duration of the State of Emergency. 
 
 *Sources*:
-*No source provided*
+ https://reports.unocha.org/en/country/southern-eastern-africa/card/4zXxeVEkYW/
+
+http://www.dailynews.gov.bw/news-details.php?nid=55561
 
 
 
@@ -621,13 +625,16 @@ https://www.amnesty.org/en/search/?country=38571&resourceType=newsarticle&sort=d
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ According to section 2 of the Emergency Powers Covid-19 Regulations 2020, "“law enforcement officer” means any member of the Botswana Police Service, Botswana Prison Service, [or] Botswana Defence Force...". According to news media, it appears to be the case thet the military has been tasked with enforcing lockdown. 
 
 *Sources*:
-*No source provided*
+ https://www.voanews.com/covid-19-pandemic/botswanas-capital-city-back-covid-19-lockdown
+
+https://bw.usembassy.gov/wp-content/uploads/sites/125/Emergency-Powers-COVID-19-Regulations-2020.pdf
+
 
 
 

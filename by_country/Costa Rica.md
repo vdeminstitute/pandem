@@ -131,7 +131,7 @@ http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?n
 *Answer:* *No answer entered* 
 
 *Comments*:
- There is no limit date. 
+ No limit established 
 
 *Sources*:
 *No source provided*
@@ -154,7 +154,7 @@ http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?n
 *Answer*: 0 
 
 *Comments*:
- Declaring a state of emergency is a prerogative of the executive and it doesn't require legislative approval 
+ Art. 3: "State of emergency: Declaration of the Executive Power, via executive decree, based on a state of need and urgency, caused by circumstances of war, internal commotion and public calamity." 
 
 *Sources*:
  http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=56178
@@ -583,7 +583,6 @@ https://www.lateja.cr/sucesos/video-seguridad-investiga-supuestos-disparos-al/HW
 
 *Sources*:
  https://www.ministeriodesalud.go.cr/sobre_ministerio/prensa/decretos_cvd/decreto_ejecutivo_42227_mp_s_declaratoria_emergencia_nacional.pdf
-https://www.reuters.com/article/us-health-coronavirus-peru-army/peru-calls-up-10000-army-reserves-to-enforce-quarantine-idUSKBN21J69A
 
 
 

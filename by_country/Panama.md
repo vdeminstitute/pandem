@@ -153,10 +153,10 @@ http://minsa.b-cdn.net/sites/default/files/general/decreto_ejecutivo_507_de_24_d
 *Answer*: 0 
 
 *Comments*:
- Executive decree, it doesn't require legislative approval 
+ Art. 85: Attributions and duty of the National Department of Public Health 
 
 *Sources*:
- http://minsa.b-cdn.net/sites/default/files/general/decreto_ejecutivo_507_de_24_de_marzo_de_2020.pdf
+ https://extranet.who.int/nutrition/gina/sites/default/files/PAN%20Codigo%20Sanitario.pdf
 
 
 

@@ -250,13 +250,15 @@ https://www.garda.com/crisis24/news-alert-full-history/pX7cDbbneik6HZj4a/israelp
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The emergency measures have been taken nationwide and no sub-national variation has been found in Israel. This is therefore coded as 0. 
 
 *Sources*:
-*No source provided*
+ https://www.garda.com/crisis24/news-alert-full-history/pX7cDbbneik6HZj4a/israelpalestinian-terr-el-al-suspends-all-flights-to-china-due-to-novel-coronavirus-january-30
+https://www.acaps.org/covid19-government-measures-dataset
+https://www.garda.com/crisis24/news-alert-full-
 
 
 
@@ -604,13 +606,15 @@ https://www.middleeasteye.net/news/corona§virus-protest-jaffa-covid-19-restrict
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ Military personell has been deployed in Israel to help enforce emergency measures. 
 
 *Sources*:
-*No source provided*
+ https://www.timesofisrael.com/idf-500-armed-soldiers-to-join-police-in-enforcing-coronavirus-restrictions/
+https://www.haaretz.com/israel-news/netanyahu-announces-enforcement-of-emergency-measures-to-ensure-coronavirus-lockdown-1.8693660
+https://www.deccanherald.com/international/coronavirus-israel-to-use-military-to-help-enforce-covid-19-lockdown-818220.html
 
 
 

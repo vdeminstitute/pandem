@@ -43,10 +43,10 @@ Time 2020-06-08
 
 *Scale*: Character string. 
 
-*Answer*: Constitution (Articles 100, 170, 174, point 1, and 175, point 2),  Law No. 45/2019, "On Civil Protection" (points 1 in article 18, article 19,  article 39) 
+*Answer*: Constitution (Articles 100, 170, 174, point 1, and 175, point 2), shkronjës “ç”, të nenit 18, të pikës 1, të nenit 19, dhe të pikës 1, të nenit 39, të ligjit nr.45/2019, “Për mbrojtjen civile” 
 
 *Comments*:
-*No comment provided* 
+ own English translation of "shkronjës “ç”, të nenit 18, të pikës 1, të nenit 19, dhe të pikës 1, të nenit 39, të ligjit nr.45/2019, “Për mbrojtjen civile”": Law No. 45/2019, "On Civil Protection" (points 1 in article 18, article 19,  article 39) 
 
 *Sources*:
  https://www.kryeministria.al/newsroom/vendim-i-keshillit-te-ministrave-date-24-mars-2020/

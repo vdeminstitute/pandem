@@ -44,13 +44,14 @@ Time 2020-06-17
 
 *Scale*: Character string. 
 
-*Answer:* *No answer entered* 
+*Answer*: State of Emergency  
 
 *Comments*:
-*No comment provided* 
+ A state of emergency was declared April 9 2020. 
 
 *Sources*:
-*No source provided*
+ https://www.emansion.gov.lr/doc/ADDRESS%20TO%20THE%20NATION.pdf
+
 
 
 
@@ -64,13 +65,14 @@ Time 2020-06-17
 
 *Scale*: Date format. 
 
-*Answer:* *No answer entered* 
+*Answer*: 2020-04-09 
 
 *Comments*:
-*No comment provided* 
+ A state of emergency was declared April 9 2020. 
 
 *Sources*:
-*No source provided*
+ https://www.emansion.gov.lr/doc/ADDRESS%20TO%20THE%20NATION.pdf
+
 
 
 
@@ -138,13 +140,20 @@ https://allafrica.com/stories/202006080308.html
 
 *Scale*: Date format. 
 
-*Answer:* *No answer entered* 
+*Answer*: 2020-06-21 
 
 *Comments*:
-*No comment provided* 
+ "The President of the 
+Republic, Dr. George Manneh Weah has said that the state of emergency which is due to expire on June 9, 2020 will not be renewed."
+
+"The Ministry of Justice has clarified that the June 9 date contained in the Executive Mansion press release as the stipulated date ending the state of emergency was an error. ... the effective date of the commencement of the 60-day state of emergency was April 21, therefore, the official expiration would be June 21, contrary to the June 9 mentioned in the Executive Mansion press release." 
 
 *Sources*:
-*No source provided*
+ 
+
+https://www.emansion.gov.lr/2press.php?news_id=5159&related=7&pg=sp
+
+https://allafrica.com/stories/202006080308.html
 
 
 
@@ -161,13 +170,13 @@ https://allafrica.com/stories/202006080308.html
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ According to article 88 of the Liberian constitution, the legislature needs to approve the declaration of a Sate of Emergency by the President, within 72 hours, or the declaration is automatically revoked. 
 
 *Sources*:
-*No source provided*
+ https://www.constituteproject.org/constitution/Liberia_1986?lang=en
 
 
 
@@ -184,13 +193,15 @@ https://allafrica.com/stories/202006080308.html
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ The legislature approved the State of Emergency declared by the president, and extended it to 60 days instead of 21. 
 
 *Sources*:
-*No source provided*
+ https://allafrica.com/stories/202004180007.html
+
+https://www.liberianobserver.com/news/untitled-1009/
 
 
 
@@ -238,13 +249,15 @@ http://www.liberlii.org/cgi-bin/disp.pl/lr/legis/codes/elt12lcolr429/elt12lcolr4
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The measures apply to all of Liberia. 
 
 *Sources*:
-*No source provided*
+ https://www.emansion.gov.lr/2press.php?news_id=5159&related=7&pg=sp
+
+https://www.emansion.gov.lr/doc/ADDRESS%20TO%20THE%20NATION.pdf
 
 
 
@@ -358,13 +371,21 @@ https://rsf.org/en/news/liberian-official-threatens-close-media-under-state-emer
 
 *Scale*: Date format. 
 
-*Answer:* *No answer entered* 
+*Answer*: 2020-04-01 
 
 *Comments*:
-*No comment provided* 
+ The exact date was not found. According to instructions in the codebook, the first day of the month was instead entered. 
 
 *Sources*:
-*No source provided*
+ https://cpj.org/2020/05/liberias-journalists-wary-as-authorities-announce/
+
+https://www.constituteproject.org/constitution/Liberia_1986?lang=en
+
+https://rsf.org/en/news/covid-19-lockdown-forces-liberias-newspapers-suspend-printing-0
+
+https://newspublictrust.com/solicitor-general-vows-to-crack-down-on-media-over-fake-news/
+
+https://rsf.org/en/news/liberian-official-threatens-close-media-under-state-emergency
 
 
 
@@ -378,13 +399,17 @@ https://rsf.org/en/news/liberian-official-threatens-close-media-under-state-emer
 
 *Scale*: Date format. 
 
-*Answer:* *No answer entered* 
+*Answer*: 2020-06-21 
 
 *Comments*:
-*No comment provided* 
+ The media limitations are made under the authority of the declaration of State of Emergency (articles 85, 86, 87, and 88 of the constitution), which allows the President to "suspend or affect certain rights, freedoms and guarantees" during a State of Emergency. The date is the end date for the State of Emergency declaration (variable emlimitdate). 
 
 *Sources*:
-*No source provided*
+ 
+
+https://www.emansion.gov.lr/2press.php?news_id=5159&related=7&pg=sp
+
+https://allafrica.com/stories/202006080308.html
 
 
 
@@ -629,13 +654,15 @@ https://www.bbc.com/news/topics/c77jz3md70rt/liberia
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The Liberian lockdown is enforced by police. There are no reports indicating that the military would be involved in lockdown enforcement. 
 
 *Sources*:
-*No source provided*
+ https://www.reuters.com/article/health-coronavirus-liberia/liberia-coronavirus-lockdown-off-to-chaotic-start-idUSL5N2C00BN
+
+https://www.bbc.com/news/topics/c77jz3md70rt/liberia
 
 
 

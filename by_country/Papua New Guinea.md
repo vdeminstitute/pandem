@@ -614,13 +614,13 @@ https://www.amnesty.org/en/search/?country=38395&resourceType=newsarticle&sort=d
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ ACAPS state that "a range of PNG military personnel have been deployed to the border provinces this week to bolster security on their side of the division. 125 PNG Defence Force personnel were deployed to Sandaun to station at three border points, Wutung, Bewani/Schotiao and Green River, yesterday. More than twenty more troops were expected to join them by today.". This is therefore coded as 1. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
 
 
 

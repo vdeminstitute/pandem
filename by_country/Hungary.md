@@ -370,7 +370,7 @@ https://www.theguardian.com/world/2020/apr/03/hungarian-journalists-fear-coronav
 *Answer*: 2020-06-17 
 
 *Comments*:
- For the duration of the state of emergency that was lifted on 17 June 2020. 
+ For the duration of the state of emergency that was lifted on 17 June 2020. The law on misinformation (see melim) was added to the Penal Code and was declared not unconstitutional by the Constitutional Court, meaning that it would apply if a state of emergency is declared again. 
 
 *Sources*:
  https://net.jogtar.hu/jogszabaly?docid=A2000282.KOR&searchUrl=/gyorskereso%3Fkeyword%3D282/2020
@@ -378,6 +378,8 @@ https://www.bbc.com/news/world-europe-53062177
 https://www.euronews.com/2020/06/16/hungary-debates-end-to-emergency-powers-but-new-law-opens-up-potential-to-re-apply-them
 https://net.jogtar.hu/jogszabaly?docid=A2000283.KOR&searchUrl=/gyorskereso%3Fkeyword%3D283/2020
 https://njt.hu/translated/doc/J2020R0283K_20200618_FIN.pdf
+https://www.alkotmanybirosag.hu/kozlemeny/nem-alaptorveny-ellenes-a-remhirterjesztessel-kapcsolatos-uj-kulonleges-jogrendben-alkalmazando-buntetojogi-szabalyozas
+https://alkotmanybirosag.hu/dontes/ab-hatarozat-alkotmanyjogi-panasz-elutasitasarol-9
 
 
 
@@ -625,7 +627,7 @@ https://www.kormany.hu/hu/honvedelmi-miniszterium/parlamenti-allamtitkarsag/hire
 *Answer*: postponed elections 
 
 *Comments*:
- Elections are postpones for the duration of the state of emergency (potentially indefinitely) 
+*No comment provided* 
 
 *Sources*:
- https://www.parlament.hu/irom41/09790/09790.pdf
+*No source provided*

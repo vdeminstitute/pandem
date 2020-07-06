@@ -248,13 +248,14 @@ https://www.constituteproject.org/constitution/Jordan_2016.pdf?lang=en
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ Jordan's emergency measures have been implemented nationally, but some regions (Aqaba, Irbid, Karak, Ma’an, Mafraq and Tafila) have eased their lockdowns more than other regions. This is thus a smaller sub-national variation, and coded as 1. 
 
 *Sources*:
-*No source provided*
+ https://www.garda.com/crisis24/news-alert-full-history/NFhXD4B95qP4aB2vu/jordan-quarantine-and-screening-measures-implemented-nationwide-february-2
+https://www.acaps.org/covid19-government-measures-dataset
 
 
 
@@ -605,13 +606,13 @@ https://www.amnesty.org/en/search/?country=38539&resourceType=newsarticle&sort=d
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ Military personell has been deployed in Jordan to enforce emergency measures. 
 
 *Sources*:
-*No source provided*
+ https://www.washingtonpost.com/world/coronavirus-military-enforce-soldiers-armed-forces/2020/03/25/647cbbb6-6d53-11ea-a156-0048b62cdb51_story.html
 
 
 

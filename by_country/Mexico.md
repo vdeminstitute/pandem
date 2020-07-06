@@ -231,13 +231,15 @@ http://dof.gob.mx/nota_detalle.php?codigo=5590745&fecha=30/03/2020
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 3 
 
 *Comments*:
-*No comment provided* 
+ Some measures have a national scope, but local governments can also define their own measures 
 
 *Sources*:
-*No source provided*
+ https://www.infobae.com/america/mexico/2020/06/20/gobernadores-de-ocho-estados-solicitaron-a-amlo-suspender-megaobras-y-usar-los-recursos-en-contra-del-coronavirus/
+https://politica.expansion.mx/estados/2020/04/21/que-implica-la-fase-3-coronavirus-medidas-edomex-guanajuato-valle-de-mexico
+https://www.xataka.com.mx/medicina-y-salud/yucatan-primer-estado-mexico-que-te-dara-tres-anos-carcel-tienes-covid-19-no-cumples-cuarentena
 
 
 
@@ -587,13 +589,14 @@ https://www.efe.com/efe/espana/sociedad/la-ira-ante-brutalidad-policial-llega-a-
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The armed forces are in the streets due to an increase in crime rates, but not to enforce confinement measures 
 
 *Sources*:
-*No source provided*
+ https://www.elmundo.es/internacional/2020/05/11/5eb9a3c421efa0486f8b45c7.html
+https://www.bbc.com/mundo/noticias-america-latina-52657194
 
 
 
@@ -610,7 +613,7 @@ https://www.efe.com/efe/espana/sociedad/la-ira-ante-brutalidad-policial-llega-a-
 *Answer*: There are several reports of essencial workers, especially medical workers, being attacked by the population 
 
 *Comments*:
- https://cdmx.gob.mx/portal/articulo/cierre-de-centros-comerciales-por-emergencia-sanitaria 
+*No comment provided* 
 
 *Sources*:
  https://www.bbc.com/mundo/noticias-america-latina-52319044

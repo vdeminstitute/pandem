@@ -582,7 +582,7 @@ https://www.amnesty.org/en/latest/news/2020/04/southern-africa-government-interv
 *Answer*: 0 
 
 *Comments*:
- The presidential decree forsees that the armed forces can be used to enforce the emergency measures (article 31/page 432), but I did not find evidence that they have been active so far 
+ The presidential decree forsees that the armed forces can be used to enforce the emergency measures (article 31/page 432), but I did not find evidence that they are doing so. 
 
 *Sources*:
  https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
@@ -602,7 +602,7 @@ https://www.amnesty.org/en/latest/news/2020/04/southern-africa-government-interv
 *Answer*: The government approved a law (Lei 2/2020, de 6 de Abril) that pardons crimes punishable by up to one year in prison to prevent the spread of the new coronavirus in prisons (there are exceptions for violent crimes). 
 
 *Comments*:
- Page 421 
+*No comment provided* 
 
 *Sources*:
  https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf

@@ -49,7 +49,7 @@ https://www.constituteproject.org/constitution/Eritrea_1997?lang=en
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as no legal instrument (variable emlaw) was used. 
 
 *Sources*:
 *No source provided*
@@ -69,7 +69,7 @@ https://www.constituteproject.org/constitution/Eritrea_1997?lang=en
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as no legal instrument (variable emlaw) was used. 
 
 *Sources*:
 *No source provided*
@@ -132,7 +132,7 @@ https://www.constituteproject.org/constitution/Eritrea_1997?lang=en
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as no legal instrument (variable emlaw) was used. 
 
 *Sources*:
 *No source provided*
@@ -155,7 +155,7 @@ https://www.constituteproject.org/constitution/Eritrea_1997?lang=en
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as no legal instrument (variable emlaw) was used. 
 
 *Sources*:
 *No source provided*
@@ -178,7 +178,7 @@ https://www.constituteproject.org/constitution/Eritrea_1997?lang=en
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as no legal instrument (variable emlaw) was used. 
 
 *Sources*:
 *No source provided*
@@ -228,13 +228,15 @@ https://www.constituteproject.org/constitution/Eritrea_1997?lang=en
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The guidelines apply to all of Eritrea. 
 
 *Sources*:
-*No source provided*
+ http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
+
+https://www.garda.com/crisis24/coronavirus-updates?referer=map
 
 
 
@@ -344,7 +346,7 @@ http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as there are no de-jure limitations on media freedom (variable melim). 
 
 *Sources*:
 *No source provided*
@@ -364,7 +366,7 @@ http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as there are no de-jure limitations on media freedom (variable melim). 
 
 *Sources*:
 *No source provided*

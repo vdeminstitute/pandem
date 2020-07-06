@@ -339,7 +339,7 @@ http://www.gacetaoficialdebolivia.gob.bo/normas/buscar_comp/(COVID-19)/page:1
 *Answer*: 2020-03-25 
 
 *Comments*:
- Decreto Supremo n. 4200 
+ Decreto Supremo n. 4200, article 13 
 
 *Sources*:
  http://www.gacetaoficialdebolivia.gob.bo/normas/buscar_comp/(COVID-19)/page:1
@@ -592,7 +592,10 @@ https://www.hrw.org/americas/bolivia
 *No comment provided* 
 
 *Sources*:
- https://www.infodefensa.com/latam/2020/04/15/noticia-bolivia-presentan-balance-actuacion-durante-emergencia.html
+ https://www.infodefensa.com/latam/2020/03/25/noticia-paises-latinoamerica-despliegan-combatir-covid19.html
+https://www.infodefensa.com/latam/2020/04/15/noticia-bolivia-presentan-balance-actuacion-durante-emergencia.html
+https://www.infodefensa.com/latam/2020/04/29/noticia-bolivia-presentan-contingencia-sobre-cuarentena.html
+https://elpais.com/internacional/2020-03-26/el-gobierno-de-bolivia-extiende-la-cuarentena-y-amenaza-a-quien-la-incumpla-con-hasta-10-anos-de-carcel.html
 
 
 

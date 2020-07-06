@@ -233,13 +233,13 @@ https://www.asamblea.gob.sv/sites/default/files/documents/decretos/5DCA733A-30C1
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The measures have a national scope 
 
 *Sources*:
-*No source provided*
+ https://imprentanacional.gob.sv/compilacion-de-decretos-de-emergencia-por-covid-19/
 
 
 
@@ -589,13 +589,15 @@ https://covid19.gob.sv/cuidate-formas-de-prevencion/
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://www.france24.com/es/20200212-el-salvador-bukele-acata-la-decisi%C3%B3n-del-supremo-pese-a-criticarla
+https://www.bbc.com/mundo/noticias-america-latina-52319351
+
 
 
 

@@ -67,7 +67,7 @@ https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legisla
 *Answer*: 2020-03-27 
 
 *Comments*:
- Decreto Presidencial n.º 81/20, de 25 de março (page 74) 
+*No comment provided* 
 
 *Sources*:
  https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf

@@ -45,10 +45,10 @@ https://www.constituteproject.org/constitution/Ukraine_2016?lang=en
 
 *Scale*: Character string. 
 
-*Answer*: Code of Civil Protection (Article 14, part 2 of Article 78) 
+*Answer*: KODEKS TSYVILʹNOHO ZAKHYSTU UKRAYINY 
 
 *Comments*:
-*No comment provided* 
+ Own translation: Code of Civil Protection (Article 14, part 2 of Article 78) 
 
 *Sources*:
  https://zakon.rada.gov.ua/laws/show/5403-17?lang=en

@@ -586,13 +586,13 @@ https://www.hrw.org/americas/dominican-republic
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://coronavirusrd.gob.do/2020/04/26/listado-de-medidas-rd-vs-covid-19/
 
 
 

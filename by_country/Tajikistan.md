@@ -175,7 +175,7 @@ Time 2020-06-09
 *Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ Not required by law 
 
 *Sources*:
  http://www.president.tj/ru/node/23055
@@ -564,10 +564,10 @@ https://www.hrw.org/europe/central-asia/tajikistan
 *Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ No information found 
 
 *Sources*:
-*No source provided*
+ https://vkd.tj/
 
 
 

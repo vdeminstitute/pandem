@@ -599,7 +599,7 @@ https://www.amnesty.org/en/search/?q=&sort=date&country=38334&resourceType=newsa
  0. No. 
  1. Yes. 
 
-*Answer*: 1 
+*Answer*: 0 
 
 *Comments*:
  FEMA, who is in charge of managing and overseeing a lot of the national emergency, has not deployed the military or used the military to enforce any confinement measures. However, states have the opportunity to use the National Guard to enforse such measures, and some states have. But these are not part of the military branch per se, as far as I've understood it. 

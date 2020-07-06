@@ -44,10 +44,10 @@ http://www.president.kg/ru/sobytiya/ukazy/16383_podpisan_ukaz_ovvedenii_chrezvic
 
 *Scale*: Character string. 
 
-*Answer*: Constitution (Article 64, Chapter 9, Point 2), Constitutional law on states of emergency (Articles 3,4 and 7) 
+*Answer*: Constitution (Article 64, Chapter 9, Point 2), konstitutsionnyy Zakon Kyrgyzskoy Respubliki „O chrezvychaynom polozhenii“ 
 
 *Comments*:
-*No comment provided* 
+ own translation: Constitutional law on states of emergency (Articles 3,4 and 7) 
 
 *Sources*:
  http://www.president.kg/ru/sobytiya/ukazy/16382_podpisan_ukaz_ovvedenii_chrezvichaynogo_pologheniya_naterritorii_goroda_bishkek_kirgizskoy_respubliki
@@ -181,7 +181,7 @@ http://www.president.kg/ru/sobytiya/16626_prezident_sooronbay_gheenbekov_9_maya_
 *Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ The parliament approved the state of emergency on 24 March. 
 
 *Sources*:
  http://www.kenesh.kg/ru/news/show/9878/zhogorku-kenesh-utverdil-ukazi-prezidenta-kr-o-vvedenii-chrezvichaynogo-polozheniya

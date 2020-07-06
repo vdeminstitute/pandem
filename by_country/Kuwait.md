@@ -635,7 +635,7 @@ https://www.garda.com/crisis24/news-alerts/338716/kuwait-police-forcibly-dispers
  0. No. 
  1. Yes. 
 
-*Answer*: 0 
+*Answer*: 1 
 
 *Comments*:
  One article rom the Kuwait News Agency (the state news agency) on May 31 report that the military is used to secure that quarantines are held in certain neighbourhoods and that residents do not travel outside these neighbourhoods. This is the only report on the military i have found that show their involvement in enforcing emergency measures. 

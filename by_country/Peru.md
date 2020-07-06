@@ -585,10 +585,12 @@ https://www.hrw.org/news/2020/05/12/peru-law-protects-abusive-policing
 *Answer*: 1 
 
 *Comments*:
- Article 10 established the use of the armed forces in national territory 
+ Decreto Supremo Nº 044-2020-PCM: Article 10 established the use of the armed forces in national territory. 
 
 *Sources*:
- https://cdn.www.gob.pe/uploads/document/file/566448/DS044-PCM_1864948-2.pdf
+ https://www.infodefensa.com/latam/2020/03/25/noticia-paises-latinoamerica-despliegan-combatir-covid19.html
+https://cdn.www.gob.pe/uploads/document/file/566448/DS044-PCM_1864948-2.pdf
+https://www.reuters.com/article/us-health-coronavirus-peru-army/peru-calls-up-10000-army-reserves-to-enforce-quarantine-idUSKBN21J69A
 
 
 

@@ -257,13 +257,15 @@ https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The emergency measures have been taken nationwide and no sub-national variation has been found in Laos. This is therefore coded as 0. 
 
 *Sources*:
-*No source provided*
+ https://www.garda.com/crisis24/news-alert-full-history/QdgTsHwDr2kJ9R5FC/laos-lao-airlines-to-suspend-flight-to-south-korea-from-march
+https://www.acaps.org/covid19-government-measures-dataset
+
 
 
 
@@ -606,13 +608,14 @@ https://www.amnesty.org/en/search/?country=38369&resourceType=newsarticle&sort=d
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ The Laotian military has been given responsibility to, together with the police, enforce emergency measures like limiting public gatherings, closing public transportaion, and closing the border. 
 
 *Sources*:
-*No source provided*
+ https://la.usembassy.gov/health-and-travel-alert-u-s-embassy-vientiane-laos-march-29-2020/
+https://www.acaps.org/covid19-government-measures-dataset
 
 
 

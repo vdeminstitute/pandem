@@ -44,10 +44,10 @@ https://rm.coe.int/09000016809cee30
 
 *Scale*: Character string. 
 
-*Answer*: Article 100 of the Constitution (Article 93, paragraph 1), Emergency Ordinance of Government no. 1/1999 (Article 3 and Article 10), approved with modifications and additions by Law no. 453/2004 
+*Answer*: Constitution (Article 93, paragraph 1, Article 100), ORDONANȚA DE URGENȚĂ nr. 1 din 21 ianuarie 1999 
 
 *Comments*:
-*No comment provided* 
+ Own translation: Emergency Ordinance of Government no. 1/1999 (Article 3 and Article 10), approved with modifications and additions by Law no. 453/2004 
 
 *Sources*:
  https://rm.coe.int/09000016809cee30
@@ -352,10 +352,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 *Answer*: 2020-03-16 
 
 *Comments*:
-*No comment provided* 
+ For the duration of the state of emergency 
 
 *Sources*:
-*No source provided*
+ http://legislatie.just.ro/Public/DetaliiDocument/223831
 
 
 
@@ -372,10 +372,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 *Answer*: 2020-05-14 
 
 *Comments*:
-*No comment provided* 
+ For the duration of the state of emergency 
 
 *Sources*:
-*No source provided*
+ http://legislatie.just.ro/Public/DetaliiDocumentAfis/224849
 
 
 

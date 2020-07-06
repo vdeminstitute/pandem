@@ -227,13 +227,14 @@ http://www.congresonacional.hn/
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 2 
 
 *Comments*:
-*No comment provided* 
+ At first the measures were the same, but the government began an "inteligent reopening" with different phases in which cities with a smaller number of cases are allowed to lift the restrictive measures. 
 
 *Sources*:
-*No source provided*
+ https://www.laprensa.hn/honduras/1388142-410/cierran-mercados-honduras-focos-contagio-covid-19-
+https://www.diez.hn/coronavirus/1388127-441/segunda-fase-apertura-inteligente-reactivacion-economica-suspenso-coronavirus-honduras
 
 
 
@@ -336,7 +337,7 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 *Answer*: 2020-03-16 
 
 *Comments*:
-*No comment provided* 
+ The government, via the decree PCM-021-2020 suspended the article 72 of the contistution, that guarantees press freedom. However, due to public preasure, it changed the decision via the decree PCM-022-2020. 
 
 *Sources*:
  http://www.consejosecretariosdeestado.gob.hn/content/suspenci%C3%B3n-de-garant%C3%ADas-constitucionales
@@ -356,7 +357,7 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 *Answer*: 2020-03-21 
 
 *Comments*:
-*No comment provided* 
+ The government, via the decree PCM-021-2020 suspended the article 72 of the contistution, that guarantees press freedom. However, due to public preasure, it changed the decision via the decree PCM-022-2020. 
 
 *Sources*:
  http://www.consejosecretariosdeestado.gob.hn/system/files_force/PCM%20022-2020.pdf

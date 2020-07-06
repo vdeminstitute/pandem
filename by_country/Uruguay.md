@@ -155,10 +155,10 @@ https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/lacalle-medidas
 *Answer*: 0 
 
 *Comments*:
- Executive decree, it doesn't require legislative approval 
+ Article 2: it is a responsability of the ministry of public health 
 
 *Sources*:
- https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
+ https://www.impo.com.uy/bases/leyes/9202-1934
 
 
 
@@ -580,7 +580,7 @@ https://www.amnesty.org/en/search/?q=&sort=date&issue=67596&country=38332&resour
 *Answer*: 0 
 
 *Comments*:
- No confinement measures 
+ There are no national confinement measures. 
 
 *Sources*:
  https://www.bbc.com/mundo/noticias-52928601

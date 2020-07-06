@@ -43,14 +43,15 @@ Time 2020-06-22
 
 *Scale*: Character string. 
 
-*Answer*: Constitutional Law No. 227/2002 (Article 5) 
+*Answer*: 227/2002 ÚSTAVNÝ ZÁKON z 11. apríla 2002 o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu 
 
 *Comments*:
-*No comment provided* 
+ Own translation: Constitutional Law No. 227/2002 (Article 5) 
 
 *Sources*:
  https://rokovania.gov.sk/RVL/Resolution/18252/1
 https://www.mosr.sk/data/files/602.pdf
+https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2002/227/20160102.html
 
 
 
@@ -599,7 +600,7 @@ https://www.hrw.org/sitesearch?search=slovakia
 *Answer*: 1 
 
 *Comments*:
- The military was tasked with enforcing quarantine in Roma communities and measures throughout the country.
+ The military was tasked with enforcing quarantine in Roma communities and other measures throughout the country.
  
 
 *Sources*:

@@ -65,7 +65,10 @@ https://www.constituteproject.org/constitution/Cambodia_2008.pdf?lang=en
 *No comment provided* 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/02/cambodia-emergency-bill-recipe-dictatorship
+ https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
+
+
+https://www.hrw.org/news/2020/04/02/cambodia-emergency-bill-recipe-dictatorship
 
 
 https://www.voacambodia.com/a/state-of-emergency-draft-law-gives-gov-t-sweeping-powers-permits-human-rights-restrictions-/5353728.html
@@ -88,7 +91,9 @@ https://www.voacambodia.com/a/state-of-emergency-draft-law-gives-gov-t-sweeping-
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://www.garda.com/crisis24/news-alerts/333951/cambodia-senate-authorizes-state-of-emergency-april-17-update-8
+
+
 
 
 
@@ -167,10 +172,13 @@ https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20E
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ There is no time limit. Chapter 2 of the law states 'The declaration of the state of emergency is made for a limited time or unlimited time. The declaration of the state of emergency for unlimited time is ended by Royal Decree when a situation is allowed.' 
 
 *Sources*:
-*No source provided*
+ https://www.hrw.org/news/2020/04/02/cambodia-emergency-bill-recipe-dictatorship
+
+
+https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
 
 
 
@@ -187,13 +195,13 @@ https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20E
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ The National Assembly voted on the on the bill which was passed in April 2020. However, it is also a one-party National Assembly. Hence there is minimal opportunity for opposing points of view. 
 
 *Sources*:
-*No source provided*
+ https://www.hrw.org/news/2020/04/02/cambodia-emergency-bill-recipe-dictatorship
 
 
 
@@ -382,13 +390,16 @@ https://www.ifj.org/media-centre/news/detail/category/press-releases/article/cam
 
 *Scale*: Date format. 
 
-*Answer:* *No answer entered* 
+*Answer*: 2020-04-20 
 
 *Comments*:
-*No comment provided* 
+ Article 5(11) of the emergency law states that “Prohibiting or restricting the distribution or broadcast of information that could generate public alarm or fear or generate unrest, or that could bring about damage to national security, or that could bring into being confusion regarding the state of emergency.” 
 
 *Sources*:
-*No source provided*
+ https://rsf.org/en/news/cambodia-hun-sen-uses-covid-19-crisis-tighten-his-grip
+
+
+https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
 
 
 
@@ -405,10 +416,16 @@ https://www.ifj.org/media-centre/news/detail/category/press-releases/article/cam
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Under the law, a State of Emergency could be declared "for a limited or unlimited period of time". Hence, there is no fixed end to the de-jure limits of media freedom. 
 
 *Sources*:
-*No source provided*
+ https://www.hrw.org/news/2020/04/02/cambodia-emergency-bill-recipe-dictatorship
+
+https://rsf.org/en/news/cambodia-hun-sen-uses-covid-19-crisis-tighten-his-grip
+
+
+https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
+
 
 
 
@@ -649,13 +666,14 @@ https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ I did not find any information on the military being tasked with enforcing any confinement measures. However, Chapter 3 of the State of Emergency law that was introduced, allows for militart involvement. It states "...At war or any circumstances that the national security faces great danger, the
+management of the country amid the emergency is made under the military junta..." 
 
 *Sources*:
-*No source provided*
+ https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
 
 
 

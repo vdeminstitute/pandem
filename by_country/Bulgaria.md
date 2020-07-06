@@ -240,7 +240,7 @@ https://fra.europa.eu/sites/default/files/fra_uploads/bulgaria-report-covid-19-a
 *Answer*: 1 
 
 *Comments*:
- Stricter measures in Bansko, Panagyurishte 
+ Mostly uniform measures,, stricter measures in Bansko, Panagyurishte 
 
 *Sources*:
  https://www.bnt.bg/en/a/coronavirus-bulgarias-bansko-ski-resort-under-strict-lock-down

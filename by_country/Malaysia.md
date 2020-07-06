@@ -255,13 +255,15 @@ https://www.parlimen.gov.my/index.php?lang=en
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer*: 1 
+*Answer*: 2 
 
 *Comments*:
- The emergency measures are primarily taken at the national level without big regional differences. However, ACAPS record some such differences, for example that Yangon has implemented a 21-day traffic restriction, and that states with camps of internally displaced people have implemented action plans to handle the Covid-19 outbreak in these camps. This is then a minor sub-national variation, and coded as 1. 
+ Many measures have been taken nationwide in Malaysia. However, there ahs been regional measures such as  curfews, limits of public gatherings and lockdowns along with those measures taken by national government. Thus there has been some regiona l variation in emergency measures, but also some conforming measures. This is therefore coded as 2. 
 
 *Sources*:
  https://www.acaps.org/covid19-government-measures-dataset
+https://www.garda.com/crisis24/news-alerts/320071/malaysia-sarawak-state-implements-entry-restrictions-amid-covid-19-outbreak-march-4-update-3
+https://www.garda.com/crisis24/news-alert-full-history/7TqZBkyuLyzLPQAyN/malaysia-first-cases-of-2019-ncov-confirmed-january-25
 
 
 
@@ -630,13 +632,16 @@ https://www.hrw.org/news/2020/04/26/malaysia-stop-jailing-covid-19-lockdown-viol
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ Several local or regional media outlets report that the military has been used widely to enforce emergency measures. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
+https://www.aa.com.tr/en/asia-pacific/covid-19-malaysia-may-use-military-to-enforce-measures/1771535
+https://www.malaymail.com/news/malaysia/2020/03/20/senior-minister-military-to-help-enforce-covid-19-shutdown-from-sunday/1848383
+https://www.channelnewsasia.com/news/asia/covid-19-malaysia-deploy-military-movement-control-order-12559958
 
 
 

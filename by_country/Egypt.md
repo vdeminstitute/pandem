@@ -310,11 +310,11 @@ https://www.egypttoday.com/Article/1/84464/Egypt-s-parliament-delays-convention-
 
 2: The declaration is limited to three months. However this time limit can be extended for a similar period of time after obtaining the approval of two-thirds of the House members. Hence, a state of emergency could be continued indefinitely.
 
-3. In Egypt parliament approved a bill that strengthened the state of emergency in place since 2017 and that already enabled large-scale human flights abuse.
-
 The constitutional stipulation does not mention when and why the President of the Republic is allowed to declare a SoE, as opposed to Article 4 of the ICCPR, which permits derogations from ordinary human rights protections only in “time of public emergency which threatens the life of the nation”.
 
 Article 154 does not specify a geographical limitation on state of emergencies and there is no limitation on the measures adopted under the state of emergency as is the case under Article 4 of the ICCPR, “to the extent strictly required by the exigencies of the situation.” 
+
+The Constitution does not specify certain rights that can never be subject to derogations even in the most extreme state of emergencies as required by Article 4(2) of the ICCPR, such as the protection against torture. 
 
 *Sources*:
  https://www.icj.org/wp-content/uploads/2018/09/Egypt-Return-to-State-of-Emergency-Advocacy-Analysis-brief-2018-ENG.pdf
@@ -324,8 +324,6 @@ https://www.constituteproject.org/constitution/Egypt_2014.pdf
 
 
 https://timep.org/reports-briefings/timep-briefs/timep-brief-right-to-due-process-in-egypt/
-
-https://www.hrw.org/world-report/2019/country-chapters/egypt
 
 
 

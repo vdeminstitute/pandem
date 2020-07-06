@@ -152,13 +152,13 @@ https://www.boletinoficial.gob.ar/detalleAviso/primera/227042/20200320
  0. No. 
  1. Yes. 
 
-*Answer*: 0 
+*Answer*: 1 
 
 *Comments*:
- Executive decree, it doesn't require legislative approval 
+ Ley 27541 declared a state of public emergency and gave the executive the power take measures via decree. 
 
 *Sources*:
- https://www.boletinoficial.gob.ar/detalleAviso/primera/227042/20200320
+ http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333564/norma.htm
 
 
 
@@ -175,13 +175,13 @@ https://www.boletinoficial.gob.ar/detalleAviso/primera/227042/20200320
  0. No. 
  1. Yes. 
 
-*Answer*: 0 
+*Answer*: 1 
 
 *Comments*:
- The law doesn't require legislative approval 
+ Ley 27541 declared a state of public emergency and gave the executive the power take measures via decree. 
 
 *Sources*:
- https://www.boletinoficial.gob.ar/detalleAviso/primera/227042/20200320
+ http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333564/norma.htm
 
 
 
@@ -587,10 +587,14 @@ https://www.clarin.com/policiales/coronavirus-argentina-denuncian-caso-abuso-pol
 *Answer*: 1 
 
 *Comments*:
- Article 3 
+*No comment provided* 
 
 *Sources*:
- http://servicios.infoleg.gob.ar/infolegInternet/anexos/335000-339999/335741/norma.htm
+ https://www.infodefensa.com/latam/2020/03/25/noticia-paises-latinoamerica-despliegan-combatir-covid19.html
+http://servicios.infoleg.gob.ar/infolegInternet/anexos/335000-339999/335741/norma.htm
+https://www.infobae.com/sociedad/2020/04/15/asi-son-los-patrullajes-en-helicoptero-que-realiza-el-ejercito-para-controlar-el-cumplimiento-de-la-cuarentena/
+https://www.infodefensa.com/latam/2020/05/27/noticia-argentina-organizan-centros-aislamiento-barrios-infraviviendas.html
+
 
 
 
@@ -607,7 +611,7 @@ https://www.clarin.com/policiales/coronavirus-argentina-denuncian-caso-abuso-pol
 *Answer*: The judiciary was on "extraordinary recess" from 2020-03-20. In some provinces, they returned to work on 2020-06-02, others are still on recess. It took the Congress almost two months to begin online sessions and in the meantime all decisions were taken by the Executive. 
 
 *Comments*:
- https://www.infodefensa.com/latam/2020/04/14/noticia-gobierno-argentina-defiende-ciberpatrullaje-redes-sociales-prevenir-delitos.html 
+*No comment provided* 
 
 *Sources*:
  https://www.bbc.com/mundo/noticias-america-latina-52914804

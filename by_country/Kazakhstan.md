@@ -43,13 +43,14 @@ Time 2020-06-10
 
 *Scale*: Character string. 
 
-*Answer*: Constitution (Article 44, point 16), Law on states of emergency (Articles 4,5,6) 
+*Answer*: Constitution (Article 44, point 16), ZAKON RESPUBLIKI KAZAKHSTAN O chrezvychaynom polozhenii  (Articles 4,5,6) 
 
 *Comments*:
- Constitution (https://online.zakon.kz/document/?doc_id=1005029#pos=424;-40), Law on states of emergency (https://online.zakon.kz/document/?doc_id=1036912#pos=33;-46) 
+ own translation: Law on states of emergency 
 
 *Sources*:
  https://online.zakon.kz/document/?doc_id=1036912#pos=33;-46
+https://online.zakon.kz/document/?doc_id=1005029#pos=424;-40
 
 
 
@@ -230,7 +231,7 @@ https://online.zakon.kz/document/?doc_id=1036912#pos=162;-46
 *Answer*: 1 
 
 *Comments*:
- stricter measures in Nur-Sultan, Almaty and Shymkent 
+ Mostly uniform measures, stricter measures in Nur-Sultan, Almaty and Shymkent 
 
 *Sources*:
  https://www.garda.com/crisis24/news-alerts/328946/kazakhstan-government-implements-restrictive-measures-in-shymkent-april-4-update-10
@@ -599,7 +600,7 @@ https://www.gov.kz/memleket/entities/mod/press/news/details/minoborony-prinimaet
 *Answer*: 1) draft law on restricting freedom of assembly 2) detention of an activist 
 
 *Comments*:
- 1) the parliament held a first vote on a bill restricting freedom of assembly on 26 March 2020, which appears as a rushed decision 2) detention of an activist following his criticism of the government's handling of covid-19 on social media 
+ 1) the parliament held a first vote on a bill restricting freedom of assembly on 26 March 2020, which appears a rushed decision 2) detention of an activist following his criticism of the government's handling of covid-19 on social media 
 
 *Sources*:
  1)

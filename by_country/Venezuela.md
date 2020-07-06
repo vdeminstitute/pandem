@@ -597,6 +597,7 @@ https://www.amnesty.org/en/countries/americas/venezuela/
 *Sources*:
  https://ceofanb.mil.ve/fanb-supervisa-despliegue-de-seguridad-ante-las-medidas-preventivas-para-evitar-propagacion-del-covid-19/
 http://www.mindefensa.gob.ve/mindefensa/2020/03/16/gj-padrino-lopez-el-pueblo-organizado-juega-un-papel-trascendental-en-este-combate-por-la-vida/
+https://www.infodefensa.com/latam/2020/03/25/noticia-paises-latinoamerica-despliegan-combatir-covid19.html
 
 
 

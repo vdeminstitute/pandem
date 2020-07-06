@@ -583,11 +583,12 @@ https://www.hrw.org/europe/central-asia/portugal
 *Answer*: 0 
 
 *Comments*:
- The law n.º 44/86 art. 9  forsees that the government can use the armed forces during a state of emergency, but the decree declaring the state of emergency does not summon the army. 
+ The law n.º 44/86 art. 9  forsees that the government can use the armed forces during a state of emergency, but the decree declaring the state of emergency does not summon them and I didn't find any evidence that the military is enforcing confinement measures. 
 
 *Sources*:
  https://dre.pt/web/guest/pesquisa/-/search/221696/details/normal?l=1
 https://dre.pt/web/guest/pesquisa/-/search/130399862/details/maximized
+https://www.exercito.pt/pt/informa%C3%A7%C3%A3o-p%C3%BAblica/not%C3%ADcias/1673
 
 
 

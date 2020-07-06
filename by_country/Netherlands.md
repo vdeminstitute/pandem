@@ -232,13 +232,14 @@ https://fra.europa.eu/sites/default/files/fra_uploads/netherlands-report-covid-1
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ While the emergency measures are taken at the sub-national level in The Netherlands, the emergency response has been heavily coordinated by the government, and there are no major variations between regions. Some small variation seem to be in place though, and this is therefore coded as 1. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
+https://www.garda.com/crisis24/news-alert-full-history/A4mgehRxM6Mbrgj4B/netherlands-klm-extends-flight-restrictions-to-and-from-china-until-march-29
 
 
 
@@ -581,13 +582,14 @@ https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_p
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The Ducth military is aiding the emergency response, but are not involved in enforcing emergency measures. 
 
 *Sources*:
-*No source provided*
+ http://euromil.org/armed-forces-and-covid-19/
+https://www.defensie.nl/onderwerpen/coronavirus-covid-19
 
 
 

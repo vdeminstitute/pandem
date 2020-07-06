@@ -153,10 +153,10 @@ http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-covid-19
 *Answer*: 0 
 
 *Comments*:
- Executive decree, it doesn't require legislative approval 
+ Art. 4 "A declaration of state of health emergency will be made by the federal Executive Power, by means of the Minister of Health" 
 
 *Sources*:
-*No source provided*
+ http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Decreto/D7616.htm
 
 
 
@@ -229,7 +229,7 @@ http://www.in.gov.br/web/dou/-/portaria-n-188-de-3-de-fevereiro-de-2020-24140838
 *Answer*: 3 
 
 *Comments*:
- The Supreme Count established that states and cities have the autonomy to decide which measures to take in response to the pandemic. There are very different responses in place. 
+ The Supreme Count established that states and cities have the autonomy to decide which measures to take in response to the pandemic. There are very different responses in place, with some cities/states declaring a complete lockdown while others adopt no restrictive measures. 
 
 *Sources*:
  http://www.stf.jus.br/portal/cms/verNoticiaDetalhe.asp?idConteudo=441447
@@ -589,7 +589,7 @@ https://www.hrw.org/americas/brazil
 *Answer*: 0 
 
 *Comments*:
- The government of the state Pernamuco requested support of the armed forces to enforce the lockdown, but it was not approved by the Ministry of Defense 
+ There are no national confinement measures. The government of the state Pernamuco requested support of the armed forces to enforce their local lockdown, but it was not approved by the Ministry of Defense 
 
 *Sources*:
  https://www.gov.br/defesa/pt-br/assuntos/noticias

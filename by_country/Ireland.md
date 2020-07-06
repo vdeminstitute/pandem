@@ -240,13 +240,14 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The emergency measures have been taken nationwide and no sub-national variation has been found in Ireland. This is therefore coded as 0. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
+https://www.garda.com/crisis24/news-alert-full-history/QRxmkCyBbNst6LbX5/ireland-first-case-of-covid-19-confirmed-in-country-february-29
 
 
 
@@ -585,13 +586,13 @@ https://www.amnesty.org/en/search/?country=38464&resourceType=newsarticle&sort=d
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The military has been used to aid health sector a lot, but have not been involved in enforcing emergency measures. 
 
 *Sources*:
-*No source provided*
+ http://euromil.org/armed-forces-and-covid-19/
 
 
 

@@ -233,13 +233,16 @@ https://www.acaps.org/covid19-government-measures-dataset
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 2 
 
 *Comments*:
-*No comment provided* 
+ Several measures have been taken for the whole country, such as school closing, curfews,  limiting public gatherings, but there has also much regional variation. Baghdad and Najaf have imposed curfews and lockdowns beyond the national-level emergency response, and the Kurdish region of Iraq has have also imposed significant emergency measures such as lockdowns and limitations on movement. Considering that much repsonse has also been taken at the national level as well, this does not count as a complete sub-national variation, and therefore coded as 2. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
+https://www.garda.com/crisis24/news-alert-full-history/skyyNqiseFrGow3WS/iraq-government-bans-entry-of-travelers-from-china-as-of-february-2-amid-covid-19-outbreak
+https://www.garda.com/crisis24/news-alerts/320991/iraq-authorities-order-closure-of-najaf-province-over-covid-19-outbreak-march-11-update-10
+https://www.garda.com/crisis24/news-alerts/324521/iraq-lockdown-extended-in-kurdistan-region-march-18-update-14
 
 
 
@@ -584,13 +587,13 @@ https://www.amnesty.org/en/search/?country=38464&resourceType=newsarticle&sort=d
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ No sources have been found stating that Iraq has deployed its military to enforce emergency measures. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
 
 
 

@@ -579,11 +579,12 @@ https://www.aa.com.tr/es/mundo/denuncian-violencia-contra-polic%C3%ADas-que-vigi
 *Answer*: 1 
 
 *Comments*:
- Decree Art. 2/Art. 4 
+ Decree Art. 2/Art. 4: establish confinement measures and that the national police and armed forces are responsible for ensuring compliance. 
 
 *Sources*:
  https://www.defensa.gob.ec/wp-content/uploads/downloads/2020/03/Decreto_presidencial_No_1017_17-Marzo-2020.pdf
 http://www.rfi.fr/es/am%C3%A9ricas/20200406-el-ej%C3%A9rcito-se-despliega-en-quito-para-controlar-el-toque-de-queda
+https://www.infodefensa.com/latam/2020/03/21/noticia-ecuador-moviliza-fuerzas-armadas-pleno-estado-excepcion.html
 
 
 

@@ -47,13 +47,15 @@ http://www.lawcommission.gov.np/en/archives/12240
 
 *Scale*: Character string. 
 
-*Answer:* *No answer entered* 
+*Answer*: Infectious Disease Control Act 1964 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+
+http://www.lawcommission.gov.np/en/archives/12240
 
 
 
@@ -67,13 +69,17 @@ http://www.lawcommission.gov.np/en/archives/12240
 
 *Scale*: Date format. 
 
-*Answer:* *No answer entered* 
+*Answer*: 2020-03-24 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ "https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+
+http://www.lawcommission.gov.np/en/archives/12240"
+
+https://kathmandupost.com/national/2020/03/23/nepal-goes-under-lockdown-for-a-week-starting-6am-Tuesday
 
 
 
@@ -140,7 +146,9 @@ https://kathmandupost.com/national/2020/06/11/lockdown-is-officially-eased-with-
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+
+http://www.lawcommission.gov.np/en/archives/12240
 
 
 
@@ -353,10 +361,12 @@ https://rsf.org/en/nepal
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ There were no de-jure limits on media that were adopted based on the legal instrument employed which was the Infectious Disease Control Act 1964. 
 
 *Sources*:
-*No source provided*
+ https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+
+http://www.lawcommission.gov.np/en/archives/12240
 
 
 
@@ -373,10 +383,12 @@ https://rsf.org/en/nepal
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ There were no de-jure limits on media that were adopted based on the legal instrument employed which was the Infectious Disease Control Act 1964. 
 
 *Sources*:
-*No source provided*
+ https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+
+http://www.lawcommission.gov.np/en/archives/12240
 
 
 

@@ -244,13 +244,14 @@ https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 2 
 
 *Comments*:
-*No comment provided* 
+ Many of the emergency measures have been taken at the national level (or at least in the areas that the GNA controls), but there are some important regional variations. Eastern Libya implemented curfews for example, and Misrata initiated a full lockdon. Since these are important measures taken at the sub-national level, but many measures also have been implement nationwide, this is coded as 2. 
 
 *Sources*:
-*No source provided*
+ https://www.reuters.com/article/us-health-coronavirus-libya-curfew/eastern-libya-imposes-curfew-over-pandemic-idUSKBN21526W
+https://www.garda.com/crisis24/news-alert-full-history/QFKwn6iXz6WGQdzEi/libya-land-and-sea-borders-to-close-due-to-covid-19-march-16
 
 
 
@@ -590,13 +591,15 @@ https://www.amnesty.org/en/search/?country=38545&resourceType=newsarticle&sort=d
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ There is a lot of military activity in Libya due to the civil war continuing during the pandemic, but no sources stating that the military has been deployed to enforce emergency measures have been found and this is therefore coded 0. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
+https://news.un.org/en/story/2020/05/1064422
+https://reliefweb.int/report/libya/despite-calls-ceasefire-amid-covid-19-pandemic-unabated-fighting-could-push-libya-new
 
 
 

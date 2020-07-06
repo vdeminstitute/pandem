@@ -232,13 +232,15 @@ https://www.irrawaddy.com/specials/myanmar-covid-19/timeline-myanmars-government
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 2 
 
 *Comments*:
-*No comment provided* 
+ Many of the emergency measures have been enforced nationwide. However, there have been variation in that curfews initially were only placed in three regions (Yangon, Ayeyawaddy, and Nay Pyi Taw). This is therefore coded as 2, there has been some sub-national variation. 
 
 *Sources*:
-*No source provided*
+ https://www.garda.com/crisis24/news-alerts/333906/myanmar-authorities-introduce-curfews-in-three-regions-from-april-18-update-7
+https://www.garda.com/crisis24/news-alert-full-history/aFv8t8QnEdDsHp4ZF/myanmar-extended-quarantine-measures-implemented-due-to-covid-19-march-19
+https://www.acaps.org/covid19-government-measures-dataset
 
 
 
@@ -608,13 +610,14 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25838&LangID=E
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ The military is involved in securing check points for traveling in Myanmar, and this is therefore coded as 1. No sources have been found stating that the military has additional tasks in the emergency measures, but the military presence is very large in Myanmar so it is possible that they have been involved in additional measures. 
 
 *Sources*:
-*No source provided*
+ https://www.hrw.org/news/2020/05/29/pandemic-adds-new-threat-rohingyas-myanmar
+https://www.crisisgroup.org/asia/south-east-asia/myanmar/b161-conflict-health-cooperation-and-covid-19-myanmar
 
 
 

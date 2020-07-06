@@ -45,10 +45,10 @@ https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8feb1a7658a111eaac56f6e40072e018/
 
 *Scale*: Character string. 
 
-*Answer*: Law on Civil Protection (point 11 of Article 9 and point 2 of Paragraph 1 of Article 26), Resolution no. 1243 “On Approval of the Description of the Procedure for Announcement and Revocation of Emergencies" 
+*Answer*: Lietuvos Respublikos civilinės saugos įstatymo 9 straipsnio 11 punktu ir 26 straipsnio 1 dalies 2 punktu , nutarimu Nr. 1243 „Dėl Ekstremaliųjų situacijų skelbimo ir atšaukimo tvarkos aprašo patvirtinimo“ 
 
 *Comments*:
- Article 9, point 11 of the Law on Civil Protection of the Republic of Lithuania says that "the government shall establish the procedure for declaring and lifting emergencies of both levels, declare and lift a national level emergency" and Article 26 is on emergencies on the national level: " national level –the emergencies whereto response shall be provided by the forces of the civil protection system located within several municipalities through the use of the material resources held at the disposal of the municipalities or the State, where the emergency effects reach beyond the territory of three municipalities." Resolution no. 1243 “On Approval of the Description of the Procedure for Announcement and Revocation of Emergencies” establishing procedures for announcing the state of emergency 
+ Own translation: Law on Civil Protection (point 11 of Article 9 and point 2 of Paragraph 1 of Article 26), Resolution no. 1243 “On Approval of the Description of the Procedure for Announcement and Revocation of Emergencies". Article 9, point 11 of the Law on Civil Protection of the Republic of Lithuania says that "the government shall establish the procedure for declaring and lifting emergencies of both levels, declare and lift a national level emergency" and Article 26 is on emergencies on the national level: " national level –the emergencies whereto response shall be provided by the forces of the civil protection system located within several municipalities through the use of the material resources held at the disposal of the municipalities or the State, where the emergency effects reach beyond the territory of three municipalities." Resolution no. 1243 “On Approval of the Description of the Procedure for Announcement and Revocation of Emergencies” establishing procedures for announcing the state of emergency 
 
 *Sources*:
  https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8feb1a7658a111eaac56f6e40072e018?positionInSearchResults=31&searchModelUUID=e5efa5d2-b709-413d-b7ad-feece99aa238

@@ -235,13 +235,16 @@ https://www.amnesty.org/download/Documents/AMR4325352020ENGLISH.PDF
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ Nicaragua does not have an emergency response to the Covid-19 pandemic. 
 
 *Sources*:
-*No source provided*
+ https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+https://www.hrw.org/es/news/2020/06/23/nicaragua-despiden-medicos-por-criticar-el-manejo-de-la-covid-19
+https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+https://www.amnesty.org/download/Documents/AMR4325352020ENGLISH.PDF
 
 
 

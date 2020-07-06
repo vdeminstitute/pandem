@@ -44,13 +44,14 @@ https://cabmin.gov.az/az/article/718/
 
 *Scale*: Character string. 
 
-*Answer*: Law on Sanitary and Epidemiological Safety (Article 25) 
+*Answer*: Sanitariya-epidemioloji salamatlıq haqqında AZƏRBAYCAN RESPUBLİKASININ QANUNU 
 
 *Comments*:
- Law saying that the authorities can take measures to prevent the spread of diseases (http://www.e-qanun.az/framework/7916http://www.e-qanun.az/framework/7916) 
+ Own English translation; Law on Sanitary and Epidemiological Safety (Article 25); the authorities can take measures to prevent the spread of diseases. 
 
 *Sources*:
  https://cabmin.gov.az/az/article/761/
+http://www.e-qanun.az/framework/7916
 
 
 

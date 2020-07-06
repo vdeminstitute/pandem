@@ -44,10 +44,10 @@ https://md.usembassy.gov/moldovan-government-has-declared-a-state-of-emergency-i
 
 *Scale*: Character string. 
 
-*Answer*: Constitution (Article 66 m), Law 212 (2004) (Article 12) on states of emergency 
+*Answer*: Constitution (Article 66 m),LEGE Nr. 212 din 24-06-2004 privind regimul stării de urgenţă, de asediu şi de război 
 
 *Comments*:
- According to Article 66 m) of the Constitution, the parliament declares the state of emergency. According to Article 12 of Law 212 (2004), the only case when the President can declare a state of emergency is when the country is under military attack. 
+ Own translation: Law 212 (2004) (Article 12) on states of emergency. According to Article 66 m) of the Constitution, the parliament declares the state of emergency. According to Article 12 of Law 212 (2004), the only case when the President can declare a state of emergency is when the country is under military attack. 
 
 *Sources*:
  https://www.legis.md/cautare/getResults?doc_id=27024&lang=ru

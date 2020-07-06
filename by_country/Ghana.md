@@ -51,7 +51,7 @@ https://ghanalawhub.com/overview-of-the-imposition-of-restrictions-act-2020-act-
 *Answer*: The Imposition of Restrictions Act (Act 1012) 
 
 *Comments*:
-*No comment provided* 
+ The The Imposition of Restrictions Act (Act 1012) was enacted based on a directive from the President on March 15. 
 
 *Sources*:
  https://theconversation.com/ghanas-president-has-invoked-a-tough-new-law-against-coronavirus-why-its-disquieting-135476
@@ -364,7 +364,7 @@ https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Ac
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as there are no de-jure limitations on media freedom (variable melim). 
 
 *Sources*:
 *No source provided*
@@ -384,7 +384,7 @@ https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Ac
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as there are no de-jure limitations on media freedom (variable melim). 
 
 *Sources*:
 *No source provided*
@@ -629,13 +629,13 @@ https://www.amnesty.org/en/countries/africa/ghana/
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ Soliders are enforcing lockdown in Ghana. 
 
 *Sources*:
-*No source provided*
+ https://cpj.org/2020/04/in-ghana-soldiers-enforcing-covid-19-restrictions/
 
 
 

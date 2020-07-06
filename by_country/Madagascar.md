@@ -27,15 +27,20 @@ Time 2020-06-16
 
 *Comments*:
  Madagascar declared a State of Health Emergency on March 21, 2020 for 2 weeks, based on:
-Constitution, article 61; 
-Law n ° 91-011 of July 18, 1991 relating to emergency situations;
-Law n ° 2011-002 of July 15, 2011 on the Public Health Code; 
+Constitution, article 61; (1)
+Law n ° 91-011 of July 18, 1991 relating to emergency situations; (2) 
+Law n ° 2011-002 of July 15, 2011 on the Public Health Code; (4) 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Madagascar_2010.pdf?lang=en
+ (1)
+https://www.constituteproject.org/constitution/Madagascar_2010.pdf?lang=en
+(2)
 https://jwf-legal2.fr.gd/Lois-245.htm
+(3)
 https://www.presidence.gov.mg/actualites/755-decret-n-2020-359-du-21-mars-2020-proclamant-l-etat-d-urgence-sanitaire-sur-tout-le-territoire-de-la-republique.html
+(4)
 http://extwprlegs1.fao.org/docs/pdf/Mad176601.pdf
+(5)
 https://actu.orange.mg/une-nouvelle-prolongation-de-letat-durgence-sanitaire-a-madagascar/
 
 
@@ -55,14 +60,19 @@ Law n ° 91-011 of July 18, 1991 relating to emergency situations;
 Law n ° 2011-002 of July 15, 2011 on the Public Health Code; 
 
 *Comments*:
- Decree declaring the state of emergency: N ° 2020 –359 of March 21, 2020
+ Decree declaring the state of emergency: N ° 2020 –359 of March 21, 2020 (3)
 Proclaiming a state of health emergency throughout the territory of the Republic 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Madagascar_2010.pdf?lang=en
+ (1)
+https://www.constituteproject.org/constitution/Madagascar_2010.pdf?lang=en
+(2)
 https://jwf-legal2.fr.gd/Lois-245.htm
+(3)
 https://www.presidence.gov.mg/actualites/755-decret-n-2020-359-du-21-mars-2020-proclamant-l-etat-d-urgence-sanitaire-sur-tout-le-territoire-de-la-republique.html
+(4)
 http://extwprlegs1.fao.org/docs/pdf/Mad176601.pdf
+(5)
 https://actu.orange.mg/une-nouvelle-prolongation-de-letat-durgence-sanitaire-a-madagascar/
 
 
@@ -172,15 +182,14 @@ https://actu.orange.mg/une-nouvelle-prolongation-de-letat-durgence-sanitaire-a-m
 *Answer*: 0 
 
 *Comments*:
- It is not required to get Parliament approval.
+ Madagascy constitution and the organic law related to the state of emergency does not require parliamentary approval, nor does its extension.
 
 Article 61, Constitution: ''When the Institutions of the Republic,......finds itself compromised, the President of the Republic may proclaim on all or on part of the national territory, the situation of exception, to wit the state of urgency, the state of necessity or martial law. 
-The decision is made by the President of the Republic in the Council of Ministers, after the opinion of the Presidents of the National Assembly, of the Senate and of the High Constitutional Court. 
-The proclamation of the situation of exception confers on the President of the Republic special powers of which the extent and the duration are established by an organic law.
-From the proclamation of one of the situations of exception aforesaid, the President of the Republic can legislate by way of ordinance on the matters that arise within the domain of the law.
+The decision is made by the President of the Republic in the Council of Ministers, after the opinion of the Presidents of the National Assembly, of the Senate and of the High Constitutional Court.''
 
-Art. 2, law 91-011, 1991- The emergency situation, the state of national necessity of martial law is proclaimed by decree taken in the Council of Ministers, after the opinion of the High Constitutional Court and the President of the National People's Assembly.
- 
+''Art. 2 law 91-011, 1991 - The emergency situation, the state of national necessity of the martial law is proclaimed by decree taken in the Council of Ministers, after opinion of the High Constitutional Court and the President of the National People's Assembly.
+Art. 3 - The exceptional situation is limited in time. It may however be extended in the same forms, by periods which may not each exceed the initial period. It ends automatically as of the expiration of the deadline, unless it is terminated before, by decree taken in the Council of Ministers.''
+Art. 16 - The duration of the emergency situation is fifteen days. It may be extended under the conditions provided for in article 3 of this law. 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Madagascar_2010.pdf?lang=en
@@ -204,7 +213,7 @@ https://jwf-legal2.fr.gd/Lois-245.htm
 *Answer*: 0 
 
 *Comments*:
- no requirement. 
+ No required. 
 
 *Sources*:
 *No source provided*
@@ -707,7 +716,7 @@ https://www.youtube.com/watch?v=1HXwCeV6IiI
 *Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ 150 soldiers were sent by the government to Toamasina, to help with law and order and the enforcement of the coronavirus measures - mask wearing and social distancing. 
 
 *Sources*:
  https://www.france24.com/en/20200525-madagascar-to-send-troops-to-town-where-two-died-of-coronavirus

@@ -62,19 +62,27 @@ https://www.bowmanslaw.com/insights/dispute-resolution/newsletter-on-the-publica
 
 *Scale*: Character string. 
 
-*Answer*: The Public Health Act (Sections 35 and 36) - that has provisions that deal with a pandemic, was updated on April 3, and the Public Order Act (State Curfew) Order 2020,- that has provisions with how people conduct themselves in the public sphere-, effected by Legal Notice No. 36 of the Kenya Gazette Notice of 26th March 2020. However, the initial measures were enacted by a Presidential Directive (March 15, 2020). 
+*Answer*: The Public Health Act (Sections 35 and 36) - with provisions to deal with a pandemic, updated on April 3;
+The Public Order Act (State Curfew) Order 2020,- that has provisions with how people conduct themselves in the public sphere-, effected by Legal Notice No. 36 of the Kenya Gazette Notice of 26th March 2020. 
+
+However, the initial measures were enacted by a Presidential Directive (March 15, 2020). 
 
 *Comments*:
- Kenya has introduced a combination of protocols and measures in place. The initial measures were implemented by a Presidential Directive on March 15,  but the legl instruments were activated later when incremental measures were introduced: the activation of the Public Health Act on April 3rd 2020 and the Public Order (State Curfew) Order 2020 on March 26th. 
+ Kenya has introduced a combination of protocols and measures in place. The initial measures were implemented by a Presidential Directive on March 15,  but the legal instruments were activated later: the activation of the Public Health Act on April 3rd 2020 and the Public Order (State Curfew) Order 2020 on March 26th. 
 
 *Sources*:
  https://www.president.go.ke/2020/03/15/address-to-the-nation-by-h-e-uhuru-kenyatta-c-g-h-president-of-the-republic-of-kenya-and-commander-in-chief-of-the-defence-forces-on-covid-19-commonly-known-as-coronavirus/
-;
-https://www.strathmore.edu/news/should-the-kenyan-government-declare-a-state-of-emergency/;
-https://www.health.go.ke/first-case-of-coronavirus-disease-confirmed-in-kenya/;
-http://constitutionnet.org/state-of-emergency;
-http://kenyalaw.org/kenyalawblog/kenyas-response-to-covid-19/;
-http://extwprlegs1.fao.org/docs/pdf/ken129231.pdf;
+
+https://www.strathmore.edu/news/should-the-kenyan-government-declare-a-state-of-emergency/
+
+https://www.health.go.ke/first-case-of-coronavirus-disease-confirmed-in-kenya/
+
+http://constitutionnet.org/state-of-emergency
+
+http://kenyalaw.org/kenyalawblog/kenyas-response-to-covid-19/
+
+http://extwprlegs1.fao.org/docs/pdf/ken129231.pdf
+
 https://www.bowmanslaw.com/insights/dispute-resolution/newsletter-on-the-publication-of-the-public-health-prevention-control-and-suppression-of-covid-19-rules-2020-and-declaration-of-infected-areas-in-kenya/
 
 

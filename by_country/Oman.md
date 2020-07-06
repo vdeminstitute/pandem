@@ -45,13 +45,13 @@ https://www.omanobserver.om/know-your-fine-for-various-covid-19-violations/
 
 *Scale*: Character string. 
 
-*Answer:* *No answer entered* 
+*Answer*: Sultan Haitham Bin Tarik Royal orders 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://omannews.gov.om/Local/ArtMID/416/ArticleID/9985
 
 
 
@@ -65,13 +65,13 @@ https://www.omanobserver.om/know-your-fine-for-various-covid-19-violations/
 
 *Scale*: Date format. 
 
-*Answer:* *No answer entered* 
+*Answer*: 2020-03-10 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://omannews.gov.om/Local/ArtMID/416/ArticleID/9985
 
 
 
@@ -131,10 +131,10 @@ https://www.omanobserver.om/know-your-fine-for-various-covid-19-violations/
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ No limit established 
 
 *Sources*:
-*No source provided*
+ https://omannews.gov.om/Local/ArtMID/416/ArticleID/9985
 
 
 
@@ -151,13 +151,13 @@ https://www.omanobserver.om/know-your-fine-for-various-covid-19-violations/
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ Established via Royal Order 
 
 *Sources*:
-*No source provided*
+ https://omannews.gov.om/Local/ArtMID/416/ArticleID/9985
 
 
 
@@ -174,10 +174,10 @@ https://www.omanobserver.om/know-your-fine-for-various-covid-19-violations/
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ Established via Royal Order 
 
 *Sources*:
 *No source provided*
@@ -338,7 +338,7 @@ https://ipi.media/covid19-media-freedom-monitoring/
 *Answer*: 2020-03-22 
 
 *Comments*:
-*No comment provided* 
+ Supreme Committee Statemente from 22/03/2020: "Stopping printing, distribution and sale of newspapers, magazines and other publications of all kinds, and preventing the sale and distribution of publications issued outside the Sultanate". 
 
 *Sources*:
  https://covid19.moh.gov.om/#/qarar
@@ -359,7 +359,7 @@ https://phr.moh.gov.om/Documents/NEHR/qarars/en/Image.jpeg
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ The measure has not been lifted 
 
 *Sources*:
 *No source provided*
@@ -584,7 +584,7 @@ https://www.amnesty.org/en/search/?q=&sort=date&country=38547&resourceType=newsa
 *Answer*: 1 
 
 *Comments*:
- Supreme Committee Statement from 31/03/2020: In the context of the efforts exerted to reduce the movement of citizens and residents aiming to curb the spread of the virus, the military abd security servics will take the necessary measures accordingly. 
+ Supreme Committee Statement from 31/03/2020: "In the context of the efforts exerted to reduce the movement of citizens and residents aiming to curb the spread of the virus, the military and security services will take the necessary measures accordingly." 
 
 *Sources*:
  https://covid19.moh.gov.om/#/qarar

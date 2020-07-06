@@ -26,22 +26,22 @@ Time 2020-06-09
 *Answer*: 4 
 
 *Comments*:
- The greek Constitution has provisions both for state of emergency (called state of siege, art. 48 of 2008 revision of the 1975 contistution), which however applies strictly to war, and for giving extraordinary powers to the executive in all other emergency situations other than war. It is this article that was invoked, art 44 of the Constitution, which gives the executive the power to ''fast-track'' law-making, by the so-called ''Acts of Legislative Content''. 
+ The greek Constitution (1) has provisions both for state of emergency (called state of siege, art. 48 of 2008 revision of the 1975 contistution), which however applies strictly to war, and for giving extraordinary powers to the executive in all other emergency situations other than war. It is this article that was invoked, art 44 of the Constitution, which gives the executive the power to ''fast-track'' law-making, by the so-called ''Acts of Legislative Content''. 
 
 *Sources*:
- https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/001-156%20aggliko.pdf
+ (1)
+https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/001-156%20aggliko.pdf
 ;
 
 http://constitutionnet.org/state-of-emergency
 ;
 
+https://www.ynanp.gr/el/gr-epikoinwnias-enhmerwshs/prostasia-apo-neo-koronoio-nomothesia/
 https://www.ispatras.gr/wp-content/uploads/2020/03/%CE%A6%CE%95%CE%9A-986_22-3-2020-%CF%84-%CE%92-%CE%95%CF%80%CE%B9%CE%B2%CE%BF%CE%BB%CE%AE-%CF%84%CE%BF%CF%85-%CE%BC%CE%AD%CF%84%CF%81%CE%BF%CF%85-%CF%84%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%81%CE%B9%CE%BD%CE%BF%CF%8D-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CF%84%CE%B7%CF%82-%CE%BA%CF%85%CE%BA%CE%BB%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B1%CF%82-%CF%84%CF%89%CE%BD-%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CF%8E%CE%BD.pdf
 https://www.icnl.org/covid19tracker/?location=48&issue=&date=&type=
-https://www.minedu.gov.gr/publications/docs2020/%CE%A0%CE%9D%CE%A0_4_20032020_%CE%A6%CE%95%CE%9A.pdf.pdf;
-https://covid19.gov.gr/nomothesia-gia-ton-covid-19/
-;
 http://www.dsanet.gr/epikairothta_nomothesia.asp
 https://www.tovima.gr/2020/03/22/society/odigos-epiviosis-stin-apagoreysi-kykloforias-18-apantiseis-gia-ola-osa-prepei-na-gnorizoume/
+
 
 
 
@@ -59,20 +59,21 @@ https://www.tovima.gr/2020/03/22/society/odigos-epiviosis-stin-apagoreysi-kyklof
 1. Under extraordinary circumstances of an urgent and unforeseeable need, the President of the Republic may, upon the proposal of the Cabinet, issue acts of legislative content. Such acts shall be submitted to Parliament for ratification, as specified in the provisions of article 72 paragraph 1, within forty days of their issuance or within forty days from the convocation of a parliamentary session. Should such acts not be submitted to Parliament within the above time-limits or if they should not be ratified by Parliament within three months of their submission, they will henceforth cease to be in force. 
 
 *Comments*:
- There have been several Acts of legislative content issued throughout the pandemic, and all are taken based on the same legal instrument. 
+ There have been several Legislative Acts containing different sets of measures in regards to the coronavirus pandemic, and all are taken based on the same legal instrument.
+The main (strictest) measures (lockdown) are included in the Act  ''ΚΥΑ 20036'' (Common Ministerial Decision 20036), 22.03.2020, Government Gazette no 986, titled ''Επιβολή του μέτρου του προσωρινού περιορισμού της κυκλοφορίας των πολιτών προς αντιμετώπιση του κινδύνου διασποράς του κορωνοϊού COVID-19.'' (Imposition of the temporary movement restriction measure against the spread of covid19'') (2) 
 
 *Sources*:
- https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/001-156%20aggliko.pdf;
-
+ (1)
+https://www.ynanp.gr/el/gr-epikoinwnias-enhmerwshs/prostasia-apo-neo-koronoio-nomothesia/
+(2)
+https://www.ispatras.gr/wp-content/uploads/2020/03/%CE%A6%CE%95%CE%9A-986_22-3-2020-%CF%84-%CE%92-%CE%95%CF%80%CE%B9%CE%B2%CE%BF%CE%BB%CE%AE-%CF%84%CE%BF%CF%85-%CE%BC%CE%AD%CF%84%CF%81%CE%BF%CF%85-%CF%84%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%81%CE%B9%CE%BD%CE%BF%CF%8D-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CF%84%CE%B7%CF%82-%CE%BA%CF%85%CE%BA%CE%BB%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B1%CF%82-%CF%84%CF%89%CE%BD-%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CF%8E%CE%BD.pdf
 http://constitutionnet.org/state-of-emergency;
 
 https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional-matter-of-life-and-death/;
 
-https://www.minedu.gov.gr/publications/docs2020/%CE%A0%CE%9D%CE%A0_4_20032020_%CE%A6%CE%95%CE%9A.pdf.pdf;
-
 https://covid19.gov.gr/nomothesia-gia-ton-covid-19/;
 
-http://www.dsanet.gr/epikairothta_nomothesia.asp
+
 
 
 
@@ -89,16 +90,20 @@ http://www.dsanet.gr/epikairothta_nomothesia.asp
 *Answer*: 2020-03-23 
 
 *Comments*:
- This is the date of the most strict legislative measures, i.e. the nationwide lockdown. 
+ This is the date of the most strict legislative measures, i.e. the nationwide lockdown. More measures were added gradually (but also before the lockdown). 
 
 *Sources*:
- https://www.minedu.gov.gr/publications/docs2020/%CE%A0%CE%9D%CE%A0_4_20032020_%CE%A6%CE%95%CE%9A.pdf.pdf
+ (1)
+https://www.ynanp.gr/el/gr-epikoinwnias-enhmerwshs/prostasia-apo-neo-koronoio-nomothesia/
+(2)
+https://www.ispatras.gr/wp-content/uploads/2020/03/%CE%A6%CE%95%CE%9A-986_22-3-2020-%CF%84-%CE%92-%CE%95%CF%80%CE%B9%CE%B2%CE%BF%CE%BB%CE%AE-%CF%84%CE%BF%CF%85-%CE%BC%CE%AD%CF%84%CF%81%CE%BF%CF%85-%CF%84%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%81%CE%B9%CE%BD%CE%BF%CF%8D-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CF%84%CE%B7%CF%82-%CE%BA%CF%85%CE%BA%CE%BB%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B1%CF%82-%CF%84%CF%89%CE%BD-%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CF%8E%CE%BD.pdf
 http://constitutionnet.org/state-of-emergency;
 
 https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional-matter-of-life-and-death/;
 
 https://covid19.gov.gr/nomothesia-gia-ton-covid-19/;
 
+https://www.news247.gr/koinonia/koronoios-18-erotapantiseis-gia-tin-apagoreysi-kykloforias.7607630.html
 https://www.tovima.gr/2020/03/22/society/odigos-epiviosis-stin-apagoreysi-kykloforias-18-apantiseis-gia-ola-osa-prepei-na-gnorizoume/
 
 
@@ -116,7 +121,7 @@ https://www.tovima.gr/2020/03/22/society/odigos-epiviosis-stin-apagoreysi-kyklof
 *Answer*: 2020-05-04 
 
 *Comments*:
- This date refers to the lifting of the lockdown. Shops and other services opened gradually later. 
+ This date refers to the lifting of the lockdown. Other measures were lifted gradually both before and after this date. Shops, bars and other services opened later. 
 
 *Sources*:
  https://www.garda.com/crisis24/news-alerts/337716/greece-government-to-ease-covid-19-restrictions-from-may-4-update-18;
@@ -146,15 +151,17 @@ https://www.bloomberg.com/news/articles/2020-04-27/greece-to-gradually-start-lif
  The nationwide lockdown was initially declared from March 23, 2020, until April 6, 2020. 
 
 *Sources*:
- https://www.minedu.gov.gr/publications/docs2020/%CE%A0%CE%9D%CE%A0_4_20032020_%CE%A6%CE%95%CE%9A.pdf.pdf
-https://www.tovima.gr/2020/03/22/society/odigos-epiviosis-stin-apagoreysi-kykloforias-18-apantiseis-gia-ola-osa-prepei-na-gnorizoume/
+ (1)
+https://www.ynanp.gr/el/gr-epikoinwnias-enhmerwshs/prostasia-apo-neo-koronoio-nomothesia/
+(2)
+https://www.ispatras.gr/wp-content/uploads/2020/03/%CE%A6%CE%95%CE%9A-986_22-3-2020-%CF%84-%CE%92-%CE%95%CF%80%CE%B9%CE%B2%CE%BF%CE%BB%CE%AE-%CF%84%CE%BF%CF%85-%CE%BC%CE%AD%CF%84%CF%81%CE%BF%CF%85-%CF%84%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%81%CE%B9%CE%BD%CE%BF%CF%8D-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CF%84%CE%B7%CF%82-%CE%BA%CF%85%CE%BA%CE%BB%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B1%CF%82-%CF%84%CF%89%CE%BD-%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CF%8E%CE%BD.pdf
 http://constitutionnet.org/state-of-emergency;
 
 https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional-matter-of-life-and-death/;
 
 https://covid19.gov.gr/nomothesia-gia-ton-covid-19/;
 
-
+https://www.tovima.gr/2020/03/22/society/odigos-epiviosis-stin-apagoreysi-kykloforias-18-apantiseis-gia-ola-osa-prepei-na-gnorizoume/
 
 
 
@@ -171,10 +178,20 @@ https://covid19.gov.gr/nomothesia-gia-ton-covid-19/;
 *Answer*: 2020-04-06 
 
 *Comments*:
-*No comment provided* 
+ The nationwide lockdown was initially declared from March 23, 2020, until April 6, 2020. 
 
 *Sources*:
-*No source provided*
+ (1)
+https://www.ynanp.gr/el/gr-epikoinwnias-enhmerwshs/prostasia-apo-neo-koronoio-nomothesia/
+(2)
+https://www.ispatras.gr/wp-content/uploads/2020/03/%CE%A6%CE%95%CE%9A-986_22-3-2020-%CF%84-%CE%92-%CE%95%CF%80%CE%B9%CE%B2%CE%BF%CE%BB%CE%AE-%CF%84%CE%BF%CF%85-%CE%BC%CE%AD%CF%84%CF%81%CE%BF%CF%85-%CF%84%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%81%CE%B9%CE%BD%CE%BF%CF%8D-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CF%84%CE%B7%CF%82-%CE%BA%CF%85%CE%BA%CE%BB%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B1%CF%82-%CF%84%CF%89%CE%BD-%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CF%8E%CE%BD.pdf
+http://constitutionnet.org/state-of-emergency;
+
+https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional-matter-of-life-and-death/;
+
+https://covid19.gov.gr/nomothesia-gia-ton-covid-19/;
+
+https://www.tovima.gr/2020/03/22/society/odigos-epiviosis-stin-apagoreysi-kykloforias-18-apantiseis-gia-ola-osa-prepei-na-gnorizoume/
 
 
 
@@ -198,6 +215,7 @@ https://covid19.gov.gr/nomothesia-gia-ton-covid-19/;
 
 *Sources*:
  https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/001-156%20aggliko.pdf;
+
 http://constitutionnet.org/state-of-emergency;
 
 
@@ -218,10 +236,12 @@ http://constitutionnet.org/state-of-emergency;
 *Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ As required by the Constitution, all Legislative Acts with measures against covid19 were, after their issuance, voted in the Parliament. The lockdown decision however was issued through a Ministerial Decision (KYΑ in greek), 
 
 *Sources*:
-*No source provided*
+ https://www.hellenicparliament.gr/Nomothetiko-Ergo/Anazitisi-Nomothetikou-Ergou?law_id=1bd1b0a6-1046-4ae2-baad-ab840154207f
+https://vouliwatch.gr/votewatch/voting/23d202fc-d522-46c3-ac37-8b99dc76fe5b
+https://www.kathimerini.gr/1071643/article/epikairothta/politikh/yperyhfisthke-sth-voylh-to-nomosxedio-kyrwshs-triwn-pnp-me-ektakta-metra
 
 
 
@@ -245,7 +265,9 @@ http://constitutionnet.org/state-of-emergency;
 *Answer*: 1 
 
 *Comments*:
- The initial and formal proposal by the parliament's Presidency was for the legislature to continue working as normal, but with fewer sessions and fewer MPs present. The parliamentary oversight is still in place and functioning. However, the government has launched several non-covid19 related laws, many of which quite important (environmental bills, education), and it has been accused of exploiitng the situation for its own benefit. 
+ The initial and formal proposal by the parliament's Presidency was for the legislature to continue working as normal, but with fewer sessions and fewer MPs present. The parliamentary oversight is still in place and functioning. However, the government has launched several non-covid19 related laws, many of which quite important (environmental bills, education), and it has been accused of exploiitng the situation for its own benefit.
+
+Also: ''The Greek Parliament will only vote on one draft bill per week, with priority given to bills related to the management of the coronavirus outbreak.'' (5) 
 
 *Sources*:
  https://vouliwatch.gr/news/article/ta-14-metra-poy-apofasise-i-voyli-gia-tin-antimetopisi-toy-koronoioy
@@ -255,6 +277,8 @@ https://balkaninsight.com/2020/04/28/greek-govt-accused-of-dodging-democratic-ov
 https://insidestory.gr/article/off-screen-covid19-vouli-nomothetisi-koronoios
 
 https://www.kathimerini.gr/1068683/article/epikairothta/ellada/allages-sth-leitoyrgia-ths-voylhs-logw-korwnoioy
+http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdf
+(5)
 
 
 
@@ -276,10 +300,13 @@ https://www.kathimerini.gr/1068683/article/epikairothta/ellada/allages-sth-leito
 *Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The lockdown, but also other measures such as the closing of all non-essential services, applied to the whole national territory. Some different measures were applied locally but only in relation with covid19 cases' distribution. 
 
 *Sources*:
- https://www.reuters.com/article/us-health-coronavirus-greece-lockdown/greece-extends-coronavirus-lockdown-measures-by-a-week-to-may-4-idUSKCN2251LH
+ https://www.ispatras.gr/wp-content/uploads/2020/03/%CE%A6%CE%95%CE%9A-986_22-3-2020-%CF%84-%CE%92-%CE%95%CF%80%CE%B9%CE%B2%CE%BF%CE%BB%CE%AE-%CF%84%CE%BF%CF%85-%CE%BC%CE%AD%CF%84%CF%81%CE%BF%CF%85-%CF%84%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%81%CE%B9%CE%BD%CE%BF%CF%8D-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CF%84%CE%B7%CF%82-%CE%BA%CF%85%CE%BA%CE%BB%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B1%CF%82-%CF%84%CF%89%CE%BD-%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CF%8E%CE%BD.pdf
+https://www.reuters.com/article/us-health-coronavirus-greece-lockdown/greece-extends-coronavirus-lockdown-measures-by-a-week-to-may-4-idUSKCN2251LH
+https://www.news247.gr/koinonia/koronoios-18-erotapantiseis-gia-tin-apagoreysi-kykloforias.7607630.html
+
 
 
 
@@ -655,10 +682,12 @@ https://balkaninsight.com/2020/05/14/in-pandemic-era-greece-fighting-for-control
 *Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The greek police is responsible for enforcing the lockdown measures. In addition, the Municipal Police, the Hellenic Coast Guard in their respective authority areas, and the National Transparency Authority participate in the enforcement efforts wherever necessary.
+ 
 
 *Sources*:
-*No source provided*
+ https://www.news247.gr/koinonia/koronoios-18-erotapantiseis-gia-tin-apagoreysi-kykloforias.7607630.html
+
 
 
 

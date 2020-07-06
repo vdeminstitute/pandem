@@ -355,7 +355,7 @@ https://ipi.media/new-fake-news-law-stifles-independent-reporting-in-russia-on-c
 *Answer:* *No answer entered* 
 
 *Comments*:
- Permanent amendments to Article 207 of Criminal Code from 31 March 2020 ( № 100-ФЗ). "The application of the new laws will not be time-limited to duration of the pandemic" according to the Council of Europe. 
+ Permanent amendments to Article 207 of Criminal Code from 31 March 2020 ( № 100-FZ). "The application of the new laws will not be time-limited to duration of the pandemic" according to the Council of Europe. 
 
 *Sources*:
  https://ipi.media/european-media-freedom-suffers-covid-19-response/
@@ -595,11 +595,13 @@ https://rsf.org/en/russia
 
 *Scale*: Character string. 
 
-*Answer*: 1) abuse of restrictions on freedom of assembly 2) abuse of mass surveillance technology 
+*Answer*: 1) abuse of restrictions on freedom of assembly 2) new mass surveillance technology 
 
 *Comments*:
- 1) detention of journalists and activists who were conducing single-person pickets following the arrest of a journalist Ilya Azar, who was earlier detained on the same grounds (https://www.amnesty.org/en/latest/news/2020/05/russia-prominent-journalists-detention-epitomizes-authorities-crackdown-on-activists-amid-covid-19/) 
+ 1) detention of journalists and activists who were conducing single-person pickets following the arrest of a journalist Ilya Azar, who was earlier detained on the same grounds (https://www.amnesty.org/en/latest/news/2020/05/russia-prominent-journalists-detention-epitomizes-authorities-crackdown-on-activists-amid-covid-19/) 2) new surveillance measures, such as facial recognition, that Human Rights Watch says may potentially be abused 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/29/russia-journalists-held-over-peaceful-pickets;
+ 1)
+https://www.hrw.org/news/2020/05/29/russia-journalists-held-over-peaceful-pickets
+2)
 https://www.hrw.org/news/2020/03/25/moscow-silently-expands-surveillance-citizens

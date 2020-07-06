@@ -595,13 +595,14 @@ https://english.alaraby.co.uk/english/news/2020/6/15/turkish-police-fire-tear-ga
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ No evidence has been found that Turkey has deployed its military to enforce emergency measures. 
 
 *Sources*:
-*No source provided*
+ http://euromil.org/armed-forces-and-covid-19/
+https://www.acaps.org/covid19-government-measures-dataset
 
 
 

@@ -46,10 +46,10 @@ http://www.fbihvlada.gov.ba/bosanski/zakoni/2020/Odluke/198.htm
 
 *Scale*: Character string. 
 
-*Answer*: Law on Protection and Rescue of People and Material Goods from Natural or Other Disasters in Bosnia and Herzegovina (Article 13, point h) 
+*Answer*: člana 13. tačka (h) Okvirnog zakona o zaštiti i spašavanju ljudi i materijalnih dobara od prirodnih ili drugih nesreća u Bosni i Hercegovini 
 
 *Comments*:
- The law gives the Council of Ministers (the executive on the national level) the power to declare a state of natural or other disaster. Note on subnational variation: legal instrument to declare a state of emergency in the Serb Republic is Article 8 of the Law on Protection and Rescue in Emergency Situation (Decision published in Official Gazette 25/20, https://www.slglasnik.org/cyr/aktuelno/obavjestenja/objavjben-je-sgrs-2520). The legal instruments to declare a state of disaster in the Bosniak-Croat Federation are Law on the Government of the Federation of BiH (Article 19, paragraph 2),  Article 24, Item 11 of the Law on Protection and Rescue of People and Material Goods from Natural and Other Disasters,  Article 32 of the Rulebook on the Manner of Work and functioning of staffs and commissioners of civil protection (Decision published in the Official Gazette of the Federation of BiH», No. 21/20, http://www.fbihvlada.gov.ba/bosanski/zakoni/2020/odluke_registar.html) 
+ Own English translation: Law on Protection and Rescue of People and Material Goods from Natural or Other Disasters in Bosnia and Herzegovina (Article 13, point h). The law gives the Council of Ministers (the executive on the national level) the power to declare a state of natural or other disaster. Note on subnational variation: legal instrument to declare a state of emergency in the Serb Republic is Article 8 of the Law on Protection and Rescue in Emergency Situation (Decision published in Official Gazette 25/20, https://www.slglasnik.org/cyr/aktuelno/obavjestenja/objavjben-je-sgrs-2520). The legal instruments to declare a state of disaster in the Bosniak-Croat Federation are Law on the Government of the Federation of BiH (Article 19, paragraph 2),  Article 24, Item 11 of the Law on Protection and Rescue of People and Material Goods from Natural and Other Disasters,  Article 32 of the Rulebook on the Manner of Work and functioning of staffs and commissioners of civil protection (Decision published in the Official Gazette of the Federation of BiH», No. 21/20, http://www.fbihvlada.gov.ba/bosanski/zakoni/2020/odluke_registar.html) 
 
 *Sources*:
  http://www.sluzbenilist.ba/page/akt/bTsBUE4N5GM=
@@ -134,7 +134,7 @@ http://msb.gov.ba/Zakoni/zakoni/default.aspx?id=1721&langTag=bs-BA
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ emlimit = 0 
 
 *Sources*:
 *No source provided*
@@ -602,7 +602,7 @@ https://www.hrw.org/europe/central-asia/bosnia-and-herzegovina
 *Answer*: 0 
 
 *Comments*:
- The presidency ordered the Defense Forces to establish tents at the borders for the enforcement of quarantine for citizens entering the country 
+ The presidency ordered the Defense Forces to establish tents at the borders for the enforcement of quarantine for citizens entering the country, which is not coded since these are not coercive measures. 
 
 *Sources*:
  http://www.predsjednistvobih.ba/saop/default.aspx?id=87867&langTag=bs-BA

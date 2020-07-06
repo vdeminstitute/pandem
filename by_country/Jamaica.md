@@ -51,7 +51,7 @@ https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%2
 *Answer*: the Disaster Risk Management Act 
 
 *Comments*:
-*No comment provided* 
+ Section 26 (2) of the Disaster Risk Management Act is used as main instrument for a national response to Covid-19. 
 
 *Sources*:
  https://moj.gov.jm/sites/default/files/DRMA07.pdf
@@ -72,13 +72,13 @@ https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%2
 
 *Scale*: Date format. 
 
-*Answer:* *No answer entered* 
+*Answer*: 2020-03-13 
 
 *Comments*:
-*No comment provided* 
+ The Prime Minister declared the whole of Jamaica a Disaster Area from March 13. 
 
 *Sources*:
-*No source provided*
+ https://moj.gov.jm/sites/default/files/DRMA07.pdf
 
 
 
@@ -100,8 +100,6 @@ https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%2
 
 *Sources*:
  https://moj.gov.jm/sites/default/files/DRMA07.pdf
-
-https://moj.gov.jm/sites/default/files/DRMA07A.pdf
 
 https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
 
@@ -152,7 +150,7 @@ https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%2
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as there is no official end date (variable emlimit). 
 
 *Sources*:
 *No source provided*
@@ -172,13 +170,14 @@ https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%2
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ According to Section 26 (2) of the Disaster Risk Management Act, the Prime Minister does not need approval by parliament to declare the whole or any part of Jamaic to be a desaster area. 
 
 *Sources*:
-*No source provided*
+ https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
+
 
 
 
@@ -195,13 +194,14 @@ https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%2
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ According to Section 26 (2) of the Disaster Risk Management Act, the Prime Minister does not need approval by parliament to declare the whole or any part of Jamaic to be a desaster area. 
 
 *Sources*:
-*No source provided*
+ https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
+
 
 
 
@@ -247,13 +247,17 @@ https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%2
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ There is no sub-national variation in the law or regulations relevant to Covid-19. 
 
 *Sources*:
-*No source provided*
+ https://moj.gov.jm/sites/default/files/DRMA07.pdf
+
+https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
+
+
 
 
 
@@ -377,7 +381,7 @@ https://www.bbc.com/news/topics/c50znx8v848t/jamaica
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as there are no de-jure limitations on media freedom (variable melim). 
 
 *Sources*:
 *No source provided*
@@ -397,7 +401,7 @@ https://www.bbc.com/news/topics/c50znx8v848t/jamaica
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as there are no de-jure limitations on media freedom (variable melim). 
 
 *Sources*:
 *No source provided*
@@ -644,13 +648,17 @@ https://www.bbc.com/news/topics/c50znx8v848t/jamaica
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ According to section 47 of the Disaster Risk Management Act, only the Director-General or a member of a police force may prosecute for an offence to the act, or regulations made under it. There are also no reports of the military enforcing lockdown. 
 
 *Sources*:
-*No source provided*
+ https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
+
+https://www.bbc.com/news/topics/c50znx8v848t/jamaica
+
+https://www.reuters.com/search/news?blob=jamaica
 
 
 
