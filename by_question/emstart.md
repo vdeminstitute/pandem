@@ -49,7 +49,7 @@ https://www.middleeasteye.net/opinion/coronavirus-algeria-amid-economic-crisis-s
 *Answer*: 2020-03-27 
 
 *Comments*:
- Decreto Presidencial n.º 81/20, de 25 de março (page 74) 
+*No comment provided* 
 
 *Sources*:
  https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
@@ -277,7 +277,9 @@ https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://www.garda.com/crisis24/news-alerts/333951/cambodia-senate-authorizes-state-of-emergency-april-17-update-8
+
+
 
 
 
@@ -495,7 +497,7 @@ https://www.retsinformation.dk/eli/ft/201913L00133
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as no legal instrument (variable emlaw) was used. 
 
 *Sources*:
 *No source provided*
@@ -506,7 +508,7 @@ https://www.retsinformation.dk/eli/ft/201913L00133
 *Answer*: 2020-04-08 
 
 *Comments*:
-*No comment provided* 
+ Ethiopia declares a State of Emergency on April 8. 
 
 *Sources*:
  https://www.garda.com/crisis24/news-alerts/330611/ethiopia-government-declares-state-of-emergency-due-to-covid-19-april-8-update-8
@@ -610,16 +612,20 @@ https://www.gabonmediatime.com/covid-19-ali-bongo-decrete-letat-durgence/
 *Answer*: 2020-03-23 
 
 *Comments*:
- This is the date of the most strict legislative measures, i.e. the nationwide lockdown. 
+ This is the date of the most strict legislative measures, i.e. the nationwide lockdown. More measures were added gradually (but also before the lockdown). 
 
 *Sources*:
- https://www.minedu.gov.gr/publications/docs2020/%CE%A0%CE%9D%CE%A0_4_20032020_%CE%A6%CE%95%CE%9A.pdf.pdf
+ (1)
+https://www.ynanp.gr/el/gr-epikoinwnias-enhmerwshs/prostasia-apo-neo-koronoio-nomothesia/
+(2)
+https://www.ispatras.gr/wp-content/uploads/2020/03/%CE%A6%CE%95%CE%9A-986_22-3-2020-%CF%84-%CE%92-%CE%95%CF%80%CE%B9%CE%B2%CE%BF%CE%BB%CE%AE-%CF%84%CE%BF%CF%85-%CE%BC%CE%AD%CF%84%CF%81%CE%BF%CF%85-%CF%84%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%81%CE%B9%CE%BD%CE%BF%CF%8D-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CF%84%CE%B7%CF%82-%CE%BA%CF%85%CE%BA%CE%BB%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B1%CF%82-%CF%84%CF%89%CE%BD-%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CF%8E%CE%BD.pdf
 http://constitutionnet.org/state-of-emergency;
 
 https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional-matter-of-life-and-death/;
 
 https://covid19.gov.gr/nomothesia-gia-ton-covid-19/;
 
+https://www.news247.gr/koinonia/koronoios-18-erotapantiseis-gia-tin-apagoreysi-kykloforias.7607630.html
 https://www.tovima.gr/2020/03/22/society/odigos-epiviosis-stin-apagoreysi-kykloforias-18-apantiseis-gia-ola-osa-prepei-na-gnorizoume/
 
 
@@ -793,14 +799,13 @@ https://www.france24.com/en/20200324-coronavirus-curfews-in-senegal-and-ivory-co
 
 
 # Jamaica 
-
-*Answer:* *No answer entered* 
+*Answer*: 2020-03-13 
 
 *Comments*:
-*No comment provided* 
+ The Prime Minister declared the whole of Jamaica a Disaster Area from March 13. 
 
 *Sources*:
-*No source provided*
+ https://moj.gov.jm/sites/default/files/DRMA07.pdf
 
 
 
@@ -924,14 +929,14 @@ https://www.constituteproject.org/constitution/Lesotho_2018.pdf?lang=en
 
 
 # Liberia 
-
-*Answer:* *No answer entered* 
+*Answer*: 2020-04-09 
 
 *Comments*:
-*No comment provided* 
+ A state of emergency was declared April 9 2020. 
 
 *Sources*:
-*No source provided*
+ https://www.emansion.gov.lr/doc/ADDRESS%20TO%20THE%20NATION.pdf
+
 
 
 
@@ -1103,14 +1108,17 @@ effect".
 
 
 # Nepal 
-
-*Answer:* *No answer entered* 
+*Answer*: 2020-03-24 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ "https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+
+http://www.lawcommission.gov.np/en/archives/12240"
+
+https://kathmandupost.com/national/2020/03/23/nepal-goes-under-lockdown-for-a-week-starting-6am-Tuesday
 
 
 
@@ -1216,14 +1224,13 @@ https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyhet
 
 
 # Oman 
-
-*Answer:* *No answer entered* 
+*Answer*: 2020-03-10 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://omannews.gov.om/Local/ArtMID/416/ArticleID/9985
 
 
 

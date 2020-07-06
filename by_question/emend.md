@@ -555,7 +555,7 @@ https://www.asamblea.gob.sv/sites/default/files/documents/decretos/5DCA733A-30C1
 *Answer:* *No answer entered* 
 
 *Comments*:
- The state of emergency is expected to end in early september. Ethiopia is currently under a five-month state of emergency declared in early April. 
+ The state of emergency is expected to end September 8, based on the five months State of Emergency that started on April 8 2020. 
 
 *Sources*:
  https://www.garda.com/crisis24/news-alerts/330611/ethiopia-government-declares-state-of-emergency-due-to-covid-19-april-8-update-8
@@ -653,7 +653,7 @@ https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-65.pdf
 *Answer*: 2020-05-04 
 
 *Comments*:
- This date refers to the lifting of the lockdown. Shops and other services opened gradually later. 
+ This date refers to the lifting of the lockdown. Other measures were lifted gradually both before and after this date. Shops, bars and other services opened later. 
 
 *Sources*:
  https://www.garda.com/crisis24/news-alerts/337716/greece-government-to-ease-covid-19-restrictions-from-may-4-update-18;
@@ -844,8 +844,6 @@ https://www.osac.gov/Country/CotedIvoire/Detail
 
 *Sources*:
  https://moj.gov.jm/sites/default/files/DRMA07.pdf
-
-https://moj.gov.jm/sites/default/files/DRMA07A.pdf
 
 https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
 

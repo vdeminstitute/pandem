@@ -801,22 +801,22 @@ https://ghanalawhub.com/overview-of-the-imposition-of-restrictions-act-2020-act-
 *Answer*: 4 
 
 *Comments*:
- The greek Constitution has provisions both for state of emergency (called state of siege, art. 48 of 2008 revision of the 1975 contistution), which however applies strictly to war, and for giving extraordinary powers to the executive in all other emergency situations other than war. It is this article that was invoked, art 44 of the Constitution, which gives the executive the power to ''fast-track'' law-making, by the so-called ''Acts of Legislative Content''. 
+ The greek Constitution (1) has provisions both for state of emergency (called state of siege, art. 48 of 2008 revision of the 1975 contistution), which however applies strictly to war, and for giving extraordinary powers to the executive in all other emergency situations other than war. It is this article that was invoked, art 44 of the Constitution, which gives the executive the power to ''fast-track'' law-making, by the so-called ''Acts of Legislative Content''. 
 
 *Sources*:
- https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/001-156%20aggliko.pdf
+ (1)
+https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/001-156%20aggliko.pdf
 ;
 
 http://constitutionnet.org/state-of-emergency
 ;
 
+https://www.ynanp.gr/el/gr-epikoinwnias-enhmerwshs/prostasia-apo-neo-koronoio-nomothesia/
 https://www.ispatras.gr/wp-content/uploads/2020/03/%CE%A6%CE%95%CE%9A-986_22-3-2020-%CF%84-%CE%92-%CE%95%CF%80%CE%B9%CE%B2%CE%BF%CE%BB%CE%AE-%CF%84%CE%BF%CF%85-%CE%BC%CE%AD%CF%84%CF%81%CE%BF%CF%85-%CF%84%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%81%CE%B9%CE%BD%CE%BF%CF%8D-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CF%84%CE%B7%CF%82-%CE%BA%CF%85%CE%BA%CE%BB%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B1%CF%82-%CF%84%CF%89%CE%BD-%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CF%8E%CE%BD.pdf
 https://www.icnl.org/covid19tracker/?location=48&issue=&date=&type=
-https://www.minedu.gov.gr/publications/docs2020/%CE%A0%CE%9D%CE%A0_4_20032020_%CE%A6%CE%95%CE%9A.pdf.pdf;
-https://covid19.gov.gr/nomothesia-gia-ton-covid-19/
-;
 http://www.dsanet.gr/epikairothta_nomothesia.asp
 https://www.tovima.gr/2020/03/22/society/odigos-epiviosis-stin-apagoreysi-kykloforias-18-apantiseis-gia-ola-osa-prepei-na-gnorizoume/
+
 
 
 
@@ -1279,15 +1279,20 @@ https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8feb1a7658a111eaac56f6e40072e018/
 
 *Comments*:
  Madagascar declared a State of Health Emergency on March 21, 2020 for 2 weeks, based on:
-Constitution, article 61; 
-Law n ° 91-011 of July 18, 1991 relating to emergency situations;
-Law n ° 2011-002 of July 15, 2011 on the Public Health Code; 
+Constitution, article 61; (1)
+Law n ° 91-011 of July 18, 1991 relating to emergency situations; (2) 
+Law n ° 2011-002 of July 15, 2011 on the Public Health Code; (4) 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Madagascar_2010.pdf?lang=en
+ (1)
+https://www.constituteproject.org/constitution/Madagascar_2010.pdf?lang=en
+(2)
 https://jwf-legal2.fr.gd/Lois-245.htm
+(3)
 https://www.presidence.gov.mg/actualites/755-decret-n-2020-359-du-21-mars-2020-proclamant-l-etat-d-urgence-sanitaire-sur-tout-le-territoire-de-la-republique.html
+(4)
 http://extwprlegs1.fao.org/docs/pdf/Mad176601.pdf
+(5)
 https://actu.orange.mg/une-nouvelle-prolongation-de-letat-durgence-sanitaire-a-madagascar/
 
 

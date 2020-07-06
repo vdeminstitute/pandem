@@ -519,7 +519,7 @@ https://www.hrw.org/news/2020/05/07/egypt-covid-19-cover-new-repressive-powers
 *Answer*: 1 
 
 *Comments*:
- The state of emergency is expected to end in early september. Ethiopia is currently under a five-month state of emergency declared in early April. 
+ The state of emergency is expected to end September 8, based on the five months State of Emergency that started on April 8 2020. 
 
 *Sources*:
  
@@ -619,15 +619,17 @@ https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-65.pdf
  The nationwide lockdown was initially declared from March 23, 2020, until April 6, 2020. 
 
 *Sources*:
- https://www.minedu.gov.gr/publications/docs2020/%CE%A0%CE%9D%CE%A0_4_20032020_%CE%A6%CE%95%CE%9A.pdf.pdf
-https://www.tovima.gr/2020/03/22/society/odigos-epiviosis-stin-apagoreysi-kykloforias-18-apantiseis-gia-ola-osa-prepei-na-gnorizoume/
+ (1)
+https://www.ynanp.gr/el/gr-epikoinwnias-enhmerwshs/prostasia-apo-neo-koronoio-nomothesia/
+(2)
+https://www.ispatras.gr/wp-content/uploads/2020/03/%CE%A6%CE%95%CE%9A-986_22-3-2020-%CF%84-%CE%92-%CE%95%CF%80%CE%B9%CE%B2%CE%BF%CE%BB%CE%AE-%CF%84%CE%BF%CF%85-%CE%BC%CE%AD%CF%84%CF%81%CE%BF%CF%85-%CF%84%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%81%CE%B9%CE%BD%CE%BF%CF%8D-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CF%84%CE%B7%CF%82-%CE%BA%CF%85%CE%BA%CE%BB%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B1%CF%82-%CF%84%CF%89%CE%BD-%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CF%8E%CE%BD.pdf
 http://constitutionnet.org/state-of-emergency;
 
 https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional-matter-of-life-and-death/;
 
 https://covid19.gov.gr/nomothesia-gia-ton-covid-19/;
 
-
+https://www.tovima.gr/2020/03/22/society/odigos-epiviosis-stin-apagoreysi-kykloforias-18-apantiseis-gia-ola-osa-prepei-na-gnorizoume/
 
 
 
@@ -797,7 +799,7 @@ https://www.garda.com/crisis24/news-alerts/310166/italy-council-of-ministers-iss
 *Answer*: 0 
 
 *Comments*:
- In the Decree 2020-351 du 23 mars, 2020 whis declared a state of emergency, it mentions that this measure may be renewed if necessary, no limit date.  
+ In the Decree 2020-351 du 23 mars, 2020 which declared a state of emergency, it mentions that this measure may be renewed if necessary, no limit date.  
 All the sources also mention that the President did not specify the duration of these new measures.
 In the Law of 1969 on the state of emergency, it states that the decree declaring a state of emergency should specify its duration, but it does not do so.
 

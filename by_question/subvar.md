@@ -196,10 +196,12 @@ https://www.garda.com/crisis24/news-alerts/337196/bosnia-herzegovina-government-
 *Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The regulations apply to the wole of Botswana, accordig to section 3 in the  Emergency Powers Covid-19 Regulations 2020. 
 
 *Sources*:
-*No source provided*
+ https://bw.usembassy.gov/wp-content/uploads/sites/125/Emergency-Powers-COVID-19-Regulations-2020.pdf
+
+https://ifex.org/covid-19-in-africa-right-to-information-another-casualty-with-spike-in-attacks-on-journalists/
 
 
 
@@ -207,7 +209,7 @@ https://www.garda.com/crisis24/news-alerts/337196/bosnia-herzegovina-government-
 *Answer*: 3 
 
 *Comments*:
- The Supreme Count established that states and cities have the autonomy to decide which measures to take in response to the pandemic. There are very different responses in place. 
+ The Supreme Count established that states and cities have the autonomy to decide which measures to take in response to the pandemic. There are very different responses in place, with some cities/states declaring a complete lockdown while others adopt no restrictive measures. 
 
 *Sources*:
  http://www.stf.jus.br/portal/cms/verNoticiaDetalhe.asp?idConteudo=441447
@@ -219,7 +221,7 @@ https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/09/saiba-onde
 *Answer*: 1 
 
 *Comments*:
- Stricter measures in Bansko, Panagyurishte 
+ Mostly uniform measures,, stricter measures in Bansko, Panagyurishte 
 
 *Sources*:
  https://www.bnt.bg/en/a/coronavirus-bulgarias-bansko-ski-resort-under-strict-lock-down
@@ -239,14 +241,15 @@ https://www.bnt.bg/en/a/curfew-introduced-in-panagyurishte-because-of-the-corona
 
 
 # Burma/Myanmar 
-
-*Answer:* *No answer entered* 
+*Answer*: 2 
 
 *Comments*:
-*No comment provided* 
+ Many of the emergency measures have been enforced nationwide. However, there have been variation in that curfews initially were only placed in three regions (Yangon, Ayeyawaddy, and Nay Pyi Taw). This is therefore coded as 2, there has been some sub-national variation. 
 
 *Sources*:
-*No source provided*
+ https://www.garda.com/crisis24/news-alerts/333906/myanmar-authorities-introduce-curfews-in-three-regions-from-april-18-update-7
+https://www.garda.com/crisis24/news-alert-full-history/aFv8t8QnEdDsHp4ZF/myanmar-extended-quarantine-measures-implemented-due-to-covid-19-march-19
+https://www.acaps.org/covid19-government-measures-dataset
 
 
 
@@ -365,14 +368,14 @@ The tables under the heading 'lockdown timeline' in the wikipedia source show ho
 
 
 # Colombia 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The measures have a national scope 
 
 *Sources*:
-*No source provided*
+ http://www.regiones.gov.co/Inicio/assets/files/51.pdf
+https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20637%20DEL%206%20DE%20MAYO%20DE%202020.pdf
 
 
 
@@ -401,14 +404,14 @@ https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-ap
 
 
 # Cuba 
-
-*Answer:* *No answer entered* 
+*Answer*: 2 
 
 *Comments*:
-*No comment provided* 
+ Some more restrictive measures have been implemented in cities with a higher number of cases 
 
 *Sources*:
-*No source provided*
+ http://www.cubadebate.cu/noticias/2020/05/30/prolongan-cuarentena-por-la-covid-19-en-poblado-de-ciego-de-avila/#.Xv9cPCgzbIU
+https://diariodecuba.com/cuba/1588083336_17725.html
 
 
 
@@ -497,26 +500,26 @@ https://www.retsinformation.dk/eli/ft/201913L00133
 
 
 # El Salvador 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The measures have a national scope 
 
 *Sources*:
-*No source provided*
+ https://imprentanacional.gob.sv/compilacion-de-decretos-de-emergencia-por-covid-19/
 
 
 
 # Eritrea 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The guidelines apply to all of Eritrea. 
 
 *Sources*:
-*No source provided*
+ http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
+
+https://www.garda.com/crisis24/coronavirus-updates?referer=map
 
 
 
@@ -622,22 +625,24 @@ https://finanzen.thueringen.de/aktuelles/medieninfo/detailseite/servicestellen-d
 *Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The lockdown, but also other measures such as the closing of all non-essential services, applied to the whole national territory. Some different measures were applied locally but only in relation with covid19 cases' distribution. 
 
 *Sources*:
- https://www.reuters.com/article/us-health-coronavirus-greece-lockdown/greece-extends-coronavirus-lockdown-measures-by-a-week-to-may-4-idUSKCN2251LH
+ https://www.ispatras.gr/wp-content/uploads/2020/03/%CE%A6%CE%95%CE%9A-986_22-3-2020-%CF%84-%CE%92-%CE%95%CF%80%CE%B9%CE%B2%CE%BF%CE%BB%CE%AE-%CF%84%CE%BF%CF%85-%CE%BC%CE%AD%CF%84%CF%81%CE%BF%CF%85-%CF%84%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%81%CE%B9%CE%BD%CE%BF%CF%8D-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CF%84%CE%B7%CF%82-%CE%BA%CF%85%CE%BA%CE%BB%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B1%CF%82-%CF%84%CF%89%CE%BD-%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CF%8E%CE%BD.pdf
+https://www.reuters.com/article/us-health-coronavirus-greece-lockdown/greece-extends-coronavirus-lockdown-measures-by-a-week-to-may-4-idUSKCN2251LH
+https://www.news247.gr/koinonia/koronoios-18-erotapantiseis-gia-tin-apagoreysi-kykloforias.7607630.html
+
 
 
 
 # Guatemala 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The measures have a national scope 
 
 *Sources*:
-*No source provided*
+ https://www.minfin.gob.gt/images/calamidad/documentos/Decreto%20No%205-2020%20-%20COVID-19.pdf
 
 
 
@@ -667,14 +672,14 @@ http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de
 
 
 # Honduras 
-
-*Answer:* *No answer entered* 
+*Answer*: 2 
 
 *Comments*:
-*No comment provided* 
+ At first the measures were the same, but the government began an "inteligent reopening" with different phases in which cities with a smaller number of cases are allowed to lift the restrictive measures. 
 
 *Sources*:
-*No source provided*
+ https://www.laprensa.hn/honduras/1388142-410/cierran-mercados-honduras-focos-contagio-covid-19-
+https://www.diez.hn/coronavirus/1388127-441/segunda-fase-apertura-inteligente-reactivacion-economica-suspenso-coronavirus-honduras
 
 
 
@@ -714,50 +719,53 @@ http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de
 
 
 # Iran 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ Iran's emergency measures have been implemented nationwide by the government, and no sub-national variation in these measures have been found. This is therefore coded as 0. 
 
 *Sources*:
-*No source provided*
+ https://www.garda.com/crisis24/news-alert-full-history/N9NhpAJjGdQ34cnYX/iran-officials-suspend-flights-to-and-from-china-due-to-novel-coronavirus-as-of-january-31
+https://www.acaps.org/covid19-government-measures-dataset
 
 
 
 # Iraq 
-
-*Answer:* *No answer entered* 
+*Answer*: 2 
 
 *Comments*:
-*No comment provided* 
+ Several measures have been taken for the whole country, such as school closing, curfews,  limiting public gatherings, but there has also much regional variation. Baghdad and Najaf have imposed curfews and lockdowns beyond the national-level emergency response, and the Kurdish region of Iraq has have also imposed significant emergency measures such as lockdowns and limitations on movement. Considering that much repsonse has also been taken at the national level as well, this does not count as a complete sub-national variation, and therefore coded as 2. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
+https://www.garda.com/crisis24/news-alert-full-history/skyyNqiseFrGow3WS/iraq-government-bans-entry-of-travelers-from-china-as-of-february-2-amid-covid-19-outbreak
+https://www.garda.com/crisis24/news-alerts/320991/iraq-authorities-order-closure-of-najaf-province-over-covid-19-outbreak-march-11-update-10
+https://www.garda.com/crisis24/news-alerts/324521/iraq-lockdown-extended-in-kurdistan-region-march-18-update-14
 
 
 
 # Ireland 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The emergency measures have been taken nationwide and no sub-national variation has been found in Ireland. This is therefore coded as 0. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
+https://www.garda.com/crisis24/news-alert-full-history/QRxmkCyBbNst6LbX5/ireland-first-case-of-covid-19-confirmed-in-country-february-29
 
 
 
 # Israel 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The emergency measures have been taken nationwide and no sub-national variation has been found in Israel. This is therefore coded as 0. 
 
 *Sources*:
-*No source provided*
+ https://www.garda.com/crisis24/news-alert-full-history/pX7cDbbneik6HZj4a/israelpalestinian-terr-el-al-suspends-all-flights-to-china-due-to-novel-coronavirus-january-30
+https://www.acaps.org/covid19-government-measures-dataset
+https://www.garda.com/crisis24/news-alert-full-
 
 
 
@@ -787,14 +795,17 @@ https://www.institutmontaigne.org/en/blog/coronavirus-and-africa-towards-postpon
 
 
 # Jamaica 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ There is no sub-national variation in the law or regulations relevant to Covid-19. 
 
 *Sources*:
-*No source provided*
+ https://moj.gov.jm/sites/default/files/DRMA07.pdf
+
+https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
+
+
 
 
 
@@ -811,14 +822,14 @@ https://www.institutmontaigne.org/en/blog/coronavirus-and-africa-towards-postpon
 
 
 # Jordan 
-
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ Jordan's emergency measures have been implemented nationally, but some regions (Aqaba, Irbid, Karak, Ma’an, Mafraq and Tafila) have eased their lockdowns more than other regions. This is thus a smaller sub-national variation, and coded as 1. 
 
 *Sources*:
-*No source provided*
+ https://www.garda.com/crisis24/news-alert-full-history/NFhXD4B95qP4aB2vu/jordan-quarantine-and-screening-measures-implemented-nationwide-february-2
+https://www.acaps.org/covid19-government-measures-dataset
 
 
 
@@ -826,7 +837,7 @@ https://www.institutmontaigne.org/en/blog/coronavirus-and-africa-towards-postpon
 *Answer*: 1 
 
 *Comments*:
- stricter measures in Nur-Sultan, Almaty and Shymkent 
+ Mostly uniform measures, stricter measures in Nur-Sultan, Almaty and Shymkent 
 
 *Sources*:
  https://www.garda.com/crisis24/news-alerts/328946/kazakhstan-government-implements-restrictive-measures-in-shymkent-april-4-update-10
@@ -873,26 +884,27 @@ https://kw.usembassy.gov/covid-19-information/https://www.garda.com/crisis24/new
 
 
 # Laos 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The emergency measures have been taken nationwide and no sub-national variation has been found in Laos. This is therefore coded as 0. 
 
 *Sources*:
-*No source provided*
+ https://www.garda.com/crisis24/news-alert-full-history/QdgTsHwDr2kJ9R5FC/laos-lao-airlines-to-suspend-flight-to-south-korea-from-march
+https://www.acaps.org/covid19-government-measures-dataset
+
 
 
 
 # Lebanon 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The emergency measures have been taken nationwide and no sub-national variation has been found in Lebanon. This is therefore coded as 0. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
+https://www.garda.com/crisis24/news-alert-full-history/QaSde7jsB6oYEcCsE/lebanon-first-case-of-coronavirus-covid-19-confirmed-february-21
 
 
 
@@ -900,7 +912,7 @@ https://kw.usembassy.gov/covid-19-information/https://www.garda.com/crisis24/new
 *Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ Nationwide state of emergency. 
 
 *Sources*:
  https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
@@ -912,26 +924,27 @@ https://www.icnl.org/covid19tracker/?location=73&issue=&date=&type=
 
 
 # Liberia 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The measures apply to all of Liberia. 
 
 *Sources*:
-*No source provided*
+ https://www.emansion.gov.lr/2press.php?news_id=5159&related=7&pg=sp
+
+https://www.emansion.gov.lr/doc/ADDRESS%20TO%20THE%20NATION.pdf
 
 
 
 # Libya 
-
-*Answer:* *No answer entered* 
+*Answer*: 2 
 
 *Comments*:
-*No comment provided* 
+ Many of the emergency measures have been taken at the national level (or at least in the areas that the GNA controls), but there are some important regional variations. Eastern Libya implemented curfews for example, and Misrata initiated a full lockdon. Since these are important measures taken at the sub-national level, but many measures also have been implement nationwide, this is coded as 2. 
 
 *Sources*:
-*No source provided*
+ https://www.reuters.com/article/us-health-coronavirus-libya-curfew/eastern-libya-imposes-curfew-over-pandemic-idUSKBN21526W
+https://www.garda.com/crisis24/news-alert-full-history/QFKwn6iXz6WGQdzEi/libya-land-and-sea-borders-to-close-due-to-covid-19-march-16
 
 
 
@@ -972,13 +985,15 @@ https://www.garda.com/crisis24/news-alerts/329996/madagascar-nationwide-state-of
 
 
 # Malaysia 
-*Answer*: 1 
+*Answer*: 2 
 
 *Comments*:
- The emergency measures are primarily taken at the national level without big regional differences. However, ACAPS record some such differences, for example that Yangon has implemented a 21-day traffic restriction, and that states with camps of internally displaced people have implemented action plans to handle the Covid-19 outbreak in these camps. This is then a minor sub-national variation, and coded as 1. 
+ Many measures have been taken nationwide in Malaysia. However, there ahs been regional measures such as  curfews, limits of public gatherings and lockdowns along with those measures taken by national government. Thus there has been some regiona l variation in emergency measures, but also some conforming measures. This is therefore coded as 2. 
 
 *Sources*:
  https://www.acaps.org/covid19-government-measures-dataset
+https://www.garda.com/crisis24/news-alerts/320071/malaysia-sarawak-state-implements-entry-restrictions-amid-covid-19-outbreak-march-4-update-3
+https://www.garda.com/crisis24/news-alert-full-history/7TqZBkyuLyzLPQAyN/malaysia-first-cases-of-2019-ncov-confirmed-january-25
 
 
 
@@ -1015,14 +1030,15 @@ https://mr.usembassy.gov/covid-19-information-2/
 
 
 # Mexico 
-
-*Answer:* *No answer entered* 
+*Answer*: 3 
 
 *Comments*:
-*No comment provided* 
+ Some measures have a national scope, but local governments can also define their own measures 
 
 *Sources*:
-*No source provided*
+ https://www.infobae.com/america/mexico/2020/06/20/gobernadores-de-ocho-estados-solicitaron-a-amlo-suspender-megaobras-y-usar-los-recursos-en-contra-del-coronavirus/
+https://politica.expansion.mx/estados/2020/04/21/que-implica-la-fase-3-coronavirus-medidas-edomex-guanajuato-valle-de-mexico
+https://www.xataka.com.mx/medicina-y-salud/yucatan-primer-estado-mexico-que-te-dara-tres-anos-carcel-tienes-covid-19-no-cumples-cuarentena
 
 
 
@@ -1038,14 +1054,14 @@ https://mr.usembassy.gov/covid-19-information-2/
 
 
 # Mongolia 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The emergency measures have been taken nationwide and no sub-national variation has been found in Mongolia. This is therefore coded as 0. 
 
 *Sources*:
-*No source provided*
+ https://www.garda.com/crisis24/news-alert-full-history/YDjwxi8GHSZoCDHEK/mongolia-government-closes-borders-with-china-to-prevent-2019-ncov-spread-january-27
+https://www.acaps.org/covid19-government-measures-dataset
 
 
 
@@ -1097,38 +1113,40 @@ https://mr.usembassy.gov/covid-19-information-2/
 
 
 # Netherlands 
-
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ While the emergency measures are taken at the sub-national level in The Netherlands, the emergency response has been heavily coordinated by the government, and there are no major variations between regions. Some small variation seem to be in place though, and this is therefore coded as 1. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
+https://www.garda.com/crisis24/news-alert-full-history/A4mgehRxM6Mbrgj4B/netherlands-klm-extends-flight-restrictions-to-and-from-china-until-march-29
 
 
 
 # New Zealand 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The emergency measures have been taken nationwide and no sub-national variation has been found in New Zealand. This is therefore coded as 0. 
 
 *Sources*:
-*No source provided*
+ https://www.garda.com/crisis24/news-alert-full-history/mzyupTSAse7MPSwJx/new-zealand-first-coronavirus-case-confirmed-february-28
+https://www.acaps.org/covid19-government-measures-dataset
 
 
 
 # Nicaragua 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ Nicaragua does not have an emergency response to the Covid-19 pandemic. 
 
 *Sources*:
-*No source provided*
+ https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+https://www.hrw.org/es/news/2020/06/23/nicaragua-despiden-medicos-por-criticar-el-manejo-de-la-covid-19
+https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+https://www.amnesty.org/download/Documents/AMR4325352020ENGLISH.PDF
 
 
 
@@ -1182,14 +1200,13 @@ https://www.garda.com/crisis24/news-alerts/330296/north-macedonia-curfew-hours-e
 
 
 # Norway 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The emergency measures have been taken nationwide and no sub-national variation has been found in Norway. This is therefore coded as 0. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
 
 
 
@@ -1247,7 +1264,7 @@ https://www.yomeinformopma.org/static/dash/docs/decretos/RESOLUCION_No._491.pdf
 *Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The measures have a national scope 
 
 *Sources*:
  https://www.ip.gov.py/ip/covid-19/
@@ -1534,26 +1551,28 @@ https://za.usembassy.gov/covid-19-information-2/
 
 
 # Sweden 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The emergency measures have been taken nationwide and no sub-national variation has been found in Norway. This is therefore coded as 0. 
 
 *Sources*:
-*No source provided*
+ https://www.garda.com/crisis24/news-alert-full-history/Lxd2u5XvrbqyRML3R/sweden-scandanavian-airlines-sas-suspends-all-flights-to-northern-italy-march-3
+https://www.acaps.org/covid19-government-measures-dataset
 
 
 
 # Switzerland 
-
-*Answer:* *No answer entered* 
+*Answer*: 2 
 
 *Comments*:
-*No comment provided* 
+ Switzerland has both had a lot of nationwide emergency measures such as lockdowns and school closings, and emergency measures taken by the states such as curfews and varies reopening. This thus coded as 2, there's some sub-national variation in the emergency measures. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
+https://www.garda.com/crisis24/news-alert-full-history/sqd227zbeYFtufCtT/switzerland-first-coronavirus-confirmed-in-ticino-canton-february-25
+https://www.swissinfo.ch/eng/covid-19-_-geneva-bans-gatherings-of-more-than-five-people-/45619940
+https://www.swissinfo.ch/eng/coronavirus-fallout_swiss-canton-orders-non-essential-industry-to-cease-production/45634594
 
 
 
@@ -1561,7 +1580,7 @@ https://za.usembassy.gov/covid-19-information-2/
 *Answer*: 0 
 
 *Comments*:
- The coronavirus measures for Syrian Arab republic (government controlled area) is uniform, and this is what has been coded here. However, there is variation in the other two governments which have followed slightly different strategies and do not have the supplies of the government cotrolled areas. Also, borders closed at different times. However, more or less the measures have been similar even if we take all regions into account. 
+ The coronavirus measures for Syrian Arab republic (government controlled area) is uniform. However, there is variation in the other two governments which have followed slightly different strategies and do not have the supplies of the government cotrolled areas. Also, borders closed at different times. 
 
 *Sources*:
  https://www.washingtoninstitute.org/policy-analysis/view/syrias-three-governments-confront-the-coronavirus;
@@ -1716,14 +1735,15 @@ https://www.kmu.gov.ua/npas/pro-vstanovlennya-rezhimu-nadzvichajnoyi-situaciyi-v
 
 
 # United Kingdom 
-
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ The emergency measures have been implemented across the UK and the response is more or less uniform. However, England has started some reopening that differs from other parts of the UK, such as opening school for some age groups and allowing a larger set of people to gather at the same place. However, the variation is relatively small, and this is therefore coded as 1. 
 
 *Sources*:
-*No source provided*
+ https://www.gov.uk/government/news/pm-six-people-can-meet-outside-under-new-measures-to-ease-lockdown
+https://www.garda.com/crisis24/news-alert-full-history/7Jh4PXSYFEpgJ6Mi2/uk-british-airways-to-reduce-flights-to-italy-singapore-and-south-korea-february-28
+https://www.acaps.org/covid19-government-measures-dataset
 
 
 

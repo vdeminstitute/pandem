@@ -49,13 +49,13 @@ https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legisla
 
 
 # Argentina 
-*Answer*: 0 
+*Answer*: 1 
 
 *Comments*:
- The law doesn't require legislative approval 
+ Ley 27541 declared a state of public emergency and gave the executive the power take measures via decree. 
 
 *Sources*:
- https://www.boletinoficial.gob.ar/detalleAviso/primera/227042/20200320
+ http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333564/norma.htm
 
 
 
@@ -371,11 +371,10 @@ https://www.sabor.hr/hr/press/priopcenja/sabor-izmijenio-svoj-poslovnik
 
 
 # Cuba 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The law doesn't require legislative approval 
 
 *Sources*:
 *No source provided*
@@ -478,7 +477,7 @@ https://presidencia.gob.do/sites/default/files/2020-03/Decreto%20134-20.pdf
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as no legal instrument (variable emlaw) was used. 
 
 *Sources*:
 *No source provided*
@@ -486,14 +485,15 @@ https://presidencia.gob.do/sites/default/files/2020-03/Decreto%20134-20.pdf
 
 
 # Ethiopia 
-
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ The House of Peoples' Representatives endorsed the declaration of a State of Emergency on April 10. 
 
 *Sources*:
-*No source provided*
+ https://borkena.com/2020/04/10/ethiopian-house-of-representatives-endorsed-the-state-of-emergency/
+
+https://www.ethioembassy.org.uk/ethiopia-declares-state-of-emergency-to-curb-transmission-of-coronavirus/
 
 
 
@@ -577,10 +577,12 @@ http://info241.com/coronavirus-le-gouvernement-gabonais-renonce-a-prolonger-l-et
 *Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ As required by the Constitution, all Legislative Acts with measures against covid19 were, after their issuance, voted in the Parliament. The lockdown decision however was issued through a Ministerial Decision (KYΑ in greek), 
 
 *Sources*:
-*No source provided*
+ https://www.hellenicparliament.gr/Nomothetiko-Ergo/Anazitisi-Nomothetikou-Ergou?law_id=1bd1b0a6-1046-4ae2-baad-ab840154207f
+https://vouliwatch.gr/votewatch/voting/23d202fc-d522-46c3-ac37-8b99dc76fe5b
+https://www.kathimerini.gr/1071643/article/epikairothta/politikh/yperyhfisthke-sth-voylh-to-nomosxedio-kyrwshs-triwn-pnp-me-ektakta-metra
 
 
 
@@ -749,14 +751,14 @@ https://www.reuters.com/article/health-coronavirus-senegal-ivorycoast/ivory-coas
 
 
 # Jamaica 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ According to Section 26 (2) of the Disaster Risk Management Act, the Prime Minister does not need approval by parliament to declare the whole or any part of Jamaic to be a desaster area. 
 
 *Sources*:
-*No source provided*
+ https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
+
 
 
 
@@ -828,7 +830,7 @@ http://constitutionnet.org/state-of-emergency;
 *Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ The parliament approved the state of emergency on 24 March. 
 
 *Sources*:
  http://www.kenesh.kg/ru/news/show/9878/zhogorku-kenesh-utverdil-ukazi-prezidenta-kr-o-vvedenii-chrezvichaynogo-polozheniya
@@ -868,7 +870,7 @@ http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20to%20COVI
 *Answer*: 0 
 
 *Comments*:
- Parliament had been prorogued. 
+ The Parliament had been prorogued (March 19, 2020) in the initial declaration of the state of emergency (retrospectively on March 28, 2020, to be in force from March 18). In the second declaration of the state of emergency on April 15, 2020 the Parliament properly approved the extension, since the Constitutional court had ruled the suspension unconstitutional. 
 
 *Sources*:
  https://ancl-radc.org.za/node/631
@@ -878,14 +880,15 @@ https://www.aljazeera.com/news/2020/04/fire-lesotho-pm-deploys-army-streets-rest
 
 
 # Liberia 
-
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ The legislature approved the State of Emergency declared by the president, and extended it to 60 days instead of 21. 
 
 *Sources*:
-*No source provided*
+ https://allafrica.com/stories/202004180007.html
+
+https://www.liberianobserver.com/news/untitled-1009/
 
 
 
@@ -918,7 +921,7 @@ https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/
 *Answer*: 0 
 
 *Comments*:
- no requirement. 
+ No required. 
 
 *Sources*:
 *No source provided*
@@ -1167,11 +1170,10 @@ https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyhet
 
 
 # Oman 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ Established via Royal Order 
 
 *Sources*:
 *No source provided*
@@ -1559,7 +1561,7 @@ https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
 *Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ Not required by law 
 
 *Sources*:
  http://www.president.tj/ru/node/23055
@@ -1742,10 +1744,11 @@ https://www.whitehouse.gov/presidential-actions/proclamation-declaring-national-
 *Answer*: 0 
 
 *Comments*:
- Legislature approval not required 
+ Legislature approval not required and I found no evidence of legislature's approval on its website 
 
 *Sources*:
  https://www.lex.uz/docs/4720408
+http://parliament.gov.uz/ru/events/chamber/index.php?PAGEN_1=7&SIZEN_1=12
 
 
 

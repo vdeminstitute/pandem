@@ -191,7 +191,7 @@ http://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&pub_date=2020-0
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ emlimit = 0 
 
 *Sources*:
 *No source provided*
@@ -275,10 +275,13 @@ http://www.dailynews.gov.bw/news-details.php?nid=55561
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ There is no time limit. Chapter 2 of the law states 'The declaration of the state of emergency is made for a limited time or unlimited time. The declaration of the state of emergency for unlimited time is ended by Royal Decree when a situation is allowed.' 
 
 *Sources*:
-*No source provided*
+ https://www.hrw.org/news/2020/04/02/cambodia-emergency-bill-recipe-dictatorship
+
+
+https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
 
 
 
@@ -373,7 +376,7 @@ https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20637%20DEL%206%20D
 *Answer:* *No answer entered* 
 
 *Comments*:
- There is no limit date. 
+ No limit established 
 
 *Sources*:
 *No source provided*
@@ -397,7 +400,7 @@ https://civilna-zastita.gov.hr/vijesti/priopcenje-za-medije-stozera-civilne-zast
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ No limit established 
 
 *Sources*:
 *No source provided*
@@ -496,7 +499,7 @@ https://camaraindustriayproduccion-my.sharepoint.com/personal/camara_cip_org_ec/
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as no legal instrument (variable emlaw) was used. 
 
 *Sources*:
 *No source provided*
@@ -504,14 +507,14 @@ https://camaraindustriayproduccion-my.sharepoint.com/personal/camara_cip_org_ec/
 
 
 # Ethiopia 
-
-*Answer:* *No answer entered* 
+*Answer*: 2020-09-08 
 
 *Comments*:
-*No comment provided* 
+ Based on the five months State of Emergency that started on April 8 2020. 
 
 *Sources*:
-*No source provided*
+ https://www.garda.com/crisis24/news-alerts/330611/ethiopia-government-declares-state-of-emergency-due-to-covid-19-april-8-update-8
+
 
 
 
@@ -599,10 +602,20 @@ https://www.graphic.com.gh/news/politics/ban-on-social-gatherings-reviewed-100-p
 *Answer*: 2020-04-06 
 
 *Comments*:
-*No comment provided* 
+ The nationwide lockdown was initially declared from March 23, 2020, until April 6, 2020. 
 
 *Sources*:
-*No source provided*
+ (1)
+https://www.ynanp.gr/el/gr-epikoinwnias-enhmerwshs/prostasia-apo-neo-koronoio-nomothesia/
+(2)
+https://www.ispatras.gr/wp-content/uploads/2020/03/%CE%A6%CE%95%CE%9A-986_22-3-2020-%CF%84-%CE%92-%CE%95%CF%80%CE%B9%CE%B2%CE%BF%CE%BB%CE%AE-%CF%84%CE%BF%CF%85-%CE%BC%CE%AD%CF%84%CF%81%CE%BF%CF%85-%CF%84%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%81%CE%B9%CE%BD%CE%BF%CF%8D-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CF%84%CE%B7%CF%82-%CE%BA%CF%85%CE%BA%CE%BB%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B1%CF%82-%CF%84%CF%89%CE%BD-%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CF%8E%CE%BD.pdf
+http://constitutionnet.org/state-of-emergency;
+
+https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional-matter-of-life-and-death/;
+
+https://covid19.gov.gr/nomothesia-gia-ton-covid-19/;
+
+https://www.tovima.gr/2020/03/22/society/odigos-epiviosis-stin-apagoreysi-kykloforias-18-apantiseis-gia-ola-osa-prepei-na-gnorizoume/
 
 
 
@@ -772,7 +785,7 @@ https://www.garda.com/crisis24/news-alerts/310166/italy-council-of-ministers-iss
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as there is no official end date (variable emlimit). 
 
 *Sources*:
 *No source provided*
@@ -889,14 +902,20 @@ https://www.constituteproject.org/constitution/Lesotho_2018.pdf?lang=en
 
 
 # Liberia 
-
-*Answer:* *No answer entered* 
+*Answer*: 2020-06-21 
 
 *Comments*:
-*No comment provided* 
+ "The President of the 
+Republic, Dr. George Manneh Weah has said that the state of emergency which is due to expire on June 9, 2020 will not be renewed."
+
+"The Ministry of Justice has clarified that the June 9 date contained in the Executive Mansion press release as the stipulated date ending the state of emergency was an error. ... the effective date of the commencement of the 60-day state of emergency was April 21, therefore, the official expiration would be June 21, contrary to the June 9 mentioned in the Executive Mansion press release." 
 
 *Sources*:
-*No source provided*
+ 
+
+https://www.emansion.gov.lr/2press.php?news_id=5159&related=7&pg=sp
+
+https://allafrica.com/stories/202006080308.html
 
 
 
@@ -1073,7 +1092,9 @@ https://www.constituteproject.org/constitution/Namibia_2014?lang=en
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+
+http://www.lawcommission.gov.np/en/archives/12240
 
 
 
@@ -1177,10 +1198,10 @@ https://pwcnigeria.typepad.com/files/fg-covid-19-regualtions-1.pdf
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ No limit established 
 
 *Sources*:
-*No source provided*
+ https://omannews.gov.om/Local/ArtMID/416/ArticleID/9985
 
 
 
@@ -1228,7 +1249,7 @@ https://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-resp
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ No limit established 
 
 *Sources*:
 *No source provided*

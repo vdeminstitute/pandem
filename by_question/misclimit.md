@@ -53,7 +53,7 @@
 *Answer*: The judiciary was on "extraordinary recess" from 2020-03-20. In some provinces, they returned to work on 2020-06-02, others are still on recess. It took the Congress almost two months to begin online sessions and in the meantime all decisions were taken by the Executive. 
 
 *Comments*:
- https://www.infodefensa.com/latam/2020/04/14/noticia-gobierno-argentina-defiende-ciberpatrullaje-redes-sociales-prevenir-delitos.html 
+*No comment provided* 
 
 *Sources*:
  https://www.bbc.com/mundo/noticias-america-latina-52914804
@@ -66,7 +66,7 @@ https://www.clarin.com/politica/coronavirus-argentina-corte-atenuo-feria-judicia
 *Answer*: 1) new survelliance law 2) postponed constitutional referendum 
 
 *Comments*:
- referendum (initially planned for 5 April 2020) to terminate mandates of sitting constitutional judges 
+ 1) "Armenia’s parliament on March 31, 2020 passed amendments giving the authorities very broad surveillance powers to use cellphone data for tracking coronavirus cases, Human Rights Watch said today. The amendments impose restrictions on the right to privacy and allow the authorities access to confidential medical information related to people exposed to the virus." 2) referendum (initially planned for 5 April 2020) to terminate mandates of sitting constitutional judges 
 
 *Sources*:
  1)
@@ -483,8 +483,7 @@ https://www.senado.cl/aprueban-nuevo-itinerario-electoral-para-plebiscito-consti
 
 
 # Ethiopia 
-
-*Answer:* *No answer entered* 
+*Answer*: Elections are postponed from august until september, causing upstir. 
 
 *Comments*:
  Elections are postponed from august until september, causing upstir. 
@@ -628,10 +627,10 @@ https://www.senado.cl/aprueban-nuevo-itinerario-electoral-para-plebiscito-consti
 *Answer*: postponed elections 
 
 *Comments*:
- Elections are postpones for the duration of the state of emergency (potentially indefinitely) 
+*No comment provided* 
 
 *Sources*:
- https://www.parlament.hu/irom41/09790/09790.pdf
+*No source provided*
 
 
 
@@ -771,7 +770,7 @@ https://www.senado.cl/aprueban-nuevo-itinerario-electoral-para-plebiscito-consti
 *Answer*: 1) draft law on restricting freedom of assembly 2) detention of an activist 
 
 *Comments*:
- 1) the parliament held a first vote on a bill restricting freedom of assembly on 26 March 2020, which appears as a rushed decision 2) detention of an activist following his criticism of the government's handling of covid-19 on social media 
+ 1) the parliament held a first vote on a bill restricting freedom of assembly on 26 March 2020, which appears a rushed decision 2) detention of an activist following his criticism of the government's handling of covid-19 on social media 
 
 *Sources*:
  1)
@@ -953,7 +952,7 @@ https://www.amnesty.org/en/documents/eur57/2227/2020/en/
 *Answer*: There are several reports of essencial workers, especially medical workers, being attacked by the population 
 
 *Comments*:
- https://cdmx.gob.mx/portal/articulo/cierre-de-centros-comerciales-por-emergencia-sanitaria 
+*No comment provided* 
 
 *Sources*:
  https://www.bbc.com/mundo/noticias-america-latina-52319044
@@ -1000,7 +999,7 @@ https://www.amnesty.org/en/documents/eur57/2227/2020/en/
 *Answer*: The government approved a law (Lei 2/2020, de 6 de Abril) that pardons crimes punishable by up to one year in prison to prevent the spread of the new coronavirus in prisons (there are exceptions for violent crimes). 
 
 *Comments*:
- Page 421 
+*No comment provided* 
 
 *Sources*:
  https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
@@ -1270,13 +1269,15 @@ https://carnegieeurope.eu/2020/06/23/poland-s-democratic-slide-during-coronaviru
 
 
 # Russia 
-*Answer*: 1) abuse of restrictions on freedom of assembly 2) abuse of mass surveillance technology 
+*Answer*: 1) abuse of restrictions on freedom of assembly 2) new mass surveillance technology 
 
 *Comments*:
- 1) detention of journalists and activists who were conducing single-person pickets following the arrest of a journalist Ilya Azar, who was earlier detained on the same grounds (https://www.amnesty.org/en/latest/news/2020/05/russia-prominent-journalists-detention-epitomizes-authorities-crackdown-on-activists-amid-covid-19/) 
+ 1) detention of journalists and activists who were conducing single-person pickets following the arrest of a journalist Ilya Azar, who was earlier detained on the same grounds (https://www.amnesty.org/en/latest/news/2020/05/russia-prominent-journalists-detention-epitomizes-authorities-crackdown-on-activists-amid-covid-19/) 2) new surveillance measures, such as facial recognition, that Human Rights Watch says may potentially be abused 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/29/russia-journalists-held-over-peaceful-pickets;
+ 1)
+https://www.hrw.org/news/2020/05/29/russia-journalists-held-over-peaceful-pickets
+2)
 https://www.hrw.org/news/2020/03/25/moscow-silently-expands-surveillance-citizens
 
 
@@ -1684,7 +1685,7 @@ https://www.infobae.com/america/agencias/2020/04/02/uruguay-posterga-elecciones-
 *Answer*: privacy violations 
 
 *Comments*:
- Everyone who is quarantined (because of having symptoms of covid-19 or upon arrival from other countries) has to give their mobie phones and bank cards to the authorities for the duration of the quarantine (for decontamination and contact tracing) 
+ Everyone who is quarantined (because of having symptoms of covid-19 or upon arrival from other countries) has to give their mobile phones and bank cards to the authorities for the duration of the quarantine (for decontamination and contact tracing) 
 
 *Sources*:
  https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses

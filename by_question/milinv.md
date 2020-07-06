@@ -57,10 +57,14 @@ https://www.dw.com/pt-002/oms-estado-de-emerg%C3%AAncia-em-angola-%C3%A9-medida-
 *Answer*: 1 
 
 *Comments*:
- Article 3 
+*No comment provided* 
 
 *Sources*:
- http://servicios.infoleg.gob.ar/infolegInternet/anexos/335000-339999/335741/norma.htm
+ https://www.infodefensa.com/latam/2020/03/25/noticia-paises-latinoamerica-despliegan-combatir-covid19.html
+http://servicios.infoleg.gob.ar/infolegInternet/anexos/335000-339999/335741/norma.htm
+https://www.infobae.com/sociedad/2020/04/15/asi-son-los-patrullajes-en-helicoptero-que-realiza-el-ejercito-para-controlar-el-cumplimiento-de-la-cuarentena/
+https://www.infodefensa.com/latam/2020/05/27/noticia-argentina-organizan-centros-aislamiento-barrios-infraviviendas.html
+
 
 
 
@@ -76,7 +80,7 @@ https://www.dw.com/pt-002/oms-estado-de-emerg%C3%AAncia-em-angola-%C3%A9-medida-
 
 
 # Australia 
-*Answer*: 1 
+*Answer*: 0 
 
 *Comments*:
  The military is involved in aiding law enforcement with enforcing measures, but it is made clear that they "will not be authorised as law enforcement officers as this remains the responsibility of the states and territories." Therefore, the military is not involved in enforcing the confinement measures as such. 
@@ -160,7 +164,10 @@ https://www.dw.com/pt-002/oms-estado-de-emerg%C3%AAncia-em-angola-%C3%A9-medida-
 *No comment provided* 
 
 *Sources*:
- https://www.infodefensa.com/latam/2020/04/15/noticia-bolivia-presentan-balance-actuacion-durante-emergencia.html
+ https://www.infodefensa.com/latam/2020/03/25/noticia-paises-latinoamerica-despliegan-combatir-covid19.html
+https://www.infodefensa.com/latam/2020/04/15/noticia-bolivia-presentan-balance-actuacion-durante-emergencia.html
+https://www.infodefensa.com/latam/2020/04/29/noticia-bolivia-presentan-contingencia-sobre-cuarentena.html
+https://elpais.com/internacional/2020-03-26/el-gobierno-de-bolivia-extiende-la-cuarentena-y-amenaza-a-quien-la-incumpla-con-hasta-10-anos-de-carcel.html
 
 
 
@@ -168,7 +175,7 @@ https://www.dw.com/pt-002/oms-estado-de-emerg%C3%AAncia-em-angola-%C3%A9-medida-
 *Answer*: 0 
 
 *Comments*:
- The presidency ordered the Defense Forces to establish tents at the borders for the enforcement of quarantine for citizens entering the country 
+ The presidency ordered the Defense Forces to establish tents at the borders for the enforcement of quarantine for citizens entering the country, which is not coded since these are not coercive measures. 
 
 *Sources*:
  http://www.predsjednistvobih.ba/saop/default.aspx?id=87867&langTag=bs-BA
@@ -177,14 +184,16 @@ http://www.predsjednistvobih.ba/saop/default.aspx?id=87900&langTag=bs-BA
 
 
 # Botswana 
-
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ According to section 2 of the Emergency Powers Covid-19 Regulations 2020, "“law enforcement officer” means any member of the Botswana Police Service, Botswana Prison Service, [or] Botswana Defence Force...". According to news media, it appears to be the case thet the military has been tasked with enforcing lockdown. 
 
 *Sources*:
-*No source provided*
+ https://www.voanews.com/covid-19-pandemic/botswanas-capital-city-back-covid-19-lockdown
+
+https://bw.usembassy.gov/wp-content/uploads/sites/125/Emergency-Powers-COVID-19-Regulations-2020.pdf
+
 
 
 
@@ -192,7 +201,7 @@ http://www.predsjednistvobih.ba/saop/default.aspx?id=87900&langTag=bs-BA
 *Answer*: 0 
 
 *Comments*:
- The government of the state Pernamuco requested support of the armed forces to enforce the lockdown, but it was not approved by the Ministry of Defense 
+ There are no national confinement measures. The government of the state Pernamuco requested support of the armed forces to enforce their local lockdown, but it was not approved by the Ministry of Defense 
 
 *Sources*:
  https://www.gov.br/defesa/pt-br/assuntos/noticias
@@ -228,14 +237,14 @@ https://www.garda.com/crisis24/news-alerts/346951/burkina-faso-security-forces-d
 
 
 # Burma/Myanmar 
-
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ The military is involved in securing check points for traveling in Myanmar, and this is therefore coded as 1. No sources have been found stating that the military has additional tasks in the emergency measures, but the military presence is very large in Myanmar so it is possible that they have been involved in additional measures. 
 
 *Sources*:
-*No source provided*
+ https://www.hrw.org/news/2020/05/29/pandemic-adds-new-threat-rohingyas-myanmar
+https://www.crisisgroup.org/asia/south-east-asia/myanmar/b161-conflict-health-cooperation-and-covid-19-myanmar
 
 
 
@@ -252,14 +261,14 @@ https://www.garda.com/crisis24/news-alerts/346951/burkina-faso-security-forces-d
 
 
 # Cambodia 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ I did not find any information on the military being tasked with enforcing any confinement measures. However, Chapter 3 of the State of Emergency law that was introduced, allows for militart involvement. It states "...At war or any circumstances that the national security faces great danger, the
+management of the country amid the emergency is made under the military junta..." 
 
 *Sources*:
-*No source provided*
+ https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
 
 
 
@@ -314,7 +323,8 @@ https://www.garda.com/crisis24/news-alerts/346951/burkina-faso-security-forces-d
 *No comment provided* 
 
 *Sources*:
- https://lta.reuters.com/articulo/salud-coronavirus-chile-patrullas-idLTAKBN23J358-OUSLT
+ https://www.infodefensa.com/latam/2020/03/25/noticia-paises-latinoamerica-despliegan-combatir-covid19.html
+https://lta.reuters.com/articulo/salud-coronavirus-chile-patrullas-idLTAKBN23J358-OUSLT
 https://www.diariooficial.interior.gob.cl/publicaciones/2020/03/18/42607-B/01/1742691.pdf
 
 
@@ -338,7 +348,9 @@ https://www.diariooficial.interior.gob.cl/publicaciones/2020/03/18/42607-B/01/17
 *No comment provided* 
 
 *Sources*:
- https://www.elpais.com.co/cali/autoridades-tendran-puntos-de-control-en-durante-cuarentena-por-coronavirus.html
+ https://www.infodefensa.com/latam/2020/03/25/noticia-paises-latinoamerica-despliegan-combatir-covid19.html
+https://www.elpais.com.co/cali/autoridades-tendran-puntos-de-control-en-durante-cuarentena-por-coronavirus.html
+https://www.infodefensa.com/latam/2020/06/23/noticia-ejercito-colombiano-primer-batallon-anticovid.html
 
 
 
@@ -350,7 +362,6 @@ https://www.diariooficial.interior.gob.cl/publicaciones/2020/03/18/42607-B/01/17
 
 *Sources*:
  https://www.ministeriodesalud.go.cr/sobre_ministerio/prensa/decretos_cvd/decreto_ejecutivo_42227_mp_s_declaratoria_emergencia_nacional.pdf
-https://www.reuters.com/article/us-health-coronavirus-peru-army/peru-calls-up-10000-army-reserves-to-enforce-quarantine-idUSKBN21J69A
 
 
 
@@ -358,7 +369,7 @@ https://www.reuters.com/article/us-health-coronavirus-peru-army/peru-calls-up-10
 *Answer*: 0 
 
 *Comments*:
- The military was involved with transporing patients and erecting a camp to accomodate infected patients (not with confinement maasures) 
+ The military was involved with transporing patients and erecting a camp to accomodate infected patients (not with confinement measures) 
 
 *Sources*:
  http://euromil.org/armed-forces-and-covid-19/
@@ -366,14 +377,13 @@ https://www.reuters.com/article/us-health-coronavirus-peru-army/peru-calls-up-10
 
 
 # Cuba 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ I only found evidence of the police monitoring the confinement measures. 
 
 *Sources*:
-*No source provided*
+ http://www.granma.cu/cuba-covid-19/2020-03-24/el-primer-secretario-del-pcc-y-el-presidente-activaron-los-consejos-de-defensa-en-el-pais-24-03-2020-01-03-10
 
 
 
@@ -412,14 +422,13 @@ http://www.acr.army.cz/informacni-servis/covid/nasazeni-prislusniku-armady-cr-a-
 
 
 # Dominican Republic 
-
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://coronavirusrd.gob.do/2020/04/26/listado-de-medidas-rd-vs-covid-19/
 
 
 
@@ -427,11 +436,12 @@ http://www.acr.army.cz/informacni-servis/covid/nasazeni-prislusniku-armady-cr-a-
 *Answer*: 1 
 
 *Comments*:
- Decree Art. 2/Art. 4 
+ Decree Art. 2/Art. 4: establish confinement measures and that the national police and armed forces are responsible for ensuring compliance. 
 
 *Sources*:
  https://www.defensa.gob.ec/wp-content/uploads/downloads/2020/03/Decreto_presidencial_No_1017_17-Marzo-2020.pdf
 http://www.rfi.fr/es/am%C3%A9ricas/20200406-el-ej%C3%A9rcito-se-despliega-en-quito-para-controlar-el-toque-de-queda
+https://www.infodefensa.com/latam/2020/03/21/noticia-ecuador-moviliza-fuerzas-armadas-pleno-estado-excepcion.html
 
 
 
@@ -448,14 +458,15 @@ http://www.rfi.fr/es/am%C3%A9ricas/20200406-el-ej%C3%A9rcito-se-despliega-en-qui
 
 
 # El Salvador 
-
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://www.france24.com/es/20200212-el-salvador-bukele-acata-la-decisi%C3%B3n-del-supremo-pese-a-criticarla
+https://www.bbc.com/mundo/noticias-america-latina-52319351
+
 
 
 
@@ -471,14 +482,15 @@ http://www.rfi.fr/es/am%C3%A9ricas/20200406-el-ej%C3%A9rcito-se-despliega-en-qui
 
 
 # Ethiopia 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ Neither the constitution (article 93), nor the Ethiopian Council of Ministers Regulations mention the army, military, defence- or security forces. There are also no news reports on the military being involved in lockdown enforcements. 
 
 *Sources*:
-*No source provided*
+ https://globalfreedomofexpression.columbia.edu/publications/ethiopian-council-of-ministers-regulation-for-the-implementation-of-the-state-of-emergency/
+
+https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en
 
 
 
@@ -530,26 +542,24 @@ https://mod.gov.ge/en/news/read/7848/quarantine-restrictions-set-in-gvantkiti-te
 
 
 # Germany 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The German military has been used to aid in a number of health and logistics measures, but have not been used to enforce emergency measures. 
 
 *Sources*:
-*No source provided*
+ http://euromil.org/armed-forces-and-covid-19/
 
 
 
 # Ghana 
-
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ Soliders are enforcing lockdown in Ghana. 
 
 *Sources*:
-*No source provided*
+ https://cpj.org/2020/04/in-ghana-soldiers-enforcing-covid-19-restrictions/
 
 
 
@@ -557,22 +567,23 @@ https://mod.gov.ge/en/news/read/7848/quarantine-restrictions-set-in-gvantkiti-te
 *Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The greek police is responsible for enforcing the lockdown measures. In addition, the Municipal Police, the Hellenic Coast Guard in their respective authority areas, and the National Transparency Authority participate in the enforcement efforts wherever necessary.
+ 
 
 *Sources*:
-*No source provided*
+ https://www.news247.gr/koinonia/koronoios-18-erotapantiseis-gia-tin-apagoreysi-kykloforias.7607630.html
+
 
 
 
 # Guatemala 
-
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://www.elpais.cr/2020/05/15/guatemaltecos-asumen-cuarentena-total-y-obligatoria-por-covid-19/
 
 
 
@@ -651,62 +662,61 @@ https://www.kormany.hu/hu/honvedelmi-miniszterium/parlamenti-allamtitkarsag/hire
 
 
 # Iran 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The Iranian military is in charge of much of the emergency measures in terms of planning and logistics, but no sources have been found stating that soldiers have been used to enforce measures themselves. This is therefore coded as 0. 
 
 *Sources*:
-*No source provided*
+ https://www.washingtonpost.com/outlook/2020/05/27/irans-strategy-fighting-covid-19-could-backfire/
+https://www.acaps.org/covid19-government-measures-dataset
 
 
 
 # Iraq 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ No sources have been found stating that Iraq has deployed its military to enforce emergency measures. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
 
 
 
 # Ireland 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The military has been used to aid health sector a lot, but have not been involved in enforcing emergency measures. 
 
 *Sources*:
-*No source provided*
+ http://euromil.org/armed-forces-and-covid-19/
 
 
 
 # Israel 
-
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ Military personell has been deployed in Israel to help enforce emergency measures. 
 
 *Sources*:
-*No source provided*
+ https://www.timesofisrael.com/idf-500-armed-soldiers-to-join-police-in-enforcing-coronavirus-restrictions/
+https://www.haaretz.com/israel-news/netanyahu-announces-enforcement-of-emergency-measures-to-ensure-coronavirus-lockdown-1.8693660
+https://www.deccanherald.com/international/coronavirus-israel-to-use-military-to-help-enforce-covid-19-lockdown-818220.html
 
 
 
 # Italy 
-
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ Military personell has been deployed in Italy to help enforce emergency measures. 
 
 *Sources*:
-*No source provided*
+ https://www.washingtonpost.com/world/coronavirus-military-enforce-soldiers-armed-forces/2020/03/25/647cbbb6-6d53-11ea-a156-0048b62cdb51_story.html
+http://euromil.org/armed-forces-and-covid-19/
 
 
 
@@ -722,14 +732,17 @@ https://www.kormany.hu/hu/honvedelmi-miniszterium/parlamenti-allamtitkarsag/hire
 
 
 # Jamaica 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ According to section 47 of the Disaster Risk Management Act, only the Director-General or a member of a police force may prosecute for an offence to the act, or regulations made under it. There are also no reports of the military enforcing lockdown. 
 
 *Sources*:
-*No source provided*
+ https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
+
+https://www.bbc.com/news/topics/c50znx8v848t/jamaica
+
+https://www.reuters.com/search/news?blob=jamaica
 
 
 
@@ -746,14 +759,13 @@ https://www.kormany.hu/hu/honvedelmi-miniszterium/parlamenti-allamtitkarsag/hire
 
 
 # Jordan 
-
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ Military personell has been deployed in Jordan to enforce emergency measures. 
 
 *Sources*:
-*No source provided*
+ https://www.washingtonpost.com/world/coronavirus-military-enforce-soldiers-armed-forces/2020/03/25/647cbbb6-6d53-11ea-a156-0048b62cdb51_story.html
 
 
 
@@ -784,7 +796,7 @@ https://www.france24.com/en/20200401-security-forces-use-violent-tactics-to-enfo
 
 
 # Kuwait 
-*Answer*: 0 
+*Answer*: 1 
 
 *Comments*:
  One article rom the Kuwait News Agency (the state news agency) on May 31 report that the military is used to secure that quarantines are held in certain neighbourhoods and that residents do not travel outside these neighbourhoods. This is the only report on the military i have found that show their involvement in enforcing emergency measures. 
@@ -807,26 +819,27 @@ https://mil.gov.kg/
 
 
 # Laos 
-
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ The Laotian military has been given responsibility to, together with the police, enforce emergency measures like limiting public gatherings, closing public transportaion, and closing the border. 
 
 *Sources*:
-*No source provided*
+ https://la.usembassy.gov/health-and-travel-alert-u-s-embassy-vientiane-laos-march-29-2020/
+https://www.acaps.org/covid19-government-measures-dataset
 
 
 
 # Lebanon 
-
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ Military personell has been deployed in Lebanon to enforce emergency measures. 
 
 *Sources*:
-*No source provided*
+ https://www.worldaware.com/covid-19-alert-lebanon-tightens-country-movement-restrictions-april-5
+https://english.alarabiya.net/en/features/2020/03/23/Lebanon-s-security-forces-deploy-to-enforce-lockdown
+https://english.alaraby.co.uk/english/news/2020/3/21/lebanon-calls-in-army-to-enforce-coronavirus-lockdown
 
 
 
@@ -838,7 +851,7 @@ https://mil.gov.kg/
 
 5. The Lesotho Defence Force and the Lesotho Mounted Police Service shall operationalise all the above measures upon the commencement of this Declaration.
 
-Also: ''The army has been deployed onto the streets of Maseru since Saturday, April 18, to "restore peace and order" following the constitutional court's rejection of Thabane's decision to suspend Parliament for a three-month period as part of the COVID-19 lockdown.'' 
+In addition, the army was deployed on April 18, to "restore peace and order", after the constitutional court's decision to rule out the Prime Minster's suspension of Parliament for three months as part of the COVID-19 lockdown. 
 
 *Sources*:
  https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
@@ -849,26 +862,28 @@ https://www.abc.net.au/news/2020-04-19/lesothos-embattled-pm-thabane-deploys-arm
 
 
 # Liberia 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The Liberian lockdown is enforced by police. There are no reports indicating that the military would be involved in lockdown enforcement. 
 
 *Sources*:
-*No source provided*
+ https://www.reuters.com/article/health-coronavirus-liberia/liberia-coronavirus-lockdown-off-to-chaotic-start-idUSL5N2C00BN
+
+https://www.bbc.com/news/topics/c77jz3md70rt/liberia
 
 
 
 # Libya 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ There is a lot of military activity in Libya due to the civil war continuing during the pandemic, but no sources stating that the military has been deployed to enforce emergency measures have been found and this is therefore coded 0. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
+https://news.un.org/en/story/2020/05/1064422
+https://reliefweb.int/report/libya/despite-calls-ceasefire-amid-covid-19-pandemic-unabated-fighting-could-push-libya-new
 
 
 
@@ -887,7 +902,7 @@ https://www.abc.net.au/news/2020-04-19/lesothos-embattled-pm-thabane-deploys-arm
 *Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ 150 soldiers were sent by the government to Toamasina, to help with law and order and the enforcement of the coronavirus measures - mask wearing and social distancing. 
 
 *Sources*:
  https://www.france24.com/en/20200525-madagascar-to-send-troops-to-town-where-two-died-of-coronavirus
@@ -909,14 +924,16 @@ https://www.voanews.com/covid-19-pandemic/madagascar-deploys-troops-doctors-city
 
 
 # Malaysia 
-
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ Several local or regional media outlets report that the military has been used widely to enforce emergency measures. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
+https://www.aa.com.tr/en/asia-pacific/covid-19-malaysia-may-use-military-to-enforce-measures/1771535
+https://www.malaymail.com/news/malaysia/2020/03/20/senior-minister-military-to-help-enforce-covid-19-shutdown-from-sunday/1848383
+https://www.channelnewsasia.com/news/asia/covid-19-malaysia-deploy-military-movement-control-order-12559958
 
 
 
@@ -945,14 +962,14 @@ https://www.voanews.com/covid-19-pandemic/madagascar-deploys-troops-doctors-city
 
 
 # Mexico 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The armed forces are in the streets due to an increase in crime rates, but not to enforce confinement measures 
 
 *Sources*:
-*No source provided*
+ https://www.elmundo.es/internacional/2020/05/11/5eb9a3c421efa0486f8b45c7.html
+https://www.bbc.com/mundo/noticias-america-latina-52657194
 
 
 
@@ -969,14 +986,13 @@ https://www.army.md/?lng=2&action=show&cat=122&obj=6447
 
 
 # Mongolia 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ No sources have been found stating that Mongolia has deployed its military to enforce emergency measures. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
 
 
 
@@ -996,7 +1012,7 @@ https://www.arabnews.com/node/1645401/middle-east
 *Answer*: 0 
 
 *Comments*:
- The presidential decree forsees that the armed forces can be used to enforce the emergency measures (article 31/page 432), but I did not find evidence that they have been active so far 
+ The presidential decree forsees that the armed forces can be used to enforce the emergency measures (article 31/page 432), but I did not find evidence that they are doing so. 
 
 *Sources*:
  https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
@@ -1028,26 +1044,26 @@ https://www.arabnews.com/node/1645401/middle-east
 
 
 # Netherlands 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The Ducth military is aiding the emergency response, but are not involved in enforcing emergency measures. 
 
 *Sources*:
-*No source provided*
+ http://euromil.org/armed-forces-and-covid-19/
+https://www.defensie.nl/onderwerpen/coronavirus-covid-19
 
 
 
 # New Zealand 
-
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ The military has recently been given responsibility to "oversee the quarantine of new arrivals and audit the quarantine process" as the Guardian reports. Consequently, the military is involved in enforcing some emergency measures. 
 
 *Sources*:
-*No source provided*
+ https://www.theguardian.com/world/2020/jun/17/new-zealand-brings-in-military-after-covid-19-quarantine-fiasco
+https://www.aa.com.tr/en/asia-pacific/new-zealand-military-to-oversee-quarantine-measures/1879928
 
 
 
@@ -1111,14 +1127,14 @@ https://www.amnesty.org/download/Documents/AMR4325352020ENGLISH.PDF
 
 
 # Norway 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The Norwegian military is not involved in enforcing emergency measures. 
 
 *Sources*:
-*No source provided*
+ http://euromil.org/armed-forces-and-covid-19/
+https://forsvaret.no/en/nor-armed-forces-covid-19?fbclid=IwAR2D9HdCRcuQHhXH7VGC8eeLfEaBEUrZ1YMaWFpmqYN0-ibiRO-wOT0JXas
 
 
 
@@ -1126,7 +1142,7 @@ https://www.amnesty.org/download/Documents/AMR4325352020ENGLISH.PDF
 *Answer*: 1 
 
 *Comments*:
- Supreme Committee Statement from 31/03/2020: In the context of the efforts exerted to reduce the movement of citizens and residents aiming to curb the spread of the virus, the military abd security servics will take the necessary measures accordingly. 
+ Supreme Committee Statement from 31/03/2020: "In the context of the efforts exerted to reduce the movement of citizens and residents aiming to curb the spread of the virus, the military and security services will take the necessary measures accordingly." 
 
 *Sources*:
  https://covid19.moh.gov.om/#/qarar
@@ -1160,14 +1176,13 @@ https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-26-20-intl-hnk/h
 
 
 # Papua New Guinea 
-
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ ACAPS state that "a range of PNG military personnel have been deployed to the border provinces this week to bolster security on their side of the division. 125 PNG Defence Force personnel were deployed to Sandaun to station at three border points, Wutung, Bewani/Schotiao and Green River, yesterday. More than twenty more troops were expected to join them by today.". This is therefore coded as 1. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
 
 
 
@@ -1179,6 +1194,8 @@ https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-26-20-intl-hnk/h
 
 *Sources*:
  https://www.ip.gov.py/ip/las-fuerzas-armadas-cuenta-con-buses-para-el-traslado-de-pasajeros/
+https://www.facebook.com/ejercitopy/posts/1653805504757424/
+
 
 
 
@@ -1186,10 +1203,12 @@ https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-26-20-intl-hnk/h
 *Answer*: 1 
 
 *Comments*:
- Article 10 established the use of the armed forces in national territory 
+ Decreto Supremo Nº 044-2020-PCM: Article 10 established the use of the armed forces in national territory. 
 
 *Sources*:
- https://cdn.www.gob.pe/uploads/document/file/566448/DS044-PCM_1864948-2.pdf
+ https://www.infodefensa.com/latam/2020/03/25/noticia-paises-latinoamerica-despliegan-combatir-covid19.html
+https://cdn.www.gob.pe/uploads/document/file/566448/DS044-PCM_1864948-2.pdf
+https://www.reuters.com/article/us-health-coronavirus-peru-army/peru-calls-up-10000-army-reserves-to-enforce-quarantine-idUSKBN21J69A
 
 
 
@@ -1220,11 +1239,12 @@ https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-26-20-intl-hnk/h
 *Answer*: 0 
 
 *Comments*:
- The law n.º 44/86 art. 9  forsees that the government can use the armed forces during a state of emergency, but the decree declaring the state of emergency does not summon the army. 
+ The law n.º 44/86 art. 9  forsees that the government can use the armed forces during a state of emergency, but the decree declaring the state of emergency does not summon them and I didn't find any evidence that the military is enforcing confinement measures. 
 
 *Sources*:
  https://dre.pt/web/guest/pesquisa/-/search/221696/details/normal?l=1
 https://dre.pt/web/guest/pesquisa/-/search/130399862/details/maximized
+https://www.exercito.pt/pt/informa%C3%A7%C3%A3o-p%C3%BAblica/not%C3%ADcias/1673
 
 
 
@@ -1286,14 +1306,14 @@ https://www.euronews.com/2020/04/22/coronavirus-romania-set-to-ease-its-lockdown
 
 
 # Saudi Arabia 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ According to sources found on this, Saudi Arabia has not deployed the military to enforce emergency measures. 
 
 *Sources*:
-*No source provided*
+ https://www.acaps.org/covid19-government-measures-dataset
+https://themedialine.org/by-region/corona-as-security-threat-mideast-states-call-out-army/
 
 
 
@@ -1351,7 +1371,7 @@ https://statehouse.gov.sl/sierra-leones-president-julius-maada-bio-conducts-coro
 *Answer*: 1 
 
 *Comments*:
- The military was tasked with enforcing quarantine in Roma communities and measures throughout the country.
+ The military was tasked with enforcing quarantine in Roma communities and other measures throughout the country.
  
 
 *Sources*:
@@ -1425,7 +1445,7 @@ http://www.slovenskavojska.si/odnosi-z-javnostmi/sporocila-za-javnost/novica/nov
 *Answer*: 1 
 
 *Comments*:
- Article 5 forsees that the government can call the armed forces to enforce the emergency measures, and Disposición adicional quinta establishes that they have "agent of authority" power, meaning that can give orders to civilians. 
+ Real Decreto 463/2020: Article 5 forsees that the government can call the armed forces to enforce the emergency measures, and Disposición adicional quinta establishes that they have "agent of authority" power, meaning that can give orders to civilians. 
 
 *Sources*:
  https://www.boe.es/buscar/act.php?id=BOE-A-2020-3692&p=20200328&tn=1#a5
@@ -1462,26 +1482,25 @@ activist.
 
 
 # Sweden 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The Swedish military has aided the emergency response, but has not been involved in enforcing emergency measures. 
 
 *Sources*:
-*No source provided*
+ http://euromil.org/armed-forces-and-covid-19/
+http://euromil.org/wp-content/uploads/2020/04/Swedish-Armed-Forces-and-the-Corona-Pandemic.pdf
 
 
 
 # Switzerland 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The Swiss military has not been involved in enforcing emergency measures. 
 
 *Sources*:
-*No source provided*
+ http://euromil.org/armed-forces-and-covid-19/
 
 
 
@@ -1515,10 +1534,10 @@ https://www.washingtoninstitute.org/policy-analysis/view/syrias-three-government
 *Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ No information found 
 
 *Sources*:
-*No source provided*
+ https://vkd.tj/
 
 
 
@@ -1585,14 +1604,14 @@ https://www.tap.info.tn/en/Portal-Politics/12454533-president-kais
 
 
 # Turkey 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ No evidence has been found that Turkey has deployed its military to enforce emergency measures. 
 
 *Sources*:
-*No source provided*
+ http://euromil.org/armed-forces-and-covid-19/
+https://www.acaps.org/covid19-government-measures-dataset
 
 
 
@@ -1600,10 +1619,10 @@ https://www.tap.info.tn/en/Portal-Politics/12454533-president-kais
 *Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ No information found 
 
 *Sources*:
-*No source provided*
+ https://milligosun.gov.tm/
 
 
 
@@ -1642,19 +1661,19 @@ https://www.tap.info.tn/en/Portal-Politics/12454533-president-kais
 
 
 # United Kingdom 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ The British military has aided the emergency response in several ways, but have not been involved in enforcing emergency measures. 
 
 *Sources*:
-*No source provided*
+ http://euromil.org/armed-forces-and-covid-19/
+https://www.gov.uk/guidance/covid-support-force-the-mods-contribution-to-the-coronavirus-response
 
 
 
 # United States of America 
-*Answer*: 1 
+*Answer*: 0 
 
 *Comments*:
  FEMA, who is in charge of managing and overseeing a lot of the national emergency, has not deployed the military or used the military to enforce any confinement measures. However, states have the opportunity to use the National Guard to enforse such measures, and some states have. But these are not part of the military branch per se, as far as I've understood it. 
@@ -1669,7 +1688,7 @@ https://www.tap.info.tn/en/Portal-Politics/12454533-president-kais
 *Answer*: 0 
 
 *Comments*:
- No confinement measures 
+ There are no national confinement measures. 
 
 *Sources*:
  https://www.bbc.com/mundo/noticias-52928601
@@ -1697,6 +1716,7 @@ https://lta.reuters.com/articulo/salud-uruguay-coronavirus-idLTAKBN2341OF-OUSLT
 *Sources*:
  https://ceofanb.mil.ve/fanb-supervisa-despliegue-de-seguridad-ante-las-medidas-preventivas-para-evitar-propagacion-del-covid-19/
 http://www.mindefensa.gob.ve/mindefensa/2020/03/16/gj-padrino-lopez-el-pueblo-organizado-juega-un-papel-trascendental-en-este-combate-por-la-vida/
+https://www.infodefensa.com/latam/2020/03/25/noticia-paises-latinoamerica-despliegan-combatir-covid19.html
 
 
 

@@ -716,7 +716,9 @@ https://www.deutschland.de/en/news/german-federal-government-informs-about-the-c
 *Answer*: 1 
 
 *Comments*:
- The initial and formal proposal by the parliament's Presidency was for the legislature to continue working as normal, but with fewer sessions and fewer MPs present. The parliamentary oversight is still in place and functioning. However, the government has launched several non-covid19 related laws, many of which quite important (environmental bills, education), and it has been accused of exploiitng the situation for its own benefit. 
+ The initial and formal proposal by the parliament's Presidency was for the legislature to continue working as normal, but with fewer sessions and fewer MPs present. The parliamentary oversight is still in place and functioning. However, the government has launched several non-covid19 related laws, many of which quite important (environmental bills, education), and it has been accused of exploiitng the situation for its own benefit.
+
+Also: ''The Greek Parliament will only vote on one draft bill per week, with priority given to bills related to the management of the coronavirus outbreak.'' (5) 
 
 *Sources*:
  https://vouliwatch.gr/news/article/ta-14-metra-poy-apofasise-i-voyli-gia-tin-antimetopisi-toy-koronoioy
@@ -726,6 +728,8 @@ https://balkaninsight.com/2020/04/28/greek-govt-accused-of-dodging-democratic-ov
 https://insidestory.gr/article/off-screen-covid19-vouli-nomothetisi-koronoios
 
 https://www.kathimerini.gr/1068683/article/epikairothta/ellada/allages-sth-leitoyrgia-ths-voylhs-logw-korwnoioy
+http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdf
+(5)
 
 
 

@@ -57,13 +57,13 @@ https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislat
 
 
 # Argentina 
-*Answer*: 0 
+*Answer*: 1 
 
 *Comments*:
- Executive decree, it doesn't require legislative approval 
+ Ley 27541 declared a state of public emergency and gave the executive the power take measures via decree. 
 
 *Sources*:
- https://www.boletinoficial.gob.ar/detalleAviso/primera/227042/20200320
+ http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333564/norma.htm
 
 
 
@@ -201,10 +201,10 @@ https://verfassungsblog.de/belgium-and-covid-19-when-a-health-crisis-replaces-a-
 *Answer*: 0 
 
 *Comments*:
- Executive decree, it doesn't require legislative approval 
+ Art. 4 "A declaration of state of health emergency will be made by the federal Executive Power, by means of the Minister of Health" 
 
 *Sources*:
-*No source provided*
+ http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Decreto/D7616.htm
 
 
 
@@ -257,14 +257,13 @@ https://sherloc.unodc.org/res/cld/document/bfa/loi-n-23-94-adp-portant-code-de-l
 
 
 # Cambodia 
-
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ The National Assembly voted on the on the bill which was passed in April 2020. However, it is also a one-party National Assembly. Hence there is minimal opportunity for opposing points of view. 
 
 *Sources*:
-*No source provided*
+ https://www.hrw.org/news/2020/04/02/cambodia-emergency-bill-recipe-dictatorship
 
 
 
@@ -355,7 +354,7 @@ Article 130 The state of siege and the state of urgency are decreed in the Counc
 *Answer*: 0 
 
 *Comments*:
- Declaring a state of emergency is a prerogative of the executive and it doesn't require legislative approval 
+ Art. 3: "State of emergency: Declaration of the Executive Power, via executive decree, based on a state of need and urgency, caused by circumstances of war, internal commotion and public calamity." 
 
 *Sources*:
  http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=56178
@@ -374,14 +373,13 @@ Article 130 The state of siege and the state of urgency are decreed in the Counc
 
 
 # Cuba 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ Articles 108 and 110: it is a prerrogative of the Ministry of Health 
 
 *Sources*:
-*No source provided*
+ http://juriscuba.com/wp-content/uploads/2015/10/Decreto-No.-139.pdf
 
 
 
@@ -513,7 +511,7 @@ https://presidencia.gob.do/sites/default/files/2020-03/Decreto%20134-20.pdf
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as no legal instrument (variable emlaw) was used. 
 
 *Sources*:
 *No source provided*
@@ -521,14 +519,13 @@ https://presidencia.gob.do/sites/default/files/2020-03/Decreto%20134-20.pdf
 
 
 # Ethiopia 
-
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ According to the constitution, section 93:2, a declaration of State of Emergency needs to be endorsed by the House of Peoples' Representatives within 48 hours, unless the House of Peoples' Representatives is not in session, then it need to be submitted to it within 15 days. 
 
 *Sources*:
-*No source provided*
+ https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en
 
 
 
@@ -613,6 +610,7 @@ Article 50 constitution The extension of a state of emergency or a state of sieg
 
 *Sources*:
  https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/001-156%20aggliko.pdf;
+
 http://constitutionnet.org/state-of-emergency;
 
 
@@ -782,7 +780,7 @@ https://www.garda.com/crisis24/news-alerts/310166/italy-council-of-ministers-iss
 *Answer*: 0 
 
 *Comments*:
- It is a not very clear. It looks more like the Parliament does not need to authorize on a state of emergency. The Constitution mentions:
+ It is not very clear. It looks more like the Parliament does not need to authorize on a state of emergency. The Constitution mentions:
 Article 73 • Should the institutions of the Republic......be interrupted, the President of the Republic takes the exceptional measures required by these circumstances, after consultation with the President of the National Assembly, President of the Senate and the President of the Constitutional Council. He informs the Nation thereof by message. Parliament meets without requiring to be convened. The end of the crisis is recognized by a message from the President of the Republic to the Nation.
 And Article 74 • The President of the Republic initiates legislation concurrently with the members of Parliament. He ensures the promulgation of laws within thirty days after the law definitively adopted has been submitted to him. This period is shortened to five days in the event of an emergency.
  
@@ -800,14 +798,14 @@ https://www.reuters.com/article/health-coronavirus-senegal-ivorycoast/ivory-coas
 
 
 # Jamaica 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ According to Section 26 (2) of the Disaster Risk Management Act, the Prime Minister does not need approval by parliament to declare the whole or any part of Jamaic to be a desaster area. 
 
 *Sources*:
-*No source provided*
+ https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
+
 
 
 
@@ -928,26 +926,26 @@ http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20to%20COVI
 *Answer*: 1 
 
 *Comments*:
- Coded as 1 because although the declaration does not need approval, the extension of a state of emergency needs to be approved by Parliament.
+ The Prime Minister can declare a state of emergency without the legislature's approval, but the extension of the state of emergency needs to be approved by Parliament (therefore coded as 1).
 
-''...the Prime Minister has the power to declare the state of emergency without the approval of Parliament. However, only Parliament has the power to extend such a declaration from the initial 14 days. The problem in Lesotho is that the state of emergency was declared at a time when Parliament was prorogued. This means that there was no constitutional authority to extend the state of emergency beyond the 14 days that the Prime Minister is allowed to establish. Realizing this constitutional reality, on 15 April 2020, the Prime Minister re-declared the state of emergency from 15 April 2020 to 28 April 2020. Whilst this was legally correct under those circumstances, it does raise questions about the legal position that persisted between 8 April and 15 April 2020. Was there a state of emergency during this period? Were the things done or enforced during this period constitutionally sanctioned? The answers to some of these or other questions remain unclear and may never be found. 
+''...the Prime Minister has the power to declare the state of emergency without the approval of Parliament. However, only Parliament has the power to extend such a declaration from the initial 14 days.'' (1) 
 
 *Sources*:
- https://ancl-radc.org.za/node/631
+ (1)
+https://ancl-radc.org.za/node/631
 https://www.constituteproject.org/constitution/Lesotho_2018.pdf?lang=en
 https://www.aljazeera.com/news/2020/04/fire-lesotho-pm-deploys-army-streets-restore-order-200418122720308.html
 
 
 
 # Liberia 
-
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
-*No comment provided* 
+ According to article 88 of the Liberian constitution, the legislature needs to approve the declaration of a Sate of Emergency by the President, within 72 hours, or the declaration is automatically revoked. 
 
 *Sources*:
-*No source provided*
+ https://www.constituteproject.org/constitution/Liberia_1986?lang=en
 
 
 
@@ -980,15 +978,14 @@ https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/
 *Answer*: 0 
 
 *Comments*:
- It is not required to get Parliament approval.
+ Madagascy constitution and the organic law related to the state of emergency does not require parliamentary approval, nor does its extension.
 
 Article 61, Constitution: ''When the Institutions of the Republic,......finds itself compromised, the President of the Republic may proclaim on all or on part of the national territory, the situation of exception, to wit the state of urgency, the state of necessity or martial law. 
-The decision is made by the President of the Republic in the Council of Ministers, after the opinion of the Presidents of the National Assembly, of the Senate and of the High Constitutional Court. 
-The proclamation of the situation of exception confers on the President of the Republic special powers of which the extent and the duration are established by an organic law.
-From the proclamation of one of the situations of exception aforesaid, the President of the Republic can legislate by way of ordinance on the matters that arise within the domain of the law.
+The decision is made by the President of the Republic in the Council of Ministers, after the opinion of the Presidents of the National Assembly, of the Senate and of the High Constitutional Court.''
 
-Art. 2, law 91-011, 1991- The emergency situation, the state of national necessity of martial law is proclaimed by decree taken in the Council of Ministers, after the opinion of the High Constitutional Court and the President of the National People's Assembly.
- 
+''Art. 2 law 91-011, 1991 - The emergency situation, the state of national necessity of the martial law is proclaimed by decree taken in the Council of Ministers, after opinion of the High Constitutional Court and the President of the National People's Assembly.
+Art. 3 - The exceptional situation is limited in time. It may however be extended in the same forms, by periods which may not each exceed the initial period. It ends automatically as of the expiration of the deadline, unless it is terminated before, by decree taken in the Council of Ministers.''
+Art. 16 - The duration of the emergency situation is fifteen days. It may be extended under the conditions provided for in article 3 of this law. 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Madagascar_2010.pdf?lang=en
@@ -1234,14 +1231,13 @@ https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyhet
 
 
 # Oman 
-
-*Answer:* *No answer entered* 
+*Answer*: 0 
 
 *Comments*:
-*No comment provided* 
+ Established via Royal Order 
 
 *Sources*:
-*No source provided*
+ https://omannews.gov.om/Local/ArtMID/416/ArticleID/9985
 
 
 
@@ -1261,10 +1257,10 @@ https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyhet
 *Answer*: 0 
 
 *Comments*:
- Executive decree, it doesn't require legislative approval 
+ Art. 85: Attributions and duty of the National Department of Public Health 
 
 *Sources*:
- http://minsa.b-cdn.net/sites/default/files/general/decreto_ejecutivo_507_de_24_de_marzo_de_2020.pdf
+ https://extranet.who.int/nutrition/gina/sites/default/files/PAN%20Codigo%20Sanitario.pdf
 
 
 
@@ -1790,10 +1786,10 @@ https://www.health-ni.gov.uk/sites/default/files/publications/health/Coronavirus
 *Answer*: 0 
 
 *Comments*:
- Executive decree, it doesn't require legislative approval 
+ Article 2: it is a responsability of the ministry of public health 
 
 *Sources*:
- https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
+ https://www.impo.com.uy/bases/leyes/9202-1934
 
 
 

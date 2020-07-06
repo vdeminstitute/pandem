@@ -14,10 +14,10 @@
 
 
 # Albania 
-*Answer*: Constitution (Articles 100, 170, 174, point 1, and 175, point 2),  Law No. 45/2019, "On Civil Protection" (points 1 in article 18, article 19,  article 39) 
+*Answer*: Constitution (Articles 100, 170, 174, point 1, and 175, point 2), shkronjës “ç”, të nenit 18, të pikës 1, të nenit 19, dhe të pikës 1, të nenit 39, të ligjit nr.45/2019, “Për mbrojtjen civile” 
 
 *Comments*:
-*No comment provided* 
+ own English translation of "shkronjës “ç”, të nenit 18, të pikës 1, të nenit 19, dhe të pikës 1, të nenit 39, të ligjit nr.45/2019, “Për mbrojtjen civile”": Law No. 45/2019, "On Civil Protection" (points 1 in article 18, article 19,  article 39) 
 
 *Sources*:
  https://www.kryeministria.al/newsroom/vendim-i-keshillit-te-ministrave-date-24-mars-2020/
@@ -75,10 +75,16 @@ http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333564/norm
 *Answer*: Constitution (Article 120) 
 
 *Comments*:
-*No comment provided* 
+ "ARTICLE 120. STATE OF EMERGENCY
+   
+1.In the event of an imminent threat to the constitutional order, the Government shall declare a state of emergency and take measures appropriate in the situation and address the people thereon.
+2.In case of declaration of a state of emergency, a special sitting of the National Assembly shall be convened immediately by virtue of law.
+3.The National Assembly may, by majority vote of the total number of parliamentarians, terminate the state of emergency or cancel the implementation of measures prescribed by the legal regime of a state of emergency.
+4.The legal regime of a state of emergency shall be stipulated by a law adopted by majority vote of the total number of parliamentarians." (Constitute Project) 
 
 *Sources*:
  https://www.arlis.am/DocumentView.aspx?docid=140631
+https://www.constituteproject.org/constitution/Armenia_2015?lang=en
 
 
 
@@ -107,13 +113,14 @@ https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2020_I_12/BGBLA_2020_I_12.pdf
 
 
 # Azerbaijan 
-*Answer*: Law on Sanitary and Epidemiological Safety (Article 25) 
+*Answer*: Sanitariya-epidemioloji salamatlıq haqqında AZƏRBAYCAN RESPUBLİKASININ QANUNU 
 
 *Comments*:
- Law saying that the authorities can take measures to prevent the spread of diseases (http://www.e-qanun.az/framework/7916http://www.e-qanun.az/framework/7916) 
+ Own English translation; Law on Sanitary and Epidemiological Safety (Article 25); the authorities can take measures to prevent the spread of diseases. 
 
 *Sources*:
  https://cabmin.gov.az/az/article/761/
+http://www.e-qanun.az/framework/7916
 
 
 
@@ -178,10 +185,10 @@ https://www.lexivox.org/norms/BO-COD-DL15629.xhtml
 
 
 # Bosnia and Herzegovina 
-*Answer*: Law on Protection and Rescue of People and Material Goods from Natural or Other Disasters in Bosnia and Herzegovina (Article 13, point h) 
+*Answer*: člana 13. tačka (h) Okvirnog zakona o zaštiti i spašavanju ljudi i materijalnih dobara od prirodnih ili drugih nesreća u Bosni i Hercegovini 
 
 *Comments*:
- The law gives the Council of Ministers (the executive on the national level) the power to declare a state of natural or other disaster. Note on subnational variation: legal instrument to declare a state of emergency in the Serb Republic is Article 8 of the Law on Protection and Rescue in Emergency Situation (Decision published in Official Gazette 25/20, https://www.slglasnik.org/cyr/aktuelno/obavjestenja/objavjben-je-sgrs-2520). The legal instruments to declare a state of disaster in the Bosniak-Croat Federation are Law on the Government of the Federation of BiH (Article 19, paragraph 2),  Article 24, Item 11 of the Law on Protection and Rescue of People and Material Goods from Natural and Other Disasters,  Article 32 of the Rulebook on the Manner of Work and functioning of staffs and commissioners of civil protection (Decision published in the Official Gazette of the Federation of BiH», No. 21/20, http://www.fbihvlada.gov.ba/bosanski/zakoni/2020/odluke_registar.html) 
+ Own English translation: Law on Protection and Rescue of People and Material Goods from Natural or Other Disasters in Bosnia and Herzegovina (Article 13, point h). The law gives the Council of Ministers (the executive on the national level) the power to declare a state of natural or other disaster. Note on subnational variation: legal instrument to declare a state of emergency in the Serb Republic is Article 8 of the Law on Protection and Rescue in Emergency Situation (Decision published in Official Gazette 25/20, https://www.slglasnik.org/cyr/aktuelno/obavjestenja/objavjben-je-sgrs-2520). The legal instruments to declare a state of disaster in the Bosniak-Croat Federation are Law on the Government of the Federation of BiH (Article 19, paragraph 2),  Article 24, Item 11 of the Law on Protection and Rescue of People and Material Goods from Natural and Other Disasters,  Article 32 of the Rulebook on the Manner of Work and functioning of staffs and commissioners of civil protection (Decision published in the Official Gazette of the Federation of BiH», No. 21/20, http://www.fbihvlada.gov.ba/bosanski/zakoni/2020/odluke_registar.html) 
 
 *Sources*:
  http://www.sluzbenilist.ba/page/akt/bTsBUE4N5GM=
@@ -271,7 +278,10 @@ https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-
 *No comment provided* 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/02/cambodia-emergency-bill-recipe-dictatorship
+ https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
+
+
+https://www.hrw.org/news/2020/04/02/cambodia-emergency-bill-recipe-dictatorship
 
 
 https://www.voacambodia.com/a/state-of-emergency-draft-law-gives-gov-t-sweeping-powers-permits-human-rights-restrictions-/5353728.html
@@ -379,10 +389,10 @@ http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?n
 
 
 # Croatia 
-*Answer*: Civil Protection Act (Article 22a) 
+*Answer*: Zakon o sustavu civilne zaštite 
 
 *Comments*:
- According to Article 22a of the Civil Protection Act, the Civil Protection Headquarters can take measures to mitigate unforseen circumstances 
+ According to Article 22a of the Civil Protection Act (Zakon o sustavu civilne zaštite), the Civil Protection Headquarters can take measures to mitigate unforseen circumstances 
 
 *Sources*:
  https://vlada.gov.hr/UserDocsImages//Vijesti/2020/03%20o%C5%BEujak/18%20o%C5%BEujka//Odluka%20-%20mjere%20ograni%C4%8Davanja%20dru%C5%A1tvenih%20okupljanja,%20rada%20trgovina.pdf
@@ -395,14 +405,8 @@ https://www.zakon.hr/z/809/Zakon-o-sustavu-civilne-za%C5%A1tite
 *Answer*: Decreto 139 de 22 de febrero de 1988 “Reglamento de la Ley de la Salud Pública” 
 
 *Comments*:
- El Decreto 139 de 22 de febrero de 1988 “Reglamento de la Ley
-de la Salud Pública”, establece en los artículos 125, 126 y 138 que frente a situaciones
-excepcionales a causa de epidemias que impliquen riesgos graves e inmediatos para la
-salud, el Ministerio de Salud Pública dictará las disposiciones sanitarias de cumplimiento
-obligatorio encaminadas a limitar los daños a la salud humana, a controlar o interrumpir
-la cadena epidemiológica en la transmisión de las enfermedades y mediante un sistema
-de vigilancia epidemiológica permanente, decidirá sobre bases objetivas y científicas las
-medidas sanitario-epidemiológicas a corto, medio o largo plazos con la finalidad de prevenir o controlar un problema de salud que dañe a la población. 
+ "El Decreto 139 de 22 de febrero de 1988 “Reglamento de la Ley de la Salud Pública”, establece en los artículos 125, 126 y 138 que frente a situaciones excepcionales a causa de epidemias que impliquen riesgos graves e inmediatos para la salud, el Ministerio de Salud Pública dictará las disposiciones sanitarias de cumplimiento obligatorio encaminadas a limitar los daños a la salud humana, a controlar o interrumpir la cadena epidemiológica en la transmisión de las enfermedades y mediante un sistema
+de vigilancia epidemiológica permanente, decidirá sobre bases objetivas y científicas las medidas sanitario-epidemiológicas a corto, medio o largo plazos con la finalidad de prevenir o controlar un problema de salud que dañe a la población." 
 
 *Sources*:
  http://juriscuba.com/wp-content/uploads/2015/10/Decreto-No.-139.pdf
@@ -504,7 +508,7 @@ https://pdba.georgetown.edu/Constitutions/ElSal/constitucion.pdf
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as no legal instrument (variable emlaw) was used. 
 
 *Sources*:
 *No source provided*
@@ -512,14 +516,13 @@ https://pdba.georgetown.edu/Constitutions/ElSal/constitucion.pdf
 
 
 # Ethiopia 
-*Answer*: State of emergency 
+*Answer*: Constitution of Ethiopia (Section 93) 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/330611/ethiopia-government-declares-state-of-emergency-due-to-covid-19-april-8-update-8
-
+ 
 https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en
 
 
@@ -614,7 +617,7 @@ https://www.gabonmediatime.com/covid-19-ali-bongo-decrete-letat-durgence/
 *Answer*: The Imposition of Restrictions Act (Act 1012) 
 
 *Comments*:
-*No comment provided* 
+ The The Imposition of Restrictions Act (Act 1012) was enacted based on a directive from the President on March 15. 
 
 *Sources*:
  https://theconversation.com/ghanas-president-has-invoked-a-tough-new-law-against-coronavirus-why-its-disquieting-135476
@@ -628,20 +631,21 @@ https://ghanalawhub.com/overview-of-the-imposition-of-restrictions-act-2020-act-
 1. Under extraordinary circumstances of an urgent and unforeseeable need, the President of the Republic may, upon the proposal of the Cabinet, issue acts of legislative content. Such acts shall be submitted to Parliament for ratification, as specified in the provisions of article 72 paragraph 1, within forty days of their issuance or within forty days from the convocation of a parliamentary session. Should such acts not be submitted to Parliament within the above time-limits or if they should not be ratified by Parliament within three months of their submission, they will henceforth cease to be in force. 
 
 *Comments*:
- There have been several Acts of legislative content issued throughout the pandemic, and all are taken based on the same legal instrument. 
+ There have been several Legislative Acts containing different sets of measures in regards to the coronavirus pandemic, and all are taken based on the same legal instrument.
+The main (strictest) measures (lockdown) are included in the Act  ''ΚΥΑ 20036'' (Common Ministerial Decision 20036), 22.03.2020, Government Gazette no 986, titled ''Επιβολή του μέτρου του προσωρινού περιορισμού της κυκλοφορίας των πολιτών προς αντιμετώπιση του κινδύνου διασποράς του κορωνοϊού COVID-19.'' (Imposition of the temporary movement restriction measure against the spread of covid19'') (2) 
 
 *Sources*:
- https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/001-156%20aggliko.pdf;
-
+ (1)
+https://www.ynanp.gr/el/gr-epikoinwnias-enhmerwshs/prostasia-apo-neo-koronoio-nomothesia/
+(2)
+https://www.ispatras.gr/wp-content/uploads/2020/03/%CE%A6%CE%95%CE%9A-986_22-3-2020-%CF%84-%CE%92-%CE%95%CF%80%CE%B9%CE%B2%CE%BF%CE%BB%CE%AE-%CF%84%CE%BF%CF%85-%CE%BC%CE%AD%CF%84%CF%81%CE%BF%CF%85-%CF%84%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%81%CE%B9%CE%BD%CE%BF%CF%8D-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CF%84%CE%B7%CF%82-%CE%BA%CF%85%CE%BA%CE%BB%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B1%CF%82-%CF%84%CF%89%CE%BD-%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CF%8E%CE%BD.pdf
 http://constitutionnet.org/state-of-emergency;
 
 https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional-matter-of-life-and-death/;
 
-https://www.minedu.gov.gr/publications/docs2020/%CE%A0%CE%9D%CE%A0_4_20032020_%CE%A6%CE%95%CE%9A.pdf.pdf;
-
 https://covid19.gov.gr/nomothesia-gia-ton-covid-19/;
 
-http://www.dsanet.gr/epikairothta_nomothesia.asp
+
 
 
 
@@ -817,7 +821,7 @@ https://www.reuters.com/article/health-coronavirus-senegal-ivorycoast/ivory-coas
 *Answer*: the Disaster Risk Management Act 
 
 *Comments*:
-*No comment provided* 
+ Section 26 (2) of the Disaster Risk Management Act is used as main instrument for a national response to Covid-19. 
 
 *Sources*:
  https://moj.gov.jm/sites/default/files/DRMA07.pdf
@@ -853,30 +857,39 @@ https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%2
 
 
 # Kazakhstan 
-*Answer*: Constitution (Article 44, point 16), Law on states of emergency (Articles 4,5,6) 
+*Answer*: Constitution (Article 44, point 16), ZAKON RESPUBLIKI KAZAKHSTAN O chrezvychaynom polozhenii  (Articles 4,5,6) 
 
 *Comments*:
- Constitution (https://online.zakon.kz/document/?doc_id=1005029#pos=424;-40), Law on states of emergency (https://online.zakon.kz/document/?doc_id=1036912#pos=33;-46) 
+ own translation: Law on states of emergency 
 
 *Sources*:
  https://online.zakon.kz/document/?doc_id=1036912#pos=33;-46
+https://online.zakon.kz/document/?doc_id=1005029#pos=424;-40
 
 
 
 # Kenya 
-*Answer*: The Public Health Act (Sections 35 and 36) - that has provisions that deal with a pandemic, was updated on April 3, and the Public Order Act (State Curfew) Order 2020,- that has provisions with how people conduct themselves in the public sphere-, effected by Legal Notice No. 36 of the Kenya Gazette Notice of 26th March 2020. However, the initial measures were enacted by a Presidential Directive (March 15, 2020). 
+*Answer*: The Public Health Act (Sections 35 and 36) - with provisions to deal with a pandemic, updated on April 3;
+The Public Order Act (State Curfew) Order 2020,- that has provisions with how people conduct themselves in the public sphere-, effected by Legal Notice No. 36 of the Kenya Gazette Notice of 26th March 2020. 
+
+However, the initial measures were enacted by a Presidential Directive (March 15, 2020). 
 
 *Comments*:
- Kenya has introduced a combination of protocols and measures in place. The initial measures were implemented by a Presidential Directive on March 15,  but the legl instruments were activated later when incremental measures were introduced: the activation of the Public Health Act on April 3rd 2020 and the Public Order (State Curfew) Order 2020 on March 26th. 
+ Kenya has introduced a combination of protocols and measures in place. The initial measures were implemented by a Presidential Directive on March 15,  but the legal instruments were activated later: the activation of the Public Health Act on April 3rd 2020 and the Public Order (State Curfew) Order 2020 on March 26th. 
 
 *Sources*:
  https://www.president.go.ke/2020/03/15/address-to-the-nation-by-h-e-uhuru-kenyatta-c-g-h-president-of-the-republic-of-kenya-and-commander-in-chief-of-the-defence-forces-on-covid-19-commonly-known-as-coronavirus/
-;
-https://www.strathmore.edu/news/should-the-kenyan-government-declare-a-state-of-emergency/;
-https://www.health.go.ke/first-case-of-coronavirus-disease-confirmed-in-kenya/;
-http://constitutionnet.org/state-of-emergency;
-http://kenyalaw.org/kenyalawblog/kenyas-response-to-covid-19/;
-http://extwprlegs1.fao.org/docs/pdf/ken129231.pdf;
+
+https://www.strathmore.edu/news/should-the-kenyan-government-declare-a-state-of-emergency/
+
+https://www.health.go.ke/first-case-of-coronavirus-disease-confirmed-in-kenya/
+
+http://constitutionnet.org/state-of-emergency
+
+http://kenyalaw.org/kenyalawblog/kenyas-response-to-covid-19/
+
+http://extwprlegs1.fao.org/docs/pdf/ken129231.pdf
+
 https://www.bowmanslaw.com/insights/dispute-resolution/newsletter-on-the-publication-of-the-public-health-prevention-control-and-suppression-of-covid-19-rules-2020-and-declaration-of-infected-areas-in-kenya/
 
 
@@ -894,10 +907,10 @@ https://www.bowmanslaw.com/insights/dispute-resolution/newsletter-on-the-publica
 
 
 # Kyrgyzstan 
-*Answer*: Constitution (Article 64, Chapter 9, Point 2), Constitutional law on states of emergency (Articles 3,4 and 7) 
+*Answer*: Constitution (Article 64, Chapter 9, Point 2), konstitutsionnyy Zakon Kyrgyzskoy Respubliki „O chrezvychaynom polozhenii“ 
 
 *Comments*:
-*No comment provided* 
+ own translation: Constitutional law on states of emergency (Articles 3,4 and 7) 
 
 *Sources*:
  http://www.president.kg/ru/sobytiya/ukazy/16382_podpisan_ukaz_ovvedenii_chrezvichaynogo_pologheniya_naterritorii_goroda_bishkek_kirgizskoy_respubliki
@@ -949,14 +962,14 @@ https://ancl-radc.org.za/node/631
 
 
 # Liberia 
-
-*Answer:* *No answer entered* 
+*Answer*: State of Emergency  
 
 *Comments*:
-*No comment provided* 
+ A state of emergency was declared April 9 2020. 
 
 *Sources*:
-*No source provided*
+ https://www.emansion.gov.lr/doc/ADDRESS%20TO%20THE%20NATION.pdf
+
 
 
 
@@ -973,10 +986,10 @@ https://ancl-radc.org.za/node/631
 
 
 # Lithuania 
-*Answer*: Law on Civil Protection (point 11 of Article 9 and point 2 of Paragraph 1 of Article 26), Resolution no. 1243 “On Approval of the Description of the Procedure for Announcement and Revocation of Emergencies" 
+*Answer*: Lietuvos Respublikos civilinės saugos įstatymo 9 straipsnio 11 punktu ir 26 straipsnio 1 dalies 2 punktu , nutarimu Nr. 1243 „Dėl Ekstremaliųjų situacijų skelbimo ir atšaukimo tvarkos aprašo patvirtinimo“ 
 
 *Comments*:
- Article 9, point 11 of the Law on Civil Protection of the Republic of Lithuania says that "the government shall establish the procedure for declaring and lifting emergencies of both levels, declare and lift a national level emergency" and Article 26 is on emergencies on the national level: " national level –the emergencies whereto response shall be provided by the forces of the civil protection system located within several municipalities through the use of the material resources held at the disposal of the municipalities or the State, where the emergency effects reach beyond the territory of three municipalities." Resolution no. 1243 “On Approval of the Description of the Procedure for Announcement and Revocation of Emergencies” establishing procedures for announcing the state of emergency 
+ Own translation: Law on Civil Protection (point 11 of Article 9 and point 2 of Paragraph 1 of Article 26), Resolution no. 1243 “On Approval of the Description of the Procedure for Announcement and Revocation of Emergencies". Article 9, point 11 of the Law on Civil Protection of the Republic of Lithuania says that "the government shall establish the procedure for declaring and lifting emergencies of both levels, declare and lift a national level emergency" and Article 26 is on emergencies on the national level: " national level –the emergencies whereto response shall be provided by the forces of the civil protection system located within several municipalities through the use of the material resources held at the disposal of the municipalities or the State, where the emergency effects reach beyond the territory of three municipalities." Resolution no. 1243 “On Approval of the Description of the Procedure for Announcement and Revocation of Emergencies” establishing procedures for announcing the state of emergency 
 
 *Sources*:
  https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8feb1a7658a111eaac56f6e40072e018?positionInSearchResults=31&searchModelUUID=e5efa5d2-b709-413d-b7ad-feece99aa238
@@ -991,14 +1004,19 @@ Law n ° 91-011 of July 18, 1991 relating to emergency situations;
 Law n ° 2011-002 of July 15, 2011 on the Public Health Code; 
 
 *Comments*:
- Decree declaring the state of emergency: N ° 2020 –359 of March 21, 2020
+ Decree declaring the state of emergency: N ° 2020 –359 of March 21, 2020 (3)
 Proclaiming a state of health emergency throughout the territory of the Republic 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Madagascar_2010.pdf?lang=en
+ (1)
+https://www.constituteproject.org/constitution/Madagascar_2010.pdf?lang=en
+(2)
 https://jwf-legal2.fr.gd/Lois-245.htm
+(3)
 https://www.presidence.gov.mg/actualites/755-decret-n-2020-359-du-21-mars-2020-proclamant-l-etat-d-urgence-sanitaire-sur-tout-le-territoire-de-la-republique.html
+(4)
 http://extwprlegs1.fao.org/docs/pdf/Mad176601.pdf
+(5)
 https://actu.orange.mg/une-nouvelle-prolongation-de-letat-durgence-sanitaire-a-madagascar/
 
 
@@ -1072,10 +1090,10 @@ https://www.bbc.com/afrique/region-52043239
 
 
 # Moldova 
-*Answer*: Constitution (Article 66 m), Law 212 (2004) (Article 12) on states of emergency 
+*Answer*: Constitution (Article 66 m),LEGE Nr. 212 din 24-06-2004 privind regimul stării de urgenţă, de asediu şi de război 
 
 *Comments*:
- According to Article 66 m) of the Constitution, the parliament declares the state of emergency. According to Article 12 of Law 212 (2004), the only case when the President can declare a state of emergency is when the country is under military attack. 
+ Own translation: Law 212 (2004) (Article 12) on states of emergency. According to Article 66 m) of the Constitution, the parliament declares the state of emergency. According to Article 12 of Law 212 (2004), the only case when the President can declare a state of emergency is when the country is under military attack. 
 
 *Sources*:
  https://www.legis.md/cautare/getResults?doc_id=27024&lang=ru
@@ -1138,14 +1156,15 @@ effect".
 
 
 # Nepal 
-
-*Answer:* *No answer entered* 
+*Answer*: Infectious Disease Control Act 1964 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+
+http://www.lawcommission.gov.np/en/archives/12240
 
 
 
@@ -1248,14 +1267,13 @@ https://www.scribd.com/document/458968631/Draft-Control-of-Infectious-Diseases-B
 
 
 # Oman 
-
-*Answer:* *No answer entered* 
+*Answer*: Sultan Haitham Bin Tarik Royal orders 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://omannews.gov.om/Local/ArtMID/416/ArticleID/9985
 
 
 
@@ -1330,10 +1348,10 @@ https://www.bacn.gov.py/leyes-paraguayas/2399/ley-n-836-codigo-sanitario
 
 
 # Poland 
-*Answer*: Act on preventing and combating infections and infectious diseases (5 December 2008) (Article 46, paragraph 2 and 4), amended by Act on specific solutions related to the prevention and combating COVID and other infectious diseases and crises they caused (2 March 2020) 
+*Answer*: Art. 46 ust. 2 i 4 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2019 r. poz. 1239 i 1495 oraz z 2020 r. poz. 284, 322 i 374) 
 
 *Comments*:
- Additional note: there are provisions in the Constitution for a state of natural disaster (Chapter 6, Article 228), where mass spread of infectious diseases is classified as natural disaster based on the Act on the state of natural disaster of 2002. Several sources mention that the reason the declaration of a state of epidemiological emergency was not based on the Constitution is because in that case it won't be possible to hold presidential elections, initially scheduled for 10 May 2020. 
+ Own translation: Act on preventing and combating infections and infectious diseases. Additional note: there are provisions in the Constitution for a state of natural disaster (Chapter 6, Article 228), where mass spread of infectious diseases is classified as natural disaster based on the Act on the state of natural disaster of 2002. Several sources mention that the reason the declaration of a state of epidemiological emergency was not based on the Constitution is because in that case it won't be possible to hold presidential elections, initially scheduled for 10 May 2020. 
 
 *Sources*:
  http://www.dziennikustaw.gov.pl/D2020000037401.pdf
@@ -1388,10 +1406,10 @@ https://cms.law/fr/media/local/cms-bfl/files/veille-covid-19-en-afrique-du-13-au
 
 
 # Romania 
-*Answer*: Article 100 of the Constitution (Article 93, paragraph 1), Emergency Ordinance of Government no. 1/1999 (Article 3 and Article 10), approved with modifications and additions by Law no. 453/2004 
+*Answer*: Constitution (Article 93, paragraph 1, Article 100), ORDONANȚA DE URGENȚĂ nr. 1 din 21 ianuarie 1999 
 
 *Comments*:
-*No comment provided* 
+ Own translation: Emergency Ordinance of Government no. 1/1999 (Article 3 and Article 10), approved with modifications and additions by Law no. 453/2004 
 
 *Sources*:
  https://rm.coe.int/09000016809cee30
@@ -1485,14 +1503,15 @@ https://www.constituteproject.org/constitution/Serbia_2006?lang=en
 
 
 # Slovakia 
-*Answer*: Constitutional Law No. 227/2002 (Article 5) 
+*Answer*: 227/2002 ÚSTAVNÝ ZÁKON z 11. apríla 2002 o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu 
 
 *Comments*:
-*No comment provided* 
+ Own translation: Constitutional Law No. 227/2002 (Article 5) 
 
 *Sources*:
  https://rokovania.gov.sk/RVL/Resolution/18252/1
 https://www.mosr.sk/data/files/602.pdf
+https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2002/227/20160102.html
 
 
 
@@ -1769,10 +1788,10 @@ https://ulii.org/ug/legislation/consolidated-act/281
 
 
 # Ukraine 
-*Answer*: Code of Civil Protection (Article 14, part 2 of Article 78) 
+*Answer*: KODEKS TSYVILʹNOHO ZAKHYSTU UKRAYINY 
 
 *Comments*:
-*No comment provided* 
+ Own translation: Code of Civil Protection (Article 14, part 2 of Article 78) 
 
 *Sources*:
  https://zakon.rada.gov.ua/laws/show/5403-17?lang=en
@@ -1826,10 +1845,10 @@ https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
 
 
 # Uzbekistan 
-*Answer*: Decree 5537 
+*Answer*: RASPORYAZHENIYE PREZIDENTA RESPUBLIKI UZBEKISTAN OB OBRAZOVANII SPETSIAL'NOY RESPUBLIKANSKOY KOMISSII PO PODGOTOVKE PROGRAMMY MER PO PREDUPREZHDENIYU ZAVOZA I RASPROSTRANENIYA NOVOGO TIPA KORONAVIRUSA V RESPUBLIKE UZBEKISTAN 
 
 *Comments*:
- from 29 January 2020 on creation of an anti-crisis commussion 
+ Decree 5537 from 29 January 2020 on creation of an anti-crisis commussion 
 
 *Sources*:
  https://www.lex.uz/docs/4720408

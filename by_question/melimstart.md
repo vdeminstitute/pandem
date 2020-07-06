@@ -172,7 +172,7 @@ https://rsf.org/en/austria
 *Answer*: 2020-03-25 
 
 *Comments*:
- Decreto Supremo n. 4200 
+ Decreto Supremo n. 4200, article 13 
 
 *Sources*:
  http://www.gacetaoficialdebolivia.gob.bo/normas/buscar_comp/(COVID-19)/page:1
@@ -192,14 +192,13 @@ https://rsf.org/en/austria
 
 
 # Botswana 
-
-*Answer:* *No answer entered* 
+*Answer*: 2020-04-02 
 
 *Comments*:
-*No comment provided* 
+ Based on the publication date of the Emergency Powers Covid-19 Regulations 2020, which state sthe media limitations in section 30(3). 
 
 *Sources*:
-*No source provided*
+ https://bw.usembassy.gov/wp-content/uploads/sites/125/Emergency-Powers-COVID-19-Regulations-2020.pdf
 
 
 
@@ -268,14 +267,16 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Cambodia 
-
-*Answer:* *No answer entered* 
+*Answer*: 2020-04-20 
 
 *Comments*:
-*No comment provided* 
+ Article 5(11) of the emergency law states that “Prohibiting or restricting the distribution or broadcast of information that could generate public alarm or fear or generate unrest, or that could bring about damage to national security, or that could bring into being confusion regarding the state of emergency.” 
 
 *Sources*:
-*No source provided*
+ https://rsf.org/en/news/cambodia-hun-sen-uses-covid-19-crisis-tighten-his-grip
+
+
+https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
 
 
 
@@ -491,7 +492,7 @@ https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/30-03-2020.pdf
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as there are no de-jure limitations on media freedom (variable melim). 
 
 *Sources*:
 *No source provided*
@@ -499,14 +500,13 @@ https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/30-03-2020.pdf
 
 
 # Ethiopia 
-
-*Answer:* *No answer entered* 
+*Answer*: 2020-04-11 
 
 *Comments*:
-*No comment provided* 
+ Article 3:6 of the State of Emergency Declaration limits media freedom as it states: "Disseminating rumors or information that is likely to create confusion or panic among the public is prohibited." Article 4:5 also limits media freedom: "Government and private media shall ensure that information and news on COVID are not exaggerated or underreported, are sufficient and are not likely to create panic." This declaration went into effect on  April 11, 2020. 
 
 *Sources*:
-*No source provided*
+ https://globalfreedomofexpression.columbia.edu/publications/ethiopian-council-of-ministers-regulation-for-the-implementation-of-the-state-of-emergency/
 
 
 
@@ -577,7 +577,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as there are no de-jure limitations on media freedom (variable melim). 
 
 *Sources*:
 *No source provided*
@@ -636,7 +636,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 *Answer*: 2020-03-16 
 
 *Comments*:
-*No comment provided* 
+ The government, via the decree PCM-021-2020 suspended the article 72 of the contistution, that guarantees press freedom. However, due to public preasure, it changed the decision via the decree PCM-022-2020. 
 
 *Sources*:
  http://www.consejosecretariosdeestado.gob.hn/content/suspenci%C3%B3n-de-garant%C3%ADas-constitucionales
@@ -760,7 +760,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CF
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as there are no de-jure limitations on media freedom (variable melim). 
 
 *Sources*:
 *No source provided*
@@ -870,7 +870,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 *Answer*: 2020-03-18 
 
 *Comments*:
-*No comment provided* 
+ Started with the declaration of the state of emergency. 
 
 *Sources*:
  https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
@@ -879,14 +879,21 @@ https://ancl-radc.org.za/node/631
 
 
 # Liberia 
-
-*Answer:* *No answer entered* 
+*Answer*: 2020-04-01 
 
 *Comments*:
-*No comment provided* 
+ The exact date was not found. According to instructions in the codebook, the first day of the month was instead entered. 
 
 *Sources*:
-*No source provided*
+ https://cpj.org/2020/05/liberias-journalists-wary-as-authorities-announce/
+
+https://www.constituteproject.org/constitution/Liberia_1986?lang=en
+
+https://rsf.org/en/news/covid-19-lockdown-forces-liberias-newspapers-suspend-printing-0
+
+https://newspublictrust.com/solicitor-general-vows-to-crack-down-on-media-over-fake-news/
+
+https://rsf.org/en/news/liberian-official-threatens-close-media-under-state-emergency
 
 
 
@@ -1064,10 +1071,12 @@ https://www.namibian.com.na/200224/archive-read/Covid-19-fake-news-now-a-crime
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ There were no de-jure limits on media that were adopted based on the legal instrument employed which was the Infectious Disease Control Act 1964. 
 
 *Sources*:
-*No source provided*
+ https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+
+http://www.lawcommission.gov.np/en/archives/12240
 
 
 
@@ -1174,7 +1183,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 *Answer*: 2020-03-22 
 
 *Comments*:
-*No comment provided* 
+ Supreme Committee Statemente from 22/03/2020: "Stopping printing, distribution and sale of newspapers, magazines and other publications of all kinds, and preventing the sale and distribution of publications issued outside the Sultanate". 
 
 *Sources*:
  https://covid19.moh.gov.om/#/qarar
@@ -1309,10 +1318,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 *Answer*: 2020-03-16 
 
 *Comments*:
-*No comment provided* 
+ For the duration of the state of emergency 
 
 *Sources*:
-*No source provided*
+ http://legislatie.just.ro/Public/DetaliiDocument/223831
 
 
 

@@ -72,13 +72,15 @@ https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%
 
 
 # Armenia 
-*Answer*: 2020-03-24 
+
+*Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ The media measures were relaxed and made less severe from 24 March following consultations with media representatives;  the measures are in place for the duration of the state of emergency 
 
 *Sources*:
- https://www.e-gov.am/gov-decrees/item/33613/
+ https://cabmin.gov.az/az/document/4485/
+https://www.e-gov.am/gov-decrees/item/33613/
 https://www.osce.org/representative-on-freedom-of-media/449098
 https://rm.coe.int/armenia-reply-en-emergency-restrictions-force-media-to-suppress-indepe/16809e4ace
 
@@ -196,14 +198,15 @@ https://rsf.org/en/austria
 
 
 # Botswana 
-
-*Answer:* *No answer entered* 
+*Answer*: 2020-10-09 
 
 *Comments*:
-*No comment provided* 
+ Based on six months from the parliamentary decision to extend the State of Emergency for a six month period, and section 3 in the Emergency Powers Covid-19 Regulations 2020, declaring that the media limitations last for the duration of the State of Emergency. 
 
 *Sources*:
-*No source provided*
+ https://reports.unocha.org/en/country/southern-eastern-africa/card/4zXxeVEkYW/
+
+http://www.dailynews.gov.bw/news-details.php?nid=55561
 
 
 
@@ -276,10 +279,16 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Under the law, a State of Emergency could be declared "for a limited or unlimited period of time". Hence, there is no fixed end to the de-jure limits of media freedom. 
 
 *Sources*:
-*No source provided*
+ https://www.hrw.org/news/2020/04/02/cambodia-emergency-bill-recipe-dictatorship
+
+https://rsf.org/en/news/cambodia-hun-sen-uses-covid-19-crisis-tighten-his-grip
+
+
+https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
+
 
 
 
@@ -494,7 +503,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as there are no de-jure limitations on media freedom (variable melim). 
 
 *Sources*:
 *No source provided*
@@ -502,14 +511,14 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Ethiopia 
-
-*Answer:* *No answer entered* 
+*Answer*: 2020-09-08 
 
 *Comments*:
-*No comment provided* 
+ Based on the five months State of Emergency that started on April 8 2020. 
 
 *Sources*:
-*No source provided*
+ https://www.garda.com/crisis24/news-alerts/330611/ethiopia-government-declares-state-of-emergency-due-to-covid-19-april-8-update-8
+
 
 
 
@@ -580,7 +589,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as there are no de-jure limitations on media freedom (variable melim). 
 
 *Sources*:
 *No source provided*
@@ -639,7 +648,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 *Answer*: 2020-03-21 
 
 *Comments*:
-*No comment provided* 
+ The government, via the decree PCM-021-2020 suspended the article 72 of the contistution, that guarantees press freedom. However, due to public preasure, it changed the decision via the decree PCM-022-2020. 
 
 *Sources*:
  http://www.consejosecretariosdeestado.gob.hn/system/files_force/PCM%20022-2020.pdf
@@ -650,7 +659,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 *Answer*: 2020-06-17 
 
 *Comments*:
- For the duration of the state of emergency that was lifted on 17 June 2020. 
+ For the duration of the state of emergency that was lifted on 17 June 2020. The law on misinformation (see melim) was added to the Penal Code and was declared not unconstitutional by the Constitutional Court, meaning that it would apply if a state of emergency is declared again. 
 
 *Sources*:
  https://net.jogtar.hu/jogszabaly?docid=A2000282.KOR&searchUrl=/gyorskereso%3Fkeyword%3D282/2020
@@ -658,6 +667,8 @@ https://www.bbc.com/news/world-europe-53062177
 https://www.euronews.com/2020/06/16/hungary-debates-end-to-emergency-powers-but-new-law-opens-up-potential-to-re-apply-them
 https://net.jogtar.hu/jogszabaly?docid=A2000283.KOR&searchUrl=/gyorskereso%3Fkeyword%3D283/2020
 https://njt.hu/translated/doc/J2020R0283K_20200618_FIN.pdf
+https://www.alkotmanybirosag.hu/kozlemeny/nem-alaptorveny-ellenes-a-remhirterjesztessel-kapcsolatos-uj-kulonleges-jogrendben-alkalmazando-buntetojogi-szabalyozas
+https://alkotmanybirosag.hu/dontes/ab-hatarozat-alkotmanyjogi-panasz-elutasitasarol-9
 
 
 
@@ -768,7 +779,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CF
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as there are no de-jure limitations on media freedom (variable melim). 
 
 *Sources*:
 *No source provided*
@@ -897,14 +908,17 @@ https://allafrica.com/stories/202005040976.html
 
 
 # Liberia 
-
-*Answer:* *No answer entered* 
+*Answer*: 2020-06-21 
 
 *Comments*:
-*No comment provided* 
+ The media limitations are made under the authority of the declaration of State of Emergency (articles 85, 86, 87, and 88 of the constitution), which allows the President to "suspend or affect certain rights, freedoms and guarantees" during a State of Emergency. The date is the end date for the State of Emergency declaration (variable emlimitdate). 
 
 *Sources*:
-*No source provided*
+ 
+
+https://www.emansion.gov.lr/2press.php?news_id=5159&related=7&pg=sp
+
+https://allafrica.com/stories/202006080308.html
 
 
 
@@ -1082,10 +1096,12 @@ https://northafricapost.com/39243-covid-19-chases-newspapers-from-newsstands.htm
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ There were no de-jure limits on media that were adopted based on the legal instrument employed which was the Infectious Disease Control Act 1964. 
 
 *Sources*:
-*No source provided*
+ https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+
+http://www.lawcommission.gov.np/en/archives/12240
 
 
 
@@ -1193,7 +1209,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ The measure has not been lifted 
 
 *Sources*:
 *No source provided*
@@ -1327,10 +1343,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 *Answer*: 2020-05-14 
 
 *Comments*:
-*No comment provided* 
+ For the duration of the state of emergency 
 
 *Sources*:
-*No source provided*
+ http://legislatie.just.ro/Public/DetaliiDocumentAfis/224849
 
 
 
@@ -1339,7 +1355,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 *Answer:* *No answer entered* 
 
 *Comments*:
- Permanent amendments to Article 207 of Criminal Code from 31 March 2020 ( № 100-ФЗ). "The application of the new laws will not be time-limited to duration of the pandemic" according to the Council of Europe. 
+ Permanent amendments to Article 207 of Criminal Code from 31 March 2020 ( № 100-FZ). "The application of the new laws will not be time-limited to duration of the pandemic" according to the Council of Europe. 
 
 *Sources*:
  https://ipi.media/european-media-freedom-suffers-covid-19-response/
