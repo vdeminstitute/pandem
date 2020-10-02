@@ -475,10 +475,10 @@ https://www.bbc.com/news/world-africa-52395976
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -522,10 +522,10 @@ https://www.bowmanslaw.com/insights/dispute-resolution/newsletter-on-the-publica
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -645,10 +645,10 @@ https://www.icnl.org/covid19tracker/?location=&issue=9&date=&type=#
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -681,10 +681,10 @@ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -719,10 +719,10 @@ https://www.rfi.fr/en/africa/20200414-press-freedom-violations-throughout-africa
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -756,10 +756,10 @@ https://www.washingtonpost.com/opinions/2020/05/07/kenya-is-turning-public-healt
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 
@@ -796,10 +796,10 @@ https://www.hrw.org/news/2020/05/04/protect-kenyas-journalists-reporting-covid-1
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 
@@ -833,10 +833,10 @@ https://www.the-star.co.ke/news/2020-05-03-press-freedom-day-22-journalists-atta
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 
@@ -872,10 +872,10 @@ https://www.the-star.co.ke/news/2020-05-03-press-freedom-day-22-journalists-atta
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -918,10 +918,10 @@ https://www.the-star.co.ke/news/2020-05-26-kenya-stuck-with-379000-tablets-of-co
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar/Jun*: 3
+Time period: *Mar-Jun*: 3
 
  
-Time period: *Jul/Sep*: 3
+Time period: *Jul-Sep*: 3
 
  
 
@@ -976,10 +976,10 @@ https://news.trust.org/item/20200928142310-7i546/
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 

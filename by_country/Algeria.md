@@ -438,10 +438,10 @@ https://africa.cgtn.com/2020/05/12/algeria-halts-ease-of-anti-coronavirus-lockdo
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -486,10 +486,10 @@ https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -640,10 +640,10 @@ https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 
@@ -693,10 +693,10 @@ https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 
@@ -746,10 +746,10 @@ https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -784,10 +784,10 @@ https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 
@@ -830,10 +830,10 @@ https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -867,10 +867,10 @@ https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -906,10 +906,10 @@ https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar/Jun*: 2
+Time period: *Mar-Jun*: 2
 
  
-Time period: *Jul/Sep*: 2
+Time period: *Jul-Sep*: 2
 
  
 
@@ -958,10 +958,10 @@ http://covid19.sante.gov.dz/fr/consignes-sanitaires-2/
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -993,10 +993,10 @@ https://www.amnesty.org/en/latest/news/2020/04/algeria-end-repression-against-hi
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 

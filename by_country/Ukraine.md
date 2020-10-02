@@ -380,10 +380,10 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B36
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -427,10 +427,10 @@ https://www.hrw.org/news/2020/07/13/protecting-human-rights-covid-19-pandemic
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -546,10 +546,10 @@ https://zakon.rada.gov.ua/laws/show/539-20#Text
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -580,10 +580,10 @@ https://ipi.media/ukraine/
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -615,10 +615,10 @@ https://cpj.org/europe/ukraine/
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -651,10 +651,10 @@ https://cpj.org/europe/ukraine/
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 
@@ -684,10 +684,10 @@ Time period: *Jul/Sep*: 1
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -719,10 +719,10 @@ https://cpj.org/europe/ukraine/
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -756,10 +756,10 @@ https://rsf.org/en/news/nearly-half-un-member-countries-have-obstructed-coronavi
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -794,10 +794,10 @@ https://cpj.org/europe/ukraine/
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -828,10 +828,10 @@ https://www.hrw.org/europe/central-asia/ukraine
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 

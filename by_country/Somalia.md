@@ -375,10 +375,10 @@ https://www.somalia.gov.so/
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -421,10 +421,10 @@ https://www.hrw.org/africa/somalia
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -540,10 +540,10 @@ https://www.hrw.org/africa/somalia
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 
@@ -577,10 +577,10 @@ https://freedomhouse.org/country/somalia/freedom-world/2020
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 
@@ -618,10 +618,10 @@ https://www.voanews.com/extremism-watch/somali-journalists-arrested-intimidated-
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -656,10 +656,10 @@ https://rsf.org/en/somalia
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar/Jun*: 2
+Time period: *Mar-Jun*: 2
 
  
-Time period: *Jul/Sep*: 2
+Time period: *Jul-Sep*: 2
 
  
 
@@ -691,10 +691,10 @@ https://rsf.org/en/news/somali-officials-cannot-claim-covid-19-information-monop
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 
@@ -728,10 +728,10 @@ https://www.hrw.org/news/2020/05/02/somalia-spate-arrests-intimidation-journalis
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -763,10 +763,10 @@ Time period: *Jul/Sep*: 0
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -802,10 +802,10 @@ https://moh.gov.so/en/
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar/Jun*: 2
+Time period: *Mar-Jun*: 2
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -839,10 +839,10 @@ https://www.aljazeera.com/news/2020/04/anger-mogadishu-police-kill-civilian-covi
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 

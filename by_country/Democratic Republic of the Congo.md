@@ -485,10 +485,10 @@ https://www.lesoir.be/289798/article/2020-03-24/coronavirus-la-rdc-decrete-letat
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -528,10 +528,10 @@ https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-desti
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -662,10 +662,10 @@ https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-desti
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -700,10 +700,10 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 
@@ -741,10 +741,10 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 
@@ -793,10 +793,10 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -832,10 +832,10 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -869,10 +869,10 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 
@@ -919,10 +919,10 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 2
+Time period: *Jul-Sep*: 2
 
  
 
@@ -972,10 +972,10 @@ https://www.aa.com.tr/fr/afrique/rdc-covid-19-mise-sur-le-march%C3%A9-de-l-hydro
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar/Jun*: 2
+Time period: *Mar-Jun*: 2
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 
@@ -1017,10 +1017,10 @@ https://www.garda.com/crisis24/news-alerts/362081/drc-authorities-lift-covid-19-
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 

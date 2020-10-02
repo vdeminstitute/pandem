@@ -391,10 +391,10 @@ https://afrique.le360.ma/autres-pays/societe/2020/05/01/30417-cameroun-coronavir
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -435,10 +435,10 @@ https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -559,10 +559,10 @@ https://verfassungsblog.de/cameroons-fight-against-covid-19-an-ordinary-legal-fr
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -594,10 +594,10 @@ https://rsf.org/en/cameroon
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -629,10 +629,10 @@ https://rsf.org/en/cameroon
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -665,10 +665,10 @@ https://rsf.org/en/cameroon
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar/Jun*: 2
+Time period: *Mar-Jun*: 2
 
  
-Time period: *Jul/Sep*: 2
+Time period: *Jul-Sep*: 2
 
  
 
@@ -709,10 +709,10 @@ https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-re
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -745,10 +745,10 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -783,10 +783,10 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 2
+Time period: *Jul-Sep*: 2
 
  
 
@@ -835,10 +835,10 @@ http://www.crtv.cm/2020/08/covid-19-cameroon-continues-use-of-hydroxichloroquine
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar/Jun*: 2
+Time period: *Mar-Jun*: 2
 
  
-Time period: *Jul/Sep*: 2
+Time period: *Jul-Sep*: 2
 
  
 
@@ -879,10 +879,10 @@ http://www.rfi.fr/fr/afrique/20200513-cameroun-opposants-luttant-contre-le-coron
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 

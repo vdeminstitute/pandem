@@ -420,10 +420,10 @@ http://english.court.gov.cn/2015-08/17/content_21625180_2.htm"
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 
@@ -472,10 +472,10 @@ https://www.bbc.com/news/world-africa-52309414
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -600,10 +600,10 @@ http://english.court.gov.cn/2015-08/17/content_21625180.htm
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 
@@ -642,10 +642,10 @@ https://rsf.org/fr/actualites/coronavirus-ces-heros-de-linformation-que-la-chine
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 
@@ -687,10 +687,10 @@ https://www.nytimes.com/2020/03/16/business/china-coronavirus-internet-police.ht
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 
@@ -730,10 +730,10 @@ https://www.cfr.org/backgrounder/media-censorship-china
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar/Jun*: 2
+Time period: *Mar-Jun*: 2
 
  
-Time period: *Jul/Sep*: 2
+Time period: *Jul-Sep*: 2
 
  
 
@@ -775,10 +775,10 @@ https://www.theguardian.com/world/2020/apr/11/china-clamping-down-on-coronavirus
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -811,10 +811,10 @@ https://rsf.org/en/news/coronavirus-mass-expulsion-foreign-correspondents-furthe
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -851,10 +851,10 @@ https://www.hrw.org/world-report/2020/country-chapters/china-and-tibet
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -891,10 +891,10 @@ https://www.hrw.org/world-report/2020/country-chapters/china-and-tibet
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -929,10 +929,10 @@ https://www.hrw.org/world-report/2020/country-chapters/china-and-tibet
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 

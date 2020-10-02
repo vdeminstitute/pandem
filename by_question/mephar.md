@@ -2,10 +2,10 @@
 
 
 # Afghanistan 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -23,10 +23,10 @@ https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
 
 
 # Albania 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -41,10 +41,10 @@ https://rsf.org/en/albania
 
 
 # Algeria 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -61,10 +61,10 @@ https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
 
 
 # Angola 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -79,10 +79,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Argentina 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -97,10 +97,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Armenia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -115,10 +115,10 @@ https://www.hrw.org/europe/central-asia/armenia
 
 
 # Australia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -134,10 +134,10 @@ https://www.bbc.co.uk/search?q=Australia+Covid-19+harassment+journalists&page=1
 
 
 # Austria 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -152,10 +152,10 @@ https://rsf.org/en/austria
 
 
 # Azerbaijan 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -171,10 +171,10 @@ https://www.kavkaz-uzel.eu/articles/348669/
 
 
 # Bangladesh 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -191,10 +191,10 @@ https://www.aa.com.tr/en/asia-pacific/bangladesh-should-keep-reporters-safe-amid
 
 
 # Belarus 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -208,10 +208,10 @@ https://www.hrw.org/europe/central-asia/belarus
 
 
 # Belgium 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -226,10 +226,10 @@ https://www.ecpmf.eu/tag/covid19/
 
 
 # Benin 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -245,10 +245,10 @@ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
 
 
 # Bolivia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -263,10 +263,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Bosnia and Herzegovina 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -284,10 +284,10 @@ https://www.hrw.org/europe/central-asia/bosnia-and-herzegovina
 
 
 # Botswana 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -306,10 +306,10 @@ https://cpj.org/africa/botswana
 
 
 # Brazil 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -324,10 +324,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Bulgaria 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -341,10 +341,10 @@ https://ipi.media/bulgaria/
 
 
 # Burkina Faso 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -362,10 +362,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Burma/Myanmar 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -382,10 +382,10 @@ https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
 
 
 # Burundi 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -400,10 +400,10 @@ https://rsf.org/en/rsf_search?key=burundi&y=2020
 
 
 # Cambodia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -420,10 +420,10 @@ https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia
 
 
 # Cameroon 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -439,10 +439,10 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
 
 
 # Canada 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -456,10 +456,10 @@ https://ipi.media/canada/
 
 
 # Central African Republic 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -475,10 +475,10 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
 
 
 # Chad 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -495,10 +495,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Chile 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -513,10 +513,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # China 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -534,10 +534,10 @@ https://www.hrw.org/world-report/2020/country-chapters/china-and-tibet
 
 
 # Colombia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -552,10 +552,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Costa Rica 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -570,10 +570,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Croatia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -586,10 +586,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Cuba 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -604,10 +604,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Czech Republic 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -623,10 +623,10 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/czech-republic/
 
 
 # Democratic Republic of the Congo 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -654,10 +654,10 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
 
 
 # Denmark 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -671,10 +671,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Dominican Republic 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -689,10 +689,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Ecuador 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -707,10 +707,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Egypt 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -725,10 +725,10 @@ https://www.theguardian.com/world/2020/may/03/egypt-has-made-journalism-a-with-c
 
 
 # El Salvador 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -743,10 +743,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Eritrea 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -765,10 +765,10 @@ https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-new
 
 
 # Ethiopia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -785,10 +785,10 @@ https://cpj.org/africa/ethiopia/
 
 
 # Finland 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -802,10 +802,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # France 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -820,10 +820,10 @@ https://www.ecpmf.eu/?s=covid19
 
 
 # Gabon 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -841,10 +841,10 @@ https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
 
 
 # Georgia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -861,10 +861,10 @@ https://www.hrw.org/europe/central-asia/georgia
 
 
 # Germany 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -878,10 +878,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Ghana 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -902,10 +902,10 @@ https://cpj.org/2020/04/in-ghana-soldiers-enforcing-covid-19-restrictions/
 
 
 # Greece 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -921,10 +921,10 @@ https://rsf.org/en/rsf_search?key=greece
 
 
 # Guatemala 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -939,10 +939,10 @@ https://web.archive.org/web/20200815111222/https://www.pdh.org.gt/dan-seguimient
 
 
 # Guinea 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -960,10 +960,10 @@ https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
 
 
 # Haiti 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -981,10 +981,10 @@ https://cpj.org/2020/08/journalist-setoute-yvens-survives-shooting-attempt-anoth
 
 
 # Honduras 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -999,10 +999,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Hong Kong 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1019,10 +1019,10 @@ https://www.hrw.org/news/2020/08/11/china/hong-kong-mass-arrests-under-security-
 
 
 # Hungary 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1037,10 +1037,10 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/hungary/
 
 
 # India 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -1059,10 +1059,10 @@ https://www.thehindu.com/news/national/other-states/journalist-held-for-publishi
 
 
 # Indonesia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1080,10 +1080,10 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/indonesia/
 
 
 # Iran 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -1099,10 +1099,10 @@ https://cpj.org/2020/03/amid-coronavirus-pandemic-iran-covers-up-crucial-i/"
 
 
 # Iraq 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -1118,10 +1118,10 @@ https://cpj.org/2020/06/journalists-assaulted-detained-while-covering-covid-19-p
 
 
 # Ireland 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1135,10 +1135,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Israel 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1152,10 +1152,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Italy 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1170,10 +1170,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CF
 
 
 # Ivory Coast 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1189,10 +1189,10 @@ https://rsf.org/en/cote-divoire
 
 
 # Jamaica 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1209,10 +1209,10 @@ https://www.bbc.com/news/topics/c50znx8v848t/jamaica
 
 
 # Japan 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1235,10 +1235,10 @@ https://www.hrw.org/asia/japan
 
 
 # Jordan 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -1254,10 +1254,10 @@ https://ipi.media/ipi-condemns-the-arrest-of-two-tv-executives-in-jordan/
 
 
 # Kazakhstan 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1271,10 +1271,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Kenya 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -1291,10 +1291,10 @@ https://www.the-star.co.ke/news/2020-05-03-press-freedom-day-22-journalists-atta
 
 
 # Kuwait 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1313,10 +1313,10 @@ https://www.nytimes.com/search?query=Kuwait
 
 
 # Kyrgyzstan 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1333,10 +1333,10 @@ https://cpj.org/2020/05/ramadan-poses-challenges-for-imprisoned-journalist/
 
 
 # Laos 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1350,10 +1350,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Lebanon 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1368,10 +1368,10 @@ https://cpj.org/2020/08/security-forces-and-demonstrators-injure-journalists-cov
 
 
 # Lesotho 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1391,10 +1391,10 @@ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
 
 
 # Liberia 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1413,10 +1413,10 @@ https://monitor.civicus.org/country/liberia/#newspost-3228
 
 
 # Lithuania 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1434,10 +1434,10 @@ https://cpj.org/europe/lithuania/
 
 
 # Madagascar 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -1454,10 +1454,10 @@ https://information.tv5monde.com/terriennes/madagascar-une-journaliste-arretee-p
 
 
 # Malawi 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1478,10 +1478,10 @@ https://www.amnesty.org/en/latest/news/2020/03/malawi-authorities-escalate-crack
 
 
 # Malaysia 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -1499,10 +1499,10 @@ https://www.hrw.org/news/2020/07/08/malaysia-stop-treating-criticism-crime
 
 
 # Mali 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1518,10 +1518,10 @@ https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
 
 
 # Mauritania 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1538,10 +1538,10 @@ https://www.middleeasteye.net/news/fear-more-cases-mauritania-claims-total-contr
 
 
 # Mexico 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1556,10 +1556,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Moldova 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1575,10 +1575,10 @@ https://www.hrw.org/sitesearch?search=moldova
 
 
 # Mongolia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1592,10 +1592,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Morocco 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1616,10 +1616,10 @@ https://www.arabnews.com/node/1671666/media
 
 
 # Mozambique 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1636,10 +1636,10 @@ https://cpj.org/2020/07/mozambican-journalist-omardine-omar-convicted-of-civil-d
 
 
 # Namibia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1656,10 +1656,10 @@ https://rsf.org/en/namibia
 
 
 # Nepal 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1677,10 +1677,10 @@ http://nepalpressfreedom.org/main/issue-single/1152
 
 
 # Netherlands 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1694,10 +1694,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # New Zealand 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1711,10 +1711,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Nicaragua 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1729,10 +1729,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Niger 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -1753,15 +1753,15 @@ https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabil
 
 
 # Nigeria 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
 *Comments*:
- Journalists covering covid-19 related issues have been physically attacked by police. On 03 August a journalist was attacked by police forces while covering officers‚Äô enforcing COVID-19 restrictions. 
+ Journalists covering covid-19 related issues have been physically attacked by police. On 03 August a journalist was attacked by police forces while covering officers' enforcing COVID-19 restrictions. 
 
 *Sources*:
  https://tribuneonlineng.com/lockdown-task-force-attacks-delta-nuj-chairman-another-journalist/
@@ -1773,10 +1773,10 @@ https://cpj.org/2020/08/nigerian-journalist-sikiru-obarayese-attacked-by-police-
 
 
 # North Korea 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1794,10 +1794,10 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/north-korea/
 
 
 # North Macedonia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1813,10 +1813,10 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/north-macedonia/
 
 
 # Norway 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1830,10 +1830,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Oman 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1848,10 +1848,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Pakistan 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -1879,10 +1879,10 @@ https://www.hrw.org/news/2020/09/11/pakistans-hypocrisy-press-freedom
 
 
 # Panama 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1897,10 +1897,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Papua New Guinea 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1916,10 +1916,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Paraguay 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1934,10 +1934,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Peru 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1953,10 +1953,10 @@ https://ojo-publico.com/1716/policia-detiene-y-agrede-editor-regional-de-ojopubl
 
 
 # Philippines 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1969,10 +1969,10 @@ https://ojo-publico.com/1716/policia-detiene-y-agrede-editor-regional-de-ojopubl
 
 
 # Poland 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1987,10 +1987,10 @@ https://ipi.media/increase-in-violence-against-journalists-covering-protests-acr
 
 
 # Portugal 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2005,10 +2005,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Qatar 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2022,10 +2022,10 @@ https://rsf.org/en/qatar
 
 
 # Republic of the Congo 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2041,10 +2041,10 @@ https://cpj.org/africa/republic-of-congo/
 
 
 # Romania 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2062,10 +2062,10 @@ https://rsf.org/en/romania
 
 
 # Russia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2080,10 +2080,10 @@ https://ipi.media/russian-journalists-face-continued-fines-and-probes-amid-creep
 
 
 # Rwanda 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -2112,10 +2112,10 @@ http://rwandansrights.org/rwanda-the-coronavirus-pandemic-is-not-an-excuse-to-tr
 
 
 # Saudi Arabia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2130,10 +2130,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Senegal 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -2150,10 +2150,10 @@ https://www.article19.org/resources/senegal-media-outlet-attacked/
 
 
 # Serbia 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -2173,10 +2173,10 @@ https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_co
 
 
 # Sierra Leone 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -2192,10 +2192,10 @@ https://snradio.net/slaj-condemns-state-sanctioned-brutality-against-journalists
 
 
 # Singapore 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2212,10 +2212,10 @@ https://www.hrw.org/asia/singapore
 
 
 # Slovakia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2231,10 +2231,10 @@ https://rsf.org/en/slovakia
 
 
 # Slovenia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2250,10 +2250,10 @@ https://cpj.org/europe/slovenia/
 
 
 # Somalia 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2266,10 +2266,10 @@ https://cpj.org/europe/slovenia/
 
 
 # South Africa 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2284,10 +2284,10 @@ https://cpj.org/2020/05/south-african-police-assault-charge-journalist-pau/
 
 
 # South Korea 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2309,10 +2309,10 @@ https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
 
 
 # South Sudan 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2331,10 +2331,10 @@ https://www.bbc.com/news/topics/c302m85q54lt/south-sudan
 
 
 # Spain 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2349,10 +2349,10 @@ https://www.larazon.es/actualidad/20200523/i7fzuqxld5gk7pkqva5twqrsxq.html
 
 
 # Sri Lanka 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2374,10 +2374,10 @@ https://www.hrw.org/asia/sri-lanka
 
 
 # Sudan 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2394,10 +2394,10 @@ https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
 
 
 # Sweden 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2411,10 +2411,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Switzerland 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2428,10 +2428,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Taiwan 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2447,10 +2447,10 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/taiwan/
 
 
 # Tajikistan 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2464,10 +2464,10 @@ https://cpj.org/2020/05/tajik-journalist-avazmad-ghurbatov-beaten-by-unide/
 
 
 # Tanzania 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2486,10 +2486,10 @@ https://www.bbc.com/news/world-africa-52519853
 
 
 # Thailand 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2502,10 +2502,10 @@ https://www.bbc.com/news/world-africa-52519853
 
 
 # The Gambia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2524,10 +2524,10 @@ https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
 
 
 # Togo 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2544,10 +2544,10 @@ https://rsf.org/en/togo
 
 
 # Tunisia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2568,10 +2568,10 @@ https://www.bbc.com/news/topics/cwlw3xz0lmvt/tunisia
 
 
 # Turkey 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -2590,10 +2590,10 @@ http://bianet.org/english/freedom-of-expression/230023-press-freedom-in-turkey-j
 
 
 # Turkmenistan 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2607,10 +2607,10 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/turkmenistan/
 
 
 # Uganda 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2627,10 +2627,10 @@ https://www.dw.com/en/ugandan-journalists-assaulted-by-security-forces-amid-coro
 
 
 # Ukraine 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2645,10 +2645,10 @@ https://rsf.org/en/news/nearly-half-un-member-countries-have-obstructed-coronavi
 
 
 # United Arab Emirates 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2672,10 +2672,10 @@ https://www.bbc.com/news/topics/ce1qrvlexjet/united-arab-emirates
 
 
 # United Kingdom 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2689,10 +2689,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # United States of America 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2708,10 +2708,10 @@ https://cpj.org/2020/08/charges-remain-against-journalists-arrested-during-georg
 
 
 # Uruguay 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2726,10 +2726,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Uzbekistan 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2744,10 +2744,10 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/uzbekistan/
 
 
 # Venezuela 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -2764,10 +2764,10 @@ https://www.hrw.org/news/2020/08/28/venezuela-police-state-lashes-out-amid-covid
 
 
 # Vietnam 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2780,10 +2780,10 @@ https://www.hrw.org/news/2020/08/28/venezuela-police-state-lashes-out-amid-covid
 
 
 # Zambia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2802,10 +2802,10 @@ https://www.bbc.co.uk/news/topics/cdl8n2edezlt/zambia
 
 
 # Zimbabwe 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 

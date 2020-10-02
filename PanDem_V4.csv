@@ -1,0 +1,487 @@
+"country_name","timeperiod","v2x_libdem","pandem","panback","Type1","Type2","Type3","Type4","Type5","Type6","Type7","discrim","ndrights","merepfact","merepgov","merepoth","meinf","mevhar","mephar","govdis","pomviol","emlimit","emlaw","emstart","emend","emlimitdate","emlawapp","emlegapp","leglimit","legdisdate","legresdate","melim","melimstart","melimend","subvar","milinv","time","emname","misclimit"
+"Afghanistan","Mar-Sep",0.212,0.15,0.083528,0,0,0,0,0,0,3,0,0,0,1,0,0,1,0,0,0,1,5,NA,"2020-08-30","2020-08-30",NA,NA,1,NA,NA,0,NA,NA,NA,0,"2020-06-17",NA,NA
+"Afghanistan","Mar-Jun",0.212,0.15,0.1002336,0,0,0,0,0,0,3,0,0,0,1,0,0,1,0,0,0,1,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Afghanistan","Jul-Sep",0.212,0.1,0.0668224,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Albania","Mar-Sep",0.431,0.15,0.0735717,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0,1,3,"2020-03-24","2020-06-23","2020-06-23",1,1,1,NA,NA,0,NA,NA,1,1,"2020-08-31","Constitution (Articles 100, 170, 174, point 1, and 175, point 2), LIGJ Nr. 45/2019 PËR MBROJTJEN CIVILE",NA
+"Albania","Mar-Jun",0.431,0.15,0.1471434,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Albania","Jul-Sep",0.431,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Algeria","Mar-Sep",0.119,0.25,0.104839,0,0,0,0,0,2,3,0,0,1,1,0,1,0,0,2,0,1,4,"2020-03-21",NA,"2020-04-04",0,0,2,NA,NA,1,"2020-04-22",NA,2,0,"2020-09-15","Constitution 1989 (reinst. 1996, rev. 2016), articles 99 (4), 143 (1)
+-loi n° 88-07 du 7 Joumada Ethania 1408 correspondant au 26 janvier 1988 relative à l’hygiène, à la sécurité et à la médecine du travail (2)",NA
+"Algeria","Mar-Jun",0.119,0.25,0.104839,0,0,0,0,0,2,3,0,0,1,1,0,1,0,0,2,0,1,NA,NA,NA,NA,NA,NA,2,NA,NA,1,NA,NA,NA,0,NA,NA,NA
+"Algeria","Jul-Sep",0.119,0.25,0.104839,0,0,0,0,0,2,3,0,0,1,1,0,1,0,0,2,0,1,NA,NA,NA,NA,NA,NA,2,NA,NA,1,NA,NA,NA,0,NA,NA,NA
+"Angola","Mar-Sep",0.23,0.25,0.1771,0,0,2,0,0,0,3,0,0,1,1,0,0,0,0,0,2,1,1,"2020-03-27","2020-05-25","2020-05-25",1,1,2,NA,NA,0,NA,NA,1,1,"2020-08-31","Constitution Article 58 and Law nº 17/91",NA
+"Angola","Mar-Jun",0.23,0.25,0.1771,0,0,2,0,0,0,3,0,0,1,1,0,0,0,0,0,2,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Angola","Jul-Sep",0.23,0.25,0.1771,0,0,2,0,0,0,3,0,0,1,1,0,0,0,0,0,2,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Argentina","Mar-Sep",0.631,0.1,0.0931356,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,4,"2020-03-20",NA,"2020-09-20",1,1,2,NA,NA,0,NA,NA,2,1,"2020-09-04","Ley 27541 - LEY DE SOLIDARIDAD SOCIAL Y REACTIVACIÓN PRODUCTIVA EN EL MARCO DE LA EMERGENCIA PÚBLICA","The judiciary was on ""extraordinary recess"" from March 20. In each province they returned to activies at a different time, between June and July. It took the Congress almost two months to begin online sessions and in the meantime all decisions were taken by the Executive."
+"Argentina","Mar-Jun",0.631,0.1,0.0931356,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Argentina","Jul-Sep",0.631,0.1,0.0931356,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Armenia","Mar-Sep",0.641,0.15,0.1380714,0,0,0,0,0,0,3,0,0,1,1,0,0,0,0,0,0,1,1,"2020-03-16","2020-09-11","2020-09-11",1,1,0,NA,NA,2,"2020-03-16","2020-09-11",0,0,"2020-09-21","Constitution (Article 120)","1) new survelliance law 2) postponed constitutional referendum"
+"Armenia","Mar-Jun",0.641,0.15,0.1380714,0,0,0,0,0,0,3,0,0,1,1,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,2,NA,NA,NA,0,NA,NA,NA
+"Armenia","Jul-Sep",0.641,0.15,0.1380714,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,2,NA,NA,NA,0,NA,NA,NA
+"Australia","Mar-Sep",0.789,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,"2020-03-18",NA,"2020-12-17",0,0,2,NA,NA,0,NA,NA,1,1,"2020-09-02","Biosecurity (Human Biosecurity Emergency) (Human Coronavirus with Pandemic Potential) Declaration 2020",NA
+"Australia","Mar-Jun",0.789,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Australia","Jul-Sep",0.789,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Austria","Mar-Sep",0.721,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,"2020-03-16",NA,"2020-12-31",1,1,0,NA,NA,0,NA,NA,1,0,"2020-09-02","Covid-19 Law",NA
+"Austria","Mar-Jun",0.721,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Austria","Jul-Sep",0.721,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Azerbaijan","Mar-Sep",0.07,0.2,0.04557,0,0,1,0,0,0,3,0,0,1,1,1,2,0,1,0,1,1,4,"2020-03-24",NA,"2020-11-04",0,0,2,NA,NA,2,"2020-03-24","2020-11-04",1,0,"2020-09-01","Sanitariya-epidemioloji salamatlıq haqqında AZƏRBAYCAN RESPUBLİKASININ QANUNU","Arrests of opposition leaders and activists in March, April and July 2020"
+"Azerbaijan","Mar-Jun",0.07,0.2,0.05208,0,0,1,0,0,0,3,0,0,1,1,1,2,0,1,0,1,1,NA,NA,NA,NA,NA,NA,2,NA,NA,2,NA,NA,NA,0,NA,NA,NA
+"Azerbaijan","Jul-Sep",0.07,0.15,0.03906,0,0,0,0,0,0,3,0,0,1,1,1,2,0,0,0,0,1,NA,NA,NA,NA,NA,NA,2,NA,NA,2,NA,NA,NA,0,NA,NA,NA
+"Bangladesh","Mar-Sep",0.1,0.25,0.072,0,0,2,0,0,0,3,0,0,1,1,0,0,0,1,0,2,1,7,"2020-03-26","2020-05-31",NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,"2020-06-24",NA,NA
+"Bangladesh","Mar-Jun",0.1,0.25,0.09,0,0,2,0,0,0,3,0,0,1,1,0,0,0,1,0,2,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Bangladesh","Jul-Sep",0.1,0.15,0.054,0,0,0,0,0,0,3,0,0,1,1,0,0,0,1,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Belarus","Mar-Sep",0.115,0.35,0.142485,0,0,0,2,0,2,3,0,0,1,1,0,0,0,0,2,0,0,4,"2020-03-25",NA,NA,0,0,0,NA,NA,0,NA,NA,0,0,"2020-09-02","Zakon Respubliki Belarus' ot 7 yanvarya 2012 g. № 340-Z «O sanitarno-epidemiologicheskom blagopoluchii naseleniya"" (Art 7)",NA
+"Belarus","Mar-Jun",0.115,0.35,0.142485,0,0,0,2,0,2,3,0,0,1,1,0,0,0,0,2,0,0,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Belarus","Jul-Sep",0.115,0.35,0.142485,0,0,0,2,0,2,3,0,0,1,1,0,0,0,0,2,0,0,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Belgium","Mar-Sep",0.822,0.1,0.0438948,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,4,"2020-03-30",NA,"2020-06-30",1,1,1,NA,NA,0,NA,NA,2,0,"2020-09-02","Special powers, (Article 105 Constitution); 
+
+
+",NA
+"Belgium","Mar-Jun",0.822,0.1,0.0585264,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Belgium","Jul-Sep",0.822,0.05,0.0292632,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Benin","Mar-Sep",0.461,0.25,0.2236311,0,0,0,0,0,2,3,0,0,1,1,0,0,0,0,2,0,NA,6,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,3,0,"2020-09-04",NA,NA
+"Benin","Mar-Jun",0.461,0.2,0.1987832,0,0,0,0,0,1,3,0,0,1,1,0,0,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Benin","Jul-Sep",0.461,0.25,0.248479,0,0,0,0,0,2,3,0,0,1,1,0,0,0,0,2,0,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Bolivia","Mar-Sep",0.306,0.15,0.0637092,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,2,"2020-03-17",NA,"2020-09-30",0,0,2,NA,NA,2,"2020-03-25","2020-05-14",2,1,"2020-09-22","Código de Salud, aprobado por Decreto Ley Nº 15629, de 18 de julio de 1978","The general elections scheduled to 2020-05-03 were postponed twice and are now supposed to happen on 2020-10-18."
+"Bolivia","Mar-Jun",0.306,0.15,0.1274184,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,2,NA,NA,2,NA,NA,NA,1,NA,NA,NA
+"Bolivia","Jul-Sep",0.306,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Bosnia and Herzegovina","Mar-Sep",0.345,0.2,0.1129875,0,0,0,1,0,0,3,0,0,0,1,0,1,0,0,0,0,1,3,"2020-03-17","2020-05-31",NA,1,1,0,NA,NA,0,NA,NA,3,0,"2020-09-02","Okvirni zakon o zaštiti i spašavanju ljudi i materijalnih dobara od prirodnih ili drugih nesreća u BiH",NA
+"Bosnia and Herzegovina","Mar-Jun",0.345,0.2,0.18078,0,0,0,1,0,0,3,0,0,0,1,0,1,0,0,0,0,0,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Bosnia and Herzegovina","Jul-Sep",0.345,0.05,0.045195,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Botswana","Mar-Sep",0.55,0.05,0.0495,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,"2020-04-02",NA,"2020-10-09",1,1,1,NA,NA,1,"2020-04-02","2020-10-09",1,1,"2020-08-31","Constitution of Botswana (Section 17)",NA
+"Botswana","Mar-Jun",0.55,0.05,0.0495,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,1,NA,NA,1,NA,NA,NA,1,NA,NA,NA
+"Botswana","Jul-Sep",0.55,0.05,0.0495,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,1,NA,NA,1,NA,NA,NA,1,NA,NA,NA
+"Brazil","Mar-Sep",0.508,0.3,0.2999232,0,0,0,2,0,2,2,0,0,0,0,0,2,1,0,2,0,0,2,"2020-02-03",NA,NA,0,0,2,NA,NA,0,NA,NA,3,0,"2020-09-07","Decree nº 7616 from November 17, 2011","The local elections were scheduled for October, but were postponed to November 15"
+"Brazil","Mar-Jun",0.508,0.3,0.2999232,0,0,0,2,0,2,2,0,0,0,0,0,2,1,0,2,0,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Brazil","Jul-Sep",0.508,0.3,0.2999232,0,0,0,2,0,2,2,0,0,0,0,0,0,1,0,2,0,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Bulgaria","Mar-Sep",0.488,0.2,0.1499136,3,0,0,0,0,0,1,3,0,0,0,0,1,0,0,0,0,1,1,"2020-03-13","2020-05-13","2020-05-13",1,1,2,NA,NA,0,NA,NA,1,0,"2020-09-03","Constitution (Article 84, point 12)","privacy concerns"
+"Bulgaria","Mar-Jun",0.488,0.2,0.1998848,3,0,0,0,0,0,1,3,0,0,0,0,1,0,0,0,0,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Bulgaria","Jul-Sep",0.488,0.1,0.0999424,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Burkina Faso","Mar-Sep",0.273,0.15,0.0992355,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,"2020-03-27",NA,NA,0,0,2,NA,NA,0,NA,NA,2,1,"2020-09-15","Public Health Code (1996), article 66 (1)",NA
+"Burkina Faso","Mar-Jun",0.273,0.15,0.1190826,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Burkina Faso","Jul-Sep",0.273,0.1,0.0793884,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Burma/Myanmar","Mar-Sep",0.246,0.25,0.185484,1,0,1,0,0,0,3,1,0,1,1,1,2,0,1,0,1,NA,5,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,2,1,"2020-09-14",NA,NA
+"Burma/Myanmar","Mar-Jun",0.246,0.25,0.185484,1,0,1,0,0,0,3,1,0,1,1,1,2,0,1,0,1,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Burma/Myanmar","Jul-Sep",0.246,0.25,0.185484,1,0,1,0,0,0,3,1,0,1,1,1,2,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Burundi","Mar-Sep",0.059,0.25,0.0444152,0,0,0,0,0,2,3,0,0,1,1,0,2,0,0,2,0,NA,5,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,0,0,"2020-09-11",NA,NA
+"Burundi","Mar-Jun",0.059,0.25,0.055519,0,0,0,0,0,2,3,0,0,1,1,0,2,0,0,2,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Burundi","Jul-Sep",0.059,0.15,0.0333114,0,0,0,0,0,0,3,0,0,1,1,0,2,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Cambodia","Mar-Sep",0.088,0.25,0.080256,0,0,0,2,0,0,3,0,0,1,1,1,1,0,0,0,0,0,4,NA,NA,NA,1,1,0,NA,NA,1,"2020-04-20",NA,0,0,"2020-06-16","Law on National Administration in the State of Emergency",NA
+"Cambodia","Mar-Jun",0.088,0.25,0.080256,0,0,0,2,0,0,3,0,0,1,1,1,1,0,0,0,0,0,NA,NA,NA,NA,NA,NA,0,NA,NA,1,NA,NA,NA,0,NA,NA,NA
+"Cambodia","Jul-Sep",0.088,0.25,0.080256,0,0,0,2,0,0,3,0,0,1,1,1,1,0,0,0,0,0,NA,NA,NA,NA,NA,NA,0,NA,NA,1,NA,NA,NA,0,NA,NA,NA
+"Cameroon","Mar-Sep",0.145,0.3,0.1363725,0,0,2,0,0,2,2,0,0,0,0,0,2,0,0,2,2,NA,5,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,0,0,"2020-09-10",NA,NA
+"Cameroon","Mar-Jun",0.145,0.25,0.123975,0,0,2,0,0,1,2,0,0,0,0,0,2,0,0,1,2,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Cameroon","Jul-Sep",0.145,0.3,0.14877,0,0,2,0,0,2,2,0,0,0,0,0,2,0,0,2,2,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Canada","Mar-Sep",0.776,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,6,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,2,0,"2020-09-02",NA,NA
+"Canada","Mar-Jun",0.776,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Canada","Jul-Sep",0.776,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Central African Republic","Mar-Sep",0.213,0.15,0.0838155,0,0,0,0,0,2,1,0,0,0,0,0,1,0,0,2,0,NA,5,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,0,0,"2020-09-10",NA,NA
+"Central African Republic","Mar-Jun",0.213,0.1,0.0670524,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Central African Republic","Jul-Sep",0.213,0.15,0.1005786,0,0,0,0,0,2,1,0,0,0,0,0,1,0,0,2,0,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Chad","Mar-Sep",0.11,0.3,0.0979,0,0,1,0,0,2,3,0,0,0,1,0,0,1,1,2,1,1,1,"2020-04-25",NA,"2020-05-16",1,1,2,NA,NA,0,NA,NA,2,1,"2020-09-12","Constitution (2018) Articles 96, 97, 127, 130.
+Order 044 (Ordonnance n° 44 du 27 octobre 1962 relative à l'état d'urgence).",NA
+"Chad","Mar-Jun",0.11,0.25,0.0979,0,0,1,0,0,1,3,0,0,0,1,0,0,1,1,1,1,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Chad","Jul-Sep",0.11,0.25,0.0979,0,0,0,0,0,2,3,0,0,0,1,0,0,1,1,2,0,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Chile","Mar-Sep",0.762,0.1,0.0725424,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,"2020-03-19",NA,"2020-11-13",0,0,2,NA,NA,0,NA,NA,2,1,"2020-09-07","Constitution Articles 19, 32, 39, 41 and 43 and Law nº 18415 (Ley Organica Constitucional de los Estados de Excepcion)","The national plebiscite was postponed from April 26 to October 25."
+"Chile","Mar-Jun",0.762,0.1,0.0725424,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Chile","Jul-Sep",0.762,0.1,0.0725424,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"China","Mar-Sep",0.05,0.3,0.057,1,0,0,2,0,0,3,1,0,1,1,1,2,1,0,0,0,0,6,"2020-01-24",NA,NA,1,1,0,NA,NA,1,NA,NA,3,1,"2020-06-10","Emergency Response Law of the People's Republic of China",NA
+"China","Mar-Jun",0.05,0.3,0.057,1,0,0,2,0,0,3,1,0,1,1,1,2,1,0,0,0,0,NA,NA,NA,NA,NA,NA,0,NA,NA,1,NA,NA,NA,1,NA,NA,NA
+"China","Jul-Sep",0.05,0.3,0.057,1,0,0,2,0,0,3,1,0,1,1,1,2,0,0,0,0,0,NA,NA,NA,NA,NA,NA,0,NA,NA,1,NA,NA,NA,0,NA,NA,NA
+"Colombia","Mar-Sep",0.503,0.1,0.0999964,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,"2020-03-17","2020-06-05","2020-06-05",0,0,2,NA,NA,0,NA,NA,0,1,"2020-09-07","Constitution Article 215 and Law 137 from 1994",NA
+"Colombia","Mar-Jun",0.503,0.1,0.0999964,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Colombia","Jul-Sep",0.503,0.1,0.0999964,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Costa Rica","Mar-Sep",0.816,0.15,0.075072,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,"2020-03-16",NA,NA,0,0,2,NA,NA,0,NA,NA,1,0,"2020-09-08","Ley Nacional de Emergencias y Prevención del Riesgo (Ley 8488 del 22 de noviembre de 2005)","Costa Rica established a Vehicle Restriction Schedule, that limits when vehicles can circulate according to the license plate ending number."
+"Costa Rica","Mar-Jun",0.816,0.15,0.0900864,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Costa Rica","Jul-Sep",0.816,0.1,0.0600576,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Croatia","Mar-Sep",0.545,0.1,0.049595,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,"2020-03-23","2020-05-11",NA,0,0,2,NA,NA,0,NA,NA,0,0,"2020-09-03","Zakon o sustavu civilne zaštite",NA
+"Croatia","Mar-Jun",0.545,0.1,0.09919,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Croatia","Jul-Sep",0.545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Cuba","Mar-Sep",0.09,0.3,0.09828,0,0,1,2,0,0,3,0,0,1,1,0,0,0,0,0,1,0,4,"2020-05-12",NA,NA,0,0,2,NA,NA,0,NA,NA,2,0,"2020-09-22","Decreto 139 de 22 de febrero de 1988 “Reglamento de la Ley de la Salud Pública”",NA
+"Cuba","Mar-Jun",0.09,0.3,0.09828,0,0,1,2,0,0,3,0,0,1,1,0,0,0,0,0,1,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Cuba","Jul-Sep",0.09,0.3,0.09828,0,0,1,2,0,0,3,0,0,1,1,0,0,0,0,0,1,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Czech Republic","Mar-Sep",0.697,0.05,0.0211191,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,"2020-03-13","2020-05-17","2020-05-17",1,1,2,NA,NA,0,NA,NA,1,1,"2020-09-04","Constitutional Act of Law No. 110/1998, Crisis Act No. 240/2000",NA
+"Czech Republic","Mar-Jun",0.697,0.05,0.0422382,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Czech Republic","Jul-Sep",0.697,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Democratic Republic of the Congo","Mar-Sep",0.139,0.5,0.1795185,0,0,2,0,3,2,3,0,0,0,1,1,0,0,1,2,2,1,1,"2020-03-25","2020-07-22","2020-04-25",1,1,4,"2020-03-18","2020-04-05",0,NA,NA,2,0,"2020-09-09","Constitution (2005), articles 85, 86, 144, 145.
+
+
+",NA
+"Democratic Republic of the Congo","Mar-Jun",0.139,0.45,0.2154222,0,0,2,0,3,1,3,0,0,0,1,1,0,0,1,1,2,1,NA,NA,NA,NA,NA,NA,4,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Democratic Republic of the Congo","Jul-Sep",0.139,0.3,0.1436148,0,0,1,0,0,2,3,0,0,0,1,1,0,0,1,2,1,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Denmark","Mar-Sep",0.858,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,"2020-03-17",NA,"2021-03-31",1,1,0,NA,NA,0,NA,NA,0,0,"2020-09-03","Act no. 133 of 12 March 2020 amending the Danish on Measures against Infectious and Other Communicable Diseases (Expansion of measures to prevent and contain contamination and to secure capacity resources, etc.)",NA
+"Denmark","Mar-Jun",0.858,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Denmark","Jul-Sep",0.858,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Dominican Republic","Mar-Sep",0.322,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,"2020-03-19",NA,"2020-10-18",1,1,0,NA,NA,0,NA,NA,0,1,"2020-09-21","Constitution Article 262 and Law nº 21-18","Presidential and legislative elections were postponed from May 17 to July 5 and were held amid the pandemic."
+"Dominican Republic","Mar-Jun",0.322,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Dominican Republic","Jul-Sep",0.322,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Ecuador","Mar-Sep",0.502,0.1,0.0999984,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,"2020-03-16","2020-09-13","2020-09-13",0,0,2,NA,NA,0,NA,NA,2,1,"2020-09-08","Ley de Seguridad Publica y Del Estado",NA
+"Ecuador","Mar-Jun",0.502,0.1,0.0999984,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Ecuador","Jul-Sep",0.502,0.1,0.0999984,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Egypt","Mar-Sep",0.126,0.35,0.1541736,0,3,1,0,0,0,3,0,1,1,1,0,2,0,1,0,1,1,1,NA,NA,NA,1,1,0,"2020-03-23","2020-04-29",2,NA,NA,0,0,"2020-06-20",NA,NA
+"Egypt","Mar-Jun",0.126,0.35,0.1541736,0,3,1,0,0,0,3,0,1,1,1,0,2,0,1,0,1,1,NA,NA,NA,NA,NA,NA,0,NA,NA,2,NA,NA,NA,0,NA,NA,NA
+"Egypt","Jul-Sep",0.126,0.35,0.1541736,0,3,1,0,0,0,3,0,1,1,1,0,2,0,0,0,1,1,NA,NA,NA,NA,NA,NA,0,NA,NA,2,NA,NA,NA,0,NA,NA,NA
+"El Salvador","Mar-Sep",0.437,0.55,0.492062,0,3,2,0,2,1,3,0,1,1,1,1,2,1,0,1,2,1,1,"2020-03-14","2020-06-15","2020-06-15",1,1,3,NA,NA,2,"2020-03-29","2020-03-31",0,1,"2020-09-21","Ley de Protección Civil, Prevención y Mitigación de Desastres (Chapter II), Constitution (Articles 29 and 30)",NA
+"El Salvador","Mar-Jun",0.437,0.55,0.5412682,0,3,2,0,2,1,3,0,1,1,1,1,2,1,0,1,2,1,NA,NA,NA,NA,NA,NA,3,NA,NA,2,NA,NA,NA,1,NA,NA,NA
+"El Salvador","Jul-Sep",0.437,0.45,0.4428558,0,3,2,0,0,1,3,0,1,1,1,0,2,1,0,1,2,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Eritrea","Mar-Sep",0.012,0.3,0.0142272,0,3,0,0,0,0,3,0,1,1,1,1,0,0,0,0,0,NA,5,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,0,1,"2020-08-31",NA,NA
+"Eritrea","Mar-Jun",0.012,0.3,0.0142272,0,3,0,0,0,0,3,0,1,1,1,1,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Eritrea","Jul-Sep",0.012,0.3,0.0142272,0,3,0,0,0,0,3,0,1,1,1,1,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Ethiopia","Mar-Sep",0.176,0.25,0.145024,0,0,0,0,2,0,3,0,0,0,0,0,0,1,0,0,0,1,1,"2020-04-08","2020-09-08","2020-09-08",1,1,3,NA,NA,2,"2020-04-08","2020-09-08",2,0,"2020-09-01","Constitution of Ethiopia (Section 93)","Elections are postponed from august until september, causing upstir."
+"Ethiopia","Mar-Jun",0.176,0.25,0.145024,0,0,0,0,2,0,3,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA,NA,3,NA,NA,2,NA,NA,NA,0,NA,NA,NA
+"Ethiopia","Jul-Sep",0.176,0.25,0.145024,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,3,NA,NA,2,NA,NA,NA,0,NA,NA,NA
+"Finland","Mar-Sep",0.813,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,"2020-03-16","2020-06-16","2020-06-16",1,1,0,NA,NA,0,NA,NA,0,0,"2020-09-03","Emergency Powers Act",NA
+"Finland","Mar-Jun",0.813,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Finland","Jul-Sep",0.813,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"France","Mar-Sep",0.783,0.1,0.0509733,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2,"2020-03-23","2020-07-10","2020-05-24",1,1,2,NA,NA,0,NA,NA,1,0,"2020-09-02","Public Health Code (updated on March 2020 to adjust to states of health emergency)",NA
+"France","Mar-Jun",0.783,0.1,0.0679644,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"France","Jul-Sep",0.783,0.05,0.0339822,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Gabon","Mar-Sep",0.2,0.25,0.144,0,0,0,0,0,2,3,0,0,0,1,1,2,0,0,2,0,1,1,"2020-04-10",NA,"2020-04-25",1,1,2,NA,NA,0,NA,NA,1,0,"2020-09-17","Constitution:
+article 47 (pertenant to the new law that gives the government similar powers as a state of emergency after May 11)
+article 25 on the state of emergency (from April 10 till May 11)
+",NA
+"Gabon","Mar-Jun",0.2,0.2,0.128,0,0,0,0,0,1,3,0,0,0,1,1,2,0,0,1,0,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Gabon","Jul-Sep",0.2,0.25,0.16,0,0,0,0,0,2,3,0,0,0,1,1,2,0,0,2,0,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Georgia","Mar-Sep",0.504,0.1,0.0499968,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1,"2020-03-21","2020-05-22","2020-05-22",1,1,1,NA,NA,0,NA,NA,1,1,"2020-09-04","Constitution (Article 71(3) and (4)),  Law on State of Emergency (Article 2(3))",NA
+"Georgia","Mar-Jun",0.504,0.1,0.0999936,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Georgia","Jul-Sep",0.504,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Germany","Mar-Sep",0.779,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,6,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,2,0,"2020-09-03",NA,NA
+"Germany","Mar-Jun",0.779,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Germany","Jul-Sep",0.779,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Ghana","Mar-Sep",0.608,0.3,0.1906688,0,0,1,0,2,0,3,0,0,0,1,1,1,1,1,0,1,1,4,"2020-03-23",NA,NA,0,0,3,NA,NA,0,NA,NA,2,1,"2020-09-02","The Imposition of Restrictions Act (Act 1012)","The new act is a problem for privacy, as it grants the government wide powers to intercept communication and the services of the network provider at the disposal of the state for mass dissemination of information."
+"Ghana","Mar-Jun",0.608,0.3,0.2860032,0,0,1,0,2,0,3,0,0,0,1,1,1,1,1,0,1,1,NA,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Ghana","Jul-Sep",0.608,0.1,0.0953344,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Greece","Mar-Sep",0.762,0.25,0.1632204,3,0,1,0,0,0,1,3,0,0,0,0,1,0,0,0,1,1,4,"2020-03-23",NA,"2020-04-06",1,1,1,NA,NA,0,NA,NA,1,0,"2020-09-08","Constitution, art 44, ''Act of Legislative order'' (1)
+
+
+1. Under extraordinary circumstances of an urgent and unforeseeable need, the President of the Republic may, upon the proposal of the Cabinet, issue acts of legislative content. Such acts shall be submitted to Parliament for ratification, as specified in the provisions of article 72 paragraph 1, within forty days of their issuance or within forty days from the convocation of a parliamentary session. Should such acts not be submitted to Parliament within the above time-limits or if they should not be ratified by Parliament within three months of their submission, they will henceforth cease to be in force.",NA
+"Greece","Mar-Jun",0.762,0.25,0.181356,3,0,1,0,0,0,1,3,0,0,0,0,1,0,0,0,1,1,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Greece","Jul-Sep",0.762,0.2,0.1450848,3,0,0,0,0,0,1,3,0,0,0,0,1,0,0,0,0,1,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Guatemala","Mar-Sep",0.396,0.25,0.2152656,0,0,1,0,0,1,3,0,0,0,0,0,2,1,1,1,1,1,3,"2020-03-06",NA,"2020-10-05",1,1,2,NA,NA,0,NA,NA,0,1,"2020-09-23","Constitution Articles 138, 139 and 183f and Decree nº 7 (Ley de Orden Publico)",NA
+"Guatemala","Mar-Jun",0.396,0.25,0.239184,0,0,1,0,0,1,3,0,0,0,0,0,2,1,1,1,1,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Guatemala","Jul-Sep",0.396,0.2,0.1913472,0,0,0,0,0,1,3,0,0,0,0,0,2,1,1,1,0,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Guinea","Mar-Sep",0.166,0.1,0.0553776,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,"2020-03-27",NA,"2020-04-27",1,1,2,NA,NA,0,NA,NA,1,0,"2020-09-11","Constitution (2010), article 90;
+Loi organique No. L/1991/016 du 1991 relative à l'état d'urgence et a l'état de siège",NA
+"Guinea","Mar-Jun",0.166,0.1,0.0553776,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Guinea","Jul-Sep",0.166,0.1,0.0553776,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Haiti","Mar-Sep",0.239,0.3,0.2182548,0,0,0,0,3,0,3,0,0,1,1,0,1,1,1,0,0,1,2,"2020-03-19","2020-07-20","2020-04-19",1,0,5,NA,NA,0,NA,NA,0,0,"2020-09-01","'ARRETE DU 19 MARS 2020 DECLARANT L'ETAT D'URGENCE SANITAIRE SUR TOUTE L'ETENDUE DU TERRITOIRE''",NA
+"Haiti","Mar-Jun",0.239,0.3,0.2182548,0,0,0,0,3,0,3,0,0,1,1,0,1,1,1,0,0,1,NA,NA,NA,NA,NA,NA,5,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Haiti","Jul-Sep",0.239,0.3,0.2182548,0,0,0,0,3,0,3,0,0,1,1,0,1,1,1,0,0,1,NA,NA,NA,NA,NA,NA,5,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Honduras","Mar-Sep",0.195,0.25,0.156975,0,0,2,0,0,0,3,0,0,1,1,1,1,0,0,0,2,1,2,"2020-03-16","2020-09-06","2020-09-06",1,1,2,NA,NA,2,"2020-03-16","2020-03-21",2,1,"2020-09-17","Constitution Article 187","The president tested positive for covid-19"
+"Honduras","Mar-Jun",0.195,0.25,0.156975,0,0,2,0,0,0,3,0,0,1,1,1,1,0,0,0,2,1,NA,NA,NA,NA,NA,NA,2,NA,NA,2,NA,NA,NA,1,NA,NA,NA
+"Honduras","Jul-Sep",0.195,0.25,0.156975,0,0,2,0,0,0,3,0,0,1,1,0,0,0,0,0,2,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Hong Kong","Mar-Sep",0.255,0.15,0.113985,0,0,0,0,0,0,3,0,0,1,1,0,0,0,0,0,0,1,4,"2020-03-29",NA,"2020-09-24",0,0,0,NA,NA,0,NA,NA,0,0,"2020-09-18","599G Prevention and Control of Disease (Prohibition on Group Gathering) Regulation",NA
+"Hong Kong","Mar-Jun",0.255,0.15,0.113985,0,0,0,0,0,0,3,0,0,1,1,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Hong Kong","Jul-Sep",0.255,0.15,0.113985,0,0,0,0,0,0,3,0,0,1,1,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Hungary","Mar-Sep",0.402,0.3,0.1923168,0,0,0,1,2,0,3,0,0,0,0,0,2,1,0,0,0,1,1,"2020-03-11","2020-06-17",NA,1,1,3,NA,NA,2,"2020-03-30","2020-06-17",0,1,"2020-09-04","Fundamental Law of Hungary (Article 53)","postponed elections"
+"Hungary","Mar-Jun",0.402,0.3,0.2884752,0,0,0,1,2,0,3,0,0,0,0,0,2,1,0,0,0,0,NA,NA,NA,NA,NA,NA,3,NA,NA,2,NA,NA,NA,1,NA,NA,NA
+"Hungary","Jul-Sep",0.402,0.1,0.0961584,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"India","Mar-Sep",0.364,0.6,0.5556096,1,3,2,0,3,0,3,1,1,1,1,1,2,1,1,0,2,1,3,"2020-03-24",NA,"2020-04-14",1,1,4,"2020-03-23","2020-09-14",1,"2020-03-24",NA,2,0,"2020-06-24","National Disaster Management Act 2010","1"
+"India","Mar-Jun",0.364,0.6,0.5556096,1,3,2,0,3,0,3,1,1,1,1,1,2,1,1,0,2,1,NA,NA,NA,NA,NA,NA,4,NA,NA,1,NA,NA,NA,0,NA,NA,NA
+"India","Jul-Sep",0.364,0.6,0.5556096,1,3,2,0,3,0,3,1,1,1,1,1,2,0,1,0,2,1,NA,NA,NA,NA,NA,NA,4,NA,NA,1,NA,NA,NA,0,NA,NA,NA
+"Indonesia","Mar-Sep",0.494,0.25,0.1999712,0,0,0,1,0,1,3,0,0,1,1,1,2,0,0,1,0,1,2,"2020-03-31","2020-05-29",NA,0,0,2,NA,NA,0,NA,NA,1,1,"2020-06-17","Article 12: State of emergency
+
+
+
+
+
+Health Quarantine Law",NA
+"Indonesia","Mar-Jun",0.494,0.2,0.1999712,0,0,0,1,0,0,3,0,0,1,1,1,2,0,0,0,0,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Indonesia","Jul-Sep",0.494,0.2,0.1999712,0,0,0,0,0,1,3,0,0,1,1,1,2,0,0,1,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Iran","Mar-Sep",0.144,0.4,0.1355904,0,3,2,0,0,0,3,0,1,1,1,1,2,1,1,0,2,NA,5,NA,NA,NA,NA,NA,0,NA,NA,1,"2020-04-08",NA,0,0,"2020-09-03",NA,NA
+"Iran","Mar-Jun",0.144,0.4,0.1972224,0,3,2,0,0,0,3,0,1,1,1,1,2,1,1,0,2,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,1,NA,NA,NA,0,NA,NA,NA
+"Iran","Jul-Sep",0.144,0.15,0.0739584,0,0,0,0,0,0,3,0,0,1,1,1,2,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,1,NA,NA,NA,0,NA,NA,NA
+"Iraq","Mar-Sep",0.24,0.15,0.10944,0,0,0,0,0,0,3,0,0,1,1,0,1,1,1,0,0,NA,5,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,2,0,"2020-09-04",NA,NA
+"Iraq","Mar-Jun",0.24,0.15,0.10944,0,0,0,0,0,0,3,0,0,1,1,0,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Iraq","Jul-Sep",0.24,0.15,0.10944,0,0,0,0,0,0,3,0,0,1,1,0,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Ireland","Mar-Sep",0.799,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,"2020-03-20",NA,"2020-11-09",1,1,0,NA,NA,0,NA,NA,0,0,"2020-09-04","Health (Preservation and Protection and other Emergency Measures in the Public Interest) Act 2020",NA
+"Ireland","Mar-Jun",0.799,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Ireland","Jul-Sep",0.799,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Israel","Mar-Sep",0.574,0.05,0.0489048,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,"2020-03-19",NA,"2020-11-06",0,0,2,NA,NA,0,NA,NA,2,1,"2020-09-07","Article 39: State of Emergency",NA
+"Israel","Mar-Jun",0.574,0.05,0.0489048,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Israel","Jul-Sep",0.574,0.05,0.0489048,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Italy","Mar-Sep",0.772,0.1,0.0528048,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,"2020-01-31",NA,"2020-10-15",0,0,0,NA,NA,0,NA,NA,3,1,"2020-09-07","Legislative Decree No. 1 of 2 January 2018",NA
+"Italy","Mar-Jun",0.772,0.1,0.0704064,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Italy","Jul-Sep",0.772,0.05,0.0352032,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Ivory Coast","Mar-Sep",0.375,0.25,0.234375,0,0,0,2,0,0,3,0,0,1,1,0,0,0,0,0,0,0,1,"2020-03-23",NA,NA,0,0,2,NA,NA,0,NA,NA,1,0,"2020-09-16","Constitution, articles 73, 101, 105. 
+
+
+Law 59-231 of November 7, 1959 on the state of emergency.",NA
+"Ivory Coast","Mar-Jun",0.375,0.25,0.234375,0,0,0,2,0,0,3,0,0,1,1,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Ivory Coast","Jul-Sep",0.375,0.25,0.234375,0,0,0,2,0,0,3,0,0,1,1,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Jamaica","Mar-Sep",0.69,0.1,0.08556,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,"2020-03-13",NA,NA,0,0,2,NA,NA,0,NA,NA,1,0,"2020-09-02","The Disaster Risk Management Act, 2015",NA
+"Jamaica","Mar-Jun",0.69,0.1,0.08556,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Jamaica","Jul-Sep",0.69,0.1,0.08556,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Japan","Mar-Sep",0.736,0.05,0.0388608,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,"2020-04-07","2020-05-25","2020-05-07",1,1,0,NA,NA,0,NA,NA,1,0,"2020-06-24","New Influenza Special Measures Act",NA
+"Japan","Mar-Jun",0.736,0.05,0.0388608,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Japan","Jul-Sep",0.736,0.05,0.0388608,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Jordan","Mar-Sep",0.254,0.3,0.2084324,0,0,1,0,2,0,3,0,0,1,1,1,0,1,1,0,1,1,1,"2020-03-17",NA,NA,0,0,3,NA,NA,1,"2020-04-15",NA,1,1,"2020-09-08","Defence Law (based on Article 124 in the Constitution)",NA
+"Jordan","Mar-Jun",0.254,0.25,0.189484,0,0,0,0,2,0,3,0,0,1,1,1,0,1,1,0,0,1,NA,NA,NA,NA,NA,NA,3,NA,NA,1,NA,NA,NA,1,NA,NA,NA
+"Jordan","Jul-Sep",0.254,0.3,0.2273808,0,0,1,0,2,0,3,0,0,1,1,1,0,1,1,0,1,1,NA,NA,NA,NA,NA,NA,3,NA,NA,1,NA,NA,NA,1,NA,NA,NA
+"Kazakhstan","Mar-Sep",0.116,0.2,0.0717808,0,0,1,0,0,0,3,0,0,1,1,0,1,0,1,0,1,1,1,"2020-03-16","2020-05-11","2020-05-11",0,0,2,NA,NA,0,NA,NA,1,1,"2020-09-07","Constitution (Article 44, point 16), ZAKON RESPUBLIKI KAZAKHSTAN O chrezvychaynom polozhenii  (Articles 4,5,6)","1) draft law on restricting freedom of assembly 2) detention of an activist"
+"Kazakhstan","Mar-Jun",0.116,0.2,0.0820352,0,0,1,0,0,0,3,0,0,1,1,0,1,0,1,0,1,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Kazakhstan","Jul-Sep",0.116,0.15,0.0615264,0,0,0,0,0,0,3,0,0,1,1,0,1,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Kenya","Mar-Sep",0.338,0.35,0.2908828,0,0,3,0,0,1,3,0,0,0,0,0,1,1,1,1,3,1,2,"2020-03-27",NA,"2020-04-27",1,0,2,NA,NA,1,"2020-03-13","2020-04-13",2,0,"2020-09-21","The Public Health Act [Rev. 2012] (Sections 35 and 36) - with provisions to deal with a pandemic (1) 
+
+
+The Public Order Act (2003) [Rev. 2012] (3)",NA
+"Kenya","Mar-Jun",0.338,0.35,0.3132584,0,0,3,0,0,1,3,0,0,0,0,0,1,1,1,1,3,1,NA,NA,NA,NA,NA,NA,2,NA,NA,1,NA,NA,NA,0,NA,NA,NA
+"Kenya","Jul-Sep",0.338,0.3,0.2685072,0,0,3,0,0,0,3,0,0,0,0,0,1,1,1,0,3,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Kuwait","Mar-Sep",0.295,0.2,0.16638,1,0,1,0,2,0,0,1,0,0,0,0,0,0,0,0,1,NA,5,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,0,1,"2020-09-08",NA,NA
+"Kuwait","Mar-Jun",0.295,0.2,0.16638,1,0,1,0,2,0,0,1,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Kuwait","Jul-Sep",0.295,0.2,0.16638,1,0,1,0,2,0,0,1,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Kyrgyzstan","Mar-Sep",0.315,0.3,0.2373525,0,0,1,2,0,0,3,0,0,1,1,1,2,0,0,0,1,0,4,"2020-03-22",NA,NA,0,0,0,NA,NA,0,NA,NA,2,1,"2020-09-08","ZAKON KYRGYZSKOY RESPUBLIKI O Grazhdanskoy zashchite",NA
+"Kyrgyzstan","Mar-Jun",0.315,0.3,0.25893,0,0,1,2,0,0,3,0,0,1,1,1,2,0,0,0,1,0,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Kyrgyzstan","Jul-Sep",0.315,0.25,0.215775,0,0,0,2,0,0,3,0,0,1,1,0,1,0,0,0,0,0,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Laos","Mar-Sep",0.095,0.15,0.051585,0,0,0,0,0,0,3,0,0,1,1,1,2,0,0,0,0,1,4,"2020-03-30",NA,NA,0,0,0,NA,NA,3,"2020-03-30",NA,0,1,"2020-09-11","The Prime Minister's Order on reinforcement measures on cantainment, prevention and full response to the COVID-19 pandemic",NA
+"Laos","Mar-Jun",0.095,0.15,0.051585,0,0,0,0,0,0,3,0,0,1,1,1,2,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,3,NA,NA,NA,1,NA,NA,NA
+"Laos","Jul-Sep",0.095,0.15,0.051585,0,0,0,0,0,0,3,0,0,1,1,1,2,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,3,NA,NA,NA,1,NA,NA,NA
+"Lebanon","Mar-Sep",0.29,0.1,0.04118,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,"2020-03-16",NA,"2020-12-31",0,0,2,NA,NA,0,NA,NA,0,1,"2020-09-09","Article 2 of 1983 National Defense Law",NA
+"Lebanon","Mar-Jun",0.29,0.1,0.08236,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Lebanon","Jul-Sep",0.29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Lesotho","Mar-Sep",0.465,0.15,0.149265,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,"2020-03-18",NA,"2020-05-05",1,1,3,NA,NA,1,"2020-03-18",NA,0,1,"2020-09-10","Constitution (1993), section 23 (1);
+
+
+Public Health Order 1970 (3)
+
+
+Emergency Powers Act of 1988;
+
+
+Disaster Management Act 2 of 1997",NA
+"Lesotho","Mar-Jun",0.465,0.15,0.149265,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,3,NA,NA,1,NA,NA,NA,1,NA,NA,NA
+"Lesotho","Jul-Sep",0.465,0.15,0.149265,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,3,NA,NA,1,NA,NA,NA,1,NA,NA,NA
+"Liberia","Mar-Sep",0.426,0.25,0.1956192,0,0,1,0,0,1,3,0,0,0,1,1,2,1,1,1,1,1,1,"2020-04-09","2020-07-21","2020-07-21",1,1,2,NA,NA,1,"2020-04-09","2020-07-21",1,1,"2020-09-03","Constitution of Liberia (Section 9)",NA
+"Liberia","Mar-Jun",0.426,0.25,0.244524,0,0,1,0,0,1,3,0,0,0,1,1,2,1,1,1,1,1,NA,NA,NA,NA,NA,NA,2,NA,NA,1,NA,NA,NA,1,NA,NA,NA
+"Liberia","Jul-Sep",0.426,0.15,0.1467144,0,0,0,0,0,0,3,0,0,0,0,1,2,0,0,0,0,1,NA,NA,NA,NA,NA,NA,2,NA,NA,1,NA,NA,NA,1,NA,NA,NA
+"Lithuania","Mar-Sep",0.732,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,"2020-03-16","2020-06-16","2020-06-16",0,0,0,NA,NA,0,NA,NA,0,1,"2020-09-09","""ŽMONIŲ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKOS IR KONTROLĖS ĮSTATYMASi"" ""CIVILINĖS SAUGOS ĮSTATYMAS""",NA
+"Lithuania","Mar-Jun",0.732,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Lithuania","Jul-Sep",0.732,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Madagascar","Mar-Sep",0.313,0.3,0.2580372,0,0,1,0,0,2,3,0,0,1,1,1,2,0,1,2,1,1,2,"2020-03-21",NA,"2020-04-05",0,0,2,NA,NA,3,"2020-03-21",NA,2,1,"2020-09-14","Constitution, article 61; 
+Law no 91-011 of July 18, 1991 relating to emergency situations;
+Law no 2011-002 of July 15, 2011 on the Public Health Code;",NA
+"Madagascar","Mar-Jun",0.313,0.3,0.2580372,0,0,1,0,0,2,3,0,0,1,1,1,2,0,1,2,1,1,NA,NA,NA,NA,NA,NA,2,NA,NA,3,NA,NA,NA,1,NA,NA,NA
+"Madagascar","Jul-Sep",0.313,0.3,0.2580372,0,0,1,0,0,2,3,0,0,1,1,1,2,0,1,2,1,1,NA,NA,NA,NA,NA,NA,2,NA,NA,3,NA,NA,NA,1,NA,NA,NA
+"Malawi","Mar-Sep",0.424,0.1,0.0976896,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,3,"2020-03-20","2020-04-19","2020-04-19",0,0,3,NA,NA,0,NA,NA,0,0,"2020-09-04","State of Disaster: Disaster Preparedness and Relief Act",NA
+"Malawi","Mar-Jun",0.424,0.1,0.0976896,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Malawi","Jul-Sep",0.424,0.1,0.0976896,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Malaysia","Mar-Sep",0.328,0.4,0.3526656,3,0,0,0,2,0,3,3,0,1,1,0,0,1,1,0,0,1,4,"2020-03-18",NA,"2020-12-31",0,0,3,NA,NA,0,NA,NA,2,1,"2020-08-31","Movement Control Order",NA
+"Malaysia","Mar-Jun",0.328,0.4,0.3526656,3,0,0,0,2,0,3,3,0,1,1,0,0,1,1,0,0,1,NA,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Malaysia","Jul-Sep",0.328,0.4,0.3526656,3,0,0,0,2,0,3,3,0,1,1,0,0,1,1,0,0,1,NA,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Mali","Mar-Sep",0.309,0.35,0.2775747,0,0,0,2,0,2,3,0,0,0,1,0,0,0,0,2,0,0,1,"2020-03-26",NA,NA,1,0,2,NA,NA,0,NA,NA,0,0,"2020-09-22","Constitution, articles 49, 50, 72, 74;
+
+
+Law 2017 055 of November 6, 2017 on the state of emergency and state of siege (2)",NA
+"Mali","Mar-Jun",0.309,0.3,0.2562228,0,0,0,2,0,1,3,0,0,0,1,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Mali","Jul-Sep",0.309,0.35,0.2989266,0,0,0,2,0,2,3,0,0,0,1,0,0,0,0,2,0,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Mauritania","Mar-Sep",0.161,0.25,0.0945553,0,0,1,2,0,2,0,0,0,0,0,0,0,0,0,2,1,0,4,"2020-04-01","2020-07-10",NA,1,1,2,NA,NA,0,NA,NA,1,1,"2020-09-22","Constitution (1991), article 60",NA
+"Mauritania","Mar-Jun",0.161,0.2,0.1080632,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,1,1,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Mauritania","Jul-Sep",0.161,0.15,0.0810474,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,2,0,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Mexico","Mar-Sep",0.486,0.4,0.3497256,0,0,2,0,2,2,2,0,0,0,0,0,1,1,0,2,2,1,2,"2020-03-30","2020-05-30","2020-05-30",0,0,3,NA,NA,0,NA,NA,3,0,"2020-09-18","Reglamento Interior del Consejo de Salubridad General - Article 9","There are several reports of essencial workers, especially medical workers, being assalted by the population"
+"Mexico","Mar-Jun",0.486,0.4,0.3996864,0,0,2,0,2,2,2,0,0,0,0,0,1,1,0,2,2,1,NA,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Mexico","Jul-Sep",0.486,0.3,0.2997648,0,0,2,0,0,2,2,0,0,0,0,0,1,1,0,2,2,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Moldova","Mar-Sep",0.445,0.15,0.148185,0,0,0,0,0,0,3,0,0,0,1,0,1,1,0,0,0,1,1,"2020-03-17","2020-05-15","2020-05-15",1,1,2,NA,NA,2,"2020-03-24","2020-03-26",0,1,"2020-09-21","Constitution (Article 66 m), LEGE Nr. 212 din 24-06-2004 privind regimul stării de urgenţă, de asediu şi de război",NA
+"Moldova","Mar-Jun",0.445,0.15,0.148185,0,0,0,0,0,0,3,0,0,0,1,0,1,1,0,0,0,1,NA,NA,NA,NA,NA,NA,2,NA,NA,2,NA,NA,NA,1,NA,NA,NA
+"Moldova","Jul-Sep",0.445,0.15,0.148185,0,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Mongolia","Mar-Sep",0.522,0.2,0.1996128,0,0,0,0,0,1,3,0,0,1,1,0,0,0,0,1,0,1,4,"2020-04-29",NA,"2020-12-31",1,1,0,NA,NA,1,"2020-04-29",NA,0,0,"2020-09-11","Law on Covid-19 Prevention",NA
+"Mongolia","Mar-Jun",0.522,0.2,0.1996128,0,0,0,0,0,1,3,0,0,1,1,0,0,0,0,1,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,1,NA,NA,NA,0,NA,NA,NA
+"Mongolia","Jul-Sep",0.522,0.2,0.1996128,0,0,0,0,0,1,3,0,0,1,1,0,0,0,0,1,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,1,NA,NA,NA,0,NA,NA,NA
+"Morocco","Mar-Sep",0.256,0.3,0.190464,0,0,1,0,0,2,3,0,0,1,1,1,0,0,0,2,1,1,2,"2020-03-20",NA,"2020-04-20",1,1,1,NA,NA,2,"2020-03-22",NA,2,1,"2020-09-03","Constitution (2011), Article 81",NA
+"Morocco","Mar-Jun",0.256,0.25,0.190464,0,0,1,0,0,1,3,0,0,1,1,1,0,0,0,1,1,1,NA,NA,NA,NA,NA,NA,1,NA,NA,2,NA,NA,NA,1,NA,NA,NA
+"Morocco","Jul-Sep",0.256,0.25,0.190464,0,0,0,0,0,2,3,0,0,1,1,1,0,0,0,2,0,1,NA,NA,NA,NA,NA,NA,1,NA,NA,2,NA,NA,NA,1,NA,NA,NA
+"Mozambique","Mar-Sep",0.269,0.25,0.196639,0,0,2,0,0,0,3,0,0,0,0,1,0,0,0,0,2,1,1,"2020-04-01","2020-09-07","2020-09-07",1,1,2,NA,NA,0,NA,NA,0,0,"2020-09-11","Constitution Articles 161 and 282","The government approved a law (Lei 2/2020, de 6 de Abril) that pardons crimes punishable by up to one year in prison to prevent the spread of the new coronavirus in prisons (there are exceptions for violent crimes)."
+"Mozambique","Mar-Jun",0.269,0.25,0.196639,0,0,2,0,0,0,3,0,0,0,0,1,0,0,0,0,2,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Mozambique","Jul-Sep",0.269,0.25,0.196639,0,0,2,0,0,0,3,0,0,0,0,1,0,0,0,0,2,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Namibia","Mar-Sep",0.568,0.25,0.1963008,0,0,0,0,2,0,3,0,0,0,1,0,1,0,0,0,0,1,1,"2020-03-17","2020-09-17","2020-09-17",1,1,3,NA,NA,1,"2020-04-17","2020-09-17",1,1,"2020-09-07","State of Emergency",NA
+"Namibia","Mar-Jun",0.568,0.25,0.245376,0,0,0,0,2,0,3,0,0,0,1,0,1,0,0,0,0,1,NA,NA,NA,NA,NA,NA,3,NA,NA,1,NA,NA,NA,1,NA,NA,NA
+"Namibia","Jul-Sep",0.568,0.15,0.1472256,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,0,1,NA,NA,NA,NA,NA,NA,3,NA,NA,1,NA,NA,NA,1,NA,NA,NA
+"Nepal","Mar-Sep",0.464,0.3,0.2984448,0,0,1,0,2,0,3,0,0,0,1,0,0,1,1,0,1,1,7,"2020-03-24",NA,NA,0,0,3,NA,NA,0,NA,NA,1,1,"2020-06-24","Infectious Disease Control Act 1964",NA
+"Nepal","Mar-Jun",0.464,0.3,0.2984448,0,0,1,0,2,0,3,0,0,0,1,0,0,1,1,0,1,1,NA,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Nepal","Jul-Sep",0.464,0.3,0.2984448,0,0,1,0,2,0,3,0,0,0,1,0,0,1,0,0,1,1,NA,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Netherlands","Mar-Sep",0.784,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,6,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,1,0,"2020-09-09",NA,NA
+"Netherlands","Mar-Jun",0.784,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Netherlands","Jul-Sep",0.784,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"New Zealand","Mar-Sep",0.815,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,"2020-03-25","2020-05-13","2020-05-13",0,0,0,NA,NA,0,NA,NA,1,1,"2020-09-09","Civil Defence Emergency Management Act 2002 (Section 66)",NA
+"New Zealand","Mar-Jun",0.815,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"New Zealand","Jul-Sep",0.815,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Nicaragua","Mar-Sep",0.058,0.3,0.0655632,0,0,0,0,0,3,3,0,0,1,1,0,2,1,0,3,0,NA,6,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,0,0,"2020-09-09",NA,NA
+"Nicaragua","Mar-Jun",0.058,0.3,0.0655632,0,0,0,0,0,3,3,0,0,1,1,0,2,1,0,3,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Nicaragua","Jul-Sep",0.058,0.3,0.0655632,0,0,0,0,0,3,3,0,0,1,1,0,2,1,0,3,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Niger","Mar-Sep",0.344,0.3,0.225664,0,0,1,0,0,2,3,0,0,1,1,0,1,1,1,2,1,1,1,"2020-03-27",NA,"2020-07-11",1,1,2,NA,NA,0,NA,NA,2,0,"2020-09-03","Constitution (2010), Articles 67, 68, 99, 105, 175;
+Law 98-024 of 1998, modified and updated by law 2015-07 of 2015 ( loi n° 98-024 du 11 août 1998, portant réglementation de l’état d’urgence, modifiée et complétée par la loi n° 2015-07 du 10 avril 2015) on the application of the provisions on emergency - extraordinary measures.",NA
+"Niger","Mar-Jun",0.344,0.25,0.225664,0,0,1,0,0,1,3,0,0,1,1,0,1,1,1,1,1,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Niger","Jul-Sep",0.344,0.25,0.225664,0,0,0,0,0,2,3,0,0,1,1,0,1,1,1,2,0,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Nigeria","Mar-Sep",0.339,0.3,0.2688948,0,0,3,0,0,0,3,0,0,3,1,1,2,1,1,0,3,1,4,"2020-03-30",NA,"2020-10-02",0,0,2,NA,NA,1,"2020-03-27",NA,2,1,"2020-09-21","Quarantine Act of 1926",NA
+"Nigeria","Mar-Jun",0.339,0.3,0.2688948,0,0,3,0,0,0,3,0,0,1,1,1,2,1,1,0,3,1,NA,NA,NA,NA,NA,NA,2,NA,NA,1,NA,NA,NA,1,NA,NA,NA
+"Nigeria","Jul-Sep",0.339,0.3,0.2688948,0,0,3,0,0,0,3,0,0,3,1,1,2,1,1,0,3,1,NA,NA,NA,NA,NA,NA,2,NA,NA,1,NA,NA,NA,1,NA,NA,NA
+"North Korea","Mar-Sep",0.014,0.15,0.0082824,0,0,0,0,0,0,3,0,0,1,1,0,2,0,0,0,0,NA,1,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,"2020-06-22",NA,NA
+"North Korea","Mar-Jun",0.014,0.15,0.0082824,0,0,0,0,0,0,3,0,0,1,1,0,2,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"North Korea","Jul-Sep",0.014,0.15,0.0082824,0,0,0,0,0,0,3,0,0,1,1,0,2,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"North Macedonia","Mar-Sep",0.432,0.2,0.1717632,1,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,1,"2020-03-18","2020-06-22","2020-06-22",1,0,4,"2020-02-16","2020-08-04",0,NA,NA,0,1,"2020-09-11","Constitution (Articles 125, 126)",NA
+"North Macedonia","Mar-Jun",0.432,0.2,0.1963008,1,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,4,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"North Macedonia","Jul-Sep",0.432,0.15,0.1472256,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,4,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Norway","Mar-Sep",0.825,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,"2020-03-27","2020-05-27","2020-05-27",1,1,0,NA,NA,0,NA,NA,0,0,"2020-09-09","The Corona Act (Koronaloven)",NA
+"Norway","Mar-Jun",0.825,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Norway","Jul-Sep",0.825,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Oman","Mar-Sep",0.143,0.35,0.1715714,0,0,0,2,2,0,3,0,0,1,1,1,0,0,0,0,0,0,4,"2020-03-10",NA,NA,0,0,3,NA,NA,3,"2020-03-23","2020-08-17",2,1,"2020-09-21","Sultan Haitham Bin Tarik Royal orders",NA
+"Oman","Mar-Jun",0.143,0.35,0.1715714,0,0,0,2,2,0,3,0,0,1,1,1,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,3,NA,NA,3,NA,NA,NA,1,NA,NA,NA
+"Oman","Jul-Sep",0.143,0.35,0.1715714,0,0,0,2,2,0,3,0,0,1,1,1,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,3,NA,NA,3,NA,NA,NA,1,NA,NA,NA
+"Pakistan","Mar-Sep",0.211,0.4,0.1997748,1,3,1,0,0,0,3,1,1,0,1,0,0,0,1,0,1,1,6,NA,"2020-05-09",NA,NA,NA,0,"2020-03-13","2020-04-20",0,NA,NA,2,1,"2020-06-16","National Disaster Management Act 2010",NA
+"Pakistan","Mar-Jun",0.211,0.4,0.2663664,1,3,1,0,0,0,3,1,1,0,1,0,0,0,1,0,1,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Pakistan","Jul-Sep",0.211,0.2,0.1331832,0,0,1,0,0,0,3,0,0,0,1,0,0,0,1,0,1,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Panama","Mar-Sep",0.592,0.2,0.1690752,2,0,1,1,0,0,0,2,0,0,0,0,0,0,0,0,1,1,4,"2020-03-25","2020-06-01",NA,0,0,2,NA,NA,0,NA,NA,1,0,"2020-09-16","Código Sanitario (Ley 66 de 10 de noviembre de 1940)","Panama temporarily established an Alcohol Prohibition during the pandemic"
+"Panama","Mar-Jun",0.592,0.2,0.1932288,2,0,1,1,0,0,0,2,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Panama","Jul-Sep",0.592,0.15,0.1449216,2,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Papua New Guinea","Mar-Sep",0.373,0.15,0.1403226,0,0,0,0,0,0,3,0,0,1,1,0,1,1,0,0,0,NA,1,"2020-03-24",NA,"2020-06-16",0,0,2,NA,NA,2,"2020-06-16",NA,2,1,"2020-09-01","Part X: Emergency Provisions",NA
+"Papua New Guinea","Mar-Jun",0.373,0.15,0.1403226,0,0,0,0,0,0,3,0,0,1,1,0,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,2,NA,NA,NA,1,NA,NA,NA
+"Papua New Guinea","Jul-Sep",0.373,0.15,0.1403226,0,0,0,0,0,0,3,0,0,1,1,0,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,2,NA,NA,NA,1,NA,NA,NA
+"Paraguay","Mar-Sep",0.427,0.15,0.1468026,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,"2020-03-16",NA,NA,0,0,2,NA,NA,0,NA,NA,2,1,"2020-09-10","Constitution articles 68 and 238 and Law Nº 836 (Código Sanitario) Article 13","Municipal elections postponed to 2020-11-29"
+"Paraguay","Mar-Jun",0.427,0.15,0.1468026,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Paraguay","Jul-Sep",0.427,0.15,0.1468026,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Peru","Mar-Sep",0.674,0.15,0.0878896,2,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,1,1,"2020-03-16",NA,"2020-09-30",0,0,2,NA,NA,0,NA,NA,2,1,"2020-09-10","Constitution Article 137",NA
+"Peru","Mar-Jun",0.674,0.15,0.1318344,2,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Peru","Jul-Sep",0.674,0.05,0.0439448,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Philippines","Mar-Sep",0.286,0.4,0.3267264,0,3,2,0,0,0,3,0,1,1,1,1,2,0,0,0,2,1,1,"2020-03-23",NA,"2020-09-23",1,1,2,"2020-03-09","2020-05-04",1,"2020-03-25","2020-09-23",0,1,"2020-06-23","Bayanihan to Heal as One Act",NA
+"Philippines","Mar-Jun",0.286,0.4,0.3267264,0,3,2,0,0,0,3,0,1,1,1,1,2,0,0,0,2,1,NA,NA,NA,NA,NA,NA,2,NA,NA,1,NA,NA,NA,1,NA,NA,NA
+"Philippines","Jul-Sep",0.286,0.4,0.3267264,0,3,2,0,0,0,3,0,1,1,1,1,2,0,0,0,2,1,NA,NA,NA,NA,NA,NA,0,NA,NA,1,NA,NA,NA,0,NA,NA,NA
+"Poland","Mar-Sep",0.5,0.25,0.175,0,0,0,2,0,0,3,0,0,0,0,1,1,0,1,0,0,0,4,"2020-03-20",NA,NA,0,0,0,NA,NA,0,NA,NA,1,1,"2020-09-10","Ustawa z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi","Organization of presidential elections"
+"Poland","Mar-Jun",0.5,0.25,0.25,0,0,0,2,0,0,3,0,0,0,0,1,1,0,1,0,0,0,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Poland","Jul-Sep",0.5,0.1,0.1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Portugal","Mar-Sep",0.817,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,"2020-03-19","2020-05-02","2020-05-02",1,1,1,NA,NA,0,NA,NA,1,0,"2020-09-14","Constitution articles 19, 134 and 138, Law n.º 44/86, Organic Law n.º 1/2011, Organic Law n.º 1/2012",NA
+"Portugal","Mar-Jun",0.817,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Portugal","Jul-Sep",0.817,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Qatar","Mar-Sep",0.086,0.35,0.1100456,3,0,1,0,0,0,3,3,0,1,1,0,0,0,0,0,1,NA,5,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,1,0,"2020-09-18",NA,NA
+"Qatar","Mar-Jun",0.086,0.35,0.1100456,3,0,1,0,0,0,3,3,0,1,1,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Qatar","Jul-Sep",0.086,0.35,0.1100456,3,0,1,0,0,0,3,3,0,1,1,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Republic of the Congo","Mar-Sep",0.099,0.2,0.0624393,0,0,0,0,0,1,3,0,0,1,1,0,1,0,0,1,0,1,1,"2020-03-31",NA,"2020-04-19",1,1,2,NA,NA,0,NA,NA,1,0,"2020-09-04","Constitution (2015), articles 93, 157.",NA
+"Republic of the Congo","Mar-Jun",0.099,0.2,0.0713592,0,0,0,0,0,1,3,0,0,1,1,0,1,0,0,1,0,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Republic of the Congo","Jul-Sep",0.099,0.15,0.0535194,0,0,0,0,0,0,3,0,0,1,1,0,1,0,0,0,0,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Romania","Mar-Sep",0.434,0.1,0.0491288,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,"2020-03-16","2020-05-14","2020-05-14",1,1,2,NA,NA,1,"2020-03-16","2020-05-14",0,1,"2020-09-10","Constitution (Article 93, paragraph 1, Article 100), ORDONANȚA DE URGENȚĂ nr. 1 din 21 ianuarie 1999",NA
+"Romania","Mar-Jun",0.434,0.1,0.0982576,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,NA,NA,NA,NA,NA,NA,2,NA,NA,1,NA,NA,NA,1,NA,NA,NA
+"Romania","Jul-Sep",0.434,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Russia","Mar-Sep",0.099,0.25,0.0802791,0,0,1,0,0,1,3,0,0,1,1,1,1,1,0,1,1,1,4,"2020-03-30","2020-05-11","2020-05-11",0,0,0,NA,NA,2,"2020-04-01",NA,2,0,"2020-09-11","Constitution (Article 80)","1) abuse of restrictions on freedom of assembly 2) new mass surveillance technology"
+"Russia","Mar-Jun",0.099,0.25,0.089199,0,0,1,0,0,1,3,0,0,1,1,1,1,1,0,1,1,1,NA,NA,NA,NA,NA,NA,0,NA,NA,2,NA,NA,NA,0,NA,NA,NA
+"Russia","Jul-Sep",0.099,0.2,0.0713592,0,0,0,0,0,1,3,0,0,1,1,0,1,0,0,1,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,2,NA,NA,NA,0,NA,NA,NA
+"Rwanda","Mar-Sep",0.154,0.2,0.1042272,0,0,1,0,0,0,3,0,0,0,1,1,2,0,1,0,1,NA,5,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,1,0,"2020-09-04",NA,NA
+"Rwanda","Mar-Jun",0.154,0.2,0.1042272,0,0,1,0,0,0,3,0,0,0,1,1,2,0,1,0,1,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Rwanda","Jul-Sep",0.154,0.2,0.1042272,0,0,1,0,0,0,3,0,0,0,1,1,2,0,1,0,1,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Saudi Arabia","Mar-Sep",0.04,0.6,0.09216,3,3,0,0,3,0,3,3,1,1,1,0,0,0,0,0,0,NA,5,NA,NA,NA,NA,NA,5,NA,NA,0,NA,NA,2,0,"2020-09-01",NA,NA
+"Saudi Arabia","Mar-Jun",0.04,0.6,0.09216,3,3,0,0,3,0,3,3,1,1,1,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Saudi Arabia","Jul-Sep",0.04,0.6,0.09216,3,3,0,0,3,0,3,3,1,1,1,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Senegal","Mar-Sep",0.561,0.3,0.2709069,0,0,1,0,0,2,3,0,0,0,1,1,2,0,1,2,1,1,1,"2020-03-23","2020-06-30","2020-04-23",1,1,2,NA,NA,0,NA,NA,0,0,"2020-09-12","Constitution (2001, rev.2016), Article 69 
+Law no1969/29 du 29 avril 1969, on the state of urgency and state of siege.",NA
+"Senegal","Mar-Jun",0.561,0.25,0.246279,0,0,1,0,0,1,3,0,0,0,1,1,2,0,1,1,1,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Senegal","Jul-Sep",0.561,0.3,0.2955348,0,0,1,0,0,2,3,0,0,0,0,0,0,0,1,2,1,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Serbia","Mar-Sep",0.254,0.5,0.3221228,2,0,0,0,3,2,3,2,0,0,1,0,2,1,1,2,0,1,1,"2020-03-15","2020-05-06","2020-05-06",1,1,4,"2020-03-04","2020-04-28",2,"2020-03-28","2020-04-03",1,1,"2020-09-14","Constitution (Article 200, paragraph 5)",NA
+"Serbia","Mar-Jun",0.254,0.5,0.378968,2,0,0,0,3,2,3,2,0,0,1,0,2,1,1,2,0,1,NA,NA,NA,NA,NA,NA,4,NA,NA,2,NA,NA,NA,1,NA,NA,NA
+"Serbia","Jul-Sep",0.254,0.35,0.2652776,2,0,0,0,0,2,3,2,0,0,0,0,0,0,1,2,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Sierra Leone","Mar-Sep",0.395,0.25,0.238975,0,0,0,0,2,0,3,0,0,0,1,0,0,0,1,0,0,1,1,"2020-03-24",NA,"2021-03-24",1,1,3,NA,NA,0,NA,NA,0,0,"2020-09-18","Constitution (Subsection 1 of Section 29 of the Constitution of Sierra Leone, 1991, Act No. 6 of 1991)",NA
+"Sierra Leone","Mar-Jun",0.395,0.25,0.238975,0,0,0,0,2,0,3,0,0,0,1,0,0,0,1,0,0,1,NA,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Sierra Leone","Jul-Sep",0.395,0.25,0.238975,0,0,0,0,2,0,3,0,0,0,1,0,0,0,1,0,0,1,NA,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Singapore","Mar-Sep",0.345,0.3,0.27117,3,0,0,0,0,0,3,3,0,1,1,0,0,0,0,0,0,1,4,"2020-03-27","2021-04-07","2021-03-27",1,1,0,NA,NA,0,NA,NA,0,0,"2020-06-10","COVID 19 (Temporary Measures) Act 2020 > COVID-19 CONTROL ORDERS",NA
+"Singapore","Mar-Jun",0.345,0.3,0.27117,3,0,0,0,0,0,3,3,0,1,1,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Singapore","Jul-Sep",0.345,0.3,0.27117,3,0,0,0,0,0,3,3,0,1,1,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Slovakia","Mar-Sep",0.717,0.15,0.0608733,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,2,"2020-03-16","2020-06-13","2020-06-13",0,0,0,NA,NA,0,NA,NA,0,1,"2020-09-14","227/2002 ÚSTAVNÝ ZÁKON z 11. apríla 2002 o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu a núdzového stavu",NA
+"Slovakia","Mar-Jun",0.717,0.15,0.1217466,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Slovakia","Jul-Sep",0.717,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Slovenia","Mar-Sep",0.714,0.1,0.0816816,0,0,0,0,0,0,2,0,0,0,0,0,1,1,0,0,0,1,4,"2020-03-12","2020-05-31","2020-05-31",0,0,0,NA,NA,0,NA,NA,0,0,"2020-09-17","Zakon o nalezljivih boleznih (ZNB)",NA
+"Slovenia","Mar-Jun",0.714,0.1,0.0816816,0,0,0,0,0,0,2,0,0,0,0,0,1,1,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Slovenia","Jul-Sep",0.714,0.1,0.0816816,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Somalia","Mar-Sep",0.102,0.35,0.1099152,0,0,2,2,0,0,3,0,0,1,1,0,2,1,1,0,2,0,5,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,0,0,"2020-09-07",NA,NA
+"Somalia","Mar-Jun",0.102,0.35,0.1282344,0,0,2,2,0,0,3,0,0,1,1,0,2,1,1,0,2,0,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Somalia","Jul-Sep",0.102,0.25,0.091596,0,0,0,2,0,0,3,0,0,1,1,0,2,1,0,0,0,0,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"South Africa","Mar-Sep",0.575,0.35,0.342125,0,0,3,0,0,1,3,0,0,0,1,0,0,1,1,1,3,1,3,"2020-03-15",NA,"2020-10-15",0,0,2,NA,NA,2,"2020-04-29","2020-10-15",2,1,"2020-09-18","National state of disaster","There are reports that migrants, refugees and asylum seeker were excluded from government food aid."
+"South Africa","Mar-Jun",0.575,0.35,0.342125,0,0,3,0,0,1,3,0,0,0,1,0,0,1,1,1,3,1,NA,NA,NA,NA,NA,NA,2,NA,NA,2,NA,NA,NA,1,NA,NA,NA
+"South Africa","Jul-Sep",0.575,0.35,0.342125,0,0,3,0,0,1,3,0,0,0,0,0,0,0,0,1,3,1,NA,NA,NA,NA,NA,NA,2,NA,NA,2,NA,NA,NA,1,NA,NA,NA
+"South Korea","Mar-Sep",0.78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,NA,NA,NA,0,0,0,NA,NA,0,NA,NA,0,0,"2020-06-23","The Infectioous Disease Control and Prevention Act.",NA
+"South Korea","Mar-Jun",0.78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"South Korea","Jul-Sep",0.78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"South Sudan","Mar-Sep",0.064,0.15,0.0359424,0,0,0,0,0,0,3,0,0,1,1,0,0,0,0,0,0,NA,5,"2020-03-16",NA,NA,NA,NA,0,NA,NA,0,NA,NA,0,0,"2020-09-09",NA,NA
+"South Sudan","Mar-Jun",0.064,0.15,0.0359424,0,0,0,0,0,0,3,0,0,1,1,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"South Sudan","Jul-Sep",0.064,0.15,0.0359424,0,0,0,0,0,0,3,0,0,1,1,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Spain","Mar-Sep",0.815,0.1,0.030155,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,"2020-03-14","2020-06-21","2020-06-21",1,1,2,NA,NA,0,NA,NA,2,1,"2020-09-14","Ley Orgánica 4/1981, de 1 de junio, de los estados de alarma, excepción y sitio.",NA
+"Spain","Mar-Jun",0.815,0.1,0.06031,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Spain","Jul-Sep",0.815,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Sri Lanka","Mar-Sep",0.469,0.6,0.5727897,2,3,1,0,2,1,3,2,1,0,1,0,0,0,0,1,1,1,5,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,0,1,"2020-06-17",NA,NA
+"Sri Lanka","Mar-Jun",0.469,0.6,0.5976936,2,3,1,0,2,1,3,2,1,0,1,0,0,0,0,1,1,1,NA,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Sri Lanka","Jul-Sep",0.469,0.55,0.5478858,2,3,0,0,2,1,3,2,1,0,1,0,0,0,0,1,0,1,NA,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Sudan","Mar-Sep",0.087,0.25,0.0635448,0,0,0,0,3,0,2,0,0,0,0,0,0,1,0,0,0,NA,2,"2020-03-16",NA,NA,1,0,5,NA,NA,0,NA,NA,1,1,"2020-09-09","State of Health Emergency","Sudanese artists were imprisoned for pro-democracy chants beeing accused to violate the Covid-19 curfew.
+
+A girl's school couldn't reopen because Sudan's Rapid Support Forces began using a school as a training base while it was closed due to the lockdown."
+"Sudan","Mar-Jun",0.087,0.25,0.079431,0,0,0,0,3,0,2,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Sudan","Jul-Sep",0.087,0.15,0.0476586,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Sweden","Mar-Sep",0.829,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,"2020-04-18","2020-06-30","2020-06-30",1,1,0,NA,NA,0,NA,NA,0,0,"2020-09-10","Temporary authorisations in the Communicable Diseases Act due to the virus causing covid-19",NA
+"Sweden","Mar-Jun",0.829,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Sweden","Jul-Sep",0.829,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Switzerland","Mar-Sep",0.827,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,"2020-03-13","2020-06-22","2020-09-13",0,0,2,NA,NA,0,NA,NA,2,0,"2020-09-10","Ordinance on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 2)",NA
+"Switzerland","Mar-Jun",0.827,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Switzerland","Jul-Sep",0.827,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Taiwan","Mar-Sep",0.697,0.05,0.0422382,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,2,"2020-02-25","2021-06-30","2021-06-30",1,1,0,NA,NA,1,"2020-02-25","2021-06-30",0,0,"2020-06-10","Special Act for Prevention, Relief and Revitalization Measures for Severe Pneumonia with Novel Pathogens",NA
+"Taiwan","Mar-Jun",0.697,0.05,0.0422382,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,1,NA,NA,NA,0,NA,NA,NA
+"Taiwan","Jul-Sep",0.697,0.05,0.0422382,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,1,NA,NA,NA,0,NA,NA,NA
+"Tajikistan","Mar-Sep",0.062,0.3,0.0697872,0,0,0,2,0,1,3,0,0,1,1,0,1,1,0,1,0,0,4,"2020-04-01",NA,NA,0,0,0,NA,NA,2,"2020-06-10",NA,0,0,"2020-09-15","Constitution (Article 69)",NA
+"Tajikistan","Mar-Jun",0.062,0.3,0.0697872,0,0,0,2,0,1,3,0,0,1,1,0,1,1,0,1,0,0,NA,NA,NA,NA,NA,NA,0,NA,NA,2,NA,NA,NA,0,NA,NA,NA
+"Tajikistan","Jul-Sep",0.062,0.3,0.0697872,0,0,0,2,0,1,3,0,0,1,1,0,1,0,0,1,0,0,NA,NA,NA,NA,NA,NA,0,NA,NA,2,NA,NA,NA,0,NA,NA,NA
+"Tanzania","Mar-Sep",0.342,0.3,0.2700432,0,0,0,0,0,3,3,0,0,1,1,0,2,0,0,3,0,NA,5,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,0,0,"2020-09-10",NA,"The government denied the prisoners access to legal counsel by banning all visits to the country's prisons. This is in violation with ICCPR Article 14.3(d)."
+"Tanzania","Mar-Jun",0.342,0.3,0.2700432,0,0,0,0,0,3,3,0,0,1,1,0,2,0,0,3,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Tanzania","Jul-Sep",0.342,0.3,0.2700432,0,0,0,0,0,3,3,0,0,1,1,0,2,0,0,3,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Thailand","Mar-Sep",0.152,0.25,0.128896,0,0,0,0,2,0,3,0,0,1,1,1,1,0,0,0,0,1,1,"2020-03-26",NA,"2020-09-30",1,1,3,NA,NA,2,"2020-03-26",NA,0,1,"2020-06-17","Emergency Decree on Public Administration in Emergency Situation B.E 2548 (2005)",NA
+"Thailand","Mar-Jun",0.152,0.25,0.128896,0,0,0,0,2,0,3,0,0,1,1,1,1,0,0,0,0,1,NA,NA,NA,NA,NA,NA,3,NA,NA,2,NA,NA,NA,1,NA,NA,NA
+"Thailand","Jul-Sep",0.152,0.25,0.128896,0,0,0,0,2,0,3,0,0,1,1,0,1,0,0,0,0,1,NA,NA,NA,NA,NA,NA,3,NA,NA,2,NA,NA,NA,0,NA,NA,NA
+"The Gambia","Mar-Sep",0.459,0.2,0.1241595,0,0,0,0,0,1,3,0,0,0,1,0,0,0,0,1,0,1,1,"2020-03-27","2020-09-17","2020-09-17",1,0,1,NA,NA,0,NA,NA,0,0,"2020-09-11","State of Public Emergency",NA
+"The Gambia","Mar-Jun",0.459,0.2,0.1986552,0,0,0,0,0,1,3,0,0,0,1,0,0,0,0,1,0,1,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"The Gambia","Jul-Sep",0.459,0.05,0.0496638,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Togo","Mar-Sep",0.179,0.2,0.1028713,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,2,2,1,1,"2020-04-02",NA,"2020-07-02",1,1,1,NA,NA,0,NA,NA,1,1,"2020-09-16","Constitution, articles 86 and 94. (1)
+
+
+Law No. 2020-005 of March 30, 2020 (2)",NA
+"Togo","Mar-Jun",0.179,0.15,0.0881754,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,2,1,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Togo","Jul-Sep",0.179,0.2,0.1175672,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,2,2,1,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Tunisia","Mar-Sep",0.655,0.3,0.18078,0,0,0,1,2,0,3,0,0,0,1,0,0,0,0,0,0,1,4,"2020-04-04","2020-06-04","2020-06-04",1,1,3,NA,NA,0,NA,NA,1,1,"2020-09-14","Constitution of Tunisia (Articles 70 and 80).","Activists and bloggers have been arrested and harrassed against the principle of freedom of expression, for criticizing the government response."
+"Tunisia","Mar-Jun",0.655,0.3,0.27117,0,0,0,1,2,0,3,0,0,0,1,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Tunisia","Jul-Sep",0.655,0.1,0.09039,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Turkey","Mar-Sep",0.101,0.4,0.1361985,0,0,1,0,2,2,3,0,0,1,1,0,2,1,1,2,1,NA,4,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,0,0,"2020-09-02",NA,NA
+"Turkey","Mar-Jun",0.101,0.35,0.1271186,0,0,1,0,2,1,3,0,0,1,1,0,2,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Turkey","Jul-Sep",0.101,0.4,0.1452784,0,0,1,0,2,2,3,0,0,1,1,0,2,1,1,2,1,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Turkmenistan","Mar-Sep",0.053,0.3,0.0602292,0,0,0,0,0,3,3,0,0,1,1,0,2,0,0,3,0,NA,5,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,0,0,"2020-09-16",NA,NA
+"Turkmenistan","Mar-Jun",0.053,0.3,0.0602292,0,0,0,0,0,3,3,0,0,1,1,0,2,0,0,3,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Turkmenistan","Jul-Sep",0.053,0.3,0.0602292,0,0,0,0,0,3,3,0,0,1,1,0,2,0,0,3,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Uganda","Mar-Sep",0.222,0.5,0.3108888,1,0,3,2,0,1,3,1,0,1,1,0,1,0,1,1,3,0,4,"2020-03-13",NA,NA,0,0,2,NA,NA,0,NA,NA,1,1,"2020-09-15","Public Health Act of Uganda (Cap 281, 2000)","Political rallies ahead of the 2021 presidential election are offically forbidden to limit the spreading. Candidates now need to use media to reach there audience, however, incumbent Museveni exerts great influence on the mass media. Opposition candidates and supporters do not have the resources to broadcast/listen private media. Furthermore, presidential speeches must be broadcast live by all radio and television stations by law."
+"Uganda","Mar-Jun",0.222,0.5,0.345432,1,0,3,2,0,1,3,1,0,1,1,0,1,0,1,1,3,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Uganda","Jul-Sep",0.222,0.4,0.2763456,0,0,3,2,0,0,3,0,0,0,1,0,0,0,0,0,3,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Ukraine","Mar-Sep",0.292,0.15,0.0826944,0,0,0,0,0,0,3,0,0,0,0,0,1,0,1,0,0,1,4,"2020-03-25","2020-04-24","2020-04-24",0,0,0,NA,NA,0,NA,NA,1,1,"2020-09-16","KODEKS TSYVILʹNOHO ZAKHYSTU UKRAYINY",NA
+"Ukraine","Mar-Jun",0.292,0.15,0.1240416,0,0,0,0,0,0,3,0,0,0,0,0,1,0,1,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Ukraine","Jul-Sep",0.292,0.05,0.0413472,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"United Arab Emirates","Mar-Sep",0.091,0.15,0.0496314,0,0,0,0,0,0,3,0,0,1,1,0,0,0,0,0,0,NA,5,NA,NA,NA,NA,NA,0,NA,NA,2,"2020-04-18",NA,1,0,"2020-09-15",NA,NA
+"United Arab Emirates","Mar-Jun",0.091,0.15,0.0496314,0,0,0,0,0,0,3,0,0,1,1,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,2,NA,NA,NA,0,NA,NA,NA
+"United Arab Emirates","Jul-Sep",0.091,0.15,0.0496314,0,0,0,0,0,0,3,0,0,1,1,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,2,NA,NA,NA,0,NA,NA,NA
+"United Kingdom","Mar-Sep",0.79,0.05,0.03318,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,4,"2020-03-26",NA,"2021-01-04",1,1,0,NA,NA,0,NA,NA,1,0,"2020-09-10","Public Health (Control of Disease) Act 1984",NA
+"United Kingdom","Mar-Jun",0.79,0.05,0.03318,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"United Kingdom","Jul-Sep",0.79,0.05,0.03318,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"United States of America","Mar-Sep",0.7,0.3,0.231,0,0,0,2,0,2,2,0,0,0,0,0,1,1,0,2,0,0,1,"2020-03-13",NA,NA,0,0,0,NA,NA,0,NA,NA,3,0,"2020-09-10","National Emergency Act",NA
+"United States of America","Mar-Jun",0.7,0.3,0.252,0,0,0,2,0,2,2,0,0,0,0,0,1,1,0,2,0,0,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"United States of America","Jul-Sep",0.7,0.25,0.21,0,0,0,2,0,2,1,0,0,0,0,0,1,0,0,2,0,0,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Uruguay","Mar-Sep",0.78,0.1,0.06864,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"2020-03-13",NA,NA,0,0,2,NA,NA,0,NA,NA,1,0,"2020-09-11","Ley nº 9202 - Ley Organica de Salud Publica","The government has temporarily reduced the salaries of politicians to use the money in policies against covid-19.
+
+
+Local elections were postponed from May 10 to September 27 due to the pandemic."
+"Uruguay","Mar-Jun",0.78,0.1,0.06864,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Uruguay","Jul-Sep",0.78,0.1,0.06864,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Uzbekistan","Mar-Sep",0.088,0.25,0.080256,0,0,0,2,0,0,3,0,0,1,1,0,0,0,0,0,0,0,4,"2020-03-24",NA,NA,0,0,0,NA,NA,2,"2020-03-26",NA,1,1,"2020-09-17","RASPORYAZHENIYE PREZIDENTA RESPUBLIKI UZBEKISTAN OB OBRAZOVANII SPETSIAL'NOY RESPUBLIKANSKOY KOMISSII PO PODGOTOVKE PROGRAMMY MER PO PREDUPREZHDENIYU ZAVOZA I RASPROSTRANENIYA NOVOGO TIPA KORONAVIRUSA V RESPUBLIKE UZBEKISTAN","privacy violations"
+"Uzbekistan","Mar-Jun",0.088,0.25,0.080256,0,0,0,2,0,0,3,0,0,1,1,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,0,NA,NA,2,NA,NA,NA,1,NA,NA,NA
+"Uzbekistan","Jul-Sep",0.088,0.25,0.080256,0,0,0,2,0,0,3,0,0,1,1,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,0,NA,NA,2,NA,NA,NA,1,NA,NA,NA
+"Venezuela","Mar-Sep",0.086,0.6,0.1886496,0,3,2,0,2,2,3,0,1,1,1,1,2,1,1,2,2,1,1,"2020-03-13","2020-09-08","2020-09-08",1,0,3,NA,NA,0,NA,NA,1,1,"2020-09-18","Article 338 of the Constitution","Maduro and Guaid√≥ reached an agreement to work together against the pandemic.
+
+
+Doctors were harassed and detained for speaking about the poor conditions of the health system and about suspected cases not officially released."
+"Venezuela","Mar-Jun",0.086,0.6,0.1886496,0,3,2,0,2,2,3,0,1,1,1,1,2,1,1,2,2,1,NA,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Venezuela","Jul-Sep",0.086,0.6,0.1886496,0,3,2,0,2,2,3,0,1,1,1,1,2,1,1,2,2,1,NA,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Vietnam","Mar-Sep",0.122,0.15,0.0642696,0,0,0,0,0,0,3,0,0,1,1,0,0,0,0,0,0,1,5,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,1,0,"2020-06-17",NA,NA
+"Vietnam","Mar-Jun",0.122,0.15,0.0642696,0,0,0,0,0,0,3,0,0,1,1,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Vietnam","Jul-Sep",0.122,0.15,0.0642696,0,0,0,0,0,0,3,0,0,1,1,0,0,0,0,0,0,1,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Zambia","Mar-Sep",0.274,0.3,0.2188164,0,0,1,2,3,0,0,0,0,0,0,0,0,0,0,0,1,0,4,"2020-03-13",NA,NA,0,0,4,"2020-03-18","2020-09-11",0,NA,NA,0,0,"2020-09-17","The Public Health Act (sections 28, 30, and 114)",NA
+"Zambia","Mar-Jun",0.274,0.3,0.2387088,0,0,1,2,3,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,NA,NA,NA,4,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Zambia","Jul-Sep",0.274,0.25,0.198924,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,4,NA,NA,0,NA,NA,NA,0,NA,NA,NA
+"Zimbabwe","Mar-Sep",0.175,0.3,0.17325,0,0,1,2,0,0,3,0,0,0,1,0,2,1,1,0,1,0,3,"2020-03-23",NA,NA,0,0,2,NA,NA,0,NA,NA,0,1,"2020-09-20","State of Disaster","Three opposition leaders were allegedly kidnapped and tortured by police for having attended a protest against the government's covid-19 response."
+"Zimbabwe","Mar-Jun",0.175,0.3,0.17325,0,0,1,2,0,0,3,0,0,0,1,0,2,1,1,0,1,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA
+"Zimbabwe","Jul-Sep",0.175,0.3,0.17325,0,0,1,2,0,0,3,0,0,0,1,0,2,1,1,0,1,0,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1,NA,NA,NA

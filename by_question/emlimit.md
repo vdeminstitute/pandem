@@ -1610,18 +1610,18 @@ https://www.somalia.gov.so/
  According to the National Disaster Management Act (2002) a state of national disaster lapses three months after being declared, unless terminated or extended on a monthly basis by the government. On 04 June, President Cyril Ramaphosa declared that the state of national disaster would be extended for one month until 16 July 2020. The latest extension happened on 14 September 2020 until 15 October 2020. 
 
 *Sources*:
- https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
-
-https://www.gov.za/sites/default/files/gcis_document/202003/43096gon313.pdf
-
-https://www.sabcnews.com/sabcnews/government-extends-national-state-of-disaster-extended-to-15-july/
-
-https://indianexpress.com/article/world/curfew-alcohol-ban-as-s-africa-extends-national-state-of-disaster-amid-rampant-covid-19-infections-6503099/
-
-https://mg.co.za/coronavirus-essentials/2020-08-15-south-africa-goes-to-covid-19-level-2-on-monday/
-
-https://www.gov.za/speeches/president-cyril-ramaphosa-south-africa‚Äôs-risk-adjusted-strategy-manage-spread-coronavirus
-
+ https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
+
+https://www.gov.za/sites/default/files/gcis_document/202003/43096gon313.pdf
+
+https://www.sabcnews.com/sabcnews/government-extends-national-state-of-disaster-extended-to-15-july/
+
+https://indianexpress.com/article/world/curfew-alcohol-ban-as-s-africa-extends-national-state-of-disaster-amid-rampant-covid-19-infections-6503099/
+
+https://mg.co.za/coronavirus-essentials/2020-08-15-south-africa-goes-to-covid-19-level-2-on-monday/
+
+https://www.gov.za/speeches/president-cyril-ramaphosa-south-africa’s-risk-adjusted-strategy-manage-spread-coronavirus
+
 https://www.gov.za/sites/default/files/gcis_document/202009/43713gon995.pdf
 
 

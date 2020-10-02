@@ -149,18 +149,18 @@ https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
  According to the National Disaster Management Act (2002) a state of national disaster lapses three months after being declared, unless terminated or extended on a monthly basis by the government. On 04 June, President Cyril Ramaphosa declared that the state of national disaster would be extended for one month until 16 July 2020. The latest extension happened on 14 September 2020 until 15 October 2020. 
 
 *Sources*:
- https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
-
-https://www.gov.za/sites/default/files/gcis_document/202003/43096gon313.pdf
-
-https://www.sabcnews.com/sabcnews/government-extends-national-state-of-disaster-extended-to-15-july/
-
-https://indianexpress.com/article/world/curfew-alcohol-ban-as-s-africa-extends-national-state-of-disaster-amid-rampant-covid-19-infections-6503099/
-
-https://mg.co.za/coronavirus-essentials/2020-08-15-south-africa-goes-to-covid-19-level-2-on-monday/
-
-https://www.gov.za/speeches/president-cyril-ramaphosa-south-africa‚Äôs-risk-adjusted-strategy-manage-spread-coronavirus
-
+ https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
+
+https://www.gov.za/sites/default/files/gcis_document/202003/43096gon313.pdf
+
+https://www.sabcnews.com/sabcnews/government-extends-national-state-of-disaster-extended-to-15-july/
+
+https://indianexpress.com/article/world/curfew-alcohol-ban-as-s-africa-extends-national-state-of-disaster-amid-rampant-covid-19-infections-6503099/
+
+https://mg.co.za/coronavirus-essentials/2020-08-15-south-africa-goes-to-covid-19-level-2-on-monday/
+
+https://www.gov.za/speeches/president-cyril-ramaphosa-south-africa’s-risk-adjusted-strategy-manage-spread-coronavirus
+
 https://www.gov.za/sites/default/files/gcis_document/202009/43713gon995.pdf
 
 
@@ -186,14 +186,14 @@ https://www.gov.za/sites/default/files/gcis_document/202009/43713gon995.pdf
  According to the National Disaster Management Act (2002) a state of national disaster lapses three months after being declared, unless terminated or extended on a monthly basis by the government. On 04 June, President Cyril Ramaphosa declared that the state of national disaster would be extended for one month until 16 July 2020. The latest extension happened on 14 September 2020 until 15 October 2020. 
 
 *Sources*:
- https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
-
-https://www.gov.za/sites/default/files/gcis_document/202003/43096gon313.pdf
-
-https://www.sabcnews.com/sabcnews/government-extends-national-state-of-disaster-extended-to-15-july/
-
-https://www.gov.za/speeches/president-cyril-ramaphosa-south-africa‚Äôs-risk-adjusted-strategy-manage-spread-coronavirus
-
+ https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
+
+https://www.gov.za/sites/default/files/gcis_document/202003/43096gon313.pdf
+
+https://www.sabcnews.com/sabcnews/government-extends-national-state-of-disaster-extended-to-15-july/
+
+https://www.gov.za/speeches/president-cyril-ramaphosa-south-africa’s-risk-adjusted-strategy-manage-spread-coronavirus
+
 https://www.gov.za/sites/default/files/gcis_document/202009/43713gon995.pdf
 
 
@@ -409,10 +409,10 @@ https://www.reuters.com/article/us-health-coronavirus-safrica-idUSKCN2511GN
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -455,10 +455,10 @@ https://www.gov.za/coronavirus/guidelines
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -584,10 +584,10 @@ https://www.gov.za/sites/default/files/gcis_document/202009/43713gon995.pdf
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -621,10 +621,10 @@ https://ipi.media/south-africa/
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -658,10 +658,10 @@ https://www.amnesty.org/en/latest/news/2020/05/southern-africa-covid19-a-pretext
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -696,10 +696,10 @@ https://cpj.org/africa/south-africa/
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -733,10 +733,10 @@ https://cpj.org/africa/south-africa/
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -768,10 +768,10 @@ https://cpj.org/africa/south-africa/
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -805,10 +805,10 @@ https://cpj.org/2020/05/south-african-police-assault-charge-journalist-pau/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 
@@ -848,10 +848,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-publi
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar/Jun*: 3
+Time period: *Mar-Jun*: 3
 
  
-Time period: *Jul/Sep*: 3
+Time period: *Jul-Sep*: 3
 
  
 
@@ -893,10 +893,10 @@ https://www.gbafrica.net/south-africans-condemn-police-brutality-during-coronavi
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 

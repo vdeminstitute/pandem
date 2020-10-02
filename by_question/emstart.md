@@ -1568,7 +1568,7 @@ https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
 *Answer*: 2020-03-16 
 
 *Comments*:
- Taken as the date when the president first announced response to Covid-19. Four days later, a High Level Task Force Committee was formed and this has provided advice to the president and vice president on the implementation of emergency measures.¬† 
+ Taken as the date when the president first announced response to Covid-19. Four days later, a High Level Task Force Committee was formed and this has provided advice to the president and vice president on the implementation of emergency measures. 
 
 *Sources*:
  https://twitter.com/SouthSudanGov/status/1239515788341587968

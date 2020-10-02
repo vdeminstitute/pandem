@@ -271,7 +271,7 @@ https://www.ethioembassy.org.uk/ethiopia-declares-state-of-emergency-to-curb-tra
 *Answer*: 3 
 
 *Comments*:
- The Ethiopian House of People's Representatives suspended all meetings until further notice on 16 March 2020. Since then, it has resumed sittings sporadically and with social distancing measures. Article 93:4: "When a state of emergency is declared, the Council of Ministers shall ... have all necessary power to protect the country's peace and sovereignty, and to maintain public security, law and order. ‚Ä¶ The Council of Ministers shall have the power to suspend such political and democratic rights contained in this Constitution to the extent necessary to avert the conditions that required the declaration of a state of emergency." 
+ The Ethiopian House of People's Representatives suspended all meetings until further notice on 16 March 2020. Since then, it has resumed sittings sporadically and with social distancing measures. Article 93:4: "When a state of emergency is declared, the Council of Ministers shall ... have all necessary power to protect the country's peace and sovereignty, and to maintain public security, law and order. The Council of Ministers shall have the power to suspend such political and democratic rights contained in this Constitution to the extent necessary to avert the conditions that required the declaration of a state of emergency." 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en
@@ -405,10 +405,10 @@ https://et.usembassy.gov/alert-regional-state-governments-and-dire-dawa-implemen
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -455,10 +455,10 @@ https://dig.watch/updates/internet-restored-oromo-region-ethiopia
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -586,10 +586,10 @@ https://www.washingtonpost.com/world/africa/ethiopians-mark-the-start-of-a-new-y
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -623,10 +623,10 @@ https://cpj.org/africa/ethiopia/
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -660,10 +660,10 @@ https://cpj.org/africa/ethiopia/
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -698,10 +698,10 @@ https://cpj.org/africa/ethiopia/
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -733,10 +733,10 @@ https://rsf.org/en/news/coronavirus-rsf-condemns-curbs-access-news-and-informati
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -770,10 +770,10 @@ https://ipi.media/journalists-detention-sparks-concerns-over-ethiopias-new-hate-
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -809,10 +809,10 @@ https://cpj.org/africa/ethiopia/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -846,10 +846,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -889,10 +889,10 @@ https://apnews.com/11f27003ca7eaaa74e087597eb73ded9
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 

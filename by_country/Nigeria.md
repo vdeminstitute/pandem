@@ -31,7 +31,7 @@ Time 2020-09-21
 *Answer*: 4 
 
 *Comments*:
- Nigeria has called upon emergency powers to deal with COVID-19 without, however, having declared a state of emergency. The extant Infectious Diseases Law ‚Äì the Quarantine Act 1926 ‚Äì gives the President sweeping powers towards preventing the introduction into and spread in Nigeria, and the transmission from Nigeria, of dangerous infectious diseases‚Äù and to make regulations for associated purposes. 
+ Nigeria has called upon emergency powers to deal with COVID-19 without, however, having declared a state of emergency. The extant Infectious Diseases Law - the Quarantine Act 1926 - gives the President sweeping powers towards preventing the introduction into and spread in Nigeria, and the transmission from Nigeria, of dangerous infectious diseases' and to make regulations for associated purposes. 
 
 *Sources*:
  https://verfassungsblog.de/nigerias-emergency-legal-response-to-covid-19-a-worthy-sacrifice-for-public-health/
@@ -416,10 +416,10 @@ https://pwcnigeria.typepad.com/files/fg-covid-19-regualtions-1.pdf
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -462,10 +462,10 @@ https://pwcnigeria.typepad.com/files/fg-covid-19-regualtions-1.pdf
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -592,10 +592,10 @@ https://www.facebook.com/ebonyionline/posts/ebonyi-state-infectious-diseases-eme
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 3
+Time period: *Jul-Sep*: 3
 
  
 
@@ -627,10 +627,10 @@ https://cpj.org/2020/04/nigerian-police-arrest-2-journalists-governor-canc/
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 
@@ -666,10 +666,10 @@ https://cpj.org/2020/08/nigerian-journalist-sikiru-obarayese-attacked-by-police-
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 
@@ -706,10 +706,10 @@ https://www.vanguardngr.com/2020/07/journalists-barred-as-panel-grills-magu-in-a
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar/Jun*: 2
+Time period: *Mar-Jun*: 2
 
  
-Time period: *Jul/Sep*: 2
+Time period: *Jul-Sep*: 2
 
  
 
@@ -743,10 +743,10 @@ https://www.vanguardngr.com/2020/07/journalists-barred-as-panel-grills-magu-in-a
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 
@@ -783,15 +783,15 @@ https://cpj.org/2020/08/nigerian-journalist-sikiru-obarayese-attacked-by-police-
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 
 *Comments*:
- Journalists covering covid-19 related issues have been physically attacked by police. On 03 August a journalist was attacked by police forces while covering officers‚Äô enforcing COVID-19 restrictions. 
+ Journalists covering covid-19 related issues have been physically attacked by police. On 03 August a journalist was attacked by police forces while covering officers' enforcing COVID-19 restrictions. 
 
 *Sources*:
  https://tribuneonlineng.com/lockdown-task-force-attacks-delta-nuj-chairman-another-journalist/
@@ -822,10 +822,10 @@ https://cpj.org/2020/08/nigerian-journalist-sikiru-obarayese-attacked-by-police-
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -869,10 +869,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar/Jun*: 3
+Time period: *Mar-Jun*: 3
 
  
-Time period: *Jul/Sep*: 3
+Time period: *Jul-Sep*: 3
 
  
 
@@ -914,10 +914,10 @@ https://www.aljazeera.com/features/2020/09/09/women-abused-by-police-enforcing-c
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 

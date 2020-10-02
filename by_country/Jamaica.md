@@ -267,7 +267,7 @@ https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%2
 *Answer*: 2 
 
 *Comments*:
- According to the Disaster and Preparedness and Emergency Management Act 2015, Section 26(2):  "The Prime Minister may by order ‚Ä¶ (b) direct the enforcement of any measures recommended by the Office or any other measure that the Prime Minister thinks expedient for - (i) removing or otherwise guarding against such condition or hazard and  the probable consequences thereof..." 
+ According to the Disaster and Preparedness and Emergency Management Act 2015, Section 26(2):  "The Prime Minister may by order - (b) direct the enforcement of any measures recommended by the Office or any other measure that the Prime Minister thinks expedient for - (i) removing or otherwise guarding against such condition or hazard and  the probable consequences thereof..." 
 
 *Sources*:
  https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
@@ -378,10 +378,10 @@ https://www.travelpulse.com/news/destinations/how-strict-covid-19-protocols-enab
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -432,10 +432,10 @@ https://www.bbc.com/news/topics/c50znx8v848t/jamaica
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -565,10 +565,10 @@ https://rsf.org/en/thematique/internet?countries%5B190%5D=190
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -604,10 +604,10 @@ https://freedomhouse.org/country/jamaica/freedom-world/2020
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -643,10 +643,10 @@ https://freedomhouse.org/country/jamaica/freedom-world/2020
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -683,10 +683,10 @@ https://freedomhouse.org/country/jamaica/freedom-world/2020
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -720,10 +720,10 @@ https://www.bbc.com/news/topics/c50znx8v848t/jamaica
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -757,10 +757,10 @@ https://www.bbc.com/news/topics/c50znx8v848t/jamaica
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -796,10 +796,10 @@ https://www.bbc.com/news/topics/c50znx8v848t/jamaica
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -833,10 +833,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -870,10 +870,10 @@ https://www.bbc.com/news/topics/c50znx8v848t/jamaica
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 

@@ -218,7 +218,7 @@ https://ulii.org/ug/legislation/statutory-instrument/2020/52
 *Answer*: 0 
 
 *Comments*:
- The Public Health Act does not require parliamentary approval of emergency measures related to disease or infection.¬† 
+ The Public Health Act does not require parliamentary approval of emergency measures related to disease or infection. 
 
 *Sources*:
  https://ulii.org/ug/legislation/consolidated-act/281
@@ -246,7 +246,7 @@ https://ulii.org/ug/legislation/statutory-instrument/2020/52
 *Answer*: 0 
 
 *Comments*:
- The Public Health Act does not require parliamentary approval of emergency measures related to disease or infection.¬† 
+ The Public Health Act does not require parliamentary approval of emergency measures related to disease or infection. 
 
 *Sources*:
  https://ulii.org/ug/legislation/consolidated-act/281
@@ -403,10 +403,10 @@ https://ug.usembassy.gov/health%e2%80%afalert-u-s-embassy-kampala-june-26-2020/
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -454,10 +454,10 @@ https://crd.org/2020/04/27/uganda-covid-19-used-as-pretext-to-harass-lgbti-commu
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -590,10 +590,10 @@ https://ipi.media/uganda/
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -623,10 +623,10 @@ Time period: *Jul/Sep*: 0
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 
@@ -662,10 +662,10 @@ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -700,10 +700,10 @@ https://www.bbc.com/news/topics/cmj34zmwme4t/uganda
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -737,10 +737,10 @@ https://www.dw.com/en/ugandan-journalists-assaulted-by-security-forces-amid-coro
  1. Yes.
 
  
-Time period: *Mar/Jun*: 0
+Time period: *Mar-Jun*: 0
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -776,10 +776,10 @@ https://www.bbc.com/news/topics/cmj34zmwme4t/uganda
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -815,10 +815,10 @@ https://www.dw.com/en/ugandan-journalists-assaulted-by-security-forces-amid-coro
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 0
+Time period: *Jul-Sep*: 0
 
  
 
@@ -859,10 +859,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar/Jun*: 3
+Time period: *Mar-Jun*: 3
 
  
-Time period: *Jul/Sep*: 3
+Time period: *Jul-Sep*: 3
 
  
 
@@ -908,10 +908,10 @@ https://www.independent.co.ug/ugandan-security-teams-have-killed-six-people-in-c
  1. Yes.
 
  
-Time period: *Mar/Jun*: 1
+Time period: *Mar-Jun*: 1
 
  
-Time period: *Jul/Sep*: 1
+Time period: *Jul-Sep*: 1
 
  
 

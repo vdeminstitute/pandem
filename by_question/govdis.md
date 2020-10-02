@@ -2,10 +2,10 @@
 
 
 # Afghanistan 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -23,10 +23,10 @@ https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
 
 
 # Albania 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -42,10 +42,10 @@ https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/
 
 
 # Algeria 
-*Time period: Mar/Jun*: 2
+*Time period: Mar-Jun*: 2
 
  
-*Time period: Jul/Sep*: 2
+*Time period: Jul-Sep*: 2
 
  
 
@@ -75,10 +75,10 @@ http://covid19.sante.gov.dz/fr/consignes-sanitaires-2/
 
 
 # Angola 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -93,10 +93,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Argentina 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -112,10 +112,10 @@ https://confiar.telam.com.ar/
 
 
 # Armenia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -130,10 +130,10 @@ https://rsf.org/en/armenia
 
 
 # Australia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -147,10 +147,10 @@ https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-
 
 
 # Austria 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -164,10 +164,10 @@ https://www.austria.info/en/service-and-facts/coronavirus-information#safety-mea
 
 
 # Azerbaijan 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -182,10 +182,10 @@ https://ipi.media/azerbaijan/
 
 
 # Bangladesh 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -198,10 +198,10 @@ https://ipi.media/azerbaijan/
 
 
 # Belarus 
-*Time period: Mar/Jun*: 2
+*Time period: Mar-Jun*: 2
 
  
-*Time period: Jul/Sep*: 2
+*Time period: Jul-Sep*: 2
 
  
 
@@ -222,10 +222,10 @@ https://www.belta.by/society/view/minzdrav-rekomenduet-sobljudat-pravila-sotsial
 
 
 # Belgium 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -240,10 +240,10 @@ https://www.info-coronavirus.be/en/faq/#faq
 
 
 # Benin 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 2
+*Time period: Jul-Sep*: 2
 
  
 
@@ -261,10 +261,10 @@ https://www.24haubenin.info/?Le-traitement-preventif-a-la-Chloroquine-deconseill
 
 
 # Bolivia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -277,10 +277,10 @@ https://www.24haubenin.info/?Le-traitement-preventif-a-la-Chloroquine-deconseill
 
 
 # Bosnia and Herzegovina 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -298,10 +298,10 @@ https://rsf.org/en/bosnia-herzegovina
 
 
 # Botswana 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -316,10 +316,10 @@ https://www.gov.bw/about-covid-19
 
 
 # Brazil 
-*Time period: Mar/Jun*: 2
+*Time period: Mar-Jun*: 2
 
  
-*Time period: Jul/Sep*: 2
+*Time period: Jul-Sep*: 2
 
  
 
@@ -348,10 +348,10 @@ https://politica.estadao.com.br/noticias/geral,cloroquina-e-hidroxicloroquina-ve
 
 
 # Bulgaria 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -366,10 +366,10 @@ https://rsf.org/en/bulgaria
 
 
 # Burkina Faso 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -392,10 +392,10 @@ https://www.france24.com/fr/20200401-coronavirus-l-afrique-subsaharienne-se-rue-
 
 
 # Burma/Myanmar 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -410,10 +410,10 @@ https://mohs.gov.mm/Main/content/publication/2019-ncov
 
 
 # Burundi 
-*Time period: Mar/Jun*: 2
+*Time period: Mar-Jun*: 2
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -447,10 +447,10 @@ https://www.brookings.edu/blog/africa-in-focus/2020/05/16/africa-in-the-news-les
 
 
 # Cambodia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -467,10 +467,10 @@ https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia
 
 
 # Cameroon 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 2
+*Time period: Jul-Sep*: 2
 
  
 
@@ -500,10 +500,10 @@ http://www.crtv.cm/2020/08/covid-19-cameroon-continues-use-of-hydroxichloroquine
 
 
 # Canada 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -517,10 +517,10 @@ https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-
 
 
 # Central African Republic 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 2
+*Time period: Jul-Sep*: 2
 
  
 
@@ -536,10 +536,10 @@ No evidence was found on whether the government changed its policy on the use of
 
 
 # Chad 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 2
+*Time period: Jul-Sep*: 2
 
  
 
@@ -567,10 +567,10 @@ http://www.lepaystchad.com/13469/
 
 
 # Chile 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -587,10 +587,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # China 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -608,10 +608,10 @@ https://www.hrw.org/world-report/2020/country-chapters/china-and-tibet
 
 
 # Colombia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -624,10 +624,10 @@ https://www.hrw.org/world-report/2020/country-chapters/china-and-tibet
 
 
 # Costa Rica 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -641,10 +641,10 @@ https://covid19.go.cr/
 
 
 # Croatia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -659,10 +659,10 @@ https://rsf.org/en/croatia
 
 
 # Cuba 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -677,10 +677,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Czech Republic 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -695,10 +695,10 @@ https://rsf.org/en/czech-republic
 
 
 # Democratic Republic of the Congo 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 2
+*Time period: Jul-Sep*: 2
 
  
 
@@ -729,10 +729,10 @@ https://www.aa.com.tr/fr/afrique/rdc-covid-19-mise-sur-le-march%C3%A9-de-l-hydro
 
 
 # Denmark 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -747,10 +747,10 @@ https://fra.europa.eu/sites/default/files/fra_uploads/denmark-report-covid-19-ap
 
 
 # Dominican Republic 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -764,10 +764,10 @@ https://coronavirusrd.gob.do/
 
 
 # Ecuador 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -781,10 +781,10 @@ https://www.coronavirusecuador.com/fake-news-coronavirus-ecuador/
 
 
 # Egypt 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -797,10 +797,10 @@ https://www.coronavirusecuador.com/fake-news-coronavirus-ecuador/
 
 
 # El Salvador 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -817,10 +817,10 @@ https://covid19.gob.sv/identifica-los-sintomas/
 
 
 # Eritrea 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -837,10 +837,10 @@ https://shabait.com/2020/05/09/we-all-need-to-protect-one-another-by-washing-our
 
 
 # Ethiopia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -855,10 +855,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
 
 
 # Finland 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -873,10 +873,10 @@ https://thl.fi/en/web/infectious-diseases/what-s-new/coronavirus-covid-19-latest
 
 
 # France 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -891,10 +891,10 @@ https://www.thelancet.com/action/showPdf?pii=S1470-2045%2820%2930204-7
 
 
 # Gabon 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 2
+*Time period: Jul-Sep*: 2
 
  
 
@@ -916,10 +916,10 @@ https://afrique.le360.ma/maroc-algerie-autres-pays/politique/2020/06/01/30726-co
 
 
 # Georgia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -934,10 +934,10 @@ https://rsf.org/en/georgia
 
 
 # Germany 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -951,10 +951,10 @@ https://www.deutschland.de/en/corona-virus-germany-overview
 
 
 # Ghana 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -971,10 +971,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
 
 
 # Greece 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -987,10 +987,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
 
 
 # Guatemala 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -1004,10 +1004,10 @@ https://cnnespanol.cnn.com/video/guatemala-manuel-sagastume-covid19-coronavirus-
 
 
 # Guinea 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1021,10 +1021,10 @@ https://www.lemonde.fr/afrique/article/2020/04/27/la-guinee-franchit-la-barre-de
 
 
 # Haiti 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1039,10 +1039,10 @@ https://twitter.com/PrimatureHT/status/1243514262913527809?s=20
 
 
 # Honduras 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1055,10 +1055,10 @@ https://twitter.com/PrimatureHT/status/1243514262913527809?s=20
 
 
 # Hong Kong 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1071,10 +1071,10 @@ https://twitter.com/PrimatureHT/status/1243514262913527809?s=20
 
 
 # Hungary 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1092,10 +1092,10 @@ https://fra.europa.eu/sites/default/files/fra_uploads/hu_report_on_coronavirus_p
 
 
 # India 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1108,10 +1108,10 @@ https://fra.europa.eu/sites/default/files/fra_uploads/hu_report_on_coronavirus_p
 
 
 # Indonesia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -1129,10 +1129,10 @@ https://www.reuters.com/article/us-health-coronavirus-indonesia-insight-idUSKCN2
 
 
 # Iran 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1145,10 +1145,10 @@ https://www.reuters.com/article/us-health-coronavirus-indonesia-insight-idUSKCN2
 
 
 # Iraq 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1162,10 +1162,10 @@ https://gds.gov.iq/novel-coronavirus-%E2%80%AAcovid-19-iraqs-ministry-of-health-
 
 
 # Ireland 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1178,10 +1178,10 @@ https://gds.gov.iq/novel-coronavirus-%E2%80%AAcovid-19-iraqs-ministry-of-health-
 
 
 # Israel 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1194,10 +1194,10 @@ https://gds.gov.iq/novel-coronavirus-%E2%80%AAcovid-19-iraqs-ministry-of-health-
 
 
 # Italy 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1210,10 +1210,10 @@ https://gds.gov.iq/novel-coronavirus-%E2%80%AAcovid-19-iraqs-ministry-of-health-
 
 
 # Ivory Coast 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1228,10 +1228,10 @@ http://info-covid19.gouv.ci/welcome/covid
 
 
 # Jamaica 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1246,10 +1246,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
 
 
 # Japan 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1262,10 +1262,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
 
 
 # Jordan 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1278,10 +1278,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
 
 
 # Kazakhstan 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1297,10 +1297,10 @@ https://rsf.org/en/kazakhstan
 
 
 # Kenya 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1324,10 +1324,10 @@ https://www.the-star.co.ke/news/2020-05-26-kenya-stuck-with-379000-tablets-of-co
 
 
 # Kuwait 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1342,10 +1342,10 @@ https://kw.usembassy.gov/covid-19-information/
 
 
 # Kyrgyzstan 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1361,10 +1361,10 @@ https://rsf.org/en/kyrgyzstan
 
 
 # Laos 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1379,10 +1379,10 @@ https://www.covid19.gov.la/index.php
 
 
 # Lebanon 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1396,10 +1396,10 @@ https://www.moph.gov.lb/en/Media/view/34077/novel-coronavirus-2019-
 
 
 # Lesotho 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1415,10 +1415,10 @@ https://www.gov.ls/national-command-centre/
 
 
 # Liberia 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1437,10 +1437,10 @@ https://frontpageafricaonline.com/front-slider/liberia-pres-weah-receives-contro
 
 
 # Lithuania 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1456,10 +1456,10 @@ https://kariuomene.kam.lt/lt/naujienos_1887/covid-19_situacijai_normalizuojantis
 
 
 # Madagascar 
-*Time period: Mar/Jun*: 2
+*Time period: Mar-Jun*: 2
 
  
-*Time period: Jul/Sep*: 2
+*Time period: Jul-Sep*: 2
 
  
 
@@ -1489,10 +1489,10 @@ http://www.sante.gov.mg/ministere-sante-publique/
 
 
 # Malawi 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1509,10 +1509,10 @@ https://www.facebook.com/malawigovernment
 
 
 # Malaysia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1528,10 +1528,10 @@ http://covid-19.moh.gov.my
 
 
 # Mali 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 2
+*Time period: Jul-Sep*: 2
 
  
 
@@ -1550,10 +1550,10 @@ https://www.afrik.com/coronavirus-chloroquine-azythromycine-didier-raoult-donne-
 
 
 # Mauritania 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 2
+*Time period: Jul-Sep*: 2
 
  
 
@@ -1571,10 +1571,10 @@ https://afrique.le360.ma/maroc-mauritanie/politique/2020/06/14/30862-video-mauri
 
 
 # Mexico 
-*Time period: Mar/Jun*: 2
+*Time period: Mar-Jun*: 2
 
  
-*Time period: Jul/Sep*: 2
+*Time period: Jul-Sep*: 2
 
  
 
@@ -1593,10 +1593,10 @@ https://www.hrw.org/es/news/2020/03/26/mexico-los-mexicanos-necesitan-informacio
 
 
 # Moldova 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1611,10 +1611,10 @@ https://rsf.org/en/moldova
 
 
 # Mongolia 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -1629,10 +1629,10 @@ Note also, that all these quotes are taken from using google translate on the Mo
 
 
 # Morocco 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 2
+*Time period: Jul-Sep*: 2
 
  
 
@@ -1654,10 +1654,10 @@ https://al-bab.com/blog/2020/05/covid-19-algeria-and-morocco-continue-using-chlo
 
 
 # Mozambique 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1670,10 +1670,10 @@ https://al-bab.com/blog/2020/05/covid-19-algeria-and-morocco-continue-using-chlo
 
 
 # Namibia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1690,10 +1690,10 @@ https://namibiacovid19.gov.na/faq
 
 
 # Nepal 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1712,10 +1712,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 
 # Netherlands 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1729,10 +1729,10 @@ https://www.government.nl/topics/coronavirus-covid-19
 
 
 # New Zealand 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1745,10 +1745,10 @@ https://www.government.nl/topics/coronavirus-covid-19
 
 
 # Nicaragua 
-*Time period: Mar/Jun*: 3
+*Time period: Mar-Jun*: 3
 
  
-*Time period: Jul/Sep*: 3
+*Time period: Jul-Sep*: 3
 
  
 
@@ -1765,10 +1765,10 @@ https://www.amnesty.org/download/Documents/AMR4325352020ENGLISH.PDF
 
 
 # Niger 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 2
+*Time period: Jul-Sep*: 2
 
  
 
@@ -1789,10 +1789,10 @@ https://afriquedecryptages.wordpress.com/2020/07/03/circulation-et-commercialisa
 
 
 # Nigeria 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1817,10 +1817,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
 
 
 # North Korea 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1840,10 +1840,10 @@ https://www.dailynk.com/english/north-korean-tests-positive-for-covid-19-china/
 
 
 # North Macedonia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1859,10 +1859,10 @@ https://rsf.org/en/north-macedonia
 
 
 # Norway 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1876,10 +1876,10 @@ https://helsenorge.no/coronavirus/infection-and-incubation-period
 
 
 # Oman 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1893,10 +1893,10 @@ https://covid19.moh.gov.om/#/faq
 
 
 # Pakistan 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1909,10 +1909,10 @@ https://covid19.moh.gov.om/#/faq
 
 
 # Panama 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1927,10 +1927,10 @@ https://panama.campusvirtualsp.org/instituciones-participantes
 
 
 # Papua New Guinea 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1944,10 +1944,10 @@ https://covid19.info.gov.pg/index.php/covid-19-awareness/
 
 
 # Paraguay 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1960,10 +1960,10 @@ https://covid19.info.gov.pg/index.php/covid-19-awareness/
 
 
 # Peru 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1978,10 +1978,10 @@ https://lta.reuters.com/articulo/salud-coronavirus-peru-prision-idLTAKCN21Q3B1
 
 
 # Philippines 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -1994,10 +1994,10 @@ https://lta.reuters.com/articulo/salud-coronavirus-peru-prision-idLTAKCN21Q3B1
 
 
 # Poland 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2013,10 +2013,10 @@ https://rsf.org/en/poland
 
 
 # Portugal 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2029,10 +2029,10 @@ https://rsf.org/en/poland
 
 
 # Qatar 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2047,10 +2047,10 @@ https://rsf.org/en/qatar
 
 
 # Republic of the Congo 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2071,10 +2071,10 @@ https://www.aa.com.tr/fr/afrique/-le-congo-brazzaville-recoit-un-lot-de-covid-or
 
 
 # Romania 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2089,10 +2089,10 @@ https://rsf.org/en/romania
 
 
 # Russia 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -2111,10 +2111,10 @@ https://cpj.org/2020/08/freelancer-vladimir-sevrinovsky-on-covering-covid-19-in-
 
 
 # Rwanda 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2129,10 +2129,10 @@ https://www.afro.who.int/news/covid-19-rwanda-countrys-response
 
 
 # Saudi Arabia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2146,10 +2146,10 @@ https://www.moh.gov.sa/en/Pages/default.aspx
 
 
 # Senegal 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 2
+*Time period: Jul-Sep*: 2
 
  
 
@@ -2171,10 +2171,10 @@ http://www.xinhuanet.com/english/2020-06/07/c_139119593.htm
 
 
 # Serbia 
-*Time period: Mar/Jun*: 2
+*Time period: Mar-Jun*: 2
 
  
-*Time period: Jul/Sep*: 2
+*Time period: Jul-Sep*: 2
 
  
 
@@ -2196,10 +2196,10 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B34
 
 
 # Sierra Leone 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2216,10 +2216,10 @@ https://ipi.media/sierra-leone/
 
 
 # Singapore 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2239,10 +2239,10 @@ https://www.hrw.org/asia/singapore
 
 
 # Slovakia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2259,10 +2259,10 @@ https://rsf.org/en/slovakia
 
 
 # Slovenia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2280,10 +2280,10 @@ https://cpj.org/europe/slovenia/
 
 
 # Somalia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2300,10 +2300,10 @@ https://moh.gov.so/en/
 
 
 # South Africa 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -2324,10 +2324,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-publi
 
 
 # South Korea 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2340,10 +2340,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-publi
 
 
 # South Sudan 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2360,10 +2360,10 @@ https://twitter.com/search?q=from%3ASouthSudanGov%20covid&src=typed_query&f=live
 
 
 # Spain 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2376,10 +2376,10 @@ https://twitter.com/search?q=from%3ASouthSudanGov%20covid&src=typed_query&f=live
 
 
 # Sri Lanka 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -2414,10 +2414,10 @@ https://www.who.int/publications/i/item/infection-prevention-and-control-for-the
 
 
 # Sudan 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2434,10 +2434,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
 
 
 # Sweden 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2450,10 +2450,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
 
 
 # Switzerland 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2468,10 +2468,10 @@ https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/
 
 
 # Taiwan 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2487,10 +2487,10 @@ https://www.cdc.gov.tw/En/Category/List/fl7pveR6ZcoetNProjyY-g
 
 
 # Tajikistan 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -2504,10 +2504,10 @@ http://moh.tj/covid-19/
 
 
 # Tanzania 
-*Time period: Mar/Jun*: 3
+*Time period: Mar-Jun*: 3
 
  
-*Time period: Jul/Sep*: 3
+*Time period: Jul-Sep*: 3
 
  
 
@@ -2540,10 +2540,10 @@ https://www.theelephant.info/features/2020/05/29/a-problem-of-denial-why-tanzani
 
 
 # Thailand 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2556,10 +2556,10 @@ https://www.theelephant.info/features/2020/05/29/a-problem-of-denial-why-tanzani
 
 
 # The Gambia 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 1
+*Time period: Jul-Sep*: 1
 
  
 
@@ -2580,10 +2580,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
 
 
 # Togo 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 2
+*Time period: Jul-Sep*: 2
 
  
 
@@ -2608,10 +2608,10 @@ https://www.republicoftogo.com/Toutes-les-rubriques/Sante/Le-melange-chloroquine
 
 
 # Tunisia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2628,10 +2628,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
 
 
 # Turkey 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 2
+*Time period: Jul-Sep*: 2
 
  
 
@@ -2649,10 +2649,10 @@ https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/early-hydroxychloroquine
 
 
 # Turkmenistan 
-*Time period: Mar/Jun*: 3
+*Time period: Mar-Jun*: 3
 
  
-*Time period: Jul/Sep*: 3
+*Time period: Jul-Sep*: 3
 
  
 
@@ -2666,10 +2666,10 @@ https://www.nytimes.com/2020/04/02/world/asia/coronavirus-denial-post-soviet.htm
 
 
 # Uganda 
-*Time period: Mar/Jun*: 1
+*Time period: Mar-Jun*: 1
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2691,10 +2691,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
 
 
 # Ukraine 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2710,10 +2710,10 @@ https://cpj.org/europe/ukraine/
 
 
 # United Arab Emirates 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2732,10 +2732,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
 
 
 # United Kingdom 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2749,10 +2749,10 @@ https://publichealthmatters.blog.gov.uk/2020/01/23/wuhan-novel-coronavirus-what-
 
 
 # United States of America 
-*Time period: Mar/Jun*: 2
+*Time period: Mar-Jun*: 2
 
  
-*Time period: Jul/Sep*: 2
+*Time period: Jul-Sep*: 2
 
  
 
@@ -2771,10 +2771,10 @@ https://www.cdc.gov/coronavirus/2019-ncov/index.html
 
 
 # Uruguay 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2787,10 +2787,10 @@ https://www.cdc.gov/coronavirus/2019-ncov/index.html
 
 
 # Uzbekistan 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2806,10 +2806,10 @@ https://ipi.media/uzbekistan/
 
 
 # Venezuela 
-*Time period: Mar/Jun*: 2
+*Time period: Mar-Jun*: 2
 
  
-*Time period: Jul/Sep*: 2
+*Time period: Jul-Sep*: 2
 
  
 
@@ -2827,10 +2827,10 @@ http://www.minci.gob.ve/conozca-la-bateria-de-tratamientos-que-impulsa-la-comisi
 
 
 # Vietnam 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2843,10 +2843,10 @@ http://www.minci.gob.ve/conozca-la-bateria-de-tratamientos-que-impulsa-la-comisi
 
 
 # Zambia 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 
@@ -2861,10 +2861,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
 
 
 # Zimbabwe 
-*Time period: Mar/Jun*: 0
+*Time period: Mar-Jun*: 0
 
  
-*Time period: Jul/Sep*: 0
+*Time period: Jul-Sep*: 0
 
  
 

@@ -615,7 +615,7 @@ https://www.einnews.com/pr_news/525101401/coronavirus-eritrea-global-information
 *Answer*: 3 
 
 *Comments*:
- The Ethiopian House of People's Representatives suspended all meetings until further notice on 16 March 2020. Since then, it has resumed sittings sporadically and with social distancing measures. Article 93:4: "When a state of emergency is declared, the Council of Ministers shall ... have all necessary power to protect the country's peace and sovereignty, and to maintain public security, law and order. ‚Ä¶ The Council of Ministers shall have the power to suspend such political and democratic rights contained in this Constitution to the extent necessary to avert the conditions that required the declaration of a state of emergency." 
+ The Ethiopian House of People's Representatives suspended all meetings until further notice on 16 March 2020. Since then, it has resumed sittings sporadically and with social distancing measures. Article 93:4: "When a state of emergency is declared, the Council of Ministers shall ... have all necessary power to protect the country's peace and sovereignty, and to maintain public security, law and order. The Council of Ministers shall have the power to suspend such political and democratic rights contained in this Constitution to the extent necessary to avert the conditions that required the declaration of a state of emergency." 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en
@@ -964,7 +964,7 @@ https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislat
 *Answer*: 2 
 
 *Comments*:
- According to the Disaster and Preparedness and Emergency Management Act 2015, Section 26(2):  "The Prime Minister may by order ‚Ä¶ (b) direct the enforcement of any measures recommended by the Office or any other measure that the Prime Minister thinks expedient for - (i) removing or otherwise guarding against such condition or hazard and  the probable consequences thereof..." 
+ According to the Disaster and Preparedness and Emergency Management Act 2015, Section 26(2):  "The Prime Minister may by order - (b) direct the enforcement of any measures recommended by the Office or any other measure that the Prime Minister thinks expedient for - (i) removing or otherwise guarding against such condition or hazard and  the probable consequences thereof..." 
 
 *Sources*:
  https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf

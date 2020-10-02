@@ -1677,7 +1677,7 @@ https://www.constituteproject.org/constitution/Niger_2017.pdf?lang=en
 *Answer*: 4 
 
 *Comments*:
- Nigeria has called upon emergency powers to deal with COVID-19 without, however, having declared a state of emergency. The extant Infectious Diseases Law ‚Äì the Quarantine Act 1926 ‚Äì gives the President sweeping powers towards preventing the introduction into and spread in Nigeria, and the transmission from Nigeria, of dangerous infectious diseases‚Äù and to make regulations for associated purposes. 
+ Nigeria has called upon emergency powers to deal with COVID-19 without, however, having declared a state of emergency. The extant Infectious Diseases Law - the Quarantine Act 1926 - gives the President sweeping powers towards preventing the introduction into and spread in Nigeria, and the transmission from Nigeria, of dangerous infectious diseases' and to make regulations for associated purposes. 
 
 *Sources*:
  https://verfassungsblog.de/nigerias-emergency-legal-response-to-covid-19-a-worthy-sacrifice-for-public-health/

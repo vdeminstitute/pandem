@@ -1752,7 +1752,7 @@ https://www.constituteproject.org/constitution/Turkey_2017.pdf?lang=en
 *Answer*: 0 
 
 *Comments*:
- The Public Health Act does not require parliamentary approval of emergency measures related to disease or infection.¬† 
+ The Public Health Act does not require parliamentary approval of emergency measures related to disease or infection. 
 
 *Sources*:
  https://ulii.org/ug/legislation/consolidated-act/281
