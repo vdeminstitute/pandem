@@ -2,7 +2,12 @@
 
 
 # Afghanistan 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  I did not find any information related to this. 
@@ -18,10 +23,15 @@ https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
 
 
 # Albania 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. 
+ official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. No new information found since June 2020. 
 
 *Sources*:
  https://shendetesia.gov.al/koronavirusi-i-ri-dhe-masat-ndaj-tij/
@@ -31,184 +41,298 @@ https://rsf.org/en/albania
 
 
 # Algeria 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- 'One journalist, Khaled Drareni, an editor at the Algerian publication, the Casbah Tribune, was arrested for allegedly "inciting an unarmed gathering and endangering national unity" over his critical Covid-19 coverage. In the past, Drareni had been arrested for his coverage of anti-government protests which had been staged every Friday for more than a year, before it was stopped because of Covid-19.'' 
+ 'Amidst the COVID-19 pandemic, the government of Algeria headed by newly elected President Abdelmadjid Tebboune approved a bill amending the country’s penal code to criminalize the spreading of “false news” that harms national unity. The sweeping new law gives authorities powers to tackle misinformation about the virus, but also opens the door to possible censorship. Penalties range between two to five years in jail and carry fines of up to €3,600.''
+
+Also: In a statement on July 11, the Algerian Minister of Communication accused the media of spreading falsehoods about COVID-19 and threatened jounalists with 5 years imprisonment.
+
+Also: ''One journalist, Khaled Drareni, an editor at the Algerian publication, the Casbah Tribune, was arrested for allegedly "inciting an unarmed gathering and endangering national unity" over his critical Covid-19 coverage. In the past, Drareni had been arrested for his coverage of anti-government protests which had been staged every Friday for more than a year, before it was stopped because of Covid-19.'' 
 
 *Sources*:
- https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
-https://www.icnl.org/covid19tracker/?location=142&issue=&date=&type=
-http://www.aps.dz/algerie/104200-amendement-du-code-penal-criminalisation-de-la-diffusion-des-fakenews-portant-atteinte-a-l-ordre-et-a-la-securite-publics
-https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
-https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
-https://cpj.org/2020/04/algeria-blocks-3-news-websites-and-criminalizes-fa/
-https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
-https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%99-activists-denounce-law
+ https://rsf.org/en/rsf_search?key=algeria
+https://rsf.org/en/algeria
+https://www.afrik.com/les-menaces-contre-liberte-un-pas-de-trop-dans-la-repression-de-la-presse-en-algerie
+https://www.afrik.com/algerie-le-ministre-de-la-communication-menace-le-journal-liberte
+http://www.aps.dz/algerie/104200-amendement-du-code-penal-criminalisation-de-la-diffusion-des-fakenews-portant-atteinte-a-l-ordre-et-a-la-securite-publics
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
+https://www.icnl.org/covid19tracker/?location=142&issue=&date=&type=
+http://www.aps.dz/algerie/104200-amendement-du-code-penal-criminalisation-de-la-diffusion-des-fakenews-portant-atteinte-a-l-ordre-et-a-la-securite-publics
+https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
+https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
+https://cpj.org/2020/04/algeria-blocks-3-news-websites-and-criminalizes-fa/
+https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
+https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%99-activists-denounce-law
 
 
 
 
 # Angola 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- No evidence of limitations 
+ No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. However, media freedom is limited in Angola, since several media outlets are controlled by the government and only a few manage to produce independent and critical reporting. 
 
 *Sources*:
- https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+ https://rsf.org/en/angola
+https://www.dw.com/pt-002/jornalistas-alertam-estado-quer-controlar-toda-a-comunica%C3%A7%C3%A3o-social-em-angola/a-54807935
+https://www.dw.com/pt-002/sindicato-dos-jornalistas-lamenta-recuo-na-liberdade-de-imprensa-em-angola/a-55028194
 
 
 
 # Argentina 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- No evidence of limitations 
+ No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. 
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
 
 
 # Armenia 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- In accordance with Decree N 298 (also see melim), the authorities ordered several media outlets to remove or edit information related to covid-19 (both regarding the virus and the government's response) 
+ In accordance with Decree N 298 (also see melim), the authorities ordered several media outlets to remove or edit information related to covid-19 (both regarding the virus and the government's response). Since the measures were revised on 24 March and provisions on the removal of information were removed (also see melimend), merepfact is coded as 0 in July-September 2020. 
 
 *Sources*:
  https://ipi.media/covid19-media-freedom-monitoring/#
 https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-2&p_p_col_pos=4&p_p_col_count=9&_sojdashboard_WAR_coesojportlet_alertPK=61621944
+https://rm.coe.int/armenia-reply-en-emergency-restrictions-force-media-to-suppress-indepe/16809e4ace
+https://www.e-gov.am/gov-decrees/item/33613/
 
 
 
 # Australia 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Australia,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/australia
-https://ipi.media/australia/
-https://www.bbc.co.uk/search?q=Australia+Covid-19+media+freedom&page=1
+ https://rsf.org/en/australia
+https://ipi.media/australia/
+https://www.bbc.co.uk/search?q=Australia+Covid-19+media+freedom&page=1
 https://www.reuters.com/search/news?blob=Australia+media+freedom+Covid-19
 
 
 
 # Austria 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  There is no reports from the EU agency of fundamental rights, reporters without borders or International Press Institute that any de facto limitations on media reporting about Covid-19 have been placed, and no other indication of such limitations have been found. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/austria-report-covid-19-april-2020_en_0.pdf
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Austria
+ https://fra.europa.eu/sites/default/files/fra_uploads/austria-report-covid-19-april-2020_en_0.pdf
+https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Austria
 https://rsf.org/en/austria
 
 
 
 # Azerbaijan 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- Website with updates related on covid-19, no reports on limitations on media reporting on covid-19 found. 
+ There is a website with updates related on covid-19 and I found no specific cases where journalists' reporting on covid-19 were targeted. Nevertheless, the media in Azerbaijan in general is suppressed, therefore merepfact is coded as 1.  
+
+IPI reports that: "Over the last decade, Aliyev, who has ruled Azerbaijan since 2003 and won every presidential election with around 80 percent of the vote, has gradually tightened his grip over the media space and overseen the persecution of critical journalists and bloggers. Several have fled the country, while those who remain often self-censor for fear of arrest.The country has one of the highest number of journalists in jail in the region. According to IPI research, in addition to those jailed this month [April 2020], five more journalists are currently behind bars." 
 
 *Sources*:
  https://koronavirusinfo.az/az
-https://ipi.media/azerbaijan/
-https://rsf.org/en/azerbaijan
+https://ipi.media/azerbaijan-abuses-quarantine-rules-to-jail-critical-journalists-and-bloggers/
 
 
 
 # Bangladesh 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- I did not find any information related to this. 
+ 1: According to Reporters with Borders, at least 15 journalists have been been attacked for their reporting on Covid-19. They were arrested under the 'Digital Security Act' which was passed in 2018. 
+
+2: Prime Minister Sheikh Hasina's government has been accused of trying to prevent journalists from informing the public about the severity of the Covid-19 pandemic in the country. 
+
+3: Among the journalists who have been arrested, one journalist, Ahmed, was arrested after writing an article criticizing the shortage of personal protective equipment for health professionals. 
 
 *Sources*:
- https://rsf.org/en/bangladesh
+ https://rsf.org/en/news/bangladeshi-journalists-cartoonist-arrested-covid-19-coverage
 
 
-https://www.hrw.org/asia/bangladesh
+https://www.dw.com/en/attacked-and-harassedhow-bangladeshi-journalists-are-paying-the-price-for-covid-19-reporting/a-53329494
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/bangladesh/
+https://www.hrw.org/news/2020/03/31/bangladesh-end-wave-covid-19-rumor-arrests
 
 
 
 # Belarus 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- A journalist was detained on 25 March 2020 based on corruption charges after publishing an article that challenges official statistics figures. 
+ Journalist Siarhei Satsuk was detained on 25 March 2020 based on corruption charges after publishing an article that challenges official covid-19 statistics figures. 
+On 7 May, "the Belarusian authorities stripped two Russian media workers of their press accreditation after they reported about increasing coronavirus death rates in the country." (IPI)
+
+Although new information was found since June 2020, still coded as 1 as media freedom in Belarus in general is restricted, and independent journalism has been further limited since the 9 August presidential elections. Numerous articles by the IPI and Reporters without Borders on increasing restrictions on press freedom suggest that media faces de-facto limitations on their reporting, which would also apply to reporting on the nature of the Covid-19 virus. For example, on 29 August 2020 the government withdrew accrediation of 17 journalists working for "Associated Press, AFP, German television network ARD, Deutsche Welle, Reuters, RFE/RL, Radio France International, the New York Times and the Wall Street Journal" (IPI). Since 21 August, the government blocked more than 70 websites, including "Radio Svaboda (the Belarusian service of Prague-based Radio Free Europe/Radio Liberty), the site of Belsat (a TV channel run by exile journalists based in Warsaw), the Belarusian sites of The Village and Warsaw-based Euroradio, and the Belarusian version of the Russian alternative media outlet MediaZona." (Reporters without Borders). 
 
 *Sources*:
  https://rsf.org/en/news/belarusian-journalist-arrested-criticizing-presidents-covid-19-approach
 https://cpj.org/2020/03/belarusian-journalist-siarhei-satsuk-detained-on-b/
 
+https://ipi.media/four-journalists-jailed-as-belarus-cracks-down-on-opposition-reporting/
+https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B370%5D&covid19=1
+
+https://ipi.media/ipi-condemns-belarus-for-cancelling-accreditation-of-journalists/
+https://ipi.media/belarusian-journalists-face-prosecution-and-suppression-as-government-tactics-morph/
+https://rsf.org/en/news/belarus-many-journalists-arrested-foreign-media-stripped-accreditation
+https://rsf.org/en/news/belarus-government-cant-change-course-history-concealing-facts-online
+https://cpj.org/reports/2019/09/10-most-censored-eritrea-north-korea-turkmenistan-journalist/
+
 
 
 # Belgium 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  No such evidence was found. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/belgium-report-covid-19-april-2020_en.pdf
+ https://fra.europa.eu/sites/default/files/fra_uploads/belgium-report-covid-19-april-2020_en.pdf
+https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/europe/belgium/
+https://www.ecpmf.eu/tag/covid19/
 
 
 
 # Benin 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- No media limitations on covid19 nature coverage found. 
+ No explicit de-facto limitations on reporting about the nature of the Covid-19  were found. 
+
+The media however are ''closely watched'', and have been subjected to close surveillance'', and ''pro-government reporting “guidelines” are often sent to the media after cabinet meetings.'' (1)
+
+Also, on July 7, 2020, Benin’s media regulator, the High Authority for Broadcasting and Communication (HAAC), has ordered the immediate closure of all “unauthorized” online media outlets. This decision was taken based on article 252 of Law No. 2015-07 of March 20, 2015 on the Information Code in Republic of Benin, according to which ''the direct or indirect operation in the Republic of Benin for free or against payment of a website providing audiovisual communication and print media services intended for the public, is subject to the authorization of the HAAC.'' (see links 6-11). 
+
+After the reactions that this decision provoked, the governemnt made efforts to alleviate the situation and lift the decision to close unauthorized media outlets. (see 12). 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/?location=12&issue=&date=&type=
-https://www.gouv.bj/actualite/556/coronavirus-les-11-mesures-prises-par-le-conseil-extraordinaire-des-ministres-au-benin/
-https://www.gouv.bj/actualite/567/coronavirus---communique-gouvernement-propos-deux-nouvelles-mesures-prises/
-https://www.gouv.bj/actualite/571/coronavirus---communique-ministre-interieur-sujet-cordon-sanitaire/
-https://www.garda.com/crisis24/news-alerts/326306/benin-authorities-enact-restrictive-measures-due-to-covid-19-update-1
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+ https://rsf.org/en/benin
+(1)
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://boulevard-des-infos.com/2020/07/08/benin-la-haac-en-guerre-contre-les-promoteurs-de-medias-en-ligne/
+(5)
+https://www.lemonde.fr/afrique/article/2020/07/15/au-benin-les-medias-en-ligne-sommes-de-cesser-leur-activite_6046253_3212.html
+(6)
+https://www.beninplus.com/media/la-haac-ordonne-la-fermeture-des-medias-en-ligne-non-reconnus
+(7)
+https://www.24haubenin.info/?La-position-de-la-HAAC-sur-la-decision-de-la-fermeture-des-medias-en-ligne
+(8)
+https://www.24haubenin.info/?La-HAAC-ordonne-la-fermeture-des-medias-en-ligne-non-reconnus
+(9)
+https://lanationbenin.info/decision-sur-la-regularisation-des-medias-en-ligne-la-haac-apporte-des-clarifications/
+(10)
+https://www.wasexo.bj/benin-la-haac-en-guerre-contre-les-promoteurs-de-medias-en-ligne/
+(11)
+https://www.gouv.bj/actualite/789/levee-decision-interdiction-medias-ligne---fructueux-echanges-entre-ministre-alain-orounla-president-haac/
+(12)
 
 
 
 # Bolivia 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- No evidence of limitations 
+ No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. 
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
 
 
 # Bosnia and Herzegovina 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. 
+ official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. No new information found since June 2020. 
 
 *Sources*:
  https://covid-19.ba/
@@ -220,44 +344,56 @@ https://rsf.org/en/bosnia-herzegovina
 
 
 # Botswana 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
 
 *Sources*:
- https://www.gov.bw/about-covid-19
-
-https://ipi.media/botswana/
-
-https://rsf.org/en/botswana
+ https://www.gov.bw/about-covid-19
+
+https://ipi.media/botswana/
+
+https://rsf.org/en/botswana
+
+https://cpj.org/africa/botswana/
 
 
 
 # Brazil 
-*Answer*: 1 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- The government is reducing the amount of information available to the public and the press. President Bolsonaro defends the use of cloroquine without scientific arguments and argues against social isolation. The Minister of Education, Abraham Weintraub, tweeted that covid-19 is part of a "Chinese plan for world domination". Eduardo Bolsonaro (president's son who is a member of parliament and president of the Lower Chambers's Commission on International Relations and National Security) has said that China and the Chinese Communist Party are to blame for the pandemic. 
+ No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. 
 
 *Sources*:
- https://www.washingtonpost.com/world/the_americas/coronavirus-brazil-bolsonaro-official-death-count-case/2020/06/07/73a713f4-a8cf-11ea-a9d9-a81c1a491c52_story.html
-
-https://www.bbc.com/news/world-latin-america-52952686
-https://www.theguardian.com/world/2020/mar/19/coronavirus-bolsonaro-son-china-row
-
-https://www.theguardian.com/world/2020/mar/23/brazils-jair-bolsonaro-says-coronavirus-crisis-is-a-media-trick
-https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/02/bolsonaro-volta-a-defender-cloroquina-quem-reclama-de-alternativa.htm
-
-https://www.independent.co.uk/news/world/americas/coronavirus-brazil-minister-abraham-weintraub-racist-tweet-china-a9452651.html
+ https://rsf.org/en/countries
+
+https://ipi.media/covid19-media-freedom-monitoring/
+https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
 
 
 # Bulgaria 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. 
+ official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. No new information found since June 2020. 
 
 *Sources*:
  https://coronavirus.bg/bg/
@@ -267,40 +403,61 @@ https://rsf.org/en/bulgaria
 
 
 # Burkina Faso 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- Nothing mentioned in the emergency measures announcement, nor in the main media freedom tracking pages 
+ Nothing mentioned in the emergency measures announcement, nor in the main media freedom tracking pages
+Also, on the the media environment: '' With dynamic, professional and diverse media, Burkina Faso is one of Africa's success stories''. (RSF) 
 
 *Sources*:
- https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://cpj.org/covid-19/
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
+ https://rsf.org/en/burkina-faso
+https://rsf.org/en/rsf_search?key=burkina%20faso
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://cpj.org/covid-19/
+https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
 https://ipi.media/covid19-media-freedom-monitoring/
 
 
 
 # Burma/Myanmar 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- A journalist has been arrested and jailed for two years for reporting on a person having died of Covid-19, under Article 505 of the Penal Code  stating that spreading information that "cause fear or alarm to the public". This legislation evidently puts de facto limitations on media reporting about Covid-19. Furthermore, Myanmar has also closed down over 200 websites in response to the crisis, many of which were media outlets, claiming that these sites spread "fake news". This is therefore coded as 1. 
+ A journalist has been arrested and jailed for two years for reporting on a person having died of Covid-19, under Article 505 of the Penal Code  stating that spreading information that "cause fear or alarm to the public". This legislation evidently puts de facto limitations on media reporting about Covid-19. Furthermore, Myanmar has also closed down over 200 websites in response to the crisis, many of which were media outlets, claiming that these sites spread "fake news". This is therefore coded as 1 for both periods. 
 
 *Sources*:
- https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
-https://rsf.org/en/news/mid-coronavirus-crisis-myanmar-blocks-221-sites-fake-news
-https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-covid-19-death
-https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
-https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
+ https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
+https://rsf.org/en/news/mid-coronavirus-crisis-myanmar-blocks-221-sites-fake-news
+https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-covid-19-death
+https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
+https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
+https://www.article19.org/resources/myanmar-article-19-briefing-highlights-freedom-of-expression-concerns-amid-the-covid-19-pandemic-response/
 
 
 
 # Burundi 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- There are widepread reports on lack of transparency from the Burundian authoritiies on covid19 related matters.
+ 'The final category of African COVID profiles are those countries—Tanzania, Burundi, and Eritrea—that are not actively testing or reporting on their coronavirus cases. As a result, it is very difficult to say with any confidence how seriously the pandemic is affecting these countries.'' (1)
+''Burundi’s government is failing to communicate fact-based information on the Covid-19 pandemic and preventing doctors and nurses from responding adequately.'' (2)
+
+There are widepread reports on lack of transparency from the Burundian authoritiies on covid19 related matters.
 
 ''A health ministry official, speaking on condition of anonymity, said seven patients had gone to one hospital with symptoms such as respiratory distress and that a whole wing had been dedicated to them ata military hospital. A doctor, who also spoke on condition of anonymity, reported six deaths of patients “presenting all the symptoms of coronavirus” last week.''
 
@@ -312,99 +469,150 @@ https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
 Also, the outgoing president of Burundi has died of a sudden illness, suspected by many to be Covid-19. The cause of Pierre Nkurunziza’s death was described as a heart attack in a government statement....It was unclear exactly when he died. A government statement said the president, a keen sports enthusiast, had attended a game of volleyball on Saturday but fell ill that night and was taken to hospital.'' 
 
 *Sources*:
- https://www.hrw.org/news/2020/03/31/burundi-any-covid-19-cover-will-put-lives-risk
-https://www.aa.com.tr/en/africa/rights-group-warns-burundi-on-covid-19-cover-up/1786867
-https://www.theguardian.com/world/2020/may/18/burundi-to-go-to-polls-amid-fears-authorities-playing-down-covid-19
-https://www.theguardian.com/world/2020/jun/09/burundi-president-dies-illness-suspected-coronavirus-pierre-nkurunziz
-https://www.ohchr.org/EN/HRBodies/HRC/Pages/NewsDetail.aspx?NewsID=25791&LangID=E
+ https://africacenter.org/spotlight/africa-varied-covid-landscapes/
+(1)
+https://www.hrw.org/news/2020/06/24/burundi-fear-repression-covid-19-response
+(2)
+https://rsf.org/en/burundi
+https://www.hrw.org/news/2020/03/31/burundi-any-covid-19-cover-will-put-lives-risk
+https://www.aa.com.tr/en/africa/rights-group-warns-burundi-on-covid-19-cover-up/1786867
+https://www.theguardian.com/world/2020/may/18/burundi-to-go-to-polls-amid-fears-authorities-playing-down-covid-19
+https://www.theguardian.com/world/2020/jun/09/burundi-president-dies-illness-suspected-coronavirus-pierre-nkurunziz
+https://www.ohchr.org/EN/HRBodies/HRC/Pages/NewsDetail.aspx?NewsID=25791&LangID=E
 https://www.ohchr.org/EN/HRBodies/HRC/Pages/NewsDetail.aspx?NewsID=25790&LangID=E
 
 
 
 # Cambodia 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- I did not find information suggesting the government has placed de-facto limitations on media reporting about the nature of the Covid-19 virus. 
+ 1: The new legislation allows the government to control the press and social media.
+
+2: Art 5(11) of the emergency law provides for “Prohibiting or restricting the distribution or broadcast of information that could generate public alarm or fear or generate unrest, or that could bring about damage to national security, or that could bring into being confusion regarding the state of emergency.” 
+
+3: Monoroom.info, a Khmer-language news website based in France, became inaccessible in Cambodia on 31 March after it published several articles about the coronavirus situation there. It has remained inaccessible ever since. 
 
 *Sources*:
- https://rsf.org/en/cambodia
+ https://www.theguardian.com/world/2020/apr/10/fears-as-cambodia-grants-hun-sen-vast-power-under-covid-19-pretext
 
-https://www.hrw.org/asia/cambodia
 
-https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia
+https://ipi.media/covid19-media-freedom-monitoring/
+
+
+https://rsf.org/en/news/cambodia-hun-sen-uses-covid-19-crisis-tighten-his-grip
+
+
+https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
 
 
 
 # Cameroon 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  No such evidence was found. The only incidents related to media limitations on access to information. 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-
+ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+https://rsf.org/en/cameroon
 
 
 
 # Canada 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Canada, and no other indications of any such limitation has been found. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B177%5D=177
+ https://rsf.org/en/thematique/internet?countries%5B177%5D=177
 https://ipi.media/canada/
 
 
 
 # Central African Republic 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  No de facto media limitations on the nature of covid19. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+ https://en.ejo.ch/ethics-quality/central-african-republic-coronavirus-and-the-media
+https://rsf.org/en/central-african-republic
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
 https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
 
 
 
 # Chad 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  The only incident relates to limitations on media reporting on government measures. 
 
 *Sources*:
- https://rsf.org/en/news/chadian-police-attack-tv-crew-covering-coronavirus-measures
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-https://rsf.org/en/tracker19-Coronavirus-Covid19
+ https://rsf.org/en/news/chadian-police-attack-tv-crew-covering-coronavirus-measures
+https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
+https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+https://rsf.org/en/tracker19-Coronavirus-Covid19
 https://ipi.media/covid19-media-freedom-monitoring/
 
 
 
 # Chile 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- No evidence of limitations 
+ No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. 
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
 
 
 # China 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
  Chinese politicians downplayed the severity of the virus in its early weeks prior to 11 March 2020. Police also target “rumourmongers” and censors deleted any commentary that question the official line. On 1 January 2020, the government arrested eight whistle blower doctors accused of spreading rumours about Covid-19.
@@ -424,38 +632,53 @@ https://rsf.org/fr/actualites/coronavirus-ces-heros-de-linformation-que-la-chine
 
 
 # Colombia 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- No evidence of limitations 
+ No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. 
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
 
 
 # Costa Rica 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- No evidence of limitations 
+ No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. 
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
 
 
 # Croatia 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. 
+ official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. No new information found since June 2020. 
 
 *Sources*:
  https://www.koronavirus.hr/
@@ -465,24 +688,32 @@ https://rsf.org/en/croatia
 
 
 # Cuba 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- No evidence of limitations 
+ No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. However, press freedom was already limited in Cuba before the pandemic, and RSF lists the country as the one with the least press freedom in the Americas. 
 
 *Sources*:
- https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+ https://rsf.org/en/cuba
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
 
 
 # Czech Republic 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. The Ministry of the Interior removed a video of Malá Vizita & Duše K which discussed covid-19 treatment, but this is not coded since it was a theatre performance. 
+ official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. The Ministry of the Interior removed a video of  Malá Vizita & Duše K which discussed covid-19 treatment, but this is not coded since it was a theatre performance.  No new information found since June 2020. 
 
 *Sources*:
  https://onemocneni-aktualne.mzcr.cz/covid-19
@@ -491,275 +722,412 @@ https://rekonstrukcestatu.s3.amazonaws.com/rekonstrukcestatu/production/files/20
 
 
 # Democratic Republic of the Congo 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- No de facto media limitations on the nature of covid19. The only incidents reported relate to the government response. 
+ The media landscape in DRC is characterized by a plethora of ''press freedom violations – including arrests, attacks, threats and ransacking or closures of media outlets''....''The environment for media personnel continues to be extremely hostile..''
+
+No explicit de facto media limitations on the nature of covid19. 
 
 *Sources*:
- https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://rsf.org/fr/actualites/rdc-un-journaliste-renverse-moto-par-des-policiers-pour-sa-couverture-du-confinement
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://ipi.media/covid19-media-freedom-monitoring/
-https://www.radiookapi.net/2020/05/12/actualite/securite/kasai-oriental-le-directeur-de-la-radio-fdm-arrete-pour-outrage-au
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
+ https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
 
 
 
 # Denmark 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Denmark, and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B105%5D=105
+ https://rsf.org/en/thematique/internet?countries%5B105%5D=105
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Denmark
 
 
 
 # Dominican Republic 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- No evidence of limitations 
+ No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. 
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
 
 
 # Ecuador 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- No evidence of limitations 
+ No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. 
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
 
 
 # Egypt 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- 1: The Egyptian health ministry repeatedly labelled a Taiwanese tourist as the source of the outbreak in Luxor, then did not acknowledge nor provide further explanation after Taiwan’s Centre for Disease Control refuted this entirely (with evidence).  
-
-2: There are large discrepancies in the Egyptian governments reporting on the prevalence of Covid-19 in Egypt and the situation as described by other international sources. Eg: Uni of Toronto states that there should have been 6270 to 45050 cases in early March. However the country’s official number at the same point in time was three. 
+ Ruth Michaelson, a journalist with The Guardian who had been living and working in Egypt had to leave the country after she reported on research by infectious disease specialists from the University of Toronto as well as public health data and news stories that pointed to Egypt having a higher rate of coronavirus cases than reported by the government. 
 
 *Sources*:
- https://www.cjr.org/first_person/guardian-covid-19-reporter-egypt.php
+ https://www.theguardian.com/world/2020/mar/26/egypt-forces-guardian-journalist-leave-coronavirus-story-ruth-michaelson
 
-https://www.cdc.gov.tw/En/Bulletin/Detail/4Xu2VavNqpCl2VwScBa0NA?typeid=158
+
+https://www.theguardian.com/world/2020/mar/15/egypt-rate-coronavirus-cases-higher-than-figures-suggest
+
+
+
+https://www.cjr.org/first_person/guardian-covid-19-reporter-egypt.php
 
 
 
 # El Salvador 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- Besides de-jure measure, according to RSF: "Salvadorean journalists and media outlets have also reported being unable to get information from health professionals about difficulties in the provision of protective equipment or reliable figures for confirmed coronavirus cases and deaths." The government did not allow journalists to ask questions during press conferences about the pandemic. There are also several reports of security forces interferring with journalists reporting on coronavirus. 
+ Besides the de-jure measure coded in melim, the government did not allow journalists to ask questions during press conferences and there are several reports of security forces interfering with journalists reporting on the pandemic. According to RSF: "Salvadorean journalists and media outlets have also reported being unable to get information from health professionals about difficulties in the provision of protective equipment or reliable figures for confirmed coronavirus cases and deaths". Additionally, media freedom was already limited in El Salvador before the pandemic. 
 
 *Sources*:
- https://rsf.org/en/news/salvadorean-authorities-must-not-obstruct-coronavirus-coverage
-https://ipi.media/covid19-media-freedom-monitoring/
-http://apes.org.sv/alertas/por-cuarta-vez-gobierno-impide-preguntas-de-periodistas-en-conferencia-de-prensa/
+ https://rsf.org/en/news/salvadorean-authorities-must-not-obstruct-coronavirus-coverage
+https://ipi.media/covid19-media-freedom-monitoring/
+http://apes.org.sv/alertas/por-cuarta-vez-gobierno-impide-preguntas-de-periodistas-en-conferencia-de-prensa/
+https://cpj.org/americas/el-salvador/
+https://www.ifj.org/media-centre/news/detail/category/press-freedom/article/el-salvador-presidente-bukele-ataca-a-la-asociacion-de-periodistas.html
+https://www.amnesty.org/en/latest/news/2020/06/el-salvador-represion-promesas-rotas-presidente-bukele/
 
 
 
 # Eritrea 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
+ Since 2001 all independent media have been shut down. In addition, the country's only newspaper was banned from publishing for five months. 
 
 *Sources*:
- https://rsf.org/en/eritrea
-
-https://ipi.media/eritrea/
-
-http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
+ https://freedomhouse.org/country/eritrea/freedom-world/2020
+
+https://africasacountry.com/2020/09/eritreas-deteriorating-state
+
+https://rsf.org/en/eritrea
+
+https://ipi.media/eritrea/
+
+https://cpj.org/africa/eritrea/
+
+https://www.amnesty.org/en/countries/africa/eritrea/report-eritrea/
 
 
 
 # Ethiopia 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
 
 *Sources*:
- https://rsf.org/en/ethiopia
-
-https://ipi.media/ethiopia/
+ https://rsf.org/en/ethiopia
+
+https://ipi.media/ethiopia/
+
+https://cpj.org/africa/ethiopia/
 
 
 
 # Finland 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Finland, and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B108%5D=108
+ https://rsf.org/en/thematique/internet?countries%5B108%5D=108
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
 
 
 
 # France 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- On the contrary, authorities seem like seeking more freedom of expression for journalists, and transparency. 
+ On the contrary, authorities seek to strengthen freedom of expression for journalists, and enhance transparency. 
 
 *Sources*:
- https://www.diplomatie.gouv.fr/en/coming-to-france/coronavirus-advice-for-foreign-nationals-in-france/coronavirus-statements/article/joint-statement-on-safety-of-journalists-and-access-to-information-during-the
+ https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/europe/france/
+https://www.ecpmf.eu/?s=covid19
 
 
 
 # Gabon 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- No de facto media limitations on the nature of covid19. 
+ No media limitations on the nature of covid19. 
 
 *Sources*:
- "https://www.constituteproject.org/constitution/Gabon_2011.pdf?lang=en
-https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_bf8817338b3841c0a52d721427c55e55.pdf"
-https://www.legigabon.com/etat-d-urgence-covid-19
-https://ga.usembassy.gov/u-s-citizen-services/coronavirus-update/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-https://ipi.media/covid19-media-freedom-monitoring/
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
+ https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+https://ipi.media/covid19-media-freedom-monitoring/
+https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
 
 
 
 
 # Georgia 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. 
 
 *Sources*:
  https://stopcov.ge/
-https://ipi.media/georgia/
-
+https://ipi.media/georgia/
+
 https://rsf.org/en/georgia
 
 
 
 # Germany 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Germany,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B94%5D=94
+ https://rsf.org/en/thematique/internet?countries%5B94%5D=94
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
 
 
 
 # Ghana 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
 
 *Sources*:
- https://ipi.media/ghana/
-
-https://rsf.org/en/ghana
+ https://ipi.media/ghana/
+
+https://rsf.org/en/ghana
+
+https://cpj.org/africa/ghana/
 
 
 
 # Greece 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- No such limitations. The only incident found refers to limiting media access to information. 
+ No such limitations. 
 
 *Sources*:
- https://www.efsyn.gr/ellada/koinonia/240641_se-karantina-i-enimerosi-haropaleyei-i-eleytheria-toy-typoy
+ https://www.ecpmf.eu/monitor/mapping-media-freedom/
+
+https://ipi.media/covid19-media-freedom-monitoring/
 
-http://www.ertopen.com/news/ellada/item/56727-ti-foboyntai-kai-den-afhnoyn-toys-dhmosiografoys-na-rwtoyn-ton-kath-tsiodra
-
-https://www.ecpmf.eu/monitor/mapping-media-freedom/;
-https://ipi.media/covid19-media-freedom-monitoring/
 
 
 
 # Guatemala 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- No evidence of limitations 
+ No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. 
 
 *Sources*:
- https://rsf.org/en/news/guatemala-dont-put-guatemalan-press-quarantine
-https://monitor.civicus.org/updates/2020/05/12/journalists-denounce-guatemala-government-hostility-towards-press/
+ https://rsf.org/en/countries
+
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
-https://cnnespanol.cnn.com/video/guatemala-manuel-sagastume-covid19-coronavirus-entrevista-fernando-del-rincon-conclusiones/
-https://drive.google.com/file/d/1HFwdm3DfMqqRIphjH5Ke6CyGsi2MjJ6d/view
 
 
 
 # Guinea 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- Nothing mentioned in the media freedom tracker webpages 
+ No evidence was found in the media freedom tracker webpages 
+The media are criticized by the President (Alpha Conde) and the authorities periodically try to censor critical media but nothing was mentioned in the covid19-context. 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+ https://rsf.org/en/guinea
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
 https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
 
 
 
-
 # Haiti 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- No such evidence was found. 
+ 'Journalists have also faced obstacles while reporting on the coronavirus pandemic.
+In April, the CPJ called on Haitian authorities to investigate an assault on a group of journalists in Port-au-Prince. CPJ reported that several unidentified men punched and hit a group of eight reporters at the National Identification Office, a government department that manages citizens’ identification cards. The journalists were there to report on claims that the office was not adhering to guidelines on social distancing.
+“Journalists should be free to cover COVID-19 and local authorities’ handling of the pandemic without fear that they will be assaulted,” said CPJ Central and South America Program Coordinator Natalie Southwick. 
 
 *Sources*:
- https://rsf.org/en/haiti
-https://ipi.media/covid19-media-freedom-monitoring/
+ https://cpj.org/2020/04/haitian-journalist-robenson-sanon-says-covering-co/
+https://www.voanews.com/press-freedom/never-ending-battle-press-rights-haiti
+https://en.unesco.org/news/role-haitian-press-response-coronavirus-pandemic
 
 
 
 # Honduras 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- While the de-jure measure measure was in place, journalists were not allowed to report from outside their houses 
+ While the de-jure measure (coded in melim) was in place, journalists were not allowed to report from outside their houses. Additionally, media freedom is restricted in Honduras and, in the past years, the government has passed laws that allow for censorship. 
 
 *Sources*:
- http://www.consejosecretariosdeestado.gob.hn/system/files_force/PCM%20022-2020.pdf
-http://www.consejosecretariosdeestado.gob.hn/content/suspenci%C3%B3n-de-garant%C3%ADas-constitucionales
-https://monitor.civicus.org/updates/2020/05/22/honduras-undue-restrictions-expression-and-police-abuse-emergency-powers-during-covid-19/
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+ http://www.consejosecretariosdeestado.gob.hn/system/files_force/PCM%20022-2020.pdf
+http://www.consejosecretariosdeestado.gob.hn/content/suspenci%C3%B3n-de-garant%C3%ADas-constitucionales
+https://monitor.civicus.org/updates/2020/05/22/honduras-undue-restrictions-expression-and-police-abuse-emergency-powers-during-covid-19/
+https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://ipi.media/hondurass-enduring-press-freedom-crisis/
+https://rsf.org/en/honduras
+
+
+
+# Hong Kong 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
+
+*Comments*:
+ There are several restrictions to media in Hong Kong, especially through the National Security Law imposed on June 30. In the period Mar/Jun, the media in Hong Kong faced multiple limitations in its reporting, for example illustrated by the arrest of media owner Jimmy Lai in April. While these restrictions mainly pertained to the pro-democracy protests, it is here regarded as constituting such overall limitations that Covid-19 reporting should be affected as well. And after the implementation of the National Security Law, which criminalizes speech and press that could "interfere", "disrupt" or "undermine" the Hong Kong and Chinese government, this constitutes an even greater de facto limitation on media. This is therefore coded as 1 for both periods. 
+
+*Sources*:
+ https://www.amnesty.org/en/latest/news/2020/07/hong-kong-national-security-law-10-things-you-need-to-know/
+https://www.hrw.org/news/2020/08/11/china/hong-kong-mass-arrests-under-security-law
+https://rsf.org/en/news/rsf-decries-hong-kong-media-owners-arbitrary-arrest
+https://rsf.org/en/news/hong-kong-under-national-security-law-no-journalist-world-free-chinas-violent-retribution
+https://drive.google.com/file/d/1JBoaxj-J9TfLaLVfxLkq_9-JkwZZewmF/view
+https://ifex.org/hong-kong-media-in-2020-freedom-in-danger/
 
 
 
 # Hungary 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  information on covid-19 on the government's website; no reports on limitations on media reporting on covid-19 found 
@@ -771,7 +1139,12 @@ https://ipi.media/crisis-point-covid-19-intensifies-challenge-for-independent-me
 
 
 # India 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
  1: India had officially stated that there was a change from “local transmission” to “community transmission” on 29 march 2020. However, this information was not shared in the government press release or press conference. It instead continued to publicly maintain that the country was still in the lower phase of limited local transmission. The real information was later leaked to health professionals. 20 Journalists posed ten key questions to the government on this mishandling of information and received no response.
@@ -800,7 +1173,12 @@ https://www.cjr.org/analysis/delhi-india-violence-modi-press-freedom.php
 
 
 # Indonesia 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
  There are no de-facto limitations on media reporting about the nature of the Covid-19 virus. However, there is limited access to Covid-19 related health  information. And there is evidence of policy enforcing laws against dessmination of "hoaxes" concerning Covid-19. 
@@ -814,77 +1192,114 @@ https://www.thejakartapost.com/news/2020/05/11/govt-covid-19-response-poses-risk
 
 
 # Iran 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- There are several reports on journalists being arrested for reporting on the coronavirus, especially those who have published evidence that contradicts the governments figures about the spread of the virus and accused the Iranian government of misinformation about the Covid-19 situation in Iran. These Journalists have generally been accused of "Publishing false information about the coronavirus". 
+ There are several reports on journalists being arrested for reporting on the coronavirus, especially those who have published evidence that contradicts the governments figures about the spread of the virus and accused the Iranian government of misinformation about the Covid-19 situation in Iran. These Journalists have generally been accused of "Publishing false information about the coronavirus".  A newspaper was also shut down for publishing an interview with an official working in Iran's Covid-19 Taskforce. This is therefore coded as 1. 
 
 *Sources*:
- https://rsf.org/en/news/iran-press-freedom-violations-recounted-real-time-january-2020
-https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-https://cpj.org/2020/03/amid-coronavirus-pandemic-iran-covers-up-crucial-i/
+ https://rsf.org/en/news/iran-press-freedom-violations-recounted-real-time-january-2020
+https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
+https://cpj.org/2020/03/amid-coronavirus-pandemic-iran-covers-up-crucial-i/
+https://cpj.org/2020/08/iran-shuts-down-economic-newspaper-over-covid-19-reporting/
 
 
 
 # Iraq 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- There are several reports of journalists being arrested and detained for investigating and reporting on Covid-19, for example its prevalence and protests held in relation to emergency measures. This is therefore coded as 1. 
+ There are several reports of journalists being arrested and detained for investigating and reporting on Covid-19, for example its prevalence and protests held in relation to emergency measures. In early April 2020, the commission suspended Reutersl icense and fined it 25 million IQD (US$21,000) for an April 2 article alleging that the number of confirmed Covid-19 cases in the country was much higher than official statistics indicated. The authorities lifted the suspension on April 19. The Reuters report, published on April 2, cited three doctors involved in the testing process, a health ministry official and a senior political official as saying Iraq had thousands of confirmed COVID-19 cases, many times more than the 772 it had publicly reported at that time. There are also vaguely formulated defamation laws and similar regulation that Iraqi authorities can prosecute media and individuals of breaking,  that constitutes a de facto limitation. This is therefore coded as 1. 
 
 *Sources*:
- https://rsf.org/en/news/iraqi-kurdistan-wave-arrests-journalists-covid-19s-arrival
-https://cpj.org/2020/06/journalists-assaulted-detained-while-covering-covid-19-protest-in-iraqi-kurdistan/
-https://cpj.org/2020/05/journalists-in-iraqi-kurdistan-tell-cpj-of-obstruc/
+ https://rsf.org/en/news/iraqi-kurdistan-wave-arrests-journalists-covid-19s-arrival
+https://cpj.org/2020/06/journalists-assaulted-detained-while-covering-covid-19-protest-in-iraqi-kurdistan/
+https://cpj.org/2020/05/journalists-in-iraqi-kurdistan-tell-cpj-of-obstruc/
+https://www.hrw.org/news/2020/06/15/iraq-urgent-need-free-speech-protection
+
+https://www.hrw.org/news/2020/06/15/iraq-urgent-need-free-speech-protection
+https://www.reuters.com/article/us-iraq-reuters/iraq-suspends-reuters-for-three-months-over-report-on-coronavirus-cases-idUSKCN21W1RW
 
 
 
 # Ireland 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Ireland,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B115%5D=115
+ https://rsf.org/en/thematique/internet?countries%5B115%5D=115
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
 
 
 
 # Israel 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Israel,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B161%5D=161
+ https://rsf.org/en/thematique/internet?countries%5B161%5D=161
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Israel
 
 
 
 # Italy 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Italy,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B116%5D=116
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CFrom%20Our%20Network&country=Italy
+ https://rsf.org/en/thematique/internet?countries%5B116%5D=116
+https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CFrom%20Our%20Network&country=Italy
 
 
 
 
 # Ivory Coast 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
  'In Côte d’Ivoire, two journalists were fined 5 million CFA francs (7,620 euros) each on charges of “spreading false news” for reporting that there were two coronavirus cases in Abidjan’s main prison, a claim denied by the prison authorities.''
-more incidents are also reported in the links. 
+
+Also, ''RSF registered few press freedom violations in Côte d’Ivoire in 2019 but police attacks on journalists, especially during demonstrations, have continued and testify to the need for more awareness training about journalists’ rights.'' 
 
 *Sources*:
- https://rsf.org/en/news/six-ivorian-journalists-heavily-fined-march
+ https://rsf.org/en/cote-divoire
+https://rsf.org/en/news/six-ivorian-journalists-heavily-fined-march
 https://rsf.org/en/tracker19-Coronavirus-Covid19
 https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
 https://fr.africanews.com/2020/03/31/cote-d-ivoire-deux-journaux-condamnes-pour-fausses-informations/
@@ -892,23 +1307,34 @@ https://fr.africanews.com/2020/03/31/cote-d-ivoire-deux-journaux-condamnes-pour-
 
 
 # Jamaica 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
 
 *Sources*:
- 
-https://ipi.media/jamaica/
-
-https://rsf.org/en/thematique/internet?countries%5B190%5D=190
-
-https://www.bbc.com/news/topics/c50znx8v848t/jamaica
+ https://ipi.media/jamaica/
+
+https://rsf.org/en/thematique/internet?countries%5B190%5D=190
+
+https://www.bbc.com/news/topics/c50znx8v848t/jamaica
+
+https://freedomhouse.org/country/jamaica/freedom-world/2020
 
 
 
 # Japan 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  I did not find information related to this. 
@@ -929,75 +1355,113 @@ https://www.hrw.org/asia/japan
 
 
 # Jordan 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- There are several reports of journalists being arrested and detained for investigating and reporting on Covid-19, for example being accused of having spread rumours and fake news. 
+ There are several reports of journalists being arrested and detained for investigating and reporting on Covid-19, for example being accused of having spread rumours and fake news. Furthermore, the Jordanian media has faced additional limitations in July and August when government has cracked down on their coverage of protests against the government. While not directly related to Covid-19, it shows that media faces several limitations, and this is therefore coded as 1 for both periods. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/05/jordan-free-speech-threats-under-covid-19-response
-https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/news/two-jordanian-tv-journalists-arrested-after-broadcasting-criticism-lockdown
-https://ipi.media/ipi-condemns-the-arrest-of-two-tv-executives-in-jordan/
+ https://www.hrw.org/news/2020/05/05/jordan-free-speech-threats-under-covid-19-response
+https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
+https://rsf.org/en/news/two-jordanian-tv-journalists-arrested-after-broadcasting-criticism-lockdown
+https://ipi.media/ipi-condemns-the-arrest-of-two-tv-executives-in-jordan/
+https://www.hrw.org/news/2020/08/18/jordan-escalating-repression-journalists
+https://rsf.org/en/news/jordan-bans-coverage-teachers-protests
 
 
 
 # Kazakhstan 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. 
+ According to Human Rights Watch, "In Kazakhstan, the authorities have used existing laws to suppress freedom of expression among activists and journalists."  Under a state of emergency, violations of the measures for controlling mass media can result in a fine or detention for up to 15 days. (Art 476 (7) of the Law on Administrative Offenses). Moreover, according to Art. 274 (4) of the Criminal Code, spreading disinformation during a state of emergency can be punishable by up to 3 years in jail (note that without a declared state of emergency, the same offenses can be punished by a fine, public works or up to 3 years in jail) . 
 
 *Sources*:
- https://www.coronavirus2020.kz/
-https://ipi.media/kazakhstan/
-https://rsf.org/en/kazakhstan
+ https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
+http://adilet.zan.kz/rus/docs/K1400000235#3239
+https://online.zakon.kz/document/?doc_id=31575252#pos=3965;-46
 
 
 
 # Kenya 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  No de facto media limitations on the nature of covid19. 
 
 *Sources*:
- http://www.mfa.go.ke/?page_id=3127
+ https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/rsf_search?key=kenya&y=2020
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+
 
 
 
 # Kuwait 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  There are no indications given by Reporters without Borders, International Press Institute, the American Embassy in Kuwait or big media outlets like the Guardian and NY times that any de facto limitations have been put on the media on reporting about Covid-19,  beyond any already existing restrictions in press fredom in Kuwait. 
 
 *Sources*:
- https://rsf.org/en/kuwait
-https://rsf.org/en/rsf_search?key=Kuwait
-https://ipi.media/?s=Kuwait
-https://kw.usembassy.gov/world-press-freedom-day/
-https://kw.usembassy.gov/news-events/
-https://www.theguardian.com/world/kuwait
+ https://rsf.org/en/kuwait
+https://rsf.org/en/rsf_search?key=Kuwait
+https://ipi.media/?s=Kuwait
+https://kw.usembassy.gov/world-press-freedom-day/
+https://kw.usembassy.gov/news-events/
+https://www.theguardian.com/world/kuwait
 https://www.nytimes.com/search?query=Kuwait
 
 
 
 # Kyrgyzstan 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. 
+ I have not found any specific cases where media reporting on covid-19 found was limited. Nevertheless, the government has placed many limitations on media reporting in general.
+
+According to Human Rights Watch, In Kyrgyzstan, neither independent media outlets nor lawyers have been granted permits to pass police checkpoints, interfering with their ability to do their jobs"; Kyrgyzstan has " threatened criminal sanctions or opened investigations into people for spreading “false information” about the virus, including doctors concerned about inadequate protective equipment." "in Kyrgyzstan, Human Rights Watch found that the State Committee on National Security (GKNB) either posted or distributed among media outlets photographs and personal information of at least 27 people it accused of “spreading knowingly false information” about the virus. In most cases, the agency said that the person was released after apologizing to the public, but that the agency “reminds people that spreading false information provides for criminal liability." 
 
 *Sources*:
  https://covid.kg/
 https://ipi.media/kyrgyzstan/
 https://rsf.org/en/kyrgyzstan
+https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
 
 
 
 # Laos 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
  The decree that regulates the emergency measures states that the government shall "strictly prohibit the advertisement of, release, forward any fake news via any media platform that can cause misunderstanding, panic and create negative impact on society. Task the agency for surveillance and response to the social complaints to closely monitor and strictly take action on those offenders." (Section 6). The decree also states that "the Task Force Committee shall provide detail guidance in a format of an easy understanding to disseminate through official media outlets" (Section 11).
@@ -1009,65 +1473,77 @@ This puts a strong de facto limitation on media reporting on Covid-19 Laos, by m
 
 
 # Lebanon 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Lebanon,  and no other indications have been found of there having been implemented any such limitations. 
+ Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about  Covid-19 in Lebanon,  and no other indications have been found of there having been implemented any such limitations. However, the state of emergency imposed after the Beirut explosion introduce far reaching powers for the government that could possibly limit media, and Lebanese media do face other restrictions, for example through defamation laws (an introduction of these can be found in this HRW report: https://www.hrw.org/report/2019/11/15/there-price-pay/criminalization-peaceful-speech-lebanon)  This is coded 0, as no evidence has been found that existing or new measures having limited reporting on Covid-19, but it should be noted that the media seem to face limitations in other aspects. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B164%5D=164
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Lebanon
+ https://rsf.org/en/thematique/internet?countries%5B164%5D=164
+https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Lebanon
+https://ipi.media/press-freedom-in-lebanon-under-threat/
+https://www.hrw.org/report/2019/11/15/there-price-pay/criminalization-peaceful-speech-lebanon
 
 
 
 # Lesotho 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- No de facto limitations or incident found, except for the de jure limitation mentioned in Legal Notice 26 of March 28 on the state of emergency - 
+ No de facto limitations or incident found, except for the de jure limitation mentioned in Legal Notice 26 of March 28, legal notice 41 and 68.
 section 3 (f) members of the press shall refrain from publishing fake news; 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
-https://ancl-radc.org.za/node/631
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+ https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+(1)
+https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
+(2)
+https://ancl-radc.org.za/node/631
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
 
 
 
 
 # Liberia 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
 
 *Sources*:
- https://rsf.org/en/liberia
-
-https://ipi.media/liberia/
-
-https://cpj.org/africa/liberia/
+ https://cpj.org/2020/04/journalists-in-liberia-attacked-harassed-for-repor/
 
 
+https://monitor.civicus.org/country/liberia/#newspost-3228
 
-# Libya 
-*Answer*: 0 
-
-*Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Libya,  and no other indications have been found of there having been implemented any such limitations. 
-
-*Sources*:
- https://rsf.org/en/thematique/internet?countries%5B165%5D=165
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Libya
+https://rsf.org/en/news/liberia-urged-guarantee-access-coronavirus-information
 
 
 
 # Lithuania 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. 
@@ -1080,270 +1556,377 @@ https://koronastop.lrv.lt/en/
 
 
 # Madagascar 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- Apart from the de-jure  limitations already imposed (see melim variable), in Madagascar, the authorities have banned radio phone-in programmes in which listeners could express their views about the pandemic and the way the government is dealing with it.
+ Apart from the de-jure  limitations already imposed, in Madagascar the authorities have banned radio phone-in programmes in which listeners could express their views about the pandemic and the way the government is dealing with it.
+
+''Amnesty International calls on the authorities to stop using the measures to address COVID-19 as a pretext to sanction media outlets, opposition figures or anyone critical of the government's actions. The authorities must ensure full and effective respect for the human rights of everyone, including the rights to freedom of expression, peaceful assembly and media freedom.'' (1)
 
 Another report accused Madagascan government on an act of sabotage that has silenced an opposition TV channel and to guarantee journalistic freedom.
 
-''Publishing director and journalist at the Ny Valosoa newspaper Arphine Helisoa was arrested and put in pre-trial detention on 4 April after she was accused of criticizing the president’s handling of the national response to COVID-19 in an article. She is still in detention in Antanimora prison in the country’s capital Antananarivo. She was charged with spreading fake news and incitement of hatred towards President Andry Rajoelina.''
+''Publishing director and journalist at the Ny Valosoa newspaper Arphine Helisoa was arrested and put in pre-trial detention on 4 April after she was accused of criticizing the president's handling of the national response to COVID-19 in an article. She is still in detention in Antanimora prison in the country's capital Antananarivo. She was charged with spreading fake news and incitement of hatred towards President Andry Rajoelina.''
 
 More incidents mentioned in the articles linked. 
 
 *Sources*:
- https://jwf-legal2.fr.gd/Lois-245.htm
-https://www.presidence.gov.mg/actualites/755-decret-n-2020-359-du-21-mars-2020-proclamant-l-etat-d-urgence-sanitaire-sur-tout-le-territoire-de-la-republique.html
-http://www.rfi.fr/fr/afrique/20200412-madagascar-liberte-presse-journaliste-prison-arphine-helisoa-rajoelina-rakotondraza
-https://www.amnesty.org/en/latest/news/2020/05/southern-africa-covid19-a-pretext-for-surge-in-harassment-of-journalists-and-weakening-of-media-houses-by-states/
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://www.ecoi.net/en/document/2027261.html
-https://rsf.org/en/news/madagascar-sabotage-silences-tv-channel-criticized-coronavirus-measures
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
-https://rsf.org/fr/actualites/coronavirus-madagascar-une-chaine-de-tele-victime-dun-acte-de-sabotage
+ https://www.amnesty.org/download/Documents/AFR3528192020ENGLISH.pdf
+(1)
+http://www.rfi.fr/fr/afrique/20200412-madagascar-liberte-presse-journaliste-prison-arphine-helisoa-rajoelina-rakotondraza
+https://www.amnesty.org/en/latest/news/2020/05/southern-africa-covid19-a-pretext-for-surge-in-harassment-of-journalists-and-weakening-of-media-houses-by-states/
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://www.ecoi.net/en/document/2027261.html
+https://rsf.org/en/news/madagascar-sabotage-silences-tv-channel-criticized-coronavirus-measures
+https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+https://rsf.org/fr/actualites/coronavirus-madagascar-une-chaine-de-tele-victime-dun-acte-de-sabotage
 https://www.hirondelle.org/de/unsere-news/1131-the-challenges-of-journalism-during-covid-19-lockdown-in-madagascar
 
 
 
 # Malawi 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/malawi
-
-https://ipi.media/malawi/
-
+ https://ipi.media/covid19-media-freedom-monitoring/
+
+https://rsf.org/en/malawi
+
+https://ipi.media/malawi/
+
 https://cpj.org/africa/malawi/
 
 
 
 # Malaysia 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- While no reports have been found on journalists being arrested or media outlets shut down for their reporting on Covid-19, journalists have been arrested for their reporting on the governments response to it under Section 505 in the penal code that bans statements that can cause "fear or alarm to the public". As this is vaguely formulated, it poses a de facto threat to media reporting on the nature of Covid-19 as well, and this is therefore coded as 1. 
+ While no reports have been found on journalists being arrested or media outlets shut down for their reporting on Covid-19, journalists have been arrested for their reporting on the governments response to it under Section 505 in the penal code (as well as other legislation) that bans statements that can cause "fear or alarm to the public". As this is vaguely formulated, it poses a de facto threat to media reporting on the nature of Covid-19 as well, and this is therefore coded as 1.
+These restrictions has not eased over the summer, and journalists have continued to be  arrested for covid-19 related reporting. Both the regulation and arrests clearly constitute a limitation to the reportoting on Covid-19. 
 
 *Sources*:
- https://www.hrw.org/news/2020/06/10/malaysia-new-government-backslides-free-speech
-https://cpj.org/2020/02/malaysian-journalist-charged-over-coronavirus-face/
-https://cpj.org/2020/05/malaysian-journalist-faces-six-years-in-prison-ove/
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Malaysia
-https://rsf.org/en/thematique/internet?countries%5B75%5D=75
+ https://www.hrw.org/news/2020/06/10/malaysia-new-government-backslides-free-speech
+https://cpj.org/2020/02/malaysian-journalist-charged-over-coronavirus-face/
+https://cpj.org/2020/05/malaysian-journalist-faces-six-years-in-prison-ove/
+https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Malaysia
+https://rsf.org/en/thematique/internet?countries%5B75%5D=75
+https://www.hrw.org/news/2020/07/08/malaysia-stop-treating-criticism-crime
+https://www.theguardian.com/media/2020/jul/10/police-interrogate-five-australian-al-jazeera-journalists-accused-of-sedition-in-malaysia
 
 
 
 # Mali 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  Only this incident found: ''In Mali, the police briefly arrested a reporter for the L’Indépendant newspaper in connection with a report on the epidemic.'' 
 The article does not specify whether the report on the epidemic was about the nature of covid or the govenrment response. 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-
+ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/mali
+https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
 
 
 
 # Mauritania 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- No media limitations on covid19 nature coverage reported.
+ No media limitations on the nature of covid19 were reported.
 However, there have been concerns and doubts over the very few reported covid19 cases, and the overall claim of the government that everything is under control. 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://cpj.org/mideast/mauritania/
-https://www.middleeasteye.net/news/fear-more-cases-mauritania-claims-total-control-over-coronavirus-spread
+ https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://cpj.org/mideast/mauritania/
+https://www.middleeasteye.net/news/fear-more-cases-mauritania-claims-total-control-over-coronavirus-spread
 https://unpo.org/article/21867
 
 
 
 # Mexico 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- No evidence of limitations 
+ No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. 
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
 
 
 # Moldova 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- information on covid-19 on the government's website; no reports on limitations on media reporting on covid-19 found. 
+ I have found no reports on limitations on media reporting on covid-19 found. IPI reports that "the country's Security and Intelligence Service (SIS) also ordered 52 different websites allegedly disseminating fake news about the coronavirus to be blocked". The official press release says that the blocked websites are not officially registered news agencies and contains no other information on the content, therefore this is not considered in the coding. 
 
 *Sources*:
- https://ipi.media/moldova/
-https://rsf.org/en/moldova
-https://gov.md/ro/content/informatii-privind-coronavirus
+ https://gov.md/ro/content/informatii-privind-coronavirus
+https://ipi.media/european-media-freedom-suffers-covid-19-response/
+http://media-azi.md/en/stiri/doc-sis-ordered-block-52-anonymous-sites-allegedly-disseminate-fake-news-about-covid-19
+http://media-azi.md/sites/default/files/indicatii_executorii.pdf
 
 
 
 # Mongolia 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- Mongolia amended the Law on Administrative Offenses to include a paragraph stating that: ”Misleading the public or disseminating false information in the event of a disaster, catastrophe, communicable disease, accident or danger shall be punishable by a fine of 500 togrogs for a person or 5,000 togrogs for a legal person unless criminally punishable” (Section 5.13.1).
-As "false information" is poorly defined, and this law is being enacted and journalists and media outlets face the risk of being prosecuted for "disseminating false information", this is coded as 1, a de facto limitation on reporting on Covid-19. 
+ Mongolia amended the Law on Administrative Offenses to include a paragraph stating that: "Misleading the public or disseminating false information in the event of a disaster, catastrophe, communicable disease, accident or danger shall be punishable by a fine of 500 000 togrogs for a person or 5 000 000 togrogs for a legal person unless criminally punishable" (Section 5.13.1).
+As "false information" is poorly defined, and this law is being enacted and journalists and media outlets face the risk of being prosecuted for "disseminating false information", this is coded as 1, a de facto limitation on reporting on Covid-19.
+Since the law  is still in place, this is coded as 1 for both periods. 
 
 *Sources*:
- https://www.legalinfo.mn/law/details/12695
-https://rsf.org/en/thematique/internet?countries%5B77%5D=77
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Mongolia
-https://en.ejo.ch/ethics-quality/mongolia-coronavirus-and-the-media
+ https://www.legalinfo.mn/law/details/12695
+https://rsf.org/en/thematique/internet?countries%5B77%5D=77
+https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Mongolia
+https://en.ejo.ch/ethics-quality/mongolia-coronavirus-and-the-media
 https://www.gic.mn/public/docs/freedom_report/media_freedom_report_2019_en.pdf
 
 
 
 # Morocco 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- Apart from the de jure measures mentioned in melim variable, I havent found other specific limitations on media reporting. 
+ With the Emergency Laws, there are limitations in media reporting during the pandemic. Also, Morocco's media face judicial harassment, and many journalists and citizen-journalists continue to be imprisoned, in light of covid19.
 
 ''The decree enables the government to declare a ""state of health emergency"" and take exceptional measures to stop the spread of disease. Anyone who contravenes the decree that declares a health emergency, or incites others to contravene the decree through speech or threat uttered in a public place or meeting, written or printed materials, photos, posters, audiovisual or electronic communications, or any other means can be imprisoned one to three months or be fined 300 to 1,300 dirhams ($30-$130).''
 
-In a statement on March 22, the Moroccan Ministry of Culture, Youth, and Sports, which oversees the country’s press, ordered all print newspapers to suspend their publication and distribution until further notice, and encouraged print outlets to use alternative methods to deliver the news. (the statement is found in the link in arabic)" 
+In a statement on March 22, the Moroccan Ministry of Culture, Youth, and Sports, which oversees the country's press, ordered all print newspapers to suspend their publication and distribution until further notice, and encouraged print outlets to use alternative methods to deliver the news. (the statement is found in the link in arabic)" 
 
 *Sources*:
- https://cpj.org/2020/03/jordan-oman-morocco-and-yemen-suspend-newspaper-pr/
+ https://rsf.org/en/morocco-western-sahara
+https://www.amnesty.org/en/latest/news/2020/06/morocco-and-western-sahara-end-prosecution-of-activists-under-new-health-emergency-law/
+https://rsf.org/en/ranking
+https://cpj.org/2020/03/jordan-oman-morocco-and-yemen-suspend-newspaper-pr/
 http://www.mjs.gov.ma/sites/default/files/_blg_twqyf_lshf_lwrqy_.pdf
-
+
 https://www.voanews.com/science-health/coronavirus-outbreak/coronavirus-deals-blow-newspapers-north-africa
-
+
 https://ipi.media/covid19-media-freedom-monitoring/
-
+
 https://northafricapost.com/39243-covid-19-chases-newspapers-from-newsstands.html
 
 
 
 # Mozambique 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- No evidence of limitations 
+ No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. 
 
 *Sources*:
  https://rsf.org/en/countries
-
+
 https://ipi.media/covid19-media-freedom-monitoring/
 
 
 
 # Namibia 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
 
 *Sources*:
- https://cpj.org/africa/namibia/
-
-https://ipi.media/namibia/
-
+ https://cpj.org/africa/namibia/
+
+https://ipi.media/namibia/
+
 https://rsf.org/en/namibia
 
 
 
 # Nepal 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- I did not find any information related to this. 
+ There have been multiple instances of journalists being threatened and harassed in connection with their reporting on Covid-19. 
+1: Shital Sah was threatened and harassed after the broadcast of this program, on 13 May 2020. The program was on Covid-19 where he described the carelessness of the Covid-19 tracking centre set up by a hospital in Janakpur, Nepal. 
+
+2: Reporter Badri Yadav was attacked by soldiers after taking photos near a lockdown checkpoint on 13 May 2020 in the town of Siraha.
+
+These reported instances of violence against and attacks on journalists may result in de-facto limitation on reporting about the nature of the virus due to the fear of repercussions. 
 
 *Sources*:
- https://rsf.org/en/nepal
+ https://rsf.org/en/news/nepalese-journalists-threatened-attacked-and-censored-over-covid-19-coverage
 
-https://www.bbc.com/news/topics/cvenzmgyld1t/nepal
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/nepal/
+http://nepalpressfreedom.org/main/issue-single/1173
+
 
 https://ipi.media/covid19-media-freedom-monitoring/
 
 
 
 # Netherlands 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in The Netherlands,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B129%5D=129
+ https://rsf.org/en/thematique/internet?countries%5B129%5D=129
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Netherlands
 
 
 
 # New Zealand 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in New Zealand,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B80%5D=80
+ https://rsf.org/en/thematique/internet?countries%5B80%5D=80
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=New%20Zealand
 
 
 
 # Nicaragua 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- The government limits media reporting about covid-19 by not being transparent about the situation and not sharing the number of cases, deaths or tests. There are police officers by the hospitals to prevent journalists from filming or speaking with health professionals. Burrials are happening during the night, so citizens won't know about them. Additionally, the government is blocking independent media from participating in press conferences. 
+ The government is not transparent about the situation and does not share the real number of cases, deaths, or tests. There were police officers by the hospitals to prevent journalists from filming or speaking with health professionals. Several burials happened during the night, so citizens wouldn't know and journalists could not report about them. Additionally, the government has blocked independent media from participating in press conferences. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://www.voanoticias.com/centroamerica/periodistas-nicaraguenses-denuncian-aumento-de-censura-para-reportar-sobre-covid19
-https://100noticias.com.ni/nacionales/99459-periodistas-independientes-censura-coronavirus/
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
-https://www.bbc.com/mundo/noticias-america-latina-52716064
-https://apnews.com/8f21c9f6306d4fb1a1d01d81c3c020d9
-https://www.nytimes.com/es/2020/06/02/espanol/america-latina/nicaragua-coronavirus-muertes.html
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
-https://www.hrw.org/es/news/2020/06/23/nicaragua-despiden-medicos-por-criticar-el-manejo-de-la-covid-19
-https://www.bbc.com/mundo/noticias-america-latina-52716064
+ https://ipi.media/covid19-media-freedom-monitoring/
+https://www.voanoticias.com/centroamerica/periodistas-nicaraguenses-denuncian-aumento-de-censura-para-reportar-sobre-covid19
+https://100noticias.com.ni/nacionales/99459-periodistas-independientes-censura-coronavirus/
+https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+https://www.bbc.com/mundo/noticias-america-latina-52716064
+https://apnews.com/8f21c9f6306d4fb1a1d01d81c3c020d9
+https://www.nytimes.com/es/2020/06/02/espanol/america-latina/nicaragua-coronavirus-muertes.html
+https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+https://www.hrw.org/es/news/2020/06/23/nicaragua-despiden-medicos-por-criticar-el-manejo-de-la-covid-19
+https://www.bbc.com/mundo/noticias-america-latina-52716064
+https://www.dw.com/es/eeuu-condena-intimidaci%C3%B3n-a-prensa-independiente-en-nicaragua/a-54372266
+https://www.laprensa.com.ni/2020/09/08/nacionales/2718522-estos-son-los-ataques-contra-el-periodismo-independientes-en-lo-que-va-de-2020
+https://www.voanoticias.com/centroamerica/periodistas-denuncian-agresiones-durante-cobertura-de-pandemia-en-nicaragua
 
 
 
 # Niger 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- 'on March 25 2020, Kaka Touda, an independent journalist who publishes news reports on his Facebook and Twitter pages, In Niger’s capital Niamey, was arrested for his social media post about a suspected Coronavirus case in a local hospital, which filed a complaint against him. The hospital said in the complaint that the March 4 social media post posed a threat to law and order.''
+ ...''there has been little change in the overall environment for the media and journalists. In a regional context marked by the fight against terrorism, visits by journalists to the most dangerous areas are still limited, and it is very hard to get information about terrorism or migration. Both Niger's authorities and certain international organizations are responsible for the restrictions on the release of information.'' (RSF)
+
+''on March 25 2020, Kaka Touda, an independent journalist who publishes news reports on his Facebook and Twitter pages, In Niger's capital Niamey, was arrested for his social media post about a suspected Coronavirus case in a local hospital, which filed a complaint against him. The hospital said in the complaint that the March 4 social media post posed a threat to law and order.''
 Also: ''Niger police interrogate TV editor and journalist over interview, March 14, 2020: Judicial police in Niger summoned the editor-in-chief and a journalist of Television Labari, following an article the outlet published which interviewed a prominent veterinarian about the COVID-19 pandemic.'' 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
+ https://fr.unesco.org/news/information-desinformation-temps-covid-19-lunesco-renforce-capacites-journalistes-afrique
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.zimeye.net/2020/03/25/journalist-kaka-goni-arrested-in-niger-over-covid-19-report/
 https://globalvoices.org/2020/05/12/amid-covid-19-pandemic-in-niger-government-violates-whistleblowers-freedom-of-speech/#
+https://cpj.org/africa/niger/
+https://rsf.org/en/niger
 
 
 
 
 # Nigeria 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 3
+
+ 
 
 *Comments*:
- A reporter was arrested 
-and accused of publishing "false and damaging" information. Ebonyi state governor said that the reporter lied in a recent report he wrote on Lassa fever outbreak in the state. 
+ A reporter was arrested and accused of publishing "false and damaging" information. Ebonyi state governor said that the reporter lied in a recent report he wrote on Lassa fever outbreak in the state. 
 
 *Sources*:
  https://www.premiumtimesng.com/regional/ssouth-east/388686-coronavirus-law-used-to-arrest-nigerian-journalist-over-health-story.html
@@ -1353,12 +1936,21 @@ https://cpj.org/2020/04/nigerian-police-arrest-2-journalists-governor-canc/
 
 
 # North Korea 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- There has been no confirmed cases of Covid-19 in North Korea. However, the official newspaper there has called for “for absolute obedience to state anti-coronavirus guidelines without any exception, warning that punishment will follow if the rules are violated.”
+ 1: There has been no confirmed cases of Covid-19 in North Korea. However, the official newspaper there has called for “for absolute obedience to state anti-coronavirus guidelines without any exception, warning that punishment will follow if the rules are violated.”
 
-I have also gone through covid-19 related articles listed in the official North Korean newspaper (last link in sources). While the newspaper frequently discusses the number of cases in South Korea, there is no mention of there being any cases in North Korea. There is also no article or discussion on the nature of Covid-19. 
+2: I have gone through covid-19 related articles listed in the official North Korean newspaper (last link in sources). While the newspaper frequently discusses the number of cases in South Korea, there is no mention of there being any cases in North Korea. There is also no article or discussion on the nature of Covid-19. 
+
+3: Independent media and the consumption of foreign media is prohibited. The government regularly uses arrest, punishment of crimes and torture in custody and executions to maintain fear and control over the population. 
+
+The lack of information on the nature of Covid-19 coupled with the restrictions on the consumption of foreign media within the country suggests that there are de-facto limitations on the reporting about the nature of Covid-19. 
 
 *Sources*:
  https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
@@ -1370,9 +1962,20 @@ https://en.yna.co.kr/view/AEN20200331003100325?section=nk/nk
 http://www.rodong.rep.kp/en/index.php?strPageID=SF01_03_02&scnt=covid&listno=1
 
 
+https://www.hrw.org/world-report/2019/country-chapters/north-korea
+
+
+https://rsf.org/en/north-korea
+
+
 
 # North Macedonia 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  information on covid-19 on the government's website; no reports on limitations on media reporting on covid-19 found. 
@@ -1386,118 +1989,163 @@ https://rsf.org/en/north-macedonia
 
 
 # Norway 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Norway,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B126%5D=126
+ https://rsf.org/en/thematique/internet?countries%5B126%5D=126
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Norway
 
 
 
 # Oman 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- Due to de-jure measure (see melim), there is no printing, distribution and sale of newspapers, magazines and other publications of all kinds 
+ Due to de-jure measure (coded in melim), there was no printing, distribution and sale of newspapers, magazines and other publications of all kinds. Additionally, press freedom was already limited in Oman before the pandemic. 
 
 *Sources*:
- https://covid19.moh.gov.om/#/qarar
-https://phr.moh.gov.om/Documents/NEHR/qarars/en/Image.jpeg
-https://ipi.media/covid19-media-freedom-monitoring/
+ https://covid19.moh.gov.om/#/qarar
+https://phr.moh.gov.om/Documents/NEHR/qarars/en/Image.jpeg
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/oman
+https://ochroman.org/eng/2018/05/pressfreedom/
 
 
 
 # Pakistan 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- Did not find information on government placing de-facto limitations on media reporting about the nature of the virus. 
+ There have been no de-facto limitations on reporting on the nature of Covid-19 in Pakistan. 
 
 *Sources*:
- https://rsf.org/en/pakistan
+ https://ipi.media/covid19-media-freedom-monitoring/
 
-https://ipi.media/covid19-media-freedom-monitoring/
 
-https://www.bbc.com/news/topics/c008ql15vpyt/pakistan
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/pakistan/
+https://rsf.org/en/pakistan
 
 
 
 # Panama 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- No evidence of limitations 
+ No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. 
 
 *Sources*:
- http://www.minsa.gob.pa/destacado/coronavirus-covid-19
+ http://www.minsa.gob.pa/destacado/coronavirus-covid-19
 https://rsf.org/en/countries
-
+
 https://ipi.media/covid19-media-freedom-monitoring/
 
 
 
 # Papua New Guinea 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- The national police commissioner has stated that spreading misinformation on Covid-19 (i.e., its nature, prevalence and the like) will be arrested and charged under Cyber Crime Act. Since what such disinformation constitutes is unclear, and it opens up for journalists being prosecuted for reporting on Covid-19 that is not in line with the governments statements, this constitutes a de facto limitation on Covid-19 and is coded as 1. 
+ The national police commissioner has stated that spreading misinformation on Covid-19 (i.e., its nature, prevalence and the like) will be arrested and charged under Cyber Crime Act. Since what such disinformation constitutes is unclear, and it opens up for journalists being prosecuted for reporting on Covid-19 that is not in line with the governments statements. After the passing of the National Pandemic Act, PNG also with vague wording criminalized false and misleading information on the public health emergency, which clearly constitutes a limitation to reporting on Covid-19. This is therefore coded as 1. 
 
 *Sources*:
  https://www.coronanet-project.org/data/reports/finished/20200620_Papua.html
 https://www.rnz.co.nz/international/pacific-news/413563/png-controller-warns-against-spreading-of-false-info
 https://rsf.org/en/thematique/internet?countries%5B82%5D=82
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Papua%20New%20Guinea
+http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
 
 
 
 # Paraguay 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- No evidence of limitations 
+ No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. 
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
 
 
 # Peru 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- No evidence of limitations, the government has an official covid website with information on the nature of covid and is transparent about it with citizens and the media 
+ No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. 
 
 *Sources*:
- https://www.gob.pe/coronavirus
-https://rsf.org/en/tracker19-Coronavirus-Covid19
+ https://www.gob.pe/coronavirus
+https://rsf.org/en/tracker19-Coronavirus-Covid19
 https://ipi.media/covid19-media-freedom-monitoring/
 
 
 
 # Philippines 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- I did not find any information related to this. 
+ Section 6(6) of the “Bayanihan to Heal As One Act” prohibits the spreading of “false information on the Covid-19 crisis”. This has been used against two journalists for the alleged spread of fake reports on Covid-19. 
 
 *Sources*:
- https://rsf.org/en/philippines
+ https://rsf.org/en/news/two-philippine-journalists-face-two-months-prison-coronavirus-reporting
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/philippines/
+https://www.cnnphilippines.com/news/2020/3/28/cavite-town-mayor-charges-fake-COVID-19-reports.html
 
 
 
 # Poland 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  information on covid-19 on the government's website; no reports on limitations on media reporting on covid-19 found. On 10 June, two activists were detained following a poster campaign on covid-19 statistics, but this is not coded since they are not journalists. 
@@ -1510,48 +2158,72 @@ https://www.amnesty.org/en/latest/news/2020/06/poland-activists-at-risk-of-10-ye
 
 
 # Portugal 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- No evidence of limitations 
+ No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. 
 
 *Sources*:
  https://rsf.org/en/countries
-
+
 https://ipi.media/covid19-media-freedom-monitoring/
 
 
 
 # Qatar 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. 
+ Coded as 1 due to wide media censorship. According to Reporters without Borders, Qatar has a "draconian system of censorship" and reporting on sensitive topics can result in imprisonment. Freedom House reports that all journalists "practice a degree of self-censorship", so it is likely that journalists faced limitations on reporting on Covid-19. 
 
 *Sources*:
- https://covid19.moph.gov.qa/EN/Pages/default.aspx
-https://ipi.media/qatar/
-https://rsf.org/en/qatar
+ https://rsf.org/en/qatar
+https://freedomhouse.org/country/qatar/freedom-world/2020
 
 
 
 # Republic of the Congo 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- State TV anchor in Congo suspended after asking a minister 'inconvenient question'' about COVID-19 pandemic
-''Rocil Otouna was discreetly sidelined as news anchor after putting some difficult questions about the coronavirus crisis to the justice minister in an interview two weeks ago. Otouna has not been seen on the air since 30 April, when he asked the minister about the lack of information about coronavirus victims, including those currently ill and those who have recovered, and about contradictions between the government’s figures and those given by the president on both the caseload and the lockdown’s economic and social consequences.'' 
+ (RSF) ''Journalists pressured to censor themselves: 
+The country seems pluralistic but this is just a facade. There is a score of privately-owned TV stations, a similar number of newspapers and around 40 radio stations, but all are under strong pressure to censor themselves and many are owned by government allies. Since 2014, several journalists have been threatened, forced to flee the country or summarily deported for criticizing the government or inviting opposition politicians to express their views. During the 2016 presidential election, the Internet was disconnected to prevent journalists and activists from verifying and challenging the results.''
+
+State TV anchor in Congo suspended after asking a minister 'inconvenient question'' about COVID-19 pandemic
+''Rocil Otouna was discreetly sidelined as news anchor after putting some difficult questions about the coronavirus crisis to the justice minister in an interview two weeks ago. Otouna has not been seen on the air since 30 April, when he asked the minister about the lack of information about coronavirus victims, including those currently ill and those who have recovered, and about contradictions between the government's figures and those given by the president on both the caseload and the lockdown's economic and social consequences.'' 
 
 *Sources*:
- https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://rsf.org/en/news/republic-congo-state-tv-urged-reinstate-news-anchor-sidelined-after-coronavirus-interview
-https://ipi.media/covid19-media-freedom-monitoring/
+ https://rsf.org/en/congo-brazzaville
+https://rsf.org/en/rsf_search?key=congo
+https://rsf.org/en/news/republic-congo-state-tv-urged-reinstate-news-anchor-sidelined-after-coronavirus-interview
+https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/africa/republic-of-congo/
 https://lesechos-congobrazza.com/societe/6960-congo-affaire-rocil-otouna-le-president-du-conseil-superieur-de-la-liberte-de-communication-ouvre-une-procedure-juridique-et-administrative
 
 
 
 # Romania 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  information on covid-19 on the government's website; no reports on limitations on media reporting on covid-19 found. RSF reports that two websites were blocked based on "fake news" legislation (see melim) and Bucuresti FM, a radio, had to delete an article from the website (not considered in the coding since it is unclear if the information was indeed false). 
@@ -1564,64 +2236,91 @@ https://rsf.org/en/news/repressive-laws-prosecutions-attacks-europe-fails-shield
 
 
 # Russia 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- Despite having an official website with information on covid-19, the government has censored reports questitioning official statistics (prevalence). 
+ Despite having an official website with information on covid-19, the government has censored reports questitioning official statistics (prevalence).
+
+According to IPI, "On March 19, the country’s media regulatory agency, Roskomnadzor, which has a history of censoring the independent press, demanded that more than 20 media outlets remove content it deemed “inaccurate, socially significant information” about the coronavirus from their websites. Among them was radio station Echo of Moscow, which was pressured to remove the recording and transcript of an interview with a disease expert who criticized the government’s handling of the health crisis." Moreover, "media outlets will also be fined up to €117,000 if they publish disinformation about the outbreak, raising further concerns that the broadly defined law will be used to target media that criticize the government’s response to the outbreak." Based on this information (also see melim), merepfact is coded as 1 during both March-June and July-September 2020. 
 
 *Sources*:
  https://xn--80aesfpebagmfblc0a.xn--p1ai/
 https://ipi.media/european-media-freedom-suffers-covid-19-response/
+https://ipi.media/russian-journalists-face-continued-fines-and-probes-amid-creeping-censorship/
 
 
 
 # Rwanda 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  No incidents in relation to coverage of the nature of covid19. 
 
+But the media system is facing cernsorship: ..''censorship is ubiquitous and self-censorship is widely used to avoid running afoul of the regime. Foreign journalists are often unable to obtain the visas and accreditation they need to report in Rwanda. Despite a new media law in 2010 and efforts to develop Internet connections throughout the country, the legislation is very oppressive. An overhaul of the penal code in 2018 did not reform prison sentences for journalists convicted of insult or defamation. The spectre of the 1994 genocide is still used to brand media critical of the government as “divisionist.” In 2015, the government banned BBC radio broadcasting in the local Kinyarwanda language after a BBC TV documentary referred to the deaths that took place during the advance on Kigali in 1994 by Rwandan Patriotic Front rebels led by Paul Kagame, now Rwanda’s president. Kagame’s reelection in August 2017, after a constitutional amendment allowed him to run for a third term, means that authoritarianism and censorship are likely to continue for the foreseeable future.'' 
+
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-http://www.rfi.fr/en/africa/20200430-covid-19-making-media-africa-great-lakes-region-sick-tanzania-rwanda-uganda
-https://twitter.com/RIB_Rw/status/1250480771229499392?s=20
-https://www.hrw.org/news/2020/04/24/rwanda-lockdown-arrests-abuses-surge
-https://cpj.org/2020/05/rwandan-journalist-media-worker-detained-since-mid/
-https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
+ https://rsf.org/en/rwanda
+https://ipi.media/covid19-media-freedom-monitoring/
+https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
 http://rwandansrights.org/rwanda-the-coronavirus-pandemic-is-not-an-excuse-to-trample-on-freedom-of-press/
 
 
 
-
 # Saudi Arabia 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- There are no ndications that de facto limitations on media reporting about Covid-19 has been imposed beyond the already existing strong limitations on the media in Saudi Arabia. Consequently, the emergency measures has not enacted any further de facto limitations on media reporting, including the reporting on Covid-19. 
+ While no reports have been found on specific instances or measures of censoring or other limitations of the media reporting on Covid-19, the already existing, strong limitations on media in Saudi Arabia should constitute a significant de facto limitation on them reporting on Covid-19. This is therefore coded as 1 for both periods. 
 
 *Sources*:
- https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/thematique/internet?countries%5B153%5D=153
+ https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
+https://rsf.org/en/thematique/internet?countries%5B153%5D=153
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Saudi%20Arabia
 
 
 
 # Senegal 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  No media limitations on covid19 nature coverage reported. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
+ https://rsf.org/en/senegal
+https://www.acaps.org/covid19-government-measures-dataset
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/tracker19-Coronavirus-Covid19
 
 
 
 
 # Serbia 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. 
@@ -1634,10 +2333,15 @@ https://ipi.media/serbia/
 
 
 # Sierra Leone 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- the government published information on covid-19; no reports on limitations on media reporting on covid-19 found. 
+ The government published information on covid-19; no reports on limitations on media reporting on covid-19 found. 
 
 *Sources*:
  https://statehouse.gov.sl/wp-content/uploads/2020/03/Statement-by-His-Excellency-Dr-Julius-Maada-Bio-President-of-the-Republic-of-Sierra-Leone-on-Enhanced-Public-Health-and-Safety-Measures-to-Prevent-Coronavirus.-Freetown-Sierra-Leone-18-March-2020.pdf
@@ -1647,22 +2351,38 @@ https://ipi.media/sierra-leone/
 
 
 # Singapore 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- I did not find information suggesting the government has placed de-facto limitations on media reporting about the nature of the Covid-19 virus. 
+ The Protection from Online Falsehoods and Manipulation Act (POFMA) was introduced enacted on 1 April 2019. This law allows members of the government to control information circulating online. The law allows every government minister to issue directives to censor, correct or block access to online content that the government deems to be the “in the public interest”. 
+
+This law has been used to correct several posts that have been made by the public on both the prevalence and to critic the government’s response to Covid-19.
+
+1: POFMA was invoked against a post from The Straits Times Review - an alternative online media platform. A correction direction was issued to the website’s Facebook page for its “multiple false statements”. The post had claimed that the health minister had ordered the reported numbers to be halved to minimise public panic. 
 
 *Sources*:
- https://rsf.org/en/singapore
+ https://www.straitstimes.com/singapore/pofma-invoked-against-website-that-claimed-cover-up-on-case-numbers
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/singapore/
 
-https://www.hrw.org/asia/singapore
+https://www.pofmaoffice.gov.sg/regulations/protection-from-online-falsehoods-and-manipulation-act/
+
+
+https://rsf.org/en/news/rsf-explains-why-singapores-anti-fake-news-bill-terrible
 
 
 
 # Slovakia 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. 
@@ -1677,7 +2397,12 @@ https://rsf.org/en/slovakia
 
 
 # Slovenia 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. 
@@ -1692,32 +2417,52 @@ https://cpj.org/europe/slovenia/
 
 
 # Somalia 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- Journalists who 
-reported on the spread of the virus or wrote stories about the impact of the virus—such as a shortage of masks and sanitizers in the local markets—were either blocked or threatened. 
+ "Journalists who reported on the spread of the virus or wrote stories about the impact of the virus - such as a shortage of masks and sanitizers in the local markets - were either blocked or threatened." 
 
 *Sources*:
  https://www.hrw.org/news/2020/05/02/somalia-spate-arrests-intimidation-journalists
 
 https://cpj.org/2020/04/somali-journalist-abdalle-ahmed-mumin-says-there-i/
 
+https://freedomhouse.org/country/somalia/freedom-world/2020
+
 
 
 # South Africa 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
 
 *Sources*:
-*No source provided*
+ https://cpj.org/africa/south-africa/
+
+https://rsf.org/en/south-africa
+
+https://ipi.media/south-africa/
 
 
 
 # South Korea 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  I did not find any information related to this. 
@@ -1737,37 +2482,54 @@ https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
 
 
 # South Sudan 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
+ The attempts of the government of South Sudan to censor media in gerneral are direct and routine. 
 
 *Sources*:
- https://ipi.media/south-sudan/
-
-https://rsf.org/en/south-sudan
-
-https://cpj.org/africa/south-sudan/
-
-https://www.bbc.com/news/topics/c302m85q54lt/south-sudan
+ https://freedomhouse.org/country/south-sudan/freedom-world/2020
+
+https://www.hrw.org/world-report/2020/country-chapters/south-sudan
+
+https://www.dw.com/en/south-sudans-independent-media-under-pressure/a-49521449
+
+https://rsf.org/en/south-sudan
+
+https://doi.org/10.23696/vdemds20
 
 
 
 # Spain 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- No evidence of limitations 
+ No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. 
 
 *Sources*:
  https://rsf.org/en/countries
-
+
 https://ipi.media/covid19-media-freedom-monitoring/
 
 
 
 # Sri Lanka 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  I did not find information related to this. 
@@ -1787,68 +2549,66 @@ https://www.hrw.org/asia/sri-lanka
 
 
 # Sudan 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
 
 *Sources*:
- https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
-
-https://ipi.media/sudan/
-
-https://rsf.org/en/thematique/internet?countries%5B48%5D=48
-
-https://cpj.org/2005/06/sudan/
+ https://rsf.org/en/sudan
+
+https://en.unesco.org/news/media-reform-sudan-beginning-new-era-freedom-expression
+
+https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
 
 
 
 # Sweden 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Sweden,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B141%5D=141
+ https://rsf.org/en/thematique/internet?countries%5B141%5D=141
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Sweden
 
 
 
 # Switzerland 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Switzerland,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B142%5D=142
+ https://rsf.org/en/thematique/internet?countries%5B142%5D=142
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
 
 
 
-# Syria 
-*Answer*: 1 
-
-*Comments*:
- There have been claims by many observers, experts, and also doctors on the ground about the prevalence of covid19 in Syria muh earlier than the date the government announced its first case (march 22). In addition, very little reporting and information is disseminated in regards to the medical aspects of the virus. 
-
-*Sources*:
- https://coronanet-project.org/data/reports/finished/20200507_Syria.html;
-
-http://eprints.lse.ac.uk/103841/1/CRP_covid_19_in_Syria_policy_memo_published.pdf?fbclid=IwAR0-7fK6LGG9Y9jokt6XdM3Yxvubh4IFvcrmqZ4RM5JNIQALs7kvJT3qw70;
-
-https://www.al-monitor.com/pulse/originals/2020/03/syria-coronavirus-who-pandemic-denial-cases-detention-camps.html;
-
-https://www.reuters.com/article/us-health-coronavirus-syria/syria-insisting-it-is-coronavirus-free-takes-broad-steps-to-prevent-spread-idUSKBN2110SA;
-https://reliefweb.int/sites/reliefweb.int/files/resources/Syria_COVID-19_Humanitarian%20Update%20No%2011_30May2020_FINAL.pdf;
-
-
-
-
-
 # Taiwan 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
  Article 14 of the Special Act states ‘Individuals who disseminate rumors or false information regarding the epidemic conditions of severe pneumonia with novel pathogens, causing damage to the public or others, shall be sentenced to imprisonment for not more than three years or criminal detention, or in lieu thereof or in addition thereto, a fine of no more than NT$3 million’.  However I have not found instances of this law being used 
@@ -1865,40 +2625,61 @@ https://rsf.org/en/taiwan
 
 
 # Tajikistan 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- reports on limitations on media reporting on covid-19 found. 
+ According to Reporters without Borders, "Ranked 161st out of 180 countries in RSF's 2020 World Press Freedom Index, Tajikistan has fallen 45 places since 2015, above all because of massive online censorship and harassment of the few independent journalists who are still trying to work." Media reporting has been further limited due to new regulations on "false information" (see melim). 
 
 *Sources*:
  https://rsf.org/en/news/coronavirus-crisis-makes-reporting-even-harder-tajikistan
+https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B702%5D&covid19=1
+
+https://rsf.org/en/news/tajik-reporters-assailants-get-nothing-more-fines
+https://www.usagm.gov/2020/08/26/journalists-in-tajikistan-denied-accreditation-again/#:~:text=Again.,-August%2026%2C%202020&text=In%20Tajikistan%2C%20the%20Ministry%20of,able%20to%20do%20their%20work.
 
 
 
 # Tanzania 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
+ Kwanza Online TV was banned for 11 month after reposting a health alert from the U.S. embassy in Tanzania.
+
+On 20 April, a journalist was suspended after reporting on Covid-19.
+
+On 10 August, the Tanzanian government announced that broadcasting foreign content would be banned without government permission. This includes content about Covid-19. The government effectively controls the information that is published. 
 
 *Sources*:
- https://ipi.media/tanzania/
-
-https://rsf.org/en/tanzania
-
-https://www.bbc.com/news/world-africa-52519853
-
-https://cpj.org/africa/tanzania/
+ https://www.hrw.org/news/2020/09/02/tanzania-freedoms-threatened-ahead-elections
+
+https://cpj.org/2020/07/tanzania-bans-kwanza-online-tv-for-11-months-citing-misleading-instagram-post-on-covid-19/
+
+https://www.amnesty.org/en/latest/news/2020/04/tanzania-authorities-must-end-crackdown-on-journalists-reporting-on-covid19/
+
+https://rsf.org/en/news/tanzanian-reporter-banned-six-months-coronavirus-coverage
 
 
 
 # Thailand 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- I was not able to find instances of de-facto limitations on media reporting on the nature of the virus. 
-
-However, on 23 March 2020 Thai authorities arrested Danai Ussama, a Thai citizen shortly after his return to Thailand from Spain. He reported on Facebook that no one on his flight was screened for Covid-19 upon landing at Phuket airport. He was charged with ““putting into a computer system false computer data in a manner that is likely to cause panic in the public”. 
+ On 23 March 2020 Thai authorities arrested Danai Ussama, a Thai citizen shortly after his return to Thailand from Spain. He reported on Facebook that no one on his flight was screened for Covid-19 upon landing at Phuket airport. He was charged with ““putting into a computer system false computer data in a manner that is likely to cause panic in the public”. 
 
 *Sources*:
  https://rsf.org/en/news/thailand-uses-covid-19-restrict-freedom-inform
@@ -1908,93 +2689,141 @@ https://www.tlhr2014.com/?p=16636&lang=en
 
 
 # The Gambia 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
 
 *Sources*:
- https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
-
-https://ipi.media/gambia/
-
-https://cpj.org/africa/gambia/
-
-https://rsf.org/en/gambia
+ https://ipi.media/gambia/
+
+https://cpj.org/africa/gambia/
+
+https://rsf.org/en/gambia
+
+https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
 
 
 
 # Togo 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- No media limitations on covid19 nature coverage found. 
+ There are reports of attempts at censoring journalists who investigate corruption cases, but explicit evidence of limitations on reporting on covid19 could not be found (1, 2, 3).
+ 
 
 *Sources*:
- https://presidence.gouv.tg/2020/04/01/adresse-du-chef-de-letat-sem-faure-essozimna-gnassingbe-au-peuple-togolais-sur-la-riposte-nationale-contre-le-covid-19/
-https://www.garda.com/crisis24/news-alerts/328466/togo-president-declares-three-month-health-emergency-and-nationwide-curfew-from-2-april-update-3
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+ https://www.lemonde.fr/afrique/article/2020/03/27/au-togo-deux-journaux-d-opposition-suspendus-apres-une-plainte-de-la-france_6034634_3212.html
+(1)
+https://rsf.org/en/news/convicting-petrolgate-journalist-defamation-would-be-disastrous-rsf-says
+(2)
+https://www.aa.com.tr/fr/afrique/togo-le-syndicat-des-journalistes-condamne-la-suspension-de-deux-journaux-/1783254
+(3)
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://rsf.org/en/togo
+
 
 
 
 # Tunisia 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
 
 *Sources*:
- https://www.bbc.com/news/topics/cwlw3xz0lmvt/tunisia
-
-https://ipi.media/tunisia/
-
-https://rsf.org/en/thematique/internet?countries%5B171%5D=171
+ https://ipi.media/tunisia/
+
+https://rsf.org/en/thematique/internet?countries%5B171%5D=171
+
+https://cpj.org/mideast/tunisia/
+
+https://www.bbc.com/news/topics/cwlw3xz0lmvt/tunisia
 
 
 
 # Turkey 
-*Answer*: 1 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- Both Amnesty International and Reporters without borders report that several journalists have been arrested and charged, and media outlets being censored, as a result of them reporting on Covid-19 and how its spreading in Turkey. 
+ Both Amnesty International and Reporters without borders report that several journalists have been arrested and charged, and media outlets being censored, as a result of them reporting on Covid-19 and how its spreading in Turkey. While these reports are of events occurring in the previous period, this constitutes a de facto limitation in the current period as well, since it sends a clear message what happens if media outlets and journalists report news on Covid-19 that the government does not wish them to report. Therefore, this is coded as 1 for both periods. 
 
 *Sources*:
- ‹https://www.amnesty.org/en/latest/news/2020/05/turkey-covid19-pandemic-increases-climate-of-fear-for-journalists/
+ https://www.amnesty.org/en/latest/news/2020/05/turkey-covid19-pandemic-increases-climate-of-fear-for-journalists/
 https://rsf.org/en/news/turkish-journalists-arrested-reporting-covid-19-cases
+https://rsf.org/en/news/nearly-half-un-member-countries-have-obstructed-coronavirus-coverage
+https://www.amnesty.org/en/latest/campaigns/2020/06/turkey-stifling-free-expression-during-the-covid19-pandemic/
+https://www.dusun-think.net/wp-content/uploads/2020/08/Freedom-of-Expression-Violations-in-Turkey-Report-July-2020.pdf
+https://www.ifj.org/media-centre/news/detail/category/press-releases/article/covid-19-pandemic-threatens-press-freedom.html
 
 
 
 # Turkmenistan 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- No information found, likely because of wide censorship of domestic media outlets 
+ Coded as 1 due to wide censorship of domestic media outlets. According to Reporters without Borders, "Ranked last in RSF's 2019 World Press Freedom Index, Turkmenistan is one of the world's most closed countries. The government controls all domestic media and continues to step up its persecution of those who clandestinely report for exile media outlets. The few Internet users can only access a highly-censored version of the Internet, usually in cafes where they must first present identification."
+
+According to Human Rights Watch, "The Turkmen government routinely retaliates against independent reporting inside the country." 
 
 *Sources*:
  https://rsf.org/en/news/coronavirus-limits-turkmenistan
-https://ipi.media/turkmenistan/
+https://www.hrw.org/news/2020/06/27/turkmenistan-denies-apparent-covid-19-outbreak
+https://rsf.org/en/news/coronavirus-limits-turkmenistan
+https://cpj.org/reports/2019/09/10-most-censored-eritrea-north-korea-turkmenistan-journalist/
 
 
 
 # Uganda 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
+ A radio journalist was arrested after he disscused on his programm the origins of the coronavirus and the lockdown measures. 
 
 *Sources*:
- https://rsf.org/en/uganda
-
-https://ipi.media/uganda/
-
-https://www.bbc.com/news/topics/cmj34zmwme4t/uganda
+ https://cpj.org/2020/06/local-officials-arrested-attacked-and-confiscated-equipment-of-radio-journalists-in-western-uganda/
 
 
 
 # Ukraine 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. 
@@ -2006,151 +2835,207 @@ https://ipi.media/ukraine/
 
 
 # United Arab Emirates 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
+ Through the Publication and Publishing Act of 1980, the government regulates the media and does not allow criticism of the government. 
 
 *Sources*:
- https://ipi.media/united-arab-emirates/
-
-https://cpj.org/mideast/uae/
-
-https://rsf.org/en/united-arab-emirates
-
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/united-arab-emirates/
-
-https://www.hrw.org/middle-east/n-africa/united-arab-emirates
-
-https://www.bbc.com/news/topics/ce1qrvlexjet/united-arab-emirates
+ https://freedomhouse.org/country/united-arab-emirates/freedom-world/2020
+
+https://www.ilo.org/dyn/natlex/docs/WEBTEXT/62110/65257/E80ARE01.htm#c8
+
+https://ipi.media/united-arab-emirates/
+
+https://cpj.org/mideast/uae/
+
+https://rsf.org/en/united-arab-emirates
+
+https://www.amnesty.org/en/countries/middle-east-and-north-africa/united-arab-emirates/
+
+https://www.hrw.org/middle-east/n-africa/united-arab-emirates
+
+https://www.bbc.com/news/topics/ce1qrvlexjet/united-arab-emirates
 
 
 
 
 # United Kingdom 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in UK,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B135%5D=135
+ https://rsf.org/en/thematique/internet?countries%5B135%5D=135
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
 
 
 
 # United States of America 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in the U.S,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://www.google.com/search?client=safari&rls=en&q=restrcting+press+freedom+U.S.+Covid-19&ie=UTF-8&oe=UTF-8
-https://pressfreedomtracker.us
-https://ipi.media/ipi-condemns-attacks-on-journalists-covering-u-s-protests-unrest/
-https://ipi.media/?s=United+States+of+America
-https://rsf.org/en/news/us-rsf-calls-trump-administration-allow-free-flow-information-coronavirus
+ https://www.google.com/search?client=safari&rls=en&q=restrcting+press+freedom+U.S.+Covid-19&ie=UTF-8&oe=UTF-8
+https://pressfreedomtracker.us
+https://ipi.media/ipi-condemns-attacks-on-journalists-covering-u-s-protests-unrest/
+https://ipi.media/?s=United+States+of+America
+https://rsf.org/en/news/us-rsf-calls-trump-administration-allow-free-flow-information-coronavirus
 
 
 
 
 # Uruguay 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- No evidence of limitations 
+ No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. 
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+
+https://ipi.media/covid19-media-freedom-monitoring/
+https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
 
 
 # Uzbekistan 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- official website with information on covid-19 
+ The parliament passed ammendments to the Criminal Code (Article 244) on 23 March 2020 making spreading false information about infections punishable with a fine or imprisonment, which puts limits on media reporting on covid-19. 
 
 *Sources*:
- https://coronavirus.uz/ru
-https://rsf.org/en/uzbekistan
+ https://lex.uz/ru/docs/4774974
+https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
 
 
 
 # Venezuela 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- No evidence of limitations, the government has an official covid website with information on the nature of covid and is transparent about it with citizens and the media 
+ According to the Human Rights Watch: "Authorities have harassed, detained, and prosecuted political opponents, including several legislators, journalists who publish critical information, health workers who criticize the government’s handling of the pandemic (...). Security forces have also confiscated cellphones and laptops from journalists and forced them to erase photos or videos". 
+A OHCHR report states that they "documented eight cases of security forces, local authorities, and armed colectivos intimidating or impeding journalists from covering the health crisis, as well as six journalists and media workers arrested while reporting on COVID-19 cases." 
+Additionally, press freedom in Venezuela was already limited before the covid-19 pandemic. 
 
 *Sources*:
- https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
-https://covid19.patria.org.ve/prevencion-control-covid19/descripcion-general-coronavirus/
+ https://www.dw.com/es/venezuela-ong-denuncia-detenciones-por-informar-sobre-el-coronavirus/a-53366370
+
+https://www.americasquarterly.org/article/how-maduro-is-using-covid-19-to-silence-his-opponents-even-further/
+https://www.hrw.org/news/2020/08/28/venezuela-police-state-lashes-out-amid-covid-19
+https://rsf.org/en/venezuela
+https://www.ohchr.org/Documents/Countries/VE/A_HRC_44_20_AdvanceUneditedVersion.pdf
 
 
 
 # Vietnam 
-*Answer*: 0 
+*Time period: Mar/Jun*: 1
+
+ 
+*Time period: Jul/Sep*: 1
+
+ 
 
 *Comments*:
- I did not find any information related to this. 
+ Vietnam's media is heavily censored and follows the communist party's orders. The sources of independently reported information are bloggers and independent journalists who are aubjected to harsh forms of punishment. This would make it challenging for journalists to be critical of the government's response to the pandemic.
+
+A new decree was introduced in Vietnam on 15 April 2020 introducing fines for the dissemination of ‘fake news’ or rumours on social media. According to the decree, fines are imposed on people who use social media to share false, untruthful, distorted or slanderous information.  At least two Facebook users have been given criminal sentences for sharing information deemed to be fake about the virus. The criminal sentences have been up to nine months detention and fines over USD$1000. 
+
+An example of a post that warranted punishment was a person who made a post on Facebook saying Ho Chi Minh City would be locked down for 14 days from March 28. He was fined by the government who claimed that the information was false. Even though the government made a similar announcement a few days later.
+
+These restrictions may also contribute to a climate of fear and self-censorship in reporting. 
 
 *Sources*:
- https://rsf.org/en/vietnam
-
-https://www.hrw.org/asia/vietnam
+ https://www.reuters.com/article/us-health-coronavirus-vietnam-security/vietnam-introduces-fake-news-fines-for-coronavirus-misinformation-idUSKCN21X0EB
 
 
-https://www.bbc.com/news/topics/c207p54m4n2t/vietnam
+https://ipi.media/covid19-media-freedom-monitoring/
 
 
+https://www.amnesty.org/en/latest/news/2020/04/viet-nam-facebook-cease-complicity-government-censorship/
 
-# Yemen 
-*Answer*: 0 
+https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25920&LangID=E
 
-*Comments*:
- No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
 
-*Sources*:
- https://rsf.org/en/thematique/internet?countries%5B172%5D=172
+https://rsf.org/en/vietnam
 
-https://ipi.media/yemen/
+
+https://www.theregister.com/2020/04/02/vietnam_bans_posting_fake_news/
 
 
 
 # Zambia 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
- The Zambian government has revoked a licence for one of the country’s most popular TV stations after they refused to air government coronavirus-awareness adverts for free. However, this is not a limitation on how the media can report on coronavirus facts, so it does not affect the score on this variable. 
+ The Zambian government has revoked a licence for one of the country's most popular TV stations after they refused to air government coronavirus-awareness adverts for free. However, this is not a limitation on how the media can report on coronavirus facts, so it does not affect the score on this variable. 
 
 *Sources*:
- https://www.bbc.com/news/topics/cdl8n2edezlt/zambia
-
-https://cpj.org/2020/04/zambia-cancels-broadcaster-prime-tvs-license-polic/
-
-https://ipi.media/zambia-cancels-license-of-private-tv-channel-over-covid-19-ad-dispute/
-
-https://www.amnesty.org/download/Documents/AFR6321402020ENGLISH.pdf
+ https://cpj.org/2020/04/zambia-cancels-broadcaster-prime-tvs-license-polic/
+
+https://ipi.media/zambia-cancels-license-of-private-tv-channel-over-covid-19-ad-dispute/
+
+https://www.amnesty.org/download/Documents/AFR6321402020ENGLISH.pdf
+
+https://www.bbc.com/news/topics/cdl8n2edezlt/zambia
 
 
 
 # Zimbabwe 
-*Answer*: 0 
+*Time period: Mar/Jun*: 0
+
+ 
+*Time period: Jul/Sep*: 0
+
+ 
 
 *Comments*:
  No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
 
 *Sources*:
- https://www.bbc.com/news/topics/crr7mlg0rpvt/zimbabwe
-
-https://cpj.org/africa/zimbabwe/
-
-https://rsf.org/en/thematique/internet?countries%5B52%5D=52
-
+ https://www.bbc.com/news/topics/crr7mlg0rpvt/zimbabwe
+
+https://cpj.org/africa/zimbabwe/
+
+https://rsf.org/en/thematique/internet?countries%5B52%5D=52
+
 https://ipi.media/zimbabwe/

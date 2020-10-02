@@ -50,15 +50,17 @@
 
 
 # Argentina 
-*Answer*: The judiciary was on "extraordinary recess" from 2020-03-20. In some provinces, they returned to work on 2020-06-02, others are still on recess. It took the Congress almost two months to begin online sessions and in the meantime all decisions were taken by the Executive. 
+*Answer*: The judiciary was on "extraordinary recess" from March 20. In each province they returned to activies at a different time, between June and July. It took the Congress almost two months to begin online sessions and in the meantime all decisions were taken by the Executive. 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  https://www.bbc.com/mundo/noticias-america-latina-52914804
-
+
 https://www.clarin.com/politica/coronavirus-argentina-corte-atenuo-feria-judicial-varias-jurisdicciones-interior-pais_0_-ohSWaDDx.html
+
+https://www.csjn.gov.ar/sentencias-acordadas-y-resoluciones/acordadas-de-la-corte-suprema
 
 
 
@@ -66,7 +68,7 @@ https://www.clarin.com/politica/coronavirus-argentina-corte-atenuo-feria-judicia
 *Answer*: 1) new survelliance law 2) postponed constitutional referendum 
 
 *Comments*:
- 1) "Armenia’s parliament on March 31, 2020 passed amendments giving the authorities very broad surveillance powers to use cellphone data for tracking coronavirus cases, Human Rights Watch said today. The amendments impose restrictions on the right to privacy and allow the authorities access to confidential medical information related to people exposed to the virus." 2) referendum (initially planned for 5 April 2020) to terminate mandates of sitting constitutional judges 
+*No comment provided* 
 
 *Sources*:
  1)
@@ -101,7 +103,7 @@ https://www.idea.int/news-media/multimedia-reports/global-overview-covid-19-impa
 
 
 # Azerbaijan 
-*Answer*: detention of opposition leaders 
+*Answer*: Arrests of opposition leaders and activists in March, April and July 2020 
 
 *Comments*:
 *No comment provided* 
@@ -110,6 +112,7 @@ https://www.idea.int/news-media/multimedia-reports/global-overview-covid-19-impa
  https://www.hrw.org/news/2020/03/25/azerbaijan-opposition-leader-arrested
 https://www.hrw.org/news/2020/04/16/azerbaijan-crackdown-critics-amid-pandemic
 https://en.president.az/articles/36212
+https://www.hrw.org/news/2020/08/19/azerbaijan-relentless-crackdown-opposition
 
 
 
@@ -162,13 +165,15 @@ https://en.president.az/articles/36212
 
 
 # Bolivia 
-*Answer*: The general elections scheduled to 2020-05-03 were postponed to 2020-09-06, and the government is talking about moving the date further. 
+*Answer*: The general elections scheduled to 2020-05-03 were postponed twice and are now supposed to happen on 2020-10-18. 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://www.abc.es/internacional/abci-elecciones-bolivia-aplazadas-covid-19-celebraran-6-septiembre-202006021822_noticia.html
+ https://www.reuters.com/article/us-bolivia-election-protest/bolivia-confirms-presidential-election-for-october-18-despite-calls-for-earlier-date-idUSKCN25A015
+https://news.un.org/es/story/2020/08/1478952
+https://www.abc.es/internacional/abci-elecciones-bolivia-aplazadas-covid-19-celebraran-6-septiembre-202006021822_noticia.html
 https://cnnespanol.cnn.com/2020/06/16/alerta-bolivia-presidenta-interina-plantea-aplazar-uno-o-dos-meses-mas-las-elecciones-presidenciales/
 
 
@@ -198,13 +203,13 @@ https://cnnespanol.cnn.com/2020/06/16/alerta-bolivia-presidenta-interina-plantea
 
 
 # Brazil 
-*Answer*: Municipal elections are scheduled for October 2020, but there is a proposal for a Constitutional Emendment to postpone the elections. Congress will vote on the postponement in June. 
+*Answer*: The local elections were scheduled for October, but were postponed to November 15 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://www25.senado.leg.br/web/atividade/materias/-/materia/142206
+ http://www.tse.jus.br/imprensa/noticias-tse/2020/Agosto/eleicoes-2020-publicadas-resolucoes-do-tse-com-novas-datas-do-calendario-eleitoral
 
 
 
@@ -212,7 +217,7 @@ https://cnnespanol.cnn.com/2020/06/16/alerta-bolivia-presidenta-interina-plantea
 *Answer*: privacy concerns 
 
 *Comments*:
- The police was allowed to obtain mobile data without prior judicial authorization 
+*No comment provided* 
 
 *Sources*:
  https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/
@@ -224,10 +229,10 @@ https://cnnespanol.cnn.com/2020/06/16/alerta-bolivia-presidenta-interina-plantea
 *Answer:* *No answer entered* 
 
 *Comments*:
- 'On 9 April the Burkinabé security forces allegedly executed 31 detainees following a counter-terrorism operation in Djibo, approximately 200 kilometers north of the capital, Ouagadougou. According to witness testimony gathered by Human Rights Watch, security force personnel arrested the unarmed civilians in response to the presence of armed Islamist groups around Djibo. All 31 men were from the Peuhl (also known as Fulani) ethnic group. In a statement issued on 20 April, the Ministry of Defense said it does not target its own people and if these allegations against the security forces are true, it will take action.'' 
+*No comment provided* 
 
 *Sources*:
- https://reliefweb.int/report/burundi/atrocity-alert-no-200-burundi-burkina-faso-and-covid-19
+ https://reliefweb.int/report/burundi/atrocity-alert-no-200-burundi-burkina-faso-and-covid-19
 https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
 
 
@@ -317,15 +322,16 @@ https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabil
 
 
 # Chile 
-*Answer*: Constitutional Referendum was postponed to 2020-10-25 
+*Answer*: The national plebiscite was postponed from April 26 to October 25. 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  https://www.theguardian.com/world/2020/mar/19/chile-postpone-constitutional-referendum-coronavirus-crisis
-
-https://www.senado.cl/aprueban-nuevo-itinerario-electoral-para-plebiscito-constitucional/senado/2020-03-23/203440.html
+
+https://www.senado.cl/aprueban-nuevo-itinerario-electoral-para-plebiscito-constitucional/senado/2020-03-23/203440.html
+https://www.lanacion.com.ar/el-mundo/plebiscito-chile-mantener-distancia-social-llevar-lapiz-nid2440912
 
 
 
@@ -425,24 +431,26 @@ https://www.senado.cl/aprueban-nuevo-itinerario-electoral-para-plebiscito-consti
 
 
 # Dominican Republic 
-*Answer*: Presidential and legislative elections postponed from 2020-05-17 to 2020-07-05 
+*Answer*: Presidential and legislative elections were postponed from May 17 to July 5 and were held amid the pandemic. 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://www.idea.int/news-media/multimedia-reports/global-overview-covid-19-impact-elections
+ https://www.idea.int/news-media/multimedia-reports/global-overview-covid-19-impact-elections
+https://www.washingtonpost.com/world/the_americas/dominican-republic-chooses-leader-amid-rising-covid-19-cases/2020/07/05/269fba26-bedb-11ea-8908-68a2b9eae9e0_story.html
 
 
 
 # Ecuador 
-*Answer*: Ecuador has general elections planned for February 2021, but the Electoral Council is debating its postponement to avoid gatherings at rallies 
+
+*Answer:* *No answer entered* 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- http://cne.gob.ec/es/institucion/sala-de-prensa/noticias/5210-funcion-electoral-y-organizaciones-politicas-mantendran-dialogo-sobre-calendario-electoral-el-proximo-16-de-junio
+*No source provided*
 
 
 
@@ -486,10 +494,12 @@ https://www.senado.cl/aprueban-nuevo-itinerario-electoral-para-plebiscito-consti
 *Answer*: Elections are postponed from august until september, causing upstir. 
 
 *Comments*:
- Elections are postponed from august until september, causing upstir. 
+*No comment provided* 
 
 *Sources*:
- https://www.bbc.com/news/topics/cwlw3xz047jt/ethiopia
+ https://www.bbc.com/news/topics/cwlw3xz047jt/ethiopia
+
+https://qz.com/africa/1870457/ethiopias-abiy-election-delay-infuriates-opposition-on-democracy/
 
 
 
@@ -501,7 +511,9 @@ https://www.senado.cl/aprueban-nuevo-itinerario-electoral-para-plebiscito-consti
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://fra.europa.eu/sites/default/files/fra_uploads/fi_report_on_coronavirus_pandemic_july_2020.pdf
+https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
+https://valtioneuvosto.fi/en/information-on-coronavirus/current-restrictions
 
 
 
@@ -557,7 +569,7 @@ https://www.senado.cl/aprueban-nuevo-itinerario-electoral-para-plebiscito-consti
 *Answer*: The new act is a problem for privacy, as it grants the government wide powers to intercept communication and the services of the network provider at the disposal of the state for mass dissemination of information. 
 
 *Comments*:
- The new act is a problem for privacy, as it grants the government wide powers to intercept communication and the services of the network provider at the disposal of the state for mass dissemination of information. 
+*No comment provided* 
 
 *Sources*:
  https://theconversation.com/ghanas-president-has-invoked-a-tough-new-law-against-coronavirus-why-its-disquieting-135476
@@ -623,6 +635,18 @@ https://www.senado.cl/aprueban-nuevo-itinerario-electoral-para-plebiscito-consti
 
 
 
+# Hong Kong 
+
+*Answer:* *No answer entered* 
+
+*Comments*:
+*No comment provided* 
+
+*Sources*:
+*No source provided*
+
+
+
 # Hungary 
 *Answer*: postponed elections 
 
@@ -635,11 +659,10 @@ https://www.senado.cl/aprueban-nuevo-itinerario-electoral-para-plebiscito-consti
 
 
 # India 
-
-*Answer:* *No answer entered* 
+*Answer*: 1 
 
 *Comments*:
- Indian journalists covering the Covid-19 epidemic are also liable to be the targets of cyber-harassment. The victims have included freelance journalist Vidya Krishnan, who has been subjected to an online hate campaign, including many calls for her to be murdered or gang-raped. When contacted by RSF, she confirmed that the persons posting these hate messages with linked to the government and BJP. 
+*No comment provided* 
 
 *Sources*:
  https://rsf.org/en/news/how-indias-government-tries-suppress-all-covid-19-reporting
@@ -770,13 +793,14 @@ https://www.senado.cl/aprueban-nuevo-itinerario-electoral-para-plebiscito-consti
 *Answer*: 1) draft law on restricting freedom of assembly 2) detention of an activist 
 
 *Comments*:
- 1) the parliament held a first vote on a bill restricting freedom of assembly on 26 March 2020, which appears a rushed decision 2) detention of an activist following his criticism of the government's handling of covid-19 on social media 
+*No comment provided* 
 
 *Sources*:
  1)
 https://www.hrw.org/news/2020/03/31/kazakhstan-draft-law-would-undermine-freedom-assembly
 2)
 https://www.amnesty.org/en/documents/eur57/2227/2020/en/
+https://www.amnesty.org/en/documents/eur57/2593/2020/en/
 
 
 
@@ -864,18 +888,6 @@ https://www.amnesty.org/en/documents/eur57/2227/2020/en/
 
 
 
-# Libya 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*
-
-
-
 # Lithuania 
 
 *Answer:* *No answer entered* 
@@ -949,7 +961,7 @@ https://www.amnesty.org/en/documents/eur57/2227/2020/en/
 
 
 # Mexico 
-*Answer*: There are several reports of essencial workers, especially medical workers, being attacked by the population 
+*Answer*: There are several reports of essencial workers, especially medical workers, being assalted by the population 
 
 *Comments*:
 *No comment provided* 
@@ -1151,13 +1163,14 @@ https://www.amnesty.org/en/documents/eur57/2227/2020/en/
 
 
 # Panama 
-*Answer*: Panama established a Alcohol Prohibition during the pandemic 
+*Answer*: Panama temporarily established an Alcohol Prohibition during the pandemic 
 
 *Comments*:
- Article 7 
+*No comment provided* 
 
 *Sources*:
- http://minsa.b-cdn.net/sites/default/files/general/decreto_ejecutivo_507_de_24_de_marzo_de_2020.pdf
+ http://minsa.b-cdn.net/sites/default/files/general/decreto_ejecutivo_507_de_24_de_marzo_de_2020.pdf
+http://minsa.b-cdn.net/sites/default/files/general/decreto_ejecutivo_730_de_18_de_junio_2020.pdf
 
 
 
@@ -1169,7 +1182,9 @@ https://www.amnesty.org/en/documents/eur57/2227/2020/en/
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://www.policyforum.net/the-securitization-of-public-health-emergencies/
+http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
+https://reliefweb.int/report/papua-new-guinea/png-and-next-pandemic
 
 
 
@@ -1209,14 +1224,17 @@ https://www.amnesty.org/en/documents/eur57/2227/2020/en/
 
 
 # Poland 
-*Answer*: Presidential elections postponed 
+*Answer*: Organization of presidential elections 
 
 *Comments*:
- Presidential elections postponed from 10 May until 28 June 2020 (expected to be held through postal voting - https://uk.reuters.com/article/uk-poland-election-date/polish-parliament-approves-postal-vote-for-presidential-election-idUKKBN22J0OI https://www.osce.org/files/f/documents/d/3/450856.pdf  https://www.idea.int/news-media/news/switching-all-postal-voting-times-public-health-crises-lessons-poland   also see Act of 2 June 2020 on special rules for the organization of general elections: http://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000979) and resolution of the European Parliament: https://www.europarl.europa.eu/doceo/document/TA-9-2020-0054_EN.html 
+*No comment provided* 
 
 *Sources*:
- https://www.idea.int/news-media/multimedia-reports/global-overview-covid-19-impact-elections
-https://carnegieeurope.eu/2020/06/23/poland-s-democratic-slide-during-coronavirus-pub-82118
+ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B290%5D&covid19=1
+https://ipi.media/polands-tvp-takes-sides-in-presidential-election/
+https://rsf.org/en/news/polish-public-broadcaster-peddles-government-hate-speech-presidential-election-run-1
+https://www.osce.org/odihr/elections/poland/450856
+https://fra.europa.eu/sites/default/files/fra_uploads/pl_report_on_coronavirus_pandemic_july_2020.pdf
 
 
 
@@ -1272,7 +1290,7 @@ https://carnegieeurope.eu/2020/06/23/poland-s-democratic-slide-during-coronaviru
 *Answer*: 1) abuse of restrictions on freedom of assembly 2) new mass surveillance technology 
 
 *Comments*:
- 1) detention of journalists and activists who were conducing single-person pickets following the arrest of a journalist Ilya Azar, who was earlier detained on the same grounds (https://www.amnesty.org/en/latest/news/2020/05/russia-prominent-journalists-detention-epitomizes-authorities-crackdown-on-activists-amid-covid-19/) 2) new surveillance measures, such as facial recognition, that Human Rights Watch says may potentially be abused 
+*No comment provided* 
 
 *Sources*:
  1)
@@ -1391,14 +1409,19 @@ https://www.hrw.org/news/2020/03/25/moscow-silently-expands-surveillance-citizen
 
 
 # South Africa 
-
-*Answer:* *No answer entered* 
+*Answer*: There are reports that migrants, refugees and asylum seeker were excluded from government food aid. 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://www.hrw.org/news/2020/05/20/south-africa-end-bias-covid-19-food-aid
+
+https://mg.co.za/coronavirus-essentials/2020-05-29-south-africa-refugees-coronavrus-exclude-law/
+
+https://allafrica.com/stories/202005130663.html
+
+https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B560%5D&covid19=1
 
 
 
@@ -1451,14 +1474,17 @@ https://www.hrw.org/news/2020/03/25/moscow-silently-expands-surveillance-citizen
 
 
 # Sudan 
+*Answer*: Sudanese artists were imprisoned for pro-democracy chants beeing accused to violate the Covid-19 curfew.
 
-*Answer:* *No answer entered* 
+A girl's school couldn't reopen because Sudan's Rapid Support Forces began using a school as a training base while it was closed due to the lockdown. 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://www.hrw.org/news/2020/09/21/sudanese-artists-imprisoned-pro-democracy-chants
+
+https://www.hrw.org/news/2020/07/29/sudanese-school-closed-pandemic-kept-closed-armed-forces
 
 
 
@@ -1483,20 +1509,6 @@ https://www.hrw.org/news/2020/03/25/moscow-silently-expands-surveillance-citizen
 
 *Sources*:
 *No source provided*
-
-
-
-# Syria 
-*Answer*: Spyware in citizens’ cell phones through a coronavirus prevention application, Iranian-backed fighters are quarantined near the frontlines in Idlib and Aleppo, supossedly in fear of the spread of the virus 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
- https://www.voanews.com/middle-east/assad-exploiting-covid-19-prevention-measures-consolidate-grip-syria-observers-say;
-https://www.voanews.com/middle-east/un-syria-armed-groups-use-global-focus-covid-escalate-fighting;
-https://carnegie-mec.org/2020/04/14/syria-and-coronavirus-pub-81547;
-https://www.washingtoninstitute.org/policy-analysis/view/syrias-three-governments-confront-the-coronavirus
 
 
 
@@ -1525,14 +1537,15 @@ https://www.washingtoninstitute.org/policy-analysis/view/syrias-three-government
 
 
 # Tanzania 
-
-*Answer:* *No answer entered* 
+*Answer*: The government denied the prisoners access to legal counsel by banning all visits to the country's prisons. This is in violation with ICCPR Article 14.3(d). 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://www.hrw.org/news/2020/05/21/tanzania-prisoners-rights-ignored-covid-19-response
+
+https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
 
 
 
@@ -1573,14 +1586,15 @@ https://www.washingtoninstitute.org/policy-analysis/view/syrias-three-government
 
 
 # Tunisia 
-
-*Answer:* *No answer entered* 
+*Answer*: Activists and bloggers have been arrested and harrassed against the principle of freedom of expression, for criticizing the government response. 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://www.amnesty.org/en/latest/news/2020/04/tunisia-end-prosecution-of-bloggers-for-criticizing-governments-response-to-covid19/
+
+https://nawaat.org/2020/04/28/covid-19-in-tunisia-abuse-of-power-and-arbitrary-law-enforcement/
 
 
 
@@ -1609,14 +1623,13 @@ https://www.washingtoninstitute.org/policy-analysis/view/syrias-three-government
 
 
 # Uganda 
-
-*Answer:* *No answer entered* 
+*Answer*: Political rallies ahead of the 2021 presidential election are offically forbidden to limit the spreading. Candidates now need to use media to reach there audience, however, incumbent Museveni exerts great influence on the mass media. Opposition candidates and supporters do not have the resources to broadcast/listen private media. Furthermore, presidential speeches must be broadcast live by all radio and television stations by law. 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://www.dw.com/en/ugandas-unequal-political-campaigns-during-covid-19-times/a-54488099
 
 
 
@@ -1669,15 +1682,15 @@ https://www.washingtoninstitute.org/policy-analysis/view/syrias-three-government
 
 
 # Uruguay 
-*Answer*: The government has temporarily reduced the salaries of politicians to use the money in policies against covid-19.
-Local elections were postponed from 2020-05-10 to 2020-10-04. 
+*Answer*: The government has temporarily reduced the salaries of politicians to use the money in policies against covid-19.
+Local elections were postponed from May 10 to September 27 due to the pandemic. 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://www.lanacion.com.ar/el-mundo/coronavirus-uruguay-lacalle-sueldos-politica-nid2348826
-https://www.infobae.com/america/agencias/2020/04/02/uruguay-posterga-elecciones-departamentales-por-coronavirus/
+ https://www.lanacion.com.ar/el-mundo/coronavirus-uruguay-lacalle-sueldos-politica-nid2348826
+https://www.corteelectoral.gub.uy/calendario-de-actividades-2020
 
 
 
@@ -1685,7 +1698,7 @@ https://www.infobae.com/america/agencias/2020/04/02/uruguay-posterga-elecciones-
 *Answer*: privacy violations 
 
 *Comments*:
- Everyone who is quarantined (because of having symptoms of covid-19 or upon arrival from other countries) has to give their mobile phones and bank cards to the authorities for the duration of the quarantine (for decontamination and contact tracing) 
+*No comment provided* 
 
 *Sources*:
  https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
@@ -1693,32 +1706,21 @@ https://www.infobae.com/america/agencias/2020/04/02/uruguay-posterga-elecciones-
 
 
 # Venezuela 
-*Answer*: Maduro and Guaidó reached an agreement to work together against the pandemic. // Doctors were harassed and detained for speaking about the poor conditions of the health system and about suspected cases not officially released. 
+*Answer*: Maduro and Guaid√≥ reached an agreement to work together against the pandemic.
+Doctors were harassed and detained for speaking about the poor conditions of the health system and about suspected cases not officially released. 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://www.bbc.com/mundo/noticias-america-latina-52912359
+ https://www.bbc.com/mundo/noticias-america-latina-52912359
 https://www.bbc.com/mundo/noticias-america-latina-52450803
-
+
 https://www.lanacion.com.ar/el-mundo/medicos-bajo-fuego-en-venezuela-por-alertar-sobre-casos-sospechosos-del-virus-nid2341942
 
 
 
 # Vietnam 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*
-
-
-
-# Yemen 
 
 *Answer:* *No answer entered* 
 
@@ -1749,4 +1751,10 @@ https://www.lanacion.com.ar/el-mundo/medicos-bajo-fuego-en-venezuela-por-alertar
 *No comment provided* 
 
 *Sources*:
- https://www.bbc.com/news/world-africa-52726220
+ https://www.theguardian.com/world/2020/may/17/zimbabwean-mdc-activists-abducted-and-sexually-assaulted
+
+https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25944&LangID=E
+
+https://www.amnesty.org/en/latest/news/2020/05/zimbabwe-drop-bogus-charges-against-opposition-leaders-who-suffered-sexual-assault/
+
+https://www.hrw.org/news/2020/08/06/zimbabwe-sadc-au-should-denounce-crackdown

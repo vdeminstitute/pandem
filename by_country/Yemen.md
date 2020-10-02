@@ -1,7 +1,7 @@
 # Yemen 
 
 
-Time 2020-06-16 
+Time 2020-09-16 
 
 
 
@@ -26,24 +26,19 @@ Time 2020-06-16
 *Answer*: 6 
 
 *Comments*:
- There is no national covid-19
- response in Yemen. An "emergency coronavirus committee" exists, but it appears the fight against the virus is mostly performed via international aid and support. 
+ There is no national covid-19 response in Yemen. An "emergency coronavirus committee" exists, but it appears the fight against the virus is mostly performed via international aid and support. 
 
 *Sources*:
- https://www.garda.com/crisis24/coronavirus-updates?referer=map
-
-https://www.reuters.com/article/us-health-coronavirus-yemen-aden/yemens-emergency-coronavirus-committee-declares-aden-an-infested-city-idUSKBN22N06W
+ https://www.reuters.com/article/us-health-coronavirus-yemen-aden/yemens-emergency-coronavirus-committee-declares-aden-an-infested-city-idUSKBN22N06W
 
 https://news.un.org/en/story/2020/05/1064992
 
 
-http://yemenparliament.gov.ye/
+https://www.rescue-uk.org/report/yemens-triple-emergency-covid-19-conflict-and-collapsing-international-response
 
 http://yemenparliament.gov.ye/Details?Post=1882
 
 http://yemenparliament.gov.ye/Details?Post=1923
-
-
 
 
 
@@ -60,7 +55,7 @@ http://yemenparliament.gov.ye/Details?Post=1923
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as no legal instrument (variable emlaw) was used. 
 
 *Sources*:
 *No source provided*
@@ -80,7 +75,7 @@ http://yemenparliament.gov.ye/Details?Post=1923
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as no legal instrument (variable emlaw) was used. 
 
 *Sources*:
 *No source provided*
@@ -143,7 +138,7 @@ http://yemenparliament.gov.ye/Details?Post=1923
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as no legal instrument (variable emlaw) was used. 
 
 *Sources*:
 *No source provided*
@@ -166,7 +161,7 @@ http://yemenparliament.gov.ye/Details?Post=1923
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as no legal instrument (variable emlaw) was used. 
 
 *Sources*:
 *No source provided*
@@ -189,7 +184,7 @@ http://yemenparliament.gov.ye/Details?Post=1923
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as no legal instrument (variable emlaw) was used. 
 
 *Sources*:
 *No source provided*
@@ -200,9 +195,9 @@ http://yemenparliament.gov.ye/Details?Post=1923
 
 ## Legislature limitations (*leglimit*) 
 
-*Question*: To what extent is the lawmaking role of the legislature limited due to any of the emergency measures taken with reference to the Covid-19 pandemic? 
+*Question*: Since 11 March 2020, to what extent have any of the emergency measures with reference to Covid-19 limited the lawmaking role of the legislature? 
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.   The lawmaking role of the national legislature includes the de-jure and de-facto powers to introduce and pass legislation in all policy areas. This question asks specifically how the emergency measures have affected the lawmaking powers of the legislature. ``Rule by decree” enables the government to pass laws without the approval of the legislature, through what is commonly referred to as a decree, regulation, or ordinance, but can also be referred to by other terms.  If no legislature existed prior to Covid-19, code as 5. 
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. The lawmaking role of the national legislature includes the de-jure and de-facto powers to introduce and pass legislation in all policy areas. This question asks specifically how the emergency measures have affected the lawmaking powers of the legislature. “Rule by decree” enables the government to pass laws without the approval of the legislature, through what is commonly referred to as a decree, regulation, or ordinance, but can also be referred to by other terms. Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If no legislature existed prior to Covid-19, code as 5. Code this item based on the most severe limitations observed during the time period, even if those limitations have since been lifted. 
 
 *Scale*: Categorical, (0-5) 
 
@@ -219,10 +214,49 @@ http://yemenparliament.gov.ye/Details?Post=1923
  The parliament seems to be working and urging the government to action against covid-19. 
 
 *Sources*:
- 
-http://yemenparliament.gov.ye/Details?Post=1882
+ http://yemenparliament.gov.ye/Details?Post=1882
 
 http://yemenparliament.gov.ye/Details?Post=1923
+
+
+
+
+
+## Legislature dissolution date (*legdisdate*) 
+
+*Question*: If the national legislature was dissolved, suspended, or equivalent with reference to Covid-19 since 11 March 2020, on what date did this occur? 
+
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (leglimit!=4). Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known). 
+
+*Scale*: Date format. 
+
+*Answer:* *No answer entered* 
+
+*Comments*:
+ Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
+
+*Sources*:
+*No source provided*
+
+
+
+
+
+## Legislature resumption date (*legresdate*) 
+
+*Question*: If the national legislature was dissolved, suspended, or equivalent with reference to Covid-19 since 11 March 2020, when did it resumed its functions? 
+
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has been dissolved, suspended, or equivalent with reference to Covid-19 (leglimit=4) and has not resumed its functions; or it has not been dissolved, suspended, or equivalent with reference to Covid-19 (leglimit!=4). Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known). 
+
+*Scale*: Date format. 
+
+*Answer:* *No answer entered* 
+
+*Comments*:
+ Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
+
+*Sources*:
+*No source provided*
 
 
 
@@ -241,17 +275,19 @@ http://yemenparliament.gov.ye/Details?Post=1923
  2. Somewhat. There are some sub-national areas where the emergency measures differ. 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country. 
 
-*Answer*: 2 
+*Answer*: 3 
 
 *Comments*:
-*No comment provided* 
+ The city of Sana'a had a 24 hour closing of mosques, and all major cities in the Hadhramaut province have an indefinete curfew from 16:00 to 04:00 (local time). The city Aden banned movement on 11 May. The Marib province imposed a curfew from 18:00 to 05:00 from 24 May.
+
+Due to the ongoing civil war between Houthis and the Sausi-led coalition the emergency measures vary regional. 
 
 *Sources*:
  https://www.garda.com/crisis24/news-alerts/339426/yemen-neighborhoods-in-sanaa-and-mosques-closed-for-24-hours-may-6-update-6
 
 https://www.garda.com/crisis24/news-alerts/328851/yemen-authorities-announce-curfew-in-hadhramaut-governorate-on-april-2-over-covid-19-concerns-update-1
 
-
+https://www.garda.com/crisis24/news-alerts/345221/yemen-authorities-impose-curfew-and-other-restrictions-in-marib-province-may-24-update-8
 
 
 
@@ -271,19 +307,24 @@ https://www.garda.com/crisis24/news-alerts/328851/yemen-authorities-announce-cur
  3. Yes, minor de-jure discrimination. 
  4. Yes, major, systematic de-jure discrimination 
 
-*Answer*: 0 
+*Answer*: 3 
+
+*Time period*:
+ 4 
 
 *Comments*:
- Migrants are 
-stigmatized, but not due to emergency measures put in place, rather it is civilians who fear they will bring Covid-19. Otherwise, no evidence of discrimination stemming from government covid-19 measures,  based on race, colour, sex, language, religion or social origin, was found. 
+ Migrants are stigmatized, but not due to emergency measures put in place, rather it is civilians who fear they will bring Covid-19. Otherwise, no evidence of discrimination stemming from government covid-19 measures,  based on race, colour, sex, language, religion or social origin, was found.
+
+Under the pretext of Covid-19, the Houthi authorities have expelled Ethiopian migrants from North Yemen. While they forced them to the Saudi border, several migrants were killed. 
 
 *Sources*:
- https://www.hrw.org/middle-east/n-africa/yemen
+ https://www.hrw.org/news/2020/08/13/yemen-houthis-kill-expel-ethiopian-migrants
+
+https://www.hrw.org/sites/default/files/media_2020/08/gl.2020.08.26.Houthi%20Response%20to%20HRW.pdf
 
 https://www.amnesty.org/en/search/?country=38563&resourceType=newsarticle&sort=date
 
 https://reliefweb.int/report/yemen/who-iom-raise-concern-over-covid-19-discrimination-against-migrants-yemen
-
 
 http://yemenparliament.gov.ye/
 
@@ -297,29 +338,36 @@ http://yemenparliament.gov.ye/Details?Post=1923
 
 ## Non-derogable rights (*ndrights*) 
 
-*Question*: Since 11 March 2020, have any of the emergency measures de-jure violated non-derogable rights as defined by the ICCPR? 
+*Question*: Since 11 March 2020, have any of the emergency measures violated nonderogable rights as defined by the ICCPR? 
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Non-derogable rights include: 
+*Clarification*: Non-derogable rights include: 
  - Right to life (Article 6). 
  - Freedom from torture and cruel/inhuman treatment (Article 7).  
  - Prohibition of slavery and servitude (Article 8, I and II). 
  - Prohibition of imprisonment due to inability to fulfill a contractual obligation (Article 11). 
  - No conviction for a crime which was not a crime at the time of commitment (Article 15). 
  - Right as a person before the law (Article 16). 
- - Freedom of thought, conscience and religion (Article 18). The detailed ICCPR provisions can be found [here](www.ohchr.org/en/professionalinterest/pages/ccpr.aspx). A temporary ban on religious services does NOT count as a violation of freedom of religion as long as all religions are targeted equally. Provide detailed information about the de-jure violations, including which non-derogable rights are violated in the ndrights_comments variable. 
+ - Freedom of thought, conscience and religion (Article 18). The detailed ICCPR provisions can be found [here](www.ohchr.org/en/professionalinterest/pages/ccpr.aspx). A temporary ban on religious services does NOT count as a violation of freedom of religion as long as all religions are targeted equally. Provide detailed information about the violations, including which non-derogable rights are violated in the ndrights_comments variable. 
 
 *Scale*: Binary, (0/1) 
 
  0. No. 
  1. Yes. 
 
-*Answer*: 0 
+*Answer*: 1 
+
+*Time period*:
+ 4 
 
 *Comments*:
- No evidence was found that any of the emergency measures de-jure violated non-derogable rights as defined by the ICCPR. 
+ Under the pretext of Covid-19, the Houthi authorities have expelled Ethiopian migrants from North Yemen. While they forced them to the Saudi border, several migrants were killed. 
 
 *Sources*:
- https://www.hrw.org/middle-east/n-africa/yemen
+ https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
+
+https://www.hrw.org/news/2020/08/13/yemen-houthis-kill-expel-ethiopian-migrants
+
+https://www.hrw.org/sites/default/files/media_2020/08/gl.2020.08.26.Houthi%20Response%20to%20HRW.pdf
 
 https://www.amnesty.org/en/search/?country=38563&resourceType=newsarticle&sort=date
 
@@ -352,8 +400,7 @@ http://yemenparliament.gov.ye/Details?Post=1923
  Yemen is a tough place for journalists, but covid-19 emergency measures have not been found to de-jure limit media freedom. 
 
 *Sources*:
- 
-http://yemenparliament.gov.ye/Details?Post=1882
+ http://yemenparliament.gov.ye/Details?Post=1882
 
 http://yemenparliament.gov.ye/Details?Post=1923
 
@@ -376,7 +423,7 @@ https://ipi.media/yemen/
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as there are no de-jure limitations on media freedom (variable melim). 
 
 *Sources*:
 *No source provided*
@@ -396,7 +443,7 @@ https://ipi.media/yemen/
 *Answer:* *No answer entered* 
 
 *Comments*:
-*No comment provided* 
+ Left blank as there are no de-jure limitations on media freedom (variable melim). 
 
 *Sources*:
 *No source provided*
@@ -407,7 +454,7 @@ https://ipi.media/yemen/
 
 ## Limitations on media reporting about Covid-19 (*merepfact*) 
 
-*Question*: Since 11 March 2020, has the government placed de-facto limitations on media reporting about the nature of the Covid-19 virus? 
+*Question*: Since 11 March 2020, have the media faced de-facto limitations on reporting about the nature of the Covid-19 virus? 
 
 *Clarification*: Here we are interested in the de-facto limitation of media reporting on the virus, its origins, treatment, and prevalence. These limits may or may not be allowed by law. Provide specific references to sources and comments to justify coding. 
 
@@ -416,15 +463,24 @@ https://ipi.media/yemen/
  0. No. 
  1. Yes. 
 
-*Answer*: 0 
+*Answer*: 1 
+
+*Time period*:
+*No time period specified* 
 
 *Comments*:
- No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
+ The media are controlled by the state or by self-censorship out of fear of violent consequences. 
+
+The production of print newspaper was prohibited from 25 March to 12 April. 
 
 *Sources*:
  https://rsf.org/en/thematique/internet?countries%5B172%5D=172
 
 https://ipi.media/yemen/
+
+http://yemenvibe.com/urgent-news/الحكومة-توقف-إصدار-الصحف-الورقية-مؤقت-وثيقة.html
+
+https://cpj.org/2020/03/jordan-oman-morocco-and-yemen-suspend-newspaper-pr/
 
 
 
@@ -432,7 +488,7 @@ https://ipi.media/yemen/
 
 ## Limitations on media reporting about the government response to Covid-19 (*merepgov*) 
 
-*Question*: Since 11 March 2020, has the government placed de-facto limitations on media reporting about the government response to the Covid-19 pandemic? 
+*Question*: Since 11 March 2020, have the media faced de-facto limitations on reporting about the government response to the Covid-19 pandemic? 
 
 *Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact*  as 1- Yes. These limits may or may not be allowed by law. Provide specific references to sources and comments to justify coding. 
 
@@ -441,15 +497,24 @@ https://ipi.media/yemen/
  0. No. 
  1. Yes. 
 
-*Answer*: 0 
+*Answer*: 1 
+
+*Time period*:
+*No time period specified* 
 
 *Comments*:
- No evidence indicating that the government is de-facto limiting reporting of the government's Covid-19 response, was found. 
+ The media are controlled by the state or by self-censorship out of fear of violent consequences. 
+
+The production of print newspaper was prohibited from 25 March to 12 April. 
 
 *Sources*:
  https://rsf.org/en/thematique/internet?countries%5B172%5D=172
 
 https://ipi.media/yemen/
+
+http://yemenvibe.com/urgent-news/الحكومة-توقف-إصدار-الصحف-الورقية-مؤقت-وثيقة.html
+
+https://cpj.org/2020/03/jordan-oman-morocco-and-yemen-suspend-newspaper-pr/
 
 
 
@@ -457,7 +522,7 @@ https://ipi.media/yemen/
 
 ## Limitations on media reporting about non-Covid-19 related news (*merepoth*) 
 
-*Question*: Since 11 March 2020, has the government placed de-facto limitations on media reporting about non-Covid-19 related news, but with reference to the pandemic? 
+*Question*: Since 11 March 2020, have the media faced de-facto limitations on reporting about non-Covid-19 related news, but with reference to the pandemic? 
 
 *Clarification*: Here we are interested in the de-facto limitation of media reporting about news unrelated to the pandemic, justified by the government under its emergency response to Covid-19. These limits may or may not be allowed by law. Provide specific references to sources and comments to justify coding. 
 
@@ -466,15 +531,24 @@ https://ipi.media/yemen/
  0. No. 
  1. Yes. 
 
-*Answer*: 0 
+*Answer*: 1 
+
+*Time period*:
+ 3 
 
 *Comments*:
- No evidence indicating that the government is de-facto limiting media reporting about non-Covid-19 related news, but with reference to the pandemic, was found. 
+ The media are controlled by the state or by self-censorship out of fear of violent consequences. 
+
+The production of print newspaper was prohibited from 25 March to 12 April. 
 
 *Sources*:
  https://rsf.org/en/thematique/internet?countries%5B172%5D=172
 
 https://ipi.media/yemen/
+
+http://yemenvibe.com/urgent-news/الحكومة-توقف-إصدار-الصحف-الورقية-مؤقت-وثيقة.html
+
+https://cpj.org/2020/03/jordan-oman-morocco-and-yemen-suspend-newspaper-pr/
 
 
 
@@ -492,14 +566,22 @@ https://ipi.media/yemen/
   1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information. 
 
-*Answer*: 1 
+*Answer*: 2 
+
+*Time period*:
+*No time period specified* 
 
 *Comments*:
- Yemenis have 
-called out the Ministry of Public Health and Population, accusing it of deliberately concealing information on an alleged wide-scale coronavirus outbreak in Aden. 
+ Yemenis have called out the Ministry of Public Health and Population, accusing it of deliberately concealing information on an alleged wide-scale coronavirus outbreak in Aden.
+
+There are reports that both governments (Houthis & Saudi-led coalition) are not reporting all cases of Covid-19 in their territories. 
 
 *Sources*:
  https://english.alaraby.co.uk/english/news/2020/4/28/string-of-deaths-in-aden-spark-yemen-coronavirus-fears
+
+https://www.reuters.com/article/us-health-coronavirus-yemen-outbreak-exc/exclusive-as-covid-19-cases-in-yemen-surge-some-sources-see-undercounting-idUSKBN22P0OO?utm_source=twitter&utm_medium=Social
+
+https://apnews.com/d90f7e476595082159fed0a941ef0d48
 
 
 
@@ -517,6 +599,9 @@ called out the Ministry of Public Health and Population, accusing it of delibera
  1. Yes. 
 
 *Answer*: 0 
+
+*Time period*:
+*No time period specified* 
 
 *Comments*:
  No evidence indicating that the government and its agents have verbally harassed journalists reporting about Covid-19, was found. 
@@ -542,6 +627,9 @@ https://ipi.media/yemen/
  1. Yes. 
 
 *Answer*: 0 
+
+*Time period*:
+*No time period specified* 
 
 *Comments*:
  No evidence indicating that the government and its agents have physically harassed journalists reporting about Covid-19, was found. 
@@ -570,14 +658,16 @@ https://ipi.media/yemen/
 
 *Answer*: 0 
 
+*Time period*:
+*No time period specified* 
+
 *Comments*:
  No official information on covid-19 from Yemen's government was found. Therefore, they are not spreading information that is different than the information from WHO. 
 
 *Sources*:
  http://www.yemen.gov.ye/
 
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/ques
-tion-and-answers-hub/q-a-detail/q-a-coronaviruses
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
 
 
 
@@ -597,6 +687,9 @@ tion-and-answers-hub/q-a-detail/q-a-coronaviruses
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19. 
 
 *Answer*: 0 
+
+*Time period*:
+*No time period specified* 
 
 *Comments*:
  No evidence was found that indicates that security forces, such as the civilian police or military, has engaged in physical violence to execute the emergency measures. 
@@ -624,13 +717,18 @@ https://www.amnesty.org/en/countries/middle-east-and-north-africa/yemen/
  0. No. 
  1. Yes. 
 
-*Answer:* *No answer entered* 
+*Answer*: 1 
+
+*Time period*:
+ 3 
 
 *Comments*:
-*No comment provided* 
+ The military has declared a state of emergency in parts of the Hadhramaut province. Military is also enforcing curfews. 
 
 *Sources*:
-*No source provided*
+ https://www.aa.com.tr/en/middle-east/state-of-emergency-declared-in-yemen-s-hadhramaut/814038
+
+https://www.arabnews.com/node/1652151/middle-east
 
 
 

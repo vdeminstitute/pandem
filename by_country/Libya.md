@@ -202,9 +202,9 @@ https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/
 
 ## Legislature limitations (*leglimit*) 
 
-*Question*: To what extent is the lawmaking role of the legislature limited due to any of the emergency measures taken with reference to the Covid-19 pandemic? 
+*Question*: Since 11 March 2020, to what extent have any of the emergency measures with reference to Covid-19 limited the lawmaking role of the legislature? 
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.   The lawmaking role of the national legislature includes the de-jure and de-facto powers to introduce and pass legislation in all policy areas. This question asks specifically how the emergency measures have affected the lawmaking powers of the legislature. ``Rule by decree” enables the government to pass laws without the approval of the legislature, through what is commonly referred to as a decree, regulation, or ordinance, but can also be referred to by other terms.  If no legislature existed prior to Covid-19, code as 5. 
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. The lawmaking role of the national legislature includes the de-jure and de-facto powers to introduce and pass legislation in all policy areas. This question asks specifically how the emergency measures have affected the lawmaking powers of the legislature. “Rule by decree” enables the government to pass laws without the approval of the legislature, through what is commonly referred to as a decree, regulation, or ordinance, but can also be referred to by other terms. Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If no legislature existed prior to Covid-19, code as 5. Code this item based on the most severe limitations observed during the time period, even if those limitations have since been lifted. 
 
 *Scale*: Categorical, (0-5) 
 
@@ -226,6 +226,46 @@ https://www.osac.gov/Content/Report/0f9f03c0-f787-48d9-a951-1838a3cb46db
 https://www.garda.com/crisis24/news-alerts/322916/libya-land-and-sea-borders-to-close-due-to-covid-19-march-16
 https://www.acaps.org/covid19-government-measures-dataset
 https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/health_sector_libya_covid-19_response_plan.pdf
+
+
+
+
+
+## Legislature dissolution date (*legdisdate*) 
+
+*Question*: If the national legislature was dissolved, suspended, or equivalent with reference to Covid-19 since 11 March 2020, on what date did this occur? 
+
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (leglimit!=4). Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known). 
+
+*Scale*: Date format. 
+
+*Answer:* *No answer entered* 
+
+*Comments*:
+*No comment provided* 
+
+*Sources*:
+*No source provided*
+
+
+
+
+
+## Legislature resumption date (*legresdate*) 
+
+*Question*: If the national legislature was dissolved, suspended, or equivalent with reference to Covid-19 since 11 March 2020, when did it resumed its functions? 
+
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has been dissolved, suspended, or equivalent with reference to Covid-19 (leglimit=4) and has not resumed its functions; or it has not been dissolved, suspended, or equivalent with reference to Covid-19 (leglimit!=4). Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known). 
+
+*Scale*: Date format. 
+
+*Answer:* *No answer entered* 
+
+*Comments*:
+*No comment provided* 
+
+*Sources*:
+*No source provided*
 
 
 
@@ -273,6 +313,9 @@ https://www.garda.com/crisis24/news-alert-full-history/QFKwn6iXz6WGQdzEi/libya-l
 
 *Answer*: 0 
 
+*Time period*:
+*No time period specified* 
+
 *Comments*:
  There are several ethnic groups in Libya who are being disproportionately affected by Covid-19 through lack of sufficient access to health care and discrimination from other ethnic groups, but there are no reports that the Libyan government have imposed any discrimination in the emergency measures so that some groups freedoms and rights are more severely restricted. This is therefore coded as 0. 
 
@@ -287,16 +330,16 @@ https://www.amnesty.org/en/latest/news/2020/04/libya-historic-discrimination-thr
 
 ## Non-derogable rights (*ndrights*) 
 
-*Question*: Since 11 March 2020, have any of the emergency measures de-jure violated non-derogable rights as defined by the ICCPR? 
+*Question*: Since 11 March 2020, have any of the emergency measures violated nonderogable rights as defined by the ICCPR? 
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Non-derogable rights include: 
+*Clarification*: Non-derogable rights include: 
  - Right to life (Article 6). 
  - Freedom from torture and cruel/inhuman treatment (Article 7).  
  - Prohibition of slavery and servitude (Article 8, I and II). 
  - Prohibition of imprisonment due to inability to fulfill a contractual obligation (Article 11). 
  - No conviction for a crime which was not a crime at the time of commitment (Article 15). 
  - Right as a person before the law (Article 16). 
- - Freedom of thought, conscience and religion (Article 18). The detailed ICCPR provisions can be found [here](www.ohchr.org/en/professionalinterest/pages/ccpr.aspx). A temporary ban on religious services does NOT count as a violation of freedom of religion as long as all religions are targeted equally. Provide detailed information about the de-jure violations, including which non-derogable rights are violated in the ndrights_comments variable. 
+ - Freedom of thought, conscience and religion (Article 18). The detailed ICCPR provisions can be found [here](www.ohchr.org/en/professionalinterest/pages/ccpr.aspx). A temporary ban on religious services does NOT count as a violation of freedom of religion as long as all religions are targeted equally. Provide detailed information about the violations, including which non-derogable rights are violated in the ndrights_comments variable. 
 
 *Scale*: Binary, (0/1) 
 
@@ -304,6 +347,9 @@ https://www.amnesty.org/en/latest/news/2020/04/libya-historic-discrimination-thr
  1. Yes. 
 
 *Answer*: 0 
+
+*Time period*:
+*No time period specified* 
 
 *Comments*:
  There is no de jure violation of non-derogable rights in the emergency measures. 
@@ -386,7 +432,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 ## Limitations on media reporting about Covid-19 (*merepfact*) 
 
-*Question*: Since 11 March 2020, has the government placed de-facto limitations on media reporting about the nature of the Covid-19 virus? 
+*Question*: Since 11 March 2020, have the media faced de-facto limitations on reporting about the nature of the Covid-19 virus? 
 
 *Clarification*: Here we are interested in the de-facto limitation of media reporting on the virus, its origins, treatment, and prevalence. These limits may or may not be allowed by law. Provide specific references to sources and comments to justify coding. 
 
@@ -396,6 +442,9 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes. 
 
 *Answer*: 0 
+
+*Time period*:
+*No time period specified* 
 
 *Comments*:
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Libya,  and no other indications have been found of there having been implemented any such limitations. 
@@ -410,7 +459,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 ## Limitations on media reporting about the government response to Covid-19 (*merepgov*) 
 
-*Question*: Since 11 March 2020, has the government placed de-facto limitations on media reporting about the government response to the Covid-19 pandemic? 
+*Question*: Since 11 March 2020, have the media faced de-facto limitations on reporting about the government response to the Covid-19 pandemic? 
 
 *Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact*  as 1- Yes. These limits may or may not be allowed by law. Provide specific references to sources and comments to justify coding. 
 
@@ -420,6 +469,9 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes. 
 
 *Answer*: 0 
+
+*Time period*:
+*No time period specified* 
 
 *Comments*:
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in Libya,  and no other indications have been found of there having been implemented any such limitations. 
@@ -434,7 +486,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 ## Limitations on media reporting about non-Covid-19 related news (*merepoth*) 
 
-*Question*: Since 11 March 2020, has the government placed de-facto limitations on media reporting about non-Covid-19 related news, but with reference to the pandemic? 
+*Question*: Since 11 March 2020, have the media faced de-facto limitations on reporting about non-Covid-19 related news, but with reference to the pandemic? 
 
 *Clarification*: Here we are interested in the de-facto limitation of media reporting about news unrelated to the pandemic, justified by the government under its emergency response to Covid-19. These limits may or may not be allowed by law. Provide specific references to sources and comments to justify coding. 
 
@@ -444,6 +496,9 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes. 
 
 *Answer*: 0 
+
+*Time period*:
+*No time period specified* 
 
 *Comments*:
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in Libya,  and no other indications have been found of there having been implemented any such limitations. 
@@ -470,6 +525,9 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 *Answer*: 0 
 
+*Time period*:
+*No time period specified* 
+
 *Comments*:
  Neither Reporters without Borders nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information,  and no other indications have been found of there being any such limitations. 
 
@@ -494,6 +552,9 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 *Answer*: 0 
 
+*Time period*:
+*No time period specified* 
+
 *Comments*:
  Neither Reporters without Borders nor International Press Institute have reported any verbal harassment of journalists in Libya, and no other indications have been found of there having been any such harassment. 
 
@@ -517,6 +578,9 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes. 
 
 *Answer*: 0 
+
+*Time period*:
+*No time period specified* 
 
 *Comments*:
  Neither Reporters without Borders nor International Press Institute have reported any physical harassment of journalists in Libya, and no other indications have been found of there having been any such harassment. 
@@ -544,6 +608,9 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 *Answer*: 0 
 
+*Time period*:
+*No time period specified* 
+
 *Comments*:
  There is no deviations from the information provided by WHO and that of the Libyan Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
 
@@ -569,6 +636,9 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 *Answer*: 0 
 
+*Time period*:
+*No time period specified* 
+
 *Comments*:
  The on going fighting between the Libyan government and armed opposition groups, which has not been halted by the Covid-19 crisis, has led to substantial violence in parts of the country. However, there are no sources found stating that any of the security forces in Libya has issued any violence on citizens in enacting the emergency measures, and this is therefore coded as 0. 
 
@@ -592,6 +662,9 @@ https://www.amnesty.org/en/search/?country=38545&resourceType=newsarticle&sort=d
  1. Yes. 
 
 *Answer*: 0 
+
+*Time period*:
+*No time period specified* 
 
 *Comments*:
  There is a lot of military activity in Libya due to the civil war continuing during the pandemic, but no sources stating that the military has been deployed to enforce emergency measures have been found and this is therefore coded 0. 

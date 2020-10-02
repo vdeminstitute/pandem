@@ -196,9 +196,9 @@ https://www.insideover.com/society/syrian-emergency-measures-to-counter-coronavi
 
 ## Legislature limitations (*leglimit*) 
 
-*Question*: To what extent is the lawmaking role of the legislature limited due to any of the emergency measures taken with reference to the Covid-19 pandemic? 
+*Question*: Since 11 March 2020, to what extent have any of the emergency measures with reference to Covid-19 limited the lawmaking role of the legislature? 
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.   The lawmaking role of the national legislature includes the de-jure and de-facto powers to introduce and pass legislation in all policy areas. This question asks specifically how the emergency measures have affected the lawmaking powers of the legislature. ``Rule by decree” enables the government to pass laws without the approval of the legislature, through what is commonly referred to as a decree, regulation, or ordinance, but can also be referred to by other terms.  If no legislature existed prior to Covid-19, code as 5. 
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. The lawmaking role of the national legislature includes the de-jure and de-facto powers to introduce and pass legislation in all policy areas. This question asks specifically how the emergency measures have affected the lawmaking powers of the legislature. “Rule by decree” enables the government to pass laws without the approval of the legislature, through what is commonly referred to as a decree, regulation, or ordinance, but can also be referred to by other terms. Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If no legislature existed prior to Covid-19, code as 5. Code this item based on the most severe limitations observed during the time period, even if those limitations have since been lifted. 
 
 *Scale*: Categorical, (0-5) 
 
@@ -220,6 +220,46 @@ However, the President and Party have rights to issue decrees superseding the le
  https://www.plenglish.com/index.php?o=rn&id=56061&SEO=syria-lifts-curfew-eases-covid-19-measures;
 
 https://www.france24.com/en/20200314-syria-elections-postponed-over-coronavirus
+
+
+
+
+
+## Legislature dissolution date (*legdisdate*) 
+
+*Question*: If the national legislature was dissolved, suspended, or equivalent with reference to Covid-19 since 11 March 2020, on what date did this occur? 
+
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (leglimit!=4). Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known). 
+
+*Scale*: Date format. 
+
+*Answer:* *No answer entered* 
+
+*Comments*:
+*No comment provided* 
+
+*Sources*:
+*No source provided*
+
+
+
+
+
+## Legislature resumption date (*legresdate*) 
+
+*Question*: If the national legislature was dissolved, suspended, or equivalent with reference to Covid-19 since 11 March 2020, when did it resumed its functions? 
+
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has been dissolved, suspended, or equivalent with reference to Covid-19 (leglimit=4) and has not resumed its functions; or it has not been dissolved, suspended, or equivalent with reference to Covid-19 (leglimit!=4). Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known). 
+
+*Scale*: Date format. 
+
+*Answer:* *No answer entered* 
+
+*Comments*:
+*No comment provided* 
+
+*Sources*:
+*No source provided*
 
 
 
@@ -268,6 +308,9 @@ https://reliefweb.int/report/syrian-arab-republic/syrian-arab-republic-covid-19-
 
 *Answer*: 0 
 
+*Time period*:
+*No time period specified* 
+
 *Comments*:
  The measures do not seem to discriminate de jure, but there is lack of information for whether they do so de facto. However, even the independent reporting on the measures do not mention a case like that. 
 
@@ -284,16 +327,16 @@ https://coronanet-project.org/data/reports/finished/20200507_Syria.html
 
 ## Non-derogable rights (*ndrights*) 
 
-*Question*: Since 11 March 2020, have any of the emergency measures de-jure violated non-derogable rights as defined by the ICCPR? 
+*Question*: Since 11 March 2020, have any of the emergency measures violated nonderogable rights as defined by the ICCPR? 
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Non-derogable rights include: 
+*Clarification*: Non-derogable rights include: 
  - Right to life (Article 6). 
  - Freedom from torture and cruel/inhuman treatment (Article 7).  
  - Prohibition of slavery and servitude (Article 8, I and II). 
  - Prohibition of imprisonment due to inability to fulfill a contractual obligation (Article 11). 
  - No conviction for a crime which was not a crime at the time of commitment (Article 15). 
  - Right as a person before the law (Article 16). 
- - Freedom of thought, conscience and religion (Article 18). The detailed ICCPR provisions can be found [here](www.ohchr.org/en/professionalinterest/pages/ccpr.aspx). A temporary ban on religious services does NOT count as a violation of freedom of religion as long as all religions are targeted equally. Provide detailed information about the de-jure violations, including which non-derogable rights are violated in the ndrights_comments variable. 
+ - Freedom of thought, conscience and religion (Article 18). The detailed ICCPR provisions can be found [here](www.ohchr.org/en/professionalinterest/pages/ccpr.aspx). A temporary ban on religious services does NOT count as a violation of freedom of religion as long as all religions are targeted equally. Provide detailed information about the violations, including which non-derogable rights are violated in the ndrights_comments variable. 
 
 *Scale*: Binary, (0/1) 
 
@@ -301,6 +344,9 @@ https://coronanet-project.org/data/reports/finished/20200507_Syria.html
  1. Yes. 
 
 *Answer*: 0 
+
+*Time period*:
+*No time period specified* 
 
 *Comments*:
  There exist ICCRP violations in Syria, but from the information that is available, no extra evidence was found in the covid19 context. 
@@ -387,7 +433,7 @@ https://reliefweb.int/sites/reliefweb.int/files/resources/Syria_COVID-19_Humanit
 
 ## Limitations on media reporting about Covid-19 (*merepfact*) 
 
-*Question*: Since 11 March 2020, has the government placed de-facto limitations on media reporting about the nature of the Covid-19 virus? 
+*Question*: Since 11 March 2020, have the media faced de-facto limitations on reporting about the nature of the Covid-19 virus? 
 
 *Clarification*: Here we are interested in the de-facto limitation of media reporting on the virus, its origins, treatment, and prevalence. These limits may or may not be allowed by law. Provide specific references to sources and comments to justify coding. 
 
@@ -397,6 +443,9 @@ https://reliefweb.int/sites/reliefweb.int/files/resources/Syria_COVID-19_Humanit
  1. Yes. 
 
 *Answer*: 1 
+
+*Time period*:
+*No time period specified* 
 
 *Comments*:
  There have been claims by many observers, experts, and also doctors on the ground about the prevalence of covid19 in Syria muh earlier than the date the government announced its first case (march 22). In addition, very little reporting and information is disseminated in regards to the medical aspects of the virus. 
@@ -419,7 +468,7 @@ https://reliefweb.int/sites/reliefweb.int/files/resources/Syria_COVID-19_Humanit
 
 ## Limitations on media reporting about the government response to Covid-19 (*merepgov*) 
 
-*Question*: Since 11 March 2020, has the government placed de-facto limitations on media reporting about the government response to the Covid-19 pandemic? 
+*Question*: Since 11 March 2020, have the media faced de-facto limitations on reporting about the government response to the Covid-19 pandemic? 
 
 *Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact*  as 1- Yes. These limits may or may not be allowed by law. Provide specific references to sources and comments to justify coding. 
 
@@ -429,6 +478,9 @@ https://reliefweb.int/sites/reliefweb.int/files/resources/Syria_COVID-19_Humanit
  1. Yes. 
 
 *Answer*: 1 
+
+*Time period*:
+*No time period specified* 
 
 *Comments*:
  There have been claims by many observers, experts, and also doctors on the ground about the prevalence of covid19 in Syria muh earlier than the date the government announced its first case (march 22). In addition, very little reporting and information is disseminated in regards to the medical aspects of the virus. 
@@ -451,7 +503,7 @@ https://www.voanews.com/middle-east/assad-exploiting-covid-19-prevention-measure
 
 ## Limitations on media reporting about non-Covid-19 related news (*merepoth*) 
 
-*Question*: Since 11 March 2020, has the government placed de-facto limitations on media reporting about non-Covid-19 related news, but with reference to the pandemic? 
+*Question*: Since 11 March 2020, have the media faced de-facto limitations on reporting about non-Covid-19 related news, but with reference to the pandemic? 
 
 *Clarification*: Here we are interested in the de-facto limitation of media reporting about news unrelated to the pandemic, justified by the government under its emergency response to Covid-19. These limits may or may not be allowed by law. Provide specific references to sources and comments to justify coding. 
 
@@ -461,6 +513,9 @@ https://www.voanews.com/middle-east/assad-exploiting-covid-19-prevention-measure
  1. Yes. 
 
 *Answer*: 0 
+
+*Time period*:
+*No time period specified* 
 
 *Comments*:
  No clear evidence was found in the covid19 context. 
@@ -495,6 +550,9 @@ https://www.voanews.com/middle-east/assad-exploiting-covid-19-prevention-measure
 
 *Answer*: 2 
 
+*Time period*:
+*No time period specified* 
+
 *Comments*:
  Widespread reports mention that the syrian regime has sought to control and severely limit the amount of information about the virus in the country, the reporting, and the number of cases confirmed. Even with the increase of cases from Iran, which has a very close relationship with Syrians in the country as well as the regime, the Assad regime continued to deny any cases. ''It threatened hospitals and doctors that cited coronavirus cases. It deployed members of the secret police in hospitals across regime-held territories to control and oversee the narratives of coronavirus discussions and cases across hospitals." 
 
@@ -527,6 +585,9 @@ https://www.voanews.com/middle-east/assad-exploiting-covid-19-prevention-measure
 
 *Answer*: 1 
 
+*Time period*:
+*No time period specified* 
+
 *Comments*:
  Several mentions of such incidents: for instance, ''Khaled and Salma also told us that they received ‘verbal orders’ from multiple Syrian intelligence officers to ‘bury the stories of these deaths’ and ‘not to raise any alarms’ in the media. ‘Given the total collapse of the economy and growing popular anger, the government doesn’t want to give the people an additional reason to revolt against them’ said Khaled.'' 
 
@@ -551,6 +612,9 @@ https://ipi.media/covid19-media-freedom-monitoring/;
  1. Yes. 
 
 *Answer*: 0 
+
+*Time period*:
+*No time period specified* 
 
 *Comments*:
  Although there are many reports on verbal harassment on journalists, and intimidation, i didnt find any on physical harassment, possibly due to either lack of information, or an already ''modest'' behavior of the journalists, by fear of physical harassment or worse. 
@@ -579,6 +643,9 @@ https://ipi.media/covid19-media-freedom-monitoring/;
 
 *Answer*: 1 
 
+*Time period*:
+*No time period specified* 
+
 *Comments*:
  The problem seems to be the lack of information that has been disseminated. The regime initially issued some basic facts and recommendations that were in line with the WHO guidlines, but not detailed at all, and also there are many who claim that the regime has not paid much attention is safeguarding the safety of the people, or shown signs that it takes the situation seriously. 
 
@@ -604,6 +671,9 @@ https://english.enabbaladi.net/archives/2020/04/pro-government-media-as-a-securi
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19. 
 
 *Answer*: 2 
+
+*Time period*:
+*No time period specified* 
 
 *Comments*:
  There is however a lack of information. 
@@ -631,6 +701,9 @@ https://www.washingtoninstitute.org/policy-analysis/view/syrias-three-government
  1. Yes. 
 
 *Answer*: 0 
+
+*Time period*:
+*No time period specified* 
 
 *Comments*:
  The military is anyways part of the enforcement of law and order. 
