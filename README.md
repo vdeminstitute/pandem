@@ -14,7 +14,7 @@ Click [here](https://github.com/vdeminstitute/pandem/tree/master/by_country) to 
 
 The **codebook** for this project can be accessed [here](https://github.com/vdeminstitute/pandem/blob/master/codebook/pandem_codebook.pdf).  
 
-Check out our **dashboard** [here](https://www.v-dem.net/en/analysis/PanDem/) to explore the most recent PanDem data and indices. 
+Check out our **dashboard** [here](https://www.v-dem.net/en/analysis/PanDem/) to explore the most recent PanDem data and indices. Read our **policy briefs** [here](https://www.v-dem.net/en/publications/briefing-papers/).
 
 For **research** using our PanDem data see, for example, [here](https://www.v-dem.net/media/filer_public/14/e0/14e03f3b-1c44-4389-8edf-36a141f08a2d/wp_110_final.pdf).
 
