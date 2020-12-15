@@ -1,9 +1,6 @@
 # Canada 
 
 
-Time 2020-09-02 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-02
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,16 +25,24 @@ Time 2020-09-02
  7. Other.
 
  
-*Answer*: 6 
+*Time period: Q2*: 6
+
+ 
+*Time period: Q3*: 6
+
+ 
+*Time period: Q4*: 6
+
+ 
 
 *Comments*:
- Canada has a state of emergency law, the Emergency Act, but this has not been activated. Instead, the government uses existing legal framework such as the Quarantine Act, Human Pathongen and Toxins Act, Public Health Act and Public Health Agency of Canada Act to mitigate the spread of Covid-19. Furthermore, they have approved laws relating to Covid-19 (Covid-19 Emergency Response Act 1 and 2) but these are not emergency measures that affect any democratic rights, but only provide financial aid to different sectors and groups. The emergency response, and declarations of states of emergency, have instead been conducted more or less entirely at the provincial level. Therefore, this is coded as 6, i.e. they have no national level emergency response because that response is handled by the provinces. 
+ Canada has a state of emergency legislation, the Emergency Act, but this has not been activated. Instead, the government uses existing legal framework such as the Quarantine Act, Human Pathongen and Toxins Act, Public Health Act and Public Health Agency of Canada Act to mitigate the spread of Covid-19. Furthermore, they have approved laws relating to Covid-19 (Covid-19 Emergency Response Act 1 and 2) but these are not emergency measures that affect any democratic rights, but only provide financial aid to different sectors and groups. The emergency response, and declarations of states of emergency, have instead been conducted more or less entirely at the provincial level. Therefore, this is coded as 6, i.e. they have no national level emergency response because that response is handled by the provinces. 
 
 *Sources*:
- https://www.justice.gc.ca/eng/csj-sjc/covid.html
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.canada.ca/en/public-health/corporate/mandate/about-agency/acts-regulations/list-acts-regulations.html#qt
-
+ https://www.justice.gc.ca/eng/csj-sjc/covid.html
+https://www.acaps.org/covid19-government-measures-dataset
+https://www.canada.ca/en/public-health/corporate/mandate/about-agency/acts-regulations/list-acts-regulations.html#qt
+https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/canadas-reponse.html
 
 
 
@@ -56,8 +61,15 @@ https://www.canada.ca/en/public-health/corporate/mandate/about-agency/acts-regul
 *Scale*: Character string.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No national-level emergency response. 
@@ -82,8 +94,15 @@ https://www.canada.ca/en/public-health/corporate/mandate/about-agency/acts-regul
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No national-level emergency response. 
@@ -108,8 +127,15 @@ https://www.canada.ca/en/public-health/corporate/mandate/about-agency/acts-regul
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No national-level emergency response. 
@@ -137,8 +163,15 @@ https://www.canada.ca/en/public-health/corporate/mandate/about-agency/acts-regul
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No national-level emergency response. 
@@ -156,15 +189,22 @@ https://www.canada.ca/en/public-health/corporate/mandate/about-agency/acts-regul
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No national-level emergency response. 
@@ -182,7 +222,7 @@ https://www.canada.ca/en/public-health/corporate/mandate/about-agency/acts-regul
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -192,8 +232,15 @@ https://www.canada.ca/en/public-health/corporate/mandate/about-agency/acts-regul
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No national-level emergency response. 
@@ -221,8 +268,15 @@ https://www.canada.ca/en/public-health/corporate/mandate/about-agency/acts-regul
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No national-level emergency response. 
@@ -248,21 +302,30 @@ https://www.canada.ca/en/public-health/corporate/mandate/about-agency/acts-regul
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Large part of the parliament have been working remotely, and under unusual circumstances with smaller meetings, but their lawmaking role has not been affected. They have also passed laws on financial aid packages (Covid-19 Emergency Responce Act 1 and 2) during this time. This is therefore coded as 0. 
+ Large part of the parliament have been working remotely, and under unusual circumstances with smaller meetings, but their lawmaking role has not been affected. They have also passed laws on financial aid packages (Covid-19 Emergency Responce Act 1 and 2) during this time, and continued to sit and hold its sessions. This is therefore coded as 0. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#C
-https://www.justice.gc.ca/eng/csj-sjc/covid.html
+ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#C
+https://www.justice.gc.ca/eng/csj-sjc/covid.html
 https://www.acaps.org/covid19-government-measures-dataset
+https://www.ourcommons.ca/en
 
 
 
@@ -274,15 +337,22 @@ https://www.acaps.org/covid19-government-measures-dataset
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -307,8 +377,15 @@ https://www.acaps.org/covid19-government-measures-dataset
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -338,15 +415,22 @@ https://www.acaps.org/covid19-government-measures-dataset
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- The main and primary emergency responses, such as curfews, bans on gatherings, closing of workplaces and so on, have been taken by the Canadian states and not the federal government. However, the government has coordinated a lot of work, and many efforts have occured (school closings, curfews) have occured at the same time or within days of each other.  Furthermore, the measures taken have been largely similar wihtin the states. However, the reopening of the states looks to be very different due to the large differences in cases of Covid-19. This has therefore been coded as 2, as the states have taken largely the same measures at about the same time, but that there are some differences. 
+ The initial and main emergency responses, such as curfews, bans on gatherings, closing of workplaces and so on, have been taken by the Canadian provinces and territories, and not the federal government. However, the government has coordinated a lot of work, and many efforts (school closings, curfews) occurred at the same time or within days of each other.  Furthermore, the measures taken have been largely similar within the states. However, the reopening of, and subsequent reentrance of restrictions, has varied between areas and over time depending on Covid-19 situation. As far as have been found, this variation has been fairly constant during the coded period, and this is therefore code 2 - some sub-national variation - for all three periods. 
 
 *Sources*:
- https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html?amp%Bqid=96637021
-"https://orders-in-council.canada.ca/attachment.php?attach=38952&lang=en
-https://www.theguardian.com/world/2020/apr/15/canada-coronavirus-covid-19-provinces-trudeau
+ https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html?amp%Bqid=96637021"https://orders-in-council.canada.ca/attachment.php?attach=38952&lang=enhttps://www.theguardian.com/world/2020/apr/15/canada-coronavirus-covid-19-provinces-trudeau
+https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/guidance-documents/federal-provincial-territorial-public-health-response-plan-ongoing-management-covid-19.html
 
 
 
@@ -370,10 +454,13 @@ https://www.theguardian.com/world/2020/apr/15/canada-coronavirus-covid-19-provin
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -381,8 +468,8 @@ Time period: *Jul-Sep*: 0
  Human Rights Watch and Amnesty International have not reported any discrimination within the federal or provincial response to Covid-19, and no other indications of such discrimination have been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9511
-https://www.amnesty.org/en/search/?country=38279&resourceType=newsarticle&sort=date
+ https://www.hrw.org/news?country[]=9511
+https://www.amnesty.org/en/search/?country=38279&resourceType=newsarticle&sort=date
 https://www.canada.ca/en/global-affairs/news/2020/04/human-rights-implications-of-covid-19.html
 
 
@@ -412,10 +499,13 @@ https://www.canada.ca/en/global-affairs/news/2020/04/human-rights-implications-o
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -423,8 +513,8 @@ Time period: *Jul-Sep*: 0
  Neither Human Rights Watch nor Amnesty International has reported any incidents of violations of non-derogable rights, and no other indication has been found that that has occurred in Canada's covid-19 response. This is therefore coded as 0. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9511
-https://www.amnesty.org/en/search/?country=38279&resourceType=newsarticle&sort=date
+ https://www.hrw.org/news?country[]=9511
+https://www.amnesty.org/en/search/?country=38279&resourceType=newsarticle&sort=date
 https://www.canada.ca/en/global-affairs/news/2020/04/human-rights-implications-of-covid-19.html
 
 
@@ -449,14 +539,22 @@ https://www.canada.ca/en/global-affairs/news/2020/04/human-rights-implications-o
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B177%5D=177
-https://ipi.media/canada/
+ https://rsf.org/en/thematique/internet?countries%5B177%5D=177
+https://ipi.media/canada/
 https://www.justice.gc.ca/eng/csj-sjc/covid.html
 
 
@@ -469,22 +567,29 @@ https://www.justice.gc.ca/eng/csj-sjc/covid.html
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B177%5D=177
-https://ipi.media/canada/
+ https://rsf.org/en/thematique/internet?countries%5B177%5D=177
+https://ipi.media/canada/
 https://www.justice.gc.ca/eng/csj-sjc/covid.html
 
 
@@ -497,22 +602,29 @@ https://www.justice.gc.ca/eng/csj-sjc/covid.html
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B177%5D=177
-https://ipi.media/canada/
+ https://rsf.org/en/thematique/internet?countries%5B177%5D=177
+https://ipi.media/canada/
 https://www.justice.gc.ca/eng/csj-sjc/covid.html
 
 
@@ -535,19 +647,23 @@ https://www.justice.gc.ca/eng/csj-sjc/covid.html
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Canada, and no other indications of any such limitation has been found. 
+ Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Canada, and no other indications of any such limitation has been found. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B177%5D=177
+ https://rsf.org/en/thematique/internet?countries%5B177%5D=177
 https://ipi.media/canada/
+https://cpj.org/americas/canada/
 
 
 
@@ -559,7 +675,7 @@ https://ipi.media/canada/
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -569,19 +685,23 @@ https://ipi.media/canada/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in Canada, and  no other indications of any such limitation has been found. 
+ Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in Canada, and  no other indications of any such limitation has been found. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B177%5D=177
+ https://rsf.org/en/thematique/internet?countries%5B177%5D=177
 https://ipi.media/canada/
+https://cpj.org/americas/canada/
 
 
 
@@ -603,19 +723,23 @@ https://ipi.media/canada/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in Canada,  and no other indications of any such limitation has been found. 
+ Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in Canada,  and no other indications of any such limitation has been found. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B177%5D=177
+ https://rsf.org/en/thematique/internet?countries%5B177%5D=177
 https://ipi.media/canada/
+https://cpj.org/americas/canada/
 
 
 
@@ -634,14 +758,17 @@ https://ipi.media/canada/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -649,10 +776,8 @@ Time period: *Jul-Sep*: 0
  The Canadian Government reports that accessing public information might be slower than usual due to the pressure Covid-19 puts on the public sector, but assures that requests will be reponded to and that all laws on access to information still apply. Furthermore, Reporters without Borders and the IPI report no issues on journalists lacking access to information in Canada. 
 
 *Sources*:
- https://www.canada.ca/en/parole-board/corporate/transparency/access-to-information-and-privacy.html
-https://rsf.org/en/thematique/internet?countries%5B177%5D=177
-https://ipi.media/canada/
-
+ https://www.canada.ca/en/parole-board/corporate/transparency/access-to-information-and-privacy.htmlhttps://rsf.org/en/thematique/internet?countries%5B177%5D=177https://ipi.media/canada/
+https://cpj.org/americas/canada/
 
 
 
@@ -674,19 +799,22 @@ https://ipi.media/canada/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any verbal harassment of journalists in Canada,  and no other indications of any such harassment has been found. 
+ Neither Reporters without Borders, committee to protect journalists nor International Press Institute have reported any verbal harassment of journalists in Canada,  and no other indications of any such harassment has been found. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B177%5D=177
-https://ipi.media/canada/
+ https://rsf.org/en/thematique/internet?countries%5B177%5D=177https://ipi.media/canada/
+https://cpj.org/americas/canada/§
 
 
 
@@ -708,19 +836,22 @@ https://ipi.media/canada/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any physical harassment of journalists in Canada, and no other indications of any such harassment has been found. 
+ Neither Reporters without Borders, committee to protect journalists nor International Press Institute have reported any physical harassment of journalists in Canada, and no other indications of any such harassment has been found. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B177%5D=177
-https://ipi.media/canada/
+ https://rsf.org/en/thematique/internet?countries%5B177%5D=177https://ipi.media/canada/
+https://cpj.org/americas/canada/
 
 
 
@@ -744,18 +875,21 @@ https://ipi.media/canada/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- There seem to be no deviations from the information provided by WHO and that of the Canadian Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
+ There are no deviations from the information provided by WHO and that of the Canadian Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
 
 *Sources*:
- https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html
+ https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html
 https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html?topic=tilelink
 
 
@@ -780,10 +914,13 @@ https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -791,7 +928,7 @@ Time period: *Jul-Sep*: 0
  Human Rights Watch and Amnesty International have not reported any cases of police or military violence when exeuting emergency measures, and no other indications of such violence has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9511
+ https://www.hrw.org/news?country[]=9511
 https://www.amnesty.org/en/search/?country=38279&resourceType=newsarticle&sort=date
 
 
@@ -804,7 +941,7 @@ https://www.amnesty.org/en/search/?country=38279&resourceType=newsarticle&sort=d
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -814,10 +951,13 @@ https://www.amnesty.org/en/search/?country=38279&resourceType=newsarticle&sort=d
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -826,29 +966,3 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://www.canada.ca/en/department-national-defence/campaigns/covid-19-military-response.html
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

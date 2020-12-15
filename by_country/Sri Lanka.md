@@ -1,9 +1,6 @@
 # Sri Lanka 
 
 
-Time 2020-06-17 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-06-17
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,14 +25,24 @@ Time 2020-06-17
  7. Other.
 
  
-*Answer*: 5 
+*Time period: Q2*: 5
+
+ 
+*Time period: Q3*: 6
+
+ 
+*Time period: Q4*: 6
+
+ 
 
 *Comments*:
  Sri Lanka did not go into a state of emergency. Instead curfews were introduced nationwide since 20 March 2020. A nationwide blanket curfew was imposed but it was later removed for two thirds of the country. 
 
 *Sources*:
- https://www.wionews.com/sri-lanka/sri-lanka-further-relaxes-covid-19-curfew-305660
-
+ https://www.wionews.com/sri-lanka/sri-lanka-further-relaxes-covid-19-curfew-305660
+
+
+
 https://www.bbc.com/news/world-asia-53042755
 
 
@@ -55,16 +62,21 @@ https://www.bbc.com/news/world-asia-53042755
 *Scale*: Character string.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Not applicable as emlaw=5. The state has a national level emergency response without specific reference to legal instruments. 
+*No comment provided* 
 
 *Sources*:
- https://www.wionews.com/sri-lanka/sri-lanka-further-relaxes-covid-19-curfew-305660
-
-https://www.bbc.com/news/world-asia-53042755
+*No source provided*
 
 
 
@@ -83,8 +95,15 @@ https://www.bbc.com/news/world-asia-53042755
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -109,8 +128,15 @@ https://www.bbc.com/news/world-asia-53042755
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -138,18 +164,21 @@ https://www.bbc.com/news/world-asia-53042755
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The curfew was first introduced for 3 days. It was later lifted and imposed multiple times after that. 
+*No comment provided* 
 
 *Sources*:
- https://www.reuters.com/article/us-health-coronavirus-southasia/sri-lanka-imposes-curfew-as-south-asia-steps-up-coronavirus-battle-idUSKBN217117
-
-
-https://www.cpalanka.org/curfew-in-response-to-covid-19-legal-framework-and-relevant-questions-in-sri-lanka/
-
-http://www.adaderana.lk/news.php?nid=61497
+*No source provided*
 
 
 
@@ -161,15 +190,22 @@ http://www.adaderana.lk/news.php?nid=61497
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -187,7 +223,7 @@ http://www.adaderana.lk/news.php?nid=61497
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -197,8 +233,15 @@ http://www.adaderana.lk/news.php?nid=61497
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -226,8 +269,15 @@ http://www.adaderana.lk/news.php?nid=61497
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -253,21 +303,28 @@ http://www.adaderana.lk/news.php?nid=61497
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 3 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- In November 2019, Sri Lanka held elections that resulted in an opposition majority parliament. On 02 March, the President dissolved the parliament calling for new elections. Shortly thereafter, the government instituted a 52-day lockdown. Since then, elections have been delayed three times, now until 05 August, citing concerns over Covid-19. 
+ On 02 March, the President dissolved the parliament calling for new elections, originally scheduled for 25 April 2020. Shortly thereafter, the government instituted a 52-day lockdown. Since then, elections have been delayed three times, until 05 August, citing concerns over Covid-19. Since the dissolution of parliament is justified with the pandemic, March-June, July-September periods are coded as 4. 
 
 *Sources*:
- https://www.reuters.com/article/us-sri-lanka-politics-election/sri-lanka-delays-general-election-for-second-time-sets-august-5-as-new-date-idUSKBN23H1RW
-https://www.dw.com/en/coronavirus-keeps-sri-lanka-without-a-functioning-parliament/a-53615108
-https://www.parliament.lk/en/news-en/view/1851?category=6
+ https://www.reuters.com/article/us-sri-lanka-politics-election/sri-lanka-delays-general-election-for-second-time-sets-august-5-as-new-date-idUSKBN23H1RWhttps://www.dw.com/en/coronavirus-keeps-sri-lanka-without-a-functioning-parliament/a-53615108https://www.parliament.lk/en/news-en/view/1851?category=6
+https://www.electionguide.org/elections/id/3498/
 
 
 
@@ -279,23 +336,28 @@ https://www.parliament.lk/en/news-en/view/1851?category=6
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 2020-03-02
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 2020-03-02
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- There is no information suggesting that the Sri Lankan national legislature was dissolved.  However, elections were held in Sri Lanka on 5 August 2020. 
+ On 02 March, the President dissolved the parliament calling for new elections, originally scheduled for 25 April 2020. Shortly thereafter, the government instituted a 52-day lockdown. Since then, elections have been delayed three times, until 05 August, citing concerns over Covid-19. 
 
 *Sources*:
  https://www.bbc.com/news/world-asia-53694392
-
-
 https://www.reuters.com/article/us-sri-lanka-election-result-idUSKCN25308L
 
 
@@ -315,16 +377,21 @@ https://www.reuters.com/article/us-sri-lanka-election-result-idUSKCN25308L
 *Scale*: Date format.
 
  
+*Time period: Q2*: 2020-08-05
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 2020-08-05
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- There is no information suggesting that the Sri Lankan national legislature was dissolved.  However, elections were held in Sri Lanka on 5 August 2020. 
+ Elections were held in Sri Lanka on 5 August 2020. 
 
 *Sources*:
  https://www.bbc.com/news/world-asia-53694392
-
-
 https://www.reuters.com/article/us-sri-lanka-election-result-idUSKCN25308L
 
 
@@ -349,13 +416,33 @@ https://www.reuters.com/article/us-sri-lanka-election-result-idUSKCN25308L
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- I have not found information that suggests that different parts of Sri Lanka has varying response to the pandemic. 
+ A 52 day island wide lockdown was introduced in Sri Lanka on 20 March 2020.
+
+After this, curfews were selectively implmented in certain regions based on the Covid situation.
+
+For example,  a qurantine curfew was implmented in the Gampaha District in October 2020 after multiple cases of Covid-19 was detected in the area.
+
+ 
 
 *Sources*:
-*No source provided*
+ https://island.lk/sri-lanka-struck-hard-as-covid-19-starts-global-second-wave/
+
+
+http://www.dailymirror.lk/breaking_news/Curfew-in-Gampaha-will-remain-for-few-days/108-197677
+
+https://www.newsfirst.lk/2020/10/23/quarantine-curfew-not-extended-to-other-areas/
+
 
 
 
@@ -379,10 +466,13 @@ https://www.reuters.com/article/us-sri-lanka-election-result-idUSKCN25308L
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 3
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
 
  
 
@@ -391,7 +481,9 @@ Time period: *Jul-Sep*: 2
 
 1: Senior government figures have made public remarks associating the Muslim community with the Covid-19 infection. 
 
-2: The Sri Lankan government have been prohibiting burials which are essential according to Islam. As such Muslims who have died from Covid-19 related deaths have been forcibly cremated on the instructions of the authorities and against the wishes of the deceased families. The WHO’s guidelines for the safe management of dead bodies in the context of Covid-19 allows for both burials and cremations. A petition against the cremation rule was accepted by the country’s Supreme court and began hearing the case on 13 July 2020. No new information was found about the hearing. 
+2: The Sri Lankan government have been prohibiting burials which are essential according to Islam. As such Muslims who have died from Covid-19 related deaths have been forcibly cremated on the instructions of the authorities and against the wishes of the deceased families. The WHO’s guidelines for the safe management of dead bodies in the context of Covid-19 allows for both burials and cremations. A petition against the cremation rule was accepted by the country’s Supreme court and began hearing the case on 13 July 2020. No new information was found about the hearing.
+
+There have been multiple articles published in November suggesting that the prohibition of Muslim burials are still taking place. 
 
 *Sources*:
  https://www.hrw.org/news/2020/04/23/sri-lanka-due-process-concerns-arrests-muslims
@@ -402,6 +494,12 @@ https://www.amnesty.org/en/latest/news/2020/04/sri-lanka-religious-minorities-mu
 
 
 https://www.bbc.com/news/world-asia-53295551
+
+https://www.tamilguardian.com/content/sri-lanka-faces-international-condemnation-over-forced-cremation-muslims
+
+https://www.thecitizen.in/index.php/en/NewsDetail/index/6/19620/UN-Urges-Sri-Lanka-to-Allow-Last-Rites-for-Covid-Patients-as-Per-Religion
+
+http://www.ft.lk/columns/Lankan-Muslims-deeply-disturbed-at-Govt-failure-to-stop-cremating-Muslims-who-died-of-COVID-19/4-708578
 
 
 
@@ -430,15 +528,20 @@ https://www.bbc.com/news/world-asia-53295551
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The Sri Lankan government have been prohibiting burials which are essential according to Islam. As such Muslims who have died from Covid-19 related deaths have been forcibly cremated on the instructions of the authorities and against the wishes of the deceased families. The WHO’s guidelines for the safe management of dead bodies in the context of Covid-19 allows for both burials and cremations. 
+ The Sri Lankan government have been prohibiting burials which are essential according to Islam. As such Muslims who have died from Covid-19 related deaths have been forcibly cremated on the instructions of the authorities and against the wishes of the deceased families. The WHO’s guidelines for the safe management of dead bodies in the context of Covid-19 allows for both burials and cremations.
+
+There have been multiple articles published in November suggesting that the prohibition of Muslim burials are still taking place. 
 
 *Sources*:
  https://www.amnesty.org/en/latest/news/2020/04/sri-lanka-religious-minorities-must-have-their-final-rites-respected/
@@ -448,6 +551,8 @@ https://english.alarabiya.net/en/coronavirus/2020/04/20/Coronavirus-Muslims-in-S
 
 
 https://www.thehindu.com/news/international/petitions-challenge-sri-lankan-governments-compulsory-cremation-rule/article31585459.ece
+
+https://thewire.in/south-asia/sri-lanka-covid-19-demonisation-minorities
 
 
 
@@ -471,14 +576,24 @@ https://www.thehindu.com/news/international/petitions-challenge-sri-lankan-gover
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  While there hasn't been measures on media freedom with regards to journalists and mainstream media, the Acting Inspector General (IGP) instructed the police to take legal action against those who publish posts on social media criticising government officials and obstructing their duties. The police have not indicated under what legal provision these actions will be taken. The police reportedly arrested more than seven individuals in the week after this order came into place. As of April 17 the police had reportedly arrested 17 individuals for spreading false informationabout COVID-19. None of these people were journalists. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/03/sri-lanka-uses-pandemic-curtail-free-expression
-
+ https://www.hrw.org/news/2020/04/03/sri-lanka-uses-pandemic-curtail-free-expression
+
+
+
 http://adayaalam.org/situation-brief-no-3-covid-19-sri-lankas-militarised-response-poses-grave-threats-to-human-rights/
 
 
@@ -491,15 +606,22 @@ http://adayaalam.org/situation-brief-no-3-covid-19-sri-lankas-militarised-respon
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -517,15 +639,22 @@ http://adayaalam.org/situation-brief-no-3-covid-19-sri-lankas-militarised-respon
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -553,10 +682,13 @@ http://adayaalam.org/situation-brief-no-3-covid-19-sri-lankas-militarised-respon
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -585,7 +717,7 @@ https://www.hrw.org/asia/sri-lanka
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -595,10 +727,13 @@ https://www.hrw.org/asia/sri-lanka
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -607,7 +742,9 @@ Time period: *Jul-Sep*: 1
 
 2: Sri Lanka's media environment has been heavily controlled and censored before the pandemic. Several activists and journalists have been warned that they are on the government 'watch lists'.
 
-3: Journalists have also fled the country. An example is Dharisha Bastians. The former editor of the Sunday Observer  left Sri Lanka after her telephone records were publicized and her laptop seized by the authorities. 
+3: Journalists have also fled the country. An example is Dharisha Bastians. The former editor of the Sunday Observer  left Sri Lanka after her telephone records were publicized and her laptop seized by the authorities.
+
+I have not found new examples of the media facing de-facto limitations on reporting on the nature of Covid-19. However, given the the frequency of the previous cases and Sri Lanka's restricted media environment,  I have coded this variable as 1 for the Oct/Dec period. 
 
 *Sources*:
  http://adayaalam.org/situation-brief-no-3-covid-19-sri-lankas-militarised-response-poses-grave-threats-to-human-rights/
@@ -639,10 +776,13 @@ https://www.hrw.org/news/2020/06/24/sri-lanka-end-persecution-journalist
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -678,14 +818,17 @@ https://www.hrw.org/asia/sri-lanka
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -730,10 +873,13 @@ http://adayaalam.org/wp-content/uploads/2020/04/COVID-19-Situation-Brief-Sri-Lan
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -772,10 +918,13 @@ https://www.hrw.org/asia/sri-lanka
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -816,10 +965,13 @@ https://www.hrw.org/asia/sri-lanka
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -873,10 +1025,13 @@ https://www.who.int/publications/i/item/infection-prevention-and-control-for-the
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -908,7 +1063,7 @@ https://www.newsfirst.lk/2020/04/13/two-cops-interdicted-for-imposing-indian-sty
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -918,15 +1073,18 @@ https://www.newsfirst.lk/2020/04/13/two-cops-interdicted-for-imposing-indian-sty
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The military has been participating in various ways. For example, they have been participating in contact tracing and running quarantine centers. 
+ The military has been participating in various ways during the 52 day lockdown period. For example, they have been participating in contact tracing and running quarantine centers. They continue to participate in enforcing confinement measures. 
 
 *Sources*:
  http://adayaalam.org/wp-content/uploads/2020/04/COVID-19-Situation-Brief-Sri-Lankas-Militarised-Response-poses-grave-threats-to-human-rights.pdf
@@ -934,28 +1092,6 @@ Time period: *Jul-Sep*: 0
 
 https://www.thehindu.com/news/international/covid-19-sri-lankan-military-is-helping-the-country-fight-the-pandemic/article31350778.ece#:~:text=National%20Operation%20Center,by%20Army%20Commander%20Shavendra%20Silva.
 
+https://www.icj.org/sri-lanka-vulnerable-groups-pay-the-price-for-militarization-of-covid-19-response/
 
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*
+https://www.medact.org/2020/blogs/sri-lanka-coronavirus/

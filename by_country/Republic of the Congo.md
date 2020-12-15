@@ -1,9 +1,6 @@
 # Republic of the Congo 
 
 
-Time 2020-09-04 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-04
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,18 +25,26 @@ Time 2020-09-04
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  The government of the Republic of the Congo declared a "state of health emergency" on March 28th (to enter into force from March 31) 2020 through a presidential decree. 
 
-Constitution (2015), articles 93, 157 (provisions on state of emergency). Coded as 1 instrad of 2 because the Constitution does not offer a distinct provision for a state of health emergency,despite the fact that what was officially declared was a state of health emergency (the constitution articles looks as if the allow for adjusted language to the nature of the crisis (e.g. ''state of siege'') as warranted. 
+Constitution (2015), articles 93, 157 (provisions on state of emergency). Coded as 1 instead of 2 because the Constitution does not offer a distinct provision for a state of health emergency,despite the fact that what was officially declared was a state of health emergency (the constitution articles looks as if the allow for adjusted language to the nature of the crisis (e.g. ''state of siege'') as warranted. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Congo_2015.pdf?lang=en
-https://www.africanews.com/2020/03/30/congo-republic-heads-into-coronavirus-lockdown/
-https://www.tourisme-environnement.gouv.cg/decret-portant-declaration-de-letat-durgence-sanitaire-republique-congo/
-https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
+ https://www.constituteproject.org/constitution/Congo_2015.pdf?lang=en
+https://www.africanews.com/2020/03/30/congo-republic-heads-into-coronavirus-lockdown/
+https://www.tourisme-environnement.gouv.cg/decret-portant-declaration-de-letat-durgence-sanitaire-republique-congo/
+https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
 https://cms.law/fr/media/local/cms-bfl/files/veille-covid-19-en-afrique-du-13-au-17-avril-2020
 
 
@@ -59,16 +64,23 @@ https://cms.law/fr/media/local/cms-bfl/files/veille-covid-19-en-afrique-du-13-au
 *Scale*: Character string.
 
  
-*Answer*: Constitution (2015), articles 93, 157. 
+*Time period: Q2*: Constitution (2015), articles 93, 157.
+
+ 
+*Time period: Q3*: Constitution (2015), articles 93, 157.
+
+ 
+*Time period: Q4*: Constitution (2015), articles 93, 157.
+
+ 
 
 *Comments*:
  Decree no 2020-93 of March 30, 2020. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Congo_2015.pdf?lang=en
-https://www.tourisme-environnement.gouv.cg/decret-portant-declaration-de-letat-durgence-sanitaire-republique-congo/
-https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
-
+ https://www.constituteproject.org/constitution/Congo_2015.pdf?lang=en
+https://www.tourisme-environnement.gouv.cg/decret-portant-declaration-de-letat-durgence-sanitaire-republique-congo/
+https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
 
 
 
@@ -87,15 +99,23 @@ https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgenc
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-31 
+*Time period: Q2*: 2020-03-31
+
+ 
+*Time period: Q3*: 2020-03-31
+
+ 
+*Time period: Q4*: 2020-03-31
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://www.africanews.com/2020/03/30/congo-republic-heads-into-coronavirus-lockdown/
-https://www.tourisme-environnement.gouv.cg/decret-portant-declaration-de-letat-durgence-sanitaire-republique-congo/
-https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
+ https://www.africanews.com/2020/03/30/congo-republic-heads-into-coronavirus-lockdown/
+https://www.tourisme-environnement.gouv.cg/decret-portant-declaration-de-letat-durgence-sanitaire-republique-congo/
+https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
 https://cms.law/fr/media/local/cms-bfl/files/veille-covid-19-en-afrique-du-13-au-17-avril-2020
 
 
@@ -115,15 +135,23 @@ https://cms.law/fr/media/local/cms-bfl/files/veille-covid-19-en-afrique-du-13-au
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The government of The Republic of Congo has again extended the State of Health Emergency through October 18, 2020. 
+ The government of The Republic of Congo has last extended the country's state of health emergency until December 16, 2020. A nightly curfew remains in place in Brazzaville and Pointe-Noire between 20:00 and 05:00 (local time). 
 
 *Sources*:
- https://cg.usembassy.gov/covid-19-information/
-https://www.garda.com/crisis24/news-alerts/383916/congo-authorities-extend-state-of-health-emergency-until-october-18-update-12
+ https://cg.usembassy.gov/health-alert-the-government-of-the-republic-of-congo-roc-extended-a-state-of-health-emergency-until-december-16-to-limit-the-spread-of-covid-19/
+https://www.garda.com/crisis24/news-alerts/397456/congo-authorities-extend-state-of-health-emergency-until-november-27-update-14
+
 
 
 
@@ -146,14 +174,25 @@ https://www.garda.com/crisis24/news-alerts/383916/congo-authorities-extend-state
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- DECRETE - Article premier. - L'état d'urgence sanitaire est déclaré, sur toute l'étendue du territoire national, pour une durée de vingt jours, à compter du 31 mars 2020. (for a period of 20 days). 
+ The state of health emergency was declared initially, on March 31, for a period of 21 days. It is being renewed every 20 days by law. 
 
 *Sources*:
- https://www.tourisme-environnement.gouv.cg/decret-portant-declaration-de-letat-durgence-sanitaire-republique-congo/
-https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
+ https://cg.usembassy.gov/health-alert-the-government-of-the-republic-of-congo-roc-extended-a-state-of-health-emergency-until-december-16-to-limit-the-spread-of-covid-19/
+https://www.garda.com/crisis24/news-alerts/397456/congo-authorities-extend-state-of-health-emergency-until-november-27-update-14
+
+https://www.tourisme-environnement.gouv.cg/decret-portant-declaration-de-letat-durgence-sanitaire-republique-congo/
+https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
 https://cms.law/fr/media/local/cms-bfl/files/veille-covid-19-en-afrique-du-13-au-17-avril-2020
 
 
@@ -166,21 +205,32 @@ https://cms.law/fr/media/local/cms-bfl/files/veille-covid-19-en-afrique-du-13-au
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-19 
+*Time period: Q2*: 2020-06-20
+
+ 
+*Time period: Q3*: 2020-09-08
+
+ 
+*Time period: Q4*: 2020-12-16
+
+ 
 
 *Comments*:
-*No comment provided* 
+ The state of health emergency was declared initially, on March 31, for a period of 21 days. It is being renewed ever since, and all the extension included a limit date. 
 
 *Sources*:
- https://www.tourisme-environnement.gouv.cg/decret-portant-declaration-de-letat-durgence-sanitaire-republique-congo/
-https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
+ https://cg.usembassy.gov/health-alert-the-government-of-the-republic-of-congo-roc-extended-a-state-of-health-emergency-until-december-16-to-limit-the-spread-of-covid-19/
+https://www.garda.com/crisis24/news-alerts/397456/congo-authorities-extend-state-of-health-emergency-until-november-27-update-14
+
+https://www.garda.com/crisis24/news-alerts/368681/congo-authorities-extend-state-of-health-emergency-until-september-8-update-10
+https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
 https://cms.law/fr/media/local/cms-bfl/files/veille-covid-19-en-afrique-du-13-au-17-avril-2020
 
 
@@ -193,7 +243,7 @@ https://cms.law/fr/media/local/cms-bfl/files/veille-covid-19-en-afrique-du-13-au
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -203,14 +253,22 @@ https://cms.law/fr/media/local/cms-bfl/files/veille-covid-19-en-afrique-du-13-au
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- 'The law provides that a state of emergency and siege are decreed for a maximum of twenty days. In its article 11, the aforementioned text specifies that at the expiration of the initial deadline, the President of the Republic, at his request, can be authorized by the parliament to extend the state of siege and emergency, for a period which cannot go beyond twenty days.''
-
-Article 93 Constitution - 
-When the institutions of the Republic,(........)  are menaced in a grave and imminent manner[,] and that the regular functioning of the public powers is interrupted, the President of the Republic takes the measures required by the circumstances, after consultation of the Prime Minister and of the Presidents of the two Chambers of the Parliament.
-The Parliament meets of plain right in extraordinary session.
+ 'The law provides that a state of emergency and siege are decreed for a maximum of twenty days. In its article 11, the aforementioned text specifies that at the expiration of the initial deadline, the President of the Republic, at his request, can be authorized by the parliament to extend the state of siege and emergency, for a period which cannot go beyond twenty days.''
+
+Article 93 Constitution - 
+When the institutions of the Republic,(........)  are menaced in a grave and imminent manner[,] and that the regular functioning of the public powers is interrupted, the President of the Republic takes the measures required by the circumstances, after consultation of the Prime Minister and of the Presidents of the two Chambers of the Parliament.
+The Parliament meets of plain right in extraordinary session.
 The Parliament establishes the time period at the term of which the President of the Republic can no longer take the exceptional measures. 
 
 *Sources*:
@@ -236,16 +294,26 @@ The Parliament establishes the time period at the term of which the President of
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
 
-*Comments*:
- 'The National Assembly and the Senate adopted on Sunday April 19, 2020 in Brazzaville, after a special session, the bill authorizing the President of the Republic, Denis Sassou N'Guesso to extend the term of the state of health emergency for a period of twenty (20) days.''
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
  
 
+*Comments*:
+ The National Assembly and the Senate adopted on Sunday April 19, 2020 in Brazzaville, after a special session, the bill authorizing the President of the Republic, Denis Sassou N'Guesso to extend the term of the state of health emergency for a period of twenty (20) days.''
+The later extensions of the state of emergency have been approved by the Parliament 
+
 *Sources*:
- http://apanews.net/en/news/congo-extends-health-emergency-for-20-days
-https://fr.allafrica.com/stories/202004300846.html
-https://lesechos-congobrazza.com/politique/6901-covid-19-au-congo-ca-y-est-le-parlement-a-adopte-la-loi-autorisant-la-prorogation-de-l-etat-d-urgence
+ https://ambacongofr.org/index.php/l-ambassade/actualites/677-covid-19-le-conseil-des-ministre-autorise-de-nouveau-la-prorogation-de-l-etat-d-urgence-sur-toute-l-etendue-du-territoire-national
+http://ambacongofr.org/index.php/l-ambassade/actualites/663-covid-19-un-nouveau-projet-de-loi-autorisant-l-etat-d-urgence-sanitaire-au-congo-a-ete-adopte-par-le-conseil-des-ministres
+http://apanews.net/en/news/congo-extends-health-emergency-for-20-days
+https://fr.allafrica.com/stories/202004300846.html
+https://lesechos-congobrazza.com/politique/6901-covid-19-au-congo-ca-y-est-le-parlement-a-adopte-la-loi-autorisant-la-prorogation-de-l-etat-d-urgence
 https://ambacongofr.org/index.php/l-ambassade/actualites/529-le-conseil-des-ministres-approuve-le-projet-de-loi-prorogeant-l-etat-d-urgence-sanitaire?showall=1&limitstart=
 
 
@@ -266,21 +334,29 @@ https://ambacongofr.org/index.php/l-ambassade/actualites/529-le-conseil-des-mini
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- 'The state of health emergency, recalled the two chambers, gives indeed power to the government to take by decree the general measures limiting the freedom to come and go, the freedom to undertake and the freedom of assembly and allows to proceed requisitions of all goods and services necessary to combat the health disaster.''
-
+ 'The state of health emergency, recalled the two chambers, gives indeed power to the government to take by decree the general measures limiting the freedom to come and go, the freedom to undertake and the freedom of assembly and allows to proceed requisitions of all goods and services necessary to combat the health disaster.''
+
  
 
 *Sources*:
- https://lesechos-congobrazza.com/politique/6901-covid-19-au-congo-ca-y-est-le-parlement-a-adopte-la-loi-autorisant-la-prorogation-de-l-etat-d-urgence
+ https://lesechos-congobrazza.com/politique/6901-covid-19-au-congo-ca-y-est-le-parlement-a-adopte-la-loi-autorisant-la-prorogation-de-l-etat-d-urgence
 https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
 
 
@@ -293,15 +369,22 @@ https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -326,8 +409,15 @@ https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -357,17 +447,26 @@ https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- As of August 27, 2020, the government of the Republic of Congo has extended the state of Health Emergency until October 18 in the whole territory, but since July 28, the curfew regressed from 22:00 to 20:00 until 05:00 in Brazzaville and Pointe-Noire.
-
-''Under the new containment measures, an overnight curfew between 20:00 and 05:00 (local time) is in place nationwide. Only individuals who provide essential goods and services will be exempt from the curfew. Additional security personnel will be deployed to enforce the restrictions. All places of worship, schools, bars, and restaurants will also be closed.'' 
+ During March-June, the state of emergency and the curfew were nationwide. Between July-September and October-December, the curfew regressed from 22:00 to 20:00 until 05:00 in Brazzaville and Pointe-Noire.
+ 
 
 *Sources*:
- https://cg.usembassy.gov/covid-19-health-alert-08272020/
-https://www.africanews.com/2020/03/30/congo-republic-heads-into-coronavirus-lockdown/
-https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
+ https://cg.usembassy.gov/health-alert-the-government-of-the-republic-of-congo-roc-extended-a-state-of-health-emergency-until-december-16-to-limit-the-spread-of-covid-19/
+https://www.garda.com/crisis24/news-alerts/397456/congo-authorities-extend-state-of-health-emergency-until-november-27-update-14
+https://cg.usembassy.gov/covid-19-health-alert-08272020/
+https://www.africanews.com/2020/03/30/congo-republic-heads-into-coronavirus-lockdown/
+https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
 https://www.garda.com/crisis24/news-alerts/327701/congo-curfew-and-health-emergency-comes-into-effect-march-31-update-2
 
 
@@ -392,10 +491,13 @@ https://www.garda.com/crisis24/news-alerts/327701/congo-curfew-and-health-emerge
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -403,9 +505,9 @@ Time period: *Jul-Sep*: 0
  No evidence was found. 
 
 *Sources*:
- https://fr.africanews.com/2020/07/21/coronavirus-en-afrique-l-essentiel-de-la-situation/
-https://www.africanews.com/2020/03/30/congo-republic-heads-into-coronavirus-lockdown/
-https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
+ https://fr.africanews.com/2020/07/21/coronavirus-en-afrique-l-essentiel-de-la-situation/
+https://www.africanews.com/2020/03/30/congo-republic-heads-into-coronavirus-lockdown/
+https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
 https://www.garda.com/crisis24/news-alerts/327701/congo-curfew-and-health-emergency-comes-into-effect-march-31-update-2
 
 
@@ -435,24 +537,27 @@ https://www.garda.com/crisis24/news-alerts/327701/congo-curfew-and-health-emerge
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No evidence was found.
-
-However, the congolese government were refusing medical evacuation to the Congolese opponent Jean-Marie Michel Mokoko, 73, sentenced in 2018 to twenty years in prison.  “The Congolese authorities must, as a matter of urgency, release General Jean-Marie Michel Mokoko, whose health is in danger, while cases of Covid-19 contamination have been reported to the Brazzaville remand center, where he has been arbitrarily detained for four years, ” Amnesty International said in a statement.
-He was eventually flown to turkish hospital for treatment. 
+ No evidence was found.
+
+However, the congolese government were refusing medical evacuation to the Congolese opponent Jean-Marie Michel Mokoko, 73, sentenced in 2018 to twenty years in prison.  “The Congolese authorities must, as a matter of urgency, release General Jean-Marie Michel Mokoko, whose health is in danger, while cases of Covid-19 contamination have been reported to the Brazzaville remand center, where he has been arbitrarily detained for four years, ” Amnesty International said in a statement.
+He was eventually flown to turkish hospital for treatment. 
  
 
 *Sources*:
- https://www.lemonde.fr/afrique/article/2020/07/03/congo-brazzaville-l-opposant-jean-marie-michel-mokoko-hospitalise-sa-defense-exige-sa-liberation_6045048_3212.html
-https://fr.africanews.com/2020/07/21/coronavirus-en-afrique-l-essentiel-de-la-situation/
-https://www.africanews.com/2020/07/30/ivory-coast-ouattara-names-new-prime-minister-but-declines-to-confirm-election-bid//
+ https://www.lemonde.fr/afrique/article/2020/07/03/congo-brazzaville-l-opposant-jean-marie-michel-mokoko-hospitalise-sa-defense-exige-sa-liberation_6045048_3212.html
+https://fr.africanews.com/2020/07/21/coronavirus-en-afrique-l-essentiel-de-la-situation/
+https://www.africanews.com/2020/07/30/ivory-coast-ouattara-names-new-prime-minister-but-declines-to-confirm-election-bid//
 https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
 
 
@@ -477,14 +582,22 @@ https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgenc
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No evidence was found. 
 
 *Sources*:
- https://www.africanews.com/2020/03/30/congo-republic-heads-into-coronavirus-lockdown/
-https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
+ https://www.africanews.com/2020/03/30/congo-republic-heads-into-coronavirus-lockdown/
+https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
 https://www.garda.com/crisis24/news-alerts/327701/congo-curfew-and-health-emergency-comes-into-effect-march-31-update-2
 
 
@@ -497,15 +610,22 @@ https://www.garda.com/crisis24/news-alerts/327701/congo-curfew-and-health-emerge
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -523,15 +643,22 @@ https://www.garda.com/crisis24/news-alerts/327701/congo-curfew-and-health-emerge
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -559,26 +686,29 @@ https://www.garda.com/crisis24/news-alerts/327701/congo-curfew-and-health-emerge
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- (RSF) ''Journalists pressured to censor themselves: 
-The country seems pluralistic but this is just a facade. There is a score of privately-owned TV stations, a similar number of newspapers and around 40 radio stations, but all are under strong pressure to censor themselves and many are owned by government allies. Since 2014, several journalists have been threatened, forced to flee the country or summarily deported for criticizing the government or inviting opposition politicians to express their views. During the 2016 presidential election, the Internet was disconnected to prevent journalists and activists from verifying and challenging the results.''
-
-State TV anchor in Congo suspended after asking a minister 'inconvenient question'' about COVID-19 pandemic
+ (RSF) ''Journalists pressured to censor themselves: 
+The country seems pluralistic but this is just a facade. There is a score of privately-owned TV stations, a similar number of newspapers and around 40 radio stations, but all are under strong pressure to censor themselves and many are owned by government allies. Since 2014, several journalists have been threatened, forced to flee the country or summarily deported for criticizing the government or inviting opposition politicians to express their views. During the 2016 presidential election, the Internet was disconnected to prevent journalists and activists from verifying and challenging the results.''
+
+State TV anchor in Congo suspended after asking a minister 'inconvenient question'' about COVID-19 pandemic
 ''Rocil Otouna was discreetly sidelined as news anchor after putting some difficult questions about the coronavirus crisis to the justice minister in an interview two weeks ago. Otouna has not been seen on the air since 30 April, when he asked the minister about the lack of information about coronavirus victims, including those currently ill and those who have recovered, and about contradictions between the government's figures and those given by the president on both the caseload and the lockdown's economic and social consequences.'' 
 
 *Sources*:
- https://rsf.org/en/congo-brazzaville
-https://rsf.org/en/rsf_search?key=congo
-https://rsf.org/en/news/republic-congo-state-tv-urged-reinstate-news-anchor-sidelined-after-coronavirus-interview
-https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/africa/republic-of-congo/
+ https://rsf.org/en/congo-brazzaville
+https://rsf.org/en/rsf_search?key=congo
+https://rsf.org/en/news/republic-congo-state-tv-urged-reinstate-news-anchor-sidelined-after-coronavirus-interview
+https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/africa/republic-of-congo/
 https://lesechos-congobrazza.com/societe/6960-congo-affaire-rocil-otouna-le-president-du-conseil-superieur-de-la-liberte-de-communication-ouvre-une-procedure-juridique-et-administrative
 
 
@@ -591,7 +721,7 @@ https://lesechos-congobrazza.com/societe/6960-congo-affaire-rocil-otouna-le-pres
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -601,25 +731,27 @@ https://lesechos-congobrazza.com/societe/6960-congo-affaire-rocil-otouna-le-pres
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- (RSF) ''Journalists pressured to censor themselves: 
-The country seems pluralistic but this is just a facade. There is a score of privately-owned TV stations, a similar number of newspapers and around 40 radio stations, but all are under strong pressure to censor themselves and many are owned by government allies. Since 2014, several journalists have been threatened, forced to flee the country or summarily deported for criticizing the government or inviting opposition politicians to express their views. During the 2016 presidential election, the Internet was disconnected to prevent journalists and activists from verifying and challenging the results.''
-
-State TV anchor in Congo suspended after asking a minister 'inconvenient question'' about COVID-19 pandemic
+ (RSF) ''Journalists pressured to censor themselves: 
+The country seems pluralistic but this is just a facade. There is a score of privately-owned TV stations, a similar number of newspapers and around 40 radio stations, but all are under strong pressure to censor themselves and many are owned by government allies. Since 2014, several journalists have been threatened, forced to flee the country or summarily deported for criticizing the government or inviting opposition politicians to express their views. During the 2016 presidential election, the Internet was disconnected to prevent journalists and activists from verifying and challenging the results.''
+
+State TV anchor in Congo suspended after asking a minister 'inconvenient question'' about COVID-19 pandemic
 ''Rocil Otouna was discreetly sidelined as news anchor after putting some difficult questions about the coronavirus crisis to the justice minister in an interview two weeks ago. Otouna has not been seen on the air since 30 April, when he asked the minister about the lack of information about coronavirus victims, including those currently ill and those who have recovered, and about contradictions between the government's figures and those given by the president on both the caseload and the lockdown's economic and social consequences.'' 
 
 *Sources*:
- https://rsf.org/en/congo-brazzaville
-https://rsf.org/en/rsf_search?key=congo
-https://rsf.org/en/news/republic-congo-state-tv-urged-reinstate-news-anchor-sidelined-after-coronavirus-interview
-https://ipi.media/covid19-media-freedom-monitoring/
+ https://rsf.org/en/congo-brazzavillehttps://rsf.org/en/rsf_search?key=congo
+https://rsf.org/en/news/republic-congo-state-tv-urged-reinstate-news-anchor-sidelined-after-coronavirus-interview
+https://ipi.media/covid19-media-freedom-monitoring/
 https://lesechos-congobrazza.com/societe/6960-congo-affaire-rocil-otouna-le-president-du-conseil-superieur-de-la-liberte-de-communication-ouvre-une-procedure-juridique-et-administrative
 
 
@@ -642,10 +774,13 @@ https://lesechos-congobrazza.com/societe/6960-congo-affaire-rocil-otouna-le-pres
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -653,9 +788,9 @@ Time period: *Jul-Sep*: 0
  No evidence was found. 
 
 *Sources*:
- https://rsf.org/en/congo-brazzaville
-https://rsf.org/en/rsf_search?key=congo
-https://ipi.media/covid19-media-freedom-monitoring/
+ https://rsf.org/en/congo-brazzaville
+https://rsf.org/en/rsf_search?key=congo
+https://ipi.media/covid19-media-freedom-monitoring/
 https://cpj.org/africa/republic-of-congo/
 
 
@@ -675,14 +810,17 @@ https://cpj.org/africa/republic-of-congo/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -694,11 +832,16 @@ State TV anchor in Congo suspended after asking a minister 'inconvenient questio
 ''Rocil Otouna was discreetly sidelined as news anchor after putting some difficult questions about the coronavirus crisis to the justice minister in an interview two weeks ago. Otouna has not been seen on the air since 30 April, when he asked the minister about the lack of information about coronavirus victims, including those currently ill and those who have recovered, and about contradictions between the government's figures and those given by the president on both the caseload and the lockdown's economic and social consequences.'' 
 
 *Sources*:
- https://rsf.org/en/congo-brazzaville
-https://rsf.org/en/rsf_search?key=congo
-https://rsf.org/en/news/republic-congo-state-tv-urged-reinstate-news-anchor-sidelined-after-coronavirus-interview
-https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/africa/republic-of-congo/
+ https://rsf.org/en/congo-brazzaville
+
+https://rsf.org/en/rsf_search?key=congo
+
+https://rsf.org/en/news/republic-congo-state-tv-urged-reinstate-news-anchor-sidelined-after-coronavirus-interview
+
+https://ipi.media/covid19-media-freedom-monitoring/
+
+https://cpj.org/africa/republic-of-congo/
+
 https://lesechos-congobrazza.com/societe/6960-congo-affaire-rocil-otouna-le-president-du-conseil-superieur-de-la-liberte-de-communication-ouvre-une-procedure-juridique-et-administrative
 
 
@@ -721,10 +864,13 @@ https://lesechos-congobrazza.com/societe/6960-congo-affaire-rocil-otouna-le-pres
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -732,9 +878,12 @@ Time period: *Jul-Sep*: 0
  No evidence found. 
 
 *Sources*:
- https://rsf.org/en/congo-brazzaville
-https://rsf.org/en/rsf_search?key=congo
-https://ipi.media/covid19-media-freedom-monitoring/
+ https://rsf.org/en/congo-brazzaville
+
+https://rsf.org/en/rsf_search?key=congo
+
+https://ipi.media/covid19-media-freedom-monitoring/
+
 https://cpj.org/africa/republic-of-congo/
 
 
@@ -757,10 +906,13 @@ https://cpj.org/africa/republic-of-congo/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -768,9 +920,12 @@ Time period: *Jul-Sep*: 0
  No evidence was found. 
 
 *Sources*:
- https://rsf.org/en/congo-brazzaville
-https://rsf.org/en/rsf_search?key=congo
-https://ipi.media/covid19-media-freedom-monitoring/
+ https://rsf.org/en/congo-brazzaville
+
+https://rsf.org/en/rsf_search?key=congo
+
+https://ipi.media/covid19-media-freedom-monitoring/
+
 https://cpj.org/africa/republic-of-congo/
 
 
@@ -795,15 +950,18 @@ https://cpj.org/africa/republic-of-congo/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Authorities in the Republic of Congo ordered and received large quantities of Covid-organics from Madagascar at the first phase pf the pandemic (March-June 2020), but the covid19 government committee abandoned the experiment (in July) because of non-response to the treatment by patients:
+ Authorities in the Republic of Congo ordered and received large quantities of Covid-organics from Madagascar at the first phase of the pandemic (March-June 2020), but the covid19 government committee abandoned the experiment (in July) because of non-response to the treatment by patients:
 
 '' ''At the height of the Coronavirus pandemic, the Republic of Congo, like several other African countries, received a large quantity of COVID-Organics from Madagascar....The committee had to temporarily stop this experiment (in July 2020). Unfortunately, with COVID-Organics, there are patients who did not respond to the treatment.'' (1)
 
@@ -812,8 +970,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://www.africanews.com/2020/07/17/congo-covid-organics-efficacy-limited/
-(1)
-https://www.france24.com/fr/afrique/20200507-denis-sassou-nguesso-nous-avons-observ%C3%A9-une-remont%C3%A9e-de-l-%C3%A9pid%C3%A9mie-de-covid-19-au-congo
+(1)
+https://www.france24.com/fr/afrique/20200507-denis-sassou-nguesso-nous-avons-observ%C3%A9-une-remont%C3%A9e-de-l-%C3%A9pid%C3%A9mie-de-covid-19-au-congo
 https://www.aa.com.tr/fr/afrique/-le-congo-brazzaville-recoit-un-lot-de-covid-organics-/1831840
 
 
@@ -838,10 +996,13 @@ https://www.aa.com.tr/fr/afrique/-le-congo-brazzaville-recoit-un-lot-de-covid-or
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -849,7 +1010,8 @@ Time period: *Jul-Sep*: 0
  No reports found. 
 
 *Sources*:
- https://www.africanews.com/tag/republic-of-congo/
+ https://www.africanews.com/tag/republic-of-congo/
+
 https://www.france24.com/en/20200328-virus-prevention-measures-turn-violent-in-parts-of-africa
 
 
@@ -862,7 +1024,7 @@ https://www.france24.com/en/20200328-virus-prevention-measures-turn-violent-in-p
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -872,10 +1034,13 @@ https://www.france24.com/en/20200328-virus-prevention-measures-turn-violent-in-p
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -883,31 +1048,5 @@ Time period: *Jul-Sep*: 0
  Security personnel is deployed to enforce the measures, no military involvement. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/338286/congo-government-extends-covid-19-lockdown-measures-until-may-15-update-4
+ https://www.garda.com/crisis24/news-alerts/338286/congo-government-extends-covid-19-lockdown-measures-until-may-15-update-4
 
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

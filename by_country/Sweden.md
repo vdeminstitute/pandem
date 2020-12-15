@@ -1,9 +1,6 @@
 # Sweden 
 
 
-Time 2020-09-10 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-10
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,16 +25,34 @@ Time 2020-09-10
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- The government proposed an amendment to the Comunicable Disease Act (Temporary authorisations in the Communicable Diseases Act due to the virus causing covid-19) that parliament passed, which allows the government to impose temporary restrictions on gatherings and temporary closing of schools, business, public places and transport. This is thus a new regulation that gives government capacity for some emergency measures related to Covid-19, and is therefore coded as 4. 
+ March-June: The government proposed an amendment to the Comunicable Disease Act (Temporary authorisations in the Communicable Diseases Act due to the virus causing covid-19) that parliament passed, which allows the government to impose temporary restrictions on gatherings and temporary closing of schools, business, public places and transport. This is thus a new regulation that gives government capacity for some emergency measures related to Covid-19, and is therefore coded as 4. Although the limitation on public gatherings based on the Public Order Act also applied during this period, the amendment to the Comunicable Disease Act is considered the primary legal instrument since it most resembles a "state of exception".
+
+July-September, October-December: Based on the Public Order Act (Ordningslag [1993:1617]) (existing legislation), the government prohibited public gatherings of more than 500 people from March 12 (Ordinance 2020: 114), which was amended on 29 March (prohibiting public gatherings of more than 50 people) and on 24 November  (prohibiting public gatherings of more than 8 people). 
 
 *Sources*:
- https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
-https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
-https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
+ https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
+https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
+https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
 https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
+https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://www.loc.gov/law/foreign-news/article/sweden-swedish-parliament-gives-swedish-government-temporary-emergency-powers-because-of-covid-19-outbreak/
+
+https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
+https://www.regeringen.se/artiklar/2020/03/andring-i-forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
+https://www.regeringen.se/artiklar/2020/03/forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
+https://www.regeringen.se/artiklar/2020/03/forbud-mot-allmanna-sammankomster-eller-offentliga-tillstallningar-med-fler-an-50-deltagare/
+https://www.regeringen.se/pressmeddelanden/2020/11/max-atta-personer-vid-allmanna-sammankomster-och-offentliga-tillstallningar/
 
 
 
@@ -56,13 +71,23 @@ https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_p
 *Scale*: Character string.
 
  
-*Answer*: Temporary authorisations in the Communicable Diseases Act due to the virus causing covid-19 
+*Time period: Q2*: Temporary authorisations in the Communicable Diseases Act due to the virus causing covid-19
+
+ 
+*Time period: Q3*: Public Order Act (Ordningslag [1993:1617])
+
+ 
+*Time period: Q4*: Public Order Act (Ordningslag [1993:1617])
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
+
+https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/ordningslag-19931617_sfs-1993-1617
 
 
 
@@ -81,16 +106,31 @@ https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_p
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-18 
+*Time period: Q2*: 2020-04-18
+
+ 
+*Time period: Q3*: 2020-03-12
+
+ 
+*Time period: Q4*: 2020-03-12
+
+ 
 
 *Comments*:
-*No comment provided* 
+ March-June: the amendment entered into force on 18 April 2020.
+
+July-September, October-December: Ordinance 2020:114 entered into force on 12 March 2020. Since measures in both time periods were passed as amendments to Ordinance 2020:114, 12 March 2020 is coded as the start date for both time periods. 
 
 *Sources*:
- https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
-https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
-https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
+ https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
+https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
+https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
 https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
+
+https://www.loc.gov/law/foreign-news/article/sweden-swedish-parliament-gives-swedish-government-temporary-emergency-powers-because-of-covid-19-outbreak/
+
+https://www.regeringen.se/artiklar/2020/03/forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
+https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/forordning-2020114-om-forbud-mot-att-halla_sfs-2020-114
 
 
 
@@ -109,16 +149,28 @@ https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_p
 *Scale*: Date format.
 
  
-*Answer*: 2020-06-30 
+*Time period: Q2*: 2020-06-30
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The temporary amendment expired on June 30. 
+ March-June: The temporary amendment expired on June 30.
+
+July-September, October-December: the implementation of the legal instrument has not ended at the time of coding. The decision to limit public gatherings to up to 8 people has a 4-week time limit. It came into force on 24 November and is expected to expire on 22 December 2020 (is in place at the time of coding and may therefore be extended). 
 
 *Sources*:
- https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
-https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
-https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
+ https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
+https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
+https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
 https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
+
+https://www.regeringen.se/pressmeddelanden/2020/11/max-atta-personer-vid-allmanna-sammankomster-och-offentliga-tillstallningar/
 
 
 
@@ -140,16 +192,34 @@ https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_p
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The amendment was set to end on June 30, and also did so. 
+ March-June: The amendment was set to end on June 30, and also did so.
+
+July-September: No defined time limit in the decision to limit public gatherings to up to 50 people from 29 March, which applied for this time period.
+
+October-December: The decision to limit public gatherings to up to 8 people has a 4-week time limit. It came into force on 24 November and is expected to expire on 22 December 2020 (is in place at the time of coding and may therefore be extended). 
 
 *Sources*:
- https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
-https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
-https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
+ https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
+https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
+https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
 https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
+
+https://www.regeringen.se/artiklar/2020/03/forbud-mot-allmanna-sammankomster-eller-offentliga-tillstallningar-med-fler-an-50-deltagare/
+
+https://www.regeringen.se/pressmeddelanden/2020/11/max-atta-personer-vid-allmanna-sammankomster-och-offentliga-tillstallningar/
+https://www.regeringen.se/4ac71c/contentassets/0bd9b64752314859b1847328f7eb9b4a/forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar-med-fler-an-atta-deltagare.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
 
 
 
@@ -161,23 +231,38 @@ https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_p
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-06-30 
+*Time period: Q2*: 2020-06-30
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 2020-12-22
+
+ 
 
 *Comments*:
- The amendment was set to end on June 30, and also did so. 
+ March-June: The amendment was set to end on June 30, and also did so.
+
+July-September: No defined time limit in the decision to limit public gatherings to up to 50 people.
+
+October-December: The decision to limit public gatherings to up to 8 people has a 4-week time limit. It came into force on 24 November and is expected to expire on 22 December 2020 (is in place at the time of coding and may therefore be extended). 
 
 *Sources*:
- https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
-https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
-https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
+ https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
+https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
+https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
 https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
+
+https://www.regeringen.se/pressmeddelanden/2020/11/max-atta-personer-vid-allmanna-sammankomster-och-offentliga-tillstallningar/
 
 
 
@@ -189,7 +274,7 @@ https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_p
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -199,16 +284,29 @@ https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_p
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Yes, the parliament had to approve the amendment. 
+ March-June: Yes, the parliament had to approve the amendment.
+
+July-September, October-December: Based on the Public Order Act (Ordningslag [1993:1617]) (existing legislation), the government can prohibit public gatherings during epidemics. The law containts no provisions for legislature approval. 
 
 *Sources*:
- https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
-https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
-https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
+ https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
+https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
+https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
 https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
+
+https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/ordningslag-19931617_sfs-1993-1617
 
 
 
@@ -230,16 +328,30 @@ https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_p
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Yes, the parliament approved the amendment after some changes to the proposition were made. 
+ March-June: Yes, the parliament approved the amendment after some changes to the proposition were made.
+
+July-September, October-December: Based on the Public Order Act (Ordningslag [1993:1617]), legislature approval is not required. 
 
 *Sources*:
- https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
-https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
-https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
+ https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
+https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
+
+https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
 https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
+
+https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/ordningslag-19931617_sfs-1993-1617
 
 
 
@@ -259,24 +371,36 @@ https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_p
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The emergency measures does not affect the law making role of the parliament, and parliament still needs to approve measures taken by the government under the amendment.  The government can only enact regulations itself based on the amendment if it is of such urgency that it can't wait for parliamentary approval, and the parliament needs to be presented any such regulations as soon as possible and approve or deny it. Furthermore, any law making role outside of this amendment has not been affected by the emergency measures, and the parliament continues its work more or less as usual (but with some changes in terms of working remotely and only voting with a fewer set of MPs). 
+ March-June: The emergency measures does not affect the law making role of the parliament, and parliament still needs to approve measures taken by the government under the amendment.  The government can only enact regulations itself based on the amendment if it is of such urgency that it can't wait for parliamentary approval, and the parliament needs to be presented any such regulations as soon as possible and approve or deny it. Furthermore, any law making role outside of this amendment has not been affected by the emergency measures, and the parliament continues its work more or less as usual (but with some changes in terms of working remotely and only voting with a fewer set of MPs).
+
+July-September, October-December: I have not found any emergency measures that limited the lawmaking role of the legislature.
+ 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#T
-https://www.riksdagen.se/sv/riksdagens-arbete-med-anledning-av-corona/
-https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
-https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
-https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
+ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#T
+https://www.riksdagen.se/sv/riksdagens-arbete-med-anledning-av-corona/
+https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
+https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
+https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
 https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
 
 
 
@@ -288,15 +412,22 @@ https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_p
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -321,8 +452,15 @@ https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_p
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -352,14 +490,27 @@ https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_p
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The emergency measures have been taken nationwide and no sub-national variation has been found. This is therefore coded as 0. 
+ March-June, July-September: The emergency measures have been taken nationwide and no sub-national variation has been found. This is therefore coded as 0.
+
+October-December: Since October 2020, some regions have introduced stricter measures and recommendations. This is therefore coded as 1. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/Lxd2u5XvrbqyRML3R/sweden-scandanavian-airlines-sas-suspends-all-flights-to-northern-italy-march-3
+ https://www.garda.com/crisis24/news-alert-full-history/Lxd2u5XvrbqyRML3R/sweden-scandanavian-airlines-sas-suspends-all-flights-to-northern-italy-march-3
+
 https://www.acaps.org/covid19-government-measures-dataset
+
+https://www.krisinformation.se/en/hazards-and-risks/disasters-and-incidents/2020/official-information-on-the-new-coronavirus/regional-guidelines-and-restrictions
 
 
 
@@ -383,10 +534,13 @@ https://www.acaps.org/covid19-government-measures-dataset
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -394,10 +548,11 @@ Time period: *Jul-Sep*: 0
  Human Rights Watch, Amnesty International and EU agency of fundamental righs have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9625
-https://www.amnesty.org/en/search/?country=38508&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
+ https://www.hrw.org/news?country[]=9625
+https://www.amnesty.org/en/search/?country=38508&resourceType=newsarticle&sort=date
+https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
 https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_july_2020.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
 
 
 
@@ -426,10 +581,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_p
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -437,10 +595,11 @@ Time period: *Jul-Sep*: 0
  Amnesty International have not reported any violations of non-derogable rights within the response to Covid-19, and no other indications of such violations has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9625
-https://www.amnesty.org/en/search/?country=38508&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
+ https://www.hrw.org/news?country[]=9625
+https://www.amnesty.org/en/search/?country=38508&resourceType=newsarticle&sort=date
+https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
 https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_july_2020.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
 
 
 
@@ -464,13 +623,21 @@ https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_p
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Swedish Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B141%5D=141
+ https://rsf.org/en/thematique/internet?countries%5B141%5D=141
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Sweden
 
 
@@ -483,21 +650,28 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B141%5D=141
+ https://rsf.org/en/thematique/internet?countries%5B141%5D=141
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Sweden
 
 
@@ -510,21 +684,28 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B141%5D=141
+ https://rsf.org/en/thematique/internet?countries%5B141%5D=141
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Sweden
 
 
@@ -547,10 +728,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -558,7 +742,7 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Sweden,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B141%5D=141
+ https://rsf.org/en/thematique/internet?countries%5B141%5D=141
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Sweden
 
 
@@ -571,7 +755,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -581,10 +765,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -592,7 +779,7 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in Sweden,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B141%5D=141
+ https://rsf.org/en/thematique/internet?countries%5B141%5D=141
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Sweden
 
 
@@ -615,10 +802,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -626,7 +816,7 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in Sweden  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B141%5D=141
+ https://rsf.org/en/thematique/internet?countries%5B141%5D=141
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Sweden
 
 
@@ -646,14 +836,17 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -661,7 +854,7 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information, and there's no other indications of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B141%5D=141
+ https://rsf.org/en/thematique/internet?countries%5B141%5D=141
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Sweden
 
 
@@ -684,10 +877,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -695,7 +891,7 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any verbal harassment of journalists in Sweden, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B141%5D=141
+ https://rsf.org/en/thematique/internet?countries%5B141%5D=141
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Sweden
 
 
@@ -718,10 +914,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -729,7 +928,7 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any physical harassment of journalists in Sweden, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B141%5D=141
+ https://rsf.org/en/thematique/internet?countries%5B141%5D=141
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Sweden
 
 
@@ -754,10 +953,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -789,10 +991,13 @@ Time period: *Jul-Sep*: 0
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -800,10 +1005,11 @@ Time period: *Jul-Sep*: 0
  Neither Human Rights Watch, Amnesty International nor EU agency for fundamental rights have reported any incidents of violence in enforcing emergency measures 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9625
-https://www.amnesty.org/en/search/?country=38508&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
+ https://www.hrw.org/news?country[]=9625
+https://www.amnesty.org/en/search/?country=38508&resourceType=newsarticle&sort=date
+https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
 https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_july_2020.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
 
 
 
@@ -815,7 +1021,7 @@ https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_p
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -825,42 +1031,19 @@ https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_p
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
 
  
-
-*Comments*:
- The Swedish military has aided the emergency response, but has not been involved in enforcing emergency measures. 
-
-*Sources*:
- http://euromil.org/armed-forces-and-covid-19/
-http://euromil.org/wp-content/uploads/2020/04/Swedish-Armed-Forces-and-the-Corona-Pandemic.pdf
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
+*Time period: Q4*: 0
 
  
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ http://euromil.org/armed-forces-and-covid-19/
+http://euromil.org/wp-content/uploads/2020/04/Swedish-Armed-Forces-and-the-Corona-Pandemic.pdf

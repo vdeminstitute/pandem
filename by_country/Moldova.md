@@ -1,9 +1,6 @@
 # Moldova 
 
 
-Time 2020-09-21 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-21
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,25 +25,37 @@ Time 2020-09-21
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- Decision No. 55 by the parliament to declare a state of emergency, which lasted from 17 March until 15 May, and was replaced by a public health emergency. The public health emergency initially declared from 16 May until 30 June, was extended  several times: until 15 July, 31 July, 31 August, 15 September, 30 September (still in place at the time of coding). 
+ March-June: Decision No. 55 by the parliament to declare a state of emergency, which lasted from 17 March until 15 May. The declaration of the state of emergency was based on Constitution (Article 66 m) and Law 212 (2004) (Article 12) on states of emergency ("LEGE Nr. 212 din 24-06-2004 privind regimul stării de urgenţă, de asediu şi de război"). The Constitution is considered the primary legal instrument since it most resembles a "state of exception."
+
+July-September: National public health emergency ("starea de urgenţă în sănătate publică") was declared from 16 May and lasted until 30 September. It was declared based on Art 58. of "LEGE Nr. 10 din 03-02-2009 privind supravegherea de stat a sănătăţii publice"
+
+October-December: from 1 October, public health emergency ("stare de urgenţă în sănătate publică în") in designated “high-risk” districts (US embassy) and emergency measures on a national level (National public health emergency was abolished) . It was declared based on Art 55 of "LEGE Nr. 10 din 03-02-2009 privind supravegherea de stat a sănătăţii publice". Since the legal instrument changed from 2 ("Declaration of state of public health emergency, within existing legal framework
+that distinguishes between a public health emergency and a state of emergency") to 4 ("Other legislation, where this differs from a state of emergency, public health emergency, or disaster/catastrophe."), emlaw for July-September and October-December is coded separately. 
 
 *Sources*:
  https://www.legis.md/cautare/getResults?doc_id=120817&lang=ro
 https://md.usembassy.gov/moldovan-government-has-declared-a-state-of-emergency-in-response-to-the-covid-19/
 https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B359%5D&covid19=1
 https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/#section-d1e1382
-https://usmf.md/sites/default/files/inline-files/HotƒÉr√Ærea
-nr.17
-din
-23.06.2020.pdf
-https://gov.md/ro/content/starea-de-urgenta-sanatate-publica-se-prelungeste-pana-pe-15-septembrie
-https://msmps.gov.md/comunicare/comunicate/starea-de-urgenta-in-sanatate-publica-se-prelungeste-pana-la-31-iulie/
-https://msmps.gov.md/comunicare/comunicate/starea-de-urgenta-in-republica-moldova-se-prelungeste-pana-la-31-august-2/
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/
-https://www.garda.com/crisis24/news-alerts/379386/moldova-authorities-extend-public-health-emergency-until-september-30-update-5
+
+
+https://gov.md/sites/default/files/hotarirea_cnesp_nr.10_15.05.2020.pdf
+
+https://md.usembassy.gov/u-s-citizen-services/covid-19-information/
+https://gov.md/sites/default/files/hotarirea_cnesp_nr.33_28.09.2020.pdf
+
+
 
 
 
@@ -65,15 +74,29 @@ https://www.garda.com/crisis24/news-alerts/379386/moldova-authorities-extend-pub
 *Scale*: Character string.
 
  
-*Answer*: Constitution (Article 66 m), LEGE Nr. 212 din 24-06-2004 privind regimul stării de urgenţă, de asediu şi de război 
+*Time period: Q2*: Constitution (Article 66 m)
+
+ 
+*Time period: Q3*: "LEGE Nr. 10 din 03-02-2009 privind supravegherea de stat a sănătăţii publice" (Art. 58)
+
+ 
+*Time period: Q4*: "LEGE Nr. 10 din 03-02-2009 privind supravegherea de stat a sănătăţii publice" (Art. 55)
+
+ 
 
 *Comments*:
- Own translation: Law 212 (2004) (Article 12) on states of emergency. According to Article 66 m) of the Constitution, the parliament declares the state of emergency. According to Article 12 of Law 212 (2004), the only case when the President can declare a state of emergency is when the country is under military attack. 
+ March-June: Own translation: Law 212 (2004) (Article 12) on states of emergency. According to Article 66 m) of the Constitution, the parliament declares the state of emergency. According to Article 12 of Law 212 (2004), the only case when the President can declare a state of emergency is when the country is under military attack.
+
+July-September: Art. 58 "LEGE Nr. 10 din 03-02-2009 privind supravegherea de stat a sănătăţii publice" on the declaration of National Public Health Emergency.
+
+October-December: : Art. 55 "LEGE Nr. 10 din 03-02-2009 privind supravegherea de stat a sănătăţii publice" that power to regional authorities to implement emergency measures. 
 
 *Sources*:
  https://www.legis.md/cautare/getResults?doc_id=27024&lang=ru
 https://www.legis.md/cautare/getResults?doc_id=120817&lang=ro
 https://www.constituteproject.org/constitution/Moldova_2016?lang=en
+
+https://www.legis.md/cautare/getResults?doc_id=106570&lang=ro
 
 
 
@@ -92,13 +115,26 @@ https://www.constituteproject.org/constitution/Moldova_2016?lang=en
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-17 
+*Time period: Q2*: 2020-03-17
+
+ 
+*Time period: Q3*: 2020-05-16
+
+ 
+*Time period: Q4*: 2020-10-01
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  https://www.legis.md/cautare/getResults?doc_id=120817&lang=ru
+
+https://gov.md/sites/default/files/hotarirea_cnesp_nr.10_15.05.2020.pdf
+
+https://md.usembassy.gov/u-s-citizen-services/covid-19-information/
+https://gov.md/sites/default/files/hotarirea_cnesp_nr.33_28.09.2020.pdf
 
 
 
@@ -117,15 +153,33 @@ https://www.constituteproject.org/constitution/Moldova_2016?lang=en
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-15 
+*Time period: Q2*: 2020-05-15
+
+ 
+*Time period: Q3*: 2020-09-30
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- State of emergency ended on 15 May 2020 but public health emergency has been extended until 30 September. 
+ March-June: State of emergency ended on 15 May 2020.
+
+July-September: National public health emergency ended on 30 September.
+
+October-December: the implementation of the legal instrument (Art 55 of "LEGE Nr. 10 din 03-02-2009 privind supravegherea de stat a sănătăţii publice") has not ended at the time of coding. 
 
 *Sources*:
  https://www.legis.md/cautare/getResults?doc_id=120817&lang=ru
 https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+
+
 https://www.garda.com/crisis24/news-alerts/379386/moldova-authorities-extend-public-health-emergency-until-september-30-update-5
+
+https://cancelaria.gov.md/sites/default/files/postanovlenie_no_33_ot_28.09.2020_g._nacionalnaya_chrezvychaynaya_komissiya_obshchestvennogo_zdorovya.pdf
+https://cancelaria.gov.md/sites/default/files/postanovlenie_no_33_ot_28.09.2020_g._nacionalnaya_chrezvychaynaya_komissiya_obshchestvennogo_zdorovya.pdf
+https://md.usembassy.gov/u-s-citizen-services/covid-19-information/
 
 
 
@@ -147,13 +201,32 @@ https://www.garda.com/crisis24/news-alerts/379386/moldova-authorities-extend-pub
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- State of emergency declared from 17 March until 15 May 2020 
+ March-June: State of emergency declared from 17 March until 15 May 2020.
+
+July-September: National Public Health Emergency was initially declared from 16 May until 30 June, was extended several times: until 15 July, 31 July, 31 August, 15 September, 30 September.
+
+October-December: no time limit in the Resolution 33 from 28 September for emergency measures on the national level. No defined time limit in the legal framework used to implement the measures (""LEGE Nr. 10 din 03-02-2009 privind supravegherea de stat a sănătăţii publice"") 
 
 *Sources*:
  https://www.legis.md/cautare/getResults?doc_id=120817&lang=ru
+
+https://msmps.gov.md/comunicare/comunicate/starea-de-urgenta-in-sanatate-publica-se-prelungeste-pana-la-31-iulie/
+https://msmps.gov.md/comunicare/comunicate/starea-de-urgenta-in-republica-moldova-se-prelungeste-pana-la-31-august-2/
+https://www.garda.com/crisis24/news-alerts/379386/moldova-authorities-extend-public-health-emergency-until-september-30-update-5
+
+https://cancelaria.gov.md/sites/default/files/postanovlenie_no_33_ot_28.09.2020_g._nacionalnaya_chrezvychaynaya_komissiya_obshchestvennogo_zdorovya.pdf
+https://www.legis.md/cautare/getResults?doc_id=84354&lang=ru
 
 
 
@@ -165,17 +238,29 @@ https://www.garda.com/crisis24/news-alerts/379386/moldova-authorities-extend-pub
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-15 
+*Time period: Q2*: 2020-05-15
+
+ 
+*Time period: Q3*: 2020-09-30
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- State of emergency declared from 17 March until 15 May 2020 
+ March-June: State of emergency declared from 17 March until 15 May 2020.
+
+July-September: National Public Health Emergency was initially declared from 16 May until 30 June, was extended several times: until 15 July, 31 July, 31 August, 15 September, 30 September.
+
+October-December: No defined time limit. 
 
 *Sources*:
  https://www.legis.md/cautare/getResults?doc_id=120817&lang=ru
@@ -190,7 +275,7 @@ https://www.garda.com/crisis24/news-alerts/379386/moldova-authorities-extend-pub
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -200,14 +285,28 @@ https://www.garda.com/crisis24/news-alerts/379386/moldova-authorities-extend-pub
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- According to Article 66 m) of the Constitution, the parliament declares the state of emergency. 
+ March-June: According to Article 66 m) of the Constitution, the parliament declares the state of emergency.
+
+July-September: Art. 58 "LEGE Nr. 10 din 03-02-2009 privind supravegherea de stat a sănătăţii publice" has no privisions for the approval of the declaration of the National Public Health Emergency by the parliament. National Emergency Public Health Commission is responsible for the declaration and implementation of the National Public Health Emergency.
+
+October-December: Art 55 of "LEGE Nr. 10 din 03-02-2009 privind supravegherea de stat a sănătăţii publice"has no privisions for the approval of emergency measures by the parliament. The government is responsible for the declaration and implementation of the measures. 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Moldova_2016?lang=en
 https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+
+https://www.legis.md/cautare/getResults?doc_id=106570&lang=ro
 
 
 
@@ -229,10 +328,20 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Declared by the parliament. 
+ March-June: state of emergency declared by the parliament.
+
+July-September, October-December: parliamentary approval is not required. 
 
 *Sources*:
  https://www.legis.md/cautare/getResults?doc_id=120817&lang=ru
@@ -256,20 +365,34 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- Based on Chapter 3, Article 22 of Law 212 (2004) on states of emergency, emergency measures are taken by the Commission for Exceptional Situations. The state of emergency ended on 15 May. I found no evidence of limitations on the lawmaking power of the legislature during the state of public health emergency, which was declared on 15 May and is still in place. The parliament has approved the measures taken during the state of public health emergency. 
+ March-June: Based on Chapter 3, Article 22 of Law 212 (2004) on states of emergency, emergency measures are taken by the Commission for Exceptional Situations.
+
+July-September: Art. 58 "LEGE Nr. 10 din 03-02-2009 privind supravegherea de stat a sănătăţii publice" has no provisions for the declaration of National Public Health Emergency. National Emergency Public Health Commission is responsible for the declaration and implementation of the National Public Health Emergency.
+
+October-December: Art 55 of "LEGE Nr. 10 din 03-02-2009 privind supravegherea de stat a sănătăţii publice" has no provisions for the approval of emergency measures by the parliament. The government is responsible for the declaration and implementation of the measures. 
 
 *Sources*:
- https://www.legis.md/cautare/getResults?doc_id=27024&lang=ruhttps://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-https://www.legis.md/cautare/getResults?doc_id=121553&lang=ru
+ https://www.legis.md/cautare/getResults?doc_id=27024&lang=ru
+https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+
+https://www.legis.md/cautare/getResults?doc_id=106570&lang=ro
 
 
 
@@ -281,15 +404,22 @@ https://www.legis.md/cautare/getResults?doc_id=121553&lang=ru
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -314,8 +444,15 @@ https://www.legis.md/cautare/getResults?doc_id=121553&lang=ru
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -345,13 +482,25 @@ https://www.legis.md/cautare/getResults?doc_id=121553&lang=ru
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Uniform measures throughout the country. 
+ Uniform measures throughout the country in March-June, July-September. Public health emergency declared in some areas since 1 October (Resolutions 33 from 28 September, updated list of areas with public health emergency in Resolution 34 from 13 October). 
 
 *Sources*:
  https://gov.md/ro/content/informatii-privind-coronavirus
+https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/
+
+https://cancelaria.gov.md/sites/default/files/postanovlenie_nchkoz_no_34_ot_13.10.2020.pdf
+https://cancelaria.gov.md/sites/default/files/postanovlenie_no_33_ot_28.09.2020_g._nacionalnaya_chrezvychaynaya_komissiya_obshchestvennogo_zdorovya.pdf
 
 
 
@@ -375,18 +524,22 @@ https://www.legis.md/cautare/getResults?doc_id=121553&lang=ru
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No de-jure disciminating provisions and no information on de-facto discrimination found 
+ No de-jure disciminating provisions and no information on de-facto discrimination found. The city of Soroca with a large Roma population was quarantined due to a high number of Covid-19 cases and therefore not considered in the coding. 
 
 *Sources*:
- https://www.ohchr.org/EN/NewsEvents/Pages/Voices-from-the-Field-Moldova.aspx
+ http://www.errc.org/uploads/upload_en/file/5265_file1_roma-rights-in-the-time-of-covid..pdf
+https://www.ohchr.org/EN/NewsEvents/Pages/Voices-from-the-Field-Moldova.aspx
 https://www.amnesty.org/en/countries/europe-and-central-asia/moldova/
 https://www.hrw.org/sitesearch?search=moldova
 https://gov.md/sites/default/files/rasporyazhenie_no_1_ot_18_marta_2020_g._komissii_po_chrezvychaynym_situaciyam_respubliki_moldova.pdf
@@ -418,10 +571,13 @@ https://gov.md/sites/default/files/rasporyazhenie_no_1_ot_18_marta_2020_g._komis
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -455,16 +611,32 @@ https://gov.md/sites/default/files/rasporyazhenie_no_1_ot_18_marta_2020_g._komis
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 2 
+*Time period: Q2*: 3
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Media outlets are obliged to only use information on covid-19 from the competent public authorities in order to limit disinformation. IPI reports that the decree orders "all media not to print or broadcast any “personal opinions” about COVID-19 during the state of emergency." According to ICNL, "During the state of emergency, all audiovisual media providers under the jurisdiction of the Republic of Moldova are required to present the official position of the competent public authorities (World Health Organization, Exceptional Situation Commission of the Republic of Moldova, the Government of the Republic of Moldova, and the Ministry of Health, Labour and Social Protection). All presenters, moderators, and editors must not express their own opinion on topics concerning the COVID-19 pandemic, to ensure "maximum accuracy and correctness." Since the decree applies to all topics related to covid-19, melim is coded as 2. 
+ March-June: Media outlets are obliged to only use information on covid-19 from the competent public authorities in order to limit disinformation. IPI reports that the decree orders "all media not to print or broadcast any “personal opinions” about COVID-19 during the state of emergency." According to ICNL, "During the state of emergency, all audiovisual media providers under the jurisdiction of the Republic of Moldova are required to present the official position of the competent public authorities (World Health Organization, Exceptional Situation Commission of the Republic of Moldova, the Government of the Republic of Moldova, and the Ministry of Health, Labour and Social Protection). All presenters, moderators, and editors must not express their own opinion on topics concerning the COVID-19 pandemic, to ensure "maximum accuracy and correctness." 
+
+July-September: no measures limiting media freedom found.
+
+October-December: no measures limiting media freedom found. Media outlets were recommended to inform the population on emergency measures (Resolution 33 from 28 September). 
 
 *Sources*:
  https://www.icnl.org/covid19tracker/?location=81&issue=&date=&type=
 http://www.audiovizual.md/files/Dispozitie%20CA.semnat.pdf
 https://ipi.media/european-media-freedom-suffers-covid-19-response/
 http://www.audiovizual.md/
+
+https://cancelaria.gov.md/ro/apc/coronavirus
+
+https://cancelaria.gov.md/ro/apc/coronavirus
 
 
 
@@ -476,14 +648,22 @@ http://www.audiovizual.md/
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-24 
+*Time period: Q2*: 2020-03-24
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Note that on 19 March the authorities blocked 52 websites for allegedly spreading false information during covid-19. Based on the press release, this was part of emergency measures, but I cannot verify this information since the official document with legal references is a scanned version in Romanian. Therefore, the beginning of media limitations is coded as 24 March, but it is possible that the measures were enforced earlier. 
@@ -505,14 +685,22 @@ http://media-azi.md/ro/stiri/doc-sis-dispus-blocarea-52-de-site-uri-anonime-care
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-26 
+*Time period: Q2*: 2020-03-26
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Although the measures were intended to apply the duration of the state of emergency, the decree was reversed on 26 March due to pressure from journalists and NGOs. I have not found any evidence of other measures limiting media freedom since then. 
@@ -541,10 +729,13 @@ https://ipi.media/european-media-freedom-suffers-covid-19-response/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -567,7 +758,7 @@ http://media-azi.md/sites/default/files/indicatii_executorii.pdf
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -577,17 +768,20 @@ http://media-azi.md/sites/default/files/indicatii_executorii.pdf
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
  In May, a journalist received a fine after reporting on "unsafe working conditions and lack of disinfectant inside their textile factory during Covid-19" in a textile factory on Facebook (since she is a journalist, making a social media post is considered journalism). As IDEA reports, "Journalist Natalia Cebotari was intimidated, harassed, and fined 123 euro over a Facebook post reporting on unsafe and unhygienic working conditions in a textile factory. She also faced pressure from authorities to reveal her sources."
 
- IPI reports that "the country’s Security and Intelligence Service (SIS) also ordered 52 different websites allegedly disseminating fake news about the coronavirus to be blocked." The official press release says that the blocked websites are not officially registered news agencies and contains no other information on the content, therefore this is not considered in the coding. 
+ IPI reports that "the country’s Security and Intelligence Service (SIS) also ordered 52 different websites allegedly disseminating fake news about the coronavirus to be blocked." The official press release says that the blocked websites are not officially registered news agencies and contains no other information on the content, therefore this is not considered in the coding.  Since it is a single incident and no further information has been found, merepgov is coded as 1 only in March-June period. 
 
 *Sources*:
  https://ipi.media/covid19-media-freedom-monitoring/
@@ -614,10 +808,13 @@ http://media-azi.md/en/stiri/doc-sis-ordered-block-52-anonymous-sites-allegedly-
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -645,14 +842,17 @@ https://rsf.org/en/moldova
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -686,10 +886,13 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -719,10 +922,13 @@ Time period: *Jul-Sep*: 0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -757,10 +963,13 @@ https://www.hrw.org/sitesearch?search=moldova
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -794,10 +1003,13 @@ https://rsf.org/en/moldova
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -818,7 +1030,7 @@ https://www.hrw.org/sitesearch?search=moldova
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -828,15 +1040,18 @@ https://www.hrw.org/sitesearch?search=moldova
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The military was involved in monitoring compliance with covid-19 measures during the state of emergency.  Decree 1604 says that the military can assist with emergency measures during the state of emergency in public health.  I have not found any evidence that the military's involvement in enforcing confinement measures was lifted.
+ The military was involved in monitoring compliance with covid-19 measures during the state of emergency.  Decree 1604 says that the military can assist with emergency measures during the state of emergency in public health.  I have not found any evidence that the military's involvement in enforcing confinement measures was lifted.
  
 
 *Sources*:
@@ -846,29 +1061,3 @@ https://www.army.md/?lng=2&action=show&cat=122&obj=6358
 
 https://www.legis.md/cautare/getResults?doc_id=121783&lang=ro
 https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B359%5D&covid19=1
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

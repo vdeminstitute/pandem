@@ -1,9 +1,6 @@
 # Afghanistan 
 
 
-Time 2020-06-17 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-06-17
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,27 +25,24 @@ Time 2020-06-17
  7. Other.
 
  
-*Answer*: 5 
+*Time period: Q2*: 5
+
+ 
+*Time period: Q3*: 5
+
+ 
+*Time period: Q4*: 5
+
+ 
 
 *Comments*:
- In dealing with Covid-19, the state has imposed lockdowns in Afghanistan. This has been done on a provincial level. 
-
-The lockdown of at least three weeks was first imposed in Kabul on 28 March 2020.
-
-On 6 June 2020, the Government of Afghanistan announced that it was extending it's nationwide lockdown for three more months until the end of August 2020. 
+ In dealing with Covid-19, the state has imposed lockdowns in Afghanistan. This has been done on a provincial level. The lockdown of at least three weeks was first imposed in Kabul on 28 March 2020.On 6 June 2020, the Government of Afghanistan announced that it was extending it's nationwide lockdown for three more months until the end of August 2020. 
 
 *Sources*:
  https://reliefweb.int/report/afghanistan/afghanistan-covid-19-multi-sectoral-response-operational-situation-report-8-july
-
-
-https://www.theguardian.com/world/2020/may/02/afghanistan-in-new-battle-against-ravages-of-covid-19
-
+https://www.theguardian.com/world/2020/may/02/afghanistan-in-new-battle-against-ravages-of-covid-19
 https://gandhara.rferl.org/a/afghanistan-locks-down-capital-to-avoid-coronavirus-tide/30513293.html
-
-
 https://www.constituteproject.org/constitution/Afghanistan_2004.pdf?lang=en
-
-
 https://www.thestatesman.com/world/afghan-govt-imposes-lockdown-coronavirus-cases-increase-15-1502870945.html
 
 
@@ -68,8 +62,15 @@ https://www.thestatesman.com/world/afghan-govt-imposes-lockdown-coronavirus-case
 *Scale*: Character string.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -94,8 +95,15 @@ https://www.thestatesman.com/world/afghan-govt-imposes-lockdown-coronavirus-case
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -120,23 +128,21 @@ https://www.thestatesman.com/world/afghan-govt-imposes-lockdown-coronavirus-case
 *Scale*: Date format.
 
  
-*Answer*: 2020-08-30 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- In dealing with Covid-19, the state has imposed lockdowns in Afghanistan. This has been done on a provincial level. 
-
-On 6 June 2020, the Government of Afghanistan announced that it was extending it's nationwide lockdown for three more months until the end of August 2020. 
+*No comment provided* 
 
 *Sources*:
- https://reliefweb.int/report/afghanistan/afghanistan-covid-19-multi-sectoral-response-operational-situation-report-8-july
-
-
-https://www.theguardian.com/world/2020/may/02/afghanistan-in-new-battle-against-ravages-of-covid-19
-
-https://gandhara.rferl.org/a/afghanistan-locks-down-capital-to-avoid-coronavirus-tide/30513293.html
-
-
-https://www.constituteproject.org/constitution/Afghanistan_2004.pdf?lang=en
+*No source provided*
 
 
 
@@ -158,18 +164,21 @@ https://www.constituteproject.org/constitution/Afghanistan_2004.pdf?lang=en
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- In dealing with Covid-19, the state has imposed lockdowns in Afghanistan. This has been done on a provincial level. 
-
-On 6 June 2020, the Government of Afghanistan announced that it was extending it's nationwide lockdown for three more months until the end of August 2020. 
+*No comment provided* 
 
 *Sources*:
- https://gandhara.rferl.org/a/afghanistan-locks-down-capital-to-avoid-coronavirus-tide/30513293.html
-
-
-https://www.constituteproject.org/constitution/Afghanistan_2004.pdf?lang=en
+*No source provided*
 
 
 
@@ -181,25 +190,28 @@ https://www.constituteproject.org/constitution/Afghanistan_2004.pdf?lang=en
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-08-30 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- In dealing with Covid-19, the state has imposed lockdowns in Afghanistan. This has been done on a provincial level. 
-
-On 6 June 2020, the Government of Afghanistan announced that it was extending it's nationwide lockdown for three more months until the end of August 2020. 
+*No comment provided* 
 
 *Sources*:
- https://gandhara.rferl.org/a/afghanistan-locks-down-capital-to-avoid-coronavirus-tide/30513293.html
-
-
-https://www.constituteproject.org/constitution/Afghanistan_2004.pdf?lang=en
+*No source provided*
 
 
 
@@ -211,7 +223,7 @@ https://www.constituteproject.org/constitution/Afghanistan_2004.pdf?lang=en
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -221,8 +233,15 @@ https://www.constituteproject.org/constitution/Afghanistan_2004.pdf?lang=en
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -250,8 +269,15 @@ https://www.constituteproject.org/constitution/Afghanistan_2004.pdf?lang=en
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -277,16 +303,24 @@ https://www.constituteproject.org/constitution/Afghanistan_2004.pdf?lang=en
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 1 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Art 144 of the constitution states that "During the state of emergency, the President can, in consultation with the presidents of the National Assembly as well as the Chief Justice of the Supreme Court, transfer some powers of the National Assembly to the government." 
+ I did not find any information to suggest that the lawmaking role of the legislature has been limited. 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Afghanistan_2004.pdf?lang=en
@@ -301,23 +335,32 @@ https://www.constituteproject.org/constitution/Afghanistan_2004.pdf?lang=en
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The Wolesi Jirga (House of People) of Afghanistan has not been suspended. The House continues to meet physically, but with a limited number of plenary sessions and committee meetings. 
 
 *Sources*:
  https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-
-
+
+
+
+
 https://www.pajhwok.com/en/tag/parliament-2
 
 
@@ -337,16 +380,25 @@ https://www.pajhwok.com/en/tag/parliament-2
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The Wolesi Jirga (House of People) of Afghanistan has not been suspended. The House continues to meet physically, but with a limited number of plenary sessions and committee meetings. 
 
 *Sources*:
  https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-
-
+
+
+
+
 https://www.pajhwok.com/en/tag/parliament-2
 
 
@@ -371,14 +423,27 @@ https://www.pajhwok.com/en/tag/parliament-2
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
+*Time period: Q2*: 1
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
-*No comment provided* 
+ There have been variations in lockdown measures and movement restrictions in different parts of Afghanistan depending on the prevalenceof Covid-19 in the different areas. However, evidence of these differences are found from March 2020 to May 2020. The restrictions were eased after this period and I have not found additional information on the measures that have been introduced by the government. 
 
 *Sources*:
-*No source provided*
+ https://tolonews.com/afghanistan/kabul-lockdown-eases-amid-warnings-crisis
+
+https://www.urdupoint.com/en/world/afghan-authorities-close-eastern-city-of-jala-873131.html
+
+https://tolonews.com/index.php/health/covid-19-govt-limits-residents-movement-herat
+
+https://gandhara.rferl.org/a/afghanistan-locks-down-gateway-city-of-coronavirus-outbreak/30509289.html
 
 
 
@@ -402,10 +467,13 @@ https://www.pajhwok.com/en/tag/parliament-2
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -442,10 +510,13 @@ Time period: *Jul-Sep*: 0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -477,16 +548,27 @@ Time period: *Jul-Sep*: 0
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  I did not find any information related to this. 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Afghanistan_2004.pdf?lang=en
-
-
-https://rsf.org/en/news/information-afghanistan-covid-19-adds-problems-war
+
+
+
+
+https://rsf.org/en/news/information-afghanistan-covid-19-adds-problems-war
+
 
 
 
@@ -499,15 +581,22 @@ https://rsf.org/en/news/information-afghanistan-covid-19-adds-problems-war
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -525,15 +614,22 @@ https://rsf.org/en/news/information-afghanistan-covid-19-adds-problems-war
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -561,15 +657,18 @@ https://rsf.org/en/news/information-afghanistan-covid-19-adds-problems-war
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- I did not find any information related to this. 
+ I did not find any information related to this. However this variable has been coded as 1 due to the highly controlled natures of Afghanistans press. 
 
 *Sources*:
  https://ipi.media/covid19-media-freedom-monitoring/
@@ -589,7 +688,7 @@ https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -599,17 +698,20 @@ https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
  Afghanistan's biggest news agency, Pajhwok Afghan News, has been harrassed since it reported on 32 ventilators that were meant for Afghan Covid-19 patients that were stolen and sold to Pakistan in June 2020. The director of the agency was interrogated by representative from the health ministry the day after the report was released. After this report, the Vice-President Amrullah Saleh said in a tweet that the ventilators never went missing. 
 
-I did not find addition cases of de-facto limitations on reporting no the government’s response to the pandemic. 
+I did not find addition cases of de-facto limitations on reporting no the government’s response to the pandemic.However this variable has been coded as 1 due to the highly controlled natures of Afghanistans press. 
 
 *Sources*:
  https://rsf.org/en/news/two-afghan-journalists-arrested-news-agency-harassed
@@ -639,10 +741,13 @@ https://www.rferl.org/a/rsf-urges-kabul-to-observe-media-law-after-journalists-a
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -674,14 +779,17 @@ https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -716,10 +824,13 @@ https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -754,15 +865,18 @@ https://www.rferl.org/a/rsf-urges-kabul-to-observe-media-law-after-journalists-a
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- I did not find any information related to this. 
+*No comment provided* 
 
 *Sources*:
  https://ipi.media/covid19-media-freedom-monitoring/
@@ -794,10 +908,13 @@ https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -834,10 +951,13 @@ https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -862,7 +982,7 @@ https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -872,10 +992,13 @@ https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -887,29 +1010,3 @@ Time period: *Jul-Sep*: 0
 
 
 https://www.reuters.com/places/afghanistan
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

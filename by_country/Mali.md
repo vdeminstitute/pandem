@@ -1,9 +1,6 @@
 # Mali 
 
 
-Time 2020-09-22 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-22
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,7 +25,15 @@ Time 2020-09-22
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 5
+
+ 
+*Time period: Q4*: 5
+
+ 
 
 *Comments*:
  "In addition to the state of emergency which prevails in our country due to the security context, the state of health emergency is decreed. A curfew is also decreed. It will be rigorously applied from 9 p.m. to 5 a.m., until further notice, starting at midnight on Thursday, March 26, 2020, " President Ibrahim Boubacar Keita (2)
@@ -39,18 +44,38 @@ accompanied by law 2017 055 of November 6, 2017 on the state of emergency and st
 
 Coded as 1 instead of 2 because the Constitution does not offer a distinct provision for a state of health emergency, despite the fact that what was officially declared was a state of health emergency (the constitution articles looks as if they allow for adjusted language to the nature of the crisis (e.g. “state of siege”) as warranted. 
 
+No information could be found on whether the state of health emergency continues in Mail after its initial declaration. The night-time curfew was lifted on May 9 2020, and after that date there are preventative measures in place like social disctancing guidelines and the mandatory wearing of face masks. 
+One possible explanation for the lack of information, or the potential end of the state of health emergency, relates to the politcal instability facing Mali after August 2020. The President and Prime Minister resigned on August 18 2020 following a military coup, and Mali has been without a president and without a government since August 18. The country is led by the soldiers of the CNSP (National Committee for the Salvation of the People) led by Assimi Goita.
+
+'Mali parliamentary elections were held on March 29, 2020 (second round on April 19) despite the coronavirus situation, as they had been postponed several times since 2018. The legislature's mandate at the time was to expire on May 2 2020. The new president of the National Assembly was finally elected on May 12.
+Because of the above, the Cabinet of Ministers of Mali passed a bill on April 1 2020 that authorized the government to take covid19 related measures by ordinances, with a duration period from April 1 until May when the parliamentary elections will have been concluded. No evidence was found on whether the bill was eventually adopted by the new Parliament after May 2020. Further, because of the political instability and the military coup, no evidence was found on the bill being adopted at all. 
+
 *Sources*:
  https://www.constituteproject.org/constitution/Mali_1992.pdf?lang=en
-(1)
+(1)
 http://primature.ml/communique-du-conseil-des-ministres-du-mercredi-25-mars-2020/
-(2)
+(2)
 https://www.amba-mali.be/index.php/14-sample-data-articles/219-adresse-a-la-nation-de-sem-ibrahim-boubacar-keita-president-de-la-republique-chef-de-l-etat-suite-a-la-decouverte-de-cas-de-coronavirus-au-mali
-(2)
-https://sgg-mali.ml/JO/2017/mali-jo-2017-46.pdf
-(3)
-https://afrique.latribune.fr/think-tank/tribunes/2020-04-10/le-mali-face-au-covid-19-sommes-nous-a-la-hauteur-3-3-844576.html
-http://french.xinhuanet.com/afrique/2020-03/26/c_138917242.htm
-https://www.bbc.com/afrique/region-52043239
+(2)https://sgg-mali.ml/JO/2017/mali-jo-2017-46.pdf
+(3)
+https://afrique.latribune.fr/think-tank/tribunes/2020-04-10/le-mali-face-au-covid-19-sommes-nous-a-la-hauteur-3-3-844576.html
+https://www.rti.ci/info/3/afrique/26958/le-mali-leve-le-couvre-feu-port-du-masque-obligatoire-en-public
+
+https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mali/
+
+https://ouestaf.com/mesures-barrieres-contre-le-covid-19-les-maliens-nen-ont-cure/
+
+https://www.liberation.fr/direct/element/le-president-du-mali-demissionne-dissout-le-gouvernement-et-lassemblee-nationale_117761/
+
+https://theconversation.com/la-chute-ineluctable-du-president-malien-ibrahim-boubacar-keita-144787
+
+https://www.france24.com/fr/20200819-mali-de-la-crise-politique-au-coup-d-%C3%A9tat-militaire
+
+https://www.dw.com/fr/le-covid-19-remet-en-cause-les-%C3%A9lections-du-29-mars-au-mali/a-52918025
+
+http://apf.francophonie.org/Elections-legislatives-au-Mali-l-2180433.html
+
+https://www.bbc.com/afrique/54020425
 
 
 
@@ -69,19 +94,26 @@ https://www.bbc.com/afrique/region-52043239
 *Scale*: Character string.
 
  
-*Answer*: Constitution, articles 49, 50, 72, 74;
-Law 2017 055 of November 6, 2017 on the state of emergency and state of siege (2) 
+*Time period: Q2*: Constitution, articles 49, 50, 72, 74;
+Law 2017 055 of November 6, 2017 on the state of emergency and state of siege (2)
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Mali_1992.pdf?lang=en
-(1)
+(1)
 https://sgg-mali.ml/JO/2017/mali-jo-2017-46.pdf
-(2)
-http://primature.ml/communique-du-conseil-des-ministres-du-mercredi-25-mars-2020/
-
+(2)
+http://primature.ml/communique-du-conseil-des-ministres-du-mercredi-25-mars-2020/
 
 
 
@@ -100,17 +132,24 @@ http://primature.ml/communique-du-conseil-des-ministres-du-mercredi-25-mars-2020
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-26 
+*Time period: Q2*: 2020-03-26
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  On March 25 2020, President of Mali, Ibrahim Boubacar Keïta, declared a state of health emergency and a nationwide curfew to enter in force from March 26. 
 
 *Sources*:
- http://primature.ml/communique-du-conseil-des-ministres-du-mercredi-25-mars-2020/
-https://www.dw.com/fr/coronavirus-de-plus-en-plus-de-pays-africains-en-%C3%A9tat-durgence-sanitaire/a-52999087
-https://www.amba-mali.be/index.php/14-sample-data-articles/219-adresse-a-la-nation-de-sem-ibrahim-boubacar-keita-president-de-la-republique-chef-de-l-etat-suite-a-la-decouverte-de-cas-de-coronavirus-au-mali
-https://www.bbc.com/afrique/region-52043239
-
+ http://primature.ml/communique-du-conseil-des-ministres-du-mercredi-25-mars-2020/
+https://www.dw.com/fr/coronavirus-de-plus-en-plus-de-pays-africains-en-%C3%A9tat-durgence-sanitaire/a-52999087
+https://www.amba-mali.be/index.php/14-sample-data-articles/219-adresse-a-la-nation-de-sem-ibrahim-boubacar-keita-president-de-la-republique-chef-de-l-etat-suite-a-la-decouverte-de-cas-de-coronavirus-au-mali
+https://www.bbc.com/afrique/region-52043239
 
 
 
@@ -129,21 +168,35 @@ https://www.bbc.com/afrique/region-52043239
 *Scale*: Date format.
 
  
+*Time period: Q2*: 2020-05-09
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The nationwide curfew has been lifted since May 9 (1, 2, 3) , however, no information can be found on whether the state of health emergency is still in place. 
+ The nationwide curfew has been lifted since May 9 2020 (1, 2, 3). However, no information could be found on whether the state of health emergency is still in place. 
 
 *Sources*:
- http://primature.ml/allocution-du-dr-boubou-cisse-premier-ministre-chef-du-gouvernement-suite-au-conseil-national-de-defense-sur-la-pandemie-du-covid-19/
+ http://primature.ml/allocution-du-dr-boubou-cisse-premier-ministre-chef-du-gouvernement-suite-au-conseil-national-de-defense-sur-la-pandemie-du-covid-19/
 https://www.aa.com.tr/fr/afrique/mali-covid-19-lev%C3%A9e-du-couvre-feu-sur-toute-l%C3%A9tendue-du-territoire/1834861
-(2)
+(2)
 https://www.garda.com/crisis24/news-alerts/340831/mali-curfew-lifted-nationwide-may-9-update-4
-(3)
-https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mali/
-http://www.fao.org/3/ca9432fr/ca9432fr.pdf
-https://ml.usembassy.gov/covid-19-information/
+(3)
+https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mali/
+http://www.fao.org/3/ca9432fr/ca9432fr.pdfhttps://ml.usembassy.gov/covid-19-information/
+
+https://www.rti.ci/info/3/afrique/26958/le-mali-leve-le-couvre-feu-port-du-masque-obligatoire-en-public
+
+https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mali/
+
+https://information.tv5monde.com/afrique/coronavirus-le-mali-leve-le-couvre-feu-port-du-masque-obligatoire-en-public-358632
+
+https://ouestaf.com/mesures-barrieres-contre-le-covid-19-les-maliens-nen-ont-cure/
 
 
 
@@ -165,22 +218,30 @@ https://ml.usembassy.gov/covid-19-information/
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Article 14, law 2017 055 of November 6, 2017 mentions that the state of emergency can be announced for a maximum period of one month, and then renewed only once for the same time: 
-''Le décret instituant l’état d’urgence peut par une disposition expresse, conférer à l’autorité administrative compétente le pouvoir de prononcer l’internement administratif des personnes dont l’activité présente un danger pour la sécurité publique. Cette mesure peut être prononcée pour une durée maximum d’un (1) mois, renouvelable une seule fois pour une période égale.''
-
+ Article 14, law 2017 055 of November 6, 2017 mentions that the state of emergency can be announced for a maximum period of one month, and then renewed only once for the same time: 
+''Le décret instituant l’état d’urgence peut par une disposition expresse, conférer à l’autorité administrative compétente le pouvoir de prononcer l’internement administratif des personnes dont l’activité présente un danger pour la sécurité publique. Cette mesure peut être prononcée pour une durée maximum d’un (1) mois, renouvelable une seule fois pour une période égale.''
+
 However, no evidence was found indicating a limit date to the state of emergency. 
 
 *Sources*:
- http://primature.ml/communique-du-conseil-des-ministres-du-mercredi-25-mars-2020/
-https://sgg-mali.ml/JO/2017/mali-jo-2017-46.pdf
-https://afrique.latribune.fr/think-tank/tribunes/2020-04-10/le-mali-face-au-covid-19-sommes-nous-a-la-hauteur-3-3-844576.html
-http://french.xinhuanet.com/afrique/2020-03/26/c_138917242.htm
-https://www.dw.com/fr/coronavirus-de-plus-en-plus-de-pays-africains-en-%C3%A9tat-durgence-sanitaire/a-52999087
-https://www.amba-mali.be/index.php/14-sample-data-articles/219-adresse-a-la-nation-de-sem-ibrahim-boubacar-keita-president-de-la-republique-chef-de-l-etat-suite-a-la-decouverte-de-cas-de-coronavirus-au-mali
-https://www.bbc.com/afrique/region-52043239
+ http://primature.ml/communique-du-conseil-des-ministres-du-mercredi-25-mars-2020/
+https://sgg-mali.ml/JO/2017/mali-jo-2017-46.pdf
+https://afrique.latribune.fr/think-tank/tribunes/2020-04-10/le-mali-face-au-covid-19-sommes-nous-a-la-hauteur-3-3-844576.html
+http://french.xinhuanet.com/afrique/2020-03/26/c_138917242.htm
+https://www.dw.com/fr/coronavirus-de-plus-en-plus-de-pays-africains-en-%C3%A9tat-durgence-sanitaire/a-52999087
+https://www.amba-mali.be/index.php/14-sample-data-articles/219-adresse-a-la-nation-de-sem-ibrahim-boubacar-keita-president-de-la-republique-chef-de-l-etat-suite-a-la-decouverte-de-cas-de-coronavirus-au-mali
+https://www.bbc.com/afrique/region-52043239
 
 https://www.tralac.org/documents/resources/covid-19/countries/3492-mali-communique-of-the-council-of-ministers-declaration-of-state-of-emergency-and-lockdown-24-march-2020/file.html
 
@@ -194,21 +255,39 @@ https://www.tralac.org/documents/resources/covid-19/countries/3492-mali-communiq
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
-*No comment provided* 
+ Article 14, law 2017 055 of November 6, 2017 mentions that the state of emergency can be announced for a maximum period of one month, and then renewed only once for the same time: 
+''Le décret instituant l’état d’urgence peut par une disposition expresse, conférer à l’autorité administrative compétente le pouvoir de prononcer l’internement administratif des personnes dont l’activité présente un danger pour la sécurité publique. Cette mesure peut être prononcée pour une durée maximum d’un (1) mois, renouvelable une seule fois pour une période égale.''
+
+However, no evidence was found indicating a limit date to the state of emergency. 
 
 *Sources*:
-*No source provided*
+ http://primature.ml/communique-du-conseil-des-ministres-du-mercredi-25-mars-2020/
+https://sgg-mali.ml/JO/2017/mali-jo-2017-46.pdf
+https://afrique.latribune.fr/think-tank/tribunes/2020-04-10/le-mali-face-au-covid-19-sommes-nous-a-la-hauteur-3-3-844576.html
+http://french.xinhuanet.com/afrique/2020-03/26/c_138917242.htm
+https://www.dw.com/fr/coronavirus-de-plus-en-plus-de-pays-africains-en-%C3%A9tat-durgence-sanitaire/a-52999087
+https://www.amba-mali.be/index.php/14-sample-data-articles/219-adresse-a-la-nation-de-sem-ibrahim-boubacar-keita-president-de-la-republique-chef-de-l-etat-suite-a-la-decouverte-de-cas-de-coronavirus-au-mali
+https://www.bbc.com/afrique/region-52043239
+
+https://www.tralac.org/documents/resources/covid-19/countries/3492-mali-communique-of-the-council-of-ministers-declaration-of-state-of-emergency-and-lockdown-24-march-2020/file.html
 
 
 
@@ -220,7 +299,7 @@ https://www.tralac.org/documents/resources/covid-19/countries/3492-mali-communiq
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -230,15 +309,23 @@ https://www.tralac.org/documents/resources/covid-19/countries/3492-mali-communiq
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Article 72 Constitution: State of emergency and state of siege shall be decreed in the Council of Ministers. Their extension beyond ten days shall only be authorized by the National Assembly. A law shall determine their conditions.
-
+ Article 72 Constitution: State of emergency and state of siege shall be decreed in the Council of Ministers. Their extension beyond ten days shall only be authorized by the National Assembly. A law shall determine their conditions.
+
 Article 74: Ordinances shall be taken in the Council of Ministers after consultation with the Supreme Court. They become operative from the time of their adoption, but become null and void if the bill for their ratification is not submitted to the National Assembly before the date set by the enabling act. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Mali_1992.pdf?lang=en
+ https://www.constituteproject.org/constitution/Mali_1992.pdf?lang=en
 https://sgg-mali.ml/JO/2017/mali-jo-2017-46.pdf
 
 
@@ -261,7 +348,15 @@ https://sgg-mali.ml/JO/2017/mali-jo-2017-46.pdf
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  In addition to the developments below, Mali is facing internal political turbulence, and the President and Prime Minister resigned on August 18, 2020 following a military coup:
@@ -269,25 +364,25 @@ https://sgg-mali.ml/JO/2017/mali-jo-2017-46.pdf
 
 'Mali parliamentary elections were held on March 29, 2020 (second round on April 19) despite the coronavirus situation, as they had been postponed several times since 2018. The legislature's mandate at the time was to expire on May 2 2020. (2, 3). The new president of the National Assembly was finally elected on May 12.
 
-Because of the above, the Cabinet of Ministers of Mali passed a bill on April 1 2020 that authorized the government to take covid19 related measures by ordinances, with a duration period from Appril 1 until May when the parliamentary elections will have been concluded. No evidence was found on whether the bill was eventually adopted by the new Parliament after May 2020. Further, because of the political instability and the military coup, no evidence was found on the bill being adopted at all. 
+Because of the above, the Cabinet of Ministers of Mali passed a bill on April 1 2020 that authorized the government to take covid19 related measures by ordinances, with a duration period from April 1 until May when the parliamentary elections will have been concluded. No evidence was found on whether the bill was eventually adopted by the new Parliament after May 2020. Further, because of the political instability and the military coup, no evidence was found on the bill being adopted at all. 
 
 *Sources*:
  https://www.liberation.fr/direct/element/le-president-du-mali-demissionne-dissout-le-gouvernement-et-lassemblee-nationale_117761/
-(1)
+(1)
 https://theconversation.com/la-chute-ineluctable-du-president-malien-ibrahim-boubacar-keita-144787
-(1)
+(1)
 https://www.france24.com/fr/20200819-mali-de-la-crise-politique-au-coup-d-%C3%A9tat-militaire
-(1)
+(1)
 https://www.dw.com/fr/le-covid-19-remet-en-cause-les-%C3%A9lections-du-29-mars-au-mali/a-52918025
 (2)
-
+
 http://apf.francophonie.org/Elections-legislatives-au-Mali-l-2180433.html
 (3)
-
-https://www.dcaf.ch/sites/default/files/imce/FINAL_EN%20Background%20paper%20C-19%20Parlements%20v1.pdf
-https://fr.africanews.com/2020/05/12/mali-un-nouveau-president-a-l-assemblee-nationale/
-http://french.xinhuanet.com/afrique/2020-04/03/c_138942265.htm
-http://french.china.org.cn/foreign/txt/2020-04/03/content_75892700.htm
+
+https://www.dcaf.ch/sites/default/files/imce/FINAL_EN%20Background%20paper%20C-19%20Parlements%20v1.pdf
+https://fr.africanews.com/2020/05/12/mali-un-nouveau-president-a-l-assemblee-nationale/
+http://french.xinhuanet.com/afrique/2020-04/03/c_138942265.htm
+http://french.china.org.cn/foreign/txt/2020-04/03/content_75892700.htm
 http://bamada.net/rentree-parlementaire-de-la-6eme-legislature-au-cicb-hier-moussa-timbine-plebiscite-par-134-voix-contre-8-pour-mara-disparition-de-lopposition-parlementaire-au-mali
 
 
@@ -308,32 +403,41 @@ http://bamada.net/rentree-parlementaire-de-la-6eme-legislature-au-cicb-hier-mous
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 5
+
+ 
+*Time period: Q4*: 5
+
+ 
 
 *Comments*:
- The government can rule by ordinance in emergency circumstances, and without parliamentry approval.
-Note that a military coup took place in Mali on August 18, 2020, leading to the resignation of the PM and President, and the dissolution of the National Assembly (see 4, 5, 6)
-
-Constitution, Article 50 - ''When the institutions of the Republic, the independence of the nation,.... is interrupted, the President of the Republic shall take the measures commanded by these circumstances, after
-consultation with the Prime Minister, the Presidents of the National Assembly and of the High Council of Territorial Units as well as the Constitutional Court.
-The National Assembly shall meet by right and shall not be dissolved during the exercise of these exceptional powers. 
+ The government can rule by ordinance in emergency circumstances, and without parliamentry approval: Constitution, Article 50 - ''When the institutions of the Republic, the independence of the nation,.... is interrupted, the President of the Republic shall take the measures commanded by these circumstances, after consultation with the Prime Minister, the Presidents of the National Assembly and of the High Council of Territorial Units as well as the Constitutional Court. The National Assembly shall meet by right and shall not be dissolved during the exercise of these exceptional powers.''
+
+In August 18 2020 a military coup took place in Mali, leading to the resignation of the PM and President, and the dissolution of the National Assembly (see 4, 5, 6). Mali has been without a president and without a government since August 18 and the resignation of President Ibrahim Boubacar Keita a few hours after his arrest by soldiers who sparked a mutiny. The country is led by the soldiers of the CNSP (National Committee for the Salvation of the People) led by Assimi Goita (7). 
+ 
 
 *Sources*:
- https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://www.constituteproject.org/constitution/Mali_1992.pdf?lang=en
-https://sgg-mali.ml/JO/2017/mali-jo-2017-46.pdf
+ https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+https://www.constituteproject.org/constitution/Mali_1992.pdf?lang=en
+https://sgg-mali.ml/JO/2017/mali-jo-2017-46.pdf
 https://www.france24.com/fr/20200819-mali-de-la-crise-politique-au-coup-d-%C3%A9tat-militaire
-(4)
+(4)
 https://www.liberation.fr/direct/element/le-president-du-mali-demissionne-dissout-le-gouvernement-et-lassemblee-nationale_117761/
-(5)
+(5)
 https://www.theafricareport.com/38911/mali-coup-detat-military-proposes-three-year-transition/
 (6)
+
+https://www.bbc.com/afrique/54020425
+(7)
 
 
 
@@ -345,15 +449,22 @@ https://www.theafricareport.com/38911/mali-coup-detat-military-proposes-three-ye
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -378,8 +489,15 @@ https://www.theafricareport.com/38911/mali-coup-detat-military-proposes-three-ye
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -409,15 +527,25 @@ https://www.theafricareport.com/38911/mali-coup-detat-military-proposes-three-ye
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Nationwide state of health emergency and curfew. 
+ Nationwide state of health emergency and curfew, which was lifted on May 9 2020. After that, there are preventative measures in place. 
 
 *Sources*:
- https://www.aa.com.tr/fr/afrique/mali-covid-19-lev%C3%A9e-du-couvre-feu-sur-toute-l%C3%A9tendue-du-territoire/1834861
-https://www.garda.com/crisis24/news-alerts/340831/mali-curfew-lifted-nationwide-may-9-update-4
+ https://www.aa.com.tr/fr/afrique/mali-covid-19-lev%C3%A9e-du-couvre-feu-sur-toute-l%C3%A9tendue-du-territoire/1834861
+https://www.garda.com/crisis24/news-alerts/340831/mali-curfew-lifted-nationwide-may-9-update-4
 https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
+
+https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mali/
 
 
 
@@ -441,10 +569,13 @@ https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabil
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -452,9 +583,9 @@ Time period: *Jul-Sep*: 0
  No such evidence was found. 
 
 *Sources*:
- https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars-2020-2128
+ https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
+https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
+https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars-2020-2128
 https://www.lepoint.fr/afrique/mali-le-covid-19-en-etau-entre-pouvoir-civil-et-pouvoir-religieux-13-05-2020-2375300_3826.php#
 
 
@@ -484,10 +615,13 @@ https://www.lepoint.fr/afrique/mali-le-covid-19-en-etau-entre-pouvoir-civil-et-p
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -495,9 +629,9 @@ Time period: *Jul-Sep*: 0
  No such evidence was found. 
 
 *Sources*:
- https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars-2020-2128
+ https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
+https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
+https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars-2020-2128
 https://www.lepoint.fr/afrique/mali-le-covid-19-en-etau-entre-pouvoir-civil-et-pouvoir-religieux-13-05-2020-2375300_3826.php#
 
 
@@ -522,16 +656,24 @@ https://www.lepoint.fr/afrique/mali-le-covid-19-en-etau-entre-pouvoir-civil-et-p
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No de jure media limitations. 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://ipi.media/covid19-media-freedom-monitoring/
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars-2020-2128
+ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://ipi.media/covid19-media-freedom-monitoring/
+https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
+https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars-2020-2128
 https://www.lepoint.fr/afrique/mali-le-covid-19-en-etau-entre-pouvoir-civil-et-pouvoir-religieux-13-05-2020-2375300_3826.php#
 
 
@@ -544,15 +686,22 @@ https://www.lepoint.fr/afrique/mali-le-covid-19-en-etau-entre-pouvoir-civil-et-p
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -570,15 +719,22 @@ https://www.lepoint.fr/afrique/mali-le-covid-19-en-etau-entre-pouvoir-civil-et-p
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -606,21 +762,24 @@ https://www.lepoint.fr/afrique/mali-le-covid-19-en-etau-entre-pouvoir-civil-et-p
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Only this incident found: ''In Mali, the police briefly arrested a reporter for the L’Indépendant newspaper in connection with a report on the epidemic.'' 
+ Only this incident found: ''In Mali, the police briefly arrested a reporter for the L’Indépendant newspaper in connection with a report on the epidemic.'' 
 The article does not specify whether the report on the epidemic was about the nature of covid or the govenrment response. 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/mali
+ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/mali
 https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
 
 
@@ -633,7 +792,7 @@ https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-w
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -643,20 +802,23 @@ https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-w
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- 'In Mali, the police briefly arrested a reporter for the L’Indépendant newspaper in connection with a report on the epidemic.'' 
+ In Mali, the police briefly arrested a reporter for the L’Indépendant newspaper in connection with a report on the epidemic.'' No more incidents were found during July - December. 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/mali
+ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/mali
 https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
 
 
@@ -679,10 +841,13 @@ https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-w
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -690,8 +855,8 @@ Time period: *Jul-Sep*: 0
  No evidence was found. 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://ipi.media/covid19-media-freedom-monitoring/
+ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://ipi.media/covid19-media-freedom-monitoring/
 https://rsf.org/en/mali
 
 
@@ -711,14 +876,17 @@ https://rsf.org/en/mali
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -726,10 +894,14 @@ Time period: *Jul-Sep*: 0
  No evidence was found. 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://ipi.media/covid19-media-freedom-monitoring/
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars-2020-2128
+ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+
+https://ipi.media/covid19-media-freedom-monitoring/
+
+https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
+
+https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars-2020-2128
+
 https://www.lepoint.fr/afrique/mali-le-covid-19-en-etau-entre-pouvoir-civil-et-pouvoir-religieux-13-05-2020-2375300_3826.php#
 
 
@@ -752,20 +924,33 @@ https://www.lepoint.fr/afrique/mali-le-covid-19-en-etau-entre-pouvoir-civil-et-p
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No evidence was found. 
+ In Mali, the police briefly arrested a reporter for the L’Indépendant newspaper in connection with a report on the epidemic.'' No more incidents were found during July - December. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/05/southern-africa-covid19-a-pretext-for-surge-in-harassment-of-journalists-and-weakening-of-media-houses-by-states/
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+
 https://ipi.media/covid19-media-freedom-monitoring/
+
+https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
+
+https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars-2020-2128
+
+https://www.lepoint.fr/afrique/mali-le-covid-19-en-etau-entre-pouvoir-civil-et-pouvoir-religieux-13-05-2020-2375300_3826.php#
+
+https://www.amnesty.org/en/latest/news/2020/05/southern-africa-covid19-a-pretext-for-surge-in-harassment-of-journalists-and-weakening-of-media-houses-by-states/
+
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
 
 
 
@@ -787,21 +972,31 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No evidence was found. 
+ In Mali, the police briefly arrested a reporter for the L’Indépendant newspaper in connection with a report on the epidemic.'' No more incidents were found during July - December. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/05/southern-africa-covid19-a-pretext-for-surge-in-harassment-of-journalists-and-weakening-of-media-houses-by-states/
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://ipi.media/covid19-media-freedom-monitoring/
+ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+
+https://ipi.media/covid19-media-freedom-monitoring/
+
 https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
+
+https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars-2020-2128
+
+https://www.lepoint.fr/afrique/mali-le-covid-19-en-etau-entre-pouvoir-civil-et-pouvoir-religieux-13-05-2020-2375300_3826.php#
+
+https://www.amnesty.org/en/latest/news/2020/05/southern-africa-covid19-a-pretext-for-surge-in-harassment-of-journalists-and-weakening-of-media-houses-by-states/
 
 
 
@@ -825,10 +1020,13 @@ https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
@@ -840,8 +1038,8 @@ Time period: *Jul-Sep*: 2
 No evidence was found on whether the government changed its policy on the use of chloroquine after June. 
 
 *Sources*:
- http://mali-web.org/sante/traitement-du-coronavirus-au-mali-lutilisation-de-la-chloroquine-autorisee-lautomedication-interdite?fbclid=IwAR1Q4XNmQkPcKXJelQi-oWl91fCLrR5n1-9N2gbzW-PtUC4kToN1rucS280
-https://www.studiotamani.org/index.php/themes/societe/23651-traitement-des-malades-du-covid-19-l-oms-suspend-l-utilisation-de-la-chloroquine
+ http://mali-web.org/sante/traitement-du-coronavirus-au-mali-lutilisation-de-la-chloroquine-autorisee-lautomedication-interdite?fbclid=IwAR1Q4XNmQkPcKXJelQi-oWl91fCLrR5n1-9N2gbzW-PtUC4kToN1rucS280
+https://www.studiotamani.org/index.php/themes/societe/23651-traitement-des-malades-du-covid-19-l-oms-suspend-l-utilisation-de-la-chloroquine
 https://www.afrik.com/coronavirus-chloroquine-azythromycine-didier-raoult-donne-l-algerie-le-mali-le-senegal-en-exemple-video
 
 
@@ -866,10 +1064,13 @@ https://www.afrik.com/coronavirus-chloroquine-azythromycine-didier-raoult-donne-
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -878,13 +1079,15 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://www.garda.com/crisis24/news-alerts/341406/mali-violent-protests-erupt-in-kayes-kayes-region-may-11-12
-(1)
-https://north-africa.com/2020/05/mali-unrest-in-kayes-over-police-violence-three-more-civilians-killed/
-(2)
-https://www.ispionline.it/en/pubblicazione/covid-19-and-civil-society-protests-west-africa-26482
-https://www.france24.com/en/20200716-coronavirus-pandemic-doctors-forced-to-refuse-patients-in-south-africa
-(4)
+(1)
 
+https://north-africa.com/2020/05/mali-unrest-in-kayes-over-police-violence-three-more-civilians-killed/
+(2)
+
+https://www.ispionline.it/en/pubblicazione/covid-19-and-civil-society-protests-west-africa-26482
+
+https://www.france24.com/en/20200716-coronavirus-pandemic-doctors-forced-to-refuse-patients-in-south-africa
+(4)
 
 
 
@@ -896,7 +1099,7 @@ https://www.france24.com/en/20200716-coronavirus-pandemic-doctors-forced-to-refu
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -906,10 +1109,13 @@ https://www.france24.com/en/20200716-coronavirus-pandemic-doctors-forced-to-refu
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 
 
  
 
@@ -917,32 +1123,6 @@ Time period: *Jul-Sep*: 0
  No reports on the military's involvement. Because of the state of emergency and the security situation in Mali however, the army is deployed in the borders but not related to covid19. 
 
 *Sources*:
- https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-https://news.un.org/fr/story/2020/03/1064512
+ https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
 
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*
+https://news.un.org/fr/story/2020/03/1064512

@@ -1,9 +1,6 @@
 # The Gambia 
 
 
-Time 2020-09-11 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-11
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,26 +25,55 @@ Time 2020-09-11
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- A State of Public Emergency was declared on March 27, multiple times extended and expired July 22. Another State of Public Emergency was declared on August 5 and expired September 17. 
+ A State of Public Emergency was declared on March 27, multiple times extended and expired July 22. Another State of Public Emergency was declared on August 5 and expired September 17.
+A Public Health emergency was declared on July 24 and is still active. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Gambia_2018?lang=en
-
-http://www.statehouse.gm/second-address-nation-president-adama-barrow-covid-19
-
-https://www.facebook.com/PresidencyGambia/posts/1291037857894985
-
-https://www.facebook.com/PresidencyGambia/posts/1301223466876424
-
-https://www.facebook.com/PresidencyGambia/posts/1320268651638572
-
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B420%5D&covid19=1
-
-https://allafrica.com/stories/202009180532.html
-
+ https://www.chronicle.gm/gambia-opens-land-borders-night-clubs-as-covid-19-cases-lessen/
+
+https://www.panapress.com/Coronavirus-Gambia-introduces-ne-a_630653045-lang2-free_news.html
+
+https://www.facebook.com/PresidencyGambia/photos/covid19gambianew-covid-19-health-regulations-following-the-lapse-of-the-last-7-d/1291031134562324/
+
+https://www.constituteproject.org/constitution/Gambia_2018?lang=en
+
+
+
+http://www.statehouse.gm/second-address-nation-president-adama-barrow-covid-19
+
+
+
+https://www.facebook.com/PresidencyGambia/posts/1291037857894985
+
+
+
+https://www.facebook.com/PresidencyGambia/posts/1301223466876424
+
+
+
+https://www.facebook.com/PresidencyGambia/posts/1320268651638572
+
+
+
+https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B420%5D&covid19=1
+
+
+
+https://allafrica.com/stories/202009180532.html
+
+
+
 https://www.worldaware.com/covid-19-alert-gambia-eases-restrictive-measures-state-emergency-expires
 
 
@@ -67,20 +93,39 @@ https://www.worldaware.com/covid-19-alert-gambia-eases-restrictive-measures-stat
 *Scale*: Character string.
 
  
-*Answer*: State of Public Emergency 
+*Time period: Q2*: State of Public Emergency
+
+ 
+*Time period: Q3*: State of Public Emergency
+
+ 
+*Time period: Q4*: The Public Health (Dangerous infectious Diseases) Protection Regulations, 2020
+
+ 
 
 *Comments*:
- A State of Public Emergency was declared on March 27 and expired July 22. Another State of Public Emergency was declared on August 5 and expired September 17. 
+ A State of Public Emergency was declared on March 27 and expired July 22. Another State of Public Emergency was declared on August 5 and expired September 17.
+A Public Health emergency was declared on July 24 and is still active. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Gambia_2018?lang=en
-
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B420%5D&covid19=1
-
-http://www.statehouse.gm/second-address-nation-president-adama-barrow-covid-19
-
-https://www.facebook.com/PresidencyGambia/posts/1291037857894985
-
+ https://www.chronicle.gm/gambia-opens-land-borders-night-clubs-as-covid-19-cases-lessen/
+
+https://www.facebook.com/PresidencyGambia/photos/covid19gambianew-covid-19-health-regulations-following-the-lapse-of-the-last-7-d/1291031134562324/
+
+https://www.constituteproject.org/constitution/Gambia_2018?lang=en
+
+https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B420%5D&covid19=1
+
+
+
+http://www.statehouse.gm/second-address-nation-president-adama-barrow-covid-19
+
+
+
+https://www.facebook.com/PresidencyGambia/posts/1291037857894985
+
+
+
 https://www.facebook.com/PresidencyGambia/posts/1301223466876424
 
 
@@ -100,13 +145,24 @@ https://www.facebook.com/PresidencyGambia/posts/1301223466876424
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-27 
+*Time period: Q2*: 2020-03-27
+
+ 
+*Time period: Q3*: 2020-08-05
+
+ 
+*Time period: Q4*: 2020-07-24
+
+ 
 
 *Comments*:
- A State of Public Emergency was declared on March 27, multiple times extended and expired July 22. Another State of Public Emergency was declared on August 5 and expired September 17. We coded the beginning of the first State of Public Emergency. 
+ A State of Public Emergency was declared on March 27, multiple times extended and expired July 22. Another State of Public Emergency was declared on August 5 and expired September 17. 
+A Public Health emergency was declared on July 24 and is still active. 
 
 *Sources*:
  https://www.garda.com/crisis24/news-alerts/323581/sudan-government-closes-borders-due-to-covid-19-on-march-16-update-1
+
+https://www.facebook.com/PresidencyGambia/photos/covid19gambianew-covid-19-health-regulations-following-the-lapse-of-the-last-7-d/1291031134562324/
 
 
 
@@ -125,22 +181,40 @@ https://www.facebook.com/PresidencyGambia/posts/1301223466876424
 *Scale*: Date format.
 
  
-*Answer*: 2020-09-17 
+*Time period: Q2*: 2020-07-22
+
+ 
+*Time period: Q3*: 2020-09-17
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- A State of Public Emergency expired on July 22. However, another State of Public Emergency was declared on August 5. This State of Public Emergency expired on September 17. The Public Health  Protection Regulations, 2020 remain effective. We coded the ending of the second State of Public Emergency. 
+ A State of Public Emergency expired on July 22. However, another State of Public Emergency was declared on August 5. This State of Public Emergency expired on September 17. The Public Health  Protection Regulations, 2020 remain effective. 
 
 *Sources*:
- https://gm.usembassy.gov/health-alert-the-gambia/
-
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B420%5D&covid19=1
-
-https://www.facebook.com/PresidencyGambia/posts/1291037857894985
-
-https://www.facebook.com/PresidencyGambia/posts/1301223466876424
-
-https://allafrica.com/stories/202009180532.html
-
+ https://gm.usembassy.gov/health-alert-the-gambia/
+
+
+
+https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B420%5D&covid19=1
+
+
+
+https://www.facebook.com/PresidencyGambia/posts/1291037857894985
+
+
+
+https://www.facebook.com/PresidencyGambia/posts/1301223466876424
+
+
+
+https://allafrica.com/stories/202009180532.html
+
+
+
 https://www.worldaware.com/covid-19-alert-gambia-eases-restrictive-measures-state-emergency-expires
 
 
@@ -163,26 +237,52 @@ https://www.worldaware.com/covid-19-alert-gambia-eases-restrictive-measures-stat
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- A State of Public Emergency was declared on March 27, multiple times extended and expired July 22. Another State of Public Emergency was declared on August 5 and expired September 17. Both States of Public Emergency have/had an offically declared time limit. 
+ A State of Public Emergency was declared on March 27, multiple times extended and expired July 22. Another State of Public Emergency was declared on August 5 and expired September 17. Both States of Public Emergency have/had an offically declared time limit.
+The measures based on The Public Health (Dangerous infectious Diseases) Protection Regulations, 2020 " will subsist for a period of 90 days subject to 
+expert review and modification by the Health Minister at anytime", no end date is mentioned. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Gambia_2018?lang=en
-
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B420%5D&covid19=1
-
-http://www.statehouse.gm/second-address-nation-president-adama-barrow-covid-19
-
-https://www.facebook.com/PresidencyGambia/posts/1291037857894985
-
-https://www.facebook.com/PresidencyGambia/posts/1301223466876424
-
-https://www.facebook.com/PresidencyGambia/posts/1320268651638572
-
-https://allafrica.com/stories/202009180532.html
-
+ https://www.constituteproject.org/constitution/Gambia_2018?lang=en
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjl4aHow7TtAhWLsaQKHfUHDZcQFjAAegQIBBAC&url=https%3A%2F%2Fmali.um.dk%2F~%2Fmedia%2Fmali%2Fdocuments%2Fnews%2Fthe%2520gambia%2520government%2520announces%2520compulsory%2520wearing%2520of%2520face%2520%2520masks.pdf%3Fla%3Dda&usg=AOvVaw2yWJ9VTajGZ7CzRiNN9rKT
+
+
+
+https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B420%5D&covid19=1
+
+
+
+http://www.statehouse.gm/second-address-nation-president-adama-barrow-covid-19
+
+
+
+https://www.facebook.com/PresidencyGambia/posts/1291037857894985
+
+
+
+https://www.facebook.com/PresidencyGambia/posts/1301223466876424
+
+
+
+https://www.facebook.com/PresidencyGambia/posts/1320268651638572
+
+
+
+https://allafrica.com/stories/202009180532.html
+
+
+
 https://www.worldaware.com/covid-19-alert-gambia-eases-restrictive-measures-state-emergency-expires
 
 
@@ -195,33 +295,55 @@ https://www.worldaware.com/covid-19-alert-gambia-eases-restrictive-measures-stat
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-09-17 
+*Time period: Q2*: 2020-07-22
+
+ 
+*Time period: Q3*: 2020-09-17
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- A State of Public Emergency was declared on March 27, multiple times extended and expired July 22. Another State of Public Emergency was declared on August 5 and expired September 17. We coded the offical end date of the second State of Public Emergency. 
+ A State of Public Emergency was declared on March 27, multiple times extended and expired July 22. Another State of Public Emergency was declared on August 5 and expired September 17. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Gambia_2018?lang=en
-
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B420%5D&covid19=1
-
-http://www.statehouse.gm/second-address-nation-president-adama-barrow-covid-19
-
-https://www.facebook.com/PresidencyGambia/posts/1291037857894985
-
-https://www.facebook.com/PresidencyGambia/posts/1301223466876424
-
-https://www.facebook.com/PresidencyGambia/posts/1320268651638572
-
-https://allafrica.com/stories/202009180532.html
-
+ https://www.constituteproject.org/constitution/Gambia_2018?lang=en
+
+
+
+https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B420%5D&covid19=1
+
+
+
+http://www.statehouse.gm/second-address-nation-president-adama-barrow-covid-19
+
+
+
+https://www.facebook.com/PresidencyGambia/posts/1291037857894985
+
+
+
+https://www.facebook.com/PresidencyGambia/posts/1301223466876424
+
+
+
+https://www.facebook.com/PresidencyGambia/posts/1320268651638572
+
+
+
+https://allafrica.com/stories/202009180532.html
+
+
+
 https://www.worldaware.com/covid-19-alert-gambia-eases-restrictive-measures-state-emergency-expires
 
 
@@ -234,7 +356,7 @@ https://www.worldaware.com/covid-19-alert-gambia-eases-restrictive-measures-stat
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -244,14 +366,28 @@ https://www.worldaware.com/covid-19-alert-gambia-eases-restrictive-measures-stat
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- According to article 34 (2) of the constitution, the legislature must approve a declaration of a state of public emergency and any extensions of it. 
+ According to article 34 (2) of the constitution, the legislature must approve a declaration of a state of public emergency and any extensions of it.
+
+The Public Health Act does not require approvement. 
 
 *Sources*:
- https://constituteproject.org/constitution/Gambia_2018.pdf?lang=en
-
+ https://constituteproject.org/constitution/Gambia_2018.pdf?lang=en
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjl4aHow7TtAhWLsaQKHfUHDZcQFjAAegQIBBAC&url=https%3A%2F%2Fmali.um.dk%2F~%2Fmedia%2Fmali%2Fdocuments%2Fnews%2Fthe%2520gambia%2520government%2520announces%2520compulsory%2520wearing%2520of%2520face%2520%2520masks.pdf%3Fla%3Dda&usg=AOvVaw2yWJ9VTajGZ7CzRiNN9rKT
+
+
+
 https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B420%5D&covid19=1
 
 
@@ -274,28 +410,53 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B42
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The legislature has approved the declaration of public emergency on 27 March, and the extensions on 3 April. However, after the Parliament didn't approved another extension on 16 May, the president used an executive order to extend it. Furthermore, the second State of Public Emergency was declared and extended with executive orders and not approved by parliament. Therefore 'emlegapp' is coded as 0. 
+ The legislature has approved the declaration of public emergency on 27 March, and the extensions on 3 April. However, after the Parliament didn't approved another extension on 16 May, the president used an executive order to extend it. Furthermore, the second State of Public Emergency was declared and extended with executive orders and not approved by parliament. Therefore 'emlegapp' is coded as 0.
+The Public Health Act does not require approval by the Parliament. 
 
 *Sources*:
- https://constituteproject.org/constitution/Gambia_2018.pdf?lang=en
-
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B420%5D&covid19=1
-
-http://www.statehouse.gm/second-address-nation-president-adama-barrow-covid-19
-
-https://www.garda.com/crisis24/news-alerts/329171/gambia-state-of-emergency-extended-for-45-days-april-3-update-1
-
-https://www.facebook.com/notes/state-house-of-the-gambia/the-5th-nation-address-on-corona-virus-pandemic/1236979359967502/
-
-https://gambiana.com/breaking-lawmakers-reject-govt-motion-seeking-extension-of-lockdown-to-45-days/
-
-https://www.facebook.com/PresidencyGambia/posts/1291037857894985
-
-https://www.facebook.com/PresidencyGambia/posts/1301223466876424
-
+ https://constituteproject.org/constitution/Gambia_2018.pdf?lang=en
+
+
+
+https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B420%5D&covid19=1
+
+
+
+http://www.statehouse.gm/second-address-nation-president-adama-barrow-covid-19
+
+
+
+https://www.garda.com/crisis24/news-alerts/329171/gambia-state-of-emergency-extended-for-45-days-april-3-update-1
+
+
+
+https://www.facebook.com/notes/state-house-of-the-gambia/the-5th-nation-address-on-corona-virus-pandemic/1236979359967502/
+
+
+
+https://gambiana.com/breaking-lawmakers-reject-govt-motion-seeking-extension-of-lockdown-to-45-days/
+
+
+
+https://www.facebook.com/PresidencyGambia/posts/1291037857894985
+
+
+
+https://www.facebook.com/PresidencyGambia/posts/1301223466876424
+
+
+
 https://www.facebook.com/PresidencyGambia/posts/1320268651638572
 
 
@@ -316,21 +477,31 @@ https://www.facebook.com/PresidencyGambia/posts/1320268651638572
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The legislature continues oversight of the executive, but the president has been able to invoke a wide range of regulations related to Covid-19 through the Emergency Powers Act. 
+ The legislature continues oversight of the executive, but the president has been able to invoke a wide range of regulations related to Covid-19 through the Emergency Powers Act.
+
+The Public Health Act does not limit the lawmaking role of the legislature. 
 
 *Sources*:
- https://www.facebook.com/GambiaAssembly/posts/582290949060174
-
-https://assembly.gm/wp-content/uploads/2020/05/Final-Report-of-Special-Select-Committee-on-Monitoring-1-1.pdf
+ https://assembly.gm/wp-content/uploads/2020/05/Final-Report-of-Special-Select-Committee-on-Monitoring-1-1.pdf
+
+https://www.facebook.com/PresidencyGambia/photos/covid19gambianew-covid-19-health-regulations-following-the-lapse-of-the-last-7-d/1291031134562324/
 
 
 
@@ -342,15 +513,22 @@ https://assembly.gm/wp-content/uploads/2020/05/Final-Report-of-Special-Select-Co
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
@@ -375,8 +553,15 @@ https://assembly.gm/wp-content/uploads/2020/05/Final-Report-of-Special-Select-Co
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
@@ -406,14 +591,24 @@ https://assembly.gm/wp-content/uploads/2020/05/Final-Report-of-Special-Select-Co
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The measures appear to have been more or less uniform across the country. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/344421/gambia-president-extends-covid-19-state-of-emergency-until-june-9-update-2
-
+ https://www.garda.com/crisis24/news-alerts/344421/gambia-president-extends-covid-19-state-of-emergency-until-june-9-update-2
+
+
+
 https://www.garda.com/crisis24/news-alerts/349821/gambia-covid-19-state-of-emergency-extended-until-july-1-update-3
 
 
@@ -438,10 +633,13 @@ https://www.garda.com/crisis24/news-alerts/349821/gambia-covid-19-state-of-emerg
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -449,12 +647,18 @@ Time period: *Jul-Sep*: 0
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- https://www.hrw.org/africa/gambia
-
-https://www.amnesty.org/en/countries/africa/gambia/
-
-https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
-
+ https://www.hrw.org/africa/gambia
+
+
+
+https://www.amnesty.org/en/countries/africa/gambia/
+
+
+
+https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
+
+
+
 http://www.statehouse.gm/second-address-nation-president-adama-barrow-covid-19
 
 
@@ -484,10 +688,13 @@ http://www.statehouse.gm/second-address-nation-president-adama-barrow-covid-19
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -495,14 +702,22 @@ Time period: *Jul-Sep*: 0
  No emergency measures that de-jure violate non-derogable rights as defined by the ICCPR, was found. 
 
 *Sources*:
- https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-
-https://www.hrw.org/africa/gambia
-
-https://www.amnesty.org/en/countries/africa/gambia/
-
-https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
-
+ https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
+
+
+
+https://www.hrw.org/africa/gambia
+
+
+
+https://www.amnesty.org/en/countries/africa/gambia/
+
+
+
+https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
+
+
+
 http://www.statehouse.gm/second-address-nation-president-adama-barrow-covid-19
 
 
@@ -527,19 +742,34 @@ http://www.statehouse.gm/second-address-nation-president-adama-barrow-covid-19
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No de-jure limitations of media freedom as part of the Covid-19 emergency measures were found. 
 
 *Sources*:
- https://ipi.media/gambia/
-
-https://cpj.org/africa/gambia/
-
-https://rsf.org/en/gambia
-https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
-
+ https://ipi.media/gambia/
+
+
+
+https://cpj.org/africa/gambia/
+
+
+
+https://rsf.org/en/gambia
+
+https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
+
+
+
 http://www.statehouse.gm/second-address-nation-president-adama-barrow-covid-19
 
 
@@ -552,15 +782,22 @@ http://www.statehouse.gm/second-address-nation-president-adama-barrow-covid-19
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -578,15 +815,22 @@ http://www.statehouse.gm/second-address-nation-president-adama-barrow-covid-19
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -614,10 +858,13 @@ http://www.statehouse.gm/second-address-nation-president-adama-barrow-covid-19
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -625,12 +872,20 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
 
 *Sources*:
- https://ipi.media/gambia/
-
-https://cpj.org/africa/gambia/
-
-https://rsf.org/en/gambia
-
+ https://rsf.org/en/news/gambia-still-needs-address-challenges-press-freedom
+
+https://ipi.media/gambia/
+
+
+
+https://cpj.org/africa/gambia/
+
+
+
+https://rsf.org/en/gambia
+
+
+
 https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
 
 
@@ -643,7 +898,7 @@ https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -653,10 +908,13 @@ https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -690,10 +948,13 @@ https://www.mfwa.org/covid19-incitesmore-attacks-on-journalists-media-houses-in-
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -701,12 +962,18 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government is de-facto limiting media reporting about non-Covid-19 related news, but with reference to the pandemic, was found. 
 
 *Sources*:
- https://ipi.media/gambia/
-
-https://cpj.org/africa/gambia/
-
-https://rsf.org/en/gambia
-
+ https://ipi.media/gambia/
+
+
+
+https://cpj.org/africa/gambia/
+
+
+
+https://rsf.org/en/gambia
+
+
+
 https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
 
 
@@ -726,14 +993,17 @@ https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -741,12 +1011,18 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government and its agents limits media access to Covid-19 related information, was found. 
 
 *Sources*:
- https://ipi.media/gambia/
-
-https://cpj.org/africa/gambia/
-
-https://rsf.org/en/gambia
-
+ https://ipi.media/gambia/
+
+
+
+https://cpj.org/africa/gambia/
+
+
+
+https://rsf.org/en/gambia
+
+
+
 https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
 
 
@@ -769,10 +1045,13 @@ https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -780,12 +1059,18 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government and its agents have verbally harassed journalists reporting about Covid-19, was found. 
 
 *Sources*:
- https://ipi.media/gambia/
-
-https://cpj.org/africa/gambia/
-
-https://rsf.org/en/gambia
-
+ https://ipi.media/gambia/
+
+
+
+https://cpj.org/africa/gambia/
+
+
+
+https://rsf.org/en/gambia
+
+
+
 https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
 
 
@@ -808,10 +1093,13 @@ https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -819,12 +1107,18 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government and its agents have physically harassed journalists reporting about Covid-19, was found. 
 
 *Sources*:
- https://ipi.media/gambia/
-
-https://cpj.org/africa/gambia/
-
-https://rsf.org/en/gambia
-
+ https://ipi.media/gambia/
+
+
+
+https://cpj.org/africa/gambia/
+
+
+
+https://rsf.org/en/gambia
+
+
+
 https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
 
 
@@ -849,25 +1143,34 @@ https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- The information from the government is similar to the information from WHO. However, Gambia has announced accepting a consignment from the Madagascar's president. The "Covid Organics" medicine (a herbal tonic touted as a cure for COVID-19) was then said to be handed to the ministry of health for treatment of patients. WHO advises that there is no proof of its efficiency. 
+ The information from the government is similar to the information from WHO. However, the government has announced accepting a consignment from the Madagascar's president through an ECOWAS program. The "Covid Organics" medicine (a herbal tonic touted as a cure for COVID-19) was then said to be handed to the ministry of health for treatment of patients. WHO advises that there is no proof of its efficiency. No information was found indicating that patients are actually being treated with "Covid Organics". Information provided by the Ministry of Health conforms to WHO guidelines and does not mention Covid Organics. Therefore, we only code disinformation as "1" in the Mar-June period when the consignment of Covid Organics was received. 
 
 *Sources*:
- https://www.chronicle.gm/madagascar-covid-organics-gambians-believe-its-time-to-show-solidarity/
-
-https://www.aljazeera.com/news/2020/05/coronavirus-gambia-receives-covid-organics-madagascar-200512153915124.html
-
-http://www.moh.gov.gm/covid-19-report/
-
-http://www.moh.gov.gm/
-
+ https://www.chronicle.gm/madagascar-covid-organics-gambians-believe-its-time-to-show-solidarity/
+
+https://twitter.com/mohcovid19gmb
+
+http://op.gov.gm/gambia-receives-covid-organics-package-madagascar
+
+http://www.moh.gov.gm/covid-19-report/
+
+
+
+http://www.moh.gov.gm/
+
+
+
 https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
 
 
@@ -892,10 +1195,13 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -903,8 +1209,10 @@ Time period: *Jul-Sep*: 0
  Police fire tear gas in clashes with anti-government demonstrators demanding resignation of the President. But no evidence was found that indicates that security forces, such as the civilian police or military, has engaged in physical violence to execute the Covid-19 emergency measures. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/308596/gambia-police-fire-tear-gas-as-thousands-demand-resignation-of-president-in-banjul-january-26-update-4
-
+ https://www.garda.com/crisis24/news-alerts/308596/gambia-police-fire-tear-gas-as-thousands-demand-resignation-of-president-in-banjul-january-26-update-4
+
+
+
 https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
 
 
@@ -917,7 +1225,7 @@ https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -927,10 +1235,13 @@ https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -938,38 +1249,20 @@ Time period: *Jul-Sep*: 0
  In the declaration of the second State of Public Emergency states that the "Armed Forces may be deployed pursuant to Section 187(1)(b) of the Constitution of The Gambia to support the civil authorities in the fight against the COVID-19 pandemic". However, no information indicating that the military is enforcing confinement measures was found. 
 
 *Sources*:
- https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
-
-http://www.statehouse.gm/second-address-nation-president-adama-barrow-covid-19
-
-https://www.garda.com/crisis24/news-alerts/344421/gambia-president-extends-covid-19-state-of-emergency-until-june-9-update-2
-
-https://www.garda.com/crisis24/news-alerts/349821/gambia-covid-19-state-of-emergency-extended-until-july-1-update-3
-
+ https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
+
+
+
+http://www.statehouse.gm/second-address-nation-president-adama-barrow-covid-19
+
+
+
+https://www.garda.com/crisis24/news-alerts/344421/gambia-president-extends-covid-19-state-of-emergency-until-june-9-update-2
+
+
+
+https://www.garda.com/crisis24/news-alerts/349821/gambia-covid-19-state-of-emergency-extended-until-july-1-update-3
+
+
+
 https://www.facebook.com/PresidencyGambia/posts/1301223466876424
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

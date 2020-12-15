@@ -1,9 +1,6 @@
 # Bangladesh 
 
 
-Time 2020-06-24 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-06-24
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,17 +25,23 @@ Time 2020-06-24
  7. Other.
 
  
-*Answer*: 7 
+*Time period: Q2*: 7
+
+ 
+*Time period: Q3*: 5
+
+ 
+*Time period: Q4*: 5
+
+ 
 
 *Comments*:
- Bangladesh did not declare a state of emergency. It instead declared a country-wide "general holiday", which was imposed for two weeks from 26 March. This was later extended until 5 May. The scope of the "general holiday" was extensive with the closure of all government and private offices, schools and universities and subject to stringent exceptions, all courts including the Supreme Court. 
+ Bangladesh did not declare a state of emergency. It instead declared a country-wide "general holiday", which was imposed for two weeks from 26 March. This was later extended until 5 May, then extended to 16 May and finally 30 May 2020. The scope of the "general holiday" was extensive with the closure of all government and private offices, schools and universities and subject to stringent exceptions, all courts including the Supreme Court. 
 
 Whenever any new COVID-19 case is detected, the concerned suburb, village or district is placed under "lockdown" which is often done by an oral administrative order, so it is possible to have both a "public holiday" and also a "lockdown" as emergency measures taken at  the same time. 
 
 *Sources*:
  https://verfassungsblog.de/bangladeshs-unofficial-emergency-managing-the-covid-19-crisis-by-notifications/
-
-
 https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
 
 
@@ -58,8 +61,15 @@ https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
 *Scale*: Character string.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Bangladesh did not declare a state of emergency. It instead declared a country-wide "general holiday", which was imposed for two weeks from 26 March. This was later extended until 5 May. The scope of the "general holiday" was extensive with the closure of all government and private offices, schools and universities and subject to stringent exceptions, all courts including the Supreme Court. 
@@ -86,18 +96,30 @@ Whenever any new COVID-19 case is detected, the concerned suburb, village or dis
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-26 
+*Time period: Q2*: 2020-03-26
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  https://tbsnews.net/coronavirus-chronicle/covid-19-bangladesh/general-holiday-not-extend-further-state-minister-85870
-
-
+
+
+
+
 https://verfassungsblog.de/bangladeshs-unofficial-emergency-managing-the-covid-19-crisis-by-notifications/
-
-
+
+
+
+
 https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
 
 
@@ -117,19 +139,33 @@ https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-31 
+*Time period: Q2*: 2020-05-31
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The 'general holiday' was originally declared for a 10-day period.  This was later extended seven times and finally relaxed on 31 May 2020. 
 
 *Sources*:
- https://verfassungsblog.de/bangladeshs-unofficial-emergency-managing-the-covid-19-crisis-by-notifications/
-
-https://www.aa.com.tr/en/asia-pacific/covid-19-bangladesh-extends-lockdown-until-may-30/1840126
-
+ https://verfassungsblog.de/bangladeshs-unofficial-emergency-managing-the-covid-19-crisis-by-notifications/
+
+
+
+https://www.aa.com.tr/en/asia-pacific/covid-19-bangladesh-extends-lockdown-until-may-30/1840126
+
+
+
 https://www.india.com/news/world/bangladesh-govt-decides-not-to-extend-covid-19-shutdown-4042581/
-
-
+
+
+
+
 https://tbsnews.net/coronavirus-chronicle/covid-19-bangladesh/general-holiday-not-extend-further-state-minister-85870
 
 
@@ -152,16 +188,28 @@ https://tbsnews.net/coronavirus-chronicle/covid-19-bangladesh/general-holiday-no
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  End dates for the 'general holidays' were announced and subsequently extended till 31 May 2020. 
 
 *Sources*:
- https://verfassungsblog.de/bangladeshs-unofficial-emergency-managing-the-covid-19-crisis-by-notifications/
-
-https://www.aa.com.tr/en/asia-pacific/covid-19-bangladesh-extends-lockdown-until-may-30/1840126
-
+ https://verfassungsblog.de/bangladeshs-unofficial-emergency-managing-the-covid-19-crisis-by-notifications/
+
+
+
+https://www.aa.com.tr/en/asia-pacific/covid-19-bangladesh-extends-lockdown-until-may-30/1840126
+
+
+
 https://www.india.com/news/world/bangladesh-govt-decides-not-to-extend-covid-19-shutdown-4042581/
 
 
@@ -174,21 +222,41 @@ https://www.india.com/news/world/bangladesh-govt-decides-not-to-extend-covid-19-
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 2020-05-31
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://verfassungsblog.de/bangladeshs-unofficial-emergency-managing-the-covid-19-crisis-by-notifications/
+
+
+
+https://www.aa.com.tr/en/asia-pacific/covid-19-bangladesh-extends-lockdown-until-may-30/1840126
+
+
+
+https://www.india.com/news/world/bangladesh-govt-decides-not-to-extend-covid-19-shutdown-4042581/
+
+
+
+
+https://tbsnews.net/coronavirus-chronicle/covid-19-bangladesh/general-holiday-not-extend-further-state-minister-85870
 
 
 
@@ -200,7 +268,7 @@ https://www.india.com/news/world/bangladesh-govt-decides-not-to-extend-covid-19-
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -210,8 +278,15 @@ https://www.india.com/news/world/bangladesh-govt-decides-not-to-extend-covid-19-
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -239,8 +314,15 @@ https://www.india.com/news/world/bangladesh-govt-decides-not-to-extend-covid-19-
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -266,21 +348,31 @@ https://www.india.com/news/world/bangladesh-govt-decides-not-to-extend-covid-19-
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  I did not find any information indicating that the lawmaking role of the legislature has been limited due to the emergency measures taken with reference to the Covid-19 pandemic. 
 
 *Sources*:
  https://verfassungsblog.de/bangladeshs-unofficial-emergency-managing-the-covid-19-crisis-by-notifications/
-
-
+
+
+
+
 https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
 
 
@@ -293,23 +385,32 @@ https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  A 'two day special session' was suspended. However, I did not find information on other regular session within the Bangladesh legislature being postponed or suspended. 
 
 *Sources*:
  https://thefinancialexpress.com.bd/national/special-parliament-session-on-bangabandhu-centenary-suspended-1584795617
-
-
+
+
+
+
 https://www.deccanherald.com/international/bangladesh-postpones-special-parliament-session-over-coronavirus-816152.html
 
 
@@ -329,16 +430,25 @@ https://www.deccanherald.com/international/bangladesh-postpones-special-parliame
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  A 'two day special session' was suspended. However, I did not find information on other regular session within the Bangladesh legislature being postponed or suspended. 
 
 *Sources*:
  https://thefinancialexpress.com.bd/national/special-parliament-session-on-bangabandhu-centenary-suspended-1584795617
-
-
+
+
+
+
 https://www.deccanherald.com/international/bangladesh-postpones-special-parliament-session-over-coronavirus-816152.html
 
 
@@ -363,14 +473,22 @@ https://www.deccanherald.com/international/bangladesh-postpones-special-parliame
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
+*Time period: Q2*: 1
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
-*No comment provided* 
+ Whenever any new COVID-19 case is detected, the concerned suburb, village or district is placed under "lockdown". 
 
 *Sources*:
-*No source provided*
+ https://verfassungsblog.de/bangladeshs-unofficial-emergency-managing-the-covid-19-crisis-by-notifications/https://www.aa.com.tr/en/asia-pacific/covid-19-bangladesh-extends-lockdown-until-may-30/1840126https://www.india.com/news/world/bangladesh-govt-decides-not-to-extend-covid-19-shutdown-4042581/
+https://tbsnews.net/coronavirus-chronicle/covid-19-bangladesh/general-holiday-not-extend-further-state-minister-85870
 
 
 
@@ -394,10 +512,13 @@ https://www.deccanherald.com/international/bangladesh-postpones-special-parliame
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -439,10 +560,13 @@ https://www.hindustantimes.com/world-news/bangladesh-virus-hospitals-accused-of-
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -477,15 +601,21 @@ https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The text of the national-level emergency measures do not limit meedia freedom. 
+ The 'general holiday' did not include any measures that limited media freedom. 
 
 *Sources*:
  https://verfassungsblog.de/bangladeshs-unofficial-emergency-managing-the-covid-19-crisis-by-notifications/
-
-
 https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
 
 
@@ -498,15 +628,22 @@ https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -524,15 +661,22 @@ https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -560,15 +704,20 @@ https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- 1: According to Reporters with Borders, at least 15 journalists have been been attacked for their reporting on Covid-19. They were arrested under the 'Digital Security Act' which was passed in 2018. 
+ The Bangladeshi government introduced the Digital Security Act in 2018 and this act has been frequently used during the pandemic to stifle press freedom in the country. Under this Act, journalists can be taken to court and punished for ‘spreading rumours and carrying out anti-government activities’. 
+
+1: According to Reporters with Borders, at least 15 journalists have been been attacked for their reporting on Covid-19. They were arrested under the 'Digital Security Act' which was passed in 2018. 
 
 2: Prime Minister Sheikh Hasina's government has been accused of trying to prevent journalists from informing the public about the severity of the Covid-19 pandemic in the country. 
 
@@ -583,6 +732,13 @@ https://www.dw.com/en/attacked-and-harassedhow-bangladeshi-journalists-are-payin
 
 https://www.hrw.org/news/2020/03/31/bangladesh-end-wave-covid-19-rumor-arrests
 
+"https://www.amnesty.org/en/latest/news/2020/10/bangladesh-escalating-attacks-on-the-media-must-stop/
+
+https://cpj.org/2020/06/bangladeshi-authorities-charge-5-journalists-detain-2-under-digital-security-act-for-covid-19-reporting/"
+
+
+https://www.amnesty.org/download/Documents/ASA1393642018ENGLISH.PDF
+
 
 
 
@@ -593,7 +749,7 @@ https://www.hrw.org/news/2020/03/31/bangladesh-end-wave-covid-19-rumor-arrests
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -603,15 +759,20 @@ https://www.hrw.org/news/2020/03/31/bangladesh-end-wave-covid-19-rumor-arrests
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Police arrested journalists Tasneem Khalil and Shahed Alam, cartoonist Ahmed Kabir Kishore, writer and blogger Mushtaq Ahmed, and charged 9 others in May 2020 for reporting about and criticizing the government’s response to Covid-19. All of them face life imprisonment under the draconian Digital Security Act. 
+ The Bangladeshi government introduced the Digital Security Act in 2018 and this act has been frequently used during the pandemic to stifle press freedom in the country. Under this Act, journalists can be taken to court and punished for ‘spreading rumours and carrying out anti-government activities’. 
+
+Police arrested journalists Tasneem Khalil and Shahed Alam, cartoonist Ahmed Kabir Kishore, writer and blogger Mushtaq Ahmed, and charged 9 others in May 2020 for reporting about and criticizing the government’s response to Covid-19. All of them face life imprisonment under the draconian Digital Security Act. 
 
 *Sources*:
  https://www.hrw.org/news/2020/05/07/bangladesh-mass-arrests-over-cartoons-posts
@@ -638,10 +799,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -687,14 +851,17 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/bangladesh/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -730,10 +897,13 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/bangladesh/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -769,17 +939,22 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/bangladesh/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
  1: Journalist Sajal Bhuiyan was working on a report in the Narsingdi district on the rice crisis in Bangladesh amid the coronavirus pandemic. He was beaten up by an official and his supporter when trying to do his work. He sustained injuries to the head and eye and had to be warded in the hospital.
 
-2: 15 journalists have been attacked in Bangladesh in the April and May for their reporting on COVID-19 issues. 
+2: 15 journalists have been attacked in Bangladesh in the April and May for their reporting on COVID-19 issues.
+
+As I have not found information suggesting that the situation in Bangladesh has improved, I have continued to code this variable as 1. 
 
 *Sources*:
  https://www.dw.com/en/attacked-and-harassedhow-bangladeshi-journalists-are-paying-the-price-for-covid-19-reporting/a-53329494
@@ -808,10 +983,13 @@ https://www.aa.com.tr/en/asia-pacific/bangladesh-should-keep-reporters-safe-amid
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -843,10 +1021,13 @@ Time period: *Jul-Sep*: 0
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -870,7 +1051,7 @@ https://tbsnews.net/coronavirus-chronicle/coronavirus-bangladesh/police-enforce-
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -880,15 +1061,18 @@ https://tbsnews.net/coronavirus-chronicle/coronavirus-bangladesh/police-enforce-
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The military has been deployed to enforce the social distancing measures that have been employed in April 2020. 
+ The military has been deployed to enforce the social distancing measures that have been employed in April 2020. Military deployment was again boosted in June 2020. I found no indication that the military deployment has stopped. 
 
 *Sources*:
  https://www.reuters.com/article/health-coronavirus-southasia/bangladesh-extends-coronavirus-lockdown-indias-modi-mulls-longer-restrictions-idUSL3N2BZ028
@@ -900,27 +1084,6 @@ https://www.thehindu.com/news/international/covid-19-bangladesh-army-says-troops
 https://www.deccanherald.com/international/covid-19-bangladesh-army-says-troops-will-be-on-streets-until-govt-recalls-818851.html
 
 
+https://www.aa.com.tr/en/asia-pacific/bangladesh-to-deploy-more-troops-as-virus-deaths-peak/1878919
 
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*
+https://www.afd.gov.bd/role-of-armed-forces-against-covid-19

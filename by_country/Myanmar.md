@@ -1,9 +1,6 @@
 # Myanmar 
 
 
-Time 2020-09-14 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-14
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,19 +25,28 @@ Time 2020-09-14
  7. Other.
 
  
-*Answer*: 5 
+*Time period: Q2*: 5
+
+ 
+*Time period: Q3*: 5
+
+ 
+*Time period: Q4*: 5
+
+ 
 
 *Comments*:
- Myanmar has a state of emergency legislation in the constitution (Chapter XI), but this has not been used. Maynmar has however had a national level emergency response, for example closing borders, imposing curfews and restricting gatherings. No reference has been found to any existing or new legislation in these meaures, and this is therefore coded as 5 - a national level emergency response without specific reference to a legal instrument. 
+ Myanmar has a state of emergency legislation in the constitution (Chapter XI), but this has not been used. Maynmar has however had a national level emergency response, for example closing borders, imposing curfews and restricting gatherings. Myanmar has continued to issue such measurements during the fall of 2020, such as stay at home orders in some townships and extending flight bans. No reference has been found to any existing or new legislation in these meaures, and this is therefore coded as 5 - a national level emergency response without specific reference to a legal instrument. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Myanmar_2015.pdf?lang=en
-https://mm.usembassy.gov/covid-19-information/
-https://www.president-office.gov.mm/?q=briefing-room/news/2020/04/04/id-16379
-https://www.garda.com/crisis24/news-alert-full-history/aFv8t8QnEdDsHp4ZF/myanmar-extended-quarantine-measures-implemented-due-to-covid-19-march-19
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.irrawaddy.com/news/burma/myanmar-govt-cancels-mass-gatherings-and-thingyan-water-festival-as-coronavirus-precaution.html
-https://www.irrawaddy.com/specials/myanmar-covid-19/timeline-myanmars-government-responses-to-the-covid-19-pandemic.html
+ https://www.constituteproject.org/constitution/Myanmar_2015.pdf?lang=en
+https://mm.usembassy.gov/covid-19-information/
+https://www.president-office.gov.mm/?q=briefing-room/news/2020/04/04/id-16379
+https://www.garda.com/crisis24/news-alert-full-history/aFv8t8QnEdDsHp4ZF/myanmar-extended-quarantine-measures-implemented-due-to-covid-19-march-19
+https://www.acaps.org/covid19-government-measures-datasethttps://www.irrawaddy.com/news/burma/myanmar-govt-cancels-mass-gatherings-and-thingyan-water-festival-as-coronavirus-precaution.html
+https://www.irrawaddy.com/specials/myanmar-covid-19/timeline-myanmars-government-responses-to-the-covid-19-pandemic.html+H10
+https://www.garda.com/crisis24/news-alerts/393901/myanmar-authorities-extend-international-flight-suspension-until-november-30-update-26
+https://www.garda.com/crisis24/news-alerts/383596/myanmar-stay-at-home-orders-issued-for-additional-townships-on-september-26-update-25+G10
 
 
 
@@ -59,8 +65,15 @@ https://www.irrawaddy.com/specials/myanmar-covid-19/timeline-myanmars-government
 *Scale*: Character string.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No specific legal instrument used. 
@@ -85,8 +98,15 @@ https://www.irrawaddy.com/specials/myanmar-covid-19/timeline-myanmars-government
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No specific legal instrument used. 
@@ -111,8 +131,15 @@ https://www.irrawaddy.com/specials/myanmar-covid-19/timeline-myanmars-government
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No specific legal instrument used. 
@@ -140,8 +167,15 @@ https://www.irrawaddy.com/specials/myanmar-covid-19/timeline-myanmars-government
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No specific legal instrument used. 
@@ -159,15 +193,22 @@ https://www.irrawaddy.com/specials/myanmar-covid-19/timeline-myanmars-government
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No specific legal instrument used. 
@@ -185,7 +226,7 @@ https://www.irrawaddy.com/specials/myanmar-covid-19/timeline-myanmars-government
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -195,8 +236,15 @@ https://www.irrawaddy.com/specials/myanmar-covid-19/timeline-myanmars-government
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No specific legal instrument used. 
@@ -224,8 +272,15 @@ https://www.irrawaddy.com/specials/myanmar-covid-19/timeline-myanmars-government
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No specific legal instrument used. 
@@ -251,23 +306,31 @@ https://www.irrawaddy.com/specials/myanmar-covid-19/timeline-myanmars-government
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The Myanmar parliament is continuing to conduct its work, and the emergency measures has not changed or limited their law making role. For example, parliament has debated a lot of Covid-19 related measures, as well as handling proposals for new Covid-19 laws (which they must pass for it to come into effect), during may and june. This is therefore coded as 0.
-No evidence has been found that the parliaments law making role has been limited in the second period either. 
+ The Myanmar parliament is continuing to conduct its work, and the emergency measures has not changed or limited their law making role. For example, parliament has debated a lot of Covid-19 related measures, as well as handling proposals for new Covid-19 laws (which they must pass for it to come into effect), during may and june. This is therefore coded as 0. No evidence has been found that the parliaments lawmaking role has been affected in the Jul-Sep and Oct-Dec period either. Noteworthy is that Myanmar held parliamentary elections on November 8, which temporarily affects the parliaments work as it shifts its members and composition, but neither before nor after the elections has there been any evidence found of limitations to their law making role due to covid-19 measures. This is therefore coded 0 for all three periods. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-https://www.irrawaddy.com/news/burma/this-week-in-parliament-23.html
-https://www.irrawaddy.com/specials/myanmar-covid-19/timeline-myanmars-government-responses-to-the-covid-19-pandemic.html
-https://pyidaungsu.hluttaw.mm
+ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+https://www.irrawaddy.com/news/burma/this-week-in-parliament-23.html
+https://www.irrawaddy.com/sp+AE10ecials/myanmar-covid-19/timeline-myanmars-government-responses-to-the-covid-19-pandemic.html
++AE10
+https://www.bbc.com/news/world-asia-54899170
 
 
 
@@ -279,15 +342,22 @@ https://pyidaungsu.hluttaw.mm
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -312,8 +382,15 @@ https://pyidaungsu.hluttaw.mm
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -343,18 +420,27 @@ https://pyidaungsu.hluttaw.mm
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- Many of the emergency measures have been enforced nationwide. However, there have been variation in that curfews initially were only placed in three regions (Yangon, Ayeyawaddy, and Nay Pyi Taw). This is therefore coded as 2, there has been some sub-national variation. 
+ Many of the emergency measures have been enforced nationwide. However, there have been variation in that curfews initially were only placed in three regions (Yangon, Ayeyawaddy, and Nay Pyi Taw). On september 26, the government also implemented special stay at home orders in several townships. This is therefore coded as 2, there has been some sub-national variation, for all three time periods. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/333906/myanmar-authorities-introduce-curfews-in-three-regions-from-april-18-update-7
-https://www.garda.com/crisis24/news-alert-full-history/aFv8t8QnEdDsHp4ZF/myanmar-extended-quarantine-measures-implemented-due-to-covid-19-march-19
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.garda.com/crisis24/news-alerts/377726/myanmar-restrictions-increased-in-yangon-amid-rise-in-covid-19-cases-september-10-update-22
-https://www.garda.com/crisis24/news-alerts/375841/myanmar-authorities-impose-nightly-curfew-in-rakhine-state-from-september-4-update-21
+ https://www.garda.com/crisis24/news-alerts/333906/myanmar-authorities-introduce-curfews-in-three-regions-from-april-18-update-7
+https://www.garda.com/crisis24/news-alert-full-history/aFv8t8QnEdDsHp4ZF/myanmar-extended-quarantine-measures-implemented-due-to-covid-19-march-19
+https://www.acaps.org/covid19-government-measures-dataset
+https://www.garda.com/crisis24/news-alerts/377726/myanmar-restrictions-increased-in-yangon-amid-rise-in-covid-19-cases-september-10-update-22
+https://www.garda.com/crisis24/news-alerts/375841/myanmar-authorities-impose-nightly-curfew-in-rakhine-state-from-september-4-update-21
 https://www.garda.com/crisis24/news-alerts/373266/myanmar-authorities-tighten-covid-19-restrictions-as-of-august-27-update-19
+https://www.garda.com/crisis24/news-alerts/383596/myanmar-stay-at-home-orders-issued-for-additional-townships-on-september-26-update-25+AN10
 
 
 
@@ -378,20 +464,23 @@ https://www.garda.com/crisis24/news-alerts/373266/myanmar-authorities-tighten-co
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- There are reports of some discrimination from law enforcement onto the Rohingyan population, who has been subject to harassment, as well as unlawful fines, when attempting to cross checkpoints that are part of the emergency measures. Similar reports are found in the second period, where Rohingyans and Rakhians have been subject to police targeting and extortion. However, no sources indicate that this is national or regional policy, or that there are any more severe or systematically imposed instances of de facto discrimination on going in relation to the Covid-19 emergency measures (the more severe discrimination of Rohingyans is from before the emergency measures and not part of the Covid-19 response, and thus not accounted for here). This is therefore coded as 1, minor de facto discrimination, for both periods. 
+ There are reports of some discrimination from law enforcement onto the Rohingyan population, who has been subject to harassment, as well as unlawful fines, when attempting to cross checkpoints that are part of the emergency measures. Similar reports are found in the second period, where Rohingyans and Rakhians have been subject to police targeting and extortion. However, no sources indicate that this is national or regional policy, or that there are any more severe or systematically imposed instances of de facto discrimination on going in relation to the Covid-19 emergency measures (the more severe discrimination of Rohingyans is from before the emergency measures and not part of the Covid-19 response, and thus not accounted for here). While no new reports of discrimination have been found in the Oct-Dec period, neither has there been any evidence that discrimination toward these groups have ceased or any indication that the situation has improved. This is therefore coded as 1, minor de facto discrimination, for all three periods. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/29/pandemic-adds-new-threat-rohingyas-myanmar
-https://www.hrw.org/news?country[]=9543
-https://www.amnesty.org/en/search/?country=38380&resourceType=newsarticle&sort=date
+ https://www.hrw.org/news/2020/05/29/pandemic-adds-new-threat-rohingyas-myanmar
+https://www.hrw.org/news?country[]=9543
+https://www.amnesty.org/en/search/?country=38380&resourceType=newsarticle&sort=date
 https://thediplomat.com/2020/09/racism-is-fueling-myanmars-deadly-second-wave-of-covid-19/
 
 
@@ -421,10 +510,13 @@ https://thediplomat.com/2020/09/racism-is-fueling-myanmars-deadly-second-wave-of
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -432,9 +524,9 @@ Time period: *Jul-Sep*: 0
  While there are reports of violations of human rights in Myanmar, and especially so in the recent years, no evidence has been found of any violations of non-derogable rights in the Covid-19 emergency measures. This is therefore coded 0. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/29/pandemic-adds-new-threat-rohingyas-myanmar
-https://www.hrw.org/news?country[]=9543
-https://www.amnesty.org/en/search/?country=38380&resourceType=newsarticle&sort=date
+ https://www.hrw.org/news/2020/05/29/pandemic-adds-new-threat-rohingyas-myanmar
+https://www.hrw.org/news?country[]=9543
+https://www.amnesty.org/en/search/?country=38380&resourceType=newsarticle&sort=date
 https://www.refugeesinternational.org/reports/2020/5/27/myanmar-call-to-end-human-rights-abuses-and-accountability-for-covid-19
 
 
@@ -459,17 +551,25 @@ https://www.refugeesinternational.org/reports/2020/5/27/myanmar-call-to-end-huma
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The emergency measures do not place de jure limitations on media, but Myanmar has previous de jure limitations on media that has been used to restrict reporting on Covid-19. Article 505 of the Penal Code states that spreading information that "cause fear or alarm to the public" is illegal and can result in prison up to two years. This, however, is not a part of the emergency response and was in place before the Covid-19 crisis, and no sources state that Myanmar has introduced any new de jure limitations since then, so this is coded as 0. 
+ The emergency measures do not place de jure limitations on media, but Myanmar has previous de jure limitations on media that has been used to restrict reporting on Covid-19. Article 505 of the Penal Code states that spreading information that "cause fear or alarm to the public" is illegal and can result in prison up to two years. This, however, is not a part of the emergency response and was in place before the Covid-19 crisis, and no sources state that Myanmar has introduced any new de jure limitations since then, so this is coded as 0 for all three periods. 
 
 *Sources*:
- https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-covid-19-death
-https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
-https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
-https://rsf.org/en/thematique/internet?countries%5B60%5D=60
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Myanmar
+ https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-covid-19-death
+https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
+https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
+https://rsf.org/en/thematique/internet?countries%5B60%5D=60
+https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Myanmar+BE11
 
 
 
@@ -481,24 +581,31 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de-jure limits on media freedom in the emergency response. 
 
 *Sources*:
- https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-covid-19-death
-https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
-https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
-https://rsf.org/en/thematique/internet?countries%5B60%5D=60
+ https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-covid-19-death
+https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
+https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
+https://rsf.org/en/thematique/internet?countries%5B60%5D=60
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Myanmar
 
 
@@ -511,24 +618,31 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de-jure limits on media freedom in the emergency response. 
 
 *Sources*:
- https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-covid-19-death
-https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
-https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
-https://rsf.org/en/thematique/internet?countries%5B60%5D=60
+ https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-covid-19-death
+https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
+https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
+https://rsf.org/en/thematique/internet?countries%5B60%5D=60
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Myanmar
 
 
@@ -551,23 +665,26 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- A journalist has been arrested and jailed for two years for reporting on a person having died of Covid-19, under Article 505 of the Penal Code  stating that spreading information that "cause fear or alarm to the public". This legislation evidently puts de facto limitations on media reporting about Covid-19. Furthermore, Myanmar has also closed down over 200 websites in response to the crisis, many of which were media outlets, claiming that these sites spread "fake news". This is therefore coded as 1 for both periods. 
+ A journalist was arrested and jailed for two years in May 2020 for reporting on a person having died of Covid-19, under Article 505 of the Penal Code  stating that spreading information that "cause fear or alarm to the public". This legislation evidently puts de facto limitations on media reporting about Covid-19. Myanmar has also closed down over 200 websites in response to the crisis, many of which were media outlets, claiming that these sites spread "fake news”, a ban that has largely continued throughout the year. Furthermore, journalists were not exempt from the stay at home-orders in place during the fall of 2020, and international journalists were not exempt from the ban on foreigners entering the country, effectively limiting a lot of coverage on both covid-19 and non covid-19-related news. This is therefore coded as 1 for all three periods. 
 
 *Sources*:
- https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
-https://rsf.org/en/news/mid-coronavirus-crisis-myanmar-blocks-221-sites-fake-news
-https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-covid-19-death
-https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
-https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
+ https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
+https://rsf.org/en/news/mid-coronavirus-crisis-myanmar-blocks-221-sites-fake-news
+https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-covid-19-death
+https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
 https://www.article19.org/resources/myanmar-article-19-briefing-highlights-freedom-of-expression-concerns-amid-the-covid-19-pandemic-response/
+https://www.ifj.org/media-centre/news/detail/category/press-releases/article/myanmar-journalists-face-restrictions-amid-the-pandemic.html
 
 
 
@@ -579,7 +696,7 @@ https://www.article19.org/resources/myanmar-article-19-briefing-highlights-freed
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -589,23 +706,26 @@ https://www.article19.org/resources/myanmar-article-19-briefing-highlights-freed
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Myanmar has used Article 505 of the Penal code, which states that spreading information that "cause fear or alarm to the public" is punishable with up to two years in prison, to arrest and jail a journalist reporting on Covid-19, as well as having closed down over 200 websites by claiming that they have spread "fake news". As the regulation in use allows for any arbitrary interpretation of "fear or alarm to the public" and media outlets online are being closed down, this is deemed a de facto limitation on reporting on the governments response to Covid-19, as doing so risks both being arrested under the penal code and/or being closed down due to spreading fake news. This is therefore coded 1 for both periods. 
+ Myanmar has used Article 505 of the Penal code, which states that spreading information that "cause fear or alarm to the public" is punishable with up to two years in prison, to arrest and jail a journalist reporting on Covid-19, as well as having closed down over 200 websites by claiming that they have spread "fake news". As the regulation in use allows for any arbitrary interpretation of "fear or alarm to the public" and media outlets online are being closed down, this is deemed a de facto limitation on reporting on the governments response to Covid-19, as doing so risks both being arrested under the penal code and/or being closed down due to spreading fake news. Furthermore, journalists were not exempt from the stay at home-orders in place during the fall of 2020, and international journalists were not exempt from the ban on foreigners entering the country, effectively limiting a lot of coverage on both covid-19 and non covid-19-related news. This is therefore coded 1 for all three periods. 
 
 *Sources*:
- https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
-https://rsf.org/en/news/mid-coronavirus-crisis-myanmar-blocks-221-sites-fake-news
-https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-covid-19-death
-https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
-https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
+ https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
+https://rsf.org/en/news/mid-coronavirus-crisis-myanmar-blocks-221-sites-fake-news
+https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-covid-19-death
+https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
 https://www.article19.org/resources/myanmar-article-19-briefing-highlights-freedom-of-expression-concerns-amid-the-covid-19-pandemic-response/
+https://www.ifj.org/media-centre/news/detail/category/press-releases/article/myanmar-journalists-face-restrictions-amid-the-pandemic.html
 
 
 
@@ -627,23 +747,25 @@ https://www.article19.org/resources/myanmar-article-19-briefing-highlights-freed
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Myanmar has used Article 505 of the Penal code, which states that spreading information that "cause fear or alarm to the public" is punishable with up to two years in prison, to arrest and jail a journalist reporting on Covid-19, as well as having closed down over 200 websites by claiming that they have spread "fake news". As the regulation in use allows for any arbitrary interpretation of "fear or alarm to the public", and media outlets online are being closed down, this is deemed a de facto limitation on reporting on non-Covid-19 related news as well. This is therefore coded 1 for both periods. 
+ Myanmar has used Article 505 of the Penal code, which states that spreading information that "cause fear or alarm to the public" is punishable with up to two years in prison, to arrest and jail a journalist reporting on Covid-19, as well as having closed down over 200 websites by claiming that they have spread "fake news". As the regulation in use allows for any arbitrary interpretation of "fear or alarm to the public", and media outlets online are being closed down, this is deemed a de facto limitation on reporting on non-Covid-19 related news as well. Furthermore, journalists were not exempt from the stay at home-orders in place during the fall of 2020, and international journalists were not exempt from the ban on foreigners entering the country, effectively limiting a lot of coverage on both covid-19 and non covid-19-related news.  This is therefore coded 1 for all three periods. 
 
 *Sources*:
- https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
-https://rsf.org/en/news/mid-coronavirus-crisis-myanmar-blocks-221-sites-fake-news
-https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-covid-19-death
-https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
-https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
-https://www.article19.org/resources/myanmar-article-19-briefing-highlights-freedom-of-expression-concerns-amid-the-covid-19-pandemic-response/
+ https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
+https://rsf.org/en/news/mid-coronavirus-crisis-myanmar-blocks-221-sites-fake-news
+https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-covid-19-death
+https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
+https://www.article19.org/resources/myanmar-article-19-briefing-highlights-freedom-of-expression-concerns-amid-the-covid-19-pandemic-response
 
 
 
@@ -662,25 +784,29 @@ https://www.article19.org/resources/myanmar-article-19-briefing-highlights-freed
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
- There is widespread reports that Myanmar is covering up the actual number of cases and deaths of Covid-19, and that media is not given access to any information on this beyond the government approved information. This lack of access is ongoing in both the previous and current period, according to a report by Article19. This is therefore coded as 2 for both periods. 
+ There is widespread reports that Myanmar is covering up the actual number of cases and deaths of Covid-19, and that media is not given access to any information on this beyond the government approved information. This lack of access is ongoing in both the Mar-Jun and Jul-Sep period according to a report by Article19, and no evidence has been found indicating that the situation has improved. In addition, stay at home-orders in place during the fall in various townships in Myanmar have not exempted journalists, which effectively limits their capacity to investigate and access information about covid-19.  This is therefore coded as 2 for all three periods. 
 
 *Sources*:
- https://www.ohchr.org/en/NewsEvents/Pages/DisplayNews.aspx?NewsID=25783&LangID=E
-https://en.ejo.ch/ethics-quality/myanmar-coronavirus-and-the-media
-https://www.hrw.org/news/2020/03/17/myanmar-denials-define-covid-19-response
+ https://www.ohchr.org/en/NewsEvents/Pages/DisplayNews.aspx?NewsID=25783&LangID=E
+https://en.ejo.ch/ethics-quality/myanmar-coronavirus-and-the-media
+https://www.hrw.org/news/2020/03/17/myanmar-denials-define-covid-19-response
 https://www.article19.org/wp-content/uploads/2020/08/2020.08.31-COVID-19-briefing-paper-Myanmar.pdf
+https://www.ifj.org/media-centre/news/detail/category/press-releases/article/myanmar-journalists-face-restrictions-amid-the-pandemic.html
 
 
 
@@ -702,10 +828,13 @@ https://www.article19.org/wp-content/uploads/2020/08/2020.08.31-COVID-19-briefin
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -713,11 +842,13 @@ Time period: *Jul-Sep*: 0
  While there are reports on physical harassment of journalists (arrests and detention), no reports on verbal harassment by authorities have been found. This is therefore coded as 0. 
 
 *Sources*:
- https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
-https://rsf.org/en/news/mid-coronavirus-crisis-myanmar-blocks-221-sites-fake-news
-https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-covid-19-death
-https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
+ https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
+https://rsf.org/en/news/mid-coronavirus-crisis-myanmar-blocks-221-sites-fake-news
+https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-covid-19-death
+https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
 https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
+https://cpj.org/asia/myanmar/
+https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Myanmar
 
 
 
@@ -739,22 +870,23 @@ https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- A journalist has been arrested and jailed for reporting on a Covid-19 death. This is however the only report found on physical harassment of journalists, and it does seem to be no recurring or systematic practice in relation to Covid-19 reporting. There is therefore not reason to believe that such harassment should have continued into the second period, and it is coded 1 only for the first period. 
+ A journalist has been arrested and jailed for reporting on a Covid-19 death. This is however the only report found on physical harassment of journalists, and it does seem to be no recurring or systematic practice in relation to Covid-19 reporting. There is therefore not reason to believe that such harassment should have continued into the Jul-Sep and Oct-Dec periods, and it is coded 1 only for the first period. 
 
 *Sources*:
- https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
-https://rsf.org/en/news/mid-coronavirus-crisis-myanmar-blocks-221-sites-fake-news
-https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-covid-19-death
-https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
-https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
+ https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedomhttps://rsf.org/en/news/mid-coronavirus-crisis-myanmar-blocks-221-sites-fake-newshttps://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-covid-19-deathhttps://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
+https://cpj.org/asia/myanmar/
+https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Myanmar
 
 
 
@@ -778,10 +910,13 @@ https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -789,9 +924,8 @@ Time period: *Jul-Sep*: 0
  There are widespread reports that Myanmar has misreported the number of Covid-19 cases and deaths, but no sources have been found that state that the government has produced disinformation on Covid-19 itself. Myanmar has a webpage with numerous documents on Covid-19 and information for the public, but these are all in Burmese and Google Translate isn't able to translate this well enough for those documents to be examined. This is coded as 0, as no direct evidence of disinformation has been found, but note that the documents produced by the government has not been assessed. 
 
 *Sources*:
- https://mohs.gov.mm/Main/content/publication/key-activities-taken-by-mohs
-https://www.hrw.org/news/2020/03/17/myanmar-denials-define-covid-19-response
-https://mohs.gov.mm/Main/content/publication/2019-ncov
+ https://mohs.gov.mm/Main/content/publication/key-activities-taken-by-mohshttps://www.hrw.org/news/2020/03/17/myanmar-denials-define-covid-19-responsehttps://mohs.gov.mm/Main/content/publication/2019-ncov
+https://www.who.int/news-room/feature-stories/detail/yangon-uses-media-mix-to-boost-solidarity-against-covid-19
 
 
 
@@ -815,23 +949,22 @@ https://mohs.gov.mm/Main/content/publication/2019-ncov
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- There are reports of some instances of physical harassment against Rohingyans by both police and military who guard checkpoints in place due to emergency measures. However, no sources found have stated any more severe cases of violence, or that this physical harassment is widespread. While there are no reports of this is the second period, there is no indication that the situation has improved. This is therefore coded as 1 for both periods. 
+ There are reports of some instances of physical harassment against Rohingyans by both police and military who guard checkpoints in place due to emergency measures. However, no sources found have stated any more severe cases of violence, or that this physical harassment is widespread. While there are no reports of this is the Jul-Sep and Oct-Dec periods, no indication has been found that the situation has improved, or that the authorities have changed their strategies and behavior. This is therefore coded as 1 for all three periods.
 Note here that the substantial violence by the military in the Rakhine state is not part of the emergency measures, and no sources have mentioned that the state or military have excused or legitimized that violence with any reference to Covid-19. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/29/pandemic-adds-new-threat-rohingyas-myanmar
-https://www.hrw.org/news?country[]=9543
-https://www.amnesty.org/en/search/?country=38380&resourceType=newsarticle&sort=date
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25838&LangID=E
-https://thediplomat.com/2020/09/racism-is-fueling-myanmars-deadly-second-wave-of-covid-19/
+ https://www.hrw.org/news/2020/05/29/pandemic-adds-new-threat-rohingyas-myanmarhttps://www.hrw.org/news?country[]=9543https://www.amnesty.org/en/search/?country=38380&resourceType=newsarticle&sort=datehttps://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25838&LangID=Ehttps://thediplomat.com/2020/09/racism-is-fueling-myanmars-deadly-second-wave-of-covid-19/
 
 
 
@@ -843,7 +976,7 @@ https://thediplomat.com/2020/09/racism-is-fueling-myanmars-deadly-second-wave-of
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -853,42 +986,19 @@ https://thediplomat.com/2020/09/racism-is-fueling-myanmars-deadly-second-wave-of
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The military is involved in securing check points for traveling in Myanmar, and this is therefore coded as 1. No sources have been found stating that the military has additional tasks in the emergency measures, but the military presence is very large in Myanmar so it is possible that they have been involved in additional measures. No reports have been found on the military activity in these regards in the second period, but as there’s no evidence confirming that their involvement has ceased, this is coded as 1 for both periods. 
+ The military is involved in securing check points for traveling in Myanmar, and this is therefore coded as 1. No sources have been found stating that the military has additional tasks in the emergency measures, but the military presence is very large in Myanmar so it is possible that they have been involved in additional measures. No reports have been found on the military activity in these regards in the Jul-Sep and Oct-Dec periods, but as no evidence confirming that their involvement has ceased has been found, this is assumed to be on going and coded 1 for all three periods. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/29/pandemic-adds-new-threat-rohingyas-myanmar
+ https://www.hrw.org/news/2020/05/29/pandemic-adds-new-threat-rohingyas-myanmar
 https://www.crisisgroup.org/asia/south-east-asia/myanmar/b161-conflict-health-cooperation-and-covid-19-myanmar
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

@@ -1,9 +1,6 @@
 # Burkina Faso 
 
 
-Time 2020-09-15 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-15
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,23 +25,52 @@ Time 2020-09-15
  7. Other.
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 5
+
+ 
 
 *Comments*:
- The Burkinabe Council declared a state of health alert (2) in accordance with article 66 of the Public Health Code (1) (1994).
+ The Burkinabe Council declared a state of health alert (2) in accordance with article 66 of the Public Health Code (1) (1994) through a press release on March 26, 2020, with which it also decided to issue a decree ((3) - Decret no 2020- 0215)) establishing:
+a) a two-week quarantine (starting on March 27, 2020) in the cities of Ouagadougou, Bobo-Dioulasso, Boromo, Houndé, Dédougou, Banfora, Manga and Zorgho, and  to be extended to any city where a positive COVID-19 case will occur.
+b) a two (02) week extension of the closure of all school facilities and activities throughout the national territory. The recovery date is set for April 14, 2020 but could see a rearrangement depending on the evolution of the epidemic.
 
-The Council also decided to issue a decree on quarantine for a period of 2 weeks, to count from Friday March 27, 2020 at 7 am, of all the cities or localities having registered a positive case with the covid-19. 
+However, there had been several concerns raised over the legitimation and legal basis of the government's state of health alert (see 4, 5):
+a) the state of health alert had not been issued through a decree, nor did it have a limit date (only the separate measures do) (5). 
+b) the decree establishing the curfew has no legal basis, since it only vaguely refers to the Constitution, nor the curfew was instituted with reference to  the state of health alert. 
+c) critics point to the non-existent source in the public health code of the measures restricting rights and freedoms taken by the authorities within the framework of the state of health alert: the public health code article cited (66) only allows for measures of a sanitary nature (hygiene and prophylaxis), and not for a curfew etc.
 
-''The declaration of the state of health alert was made in accordance with article 66 of the law N ° 23/94 / ADP of May 19, 1994 in deliberative form in council of ministers on March 26 2020 and made known to the public by means of a ''press release'' from the Minister responsible for communication. However, the law requires that such a declaration be made by "decree", and not by a "press release", which has not happened.'' 
+Yet, although the government was lacking a clear legal basis for the above measures, and it had not asked any authorization from the National Assembly in the first month of the covid19 package of measures, during the Council of Ministers on April 16 2020, the Council deliberated on a bill for an enabling law to be transmitted to the National Assembly (see (8, 9 )). Through that bill, the government asked the National Assembly to legislate by ordinance, based on article 107 of the Constitution which enshrines this provision for the benefit of the Government: “The Government may, for the execution of its programs, ask Parliament for authorization to take by ordinance, for a limited period, measures which are normally the domain of the law. The ordinances are taken in the Council of Ministers after consulting the Constitutional Council. They come into force as soon as they are published, but become null and void if the ratification bill is not submitted to the National Assembly before the date set by the enabling law. At the end of the period mentioned in the first paragraph of this article, the ordinances can only be modified by law in those of their provisions which are in the legislative domain."
+
+The bill on the enabling law providing the government with the legal basis to take urgent covid19 actions within three months was voted on May 5 by the National Assembly (see 10) (Law no 015-2020/AN du 05 mai 2020). There was no evidence found on whether the law was extended after the 3 months limit-period. Measures taken after that are more general in nature, like the mandatory wearing of face masks. 
 
 *Sources*:
  https://sherloc.unodc.org/res/cld/document/bfa/loi-n-23-94-adp-portant-code-de-la-sante-publique_html/Burkina_Faso_Loi_N_2394ADP_portant_Code_de_la_Sante_Publique.pdf
-(1)
-https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
-(2)
-https://www.voaafrique.com/a/batterie-de-mesures-pour-barrer-la-route-au-covid19-au-burkina/5348510.html
-https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-etat-d-alerte-sanitaire-devrait-etre-limitee-dans-le-temps-pr-abdoulaye-soma.html
+(1)https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
+(2)
+https://www.sig.gov.bf/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=305&cHash=012d1512353b08bcf47df2e5d875dadb
+(3)
 
+https://hakilitimes.com/gestion-juridique-du-covid-19-au-burkina-lanalyse-assez-critique-dun-think-tank/
+(4)
+https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-etat-d-alerte-sanitaire-devrait-etre-limitee-dans-le-temps-pr-abdoulaye-soma.html
+(5)
+https://www.gouvernement.gov.bf/fileadmin/user_upload/storage/fichiers/De__cret_portant_restriction_temporaire_des_liberte__s.pdf
+(7)
+https://hakilitimes.com/coronavirus-le-gouvernement-burkinabe-veut-legiferer-par-ordonnance/
+(8)
+https://www.burkina24.com/2020/04/21/tribune-burkina-faso-quel-usage-de-la-loi-dhabilitation-sollicitee-par-le-gouvernement-pour-la-lutte-contre-le-covid-19/
+(9)
+https://lepays.bf/crise-sanitaire-au-burkina-2/
+(10)
+https://www.leconomistedufaso.bf/2020/06/03/lutte-contre-la-covid-19-le-gouvernement-corrige-des-insuffisances-juridiques/
+
+https://www.constituteproject.org/constitution/Burkina_Faso_2015.pdf?lang=en
 
 
 
@@ -63,15 +89,23 @@ https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-
 *Scale*: Character string.
 
  
-*Answer*: Public Health Code (1996), article 66 (1) 
+*Time period: Q2*: Public Health Code (1996), article 66 (1)
+
+ 
+*Time period: Q3*: Constitution 1991, article 107, special powers to rule by Ordinance
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- State of health alert was announced by a press release. (2) 
+*No comment provided* 
 
 *Sources*:
  https://sherloc.unodc.org/res/cld/document/bfa/loi-n-23-94-adp-portant-code-de-la-sante-publique_html/Burkina_Faso_Loi_N_2394ADP_portant_Code_de_la_Sante_Publique.pdf
-(1)
-https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
+(1)
+https://www.constituteproject.org/constitution/Burkina_Faso_2015.pdf?lang=en
 
 
 
@@ -90,16 +124,27 @@ https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Bac
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-27 
+*Time period: Q2*: 2020-03-27
+
+ 
+*Time period: Q3*: 2020-05-05
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The Burkinabe Council declared the state of health alert on March 26. 2020, in effect from March 27. 
+ The Burkinabe Council declared the state of health alert on March 26 2020, in effect from March 27. 
+In May 5, the National Assembly passed an enabling law allowing the government to rule by Ordinance for a period of 3 months, in order to deal with the pandemic. 
 
 *Sources*:
- https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
-https://www.voaafrique.com/a/batterie-de-mesures-pour-barrer-la-route-au-covid19-au-burkina/5348510.html
-https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-etat-d-alerte-sanitaire-devrait-etre-limitee-dans-le-temps-pr-abdoulaye-soma.html
+ https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
+https://hakilitimes.com/coronavirus-le-gouvernement-burkinabe-veut-legiferer-par-ordonnance/
 
+https://www.burkina24.com/2020/04/21/tribune-burkina-faso-quel-usage-de-la-loi-dhabilitation-sollicitee-par-le-gouvernement-pour-la-lutte-contre-le-covid-19/
+
+https://lepays.bf/crise-sanitaire-au-burkina-2/
 
 
 
@@ -118,19 +163,31 @@ https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-
 *Scale*: Date format.
 
  
+*Time period: Q2*: 2020-05-05
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 2020-08-05
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The state of health alert is probably still in place. There was no limit date in its issuance, nor has the government mentioned or issued any information on it being lifted.
-Separate measures like the curfew and quarantine have been (partly) lifted since June 3. 
+ The state of health alert had no limit date in its issuance, however, In May 5, the Burkinabe National Assembly passed an enabling law allowing the government to rule by Ordinance for a period of 3 months, in order to deal with the pandemic. No evidence was found on whether the government extended this enabling law, and since the curfew ended on June 3, it is assumed that the law did not get prolonged.
+
+Separate measures like the curfew and quarantine have been (partly) lifted since June 3. The resumption of domestic and international flights follows the expiration of a nationwide 2100-0400 health curfew June 3. The wearing of facemasks in public remains mandatory nationwide. 
 
 *Sources*:
  https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-etat-d-alerte-sanitaire-devrait-etre-limitee-dans-le-temps-pr-abdoulaye-soma.html
 https://www.garda.com/crisis24/news-alerts/347961/burkina-faso-authorities-lift-nationwide-curfew-june-3-update-8
-https://bf.usembassy.gov/health-alert-u-s-embassy-ouagadougou-burkina-faso-24/
 https://bf.usembassy.gov/u-s-citizen-services/covid-19-information/
+https://www.worldaware.com/intelligence-alert-authorities-maintain-covid-19-restrictions-across-burkina-faso
+https://hakilitimes.com/coronavirus-le-gouvernement-burkinabe-veut-legiferer-par-ordonnance/
 
+https://www.burkina24.com/2020/04/21/tribune-burkina-faso-quel-usage-de-la-loi-dhabilitation-sollicitee-par-le-gouvernement-pour-la-lutte-contre-le-covid-19/
+
+https://lepays.bf/crise-sanitaire-au-burkina-2/
 
 
 
@@ -152,18 +209,32 @@ https://bf.usembassy.gov/u-s-citizen-services/covid-19-information/
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- 'Because the declaration of the state of health alert was made by "an oral communication", (1) we could not find material elements of temporal limitation of this state. But according to article 66, the measures taken under this state must be limited in time. Indeed, according to article 66 (3), "compulsory hygiene and prophylaxis measures are applied during a determined period and renewable if necessary"....Materially, the declaration of health alert as announced is unlimited in its form. The declaration of the state of health alert should be limited in time, which would ensure a comfortable reading between the declaration and the measures taken in application of this declaration, which, meanwhile, are limited in duration with the possibility of extension.'' (2) 
+ The state of health alert did not have a limit date in its issuance. In May 5, the National Assembly passed an enabling law allowing the government to rule by Ordinance for a period of 3 months, in order to deal with the pandemic. 
 
 *Sources*:
  https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
-(1)
+(1)
 https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-etat-d-alerte-sanitaire-devrait-etre-limitee-dans-le-temps-pr-abdoulaye-soma.html
-(2)
-https://sherloc.unodc.org/res/cld/document/bfa/loi-n-23-94-adp-portant-code-de-la-sante-publique_html/Burkina_Faso_Loi_N_2394ADP_portant_Code_de_la_Sante_Publique.pdf
+(2)https://sherloc.unodc.org/res/cld/document/bfa/loi-n-23-94-adp-portant-code-de-la-sante-publique_html/Burkina_Faso_Loi_N_2394ADP_portant_Code_de_la_Sante_Publique.pdf
 (3)
+https://hakilitimes.com/coronavirus-le-gouvernement-burkinabe-veut-legiferer-par-ordonnance/
+
+https://www.burkina24.com/2020/04/21/tribune-burkina-faso-quel-usage-de-la-loi-dhabilitation-sollicitee-par-le-gouvernement-pour-la-lutte-contre-le-covid-19/
+
+https://lepays.bf/crise-sanitaire-au-burkina-2/
+
+
 
 
 
@@ -175,25 +246,31 @@ https://sherloc.unodc.org/res/cld/document/bfa/loi-n-23-94-adp-portant-code-de-l
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 2020-08-05
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The declaration of the state of health alert was made by a press release (1), and there was no limit date. 
+ The declaration of the state of health alert did not have a limit date (1). In May 5, the National Assembly passed an enabling law allowing the government to rule by Ordinance for a period of 3 months, in order to deal with the pandemic. 
 
 *Sources*:
  https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
-(1)
+(1)
 https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-etat-d-alerte-sanitaire-devrait-etre-limitee-dans-le-temps-pr-abdoulaye-soma.html
-(2)
-https://sherloc.unodc.org/res/cld/document/bfa/loi-n-23-94-adp-portant-code-de-la-sante-publique_html/Burkina_Faso_Loi_N_2394ADP_portant_Code_de_la_Sante_Publique.pdf
+(2)https://sherloc.unodc.org/res/cld/document/bfa/loi-n-23-94-adp-portant-code-de-la-sante-publique_html/Burkina_Faso_Loi_N_2394ADP_portant_Code_de_la_Sante_Publique.pdf
 (3)
 
 
@@ -206,7 +283,7 @@ https://sherloc.unodc.org/res/cld/document/bfa/loi-n-23-94-adp-portant-code-de-l
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -216,16 +293,25 @@ https://sherloc.unodc.org/res/cld/document/bfa/loi-n-23-94-adp-portant-code-de-l
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The law (Public Health Code 1994, art 66) (2) requires that a decree be issued. (1) 
+ The law (Public Health Code 1994, art 66) (2) requires that a decree be issued. (1)
+Constitution article 107 on special powers to the executive to rule by Decree requires parliamentary approval. 
 
 *Sources*:
  https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-etat-d-alerte-sanitaire-devrait-etre-limitee-dans-le-temps-pr-abdoulaye-soma.html
-(1)
-https://sherloc.unodc.org/res/cld/document/bfa/loi-n-23-94-adp-portant-code-de-la-sante-publique_html/Burkina_Faso_Loi_N_2394ADP_portant_Code_de_la_Sante_Publique.pdf
+(1)https://sherloc.unodc.org/res/cld/document/bfa/loi-n-23-94-adp-portant-code-de-la-sante-publique_html/Burkina_Faso_Loi_N_2394ADP_portant_Code_de_la_Sante_Publique.pdf
 (2)
+https://www.constituteproject.org/constitution/Burkina_Faso_2015.pdf?lang=en
 
 
 
@@ -247,14 +333,27 @@ https://sherloc.unodc.org/res/cld/document/bfa/loi-n-23-94-adp-portant-code-de-l
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Not required. 
+ Parliamentary approval was not required for the Public Health Code article on the state of health alert, but the enabling law was approved by Parliament on May 5. 
 
 *Sources*:
- https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-etat-d-alerte-sanitaire-devrait-etre-limitee-dans-le-temps-pr-abdoulaye-soma.html
+ https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-etat-d-alerte-sanitaire-devrait-etre-limitee-dans-le-temps-pr-abdoulaye-soma.html
 https://sherloc.unodc.org/res/cld/document/bfa/loi-n-23-94-adp-portant-code-de-la-sante-publique_html/Burkina_Faso_Loi_N_2394ADP_portant_Code_de_la_Sante_Publique.pdf
+https://hakilitimes.com/coronavirus-le-gouvernement-burkinabe-veut-legiferer-par-ordonnance/
+
+https://www.burkina24.com/2020/04/21/tribune-burkina-faso-quel-usage-de-la-loi-dhabilitation-sollicitee-par-le-gouvernement-pour-la-lutte-contre-le-covid-19/
+
+https://lepays.bf/crise-sanitaire-au-burkina-2/
 
 
 
@@ -274,25 +373,42 @@ https://sherloc.unodc.org/res/cld/document/bfa/loi-n-23-94-adp-portant-code-de-l
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- 'On Monday 16 March, Burkina Faso suspended all parliamentary plenary sessions until April 1. General Committees of under 50 people will continue to meet. All guided visits in parliament are suspended.''
-''Burkina Faso, Mali and Niger have all declared a state of health emergency. This means that governments are allowed to rule by decree or adopt administrative measures with the objective of reducing the spread of COVID-19. During a state of emergency or health emergency governments can adopt measures that temporarily limit individual freedoms, such as freedom of movement (DW 02/04/2020).
-
-InterPares: Oversight: A fact-finding mission on the management of covid19 was established by the Government.
-Plenary: Proxy-voting 
+ On Monday 16 March, Burkina Faso suspended all parliamentary plenary sessions until April 1. General Committees of under 50 people will continue to meet. All guided visits in parliament are suspended.'' 
+
+''Burkina Faso, Mali and Niger have all declared a state of health emergency. This means that governments are allowed to rule by decree or adopt administrative measures with the objective of reducing the spread of COVID-19. During a state of emergency or health emergency governments can adopt measures that temporarily limit individual freedoms, such as freedom of movement (DW 02/04/2020). 
+
+Although the government had not asked any authorization from the National Assembly in the first month of the covid19 response, during the Council of Ministers on April 16 2020, the Council deliberated on a bill on enabling law to be transmitted to the National Assembly (see (4, 5, 6)). Through that bill, the government asked the National Assembly to legislate by ordinance, based on article 107 of the Constitution which enshrines this provision for the benefit of the Government: “The Government may, for the execution of its programs, ask Parliament for authorization to take by ordinance, for a limited period, measures which are normally the domain of the law. The ordinances are taken in the Council of Ministers after consulting the Constitutional Council. They come into force as soon as they are published, but become null and void if the ratification bill is not submitted to the National Assembly before the date set by the enabling law. At the end of the period mentioned in the first paragraph of this article, the ordinances can only be modified by law in those of their provisions which are in the legislative domain."
+The bill on the enabling law providing the government with the legal basis to take urgent covid19 actions within three months was voted on May 5 by the National Assembly (see 6). There was no evidence found on whether the law was extended after the 3 months limit-period.  
+
+InterPares: Oversight: A fact-finding mission on the management of covid19 was established by the Government.Plenary: Proxy-voting. 
 
 *Sources*:
- http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdf
-https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-etat-d-alerte-sanitaire-devrait-etre-limitee-dans-le-temps-pr-abdoulaye-soma.html
+ http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdf
+https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-etat-d-alerte-sanitaire-devrait-etre-limitee-dans-le-temps-pr-abdoulaye-soma.html
 https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
+https://hakilitimes.com/coronavirus-le-gouvernement-burkinabe-veut-legiferer-par-ordonnance/
+(4)
+https://www.burkina24.com/2020/04/21/tribune-burkina-faso-quel-usage-de-la-loi-dhabilitation-sollicitee-par-le-gouvernement-pour-la-lutte-contre-le-covid-19/
+(5)
+https://lepays.bf/crise-sanitaire-au-burkina-2/
+(6)
 
 
 
@@ -304,15 +420,22 @@ https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabil
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -337,8 +460,15 @@ https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabil
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -368,10 +498,19 @@ https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabil
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The quarantine measures (the decree issued in addition to state of health alert) ''count from Friday March 27, 2020 at 05 hours and for a duration of two (02) weeks of the cities of Ouagadougou, Bobo-Dioulasso, Boromo, Houndé, Dédougou, Banfora, Manga and Zorghum.'' But schools etc were closed throughout the territory (''the extension of two (02) weeks of the closure of pre-school, primary, post-primary, secondary, vocational and university educational establishments throughout the national territory''). 
+ The state of health alert, announced on March 26, applied nationwide. Some areas were under qurantine (the cities of Ouagadougou, Bobo-Dioulasso, Boromo, Houndé, Dédougou, Banfora, Manga and Zorghum), which was lifted on June 3. 
+Domestic air flights resumed on July 24. The wearing of facemasks in public remains mandatory nationwide, and all security-related curfews in areas under a state of emergency will continue. 
 
 *Sources*:
  https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
@@ -398,10 +537,13 @@ https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabil
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -409,8 +551,8 @@ Time period: *Jul-Sep*: 0
  Nothing mentioned in the emergency measures announcement, nor in reports on human rights violations. 
 
 *Sources*:
- https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
-https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
+ https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
+https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
 https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
 
 
@@ -440,10 +582,13 @@ https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -451,8 +596,8 @@ Time period: *Jul-Sep*: 0
  Nothing mentioned in the emergency measures announcement, nor in reports on human rights 
 
 *Sources*:
- https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
-https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
+ https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
+https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
 https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
 
 
@@ -477,16 +622,24 @@ https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Nothing mentioned in the emergency measures announcement, nor in the main media freedom tracking pages 
 
 *Sources*:
- https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://cpj.org/covid-19/
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
+ https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://cpj.org/covid-19/
+https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
 https://ipi.media/covid19-media-freedom-monitoring/
 
 
@@ -499,15 +652,22 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -525,15 +685,22 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -561,23 +728,25 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Nothing mentioned in the emergency measures announcement, nor in the main media freedom tracking pages
+ Nothing mentioned in the emergency measures announcement, nor in the main media freedom tracking pages
 Also, on the the media environment: '' With dynamic, professional and diverse media, Burkina Faso is one of Africa's success stories''. (RSF) 
 
 *Sources*:
- https://rsf.org/en/burkina-faso
-https://rsf.org/en/rsf_search?key=burkina%20faso
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://cpj.org/covid-19/
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
+ https://rsf.org/en/burkina-fasohttps://rsf.org/en/rsf_search?key=burkina%20faso
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://cpj.org/covid-19/
+https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
 https://ipi.media/covid19-media-freedom-monitoring/
 
 
@@ -590,7 +759,7 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -600,23 +769,26 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Nothing mentioned in the emergency measures announcement, nor in the main media freedom tracking pages
+ Nothing mentioned in the emergency measures announcement, nor in the main media freedom tracking pages
 Also, on the the media environment: '' With dynamic, professional and diverse media, Burkina Faso is one of Africa's success stories''. (RSF) 
 
 *Sources*:
- https://rsf.org/en/burkina-faso
-https://rsf.org/en/rsf_search?key=burkina%20faso
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://cpj.org/covid-19/
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
+ https://rsf.org/en/burkina-faso
+https://rsf.org/en/rsf_search?key=burkina%20faso
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://cpj.org/covid-19/
+https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
 https://ipi.media/covid19-media-freedom-monitoring/
 
 
@@ -639,23 +811,26 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Nothing mentioned in the emergency measures announcement, nor in the main media freedom tracking pages
+ Nothing mentioned in the emergency measures announcement, nor in the main media freedom tracking pages
 Also, on the the media environment: '' With dynamic, professional and diverse media, Burkina Faso is one of Africa's success stories''. (RSF) 
 
 *Sources*:
- https://rsf.org/en/burkina-faso
-https://rsf.org/en/rsf_search?key=burkina%20faso
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://cpj.org/covid-19/
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
+ https://rsf.org/en/burkina-faso
+https://rsf.org/en/rsf_search?key=burkina%20faso
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://cpj.org/covid-19/
+https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
 https://ipi.media/covid19-media-freedom-monitoring/
 
 
@@ -675,27 +850,35 @@ https://ipi.media/covid19-media-freedom-monitoring/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Nothing mentioned in the emergency measures announcement, nor in the main media freedom tracking pages
+ Nothing mentioned in the emergency measures announcement, nor in the main media freedom tracking pages
 Also, on the the media environment: '' With dynamic, professional and diverse media, Burkina Faso is one of Africa's success stories''. (RSF) 
 
 *Sources*:
- https://rsf.org/en/burkina-faso
-https://rsf.org/en/rsf_search?key=burkina%20faso
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://cpj.org/covid-19/
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
+ https://rsf.org/en/burkina-faso
+
+https://rsf.org/en/rsf_search?key=burkina%20faso
+
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+
+https://cpj.org/covid-19/
+
+https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
+
 https://ipi.media/covid19-media-freedom-monitoring/
 
 
@@ -718,10 +901,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -729,11 +915,16 @@ Time period: *Jul-Sep*: 0
  No evidence of verbal harassment of journalists was found. 
 
 *Sources*:
- https://rsf.org/en/burkina-faso
-https://rsf.org/en/rsf_search?key=burkina%20faso
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://cpj.org/covid-19/
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
+ https://rsf.org/en/burkina-faso
+
+https://rsf.org/en/rsf_search?key=burkina%20faso
+
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+
+https://cpj.org/covid-19/
+
+https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
+
 https://ipi.media/covid19-media-freedom-monitoring/
 
 
@@ -756,10 +947,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -767,11 +961,14 @@ Time period: *Jul-Sep*: 0
  No evidence of physical harassment of journalists was found. 
 
 *Sources*:
- https://rsf.org/en/burkina-faso
-https://rsf.org/en/rsf_search?key=burkina%20faso
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://cpj.org/covid-19/
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
+ https://rsf.org/en/burkina-faso
+
+https://rsf.org/en/rsf_search?key=burkina%20faso
+
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+
+https://cpj.org/covid-19/https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
+
 https://ipi.media/covid19-media-freedom-monitoring/
 
 
@@ -796,27 +993,28 @@ https://ipi.media/covid19-media-freedom-monitoring/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Burkina Faso started a clinical trial on chloroquine against covid 19 on April 6, to last for one month. Yet, having a drug trial is not the same thing as claiming the drug is a treatment/cure/preventative which is why it is coded 0 here.
+ Burkina Faso started a clinical trial on chloroquine against covid 19 on April 6, to last for one month: 
 ''Like Morocco and Senegal, which advocate the use of chloroquine, the authorities have announced two clinical trials of this drug on people with COVID-19. However, Roger Nebié, the director general of the Centre National de Recherche Scientifique et Technologique (CNRST), told Jeune Afrique on the phone that the first results will have to wait.'' (2)
 
-''In Burkina Faso, Cameroon and South Africa, for example, governments quickly authorized hospital structures to treat patients with this molecule.'' (3)
-No evidence was found on whether the government changed its policy on the use of chloroquine after June.
- 
+No evidence was found on whether the government changed its policy on the use of chloroquine after June. 
 
 *Sources*:
- https://lefaso.net/spip.php?article95860
+ https://lefaso.net/spip.php?article95860
 https://www.theafricareport.com/25416/to-fight-coronavirus-burkina-faso-is-tempted-by-chloroquine/
-(2)
+(2)
 https://www.france24.com/fr/20200401-coronavirus-l-afrique-subsaharienne-se-rue-sur-la-chloroquine
-(3)
+(3)
 
 
 
@@ -841,10 +1039,13 @@ https://www.france24.com/fr/20200401-coronavirus-l-afrique-subsaharienne-se-rue-
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -853,9 +1054,9 @@ Time period: *Jul-Sep*: 0
 Measures like the curfew and quarantine have been (partly) lifted since June 3. 
 
 *Sources*:
- https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-https://www.garda.com/crisis24/news-alerts/346951/burkina-faso-security-forces-disperse-anti-lockdown-protest-in-bobo-dioulasso-may-30
-https://www.garda.com/crisis24/news-alerts/347961/burkina-faso-authorities-lift-nationwide-curfew-june-3-update-8
+ https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
+https://www.garda.com/crisis24/news-alerts/346951/burkina-faso-security-forces-disperse-anti-lockdown-protest-in-bobo-dioulasso-may-30
+https://www.garda.com/crisis24/news-alerts/347961/burkina-faso-authorities-lift-nationwide-curfew-june-3-update-8
 
 
 
@@ -868,7 +1069,7 @@ https://www.garda.com/crisis24/news-alerts/347961/burkina-faso-authorities-lift-
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -878,44 +1079,20 @@ https://www.garda.com/crisis24/news-alerts/347961/burkina-faso-authorities-lift-
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- In Burkina Faso there are reports of armed police officers and soldiers enforcing a curfew and threatening people seen in the streets.'' 
+ In Burkina Faso there are reports of armed police officers and soldiers enforcing a curfew and threatening people seen in the streets'', during the March-June 2020 period. 
 
 *Sources*:
- https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-https://www.garda.com/crisis24/news-alerts/346951/burkina-faso-security-forces-disperse-anti-lockdown-protest-in-bobo-dioulasso-may-30
+ https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
 
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
- https://reliefweb.int/report/burundi/atrocity-alert-no-200-burundi-burkina-faso-and-covid-19
-https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
+https://www.garda.com/crisis24/news-alerts/346951/burkina-faso-security-forces-disperse-anti-lockdown-protest-in-bobo-dioulasso-may-30

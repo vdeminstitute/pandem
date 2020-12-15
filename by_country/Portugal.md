@@ -1,9 +1,6 @@
 # Portugal 
 
 
-Time 2020-09-14 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-14
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,13 +25,24 @@ Time 2020-09-14
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The state of emegency was declared via the Presidential Decree nº 14-A/2020 from March 18. 
+ A state of emegency was declared via the Presidential Decree nº 14-A/2020, from March 18, and it ended on May 2. With the end of the state of emergency, Portugal transtitioned to a "situation of calamity" between May 3 and June 26, a "situation of calamity, contingency and alert" between June 27 and July 31, a "situation of contingency and alert" between August 1 and September 14, a "situation of contingency" from September 15 and October 14 and a "situation of calamity" since October 15. Due to the "situation of calamity", a new state of emergency was declared via the Presidential Decree nº 51-U/2020, from November 6. 
 
 *Sources*:
  https://dre.pt/web/guest/pesquisa/-/search/130399862/details/maximized
+https://dre.pt/web/guest/pesquisa/-/search/147933283/details/maximized
+https://dre.pt/legislacao-covid-19-upo
+https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
 
 
 
@@ -53,17 +61,28 @@ Time 2020-09-14
 *Scale*: Character string.
 
  
-*Answer*: Constitution articles 19, 134 and 138, Law n.º 44/86, Organic Law n.º 1/2011, Organic Law n.º 1/2012 
+*Time period: Q2*: Constitution articles 19, 134 and 138, Law n.º 44/86, Organic Law n.º 1/2011, Organic Law n.º 1/2012
+
+ 
+*Time period: Q3*: Law nº 27/2006 (Articles 6, 8, 19), Law nº 81/2009 (Article 17), and Decree-Law nº 10-A/2020 (Articles 12 and 13)
+
+ 
+*Time period: Q4*: Constitution articles 19, 134 and 138, Law n.º 44/86, Organic Law n.º 1/2011, Organic Law n.º 1/2012
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://dre.pt/web/guest/pesquisa/-/search/130399862/details/maximized
-https://dre.pt/legislacao-consolidada/-/lc/34520775/view
-https://dre.pt/web/guest/pesquisa/-/search/221696/details/normal?l=1
-https://dre.pt/web/guest/pesquisa/-/search/146220/details/normal?l=1
+ https://dre.pt/web/guest/pesquisa/-/search/130399862/details/maximized
+https://dre.pt/legislacao-consolidada/-/lc/34520775/view
+https://dre.pt/web/guest/pesquisa/-/search/221696/details/normal?l=1
+https://dre.pt/web/guest/pesquisa/-/search/146220/details/normal?l=1
 https://dre.pt/web/guest/pesquisa/-/search/552035/details/normal?l=1
+https://dre.pt/web/guest/pesquisa/-/search/132883344/details/maximized
+https://dre.pt/web/guest/pesquisa/-/search/147933283/details/maximized
+https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
 
 
 
@@ -82,13 +101,23 @@ https://dre.pt/web/guest/pesquisa/-/search/552035/details/normal?l=1
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-19 
+*Time period: Q2*: 2020-03-19
+
+ 
+*Time period: Q3*: 2020-06-27
+
+ 
+*Time period: Q4*: 2020-11-09
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  https://dre.pt/web/guest/pesquisa/-/search/130399862/details/maximized
+https://dre.pt/web/guest/pesquisa/-/search/147933283/details/maximized
+https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
 
 
 
@@ -107,14 +136,23 @@ https://dre.pt/web/guest/pesquisa/-/search/552035/details/normal?l=1
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-02 
+*Time period: Q2*: 2020-05-02
+
+ 
+*Time period: Q3*: 2020-07-31
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- With the end of the state of emergency, Portugal transtitioned to a state of calamity, then state of alert and contingency. 
+ The first state of emergency ended on May 2 and the second state of emergency is still in place. The "situation of calamity, contingency and alert" was in place between June 27 and July 31. 
 
 *Sources*:
- https://dre.pt/web/guest/pesquisa/-/search/131908497/details/normal?l=1
+ https://dre.pt/web/guest/pesquisa/-/search/131908497/details/normal?l=1
 https://dre.pt/legislacao-covid-19-por-areas-tematicas#1
+https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
 
 
 
@@ -136,14 +174,26 @@ https://dre.pt/legislacao-covid-19-por-areas-tematicas#1
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- A limit is required by law (Law n.º 44/86/Article 15). At first the state of emergency was declared for 15 days, ending on April 2, but it was extended until May 2. 
+ A limit is required by law (Law n.º 44/86/Article 15). The first state of emergency was declared for 15 days, ending on April 2, but it was extended until May 2. The second state of emergency was also declared for 15 days, ending on November 23, but it was extended until December 8 and then until December 23. The "situation of calamity, contingency and alert" was in place between June 27 and July 31. 
 
 *Sources*:
- https://dre.pt/web/guest/pesquisa-avancada/-/asearch/221696/details/normal?types=SERIEI&numero=44%2F86&tipo=%22Lei%22
+ https://dre.pt/web/guest/pesquisa-avancada/-/asearch/221696/details/normal?types=SERIEI&numero=44%2F86&tipo=%22Lei%22
 https://dre.pt/web/guest/pesquisa/-/search/130399862/details/maximized
+https://dre.pt/web/guest/pesquisa/-/search/147933283/details/maximized
+https://dre.pt/web/guest/pesquisa/-/search/149106929/details/maximized
+https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
+https://dre.pt/web/guest/pesquisa/-/search/150509281/details/maximized
 
 
 
@@ -155,20 +205,32 @@ https://dre.pt/web/guest/pesquisa/-/search/130399862/details/maximized
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-02 
+*Time period: Q2*: 2020-05-02
+
+ 
+*Time period: Q3*: 2020-07-31
+
+ 
+*Time period: Q4*: 2020-12-23
+
+ 
 
 *Comments*:
- Initially until April 2, but it was extended until May 2. 
+ The first state of emergency was declared for 15 days, ending on April 2, but it was extended until May 2. The second state of emergency was also declared for 15 days, ending on November 23, but it was extended until December 8 and the until December 23. The "situation of calamity, contingency and alert" was in place between June 27 and July 31. 
 
 *Sources*:
  https://dre.pt/web/guest/pesquisa/-/search/130399862/details/maximized
+https://dre.pt/web/guest/pesquisa/-/search/147933283/details/maximized
+https://dre.pt/web/guest/pesquisa/-/search/149106929/details/maximized
+https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
+https://dre.pt/web/guest/pesquisa/-/search/150509281/details/maximized
 
 
 
@@ -180,7 +242,7 @@ https://dre.pt/web/guest/pesquisa/-/search/130399862/details/maximized
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -190,14 +252,23 @@ https://dre.pt/web/guest/pesquisa/-/search/130399862/details/maximized
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Law n.º 44/86, Article 10, and Organic Law n.º 1/2012, Article 15 
+ Law n.º 44/86, Article 10, and Organic Law n.º 1/2012, Article 15 define that the president can only declare a state of emergency with legislative approval. The measures taken in between the state of emergencies do not require approval, given that the  Law No. 81/2009 allows the Government to take additional and exceptional measures that are essential to the control of the pandemic. 
 
 *Sources*:
- https://dre.pt/web/guest/pesquisa-avancada/-/asearch/221696/details/normal?types=SERIEI&numero=44%2F86&tipo=%22Lei%22
+ https://dre.pt/web/guest/pesquisa-avancada/-/asearch/221696/details/normal?types=SERIEI&numero=44%2F86&tipo=%22Lei%22
 https://dre.pt/web/guest/pesquisa/-/search/552035/details/normal?l=1
+https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
 
 
 
@@ -219,13 +290,22 @@ https://dre.pt/web/guest/pesquisa/-/search/552035/details/normal?l=1
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Resolution n.º 15-A/2020 
+ Resolution nº 15-A/2020 approved the first state of emergency and Resolution nº 83-A/2020 the second. The measures taken in between the state of emergencies do not require approval, given that the  Law No. 81/2009 allows the Government to take additional and exceptional measures that are essential to the control of the pandemic 
 
 *Sources*:
  https://dre.pt/web/guest/pesquisa/-/search/130399863/details/maximized
+https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
 
 
 
@@ -245,21 +325,30 @@ https://dre.pt/web/guest/pesquisa/-/search/552035/details/normal?l=1
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 1 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- Under the Constitution, a state of emergency allows the government to impose restrictions on certain rights and freedoms as they relate to the emergency without approval from the legislature. With the end of the state of emergency, Portugal transtitioned to a state of calamity. The state of calamity allows for the national health authority to issue guidelines and regulations with immediate executive force, but with limitations defined on Law n.º 27/2006. 
+ Under the Constitution, a state of emergency allows the government to impose restrictions on certain rights and freedoms as they relate to the emergency without approval from the legislature. And the Law nº 81/2009 allows the Government to take additional and exceptional measures that are essential to the control of the pandemic. 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Portugal_2005.pdf
 https://dre.pt/web/guest/pesquisa-avancada/-/asearch/221696/details/normal?types=SERIEI&numero=44%2F86&tipo=%22Lei%22
-https://dre.pt/web/guest/pesquisa/-/search/132883344/details/maximized
+
+https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
 
 
 
@@ -271,15 +360,22 @@ https://dre.pt/web/guest/pesquisa/-/search/132883344/details/maximized
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -304,8 +400,15 @@ https://dre.pt/web/guest/pesquisa/-/search/132883344/details/maximized
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -335,13 +438,21 @@ https://dre.pt/web/guest/pesquisa/-/search/132883344/details/maximized
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The state of emergency applied for the entire country, but as Portugal progressed to a state of calamity, contigency and alert, specific measures were imposed in Lisbon. 
+ The state of emergency applies for the entire country, but when Portugal progressed to a situation of calamity, contigency and alert, measures were implemented in accordance with the local situation. 
 
 *Sources*:
- https://dre.pt/legislacao-covid-19-por-areas-tematicas#10
+ https://dre.pt/legislacao-covid-19-por-areas-tematicas#10
 https://dre.pt/web/guest/pesquisa/-/search/136365123/details/maximized
 
 
@@ -366,10 +477,13 @@ https://dre.pt/web/guest/pesquisa/-/search/136365123/details/maximized
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -377,8 +491,9 @@ Time period: *Jul-Sep*: 0
  No evidence of discrimination was found. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/portugal/
+ https://www.amnesty.org/en/countries/europe-and-central-asia/portugal/
 https://www.hrw.org/europe/central-asia/portugal
+https://monitor.civicus.org/country/portugal/
 
 
 
@@ -407,10 +522,13 @@ https://www.hrw.org/europe/central-asia/portugal
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -418,8 +536,9 @@ Time period: *Jul-Sep*: 0
  No evidence of non-derogable rights violation was found. The decree (Art. 5) establishes that "The effects of this declaration do not affect, under any circumstances, the rights to life, personal integrity, personal identity, civil capacity and citizenship, non-retroactivity of criminal law, defense of defendants and freedom of conscience and religion." 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/portugal/
+ https://www.amnesty.org/en/countries/europe-and-central-asia/portugal/
 https://www.hrw.org/europe/central-asia/portugal
+https://monitor.civicus.org/country/portugal/
 
 
 
@@ -443,13 +562,22 @@ https://www.hrw.org/europe/central-asia/portugal
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The emergency measures do not de-jure limit media freedom. The decree establishes that "The effects of this declaration also do not affect, under any circumstances, the freedom of expression and information." 
+ The emergency measures do not de-jure limit media freedom. The Decree nº 14-A/2020, Article 5, establishes that "The effects of this declaration also do not affect, under any circumstances, the freedom of expression and information." 
 
 *Sources*:
  https://dre.pt/web/guest/pesquisa/-/search/130399862/details/maximized
+https://dre.pt/web/guest/pesquisa/-/search/147933283/details/maximized
 
 
 
@@ -461,15 +589,22 @@ https://www.hrw.org/europe/central-asia/portugal
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -487,15 +622,22 @@ https://www.hrw.org/europe/central-asia/portugal
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -523,10 +665,13 @@ https://www.hrw.org/europe/central-asia/portugal
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -535,8 +680,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/europe/portugal/
 
 
 
@@ -548,7 +693,7 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -558,10 +703,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -570,8 +718,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/europe/portugal/
 
 
 
@@ -593,10 +741,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -605,8 +756,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/europe/portugal/
 
 
 
@@ -625,14 +776,17 @@ https://ipi.media/covid19-media-freedom-monitoring/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -641,8 +795,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/europe/portugal/
 
 
 
@@ -664,10 +818,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -676,8 +833,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/europe/portugal/
 
 
 
@@ -699,10 +856,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -711,8 +871,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/europe/portugal/
 
 
 
@@ -736,10 +896,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -747,7 +910,8 @@ Time period: *Jul-Sep*: 0
  No evidence of disinformation being disseminated by government members and the information provided by the government on its official website is in acccordance with the WHO. 
 
 *Sources*:
- https://covid19.min-saude.pt/category/perguntas-frequentes/
+ https://covid19.min-saude.pt/
+https://covid19.min-saude.pt/category/perguntas-frequentes/
 
 
 
@@ -771,10 +935,13 @@ Time period: *Jul-Sep*: 0
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -782,7 +949,7 @@ Time period: *Jul-Sep*: 0
  No evidence of police violence was found. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/portugal/
+ https://www.amnesty.org/en/countries/europe-and-central-asia/portugal/
 https://www.hrw.org/europe/central-asia/portugal
 
 
@@ -795,7 +962,7 @@ https://www.hrw.org/europe/central-asia/portugal
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -805,43 +972,19 @@ https://www.hrw.org/europe/central-asia/portugal
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- The Law nº 44/86 Art. 9 forsees that the government can use the armed forces during a state of emergency, but the decree declaring the state of emergency does not summon them and I found no evidence that the military enforced confinement measures. 
+ The Law nº 44/86 Art. 9 forsees that the government can use the armed forces during a state of emergency. During the first state of emergency, I found no evidence that the military enforced confinement measures. The second state of emergency defines that "It is the responsibility of the Armed and Security Forces to support health authorities and services, namely in conducting epidemiological inquiries, in tracing contacts and in monitoring people under active surveillance", but they have not been tasked with enforcing any confinement measures. 
 
 *Sources*:
- https://dre.pt/web/guest/pesquisa/-/search/221696/details/normal?l=1
-https://dre.pt/web/guest/pesquisa/-/search/130399862/details/maximized
-https://www.exercito.pt/pt/informa%C3%A7%C3%A3o-p%C3%BAblica/not%C3%ADcias/1673
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*
+ https://dre.pt/web/guest/pesquisa/-/search/221696/details/normal?l=1https://dre.pt/web/guest/pesquisa/-/search/130399862/details/maximizedhttps://www.exercito.pt/pt/informa%C3%A7%C3%A3o-p%C3%BAblica/not%C3%ADcias/1673
+https://dre.pt/web/guest/pesquisa/-/search/147933283/details/maximized

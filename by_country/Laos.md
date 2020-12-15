@@ -1,9 +1,6 @@
 # Laos 
 
 
-Time 2020-09-11 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-11
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,10 +25,18 @@ Time 2020-09-11
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- The Prime Minister issued a decree that specifies and regulates the main emergency measures in Laos, for example public gatherings, public transport, border closure etc. This is not taken in reference to any state of emergency or existing regulations, and is thus regarded as adopting a new law. Therefore, this is coded as 4. 
+ The Prime Minister issued a decree that specifies and regulates the main emergency measures in Laos, for example public gatherings, public transport, border closure etc. This is not taken in reference to any state of emergency or existing regulations, and is thus regarded as adopting a new law. No other instrument has been found that manages the emergency response, and the latest restrictions seem to also be based on the same legal instrument. Therefore, this is coded as 4 for all the periods. 
 
 *Sources*:
  http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
@@ -39,6 +44,7 @@ https://la.usembassy.gov/covid-19-information/
 https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
 https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-covid-19-march-30-update-4
 https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
+https://www.garda.com/crisis24/news-alerts/395516/laos-authorities-extend-covid-19-restrictions-until-december-31-update-8
 
 
 
@@ -57,16 +63,24 @@ https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
 *Scale*: Character string.
 
  
-*Answer*: The Prime Minister's Order on reinforcement measures on cantainment, prevention and full response to the COVID-19 pandemic 
+*Time period: Q2*: The Prime Minister's Order on reinforcement measures on cantainment, prevention and full response to the COVID-19 pandemic
+
+ 
+*Time period: Q3*: The Prime Minister's Order on reinforcement measures on cantainment, prevention and full response to the COVID-19 pandemic
+
+ 
+*Time period: Q4*: The Prime Minister's Order on reinforcement measures on cantainment, prevention and full response to the COVID-19 pandemic
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
-https://la.usembassy.gov/covid-19-information/
-https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
-https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-covid-19-march-30-update-4
+ http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
+https://la.usembassy.gov/covid-19-information/
+https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
+https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-covid-19-march-30-update-4
 https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
 
 
@@ -86,16 +100,24 @@ https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-30 
+*Time period: Q2*: 2020-03-30
+
+ 
+*Time period: Q3*: 2020-03-30
+
+ 
+*Time period: Q4*: 2020-03-30
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
-https://la.usembassy.gov/covid-19-information/
-https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
-https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-covid-19-march-30-update-4
+ http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
+https://la.usembassy.gov/covid-19-information/
+https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
+https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-covid-19-march-30-update-4
 https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
 
 
@@ -115,8 +137,15 @@ https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No evidence has been found that implementation of legal instrument has ended. 
@@ -144,10 +173,18 @@ https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The decree was initially in effect up until April 19 (it has later been extended), and thus had a time limit. 
+ The decree was initially in effect up until April 19, but it seem to have been extended as measures taken under it were carried forward and other emergency measures that have been taken subsequently. As no extensions or end dates have been found after the initial one of April 19, this is coded 0 for all three periods, as none of them had an end date by the end of that period. 
 
 *Sources*:
  http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
@@ -166,15 +203,22 @@ https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The initial end date was April 19, but it was subsequently extended and the current end date has not been found. 
@@ -196,7 +240,7 @@ https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -206,16 +250,24 @@ https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The decree was issued by the Prime Minister and the parliament has not voted on it. 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
-https://la.usembassy.gov/covid-19-information/
-https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
-https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-covid-19-march-30-update-4
+ http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
+https://la.usembassy.gov/covid-19-information/
+https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
+https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-covid-19-march-30-update-4
 https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
 
 
@@ -238,16 +290,24 @@ https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The decree was issued by the Prime Minister and the parliament has not voted on it. 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
-https://la.usembassy.gov/covid-19-information/
-https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
-https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-covid-19-march-30-update-4
+ http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
+https://la.usembassy.gov/covid-19-information/
+https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
+https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-covid-19-march-30-update-4
 https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
 
 
@@ -268,23 +328,30 @@ https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- No information has been found that the emergency measures has limited or changed the parliaments work during the pandemic, and the decree that regulates the emergency measures do not declaree any changes to parliamentary work. This is therefore coded as 0.
- Note however that it was very difficult to find any information about the parliaments work and activities since the start of the pandemic. 
+ No information has been found that the emergency measures has limited or changed the parliaments work during the pandemic, and the decree that regulates the emergency measures do not declaree any changes to parliamentary work. This is therefore coded as 0. Note however that it was very difficult to find any information about the parliaments work and activities since the start of the pandemic. 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
-https://la.usembassy.gov/covid-19-information/
-https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
-https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-covid-19-march-30-update-4
+ http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
+https://la.usembassy.gov/covid-19-information/
+https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
+https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-covid-19-march-30-update-4
 https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
 
 
@@ -297,15 +364,22 @@ https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -330,8 +404,15 @@ https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -361,15 +442,23 @@ https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The emergency measures have been taken nationwide and no sub-national variation has been found in Laos. This is therefore coded as 0. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/QdgTsHwDr2kJ9R5FC/laos-lao-airlines-to-suspend-flight-to-south-korea-from-march
-https://www.acaps.org/covid19-government-measures-dataset
-
+ https://www.garda.com/crisis24/news-alert-full-history/QdgTsHwDr2kJ9R5FC/laos-lao-airlines-to-suspend-flight-to-south-korea-from-march
+https://www.acaps.org/covid19-government-measures-dataset
+https://www.garda.com/crisis24/news-alerts/395516/laos-authorities-extend-covid-19-restrictions-until-december-31-update-8
 
 
 
@@ -393,10 +482,13 @@ https://www.acaps.org/covid19-government-measures-dataset
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -404,7 +496,7 @@ Time period: *Jul-Sep*: 0
  Human Rights Watch and Amnesty International have not reported any discrimination within the l response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9554
+ https://www.hrw.org/news?country[]=9554
 https://www.amnesty.org/en/search/?country=38369&resourceType=newsarticle&sort=date
 
 
@@ -434,10 +526,13 @@ https://www.amnesty.org/en/search/?country=38369&resourceType=newsarticle&sort=d
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -445,7 +540,7 @@ Time period: *Jul-Sep*: 0
  Human Rights Watch and Amnesty International have not reported any violations of non-derogable rights within the response to Covid-19, and no other indications of such violations has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9554
+ https://www.hrw.org/news?country[]=9554
 https://www.amnesty.org/en/search/?country=38369&resourceType=newsarticle&sort=date
 
 
@@ -470,12 +565,18 @@ https://www.amnesty.org/en/search/?country=38369&resourceType=newsarticle&sort=d
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 3 
+*Time period: Q2*: 3
+
+ 
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
+
+ 
 
 *Comments*:
- The decree that regulates the emergency measures states that the government shall "strictly prohibit the advertisement of, release, forward any fake news via any media platform that can cause misunderstanding, panic and create negative impact on society. Task the agency for surveillance and response to the social complaints to closely monitor and strictly take action on those offenders." (Section 6). The decree also states that "the Task Force Committee shall provide detail guidance in a format of an easy understanding to disseminate through official media outlets" (Section 11).
-Consequently, the decree makes it punishable to report in any way on anything deemed to cause misunderstanding, panic and negative impact on the society, without any definition on what this constitutes. Furthermore, it regulates which media outlets shall report on the Covid-19 situation and government response. This is therefore coded as 3 - the emergency measure de jure require that all or almost all media reporting on Covid-19 reflect the governments position.
-No evidence has been found of this regulation having been repealed or amended, and is therefore assumed to still be in place. 
+ The decree that regulates the emergency measures states that the government shall "strictly prohibit the advertisement of, release, forward any fake news via any media platform that can cause misunderstanding, panic and create negative impact on society. Task the agency for surveillance and response to the social complaints to closely monitor and strictly take action on those offenders." (Section 6). The decree also states that "the Task Force Committee shall provide detail guidance in a format of an easy understanding to disseminate through official media outlets" (Section 11).Consequently, the decree makes it punishable to report in any way on anything deemed to cause misunderstanding, panic and negative impact on the society, without any definition on what this constitutes. Furthermore, it regulates which media outlets shall report on the Covid-19 situation and government response. This is therefore coded as 3 - the emergency measure de jure require that all or almost all media reporting on Covid-19 reflect the governments position.No evidence has been found that this regulation having been repealed or amended, and is therefore assumed to still be in place. 
 
 *Sources*:
  http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
@@ -490,14 +591,22 @@ No evidence has been found of this regulation having been repealed or amended, a
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-30 
+*Time period: Q2*: 2020-03-30
+
+ 
+*Time period: Q3*: 2020-03-30
+
+ 
+*Time period: Q4*: 2020-03-30
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -515,24 +624,31 @@ No evidence has been found of this regulation having been repealed or amended, a
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No declared end date yet. 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
-https://la.usembassy.gov/covid-19-information/
-https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
-https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-covid-19-march-30-update-4
+ http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
+https://la.usembassy.gov/covid-19-information/
+https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
+https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-covid-19-march-30-update-4
 https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
 
 
@@ -555,10 +671,13 @@ https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -579,7 +698,7 @@ This puts a strong de facto limitation on media reporting on Covid-19 Laos, by m
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -589,10 +708,13 @@ This puts a strong de facto limitation on media reporting on Covid-19 Laos, by m
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -623,15 +745,18 @@ This puts a strong de facto limitation on media reporting on the governments res
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The decree that regulates the emergency measures states that the government shall "strictly prohibit the advertisement of, release, forward any fake news via any media platform that can cause misunderstanding, panic and create negative impact on society. Task the agency for surveillance and response to the social complaints to closely monitor and strictly take action on those offenders." (Section 6). The decree also states that "the Task Force Committee shall provide detail guidance in a format of an easy understanding to disseminate through official media outlets" (Section 11).
+ The decree that regulates the emergency measures states that the government shall "strictly prohibit the advertisement of, release, forward any fake news via any media platform that can cause misunderstanding, panic and create negative impact on society. Task the agency for surveillance and response to the social complaints to closely monitor and strictly take action on those offenders." (Section 6). The decree also states that "the Task Force Committee shall provide detail guidance in a format of an easy understanding to disseminate through official media outlets" (Section 11).
 This puts a strong de facto limitation on media reporting on non-Covid-19 related news in Laos, by making it  punishable to report on anything deemed to cause misunderstanding, panic and negative impact on the society, without any definition on what this constitutes. 
 
 *Sources*:
@@ -654,20 +779,22 @@ This puts a strong de facto limitation on media reporting on non-Covid-19 relate
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
- The decree that regulates the emergency measures states that the "the Task Force Committee shall provide detail guidance in a format of an easy understanding to disseminate through official media outlets" (Section 11).
-In other words, only state sponsored media is allowed to report on the crisis, which de jure limits all access to information as only the government approved information is being disseminated to these media outlets. 
+ The decree that regulates the emergency measures states that the "the Task Force Committee shall provide detail guidance in a format of an easy understanding to disseminate through official media outlets" (Section 11).In other words, only state sponsored media is allowed to report on the crisis, which de jure limits all access to information as only the government approved information is being disseminated to these media outlets. 
 
 *Sources*:
  http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
@@ -692,19 +819,22 @@ In other words, only state sponsored media is allowed to report on the crisis, w
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any verbal harassment of journalists in Laos, and no other indications have been found of there having been any such harassment. 
+ Neither Reporters without Borders, committee to protect journalists nor International Press Institute have reported any verbal harassment of journalists in Laos, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B74%5D=74
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Laos
+ https://rsf.org/en/thematique/internet?countries%5B74%5D=74https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Laos
+https://cpj.org/asia/laos/
 
 
 
@@ -726,19 +856,22 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any physical harassment of journalists in Laos, and no other indications have been found of there having been any such harassment. 
+ Neither Reporters without Borderscommittee to protect journalists nor International Press Institute have reported any physical harassment of journalists in Laos, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B74%5D=74
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Laos
+ https://rsf.org/en/thematique/internet?countries%5B74%5D=74https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Laos
+https://cpj.org/asia/laos/
 
 
 
@@ -762,20 +895,25 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Laos has launched a website with information on Covid-19, but it currently can't be translated using Google Translate, and is therefore not accessible at time of coding. No reports of disinformation on Covid-19 by the Laos authorities has been indicated bu other sources, but as the published information on it is not available, this conclusion is very tentative. 
+ Laos has launched a website with information on Covid-19, but it currently can't be translated using Google Translate, and is therefore not accessible at time of coding. No reports of disinformation on Covid-19 by the Laos authorities has been indicated by other sources, but as the published information on it is not available, this conclusion is very tentative. 
 
 *Sources*:
  https://translate.google.com/translate?hl=sv&sl=lo&tl=en&u=http%3A%2F%2Fwww.moh.gov.la&prev=search
 http://www.ncle.gov.la/
 https://www.covid19.gov.la/index.php
+https://www.covid19.gov.la/index.php
+https://translate.google.com/translate?hl=sv&sl=lo&tl=en&u=https%3A%2F%2Fwww.covid19.gov.la%2Findex.php&prev=search&sandbox=1
 
 
 
@@ -799,10 +937,13 @@ https://www.covid19.gov.la/index.php
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -810,7 +951,7 @@ Time period: *Jul-Sep*: 0
  Human Rights Watch and Amnesty International have not  reported any incidents of violence in enforcing emergency measures, and there are no other indiciations of such violence in the emergency measures 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9554
+ https://www.hrw.org/news?country[]=9554
 https://www.amnesty.org/en/search/?country=38369&resourceType=newsarticle&sort=date
 
 
@@ -823,7 +964,7 @@ https://www.amnesty.org/en/search/?country=38369&resourceType=newsarticle&sort=d
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -833,42 +974,19 @@ https://www.amnesty.org/en/search/?country=38369&resourceType=newsarticle&sort=d
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The Laotian military has been given responsibility to, together with the police, enforce emergency measures like limiting public gatherings, closing public transportaion, and closing the border. No reports have been found on whether the military continues to enforce measures, but as there’s no indication that this practice has ended, this is coded 1 for both periods. 
+ The Laotian military has been given responsibility to, together with the police, enforce emergency measures like limiting public gatherings, closing public transportaion, and closing the border. No reports have been found on whether the military continues to enforce measures, but as there’s no indication that this practice has ended, this is coded 1 for all periods. 
 
 *Sources*:
- https://la.usembassy.gov/health-and-travel-alert-u-s-embassy-vientiane-laos-march-29-2020/
+ https://la.usembassy.gov/health-and-travel-alert-u-s-embassy-vientiane-laos-march-29-2020/
 https://www.acaps.org/covid19-government-measures-dataset
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

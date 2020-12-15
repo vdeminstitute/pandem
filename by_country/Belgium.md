@@ -1,9 +1,6 @@
 # Belgium 
 
 
-Time 2020-09-02 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-02
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,47 +25,56 @@ Time 2020-09-02
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- Belgium invoke Article 1d05 of the Constitution that gives Special powers to the executive in order to pass legislation dealing with Covid19 (1; 2; 3).
-Based on the above, two covid19 laws were passed: Article 3 of Law COVID-19 (I) (No 1104/5), and Article 5 of Law COVID-19 (II) (No 1104/6). 
-However, before these two main legal instruments there were a series of laws for the first measures: On 13 March, a ministerial decree signed by the Interior Minister prohibited a number of cultural, recreational and sporting activities, while also closing down schools and restaurants, inter alia. Stricter measures were introduced by ministerial decrees on 18 March and 23 March (including social distancing, distance learning and teleworking for non-essential business); these were further clarified on 24 March and modified on 17 April. 
+ Belgium invoked Article 105 of the Constitution that gives Special powers to the executive in order to pass legislation dealing with Covid19 (1; 2; 3). On 27 March 2020 the adoption of the Special Powers Act took place, with two enabling covid19 laws: Article 3 of Law COVID-19 (I) (No 1104/5), and Article 5 of Law COVID-19 (II) (No 1104/6) (see 5, 6). The Special Powers Act was due to expire (and expired) on June 30 2020 (10).
+
+Based on the authorization of the Special Powers Act, the Belgian government passed several Decrees containing a package of measures (for a full list see (4)).
+However, the first strict measures limitting civil liberties and fundamental rights was passed before the  Special Powers Act. In fact, the ministerial decree of 23 March that included the most strict provisions was taken 4 days earlier, and while it provided that the measures adopted were only applicable until 5 April, it has been amended several times to extend this deadline and has formed the basis of all consequent decrees (see 7, 8). 
+
+''After the two special powers laws of March 27 2020 expired on June 30, the Belgian government, although it could and should have adopted a new law on special powers, it did not do so. Since Belgium is a federal state, the federated authorities - the regions and communities - can logically also make use of special powers, which most of them have done. The nature and extent of the special powers granted by the legislators of these federated entities are quite variable when compared to each other but also when compared to federal laws of special powers, some special powers resembling full powers. (8) 
+
+The government issued on June 30 a Ministerial Decree ''portant des mesures d’urgence pour limiter la propagation du coronavirus COVID-19 (11), which was being used and continuously updated to deal with covid19 between July-September. This Order had an initial limit date until 31 August 2020.
+
+This Order was amended by Ministrial Order of 23 October 2020 (12), with an initial limit date of 19 novembre 2020. 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Belgium_2014.pdf?lang=en
 (1)
-
 https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
 (2)
-
 https://verfassungsblog.de/belgium-and-covid-19-when-a-health-crisis-replaces-a-political-crisis/
-(3)
+(3)
+https://centredecrise.be/fr/news/gestion-de-crise/coronavirus-reponses-vos-questions
+(4)
 http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032702&table_name=loi
 (5)
-
 http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032701&table_name=loi
-(6)
-http://www.ejustice.just.fgov.be/mopdf/2020/03/14_1.pdf#Page2
+(6)
+http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032301&table_name=loi
 (7)
-
-http://www.ejustice.just.fgov.be/mopdf/2020/03/18_3.pdf#Page3
+https://www.robert-schuman.eu/en/doc/ouvrages/FRS_Parliament_Belgium.pdf
 (8)
-
-http://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&pub_date=2020-03-23&caller=summary&numac=2020030347
+
+https://fra.europa.eu/sites/default/files/fra_uploads/be_report_on_coronavirus_pandemic_november_2020.pdf
 (9)
-
-http://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&pub_date=2020-03-24&caller=summary&numac=2020030361
+
+https://www.rtbf.be/info/belgique/detail_fin-des-pouvoirs-speciaux-debut-de-nouvelles-difficultes-politiques?id=10530520
 (10)
-
-http://www.droitbelge.be/news_detail.asp?id=1013
+https://centredecrise.be/sites/default/files/content/mb3006.pdf
 (11)
-
-https://fra.europa.eu/sites/default/files/fra_uploads/belgium-report-covid-19-april-2020_en.pdf
+
+https://crisiscentrum.be/sites/default/files/mb_1810_0.pdf
 (12)
-
-https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-belgium/
-(13)
 
 
 
@@ -87,14 +93,30 @@ https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-belgium/
 *Scale*: Character string.
 
  
-*Answer*: Special powers, (Article 105 Constitution); 
+*Time period: Q2*: Constitution, Article 105: Special powers
+
+
+
+
+ 
+*Time period: Q3*: Constitution, Article 105: Special powers
+
+
+
+
+ 
+*Time period: Q4*: Constitution, Article 105: Special powers
+
+
+
+
  
 
 *Comments*:
- laws passed: Article 3 of Law COVID-19 (I) (No 1104/5), and Article 5 of Law COVID-19 (II) (No 1104/6). 
+*No comment provided* 
 
 *Sources*:
- https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
+ https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
 https://www.constituteproject.org/constitution/Belgium_2014.pdf?lang=en
 
 
@@ -114,15 +136,31 @@ https://www.constituteproject.org/constitution/Belgium_2014.pdf?lang=en
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-30 
+*Time period: Q2*: 2020-03-30
+
+ 
+*Time period: Q3*: 2020-03-30
+
+ 
+*Time period: Q4*: 2020-03-30
+
+ 
 
 *Comments*:
- With the pandemic looming, two enabling laws were adopted on 27 March 2020 to enable the King (i.e. the Belgian government) to adopt measures to control the spread of Covid-19 for a maximum period of three months starting on the day the laws entered into force, i.e. 30 March. The two laws deal with the matters covered by Articles 74 (COVID-19 II) and 78 (COVID-19 I) ofthe Constitution.'' 
+ On March 27 2020, two enabling laws (special powers laws) were adopted in Belgium to deal with the pandemic, by enabling the King (i.e. the Belgian government) to adopt measures to control the spread of Covid-19 for a maximum period of three months starting on the day the laws entered into force, i.e. 30 March. The two laws deal with the matters covered by Articles 74 (COVID-19 II) and 78 (COVID-19 I) ofthe Constitution.''
+Based on the above, a series of Ministerial decrees are being updated and issued (for a full list of all covid19 related measures, and their end date, see (3)). 
 
 *Sources*:
- http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032702&table_name=loi
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032701&table_name=loi
+ http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032702&table_name=loi
 
+http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032701&table_name=loi
+https://centredecrise.be/fr/news/gestion-de-crise/coronavirus-reponses-vos-questions
+(3)
+
+https://centredecrise.be/sites/default/files/content/mb3006.pdf
+(4)
+https://crisiscentrum.be/sites/default/files/mb_1810_0.pdf
+(5)
 
 
 
@@ -141,23 +179,34 @@ http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=202003
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Belgium began phasing out lockdown measures at the beginning of May. There have been several key dates when measures were being gradually relaxed, but many of them there are still in place:
+ Belgium adopted on 27 March 2020 two Special Powers Act which were due to expire on June 30 2020. After their expiration, the government continuing updating the decrees without declaring a new Special Powers Act. 
+The government issued on June 30 a Ministerial Decree ''portant des mesures d’urgence pour limiter la propagation du coronavirus COVID-19 (11), which was being used and continuously updated to deal with covid19 between July-September. This Order had an initial limit date until 31 August 2020.
 
-''Belgium's next phase of lockdown relaxation will not start as foreseen on August 1 given the current state of the coronavirus pandemic.''
-''So-called Phase 5 included allowing a higher number of people to take part in events held indoor and outdoors. Currently, civil marriage ceremonies, religious gatherings and funerals for up to 200 attendees are allowed, while the limit for participation at private indoor receptions is 50 people. Outdoor events for up to 400 people are also permitted.''
-
-28 August 2020: The Belgian government, with a nod to European Commission recommendations, is adjusting its border restrictions as it assesses the evolving COVID-19 situation in countries around the world, and is alternatively leaving certain restrictions in place and putting measures/conditions in place to allow for travel by certain categories of travellers. The government has agreed to gradually resume visa operations and activities in Belgian Embassies and Consulates abroad to facilitate certain visa applications.'' 
+This Order was amended by Ministrial Order of 23 October 2020 (12), with an initial limit date of 19 novembre 2020. 
 
 *Sources*:
- https://home.kpmg/xx/en/home/insights/2020/08/flash-alert-2020-374.html
-https://www.politico.eu/article/belgian-health-minister-no-further-lockdown-lifting-in-early-august/
-https://www.euractiv.com/section/coronavirus/news/belgium-to-exit-lockdown-return-to-new-normal/;
-
+ https://www.politico.eu/article/belgium-coronavirus-lockdown-rules-restrictions-overview/
+https://be.usembassy.gov/covid-19-information/
+https://home.kpmg/xx/en/home/insights/2020/08/flash-alert-2020-374.html
+https://www.politico.eu/article/belgian-health-minister-no-further-lockdown-lifting-in-early-august/
+https://www.euractiv.com/section/coronavirus/news/belgium-to-exit-lockdown-return-to-new-normal/
+
 https://www.info-coronavirus.be/en/faq/
+
+https://centredecrise.be/sites/default/files/content/mb3006.pdf
+
+https://crisiscentrum.be/sites/default/files/mb_1810_0.pdf
 
 
 
@@ -179,16 +228,35 @@ https://www.info-coronavirus.be/en/faq/
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- …''for a maximum period of three months'', but can be revoked earlier. 
+ The Special Powers Laws (introduced in March 27, in force from March 30, see (3) had a time limit of 3 months, with the possibility of early revokation.
+The government issued on June 30 a Ministerial Decree ''portant des mesures d’urgence pour limiter la propagation du coronavirus COVID-19 (11), which was being used and continuously updated to deal with covid19 between July-September. This Order had an initial limit date until 31 August 2020. (5)
+
+This Order was amended by Ministrial Order of 23 October 2020 (12), with an initial limit date of 19 novembre 2020. (6) 
 
 *Sources*:
- https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032702&table_name=loi
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032701&table_name=loi
+ https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
+http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032702&table_name=loi
+(2)
+http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032701&table_name=loi
+(3)
+https://centredecrise.be/fr/news/gestion-de-crise/coronavirus-reponses-vos-questions
+(4)
 
+https://centredecrise.be/sites/default/files/content/mb3006.pdf
+(5)
+https://crisiscentrum.be/sites/default/files/mb_1810_0.pdf
+(6)
 
 
 
@@ -200,23 +268,38 @@ http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=202003
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-06-30 
+*Time period: Q2*: 2020-06-30
+
+ 
+*Time period: Q3*: 2020-08-31
+
+ 
+*Time period: Q4*: 2020-11-19
+
+ 
 
 *Comments*:
- …''for a maximum period of three months'', but can be revoked earlier. 
+ The Special Powers Laws (introduced in March 27, in force from March 30, see (3) had a time limit of 3 months, i.e. June 30.  After their expiration, the government continuing updating the decrees without declaring a new Special Powers Act. All separate decrees had a limit date. 
+The government issued on June 30 a Ministerial Decree ''portant des mesures d’urgence pour limiter la propagation du coronavirus COVID-19 (11), which was being used and continuously updated to deal with covid19 between July-September. This Order had an initial limit date until 31 August 2020.
+
+This Order was amended by Ministrial Order of 23 October 2020 (12), with an initial limit date of 19 novembre 2020. 
 
 *Sources*:
- https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032702&table_name=loi
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032701&table_name=loi
+ https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
+http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032702&table_name=loi
+http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032701&table_name=loi
 
+https://centredecrise.be/sites/default/files/content/mb3006.pdf
+
+
+https://crisiscentrum.be/sites/default/files/mb_1810_0.pdf
 
 
 
@@ -228,7 +311,7 @@ http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=202003
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -238,16 +321,24 @@ http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=202003
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- 'Under the special powers provision, decrees need to be confirmed by law within a set deadline. In the specific case of a pandemic, the decrees need to be converted within a year of their entry into force. In the absence of such confirmation they will become void. Moreover, in the contest of the coronavirus pandemic, the House of Representatives has created a new parliamentary committee devoted specifically to requesting information from, and overseeing, the members of the federal government with regard to measures taken under the 'special powers' provision.'' (1)
-
+ 'Under the special powers provision, decrees need to be confirmed by law within a set deadline. In the specific case of a pandemic, the decrees need to be converted within a year of their entry into force. In the absence of such confirmation they will become void. Moreover, in the contest of the coronavirus pandemic, the House of Representatives has created a new parliamentary committee devoted specifically to requesting information from, and overseeing, the members of the federal government with regard to measures taken under the 'special powers' provision.'' (1)
+
 According to article 105 of the Belgian Constitution (special powers decrees), ''the legislator authorises the Government (formally the King at federal level) to abrogate, complete, modify or replace legislative act through royal decrees, under some conditions. The special powers act adopted under exceptional circumstances determine the rationae materiae scope of the measures that can be taken and is always time-limited. The special powers royal decrees have to be confirmed by an act of the legislator within one year of them coming into effect – which is usually a very formal procedure, even if the minority government makes it slightly less certain in this case –, otherwise they will be considered as never having produced effect. Once they are confirmed, they are considered as legislative acts.'' (2) 
 
 *Sources*:
  https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
-(1)
+(1)
 https://verfassungsblog.de/belgium-and-covid-19-when-a-health-crisis-replaces-a-political-crisis/
 (2)
 
@@ -271,28 +362,39 @@ https://verfassungsblog.de/belgium-and-covid-19-when-a-health-crisis-replaces-a-
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- 'In the context of COVID-19, on a federal level, two legislative (4 and 5) acts of the 27th March were adopted by the federal parliament granting special powers to the King (i.e. the Federal Government) for three months from when the two acts came into effect (30th March)....
-The measures adopted by the King can have a retroactive effect to the 1st March, 2020. So far, the federal government has adopted (and published) five Special Powers Decrees (....).... 
-The draft proposal explains that the government has to keep the Chamber of Representatives informed about the measures it takes in virtue of its special powers. However, this obligation was not formalised in the final act.'' (2) 
+ On a federal level, the two enabling laws (Special Powers Laws, see 4 and 5) of 27th March were adopted by the federal parliament granting special powers to the King (i.e. the Federal Government) for three months.
+''The draft proposal explains that the government has to keep the Chamber of Representatives informed about the measures it takes in virtue of its special powers. However, this obligation was not formalised in the final act.'' (2)
+The federal government has adopted a number of Special Powers Decrees (see (6)) 
 
 *Sources*:
  https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
 (1)
-
+
 https://verfassungsblog.de/belgium-and-covid-19-when-a-health-crisis-replaces-a-political-crisis/
 (2)
-
+
 https://www.lachambre.be/FLWB/PDF/55/1104/55K1104001.pdf
 (3)
-
+
 http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032702&table_name=loi
 (4)
-
+
 http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032701&table_name=loi
 (5)
+https://legalworld.wolterskluwer.be/fr/nouvelles/domaine/droit-en-general/coronavirus-resume-de-toutes-les-mesures-juridiques-prises-a-l-encontre-du-covid-19/
+
+(6)
 
 
 
@@ -312,22 +414,35 @@ http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=202003
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The House of Representatives only maintains its essential meetings, which are subject to compliance with social distancing measures. The debate in plenary on Thursday March 26 was therefore reserved for group leaders, accompanied by one member from each group). 
-The regional parliaments followed different procedures but also held elections, although with social distancing measures. 
+ The House of Representatives in March  only maintained its essential meetings, which are subject to compliance with social distancing measures. The debate in plenary on Thursday March 26 was therefore reserved for group leaders, accompanied by one member from each group. The regional parliaments followed different procedures but also held elections, although with social distancing measures.
+
+There are social disctancing and remote voting measures in place in the House of Representatives. Plenary sessions continue being held. 
+ 
 
 *Sources*:
- https://verfassungsblog.de/belgium-and-covid-19-when-a-health-crisis-replaces-a-political-crisis/
-https://www.lachambre.be/kvvcr/pdf_sections/news/0000011208/mesures_de_prevention_covid_19_20200324.pdf
+ https://www.lachambre.be/kvvcr/index.cfm
+https://www.ipu.org/fr/compilation-par-pays-des-mesures-parlementaires-prises-face-la-pandemie
+https://verfassungsblog.de/belgium-and-covid-19-when-a-health-crisis-replaces-a-political-crisis/
+https://www.lachambre.be/kvvcr/pdf_sections/news/0000011208/mesures_de_prevention_covid_19_20200324.pdf
 https://plus.lesoir.be/290560/article/2020-03-27/quelle-garantie-de-controle-parlementaire-des-pouvoirs-speciaux-en-contexte-de
+https://www.lachambre.be/FLWB/PDF/55/1100/55K1100001.pdf
 
 
 
@@ -339,15 +454,22 @@ https://plus.lesoir.be/290560/article/2020-03-27/quelle-garantie-de-controle-par
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -372,8 +494,15 @@ https://plus.lesoir.be/290560/article/2020-03-27/quelle-garantie-de-controle-par
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -403,13 +532,27 @@ https://plus.lesoir.be/290560/article/2020-03-27/quelle-garantie-de-controle-par
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- 'On 17 March 2020, even before the federal parliament did, the parliament of the Walloon Region granted sweeping special powers.''...the Walloon parliament even granted powers in case it would be adjourned because of COVID 19....On 17 March 2020, the parliament of the French Community too adopted special powers legislation, although these were more limited with regard to their object and focused on education measures. On 19 March 2020, the parliamentary institutions in Brussels-Capital followed suit, granting special powers with regard to virtually all areas of regional and community competences and which are impacted by the crisis. In Flanders, no special powers have been granted so far. On 18 March 2020, the Flemish parliament itself adopted emergency measures with regard to urban planning requirements, anticipating the short-term construction of hospitals and other care facilities.'' There is subnational variation in certain measures and dates when these measures were adopted, based on each Province and Region. 
+ In Belgium, there is subnational variation in certain measures and dates when these measures were adopted, based on each Province and Region. Belgium is a federal state, therefore apart from the measures that the federal government took, many of the regional governments enacted their own measures. 
+However, the main restrictions such as the lockdown and night curfew have been nationwide. 
 
 *Sources*:
  https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-belgium/
+https://www.info-coronavirus.be/en/news/occ-3010/
+https://www.info-coronavirus.be/en/
+https://www.worldaware.com/covid-19-alert-brussels-belgium-enhances-measures-aug-12-amid-increase-cases#:~:text=Authorities%20in%20Brussels%20have%20announced,reached%2050%20per%20100%2C000%20population.
+https://www.garda.com/crisis24/news-alerts/368206/belgium-face-masks-become-mandatory-in-all-public-spaces-in-brussels-as-of-august-12-update-22
+
 
 
 
@@ -433,10 +576,13 @@ https://plus.lesoir.be/290560/article/2020-03-27/quelle-garantie-de-controle-par
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -446,27 +592,23 @@ Time period: *Jul-Sep*: 1
  ''There are several cases of police brutality in the context of Covid-19 and to date two people from racialised groups have died at the hands of the police, in France and in Belgium. (Adil C., 19 years old, who died on 10 April 2020 in Belgium.)'' (1, 3, 5)
 ''incidents of disproportionate policing of Romani people and Travellers have also cropped up in Belgium, where an armed response team evicted families, including a pregnant woman and children, from their caravans''. (2)
 ''The media and NGOs reported the disproportionate impact of the enforcement of lockdown measures on working class neighbourhoods, home to a large minority ethnic community.
- The Human Rights League collected allegations of abusive police practices between 18 March and 29 May. In 36% of the cases police allegedly use the force unlawfully, in 21% of the cases they uttered insults. Forty per cent of the victims were racialized people.'' (5, 7) 
+ The Human Rights League collected allegations of abusive police practices between 18 March and 29 May...Forty per cent of the victims were racialized people.'' (5, 7) 
 
 *Sources*:
  https://www.enar-eu.org/Evidence-of-the-impact-of-Covid-19-on-racialised-communities-exposes-need-to;
-(1)
+(1)
 https://www.aljazeera.com/indepth/opinion/police-covid-19-pandemic-excuse-abuse-roma-200511134616420.html
 (2)
-
 https://www.aljazeera.com/indepth/opinion/death-toll-coronavirus-pandemic-200430085024188.htmlv
-(3)
+(3)
 https://www.dw.com/en/covid-19-lockdowns-expose-racial-bias-with-belgian-police/av-53954197
 (4)
-
 https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
 (5)
-
 https://www.fairtrials.org/news/commentary-73-000-alleged-covid-19-breaches-belgium-now-time-launch-review
-(6)
+(6)
 https://www.brusselstimes.com/news/belgium-all-news/justice-belgium/118185/lockdown-uncovered-disturbing-pattern-of-racial-bias-in-belgian-police-report/
-(7)
-
+(7)
 
 
 
@@ -495,21 +637,24 @@ https://www.brusselstimes.com/news/belgium-all-news/justice-belgium/118185/lockd
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No, although there are allegations for violation of the right to freedom of expression - From Amnesty Intl's report on policing the pandemic:
-
-''Following Adil’s death, protests took place during which acts of violence were committed. However, many people also peacefully demanded accountability for the death. The Human Rights League has reported at
+ No, although there are allegations for violation of the right to freedom of expression - From Amnesty Intl's report on policing the pandemic:
+
+''Following Adil’s death, protests took place during which acts of violence were committed. However, many people also peacefully demanded accountability for the death. The Human Rights League has reported at
 least 10 cases in which police ordered people to remove banners calling for “Justice for Adil” in the days after his death. The banners were hung on windows or the external facades of houses. Police told the press that local police regulations prohibit the display of banners on external facades. The order to remove the banners constitutes an unnecessary and arbitrary restriction of the right to freedom of expression.'' 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
+ https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
 
 
 
@@ -534,15 +679,23 @@ least 10 cases in which police ordered people to remove banners calling for “J
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No de jure media limitations. 
 
 *Sources*:
- http://www.ejustice.just.fgov.be/mopdf/2020/03/14_1.pdf#Page2
-http://www.ejustice.just.fgov.be/mopdf/2020/03/18_3.pdf#Page3
-http://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&pub_date=2020-03-23&caller=summary&numac=2020030347
+ http://www.ejustice.just.fgov.be/mopdf/2020/03/14_1.pdf#Page2
+http://www.ejustice.just.fgov.be/mopdf/2020/03/18_3.pdf#Page3
+http://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&pub_date=2020-03-23&caller=summary&numac=2020030347
 http://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&pub_date=2020-03-24&caller=summary&numac=2020030361
 
 
@@ -555,15 +708,22 @@ http://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&pub_date=2020-0
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -581,15 +741,22 @@ http://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&pub_date=2020-0
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -617,10 +784,13 @@ http://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&pub_date=2020-0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -628,9 +798,9 @@ Time period: *Jul-Sep*: 0
  No such evidence was found. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/belgium-report-covid-19-april-2020_en.pdf
-https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/europe/belgium/
+ https://fra.europa.eu/sites/default/files/fra_uploads/belgium-report-covid-19-april-2020_en.pdf
+https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/europe/belgium/
 https://www.ecpmf.eu/tag/covid19/
 
 
@@ -643,7 +813,7 @@ https://www.ecpmf.eu/tag/covid19/
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -653,10 +823,13 @@ https://www.ecpmf.eu/tag/covid19/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -664,9 +837,9 @@ Time period: *Jul-Sep*: 0
  No such evidence was found. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/belgium-report-covid-19-april-2020_en.pdf
-https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/europe/belgium/
+ https://fra.europa.eu/sites/default/files/fra_uploads/belgium-report-covid-19-april-2020_en.pdf
+https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/europe/belgium/
 https://www.ecpmf.eu/tag/covid19/
 
 
@@ -689,10 +862,13 @@ https://www.ecpmf.eu/tag/covid19/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -700,9 +876,9 @@ Time period: *Jul-Sep*: 0
  No such evidence was found. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/belgium-report-covid-19-april-2020_en.pdf
-https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/europe/belgium/
+ https://fra.europa.eu/sites/default/files/fra_uploads/belgium-report-covid-19-april-2020_en.pdf
+https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/europe/belgium/
 https://www.ecpmf.eu/tag/covid19/
 
 
@@ -722,14 +898,17 @@ https://www.ecpmf.eu/tag/covid19/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -737,12 +916,10 @@ Time period: *Jul-Sep*: 0
  No limitations on access to information, but ''the actual expert reports that were said to help determine the government response were only made available with a time delay.'' (2) 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/belgium-report-covid-19-april-2020_en.pdf
+ https://fra.europa.eu/sites/default/files/fra_uploads/belgium-report-covid-19-april-2020_en.pdf
 https://www.vrt.be/vrtnws/nl/2020/06/08/gees-rapporten-publiek-gemaakt/
-(2)
-https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/europe/belgium/
-https://www.ecpmf.eu/tag/covid19/"
+(2)
+https://ipi.media/covid19-media-freedom-monitoring/
 
 
 
@@ -764,19 +941,24 @@ https://www.ecpmf.eu/tag/covid19/"
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No such instances mentioned. 
+ No evidence found. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/europe/belgium/
+ https://ipi.media/covid19-media-freedom-monitoring/
+
+https://cpj.org/europe/belgium/
+
 https://www.ecpmf.eu/tag/covid19/
 
 
@@ -799,19 +981,24 @@ https://www.ecpmf.eu/tag/covid19/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No such instances mentioned. 
+ No evidence found. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/europe/belgium/
+ https://ipi.media/covid19-media-freedom-monitoring/
+
+https://cpj.org/europe/belgium/
+
 https://www.ecpmf.eu/tag/covid19/
 
 
@@ -836,10 +1023,13 @@ https://www.ecpmf.eu/tag/covid19/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -847,8 +1037,10 @@ Time period: *Jul-Sep*: 0
  Belgium's national information resources website on Covid19 is in line with WHO guidlines. Also, the government has tried to limit disinformation coming from non-official sources. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/belgium-report-covid-19-april-2020_en.pdf
-https://www.ecdc.europa.eu/en/COVID-19/national-sources
+ https://fra.europa.eu/sites/default/files/fra_uploads/belgium-report-covid-19-april-2020_en.pdf
+
+https://www.ecdc.europa.eu/en/COVID-19/national-sources
+
 https://www.info-coronavirus.be/en/faq/#faq
 
 
@@ -873,10 +1065,13 @@ https://www.info-coronavirus.be/en/faq/#faq
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -889,23 +1084,27 @@ Time period: *Jul-Sep*: 0
  The Human Rights League collected allegations of abusive police practices between 18 March and 29 May. In 36% of the cases police allegedly use the force unlawfully, in 21% of the cases they uttered insults. Forty per cent of the victims were racialized people.'' (5, 7) 
 
 *Sources*:
- https://www.enar-eu.org/Evidence-of-the-impact-of-Covid-19-on-racialised-communities-exposes-need-to;
-(1)
+ https://www.enar-eu.org/Evidence-of-the-impact-of-Covid-19-on-racialised-communities-exposes-need-to
+(1)
+
 https://www.aljazeera.com/indepth/opinion/police-covid-19-pandemic-excuse-abuse-roma-200511134616420.html
 (2)
-
+
 https://www.aljazeera.com/indepth/opinion/death-toll-coronavirus-pandemic-200430085024188.htmlv
-(3)
+(3)
+
 https://www.dw.com/en/covid-19-lockdowns-expose-racial-bias-with-belgian-police/av-53954197
 (4)
-
+
 https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
 (5)
-
+
 https://www.fairtrials.org/news/commentary-73-000-alleged-covid-19-breaches-belgium-now-time-launch-review
-(6)
+(6)
+
 https://www.brusselstimes.com/news/belgium-all-news/justice-belgium/118185/lockdown-uncovered-disturbing-pattern-of-racial-bias-in-belgian-police-report/
-(7)
+(7)
+
 https://obspol.be/actualite
 
 
@@ -918,7 +1117,7 @@ https://obspol.be/actualite
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -928,41 +1127,18 @@ https://obspol.be/actualite
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- A special police force was created, but no military involvement. 
+ A special police force was created. No military involvement. 
 
 *Sources*:
  https://www.brusselstimes.com/belgium/116044/belgium-in-brief-leopold-ii-falls/
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

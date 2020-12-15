@@ -1,9 +1,6 @@
 # Ivory Coast 
 
 
-Time 2020-09-16 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-16
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,26 +25,32 @@ Time 2020-09-16
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The President of Ivory Coast decreed a state of emergency on March 24, 2020 (2)
-Constitution articles 73, 101, 105 (1)
-Law 59-231 of November 7, 1959 on the state of emergency 
+ The President of Ivory Coast decreed a state of emergency on March 24, 2020 (2) based on Constitution articles 73, 101, 105 (1) and Law 59-231 of November 7, 1959 on the state of emergency 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Cote_DIvoire_2016.pdf?lang=en
-(1)
+(1)
 https://www.yeclo.com/cote-divoire-decret-de-letat-durgence-face-au-covid-19/
-(2)
+(2)
 http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
-(2)
+(2)
 https://www.facebook.com/MinistereJusticeCI/posts/1091283804559822/
-(2)
-http://constitutionnet.org/state-of-emergency
-https://www.village-justice.com/articles/constitution-ivoirienne-lutte-contre-coronavirus-que-deviennent-nos-droits,34722.html
-https://www.afriksoir.net/amp/cote-divoire-loi-etat-urgence-en-vigueur-depuis-1959/
-https://apr-news.fr/fr/actualites/cote-divoire-letat-durgence-que-dit-la-loi
+(2)
+http://constitutionnet.org/state-of-emergency
+https://www.village-justice.com/articles/constitution-ivoirienne-lutte-contre-coronavirus-que-deviennent-nos-droits,34722.html
+https://www.afriksoir.net/amp/cote-divoire-loi-etat-urgence-en-vigueur-depuis-1959/
+https://apr-news.fr/fr/actualites/cote-divoire-letat-durgence-que-dit-la-loi
 https://www.reuters.com/article/health-coronavirus-senegal-ivorycoast/ivory-coast-senegal-declare-emergencies-impose-curfews-in-coronavirus-response-idUSL8N2BG9MO
 
 
@@ -67,17 +70,26 @@ https://www.reuters.com/article/health-coronavirus-senegal-ivorycoast/ivory-coas
 *Scale*: Character string.
 
  
-*Answer*: Constitution, articles 73, 101, 105. 
-Law 59-231 of November 7, 1959 on the state of emergency. 
+*Time period: Q2*: Constitution, articles 73, 101, 105. 
+Law 59-231 of November 7, 1959 on the state of emergency.
+
+ 
+*Time period: Q3*: Constitution, articles 73, 101, 105. 
+Law 59-231 of November 7, 1959 on the state of emergency.
+
+ 
+*Time period: Q4*: Constitution, articles 73, 101, 105. 
+Law 59-231 of November 7, 1959 on the state of emergency.
+
+ 
 
 *Comments*:
- The State of Emergency was declared with the Decree 2020-351 du 23 mars, 2020 
+ The State of Emergency was declared with the Decree 2020-351 of 23 March 2020. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Cote_DIvoire_2016.pdf?lang=en
-http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
-https://apr-news.fr/fr/actualites/cote-divoire-letat-durgence-que-dit-la-loi
-
+ https://www.constituteproject.org/constitution/Cote_DIvoire_2016.pdf?lang=en
+http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
+https://apr-news.fr/fr/actualites/cote-divoire-letat-durgence-que-dit-la-loi
 
 
 
@@ -96,15 +108,23 @@ https://apr-news.fr/fr/actualites/cote-divoire-letat-durgence-que-dit-la-loi
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-23 
+*Time period: Q2*: 2020-03-23
+
+ 
+*Time period: Q3*: 2020-03-23
+
+ 
+*Time period: Q4*: 2020-03-23
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
-http://constitutionnet.org/state-of-emergency
-https://www.reuters.com/article/health-coronavirus-senegal-ivorycoast/ivory-coast-senegal-declare-emergencies-impose-curfews-in-coronavirus-response-idUSL8N2BG9MO
+ http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
+http://constitutionnet.org/state-of-emergency
+https://www.reuters.com/article/health-coronavirus-senegal-ivorycoast/ivory-coast-senegal-declare-emergencies-impose-curfews-in-coronavirus-response-idUSL8N2BG9MO
 https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emergency-to-curb-covid-19//
 
 
@@ -124,17 +144,26 @@ https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emerg
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The state of emergency was last extended through August 31, 2020. It is unclear whether it is still in effect or not. No info could be found.
-''It is unclear if the State of Emergency, scheduled to expire on August 31, remains in effect. Social distancing and a reduction in non-essential movements are encouraged, though not enforced.'' (1) 
+ The state of emergency is still in place until the end of December 2020 (1) 
 
 *Sources*:
- https://ci.usembassy.gov/covid-19-information/
-(1)
-https://www.garda.com/crisis24/news-alerts/365271/cote-divoire-authorities-extend-covid-19-state-of-emergency-until-august-31-update-15
+ http://www.gouv.ci/_conseil-ministre-details.php?recordID=410
+(1)
+https://ci.usembassy.gov/covid-19-information/#:~:text=Since%20the%20start%20of%20the,are%20encouraged%2C%20though%20not%20enforced.
+
+https://www.garda.com/crisis24/news-alerts/408881/cote-divoire-authorities-maintain-a-nationwide-coronavirus-related-state-of-emergency-as-of-nov-30-update-16
+
 
 
 
@@ -157,20 +186,34 @@ https://www.garda.com/crisis24/news-alerts/365271/cote-divoire-authorities-exten
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- In the Decree 2020-351 du 23 mars, 2020 which declared a state of emergency, it mentions that this measure may be renewed if necessary, no limit date.  
-All the sources also mention that the President did not specify the duration of these new measures.
-In the Law of 1969 on the state of emergency, it states that the decree declaring a state of emergency should specify its duration, but it does not do so.
-
-In another source it mentions that ''The health alert system is maintained until the end of 2020.'', but it is unclear if that differs from the state of emergency. 
+ The Decree 2020-351 of March 23 2020 which declared a state of emergency, did not include a limit date, it only mentioned that this measure may be renewed if necessary. 
+In some of the later Communiques by the Council of Ministers, a limit date and extension fo the state of emergency is mentioned, but it hasn't been found for all. 
+e.g. COUNCIL OF MINISTERS OF 04-29-2020: ''The Council adopted a decree extending the state of emergency. This decree, which is part of the implementation of the national response plan to the health crisis linked to the Covid-19 pandemic, extends the state of emergency declared on March 23, 2020 throughout the national territory, for a new period from May 1 to May 15, 2020.'' 
+
+In the COUNCIL OF MINISTERS OF 09-30-2020 it is mentioned that ''the Council instructed the Minister of Health and all the Ministers concerned to maintain the health emergency until the end of December 2020, to continue the strategy of targeted screening and to protect patients. vulnerable and exposed people.'' 
 
 *Sources*:
- http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
-https://www.reuters.com/article/health-coronavirus-senegal-ivorycoast/ivory-coast-senegal-declare-emergencies-impose-curfews-in-coronavirus-response-idUSL8N2BG9MO
-https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emergency-to-curb-covid-19//
-https://fr.africanews.com/2020/03/24/coronavirus-en-cote-d-ivoire-decrete-etat-d-urgence-couvre-feu-et-confinement/
+ http://www.gouv.ci/_conseil-ministre-details.php?recordID=410
+
+http://www.gouv.ci/_conseil-ministre-details.php?recordID=397
+
+http://www.gouv.ci/_actualite-article.php?recordID=11039
+
+http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
+https://www.reuters.com/article/health-coronavirus-senegal-ivorycoast/ivory-coast-senegal-declare-emergencies-impose-curfews-in-coronavirus-response-idUSL8N2BG9MO
+https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emergency-to-curb-covid-19//
+https://fr.africanews.com/2020/03/24/coronavirus-en-cote-d-ivoire-decrete-etat-d-urgence-couvre-feu-et-confinement/
 https://www.fratmat.info/article/204668/Politique/Alassane
 
 
@@ -183,21 +226,43 @@ https://www.fratmat.info/article/204668/Politique/Alassane
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 2020-05-15
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 2020-12-31
+
+ 
+*Time period: Q4*: 2020-12-31
+
+ 
 
 *Comments*:
-*No comment provided* 
+ The Decree 2020-351 of March 23 2020 which declared a state of emergency, did not include a limit date, it only mentioned that this measure may be renewed if necessary. 
+In some of the later Communiques by the Council of Ministers, a limit date and extension fo the state of emergency is mentioned, but it hasn't been found for all. 
+
+e.g. COUNCIL OF MINISTERS OF 04-29-2020: ''The Council adopted a decree extending the state of emergency. This decree, which is part of the implementation of the national response plan to the health crisis linked to the Covid-19 pandemic, extends the state of emergency declared on March 23, 2020 throughout the national territory, for a new period from May 1 to May 15, 2020.'' 
+
+In the COUNCIL OF MINISTERS OF 09-30-2020 it is mentioned that ''the Council instructed the Minister of Health and all the Ministers concerned to maintain the health emergency until the end of December 2020, to continue the strategy of targeted screening and to protect patients. vulnerable and exposed people.'' 
 
 *Sources*:
-*No source provided*
+ http://www.gouv.ci/_conseil-ministre-details.php?recordID=410
+
+http://www.gouv.ci/_conseil-ministre-details.php?recordID=397
+
+http://www.gouv.ci/_actualite-article.php?recordID=11039
+
+http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
+https://www.reuters.com/article/health-coronavirus-senegal-ivorycoast/ivory-coast-senegal-declare-emergencies-impose-curfews-in-coronavirus-response-idUSL8N2BG9MO
+https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emergency-to-curb-covid-19//
+https://fr.africanews.com/2020/03/24/coronavirus-en-cote-d-ivoire-decrete-etat-d-urgence-couvre-feu-et-confinement/
+https://www.fratmat.info/article/204668/Politique/Alassane
 
 
 
@@ -209,7 +274,7 @@ https://www.fratmat.info/article/204668/Politique/Alassane
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -219,21 +284,28 @@ https://www.fratmat.info/article/204668/Politique/Alassane
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- It is not very clear. It looks like the Parliament does not need to authorize the state of emergency. The Constitution mentions:
+ It looks like the Parliament does not need to authorize the state of emergency. The Constitution mentions:
 Article 73 - Should the institutions of the Republic......be interrupted, the President of the Republic takes the exceptional measures required by these circumstances, after consultation with the President of the National Assembly, President of the Senate and the President of the Constitutional Council. He informs the Nation thereof by message. Parliament meets without requiring to be convened. The end of the crisis is recognized by a message from the President of the Republic to the Nation.
 And Article 74 - The President of the Republic initiates legislation concurrently with the members of Parliament. He ensures the promulgation of laws within thirty days after the law definitively adopted has been submitted to him. This period is shortened to five days in the event of an emergency.
  
 
 *Sources*:
- https://www.constituteproject.org/constitution/Cote_DIvoire_2016.pdf?lang=en
-http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
-https://www.village-justice.com/articles/constitution-ivoirienne-lutte-contre-coronavirus-que-deviennent-nos-droits,34722.html
-https://www.afriksoir.net/amp/cote-divoire-loi-etat-urgence-en-vigueur-depuis-1959/
-https://apr-news.fr/fr/actualites/cote-divoire-letat-durgence-que-dit-la-loi
-
+ https://www.constituteproject.org/constitution/Cote_DIvoire_2016.pdf?lang=en
+http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
+https://www.village-justice.com/articles/constitution-ivoirienne-lutte-contre-coronavirus-que-deviennent-nos-droits,34722.html
+https://www.afriksoir.net/amp/cote-divoire-loi-etat-urgence-en-vigueur-depuis-1959/
+https://apr-news.fr/fr/actualites/cote-divoire-letat-durgence-que-dit-la-loi
 https://www.reuters.com/article/health-coronavirus-senegal-ivorycoast/ivory-coast-senegal-declare-emergencies-impose-curfews-in-coronavirus-response-idUSL8N2BG9MO"
 
 
@@ -256,16 +328,24 @@ https://www.reuters.com/article/health-coronavirus-senegal-ivorycoast/ivory-coas
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- No information was found indicating that the emergency and the coronavirus measures were approved by the Parliament. 
+ No information was found indicating that the emergency measures were approved by the Parliament. 
 
 *Sources*:
- http://www.gouv.ci/_actualite-article.php?recordID=11084&d=1
-https://aip.ci/cote-divoire-aip-covid-19-letat-durgence-proroge-jusquau-30-avril/
-https://www.village-justice.com/articles/constitution-ivoirienne-lutte-contre-coronavirus-que-deviennent-nos-droits,34722.html
-https://www.afriksoir.net/amp/cote-divoire-loi-etat-urgence-en-vigueur-depuis-1959/
+ http://www.gouv.ci/_actualite-article.php?recordID=11084&d=1
+https://aip.ci/cote-divoire-aip-covid-19-letat-durgence-proroge-jusquau-30-avril/
+https://www.village-justice.com/articles/constitution-ivoirienne-lutte-contre-coronavirus-que-deviennent-nos-droits,34722.html
+https://www.afriksoir.net/amp/cote-divoire-loi-etat-urgence-en-vigueur-depuis-1959/
 https://apr-news.fr/fr/actualites/cote-divoire-letat-durgence-que-dit-la-loi
 
 
@@ -286,25 +366,32 @@ https://apr-news.fr/fr/actualites/cote-divoire-letat-durgence-que-dit-la-loi
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- The President can rule by decree on covid19 related issues. 
-Also: ''The Ivorian Constitution provides, ''when the institutions of the Republic, the independence of the Nation, the integrity of its territory or the execution of it international commitments are under grave and immediate threat, and that the regular operation of the constitutional public authorities is interrupted, the President of the Republic shall take the measures required by the circumstances, after officially consulting with the Prime Minister, the Presidents of [the National Assembly and the Senate], as well as the Constitutional Council. The same article of the Constitution specifies that the President may not dissolve the National Assembly during such times, and that the Parliament always has the right to meet. There does not appear to be any formal provision in Ivorian law regarding the functioning of the national legislature under emergency measures, nor does Ivorian law appear to provide for any sort of “emergency parliament” with devolved powers from the whole parliament to address crisis situations.''
-
+ The President can rule by decree on covid19 related issues. 
+Also: ''The Ivorian Constitution provides, ''when the institutions of the Republic, the independence of the Nation, the integrity of its territory or the execution of it international commitments are under grave and immediate threat, and that the regular operation of the constitutional public authorities is interrupted, the President of the Republic shall take the measures required by the circumstances, after officially consulting with the Prime Minister, the Presidents of [the National Assembly and the Senate], as well as the Constitutional Council. The same article of the Constitution specifies that the President may not dissolve the National Assembly during such times, and that the Parliament always has the right to meet. There does not appear to be any formal provision in Ivorian law regarding the functioning of the national legislature under emergency measures, nor does Ivorian law appear to provide for any sort of “emergency parliament” with devolved powers from the whole parliament to address crisis situations.''
+
 ''Due to the current COVID-19 pandemic, the National Assembly has limited all meetings to a maximum of 50 participants. Furthermore, the President of the National Assembly has requested that all members, staff, and visitors wash their hands or use the hand sanitizer available at washing stations installed at the building’s entrances and exits.'' 
 
 *Sources*:
- https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislative-activities.pdf
-"https://www.constituteproject.org/constitution/Cote_DIvoire_2016.pdf?lang=en
-
+ https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislative-activities.pdf"
+https://www.constituteproject.org/constitution/Cote_DIvoire_2016.pdf?lang=en
 
 
 
@@ -316,15 +403,22 @@ https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislat
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -349,8 +443,15 @@ https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislat
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -380,17 +481,30 @@ https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislat
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- It is unclear if the state of emergency is still in place. The different measures were mostly countrywide, but with a few exceptions (a curfew applied to the city of Abidjan and a travel ban to and from Abidjan). 
+ The state of emergency is still in place until December 31 2020, and is countrywide. The different measures were mostly countrywide, except for a nightly curfew in the city of Abidjan which ended on May 15, and a travel ban to and from Abidjan which was lifted in July 15. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/365271/cote-divoire-authorities-extend-covid-19-state-of-emergency-until-august-31-update-15
-https://ci.usembassy.gov/covid-19-information/
-https://www.garda.com/crisis24/news-alerts/342271/cote-divoire-authorities-announce-easing-of-some-covid-19-restrictions-in-abidjan-may-14-update-11
-https://fr.africanews.com/2020/03/24/coronavirus-en-cote-d-ivoire-decrete-etat-d-urgence-couvre-feu-et-confinement/
+ https://www.garda.com/crisis24/news-alerts/408881/cote-divoire-authorities-maintain-a-nationwide-coronavirus-related-state-of-emergency-as-of-nov-30-update-16
 
+https://crisis24.garda.com/insights/news-alerts/meqdf7bayncosrdnr/cote-divoire-quarantine-measures-in-abidjan-lifted-july-15-update-14
+
+https://ci.usembassy.gov/covid-19-information/#:~:text=Since%20the%20start%20of%20the,are%20encouraged%2C%20though%20not%20enforced.
+
+https://www.garda.com/crisis24/news-alerts/365271/cote-divoire-authorities-extend-covid-19-state-of-emergency-until-august-31-update-15
+https://ci.usembassy.gov/covid-19-information/
+https://www.garda.com/crisis24/news-alerts/342271/cote-divoire-authorities-announce-easing-of-some-covid-19-restrictions-in-abidjan-may-14-update-11
+https://fr.africanews.com/2020/03/24/coronavirus-en-cote-d-ivoire-decrete-etat-d-urgence-couvre-feu-et-confinement/
 
 
 
@@ -414,10 +528,13 @@ https://fr.africanews.com/2020/03/24/coronavirus-en-cote-d-ivoire-decrete-etat-d
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -425,10 +542,10 @@ Time period: *Jul-Sep*: 0
  None of the measures discriminate on the basis of these democratic rights. 
 
 *Sources*:
- http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
-https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emergency-to-curb-covid-19//
-https://www.bbc.com/news/topics/cywd23g0gpgt/ivory-coast
-https://www.jeuneafrique.com/914559/societe/coronavirus-la-cote-divoire-entre-deni-panique-et-restrictions/
+ http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
+https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emergency-to-curb-covid-19//
+https://www.bbc.com/news/topics/cywd23g0gpgt/ivory-coast
+https://www.jeuneafrique.com/914559/societe/coronavirus-la-cote-divoire-entre-deni-panique-et-restrictions/
 http://www.rfi.fr/fr/afrique/20200324-s%C3%A9n%C3%A9gal-cote-ivoire-etat-urgence-coronavirus-covid-19
 
 
@@ -458,10 +575,13 @@ http://www.rfi.fr/fr/afrique/20200324-s%C3%A9n%C3%A9gal-cote-ivoire-etat-urgence
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -469,10 +589,10 @@ Time period: *Jul-Sep*: 0
  None of the measures violate non-derogable rights. 
 
 *Sources*:
- http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
-https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emergency-to-curb-covid-19//
-https://www.bbc.com/news/topics/cywd23g0gpgt/ivory-coast
-https://www.jeuneafrique.com/914559/societe/coronavirus-la-cote-divoire-entre-deni-panique-et-restrictions/
+ http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
+https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emergency-to-curb-covid-19//
+https://www.bbc.com/news/topics/cywd23g0gpgt/ivory-coast
+https://www.jeuneafrique.com/914559/societe/coronavirus-la-cote-divoire-entre-deni-panique-et-restrictions/
 http://www.rfi.fr/fr/afrique/20200324-s%C3%A9n%C3%A9gal-cote-ivoire-etat-urgence-coronavirus-covid-19
 
 
@@ -497,16 +617,24 @@ http://www.rfi.fr/fr/afrique/20200324-s%C3%A9n%C3%A9gal-cote-ivoire-etat-urgence
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No de jure media limitations. 
 
 *Sources*:
- http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
-https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emergency-to-curb-covid-19//
-https://www.bbc.com/news/topics/cywd23g0gpgt/ivory-coast
-https://www.jeuneafrique.com/914559/societe/coronavirus-la-cote-divoire-entre-deni-panique-et-restrictions/
+ http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
+https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emergency-to-curb-covid-19//
+https://www.bbc.com/news/topics/cywd23g0gpgt/ivory-coast
+https://www.jeuneafrique.com/914559/societe/coronavirus-la-cote-divoire-entre-deni-panique-et-restrictions/
 http://www.rfi.fr/fr/afrique/20200324-s%C3%A9n%C3%A9gal-cote-ivoire-etat-urgence-coronavirus-covid-19
 
 
@@ -519,15 +647,22 @@ http://www.rfi.fr/fr/afrique/20200324-s%C3%A9n%C3%A9gal-cote-ivoire-etat-urgence
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -545,15 +680,22 @@ http://www.rfi.fr/fr/afrique/20200324-s%C3%A9n%C3%A9gal-cote-ivoire-etat-urgence
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -581,20 +723,29 @@ http://www.rfi.fr/fr/afrique/20200324-s%C3%A9n%C3%A9gal-cote-ivoire-etat-urgence
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- 'In Côte d’Ivoire, two journalists were fined 5 million CFA francs (7,620 euros) each on charges of “spreading false news” for reporting that there were two coronavirus cases in Abidjan’s main prison, a claim denied by the prison authorities.''
+ 'In Ivory Coast, provisions on disinformation are used against journalists and political activists reporting or criticizing the coronavirus public reporting (arrests for reporting cases of coronavirus in a medical centre).'' (1)
+
+''In Côte d’Ivoire, two journalists were fined 5 million CFA francs (7,620 euros) each on charges of “spreading false news” for reporting that there were two coronavirus cases in Abidjan’s main prison, a claim denied by the prison authorities.''
 
 Also, ''RSF registered few press freedom violations in Côte d’Ivoire in 2019 but police attacks on journalists, especially during demonstrations, have continued and testify to the need for more awareness training about journalists’ rights.'' 
 
 *Sources*:
- https://rsf.org/en/cote-divoire
+ https://www.article19.org/resources/west-africa-access-to-information/
+(1)
+https://www.disinformationtracker.org/
+(2)
+https://rsf.org/en/cote-divoire
 https://rsf.org/en/news/six-ivorian-journalists-heavily-fined-march
 https://rsf.org/en/tracker19-Coronavirus-Covid19
 https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
@@ -610,7 +761,7 @@ https://fr.africanews.com/2020/03/31/cote-d-ivoire-deux-journaux-condamnes-pour-
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -620,20 +771,29 @@ https://fr.africanews.com/2020/03/31/cote-d-ivoire-deux-journaux-condamnes-pour-
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- 'In Côte d’Ivoire, two journalists were fined 5 million CFA francs (7,620 euros) each on charges of “spreading false news” for reporting that there were two coronavirus cases in Abidjan’s main prison, a claim denied by the prison authorities.''
+ 'In Ivory Coast, provisions on disinformation are used against journalists and political activists reporting or criticizing the coronavirus public reporting (arrests for reporting cases of coronavirus in a medical centre).'' (1)
+
+''In Côte d’Ivoire, two journalists were fined 5 million CFA francs (7,620 euros) each on charges of “spreading false news” for reporting that there were two coronavirus cases in Abidjan’s main prison, a claim denied by the prison authorities.''
 
 Also, ''RSF registered few press freedom violations in Côte d’Ivoire in 2019 but police attacks on journalists, especially during demonstrations, have continued and testify to the need for more awareness training about journalists’ rights.'' 
 
 *Sources*:
- https://rsf.org/en/cote-divoire
+ https://www.article19.org/resources/west-africa-access-to-information/
+(1)
+https://www.disinformationtracker.org/
+(2)
+https://rsf.org/en/cote-divoire
 https://rsf.org/en/news/six-ivorian-journalists-heavily-fined-march
 https://rsf.org/en/tracker19-Coronavirus-Covid19
 https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
@@ -659,10 +819,13 @@ https://fr.africanews.com/2020/03/31/cote-d-ivoire-deux-journaux-condamnes-pour-
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -670,9 +833,9 @@ Time period: *Jul-Sep*: 0
  No such evidence was found. 
 
 *Sources*:
- https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://ipi.media/covid19-media-freedom-monitoring/
+ https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://ipi.media/covid19-media-freedom-monitoring/
 https://rsf.org/en/cote-divoire
 
 
@@ -692,14 +855,17 @@ https://rsf.org/en/cote-divoire
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -707,9 +873,12 @@ Time period: *Jul-Sep*: 0
  No evidence was found. 
 
 *Sources*:
- https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://ipi.media/covid19-media-freedom-monitoring/
+ https://rsf.org/en/tracker19-Coronavirus-Covid19
+
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+
+https://ipi.media/covid19-media-freedom-monitoring/
+
 https://rsf.org/en/cote-divoire
 
 
@@ -732,10 +901,13 @@ https://rsf.org/en/cote-divoire
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -743,9 +915,12 @@ Time period: *Jul-Sep*: 0
  No incidents of verbal harassment. 
 
 *Sources*:
- https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://ipi.media/covid19-media-freedom-monitoring/
+ https://rsf.org/en/tracker19-Coronavirus-Covid19
+
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+
+https://ipi.media/covid19-media-freedom-monitoring/
+
 https://rsf.org/en/cote-divoire
 
 
@@ -768,10 +943,13 @@ https://rsf.org/en/cote-divoire
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -779,9 +957,12 @@ Time period: *Jul-Sep*: 0
  No incidents of physical harassment. 
 
 *Sources*:
- https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://ipi.media/covid19-media-freedom-monitoring/
+ https://rsf.org/en/tracker19-Coronavirus-Covid19
+
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+
+https://ipi.media/covid19-media-freedom-monitoring/
+
 https://rsf.org/en/cote-divoire
 
 
@@ -806,10 +987,13 @@ https://rsf.org/en/cote-divoire
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -817,9 +1001,9 @@ Time period: *Jul-Sep*: 0
  In agreement with WHO guidlines. 
 
 *Sources*:
- https://covid19-ci.info/
-http://info-covid19.gouv.ci/welcome/covid
+ https://covid19-ci.info/
 
+http://info-covid19.gouv.ci/welcome/covid
 
 
 
@@ -843,23 +1027,32 @@ http://info-covid19.gouv.ci/welcome/covid
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No evidence was found.
-In August, there have been several days of violence where five people died but these ''are linked to the announcement of the candidacy for a third term of President Alassane Ouattara''. (1) 
+ No evidence of police violence in enforcing the covid19 measures was found. 
+However, in August, there have been several days of violence where five people died but these were related to President Alassane Ouattara announcing that he will run a third presidential term. (1) 
+Also, in the aftermath of the controversial presidential elections of October 31 2020, more than 50 people have been killed, and security forces are reported to have ''failed to adequately protect civilians and in at least one case used excessive force to disperse opposition-led protests, shooting dead at least two demonstrators and beating a man unconscious.'' 
 
 *Sources*:
- https://www.jeuneafrique.com/1029789/politique/cote-divoire-cinq-morts-apres-plusieurs-jours-de-violences-retour-au-calme/
-(1)
-https://www.france24.com/en/20200406-crowd-in-ivory-coast-destroys-coronavirus-testing-centre
-https://www.reuters.com/article/us-health-coronavirus-ivorycoast-violenc/ivory-coast-police-clash-with-protesters-over-coronavirus-test-centre-idUSKBN21O1LT
+ https://www.hrw.org/news/2020/12/02/cote-divoire-post-election-violence-repression
 
+https://www.garda.com/crisis24/news-alerts/390786/cote-divoire-police-kill-one-during-dispersal-operations-amid-unrest-in-bonoua-grand-bassam-department-october-19-update-1
+
+https://www.jeuneafrique.com/1029789/politique/cote-divoire-cinq-morts-apres-plusieurs-jours-de-violences-retour-au-calme/
+(1)
+
+https://www.france24.com/en/20200406-crowd-in-ivory-coast-destroys-coronavirus-testing-centre
+
+https://www.reuters.com/article/us-health-coronavirus-ivorycoast-violenc/ivory-coast-police-clash-with-protesters-over-coronavirus-test-centre-idUSKBN21O1LT
 
 
 
@@ -871,7 +1064,7 @@ https://www.reuters.com/article/us-health-coronavirus-ivorycoast-violenc/ivory-c
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -881,10 +1074,13 @@ https://www.reuters.com/article/us-health-coronavirus-ivorycoast-violenc/ivory-c
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -892,36 +1088,16 @@ Time period: *Jul-Sep*: 0
  The security forces have been charged with enforcing the movement restrictions. No evidence of the military being involved. 
 
 *Sources*:
- http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
-https://aip.ci/cote-divoire-aip-covid-19-le-ministre-diomande-affirme-la-fermete-des-forces-de-securite-dans-le-cadre-du-respect-des-mesures/
-https://news.abidjan.net/h/672518.html
-https://www.lemonde.fr/afrique/article/2020/04/13/coronavirus-en-afrique-des-mesures-d-exception-qui-menacent-les-libertes-publiques_6036443_3212.html
-https://globalbrief.ca/2020/04/les-forces-africaines-de-defense-et-de-securite-face-a-la-pandemie/
-https://information.tv5monde.com/afrique/confinement-etat-d-urgence-couvre-feu-l-afrique-face-au-coronavirus-353422
+ http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
+
+https://aip.ci/cote-divoire-aip-covid-19-le-ministre-diomande-affirme-la-fermete-des-forces-de-securite-dans-le-cadre-du-respect-des-mesures/
+
+https://news.abidjan.net/h/672518.html
+
+https://www.lemonde.fr/afrique/article/2020/04/13/coronavirus-en-afrique-des-mesures-d-exception-qui-menacent-les-libertes-publiques_6036443_3212.html
+
+https://globalbrief.ca/2020/04/les-forces-africaines-de-defense-et-de-securite-face-a-la-pandemie/
+
+https://information.tv5monde.com/afrique/confinement-etat-d-urgence-couvre-feu-l-afrique-face-au-coronavirus-353422
+
 https://www.france24.com/en/20200324-coronavirus-curfews-in-senegal-and-ivory-coast-lockdown-in-south-africa
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

@@ -1,9 +1,6 @@
 # Kyrgyzstan 
 
 
-Time 2020-09-08 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-08
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,10 +25,18 @@ Time 2020-09-08
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- On 22 March, the Kyrgyz Security Council  declared emergency situation regime in the whole country (Decision 93 from 22 March 2020). On 24 March, the President declared a state of emergency in the cities of Bishkek, Osh, Jalal-Abad and the Nookat and Kara-Suu districts of the Osh region and the Suzak district of the Jalal-Abad region from 25 March.
+ On 22 March, the Kyrgyz Security Council  declared emergency situation regime in the whole country (Decision 93 from 22 March 2020) which is in place at the time of coding. On 24 March, the President declared a state of emergency in the cities of Bishkek, Osh, Jalal-Abad and the Nookat and Kara-Suu districts of the Osh region and the Suzak district of the Jalal-Abad region from 25 March that ended on 10 May. The capital Bishkek was under a state of emergency from 9 to 16 October following unrest after presidential elections (not part of the emergency response).
 
 Note that although other sources refer to the emergency regime in the whole country as "state of emergency" (ICNL, International IDEA), here it is coded as emergency situation regime ( Art. 2 (4) ("chrezvychaynaya situatsiya") of the Law on Civil Protection from 24 May 2018)) and not as state of emergency (Constitutional law on states of emergency)
  
@@ -49,6 +54,8 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B70
 http://cbd.minjust.gov.kg/act/view/ru-ru/111787?cl=ru-ru#:~:text=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%9A%D0%A0%20%D0%BE%D1%82%2024%20%D0%BC%D0%B0%D1%8F,%E2%84%96%2054%20%22%D0%9E%20%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B5%22&text=%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B8%D0%B9%20%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D0%B8%D1%80%D1%83%D0%B5%D1%82%20%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D1%8F%2C%20%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%B0%D1%8E%D1%89%D0%B8%D0%B5,%D0%B2%20%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B5%20%D0%B8%20%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B2%D1%80%D0%B5%D0%BC%D1%8F
 http://cbd.minjust.gov.kg/act/view/ru-ru/142/10?cl=ru-ru
 https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-central-asia-5305f172/
+https://www.garda.com/crisis24/news-alerts/387526/kyrgyzstan-president-declares-state-of-emergency-in-bishkek-october-9-update-4
+https://www.garda.com/crisis24/news-alerts/389966/kyrgyzstan-parliament-votes-to-end-state-of-emergency-october-16-update-11
 
 
 
@@ -67,10 +74,18 @@ https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-ce
 *Scale*: Character string.
 
  
-*Answer*: ZAKON KYRGYZSKOY RESPUBLIKI O Grazhdanskoy zashchite 
+*Time period: Q2*: ZAKON KYRGYZSKOY RESPUBLIKI O Grazhdanskoy zashchite
+
+ 
+*Time period: Q3*: ZAKON KYRGYZSKOY RESPUBLIKI O Grazhdanskoy zashchite
+
+ 
+*Time period: Q4*: ZAKON KYRGYZSKOY RESPUBLIKI O Grazhdanskoy zashchite
+
+ 
 
 *Comments*:
- Own translartion: Law on Civil Protection from 24 May 2018. Note on state of emergency declared in certain areas: Constitution (Article 64, Chapter 9, Point 2), konstitutsionnyy Zakon Kyrgyzskoy Respubliki „O chrezvychaynom polozhenii“, which can be translated as Constitutional law on states of emergency (Articles 3,4 and 7). 
+ Own translation: Law on Civil Protection from 24 May 2018. Note on state of emergency declared in certain areas: Constitution (Article 64, Chapter 9, Point 2), konstitutsionnyy Zakon Kyrgyzskoy Respubliki „O chrezvychaynom polozhenii“, which can be translated as Constitutional law on states of emergency (Articles 3,4 and 7). 
 
 *Sources*:
  http://cbd.minjust.gov.kg/act/view/ru-ru/111787?cl=ru-ru#:~:text=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%9A%D0%A0%20%D0%BE%D1%82%2024%20%D0%BC%D0%B0%D1%8F,%E2%84%96%2054%20%22%D0%9E%20%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B5%22&text=%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B8%D0%B9%20%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D0%B8%D1%80%D1%83%D0%B5%D1%82%20%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D1%8F%2C%20%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%B0%D1%8E%D1%89%D0%B8%D0%B5,%D0%B2%20%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B5%20%D0%B8%20%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B2%D1%80%D0%B5%D0%BC%D1%8F
@@ -96,7 +111,15 @@ http://cbd.minjust.gov.kg/act/view/ru-ru/142/10?cl=ru-ru
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-22 
+*Time period: Q2*: 2020-03-22
+
+ 
+*Time period: Q3*: 2020-03-22
+
+ 
+*Time period: Q4*: 2020-03-22
+
+ 
 
 *Comments*:
  On 22 March, the Kyrgyz Security Council declared emergency situation regime in the whole country (Decision 93 from 22 March 2020). On 24 March, the President declared a state of emergency in the cities of Bishkek, Osh, Jalal-Abad and the Nookat and Kara-Suu districts of the Osh region and the Suzak district of the Jalal-Abad region from 25 March. 
@@ -125,8 +148,15 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Emergency situation coded as still in place at the time of coding since I found no evidence that it has been lifted. OSCE report (p.162) says that "emergency situation" is in still place (the report was published on 17 July). I also found no evidence that the emergency situation has ended (e.g. local media reports that it is still in place). The state of emergency in certain areas ended on 10 May 2020. 
@@ -157,10 +187,18 @@ https://24.kg/obschestvo/163514_COVID-19v_bishkeke_kakie_ogranicheniya_po-prejne
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Emergency situation: no time limit in the decision to declare emergency situation, 30-day time limit in the announcement by the Prime Minister on the news section of the government website. No time limit in the legal framework (the Law on Civil Protection from 24 May 2018). On 9 May the President announced that emergency situation would be extended in a speech commemorating the anniversary of the end of World War II. The announcement from 10 May by the prime minister says that the emergency regime is still in place after the state of emergency in parts of the country has ended. OSCE report (p.162) says that "emergency situation" was declared for one month, was later renewed and is in place (the report was published on 17 July). I also found no evidence that the emergency situation has ended (e.g. local media reports that it is still in place). Since the official declaration of the emergency situation has no time limit (despite it being mentioned in the press statement), I coded emlimit as 0.
+ Emergency situation: no time limit in the decision to declare emergency situation, 30-day time limit in the announcement by the Prime Minister on the news section of the government website. No time limit in the legal framework (the Law on Civil Protection from 24 May 2018). On 9 May the President announced that emergency situation would be extended in a speech commemorating the anniversary of the end of World War II. The announcement from 10 May by the prime minister says that the emergency regime is still in place after the state of emergency in parts of the country has ended. OSCE report (p.162) says that "emergency situation" was declared for one month, was later renewed and is in place (the report was published on 17 July). I also found no evidence that the emergency situation has ended (e.g. local media reports that it is still in place). Since the official declaration of the emergency situation has no time limit (despite it being mentioned in the press statement), I coded emlimit as 0. According to Garda, " “On Friday, May 8, President Sooronbay Jeenbekov announced that the nationwide state of emergency currently in place due to the coronavirus disease (COVID-19) pandemic will be extended indefinitely. The state of emergency was originally introduced on Sunday, March 22.”"
 
 State of emergency (part of the country): Chapter 2, Article 13 of the Constitution: 30 days limit for the whole country, 60 days for specific territories. Can be extended for the same period.  The state of emergency was extended and ended on 10 May 2020. 
 
@@ -174,6 +212,7 @@ https://www.gov.kg/ru/post/s/premer-ministr-mukhammedkalyy-abylgaziev-soblyudeni
 https://www.gov.kg/ru/post/s/premer-ministr-mukhammedkalyy-abylgaziev-soblyudenie-rezhima-chrezvychaynoy-situatsii-trebuet-osoboy-otvetstvennosti-ot-kazhdogo-kyrgyzstantsa
 https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 https://24.kg/obschestvo/163514_COVID-19v_bishkeke_kakie_ogranicheniya_po-prejnemu_deystvuyut/
+https://www.garda.com/crisis24/news-alerts/340411/kyrgyzstan-authorities-extend-state-of-emergency-indefinitely-may-8-update-10
 
 
 
@@ -185,15 +224,22 @@ https://24.kg/obschestvo/163514_COVID-19v_bishkeke_kakie_ogranicheniya_po-prejne
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The state of emergency in certain areas ended on 10 May 2020, but not the emergency situation at the national level. 
@@ -213,7 +259,7 @@ http://www.president.kg/ru/sobytiya/16626_prezident_sooronbay_gheenbekov_9_maya_
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -223,11 +269,19 @@ http://www.president.kg/ru/sobytiya/16626_prezident_sooronbay_gheenbekov_9_maya_
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Emergency situation does not require approval by the legislature. According to the Law on Civil Protection used to declare emergency situation regime, the government is responsible for emergency measures. 
-
+ Emergency situation does not require approval by the legislature. According to the Law on Civil Protection used to declare emergency situation regime, the government is responsible for emergency measures. 
+
 Note on state of emergency (declared in certain territories, see emlaw): Chapter 2, Article 5 of the Constitution: only the legislature can impose a state of emergency in the whole country & Chapter 2, Article 6 of the Constitution: the president can impose states of emergency in specific areas immediately and without consulting the legislature. 
 
 *Sources*:
@@ -256,7 +310,15 @@ http://cbd.minjust.gov.kg/act/view/ru-ru/142/10?cl=ru-ru
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Approval of the emergency situation by the legislature is not required by law. Note on state of emergency in certain areas: the parliament approved the state of emergency in certain arreas on 24 March, although it is not required by the Constitution. 
@@ -282,24 +344,31 @@ http://cbd.minjust.gov.kg/act/view/ru-ru/142/10?cl=ru-ru
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The government declared a state of emergency in certain areas that was ratified by the legislature on 24 March and extended on 14 April. The Constitution (Chapter 74, Article 5, point 1) says that the legislature has authority to ratify or repeal presidential decrees on emergency measures (“The Jogorku Kenesh shall introduce the state of emergency in cases and in accordance with procedure envisaged in the constitutional law, shall approve or repeal Presidential decrees on this matter”). The legislature ratified and, in some cases, recommended the government to make changes on emergency measures. There were also Q&A sessions where the government reported on the implementation of the emergency measures to the legislature. According to Inter Pares, the parliament followed normal procedures with limited activities due to the pandemic.
+ The government declared a state of emergency in certain areas that was ratified by the legislature on 24 March and extended on 14 April. The Constitution (Chapter 74, Article 5, point 1) says that the legislature has authority to ratify or repeal presidential decrees on emergency measures (“The Jogorku Kenesh shall introduce the state of emergency in cases and in accordance with procedure envisaged in the constitutional law, shall approve or repeal Presidential decrees on this matter”). The legislature ratified and, in some cases, recommended the government to make changes on emergency measures. There were also Q&A sessions where the government reported on the implementation of the emergency measures to the legislature. According to Inter Pares, the parliament followed normal procedures with limited activities due to the pandemic.
  
 
 *Sources*:
- http://cbd.minjust.gov.kg/act/view/ru-ru/202913?cl=ru-ru
-https://www.constituteproject.org/constitution/Kyrgyz_Republic_2016?lang=en
-http://www.kenesh.kg/ru/news/show/9879/deputati-zhogorku-kenesha-vnesli-ryad-rekomendatsiy-v-ramkah-vvedeniya-chrezvichaynogo-polozheniya
-http://www.kenesh.kg/ru/news/show/9886/deputati-oboznachili-voprosi-sokrashteniya-negativnih-sotsialyno-ekonomicheskih-posledstviy-v-svyazi-rasprostraneniem-covid-19
-http://www.kenesh.kg/ru/news/show/10193/napravlen-na-golosovanie-zakonoproekt-o-programme-bistrogo-reagirovaniya-i-podderzhki-rashodov-v-borybe-s-pandemiey-covid-19
+ http://cbd.minjust.gov.kg/act/view/ru-ru/202913?cl=ru-ruhttps://www.constituteproject.org/constitution/Kyrgyz_Republic_2016?lang=en
+http://www.kenesh.kg/ru/news/show/9879/deputati-zhogorku-kenesha-vnesli-ryad-rekomendatsiy-v-ramkah-vvedeniya-chrezvichaynogo-polozheniya
+http://www.kenesh.kg/ru/news/show/9886/deputati-oboznachili-voprosi-sokrashteniya-negativnih-sotsialyno-ekonomicheskih-posledstviy-v-svyazi-rasprostraneniem-covid-19
+http://www.kenesh.kg/ru/news/show/10193/napravlen-na-golosovanie-zakonoproekt-o-programme-bistrogo-reagirovaniya-i-podderzhki-rashodov-v-borybe-s-pandemiey-covid-19
 https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
 
 
@@ -312,15 +381,22 @@ https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -345,8 +421,15 @@ https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -376,13 +459,25 @@ https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- State of emergency in the capital and other regions (At-Bashi district and the cities of Bishkek, Osh, and Jalal-Abad). 
+ March-June: State of emergency in the capital and other regions (At-Bashi district and the cities of Bishkek, Osh, and Jalal-Abad).
+
+July-September, October-December: stricter measures in the capital Bishkek. 
 
 *Sources*:
  https://www.garda.com/crisis24/news-alerts/340411/kyrgyzstan-authorities-extend-state-of-emergency-indefinitely-may-8-update-10
+
+https://www.meria.kg/ru/post/20244
 
 
 
@@ -406,10 +501,13 @@ https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -446,19 +544,23 @@ Time period: *Jul-Sep*: 0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No measures violating non-derogable rights found. Note that According to OSCE report, "fake news" legislature in countries that implemented such laws (including Kyrgyzstan where such measures were declared for territories under the state of emergency"  can be problematic since "there may well be a legitimate concern about the deliberate and malicious spread of disinformation, such criminal provisions are unlikely to comply with the principle of specificity of criminal law enshrined in Article 15 of the ICCPR and Article 7 of the ECHR due to the inherent vagueness and ambiguity of the term “false information”. 
+ According to Amnestry International, "On 6 April, in Karakol, Kyrgyzstan, the authorities welded shut the doors of an entire apartment block housing dozens of families, after one resident tested positive for COVID-19." This violated Article 7 of ICCPR (Freedom from torture and cruel/inhuman treatment).  The incidents were limited in number and were covered by many local media outlets, so similar cases would likely be reported in the media. Because of lack of such evidence, I coded ndrights as 1 only in March-June period. 
 
 *Sources*:
- http://www.president.kg/ru/sobytiya/ukazy/16382_podpisan_ukaz_ovvedenii_chrezvichaynogo_pologheniya_naterritorii_goroda_bishkek_kirgizskoy_respubliki
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+ https://www.amnesty.org/en/latest/news/2020/06/central-asias-covid19/
+https://www.amnesty.org/en/latest/news/2020/04/eastern-europe-and-central-asia-human-rights-must-be-protected-during-covid19-pandemic/
+https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
 
 
 
@@ -482,12 +584,20 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Coded as 0 since there are no national-level measures that limit media freedom. According to the decision to declare a state of emergency in certain areas (from 25 March until 10 May), the authorities can control media outlets to prevent the escalation of the situation. These measures are not considered in the coding since they do not apply to the whole country.
 
-The authorities also submitted a draft bill on false information, which is still at a proposal stage and is not part of emergency measures. 
+The authorities also submitted a draft bill on false information, which was adopted by the parliament but not accepted yet by the president; the law has been retured to parliament by the president on 3 August for further legislative work. 
 
 *Sources*:
  https://www.gov.kg/ru/npa/s/2347
@@ -495,6 +605,7 @@ http://www.president.kg/ru/sobytiya/ukazy/16382_podpisan_ukaz_ovvedenii_chrezvic
 http://kenesh.kg/ru/article/show/6770/na-obshtestvennoe-obsuzhdenie-s-14-maya-2020-goda-vinositsya-proekt-zakona-kirgizskoy-respubliki-o-manipulirovanii-informatsiey
 https://rsf.org/en/news/kyrgyzstan-urged-withdraw-bill-combatting-online-disinformation
 https://cpj.org/2020/06/kyrgyzstan-draft-legislation-empowers-government-to-block-false-information-online/
+https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#_ftn23
 
 
 
@@ -506,15 +617,22 @@ https://cpj.org/2020/06/kyrgyzstan-draft-legislation-empowers-government-to-bloc
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -532,15 +650,22 @@ https://cpj.org/2020/06/kyrgyzstan-draft-legislation-empowers-government-to-bloc
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -568,16 +693,19 @@ https://cpj.org/2020/06/kyrgyzstan-draft-legislation-empowers-government-to-bloc
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- I have not found any specific cases where media reporting on covid-19 found was limited. Nevertheless, the government has placed many limitations on media reporting in general.
-
+ I have not found any specific cases where media reporting on covid-19 found was limited. Nevertheless, the government has placed many limitations on media reporting in general.
+
 According to Human Rights Watch, In Kyrgyzstan, neither independent media outlets nor lawyers have been granted permits to pass police checkpoints, interfering with their ability to do their jobs"; Kyrgyzstan has " threatened criminal sanctions or opened investigations into people for spreading “false information” about the virus, including doctors concerned about inadequate protective equipment." "in Kyrgyzstan, Human Rights Watch found that the State Committee on National Security (GKNB) either posted or distributed among media outlets photographs and personal information of at least 27 people it accused of “spreading knowingly false information” about the virus. In most cases, the agency said that the person was released after apologizing to the public, but that the agency “reminds people that spreading false information provides for criminal liability." 
 
 *Sources*:
@@ -596,7 +724,7 @@ https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-respons
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -606,16 +734,19 @@ https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-respons
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- No information on limitation of media reporting on the government's response.  Nevertheless, the government has placed many limitations on media reporting in general.
-
+ No information on limitation of media reporting on the government's response.  Nevertheless, the government has placed many limitations on media reporting in general.
+
 According to Human Rights Watch, In Kyrgyzstan, neither independent media outlets nor lawyers have been granted permits to pass police checkpoints, interfering with their ability to do their jobs"; Kyrgyzstan has " threatened criminal sanctions or opened investigations into people for spreading “false information” about the virus, including doctors concerned about inadequate protective equipment." "in Kyrgyzstan, Human Rights Watch found that the State Committee on National Security (GKNB) either posted or distributed among media outlets photographs and personal information of at least 27 people it accused of “spreading knowingly false information” about the virus. In most cases, the agency said that the person was released after apologizing to the public, but that the agency “reminds people that spreading false information provides for criminal liability." 
 
 *Sources*:
@@ -641,10 +772,13 @@ According to Human Rights Watch, In Kyrgyzstan, neither independent media outlet
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -672,26 +806,30 @@ https://ipi.media/covid19-media-freedom-monitoring/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
- Indepedent media were not given accreditation during the state of emergency (declared in certain territories) and were not allowed to pass policy check points, limiting their ability to report on the government response. According to IPI: "Authorities in Kyrgyzstan have excluded 20 different independent media outlets from receiving special press passes which allow them exemption from lockdown rules, giving them instead only to state-run media."
+ Indepedent media were not given accreditation during the state of emergency (declared in certain territories) and were not allowed to pass policy check points, limiting their ability to report on the government response. According to IPI: "Authorities in Kyrgyzstan have excluded 20 different independent media outlets from receiving special press passes which allow them exemption from lockdown rules, giving them instead only to state-run media." According to a report by Library of Congress, "Only a limited number of state TV crews were allowed to report from the field, and the government has become the only source of news on the pandemic."
 
 According to Amnesty International report, health workers were silenced and received threats after speaking to the media. 
 
-The restrictive measures for journalists applied only for the duration of the state of emergency in certain territories that ended on 10 May, while the silencing of health workers is reported for both time periods. Meinf is therefore coded as 2 during March-June and as 1 during July-September. 
+The restrictive measures for journalists applied only for the duration of the state of emergency in certain territories that ended on 10 May, while the silencing of health workers is also reported in July. Since I found no evidence that threats towards health workers have stopped, meinf is coded as 2 for all time periods. 
 
 *Sources*:
  https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
+https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#V
 https://ipi.media/covid19-media-freedom-monitoring/
 https://www.amnesty.org/en/latest/news/2020/09/kyrgyzstan-medics-suffer-rights-violations-pay-high-personal-price-during-covid19-pandemic/
 
@@ -715,10 +853,13 @@ https://www.amnesty.org/en/latest/news/2020/09/kyrgyzstan-medics-suffer-rights-v
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -751,10 +892,13 @@ https://rsf.org/en/kyrgyzstan
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -790,10 +934,13 @@ https://cpj.org/2020/05/ramadan-poses-challenges-for-imprisoned-journalist/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -828,15 +975,18 @@ https://rsf.org/en/kyrgyzstan
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- On 6 April 2020 the authorities welded doors shut in an apartment block after one of the residents tested positive for covid-19.  Since it was one incident and I have not found any further information on police violence, pomviol is coded as 1 only during March-June 2020. 
+ No instances of police violence found since 11 March 2020. 
 
 *Sources*:
  https://www.amnesty.org/en/latest/news/2020/06/central-asias-covid19/
@@ -853,7 +1003,7 @@ https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -863,42 +1013,19 @@ https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- The military was involved in monitoring curfew compliances in territories under the state of emergency. Since the state of emergency in certain territories ended on 10 May, milinv is coded as 1 only during March-June 2020 period. 
+ The military was involved in monitoring curfew compliances in territories under the state of emergency. Since the state of emergency in certain territories ended on 10 May, milinv is coded as 1 only during March-June 2020 period. No information on the military's involvement in implementing confinement measures found since June 2020. 
 
 *Sources*:
  http://cbd.minjust.gov.kg/act/view/ru-ru/200510
 https://mil.gov.kg/ob-obespechenii-pitaniem-sutochnyh-naryadov-blokpostov/
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

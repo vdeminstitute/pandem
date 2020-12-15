@@ -1,9 +1,6 @@
 # Egypt 
 
 
-Time 2020-06-20 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-06-20
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,24 +25,34 @@ Time 2020-06-20
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Egypt has been under a nationwide state of emergency since April 2017. It was extended for the 12th time on 28 April 2020 due to the Covid-19 pandemic. On 22 April 2020, amendments were made to the 1958 Emergency Law (No. 162/1958) which gives sweeping powers to the president and security agencies. 
-
-It has been extended every three months, at six month intervals to avoid violating the constitution. 
+ Egypt has been under a nationwide state of emergency since April 2017. It was extended for the 12th time on 28 April 2020 due to the Covid-19 pandemic. On 22 April 2020, amendments were made to the 1958 Emergency Law (No. 162/1958) which gives sweeping powers to the president and security agencies. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/07/egypt-covid-19-cover-new-repressive-powers
-
-https://www.atlanticcouncil.org/blogs/menasource/the-state-of-emergency-in-egypt-an-exception-or-rule/
-
-https://www.elwatannews.com/news/details/4706149
-
+ https://www.hrw.org/news/2020/05/07/egypt-covid-19-cover-new-repressive-powers
+
+https://www.atlanticcouncil.org/blogs/menasource/the-state-of-emergency-in-egypt-an-exception-or-rule/
+
+https://www.elwatannews.com/news/details/4706149
+
 https://english.aawsat.com//home/article/2243166/egypt-give-president-extensive-powers-during-coronavirus-outbreak
-
-
+
+
 https://www.constituteproject.org/constitution/Egypt_2014.pdf
+
+https://www.alkarama.org/sites/default/files/2016-12/Law%20162%20of%201958%20Emergency%20Law%20%28AR%29.pdf
+
+https://verfassungsblog.de/emergency-law-amendments-to-fight-covid-19-in-egypt-putting-the-poison-in-the-honey/
 
 
 
@@ -64,8 +71,15 @@ https://www.constituteproject.org/constitution/Egypt_2014.pdf
 *Scale*: Character string.
 
  
+*Time period: Q2*: The Emergency Law no. 162/1958
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: The Emergency Law no. 162/1958
+
+ 
+*Time period: Q4*: The Emergency Law no. 162/1958
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -90,14 +104,26 @@ https://www.constituteproject.org/constitution/Egypt_2014.pdf
 *Scale*: Date format.
 
  
+*Time period: Q2*: 2020-04-28
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 2020-04-28
+
+ 
+*Time period: Q4*: 2020-07-28
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://egyptindependent.com/president-sisi-extends-egypts-state-of-emergency-by-3-months/
+https://www.hrw.org/news/2020/05/07/egypt-covid-19-cover-new-repressive-powers
+https://www.middleeastmonitor.com/20200721-egypt-extends-state-of-emergency-for-13th-time/
+https://sis.gov.eg/Story/149199/House-approves-extending-state-of-emergency-for-3-months-as-of-July-27?lang=en-us
+
+https://egyptindependent.com/president-sisi-extends-egypts-state-of-emergency-by-3-months-2/
 
 
 
@@ -116,26 +142,26 @@ https://www.constituteproject.org/constitution/Egypt_2014.pdf
 *Scale*: Date format.
 
  
+*Time period: Q2*: 2020-07-28
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 2020-07-28
+
+ 
+*Time period: Q4*: 2021-01-28
+
+ 
 
 *Comments*:
- The emergency law has been extended and is still being used. It was extended by three months on 28 April 2020.
-
-The emergeny law was extended again for the 13th time since 2017. It was extended for three months, effective from 27 July 2020. 
+ The emergency law has been extended and is still being used. It was extended by three months on 28 April 2020.The emergeny law was extended again for the 13th time since 2017. It was extended for three months, effective from 27 July 2020. 
 
 *Sources*:
  https://egyptindependent.com/president-sisi-extends-egypts-state-of-emergency-by-3-months/
-
-
-
 https://www.hrw.org/news/2020/05/07/egypt-covid-19-cover-new-repressive-powers
-
-
 https://www.middleeastmonitor.com/20200721-egypt-extends-state-of-emergency-for-13th-time/
-
-
 https://sis.gov.eg/Story/149199/House-approves-extending-state-of-emergency-for-3-months-as-of-July-27?lang=en-us
+
+https://egyptindependent.com/president-sisi-extends-egypts-state-of-emergency-by-3-months-2/
 
 
 
@@ -157,17 +183,31 @@ https://sis.gov.eg/Story/149199/House-approves-extending-state-of-emergency-for-
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Under Art 154 of Egypt's 2014 constitution, the president with parliamentary approval can declare a state of emergency for up to three months, with three-month extensions if approved by two-thirds of parliament. In this sense, there is an officially declared time limit. However, the current 596-member parliament is tightly controlled by intelligence agencies and dominated by the al-Sisi's supporters. It has acted largely as a rubber stamp for his policies with almost no opposition. 
+ Under Art 154 of Egypt's 2014 constitution, the president with parliamentary approval can declare a state of emergency for up to three months, with three-month extensions if approved by two-thirds of parliament. In this sense, there is an officially declared time limit. However, the current 596-member parliament is tightly controlled by intelligence agencies and dominated by the al-Sisi's supporters. It has acted largely as a rubber stamp for his policies with almost no opposition.
+
+After the latest extension, the State of Emergency is to remain till 28 January 2021. 
 
 *Sources*:
  https://egyptindependent.com/president-sisi-extends-egypts-state-of-emergency-by-3-months/
-
-
-
-https://www.hrw.org/news/2020/05/07/egypt-covid-19-cover-new-repressive-powers
+
+
+
+
+
+
+https://www.hrw.org/news/2020/05/07/egypt-covid-19-cover-new-repressive-powers
+
 https://www.hrw.org/news/2020/05/07/egypt-covid-19-cover-new-repressive-powers
 
 
@@ -180,21 +220,33 @@ https://www.hrw.org/news/2020/05/07/egypt-covid-19-cover-new-repressive-powers
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 2020-07-28
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 2020-07-28
+
+ 
+*Time period: Q4*: 2021-01-28
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://egyptindependent.com/president-sisi-extends-egypts-state-of-emergency-by-3-months/
+https://www.hrw.org/news/2020/05/07/egypt-covid-19-cover-new-repressive-powers
+https://www.middleeastmonitor.com/20200721-egypt-extends-state-of-emergency-for-13th-time/
+https://sis.gov.eg/Story/149199/House-approves-extending-state-of-emergency-for-3-months-as-of-July-27?lang=en-us
+
+https://egyptindependent.com/president-sisi-extends-egypts-state-of-emergency-by-3-months-2/
 
 
 
@@ -206,7 +258,7 @@ https://www.hrw.org/news/2020/05/07/egypt-covid-19-cover-new-repressive-powers
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -216,21 +268,42 @@ https://www.hrw.org/news/2020/05/07/egypt-covid-19-cover-new-repressive-powers
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The president has the right to declare a state of emergency for a limited time of up to three months. The House of Representatives then has to approve this action. The Egyptian House of Representatives hav approved of all the extentions of the state of emergencies that have taken place since 2017. 
+ The president has the right to declare a state of emergency for a limited time of up to three months. The House of Representatives then has to approve this action. The Egyptian House of Representatives hav approved of all the extentions of the state of emergencies that have taken place since 2017.
+
+Article 154 of the Egyptian Constitution states that "In all cases, the declaration of a state of emergency must be approved by a majority
+of members of the House of Representatives. The declaration is for a specified
+period not exceeding three months, which can only be extended by another similar
+period upon the approval of two-thirds of House members. In the event the House of
+Representatives is dissolved, the matter is submitted to the new House in its first
+session." 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Egypt_2019.pdf?lang=en
 
-
-
-
-
+
+
+
+
+
+
+
+
 https://blog-iacl-aidc.org/2020-posts/2020/7/14/egypt-under-covid-19-normalizing-emergency
-
-
+
+
+
+
 https://egyptindependent.com/egypts-house-of-representatives-extends-nationwide-state-of-emergency-3-more-months/
 
 
@@ -253,7 +326,15 @@ https://egyptindependent.com/egypts-house-of-representatives-extends-nationwide-
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  The president has the right to declare a state of emergency for a limited time of up to three months. The House of Representatives then has to approve this action. The Egyptian House of Representatives hav approved of all the extentions of the state of emergencies that have taken place since 2017. 
@@ -261,14 +342,10 @@ https://egyptindependent.com/egypts-house-of-representatives-extends-nationwide-
 *Sources*:
  https://www.constituteproject.org/constitution/Egypt_2019.pdf?lang=en
 
-
-
-
-
 https://blog-iacl-aidc.org/2020-posts/2020/7/14/egypt-under-covid-19-normalizing-emergency
-
-
 https://egyptindependent.com/egypts-house-of-representatives-extends-nationwide-state-of-emergency-3-more-months/
+
+https://egyptindependent.com/president-sisi-extends-egypts-state-of-emergency-by-3-months-2/
 
 
 
@@ -288,13 +365,21 @@ https://egyptindependent.com/egypts-house-of-representatives-extends-nationwide-
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  A state of emergency has been in place for Egypt since 10 April 2017, and was  extended on 28 April 2020 for three months due to the health and security emergencies. The legislature suspended one sitting from 08 April to 29 April due to the curfew measures. On 18 April 2020, it adopted legislation granting new powers to the president to implement specific emergency response measures without being able to rule by decree. 
@@ -313,28 +398,44 @@ https://www.egypttoday.com/Article/1/84464/Egypt-s-parliament-delays-convention-
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-23 
+*Time period: Q2*: 2020-03-23
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Parliament was scheduled to meet on 29 march 2020. This session was postponed to 12 April 2020 as a precautionary measure against the virus. This session was later postponed again to 29 April 2020. 
+ Parliament was scheduled to meet on 29 march 2020. This session was postponed to 12 April 2020 as a precautionary measure against the virus. This session was later postponed again to 29 April 2020.
+
+I found no evidence suggesting that the Egyptian parliament was dissolved again. 
 
 *Sources*:
  https://www.reuters.com/article/health-coronavirus-egypt-parliament/egyptian-parliament-postpones-sessions-till-april-12-over-coronavirus-mena-idUSL8N2BG7PX
-
-
+
+
+
+
 http://english.ahram.org.eg/NewsContent/1/0/365840/Egypt/0/Egypts-parliament-postpones-plenary-meetings-until.aspx
-
-
+
+
+
+
 http://english.ahram.org.eg/NewsContent/1/64/366903/Egypt/Politics-/Egypts-parliament-postpones-plenary-meetings-until.aspx
-
-
+
+
+
+
 https://dailynewsegypt.com/2020/04/13/parliament-to-continue-session-on-29-april/
 
 
@@ -354,21 +455,37 @@ https://dailynewsegypt.com/2020/04/13/parliament-to-continue-session-on-29-april
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-29 
+*Time period: Q2*: 2020-04-29
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Parliament was scheduled to meet on 29 march 2020. This session was postponed to 12 April 2020 as a precautionary measure against the virus. This session was later postponed again to 29 April 2020. 
+ Parliament was scheduled to meet on 29 march 2020. This session was postponed to 12 April 2020 as a precautionary measure against the virus. This session was later postponed again to 29 April 2020.
+
+I found no evidence suggesting that the Egyptian parliament was dissolved again. 
 
 *Sources*:
  https://www.reuters.com/article/health-coronavirus-egypt-parliament/egyptian-parliament-postpones-sessions-till-april-12-over-coronavirus-mena-idUSL8N2BG7PX
-
-
+
+
+
+
 http://english.ahram.org.eg/NewsContent/1/0/365840/Egypt/0/Egypts-parliament-postpones-plenary-meetings-until.aspx
-
-
+
+
+
+
 http://english.ahram.org.eg/NewsContent/1/64/366903/Egypt/Politics-/Egypts-parliament-postpones-plenary-meetings-until.aspx
-
-
+
+
+
+
 https://dailynewsegypt.com/2020/04/13/parliament-to-continue-session-on-29-april/
 
 
@@ -393,15 +510,25 @@ https://dailynewsegypt.com/2020/04/13/parliament-to-continue-session-on-29-april
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  I have not found information that suggests that different parts of Egypt has varying response to the pandemic. 
 
 *Sources*:
  https://www.hrw.org/news/2020/05/07/egypt-covid-19-cover-new-repressive-powers
-
-
+
+
+
+
 https://www.atlanticcouncil.org/blogs/menasource/the-state-of-emergency-in-egypt-an-exception-or-rule/
 
 
@@ -426,10 +553,13 @@ https://www.atlanticcouncil.org/blogs/menasource/the-state-of-emergency-in-egypt
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -466,10 +596,13 @@ Time period: *Jul-Sep*: 0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -508,7 +641,15 @@ https://timep.org/reports-briefings/timep-briefs/timep-brief-right-to-due-proces
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
  Emergency measures that have been in place since 2017 do restrict media freedom in multiple ways. The restrictions include 
@@ -519,18 +660,27 @@ https://timep.org/reports-briefings/timep-briefs/timep-brief-right-to-due-proces
 5: Recently, the authorities have also warned that those who spread "false news" about the coronavirus may face up to five years imprisonment and steep fines. 
 
 *Sources*:
- https://rsf.org/en/news/egypt-new-media-law-aims-silence-independent-online-media-rsf-says
-
-https://www.reuters.com/article/us-egypt-media/new-egyptian-law-establishes-media-regulator-picked-by-president-idUSKBN14F11S
-
+ https://rsf.org/en/news/egypt-new-media-law-aims-silence-independent-online-media-rsf-says
+
+
+
+https://www.reuters.com/article/us-egypt-media/new-egyptian-law-establishes-media-regulator-picked-by-president-idUSKBN14F11S
+
+
+
 https://www.theguardian.com/world/2020/may/03/egypt-has-made-journalism-a-with-crackdown-says-amnesty-international?fbclid=IwAR2LZlj_pI3XRCnj6ac3H14mWebfB85IlxvWams4v4ttCYuk8ZSZOS8sojg
-
+
+
 https://www.constituteproject.org/constitution/Egypt_2014.pdf
-
-
+
+
+
+
 https://madamasr.com/en/2017/04/12/feature/politics/egypts-media-in-a-state-of-emergency/
-
-
+
+
+
+
 https://www.icj.org/wp-content/uploads/2018/09/Egypt-Return-to-State-of-Emergency-Advocacy-Analysis-brief-2018-ENG.pdf
 
 
@@ -543,15 +693,22 @@ https://www.icj.org/wp-content/uploads/2018/09/Egypt-Return-to-State-of-Emergenc
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -569,15 +726,22 @@ https://www.icj.org/wp-content/uploads/2018/09/Egypt-Return-to-State-of-Emergenc
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -605,15 +769,20 @@ https://www.icj.org/wp-content/uploads/2018/09/Egypt-Return-to-State-of-Emergenc
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Ruth Michaelson, a journalist with The Guardian who had been living and working in Egypt had to leave the country after she reported on research by infectious disease specialists from the University of Toronto as well as public health data and news stories that pointed to Egypt having a higher rate of coronavirus cases than reported by the government. 
+ Ruth Michaelson, a journalist with The Guardian who had been living and working in Egypt had to leave the country after she reported on research by infectious disease specialists from the University of Toronto as well as public health data and news stories that pointed to Egypt having a higher rate of coronavirus cases than reported by the government.
+
+I have not found new cases of de-facto limitations on reporting on the nature of Covid-19 in the Oct/Dec period. However given the highly controlled nature of the Egyptian press, I have continued to code this variable as 1. 
 
 *Sources*:
  https://www.theguardian.com/world/2020/mar/26/egypt-forces-guardian-journalist-leave-coronavirus-story-ruth-michaelson
@@ -635,7 +804,7 @@ https://www.cjr.org/first_person/guardian-covid-19-reporter-egypt.php
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -645,10 +814,13 @@ https://www.cjr.org/first_person/guardian-covid-19-reporter-egypt.php
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -661,7 +833,9 @@ Time period: *Jul-Sep*: 1
 
 3: Doctors and pharmacists have been arrested for speaking out against the government’s response to the virus.
 
-4: At least ten doctors and six journalists have been arrested between February and July 2020. Health workers have also been instructed to refrain from discussing the situation regarding Covid-19 with the press. The Supreme Council has also made multiple announcements threatening legal action against members of the media who report on the government's response to Covid-19 in a negative manner. 
+4: At least ten doctors and six journalists have been arrested between February and July 2020. Health workers have also been instructed to refrain from discussing the situation regarding Covid-19 with the press. The Supreme Council has also made multiple announcements threatening legal action against members of the media who report on the government's response to Covid-19 in a negative manner.
+
+I have not found new cases of de-facto limitations on reporting on the government's response to Covid-19 in the Oct/Dec period. However given the highly controlled nature of the Egyptian press, I have continued to code this variable as 1. 
 
 *Sources*:
  https://www.thehttps://www.theguardian.com/world/2020/mar/26/egypt-forces-guardian-journalist-leave-coronavirus-story-ruth-michaelson
@@ -702,10 +876,13 @@ https://apnews.com/cf9528ebff1d5dd7e3b95d467d7e9418?utm_source=piano&utm_medium=
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -738,14 +915,17 @@ https://rsf.org/en/taxonomy/term/156
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
@@ -804,10 +984,13 @@ https://www.icnl.org/covid19tracker/?location=36&issue=&date=&type=
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -843,10 +1026,13 @@ https://www.bbc.com/news/topics/c302m85q5xzt/egypt
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -880,10 +1066,13 @@ https://www.theguardian.com/world/2020/may/03/egypt-has-made-journalism-a-with-c
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -915,19 +1104,20 @@ Time period: *Jul-Sep*: 0
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
  There have been a few cases of security forces engaging in non-lethal violence.
 
-1: Egyptian police fired tear gas on 11 April 2020 to disperse a crowd of people who gathered in a village near the Nile Delta to prevent the burial of a doctor who died of coronavirus
-
-2: Police have been on the streets enforcing the curfew hours. 
+1: Egyptian police fired tear gas on 11 April 2020 to disperse a crowd of people who gathered in a village near the Nile Delta to prevent the burial of a doctor who died of coronavirus. 
 
 *Sources*:
  https://www.reuters.com/article/us-health-coronavirus-egypt/egyptian-police-disperse-villagers-who-stopped-burial-of-doctor-killed-by-coronavirus-idUSKCN21T0V5
@@ -946,7 +1136,7 @@ https://www.garda.com/crisis24/news-alerts/331661/egypt-police-disperse-crowd-wi
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -956,10 +1146,13 @@ https://www.garda.com/crisis24/news-alerts/331661/egypt-police-disperse-crowd-wi
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -973,29 +1166,3 @@ Time period: *Jul-Sep*: 0
 https://www.reuters.com/places/egypt
 
 https://www.bbc.com/news/topics/c302m85q5xzt/egypt
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

@@ -1,9 +1,6 @@
 # Lesotho 
 
 
-Time 2020-09-10 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-10
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,35 +25,60 @@ Time 2020-09-10
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
 
-*Comments*:
- Lesotho declared a state of emergency over the coronavirus pandemic retrospectively on March 28, 2020, to be in force from March 18, and then again on April 15, 2020. He had, in the meantime, prorogued the Parliament on March 19. 
-
-It is a bit unlcear what was the situation between the two declarations of state of emergency: 
-
-''...on Friday 27 March 2020, the Prime Minister pursuant to s 23(1) of the Constitution retrospectively declared a state of emergency from 18 March 2020. As shown above, since s 23(2) of the Constitution prescribes that a declaration of state of emergency automatically lapses at the expiration of 14 days from the date on which it was declared. It means that the state of emergency automatically lapsed on 8 April 2020 unless extended by Parliament....Lesotho is not the only country in the region that confers powers to the head of the executive to declare a state of emergency without parliamentary approval.''
-
-''As alluded to earlier, the Prime Minister has the power to declare the state of emergency without the approval of Parliament. However, only Parliament has the power to extend such a declaration from the initial 14 days. The problem in Lesotho is that the state of emergency was declared at a time when Parliament was prorogued. This means that there was no constitutional authority to extend the state of emergency beyond the 14 days that the Prime Minister is allowed to establish. Realizing this constitutional reality, on 15 April 2020, the Prime Minister re-declared the state of emergency from 15 April 2020 to 28 April 2020. Whilst this was legally correct under those circumstances, it does raise questions about the legal position that persisted between 8 April and 15 April 2020. Was there a state of emergency during this period? Were the things done or enforced during this period constitutionally sanctioned? The answers to some of these or other questions remain unclear and may never be found.''
-
-Constitution (1993), section 23 (1).
-23. Declaration of emergency - 1. In time of war or other public emergency which threatens the life of the nation, the Prime Minister may, acting in accordance with the advice of the Council of State, by proclamation which shall be published in the Gazette, declare that a state of emergency exists for the purposes of this Chapter.
-
-''In addition to s 23 of Constitution, Parliament has enacted statutes that enable the state to implement a state of emergency situations. Among these statutes is the Emergency Powers Act of 1988 and the Disaster Management Act 2 of 1997. Section 23 of the Constitution is read and implemented together with the Emergency Powers Act and the Disaster Management Act.''
+ 
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
+
  
 
+*Comments*:
+ rime Minister Thomas Thabane initially declared a state of emergency under 23(1) of the Constitution to prevent the spread of Covid-19 on 18 March 2020 (1). Two days after his speech adopting the state of emergency, Prime Minister Thabane issued a legal notice declaring the prorogation (temporary dissolution) of parliament from 20 March to 19 June 2020 (4). The official notice of the state of emergency was not gazetted until 27 March, in which it was stated to be made retroactive until 18 March (2). Pursuant under 23(2) of the Constitution, any declaration of state of emergency will expire automatically within 14 days without approval by the parliament for an extension of up to six months at a time (3). As such, the state of emergency would have been set to expire on 31 March 2020. According to some interpretations - the 14 day period begins with the gazette notice and thus would have ended 08 April 2020 (5). Meanwhile, on 25 March, the Prime Minister issued  a nation-wide curfew in effect from 29 March to 29 April (6).
+
+On 15 April 2020, Prime Minister Thabane issued another declaration of a state of emergency until 28 April (7). Meanwhile, the emergency restrictions from the first declaration had remained in effect, despite being expired. 
+
+On 17 April 2020, the High Court of Lesotho ruled that "the prorogation is not a blunt instrument available to a PM … to fight political battles or to frustrate parliament in the performance of its constitutional roles" (8,9). On 22 April, the Prime Minister announced an extension of the nationwide lockdown under the state of emergency and Public Health Act of 1970. These measures would remain in place until 05 May 2020 (10). 
+
+On 28 April 2020, the National Assembly of Lesotho refused to approve a six-month extension of the state of emergency, citing concerns that it could be used for political gain and encouraging the government to instead use the state of national disaster (12).
+
+On 06 May 2020, the Prime Minister issued a decree lifting the nationwide lockdown, but keeping in place several other restrictions through 19 May 2020. This decree includes reference to "the disaster induced state of emergency declared ... under section 3 and 15 of the Disaster Management Act, 1997" (11). No other document formally declaring such a state of disaster was located - but based on this we are left to assume that such a state of disaster was declared after Parliament refused to extend the state of emergency. 
+
+According to the Disaster Management Act 1997 section 2 - such a declaration of a state of disaster shall be in effect for the period specified in the declaration (15). No copy of the formal declaration in the Lesotho Gazette could be located. However, other sources indicate it was published in Legal Notice 40 of 2020, to be in effect from 29 April to 28 October 2020 (13). On 29 October, the new Prime Minister Moeketsi Majoro issued a declaration extending the state of disaster for another 6 months (until 29 April 2021). This also aligns with the initial decree being for 6 months (14). 
+
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
-(1)
-https://www.gov.ls/declaration-of-covid-19-state-of-emergency-notice-2020/
-(2)
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
-(3)
-https://lesotholii.org/ls/legislation/act/12/Public_Health_Order_1970.pdf
-(4)
-https://www.icnl.org/covid19tracker/?location=73&issue=&date=&type=
-https://www.constituteproject.org/constitution/Lesotho_2018.pdf?lang=en
+ https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+(1)
+https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+(2)
+https://www.constituteproject.org/constitution/Lesotho_2018.pdf?lang=en
+(3)
+https://lesotholii.org/ls/ParliamentProrogation.pdf
+(4)
 https://ancl-radc.org.za/node/631
+(5)
+https://www.gov.ls/wp-content/uploads/2020/03/PM-Speech-COVID-19-25032020.pdf
+(6)
+https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+(7)
+https://lesotholii.org/ls/judgment/high-court-constitutional-division/2020/1-0
+(8)
+https://africanlii.org/article/20200423/suspension-lesotho%27s-parliament-%27irrational%27%2C-%27unlawful%27-court%20
+(9)
+https://www.gov.ls/wp-content/uploads/2020/04/LEGAL-NOTICE-NO.38-2020.pdf
+(10)
+https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+(11)
+https://allafrica.com/stories/202005040976.html
+(12)
+https://www.ahrlj.up.ac.za/shale-i-2-2020
+(13)
+https://www.webbernew.com/uploads/SKM_45820110909370.pdf
+(14)
+https://www.ifrc.org/Docs/idrl/862EN.pdf
+(15)
 
 
 
@@ -75,22 +97,34 @@ https://ancl-radc.org.za/node/631
 *Scale*: Character string.
 
  
-*Answer*: Constitution (1993), section 23 (1);
-Public Health Order 1970 (3)
-Emergency Powers Act of 1988;
-Disaster Management Act 2 of 1997 
+*Time period: Q2*: Constitution (1993), section 23 (1)
+
+ 
+*Time period: Q3*: Disaster Management Act of 1997
+
+ 
+*Time period: Q4*: Disaster Management Act of 1997
+
+ 
 
 *Comments*:
- State of emergency declared through Legal Notice no. 26 of 2020 (issuance date: March 27, 2020). 
+ Prime Minister Thomas Thabane initially declared a state of emergency under 23(1) of the Constitution on 18 March (1) and again on 15 April (3). On 29 April, the Prime Minister further declared a state of disaster under the Disaster Management Act 1997, with effect from 29 April to 28 October (4,5). The state of disaster was extended from 29 October to 29 April (6). While one reference mentions the state of emergency extended by parliament for six months (until 18 October), local news reported the contrary (5,7). For this reason, to be conservative, we code the state of disaster from the 14-day expiration of the 15 April state of emergency. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Lesotho_2018.pdf?lang=en
-https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
-https://www.gov.ls/declaration-of-covid-19-state-of-emergency-notice-2020/
-https://lesotholii.org/ls/legislation/act/12/Public_Health_Order_1970.pdf
-(3)
-https://www.icnl.org/covid19tracker/?location=73&issue=&date=&type=
-https://ancl-radc.org.za/node/631
+ https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+(1)
+https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+(2)
+https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+(3)
+https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+(4)
+https://www.ahrlj.up.ac.za/shale-i-2-2020
+(5)
+https://www.webbernew.com/uploads/SKM_45820110909370.pdf
+(6)
+https://allafrica.com/stories/202005040976.html
+(7)
 
 
 
@@ -109,15 +143,34 @@ https://ancl-radc.org.za/node/631
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-18 
+*Time period: Q2*: 2020-03-18
+
+ 
+*Time period: Q3*: 2020-04-29
+
+ 
+*Time period: Q4*: 2020-04-29
+
+ 
 
 *Comments*:
-*No comment provided* 
+ Prime Minister Thomas Thabane initially declared a state of emergency under 23(1) of the Constitution on 18 March (1) and again on 15 April (3). On 29 April, the Prime Minister further declared a state of disaster under the Disaster Management Act 1997, with effect from 29 April to 28 October (4,5). The state of disaster was extended from 29 October to 29 April (6). While one reference mentions the state of emergency extended by parliament for six months (until 18 October), local news reported the contrary (5,7). For this reason, to be conservative, we code the state of disaster from the 14-day expiration of the 15 April state of emergency. 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
-https://www.gov.ls/declaration-of-covid-19-state-of-emergency-notice-2020/
-https://www.icnl.org/covid19tracker/?location=73&issue=&date=&type=
+ https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+(1)
+https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+(2)
+https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+(3)
+https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+(4)
+https://www.ahrlj.up.ac.za/shale-i-2-2020
+(5)
+https://www.webbernew.com/uploads/SKM_45820110909370.pdf
+(6)
+https://allafrica.com/stories/202005040976.html
+(7)
 
 
 
@@ -136,20 +189,34 @@ https://www.icnl.org/covid19tracker/?location=73&issue=&date=&type=
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The legislature refused to approve a measure that would have extended the state of emergency beyond the initial 14 day period allowed for in the constitution. At that time, it had been suspended by the prime minister. Later the constitutional court ruled the suspension of parliament unconstitutional. It has since been reinstated and the prime minister resigned.
-
-The state of emergency and the imposed lockdown were eased on May 5, 2020, but the government reinstated lockdown measures in late July to curb the spread of the virus in response to the rapid increase in confirmed COVID-19 cases between June and August. see legal notice no.68 of August 26, 2020. 
+ Prime Minister Thomas Thabane initially declared a state of emergency under 23(1) of the Constitution on 18 March (1) and again on 15 April (3). On 29 April, the Prime Minister further declared a state of disaster under the Disaster Management Act 1997, with effect from 29 April to 28 October (4,5). The state of disaster was extended from 29 October to 29 April (6). While one reference mentions the state of emergency extended by parliament for six months (until 18 October), local news reported the contrary (5,7). For this reason, to be conservative, we code the state of disaster from the 14-day expiration of the 15 April state of emergency. Because the state of disaster begins as the state of emergency ends, we do not code the emergency measures as ending despite a change in legal instrument mid-quarter. 
 
 *Sources*:
- https://fews.net/es/southern-africa/lesotho/remote-monitoring-report/august-2020
-https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
-https://allafrica.com/stories/202005040976.html
-
+ https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+(1)
+https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+(2)
+https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+(3)
+https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+(4)
+https://www.ahrlj.up.ac.za/shale-i-2-2020
+(5)
+https://www.webbernew.com/uploads/SKM_45820110909370.pdf
+(6)
+https://allafrica.com/stories/202005040976.html
+(7)
 
 
 
@@ -171,17 +238,40 @@ https://allafrica.com/stories/202005040976.html
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The Constitution of Lesotho limits a state of emergency to 14 days, unless authorized by the legislature, which may allow for a period of no more than six-months. The legislature refused to approve a measure that would have extended the state of emergency beyond the initial 14 day period allowed for in the constitution. At that time, it had been suspended by the prime minister. Later the constitutional court ruled the suspension of parliament unconstitutional. It has since been reinstated and the prime minister resigned. 
+ Pursuant under 23(2) of the Constitution, any declaration of state of emergency will expire automatically within 14 days without approval by the parliament for an extension of up to six months at a time (8). While one reference mentions the state of emergency extended by parliament for six months (until 18 October), local news reported the contrary (5,7). For this reason, to be conservative, we code the state of disaster from the 14-day expiration of the 15 April state of emergency. 
+
+According to the Disaster Management Act 1997 section 2 - such a declaration of a state of disaster shall be in effect for the period specified in the declaration (9). No copy of the formal declaration in the Lesotho Gazette could be located. However, other sources indicate it was published in Legal Notice 40 of 2020, to be in effect from 29 April to 28 October 2020 (5). On 29 October, the new Prime Minister Moeketsi Majoro issued a declaration extending the state of disaster for another 6 months until 29 April 2021 (6). This also aligns with the initial decree being for 6 months. 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
-https://allafrica.com/stories/202005040976.html
-http://harvestfm.co.ls/article.aspx?id=13052&h=Lesotho-declared-State-of-Emergency-over-the-spread-of-coronavirus
+ https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+(1)
+https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+(2)
+https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+(3)
+https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+(4)
+https://www.ahrlj.up.ac.za/shale-i-2-2020
+(5)
+https://www.webbernew.com/uploads/SKM_45820110909370.pdf
+(6)
+https://allafrica.com/stories/202005040976.html
+(7)
 https://www.constituteproject.org/constitution/Lesotho_2018.pdf?lang=en
+(8)
+https://www.ifrc.org/Docs/idrl/862EN.pdf
+(9)
 
 
 
@@ -193,21 +283,47 @@ https://www.constituteproject.org/constitution/Lesotho_2018.pdf?lang=en
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-05 
+*Time period: Q2*: 2020-04-28
+
+ 
+*Time period: Q3*: 2020-10-28
+
+ 
+*Time period: Q4*: 2021-04-29
+
+ 
 
 *Comments*:
- The Constitution of Lesotho limits a state of emergency to 14 days, unless authorized by the legislature, which may allow for a period of no more than six-months. The legislature refused to approve a measure that would have extended the state of emergency beyond the initial 14 day period allowed for in the constitution. At that time, it had been suspended by the prime minister. Later the constitutional court ruled the suspension of parliament unconstitutional. It has since been reinstated and the prime minister resigned. 
+ Pursuant under 23(2) of the Constitution, any declaration of state of emergency will expire automatically within 14 days without approval by the parliament for an extension of up to six months at a time (8). While one reference mentions the state of emergency extended by parliament for six months (until 18 October), local news reported the contrary (5,7). For this reason, to be conservative, we code the state of disaster from the 14-day expiration of the 15 April state of emergency. 
+
+According to the Disaster Management Act 1997 section 2 - such a declaration of a state of disaster shall be in effect for the period specified in the declaration (9). No copy of the formal declaration in the Lesotho Gazette could be located. However, other sources indicate it was published in Legal Notice 40 of 2020, to be in effect from 29 April to 28 October 2020 (5). On 29 October, the new Prime Minister Moeketsi Majoro issued a declaration extending the state of disaster for another 6 months until 29 April 2021 (6). This also aligns with the initial decree being for 6 months. 
 
 *Sources*:
- https://allafrica.com/stories/202005040976.html
+ https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+(1)
+https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+(2)
+https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+(3)
+https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+(4)
+https://www.ahrlj.up.ac.za/shale-i-2-2020
+(5)
+https://www.webbernew.com/uploads/SKM_45820110909370.pdf
+(6)
+https://allafrica.com/stories/202005040976.html
+(7)
 https://www.constituteproject.org/constitution/Lesotho_2018.pdf?lang=en
+(8)
+https://www.ifrc.org/Docs/idrl/862EN.pdf
+(9)
 
 
 
@@ -219,7 +335,7 @@ https://www.constituteproject.org/constitution/Lesotho_2018.pdf?lang=en
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -229,19 +345,36 @@ https://www.constituteproject.org/constitution/Lesotho_2018.pdf?lang=en
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The Prime Minister can declare a state of emergency without the legislature's approval, but the extension of the state of emergency needs to be approved by Parliament (therefore coded as 1).
-
-''...the Prime Minister has the power to declare the state of emergency without the approval of Parliament. However, only Parliament has the power to extend such a declaration from the initial 14 days.'' (1) 
+ Pursuant under 23(2) of the Constitution, any declaration of state of emergency will expire automatically within 14 days without approval by the parliament for an extension of up to six months at a time (7). While one reference mentions the state of emergency extended by parliament for six months (until 18 October), local news reported the contrary (4.6). For this reason, to be conservative, we code the state of disaster from the 14-day expiration of the 15 April state of emergency. According to the Disaster Management Act 1997 section 2 - such a declaration of a state of disaster shall be in effect for the period specified in the declaration, without requirement of parliamentary approval (8). 
 
 *Sources*:
- https://ancl-radc.org.za/node/631
+ https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
 (1)
-
-https://www.constituteproject.org/constitution/Lesotho_2018.pdf?lang=en
-https://www.aljazeera.com/news/2020/04/fire-lesotho-pm-deploys-army-streets-restore-order-200418122720308.html
+https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+(2)
+https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+(3)
+https://www.ahrlj.up.ac.za/shale-i-2-2020
+(4)
+https://www.webbernew.com/uploads/SKM_45820110909370.pdf
+(5)
+https://allafrica.com/stories/202005040976.html
+(6)
+https://www.constituteproject.org/constitution/Lesotho_2018.pdf?lang=en
+(7)
+https://www.ifrc.org/Docs/idrl/862EN.pdf
+(8)
 
 
 
@@ -263,15 +396,36 @@ https://www.aljazeera.com/news/2020/04/fire-lesotho-pm-deploys-army-streets-rest
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The Parliament had been prorogued (March 19, 2020) in the initial declaration of the state of emergency (retrospectively on March 28, 2020, to be in force from March 18). In the second declaration of the state of emergency on April 15, 2020 the Parliament properly approved the extension, since the Constitutional court had ruled the suspension unconstitutional. 
+ Pursuant under 23(2) of the Constitution, any declaration of state of emergency will expire automatically within 14 days without approval by the parliament for an extension of up to six months at a time (7). While one reference mentions the state of emergency extended by parliament for six months (until 18 October), local news reported the contrary (4.6). For this reason, to be conservative, we code the state of disaster from the 14-day expiration of the 15 April state of emergency. According to the Disaster Management Act 1997 section 2 - such a declaration of a state of disaster shall be in effect for the period specified in the declaration, without requirement of parliamentary approval (8). 
 
 *Sources*:
- https://ancl-radc.org.za/node/631
-https://africanlii.org/article/20200423/suspension-lesotho%27s-parliament-%27irrational%27%2C-%27unlawful%27-court
-https://www.aljazeera.com/news/2020/04/fire-lesotho-pm-deploys-army-streets-restore-order-200418122720308.html
+ https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+(1)
+https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+(2)
+https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+(3)
+https://www.ahrlj.up.ac.za/shale-i-2-2020
+(4)
+https://www.webbernew.com/uploads/SKM_45820110909370.pdf
+(5)
+https://allafrica.com/stories/202005040976.html
+(6)
+https://www.constituteproject.org/constitution/Lesotho_2018.pdf?lang=en
+(7)
+https://www.ifrc.org/Docs/idrl/862EN.pdf
+(8)
 
 
 
@@ -291,37 +445,40 @@ https://www.aljazeera.com/news/2020/04/fire-lesotho-pm-deploys-army-streets-rest
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 3 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- The Prime Minister prorogued (suspended) the legislature for three months on 20 March 2020. However, on 20 April 2020, the Constitutional Court rejected this decision and ordered the legislature to reopen. Subsequently, the embattled Prime Minister resigned. In addition, the Parliament has continued to work despite the suspension (2)
+ Prime Minister Thomas Thabane initially declared a state of emergency under 23(1) of the Constitution to prevent the spread of Covid-19 on 18 March 2020 (1). Two days after his speech adopting the state of emergency, Prime Minister Thabane issued a legal notice declaring the prorogation (temporary dissolution) of parliament from 20 March to 19 June 2020 (2). On 17 April 2020, the High Court of Lesotho ruled that "the prorogation is not a blunt instrument available to a PM … to fight political battles or to frustrate parliament in the performance of its constitutional roles" (3,4). It immediately reinstated the parliament. Therefore - for the Mar-Jun period, we code the legislature as having been dissolved (4) because it was unable to function for part of the coding period. Media sources indicate that when legislators arrived after the prorogue decree - police escorted them from the assembly (6). 
 
-''Lesotho's Prime Minister, Thomas Thabane, on Friday 20 March 2020 issued a legal notice proclaiming that he had prorogued parliament.''
-
-''Legal Notice 21 of 2020 contained a decision by the Prime Minister in terms of s 91(3) of the Constitution to prorogue Parliament from 20 March to 19 June 2020. The decision of the Prime Minister to prorogue Parliament was based on s 83 read together with s 91 of the Constitution. The decision was challenged and set aside in All Basotho Convention v The Prime Minister on the basis that it was irrational.''
- 
+Under the Disaster Management Act 1997 - the government has a list of specified emergency powers that are narrowly defined to the disaster itself (5). 
 
 *Sources*:
- https://africanlii.org/article/20200423/suspension-lesotho%27s-parliament-%27irrational%27%2C-%27unlawful%27-court
+ https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
 (1)
-
-https://allafrica.com/stories/202005040976.html
+https://lesotholii.org/ls/ParliamentProrogation.pdf
 (2)
-
-https://ancl-radc.org.za/node/631
-https://maserumetro.com/news/news/prime-minister-thabane-suspends-parliament/
-https://www.abc.net.au/news/2020-04-19/lesothos-embattled-pm-thabane-deploys-army-to-streets/12162308
-https://www.aljazeera.com/news/2020/04/fire-lesotho-pm-deploys-army-streets-restore-order-200418122720308.html
-https://www.aljazeera.com/news/2020/05/lesotho-coalition-government-pm-thomas-thabane-collapses-200511121128429.html
-https://africa.cgtn.com/2020/05/22/lesotho-swears-in-a-new-cabinet-a-day-after-new-pm/
-https://www.dailymaverick.co.za/article/2020-04-20-lesotho-government-agrees-to-allow-prime-minister-tom-thabane-a-dignified-exit/#gsc.tab=0
-
+https://lesotholii.org/ls/judgment/high-court-constitutional-division/2020/1-0
+(3)
+https://africanlii.org/article/20200423/suspension-lesotho%27s-parliament-%27irrational%27%2C-%27unlawful%27-court%20
+(4)
+https://www.ifrc.org/Docs/idrl/862EN.pdf
+(5)
+https://africanlii.org/article/20200423/suspension-lesotho%27s-parliament-%27irrational%27%2C-%27unlawful%27-court
+(6)
 
 
 
@@ -333,21 +490,35 @@ https://www.dailymaverick.co.za/article/2020-04-20-lesotho-government-agrees-to-
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 2020-03-20
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
-*No comment provided* 
+ Prime Minister Thomas Thabane initially declared a state of emergency under 23(1) of the Constitution to prevent the spread of Covid-19 on 18 March 2020 (1). Two days after his speech adopting the state of emergency, Prime Minister Thabane issued a legal notice declaring the prorogation (temporary dissolution) of parliament from 20 March to 19 June 2020 (2). On 17 April 2020, the High Court of Lesotho ruled that "the prorogation is not a blunt instrument available to a PM … to fight political battles or to frustrate parliament in the performance of its constitutional roles" (3,4). It immediately reinstated the parliament. 
 
 *Sources*:
-*No source provided*
+ https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+(1)
+https://lesotholii.org/ls/ParliamentProrogation.pdf
+(2)
+https://lesotholii.org/ls/judgment/high-court-constitutional-division/2020/1-0
+(3)
+https://africanlii.org/article/20200423/suspension-lesotho%27s-parliament-%27irrational%27%2C-%27unlawful%27-court%20
+(4)
 
 
 
@@ -366,14 +537,28 @@ https://www.dailymaverick.co.za/article/2020-04-20-lesotho-government-agrees-to-
 *Scale*: Date format.
 
  
+*Time period: Q2*: 2020-04-17
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
-*No comment provided* 
+ Prime Minister Thomas Thabane initially declared a state of emergency under 23(1) of the Constitution to prevent the spread of Covid-19 on 18 March 2020 (1). Two days after his speech adopting the state of emergency, Prime Minister Thabane issued a legal notice declaring the prorogation (temporary dissolution) of parliament from 20 March to 19 June 2020 (2). On 17 April 2020, the High Court of Lesotho ruled that "the prorogation is not a blunt instrument available to a PM … to fight political battles or to frustrate parliament in the performance of its constitutional roles" (3,4). It immediately reinstated the parliament. 
 
 *Sources*:
-*No source provided*
+ https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+(1)
+https://lesotholii.org/ls/ParliamentProrogation.pdf
+(2)
+https://lesotholii.org/ls/judgment/high-court-constitutional-division/2020/1-0
+(3)
+https://africanlii.org/article/20200423/suspension-lesotho%27s-parliament-%27irrational%27%2C-%27unlawful%27-court%20
+(4)
 
 
 
@@ -397,24 +582,28 @@ https://www.dailymaverick.co.za/article/2020-04-20-lesotho-government-agrees-to-
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
 
-*Comments*:
- There was a nationwide state of emergency established. After it was lifted, some new measures came again into force. Those are countrywide as well.
-''In response to the rapid increase in confirmed COVID-19 cases between June and August, the government reinstated lockdown measures in late July to curb the spread of the virus.'' (1, 2).
-''Authorities in Lesotho have reinstated lockdown measures July 20 in response to the increasing number of coronavirus disease (COVID-19) cases. Authorities have established a five-stage system based on the severity of the COVID-19 pandemic in the country, which informs the measures and restrictions implemented. Due to the increase in COVID-19 cases, authorities have escalated Lesotho to stage four. ''(3)
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
  
 
+*Comments*:
+ Both the state of emergency and subsequent state of disaster apply to the entire territory. 
+
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
-(1)
-https://fews.net/es/southern-africa/lesotho/remote-monitoring-report/august-2020
-(2)
-https://www.worldaware.com/covid-19-alert-lesotho-reinstates-lockdown-measures-july-20
-(3)
-https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
-https://www.gov.ls/declaration-of-covid-19-state-of-emergency-notice-2020/
+ https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+(1)
 https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+(2)
+https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+(3)
+https://www.webbernew.com/uploads/SKM_45820110909370.pdf
+(4)
 
 
 
@@ -438,10 +627,13 @@ https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -449,12 +641,13 @@ Time period: *Jul-Sep*: 0
  No discrimination based on these rights. 
 
 *Sources*:
- http://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110076/136761/F-581418260/LSO110076.pdf
-https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
-https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
-https://www.garda.com/crisis24/news-alerts/327786/lesotho-authorities-announce-lockdown-and-entry-restrictions-due-to-covid-19-effective-march-30
+ http://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110076/136761/F-581418260/LSO110076.pdf
+https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
+https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+https://www.garda.com/crisis24/news-alerts/327786/lesotho-authorities-announce-lockdown-and-entry-restrictions-due-to-covid-19-effective-march-30
 https://reports.unocha.org/en/country/southern-eastern-africa/card/OjrpqS6ae1/
+https://www.webbernew.com/uploads/SKM_45820110909370.pdf
 
 
 
@@ -483,23 +676,27 @@ https://reports.unocha.org/en/country/southern-eastern-africa/card/OjrpqS6ae1/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No violation of these rights. 
+ No discrimination based on these rights. 
 
 *Sources*:
- http://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110076/136761/F-581418260/LSO110076.pdf
-https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
-https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
-https://www.garda.com/crisis24/news-alerts/327786/lesotho-authorities-announce-lockdown-and-entry-restrictions-due-to-covid-19-effective-march-30
+ http://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110076/136761/F-581418260/LSO110076.pdf
+https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
+https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+https://www.garda.com/crisis24/news-alerts/327786/lesotho-authorities-announce-lockdown-and-entry-restrictions-due-to-covid-19-effective-march-30
 https://reports.unocha.org/en/country/southern-eastern-africa/card/OjrpqS6ae1/
+https://www.webbernew.com/uploads/SKM_45820110909370.pdf
 
 
 
@@ -523,22 +720,28 @@ https://reports.unocha.org/en/country/southern-eastern-africa/card/OjrpqS6ae1/
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Legal Notice 26 of March 28 on the state of emergency - 
-section 3 (f) members of the press shall refrain from publishing fake news; 
+ In the state of emergency declared from 18 March, it stated that "members of the press shall refrain from publishing 'fake news'". The determination of 'fake news' remains undefined (1). A copy of Legal Notice 37 which reinstated the state of emergency on 15 April could not be located online - therefore the coding is conservative to assume that it contained the same restrictions, as this acted as an extension of the prior state of emergency without legislative approval (legislature was dissolved) (2). Likewise, a copy of Legal Notice 40 of 2020 could not be located - however, Legal Notice 41 and 68 on Public Health (COVID-19) Regulations 2020 states that "no person shall publish or spread false information" under section 12(6) (3,4). We code this conservatively, assuming that the Public Health (COVID-19) Regulations 2020 reissued in October 2020 also contain the same regulation (unable to locate a this time). 
 
 *Sources*:
- https://www.gov.ls/document-category/legal-documents/
+ https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+(1)
+https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+(2)
 https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
-(2)
+(3)
 https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
-(3)
-http://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110076/136761/F-581418260/LSO110076.pdf
-
-https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
-https://ancl-radc.org.za/node/631
+(4)
 
 
 
@@ -550,29 +753,35 @@ https://ancl-radc.org.za/node/631
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-18 
+*Time period: Q2*: 2020-03-18
 
-*Comments*:
- Started with the declaration of the state of emergency and the impositon of the lockdown.
+ 
+*Time period: Q3*: 2020-03-18
+
+ 
+*Time period: Q4*: 2020-03-18
+
  
 
+*Comments*:
+ In the state of emergency declared from 18 March, it stated that "members of the press shall refrain from publishing 'fake news'". The determination of 'fake news' remains undefined (1). A copy of Legal Notice 37 which reinstated the state of emergency on 15 April could not be located online - therefore the coding is conservative to assume that it contained the same restrictions, as this acted as an extension of the prior state of emergency without legislative approval (legislature was dissolved) (2). Likewise, a copy of Legal Notice 40 of 2020 could not be located - however, Legal Notice 41 and 68 on Public Health (COVID-19) Regulations 2020 states that "no person shall publish or spread false information" under section 12(6) (3,4). We code this conservatively, assuming that the Public Health (COVID-19) Regulations 2020 reissued in October 2020 also contain the same regulation (unable to locate a this time). 
+
 *Sources*:
- https://www.gov.ls/document-category/legal-documents/
+ https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+(1)
+https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+(2)
 https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
-(2)
+(3)
 https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
-(3)
-http://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110076/136761/F-581418260/LSO110076.pdf
-
-https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
-https://ancl-radc.org.za/node/631
+(4)
 
 
 
@@ -584,37 +793,35 @@ https://ancl-radc.org.za/node/631
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
 
-*Comments*:
- Limits on media reporting started with the declaration of the state of emergency and the impositon of the lockdown.
-The lockdown however, along with other provisions, was eased on May 5th, 2020 (Legal Notice n.41 of 2020.05.05 - see source 2), but a clause regarding fake news was still in place under the section ''Offences and Penalties'':
-Paragraph 12, section (6): ''No person shall publish or spread fake or false information....''
-This provision continued to be in place in later revisions/updates of the covid19 measures: see legal notice no.68 of August 26, 2020 - source -3-).
+ 
+*Time period: Q4*: 
+
  
 
+*Comments*:
+ In the state of emergency declared from 18 March, it stated that "members of the press shall refrain from publishing 'fake news'". The determination of 'fake news' remains undefined (1). A copy of Legal Notice 37 which reinstated the state of emergency on 15 April could not be located online - therefore the coding is conservative to assume that it contained the same restrictions, as this acted as an extension of the prior state of emergency without legislative approval (legislature was dissolved) (2). Likewise, a copy of Legal Notice 40 of 2020 could not be located - however, Legal Notice 41 and 68 on Public Health (COVID-19) Regulations 2020 states that "no person shall publish or spread false information" under section 12(6) (3,4). We code this conservatively, assuming that the Public Health (COVID-19) Regulations 2020 reissued in October 2020 also contain the same regulation (unable to locate a this time). 
+
 *Sources*:
- https://www.gov.ls/document-category/legal-documents/
+ https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+(1)
+https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+(2)
 https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
-(2)
+(3)
 https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
-(3)
-http://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110076/136761/F-581418260/LSO110076.pdf
-
-https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
-https://allafrica.com/stories/202005040976.html
-https://www.garda.com/crisis24/news-alerts/334931/lesotho-authorities-extend-lockdown-throughout-may-5-update-1
-https://reports.unocha.org/en/country/southern-eastern-africa/card/OjrpqS6ae1/
-https://allafrica.com/stories/202005040976.html
+(4)
 
 
 
@@ -636,27 +843,28 @@ https://allafrica.com/stories/202005040976.html
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No de facto limitations or incident found, except for the de jure limitation mentioned in Legal Notice 26 of March 28, legal notice 41 and 68.
-section 3 (f) members of the press shall refrain from publishing fake news; 
+ No de facto limitations or incident found, except for the de jure limitation on "fake news" mentioned in Legal Notice 26 of March 28, legal notice 41 and 68 members of the press shall refrain from publishing fake news; 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
-(1)
+ https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+(1)
+https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+(2)
+https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+(3)
 https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
-(2)
-https://ancl-radc.org.za/node/631
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
+(4)
 
 
 
@@ -668,7 +876,7 @@ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -678,27 +886,28 @@ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No de facto limitations or incident found, except for the de jure limitation mentioned in Legal Notice 26 of March 28, legal notice 41 and 68.
-section 3 (f) members of the press shall refrain from publishing fake news; 
+ No de facto limitations or incident found, except for the de jure limitation on "fake news" mentioned in Legal Notice 26 of March 28, legal notice 41 and 68 members of the press shall refrain from publishing fake news; 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
-(1)
+ https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+(1)
+https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+(2)
+https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+(3)
 https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
-(2)
-https://ancl-radc.org.za/node/631
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
+(4)
 
 
 
@@ -720,28 +929,28 @@ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No limitations or incident found, except for the de jure limitation mentioned in Legal Notice 26 of March 28, legal notice 41 and 68.
-section 3 (f) members of the press shall refrain from publishing fake news; 
- 
+ No de facto limitations or incident found, except for the de jure limitation on "fake news" mentioned in Legal Notice 26 of March 28, legal notice 41 and 68 members of the press shall refrain from publishing fake news; 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
-(1)
+ https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+(1)
+https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+(2)
+https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+(3)
 https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
-(2)
-https://ancl-radc.org.za/node/631
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
+(4)
 
 
 
@@ -760,32 +969,32 @@ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No limitations or incident found, except for the de jure limitation mentioned in Legal Notice 26 of March 28, legal notice 41 and 68.
-section 3 (f) members of the press shall refrain from publishing fake news; 
- 
+ No de facto limitations or incident found, except for the de jure limitation on "fake news" mentioned in Legal Notice 26 of March 28, legal notice 41 and 68 members of the press shall refrain from publishing fake news; 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
-(1)
+ https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+(1)
+https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+(2)
+https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+(3)
 https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
-(2)
-https://ancl-radc.org.za/node/631
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
+(4)
 
 
 
@@ -807,10 +1016,13 @@ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -818,12 +1030,16 @@ Time period: *Jul-Sep*: 0
  No incident found. 
 
 *Sources*:
- https://rsf.org/en/lesotho
-https://ancl-radc.org.za/node/631
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://ipi.media/covid19-media-freedom-monitoring/
+ https://rsf.org/en/lesothohttps://ancl-radc.org.za/node/631
+
+https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
+
+https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+
+https://ipi.media/covid19-media-freedom-monitoring/
+
 https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
 
 
@@ -846,10 +1062,13 @@ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -857,14 +1076,17 @@ Time period: *Jul-Sep*: 0
  No incident found. 
 
 *Sources*:
- https://rsf.org/en/lesotho
-https://ancl-radc.org.za/node/631
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+ https://rsf.org/en/lesothohttps://ancl-radc.org.za/node/631
 
+https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
+
+https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+
+https://ipi.media/covid19-media-freedom-monitoring/
+
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
 
 
 
@@ -888,10 +1110,13 @@ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -899,10 +1124,14 @@ Time period: *Jul-Sep*: 0
  In agreement with WHO guidlines. 
 
 *Sources*:
- https://www.gov.ls/document-category/health/
-https://www.gov.ls/wp-content/uploads/2020/08/Risk-Determination-and-Mitigating-Measures-for-Social-Activities-1.pdf
-https://www.gov.ls/about-coronavirus-covid-19/
+ https://www.gov.ls/document-category/health/
+
+https://www.gov.ls/wp-content/uploads/2020/08/Risk-Determination-and-Mitigating-Measures-for-Social-Activities-1.pdf
+
+https://www.gov.ls/about-coronavirus-covid-19/
+
 https://www.gov.ls/national-command-centre/
+https://factcheck.afp.com/health-ministry-rejects-online-rumours-herbal-cure
 
 
 
@@ -926,18 +1155,26 @@ https://www.gov.ls/national-command-centre/
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No incident was found. The army was deployed but it was related to the political instability and not the coronavirus measures. 
+ After the government introduced initial lockdown measures in March/April 2020, several reports surfaced on social media about police brutality in enforcing the measures. Videos showed police "making citizens roll on the ground and beating them up" (1). The assistant commissioner of police issued a directive ordering police to desist such violations. No subsequent incidents related to Covid-19 are found, although there are other occasions of police and military brutality in the country during 2020 (2). 
 
 *Sources*:
- https://www.abc.net.au/news/2020-04-19/lesothos-embattled-pm-thabane-deploys-army-to-streets/12162308
+ https://monitor.civicus.org/updates/2020/10/30/police-brutality-continuing-crisis-covid-19-related-protests-documented/
+(1)
+https://www.dw.com/en/lesotho-pm-deploys-army-to-restore-order-amid-wife-murder-probe/a-53175904
+(2)
+https://ewn.co.za/2020/03/30/lesotho-lockdown-police-soldiers-accused-of-rights-violations
+(3)
 
 
 
@@ -949,7 +1186,7 @@ Time period: *Jul-Sep*: 0
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -959,48 +1196,21 @@ Time period: *Jul-Sep*: 0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Legal Notice 26 (establishing the state of emergency): 
-
-5. The Lesotho Defence Force and the Lesotho Mounted Police Service shall operationalise all the above measures upon the commencement of this Declaration.
-
-In addition, the army was deployed on April 18, to "restore peace and order", after the constitutional court's decision to rule out the Prime Minster's suspension of Parliament for three months as part of the COVID-19 lockdown. 
+ The state of emergency states "the Lesotho Defence Force and the Lesotho Mounted Police Service shall operationalist all the above measures" (1). Other available declarations for emergency measures do not mention the military's involvement and no media reports of military deploying since April 2020 (2). 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
-https://www.garda.com/crisis24/news-alerts/339401/lesotho-covid-19-lockdown-measures-eased-may-5-update-2
-https://www.abc.net.au/news/2020-04-19/lesothos-embattled-pm-thabane-deploys-army-to-streets/12162308
-
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*
+ https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+(1)
+https://www.africanews.com/2020/04/20/lesotho-deploys-military-to-combat-security-threats-covid-19-lockdown//
+(2)

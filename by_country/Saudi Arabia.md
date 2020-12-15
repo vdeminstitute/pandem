@@ -1,9 +1,6 @@
 # Saudi Arabia 
 
 
-Time 2020-09-01 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-01
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,7 +25,15 @@ Time 2020-09-01
  7. Other.
 
  
-*Answer*: 5 
+*Time period: Q2*: 5
+
+ 
+*Time period: Q3*: 5
+
+ 
+*Time period: Q4*: 5
+
+ 
 
 *Comments*:
  The Saudi government have taken many emergency measures, such as curfews, lockdowns of some areas and regions, travel bans, border closure and closing of religious and public places.
@@ -36,8 +41,8 @@ However, this has been without any declared state of emergency, and there's no r
 This is therefore coded as 5. 
 
 *Sources*:
- https://www.sciencedirect.com/science/article/pii/S1876034120304664#bib0085
-https://www.acaps.org/covid19-government-measures-dataset
+ https://www.sciencedirect.com/science/article/pii/S1876034120304664#bib0085
+https://www.acaps.org/covid19-government-measures-dataset
 https://www.garda.com/crisis24/news-alert-full-history/2vkXk5oi3DhYpxPo5/saudi-arabia-temperature-screenings-implemented-for-inbound-flights-from-china-january-23
 
 
@@ -57,8 +62,15 @@ https://www.garda.com/crisis24/news-alert-full-history/2vkXk5oi3DhYpxPo5/saudi-a
 *Scale*: Character string.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No specific legal instrument used. 
@@ -83,8 +95,15 @@ https://www.garda.com/crisis24/news-alert-full-history/2vkXk5oi3DhYpxPo5/saudi-a
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No specific legal instrument used. 
@@ -109,8 +128,15 @@ https://www.garda.com/crisis24/news-alert-full-history/2vkXk5oi3DhYpxPo5/saudi-a
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No specific legal instrument used. 
@@ -138,8 +164,15 @@ https://www.garda.com/crisis24/news-alert-full-history/2vkXk5oi3DhYpxPo5/saudi-a
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No specific legal instrument used. 
@@ -157,15 +190,22 @@ https://www.garda.com/crisis24/news-alert-full-history/2vkXk5oi3DhYpxPo5/saudi-a
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No specific legal instrument used. 
@@ -183,7 +223,7 @@ https://www.garda.com/crisis24/news-alert-full-history/2vkXk5oi3DhYpxPo5/saudi-a
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -193,8 +233,15 @@ https://www.garda.com/crisis24/news-alert-full-history/2vkXk5oi3DhYpxPo5/saudi-a
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No specific legal instrument used. 
@@ -222,8 +269,15 @@ https://www.garda.com/crisis24/news-alert-full-history/2vkXk5oi3DhYpxPo5/saudi-a
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No specific legal instrument used. 
@@ -249,13 +303,21 @@ https://www.garda.com/crisis24/news-alert-full-history/2vkXk5oi3DhYpxPo5/saudi-a
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 5 
+*Time period: Q2*: 5
+
+ 
+*Time period: Q3*: 5
+
+ 
+*Time period: Q4*: 5
+
+ 
 
 *Comments*:
  Saudi Arabia is a monarchy where the king holds absolute power. Saudi Arabias "legislature", the Consultative Assembly of Saudi Arabia, is only an advisory body and has no lawmaking role. Therefore, this is coded as 5. 
@@ -273,15 +335,22 @@ https://www.garda.com/crisis24/news-alert-full-history/2vkXk5oi3DhYpxPo5/saudi-a
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -306,8 +375,15 @@ https://www.garda.com/crisis24/news-alert-full-history/2vkXk5oi3DhYpxPo5/saudi-a
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -337,15 +413,24 @@ https://www.garda.com/crisis24/news-alert-full-history/2vkXk5oi3DhYpxPo5/saudi-a
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Saudi Arabia have imposed several nation-wide emergence measures, but also a number of regional measures, primarily specific lockdowns and curfews (or easing of these). This is therefore coded as 2, as there's some regional variation along with several measures in place for the whole country. 
+ During the first and second period, Saudi Arabia imposed several nation-wide emergence measures, but also a number of regional measures, primarily specific lockdowns and curfews (or easing of these). This is therefore coded as 2, as there's some regional variation along with several measures in place for the whole country. During the third period no variation was identified, and it is therefore coded as 0. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-https://www.garda.com/crisis24/news-alerts/340651/saudi-arabia-authorities-ease-covid-19-restrictions-in-several-districts-of-medina-may-9-update-33
+ https://www.acaps.org/covid19-government-measures-dataset
+https://www.garda.com/crisis24/news-alerts/340651/saudi-arabia-authorities-ease-covid-19-restrictions-in-several-districts-of-medina-may-9-update-33
 https://www.garda.com/crisis24/news-alerts/341441/saudi-arabia-lockdown-measures-introduced-in-baish-province-jazan-region-as-of-may-12-to-curb-the-spread-of-covid-19-update-34
+https://www.garda.com/crisis24/news-alerts/409071/saudi-arabia-covid-19-related-restrictions-remain-in-effect-nationwide-as-of-dec-5-update-44
 
 
 
@@ -369,24 +454,28 @@ https://www.garda.com/crisis24/news-alerts/341441/saudi-arabia-lockdown-measures
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 3
+*Time period: Q2*: 3
 
  
-Time period: *Jul-Sep*: 3
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
 
  
 
 *Comments*:
- The Saudi government has taken several discriminating actions toward migrant workers as part of their emergency response. For example, during April they deported thousands of Ethiopian migrant workers during the pandemic, and as the UN reports the government argued that  "Ethiopians were vulnerable to the coronavirus and they have deported some with symptoms and many without, but no testing." Consequently, the government have deported these migrant workers not because the individuals have shown infection of Covid-19, but for being part of that group. Newspaper investigations also show that since those deportations caused international critique, Saudi Arabia has been keeping an unknown but large number of migrant workers in detention centers with horrible standards and under immediate risk of spreading both Covid-19 and other diseases. This is, according to these reports, still a part of the Saudi response to fight Covid-19, and migrant workers are kept in these centers as they are still assumed to be spreaders of the disease. Saudi Arabia has thus engaged in major discrimination during both periods, and this is coded as 3. 
+ The Saudi government has taken several discriminating actions toward migrant workers as part of their emergency response. For example, during April they deported thousands of Ethiopian migrant workers during the pandemic, and as the UN reports the government argued that  "Ethiopians were vulnerable to the coronavirus and they have deported some with symptoms and many without, but no testing." Consequently, the government have deported these migrant workers not because the individuals have shown infection of Covid-19, but for being part of that group. Newspaper investigations also show that since those deportations caused international critique, Saudi Arabia has been keeping an unknown but large number of migrant workers in detention centers with horrible standards and under immediate risk of spreading both Covid-19 and other diseases. This is, according to these reports, still a part of the Saudi response to fight Covid-19, and migrant workers are kept in these centers as they are still assumed to be spreaders of the disease. Saudi Arabia has thus engaged in major discrimination during all three periods, and this is coded as 3. 
 
 *Sources*:
- https://www.uncdf.org/article/5528/ethiopian-government-on-the-forefront-of-covid-19
-https://www.amnesty.org/en/latest/campaigns/2020/04/covid19-makes-gulf-countries-abuse-of-migrant-workers-impossible-to-ignore/
-https://www.reuters.com/article/us-health-coronavirus-ethiopia-migrants/u-n-says-saudi-deportations-of-ethiopian-migrants-risks-spreading-coronavirus-idUSKCN21V1OT
-https://www.hrw.org/news/2020/08/13/yemen-houthis-kill-expel-ethiopian-migrants
-https://www.telegraph.co.uk/global-health/climate-and-people/investigation-african-migrants-left-die-saudi-arabias-hellish/
-https://www.theguardian.com/global-development/2020/aug/04/we-drink-from-the-toilet-migrants-tell-of-hellish-saudi-detention-centres
-
+ https://www.uncdf.org/article/5528/ethiopian-government-on-the-forefront-of-covid-19
+https://www.amnesty.org/en/latest/campaigns/2020/04/covid19-makes-gulf-countries-abuse-of-migrant-workers-impossible-to-ignore/
+https://www.reuters.com/article/us-health-coronavirus-ethiopia-migrants/u-n-says-saudi-deportations-of-ethiopian-migrants-risks-spreading-coronavirus-idUSKCN21V1OT
+https://www.hrw.org/news/2020/08/13/yemen-houthis-kill-expel-ethiopian-migrants
+https://www.telegraph.co.uk/global-health/climate-and-people/investigation-african-migrants-left-die-saudi-arabias-hellish/
+https://www.theguardian.com/global-development/2020/aug/04/we-drink-from-the-toilet-migrants-tell-of-hellish-saudi-detention-centres
+https://idcoalition.org/wp-content/uploads/2020/10/COVID-19-Impacts-on-Immigration-Detention-Global-Responses-2020.pdf
+https://www.amnesty.org/en/latest/news/2020/10/ethiopian-migrants-hellish-detention-in-saudi-arabia/
 
 
 
@@ -415,24 +504,28 @@ https://www.theguardian.com/global-development/2020/aug/04/we-drink-from-the-toi
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Saudi Arabia has both deported migrant workers and put large numbers of them in detention centers since April as part of their Covid-19 response, arguing that they as a group spread the disease. The treatment these people are subject to in the detention centers are clearly inhuman and cruel (a violation of a non-derogable right), and they have not been given trials or any right to appeal, possibly also violating their right as a person before the law (another non-derogable right). This is therefore coded as 1 for both periods. 
+ Saudi Arabia has both deported migrant workers and put large numbers of them in detention centers since April as part of their Covid-19 response, arguing that they as a group spread the disease. The treatment these people are subject to in the detention centers are clearly inhuman and cruel (a violation of a non-derogable right), and they have not been given trials or any right to appeal, possibly also violating their right as a person before the law (another non-derogable right). This is therefore coded as 1 for all three periods. 
 
 *Sources*:
- https://www.uncdf.org/article/5528/ethiopian-government-on-the-forefront-of-covid-19
-https://www.amnesty.org/en/latest/campaigns/2020/04/covid19-makes-gulf-countries-abuse-of-migrant-workers-impossible-to-ignore/
-https://www.reuters.com/article/us-health-coronavirus-ethiopia-migrants/u-n-says-saudi-deportations-of-ethiopian-migrants-risks-spreading-coronavirus-idUSKCN21V1OT
-https://www.hrw.org/news/2020/08/13/yemen-houthis-kill-expel-ethiopian-migrants
-https://www.telegraph.co.uk/global-health/climate-and-people/investigation-african-migrants-left-die-saudi-arabias-hellish/
-https://www.theguardian.com/global-development/2020/aug/04/we-drink-from-the-toilet-migrants-tell-of-hellish-saudi-detention-centres
-
+ https://www.uncdf.org/article/5528/ethiopian-government-on-the-forefront-of-covid-19
+https://www.amnesty.org/en/latest/campaigns/2020/04/covid19-makes-gulf-countries-abuse-of-migrant-workers-impossible-to-ignore/
+https://www.reuters.com/article/us-health-coronavirus-ethiopia-migrants/u-n-says-saudi-deportations-of-ethiopian-migrants-risks-spreading-coronavirus-idUSKCN21V1OT
+https://www.hrw.org/news/2020/08/13/yemen-houthis-kill-expel-ethiopian-migrants
+https://www.telegraph.co.uk/global-health/climate-and-people/investigation-african-migrants-left-die-saudi-arabias-hellish/
+https://www.theguardian.com/global-development/2020/aug/04/we-drink-from-the-toilet-migrants-tell-of-hellish-saudi-detention-centres
+https://idcoalition.org/wp-content/uploads/2020/10/COVID-19-Impacts-on-Immigration-Detention-Global-Responses-2020.pdf
+https://www.amnesty.org/en/latest/news/2020/10/ethiopian-migrants-hellish-detention-in-saudi-arabia/
 
 
 
@@ -456,14 +549,22 @@ https://www.theguardian.com/global-development/2020/aug/04/we-drink-from-the-toi
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  There is no reports from Reporters without Borders or International Press Institute that Saudi Arabias emergency measures have included any de jure limitations on the media going beyond those already in place before the pandemic. This is thereore coded as 0. 
 
 *Sources*:
- https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/thematique/internet?countries%5B153%5D=153
+ https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
+https://rsf.org/en/thematique/internet?countries%5B153%5D=153
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Saudi%20Arabia
 
 
@@ -476,22 +577,29 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/thematique/internet?countries%5B153%5D=153
+ https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
+https://rsf.org/en/thematique/internet?countries%5B153%5D=153
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Saudi%20Arabia
 
 
@@ -504,22 +612,29 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/thematique/internet?countries%5B153%5D=153
+ https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
+https://rsf.org/en/thematique/internet?countries%5B153%5D=153
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Saudi%20Arabia
 
 
@@ -542,19 +657,22 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- While no reports have been found on specific instances or measures of censoring or other limitations of the media reporting on Covid-19, the already existing, strong limitations on media in Saudi Arabia should constitute a significant de facto limitation on them reporting on Covid-19. This is therefore coded as 1 for both periods. 
+ While no reports have been found on specific instances or measures of censoring or other limitations of the media reporting on Covid-19, the already existing, strong limitations on media in Saudi Arabia should constitute a significant de facto limitation on them reporting on Covid-19. This is therefore coded as 1 for all three periods. 
 
 *Sources*:
- https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/thematique/internet?countries%5B153%5D=153
+ https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
+https://rsf.org/en/thematique/internet?countries%5B153%5D=153
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Saudi%20Arabia
 
 
@@ -567,7 +685,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -577,19 +695,22 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- While no reports have been found on specific instances or measures of censoring or other limitations of the media reporting on the governments response to Covid-19, the already existing, strong limitations on media in Saudi Arabia should constitute a significant de facto limitation on them reporting on Covid-19. This is therefore coded as 1 for both periods. 
+ While no reports have been found on specific instances or measures of censoring or other limitations of the media reporting on the governments response to Covid-19, the already existing, strong limitations on media in Saudi Arabia should constitute a significant de facto limitation on them reporting on Covid-19. This is therefore coded as 1 for all three periods. 
 
 *Sources*:
- https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/thematique/internet?countries%5B153%5D=153
+ https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
+https://rsf.org/en/thematique/internet?countries%5B153%5D=153
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Saudi%20Arabia
 
 
@@ -612,19 +733,22 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- While there are significant de facto limitations facing media in Saudi Arabia, no reports have been found on the government using Covid-19 as an excuse to limit non Covid-19-related news. This is therefore coded as 0 for both periods. 
+ While there are significant de facto limitations facing media in Saudi Arabia, no reports have been found on the government using Covid-19 as an excuse to limit non Covid-19-related news. This is therefore coded as 0 for all three periods. 
 
 *Sources*:
- https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/thematique/internet?countries%5B153%5D=153
+ https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
+https://rsf.org/en/thematique/internet?countries%5B153%5D=153
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Saudi%20Arabia
 
 
@@ -644,23 +768,26 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- While it is plausible that access to information is limited given the media censorship at large in Saudi Arabia, there are no specific reports found on any limitations to access to information, and this is therefore coded as 0 for both periods. 
+ While it is plausible that access to information is limited given the media censorship at large in Saudi Arabia, there are no specific reports found on any limitations to access to information, and this is therefore coded as 0 for all three periods. 
 
 *Sources*:
- https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/thematique/internet?countries%5B153%5D=153
+ https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
+https://rsf.org/en/thematique/internet?countries%5B153%5D=153
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Saudi%20Arabia
 
 
@@ -683,20 +810,22 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No evidence has been found on there being any verbal harassment of journalists reporting on Covid-19 since 11 March in Saudi Arabia.  If such harassment has occured, it has not reached Reporters without Borders and the International Press Institutes coverage of the press freedom and journalists situation in Saudi Arabia.
-This is therefore coded as 0 for both periods. 
+ No evidence has been found on there being any verbal harassment of journalists reporting on Covid-19 since 11 March in Saudi Arabia.  If such harassment has occured, it has not reached Reporters without Borders and the International Press Institutes coverage of the press freedom and journalists situation in Saudi Arabia.This is therefore coded as 0 for all three periods. 
 
 *Sources*:
- https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/thematique/internet?countries%5B153%5D=153
+ https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
+https://rsf.org/en/thematique/internet?countries%5B153%5D=153
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Saudi%20Arabia
 
 
@@ -719,19 +848,22 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No evidence has been found on there being any physical harassment of journalists reporting on Covid-19 since 11 March in Saudi Arabia (although there is substantial physical harassment of already jailed journalists in Saudi Arabia, but these occurences are not related to Covid-19).  If such harassment has occured, it has not reached Reporters without Borders and the International Press Institutes coverage of the press freedom and journalists situation in Saudi Arabia.  This is therefore coded as 0 for both periods. 
+ No evidence has been found on there being any physical harassment of journalists reporting on Covid-19 since 11 March in Saudi Arabia (although there is substantial physical harassment of already jailed journalists in Saudi Arabia, but these occurences are not related to Covid-19).  If such harassment has occured, it has not reached Reporters without Borders and the International Press Institutes coverage of the press freedom and journalists situation in Saudi Arabia.  This is therefore coded as 0 for all three periods. 
 
 *Sources*:
- https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/thematique/internet?countries%5B153%5D=153
+ https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
+https://rsf.org/en/thematique/internet?countries%5B153%5D=153
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Saudi%20Arabia
 
 
@@ -756,10 +888,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -792,18 +927,21 @@ https://www.moh.gov.sa/en/Pages/default.aspx
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Human Rights Watch nor Amnesty International has reported any violence when enforcing the emergency measures, and i have found no other indication of such violence. This is therefore coded as 0 for both periods. 
+ Neither Human Rights Watch nor Amnesty International has reported any violence when enforcing the emergency measures, and I have found no other indication of such violence. This is therefore coded as 0 for all three periods. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38555&resourceType=newsarticle&sort=date
+ https://www.amnesty.org/en/search/?country=38555&resourceType=newsarticle&sort=date
 https://www.hrw.org/news?country[]=9647
 
 
@@ -816,7 +954,7 @@ https://www.hrw.org/news?country[]=9647
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -826,42 +964,19 @@ https://www.hrw.org/news?country[]=9647
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- According to sources found on this, Saudi Arabia has not deployed the military to enforce emergency measures. This is therefore coded as 0 for both periods. 
+ According to sources found on this, Saudi Arabia has not deployed the military to enforce emergency measures. This is therefore coded as 0 for all three periods. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
+ https://www.acaps.org/covid19-government-measures-dataset
 https://themedialine.org/by-region/corona-as-security-threat-mideast-states-call-out-army/
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

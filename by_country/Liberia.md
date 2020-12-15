@@ -1,9 +1,6 @@
 # Liberia 
 
 
-Time 2020-09-03 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-03
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,24 +25,44 @@ Time 2020-09-03
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
  Initially, the government declared a national health emergency under the Public Health Law Title 33 (Chapter 14) Liberian Code of Laws Revised. On April 9, a state of emergency was declared in accordance with Articles 85, 86, 87 and 88 of the Liberian constitution. This state of emergency expired on July 21 and a revised national health emergency was announced on July 22. 
 
 *Sources*:
- https://www.emansion.gov.lr/doc/ADDRESS%20TO%20THE%20NATION.pdf
-
-https://www.constituteproject.org/constitution/Liberia_1986?lang=en
-
-https://emansion.gov.lr/doc/COVID-19%20Declaration%20of%20National%20Health%20Emergency%20-%20MoH.pdf
-
-http://extwprlegs1.fao.org/docs/pdf/lbr174510.pdf
-
-https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
-
-http://moh.gov.lr/press-release/2020/revised-covid-19-declaration-of-national-health-emergency-by-the-ministry-of-health/
-
+ https://www.emansion.gov.lr/doc/ADDRESS%20TO%20THE%20NATION.pdf
+
+
+
+https://www.constituteproject.org/constitution/Liberia_1986?lang=en
+
+
+
+https://emansion.gov.lr/doc/COVID-19%20Declaration%20of%20National%20Health%20Emergency%20-%20MoH.pdf
+
+
+
+http://extwprlegs1.fao.org/docs/pdf/lbr174510.pdf
+
+
+
+https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
+
+
+
+http://moh.gov.lr/press-release/2020/revised-covid-19-declaration-of-national-health-emergency-by-the-ministry-of-health/
+
+
+
 https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
 
 
@@ -65,24 +82,44 @@ https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
 *Scale*: Character string.
 
  
-*Answer*: Constitution of Liberia (Section 9) 
+*Time period: Q2*: Constitution of Liberia (Section 9)
+
+ 
+*Time period: Q3*: Constitution of Liberia (Section 9)
+
+ 
+*Time period: Q4*: Public Health Law Title 33 (Chapter 14)
+
+ 
 
 *Comments*:
  Initially, the government declared a national health emergency under the Public Health Law Title 33 (Chapter 14) Liberian Code of Laws Revised. On April 9, a state of emergency was declared in accordance with Articles 85, 86, 87 and 88 of the Liberian constitution. This state of emergency expired on July 21 and a revised national health emergency was announced on July 22. 
 
 *Sources*:
- https://www.emansion.gov.lr/doc/ADDRESS%20TO%20THE%20NATION.pdf
-
-https://www.constituteproject.org/constitution/Liberia_1986?lang=en
-
-https://emansion.gov.lr/doc/COVID-19%20Declaration%20of%20National%20Health%20Emergency%20-%20MoH.pdf
-
-http://extwprlegs1.fao.org/docs/pdf/lbr174510.pdf
-
-https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
-
-http://moh.gov.lr/press-release/2020/revised-covid-19-declaration-of-national-health-emergency-by-the-ministry-of-health/
-
+ https://www.emansion.gov.lr/doc/ADDRESS%20TO%20THE%20NATION.pdf
+
+
+
+https://www.constituteproject.org/constitution/Liberia_1986?lang=en
+
+
+
+https://emansion.gov.lr/doc/COVID-19%20Declaration%20of%20National%20Health%20Emergency%20-%20MoH.pdf
+
+
+
+http://extwprlegs1.fao.org/docs/pdf/lbr174510.pdf
+
+
+
+https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
+
+
+
+http://moh.gov.lr/press-release/2020/revised-covid-19-declaration-of-national-health-emergency-by-the-ministry-of-health/
+
+
+
 https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
 
 
@@ -102,24 +139,44 @@ https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-09 
+*Time period: Q2*: 2020-04-09
+
+ 
+*Time period: Q3*: 2020-04-09
+
+ 
+*Time period: Q4*: 2020-07-22
+
+ 
 
 *Comments*:
  Initially, the government declared a national health emergency under the Public Health Law Title 33 (Chapter 14) Liberian Code of Laws Revised. On April 9, a state of emergency was declared in accordance with Articles 85, 86, 87 and 88 of the Liberian constitution. This state of emergency expired on July 21 and a revised national health emergency was announced on July 22. 
 
 *Sources*:
- https://www.emansion.gov.lr/doc/ADDRESS%20TO%20THE%20NATION.pdf
-
-https://www.constituteproject.org/constitution/Liberia_1986?lang=en
-
-https://emansion.gov.lr/doc/COVID-19%20Declaration%20of%20National%20Health%20Emergency%20-%20MoH.pdf
-
-http://extwprlegs1.fao.org/docs/pdf/lbr174510.pdf
-
-https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
-
-http://moh.gov.lr/press-release/2020/revised-covid-19-declaration-of-national-health-emergency-by-the-ministry-of-health/
-
+ https://www.emansion.gov.lr/doc/ADDRESS%20TO%20THE%20NATION.pdf
+
+
+
+https://www.constituteproject.org/constitution/Liberia_1986?lang=en
+
+
+
+https://emansion.gov.lr/doc/COVID-19%20Declaration%20of%20National%20Health%20Emergency%20-%20MoH.pdf
+
+
+
+http://extwprlegs1.fao.org/docs/pdf/lbr174510.pdf
+
+
+
+https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
+
+
+
+http://moh.gov.lr/press-release/2020/revised-covid-19-declaration-of-national-health-emergency-by-the-ministry-of-health/
+
+
+
 https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
 
 
@@ -139,16 +196,29 @@ https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
 *Scale*: Date format.
 
  
-*Answer*: 2020-07-21 
+*Time period: Q2*: 2020-07-21
+
+ 
+*Time period: Q3*: 2020-07-21
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The state of emergency expired on July 21 and a revised national health emergency was announced on July 22. 
+ The state of emergency expired on July 21 and a revised national health emergency was announced on July 22.
+No end date for the national health emergency could be found. 
 
 *Sources*:
- https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
-
-https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
-
+ https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
+
+
+
+https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
+
+
+
 http://moh.gov.lr/press-release/2020/revised-covid-19-declaration-of-national-health-emergency-by-the-ministry-of-health/
 
 
@@ -171,16 +241,28 @@ http://moh.gov.lr/press-release/2020/revised-covid-19-declaration-of-national-he
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The state of emergency expired on July 21 and a revised national health emergency was announced on July 22. 
 
 *Sources*:
- https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
-
-https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
-
+ https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
+
+
+
+https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
+
+
+
 http://moh.gov.lr/press-release/2020/revised-covid-19-declaration-of-national-health-emergency-by-the-ministry-of-health/
 
 
@@ -193,23 +275,36 @@ http://moh.gov.lr/press-release/2020/revised-covid-19-declaration-of-national-he
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-07-21 
+*Time period: Q2*: 2020-07-21
+
+ 
+*Time period: Q3*: 2020-07-21
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The state of emergency expired on July 21 and a revised national health emergency was announced on July 22. 
+ The state of emergency expired on July 21 and a revised national health emergency was announced on July 22.
+No end date for the national health emergency could be found. 
 
 *Sources*:
- https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
-
-https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
-
+ https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
+
+
+
+https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
+
+
+
 http://moh.gov.lr/press-release/2020/revised-covid-19-declaration-of-national-health-emergency-by-the-ministry-of-health/
 
 
@@ -222,7 +317,7 @@ http://moh.gov.lr/press-release/2020/revised-covid-19-declaration-of-national-he
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -232,10 +327,18 @@ http://moh.gov.lr/press-release/2020/revised-covid-19-declaration-of-national-he
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- According to article 88 of the Liberian constitution, the legislature needs to approve the declaration of a Sate of Emergency by the President, within 72 hours, or the declaration is automatically revoked. 
+ According to article 88 of the Liberian constitution, the legislature needs to approve the declaration of a State of Emergency by the President, within 72 hours, or the declaration is automatically revoked. 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Liberia_1986?lang=en
@@ -260,14 +363,24 @@ http://moh.gov.lr/press-release/2020/revised-covid-19-declaration-of-national-he
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The legislature approved the State of Emergency declared by the president, and extended it to 60 days instead of 21. 
 
 *Sources*:
- https://allafrica.com/stories/202004180007.html
-
+ https://allafrica.com/stories/202004180007.html
+
+
+
 https://www.liberianobserver.com/news/untitled-1009/
 
 
@@ -288,20 +401,31 @@ https://www.liberianobserver.com/news/untitled-1009/
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The Liberian constitution, article 86a states that: "...Acting pursuant thereto,  the President may suspend or affect certain rights, freedoms and guarantees contained in this Constitution and exercise such other emergency powers as may be necessary and appropriate to take care of the emergency.." However, article 87a state sthat:"Emergency powers do not include the power to suspend or abrogate the Constitution [or] dissolve the Legislature...". 3.3. of the Executive Law also provides the president with the right to declare curfews or quarantines, etc. 
+ The Liberian constitution, article 86a states that: "...Acting pursuant thereto,  the President may suspend or affect certain rights, freedoms and guarantees contained in this Constitution and exercise such other emergency powers as may be necessary and appropriate to take care of the emergency.." However, article 87a states that:"Emergency powers do not include the power to suspend or abrogate the Constitution [or] dissolve the Legislature...". 3.3. of the Executive Law also provides the president with the right to declare curfews or quarantines, etc.
+The state of emergency ended on July 21. Under the public health law § 14.2. the minister of health has extended rights to deal with the emergency. The legislature is not mentioned in the public health law. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Liberia_1986?lang=en
-
+ http://www.vertic.org/media/National%20Legislation/Liberia/LR_Public%20Health%20Law%20-%20Title%2033%20-%20Liberian%20Code%20of%20Laws%20Revised.pdf
+
+https://www.constituteproject.org/constitution/Liberia_1986?lang=en
+
 http://www.liberlii.org/cgi-bin/disp.pl/lr/legis/codes/elt12lcolr429/elt12lcolr429.html?stem=0&synonyms=0&query=state%20of%20emergency
 
 
@@ -314,15 +438,22 @@ http://www.liberlii.org/cgi-bin/disp.pl/lr/legis/codes/elt12lcolr429/elt12lcolr4
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
@@ -347,8 +478,15 @@ http://www.liberlii.org/cgi-bin/disp.pl/lr/legis/codes/elt12lcolr429/elt12lcolr4
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
@@ -378,18 +516,32 @@ http://www.liberlii.org/cgi-bin/disp.pl/lr/legis/codes/elt12lcolr429/elt12lcolr4
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The measures apply to all of Liberia. During the first two weeks of the state of emergency, "residents within the borders of Montserrado County, Margibi County, Nimba County, and Grand Kru County are to STAY AT HOME". Also prior to this, the counties of Montserrado and Margibi were on lockdown for 21 days as part of the national health emergency. 
 
 *Sources*:
- https://www.emansion.gov.lr/2press.php?news_id=5159&related=7&pg=sp
-
-https://www.emansion.gov.lr/doc/ADDRESS%20TO%20THE%20NATION.pdf
-
-https://medicalxpress.com/news/2020-04-liberia-capital-virus-threat.html
-
+ https://www.emansion.gov.lr/2press.php?news_id=5159&related=7&pg=sp
+
+
+
+https://www.emansion.gov.lr/doc/ADDRESS%20TO%20THE%20NATION.pdf
+
+
+
+https://medicalxpress.com/news/2020-04-liberia-capital-virus-threat.html
+
+
+
 https://blogs.loc.gov/law/2020/05/liberia-government-measures-to-contain-the-spread-of-covid-19/
 
 
@@ -414,10 +566,13 @@ https://blogs.loc.gov/law/2020/05/liberia-government-measures-to-contain-the-spr
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -425,10 +580,14 @@ Time period: *Jul-Sep*: 0
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/africa/liberia/
-
-https://www.hrw.org/africa/liberia
-
+ https://www.amnesty.org/en/countries/africa/liberia/
+
+
+
+https://www.hrw.org/africa/liberia
+
+
+
 https://www.bbc.com/news/topics/c77jz3md70rt/liberia
 
 
@@ -458,10 +617,13 @@ https://www.bbc.com/news/topics/c77jz3md70rt/liberia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -469,11 +631,16 @@ Time period: *Jul-Sep*: 0
  No emergency measures that de-jure violate non-derogable rights as defined by the ICCPR, was found. 
 
 *Sources*:
- https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-https://www.amnesty.org/en/countries/africa/liberia/
-
-https://www.hrw.org/africa/liberia
-
+ https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
+
+https://www.amnesty.org/en/countries/africa/liberia/
+
+
+
+https://www.hrw.org/africa/liberia
+
+
+
 https://www.bbc.com/news/topics/c77jz3md70rt/liberia
 
 
@@ -498,22 +665,42 @@ https://www.bbc.com/news/topics/c77jz3md70rt/liberia
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  On April 29,  Liberia's solicitor general said that the government would shut down news outlets and seize equipment from journalists alleged to have disseminated fake news. Also, media are forced to suspend printing due to lockdown restrictions, thus limiting their reach.
 
-Also, the Liberian constitution, article 15a: "Every person shall have the right to freedom of expression ... save during an emergency declared" Article 86a: "...the President may suspend or affect certain rights, freedoms and guarantees..." But the measures themselves have been argued to explicitly target fake news and violations of lockdown. 
+Also, the Liberian constitution, article 15a: "Every person shall have the right to freedom of expression ... save during an emergency declared" Article 86a: "...the President may suspend or affect certain rights, freedoms and guarantees..." But the measures themselves have been argued to explicitly target fake news and violations of lockdown.
+
+No evidence was found that the situation has changed. 
 
 *Sources*:
- https://newspublictrust.com/solicitor-general-vows-to-crack-down-on-media-over-fake-news/
-
-https://cpj.org/2020/05/liberias-journalists-wary-as-authorities-announce/
-
-https://www.constituteproject.org/constitution/Liberia_1986?lang=en
-
-https://rsf.org/en/news/covid-19-lockdown-forces-liberias-newspapers-suspend-printing-0
-
+ https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
+
+https://newspublictrust.com/solicitor-general-vows-to-crack-down-on-media-over-fake-news/
+
+
+
+https://cpj.org/2020/05/liberias-journalists-wary-as-authorities-announce/
+
+
+
+https://www.constituteproject.org/constitution/Liberia_1986?lang=en
+
+
+
+https://rsf.org/en/news/covid-19-lockdown-forces-liberias-newspapers-suspend-printing-0
+
+
+
 https://rsf.org/en/news/liberian-official-threatens-close-media-under-state-emergency
 
 
@@ -526,29 +713,47 @@ https://rsf.org/en/news/liberian-official-threatens-close-media-under-state-emer
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-09 
+*Time period: Q2*: 2020-04-09
+
+ 
+*Time period: Q3*: 2020-04-09
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The media limitations are made under the authority of the declaration of State of Emergency (articles 85, 86, 87, and 88 of the constitution), which allows the President to "suspend or affect certain rights, freedoms and guarantees" during a State of Emergency. The date is the start date for the State of Emergency declaration (variable emstart). 
 
 *Sources*:
- https://www.emansion.gov.lr/doc/ADDRESS%20TO%20THE%20NATION.pdf
-
-https://cpj.org/2020/05/liberias-journalists-wary-as-authorities-announce/
-
-https://www.constituteproject.org/constitution/Liberia_1986?lang=en
-
-https://rsf.org/en/news/covid-19-lockdown-forces-liberias-newspapers-suspend-printing-0
-
-https://newspublictrust.com/solicitor-general-vows-to-crack-down-on-media-over-fake-news/
-
+ https://www.emansion.gov.lr/doc/ADDRESS%20TO%20THE%20NATION.pdf
+
+
+
+https://cpj.org/2020/05/liberias-journalists-wary-as-authorities-announce/
+
+
+
+https://www.constituteproject.org/constitution/Liberia_1986?lang=en
+
+
+
+https://rsf.org/en/news/covid-19-lockdown-forces-liberias-newspapers-suspend-printing-0
+
+
+
+https://newspublictrust.com/solicitor-general-vows-to-crack-down-on-media-over-fake-news/
+
+
+
 https://rsf.org/en/news/liberian-official-threatens-close-media-under-state-emergency
 
 
@@ -561,22 +766,33 @@ https://rsf.org/en/news/liberian-official-threatens-close-media-under-state-emer
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-07-21 
+*Time period: Q2*: 2020-07-21
+
+ 
+*Time period: Q3*: 2020-07-21
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The media limitations are made under the authority of the declaration of State of Emergency (articles 85, 86, 87, and 88 of the constitution), which allows the President to "suspend or affect certain rights, freedoms and guarantees" during a State of Emergency. The date is the end date for the State of Emergency declaration (variable emlimitdate). 
 
 *Sources*:
- https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
-
-https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
+ https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
+
+
+
+https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
+
 
 
 
@@ -599,18 +815,27 @@ https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
+ Several sources provided point to harassment of journalists and limits on reporting under the umbrella of "fake news" or "misinformation" back to April 2020.
+
+"In Liberia, the justice authorities have threatened to close down or seize any news organization that publishes what they consider to be false information." (1)
+ 
 
 *Sources*:
- https://cpj.org/2020/04/journalists-in-liberia-attacked-harassed-for-repor/
+ https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
+(1)
+
+https://cpj.org/2020/04/journalists-in-liberia-attacked-harassed-for-repor/
 
 
 https://monitor.civicus.org/country/liberia/#newspost-3228
@@ -627,7 +852,7 @@ https://rsf.org/en/news/liberia-urged-guarantee-access-coronavirus-information
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -637,20 +862,28 @@ https://rsf.org/en/news/liberia-urged-guarantee-access-coronavirus-information
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
  Several instances of journalists being harassed have been reported. One example is a journalist that was attacked by LDEA agents with the apparent aim of preventing him from reporting that around 100 people attended the wake in violation of a ban on large gatherings.
 
-There are further reports of journalists getting attacked and arrested, however, these instances are not connected to the reporting about Covid-19 and/or the governments response. 
+There are further reports of journalists getting attacked and arrested, however, these instances are not connected to the reporting about Covid-19 and/or the governments response.
+
+"In Liberia, the justice authorities have threatened to close down or seize any news organization that publishes what they consider to be false information." (1) 
 
 *Sources*:
- https://cpj.org/2020/04/journalists-in-liberia-attacked-harassed-for-repor/
+ https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
+(1)
+
+https://cpj.org/2020/04/journalists-in-liberia-attacked-harassed-for-repor/
 
 
 https://monitor.civicus.org/country/liberia/#newspost-3228
@@ -679,15 +912,20 @@ https://rsf.org/en/news/covid-19-lockdown-forces-liberias-newspapers-suspend-pri
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- "[On] April 29, Deputy Information Minister Eugene Fahngon told reporters that existing press passes, which journalists use to move freely amid the lockdown, would be voided and new ones issued [...]". This led to several journalist getting stopped by security officers.  Authorithies also limited the access to the president's office. 
+ "[On] April 29, Deputy Information Minister Eugene Fahngon told reporters that existing press passes, which journalists use to move freely amid the lockdown, would be voided and new ones issued [...]". (1)
+This led to several journalist getting stopped by security officers.  
+Authorithies also limited the access to the president's office. 
 
 *Sources*:
  https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
@@ -695,6 +933,8 @@ Time period: *Jul-Sep*: 1
 https://frontpageafricaonline.com/front-slider/pul-slams-micats-plan-to-issue-new-covid-19-pass-to-journalists/
 
 https://cpj.org/2020/05/liberias-journalists-wary-as-authorities-announce-/
+
+(1)
 
 https://bushchicken.com/press-union-rejects-unilateral-passes-from-information-ministry/
 
@@ -715,14 +955,17 @@ https://bushchicken.com/press-union-rejects-unilateral-passes-from-information-m
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
@@ -754,10 +997,13 @@ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -791,10 +1037,13 @@ https://cpj.org/2020/04/journalists-in-liberia-attacked-harassed-for-repor/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -832,10 +1081,13 @@ https://monitor.civicus.org/country/liberia/#newspost-3228
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -873,10 +1125,13 @@ https://frontpageafricaonline.com/front-slider/liberia-pres-weah-receives-contro
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -908,7 +1163,7 @@ https://www.ghanaweb.com/GhanaHomePage/africa/Three-Liberian-soldiers-investigat
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -918,15 +1173,18 @@ https://www.ghanaweb.com/GhanaHomePage/africa/Three-Liberian-soldiers-investigat
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- The Armed Forces of Liberia were deployed to assist with the fight against the Coronavirus. 
+ The Armed Forces of Liberia were deployed to assist with the fight against the Coronavirus. Military involvement ended on July 21. 
 
 *Sources*:
  https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
@@ -934,29 +1192,3 @@ Time period: *Jul-Sep*: 1
 https://www.bbc.com/news/topics/c77jz3md70rt/liberia
 
 https://www.garda.com/crisis24/news-alerts/362206/liberia-military-ends-covid-19-policing-deployment-as-state-of-emergency-expires-july-22-update-12
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

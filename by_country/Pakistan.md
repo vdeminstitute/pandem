@@ -1,9 +1,6 @@
 # Pakistan 
 
 
-Time 2020-06-16 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-06-16
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,15 +25,21 @@ Time 2020-06-16
  7. Other.
 
  
-*Answer*: 6 
+*Time period: Q2*: 5
+
+ 
+*Time period: Q3*: 5
+
+ 
+*Time period: Q4*: 5
+
+ 
 
 *Comments*:
  Pakistan never went into a state of emergency. The governments of the four provinces have instead declared health emergencies depending on the situation in the different areas. For example, the government of Punjab declared a health emergency on 12 March 2020. 
 
 *Sources*:
  https://www.voanews.com/covid-19-pandemic/pakistan-says-its-covid-19-cases-could-rise-12-million-end-july
-
-
 https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755241
 
 
@@ -56,16 +59,21 @@ https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755
 *Scale*: Character string.
 
  
-*Answer*: National Disaster Management Act 2010 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://www.preventionweb.net/english/professional/policies/v.php?id=32317
-
-
-http://www.ndma.gov.pk/files/NDMA-Act.pdf
+*No source provided*
 
 
 
@@ -84,17 +92,21 @@ http://www.ndma.gov.pk/files/NDMA-Act.pdf
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Pakistan never went into a state of emergency. The governments of the four provinces have instead declared health emergencies depending on the situation in the different areas. For example, the government of Punjab declared a health emergency on 12 March 2020. 
+*No comment provided* 
 
 *Sources*:
- https://www.voanews.com/covid-19-pandemic/pakistan-says-its-covid-19-cases-could-rise-12-million-end-july
-
-
-https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755241
+*No source provided*
 
 
 
@@ -113,17 +125,21 @@ https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-09 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- There is no national response (emlaw=6). However, the lockdown measures were lifted on 9 May 2020. 
+*No comment provided* 
 
 *Sources*:
- https://www.nytimes.com/2020/06/15/world/asia/pakistan-coronavirus-hospitals.html
-https://www.voanews.com/covid-19-pandemic/pakistan-says-its-covid-19-cases-could-rise-12-million-end-july
-
-
-https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755241
+*No source provided*
 
 
 
@@ -145,19 +161,21 @@ https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The lockdown measures started at different times in the different provinces but had the same end date ‚ 9 May 2020. 
+*No comment provided* 
 
 *Sources*:
- https://www.bbc.com/news/world-asia-52925286
-
-
-https://edition.cnn.com/world/live-news/coronavirus-pandemic-05-07-20-intl/h_40f5faa01713796d765f395bdbf13d70
-
-
-https://www.hrw.org/news/2020/05/19/pakistan-reopens-malls-claiming-no-covid-19-crisis
+*No source provided*
 
 
 
@@ -169,24 +187,28 @@ https://www.hrw.org/news/2020/05/19/pakistan-reopens-malls-claiming-no-covid-19-
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- There is no national response (emlaw=6) 
+*No comment provided* 
 
 *Sources*:
- https://www.voanews.com/covid-19-pandemic/pakistan-says-its-covid-19-cases-could-rise-12-million-end-july
-
-
-https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755241
+*No source provided*
 
 
 
@@ -198,7 +220,7 @@ https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -208,17 +230,21 @@ https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- There is no national response (emlaw=6) 
+*No comment provided* 
 
 *Sources*:
- https://www.voanews.com/covid-19-pandemic/pakistan-says-its-covid-19-cases-could-rise-12-million-end-july
-
-
-https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755241
+*No source provided*
 
 
 
@@ -240,17 +266,21 @@ https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- There is no national response (emlaw=6) 
+*No comment provided* 
 
 *Sources*:
- https://www.voanews.com/covid-19-pandemic/pakistan-says-its-covid-19-cases-could-rise-12-million-end-july
-
-
-https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755241
+*No source provided*
 
 
 
@@ -270,31 +300,28 @@ https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Did not find any information on the lawmaking role of the legislature being limited due to the emergency measures. 
-
-1: The military was impatient with the prime minister's initial reluctance to impose national lockdown, and deployed troops to enforce provincial-level restrictions.
-
-2: The National Assembly of Pakistan was prorogued from 15 May to 05 June 2020 by the president, without direct reference to Covid-19. It has since resumed sittings. Initially some lockdown measures were adopted at the local level, to the dismay of the Prime Minister. According to a report by Brookings - "the government has since given in to a strange mix of pandemic denialism and exceptionalism". 
+ I have not found information that suggests that the power of the national legislature has been diminished in anyway due to the emergency measures that have been employed. 
 
 *Sources*:
- https://edition.cnn.com/2020/04/25/opinions/pakistan-coronavirus-lockdown-intl-hnk/index.html
-
-
-https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-26-20-intl-hnk/h_3105cb4328f969214790f647afc89bbf
-
-
-http://na.gov.pk/en/pressrelease_detail.php?id=4043
-http://na.gov.pk/en/pressrelease_detail.php?id=4044
-https://www.brookings.edu/blog/order-from-chaos/2020/06/05/with-a-mix-of-pandemic-denialism-and-exceptionalism-pakistan-makes-a-cynical-bet-on-the-coronavirus/
+ https://www.voanews.com/covid-19-pandemic/pakistan-says-its-covid-19-cases-could-rise-12-million-end-july
+https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755241
 
 
 
@@ -306,22 +333,28 @@ https://www.brookings.edu/blog/order-from-chaos/2020/06/05/with-a-mix-of-pandemi
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-13 
+*Time period: Q2*: 2020-03-13
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
-*No comment provided* 
+ The Pakistani parliament was suspended  on 13 March 2020 due to "the scare of the novel Coronavirus". Parliament proceedings resumed on 20 April 2020. 
 
 *Sources*:
  https://www.pakistantoday.com.pk/2020/03/14/first-pakistans-parliamentary-business-suspended-due-covid-19-scare/
-
-
 https://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdf
 
 
@@ -341,15 +374,21 @@ https://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-20 
+*Time period: Q2*: 2020-04-20
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
-*No comment provided* 
+ The Pakistani parliament was suspended  on 13 March 2020 due to "the scare of the novel Coronavirus". Parliament proceedings resumed on 20 April 2020. 
 
 *Sources*:
  https://www.pakistantoday.com.pk/2020/03/14/first-pakistans-parliamentary-business-suspended-due-covid-19-scare/
-
-
 https://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdf
 
 
@@ -374,16 +413,28 @@ https://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The different regions took on emergency measures at difference points as the situations in the respective areas escalated. 
+ The different regions took on emergency measures at difference points as the situations in the respective areas escalated.
+
+However the only emergency measure that seems to be in place now are the school closures across the country from 26 November 2020 to 11 january 2021. 
 
 *Sources*:
  https://www.voanews.com/covid-19-pandemic/pakistan-says-its-covid-19-cases-could-rise-12-million-end-july
-
-
 https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755241
+
+https://www.bmj.com/content/371/bmj.m4113/rr-0
+
+https://www.reuters.com/article/health-coronavirus-pakistan-schools-idUSKBN28618X
 
 
 
@@ -407,10 +458,13 @@ https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -455,10 +509,13 @@ https://www.arabnews.pk/node/1676101/pakistan
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -498,15 +555,25 @@ https://www.arabnews.pk/node/1676101/pakistan
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Did not find info on any emergency measures de-jure limiting media freedom. 
 
 *Sources*:
  https://www.voanews.com/covid-19-pandemic/pakistan-says-its-covid-19-cases-could-rise-12-million-end-july
-
-
+
+
+
+
 https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755241
 
 
@@ -519,15 +586,22 @@ https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -545,15 +619,22 @@ https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -581,21 +662,28 @@ https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- There have been no de-facto limitations on reporting on the nature of Covid-19 in Pakistan. 
+ There have been no de-facto limitations on reporting on the nature of Covid-19 in Pakistan. However, Pakistan does have an extremely regulated press. As such, I have coded this variable as 1. 
 
 *Sources*:
  https://ipi.media/covid19-media-freedom-monitoring/
 
 
 https://rsf.org/en/pakistan
+
+https://reutersinstitute.politics.ox.ac.uk/our-research/caught-between-five-extremes-reporting-pakistan
+
+https://www.dw.com/en/matiullah-jan-critical-journalists-routinely-threatened-in-pakistan/a-54620414
 
 
 
@@ -607,7 +695,7 @@ https://rsf.org/en/pakistan
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -617,17 +705,20 @@ https://rsf.org/en/pakistan
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
  Two Pakistani journalists were beaten while in detention for three days in Pakistan's Balochistan province. They were reporting on the lack of basic necessities at a coronavirus quarantine centre in June 2020. 
 
-This coupled with the continued crackdown on press freedom and dissenting voices in Pakistan could cause the media to face continued de-facto limitations on reporting on the government’s response to the pandemic. 
+This coupled with the generally controlled press, continued crackdown on press freedom and dissenting voices in Pakistan could cause the media to face continued de-facto limitations on reporting on the government’s response to the pandemic. 
 
 *Sources*:
  https://gandhara.rferl.org/a/two-pakistani-journalists-allegedly-tortured-by-paramilitary-force-for-coronavirus-coverage/30687676.html
@@ -664,10 +755,13 @@ https://rsf.org/en/news/pakistan-surge-harassment-journalists-who-criticize-soci
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -700,14 +794,17 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/pakistan/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -743,10 +840,13 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/pakistan/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -782,17 +882,20 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/pakistan/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
  Two Pakistani journalists were beaten while in detention for three days in Pakistan's Balochistan province. They were reporting on the lack of basic necessities at a coronavirus quarantine centre in June 2020. 
 
-Even though no find specific reports of journalists being harassed were found for the Jul/Sep period, such harassment is common according to various human rights organizations. Therefore mephar is coded as 1 for Jul/Sep. 
+Even though no find specific reports of journalists being harassed were found for the Jul/Sep period, such harassment is common according to various human rights organizations. Therefore mephar is coded as 1 for Jul/Sep and for Oct/Dec. 
 
 *Sources*:
  https://gandhara.rferl.org/a/two-pakistani-journalists-allegedly-tortured-by-paramilitary-force-for-coronavirus-coverage/30687676.html
@@ -832,10 +935,13 @@ https://www.hrw.org/news/2020/09/11/pakistans-hypocrisy-press-freedom
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -867,10 +973,13 @@ Time period: *Jul-Sep*: 0
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -894,7 +1003,7 @@ https://www.thenews.com.pk/latest/642364-coronavirus-lockdown-woman-sho-wounded-
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -904,15 +1013,20 @@ https://www.thenews.com.pk/latest/642364-coronavirus-lockdown-woman-sho-wounded-
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- The military was impatient with the prime minister’s initial reluctance to impose national lockdown, and deployed troops to enforce provincial-level restrictions – forcing the government to take broader measures. 
+ The military was impatient with the prime minister’s initial reluctance to impose national lockdown, and deployed troops to enforce provincial-level restrictions – forcing the government to take broader measures.
+
+I have not found evidence suggesting that the military continues to  enforce the confinement measures. As a result, I have coded 0 for the Oct/Dec period. 
 
 *Sources*:
  https://edition.cnn.com/2020/04/25/opinions/pakistan-coronavirus-lockdown-intl-hnk/index.html
@@ -920,28 +1034,4 @@ Time period: *Jul-Sep*: 1
 
 https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-26-20-intl-hnk/h_3105cb4328f969214790f647afc89bbf
 
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*
+https://www.ft.com/content/686714d7-ae05-431d-a13d-1966153be151

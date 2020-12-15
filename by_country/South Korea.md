@@ -1,9 +1,6 @@
 # South Korea 
 
 
-Time 2020-06-23 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-06-23
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,20 +25,22 @@ Time 2020-06-23
  7. Other.
 
  
-*Answer*: 7 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- The Infectious Disease Control and Prevention Act (link in sources) is the most relevant law in effect regarding the Covid-19 outbreak in South Korea. The IDCPA provides the government with highly specific means to distribute resources and mobilize and stimulate various actors across the society to tackle the spread of covid-19. It was amended on 4 March 2020. 
+ The Infectious Disease Control and Prevention Act is the most relevant law in effect regarding the Covid-19 outbreak in South Korea. The IDCPA provides the government with highly specific means to distribute resources and mobilize and stimulate various actors across the society to tackle the spread of covid-19. It was amended on 4 March 2020. 
 
 *Sources*:
- https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
-
-https://elaw.klri.re.kr/kor_service/lawView.do?hseq=40184&lang=ENG
-
-
+ https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/https://elaw.klri.re.kr/kor_service/lawView.do?hseq=40184&lang=ENG
 https://www.loc.gov/law/help/health-emergencies/southkorea.php
-
-
 https://www.globalasia.org/v15no1/focus/south-korea-has-the-legal-infrastructure-to-fight-pandemics%3B-the-us-doesnt_brian-j-kim
 
 
@@ -61,17 +60,29 @@ https://www.globalasia.org/v15no1/focus/south-korea-has-the-legal-infrastructure
 *Scale*: Character string.
 
  
-*Answer*: The Infectioous Disease Control and Prevention Act. 
+*Time period: Q2*: The Infectious Disease Control and Prevention Act.
+
+ 
+*Time period: Q3*: The Infectious Disease Control and Prevention Act.
+
+ 
+*Time period: Q4*: The Infectious Disease Control and Prevention Act.
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
-
+ https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
+
+
+
 https://elaw.klri.re.kr/kor_service/lawView.do?hseq=40184&lang=ENG
-
-
+
+
+
+
 https://www.loc.gov/law/help/health-emergencies/southkorea.php
 
 
@@ -91,14 +102,21 @@ https://www.loc.gov/law/help/health-emergencies/southkorea.php
 *Scale*: Date format.
 
  
+*Time period: Q2*: 2020-03-04
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 2020-03-04
+
+ 
+*Time period: Q4*: 2020-03-04
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
 
 
 
@@ -117,14 +135,23 @@ https://www.loc.gov/law/help/health-emergencies/southkorea.php
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
-*No comment provided* 
+ The Infectious Disease Control and Prevention Act does not have an end date. 
 
 *Sources*:
-*No source provided*
+ https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/https://elaw.klri.re.kr/kor_service/lawView.do?hseq=40184&lang=ENG
+https://www.loc.gov/law/help/health-emergencies/southkorea.php
+https://www.globalasia.org/v15no1/focus/south-korea-has-the-legal-infrastructure-to-fight-pandemics%3B-the-us-doesnt_brian-j-kim
 
 
 
@@ -146,17 +173,24 @@ https://www.loc.gov/law/help/health-emergencies/southkorea.php
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The measures have been implemented differently in difference areas of South Korea depending on the spread of Covid-19 in different areas. The country never imposed a lockdown. Preventative measures were used instead and these measures had time limits. These time limits were sometimes extended, removed and then re-introduced as the infection rates varied. 
+ The  Infectious Disease Control and Prevention Act does not have an officially declared time limit. The measures have been implemented differently in difference areas of South Korea depending on the spread of Covid-19 in different areas. The country never imposed a lockdown. Preventative measures were used instead and these measures had time limits. These time limits were sometimes extended, removed and then re-introduced as the infection rates varied. 
 
 *Sources*:
- https://www.theguardian.com/world/2020/may/28/south-korea-faces-return-to-coronavirus-restrictions-after-spike-in-new-cases
-
-https://www.reuters.com/article/us-health-coronavirus-southkorea-toll/south-korea-reports-fewest-new-coronavirus-cases-since-february-29-peak-idUSKBN21A043
-
-https://www.bbc.com/news/world-asia-52845015
+ https://elaw.klri.re.kr/kor_service/lawView.do?hseq=40184&lang=ENG
+
+
+https://www.theguardian.com/world/2020/may/28/south-korea-faces-return-to-coronavirus-restrictions-after-spike-in-new-caseshttps://www.reuters.com/article/us-health-coronavirus-southkorea-toll/south-korea-reports-fewest-new-coronavirus-cases-since-february-29-peak-idUSKBN21A043https://www.bbc.com/news/world-asia-52845015
 
 
 
@@ -168,21 +202,30 @@ https://www.bbc.com/news/world-asia-52845015
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
-*No comment provided* 
+ The Infectious Disease Control and Prevention Act does not have an end date. 
 
 *Sources*:
-*No source provided*
+ https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/https://elaw.klri.re.kr/kor_service/lawView.do?hseq=40184&lang=ENG
+https://www.loc.gov/law/help/health-emergencies/southkorea.php
+https://www.globalasia.org/v15no1/focus/south-korea-has-the-legal-infrastructure-to-fight-pandemics%3B-the-us-doesnt_brian-j-kim
 
 
 
@@ -194,7 +237,7 @@ https://www.bbc.com/news/world-asia-52845015
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -204,20 +247,34 @@ https://www.bbc.com/news/world-asia-52845015
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The Infectious Disease Control and Prevention Act has been in place since 2010. 
 
 *Sources*:
- https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
-
+ https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
+
+
+
 https://elaw.klri.re.kr/kor_service/lawView.do?hseq=40184&lang=ENG
-
-
+
+
+
+
 https://www.loc.gov/law/help/health-emergencies/southkorea.php
-
-
+
+
+
+
 https://www.globalasia.org/v15no1/focus/south-korea-has-the-legal-infrastructure-to-fight-pandemics%3B-the-us-doesnt_brian-j-kim
 
 
@@ -240,20 +297,34 @@ https://www.globalasia.org/v15no1/focus/south-korea-has-the-legal-infrastructure
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The legislature is not required to approve the Infectious Control and Prevention Act. 
 
 *Sources*:
- https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
-
+ https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
+
+
+
 https://elaw.klri.re.kr/kor_service/lawView.do?hseq=40184&lang=ENG
-
-
+
+
+
+
 https://www.loc.gov/law/help/health-emergencies/southkorea.php
-
-
+
+
+
+
 https://www.globalasia.org/v15no1/focus/south-korea-has-the-legal-infrastructure-to-fight-pandemics%3B-the-us-doesnt_brian-j-kim
 
 
@@ -274,22 +345,34 @@ https://www.globalasia.org/v15no1/focus/south-korea-has-the-legal-infrastructure
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The extent of the lawmaking role of the legislature has not been limited due to the emergency measures. However, South Korea did hold an election on 15 April 2020. President Moon Democratic Party coalition won 180 out of 300 seats, an increase from the 120 seats they had prior to the elections. 
 
 *Sources*:
- https://www.cfr.org/blog/implications-south-koreas-historic-covid-19-elections
-
-https://www.bbc.com/news/world-asia-52304781
-
+ https://www.cfr.org/blog/implications-south-koreas-historic-covid-19-elections
+
+
+
+https://www.bbc.com/news/world-asia-52304781
+
+
+
 https://www.theguardian.com/world/2020/apr/16/south-koreas-ruling-party-wins-election-landslide-amid-coronavirus-outbreak
 
 
@@ -302,24 +385,35 @@ https://www.theguardian.com/world/2020/apr/16/south-koreas-ruling-party-wins-ele
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The Parliament was shut down on 27 August 2020 after a photojournalist covering a meeting in parliament tested positive for Covid-19. It reopened again on 30 August 2020. 
 
 *Sources*:
- https://english.aawsat.com/home/article/2472101/skorea-parliament-closed-over-covid-19-fears
-
-https://www.euronews.com/2020/08/27/south-korea-shuts-parliament-after-photographer-tests-positive-for-covid-19
-
+ https://english.aawsat.com/home/article/2472101/skorea-parliament-closed-over-covid-19-fears
+
+
+
+https://www.euronews.com/2020/08/27/south-korea-shuts-parliament-after-photographer-tests-positive-for-covid-19
+
+
+
 https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=155920
 
 
@@ -339,17 +433,28 @@ https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=155920
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The Parliament was shut down on 27 August 2020 after a photojournalist covering a meeting in parliament tested positive for Covid-19. It reopened again on 30 August 2020. 
 
 *Sources*:
- https://english.aawsat.com/home/article/2472101/skorea-parliament-closed-over-covid-19-fears
-
-https://www.euronews.com/2020/08/27/south-korea-shuts-parliament-after-photographer-tests-positive-for-covid-19
-
+ https://english.aawsat.com/home/article/2472101/skorea-parliament-closed-over-covid-19-fears
+
+
+
+https://www.euronews.com/2020/08/27/south-korea-shuts-parliament-after-photographer-tests-positive-for-covid-19
+
+
+
 https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=155920
 
 
@@ -374,15 +479,25 @@ https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=155920
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  I have not found information that suggests that different parts of South Korea have varying responses to the pandemic. 
 
 *Sources*:
  https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
-
-
+
+
+
+
 https://www.amnesty.org/en/countries/asia-and-the-pacific/south-korea/
 
 
@@ -407,10 +522,13 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/south-korea/
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -453,10 +571,13 @@ https://www.loc.gov/law/help/health-emergencies/southkorea.php
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -494,18 +615,30 @@ https://www.loc.gov/law/help/health-emergencies/southkorea.php
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  I did not come across new limitations on media freedom due to the emergency measures. 
 
 *Sources*:
- https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
-
+ https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
+
+
+
 https://elaw.klri.re.kr/kor_service/lawView.do?hseq=40184&lang=ENG
 
-
-
+
+
+
+
 https://www.loc.gov/law/help/health-emergencies/southkorea.php
 
 
@@ -518,15 +651,22 @@ https://www.loc.gov/law/help/health-emergencies/southkorea.php
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -544,15 +684,22 @@ https://www.loc.gov/law/help/health-emergencies/southkorea.php
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -580,10 +727,13 @@ https://www.loc.gov/law/help/health-emergencies/southkorea.php
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -612,7 +762,7 @@ https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -622,10 +772,13 @@ https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -664,10 +817,13 @@ https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -703,14 +859,17 @@ https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -749,10 +908,13 @@ https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -791,10 +953,13 @@ https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -835,10 +1000,13 @@ https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -870,10 +1038,13 @@ Time period: *Jul-Sep*: 0
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -902,7 +1073,7 @@ https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -912,10 +1083,13 @@ https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -933,29 +1107,3 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/south-korea/
 
 
 https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

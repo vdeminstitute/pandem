@@ -1,9 +1,6 @@
 # Philippines 
 
 
-Time 2020-06-23 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-06-23
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,21 +25,33 @@ Time 2020-06-23
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- A national state of calamity was declared across the Philippines on 16 March 2020. This stays in effect for six months. On 23 March 2020, President Duterte enacted the Bayanihan to Heal as One Act. This "authorizes the president to exercise powers necessary to carry out urgent measures to meet the current national emergency related to Covid-19 only for three months unless extended by Congress. The act would allow President Duterte to "reallocate, realign, and reprogram" a budget of almost 275 billion ($5.37 billion) from the estimated 438 billion ($8.55 billion) national budget approved for 2020, in response to the pandemic; enable him to "temporarily take over or direct the operations" of public utilities and privately owned health facilities and other necessary facilities "when the public interest so requires" for quarantine, the accommodation of health professionals, and the distribution and storage of medical relief; and "facilitate and streamline" the accreditation of testing kits. 
+ A national state of calamity was declared across the Philippines on 16 March 2020. This was planned to stay  in effect for six months. On 23 March 2020, President Duterte enacted the Bayanihan to Heal as One Act. This "authorizes the president to exercise powers necessary to carry out urgent measures to meet the current national emergency related to Covid-19 only for three months unless extended by Congress. The act would allow President Duterte to "reallocate, realign, and reprogram" a budget of almost 275 billion ($5.37 billion) from the estimated 438 billion ($8.55 billion) national budget approved for 2020, in response to the pandemic; enable him to "temporarily take over or direct the operations" of public utilities and privately owned health facilities and other necessary facilities "when the public interest so requires" for quarantine, the accommodation of health professionals, and the distribution and storage of medical relief; and "facilitate and streamline" the accreditation of testing kits. 
 
-2: A COVID-19 law that went into effect on March 24 grants the administration broad powers to address the coronavirus, which has contributed to violations of human rights, including the right to life, freedom of expression, access to information, and children's rights. 
+2: A COVID-19 law that went into effect on March 24 grants the administration broad powers to address the coronavirus, which has contributed to violations of human rights, including the right to life, freedom of expression, access to information, and children's rights.
+
+3: The national state of calamity was extended by a year to September 2021 on 22 September 2020. 
 
 *Sources*:
  http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regulartion_RA_10121.pdf
-
-
 https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-punishment
-
-
 https://www.officialgazette.gov.ph/downloads/2020/04apr/20200401-IRR-RA-11469-RRD.pdf
+
+
+https://apnews.com/article/virus-outbreak-leni-robredo-philippines-asia-east-asia-28b530198c4f86cd7e40675285d2f3a5
+
+
+https://www.wsws.org/en/articles/2020/09/30/phil-s30.html
 
 
 
@@ -61,15 +70,25 @@ https://www.officialgazette.gov.ph/downloads/2020/04apr/20200401-IRR-RA-11469-RR
 *Scale*: Character string.
 
  
-*Answer*: Bayanihan to Heal as One Act 
+*Time period: Q2*: Bayanihan to Heal as One Act
+
+ 
+*Time period: Q3*: Bayanihan to Heal as One Act
+
+ 
+*Time period: Q4*: Bayanihan to Heal as One Act
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regulartion_RA_10121.pdf
-
-
+
+
+
+
 https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-punishment
 
 
@@ -89,15 +108,25 @@ https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-pu
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-23 
+*Time period: Q2*: 2020-03-23
+
+ 
+*Time period: Q3*: 2020-03-23
+
+ 
+*Time period: Q4*: 2020-03-23
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regulartion_RA_10121.pdf
-
-
+
+
+
+
 https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-punishment
 
 
@@ -117,17 +146,27 @@ https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-pu
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The state of calamity will stay in effect for six months from 16 March 2020. 
+ The state of calamity was first introduced on 16 March 2020 for a period of six months. This was further extended by a year to September 2021 on 22 September 2020. 
 
 *Sources*:
  http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regulartion_RA_10121.pdf
-
-
 https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-punishment
+
+https://apnews.com/article/virus-outbreak-leni-robredo-philippines-asia-east-asia-28b530198c4f86cd7e40675285d2f3a5
+
+
+https://www.wsws.org/en/articles/2020/09/30/phil-s30.html
 
 
 
@@ -149,16 +188,27 @@ https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-pu
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- There is a limit of six months. 
+ The state of calamity was first introduced on 16 March 2020 for a period of six months. This was further extended by a year to September 2021 on 22 September 2020. 
 
 *Sources*:
  https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-punishment
-
-
 http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regulartion_RA_10121.pdf
+
+https://apnews.com/article/virus-outbreak-leni-robredo-philippines-asia-east-asia-28b530198c4f86cd7e40675285d2f3a5
+
+
+https://www.wsws.org/en/articles/2020/09/30/phil-s30.html
 
 
 
@@ -170,22 +220,32 @@ http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regularti
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-09-23 
+*Time period: Q2*: 2020-09-23
+
+ 
+*Time period: Q3*: 2021-09-23
+
+ 
+*Time period: Q4*: 2021-09-23
+
+ 
 
 *Comments*:
-*No comment provided* 
+ The state of calamity was first introduced on 16 March 2020 for a period of six months. This was further extended by a year to September 2021 on 22 September 2020. 
 
 *Sources*:
  https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-punishment
-
-
+
+
+
+
 http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regulartion_RA_10121.pdf
 
 
@@ -198,7 +258,7 @@ http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regularti
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -208,18 +268,30 @@ http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regularti
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  The law requires the national ledislature to approve the implementation of the legal instrument. 
 
 *Sources*:
  http://www.congress.gov.ph/press/details.php?pressid=11841
-
-
+
+
+
+
 https://newsinfo.inquirer.net/1246872/house-approves-bill-declaring-national-emergency-due-to-coronavirus
-
-
+
+
+
+
 https://newsinfo.inquirer.net/1247363/senate-oks-bill-granting-duterte-special-powers-to-fight-covid-19
 
 
@@ -242,18 +314,30 @@ https://newsinfo.inquirer.net/1247363/senate-oks-bill-granting-duterte-special-p
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  The legislature approved of the implementation of the Bayanihan to Heal as One Act. 
 
 *Sources*:
  http://www.congress.gov.ph/press/details.php?pressid=11841
-
-
+
+
+
+
 https://newsinfo.inquirer.net/1246872/house-approves-bill-declaring-national-emergency-due-to-coronavirus
-
-
+
+
+
+
 https://newsinfo.inquirer.net/1247363/senate-oks-bill-granting-duterte-special-powers-to-fight-covid-19
 
 
@@ -274,24 +358,31 @@ https://newsinfo.inquirer.net/1247363/senate-oks-bill-granting-duterte-special-p
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- Under the state of calamity, the powers that the president is allowed to exercise include
-1: "Temporarily take over or direct the operations" of public utilities and privately owned health facilities and other necessary facilities.
-2: Enabling him to "reallocate, realign, and reprogram" a budget of almost 275 billion ($5.37 billion) from the estimated 438 billion ($8.55 billion) national budget approved for 2020, in response to the pandemic.
-3: The accommodation of health professionals, and the distribution and storage of medical relief; and "facilitate and streamline" the accreditation of testing kits. 
+ Under the state of calamity, the powers that the president is allowed to exercise include1: "Temporarily take over or direct the operations" of public utilities and privately owned health facilities and other necessary facilities.2: Enabling him to "reallocate, realign, and reprogram" a budget of almost 275 billion ($5.37 billion) from the estimated 438 billion ($8.55 billion) national budget approved for 2020, in response to the pandemic.3: The accommodation of health professionals, and the distribution and storage of medical relief; and "facilitate and streamline" the accreditation of testing kits. 
 
 *Sources*:
  https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-punishment
-
-
+
+
+
+
 http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regulartion_RA_10121.pdf
 
 
@@ -304,25 +395,37 @@ http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regularti
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-09 
+*Time period: Q2*: 2020-03-09
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The Philippine Senate suspended regular sessions on 9 March 2020. On 11 March 2020, it went on recess until 4 May 2020. 
 
 *Sources*:
  https://www.loc.gov/law/help/emergency-legislative-activities/philippines.php#:~:text=On%20March%209%2C%202020%2C%20the,recess%20until%20May%204%2C%202020.
-
-
+
+
+
+
 https://www.gmanetwork.com/news/news/nation/729407/duterte-announces-suspension-of-gov-t-work-due-to-covid-19/story/
-
-
+
+
+
+
 https://www.bbc.com/news/world-asia-52548703
 
 
@@ -342,18 +445,30 @@ https://www.bbc.com/news/world-asia-52548703
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-04 
+*Time period: Q2*: 2020-05-04
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The Philippine Senate suspended regular sessions on 9 March 2020. On 11 March 2020, it went on recess until 4 May 2020. 
 
 *Sources*:
  https://www.loc.gov/law/help/emergency-legislative-activities/philippines.php#:~:text=On%20March%209%2C%202020%2C%20the,recess%20until%20May%204%2C%202020.
-
-
+
+
+
+
 https://www.gmanetwork.com/news/news/nation/729407/duterte-announces-suspension-of-gov-t-work-due-to-covid-19/story/
-
-
+
+
+
+
 https://www.bbc.com/news/world-asia-52548703
 
 
@@ -378,15 +493,25 @@ https://www.bbc.com/news/world-asia-52548703
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  I have not found information that suggests that different parts of the Philippines has varying response to the pandemic. 
 
 *Sources*:
  http://www.congress.gov.ph/press/details.php?pressid=11841
-
-
+
+
+
+
 https://www.officialgazette.gov.ph/downloads/2020/04apr/20200401-IRR-RA-11469-RRD.pdf
 
 
@@ -411,10 +536,13 @@ https://www.officialgazette.gov.ph/downloads/2020/04apr/20200401-IRR-RA-11469-RR
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -465,10 +593,13 @@ https://news.abs-cbn.com/news/02/01/20/adamson-apologizes-revises-racist-memo-af
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -483,6 +614,8 @@ Time period: *Jul-Sep*: 1
 
 4: 900 complaints of alleged torture, inhumane treatment, arrests or detention were made to the Philippines' Commission on Human Rights between 17 March 2020 and 25 July 2020. 
 
+5: 5: President Duterte gave orders to the police, military and local officials on 1 April 2020 saying ‘My orders are to the police and military, also the barangay, that if there is trouble or the situation arises that people fight and your lives are on the line, shoot them dead. Do you understand? Dead. Instead of causing trouble, I’ll send you to the grave.’ 
+
 *Sources*:
  https://www.hrw.org/news/2020/04/03/philippine-children-face-abuse-violating-covid-19-curfew
 
@@ -491,6 +624,9 @@ https://gulfnews.com/world/asia/philippines/duterte-to-philippine-police-shoot-d
 
 
 https://www.businessinsider.com/philippines-police-arrested-people-for-breaching-lockdown-2020-7?r=US&IR=T
+
+
+https://www.amnesty.org/en/latest/news/2020/04/philippines-president-duterte-shoot-to-kill-order-pandemic/
 
 
 
@@ -514,21 +650,35 @@ https://www.businessinsider.com/philippines-police-arrested-people-for-breaching
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- False information of the Covid-19 Crisis‚ under section 6(6) of the "Bayanihan to Heal as One Act": Philippines President Rodrigo Duterte signed a bill on 25 march 2020 that gives him special powers. These powers include imposing prison sentences of two months or a maximum fine of approximately US $ 19,500 for spreading "fake news" about Covid-19. 
+ False information of the Covid-19 Crisis‚ under section 6(6) of the "Bayanihan to Heal as One Act": Philippines President Rodrigo Duterte signed a bill on 25 March 2020 that gives him special powers. These powers include imposing prison sentences of two months or a maximum fine of approximately US $ 19,500 for spreading "fake news" about Covid-19. 
 
 *Sources*:
  https://ipi.media/covid19-media-freedom-monitoring/
 
-
-
-https://www.cnnphilippines.com/news/2020/3/25/Fake-news-peddlers-P1-million-fine-under-Duterte-special-powers.html
-
+
+
+
+
+https://www.cnnphilippines.com/news/2020/3/25/Fake-news-peddlers-P1-million-fine-under-Duterte-special-powers.html
+
+
+
 https://www.rappler.com/nation/255753-duterte-special-powers-bill-coronavirus-fines-fake-news
-
-
+
+
+
+
 https://rsf.org/en/news/two-philippine-journalists-face-two-months-prison-coronavirus-reporting
 
 
@@ -541,14 +691,22 @@ https://rsf.org/en/news/two-philippine-journalists-face-two-months-prison-corona
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-25 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -556,13 +714,19 @@ https://rsf.org/en/news/two-philippine-journalists-face-two-months-prison-corona
 *Sources*:
  https://ipi.media/covid19-media-freedom-monitoring/
 
-
-
-https://www.cnnphilippines.com/news/2020/3/25/Fake-news-peddlers-P1-million-fine-under-Duterte-special-powers.html
-
+
+
+
+
+https://www.cnnphilippines.com/news/2020/3/25/Fake-news-peddlers-P1-million-fine-under-Duterte-special-powers.html
+
+
+
 https://www.rappler.com/nation/255753-duterte-special-powers-bill-coronavirus-fines-fake-news
-
-
+
+
+
+
 https://rsf.org/en/news/two-philippine-journalists-face-two-months-prison-coronavirus-reporting
 
 
@@ -575,23 +739,34 @@ https://rsf.org/en/news/two-philippine-journalists-face-two-months-prison-corona
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-09-23 
+*Time period: Q2*: 2020-09-23
+
+ 
+*Time period: Q3*: 2021-09-23
+
+ 
+*Time period: Q4*: 2021-09-23
+
+ 
 
 *Comments*:
-*No comment provided* 
+ The national state of calamity was extended by a year to September 2021 on 22 September 2020. 
 
 *Sources*:
  https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-punishment
-
-
 http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regulartion_RA_10121.pdf
+
+https://apnews.com/article/virus-outbreak-leni-robredo-philippines-asia-east-asia-28b530198c4f86cd7e40675285d2f3a5
+
+
+https://www.wsws.org/en/articles/2020/09/30/phil-s30.html
 
 
 
@@ -613,10 +788,13 @@ http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regularti
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -639,7 +817,7 @@ https://www.cnnphilippines.com/news/2020/3/28/cavite-town-mayor-charges-fake-COV
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -649,10 +827,13 @@ https://www.cnnphilippines.com/news/2020/3/28/cavite-town-mayor-charges-fake-COV
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -686,10 +867,13 @@ https://www.cnnphilippines.com/news/2020/3/28/cavite-town-mayor-charges-fake-COV
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -719,14 +903,17 @@ https://www.nytimes.com/2020/05/14/world/asia/duterte-philippines-tv-network-ABS
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
@@ -756,10 +943,13 @@ Time period: *Jul-Sep*: 2
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -792,10 +982,13 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/philippines/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -827,10 +1020,13 @@ Time period: *Jul-Sep*: 0
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -862,10 +1058,13 @@ Time period: *Jul-Sep*: 0
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
@@ -878,7 +1077,9 @@ Time period: *Jul-Sep*: 2
 
 3: In Binondo, Manila, village officials arrested four boys and four girls on March 19 for violating curfew. They forcibly cut the hair of seven of the children while the one who resisted was stripped naked and ordered to walk home.
 
-4: A video posted on July 23, showed a police officer kicking a man's leg and pushing him to the ground before kneeling on his neck and mouth. This occured after the man was found to have been riding a motorcycle without a face mask, violating Covid-19 rules. 
+4: A video posted on July 23, showed a police officer kicking a man's leg and pushing him to the ground before kneeling on his neck and mouth. This occured after the man was found to have been riding a motorcycle without a face mask, violating Covid-19 rules.
+
+I have not found new cases of police violence. However since these incidents appear to be occuring frequently, I have coded this variable as 2 on all time periods. 
 
 *Sources*:
  https://www.hrw.org/news/2020/04/03/philippine-children-face-abuse-violating-covid-19-curfew
@@ -888,6 +1089,8 @@ https://www.rappler.com/nation/256369-lockdown-violators-arrested-philippines-ma
 
 
 https://www.vice.com/en_ca/article/ep4mgm/philippines-cop-kneel-man-coronavirus-violation-police-brutality
+
+https://foreignpolicy.com/2020/04/16/duterte-philippines-coronavirus-response-shoot-them-dead/
 
 
 
@@ -899,7 +1102,7 @@ https://www.vice.com/en_ca/article/ep4mgm/philippines-cop-kneel-man-coronavirus-
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -909,10 +1112,13 @@ https://www.vice.com/en_ca/article/ep4mgm/philippines-cop-kneel-man-coronavirus-
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -922,6 +1128,9 @@ Time period: *Jul-Sep*: 0
 *Sources*:
  http://www.covid19.gov.ph/duterte-to-pnp-afp-be-ready-to-enforce-quarantine-protocols/
 
+
+https://www.reuters.com/article/us-health-coronavirus-philippines-idUSKCN24I191
+https://foreignpolicy.com/2020/04/16/duterte-philippines-coronavirus-response-shoot-them-dead/
 
 https://www.scmp.com/week-asia/economics/article/3080765/coronavirus-fears-grow-martial-law-lockdown-philippines
 
@@ -933,29 +1142,3 @@ https://foreignpolicy.com/2020/06/15/coronavirus-pandemic-army-military-southeas
 
 
 https://www.dw.com/en/covid-19-in-philippines-police-deployed-to-implement-fresh-lockdowns/a-54243337
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

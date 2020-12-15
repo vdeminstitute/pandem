@@ -1,9 +1,6 @@
 # Ghana 
 
 
-Time 2020-09-02 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-02
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,18 +25,34 @@ Time 2020-09-02
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
  A new law, The Imposition of Restrictions Act (Act 1012) is the primary legal instrument, and provides the parliament and president with extra powers to fight the virus. 
 
 *Sources*:
- https://theconversation.com/ghanas-president-has-invoked-a-tough-new-law-against-coronavirus-why-its-disquieting-135476
-
-https://ghanalawhub.com/overview-of-the-imposition-of-restrictions-act-2020-act-1020/
-
-https://verfassungsblog.de/covid-19-constitutionalism-and-emergencies-under-ghanas-1992-fourth-republican-constitution/
-
+ https://africa.cgtn.com/2020/09/21/ghana-extends-covid-19-restrictions-for-3-months/
+
+https://theconversation.com/ghanas-president-has-invoked-a-tough-new-law-against-coronavirus-why-its-disquieting-135476
+
+
+
+https://ghanalawhub.com/overview-of-the-imposition-of-restrictions-act-2020-act-1020/
+
+
+
+https://verfassungsblog.de/covid-19-constitutionalism-and-emergencies-under-ghanas-1992-fourth-republican-constitution/
+
+
+
 https://verfassungsblog.de/wp-content/uploads/2020/05/Imposition-of-Restrictions-Act-2020-Act-1012.pdf
 
 
@@ -59,16 +72,28 @@ https://verfassungsblog.de/wp-content/uploads/2020/05/Imposition-of-Restrictions
 *Scale*: Character string.
 
  
-*Answer*: The Imposition of Restrictions Act (Act 1012) 
+*Time period: Q2*: The Imposition of Restrictions Act (Act 1012)
+
+ 
+*Time period: Q3*: The Imposition of Restrictions Act (Act 1012)
+
+ 
+*Time period: Q4*: The Imposition of Restrictions Act (Act 1012)
+
+ 
 
 *Comments*:
  The The Imposition of Restrictions Act (Act 1012) was enacted based on a directive from the President on March 15. 
 
 *Sources*:
- https://theconversation.com/ghanas-president-has-invoked-a-tough-new-law-against-coronavirus-why-its-disquieting-135476
-
-https://ghanalawhub.com/overview-of-the-imposition-of-restrictions-act-2020-act-1020/
-
+ https://theconversation.com/ghanas-president-has-invoked-a-tough-new-law-against-coronavirus-why-its-disquieting-135476
+
+
+
+https://ghanalawhub.com/overview-of-the-imposition-of-restrictions-act-2020-act-1020/
+
+
+
 https://verfassungsblog.de/wp-content/uploads/2020/05/Imposition-of-Restrictions-Act-2020-Act-1012.pdf
 
 
@@ -88,14 +113,24 @@ https://verfassungsblog.de/wp-content/uploads/2020/05/Imposition-of-Restrictions
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-23 
+*Time period: Q2*: 2020-03-23
+
+ 
+*Time period: Q3*: 2020-03-23
+
+ 
+*Time period: Q4*: 2020-03-23
+
+ 
 
 *Comments*:
  On 21 March 2020, the legislature passed the Imposition of Restrictions Act and on 23 March 2020, the president invoked this for the first time with reference to Covid-19. 
 
 *Sources*:
- https://verfassungsblog.de/wp-content/uploads/2020/05/EXECUTIVE-INSTRUMENT-on-COVID.pdf
-
+ https://verfassungsblog.de/wp-content/uploads/2020/05/EXECUTIVE-INSTRUMENT-on-COVID.pdf
+
+
+
 https://verfassungsblog.de/wp-content/uploads/2020/05/Imposition-of-Restrictions-Act-2020-Act-1012.pdf
 
 
@@ -115,25 +150,47 @@ https://verfassungsblog.de/wp-content/uploads/2020/05/Imposition-of-Restrictions
 *Scale*: Date format.
 
  
+*Time period: Q2*: 2020-06-15
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 2020-12-20
+
+ 
+*Time period: Q4*: 2020-12-20
+
+ 
 
 *Comments*:
- The Imposition of Restrictions Act (2020) allows for restrictions to be declared "for a period of not more than three months" but also allows the president to extend these restrictions for "not more than one month at a time but in any event for not more than three months" (Article 4). The president initially imposed restrictions on movement, gatherings, and travel for two to three weeks. He has invoked the right and extended the provisions on several occasions, most recently 15 June 2020. Presently, according to E.I. 64 of 15 March, the main emergency provisions under the restrictions act are set to expire on 31 July. However, there are reports from August & September which state that "[...] we are still required under the Imposition of Restrictions Act 2020 [...]" and I have also not found evidence of it lifted/expired to date. 
+ The Imposition of Restrictions Act (2020) allows for restrictions to be declared "for a period of not more than three months" but also allows the president to extend these restrictions for "not more than one month at a time but in any event for not more than three months" (Article 4). The president initially imposed restrictions on movement, gatherings, and travel for two to three weeks. He has invoked the right and extended the provisions on several occasions, most recently 15 June 2020. Presently, according to E.I. 64 of 15 March, the main emergency provisions under the restrictions act are set to expire on 31 July. However, there are reports from August & September which state that "[...] we are still required under the Imposition of Restrictions Act 2020 [...]" and I have also not found evidence of it lifted/expired to date.
+The president has extended the restrictions for 3 months in September. 
 
 *Sources*:
- https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Act-2020-Act-1012.pdf.pdf
-
-https://africanlii.org/fr/country/ghana
-
-https://verfassungsblog.de/wp-content/uploads/2020/05/EXECUTIVE-INSTRUMENT-on-COVID.pdf
-
-https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-65.pdf
-
-https://www.graphic.com.gh/news/politics/ban-on-social-gatherings-reviewed-100-people-can-now-attend-church-services.html
-
-https://www.ghanaiantimes.com.gh/of-electioneering-campaign-road-safety-concerns-avoid-covid-19-pandemic/
-
+ https://africa.cgtn.com/2020/09/21/ghana-extends-covid-19-restrictions-for-3-months/
+
+https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Act-2020-Act-1012.pdf.pdf
+
+
+
+https://africanlii.org/fr/country/ghana
+
+
+
+https://verfassungsblog.de/wp-content/uploads/2020/05/EXECUTIVE-INSTRUMENT-on-COVID.pdf
+
+
+
+https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-65.pdf
+
+
+
+https://www.graphic.com.gh/news/politics/ban-on-social-gatherings-reviewed-100-people-can-now-attend-church-services.html
+
+
+
+https://www.ghanaiantimes.com.gh/of-electioneering-campaign-road-safety-concerns-avoid-covid-19-pandemic/
+
+
+
 https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Stanlib-holds-virtual-AGM-on-September-11-1049644
 
 
@@ -156,18 +213,32 @@ https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Stanlib-holds-virtual-AGM-on-
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  The Imposition of Restrictions Act (2020) allows for restrictions to be declared "for a period of not more than three months" but also allows the president to extend these restrictions for "not more than one month at a time but in any event for not more than three months" (Article 4). The president initially imposed restrictions on movement, gatherings, and travel for two to three weeks. He has invoked the right and extended the provisions on several occasions, most recently 15 June 2020. Presently, according to E.I. 64 of 15 March, the main emergency provisions under the restrictions act are set to expire on 31 July. 
 
 *Sources*:
- https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Act-2020-Act-1012.pdf.pdf
-
-https://africanlii.org/fr/country/ghana
-
-https://verfassungsblog.de/wp-content/uploads/2020/05/EXECUTIVE-INSTRUMENT-on-COVID.pdf
-
+ https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Act-2020-Act-1012.pdf.pdf
+
+
+
+https://africanlii.org/fr/country/ghana
+
+
+
+https://verfassungsblog.de/wp-content/uploads/2020/05/EXECUTIVE-INSTRUMENT-on-COVID.pdf
+
+
+
 https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-65.pdf
 
 
@@ -180,32 +251,54 @@ https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-65.pdf
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 2020-06-15
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 2020-12-20
+
+ 
+*Time period: Q4*: 2020-12-20
+
+ 
 
 *Comments*:
- The Imposition of Restrictions Act (2020) allows for restrictions to be declared "for a period of not more than three months" but also allows the president to extend these restrictions for "not more than one month at a time but in any event for not more than three months" (Article 4). The president initially imposed restrictions on movement, gatherings, and travel for two to three weeks. He has invoked the right and extended the provisions on several occasions, most recently 15 June 2020. Presently, according to E.I. 64 of 15 March, the main emergency provisions under the restrictions act are set to expire on 31 July. However, there are reports from August & September which state that "[...] we are still required under the Imposition of Restrictions Act 2020 [...]" and I have also not found evidence of it lifted/expired to date. 
+ The Imposition of Restrictions Act (2020) allows for restrictions to be declared "for a period of not more than three months" but also allows the president to extend these restrictions for "not more than one month at a time but in any event for not more than three months" (Article 4). The president initially imposed restrictions on movement, gatherings, and travel for two to three weeks. He has invoked the right and extended the provisions on several occasions, most recently 15 June 2020. Presently, according to E.I. 64 of 15 March, the main emergency provisions under the restrictions act are set to expire on 31 July. However, there are reports from August & September which state that "[...] we are still required under the Imposition of Restrictions Act 2020 [...]" and I have also not found evidence of it lifted/expired to date.
+The president has extended the restrictions for 3 months in September. 
 
 *Sources*:
- https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Act-2020-Act-1012.pdf.pdf
-
-https://africanlii.org/fr/country/ghana
-
-https://verfassungsblog.de/wp-content/uploads/2020/05/EXECUTIVE-INSTRUMENT-on-COVID.pdf
-
-https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-65.pdf
-
-https://www.graphic.com.gh/news/politics/ban-on-social-gatherings-reviewed-100-people-can-now-attend-church-services.html
-
-https://www.ghanaiantimes.com.gh/of-electioneering-campaign-road-safety-concerns-avoid-covid-19-pandemic/
-
+ https://africa.cgtn.com/2020/09/21/ghana-extends-covid-19-restrictions-for-3-months/
+
+https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Act-2020-Act-1012.pdf.pdf
+
+
+
+https://africanlii.org/fr/country/ghana
+
+
+
+https://verfassungsblog.de/wp-content/uploads/2020/05/EXECUTIVE-INSTRUMENT-on-COVID.pdf
+
+
+
+https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-65.pdf
+
+
+
+https://www.graphic.com.gh/news/politics/ban-on-social-gatherings-reviewed-100-people-can-now-attend-church-services.html
+
+
+
+https://www.ghanaiantimes.com.gh/of-electioneering-campaign-road-safety-concerns-avoid-covid-19-pandemic/
+
+
+
 https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Stanlib-holds-virtual-AGM-on-September-11-1049644
 
 
@@ -218,7 +311,7 @@ https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Stanlib-holds-virtual-AGM-on-
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -228,7 +321,15 @@ https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Stanlib-holds-virtual-AGM-on-
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The legislature adopted the Imposition of Restrictions Act (Act 1012) on 21 March 2020, which provides the president powers to declare emergency restrictions without authorization by the parliament. So while the legislature assented to the general legislation, it did not approve the specific declaration made on 23 March. 
@@ -256,7 +357,15 @@ https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Stanlib-holds-virtual-AGM-on-
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The legislature adopted the Imposition of Restrictions Act (Act 1012) on 21 March 2020, which provides the president powers to declare emergency restrictions without authorization by the parliament. So while the legislature assented to the general legislation, it did not approve the specific declaration made on 23 March. 
@@ -282,16 +391,25 @@ https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Stanlib-holds-virtual-AGM-on-
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 3 
+*Time period: Q2*: 3
+
+ 
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
+
+ 
 
 *Comments*:
- The president has the right to impose restrictions on persons in the event or immence of emergency, disaster or similar circumstance to ensure public safety, health and protection.
+ The president has the right to impose restrictions on persons in the event or immence of emergency, disaster or similar circumstance to ensure public safety, health and protection.
+
  
 
 *Sources*:
@@ -307,15 +425,22 @@ https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Stanlib-holds-virtual-AGM-on-
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
@@ -340,8 +465,15 @@ https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Stanlib-holds-virtual-AGM-on-
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
@@ -371,15 +503,29 @@ https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Stanlib-holds-virtual-AGM-on-
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The government has imposed restrictions that vary in their severity depending on the area of the country. 
+ The government has imposed restrictions that vary in their severity depending on the area of the country.
+
+The partial lockdown ended in April 2020. 
 
 *Sources*:
- https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-65.pdf
-
+ https://www.cnbcafrica.com/news/2020/04/20/ghana-lifts-lockdown-on-key-regions-as-covid-19-cases-reach-1042/
+
+https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-65.pdf
+
 https://www.garda.com/crisis24/news-alerts/327316/ghana-authorities-impose-lockdown-on-two-regions-due-to-covid-19-from-march-30-update-3
+
+https://www.aa.com.tr/en/africa/ghana-eases-lockdown-measures-supports-social-distance/1860712
 
 
 
@@ -403,10 +549,13 @@ https://www.garda.com/crisis24/news-alerts/327316/ghana-authorities-impose-lockd
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -415,14 +564,22 @@ Time period: *Jul-Sep*: 0
 on democratic rights or freedoms discriminated solely on the ground of race, colour, sex, language, religion or social origin" were found. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/30/ghana-1st-covid-19-case-psychiatric-hospital
-
-https://www.hrw.org/africa/ghana
-
-https://www.amnesty.org/en/countries/africa/ghana/
-
-https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Act-2020-Act-1012.pdf.pdf
-
+ https://www.hrw.org/news/2020/04/30/ghana-1st-covid-19-case-psychiatric-hospital
+
+
+
+https://www.hrw.org/africa/ghana
+
+
+
+https://www.amnesty.org/en/countries/africa/ghana/
+
+
+
+https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Act-2020-Act-1012.pdf.pdf
+
+
+
 https://www.dw.com/en/ghana-covid-19-survivors-stigmatized/av-53418720
 
 
@@ -452,10 +609,13 @@ https://www.dw.com/en/ghana-covid-19-survivors-stigmatized/av-53418720
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -463,12 +623,18 @@ Time period: *Jul-Sep*: 0
  No emergency measures that de-jure violate non-derogable rights as defined by the ICCPR, was found. 
 
 *Sources*:
- https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-
-https://www.amnesty.org/en/countries/africa/ghana/
-
-https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Act-2020-Act-1012.pdf.pdf
-
+ https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
+
+
+
+https://www.amnesty.org/en/countries/africa/ghana/
+
+
+
+https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Act-2020-Act-1012.pdf.pdf
+
+
+
 https://www.hrw.org/africa/ghana
 
 
@@ -493,18 +659,32 @@ https://www.hrw.org/africa/ghana
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  While the law is vague, it makes no reference to limits on media reporting. Likewise, none of the executive instruments with regard to the pandemic mention restrictions on information or media reporting. Journalists are supposed to be exempt from restrictions on movement. 
 
 *Sources*:
- https://verfassungsblog.de/wp-content/uploads/2020/05/EXECUTIVE-INSTRUMENT-on-COVID.pdf
-
-https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-65.pdf
-
-https://africanlii.org/fr/country/ghana
-
+ https://verfassungsblog.de/wp-content/uploads/2020/05/EXECUTIVE-INSTRUMENT-on-COVID.pdf
+
+
+
+https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-65.pdf
+
+
+
+https://africanlii.org/fr/country/ghana
+
+
+
 https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Act-2020-Act-1012.pdf.pdf
 
 
@@ -517,15 +697,22 @@ https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Ac
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -543,15 +730,22 @@ https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Ac
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -579,10 +773,13 @@ https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Ac
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -590,10 +787,14 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
 
 *Sources*:
- https://ipi.media/ghana/
-
-https://rsf.org/en/ghana
-
+ https://ipi.media/ghana/
+
+
+
+https://rsf.org/en/ghana
+
+
+
 https://cpj.org/africa/ghana/
 
 
@@ -606,7 +807,7 @@ https://cpj.org/africa/ghana/
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -616,10 +817,13 @@ https://cpj.org/africa/ghana/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -651,10 +855,13 @@ There are no further cases reported.
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -683,14 +890,17 @@ There are no further cases reported.
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -724,10 +934,13 @@ https://cpj.org/2020/04/in-ghana-soldiers-enforcing-covid-19-restrictions/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -737,10 +950,14 @@ Time period: *Jul-Sep*: 0
 There are no further cases reported. 
 
 *Sources*:
- https://rsf.org/en/news/ghana-urged-ensure-safety-reporters-covering-covid-19
-
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
-
+ https://rsf.org/en/news/ghana-urged-ensure-safety-reporters-covering-covid-19
+
+
+
+https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
+
+
+
 https://cpj.org/2020/04/in-ghana-soldiers-enforcing-covid-19-restrictions/
 
 
@@ -763,10 +980,13 @@ https://cpj.org/2020/04/in-ghana-soldiers-enforcing-covid-19-restrictions/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -778,10 +998,14 @@ On 10 April, a journalist was attacked by soldiers enforcing pandemic restrictio
 There are no further cases reported. 
 
 *Sources*:
- https://rsf.org/en/news/ghana-urged-ensure-safety-reporters-covering-covid-19
-
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
-
+ https://rsf.org/en/news/ghana-urged-ensure-safety-reporters-covering-covid-19
+
+
+
+https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
+
+
+
 https://cpj.org/2020/04/in-ghana-soldiers-enforcing-covid-19-restrictions/
 
 
@@ -806,10 +1030,13 @@ https://cpj.org/2020/04/in-ghana-soldiers-enforcing-covid-19-restrictions/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -817,10 +1044,14 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government and its agents is spreading information that deviates from that of the WHO, was found. 
 
 *Sources*:
- https://ghanahealthservice.org/covid19/faqs.php
-
-https://www.moh.gov.gh/coronavirus-alert-education-inforgraphics/
-
+ https://ghanahealthservice.org/covid19/faqs.php
+
+
+
+https://www.moh.gov.gh/coronavirus-alert-education-inforgraphics/
+
+
+
 https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
 
 
@@ -845,10 +1076,13 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -876,7 +1110,7 @@ https://cpj.org/2020/04/in-ghana-soldiers-enforcing-covid-19-restrictions/
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -886,10 +1120,13 @@ https://cpj.org/2020/04/in-ghana-soldiers-enforcing-covid-19-restrictions/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -897,33 +1134,12 @@ Time period: *Jul-Sep*: 1
  Soliders are enforcing lockdowns and nose mask wearing in Ghana. 
 
 *Sources*:
- https://cpj.org/2020/04/in-ghana-soldiers-enforcing-covid-19-restrictions/
-
-http://apanews.net/en/news/ghana-deploys-police-army-to-enforce-lockdown
-
+ https://cpj.org/2020/04/in-ghana-soldiers-enforcing-covid-19-restrictions/
+
+
+
+http://apanews.net/en/news/ghana-deploys-police-army-to-enforce-lockdown
+
+
+
 https://www.ghanaiantimes.com.gh/ama-military-cum-police-enforce-nose-mask-wearing-in-accra/
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-*Answer*: The new act is a problem for privacy, as it grants the government wide powers to intercept communication and the services of the network provider at the disposal of the state for mass dissemination of information. 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
- https://theconversation.com/ghanas-president-has-invoked-a-tough-new-law-against-coronavirus-why-its-disquieting-135476

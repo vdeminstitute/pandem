@@ -1,9 +1,6 @@
 # Eritrea 
 
 
-Time 2020-08-31 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-08-31
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,16 +25,28 @@ Time 2020-08-31
  7. Other.
 
  
-*Answer*: 5 
+*Time period: Q2*: 5
+
+ 
+*Time period: Q3*: 5
+
+ 
+*Time period: Q4*: 5
+
+ 
 
 *Comments*:
  According to the constitution, article 27, only "war, external invasion, civil disorder or natural disaster" can be cause for a national state of emergency. Also, the announcement of the guidelines does not refer to any such legal instrument. 
 
 *Sources*:
- http://www.ituc-africa.org/ERITREA-Citizen-participation-in-response-to-COVID-19-and-time-for-renewal.html
-
-https://www.constituteproject.org/constitution/Eritrea_1997?lang=en
-
+ http://www.ituc-africa.org/ERITREA-Citizen-participation-in-response-to-COVID-19-and-time-for-renewal.html
+
+
+
+https://www.constituteproject.org/constitution/Eritrea_1997?lang=en
+
+
+
 https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
 
 
@@ -57,8 +66,15 @@ https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-new
 *Scale*: Character string.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as no legal instrument (variable emlaw) was used. 
@@ -83,8 +99,15 @@ https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-new
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as no legal instrument (variable emlaw) was used. 
@@ -109,8 +132,15 @@ https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-new
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as no legal instrument (variable emlaw) was used. 
@@ -138,8 +168,15 @@ https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-new
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as no legal instrument (variable emlaw) was used. 
@@ -157,15 +194,22 @@ https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-new
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as no legal instrument (variable emlaw) was used. 
@@ -183,7 +227,7 @@ https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-new
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -193,8 +237,15 @@ https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-new
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as no legal instrument (variable emlaw) was used. 
@@ -222,8 +273,15 @@ https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-new
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -249,23 +307,36 @@ https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-new
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- According to the guidelines, "All Government Institutions will stop routine services and functions to focus on indispensable developmental and security tasks.  Majority of public sector employees will thus stay at home." However, we couldn't find any information about limitations of the legislature.
+ According to the guidelines, "All Government Institutions will stop routine services and functions to focus on indispensable developmental and security tasks.  Majority of public sector employees will thus stay at home." However, we couldn't find any information about limitations of the legislature.
+
  
 
 *Sources*:
- https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
-
-http://www.ituc-africa.org/ERITREA-Citizen-participation-in-response-to-COVID-19-and-time-for-renewal.html
-
+ https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
+
+
+
+http://www.ituc-africa.org/ERITREA-Citizen-participation-in-response-to-COVID-19-and-time-for-renewal.html
+
+
+
 https://www.einnews.com/pr_news/525101401/coronavirus-eritrea-global-information-and-early-warning-system-giews-country-brief-eritrea
 
 
@@ -278,15 +349,22 @@ https://www.einnews.com/pr_news/525101401/coronavirus-eritrea-global-information
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
@@ -311,8 +389,15 @@ https://www.einnews.com/pr_news/525101401/coronavirus-eritrea-global-information
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
@@ -342,14 +427,24 @@ https://www.einnews.com/pr_news/525101401/coronavirus-eritrea-global-information
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The guidelines apply to all of Eritrea. 
 
 *Sources*:
- https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
-
+ https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
+
+
+
 https://www.garda.com/crisis24/news-alerts/328486/eritrea-authorities-implement-21-day-lockdown-from-april-2-update-3
 
 
@@ -374,10 +469,13 @@ https://www.garda.com/crisis24/news-alerts/328486/eritrea-authorities-implement-
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -385,12 +483,18 @@ Time period: *Jul-Sep*: 0
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38593&resourceType=newsarticle&sort=date
-
-https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
-
-https://www.hrw.org/africa/eritrea
-
+ https://www.amnesty.org/en/search/?country=38593&resourceType=newsarticle&sort=date
+
+
+
+https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
+
+
+
+https://www.hrw.org/africa/eritrea
+
+
+
 https://minorityrights.org/?s=eritrea
 
 
@@ -420,10 +524,13 @@ https://minorityrights.org/?s=eritrea
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -457,16 +564,28 @@ https://www.amnesty.org/en/latest/news/2020/05/eritrea-detainees-in-overcrowded-
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No de-jure limitations of media freedom as part of the Covid-19 emergency measures were found. However, ince 2001 all independent media have been shut down. 
 
 *Sources*:
- https://rsf.org/en/eritrea
-
-https://ipi.media/eritrea/
-
+ https://rsf.org/en/eritrea
+
+
+
+https://ipi.media/eritrea/
+
+
+
 https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
 
 
@@ -479,15 +598,22 @@ https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-new
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -505,15 +631,22 @@ https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-new
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -541,27 +674,40 @@ https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-new
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Since 2001 all independent media have been shut down. In addition, the country's only newspaper was banned from publishing for five months. 
+ Since 2001 all independent media have been shut down. In addition, the country's only newspaper was banned from publishing for five months on April 1. The ban has not been lifted. 
 
 *Sources*:
- https://freedomhouse.org/country/eritrea/freedom-world/2020
-
-https://africasacountry.com/2020/09/eritreas-deteriorating-state
-
-https://rsf.org/en/eritrea
-
-https://ipi.media/eritrea/
-
-https://cpj.org/africa/eritrea/
-
+ https://freedomhouse.org/country/eritrea/freedom-world/2020
+
+
+
+https://africasacountry.com/2020/09/eritreas-deteriorating-state
+
+
+
+https://rsf.org/en/eritrea
+
+
+
+https://ipi.media/eritrea/
+
+
+
+https://cpj.org/africa/eritrea/
+
+
+
 https://www.amnesty.org/en/countries/africa/eritrea/report-eritrea/
 
 
@@ -574,7 +720,7 @@ https://www.amnesty.org/en/countries/africa/eritrea/report-eritrea/
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -584,10 +730,13 @@ https://www.amnesty.org/en/countries/africa/eritrea/report-eritrea/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -595,16 +744,26 @@ Time period: *Jul-Sep*: 1
  Since 2001 all independent media have been shut down. In addition, the country's only newspaper was banned from publishing for five months. 
 
 *Sources*:
- https://freedomhouse.org/country/eritrea/freedom-world/2020
-
-https://africasacountry.com/2020/09/eritreas-deteriorating-state
-
-https://rsf.org/en/eritrea
-
-https://ipi.media/eritrea/
-
-https://cpj.org/africa/eritrea/
-
+ https://freedomhouse.org/country/eritrea/freedom-world/2020
+
+
+
+https://africasacountry.com/2020/09/eritreas-deteriorating-state
+
+
+
+https://rsf.org/en/eritrea
+
+
+
+https://ipi.media/eritrea/
+
+
+
+https://cpj.org/africa/eritrea/
+
+
+
 https://www.amnesty.org/en/countries/africa/eritrea/report-eritrea/
 
 
@@ -627,10 +786,13 @@ https://www.amnesty.org/en/countries/africa/eritrea/report-eritrea/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -638,16 +800,26 @@ Time period: *Jul-Sep*: 1
  Since 2001 all independent media have been shut down. In addition, the country's only newspaper was banned from publishing for five months. 
 
 *Sources*:
- https://freedomhouse.org/country/eritrea/freedom-world/2020
-
-https://africasacountry.com/2020/09/eritreas-deteriorating-state
-
-https://rsf.org/en/eritrea
-
-https://ipi.media/eritrea/
-
-https://cpj.org/africa/eritrea/
-
+ https://freedomhouse.org/country/eritrea/freedom-world/2020
+
+
+
+https://africasacountry.com/2020/09/eritreas-deteriorating-state
+
+
+
+https://rsf.org/en/eritrea
+
+
+
+https://ipi.media/eritrea/
+
+
+
+https://cpj.org/africa/eritrea/
+
+
+
 https://www.amnesty.org/en/countries/africa/eritrea/report-eritrea/
 
 
@@ -667,14 +839,17 @@ https://www.amnesty.org/en/countries/africa/eritrea/report-eritrea/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -682,16 +857,26 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government and its agents limits media access to Covid-19 related information, was found. 
 
 *Sources*:
- https://freedomhouse.org/country/eritrea/freedom-world/2020
-
-https://africasacountry.com/2020/09/eritreas-deteriorating-state
-
-https://rsf.org/en/eritrea
-
-https://ipi.media/eritrea/
-
-https://cpj.org/africa/eritrea/
-
+ https://freedomhouse.org/country/eritrea/freedom-world/2020
+
+
+
+https://africasacountry.com/2020/09/eritreas-deteriorating-state
+
+
+
+https://rsf.org/en/eritrea
+
+
+
+https://ipi.media/eritrea/
+
+
+
+https://cpj.org/africa/eritrea/
+
+
+
 https://www.amnesty.org/en/countries/africa/eritrea/report-eritrea/
 
 
@@ -714,10 +899,13 @@ https://www.amnesty.org/en/countries/africa/eritrea/report-eritrea/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -725,12 +913,18 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government and its agents have verbally harassed journalists reporting about Covid-19, was found. 
 
 *Sources*:
- https://rsf.org/en/eritrea
-
-https://ipi.media/eritrea/
-
-https://cpj.org/africa/eritrea/
-
+ https://rsf.org/en/eritrea
+
+
+
+https://ipi.media/eritrea/
+
+
+
+https://cpj.org/africa/eritrea/
+
+
+
 https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
 
 
@@ -753,10 +947,13 @@ https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-new
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -764,12 +961,18 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government and its agents have physically harassed journalists reporting about Covid-19, was found. 
 
 *Sources*:
- https://rsf.org/en/eritrea
-
-https://ipi.media/eritrea/
-
-https://cpj.org/africa/eritrea/
-
+ https://rsf.org/en/eritrea
+
+
+
+https://ipi.media/eritrea/
+
+
+
+https://cpj.org/africa/eritrea/
+
+
+
 https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
 
 
@@ -794,10 +997,13 @@ https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-new
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -805,10 +1011,14 @@ Time period: *Jul-Sep*: 0
  No information on covid-19 from the Eritrean government was found. Therefore, they are not spreading information that is different than the information from WHO. 
 
 *Sources*:
- http://www.ecss-online.com/2013/wp-content/uploads/2020/06/Corona-.pdf
-
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
-
+ http://www.ecss-online.com/2013/wp-content/uploads/2020/06/Corona-.pdf
+
+
+
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+
+
+
 https://shabait.com/2020/05/09/we-all-need-to-protect-one-another-by-washing-our-hands-a-keeping-the-distance/
 
 
@@ -833,10 +1043,13 @@ https://shabait.com/2020/05/09/we-all-need-to-protect-one-another-by-washing-our
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -844,11 +1057,16 @@ Time period: *Jul-Sep*: 0
  No evidence was found that indicates that security forces, such as the civilian police or military, has engaged in physical violence to execute the emergency measures. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/africa/eritrea/
-
-https://www.hrw.org/africa/eritrea
-
-https://www.bbc.com/news/topics/cz4pr2gdgjyt/eritrea
+ https://www.amnesty.org/en/countries/africa/eritrea/
+
+
+
+https://www.hrw.org/africa/eritrea
+
+
+
+https://www.bbc.com/news/topics/cz4pr2gdgjyt/eritrea
+
 
 
 
@@ -861,7 +1079,7 @@ https://www.bbc.com/news/topics/cz4pr2gdgjyt/eritrea
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -871,10 +1089,13 @@ https://www.bbc.com/news/topics/cz4pr2gdgjyt/eritrea
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -882,32 +1103,8 @@ Time period: *Jul-Sep*: 1
  Security forces have been depolyed to enforce lockdown and travel bans. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/335866/ethiopia-tigray-region-relaxes-state-of-emergency-april-24-update-11
-
+ https://www.garda.com/crisis24/news-alerts/335866/ethiopia-tigray-region-relaxes-state-of-emergency-april-24-update-11
+
+
+
 https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

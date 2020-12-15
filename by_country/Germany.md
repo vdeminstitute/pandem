@@ -1,9 +1,6 @@
 # Germany 
 
 
-Time 2020-09-03 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-03
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,18 +25,28 @@ Time 2020-09-03
  7. Other.
 
  
-*Answer*: 6 
+*Time period: Q2*: 6
+
+ 
+*Time period: Q3*: 6
+
+ 
+*Time period: Q4*: 6
+
+ 
 
 *Comments*:
- The emergency measures taken toward Covid-19 are primarly done by the German states, and the federal government acts as a coordinating unit. Furthermore, the German constitution includes a state of emergency-clause,  but this has not been activated (different types of states of emergency has however been enacted at the state level). The main emergency measures have been taken under the Infectious Diseases Act (Infektionsschutzgesetz), which is a federal law, but the adoption of the measures is taken by the states under this Law, not the federal government. It is worth noting that the federal government has taken several measures, not least in subsequently ammending the Infectious Diseases Act and also passing financial aid packages, but the primary emergency response exists at the state level, and this is therefore coded as 6. 
+ The emergency measures taken toward Covid-19 are primarly done by the German states, and the federal government acts as a coordinating unit. Furthermore, the German constitution includes a state of emergency-clause,  but this has not been activated (different types of states of emergency has however been enacted at the state level). The main emergency measures have been taken under the Infectious Diseases Act (Infektionsschutzgesetz), which is a federal law, but the adoption of the measures is taken by the states under this Law, not the federal government. It is worth noting that the federal government has taken several measures, not least in subsequently amending the Infectious Diseases Act and also passing financial aid packages. The Infectious Diseases Act saw amendments in March and May to adjust to the situation of Covid-19, and yet another amendment in November. This final amendment has caused debate in Germany as some (predominantly right wing) groups deem it too far reaching, but in terms of how the legal instrument works it keeps the setup of the states implementing the measures that the amendment enables. The primary emergency response thus exists at the state level, and this is therefore coded as 6. 
 
 *Sources*:
- https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/germany-report-covid-19-april-2020_en.pdf
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
-https://www.acaps.org/covid19-government-measures-dataset
+ https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html
+https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/germany-report-covid-19-april-2020_en.pdf
+https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://www.acaps.org/covid19-government-measures-dataset
 https://www.deutschland.de/en/news/german-federal-government-informs-about-the-corona-crisis
+https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/guv-19-lp/drittes-bevoelkerungsschutzgesetz.html
+https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/B/3._BevSchG_BGBl.pdf
 
 
 
@@ -58,8 +65,15 @@ https://www.deutschland.de/en/news/german-federal-government-informs-about-the-c
 *Scale*: Character string.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No national-level emergency response. 
@@ -84,8 +98,15 @@ https://www.deutschland.de/en/news/german-federal-government-informs-about-the-c
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No national-level emergency response. 
@@ -110,8 +131,15 @@ https://www.deutschland.de/en/news/german-federal-government-informs-about-the-c
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No national-level emergency response. 
@@ -139,8 +167,15 @@ https://www.deutschland.de/en/news/german-federal-government-informs-about-the-c
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No national-level emergency response. 
@@ -158,15 +193,22 @@ https://www.deutschland.de/en/news/german-federal-government-informs-about-the-c
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No national-level emergency response. 
@@ -184,7 +226,7 @@ https://www.deutschland.de/en/news/german-federal-government-informs-about-the-c
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -194,8 +236,15 @@ https://www.deutschland.de/en/news/german-federal-government-informs-about-the-c
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No national-level emergency response. 
@@ -223,8 +272,15 @@ https://www.deutschland.de/en/news/german-federal-government-informs-about-the-c
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No national-level emergency response. 
@@ -250,26 +306,28 @@ https://www.deutschland.de/en/news/german-federal-government-informs-about-the-c
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- There is no state of emergency, and no other sort of state of exception that has changed the Bundestags role. The German Parliament continues to work, however with ferwer members present and a restricted programme. The Bundestag have also passed and amended federal laws during the pandemic in order to aid the states and population. 
-This is therefore coded as 0. 
+ There is no state of emergency, and no other sort of state of exception that has changed the Bundestags role. The German Parliament continues to work, however with fewer members present and a restricted programme. The Bundestag have also passed and amended federal laws during the pandemic in order to aid the states and population. This is therefore coded as 0. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#G
-"https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/germany-report-covid-19-april-2020_en.pdf
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.deutschland.de/en/news/german-federal-government-informs-about-the-corona-crisis"
+ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#G"https://www.gesetze-im-internet.de/ifsg/BJNR104510000.htmlhttps://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdfhttps://fra.europa.eu/sites/default/files/fra_uploads/germany-report-covid-19-april-2020_en.pdfhttps://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/https://www.acaps.org/covid19-government-measures-datasethttps://www.deutschland.de/en/news/german-federal-government-informs-about-the-corona-crisis"
+https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/guv-19-lp/drittes-bevoelkerungsschutzgesetz.html
 
 
 
@@ -281,15 +339,22 @@ https://www.deutschland.de/en/news/german-federal-government-informs-about-the-c
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -314,8 +379,15 @@ https://www.deutschland.de/en/news/german-federal-government-informs-about-the-c
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -345,16 +417,21 @@ https://www.deutschland.de/en/news/german-federal-government-informs-about-the-c
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- The federal government have coordinated a lot of the emergency response and implemented a set of measures during the pandemic that have resulted in a fairly similar response across most states. However, some states such as Bavaria and Thuringia have taken more far reaching responses, and there are also other states in which differing emergency measures have been imposed. While there thus are some states that do differ a lot from most others, the measures taken are not so different across the states that it results complete or almost complete sub-national variation, and this is therefore coded as 2. 
+ The federal government have coordinated a lot of the emergency response and implemented a set of measures during the pandemic that have resulted in a fairly similar response across most states. However, some states such as Bavaria and Thuringia have taken more far reaching responses at times, and there are also other states in which differing emergency measures have been imposed. While there thus are some states that do differ a lot from most others, the measures taken have not been so different across the states that it results complete or almost complete sub-national variation during any of the periods, and this is therefore coded as 2. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-https://www.tagesschau.de/inland/freiburg-ausgangssperre-101.html
-https://www.stmi.bayern.de/assets/stmi/sus/katastrophenschutz/baymbl_2020_155_feststellung_katastrophenfall.pdf
-https://finanzen.thueringen.de/aktuelles/medieninfo/detailseite/servicestellen-der-thueringer-finanzaemter-werden-fuer-den-besucherverkehr-geschlossen-finanzministeri/
+ https://www.acaps.org/covid19-government-measures-datasethttps://www.tagesschau.de/inland/freiburg-ausgangssperre-101.htmlhttps://www.stmi.bayern.de/assets/stmi/sus/katastrophenschutz/baymbl_2020_155_feststellung_katastrophenfall.pdfhttps://finanzen.thueringen.de/aktuelles/medieninfo/detailseite/servicestellen-der-thueringer-finanzaemter-werden-fuer-den-besucherverkehr-geschlossen-finanzministeri/
 
 
 
@@ -378,10 +455,13 @@ https://finanzen.thueringen.de/aktuelles/medieninfo/detailseite/servicestellen-d
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -389,9 +469,9 @@ Time period: *Jul-Sep*: 0
  Human Rights Watch, Amnesty International and EU agency of fundamental righs have not reported any discrimination within the federal or regional  response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9597
-https://www.amnesty.org/en/search/?country=38455&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
+ https://www.hrw.org/news?country[]=9597
+https://www.amnesty.org/en/search/?country=38455&resourceType=newsarticle&sort=date
+https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
 https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_july_2020.pdf
 
 
@@ -421,10 +501,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_p
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -432,9 +515,9 @@ Time period: *Jul-Sep*: 0
  Neither the EU agency for fundamental rights, Human Rights Watch or Amnesty international has reported any incidents of violations of non-derogable rights, and no other indication has been found that that has occurred in Germany's covid-19 response. This is therefore coded as 0. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9597
-https://www.amnesty.org/en/search/?country=38455&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
+ https://www.hrw.org/news?country[]=9597
+https://www.amnesty.org/en/search/?country=38455&resourceType=newsarticle&sort=date
+https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
 https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_july_2020.pdf
 
 
@@ -459,14 +542,22 @@ https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_p
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the German Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B94%5D=94
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
+ https://rsf.org/en/thematique/internet?countries%5B94%5D=94https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
+https://cpj.org/europe/germany/
 
 
 
@@ -478,21 +569,28 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B94%5D=94
+ https://rsf.org/en/thematique/internet?countries%5B94%5D=94
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
 
 
@@ -505,21 +603,28 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B94%5D=94
+ https://rsf.org/en/thematique/internet?countries%5B94%5D=94
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
 
 
@@ -542,19 +647,22 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Germany,  and no other indications have been found of there having been implemented any such limitations. 
+ Neither Reporters without Borders, committee to protect journalists  nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Germany,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B94%5D=94
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
+ https://rsf.org/en/thematique/internet?countries%5B94%5D=94https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
+https://cpj.org/europe/germany/
 
 
 
@@ -566,7 +674,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -576,19 +684,22 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in Germany,  and no other indications have been found of there having been implemented any such limitations. 
+ Neither Reporters without Borders, committee to protect journalists nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in Germany,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B94%5D=94
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
+ https://rsf.org/en/thematique/internet?countries%5B94%5D=94https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
+https://cpj.org/europe/germany/
 
 
 
@@ -610,19 +721,22 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in Germany,  and no other indications have been found of there having been implemented any such limitations. 
+ Neither Reporters without Borders, committee to protect journalists nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in Germany,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B94%5D=94
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
+ https://rsf.org/en/thematique/internet?countries%5B94%5D=94https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
+https://cpj.org/europe/germany/
 
 
 
@@ -641,23 +755,26 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information,  and no other indications have been found of there being any such limitations. 
+ Neither Reporters without Borders, committee to protect journalists nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information,  and no other indications have been found of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B94%5D=94
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
+ https://rsf.org/en/thematique/internet?countries%5B94%5D=94https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
+https://cpj.org/europe/germany/
 
 
 
@@ -679,19 +796,22 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any verbal harassment of journalists in Germany, and no other indications have been found of there having been any such harassment. 
+ Neither Reporters without Borders, committee to protect journalists nor International Press Institute have reported any verbal harassment of journalists in Germany, and no other indications have been found of there having been any such harassment. Note that while there have been many reports of verbal harassment of journalists in Germany during anti-restriction protests, such harassment has been conducted by protesters and not authorities, and thus not regarded in the coding. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B94%5D=94
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
+ https://rsf.org/en/thematique/internet?countries%5B94%5D=94https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
+https://cpj.org/europe/germany/
 
 
 
@@ -713,19 +833,22 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any physical harassment of journalists in Germany, and no other indications have been found of there having been any such harassment. 
+ Neither Reporters without Borders, committee to protect journalists nor International Press Institute have reported any physical harassment of journalists in Germany, and no other indications have been found of there having been any such harassment. Note that while there have been many reports of physical harassment of journalists in Germany during anti-restriction protests, such harassment has been conducted by protesters and not authorities, and thus not regarded in the coding. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B94%5D=94
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
+ https://rsf.org/en/thematique/internet?countries%5B94%5D=94https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
+https://cpj.org/europe/germany/
 
 
 
@@ -749,10 +872,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -760,7 +886,7 @@ Time period: *Jul-Sep*: 0
  There is no deviations from the information provided by WHO and that of the German Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
 
 *Sources*:
- https://www.zusammengegencorona.de/en/
+ https://www.zusammengegencorona.de/en/
 https://www.deutschland.de/en/corona-virus-germany-overview
 
 
@@ -785,10 +911,13 @@ https://www.deutschland.de/en/corona-virus-germany-overview
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -796,9 +925,9 @@ Time period: *Jul-Sep*: 0
  Neither Human Rights Watch, Amnesty International nor EU agency for fundamental rights have reported any incidents of violence in enforcing emergency measures 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9597
-https://www.amnesty.org/en/search/?country=38455&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
+ https://www.hrw.org/news?country[]=9597
+https://www.amnesty.org/en/search/?country=38455&resourceType=newsarticle&sort=date
+https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
 https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_july_2020.pdf
 
 
@@ -811,7 +940,7 @@ https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_p
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -821,10 +950,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_p
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -833,29 +965,3 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  http://euromil.org/armed-forces-and-covid-19/
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

@@ -1,9 +1,6 @@
 # Serbia 
 
 
-Time 2020-09-14 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-14
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,12 +25,22 @@ Time 2020-09-14
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- A presidential decree 1186/2020, published in Official Gazette 29, declaring a state of emergency from 15 March 2020. 
+ March-June: A presidential decree 1186/2020, published in Official Gazette 29, declaring a state of emergency from 15 March 2020. 
 
-On 7 July, the President announced "as of tomorrow all public gatherings in Belgrade will be banned and that a curfew will be introduced from Friday until Monday", which he later announced would not be possible without declaring another state of emergency. The announcement triggered large anti-lockdown protests, and the measures were not implemented. On 17 July, new restrictive measures were introduced (prohibiting gatherings of more than 10 people, making wearing masks and practicing physical distancing mandatory). 
+On 7 July, the President announced "as of tomorrow all public gatherings in Belgrade will be banned and that a curfew will be introduced from Friday until Monday", which he later announced would not be possible without declaring another state of emergency. The announcement triggered large anti-lockdown protests, and the measures were not implemented. On 17 July, new restrictive measures were introduced (prohibiting gatherings of more than 10 people, making wearing masks and practicing physical distancing mandatory).
+
+July-September, October-December: after the state of emergency ended, emergency measures have been implemented based on  "Zakon o zaštiti stanovništva od zaraznih bolesti" (Law on Protection of the Population from Infectious Diseases) and "Zakon o Vladi" (Law on Government).  "Zakon o zaštiti stanovništva od zaraznih bolesti"  is considered the primary legal instrument since it most resembles "a state of exception" (Art 6. gives the government authority to declare and implement emergency measures related to infectious diseases). The legal instrument was used to declare "UREDBU o merama za sprečavanje i suzbijanje zarazne bolesti COVID-19" ("REGULATION on measures for prevention and control of infectious diseases COVID-19") (among other decrees) that has been amended several times in both time periods. 
 
 *Sources*:
  http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/predsednik/odluka/2020/29/1/reg
@@ -42,6 +49,10 @@ On 7 July, the President announced "as of tomorrow all public gatherings in Belg
 https://www.predsednik.rs/en/press-center/news/address-of-the-president-of-the-republic-of-serbia-on-07th-july-2020
 https://www.euronews.com/2020/07/08/coronavirus-protesters-attempt-to-storm-parliament-in-serbia-as-lockdown-measures-are-rein
 https://www.srbija.gov.rs/vest/478429/od-sutra-na-snazi-nove-mere-u-borbi-protiv-koronavirusa.php
+
+https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/uredba/2020/66/1/reg
+https://www.paragraf.rs/propisi/zakon_o_zastiti_stanovnistva_od_zaraznih_bolesti.html
+https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/ministarstva/naredba/2020/100/1/reg
 
 
 
@@ -60,14 +71,27 @@ https://www.srbija.gov.rs/vest/478429/od-sutra-na-snazi-nove-mere-u-borbi-protiv
 *Scale*: Character string.
 
  
-*Answer*: Constitution (Article 200, paragraph 5) 
+*Time period: Q2*: Constitution (Article 200, paragraph 5)
+
+ 
+*Time period: Q3*: "Zakon o zaštiti stanovništva od zaraznih bolesti"
+
+ 
+*Time period: Q4*: "Zakon o zaštiti stanovništva od zaraznih bolesti"
+
+ 
 
 *Comments*:
- Article 200, paragraph 5: "When the National Assembly is not in a position to convene, the decision proclaiming the state of emergency shall be adopted by the President of the Republic together with the President of the National Assembly and the Prime Minister, under the same terms as by the National Assembly." 
+ March-June: According to Article 200, paragraph 5 of the Constitution: "When the National Assembly is not in a position to convene, the decision proclaiming the state of emergency shall be adopted by the President of the Republic together with the President of the National Assembly and the Prime Minister, under the same terms as by the National Assembly."
+
+July-September, October-December: According to Art.6 of  "Zakon o zaštiti stanovništva od zaraznih bolesti", the government can determine measures used to deal with infectious diseases and their implementation. 
 
 *Sources*:
  http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/predsednik/odluka/2020/29/1/reg
 https://www.constituteproject.org/constitution/Serbia_2006?lang=en
+
+https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/uredba/2020/66/1/reg
+https://www.paragraf.rs/propisi/zakon_o_zastiti_stanovnistva_od_zaraznih_bolesti.html
 
 
 
@@ -86,10 +110,20 @@ https://www.constituteproject.org/constitution/Serbia_2006?lang=en
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-15 
+*Time period: Q2*: 2020-03-15
+
+ 
+*Time period: Q3*: 2020-05-07
+
+ 
+*Time period: Q4*: 2020-05-07
+
+ 
 
 *Comments*:
-*No comment provided* 
+ March-June:   state of emergency was declared from 15 March 2020. 
+
+July-September, October-December:  "Zakon o zaštiti stanovništva od zaraznih bolesti" was first used on 7 May 2020 following the end of the state of emergency. 
 
 *Sources*:
  http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/predsednik/odluka/2020/29/1/reg
@@ -111,14 +145,26 @@ https://www.constituteproject.org/constitution/Serbia_2006?lang=en
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-06 
+*Time period: Q2*: 2020-05-06
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Decision to end the state of emergency was made by the parliament, published in the Official Gazette 65. 
+ March-June: Decision to end the state of emergency was made by the parliament, published in the Official Gazette 65.
+
+July-September, October-December: the implementation of the legal instrument has not ended at the time of coding, the latest measures were announced from 24 November 2020 (as of the time of coding). 
 
 *Sources*:
  https://www.srbija.gov.rs/vest/en/155727/serbia-lifts-state-of-emergency.php
 http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/skupstina/odluka/2020/65/1/reg
+
+https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/uredba/2020/66/1/reg
 
 
 
@@ -140,16 +186,27 @@ http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/skupstina/
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- According to Article 200 of the Constitution, the state of emergency can last up to 90 days and can be extended by another 90 days by the parliament.
+ March-June: According to Article 200 of the Constitution, the state of emergency can last up to 90 days and can be extended by another 90 days by the parliament.
 
-Note that measures implemented since 17 July (not under a state of emergency; e.g. prohibition on gathering of more than 10 people) did not have a time limit. 
+July-September, October-December: some measures implemented after the end of the state of emergency do not have a defined time limit (e.g. prohibition on gathering of more than 10 people since 17 July) 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Serbia_2006?lang=en
 https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B345%5D&covid19=1
+
+
+https://www.srbija.gov.rs/vest/481522/stroze-preventivne-mere-ostaju-na-snazi-do-daljeg.php
 https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/ministarstva/naredba/2020/100/1/reg
 
 
@@ -162,17 +219,27 @@ https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/ministars
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-06 
+*Time period: Q2*: 2020-05-06
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Decision to end the state of emergency was made by the parliament on 6 May 2020, published in the Official Gazette 65. 
+ March-June: Decision to end the state of emergency was made by the parliament on 6 May 2020, published in the Official Gazette 65.
+
+July-September, October-December: no defined time limit for some emergency measures. 
 
 *Sources*:
  https://www.srbija.gov.rs/vest/en/155727/serbia-lifts-state-of-emergency.php
@@ -188,7 +255,7 @@ http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/skupstina/
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -198,15 +265,27 @@ http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/skupstina/
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- According to Article 200 of the Constitution, a decision to declare a state of emergency is made by the parliament but "when the decision on the state of emergency has not been passed by the National Assembly, the National Assembly shall verify it within 48 hours from its passing, that is, as soon as it is in a position to convene." The approval of the state of emergency was made on 28 April 2020 by the parliament, following the first plenary session after the state of emergency was declared, therefore coded as 1. The Steering Committee of the Serbian Bar Association argues that the declaration of the state of emergency was declared unconstitutionally and "the decision of the President of the Republic, the Speaker of the National Assembly and the Prime Minister to declare a state of emergency does not contain a rationale behind such decision, which makes it impossible to determine whether the conditions for the application of Article 200(5) of the Constitution of the Republic of Serbia have been met, i.e. whether there was a reason why the National Assembly was unable to meet". 
+ March-June: According to Article 200 of the Constitution, a decision to declare a state of emergency is made by the parliament but "when the decision on the state of emergency has not been passed by the National Assembly, the National Assembly shall verify it within 48 hours from its passing, that is, as soon as it is in a position to convene." The approval of the state of emergency was made on 28 April 2020 by the parliament, following the first plenary session after the state of emergency was declared, therefore coded as 1. The Steering Committee of the Serbian Bar Association argues that the declaration of the state of emergency was declared unconstitutionally and "the decision of the President of the Republic, the Speaker of the National Assembly and the Prime Minister to declare a state of emergency does not contain a rationale behind such decision, which makes it impossible to determine whether the conditions for the application of Article 200(5) of the Constitution of the Republic of Serbia have been met, i.e. whether there was a reason why the National Assembly was unable to meet".
+
+July-September, October-December: parliamentary approval is not required based on  "Zakon o zaštiti stanovništva od zaraznih bolesti". 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Serbia_2006?lang=en
 http://constitutionnet.org/news/critics-allege-serbias-state-emergency-was-declared-unconstitutionally
 https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#S
+
+https://www.paragraf.rs/propisi/zakon_o_zastiti_stanovnistva_od_zaraznih_bolesti.html
 
 
 
@@ -228,14 +307,27 @@ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#S
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The approval of the state of emergency was made on 29 April 2020 by the parliament, following a plenary session on 28 April, therefore coded as 1. 
+ March-June: The approval of the state of emergency was made on 29 April 2020 by the parliament, following a plenary session on 28 April, therefore coded as 1.
+
+
+July-September, October-December: parliamentary approval is not required based on  "Zakon o zaštiti stanovništva od zaraznih bolesti". 
 
 *Sources*:
  http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/predsednik/odluka/2020/29/1/reg
 http://www.parlament.gov.rs/%D0%9F%D1%80%D0%B2a_%D1%81%D0%B5%D0%B4%D0%BD%D0%B8%D1%86a_%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B5_%D1%81%D0%BA%D1%83%D0%BF%D1%88%D1%82%D0%B8%D0%BD%D0%B5.38956.43.html
+
+https://www.paragraf.rs/propisi/zakon_o_zastiti_stanovnistva_od_zaraznih_bolesti.html
 
 
 
@@ -255,21 +347,37 @@ http://www.parlament.gov.rs/%D0%9F%D1%80%D0%B2a_%D1%81%D0%B5%D0%B4%D0%BD%D0%B8%D
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- The parliament was dissolved from 4 March until 28 April 2020.  Since the dissolution of the parlimanet had to be extended due to covid-19, leglimit is coded as 4 during March-June 2020 period. 
+ March-June: The parliament was dissolved from 4 March until 28 April 2020.  Since the dissolution of the parliament had to be extended due to covid-19, leglimit is coded as 4. 
 
-On 4 March 2020, the President dissolved the parliament in preparation for 26 April parliamentary elections (later postponed to 21 June). According to Art.200 of the Constitution, the state of emergency is declared by the parliament and the parliament cannot be dissolved during the state of emergency. In case the parliament is unable to convene, the decision to declare the state of emergency is made by the President and Prime Minister. On 15 March, the state of emergency was declared by the President and the Prime Minister, which was not approved by the parliament since it was unable to convene because of a limit on public gatherings due to covid-19. The parliament did not function from 4 March until 28 April, and approved the declaration of the state of emergency (and other decrees on emergency measures; 44 decrees in total) retroactively on 28 April. On 6 May, the parliament voted to lift the state of emergency. Since I found no evidence of other measures limiting the lawmaking role of the legislature, leglimit is coded as 0 during July-September 2020 period. 
+On 4 March 2020, the President dissolved the parliament in preparation for 26 April parliamentary elections (later postponed to 21 June). According to Art.200 of the Constitution, the state of emergency is declared by the parliament and the parliament cannot be dissolved during the state of emergency. In case the parliament is unable to convene, the decision to declare the state of emergency is made by the President and Prime Minister. On 15 March, the state of emergency was declared by the President and the Prime Minister, which was not approved by the parliament since it was unable to convene because of a limit on public gatherings due to covid-19. The parliament did not function from 4 March until 28 April, and approved the declaration of the state of emergency (and other decrees on emergency measures; 44 decrees in total) retroactively on 28 April. On 6 May, the parliament voted to lift the state of emergency.
+
+July-September, October-December: Art 6. of "Zakon o zaštiti stanovništva od zaraznih bolesti"   gives the government authority to declare and implement emergency measures related to infectious diseases, so the executive can rule by decree on matters related to Covid-19. 
 
 *Sources*:
- https://www.predsednik.rs/lat/pres-centar/vesti/predsednik-vucic-raspisao-redovne-parlamentarne-izborehttps://www.inter-pares.eu/inter-pares-parliamentary-data-trackerhttps://www.osce.org/odihr/human-rights-states-of-emergency-covid19https://www.constituteproject.org/constitution/Serbia_2006?lang=enhttp://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/skupstina/zakon/2020/62/1/reg
+ https://www.predsednik.rs/lat/pres-centar/vesti/predsednik-vucic-raspisao-redovne-parlamentarne-izbore
+https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+https://www.constituteproject.org/constitution/Serbia_2006?lang=en
+http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/skupstina/zakon/2020/62/1/reg
+
+https://www.paragraf.rs/propisi/zakon_o_zastiti_stanovnistva_od_zaraznih_bolesti.html
 
 
 
@@ -281,14 +389,22 @@ On 4 March 2020, the President dissolved the parliament in preparation for 26 Ap
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-04 
+*Time period: Q2*: 2020-03-04
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  On 4 March 2020, the President dissolved the parliament in preparation for 26 April parliamentary elections (later postponed to 21 June because elections were suspended during the state of emergency (Art 5. of Decree on Measures during the State of Emergency from 16 March 2020)). 
@@ -314,7 +430,15 @@ https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/ure
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-28 
+*Time period: Q2*: 2020-04-28
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The parliament held its first session during the state of emergency and approved the declaration of the state of emergency (and other 44 decrees on emergency measures) retroactively on 28 April. According to OSCE report (p.68), the parliament did not give a clear justification for the suspension of its activities. 
@@ -345,10 +469,18 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Almost uniform measures throughout the country during March-June 2020. On 3 July, special measures were announced in the capital Belgrade. 
+ Almost uniform measures throughout the country during March-June, October December. During July-September, there were special measures in the capital Belgrade. 
 
 *Sources*:
  http://www.pravno-informacioni-sistem.rs/fp/covid19
@@ -356,6 +488,8 @@ https://www.reuters.com/article/us-health-coronavirus-serbia-idUSKBN24416T
 https://www.srbija.gov.rs/vest/en/158547/special-measures-to-curb-covid-19-in-territory-of-belgrade.php
 
 https://www.srbija.gov.rs/vest/476370/nove-mere-za-beograd-u-cilju-sprecavanja-sirenja-covid-19.php
+https://www.garda.com/crisis24/news-alerts/356336/serbia-state-of-emergency-declared-in-belgrade-on-july-3-amid-surge-in-covid-19-cases-update-13
+https://www.srbija.gov.rs/vest/477069/nove-mere-i-policijski-cas-u-beogradu-od-petka-do-ponedeljka.php
 
 
 
@@ -379,27 +513,36 @@ https://www.srbija.gov.rs/vest/476370/nove-mere-za-beograd-u-cilju-sprecavanja-s
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 3
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
 
  
 
 *Comments*:
- Housing centers for refugees, migrant and asylum-seekers were placed under 24-hour quarantine. The residents were not allowed to leave the centers, except for getting medical care. According to the Amnesty International report, “the authorities imposed a special regime, selectively targeting government operated centres housing refugees, migrants, and asylum-seekers, placing them under a strict 24-hour mandatory quarantine and deploying the military to monitor the curfew”. Additionally, the quarantine was still in place even after the state of emergency ended. Coded as 2 since it is de-jure measures (see order 512-02-9/32/2020-01) but presumably not all migrants and refugees are affected as not all of them live in government housing. 
+ Housing centers for refugees, migrant and asylum-seekers were placed under 24-hour quarantine. The residents were not allowed to leave the centers, except for getting medical care. According to the Amnesty International report, “the authorities imposed a special regime, selectively targeting government operated centres housing refugees, migrants, and asylum-seekers, placing them under a strict 24-hour mandatory quarantine and deploying the military to monitor the curfew”.  Based on information from August, there were no Covid-19 cases in the housing centers.
 
- According to point 3 of the Order 512-02-9/32/2020-01 , the measures apply until the danger of the spread of Covid-19 persists. I found no further information about the time limit of the measures or evidence that they have ended. 
+De-jure, the measures for housing centers applied for the duration of the state of emergency (BBC) and, after the state of emergency ended, were reintroduced from 7 May 2020, and were repealed from 15 May 2020 (Službeni glasnik RS", broj 66 and broj 74). Nevertheless, there is evidence that the restrictions on movement continued. According to Amnesty International, "On 17 May, the authorities deployed the armed forces to guard camps in Sid, arguing that this was necessary to manage the security situation and to protect citizens from petty crime and harassment, although no increase of such incidents was recorded in the town." A BBC article from 27 November says that while there are no restrictive measures de-jure, de-facto there are restrictions on movement, such as requirements to get permits to be able to leave the centers and 14-day quarantine for new arrivals.  Since I found no evidence that discrimination against refugees, migrants and asylum-seeks stopped, it is coded as major de-facto discrimination in July-September, October-December.
+ 
 
 *Sources*:
  http://www.mod.gov.rs/cir/15902/ministar-vulin-za-sve-migrante-vazi-24-casovni-karantin-sve-dok-ne-prodje-kriza-15902
 
 http://www.vs.rs/sr_lat/vesti/3601331A97AD11EAA7E10050568F5424/vojska-srbije-pocela-obezbedjenje-prihvatnih-centara-u-sidu
+http://www.mod.gov.rs/cir/16305/ministar-vulin-sacuvali-smo-srbiju-od-migrantske-krize-16305
 
 https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
 https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/ministarstva/naredba/2020/66/2/reg
 http://www.mod.gov.rs/cir/16030/saopstenje-16030
+http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/viewdoc?uuid=cea979ce-65b4-4fa3-a896-3a15870af345
 https://www.rts.rs/page/stories/ci/story/124/drustvo/4072893/migranata-u-prihvatnim-centrima.html
+http://www.bgcentar.org.rs/inicijativa-ustavnom-sudu-za-ocenu-ustavnosti-i-zakonitosti-naredbe-o-ogranicenju-kretanja-na-prilazima-otvorenom-prostoru-i-objektima-prihvatnih-centara-za-migrante-i-centara-za-azil/
+https://www.bbc.com/serbian/cyr/srbija-55091114
+
 
 
 
@@ -428,10 +571,13 @@ https://www.rts.rs/page/stories/ci/story/124/drustvo/4072893/migranata-u-prihvat
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -463,10 +609,18 @@ Time period: *Jul-Sep*: 0
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 2 
+*Time period: Q2*: 3
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- On 28 March, the government passed a decree that would centralize information on covid-19 and "penalise anyone releasing information about the coronavirus outbreak that is not ‘authorised’ by the Office of the Prime Minister or by individuals approved by the Crisis Management Taskforce" (Council of Europe); the decree was dropped on 3 April 2020. 
+ On 28 March, the government passed a decree that would centralize information on covid-19 and "penalise anyone releasing information about the coronavirus outbreak that is not ‘authorised’ by the Office of the Prime Minister or by individuals approved by the Crisis Management Taskforce" (Council of Europe); the decree was dropped on 3 April 2020 and I found no further measures limiting media freedom. 
 
 *Sources*:
  https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/
@@ -485,14 +639,22 @@ https://www.icnl.org/covid19tracker/?location=109&issue=&date=&type=
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-28 
+*Time period: Q2*: 2020-03-28
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -512,14 +674,22 @@ http://stab.smederevo.org.rs/2020/04/01/%D0%B7%D0%B0%D0%BA%D1%99%D1%83%D1%87%D0%
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-03 
+*Time period: Q2*: 2020-04-03
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The decree on centralization of public information (see melim) was dropped on 3 April 2020. 
@@ -547,10 +717,13 @@ http://stab.smederevo.org.rs/2020/04/01/%D0%B7%D0%B0%D0%BA%D1%99%D1%83%D1%87%D0%
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -572,7 +745,7 @@ https://ipi.media/serbia/
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -582,15 +755,18 @@ https://ipi.media/serbia/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- On 1 April a journalist was arrested following reporting on conditions in a local hospital. Since it was a single incident and no further cases were reported, merepgov is coded as 0 in July-September 2020. 
+ On 1 April a journalist was arrested following reporting on conditions in a local hospital. Since it was a single incident and no further cases were reported, merepgov is coded as 0 in July-September, October-December 2020. 
 
 *Sources*:
  https://rsf.org/en/news/repressive-laws-prosecutions-attacks-europe-fails-shield-its-journalists-against-abuse-covid-19
@@ -620,10 +796,13 @@ h
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -652,24 +831,29 @@ https://ipi.media/serbia/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Journalists are banned from attending daily press conferences and can send questions via email. According to IPI, the goverment "doubled the amount of time public bodies have to respond to requests. Since then, media have reported that institutions have cited the new rules in refusing to provide information."  Since the state of emergency ended on 6 May 2020, restrictions on media access are coded only during March-June 2020 period. 
+ Journalists are banned from attending daily press conferences and can send questions via email. According to IPI, the goverment "doubled the amount of time public bodies have to respond to requests. Since then, media have reported that institutions have cited the new rules in refusing to provide information."  Since the state of emergency ended on 6 May 2020, restrictions on media access are coded only during March-June 2020 period. Moreover, videos of press conferences from November seem to show that journalists are physically present and ask questions at press conferences. 
 
 *Sources*:
  https://ipi.media/access-denied-foi-deadlines-extended-or-suspended-across-europe/
 https://ipi.media/covid19-media-freedom-monitoring/https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/uredba/2020/41/2/reg
+https://www.youtube.com/watch?v=3kWQOAMdljk
+https://www.youtube.com/watch?v=uZN9ZO0qq8U
 
 
 
@@ -691,10 +875,13 @@ http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/ured
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -724,17 +911,20 @@ Time period: *Jul-Sep*: 0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
  A journalist was arrested on 1 April on grounds of "spreading panic" after publishing a report on conditions in a local hospital. 
 
-Several journalists were physically harassed by the police while covering anti-lockdown protests in July 2020. Although the journalist not directly reporting on Covid-19, it indicates that physical harassment towards journalists in general is ongoing, which can be seen as evidence that the situation has not improved. 
+Several journalists were physically harassed by the police while covering anti-lockdown protests in July 2020. Since the journalists were not reporting about Covid-19 and there was only one incident of physical harassment related to reporting on Covid-19, mephar is coded as 0 in July-September, October-December. 
 
 *Sources*:
  https://cpj.org/2020/04/serbian-reporter-ana-lalic-on-her-arrest-and-deten/
@@ -766,27 +956,29 @@ https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_co
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Reports on repeated misinformation from MD Branimir Nestorovic, a member of the the expert emergency team (stating that the virus is a joke, that it does not affect women, that Serbs have a genetic modification in blood protecting them from a virus, that we should get exposed to the virus to help create collective immunity, among others). According to local media reports, Branimir Nestorovic has not made any more controversial statements since June 2020.  Nevertheless, I haven't found any information that these statements have been refuted, therefore govmis is coded as 2 in both time periods (March-June and July-September 2020).
+ Reports on repeated misinformation from MD Branimir Nestorovic, a member of the the expert emergency team (stating that the virus is a joke, that it does not affect women, that Serbs have a genetic modification in blood protecting them from a virus, that we should get exposed to the virus to help create collective immunity, among others). According to local media reports, Branimir Nestorovic has not made any more controversial statements since June 2020.  Nevertheless, I haven't found any information that these statements have been refuted, therefore govmis is coded as 2 in March-June and July-September 2020. Branimir Nestorovic left the emergency team in August 2020. Because he could not longer be considered part of the government or its agents and I found no other reports on disinformation, coding is changed to 0 in October-December 2020. 
 
 There have been reports that the authorities have underreported the number of Covid-19 cases, but it was denied by the President and also falls outside the scope of the question. 
 
 *Sources*:
- https://rsf.org/en/serbia
-https://ipi.media/serbia/
-https://globalvoices.org/2020/04/22/six-false-statements-by-serbian-government-officials-on-covid-19/
+ https://globalvoices.org/2020/04/22/six-false-statements-by-serbian-government-officials-on-covid-19/
 
 https://www.istinomer.rs/analize/preslobodne-tvrdnje-jednog-pulmologa
 https://www.istinomer.rs/izjava/srbija-imala-krizni-stab-kad-jos-niko-nije
 https://www.bbc.com/serbian/lat/srbija-52067487
 https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B345%5D&covid19=1
+https://www.b92.net/eng/news/society.php?yyyy=2020&mm=08&dd=07&nav_id=109087
 
 
 
@@ -810,15 +1002,18 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B34
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- One report of a police officer hitting a person who violated curfew; coded as 0 since it is only one incident. Note that police violence during anti-lockdown protests in July is not considered part of emergency measures. 
+ One report of a police officer hitting a person who violated curfew; coded as 1 in March-June since it is only one incident. Note that police violence during anti-lockdown protests in July is not considered part of emergency measures. 
 
 *Sources*:
  http://rs.n1info.com/English/NEWS/a589618/Serbia-s-police-to-probe-officer-behaviour-during-state-of-emergency.html
@@ -838,7 +1033,7 @@ https://ipi.media/numerous-journalists-beaten-and-attacked-covering-serbia-prote
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -848,43 +1043,21 @@ https://ipi.media/numerous-journalists-beaten-and-attacked-covering-serbia-prote
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The military was patrolling the streets of big cities (Amnesty International).  I have not found any evidence that the military's involvement in enforcing confinement measures was lifted.
+ The military was patrolling the streets of big cities (Amnesty International) and was deployed to asylum and migration centers.  I have not found any evidence that the military's involvement in enforcing confinement measures was lifted.
  
 
 *Sources*:
  http://www.mod.gov.rs/cir/15798/pojacane-mere-vojske-srbije-na-suzbijanju-covida-19-u-valjevu-15798
 https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*
+http://rs.n1info.com/Vesti/a600134/Mediji-Vucic-naredio-odlazak-Vojske-u-Sid-zbog-migranata.html

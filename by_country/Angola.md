@@ -1,9 +1,6 @@
 # Angola 
 
 
-Time 2020-08-31 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-08-31
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,16 +25,25 @@ Time 2020-08-31
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
+
+ 
 
 *Comments*:
- The Presidental Decree nº 81/20 declared a state of emergency on March 25. The state of emergency was in place until May 25, and after that Angola transitioned to a state of calamity, which allows the government to impose some restrictive measures. The state of calamity has been extended until October 8. 
+ The Presidental Decree nº 81/20 declared a state of emergency on March 25, and it was in place until May 25. Once it ended, the Presidential Decree nº 142/20 declared a state of calamity, which allows the government to impose some restrictive measures. The state of calamity has been extended until December 22. 
 
 *Sources*:
- https://www.angolaturismo.ao/docs/DecretoPresidencial%208120de25de%20Marco.pdf
-https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
-https://www.vda.pt/pt/publicacoes/insights/estado-de-emergencia-e-de-calamidade-publica/21946/
-https://www.dw.com/pt-002/covid-19-cerca-sanit%C3%A1ria-em-luanda-prolongada-at%C3%A9-8-de-setembro/a-54503245
+ https://www.angolaturismo.ao/docs/DecretoPresidencial%208120de25de%20Marco.pdf
+https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
+https://www.vda.pt/pt/publicacoes/insights/estado-de-emergencia-e-de-calamidade-publica/21946/
+https://governo.gov.ao/fotos/frontend_1/gov_documentos/200527_ja_decreto_presidencial_8066864925f3b7349d7c68.pdf
+https://governo.gov.ao/ao/noticias/governo-actualiza-medidas-de-controlo-da-covid-19/
 
 
 
@@ -56,13 +62,22 @@ https://www.dw.com/pt-002/covid-19-cerca-sanit%C3%A1ria-em-luanda-prolongada-at%
 *Scale*: Character string.
 
  
-*Answer*: Constitution Article 58 and Law nº 17/91 
+*Time period: Q2*: Constitution Article 58 and Law nº 17/91
+
+ 
+*Time period: Q3*: Law nº 28/03 as modified by Law nº 14/20
+
+ 
+*Time period: Q4*: Law nº 28/03 as modified by Law nº 14/20
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  https://www.wipo.int/edocs/lexdocs/laws/pt/ao/ao001pt.pdf
+https://www.bfa.ao/media/2339/lei-n%C2%BA-14-20-de-22-de-maio-alteracao-a-lei-de-base-da-proteccao-civil.pdf
 
 
 
@@ -81,13 +96,22 @@ https://www.dw.com/pt-002/covid-19-cerca-sanit%C3%A1ria-em-luanda-prolongada-at%
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-27 
+*Time period: Q2*: 2020-03-27
+
+ 
+*Time period: Q3*: 2020-05-26
+
+ 
+*Time period: Q4*: 2020-05-26
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
+https://governo.gov.ao/fotos/frontend_1/gov_documentos/200527_ja_decreto_presidencial_8066864925f3b7349d7c68.pdf
 
 
 
@@ -106,14 +130,23 @@ https://www.dw.com/pt-002/covid-19-cerca-sanit%C3%A1ria-em-luanda-prolongada-at%
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-25 
+*Time period: Q2*: 2020-05-25
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The state of emergency ended on May 25 and at the same time a state of calamity was declared. It has been in place since, currently until October 8. 
+ The state of emergency ended on May 25 and at the same time a state of calamity was declared. It has been in place since, currently until December 22. 
 
 *Sources*:
- https://www.vda.pt/pt/publicacoes/insights/estado-de-emergencia-e-de-calamidade-publica/21946/
+ https://www.vda.pt/pt/publicacoes/insights/estado-de-emergencia-e-de-calamidade-publica/21946/
 https://rr.sapo.pt/2020/05/26/mundo/fim-do-estado-de-emergencia-em-angola/noticia/194244/
+https://governo.gov.ao/ao/noticias/governo-actualiza-medidas-de-controlo-da-covid-19/
 
 
 
@@ -135,14 +168,23 @@ https://rr.sapo.pt/2020/05/26/mundo/fim-do-estado-de-emergencia-em-angola/notici
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The state of emergency was first declared for 15 days, until April 11. The Law nº 17/91, Article 8, establishes that a state of emergency can't last more than 90 days and, when declared, it must have an end date, but it can be renewed with legislative approval. 
+ The Law nº 17/91, Article 8, establishes that a state of emergency can't last more than 90 days and, when declared, it must have an end date, but it can be renewed with legislative approval. It was first declared for 15 days, and later extended. The state of calamity was first declared until June 9, and later extended. 
 
 *Sources*:
- https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
+ https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
 https://www.governo.gov.ao/download.aspx?id=2411&tipo=legislacao
+https://governo.gov.ao/fotos/frontend_1/gov_documentos/200527_ja_decreto_presidencial_8066864925f3b7349d7c68.pdf
 
 
 
@@ -154,21 +196,30 @@ https://www.governo.gov.ao/download.aspx?id=2411&tipo=legislacao
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-25 
+*Time period: Q2*: 2020-05-25
+
+ 
+*Time period: Q3*: 2020-10-08
+
+ 
+*Time period: Q4*: 2020-12-23
+
+ 
 
 *Comments*:
- At first, the state of emergency was declared for 15 days, until April 11 (page 74). It was then extended twice, until May 25. 
+ At first, the state of emergency was declared for 15 days, until April 11 (page 74). It was then extended twice, until May 25.  The state of calamity was first declared until June 9, and later extended several times, currently until December 22. 
 
 *Sources*:
- https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
+ https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
 https://www.vda.pt/pt/publicacoes/insights/estado-de-emergencia-e-de-calamidade-publica/21946/
+https://governo.gov.ao/fotos/frontend_1/gov_documentos/200527_ja_decreto_presidencial_8066864925f3b7349d7c68.pdf
 
 
 
@@ -180,7 +231,7 @@ https://www.vda.pt/pt/publicacoes/insights/estado-de-emergencia-e-de-calamidade-
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -190,13 +241,22 @@ https://www.vda.pt/pt/publicacoes/insights/estado-de-emergencia-e-de-calamidade-
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Law nº 17/91, Chapter 3, determines that the president needs legislative approval to declare a state of emergency. 
+ Law nº 17/91, Chapter 3, determines that the president needs legislative approval to declare a state of emergency. The Law nº 14/20, Article 11, determines that "The holder of the Executive Branch is responsible for declaring the situation of catastrophe or public calamity". 
 
 *Sources*:
  https://www.governo.gov.ao/download.aspx?id=2411&tipo=legislacao
+https://www.bfa.ao/media/2339/lei-n%C2%BA-14-20-de-22-de-maio-alteracao-a-lei-de-base-da-proteccao-civil.pdf
 
 
 
@@ -218,14 +278,23 @@ https://www.vda.pt/pt/publicacoes/insights/estado-de-emergencia-e-de-calamidade-
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The parliament approved the state of emergency in a unanimous decision. 
+ The parliament approved the state of emergency in a unanimous decision. The state of calamity does not require legislative approval. 
 
 *Sources*:
- http://www.parlamento.ao/noticias/iii-legislatura/-/blogs/parlamento-da-nota-positiva-ao-periodo-de-estado-de-emergencia?_33_redirect=http%3A%2F%2Fwww.parlamento.ao%2Fsecretaria-geral%2Fsg-iiil%2Fsecretario-geral%2Festrutura-da-secretaria-geral%2Fchefes-de-divisao%3Fp_p_id%3D101_INSTANCE_6cJP%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-3%26p_p_col_count%3D4#http://www.parlamento.ao/glue/AN_Navigation.jsp?
-http://www.novojornal.co.ao/politica/interior/coronaviruscovid-19-presidente-da-republica-decreta-estado-de-emergencia-86295.html
+ http://www.parlamento.ao/noticias/iii-legislatura/-/blogs/parlamento-da-nota-positiva-ao-periodo-de-estado-de-emergencia#http://www.parlamento.ao/glue/AN_Navigation.jsp?
+http://www.parlamento.ao/glue/AN_Navigation.jsp?
+http://www.novojornal.co.ao/politica/interior/coronaviruscovid-19-presidente-da-republica-decreta-estado-de-emergencia-86295.html
 https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
 
 
@@ -246,16 +315,24 @@ https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legisla
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- During the state of emergency, the president ruled by decree on covid-19 matters in accordance with the article 20 of the law n. 17/91. The constitution (article 237) establishes that, while the state of emergency is in force, no amendment to the Constitution can be made. The state of emergency ended on May 25. 
+ The Constitution (Article 237) establishes that, while the state of emergency is in force, no amendment to the constitution can be made, but the president can rule by decree on covid-19 matters, as allowed by the Law nº 17/91, Article 20. The president continued to rule by decree during the state of calamity, since according to the Law nº 14/20 (Article 11) "The holder of the Executive Branch is responsible for: [...] c) declaring the situation of catastrophe or public calamity; d) Adopt, in the case provided for in the preceding paragraph, measures aimed at restoring normality; [...] h) To assume the direction of operations in the event of catastrophe or public calamity". 
 
 *Sources*:
  https://www.governo.gov.ao/download.aspx?id=2411&tipo=legislacao
@@ -271,15 +348,22 @@ https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legisla
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -304,8 +388,15 @@ https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legisla
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -335,14 +426,23 @@ https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legisla
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  There are sanitary barriers in Luanda and Kwanza Norte to avoid spreading the coronavirus to other cities and regions. 
 
 *Sources*:
- http://jornaldeangola.sapo.ao/sociedade/covid-19-luanda-comeca-nova-fase-da-cerca-sanitaria
+ http://jornaldeangola.sapo.ao/sociedade/covid-19-luanda-comeca-nova-fase-da-cerca-sanitaria
 https://www.dw.com/pt-002/covid-19-cerca-sanit%C3%A1ria-renovada-em-luanda-mas-viola%C3%A7%C3%B5es-persistem/a-53954334
+https://www.angop.ao/noticias/sociedade/covid-19-angola-vive-sexto-periodo-de-calamidade-publica/
 
 
 
@@ -366,10 +466,13 @@ https://www.dw.com/pt-002/covid-19-cerca-sanit%C3%A1ria-renovada-em-luanda-mas-v
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -378,9 +481,9 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
-
-https://www.amnesty.org/en/search/?q=&sort=date&issue=67596&country=38567&resourceType=newsarticle
+https://www.amnesty.org/en/countries/africa/angola/
 https://www.hrw.org/africa/angola
+https://monitor.civicus.org/country/angola/
 
 
 
@@ -409,10 +512,13 @@ https://www.hrw.org/africa/angola
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -421,9 +527,9 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
-
-https://www.amnesty.org/en/search/?q=&sort=date&issue=67596&country=38567&resourceType=newsarticle
+https://www.amnesty.org/en/countries/africa/angola/
 https://www.hrw.org/africa/angola
+https://monitor.civicus.org/country/angola/
 
 
 
@@ -447,13 +553,22 @@ https://www.hrw.org/africa/angola
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. The Presidential Decree nº 81/20, Article 3, determines that there can be no limitation to freedom of information during the state of emergency. 
 
 *Sources*:
  https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
+https://governo.gov.ao/fotos/frontend_1/gov_documentos/200527_ja_decreto_presidencial_8066864925f3b7349d7c68.pdf
 
 
 
@@ -465,15 +580,22 @@ https://www.hrw.org/africa/angola
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -491,15 +613,22 @@ https://www.hrw.org/africa/angola
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -527,10 +656,13 @@ https://www.hrw.org/africa/angola
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -538,8 +670,8 @@ Time period: *Jul-Sep*: 1
  No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. However, media freedom is limited in Angola, since several media outlets are controlled by the government and only a few manage to produce independent and critical reporting. 
 
 *Sources*:
- https://rsf.org/en/angola
-https://www.dw.com/pt-002/jornalistas-alertam-estado-quer-controlar-toda-a-comunica%C3%A7%C3%A3o-social-em-angola/a-54807935
+ https://rsf.org/en/angola
+https://www.dw.com/pt-002/jornalistas-alertam-estado-quer-controlar-toda-a-comunica%C3%A7%C3%A3o-social-em-angola/a-54807935
 https://www.dw.com/pt-002/sindicato-dos-jornalistas-lamenta-recuo-na-liberdade-de-imprensa-em-angola/a-55028194
 
 
@@ -552,7 +684,7 @@ https://www.dw.com/pt-002/sindicato-dos-jornalistas-lamenta-recuo-na-liberdade-d
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -562,10 +694,13 @@ https://www.dw.com/pt-002/sindicato-dos-jornalistas-lamenta-recuo-na-liberdade-d
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -573,8 +708,8 @@ Time period: *Jul-Sep*: 1
  Media freedom is limited in Angola, since several media outlets are controlled by the government and only a few manage to produce independent and critical reporting. The journalists' union accused the public media of not covering demonstrations against the death of an Angolan doctor by police forces after they detained him for not wearing a mask. 
 
 *Sources*:
- https://rsf.org/en/angola
-https://www.dw.com/pt-002/jornalistas-alertam-estado-quer-controlar-toda-a-comunica%C3%A7%C3%A3o-social-em-angola/a-54807935
+ https://rsf.org/en/angola
+https://www.dw.com/pt-002/jornalistas-alertam-estado-quer-controlar-toda-a-comunica%C3%A7%C3%A3o-social-em-angola/a-54807935
 https://www.dw.com/pt-002/sindicato-dos-jornalistas-lamenta-recuo-na-liberdade-de-imprensa-em-angola/a-55028194
 
 
@@ -597,10 +732,13 @@ https://www.dw.com/pt-002/sindicato-dos-jornalistas-lamenta-recuo-na-liberdade-d
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -609,7 +747,7 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
+
 https://ipi.media/covid19-media-freedom-monitoring/
 
 
@@ -629,14 +767,17 @@ https://ipi.media/covid19-media-freedom-monitoring/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -645,8 +786,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/africa/angola/
 
 
 
@@ -668,10 +809,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -680,8 +824,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/africa/angola/
 
 
 
@@ -703,10 +847,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -715,8 +862,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/africa/angola/
 
 
 
@@ -740,10 +887,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -752,8 +902,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://governo.gov.ao/ao/noticias/
 
 
 
@@ -777,10 +927,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
@@ -788,14 +941,15 @@ Time period: *Jul-Sep*: 2
  There are several reports of police violence. According to a report by Amnesty International and OMUNGA, security forces killed at least seven people while implementing covid-19 prevention measures. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/campaigns/2020/08/security-forces-brutality-in-angola/
-https://www.aljazeera.com/news/2020/05/angola-teen-killed-soldier-coronavirus-mask-operation-200516141627616.html
-http://www.angop.ao/angola/pt_pt/noticias/politica/2020/4/21/Covid-Agressao-forcas-defesa-resulta-morte,ae4cdcda-4e37-4a04-a735-ada9ff465bd5.html
-https://ionline.sapo.pt/artigo/691639/covid-19-viol-ncia-policial-em-tempos-de-pandemia-?seccao=Mundo
-https://www.amnesty.org/en/latest/news/2020/04/southern-africa-government-intervention-required-as-millions-face-hunger-under-covid19-lockdown-regimes/
-https://www.dw.com/pt-002/pol%C3%ADcia-angolana-mata-mais-que-o-coronav%C3%ADrus/a-53495843
-https://www.amnesty.org/en/latest/news/2020/08/angola-witnesses-describe-horrific-killings-of-teenagers-by-police/
+ https://www.amnesty.org/en/latest/campaigns/2020/08/security-forces-brutality-in-angola/
+https://www.aljazeera.com/news/2020/05/angola-teen-killed-soldier-coronavirus-mask-operation-200516141627616.html
+http://www.angop.ao/angola/pt_pt/noticias/politica/2020/4/21/Covid-Agressao-forcas-defesa-resulta-morte,ae4cdcda-4e37-4a04-a735-ada9ff465bd5.html
+https://ionline.sapo.pt/artigo/691639/covid-19-viol-ncia-policial-em-tempos-de-pandemia-?seccao=Mundo
+https://www.amnesty.org/en/latest/news/2020/04/southern-africa-government-intervention-required-as-millions-face-hunger-under-covid19-lockdown-regimes/
+https://www.dw.com/pt-002/pol%C3%ADcia-angolana-mata-mais-que-o-coronav%C3%ADrus/a-53495843
+https://www.amnesty.org/en/latest/news/2020/08/angola-witnesses-describe-horrific-killings-of-teenagers-by-police/
 https://www.dw.com/pt-002/relat%C3%B3rio-revela-brutalidade-da-pol%C3%ADcia-angolana-durante-estado-de-emerg%C3%AAncia/a-54691312
+https://www.hrw.org/news/2020/11/12/angola-police-fire-peaceful-protesters
 
 
 
@@ -807,7 +961,7 @@ https://www.dw.com/pt-002/relat%C3%B3rio-revela-brutalidade-da-pol%C3%ADcia-ango
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -817,10 +971,13 @@ https://www.dw.com/pt-002/relat%C3%B3rio-revela-brutalidade-da-pol%C3%ADcia-ango
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -829,34 +986,6 @@ Time period: *Jul-Sep*: 1
 
 *Sources*:
  http://www.novojornal.co.ao/sociedade/interior/covid-19-faa-em-prontidao-combativa-ate-ao-fim-do-estado-de-emergencia-86337.html
-
 https://www.dw.com/pt-002/oms-estado-de-emerg%C3%AAncia-em-angola-%C3%A9-medida-adequada/a-52950078
-
-https://governo.gov.ao/ao/noticias/detalhes.php?id=46408
+https://governo.gov.ao/ao/noticias/detalhes.php?id=46408
 https://governo.gov.ao/ao/noticias/detalhes.php?id=45763
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

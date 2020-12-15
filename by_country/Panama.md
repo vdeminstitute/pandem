@@ -1,9 +1,6 @@
 # Panama 
 
 
-Time 2020-09-16 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-16
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,15 +25,23 @@ Time 2020-09-16
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- There were several emergency measures taken by the government in response to the covid-19 pandemic. The Resolución de Gabinete N° 11 declared a state of national emergency on March 13. However, it is not based on the constitution, that forsees a "state of urgency" in which the government could suspend constitutional guarantees. Rather, it is based on the public procurement law, which facilitated the purchase of good and services to deal with an emergency situation and provides the government with an emergency fund. Thus, I consider that the measure that most closely resembles a state of exception was the Executive Decree nº 507, from March 24, that declares a complete lockdown. 
+ There were several emergency measures taken by the government in response to the covid-19 pandemic. The Resolución de Gabinete N° 11 declared a state of national emergency on March 13. However, it is not based on the constitution, that forsees a "state of urgency" in which the government could suspend constitutional guarantees. Rather, it is based on the public procurement law, which facilitates the purchase of good and services to deal with an emergency situation and provides the government with an emergency fund. Thus, I consider that the measure that most closely resembles a state of exception was the Executive Decree nº 507, from March 24, that declares a complete lockdown and defines other emergency measures. 
 
 *Sources*:
- http://www.minsa.gob.pa/contenido/decretos-y-resoluciones-codes
-http://minsa.b-cdn.net/sites/default/files/general/decreto_ejecutivo_507_de_24_de_marzo_de_2020.pdf
-https://www.mitradel.gob.pa/decretoscovid19/resolucion-de-gabinete-no-11-de-13-de-marzo-de-2020-que-declara-el-estado-de-emergencia-nacional-y-dicta-otras-disposiciones-consejo-de-gabinete/#:~:text=11%20de%2013%20de%20marzo%20de%202020%20%E2%80%93%20Que%20declara%20el,otras%20disposiciones%20%E2%80%93%20Consejo%20de%20Gabinetehttp://www.minsa.gob.pa/contenido/decretos-y-resoluciones-codes
+ http://www.minsa.gob.pa/contenido/decretos-y-resoluciones-codes
+http://minsa.b-cdn.net/sites/default/files/general/decreto_ejecutivo_507_de_24_de_marzo_de_2020.pdf
+https://www.mitradel.gob.pa/decretoscovid19/resolucion-de-gabinete-no-11-de-13-de-marzo-de-2020-que-declara-el-estado-de-emergencia-nacional-y-dicta-otras-disposiciones-consejo-de-gabinete/#:~:text=11%20de%2013%20de%20marzo%20de%202020%20%E2%80%93%20Que%20declara%20el,otras%20disposiciones%20%E2%80%93%20Consejo%20de%20Gabinete
 https://www.prensa.com/politica/gabinete-declara-formalmente-el-estado-de-emergencia-nacional/
 
 
@@ -56,7 +61,15 @@ https://www.prensa.com/politica/gabinete-declara-formalmente-el-estado-de-emerge
 *Scale*: Character string.
 
  
-*Answer*: Código Sanitario (Ley 66 de 10 de noviembre de 1940) 
+*Time period: Q2*: Código Sanitario (Ley 66 de 10 de noviembre de 1940)
+
+ 
+*Time period: Q3*: Código Sanitario (Ley 66 de 10 de noviembre de 1940)
+
+ 
+*Time period: Q4*: Código Sanitario (Ley 66 de 10 de noviembre de 1940)
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -81,7 +94,15 @@ https://www.prensa.com/politica/gabinete-declara-formalmente-el-estado-de-emerge
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-25 
+*Time period: Q2*: 2020-03-25
+
+ 
+*Time period: Q3*: 2020-03-25
+
+ 
+*Time period: Q4*: 2020-03-25
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -106,14 +127,24 @@ https://www.prensa.com/politica/gabinete-declara-formalmente-el-estado-de-emerge
 *Scale*: Date format.
 
  
-*Answer*: 2020-06-01 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The Executive Decree nº 507 was not revoked, but it was altered. From June 1, the complete lockdown was lifted and replaced with a curfew between 7PM and 5AM, maintaining a gender restriction that men and women could only leave their houses on alternate days (via the Executive Decree nº 644). From September 14, the curfew changed to 11PM to 5AM and the gender restriction was lifted (via the Executive Decree nº 1078). 
+ The Executive Decree nº 507 was not revoked, but it has been altered several times. From June 1, the complete lockdown was lifted and replaced with a curfew between 7PM and 5AM during the week and a lockdown on weekends, maintaining a gender restriction that men and women could only leave their houses on alternate days (via the Executive Decree nº 644). From September 14, the curfew changed to 11PM to 5AM and the gender restriction was lifted (via the Executive Decree nº 1078). From October 25, the lockdown on weekends was lifted, but there is still a curfew between 11PM and 5AM (Executive Decree nº 1222). 
 
 *Sources*:
- https://www.gacetaoficial.gob.pa/pdfTemp/29035_B/GacetaNo_29035b_20200529.pdf
+ https://www.gacetaoficial.gob.pa/pdfTemp/29035_B/GacetaNo_29035b_20200529.pdf
 https://www.gacetaoficial.gob.pa/pdfTemp/29111_A/GacetaNo_29111a_20200911.pdf
+https://www.gacetaoficial.gob.pa/pdfTemp/29141_A/81504.pdf
+https://help.unhcr.org/panama/covid-19-2/avisos-importantes/#:~:text=Se%20establece%20toque%20de%20queda,en%20todo%20el%20territorio%20nacional.
 
 
 
@@ -135,7 +166,15 @@ https://www.gacetaoficial.gob.pa/pdfTemp/29111_A/GacetaNo_29111a_20200911.pdf
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No time limit defined. 
@@ -153,15 +192,22 @@ https://www.gacetaoficial.gob.pa/pdfTemp/29111_A/GacetaNo_29111a_20200911.pdf
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No limit established 
@@ -179,7 +225,7 @@ https://www.gacetaoficial.gob.pa/pdfTemp/29111_A/GacetaNo_29111a_20200911.pdf
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -189,7 +235,15 @@ https://www.gacetaoficial.gob.pa/pdfTemp/29111_A/GacetaNo_29111a_20200911.pdf
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Código Sanitario, Art. 85: Attributions and duty of the National Department of Public Health 
@@ -217,7 +271,15 @@ https://www.gacetaoficial.gob.pa/pdfTemp/29111_A/GacetaNo_29111a_20200911.pdf
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The law doesn't require legislative approval 
@@ -243,21 +305,28 @@ https://www.gacetaoficial.gob.pa/pdfTemp/29111_A/GacetaNo_29111a_20200911.pdf
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- The National Assembly is working, but the Executive Decree n.º 64 defines that the Ministry of Health has the autonomy to rule by decree on covid-19 related issues. While the most restictive measures have been lifted, this decree has not been repealed. 
+ The National Assembly is working, but the executive has the autonomy to rule by decree on covid-19 related issues. 
 
 *Sources*:
- http://www.minsa.gob.pa/contenido/decretos-y-resoluciones-codes
+ http://www.minsa.gob.pa/contenido/decretos-y-resoluciones-codes
 https://twitter.com/asambleapa?lang=es
-http://minsa.b-cdn.net/sites/default/files/general/decreto.pdf
 
 
 
@@ -269,15 +338,22 @@ http://minsa.b-cdn.net/sites/default/files/general/decreto.pdf
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -302,8 +378,15 @@ http://minsa.b-cdn.net/sites/default/files/general/decreto.pdf
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -333,15 +416,24 @@ http://minsa.b-cdn.net/sites/default/files/general/decreto.pdf
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The emergency measures applied for the entire country at first. With the reopening, there were some subnational variations. A "sanitary bareer" was implemented in some provinces, then a weekend lockdown that later changed for only Sundays. 
+ The emergency measures applied for the entire country at first. With the reopening, there were some subnational variations in accordance with the local situation (e.g. a "sanitary bareer" was implemented in some provinces, or weekend lockdown) 
 
 *Sources*:
- https://www.yomeinformopma.org/static/dash/docs/decretos/RESOLUCION_No._286.pdf
-https://www.yomeinformopma.org/static/dash/docs/decretos/RESOLUCION_No._491.pdf
+ https://www.yomeinformopma.org/static/dash/docs/decretos/RESOLUCION_No._286.pdf
+https://www.yomeinformopma.org/static/dash/docs/decretos/RESOLUCION_No._491.pdf
 https://www.prensa.com/sociedad/minsa-elimina-restriccion-por-numero-de-cedula-se-mantiene-los-dias-para-hombres-y-mujeres/
+https://www.prensa.com/sociedad/minsa-ordena-nuevo-toque-de-queda-y-ley-seca-en-panama-oeste-infractores-no-cobraran-bono-solidario/
 
 
 
@@ -365,10 +457,13 @@ https://www.prensa.com/sociedad/minsa-elimina-restriccion-por-numero-de-cedula-s
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -376,11 +471,11 @@ Time period: *Jul-Sep*: 2
  The government established a gender quarantine. Women could go out on Mondays, Wednesdays, and Fridays; men could go out on Tuesdays, Thursdays, and Saturdays. The dates did not change while the measure was in place, so women were not allowed to leave their houses on weekends. Additionally, this measure received criticism for enhancing discrimination against the transgender community. The measure was lifted on September 14. 
 
 *Sources*:
- https://www.yomeinformopma.org/static/dash/docs/decretos/Resolucion_No._360.pdf
-https://pa.usembassy.gov/covid-19-information/
-https://www.hrw.org/news/2020/07/13/panama-new-trans-discrimination-cases-under-covid-19-measures
-https://www.hrw.org/news/2020/08/03/glimmer-hope-transgender-people
-https://www.prensa.com/sociedad/minsa-elimina-restriccion-por-numero-de-cedula-se-mantiene-los-dias-para-hombres-y-mujeres/
+ https://www.yomeinformopma.org/static/dash/docs/decretos/Resolucion_No._360.pdf
+https://pa.usembassy.gov/covid-19-information/
+https://www.hrw.org/news/2020/07/13/panama-new-trans-discrimination-cases-under-covid-19-measures
+https://www.hrw.org/news/2020/08/03/glimmer-hope-transgender-people
+https://www.prensa.com/sociedad/minsa-elimina-restriccion-por-numero-de-cedula-se-mantiene-los-dias-para-hombres-y-mujeres/
 https://www.efe.com/efe/america/sociedad/panama-suspende-restriccion-por-genero-y-suaviza-el-toque-de-queda-la-pandemia/20000013-4342773
 
 
@@ -410,10 +505,13 @@ https://www.efe.com/efe/america/sociedad/panama-suspende-restriccion-por-genero-
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -421,8 +519,9 @@ Time period: *Jul-Sep*: 0
  No evidence of non-derogable rights violation was found. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38316
-https://www.hrw.org/sitesearch?search=panama
+ https://www.amnesty.org/en/countries/americas/panama/
+https://www.hrw.org/americas/panama
+https://monitor.civicus.org/country/panama/
 
 
 
@@ -446,7 +545,15 @@ https://www.hrw.org/sitesearch?search=panama
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom, the government considered the media an essential service. 
@@ -464,15 +571,22 @@ https://www.hrw.org/sitesearch?search=panama
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -490,15 +604,22 @@ https://www.hrw.org/sitesearch?search=panama
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -526,10 +647,13 @@ https://www.hrw.org/sitesearch?search=panama
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -537,10 +661,10 @@ Time period: *Jul-Sep*: 0
  No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. 
 
 *Sources*:
- http://www.minsa.gob.pa/destacado/coronavirus-covid-19
-https://rsf.org/en/countries
-
+ https://rsf.org/en/countries
 https://ipi.media/covid19-media-freedom-monitoring/
+https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://cpj.org/americas/panama/
 
 
 
@@ -552,7 +676,7 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -562,10 +686,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -573,7 +700,10 @@ Time period: *Jul-Sep*: 0
  No evidence was found of de-facto limitations on reporting about the government response to the pandemic. 
 
 *Sources*:
- http://www.minsa.gob.pa/destacado/coronavirus-covid-19
+ https://rsf.org/en/countries
+https://ipi.media/covid19-media-freedom-monitoring/
+https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://cpj.org/americas/panama/
 
 
 
@@ -595,10 +725,13 @@ Time period: *Jul-Sep*: 0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -607,9 +740,9 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://cpj.org/americas/panama/
 
 
 
@@ -628,14 +761,17 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -644,6 +780,10 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  http://www.minsa.gob.pa/destacado/coronavirus-covid-19
+https://rsf.org/en/countries
+https://ipi.media/covid19-media-freedom-monitoring/
+https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://cpj.org/americas/panama/
 
 
 
@@ -665,10 +805,13 @@ Time period: *Jul-Sep*: 0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -677,8 +820,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/americas/panama/
 
 
 
@@ -700,10 +843,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -712,8 +858,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/americas/panama/
 
 
 
@@ -737,19 +883,21 @@ https://ipi.media/covid19-media-freedom-monitoring/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No evidence of false information being disseminated by the government. The government uses WHO data and the Ministry of Health created a website together with the WHO to inform the population. 
+ No evidence of false information being disseminated by the government. The government uses WHO information and the Ministry of Health created a website together with the WHO to inform the population. 
 
 *Sources*:
  http://www.minsa.gob.pa/destacado/coronavirus-covid-19
-
 https://panama.campusvirtualsp.org/instituciones-participantes
 
 
@@ -774,19 +922,23 @@ https://panama.campusvirtualsp.org/instituciones-participantes
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- There are a few reports of police violence, and the Office of the Ombudsman of the Republic of Panama released a statement calling on security forces to respect human rights. 
+ There are a few reports of police violence, and the Office of the Ombudsman of the Republic of Panama released a statement calling on security forces to respect human rights. Reports of police violence to execute the emergency measures were not identified between October-December, but there is no evidence that they ceased to occur. 
 
 *Sources*:
- https://www.defensoriadelpueblo.gob.pa/portal/comunicado-sobre-actuacion-policial-ante-el-estado-de-emergencia-nacional-por-la-pandemia-de-covid-19/
+ https://www.defensoriadelpueblo.gob.pa/portal/comunicado-sobre-actuacion-policial-ante-el-estado-de-emergencia-nacional-por-la-pandemia-de-covid-19/
 https://www.laestrella.com.pa/nacional/200727/residentes-curundu-protestan-abuso-agentes-policiales
+https://www.prensa.com/impresa/panorama/arrestan-a-jovenes-por-protesta-contra-la-cuarentena/
 
 
 
@@ -798,7 +950,7 @@ https://www.laestrella.com.pa/nacional/200727/residentes-curundu-protestan-abuso
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -808,10 +960,13 @@ https://www.laestrella.com.pa/nacional/200727/residentes-curundu-protestan-abuso
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -820,29 +975,3 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  http://www.minsa.gob.pa/sites/default/files/general/decreto_ejecutivo_499_de_19_marzo_de_2020.pdf
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-*Answer*: Panama temporarily established an Alcohol Prohibition during the pandemic 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
- http://minsa.b-cdn.net/sites/default/files/general/decreto_ejecutivo_507_de_24_de_marzo_de_2020.pdf
-http://minsa.b-cdn.net/sites/default/files/general/decreto_ejecutivo_730_de_18_de_junio_2020.pdf

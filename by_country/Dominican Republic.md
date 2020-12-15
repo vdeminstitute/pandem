@@ -1,9 +1,6 @@
 # Dominican Republic 
 
 
-Time 2020-09-21 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-21
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,7 +25,15 @@ Time 2020-09-21
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  The government declared a state of emergency via Decreto N. 134-20 on March 19, which ended on July 1. On July 20, the government declared a new state of emergency, via Decreto N. 265-20. 
@@ -56,14 +61,22 @@ http://www.oas.org/es/sla/ddi/docs/tratados_multilaterales_suspencion_garantias_
 *Scale*: Character string.
 
  
-*Answer*: Constitution Article 262 and Law nº 21-18 
+*Time period: Q2*: Constitution Article 262 and Law nº 21-18
+
+ 
+*Time period: Q3*: Constitution Article 262 and Law nº 21-18
+
+ 
+*Time period: Q4*: Constitution Article 262 and Law nº 21-18
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- http://www.consultoria.gov.do/Documents/GetDocument?reference=ca72d161-e529-433f-8421-371952912c65
-http://www.oas.org/juridico/spanish/mesicic3_repdom_constitucion.pdf
+ http://www.consultoria.gov.do/Documents/GetDocument?reference=ca72d161-e529-433f-8421-371952912c65
+http://www.oas.org/juridico/spanish/mesicic3_repdom_constitucion.pdf
 http://www.consultoria.gov.do/Documents/GetDocument?reference=b444d39f-2e94-4f9b-82e6-5b0ceb4a72c6
 
 
@@ -83,7 +96,15 @@ http://www.consultoria.gov.do/Documents/GetDocument?reference=b444d39f-2e94-4f9b
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-19 
+*Time period: Q2*: 2020-03-19
+
+ 
+*Time period: Q3*: 2020-07-20
+
+ 
+*Time period: Q4*: 2020-07-20
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -108,17 +129,25 @@ http://www.consultoria.gov.do/Documents/GetDocument?reference=b444d39f-2e94-4f9b
 *Scale*: Date format.
 
  
+*Time period: Q2*: 2020-07-01
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- At first the state of emergency was declared for 25 days from March 19. It was extended five times, via decrees number 148-20, 153-20, 160-20, 187-20 and 317-20, everytime for a delimited time period. It was lifted via the decree 237-20 after the final extension ended, on July 1. However, on July 20, a new state of emergency was declared via decree n. 265-20, for 45 days, and then extended on September 1 for another 45 days via decree n. 430-20. Currently, the state of emergency will end on October 18. 
+ At first the state of emergency was declared for 25 days from March 19. It was extended five times, via Decrees nº 148-20, 153-20, 160-20, 187-20 and 317-20, everytime for a delimited time period. It was lifted via the Decree nº 237-20 after the final extension ended, on July 1. However, on July 20, a new state of emergency was declared via Decree nº 265-20, for 45 days, and then extended on September 1 for another 45 days via decree nº 430-20, and extended on October 15 for additional 45 days via Decree nº 553-20. Currently, the state of emergency will end on December 2. 
 
 *Sources*:
  http://www.consultoria.gov.do/Documents/GetDocument?reference=8f3881c8-eb6f-4ded-926f-b082a92ff2e7
 http://www.consultoria.gov.do/News/NewsConsult/8344
 https://coronavirusrd.gob.do/2020/04/26/listado-de-medidas-rd-vs-covid-19/
 http://www.oas.org/es/sla/ddi/docs/tratados_multilaterales_suspencion_garantias_Republica_Dominicana_nota_MPRD-OEA_01193-2020.pdf
+http://www.consultoria.gov.do/Documents/GetDocument?reference=e571845a-aa65-45cc-ab1f-efc62874021f
 
 
 
@@ -140,16 +169,25 @@ http://www.oas.org/es/sla/ddi/docs/tratados_multilaterales_suspencion_garantias_
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- At first the state of emergency was declared for 25 days from March 19. It was extended five times, via decrees number 148-20, 153-20, 160-20, 187-20 and 317-20, everytime for a delimited time period. It was lifted via the decree 237-20 after the final extension ended, on July 1. However, on July 20, a new state of emergency was declared via decree n. 265-20, for 45 days, and then extended on September 1 for another 45 days via decree n. 430-20. Currently, the state of emergency will end on October 18. 
+ At first the state of emergency was declared for 25 days from March 19. It was extended five times, via Decrees nº 148-20, 153-20, 160-20, 187-20 and 317-20, everytime for a delimited time period. It was lifted via the Decree nº 237-20 after the final extension ended, on July 1. However, on July 20, a new state of emergency was declared via Decree nº 265-20, for 45 days, and then extended on September 1 for another 45 days via decree nº 430-20, extended on October 15 for additional 45 days via Decree nº 553-20, and finally extended for another 45 days via Decree nº 683-20. Currently, the state of emergency will end on January 16. 
 
 *Sources*:
  http://www.consultoria.gov.do/Documents/GetDocument?reference=8f3881c8-eb6f-4ded-926f-b082a92ff2e7
 http://www.consultoria.gov.do/News/NewsConsult/8344
 https://coronavirusrd.gob.do/2020/04/26/listado-de-medidas-rd-vs-covid-19/
 http://www.oas.org/es/sla/ddi/docs/tratados_multilaterales_suspencion_garantias_Republica_Dominicana_nota_MPRD-OEA_01193-2020.pdf
+http://www.consultoria.gov.do/Documents/GetDocument?reference=e571845a-aa65-45cc-ab1f-efc62874021f
 
 
 
@@ -161,21 +199,32 @@ http://www.oas.org/es/sla/ddi/docs/tratados_multilaterales_suspencion_garantias_
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-10-18 
+*Time period: Q2*: 2020-07-01
+
+ 
+*Time period: Q3*: 2020-10-18
+
+ 
+*Time period: Q4*: 2021-01-16
+
+ 
 
 *Comments*:
- At first the state of emergency was declared for 25 days from March 19. It was extended five times, via decrees number 148-20, 153-20, 160-20, 187-20 and 317-20, everytime for a delimited time period. It was lifted via the decree 237-20 after the final extension ended, on July 1. However, on July 20, a new state of emergency was declared via decree n. 265-20, for 45 days, and then extended on September 1 for another 45 days via decree n. 430-20. Currently, the state of emergency will end on October 18. 
+ At first the state of emergency was declared for 25 days from March 19. It was extended five times, via Decrees nº 148-20, 153-20, 160-20, 187-20 and 317-20, everytime for a delimited time period. It was lifted via the Decree nº 237-20 after the final extension ended, on July 1. However, on July 20, a new state of emergency was declared via Decree nº 265-20, for 45 days, and then extended on September 1 for another 45 days via decree nº 430-20, extended on October 15 for additional 45 days via Decree nº 553-20, and finally extended for another 45 days via Decree nº 683-20. Currently, the state of emergency will end on January 16. 
 
 *Sources*:
- http://www.consultoria.gov.do/Documents/GetDocument?reference=ca72d161-e529-433f-8421-371952912c65
+ http://www.consultoria.gov.do/Documents/GetDocument?reference=ca72d161-e529-433f-8421-371952912c65
 http://www.consultoria.gov.do/News/NewsConsult/8344
+http://www.consultoria.gov.do/Documents/GetDocument?reference=e571845a-aa65-45cc-ab1f-efc62874021f
+https://www.presidencia.gob.do/decretos/684-20
+https://www.senadord.gob.do/el-senado-aprueba-extension-del-estado-de-emergencia-por-45-dias-a-partir-del-2-de-diciembre/
 
 
 
@@ -187,7 +236,7 @@ http://www.consultoria.gov.do/News/NewsConsult/8344
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -197,13 +246,21 @@ http://www.consultoria.gov.do/News/NewsConsult/8344
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  Constitution, Article 262: The president can declare a state of exception with the approval of congress. 
 
 *Sources*:
- http://www.oas.org/juridico/spanish/mesicic3_repdom_constitucion.pdf
+ http://www.oas.org/juridico/spanish/mesicic3_repdom_constitucion.pdf
 http://www.consultoria.gov.do/Documents/GetDocument?reference=ca72d161-e529-433f-8421-371952912c65
 
 
@@ -226,15 +283,25 @@ http://www.consultoria.gov.do/Documents/GetDocument?reference=ca72d161-e529-433f
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The senate first allowed for the state of emergency to be declared via Resolucion 62-20, and aproved all the extensions via Resolucion 63-20, 64-20, 65-20, 66-20, 67-20. The second state of emergency was allowed via Resolucion 70-20 and extension approved via Resolucion 221-20. 
+ The senate first allowed for the state of emergency to be declared via Resolution nº 62-20, and aproved all the extensions via Resolutions nº 63-20, 64-20, 65-20, 66-20, 67-20. The second state of emergency was allowed via Resolution nº 70-20 and the extensions were approved via Resolutions nº 221-20 and 228-20 . 
 
 *Sources*:
  http://www.senado.gob.do/senado/Inicio/tabid/40/ctl/ArticleView/mid/439/articleId/1987/Senado-aprueba-resolucion-de-declaratoria-en-estado-de-emergencia-en-todo-el-territorio-nacional.aspx
 http://www.consultoria.gov.do/Documents/GetDocument?reference=7fd96a6a-2fac-49a5-818a-1d5dc114a867
 http://www.oas.org/es/sla/ddi/docs/tratados_multilaterales_suspencion_garantias_Republica_Dominicana_nota_MPRD-OEA_01193-2020.pdf
+https://www.senadord.gob.do/el-senado-aprueba-extension-del-estado-de-emergencia-por-45-dias-a-partir-del-2-de-diciembre/
+http://www.consultoria.gov.do/Documents/GetDocument?reference=9589d97f-b556-4e1a-9ebe-94e76ace0eef
 http://www.consultoria.gov.do/News/NewsConsult/8344
 
 
@@ -255,16 +322,24 @@ http://www.consultoria.gov.do/News/NewsConsult/8344
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Law 21-8 article 13: "The declaration of a state of emergency does not interrupt the normal functioning of the constitutional powers of the State and its institutions. As long as the state of emergency remains, the legislative houses will meet with the fullness of their powers." 
+ Law 21-8, Article 13: "The declaration of a state of emergency does not interrupt the normal functioning of the constitutional powers of the State and its institutions. As long as the state of emergency remains, the legislative houses will meet with the fullness of their powers." 
 
 *Sources*:
  http://www.consultoria.gov.do/Documents/GetDocument?reference=b444d39f-2e94-4f9b-82e6-5b0ceb4a72c6
@@ -279,15 +354,22 @@ http://www.consultoria.gov.do/News/NewsConsult/8344
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -312,8 +394,15 @@ http://www.consultoria.gov.do/News/NewsConsult/8344
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -343,7 +432,15 @@ http://www.consultoria.gov.do/News/NewsConsult/8344
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The measures have a national scope 
@@ -373,19 +470,23 @@ http://www.consultoria.gov.do/News/NewsConsult/8344
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No evidence of discrimination was found. According to the Law nº 21-18, article 3: "The measures adopted during states of emergency cannot entail any discrimination, based on gender, color, age, disability, nationality, family ties, language, religion, political or philosophical opinion, social or personal condition." 
+ No evidence of discrimination was found. According to the Law nº 21-18, Article 3: "The measures adopted during states of emergency cannot entail any discrimination, based on gender, color, age, disability, nationality, family ties, language, religion, political or philosophical opinion, social or personal condition." 
 
 *Sources*:
- https://www.amnesty.org/en/countries/americas/dominican-republic/
-https://www.hrw.org/americas/dominican-republic
+ https://www.amnesty.org/en/countries/americas/dominican-republic/
+https://www.hrw.org/americas/dominican-republic
+https://monitor.civicus.org/country/dominican-republic/
 http://www.consultoria.gov.do/Documents/GetDocument?reference=b444d39f-2e94-4f9b-82e6-5b0ceb4a72c6
 
 
@@ -415,10 +516,13 @@ http://www.consultoria.gov.do/Documents/GetDocument?reference=b444d39f-2e94-4f9b
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -426,8 +530,9 @@ Time period: *Jul-Sep*: 0
  No evidence of non-derogable rights violation was found. The Law nº 21-18, Article 11, establishes what rights can be suspended in a state of emergency, and non-derogable rights are not included. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/americas/dominican-republic/
-https://www.hrw.org/americas/dominican-republic
+ https://www.amnesty.org/en/countries/americas/dominican-republic/
+https://www.hrw.org/americas/dominican-republic
+https://monitor.civicus.org/country/dominican-republic/
 http://www.consultoria.gov.do/Documents/GetDocument?reference=b444d39f-2e94-4f9b-82e6-5b0ceb4a72c6
 
 
@@ -452,13 +557,21 @@ http://www.consultoria.gov.do/Documents/GetDocument?reference=b444d39f-2e94-4f9b
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
 
 *Sources*:
- http://www.consultoria.gov.do/Documents/GetDocument?reference=ca72d161-e529-433f-8421-371952912c65
+ http://www.consultoria.gov.do/Documents/GetDocument?reference=ca72d161-e529-433f-8421-371952912c65
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
 
@@ -471,15 +584,22 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -497,15 +617,22 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -533,10 +660,13 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -545,9 +675,9 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://cpj.org/americas/dominican-republic/
 
 
 
@@ -559,7 +689,7 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -569,10 +699,13 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -581,9 +714,9 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://cpj.org/americas/dominican-republic/
 
 
 
@@ -605,10 +738,13 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -617,9 +753,9 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://cpj.org/americas/dominican-republic/
 
 
 
@@ -638,14 +774,17 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -654,9 +793,9 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://cpj.org/americas/dominican-republic/
 
 
 
@@ -678,10 +817,13 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -690,8 +832,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/americas/dominican-republic/
 
 
 
@@ -713,10 +855,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -725,8 +870,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/americas/dominican-republic/
 
 
 
@@ -750,10 +895,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -761,7 +909,7 @@ Time period: *Jul-Sep*: 0
  No evidence of false information being disseminated by the government, the information provided on the official covid-19 website is in accordance with WHO guidelines. 
 
 *Sources*:
- https://coronavirusrd.gob.do/wp-content/uploads/2020/03/35-Preguntas-y-Respuestas-Sobre-el-Coronavirus-y-Falsos-Rumores.pdf.pdf.pdf
+ https://coronavirusrd.gob.do/wp-content/uploads/2020/03/35-Preguntas-y-Respuestas-Sobre-el-Coronavirus-y-Falsos-Rumores.pdf.pdf.pdf
 https://coronavirusrd.gob.do/
 
 
@@ -786,18 +934,21 @@ https://coronavirusrd.gob.do/
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- There were several people detained for disrespecting the isolation measures, but I did not find specific cases of police violence. 
+ Thousands of people were detained for disrespecting the isolation measures, but cases of police violence were not identified. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/05/americas-authorities-must-protect-people-covid19-repressive-measures/
+ https://www.amnesty.org/en/latest/news/2020/05/americas-authorities-must-protect-people-covid19-repressive-measures/
 https://lta.reuters.com/article/idLTAKCN229235
 
 
@@ -810,7 +961,7 @@ https://lta.reuters.com/article/idLTAKCN229235
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -820,44 +971,22 @@ https://lta.reuters.com/article/idLTAKCN229235
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Both the national police and the military are enforcing the confinement measures. 
+ Both the national police and the military are enforcing the confinement measures. No evidence was found of military involvement between October and December, but there is no evidence that it was discontinued. 
 
 *Sources*:
  https://coronavirusrd.gob.do/2020/04/26/listado-de-medidas-rd-vs-covid-19/
 https://eldia.com.do/toque-de-queda-iniciara-a-las-5-de-la-tarde-a-partir-de-manana/
 https://www.lavanguardia.com/vida/20200720/482418794223/republica-dominicana-clausura-balnearios-y-playas-publicos-frente-a-covid-19.html
 https://www.armariolibre.com.do/patrullas-pn-y-ejercito-rd-han-apresado-mas-de-123-mil-personas-por-violar-toque-de-queda-y-somete-mas-de-65-mil-500-a-la-justicia-desde-el-20-de-marzo/
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-*Answer*: Presidential and legislative elections were postponed from May 17 to July 5 and were held amid the pandemic. 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
- https://www.idea.int/news-media/multimedia-reports/global-overview-covid-19-impact-elections
-https://www.washingtonpost.com/world/the_americas/dominican-republic-chooses-leader-amid-rising-covid-19-cases/2020/07/05/269fba26-bedb-11ea-8908-68a2b9eae9e0_story.html
+https://www.ejercito.mil.do/noticias/688-ejercito-asegura-toque-de-queda-fue-respetado-por-mas-del-95-de-los-residentes-en-barrios-patrullados

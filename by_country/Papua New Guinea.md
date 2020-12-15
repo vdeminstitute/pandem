@@ -1,9 +1,6 @@
 # Papua New Guinea 
 
 
-Time 2020-09-01 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-01
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,17 +25,21 @@ Time 2020-09-01
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
  Papua New Guinea has declared a state of emergency under Chapter X: Emergency Provisions in the constitution. This is therefore coded as 1. Note however that when this ended on June 16, PNG replaced it with the National Pandemic Act which allows for numerous emergency measures in relation to Covid-19. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Papua_New_Guinea_2016.pdf?lang=en
-https://www.coronanet-project.org/data/reports/finished/20200620_Papua.html
-https://www.garda.com/crisis24/news-alerts/325816/papua-new-guinea-state-of-emergency-comes-into-effect-march-24-update-2
-https://www.theguardian.com/world/2020/mar/23/papua-new-guinea-declares-state-of-emergency-after-first-coronavirus-case
-https://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-response-to-covid-19---emergency-legal-regime/
+ https://www.constituteproject.org/constitution/Papua_New_Guinea_2016.pdf?lang=enhttps://www.coronanet-project.org/data/reports/finished/20200620_Papua.htmlhttps://www.garda.com/crisis24/news-alerts/325816/papua-new-guinea-state-of-emergency-comes-into-effect-march-24-update-2https://www.theguardian.com/world/2020/mar/23/papua-new-guinea-declares-state-of-emergency-after-first-coronavirus-casehttps://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-response-to-covid-19---emergency-legal-regime/https://covid19.info.gov.pg/
 
 
 
@@ -57,7 +58,15 @@ https://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-resp
 *Scale*: Character string.
 
  
-*Answer*: Part X: Emergency Provisions 
+*Time period: Q2*: Part X: Emergency Provisions/National Pandemic Act
+
+ 
+*Time period: Q3*: National Pandemic Act
+
+ 
+*Time period: Q4*: National Pandemic Act
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -82,7 +91,15 @@ https://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-resp
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-24 
+*Time period: Q2*: 2020-03-24
+
+ 
+*Time period: Q3*: 2020-06-16
+
+ 
+*Time period: Q4*: 2020-06-16
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -111,15 +128,22 @@ https://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-resp
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The state of emergency was extended a couple of times, but was not extended beyond June 16, and has thus ended. However, on June 16, it was replaced with the National Pandemic Act, which transfers most emergency powers to this law. As most emergency powers are thus still in place, this does not count as having ended. 
+ The state of emergency was extended a couple of times, but was not extended beyond June 16, and has thus ended. However, on June 16, it was replaced with the National Pandemic Act, which transfers most emergency powers to this law. As most emergency powers are thus still in place, this does not count as having ended. The existence of the pandemic was declared on 17 June and is in place since without end-date
 Note that some subnational state's of emergency have been kept in place or implemented, especially in the region of Bougainville. Note also that PNG introduced a new legislation (see misclimit for more information) that has some emergency powers even thoug the State of Emergency has ended. However, the national state of emergency which is the primary legal instrument here has ended. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/351086/papua-new-guinea-authorities-announce-end-of-state-of-emergency-from-june-16-update-11
+ https://www.garda.com/crisis24/news-alerts/351086/papua-new-guinea-authorities-announce-end-of-state-of-emergency-from-june-16-update-11https://covid19.info.gov.pg/files/June2020/18062020/Gazette%20G358_17.06.20.pdf
 "https://www.policyforum.net/the-securitization-of-public-health-emergencies/
 http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
 https://reliefweb.int/report/papua-new-guinea/png-and-next-pandemic"
@@ -146,15 +170,22 @@ https://covid19.info.gov.pg/files/National%20Pandemic%20Measures/Amended/Pandemi
  1. Yes.
 
  
+*Time period: Q2*: 0
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The state of emergency was initially declared to be in place for two weeks, and did end after som extensions.
 The new emergency legislation, the National Pandemic Act, however is in effect and has no declared end date. Rather, measures under it can be active as long as a pandemic is declared under it. Therefore, there is currently no time limit to the emergency measures, 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/351086/papua-new-guinea-authorities-announce-end-of-state-of-emergency-from-june-16-update-11
+ https://covid19.info.gov.pg/files/June2020/18062020/Gazette%20G358_17.06.20.pdfhttps://www.garda.com/crisis24/news-alerts/351086/papua-new-guinea-authorities-announce-end-of-state-of-emergency-from-june-16-update-11
 "https://www.policyforum.net/the-securitization-of-public-health-emergencies/
 http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
 https://reliefweb.int/report/papua-new-guinea/png-and-next-pandemic"
@@ -171,25 +202,29 @@ https://covid19.info.gov.pg/files/National%20Pandemic%20Measures/Amended/Pandemi
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-06-16 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The initialy declared end date was on April 7. It was subsequently extended to 2020-06-16 in which the state of emergency ended. 
+ The state of emergency was initially declared to be in place for two weeks, and did end after som extensions.
+The new emergency legislation, the National Pandemic Act, however is in effect and has no declared end date. Rather, measures under it can be active as long as a pandemic is declared under it. Therefore, there is currently no time limit to the emergency measures, 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Papua_New_Guinea_2016.pdf?lang=en
-https://www.coronanet-project.org/data/reports/finished/20200620_Papua.html
-https://www.garda.com/crisis24/news-alerts/325816/papua-new-guinea-state-of-emergency-comes-into-effect-march-24-update-2
-https://www.theguardian.com/world/2020/mar/23/papua-new-guinea-declares-state-of-emergency-after-first-coronavirus-case
-https://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-response-to-covid-19---emergency-legal-regime/
-https://www.garda.com/crisis24/news-alerts/351086/papua-new-guinea-authorities-announce-end-of-state-of-emergency-from-june-16-update-11
+ https://covid19.info.gov.pg/files/June2020/18062020/Gazette%20G358_17.06.20.pdfhttps://www.constituteproject.org/constitution/Papua_New_Guinea_2016.pdf?lang=enhttps://www.coronanet-project.org/data/reports/finished/20200620_Papua.htmlhttps://www.garda.com/crisis24/news-alerts/325816/papua-new-guinea-state-of-emergency-comes-into-effect-march-24-update-2https://www.theguardian.com/world/2020/mar/23/papua-new-guinea-declares-state-of-emergency-after-first-coronavirus-casehttps://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-response-to-covid-19---emergency-legal-regime/https://www.garda.com/crisis24/news-alerts/351086/papua-new-guinea-authorities-announce-end-of-state-of-emergency-from-june-16-update-11
 
 
 
@@ -201,7 +236,7 @@ https://www.garda.com/crisis24/news-alerts/351086/papua-new-guinea-authorities-a
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -211,17 +246,21 @@ https://www.garda.com/crisis24/news-alerts/351086/papua-new-guinea-authorities-a
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The head of state is allowed by the constitution to declare a state of national emergency without needing parliamentary approval (laws made under this state of emergency - emergency laws - does need parliamentary approval however). 
+ The head of state is allowed to declare a state of national emergency/pandemic situation without needing parliamentary approval (laws made under this state of emergency - emergency laws - does need parliamentary approval however). 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Papua_New_Guinea_2016.pdf?lang=en
-https://www.coronanet-project.org/data/reports/finished/20200620_Papua.html
-https://www.garda.com/crisis24/news-alerts/325816/papua-new-guinea-state-of-emergency-comes-into-effect-march-24-update-2
-https://www.theguardian.com/world/2020/mar/23/papua-new-guinea-declares-state-of-emergency-after-first-coronavirus-case
-https://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-response-to-covid-19---emergency-legal-regime/
+ https://www.constituteproject.org/constitution/Papua_New_Guinea_2016.pdf?lang=enhttps://www.coronanet-project.org/data/reports/finished/20200620_Papua.htmlhttps://www.garda.com/crisis24/news-alerts/325816/papua-new-guinea-state-of-emergency-comes-into-effect-march-24-update-2https://www.theguardian.com/world/2020/mar/23/papua-new-guinea-declares-state-of-emergency-after-first-coronavirus-casehttps://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-response-to-covid-19---emergency-legal-regime/
 
 
 
@@ -243,16 +282,28 @@ https://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-resp
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The parliament does not need to approve the state of emergency, and parliament has thus not voted on it. 
+ The parliament does not need to approve the state of emergency, and parliament has thus not voted on it. The National Pandemic act were approved by the Parliament; but each declartion of the existence of the pandemic is only made by the Head of State (Para 4; National Pandemic act) 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Papua_New_Guinea_2016.pdf?lang=en
-https://www.coronanet-project.org/data/reports/finished/20200620_Papua.html
-https://www.garda.com/crisis24/news-alerts/325816/papua-new-guinea-state-of-emergency-comes-into-effect-march-24-update-2
-https://www.theguardian.com/world/2020/mar/23/papua-new-guinea-declares-state-of-emergency-after-first-coronavirus-case
+ https://www.constituteproject.org/constitution/Papua_New_Guinea_2016.pdf?lang=en
+
+https://www.coronanet-project.org/data/reports/finished/20200620_Papua.html
+
+https://www.garda.com/crisis24/news-alerts/325816/papua-new-guinea-state-of-emergency-comes-into-effect-march-24-update-2
+
+https://www.theguardian.com/world/2020/mar/23/papua-new-guinea-declares-state-of-emergency-after-first-coronavirus-case
+
 https://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-response-to-covid-19---emergency-legal-regime/
 
 
@@ -273,25 +324,35 @@ https://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-resp
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- During a state of emergency, the constitution in part allows for emergency laws (passed by parliament) and emergency regulation (decrees by the head of state). The parliament has approved three such emergency laws, and these constitute the legislation that outlines the overall emergency response. The capacity for the head of state to invoke temporary legislation, the emergency regulation, however does limit parliaments law making role to some extent. However, they are also restricted in time (expire after 28 days), can be revoked by parliament and may only be issued of the parliament cannot reasonably convene in time for passing such a regulation as an emergency law. It is thus coded as 2 under the State of Emergency. 
-The state of emergency ended on June 16 and was replaced with National Pandemic Act. This allows for the government to appoint a controller to a temporary authority that administrates the measures taken under this act. This gives the government effective decree power to take these measures without consulting the parliament, but the extent of these measures are similarly restrained to Pandemic-related issues. This is therefore coded as 2 under this emergency law, and therefore coded 2 for the whole period. 
+ During a state of emergency, the constitution in part allows for emergency laws (passed by parliament) and emergency regulation (decrees by the head of state). The parliament has approved three such emergency laws, and these constitute the legislation that outlines the overall emergency response. The capacity for the head of state to invoke temporary legislation, the emergency regulation, however does limit parliaments law making role to some extent. However, they are also restricted in time (expire after 28 days), can be revoked by parliament and may only be issued of the parliament cannot reasonably convene in time for passing such a regulation as an emergency law. This is therefore coded as 2. 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Papua_New_Guinea_2016.pdf?lang=en
+
 https://www.coronanet-project.org/data/reports/finished/20200620_Papua.html
+
 https://www.garda.com/crisis24/news-alerts/325816/papua-new-guinea-state-of-emergency-comes-into-effect-march-24-update-2
+
 https://www.theguardian.com/world/2020/mar/23/papua-new-guinea-declares-state-of-emergency-after-first-coronavirus-case
+
 https://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-response-to-covid-19---emergency-legal-regime/
-http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
 
 
 
@@ -303,15 +364,22 @@ http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -336,8 +404,15 @@ http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -367,14 +442,24 @@ http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
  Papua New Guinea have taken many nation-wide emergency measures such as school closings, lockdowns, quarantine rules and the like. However, within this, there have also been some regional variation in that some regions have imposed additional measures or prolonged those already in place, such as curfews, travel restrictions and limits on public gatherings. This is therefore coded as 2. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-https://www.garda.com/crisis24/news-alerts/369806/papua-new-guinea-bougainville-government-extends-state-of-emergency-through-september-1-update-17
+ https://www.acaps.org/covid19-government-measures-dataset
+
+https://www.garda.com/crisis24/news-alerts/369806/papua-new-guinea-bougainville-government-extends-state-of-emergency-through-september-1-update-17
+
 https://www.garda.com/crisis24/news-alerts/363881/papua-new-guinea-lockdown-imposed-in-port-moresby-as-covid-19-cases-triple-july-28-update-14
 
 
@@ -399,10 +484,13 @@ https://www.garda.com/crisis24/news-alerts/363881/papua-new-guinea-lockdown-impo
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -410,7 +498,8 @@ Time period: *Jul-Sep*: 0
  Human Rights Watch and Amnesty International have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9566
+ https://www.hrw.org/news?country[]=9566
+
 https://www.amnesty.org/en/search/?country=38395&resourceType=newsarticle&sort=date
 
 
@@ -440,10 +529,13 @@ https://www.amnesty.org/en/search/?country=38395&resourceType=newsarticle&sort=d
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -451,7 +543,8 @@ Time period: *Jul-Sep*: 0
  No reports on violations of non-derogable rights have been found, and there are no indications of such occurences in the PNG response to Covid-19. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9566
+ https://www.hrw.org/news?country[]=9566
+
 https://www.amnesty.org/en/search/?country=38395&resourceType=newsarticle&sort=date
 
 
@@ -476,7 +569,15 @@ https://www.amnesty.org/en/search/?country=38395&resourceType=newsarticle&sort=d
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
  The emergency measures did initially not include any de jure limitation on the media. However, after the implementation of a new emergency law, the National Pandemic Act, on June 16, some de jure limitations were imposed. The Law states under Section 47 that ”A person commits an offense if the person … knowingly gives false or misleading information, or … recklessly disseminates false or misleading information to the public in relation to a Public Health Emergency”. Being found guilty of any of the offenses under Section 47 (which includes other offenses as well) can result in penalties of fines up to 50 000 Kina, and imprisonment for up to five years. 
@@ -497,14 +598,22 @@ https://www.policyforum.net/the-securitization-of-public-health-emergencies/
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-06-16 
+*Time period: Q2*: 2020-06-16
+
+ 
+*Time period: Q3*: 2020-06-16
+
+ 
+*Time period: Q4*: 2020-06-16
+
+ 
 
 *Comments*:
  Date of the implementation of the National Pandemic Act. 
@@ -524,15 +633,22 @@ https://www.policyforum.net/the-securitization-of-public-health-emergencies/
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Law has not ended by time of coding. 
@@ -562,10 +678,13 @@ https://www.policyforum.net/the-securitization-of-public-health-emergencies/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -589,7 +708,7 @@ http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -599,10 +718,13 @@ http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -635,10 +757,13 @@ https://www.policyforum.net/the-securitization-of-public-health-emergencies/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -669,14 +794,17 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -708,10 +836,13 @@ No reports have been found on the state of access to information on Covid-19 rel
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -742,10 +873,13 @@ http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -753,9 +887,12 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any physical harassment of journalists in Papua New Guinea, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://www.coronanet-project.org/data/reports/finished/20200620_Papua.html
-https://www.rnz.co.nz/international/pacific-news/413563/png-controller-warns-against-spreading-of-false-info
-https://rsf.org/en/thematique/internet?countries%5B82%5D=82
+ https://www.coronanet-project.org/data/reports/finished/20200620_Papua.html
+
+https://www.rnz.co.nz/international/pacific-news/413563/png-controller-warns-against-spreading-of-false-info
+
+https://rsf.org/en/thematique/internet?countries%5B82%5D=82
+
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Papua%20New%20Guinea
 
 
@@ -780,10 +917,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -816,10 +956,13 @@ https://covid19.info.gov.pg/index.php/covid-19-awareness/
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -827,7 +970,8 @@ Time period: *Jul-Sep*: 0
  Neither Human Rights Watch nor Amnesty International has reported any incidents of violence in enforcing emergency measures, and no other indications on such violence occurring has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9566
+ https://www.hrw.org/news?country[]=9566
+
 https://www.amnesty.org/en/search/?country=38395&resourceType=newsarticle&sort=date
 
 
@@ -840,7 +984,7 @@ https://www.amnesty.org/en/search/?country=38395&resourceType=newsarticle&sort=d
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -850,43 +994,18 @@ https://www.amnesty.org/en/search/?country=38395&resourceType=newsarticle&sort=d
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- ACAPS state that "a range of PNG military personnel have been deployed to the border provinces this week to bolster security on their side of the division. 125 PNG Defence Force personnel were deployed to Sandaun to station at three border points, Wutung, Bewani/Schotiao and Green River, yesterday. More than twenty more troops were expected to join them by today." Furthermore, military has been deployed in July and August as well to help enforce emergency measures. This is therefore coded as 1 for both periods. 
+ ACAPS state that "a range of PNG military personnel have been deployed to the border provinces this week to bolster security on their side of the division. 125 PNG Defence Force personnel were deployed to Sandaun to station at three border points, Wutung, Bewani/Schotiao and Green River, yesterday. More than twenty more troops were expected to join them by today." Furthermore, military has been deployed in July and August as well to help enforce emergency measures. This is therefore coded as 1 for all periods. 
 
 *Sources*:
  https://www.acaps.org/covid19-government-measures-dataset
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
- https://www.policyforum.net/the-securitization-of-public-health-emergencies/
-http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
-https://reliefweb.int/report/papua-new-guinea/png-and-next-pandemic

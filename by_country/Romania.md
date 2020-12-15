@@ -1,9 +1,6 @@
 # Romania 
 
 
-Time 2020-09-10 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-10
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,15 +25,31 @@ Time 2020-09-10
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- State of emergency declared on 16 March with decree no. 195,  published in the Official Gazette no. 212; extended on 14 April with decree no. 240. 
+ March-June: State of emergency declared on 16 March with decree no. 195,  published in the Official Gazette no. 212, based on the  Constitution (Article 93, paragraph 1, Article 100), "ORDONANȚA DE URGENȚĂ nr. 1 din 21 ianuarie 1999" (unofficial translation:  Emergency Ordinance of Government no. 1/1999 (Article 3 and Article 10), approved with modifications and additions by Law no. 453/2004). The Constitution is considered the primary legal instrument because it most closely resembles a state of exception.
+
+July-September, October-December: State of alert declared on 18 May based on multiple legal instruments where  Law 55/2020 is considered the primary legal instrument since it most closely resembles a state of exception. Law 55/2020 was passed by the parliament on 15 May 2020 and has regulated the state of alert. 
 
 *Sources*:
  http://legislatie.just.ro/Public/DetaliiDocument/223831
 https://rm.coe.int/09000016809cee30
 https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+
+http://legislatie.just.ro/Public/DetaliiDocument/225876
+https://ro.usembassy.gov/health-alert-u-s-embassy-bucharest-romania-may-18-2020/
+https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/ro_report_on_coronavirus_pandemic_november_2020.pdf
 
 
 
@@ -55,14 +68,24 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
 *Scale*: Character string.
 
  
-*Answer*: Constitution (Article 93, paragraph 1, Article 100), ORDONANȚA DE URGENȚĂ nr. 1 din 21 ianuarie 1999 
+*Time period: Q2*: Constitution (Article 93, paragraph 1, Article 100)
+
+ 
+*Time period: Q3*: Law 55/2020
+
+ 
+*Time period: Q4*: Law 55/2020
+
+ 
 
 *Comments*:
- Own translation: Emergency Ordinance of Government no. 1/1999 (Article 3 and Article 10), approved with modifications and additions by Law no. 453/2004 
+*No comment provided* 
 
 *Sources*:
  https://rm.coe.int/09000016809cee30
 https://www.constituteproject.org/constitution/Romania_2003?lang=en
+
+http://legislatie.just.ro/Public/DetaliiDocumentAfis/225620
 
 
 
@@ -81,13 +104,28 @@ https://www.constituteproject.org/constitution/Romania_2003?lang=en
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-16 
+*Time period: Q2*: 2020-03-16
+
+ 
+*Time period: Q3*: 2020-05-18
+
+ 
+*Time period: Q4*: 2020-05-18
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  https://rm.coe.int/09000016809cee30
+
+http://legislatie.just.ro/Public/DetaliiDocument/225876
+https://www.garda.com/crisis24/news-alerts/399616/romania-authorities-extend-covid-19-state-of-alert-until-december-15-update-18
+https://www.garda.com/crisis24/news-alerts/389016/romania-authorities-extend-covid-19-state-of-alert-until-november-15-update-16
+https://www.garda.com/crisis24/news-alerts/389016/romania-authorities-extend-covid-19-state-of-alert-until-november-15-update-16
+https://www.garda.com/crisis24/news-alerts/360996/romania-authorities-extend-state-of-alert-through-august-16-update-10
+https://www.garda.com/crisis24/news-alerts/369931/romania-authorities-extend-covid-19-state-of-alert-until-september-15-update-12
 
 
 
@@ -106,16 +144,28 @@ https://www.constituteproject.org/constitution/Romania_2003?lang=en
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-14 
+*Time period: Q2*: 2020-05-14
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The state of emergency declared on 16 March for 30 days, extended on 14 April by 30 days, replaced by a state of alert from 18 May, which is a lower-level emergency status. 
+ March-June: The state of emergency declared on 16 March for 30 days, extended on 14 April by 30 days, so it ended on 14 May 2020.
+
+July-September, October-December: The state of alert was declared on 18 May and has been extended several times (each time by 30 days); still in place at the time of coding with the latest extension until 15 December. 
 
 *Sources*:
  http://legislatie.just.ro/Public/DetaliiDocumentAfis/224849
 http://legislatie.just.ro/Public/DetaliiDocument/225876
 
 https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+
+https://www.garda.com/crisis24/news-alerts/399616/romania-authorities-extend-covid-19-state-of-alert-until-december-15-update-18
 
 
 
@@ -137,14 +187,26 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The state of emergency declared on 16 March for 30 days, extended on 14 April by 30 days, replaced by a state of alert from 18 May. 
+ March-July: The state of emergency declared on 16 March for 30 days, extended on 14 April by 30 days, replaced by a state of alert from 18 May.
+
+July-September, October-December: a state of alert is declared for 30 days and can be extended by 30 days (Law 55/2020). Both the declaration and all extensions of the state of alert had a time limit. 
 
 *Sources*:
  http://legislatie.just.ro/Public/DetaliiDocumentAfis/224849
 http://legislatie.just.ro/Public/DetaliiDocument/225876
+
+http://legislatie.just.ro/Public/DetaliiDocumentAfis/225620
 
 
 
@@ -156,21 +218,36 @@ http://legislatie.just.ro/Public/DetaliiDocument/225876
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-14 
+*Time period: Q2*: 2020-05-14
+
+ 
+*Time period: Q3*: 2020-10-15
+
+ 
+*Time period: Q4*: 2020-12-15
+
+ 
 
 *Comments*:
- The state of emergency declared on 16 March for 30 days, extended on 14 April by 30 days, replaced by a state of alert from 18 May. 
+ March-June: The state of emergency declared on 16 March for 30 days, extended on 14 April by 30 days, replaced by a state of alert from 18 May.
+
+July-September, October-December: The state of alert was declared d on 18 May and has been extended several times (each time by 30 days) and is in place at the time of coding. For July-September, the latest extension was until 15 October. For October-December, the latest extesion was until 15 December (as of the time of coding). 
 
 *Sources*:
  http://legislatie.just.ro/Public/DetaliiDocumentAfis/224849
 http://legislatie.just.ro/Public/DetaliiDocument/225876
+
+http://legislatie.just.ro/Public/DetaliiDocumentAfis/226824#A34
+
+
+http://legislatie.just.ro/Public/DetaliiDocument/229151
 
 
 
@@ -182,7 +259,7 @@ http://legislatie.just.ro/Public/DetaliiDocument/225876
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -192,13 +269,28 @@ http://legislatie.just.ro/Public/DetaliiDocument/225876
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- According to Article 93 of the Constitution, the parliament has to approve the declaration of emergency within 5 days, unless the parliament is not in session. 
+ March-June: According to Article 93 of the Constitution, the parliament has to approve the declaration of emergency within 5 days, unless the parliament is not in session.
+
+July-September, October-December:  On 25 June, the Constitutional Court ruled that the parliament does not need to approve the declaration and the extensions to the state of alert, therefore emlawapp is coded as 0. 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Romania_2003?lang=en
+
+
+http://legislatie.just.ro/Public/DetaliiDocumentAfis/225620
+https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B360%5D&covid19=1
+https://www.ccr.ro/wp-content/uploads/2020/06/Comunicat-de-presa-EN-25-iunie-2020.pdf
 
 
 
@@ -220,15 +312,29 @@ http://legislatie.just.ro/Public/DetaliiDocument/225876
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Approved by the Parliament on 19 March 2020 (Decision no. 3). The parliament also approved the extension of the state of emergency on 14 April (Decision no. 4 from 16 April) 
+ March-June: state of emergency was approved by the Parliament on 19 March 2020 (Decision no. 3). The parliament also approved the extension of the state of emergency on 14 April (Decision no. 4 from 16 April)
+
+July-September, October-December: not required based on the ruling of the Consitutional Court. 
 
 *Sources*:
  http://legislatie.just.ro/Public/DetaliiDocument/223917
 http://legislatie.just.ro/Public/DetaliiDocument/224911
 https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+
+http://www.cdep.ro/comisii/juridica/pdf/2020/rd_0520.pdf
+http://legislatie.just.ro/Public/DetaliiDocumentAfis/225943
+https://www.ccr.ro/wp-content/uploads/2020/06/Comunicat-de-presa-EN-25-iunie-2020.pdf
 
 
 
@@ -248,19 +354,39 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Based on the decree declaring state of emergency, minister of Interior can adopt Military Ordinances, with immediate effect. The parliament conducted meetings remotely. The state of emergency ended on 14 May and I found no evidence of measures limiting the lawmaking role of the legislature during the state of alert (declared from 18 May). 
+ March-June: Based on the decree declaring state of emergency, minister of Interior can adopt Military Ordinances, with immediate effect. The parliament conducted meetings remotely.
+
+July-September, October-December: Parliament passed a new law, Law 55/2020, regulating the state of alert on 15 May. The state by alert is not recognized by the Constitution as a state of exception and the parliament continued to oversee and amend the measures proposed by the government. According to Law 55/2020, the government adopts decision to implement measures declared by the parliament, so the executive has authority to interpret Covid-19 laws relatively widely, but not rule by decree. 
 
 *Sources*:
- http://www.cdep.ro/relatii_publice/site2.text_presa?pid=19651&catg=100&timp=20200316&asoc=http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdfhttps://www.ipu.org/country-compilation-parliamentary-responses-pandemic#Rhttp://www.cdep.ro/pdfs/oz/oz20200314/hp_vot_electronic.pdf
+ http://www.cdep.ro/relatii_publice/site2.text_presa?pid=19651&catg=100&timp=20200316&asoc=
+
+http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdf
+https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#R
+http://www.cdep.ro/pdfs/oz/oz20200314/hp_vot_electronic.pdf
+
+http://legislatie.just.ro/Public/DetaliiDocumentAfis/225620
+https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+http://www.cdep.ro/comisii/juridica/pdf/2020/rd_0520.pdf
+
+https://www.robert-schuman.eu/en/doc/ouvrages/FRS_Parliament_Romania.pdf
 
 
 
@@ -272,15 +398,22 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -305,8 +438,15 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -336,14 +476,30 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Almost uniform measures throughout the country (e.g. with the exception of lockdown in the city of Suceava from 31 March) 
+ March-June: lockdown in the city of Suceava from 31 March.
+
+July-September: no measures implemented on a subnational level found.
+
+October-December: stricter measures in Bucharest (closure of restaurants) in October. 
 
 *Sources*:
  https://ro.usembassy.gov/covid-19-information/
 https://www.euronews.com/2020/04/10/the-region-with-twice-as-many-coronavirus-cases-as-anywhere-else-in-romania
+
+http://legislatie.just.ro/Public/DetaliiDocument/225876
+
+https://www.garda.com/crisis24/news-alerts/388201/romania-authorities-announce-closure-of-restaurants-and-bars-in-bucharest-as-of-october-7-update-15
 
 
 
@@ -367,21 +523,26 @@ https://www.euronews.com/2020/04/10/the-region-with-twice-as-many-coronavirus-ca
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- While existing discrimination against Roma likely was exacerbated due to covid-19, I have not found any de-facto or de-jure discriminatory emergency measures. There was additional police deployment to areas with large Roma populations (Amnesty International report, p. 25), but, according to the authorities, it was due to high risk of criminality and therefore not coded. 
+ While existing discrimination against Roma likely was exacerbated due to covid-19, I have not found any de-facto or de-jure discriminatory emergency measures. Romania placed areas with a large number of Covid-19 cases under lockdown, which included some Roma communities. Such measures are not coded as discrimination because they were based on the number of Covid-19 cases. There was additional police deployment to areas with large Roma populations (Amnesty International report, p. 25), but, according to the authorities, it was due to high risk of criminality and therefore not coded. 
 
 *Sources*:
  https://www.amnesty.org/en/search/?q=&sort=date&country=38495&resourceType=newsarticle
 https://www.hrw.org/europe/central-asia/romania
 https://minorityrights.org/country/romania/
 https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
+https://fra.europa.eu/sites/default/files/fra_uploads/ro_report_-_covid-19_impact_on_roma_en.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/fra-2020-coronavirus-pandemic-eu-bulletin-roma_en.pdf
 
 
 
@@ -410,10 +571,13 @@ https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -451,10 +615,18 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Based on Article 54 of Decree 195: "(2) In case of dissemination of fake-news in mass-media and on-line in relation to COVID-19 and to the protection and preventive measures, public institutions and authorities undertake  the necessary measures in order to correctly and objectively inform the population in this context.) (3) Hosting and content service providers have the obligation, upon the motivated decision of National Authority for Management and Regulation in Commnication, to immediately interrupt the transmission through an electronic communication network or the storage of the content, by removal the content at source in the eventuality that the content promotes fakenews as to the evolution of COVID-19 and to the protection and preventive measures.(4 When the removal of the content mentioned at paragraph 3 at source is not possible, the providers of the publicly available electronic communication networks have the obligation,
+ Based on Article 54 of Decree 195: "(2) In case of dissemination of fake-news in mass-media and on-line in relation to COVID-19 and to the protection and preventive measures, public institutions and authorities undertake  the necessary measures in order to correctly and objectively inform the population in this context.) (3) Hosting and content service providers have the obligation, upon the motivated decision of National Authority for Management and Regulation in Commnication, to immediately interrupt the transmission through an electronic communication network or the storage of the content, by removal the content at source in the eventuality that the content promotes fakenews as to the evolution of COVID-19 and to the protection and preventive measures.(4 When the removal of the content mentioned at paragraph 3 at source is not possible, the providers of the publicly available electronic communication networks have the obligation,
 upon the motivated decision of National Authority for Management and Regulation in Communication, to immediately block the access to that content and to inform the users. (5) Upon the motivated decision of National Authority for Management and Regulation in Communication, the providers of the publicly available electronic communication networks have the obligation to immediately block the access of users in Romania at the content promoting fake-news as to the evolution of COVID-19 and to the protection and preventive measures and is being transmitted through an electronic communication network by the persons mentioned at paragraph 3 which do not fall under the jurisdiction of the national legislation." 
 
 *Sources*:
@@ -475,17 +647,25 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B36
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-16 
+*Time period: Q2*: 2020-03-16
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- For the duration of the state of emergency 
+*No comment provided* 
 
 *Sources*:
  http://legislatie.just.ro/Public/DetaliiDocument/223831
@@ -500,14 +680,22 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B36
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-14 
+*Time period: Q2*: 2020-05-14
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  For the duration of the state of emergency 
@@ -535,10 +723,13 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B36
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -560,7 +751,7 @@ https://rsf.org/en/news/repressive-laws-prosecutions-attacks-europe-fails-shield
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -570,10 +761,13 @@ https://rsf.org/en/news/repressive-laws-prosecutions-attacks-europe-fails-shield
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -605,10 +799,13 @@ https://ipi.media/romania/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -637,14 +834,17 @@ https://ipi.media/romania/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -677,10 +877,13 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -712,10 +915,13 @@ https://rsf.org/en/romania
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -752,10 +958,13 @@ https://rsf.org/en/romania
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -789,18 +998,22 @@ https://rsf.org/en/romania
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Reports of a case of police violence against Roma on 30 April 2020 (Amnesty International). A criminal investigation was opened by the Prosecutor and chief of police who led the operation was dismissed by Minister of the Interior. Since it was one incident and I have not found any further information on police violence, pomviol is coded as 1 only during March-June 2020. 
+ Reports of a case of police violence against Roma on 30 April 2020 during the enforcement of emergency measures (Amnesty International). A criminal investigation was opened by the Prosecutor and chief of police who led the operation was dismissed by Minister of the Interior. Since it was one incident and I have not found any further information on police violence, pomviol is coded as 1 only during March-June 2020. 
 
 *Sources*:
  https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
+https://balkaninsight.com/2020/04/24/video-of-romanian-police-beating-roma-causes-outrage/
 
 
 
@@ -812,7 +1025,7 @@ Time period: *Jul-Sep*: 0
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -822,10 +1035,13 @@ Time period: *Jul-Sep*: 0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -836,29 +1052,3 @@ Time period: *Jul-Sep*: 1
  https://www.mapn.ro/evenimente/2062_Deta%C8%99ament-din-cadrul-Batalionului-202-Aparare-CBRN-(Interven%C8%9Bie-la-Dezastre)-continua-sa-ac%C8%9Bioneze-in-Suceava
 https://www.bbc.com/news/world-europe-52370421
 https://www.euronews.com/2020/04/22/coronavirus-romania-set-to-ease-its-lockdown-next-month-after-fines-pay-dividends
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

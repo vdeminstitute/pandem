@@ -1,9 +1,6 @@
 # Costa Rica 
 
 
-Time 2020-09-08 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-08
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,14 +25,23 @@ Time 2020-09-08
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Decreto Ejecutivo 42227-MP-S de 16 de marzo de 2020 
+ A state of emergency was declared via the Executive Decree 42227-MP-S on March 16 
 
 *Sources*:
- https://www.ministeriodesalud.go.cr/sobre_ministerio/prensa/decretos_cvd/decreto_ejecutivo_42227_mp_s_declaratoria_emergencia_nacional.pdf
+ https://www.ministeriodesalud.go.cr/sobre_ministerio/prensa/decretos_cvd/decreto_ejecutivo_42227_mp_s_declaratoria_emergencia_nacional.pdf
 https://www.presidencia.go.cr/comunicados/2020/03/gobierno-declara-estado-de-emergencia-nacional-impide-llegada-de-extranjeros-y-se-suspende-lecciones-en-todos-los-centros-educativos-del-pais/
+https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1532-lineamientos-nacionales-para-la-vigilancia-de-la-infeccion-por-coronavirus-2019-ncov
 
 
 
@@ -54,13 +60,21 @@ https://www.presidencia.go.cr/comunicados/2020/03/gobierno-declara-estado-de-eme
 *Scale*: Character string.
 
  
-*Answer*: Ley Nacional de Emergencias y Prevención del Riesgo (Ley 8488 del 22 de noviembre de 2005) 
+*Time period: Q2*: Ley Nacional de Emergencias y Prevención del Riesgo (Ley 8488 del 22 de noviembre de 2005)
+
+ 
+*Time period: Q3*: Ley Nacional de Emergencias y Prevención del Riesgo (Ley 8488 del 22 de noviembre de 2005)
+
+ 
+*Time period: Q4*: Ley Nacional de Emergencias y Prevención del Riesgo (Ley 8488 del 22 de noviembre de 2005)
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://www.ministeriodesalud.go.cr/sobre_ministerio/prensa/decretos_cvd/decreto_ejecutivo_42227_mp_s_declaratoria_emergencia_nacional.pdf
+ https://www.ministeriodesalud.go.cr/sobre_ministerio/prensa/decretos_cvd/decreto_ejecutivo_42227_mp_s_declaratoria_emergencia_nacional.pdf
 http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=56178
 
 
@@ -80,7 +94,15 @@ http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?n
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-16 
+*Time period: Q2*: 2020-03-16
+
+ 
+*Time period: Q3*: 2020-03-16
+
+ 
+*Time period: Q4*: 2020-03-16
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -105,8 +127,15 @@ http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?n
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Still in place 
@@ -134,7 +163,15 @@ http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?n
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  There is no limit date. The Executive Decree 42227-MP-S, Article 2, establishes 3 phases of action: the response phase, the rehabilitation phase and the reconstruction phase; and the state of national emergency will end when these three phases have been completed. 
@@ -152,15 +189,22 @@ http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?n
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No limit established 
@@ -178,7 +222,7 @@ http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?n
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -188,7 +232,15 @@ http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?n
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Law nº 8488, Art. 3: "State of emergency: Declaration of the Executive Power, via executive decree, based on a state of need and urgency, caused by circumstances of war, internal commotion and public calamity." 
@@ -216,7 +268,15 @@ http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?n
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The law doesn't require legislative approval 
@@ -242,13 +302,21 @@ http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?n
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
  Ley 8488 Art. 4 defines a state of emergency: "Declaration of the Executive Power, via executive decree, based on a state of necessity and urgency, caused by circumstances of war, internal commotion and public calamity. This declaration allows, by way of exception, to manage the actions and the allocation of the necessary resources to attend the emergency, in accordance with article 180 of the Political Constitution." 
@@ -266,15 +334,22 @@ http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?n
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -299,8 +374,15 @@ http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?n
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -330,14 +412,23 @@ http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?n
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  Some more restrictive measures have been implemented in districts with a higher number of cases 
 
 *Sources*:
- https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1695-ante-aumento-de-casos-covid-19-gobierno-endurece-medidas-en-cinco-distritos
+ https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1695-ante-aumento-de-casos-covid-19-gobierno-endurece-medidas-en-cinco-distritos
 https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1702-distrito-de-la-fortuna-en-san-carlos-y-los-cantones-de-pococi-y-upala-se-suman-a-la-lista-de-alerta-naranja
+https://www.presidencia.go.cr/comunicados/2020/10/aumento-de-casos-covid-19-ocasiona-que-6-cantones-pasen-a-alerta-naranja/
 
 
 
@@ -361,10 +452,13 @@ https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noti
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -372,8 +466,9 @@ Time period: *Jul-Sep*: 0
  No evidence of discrimination was found. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?q=&sort=date&issue=67596&country=38286&resourceType=newsarticle
-https://www.hrw.org/news?country[]=9536
+ https://www.amnesty.org/en/search/?q=costa+rica
+https://www.hrw.org/americas/costa-rica
+https://monitor.civicus.org/country/costa-rica/
 
 
 
@@ -402,10 +497,13 @@ https://www.hrw.org/news?country[]=9536
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -413,8 +511,9 @@ Time period: *Jul-Sep*: 0
  No evidence of non-derogable rights violation was found. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?q=&sort=date&issue=67596&country=38286&resourceType=newsarticle
-https://www.hrw.org/news?country[]=9536
+ https://www.amnesty.org/en/search/?q=costa+rica
+https://www.hrw.org/americas/costa-rica
+https://monitor.civicus.org/country/costa-rica/
 
 
 
@@ -438,7 +537,15 @@ https://www.hrw.org/news?country[]=9536
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -456,15 +563,22 @@ https://www.hrw.org/news?country[]=9536
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -482,15 +596,22 @@ https://www.hrw.org/news?country[]=9536
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -518,10 +639,13 @@ https://www.hrw.org/news?country[]=9536
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -530,9 +654,9 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://cpj.org/americas/costa-rica/
 
 
 
@@ -544,7 +668,7 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -554,10 +678,13 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -566,8 +693,9 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://cpj.org/americas/costa-rica/
 
 
 
@@ -589,10 +717,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -601,8 +732,9 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://cpj.org/americas/costa-rica/
 
 
 
@@ -621,14 +753,17 @@ https://ipi.media/covid19-media-freedom-monitoring/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -637,8 +772,9 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+https://ipi.media/covid19-media-freedom-monitoring/
+https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://cpj.org/americas/costa-rica/
 https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1725-situacion-nacional-covid-19
 
 
@@ -661,10 +797,13 @@ https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noti
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -673,8 +812,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/americas/costa-rica/
 
 
 
@@ -696,10 +835,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -708,8 +850,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/americas/costa-rica/
 
 
 
@@ -733,10 +875,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -744,7 +889,7 @@ Time period: *Jul-Sep*: 0
  The governemnt shares information in accordance with WHO guidelines. The Ministry of Health prepared educational material on "myths and reality" about covid-19. 
 
 *Sources*:
- https://www.ministeriodesalud.go.cr/index.php/material-educativo/documentos-ministerio-de-salud/centro-de-informacion/material-comunicacion/protocolos-ms/coronavirus/mitos-y-realidades?sort=title
+ https://www.ministeriodesalud.go.cr/index.php/material-educativo/documentos-ministerio-de-salud/centro-de-informacion/material-comunicacion/protocolos-ms/coronavirus/mitos-y-realidades?sort=title
 https://covid19.go.cr/
 
 
@@ -769,10 +914,13 @@ https://covid19.go.cr/
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -780,7 +928,7 @@ Time period: *Jul-Sep*: 0
  There was one serious incident in March, when a police officer fired at (but missed) surfers who were disrespecting the quarantine. There is an on-going investigation about it. Other reports of police violence were not identified. 
 
 *Sources*:
- https://www.clarin.com/internacional/video-momento-policia-dispara-surfers-rompieron-cuarentena-coronavirus_3_yiVGvACtq.html
+ https://www.clarin.com/internacional/video-momento-policia-dispara-surfers-rompieron-cuarentena-coronavirus_3_yiVGvACtq.html
 https://www.lateja.cr/sucesos/video-seguridad-investiga-supuestos-disparos-al/HWH5BB4B5FAATD2SCMAOD3V2YI/story/
 
 
@@ -793,7 +941,7 @@ https://www.lateja.cr/sucesos/video-seguridad-investiga-supuestos-disparos-al/HW
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -803,10 +951,13 @@ https://www.lateja.cr/sucesos/video-seguridad-investiga-supuestos-disparos-al/HW
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -815,28 +966,3 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://www.ministeriodesalud.go.cr/sobre_ministerio/prensa/decretos_cvd/decreto_ejecutivo_42227_mp_s_declaratoria_emergencia_nacional.pdf
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-*Answer*: Costa Rica established a Vehicle Restriction Schedule, that limits when vehicles can circulate according to the license plate ending number. 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
- https://www.ministeriodesalud.go.cr/sobre_ministerio/prensa/decretos_cvd/decreto_ejecutivo_numero_42285_mp_mopt_s.pdf

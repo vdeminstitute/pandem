@@ -1,9 +1,6 @@
 # Cameroon 
 
 
-Time 2020-09-10 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-10
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,25 +25,33 @@ Time 2020-09-10
  7. Other.
 
  
-*Answer*: 5 
+*Time period: Q2*: 5
+
+ 
+*Time period: Q3*: 5
+
+ 
+*Time period: Q4*: 5
+
+ 
 
 *Comments*:
- The Prime Minister of Cameroon announced with a Special declaration on March 17, 2020, a total of thirteen measures after a crisis meeting organized at the palace.
-No decree issued, nor any legal instrument was used / invoked to pass the measures.
+ The Prime Minister of Cameroon announced with a Special declaration on March 17, 2020, a total of thirteen measures. The measures have started being eased gradually since June.
+
+The measures were not based on a legal instrument, nor were issued through a decree.
 
 ''In Cameroon, emergency law is solely the prerogative of the President of the Republic. He alone can declare a state of emergency “when circumstances so warrant” or a state of siege “in the event of a serious threat to the nation’s territorial integrity or to its existence, its independence or institutions” (Article 9 of the Constitution). So far, Cameroon’s government has not declared a state of emergency.
-
 Apart from these exceptional powers of the President of the Republic prescribed in the constitution, there is no emergency legal framework applicable in the event of a health emergency....Cameroon could, as has been done in many countries, fill this vacuum by adopting a legal framework tailored to the situation and which could possibly be used to manage future situations. It has not, however, as of yet.
-
 Instead, Cameroon has chosen to base the fight against COVID-19 on its existing legal framework. The fight against COVID-19 is a public health issue which, according to Cameroonian law, is a component of public order. The protection of public order is the responsibility of executive authorities, which have the power to adopt any executive orders for its preservation. As of now, all the measures taken in the context of the fight against COVID-19 are administrative measures, but as we shall see, they have different legal qualities and force.'' (1) 
 
 *Sources*:
- https://verfassungsblog.de/cameroons-fight-against-covid-19-an-ordinary-legal-framework-for-an-extraordinary-situation/
-(1)
-https://www.icnl.org/covid19tracker/?location=22&issue=&date=&type=
-https://www.prc.cm/en/multimedia/documents/8228-government-response-strategy-to-the-coronavirus-pandemic-covid-19
-https://www.spm.gov.cm/site/?q=fr/content/strategie-gouvernementale-de-riposte-face-la-pandemie-de-coronavirus-covid-19
-https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
+ https://www.garda.com/crisis24/news-alerts/386261/cameroon-schools-reopened-amid-easing-of-covid-19-restrictions-october-5-update-9
+https://verfassungsblog.de/cameroons-fight-against-covid-19-an-ordinary-legal-framework-for-an-extraordinary-situation/
+(1)
+https://www.icnl.org/covid19tracker/?location=22&issue=&date=&type=
+https://www.prc.cm/en/multimedia/documents/8228-government-response-strategy-to-the-coronavirus-pandemic-covid-19
+https://www.spm.gov.cm/site/?q=fr/content/strategie-gouvernementale-de-riposte-face-la-pandemie-de-coronavirus-covid-19
+https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
 https://information.tv5monde.com/video/coronavirus-le-cameroun-ferme-ses-frontieres
 
 
@@ -66,8 +71,15 @@ https://information.tv5monde.com/video/coronavirus-le-cameroun-ferme-ses-frontie
 *Scale*: Character string.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -92,8 +104,15 @@ https://information.tv5monde.com/video/coronavirus-le-cameroun-ferme-ses-frontie
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -118,8 +137,15 @@ https://information.tv5monde.com/video/coronavirus-le-cameroun-ferme-ses-frontie
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -147,8 +173,15 @@ https://information.tv5monde.com/video/coronavirus-le-cameroun-ferme-ses-frontie
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -166,15 +199,22 @@ https://information.tv5monde.com/video/coronavirus-le-cameroun-ferme-ses-frontie
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -192,7 +232,7 @@ https://information.tv5monde.com/video/coronavirus-le-cameroun-ferme-ses-frontie
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -202,8 +242,15 @@ https://information.tv5monde.com/video/coronavirus-le-cameroun-ferme-ses-frontie
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -231,8 +278,15 @@ https://information.tv5monde.com/video/coronavirus-le-cameroun-ferme-ses-frontie
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -258,13 +312,21 @@ https://information.tv5monde.com/video/coronavirus-le-cameroun-ferme-ses-frontie
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  The National Assembly of Cameroon held its first session of 2020 from 20 March to 18 April and resumed sittings for its second session on 10 June. Decisions regarding the emergency response to Covid-19 have come primarily through the Prime Minister's office or public health authorities, without requiring approval from the parliament. Such measures include requiring masks and closing borders, curfews, social distancing measures and limits on public gatherings. Some of these have been eased since 30 April. 
@@ -275,12 +337,12 @@ IDEA
 Parliaments
 during
 the
-pandemic
-https://www.facebook.com/notes/assembl%C3%A9e-nationale-du-cameroun/discours-de-cloture-du-tres-honorable-cavaye-yeguie-djibril-president-de-lassemb/2748128938643984/
-https://www.facebook.com/notes/assembl%C3%A9e-nationale-du-cameroun/discours-douverture-du-tres-honorable-cavaye-yeguie-djibril-president-de-lassemb/2872600949530115/
-https://twitter.com/CRTV_web/status/1248370100622757888
-https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
-https://www.spm.gov.cm/site/?q=fr/content/strategie-gouvernementale-de-riposte-face-la-pandemie-de-coronavirus-covid-19
+pandemic
+https://www.facebook.com/notes/assembl%C3%A9e-nationale-du-cameroun/discours-de-cloture-du-tres-honorable-cavaye-yeguie-djibril-president-de-lassemb/2748128938643984/
+https://www.facebook.com/notes/assembl%C3%A9e-nationale-du-cameroun/discours-douverture-du-tres-honorable-cavaye-yeguie-djibril-president-de-lassemb/2872600949530115/
+https://twitter.com/CRTV_web/status/1248370100622757888
+https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
+https://www.spm.gov.cm/site/?q=fr/content/strategie-gouvernementale-de-riposte-face-la-pandemie-de-coronavirus-covid-19
 https://www.journalducameroun.com/en/cameroonparliament-smashes-govt-anti-coronavirus-measures/1
 
 
@@ -293,15 +355,22 @@ https://www.journalducameroun.com/en/cameroonparliament-smashes-govt-anti-corona
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -326,8 +395,15 @@ https://www.journalducameroun.com/en/cameroonparliament-smashes-govt-anti-corona
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -357,16 +433,26 @@ https://www.journalducameroun.com/en/cameroonparliament-smashes-govt-anti-corona
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No sub-national variation. 
 
 *Sources*:
- https://cm.usembassy.gov/covid-19-information/
-https://www.prc.cm/en/multimedia/documents/8228-government-response-strategy-to-the-coronavirus-pandemic-covid-19
-https://www.spm.gov.cm/site/?q=fr/content/strategie-gouvernementale-de-riposte-face-la-pandemie-de-coronavirus-covid-19
-https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
+ https://africacdc.org/download/perc-finding-the-balance-public-health-and-social-measures-in-cameroon/
+https://www.garda.com/crisis24/news-alerts/386261/cameroon-schools-reopened-amid-easing-of-covid-19-restrictions-october-5-update-9
+https://cm.usembassy.gov/covid-19-information/
+https://www.prc.cm/en/multimedia/documents/8228-government-response-strategy-to-the-coronavirus-pandemic-covid-19
+https://www.spm.gov.cm/site/?q=fr/content/strategie-gouvernementale-de-riposte-face-la-pandemie-de-coronavirus-covid-19
+https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
 https://afrique.le360.ma/autres-pays/societe/2020/05/01/30417-cameroun-coronavirus-le-gouvernement-assouplit-les-mesures-restrictives-30417
 
 
@@ -391,10 +477,13 @@ https://afrique.le360.ma/autres-pays/societe/2020/05/01/30417-cameroun-coronavir
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -402,10 +491,11 @@ Time period: *Jul-Sep*: 0
  No discrimination based on these rights. 
 
 *Sources*:
- https://verfassungsblog.de/cameroons-fight-against-covid-19-an-ordinary-legal-framework-for-an-extraordinary-situation/
-https://www.prc.cm/en/multimedia/documents/8228-government-response-strategy-to-the-coronavirus-pandemic-covid-19
-https://www.spm.gov.cm/site/?q=fr/content/strategie-gouvernementale-de-riposte-face-la-pandemie-de-coronavirus-covid-19
-https://afrique.le360.ma/autres-pays/societe/2020/05/01/30417-cameroun-coronavirus-le-gouvernement-assouplit-les-mesures-restrictives-30417
+ https://www.ohchr.org/Documents/HRBodies/SP/COVID/NGOs/NationalObservatoryonESCRightsCameroon.pdf
+https://verfassungsblog.de/cameroons-fight-against-covid-19-an-ordinary-legal-framework-for-an-extraordinary-situation/
+https://www.prc.cm/en/multimedia/documents/8228-government-response-strategy-to-the-coronavirus-pandemic-covid-19
+https://www.spm.gov.cm/site/?q=fr/content/strategie-gouvernementale-de-riposte-face-la-pandemie-de-coronavirus-covid-19
+https://afrique.le360.ma/autres-pays/societe/2020/05/01/30417-cameroun-coronavirus-le-gouvernement-assouplit-les-mesures-restrictives-30417
 https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
 
 
@@ -435,10 +525,13 @@ https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -446,10 +539,11 @@ Time period: *Jul-Sep*: 0
  No violation of these rights. 
 
 *Sources*:
- https://verfassungsblog.de/cameroons-fight-against-covid-19-an-ordinary-legal-framework-for-an-extraordinary-situation/
-https://www.prc.cm/en/multimedia/documents/8228-government-response-strategy-to-the-coronavirus-pandemic-covid-19
-https://www.spm.gov.cm/site/?q=fr/content/strategie-gouvernementale-de-riposte-face-la-pandemie-de-coronavirus-covid-19
-https://afrique.le360.ma/autres-pays/societe/2020/05/01/30417-cameroun-coronavirus-le-gouvernement-assouplit-les-mesures-restrictives-30417
+ https://www.ohchr.org/Documents/HRBodies/SP/COVID/NGOs/NationalObservatoryonESCRightsCameroon.pdf
+https://verfassungsblog.de/cameroons-fight-against-covid-19-an-ordinary-legal-framework-for-an-extraordinary-situation/
+https://www.prc.cm/en/multimedia/documents/8228-government-response-strategy-to-the-coronavirus-pandemic-covid-19
+https://www.spm.gov.cm/site/?q=fr/content/strategie-gouvernementale-de-riposte-face-la-pandemie-de-coronavirus-covid-19
+https://afrique.le360.ma/autres-pays/societe/2020/05/01/30417-cameroun-coronavirus-le-gouvernement-assouplit-les-mesures-restrictives-30417
 https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
 
 
@@ -474,18 +568,25 @@ https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No evidence on media limitations found in the emergency measures. 
 
 *Sources*:
- https://www.prc.cm/en/multimedia/documents/8228-government-response-strategy-to-the-coronavirus-pandemic-covid-19
-https://www.spm.gov.cm/site/?q=fr/content/strategie-gouvernementale-de-riposte-face-la-pandemie-de-coronavirus-covid-19
-https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
-https://afrique.le360.ma/autres-pays/societe/2020/05/01/30417-cameroun-coronavirus-le-gouvernement-assouplit-les-mesures-restrictives-30417
-https://verfassungsblog.de/cameroons-fight-against-covid-19-an-ordinary-legal-framework-for-an-extraordinary-situation/
-
+ https://www.prc.cm/en/multimedia/documents/8228-government-response-strategy-to-the-coronavirus-pandemic-covid-19
+https://www.spm.gov.cm/site/?q=fr/content/strategie-gouvernementale-de-riposte-face-la-pandemie-de-coronavirus-covid-19
+https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
+https://afrique.le360.ma/autres-pays/societe/2020/05/01/30417-cameroun-coronavirus-le-gouvernement-assouplit-les-mesures-restrictives-30417
+https://verfassungsblog.de/cameroons-fight-against-covid-19-an-ordinary-legal-framework-for-an-extraordinary-situation/
 
 
 
@@ -497,15 +598,22 @@ https://verfassungsblog.de/cameroons-fight-against-covid-19-an-ordinary-legal-fr
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -523,15 +631,22 @@ https://verfassungsblog.de/cameroons-fight-against-covid-19-an-ordinary-legal-fr
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -559,20 +674,29 @@ https://verfassungsblog.de/cameroons-fight-against-covid-19-an-ordinary-legal-fr
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- No such evidence was found. The only incidents related to media limitations on access to information. 
+ There are many incidents of arrests, harasshment and intimidation of journalists in Cameroon (see 1,2,3), and there are incidents regarding media limitations on access to information with reference to COVID19. 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+ https://rsf.org/en/news/cameroonian-journalist-samuel-wazizi-died-detention
+(1)
+https://rsf.org/en/news/rsf-condemns-heavy-handed-methods-used-prevent-journalists-covering-demonstration-cameroon
+(2)
 https://rsf.org/en/cameroon
+(3)
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+
 
 
 
@@ -584,7 +708,7 @@ https://rsf.org/en/cameroon
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -594,20 +718,29 @@ https://rsf.org/en/cameroon
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- No such evidence was found. The only incidents related to media limitations on access to information. 
+ There are many incidents of arrests, harasshment and intimidation of journalists in Cameroon (see 1,2,3), and there are incidents regarding media limitations on access to information with reference to COVID19. 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+ https://rsf.org/en/news/cameroonian-journalist-samuel-wazizi-died-detention
+(1)
+https://rsf.org/en/news/rsf-condemns-heavy-handed-methods-used-prevent-journalists-covering-demonstration-cameroon
+(2)
 https://rsf.org/en/cameroon
+(3)
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+
 
 
 
@@ -629,20 +762,29 @@ https://rsf.org/en/cameroon
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No such evidence was found. The only incidents related to media limitations on access to information. 
+ There are many incidents of arrests, harasshment and intimidation of journalists in Cameroon (see 1,2,3). However, there are no explicit COVID19 related instances. The only releavnt incidents relate to media limitations on access to information. 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+ https://rsf.org/en/news/cameroonian-journalist-samuel-wazizi-died-detention
+(1)
+https://rsf.org/en/news/rsf-condemns-heavy-handed-methods-used-prevent-journalists-covering-demonstration-cameroon
+(2)
 https://rsf.org/en/cameroon
+(3)
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+
 
 
 
@@ -661,14 +803,17 @@ https://rsf.org/en/cameroon
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
@@ -683,11 +828,13 @@ Time period: *Jul-Sep*: 2
 ''In Cameroon, the authorities are providing no information to several critical but very popular media outlets.'' 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-https://www.minsante.cm/site/?q=en/cat%C3%A9gories/coronavirus-covid-19
-https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
+ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
 
+https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+
+https://www.minsante.cm/site/?q=en/cat%C3%A9gories/coronavirus-covid-19
+
+https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
 
 
 
@@ -709,21 +856,24 @@ https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-re
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No verbal or physical harassment reported.
+ No verbal or physical harassment reported.
  
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
 
+https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
 
 
 
@@ -745,21 +895,24 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No verbal or physical harassment reported.
+ No verbal or physical harassment reported.
  
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
 
+https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
 
 
 
@@ -783,10 +936,13 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
@@ -794,22 +950,22 @@ Time period: *Jul-Sep*: 2
  In Cameroon, the President Paul Biya authorized on April 9, 2020 the local production of chloroquine for the treatment against covid19. (1,3)
 ''Chloroquine (Nivaquine) 500 mg or hydroxychloroquine sulfate is used as a first line treatment with azithromycin 500 mg. These practices are subject to change as treatment research evolves.'' (2)
 
-Cameroon continues the use of Hydroxichloroquine by August 2020:
+Cameroon continues the use of Hydroxichloroquine by August 2020. No evidence on whether the government stopped the usw of chloroquine in the treatment against covid after August:
 ''The Minister of Public Health, Dr Manaouda Malachi presented the result to the inter-Ministerial Committee in charge of evaluating and monitoring the implementation of the Government’s response strategy against the COVID-19 pandemic in Cameroon chaired by the Prime Minister, Head of Government, Joseph Dion Ngute.
 At the end of the committee’s meeting of Thursday, August 13, 2020 it was resolved that Cameroon will continue hydroxichloroquine as part of the treatment protocol for COVID-19 in spite of some health bodies calling for a stop. 
 The Minister of Public Health however emphasised that scientific research continues and cases are being studied to assess the side effects of this medication.'' (6) 
 
 *Sources*:
  https://www.france24.com/en/20200503-covid-19-in-cameroon-a-chloroquine-therapy-hailed-by-french-expert-becomes-state-protocol
-(1)
+(1)
 https://nkafu.org/blog-post/bulletin-002-sur-le-covid-19-au-cameroun/
-(2)
+(2)
 https://afrique.le360.ma/autres-pays/societe/2020/07/16/31180-cameroun-coronavirus-lhydroxychloroquine-nouveau-en-vente-dans-les-pharmacies-31180
-(3)
+(3)
 https://afrique.le360.ma/maroc-algerie-autres-pays/politique/2020/06/01/30726-covid-19-voici-pourquoi-les-pays-africains-ont-dit-non-loms-et-poursuivent-le
-(4)
+(4)
 https://www.voanews.com/science-health/coronavirus-outbreak/cameroon-begins-large-scale-chloroquine-production
-(5)
+(5)
 http://www.crtv.cm/2020/08/covid-19-cameroon-continues-use-of-hydroxichloroquine/
 (6)
 
@@ -835,28 +991,44 @@ http://www.crtv.cm/2020/08/covid-19-cameroon-continues-use-of-hydroxichloroquine
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
- 'Police in Cameroon have detained several hundred people for not wearing face masks in public…''
+ There are widespread reports of police violence when executing the emergency measures in Cameroon since March:
+'Police in Cameroon have detained several hundred people for not wearing face masks in public…''
 ''state security agents have been accused of using violence in some instances to enforce this measure or have extorted money from those caught in breach of the rule.''
-
 ''A politicized national response to the Covid-19 pandemic has led to the arrest, detention and violation of rights of some aid workers, and members of opposition parties.''
+''Several volunteers from the "Survie-Cameroon-Survival Initiative" project have been arrested in recent days, according to officials of the initiative, which is sponsored by Maurice Kamto.''
 
-''Several volunteers from the "Survie-Cameroon-Survival Initiative" project have been arrested in recent days, according to officials of the initiative, which is sponsored by Maurice Kamto.'' 
+Although violence is ongoing in September, this is more related to the December elections and the cracking down of the opposition parties. However, the govenment is accused of using COVID19 to quell the right to assembly, as it banned demonstrations indefinitely: (1)
+''On September 11, 2020, the governors of the Littoral and Centre regions banned public meetings and demonstrations indefinitely. Three days later, Territorial Administration Minister Paul Atanga Nji, in a letter to the two governors and the governor of the West region, warned that law enforcement forces would break up unauthorized demonstrations. He said that the governors should arrest anyone organizing or leading demonstrations, claiming that protests would endanger lives during the Covid-19 pandemic. On September 15, the communication minister warned political parties that protests could be considered “insurrection” and that illegal demonstrations across the country would be punished under the anti-terror law.''
+
+“These steps are a thinly veiled attempt by the Cameroonian government to use the Covid-19 pandemic and the draconian anti-terror law as a pretext to quell the right to assemble,” said Lewis Mudge, Central Africa director at Human Rights Watch.''
+ 
 
 *Sources*:
- https://www.voanews.com/covid-19-pandemic/cameroon-police-force-muslims-follow-covid-19-restrictions-ramadan
-https://allafrica.com/stories/202004250004.html
-https://www.voanews.com/covid-19-pandemic/cameroon-arrests-people-without-masks-covid-19-cases-increase
-https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
-https://www.voaafrique.com/a/cameroun-interdiction-dons-coronavirus-kamto/5436452.html
-https://www.hrw.org/news/2020/05/14/covid-19-brings-out-governments-ugly-side-cameroon
+ https://www.hrw.org/news/2020/09/21/cameroon-heightened-crackdown-opposition
+(1)
+https://www.voanews.com/covid-19-pandemic/cameroon-police-force-muslims-follow-covid-19-restrictions-ramadan
+
+https://allafrica.com/stories/202004250004.html
+
+https://www.voanews.com/covid-19-pandemic/cameroon-arrests-people-without-masks-covid-19-cases-increase
+
+https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
+
+https://www.voaafrique.com/a/cameroun-interdiction-dons-coronavirus-kamto/5436452.html
+
+https://www.hrw.org/news/2020/05/14/covid-19-brings-out-governments-ugly-side-cameroon
+
 http://www.rfi.fr/fr/afrique/20200513-cameroun-opposants-luttant-contre-le-coronavirus-toujours-en-garde-%C3%A0-vue
 
 
@@ -869,7 +1041,7 @@ http://www.rfi.fr/fr/afrique/20200513-cameroun-opposants-luttant-contre-le-coron
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -879,10 +1051,13 @@ http://www.rfi.fr/fr/afrique/20200513-cameroun-opposants-luttant-contre-le-coron
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -890,36 +1065,14 @@ Time period: *Jul-Sep*: 0
  The police has been dealing with the enforcement of the measures. 
 
 *Sources*:
- https://www.voanews.com/covid-19-pandemic/cameroon-police-force-muslims-follow-covid-19-restrictions-ramadan
-https://allafrica.com/stories/202004250004.html
-https://www.voanews.com/covid-19-pandemic/cameroon-arrests-people-without-masks-covid-19-cases-increase
-https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
-https://www.voaafrique.com/a/cameroun-interdiction-dons-coronavirus-kamto/5436452.html
-https://www.hrw.org/news/2020/05/14/covid-19-brings-out-governments-ugly-side-cameroon
+ https://www.voanews.com/covid-19-pandemic/cameroon-police-force-muslims-follow-covid-19-restrictions-ramadan
+
+https://allafrica.com/stories/202004250004.htmlhttps://www.voanews.com/covid-19-pandemic/cameroon-arrests-people-without-masks-covid-19-cases-increase
+
+https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
+
+https://www.voaafrique.com/a/cameroun-interdiction-dons-coronavirus-kamto/5436452.html
+
+https://www.hrw.org/news/2020/05/14/covid-19-brings-out-governments-ugly-side-cameroon
+
 http://www.rfi.fr/fr/afrique/20200513-cameroun-opposants-luttant-contre-le-coronavirus-toujours-en-garde-%C3%A0-vue
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

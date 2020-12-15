@@ -1,9 +1,6 @@
 # Lithuania 
 
 
-Time 2020-09-09 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-09
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,24 +25,28 @@ Time 2020-09-09
  7. Other.
 
  
-*Answer*: 2 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- Government Resolution No 207 declaring quarantine on the territory of the Republic of Lithuania ‘Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo’ from 16 March 2020.
-
-The authorities have also announced state-level emergency from 26 February (Resolution 152 ‘On Declaration of State-Level Emergency (Dėl valstybės lygio ekstremalios situacijos paskelbimo‘), which is still in place at the time of coding. Note that state-level emergency ("ekstremaliajai situacijai", Law on Civil Protection, Art 2 (1)) is different from state of emergency ("nepaprastąją padėtį", Art 144 of the Constitution). According to OSCE report (p.25-26, 31-32), Lithuania is among countries that "declared some forms of special public-health related status, not amounting to a "state of emergency", based on existing or newly adopted primary legislation, and not on the constitution" where the legal instrument is considered to be quarantine. 
+ The authorities have also announced state-level emergency from 26 February (Resolution 152 ‘On Declaration of State-Level Emergency (Dėl valstybės lygio ekstremalios situacijos paskelbimo‘), which is still in place at the time of coding. Note that state-level emergency ("ekstremaliajai situacijai", Law on Civil Protection, Art 2 (1)) is different from state of emergency ("nepaprastąją padėtį", Art 144 of the Constitution). The government decided to maintain the state-level emergency after quarantine ended on 17 June (Resolution 588  "Dėl Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimo Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“). Since it amended Resolution 152 from 26 February, the primary legal instrument is considered to be Law on Civil Protection (Resolution 152 "Dėl valstybės lygio ekstremaliosios situacijos paskelbimo"). Note that state-level emergency ("ekstremaliajai situacijai", Law on Civil Protection, Art 2 (1)) is different from state of emergency ("nepaprastąją padėtį", Art 144 of the Constitution). 
 
 *Sources*:
- https://www.e-tar.lt/portal/lt/legalAct/73c0b060663111eabee4a336e7e6fdab/WtdCSiIMXu
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8feb1a7658a111eaac56f6e40072e018?positionInSearchResults=31&searchModelUUID=e5efa5d2-b709-413d-b7ad-feece99aa238
+ https://koronastop.lrv.lt/uploads/documents/files/Nutarimo%20152%20suvest_redakcija_EN2020-09-03.pdf
+https://koronastop.lrv.lt/lt/naujienos/atsaukus-karantina-isliks-gydymo-istaigoms-taip-pat-renginiams-taikyti-apribojimai
+https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/900df810abe011ea8aadde924aa85003
+https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8feb1a7658a111eaac56f6e40072e018
 
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8feb1a7658a111eaac56f6e40072e018/VkRMUjjBTH
-https://www.icnl.org/covid19tracker/?location=75&issue=&date=&type=
-https://fra.europa.eu/sites/default/files/fra_uploads/lt_report_on_coronavirus_pandemic_july_2020.pdf
-https://www.constituteproject.org/constitution/Lithuania_2019?lang=en
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.69957/NlWLRNdQuj
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+
+https://fra.europa.eu/sites/default/files/fra_uploads/lt_report_on_coronavirus_pandemic_november_2020.pdf
+
 
 
 
@@ -65,18 +66,21 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
 *Scale*: Character string.
 
  
-*Answer*: "ŽMONIŲ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKOS IR KONTROLĖS ĮSTATYMASi" "CIVILINĖS SAUGOS ĮSTATYMAS" 
+*Time period: Q2*: Lietuvos Respublikos civilinės saugos įstatymas
+
+ 
+*Time period: Q3*: Lietuvos Respublikos civilinės saugos įstatymas
+
+ 
+*Time period: Q4*: Lietuvos Respublikos civilinės saugos įstatymas
+
+ 
 
 *Comments*:
- "ŽMONIŲ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKOS IR KONTROLĖS ĮSTATYMASi" can be translated as Law on Prevention and Contol of Communicable Diseases. Art. 21 (3, 1):  "The procedure for announcing the quarantine of territories and revoking this announcement shall be established by the Government."
- 
- "CIVILINĖS SAUGOS ĮSTATYMAS" can be translated as Law on Civil Protection. Art 21 (2,1):  The secondary (enhanced) and tertiary (absolute preparedness) levels of preparedness of the civil protection system shall be declared and lifted  by the Government – in the event of an imminent or actual emergency of the national level or upon introduction of the state of emergency in the country."
-
-Note on state-level emergency declared on 26 February: the legal instrument is "Lietuvos Respublikos civilinės saugos įstatymo 9 straipsnio 11 punktu ir 26 straipsnio 1 dalies 2 punktu , nutarimu Nr. 1243 „Dėl Ekstremaliųjų situacijų skelbimo ir atšaukimo tvarkos aprašo patvirtinimo“, which can be translated as Law on Civil Protection (point 11 of Article 9 and point 2 of Paragraph 1 of Article 26), Resolution no. 1243 “On Approval of the Description of the Procedure for Announcement and Revocation of Emergencies". Article 9, point 11 of the Law on Civil Protection of the Republic of Lithuania says that "the government shall establish the procedure for declaring and lifting emergencies of both levels, declare and lift a national level emergency" and Article 26 is on emergencies on the national level: " national level –the emergencies whereto response shall be provided by the forces of the civil protection system located within several municipalities through the use of the material resources held at the disposal of the municipalities or the State, where the emergency effects reach beyond the territory of three municipalities." Resolution no. 1243 “On Approval of the Description of the Procedure for Announcement and Revocation of Emergencies” establishing procedures for announcing the state of emergency. 
+ the legal instrument is "Lietuvos Respublikos civilinės saugos įstatymo 9 straipsnio 11 punktu ir 26 straipsnio 1 dalies 2 punktu" , which can be translated as Law on Civil Protection (point 11 of Article 9 and point 2 of Paragraph 1 of Article 26) Article 9, point 11 of the Law on Civil Protection of the Republic of Lithuania says that "the government shall establish the procedure for declaring and lifting emergencies of both levels, declare and lift a national level emergency" and Article 26 is on emergencies on the national level: "national level –the emergencies where the response shall be provided by the forces of the civil protection system located within several municipalities through the use of the material resources held at the disposal of the municipalities or the State, where the emergency effects reach beyond the territory of three municipalities." 
 
 *Sources*:
- https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.32088?jfwid=nz8qn82xx
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8feb1a7658a111eaac56f6e40072e018?positionInSearchResults=31&searchModelUUID=e5efa5d2-b709-413d-b7ad-feece99aa238
+ https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8feb1a7658a111eaac56f6e40072e018?positionInSearchResults=31&searchModelUUID=e5efa5d2-b709-413d-b7ad-feece99aa238
 https://www.ifrc.org/docs/IDRL/Laws/Law%20on%20Civil%20Protection_Lithuania.pdf
 https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.380196?jfwid=q8i88mir8
 
@@ -97,10 +101,20 @@ https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.380196?jfwid=q8i88mir8
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-16 
+*Time period: Q2*: 2020-02-26
+
+ 
+*Time period: Q3*: 2020-02-26
+
+ 
+*Time period: Q4*: 2020-02-26
+
+ 
 
 *Comments*:
- Quarantine was declared from 16 March 2020. 
+ State-level emergency was declared on 26 February 2020.
+
+ 
 
 *Sources*:
  https://www.e-tar.lt/portal/lt/legalAct/73c0b060663111eabee4a336e7e6fdab/WtdCSiIMXu
@@ -123,17 +137,24 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B36
 *Scale*: Date format.
 
  
-*Answer*: 2020-06-16 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The quarantine ended on 16 June,  state-level emergency was declared from 17 June. According to Art 26 of the Law on Civil Protection, the state-level emergency cannot last longer than 6 months. 
+ State-level emergency has been in place since 26 February and has not ended at the time of coding.
+
+ 
 
 *Sources*:
- https://koronastop.lrv.lt/en/news/government-revokes-quarantine-in-lithuania
-
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8feb1a7658a111eaac56f6e40072e018/VkRMUjjBTH
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAP/41f453e0650311eaa02cacf2a861120c
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8c49eb26abe011ea8aadde924aa85003?positionInSearchResults=153&searchModelUUID=389272f7-cb2f-4414-b737-0c65ed332691
+ https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8feb1a7658a111eaac56f6e40072e018?positionInSearchResults=31&searchModelUUID=e5efa5d2-b709-413d-b7ad-feece99aa238
+https://koronastop.lrv.lt/en/news/government-revokes-quarantine-in-lithuania
 
 
 
@@ -155,15 +176,28 @@ https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8c49eb26abe011ea8aadde924aa85003?
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The quarantine was declared from 16 March to 11 May, further extended until 31 May and until 16 June (Government Resolution declaring quarantine on the territory of the Republic of Lithuania). 
+ No time limit for some measures in Resolutions 152,  588 or the legal instrument (Law on Civil Protection).
+
+ 
 
 *Sources*:
- https://www.e-tar.lt/portal/lt/legalAct/73c0b060663111eabee4a336e7e6fdab/WtdCSiIMXu
-https://lrv.lt/en/news/quarantine-announced-throughout-the-territory-of-the-republic-of-lithuania-attached-resolution-1
-https://koronastop.lrv.lt/en/news/relaxing-lockdown-rules
+ https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/900df810abe011ea8aadde924aa85003
+https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8feb1a7658a111eaac56f6e40072e018
+
+
+https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+
 
 
 
@@ -175,20 +209,37 @@ https://koronastop.lrv.lt/en/news/relaxing-lockdown-rules
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-06-16 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 2020-12-17
+
+ 
 
 *Comments*:
- Government Resolution 515 extending quarantine until 16 June 2020. 
+ no time limit for the state-level emergency, therefore emlimitdate is left blank.
+
+ 
 
 *Sources*:
- https://www.e-tar.lt/portal/lt/legalAct/e2edc330a01d11ea9515f752ff221ec9
+ 
+https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/900df810abe011ea8aadde924aa85003
+https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8feb1a7658a111eaac56f6e40072e018
+
+
+https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+
+
 
 
 
@@ -200,7 +251,7 @@ https://koronastop.lrv.lt/en/news/relaxing-lockdown-rules
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -210,13 +261,22 @@ https://koronastop.lrv.lt/en/news/relaxing-lockdown-rules
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- According the Law on Civil Protection. Art 21 (2,1) the decision to declare emergency measures is made by the government; no provisions regarding legislature's approval. 
+ According the Law on Civil Protection, Art 21 (2,1) the decision to declare emergency measures is made by the government; no provisions regarding legislature's approval. 
 
 *Sources*:
  https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.380196?jfwid=q8i88mir8
+https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.32088?jfwid=-9dzqnuead
 
 
 
@@ -238,13 +298,22 @@ https://koronastop.lrv.lt/en/news/relaxing-lockdown-rules
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Not required by law and no evidence of legislature's approval on its website. 
+ Not required by law and no evidence of legislature's approval on its website for all time periods. 
 
 *Sources*:
  https://www.e-tar.lt/
+https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.32088?jfwid=-9dzqnuead
 
 
 
@@ -264,22 +333,32 @@ https://koronastop.lrv.lt/en/news/relaxing-lockdown-rules
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- According to IDEA, "Seimas (Parliament) of Lithuania meetings have been limited. During the quarantine, it held only one weekly ordinary sitting and urgent hearings to discuss the Government’s draft legislation related to COVID-19. Critics argued that such urgent law-making created challenges for meaningful parliamentary scrutiny, sometimes resulting in rushed approval of laws submitted by the Government, according to analysts. Greater parliamentary scrutiny of the emergency declaration would have been considered desirable according to the same sources." 
+ No limitations on the lawmaking power of the legislature found. According to IDEA, "Seimas (Parliament) of Lithuania meetings have been limited. During the quarantine, it held only one weekly ordinary sitting and urgent hearings to discuss the Government’s draft legislation related to COVID-19. Critics argued that such urgent law-making created challenges for meaningful parliamentary scrutiny, sometimes resulting in rushed approval of laws submitted by the Government, according to analysts. Greater parliamentary scrutiny of the emergency declaration would have been considered desirable according to the same sources." 
 
 *Sources*:
- https://www.e-tar.lt/portal/en/legalAct/73c0b060663111eabee4a336e7e6fdab
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#L
+ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#L
 https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
 https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B368%5D&covid19=1
+https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+
+https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
 
 
 
@@ -291,15 +370,22 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B36
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -324,8 +410,15 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B36
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -355,13 +448,22 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B36
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Uniform measures throughout the country 
+ Uniform measures throughout the country in March-June, July-September. Stricter measures in some areas in October-December (some areas were under local quarantine in October prior to national quarantine). 
 
 *Sources*:
  https://koronastop.lrv.lt/en/#information
+https://koronastop.lrv.lt/en/news/local-quarantines-are-declared-in-individual-municipalities
 
 
 
@@ -385,10 +487,13 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B36
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -428,10 +533,13 @@ https://www.hrw.org/europe/central-asia/lithuania
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -464,7 +572,15 @@ http://koronastop.lrv.lt/en/quarantine-announced-throughout-the-territory-of-the
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No evidence of measures limiting media freedom found 
@@ -484,15 +600,22 @@ https://rsf.org/en/lithuania
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -510,15 +633,22 @@ https://rsf.org/en/lithuania
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -546,10 +676,13 @@ https://rsf.org/en/lithuania
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -571,7 +704,7 @@ https://koronastop.lrv.lt/en/
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -581,10 +714,13 @@ https://koronastop.lrv.lt/en/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -616,10 +752,13 @@ https://cpj.org/europe/lithuania/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -648,14 +787,17 @@ https://cpj.org/europe/lithuania/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -687,10 +829,13 @@ https://cpj.org/europe/lithuania/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -722,10 +867,13 @@ https://cpj.org/europe/lithuania/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -762,10 +910,13 @@ https://cpj.org/europe/lithuania/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -800,10 +951,13 @@ https://kariuomene.kam.lt/lt/naujienos_1887/covid-19_situacijai_normalizuojantis
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -824,7 +978,7 @@ https://www.hrw.org/europe/central-asia/lithuania
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -834,41 +988,18 @@ https://www.hrw.org/europe/central-asia/lithuania
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- The military was involved in monitoring and enforcement of quarantine. Since the quarantine ended on 16 June, milinv is coded as 1 only during March-June 2020 period. 
+ The military was involved in monitoring and enforcement of the first quarantine and I haven't found further information since June 2020. Since the first quarantine ended on 16 June, milinv is coded as 1 only during March-June 2020 period. 
 
 *Sources*:
  https://kam.lt/en/news_1098/current_issues/frequently_asked_questions_about_the_lithuanian_armed_forces_and_covid19.html
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

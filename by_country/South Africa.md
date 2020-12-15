@@ -1,9 +1,6 @@
 # South Africa 
 
 
-Time 2020-09-18 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-18
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,14 +25,24 @@ Time 2020-09-18
  7. Other.
 
  
-*Answer*: 3 
+*Time period: Q2*: 3
+
+ 
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
+
+ 
 
 *Comments*:
  There is a declaration of National State of Disaster March 15. This is different from a state of emergency. 
 
 *Sources*:
- https://www.gov.za/sites/default/files/gcis_document/202003/43096gon313.pdf
-
+ https://www.gov.za/sites/default/files/gcis_document/202003/43096gon313.pdf
+
+
+
 https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
 
 
@@ -55,15 +62,25 @@ https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
 *Scale*: Character string.
 
  
-*Answer*: National state of disaster 
+*Time period: Q2*: National state of disaster
+
+ 
+*Time period: Q3*: National state of disaster
+
+ 
+*Time period: Q4*: National state of disaster
+
+ 
 
 *Comments*:
  There is a declaration of National State of Disaster March 15. 
 
 *Sources*:
  https://www.gov.za/sites/default/files/gcis_document/202003/43096gon313.pdf
-
-
+
+
+
+
 https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
 
 
@@ -83,15 +100,25 @@ https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-15 
+*Time period: Q2*: 2020-03-15
+
+ 
+*Time period: Q3*: 2020-03-15
+
+ 
+*Time period: Q4*: 2020-03-15
+
+ 
 
 *Comments*:
  There is a declaration of National State of Disaster March 15. 
 
 *Sources*:
  https://www.gov.za/sites/default/files/gcis_document/202003/43096gon313.pdf
-
-
+
+
+
+
 https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
 
 
@@ -111,16 +138,25 @@ https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No evidence that the national state of disaster is lifted was found, and it is not restricted in length by law as long as it is getting extended on a monthly basis by the government. 
 
 *Sources*:
  https://www.gov.za/sites/default/files/gcis_document/202003/43096gon313.pdf
-
-
+
+
+
+
 https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
 
 
@@ -143,13 +179,23 @@ https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- According to the National Disaster Management Act (2002) a state of national disaster lapses three months after being declared, unless terminated or extended on a monthly basis by the government. On 04 June, President Cyril Ramaphosa declared that the state of national disaster would be extended for one month until 16 July 2020. The latest extension happened on 14 September 2020 until 15 October 2020. 
+ According to the National Disaster Management Act (2002) a state of national disaster lapses three months after being declared, unless terminated or extended on a monthly basis by the government. On 04 June, President Cyril Ramaphosa declared that the state of national disaster would be extended for one month until 16 July 2020. The latest extension happened on 11 November 2020 until 15 December 2020. 
 
 *Sources*:
- https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
+ https://www.garda.com/crisis24/news-alerts/398821/south-africa-authorities-extend-state-of-disaster-until-december-15-update-31
+
+https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
 
 https://www.gov.za/sites/default/files/gcis_document/202003/43096gon313.pdf
 
@@ -173,20 +219,30 @@ https://www.gov.za/sites/default/files/gcis_document/202009/43713gon995.pdf
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-10-15 
+*Time period: Q2*: 2020-07-15
+
+ 
+*Time period: Q3*: 2020-10-15
+
+ 
+*Time period: Q4*: 2020-12-15
+
+ 
 
 *Comments*:
- According to the National Disaster Management Act (2002) a state of national disaster lapses three months after being declared, unless terminated or extended on a monthly basis by the government. On 04 June, President Cyril Ramaphosa declared that the state of national disaster would be extended for one month until 16 July 2020. The latest extension happened on 14 September 2020 until 15 October 2020. 
+ According to the National Disaster Management Act (2002) a state of national disaster lapses three months after being declared, unless terminated or extended on a monthly basis by the government. On 04 June, President Cyril Ramaphosa declared that the state of national disaster would be extended for one month until 16 July 2020. The latest extension happened on 11 November 2020 until 15 December 2020. 
 
 *Sources*:
- https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
+ https://www.garda.com/crisis24/news-alerts/398821/south-africa-authorities-extend-state-of-disaster-until-december-15-update-31
+
+https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
 
 https://www.gov.za/sites/default/files/gcis_document/202003/43096gon313.pdf
 
@@ -206,7 +262,7 @@ https://www.gov.za/sites/default/files/gcis_document/202009/43713gon995.pdf
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -216,14 +272,24 @@ https://www.gov.za/sites/default/files/gcis_document/202009/43713gon995.pdf
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The National Disaster Management Act (2002) does not require that the National Assembly approve the declaration of the national state of disaster, its end date, or its extension. These powers belong solely to the executive. However, petitions can be brought before the courts to repeal the measure. 
 
 *Sources*:
- https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
-
+ https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
+
+
+
 https://verfassungsblog.de/covid-19-state-of-disaster-in-south-africa/
 
 
@@ -246,14 +312,24 @@ https://verfassungsblog.de/covid-19-state-of-disaster-in-south-africa/
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The National Disaster Management Act (2002) does not require that the National Assembly approve the declaration of the national state of disaster, its end date, or its extension. These powers belong solely to the executive. However, petitions can be brought before the courts to repeal the measure. 
 
 *Sources*:
- https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
-
+ https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
+
+
+
 https://verfassungsblog.de/covid-19-state-of-disaster-in-south-africa/
 
 
@@ -274,29 +350,47 @@ https://verfassungsblog.de/covid-19-state-of-disaster-in-south-africa/
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
  The South African parliament suspended all activities on 19 March 2020 and resumed on 13 April 2020. According to the National Disaster Management Act (2003), "the national executive is primarily responsible for the coordination and management of national disasters irrespective of whether a national state of disaster has been declared" and must deal with the disaster in terms of existing legislation, "augmented by regulations or directions made or issued" when a state of disaster is declared. Specific provisions and limitations on decrees made during a state of national disaster are provided within the law. 
 
 *Sources*:
- https://www.sabcnews.com/sabcnews/parliament-suspends-activities-amid-covid-19-outbreak/
-
-https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
-
+ https://www.sabcnews.com/sabcnews/parliament-suspends-activities-amid-covid-19-outbreak/
+
+
+
+https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
+
+
+
 https://www.gov.za/sites/default/files/gcis_document/202003/43096gon313.pdf
-
-
-https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
-
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-
+
+
+
+
+https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
+
+
+
+https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+
+
+
 https://www.constituteproject.org/constitution/South_Africa_2012?lang=en
 
 
@@ -309,15 +403,22 @@ https://www.constituteproject.org/constitution/South_Africa_2012?lang=en
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
@@ -342,8 +443,15 @@ https://www.constituteproject.org/constitution/South_Africa_2012?lang=en
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
@@ -373,18 +481,32 @@ https://www.constituteproject.org/constitution/South_Africa_2012?lang=en
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
  The South African government has declared some areas as "hotspots". These include the cities of Tshwane, Johannesburo, Ekurhuleni, Ethekwini, Nelson Mandela Bay, Buffalo City, and Cape Town. Special precaution is taken in those areas. 
 
 *Sources*:
- https://za.usembassy.gov/covid-19-information-2/
-
-https://www.gov.za/coronavirus/guidelines
-
-https://www.gov.za/documents/disaster-management-act-regulations-alert-level-3-during-coronavirus-covid-19-lockdown-28
-
+ https://za.usembassy.gov/covid-19-information-2/
+
+
+
+https://www.gov.za/coronavirus/guidelines
+
+
+
+https://www.gov.za/documents/disaster-management-act-regulations-alert-level-3-during-coronavirus-covid-19-lockdown-28
+
+
+
 https://www.reuters.com/article/us-health-coronavirus-safrica-idUSKCN2511GN
 
 
@@ -409,10 +531,13 @@ https://www.reuters.com/article/us-health-coronavirus-safrica-idUSKCN2511GN
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -420,12 +545,18 @@ Time period: *Jul-Sep*: 0
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- https://www.hrw.org/africa/south-africa
-
-https://www.amnesty.org/en/countries/africa/south-africa/
-
-https://www.bbc.com/news/topics/cq23pdgvyl7t/south-africa
-
+ https://www.hrw.org/africa/south-africa
+
+
+
+https://www.amnesty.org/en/countries/africa/south-africa/
+
+
+
+https://www.bbc.com/news/topics/cq23pdgvyl7t/south-africa
+
+
+
 https://www.gov.za/coronavirus/guidelines
 
 
@@ -455,10 +586,13 @@ https://www.gov.za/coronavirus/guidelines
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -498,10 +632,19 @@ https://www.gov.za/coronavirus/guidelines
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 2 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  According to regulations governing the implementation of response to the national state of disaster published by the government Gazette on 29 April 2020 (No. R480), "Any person who publishes any statement, through any medium, including social media, with the intention to deceive any other person about - (a) Covid-19; (b) Covid-19 infection status of any person; or (c) any measure taken by the Government to address Covid-19" (Article 14) is liable to conviction of fine or six months imprisonment. The government has set up measures to actively track scammers and fake news online regarding the pandemic. 
+This is why it was coded 1 instead of 2. 
 
 *Sources*:
  https://www.gov.za/sites/default/files/gcis_document/202004/43258rg11098gon480s.pdf
@@ -518,14 +661,22 @@ https://www.gov.za/coronavirus/fakenews
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-29 
+*Time period: Q2*: 2020-04-29
+
+ 
+*Time period: Q3*: 2020-04-29
+
+ 
+*Time period: Q4*: 2020-04-29
+
+ 
 
 *Comments*:
  The first page of the Government Notice indicates that the start date is April 29, 2020. 
@@ -543,25 +694,41 @@ https://www.gov.za/coronavirus/fakenews
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-10-15 
+*Time period: Q2*: 2020-07-15
+
+ 
+*Time period: Q3*: 2020-10-15
+
+ 
+*Time period: Q4*: 2020-12-15
+
+ 
 
 *Comments*:
- According to the National Disaster Management Act (2002) a state of national disaster lapses three months after being declared, unless terminated or extended on a monthly basis by the government. On 04 June, President Cyril Ramaphosa declared that the state of national disaster would be extended for one month until 16 July 2020. The latest extension happened on 14 September 2020 until 15 October 2020. 
+ According to the National Disaster Management Act (2002) a state of national disaster lapses three months after being declared, unless terminated or extended on a monthly basis by the government. On 04 June, President Cyril Ramaphosa declared that the state of national disaster would be extended for one month until 16 July 2020. The latest extension happened on 11 November 2020 until 15 December 2020. 
 
 *Sources*:
- https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
-
-https://www.gov.za/sites/default/files/gcis_document/202003/43096gon313.pdf
-
-https://www.sabcnews.com/sabcnews/government-extends-national-state-of-disaster-extended-to-15-july/
-
+ https://www.garda.com/crisis24/news-alerts/398821/south-africa-authorities-extend-state-of-disaster-until-december-15-update-31
+
+https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
+
+
+
+https://www.gov.za/sites/default/files/gcis_document/202003/43096gon313.pdf
+
+
+
+https://www.sabcnews.com/sabcnews/government-extends-national-state-of-disaster-extended-to-15-july/
+
+
+
 https://www.gov.za/sites/default/files/gcis_document/202009/43713gon995.pdf
 
 
@@ -584,10 +751,13 @@ https://www.gov.za/sites/default/files/gcis_document/202009/43713gon995.pdf
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -595,10 +765,14 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
 
 *Sources*:
- https://cpj.org/africa/south-africa/
-
-https://rsf.org/en/south-africa
-
+ https://cpj.org/africa/south-africa/
+
+
+
+https://rsf.org/en/south-africa
+
+
+
 https://ipi.media/south-africa/
 
 
@@ -611,7 +785,7 @@ https://ipi.media/south-africa/
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -621,15 +795,21 @@ https://ipi.media/south-africa/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Several journalists have been beaten, sworn at, and threatened for their reporting on government measures. 
+ Several journalists have been beaten, sworn at, and threatened for their reporting on government measures between March and May.
+But there is no information indicating that the media still faces limitations.
+
+ 
 
 *Sources*:
  https://rsf.org/en/news/journalist-flees-south-africa-after-police-beatings-over-lockdown-reporting
@@ -658,10 +838,13 @@ https://www.amnesty.org/en/latest/news/2020/05/southern-africa-covid19-a-pretext
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -669,10 +852,14 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government is de-facto limiting media reporting about non-Covid-19 related news, but with reference to the pandemic, was found. 
 
 *Sources*:
- https://rsf.org/en/south-africa
-
-https://ipi.media/south-africa/
-
+ https://rsf.org/en/south-africa
+
+
+
+https://ipi.media/south-africa/
+
+
+
 https://cpj.org/africa/south-africa/
 
 
@@ -692,14 +879,17 @@ https://cpj.org/africa/south-africa/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -707,10 +897,14 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government and its agents limits media access to Covid-19 related information, was found. 
 
 *Sources*:
- https://rsf.org/en/south-africa
-
-https://ipi.media/south-africa/
-
+ https://rsf.org/en/south-africa
+
+
+
+https://ipi.media/south-africa/
+
+
+
 https://cpj.org/africa/south-africa/
 
 
@@ -733,10 +927,13 @@ https://cpj.org/africa/south-africa/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -744,8 +941,10 @@ Time period: *Jul-Sep*: 0
  A journalist was threatened and sworn at while covering lockdown enforcement. 
 
 *Sources*:
- https://sanef.org.za/sanef-and-safrea-call-on-law-enforcement-members-saps-metro-police-and-army-to-stop-their-hostility-and-harassment-of-journalists/
-
+ https://sanef.org.za/sanef-and-safrea-call-on-law-enforcement-members-saps-metro-police-and-army-to-stop-their-hostility-and-harassment-of-journalists/
+
+
+
 https://cpj.org/africa/south-africa/
 
 
@@ -768,10 +967,13 @@ https://cpj.org/africa/south-africa/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -805,25 +1007,38 @@ https://cpj.org/2020/05/south-african-police-assault-charge-journalist-pau/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The Department of Health provides an FAQ that states that "the SARS-CoV-2 virus does not survive well in warmer climates" and "according to the WHO, there is no evidence that companion animals or pets such as cats and dogs have been infected or could spread the virus that causes COVID-19". This is not in line with the information from the WHO. However, this is minor and does not appear to be inteded as misinformation. It might be more likely to be outdated information. 
+ The Department of Health provides an FAQ that states that "the SARS-CoV-2 virus does not survive well in warmer climates" and "according to the WHO, there is no evidence that companion animals or pets such as cats and dogs have been infected or could spread the virus that causes COVID-19". This is not in line with the information from the WHO. However, this is minor and does not appear to be inteded as misinformation. 
 
 *Sources*:
- http://www.health.gov.za/index.php/outbreaks/145-corona-virus-outbreak/465-corona-virus-outbreak
-
-http://www.health.gov.za/covid19/faq/covid19.html
-
-https://sacoronavirus.co.za/faqs/
-
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
-
+ https://sacoronavirus.co.za/faqs/
+
+http://www.health.gov.za/index.php/outbreaks/145-corona-virus-outbreak/465-corona-virus-outbreak
+
+
+
+http://www.health.gov.za/covid19/faq/covid19.html
+
+
+
+https://sacoronavirus.co.za/faqs/
+
+
+
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+
+
+
 https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters
 
 
@@ -848,15 +1063,19 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-publi
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 3
+*Time period: Q2*: 3
 
  
-Time period: *Jul-Sep*: 3
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
 
  
 
 *Comments*:
- Security forces has used rubber bullets, tear gas, water bombs and whips during lockdown enforcement. One man was allegedly beaten to death. 
+ Security forces has used rubber bullets, tear gas, water bombs and whips during lockdown enforcement. One man was allegedly beaten to death.
+No information was found indicating that the violations stopped. 
 
 *Sources*:
  https://www.sanews.gov.za/south-africa/minister-addresses-allegations-abuse-sandf-members
@@ -883,7 +1102,7 @@ https://www.gbafrica.net/south-africans-condemn-police-brutality-during-coronavi
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -893,52 +1112,34 @@ https://www.gbafrica.net/south-africans-condemn-police-brutality-during-coronavi
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- The South African National Defence Force (SANDF) is deployed in enforcing lockdown. 
+ The South African National Defence Force (SANDF) was deployed in enforcing lockdown until September 30. 
 
 *Sources*:
- https://www.sanews.gov.za/south-africa/minister-addresses-allegations-abuse-sandf-members
-
-https://www.bbc.com/news/world-africa-52387962
-
-https://www.reuters.com/article/uk-factcheck-south-africa-military-coron/partly-false-claim-streets-of-south-africa-lined-with-military-in-response-to-coronavirus-idUSKBN21H34L
-
+ https://www.news24.com/news24/southafrica/news/sandf-troops-back-in-barracks-after-covid-19-lockdown-deployment-20201003
+
+https://citizen.co.za/news/south-africa/general/2365708/sandfs-lockdown-deployment-expires-but-soldiers-ready-for-second-possible-covid-19-wave/
+
+https://www.sanews.gov.za/south-africa/minister-addresses-allegations-abuse-sandf-members
+
+
+
+https://www.bbc.com/news/world-africa-52387962
+
+
+
+https://www.reuters.com/article/uk-factcheck-south-africa-military-coron/partly-false-claim-streets-of-south-africa-lined-with-military-in-response-to-coronavirus-idUSKBN21H34L
+
+
+
 https://uk.reuters.com/article/uk-health-coronavirus-safrica/south-africa-covid-19-cases-set-to-reach-300000-despite-early-lockdown-idUKKCN24G25O
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-*Answer*: There are reports that migrants, refugees and asylum seeker were excluded from government food aid. 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
- https://www.hrw.org/news/2020/05/20/south-africa-end-bias-covid-19-food-aid
-
-https://mg.co.za/coronavirus-essentials/2020-05-29-south-africa-refugees-coronavrus-exclude-law/
-
-https://allafrica.com/stories/202005130663.html
-
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B560%5D&covid19=1

@@ -1,9 +1,6 @@
 # South Sudan 
 
 
-Time 2020-09-09 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-09
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,18 +25,32 @@ Time 2020-09-09
  7. Other.
 
  
-*Answer*: 5 
+*Time period: Q2*: 5
+
+ 
+*Time period: Q3*: 5
+
+ 
+*Time period: Q4*: 5
+
+ 
 
 *Comments*:
  There is no reference to legal instruments, but national emergency measures do exist and are managed by a coronavirus task force. 
 
 *Sources*:
- https://www.voanews.com/covid-19-pandemic/south-sudan-announces-new-steps-fight-coronavirus
-
-https://radiotamazuj.org/en/news/article/south-sudan-closes-schools-universities-amid-coronavirus-fears
-
-https://apnews.com/5307b01c4db913048387a3702aefbbe2
-
+ https://www.voanews.com/covid-19-pandemic/south-sudan-announces-new-steps-fight-coronavirus
+
+
+
+https://radiotamazuj.org/en/news/article/south-sudan-closes-schools-universities-amid-coronavirus-fears
+
+
+
+https://apnews.com/5307b01c4db913048387a3702aefbbe2
+
+
+
 https://www.garda.com/crisis24/news-alerts/328201/south-sudan-authorities-implement-further-restrictions-as-of-march-25-update-1
 
 
@@ -59,8 +70,15 @@ https://www.garda.com/crisis24/news-alerts/328201/south-sudan-authorities-implem
 *Scale*: Character string.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -85,7 +103,15 @@ https://www.garda.com/crisis24/news-alerts/328201/south-sudan-authorities-implem
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-16 
+*Time period: Q2*: 2020-03-16
+
+ 
+*Time period: Q3*: 2020-03-16
+
+ 
+*Time period: Q4*: 2020-03-16
+
+ 
 
 *Comments*:
  Taken as the date when the president first announced response to Covid-19. Four days later, a High Level Task Force Committee was formed and this has provided advice to the president and vice president on the implementation of emergency measures. 
@@ -110,8 +136,15 @@ https://www.garda.com/crisis24/news-alerts/328201/south-sudan-authorities-implem
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as no legal instrument (variable emlaw) was used. 
@@ -139,8 +172,15 @@ https://www.garda.com/crisis24/news-alerts/328201/south-sudan-authorities-implem
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as no legal instrument (variable emlaw) was used. 
@@ -158,15 +198,22 @@ https://www.garda.com/crisis24/news-alerts/328201/south-sudan-authorities-implem
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as no legal instrument (variable emlaw) was used. 
@@ -184,7 +231,7 @@ https://www.garda.com/crisis24/news-alerts/328201/south-sudan-authorities-implem
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -194,8 +241,15 @@ https://www.garda.com/crisis24/news-alerts/328201/south-sudan-authorities-implem
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as no legal instrument (variable emlaw) was used. 
@@ -223,8 +277,15 @@ https://www.garda.com/crisis24/news-alerts/328201/south-sudan-authorities-implem
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as no legal instrument (variable emlaw) was used. 
@@ -250,24 +311,38 @@ https://www.garda.com/crisis24/news-alerts/328201/south-sudan-authorities-implem
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No indications that the legislature is limited in its lawmaking role due to the emergency measures. 
 
 *Sources*:
- https://www.voanews.com/covid-19-pandemic/south-sudan-announces-new-steps-fight-coronavirus
-
-https://radiotamazuj.org/en/news/article/south-sudan-closes-schools-universities-amid-coronavirus-fears
-
-https://apnews.com/5307b01c4db913048387a3702aefbbe2
-
+ https://www.voanews.com/covid-19-pandemic/south-sudan-announces-new-steps-fight-coronavirus
+
+
+
+https://radiotamazuj.org/en/news/article/south-sudan-closes-schools-universities-amid-coronavirus-fears
+
+
+
+https://apnews.com/5307b01c4db913048387a3702aefbbe2
+
+
+
 https://www.garda.com/crisis24/news-alerts/328201/south-sudan-authorities-implement-further-restrictions-as-of-march-25-update-1
 
 
@@ -280,15 +355,22 @@ https://www.garda.com/crisis24/news-alerts/328201/south-sudan-authorities-implem
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
@@ -313,8 +395,15 @@ https://www.garda.com/crisis24/news-alerts/328201/south-sudan-authorities-implem
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
@@ -344,16 +433,28 @@ https://www.garda.com/crisis24/news-alerts/328201/south-sudan-authorities-implem
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No sub-national emergency measure variation was found in the emergency response. 
 
 *Sources*:
- https://twitter.com/southsudangov?lang=en
-
-https://www.facebook.com/PPUJ1/posts/1164463100570708
-
+ https://twitter.com/southsudangov?lang=en
+
+
+
+https://www.facebook.com/PPUJ1/posts/1164463100570708
+
+
+
 https://twitter.com/SouthSudanGov/status/1239515788341587968
 
 
@@ -378,10 +479,13 @@ https://twitter.com/SouthSudanGov/status/1239515788341587968
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -389,12 +493,18 @@ Time period: *Jul-Sep*: 0
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- https://www.hrw.org/africa/south-sudan
-
-https://www.amnesty.org/en/countries/africa/south-sudan/
-
-https://twitter.com/SouthSudanGov/status/1239515788341587968
-
+ https://www.hrw.org/africa/south-sudan
+
+
+
+https://www.amnesty.org/en/countries/africa/south-sudan/
+
+
+
+https://twitter.com/SouthSudanGov/status/1239515788341587968
+
+
+
 https://www.bbc.com/news/topics/c302m85q54lt/south-sudan
 
 
@@ -424,10 +534,13 @@ https://www.bbc.com/news/topics/c302m85q54lt/south-sudan
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -435,12 +548,18 @@ Time period: *Jul-Sep*: 0
  No emergency measures that de-jure violate non-derogable rights as defined by the ICCPR, was found. 
 
 *Sources*:
- https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-
-https://www.hrw.org/africa/south-sudan
-
-https://www.amnesty.org/en/countries/africa/south-sudan/
-
+ https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
+
+
+
+https://www.hrw.org/africa/south-sudan
+
+
+
+https://www.amnesty.org/en/countries/africa/south-sudan/
+
+
+
 https://www.bbc.com/news/topics/c302m85q54lt/south-sudan
 
 
@@ -465,18 +584,32 @@ https://www.bbc.com/news/topics/c302m85q54lt/south-sudan
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The government has warned media outlets to be careful about spreading disinformation about the Covid-19 pandemic, but this does not appear to be de jure under the emergency response provisions. So far, there are no known reports of media outlets being punished for reporting misinformation. 
 
 *Sources*:
- https://twitter.com/SouthSudanGov/status/1243239494616322050/photo/1
-
-https://ipi.media/south-sudan/
-
-https://rsf.org/en/south-sudan
-
+ https://twitter.com/SouthSudanGov/status/1243239494616322050/photo/1
+
+
+
+https://ipi.media/south-sudan/
+
+
+
+https://rsf.org/en/south-sudan
+
+
+
 https://cpj.org/africa/south-sudan/
 
 
@@ -489,15 +622,22 @@ https://cpj.org/africa/south-sudan/
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -515,15 +655,22 @@ https://cpj.org/africa/south-sudan/
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -551,10 +698,13 @@ https://cpj.org/africa/south-sudan/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -562,14 +712,22 @@ Time period: *Jul-Sep*: 1
  The attempts of the government of South Sudan to censor media in gerneral are direct and routine. 
 
 *Sources*:
- https://freedomhouse.org/country/south-sudan/freedom-world/2020
-
-https://www.hrw.org/world-report/2020/country-chapters/south-sudan
-
-https://www.dw.com/en/south-sudans-independent-media-under-pressure/a-49521449
-
-https://rsf.org/en/south-sudan
-
+ https://freedomhouse.org/country/south-sudan/freedom-world/2020
+
+https://ipi.media/sudan-shuts-more-media/
+
+https://www.hrw.org/world-report/2020/country-chapters/south-sudan
+
+
+
+https://www.dw.com/en/south-sudans-independent-media-under-pressure/a-49521449
+
+
+
+https://rsf.org/en/south-sudan
+
+
+
 https://doi.org/10.23696/vdemds20
 
 
@@ -582,7 +740,7 @@ https://doi.org/10.23696/vdemds20
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -592,10 +750,13 @@ https://doi.org/10.23696/vdemds20
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -603,14 +764,22 @@ Time period: *Jul-Sep*: 1
  The attempts of the government of South Sudan to censor media in gerneral are direct and routine. 
 
 *Sources*:
- https://freedomhouse.org/country/south-sudan/freedom-world/2020
-
-https://www.hrw.org/world-report/2020/country-chapters/south-sudan
-
-https://www.dw.com/en/south-sudans-independent-media-under-pressure/a-49521449
-
-https://rsf.org/en/south-sudan
-
+ https://freedomhouse.org/country/south-sudan/freedom-world/2020
+
+https://ipi.media/sudan-shuts-more-media/
+
+https://www.hrw.org/world-report/2020/country-chapters/south-sudan
+
+
+
+https://www.dw.com/en/south-sudans-independent-media-under-pressure/a-49521449
+
+
+
+https://rsf.org/en/south-sudan
+
+
+
 https://doi.org/10.23696/vdemds20
 
 
@@ -633,10 +802,13 @@ https://doi.org/10.23696/vdemds20
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -644,12 +816,18 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government is de-facto limiting media reporting about non-Covid-19 related news, but with reference to the pandemic, was found. 
 
 *Sources*:
- https://freedomhouse.org/country/south-sudan/freedom-world/2020
-
-https://cpj.org/africa/south-sudan/
-
-https://rsf.org/en/south-sudan
-
+ https://freedomhouse.org/country/south-sudan/freedom-world/2020
+
+
+
+https://cpj.org/africa/south-sudan/
+
+
+
+https://rsf.org/en/south-sudan
+
+
+
 https://ipi.media/south-sudan/
 
 
@@ -669,14 +847,17 @@ https://ipi.media/south-sudan/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -706,23 +887,32 @@ Time period: *Jul-Sep*: 0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No evidence indicating that the government and its agents have verbally harassed journalists reporting about Covid-19, was found. 
+ Harassment of journalists is common in South Sudan but no incidents have been directly linked to Covid-19 reporting or restrictions. 
 
 *Sources*:
- https://ipi.media/south-sudan/
-
-https://rsf.org/en/south-sudan
-
-https://cpj.org/africa/south-sudan/
-
+ https://ipi.media/south-sudan/
+
+
+
+https://rsf.org/en/south-sudan
+
+
+
+https://cpj.org/africa/south-sudan/
+
+
+
 https://www.bbc.com/news/topics/c302m85q54lt/south-sudan
 
 
@@ -745,23 +935,32 @@ https://www.bbc.com/news/topics/c302m85q54lt/south-sudan
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No evidence indicating that the government and its agents have physically harassed journalists reporting about Covid-19, was found. 
+ Harassment of journalists is common in South Sudan but no incidents have been directly linked to Covid-19 reporting or restrictions. 
 
 *Sources*:
- https://ipi.media/south-sudan/
-
-https://rsf.org/en/south-sudan
-
-https://cpj.org/africa/south-sudan/
-
+ https://ipi.media/south-sudan/
+
+
+
+https://rsf.org/en/south-sudan
+
+
+
+https://cpj.org/africa/south-sudan/
+
+
+
 https://www.bbc.com/news/topics/c302m85q54lt/south-sudan
 
 
@@ -786,22 +985,28 @@ https://www.bbc.com/news/topics/c302m85q54lt/south-sudan
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No official Covid-19 information from the South Sudanese government was found. Therefore, they do not spread misinformation about Covid-19. 
+ The Ministry of Health of South Sudan maintains information on its website and through its social media accounts (Facebook, Twitter). While these have not been regularly updated throughout the pandemic and links on the Ministry's website do not function, the information posted does not deviate from and regularly refers to WHO guidelines. 
 
 *Sources*:
- https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
-
-https://twitter.com/SouthSudanGov/status/1239515788341587968
-
-https://twitter.com/search?q=from%3ASouthSudanGov%20covid&src=typed_query&f=live
+ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+
+
+https://twitter.com/mohsouthsudan?lang=en
+
+https://www.facebook.com/moh.gov.ss/
+
+https://moh.gov.ss
 
 
 
@@ -825,10 +1030,13 @@ https://twitter.com/search?q=from%3ASouthSudanGov%20covid&src=typed_query&f=live
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -836,12 +1044,18 @@ Time period: *Jul-Sep*: 0
  Police killed civilians during a protest over a land dispute. This was however not connected to the Covid-19 pandemic and is therefore not included in this score. No evidence was found that indicates that security forces, such as the civilian police or military, has engaged in physical violence to execute the emergency measures. 
 
 *Sources*:
- https://www.hrw.org/news/2020/06/09/south-sudan-soldiers-kill-civilians-land-dispute
-
-https://www.amnesty.org/en/countries/africa/south-sudan/
-
-https://www.hrw.org/africa/south-sudan
-
+ https://www.hrw.org/news/2020/06/09/south-sudan-soldiers-kill-civilians-land-dispute
+
+
+
+https://www.amnesty.org/en/countries/africa/south-sudan/
+
+
+
+https://www.hrw.org/africa/south-sudan
+
+
+
 https://www.bbc.com/news/topics/c302m85q54lt/south-sudan
 
 
@@ -854,7 +1068,7 @@ https://www.bbc.com/news/topics/c302m85q54lt/south-sudan
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -864,10 +1078,13 @@ https://www.bbc.com/news/topics/c302m85q54lt/south-sudan
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -878,29 +1095,3 @@ Time period: *Jul-Sep*: 0
  https://twitter.com/SouthSudanGov/
 
 https://www.bbc.com/news/topics/c302m85q54lt/south-sudan
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

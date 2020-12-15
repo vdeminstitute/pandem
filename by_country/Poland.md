@@ -1,9 +1,6 @@
 # Poland 
 
 
-Time 2020-09-10 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-10
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,7 +25,15 @@ Time 2020-09-10
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
  A state of epidemic declared on 20 March 2020 by the Ministry of Health. Previously the state of epidemic threat declared on 13 March 2020 (lifted on 20 March 2020). 
@@ -39,6 +44,8 @@ http://www.dziennikustaw.gov.pl/DU/2020/490
 http://www.dziennikustaw.gov.pl/DU/2020/491
 https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B290%5D&covid19=1
 https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/pl_report_on_coronavirus_pandemic_november_2020.pdf
 
 
 
@@ -57,7 +64,15 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
 *Scale*: Character string.
 
  
-*Answer*: Ustawa z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi 
+*Time period: Q2*: Ustawa z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi
+
+ 
+*Time period: Q3*: Ustawa z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi
+
+ 
+*Time period: Q4*: Ustawa z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi
+
+ 
 
 *Comments*:
  Own translation: Act on preventing and combating infections and infectious diseases. Additional note: there are provisions in the Constitution for a state of natural disaster (Chapter 6, Article 228), where mass spread of infectious diseases is classified as natural disaster based on the Act on the state of natural disaster of 2002. Several sources mention that the reason the declaration of a state of epidemiological emergency was not based on the Constitution is because in that case it won't be possible to hold presidential elections, initially scheduled for 10 May 2020. According to IDEA, " the state of epidemic which provides for more restrictive measure than the constitutional state of natural disaster." 
@@ -89,7 +104,15 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B29
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-20 
+*Time period: Q2*: 2020-03-20
+
+ 
+*Time period: Q3*: 2020-03-20
+
+ 
+*Time period: Q4*: 2020-03-20
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -114,8 +137,15 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B29
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The state of epidemic declared on 20 March 2020 until further notice. 
@@ -143,25 +173,29 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B29
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The official statement announcing the state of epidemic says the state is in force until cancellation (based on order 491 from 20 March 2020, chapter 1, point 1). I found no time limit on the duration of the state of epidemic and the emergency measures in the order declaring a state of epidemic (Order 491 from 20 March 2020, http://www.dziennikustaw.gov.pl/D2020000049101.pdf). The emergency measures that apply for the duration of the state of epidemic are covid-19 related measures such as restrictions on movement (border crossing and similar) (Chapter 2), Restrictions or prohibitions on the marketing and use of certain items (masks, disinfectant and similar) (Chapter 3),  Restrictions on the functioning of certain institutions or workplaces (Chapter 4) , Prohibition of organizing shows and other gatherings of the population (Chapter 5), access to real estate, premises and areas provided for by anti-epidemic plans (Chapter 6). 
 
 The state of epidemic was declared based on “the Act on specific solutions related to the prevention and combating COVID and other infectious diseases and crises they caused” (from 7 March 2020, http://dziennikustaw.gov.pl/D2020000037401.pdf), which amended “Act on preventing and combating infections and infectious diseases” (5 December 2008). According to Article 36 of the Act from 7 March, Articles 3-6 (on remote work, additional care allowance, airport regulations and procurement) and Articles 10-14 (on central government’s authority to give orders to local governments, changes to construction, tourism and transportation industries) a 180-day time limit and Article 31 (on budget transfers) has a 365-day time limit. The rest of the provisions (related to the “functioning of the health care system, telecommunication or state's Sanitary and Epidemiological Stations”, https://fra.europa.eu/sites/default/files/fra_uploads/poland-report-covid-19-april-2020_en.pdf) amend existing regulations and are permanent changes to the “Act on preventing and combating infections and infectious diseases”.
 
-According to OSCE report (p.36), "the end date of certain measures is uncertain."
+According to OSCE report (p.36), "the end date of certain measures is uncertain." According to Democracy Reporting (p. 22), "The timing of these limitations is varied; some have been introduced with a set time limit and a  possibility of extension, some, like the ban on mass events, were introduced indefinitely."
 
 The state of epidemic is also different from the state of emergency that has a 90-day time limit based on the Constitution (Article 230, point 1). While some specific emergency measures under a state of epidemic have a time limit, the state of epidemic was declared until further notice, therefore coded as 0. 
 
 *Sources*:
- https://www.gov.pl/web/koronawirus/wprowadzamy-stan-epidemii-w-polsce
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
-http://dziennikustaw.gov.pl/DU/2020/374
-http://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082341570
-https://www.constituteproject.org/constitution/Poland_2009?lang=en
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-
+ https://www.gov.pl/web/koronawirus/wprowadzamy-stan-epidemii-w-polscehttps://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/http://dziennikustaw.gov.pl/DU/2020/374http://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082341570https://www.constituteproject.org/constitution/Poland_2009?lang=enhttps://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+https://polskieradio24.pl/5/1222/Artykul/2549098,Kiedy-zniesienie-stanu-epidemii-Minister-zdrowia-podal-mozliwy-termin
+https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
 
 
 
@@ -173,15 +207,22 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  emlimit = 0 
@@ -199,7 +240,7 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -209,7 +250,15 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Based on the act on specific solutions related to the prevention and combating COVID and other infectious diseases and crises they caused (2 March 2020), the Council of Ministers can declare a state of epidemic or epidemic threat; no provisions on legislature approval 
@@ -238,7 +287,15 @@ http://www.dziennikustaw.gov.pl/D2020000037401.pdf
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Based on the act on specific solutions related to the prevention and combating COVID and other infectious diseases and crises they caused (2 March 2020), the Council of Ministers has to submit a report on the implementation to the Sejm every 3 months; no evidence of legislature approval. 
@@ -266,13 +323,21 @@ https://www.senat.gov.pl/aktualnosci/art,12629,senackie-poprawki-do-ustaw-dotycz
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  MP's are allowed to vote remotely and oversee emergency measures. 
@@ -293,15 +358,22 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -326,8 +398,15 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -357,13 +436,26 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Since 8 August 2020, stricter measures were introduced in areas with higher rates of Covid-19, divided into "red" and "orange" zones (Decision of the Council of Ministers  1356 from 7 August 2020) 
+ Uniform measures throughout the country in March-June.
+
+July-September, October-December: In August 2020, stricter measures were introduced in areas with higher rates of Covid-19, divided into "red" and "orange" zones (Decision of the Council of Ministers  1356 from 7 August 2020), which lasted until 24 October when the whole country became a "red zone". 
 
 *Sources*:
  https://dziennikustaw.gov.pl/DU/2020/1356
+https://www.gov.pl/web/koronawirus/100-dni-solidarnosci-w-walce-z-covid-19
+https://www.gov.pl/web/coronavirus/temporary-limitations
+https://www.bbc.com/news/world-europe-54672736
 
 
 
@@ -387,10 +479,13 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -429,10 +524,13 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/poland/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -466,7 +564,15 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/poland/
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No evidence of measures limiting media freedom found 
@@ -486,15 +592,22 @@ https://cpj.org/europe/poland/
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -512,15 +625,22 @@ https://cpj.org/europe/poland/
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -548,10 +668,13 @@ https://cpj.org/europe/poland/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -573,7 +696,7 @@ https://www.amnesty.org/en/latest/news/2020/06/poland-activists-at-risk-of-10-ye
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -583,10 +706,13 @@ https://www.amnesty.org/en/latest/news/2020/06/poland-activists-at-risk-of-10-ye
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -616,19 +742,30 @@ Time period: *Jul-Sep*: 0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Wojciech Jakub Atys, a photographer for Gazeta Wyborcza, was asked to appear in court after taking pictures (alledgedly because of breaking social distancing rules) of a protest outside Jarosław Kaczynski’s home on 29 March that opposed changes to the electoral law. Another reporter for OKO.press website potentially faces a 13,000 fine for planning to cover a protest on 10 April outside Jarosław Kaczynski’s and "failure to respect social distancing and organising a public gathering." (the protest was planned but did not take place).  Since it was two incidents and no further cases were reported, merepoth is coded as 0 in July-September 2020. 
+ Wojciech Jakub Atys, a photographer for Gazeta Wyborcza, was asked to appear in court after taking pictures (alledgedly because of breaking social distancing rules) of a protest outside Jarosław Kaczynski’s home on 29 March that opposed changes to the electoral law. Another reporter for OKO.press website potentially faces a 13,000 fine for planning to cover a protest on 10 April outside Jarosław Kaczynski’s and "failure to respect social distancing and organising a public gathering." (the protest was planned but did not take place).  
+
+July-September: Two independent journalists were refused accreditation to the President's trip to Italy "due to a lack of space caused by COVID-19 restrictions, in apparent retaliation for critical coverage. Media accused the office of the president of using the COVID-19 rules to side-line critical media." (IPI)
+
+October-November: On 17 November 2020, Angelika Pitoń was covering protests and was charged with using "indecent" words towards the police and was not wearing a mask, as per Covid-19 regulations. "Pitoń said that the officers in Zakopane intervened because of an alleged violation of social distancing rules, yet her charges presented refer to not wearing a mask." (Council of Europe) 
 
 *Sources*:
  https://rsf.org/en/news/polands-independent-media-harassed-run-presidential-election
 https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-4&p_p_col_count=1&_sojdashboard_WAR_coesojportlet_alertId=63710924
+
+https://ipi.media/alerts/most-read-newspaper-in-polish-denied-plane-accreditation-over-covid-19-seat-restrictions/
+
+https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=2&p_p_cacheability=cacheLevelPage&p_p_col_id=column-4&p_p_col_count=1&_sojdashboard_WAR_coesojportlet_alertPK=77081008&_sojdashboard_WAR_coesojportlet_cmd=get_pdf_one
 
 
 
@@ -647,19 +784,22 @@ https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_co
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- According to a statement on the President's website, in the period from 31 March to 24 May, deadlines for freedom of information requests were suspended. According to "USTAWA z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw", deadlines for several administrative proceedings are suspended from 31 March. The provisions of Art. 15zzs  were repealed by Art 68, point 6 and 7, of "Ustawa z dnia 14 maja 2020 r. o zmianie niektórych ustaw w zakresie działań osłonowych w związku z rozprzestrzenianiem się wirusa SARS-CoV-2." Based on this information, I coded meinf as 1 during March-June period, but not July-September period.
+ According to a statement on the President's website, in the period from 31 March to 24 May, deadlines for freedom of information requests were suspended. According to "USTAWA z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw", deadlines for several administrative proceedings are suspended from 31 March. The provisions of Art. 15zzs  were repealed by Art 68, point 6 and 7, of "Ustawa z dnia 14 maja 2020 r. o zmianie niektórych ustaw w zakresie działań osłonowych w związku z rozprzestrzenianiem się wirusa SARS-CoV-2." Based on this information, I coded meinf as 1 only during March-June period.
 
 Further information on the so called  “anti-crisis shield” act from 31 March:  According to Art. 15zzs of "USTAWA z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw" from 31 March (also called "Tarczy antykryzysowej” or “anti-crisis shield”), deadlines for several administrative proceedings are suspended but it is not specified whether freedom of information falls under this category. The legislation generated debate in the Polish media where some reportsthat the law de facto suspends deadlines for providing information. IPI reports that "in Poland legal changes mean that requests depend on the willingness of the authorities to provide information." IDEA reports that "In practice, the right to information is suspended in Poland, as a result of the legal framework that enables the government to forego answering information requests within the normal timelines. " According to OSCE report (p.49), Poland is among countries that have "adopted measures or have made announcements concerning the extension of the times that public officials have to respond to freedom of information requests or may in practice delay obtaining public information." The Ombudsman (Rzecznik Praw Obywatelskich) issued a statement on 15 April saying that the suspention of deadlines should not apply to access to public information since it violates Art 61 of the Constitution. The coding is based both on the statement on the President's website and several reports from trusted sources that the deadline for freedom of information requests was de facto suspended.
  
@@ -698,10 +838,13 @@ https://www.prezydent.pl/bip/dostep-do-informacji-publicznej/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -735,10 +878,13 @@ https://cpj.org/europe/poland/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -772,10 +918,13 @@ https://ipi.media/increase-in-violence-against-journalists-covering-protests-acr
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -810,20 +959,22 @@ https://rsf.org/en/poland
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- The police used tear gas during an anti-lockdown protest on 16 May, which is not considered in coding since it is unrelated to the execution of emergency measures. No new information since June 2020. 
+ No reports on police violence in the execution of the emergency measures found. 
 
 *Sources*:
- https://www.reuters.com/article/us-health-coronavirus-poland/police-use-tear-gas-on-polish-protestors-demanding-businesses-reopen-idUSKBN22S0T0
-https://www.garda.com/crisis24/news-alerts/342941/poland-police-fire-tear-gas-at-protesters-in-warsaw-may-16
-https://www.amnesty.org/en/countries/europe-and-central-asia/poland/
+ https://www.amnesty.org/en/countries/europe-and-central-asia/poland/
+https://www.hrw.org/europe/central-asia/poland
 
 
 
@@ -835,7 +986,7 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/poland/
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -845,44 +996,20 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/poland/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The military was involved in monitoring and enforcement of quarantine.  I have not found any evidence that the military's involvement in enforcing confinement measures was lifted. 
+ The military was involved in monitoring and enforcement of quarantine in all time periods. 
 
 *Sources*:
  https://www.gov.pl/web/obrona-narodowa/gotowosc-odzew-ratunek---4-miesiace-walki-wojska-polskiego-z-epidemia-koronawirusa
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-*Answer*: Organization of presidential elections 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
- https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B290%5D&covid19=1
-https://ipi.media/polands-tvp-takes-sides-in-presidential-election/
-https://rsf.org/en/news/polish-public-broadcaster-peddles-government-hate-speech-presidential-election-run-1
-https://www.osce.org/odihr/elections/poland/450856
-https://fra.europa.eu/sites/default/files/fra_uploads/pl_report_on_coronavirus_pandemic_july_2020.pdf
+https://www.gov.pl/web/koronawirus/wojsko-polskie-caly-czas-zaangazowane-jest-w-walke-z-covid-20
+https://www.gov.pl/web/koronawirus/blisko-20-tys-zolnierzy-zaangazowanych-w-walke-z-koronawirusem

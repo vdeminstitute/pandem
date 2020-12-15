@@ -1,9 +1,6 @@
 # Hungary 
 
 
-Time 2020-09-04 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-04
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,15 +25,37 @@ Time 2020-09-04
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Decree 40/2020 declaring a special state of emergency called "state of danger". 
+ March-June: Government Decree 40/2020 declaring a special state of emergency called "state of danger" based on the Fundamental Law of Hungary (Article 53).
+
+July-September: Governmental Decree no. 283/2020 on introducing a state of epidemiological preparedness based on Act CLIV of 1997 on healthcare, section 247 (1b). Section 247 (1b) was amended by Act LVIII of 2020 on the transitional rules and epidemiological preparedness related to the cessation of the state of danger ("2020. évi LVIII. törvény a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről".  Section 247 (1b) authorizes the government to declare a state of epidemiological preparedness ("járványügyi készültséget ").
+
+October-December: Government Decree 478/2020 declaring a special state of emergency called "state of danger" (same legal instrument as in March-June) based on the Fundamental Law of Hungary (Article 53) and on Act No. CXXVIII of 2011 concerning disaster management and amending certain related acts (Article 51, introduced by Act LVIII of 2020 on the transitional rules and epidemiological preparedness related to the cessation of the state of danger ("2020. évi LVIII. törvény a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről" )). Fundamental Law of Hungary (Article 53) is considered the primary legal instrument because it most closely resembles a "state of exception." 
 
 *Sources*:
  https://net.jogtar.hu/jogszabaly?docid=A2000040.KOR
 https://www.hbcs.hu/uploads/jogszabaly/3061/fajlok/40_2020_III_11_Korm_rendelet.pdf
 https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://democracy-reporting.org/dri_publications/phase-two-of-covid-19-responses-across-the-eu-the-rule-of-law-stress-test-continued/
+
+https://njt.hu/translated/doc/J2020R0283K_20200618_FIN.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/hu_report_on_coronavirus_pandemic_july_2020.pdf
+https://net.jogtar.hu/jogszabaly?docid=a2000283.kor
+https://net.jogtar.hu/jogszabaly?docid=99700154.tv#lbj816ida1d4
+
+https://net.jogtar.hu/jogszabaly?docid=a2000478.kor
+https://net.jogtar.hu/jogszabaly?docid=a1100128.tv#lbj117id3a14
+https://hu.usembassy.gov/covid-19/
 
 
 
@@ -55,13 +74,26 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
 *Scale*: Character string.
 
  
-*Answer*: Fundamental Law of Hungary (Article 53) 
+*Time period: Q2*: Fundamental Law of Hungary (Article 53)
+
+ 
+*Time period: Q3*: Act CLIV of 1997 on healthcare (1997. évi CLIV. Törvény az egészségügyről)
+
+ 
+*Time period: Q4*: Fundamental Law of Hungary (Article 53)
+
+ 
 
 *Comments*:
- According to Article 53 of the Fundamental Law of Hungary, a state of danger can be imposed in the event of a natural disaster or industrial accident. 
+ March-June, October-December: According to Article 53 of the Fundamental Law of Hungary, a state of danger can be imposed in the event of a natural disaster or industrial accident.
+
+July-September:  According to Section 247 (1b) of Act CLIV of 1997 on healthcare,  the government can declare a state of epidemiological preparedness ("járványügyi készültséget "). Section 247 (1b) was amended by Act LVIII of 2020 on the transitional rules and epidemiological preparedness related to the cessation of the state of danger ("2020. évi LVIII. törvény a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről". 
+ 
 
 *Sources*:
  http://njt.hu/translated/doc/TheFundamentalLawofHungary_20191213_FIN.pdf
+
+https://net.jogtar.hu/jogszabaly?docid=99700154.tv#lbj816ida1d4
 
 
 
@@ -80,13 +112,27 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-11 
+*Time period: Q2*: 2020-03-11
+
+ 
+*Time period: Q3*: 2020-06-18
+
+ 
+*Time period: Q4*: 2020-11-04
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  https://net.jogtar.hu/jogszabaly?docid=A2000040.KOR
+
+https://njt.hu/translated/doc/J2020R0283K_20200618_FIN.pdf
+
+
+https://net.jogtar.hu/jogszabaly?docid=a2000478.kor
+
 
 
 
@@ -105,10 +151,22 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
 *Scale*: Date format.
 
  
-*Answer*: 2020-06-17 
+*Time period: Q2*: 2020-06-17
+
+ 
+*Time period: Q3*: 2020-12-18
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Decree 282/2020 from 17 June lifted the state of emergency and terminated the Coronavirus Protection Act from 30 March 2020. Was replaced by the state of epidemiological preparedness (Decree 283/2020) without an end date. The "LAW ON TRANSITIONAL RULES AND HEALTH PREPAREDNESS RELATED TO THE CESSATION OF THE STATE OF DANGER " from 17 June 2020 " introduces measures related to the revocation of the "state of danger" in Hungary. However, the law expands the powers of the government during another exceptional state, by authorizing the government to issue wide-ranging decrees without parliamentary approval during a “state of medical crisis.” During such a state, the law authorizes the government to suspend existing laws and restrict fundamental rights such as freedom of movement and assembly. The government may declare a “state of medical crisis” unilaterally, based on the recommendation of a government-appointed medical officer; the “state of medical crisis” can last up to six months and may be renewed by government decree. According to critics, the law gives the government expansive leeway to rule with minimal judicial and parliamentary scrutiny for an indefinite period." (ICNL) 
+ March-June: Decree 282/2020 from 17 June lifted the state of emergency and terminated the Coronavirus Protection Act (Act XII of 2020 on the containment of coronavirus) from 30 March 2020. Was replaced by the state of epidemiological preparedness (Decree 283/2020) without an end date. The "LAW ON TRANSITIONAL RULES AND HEALTH PREPAREDNESS RELATED TO THE CESSATION OF THE STATE OF DANGER " from 17 June 2020 " introduces measures related to the revocation of the "state of danger" in Hungary. However, the law expands the powers of the government during another exceptional state, by authorizing the government to issue wide-ranging decrees without parliamentary approval during a “state of medical crisis.” During such a state, the law authorizes the government to suspend existing laws and restrict fundamental rights such as freedom of movement and assembly. The government may declare a “state of medical crisis” unilaterally, based on the recommendation of a government-appointed medical officer; the “state of medical crisis” can last up to six months and may be renewed by government decree. According to critics, the law gives the government expansive leeway to rule with minimal judicial and parliamentary scrutiny for an indefinite period." (ICNL) Note that the "state of medical crisis" has not been declared at the time of coding.
+
+July-September:  a state of epidemiological preparedness  was declared until 18 December and has not ended at the time of coding.
+
+October-December: a state of emergency was extended by 90 days on 11 November 2020 until and has not ended at the time of coding. 
 
 *Sources*:
  https://net.jogtar.hu/jogszabaly?docid=A2000282.KOR&searchUrl=/gyorskereso%3Fkeyword%3D282/2020
@@ -120,6 +178,8 @@ https://net.jogtar.hu/jogszabaly?docid=A2000283.KOR&searchUrl=/gyorskereso%3Fkey
 https://njt.hu/translated/doc/J2020R0283K_20200618_FIN.pdf
 https://www.icnl.org/covid19tracker/?location=54&issue=&date=&type=
 https://fra.europa.eu/sites/default/files/fra_uploads/hu_report_on_coronavirus_pandemic_july_2020.pdf
+
+https://njt.hu/translated/doc/J2020R0283K_20200618_FIN.pdf
 
 
 
@@ -141,10 +201,23 @@ https://fra.europa.eu/sites/default/files/fra_uploads/hu_report_on_coronavirus_p
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Decree 40/2020 had a 15-day end limit, its extension (Law T/9790) by parliament had no end limit. Although the state of emergency ended on 17 June 2020, coded as 0 since there was no end limit at the time of passing. 
+ March-June: Decree 40/2020 had a 15-day end limit, its extension (Law T/9790, Act XII of 2020 on the containment of coronavirus) by parliament had no end limit. Although the state of emergency ended on 17 June 2020, coded as 0 since there was no end limit at the time of passing.
+
+July-September: According to Government Decree 283/2020 (17 June) introducing a state of epidemiological preparedness, state of epidemiological preparedness was declared until 18 December 2020.
+
+October-December: Decree 478/2020  had a 15-day limit, its extension (Act CIX of 2020) has a 90-day end limit. According to Section 5 of Act CIX of 202, "This Act shall enter into force on the day following its promulgation and shall be
+repealed on the 90th day following its promulgation", which is calculated as 9 February 2021 (90 days after 11 November 2020) 
 
 *Sources*:
  https://net.jogtar.hu/jogszabaly?docid=A2000012.TV&dbnum=1
@@ -153,6 +226,12 @@ https://www.icnl.org/covid19tracker/?location=54&issue=&date=&type=
 https://hungarianspectrum.org/2020/03/21/translation-of-draft-law-on-protecting-against-the-coronavirus/
 https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B310%5D&covid19=1
 https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://fra.europa.eu/sites/default/files/fra_uploads/hu_report_on_coronavirus_pandemic_july_2020.pdf
+
+https://njt.hu/translated/doc/J2020R0283K_20200618_FIN.pdf
+
+
+https://njt.hu/translated/doc/J2020T0109P_20201111_FIN.pdf
 
 
 
@@ -164,21 +243,39 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 2020-12-18
+
+ 
+*Time period: Q4*: 2021-02-09
+
+ 
 
 *Comments*:
- Although the state of emergency ended on 17 June 2020, not coded since there was no end limit at the time of passing. 
+ March-June: Although the state of emergency ended on 17 June 2020, not coded since there was no end limit at the time of passing.
+
+July-September: According to Government Decree 283/2020 (17 June) introducing a state of epidemiological preparedness, state of epidemiological preparedness was declared until 18 December 2020.
+
+October-December: According to Section 5 of Act CIX of 2020, "This Act shall enter into force on the day following its promulgation and shall be repealed on the 90th day following its promulgation", which is calculated as 9 February 2021 (90 days after 11 November 2020) 
 
 *Sources*:
-*No source provided*
+ https://net.jogtar.hu/jogszabaly?docid=A2000012.TV&dbnum=1
+
+https://fra.europa.eu/sites/default/files/fra_uploads/hu_report_on_coronavirus_pandemic_july_2020.pdf
+
+https://njt.hu/translated/doc/J2020R0283K_20200618_FIN.pdf
+
+
+https://njt.hu/translated/doc/J2020T0109P_20201111_FIN.pdf
 
 
 
@@ -190,7 +287,7 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -200,13 +297,27 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- According to Article 53 of the Fundamental Law of Hungary (on the State of Danger), parliamentary approval is necessary for extending the state of danger: "The decrees of the Government referred to in paragraph (2) shall remain in force for fifteen days, unless the Government, on the basis of authorisation by the National Assembly, extends those decrees." 
+ March-June, October-December: According to Article 53 of the Fundamental Law of Hungary (on the State of Danger), parliamentary approval is necessary for extending the state of danger: "The decrees of the Government referred to in paragraph (2) shall remain in force for fifteen days, unless the Government, on the basis of authorisation by the National Assembly, extends those decrees."
+
+July-September: no provisions for legislature approval in the Government Decree 283/2020 (17 June) introducing a state of epidemiological preparedness or  Act CLIV of 1997 on healthcare.
+
+ 
 
 *Sources*:
  http://njt.hu/translated/doc/TheFundamentalLawofHungary_20191213_FIN.pdf
+
+
 
 
 
@@ -228,13 +339,34 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- On 30 March 2020, the parliament passed the Coronavirus Protection Act (Law T/9790) and approved extension of the state of emergency. 
+ March-June: On 30 March 2020, the parliament passed the Coronavirus Protection Act (Law T/9790, Act XII of 2020 on the containment of coronavirus) and approved extension of the state of emergency.
+
+July-September: no provisions for legislature approval in the Government Decree 283/2020 (17 June) introducing a state of epidemiological preparedness or  Act CLIV of 1997 on healthcare.
+
+October-December: on 11 November 2020, the parliament passed Act CIX of 2020 on the containment of the second wave of the coronavirus pandemic  (2020. évi CIX. törvény a koronavírus-világjárvány második hulláma elleni védekezésről )and approved the extension of the state of emergency by 90 days. 
 
 *Sources*:
  https://net.jogtar.hu/jogszabaly?docid=A2000012.TV&dbnum=1
+
+https://njt.hu/translated/doc/J2020R0283K_20200618_FIN.pdf
+
+https://net.jogtar.hu/jogszabaly?docid=99700154.tv#lbj816ida1d4
+
+https://net.jogtar.hu/jogszabaly?docid=A2000109.TV&searchUrl=/gyorskereso%3Fkeyword%3Dkoronav%25C3%25ADrus
+https://njt.hu/translated/doc/J2020T0109P_20201111_FIN.pdf
+
+
 
 
 
@@ -254,22 +386,48 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 3 
+*Time period: Q2*: 3
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 3
+
+ 
 
 *Comments*:
- On 30 March 2020, the parliament approved extension of the state of emergency (Coronavirus Protection Act,  Decree 9790) and authorized the government to rule by decree, but the government needs to regularly inform the parliament on its decisions. Coded as 3 due to vague formulations in March-June 2020 period. The Coronavirus Protection Act was withdrawn on 18 June 2020 following the end of the state of emergency. I did not find any limitations on the lawmaking role of the legislature during the state of epidemiological preparedness (declared from 18 June). Note that according to the Act on Transitional Rules (Act LVIII of 2020 on the transitional rules related to the termination of the state of danger and on the epidemiological preparedness (2020. évi LVIII. törvény a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről)), the government can declare a "state of medical crisis" that would enable the executive to rule by decree (as of the time of coding, Hungary is in a state of epidemiological preparedness). 
+ March-June: On 30 March 2020, the parliament approved extension of the state of emergency (Coronavirus Protection Act,  Decree 9790, Act XII of 2020 on the containment of coronavirus) and authorized the government to rule by decree, but the government needs to regularly inform the parliament on its decisions. According to the Fundamental Law (53 (2)), " In a state of danger, the Government may adopt decrees by means of which it may, as
+provided for by a cardinal Act, suspend the application of certain Acts, derogate from the provisions of Acts and take other extraordinary measures." Coded as 3 due to vague formulations.
+
+July-September: According to  Act CLIV of 1997 on healthcare, the government has the right to rule by decree on several, narrowly Covid-19 related issues (defined in the legislation).
+
+October-December:  On 11 November 2020, the parliament approved extension of the state of emergency (Act CIX of 2020 on the containment of the second wave of the coronavirus pandemic) and authorized the government to rule by decree, but the government needs to regularly inform the parliament on its decisions. According to the Fundamental Law (53 (2)), " In a state of danger, the Government may adopt decrees by means of which it may, as
+provided for by a cardinal Act, suspend the application of certain Acts, derogate from the provisions of Acts and take other extraordinary measures. "Coded as 3 due to vague formulations. 
 
 *Sources*:
- https://net.jogtar.hu/jogszabaly?docid=A2000012.TV&dbnum=1https://www.parlament.hu/en/web/house-of-the-national-assembly/covid-infohttps://www.parlament.hu/irom41/09790/09790.pdfhttps://www.ipu.org/country-compilation-parliamentary-responses-pandemic#Hhttps://www.hrw.org/news/2020/03/23/hungarys-orban-uses-pandemic-seize-unlimited-powerhttps://www.icnl.org/covid19tracker/?location=54&issue=&date=&type=https://www.inter-pares.eu/inter-pares-parliamentary-data-trackerhttps://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
-http://njt.hu/cgi_bin/njt_doc.cgi?docid=220120.384679
-https://fra.europa.eu/sites/default/files/fra_uploads/hu_report_on_coronavirus_pandemic_july_2020.pdf
-https://foreignpolicy.com/2020/07/17/hungary-democracy-still-under-threat-orban-state-public-health-emergency-decree/
+ https://njt.hu/translated/doc/TheFundamentalLawofHungary_20190101_FIN.pdf
+https://berlin.mfa.gov.hu/assets/77/49/43/cc3672166e33b2cf015ce4371aeedf19417c2710.pdf
+https://net.jogtar.hu/jogszabaly?docid=A2000012.TV&dbnum=1
+https://www.parlament.hu/en/web/house-of-the-national-assembly/covid-info
+https://www.parlament.hu/irom41/09790/09790.pdf
+https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#H
+
+https://www.hrw.org/news/2020/03/23/hungarys-orban-uses-pandemic-seize-unlimited-power
+https://www.icnl.org/covid19tracker/?location=54&issue=&date=&type=
+https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+
+https://njt.hu/translated/doc/J2020T0109P_20201111_FIN.pdf
+https://net.jogtar.hu/jogszabaly?docid=99700154.tv#lbj816ida1d4
+
+https://njt.hu/translated/doc/J2020T0109P_20201111_FIN.pdf
 
 
 
@@ -281,15 +439,22 @@ https://foreignpolicy.com/2020/07/17/hungary-democracy-still-under-threat-orban-
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -314,8 +479,15 @@ https://foreignpolicy.com/2020/07/17/hungary-democracy-still-under-threat-orban-
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -345,13 +517,22 @@ https://foreignpolicy.com/2020/07/17/hungary-democracy-still-under-threat-orban-
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Uniform measures throughout the country 
+ Only uniform measures throughout the country found. 
 
 *Sources*:
  https://koronavirus.gov.hu/#aktualis
+https://net.jogtar.hu/veszelyhelyzet
 
 
 
@@ -375,15 +556,18 @@ https://foreignpolicy.com/2020/07/17/hungary-democracy-still-under-threat-orban-
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- The Hungarian Helsinki Committee argues that the measures used to expel Iranian students for violating the quarantine are discriminatory, but I have not found further confirmation of this in other sources. The authorities also suspended the admissions of refugees into the transit zone due to covid-19 concerns (most migrants coming from or transiting through Iran), although Human Rights Watch argues that most of them had been at the other side of the border for more than a year. Coded as 0 since the measures apply to people outside the country. Additional note: Hungarian parliament also passed a law prohibiting transgender or intersex people to change their gender, but this is not part of emergency measures (https://www.hrw.org/news/2020/05/21/hungary-ends-legal-recognition-transgender-and-intersex-people) 
+ The Hungarian Helsinki Committee argues that the measures used to expel Iranian students for violating the quarantine are discriminatory, but I have not found further confirmation of this in other sources. The authorities also suspended the admissions of refugees into the transit zone due to covid-19 concerns (most migrants coming from or transiting through Iran), although Human Rights Watch argues that most of them had been at the other side of the border for more than a year. Coded as 0 since the measures apply to people outside the country. Additional note: Hungarian parliament also passed a law prohibiting transgender or intersex people to change their gender, but this is not part of emergency measures (https://www.hrw.org/news/2020/05/21/hungary-ends-legal-recognition-transgender-and-intersex-people). No new information found in July-September, October-December. 
 
 *Sources*:
  https://fra.europa.eu/sites/default/files/fra_uploads/hungary-report-covid-19-april-2020_en.pdf
@@ -419,10 +603,13 @@ https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -457,10 +644,22 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26199&LangID=E
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- According to Coronavirus Protection Act (Decree 9790, Section 337), spreading misinformation can be punishable with up to 5-year jail sentence; coded as 2 due to vague formulation. 
+ March-June: According to Coronavirus Protection Act (Decree 9790, Section 337), spreading misinformation can be punishable with up to 5-year jail sentence; coded as 2 due to vague formulations.
+
+July-September: no measures limiting media freedom found.
+
+October-December: Same measures as during March-June (Section 337 of the Criminal Code) where misinformation is vaguely defined as when a person "states or disseminates any untrue fact or any misrepresented true fact that is capable of hindering or preventing the efficiency of protection." 
 
 *Sources*:
  https://www.parlament.hu/irom41/09790/09790.pdf
@@ -469,6 +668,11 @@ https://ipi.media/covid19-media-freedom-monitoring/
 https://ipi.media/european-media-freedom-suffers-covid-19-response/
 https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-3&p_p_col_pos=1&p_p_col_count=11&_sojdashboard_WAR_coesojportlet_alertPK=61853612&_sojdashboard_WAR_coesojportlet_displayLink=SojPortlet.getDashboardPortletId%28%29
 https://www.theguardian.com/world/2020/apr/03/hungarian-journalists-fear-coronavirus-law-may-be-used-to-jail-them
+
+https://www.alkotmanybirosag.hu/kozlemeny/nem-alaptorveny-ellenes-a-remhirterjesztessel-kapcsolatos-uj-kulonleges-jogrendben-alkalmazando-buntetojogi-szabalyozas
+
+
+https://njt.hu/translated/doc/J2012T0100P_20200331_FIN.PDF
 
 
 
@@ -480,20 +684,30 @@ https://www.theguardian.com/world/2020/apr/03/hungarian-journalists-fear-coronav
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-30 
+*Time period: Q2*: 2020-03-30
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 2020-11-04
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  https://www.parlament.hu/irom41/09790/09790.pdf
+
+https://njt.hu/translated/doc/J2012T0100P_20200331_FIN.PDF
 
 
 
@@ -505,17 +719,29 @@ https://www.theguardian.com/world/2020/apr/03/hungarian-journalists-fear-coronav
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-06-17 
+*Time period: Q2*: 2020-06-17
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- For the duration of the state of emergency that was lifted on 17 June 2020. The law on misinformation (see melim) was added to the Penal Code and was declared not unconstitutional by the Constitutional Court, meaning that it would apply if a state of emergency is declared again. It does not apply during the state of epidemiological preparedness (in place at the time of coding), therefore melimend is same as emend. 
+ March-June: For the duration of the state of emergency that was lifted on 17 June 2020. The law on misinformation (see melim) was added to the Penal Code and was declared not unconstitutional by the Constitutional Court, meaning that it would apply if a state of emergency is declared again. It does not apply during the state of epidemiological preparedness, therefore melimend is same as emend.
+
+July-September: no measures limiting media freedom found.
+
+October-December: The measures apply for the durating of the state of emergency that is in place at the time of coding. 
 
 *Sources*:
  https://net.jogtar.hu/jogszabaly?docid=A2000282.KOR&searchUrl=/gyorskereso%3Fkeyword%3D282/2020
@@ -526,6 +752,8 @@ https://njt.hu/translated/doc/J2020R0283K_20200618_FIN.pdf
 https://www.alkotmanybirosag.hu/kozlemeny/nem-alaptorveny-ellenes-a-remhirterjesztessel-kapcsolatos-uj-kulonleges-jogrendben-alkalmazando-buntetojogi-szabalyozas
 https://alkotmanybirosag.hu/dontes/ab-hatarozat-alkotmanyjogi-panasz-elutasitasarol-9
 https://njt.hu/translated/doc/J2012T0100P_20200331_FIN.PDF
+
+https://njt.hu/translated/doc/J2020T0109P_20201111_FIN.pdf
 
 
 
@@ -547,19 +775,22 @@ https://njt.hu/translated/doc/J2012T0100P_20200331_FIN.PDF
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- information on covid-19 on the government's website; no reports on limitations on media reporting on covid-19 found 
+ According to IPI, the "fake news" law has increased self-censorship for journalists who are afraid of being charging with spreading false information. Moreover, "journalists could hardly find sources in the health care system or education system who were willing to talk. There is a definite fear among ordinary people from the consequences of leaking." 
 
 *Sources*:
- https://koronavirus.gov.hu/
-https://ipi.media/crisis-point-covid-19-intensifies-challenge-for-independent-media-in-hungary/
+ https://ipi.media/crisis-point-covid-19-intensifies-challenge-for-independent-media-in-hungary/
+https://ipi.media/rush-to-pass-fake-news-laws-during-covid-19-intensifying-global-media-freedom-challenges/
 
 
 
@@ -571,7 +802,7 @@ https://ipi.media/crisis-point-covid-19-intensifies-challenge-for-independent-me
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -581,19 +812,22 @@ https://ipi.media/crisis-point-covid-19-intensifies-challenge-for-independent-me
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- No information of limitations of media reporting on the government's response found 
+ According to IPI, the "fake news" law has increased self-censorship for journalists who are afraid of being charging with spreading false information. Moreover, "journalists could hardly find sources in the health care system or education system who were willing to talk. There is a definite fear among ordinary people from the consequences of leaking." 
 
 *Sources*:
  https://ipi.media/crisis-point-covid-19-intensifies-challenge-for-independent-media-in-hungary/
-https://www.bbc.com/news/topics/cx1m7zg0wjqt/hungary
+https://ipi.media/rush-to-pass-fake-news-laws-during-covid-19-intensifying-global-media-freedom-challenges/
 
 
 
@@ -615,10 +849,13 @@ https://www.bbc.com/news/topics/cx1m7zg0wjqt/hungary
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -647,26 +884,34 @@ https://ipi.media/crisis-point-covid-19-intensifies-challenge-for-independent-me
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
- Daily press conferences are organized by Operational Group (OG) for Protection against the Coronavirus Epidemic where questions are pre-selected, certain outlets are neglected and sensitive topics avoided. The time it takes for public bodies to respond to requests (such as journalists' questions) was increased from 30 to 60 days.  Decree 179/2020 (V. 4.) "Korm. rendelet a veszélyhelyzet idején az egyes adatvédelmi és adatigénylési rendelkezésektől való eltérésről" makes it impossible to access data of public interest during the state of emergency (OSCE report, p.49). Since the decree applied only during the state of emergency and I have not found any evidence that media access was limited during July-September, meinf is coded as 2 only during March-June 2020. 
+ Daily press conferences are organized by Operational Group (OG) for Protection against the Coronavirus Epidemic where questions are pre-selected, certain outlets are neglected and sensitive topics avoided. The time it takes for public bodies to respond to requests (such as journalists' questions) was increased from 30 to 60 days.  Since I found no evidence that violations stopped and the press conferences are being held without physical presence of journalists, meinf is coded as 2 in all time periods. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
+ https://ipi.media/in-hungary-a-government-rattled-by-the-pandemic-finds-new-ways-to-suppress-independent-media/
 https://ipi.media/access-denied-foi-deadlines-extended-or-suspended-across-europe/
 https://ipi.media/crisis-point-covid-19-intensifies-challenge-for-independent-media-in-hungary/
 http://njt.hu/cgi_bin/njt_doc.cgi?docid=219363.382628
 https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+https://ipi.media/covid-19-pandemic-adds-to-hungarys-transparency-woes/
+
+
+https://koronavirus.gov.hu/cikkek/orszagos-tisztifoorvos-egy-uj-fertozottet-regisztraltak
+https://koronavirus.gov.hu/cikkek/operativ-torzs-keszen-allunk-jarvany-tovabbi-terjedeset-korlatok-kozott-tartani
 
 
 
@@ -688,15 +933,18 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- A cartoonist working for a newspaper was verbally attacked and threatened by the authorities and pro-government media. A journalist was verbally attacked and threaten by a TV channel close to the government, after she critisized the emergency measures. According to IPI, " journalists reporting on the reality of the situation inside hospitals are regularly denounced as “scaremongers” by the public service broadcaster." Since the reports appear systemic and I have not found any evidence verbal harassment has stopped, mevhar is coded as 1 in both March-June and July-September 2020 period. 
+ A cartoonist working for a newspaper was verbally attacked and threatened by the authorities and pro-government media. A journalist was verbally attacked and threaten by a TV channel close to the government, after she critisized the emergency measures. According to IPI, " journalists reporting on the reality of the situation inside hospitals are regularly denounced as “scaremongers” by the public service broadcaster." Since the reports appear systemic and I have not found any evidence verbal harassment has stopped, mevhar is coded as 1 in all time periods. 
 
 *Sources*:
  https://rsf.org/en/news/two-european-cartoonists-threatened-over-cartoons-religious-and-political-content
@@ -725,10 +973,13 @@ https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_co
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -762,10 +1013,13 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/hungary/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -802,10 +1056,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/hu_report_on_coronavirus_p
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -814,6 +1071,7 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://www.amnesty.org/en/countries/europe-and-central-asia/hungary/
+https://www.hrw.org/europe/central-asia/hungary
 
 
 
@@ -825,7 +1083,7 @@ Time period: *Jul-Sep*: 0
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -835,15 +1093,22 @@ Time period: *Jul-Sep*: 0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The military was involved in monitoring curfew compliance, in addition to other measures unrelated to confinement (such as disinfection). No information found since July 2020, apart from preparedness exercises conducted in the military at the end of August 2020. Since the curfew ended in May, milinv is coded as 1 only for March-June 2020 period. 
+ March-June: The military was involved in monitoring curfew compliance, in addition to other measures unrelated to confinement (such as disinfection). 
+
+July-September: No information on military involvement in the execution of confinement measures found.
+
+October-December: The military has been involved in monitoring curfew compliance and other tasks (authorized by Government Decree 484/2020). 
 
 *Sources*:
  https://www.kormany.hu/en/ministry-of-defence/news/hungarian-soldiers-are-also-playing-an-active-part-in-containment-of-epidemic
@@ -854,27 +1119,5 @@ https://www.kormany.hu/hu/honvedelmi-miniszterium/parlamenti-allamtitkarsag/hire
 https://www.kormany.hu/hu/honvedelmi-miniszterium/hirek/gyakorlatozott-a-jarvanyugyi-bevetesi-egyseg
 https://hu.euronews.com/2020/05/16/budapesten-is-feloldjak-a-kijarasi-korlatozast
 
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-*Answer*: postponed elections 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*
+https://koronavirus.gov.hu/cikkek/orban-katonakat-bevonjak-kijarasi-tilalom-fenntartasaba
+https://net.jogtar.hu/jogszabaly?docid=A2000484.KOR&dbnum=1

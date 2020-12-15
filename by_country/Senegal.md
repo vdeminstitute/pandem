@@ -1,9 +1,6 @@
 # Senegal 
 
 
-Time 2020-09-12 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-12
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,19 +25,31 @@ Time 2020-09-12
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
 
-*Comments*:
- 'In accordance with article 69 of the Constitution and Law 69-29 of 29 April 1969, as of midnight tonight, I am declaring a state of emergency.''(Senegalese President, Macky Sall, March 23 2020). 
+ 
+*Time period: Q3*: 5
+
+ 
+*Time period: Q4*: 5
+
  
 
+*Comments*:
+ The Senegalese President, Macky Sall, announced on March 23 2020 that, ''in accordance with article 69 of the Constitution and Law 69-29 of 29 April 1969, as of midnight tonight, I am declaring a state of emergency.''
+After the state of emergency was lifted on June 30, the Senegalese government took various measures such as the mandatory wearing of face masks based on the Constitution and the powers related to the minister of Interior (see 7, 8). 
+
 *Sources*:
- https://www.constituteproject.org/constitution/Senegal_2016.pdf?lang=en
-http://www.dri.gouv.sn/sites/default/files/LOI/1969/69%2029.pdf
-https://www.sec.gouv.sn/actualit%C3%A9/d%C3%A9cret-n%C2%B0-2020-830-du-23-mars-2020-proclamant-l%E2%80%99%C3%A9tat-d%E2%80%99urgence-sur-le-territoire-national
-https://www.sec.gouv.sn/actualit%C3%A9/message-de-sem-le-pr%C3%A9sident-de-la-r%C3%A9publique-macky-sall-d%C3%A9claration-d%E2%80%99%C3%A9tat-d%E2%80%99urgence-dans
-https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emergency-to-curb-covid-19//
+ https://www.constituteproject.org/constitution/Senegal_2016.pdf?lang=en
+http://www.dri.gouv.sn/sites/default/files/LOI/1969/69%2029.pdf
+https://www.sec.gouv.sn/actualit%C3%A9/d%C3%A9cret-n%C2%B0-2020-830-du-23-mars-2020-proclamant-l%E2%80%99%C3%A9tat-d%E2%80%99urgence-sur-le-territoire-national
+https://www.sec.gouv.sn/actualit%C3%A9/message-de-sem-le-pr%C3%A9sident-de-la-r%C3%A9publique-macky-sall-d%C3%A9claration-d%E2%80%99%C3%A9tat-d%E2%80%99urgence-dans
+https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emergency-to-curb-covid-19//
 http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
+https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-n%C2%B0024066-du-05-octobre-2020-portant-prorogation-de-larr%C3%AAt%C3%A9-n%C2%B011592-du-10-juillet
+(7)
+https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-minist%C3%A9riel-n%C2%B0-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
+(8)
 
 
 
@@ -59,16 +68,26 @@ http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
 *Scale*: Character string.
 
  
-*Answer*: Constitution (2001, rev.2016), Article 69 
-Law no1969/29 du 29 avril 1969, on the state of urgency and state of siege. 
+*Time period: Q2*: Constitution (2001, rev.2016), Article 69 
+Law no1969/29 du 29 avril 1969, on the state of urgency and state of siege.
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Decree on the State of Emergency: No 2020-830 DU 23 MARS 2020 
+ Decree on the State of Emergency: No 2020-830 DU 23 MARS 2020
+Decree on mandatory face masks: Ministerial Decree No. 011592 of July 10, 2020 prescribing the compulsory wearing of protective masks in public and private places 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Senegal_2016.pdf?lang=en
-http://www.dri.gouv.sn/sites/default/files/LOI/1969/69%2029.pdf
-https://www.sec.gouv.sn/actualit%C3%A9/d%C3%A9cret-n%C2%B0-2020-830-du-23-mars-2020-proclamant-l%E2%80%99%C3%A9tat-d%E2%80%99urgence-sur-le-territoire-national
+ https://www.constituteproject.org/constitution/Senegal_2016.pdf?lang=en
+http://www.dri.gouv.sn/sites/default/files/LOI/1969/69%2029.pd
+fhttps://www.sec.gouv.sn/actualit%C3%A9/d%C3%A9cret-n%C2%B0-2020-830-du-23-mars-2020-proclamant-l%E2%80%99%C3%A9tat-d%E2%80%99urgence-sur-le-territoire-national
+https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-minist%C3%A9riel-n%C2%B0-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
 
 
 
@@ -87,16 +106,28 @@ https://www.sec.gouv.sn/actualit%C3%A9/d%C3%A9cret-n%C2%B0-2020-830-du-23-mars-2
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-23 
+*Time period: Q2*: 2020-03-23
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://www.sec.gouv.sn/actualit%C3%A9/d%C3%A9cret-n%C2%B0-2020-830-du-23-mars-2020-proclamant-l%E2%80%99%C3%A9tat-d%E2%80%99urgence-sur-le-territoire-national
-https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emergency-to-curb-covid-19//
-https://www.icnl.org/covid19tracker/?location=&issue=5&date=&type=
+ https://www.sec.gouv.sn/actualit%C3%A9/d%C3%A9cret-n%C2%B0-2020-830-du-23-mars-2020-proclamant-l%E2%80%99%C3%A9tat-d%E2%80%99urgence-sur-le-territoire-national
+https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emergency-to-curb-covid-19//
+https://www.icnl.org/covid19tracker/?location=&issue=5&date=&type=
 http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
+https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-minist%C3%A9riel-n%C2%B0-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
+
+
+https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-n%C2%B0024066-du-05-octobre-2020-portant-prorogation-de-larr%C3%AAt%C3%A9-n%C2%B011592-du-10-juillet
 
 
 
@@ -115,15 +146,26 @@ http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
 *Scale*: Date format.
 
  
-*Answer*: 2020-06-30 
+*Time period: Q2*: 2020-06-30
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The state of emergency and the related curfew were lifted in Senegal on June 30, 2020. Air borders reopened from July 15. 
+ The state of emergency and the related curfew were lifted in Senegal on June 30, 2020. Air borders reopened from July 15.
+The mandatory wearing of face coverings were initially declared for 3 months and has been extended once also for 3 months, currently until January 2021. 
 
 *Sources*:
  https://www.bbc.com/afrique/region-53229867
 https://www.aa.com.tr/fr/afrique/s%C3%A9n%C3%A9gal-lev%C3%A9e-de-l-%C3%A9tat-d-urgence-et-du-couvre-feu-/1894249
-
+https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-minist%C3%A9riel-n%C2%B0-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
+https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-n%C2%B0024066-du-05-octobre-2020-portant-prorogation-de-larr%C3%AAt%C3%A9-n%C2%B011592-du-10-juillet
+https://sn.usembassy.gov/covid-19-information/
 
 
 
@@ -145,17 +187,28 @@ https://www.aa.com.tr/fr/afrique/s%C3%A9n%C3%A9gal-lev%C3%A9e-de-l-%C3%A9tat-d-u
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Art. 2  of the Decree on the State of Emergency (N° 2020-830 DU 23 MARS 2020) mentions that the duration of state of emergency is applied based on the provisions of articles 3 to 14 of the 1969 emergency law. 
-The 1969 emergency law, article 11,  allows the state of emergency to be applied for a maximum period of one month, and to be renewed only once for an equal period. 
+The 1969 emergency law, article 11,  allows the state of emergency to be applied for a maximum period of one month, and to be renewed only once for an equal period.
+
+The decrees on the mandatory wearing of face coverings were initially declared for 3 months and has been extended once also for 3 months. 
 
 *Sources*:
- https://www.sec.gouv.sn/actualit%C3%A9/d%C3%A9cret-n%C2%B0-2020-830-du-23-mars-2020-proclamant-l%E2%80%99%C3%A9tat-d%E2%80%99urgence-sur-le-territoire-national
-http://www.dri.gouv.sn/sites/default/files/LOI/1969/69%2029.pdf
-http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
-
+ https://www.sec.gouv.sn/actualit%C3%A9/d%C3%A9cret-n%C2%B0-2020-830-du-23-mars-2020-proclamant-l%E2%80%99%C3%A9tat-d%E2%80%99urgence-sur-le-territoire-national
+http://www.dri.gouv.sn/sites/default/files/LOI/1969/69%2029.pdf
+http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
+https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-minist%C3%A9riel-n%C2%B0-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
+https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-n%C2%B0024066-du-05-octobre-2020-portant-prorogation-de-larr%C3%AAt%C3%A9-n%C2%B011592-du-10-juillet
 
 
 
@@ -167,23 +220,33 @@ http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-23 
+*Time period: Q2*: 2020-06-30
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://www.sec.gouv.sn/actualit%C3%A9/d%C3%A9cret-n%C2%B0-2020-830-du-23-mars-2020-proclamant-l%E2%80%99%C3%A9tat-d%E2%80%99urgence-sur-le-territoire-national
-http://www.dri.gouv.sn/sites/default/files/LOI/1969/69%2029.pdf
-http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
-
+ https://www.sec.gouv.sn/actualit%C3%A9/d%C3%A9cret-n%C2%B0-2020-830-du-23-mars-2020-proclamant-l%E2%80%99%C3%A9tat-d%E2%80%99urgence-sur-le-territoire-national
+http://www.dri.gouv.sn/sites/default/files/LOI/1969/69%2029.pdf
+http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
+https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-minist%C3%A9riel-n%C2%B0-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
+https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-n%C2%B0024066-du-05-octobre-2020-portant-prorogation-de-larr%C3%AAt%C3%A9-n%C2%B011592-du-10-juillet
+https://sn.usembassy.gov/covid-19-information/
 
 
 
@@ -195,7 +258,7 @@ http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -205,14 +268,25 @@ http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Article 69 Constitution: ''...The decree proclaiming a state of siege or the state of urgency ceases to be in force after twelve days, unless the National Assembly, referred to [the matter] by the President of the Republic, has authorized the continuation of it.'' 
+ Article 69 Constitution: ''...The decree proclaiming a state of siege or the state of urgency ceases to be in force after twelve days, unless the National Assembly, referred to [the matter] by the President of the Republic, has authorized the continuation of it.''
+The state of emergency and related measures ended on June 30. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Senegal_2016.pdf?lang=en
+ https://www.constituteproject.org/constitution/Senegal_2016.pdf?lang=en
 http://www.dri.gouv.sn/sites/default/files/LOI/1969/69%2029.pdf
+https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-minist%C3%A9riel-n%C2%B0-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
+https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-n%C2%B0024066-du-05-octobre-2020-portant-prorogation-de-larr%C3%AAt%C3%A9-n%C2%B011592-du-10-juillet
 
 
 
@@ -234,17 +308,25 @@ http://www.dri.gouv.sn/sites/default/files/LOI/1969/69%2029.pdf
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- In Senegal, the National Assembly voted on April 1 the bill empowering the President of the Republic to "take, by ordinances, measures within the domain of the law to deal with the Covid-19 pandemic". The Presiden had said on March 23 when he declared a state of emergency: "I will refer to the National Assembly a bill empowering the President of the Republic to take, for a period of three months, measures within the domain of the law". 
+ In Senegal, the National Assembly voted on April 1 the bill empowering the President of the Republic to "take, by ordinances, measures within the domain of the law to deal with the Covid-19 pandemic". The President had said on March 23 when he declared a state of emergency: "I will refer to the National Assembly a bill empowering the President of the Republic to take, for a period of three months, measures within the domain of the law".
+The state of emergency and related measures ended on June 30. 
 
 *Sources*:
- https://www.aa.com.tr/fr/afrique/s%C3%A9n%C3%A9gal-covid-19-le-parlement-vote-une-loi-habilitant-le-pr%C3%A9sident-%C3%A0-prendre-des-mesures-par-ordonnances/1788433
-https://www.jeuneafrique.com/919680/politique/senegal-les-deputes-donnent-a-macky-sall-le-pouvoir-de-legiferer-par-ordonnances/
-https://afrique.le360.ma/senegal/politique/2020/04/02/30041-senegal-coronavirus-macky-sall-habilite-par-le-parlement-gouverner-par-ordonnance-30041
-http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
-
+ https://www.aa.com.tr/fr/afrique/s%C3%A9n%C3%A9gal-covid-19-le-parlement-vote-une-loi-habilitant-le-pr%C3%A9sident-%C3%A0-prendre-des-mesures-par-ordonnances/1788433
+https://www.jeuneafrique.com/919680/politique/senegal-les-deputes-donnent-a-macky-sall-le-pouvoir-de-legiferer-par-ordonnances/
+https://afrique.le360.ma/senegal/politique/2020/04/02/30041-senegal-coronavirus-macky-sall-habilite-par-le-parlement-gouverner-par-ordonnance-30041
+http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
 
 
 
@@ -264,17 +346,25 @@ http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The law (Article 69 Constitution) gives the right to the President to rule by decree in state of emergency, and the parliament approved a bill that gives the President the ability to "take, by ordinances, measures within the domain of the law to deal with the Covid-19 pandemic".Also, there have been guidlines on MPs to avoid physical contact and travel, but no other disruptions in the functioning of the Parliament.
-After the lifting of the emergency measures, no evidence was found that the role of the Senegalese National Assembly is affected. 
+The state of emergency ended on June 30. 
 
 *Sources*:
  https://www.facebook.com/assnatsn/posts/3324392247593627
@@ -295,15 +385,22 @@ http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%2
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -328,8 +425,15 @@ http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%2
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -359,17 +463,28 @@ http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%2
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The state of emergency and curfew are nationwide. The existing measures after the lifting of the state of emergency include a mandatory wearing of mask in public places and transport, and land and sea borders to  remain closed, as will places hosting closed-door leisure activities. 
 
 *Sources*:
- https://www.voaafrique.com/a/macky-sall-annonce-la-fin-du-couvre-feu-et-de-l-%C3%A9tat-d-urgence/5486029.html
-http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
-https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emergency-to-curb-covid-19//
-https://www.reuters.com/article/us-health-coronavirus-senegal/senegal-orders-all-schools-closed-in-response-to-coronavirus-idUSKBN211106
+ https://www.voaafrique.com/a/macky-sall-annonce-la-fin-du-couvre-feu-et-de-l-%C3%A9tat-d-urgence/5486029.html
+http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
+https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emergency-to-curb-covid-19//
+https://www.reuters.com/article/us-health-coronavirus-senegal/senegal-orders-all-schools-closed-in-response-to-coronavirus-idUSKBN211106
 https://www.reuters.com/article/health-coronavirus-senegal-ivorycoast/ivory-coast-senegal-declare-emergencies-impose-curfews-in-coronavirus-response-idUSL8N2BG9MO
+https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-minist%C3%A9riel-n%C2%B0-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
+https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-n%C2%B0024066-du-05-octobre-2020-portant-prorogation-de-larr%C3%AAt%C3%A9-n%C2%B011592-du-10-juillet
+https://sn.usembassy.gov/covid-19-information/
 
 
 
@@ -393,10 +508,13 @@ https://www.reuters.com/article/health-coronavirus-senegal-ivorycoast/ivory-coas
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -404,11 +522,9 @@ Time period: *Jul-Sep*: 0
  No discrimination based on these rights. 
 
 *Sources*:
- http://www.sante.gouv.sn/Actualites/covid-19-les-decisions-de-son-execellence-monsieur-macky-sall-president-de-la-republique
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-
+ http://www.sante.gouv.sn/Actualites/covid-19-les-decisions-de-son-execellence-monsieur-macky-sall-president-de-la-republique
+https://www.acaps.org/covid19-government-measures-dataseth
+ttps://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
 
 
 
@@ -437,10 +553,13 @@ https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -448,11 +567,9 @@ Time period: *Jul-Sep*: 0
  No violation of non-derogable rights. 
 
 *Sources*:
- http://www.sante.gouv.sn/Actualites/covid-19-les-decisions-de-son-execellence-monsieur-macky-sall-president-de-la-republique
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-
+ http://www.sante.gouv.sn/Actualites/covid-19-les-decisions-de-son-execellence-monsieur-macky-sall-president-de-la-republique
+https://www.acaps.org/covid19-government-measures-dataset
+https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
 
 
 
@@ -476,21 +593,27 @@ https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No de jure media limitations found in the emergency measures. 
 
 *Sources*:
- https://www.sec.gouv.sn/actualit%C3%A9/d%C3%A9cret-n%C2%B0-2020-830-du-23-mars-2020-proclamant-l%E2%80%99%C3%A9tat-d%E2%80%99urgence-sur-le-territoire-national
-https://www.sec.gouv.sn/actualit%C3%A9/message-de-sem-le-pr%C3%A9sident-de-la-r%C3%A9publique-macky-sall-d%C3%A9claration-d%E2%80%99%C3%A9tat-d%E2%80%99urgence-dans
+ https://www.sec.gouv.sn/actualit%C3%A9/d%C3%A9cret-n%C2%B0-2020-830-du-23-mars-2020-proclamant-l%E2%80%99%C3%A9tat-d%E2%80%99urgence-sur-le-territoire-national
+https://www.sec.gouv.sn/actualit%C3%A9/message-de-sem-le-pr%C3%A9sident-de-la-r%C3%A9publique-macky-sall-d%C3%A9claration-d%E2%80%99%C3%A9tat-d%E2%80%99urgence-dans
 https://theconversation.com/ce-que-les-senegalais-e-s-pensent-des-mesures-gouvernementales-contre-la-covid-19-146037
-
-https://www.lemonde.fr/afrique/article/2020/03/24/coronavirus-etat-d-urgence-et-couvre-feu-en-vigueur-au-senegal_6034223_3212.html
-
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
 
+https://www.lemonde.fr/afrique/article/2020/03/24/coronavirus-etat-d-urgence-et-couvre-feu-en-vigueur-au-senegal_6034223_3212.html
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/tracker19-Coronavirus-Covid19
 
 
 
@@ -502,15 +625,22 @@ https://rsf.org/en/tracker19-Coronavirus-Covid19
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -528,15 +658,22 @@ https://rsf.org/en/tracker19-Coronavirus-Covid19
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -564,10 +701,13 @@ https://rsf.org/en/tracker19-Coronavirus-Covid19
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -575,11 +715,10 @@ Time period: *Jul-Sep*: 0
  No media limitations on covid19 nature coverage reported. 
 
 *Sources*:
- https://rsf.org/en/senegal
-https://www.acaps.org/covid19-government-measures-dataset
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
+ https://rsf.org/en/senegal
+https://www.acaps.org/covid19-government-measures-dataset
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/tracker19-Coronavirus-Covid19
 
 
 
@@ -591,7 +730,7 @@ https://rsf.org/en/tracker19-Coronavirus-Covid19
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -601,10 +740,13 @@ https://rsf.org/en/tracker19-Coronavirus-Covid19
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -616,14 +758,13 @@ The state of emergency and the related curfew -which affected media - were lifte
 
 *Sources*:
  https://www.bbc.com/afrique/region-52363470
-(1)
+(1)
 https://theconversation.com/ce-que-les-senegalais-e-s-pensent-des-mesures-gouvernementales-contre-la-covid-19-146037
-(2)
+(2)
 https://www.lemonde.fr/afrique/article/2020/03/24/coronavirus-etat-d-urgence-et-couvre-feu-en-vigueur-au-senegal_6034223_3212.html
-(3)
-https://rsf.org/en/senegal
-https://ipi.media/covid19-media-freedom-monitoring/
-
+(3)
+https://rsf.org/en/senegal
+https://ipi.media/covid19-media-freedom-monitoring/
 
 
 
@@ -645,26 +786,29 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- The curfew in Senegal was implemented by quota, i.e the schedule would vary over time (see 2, 3), and the government did not manage to issue authorization for exemption from the restrictions to all journalsists and media, preventing them therefore from accessing information and reporting in the field.
-The state of emergency and the related curfew -which affected media - were lifted in Senegal on June 30, 2020.
-
+ The curfew in Senegal was implemented by quota, i.e the schedule would vary over time (see 2, 3), and the government did not manage to issue authorization for exemption from the restrictions to all journalsists and media, preventing them therefore from accessing information and reporting in the field.
+The state of emergency and the related curfew -which affected media - were lifted in Senegal on June 30, 2020.
+
 ''The Ministry of the Interior was unable to issue exemptions to all the media and all the journalists who requested this document which allows them to circulate during the curfew "the distribution was made by quota" comments Bamba Kassé, the general secretary of the Senegalese journalists' union.'' (1) 
 
 *Sources*:
  https://www.bbc.com/afrique/region-52363470
-(1)
+(1)
 https://theconversation.com/ce-que-les-senegalais-e-s-pensent-des-mesures-gouvernementales-contre-la-covid-19-146037
-(2)
+(2)
 https://www.lemonde.fr/afrique/article/2020/03/24/coronavirus-etat-d-urgence-et-couvre-feu-en-vigueur-au-senegal_6034223_3212.html
-(3)
+(3)
 https://rsf.org/en/senegal
 
 
@@ -684,30 +828,36 @@ https://rsf.org/en/senegal
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- The curfew in Senegal was implemented by quota, i.e the schedule would vary over time (see 2, 3), and the government did not manage to issue authorization for exemption from the restrictions to all journalsists and media, preventing them therefore from accessing information and reporting in the field.
-The state of emergency and the related curfew -which affected media - were lifted in Senegal on June 30, 2020.
-
+ The curfew in Senegal was implemented by quota, i.e the schedule would vary over time (see 2, 3), and the government did not manage to issue authorization for exemption from the restrictions to all journalsists and media, preventing them therefore from accessing information and reporting in the field.
+The state of emergency and the related curfew -which affected media - were lifted in Senegal on June 30, 2020.
+
 ''The Ministry of the Interior was unable to issue exemptions to all the media and all the journalists who requested this document which allows them to circulate during the curfew "the distribution was made by quota" comments Bamba Kassé, the general secretary of the Senegalese journalists' union.'' (1) 
 
 *Sources*:
  https://www.bbc.com/afrique/region-52363470
-(1)
+(1)
+
 https://theconversation.com/ce-que-les-senegalais-e-s-pensent-des-mesures-gouvernementales-contre-la-covid-19-146037
-(2)
+(2)
+
 https://www.lemonde.fr/afrique/article/2020/03/24/coronavirus-etat-d-urgence-et-couvre-feu-en-vigueur-au-senegal_6034223_3212.html
-(3)
+(3)
+
 https://rsf.org/en/senegal
 
 
@@ -730,10 +880,13 @@ https://rsf.org/en/senegal
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -741,8 +894,10 @@ Time period: *Jul-Sep*: 0
  The only incident found was related to physical harassment. 
 
 *Sources*:
- https://rsf.org/en/senegal
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+ https://rsf.org/en/senegal
+
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+
 https://twitter.com/RSF_fr/status/1243130431245037569?s=20
 
 
@@ -765,21 +920,24 @@ https://twitter.com/RSF_fr/status/1243130431245037569?s=20
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- 'in Senegal, where a Touba TV crew that had a permit from the prefect's office to cover a lockdown was hit several times by a policeman with a baton...''
+ in Senegal, where a Touba TV crew that had a permit from the prefect's office to cover a lockdown was hit several times by a policeman with a baton...''
 A media outlet was also attacked in August but not by the government or police forces. 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://twitter.com/RSF_fr/status/1243130431245037569?s=20
-https://rsf.org/en/senegalç
+ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://twitter.com/RSF_fr/status/1243130431245037569?s=20
+https://rsf.org/en/senegalç
 https://www.article19.org/resources/senegal-media-outlet-attacked/
 
 
@@ -804,15 +962,18 @@ https://www.article19.org/resources/senegal-media-outlet-attacked/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
- Senegal authorities have been using hydroxychloroquine to COVID-19 patients since March. The government has continued using the drug as of July:
+ Senegal authorities have been using hydroxychloroquine to COVID-19 patients since March. The government has continued using the drug as of July. It is unclear whether it is still being used by November 2020.
 
 ''Regarding the treatment of COVID-19 patients, the official said the convincing results of the use of the combination of hydroxychloroquine and azithromycin were confirmed.
 Professor Moussa Seydi, head of the infectious diseases department at Fann hospital, said this combination will be continued in Senegal.
@@ -824,7 +985,7 @@ Professor Moussa Seydi, head of the infectious diseases department at Fann hospi
 https://www.africanews.com/2020/05/28/senegal-to-continue-treating-covid-19-patients-with-hydroxychloroquine//
 https://afrique.le360.ma/maroc-algerie-autres-pays/politique/2020/06/01/30726-covid-19-voici-pourquoi-les-pays-africains-ont-dit-non-loms-et-poursuivent-le
 http://www.xinhuanet.com/english/2020-06/07/c_139119593.htm
-
+https://enactafrica.org/enact-observer/how-covid-19-is-fuelling-the-trafficking-of-fake-chloroquine-in-senegal
 
 
 
@@ -848,26 +1009,33 @@ http://www.xinhuanet.com/english/2020-06/07/c_139119593.htm
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
  Police in Senegal have fired tear gas and rubber bullets at protesters demanding an end to coronavirus restrictions. '' (June 5, 2020)
+The state of emergency was lifted on June 30 2020.
 
 ''In Senegal, where clashes between police and civilians are rare, the first night of a nationwide curfew in late March was marred by violence. Videos posted online showed police swiping at fleeing civilians with batons. Reuters could not verify the footage, but police in a statement apologised for the use of ''excessive interventions''and promised to punish officers involved.''
 ''Footage from Senegal surfaced last week showing policemen beating people found outside after a night curfew. In one video, officials force three young men to do squats after they were caught exercising at night. Police eventually assured that all "excessive interventions" had been punished.'' 
 
 *Sources*:
- https://www.youtube.com/watch?v=ADf7lmJDu_0
-https://www.france24.com/en/20200604-senegal-to-ease-virus-curfew-after-angry-protests
-https://www.news24.com/news24/africa/news/lockdown-senegal-arrests-74-people-over-violent-protests-against-coronavirus-curfew-20200604
-https://www.reuters.com/article/us-health-coronavirus-africa-police/in-parts-of-africa-police-are-accused-of-excess-force-amid-coronavirus-lockdowns-idUSKCN21S0M9
-https://www.france24.com/en/20200401-security-forces-use-violent-tactics-to-enforce-africa-s-coronavirus-shutdowns
+ https://www.youtube.com/watch?v=ADf7lmJDu_0
 
+https://www.france24.com/en/20200604-senegal-to-ease-virus-curfew-after-angry-protests
+
+https://www.news24.com/news24/africa/news/lockdown-senegal-arrests-74-people-over-violent-protests-against-coronavirus-curfew-20200604
+
+https://www.reuters.com/article/us-health-coronavirus-africa-police/in-parts-of-africa-police-are-accused-of-excess-force-amid-coronavirus-lockdowns-idUSKCN21S0M9
+
+https://www.france24.com/en/20200401-security-forces-use-violent-tactics-to-enforce-africa-s-coronavirus-shutdowns
 
 
 
@@ -879,7 +1047,7 @@ https://www.france24.com/en/20200401-security-forces-use-violent-tactics-to-enfo
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -889,10 +1057,13 @@ https://www.france24.com/en/20200401-security-forces-use-violent-tactics-to-enfo
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -900,31 +1071,6 @@ Time period: *Jul-Sep*: 0
  President Sall ''ordered the defense and security forces to stand ready for the immediate and strict execution of the measures enacted''', but no reports of the military's involvement. 
 
 *Sources*:
- http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
+ http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
+
 https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emergency-to-curb-covid-19//
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

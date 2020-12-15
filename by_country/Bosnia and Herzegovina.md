@@ -1,9 +1,6 @@
 # Bosnia and Herzegovina 
 
 
-Time 2020-09-02 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-02
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,16 +25,31 @@ Time 2020-09-02
  7. Other.
 
  
-*Answer*: 3 
+*Time period: Q2*: 3
+
+ 
+*Time period: Q3*: 6
+
+ 
+*Time period: Q4*: 6
+
+ 
 
 *Comments*:
- Emergency situations introduced separately on 16 March 2020 in the Bosniak-Croat Federation (state of disaster) and the Serb Republic (state of emergency); nationwide state of disaster introduced on 17 March 2020, as announced in the Official Gazette of BiH, No. 18/20 
+ Emergency situations introduced separately on 16 March 2020 in the Bosniak-Croat Federation (state of disaster) and the Serb Republic (state of emergency); nationwide state of disaster introduced on 17 March 2020, as announced in the Official Gazette of BiH, No. 18/20. Nationwide state of disaster ended on 31 May and since then I found no measures taken at the federal level since then.  On a sub-national level, the measures in the Bosniak-Croat Federation include a partial curfew from 12 November; in the Serb Republic, the measures include a ban on public gatherings of more than 50 people, mandatory mask wearing and limitations on the working hours of restaurants. 
 
 *Sources*:
  http://www.sluzbenilist.ba/page/akt/bTsBUE4N5GM=
 https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/predsednik/odluka/2020/29/1/reg
 http://www.fbihvlada.gov.ba/bosanski/aktuelno_v2.php?akt_id=8417
 http://www.fbihvlada.gov.ba/bosanski/zakoni/2020/Odluke/198.htm
+
+http://www.oecd.org/south-east-europe/COVID-19-Crisis-in-Bosnia-and-Herzegovina-archive.pdf
+https://www.oecd.org/south-east-europe/COVID-19-Crisis-in-Bosnia-and-Herzegovina.pdf
+http://www.fbihvlada.gov.ba/bosanski/aktuelno_v2.php?akt_id=8914
+
+https://www.garda.com/crisis24/news-alerts/393291/bosnia-and-herzegovina-authorities-introduce-stricter-covid-19-measures-across-the-country-october-26-update-6
+https://www.paragraf.ba/propisi/republika-srpska/zakljucak-o-obaveznom-sprovodjenju-mjera-za-reagovanje-na-pojavu-bolesti-izazvane-novim-virusom-korona-covid-19-u-republici-srpskoj.html
 
 
 
@@ -56,10 +68,20 @@ http://www.fbihvlada.gov.ba/bosanski/zakoni/2020/Odluke/198.htm
 *Scale*: Character string.
 
  
-*Answer*: Okvirni zakon o zaštiti i spašavanju ljudi i materijalnih dobara od prirodnih ili drugih nesreća u BiH 
+*Time period: Q2*: Okvirni zakon o zaštiti i spašavanju ljudi i materijalnih dobara od prirodnih ili drugih nesreća u BiH
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Own English translation: Law on Protection and Rescue of People and Material Goods from Natural or Other Disasters in Bosnia and Herzegovina (Article 13, point h). The law gives the Council of Ministers (the executive on the national level) the power to declare a state of natural or other disaster. Note on subnational variation: legal instrument to declare a state of emergency in the Serb Republic is Article 8 of the Law on Protection and Rescue in Emergency Situation (Decision published in Official Gazette 25/20, https://www.slglasnik.org/cyr/aktuelno/obavjestenja/objavjben-je-sgrs-2520). The legal instruments to declare a state of disaster in the Bosniak-Croat Federation are Law on the Government of the Federation of BiH (Article 19, paragraph 2),  Article 24, Item 11 of the Law on Protection and Rescue of People and Material Goods from Natural and Other Disasters,  Article 32 of the Rulebook on the Manner of Work and functioning of staffs and commissioners of civil protection (Decision published in the Official Gazette of the Federation of BiH», No. 21/20, http://www.fbihvlada.gov.ba/bosanski/zakoni/2020/odluke_registar.html) 
+ Own English translation: Law on Protection and Rescue of People and Material Goods from Natural or Other Disasters in Bosnia and Herzegovina (Article 13, point h). The law gives the Council of Ministers (the executive on the national level) the power to declare a state of natural or other disaster. Note on subnational variation: legal instrument to declare a state of emergency in the Serb Republic is Article 8 of the Law on Protection and Rescue in Emergency Situation (Decision published in Official Gazette 25/20, https://www.slglasnik.org/cyr/aktuelno/obavjestenja/objavjben-je-sgrs-2520). The legal instruments to declare a state of disaster in the Bosniak-Croat Federation are Law on the Government of the Federation of BiH (Article 19, paragraph 2),  Article 24, Item 11 of the Law on Protection and Rescue of People and Material Goods from Natural and Other Disasters,  Article 32 of the Rulebook on the Manner of Work and functioning of staffs and commissioners of civil protection (Decision published in the Official Gazette of the Federation of BiH», No. 21/20, http://www.fbihvlada.gov.ba/bosanski/zakoni/2020/odluke_registar.html)
+
+July-September and October-December: no national-level emergency measures 
 
 *Sources*:
  http://www.sluzbenilist.ba/page/akt/bTsBUE4N5GM=
@@ -82,10 +104,20 @@ http://msb.gov.ba/Zakoni/zakoni/default.aspx?id=1721&langTag=bs-BA
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-17 
+*Time period: Q2*: 2020-03-17
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Emergency situations introduced separately on 16 March 2020 in the Bosniak-Croat Federation (state of disaster) and the Serb Republic (state of emergency); nationwide state of disaster introduced on 17 March 2020, as announced in the Official Gazette of BiH, No. 18/20 
+ Emergency situations introduced separately on 16 March 2020 in the Bosniak-Croat Federation (state of disaster) and the Serb Republic (state of emergency); nationwide state of disaster introduced on 17 March 2020, as announced in the Official Gazette of BiH, No. 18/20
+
+July-September and October-December: no national-level emergency measures 
 
 *Sources*:
  http://www.sluzbenilist.ba/page/akt/bTsBUE4N5GM=
@@ -107,10 +139,20 @@ http://msb.gov.ba/Zakoni/zakoni/default.aspx?id=1721&langTag=bs-BA
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-31 
+*Time period: Q2*: 2020-05-31
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- 31 May 2020 corresponds to the end of the state of disaster in the Federation of Bosnia and Herzegovina (one of the subnational entities). In the Serb Republic the state of emergency was lifted on earlier on 21 May 2020. I have not found any documents indicating the end of the state of disaster at the federal level, but it is logical to code it as having ended since it was lifted in both subnational entities. Moreover, Federal Civil Protection Headquarters has not issued any new orders for covid-19 measures since 31 May 2020.  For example, from the OSCE report: "The Republika Srpska declared a state of emergency on the basis of Art. 70 of the Constitution as of 3 April, which ended on 21 May, while the Federation of Bosnia and Herzegovina declared a state of natural or other disaster on 17 March, on the basis of the Framework Lawon Protection and Rescue of People and Material Property from Natural and Other Disasters in BiH, which ended on 31 May." 
+ 31 May 2020 corresponds to the end of the state of disaster in the Federation of Bosnia and Herzegovina (one of the subnational entities). In the Serb Republic the state of emergency was lifted on earlier on 21 May 2020. I have not found any documents indicating the end of the state of disaster at the federal level, but it is logical to code it as having ended since it was lifted in both subnational entities. Moreover, Federal Civil Protection Headquarters has not issued any new orders for covid-19 measures since 31 May 2020.  For example, from the OSCE report: "The Republika Srpska declared a state of emergency on the basis of Art. 70 of the Constitution as of 3 April, which ended on 21 May, while the Federation of Bosnia and Herzegovina declared a state of natural or other disaster on 17 March, on the basis of the Framework Lawon Protection and Rescue of People and Material Property from Natural and Other Disasters in BiH, which ended on 31 May."
+
+July-September and October-December: no national-level emergency measures 
 
 *Sources*:
  https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B346%5D&covid19=1
@@ -139,10 +181,20 @@ https://covid-19.ba/dokumenti/civilna_zastita
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- No limitations in the decision or the law on Protection and Rescue of People and Material Goods from Natural or Other Disasters. Note on subnational variations: no limitations in the decision on state of emergency in the Serb Republic and the Bosniak-Croat Federation. 
+ March-June: No time limit in the decision on the state of disaster or the law on Protection and Rescue of People and Material Goods from Natural or Other Disasters. Note on subnational variations: no limitations in the decision on state of emergency in the Serb Republic and the Bosniak-Croat Federation.
+
+July-September and October-December: no national-level emergency measures 
 
 *Sources*:
  http://www.sluzbenilist.ba/page/akt/bTsBUE4N5GM=
@@ -158,15 +210,22 @@ http://msb.gov.ba/Zakoni/zakoni/default.aspx?id=1721&langTag=bs-BA
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  emlimit = 0 
@@ -184,7 +243,7 @@ http://msb.gov.ba/Zakoni/zakoni/default.aspx?id=1721&langTag=bs-BA
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -194,10 +253,20 @@ http://msb.gov.ba/Zakoni/zakoni/default.aspx?id=1721&langTag=bs-BA
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Based on Article 13 of the Framework Law on Protection and Rescue of People and Material Goods from Natural or Other Disasters in BiH, the Council of Ministers declares the state of disaster and decides on the measures, which are submitted to the Parliamentary Assembly of Bosnia and Herzegovina for approval (point a). 
+ March-June: Based on Article 13 of the Framework Law on Protection and Rescue of People and Material Goods from Natural or Other Disasters in BiH, the Council of Ministers declares the state of disaster and decides on the measures, which are submitted to the Parliamentary Assembly of Bosnia and Herzegovina for approval (point a).
+
+July-September and October-December: no national-level emergency measures 
 
 *Sources*:
  http://msb.gov.ba/Zakoni/zakoni/default.aspx?id=1721&langTag=bs-BA
@@ -222,10 +291,20 @@ http://msb.gov.ba/Zakoni/zakoni/default.aspx?id=1721&langTag=bs-BA
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The House of Representatives of the Parliamentary Assembly issued a statement on 19 March 2020 in support of the adopted measures. 
+ March-June: The House of Representatives of the Parliamentary Assembly issued a statement on 19 March 2020 in support of the adopted measures.
+
+July-September and October-December: no national-level emergency measures 
 
 *Sources*:
  http://www.parlament.ba/Publication/Read/15971?title=kolegij-predstavnickog-doma-parlamentarne-skupstine-bih-pozdravlja-sve-do-sada-preduzete-mjere-za-zastitu-zdravlja-stanovnistva&pageId=238
@@ -248,13 +327,21 @@ http://msb.gov.ba/Zakoni/zakoni/default.aspx?id=1721&langTag=bs-BA
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No legal limitations and de-facto the legislature continued to meet. Note on subnational variation: in the Serb Republic the legislature gave the president the right to rule by decree (https://www.reuters.com/article/us-health-coronavirus-bosnia/bosnian-serb-region-declares-state-of-emergency-over-coronavirus-idUSKBN21F0OQI) 
@@ -273,15 +360,22 @@ https://www.parlament.ba/Publication/Read/16017?pageId=238
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -306,8 +400,15 @@ https://www.parlament.ba/Publication/Read/16017?pageId=238
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -337,10 +438,18 @@ https://www.parlament.ba/Publication/Read/16017?pageId=238
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 3 
+*Time period: Q2*: 3
+
+ 
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
+
+ 
 
 *Comments*:
- Aside from a nationwide state of disaster, the specific measures, duration, implementation etc. were different in the two autonomous regions of Bosniak-Croat Federation (state of disaster) and the Serb Republic (state of emergency). On the structure of BiH government see https://eacea.ec.europa.eu/national-policies/eurydice/content/main-executive-and-legislative-bodies-11_en Also see notes on subantional variation for other variables 
+ Aside from a nationwide state of disaster, the specific measures, duration, implementation etc. were different in the two autonomous regions of Bosniak-Croat Federation (state of disaster) and the Serb Republic (state of emergency). On the structure of BiH government see https://eacea.ec.europa.eu/national-policies/eurydice/content/main-executive-and-legislative-bodies-11_en Also see notes on subantional variation for other variables. 
 
 *Sources*:
  https://www.oecd.org/south-east-europe/COVID-19-Crisis-in-Bosnia-and-Herzegovina.pdf
@@ -373,25 +482,33 @@ https://www.garda.com/crisis24/news-alerts/337196/bosnia-herzegovina-government-
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 3
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
 
  
 
 *Comments*:
- No de-jure disciminating provisions. The authorities have issued several documents on the importance of nondiscrimination. The government imposed severe lockdowns on people below 18 and above 65 years old, which can be potentially discriminatory (see Human Rights Watch link) and unjustified (e.g. due to low risks in children) but was imposed by the authorities based on public health grounds, therefore not coded as discrimination. It was also lifted after a ruling by the Constitutional Court that it did not fulfill proportionality requirements. The authorities also placed migrants into camps with potentially harmful conditions (see Amnesty International link), which is related to assess to medical care and supplies and therefore not coded as discrimination. On 19 August 2020, Una-Sana Canton imposed restrictions on the movement of refugees, but I found no evidence that this is related to covid-19 measures. 
+ Coded as 3 in all in periods because of ongoing distrimination against migrants. 
+
+1) The official ban on movement of migrants has been implemented in Una-Sana Canton. In March-June: “IOM is obliged to implement measures to completely restrict the movement of users of temporary reception centers Bira in Bihać and Miral in Velika Kladuša, as well as to implement additional protection measures within temporary reception centers and education on the dangers of spreading coronavirus among the migrant population. The MUP USK will supervise the measures of restriction of movement.” The measures continued in July-September, and October. 
+
+
+2) The official ban on movement of migrants has also been implemented in Sarajevo canon from 18 March: “By the same Decision, with the consent of the Commander of the Civil Protection Headquarters of the KS, which is performed by the Minister of Communal Economy and Infrastructure of the KS Nihada Glamoč, the Government introduced a ban on migrants from leaving the mentioned centers.” I have not found any evidence that the measures have been lifted.
+
+3) De-facto discrimination in Tuzla: “The municipality, opposing assistance since the influx of people started, is fueling xenophobia and publicly advised everyone who had contact with refugees and migrants to self-isolate” (report from 29 April) 
 
 *Sources*:
- http://www.parlament.ba/Publication/Read/15991?title=vijece-nacionalnih-manjina-bih-uputilo-apel-za-pomoc-pripadnicima-nacionalnih-manjina-u-bih&pageId=238
-https://covid19.fmoh.gov.ba/novost/30/szo-unicef-i-crveni-krst-kriz-drustvena-stigma-povezana-s-bolescu-covid-19
-
-https://covid-19.ba/dokumenti/civilna_zastita
-https://www.hrw.org/news/2020/04/02/bosnia-and-herzegovinas-coronavirus-curbs-children-and-older-people-are-ill
-https://www.amnesty.org/en/latest/news/2020/03/bosnia-decision-to-confine-thousands-of-migrants-into-camp-inhumane-and-puts-lives-at-risk/
-http://www.ccbh.ba/novosti/sjednice/?id=8df4d385-2c8c-494f-88c0-588d1ce062a2
-https://www.amnesty.org/en/latest/news/2020/08/bosnia-and-herzegovina-reckless-restrictions-of-movement-leave-refugees-and-migrants-stranded-without-protection/
+ http://vladausk.ba/v4/novost/operativna-grupa-grupe-za-koordiniranje-aktivnosti-i-nadzora-nad-migrantskom-krizom-na-podrucju-unsko-sanskog-kantona/2101
+http://vladausk.ba/v4/novost/operativna-grupa-za-koordiniranje-aktivnosti-i-nadzora-nad-migrantskom-krizom-na-podrucju-unsko-sanskog-kantona/2566
+http://vladausk.ba/v4/novost/operativna-grupa-za-koordiniranje-aktivnosti-i-nadzora-nad-migrantskom-krizom-na-podrucju-unsko-sanskog-kantona/2762
+https://vlada.ks.gov.ba/aktuelnosti/novosti-vezane-za-koronu-virus/vlada-i-mup-ks-ogranicavaju-kretanje-migranata-u;
+https://www.paragraf.ba/propisi/kantona-sarajevo/odluka-o-odredjivanju-mjera-ogranicavanja-kretanja-migranata-na-podrucju-kantona-sarajevo-u-cilju-preveniranja.html
+https://www.care.de/fileadmin/user_upload/Nothilfe/Kontinente/Europa/Balkan/Assessment_Report_-_Bosnia_2020_Policy_final.pdf
 
 
 
@@ -420,10 +537,13 @@ https://www.amnesty.org/en/latest/news/2020/08/bosnia-and-herzegovina-reckless-r
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -457,7 +577,15 @@ https://covid-19.ba/dokumenti/civilna_zastita
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Article 24 of Protection and Rescue of People and Material Goods from Natural or Other Disasters on ensuring transparency and freedom of information. Note on subnational variation: the Serb Republic passed a law on "fake news" that could limit media freedom (https://www.osce.org/representative-on-freedom-of-media/450115), and similar measures were adopted in the Brčko District (https://rsf.org/en/news/repressive-laws-prosecutions-attacks-europe-fails-shield-its-journalists-against-abuse-covid-19) 
@@ -466,6 +594,7 @@ https://covid-19.ba/dokumenti/civilna_zastita
  http://msb.gov.ba/Zakoni/zakoni/default.aspx?id=1721&langTag=bs-BA
 https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 https://www.icnl.org/covid19tracker/?location=15&issue=&date=&type=
+https://ipi.media/rush-to-pass-fake-news-laws-during-covid-19-intensifying-global-media-freedom-challenges/
 
 
 
@@ -477,15 +606,22 @@ https://www.icnl.org/covid19tracker/?location=15&issue=&date=&type=
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Note on subnational variation: in the Serb Republic, the "fake news" law was published on 6 April 2020 (https://www.osce.org/representative-on-freedom-of-media/450115) 
@@ -503,15 +639,22 @@ https://www.icnl.org/covid19tracker/?location=15&issue=&date=&type=
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -539,10 +682,13 @@ https://www.icnl.org/covid19tracker/?location=15&issue=&date=&type=
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -566,7 +712,7 @@ https://rsf.org/en/bosnia-herzegovina
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -576,15 +722,18 @@ https://rsf.org/en/bosnia-herzegovina
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- On 20 April 2020, the police detained TV journalists (for a short period of time). The journalists were reporting on a situation in a covid-19 isolation center and the police deleted the footage from their phones.  Since it was a single incident and no further cases were reported, merepgov is coded as 0 in July-September 2020. 
+ On 20 April 2020, the police detained TV journalists (for a short period of time). The journalists were reporting on a situation in a covid-19 isolation center and the police deleted the footage from their phones.  Since it was a single incident and no further cases were reported, merepgov is coded as 0 in July-September 2020 and October-December 2020. 
 
 *Sources*:
  https://ipi.media/covid19-media-freedom-monitoring/#
@@ -611,10 +760,13 @@ http://ba.n1info.com/Vijesti/a427475/BH-novinari-i-OSCE-reagovali-zbog-brisanja-
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -645,19 +797,22 @@ https://rsf.org/en/bosnia-herzegovina
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Occasional reports that authorities avoid answering journalists' questions related to the pandemic and that the opportunities to ask questions by the media are limited. Moreover, "On 7 April 2020, the government of the Federation of  Bosnia and Herzegovina issued a decision restricting access to press conferences for the media. The decision stipulates that only three media representatives can be present at press conferences given by the Crisis Management Headquarters." (OSCE report, p.54). Coded as 1 since the decision applies to one subnational entity and not the whole country. I have not managed to find any information on whether the restricted access to press conferences was lifted after 31 May 2020, so meinf is coded as 1 for both time periods (March-June and July-September 2020). 
+ Occasional reports that authorities avoid answering journalists' questions related to the pandemic and that the opportunities to ask questions by the media are limited. Moreover, "On 7 April 2020, the government of the Federation of  Bosnia and Herzegovina issued a decision restricting access to press conferences for the media. The decision stipulates that only three media representatives can be present at press conferences given by the Crisis Management Headquarters." (OSCE report, p.54). Coded as 1 since the decision applies to one subnational entity and not the whole country. I have not managed to find any information on whether the restricted access to press conferences was lifted after 31 May 2020, so meinf is coded as 1 for all time periods (March-June, July-September, October-December 2020). 
 
 *Sources*:
  https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/
@@ -684,10 +839,13 @@ https://covid-19.ba/dokumenti/civilna_zastita
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -720,10 +878,13 @@ https://rsf.org/en/bosnia-herzegovina
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -760,10 +921,13 @@ https://www.hrw.org/europe/central-asia/bosnia-and-herzegovina
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -800,10 +964,13 @@ https://rsf.org/en/bosnia-herzegovina
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -824,7 +991,7 @@ https://www.hrw.org/europe/central-asia/bosnia-and-herzegovina
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -834,10 +1001,13 @@ https://www.hrw.org/europe/central-asia/bosnia-and-herzegovina
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -847,29 +1017,3 @@ Time period: *Jul-Sep*: 0
 *Sources*:
  http://www.predsjednistvobih.ba/saop/default.aspx?id=87867&langTag=bs-BA
 http://www.predsjednistvobih.ba/saop/default.aspx?id=87900&langTag=bs-BA
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

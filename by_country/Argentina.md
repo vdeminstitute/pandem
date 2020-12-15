@@ -1,9 +1,6 @@
 # Argentina 
 
 
-Time 2020-09-04 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-04
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,13 +25,21 @@ Time 2020-09-04
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
  Decreto 297/2020 del 19 de marzo de 2020: Aislamiento Social Preventivo y Obligatorio. The Law 27541 declared sanitary emergency in Argentina, but the decree 297/2020 is the instrument that most closely resembles a state of exception. 
 
 *Sources*:
- https://www.boletinoficial.gob.ar/detalleAviso/primera/227042/20200320
+ https://www.boletinoficial.gob.ar/detalleAviso/primera/227042/20200320
 http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333564/norma.htm
 
 
@@ -54,13 +59,21 @@ http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333564/norm
 *Scale*: Character string.
 
  
-*Answer*: Ley 27541 - LEY DE SOLIDARIDAD SOCIAL Y REACTIVACIÓN PRODUCTIVA EN EL MARCO DE LA EMERGENCIA PÚBLICA 
+*Time period: Q2*: Ley 27541 - LEY DE SOLIDARIDAD SOCIAL Y REACTIVACIÓN PRODUCTIVA EN EL MARCO DE LA EMERGENCIA PÚBLICA
+
+ 
+*Time period: Q3*: Ley 27541 - LEY DE SOLIDARIDAD SOCIAL Y REACTIVACIÓN PRODUCTIVA EN EL MARCO DE LA EMERGENCIA PÚBLICA
+
+ 
+*Time period: Q4*: Ley 27541 - LEY DE SOLIDARIDAD SOCIAL Y REACTIVACIÓN PRODUCTIVA EN EL MARCO DE LA EMERGENCIA PÚBLICA
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://www.boletinoficial.gob.ar/detalleAviso/primera/227042/20200320
+ https://www.boletinoficial.gob.ar/detalleAviso/primera/227042/20200320
 http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333564/norma.htm
 
 
@@ -80,7 +93,15 @@ http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333564/norm
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-20 
+*Time period: Q2*: 2020-03-20
+
+ 
+*Time period: Q3*: 2020-03-20
+
+ 
+*Time period: Q4*: 2020-03-20
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -105,16 +126,21 @@ http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333564/norm
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Still in place. On July 18 began a new phase of the isolation measures, with gradual flexibilization and opening. Most provinces reduced the number of cases and have transitioned from "mandatory social isolation" to "mandatory social distancing". However, the Decree nº 297/2020 is still being implemented in some places, including the Metropolitan Area of Buenos Aires. Currently the measures are valid until September 20. 
+ Still in place. On July 18 began a new phase of the isolation measures, with gradual flexibilization and opening. Most provinces had reduced the number of cases and transitioned from "mandatory social isolation" to "mandatory social distancing". However, there was a increase in numbers and several places had to adopt a new lockdown. Legally, the Decree nº 297/2020 is still in place and the measures are valid until December 20. 
 
 *Sources*:
- http://servicios.infoleg.gob.ar/infolegInternet/anexos/335000-339999/338406/norma.htm
-https://www.casarosada.gob.ar/slider-principal/46914-coronavirus-el-presidente-anuncio-que-se-pasa-al-distanciamiento-social-obligatorio-y-el-aislamiento-se-aplicara-solo-en-lugares-con-circulacion-comunitaria
-http://servicios.infoleg.gob.ar/infolegInternet/anexos/340000-344999/341616/norma.htm
+ https://www.boletinoficial.gob.ar/detalleAviso/primera/237062/20201107
 
 
 
@@ -136,13 +162,21 @@ http://servicios.infoleg.gob.ar/infolegInternet/anexos/340000-344999/341616/norm
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The Decree 297/20 established the lockdown initially until 2020-03-31, but with the possibility of extension. Currently it was extended through decrees 325/20, 355/20, 408/20, 459/20 and 493/20 and, with certain modifications depending on the territory, by decrees 520/20, 576/20, 605/20, 641/20, 677/20 and 714/20. The last one is valid until 2020-09-20. 
+ The Decree 297/20 declared a lockdown until March 31, but with the possibility of an extension. It was extended by decrees 325/20, 355/20, 408/20, 459/20, 493/20, 520/20, 576/20, 605/20, 641/20, 677/20, 714/20, 754/20, 792/20, 814/20, and 875/20. The last one is valid until December 20. 
 
 *Sources*:
- https://www.boletinoficial.gob.ar/detalleAviso/primera/227042/20200320
+ https://www.boletinoficial.gob.ar/detalleAviso/primera/227042/20200320
 http://servicios.infoleg.gob.ar/infolegInternet/anexos/340000-344999/341616/norma.htm
 
 
@@ -155,22 +189,30 @@ http://servicios.infoleg.gob.ar/infolegInternet/anexos/340000-344999/341616/norm
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-09-20 
+*Time period: Q2*: 2020-06-28
+
+ 
+*Time period: Q3*: 2020-09-20
+
+ 
+*Time period: Q4*: 2020-12-20
+
+ 
 
 *Comments*:
- Initially the emlimitdate was 2020-03-31, but it was extended through decrees 325/20, 355/20, 408/20, 459/20 and 493/20 and, with certain modifications depending on the territory, by decrees 520/20, 576/20, 605/20, 641/20, 677/20 and 714/20. The last one is valid until 2020-09-20. 
+ The Decree 297/20 declared a lockdown until March 31, but with the possibility of an extension. It was extended by decrees 325/20, 355/20, 408/20, 459/20, 493/20, 520/20, 576/20, 605/20, 641/20, 677/20, 714/20, 754/20, 792/20, 814/20, and 875/20. The last one is valid until December 20. 
 
 *Sources*:
- http://servicios.infoleg.gob.ar/infolegInternet/anexos/335000-339999/338406/norma.htm
-https://www.boletinoficial.gob.ar/detalleAviso/primera/227042/20200320
-http://servicios.infoleg.gob.ar/infolegInternet/anexos/340000-344999/341616/norma.htm
+ https://www.boletinoficial.gob.ar/detalleAviso/primera/227042/20200320
+https://www.boletinoficial.gob.ar/detalleAviso/primera/237062/20201107
+https://www.boletinoficial.gob.ar/detalleAviso/primera/237844/20201130
 
 
 
@@ -182,7 +224,7 @@ http://servicios.infoleg.gob.ar/infolegInternet/anexos/340000-344999/341616/norm
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -192,7 +234,15 @@ http://servicios.infoleg.gob.ar/infolegInternet/anexos/340000-344999/341616/norm
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  The legislative sanctioned Law 27541, that declared a state of public emergency and gave the executive the power take measures via decree on covid-19 related issues. 
@@ -220,10 +270,18 @@ http://servicios.infoleg.gob.ar/infolegInternet/anexos/340000-344999/341616/norm
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The legislative sanctioned Ley 27541, that declared a state of public emergency and gave the executive the power take measures via decree on covid-19 related issues. 
+ The legislative sanctioned Law 27541, that declared a state of public emergency and gave the executive the power take measures via decree on covid-19 related issues. 
 
 *Sources*:
  http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333564/norma.htm
@@ -246,20 +304,30 @@ http://servicios.infoleg.gob.ar/infolegInternet/anexos/340000-344999/341616/norm
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- The executive is ruling by decree on covid-19 related issues. It took the congress almost two months to organize online sessions and during this period the executive was making all decisions. 
+ The executive is ruling by decree on covid-19 related issues, as per Law 27541. It took the congress almost two months to organize online sessions and during this period the executive was making all decisions, but after that time the congress began mostly working remotely. 
 
 *Sources*:
- https://www.argentina.gob.ar/justicia/derechofacil/leysimple/emergencia-sanitaria-covid-19
+ https://www.argentina.gob.ar/justicia/derechofacil/leysimple/emergencia-sanitaria-covid-19
 https://www.bbc.com/mundo/noticias-america-latina-52914804
+https://www.hcdn.gob.ar/institucional/infGestion/covid19/Protocolo_para_Sesiones_Telematicas.pdf
+https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
 
 
 
@@ -271,15 +339,22 @@ https://www.bbc.com/mundo/noticias-america-latina-52914804
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -304,8 +379,15 @@ https://www.bbc.com/mundo/noticias-america-latina-52914804
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -335,15 +417,24 @@ https://www.bbc.com/mundo/noticias-america-latina-52914804
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 2 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- At first the measures were the same for the entire country, but as covid-19 disseminated in a different way in different provinces, the social isolation and social distancing measures are now applied according to their situation. 
+ At first the measures were the same for the entire country, but since covid-19 disseminated in a different way in different provinces, the social isolation and social distancing measures are now implemented according to the local situation. 
 
 *Sources*:
- http://servicios.infoleg.gob.ar/infolegInternet/anexos/335000-339999/338406/norma.htm
-https://www.boletinoficial.gob.ar/detalleAviso/primera/234257/20200831
+ http://servicios.infoleg.gob.ar/infolegInternet/anexos/335000-339999/338406/norma.htm
+https://www.boletinoficial.gob.ar/detalleAviso/primera/234257/20200831
 https://www.argentina.gob.ar/justicia/derechofacil/leysimple/covid-19-aislamiento-y-distanciamiento-social
+https://www.boletinoficial.gob.ar/detalleAviso/primera/237062/20201107
 
 
 
@@ -367,10 +458,13 @@ https://www.argentina.gob.ar/justicia/derechofacil/leysimple/covid-19-aislamient
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -378,8 +472,9 @@ Time period: *Jul-Sep*: 0
  No evidence of discrimination was found. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?q=&sort=date&issue=67596&country=38268&resourceType=newsarticle
+ https://www.amnesty.org/en/countries/americas/argentina/
 https://www.hrw.org/americas/argentina
+https://monitor.civicus.org/country/argentina/
 
 
 
@@ -408,10 +503,13 @@ https://www.hrw.org/americas/argentina
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -419,8 +517,9 @@ Time period: *Jul-Sep*: 0
  No evidence of non-derogable rights violation was found. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?q=&sort=date&issue=67596&country=38268&resourceType=newsarticle
-https://www.hrw.org/americas/argentinav
+ https://www.amnesty.org/en/countries/americas/argentina/
+https://www.hrw.org/americas/argentina
+https://monitor.civicus.org/country/argentina/
 
 
 
@@ -444,7 +543,15 @@ https://www.hrw.org/americas/argentinav
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. The government considered the media an essential service and they could continue working during the lockdown period. 
@@ -462,15 +569,22 @@ https://www.hrw.org/americas/argentinav
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -488,15 +602,22 @@ https://www.hrw.org/americas/argentinav
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -524,10 +645,13 @@ https://www.hrw.org/americas/argentinav
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -536,9 +660,9 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://cpj.org/americas/argentina/
 
 
 
@@ -550,7 +674,7 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -560,10 +684,13 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -572,8 +699,9 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://cpj.org/americas/argentina/
 
 
 
@@ -595,10 +723,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -607,8 +738,9 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://cpj.org/americas/argentina/
 
 
 
@@ -627,14 +759,17 @@ https://ipi.media/covid19-media-freedom-monitoring/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -643,9 +778,9 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
-https://www.argentina.gob.ar/salud/coronavirus-COVID-19
+https://ipi.media/covid19-media-freedom-monitoring/
+https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://cpj.org/americas/argentina/
 
 
 
@@ -667,10 +802,13 @@ https://www.argentina.gob.ar/salud/coronavirus-COVID-19
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -679,8 +817,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/americas/argentina/
 
 
 
@@ -702,10 +840,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -714,8 +855,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/americas/argentina/
 
 
 
@@ -739,10 +880,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -750,9 +894,9 @@ Time period: *Jul-Sep*: 0
  The government uses WHO information on its covid-19 website and policies. They also have a strong campain against disinformation, with a website where fake news are debunked and anyone can send messages to ask whether something about the pandemic is true or false. 
 
 *Sources*:
- https://www.argentina.gob.ar/salud/coronavirus-COVID-19
-https://www.argentina.gob.ar/noticias/no-compartamos-noticias-falsas
-https://www.clarin.com/politica/coronavirus-argentina-alberto-fernandez-advirtio-informacion-falsa-whatsapp-redes-sociales_0_bx7N8CrKx.html
+ https://www.argentina.gob.ar/salud/coronavirus-COVID-19
+https://www.argentina.gob.ar/noticias/no-compartamos-noticias-falsas
+https://www.clarin.com/politica/coronavirus-argentina-alberto-fernandez-advirtio-informacion-falsa-whatsapp-redes-sociales_0_bx7N8CrKx.html
 https://confiar.telam.com.ar/
 
 
@@ -777,18 +921,22 @@ https://confiar.telam.com.ar/
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 3
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
 
  
 
 *Comments*:
- There are several reports of police violence and Amnesty International sent a letter to the Argentinian government about it 
+ There are several reports of security forces engaging in violence. The Human Rights Secretariat received 531 complaints of police abuse between late March and early August, including 25 deaths. 
 
 *Sources*:
- https://amnistia.org.ar/amnistia-internacional-alerta-sobre-la-actuacion-de-las-fuerzas-de-seguridad-durante-la-cuarentena-por-el-coronavirus/
+ https://www.hrw.org/news/2020/11/20/argentinas-violent-enforcement-covid-19-rules
+https://amnistia.org.ar/amnistia-internacional-alerta-sobre-la-actuacion-de-las-fuerzas-de-seguridad-durante-la-cuarentena-por-el-coronavirus/
 https://www.amnesty.org/en/latest/news/2020/05/americas-authorities-must-protect-people-covid19-repressive-measures/
 https://elpais.com/sociedad/2020-03-30/violencia-policial-en-argentina-cualquier-delito-incluso-el-asesinato-sera-legal-durante-12-horas.html
 https://www.infobae.com/politica/2020/04/01/la-ministra-de-seguridad-critico-los-abusos-de-las-policias-provinciales-en-el-control-de-la-cuarentena-seran-capacitados/
@@ -799,6 +947,7 @@ https://www.infobae.com/sociedad/policiales/2020/08/16/una-ong-afirma-que-durant
 https://www.infobae.com/sociedad/policiales/2020/08/16/por-sacar-a-pasear-al-perro-la-policia-intercepto-y-detuvo-con-violencia-a-una-mujer-en-bariloche/
 https://www.infobae.com/america/agencias/2020/08/20/argentina-alarma-por-excesos-policiales-en-cuarentena/
 https://www.lanacion.com.ar/seguridad/cuarentena-empresario-la-pampa-denuncio-policias-irrumpieron-nid2413633
+https://www.washingtonpost.com/es/post-opinion/2020/11/19/argentina-aislamiento-covid-represion-violencia-brutalidad-policial/
 
 
 
@@ -810,7 +959,7 @@ https://www.lanacion.com.ar/seguridad/cuarentena-empresario-la-pampa-denuncio-po
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -820,10 +969,13 @@ https://www.lanacion.com.ar/seguridad/cuarentena-empresario-la-pampa-denuncio-po
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -831,37 +983,7 @@ Time period: *Jul-Sep*: 1
  The military has been tasked with enforcing confinement measures. 
 
 *Sources*:
- https://www.infodefensa.com/latam/2020/03/25/noticia-paises-latinoamerica-despliegan-combatir-covid19.html
-http://servicios.infoleg.gob.ar/infolegInternet/anexos/335000-339999/335741/norma.htm
-https://www.infobae.com/sociedad/2020/04/15/asi-son-los-patrullajes-en-helicoptero-que-realiza-el-ejercito-para-controlar-el-cumplimiento-de-la-cuarentena/
-https://www.infodefensa.com/latam/2020/05/27/noticia-argentina-organizan-centros-aislamiento-barrios-infraviviendas.html
-
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-*Answer*: The judiciary was on "extraordinary recess" from March 20. In each province they returned to activies at a different time, between June and July. It took the Congress almost two months to begin online sessions and in the meantime all decisions were taken by the Executive. 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
- https://www.bbc.com/mundo/noticias-america-latina-52914804
-
-https://www.clarin.com/politica/coronavirus-argentina-corte-atenuo-feria-judicial-varias-jurisdicciones-interior-pais_0_-ohSWaDDx.html
-
-https://www.csjn.gov.ar/sentencias-acordadas-y-resoluciones/acordadas-de-la-corte-suprema
+ https://www.infodefensa.com/latam/2020/03/25/noticia-paises-latinoamerica-despliegan-combatir-covid19.html
+http://servicios.infoleg.gob.ar/infolegInternet/anexos/335000-339999/335741/norma.htm
+https://www.infobae.com/sociedad/2020/04/15/asi-son-los-patrullajes-en-helicoptero-que-realiza-el-ejercito-para-controlar-el-cumplimiento-de-la-cuarentena/
+https://www.infodefensa.com/latam/2020/05/27/noticia-argentina-organizan-centros-aislamiento-barrios-infraviviendas.html

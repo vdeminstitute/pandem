@@ -1,9 +1,6 @@
 # Central African Republic 
 
 
-Time 2020-09-10 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-10
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,19 +25,28 @@ Time 2020-09-10
  7. Other.
 
  
-*Answer*: 5 
+*Time period: Q2*: 5
+
+ 
+*Time period: Q3*: 5
+
+ 
+*Time period: Q4*: 5
+
+ 
 
 *Comments*:
- Central African Republic took a series of gradual measures, without a specific reference to a legal instrument. The measures were announced through Press Releases.
+ Central African Republic took a series of gradual measures, without a specific reference to a legal instrument. The measures were announced through Press releases.
 
 ''It was also highlighted that the Government seemed to refer to the Constitution primarily for electoral purposes instead of invoking it for addressing the country's urgent needs due to the disastrous impact of COVID-19.  The Constitution indeed authorises the President to declare a state of emergency or use 'exceptional powers' in exceptional circumstances. Declaring a state of emergency would have allowed the National Assembly to enact a public health emergency law to address the effects of the pandemic. However, the government did not make use of these provisions - or any specific law - as a basis for the de facto emergency measures that it imposed on the population.'' 
 
 *Sources*:
- https://cf.ambafrance.org/Informations-Coronavirus-Covid-19
-https://www.centrafrique-presse.info/article/13898/rca-covid-19-message-a-la-nation-de-son-excellence-le-professeur-faustin-archange-touadera-president-de-la-republique-chef-de-letat
-https://www.facebook.com/gouv.cf/photos/pcb.2594650120774731/2594650040774739/?type=3&theater
-https://www.facebook.com/gouv.cf/photos/pb.2107181279521620.-2207520000../2619835311589545/?type=3&theater
-https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19#C
+ https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-centrafricaine/
+https://cf.ambafrance.org/Informations-Coronavirus-Covid-19
+https://www.centrafrique-presse.info/article/13898/rca-covid-19-message-a-la-nation-de-son-excellence-le-professeur-faustin-archange-touadera-president-de-la-republique-chef-de-letat
+https://www.facebook.com/gouv.cf/photos/pcb.2594650120774731/2594650040774739/?type=3&theater
+https://www.facebook.com/gouv.cf/photos/pb.2107181279521620.-2207520000../2619835311589545/?type=3&theater
+https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19#C
 http://constitutionnet.org/news/covid-19-and-unamendable-limits-duration-presidential-and-legislative-terms-central-african
 
 
@@ -60,8 +66,15 @@ http://constitutionnet.org/news/covid-19-and-unamendable-limits-duration-preside
 *Scale*: Character string.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -86,8 +99,15 @@ http://constitutionnet.org/news/covid-19-and-unamendable-limits-duration-preside
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -112,8 +132,15 @@ http://constitutionnet.org/news/covid-19-and-unamendable-limits-duration-preside
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -141,8 +168,15 @@ http://constitutionnet.org/news/covid-19-and-unamendable-limits-duration-preside
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -160,15 +194,22 @@ http://constitutionnet.org/news/covid-19-and-unamendable-limits-duration-preside
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -186,7 +227,7 @@ http://constitutionnet.org/news/covid-19-and-unamendable-limits-duration-preside
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -196,8 +237,15 @@ http://constitutionnet.org/news/covid-19-and-unamendable-limits-duration-preside
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -225,8 +273,15 @@ http://constitutionnet.org/news/covid-19-and-unamendable-limits-duration-preside
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -252,13 +307,21 @@ http://constitutionnet.org/news/covid-19-and-unamendable-limits-duration-preside
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
  While the Constitution authorizes the president to declare a state of emergency, requiring that the National Assembly enact public health emergency laws, the president has thus far avoided this and the government has enacted social distancing measures and other restrictions through a series of gradual announcements without reference to a specific legal instrument. The legislature continues to convene but with social distancing guidelines. On 20 May, it questioned the government's response to the pandemic, citing poor performance despite its emergency measures. In addition, the Constitutional Court ruled on 05 June that it would be unconstitutional for the president and parliamentary terms to be extended due to the pandemic. Elections scheduled for December 2020 and May 2020, respectively should continue as planned.
@@ -271,12 +334,11 @@ IDEA
 Parliaments
 during
 the
-pandemic
-http://constitutionnet.org/news/covid-19-and-unamendable-limits-duration-presidential-and-legislative-terms-central-african
-http://www.rfi.fr/fr/afrique/20200410-rca-coronavirus-idee-prolongement-mandat-touadera-polemique
-http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20March%2021-27.pdf
-http://www.assembleenationale-rca.cf/covid-19-lassemblee-nationale-interdit-toute-visite-non-essentielle/
-https://www.africanews.com/2020/06/11/despite-covid-19-central-african-republic-court-says-polls-must-hold//
+pandemic
+http://constitutionnet.org/news/covid-19-and-unamendable-limits-duration-presidential-and-legislative-terms-central-african
+http://www.rfi.fr/fr/afrique/20200410-rca-coronavirus-idee-prolongement-mandat-touadera-polemique
+http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20March%2021-27.pdf
+https://www.africanews.com/2020/06/11/despite-covid-19-central-african-republic-court-says-polls-must-hold//
 http://www.rfi.fr/fr/afrique/20200419-centrafrique-rca-polemique-projet-loi-reforme-constitution-coronavirus
 
 
@@ -289,15 +351,22 @@ http://www.rfi.fr/fr/afrique/20200419-centrafrique-rca-polemique-projet-loi-refo
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -322,8 +391,15 @@ http://www.rfi.fr/fr/afrique/20200419-centrafrique-rca-polemique-projet-loi-refo
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -353,17 +429,27 @@ http://www.rfi.fr/fr/afrique/20200419-centrafrique-rca-polemique-projet-loi-refo
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- No sub-national variation.
-''CAR authorities imposed restrictive measures early on: border closures (with the exception of the Bangui-Bouar-Garoua-Mboulaye line), closure of places of worship, schools and universities, night clubs and dance halls, a ban on groups of more than 15 people, a ban on handshakes and embraces, systematic hand washing at the entrance to public buildings, restrictions on population movements to the hinterland, etc. These barrier measures taken for 15-day periods have been constantly renewed and reinforced as the pandemic spreads. According to the latest news (June 12, 2020), the country has now enforced the compulsory wearing of masks in public spaces. 
+ No sub-national variation.''CAR authorities imposed restrictive measures early on: border closures (with the exception of the Bangui-Bouar-Garoua-Mboulaye line), closure of places of worship, schools and universities, night clubs and dance halls, a ban on groups of more than 15 people, a ban on handshakes and embraces, systematic hand washing at the entrance to public buildings, restrictions on population movements to the hinterland, etc. These barrier measures taken for 15-day periods have been constantly renewed and reinforced as the pandemic spreads. According to the latest news (June 12, 2020), the country has now enforced the compulsory wearing of masks in public spaces.
+The same measures continued being in place during July-November. 
 
 *Sources*:
- https://www.ascleiden.nl/content/ascl-blogs/crepin-marius-mouguia/covid-19-central-african-republic-respecting-barriers
-https://www.africanews.com/2020/06/22/car-enforces-strict-measures-against-covid-19//
-https://www.centrafrique-presse.info/article/13898/rca-covid-19-message-a-la-nation-de-son-excellence-le-professeur-faustin-archange-touadera-president-de-la-republique-chef-de-letat
-https://www.facebook.com/gouv.cf/photos/pcb.2594650120774731/2594650040774739/?type=3&theater
+ https://cf.ambafrance.org/Informations-Coronavirus-Covid-19
+https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-centrafricaine/
+https://www.ascleiden.nl/content/ascl-blogs/crepin-marius-mouguia/covid-19-central-african-republic-respecting-barriers
+https://www.africanews.com/2020/06/22/car-enforces-strict-measures-against-covid-19//
+https://www.centrafrique-presse.info/article/13898/rca-covid-19-message-a-la-nation-de-son-excellence-le-professeur-faustin-archange-touadera-president-de-la-republique-chef-de-letat
+https://www.facebook.com/gouv.cf/photos/pcb.2594650120774731/2594650040774739/?type=3&theater
 https://www.facebook.com/gouv.cf/photos/pb.2107181279521620.-2207520000../2619835311589545/?type=3&theater
 
 
@@ -388,10 +474,13 @@ https://www.facebook.com/gouv.cf/photos/pb.2107181279521620.-2207520000../261983
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -399,11 +488,11 @@ Time period: *Jul-Sep*: 0
  No discrimination based on these rights. 
 
 *Sources*:
- https://www.ascleiden.nl/content/ascl-blogs/crepin-marius-mouguia/covid-19-central-african-republic-respecting-barriers
-https://reliefweb.int/report/central-african-republic/car-violence-against-women-surging-amid-covid-19-pandemic-study
-https://www.ituc-africa.org/Management-of-the-COVID-19-crisis-in-Central-Africa.html
-https://www.centrafrique-presse.info/article/13898/rca-covid-19-message-a-la-nation-de-son-excellence-le-professeur-faustin-archange-touadera-president-de-la-republique-chef-de-letat
-https://www.facebook.com/gouv.cf/photos/pcb.2594650120774731/2594650040774739/?type=3&theater
+ https://www.ascleiden.nl/content/ascl-blogs/crepin-marius-mouguia/covid-19-central-african-republic-respecting-barriers
+https://reliefweb.int/report/central-african-republic/car-violence-against-women-surging-amid-covid-19-pandemic-study
+https://www.ituc-africa.org/Management-of-the-COVID-19-crisis-in-Central-Africa.html
+https://www.centrafrique-presse.info/article/13898/rca-covid-19-message-a-la-nation-de-son-excellence-le-professeur-faustin-archange-touadera-president-de-la-republique-chef-de-letat
+https://www.facebook.com/gouv.cf/photos/pcb.2594650120774731/2594650040774739/?type=3&theater
 https://www.facebook.com/gouv.cf/photos/pb.2107181279521620.-2207520000../2619835311589545/?type=3&theater
 
 
@@ -433,10 +522,13 @@ https://www.facebook.com/gouv.cf/photos/pb.2107181279521620.-2207520000../261983
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -444,11 +536,11 @@ Time period: *Jul-Sep*: 0
  No violation of non-derogable rights. 
 
 *Sources*:
- https://www.ascleiden.nl/content/ascl-blogs/crepin-marius-mouguia/covid-19-central-african-republic-respecting-barriers
-https://reliefweb.int/report/central-african-republic/car-violence-against-women-surging-amid-covid-19-pandemic-study
-https://www.ituc-africa.org/Management-of-the-COVID-19-crisis-in-Central-Africa.html
-https://www.centrafrique-presse.info/article/13898/rca-covid-19-message-a-la-nation-de-son-excellence-le-professeur-faustin-archange-touadera-president-de-la-republique-chef-de-letat
-https://www.facebook.com/gouv.cf/photos/pcb.2594650120774731/2594650040774739/?type=3&theater
+ https://www.ascleiden.nl/content/ascl-blogs/crepin-marius-mouguia/covid-19-central-african-republic-respecting-barriers
+https://reliefweb.int/report/central-african-republic/car-violence-against-women-surging-amid-covid-19-pandemic-study
+https://www.ituc-africa.org/Management-of-the-COVID-19-crisis-in-Central-Africa.html
+https://www.centrafrique-presse.info/article/13898/rca-covid-19-message-a-la-nation-de-son-excellence-le-professeur-faustin-archange-touadera-president-de-la-republique-chef-de-letat
+https://www.facebook.com/gouv.cf/photos/pcb.2594650120774731/2594650040774739/?type=3&theater
 https://www.facebook.com/gouv.cf/photos/pb.2107181279521620.-2207520000../2619835311589545/?type=3&theater
 
 
@@ -473,16 +565,25 @@ https://www.facebook.com/gouv.cf/photos/pb.2107181279521620.-2207520000../261983
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No evidence on media limitations found in the emergency measures. 
 
 *Sources*:
- https://www.ascleiden.nl/content/ascl-blogs/crepin-marius-mouguia/covid-19-central-african-republic-respecting-barriers
-https://www.ituc-africa.org/Management-of-the-COVID-19-crisis-in-Central-Africa.html
-https://www.centrafrique-presse.info/article/13898/rca-covid-19-message-a-la-nation-de-son-excellence-le-professeur-faustin-archange-touadera-president-de-la-republique-chef-de-letat
-https://www.facebook.com/gouv.cf/photos/pcb.2594650120774731/2594650040774739/?type=3&theater
+ https://cf.ambafrance.org/Informations-Coronavirus-Covid-19
+https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-centrafricaine/
+https://www.ascleiden.nl/content/ascl-blogs/crepin-marius-mouguia/covid-19-central-african-republic-respecting-barriers
+https://www.ituc-africa.org/Management-of-the-COVID-19-crisis-in-Central-Africa.html
+https://www.centrafrique-presse.info/article/13898/rca-covid-19-message-a-la-nation-de-son-excellence-le-professeur-faustin-archange-touadera-president-de-la-republique-chef-de-letathttps://www.facebook.com/gouv.cf/photos/pcb.2594650120774731/2594650040774739/?type=3&theater
 https://www.facebook.com/gouv.cf/photos/pb.2107181279521620.-2207520000../2619835311589545/?type=3&theater
 
 
@@ -495,15 +596,22 @@ https://www.facebook.com/gouv.cf/photos/pb.2107181279521620.-2207520000../261983
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -521,15 +629,22 @@ https://www.facebook.com/gouv.cf/photos/pb.2107181279521620.-2207520000../261983
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -557,21 +672,24 @@ https://www.facebook.com/gouv.cf/photos/pb.2107181279521620.-2207520000../261983
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- No de facto media limitations on the nature of covid19. 
+ The media and journalists in CAR face many challenges: ''As the CAR struggles to emerge from the violence of a civil war in which newspaper offices were ransacked and radio stations were destroyed, attacks on the media continue, journalists are still caught between the various warring parties and still in danger, and impunity for crimes of violence against them is total.'' (RSF) 
 
 *Sources*:
- https://en.ejo.ch/ethics-quality/central-african-republic-coronavirus-and-the-media
-https://rsf.org/en/central-african-republic
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+ https://en.ejo.ch/ethics-quality/central-african-republic-coronavirus-and-the-media
+https://rsf.org/en/central-african-republic
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
 https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
 
 
@@ -584,7 +702,7 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -594,21 +712,24 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- No de facto media limitations on the government response to covid19. 
+ The media and journalists in CAR face many challenges: ''As the CAR struggles to emerge from the violence of a civil war in which newspaper offices were ransacked and radio stations were destroyed, attacks on the media continue, journalists are still caught between the various warring parties and still in danger, and impunity for crimes of violence against them is total.'' (RSF) 
 
 *Sources*:
- https://en.ejo.ch/ethics-quality/central-african-republic-coronavirus-and-the-media
-https://rsf.org/en/central-african-republic
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+ https://en.ejo.ch/ethics-quality/central-african-republic-coronavirus-and-the-media
+https://rsf.org/en/central-african-republic
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
 https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
 
 
@@ -631,10 +752,13 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -642,10 +766,10 @@ Time period: *Jul-Sep*: 0
  No such evidence was found. 
 
 *Sources*:
- https://en.ejo.ch/ethics-quality/central-african-republic-coronavirus-and-the-media
-https://rsf.org/en/central-african-republic
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+ https://en.ejo.ch/ethics-quality/central-african-republic-coronavirus-and-the-media
+https://rsf.org/en/central-african-republic
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
 https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
 
 
@@ -665,28 +789,32 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- There are reports that CAR's Minister of Health, Pierre Somse, attempted to ''impose a virtual monopoly on his word, barring his administration and hospital doctors from testifying.'' (''Au moment où la croissance de l’épidémie devenait exponentielle, le ministre de la Santé, Pierre Somse, a tenté d’imposer un quasi-monopole de sa parole, en interdisant à son administration et aux médecins des hôpitaux de témoigner.'') (1)
-
-Also, it is mentioned that the Central African Bloggers’ Association (ABCA) launched a site, Talato (“radar” in Sangho), with the aim of mapping the pandemic and fact-checking doubtful claims:
+ There are reports that CAR's Minister of Health, Pierre Somse, attempted to ''impose a virtual monopoly on his word, barring his administration and hospital doctors from testifying.'' (''Au moment où la croissance de l’épidémie devenait exponentielle, le ministre de la Santé, Pierre Somse, a tenté d’imposer un quasi-monopole de sa parole, en interdisant à son administration et aux médecins des hôpitaux de témoigner.'') (1)
+
+Also, it is mentioned that the Central African Bloggers’ Association (ABCA) launched a site, Talato (“radar” in Sangho), with the aim of mapping the pandemic and fact-checking doubtful claims:
 ...the authorities are not so happy with this approach, as they cannot control it.  “They prefer a more institutional coverage, like you get on Guira FM [the radio station of the United Nations Integrated Multidimensional Stabilisation Mission in the CAR] or on the national radio station, known as the ‘mother radio’,” says one journalist who prefers not to be named. “If you want to go beyond the traditional press conference, you can have a real problem with gaining access to sources.”'' (2) 
 
 *Sources*:
  https://fr.ejo.ch/formats-pratiques/republique-centrafricaine-covid-19-menace-developpement-durable-medias-radio-afrique
-(1)
+(1)
 https://en.ejo.ch/ethics-quality/central-african-republic-coronavirus-and-the-media
-(2)
+(2)
+
 https://rsf.org/fr/republique-centrafricaine
 
 
@@ -709,10 +837,13 @@ https://rsf.org/fr/republique-centrafricaine
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -720,9 +851,12 @@ Time period: *Jul-Sep*: 0
  No evidence was found. 
 
 *Sources*:
- https://rsf.org/en/central-african-republic
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+ https://rsf.org/en/central-african-republic
+
+https://ipi.media/covid19-media-freedom-monitoring/
+
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+
 https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
 
 
@@ -745,10 +879,13 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -756,9 +893,12 @@ Time period: *Jul-Sep*: 0
  No evidence was found. 
 
 *Sources*:
- https://rsf.org/en/central-african-republic
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+ https://rsf.org/en/central-african-republic
+
+https://ipi.media/covid19-media-freedom-monitoring/
+
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+
 https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
 
 
@@ -783,10 +923,13 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
@@ -821,10 +964,13 @@ No evidence was found on whether the government changed its policy on the use of
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -833,6 +979,7 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://www.reuters.com/article/us-health-coronavirus-africa-police/in-parts-of-africa-police-are-accused-of-excess-force-amid-coronavirus-lockdowns-idUSKCN21S0M92
+https://www.un.org/press/fr/2020/cs14331.doc.htm
 
 
 
@@ -844,7 +991,7 @@ Time period: *Jul-Sep*: 0
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -854,10 +1001,13 @@ Time period: *Jul-Sep*: 0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -865,31 +1015,6 @@ Time period: *Jul-Sep*: 0
  No indication of the military being involved. 
 
 *Sources*:
- https://cf.ambafrance.org/Informations-Coronavirus-Covid-19
+ https://cf.ambafrance.org/Informations-Coronavirus-Covid-19
+
 https://www.africanews.com/2020/03/04/central-african-republic-recruits-1000-police-officers//
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

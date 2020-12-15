@@ -1,9 +1,6 @@
 # Somalia 
 
 
-Time 2020-09-07 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-07
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,13 +25,24 @@ Time 2020-09-07
  7. Other.
 
  
-*Answer*: 5 
+*Time period: Q2*: 5
+
+ 
+*Time period: Q3*: 5
+
+ 
+*Time period: Q4*: 5
+
+ 
 
 *Comments*:
- On March 16, the Somali government established an emergency task force comprised of Government Line Ministries, Donors, UN agencies and NGOs. The Somali health authorities are exercising heightened public health vigilance to prevent further importation and local transmission and as such have put in place several recommended public health measures. No legal instrument is referred to. 
+ On March 16, the Somali government established an emergency task force comprised of Government Line Ministries, Donors, UN agencies and NGOs. The Somali health authorities are exercising heightened public health vigilance to prevent further importation and local transmission and as such have put in place several recommended public health measures. No legal instrument is referred to.
+
+According to Garda, "As of Dec. 4, authorities in Somalia continue to maintain measures and restrictions put in place to limit the spread of coronavirus disease (COVID-19)," with no reference to the legal instrument. Emlaw is therefore coded as 5 for all time periods. 
 
 *Sources*:
  https://reliefweb.int/report/somalia/covid-19-preparedness-response-plan-sws-somalia-march-july-2020
+https://www.garda.com/crisis24/news-alerts/408321/somalia-authorities-are-maintaining-restrictions-as-of-december-4-due-to-covid-19-activity-domestic-and-international-flights-ongoing-update-5
 
 
 
@@ -53,8 +61,15 @@ Time 2020-09-07
 *Scale*: Character string.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as no legal instrument (variable emlaw) was used. 
@@ -79,8 +94,15 @@ Time 2020-09-07
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as no legal instrument (variable emlaw) was used. 
@@ -105,15 +127,24 @@ Time 2020-09-07
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No end date for the operations and measures by the emergency task force was found. 
 
 *Sources*:
- https://reliefweb.int/report/somalia/covid-19-preparedness-response-plan-sws-somalia-march-july-2020
-
+ https://reliefweb.int/report/somalia/covid-19-preparedness-response-plan-sws-somalia-march-july-2020
+
+
+
 https://www.somalia.gov.so/
 
 
@@ -136,14 +167,25 @@ https://www.somalia.gov.so/
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- No end date for the operations and measures by the emergency task force was found. 
+ No end date for the operations and measures by the emergency task force was found. Left blank as no legal instrument (variable emlaw) was used. 
 
 *Sources*:
- https://reliefweb.int/report/somalia/covid-19-preparedness-response-plan-sws-somalia-march-july-2020
-
+ https://reliefweb.int/report/somalia/covid-19-preparedness-response-plan-sws-somalia-march-july-2020
+https://reliefweb.int/report/somalia/ocha-somalia-update-5-overview-covid-19-directives-30-may-2020
+
+
+
 https://www.somalia.gov.so/
 
 
@@ -156,15 +198,22 @@ https://www.somalia.gov.so/
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as no legal instrument (variable emlaw) was used. 
@@ -182,7 +231,7 @@ https://www.somalia.gov.so/
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -192,8 +241,15 @@ https://www.somalia.gov.so/
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as no legal instrument (variable emlaw) was used. 
@@ -221,8 +277,15 @@ https://www.somalia.gov.so/
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as no legal instrument (variable emlaw) was used. 
@@ -248,23 +311,37 @@ https://www.somalia.gov.so/
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The session of the Somali parliament was postponed until 06 June due to Covid-19 but appears to have continued meetings since then. The country is preparing for upcoming elections. No information suggesting that the legislature is limited in its role due to the coronavirus response measures was found. 
+ March-June: The session of the Somali parliament was postponed from 20 April until 06 June due to Covid-19 but appears to have continued meetings since then. 
+
+July-September, October-December: No information suggesting that the legislature is limited in its role due to the coronavirus response measures was found. 
 
 *Sources*:
- https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B520%5D&covid19=1
-
-https://www.garoweonline.com/en/news/somalia/somalia-opening-of-parliament-postponed-amid-alleged-rift-between-farmajo-and-pm
-
-https://allafrica.com/stories/202006120208.html
+ https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B520%5D&covid19=1
+https://www.somaliaffairs.com/news/reopening-of-somalia-parliament-postponed-over-covid-19/
+https://www.garoweonline.com/en/news/somalia/somalia-opening-of-parliament-postponed-amid-alleged-rift-between-farmajo-and-pm
+https://allafrica.com/stories/202006120208.html
+https://somalilandstandard.com/somalias-federal-parliament-to-return-from-recess-on-6th-june/
+https://apnews.com/article/e252bd5be4215415d181401c86f520c6
+
+
 
 
 
@@ -277,21 +354,29 @@ https://allafrica.com/stories/202006120208.html
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 2020-04-20
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
+*No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://www.somaliaffairs.com/news/reopening-of-somalia-parliament-postponed-over-covid-19/
+https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
 
 
 
@@ -310,14 +395,22 @@ https://allafrica.com/stories/202006120208.html
 *Scale*: Date format.
 
  
+*Time period: Q2*: 2020-06-06
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
+*No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://somalilandstandard.com/somalias-federal-parliament-to-return-from-recess-on-6th-june/
+https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
 
 
 
@@ -341,16 +434,23 @@ https://allafrica.com/stories/202006120208.html
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The measures appear to have been more or less uniform across the country. 
 
 *Sources*:
- https://so.usembassy.gov/covid-19-information/
-
-https://www.un.org/en/coronavirus/somalia-braces-covid-19
-
+ https://so.usembassy.gov/covid-19-information/
+
+https://www.un.org/en/coronavirus/somalia-braces-covid-19
 https://www.somalia.gov.so/
 
 
@@ -375,10 +475,13 @@ https://www.somalia.gov.so/
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -386,13 +489,10 @@ Time period: *Jul-Sep*: 0
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- https://www.bbc.com/news/topics/cnx753jejqwt/somalia
-
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-
-https://www.amnesty.org/en/search/?country=38635&resourceType=newsarticle&sort=date
-
+ https://www.bbc.com/news/topics/cnx753jejqwt/somalia
+https://www.amnesty.org/en/search/?country=38635&resourceType=newsarticle&sort=date
 https://www.hrw.org/africa/somalia
+https://reliefweb.int/sites/reliefweb.int/files/resources/IOM_Eastern%20Corridor%20Migrant%20Situation_18112020.pdf
 
 
 
@@ -421,10 +521,13 @@ https://www.hrw.org/africa/somalia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -432,10 +535,7 @@ Time period: *Jul-Sep*: 0
  No emergency measures that de-jure violate non-derogable rights as defined by the ICCPR, was found. 
 
 *Sources*:
- https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-
-https://www.amnesty.org/en/search/?country=38635&resourceType=newsarticle&sort=date
-
+ https://www.amnesty.org/en/search/?country=38635&resourceType=newsarticle&sort=date
 https://www.hrw.org/africa/somalia
 
 
@@ -460,7 +560,15 @@ https://www.hrw.org/africa/somalia
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  There appears to be a prohibition of "publication of false, exaggerated news" in force, but information indicating that this was part of their covid-19 response was not found. 
@@ -478,15 +586,22 @@ https://www.hrw.org/africa/somalia
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -504,15 +619,22 @@ https://www.hrw.org/africa/somalia
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -540,21 +662,22 @@ https://www.hrw.org/africa/somalia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- "Journalists who reported on the spread of the virus or wrote stories about the impact of the virus - such as a shortage of masks and sanitizers in the local markets - were either blocked or threatened." 
+ "Journalists who reported on the spread of the virus or wrote stories about the impact of the virus - such as a shortage of masks and sanitizers in the local markets - were either blocked or threatened." I found no evidence that the violations stopped, so merepfact is coded as 1 in all time periods. 
 
 *Sources*:
  https://www.hrw.org/news/2020/05/02/somalia-spate-arrests-intimidation-journalists
-
 https://cpj.org/2020/04/somali-journalist-abdalle-ahmed-mumin-says-there-i/
-
 https://freedomhouse.org/country/somalia/freedom-world/2020
 
 
@@ -567,7 +690,7 @@ https://freedomhouse.org/country/somalia/freedom-world/2020
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -577,26 +700,27 @@ https://freedomhouse.org/country/somalia/freedom-world/2020
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- A journalist was jailed for having alleged the government had mismanaged its COVID-19 response, and criticized the President. State prosecutors alleged that he had spread false news and offended the honor of the president. He was later senteced to six months in prison.
-
-Also: A Somalia journalist was assaulted and detained by police while covering a COVID-19 awareness programme in Mogadishu. 
+ A journalist was jailed for having alleged the government had mismanaged its COVID-19 response, and criticized the President. State prosecutors alleged that he had spread false news and offended the honor of the president. He was later senteced to six months in prison. Also: A Somalia journalist was assaulted and detained by police while covering a COVID-19 awareness programme in Mogadishu. I found no evidence that the violations stopped, so merepgov is coded as 1 in all time periods.
+
+ 
 
 *Sources*:
  https://www.hrw.org/news/2020/05/02/somalia-spate-arrests-intimidation-journalists
-
 https://cpj.org/2020/04/somali-journalist-abdiaziz-ahmed-gurbiye-arrested/
-
 https://cpj.org/2020/07/somali-court-sentences-editor-to-6-months-in-prison-for-spreading-false-news/
-
 https://www.voanews.com/extremism-watch/somali-journalists-arrested-intimidated-while-covering-covid-19
+https://www.hrw.org/news/2020/07/06/baseless-charges-against-prominent-somali-journalist
 
 
 
@@ -618,10 +742,13 @@ https://www.voanews.com/extremism-watch/somali-journalists-arrested-intimidated-
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -629,10 +756,8 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government is de-facto limiting media reporting about non-Covid-19 related news, but with reference to the pandemic, was found. 
 
 *Sources*:
- https://www.hrw.org/africa/somalia
-
-https://www.amnesty.org/en/countries/africa/somalia/
-
+ https://www.hrw.org/africa/somalia
+https://www.amnesty.org/en/countries/africa/somalia/
 https://rsf.org/en/somalia
 
 
@@ -652,24 +777,27 @@ https://rsf.org/en/somalia
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
- The health minister told journalists during a press conference, that Covid-19 related information could only be obtained from the deputy minister and the coronavirus task force spokesperson. But reporters have found it difficult in getting the information they need from these sources. 
+ The health minister told journalists during a press conference, that Covid-19 related information could only be obtained from the deputy minister and the coronavirus task force spokesperson. But reporters have found it difficult in getting the information they need from these sources. According to a BBC investigation, the authorities are likely underestimating the number of dealths due to Covid-19. 
 
 *Sources*:
  https://cpj.org/2020/04/somali-journalist-abdalle-ahmed-mumin-says-there-i/
-
 https://rsf.org/en/news/somali-officials-cannot-claim-covid-19-information-monopoly-rsf-and-nusoj-say
+https://www.bbc.com/news/av/world-africa-53521563
 
 
 
@@ -691,21 +819,22 @@ https://rsf.org/en/news/somali-officials-cannot-claim-covid-19-information-monop
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The state is investigating and jailing journalists, accusing them of offending the honor or prestige of the head of state, or spreading fake news. Also, and more clearly verbal harassment, an official from the presidential palace reached a journalist via Twitter asking him where he got his sources. 
+ The state is investigating and jailing journalists, accusing them of offending the honor or prestige of the head of state, or spreading fake news. Also, and more clearly verbal harassment, an official from the presidential palace reached a journalist via Twitter asking him where he got his sources.  I found no evidence that the violations stopped, so mevhar is coded as 1 in all time periods. 
 
 *Sources*:
  https://www.voanews.com/extremism-watch/somali-journalists-arrested-intimidated-while-covering-covid-19
-
 https://cpj.org/2020/04/somali-journalist-abdiaziz-ahmed-gurbiye-arrested/
-
 https://www.hrw.org/news/2020/05/02/somalia-spate-arrests-intimidation-journalists
 
 
@@ -728,15 +857,18 @@ https://www.hrw.org/news/2020/05/02/somalia-spate-arrests-intimidation-journalis
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Police officers in Mogadishu's Bondhere district briefly detained and harassed Somali Cable TV reporter, Abdullahi Farah Nur, and slapped his cameraman Abdirahman Omar on the face. Also: A Somalia journalist was assaulted and detained by police while covering a COVID-19 awareness programme in Mogadishu. 
+ Police officers in Mogadishu's Bondhere district briefly detained and harassed Somali Cable TV reporter, Abdullahi Farah Nur, and slapped his cameraman Abdirahman Omar on the face. Also: A Somalia journalist was assaulted and detained by police while covering a COVID-19 awareness programme in Mogadishu.  I found no evidence that the violations stopped, so mephar is coded as 1 in all time periods. 
 
 *Sources*:
  https://ipi.media/covid19-media-freedom-monitoring/
@@ -763,10 +895,13 @@ Time period: *Jul-Sep*: 0
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -774,10 +909,8 @@ Time period: *Jul-Sep*: 0
  The information from the government is similar to the information from WHO. 
 
 *Sources*:
- https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
-
-https://moh.gov.so/en/covid19/
-
+ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+https://moh.gov.so/en/covid19/
 https://moh.gov.so/en/
 
 
@@ -802,21 +935,21 @@ https://moh.gov.so/en/
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- In late April, a police officer in Mogadishu was arrested for shooting at least one civilian while he was enforcing restrictions over the pandemic.
-
-There are no further cases reported. 
+ In late April, a police officer in Mogadishu was arrested for shooting at least one civilian while he was enforcing restrictions over the pandemic. Since it is one incident and no further cases of police violence in the implementation of Covid-19 measures are reported, pomviol is coded as 0 in July-September, October-December 2020. 
 
 *Sources*:
- https://www.africanews.com/2020/04/26/somalians-protest-over-fatal-police-shooting-to-enforce-lockdown//
-
+ https://www.africanews.com/2020/04/26/somalians-protest-over-fatal-police-shooting-to-enforce-lockdown
 https://www.aljazeera.com/news/2020/04/anger-mogadishu-police-kill-civilian-covid-19-curfew-200425143536573.html
 
 
@@ -829,7 +962,7 @@ https://www.aljazeera.com/news/2020/04/anger-mogadishu-police-kill-civilian-covi
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -839,10 +972,13 @@ https://www.aljazeera.com/news/2020/04/anger-mogadishu-police-kill-civilian-covi
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -850,36 +986,7 @@ Time period: *Jul-Sep*: 0
  No information was found that indicates that the military has been involved in any confinement measures. 
 
 *Sources*:
- https://www.bbc.com/news/topics/cnx753jejqwt/somalia
-
-https://so.usembassy.gov/covid-19-information/
-
-https://www.un.org/en/coronavirus/somalia-braces-covid-19
-
+ https://www.bbc.com/news/topics/cnx753jejqwt/somalia
+https://so.usembassy.gov/covid-19-information/
+https://www.un.org/en/coronavirus/somalia-braces-covid-19
 https://www.somalia.gov.so/
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

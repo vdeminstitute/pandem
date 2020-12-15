@@ -1,9 +1,6 @@
 # Zimbabwe 
 
 
-Time 2020-09-20 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-20
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,13 +25,22 @@ Time 2020-09-20
  7. Other.
 
  
-*Answer*: 3 
+*Time period: Q2*: 3
+
+ 
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
+
+ 
 
 *Comments*:
  A state of disaster is declared on March 23, in the "Civil Protection (Declaration of State of Disaster: Rural and Urban Areas of Zimbabwe) (COVID-19) Notice, 2020" 
 
 *Sources*:
- https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
+ https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
+
 
 
 
@@ -54,13 +60,22 @@ Time 2020-09-20
 *Scale*: Character string.
 
  
-*Answer*: State of Disaster 
+*Time period: Q2*: State of Disaster
+
+ 
+*Time period: Q3*: State of Disaster
+
+ 
+*Time period: Q4*: State of Disaster
+
+ 
 
 *Comments*:
  A state of disaster is declared on March 23, in the "Civil Protection (Declaration of State of Disaster: Rural and Urban Areas of Zimbabwe) (COVID-19) Notice, 2020" 
 
 *Sources*:
- https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
+ https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
+
 
 
 
@@ -80,13 +95,22 @@ Time 2020-09-20
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-23 
+*Time period: Q2*: 2020-03-23
+
+ 
+*Time period: Q3*: 2020-03-23
+
+ 
+*Time period: Q4*: 2020-03-23
+
+ 
 
 *Comments*:
  A state of disaster is declared on March 23, in the "Civil Protection (Declaration of State of Disaster: Rural and Urban Areas of Zimbabwe) (COVID-19) Notice, 2020" 
 
 *Sources*:
- https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
+ https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
+
 
 
 
@@ -106,21 +130,36 @@ Time 2020-09-20
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The Civil Protection Act, section 27:2: "The declaration of a state of disaster in terms of subsection (1) shall remain in force for a period of three months, the President may, from time to time, by statutory instrument, extend such declaration". The state of disaster has not been found to no longer be in effect, and the measures, such as lockdown, are extended for an indefinite period. Thus, it seems the state of disaster is still in effect. 
 
 *Sources*:
- https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
-
-https://gazettes.africa/gazettes/zw-government-gazette-dated-2020-05-02-no-40
-
-https://www.garda.com/crisis24/news-alerts/342951/zimbabwe-authorities-indefinitely-extend-covid-19-lockdown-measures-may-16-update-8
-
-https://allafrica.com/stories/202005160271.html
-
+ https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
+
+
+
+https://gazettes.africa/gazettes/zw-government-gazette-dated-2020-05-02-no-40
+
+
+
+https://www.garda.com/crisis24/news-alerts/342951/zimbabwe-authorities-indefinitely-extend-covid-19-lockdown-measures-may-16-update-8
+
+
+
+https://allafrica.com/stories/202005160271.html
+
+
+
 https://zw.usembassy.gov/covid-19-information-2/
 
 
@@ -143,7 +182,15 @@ https://zw.usembassy.gov/covid-19-information-2/
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No official time limit, sunset clause, or end date is indicated in the Civil Protection Notice. 
@@ -161,15 +208,22 @@ https://zw.usembassy.gov/covid-19-information-2/
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there is no official end date (variable emlimit). 
@@ -187,7 +241,7 @@ https://zw.usembassy.gov/covid-19-information-2/
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -197,7 +251,15 @@ https://zw.usembassy.gov/covid-19-information-2/
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The President does not need the approval of Parliament to declare a state of disaster, according to section 27 of the Civil Protection Act. The Parliament is merely informed that such declaration has been made. Section 28 of the Civil Protection Act states: "Where a state of disaster has been declared in terms of section twenty-seven, the Minister shall communicate such declaration to Parliament on the day that it next sits after the declaration is made." 
@@ -225,7 +287,15 @@ https://zw.usembassy.gov/covid-19-information-2/
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The President does not need the approval of Parliament to declare a state of disaster, according to section 27 of the Civil Protection Act. The Parliament is merely informed that such declaration has been made. Section 28 of the Civil Protection Act states: "Where a state of disaster has been declared in terms of section twenty-seven, the Minister shall communicate such declaration to Parliament on the day that it next sits after the declaration is made." 
@@ -251,38 +321,70 @@ https://zw.usembassy.gov/covid-19-information-2/
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- According to the Civil Protection Notice, "In pursuance of the object of these regulations the Minister may (in consultation with the President, and in conformity with any directions the President may give) by orders published in the Gazette ... impose restrictions" on several areas to hinder the spread of covid-19. The legislature has adjourned a week earlier (18 March) than scheduled due to Covid-19, and after reconvening on 05 May, adjourned again until 19 May.
-
-On 28 July 2020, the legislature adjurned business to 25 August after members of Parliament and staff had tested positive to Covid-19. On 25 August, the parliament sat for only 20 minutes to swear in a new MP. The legislature was further adjourned to 1 September. 
+ According to the Civil Protection Notice, "In pursuance of the object of these regulations the Minister may (in consultation with the President, and in conformity with any directions the President may give) by orders published in the Gazette ... impose restrictions" on several areas to hinder the spread of covid-19. The legislature has adjourned a week earlier (18 March) than scheduled due to Covid-19, and after reconvening on 05 May, adjourned again until 19 May.
+
+
+On 28 July 2020, the legislature adjurned business to 25 August after members of Parliament and staff had tested positive to Covid-19. On 25 August, the parliament sat for only 20 minutes to swear in a new MP. The legislature was further adjourned to 1 September.
+
+
+The limits on the legislature from the Civil Protection Notice remain in place - allowing the Minister in consultation with the President - to rule by decree on Covid-19 related measures. 
 
 *Sources*:
- https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
-
-https://www.parlzim.gov.zw/administration/clerk-of-parliament/clerk-s-blog/press-statement-parliament-and-covid-19-response-04-2020
-
-https://www.parlzim.gov.zw/national-assembly-hansard/national-assembly-hansard-18-march-2020-vol-46-no-36
-
-https://www.parlzim.gov.zw/national-assembly-hansard/national-assembly-hansard-5-may-2020-vol-46-no-37
-
-https://www.parlzim.gov.zw/national-assembly-hansard/national-assembly-hansard-28-july-2020-vol-46-no-57
-
-https://allafrica.com/stories/202007290285.html
-
-https://www.parlzim.gov.zw/national-assembly-hansard/national-assembly-hansard-25-august-2020-vol-46-no-58
-
-http://www.newsdzezimbabwe.co.uk/2020/08/parly-sits-for-less-than-20-minutes.html
-
-https://www.insiderzim.com/zimbabwe-parliament-adjourns-until-5-may-due-to-coronavirus/
-
+ https://allafrica.com/stories/202010220733.html
+
+https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
+
+
+
+https://www.parlzim.gov.zw/administration/clerk-of-parliament/clerk-s-blog/press-statement-parliament-and-covid-19-response-04-2020
+
+
+
+https://www.parlzim.gov.zw/national-assembly-hansard/national-assembly-hansard-18-march-2020-vol-46-no-36
+
+
+
+https://www.parlzim.gov.zw/national-assembly-hansard/national-assembly-hansard-5-may-2020-vol-46-no-37
+
+
+
+https://www.parlzim.gov.zw/national-assembly-hansard/national-assembly-hansard-28-july-2020-vol-46-no-57
+
+
+
+https://allafrica.com/stories/202007290285.html
+
+
+
+https://www.parlzim.gov.zw/national-assembly-hansard/national-assembly-hansard-25-august-2020-vol-46-no-58
+
+
+
+http://www.newsdzezimbabwe.co.uk/2020/08/parly-sits-for-less-than-20-minutes.html
+
+
+
+https://www.insiderzim.com/zimbabwe-parliament-adjourns-until-5-may-due-to-coronavirus/
+
+
+
 https://allafrica.com/stories/202004290621.html
 
 
@@ -295,15 +397,22 @@ https://allafrica.com/stories/202004290621.html
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
@@ -328,8 +437,15 @@ https://allafrica.com/stories/202004290621.html
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
@@ -359,16 +475,28 @@ https://allafrica.com/stories/202004290621.html
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The measures appear to have been more or less uniform across the country. 
 
 *Sources*:
- https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
-
-https://gazettes.africa/gazettes/zw-government-gazette-dated-2020-05-02-no-40
-
+ https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
+
+
+
+https://gazettes.africa/gazettes/zw-government-gazette-dated-2020-05-02-no-40
+
+
+
 https://www.garda.com/crisis24/news-alerts/362041/zimbabwe-government-imposes-new-curfew-and-covid-19-lockdown-measures-amid-surge-in-cases-july-22-update-12
 
 
@@ -393,10 +521,13 @@ https://www.garda.com/crisis24/news-alerts/362041/zimbabwe-government-imposes-ne
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -404,10 +535,14 @@ Time period: *Jul-Sep*: 0
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
-
-https://www.hrw.org/africa/zimbabwe
-
+ https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
+
+
+
+https://www.hrw.org/africa/zimbabwe
+
+
+
 https://www.amnesty.org/en/countries/africa/zimbabwe/
 
 
@@ -437,24 +572,34 @@ https://www.amnesty.org/en/countries/africa/zimbabwe/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No evidence was found that any of the emergency measures de-jure violated
+ No evidence was found that any of the emergency measures de-jure violated
+
 non-derogable rights as defined by the ICCPR. 
 
 *Sources*:
- https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-
-https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
-
-https://www.hrw.org/africa/zimbabwe
-
+ https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
+
+
+
+https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
+
+
+
+https://www.hrw.org/africa/zimbabwe
+
+
+
 https://www.amnesty.org/en/countries/africa/zimbabwe/
 
 
@@ -479,18 +624,32 @@ https://www.amnesty.org/en/countries/africa/zimbabwe/
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No de-jure limitations of media freedom as part of the Covid-19 emergency measures were found. 
 
 *Sources*:
- https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
-
-https://cpj.org/africa/zimbabwe/
-
-https://rsf.org/en/thematique/internet?countries%5B52%5D=52
-
+ https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
+
+
+
+https://cpj.org/africa/zimbabwe/
+
+
+
+https://rsf.org/en/thematique/internet?countries%5B52%5D=52
+
+
+
 https://ipi.media/zimbabwe/
 
 
@@ -503,15 +662,22 @@ https://ipi.media/zimbabwe/
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -529,15 +695,22 @@ https://ipi.media/zimbabwe/
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -565,10 +738,13 @@ https://ipi.media/zimbabwe/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -576,12 +752,18 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
 
 *Sources*:
- https://www.bbc.com/news/topics/crr7mlg0rpvt/zimbabwe
-
-https://cpj.org/africa/zimbabwe/
-
-https://rsf.org/en/thematique/internet?countries%5B52%5D=52
-
+ https://www.bbc.com/news/topics/crr7mlg0rpvt/zimbabwe
+
+
+
+https://cpj.org/africa/zimbabwe/
+
+
+
+https://rsf.org/en/thematique/internet?countries%5B52%5D=52
+
+
+
 https://ipi.media/zimbabwe/
 
 
@@ -594,7 +776,7 @@ https://ipi.media/zimbabwe/
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -604,33 +786,44 @@ https://ipi.media/zimbabwe/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
  Several journalists have had their phones confiscated, forced to delete photo, and arrested for e.g. breaking lockdown or having an expired press card, while they were covering enforcements of lockdown, filming police roadblocks, or interviewing people allegedly tortured for attending a protest against the government's covid-19 strategy.
 
-A journalist, who reported about high-level corruption, including in the procurement of COVID-19 medical supplie, was arrested. After 44 days in pre-trial detention, he was released. 
+A journalist, Hopewell Chin’ono, who reported about high-level corruption, including in the procurement of COVID-19 medical supplie, was arrested. After 44 days in pre-trial detention, he was released.
+On November 03, he was rearrested. 
 
 *Sources*:
- https://rsf.org/en/news/five-zimbabwean-reporters-arrested-while-covering-coronavirus-lockdown
-
-https://rsf.org/en/news/zimbabwe-two-journalists-held-violating-coronavirus-lockdown-rules
-
-https://www.amnesty.org/en/latest/news/2020/07/zimbabwe-authorities-continue-their-crackdown-on-dissent-with-arrest-of-investigative-journalist-and-activist/
-
-https://www.hrw.org/news/2020/07/20/zimbabwe-detains-anti-corruption-activists
-
-https://www.hrw.org/news/2020/08/11/end-inhuman-prison-conditions-activists-zimbabwe
-
-https://www.amnesty.org/en/latest/news/2020/05/southern-africa-covid19-a-pretext-for-surge-in-harassment-of-journalists-and-weakening-of-media-houses-by-states/
-
-https://cpj.org/2020/07/journalist-hopewell-chinono-arrested-charged-with-incitement-in-zimbabwe/
-
+ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648907/
+
+https://rsf.org/en/news/five-zimbabwean-reporters-arrested-while-covering-coronavirus-lockdown
+
+https://rsf.org/en/news/zimbabwe-two-journalists-held-violating-coronavirus-lockdown-rules
+
+https://www.amnesty.org/en/latest/news/2020/07/zimbabwe-authorities-continue-their-crackdown-on-dissent-with-arrest-of-investigative-journalist-and-activist/
+
+https://www.hrw.org/news/2020/07/20/zimbabwe-detains-anti-corruption-activists
+
+https://www.hrw.org/news/2020/08/11/end-inhuman-prison-conditions-activists-zimbabwe
+
+https://www.amnesty.org/en/latest/news/2020/05/southern-africa-covid19-a-pretext-for-surge-in-harassment-of-journalists-and-weakening-of-media-houses-by-states/
+
+https://cpj.org/2020/07/journalist-hopewell-chinono-arrested-charged-with-incitement-in-zimbabwe/
+
+https://cpj.org/2020/11/zimbabwean-journalist-hopewell-chinono-rearrested-charged-with-contempt-of-court/
+
+https://cpj.org/2020/11/zimbabwean-journalist-hopewell-chinono-denied-bail-in-obstruction-case/
+
+
 https://cpj.org/2020/09/journalist-hopewell-chinono-released-on-bail-with-restrictions-in-zimbabwe/
 
 
@@ -653,10 +846,13 @@ https://cpj.org/2020/09/journalist-hopewell-chinono-released-on-bail-with-restri
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -664,12 +860,18 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government is de-facto limiting media reporting about non-Covid-19 related news, but with reference to the pandemic, was found. 
 
 *Sources*:
- https://www.bbc.com/news/topics/crr7mlg0rpvt/zimbabwe
-
-https://cpj.org/africa/zimbabwe/
-
-https://rsf.org/en/thematique/internet?countries%5B52%5D=52
-
+ https://www.bbc.com/news/topics/crr7mlg0rpvt/zimbabwe
+
+
+
+https://cpj.org/africa/zimbabwe/
+
+
+
+https://rsf.org/en/thematique/internet?countries%5B52%5D=52
+
+
+
 https://ipi.media/zimbabwe/
 
 
@@ -689,22 +891,28 @@ https://ipi.media/zimbabwe/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
- Several journalists have had their phones confiscated, forced to delete photo, and arrested for e.g. breaking lockdown or having an expired press card, while they were covering enforcements of lockdown, filming police roadblocks, or interviewing people allegedly tortured for attending a protest against the government's covid-19 strategy. 
+ Several journalists have had their phones confiscated, forced to delete photo, and arrested for e.g. breaking lockdown or having an expired press card, while they were covering enforcements of lockdown, filming police roadblocks, or interviewing people allegedly tortured for attending a protest against the government's covid-19 strategy.
+No information was found indicating that the violations stopped. 
 
 *Sources*:
- https://rsf.org/en/news/five-zimbabwean-reporters-arrested-while-covering-coronavirus-lockdown
+ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648907/
+
+https://rsf.org/en/news/five-zimbabwean-reporters-arrested-while-covering-coronavirus-lockdown
 
 https://rsf.org/en/news/zimbabwe-two-journalists-held-violating-coronavirus-lockdown-rules
 
@@ -730,23 +938,33 @@ https://www.dw.com/en/ugandan-journalists-assaulted-by-security-forces-amid-coro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Many journalists report being harassed and threatened with violence when covering covid-19 related issues. 
+ Many journalists report being harassed and threatened with violence when covering covid-19 related issues.
+No information was found indicating that the violations stopped. 
 
 *Sources*:
- https://rsf.org/en/news/five-zimbabwean-reporters-arrested-while-covering-coronavirus-lockdown
-
-https://www.dw.com/en/ugandan-journalists-assaulted-by-security-forces-amid-coronavirus-lockdowns/a-53235644
-
-https://www.amnesty.org/en/latest/news/2020/05/southern-africa-covid19-a-pretext-for-surge-in-harassment-of-journalists-and-weakening-of-media-houses-by-states/
-
+ https://rsf.org/en/news/five-zimbabwean-reporters-arrested-while-covering-coronavirus-lockdown
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648907/
+
+https://www.dw.com/en/ugandan-journalists-assaulted-by-security-forces-amid-coronavirus-lockdowns/a-53235644
+
+
+
+https://www.amnesty.org/en/latest/news/2020/05/southern-africa-covid19-a-pretext-for-surge-in-harassment-of-journalists-and-weakening-of-media-houses-by-states/
+
+
+
 https://hornobserver.com/articles/551/CAJ-CALLS-ON-ZIMBABWEAN-GOVERNMENT-TO-STOP-HARASSMENT-OF-JOURNALISTS-The-Congress-of-African-Journalists-CAJ-has-expressed-concern-over-the-deteriorating-press-freedom-situation-in-Zimbabwe-and-called-on-the-government-of-Zimbabwe-to-stop-harassing-and-ar
 
 
@@ -769,23 +987,33 @@ https://hornobserver.com/articles/551/CAJ-CALLS-ON-ZIMBABWEAN-GOVERNMENT-TO-STOP
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Many journalists report being beaten and arrested for covering covid-19 related issues. 
+ Many journalists report being beaten and arrested for covering covid-19 related issues.
+No information was found indicating that the violations stopped. 
 
 *Sources*:
- https://rsf.org/en/news/five-zimbabwean-reporters-arrested-while-covering-coronavirus-lockdown
-
-https://rsf.org/en/news/zimbabwe-two-journalists-held-violating-coronavirus-lockdown-rules
-
-https://www.dw.com/en/ugandan-journalists-assaulted-by-security-forces-amid-coronavirus-lockdowns/a-53235644
-
+ https://rsf.org/en/news/five-zimbabwean-reporters-arrested-while-covering-coronavirus-lockdown
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648907/
+
+https://rsf.org/en/news/zimbabwe-two-journalists-held-violating-coronavirus-lockdown-rules
+
+
+
+https://www.dw.com/en/ugandan-journalists-assaulted-by-security-forces-amid-coronavirus-lockdowns/a-53235644
+
+
+
 https://hornobserver.com/articles/551/CAJ-CALLS-ON-ZIMBABWEAN-GOVERNMENT-TO-STOP-HARASSMENT-OF-JOURNALISTS-The-Congress-of-African-Journalists-CAJ-has-expressed-concern-over-the-deteriorating-press-freedom-situation-in-Zimbabwe-and-called-on-the-government-of-Zimbabwe-to-stop-harassing-and-ar
 
 
@@ -810,10 +1038,13 @@ https://hornobserver.com/articles/551/CAJ-CALLS-ON-ZIMBABWEAN-GOVERNMENT-TO-STOP
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -821,8 +1052,10 @@ Time period: *Jul-Sep*: 0
  The government's covid-19 information is similar to that of the WHO. 
 
 *Sources*:
- http://www.mohcc.gov.zw/index.php?option=com_content&view=category&layout=blog&id=103&Itemid=743
-
+ http://www.mohcc.gov.zw/index.php?option=com_content&view=category&layout=blog&id=103&Itemid=743
+
+
+
 https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
 
 
@@ -847,25 +1080,37 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
- There are many reports on police brutality in connection to enforcement of lockdown rules. 
+ There are many reports on police brutality in connection to enforcement of lockdown rules.
+No information was found indicating that the violations stopped. 
 
 *Sources*:
- https://allafrica.com/stories/202004090375.html
-
-https://www.aljazeera.com/news/2020/04/anxiety-rights-violations-zimbabwe-enforces-lockdown-200406131100256.html
-
-https://www.bbc.com/news/world-africa-52726220
-
-https://www.voanews.com/africa/rights-groups-welcome-court-ban-brutal-zimbabwe-covid-19-lockdown
-
+ https://allafrica.com/stories/202004090375.html
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648907/
+
+https://www.aljazeera.com/news/2020/04/anxiety-rights-violations-zimbabwe-enforces-lockdown-200406131100256.html
+
+
+
+https://www.bbc.com/news/world-africa-52726220
+
+
+
+https://www.voanews.com/africa/rights-groups-welcome-court-ban-brutal-zimbabwe-covid-19-lockdown
+
+
+
 https://www.amnesty.org/en/latest/news/2020/07/zimbabwe-authorities-thwart-anti-corruption-protests-launch-a-witchhunt-against-activists/
 
 
@@ -878,7 +1123,7 @@ https://www.amnesty.org/en/latest/news/2020/07/zimbabwe-authorities-thwart-anti-
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -888,10 +1133,13 @@ https://www.amnesty.org/en/latest/news/2020/07/zimbabwe-authorities-thwart-anti-
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -899,41 +1147,16 @@ Time period: *Jul-Sep*: 1
  The army has enforced lockdown, according to media outlets and the Zimbabwe Information Minister Monica Mutsvangwa. 
 
 *Sources*:
- https://www.aljazeera.com/indepth/opinion/problem-army-enforced-lockdowns-time-covid-19-200401101641258.html
-
-https://www.voazimbabwe.com/a/army-to-enforce-21-day-lockdown-says-zimbabwe-information-minister/5350671.html
-
-https://www.voazimbabwe.com/a/zimbabwe-police-human-rights-violations/5371648.html
-
+ https://www.aljazeera.com/indepth/opinion/problem-army-enforced-lockdowns-time-covid-19-200401101641258.html
+
+
+
+https://www.voazimbabwe.com/a/army-to-enforce-21-day-lockdown-says-zimbabwe-information-minister/5350671.html
+
+
+
+https://www.voazimbabwe.com/a/zimbabwe-police-human-rights-violations/5371648.html
+
+
+
 https://www.washingtonpost.com/world/africa/empty-streets-in-zimbabwe-as-security-forces-thwart-protest/2020/07/31/cda13416-d309-11ea-826b-cc394d824e35_story.html
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-*Answer*: Three opposition leaders were allegedly kidnapped and tortured by police for having attended a protest against the government's covid-19 response. 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
- https://www.theguardian.com/world/2020/may/17/zimbabwean-mdc-activists-abducted-and-sexually-assaulted
-
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25944&LangID=E
-
-https://www.amnesty.org/en/latest/news/2020/05/zimbabwe-drop-bogus-charges-against-opposition-leaders-who-suffered-sexual-assault/
-
-https://www.hrw.org/news/2020/08/06/zimbabwe-sadc-au-should-denounce-crackdown

@@ -1,9 +1,6 @@
 # Georgia 
 
 
-Time 2020-09-04 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-04
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,14 +25,34 @@ Time 2020-09-04
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- Decree No 1 by the President declaring a state of emergency on 21 March 2020. 
+ March-June: Decree No 1 by the President declaring a state of emergency on 21 March 2020.
+
+July-September, October December: measures have been implemented through amendments to the Resolution № 322 of the Government of Georgia of 23 May 2020 on the Approval of the Rules of Isolation and Quarantine "on the basis of Article 45 (3)
+(1) of the Law of Georgia on Public Health, Article 5(c) and Article 6(2)(c) of the Law of Georgia on Personal Data Protection, the Law of Georgia on Healthcare, the Law of Georgia on Social Assistance, the Law of Georgia on Public Procurement, Article 30 of the Law of Georgia on State Budget of Georgia of 2020 and Article 6 of the Law of Georgia on Structure, Powers and Rules of Operation of the Government of Georgia. " Since Georgia has used multiple legal instruments, the Law of Georgia on Public Health is considered the primary legal instrument because it gives the government the power to implement measures related to isolation and quarantine. See the list of all amendments at the bottom of this page: https://matsne.gov.ge/ka/document/view/4877009?publication=69. 
 
 *Sources*:
  https://matsne.gov.ge/en/document/view/4830372?publication=0
 https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/
+
+https://matsne.gov.ge/en/document/download/4877009/8/en/pdf
+https://matsne.gov.ge/ka/document/search?query=StopCoV&type=all&covDocs=1&sort=publishDate_desc
+https://matsne.gov.ge/en/document/download/4877009/8/en/pdf
+https://matsne.gov.ge/ka/document/view/4877009?publication=69
+
+https://ge.usembassy.gov/covid-19-information-on-georgia/
+https://matsne.gov.ge/ka/document/view/5035707?publication=0
+http://gov.ge/index.php?lang_id=GEO&sec_id=541&info_id=77641
 
 
 
@@ -54,13 +71,22 @@ https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu
 *Scale*: Character string.
 
  
-*Answer*: Constitution (Article 71(3) and (4)),  Law on State of Emergency (Article 2(3)) 
+*Time period: Q2*: Constitution (Article 71(3) and (4)),  Law on State of Emergency (Article 2(3))
+
+ 
+*Time period: Q3*: „საზოგადოებრივი ჯანმრთელობის შესახებ“ საქართველოს კანონის (Law of Georgia on Public Health)
+
+ 
+*Time period: Q4*: „საზოგადოებრივი ჯანმრთელობის შესახებ“ საქართველოს კანონის (Law of Georgia on Public Health)
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  https://matsne.gov.ge/en/document/view/4830372?publication=0
+
 
 
 
@@ -79,7 +105,15 @@ https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-21 
+*Time period: Q2*: 2020-03-21
+
+ 
+*Time period: Q3*: 2020-05-23
+
+ 
+*Time period: Q4*: 2020-05-23
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -104,10 +138,20 @@ https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-22 
+*Time period: Q2*: 2020-05-22
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Initially declared from 21 March until 21 April 2020, extended until 22 May 2020. On 22 May 2020, the state of emergency ended. Restrictive measures were in place until 15 July (introduced as amendments to the "Law on Public Health" by the parliament on 22 May 2020). 
+ March-June: The state of emergency was initially declared from 21 March until 21 April 2020, extended until 22 May 2020. On 22 May 2020, the state of emergency ended. 
+
+July-September, October-December: The implementation of the legal instrument (the Law of Georgia on Public Health) has not ended at the time of coding. 
 
 *Sources*:
  http://gov.ge/index.php?lang_id=ENG&sec_id=288&info_id=75955
@@ -134,13 +178,26 @@ https://matsne.gov.ge/ka/document/view/4876537?publication=0
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Initially declared from 21 March until 21 April 2020, extended until 22 May 2020 
+ March-June: state of emergency was initially declared from 21 March until 21 April 2020, extended until 22 May 2020
+
+July-September, October-December:  Initially Ordinance No 322 was declared until 15 July (Art.4), but since then was subsequently amended several times where some amendments do not mention an explicit time limit. Since the legal instrument that the measures are based on has a time limit until 1 January 2021  (Article 45 (3)  on "Temporary measures to be taken until January 1, 2021" of the Law of Georgia on Public Health), emlimit is coded as 1. 
 
 *Sources*:
  http://gov.ge/index.php?lang_id=ENG&sec_id=547&info_id=75682
+
+https://matsne.gov.ge/ka/document/view/21784?publication=31
+https://matsne.gov.ge/ka/document/view/4877009?publication=69
 
 
 
@@ -152,20 +209,33 @@ https://matsne.gov.ge/ka/document/view/4876537?publication=0
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-22 
+*Time period: Q2*: 2020-05-22
+
+ 
+*Time period: Q3*: 2021-01-01
+
+ 
+*Time period: Q4*: 2021-01-01
+
+ 
 
 *Comments*:
- Initially declared from 21 March until 21 April 2020, extended until 22 May 2020. 
+ March-June: state of emergency was initially declared from 21 March until 21 April 2020, extended until 22 May 2020
+
+July-September, October-December:  Initially Ordinance No 322 was declared until 15 July (Art.4), but since then was subsequently amended several times where some amendments do not mention an explicit time limit. Since the legal instrument that the measures are based on has a time limit until 1 January 2021  (Article 45 (3)  on "Temporary measures to be taken until January 1, 2021" of the Law of Georgia on Public Health), emlimitdate is coded as 1 January 2021. 
 
 *Sources*:
- http://gov.ge/index.php?lang_id=ENG&sec_id=288&info_id=75955
+ http://gov.ge/index.php?lang_id=ENG&sec_id=547&info_id=75682
+
+https://matsne.gov.ge/ka/document/view/21784?publication=31
+https://matsne.gov.ge/ka/document/view/4877009?publication=69
 
 
 
@@ -177,7 +247,7 @@ https://matsne.gov.ge/ka/document/view/4876537?publication=0
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -187,13 +257,25 @@ https://matsne.gov.ge/ka/document/view/4876537?publication=0
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Article 2 of the Law on States of Emergency requires parliamentary approval. 
+ March-June: Article 2 of the Law on States of Emergency requires parliamentary approval.
+
+July-September, October-December: legislature approval is not required based the Law of Georgia on Public Health. 
 
 *Sources*:
  https://matsne.gov.ge/en/document/view/33472?publication=6
+
+https://matsne.gov.ge/ka/document/view/21784?publication=31
 
 
 
@@ -215,13 +297,25 @@ https://matsne.gov.ge/ka/document/view/4876537?publication=0
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The legislature approved the declaration of the state of emergency based on the Resolution 5865 (21 March 2020) "On Approval of Decree No 1 of 21 March 2020 of the President of Georgia on Measures to be Implemented in Connection with the Declaration of a State of Emergency throughout the Whole Territory of Georgia." 
+ March-June: The legislature approved the declaration of the state of emergency based on the Resolution 5865 (21 March 2020) "On Approval of Decree No 1 of 21 March 2020 of the President of Georgia on Measures to be Implemented in Connection with the Declaration of a State of Emergency throughout the Whole Territory of Georgia."
+
+July-September, October-December: legislature approval is not required by law. 
 
 *Sources*:
- https://matsne.gov.ge/en/document/view/4830333?publication=0
+ https://matsne.gov.ge/en/document/view/33472?publication=6
+
+https://matsne.gov.ge/ka/document/view/21784?publication=31
 
 
 
@@ -241,19 +335,35 @@ https://matsne.gov.ge/ka/document/view/4876537?publication=0
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 1 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- The government had the power to determine the measures and the parliament continued to oversee public health and economic policies. The number of parliament meetings was reduced and voting was not held. According to Inter Pares, the measures were overseen by "Intragency Coordination Commission that included some MPs." The state of emergency ended on 22 May and I found no evidence of further measures limiting the lawmaking role of the legislature. 
+ March-June: According to Article 71 (3) of the Consitution, the executive can rule by decree during the state of emergency: "during martial law or a state of emergency, the President of Georgia shall, upon recommendation by the Prime Minister, issue decrees that have the force of the organic law, and which shall be in force until the martial law or the state of emergency has been revoked." The government had the power to determine the measures and the parliament continued to oversee public health and economic policies.  The number of parliament meetings was reduced and voting was not held. According to Inter Pares, the measures were overseen by "Intragency Coordination Commission that included some MPs."
+
+July-September, October-December: Article 45 (3 (1)) of the Law of Georgia on Public Health gives the government the power to implement measures related to isolation and quarantine until 1 January 2021. 
 
 *Sources*:
- https://matsne.gov.ge/en/document/view/4830372?publication=0https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#Ghttps://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+ https://matsne.gov.ge/en/document/view/30346?publication=36
+https://matsne.gov.ge/en/document/view/4830372?publication=0
+https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#G
+https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+
+
+https://matsne.gov.ge/ka/document/view/21784?publication=31
 
 
 
@@ -265,15 +375,22 @@ https://matsne.gov.ge/ka/document/view/4876537?publication=0
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -298,8 +415,15 @@ https://matsne.gov.ge/ka/document/view/4876537?publication=0
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -329,15 +453,29 @@ https://matsne.gov.ge/ka/document/view/4876537?publication=0
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Mostly uniform measures, with some areas places under stricter quarantine in May 2020. 
+ March-June, July-September: Mostly uniform measures, with some areas places under stricter quarantine.
+
+October-December: from 9 November vehicular and pedestrian movement in Tbilisi and six other large towns has been banned at night. Kindergartens in Tbilisi and other large towns have been closed. 
 
 *Sources*:
  http://gov.ge/index.php?lang_id=ENG&sec_id=547&info_id=76140
 http://gov.ge/index.php?lang_id=ENG&sec_id=547&info_id=76096
 http://gov.ge/index.php?lang_id=ENG&sec_id=547&info_id=75892
+https://www.gov.uk/foreign-travel-advice/georgia/coronavirus
+https://www.garda.com/crisis24/news-alerts/397366/georgia-authorities-to-introduce-curfew-across-large-cities-due-to-covid-19-from-november-9-update-20
+https://matsne.gov.ge/ka/document/view/5029960?publication=0
+https://matsne.gov.ge/ka/document/view/4896865?publication=0
 
 
 
@@ -361,15 +499,18 @@ http://gov.ge/index.php?lang_id=ENG&sec_id=547&info_id=75892
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- According to a report by Amnestry International (p.6): "Contrary to medical advice, religious gatherings have not been restricted  by law largely to ensure that the Georgian Orthodox Church could conduct liturgies for Orthodox Easter. During Palm Sunday and Easter celebrations on 12 April and 19 April in Georgia, several Orthodox churches hosted dozens of worshippers. All other religious groups in Georgia have voluntarily agreed to close their places of worship to the public. On 15 April, the head of the muslim community of Georgia, Mirtaghi Asadov, declared that when Ramadan begins, they will also open mosques and expect that the government will treat them with the same understanding as they have shown to the Orthodox church. Two days after this statement, Mirtaghi Asadov was summoned for questioning to the State Security Service of Georgia in connection with an attempt to “sabotage” the state." Since both Eastern and Ramadan took place in the first time period (March-June 2020), discrim is coded as 0 in July-September 2020. 
+ According to a report by Amnestry International (p.6): "Contrary to medical advice, religious gatherings have not been restricted  by law largely to ensure that the Georgian Orthodox Church could conduct liturgies for Orthodox Easter. During Palm Sunday and Easter celebrations on 12 April and 19 April in Georgia, several Orthodox churches hosted dozens of worshippers. All other religious groups in Georgia have voluntarily agreed to close their places of worship to the public. On 15 April, the head of the muslim community of Georgia, Mirtaghi Asadov, declared that when Ramadan begins, they will also open mosques and expect that the government will treat them with the same understanding as they have shown to the Orthodox church. Two days after this statement, Mirtaghi Asadov was summoned for questioning to the State Security Service of Georgia in connection with an attempt to “sabotage” the state." Since both Easter and Ramadan took place in the first time period (March-June 2020), discrim is coded as 0 in July-September 2020. No information on discrimination found in October-December 2020. 
 
 *Sources*:
  https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
@@ -401,10 +542,13 @@ Time period: *Jul-Sep*: 0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -436,13 +580,22 @@ Time period: *Jul-Sep*: 0
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No evidence of measures limiting media freedom found 
 
 *Sources*:
  https://matsne.gov.ge/en/document/view/4830372?publication=0
+https://matsne.gov.ge/ka/document/view/4877009?publication=69
 https://ipi.media/georgia/
 
 https://rsf.org/en/georgia
@@ -457,15 +610,22 @@ https://rsf.org/en/georgia
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -483,15 +643,22 @@ https://rsf.org/en/georgia
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -519,10 +686,13 @@ https://rsf.org/en/georgia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -531,8 +701,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://stopcov.ge/
-https://ipi.media/georgia/
-
+https://ipi.media/georgia/
+
 https://rsf.org/en/georgia
 
 
@@ -545,7 +715,7 @@ https://rsf.org/en/georgia
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -555,10 +725,13 @@ https://rsf.org/en/georgia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -590,10 +763,13 @@ https://rsf.org/en/georgia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -622,14 +798,17 @@ https://rsf.org/en/georgia
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -660,10 +839,13 @@ https://matsne.gov.ge/en/document/view/4830610?impose=parallelEn&fullscreen=1&pu
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -697,10 +879,13 @@ https://www.hrw.org/europe/central-asia/georgia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -736,10 +921,13 @@ https://www.hrw.org/europe/central-asia/georgia
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -773,15 +961,18 @@ https://rsf.org/en/georgia
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No instances of police violence found 
+ No instances of police violence in the execution of the emergency measures found since 11 March 2020. 
 
 *Sources*:
  https://www.amnesty.org/en/countries/europe-and-central-asia/georgia/
@@ -797,7 +988,7 @@ https://www.hrw.org/europe/central-asia/georgia
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -807,10 +998,13 @@ https://www.hrw.org/europe/central-asia/georgia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -820,29 +1014,3 @@ Time period: *Jul-Sep*: 0
 *Sources*:
  https://mod.gov.ge/en/news/read/7858/control-checkpoints-abolished-at-marneuli-municipality
 https://mod.gov.ge/en/news/read/7848/quarantine-restrictions-set-in-gvantkiti-terjola-municipality-
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

@@ -1,9 +1,6 @@
 # Uganda 
 
 
-Time 2020-09-15 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-15
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,21 +25,38 @@ Time 2020-09-15
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- Reasons to declare a state of emergency (Section 110 in constitution) do not include disease. 
+ Reasons to declare a state of emergency (Section 110 in constitution) do not include disease. 
+
 Therefore, the "Public Health Act of Uganda (Cap 281, 2000)", is the main instrument used to make the rules in "The Public Health (Control of COVID - 19) Rules, 2020." 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Uganda_2017?lang=en
-
-https://ulii.org/ug/legislation/statutory-instrument/2020/52
-
-https://perma.cc/E7ZP-68JW
-
-https://ulii.org/ug/legislation/consolidated-act/281
-
+ https://www.constituteproject.org/constitution/Uganda_2017?lang=en
+
+
+
+https://ulii.org/ug/legislation/statutory-instrument/2020/52
+
+
+
+https://perma.cc/E7ZP-68JW
+
+
+
+https://ulii.org/ug/legislation/consolidated-act/281
+
+
+
 http://library.health.go.ug/sites/default/files/resources/Public%20Health%20Act.pdf
 
 
@@ -62,16 +76,28 @@ http://library.health.go.ug/sites/default/files/resources/Public%20Health%20Act.
 *Scale*: Character string.
 
  
-*Answer*: Public Health Act of Uganda (Cap 281, 2000) 
+*Time period: Q2*: Public Health Act of Uganda (Cap 281, 2000)
+
+ 
+*Time period: Q3*: Public Health Act of Uganda (Cap 281, 2000)
+
+ 
+*Time period: Q4*: Public Health Act of Uganda (Cap 281, 2000)
+
+ 
 
 *Comments*:
  Section 11 and 27 in the Public Health Act are the main instrument used to make the rules in the Public Health (Control of Covid-19) Rules, 2020. 
 
 *Sources*:
- https://ulii.org/ug/legislation/statutory-instrument/2020/52
-
-https://perma.cc/E7ZP-68JW
-
+ https://ulii.org/ug/legislation/statutory-instrument/2020/52
+
+
+
+https://perma.cc/E7ZP-68JW
+
+
+
 https://ulii.org/ug/legislation/consolidated-act/281
 
 
@@ -91,7 +117,15 @@ https://ulii.org/ug/legislation/consolidated-act/281
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-13 
+*Time period: Q2*: 2020-03-13
+
+ 
+*Time period: Q3*: 2020-03-13
+
+ 
+*Time period: Q4*: 2020-03-13
+
+ 
 
 *Comments*:
  The Ministry of Health first invoked the Public Health Act on 13 March 2020 through the 'Public Health (Prevention of Covid-19) (Requirements and Conditions of Entry into Uganda) Order 2020'. Measures have been extended through the 'Public Health (Prohibition of Entry into Uganda) Order 2020'on 21 March and the 'Public Health (Control of Covid-19) Rules, 2020' on 24 March. 
@@ -116,21 +150,36 @@ https://ulii.org/ug/legislation/consolidated-act/281
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Sections 11 and 27 in the "Public Health Act 1935" do not mention an time limit or sunset clause. Section 14 in the "Public Health (Control of COVID-19) Rules, 2020" states that "These Rules shall expire on notification by the Minister." The Public Health Act section 11 and 27 are still active and, according to the Uganda Legal Information Institute, the Public Health Rules 2020 are still in force. 
 
 *Sources*:
- https://ulii.org/ug/legislation/statutory-instrument/2020/52
-
-https://perma.cc/E7ZP-68JW
-
-https://ulii.org/ug/legislation/consolidated-act/281
-
-http://library.health.go.ug/sites/default/files/resources/Public%20Health%20Act.pdf
-
+ https://ulii.org/ug/legislation/statutory-instrument/2020/52
+
+
+
+https://perma.cc/E7ZP-68JW
+
+
+
+https://ulii.org/ug/legislation/consolidated-act/281
+
+
+
+http://library.health.go.ug/sites/default/files/resources/Public%20Health%20Act.pdf
+
+
+
 https://ulii.org/ug/legislation/statutory-instrument/2020/52
 
 
@@ -153,20 +202,36 @@ https://ulii.org/ug/legislation/statutory-instrument/2020/52
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Sections 11 and 27 in the "Public Health Act 1935" do not mention an time limit or sunset clause. Section 14 in the "Public Health (Control of COVID-19) Rules, 2020" states that "These Rules shall expire on notification by the Minister." The Public Health Act section 11 and 27 are still active and, according to the Uganda Legal Information Institute, the Public Health Rules 2020 are still in force. 
 
 *Sources*:
- https://ulii.org/ug/legislation/statutory-instrument/2020/52
-
-https://perma.cc/E7ZP-68JW
-
-https://ulii.org/ug/legislation/consolidated-act/281
-
-http://library.health.go.ug/sites/default/files/resources/Public%20Health%20Act.pdf
-
+ https://ulii.org/ug/legislation/statutory-instrument/2020/52
+
+
+
+https://perma.cc/E7ZP-68JW
+
+
+
+https://ulii.org/ug/legislation/consolidated-act/281
+
+
+
+http://library.health.go.ug/sites/default/files/resources/Public%20Health%20Act.pdf
+
+
+
 https://ulii.org/ug/legislation/statutory-instrument/2020/52
 
 
@@ -179,15 +244,22 @@ https://ulii.org/ug/legislation/statutory-instrument/2020/52
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there is no official end date (variable emlimit). 
@@ -205,7 +277,7 @@ https://ulii.org/ug/legislation/statutory-instrument/2020/52
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -215,7 +287,15 @@ https://ulii.org/ug/legislation/statutory-instrument/2020/52
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The Public Health Act does not require parliamentary approval of emergency measures related to disease or infection. 
@@ -243,7 +323,15 @@ https://ulii.org/ug/legislation/statutory-instrument/2020/52
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The Public Health Act does not require parliamentary approval of emergency measures related to disease or infection. 
@@ -269,30 +357,50 @@ https://ulii.org/ug/legislation/statutory-instrument/2020/52
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
  The health minister is allowed to set up rules to combat covid-19. Breaking these rules is an offence. The parliament operates with limited staff. 
 
 *Sources*:
- https://www.parliament.go.ug/news/4599/speaker-issues-new-guidelines-parliament
-
-https://ulii.org/ug/legislation/statutory-instrument/2020/52
-
-https://perma.cc/E7ZP-68JW
-
-https://ulii.org/ug/legislation/consolidated-act/281
-
-http://library.health.go.ug/sites/default/files/resources/Public%20Health%20Act.pdf
-
-https://ulii.org/ug/legislation/statutory-instrument/2020/52
-
+ https://www.parliament.go.ug/news/4599/speaker-issues-new-guidelines-parliament
+
+
+
+https://ulii.org/ug/legislation/statutory-instrument/2020/52
+
+
+
+https://perma.cc/E7ZP-68JW
+
+
+
+https://ulii.org/ug/legislation/consolidated-act/281
+
+
+
+http://library.health.go.ug/sites/default/files/resources/Public%20Health%20Act.pdf
+
+
+
+https://ulii.org/ug/legislation/statutory-instrument/2020/52
+
+
+
 https://www.parliament.go.ug/news/4577/parliament-restricts-access-non-critical-staff-work-home
 
 
@@ -305,15 +413,22 @@ https://www.parliament.go.ug/news/4577/parliament-restricts-access-non-critical-
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
@@ -338,8 +453,15 @@ https://www.parliament.go.ug/news/4577/parliament-restricts-access-non-critical-
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
@@ -369,16 +491,29 @@ https://www.parliament.go.ug/news/4577/parliament-restricts-access-non-critical-
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- "[The President] announced the opening of some of the border districts to freedom of movement but kept other hot spot border districts closed to any kind of private or public transport." 
+ "[The President] announced the opening of some of the border districts to freedom of movement but kept other hot spot border districts closed to any kind of private or public transport."
+No hint of subnational variation for July-Dec. 
 
 *Sources*:
- https://ulii.org/ug/legislation/statutory-instrument/2020/52
-
-https://www.health.go.ug/covid/wp-content/uploads/2020/03/Covid-19-1.png
-
+ https://ulii.org/ug/legislation/statutory-instrument/2020/52
+
+
+
+https://www.health.go.ug/covid/wp-content/uploads/2020/03/Covid-19-1.png
+
+
+
 https://ug.usembassy.gov/health%e2%80%afalert-u-s-embassy-kampala-june-26-2020/
 
 
@@ -403,21 +538,30 @@ https://ug.usembassy.gov/health%e2%80%afalert-u-s-embassy-kampala-june-26-2020/
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 3
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
 
  
 
 *Comments*:
- The police, the army, and the Local Defense Unit (LDU) are conducting patrols in order to enforce the restrictions on movement. However, the authorities are using the enforcement of the restrictions as an excuse to crack down on the LGBTI+ community. Officers of the Ugandan Police Force raided an LGBTI+ shelter on 29 March. Twenty-three residents and visitors were arbitrarily arrested and charged with engaging in a negligent act likely to spread infection of disease. The charge against the shelter residents appear contradictory to the Presidential Directive on COVID-19 that essentially requires people to stay at home, this was precisely what the 23 shelter residents were doing. By May 28, all all shelter residents were released and the High Court of Uganda awarded them damages of UGX 5,000,000. 
-This is clearly discrimination based on sexual orientation. We interpret this as discrimination based on sex because in order to discriminate on the basis of sexual orientation, one must necessarily account for the individual's sex.
-
-No further discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. Therefore the variable discrim is coded as 0 for the second round. 
+ The police, the army, and the Local Defense Unit (LDU) are conducting patrols in order to enforce the restrictions on movement. However, the authorities are using the enforcement of the restrictions as an excuse to crack down on the LGBTI+ community. For instance, officers of the Ugandan Police Force raided an LGBTI+ shelter on 29 March. Twenty-three residents and visitors were arbitrarily arrested and charged with engaging in a negligent act likely to spread infection of disease. The charge against the shelter residents appear contradictory to the Presidential Directive on COVID-19 that essentially requires people to stay at home, this was precisely what the 23 shelter residents were doing. By May 28, all all shelter residents were released and the High Court of Uganda awarded them damages of UGX 5,000,000. 
+This is clearly discrimination based on sexual orientation, and sources indicate that the targeting of LGBTI+ people during the enforcement of covid-19 measures has not stopped. We interpret this as discrimination based on sex because in order to discriminate on the basis of sexual orientation, one must necessarily account for the individual's sex. Based on this, this variable is coded 3 for all periods. 
 
 *Sources*:
- https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25832&LangID=E
+ https://news.sky.com/story/uganda-using-coronavirus-laws-to-target-marginalised-lgbt-groups-11985888
+
+https://www.theguardian.com/world/2020/apr/01/ugandan-police-accused-of-abusing-lockdown-laws-after-lgbt-arrests
+
+https://www.theguardian.com/global-development/2020/nov/23/nowhere-to-go-the-young-lgbt-ugandans-outed-during-lockdown
+
+https://www.unaids.org/en/resources/presscentre/featurestories/2020/september/20200922_uganda
+
+https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25832&LangID=E
 
 https://www.hrw.org/news/2020/04/03/uganda-lgbt-shelter-residents-arrested-covid-19-pretext
 
@@ -454,10 +598,13 @@ https://crd.org/2020/04/27/uganda-covid-19-used-as-pretext-to-harass-lgbti-commu
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -465,14 +612,22 @@ Time period: *Jul-Sep*: 0
  No evidence was found that any of the emergency measures de-jure violated non-derogable rights as defined by the ICCPR. 
 
 *Sources*:
- https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-
-https://www.amnesty.org/en/countries/africa/uganda/
-
-https://www.hrw.org/africa/uganda
-
-https://ulii.org/ug/legislation/statutory-instrument/2020/52
-
+ https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
+
+
+
+https://www.amnesty.org/en/countries/africa/uganda/
+
+
+
+https://www.hrw.org/africa/uganda
+
+
+
+https://ulii.org/ug/legislation/statutory-instrument/2020/52
+
+
+
 https://www.bbc.co.uk/news/topics/cmj34zmwme4t/uganda
 
 
@@ -497,25 +652,45 @@ https://www.bbc.co.uk/news/topics/cmj34zmwme4t/uganda
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No de-jure limitations of media freedom as part of the Covid-19 emergency measures were found. 
 
 *Sources*:
- http://www.rfi.fr/en/africa/20200430-covid-19-making-media-africa-great-lakes-region-sick-tanzania-rwanda-uganda
-
+ http://www.rfi.fr/en/africa/20200430-covid-19-making-media-africa-great-lakes-region-sick-tanzania-rwanda-uganda
+
+
+
 https://ulii.org/ug/legislation/statutory-instrument/2020/52;
-https://perma.cc/E7ZP-68JW
-
-https://ulii.org/ug/legislation/consolidated-act/281
-
-http://library.health.go.ug/sites/default/files/resources/Public%20Health%20Act.pdf
-
-https://ulii.org/ug/legislation/statutory-instrument/2020/52
-
-https://rsf.org/en/uganda
-
+https://perma.cc/E7ZP-68JW
+
+
+
+https://ulii.org/ug/legislation/consolidated-act/281
+
+
+
+http://library.health.go.ug/sites/default/files/resources/Public%20Health%20Act.pdf
+
+
+
+https://ulii.org/ug/legislation/statutory-instrument/2020/52
+
+
+
+https://rsf.org/en/uganda
+
+
+
 https://ipi.media/uganda/
 
 
@@ -528,15 +703,22 @@ https://ipi.media/uganda/
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -554,15 +736,22 @@ https://ipi.media/uganda/
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -590,18 +779,27 @@ https://ipi.media/uganda/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- A radio journalist was arrested after he disscused on his programm the origins of the coronavirus and the lockdown measures. 
+ The general media environment in Uganda is highly repressive.
+A radio journalist was arrested after he disscused on his programm the origins of the coronavirus and the lockdown measures.
+Since October, anyone wishing to publish information online must be licensed. 
 
 *Sources*:
- https://cpj.org/2020/06/local-officials-arrested-attacked-and-confiscated-equipment-of-radio-journalists-in-western-uganda/
+ https://rsf.org/en/uganda
+
+https://cpj.org/2020/06/local-officials-arrested-attacked-and-confiscated-equipment-of-radio-journalists-in-western-uganda/
+
+https://www.amnesty.org/en/latest/news/2020/09/uganda-government-to-license-online-posts-in-fresh-assault-on-freedom-of-expression/
 
 
 
@@ -613,7 +811,7 @@ Time period: *Jul-Sep*: 0
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -623,24 +821,33 @@ Time period: *Jul-Sep*: 0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- At least 12 cases of assault was reported between just March 19 (beginning of lockdown) and April 24. Journalists have been beaten, slapped, punched, kicked, and had their camera taken and forced to delete pictures, when reporting on police enforcing lockdown measures. 
+ The general media environment in Uganda is highly repressive.
+At least 12 cases of assault was reported between just March 19 (beginning of lockdown) and April 24. Journalists have been beaten, slapped, punched, kicked, and had their camera taken and forced to delete pictures, when reporting on police enforcing lockdown measures.
+Since October, anyone wishing to publish information online must be licensed. 
 
 *Sources*:
- https://monitor.civicus.org/updates/2020/05/12/dissidents-prosecuted-and-journalists-harassed-while-covering-covid-19-restrictions/
+ https://www.amnesty.org/en/latest/news/2020/09/uganda-government-to-license-online-posts-in-fresh-assault-on-freedom-of-expression/
+
+https://monitor.civicus.org/updates/2020/05/12/dissidents-prosecuted-and-journalists-harassed-while-covering-covid-19-restrictions/
 
 https://cpj.org/2020/04/ugandan-security-personnel-enforcing-covid-19-meas/
 
 https://www.dw.com/en/ugandan-journalists-assaulted-by-security-forces-amid-coronavirus-lockdowns/a-53235644
 
 https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+
+https://rsf.org/en/uganda
 
 
 
@@ -662,21 +869,37 @@ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No evidence indicating that the government is de-facto limiting media reporting about non-Covid-19 related news, but with reference to the pandemic, was found. 
+ Uganda’s electoral commission announced that starting from June all electoral campaigning must take place online and through the media due to Covid-19 restrictions. 
+But there is no evidence indicating that the government is de-facto limiting media reporting about non-Covid-19 related news, but with reference to the pandemic. 
 
 *Sources*:
- https://rsf.org/en/uganda
-
-https://ipi.media/uganda/
-
+ https://ugandamediacentreblog.wordpress.com/2020/08/07/press-statement-progress-of-the-roadmap-for-2020-2021-general-elections-sops-to-guide-conduct-of-election-activities-under-covid-19/
+
+https://ipi.media/ugandas-forthcoming-elections-put-journalists-under-threat/
+
+https://www.voanews.com/africa/uganda-critics-concerned-about-web-and-media-only-election-campaigning
+
+https://www.hrw.org/news/2020/11/20/uganda-authorities-weaponize-covid-19-repression
+
+https://rsf.org/en/uganda
+
+
+
+https://ipi.media/uganda/
+
+
+
 https://www.bbc.com/news/topics/cmj34zmwme4t/uganda
 
 
@@ -696,22 +919,31 @@ https://www.bbc.com/news/topics/cmj34zmwme4t/uganda
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Security forces harassed and assaulted journalist while enforcing restrictions, despite the classification of media as essential workers by the president. Thereby limiting their access to information on the de-facto implementation of the goevrnment measures. 
+ Security forces harassed and assaulted journalists while enforcing restrictions, despite the classification of media as essential workers by the president. Thereby limiting their access to information on the de-facto implementation of the government measures.
+The Arua district coronavirus disease (COVID-19) task force in Uganda has banned media from reporting about their meetings in April.
+There is no sign of improvement. 
 
 *Sources*:
- https://monitor.civicus.org/updates/2020/05/12/dissidents-prosecuted-and-journalists-harassed-while-covering-covid-19-restrictions/
+ https://redpepper.co.ug/2020/04/arua-covid-19-task-force-bans-media/
+
+https://ipi.media/covid19-media-freedom-monitoring/
+
+https://monitor.civicus.org/updates/2020/05/12/dissidents-prosecuted-and-journalists-harassed-while-covering-covid-19-restrictions/
 
 https://cpj.org/2020/04/ugandan-security-personnel-enforcing-covid-19-meas/
 
@@ -737,10 +969,13 @@ https://www.dw.com/en/ugandan-journalists-assaulted-by-security-forces-amid-coro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -748,12 +983,18 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government and its agents have verbally harassed journalists reporting about Covid-19, was found. 
 
 *Sources*:
- https://rsf.org/en/uganda
-
-https://ipi.media/uganda/
-
-https://cpj.org/africa/uganda/
-
+ https://rsf.org/en/uganda
+
+
+
+https://ipi.media/uganda/
+
+
+
+https://cpj.org/africa/uganda/
+
+
+
 https://www.bbc.com/news/topics/cmj34zmwme4t/uganda
 
 
@@ -776,21 +1017,29 @@ https://www.bbc.com/news/topics/cmj34zmwme4t/uganda
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- At least 12 cases of assault was reported between just March 19 (beginning of lockdown) and April 24. Journalists have been beaten, slapped, punched, kicked, and had their camera taken and forced to delete pictures, when reporting on police enforcing lockdown measures. 
+ At least 12 cases of assault was reported between just March 19 (beginning of lockdown) and April 24. Journalists have been beaten, slapped, punched, kicked, and had their camera taken and forced to delete pictures, when reporting on police enforcing lockdown measures.
+There is no sign of improvement. 
 
 *Sources*:
- https://monitor.civicus.org/updates/2020/05/12/dissidents-prosecuted-and-journalists-harassed-while-covering-covid-19-restrictions/
-
-https://cpj.org/2020/04/ugandan-security-personnel-enforcing-covid-19-meas/
-
+ https://monitor.civicus.org/updates/2020/05/12/dissidents-prosecuted-and-journalists-harassed-while-covering-covid-19-restrictions/
+
+
+
+https://cpj.org/2020/04/ugandan-security-personnel-enforcing-covid-19-meas/
+
+
+
 https://www.dw.com/en/ugandan-journalists-assaulted-by-security-forces-amid-coronavirus-lockdowns/a-53235644
 
 
@@ -815,19 +1064,24 @@ https://www.dw.com/en/ugandan-journalists-assaulted-by-security-forces-amid-coro
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- In April the Ugandan government's touts hydroxychloroquine as a Covid-19 cure. Until late July, hydroxychloroquine was used Covid-19 treatment but not officially endorsed any longer which is why it is coded 0 for the second time period. 
+ In April the Ugandan government's touts hydroxychloroquine as a Covid-19 cure. The World Health Organization decided to discontinue trials with hydroxychloroquine on June 17 and Uganda stopped using it in July, a month after the WHO stopped its trials. 
 
 *Sources*:
  https://www.wsws.org/en/articles/2020/04/15/ugan-a15.html
 https://www.newvision.co.ug/news/1523847/hydroxychloroquine-removed-covid-19-treatment-experts
+https://www.independent.co.ug/uganda-halts-use-of-hdyroxychloroquine-for-covid-19-treatment/
+https://www.reuters.com/article/uk-factcheck-uganda-idUSKBN26L2KW
 
 https://www.independent.co.ug/uganda-using-hydroxychloroquine-to-treat-covid-19-patients/
 
@@ -859,10 +1113,13 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 3
+*Time period: Q2*: 3
 
  
-Time period: *Jul-Sep*: 3
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
 
  
 
@@ -888,6 +1145,8 @@ https://theconversation.com/ugandas-army-and-violence-how-covid-19-is-offering-h
 
 https://www.independent.co.ug/ugandan-security-teams-have-killed-six-people-in-covid-19-operations/
 
+https://rsf.org/en/news/uganda-crackdown-reporters-threatens-ugandan-elections-credibility
+
 
 
 
@@ -898,7 +1157,7 @@ https://www.independent.co.ug/ugandan-security-teams-have-killed-six-people-in-c
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -908,10 +1167,13 @@ https://www.independent.co.ug/ugandan-security-teams-have-killed-six-people-in-c
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -919,33 +1181,14 @@ Time period: *Jul-Sep*: 1
  Uganda's inter-agency COVID-19 taskforce is led by the army, and lockdown is enforced by the army. 
 
 *Sources*:
- https://theconversation.com/ugandas-army-and-violence-how-covid-19-is-offering-hints-of-change-138331
-
-https://www.irishtimes.com/news/world/africa/no-beating-on-patrol-with-the-ugandan-military-enforcing-curfew-1.4227963
-
+ https://nilepost.co.ug/2020/11/20/army-to-increase-presence-in-kampala-more-strict-on-curfew/
+
+https://theconversation.com/ugandas-army-and-violence-how-covid-19-is-offering-hints-of-change-138331
+
+
+
+https://www.irishtimes.com/news/world/africa/no-beating-on-patrol-with-the-ugandan-military-enforcing-curfew-1.4227963
+
+
+
 https://www.upf.go.ug/inter-agency-task-force-formed-to-combat-covid-19/
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-*Answer*: Political rallies ahead of the 2021 presidential election are offically forbidden to limit the spreading. Candidates now need to use media to reach there audience, however, incumbent Museveni exerts great influence on the mass media. Opposition candidates and supporters do not have the resources to broadcast/listen private media. Furthermore, presidential speeches must be broadcast live by all radio and television stations by law. 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
- https://www.dw.com/en/ugandas-unequal-political-campaigns-during-covid-19-times/a-54488099

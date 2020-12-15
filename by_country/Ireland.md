@@ -1,9 +1,6 @@
 # Ireland 
 
 
-Time 2020-09-04 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-04
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,17 +25,27 @@ Time 2020-09-04
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- Ireland has an emergency legislation, but it only allows for declaring states of emergency "in time of war or armed rebellion". The Irish government and parliament thus made a substantial amendment to the existing Health Act (the amendment is called Preservation and Protection and other Emergency Measures in the Public Interest) which gives the Minister of Health power to restrict gatherings, implement lockdowns, travel restrictions and the like. The main national level emergency response has thus been taken under this legal instrument, which is a new amendment, and therefore coded as 4. 
+ Ireland has an emergency legislation, but it only allows for declaring states of emergency "in time of war or armed rebellion". The Irish government and parliament thus made a substantial amendment to the existing Health Act (the amendment is called Preservation and Protection and other Emergency Measures in the Public Interest) which gives the Minister of Health power to restrict gatherings, implement lockdowns, travel restrictions and the like. The main national level emergency response has thus been taken under this legal instrument, which is a new amendment, and therefore coded as 4. The legislation was most recently debated on October 22, where the Irish parliament decided to extend the legislation from November 9 2020 to June 9 2021, and it thus continues to operate as main legal instrument for measures toward Covid-19. 
 
 *Sources*:
- https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/ireland-report-covid-19-april-2020_en.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_pandemic_may_2020_0.pdf
-https://www.constituteproject.org/constitution/Ireland_2019.pdf?lang=en
+ https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/ireland-report-covid-19-april-2020_en.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_pandemic_may_2020_0.pdf
+https://www.constituteproject.org/constitution/Ireland_2019.pdf?lang=en
 https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://www.citizensinformation.ie/en/health/covid19/public_health_measures_for_covid19.html
+https://www.oireachtas.ie/en/debates/debate/dail/2020-10-22/60/
 
 
 
@@ -57,7 +64,15 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
 *Scale*: Character string.
 
  
-*Answer*: Health (Preservation and Protection and other Emergency Measures in the Public Interest) Act 2020 
+*Time period: Q2*: Health (Preservation and Protection and other Emergency Measures in the Public Interest) Act 2020
+
+ 
+*Time period: Q3*: Health (Preservation and Protection and other Emergency Measures in the Public Interest) Act 2020
+
+ 
+*Time period: Q4*: Health (Preservation and Protection and other Emergency Measures in the Public Interest) Act 2020
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -82,13 +97,21 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-20 
+*Time period: Q2*: 2020-03-20
+
+ 
+*Time period: Q3*: 2020-03-20
+
+ 
+*Time period: Q4*: 2020-03-20
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
+ https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
 https://fra.europa.eu/sites/default/files/fra_uploads/ireland-report-covid-19-april-2020_en.pdf
 
 
@@ -108,8 +131,15 @@ https://fra.europa.eu/sites/default/files/fra_uploads/ireland-report-covid-19-ap
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Implementation of legal instrument has not ended by time of coding. 
@@ -137,15 +167,27 @@ https://fra.europa.eu/sites/default/files/fra_uploads/ireland-report-covid-19-ap
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The Health (Preservation and Protection and other Emergency Measures in the Public Interest) Act 2020 has a sunset clause at November 9, with the possibility of extension. 
+ The Health (Preservation and Protection and other Emergency Measures in the Public Interest) Act 2020 has a sunset clause at November 9, with the possibility of extension. It was subsequently extended to 2021-06-09. 
 
 *Sources*:
- https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/ireland-report-covid-19-april-2020_en.pdf
+ https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/ireland-report-covid-19-april-2020_en.pdf
 https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_pandemic_may_2020_0.pdf
+https://www.constituteproject.org/constitution/Ireland_2019.pdf?lang=en
+https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://www.citizensinformation.ie/en/health/covid19/public_health_measures_for_covid19.html
+https://www.oireachtas.ie/en/debates/debate/dail/2020-10-22/60/
 
 
 
@@ -157,22 +199,34 @@ https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_p
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-11-09 
+*Time period: Q2*: 2020-11-09
+
+ 
+*Time period: Q3*: 2020-11-09
+
+ 
+*Time period: Q4*: 2021-06-09
+
+ 
 
 *Comments*:
- Note: the emergency measures taken under the Health (Preservation and Protection and other Emergency Measures in the Public Interest) Act 2020 have had different time limits that have in many cases been extended, but the amendment itself which grants the extraordinary powers to the Health Minister has a sunset clause at November 9, and this date is thus given as the time limit. 
+ Note: the emergency measures taken under the Health (Preservation and Protection and other Emergency Measures in the Public Interest) Act 2020 have had different time limits that have in many cases been extended, but the amendment itself which grants the extraordinary powers to the Health Minister initially had a sunset clause at November 9. However, the sunset clause was debated on October 22, after which it was extended to June 9 2021. Therefore, the end date was 2020-11-09 for the Mar-Jun and Jul-Sep period, but is 2021-06-09 for the Oct-Dec period. 
 
 *Sources*:
- https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/ireland-report-covid-19-april-2020_en.pdf
+ https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/ireland-report-covid-19-april-2020_en.pdf
 https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_pandemic_may_2020_0.pdf
+https://www.constituteproject.org/constitution/Ireland_2019.pdf?lang=en
+https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://www.citizensinformation.ie/en/health/covid19/public_health_measures_for_covid19.html
+https://www.oireachtas.ie/en/debates/debate/dail/2020-10-22/60/
 
 
 
@@ -184,7 +238,7 @@ https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_p
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -194,14 +248,22 @@ https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_p
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  The Irish lower house passed the bill on March 19. 
 
 *Sources*:
- https://www.oireachtas.ie/en/bills/bill/2020/3/
-https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
+ https://www.oireachtas.ie/en/bills/bill/2020/3/
+https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
 https://fra.europa.eu/sites/default/files/fra_uploads/ireland-report-covid-19-april-2020_en.pdf
 
 
@@ -224,13 +286,21 @@ https://fra.europa.eu/sites/default/files/fra_uploads/ireland-report-covid-19-ap
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  Yes, the amendment to the law could not have been made without the legislature approving it. 
 
 *Sources*:
- https://www.oireachtas.ie/en/bills/bill/2020/3/
+ https://www.oireachtas.ie/en/bills/bill/2020/3/
 https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
 
 
@@ -251,22 +321,29 @@ https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- As described by the IPU: "In Ireland there was a general election on 8 February and the process of government formation is ongoing. The Seanad general election is currently underway. It is normal in this period that there would be few sittings. Both Houses met to pass emergency legislation in late March.".
-Most work is done remotely, and parts of the regular programme have been cancelled so that parliament only works on Covid-19 related issues, but they have convened when necessary and they have passed the bills enabling the emergency response, and no indication is given that this response in turn has limited the parliaments lawmaking role or power in any way. This is therefore coded as 0. 
+ A lot of parliamentary work have been conducted remotely or with fewer members presents, and at times parts of the regular programme have been cancelled so that parliament only works on Covid-19 related issues. However, they have convened when necessary and they have passed the bills enabling the emergency response, and no indication is given that this response in turn has limited the parliaments lawmaking role or power in any way. Furthermore, after a first phase of only covid-19 related legislation (a phase that also coincided with the forming of the new parliament after elections early this year), the work has gone back to a more regular structure, although with some adaptions to the Covid-19 situation. Most importantly, the law making role of the Irish parliament has not been affected either by the Covid-19 situation or by the regulations that enable the measures taken toward Covid-19 passed by the parliament. This is therefore coded as 0. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#I
-https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
-https://www.oireachtas.ie/en/bills/bill/2020/3/
+ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#I
+https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
+https://www.oireachtas.ie/en/bills/bill/2020/3/
 https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
 
 
@@ -279,15 +356,22 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -312,8 +396,15 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -343,14 +434,25 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The emergency measures have been taken nationwide and no sub-national variation has been found in Ireland. This is therefore coded as 0. 
+ Initially, the emergency measures were taken nationwide with no sub-national variation. In the Jul-Sep period, however, some sub-national variation occurred as some specific measures were implemented in Kildare, Laois and Offaly, and subsequently also Dublin and Donegal, Calvan and Monaghan. This sub-national variation also carried over to the Oct-Dec period, and constituted differences in limitations on public gatherings, travel restrictions, attendance at public places etc. Several emergency measures have still been conducted nationwide though, and for instance the situation was deemed a level 5 emergency (the max) for the whole country in October, followed by nationwide restrictions again. Therefore, this is coded 0 in the Mar-Jun period, and 2 in the Jul-Sep and Oct-Dec period as some variation in important aspects of the restrictions were introduced, alongside uniform restrictions across the country. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
+ https://www.acaps.org/covid19-government-measures-dataset
 https://www.garda.com/crisis24/news-alert-full-history/QRxmkCyBbNst6LbX5/ireland-first-case-of-covid-19-confirmed-in-country-february-29
+https://www.garda.com/crisis24/news-alerts/367156/ireland-authorities-reintroduce-some-covid-19-restrictions-in-kildare-laois-and-offaly-counties-august-7-update-12
+https://www.garda.com/crisis24/news-alerts/381191/ireland-authorities-impose-tighter-restrictions-in-dublin-from-september-19-update-14
+https://www.garda.com/crisis24/news-alerts/390931/ireland-authorities-to-impose-highest-level-of-covid-19-restrictions-from-october-21-update-16
 
 
 
@@ -374,10 +476,13 @@ https://www.garda.com/crisis24/news-alert-full-history/QRxmkCyBbNst6LbX5/ireland
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -385,8 +490,8 @@ Time period: *Jul-Sep*: 0
  Human Rights Watch, Amnesty International and EU agency of fundamental righs have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9602
-https://www.amnesty.org/en/search/?country=38464&resourceType=newsarticle&sort=date
+ https://www.hrw.org/news?country[]=9602
+https://www.amnesty.org/en/search/?country=38464&resourceType=newsarticle&sort=date
 https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_pandemic_july_2020.pdf
 
 
@@ -416,10 +521,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_p
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -427,8 +535,8 @@ Time period: *Jul-Sep*: 0
  No, there are no de jure violations of non-derogable rights in the emergency measures. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9602
-https://www.amnesty.org/en/search/?country=38464&resourceType=newsarticle&sort=date
+ https://www.hrw.org/news?country[]=9602
+https://www.amnesty.org/en/search/?country=38464&resourceType=newsarticle&sort=date
 https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_pandemic_july_2020.pdf
 
 
@@ -453,13 +561,21 @@ https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_p
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Irish Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B115%5D=115
+ https://rsf.org/en/thematique/internet?countries%5B115%5D=115
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
 
 
@@ -472,21 +588,28 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B115%5D=115
+ https://rsf.org/en/thematique/internet?countries%5B115%5D=115
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
 
 
@@ -499,21 +622,28 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B115%5D=115
+ https://rsf.org/en/thematique/internet?countries%5B115%5D=115
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
 
 
@@ -536,19 +666,22 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Ireland,  and no other indications have been found of there having been implemented any such limitations. 
+ Neither Reporters without Borders, committee to protect journalists  nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Ireland,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B115%5D=115
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
+ https://rsf.org/en/thematique/internet?countries%5B115%5D=115https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
+https://cpj.org/europe/ireland/
 
 
 
@@ -560,7 +693,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -570,19 +703,22 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in Ireland,  and no other indications have been found of there having been implemented any such limitations. 
+ Neither Reporters without Borders, committee to protect journalists nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in Ireland,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B115%5D=115
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
+ https://rsf.org/en/thematique/internet?countries%5B115%5D=115https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
+https://cpj.org/europe/ireland/
 
 
 
@@ -604,19 +740,22 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in Ireland,  and no other indications have been found of there having been implemented any such limitations. 
+ Neither Reporters without Borders, committee to protect journalists nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in Ireland,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B115%5D=115
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
+ https://rsf.org/en/thematique/internet?countries%5B115%5D=115https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
+https://cpj.org/europe/ireland/
 
 
 
@@ -635,23 +774,26 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information,  and no other indications have been found of there being any such limitations. 
+ Neither Reporters without Borders, committee to protect journalists nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information,  and no other indications have been found of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B115%5D=115
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
+ https://rsf.org/en/thematique/internet?countries%5B115%5D=115https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
+https://cpj.org/europe/ireland/
 
 
 
@@ -673,19 +815,22 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any verbal harassment of journalists in Ireland, and no other indications have been found of there having been any such harassment. 
+ Neither Reporters without Borders, committee to protect journalists nor International Press Institute have reported any verbal harassment of journalists in Ireland, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B115%5D=115
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
+ https://rsf.org/en/thematique/internet?countries%5B115%5D=115https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
+https://cpj.org/europe/ireland/
 
 
 
@@ -707,19 +852,22 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any physical harassment of journalists in Ireland, and no other indications have been found of there having been any such harassment. 
+ Neither Reporters without Borders, committee to protect journalists nor International Press Institute have reported any physical harassment of journalists in Ireland, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B115%5D=115
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
+ https://rsf.org/en/thematique/internet?countries%5B115%5D=115https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
+https://cpj.org/europe/ireland/
 
 
 
@@ -743,10 +891,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -778,20 +929,23 @@ Time period: *Jul-Sep*: 0
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Human Rights Watch, Amnesty International nor EU agency for fundamental rights have reported any incidents of violence in enforcing emergency measures 
+ Neither Human Rights Watch, Amnesty International nor EU agency for fundamental rights have reported any incidents of violence in enforcing emergency measures.
+There's a report of a violent clash between police and protesters in October, but this is not described as involving any abusive or excessive force, and thus not reason for coding it other than 0. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9602
-https://www.amnesty.org/en/search/?country=38464&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_pandemic_july_2020.pdf
+ https://www.hrw.org/news?country[]=9602https://www.amnesty.org/en/search/?country=38464&resourceType=newsarticle&sort=datehttps://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_pandemic_july_2020.pdf
+https://www.independent.co.uk/news/world/europe/lockdown-protest-dublin-let-ireland-live-coronavirus-gardai-b985870.html
 
 
 
@@ -803,7 +957,7 @@ https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_p
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -813,10 +967,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_p
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -825,29 +982,4 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  http://euromil.org/armed-forces-and-covid-19/
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*
+https://www.acaps.org/covid19-government-measures-dataset

@@ -1,9 +1,6 @@
 # China 
 
 
-Time 2020-06-10 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-06-10
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,18 +25,30 @@ Time 2020-06-10
  7. Other.
 
  
-*Answer*: 6 
+*Time period: Q2*: 6
+
+ 
+*Time period: Q3*: 6
+
+ 
+*Time period: Q4*: 6
+
+ 
 
 *Comments*:
- China has a four-tier response system for public health emergencies that determines what measures a region will implement, with level I the most serious. Officials in the different regions are separately in charge of their own areas. The emergency response law is triggered when the region goes into level 1. However, the measures that can be taken according to the emergency response law is very vague (Third source link). These laws have been enacted since January 2020. 
+ China has a four-tier response system for public health emergencies that determines what measures a region will implement, with level 1 the most serious. Officials in the different regions are separately in charge of their own areas. The emergency response law is triggered when the region goes into level 1. However, the measures that can be taken according to the emergency response law is very vague (Third source link). These laws have been enacted since January 2020. 
 
 *Sources*:
  http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
-
-
+
+
+
+
 https://www.reuters.com/article/us-china-health-response/three-more-chinese-regions-lower-emergency-response-level-as-virus-threat-recedes-idUSKCN20K029
-
-http://constitutionnet.org/state-of-emergency
+
+
+http://constitutionnet.org/state-of-emergency
+
 http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
 
 
@@ -59,7 +68,15 @@ http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
 *Scale*: Character string.
 
  
-*Answer*: Emergency Response Law of the People's Republic of China 
+*Time period: Q2*: Emergency Response Law of the People's Republic of China
+
+ 
+*Time period: Q3*: Emergency Response Law of the People's Republic of China
+
+ 
+*Time period: Q4*: Emergency Response Law of the People's Republic of China
+
+ 
 
 *Comments*:
  Emergency Response Law of the People's Republic of China 
@@ -84,24 +101,40 @@ http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
 *Scale*: Date format.
 
  
-*Answer*: 2020-01-24 
+*Time period: Q2*: 2020-01-24
+
+ 
+*Time period: Q3*: 2020-01-24
+
+ 
+*Time period: Q4*: 2020-01-24
+
+ 
 
 *Comments*:
  The different regions went into level 1 at different points. As such, the emergency response law was also triggered at different points. The first emergency measures were enacted in the Hubei province. 
 
 *Sources*:
  https://www.bbc.com/news/world-asia-china-51362336
-
-
+
+
+
+
 https://www.chinadaily.com.cn/a/202001/24/WS5e2a8f83a3101282172731fa.html
-
-
+
+
+
+
 https://www.chinadaily.com.cn/a/202001/22/WS5e27e312a310128217272c87.htmlhttp://english.court.gov.cn/2015-08/17/content_21625180_2.htm
-
-
+
+
+
+
 https://www.reuters.com/article/us-china-health-response/three-more-chinese-regions-lower-emergency-response-level-as-virus-threat-recedes-idUSKCN20K029
-
-http://constitutionnet.org/state-of-emergency
+
+
+http://constitutionnet.org/state-of-emergency
+
 http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
 
 
@@ -121,19 +154,30 @@ http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  There is no national response (emlaw=6). It is not possible to provide an end date or time to the measures as the situation is dealt with on a provincial level. Hence the different provinces have ended their measures at different times. 
 
 *Sources*:
  http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
-
-
+
+
+
+
 https://www.reuters.com/article/us-china-health-response/three-more-chinese-regions-lower-emergency-response-level-as-virus-threat-recedes-idUSKCN20K029
-
-http://constitutionnet.org/state-of-emergency
+
+
+http://constitutionnet.org/state-of-emergency
+
 http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
 
 
@@ -156,19 +200,32 @@ http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The emergency response law makes no mention of a time limit 
 
 *Sources*:
  "http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
-
-
+
+
+
+
 https://www.reuters.com/article/us-china-health-response/three-more-chinese-regions-lower-emergency-response-level-as-virus-threat-recedes-idUSKCN20K029
-
-http://constitutionnet.org/state-of-emergency
-http://english.court.gov.cn/2015-08/17/content_21625180_2.htm"
+
+
+http://constitutionnet.org/state-of-emergency
+
+http://english.court.gov.cn/2015-08/17/content_21625180_2.htm"
+
 http://english.court.gov.cn/2015-08/17/content_21625180.htm
 
 
@@ -181,27 +238,39 @@ http://english.court.gov.cn/2015-08/17/content_21625180.htm
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency response law makes no mention of a time limit 
 
 *Sources*:
  "http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
-
-
+
+
+
+
 https://www.reuters.com/article/us-china-health-response/three-more-chinese-regions-lower-emergency-response-level-as-virus-threat-recedes-idUSKCN20K029
-
-http://constitutionnet.org/state-of-emergency
-http://english.court.gov.cn/2015-08/17/content_21625180_2.htm"
+
+
+http://constitutionnet.org/state-of-emergency
+
+http://english.court.gov.cn/2015-08/17/content_21625180_2.htm"
+
 http://english.court.gov.cn/2015-08/17/content_21625180.htm
 
 
@@ -214,7 +283,7 @@ http://english.court.gov.cn/2015-08/17/content_21625180.htm
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -224,7 +293,15 @@ http://english.court.gov.cn/2015-08/17/content_21625180.htm
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  The source explains how in the approval of the national legislature is needed. But in reality it is the loyalty to the party that is the most important. 
@@ -252,7 +329,15 @@ http://english.court.gov.cn/2015-08/17/content_21625180.htm
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  The source explains how in the approval of the national legislature is needed. But in reality it is the loyalty to the party that is the most important. 
@@ -278,21 +363,31 @@ http://english.court.gov.cn/2015-08/17/content_21625180.htm
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Article 7 of the emergency law states 'The people governments at the county level shall be responsible for responding to emergencies which occur within their own administrative areas; where two or more administrative areas are involved in an emergency, the people government at the next higher level, which the people governments of the said administrative areas are subordinate to, shall assume responsibility, or the people governments at the next higher level of the respective people governments of the said administrative areas shall jointly assume responsibility. Where the people government at the county level at the place where an emergency occurs is unable to eliminate or keep under effective control the serious social harm caused by the emergency, it shall, in a timely manner, report the matter to the people government at a higher level, which shall take timely measures and exercise unified leadership in handling the emergency.' 
 
 *Sources*:
  http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
-
-
+
+
+
+
 https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislative-activities.pdf
 
 
@@ -305,25 +400,36 @@ https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislat
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  There is no information suggesting that the Chinese national legislature was dissolved. However, the annual parliamentary gathering which was due to start on 24 March 2020 was postponed. 
 
 *Sources*:
- 
-
+ 
+
+
+
 https://www.theguardian.com/global-development/2020/feb/24/coronavirus-china-wuhan-lockdown-economy-south-korea-npc-annual-parliament
-
-
+
+
+
+
 https://www.dw.com/en/coronavirus-china-postpones-parliament-meeting-over-virus-outbreak/a-52498526
 
 
@@ -343,18 +449,29 @@ https://www.dw.com/en/coronavirus-china-postpones-parliament-meeting-over-virus-
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  There is no information suggesting that the Chinese national legislature was dissolved. However, the annual parliamentary gathering which was due to start on 24 March 2020 was postponed. 
 
 *Sources*:
- 
-
+ 
+
+
+
 https://www.theguardian.com/global-development/2020/feb/24/coronavirus-china-wuhan-lockdown-economy-south-korea-npc-annual-parliament
-
-
+
+
+
+
 https://www.dw.com/en/coronavirus-china-postpones-parliament-meeting-over-virus-outbreak/a-52498526
 
 
@@ -379,24 +496,34 @@ https://www.dw.com/en/coronavirus-china-postpones-parliament-meeting-over-virus-
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 3 
+*Time period: Q2*: 3
+
+ 
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
+
+ 
 
 *Comments*:
- The BBC source illustrates how the emergency measures have varied across regions based on the serverity of the spread of Covid-19. 
-
-The tables under the heading 'lockdown timeline' in the wikipedia source show how the start and end points of lockdowns in different regions. Some occured before 11th March and others after 11th march. 
+ The BBC source illustrates how the emergency measures have varied across regions based on the serverity of the spread of Covid-19. The tables under the heading 'lockdown timeline' in the wikipedia source show how the start and end points of lockdowns in different regions. Some occured before 11th March and others after 11th march.
+
+1: The region of Urumqi was locked down in July 2020 after multiple infections were detected in the region.
+
+2: In October 2020, China started testing the residents in Qingdao (population: 9 million) for Covid-19 after 12 cases were found within the city. 
 
 *Sources*:
  https://www.bbc.com/news/world-asia-china-52613138
-
-
 "http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
-
-
 https://www.reuters.com/article/us-china-health-response/three-more-chinese-regions-lower-emergency-response-level-as-virus-threat-recedes-idUSKCN20K029
-
-http://constitutionnet.org/state-of-emergency
-http://english.court.gov.cn/2015-08/17/content_21625180_2.htm"
+http://constitutionnet.org/state-of-emergencyhttp://english.court.gov.cn/2015-08/17/content_21625180_2.htm"
+
+https://www.bbc.com/news/world-asia-china-53458412
+
+https://www.nytimes.com/2020/08/25/world/asia/china-xinjiang-covid.html
+
+https://www.businessinsider.com/china-testing-qingdao-city-9-million-after-12-cases-hospital-2020-10?r=US&IR=T
 
 
 
@@ -420,10 +547,13 @@ http://english.court.gov.cn/2015-08/17/content_21625180_2.htm"
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -472,10 +602,13 @@ https://www.bbc.com/news/world-africa-52309414
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -513,7 +646,15 @@ http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  Article 63(2) states, "delaying submission of report, or giving false report, on information about an emergency, concealing or omitting certain facts, or circulating, submitting or releasing false information, thus leading to adverse consequences" 
@@ -531,15 +672,22 @@ http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -557,27 +705,39 @@ http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency response law makes no mention of a time limit 
 
 *Sources*:
  "http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
-
-
+
+
+
+
 https://www.reuters.com/article/us-china-health-response/three-more-chinese-regions-lower-emergency-response-level-as-virus-threat-recedes-idUSKCN20K029
-
-http://constitutionnet.org/state-of-emergency
-http://english.court.gov.cn/2015-08/17/content_21625180_2.htm"
+
+
+http://constitutionnet.org/state-of-emergency
+
+http://english.court.gov.cn/2015-08/17/content_21625180_2.htm"
+
 http://english.court.gov.cn/2015-08/17/content_21625180.htm
 
 
@@ -600,10 +760,13 @@ http://english.court.gov.cn/2015-08/17/content_21625180.htm
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -611,6 +774,8 @@ Time period: *Jul-Sep*: 1
  Chinese politicians downplayed the severity of the virus in its early weeks prior to 11 March 2020. Police also target “rumourmongers” and censors deleted any commentary that question the official line. On 1 January 2020, the government arrested eight whistle blower doctors accused of spreading rumours about Covid-19.
 
 Fang Bin a textile trader living in Wuhan documented the state of saturation in hospitals in a video that was uploaded on 25 January 2020. He was later arrested and his laptop confiscated for the reporting that he had done. 
+
+Citizen journalists have been gone missing, found to have been detained and ‘formally indicted on charges of spreading false information’. According to reports, these individuals were reporting on Covid-19 – on the prevalence of the virus and the governments response. 
 
 *Sources*:
  https://edition.cnn.com/2020/04/21/media/rsf-press-freedom-index-2020-intl/index.html
@@ -621,6 +786,10 @@ https://rsf.org/en/news/rsf-urges-china-stop-censoring-information-about-coronav
 
 https://rsf.org/fr/actualites/coronavirus-ces-heros-de-linformation-que-la-chine-etouffes
 
+https://www.theguardian.com/world/2020/sep/24/wuhan-covid-journalist-missing-since-february-found-says-friend-chen-qiushi-china
+
+
+https://www.theguardian.com/world/2020/nov/16/citizen-journalist-facing-jail-in-china-for-wuhan-covid-reporting-zhang-zhan
 
 
 
@@ -632,7 +801,7 @@ https://rsf.org/fr/actualites/coronavirus-ces-heros-de-linformation-que-la-chine
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -642,10 +811,13 @@ https://rsf.org/fr/actualites/coronavirus-ces-heros-de-linformation-que-la-chine
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -658,7 +830,9 @@ Time period: *Jul-Sep*: 1
 
 3: Three journalists were arrested for publishing information related to the epidemic. 
 
-4: On May 8 2020, New York Times foreign correspondent Chris Buckley, who had spent 76 days in Wuhan reporting on the pandemic was forced out of China after the authorities refused to renew his visa. 
+4: On May 8 2020, New York Times foreign correspondent Chris Buckley, who had spent 76 days in Wuhan reporting on the pandemic was forced out of China after the authorities refused to renew his visa.
+
+5: Citizen journalists have been gone missing, found to have been detained and ‘formally indicted on charges of spreading false information’. According to reports, these individuals were reporting on Covid-19 – on the prevalence of the virus and the governments response. 
 
 *Sources*:
  https://rsf.org/en/news/chinas-diplomats-must-stop-attacking-media-over-coronavirus-reporting
@@ -666,6 +840,11 @@ Time period: *Jul-Sep*: 1
 https://rsf.org/en/news/rsf-calls-china-stop-cracking-down-voices-criticizing-its-coronavirus-management
 
 https://www.nytimes.com/2020/03/16/business/china-coronavirus-internet-police.html
+
+https://www.theguardian.com/world/2020/sep/24/wuhan-covid-journalist-missing-since-february-found-says-friend-chen-qiushi-china
+
+
+https://www.theguardian.com/world/2020/nov/16/citizen-journalist-facing-jail-in-china-for-wuhan-covid-reporting-zhang-zhan
 
 
 
@@ -687,15 +866,20 @@ https://www.nytimes.com/2020/03/16/business/china-coronavirus-internet-police.ht
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- The Chinese government has maintained a very tight and highly controlled media since before the start of the Covid-19 pandemic. Reporters without Borders have reported how China’s state owned media is currently under the close control of the Community Party. While there are foreign journalists and news agencies working in China, the encounter multiple obstacles while working in the field. More than 100 journalists are currently detained in conditions that pose a threat to their lives. In this way de-facto limitations are already in place on media reporting. 
+ The Chinese government has maintained a very tight and highly controlled media since before the start of the Covid-19 pandemic. Reporters without Borders have reported how China’s state owned media is currently under the close control of the Community Party. While there are foreign journalists and news agencies working in China, they encounter multiple obstacles while working in the field. More than 100 journalists are currently detained in conditions that pose a threat to their lives. In this way de-facto limitations are already in place on media reporting.
+
+Beijing has expelled least 14 international journalists since March 2020. Most recently, two Australian China correspondents working for the Australian ABC network were asked to leave in September 2020. While this may not be directly linked to Covid-19, the reduced presence of international media in China would make it harder to attain information contrary to the narrative propagated by the Chinese government. 
 
 *Sources*:
  https://rsf.org/en/china
@@ -708,6 +892,10 @@ https://www.cfr.org/backgrounder/media-censorship-china
 
 
 
+https://www.abc.net.au/news/2020-09-08/bill-birtles-mike-smith-evacuated-china-safety-concerns/12638786
+
+
+https://www.hrw.org/news/2020/09/08/australian-journalists-forced-leave-china
 
 
 
@@ -726,21 +914,25 @@ https://www.cfr.org/backgrounder/media-censorship-china
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
  1: On 8 May 2020, Chris Buckley a foreign correspondent with the NYT who spent 76 days in Wuhan reporting on the Covid-19 crisis, was forced out of China on May 8th after the authorities refused to renew his visa. The Australian native, based in China for the past 24 years, was personally attacked in recent months by Chinese state media for his reporting on the epidemic, which included how government secrecy delayed the fight against the virus and public anger over the death of whistleblower, Dr, Li Wenliang.
 2: On 27 March 2020 at least 13 US foreign correspondents were forced to leave China. 
-3: Chinese journalist was arrested on 15 May in Shanghai for commenting on the authorities\ countermeasures on Twitter. 
+3: Chinese journalist was arrested on 15 May in Shanghai for commenting on the authorities\ countermeasures on Twitter.
+4: 4: Two Australian China correspondents working for the Australian ABC network were asked to leave in September 2020. While this may not be directly linked to Covid-19, the reduced presence of international media in China would make it harder to attain information contrary to the narrative propagated by the Chinese government. 
 
 *Sources*:
  https://rsf.org/en/news/covid-19-six-chinese-defenders-press-freedom-still-detention
@@ -754,6 +946,10 @@ https://edition.cnn.com/2020/04/12/asia/china-coronavirus-research-restrictions-
 
 
 https://www.theguardian.com/world/2020/apr/11/china-clamping-down-on-coronavirus-research-deleted-pages-suggest
+https://www.abc.net.au/news/2020-09-08/bill-birtles-mike-smith-evacuated-china-safety-concerns/12638786
+
+
+https://www.hrw.org/news/2020/09/08/australian-journalists-forced-leave-china
 
 
 
@@ -775,10 +971,13 @@ https://www.theguardian.com/world/2020/apr/11/china-clamping-down-on-coronavirus
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -811,10 +1010,13 @@ https://rsf.org/en/news/coronavirus-mass-expulsion-foreign-correspondents-furthe
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -851,23 +1053,25 @@ https://www.hrw.org/world-report/2020/country-chapters/china-and-tibet
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- I did not find any information on the Chinese government providing information on Covid-19 that deviated from the information provided by the WHO. 
+ There are multiple reports that have been emerging in from November which discuss how China state media has been 'reporting intensively' on the fact that Covid-19 did not originate in Wuhan. I haved coded 2 based on the intensity of the Chinese government's reporting on this issue'.
+
+A former chief epidemiologist said in a briefing 'Although China was the first to report cases, it doesn’t necessarily mean that the virus originated in China'. Chinese scientists have also submitting a paper for publication to the Lancet. This paper claims 'Wuhan is not the place where human-to-human Sars-CoV-2 transmission first happened'. It instead suggests that the first case have originated in the 'Indian subcontinent'. 
 
 *Sources*:
- https://rsf.org/en/china
+ https://www.theguardian.com/world/2020/nov/29/a-year-after-wuhan-alarm-china-seeks-to-change-covid-origin-story?fbclid=IwAR0JdZAy8jLonk1H5DzkBtT-MCbSZ-dzDe-is7WO1acFIU01hl415q-_NwA
+https://www.cbsnews.com/news/china-covid-19-origin-wuhan/
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/china/
-
-
-https://www.hrw.org/world-report/2020/country-chapters/china-and-tibet
 
 
 
@@ -891,10 +1095,13 @@ https://www.hrw.org/world-report/2020/country-chapters/china-and-tibet
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -919,7 +1126,7 @@ https://www.hrw.org/world-report/2020/country-chapters/china-and-tibet
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -929,10 +1136,13 @@ https://www.hrw.org/world-report/2020/country-chapters/china-and-tibet
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -947,29 +1157,3 @@ https://www.orfonline.org/expert-speak/covid-19-the-chinese-militarys-busy-explo
 
 
 https://www.bbc.com/news/world-51911340
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

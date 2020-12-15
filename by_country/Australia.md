@@ -1,9 +1,6 @@
 # Australia 
 
 
-Time 2020-09-02 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-02
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,17 +25,23 @@ Time 2020-09-02
  7. Other.
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- Australia has nationally declared a Human Biosecurity Emergency.
+ Australia has nationally declared a Human Biosecurity Emergency.
 This is a specific legal instrument that is separate from the Disaster and Emergency Management Act (referenced), and this is thus coded as 2, i.e. a public health emergency. 
 
 *Sources*:
- https://www.legislation.gov.au/Details/F2020L00266
-https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/FlagPost/2020/March/COVID-19_Biosecurity_Emergency_Declaration
-https://www.legislation.gov.au/Details/C2017C00303
-https://www.legislation.gov.au/Details/C2018Q00086
+ https://www.legislation.gov.au/Details/F2020L00266https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/FlagPost/2020/March/COVID-19_Biosecurity_Emergency_Declarationhttps://www.legislation.gov.au/Details/C2017C00303https://www.legislation.gov.au/Details/C2018Q00086
+https://www.health.gov.au/ministers/the-hon-greg-hunt-mp/media/human-biosecurity-emergency-period-extended-by-three-months
 
 
 
@@ -57,10 +60,18 @@ https://www.legislation.gov.au/Details/C2018Q00086
 *Scale*: Character string.
 
  
-*Answer*: Biosecurity (Human Biosecurity Emergency) (Human Coronavirus with Pandemic Potential) Declaration 2020 
+*Time period: Q2*: Biosecurity (Human Biosecurity Emergency) (Human Coronavirus with Pandemic Potential) Declaration 2020
+
+ 
+*Time period: Q3*: Biosecurity (Human Biosecurity Emergency) (Human Coronavirus with Pandemic Potential) Declaration 2020
+
+ 
+*Time period: Q4*: Biosecurity (Human Biosecurity Emergency) (Human Coronavirus with Pandemic Potential) Declaration 2020
+
+ 
 
 *Comments*:
-*No comment provided* 
+ Austria has a state of emergency legislation, but this has not been used. Instead, Austria have implemented a set of new laws (Covid-19 Law, Second Covid-19 Law and then subsequent legislation for the reopening of Austria) within the existing legal framework. Through the new laws,+J8 
 
 *Sources*:
  https://www.legislation.gov.au/Details/F2020L00266
@@ -82,7 +93,15 @@ https://www.legislation.gov.au/Details/C2018Q00086
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-18 
+*Time period: Q2*: 2020-03-18
+
+ 
+*Time period: Q3*: 2020-03-18
+
+ 
+*Time period: Q4*: 2020-03-18
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -107,8 +126,15 @@ https://www.legislation.gov.au/Details/C2018Q00086
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Implementation of legal instrument has not ended by time of coding. 
@@ -136,13 +162,22 @@ https://www.legislation.gov.au/Details/C2018Q00086
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  The declaration states that the emergency measures are "ending at the end of 3 months beginning on the day this instrument is registered." 
 
 *Sources*:
  https://www.legislation.gov.au/Details/F2020L00266
+https://www.health.gov.au/ministers/the-hon-greg-hunt-mp/media/human-biosecurity-emergency-period-extended-by-three-months
 
 
 
@@ -154,22 +189,30 @@ https://www.legislation.gov.au/Details/C2018Q00086
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-12-17 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 2020-12-17
+
+ 
 
 *Comments*:
  The initially declared end date was June 17. Within the legal instrument, there's a possibility to extend the period of Biosecurity Emergency indefinetly, but only for three months at a time. Already on 14th of May it was declared that the measures will be in place for another 3 months, thus ending on the 17th of September. On September 3, it was declared that it is extended to December 17. 
 
 *Sources*:
- https://www.legislation.gov.au/Details/F2020L00266
-https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/FlagPost/2020/March/COVID-19_Biosecurity_Emergency_Declaration
-https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Scrutiny_of_Delegated_Legislation/Scrutiny_of_COVID-19_instruments
+ https://www.legislation.gov.au/Details/F2020L00266
+https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/FlagPost/2020/March/COVID-19_Biosecurity_Emergency_Declaration
+https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Scrutiny_of_Delegated_Legislation/Scrutiny_of_COVID-19_instruments
 https://www.health.gov.au/ministers/the-hon-greg-hunt-mp/media/human-biosecurity-emergency-period-extended-by-three-months
 
 
@@ -182,7 +225,7 @@ https://www.health.gov.au/ministers/the-hon-greg-hunt-mp/media/human-biosecurity
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -192,14 +235,22 @@ https://www.health.gov.au/ministers/the-hon-greg-hunt-mp/media/human-biosecurity
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The law does not require that the Australian parliament approves the emergency measures. 
 
 *Sources*:
- https://www.legislation.gov.au/Details/F2020L00266
-https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/FlagPost/2020/March/COVID-19_Biosecurity_Emergency_Declaration
+ https://www.legislation.gov.au/Details/F2020L00266
+https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/FlagPost/2020/March/COVID-19_Biosecurity_Emergency_Declaration
 https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/rp1920/Quick_Guides/AustralianCovid-19ResponseManagement
 
 
@@ -222,14 +273,22 @@ https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The Australian parliament has not voted on whether to approve the emergency measures. 
 
 *Sources*:
- https://www.legislation.gov.au/Details/F2020L00266
-https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/FlagPost/2020/March/COVID-19_Biosecurity_Emergency_Declaration
+ https://www.legislation.gov.au/Details/F2020L00266
+https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/FlagPost/2020/March/COVID-19_Biosecurity_Emergency_Declaration
 https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/rp1920/Quick_Guides/AustralianCovid-19ResponseManagement
 
 
@@ -250,13 +309,21 @@ https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
  When a Biosecurity Emergency is in place, the  "Biosecurity Act provides that emergency requirements determined by the Health Minister under subsection 477(1) are not subject to disallowance by the Parliament." (quote from https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Scrutiny_of_Delegated_Legislation/Scrutiny_of_COVID-19_instruments).
@@ -264,10 +331,10 @@ However, these powers given to the Health Minister are fairly narrow and focused
 The Biosecurity Emergency has been extended, and is currently set to end at December 17, and this is thus coded 2 for both periods. 
 
 *Sources*:
- https://www.legislation.gov.au/Details/F2020L00266
-https://www.legislation.gov.au/Details/C2017C00303
-https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/rp1920/Quick_Guides/AustralianCovid-19ResponseManagement
-https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Scrutiny_of_Delegated_Legislation/Scrutiny_of_COVID-19_instruments
+ https://www.legislation.gov.au/Details/F2020L00266
+https://www.legislation.gov.au/Details/C2017C00303
+https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/rp1920/Quick_Guides/AustralianCovid-19ResponseManagement
+https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Scrutiny_of_Delegated_Legislation/Scrutiny_of_COVID-19_instruments
 https://www.health.gov.au/ministers/the-hon-greg-hunt-mp/media/human-biosecurity-emergency-period-extended-by-three-months
 
 
@@ -280,15 +347,22 @@ https://www.health.gov.au/ministers/the-hon-greg-hunt-mp/media/human-biosecurity
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -313,8 +387,15 @@ https://www.health.gov.au/ministers/the-hon-greg-hunt-mp/media/human-biosecurity
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -344,14 +425,22 @@ https://www.health.gov.au/ministers/the-hon-greg-hunt-mp/media/human-biosecurity
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- While it is the states and territories that enforce and control many of the emergency measures, the coordination through the National Cabinet (the federal government and all state and territories cooperation unit) is in place to coordinate and integrate the response to Covid-19, and the sub-national variation seems to be fairly small. 
+ While it is the states and territories that enforce and control many of the emergency measures, the coordination through the National Cabinet (the federal government and all state and territories cooperation unit) is in place to coordinate and integrate the response to Covid-19, and the sub-national variation seems to be fairly small. For instance, there have been differences in how many people you can invite to your home, how many that are allowed to gather outdoors etc., but these variations have not been substantial and for those that have had comparatively relaxed restrictions, these have still been accompanied by strict demand of keeping distance etc. Therefore, this is coded as 1 for all threee periods. 
 
 *Sources*:
- https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/government-response-to-the-covid-19-outbreak
-https://www.acaps.org/covid19-government-measures-dataset
+ https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/government-response-to-the-covid-19-outbreakhttps://www.acaps.org/covid19-government-measures-dataset
+https://www.theguardian.com/australia-news/2020/nov/13/australia-covid-19-lockdown-rules-coronavirus-restrictions-by-state-how-far-can-travel-interstate-border-social-distancing-nsw-victoria-vic-queensland-qld-wa-sa-act-how-many-people-over-house
 
 
 
@@ -375,10 +464,13 @@ https://www.acaps.org/covid19-government-measures-dataset
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -386,11 +478,7 @@ Time period: *Jul-Sep*: 0
  There is no discriminating measures within the Biosecurity Emergency measures, and there are no other indications of such discrimination occuring in Australia's emergency response. Therefore, this variable is coded as 0. 
 
 *Sources*:
- https://www.legislation.gov.au/Details/F2020L00266
-https://humanrights.gov.au/our-work/commission-general/covid-19-information
-https://www.hrw.org/asia/australia
-https://www.amnesty.org/en/search/?country=38345&resourceType=newsarticle&sort=date
-
+ https://www.legislation.gov.au/Details/F2020L00266https://humanrights.gov.au/our-work/commission-general/covid-19-informationhttps://www.hrw.org/asia/australiahttps://www.amnesty.org/en/search/?country=38345&resourceType=newsarticle&sort=date
 
 
 
@@ -419,10 +507,13 @@ https://www.amnesty.org/en/search/?country=38345&resourceType=newsarticle&sort=d
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -430,9 +521,9 @@ Time period: *Jul-Sep*: 0
  Neither Human Rights Watch nor Amnesty International has reported any incidents of violations of non-derogable rights, and no other indication has been found that that has occurred in Australia's covid-19 response. This is therefore coded as 0. 
 
 *Sources*:
- https://humanrights.gov.au/our-work/commission-general/covid-19-information
-https://www.hrw.org/asia/australia
-https://www.amnesty.org/en/search/?country=38345&resourceType=newsarticle&sort=date
+ https://humanrights.gov.au/our-work/commission-general/covid-19-information
+https://www.hrw.org/asia/australia
+https://www.amnesty.org/en/search/?country=38345&resourceType=newsarticle&sort=date
 
 
 
@@ -457,13 +548,21 @@ https://www.amnesty.org/en/search/?country=38345&resourceType=newsarticle&sort=d
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No de jure limitations on media freedom in the Biosecurity Emergency declaration, or any the measures taken under it. 
 
 *Sources*:
- https://www.legislation.gov.au/Details/F2020L00266
+ https://www.legislation.gov.au/Details/F2020L00266
 https://www.legislation.gov.au/Details/C2017C00303
 
 
@@ -476,21 +575,28 @@ https://www.legislation.gov.au/Details/C2017C00303
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limitations on media freedom in the Biosecurity Emergency declaration, or any the measures taken under it. 
 
 *Sources*:
- https://www.legislation.gov.au/Details/F2020L00266
+ https://www.legislation.gov.au/Details/F2020L00266
 https://www.legislation.gov.au/Details/C2017C00303
 
 
@@ -503,21 +609,28 @@ https://www.legislation.gov.au/Details/C2017C00303
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limitations on media freedom in the Biosecurity Emergency declaration, or any the measures taken under it. 
 
 *Sources*:
- https://www.legislation.gov.au/Details/F2020L00266
+ https://www.legislation.gov.au/Details/F2020L00266
 https://www.legislation.gov.au/Details/C2017C00303
 
 
@@ -540,21 +653,22 @@ https://www.legislation.gov.au/Details/C2017C00303
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Australia,  and no other indications have been found of there having been implemented any such limitations. 
+ Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Australia,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/australia
-https://ipi.media/australia/
-https://www.bbc.co.uk/search?q=Australia+Covid-19+media+freedom&page=1
-https://www.reuters.com/search/news?blob=Australia+media+freedom+Covid-19
+ https://rsf.org/en/australiahttps://ipi.media/australia/https://www.bbc.co.uk/search?q=Australia+Covid-19+media+freedom&page=1https://www.reuters.com/search/news?blob=Australia+media+freedom+Covid-19
+https://cpj.org/asia/australia/
 
 
 
@@ -566,7 +680,7 @@ https://www.reuters.com/search/news?blob=Australia+media+freedom+Covid-19
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -576,21 +690,22 @@ https://www.reuters.com/search/news?blob=Australia+media+freedom+Covid-19
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in Australia,  and no other indications have been found of there having been implemented any such limitations. 
+ Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in Australia,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/australia
-https://ipi.media/australia/
-https://www.bbc.co.uk/search?q=Australia+Covid-19+media+freedom&page=1
-https://www.reuters.com/search/news?blob=Australia+media+freedom+Covid-19
+ https://rsf.org/en/australiahttps://ipi.media/australia/https://www.bbc.co.uk/search?q=Australia+Covid-19+media+freedom&page=1https://www.reuters.com/search/news?blob=Australia+media+freedom+Covid-19
+https://cpj.org/asia/australia/
 
 
 
@@ -612,21 +727,22 @@ https://www.reuters.com/search/news?blob=Australia+media+freedom+Covid-19
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in Australia,  and no other indications have been found of there having been implemented any such limitations. 
+ Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in Australia,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/australia
-https://ipi.media/australia/
-https://www.bbc.co.uk/search?q=Australia+Covid-19+media+freedom&page=1
-https://www.reuters.com/search/news?blob=Australia+media+freedom+Covid-19
+ https://rsf.org/en/australiahttps://ipi.media/australia/https://www.bbc.co.uk/search?q=Australia+Covid-19+media+freedom&page=1https://www.reuters.com/search/news?blob=Australia+media+freedom+Covid-19
+https://cpj.org/asia/australia/
 
 
 
@@ -645,25 +761,27 @@ https://www.reuters.com/search/news?blob=Australia+media+freedom+Covid-19
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information,  and no other indications have been found of there being any such limitations. 
+ Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information,  and no other indications have been found of there being any such limitations. The Australian authoroties have announced that access to information can take longer than the usual statutory frameworks due to Covid-19, and that authorities can apply for extended time periods within which they have to deliver requested information. But this is not a limitation in access to information as such, and no complaints or reports have been found that this limits media's access to covid-19 related information. 
 
 *Sources*:
- https://rsf.org/en/australia
-https://ipi.media/australia/
-https://www.reuters.com/search/news?sortBy=&dateRange=&blob=Australia+access+to+information+Covid-19
-https://www.bbc.co.uk/search?q=Australia+Covid-19+access+to+information&page=1
+ https://rsf.org/en/australiahttps://ipi.media/australia/https://www.reuters.com/search/news?sortBy=&dateRange=&blob=Australia+access+to+information+Covid-19https://www.bbc.co.uk/search?q=Australia+Covid-19+access+to+information&page=1
+https://cpj.org/asia/australia/
+https://www.oaic.gov.au/freedom-of-information/frequently-asked-questions/how-can-agencies-meet-statutory-timeframes-during-the-covid-19-pandemic/
 
 
 
@@ -685,21 +803,22 @@ https://www.bbc.co.uk/search?q=Australia+Covid-19+access+to+information&page=1
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any verbal harassment of journalists by the government and/or its agents, and no other indications have been found of there being any such harassment 
+ Neither Reporters without Borders, Committee to Protect Journalists  nor International Press Institute have reported any verbal harassment of journalists by the government and/or its agents, and no other indications have been found of there being any such harassment 
 
 *Sources*:
- https://rsf.org/en/australia
-https://ipi.media/australia/
-https://www.reuters.com/search/news?sortBy=&dateRange=&blob=Australia+harassment+journalists+Covid-19
-https://www.bbc.co.uk/search?q=Australia+Covid-19+harassment+journalists&page=1
+ https://rsf.org/en/australiahttps://ipi.media/australia/https://www.reuters.com/search/news?sortBy=&dateRange=&blob=Australia+harassment+journalists+Covid-19https://www.bbc.co.uk/search?q=Australia+Covid-19+harassment+journalists&page=1
+https://cpj.org/asia/australia/
 
 
 
@@ -721,21 +840,22 @@ https://www.bbc.co.uk/search?q=Australia+Covid-19+harassment+journalists&page=1
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any physical harassment of journalists by the government and/or its agents, and no other indications have been found of there being any such harassment. 
+ Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any physical harassment of journalists by the government and/or its agents, and no other indications have been found of there being any such harassment. 
 
 *Sources*:
- https://rsf.org/en/australia
-https://ipi.media/australia/
-https://www.reuters.com/search/news?sortBy=&dateRange=&blob=Australia+harassment+journalists+Covid-19
-https://www.bbc.co.uk/search?q=Australia+Covid-19+harassment+journalists&page=1
+ https://rsf.org/en/australiahttps://ipi.media/australia/https://www.reuters.com/search/news?sortBy=&dateRange=&blob=Australia+harassment+journalists+Covid-19https://www.bbc.co.uk/search?q=Australia+Covid-19+harassment+journalists&page=1
+https://cpj.org/asia/australia/
 
 
 
@@ -759,10 +879,13 @@ https://www.bbc.co.uk/search?q=Australia+Covid-19+harassment+journalists&page=1
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -770,8 +893,8 @@ Time period: *Jul-Sep*: 0
  There seem to be no deviations from the information provided by WHO and that of the Australian Government on Covid-19, and no complaints or accusations of any such disinformation have been found. 
 
 *Sources*:
- https://www.australia.gov.au
-https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert
+ https://www.australia.gov.auhttps://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert
+https://www.australia.gov.au/covid-19-mythbusting
 
 
 
@@ -795,21 +918,22 @@ https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Human Rights Watch nor Amnesty International has reported any incidents of violence in enforcing emergency measures. 
+ During the period Jul-Sep, there are a few incidents of police violence and abusive enforcement reported in the state of Victoria during its lockdown restrictions. Police where given extended authority, and it is reported that the use of force has been excessive in a few instances. However, no evidence of police violence or abusive enforcement has been found in any other time period, or in any other part of Australia. This is therefore coded as 1 in the period Jul-Sep, and coded 0 otherwise. 
 
 *Sources*:
- https://humanrights.gov.au/our-work/commission-general/covid-19-information
-https://www.hrw.org/asia/australia
-https://www.amnesty.org/en/search/?country=38345&resourceType=newsarticle&sort=date
-
+ https://www.hrw.org/news/2020/09/24/australia-harsh-police-response-during-covid-19
+https://humanrights.gov.au/our-work/commission-general/covid-19-informationhttps://www.hrw.org/asia/australiahttps://www.amnesty.org/en/search/?country=38345&resourceType=newsarticle&sort=date
 
 
 
@@ -821,7 +945,7 @@ https://www.amnesty.org/en/search/?country=38345&resourceType=newsarticle&sort=d
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -831,42 +955,19 @@ https://www.amnesty.org/en/search/?country=38345&resourceType=newsarticle&sort=d
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- In august, the state of Victoria employed military personell to help enforce Covid-19 regulation. This is therefore coded as 1 in the second period. 
+ In august, the state of Victoria employed military personell to help enforce Covid-19 regulation. In November, other states had also employed military to assist in "quarantine compliance management". This is therefore coded as 1 for both Jul-Sep and Oct-Dec. 
 
 *Sources*:
- https://www.telegraph.co.uk/news/2020/08/04/australian-state-impose-hefty-fines-compel-covid-19-isolation/
-https://www.reuters.com/article/us-health-coronavirus-australia/australian-state-to-impose-hefty-fines-to-compel-covid-19-isolation-idUSKCN25005D
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*
+ https://www.telegraph.co.uk/news/2020/08/04/australian-state-impose-hefty-fines-compel-covid-19-isolation/https://www.reuters.com/article/us-health-coronavirus-australia/australian-state-to-impose-hefty-fines-to-compel-covid-19-isolation-idUSKCN25005D
+https://news.defence.gov.au/national/latest-updates-operation-covid-19-assist-mon-11162020-1715

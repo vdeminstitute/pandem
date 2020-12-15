@@ -1,9 +1,6 @@
 # Denmark 
 
 
-Time 2020-09-03 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-03
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,19 +25,29 @@ Time 2020-09-03
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- The Danish government proposed an amedment to the Act on Measures against
-Infectious and Other Communicable Diseases (Epidemiloven) that grants the Minister of Health powers that include limiting gatherings of people, prohibiting access to means of transportation and order people who are suspected of being infected to isolate.
+ The Danish government proposed an amedment to the Act on Measures against Infectious and Other Communicable Diseases (Epidemiloven) that grants the Minister of Health powers that include limiting gatherings of people, prohibiting access to means of transportation and order people who are suspected of being infected to isolate.
 This amendment is the legal instrument through which the initial emergency measures were taken, and this is therefore coded as 4. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/denmark-report-covid-19-april-2020_en.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.retsinformation.dk/eli/ft/201913L00133
+ https://www.elov.dk/epidemiloven/
+https://fra.europa.eu/sites/default/files/fra_uploads/denmark-report-covid-19-april-2020_en.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_november_2020.pdf
+https://www.acaps.org/covid19-government-measures-dataset
 https://www.retsinformation.dk/eli/ft/201913L00133
+https://www.retsinformation.dk/eli/ft/201913L00133
+https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
 
 
 
@@ -59,16 +66,25 @@ https://www.retsinformation.dk/eli/ft/201913L00133
 *Scale*: Character string.
 
  
-*Answer*: Act no. 133 of 12 March 2020 amending the Danish on Measures against Infectious and Other Communicable Diseases (Expansion of measures to prevent and contain contamination and to secure capacity resources, etc.) 
+*Time period: Q2*: Act no. 133 of 12 March 2020 amending the Danish on Measures against Infectious and Other Communicable Diseases (Expansion of measures to prevent and contain contamination and to secure capacity resources, etc.)
+
+ 
+*Time period: Q3*: Act no. 133 of 12 March 2020 amending the Danish on Measures against Infectious and Other Communicable Diseases (Expansion of measures to prevent and contain contamination and to secure capacity resources, etc.)
+
+ 
+*Time period: Q4*: Act no. 133 of 12 March 2020 amending the Danish on Measures against Infectious and Other Communicable Diseases (Expansion of measures to prevent and contain contamination and to secure capacity resources, etc.)
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/denmark-report-covid-19-april-2020_en.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.retsinformation.dk/eli/ft/201913L00133
+ https://www.elov.dk/epidemiloven/
+https://fra.europa.eu/sites/default/files/fra_uploads/denmark-report-covid-19-april-2020_en.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
+https://www.acaps.org/covid19-government-measures-dataset
+https://www.retsinformation.dk/eli/ft/201913L00133
 https://www.retsinformation.dk/eli/ft/201913L00133
 
 
@@ -88,16 +104,24 @@ https://www.retsinformation.dk/eli/ft/201913L00133
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-17 
+*Time period: Q2*: 2020-03-17
+
+ 
+*Time period: Q3*: 2020-03-17
+
+ 
+*Time period: Q4*: 2020-03-17
+
+ 
 
 *Comments*:
  The government proposed the amendment on March 12, but it came into force on the 17 of March. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/denmark-report-covid-19-april-2020_en.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.retsinformation.dk/eli/ft/201913L00133
+ https://fra.europa.eu/sites/default/files/fra_uploads/denmark-report-covid-19-april-2020_en.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
+https://www.acaps.org/covid19-government-measures-dataset
+https://www.retsinformation.dk/eli/ft/201913L00133
 https://www.retsinformation.dk/eli/ft/201913L00133
 
 
@@ -117,8 +141,15 @@ https://www.retsinformation.dk/eli/ft/201913L00133
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Implementation of legal instrument has not ended by time of coding. 
@@ -146,14 +177,22 @@ https://www.retsinformation.dk/eli/ft/201913L00133
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The first major measures taken were to limit social gatherings to 10 people as well as closing night clubs, bars etc. on the 18 of March, and these were initially set to the 30 of March. 
+ The first major measures taken were to limit social gatherings to 10 people as well as closing night clubs, bars etc. on the 18 of March, and these were initially set to the 30 of March. 
 Note however that other measures have been taken with other time limits, and that the legal instrument under which these measures are taken has a sunset clause on 31 of March 2021. 
 
 *Sources*:
- https://www.retsinformation.dk/eli/lta/2020/224
+ https://www.retsinformation.dk/eli/lta/2020/224
 https://fra.europa.eu/sites/default/files/fra_uploads/denmark-report-covid-19-april-2020_en.pdf
 
 
@@ -166,20 +205,28 @@ https://fra.europa.eu/sites/default/files/fra_uploads/denmark-report-covid-19-ap
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2021-03-31 
+*Time period: Q2*: 2021-03-31
+
+ 
+*Time period: Q3*: 2021-03-31
+
+ 
+*Time period: Q4*: 2021-03-31
+
+ 
 
 *Comments*:
  There have been different time limits for different measures, and extensions of some of them, but the legal instrument under which these measures are taken has a sunset clause on 31 of March 2021, and this is therefore the date coded here. 
 
 *Sources*:
- https://www.retsinformation.dk/eli/lta/2020/224
+ https://www.retsinformation.dk/eli/lta/2020/224
 https://fra.europa.eu/sites/default/files/fra_uploads/denmark-report-covid-19-april-2020_en.pdf
 
 
@@ -192,7 +239,7 @@ https://fra.europa.eu/sites/default/files/fra_uploads/denmark-report-covid-19-ap
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -202,16 +249,24 @@ https://fra.europa.eu/sites/default/files/fra_uploads/denmark-report-covid-19-ap
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  Yes, the parliament made a fast-track approvement of the amendment in order for it to come into effect. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/denmark-report-covid-19-april-2020_en.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.retsinformation.dk/eli/ft/201913L00133
+ https://fra.europa.eu/sites/default/files/fra_uploads/denmark-report-covid-19-april-2020_en.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
+https://www.acaps.org/covid19-government-measures-dataset
+https://www.retsinformation.dk/eli/ft/201913L00133
 https://www.retsinformation.dk/eli/ft/201913L00133
 
 
@@ -234,16 +289,24 @@ https://www.retsinformation.dk/eli/ft/201913L00133
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  Yes, the parliament made a fast-track approvement of the amendment in order for it to come into effect. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/denmark-report-covid-19-april-2020_en.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.retsinformation.dk/eli/ft/201913L00133
+ https://fra.europa.eu/sites/default/files/fra_uploads/denmark-report-covid-19-april-2020_en.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
+https://www.acaps.org/covid19-government-measures-dataset
+https://www.retsinformation.dk/eli/ft/201913L00133
 https://www.retsinformation.dk/eli/ft/201913L00133
 
 
@@ -264,22 +327,30 @@ https://www.retsinformation.dk/eli/ft/201913L00133
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The legal instrument, the amenmdent, does not affect the parliaments lawmaking role. It does provide the Health Minister some extraordinary power, but these powers are defined and demarcated in the amendment that parliament passed, and does not provide measures that could impact the lawmaking role of the parliament as such. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/denmark-report-covid-19-april-2020_en.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.retsinformation.dk/eli/ft/201913L00133
+ https://fra.europa.eu/sites/default/files/fra_uploads/denmark-report-covid-19-april-2020_en.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
+https://www.acaps.org/covid19-government-measures-dataset
+https://www.retsinformation.dk/eli/ft/201913L00133
 https://www.retsinformation.dk/eli/ft/201913L00133
 
 
@@ -292,15 +363,22 @@ https://www.retsinformation.dk/eli/ft/201913L00133
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -325,8 +403,15 @@ https://www.retsinformation.dk/eli/ft/201913L00133
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -356,16 +441,31 @@ https://www.retsinformation.dk/eli/ft/201913L00133
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- I haven't found any record of sub-national variation in the policy response to Covid-19. All emergency measures are handled by the Danish Government. 
+ March-June: I haven't found any record of sub-national variation in the policy response to Covid-19. All emergency measures are handled by the Danish Government.
+
+July-September: In September, more restrictive measures were declared in the Copenhagen area and Odense Municipality.
+
+October-December:   I haven't found any record of sub-national variation in the policy response to Covid-19 in this time period. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/denmark-report-covid-19-april-2020_en.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
-https://www.acaps.org/covid19-government-measures-dataset
+ https://fra.europa.eu/sites/default/files/fra_uploads/denmark-report-covid-19-april-2020_en.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
+https://www.acaps.org/covid19-government-measures-dataset
 https://www.retsinformation.dk/eli/ft/201913L00133
+
+https://sum.dk/Aktuelt/Nyheder/Coronavirus/2020/September/Nye-tiltag-mod-COVID-19.aspx
+https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_november_2020.pdf
 
 
 
@@ -389,10 +489,13 @@ https://www.retsinformation.dk/eli/ft/201913L00133
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -400,10 +503,11 @@ Time period: *Jul-Sep*: 0
  Human rights Watch, Amnesty International and the EU agency for fundamental rights report no discrimination in the emergency measures taken by Denmark, and no indications have been found of any such discrimination. This is therefore coded as 0 for both periods. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38444&resourceType=newsarticle&sort=date
-https://www.hrw.org/sitesearch?search=Denmark
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
+ https://www.amnesty.org/en/search/?country=38444&resourceType=newsarticle&sort=date
+https://www.hrw.org/sitesearch?search=Denmark
+https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
 https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_july_2020.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_november_2020.pdf
 
 
 
@@ -432,10 +536,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_p
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -443,10 +550,11 @@ Time period: *Jul-Sep*: 0
  Neither the EU agency for fundamental rights, Human Rights Watch or Amnesty international has reported any incidents of violations of non-derogable rights, and no other indication has been found that that has occurred in Denmark's covid-19 response. This is therefore coded as 0. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38444&resourceType=newsarticle&sort=date
-https://www.hrw.org/sitesearch?search=Denmark
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
+ https://www.amnesty.org/en/search/?country=38444&resourceType=newsarticle&sort=date
+https://www.hrw.org/sitesearch?search=Denmark
+https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
 https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_july_2020.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_november_2020.pdf
 
 
 
@@ -470,13 +578,21 @@ https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_p
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Danish Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B105%5D=105
+ https://rsf.org/en/thematique/internet?countries%5B105%5D=105
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Denmark
 
 
@@ -489,22 +605,30 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B105%5D=105
+ https://rsf.org/en/thematique/internet?countries%5B105%5D=105
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Denmark
+https://cpj.org/europe/denmark/
 
 
 
@@ -516,22 +640,30 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B105%5D=105
+ https://rsf.org/en/thematique/internet?countries%5B105%5D=105
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Denmark
+https://cpj.org/europe/denmark/
 
 
 
@@ -553,10 +685,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -564,8 +699,9 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Denmark, and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B105%5D=105
+ https://rsf.org/en/thematique/internet?countries%5B105%5D=105
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Denmark
+https://cpj.org/europe/denmark/
 
 
 
@@ -577,7 +713,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -587,10 +723,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -598,8 +737,9 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in Denmark,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B105%5D=105
+ https://rsf.org/en/thematique/internet?countries%5B105%5D=105
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Denmark
+https://cpj.org/europe/denmark/
 
 
 
@@ -621,10 +761,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -632,8 +775,9 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in Denmark, and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B105%5D=105
+ https://rsf.org/en/thematique/internet?countries%5B105%5D=105
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Denmark
+https://cpj.org/europe/denmark/
 
 
 
@@ -652,14 +796,17 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -667,8 +814,9 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information, and no other indications have been found of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B105%5D=105
+ https://rsf.org/en/thematique/internet?countries%5B105%5D=105
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Denmark
+https://cpj.org/europe/denmark/
 
 
 
@@ -690,10 +838,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -701,8 +852,9 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any verbal harassment of journalists in Denmark, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B105%5D=105
+ https://rsf.org/en/thematique/internet?countries%5B105%5D=105
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Denmark
+https://cpj.org/europe/denmark/
 
 
 
@@ -724,10 +876,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -735,8 +890,9 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any physical harassment of journalists in Denmark, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B105%5D=105
+ https://rsf.org/en/thematique/internet?countries%5B105%5D=105
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Denmark
+https://cpj.org/europe/denmark/
 
 
 
@@ -760,10 +916,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -771,9 +930,10 @@ Time period: *Jul-Sep*: 0
  There seem to be no deviations from the information provided by WHO and that of the Danish Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
 
 *Sources*:
- https://politi.dk/coronavirus-i-danmark/oftest-stillede-spoergsmaal
-https://politi.dk/coronavirus-i-danmark
+ https://politi.dk/coronavirus-i-danmark/oftest-stillede-spoergsmaal
+https://politi.dk/coronavirus-i-danmark
 https://fra.europa.eu/sites/default/files/fra_uploads/denmark-report-covid-19-april-2020_en.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_november_2020.pdf
 
 
 
@@ -797,10 +957,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/denmark-report-covid-19-ap
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -808,10 +971,11 @@ Time period: *Jul-Sep*: 0
  Neither Human Rights Watch, Amnesty International nor EU agency for fundamental rights have reported any incidents of violence in enforcing emergency measures. This is therefore coded as 0 for both periods. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38444&resourceType=newsarticle&sort=date
-https://www.hrw.org/sitesearch?search=Denmark
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
+ https://www.amnesty.org/en/search/?country=38444&resourceType=newsarticle&sort=date
+https://www.hrw.org/sitesearch?search=Denmark
+https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
 https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_july_2020.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_november_2020.pdf
 
 
 
@@ -823,7 +987,7 @@ https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_p
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -833,41 +997,18 @@ https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_p
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
 
  
-
-*Comments*:
- According to the European Orgainzation of Military Associations, the Danish  military is not involved enforcing emergency measures. 
-
-*Sources*:
- http://euromil.org/armed-forces-and-covid-19/
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
+*Time period: Q4*: 0
 
  
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ http://euromil.org/armed-forces-and-covid-19/

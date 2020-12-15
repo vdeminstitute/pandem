@@ -1,9 +1,6 @@
 # Oman 
 
 
-Time 2020-09-21 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-21
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,14 +25,22 @@ Time 2020-09-21
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
  The sultan created a supreme committee to deal with the covid-19 pandemic and their directives are legally enforceable. 
 
 *Sources*:
- https://covid19.moh.gov.om/#/qarar
-https://omannews.gov.om/Local/ArtMID/416/ArticleID/9985
+ https://covid19.moh.gov.om/#/qarar
+https://omannews.gov.om/Local/ArtMID/416/ArticleID/9985
 https://www.omanobserver.om/know-your-fine-for-various-covid-19-violations/
 
 
@@ -55,7 +60,15 @@ https://www.omanobserver.om/know-your-fine-for-various-covid-19-violations/
 *Scale*: Character string.
 
  
-*Answer*: Sultan Haitham Bin Tarik Royal orders 
+*Time period: Q2*: Sultan Haitham Bin Tarik Royal orders
+
+ 
+*Time period: Q3*: Sultan Haitham Bin Tarik Royal orders
+
+ 
+*Time period: Q4*: Sultan Haitham Bin Tarik Royal orders
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -80,7 +93,15 @@ https://www.omanobserver.om/know-your-fine-for-various-covid-19-violations/
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-10 
+*Time period: Q2*: 2020-03-10
+
+ 
+*Time period: Q3*: 2020-03-10
+
+ 
+*Time period: Q4*: 2020-03-10
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -105,16 +126,23 @@ https://www.omanobserver.om/know-your-fine-for-various-covid-19-violations/
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Still in place 
 
 *Sources*:
  https://covid19.moh.gov.om/#/qarar
-
 https://www.omanobserver.om/no-more-lockdowns-health-minister-2/
+https://www.omanobserver.om/public-urged-to-stick-to-supreme-committees-decisions/
 
 
 
@@ -136,7 +164,15 @@ https://www.omanobserver.om/no-more-lockdowns-health-minister-2/
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  There isn't a date to terminate the activities of the Supreme Committee. 
@@ -154,15 +190,22 @@ https://www.omanobserver.om/no-more-lockdowns-health-minister-2/
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No limit established 
@@ -180,7 +223,7 @@ https://www.omanobserver.om/no-more-lockdowns-health-minister-2/
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -190,7 +233,15 @@ https://www.omanobserver.om/no-more-lockdowns-health-minister-2/
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The Supreme Committee was established via Royal Order. 
@@ -218,7 +269,15 @@ https://www.omanobserver.om/no-more-lockdowns-health-minister-2/
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The Supreme Committee was established via Royal Order 
@@ -244,19 +303,27 @@ https://www.omanobserver.om/no-more-lockdowns-health-minister-2/
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 3 
+*Time period: Q2*: 3
+
+ 
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
+
+ 
 
 *Comments*:
  The Sultan created a supreme committee to deal with the pandemic which "has the discretion of seeking instruments and necessary measures to ensure the success of the tasks entrusted to it". 
 
 *Sources*:
- https://omannews.gov.om/Local/ArtMID/416/ArticleID/9985
+ https://omannews.gov.om/Local/ArtMID/416/ArticleID/9985
 https://covid19.moh.gov.om/#/qarar
 
 
@@ -269,15 +336,22 @@ https://covid19.moh.gov.om/#/qarar
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -302,8 +376,15 @@ https://covid19.moh.gov.om/#/qarar
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -333,16 +414,25 @@ https://covid19.moh.gov.om/#/qarar
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- A lockdown was first implemented in some provinces, then in the entire country and later only in the Dhofar province. 
+ A lockdown was first implemented in some provinces, then in the entire country and later only in the Dhofar province. The latter was lifted on October 1. Later in October, a night lockdown was implemented in the entire country. Other measures have a national scope. 
 
 *Sources*:
- http://omannews.gov.om/NewsDescription/ArtMID/392/ArticleID/14380/Supreme-Committee-Takes-Decisions-According-to-Epidemiological-Data-Health-Minister
-https://www.thearabianstories.com/2020/06/09/covid-19-oman-announces-lockdown-in-dhofar-jabal-akhdar-jabal-shams-and-masirah/
-https://webcache.googleusercontent.com/search?q=cache:xwd89hWiWeIJ:https://www.omanobserver.om/lockdown-begins-in-dhofar-tourist-destinations/+&cd=2&hl=es-419&ct=clnk&gl=br
+ http://omannews.gov.om/NewsDescription/ArtMID/392/ArticleID/14380/Supreme-Committee-Takes-Decisions-According-to-Epidemiological-Data-Health-Minister
+https://www.thearabianstories.com/2020/06/09/covid-19-oman-announces-lockdown-in-dhofar-jabal-akhdar-jabal-shams-and-masirah/
+https://www.omanobserver.om/lockdown-begins-in-dhofar-tourist-destinations/+&cd=2&hl=es-419&ct=clnk&gl=br
 https://www.arabnews.com/node/1716306/middle-east
+https://www.omanobserver.om/night-lockdown-in-oman-to-end-on-saturday-sc/
 
 
 
@@ -366,10 +456,13 @@ https://www.arabnews.com/node/1716306/middle-east
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -377,8 +470,9 @@ Time period: *Jul-Sep*: 0
  No evidence of discrimination was found. 
 
 *Sources*:
- https://www.hrw.org/middle-east/n-africa/oman
+ https://www.hrw.org/middle-east/n-africa/oman
 https://www.amnesty.org/en/countries/middle-east-and-north-africa/oman/
+https://monitor.civicus.org/country/oman/
 
 
 
@@ -407,10 +501,13 @@ https://www.amnesty.org/en/countries/middle-east-and-north-africa/oman/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -418,8 +515,9 @@ Time period: *Jul-Sep*: 0
  No evidence of non-derogable rights violation was found. The Supreme Committee Statement from March 17 determines the "closure of all non-Muslim places of worship", but also the "closure of all mosques with the exception of call to prayers". 
 
 *Sources*:
- https://www.hrw.org/middle-east/n-africa/oman
+ https://www.hrw.org/middle-east/n-africa/oman
 https://www.amnesty.org/en/countries/middle-east-and-north-africa/oman/
+https://monitor.civicus.org/country/oman/
 
 
 
@@ -443,7 +541,15 @@ https://www.amnesty.org/en/countries/middle-east-and-north-africa/oman/
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 3 
+*Time period: Q2*: 3
+
+ 
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  On March 22, the Supreme Committee made the decision to stop the "printing, distribution and sale of newspapers, magazines and other publications of all kinds, and preventing the sale and distribution of publications issued outside the Sultanate". The measure came into force on March 23 and was lifted on August 17. 
@@ -463,20 +569,28 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-23 
+*Time period: Q2*: 2020-03-23
+
+ 
+*Time period: Q3*: 2020-03-23
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  On March 22, the Supreme Committee made the decision to stop the "printing, distribution and sale of newspapers, magazines and other publications of all kinds, and preventing the sale and distribution of publications issued outside the Sultanate". The measure came into force on March 23 and was lifted on August 17. 
 
 *Sources*:
- https://covid19.moh.gov.om/#/qarar
+ https://covid19.moh.gov.om/#/qarar
 https://phr.moh.gov.om/Documents/NEHR/qarars/en/Image.jpeg
 
 
@@ -489,14 +603,22 @@ https://phr.moh.gov.om/Documents/NEHR/qarars/en/Image.jpeg
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-08-17 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 2020-08-17
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  On March 22, the Supreme Committee made the decision to stop the "printing, distribution and sale of newspapers, magazines and other publications of all kinds, and preventing the sale and distribution of publications issued outside the Sultanate". The measure came into force on March 23 and was lifted on August 17. 
@@ -524,21 +646,24 @@ https://phr.moh.gov.om/Documents/NEHR/qarars/en/Image.jpeg
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Due to de-jure measure (coded in melim), there was no printing, distribution and sale of newspapers, magazines and other publications of all kinds. Additionally, press freedom was already limited in Oman before the pandemic. 
+ Due to de-jure measure (coded in melim), there was no printing, distribution and sale of newspapers, magazines and other publications of all kinds between March 23 and August 17. Additionally, press freedom was already limited in Oman before the pandemic. 
 
 *Sources*:
- https://covid19.moh.gov.om/#/qarar
-https://phr.moh.gov.om/Documents/NEHR/qarars/en/Image.jpeg
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/oman
+ https://covid19.moh.gov.om/#/qarar
+https://phr.moh.gov.om/Documents/NEHR/qarars/en/Image.jpeg
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/oman
 https://ochroman.org/eng/2018/05/pressfreedom/
 
 
@@ -551,7 +676,7 @@ https://ochroman.org/eng/2018/05/pressfreedom/
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -561,21 +686,24 @@ https://ochroman.org/eng/2018/05/pressfreedom/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Due to de-jure measure (coded in melim), there was no printing, distribution and sale of newspapers, magazines and other publications of all kinds. Additionally, press freedom was already limited in Oman before the pandemic. 
+ Due to de-jure measure (coded in melim), there was no printing, distribution and sale of newspapers, magazines and other publications of all kinds  between March 23 and August 17. Additionally, press freedom was already limited in Oman before the pandemic. 
 
 *Sources*:
- https://covid19.moh.gov.om/#/qarar
-https://phr.moh.gov.om/Documents/NEHR/qarars/en/Image.jpeg
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/oman
+ https://covid19.moh.gov.om/#/qarar
+https://phr.moh.gov.om/Documents/NEHR/qarars/en/Image.jpeg
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/oman
 https://ochroman.org/eng/2018/05/pressfreedom/
 
 
@@ -598,19 +726,22 @@ https://ochroman.org/eng/2018/05/pressfreedom/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Due to de-jure measure (coded in melim), there was no printing, distribution and sale of newspapers, magazines and other publications of all kinds. 
+ Due to de-jure measure (coded in melim), there was no printing, distribution and sale of newspapers, magazines and other publications of all kinds  between March 23 and August 17. 
 
 *Sources*:
- https://covid19.moh.gov.om/#/qarar
-https://phr.moh.gov.om/Documents/NEHR/qarars/en/Image.jpeg
+ https://covid19.moh.gov.om/#/qarar
+https://phr.moh.gov.om/Documents/NEHR/qarars/en/Image.jpeg
 https://ipi.media/covid19-media-freedom-monitoring/
 
 
@@ -630,14 +761,17 @@ https://ipi.media/covid19-media-freedom-monitoring/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -646,8 +780,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/mideast/oman/
 
 
 
@@ -669,10 +803,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -681,8 +818,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/mideast/oman/
 
 
 
@@ -704,10 +841,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -716,8 +856,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/mideast/oman/
 
 
 
@@ -741,18 +881,21 @@ https://ipi.media/covid19-media-freedom-monitoring/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- The information provided by the government almost never deviates from the offcial information provided by the WHO. The Ministry of Health recommends to "avoid contact with animals", which slightly differs from the WHO. The English version of the official website says that "All cases outside China have been infected in China", but not the Arabic version. 
+ The information provided by the government almost never deviates from the offcial information provided by the WHO. The Ministry of Health recommends to "avoid contact with animals", which slightly differs from the WHO. The English version of the official website says that "All cases outside China have been infected in China", but not the Arabic version, which seems to be only outdated information and not deliberate disinformation. 
 
 *Sources*:
- https://covid19.moh.gov.om/#/about
+ https://covid19.moh.gov.om/#/about
 https://covid19.moh.gov.om/#/faq
 
 
@@ -777,10 +920,13 @@ https://covid19.moh.gov.om/#/faq
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -788,7 +934,7 @@ Time period: *Jul-Sep*: 0
  No evidence of police violence was found. 
 
 *Sources*:
- https://www.hrw.org/middle-east/n-africa/oman
+ https://www.hrw.org/middle-east/n-africa/oman
 https://www.amnesty.org/en/search/?q=&sort=date&country=38547&resourceType=newsarticle
 
 
@@ -801,7 +947,7 @@ https://www.amnesty.org/en/search/?q=&sort=date&country=38547&resourceType=newsa
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -811,10 +957,13 @@ https://www.amnesty.org/en/search/?q=&sort=date&country=38547&resourceType=newsa
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -822,31 +971,5 @@ Time period: *Jul-Sep*: 1
  Supreme Committee Statement from March 31: "In the context of the efforts exerted to reduce the movement of citizens and residents aiming to curb the spread of the virus, the military and security services will take the necessary measures accordingly." 
 
 *Sources*:
- https://covid19.moh.gov.om/#/qarar
+ https://covid19.moh.gov.om/#/qarar
 https://phr.moh.gov.om/Documents/NEHR/qarars/en/EUdEraMXkAEGxgX.jpg
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

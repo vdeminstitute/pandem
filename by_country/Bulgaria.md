@@ -1,9 +1,6 @@
 # Bulgaria 
 
 
-Time 2020-09-03 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-03
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,15 +25,28 @@ Time 2020-09-03
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- State of emergency declared by the National Assembly. 
+ State of emergency declared by the National Assembly from 13 March until 13 May. On 14 May, “nationwide epidemic situation" (izvunredna epidemiologichna obstanovka, can be translated as "extraordinary epidemiological circumstances" was initially declared for one month, which was extended several times (Decision 325 by the Council of Ministers based on the Health Law). 
 
 *Sources*:
  https://www.parliament.bg/bills/44/054-01-24.pdf
 https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146931
 https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://www.osce.org/files/f/documents/e/c/457567_0.pdf
+https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+
+https://fra.europa.eu/sites/default/files/fra_uploads/bg_report_on_coronavirus_pandemic_november_2020.pdf
+
 
 
 
@@ -55,15 +65,29 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
 *Scale*: Character string.
 
  
-*Answer*: Constitution (Article 84, point 12) 
+*Time period: Q2*: Constitution (Article 84, point 12)
+
+ 
+*Time period: Q3*: Zakon za zdraveto (Health Law)
+
+ 
+*Time period: Q4*: Zakon za zdraveto (Health Law)
+
+ 
 
 *Comments*:
- Based on Article 84, point 12 of the Constitution: "On a motion from the President or the Council of Ministers, [the National Assembly shall] introduce martial law or a state of emergency on all or part of the country's territory" 
+ March-June: Based on Article 84, point 12 of the Constitution: "On a motion from the President or the Council of Ministers, [the National Assembly shall] introduce martial law or a state of emergency on all or part of the country's territory"
+
+July-September, October-December: “Nationwide epidemic situation" declared based on Health Law (Art 63a) (amended on 13 May 2020). 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Bulgaria_2015?lang=en
 https://www.parliament.bg/bills/44/054-01-24.pdf
 https://www.gov.bg/bg/prestsentar/zasedaniya-na-ms/dneven-red-na-izvanrednoto-zasedanie-na-ministerskiya-savet-na-12-03-2020-g
+
+https://www.mh.government.bg/bg/normativni-aktove/zakoni/zakon-za-zdraveto/
+
+https://coronavirus.bg/bg/389
 
 
 
@@ -82,7 +106,15 @@ https://www.gov.bg/bg/prestsentar/zasedaniya-na-ms/dneven-red-na-izvanrednoto-za
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-13 
+*Time period: Q2*: 2020-03-13
+
+ 
+*Time period: Q3*: 2020-05-14
+
+ 
+*Time period: Q4*: 2020-05-14
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -107,10 +139,18 @@ https://www.gov.bg/bg/prestsentar/zasedaniya-na-ms/dneven-red-na-izvanrednoto-za
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-13 
+*Time period: Q2*: 2020-05-13
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The state of emergency was lifted on 13 May 2020 and an emergency epidemic was declared that lasted until 31 July 2020. 
+ The state of emergency was lifted on 13 May 2020 and an emergency epidemic was declared on 14 May that hasn't ended at the time of coding. 
 
 *Sources*:
  https://coronavirus.bg/bg/389
@@ -137,14 +177,29 @@ https://www.reuters.com/article/us-health-coronavirus-bulgaria-emergency/bulgari
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- State of emergency was initially declared from 13 March 2020 to 13 April 2020, extended until 13 May 2020 by the legislature. 
+ March-June: State of emergency was initially declared from 13 March 2020 to 13 April 2020, extended until 13 May 2020 by the legislature.
+
+“Nationwide epidemic situation” initially declared until 14 June, was extended several times. In July-September, the latest extension was until 30 September. in October-December, the latest extension was 31 January 2021 (at the time of coding). 
 
 *Sources*:
  https://www.parliament.bg/bg/news/ID/5051
 https://www.parliament.bg/bg/news/ID/5060
+
+https://www.mh.government.bg/bg/novini/ministerski-savet/udlzhava-se-srokt-na-obyavenata-izvnredna-23-09-20/
+https://coronavirus.bg/bg/389
+https://www.garda.com/crisis24/news-alerts/393946/bulgaria-authorities-to-tighten-covid-19-restrictions-from-october-29-update-20
+https://coronavirus.bg/bg/629
 
 
 
@@ -156,20 +211,34 @@ https://www.parliament.bg/bg/news/ID/5060
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-13 
+*Time period: Q2*: 2020-05-13
+
+ 
+*Time period: Q3*: 2020-09-30
+
+ 
+*Time period: Q4*: 2021-01-31
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://coronavirus.bg/bg/389
+ https://www.parliament.bg/bg/news/ID/5051
+https://www.parliament.bg/bg/news/ID/5060
+
+https://www.mh.government.bg/bg/novini/ministerski-savet/udlzhava-se-srokt-na-obyavenata-izvnredna-23-09-20/
+https://coronavirus.bg/bg/389
+https://www.garda.com/crisis24/news-alerts/393946/bulgaria-authorities-to-tighten-covid-19-restrictions-from-october-29-update-20
+https://coronavirus.bg/bg/629
 
 
 
@@ -181,7 +250,7 @@ https://www.parliament.bg/bg/news/ID/5060
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -191,14 +260,25 @@ https://www.parliament.bg/bg/news/ID/5060
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Based on Article 84, point 12 of the Constitution: "On a motion from the President or the Council of Ministers, [the National Assembly shall] introduce martial law or a state of emergency on all or part of the country's territory" 
+ March-June: Based on Article 84, point 12 of the Constitution: "On a motion from the President or the Council of Ministers, [the National Assembly shall] introduce martial law or a state of emergency on all or part of the country's territory"
+
+July-September, October-December: Legislature approval is not required for declaring  “nationwide epidemic situation" (Health Law) 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Bulgaria_2015?lang=en
 https://www.parliament.bg/bills/44/054-01-24.pdf
+https://www.mh.government.bg/media/filer_public/2020/10/05/zakon_za_zdraveto.pdf
 
 
 
@@ -220,10 +300,20 @@ https://www.parliament.bg/bills/44/054-01-24.pdf
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The state of emergency was declared by the legislature (National Assembly) based on Article 87, point 1 of the Constitution: "Any Member of the National Assembly or the Council of Ministers shall have the right to introduce a bill", following a proposal by the government. 
+ March- June: The state of emergency was declared by the legislature (National Assembly) based on Article 87, point 1 of the Constitution: "Any Member of the National Assembly or the Council of Ministers shall have the right to introduce a bill", following a proposal by the government.
+
+July-September, October-December: legislature approval is not required. 
 
 *Sources*:
  https://www.parliament.bg/bg/news/ID/5051
@@ -248,19 +338,37 @@ https://www.gov.bg/bg/prestsentar/zasedaniya-na-ms/dneven-red-na-izvanrednoto-za
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The legislature authorized the government to adopt emergency measures. All plenary sessions at the National Assemply were suspended for the duration of the state of emergency, only issues directly related to the emergency regime are considered. The state of emergency was lifted on 13 May 2020, and I found no evidence of measures limiting the lawmaking role of the legislature during the emergency epidemic until 31 July 2020. 
+ March-June: The legislature authorized the government to adopt emergency measures. All plenary sessions at the National Assemply were suspended for the duration of the state of emergency, only issues directly related to the emergency regime are considered. According to Democracy Reporting (p.6), the main authority during the state of emergency was "government via decrees (Parliament’s activities suspended during the state of emergency)."
+
+July-September, October-December: on 13 May, the legislature passed amendments to the Law on Health which introduced “extraordinary epidemiological circumstance” (declared on 14 May by the government). According to Democracy Reporting (p.12), "after the state of emergency expired on 13 May 2020, Parliament returned to work." 
 
 *Sources*:
- https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146931https://www.ipu.org/country-compilation-parliamentary-responses-pandemichttps://www.parliament.bg/bg/news/ID/5059https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147150https://fra.europa.eu/sites/default/files/fra_uploads/bulgaria-report-covid-19-april-2020_en.pdf
+ https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146931
+https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+https://www.parliament.bg/bg/news/ID/5059
+https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147150
+https://fra.europa.eu/sites/default/files/fra_uploads/bulgaria-report-covid-19-april-2020_en.pdf
+
+
+https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148005
+https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
 
 
 
@@ -272,15 +380,22 @@ https://www.gov.bg/bg/prestsentar/zasedaniya-na-ms/dneven-red-na-izvanrednoto-za
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -305,8 +420,15 @@ https://www.gov.bg/bg/prestsentar/zasedaniya-na-ms/dneven-red-na-izvanrednoto-za
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -336,10 +458,20 @@ https://www.gov.bg/bg/prestsentar/zasedaniya-na-ms/dneven-red-na-izvanrednoto-za
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Mostly uniform measures, stricter measures in Bansko, Panagyurishte. 
+ March-June: Mostly uniform measures, stricter measures in Bansko, Panagyurishte.
+
+July-September, October-December: All measures apply to the whole country, coding changed to 0. 
 
 *Sources*:
  https://www.bnt.bg/en/a/coronavirus-bulgarias-bansko-ski-resort-under-strict-lock-down
@@ -367,10 +499,13 @@ https://www.bnt.bg/en/a/curfew-introduced-in-panagyurishte-because-of-the-corona
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 3
+*Time period: Q2*: 3
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -379,7 +514,9 @@ Time period: *Jul-Sep*: 2
 
 Moreover, Reuters reports that Orthodox churches were allowed to stay open during Orthodox Easter celebrations. Since the exceptions applied only for Orthodox Easter (and not e.g. Catholic Easter), it can be considered a case of minor de-facto discrimination.
 
-July-September 2020: According to Amnestry International (https://www.amnesty.org/download/Documents/EUR1529612020ENGLISH.PDF), the measures were in place from March to July 2020. According to the European Union Agency for Fundamental Rights report (p.10), the lockdown measures were extended until 8 July in Kyustendil. Since I have not been able to find evidence of extended measures in other areas, it is coded as 2 (Minor de-jure discrimination.) 
+July-September 2020: According to Amnestry International (https://www.amnesty.org/download/Documents/EUR1529612020ENGLISH.PDF), the measures were in place from March to July 2020. According to the European Union Agency for Fundamental Rights report (p.10, July version), the lockdown measures were extended until 8 July in Kyustendil. Since I have not been able to find evidence of extended measures in other areas, it is coded as 2 (Minor de-jure discrimination.) According to  European Union Agency for Fundamental Rights report (November version), "n September and October 2020 such measures were not applied".
+
+October-December: since quarantine measures had a defined limit (with the latest being 8 July) and I found no evidence of further discrimination, coded as 0. 
 
 *Sources*:
  https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
@@ -399,6 +536,9 @@ https://btvnovinite.bg/bulgaria/karantinata-v-romskija-kvartal-v-kjustendil-se-u
 
 https://fra.europa.eu/sites/default/files/fra_uploads/bg_report_on_coronavirus_pandemic_july_2020.pdf
 https://www.reuters.com/article/us-health-coronavirus-easter-bulgaria/bulgarian-churches-open-for-easter-but-only-most-devout-go-idUSKCN21U0JH
+https://fra.europa.eu/sites/default/files/fra_uploads/bg_report_-_covid-19_impact_on_roma_en.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/fra-2020-coronavirus-pandemic-eu-bulletin-roma_en.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/bg_report_on_coronavirus_pandemic_november_2020.pdf
 
 
 
@@ -427,10 +567,13 @@ https://www.reuters.com/article/us-health-coronavirus-easter-bulgaria/bulgarian-
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -462,7 +605,15 @@ Time period: *Jul-Sep*: 0
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The government adopted measures punishing "false information" with a prison term of up to 3 years and a fine of 1,000 euros, but were vetoed by the President. Another similar bill was proposed on April 19 which, if passed, could limit media freedom (coded as 0 since the bill has not been passed at the time of coding). 
@@ -483,15 +634,22 @@ https://fra.europa.eu/sites/default/files/fra_uploads/bg_report_on_coronavirus_p
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -509,15 +667,22 @@ https://fra.europa.eu/sites/default/files/fra_uploads/bg_report_on_coronavirus_p
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -545,10 +710,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/bg_report_on_coronavirus_p
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -570,7 +738,7 @@ https://rsf.org/en/bulgaria
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -580,10 +748,13 @@ https://rsf.org/en/bulgaria
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -614,10 +785,13 @@ https://ipi.media/bulgaria/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -645,14 +819,17 @@ https://ipi.media/bulgaria/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -684,10 +861,13 @@ https://www.lex.bg/bg/laws/ldoc/2137201253
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -718,10 +898,13 @@ https://ipi.media/bulgaria/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -754,10 +937,13 @@ https://ipi.media/bulgaria/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -791,15 +977,18 @@ https://rsf.org/en/bulgaria
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No instances of police violence found 
+ No instances of police violence in the execution of emergeny measures found. 
 
 *Sources*:
  https://www.hrw.org/europe/central-asia/bulgaria
@@ -814,7 +1003,7 @@ Time period: *Jul-Sep*: 0
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -824,10 +1013,13 @@ Time period: *Jul-Sep*: 0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -839,28 +1031,3 @@ Time period: *Jul-Sep*: 0
 https://www.mod.bg/bg/news.php
 https://www.reuters.com/article/us-health-coronavirus-bulgaria/bulgaria-military-allowed-to-use-force-amid-coronavirus-curbs-idUSKBN2172DK
 https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-*Answer*: privacy concerns 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
- https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/

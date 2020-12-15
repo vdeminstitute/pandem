@@ -1,9 +1,6 @@
 # Mauritania 
 
 
-Time 2020-09-22 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-22
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,28 +25,33 @@ Time 2020-09-22
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 5
+
+ 
 
 *Comments*:
- In Mauritania, the government in mid-March 2020, took various gradual measures without a reference to a specific legal instrument, which were announced through Press Releases (Communiqués) (see list of all measures (3)). These measures included the suspension of all events and demonstrations, restriction of border crossings (March 15), a night curfew (March 18), prohibition of all road traffic and movement of persons between the wilayas (regions) as of Sunday, March 29 at 12:00 noon, except for health workers, service delivery missions (e.g., water, electricity, telecommunications) and the transportation of goods (March 28).
+ In Mauritania initially the government in mid-March 2020, took various gradual measures without a reference to a specific legal instrument, which were announced through Press Releases (Communiqués) (see list of all measures (3)). 
+These measures included the suspension of all events and demonstrations, restriction of border crossings (March 15), a night curfew (March 18), prohibition of all road traffic and movement of persons between the wilayas (regions) as of Sunday, March 29 at 12:00 noon, except for health workers, service delivery missions (e.g., water, electricity, telecommunications) and the transportation of goods (March 28).
 
 On April 1, 2020, the Council of Ministers invoked article 60 of the Constitution (1991) (1), which gives special powers to the government for a limited period of time: (2)
 
 ''Article 60 -After the agreement of the President of the Republic, the Government can, for the execution of its program, demand of the Parliament the authorization of taking by ordinance, for a limited period, the measures that are normally of the domain of the law. These ordinances are taken in the Council of Ministers and require the approval of the President of the Republic[,] who signs them. They enter into force as soon as they are published, but they become lapsed if the Bill of the law of ratification is not deposited before [devant] the Parliament before [avant] the date established by the enabling law. At the expiration of the time mentioned in the first paragraph of this Article, the ordinances cannot be modified[,] except by the law[,] in the matters that are of the legislative domain. The enabling law lapses if the National Assembly is dissolved.''
 
-''Council of Ministers: Approval of a bill authorizing the Government to take all the measures necessary to fight against the Covid pandemic19. - Nouakchott, 04/01/2020
-The Council under the Chairmanship of His Excellency Mohamed Ould Cheikh El-Ghazouani, President of the Republic, examined and approved a draft enabling law authorizing the Government, in application of article 60 of the Constitution, to take by ordinances during a limited time, all the necessary measures, which are normally of the domain of the law, to fight the Covid pandemic19. 
-This bill is part of the actions initiated by the Government to protect our populations against the spread of Covid19 which is wreaking havoc in several countries of the world.
-It will consolidate the efforts undertaken since the onset of this exceptional and unprecedented pandemic, by giving the Government the flexibility and the related legal instruments to act with the required speed and in a timely manner.'' 
+After July 10 when the government lifted the strict restrictions, there are preventative measures in place and the wearing of masks is mandatory, but these measures do not seem to be taken under the emergency framework of article 60 of constitution. 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Mauritania_2012.pdf?lang=en
-(1)
+(1)
 http://fr.ami.mr/Depeche-53085.html
-(2)
-http://fr.ami.mr/Recherche-13
-(3)
-https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
+(2)http://fr.ami.mr/Recherche-13
+(3)
+https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
 https://www.africanews.com/2020/03/21/covid-19-mauritania-enforces-curfew/
 
 
@@ -69,7 +71,15 @@ https://www.africanews.com/2020/03/21/covid-19-mauritania-enforces-curfew/
 *Scale*: Character string.
 
  
-*Answer*: Constitution (1991), article 60 
+*Time period: Q2*: Constitution (1991), article 60
+
+ 
+*Time period: Q3*: Constitution (1991), article 60
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -94,15 +104,23 @@ https://www.africanews.com/2020/03/21/covid-19-mauritania-enforces-curfew/
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-01 
+*Time period: Q2*: 2020-04-01
+
+ 
+*Time period: Q3*: 2020-04-01
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The first measures were taken earlier, but article 60 of the Constitution that gives special powers to the government to rule by ordinances was invoked and approved on April 1. 
 
 *Sources*:
- http://fr.ami.mr/Depeche-53085.html
-http://fr.ami.mr/Depeche-52875.html
-http://fr.ami.mr/Depeche-52861.html
+ http://fr.ami.mr/Depeche-53085.html
+http://fr.ami.mr/Depeche-52875.html
+http://fr.ami.mr/Depeche-52861.html
 http://fr.ami.mr/Recherche-13
 
 
@@ -122,13 +140,23 @@ http://fr.ami.mr/Recherche-13
 *Scale*: Date format.
 
  
-*Answer*: 2020-07-10 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 2020-07-10
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The government of Mauritania eased measures and domestic restrictions taken under Article 60 Constitution nationwide from July 10: this includes lifting the restriction on movement between regions and the nightly 2000-0600 curfew, as well as the reopening of the airports for domestic flights. The use of protective masks is compulsory in all public spaces. The easing of these restrictions follows the resumption of public religious ceremonies and the opening of markets and restaurants nationwide. 
+ The government of Mauritania eased measures and domestic restrictions taken under Article 60 Constitution nationwide from July 10: this includes lifting the restriction on movement between regions and the nightly 2000-0600 curfew, as well as the reopening of the airports for domestic flights. The use of protective masks is compulsory in all public spaces. The easing of these restrictions follows the resumption of public religious ceremonies and the opening of markets and restaurants nationwide.
+After July 10, preventative measures are in place. 
 
 *Sources*:
- https://www.worldaware.com/covid-19-alert-mauritania-ease-domestic-restrictions-july-10
+ https://reliefweb.int/report/mauritania/unicef-mauritania-covid-19-situation-report-no-12-19-september-20-october-2020
+https://www.worldaware.com/covid-19-alert-mauritania-ease-domestic-restrictions-july-10
 https://afrique.le360.ma/mauritanie/societe/2020/07/09/31099-mauritanie-levee-du-couvre-feu-et-de-linterdiction-des-voyages-inter-regions-31099
 https://reliefweb.int/report/mauritania/unicef-mauritania-covid-19-situation-report-no-10-23-july-19-august-2020
 
@@ -152,15 +180,22 @@ https://reliefweb.int/report/mauritania/unicef-mauritania-covid-19-situation-rep
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The activation of article 60 of the Constitution mentions that the ordinances may be taken during a limted period of time, but the Council of Ministers did not specify the length of this period. The separate measures that were introduced all had a limit date (usually 2 weeks and renewed).
-
+ The activation of article 60 of the Constitution mentions that the ordinances may be taken during a limted period of time, but the Council of Ministers did not specify the length of this period. The separate measures that were introduced all had a limit date (usually 2 weeks and renewed). 
 ''The Council examined and approved a draft enabling law authorizing the Government, in application of article 60 of the Constitution, to take by ordinances during a limited time, all the necessary measures, which are normally of the domain of the law, to fight the Covid pandemic19.'' 
 
 *Sources*:
- http://fr.ami.mr/Depeche-53085.html
+ http://fr.ami.mr/Depeche-53085.html
 https://www.constituteproject.org/constitution/Mauritania_2012.pdf?lang=en
 
 
@@ -173,24 +208,31 @@ https://www.constituteproject.org/constitution/Mauritania_2012.pdf?lang=en
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The activation of article 60 of the Constitution mentions that the ordinances may be taken during a limted period of time, but the Council of Ministers did not specify the length of this period. The separate measures that were introduced all had a limit date (usually 2 weeks and renewed).
-
-''The Council examined and approved a draft enabling law authorizing the Government, in application of article 60 of the Constitution, to take by ordinances during a limited time, all the necessary measures, which are normally of the domain of the law, to fight the Covid pandemic19.''
+ The activation of article 60 of the Constitution mentions that the ordinances may be taken during a limted period of time, but the Council of Ministers did not specify the length of this period. The separate measures that were introduced all had a limit date (usually 2 weeks and renewed).
+
+''The Council examined and approved a draft enabling law authorizing the Government, in application of article 60 of the Constitution, to take by ordinances during a limited time, all the necessary measures, which are normally of the domain of the law, to fight the Covid pandemic19.''
 (article 60 Constitution). 
 
 *Sources*:
- http://fr.ami.mr/Depeche-53085.html
+ http://fr.ami.mr/Depeche-53085.html
 https://www.constituteproject.org/constitution/Mauritania_2012.pdf?lang=en
 
 
@@ -203,7 +245,7 @@ https://www.constituteproject.org/constitution/Mauritania_2012.pdf?lang=en
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -213,10 +255,18 @@ https://www.constituteproject.org/constitution/Mauritania_2012.pdf?lang=en
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- 'Article 60 -After the agreement of the President of the Republic, the Government can, for the execution of its program, demand of the Parliament the authorization of taking by ordinance, for a limited period, the measures that are normally of the domain of the law. These ordinances are taken in the Council of Ministers and require the approval of the President of the Republic[,] who signs them. They enter into force as soon as they are published, but they become lapsed if the Bill of the law of ratification is not deposited before [devant] the Parliament before [avant] the date established by the enabling law. At the expiration of the time mentioned in the first paragraph of this Article, the ordinances cannot be modified[,] except by the law[,] in the matters that are of the legislative domain. The enabling law lapses if the National Assembly is dissolved.''
+ 'Article 60 -After the agreement of the President of the Republic, the Government can, for the execution of its program, demand of the Parliament the authorization of taking by ordinance, for a limited period, the measures that are normally of the domain of the law. These ordinances are taken in the Council of Ministers and require the approval of the President of the Republic[,] who signs them. They enter into force as soon as they are published, but they become lapsed if the Bill of the law of ratification is not deposited before [devant] the Parliament before [avant] the date established by the enabling law. At the expiration of the time mentioned in the first paragraph of this Article, the ordinances cannot be modified[,] except by the law[,] in the matters that are of the legislative domain. The enabling law lapses if the National Assembly is dissolved.''
  
 
 *Sources*:
@@ -242,13 +292,21 @@ https://www.constituteproject.org/constitution/Mauritania_2012.pdf?lang=en
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The National Assembly adopted on 07/04/2020 the enabling bill authorizing the government, in application of article 60 of the Constitution, to take by ordinances, all the measures necessary to fight against the pandemic of Covid 19 and all its effects. 
 
 *Sources*:
- http://fr.ami.mr/Depeche-53176.html
+ http://fr.ami.mr/Depeche-53176.html
 http://fr.alakhbar.info/15472-0-Mauritanie-adoption-de-la-loi-dhabilitation-contre-le-Covid-19.html
 
 
@@ -269,22 +327,28 @@ http://fr.alakhbar.info/15472-0-Mauritanie-adoption-de-la-loi-dhabilitation-cont
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Government can rule by Ordinances on covid19 related matters.
-Social distancing measures in place - parliament continues sessions. 
+ Government can rule by Ordinances on covid19 related matters. Social distancing measures in place - parliament continues sessions. The measures ended on July 10. 
 
 *Sources*:
- http://fr.ami.mr/Depeche-53088.html
-http://fr.ami.mr/Depeche-53087.html
-https://www.constituteproject.org/constitution/Mauritania_2012.pdf?lang=en
+ http://fr.ami.mr/Depeche-53088.htmlhttp://fr.ami.mr/Depeche-53087.html
+https://www.constituteproject.org/constitution/Mauritania_2012.pdf?lang=en
 http://fr.ami.mr/Depeche-53085.html
 
 
@@ -297,15 +361,22 @@ http://fr.ami.mr/Depeche-53085.html
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -330,8 +401,15 @@ http://fr.ami.mr/Depeche-53085.html
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -361,21 +439,26 @@ http://fr.ami.mr/Depeche-53085.html
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The measures are almost uniform, and the few differences relate to places of entry and exit.
-
-"In accordance with the recommendations of the interdepartmental committee responsible for managing the emergency situation and relating to launching the second stage of the national strategy for combating the coronavirus pandemic (Covid 19, the Ministry of the Interior and Decentralization, in the goal of enlightening public opinion, announces that it has been decided to close all entry and exit points with neighboring brother and friendly countries, with the exception of the following points: Rosso (Wilaya du Trarza), Boghé (Wilkaya du Brakna), Gouraye (Wilaya du Guidimagha), Douinkara-Fassala (Wilaya du Hodh Echarghi), Gougui Zemal (Wilaya du Hodh El Gharbi), Kilometer 55 (Wilaya de Dakhlet Nouadhibou), Bir 75 (Wilaya du Tiris Zemmour).
-
-Also: ''On Tuesday, May 19, Mauritanian authorities announced that travel into and out of the capital Nouakchott and in Kiffa (Assaba region) has been banned due to a surge in reported coronavirus disease (COVID-19) cases. Additionally, movements between different regions in the country have also been prohibited, with the exception of movement between Nouakchott-Ouest, Nouakchott-Nord, and Nouakchott-Sud regions.''
-
-A nationwide curfew between 21:00 and 06:00 (local time) and a suspension on all flights to and from Mauritania remain in place as of Thursday, May 21. Border crossing points into the country, educational facilities, and all non-essential businesses remain closed. Security forces have reportedly been deployed to enforce the travel restrictions. 
+ During March-June, the measures overall applied natiuonwide, but with the following exceptions: travel into and out of the capital Nouakchott and in Kiffa (Assaba region) was banned due to a surge in reported coronavirus disease (COVID-19) cases, and movements between different regions in the country were also prohibited, with the exception of movement between Nouakchott-Ouest, Nouakchott-Nord, and Nouakchott-Sud regions. A nationwide curfew between 21:00 and 06:00 (local time) and a suspension on all flights to and from Mauritania was in place in May. Border crossing points into the country, educational facilities, and all non-essential businesses were closed. 
+After July 10, there are mainly preventative measures in place like social distancing guidlines and mandatory wearing of masks. 
 
 *Sources*:
- http://fr.ami.mr/Depeche-52866.html
-https://www.garda.com/crisis24/news-alerts/344076/mauritania-authorities-announce-travel-ban-for-nouakchott-and-kiffa-assaba-region-may-19-update-5
-https://mr.usembassy.gov/covid-19-information-2/
+ https://www.worldaware.com/intelligence-alert-authorities-maintain-covid-19-restrictions-mauritania
+http://fr.ami.mr/Depeche-52866.html
+https://reliefweb.int/report/mauritania/unicef-mauritania-covid-19-situation-report-no-12-19-september-20-october-2020
+https://www.garda.com/crisis24/news-alerts/344076/mauritania-authorities-announce-travel-ban-for-nouakchott-and-kiffa-assaba-region-may-19-update-5
+https://mr.usembassy.gov/covid-19-information-2/
 http://www.ituc-africa.org/Mauritania-Facing-the-pandemic-of-COVID-19.html
 
 
@@ -400,23 +483,25 @@ http://www.ituc-africa.org/Mauritania-Facing-the-pandemic-of-COVID-19.html
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No discrimination based on these rights.
+ No discrimination based on these rights.
 However, rights groups have expressed that the harsh measures imposed to fight the virus have only intensified the social exclusion and discrimination Haratins already face. 
 
 *Sources*:
- https://mr.usembassy.gov/covid-19-information-2/
-https://www.antislavery.org/mauritania-lockdown-helping-the-most-vulnerable/
-https://www.africanews.com/2020/03/21/covid-19-mauritania-enforces-curfew/
-http://fr.ami.mr/Recherche-9
-http://fr.ami.mr/Depeche-52875.html
+ https://mr.usembassy.gov/covid-19-information-2/https://www.antislavery.org/mauritania-lockdown-helping-the-most-vulnerable/
+https://www.africanews.com/2020/03/21/covid-19-mauritania-enforces-curfew/
+http://fr.ami.mr/Recherche-9
+http://fr.ami.mr/Depeche-52875.html
 https://unpo.org/article/21867
 
 
@@ -446,10 +531,13 @@ https://unpo.org/article/21867
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -457,12 +545,10 @@ Time period: *Jul-Sep*: 0
  No violation of non-derogable rights. 
 
 *Sources*:
- https://mr.usembassy.gov/covid-19-information-2/
-https://www.africanews.com/2020/03/21/covid-19-mauritania-enforces-curfew/
-http://fr.ami.mr/Recherche-9
-http://fr.ami.mr/Depeche-52875.html
-
-
+ https://mr.usembassy.gov/covid-19-information-2/
+https://www.africanews.com/2020/03/21/covid-19-mauritania-enforces-curfew/
+http://fr.ami.mr/Recherche-9
+http://fr.ami.mr/Depeche-52875.html
 
 
 
@@ -486,18 +572,24 @@ http://fr.ami.mr/Depeche-52875.html
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No de jure media limitations. 
 
 *Sources*:
- https://mr.usembassy.gov/covid-19-information-2/
-https://www.africanews.com/2020/03/21/covid-19-mauritania-enforces-curfew/
-http://fr.ami.mr/Recherche-9
-http://fr.ami.mr/Depeche-52875.html
-https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
-
+ https://mr.usembassy.gov/covid-19-information-2/
+https://www.africanews.com/2020/03/21/covid-19-mauritania-enforces-curfew/
+http://fr.ami.mr/Recherche-9http://fr.ami.mr/Depeche-52875.html
+https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
 
 
 
@@ -509,15 +601,22 @@ https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -535,15 +634,22 @@ https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -571,23 +677,25 @@ https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No media limitations on the nature of covid19 were reported.
-However, there have been concerns and doubts over the very few reported covid19 cases, and the overall claim of the government that everything is under control. 
+ No media limitations on the nature of covid19 were reported. However, there have been concerns and doubts over the very few reported covid19 cases, and the overall claim of the government that everything is under control. 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://cpj.org/mideast/mauritania/
-https://www.middleeasteye.net/news/fear-more-cases-mauritania-claims-total-control-over-coronavirus-spread
+ https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://cpj.org/mideast/mauritania/
+https://www.middleeasteye.net/news/fear-more-cases-mauritania-claims-total-control-over-coronavirus-spread
 https://unpo.org/article/21867
 
 
@@ -600,7 +708,7 @@ https://unpo.org/article/21867
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -610,23 +718,28 @@ https://unpo.org/article/21867
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No media limitations on government response on covid19 were found. 
-However, there have been concerns and doubts over the very few reported covid19 cases, and the overall claim of the government that everything is under control. 
+ 'On May 3, the authorities arrested a blogger, Mommeu Ould Bouzouma over a tweet in which he criticised as "erratic" the enforcement of COVID-19 lockdown in the district of Tiris Zemmour. Bouzouma, who is also the correspondent of the news website Alakhbar.info in Zouerate, was released after spending 12 days in detention.
+On June 2, the police arrested Salma Mint Tolba, the alleged author of a series of audio recordings questioning aspects of the government's response to the COVID-19. Notably, she accused the authorities of inflating the number of infections. Two other people, Mohamed Ould Semmane and Sidi Mohamed Ould Beyah, who were suspected to have participated in the dissemination of the audio, were also arrested.'' (1) 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://cpj.org/mideast/mauritania/
-https://www.middleeasteye.net/news/fear-more-cases-mauritania-claims-total-control-over-coronavirus-spread
+ https://allafrica.com/stories/202009140921.html
+(1)
+https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://cpj.org/mideast/mauritania/
+https://www.middleeasteye.net/news/fear-more-cases-mauritania-claims-total-control-over-coronavirus-spread
 https://unpo.org/article/21867
 
 
@@ -649,10 +762,13 @@ https://unpo.org/article/21867
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -660,10 +776,10 @@ Time period: *Jul-Sep*: 0
  No reports on media limitations on non-covid19 related issues. 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://cpj.org/mideast/mauritania/
+ https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://cpj.org/mideast/mauritania/
 https://www.middleeasteye.net/news/fear-more-cases-mauritania-claims-total-control-over-coronavirus-spread
 
 
@@ -683,14 +799,17 @@ https://www.middleeasteye.net/news/fear-more-cases-mauritania-claims-total-contr
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -698,10 +817,14 @@ Time period: *Jul-Sep*: 0
  There are no reports, but there have been concerns and doubts over the very few reported covid19 cases, and the overall claim of the government that everything is under control. 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://cpj.org/mideast/mauritania/
+ https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
+
+https://ipi.media/covid19-media-freedom-monitoring/
+
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+
+https://cpj.org/mideast/mauritania/
+
 https://www.middleeasteye.net/news/fear-more-cases-mauritania-claims-total-control-over-coronavirus-spread
 
 
@@ -724,10 +847,13 @@ https://www.middleeasteye.net/news/fear-more-cases-mauritania-claims-total-contr
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -735,11 +861,13 @@ Time period: *Jul-Sep*: 0
  No evidence was found. 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://cpj.org/mideast/mauritania/
+ https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
 
+https://ipi.media/covid19-media-freedom-monitoring/
+
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+
+https://cpj.org/mideast/mauritania/
 
 
 
@@ -761,22 +889,30 @@ https://cpj.org/mideast/mauritania/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No evidence was found. 
+ 'On May 3, the authorities arrested a blogger, Mommeu Ould Bouzouma over a tweet in which he criticised as "erratic" the enforcement of COVID-19 lockdown in the district of Tiris Zemmour. Bouzouma, who is also the correspondent of the news website Alakhbar.info in Zouerate, was released after spending 12 days in detention.
+
+On June 2, the police arrested Salma Mint Tolba, the alleged author of a series of audio recordings questioning aspects of the government's response to the COVID-19. Notably, she accused the authorities of inflating the number of infections. Two other people, Mohamed Ould Semmane and Sidi Mohamed Ould Beyah, who were suspected to have participated in the dissemination of the audio, were also arrested.'' (1) 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://cpj.org/mideast/mauritania/
-https://www.middleeasteye.net/news/fear-more-cases-mauritania-claims-total-control-over-coronavirus-spread
+ https://allafrica.com/stories/202009140921.html
+(1)
+https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
+
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+
+https://cpj.org/mideast/mauritania/
 
 
 
@@ -800,22 +936,24 @@ https://www.middleeasteye.net/news/fear-more-cases-mauritania-claims-total-contr
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
- 'King Mohammed VI of Morocco ordered in June the shipment of medical aid to help 15 African countries in their efforts to deal with the coronavirus outbreak. These countries are Burkina Faso, Cameroon, Comoros, Congo, Eswatini, Guinea, Guinea-Bissau, Malawi, Mauritania, Niger, the Democratic Republic of Congo, Senegal, Tanzania, Chad and Zambia.''
+ King Mohammed VI of Morocco ordered in June the shipment of medical aid to help 15 African countries - including Mauritania - in their efforts to deal with the coronavirus outbreak.''
 The shipment included 75,000 packs of chloroquine and 15,000 packs of Azithromycin.
 
-Hydroxychloroquine has been part of Mauritania's treatment protocol adopted against covid19.
-No evidence was found on whether the government changed its policy on the use of chloroquine after June. 
+Hydroxychloroquine has been part of Mauritania's treatment protocol adopted against covid19. No evidence was found on whether the government changed its policy on the use of chloroquine after June. 
 
 *Sources*:
- https://northafricapost.com/41720-mauritania-others-welcomes-royal-decision-to-dispatch-medical-aid-to-african-countries.html
+ https://northafricapost.com/41720-mauritania-others-welcomes-royal-decision-to-dispatch-medical-aid-to-african-countries.html
 https://afrique.le360.ma/maroc-mauritanie/politique/2020/06/14/30862-video-mauritanie-nouakchott-reception-dune-importante-aide-medicale-marocaine-pour
 
 
@@ -840,10 +978,13 @@ https://afrique.le360.ma/maroc-mauritanie/politique/2020/06/14/30862-video-mauri
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -852,15 +993,15 @@ Time period: *Jul-Sep*: 0
 
  'In other instances, security forces have at times resorted to violence against those breaking the curfew, with one video circulating on social media showing police beating, in the middle of a Nouakchott street, those who had turned out to protest against an activist's arrest.'' (1)
 
-Another incident was found, but it hasn't been possible to verify if the information is valid or credible, nor to find additional sources that report the incident, therefore it is not included in the coding score.
+Another incident was found, but it hasn't been possible to verify if the information is credible, nor to find additional sources that report the incident, therefore it is not included in the coding score.
 ''Abass Hamadi Diallo, born in 1986, was in southern Mauritania on 28 May near the border with Senegal that at the time was observing curfew regulations imposed due to the COVID-19 pandemic.
 The young man, father of six, was helping a dark man and his nephew with the transport of merchandise when a gunshot hit him fatally in the chest.'' (2) 
 
 *Sources*:
  https://www.middleeasteye.net/news/fear-more-cases-mauritania-claims-total-control-over-coronavirus-spread
-(1)
+(1)
 https://www.focusonafrica.info/en/mauritania-state-police-kills-another-innocent-black-citizen/
-(2)
+(2)
 https://www.worldaware.com/covid-19-alert-mauritania-ease-domestic-restrictions-july-10
 
 
@@ -873,7 +1014,7 @@ https://www.worldaware.com/covid-19-alert-mauritania-ease-domestic-restrictions-
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -883,44 +1024,20 @@ https://www.worldaware.com/covid-19-alert-mauritania-ease-domestic-restrictions-
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- 'Military patrols are deployed on the border with Senegal to prevent any illegal crossing of the border into Mauritania.''
- 
+ Military patrols are deployed on the border with Senegal to prevent any illegal crossing of the border into Mauritania.'' The emergency measures ended on July 10. 
 
 *Sources*:
- http://french.china.org.cn/foreign/txt/2020-03/27/content_75869375.htm
-https://afrique.le360.ma/mauritanie-senegal/politique/2020/03/21/29894-coronavirus-mauritanie-senegal-fermeture-de-la-frontiere-terrestre-entre-les-deux
+ http://french.china.org.cn/foreign/txt/2020-03/27/content_75869375.htm
 
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*
+https://afrique.le360.ma/mauritanie-senegal/politique/2020/03/21/29894-coronavirus-mauritanie-senegal-fermeture-de-la-frontiere-terrestre-entre-les-deux

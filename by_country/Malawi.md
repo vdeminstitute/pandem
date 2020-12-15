@@ -1,9 +1,6 @@
 # Malawi 
 
 
-Time 2020-09-04 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-04
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,17 +25,46 @@ Time 2020-09-04
  7. Other.
 
  
-*Answer*: 3 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- The President declared a state of disaster from March 20, using the Disaster Preparedness and Relief Act. 
+ The national-level emergency measures have been implemented by the Ministry of Health, pursuant under the Public Health Act and the declaration of Covid-19 as a "formidable disease" by the Ministry of Health on 01 April (6). 
+
+On 20 March 2020, the President declared a state of disaster in Malawi, under the Disaster Preparedness and Relief Act (3,4). Pursuant under this law, a state of disaster shall be in force for three months from the date specified in the declaration, but may end sooner or be extended by formal announcement in the gazette (4,5). No such early termination or extension could be located in the gazette notices, so we assume this state of disaster ended around 20 June 2020. 
+
+Nevertheless, as Government Notice No. 5 of 2020 states, "These rules are enforceable whether or not a state of disaster in relation to Covid-19 is in force under the Disaster Preparedness and Relief Act" (2). No mention of the state of disaster is made in the subsequent regulations issued after June. Therefore, we code for the entire period the main legal instrument as the Public Health Act, rather than the Disaster Preparedness Act. Further, because the Public Health Act does not provide for a state of public health emergency - and none such emergency has been declared under another legal instrument - we code this as being a case of other legislation, where this differs from a state of emergency, public health emergency, or disaster/catastrophe. 
+
+On 09 April 2020, the Minister of Health issued a set of rules for Corona Virus Prevention, Containment, and Management (Government Notice No. 5 of 2020). These regulations came with reference to "section 31 of the Public Health Act" and the "declaration of the Corona Virus Disease as a formidable disease on the 1st day of April 2020" (2). This document also states that the Minister may extend the duration of lockdowns for one month at a time - but does not mention limits on the time for other emergency measures. 
+
+On 14 April, the President and the Minister of Health announced a 21-day lockdown under the rules established by Government Notice No. 5. However, the courts issued an injunction against the lockdown on 17 April. Other measures under the Government Notice No. 5 appear to have remained in place without a clear end date.
+
+On 07 August 2020, the Minister of Health issued a new set of guidelines that included a ban on public gatherings, with the exception of funerals under 50 people, closure of schools, mandatory mask wearing, among others. These regulations came with reference to "section 31 as read with section 29 of the Public Health Act and pursuant to the declaration of Covid-19 as a formidable disease on the 1st day of April 2020" (1).
+
+On 20 September, the courts had their final say on lockdowns, ruling them to fall outside of the Public Health Act jurisdiction and that such measures limited oversight and accountability (7). Other regulations remain in place. 
 
 *Sources*:
- https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter-mutharika
-
-https://www.manaonline.gov.mw/index.php/component/k2/item/13931-public-health-corona-virus-prevention-containment-and-management-rules-2020
-
+ https://gazettes.africa/archive/mw/2020/mw-government-gazette-supplement-dated-2020-08-07-no-23A.pdf
+(1)
+https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-2020-5-publication-document.pdf
+(2)
+https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter-mutharika
+(3)
+https://www.facebook.com/malawigovernment/posts/press-releasedeclaration-of-state-of-disaster-by-his-excellency-the-presidentthe/1440708896115600/
+(4)
 https://malawilii.org/mw/consolidated_legislation/3305
+(5)
+https://malawilii.org/sites/all/libraries/pdf.js/web/viewer.html?file=https%3A%2F%2Fmalawilii.org%2Fsystem%2Ffiles%2Fconsolidatedlegislation%2F3401%2FPublic%2520Health%2520Act.pdf
+(6)
+https://blogs.lse.ac.uk/africaatlse/2020/11/13/how-have-malawis-courts-law-affected-epidemic-response/
+(7)
 
 
 
@@ -57,19 +83,34 @@ https://malawilii.org/mw/consolidated_legislation/3305
 *Scale*: Character string.
 
  
-*Answer*: State of Disaster: Disaster Preparedness and Relief Act 
+*Time period: Q2*: Public Health Act
+
+ 
+*Time period: Q3*: Public Health Act
+
+ 
+*Time period: Q4*: Public Health Act
+
+ 
 
 *Comments*:
- The President declared a state of disaster from March 20, using the Disaster Preparedness and Relief Act. Later, on 01 April, the government invoked the Public Health Act to issue the Public Health (Corona Virus Prevention, Containment, and Management) Rules on 08 April. However, the 21-day lockdown proposed in these rules was halted by the High Court of Malawi on 17 April 2020. 
+ The national-level emergency measures have been implemented by the Ministry of Health, pursuant under the Public Health Act and the declaration of Covid-19 as a "formidable disease" by the Ministry of Health on 01 April (6). 
+
+On 20 March 2020, the President declared a state of disaster in Malawi, under the Disaster Preparedness and Relief Act (3,4). Pursuant under this law, a state of disaster shall be in force for three months from the date specified in the declaration, but may end sooner or be extended by formal announcement in the gazette (4,5). No such early termination or extension could be located in the gazette notices, so we assume this state of disaster ended around 20 June 2020. 
+
+Nevertheless, as Government Notice No. 5 of 2020 states, "These rules are enforceable whether or not a state of disaster in relation to Covid-19 is in force under the Disaster Preparedness and Relief Act" (2). No mention of the state of disaster is made in the subsequent regulations issued after June. Therefore, we code for the entire period the main legal instrument as the Public Health Act, rather than the Disaster Preparedness Act. Further, because the Public Health Act does not provide for a state of public health emergency - and none such emergency has been declared under another legal instrument - we code this as being a case of other legislation, where this differs from a state of emergency, public health emergency, or disaster/catastrophe. 
 
 *Sources*:
- https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter-mutharika
-
-https://www.manaonline.gov.mw/index.php/component/k2/item/13931-public-health-corona-virus-prevention-containment-and-management-rules-2020
-
-https://malawilii.org/mw/consolidated_legislation/3305
-
-https://www.loc.gov/law/foreign-news/article/malawi-high-court-temporarily-blocks-covid-19-lockdown/
+ https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-2020-5-publication-document.pdf
+(2)
+https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter-mutharika
+(3)
+https://www.facebook.com/malawigovernment/posts/press-releasedeclaration-of-state-of-disaster-by-his-excellency-the-presidentthe/1440708896115600/
+(4)
+https://malawilii.org/mw/consolidated_legislation/3305
+(5)
+https://malawilii.org/sites/all/libraries/pdf.js/web/viewer.html?file=https%3A%2F%2Fmalawilii.org%2Fsystem%2Ffiles%2Fconsolidatedlegislation%2F3401%2FPublic%2520Health%2520Act.pdf
+(6)
 
 
 
@@ -88,13 +129,24 @@ https://www.loc.gov/law/foreign-news/article/malawi-high-court-temporarily-block
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-20 
+*Time period: Q2*: 2020-04-01
+
+ 
+*Time period: Q3*: 2020-04-01
+
+ 
+*Time period: Q4*: 2020-04-01
+
+ 
 
 *Comments*:
- The President declared a state of disaster from March 20, using the Disaster Preparedness and Relief Act. 
+ On 01 April, the Ministry of Health declared Covid-19 a "formidable disease" under the Public Health Act. On 09 April 2020, the Minister of Health issued a set of rules for Corona Virus Prevention, Containment, and Management (Government Notice No. 5 of 2020) (2). This document states that the Minister may extend the duration of lockdowns for one month at a time - but does not mention limits on the time for other emergency measures. On 07 August 2020, the Minister of Health issued a new set of guidelines that included a ban on public gatherings, with the exception of funerals under 50 people, closure of schools, mandatory mask wearing, among others. None of these regulations appear to have a defined end date (1). 
 
 *Sources*:
- https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter-mutharika
+ https://gazettes.africa/archive/mw/2020/mw-government-gazette-supplement-dated-2020-08-07-no-23A.pdf
+(1)
+https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-2020-5-publication-document.pdf
+(2)
 
 
 
@@ -113,17 +165,24 @@ https://www.loc.gov/law/foreign-news/article/malawi-high-court-temporarily-block
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-19 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The Disaster Preparedness and Relief Act allows for an initial state of disaster to last for three months and to be extended for another three months. President Mutharika initially announced a 30-day period for the state of disaster. Later, on 01 April, the government invoked the Public Health Act to issue the Public Health (Corona Virus Prevention, Containment, and Management) Rules on 08 April. However, the 21-day lockdown proposed in these rules was halted by the High Court of Malawi on 17 April 2020. We code the end of the initial 30-day period for the state of disaster because we could find no evidence of its extension. 
+ On 01 April, the Ministry of Health declared Covid-19 a "formidable disease" under the Public Health Act. On 09 April 2020, the Minister of Health issued a set of rules for Corona Virus Prevention, Containment, and Management (Government Notice No. 5 of 2020) (2). This document states that the Minister may extend the duration of lockdowns for one month at a time - but does not mention limits on the time for other emergency measures. On 07 August 2020, the Minister of Health issued a new set of guidelines that included a ban on public gatherings, with the exception of funerals under 50 people, closure of schools, mandatory mask wearing, among others. None of these regulations appear to have a defined end date (1). 
 
 *Sources*:
- https://www.loc.gov/law/foreign-news/article/malawi-high-court-temporarily-blocks-covid-19-lockdown/
-
-https://malawilii.org/mw/consolidated_legislation/3305
-
-https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter-mutharika
+ https://gazettes.africa/archive/mw/2020/mw-government-gazette-supplement-dated-2020-08-07-no-23A.pdf
+(1)
+https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-2020-5-publication-document.pdf
+(2)
 
 
 
@@ -145,17 +204,24 @@ https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The Disaster Preparedness and Relief Act allows for an initial state of disaster to last for three months and to be extended for another three months. President Mutharika initially announced a 30-day period for the state of disaster. Later, on 01 April, the government invoked the Public Health Act to issue the Public Health (Corona Virus Prevention, Containment, and Management) Rules on 08 April. However, the 21-day lockdown proposed in these rules was halted by the High Court of Malawi on 17 April 2020. We code the official end date based on the initial 30-day period for the state of disaster because we could find no evidence of its extension. 
+ On 01 April, the Ministry of Health declared Covid-19 a "formidable disease" under the Public Health Act. On 09 April 2020, the Minister of Health issued a set of rules for Corona Virus Prevention, Containment, and Management (Government Notice No. 5 of 2020) (2). This document states that the Minister may extend the duration of lockdowns for one month at a time - but does not mention limits on the time for other emergency measures. On 07 August 2020, the Minister of Health issued a new set of guidelines that included a ban on public gatherings, with the exception of funerals under 50 people, closure of schools, mandatory mask wearing, among others. None of these regulations appear to have a defined end date (1). 
 
 *Sources*:
- https://www.loc.gov/law/foreign-news/article/malawi-high-court-temporarily-blocks-covid-19-lockdown/
-
-https://malawilii.org/mw/consolidated_legislation/3305
-
-https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter-mutharika
+ https://gazettes.africa/archive/mw/2020/mw-government-gazette-supplement-dated-2020-08-07-no-23A.pdf
+(1)
+https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-2020-5-publication-document.pdf
+(2)
 
 
 
@@ -167,20 +233,31 @@ https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-19 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The Disaster Preparedness and Relief Act allows for an initial state of disaster to last for three months and to be extended for another three months. President Mutharika initially announced a 30-day period for the state of disaster. Later, on 01 April, the government invoked the Public Health Act to issue the Public Health (Corona Virus Prevention, Containment, and Management) Rules on 08 April. However, the 21-day lockdown proposed in these rules was halted by the High Court of Malawi on 17 April 2020. We code the official end date based on the initial 30-day period for the state of disaster because we could find no evidence of its extension. 
+ On 01 April, the Ministry of Health declared Covid-19 a "formidable disease" under the Public Health Act. On 09 April 2020, the Minister of Health issued a set of rules for Corona Virus Prevention, Containment, and Management (Government Notice No. 5 of 2020) (2). This document states that the Minister may extend the duration of lockdowns for one month at a time - but does not mention limits on the time for other emergency measures. On 07 August 2020, the Minister of Health issued a new set of guidelines that included a ban on public gatherings, with the exception of funerals under 50 people, closure of schools, mandatory mask wearing, among others. None of these regulations appear to have a defined end date (1). 
 
 *Sources*:
- https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter-mutharika
+ https://gazettes.africa/archive/mw/2020/mw-government-gazette-supplement-dated-2020-08-07-no-23A.pdf
+(1)
+https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-2020-5-publication-document.pdf
+(2)
 
 
 
@@ -192,7 +269,7 @@ https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -202,13 +279,21 @@ https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The Disaster Preparedness and Relief Act does not require parliamentary approval for a state of disaster to be declared or extended. See section 32, at p.18. 
+ The Public Health Act allows for the Minister to declare a formidable disease and issue regulations without approval from the parliament. 
 
 *Sources*:
- https://malawilii.org/mw/consolidated_legislation/3305
+ https://malawilii.org/sites/all/libraries/pdf.js/web/viewer.html?file=https%3A%2F%2Fmalawilii.org%2Fsystem%2Ffiles%2Fconsolidatedlegislation%2F3401%2FPublic%2520Health%2520Act.pdf
 
 
 
@@ -230,13 +315,21 @@ https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The Disaster Preparedness and Relief Act does not require parliamentary approval for a state of disaster to be declared or extended. See section 32, at p.18. 
+ The Public Health Act allows for the Minister to declare a formidable disease and issue regulations without approval from the parliament. 
 
 *Sources*:
- https://malawilii.org/mw/consolidated_legislation/3305
+ https://malawilii.org/sites/all/libraries/pdf.js/web/viewer.html?file=https%3A%2F%2Fmalawilii.org%2Fsystem%2Ffiles%2Fconsolidatedlegislation%2F3401%2FPublic%2520Health%2520Act.pdf
 
 
 
@@ -256,25 +349,27 @@ https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 3 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The Disaster Preparedness and Relief Act is vaguely formulated on what powers the executive has during a state of disaster: "extraordinary measures are necessary to assist and protect the persons affected or likely to be affected by the disaster in any area within Malawi or that circumstances are likely to arise making such measures." The Public Health Act, which was later invoked, is more specific with reference to prevention of disease spread. We code based on the state of disaster. On July 16, Parliament limited operations for 14 days due to confirmed cases among members of parliament and parliamentary staff. However, the legislature continued to work and is therefore not coded as suspension, dissolution or equivalent. The state of disaster seems to still be in effect as of September 30 2020, and the July/September period is therefore coded similarly to the March/June period. 
+ The Public Health Act stipulates specific areas where the Ministry of Health may issue rules and regulations regarding prevention and treatment of formidable diseases. 
 
 *Sources*:
- https://malawilii.org/mw/consolidated_legislation/3305
-
-https://malawilii.org/mw/consolidated_legislation/3401
-
-https://www.smartraveller.gov.au/destinations/africa/malawi
-
-https://www.facebook.com/malawigovernment/photos/pcb.1524059361113886/1524059274447228
+ https://malawilii.org/sites/all/libraries/pdf.js/web/viewer.html?file=https%3A%2F%2Fmalawilii.org%2Fsystem%2Ffiles%2Fconsolidatedlegislation%2F3401%2FPublic%2520Health%2520Act.pdf
 
 
 
@@ -286,15 +381,22 @@ https://www.facebook.com/malawigovernment/photos/pcb.1524059361113886/1524059274
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
@@ -319,8 +421,15 @@ https://www.facebook.com/malawigovernment/photos/pcb.1524059361113886/1524059274
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
@@ -350,13 +459,22 @@ https://www.facebook.com/malawigovernment/photos/pcb.1524059361113886/1524059274
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The measures appear to have been more or less uniform across the country. 
+ The measures appear to have been implemented uniformly across the country. However, the emergency measures regarding Covid-19 allow the government "to declare any geographical area as a restricted area". See section 17(d) of Government Notice No. 48 (1) This could potentially allow for subnational variation in the emergency measures at some future date. 
 
 *Sources*:
- https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter-mutharika
+ https://gazettes.africa/archive/mw/2020/mw-government-gazette-supplement-dated-2020-08-07-no-23A.pdf
+(1)
 
 
 
@@ -380,10 +498,13 @@ https://www.facebook.com/malawigovernment/photos/pcb.1524059361113886/1524059274
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -391,12 +512,9 @@ Time period: *Jul-Sep*: 0
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- https://www.bbc.com/news/topics/clm1wxp5pert/malawi
-
-https://www.amnesty.org/en/countries/africa/malawi/
-
-https://www.hrw.org/africa/malawi
-
+ https://www.bbc.com/news/topics/clm1wxp5pert/malawi
+https://www.amnesty.org/en/countries/africa/malawi/
+https://www.hrw.org/africa/malawi
 https://www.manaonline.gov.mw/index.php/component/k2/item/13931-public-health-corona-virus-prevention-containment-and-management-rules-2020
 
 
@@ -426,10 +544,13 @@ https://www.manaonline.gov.mw/index.php/component/k2/item/13931-public-health-co
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -437,15 +558,12 @@ Time period: *Jul-Sep*: 0
  No emergency measures that de-jure violate non-derogable rights as defined by the ICCPR, was found. 
 
 *Sources*:
- https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-
-https://www.amnesty.org/en/countries/africa/malawi/
-
-https://www.hrw.org/africa/malawi
-
-https://www.manaonline.gov.mw/index.php/component/k2/item/13931-public-health-corona-virus-prevention-containment-and-management-rules-2020
-
-https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter-mutharika
+ https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-2020-5-publication-document.pdf
+https://gazettes.africa/archive/mw/2020/mw-government-gazette-supplement-dated-2020-08-07-no-23A.pdf
+
+https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
+https://www.amnesty.org/en/countries/africa/malawi/
+https://www.hrw.org/africa/malawi
 
 
 
@@ -469,15 +587,22 @@ https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- No de-jure limitations of media freedom as part of the Covid-19 emergency measures were found. 
+ The emergency measures do not mention any limits on media and communication services are listed as essential. 
 
 *Sources*:
- https://www.manaonline.gov.mw/index.php/component/k2/item/13931-public-health-corona-virus-prevention-containment-and-management-rules-2020
-
-https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter-mutharika
+ https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-2020-5-publication-document.pdf
+https://gazettes.africa/archive/mw/2020/mw-government-gazette-supplement-dated-2020-08-07-no-23A.pdf
 
 
 
@@ -489,15 +614,22 @@ https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -515,15 +647,22 @@ https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -551,23 +690,23 @@ https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
+ There are no reports of restrictions on media reporting about the Covid-19 virus. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/malawi
-
-https://ipi.media/malawi/
-
+ https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/malawi
+https://ipi.media/malawi/
 https://cpj.org/africa/malawi/
 
 
@@ -580,7 +719,7 @@ https://cpj.org/africa/malawi/
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -590,21 +729,23 @@ https://cpj.org/africa/malawi/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No evidence indicating that the government is de-facto limiting reporting of the government's Covid-19 response, was found. 
+ There are no reports of restrictions on media reporting about the government response to the Covid-19 pandemic. 
 
 *Sources*:
- https://rsf.org/en/malawi
-
-https://ipi.media/malawi/
-
+ https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/malawi
+https://ipi.media/malawi/
 https://cpj.org/africa/malawi/
 
 
@@ -627,21 +768,23 @@ https://cpj.org/africa/malawi/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No evidence indicating that the government is de-facto limiting media reporting about non-Covid-19 related news, but with reference to the pandemic, was found. 
+ There are no reports of restrictions on the media reporting about other matters with reference to Covid-19 regulations. 
 
 *Sources*:
- https://rsf.org/en/malawi
-
-https://ipi.media/malawi/
-
+ https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/malawi
+https://ipi.media/malawi/
 https://cpj.org/africa/malawi/
 
 
@@ -661,25 +804,27 @@ https://cpj.org/africa/malawi/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No evidence indicating that the government and its agents limits media access to Covid-19 related information, was found. 
+ There are no reports of the media being limited access to information. 
 
 *Sources*:
- https://rsf.org/en/malawi
-
-https://ipi.media/malawi/
-
+ https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/malawi
+https://ipi.media/malawi/
 https://cpj.org/africa/malawi/
 
 
@@ -702,21 +847,24 @@ https://cpj.org/africa/malawi/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No evidence indicating that the government and its agents have verbally harassed journalists reporting about Covid-19, was found. 
+ In August/September 2020, two journalists in Malawi told the Committee to Protect Journalists that they were experiencing online harassment for their commentary on the government's response to the Covid-19 pandemic when it comes to teachers' compensation. However, these threats have not been linked to any government agents. No other incidents of verbal harassment are reported. 
 
 *Sources*:
- https://rsf.org/en/malawi
-
-https://ipi.media/malawi/
-
+ https://cpj.org/2020/09/malawi-journalists-threatened-over-commentary-on-education-policies-amid-covid-19/
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/malawi
+https://ipi.media/malawi/
 https://cpj.org/africa/malawi/
 
 
@@ -739,26 +887,24 @@ https://cpj.org/africa/malawi/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Although activists and journalists have been arrested, it does not appear to be in connection to the Covid-19 measures. 
+ There are no reports of journalists being physically harassed while reporting about Covid-19. 
 
 *Sources*:
- https://rsf.org/en/malawi
-
-https://ipi.media/malawi/
-
-https://cpj.org/africa/malawi/
-
-https://ipi.media/ipi-condemns-police-attacks-on-malawi-journalists/
-
-https://www.amnesty.org/en/latest/news/2020/03/malawi-authorities-escalate-crackdown-with-arrests-of-rights-activists/
+ https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/malawi
+https://ipi.media/malawi/
+https://cpj.org/africa/malawi/
 
 
 
@@ -782,22 +928,24 @@ https://www.amnesty.org/en/latest/news/2020/03/malawi-authorities-escalate-crack
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- The information from the government is similar to the information from WHO. 
+ The information provided by the government is in line with the WHO standards. 
 
 *Sources*:
- https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter-mutharika
-
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
-
-https://www.facebook.com/malawigovernment
+ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+https://www.health.gov.mw
+https://twitter.com/health_malawi?lang=en
+https://www.facebook.com/malawimoh/
 
 
 
@@ -821,19 +969,21 @@ https://www.facebook.com/malawigovernment
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Police has clashed with protestors and fired teargas at them. While this is bad, it does not appear that dispersing the protestors were part of any covid-19 emergency measure enforcements. If they would have been dispersed because they were accused of violating social distancing rules or the like, that would affect this score, but nothing indicative of that was found. 
+ Since Covid-19 was declared a formidable disease, Malawi has experienced protests surrounding a presidential election re-run. However, police brutality against protestors including the use of tear gas  has not been justified with reference to the Covid-19 regulations. 
 
 *Sources*:
- https://freedomhouse.org/article/heavy-handed-pandemic-responses-could-fuel-unrest-southern-africa
-
+ https://freedomhouse.org/article/heavy-handed-pandemic-responses-could-fuel-unrest-southern-africa
 https://www.voanews.com/covid-19-pandemic/malawi-police-clash-prison-guards-demanding-covid-19-protection-equipment
 
 
@@ -846,7 +996,7 @@ https://www.voanews.com/covid-19-pandemic/malawi-police-clash-prison-guards-dema
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -856,45 +1006,19 @@ https://www.voanews.com/covid-19-pandemic/malawi-police-clash-prison-guards-dema
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- The defence force (MDF) was to assist the police in enforcing lockdown. However, lockdown was blocked by the high court the day before it was set to start. Hence, the defence force as not enforced lockdown. 
+ The Covid-19 rules and regulations allow for the government to impose restricted areas and lockdowns that can be enforced by the Defence Force of Malawi; however, these lockdowns have since been ruled unlawful by the courts without ever being implemented. 
 
 *Sources*:
- https://www.bbc.com/news/world-africa-52471276
-
-https://www.nyasatimes.com/malawi-army-police-to-enforce-lockdown-to-use-necessary-force-respect-human-rights/
-
-https://www.bbc.com/news/topics/clm1wxp5pert/malawi
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*
+ https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-2020-5-publication-document.pdf
+https://gazettes.africa/archive/mw/2020/mw-government-gazette-supplement-dated-2020-08-07-no-23A.pdf

@@ -1,9 +1,6 @@
 # Guatemala 
 
 
-Time 2020-09-23 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-23
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,13 +25,24 @@ Time 2020-09-23
  7. Other.
 
  
-*Answer*: 3 
+*Time period: Q2*: 3
+
+ 
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
+
+ 
 
 *Comments*:
- A state of public calamity was declared via the Government Decree Number 5-2020 from March 5. 
+ A state of public calamity was declared via the Government Decree nº 5-2020 on March 5. It ended on October 5 and was replaced with mandatory measures defined on the Ministerial Agreement nº 229-2020 and the Government Agreement nº 150-2020. 
 
 *Sources*:
  https://www.minfin.gob.gt/images/calamidad/documentos/Decreto%20No%205-2020%20-%20COVID-19.pdf
+https://www.cpd.gob.gt/post/acuerdo-ministerial-no-229-2020
+https://www.mspas.gob.gt/component/jdownloads/category/784-acuerdo-gubernativo-no-150-2020.html?Itemid=-1
+https://www.mspas.gob.gt/noticias/noticias-ultimas/5-noticias-mspas/1076-medidas-de-prevenci%C3%B3n-para-evitar-contagios-por-covid-19-son-obligatorias-para-toda-la-poblaci%C3%B3n.html
 
 
 
@@ -53,13 +61,21 @@ Time 2020-09-23
 *Scale*: Character string.
 
  
-*Answer*: Constitution Articles 138, 139 and 183f and Decree nº 7 (Ley de Orden Publico) 
+*Time period: Q2*: Constitution Articles 138, 139 and 183f and Decree nº 7 (Ley de Orden Publico)
+
+ 
+*Time period: Q3*: Constitution Articles 138, 139 and 183f and Decree nº 7 (Ley de Orden Publico)
+
+ 
+*Time period: Q4*: Constitution Articles 138, 139 and 183f and Decree nº 7 (Ley de Orden Publico)
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://www.oas.org/dil/esp/Constitucion_Guatemala.pdf
+ https://www.oas.org/dil/esp/Constitucion_Guatemala.pdf
 https://mingob.gob.gt/wp-content/uploads/2016/01/04-marco-constitucional.pdf
 
 
@@ -79,7 +95,15 @@ https://mingob.gob.gt/wp-content/uploads/2016/01/04-marco-constitucional.pdf
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-06 
+*Time period: Q2*: 2020-03-06
+
+ 
+*Time period: Q3*: 2020-03-06
+
+ 
+*Time period: Q4*: 2020-03-06
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -104,15 +128,23 @@ https://mingob.gob.gt/wp-content/uploads/2016/01/04-marco-constitucional.pdf
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 2020-10-05
+
+ 
 
 *Comments*:
  Still in place 
 
 *Sources*:
- https://consortiumlegal.com/documentos/COVID-19/documentos/GT/DECRETO%20DEL%20CONGRESO%2029-2020.pdf
-https://www.blplegal.com/es/Disposiciones-normativas-COVID19-Coronavirus-Guatemala
+ https://consortiumlegal.com/documentos/COVID-19/documentos/GT/DECRETO%20DEL%20CONGRESO%2029-2020.pdf
+https://twitter.com/GuatemalaGob/status/1310997570936864768
+https://www.prensalibre.com/guatemala/politica/estado-de-calamidad-gobierno-anuncia-que-no-pedira-otra-prorroga-breaking/
 
 
 
@@ -134,13 +166,21 @@ https://www.blplegal.com/es/Disposiciones-normativas-COVID19-Coronavirus-Guatema
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The Article 138 of the Constitution defines that limitations to constitutional rights can last no longer than 30 days at a time. Due to the covid-19 pandemic, the restrictive measures were first adopted for 30 days and then extended, currently until October 5. 
+ The Article 138 of the Constitution defines that limitations to constitutional rights can last no longer than 30 days at a time. Due to the covid-19 pandemic, the restrictive measures were first adopted for 30 days and then extended, always for a delimited time period. 
 
 *Sources*:
- https://www.oas.org/dil/esp/Constitucion_Guatemala.pdf
+ https://www.oas.org/dil/esp/Constitucion_Guatemala.pdf
 https://republica.gt/2020/08/27/congreso-avala-estado-de-calamidad-hasta-el-5-de-octubre/
 
 
@@ -153,22 +193,30 @@ https://republica.gt/2020/08/27/congreso-avala-estado-de-calamidad-hasta-el-5-de
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-10-05 
+*Time period: Q2*: 2020-06-28
+
+ 
+*Time period: Q3*: 2020-10-05
+
+ 
+*Time period: Q4*: 2020-10-05
+
+ 
 
 *Comments*:
- The state of public calamity was declared for 30 days and then postponed for additional 30 days six times. At the moment, the the limit date is October 5. 
+ The state of public calamity was declared for 30 days and then postponed for additional 30 days six times. 
 
 *Sources*:
- https://www.minfin.gob.gt/images/calamidad/documentos/Decreto%20No%205-2020%20-%20COVID-19.pdf
-https://consortiumlegal.com/documentos/COVID-19/documentos/GT/DECRETO%20GUBERNATIVO%2017-2020%20(200826).pdf
-https://consortiumlegal.com/documentos/COVID-19/documentos/GT/DECRETO%20DEL%20CONGRESO%2029-2020.pdf
+ https://www.minfin.gob.gt/images/calamidad/documentos/Decreto%20No%205-2020%20-%20COVID-19.pdf
+https://consortiumlegal.com/documentos/COVID-19/documentos/GT/DECRETO%20GUBERNATIVO%2017-2020%20(200826).pdf
+https://consortiumlegal.com/documentos/COVID-19/documentos/GT/DECRETO%20DEL%20CONGRESO%2029-2020.pdf
 https://www.blplegal.com/es/Disposiciones-normativas-COVID19-Coronavirus-Guatemala
 
 
@@ -181,7 +229,7 @@ https://www.blplegal.com/es/Disposiciones-normativas-COVID19-Coronavirus-Guatema
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -191,7 +239,15 @@ https://www.blplegal.com/es/Disposiciones-normativas-COVID19-Coronavirus-Guatema
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  Constitution, Article 138: The president declares the state of disaster via decree and the congress needs to ratify/modify/disapprove it in following three days. 
@@ -219,13 +275,21 @@ https://www.blplegal.com/es/Disposiciones-normativas-COVID19-Coronavirus-Guatema
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://consortiumlegal.com/documentos/COVID-19/documentos/GT/DECRETO%20DEL%20CONGRESO%2029-2020.pdf
+ https://consortiumlegal.com/documentos/COVID-19/documentos/GT/DECRETO%20DEL%20CONGRESO%2029-2020.pdf
 https://republica.gt/2020/08/27/congreso-avala-estado-de-calamidad-hasta-el-5-de-octubre/
 
 
@@ -246,21 +310,27 @@ https://republica.gt/2020/08/27/congreso-avala-estado-de-calamidad-hasta-el-5-de
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- Art 15: The president can rule by decree, but there are limitations to what type of measures they can take. 
-Art 31: "This law will not affect the operation of the State organisms, whose members will continue enjoying the immunities and prerogatives legally recognized."
-The congress is working, as the current law does not allow virtual sessions. 
+ Art 15: The president can rule by decree, but there are limitations to what type of measures they can take. Art 31: "This law will not affect the operation of the State organisms, whose members will continue enjoying the immunities and prerogatives legally recognized." The parliament has continued working, as the current law does not allow virtual sessions. 
 
 *Sources*:
- https://mingob.gob.gt/wp-content/uploads/2016/01/04-marco-constitucional.pdf
+ https://mingob.gob.gt/wp-content/uploads/2016/01/04-marco-constitucional.pdf
 https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
 
 
@@ -273,15 +343,22 @@ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -306,8 +383,15 @@ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -337,13 +421,21 @@ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The measures have a national scope 
+ The measures have a national scope. 
 
 *Sources*:
- https://www.minfin.gob.gt/images/calamidad/documentos/Decreto%20No%205-2020%20-%20COVID-19.pdf
+ https://www.minfin.gob.gt/images/calamidad/documentos/Decreto%20No%205-2020%20-%20COVID-19.pdf
 https://consortiumlegal.com/documentos/COVID-19/documentos/GT/DECRETO%20GUBERNATIVO%2017-2020%20(200826).pdf
 
 
@@ -368,10 +460,13 @@ https://consortiumlegal.com/documentos/COVID-19/documentos/GT/DECRETO%20GUBERNAT
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -379,8 +474,9 @@ Time period: *Jul-Sep*: 0
  No evidence of discrimination was found. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/americas/guatemala/
+ https://www.amnesty.org/en/countries/americas/guatemala/
 https://www.hrw.org/americas/guatemala
+https://monitor.civicus.org/country/guatemala/
 
 
 
@@ -409,10 +505,13 @@ https://www.hrw.org/americas/guatemala
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -420,8 +519,9 @@ Time period: *Jul-Sep*: 0
  No evidence of non-derogable rights violation was found. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/americas/guatemala/
+ https://www.amnesty.org/en/countries/americas/guatemala/
 https://www.hrw.org/americas/guatemala
+https://monitor.civicus.org/country/guatemala/
 
 
 
@@ -445,13 +545,21 @@ https://www.hrw.org/americas/guatemala
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
 
 *Sources*:
- https://www.minfin.gob.gt/images/calamidad/documentos/Decreto%20No%205-2020%20-%20COVID-19.pdf
+ https://www.minfin.gob.gt/images/calamidad/documentos/Decreto%20No%205-2020%20-%20COVID-19.pdf
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
 
@@ -464,15 +572,22 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -490,15 +605,22 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -526,10 +648,13 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -538,9 +663,9 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://cpj.org/americas/guatemala/
 
 
 
@@ -552,7 +677,7 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -562,10 +687,13 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -574,9 +702,9 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://cpj.org/americas/guatemala/
 
 
 
@@ -598,10 +726,13 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -610,9 +741,9 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://cpj.org/americas/guatemala/
 
 
 
@@ -631,27 +762,31 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
- There are several accusations that the government interfered with the media coverage between March-June, and Guatemalan journalists and human rights organizations published an open letter to complain about the situation. The president said: "I would like to put the media in quarantine but I cannot." The government stopped holding press conferences, limited the official information that is shared with the media and closed the institutional chat group it had with journalists. The Human Rights Ombudsman stated that "in the face of the health emergency it is vital to maintain open, direct and continuous government communication with the press in order to guarantee the population their right to be informed" and recommended that the president and the ministry of health ensure that the press has free access to information regarding the pandemic. 
+ There are several accusations of lack of transparency and that the government interfered with the media coverage, and Guatemalan journalists and human rights organizations published an open letter to complain about the situation. The president said: "I would like to put the media in quarantine but I cannot." The government stopped holding press conferences, limited the official information that is shared with the media and closed the institutional chat group it had with journalists. The Human Rights Ombudsman stated that "in the face of the health emergency it is vital to maintain open, direct and continuous government communication with the press in order to guarantee the population their right to be informed" and recommended that the president and the ministry of health ensure that the press has free access to information regarding the pandemic. Specific cases limitations on access to information were not identified between October-December, but there also is no evidence that they stopped. 
 
 *Sources*:
- https://rsf.org/en/news/guatemala-dont-put-guatemalan-press-quarantine
-https://monitor.civicus.org/updates/2020/05/12/journalists-denounce-guatemala-government-hostility-towards-press/
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
-https://www.pdh.org.gt/57-20-el-procurador-de-los-derechos-humanos-jordan-rodas-andrade-manifiesta-que-ante-la-emergencia-sanitaria-es-vital-mantener-una-comunicacion-gubernamental-abierta-directa-y-continua-con-la-prensa/
-https://www.sipiapa.org/notas/1213881-la-sip-exhorta-al-gobierno-guatemala-respetar-el-trabajo-los-periodistas
-https://media.sipiapa.org/adjuntos/185/documentos/001/832/0001832515.pdf
+ https://rsf.org/en/news/guatemala-dont-put-guatemalan-press-quarantine
+https://monitor.civicus.org/updates/2020/05/12/journalists-denounce-guatemala-government-hostility-towards-press/
+https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://www.pdh.org.gt/57-20-el-procurador-de-los-derechos-humanos-jordan-rodas-andrade-manifiesta-que-ante-la-emergencia-sanitaria-es-vital-mantener-una-comunicacion-gubernamental-abierta-directa-y-continua-con-la-prensa/
+https://www.sipiapa.org/notas/1213881-la-sip-exhorta-al-gobierno-guatemala-respetar-el-trabajo-los-periodistas
+https://www.prensalibre.com/guatemala/comunitario/manifestantes-piden-eleccion-de-magistrados-y-transparencia-en-uso-de-recursos-para-la-emergencia/
+https://media.sipiapa.org/adjuntos/185/documentos/001/832/0001832515.pdf
 https://drive.google.com/file/d/1HFwdm3DfMqqRIphjH5Ke6CyGsi2MjJ6d/view
 
 
@@ -674,20 +809,23 @@ https://drive.google.com/file/d/1HFwdm3DfMqqRIphjH5Ke6CyGsi2MjJ6d/view
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The Guatemala Journalists Association released a report on Freedom of Expression in Guatemala during the first four months of 2020, in which it reports cases of verbal and physical harassment of journalists (pages 13-15). Additionally, the Human Rights Ombudsman reports on their website several complaints from journalists of verbal and physical harassment. 
+ The Guatemala Journalists Association released a report on Freedom of Expression in Guatemala during the first four months of 2020, in which it reports cases of verbal and physical harassment of journalists (pages 13-15). Additionally, the Human Rights Ombudsman reports on their website several complaints from journalists of verbal and physical harassment. Instances of harassment of journalists reporting about covid-19 were not identified between October-December, but there is no evidence that they ceased to occur. 
 
 *Sources*:
- https://www.prensalibre.com/guatemala/comunitario/dia-de-la-libertad-de-prensa-apg-revela-informe-sobre-libertad-de-expresion-en-guatemala/
-https://elperiodico.com.gt/nacion/2020/04/13/reportero-de-san-marcos-fue-intimidado-por-la-policia2/
-https://web.archive.org/web/20200809194505/https://www.pdh.org.gt/pdh-da-seguimiento-a-agresion-sufrida-por-periodista-en-cunen-quiche/
+ https://www.prensalibre.com/guatemala/comunitario/dia-de-la-libertad-de-prensa-apg-revela-informe-sobre-libertad-de-expresion-en-guatemala/
+https://elperiodico.com.gt/nacion/2020/04/13/reportero-de-san-marcos-fue-intimidado-por-la-policia2/
+https://web.archive.org/web/20200809194505/https://www.pdh.org.gt/pdh-da-seguimiento-a-agresion-sufrida-por-periodista-en-cunen-quiche/
 https://web.archive.org/web/20200707231741/https://www.pdh.org.gt/brindan-seguimiento-a-denuncia-interpuesta-por-periodista-de-huehuetenango/
 
 
@@ -710,19 +848,22 @@ https://web.archive.org/web/20200707231741/https://www.pdh.org.gt/brindan-seguim
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The Guatemala Journalists Association released a report on Freedom of Expression in Guatemala during the first four months of 2020, in which it reports cases of verbal and physical harassment of journalists (pages 13-15). Additionally, the Human Rights Ombudsman reports on their website several complaints from journalists of verbal and physical harassment. 
+ The Guatemala Journalists Association released a report on Freedom of Expression in Guatemala during the first four months of 2020, in which it reports cases of verbal and physical harassment of journalists (pages 13-15). Additionally, the Human Rights Ombudsman reports on their website several complaints from journalists of verbal and physical harassment. Instances of harassment of journalists reporting about covid-19 were not identified between October-December, but there is no evidence that they ceased to occur. 
 
 *Sources*:
- https://www.prensalibre.com/guatemala/comunitario/dia-de-la-libertad-de-prensa-apg-revela-informe-sobre-libertad-de-expresion-en-guatemala/
-https://web.archive.org/web/20200707231741/https://www.pdh.org.gt/brindan-seguimiento-a-denuncia-interpuesta-por-periodista-de-huehuetenango/
+ https://www.prensalibre.com/guatemala/comunitario/dia-de-la-libertad-de-prensa-apg-revela-informe-sobre-libertad-de-expresion-en-guatemala/
+https://web.archive.org/web/20200707231741/https://www.pdh.org.gt/brindan-seguimiento-a-denuncia-interpuesta-por-periodista-de-huehuetenango/
 https://web.archive.org/web/20200815111222/https://www.pdh.org.gt/dan-seguimiento-a-denuncias-interpuestas-por-periodistas/
 
 
@@ -747,10 +888,13 @@ https://web.archive.org/web/20200815111222/https://www.pdh.org.gt/dan-seguimient
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -783,15 +927,18 @@ https://cnnespanol.cnn.com/video/guatemala-manuel-sagastume-covid19-coronavirus-
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- There are reports of police violence against journalists reporting on covid-19 in March/April. Reports of police violence between July-September were not identified. 
+ There are reports of police violence against journalists reporting on covid-19 in March/April, but there is no evidence that they continued. Between July-December, reports of police violence to execute the emergency measures were not identified. 
 
 *Sources*:
  https://www.prensalibre.com/guatemala/comunitario/dia-de-la-libertad-de-prensa-apg-revela-informe-sobre-libertad-de-expresion-en-guatemala/
@@ -806,7 +953,7 @@ Time period: *Jul-Sep*: 0
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -816,41 +963,19 @@ Time period: *Jul-Sep*: 0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The military has been tasked with enforcing confinement measures. 
+ The military was tasked with enforcing confinement measures via the Decree nº 6-2020. 
 
 *Sources*:
- https://www.elpais.cr/2020/05/15/guatemaltecos-asumen-cuarentena-total-y-obligatoria-por-covid-19/
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*
+ https://igm.gob.gt/wp-content/uploads/2020/03/1927_001.pdf
+https://www.elpais.cr/2020/05/15/guatemaltecos-asumen-cuarentena-total-y-obligatoria-por-covid-19/

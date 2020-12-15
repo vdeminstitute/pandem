@@ -1,9 +1,6 @@
 # Iran 
 
 
-Time 2020-09-03 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-03
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,14 +25,21 @@ Time 2020-09-03
  7. Other.
 
  
-*Answer*: 5 
+*Time period: Q2*: 5
+
+ 
+*Time period: Q3*: 5
+
+ 
+*Time period: Q4*: 5
+
+ 
 
 *Comments*:
- Iran has a state of emergency legislation in their constitution (Article 79), but this has not been activated. They have implented several emergency measures, such as curfews, school closings, closing religious and public places and so on, but this has not been in reference to any such legal instrument.
-This is therefore coded as 5, Iran has a national level emergency response but without any specific legal instrument for those emergency measures. 
+ Iran has a state of emergency legislation in their constitution (Article 79), but this has not been activated. They have implemented several emergency measures, such as curfews, school closings, closing religious and public places and so on, but this has not been in reference to any such legal instrument. Likewise, the reentrance of several measures during October and November had no references to legal instruments as far as have been found. This is therefore coded as 5, Iran has a national level emergency response but without any specific legal instrument for those emergency measures. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Iran_1989.pdf?lang=en
+ https://www.constituteproject.org/constitution/Iran_1989.pdf?lang=en
 http://www.president.ir/en/search
 (search
 for
@@ -43,10 +47,11 @@ Covid-19
 to
 get
 governments
-communication/response)
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.garda.com/crisis24/news-alerts?https://www.garda.com/crisis24/news-alerts?search_api_fulltext=Iran&field_news_alert_categories=All&field_news_alert_crit=All&items_per_page=20
-https://verfassungsblog.de/the-iranian-legal-response-to-covid-19-a-constitutional-analysis-of-coronavirus-lockdown/
+communication/response)
+https://www.acaps.org/covid19-government-measures-dataset
+https://www.garda.com/crisis24/news-alerts?https://www.garda.com/crisis24/news-alerts?search_api_fulltext=Iran&field_news_alert_categories=All&field_news_alert_crit=All&items_per_page=20https://verfassungsblog.de/the-iranian-legal-response-to-covid-19-a-constitutional-analysis-of-coronavirus-lockdown/
+https://www.garda.com/crisis24/news-alerts/402201/iran-authorities-to-impose-tightened-covid-19-restrictions-from-november-21-update-42
+https://www.garda.com/crisis24/news-alerts/395361/iran-authorities-to-tighten-covid-19-restrictions-in-25-provinces-november-4-update-40
 
 
 
@@ -65,8 +70,15 @@ https://verfassungsblog.de/the-iranian-legal-response-to-covid-19-a-constitution
 *Scale*: Character string.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No specific legal instrument used. 
@@ -91,8 +103,15 @@ https://verfassungsblog.de/the-iranian-legal-response-to-covid-19-a-constitution
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No specific legal instrument used. 
@@ -117,8 +136,15 @@ https://verfassungsblog.de/the-iranian-legal-response-to-covid-19-a-constitution
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No specific legal instrument used. 
@@ -146,8 +172,15 @@ https://verfassungsblog.de/the-iranian-legal-response-to-covid-19-a-constitution
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No specific legal instrument used. 
@@ -165,15 +198,22 @@ https://verfassungsblog.de/the-iranian-legal-response-to-covid-19-a-constitution
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No specific legal instrument used. 
@@ -191,7 +231,7 @@ https://verfassungsblog.de/the-iranian-legal-response-to-covid-19-a-constitution
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -201,8 +241,15 @@ https://verfassungsblog.de/the-iranian-legal-response-to-covid-19-a-constitution
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No specific legal instrument used. 
@@ -230,8 +277,15 @@ https://verfassungsblog.de/the-iranian-legal-response-to-covid-19-a-constitution
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No specific legal instrument used. 
@@ -257,21 +311,29 @@ https://verfassungsblog.de/the-iranian-legal-response-to-covid-19-a-constitution
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The Iranian Parliament's law making role has not been affected by the emergency measures taken by Iran, according to the IPU. Parlamentarians have primarily worked remotely, but they have for example worked with the government to pass financial aid packages during the pandemic. And no other indications have been found that the Iranian parliament has been restricted in its power or law making role during the pandemic (beyond the already existing restrictions where several formal and informal powers can monitor and veto the parliament's actions, but this is not related to Covid-19 or the emergency measures). No information has been found indicating that Iran's parliament has been limited in any such way by emergency measures under the second period either. This is therefore coded as 0. 
+ The Iranian Parliament's law making role has not been affected by the emergency measures taken by Iran, according to the IPU. Parlamentarians have primarily worked remotely, but they have for example worked with the government to pass financial aid packages during the pandemic. And no other indications have been found that the Iranian parliament has been restricted in its power or law making role during the pandemic (beyond the already existing restrictions where several formal and informal powers can monitor and veto the parliament's actions, but this is not related to Covid-19 or the emergency measures). No information has been found indicating that Iran's parliament has been limited in any such way by emergency measures under the Jul-Sep and Oct-Dec periods either. This is therefore coded as 0. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#I
-https://uk.reuters.com/article/uk-health-coronavirus-iran-parliament/new-iran-parliament-convenes-under-strict-coronavirus-curbs-idUKKBN2330XZ
-https://www.acaps.org/covid19-government-measures-dataset
+ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#I
+https://uk.reuters.com/article/uk-health-coronavirus-iran-parliament/new-iran-parliament-convenes-under-strict-coronavirus-curbs-idUKKBN2330XZ
+https://www.acaps.org/covid19-government-measures-dataset
 https://www.garda.com/crisis24/news-alerts?https://www.garda.com/crisis24/news-alerts?search_api_fulltext=Iran&field_news_alert_categories=All&field_news_alert_crit=All&items_per_page=20
 
 
@@ -284,15 +346,22 @@ https://www.garda.com/crisis24/news-alerts?https://www.garda.com/crisis24/news-a
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -317,8 +386,15 @@ https://www.garda.com/crisis24/news-alerts?https://www.garda.com/crisis24/news-a
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -348,14 +424,23 @@ https://www.garda.com/crisis24/news-alerts?https://www.garda.com/crisis24/news-a
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- Iran's emergency measures have been implemented nationwide by the government, and no sub-national variation in these measures have been found. This is therefore coded as 0. 
+ In the Mar-Jun period, Iran's emergency measures have been implemented nationwide by the government, and no sub-national variation in these measures have been found. This is therefore coded as 0 for this period. In the Jul-Sep period, a little sub-national variation was introduced in that lockdown measures were reintroduced in Tehran on July 15 due to a rise in Covid-19 cases. This period is therefore coded as 1. Finally, in the Oct-Dec period, more sub-national variation has emerged as new restrictions came in place in 25 of the 31 regions, as well as imposing new curfews in 31 cities, including Tehran. For this period, this is therefore coded 2. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/N9NhpAJjGdQ34cnYX/iran-officials-suspend-flights-to-and-from-china-due-to-novel-coronavirus-as-of-january-31
-https://www.acaps.org/covid19-government-measures-dataset
+ https://www.garda.com/crisis24/news-alert-full-history/N9NhpAJjGdQ34cnYX/iran-officials-suspend-flights-to-and-from-china-due-to-novel-coronavirus-as-of-january-31https://www.acaps.org/covid19-government-measures-dataset
+https://www.garda.com/crisis24/news-alerts/395361/iran-authorities-to-tighten-covid-19-restrictions-in-25-provinces-november-4-update-40
+https://www.garda.com/crisis24/news-alerts/398556/iran-authorities-impose-curfew-in-tehran-and-30-other-cities-november-11-update-41
 
 
 
@@ -379,18 +464,21 @@ https://www.acaps.org/covid19-government-measures-dataset
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Human Rights Watch and Amnesty International have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found for either of the periods. 
+ Human Rights Watch and Amnesty International have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found for any of the periods. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9636
+ https://www.hrw.org/news?country[]=9636
 https://www.amnesty.org/en/search/?q=&sort=date&country=38533
 
 
@@ -420,22 +508,24 @@ https://www.amnesty.org/en/search/?q=&sort=date&country=38533
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- There are several reports from April on security forces in engaging in severe violence in reaction to protests and riots at prisons due to the Covid-19 situation, and the inmates incapacity to protect themselves from it spreading. Amnesty International reports that up to 36 inmates have been killed by security forces during these protests. This clearly violates these inmates rights to life, and is here understood as part of the emergency measure as the protests where in direct regard to Covid-19. This thus justifies coding a 1 for this for the first period. 
-However, no reports of this occurring in the second period has been found. While there are several reports of ongoing violations of non-derogable rights in Iran during the second period as well, primarily against people detained during or after the large protests in November 2019, no evidence has been found of any such violations within or related to the Covid-19 emergency response. This is therefore not coded as 1 for the second period. 
+ There are several reports from April on security forces in engaging in severe violence in reaction to protests and riots at prisons due to the Covid-19 situation, and the inmates incapacity to protect themselves from it spreading. Amnesty International reports that up to 36 inmates have been killed by security forces during these protests. However, this violence was not part of an emergency response. This is therefore coded 0. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9636
-https://www.amnesty.org/en/search/?q=&sort=date&country=38533
-https://www.amnesty.org/en/latest/news/2020/04/iran-prisoners-killed-by-security-forces-during-covid19-pandemic-protests/
-https://www.middleeasteye.net/news/coronavirus-iran-inmates-killed-jail-protests-amnesty
+ https://www.hrw.org/news?country[]=9636
+https://www.amnesty.org/en/search/?q=&sort=date&country=38533
+https://www.amnesty.org/en/latest/news/2020/04/iran-prisoners-killed-by-security-forces-during-covid19-pandemic-protests/
+https://www.middleeasteye.net/news/coronavirus-iran-inmates-killed-jail-protests-amnesty
 https://www.reuters.com/article/us-health-coronavirus-iran/u-n-worried-about-iran-prisoners-amid-coronavirus-outbreak-idUSKBN21L2EG
 
 
@@ -460,15 +550,23 @@ https://www.reuters.com/article/us-health-coronavirus-iran/u-n-worried-about-ira
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Reporters without borders report that: "The Covid-19 National Management Office (the government body set up to combat the coronavirus) and the press department of the Ministry of Culture and Islamic Guidance have issued a communiqué announcing that "no newspapers will be printed until further notice." Officially, this is to ensure respect for the government's social distancing measures, because 'the distribution of printed newspapers and magazines requires physical interaction between individuals, journalists, printers and distributers, and this interaction could potentially facilitate the spread of the virus.'".
-This is thus a part of the national emergency response, and a de jure limitation on the media by banning all printed media. However, as it does not hinder them from publishin news online, it does not count as a major de jure limitation, and is therefore coded as 1. 
+ Reporters without borders report that: "The Covid-19 National Management Office (the government body set up to combat the coronavirus) and the press department of the Ministry of Culture and Islamic Guidance have issued a communiqué announcing that "no newspapers will be printed until further notice." Officially, this is to ensure respect for the government's social distancing measures, because 'the distribution of printed newspapers and magazines requires physical interaction between individuals, journalists, printers and distributers, and this interaction could potentially facilitate the spread of the virus.'". This is thus a part of the national emergency response, and a de jure limitation on the media by banning all printed media. However, as it does not hinder them from publishing news online, it does not count as a major de jure limitation, and is therefore coded as 1.
+No evidence has been found that this ban has been revoked, and it is thus assumed to be continuing. 
 
 *Sources*:
- https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-https://www.aap.com.au/iran-orders-halt-to-printed-newspapers/
+ https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figureshttps://www.aap.com.au/iran-orders-halt-to-printed-newspapers/
+https://cpj.org/2020/03/iran-bans-printing-of-all-newspapers-citing-spread/
 
 
 
@@ -480,20 +578,28 @@ https://www.aap.com.au/iran-orders-halt-to-printed-newspapers/
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-08 
+*Time period: Q2*: 2020-04-08
+
+ 
+*Time period: Q3*: 2020-04-08
+
+ 
+*Time period: Q4*: 2020-04-08
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
+ https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
 https://www.aap.com.au/iran-orders-halt-to-printed-newspapers/
 
 
@@ -506,22 +612,29 @@ https://www.aap.com.au/iran-orders-halt-to-printed-newspapers/
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No declared end of the ban of printed media has been found. 
 
 *Sources*:
- https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-https://www.aap.com.au/iran-orders-halt-to-printed-newspapers/
+ https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figureshttps://www.aap.com.au/iran-orders-halt-to-printed-newspapers/
+https://cpj.org/2020/03/iran-bans-printing-of-all-newspapers-citing-spread/
 
 
 
@@ -543,21 +656,21 @@ https://www.aap.com.au/iran-orders-halt-to-printed-newspapers/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- There are several reports on journalists being arrested for reporting on the coronavirus, especially those who have published evidence that contradicts the governments figures about the spread of the virus and accused the Iranian government of misinformation about the Covid-19 situation in Iran. These Journalists have generally been accused of "Publishing false information about the coronavirus".  A newspaper was also shut down for publishing an interview with an official working in Iran's Covid-19 Taskforce. This is therefore coded as 1. 
+ There are several reports on journalists being arrested for reporting on the coronavirus, especially those who have published evidence that contradicts the governments figures about the spread of the virus and accused the Iranian government of misinformation about the Covid-19 situation in Iran. These Journalists have generally been accused of "Publishing false information about the coronavirus".  A newspaper was also shut down for publishing an interview with an official working in Iran's Covid-19 Taskforce. In addition, the media in Iran is severely restricted in several ways and journalists are arrested and jailed for numerous reasons, generally limiting the capacity for reporting, including on Covid-19. This is therefore coded as 1 for all three periods. 
 
 *Sources*:
- https://rsf.org/en/news/iran-press-freedom-violations-recounted-real-time-january-2020
-https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-https://cpj.org/2020/03/amid-coronavirus-pandemic-iran-covers-up-crucial-i/
-https://cpj.org/2020/08/iran-shuts-down-economic-newspaper-over-covid-19-reporting/
+ https://rsf.org/en/news/iran-press-freedom-violations-recounted-real-time-january-2020https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figureshttps://cpj.org/2020/03/amid-coronavirus-pandemic-iran-covers-up-crucial-i/https://cpj.org/2020/08/iran-shuts-down-economic-newspaper-over-covid-19-reporting/
 
 
 
@@ -569,7 +682,7 @@ https://cpj.org/2020/08/iran-shuts-down-economic-newspaper-over-covid-19-reporti
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -579,20 +692,22 @@ https://cpj.org/2020/08/iran-shuts-down-economic-newspaper-over-covid-19-reporti
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- There are several reports on journalists being arrested for reporting on the coronavirus, especially those who have published evidence that contradicts the governments figures about the spread of the virus and accused the Iranian government of misinformation about the Covid-19 situation in Iran. These Journalists have generally been accused of "Publishing false information about the coronavirus". A newspaper was also shut down for publishing an interview with an official working in Iran's Covid-19 Taskforce. Since this reporting includes the prevalence of the virus, this is included in the government response, and therefore coded as 1. 
+ There are several reports on journalists being arrested for reporting on the coronavirus, especially those who have published evidence that contradicts the governments figures about the spread of the virus and accused the Iranian government of misinformation about the Covid-19 situation in Iran. These Journalists have generally been accused of "Publishing false information about the coronavirus". A newspaper was also shut down for publishing an interview with an official working in Iran's Covid-19 Taskforce. Since this reporting includes the prevalence of the virus, this is included in the government response. Beyond that, the media in Iran is severely restricted in several ways and journalists are arrested and jailed for numerous reasons, generally limiting the capacity for reporting, including on Covid-19. This is therefore coded as 1. 
 
 *Sources*:
- https://rsf.org/en/news/iran-press-freedom-violations-recounted-real-time-january-2020
-https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-https://cpj.org/2020/03/amid-coronavirus-pandemic-iran-covers-up-crucial-i/
+ https://rsf.org/en/news/iran-press-freedom-violations-recounted-real-time-january-2020
+https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figureshttps://cpj.org/2020/03/amid-coronavirus-pandemic-iran-covers-up-crucial-i/
 https://cpj.org/2020/08/iran-shuts-down-economic-newspaper-over-covid-19-reporting/
 
 
@@ -615,10 +730,13 @@ https://cpj.org/2020/08/iran-shuts-down-economic-newspaper-over-covid-19-reporti
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -626,8 +744,8 @@ Time period: *Jul-Sep*: 1
  Through Irans ban on printed media, they have halted the reporting on non-covid-19 related news as well with reference to Covid-19. While the news outlets are allowed to publish online, it is still a de facto infringement of media reporting on non-covid-19 related news. A newspaper was also shut down for publishing an interview with an official working in Iran's Covid-19 Taskforce.. This is therefore coded as 1. 
 
 *Sources*:
- https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-https://www.aap.com.au/iran-orders-halt-to-printed-newspapers/
+ https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
+https://www.aap.com.au/iran-orders-halt-to-printed-newspapers/
 https://cpj.org/2020/08/iran-shuts-down-economic-newspaper-over-covid-19-reporting/
 
 
@@ -647,25 +765,28 @@ https://cpj.org/2020/08/iran-shuts-down-economic-newspaper-over-covid-19-reporti
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
- The Iranian government have repeatedly been covering up or denying access to covid-19 related information, and undermining reporting on the Covid-19 situation in Iran. While reports mainly pertain to the first period, the reports that Iran are covering up actual number of cases and deaths, and not granting access to information on Covid-19-related information in Iran, is ongoing. For example, a newspaper was shut down by the government for it publishing an interview with a member of the Iranian Covid-19 Taskforce who spoke of Iran covering up how many cases that was actually recorded in the country. This is therefore coded as 2. 
+ The Iranian government have repeatedly been covering up or denying access to covid-19 related information, and undermining reporting on the Covid-19 situation in Iran. While reports mainly pertain to the first period, the reports that Iran are covering up actual number of cases and deaths, and not granting access to information on Covid-19-related information in Iran, is ongoing. For example, a newspaper was shut down by the government for it publishing an interview with a member of the Iranian Covid-19 Taskforce who spoke of Iran covering up how many cases that was actually recorded in the country. Furthermore, no evidence has been found indicating that the situation has improved in the Oct-Dec period. This is therefore coded as 2. 
 
 *Sources*:
- https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-"https://rsf.org/en/news/iran-press-freedom-violations-recounted-real-time-january-2020
-https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-https://cpj.org/2020/03/amid-coronavirus-pandemic-iran-covers-up-crucial-i/"
+ https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
+"https://rsf.org/en/news/iran-press-freedom-violations-recounted-real-time-january-2020
+https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
+https://cpj.org/2020/03/amid-coronavirus-pandemic-iran-covers-up-crucial-i/"
 https://cpj.org/2020/08/iran-shuts-down-economic-newspaper-over-covid-19-reporting/
 
 
@@ -688,20 +809,23 @@ https://cpj.org/2020/08/iran-shuts-down-economic-newspaper-over-covid-19-reporti
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- There are several reports on journalists being threatened and harassed by government over making inquiries into the Covid-19 situation and the government response. While such reports have only been found for the first period, no indication has been given that things have improved in the second period, and this is therefore coded as 1 for both periods. 
+ There are several reports on journalists being threatened and harassed by government over making inquiries into the Covid-19 situation and the government response. While such reports have only been found for the first period, no indication has been given that things have improved for journalists in the latter periods, and this is therefore coded as 1 for all periods. 
 
 *Sources*:
- https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-"https://rsf.org/en/news/iran-press-freedom-violations-recounted-real-time-january-2020
-https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
+ https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures"
+https://rsf.org/en/news/iran-press-freedom-violations-recounted-real-time-january-2020
+https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
 https://cpj.org/2020/03/amid-coronavirus-pandemic-iran-covers-up-crucial-i/"
 
 
@@ -724,20 +848,23 @@ https://cpj.org/2020/03/amid-coronavirus-pandemic-iran-covers-up-crucial-i/"
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Several journalists have been arrested and detained due to reporting on Covid-19 in Iran. Many of these (if not all) are still detained it seems, clearly constituting a physical harassment for their reporting in relation to Covid-19 in period 2 as well. This is therefore coded as 1 for both periods, although no evidence has been found of any further assaults or detentions for reporting on Covid-19 in the second period. 
+ Several journalists have been arrested and detained due to reporting on Covid-19 in Iran. Many of these (if not all) are still detained it seems, clearly constituting a physical harassment for their reporting in relation to Covid-19 in the following periods as well. This is therefore coded as 1 for all periods, although no evidence has been found of any further assaults or detentions for reporting on Covid-19 in the Jul-Sep and Oct-Dec periods. 
 
 *Sources*:
- https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-"https://rsf.org/en/news/iran-press-freedom-violations-recounted-real-time-january-2020
-https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
+ https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
+"https://rsf.org/en/news/iran-press-freedom-violations-recounted-real-time-january-2020
+https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
 https://cpj.org/2020/03/amid-coronavirus-pandemic-iran-covers-up-crucial-i/"
 
 
@@ -762,10 +889,13 @@ https://cpj.org/2020/03/amid-coronavirus-pandemic-iran-covers-up-crucial-i/"
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -797,21 +927,22 @@ Time period: *Jul-Sep*: 0
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- There are several reports on security forces in engaging in severe violence in reaction to protests and riots at prisons due to the Covid-19 situation, and the inmates incapacity to protect themselves from it spreading. Amnesty International reports that up to 36 inmates have been killed by security forces during these protests.
-While no violence in enforcing the emergency measures have been found when it comes to civilians outside the prisons, there are several reports of lethal violence occuring at the hands of security forces in reaction to inmates not following the regulations and protesting on Covid-19 related issues. This is therefore coded as 2.
-However, no evidence of such violence, or any other violence by law enforcement, has been found for the second period, and this is therefore only coded 2 for the first period. 
+ There are several reports on security forces in engaging in severe violence in reaction to protests and riots at prisons due to the Covid-19 situation, and the inmates incapacity to protect themselves from it spreading. Lethal violence occurred at the hands of security forces in reaction to inmates not following the regulations and protesting on Covid-19 related issues, and Amnesty International reports that up to 36 inmates have been killed by security forces during these protests. This is therefore coded as 2 for the Mar-Jun period. However, no reports have been found on other such violence or abuse in enforcing covid-19 restrictions. As the incidents in prisons by all reports seem to be isolated to the first period, and not a continued practice, it is thus only coded 2 for the first period and 0 for the latter two periods. Note also that there are on-going reports of police violence in Iran, but as far as have been seen these are not connected to nor have been legitimized by the covid-19 restrictions. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9636
-https://www.amnesty.org/en/documents/mde13/2237/2020/en/
+ https://www.hrw.org/news?country[]=9636
+https://www.amnesty.org/en/documents/mde13/2237/2020/en/
 https://www.amnesty.org/en/latest/news/2020/04/iran-prisoners-killed-by-security-forces-during-covid19-pandemic-protests/
 
 
@@ -824,7 +955,7 @@ https://www.amnesty.org/en/latest/news/2020/04/iran-prisoners-killed-by-security
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -834,42 +965,19 @@ https://www.amnesty.org/en/latest/news/2020/04/iran-prisoners-killed-by-security
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The Iranian military is in charge of much of the emergency measures in terms of planning and logistics, but no sources have been found stating that soldiers have been used to enforce measures themselves. This is therefore coded as 0. 
+ The Iranian military is in charge of much of the emergency measures in terms of planning and logistics. Furthermore, in March, the military was deployed to enforce restrictions and clear public places, close down businesses etc. It is unclear how involved the military has been since then in enforcing Covid-19 regulations, but no evidence has been found showing that the military presence has been retracted, and it is thus assumed that they are still taking part in the enforcement. This is therefore coded as 1 for all three periods. 
 
 *Sources*:
- https://www.washingtonpost.com/outlook/2020/05/27/irans-strategy-fighting-covid-19-could-backfire/
-https://www.acaps.org/covid19-government-measures-dataset
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*
+ https://www.washingtonpost.com/outlook/2020/05/27/irans-strategy-fighting-covid-19-could-backfire/
+https://whttps://www.theguardian.com/world/2020/mar/13/revolutionary-guards-enforce-coronavirus-controls-iran

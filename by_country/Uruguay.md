@@ -1,9 +1,6 @@
 # Uruguay 
 
 
-Time 2020-09-11 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-11
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,10 +25,18 @@ Time 2020-09-11
  7. Other.
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- The state of sanitary emergency was declared via the Decree nº 093/2020 from March 13. 
+ The state of sanitary emergency was declared via the Decree nº 093/2020 on March 13. 
 
 *Sources*:
  https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
@@ -54,13 +59,21 @@ https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/lacalle-medidas
 *Scale*: Character string.
 
  
-*Answer*: Ley nº 9202 - Ley Organica de Salud Publica 
+*Time period: Q2*: Ley nº 9202 - Ley Organica de Salud Publica
+
+ 
+*Time period: Q3*: Ley nº 9202 - Ley Organica de Salud Publica
+
+ 
+*Time period: Q4*: Ley nº 9202 - Ley Organica de Salud Publica
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://www.impo.com.uy/bases/leyes/9202-1934
+ https://www.impo.com.uy/bases/leyes/9202-1934
 https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
 
 
@@ -80,13 +93,21 @@ https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-13 
+*Time period: Q2*: 2020-03-13
+
+ 
+*Time period: Q3*: 2020-03-13
+
+ 
+*Time period: Q4*: 2020-03-13
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
+ https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
 https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/lacalle-medidas-coronavirus-conferencia
 
 
@@ -106,14 +127,21 @@ https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/lacalle-medidas
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The sanitary emergency is still in place, but the restrictions are gradualy being lifted. 
 
 *Sources*:
- https://www.elpais.com.uy/informacion/politica/rige-emergencia-sanitaria.html
+ https://www.elpais.com.uy/informacion/politica/rige-emergencia-sanitaria.html
 https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/medidas-gobierno-educacion-emergencia-sanitaria-covid19
 
 
@@ -136,7 +164,15 @@ https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/medidas-gobiern
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The law doesn't establish a limit. 
@@ -154,15 +190,22 @@ https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/medidas-gobiern
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No limit established 
@@ -180,7 +223,7 @@ https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/medidas-gobiern
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -190,7 +233,15 @@ https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/medidas-gobiern
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Law n° 9202, Article 2: it is a responsability of the Ministry of Public Health. 
@@ -218,7 +269,15 @@ https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/medidas-gobiern
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The law doesn't require legislative approval 
@@ -244,19 +303,27 @@ https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/medidas-gobiern
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
  The congress is partialy working remotely, but the executive has the autonomy to rule by decree on covid-19 related issues. 
 
 *Sources*:
- https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
+ https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
 https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
 
 
@@ -269,15 +336,22 @@ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -302,8 +376,15 @@ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -333,10 +414,18 @@ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- At first the measures applied to the entire country, but lately there have been a few local adjustments. For example, in some places schools reopened before others. 
+ At first the measures applied to the entire country, but later there were some local local adjustments. For example, in some places schools reopened before others. 
 
 *Sources*:
  https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/medidas-gobierno-sanitaria-emergencia-sanitaria-covid19
@@ -363,10 +452,13 @@ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -374,9 +466,10 @@ Time period: *Jul-Sep*: 0
  No evidence of discrimination was found. 
 
 *Sources*:
- https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/medidas-gobierno-sanitaria-emergencia-sanitaria-covid19
-https://www.hrw.org/americas/uruguay
+ https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/medidas-gobierno-sanitaria-emergencia-sanitaria-covid19
+https://www.hrw.org/americas/uruguay
 https://www.amnesty.org/en/countries/americas/uruguay/
+https://monitor.civicus.org/country/uruguay/
 
 
 
@@ -405,10 +498,13 @@ https://www.amnesty.org/en/countries/americas/uruguay/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -416,9 +512,10 @@ Time period: *Jul-Sep*: 0
  No evidence of non-derogable rights violation was found. 
 
 *Sources*:
- https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/medidas-gobierno-sanitaria-emergencia-sanitaria-covid19
-https://www.hrw.org/americas/uruguay
+ https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/medidas-gobierno-sanitaria-emergencia-sanitaria-covid19
+https://www.hrw.org/americas/uruguay
 https://www.amnesty.org/en/countries/americas/uruguay/
+https://monitor.civicus.org/country/uruguay/
 
 
 
@@ -442,14 +539,22 @@ https://www.amnesty.org/en/countries/americas/uruguay/
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
 
 *Sources*:
- https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
-https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/medidas-gobierno-sanitaria-emergencia-sanitaria-covid19
+ https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
+https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/medidas-gobierno-sanitaria-emergencia-sanitaria-covid19
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
 
@@ -462,15 +567,22 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -488,15 +600,22 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -524,10 +643,13 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -536,9 +658,9 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://cpj.org/americas/uruguay/
 
 
 
@@ -550,7 +672,7 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -560,10 +682,13 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -572,9 +697,9 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://cpj.org/americas/uruguay/
 
 
 
@@ -596,10 +721,13 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -608,9 +736,9 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://cpj.org/americas/uruguay/
 
 
 
@@ -629,14 +757,17 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -645,9 +776,9 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
+https://ipi.media/covid19-media-freedom-monitoring/
 https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://cpj.org/americas/uruguay/
 
 
 
@@ -669,10 +800,13 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -681,8 +815,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/americas/uruguay/
 
 
 
@@ -704,10 +838,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -716,8 +853,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/americas/uruguay/
 
 
 
@@ -741,15 +878,18 @@ https://ipi.media/covid19-media-freedom-monitoring/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- The information provided by the government is in acccordance with the WHO. 
+ No evidence of disinformation was found. The information provided by the government is in acccordance with the WHO. 
 
 *Sources*:
  https://www.gub.uy/ministerio-salud-publica/comunicacion/publicaciones/preguntas-respuestas
@@ -776,19 +916,23 @@ Time period: *Jul-Sep*: 0
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- No evidence of police violence was found. 
+ There are reports that security forces engaged in violence to disperse agglomerations that direspected social distancing measures. The incident happened in November, in Montevideo. The Inter-American Commission on Human Rights issued a statement expressing concern over it, to which the Foreign Ministry replied that there was no police misconduct. 
 
 *Sources*:
- https://www.hrw.org/americas/uruguay
-https://www.amnesty.org/en/countries/americas/uruguay/
+ https://www.elpais.com.uy/informacion/politica/larranaga-seguiran-fogoneando-ese-relato-parece-apuesta-politica.html
+https://www.montevideo.com.uy/Noticias/Once-detenidos-y-dos-policias-con-lesiones-leves-en-enfrentamiento-en-Plaza-Seregni-uc769366
+https://www.elpais.com.uy/informacion/politica/plaza-seregni-cancilleria-respondio-mensaje-comision-interamericana-dd-hh.html
 
 
 
@@ -800,7 +944,7 @@ https://www.amnesty.org/en/countries/americas/uruguay/
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -810,10 +954,13 @@ https://www.amnesty.org/en/countries/americas/uruguay/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -821,32 +968,5 @@ Time period: *Jul-Sep*: 0
  There are no national confinement measures. 
 
 *Sources*:
- https://www.bbc.com/mundo/noticias-52928601
+ https://www.bbc.com/mundo/noticias-52928601
 https://lta.reuters.com/articulo/salud-uruguay-coronavirus-idLTAKBN2341OF-OUSLT
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-*Answer*: The government has temporarily reduced the salaries of politicians to use the money in policies against covid-19.
-Local elections were postponed from May 10 to September 27 due to the pandemic. 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
- https://www.lanacion.com.ar/el-mundo/coronavirus-uruguay-lacalle-sueldos-politica-nid2348826
-https://www.corteelectoral.gub.uy/calendario-de-actividades-2020

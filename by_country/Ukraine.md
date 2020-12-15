@@ -1,9 +1,6 @@
 # Ukraine 
 
 
-Time 2020-09-16 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-16
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,12 +25,22 @@ Time 2020-09-16
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- Emergency situation regime declared by the Cabinet of Ministers from 25 March until 24 April 2020 (order 338); emergency situation regime ("Rezhym nadzvychaynoyi sytuatsiyi" is different from the state of emergency ("nadzvychaynyy stan") (the differences between emergency situation and state of emergency are also explained in the announcement of the decision in Ukrainian). Note that non-government controlled areas are not considered in the coding.
+ Emergency situation regime declared by the Cabinet of Ministers from 25 March until 24 April 2020 (order 338) based on KODEKS TSYVILʹNOHO ZAKHYSTU UKRAYINY; emergency situation regime ("Rezhym nadzvychaynoyi sytuatsiyi" is different from the state of emergency ("nadzvychaynyy stan") (the differences between emergency situation and state of emergency are also explained in the announcement of the decision in Ukrainian). Note that non-government controlled areas are not considered in the coding. Emergency situation ended on 24 April 2020.
 
-Emergency situation ended on 24 April 2020 but quarantine measures were extended and have been in place since 12 March. From 1 August, the government declared adaptive quarantine with different measures for four epidemiological zones (Green, Yellow, Orange and Red), which are in place until 31 October. 
+July-September, October-December: the legal instrument in these time periods is ZAKON UKRAYINY Pro zakhyst naselennya vid infektsiynykh khvorob ("Law of Ukraine On Protection of Population against Infectious Diseases") that was used to declare quarantine from 12 March 2020 (Decision 211) and that has been amended several times (e.g. decision 392 extending quarantine until 31 July, decision 641 extending quarantine until 31 December 2020). 
+
+ 
 
 *Sources*:
  https://www.kmu.gov.ua/en/news/uryad-zaprovadiv-rezhim-nadzvichajnoyi-situaciyi-po-vsij-teritoriyi-ukrayini
@@ -41,13 +48,18 @@ https://www.kmu.gov.ua/npas/pro-perevedennya-yedinoyi-derzhavnoyi-sistemi-civiln
 https://www.constituteproject.org/constitution/Ukraine_2016?lang=en
 https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/
 https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://www.oecd.org/eurasia/competitiveness-programme/eastern-partners/COVID-19-CRISIS-IN-UKRAINE.pdf
-
-
+https://www.oecd.org/eurasia/competitiveness-programme/eastern-partners/COVID-19-CRISIS-IN-UKRAINE.pdf
 https://www.kmu.gov.ua/npas/pro-zapobigannya-poshim110320rennyu-na-teritoriyi-ukrayini-koronavirusu-covid-19
 https://www.kmu.gov.ua/npas/pro-vstanovlennya-karantinu-ta-zapr-641
 https://www.kmu.gov.ua/en/news/uryad-podovzhiv-adaptivnij-karantin-do-31-zhovtnya
 https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B369%5D&covid19=1
+https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/
+
+https://zakon.rada.gov.ua/laws/show/211-2020-%D0%BF#Text
+https://zakon.rada.gov.ua/laws/show/392-2020-%D0%BF#n5
+https://covid19.gov.ua/karantynni-zakhody
+
+https://zakon.rada.gov.ua/laws/show/956-2020-%D0%BF#n10
 
 
 
@@ -66,13 +78,25 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B36
 *Scale*: Character string.
 
  
-*Answer*: KODEKS TSYVILʹNOHO ZAKHYSTU UKRAYINY 
+*Time period: Q2*: KODEKS TSYVILʹNOHO ZAKHYSTU UKRAYINY
+
+ 
+*Time period: Q3*: ZAKON UKRAYINY Pro zakhyst naselennya vid infektsiynykh khvorob
+
+ 
+*Time period: Q4*: ZAKON UKRAYINY Pro zakhyst naselennya vid infektsiynykh khvorob
+
+ 
 
 *Comments*:
- Own translation: Code of Civil Protection (Article 14, part 2 of Article 78) 
+ March-June: unofficial translation:  Code of Civil Protection (Article 14, part 2 of Article 78)
+
+July-September, October-December:  Law of Ukraine On Protection of Population against Infectious Diseases (Art. 29) 
 
 *Sources*:
  https://zakon.rada.gov.ua/laws/show/5403-17?lang=en
+
+https://zakon.rada.gov.ua/laws/show/1645-14?lang=en#Text
 
 
 
@@ -91,7 +115,15 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B36
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-25 
+*Time period: Q2*: 2020-03-25
+
+ 
+*Time period: Q3*: 2020-03-12
+
+ 
+*Time period: Q4*: 2020-03-12
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -116,10 +148,18 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B36
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-24 
+*Time period: Q2*: 2020-04-24
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Emergency situation ended on 24 April 2020 but quarantine measures have been extended and were in place from 12 March until 31 July 2020. 
+ Emergency situation ended on 24 April 2020 (March-June) but quarantine measures (July-September, October-December) have been extended until 31 December 2020 (as of the time of coding) and have not ended at the time of coding. 
 
 *Sources*:
  https://www.kmu.gov.ua/en/news/uryad-zaprovadiv-rezhim-nadzvichajnoyi-situaciyi-po-vsij-teritoriyi-ukrayini
@@ -146,14 +186,28 @@ https://www.kmu.gov.ua/npas/pro-vstanovlennya-karantinu-z-metoyu-zapobigannya-po
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Emergency situation regime declared by the Cabinet of Ministers from 25 March until 24 April 2020 (order 338) 
+ March-June: Emergency situation regime declared by the Cabinet of Ministers from 25 March until 24 April 2020 (order 338).
+
+July-September, October-December: Quarantine was initially declared quarantine until 22 May (Decision 211 ), which has been extended several times and all extensions had a time limit. In July-September, the latest extension was until 31 October (Decision 760). In October-December, the latest extension was until 31 December (as of the time of coding) (Decision 956). 
 
 *Sources*:
  https://www.kmu.gov.ua/en/news/uryad-zaprovadiv-rezhim-nadzvichajnoyi-situaciyi-po-vsij-teritoriyi-ukrayini
 https://www.kmu.gov.ua/npas/pro-perevedennya-yedinoyi-derzhavnoyi-sistemi-civilnogo-zahistu-u-rezhim-nadzvichajnoyi-situaciyi-338250320
+
+https://zakon.rada.gov.ua/laws/show/211-2020-%D0%BF#Text
+https://zakon.rada.gov.ua/laws/show/760-2020-%D0%BF#n11
+https://zakon.rada.gov.ua/laws/show/956-2020-%D0%BF#n10
 
 
 
@@ -165,21 +219,37 @@ https://www.kmu.gov.ua/npas/pro-perevedennya-yedinoyi-derzhavnoyi-sistemi-civiln
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-24 
+*Time period: Q2*: 2020-04-24
+
+ 
+*Time period: Q3*: 2020-10-31
+
+ 
+*Time period: Q4*: 2020-12-31
+
+ 
 
 *Comments*:
- Emergency situation regime declared by the Cabinet of Ministers from 25 March until 24 April 2020 (order 338) 
+ March-June: Emergency situation regime declared by the Cabinet of Ministers from 25 March until 24 April 2020 (order 338).
+
+July-September: the latest extension of the quarantine was until 31 October (Decision 760). 
+
+October-December: the latest extension was until 31 December (as of the time of coding) (Decision 956). 
 
 *Sources*:
  https://www.kmu.gov.ua/en/news/uryad-zaprovadiv-rezhim-nadzvichajnoyi-situaciyi-po-vsij-teritoriyi-ukrayini
 https://www.kmu.gov.ua/npas/pro-perevedennya-yedinoyi-derzhavnoyi-sistemi-civilnogo-zahistu-u-rezhim-nadzvichajnoyi-situaciyi-338250320
+
+https://zakon.rada.gov.ua/laws/show/211-2020-%D0%BF#Text
+https://zakon.rada.gov.ua/laws/show/760-2020-%D0%BF#n11
+https://zakon.rada.gov.ua/laws/show/956-2020-%D0%BF#n10
 
 
 
@@ -191,7 +261,7 @@ https://www.kmu.gov.ua/npas/pro-perevedennya-yedinoyi-derzhavnoyi-sistemi-civiln
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -201,13 +271,25 @@ https://www.kmu.gov.ua/npas/pro-perevedennya-yedinoyi-derzhavnoyi-sistemi-civiln
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Legislature approval is not required based on Code of Civil Protection¬†(Article 14, part 2 of Article 78) 
+ March-June: Legislature approval is not required based on Code of Civil Protection (Article 14, part 2 of Article 78)
+
+July-September, October-December: legislature approval is not required based on Law of Ukraine On Protection of Population against Infectious Diseases (Art. 29). 
 
 *Sources*:
  https://zakon.rada.gov.ua/laws/show/5403-17?lang=en
+
+https://zakon.rada.gov.ua/laws/show/1645-14#n241
 
 
 
@@ -229,13 +311,23 @@ https://www.kmu.gov.ua/npas/pro-perevedennya-yedinoyi-derzhavnoyi-sistemi-civiln
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Not required by law 
+ Not required by law for all time periods. 
 
 *Sources*:
  https://zakon.rada.gov.ua/laws/show/5403-17?lang=en
+
+https://zakon.rada.gov.ua/laws/show/1645-14#n241
 
 
 
@@ -255,22 +347,33 @@ https://www.kmu.gov.ua/npas/pro-perevedennya-yedinoyi-derzhavnoyi-sistemi-civiln
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The parliament performed its legislative functions with MP's working remotely. Plenary meetings were held physically and the parliament passed laws with emergency measures. 
+ The parliament performed its legislative functions with MP's working remotely in March-June. Plenary meetings were held physically and the parliament passed laws with emergency measures. According to Democracy Reporting, "The legislative branch of the government continued to function, even though several MPs fell ill with covid-19. As usual, MPs voted on laws during plenary sessions held inside the parliamentary building at 5 Hrushevskoho St. As one of the most significant changes in parliamentary activities during the quarantine, meetings (e.g. hearings) began to be held online. However, there were exceptions to this practice for hearings on high priority issues, some of which were held by MPs outdoors near the Verkhovna Rada, the parliament."
+
+ I found no limitations on the lawmaking role of the legislature in July-September, October-December 2020; the parliament continued to pass laws with emergency measures. 
 
 *Sources*:
  https://zakon.rada.gov.ua/laws/show/543-20#Text
 https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#U
 http://w1.c1.rada.gov.ua/pls/zweb2/webproc2_5_1_J?ses=10010&num_s=2&num=&date1=&date2=&name_zp=covid&out_type=&id=&page=1&zp_cnt=20
 https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+https://democracy-reporting.org/dri_publications/backgrounder-ukraines-response-to-covid-19/
 
 
 
@@ -282,15 +385,22 @@ https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -315,8 +425,15 @@ https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -346,10 +463,20 @@ https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Emergency situation regimes introduced earlier in some areas (16 March in Zhytomyr and Chernivtsi regions, 20 March in Kyiv and Dnepropetrovsk region, 23 March in Donetsk, Ternopil and Cherkasy regions).  From 1 August, the government declared adaptive quarantine with different measures for four epidemiological zones (Green, Yellow, Orange and Red), which are in place until 31 October. 
+ Emergency situation regimes introduced earlier in some areas (16 March in Zhytomyr and Chernivtsi regions, 20 March in Kyiv and Dnepropetrovsk region, 23 March in Donetsk, Ternopil and Cherkasy regions).  
+
+July-September, October-December: there have been different measures for four epidemiological zones with four levels of risk (Green, Yellow, Orange and Red) from 22 July until 11 November 2020. 
 
 *Sources*:
  https://www.kmu.gov.ua/npas/pro-vstanovlennya-rezhimu-nadzvichajnoyi-situaciyi-v-zhitomirskij-ta-cherniveckij-oblastyah-320160320
@@ -357,6 +484,7 @@ https://www.kmu.gov.ua/npas/pro-vstanovlennya-rezhimu-nadzvichajnoyi-situaciyi-v
 https://www.kmu.gov.ua/npas/pro-vstanovlennya-rezhimu-nadzvichajnoyi-situaciyi-u-m-kiyevi-324200320
 https://www.kmu.gov.ua/npas/pro-vstanovlennya-rezhimu-nadzvichajnoyi-situaciyi-v-dnipropetrovskij-oblasti-322200320
 https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B369%5D&covid19=1
+https://www.oecd.org/eurasia/competitiveness-programme/eastern-partners/COVID-19-CRISIS-IN-UKRAINE.pdf
 
 
 
@@ -380,16 +508,19 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B36
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No de-jure disciminating provisions and no information on de-facto discrimination found.
-
+ No de-jure disciminating provisions and no information on de-facto discrimination found.
+
 Human Rights Watch refers to the statement of the health minister as discriminatory, which is not coded since it was not connected to any emergency measures (On 22 March, the then-health minister called people older than 65 "corpses"). 
 
 *Sources*:
@@ -427,10 +558,13 @@ https://www.hrw.org/news/2020/07/13/protecting-human-rights-covid-19-pandemic
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -464,7 +598,15 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/ukraine/
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No evidence of measures limiting media freedom found 
@@ -484,15 +626,22 @@ https://zakon.rada.gov.ua/laws/show/539-20#Text
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -510,15 +659,22 @@ https://zakon.rada.gov.ua/laws/show/539-20#Text
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -546,10 +702,13 @@ https://zakon.rada.gov.ua/laws/show/539-20#Text
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -570,7 +729,7 @@ https://ipi.media/ukraine/
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -580,10 +739,13 @@ https://ipi.media/ukraine/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -615,10 +777,13 @@ https://cpj.org/europe/ukraine/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -647,22 +812,27 @@ https://cpj.org/europe/ukraine/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- In Kryvyi Rih, independent journalists were prevented from attending municipal council meetings on 18 March (on measures to tackle covid-19) while the city’s own media was allowed to attend. In Kakhovka, only two local media outlets were allowed to attend a council meeting on 19 March (on measures to tackle covid-19) while other media outlets were not allowed to enter the building. In the village of Lyubimivka, no media were allowed to attending local council meetings. I have not managed to find any information on whether these restrictions stopped, meinf is coded as 1 for both time periods (March-June and July-September 2020). 
+ In Kryvyi Rih, independent journalists were prevented from attending municipal council meetings on 18 March (on measures to tackle covid-19) while the city’s own media was allowed to attend. In Kakhovka, only two local media outlets were allowed to attend a council meeting on 19 March (on measures to tackle covid-19) while other media outlets were not allowed to enter the building. In the village of Lyubimivka, no media were allowed to attending local council meetings. On 4 November, journalists were not allowed to attend the Zaporozhye City Council session about redistribute budget funds to combat Covid-19. 
 
 *Sources*:
  https://rsf.org/en/news/wave-attacks-reporters-covering-coronavirus-lockdown-ukraine
+
+http://1news.zp.ua/sessiya-zaporozhskogo-gorodskogo-soveta-prohodit-v-zakrytom-rezhime-bez-zhurnalistov-i-pryamoj-translyaczii/
 
 
 
@@ -684,10 +854,13 @@ Time period: *Jul-Sep*: 1
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -719,10 +892,13 @@ https://cpj.org/europe/ukraine/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -756,10 +932,13 @@ https://rsf.org/en/news/nearly-half-un-member-countries-have-obstructed-coronavi
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -794,10 +973,13 @@ https://cpj.org/europe/ukraine/
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -818,7 +1000,7 @@ https://www.hrw.org/europe/central-asia/ukraine
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -828,10 +1010,13 @@ https://www.hrw.org/europe/central-asia/ukraine
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -840,34 +1025,8 @@ Time period: *Jul-Sep*: 1
 
 According to Amnestry International Report, the military also closed a footbridge to a village: "On 18 April, the Ukrainian army closed a footbridge, the only access to the village of Staromaryivka situated in a government-controlled section of the conflict zone in eastern Ukraine. Two weeks previously the "Donetsk People’s Republic" had closed access to the nearest town in the territory held by armed groups. This meant that about 150 residents including disabled elderly people and children were cut off from shops, health services and emergency services. The reason given was to prevent transmission of COVID-19 although no cases had been identified in the village. Villagers were allowed to cross the bridge again from 22 April."
 
- I have not found any evidence that the military's involvement in enforcing quarantine measures was lifted. 
+ I have not found any evidence that the military's involvement in enforcing quarantine measures was lifted, therefore military involvement is coded as 1 in all time periods. 
 
 *Sources*:
  https://www.mil.gov.ua/news/2020/03/21/zbrojni-sili-ukraini-vzaemodiyatimut-z-pravoohoronnimi-organami-shhodo-zabezpechennya-gromadskoi-bezpeki-pid-chas-karantinu/
 https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

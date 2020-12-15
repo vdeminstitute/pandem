@@ -1,9 +1,6 @@
 # India 
 
 
-Time 2020-06-24 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-06-24
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,18 +25,32 @@ Time 2020-06-24
  7. Other.
 
  
-*Answer*: 3 
+*Time period: Q2*: 3
+
+ 
+*Time period: Q3*: 5
+
+ 
+*Time period: Q4*: 5
+
+ 
 
 *Comments*:
  India has not declared a state of emergency. Instead on 24 March 2020, the central government invoked the National Disaster Management Act. It has declared Covid-19 to be a disaster within Section 10 of the NDMA. This authorizes the National Disaster Management Authority to issue binding directions and guidelines to the several state governments, for the purposes of addressing a disaster. It centralizes the sphere of operations, giving the federal government overriding powers of enforcement. 
 
 *Sources*:
- https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
-
-https://www.ndma.gov.in/images/ndma-pdf/DM_act2005.pdf
-
-https://ndma.gov.in/images/covid/Guidelines.pdf
-
+ https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
+
+
+
+https://www.ndma.gov.in/images/ndma-pdf/DM_act2005.pdf
+
+
+
+https://ndma.gov.in/images/covid/Guidelines.pdf
+
+
+
 https://www.bbc.com/news/world-asia-india-52277096
 
 
@@ -59,18 +70,32 @@ https://www.bbc.com/news/world-asia-india-52277096
 *Scale*: Character string.
 
  
-*Answer*: National Disaster Management Act 2010 
+*Time period: Q2*: National Disaster Management Act 2010
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
-
-https://www.ndma.gov.in/images/ndma-pdf/DM_act2005.pdf
-
-https://ndma.gov.in/images/covid/Guidelines.pdf
-
+ https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
+
+
+
+https://www.ndma.gov.in/images/ndma-pdf/DM_act2005.pdf
+
+
+
+https://ndma.gov.in/images/covid/Guidelines.pdf
+
+
+
 https://www.bbc.com/news/world-asia-india-52277096
 
 
@@ -90,18 +115,32 @@ https://www.bbc.com/news/world-asia-india-52277096
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-24 
+*Time period: Q2*: 2020-03-24
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
-
-https://www.ndma.gov.in/images/ndma-pdf/DM_act2005.pdf
-
-https://ndma.gov.in/images/covid/Guidelines.pdf
-
+ https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
+
+
+
+https://www.ndma.gov.in/images/ndma-pdf/DM_act2005.pdf
+
+
+
+https://ndma.gov.in/images/covid/Guidelines.pdf
+
+
+
 https://www.bbc.com/news/world-asia-india-52277096
 
 
@@ -121,14 +160,33 @@ https://www.bbc.com/news/world-asia-india-52277096
 *Scale*: Date format.
 
  
+*Time period: Q2*: 2020-05-31
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://ndma.gov.in/images/ndma-pdf/DM_act2005.pdf
+
+
+
+https://ndma.gov.in/images/covid/Guidelines.pdf
+
+
+
+https://ndma.gov.in/images/covid/addendum-to-mha-order-dated24032020.pdf
+
+
+
+https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
 
 
 
@@ -150,18 +208,32 @@ https://www.bbc.com/news/world-asia-india-52277096
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The containment measures that were introduced under the NDMA were intitially introduced for a period of 21 days. Amendements to these measurements were subsequently made. Examples of these amendments include exceptions for 'essential services'. 
 
 *Sources*:
- https://ndma.gov.in/images/ndma-pdf/DM_act2005.pdf
-
-https://ndma.gov.in/images/covid/Guidelines.pdf
-
-https://ndma.gov.in/images/covid/addendum-to-mha-order-dated24032020.pdf
-
+ https://ndma.gov.in/images/ndma-pdf/DM_act2005.pdf
+
+
+
+https://ndma.gov.in/images/covid/Guidelines.pdf
+
+
+
+https://ndma.gov.in/images/covid/addendum-to-mha-order-dated24032020.pdf
+
+
+
 https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
 
 
@@ -174,25 +246,39 @@ https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-14 
+*Time period: Q2*: 2020-05-31
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The containment measures that were introduced under the NDMA were intitially introduced for a period of 21 days. Amendements to these measurements were subsequently made. Examples of these amendments include exceptions for 'essential services'. 
 
 *Sources*:
- https://ndma.gov.in/images/ndma-pdf/DM_act2005.pdf
-
-https://ndma.gov.in/images/covid/Guidelines.pdf
-
-https://ndma.gov.in/images/covid/addendum-to-mha-order-dated24032020.pdf
-
+ https://ndma.gov.in/images/ndma-pdf/DM_act2005.pdf
+
+
+
+https://ndma.gov.in/images/covid/Guidelines.pdf
+
+
+
+https://ndma.gov.in/images/covid/addendum-to-mha-order-dated24032020.pdf
+
+
+
 https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
 
 
@@ -205,7 +291,7 @@ https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -215,7 +301,15 @@ https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Section 6(3) of the NDMA states that "The chairperson of the National Authority shall, in the case of emergency, have power to exercise all or any of the powers of the  National Authority but exercise of such powers shall be subject to ex post facto ratification by the National Authority." 
@@ -243,17 +337,29 @@ https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  https://ndma.gov.in/images/ndma-pdf/DM_act2005.pdf
-
-
-https://www.bloombergquint.com/law-and-policy/the-legal-process-behind-the-21-day-national-lockdown-order
-
+
+
+
+
+https://www.bloombergquint.com/law-and-policy/the-legal-process-behind-the-21-day-national-lockdown-order
+
+
+
 https://ndma.gov.in/images/covid/ndmaorder240320.pdf
 
 
@@ -274,13 +380,21 @@ https://ndma.gov.in/images/covid/ndmaorder240320.pdf
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Section 10(1) of the National Disaster Management Act states "The National Executive Committee shall assist the National Authority in the discharge of its functions and have the responsibility for implementing the policies and plans of the National Authority and ensure the compliance of directions issued by the Central Government for the purpose of disaster management in the country".The binding nature of the directions and guidelines centralizes the sphere of operations, giving the federal government overriding powers of enforcement.
@@ -288,12 +402,18 @@ https://ndma.gov.in/images/covid/ndmaorder240320.pdf
 On 23 March 2020, the Indian parliament adjourned the first session of 2020 for both houses with reference to Covid-19. The parliament resumed on 14 September 2020. 
 
 *Sources*:
- https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
-
-https://www.ndma.gov.in/images/ndma-pdf/DM_act2005.pdf
-
-https://ndma.gov.in/images/covid/Guidelines.pdf
-
+ https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
+
+
+
+https://www.ndma.gov.in/images/ndma-pdf/DM_act2005.pdf
+
+
+
+https://ndma.gov.in/images/covid/Guidelines.pdf
+
+
+
 https://pib.gov.in/newsite/PrintRelease.aspx?relid=200625
 
 
@@ -306,24 +426,36 @@ https://pib.gov.in/newsite/PrintRelease.aspx?relid=200625
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-23 
+*Time period: Q2*: 2020-03-23
+
+ 
+*Time period: Q3*: 2020-03-23
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  https://www.npr.org/sections/coronavirus-live-updates/2020/09/14/912691532/at-least-25-indian-lawmakers-test-positive-for-coronavirus-as-parliament-reopens
-
-
-https://week.com/2020/09/14/indias-modi-faces-turbulent-session-as-parliament-reopens/
-
+
+
+
+
+https://week.com/2020/09/14/indias-modi-faces-turbulent-session-as-parliament-reopens/
+
+
+
 https://abcnews.go.com/Health/wireStory/indias-modi-faces-turbulent-session-parliament-reopens-72993625
 
 
@@ -343,17 +475,29 @@ https://abcnews.go.com/Health/wireStory/indias-modi-faces-turbulent-session-parl
 *Scale*: Date format.
 
  
-*Answer*: 2020-09-14 
+*Time period: Q2*: 2020-09-14
+
+ 
+*Time period: Q3*: 2020-09-14
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  https://www.npr.org/sections/coronavirus-live-updates/2020/09/14/912691532/at-least-25-indian-lawmakers-test-positive-for-coronavirus-as-parliament-reopens
-
-
-https://week.com/2020/09/14/indias-modi-faces-turbulent-session-as-parliament-reopens/
-
+
+
+
+
+https://week.com/2020/09/14/indias-modi-faces-turbulent-session-as-parliament-reopens/
+
+
+
 https://abcnews.go.com/Health/wireStory/indias-modi-faces-turbulent-session-parliament-reopens-72993625
 
 
@@ -378,26 +522,46 @@ https://abcnews.go.com/Health/wireStory/indias-modi-faces-turbulent-session-parl
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- A 21 day national lockdown was imposed by Prime minister Narendra Modi in March 2020 using the National Disaster Management Act. Outside of this, the different states have also been responding to Covid-19 with different measures. 
-
- Examples
-
-1: The region of Himachal Pradesh banned entry of foreign and domestic tourists on 19 March till further notice. However, this ruling has not been uniform through out India.
-
+ A 21 day national lockdown was imposed by Prime minister Narendra Modi in March 2020 using the National Disaster Management Act. Outside of this, the different states have also been responding to Covid-19 with different measures. 
+
+
+
+ Examples
+
+
+
+1: The region of Himachal Pradesh banned entry of foreign and domestic tourists on 19 March till further notice. However, this ruling has not been uniform through out India.
+
+
+
 2: The government in Odisha mandated the closures of educational institutions, cinema halls and public swimming pools and gyms by invoking the provisions of Epidemic Diseases Act. This has also not been exercised on a national level. 
 
 *Sources*:
  https://www.hindustantimes.com/india-news/covid-19-disaster-act-invoked-for-the-1st-time-in-india/story-EN3YGrEuxhnl6EzqrlreWM.html
-
-
-https://ndma.gov.in/images/ndma-pdf/DM_act2005.pdf
-
+
+
+
+
+https://ndma.gov.in/images/ndma-pdf/DM_act2005.pdf
+
+
+
 https://www.tribuneindia.com/news/himachal/himachal-bans-entry-of-domestic-foreign-tourists-amid-coronavirus-threat-58038
-
-
+
+
+
+
 https://thewire.in/government/odisha-covid-19-response
 
 
@@ -422,10 +586,13 @@ https://thewire.in/government/odisha-covid-19-response
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -455,6 +622,8 @@ https://www.indiatoday.in/india/story/do-not-buy-vegetables-from-muslims-deoria-
 
 https://www.bmj.com/content/369/bmj.m2280
 
+https://blogs.lse.ac.uk/medialse/2020/09/24/disinformation-against-indian-muslims-during-the-covid-19-pandemic/
+
 
 
 
@@ -482,15 +651,19 @@ https://www.bmj.com/content/369/bmj.m2280
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Police in Tamil Nadu arrested P.Jayaraj and J.Fenix on 19 June 2020 for keeping their mobile shop open longer than permitted by the Covid-19 rules. They were detained and dies four day later in jail. There has been evidence suggesting that they were beaten, tortured and sexually assaulted by the police officers. 
+ Police in Tamil Nadu arrested P.Jayaraj and J.Fenix on 19 June 2020 for keeping their mobile shop open longer than permitted by the Covid-19 rules. They were detained and dies four day later in jail. There has been evidence suggesting that they were beaten, tortured and sexually assaulted by the police officers.
+As I have not found more incidents of the emergency measures violating non-derogable rights, I have coded July/Sept and Oct/Dec as 0. 
 
 *Sources*:
  https://www.bbc.com/news/world-asia-india-53260209
@@ -498,6 +671,8 @@ Time period: *Jul-Sep*: 1
 https://www.hrw.org/news/2020/06/30/deaths-custody-india-highlight-police-torture
 
 https://www.ndma.gov.in/images/ndma-pdf/DM_act2005.pdf
+
+https://apnews.com/article/virus-outbreak-police-international-news-india-police-brutality-434547757272fecb25777597c8cb333c
 
 
 
@@ -521,7 +696,15 @@ https://www.ndma.gov.in/images/ndma-pdf/DM_act2005.pdf
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Section 54 of the National Disaster Management Act states that "Whoever makes or circulates a false alarm or warning as to disaster or its severity or magnitude, leading to panic, shall on conviction, be punishable with imprisonment which may extend to one year or with fine‚" 
@@ -539,25 +722,39 @@ https://www.ndma.gov.in/images/ndma-pdf/DM_act2005.pdf
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-24 
+*Time period: Q2*: 2020-03-24
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
-
-https://www.ndma.gov.in/images/ndma-pdf/DM_act2005.pdf
-
-https://ndma.gov.in/images/covid/Guidelines.pdf
-
+ https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
+
+
+
+https://www.ndma.gov.in/images/ndma-pdf/DM_act2005.pdf
+
+
+
+https://ndma.gov.in/images/covid/Guidelines.pdf
+
+
+
 https://www.bbc.com/news/world-asia-india-52277096
 
 
@@ -570,21 +767,40 @@ https://www.bbc.com/news/world-asia-india-52277096
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 2020-05-31
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://ndma.gov.in/images/ndma-pdf/DM_act2005.pdf
+
+
+
+https://ndma.gov.in/images/covid/Guidelines.pdf
+
+
+
+https://ndma.gov.in/images/covid/addendum-to-mha-order-dated24032020.pdf
+
+
+
+https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
 
 
 
@@ -606,10 +822,13 @@ https://www.bbc.com/news/world-asia-india-52277096
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -620,7 +839,9 @@ Time period: *Jul-Sep*: 1
 
 3: After this, the health ministry’s representatives told reporters that they would only take questions from Asian News International and the state TV broadcaster Doordarshan at the next days press conference. Both news outlets are well known for supporting Modi’s Bhartiya Janata Party (BJP).
 
-4: In May 2020, police registered cases against six journalists in the northern Himachal Pradesh state for reporting about problems faced by migrant workers amid the COVID-19 lockdown. Some reports stated that the stranded laborers did not receive adequate help from the authorities. Police said the reports were "fake" and invoked the Disaster Management Act against the journalists. 
+4: In May 2020, police registered cases against six journalists in the northern Himachal Pradesh state for reporting about problems faced by migrant workers amid the COVID-19 lockdown. Some reports stated that the stranded laborers did not receive adequate help from the authorities. Police said the reports were "fake" and invoked the Disaster Management Act against the journalists.
+
+Given the general restricted nature of the media environment in India (RSF ranks India 142 out of 180 countries), we can assume that de-factor limitations on reporting about the nature of Covid-19 continue to exist even if such incidences are not widely reported. 
 
 *Sources*:
  https://rsf.org/en/news/how-indias-government-tries-suppress-all-covid-19-reporting
@@ -638,6 +859,9 @@ https://www.dw.com/en/can-indian-media-report-freely-about-the-covid-19-crisis/a
 https://www.cjr.org/analysis/delhi-india-violence-modi-press-freedom.php
 
 
+https://www.freepressjournal.in/india/national-press-day-read-about-journalists-who-were-jailed-and-killed-in-india
+
+
 
 
 
@@ -647,7 +871,7 @@ https://www.cjr.org/analysis/delhi-india-violence-modi-press-freedom.php
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -657,17 +881,22 @@ https://www.cjr.org/analysis/delhi-india-violence-modi-press-freedom.php
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
  1: There have been attempts to censor at least one local newspaper about the effects of the lockdown on poor neighborhoods.
 
-2: The editor of one of the most widely circulated Bengali language newspaper was speculated to have been forced to step down after he reported on the shortage of Personal Protection Equipment for the doctors treating Covid-19 patients. 
+2: The editor of one of the most widely circulated Bengali language newspaper was speculated to have been forced to step down after he reported on the shortage of Personal Protection Equipment for the doctors treating Covid-19 patients.
+
+Given the general restricted nature of the media environment in India (RSF ranks India 142 out of 180 countries), we can assume that limitations on media reporting about the government response continue to exist even if such incidences are not widely reported. 
 
 *Sources*:
  https://rsf.org/en/news/indian-newspaper-accused-fake-news-about-lockdowns-impact-poor
@@ -677,6 +906,9 @@ https://www.nationalheraldindia.com/india/lockdown-impact-in-modi-constituency-d
 
 
 https://www.dw.com/en/can-indian-media-report-freely-about-the-covid-19-crisis/a-53728264
+
+
+https://www.freepressjournal.in/india/national-press-day-read-about-journalists-who-were-jailed-and-killed-in-india
 
 
 
@@ -698,24 +930,21 @@ https://www.dw.com/en/can-indian-media-report-freely-about-the-covid-19-crisis/a
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- 1: The government has attempted to exercise total control over information about Covid-19. On 31 March 2020, it asked the supreme court to direct the media to publish nothing about the epidemic “without first ascertaining the facts from the mechanism provided by the government.” While the courts did not allow this, the made concessions by ruling that, to avoid the dissemination of “unverified news capable of causing panic,” the media must “refer to and publish the official version about the developments” including the government’s daily bulletin.
-
-2: In May 2020, police registered cases against six journalists in the northern Himachal Pradesh state for reporting about problems faced by migrant workers amid the COVID-19 lockdown. Some reports stated that the stranded laborers did not receive adequate help from the authorities. Police said the reports were "fake" and invoked the Disaster Management Act against the journalists.
-
-3: In the southern Tamil Nadu state, Andrew Sam Raja Pandian, a digital journalist and founder of the SimpliCity news portal, was arrested on April 18 for publishing two news articles related to COVID-19. Pandian and his colleague, Jerald Aruldas, were held by police for reporting about the alleged government corruption amid the pandemic and how doctors faced food shortages while working during the lockdown. 
+ I did not find evidence of this occuring through out all the time periods. 
 
 *Sources*:
- https://rsf.org/en/news/how-indias-government-tries-suppress-all-covid-19-reporting
-
-https://www.dw.com/en/can-indian-media-report-freely-about-the-covid-19-crisis/a-53728264
+ https://rsf.org/en/india
 
 
 
@@ -734,19 +963,22 @@ https://www.dw.com/en/can-indian-media-report-freely-about-the-covid-19-crisis/a
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
- The government has attempted to exercise total control over information about Covid-19. On 31 March 2020, it asked the supreme court to direct the media to publish nothing about the epidemic “without first ascertaining the facts from the mechanism provided by the government.” While the courts did not allow this, the made concessions by ruling that, to avoid the dissemination of “unverified news capable of causing panic,” the media must “refer to and publish the official version about the developments” including the government’s daily bulletin.
+ From 31 March 2020, it asked the supreme court to direct the media to publish nothing about the epidemic “without first ascertaining the facts from the mechanism provided by the government.” While the courts did not allow this, the made concessions by ruling that, to avoid the dissemination of “unverified news capable of causing panic,” the media must “refer to and publish the official version about the developments” including the government’s daily bulletin.
 
 After this, the health ministry’s representatives told reporters that they would only take questions from Asian News International and the state TV broadcaster Doordarshan at the next days press conference. Both news outlets are well known for supporting Modi’s Bhartiya Janata Party (BJP). 
 
@@ -781,10 +1013,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -817,10 +1052,13 @@ https://rsf.org/en/news/surge-harassment-indian-reporters-over-coronavirus-cover
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -858,10 +1096,13 @@ https://www.thehindu.com/news/national/other-states/journalist-held-for-publishi
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -893,10 +1134,13 @@ Time period: *Jul-Sep*: 0
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
@@ -919,6 +1163,8 @@ https://indianexpress.com/article/india/gujarat-police-brutality-on-dalits-durin
 
 https://www.bbc.com/news/av/world-asia-india-53521559
 
+https://apnews.com/article/virus-outbreak-police-international-news-india-police-brutality-434547757272fecb25777597c8cb333c
+
 
 
 
@@ -929,7 +1175,7 @@ https://www.bbc.com/news/av/world-asia-india-53521559
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -939,10 +1185,13 @@ https://www.bbc.com/news/av/world-asia-india-53521559
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -954,28 +1203,3 @@ Time period: *Jul-Sep*: 0
 
 
 https://theprint.in/defence/this-is-how-the-indian-military-is-trying-to-prevent-covid-19-from-entering-its-bases/386533/
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-*Answer*: 1 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
- https://rsf.org/en/news/how-indias-government-tries-suppress-all-covid-19-reporting

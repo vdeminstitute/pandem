@@ -1,9 +1,6 @@
 # Japan 
 
 
-Time 2020-06-24 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-06-24
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,27 +25,27 @@ Time 2020-06-24
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 6
+
+ 
+*Time period: Q4*: 6
+
+ 
 
 *Comments*:
- The government added Covid-19 to the list of infectious diseases in the NISMA (New Influenza Special Measures Act). The state of emergency was declared based on Act 32 of the NISMA. 
+ The government added Covid-19 to the list of infectious diseases in the NISMA (New Influenza Special Measures Act). The state of emergency was declared based on Act 32 of the NISMA.
+
+The state of emergency was lifted on 25 May 2020. 
 
 *Sources*:
  https://www.bloomberg.com/news/articles/2020-04-07/japan-s-abe-declares-state-of-emergency-over-coronavirus
-
-
 https://www.theguardian.com/world/2020/may/25/japan-lifts-state-of-emergency-after-fall-in-coronavirus-cases
-
-
 https://www.theguardian.com/world/2020/apr/07/japan-shinzo-abe-declares-state-of-emergency-over-coronavirus
-
-
 https://www.japantimes.co.jp/news/2020/05/24/national/japan-completely-lift-state-of-emergency-coronavirus/#.XvM1jGozZTY
-
-
 https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instead-of-legal-penalty/
-
-
 https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=424AC0000000031#223
 
 
@@ -68,27 +65,45 @@ https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=4
 *Scale*: Character string.
 
  
-*Answer*: New Influenza Special Measures Act 
+*Time period: Q2*: New Influenza Special Measures Act
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  https://www.bloomberg.com/news/articles/2020-04-07/japan-s-abe-declares-state-of-emergency-over-coronavirus
-
-
+
+
+
+
 https://www.theguardian.com/world/2020/may/25/japan-lifts-state-of-emergency-after-fall-in-coronavirus-cases
-
-
+
+
+
+
 https://www.theguardian.com/world/2020/apr/07/japan-shinzo-abe-declares-state-of-emergency-over-coronavirus
-
-
+
+
+
+
 https://www.japantimes.co.jp/news/2020/05/24/national/japan-completely-lift-state-of-emergency-coronavirus/#.XvM1jGozZTY
-
-
+
+
+
+
 https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instead-of-legal-penalty/
-
-
+
+
+
+
 https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=424AC0000000031#223
 
 
@@ -108,32 +123,54 @@ https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=4
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-07 
+*Time period: Q2*: 2020-04-07
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  A one-month state of emergency was introduced in Tokyo on 7 April 2020. This state of emergency was later extended to the rest of the country on 16 April 2020. 
 
 *Sources*:
  https://www.bloomberg.com/news/articles/2020-04-07/japan-s-abe-declares-state-of-emergency-over-coronavirus
-
-
+
+
+
+
 https://www.theguardian.com/world/2020/may/25/japan-lifts-state-of-emergency-after-fall-in-coronavirus-cases
-
-
+
+
+
+
 https://www.theguardian.com/world/2020/apr/07/japan-shinzo-abe-declares-state-of-emergency-over-coronavirus
-
-
+
+
+
+
 https://www.japantimes.co.jp/news/2020/05/24/national/japan-completely-lift-state-of-emergency-coronavirus/#.XvM1jGozZTY
-
-
+
+
+
+
 https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instead-of-legal-penalty/
-
-
+
+
+
+
 https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=424AC0000000031#223
-
-
-https://www.bloomberg.com/news/articles/2020-04-07/japan-s-abe-declares-state-of-emergency-over-coronavirus
-
+
+
+
+
+https://www.bloomberg.com/news/articles/2020-04-07/japan-s-abe-declares-state-of-emergency-over-coronavirus
+
+
+
 https://web.archive.org/web/20200416074627/https://mainichi.jp/english/articles/20200416/p2g/00m/0na/085000c
 
 
@@ -153,24 +190,26 @@ https://web.archive.org/web/20200416074627/https://mainichi.jp/english/articles/
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-25 
+*Time period: Q2*: 2020-04-07
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- A one-month state of emergency was introduced in Tokyo on 7 April 2020. This state of emergency was later extended to the rest of the country on 16 April 2020. 
-
+ A one-month state of emergency was introduced in Tokyo on 7 April 2020. This state of emergency was later extended to the rest of the country on 16 April 2020. 
+
+
+
 The state of emergency was progressively increased through out Japan in May and was entire removed on 25 May 2020. 
 
 *Sources*:
- https://www.theguardian.com/world/2020/may/25/japan-lifts-state-of-emergency-after-fall-in-coronavirus-cases
-
-https://www.reuters.com/article/us-health-coronavirus-japan-abe/japan-pm-abe-to-lift-state-of-emergency-for-all-of-japan-today-idUSKBN2310WN
-
-
-https://abcnews.go.com/Health/wireStory/latest-south-korea-25-cases-small-outbreaks-70855282
-
-https://www.bloomberg.com/news/articles/2020-04-07/japan-s-abe-declares-state-of-emergency-over-coronavirus
-
-https://web.archive.org/web/20200416074627/https://mainichi.jp/english/articles/20200416/p2g/00m/0na/085000c
+ https://www.theguardian.com/world/2020/may/25/japan-lifts-state-of-emergency-after-fall-in-coronavirus-caseshttps://www.reuters.com/article/us-health-coronavirus-japan-abe/japan-pm-abe-to-lift-state-of-emergency-for-all-of-japan-today-idUSKBN2310WN
+https://abcnews.go.com/Health/wireStory/latest-south-korea-25-cases-small-outbreaks-70855282https://www.bloomberg.com/news/articles/2020-04-07/japan-s-abe-declares-state-of-emergency-over-coronavirushttps://web.archive.org/web/20200416074627/https://mainichi.jp/english/articles/20200416/p2g/00m/0na/085000c
 
 
 
@@ -192,17 +231,29 @@ https://web.archive.org/web/20200416074627/https://mainichi.jp/english/articles/
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The state of emergency was initially introduced for one month. It was then extended till 25 May 2020. 
 
 *Sources*:
- https://www.theguardian.com/world/2020/may/25/japan-lifts-state-of-emergency-after-fall-in-coronavirus-cases
-
+ https://www.theguardian.com/world/2020/may/25/japan-lifts-state-of-emergency-after-fall-in-coronavirus-cases
+
+
+
 https://www.reuters.com/article/us-health-coronavirus-japan-abe/japan-pm-abe-to-lift-state-of-emergency-for-all-of-japan-today-idUSKBN2310WN
-
-
+
+
+
+
 https://abcnews.go.com/Health/wireStory/latest-south-korea-25-cases-small-outbreaks-70855282
 
 
@@ -215,24 +266,28 @@ https://abcnews.go.com/Health/wireStory/latest-south-korea-25-cases-small-outbre
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-07 
+*Time period: Q2*: 2020-05-25
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://www.theguardian.com/world/2020/may/25/japan-lifts-state-of-emergency-after-fall-in-coronavirus-cases
-
-https://www.reuters.com/article/us-health-coronavirus-japan-abe/japan-pm-abe-to-lift-state-of-emergency-for-all-of-japan-today-idUSKBN2310WN
-
-
+ https://www.theguardian.com/world/2020/may/25/japan-lifts-state-of-emergency-after-fall-in-coronavirus-caseshttps://www.reuters.com/article/us-health-coronavirus-japan-abe/japan-pm-abe-to-lift-state-of-emergency-for-all-of-japan-today-idUSKBN2310WN
 https://abcnews.go.com/Health/wireStory/latest-south-korea-25-cases-small-outbreaks-70855282
 
 
@@ -245,7 +300,7 @@ https://abcnews.go.com/Health/wireStory/latest-south-korea-25-cases-small-outbre
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -255,15 +310,25 @@ https://abcnews.go.com/Health/wireStory/latest-south-korea-25-cases-small-outbre
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instead-of-legal-penalty/
-
-
+
+
+
+
 https://www.aa.com.tr/en/asia-pacific/japans-abe-gets-emergency-powers-to-fight-coronavirus/1764834
 
 
@@ -286,15 +351,25 @@ https://www.aa.com.tr/en/asia-pacific/japans-abe-gets-emergency-powers-to-fight-
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instead-of-legal-penalty/
-
-
+
+
+
+
 https://www.aa.com.tr/en/asia-pacific/japans-abe-gets-emergency-powers-to-fight-coronavirus/1764834
 
 
@@ -315,20 +390,30 @@ https://www.aa.com.tr/en/asia-pacific/japans-abe-gets-emergency-powers-to-fight-
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  I did not find any information to suggest that the lawmaking role of the legislature has been limited. 
 
 *Sources*:
- https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=424AC0000000031#223
-
+ https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=424AC0000000031#223
+
+
+
 https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instead-of-legal-penalty/
 
 
@@ -341,22 +426,31 @@ https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instea
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  I did not find any information suggesting that Japan's national legislature was dissolved. 
 
 *Sources*:
- http://www.shugiin.go.jp/internet/index.nsf/html/index_e.htm
-
+ http://www.shugiin.go.jp/internet/index.nsf/html/index_e.htm
+
+
+
 https://www.bbc.com/news/topics/cjnwl8q4g7nt/japan
 
 
@@ -376,15 +470,24 @@ https://www.bbc.com/news/topics/cjnwl8q4g7nt/japan
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  I did not find any information suggesting that Japan's national legislature was dissolved. 
 
 *Sources*:
- http://www.shugiin.go.jp/internet/index.nsf/html/index_e.htm
-
+ http://www.shugiin.go.jp/internet/index.nsf/html/index_e.htm
+
+
+
 https://www.bbc.com/news/topics/cjnwl8q4g7nt/japan
 
 
@@ -409,26 +512,46 @@ https://www.bbc.com/news/topics/cjnwl8q4g7nt/japan
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- A one-month state of emergency was introduced in Tokyo on 7 April 2020. This state of emergency was later extended to the rest of the country on 16 April 2020. 
-
+ A one-month state of emergency was introduced in Tokyo on 7 April 2020. This state of emergency was later extended to the rest of the country on 16 April 2020. 
+
+
+
 The state of emergency was progressively increased through out Japan in May and was entire removed on 25 May 2020. 
 
 *Sources*:
- "https://www.theguardian.com/world/2020/may/25/japan-lifts-state-of-emergency-after-fall-in-coronavirus-cases
-
+ "https://www.theguardian.com/world/2020/may/25/japan-lifts-state-of-emergency-after-fall-in-coronavirus-cases
+
+
+
 https://www.reuters.com/article/us-health-coronavirus-japan-abe/japan-pm-abe-to-lift-state-of-emergency-for-all-of-japan-today-idUSKBN2310WN
-
-
-https://abcnews.go.com/Health/wireStory/latest-south-korea-25-cases-small-outbreaks-70855282
-
-https://www.bloomberg.com/news/articles/2020-04-07/japan-s-abe-declares-state-of-emergency-over-coronavirus
-
+
+
+
+
+https://abcnews.go.com/Health/wireStory/latest-south-korea-25-cases-small-outbreaks-70855282
+
+
+
+https://www.bloomberg.com/news/articles/2020-04-07/japan-s-abe-declares-state-of-emergency-over-coronavirus
+
+
+
 https://web.archive.org/web/20200416074627/https://mainichi.jp/english/articles/20200416/p2g/00m/0na/085000c"
-https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=424AC0000000031#223
-
+https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=424AC0000000031#223
+
+
+
 https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instead-of-legal-penalty/
 
 
@@ -453,10 +576,13 @@ https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instea
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -495,10 +621,13 @@ https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instea
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -532,14 +661,24 @@ https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instea
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  I did not come across new limitations on media freedom due to the emergency measures. 
 
 *Sources*:
- https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=424AC0000000031#223
-
+ https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=424AC0000000031#223
+
+
+
 https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instead-of-legal-penalty/
 
 
@@ -552,15 +691,22 @@ https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instea
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -578,15 +724,22 @@ https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instea
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -614,10 +767,13 @@ https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instea
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -647,7 +803,7 @@ https://www.hrw.org/asia/japan
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -657,10 +813,13 @@ https://www.hrw.org/asia/japan
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -700,10 +859,13 @@ https://www.hrw.org/asia/japan
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -740,25 +902,32 @@ https://www.hrw.org/asia/japan
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Reports have suggested that journalists are required to submit questions in advance at press conferences. This has allowed authorities to avoid answering questions which touch on topics which are deemed to be sensitive. 
+ Reports have suggested that journalists are required to submit questions in advance at press conferences. This has allowed authorities to avoid answering questions which touch on topics which are deemed to be sensitive.
+
+Even though the emergency measures were lifted on 25 May 2020, these restrictions have remained in place. 
 
 *Sources*:
  https://rsf.org/en/news/covid-19-rsf-urges-japan-government-lift-restrictions-access-press-conferences
 
 
 http://www.asahi.com/ajw/articles/13222083
+
+http://shimbunroren.or.jp/200807statement/
 
 
 
@@ -780,10 +949,13 @@ http://www.asahi.com/ajw/articles/13222083
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -823,10 +995,13 @@ https://www.hrw.org/asia/japan
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -868,10 +1043,13 @@ https://www.hrw.org/asia/japan
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -903,10 +1081,13 @@ Time period: *Jul-Sep*: 0
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -936,7 +1117,7 @@ https://www.hrw.org/asia/japan
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -946,10 +1127,13 @@ https://www.hrw.org/asia/japan
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -968,29 +1152,3 @@ https://www.bbc.com/news/topics/cjnwl8q4g7nt/japan
 
 
 https://www.hrw.org/asia/japan
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

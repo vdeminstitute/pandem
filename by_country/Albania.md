@@ -1,9 +1,6 @@
 # Albania 
 
 
-Time 2020-08-31 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-08-31
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,15 +25,36 @@ Time 2020-08-31
  7. Other.
 
  
-*Answer*: 3 
+*Time period: Q2*: 3
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- state of natural disaster; based on the Constitution, emergency measures can be taken during " a state of war, state of emergency or natural disaster " (Art 170 (1)). State of natural disaster is different from state of emergency. According to Art 174 (1) of the Constitution, "for the prevention or the avoidance of the consequences of natural disasters or technological accidents, the Council of Ministers may decide on the state of natural disaster for a period not longer than 30 days, in one part or in the whole territory of the state."; According to OSCE report, "state of Natural Disaster, different from a “state of emergency”, declared by the Council of Minister on 24 March, later extended upon the consent of the Assembly of the Republic of Albania, as per Art.s 170-175 of the Constitution, and ended on 23 June." 
+ March-June: state of natural disaster; based on the Constitution, emergency measures can be taken during " a state of war, state of emergency or natural disaster " (Art 170 (1)). State of natural disaster is different from state of emergency. According to Art 174 (1) of the Constitution, "for the prevention or the avoidance of the consequences of natural disasters or technological accidents, the Council of Ministers may decide on the state of natural disaster for a period not longer than 30 days, in one part or in the whole territory of the state."; According to OSCE report, "state of Natural Disaster, different from a “state of emergency”, declared by the Council of Minister on 24 March, later extended upon the consent of the Assembly of the Republic of Albania, as per Art.s 170-175 of the Constitution, and ended on 23 June."
+
+July-September:  the primary legal instrument for this time period is Constitution (Article 101) that was used to declare Normative Act no. 3, dated 15.3.2020 and that was amended several times (e.g. the Normative Act no. 30, dated 20.07.2020 “On some amendments and additions to the Normative Act no. 3, dated 15.3.2020, of the Council of Ministers")
+
+October-November: Order 616 from 09.11.2020 from the Minister of Health based on the Law No.15/2016 "For the prevention and fighting infections and infectious diseases". 
 
 *Sources*:
  https://www.kryeministria.al/newsroom/vendim-i-keshillit-te-ministrave-date-24-mars-2020/
 https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B339%5D&covid19=1
 https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+https://al.usembassy.gov/updates_covid19/
+
+
+https://www2.deloitte.com/content/dam/Deloitte/al/Documents/legal/Newsletter_Notice47_COVID19.pdf
+https://qbz.gov.al/eli/akt-normativ/2020/03/15/3/333da18e-47fd-4cc7-b38c-562ec56da463
+https://qbz.gov.al/news/33b00e4f-8efb-4c99-8c45-595cd9b84f1b
+
+https://new.shendetesia.gov.al/nga-neser-hyjne-ne-fuqi-masat-e-reja-manastirliu-kufizimet-per-te-frenuar-perhapjen-e-koronavirusit-me-vendosmeri-do-ta-perballim-se-bashku-kete-pandemi/
+https://www.garda.com/crisis24/news-alerts/398026/albania-authorities-to-tighten-covid-19-restrictions-and-introduce-nightly-curfew-from-november-11-update-17
 
 
 
@@ -55,14 +73,30 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 *Scale*: Character string.
 
  
-*Answer*: Constitution (Articles 100, 170, 174, point 1, and 175, point 2), LIGJ Nr. 45/2019 PËR MBROJTJEN CIVILE 
+*Time period: Q2*: Constitution (Articles 100, 170, 174, point 1, and 175, point 2), LIGJ Nr. 45/2019 PËR MBROJTJEN CIVILE
+
+ 
+*Time period: Q3*: Constitution (Article 101)
+
+ 
+*Time period: Q4*: LIGJ Nr. 15/2016 PËR PARANDALIMIN DHE LUFTIMIN E INFEKSIONEVE DHE SËMUNDJEVE INFEKTIVE
+
+ 
 
 *Comments*:
- own English translation of LIGJ Nr. 45/2019 PËR MBROJTJEN CIVILE”": Law No. 45/2019, "On Civil Protection" 
+ March-June: own English translation of LIGJ Nr. 45/2019 PËR MBROJTJEN CIVILE”": Law No. 45/2019, "On Civil Protection"
+
+July-September: Constitution (Article 101) that allows the Council of Ministers to pass normative acts having the force of law in cases of emergency.
+
+October-November: own English translation of LIGJNr. 15/2016 "PËR PARANDALIMIN DHE LUFTIMIN E INFEKSIONEVE DHE SËMUNDJEVE INFEKTIVE": Law No.15/2016 "For the prevention and fighting infections and infectious diseases."  According to Art. 7 (point 4d), the Minister of Health can declare measures restricting freedom of movement in order to combat infectious diseases. 
 
 *Sources*:
  https://www.kryeministria.al/newsroom/vendim-i-keshillit-te-ministrave-date-24-mars-2020/
 https://www.constituteproject.org/constitution/Albania_2016?lang=en
+
+https://shendetesia.gov.al/wp-content/uploads/2020/03/Akti-Normativ-nr.-3-date-15-mars-Per-marrjen-e-masava-te-vecanta-administrative-gjate-kohezgjatjes-se-periudhes-se-infeksionit-te-shkaktuar-nga-COVID-19.pdf
+
+https://www.parlament.al/Files/Integrimi/ligj-nr.-15-dt.-10.3.2016-1.pdf
 
 
 
@@ -81,14 +115,31 @@ https://www.constituteproject.org/constitution/Albania_2016?lang=en
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-24 
+*Time period: Q2*: 2020-03-24
+
+ 
+*Time period: Q3*: 2020-03-15
+
+ 
+*Time period: Q4*: 2020-11-11
+
+ 
 
 *Comments*:
- The state of natural disaster was declared on 24 March 2020. 
+ March-June: The state of natural disaster was declared on 24 March 2020.
+
+July-September: The legal instrument was first used on 15 March 2020 and since then has been amended several times.
+
+October-December: The legal instrument was first used on 11 Novemer 2020. 
 
 *Sources*:
  https://www.kryeministria.al/newsroom/vendim-i-keshillit-te-ministrave-date-24-mars-2020/
 https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B339%5D&covid19=1
+
+https://www2.deloitte.com/content/dam/Deloitte/al/Documents/legal/Newsletter_Notice47_COVID19.pdf
+https://qbz.gov.al/eli/akt-normativ/2020/07/20/30/e9b8578c-4a19-49ef-b175-865c1897f861
+
+https://new.shendetesia.gov.al/wp-content/uploads/2020/11/Urdher-Nr.616.pdf
 
 
 
@@ -107,15 +158,28 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B33
 *Scale*: Date format.
 
  
-*Answer*: 2020-06-23 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The state of natural disaster ended on 23 June 2020 (Decision by the Council of Ministers to extend the state of natural disaster from 21 April 2020). 
+ Although the state of natural disaster ended on 23 June 2020 (Decision by the Council of Ministers to extend the state of natural disaster from 21 April 2020), the implementation of Normative Act no. 3, dated 15.3.2020 and that was amended several times (e.g. the Normative Act no. 30, dated 20.07.2020 “On some amendments and additions to the Normative Act no. 3, dated 15.3.2020, of the Council of Ministers" has not ended at the time of coding.
+Moreover, a partial curfew declared on 11 November has not ended at the time of coding. 
 
 *Sources*:
  https://www.parlament.al/Projekte/PPPDetails/651
 https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B339%5D&covid19=1
 https://www.garda.com/crisis24/news-alerts/337691/albania-authorities-extend-state-of-emergency-until-june-23-update-10
+https://new.shendetesia.gov.al/wp-content/uploads/2020/11/Urdher-Nr.616.pdf
+
+
+https://new.shendetesia.gov.al/wp-content/uploads/2020/11/Urdher-Nr.616.pdf
 
 
 
@@ -137,14 +201,32 @@ https://www.garda.com/crisis24/news-alerts/337691/albania-authorities-extend-sta
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- State of natural disaster is limited to 30 days based on the Constitution (Art 174 (1)) and can be extended with the consent of the Assembly (Art 174 (2)). It was declared on 24 March 2020 and was extended until 23 June 2020 on 23 April 2020. 
+ Although the state of natural disaster ended on 23 June 2020 (Decision by the Council of Ministers to extend the state of natural disaster from 21 April 2020), the implementation of Normative Act no. 3, dated 15.3.2020 and that was amended several times (e.g. the Normative Act no. 30, dated 20.07.2020 “On some amendments and additions to the Normative Act no. 3, dated 15.3.2020, of the Council of Ministers" does not have a defined time limit and applied in all time periods. 
 
 *Sources*:
  https://www.kryeministria.al/newsroom/vendim-i-keshillit-te-ministrave-date-24-mars-2020/
 https://www.constituteproject.org/constitution/Albania_2016?lang=en
+https://new.shendetesia.gov.al/nga-neser-hyjne-ne-fuqi-masat-e-reja-manastirliu-kufizimet-per-te-frenuar-perhapjen-e-koronavirusit-me-vendosmeri-do-ta-perballim-se-bashku-kete-pandemi/
+
+
+
+https://qbz.gov.al/eli/akt-normativ/2020/03/15/3/333da18e-47fd-4cc7-b38c-562ec56da463
+https://qbz.gov.al/eli/akt-normativ/2020/03/15/3
+
+https://new.shendetesia.gov.al/wp-content/uploads/2020/11/Urdher-Nr.616.pdf
+https://new.shendetesia.gov.al/nivel-i-larte-risku-komiteti-teknik-i-eksperteve-vijone-te-mbeten-ne-fuqi-masat-e-marra-pa-afat/
+https://www.garda.com/crisis24/news-alerts/406021/albania-authorities-extend-covid-19-restriction-indefinitely-as-of-december-2-update-18
 
 
 
@@ -156,22 +238,35 @@ https://www.constituteproject.org/constitution/Albania_2016?lang=en
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-06-23 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  https://www.kryeministria.al/newsroom/vendim-i-keshillit-te-ministrave-date-24-mars-2020/
-https://www.parlament.al/Projekte/PPPDetails/651
-https://www.constituteproject.org/constitution/Albania_2016?lang=en
+
+
+
+https://qbz.gov.al/eli/akt-normativ/2020/03/15/3/333da18e-47fd-4cc7-b38c-562ec56da463
+https://qbz.gov.al/eli/akt-normativ/2020/03/15/3
+
+https://new.shendetesia.gov.al/wp-content/uploads/2020/11/Urdher-Nr.616.pdf
 
 
 
@@ -183,7 +278,7 @@ https://www.constituteproject.org/constitution/Albania_2016?lang=en
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -193,15 +288,32 @@ https://www.constituteproject.org/constitution/Albania_2016?lang=en
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Legislature approval is required only for extending the state of natural distaster (Article 174 of the Consitution &  Article 39,  Law No. 45/2019, "On Civil Protection") 
+ March-June: Legislature approval is required only for extending the state of natural distaster (Article 174 of the Consitution &  Article 39,  Law No. 45/2019, "On Civil Protection").
+
+July-September: According to Article 101 of the Constitution, normative acts that the force of law in times of emergency are "are immediately submitted to the Assembly, which is convened within 5 days if it is not in session. These acts lose force retroactively if they are not approved by the Assembly within 45 days."
+
+October-December: legislature approval is not required for the measures restricting freedom of movement because of infectious diseases. Such measures are taken by the Minister of Health on the recommendations of the Institute of Public Health. 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Albania_2016?lang=en
 https://www.parlament.al/Projekte/PPPDetails/651
 https://www.parlament.al/Files/Akte/20190724173027ligj%20nr.%2045,%20dt.%2018.7.2019.pdf
+
+https://www.parlament.al/LibrariaAkteve/LibrariaAkteDetails/5163
+https://www.constituteproject.org/constitution/Albania_2016?lang=en
+
+https://www.parlament.al/Files/Integrimi/ligj-nr.-15-dt.-10.3.2016-1.pdf
 
 
 
@@ -223,13 +335,32 @@ https://www.parlament.al/Files/Akte/20190724173027ligj%20nr.%2045,%20dt.%2018.7.
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The legislature approved an extension until 23 June 2020. 
+ March-June: The legislature approved an extension of the state of natural disaster until 23 June 2020.
+
+July-September:  The legislature approved the measures (Law 95/2020)
+
+October-December: not required by law. 
 
 *Sources*:
  https://www.parlament.al/Projekte/PPPDetails/651
+
+
+https://www.parlament.al/LibrariaAkteve/LibrariaAkteDetails/5163
+
+https://www.parlament.al/Files/Integrimi/ligj-nr.-15-dt.-10.3.2016-1.pdf
+
+
 
 
 
@@ -249,19 +380,32 @@ https://www.parlament.al/Files/Akte/20190724173027ligj%20nr.%2045,%20dt.%2018.7.
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- According to International IDEA, "On 25 March, Parliament approved a declaration of a state of natural calamity, granting emergency powers to the government for 30 days." Inter-Ministerial Committee of Civil Emergencies (KNEC) (Komiteti Ndërministror i Emergjencave Civile (KNEC)) was in charge of coordinating covid-19 emergency response for the duration of the state of natural disaster (point 3 of decision 243 on the declaration of the state of natural disaster from 24 March 2020). The state of natural disaster ended on 23 June 2020 and I found no new measures limiting the lawmaking power of the legislature. 
+ According to International IDEA, "On 25 March, Parliament approved a declaration of a state of natural calamity, granting emergency powers to the government for 30 days." Inter-Ministerial Committee of Civil Emergencies (KNEC) (Komiteti Ndërministror i Emergjencave Civile (KNEC)) was in charge of coordinating covid-19 emergency response for the duration of the state of natural disaster (point 3 of decision 243 on the declaration of the state of natural disaster from 24 March 2020).
+
+July-September, October-December: no limitations on the lawmaking role of the legislature found. 
 
 *Sources*:
- https://www.kryeministria.al/newsroom/vendim-i-keshillit-te-ministrave-date-24-mars-2020/https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B339%5D&covid19=1https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+ https://www.kryeministria.al/newsroom/vendim-i-keshillit-te-ministrave-date-24-mars-2020/
+https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B339%5D&covid19=1
+https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+https://www.parlament.al/News/Index/10347
 
 
 
@@ -273,15 +417,22 @@ https://www.parlament.al/Files/Akte/20190724173027ligj%20nr.%2045,%20dt.%2018.7.
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -306,8 +457,15 @@ https://www.parlament.al/Files/Akte/20190724173027ligj%20nr.%2045,%20dt.%2018.7.
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -337,7 +495,15 @@ https://www.parlament.al/Files/Akte/20190724173027ligj%20nr.%2045,%20dt.%2018.7.
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Initial measures were the same for the whole country. The easing of restrictions varies depending on the municipality, with some municipalities designated as "green areas" from 27 April in the first wave and from 4 May in the second wave. Separation of the areas into low and high risk areas ended by 1 June 2020. No new information found since June 2020. 
@@ -369,10 +535,13 @@ https://www.oecd.org/south-east-europe/COVID-19-Crisis-in-Albania.pdf
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -380,8 +549,9 @@ Time period: *Jul-Sep*: 0
  No de-jure disciminating provisions and no information on de-facto discrimination found. 
 
 *Sources*:
- https://www.kryeministria.al/newsroom/vendim-i-keshillit-te-ministrave-date-24-mars-2020/
-https://www.amnesty.org/en/countries/europe-and-central-asia/albania/
+ https://www.amnesty.org/en/countries/europe-and-central-asia/albania/
+https://www.hrw.org/europe/central-asia/albania
+https://new.shendetesia.gov.al/category/lajme/
 
 
 
@@ -410,10 +580,13 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/albania/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -421,9 +594,9 @@ Time period: *Jul-Sep*: 0
  No measures violating non-derogable rights found. 
 
 *Sources*:
- https://www.kryeministria.al/newsroom/vendim-i-keshillit-te-ministrave-date-24-mars-2020/
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 https://www.amnesty.org/en/countries/europe-and-central-asia/albania/
+https://new.shendetesia.gov.al/category/lajme/
 
 
 
@@ -447,7 +620,15 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/albania/
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No evidence of measures limiting media freedom found. 
@@ -456,6 +637,7 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/albania/
  https://www.kryeministria.al/newsroom/vendim-i-keshillit-te-ministrave-date-24-mars-2020/
 
 https://ipi.media/albania/
+https://new.shendetesia.gov.al/category/lajme/
 
 
 
@@ -467,15 +649,22 @@ https://ipi.media/albania/
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -493,15 +682,22 @@ https://ipi.media/albania/
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -529,10 +725,13 @@ https://ipi.media/albania/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -554,7 +753,7 @@ https://rsf.org/en/albania
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -564,10 +763,13 @@ https://rsf.org/en/albania
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -600,15 +802,18 @@ https://rsf.org/en/albania
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- On 14 May 2020 A heavy fine and a shutdown threat was imposed on a TV channel RTV Ora News for violating social distances rules, which is argued to be related to the chanel's critisim of the government. Since it was a single incident and no further cases were reported, merepoth is coded as 0 in July-September 2020. 
+ On 14 May 2020 A heavy fine and a shutdown threat was imposed on a TV channel RTV Ora News for violating social distances rules, which is argued to be related to the chanel's critisim of the government. Since it was a single incident and no further cases were reported, merepoth is coded as 0 in July-September 2020 and October-December 2020. 
 
 *Sources*:
  https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=2&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_sojdashboard_WAR_coesojportlet_alertPK=65038885&_sojdashboard_WAR_coesojportlet_cmd=get_pdf_one
@@ -630,14 +835,17 @@ Time period: *Jul-Sep*: 0
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -669,10 +877,13 @@ https://rsf.org/en/albania
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -704,10 +915,13 @@ https://rsf.org/en/albania
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -741,10 +955,13 @@ https://rsf.org/en/albania
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -779,18 +996,24 @@ https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
- No instances of police or military violence found, except for the use of pepper spray to dissolve a protest on 17 May. No new information found since June 2020. 
+ No instances of police or military violence found in March-June, July-September. On 8 December, the police shot a person who violated the curfew and did not obey the police's orders to stop. The police issued a statement that “the police officer did not act according to the law while using his firearm." 
 
 *Sources*:
  https://www.garda.com/crisis24/news-alerts/343001/albania-protesters-clash-with-security-forces-in-tirana-may-17
+https://www.reuters.com/article/us-health-coronavirus-albania-protests-idUSKBN28J2UU
+https://www.garda.com/crisis24/news-alerts/412886/albania-continued-protests-against-police-violence-in-tirana-likely-through-at-least-dec-13
+https://www.euronews.com/2020/12/09/albanian-interior-minister-under-pressure-to-resign-over-police-shooting
 
 
 
@@ -802,7 +1025,7 @@ Time period: *Jul-Sep*: 0
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -812,15 +1035,18 @@ Time period: *Jul-Sep*: 0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- The military was involved in enforcing the emergency measures, such as preventing cross-town movement. According to ICNL, "Albania’s government deployed the army to enforce a strict 40-hour curfew aimed at stopping the spread of coronavirus. " Since the  curfew ended on 1 June (OECD) milinv is coded as 0 in July-September 2020. 
+ The military was involved in enforcing the emergency measures, such as preventing cross-town movement. According to ICNL, "Albania’s government deployed the army to enforce a strict 40-hour curfew aimed at stopping the spread of coronavirus. " Since the  curfew ended on 1 June (OECD) milinv is coded as 0 in July-September 2020. No information on the military's involvement in enforcing the measures in October-December 2020 found. 
 
 *Sources*:
  https://aaf.mil.al/te-fundit/5514-covid-19-fa-vijojne-angazhimin-ne-operacionin-humanitar-dhe-ne-monitorim-patrullim-ne-gjithe-vendin
@@ -829,29 +1055,3 @@ https://aaf.mil.al/te-fundit/5508-covid-19-fa-vijone-angazhimin-me-forca-dhe-mje
 https://aaf.mil.al/te-fundit/5520-covid-19-farsh-prej-pese-javesh-vijojne-operacionin-e-patrullim-monitorimit
 https://www.icnl.org/covid19tracker/?location=2&issue=&date=&type=
 https://www.oecd.org/south-east-europe/COVID-19-Crisis-in-Albania.pdf
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

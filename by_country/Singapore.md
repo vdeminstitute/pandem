@@ -1,9 +1,6 @@
 # Singapore 
 
 
-Time 2020-06-10 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-06-10
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,7 +25,15 @@ Time 2020-06-10
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
  Singapore never went into a state of emergency. However, the government did introduce new laws to deal with the virus. 
@@ -53,7 +58,15 @@ Time 2020-06-10
 *Scale*: Character string.
 
  
-*Answer*: COVID 19 (Temporary Measures) Act 2020 > COVID-19 CONTROL ORDERS 
+*Time period: Q2*: COVID 19 (Temporary Measures) Act 2020 > COVID-19 CONTROL ORDERS
+
+ 
+*Time period: Q3*: COVID 19 (Temporary Measures) Act 2020 > COVID-19 CONTROL ORDERS
+
+ 
+*Time period: Q4*: COVID 19 (Temporary Measures) Act 2020 > COVID-19 CONTROL ORDERS
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -78,7 +91,15 @@ Time 2020-06-10
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-27 
+*Time period: Q2*: 2020-03-27
+
+ 
+*Time period: Q3*: 2020-03-27
+
+ 
+*Time period: Q4*: 2020-03-27
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -103,18 +124,30 @@ Time 2020-06-10
 *Scale*: Date format.
 
  
-*Answer*: 2021-04-07 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  https://www.moh.gov.sg/news-highlights/details/end-of-circuit-breaker-phased-approach-to-resuming-activities-safely
-
-
+
+
+
+
 https://www.gov.sg/article/post-circuit-breaker-when-can-we-move-on-to-phases-2-and-3
-
-
+
+
+
+
 https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20200513#aw-
 
 
@@ -137,7 +170,15 @@ https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20200513#aw-
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  The new laws will be valid for a year. 
@@ -155,14 +196,22 @@ https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20200513#aw-
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2021-03-27 
+*Time period: Q2*: 2021-04-07
+
+ 
+*Time period: Q3*: 2021-04-07
+
+ 
+*Time period: Q4*: 2021-04-07
+
+ 
 
 *Comments*:
  Information is found under the 'long heading' subheading. 
@@ -180,7 +229,7 @@ https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20200513#aw-
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -190,7 +239,15 @@ https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20200513#aw-
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -218,7 +275,15 @@ https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20200513#aw-
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -244,13 +309,21 @@ https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20200513#aw-
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  I did not find any information indicating that the lawmaking role of the legislature has been limited due to the emergency measures taken with reference to the Covid-19 pandemic. 
@@ -268,22 +341,31 @@ https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20200513#aw-
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The parliament was dissolved due to an election that took place on 10 July 2020. However, there is no information  suggesting that the parliament was dissolved in reference to Covid-19. 
 
 *Sources*:
- https://www.bbc.com/news/world-asia-53471536
-
+ https://www.bbc.com/news/world-asia-53471536
+
+
+
 https://www.reuters.com/article/us-singapore-election-succession/singapore-ruling-party-stung-by-poll-setback-faces-succession-questions-idUSKCN24C09B
 
 
@@ -303,15 +385,24 @@ https://www.reuters.com/article/us-singapore-election-succession/singapore-rulin
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The parliament was dissolved due to an election that took place on 10 July 2020. However, there is no information  suggesting that the parliament was dissolved in reference to Covid-19. 
 
 *Sources*:
- https://www.bbc.com/news/world-asia-53471536
-
+ https://www.bbc.com/news/world-asia-53471536
+
+
+
 https://www.reuters.com/article/us-singapore-election-succession/singapore-ruling-party-stung-by-poll-setback-faces-succession-questions-idUSKCN24C09B
 
 
@@ -336,15 +427,25 @@ https://www.reuters.com/article/us-singapore-election-succession/singapore-rulin
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  There was no variation in the emergency measures that were implmented throughout the country. 
 
 *Sources*:
  https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20200513#pr34-
-
-
+
+
+
+
 https://www.moh.gov.sg/covid-19
 
 
@@ -369,10 +470,13 @@ https://www.moh.gov.sg/covid-19
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 3
+*Time period: Q2*: 3
 
  
-Time period: *Jul-Sep*: 3
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
 
  
 
@@ -430,10 +534,13 @@ https://www.straitstimes.com/singapore/coronavirus-mom-says-maids-can-soon-spend
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -465,7 +572,15 @@ Time period: *Jul-Sep*: 0
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  There are no indications that the emergency measures de-jure limit media freedom. 
@@ -483,15 +598,22 @@ Time period: *Jul-Sep*: 0
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  There are no indications that the emergency measures de-jure limit media freedom. 
@@ -509,15 +631,22 @@ Time period: *Jul-Sep*: 0
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  There are no indications that the emergency measures de-jure limit media freedom. 
@@ -545,10 +674,13 @@ Time period: *Jul-Sep*: 0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -578,7 +710,7 @@ https://rsf.org/en/news/rsf-explains-why-singapores-anti-fake-news-bill-terrible
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -588,10 +720,13 @@ https://rsf.org/en/news/rsf-explains-why-singapores-anti-fake-news-bill-terrible
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -637,10 +772,13 @@ https://www.gov.sg/article/factually050720a
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -671,14 +809,17 @@ https://www.hrw.org/asia/singapore
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -712,10 +853,13 @@ https://www.hrw.org/asia/singapore
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -749,10 +893,13 @@ https://www.hrw.org/asia/singapore
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -788,10 +935,13 @@ https://www.hrw.org/asia/singapore
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -830,10 +980,13 @@ https://www.hrw.org/asia/singapore
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -857,7 +1010,7 @@ https://www.hrw.org/asia/singapore
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -867,10 +1020,13 @@ https://www.hrw.org/asia/singapore
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -883,29 +1039,3 @@ Time period: *Jul-Sep*: 0
 https://www.amnesty.org/en/countries/asia-and-the-pacific/singapore/
 
 https://www.hrw.org/asia/singapore
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

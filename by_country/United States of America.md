@@ -1,9 +1,6 @@
 # United States of America 
 
 
-Time 2020-09-10 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-10
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,16 +25,23 @@ Time 2020-09-10
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  The US government made a declaration under the National Emergency Act, stating that "the COVID-19 outbreak in the United States constitutes a national emergency". Consequently, this is regarded a declaration of state of emergency, within the existing legal framework. 
 
 *Sources*:
- https://www.whitehouse.gov/presidential-actions/proclamation-declaring-national-emergency-concerning-novel-coronavirus-disease-covid-19-outbreak/
-https://www.fema.gov/news-release/2020/03/13/covid-19-emergency-declaration
-https://www.cms.gov/newsroom/press-releases/cms-takes-action-nationwide-aggressively-respond-coronavirus-national-emergency
-
+ https://www.whitehouse.gov/presidential-actions/proclamation-declaring-national-emergency-concerning-novel-coronavirus-disease-covid-19-outbreak/
+https://www.fema.gov/news-release/2020/03/13/covid-19-emergency-declaration
+https://www.cms.gov/newsroom/press-releases/cms-takes-action-nationwide-aggressively-respond-coronavirus-national-emergency
 
 
 
@@ -56,7 +60,15 @@ https://www.cms.gov/newsroom/press-releases/cms-takes-action-nationwide-aggressi
 *Scale*: Character string.
 
  
-*Answer*: National Emergency Act 
+*Time period: Q2*: National Emergency Act
+
+ 
+*Time period: Q3*: National Emergency Act
+
+ 
+*Time period: Q4*: National Emergency Act
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -81,7 +93,15 @@ https://www.cms.gov/newsroom/press-releases/cms-takes-action-nationwide-aggressi
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-13 
+*Time period: Q2*: 2020-03-13
+
+ 
+*Time period: Q3*: 2020-03-13
+
+ 
+*Time period: Q4*: 2020-03-13
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -106,8 +126,15 @@ https://www.cms.gov/newsroom/press-releases/cms-takes-action-nationwide-aggressi
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Implementation of legal instrument has not ended by time of coding. 
@@ -135,7 +162,15 @@ https://www.cms.gov/newsroom/press-releases/cms-takes-action-nationwide-aggressi
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No time limit set on the national emergency. 
@@ -153,15 +188,22 @@ https://www.cms.gov/newsroom/press-releases/cms-takes-action-nationwide-aggressi
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No time limit set on the national emergency. 
@@ -179,7 +221,7 @@ https://www.cms.gov/newsroom/press-releases/cms-takes-action-nationwide-aggressi
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -189,7 +231,15 @@ https://www.cms.gov/newsroom/press-releases/cms-takes-action-nationwide-aggressi
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The National Emergency Act states that: "With respect to Acts of Congress authorizing the exercise, during the period of a national emergency, of any special or extraordinary power, the President is authorized to declare such national emergency." The President therefore needs no approval from Congress to declare a national emergency. 
@@ -217,13 +267,21 @@ https://www.cms.gov/newsroom/press-releases/cms-takes-action-nationwide-aggressi
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Congress was not involved in declaring the national emergency. 
 
 *Sources*:
- https://uscode.house.gov/view.xhtml?path=/prelim@title50/chapter34&edition=prelim
+ https://uscode.house.gov/view.xhtml?path=/prelim@title50/chapter34&edition=prelim
 https://www.whitehouse.gov/presidential-actions/proclamation-declaring-national-emergency-concerning-novel-coronavirus-disease-covid-19-outbreak/
 
 
@@ -244,21 +302,28 @@ https://www.whitehouse.gov/presidential-actions/proclamation-declaring-national-
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The National Emergency Act, or related emergency measures taken such as under the Stafford Act and Public Health Service Act, do not provide the executive any additional lawmaking power, nor does it limit the legislatures lawmaking role. The National Emergency Act grants the executive access to a number of emergency authority statutes that can be activated.  Consequently, only already existing statues are made available, not the capacity to without the legislature create new ones.
- 
+ The National Emergency Act, or related emergency measures taken such as under the Stafford Act and Public Health Service Act, do not provide the executive any additional lawmaking power, nor does it limit the legislatures lawmaking role. The National Emergency Act grants the executive access to a number of emergency authority statutes that can be activated. Consequently, only already existing statues are made available, not the capacity to without the legislature create new ones. 
 
 *Sources*:
- https://uscode.house.gov/view.xhtml?path=/prelim@title50/chapter34&edition=prelim
-https://www.whitehouse.gov/presidential-actions/proclamation-declaring-national-emergency-concerning-novel-coronavirus-disease-covid-19-outbreak/
+ https://uscode.house.gov/view.xhtml?path=/prelim@title50/chapter34&edition=prelim
+https://www.whitehouse.gov/presidential-actions/proclamation-declaring-national-emergency-concerning-novel-coronavirus-disease-covid-19-outbreak/
 https://www.nytimes.com/2020/03/13/us/politics/coronavirus-national-emergency.html
 
 
@@ -271,15 +336,22 @@ https://www.nytimes.com/2020/03/13/us/politics/coronavirus-national-emergency.ht
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -304,8 +376,15 @@ https://www.nytimes.com/2020/03/13/us/politics/coronavirus-national-emergency.ht
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -335,16 +414,21 @@ https://www.nytimes.com/2020/03/13/us/politics/coronavirus-national-emergency.ht
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 3 
+*Time period: Q2*: 3
 
-*Comments*:
- The national emergency does not  determine how states respond to Covid-19, it opens up a lot of federal leeway to aid states and territories in differing ways and allows federal agencies to contribute to for example  health care and emergency actions. So it has been up to the states to themselves determine their response to the pandemic.  
-The states differ in terms of what and how many emergency measures and Covid-19 related regulation they have enacted, as is  shown both by the National Governors Associations compilation of policy and legislation in all states and territories, and  in the National Conference of State Legislatures (an interest organisation for legislatures) compiling of data on state legislation during the pandemic.
-While a lot of states have taken similar or the same actions on a number of areas, the overall difference - both in content and in the timing of initiating restricitons and beginning to lift them - lead the overall interpretation of the subnational variation to be coded as 3.
+ 
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
+
  
 
+*Comments*:
+ The national emergency does not  determine how states respond to Covid-19, it opens up a lot of federal leeway to aid states and territories in differing ways and allows federal agencies to contribute to for example  health care and emergency actions. So it has been up to the states to themselves determine their response to the pandemic.  The states differ in terms of what and how many emergency measures and Covid-19 related regulation they have enacted, as is  shown both by the National Governors Associations compilation of policy and legislation in all states and territories, and  in the National Conference of State Legislatures (an interest organisation for legislatures) compiling of data on state legislation during the pandemic. While a lot of states have taken similar or the same actions on a number of areas, the overall difference - both in content and in the timing of initiating restricitons and beginning to lift them - lead the overall interpretation of the subnational variation to be coded as 3. 
+
 *Sources*:
- https://www.nga.org/coronavirus/#states
+ https://www.nga.org/coronavirus/#states
 https://www.ncsl.org/research/health/state-action-on-coronavirus-covid-19.aspx
 
 
@@ -369,10 +453,13 @@ https://www.ncsl.org/research/health/state-action-on-coronavirus-covid-19.aspx
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -380,7 +467,7 @@ Time period: *Jul-Sep*: 0
  Human Rights Watch and Amnesty International have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9456
+ https://www.hrw.org/news?country[]=9456
 https://www.amnesty.org/en/search/?country=38334&resourceType=newsarticle&sort=date
 
 
@@ -410,10 +497,13 @@ https://www.amnesty.org/en/search/?country=38334&resourceType=newsarticle&sort=d
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -421,7 +511,7 @@ Time period: *Jul-Sep*: 0
  Human Rights Watch and Amnesty International have not reported any violations of non-derogable rights within the response to Covid-19, and no other indications of such violations has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9456
+ https://www.hrw.org/news?country[]=9456
 https://www.amnesty.org/en/search/?country=38334&resourceType=newsarticle&sort=date
 
 
@@ -446,7 +536,15 @@ https://www.amnesty.org/en/search/?country=38334&resourceType=newsarticle&sort=d
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No, no restrictions are imposed on the media in the proclamation of a national emergency, or the actions taken under it. 
@@ -464,15 +562,22 @@ https://www.amnesty.org/en/search/?country=38334&resourceType=newsarticle&sort=d
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de-jure limits on media freedom. 
@@ -490,15 +595,22 @@ https://www.amnesty.org/en/search/?country=38334&resourceType=newsarticle&sort=d
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de-jure limits on media freedom. 
@@ -526,10 +638,13 @@ https://www.amnesty.org/en/search/?country=38334&resourceType=newsarticle&sort=d
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -537,12 +652,11 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in the U.S,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://www.google.com/search?client=safari&rls=en&q=restrcting+press+freedom+U.S.+Covid-19&ie=UTF-8&oe=UTF-8
-https://pressfreedomtracker.us
-https://ipi.media/ipi-condemns-attacks-on-journalists-covering-u-s-protests-unrest/
-https://ipi.media/?s=United+States+of+America
-https://rsf.org/en/news/us-rsf-calls-trump-administration-allow-free-flow-information-coronavirus
-
+ https://www.google.com/search?client=safari&rls=en&q=restrcting+press+freedom+U.S.+Covid-19&ie=UTF-8&oe=UTF-8
+https://pressfreedomtracker.us
+https://ipi.media/ipi-condemns-attacks-on-journalists-covering-u-s-protests-unrest/
+https://ipi.media/?s=United+States+of+America
+https://rsf.org/en/news/us-rsf-calls-trump-administration-allow-free-flow-information-coronavirus
 
 
 
@@ -554,7 +668,7 @@ https://rsf.org/en/news/us-rsf-calls-trump-administration-allow-free-flow-inform
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -564,10 +678,13 @@ https://rsf.org/en/news/us-rsf-calls-trump-administration-allow-free-flow-inform
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -575,12 +692,11 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in the U.S,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://www.google.com/search?client=safari&rls=en&q=restrcting+press+freedom+U.S.+Covid-19&ie=UTF-8&oe=UTF-8
-https://pressfreedomtracker.us
-https://ipi.media/ipi-condemns-attacks-on-journalists-covering-u-s-protests-unrest/
-https://ipi.media/?s=United+States+of+America
-https://rsf.org/en/news/us-rsf-calls-trump-administration-allow-free-flow-information-coronavirus
-
+ https://www.google.com/search?client=safari&rls=en&q=restrcting+press+freedom+U.S.+Covid-19&ie=UTF-8&oe=UTF-8
+https://pressfreedomtracker.us
+https://ipi.media/ipi-condemns-attacks-on-journalists-covering-u-s-protests-unrest/
+https://ipi.media/?s=United+States+of+America
+https://rsf.org/en/news/us-rsf-calls-trump-administration-allow-free-flow-information-coronavirus
 
 
 
@@ -602,10 +718,13 @@ https://rsf.org/en/news/us-rsf-calls-trump-administration-allow-free-flow-inform
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -613,12 +732,11 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news with reference to the pandemic. 
 
 *Sources*:
- https://www.google.com/search?client=safari&rls=en&q=restrcting+press+freedom+U.S.+Covid-19&ie=UTF-8&oe=UTF-8
-https://pressfreedomtracker.us
-https://ipi.media/ipi-condemns-attacks-on-journalists-covering-u-s-protests-unrest/
-https://ipi.media/?s=United+States+of+America
-https://rsf.org/en/news/us-rsf-calls-trump-administration-allow-free-flow-information-coronavirus
-
+ https://www.google.com/search?client=safari&rls=en&q=restrcting+press+freedom+U.S.+Covid-19&ie=UTF-8&oe=UTF-8
+https://pressfreedomtracker.us
+https://ipi.media/ipi-condemns-attacks-on-journalists-covering-u-s-protests-unrest/
+https://ipi.media/?s=United+States+of+America
+https://rsf.org/en/news/us-rsf-calls-trump-administration-allow-free-flow-information-coronavirus
 
 
 
@@ -637,23 +755,34 @@ https://rsf.org/en/news/us-rsf-calls-trump-administration-allow-free-flow-inform
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Reporters without borders report on  a number of occurences, initially reported in varying media outlets in the U.S., where journalists have been denied access to information and public officials having been prohibited to talk to media from government officials.  
-There consequently seem to be occasional cases of limiting access to Covid-19 related information, although this is not systematic. There has been less reporting on this found in the second period, but as there’s no indication of there being improvement in access to information, this is coded 1 for both periods. 
+ While Dr. Anthony Fauci, the director of the National Institute of Allergy and Infectious Diseases, has continued to provide regular updates and information to the public, President Donald Trump, the White House Covid-19 task force, and the White House press secretary have been hostile toward the media, often refusing to answer their questions, limiting access to press briefings, and holding such briefings infrequently.  In May 2020, for example, President Trump abruptly ended a press briefing, after refusing to answer questions about Covid-19 testing - calling it a "nasty question" (1). In April 2020, President Trump refused to answer any questions at a press briefing where he suggested people should use disinfectants and light to treat Covid-19 (2). The White House Covid-19 task force led by Vice President Mike Pence did not brief the press for four months. When they did in November, they refused to take any questions (3). Likewise, in the regular White House press briefings, the Press Secretary often refuses to call on reporters critical of the government - calling them "activists" (4). Reporters without borders report on  a number of occurences, initially reported in varying media outlets in the U.S., where journalists have been denied access to information and public officials having been prohibited to talk to media from government officials (5). 
 
 *Sources*:
- https://rsf.org/en/news/us-rsf-calls-trump-administration-allow-free-flow-information-coronavirus
+ https://www.cnbc.com/2020/05/11/coronavirus-trump-ends-press-conference-after-reporters-challenge-him-on-testing.html
+(1)
+https://www.nbcnews.com/politics/donald-trump/trump-skips-questions-coronavirus-briefing-after-disinfectant-debacle-n1192341
+(2)
+https://www.youtube.com/watch?v=oSXmBTeMIJE
+(3)
+https://www.boston.com/news/politics/2020/11/20/kayleigh-mcenany-cnn-kaitlan-collins-activist-white-house-press-briefing
+(4)
+https://rsf.org/en/news/us-rsf-calls-trump-administration-allow-free-flow-information-coronavirus
+(5)
 
 
 
@@ -675,20 +804,22 @@ There consequently seem to be occasional cases of limiting access to Covid-19 re
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- There are numerous instances in which the President and his colleagues have verbally harrassed journalists and news agencies. Reporters without borders have published two articles on this, and the verbal harassment of individual journalists and news agencies are widely covered in the press in general, especially those stemming from the President. However, reports of this have only been found in the first period, and this is therefore only coded 1 for this period.
-Note also that some journalists have been subject to verbal and physical harassment when covering Black Lives Matter-protests, but these are not regarded here as they are not directly linked to Covid-19. 
+ There are numerous instances in which the President and his colleagues have verbally harrassed journalists and news agencies. Reporters without borders have published two articles on this, and the verbal harassment of individual journalists and news agencies are widely covered in the press in general, especially those stemming from the President. However, reports of this have only been found in the first period, and this is therefore only coded 1 for this period. Note also that some journalists have been subject to verbal and physical harassment when covering Black Lives Matter-protests and election protests, but these are not regarded here as they are not directly linked to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/news/rsf-calls-trump-end-attacks-journalists-encourages-news-outlets-assess-coverage-covid-19-briefings
-https://rsf.org/en/news/us-rsf-calls-trump-administration-allow-free-flow-information-coronavirus
+ https://rsf.org/en/news/rsf-calls-trump-end-attacks-journalists-encourages-news-outlets-assess-coverage-covid-19-briefings
+https://rsf.org/en/news/us-rsf-calls-trump-administration-allow-free-flow-information-coronavirus
 https://cpj.org/2020/08/charges-remain-against-journalists-arrested-during-george-floyd-protests/
 
 
@@ -711,20 +842,22 @@ https://cpj.org/2020/08/charges-remain-against-journalists-arrested-during-georg
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No instances of physical harassment of reporters covering covid-19 has been found, and this is therefore coded 0.
-Note that some journalists have been subject to verbal and physical harassment when covering Black Lives Matter-protests, but these are not regarded here as they are not directly linked to Covid-19. 
+ No instances of physical harassment of reporters covering covid-19 has been found, and this is therefore coded 0. Note that some journalists have been subject to verbal and physical harassment when covering Black Lives Matter-protests and election protests, but these are not regarded here as they are not directly linked to Covid-19. 
 
 *Sources*:
- https://pressfreedomtracker.us
-https://pressfreedomtracker.us/physical-attack/?endpage=4
+ https://pressfreedomtracker.us
+https://pressfreedomtracker.us/physical-attack/?endpage=4
 https://cpj.org/2020/08/charges-remain-against-journalists-arrested-during-george-floyd-protests/
 
 
@@ -749,23 +882,24 @@ https://cpj.org/2020/08/charges-remain-against-journalists-arrested-during-georg
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
- The Atlantic has provides a list inaccurate statements about Covid-19 by the President (with reference to where the original statement was made), and why they are wrong. For example, the President has stated that it would disappear come warmer weather, that it would simply disappear due to a miracle ("One day it's like a miracle - it will simply disappear"), that  vaccines will be available much earlier than any other sources claim, that antimalaria medicine is an effective treatment for the virus, that injecting disinfectants could be used as a treatment against the virus, and that many medical staff are using antimalaria medicine/injecting disinfectants as a way of protecting themselves against the virus. 
-Many of the claims have also been repeated, and when questioned, the president have defended many of them. The disinformation has also continued in July and August, although at a perhaps somewhat lower rate. 
-However, government agencies and agents, most prominently the CDC, have also provided information fully in accordance with WHO, and have also contested many of  the presidents claims. It can therefore not be regarded a systematic dissemination of information about the virus from the government and its agencies as a whole, but rather a mixed and conflicting message where the president often has provided information on the virus that is not in accordance with WHO. The variable is therefore coded as 2 for both periods. 
+ The Atlantic has provides a list inaccurate statements about Covid-19 by the President (with reference to where the original statement was made), and why they are wrong. For example, the President has stated that it would disappear come warmer weather, that it would simply disappear due to a miracle ("One day it's like a miracle - it will simply disappear"), that  vaccines will be available much earlier than any other sources claim, that antimalaria medicine is an effective treatment for the virus, that injecting disinfectants could be used as a treatment against the virus, that many medical staff are using antimalaria medicine/injecting disinfectants as a way of protecting themselves against the virus, and that media outlets were overblowing fears about the virus to interfere with the election. Many of the claims have also been repeated, and when questioned, the president has defended many of them. However, government agencies and agents, most prominently the CDC, have also provided information fully in accordance with WHO, and have also contested many of  the presidents claims. It can therefore not be regarded a systematic dissemination of information about the virus from the government and its agencies as a whole, but rather a mixed and conflicting message where the president often has provided information on the virus that is not in accordance with WHO. The variable is therefore coded as 2 for all periods. 
 
 *Sources*:
- https://www.theatlantic.com/politics/archive/2020/05/trumps-lies-about-coronavirus/608647/
-https://www.bbc.com/news/world-us-canada-52493073
-https://www.theguardian.com/us-news/2020/mar/28/trump-coronavirus-misleading-claims
-https://www.theatlantic.com/politics/archive/2020/08/trumps-lies-about-coronavirus/608647/
+ https://www.theatlantic.com/politics/archive/2020/05/trumps-lies-about-coronavirus/608647/
+https://www.bbc.com/news/world-us-canada-52493073
+https://www.theguardian.com/us-news/2020/mar/28/trump-coronavirus-misleading-claims
+https://www.theatlantic.com/politics/archive/2020/08/trumps-lies-about-coronavirus/608647/
 https://www.cdc.gov/coronavirus/2019-ncov/index.html
 
 
@@ -790,18 +924,21 @@ https://www.cdc.gov/coronavirus/2019-ncov/index.html
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- While there have been numerous incidents of police violence in the US since March, no reports have been found that any of these are linked to enforcing Covid-19 restrictions, or that any other use of excessive force has occurred within the Covid-19 emergency measures. This is therefore coded as 0 for both periods. 
+ While there have been numerous incidents of police violence in the US since March, no reports have been found that any of these are linked to enforcing Covid-19 restrictions, or that any other use of excessive force has occurred within the Covid-19 emergency measures. This is therefore coded as 0 for all periods. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9456
+ https://www.hrw.org/news?country[]=9456
 https://www.amnesty.org/en/search/?q=&sort=date&country=38334&resourceType=newsarticle
 
 
@@ -814,7 +951,7 @@ https://www.amnesty.org/en/search/?q=&sort=date&country=38334&resourceType=newsa
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -824,42 +961,20 @@ https://www.amnesty.org/en/search/?q=&sort=date&country=38334&resourceType=newsa
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- FEMA, who is in charge of managing and overseeing a lot of the national emergency, has not deployed the military or used the military to enforce any confinement measures. However, states have the opportunity to use the National Guard to enforse such measures, and some states have. But these are not part of the military branch per se, as far as I've understood it. 
-(See the rubric "is FEMA deploying the military?" in the source) 
+ FEMA, who is in charge of managing and overseeing a lot of the national emergency, has not deployed the military or used the military to enforce any confinement measures. However, states have the opportunity to use the National Guard to enforse such measures, and some states have (See the rubric "is FEMA deploying the military?" in the source). The National Guard is not, however, the army organization responsible for external security. Governors can call the National Guard into action during local or statewide emergencies, such as storms, fires, earthquakes or civil disturbances. 
 
 *Sources*:
  https://www.fema.gov/coronavirus/rumor-control
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*
+https://www.defense.gov/Explore/Spotlight/Coronavirus/
+https://www.nationalguard.mil/About-the-Guard/Army-National-Guard/About-Us/

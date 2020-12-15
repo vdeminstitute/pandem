@@ -1,9 +1,6 @@
 # Croatia 
 
 
-Time 2020-09-03 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-03
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,26 +25,34 @@ Time 2020-09-03
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- Emergency measures (suspension of social gatherings, closing of restaurants, closing of non-essential stores, border closing etc.) were announced on 19 March 2020, without declaring a state of emergency or disaster. On 21 March 2020, the Civil Protection Headquarters announced a prohibition of gathering in public places for 30 days. On 23 March 2020, the Civil Protection Headquarters announced measures that  "prohibits individuals from leaving their place of residence without a special permit, to be issued for very limited cases"  ("Odluka o zabrani napuštanja mjesta prebivališta i stalnog boravka u Republici Hrvatskoj"). All the measures are new decisions based on existing legislation (Article 22a of the Civil Protection Act). Since the decision from 23 March 2020 constitutes the largest "state of exception", it is considered the primary legal instrument.
+ Croatia did not declare a state of emergency or disaster, and instead used existing legislation (the Civil Protection Act, the Law on Prevention of Infectious Diseases) to implement emergency measures, announced by decisions of the The Civil Protection Authority. The first measures under this legal instrument are from 19 March 2020. The same legal instrument was used for all time periods (for example, March-June: decision to limit social gatherings from 19 March , July-September: decision to limit the working hours of night clubs from 10 July, October-December: decision on restricting social gatherings from 25 October).
  
 
 *Sources*:
- https://www.koronavirus.hr/najnovije/odluka-o-mjeri-strogog-ogranicavanja-zadrzavanja-na-ulicama-i-drugim-javnim-mjestima/260
-https://civilna-zastita.gov.hr/UserDocsImages/CIVILNA%20ZA%C5%A0TITA/PDF_ZA%20WEB/Odluka%20o%20zabrani%20napu%C5%A1tanja%20prebivali%C5%A1ta....pdf
+ https://www.koronavirus.hr/najnovije/odluke-stozera-civilne-zastite-za-sprjecavanje-sirenja-zaraze-novim-koronavirusom/323
 
-
+https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
 https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-april-2020_en.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/hr_report_on_coronavirus_pandemic_july_2020.pdf
-https://www.icnl.org/covid19tracker/?location=29&issue=&date=&type=
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B344%5D&covid19=1
-https://narodne-novine.nn.hr/clanci/sluzbeni/2020_03_34_734.html
-https://narodne-novine.nn.hr/clanci/sluzbeni/2020_03_35_737.html
-https://narodne-novine.nn.hr/clanci/sluzbeni/2020_03_35_737.html
-https://www.bbc.com/news/world-europe-52491204
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+
+
+https://civilna-zastita.gov.hr/UserDocsImages/CIVILNA%20ZA%C5%A0TITA/PDF_ZA%20WEB/Odluka%20-%20okupljanja.pdf
+https://www.koronavirus.hr/najnovije/novo-radno-vrijeme-nocnih-klubova-barova-kafica/762
+https://fra.europa.eu/sites/default/files/fra_uploads/hr_report_on_coronavirus_pandemic_november_2020.pdf
+
+
+
+
 
 
 
@@ -66,15 +71,22 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
 *Scale*: Character string.
 
  
-*Answer*: Zakon o sustavu civilne zaštite 
+*Time period: Q2*: Zakon o sustavu civilne zaštite
+
+ 
+*Time period: Q3*: Zakon o sustavu civilne zaštite
+
+ 
+*Time period: Q4*: Zakon o sustavu civilne zaštite
+
+ 
 
 *Comments*:
  According to Article 22a of the Civil Protection Act (Zakon o sustavu civilne zaštite), the Civil Protection Headquarters can take measures to mitigate unforseen circumstances. 
 
 *Sources*:
- https://vlada.gov.hr/UserDocsImages//Vijesti/2020/03%20o%C5%BEujak/18%20o%C5%BEujka//Odluka%20-%20mjere%20ograni%C4%8Davanja%20dru%C5%A1tvenih%20okupljanja,%20rada%20trgovina.pdf
-https://vlada.gov.hr/vijesti/od-ponoci-na-snazi-odluke-stozera-civilne-zastite-rh-u-svrhu-sprjecavanja-sirenja-zaraze-novim-koronavirusom/29026
-https://www.zakon.hr/z/809/Zakon-o-sustavu-civilne-za%C5%A1tite
+ https://www.zakon.hr/z/809/Zakon-o-sustavu-civilne-za%C5%A1tite
+https://www.zakon.hr/z/190/Zakon-o-zdravstvenoj-za%C5%A1titi
 
 
 
@@ -93,13 +105,22 @@ https://www.zakon.hr/z/809/Zakon-o-sustavu-civilne-za%C5%A1tite
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-23 
+*Time period: Q2*: 2020-03-19
+
+ 
+*Time period: Q3*: 2020-03-19
+
+ 
+*Time period: Q4*: 2020-03-19
+
+ 
 
 *Comments*:
-*No comment provided* 
+ On 19 March 2020, the Civil Protection Authority issues a decision on limitations on social gatherings, sports and cultural events. 
 
 *Sources*:
- https://narodne-novine.nn.hr/clanci/sluzbeni/2020_03_35_737.html
+ https://www.koronavirus.hr/odluka-o-mjerama-ogranicavanja-drustvenih-okupljanja-rada-u-trgovini-usluznih-djelatnosti-i-odrzavanja-sportskih-i-kulturnih-dogadjanja/180
+https://narodne-novine.nn.hr/clanci/sluzbeni/2020_03_32_713.html
 
 
 
@@ -118,13 +139,21 @@ https://www.zakon.hr/z/809/Zakon-o-sustavu-civilne-za%C5%A1tite
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-11 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- "Decision on the prohibition of leaving the place of residence and permanent residence in the Republic of Croatia" from 23 March 2020 was lifted on 11 May 2020. 
+ As some measures taken under the Civil Protection Act are still in place, the implementation of the legal instrument has not ended at the time of coding. For example, the measures limiting public gatherings are in place until 15 December. 
 
 *Sources*:
- https://narodne-novine.nn.hr/clanci/sluzbeni/2020_05_56_1135.html
+ https://www.koronavirus.hr/odluka-o-nuznim-epidemioloskim-mjerama-kojima-se-ogranicavaju-okupljanja/843
 
 
 
@@ -146,10 +175,20 @@ https://www.zakon.hr/z/809/Zakon-o-sustavu-civilne-za%C5%A1tite
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Decisions by the Civil Protection Headquarters from 19 and 21 March (prohibition of gathering in public places) have a 30-day time limit. However, the decision by the Civil Protection Headquarters from 23 March (which "prohibits individuals from leaving their place of residence without a special permit, to be issued for very limited cases", "Odluka o zabrani napuštanja mjesta prebivališta i stalnog boravka u Republici Hrvatskoj") does not mention a time limit. I also did not find a time limit mentioned in press conferences or local media outlets. Moreover, an amendment to 23 March decision from 18 April explicitly mentions that "the necessary measure prohibiting leaving the place of residence and permanent residence in the Republic of Croatia shall be applied as long as there is a serious risk of transmission of COVID-19 disease, ie until this Decision is repealed. " Although the decision was lifted on 11 May 2020, emlimit is coded as 0 since there was no time limit at the time the decision was passed. 
+ March-June: Decisions by the Civil Protection Headquarters from 19 and 21 March (prohibition of gathering in public places) have a 30-day time limit. However, the decision by the Civil Protection Headquarters from 23 March (which "prohibits individuals from leaving their place of residence without a special permit, to be issued for very limited cases", "Odluka o zabrani napuštanja mjesta prebivališta i stalnog boravka u Republici Hrvatskoj") does not mention a time limit. I also did not find a time limit mentioned in press conferences or local media outlets. Moreover, an amendment to 23 March decision from 18 April explicitly mentions that "the necessary measure prohibiting leaving the place of residence and permanent residence in the Republic of Croatia shall be applied as long as there is a serious risk of transmission of COVID-19 disease, ie until this Decision is repealed. " Although the decision was lifted on 11 May 2020, emlimit is coded as 0 since there was no time limit at the time the decision was passed and there is no explicit time limit in the legal instrument (the Civil Protection Act).
+
+July-September, October-December: all measures taken under the Civil Protection act have a time limit. 
 
 *Sources*:
  https://civilna-zastita.gov.hr/UserDocsImages/CIVILNA%20ZA%C5%A0TITA/PDF_ZA%20WEB/Odluka%20o%20zabrani%20napu%C5%A1tanja%20prebivali%C5%A1ta....pdf
@@ -158,6 +197,11 @@ https://www.koronavirus.hr/odluka-o-zabrani-napustanja-mjesta-prebivalista-i-sta
 https://vlada.gov.hr/vijesti/od-ponoci-na-snazi-odluke-stozera-civilne-zastite-rh-u-svrhu-sprjecavanja-sirenja-zaraze-novim-koronavirusom/29026
 https://www.koronavirus.hr/najnovije/odluka-o-dopuni-odluke-o-zabrani-napustanja-mjesta-prebivalista-i-stalnog-boravka-u-rh-475/475
 https://civilna-zastita.gov.hr/UserDocsImages/CIVILNA%20ZA%C5%A0TITA/PDF_ZA%20WEB/Izmjena%20Odluke%20-%20zabrana%20napu%C5%A1tanja....pdf
+https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+
+
+https://www.koronavirus.hr/najnovije/odluke-stozera-civilne-zastite-za-sprjecavanje-sirenja-zaraze-novim-koronavirusom/323
+
 
 
 
@@ -169,18 +213,29 @@ https://civilna-zastita.gov.hr/UserDocsImages/CIVILNA%20ZA%C5%A0TITA/PDF_ZA%20WE
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 2020-10-07
+
+ 
+*Time period: Q4*: 2020-12-15
+
+ 
 
 *Comments*:
- Although the most restrictive measure ("prohibition of leaving the place of residence and permanent residence") was lifted on 11 May 2020, not coded since there was no end limit at the time of passing. 
+ March-June: Although the decision by the Civil Protection Headquarters from 23 March was lifted on 11 May 2020, emlimitdate is left blank since there was no end limit at the time of passing.
+
+July-September: the final provision during this time period was due to expire on 7 October (Decision on limiting the opening hours of night clubs and bars from 22 September 2020).
+
+October-December: the final provision during this time period is due to expire on 15 December 2020 (Decision on  restricting social gatherings from 22 November 2020) 
 
 *Sources*:
  https://civilna-zastita.gov.hr/UserDocsImages/CIVILNA%20ZA%C5%A0TITA/PDF_ZA%20WEB/Odluka%20o%20zabrani%20napu%C5%A1tanja%20prebivali%C5%A1ta....pdf
@@ -189,6 +244,13 @@ https://www.koronavirus.hr/odluka-o-zabrani-napustanja-mjesta-prebivalista-i-sta
 https://vlada.gov.hr/vijesti/od-ponoci-na-snazi-odluke-stozera-civilne-zastite-rh-u-svrhu-sprjecavanja-sirenja-zaraze-novim-koronavirusom/29026
 https://www.koronavirus.hr/najnovije/odluka-o-dopuni-odluke-o-zabrani-napustanja-mjesta-prebivalista-i-stalnog-boravka-u-rh-475/475
 https://civilna-zastita.gov.hr/UserDocsImages/CIVILNA%20ZA%C5%A0TITA/PDF_ZA%20WEB/Izmjena%20Odluke%20-%20zabrana%20napu%C5%A1tanja....pdf
+
+https://www.koronavirus.hr/odluka-o-nuznim-epidemioloskim-mjerama-kojima-se-ogranicavaju-okupljanja/843
+
+https://civilna-zastita.gov.hr/UserDocsImages/CIVILNA%20ZA%C5%A0TITA/PDF_ZA%20WEB/Odluka%20-%20Barovi%20-%203.%20izmjena.pdf
+https://civilna-zastita.gov.hr/UserDocsImages/CIVILNA%20ZA%C5%A0TITA/PDF_ZA%20WEB/Odluka%20-%20okupljanja%20-%201.%20izmjena.pdf
+
+
 
 
 
@@ -200,7 +262,7 @@ https://civilna-zastita.gov.hr/UserDocsImages/CIVILNA%20ZA%C5%A0TITA/PDF_ZA%20WE
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -210,7 +272,15 @@ https://civilna-zastita.gov.hr/UserDocsImages/CIVILNA%20ZA%C5%A0TITA/PDF_ZA%20WE
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Article 22a of the Civil Protection Act has no provisions for legislature approval. 
@@ -238,7 +308,15 @@ https://civilna-zastita.gov.hr/UserDocsImages/CIVILNA%20ZA%C5%A0TITA/PDF_ZA%20WE
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Not required by law and no evidence of legislature's approval on its website. 
@@ -266,17 +344,25 @@ https://www.sabor.hr/hr/press/priopcenja/sabor-izmijenio-svoj-poslovnik
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- The Civil Protections Headquarters was given the power to decide on emergency measures related to covid-19, which is coded as 2 both during March-June and July-September periods. The parliament limited its meetings and adopted measures for working during the pandemic (e.g. remote meetings, social distancing, sanitation, etc.) and it voted to dissolve itself on 18 May 2020, in preparation for elections on 5 July 2020. The first sitting of the new parliament took place on 21 July 2020. 
-
+ The Civil Protections Headquarters was given the power to decide on emergency measures related to covid-19. The parliament limited its meetings and adopted measures for working during the pandemic (e.g. remote meetings, social distancing, sanitation, etc.) and it voted to dissolve itself on 18 May 2020, in preparation for elections on 5 July 2020. The first sitting of the new parliament took place on 21 July 2020. 
+
 According to OSCE report (p.71), the measures were addressed retroactively by the parliament: "accelerated legislative processes have also been used to adopt legislative acts in order to retroactively provide a legal basis for government action already undertaken or being implemented" and "the Civil Protection Authority adopted quarantines measures and movement restrictions based on legislation that says such measures should be adopted by the Minister of Health. The situation was retroactively addressed by Parliament, potentially contravening the general prohibition of retroactive effect." 
 
 *Sources*:
@@ -285,11 +371,11 @@ IDEA
 Parliaments
 during
 the
-pandemic
+pandemic
 https://vlada.gov.hr/vijesti/od-ponoci-na-snazi-odluke-stozera-civilne-zastite-rh-u-svrhu-sprjecavanja-sirenja-zaraze-novim-koronavirusom/29026
-
-https://www.sabor.hr/en/press/news/9th-croatian-parliament-dissolved
-https://www.sabor.hr/en/press/news/first-sitting-new-parliament-next-wednesday-10-am
+
+https://www.sabor.hr/en/press/news/9th-croatian-parliament-dissolved
+https://www.sabor.hr/en/press/news/first-sitting-new-parliament-next-wednesday-10-am
 https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 
 
@@ -302,15 +388,22 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -335,8 +428,15 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -366,15 +466,25 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Uniform measures throughout the country 
+ Uniform measures throughout the country in the March-June period. In July-September, October-December, the measures different for a few sub-national areas. 
 
 *Sources*:
  https://vlada.gov.hr/vijesti/od-ponoci-na-snazi-odluke-stozera-civilne-zastite-rh-u-svrhu-sprjecavanja-sirenja-zaraze-novim-koronavirusom/29026
 https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-april-2020_en.pdf
 https://fra.europa.eu/sites/default/files/fra_uploads/hr_report_on_coronavirus_pandemic_july_2020.pdf
+
+https://www.koronavirus.hr/najnovije/odluke-stozera-civilne-zastite-za-sprjecavanje-sirenja-zaraze-novim-koronavirusom/323
 
 
 
@@ -398,10 +508,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/hr_report_on_coronavirus_p
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -414,6 +527,7 @@ https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-ap
 
 
 https://fra.europa.eu/sites/default/files/fra_uploads/hr_report_on_coronavirus_pandemic_july_2020.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/hr_report_-_covid-19_impact_on_roma_en.pdf
 
 
 
@@ -442,19 +556,27 @@ https://fra.europa.eu/sites/default/files/fra_uploads/hr_report_on_coronavirus_p
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- No measures violating non-derogable rights found 
+ According to the Guardian,  migrants at the Croatian border were "beaten and spray-painted with red crosses on their heads by Croatian police officers who said the treatment was the "cure against coronavirus"  in  May 2020 (The Guardian). Since then there have been ongoing allegations of "brutal beating, torture, humiliation and a case of sexual assault of men and children", which violates Freedom from torture and cruel/inhuman treatment (Article 7). Coded in all time periods since I found no indication that violations have stopped. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-april-2020_en.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/hr_report_on_coronavirus_pandemic_july_2020.pdf
+ https://www.theguardian.com/global-development/2020/may/28/they-made-crosses-on-our-heads-refugees-report-abuse-by-croatian-police
+https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25976&LangID=E
+https://www.amnesty.org/en/latest/news/2020/06/croatia-fresh-evidence-of-police-abuse-and-torture-of-migrants-and-asylumseekers/
+https://www.hrw.org/news/2020/10/29/violent-pushbacks-croatia-border-require-eu-action
+https://www.amnesty.org/en/latest/news/2020/06/croatia-prosecution-of-police-accused-of-beating-migrant-must-herald-end-of-cruel-practices-at-the-borders/
+https://www.amnesty.org/en/latest/news/2020/11/eu-inquiry-into-european-complicity-in-croatian-border-violence-against-migrants-and-refugees-significant/
+https://www.theguardian.com/global-development/2020/oct/21/croatian-police-accused-of-sickening-assaults-on-migrants-on-balkans-trail-bosnia
 
 
 
@@ -478,7 +600,15 @@ https://fra.europa.eu/sites/default/files/fra_uploads/hr_report_on_coronavirus_p
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The Electronic Media Council urged journalists to provide accurate information on covid-19 issued a warning that spreading misinformation related to covid-19 could be sanctioned. Coded as 0 since such measures are based on the Electronic Media Act (i.e. not emergency measures but existing legislation). 
@@ -497,15 +627,22 @@ https://www.aem.hr/nekategorizirano/upozorenje-vijeca-za-elektronicke-medije-svi
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -523,15 +660,22 @@ https://www.aem.hr/nekategorizirano/upozorenje-vijeca-za-elektronicke-medije-svi
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -559,10 +703,13 @@ https://www.aem.hr/nekategorizirano/upozorenje-vijeca-za-elektronicke-medije-svi
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -584,7 +731,7 @@ https://rsf.org/en/croatia
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -594,10 +741,13 @@ https://rsf.org/en/croatia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -629,10 +779,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-ap
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -661,14 +814,17 @@ https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-ap
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -700,10 +856,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-ap
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -735,10 +894,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-ap
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -770,10 +932,13 @@ Time period: *Jul-Sep*: 0
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -807,19 +972,27 @@ https://rsf.org/en/croatia
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Police violence towards migrants in May 2020 who were "beaten and spray-painted with red crosses on their heads by Croatian police officers who said the treatment was the "cure against coronavirus" (The Guardian). More severe cases of police violence are reported but seem not related to the enforcement of covid-19 measures (https://www.amnesty.org/en/latest/news/2020/06/croatia-fresh-evidence-of-police-abuse-and-torture-of-migrants-and-asylumseekers/).  I have not found any new information since the end of June 2020.  Assuming that further cases of police violence would be also reported in the media, I coded pomviol as 0 in July-September 2020 period since I found no such information. 
+ Police violence towards migrants in May 2020 who were "beaten and spray-painted with red crosses on their heads by Croatian police officers who said the treatment was the "cure against coronavirus" (The Guardian). Coded in all time periods because there are reports that violence towards migrants is ongoing in all time periods. 
 
 *Sources*:
  https://www.theguardian.com/global-development/2020/may/28/they-made-crosses-on-our-heads-refugees-report-abuse-by-croatian-police
 https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25976&LangID=E
+https://www.amnesty.org/en/latest/news/2020/06/croatia-fresh-evidence-of-police-abuse-and-torture-of-migrants-and-asylumseekers/
+https://www.hrw.org/news/2020/10/29/violent-pushbacks-croatia-border-require-eu-action
+https://www.amnesty.org/en/latest/news/2020/06/croatia-prosecution-of-police-accused-of-beating-migrant-must-herald-end-of-cruel-practices-at-the-borders/
+https://www.amnesty.org/en/latest/news/2020/11/eu-inquiry-into-european-complicity-in-croatian-border-violence-against-migrants-and-refugees-significant/
+https://www.theguardian.com/global-development/2020/oct/21/croatian-police-accused-of-sickening-assaults-on-migrants-on-balkans-trail-bosnia
 
 
 
@@ -831,7 +1004,7 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25976&LangID=E
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -841,10 +1014,13 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25976&LangID=E
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -853,29 +1029,3 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  http://euromil.org/armed-forces-and-covid-19/
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

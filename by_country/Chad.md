@@ -1,9 +1,6 @@
 # Chad 
 
 
-Time 2020-09-12 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-12
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,22 +25,31 @@ Time 2020-09-12
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  Constitution (2018) Articles 96, 97, 127, 130 (1)
 Order 044 of 1962 on the state of emergency (Ordonnance n° 44 du 27 octobre 1962 relative à l'état d'urgence).
-Coded as 1 instrad of 2 because the Constitution does not offer a distinct provision for a state of health emergency,despite the fact that what was officially declared was a state of health emergency (the constitution articles looks as if they allow for adjusted language to the nature of the crisis (e.g. “state of siege”) as warranted. 
+Coded as 1 instead of 2 because the Constitution does not offer a distinct provision for a state of health emergency,despite the fact that what was officially declared was a state of health emergency (the constitution articles looks as if they allow for adjusted language to the nature of the crisis (e.g. “state of siege”) as warranted. 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Chad_2018.pdf?lang=en
-(1)
+(1)
 https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=fr&p_isn=68934&p_country=TCD&p_count=155
-(2)
-https://www.facebook.com/watch/?v=273032193715366
-https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
-https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
+(2)
+https://www.facebook.com/watch/?v=273032193715366
+https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
+https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
 https://www.alwihdainfo.com/Tchad-etat-d-urgence-sanitaire-les-precisions-du-gouvernement_a86510.html
+https://reliefweb.int/report/chad/chad-quick-alerts-23-october-2020#:~:text=On%2016%20October%2C%20the%20National,the%20spread%20of%20COVID%2D19.
 
 
 
@@ -62,19 +68,29 @@ https://www.alwihdainfo.com/Tchad-etat-d-urgence-sanitaire-les-precisions-du-gou
 *Scale*: Character string.
 
  
-*Answer*: Constitution (2018) Articles 96, 97, 127, 130.
-Order 044 (Ordonnance n° 44 du 27 octobre 1962 relative à l'état d'urgence). 
+*Time period: Q2*: Constitution (2018) Articles 96, 97, 127, 130.
+Order 044 (Ordonnance n° 44 du 27 octobre 1962 relative à l'état d'urgence).
+
+ 
+*Time period: Q3*: Constitution (2018) Articles 96, 97, 127, 130.
+Order 044 (Ordonnance n° 44 du 27 octobre 1962 relative à l'état d'urgence).
+
+ 
+*Time period: Q4*: Constitution (2018) Articles 96, 97, 127, 130.
+Order 044 (Ordonnance n° 44 du 27 octobre 1962 relative à l'état d'urgence).
+
+ 
 
 *Comments*:
- The state of health emergency is decreed throughout the territory for a period of 21 days, according to decree no 0708 of April 25, 2020. (3,4) 
+ The state of health emergency was initially decreed throughout the territory for a period of 21 days, according to decree no 0708 of April 25, 2020. (3,4) 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Chad_2018.pdf?lang=en
-(1)
+(1)
 https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=fr&p_isn=68934&p_country=TCD&p_count=155
-(2)
+(2)
 https://www.facebook.com/watch/?v=273032193715366
-(3)
+(3)
 https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
 (4)
 
@@ -95,16 +111,23 @@ https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-25 
+*Time period: Q2*: 2020-04-25
+
+ 
+*Time period: Q3*: 2020-04-25
+
+ 
+*Time period: Q4*: 2020-04-25
+
+ 
 
 *Comments*:
  The state of health emergency is decreed throughout the territory for a period of 21 days, according to decree no 0708 of April 25, 2020. (3,4) 
 
 *Sources*:
- https://www.facebook.com/watch/?v=273032193715366
-https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
-https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
-
+ https://www.facebook.com/watch/?v=273032193715366
+https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
+https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
 
 
 
@@ -123,15 +146,22 @@ https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- State of emergency is still in place. The government approved on July 2, 2020 the extension of the state of health emergency for an additional period of three months, from July 17, 2020 to October 17, 2020. 
+ State of emergency is still in place. On 16 October, the National Assembly agreed to extend the health state of emergency from 17 October 2020 to 10 March 2021 2020. 
 
 *Sources*:
- https://www.alwihdainfo.com/Tchad-l-etat-d-urgence-sanitaire-prolonge-de-3-mois_a89969.html
-https://www.alwihdainfo.com/Tchad-l-etat-d-urgence-sanitaire-proroge-de-deux-mois_a87500.html
+ https://www.alwihdainfo.com/Tchad-l-etat-d-urgence-sanitaire-prolonge-de-3-mois_a89969.html
+https://reliefweb.int/report/chad/chad-quick-alerts-23-october-2020#:~:text=On%2016%20October%2C%20the%20National,the%20spread%20of%20COVID%2D19.
 
 
 
@@ -153,15 +183,25 @@ https://www.alwihdainfo.com/Tchad-l-etat-d-urgence-sanitaire-proroge-de-deux-moi
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The state of health emergency is decreed throughout the territory for a period of 21 days, according to decree no 0708 of April 25, 2020. 
+ The state of health emergency was initially decreed throughout the territory for a period of 21 days, according to decree no 0708 of April 25, 2020. It has been extended three times. State of emergency is still in place. On 16 October, the National Assembly agreed to extend the health state of emergency from 17 October 2020 to 10 March 2021 2020. 
 
 *Sources*:
- https://www.facebook.com/watch/?v=273032193715366
-https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
+ https://www.facebook.com/watch/?v=273032193715366
+https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
+https://www.alwihdainfo.com/Tchad-l-etat-d-urgence-sanitaire-prolonge-de-3-mois_a89969.html
 https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
+https://reliefweb.int/report/chad/chad-quick-alerts-23-october-2020#:~:text=On%2016%20October%2C%20the%20National,the%20spread%20of%20COVID%2D19.
 
 
 
@@ -173,21 +213,33 @@ https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-16 
+*Time period: Q2*: 2020-05-16
+
+ 
+*Time period: Q3*: 2020-10-17
+
+ 
+*Time period: Q4*: 2021-03-10
+
+ 
 
 *Comments*:
- 21 days after the declaration. 
+ The state of health emergency was initially decreed throughout the territory for a period of 21 days, according to decree no 0708 of April 25, 2020. It was then renewed by the National Assembly on May 16 until July 16 (Prorogé par l’Assemblée nationale
+le 15 mai jusqu’au 16 juillet 2020 (résolution N°0033/AN/2020). 
+The state of emergency is still in place. On 16 October, the National Assembly agreed to extend the health state of emergency from 17 October 2020 to 10 March 2021 2020. 
+ 
 
 *Sources*:
- https://www.facebook.com/watch/?v=273032193715366
-https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
+ https://www.facebook.com/watch/?v=273032193715366
+https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
+https://www.alwihdainfo.com/Tchad-l-etat-d-urgence-sanitaire-prolonge-de-3-mois_a89969.html
 https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
 
 
@@ -200,7 +252,7 @@ https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -210,10 +262,18 @@ https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Article 96 •  When the Institutions of the Republic, ...are threatened in a serious and immediate manner, ....., the President of the Republic, after obligatory consultation of the President of the National Assembly and with the President of the Supreme Court, takes in the Council of Ministers, for a time period not exceeding thirty (30) days, the exceptional measures required by the circumstances.
+ Article 96: When the Institutions of the Republic, ...are threatened in a serious and immediate manner, ....., the President of the Republic, after obligatory consultation of the President of the National Assembly and with the President of the Supreme Court, takes in the Council of Ministers, for a time period not exceeding thirty (30) days, the exceptional measures required by the circumstances.
 This period may only be extended after the conforming opinion of the National Assembly.
 
 Article 130 The state of siege and the state of urgency are decreed in the Council of Ministers. The President of the Republic informs the National Assembly of it. Their extension beyond twenty-one (21) days may only be authorized by the National Assembly. 
@@ -241,13 +301,24 @@ Article 130 The state of siege and the state of urgency are decreed in the Counc
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The National Assembly approved the extension of the state of health emergency on May 15 for a period of two months, from May 16 to July 16, 2020. 
+ The National Assembly approved the extension of the state of health emergency on May 15 for a period of two months, from May 16 to July 16, 2020. The second and third extensions (July 17-October 17, and October 16-March 10,2021) have also had parliamentary approval. 
 
 *Sources*:
  https://www.alwihdainfo.com/Tchad-l-etat-d-urgence-sanitaire-proroge-de-deux-mois_a87500.html
+https://www.alwihdainfo.com/Tchad-l-etat-d-urgence-sanitaire-prolonge-de-3-mois_a89969.html
+https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
+https://reliefweb.int/report/chad/chad-quick-alerts-23-october-2020#:~:text=On%2016%20October%2C%20the%20National,the%20spread%20of%20COVID%2D19.
 
 
 
@@ -267,35 +338,34 @@ Article 130 The state of siege and the state of urgency are decreed in the Counc
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- InterPares: Procedural change, Parliamentary oversight: oral questions and interellations continue, Plenary: proxy vote (through a reform passed on May 22 allowing proxy voting), reduced staff on site.
-
- 'The president may take measures by ordinance during the emergency situation, and the National Assembly cannot be dissolved, but Chad has been postponing its parliamentary elections since 2015, and are now delayed again because of the coronavirus for 2021.
+ The president may take measures by ordinance during the emergency situation, and the National Assembly cannot be dissolved, but Chad has been postponing its parliamentary elections since 2015, and are now delayed again because of the coronavirus for 2021. The National Assembly however has approved the extensions of the state of emergency.
 
 ''at the National Assembly, "the offices of the members of the bureau, the commissions and the general secretariat must reduce the presence of staff in the offices to the necessary". But "the work in committee continues with the strict observation of barrier gestures and the systematic disinfection of meeting rooms", ensures the Monitoring Committee.''
 
-Article 97
-The measures taken by virtue of the preceding Article must be motivated by the will
-to assure constitutional public powers, within the least time period, the means to
-accomplish their mission.
-Also, Article 96 - When the Institutions of the Republic, the independence of the Nation, the territorial integrity or the fulfilment of international commitments are threatened in a serious and immediate manner, such that the regular functioning of the public powers is interrupted, the President of the Republic, after obligatory consultation of the President of the National Assembly and with the President of the Supreme Court, takes in the Council of Ministers, for a time period not exceeding thirty (30) days, the exceptional measures required by the circumstances. This period may only be extended after the conforming opinion of the National
-Assembly. The National Assembly meets of plain right if it is not in session.
-
-Article 97 constitution: The National Assembly may not be dissolved during the exercise of exceptional powers. 
+Procedural change, Parliamentary oversight: oral questions and interellations continue, Plenary: proxy vote (through a reform passed on May 22 allowing proxy voting), reduced staff on site (InterPares). 
 
 *Sources*:
- https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://tchadinfos.com/politique/coronavirus-au-tchad-qui-sont-dispenses-de-leur-presence-a-lassemblee-nationale/
-https://www.alwihdainfo.com/Tchad-Covid-19-dispense-de-seance-a-l-Assemblee-nationale-qui-est-concerne_a84717.html
-https://www.idea.int/news-media/multimedia-reports/global-overview-covid-19-impact-elections
+ https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+https://tchadinfos.com/politique/coronavirus-au-tchad-qui-sont-dispenses-de-leur-presence-a-lassemblee-nationale/
+https://www.alwihdainfo.com/Tchad-Covid-19-dispense-de-seance-a-l-Assemblee-nationale-qui-est-concerne_a84717.html
+https://www.idea.int/news-media/multimedia-reports/global-overview-covid-19-impact-elections
 https://www.macaubusiness.com/chad-postpones-long-delayed-legislative-vote-over-virus/
 
 
@@ -308,15 +378,22 @@ https://www.macaubusiness.com/chad-postpones-long-delayed-legislative-vote-over-
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -341,8 +418,15 @@ https://www.macaubusiness.com/chad-postpones-long-delayed-legislative-vote-over-
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -372,15 +456,23 @@ https://www.macaubusiness.com/chad-postpones-long-delayed-legislative-vote-over-
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- DÉCRÈTE, Article 1 : En l’application des dispositions des articles 100 et 120 de la Constitution, il est institué l’état d’urgence sanitaire sur tout le territoire de la République du Tchad pour une durée de 21 jours (state of health emergency throughout the territory).
-
-But the curfew applied to certain areas: ''Un couvre-feu a été instauré dans les provinces du Logone Occidental, du Logone Oriental, du Mayo-Kebbi Ouest, du Mayo-Kebbi Est, dans la ville de N’Djamena, à Mandelia, au Logone-Gana et de N’Djamena-Farah à Guitté, de 20h à 5h du matin.'' 
+ The state of emergency in Chad is nationwide, but the curfew since March up to December has applied to certain provinces (e.g. the provinces of Logone Occidental, Logone Oriental, Mayo-Kebbi Ouest, Mayo-Kebbi Est, N’Djamena, Mandelia, Logone-Gana et N’Djamena-Farah à Guitté during the March-June period, and Guéra, Kanem, Logone Occidental, Logone Oriental, Mayo-Kebbi Ouest, Mayo-Kebbi Est, the city of N'Djamena, Mandelia, Logone-Gana and from N'Djamena-Farah to Guitté on a later stage up until December 2020). 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/370001/chad-authorities-extend-nightly-curfew-in-ndjamena-and-other-regions-through-august-31-update-15
+ https://www.garda.com/crisis24/news-alerts/405421/chad-authorities-extend-nightly-curfew-in-multiple-areas-until-december-15-update-22
+https://reliefweb.int/report/chad/chad-quick-alerts-23-october-2020#:~:text=On%2016%20October%2C%20the%20National,the%20spread%20of%20COVID%2D19.
+https://www.garda.com/crisis24/news-alerts/370001/chad-authorities-extend-nightly-curfew-in-ndjamena-and-other-regions-through-august-31-update-15
 https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
 
 
@@ -405,10 +497,13 @@ https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -416,8 +511,8 @@ Time period: *Jul-Sep*: 0
  Nothing mentioned in the emergency measures, nor in reports on human rights violations 
 
 *Sources*:
- https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
-https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
+ https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
+https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
 https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
 
 
@@ -447,10 +542,13 @@ https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -458,8 +556,8 @@ Time period: *Jul-Sep*: 0
  Nothing mentioned in the emergency measures, nor in reports on human rights violations 
 
 *Sources*:
- https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
-https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
+ https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
+https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
 https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
 
 
@@ -484,16 +582,23 @@ https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Nothing mentioned in the emergency measures on de jure media limitations. 
 
 *Sources*:
- https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
-https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
-https://www.facebook.com/watch/?v=273032193715366
-
+ https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
+https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
+https://www.facebook.com/watch/?v=273032193715366
 
 
 
@@ -505,15 +610,22 @@ https://www.facebook.com/watch/?v=273032193715366
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -531,15 +643,22 @@ https://www.facebook.com/watch/?v=273032193715366
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -567,22 +686,28 @@ https://www.facebook.com/watch/?v=273032193715366
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The only incident relates to limitations on media reporting on government measures. 
+ Overall, reporters in Chad are often arrested because of what they write. There exist charges on defamation and cyber-censorship. Journalists are exposed to the threat of terrorism, and have also been subjected to violence by the security forces. (RSF)
+
+''On 26 March, journalist for state broadcaster Télé Tchad Aly Mahamat Bello, his cameraman Abakar Mahamad Seid and their driver were assaulted and then detained by the Chad Police Mobile Intervention Unit (GMIP) in the capital, N’Djamena, while reporting on government Covid-19 enforcement measures (coronavirus-related restrictions on public gatherings). The Union of Chadian Journalists said the three were interrogated for three hours before being released.''
+
+In addition, Chad's High Authority for Media and Broadcasting (HAMA) asked in September and October 2020 many independent media outlets to comply with a provision of a law - the 2018 press law - that requires from media editors and publishers to at least have a postgraduate degree in journalism. The HAMA already closed 12 publications – a quarter of the Chad’s privately-owned print media outlets – at the start of September on the same grounds. 
 
 *Sources*:
- https://rsf.org/en/news/chadian-police-attack-tv-crew-covering-coronavirus-measures
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-https://rsf.org/en/tracker19-Coronavirus-Covid19
+ https://www.alwihdainfo.com/Tchad-l-UJT-condamne-la-brutalite-policiere-contre-des-journalistes-de-la-Tele-Tchad_a84903.html
+https://rsf.org/en/news/chadian-police-attack-tv-crew-covering-coronavirus-measures
 https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/news/many-historic-publications-threatened-closure-chad
 
 
 
@@ -594,7 +719,7 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -604,24 +729,28 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Overall, reporters in Chad are often arrested because of what they write. There exist charges on defamation, and cyber-censorship. Journalists are exposed to the threat of terrorism, and have also been subjected to violence by the security forces. (RSF)
+ Overall, reporters in Chad are often arrested because of what they write. There exist charges on defamation and cyber-censorship. Journalists are exposed to the threat of terrorism, and have also been subjected to violence by the security forces. (RSF)
 
-''On 26 March, journalist for state broadcaster Télé Tchad Aly Mahamat Bello, his cameraman Abakar Mahamad Seid and their driver were assaulted and then detained by the Chad Police Mobile Intervention Unit (GMIP) in the capital, N’Djamena, while reporting on government Covid-19 enforcement measures (coronavirus-related restrictions on public gatherings). The Union of Chadian Journalists said the three were interrogated for three hours before being released.'' 
+''On 26 March, journalist for state broadcaster Télé Tchad Aly Mahamat Bello, his cameraman Abakar Mahamad Seid and their driver were assaulted and then detained by the Chad Police Mobile Intervention Unit (GMIP) in the capital, N’Djamena, while reporting on government Covid-19 enforcement measures (coronavirus-related restrictions on public gatherings). The Union of Chadian Journalists said the three were interrogated for three hours before being released.''
+
+In addition, Chad's High Authority for Media and Broadcasting (HAMA) asked in September and October 2020 many independent media outlets to comply with a provision of a law - the 2018 press law - that requires from media editors and publishers to at least have a postgraduate degree in journalism. The HAMA already closed 12 publications – a quarter of the Chad’s privately-owned print media outlets – at the start of September on the same grounds. 
 
 *Sources*:
- https://rsf.org/en/news/chadian-police-attack-tv-crew-covering-coronavirus-measures
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-https://rsf.org/en/tracker19-Coronavirus-Covid19
+ https://www.alwihdainfo.com/Tchad-l-UJT-condamne-la-brutalite-policiere-contre-des-journalistes-de-la-Tele-Tchad_a84903.html
+https://rsf.org/en/news/chadian-police-attack-tv-crew-covering-coronavirus-measures
 https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/news/many-historic-publications-threatened-closure-chad
 
 
 
@@ -643,23 +772,25 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The only incident relates to limitations on media reporting on government measures.
-'Overall, reporters in Chad are often arrested because of what they write. There exist and charges on defamation, and cyber-censorship. Journalists are exposed to the threat of terrorism, and have also been subjected to violence by the security forces. (RSF) 
+ Overall, reporters in Chad are often arrested because of what they write. There exist and charges on defamation, and cyber-censorship. Journalists are exposed to the threat of terrorism, and have also been subjected to violence by the security forces. (RSF)
+
+Also, Chad's High Authority for Media and Broadcasting (HAMA) asked in September and October 2020 many independent media outlets to comply with a provision of a law - the 2018 press law - that requires from media editors and publishers to at least have a postgraduate degree in journalism. The HAMA already closed 12 publications – a quarter of the Chad’s privately-owned print media outlets – at the start of September on the same grounds. 
 
 *Sources*:
- https://rsf.org/en/news/chadian-police-attack-tv-crew-covering-coronavirus-measures
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://ipi.media/covid19-media-freedom-monitoring/
+ https://rsf.org/en/news/many-historic-publications-threatened-closure-chad
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://ipi.media/covid19-media-freedom-monitoring/
 https://rsf.org/en/chad
 
 
@@ -679,26 +810,30 @@ https://rsf.org/en/chad
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Only incident relating to limitations on media reporting on government measures. 
+ Overall, reporters in Chad are often arrested because of what they write. There exist and charges on defamation, and cyber-censorship. Journalists are exposed to the threat of terrorism, and have also been subjected to violence by the security forces. (RSF)
+
+Also, Chad's High Authority for Media and Broadcasting (HAMA) asked in September and October 2020 many independent media outlets to comply with a provision of a law - the 2018 press law - that requires from media editors and publishers to at least have a postgraduate degree in journalism. The HAMA already closed 12 publications – a quarter of the Chad’s privately-owned print media outlets – at the start of September on the same grounds. 
 
 *Sources*:
- https://rsf.org/en/news/chadian-police-attack-tv-crew-covering-coronavirus-measures
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-https://rsf.org/en/tracker19-Coronavirus-Covid19
+ https://rsf.org/en/news/many-historic-publications-threatened-closure-chad
+https://rsf.org/en/tracker19-Coronavirus-Covid19
 https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/chad
 
 
 
@@ -720,10 +855,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -731,10 +869,15 @@ Time period: *Jul-Sep*: 1
  'On 26 March, journalist for state broadcaster Télé Tchad Aly Mahamat Bello, his cameraman Abakar Mahamad Seid and their driver were assaulted and then detained by the Chad Police Mobile Intervention Unit (GMIP) in the capital, N’Djamena, while reporting on government Covid-19 enforcement measures (coronavirus-related restrictions on public gatherings). The Union of Chadian Journalists said the three were interrogated for three hours before being released.'' 
 
 *Sources*:
- https://rsf.org/en/news/chadian-police-attack-tv-crew-covering-coronavirus-measures
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-https://rsf.org/en/tracker19-Coronavirus-Covid19
+ https://www.alwihdainfo.com/Tchad-l-UJT-condamne-la-brutalite-policiere-contre-des-journalistes-de-la-Tele-Tchad_a84903.html
+https://rsf.org/en/news/chadian-police-attack-tv-crew-covering-coronavirus-measures
+
+https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
+
+https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+
 https://ipi.media/covid19-media-freedom-monitoring/
 
 
@@ -757,10 +900,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -768,10 +914,15 @@ Time period: *Jul-Sep*: 1
  'On 26 March, journalist for state broadcaster Télé Tchad Aly Mahamat Bello, his cameraman Abakar Mahamad Seid and their driver were assaulted and then detained by the Chad Police Mobile Intervention Unit (GMIP) in the capital, N’Djamena, while reporting on government Covid-19 enforcement measures (coronavirus-related restrictions on public gatherings). The Union of Chadian Journalists said the three were interrogated for three hours before being released.'' 
 
 *Sources*:
- https://rsf.org/en/news/chadian-police-attack-tv-crew-covering-coronavirus-measures
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-https://rsf.org/en/tracker19-Coronavirus-Covid19
+ https://www.alwihdainfo.com/Tchad-l-UJT-condamne-la-brutalite-policiere-contre-des-journalistes-de-la-Tele-Tchad_a84903.html
+https://rsf.org/en/news/chadian-police-attack-tv-crew-covering-coronavirus-measures
+
+https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
+
+https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+
 https://ipi.media/covid19-media-freedom-monitoring/
 
 
@@ -796,15 +947,18 @@ https://ipi.media/covid19-media-freedom-monitoring/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
- Authorities in Chad have been using hydroxychloroquine to COVID-19 patients since March. The government has continued using the drug despite WHO's position against it. In June, Chad reeived by the Kingdom of Morocco two planes with medical products and protective equipment against the coronavirus, which included 75,000 boxes of chloroquine and 15,000 boxes of Azithromycin. (6)
+ Authorities in Chad have been using hydroxychloroquine to COVID-19 patients since March. The government has continued using the drug despite WHO's position against it. In June, Chad received by the Kingdom of Morocco two planes with medical products and protective equipment against the coronavirus, which included 75,000 boxes of chloroquine and 15,000 boxes of Azithromycin. (6)
 
 ''The president of the Scientific Committee on Covid-19, Professor Choua, guest of the national television newspaper on Sunday April 26, recognized that patients are treated with chloroquine.'' (1,2)
 
@@ -814,13 +968,13 @@ No evidence was found on whether the government changed its policy on the use of
 
 *Sources*:
  https://tchadinfos.com/politique/coronavirus-des-tchadiens-soignes-a-base-de-la-chloroquine/
-(1)
+(1)
 https://www.aa.com.tr/fr/afrique/covid-19-deux-premiers-d%C3%A9c%C3%A8s-enregistr%C3%A9s-au-tchad/1822716
-(2)
+(2)
 https://allodocteurs.africa/actualites/epidemie/covid-19/coronavirus-le-tchad-continue-avec-la-chloroquine-le-gabon-se-questionne
-(3)
-https://www.rti.ci/info/afrique/27070/coronavirus-le-senegal-et-le-tchad-vont-continuer-le-traitement-avec-la-chloroquine
-https://afrique.le360.ma/maroc-algerie-autres-pays/politique/2020/06/01/30726-covid-19-voici-pourquoi-les-pays-africains-ont-dit-non-loms-et-poursuivent-le
+(3)
+https://www.rti.ci/info/afrique/27070/coronavirus-le-senegal-et-le-tchad-vont-continuer-le-traitement-avec-la-chloroquine
+https://afrique.le360.ma/maroc-algerie-autres-pays/politique/2020/06/01/30726-covid-19-voici-pourquoi-les-pays-africains-ont-dit-non-loms-et-poursuivent-le
 http://www.lepaystchad.com/13469/
 (6)
 
@@ -846,20 +1000,24 @@ http://www.lepaystchad.com/13469/
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- There are isolated cases where security forces engaged in some form of violence in the execution of the emergency measures during the March-June 2020 period. 
+ Security forces have engaged in some form of violence or arrests in the execution of the emergency measures since March. 
 
 *Sources*:
- http://www.laltdh.org/pdf/rapport_violations_dh_covid19.pdf
-https://www.voaafrique.com/a/les-tchadiens-d%C3%A9noncent-l-abus-policier-en-ce-temps-de-lutte-contre-le-covid-19-/5366236.html
+ https://www.garda.com/crisis24/news-alerts/404896/chad-security-forces-arrest-dozens-during-demonstration-in-ndjamena-november-27
+http://www.laltdh.org/pdf/rapport_violations_dh_covid19.pdf
 
+https://www.voaafrique.com/a/les-tchadiens-d%C3%A9noncent-l-abus-policier-en-ce-temps-de-lutte-contre-le-covid-19-/5366236.html
 
 
 
@@ -871,7 +1029,7 @@ https://www.voaafrique.com/a/les-tchadiens-d%C3%A9noncent-l-abus-policier-en-ce-
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -881,41 +1039,19 @@ https://www.voaafrique.com/a/les-tchadiens-d%C3%A9noncent-l-abus-policier-en-ce-
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- 'Après les décisions et mesures gouvernementales, les forces de l’ordre sont mobilisées sur le terrain pour assurer le respect de ces mesures. Dans la plus part de localités concernées par ce rapport, les autorités administratives et militaires ont été responsables de violation des droits civils et politiques, des droits économiques sociaux et culturels et des autres violations contre les populations civiles dans le cadre de l’application des mesures contre la propagation du Covid-19.'' 
+ The military has been participating in the enforcement of the covid19 measures. 
 
 *Sources*:
- http://www.laltdh.org/pdf/rapport_violations_dh_covid19.pdf
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*
+ https://www.worldaware.com/covid-19-alert-chad-extends-nightly-curfew-until-aug-31
+http://www.laltdh.org/pdf/rapport_violations_dh_covid19.pdf

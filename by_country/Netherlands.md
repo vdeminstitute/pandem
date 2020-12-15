@@ -1,9 +1,6 @@
 # Netherlands 
 
 
-Time 2020-09-09 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-09
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,19 +25,36 @@ Time 2020-09-09
  7. Other.
 
  
-*Answer*: 6 
+*Time period: Q2*: 6
+
+ 
+*Time period: Q3*: 6
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- The Netherlands has a State of Emergency Act in their constitution (Article 103), but this has not been used. Instead, they have used a mixed set of policies and legal instruments to handle the Covid-19 pandemic. The main emergency measures have been taken under the Safety Regions Act (Wet Veiligheidregions), which allows 25 "safety regions" to enforce a number of emergency measures given that the there's a significant public health threat, which in turn is regulated in the  Public Health Act. 
-While the government coordinates a substantial amount of the emergency responses (the measures taken by the regions is more or less identical), the implementation and decision making lies at the regional level. Therefore, this is coded as 6 - no national-level emergency response - since the main legal instrument puts decision making and implementation at the regional level. 
+ March-June, July-September: The Netherlands has a State of Emergency Act in their constitution (Article 103), but this has not been used. Instead, they have used a mixed set of policies and legal instruments to handle the Covid-19 pandemic. The main emergency measures have been taken under the Safety Regions Act (Wet Veiligheidregions), which allows 25 "safety regions" to enforce a number of emergency measures given that the there's a significant public health threat, which in turn is regulated in the  Public Health Act. 
+While the government coordinates a substantial amount of the emergency responses (the measures taken by the regions is more or less identical), the implementation and decision making lies at the regional level. Therefore, this is coded as 6 - no national-level emergency response - since the main legal instrument puts decision making and implementation at the regional level.
+
+October-December: From 1 December, regional emergency ordinances were replaced by a national "Emergency Act on measures against COVID-19" (Tijdelijke wet maatregelen covid-19). 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Netherlands_2008.pdf?lang=en
-https://fra.europa.eu/sites/default/files/fra_uploads/netherlands-report-covid-19-april-2020_en.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic-_may_2020.pdf
-https://wetten.overheid.nl/BWBR0027466/2020-01-01
-https://www.veiligheidsberaad.nl/2020/03/17/landelijke-model-noodverordening-voor-de-veiligheidsregios/
+ https://www.constituteproject.org/constitution/Netherlands_2008.pdf?lang=en
+
+https://fra.europa.eu/sites/default/files/fra_uploads/netherlands-report-covid-19-april-2020_en.pdfhttps://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic-_may_2020.pdf
+
+
+https://wetten.overheid.nl/BWBR0027466/2020-01-01https://www.veiligheidsberaad.nl/2020/03/17/landelijke-model-noodverordening-voor-de-veiligheidsregios/
+
+
 https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_july_2020.pdf
+
+https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19/nederlandse-maatregelen-tegen-het-coronavirus/coronawet-vervangt-noodverordeningen
+https://wetten.overheid.nl/BWBR0044337/2020-12-01
+https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
 
 
 
@@ -59,14 +73,23 @@ https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_p
 *Scale*: Character string.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: Tijdelijke wet maatregelen covid-19
+
+ 
 
 *Comments*:
- No national-level emergency response. 
+ March-June, July-September: No national-level emergency response.
+
+October-December: "Tijdelijke wet maatregelen covid-19" can be translated as "Emergency Act on measures against COVID-19" or "Temporary COVID-19 Act". 
 
 *Sources*:
-*No source provided*
+ https://wetten.overheid.nl/BWBR0044337/2020-12-01
 
 
 
@@ -85,14 +108,23 @@ https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_p
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 2020-12-01
+
+ 
 
 *Comments*:
- No national-level emergency response. 
+ March-June, July-September: No national-level emergency response.
+
+October-December: "Tijdelijke wet maatregelen covid-19" went into force on 1 December 2020. 
 
 *Sources*:
-*No source provided*
+ https://wetten.overheid.nl/BWBR0044337/2020-12-01#ArtikelX
 
 
 
@@ -111,14 +143,23 @@ https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_p
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- No national-level emergency response. 
+ March-June, July-September: No national-level emergency response.
+
+October-December:  "Tijdelijke wet maatregelen covid-19" has a time limit of 3 months and can be extended through a Royal Decree. Since it went into force on 1 December 2020, the implementation of the legal instrument has not ended at the time of coding. 
 
 *Sources*:
-*No source provided*
+ https://wetten.overheid.nl/BWBR0044337/2020-12-01#ArtikelX
 
 
 
@@ -140,14 +181,25 @@ https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_p
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- No national-level emergency response. 
+ March-June, July-September: No national-level emergency response.
+
+October-December:  "Tijdelijke wet maatregelen covid-19" has a time limit of 3 months and can be extended through a Royal Decree. 
 
 *Sources*:
-*No source provided*
+ https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19/nederlandse-maatregelen-tegen-het-coronavirus/coronawet-vervangt-noodverordeningen
+
+https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_november_2020.pdf
 
 
 
@@ -159,21 +211,33 @@ https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_p
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 2021-02-28
+
+ 
 
 *Comments*:
- No national-level emergency response. 
+ March-June, July-September: No national-level emergency response.
+
+October-December: "Tijdelijke wet maatregelen covid-19" has a time limit of 3 months and went into force on 1 December. 
 
 *Sources*:
-*No source provided*
+ https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19/nederlandse-maatregelen-tegen-het-coronavirus/coronawet-vervangt-noodverordeningen
+
+https://wetten.overheid.nl/BWBR0044337/2020-12-01#ArtikelX
+https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_november_2020.pdf
 
 
 
@@ -185,7 +249,7 @@ https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_p
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -195,14 +259,24 @@ https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_p
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- No national-level emergency response. 
+ March-June, July-September: No national-level emergency response.
+
+October-December: "Tijdelijke wet maatregelen Covid-19" had to be debated and approved by parliament. 
 
 *Sources*:
-*No source provided*
+ https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_november_2020.pdf
+https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
 
 
 
@@ -224,14 +298,24 @@ https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_p
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- No national-level emergency response. 
+ March-June, July-September: No national-level emergency response.
+
+October-December: "The House of Representatives passed this bill on 13 October 2020. The senate passed the bill on 27 October 2020." 
 
 *Sources*:
-*No source provided*
+ https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_november_2020.pdf
+https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?cfg=wetsvoorsteldetails&qry=wetsvoorstel%3A35526
 
 
 
@@ -251,22 +335,39 @@ https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_p
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The parliament continues to work in a more or less regular fashion, and keep carrying out all important task, and there is no de jure or de facto limitations on the parliaments lawmaking role in the emergency measures taken. 
+ March-June, July-September: The parliament continues to work in a more or less regular fashion, and keep carrying out all important task, and there is no de jure or de facto limitations on the parliaments lawmaking role in the emergency measures taken.
+
+October-December: The Parliament has to approve emergency measures taken under "Tijdelijke wet maatregelen covid-19" in a week. If no decision has been taken, the measures automatically expire. Therefore the lawmaking power of the parliament is not affected. 
 
 *Sources*:
- https://www.houseofrepresentatives.nl/news/house-representatives-increase-number-debates
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic-_may_2020.pdf
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#N
+ https://www.houseofrepresentatives.nl/news/house-representatives-increase-number-debates
+
+https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic-_may_2020.pdf
+
+https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#N
+
 https://fra.europa.eu/sites/default/files/fra_uploads/netherlands-report-covid-19-april-2020_en.pdf
+
+
+https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19/nederlandse-maatregelen-tegen-het-coronavirus/coronawet-vervangt-noodverordeningen
+https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_november_2020.pdf
 
 
 
@@ -278,15 +379,22 @@ https://fra.europa.eu/sites/default/files/fra_uploads/netherlands-report-covid-1
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -311,8 +419,15 @@ https://fra.europa.eu/sites/default/files/fra_uploads/netherlands-report-covid-1
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -342,13 +457,23 @@ https://fra.europa.eu/sites/default/files/fra_uploads/netherlands-report-covid-1
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- While the emergency measures are taken at the sub-national level in The Netherlands, the emergency response has been heavily coordinated by the government, and there are no major variations between regions. Some small variation seem to be in place though, and this is therefore coded as 1. 
+ March-June: While the emergency measures are taken at the sub-national level in The Netherlands, the emergency response has been heavily coordinated by the government, and there are no major variations between regions. Some small variation seem to be in place though, and this is therefore coded as 1.
+
+July-September, October-December: no measures implemented on a subnational level found. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
+ https://www.acaps.org/covid19-government-measures-dataset
 https://www.garda.com/crisis24/news-alert-full-history/A4mgehRxM6Mbrgj4B/netherlands-klm-extends-flight-restrictions-to-and-from-china-until-march-29
 
 
@@ -373,10 +498,13 @@ https://www.garda.com/crisis24/news-alert-full-history/A4mgehRxM6Mbrgj4B/netherl
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -384,10 +512,15 @@ Time period: *Jul-Sep*: 0
  Human Rights Watch, Amnesty International and EU agency of fundamental righs have not reported any discrimination within the federal  response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9614
-https://www.amnesty.org/en/search/?country=38487&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic-_may_2020.pdf
+ https://www.hrw.org/news?country[]=9614
+https://www.amnesty.org/en/search/?country=38487&resourceType=newsarticle&sort=date
+
+https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic-_may_2020.pdf
+
+
 https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_july_2020.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_-_covid-19_impact_on_roma_en.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_november_2020.pdf
 
 
 
@@ -416,10 +549,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_p
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -427,10 +563,14 @@ Time period: *Jul-Sep*: 0
  Neither the EU agency for fundamental rights, Human Rights Watch or Amnesty international has reported any incidents of violations of non-derogable rights, and no other indication has been found that that has occurred in the Netherlands's covid-19 response. This is therefore coded as 0. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9614
-https://www.amnesty.org/en/search/?country=38487&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic-_may_2020.pdf
+ https://www.hrw.org/news?country[]=9614
+
+https://www.amnesty.org/en/search/?country=38487&resourceType=newsarticle&sort=date
+
+https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic-_may_2020.pdf
+
 https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_july_2020.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_november_2020.pdf
 
 
 
@@ -454,13 +594,22 @@ https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_p
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Dutch Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B129%5D=129
+ https://rsf.org/en/thematique/internet?countries%5B129%5D=129
+
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Netherlands
 
 
@@ -473,21 +622,28 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B129%5D=129
+ https://rsf.org/en/thematique/internet?countries%5B129%5D=129
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Netherlands
 
 
@@ -500,21 +656,28 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B129%5D=129
+ https://rsf.org/en/thematique/internet?countries%5B129%5D=129
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Netherlands
 
 
@@ -537,10 +700,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -548,7 +714,9 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in The Netherlands,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B129%5D=129
+ https://rsf.org/en/thematique/internet?countries%5B129%5D=129
+
+
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Netherlands
 
 
@@ -561,7 +729,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -571,10 +739,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -582,7 +753,9 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in The Netherlands,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B129%5D=129
+ https://rsf.org/en/thematique/internet?countries%5B129%5D=129
+
+
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Netherlands
 
 
@@ -605,10 +778,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -616,7 +792,10 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in The Netherlands,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B129%5D=129
+ https://rsf.org/en/thematique/internet?countries%5B129%5D=129
+
+
+
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Netherlands
 
 
@@ -636,14 +815,17 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -651,7 +833,9 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information, and there's no other indications of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B129%5D=129
+ https://rsf.org/en/thematique/internet?countries%5B129%5D=129
+
+
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Netherlands
 
 
@@ -674,10 +858,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -685,7 +872,8 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any verbal harassment of journalists in The Netherlands, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B129%5D=129
+ https://rsf.org/en/thematique/internet?countries%5B129%5D=129
+
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Netherlands
 
 
@@ -708,10 +896,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -719,7 +910,8 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any physical harassment of journalists in The Netherlands, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B129%5D=129
+ https://rsf.org/en/thematique/internet?countries%5B129%5D=129
+
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Netherlands
 
 
@@ -744,10 +936,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -755,7 +950,8 @@ Time period: *Jul-Sep*: 0
  There's no deviations from the information provided by WHO and that of the Dutch Government on Covid-19, and no complaints or accusations of any such disinformation have been found. 
 
 *Sources*:
- https://www.rivm.nl/en/novel-coronavirus-covid-19
+ https://www.rivm.nl/en/novel-coronavirus-covid-19
+
 https://www.government.nl/topics/coronavirus-covid-19
 
 
@@ -780,10 +976,13 @@ https://www.government.nl/topics/coronavirus-covid-19
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -791,10 +990,14 @@ Time period: *Jul-Sep*: 0
  Neither Human Rights Watch, Amnesty International nor EU agency for fundamental rights have reported any incidents of violence in enforcing emergency measures. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9614
-https://www.amnesty.org/en/search/?country=38487&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic-_may_2020.pdf
+ https://www.hrw.org/news?country[]=9614
+
+https://www.amnesty.org/en/search/?country=38487&resourceType=newsarticle&sort=date
+
+https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic-_may_2020.pdf
+
 https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_july_2020.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_november_2020.pdf
 
 
 
@@ -806,7 +1009,7 @@ https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_p
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -816,42 +1019,20 @@ https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_p
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- The Ducth military is aiding the emergency response, but are not involved in enforcing emergency measures. 
+ The Dutch military is aiding the emergency response, but are not involved in enforcing emergency measures. 
 
 *Sources*:
- http://euromil.org/armed-forces-and-covid-19/
+ http://euromil.org/armed-forces-and-covid-19/
+
 https://www.defensie.nl/onderwerpen/coronavirus-covid-19
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

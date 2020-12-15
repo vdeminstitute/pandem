@@ -1,9 +1,6 @@
 # Slovenia 
 
 
-Time 2020-09-17 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-17
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,12 +25,21 @@ Time 2020-09-17
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- The main emergency measures were declared under the Communicable Diseases Act Declaration (Zakon o nalezljivih boleznih (ZNB)). Part of the measures was a declaration of "epidemic" from 12 March 2020 until 15 May 2020. According to OSCE report (p.26), Slovenia (among other countries) "declared some form of special public-health related status, not amounting to a "state of emergency", based on existing or newly adopted primary legislation, and not the constitution" (in this case, it is existing legislation).
+ The main emergency measures were declared under the Communicable Diseases Act Declaration (Zakon o nalezljivih boleznih (ZNB)). Part of the measures was a declaration of "epidemic" from 12 March 2020 until 15 May 2020, and from 18 October (was extended until 18 December 2020 and is in place at the time of coding). Since the declaration of "epidemic"  does not give the government additional powers, ZNB is considered the primary legal instrument. According to OSCE report (p.26), Slovenia (among other countries) "declared some form of special public-health related status, not amounting to a "state of emergency", based on existing or newly adopted primary legislation, and not the constitution" (in this case, it is existing legislation). Since emergency measures based on the ZNB were passed in all time periods (March-June, July-September, October-December), it is coded as the primary legal instrument in all time periods.
 
-According to European Union Agency for Fundamenal Rights, "On 12 March 2020, because of the increasing number of Covid-19 cases, Slovenia declared the Covid-19 epidemic on the basis of the Communicable Diseases Act (Zakon o nalezljivih boleznih).This legislation has been the legal basis for introducing different measures, including measures restricting social interactions in the country in the subsequent period." 
+According to Democracy Reporting (report from 27 July), "The 1991 Constitution envisages the option for the National Assembly (or, if the Assembly cannot meet, the President of the Republic) to declare a state of emergency when a great and general danger
+threatens the existence of the state (Article 92). Importantly, when the state of emergency has been declared, most of the constitutional rights can be temporarily suspended. However, at no point during the epidemic was a state of emergency declared. Severe limitations of the constitutional rights were thus enacted on the basis of existing legislation, namely the Communicable Diseases Act (ZNB). The powers vested in the executive branch by the ZNB are inadequate for an epidemic of this scale and a strict reading of the relevant clauses of the ZNB cannot support measures as drastic as the ones that Slovenia saw between mid-March and early May 2020." 
 
 *Sources*:
  https://www.gov.si/en/news/2020-03-12-slovenia-declares-coronavirus-epidemic/
@@ -41,6 +47,11 @@ http://www.pisrs.si/Pis.web/pregledPredpisa?id=ODRE2550
 https://www.constituteproject.org/constitution/Slovenia_2016?lang=en
 https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2020-01-2783?sop=2020-01-2783
+https://www.gov.si/en/news/2020-10-19-government-declares-covid-19-epidemic-throughout-slovenian-territory/
+http://www.pisrs.si/Pis.web/pregledPredpisa?id=ODLO2150
+https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://fra.europa.eu/sites/default/files/fra_uploads/si_report_on_coronavirus_pandemic_november_2020.pdf
 
 
 
@@ -59,7 +70,15 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
 *Scale*: Character string.
 
  
-*Answer*: Zakon o nalezljivih boleznih (ZNB) 
+*Time period: Q2*: Zakon o nalezljivih boleznih (ZNB)
+
+ 
+*Time period: Q3*: Zakon o nalezljivih boleznih (ZNB)
+
+ 
+*Time period: Q4*: Zakon o nalezljivih boleznih (ZNB)
+
+ 
 
 *Comments*:
  Translation from the English version of the government's website: Contageous Diseases Act (Article 7). European Union Agency for Fundamental Rights translates it as "Communicable Diseases Act." 
@@ -85,13 +104,21 @@ https://fra.europa.eu/sites/default/files/fra_uploads/si_report_on_coronavirus_p
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-12 
+*Time period: Q2*: 2020-03-07
+
+ 
+*Time period: Q3*: 2020-03-07
+
+ 
+*Time period: Q4*: 2020-03-07
+
+ 
 
 *Comments*:
-*No comment provided* 
+ Zakon o nalezljivih boleznih (ZNB) was first adopted to implement a ban on mass public gatherings (more than 500 people) on 7 March 2020. 
 
 *Sources*:
- https://www.gov.si/en/news/2020-03-12-slovenia-declares-coronavirus-epidemic/
+ https://www.uradni-list.si/_pdf/2020/Ur/u2020015.pdf
 
 
 
@@ -110,18 +137,22 @@ https://fra.europa.eu/sites/default/files/fra_uploads/si_report_on_coronavirus_p
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-31 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The epidemic was lifted on 15 May 2020 with emergency measures in place until 31 May 2020. On 29 May, the government declared that emergency measures (that have not been revoked) will be in place until further notice. Most measures have been relaxed since then, but some restrictions remain (such as as a limit on mass gatherings of up to 10 people) 
+ The implementation of the legal instrument has not ended at the time of coding. 
 
 *Sources*:
- http://www.pisrs.si/Pis.web/pregledPredpisa?id=ODLO2130
-https://www.gov.si/teme/koronavirus-sars-cov-2/ukrepi-za-zajezitev-sirjenja-okuzb/
-https://www.gov.si/en/news/2020-05-15-slovenia-declares-the-end-of-covid-19-epidemic-no-quarantine-for-eu-citizens-from-today/
-https://fra.europa.eu/sites/default/files/fra_uploads/si_report_on_coronavirus_pandemic_july_2020.pdf
-http://www.pisrs.si/Pis.web/pregledPredpisa?id=ODRE2550
-https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2020-01-1030?sop=2020-01-1030
+ http://www.pisrs.si/Pis.web/pregledPredpisa?id=ODLO2184
+https://www.gov.si/en/news/2020-11-26-government-extends-measures/
 
 
 
@@ -143,24 +174,40 @@ https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2020-01-1030?sop=2020-
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Most but not all measures have a time limit. Based on Act on Intervention Measures to Contain the COVID-19 Epidemic and its Mitigation for Citizens and the Economy (ZIUZEOP) from 13 March 2020 (Art 20.2) (which introduced amendments to the Communicable Diseases Act, see emname), the end date for the epidemic is 15 May 2020, but can be extended until 31 May 2020. 
-However, the decree restricting freedom of movement from 29 March 2020 had no time limit (Art.7), which was reviewed by the Constitutional Court (OSCE report. p.38). Moreover, according to European Union Agency for Fundamental Rights, " On 29 May, the government adopted decision, in effect from 1 June, laying down that all adopted measures that have not been lifted by 1 June shall remain in force until they are amended or revoked, since there is still the risk of spread of the infection." 
+ Most but not all measures have a time limit (in all time periods). 
+
+For example, in March-June: the decree restricting freedom of movement from 29 March 2020 had no time limit (Art.7), which was reviewed by the Constitutional Court (OSCE report. p.38). Moreover, according to European Union Agency for Fundamental Rights, " On 29 May, the government adopted decision, in effect from 1 June, laying down that all adopted measures that have not been lifted by 1 June shall remain in force until they are amended or revoked, since there is still the risk of spread of the infection."
+
+In July-September: the decree limiting public gatherings from 7 July 2020 had no time limit. According to a report by Democracy Reporting from 27 July, the implementation of the legal instrument in Slovenia has no explicit time limit.
+
+In October-December: the decree restricting freedom of movement from 27 November 2020 had no time limit. 
 
 *Sources*:
- http://www.pisrs.si/Pis.web/pregledPredpisa?id=ODRE2550
-http://www.pisrs.si/Pis.web/pregledPredpisa?id=ZAKO8190
-
-http://www.pisrs.si/Pis.web/pregledPredpisa?id=ODLO2041
+ http://www.pisrs.si/Pis.web/pregledPredpisa?id=ODLO2041
 http://www.pisrs.si/Pis.web/pregledPredpisa?id=SKLU296
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 https://fra.europa.eu/sites/default/files/fra_uploads/si_report_on_coronavirus_pandemic_july_2020.pdf
+
+https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2020-01-1185/sklep-o-uporabi-ukrepov-ki-jih-doloca-zakon-o-nalezljivih-boleznih-pri-nalezljivi-bolezni-covid-19
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
 https://www.icnl.org/covid19tracker/?location=113&issue=&date=&type=
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+
+https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2020-01-1744/odlok-o-spremembah-in-dopolnitvi-odloka-o-zacasni-splosni-omejitvi-oziroma-prepovedi-zbiranja-ljudi-v-republiki-sloveniji
+https://www.gov.si/novice/2020-07-08-nov-novica/
+https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+
+http://www.pisrs.si/Pis.web/pregledPredpisa?id=ODLO2184
+
 
 
 
@@ -172,20 +219,40 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-31 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The epidemic was lifted on 15 May 2020 with emergency measures in place until 31 May 2020. 
+ No time limit on some emergency measures implemented using ZNB. 
 
 *Sources*:
- https://www.gov.si/en/news/2020-05-15-slovenia-declares-the-end-of-covid-19-epidemic-no-quarantine-for-eu-citizens-from-today
+ http://www.pisrs.si/Pis.web/pregledPredpisa?id=ODLO2041
+http://www.pisrs.si/Pis.web/pregledPredpisa?id=SKLU296
+https://fra.europa.eu/sites/default/files/fra_uploads/si_report_on_coronavirus_pandemic_july_2020.pdf
+
+https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2020-01-1185/sklep-o-uporabi-ukrepov-ki-jih-doloca-zakon-o-nalezljivih-boleznih-pri-nalezljivi-bolezni-covid-19
+https://www.icnl.org/covid19tracker/?location=113&issue=&date=&type=
+
+https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2020-01-1744/odlok-o-spremembah-in-dopolnitvi-odloka-o-zacasni-splosni-omejitvi-oziroma-prepovedi-zbiranja-ljudi-v-republiki-sloveniji
+https://www.gov.si/novice/2020-07-08-nov-novica/
+https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+
+http://www.pisrs.si/Pis.web/pregledPredpisa?id=ODLO2184
 
 
 
@@ -197,7 +264,7 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -207,7 +274,15 @@ https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The measures are declared by the government (Contageous Diseases Act, Article 7) who needs to inform the parliament about the measures (Act on Intervention Measures to Contain the COVID-19 Epidemic and its Mitigation for Citizens and the Economy (ZIUZEOP)); no provisions on legislature approval. 
@@ -237,7 +312,15 @@ http://www.pisrs.si/Pis.web/pregledPredpisa?id=ZAKO8190
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Not required by law. 
@@ -263,21 +346,30 @@ http://www.pisrs.si/Pis.web/pregledPredpisa?id=ZAKO8190
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The parliament performed its legislative functions, although it held only extraordinary sessions and most MP's worked remotely. 
+ I found no limitations on the lawmaking role of the legislature in all time periods. 
 
 *Sources*:
  https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#S
 https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
 https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
 
 
 
@@ -289,15 +381,22 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -322,8 +421,15 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -353,7 +459,15 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Uniform measures throughout the country. 
@@ -383,10 +497,13 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -425,10 +542,13 @@ http://www.varuh-rs.si/en/publication-events/exposed-content-campaigns/covid-19/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -438,6 +558,7 @@ Time period: *Jul-Sep*: 0
 *Sources*:
  https://fra.europa.eu/sites/default/files/fra_uploads/slovenia-report-covid-19-april-2020_en.pdf
 
+https://fra.europa.eu/sites/default/files/fra_uploads/si_report_on_coronavirus_pandemic_july_2020.pdf
 
 https://www.gov.si/teme/koronavirus-sars-cov-2/
 
@@ -463,7 +584,15 @@ https://www.gov.si/teme/koronavirus-sars-cov-2/
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No evidence of measures limiting media freedom found 
@@ -483,15 +612,22 @@ https://rsf.org/en/slovenia
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -509,15 +645,22 @@ https://rsf.org/en/slovenia
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -545,10 +688,13 @@ https://rsf.org/en/slovenia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -572,7 +718,7 @@ https://cpj.org/europe/slovenia/
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -582,15 +728,18 @@ https://cpj.org/europe/slovenia/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Blaž Zgaga, a journalists, mentions that "officials in the new government have targeted him and other journalists over their criticism of the government’s response to the coronavirus pandemic" in an interview with CPJ, but I have not found any evidence of factual cases where journalists faced limitations on media reporting about the government response to the Covid-19 pandemic, therefore coded as 0. 
+ Blaž Zgaga, a journalist, mentions that "officials in the new government have targeted him and other journalists over their criticism of the government’s response to the coronavirus pandemic" in an interview with CPJ, but I have not found any evidence of factual cases where journalists faced limitations on media reporting about the government response to the Covid-19 pandemic, therefore coded as 0. 
 
 *Sources*:
  https://cpj.org/2020/04/slovenian-journalist-blaz-zgaga-on-facing-off-agai/
@@ -618,21 +767,25 @@ https://rsf.org/en/slovenia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No information on instances of limitations on media reporting on non-covid-19 related news found. 
+ No information on instances of limitations on media reporting on non-covid-19 related news found. On 15 September, a criminal compaint two journalists was filed, claiming that they organized a demonstration on 15 July that violated Covid-19 rules. Since it was not disclosed who filed the complaint, the incident is not considered in the coding. 
 
 *Sources*:
  https://ipi.media/slovenia/
 https://rsf.org/en/slovenia
 https://www.icnl.org/covid19tracker/?location=113&issue=&date=&type=
 https://cpj.org/europe/slovenia/
+https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-3&p_p_col_pos=1&p_p_col_count=11&_sojdashboard_WAR_coesojportlet_alertPK=72981773&_sojdashboard_WAR_coesojportlet_displayLink=SojPortlet.getDashboardPortletId%28%29
 
 
 
@@ -651,20 +804,23 @@ https://cpj.org/europe/slovenia/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- According to OSCE report (p. 49), "the government passed a law suspending most deadlines in administrative proceedings, including those under the Public Information Accesss Act, thus de facto suspending all freedom of information requests," The law was revoked on 1 June 2020.
-
+ According to OSCE report (p. 49), "the government passed a law suspending most deadlines in administrative proceedings, including those under the Public Information Accesss Act, thus de facto suspending all freedom of information requests," The law was revoked on 1 June 2020.
+
  Blaž Zgaga, a journalist, received a series of threats after the submitted a request about the government's handling of covid-19 (on the structure on a newly established Crisis Headquarters for dealing with the crisis). Since it is an individual indicent, meinf is coded as 1 only during March-June 2020 period. 
 
 *Sources*:
@@ -697,15 +853,18 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B34
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The Prime Minister published a denigrating statement towards journalists in general and the country's two main TV channels on 11 May, as well as accusations of lying and threats over the funding of the country's public TV channel on Twitter on 21-22 March. Blaž Zgaga, a journalist for RSF, was insulted and verbally threatened by the authorities after asking about a new Covid-19 crisis unit. On 2 August, the Acting Director of the Government Communication Office (UKOM) " tweeted urging citizens to report and denounce any media or journalists in Slovenia who “obviously and shamelessly use manipulations” in their work to purposefully mislead people". The statement did not specifically target journalists reporting on Covid-19, it indicates that verbal harassment towards journalists in general is ongoing, which can be seen as evidence that the situation did not improve. 
+ The Prime Minister published a denigrating statement towards journalists in general and the country's two main TV channels on 11 May, as well as accusations of lying and threats over the funding of the country's public TV channel on Twitter on 21-22 March. Blaž Zgaga, a journalist for RSF, was insulted and verbally threatened by the authorities after asking about a new Covid-19 crisis unit. On 2 August, the Acting Director of the Government Communication Office (UKOM) " tweeted urging citizens to report and denounce any media or journalists in Slovenia who “obviously and shamelessly use manipulations” in their work to purposefully mislead people". On 15 October,  Prime Minister Janez Janša verbally attacked the Slovenian Press Agency on twitter. The statements did not specifically target journalists reporting on Covid-19,  but they indicate that verbal harassment towards journalists in general is ongoing, which can be seen as evidence that the situation did not improve. 
 
 *Sources*:
  https://rsf.org/en/news/repressive-laws-prosecutions-attacks-europe-fails-shield-its-journalists-against-abuse-covid-19
@@ -721,6 +880,7 @@ https://rsf.org/en/blaz-zgaga
 
 https://cpj.org/2020/04/slovenian-journalist-blaz-zgaga-on-facing-off-agai/
 https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-3&p_p_col_pos=1&p_p_col_count=11&_sojdashboard_WAR_coesojportlet_alertPK=70151499&_sojdashboard_WAR_coesojportlet_displayLink=SojPortlet.getDashboardPortletId%28%29
+https://twitter.com/jjansasds/status/1316736285059420162?lang=en
 
 
 
@@ -742,10 +902,13 @@ https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_co
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -780,10 +943,13 @@ https://cpj.org/europe/slovenia/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -820,10 +986,13 @@ https://cpj.org/europe/slovenia/
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -844,7 +1013,7 @@ https://www.hrw.org/sitesearch?search=slovenia&sort_by=created
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -854,43 +1023,19 @@ https://www.hrw.org/sitesearch?search=slovenia&sort_by=created
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- The military was tasked with erecting a medical tent and transporting equipment but not confinement measures.
- 
+ The military was tasked with erecting a medical tent and transporting equipment but not confinement measures during March-June. No further information found. 
 
 *Sources*:
  http://www.slovenskavojska.si/en/public-affairs/news/news-single/nov/edvard-peperko-barracks-provides-accommodation-facilities-for-people-during-the-epidemic/
 http://www.slovenskavojska.si/odnosi-z-javnostmi/sporocila-za-javnost/novica/nov/slovenska-vojska-s-svojimi-zmogljivostmi-podpira-napore-za-zajezitev-siritve-novega-virusa/
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

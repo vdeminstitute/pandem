@@ -1,9 +1,6 @@
 # Tanzania 
 
 
-Time 2020-09-10 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-10
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,18 +25,39 @@ Time 2020-09-10
  7. Other.
 
  
-*Answer*: 5 
+*Time period: Q2*: 5
+
+ 
+*Time period: Q3*: 6
+
+ 
+*Time period: Q4*: 6
+
+ 
 
 *Comments*:
- The measures do not appear to be made with reference to any legal instrument or new legislation or act. 
+ Tanzania had a national-level emergency response without specific reference to legal instruments from March to June.
+In June, President John Magufuli declared the country "coronavirus-free". 
 
 *Sources*:
- https://www.atlanticcouncil.org/blogs/africasource/tanzanias-mild-response-to-covid-19-and-its-implications-for-the-2020-elections/
-
-https://www.thecitizen.co.tz/news/1840340-5494476-agwmfd/index.html
-
-https://allafrica.com/stories/202003171108.html
-
+ http://qiraatafrican.com/en/new/africa-cdc-expresses-concern-over-tanzania-s-response
+
+https://www.bbc.com/news/world-africa-52723594
+
+https://www.bbc.com/news/world-africa-54603689
+
+https://www.devex.com/news/in-tanzania-election-covid-19-denialism-an-excuse-to-clamp-down-on-dissent-98418
+
+https://www.atlanticcouncil.org/blogs/africasource/tanzanias-mild-response-to-covid-19-and-its-implications-for-the-2020-elections/
+
+
+https://www.thecitizen.co.tz/news/1840340-5494476-agwmfd/index.html
+
+
+https://allafrica.com/stories/202003171108.html
+
+
+
 https://www.chathamhouse.org/expert/comment/tanzania-evades-covid-19-lockdown-restrictions-persist
 
 
@@ -59,8 +77,15 @@ https://www.chathamhouse.org/expert/comment/tanzania-evades-covid-19-lockdown-re
 *Scale*: Character string.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as no legal instrument (variable emlaw) was used. 
@@ -85,8 +110,15 @@ https://www.chathamhouse.org/expert/comment/tanzania-evades-covid-19-lockdown-re
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as no legal instrument (variable emlaw) was used. 
@@ -111,8 +143,15 @@ https://www.chathamhouse.org/expert/comment/tanzania-evades-covid-19-lockdown-re
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the state does not refer to a legal instrument in the implementation of emergency measures (emlaw). 
@@ -140,8 +179,15 @@ https://www.chathamhouse.org/expert/comment/tanzania-evades-covid-19-lockdown-re
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the state does not refer to a legal instrument in the implementation of emergency measures (emlaw). 
@@ -159,15 +205,22 @@ https://www.chathamhouse.org/expert/comment/tanzania-evades-covid-19-lockdown-re
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as no legal instrument (variable emlaw) was used. 
@@ -185,7 +238,7 @@ https://www.chathamhouse.org/expert/comment/tanzania-evades-covid-19-lockdown-re
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -195,8 +248,15 @@ https://www.chathamhouse.org/expert/comment/tanzania-evades-covid-19-lockdown-re
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as no legal instrument (variable emlaw) was used. 
@@ -224,8 +284,15 @@ https://www.chathamhouse.org/expert/comment/tanzania-evades-covid-19-lockdown-re
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as no legal instrument (variable emlaw) was used. 
@@ -251,24 +318,38 @@ https://www.chathamhouse.org/expert/comment/tanzania-evades-covid-19-lockdown-re
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The parliament was dissolved following the death of three MPs. Neither their deaths or the suspension is officially related to covid-19. Rather, the  dissolvement is because of an upcoming election. According to the constitution, the president must dissolve the legislature before elections are held (Article 90). 
 
 *Sources*:
- https://www.dw.com/en/tanzania-under-fire-from-who-for-lackluster-response-to-covid-19-pandemic/a-53304699
-
-https://www.constituteproject.org/constitution/Tanzania_1995?lang=en
-
-https://www.aljazeera.com/news/2020/06/tanzania-john-magufuli-dissolves-parliament-elections-200616164919241.html
-
+ https://www.dw.com/en/tanzania-under-fire-from-who-for-lackluster-response-to-covid-19-pandemic/a-53304699
+
+
+
+https://www.constituteproject.org/constitution/Tanzania_1995?lang=en
+
+
+
+https://www.aljazeera.com/news/2020/06/tanzania-john-magufuli-dissolves-parliament-elections-200616164919241.html
+
+
+
 https://www.aljazeera.com/news/2020/05/tanzania-opposition-mps-boycott-parliament-3-mps-die-200502055621809.html
 
 
@@ -281,15 +362,22 @@ https://www.aljazeera.com/news/2020/05/tanzania-opposition-mps-boycott-parliamen
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
@@ -314,8 +402,15 @@ https://www.aljazeera.com/news/2020/05/tanzania-opposition-mps-boycott-parliamen
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
@@ -345,14 +440,24 @@ https://www.aljazeera.com/news/2020/05/tanzania-opposition-mps-boycott-parliamen
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The measures appear to have been more or less uniform across the country. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts?field_news_alert_countries=646
-
+ https://www.garda.com/crisis24/news-alerts?field_news_alert_countries=646
+
+
+
 https://www.atlanticcouncil.org/blogs/africasource/tanzanias-mild-response-to-covid-19-and-its-implications-for-the-2020-elections/
 
 
@@ -377,10 +482,13 @@ https://www.atlanticcouncil.org/blogs/africasource/tanzanias-mild-response-to-co
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -388,11 +496,16 @@ Time period: *Jul-Sep*: 0
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- https://www.hrw.org/africa/tanzania-and-zanzibar
-
-https://www.amnesty.org/en/countries/africa/tanzania/
-
-https://www.bbc.com/news/topics/cjnwl8q4qdrt/tanzania
+ https://www.hrw.org/africa/tanzania-and-zanzibar
+
+
+
+https://www.amnesty.org/en/countries/africa/tanzania/
+
+
+
+https://www.bbc.com/news/topics/cjnwl8q4qdrt/tanzania
+
 
 
 
@@ -422,10 +535,13 @@ https://www.bbc.com/news/topics/cjnwl8q4qdrt/tanzania
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -433,13 +549,20 @@ Time period: *Jul-Sep*: 0
  No emergency measures that de-jure violate non-derogable rights as defined by the ICCPR, was found. 
 
 *Sources*:
- https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-
-https://www.hrw.org/africa/tanzania-and-zanzibar
-
-https://www.amnesty.org/en/countries/africa/tanzania/
-
-https://www.bbc.com/news/topics/cjnwl8q4qdrt/tanzania
+ https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
+
+
+
+https://www.hrw.org/africa/tanzania-and-zanzibar
+
+
+
+https://www.amnesty.org/en/countries/africa/tanzania/
+
+
+
+https://www.bbc.com/news/topics/cjnwl8q4qdrt/tanzania
+
 
 
 
@@ -464,18 +587,32 @@ https://www.bbc.com/news/topics/cjnwl8q4qdrt/tanzania
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No de-jure limitations of media freedom as part of the Covid-19 emergency measures were found. 
 
 *Sources*:
- https://ipi.media/tanzania/
-
-https://rsf.org/en/tanzania
-
-https://cpj.org/africa/tanzania/
-
+ https://ipi.media/tanzania/
+
+
+
+https://rsf.org/en/tanzania
+
+
+
+https://cpj.org/africa/tanzania/
+
+
+
 https://www.bbc.com/news/world-africa-52519853
 
 
@@ -488,15 +625,22 @@ https://www.bbc.com/news/world-africa-52519853
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -514,15 +658,22 @@ https://www.bbc.com/news/world-africa-52519853
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -550,27 +701,37 @@ https://www.bbc.com/news/world-africa-52519853
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Kwanza Online TV was banned for 11 month after reposting a health alert from the U.S. embassy in Tanzania.
-
-On 20 April, a journalist was suspended after reporting on Covid-19.
-
-On 10 August, the Tanzanian government announced that broadcasting foreign content would be banned without government permission. This includes content about Covid-19. The government effectively controls the information that is published. 
+ Kwanza Online TV was banned for 11 month after reposting a health alert from the U.S. embassy in Tanzania.
+
+On 20 April, a journalist was suspended after reporting on Covid-19.
+
+On 10 August, the Tanzanian government announced that broadcasting foreign content would be banned without government permission. This includes content about Covid-19. 
+The government effectively controls the information that is published. 
 
 *Sources*:
- https://www.hrw.org/news/2020/09/02/tanzania-freedoms-threatened-ahead-elections
-
-https://cpj.org/2020/07/tanzania-bans-kwanza-online-tv-for-11-months-citing-misleading-instagram-post-on-covid-19/
-
-https://www.amnesty.org/en/latest/news/2020/04/tanzania-authorities-must-end-crackdown-on-journalists-reporting-on-covid19/
-
+ https://www.hrw.org/news/2020/09/02/tanzania-freedoms-threatened-ahead-elections
+
+
+
+https://cpj.org/2020/07/tanzania-bans-kwanza-online-tv-for-11-months-citing-misleading-instagram-post-on-covid-19/
+
+
+
+https://www.amnesty.org/en/latest/news/2020/04/tanzania-authorities-must-end-crackdown-on-journalists-reporting-on-covid19/
+
+
+
 https://rsf.org/en/news/tanzanian-reporter-banned-six-months-coronavirus-coverage
 
 
@@ -583,7 +744,7 @@ https://rsf.org/en/news/tanzanian-reporter-banned-six-months-coronavirus-coverag
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -593,10 +754,13 @@ https://rsf.org/en/news/tanzanian-reporter-banned-six-months-coronavirus-coverag
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -605,12 +769,17 @@ Time period: *Jul-Sep*: 1
 
 Three TV operators - Star Media, Multichoice Tanzania and Azam Digital Broadcast - were fined and were ordered to broadcast an apology for seven days in a row for carrying a report that described the President as 'stubborn' for refusing to impose a general lockdown. 
 
-On 10 August, the Tanzanian government announced that broadcasting foreign content would be banned without government permission. This includes content about Covid-19. The government effectively controls the information that is published. 
+On 10 August, the Tanzanian government announced that broadcasting foreign content would be banned without government permission. This includes content about Covid-19. 
+
+The government effectively controls the information that is published. 
 
 *Sources*:
- https://rsf.org/en/news/tanzanian-reporter-banned-six-months-coronavirus-coverage
-
-https://cpj.org/2020/05/tanzanian-newspaper-banned-from-publishing-online/
+ https://rsf.org/en/news/tanzanian-reporter-banned-six-months-coronavirus-coverage
+
+
+
+https://cpj.org/2020/05/tanzanian-newspaper-banned-from-publishing-online/
+
 
 
 
@@ -633,10 +802,13 @@ https://cpj.org/2020/05/tanzanian-newspaper-banned-from-publishing-online/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -644,10 +816,14 @@ Time period: *Jul-Sep*: 0
  On 10 August, the Tanzanian government announced that broadcasting foreign content would be banned without government permission. This includes content about Covid-19. The government effectively controls the information that is published. However, this is not justified by any emergency response of the government, so it does not affect the score on this variable. 
 
 *Sources*:
- https://ipi.media/tanzania-bars-media-from-using-foreign-content/
-
-https://bulawayo24.com/index-id-news-sc-national-byo-190238.html
-
+ https://ipi.media/tanzania-bars-media-from-using-foreign-content/
+
+
+
+https://bulawayo24.com/index-id-news-sc-national-byo-190238.html
+
+
+
 https://rsf.org/en/news/tanzania-rsf-condemns-latest-government-clampdown-media
 
 
@@ -667,14 +843,17 @@ https://rsf.org/en/news/tanzania-rsf-condemns-latest-government-clampdown-media
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
@@ -682,10 +861,14 @@ Time period: *Jul-Sep*: 2
  Since 29 April, the government hasn't reported recent data to the WHO. Journalists therefore have no access to current numbers and are limited consequently. 
 
 *Sources*:
- https://www.nytimes.com/2020/08/04/world/africa/tanzanias-coronavirus-president.html
-
-https://www.hrw.org/news/2020/09/02/tanzania-freedoms-threatened-ahead-elections
-
+ https://www.nytimes.com/2020/08/04/world/africa/tanzanias-coronavirus-president.html
+
+
+
+https://www.hrw.org/news/2020/09/02/tanzania-freedoms-threatened-ahead-elections
+
+
+
 https://www.theguardian.com/world/2020/may/27/tanzanian-president-accused-of-covering-up-covid-19-outbreak
 
 
@@ -708,23 +891,32 @@ https://www.theguardian.com/world/2020/may/27/tanzanian-president-accused-of-cov
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No evidence indicating that the government and its agents have verbally harassed journalists reporting about Covid-19, was found. 
+ No evidence indicating that the government and its agents have verbally harassed journalists reporting about Covid-19 was found. 
 
 *Sources*:
- https://ipi.media/tanzania/
-
-https://rsf.org/en/tanzania
-
-https://cpj.org/africa/tanzania/
-
+ https://ipi.media/tanzania/
+
+
+
+https://rsf.org/en/tanzania
+
+
+
+https://cpj.org/africa/tanzania/
+
+
+
 https://www.bbc.com/news/world-africa-52519853
 
 
@@ -747,10 +939,13 @@ https://www.bbc.com/news/world-africa-52519853
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -758,12 +953,18 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government and its agents have physically harassed journalists reporting about Covid-19, was found. 
 
 *Sources*:
- https://ipi.media/tanzania/
-
-https://rsf.org/en/tanzania
-
-https://cpj.org/africa/tanzania/
-
+ https://ipi.media/tanzania/
+
+
+
+https://rsf.org/en/tanzania
+
+
+
+https://cpj.org/africa/tanzania/
+
+
+
 https://www.bbc.com/news/world-africa-52519853
 
 
@@ -788,10 +989,13 @@ https://www.bbc.com/news/world-africa-52519853
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 3
+*Time period: Q2*: 3
 
  
-Time period: *Jul-Sep*: 3
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
 
  
 
@@ -802,7 +1006,7 @@ The president also promises to import a tonic from Madagascar as a cure for Covi
 
 On 22 April, the president said in a live broadcast that herbal steaming should be used as treatment. Steam inhalation cannot treat Covid-19 and is dangerous according to experts.
 
-Since the government denies any new case or spread of Covid-19 in Tanzania, govmis is coded 3 for both periods. 
+Since the government denies any new case or spread of Covid-19 in Tanzania, govdis is coded 3 for all periods. 
 
 *Sources*:
  https://www.bbc.com/news/world-africa-52966016
@@ -843,10 +1047,13 @@ https://www.theelephant.info/features/2020/05/29/a-problem-of-denial-why-tanzani
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -854,10 +1061,14 @@ Time period: *Jul-Sep*: 0
  No evidence was found that indicates that security forces, such as the civilian police or military, has engaged in physical violence to execute the emergency measures. 
 
 *Sources*:
- https://www.hrw.org/africa/tanzania-and-zanzibar
-
-https://www.amnesty.org/en/countries/africa/tanzania/
-
+ https://www.hrw.org/africa/tanzania-and-zanzibar
+
+
+
+https://www.amnesty.org/en/countries/africa/tanzania/
+
+
+
 https://www.bbc.com/news/topics/cjnwl8q4qdrt/tanzania
 
 
@@ -870,7 +1081,7 @@ https://www.bbc.com/news/topics/cjnwl8q4qdrt/tanzania
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -880,10 +1091,13 @@ https://www.bbc.com/news/topics/cjnwl8q4qdrt/tanzania
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -891,35 +1105,12 @@ Time period: *Jul-Sep*: 0
  No information indicating that the military is enforcing confinement measures was found. 
 
 *Sources*:
- https://www.bbc.co.uk/news/topics/cjnwl8q4qdrt/tanzania
-
-https://www.reuters.com/search/news?blob=Tanzania&sortBy=date&dateRange=all
-
+ https://www.bbc.co.uk/news/topics/cjnwl8q4qdrt/tanzania
+
+
+
+https://www.reuters.com/search/news?blob=Tanzania&sortBy=date&dateRange=all
+
+
+
 https://www.atlanticcouncil.org/blogs/africasource/tanzanias-mild-response-to-covid-19-and-its-implications-for-the-2020-elections/
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-*Answer*: The government denied the prisoners access to legal counsel by banning all visits to the country's prisons. This is in violation with ICCPR Article 14.3(d). 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
- https://www.hrw.org/news/2020/05/21/tanzania-prisoners-rights-ignored-covid-19-response
-
-https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx

@@ -1,9 +1,6 @@
 # North Korea 
 
 
-Time 2020-06-22 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-06-22
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,38 +25,34 @@ Time 2020-06-22
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 6
+
+ 
+*Time period: Q3*: 6
+
+ 
+*Time period: Q4*: 6
+
+ 
 
 *Comments*:
- A state of emergency was declared on 30 January 2020 and the anti-epidemic headquarters was established around the country. It's borders were shut in late January and quarantined all diplomats in Pyongyang for a month. 
+ A state of emergency was declared on 30 January 2020 and July 2020 and the anti-epidemic headquarters was established around the country. It's borders were shut in late January and quarantined all diplomats in Pyongyang for a month. 
 
 North Korea claimed that it has not had a single case of Covid-19. While this is highly unlikely, there hasn't been a need for additional emergency responses. 
 
-A three-week lockdown was imposed in the city of Kaesong in July 2020 after a suspected case of Coid-19. No information was released to say if it had been a confirmed case of a false alarm. 
+A three-week lockdown was imposed in the city of Kaesong in July 2020 after a suspected case of Covid-19. No information was released to say if it had been a confirmed case of a false alarm. There has been no additional information on the state of emergency in North Korea. 
+
+However as there has not been adequate info on the details of the emergency and the instruments used to declare this emergency, I have coded all time periods as 6. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Peoples_Republic_of_Korea_1998.pdf
+ https://www.constituteproject.org/constitution/Peoples_Republic_of_Korea_1998.pdf
 
+https://www.bbc.com/news/world-asia-52146989
+https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korean-lecturers-say-there-are-confirmed-coronavirus-cases-in-the-country-rfa-idUSKBN2200H8https://www.nytimes.com/2020/03/31/world/asia/north-korea-coronavirus.html
 
-
-https://www.bbc.com/news/world-asia-52146989
-
-
-https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korean-lecturers-say-there-are-confirmed-coronavirus-cases-in-the-country-rfa-idUSKBN2200H8
-
-https://www.nytimes.com/2020/03/31/world/asia/north-korea-coronavirus.html
-
-
-https://www.bbc.com/news/world-asia-52146989
-
-
 https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korean-lecturers-say-there-are-confirmed-coronavirus-cases-in-the-country-rfa-idUSKBN2200H8
 
-
-
 https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korea-lifts-lockdown-in-border-town-after-suspected-covid-19-case-inconclusive-idUSKCN25A044?il=0
-
-
 https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19
 
 
@@ -79,11 +72,18 @@ https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting
 *Scale*: Character string.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
-*No comment provided* 
+ I could not find information on the name of the legal instrument nor the duration of it. 
 
 *Sources*:
 *No source provided*
@@ -105,14 +105,23 @@ https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19
+
+https://www.nytimes.com/2020/07/25/world/asia/north-korea-coronavirus-kim-jong-un.html
 
 
 
@@ -131,11 +140,18 @@ https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
-*No comment provided* 
+ I could not find information on the end date and duration of the state of emergency. 
 
 *Sources*:
 *No source provided*
@@ -160,18 +176,29 @@ https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- I could not find any information on an officially declared time limit to the state of emergency that was declared in North Korea on January 2020. 
+ I could not find any information on an officially declared time limit to the state of emergency that was declared in North Korea on January  and July 2020. 
 
 *Sources*:
- 
-
+ 
+
+
+
 https://www.bbc.com/news/world-asia-52146989
-
-
+
+
+
+
 https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korean-lecturers-say-there-are-confirmed-coronavirus-cases-in-the-country-rfa-idUSKBN2200H8
 
 
@@ -184,18 +211,25 @@ https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korean-le
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
-*No comment provided* 
+ I could not find information on the end date and duration of the state of emergency. 
 
 *Sources*:
 *No source provided*
@@ -210,7 +244,7 @@ https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korean-le
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -220,11 +254,18 @@ https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korean-le
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
-*No comment provided* 
+ I was unable to find information on whether the national legislature of North Korea is required to approve the implementation of the emergency measures. I was only unable to find information on whether the legislature approved of the legal instrument used. 
 
 *Sources*:
 *No source provided*
@@ -249,8 +290,15 @@ https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korean-le
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -276,13 +324,21 @@ https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korean-le
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  I did not find information on changes in the lawmaking role of the legislature. 
@@ -300,23 +356,32 @@ https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korean-le
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  I did not find any information suggesting that North Korea's national legislature was dissolved. 
 
 *Sources*:
  https://www.bbc.com/news/topics/cywd23g0gz5t/north-korea
-
-
+
+
+
+
 https://www.reuters.com/news/archive/northKorea
 
 
@@ -336,16 +401,25 @@ https://www.reuters.com/news/archive/northKorea
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  I did not find any information suggesting that North Korea's national legislature was dissolved. 
 
 *Sources*:
  https://www.bbc.com/news/topics/cywd23g0gz5t/north-korea
-
-
+
+
+
+
 https://www.reuters.com/news/archive/northKorea
 
 
@@ -370,11 +444,18 @@ https://www.reuters.com/news/archive/northKorea
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
+*Time period: Q2*: 0
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
-*No comment provided* 
+ I was unable to find information on the extent of sub-national variation in the emergency measures in North Korea. 
 
 *Sources*:
 *No source provided*
@@ -401,10 +482,13 @@ https://www.reuters.com/news/archive/northKorea
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -441,10 +525,13 @@ Time period: *Jul-Sep*: 0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -476,7 +563,15 @@ Time period: *Jul-Sep*: 0
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  I did not come across new limitations on media freedom due to the emergency measures. 
@@ -494,15 +589,22 @@ Time period: *Jul-Sep*: 0
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -520,15 +622,22 @@ Time period: *Jul-Sep*: 0
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -556,10 +665,13 @@ Time period: *Jul-Sep*: 0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -570,7 +682,11 @@ Time period: *Jul-Sep*: 1
 
 3: Independent media and the consumption of foreign media is prohibited. The government regularly uses arrest, punishment of crimes and torture in custody and executions to maintain fear and control over the population. 
 
-The lack of information on the nature of Covid-19 coupled with the restrictions on the consumption of foreign media within the country suggests that there are de-facto limitations on the reporting about the nature of Covid-19. 
+The lack of information on the nature of Covid-19 coupled with the restrictions on the consumption of foreign media within the country suggests that there are de-facto limitations on the reporting about the nature of Covid-19.
+
+While North Korea has officially maintained that there has not been reported cases of Covid-19 within the country, experts and multiple media reports have proposed with some certainty that this is probably not the case. For example, the Associated Press reported in August 2020 that ‘North Korea is quarantining thousands of people and shipping food and other aid to a southern city locked down over coronavirus worried, officials said, as the country’s response to a suspected case reinforces doubt about its longstanding claim to be virus-free’.
+
+The fact the local media sources have not been able to corroborate these facts may suggest de-factor limitations on reporting about the nature of the Covid-19 virus. 
 
 *Sources*:
  https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
@@ -588,6 +704,13 @@ https://www.hrw.org/world-report/2019/country-chapters/north-korea
 https://rsf.org/en/north-korea
 
 
+https://www.dw.com/en/north-korea-coronavirus-cases/a-54699995
+
+
+https://apnews.com/article/virus-outbreak-ap-top-news-seoul-international-news-south-korea-9c2695c6a79fb1fea3f774b9ca0b8c6b
+
+
+
 
 
 
@@ -597,7 +720,7 @@ https://rsf.org/en/north-korea
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -607,10 +730,13 @@ https://rsf.org/en/north-korea
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -663,10 +789,13 @@ http://www.rodong.rep.kp/en/index.php?strPageID=SF01_03_02&scnt=covid&listno=1
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -700,14 +829,17 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/north-korea/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
@@ -717,6 +849,8 @@ Time period: *Jul-Sep*: 2
 2: I have gone through covid-19 related articles listed in the official North Korean newspaper (last link in sources). While the newspaper frequently discusses the number of cases in South Korea, there is no mention of there being any cases in North Korea. There is also no article or discussion on the nature of Covid-19. 
 
 3: Independent media and the consumption of foreign media is prohibited. The government regularly uses arrest, punishment of crimes and torture in custody and executions to maintain fear and control over the population. 
+
+4: While North Korea has officially maintained that there has not been reported cases of Covid-19 within the country, experts have proposed with some certainty that this is probably not the case. For example, the Associated Press reported in August 2020 that ‘North Korea is quarantining thousands of people and shipping food and other aid to a southern city locked down over coronavirus worried, officials said, as the country’s response to a suspected case reinforces doubt about its longstanding claim to be virus-free’.
 
 The lack of information on the nature of Covid-19 coupled with the restrictions on the consumption of foreign media within the country suggests that media access to Covid-19 related information is heavily limited. 
 
@@ -738,6 +872,7 @@ https://www.voanews.com/east-asia-pacific/north-koreas-self-isolation-weapons-pr
 
 https://en.yna.co.kr/view/AEN20200331003100325?section=nk/nk
 
+https://apnews.com/article/virus-outbreak-ap-top-news-seoul-international-news-south-korea-9c2695c6a79fb1fea3f774b9ca0b8c6b
 http://www.rodong.rep.kp/en/index.php?strPageID=SF01_03_02&scnt=covid&listno=1
 
 
@@ -760,10 +895,13 @@ http://www.rodong.rep.kp/en/index.php?strPageID=SF01_03_02&scnt=covid&listno=1
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -798,10 +936,13 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/north-korea/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -838,15 +979,20 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/north-korea/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- North Korea has also claimed that it has not had a single case of Covid-19. However, experts find this hard to believe given the country’s proximity to China and South Korea – both countries that have been hit hard by the pandemic. There has also been one report of a North Korean who was shot while attempting to defect to China on 20 April 2020. He was transported to a hospital in Longjing, Jilin province and was later tested to positive for Covid-19. However, this case was only reported by one news outlet, the Daily NK. It is an online newspaper focusing on issues relating to North Korea and is based in South Korea. 
+ North Korea has claimed that it has not had a single case of Covid-19. However, experts find this hard to believe given the country’s proximity to China and South Korea – both countries that have been hit hard by the pandemic. There has also been one report of a North Korean who was shot while attempting to defect to China on 20 April 2020. He was transported to a hospital in Longjing, Jilin province and was later tested to positive for Covid-19. However, this case was only reported by one news outlet, the Daily NK. It is an online newspaper focusing on issues relating to North Korea and is based in South Korea.
+
+In October 2020, North Korea warned its citizens to stay indoors over fears that 'yellow dust' which blows from China could bring Covid-19 to the country. However, there has been no link between these seasonal dust clouds and Covid-19. 
 
 *Sources*:
  https://www.brookings.edu/blog/order-from-chaos/2020/04/13/a-tale-of-two-koreas-in-the-age-of-coronavirus/
@@ -857,6 +1003,8 @@ https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korea-tes
 https://www.dw.com/en/is-north-korea-hiding-a-coronavirus-outbreak/a-52619099
 
 https://www.dailynk.com/english/north-korean-tests-positive-for-covid-19-china/
+
+https://www.bbc.com/news/world-asia-54655692
 
 
 
@@ -880,10 +1028,13 @@ https://www.dailynk.com/english/north-korean-tests-positive-for-covid-19-china/
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -908,7 +1059,7 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/north-korea/
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -918,10 +1069,13 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/north-korea/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -935,29 +1089,3 @@ Time period: *Jul-Sep*: 0
 https://www.hrw.org/asia/north-korea
 
 https://www.amnesty.org/en/countries/asia-and-the-pacific/north-korea/
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

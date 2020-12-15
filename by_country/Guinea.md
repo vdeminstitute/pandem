@@ -1,9 +1,6 @@
 # Guinea 
 
 
-Time 2020-09-11 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-11
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,7 +25,15 @@ Time 2020-09-11
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  On Friday, March 27, President Alpha Condé announced a nationwide state of emergency due to the spread of the coronavirus (COVID-19) in the country, based on Constitution (2010), article 90, and Organic Law No. L/1991/016 du 1991 on the state of emergency and state of siege. (1, 2)
@@ -37,12 +42,12 @@ Constitution art 90; ''The state of siege, as the state of urgency, is decreed b
 
 *Sources*:
  https://www.constituteproject.org/constitution/Guinea_2010.pdf
-(1)
+(1)
 https://www.refworld.org/docid/3ae6b524c.html
-(2)
-http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
-https://twitter.com/alphacondepresi/status/1243260447505203209?s=20
-https://www.garda.com/crisis24/news-alerts/327766/guinea-authorities-announce-state-of-emergency-march-27-update-2
+(2)
+http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
+https://twitter.com/alphacondepresi/status/1243260447505203209?s=20
+https://www.garda.com/crisis24/news-alerts/327766/guinea-authorities-announce-state-of-emergency-march-27-update-2
 https://www.icnl.org/covid19tracker/?location=50&issue=&date=&type=
 
 
@@ -62,19 +67,28 @@ https://www.icnl.org/covid19tracker/?location=50&issue=&date=&type=
 *Scale*: Character string.
 
  
-*Answer*: Constitution (2010), article 90;
-Loi organique No. L/1991/016 du 1991 relative à l'état d'urgence et a l'état de siège 
+*Time period: Q2*: Constitution (2010), article 90;
+Loi organique No. L/1991/016 du 1991 relative à l'état d'urgence et a l'état de siège
+
+ 
+*Time period: Q3*: Constitution (2010), article 90;
+Loi organique No. L/1991/016 du 1991 relative à l'état d'urgence et a l'état de siège
+
+ 
+*Time period: Q4*: Constitution (2010), article 90;
+Loi organique No. L/1991/016 du 1991 relative à l'état d'urgence et a l'état de siège
+
+ 
 
 *Comments*:
  Could not find the decree name with which the state of emergency was declared. Sources mentioned that it was announced in public tv. 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Guinea_2010.pdf
-(1)
+(1)
 https://www.refworld.org/docid/3ae6b524c.html
-(2)
-http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
-
+(2)
+http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
 
 
 
@@ -93,15 +107,23 @@ http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-27 
+*Time period: Q2*: 2020-03-27
+
+ 
+*Time period: Q3*: 2020-03-27
+
+ 
+*Time period: Q4*: 2020-03-27
+
+ 
 
 *Comments*:
- On Friday, March 27, President Alpha Condé announced a nationwide state of emergency due to the spread of the coronavirus (COVID-19) in the country.
+ On Friday, March 27, President Alpha Condé announced a nationwide state of emergency due to the spread of the coronavirus (COVID-19) in the country.
  
 
 *Sources*:
- http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
-https://www.garda.com/crisis24/news-alerts/327766/guinea-authorities-announce-state-of-emergency-march-27-update-2
+ http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
+https://www.garda.com/crisis24/news-alerts/327766/guinea-authorities-announce-state-of-emergency-march-27-update-2
 https://www.icnl.org/covid19tracker/?location=50&issue=&date=&type=
 
 
@@ -121,14 +143,22 @@ https://www.icnl.org/covid19tracker/?location=50&issue=&date=&type=
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The state of emergency has been last extended through October 16, 2020. 
+ The state of emergency has been last extended through December 16, 2020. 
 
 *Sources*:
- https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
+ https://www.garda.com/crisis24/news-alerts/399851/guinea-health-state-of-emergency-extended-until-december-14-update-13
+https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
 https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
 
 
@@ -152,13 +182,25 @@ https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- ''The state of emergency is declared on all the national territory from this evening, at 00H precise for a renewable duration of one month, in accordance with the constitutional provisions.'' 
+ The state of emergency was initially declared on all the national territory for a period of one month. All the later extensions had a limit date. 
 
 *Sources*:
- http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
+ https://www.garda.com/crisis24/news-alerts/399851/guinea-health-state-of-emergency-extended-until-december-14-update-13
+https://www.garda.com/crisis24/news-alert-full-history/YuHTQ2WHgsmXENbRd/guinea-authorities-confirm-first-case-of-covid-19-march-13
+https://reliefweb.int/report/guinea/unicef-guinea-covid-19-situation-report-no-14-5-18-august-2020
+https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
+http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
 https://www.constituteproject.org/constitution/Guinea_2010.pdf
 
 
@@ -171,20 +213,32 @@ https://www.constituteproject.org/constitution/Guinea_2010.pdf
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-27 
+*Time period: Q2*: 2020-06-15
+
+ 
+*Time period: Q3*: 2020-09-16
+
+ 
+*Time period: Q4*: 2020-12-16
+
+ 
 
 *Comments*:
- ''The state of emergency is declared on all the national territory from this evening, at 00H precise for a renewable duration of one month, in accordance with the constitutional provisions.'' 
+ The state of emergency was initially declared on all the national territory for a period of one month. All the later extensions had a limit date. 
 
 *Sources*:
- http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
+ https://www.garda.com/crisis24/news-alerts/399851/guinea-health-state-of-emergency-extended-until-december-14-update-13
+https://www.garda.com/crisis24/news-alert-full-history/YuHTQ2WHgsmXENbRd/guinea-authorities-confirm-first-case-of-covid-19-march-13
+https://reliefweb.int/report/guinea/unicef-guinea-covid-19-situation-report-no-14-5-18-august-2020
+https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
+http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
 https://www.constituteproject.org/constitution/Guinea_2010.pdf
 
 
@@ -197,7 +251,7 @@ https://www.constituteproject.org/constitution/Guinea_2010.pdf
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -207,19 +261,23 @@ https://www.constituteproject.org/constitution/Guinea_2010.pdf
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Article 90 • 
-......The President of the Republic may take, by ordinance, all measures necessary to the defense of the integrity of the territory and to the restoration or to the maintenance of the public order.
-The National Assembly meets then of plain right, if it is not in session. It may not be dissolved.
-The decree proclaiming the state of siege or the state of urgency ceases to be in force after twelve days, unless the National Assembly, referred to [the matter] by the President of the Republic, authorizes its [en] prorogation for a time period that it establishes. The Ordinances taken in application of the state of siege and of the state of urgency cease to be in force at the end of them.
-
+ Article 90 Constitution: ''The decree proclaiming the state of siege or the state of urgency ceases to be in force after twelve days, unless the National Assembly, referred to [the matter] by the President of the Republic, authorizes its [en] prorogation for a time period that it establishes. The Ordinances taken in application of the state of siege and of the state of urgency cease to be in force at the end of them.''
 Article 23: (law L / 1991/016 of 1991)
 The date on which the state of emergency or the state of siege ends is fixed by decree when this date is before the expiration of the 12-day period provided for in article 74 of the Basic Law. It is fixed by law when it is after the extension of the state of siege authorized by the National Assembly. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Guinea_2010.pdf
+ https://www.constituteproject.org/constitution/Guinea_2010.pdf
 https://www.refworld.org/docid/3ae6b524c.html
 
 
@@ -242,14 +300,24 @@ https://www.refworld.org/docid/3ae6b524c.html
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The extension beyond the 12-days period of the state of emergency was approved by Parliament. 
+ The extensions of the state of emergency were all approved by Parliament. 
 
 *Sources*:
- https://reveilguinee.info/covid-19-la-guinee-prolonge-letat-durgence-dun-mois/
-
+ https://afrique.lalibre.be/54021/guinee-letat-durgence-anti-covid-prolonge-a-un-mois-de-la-presidentielle/
+https://www.agpguinee.com/politique-fr_Guinee_Covid_19__L_Etat_d_urgence_prolonge_jusqu_au_15_juin_parlement.html
+https://www.africaguinee.com/articles/2020/06/16/guinee-le-parlement-soutient-une-decision-d-alpha-conde
+https://reveilguinee.info/covid-19-la-guinee-prolonge-letat-durgence-dun-mois/
 
 
 
@@ -269,26 +337,31 @@ https://www.refworld.org/docid/3ae6b524c.html
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
  There are social distancing measures in place (1)
-
-Article 90 
-......The President of the Republic may take, by ordinance, all measures necessary to the defense of the integrity of the territory and to the restoration or to the maintenance of the public order.
-The National Assembly meets then of plain right, if it is not in session. It may not be dissolved.'' 
+According to article 90 of the constitution, the President during a state of emergency may rule by ordinance. ''The National Assembly meets then of plain right, if it is not in session. It may not be dissolved.'' 
 
 *Sources*:
  https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-(1)
-https://www.rfi.fr/fr/afrique/20200422-guin%C3%A9e-amadou-damaro-camara-%C3%A9lu-pr%C3%A9sident-l-assembl%C3%A9e-nationale
-https://www.constituteproject.org/constitution/Guinea_2010.pdf
+(1)
+https://www.rfi.fr/fr/afrique/20200422-guin%C3%A9e-amadou-damaro-camara-%C3%A9lu-pr%C3%A9sident-l-assembl%C3%A9e-nationale
+https://www.constituteproject.org/constitution/Guinea_2010.pdf
 https://www.refworld.org/docid/3ae6b524c.html
 
 
@@ -301,15 +374,22 @@ https://www.refworld.org/docid/3ae6b524c.html
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -334,8 +414,15 @@ https://www.refworld.org/docid/3ae6b524c.html
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -365,17 +452,26 @@ https://www.refworld.org/docid/3ae6b524c.html
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- '...Additionally, authorities banned all travel from Conakry - where most COVID-19 cases have been confirmed - to the rest of the country without a special derogation delivered by the Ministry of Health.''
-
-The state of emergency has been implemented throughout the national territory, as most covid19 measures, with a few exceptions. 
+ The state of emergency has been implemented throughout the national territory, as most covid19 measures, with a few exceptions. All travel was banned from Conakry - where most COVID-19 cases have been confirmed - to the rest of the country for the periods March-June and July-September. 
+Despite the extension of the state of emergency, some COVID-19 restrictions in the country after October have been eased. Individuals remain required to wear face masks in public and private spaces. The existing 00:01-04:00 (local time) curfew in Greater Conakry, which includes Conakry, Coyah, and Dubreka, remains in effect. 
 
 *Sources*:
- https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19#G
-https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
-https://www.garda.com/crisis24/news-alerts/331731/guinea-nationwide-state-of-emergency-extended-through-april-30-due-to-covid-19-update-3
+ https://www.garda.com/crisis24/news-alerts/379846/guinea-authorities-extend-health-emergency-through-at-least-october-15-update-10
+https://www.garda.com/crisis24/news-alerts/390171/guinea-authorities-extend-state-of-health-emergency-until-november-15-update-12
+https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19#G
+https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
+https://www.garda.com/crisis24/news-alerts/331731/guinea-nationwide-state-of-emergency-extended-through-april-30-due-to-covid-19-update-3
 http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
 
 
@@ -400,10 +496,13 @@ http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -411,9 +510,8 @@ Time period: *Jul-Sep*: 0
  No discrimination based on these rights. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/29/guinea-respecting-rights-key-amid-covid-19-0
-http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
-
+ https://www.hrw.org/news/2020/04/29/guinea-respecting-rights-key-amid-covid-19-0
+http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
 
 
 
@@ -442,10 +540,13 @@ http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -453,9 +554,8 @@ Time period: *Jul-Sep*: 0
  No violation of these rights. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/29/guinea-respecting-rights-key-amid-covid-19-0
-http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
-
+ https://www.hrw.org/news/2020/04/29/guinea-respecting-rights-key-amid-covid-19-0
+http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
 
 
 
@@ -479,14 +579,22 @@ http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No de jure media limitations. 
 
 *Sources*:
- http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
-https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19#G
+ http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
+https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19#G
 https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
 
 
@@ -499,15 +607,22 @@ https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -525,15 +640,22 @@ https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -561,23 +683,25 @@ https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No evidence was found in the media freedom tracker webpages 
+ No evidence was found in the media freedom tracker webpages 
 The media are criticized by the President (Alpha Conde) and the authorities periodically try to censor critical media but nothing was mentioned in the covid19-context. 
 
 *Sources*:
- https://rsf.org/en/guinea
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+ https://rsf.org/en/guinea
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africahttps://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
 https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
 
 
@@ -590,7 +714,7 @@ https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -600,25 +724,27 @@ https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No evidence was found in the media freedom tracker webpages 
+ No evidence was found in the media freedom tracker webpages 
 The media are criticized by the President (Alpha Conde) and the authorities periodically try to censor critical media but nothing was mentioned in the covid19-context. 
 
 *Sources*:
- https://rsf.org/en/guinea
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
-
+ https://rsf.org/en/guinea
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
 
 
 
@@ -640,25 +766,27 @@ https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No evidence was found in the media freedom tracker webpages 
+ No evidence was found in the media freedom tracker webpages 
 The media are criticized by the President (Alpha Conde) and the authorities periodically try to censor critical media but nothing was mentioned in the covid19-context. 
 
 *Sources*:
- https://rsf.org/en/guinea
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
-
+ https://rsf.org/en/guinea
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
 
 
 
@@ -677,29 +805,36 @@ https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No evidence was found in the media freedom tracker webpages 
+ No evidence was found in the media freedom tracker webpages 
 The media are criticized by the President (Alpha Conde) and the authorities periodically try to censor critical media but nothing was mentioned in the covid19-context. 
 
 *Sources*:
- https://rsf.org/en/guinea
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
+ https://rsf.org/en/guinea
 
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+
+https://ipi.media/covid19-media-freedom-monitoring/
+
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+
+https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+
+https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
 
 
 
@@ -721,23 +856,31 @@ https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Nothing mentioned in the media freedom tracker webpages. 
+ 'On June 15, 2020, a group of gendarmes (military force with law enforcement duties among the civilian population) stormed the premises of Radio Kalac FM, broadcasting in Kankan, and shut it down. The radio station was accused of flouting a gag order issued against Karamo Cheick Souleymane Sidibé, an influential preacher whom the authorities had sanctioned for organising a mass a sermon in his house against the COVID-19 protocols.'' (1) 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
+ https://allafrica.com/stories/202009140921.html
+(1)
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
 
+https://ipi.media/covid19-media-freedom-monitoring/
+
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+
+https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+
+https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
 
 
 
@@ -759,23 +902,31 @@ https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Nothing mentioned in the media freedom tracker webpages. 
+ 'On June 15, 2020, a group of gendarmes (military force with law enforcement duties among the civilian population) stormed the premises of Radio Kalac FM, broadcasting in Kankan, and shut it down. The radio station was accused of flouting a gag order issued against Karamo Cheick Souleymane Sidibé, an influential preacher whom the authorities had sanctioned for organising a mass a sermon in his house against the COVID-19 protocols.'' (1) 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
+ https://allafrica.com/stories/202009140921.html
+(1)
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
 
+https://ipi.media/covid19-media-freedom-monitoring/
+
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+
+https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+
+https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
 
 
 
@@ -799,18 +950,21 @@ https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- l’Agence nationale de la sécurité sanitaire (ANSS), is the official body responsible for managing the pandemic. In line with WHO guidlines. 
+ l’Agence nationale de la sécurité sanitaire (ANSS), the official body responsible for managing the pandemic, is in line with WHO guidlines. 
 
 *Sources*:
- https://anss-guinee.org/
+ https://anss-guinee.org/
 https://www.lemonde.fr/afrique/article/2020/04/27/la-guinee-franchit-la-barre-des-1-000-cas-de-coronavirus_6037877_3212.html
 
 
@@ -835,15 +989,18 @@ https://www.lemonde.fr/afrique/article/2020/04/27/la-guinee-franchit-la-barre-de
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
- State security forces had resorted in excess use of violence to enforce the emergency measures. The state of emergency has been extended through October 16, 2020.
+ State security forces had resorted in excess use of violence to enforce the emergency measures. The state of emergency has been extended through December 16, 2020.
 
 In May 2020, six protesters died in Guinea during clashes with the police, where crowds were protesting against road barriers set up to control traffic between the capital and the rest of the country. (1)
 
@@ -852,11 +1009,11 @@ In May 2020, six protesters died in Guinea during clashes with the police, where
 ''On April 8, a 30-year-old woman said that a uniformed man who accused her of breaking the curfew robbed and beat her." 
 
 *Sources*:
- https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
+ https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
 https://www.aljazeera.com/news/2020/05/guinea-protesters-killed-clashes-police-200513071249521.html
-(1)
-https://www.africanews.com/2020/05/15/covid-19-guinean-security-forces-accused-of-violence//
-https://www.hrw.org/fr/news/2020/04/29/guinee-le-respect-des-droits-humains-est-essentiel-dans-la-lutte-contre-le-covid-19
+(1)
+https://www.africanews.com/2020/05/15/covid-19-guinean-security-forces-accused-of-violence//
+https://www.hrw.org/fr/news/2020/04/29/guinee-le-respect-des-droits-humains-est-essentiel-dans-la-lutte-contre-le-covid-19
 https://reliefweb.int/report/guinea/guinea-respecting-rights-key-amid-covid-19
 
 
@@ -869,7 +1026,7 @@ https://reliefweb.int/report/guinea/guinea-respecting-rights-key-amid-covid-19
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -879,45 +1036,23 @@ https://reliefweb.int/report/guinea/guinea-respecting-rights-key-amid-covid-19
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The defense and security forces are responsible to help enforce the preventive measures. No clear indication of military involvement.
-The authorities maintain police and local militia checkpoints across the country, but this seems to be related to the upheavals occurring for the past several months, ''in the lead up to and during the controversial March 22 constitutional referendum and legislative elections, when security forces  violently cracked down on opposition members and supporters.''
- 
+ The defense and security forces are responsible to enforce the preventive measures, and the gendarmes (military force with law enforcement duties among the civilian population) have been reported to be involved. The authorities also maintain police and local militia checkpoints across the country, but this seems to be related to the upheavals occurring for the past several months, in the lead up to and during the March 22 constitutional referendum and legislative elections. 
 
 *Sources*:
- http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
-https://www.hrw.org/news/2020/04/29/guinea-respecting-rights-key-amid-covid-19-0
+ https://allafrica.com/stories/202009140921.html
+http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
+
+https://www.hrw.org/news/2020/04/29/guinea-respecting-rights-key-amid-covid-19-0
+
 https://www.gov.uk/foreign-travel-advice/guinea
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

@@ -1,9 +1,6 @@
 # Finland 
 
 
-Time 2020-09-03 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-03
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,16 +25,25 @@ Time 2020-09-03
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- The Finish Government has declared a state of emergency unde the Emergency Powers Act. This is therefore a state of emergency within the existing legal framework, and coded as 1. 
+ The Finish Government has declared a state of emergency unde the Emergency Powers Act on March 16, and was terminated on June 16. Since then, Finland has used existing legislation to take measures against Covid-19. The primary legal instrument, since the end of the State of Emergency, is the Communicable Diseases Act. This is therefore coded as 1 in the Mar-Jun period, and 4 in the Jul-Sep and Oct-Dec period. 
 
 *Sources*:
- https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
-https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
-https://www.acaps.org/covid19-government-measures-dataset
-
+ https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
+https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
+https://www.acaps.org/covid19-government-measures-dataset
+https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
+https://www.finlex.fi/fi/laki/alkup/2016/20161227
 
 
 
@@ -56,15 +62,23 @@ https://www.acaps.org/covid19-government-measures-dataset
 *Scale*: Character string.
 
  
-*Answer*: Emergency Powers Act 
+*Time period: Q2*: Emergency Powers Act
+
+ 
+*Time period: Q3*: Communicable Disease Act
+
+ 
+*Time period: Q4*: Communicable Disease Act
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
-https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
-https://www.acaps.org/covid19-government-measures-dataset
+ https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
+https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
+https://www.acaps.org/covid19-government-measures-dataset
 
 
 
@@ -84,15 +98,23 @@ https://www.acaps.org/covid19-government-measures-dataset
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-16 
+*Time period: Q2*: 2020-03-16
+
+ 
+*Time period: Q3*: 2020-06-16
+
+ 
+*Time period: Q4*: 2020-06-16
+
+ 
 
 *Comments*:
- Day the state of emergency was declared. 
+ The State of Emergency was declared and came into effect on 2020-03-16. The Communicable Disease Act that manages the Covid-19 response after the SOE ended is from before the coded period, and has not seen significant amendmentsor the like  that would suffice coding a start date. This is therefore left blank in the Jul-Sep and Oct-Dec period. 
 
 *Sources*:
- https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
-https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
-https://www.acaps.org/covid19-government-measures-dataset
+ https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
+https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
+https://www.acaps.org/covid19-government-measures-dataset
 
 
 
@@ -112,10 +134,18 @@ https://www.acaps.org/covid19-government-measures-dataset
 *Scale*: Date format.
 
  
-*Answer*: 2020-06-16 
+*Time period: Q2*: 2020-06-16
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The Finish government decided to end the state of emergency starting June 16, and handle the future response to Covid-19 using regular legilsation. 
+ The Finish government decided to end the state of emergency starting June 16, and handle the future response to Covid-19 using regular legilsation. The implementation of the Communicable Disease Act has not ended at the time of coding. 
 
 *Sources*:
  https://valtioneuvosto.fi/en/-/10616/valmiuslain-mukaisten-toimivaltuuksien-kaytosta-luovutaan-poikkeusolot-paattyvat-tiistaina-16-kesakuuta
@@ -140,15 +170,24 @@ https://www.acaps.org/covid19-government-measures-dataset
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Yes, the initial declaration of State of Emergency under the Emergency Powers Act limited it to April 14. 
+ Yes, the initial declaration of State of Emergency under the Emergency Powers Act limited it to April 14.
+The Communicable Disease Act was in place before the pandemic, and has no end date itself. Note however that the provisions taken under it have, as far as have been seen, always had time limits. 
 
 *Sources*:
- https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
-https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
-https://www.acaps.org/covid19-government-measures-dataset
+ https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
+https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
+https://www.acaps.org/covid19-government-measures-dataset
 
 
 
@@ -161,23 +200,31 @@ https://www.acaps.org/covid19-government-measures-dataset
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-06-16 
+*Time period: Q2*: 2020-06-16
+
+ 
+*Time period: Q3*: 2020-10-01
+
+ 
+*Time period: Q4*: 2020-12-15
+
+ 
 
 *Comments*:
- The declaration of State of Emergency was originally set to end at April 14, but was extended to June 16 when it ended. 
+ The declaration of State of Emergency was originally set to end at April 14, but was extended to June 16 when it ended.
+For measures taking using the Communicable Disease Act, on 17 June the government extended restrictions on public gatherings until 1 October 2020. On 1 November, the government imposed temporary restrictions on the activities of food and beverage service businesses until 15 December 2020 (in place at the time of coding. 
 
 *Sources*:
- https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
-https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
-https://www.acaps.org/covid19-government-measures-dataset
-
+ https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksihttps://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdfhttps://www.acaps.org/covid19-government-measures-dataset
+https://valtioneuvosto.fi/en/-/10616/government-agrees-to-ease-restrictions-on-gatherings-operations-of-food-and-beverage-service-businesses-and-visits-to-care-institutions-and-hospitals-1
+https://valtioneuvosto.fi/en/-/1271139/increased-flexibility-in-restrictions-on-food-and-beverage-service-businesses-based-on-the-epidemiological-situation-in-the-region-and-the-main-activities-of-the-business
 
 
 
@@ -189,7 +236,7 @@ https://www.acaps.org/covid19-government-measures-dataset
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -199,13 +246,22 @@ https://www.acaps.org/covid19-government-measures-dataset
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Yes, the parliament must pass the Emergency Power Act for it to come into effect. 
+ The parliament must pass the Emergency Power Act for the State of Emergency to come into effect.
+The Comminucable Diseaase Act has already previously been approved by parliament. 
 
 *Sources*:
- https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
+ https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
 https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
 
 
@@ -228,13 +284,22 @@ https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Yes, the parliament passed the Emergency Power Act. 
+ The parliament  passed the Emergency Power Act for the State of Emergency to come into effect.
+The Comminucable Diseaase Act has already previously been approved by parliament. 
 
 *Sources*:
- https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
+ https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
 https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
 
 
@@ -255,22 +320,27 @@ https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- According to the Emergency Powers Act, all decrees must be approved or repealed by parliament within a week of its declaration, and in case of repeal it will be immediately terminated. The Act states that:
-"The Decree shall be immediately submitted to the Parliament. The Parliament shall decide whether the Decree is to apply as such or whether it is to be repealed in full or in part and whether it is to remain in force for the period provided or for a
-shorter period."
-Therefore, this is coded as 0. 
+ According to the Emergency Powers Act, all decrees must be approved or repealed by parliament within a week of its declaration, and in case of repeal it will be immediately terminated. The Act states that:"The Decree shall be immediately submitted to the Parliament. The Parliament shall decide whether the Decree is to apply as such or whether it is to be repealed in full or in part and whether it is to remain in force for the period provided or for a shorter period.” The parliament thus retained its law making role and was not circumvented by the state of emergency. After the SOE ended, the parliaments role has also been preserved, and this is therefore coded as 0 for all periods. 
 
 *Sources*:
- https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
+ https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
 https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
 
 
@@ -283,15 +353,22 @@ https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -316,8 +393,15 @@ https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -347,18 +431,24 @@ https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- I haven't found any record of sub-national variation in the policy response to Covid-19. All emergency measures are handled by the Finish Government.
-There was a lockdown of the Uusima-region, but this only pertained to moving in and out of the region, and had no impact on the emergency measures within each region as these stayed the same. 
+ No record of sub-national variation has been found in the Mar-Jun and Jul-Sep periods. There was a lockdown of the Uusima-region, but this only pertained to moving in and out of the region, and had no impact on the emergency measures within each region as these stayed the same. However, in October some measures regarding restaurant businesses and the number of people allowed to gather were imposed in only some regions, based on the number of Covid-19 cases. This is therefore coded as 1 for this period, as there are sub-national variation in terms of a few issues. 
 
 *Sources*:
- "https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
-20030696.pdf
-https://www.acaps.org/covid19-government-measures-dataset
-"
-https://valtioneuvosto.fi/en/article/-/asset_publisher/1410869/hallituksen-linjaukset
+ "https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi20030696.pdfhttps://www.acaps.org/covid19-government-measures-dataset"https://valtioneuvosto.fi/en/article/-/asset_publisher/1410869/hallituksen-linjaukset
+https://valtioneuvosto.fi/en/-/1271139/tighter-restrictions-to-be-imposed-on-food-and-beverage-service-businesses-in-six-areas
+https://valtioneuvosto.fi/en/information-on-coronavirus/current-restrictions
+https://www.acaps.org/covid19-government-measures-dataset
 
 
 
@@ -382,22 +472,25 @@ https://valtioneuvosto.fi/en/article/-/asset_publisher/1410869/hallituksen-linja
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Human Rights Watch, Amnesty International and EU agency of fundamental righs have not reported any discrimination within the response to Covid-19, and no indications have been found of it.
-Worth noting however is that there's been debate in Finland as to whether the measures discriminate elderly and people living in institutions. For example, people in insitutions have not been allowed to have visitors due to health reasons, which has been very hard on some groups.
+ Human Rights Watch, Amnesty International and EU agency of fundamental righs have not reported any discrimination within the response to Covid-19, and no indications have been found of it.
+Worth noting however is that there's been debate in Finland as to whether the measures discriminate elderly and people living in institutions. For example, people in insitutions have not been allowed to have visitors due to health reasons, which has been very hard on some groups.
 But this is not a case of the emergency measures actively discriminating some group, and this is thus coded as 0. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38449&resourceType=newsarticle&sort=date
-https://www.hrw.org/sitesearch?search=Finland
-https://fra.europa.eu/sites/default/files/fra_uploads/finland-report-covid-19-april-2020_en.pdf
+ https://www.amnesty.org/en/search/?country=38449&resourceType=newsarticle&sort=date
+https://www.hrw.org/sitesearch?search=Finland
+https://fra.europa.eu/sites/default/files/fra_uploads/finland-report-covid-19-april-2020_en.pdf
 https://fra.europa.eu/sites/default/files/fra_uploads/fi_report_on_coronavirus_pandemic_july_2020.pdf
 
 
@@ -427,10 +520,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/fi_report_on_coronavirus_p
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -438,9 +534,9 @@ Time period: *Jul-Sep*: 0
  Neither the EU agency for fundamental rights, Human Rights Watch or Amnesty international has reported any incidents of violations of non-derogable rights, and no other indication has been found that that has occurred in Finland's covid-19 response. This is therefore coded as 0. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38449&resourceType=newsarticle&sort=date
-https://www.hrw.org/sitesearch?search=Finland
-https://fra.europa.eu/sites/default/files/fra_uploads/finland-report-covid-19-april-2020_en.pdf
+ https://www.amnesty.org/en/search/?country=38449&resourceType=newsarticle&sort=date
+https://www.hrw.org/sitesearch?search=Finland
+https://fra.europa.eu/sites/default/files/fra_uploads/finland-report-covid-19-april-2020_en.pdf
 https://fra.europa.eu/sites/default/files/fra_uploads/fi_report_on_coronavirus_pandemic_july_2020.pdf
 
 
@@ -465,14 +561,22 @@ https://fra.europa.eu/sites/default/files/fra_uploads/fi_report_on_coronavirus_p
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Finish Governments response to Covid-19. 
+ Neither Reporters Without Borders, committe to protect journalists nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Finish Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B108%5D=108
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+ https://rsf.org/en/thematique/internet?countries%5B108%5D=108https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+https://cpj.org/europe/finland/
 
 
 
@@ -484,21 +588,28 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limitations on media freedom in the Emergency Powers Act or the actions taken under it. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B108%5D=108
+ https://rsf.org/en/thematique/internet?countries%5B108%5D=108
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
 
 
@@ -511,22 +622,29 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limitations on media freedom in the Emergency Powers Act or the actions taken under it. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B108%5D=108
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+ https://rsf.org/en/thematique/internet?countries%5B108%5D=108https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+https://cpj.org/europe/finland/
 
 
 
@@ -548,19 +666,22 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Finland, and no other indications have been found of there having been implemented any such limitations. 
+ Neither Reporters without Borders, committe to protect journalists nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Finland, and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B108%5D=108
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+ https://rsf.org/en/thematique/internet?countries%5B108%5D=108https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+https://cpj.org/europe/finland/
 
 
 
@@ -572,7 +693,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -582,19 +703,22 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in Finland, and no other indications have been found of there having been implemented any such limitations. 
+ Neither Reporters without Borders, committe to protect journalists nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in Finland, and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B108%5D=108
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+ https://rsf.org/en/thematique/internet?countries%5B108%5D=108https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+https://cpj.org/europe/finland/
 
 
 
@@ -616,19 +740,22 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in Finland, and no other indications have been found of there having been implemented any such limitations. 
+ Neither Reporters without Borders, committe to protect journalists nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in Finland, and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B108%5D=108
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+ https://rsf.org/en/thematique/internet?countries%5B108%5D=108https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+https://cpj.org/europe/finland/
 
 
 
@@ -647,23 +774,26 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information, and no other indications have been found of there being any such limitations. 
+ Neither Reporters without Borders, committe to protect journalists nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information, and no other indications have been found of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B108%5D=108
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+ https://rsf.org/en/thematique/internet?countries%5B108%5D=108https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+https://cpj.org/europe/finland/
 
 
 
@@ -685,19 +815,22 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any verbal harassment of journalists in Finland, and no other indications have been found of there having been any such harassment. 
+ Neither Reporters without Borders, committe to protect journalists nor International Press Institute have reported any verbal harassment of journalists in Finland, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B108%5D=108
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+ https://rsf.org/en/thematique/internet?countries%5B108%5D=108https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+https://cpj.org/europe/finland/
 
 
 
@@ -719,19 +852,22 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Neither Reporters without Borders nor International Press Institute have reported any physical harassment of journalists in Finland, and no other indications have been found of there having been any such harassment. 
+ Neither Reporters without Borders, committe to protect journalists nor International Press Institute have reported any physical harassment of journalists in Finland, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B108%5D=108
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+ https://rsf.org/en/thematique/internet?countries%5B108%5D=108https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+https://cpj.org/europe/finland/
 
 
 
@@ -755,10 +891,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -766,8 +905,8 @@ Time period: *Jul-Sep*: 0
  There is no deviations from the information provided by WHO and that of the Finish Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/finland-report-covid-19-april-2020_en.pdf
-https://thl.fi/en/web/infectious-diseases/what-s-new/coronavirus-covid-19-latest-updates
+ https://fra.europa.eu/sites/default/files/fra_uploads/finland-report-covid-19-april-2020_en.pdf
+https://thl.fi/en/web/infectious-diseases/what-s-new/coronavirus-covid-19-latest-updates
 https://thl.fi/en/web/infectious-diseases/what-s-new/coronavirus-covid-19-latest-updates/coronavirus-covid-19
 
 
@@ -792,10 +931,13 @@ https://thl.fi/en/web/infectious-diseases/what-s-new/coronavirus-covid-19-latest
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -803,9 +945,9 @@ Time period: *Jul-Sep*: 0
  Human Rights Watch, Amnesty International and EU agency of fundamental righs have not reported any violence when enforcing emergency measures. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38449&resourceType=newsarticle&sort=date
-https://www.hrw.org/sitesearch?search=Finland
-https://fra.europa.eu/sites/default/files/fra_uploads/finland-report-covid-19-april-2020_en.pdf
+ https://www.amnesty.org/en/search/?country=38449&resourceType=newsarticle&sort=date
+https://www.hrw.org/sitesearch?search=Finland
+https://fra.europa.eu/sites/default/files/fra_uploads/finland-report-covid-19-april-2020_en.pdf
 https://fra.europa.eu/sites/default/files/fra_uploads/fi_report_on_coronavirus_pandemic_july_2020.pdf
 
 
@@ -818,7 +960,7 @@ https://fra.europa.eu/sites/default/files/fra_uploads/fi_report_on_coronavirus_p
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -828,10 +970,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/fi_report_on_coronavirus_p
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -840,31 +985,3 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://www.defmin.fi/en/topical/preparing_for_coronavirus/frequently_asked_questions_about_covid-19_and_defence_administration
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/fi_report_on_coronavirus_pandemic_july_2020.pdf
-https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
-https://valtioneuvosto.fi/en/information-on-coronavirus/current-restrictions

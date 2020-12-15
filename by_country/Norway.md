@@ -1,9 +1,6 @@
 # Norway 
 
 
-Time 2020-09-09 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-09
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,15 +25,35 @@ Time 2020-09-09
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- Norway passed a new law, the Corona Act, on 24 March, which "gives the King (i.e. the Government) the authority to add to or depart from certain legislation as far as is necessary to safeguard the intention of the law. " In other words, no state of emergency has been declared, but national emergency measures are being taken under the Corona Act. Therefore, this is coded as 4. 
+ March-June: Norway passed a new law, the Corona Act, on 24 March, which "gives the King (i.e. the Government) the authority to add to or depart from certain legislation as far as is necessary to safeguard the intention of the law. " In other words, no state of emergency has been declared, but national emergency measures are being taken under the Corona Act. Therefore, this is coded as 4.
+
+July-September, October-December:  In addition to measures passed under the Corona Act, Norway has other implemented emergency measures based on "Lov om vern mot smittsomme sykdommer [smittevernloven]" (the Act of 5 August 1994 No. 55 relating to control of communicable diseases), first used to adopt quarantine measures for people arriving from abroad as "Vedtak etter lov om vern mot smittsomme sykdommer § 4-1 andre ledd om karantene (isolering) etter reiser utenfor Norden" (13 March 2020, FOR-2020-03-12-271) . In July-September, October-December, emergency measures were passed as amendments to  "Forskrift om smitteverntiltak mv. ved koronautbruddet (covid-19-forskriften)" from 27 March 2020 (FOR-2020-03-27-470). 
 
 *Sources*:
- https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2019-2020/the-corona-act/
-https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2019-2020/vedtak-201920-080/
+ https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2019-2020/the-corona-act/
+https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2019-2020/vedtak-201920-080/
 https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyheter/2019-2020/skal-behandle-fullmaktslov/
+https://lovdata.no/dokument/LTI/lov/2020-03-27-17
+https://lovdata.no/artikkel/forskrifter_med_heimel_i_koronaloven/2682
+
+https://lovdata.no/dokument/LTI/forskrift/2020-03-12-271
+https://www.norway.no/en/canada/norway-canada/news-events/news2/the-norwegian-government-introduces-a-variety-of-new-measures-to-prevent-transmission-of-the-coronavirus/
+https://www.regjeringen.no/contentassets/9d991e8a50774074b5b703d0268c1b76/regulations_on_quarantine.pdf
+https://lovdata.no/dokument/SF/forskrift/2020-03-27-470/#KAPITTEL_5
+https://lovdata.no/dokument/NL/lov/1994-08-05-55
+
+
 
 
 
@@ -55,13 +72,23 @@ https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyhet
 *Scale*: Character string.
 
  
-*Answer*: The Corona Act (Koronaloven) 
+*Time period: Q2*: The Corona Act (Koronaloven)
+
+ 
+*Time period: Q3*: the Act of 5 August 1994 No. 55 relating to control of communicable diseases
+
+ 
+*Time period: Q4*: the Act of 5 August 1994 No. 55 relating to control of communicable diseases
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyheter/2019-2020/skal-behandle-fullmaktslov/
+
+https://lovdata.no/dokument/NL/lov/1994-08-05-55
 
 
 
@@ -80,15 +107,26 @@ https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyhet
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-27 
+*Time period: Q2*: 2020-03-27
+
+ 
+*Time period: Q3*: 2020-03-13
+
+ 
+*Time period: Q4*: 2020-03-13
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2019-2020/the-corona-act/
-https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2019-2020/vedtak-201920-080/
+ https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2019-2020/the-corona-act/
+https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2019-2020/vedtak-201920-080/
 https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyheter/2019-2020/skal-behandle-fullmaktslov/
+
+https://lovdata.no/dokument/LTI/forskrift/2020-03-12-271
+https://www.norway.no/en/canada/norway-canada/news-events/news2/the-norwegian-government-introduces-a-variety-of-new-measures-to-prevent-transmission-of-the-coronavirus/
 
 
 
@@ -107,13 +145,23 @@ https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyhet
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-27 
+*Time period: Q2*: 2020-05-27
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Not all emergency measures have ended in Norway, but the Corona Act , which was a temporary law, has expired. 
+ March-June: Not all emergency measures have ended in Norway, but the Corona Act , which was a temporary law, has expired.
+
+July-September, October-December: The implementation of "Lov om vern mot smittsomme sykdommer [smittevernloven]" (The Act Relating to the Control of Communicable Diseases) has not ended at the time of coding. 
 
 *Sources*:
- https://www.regjeringen.no/no/tema/Koronasituasjonen/forskrifter-med-hjemmel-i-koronaloven/id2695150/
+ https://www.regjeringen.no/no/tema/Koronasituasjonen/forskrifter-med-hjemmel-i-koronaloven/id2695150/
 https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyheter/2019-2020/skal-behandle-fullmaktslov/
 
 
@@ -136,14 +184,26 @@ https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyhet
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Yes, the initial time limit of the Corona Act was 1 month. 
+ March-June: Yes, the initial time limit of the Corona Act was 1 month.
+
+July-September, October-December: no defined end date for some measures implemented using "Lov om vern mot smittsomme sykdommer [smittevernloven]" (the Act of 5 August 1994 No. 55 relating to control of communicable diseases), such as regulation that prohibits private gatherings of more than 20 people (applied in both time periods). 
 
 *Sources*:
- https://www.regjeringen.no/no/tema/Koronasituasjonen/forskrifter-med-hjemmel-i-koronaloven/id2695150/
+ https://www.regjeringen.no/no/tema/Koronasituasjonen/forskrifter-med-hjemmel-i-koronaloven/id2695150/
 https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyheter/2019-2020/skal-behandle-fullmaktslov/
+
+https://lovdata.no/dokument/SF/forskrift/2020-03-27-470/#KAPITTEL_5
 
 
 
@@ -155,20 +215,32 @@ https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyhet
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-27 
+*Time period: Q2*: 2020-05-27
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The temporary law was initially set to expire after one month, i.e. 27 April, but was later extended yet another month. 
+ March-June: The temporary law was initially set to expire after one month, i.e. 27 April, but was later extended yet another month.
+
+July-September, October-December: no defined end date for some measures implemented using "Lov om vern mot smittsomme sykdommer [smittevernloven]" (the Act of 5 August 1994 No. 55 relating to control of communicable diseases), such as regulation that prohibits private gatherings of more than 20 people (applied in both time periods). Therefore emlimitdate is not coded. 
 
 *Sources*:
  https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyheter/2019-2020/skal-behandle-fullmaktslov/
+
+https://lovdata.no/dokument/SF/forskrift/2020-03-27-470/#KAPITTEL_5
 
 
 
@@ -180,7 +252,7 @@ https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyhet
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -190,15 +262,26 @@ https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyhet
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Yes, the parliament had to pass the Corona Act for it to come in effect. 
+ March-June: Yes, the parliament had to pass the Corona Act for it to come in effect.
+
+July-September, October-December:  No provisions for legislature approval in "Lov om vern mot smittsomme sykdommer [smittevernloven]" (the Act of 5 August 1994 No. 55 relating to control of communicable diseases) (§ 4-1.) 
 
 *Sources*:
- https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2019-2020/the-corona-act/
-https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2019-2020/vedtak-201920-080/
+ https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2019-2020/the-corona-act/https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2019-2020/vedtak-201920-080/
 https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyheter/2019-2020/skal-behandle-fullmaktslov/
+
+https://lovdata.no/dokument/NL/lov/1994-08-05-55
 
 
 
@@ -220,15 +303,27 @@ https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyhet
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The Parliament did pass the Corona Act 
+ March-June: The Parliament did pass the Corona Act
+
+July-September, October-December:  No provisions for legislature approval in "Lov om vern mot smittsomme sykdommer [smittevernloven]" (the Act of 5 August 1994 No. 55 relating to control of communicable diseases) (§ 4-1.) 
 
 *Sources*:
- https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2019-2020/the-corona-act/
-https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2019-2020/vedtak-201920-080/
+ https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2019-2020/the-corona-act/
+https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2019-2020/vedtak-201920-080/
 https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyheter/2019-2020/skal-behandle-fullmaktslov/
+
+https://lovdata.no/dokument/NL/lov/1994-08-05-55
 
 
 
@@ -248,23 +343,36 @@ https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyhet
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- "The IPU Reports that: ""The Norwegian Parliament (the Storting) introduced a number of measures which will be in place until end of April. These measures include: the number of MPs at plenary meetings and during voting is reduced to 87 from 102; plenary will take decisions only on urgent issues identified by the presidency following consultations with leaders of party groups in Parliament; some rules of procedure are temporarily suspended (deadlines, physical presence in Committee meetings with priority given to tele/video conferencing); reduced committee workload (priority given to urgent cases and bills); cancellation of international and domestic committee members travel. The Storting also established a coronavirus special committee. On 21 March, Parliament adopted the Enabling Act authorizing Government to make decisions which, according to the Constitution, must be taken in Parliament. The aim is to enable Government to take measures to limit the disruption of the normal functioning of society and mitigate the negative consequences of the pandemic for the population and on the economy. The Act is valid for a month but can also be repealed by the Storting at any given time.""
+ March-June: "The IPU Reports that: ""The Norwegian Parliament (the Storting) introduced a number of measures which will be in place until end of April. These measures include: the number of MPs at plenary meetings and during voting is reduced to 87 from 102; plenary will take decisions only on urgent issues identified by the presidency following consultations with leaders of party groups in Parliament; some rules of procedure are temporarily suspended (deadlines, physical presence in Committee meetings with priority given to tele/video conferencing); reduced committee workload (priority given to urgent cases and bills); cancellation of international and domestic committee members travel. The Storting also established a coronavirus special committee. On 21 March, Parliament adopted the Enabling Act authorizing Government to make decisions which, according to the Constitution, must be taken in Parliament. The aim is to enable Government to take measures to limit the disruption of the normal functioning of society and mitigate the negative consequences of the pandemic for the population and on the economy. The Act is valid for a month but can also be repealed by the Storting at any given time.""
 Consequently, the law making role of the parliament is somewhat decreased as the government is given the right to make decisions that parliament usually needs to approve. However, as the parliament also passed an amendment on this stating that "" If at least one-third of the total number of Members does not support a regulation or parts of a regulation, the MPs in question may send a written declaration to the Storting’s Presidium. As soon as the Presidium receives such a declaration, it will notify the Government. The Corona Act obligates the King to revoke the regulations in question with immediate effect."" (https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2019-2020/the-corona-act/)
-Therefore, the parliament is still involved in urgent law making during the presence of the Corona Act, and only a third of the MPs is needed to revoke any regulation. Considering this, the law making role is regarded to not have been affected, since it both involved in some urgency law making and can revoke them. " 
+Therefore, the parliament is still involved in urgent law making during the presence of the Corona Act, and only a third of the MPs is needed to revoke any regulation. Considering this, the law making role is regarded to not have been affected, since it both involved in some urgency law making and can revoke them. "
+
+July-September, October-December: I found no limitations on the lawmaking power of the legislature in these time periods. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#N
-https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2019-2020/the-corona-act/
+ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#N
+https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2019-2020/the-corona-act/
 https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2019-2020/the-storting-constitutes-coronavirus-special-committee/
+
+https://lovdata.no/dokument/NL/lov/1994-08-05-55
+https://www.stortinget.no/no
 
 
 
@@ -276,15 +384,22 @@ https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-pa
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -309,8 +424,15 @@ https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-pa
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -340,13 +462,26 @@ https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-pa
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The emergency measures have been taken nationwide and no sub-national variation has been found in Norway. This is therefore coded as 0. 
+ March-June: The emergency measures have been taken nationwide and no sub-national variation has been found in Norway. This is therefore coded as 0.
+
+July-September, October-December: In September and October stricter measures were declared in Oslo. 
 
 *Sources*:
  https://www.acaps.org/covid19-government-measures-dataset
+
+https://www.garda.com/crisis24/news-alerts/384291/norway-authorities-tighten-covid-19-restrictions-in-oslo-as-of-september-29-update-16
+https://www.nrk.no/osloogviken/innforer-forbud-mot-private-samlinger-med-flere-enn-ti-personer-1.15168519
 
 
 
@@ -370,10 +505,13 @@ https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-pa
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -381,7 +519,7 @@ Time period: *Jul-Sep*: 0
  Human Rights Watch and Amnesty International have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9615
+ https://www.hrw.org/news?country[]=9615
 https://www.amnesty.org/en/countries/europe-and-central-asia/norway/
 
 
@@ -411,10 +549,13 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/norway/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -422,7 +563,7 @@ Time period: *Jul-Sep*: 0
  Amnesty International have not reported any violations of non-derogable rights within the response to Covid-19, and no other indications of such violations has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9615
+ https://www.hrw.org/news?country[]=9615
 https://www.amnesty.org/en/countries/europe-and-central-asia/norway/
 
 
@@ -447,13 +588,21 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/norway/
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Norwegian Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B126%5D=126
+ https://rsf.org/en/thematique/internet?countries%5B126%5D=126
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Norway
 
 
@@ -466,21 +615,28 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B126%5D=126
+ https://rsf.org/en/thematique/internet?countries%5B126%5D=126
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Norway
 
 
@@ -493,21 +649,28 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B126%5D=126
+ https://rsf.org/en/thematique/internet?countries%5B126%5D=126
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Norway
 
 
@@ -530,10 +693,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -541,7 +707,7 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Norway,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B126%5D=126
+ https://rsf.org/en/thematique/internet?countries%5B126%5D=126
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Norway
 
 
@@ -554,7 +720,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -564,10 +730,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -575,7 +744,7 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in Norway,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B126%5D=126
+ https://rsf.org/en/thematique/internet?countries%5B126%5D=126
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Norway
 
 
@@ -598,10 +767,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -609,7 +781,7 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in Norway  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B126%5D=126
+ https://rsf.org/en/thematique/internet?countries%5B126%5D=126
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Norway
 
 
@@ -629,14 +801,17 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -644,7 +819,7 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information, and there's no other indications of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B126%5D=126
+ https://rsf.org/en/thematique/internet?countries%5B126%5D=126
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Norway
 
 
@@ -667,10 +842,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -678,7 +856,7 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any verbal harassment of journalists in Norway, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B126%5D=126
+ https://rsf.org/en/thematique/internet?countries%5B126%5D=126
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Norway
 
 
@@ -701,10 +879,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -712,7 +893,7 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any physical harassment of journalists in Norway, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B126%5D=126
+ https://rsf.org/en/thematique/internet?countries%5B126%5D=126
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Norway
 
 
@@ -737,10 +918,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -748,7 +932,7 @@ Time period: *Jul-Sep*: 0
  There's no deviations from the information provided by WHO and that of the Norwegian Government on Covid-19, and no complaints or accusations of any such disinformation have been found. 
 
 *Sources*:
- https://helsenorge.no/coronavirus
+ https://helsenorge.no/coronavirus
 https://helsenorge.no/coronavirus/infection-and-incubation-period
 
 
@@ -773,10 +957,13 @@ https://helsenorge.no/coronavirus/infection-and-incubation-period
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -784,7 +971,7 @@ Time period: *Jul-Sep*: 0
  Human Rights Watch and Amnesty International have not  reported any incidents of violence in enforcing emergency measures, and there are no other indiciations of such violence in the emergency measures 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9615
+ https://www.hrw.org/news?country[]=9615
 https://www.amnesty.org/en/countries/europe-and-central-asia/norway/
 
 
@@ -797,7 +984,7 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/norway/
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -807,42 +994,20 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/norway/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
 
  
-
-*Comments*:
- The Norwegian military is not involved in enforcing emergency measures. 
-
-*Sources*:
- http://euromil.org/armed-forces-and-covid-19/
-https://forsvaret.no/en/nor-armed-forces-covid-19?fbclid=IwAR2D9HdCRcuQHhXH7VGC8eeLfEaBEUrZ1YMaWFpmqYN0-ibiRO-wOT0JXas
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
+*Time period: Q4*: 0
 
  
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ http://euromil.org/armed-forces-and-covid-19/
+https://forsvaret.no/en/nor-armed-forces-covid-19?fbclid=IwAR2D9HdCRcuQHhXH7VGC8eeLfEaBEUrZ1YMaWFpmqYN0-ibiRO-wOT0JXas
+https://www.forsvaret.no/en/news/archive/the-norwegian-armed-forces-and-the-covid-19-pandemic

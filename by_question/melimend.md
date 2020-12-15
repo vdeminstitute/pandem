@@ -2,8 +2,15 @@
 
 
 # Afghanistan 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -14,8 +21,15 @@
 
 
 # Albania 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -26,30 +40,43 @@
 
 
 # Algeria 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
-https://www.icnl.org/covid19tracker/?location=142&issue=&date=&type=
-https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
-https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
-https://cpj.org/2020/04/algeria-blocks-3-news-websites-and-criminalizes-fa/
-https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
-https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%99-activists-denounce-law
-
+ https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
+https://www.icnl.org/covid19tracker/?location=142&issue=&date=&type=
+https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
+https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
+https://cpj.org/2020/04/algeria-blocks-3-news-websites-and-criminalizes-fa/
+https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
+https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%99-activists-denounce-law
 
 
 
 # Angola 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -60,8 +87,15 @@ https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%
 
 
 # Argentina 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -72,61 +106,98 @@ https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%
 
 
 # Armenia 
-*Answer*: 2020-09-11 
+*Time period: Q2*: 2020-04-13
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The media measures were relaxed and made less severe from 24 March 2020 following consultations with media representatives (equivalent to melim=1);  the measures were in place for the duration of the state of emergency. 
+ The measures applied until 13 April when the state of emergency (but not the media measures) was extended. The Minister of Justice issued a statement that the measures might be restored, which did not happen (the state of emergency ended on 11 September). Melim is therefore coded as 3 in the March-June period. 
 
 *Sources*:
  https://www.e-gov.am/gov-decrees/item/33613/
 https://www.osce.org/representative-on-freedom-of-media/449098
 https://rm.coe.int/armenia-reply-en-emergency-restrictions-force-media-to-suppress-indepe/16809e4ace
+https://www.loc.gov/law/help/covid-19-freedom-of-expression/freedom-of-expression-during-covid-19.pdf
 
 
 
 # Australia 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limitations on media freedom in the Biosecurity Emergency declaration, or any the measures taken under it. 
 
 *Sources*:
- https://www.legislation.gov.au/Details/F2020L00266
+ https://www.legislation.gov.au/Details/F2020L00266
 https://www.legislation.gov.au/Details/C2017C00303
 
 
 
 # Austria 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not place any de jure limitations on media. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/austria-report-covid-19-april-2020_en_0.pdf
-https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2020_I_12/BGBLA_2020_I_12.pdfsig
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Austria
+ https://fra.europa.eu/sites/default/files/fra_uploads/austria-report-covid-19-april-2020_en_0.pdf
+https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2020_I_12/BGBLA_2020_I_12.pdfsig
+https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Austria
 https://rsf.org/en/austria
 
 
 
 # Azerbaijan 
-*Answer*: 2020-11-04 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- For the duration of the quarantine regime (see emend) 
+*No comment provided* 
 
 *Sources*:
- https://cabmin.gov.az/az/document/4469/
-https://koronavirusinfo.az/files/3/f7244ab7ee914f912c81f9980d7a9ba1.pdf
+*No source provided*
 
 
 
 # Bangladesh 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -137,8 +208,15 @@ https://koronavirusinfo.az/files/3/f7244ab7ee914f912c81f9980d7a9ba1.pdf
 
 
 # Belarus 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -149,8 +227,15 @@ https://koronavirusinfo.az/files/3/f7244ab7ee914f912c81f9980d7a9ba1.pdf
 
 
 # Belgium 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -161,8 +246,15 @@ https://koronavirusinfo.az/files/3/f7244ab7ee914f912c81f9980d7a9ba1.pdf
 
 
 # Benin 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -173,21 +265,36 @@ https://koronavirusinfo.az/files/3/f7244ab7ee914f912c81f9980d7a9ba1.pdf
 
 
 # Bolivia 
-*Answer*: 2020-05-14 
+*Time period: Q2*: 2020-05-14
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The Decreto Supremo n. 4236 repealed the provisions that threatened freedom of expression. 
+ The Decreto Supremo nº 4236 repealed the provisions that threatened freedom of expression. 
 
 *Sources*:
- https://www.boliviasegura.gob.bo/archivos/decreto4236.pdf
-https://www.infobae.com/america/agencias/2020/05/15/bolivia-anula-decreto-que-restringe-libertad-de-expresion/
+ https://www.boliviasegura.gob.bo/archivos/decreto4236.pdf
+https://www.infobae.com/america/agencias/2020/05/15/bolivia-anula-decreto-que-restringe-libertad-de-expresion/
 https://cpj.org/2020/05/bolivian-decree-broadens-criminal-sanctions-for-di/
 
 
 
 # Bosnia and Herzegovina 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -198,23 +305,46 @@ https://cpj.org/2020/05/bolivian-decree-broadens-criminal-sanctions-for-di/
 
 
 # Botswana 
-*Answer*: 2020-10-09 
+*Time period: Q2*: 2020-10-02
+
+ 
+*Time period: Q3*: 2021-03-28
+
+ 
+*Time period: Q4*: 2021-03-28
+
+ 
 
 *Comments*:
- Based on six months from the parliamentary decision to extend the State of Emergency for a six month period, and section 3 in the Emergency Powers Covid-19 Regulations 2020, declaring that the media limitations last for the duration of the State of Emergency. 
+ Based on six months from the parliamentary decision to extend the State of Emergency for a six month period, and section 3 in the Emergency Powers Covid-19 Regulations 2020, declaring that the media limitations last for the duration of the State of Emergency.
+
+The State of Emergency has been extended to 28 March 2021. 
 
 *Sources*:
- https://reports.unocha.org/en/country/southern-eastern-africa/card/4zXxeVEkYW/
-
-http://www.dailynews.gov.bw/news-details.php?nid=55561
-
+ https://www.voanews.com/africa/botswana-parliament-votes-extend-covid-emergency-march
+
+https://reports.unocha.org/en/country/southern-eastern-africa/card/4zXxeVEkYW/
+
+
+
+http://www.dailynews.gov.bw/news-details.php?nid=55561
+
+
+
 https://www.constituteproject.org/constitution/Botswana_2016?lang=en
 
 
 
 # Brazil 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -225,8 +355,15 @@ https://www.constituteproject.org/constitution/Botswana_2016?lang=en
 
 
 # Bulgaria 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -237,8 +374,15 @@ https://www.constituteproject.org/constitution/Botswana_2016?lang=en
 
 
 # Burkina Faso 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -249,24 +393,38 @@ https://www.constituteproject.org/constitution/Botswana_2016?lang=en
 
 
 # Burma/Myanmar 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de-jure limits on media freedom in the emergency response. 
 
 *Sources*:
- https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-covid-19-death
-https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
-https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
-https://rsf.org/en/thematique/internet?countries%5B60%5D=60
+ https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-covid-19-death
+https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
+https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
+https://rsf.org/en/thematique/internet?countries%5B60%5D=60
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Myanmar
 
 
 
 # Burundi 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -277,26 +435,34 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Cambodia 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Under the law, a State of Emergency could be declared "for a limited or unlimited period of time". Hence, there is no fixed end to the de-jure limits of media freedom. 
+*No comment provided* 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/02/cambodia-emergency-bill-recipe-dictatorship
-
-https://rsf.org/en/news/cambodia-hun-sen-uses-covid-19-crisis-tighten-his-grip
-
-
-https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
-
+*No source provided*
 
 
 
 # Cameroon 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -307,22 +473,36 @@ https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20E
 
 
 # Canada 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B177%5D=177
-https://ipi.media/canada/
+ https://rsf.org/en/thematique/internet?countries%5B177%5D=177
+https://ipi.media/canada/
 https://www.justice.gc.ca/eng/csj-sjc/covid.html
 
 
 
 # Central African Republic 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -333,8 +513,15 @@ https://www.justice.gc.ca/eng/csj-sjc/covid.html
 
 
 # Chad 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -345,8 +532,15 @@ https://www.justice.gc.ca/eng/csj-sjc/covid.html
 
 
 # Chile 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -357,27 +551,46 @@ https://www.justice.gc.ca/eng/csj-sjc/covid.html
 
 
 # China 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency response law makes no mention of a time limit 
 
 *Sources*:
  "http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
-
-
+
+
+
+
 https://www.reuters.com/article/us-china-health-response/three-more-chinese-regions-lower-emergency-response-level-as-virus-threat-recedes-idUSKCN20K029
-
-http://constitutionnet.org/state-of-emergency
-http://english.court.gov.cn/2015-08/17/content_21625180_2.htm"
+
+
+http://constitutionnet.org/state-of-emergency
+
+http://english.court.gov.cn/2015-08/17/content_21625180_2.htm"
+
 http://english.court.gov.cn/2015-08/17/content_21625180.htm
 
 
 
 # Colombia 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -388,8 +601,15 @@ http://english.court.gov.cn/2015-08/17/content_21625180.htm
 
 
 # Costa Rica 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -400,8 +620,15 @@ http://english.court.gov.cn/2015-08/17/content_21625180.htm
 
 
 # Croatia 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -412,8 +639,15 @@ http://english.court.gov.cn/2015-08/17/content_21625180.htm
 
 
 # Cuba 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -424,8 +658,15 @@ http://english.court.gov.cn/2015-08/17/content_21625180.htm
 
 
 # Czech Republic 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -436,8 +677,15 @@ http://english.court.gov.cn/2015-08/17/content_21625180.htm
 
 
 # Democratic Republic of the Congo 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -448,21 +696,36 @@ http://english.court.gov.cn/2015-08/17/content_21625180.htm
 
 
 # Denmark 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B105%5D=105
+ https://rsf.org/en/thematique/internet?countries%5B105%5D=105
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Denmark
+https://cpj.org/europe/denmark/
 
 
 
 # Dominican Republic 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -473,8 +736,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Ecuador 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -485,8 +755,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Egypt 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -497,7 +774,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # El Salvador 
-*Answer*: 2020-03-31 
+*Time period: Q2*: 2020-03-31
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -508,8 +793,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Eritrea 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -520,36 +812,62 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Ethiopia 
-*Answer*: 2020-09-08 
+*Time period: Q2*: 2020-09-08
+
+ 
+*Time period: Q3*: 2020-09-08
+
+ 
+*Time period: Q4*: 2020-09-08
+
+ 
 
 *Comments*:
  Based on the five months State of Emergency that started on April 8 2020. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/330611/ethiopia-government-declares-state-of-emergency-due-to-covid-19-april-8-update-8
-
-https://www.washingtonpost.com/world/africa/ethiopians-mark-the-start-of-a-new-year-after-gods-wrath/2020/09/11/f0865f9e-f418-11ea-8025-5d3489768ac8_story.html
-
+ https://www.garda.com/crisis24/news-alerts/330611/ethiopia-government-declares-state-of-emergency-due-to-covid-19-april-8-update-8
+
+
+
+https://www.washingtonpost.com/world/africa/ethiopians-mark-the-start-of-a-new-year-after-gods-wrath/2020/09/11/f0865f9e-f418-11ea-8025-5d3489768ac8_story.html
+
+
+
 
 
 
 
 # Finland 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limitations on media freedom in the Emergency Powers Act or the actions taken under it. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B108%5D=108
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+ https://rsf.org/en/thematique/internet?countries%5B108%5D=108https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+https://cpj.org/europe/finland/
 
 
 
 # France 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -560,8 +878,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Gabon 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -572,8 +897,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Georgia 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -584,21 +916,35 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Germany 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B94%5D=94
+ https://rsf.org/en/thematique/internet?countries%5B94%5D=94
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
 
 
 
 # Ghana 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -609,8 +955,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Greece 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -621,8 +974,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Guatemala 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -633,8 +993,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Guinea 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -645,8 +1012,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Haiti 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -657,7 +1031,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Honduras 
-*Answer*: 2020-03-21 
+*Time period: Q2*: 2020-03-21
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The government, via the decree PCM-021-2020 suspended the article 72 of the contistution, that guarantees press freedom. However, due to public preasure, it changed the decision via the decree PCM-022-2020. 
@@ -668,24 +1050,43 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Hong Kong 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de-jure limits on media freedom in the emergency response. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B68%5D=68
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CFrom%20Our%20Network&country=China
+ https://rsf.org/en/thematique/internet?countries%5B68%5D=68
+https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CFrom%20Our%20Network&country=China
 https://cpj.org/asia/china/
 
 
 
 # Hungary 
-*Answer*: 2020-06-17 
+*Time period: Q2*: 2020-06-17
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- For the duration of the state of emergency that was lifted on 17 June 2020. The law on misinformation (see melim) was added to the Penal Code and was declared not unconstitutional by the Constitutional Court, meaning that it would apply if a state of emergency is declared again. It does not apply during the state of epidemiological preparedness (in place at the time of coding), therefore melimend is same as emend. 
+ March-June: For the duration of the state of emergency that was lifted on 17 June 2020. The law on misinformation (see melim) was added to the Penal Code and was declared not unconstitutional by the Constitutional Court, meaning that it would apply if a state of emergency is declared again. It does not apply during the state of epidemiological preparedness, therefore melimend is same as emend.
+
+July-September: no measures limiting media freedom found.
+
+October-December: The measures apply for the durating of the state of emergency that is in place at the time of coding. 
 
 *Sources*:
  https://net.jogtar.hu/jogszabaly?docid=A2000282.KOR&searchUrl=/gyorskereso%3Fkeyword%3D282/2020
@@ -697,106 +1098,180 @@ https://www.alkotmanybirosag.hu/kozlemeny/nem-alaptorveny-ellenes-a-remhirterjes
 https://alkotmanybirosag.hu/dontes/ab-hatarozat-alkotmanyjogi-panasz-elutasitasarol-9
 https://njt.hu/translated/doc/J2012T0100P_20200331_FIN.PDF
 
+https://njt.hu/translated/doc/J2020T0109P_20201111_FIN.pdf
+
 
 
 # India 
+*Time period: Q2*: 2020-05-31
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
-*No source provided*
+ https://ndma.gov.in/images/ndma-pdf/DM_act2005.pdf
+
+
+
+https://ndma.gov.in/images/covid/Guidelines.pdf
+
+
+
+https://ndma.gov.in/images/covid/addendum-to-mha-order-dated24032020.pdf
+
+
+
+https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
 
 
 
 # Indonesia 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  There is no officially declared time limit on the emergency measures. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Indonesia_2002.pdf?lang=en
-
+ https://www.constituteproject.org/constitution/Indonesia_2002.pdf?lang=en
+
+
+
 https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-31-20-intl/h_9d84bdd8b2671de839f5d60a415d275b
-
-
+
+
+
+
 https://www.thejakartapost.com/news/2020/04/03/indonesias-strategy-to-combat-covid-19-what-we-know-so-far.html
 
 
 
 # Iran 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No declared end of the ban of printed media has been found. 
 
 *Sources*:
- https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-https://www.aap.com.au/iran-orders-halt-to-printed-newspapers/
+ https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figureshttps://www.aap.com.au/iran-orders-halt-to-printed-newspapers/
+https://cpj.org/2020/03/iran-bans-printing-of-all-newspapers-citing-spread/
 
 
 
 # Iraq 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B159%5D=159
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Iraq
+ https://rsf.org/en/thematique/internet?countries%5B159%5D=159https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Iraqhttps://www.hrw.org/news/2020/06/15/iraq-urgent-need-free-speech-protection
+https://www.refworld.org/docid/452524304.html
 
 
 
 # Ireland 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B115%5D=115
+ https://rsf.org/en/thematique/internet?countries%5B115%5D=115
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
 
 
 
 # Israel 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B161%5D=161
+ https://rsf.org/en/thematique/internet?countries%5B161%5D=161
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Israel
 
 
 
 # Italy 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B116%5D=116
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CFrom%20Our%20Network&country=Italy
+ https://rsf.org/en/thematique/internet?countries%5B116%5D=116
+https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CFrom%20Our%20Network&country=Italy
 
 
 
 
 # Ivory Coast 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -807,8 +1282,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CF
 
 
 # Jamaica 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -819,8 +1301,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CF
 
 
 # Japan 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -831,11 +1320,18 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CF
 
 
 # Jordan 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- No declared end of the ban of printed media has been found. Furthermore, no reports on it having ended have been found either, and I therefore assume that it's still active. 
+ No declared end of the ban of printed media has been found. Furthermore, no reports on it having ended have been found either, and it is  therefore assumed to  still be active. 
 
 *Sources*:
  https://www.hrw.org/news/2020/05/05/jordan-free-speech-threats-under-covid-19-response
@@ -843,8 +1339,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CF
 
 
 # Kazakhstan 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -855,38 +1358,66 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CF
 
 
 # Kenya 
-*Answer*: 2020-04-13 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Counted following the 30-day duration of the first measures. 
+ This is the date of when the order was announced by the Kenyan President during the first package of measures (1). These measures that accompanied the order's announcement were said to have a 30/day limit. Later on, the Public Health Act and the State curfew order were activated in end March - early April, and it is not clear where this specific order fits into. 
+However, since the government has been actively attempting to restrict media reporting on covid19, and citizens' freedom of expression about it (see media variables and links 3, 4), it is assumed that it is an ongoing order. The curfew and the emergency measures are in place until January 3 2021. 
 
 *Sources*:
- https://www.health.go.ke/first-case-of-coronavirus-disease-confirmed-in-kenya/;
-
+ https://www.health.go.ke/first-case-of-coronavirus-disease-confirmed-in-kenya/
+(1)
 https://www.icnl.org/covid19tracker/?location=&issue=9&date=&type=#
+
+https://www.article19.org/resources/kenya-journalists-attacked/#:~:text=According%20to%20ARTICLE%2019%20Eastern,about%20by%20the%20coronavirus%20pandemic.&text=The%20collapse%20of%20markets%20for,lockdowns%20brought%20misery%20for%20them
+(3)
+https://allafrica.com/stories/202011060166.html?aa_source=nwsltr-kenya-en
+(4)
 
 
 
 # Kuwait 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de-jure limits on media freedom in the emergency measures. 
 
 *Sources*:
- https://rsf.org/en/kuwait
-https://rsf.org/en/rsf_search?key=Kuwait
-https://ipi.media/?s=Kuwait
-https://kw.usembassy.gov/world-press-freedom-day/
-https://www.theguardian.com/world/kuwait
+ https://rsf.org/en/kuwait
+https://rsf.org/en/rsf_search?key=Kuwait
+https://ipi.media/?s=Kuwait
+https://kw.usembassy.gov/world-press-freedom-day/
+https://www.theguardian.com/world/kuwait
 https://www.nytimes.com/search?query=Kuwait
 
 
 
 # Kyrgyzstan 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -897,79 +1428,109 @@ https://www.nytimes.com/search?query=Kuwait
 
 
 # Laos 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No declared end date yet. 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
-https://la.usembassy.gov/covid-19-information/
-https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
-https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-covid-19-march-30-update-4
+ http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
+https://la.usembassy.gov/covid-19-information/
+https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
+https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-covid-19-march-30-update-4
 https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
 
 
 
 # Lebanon 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de-jure limits on media freedom in the emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B164%5D=164
+ https://rsf.org/en/thematique/internet?countries%5B164%5D=164
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Lebanon
 
 
 
 # Lesotho 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
 
-*Comments*:
- Limits on media reporting started with the declaration of the state of emergency and the impositon of the lockdown.
-The lockdown however, along with other provisions, was eased on May 5th, 2020 (Legal Notice n.41 of 2020.05.05 - see source 2), but a clause regarding fake news was still in place under the section ''Offences and Penalties'':
-Paragraph 12, section (6): ''No person shall publish or spread fake or false information....''
-This provision continued to be in place in later revisions/updates of the covid19 measures: see legal notice no.68 of August 26, 2020 - source -3-).
+ 
+*Time period: Q4*: 
+
  
 
+*Comments*:
+ In the state of emergency declared from 18 March, it stated that "members of the press shall refrain from publishing 'fake news'". The determination of 'fake news' remains undefined (1). A copy of Legal Notice 37 which reinstated the state of emergency on 15 April could not be located online - therefore the coding is conservative to assume that it contained the same restrictions, as this acted as an extension of the prior state of emergency without legislative approval (legislature was dissolved) (2). Likewise, a copy of Legal Notice 40 of 2020 could not be located - however, Legal Notice 41 and 68 on Public Health (COVID-19) Regulations 2020 states that "no person shall publish or spread false information" under section 12(6) (3,4). We code this conservatively, assuming that the Public Health (COVID-19) Regulations 2020 reissued in October 2020 also contain the same regulation (unable to locate a this time). 
+
 *Sources*:
- https://www.gov.ls/document-category/legal-documents/
+ https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+(1)
+https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+(2)
 https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
-(2)
+(3)
 https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
-(3)
-http://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110076/136761/F-581418260/LSO110076.pdf
-
-https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
-https://allafrica.com/stories/202005040976.html
-https://www.garda.com/crisis24/news-alerts/334931/lesotho-authorities-extend-lockdown-throughout-may-5-update-1
-https://reports.unocha.org/en/country/southern-eastern-africa/card/OjrpqS6ae1/
-https://allafrica.com/stories/202005040976.html
+(4)
 
 
 
 # Liberia 
-*Answer*: 2020-07-21 
+*Time period: Q2*: 2020-07-21
+
+ 
+*Time period: Q3*: 2020-07-21
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The media limitations are made under the authority of the declaration of State of Emergency (articles 85, 86, 87, and 88 of the constitution), which allows the President to "suspend or affect certain rights, freedoms and guarantees" during a State of Emergency. The date is the end date for the State of Emergency declaration (variable emlimitdate). 
 
 *Sources*:
- https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
-
-https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
+ https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
+
+
+
+https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
+
 
 
 
 
 # Lithuania 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -980,26 +1541,35 @@ https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
 
 
 # Madagascar 
+*Time period: Q2*: 2020-10-18
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 2020-10-18
+
+ 
+*Time period: Q4*: 2020-10-18
+
+ 
 
 *Comments*:
- State of emergency is in place and extended through September 20, 2020. 
+ The state of emergency ended in October 18, 2020. 
 
 *Sources*:
- https://actu.orange.mg/letat-durgence-sanitaire-prolonge-de-deux-semaines-a-madagascar/
-http://www.presidence.gov.mg/actualites/decret/958-decret-n-2020-1020-du-22-aout-2020-prolongeant-la-duree-de-l-etat-d-urgence-sanitaire-sur-tout-le-territoire-de-la-republique.html
-https://jwf-legal2.fr.gd/Lois-245.htm
-https://www.presidence.gov.mg/actualites/755-decret-n-2020-359-du-21-mars-2020-proclamant-l-etat-d-urgence-sanitaire-sur-tout-le-territoire-de-la-republique.html
-http://www.rfi.fr/fr/afrique/20200412-madagascar-liberte-presse-journaliste-prison-arphine-helisoa-rajoelina-rakotondraza
-https://www.presidence.gov.mg/actualites/decret/876-decret-n-2020-610-du-13-juin-2020-prolongeant-la-duree-de-l-etat-d-urgence-sanitaire-sur-tout-le-territoire-de-la-republique.html
+ https://www.africanews.com/2020/10/19/madagascar-ends-state-of-health-emergency//
 
 
 
 
 # Malawi 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -1010,23 +1580,37 @@ https://www.presidence.gov.mg/actualites/decret/876-decret-n-2020-610-du-13-juin
 
 
 # Malaysia 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://www.hrw.org/news/2020/06/10/malaysia-new-government-backslides-free-speech
-https://rsf.org/en/news/malaysian-police-investigate-reporter-who-covered-covid-19-arrests
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Malaysia
+ https://www.hrw.org/news/2020/06/10/malaysia-new-government-backslides-free-speech
+https://rsf.org/en/news/malaysian-police-investigate-reporter-who-covered-covid-19-arrests
+https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Malaysia
 https://rsf.org/en/thematique/internet?countries%5B75%5D=75
 
 
 
 # Mali 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -1037,8 +1621,15 @@ https://rsf.org/en/thematique/internet?countries%5B75%5D=75
 
 
 # Mauritania 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -1049,8 +1640,15 @@ https://rsf.org/en/thematique/internet?countries%5B75%5D=75
 
 
 # Mexico 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -1061,7 +1659,15 @@ https://rsf.org/en/thematique/internet?countries%5B75%5D=75
 
 
 # Moldova 
-*Answer*: 2020-03-26 
+*Time period: Q2*: 2020-03-26
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Although the measures were intended to apply the duration of the state of emergency, the decree was reversed on 26 March due to pressure from journalists and NGOs. I have not found any evidence of other measures limiting media freedom since then. 
@@ -1073,8 +1679,15 @@ https://ipi.media/european-media-freedom-suffers-covid-19-response/
 
 
 # Mongolia 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No end date specified for amendment, but the de jure limitation does end if Mongolia is not under some type of crisis. 
@@ -1085,29 +1698,48 @@ https://ipi.media/european-media-freedom-suffers-covid-19-response/
 
 
 # Morocco 
+*Time period: Q2*: 2020-05-26
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The measure was taken indefinitely, and the state of health emergency - which is likely the end of this measure- is still in place until October 10, 2020. 
+ Two of the government measures that de jure limited media freedom were lifted in May: 
+On May 26, the Minister of Culture, Youth, and Sports, Othman El Ferdaous, permitted newspapers and magazines to resume the issuance, publication, and distribution of paper editions. 
+
+On May 4, the draft law No. 22.20 on the use of social networks, open broadcasting networks or similar networks was  temporarily suspended after a large wave of critiques and denouncements.
+
+However, since the state of health emergency is still in place through December 10 2020, it is assumed that so does the government order which states that ''anyone who contravenes the decree No. 2-20-292 that declares a health emergency, or incites others to contravene the decree through speech or threat uttered in a public place or meeting, written or printed materials, photos, posters, audiovisual or electronic communications, or any other means can be imprisoned one to three months or be fined 300 to 1,300 dirhams ($30-$130). Coding therefore is 1 for the remaining periods after May. 
 
 *Sources*:
- https://www.medias24.com/etat-d-urgence-sanitaire-prolongation-jusqu-au-10-septembre-2020-officiel-12304.html
-https://fr.le360.ma/politique/info360-letat-durgence-sanitaire-prolonge-dun-mois-au-maroc-220719
-https://cpj.org/2020/03/jordan-oman-morocco-and-yemen-suspend-newspaper-pr/
+ https://www.article19.org/resources/morocco-social-media/
+https://monitor.civicus.org/updates/2020/06/24/covid-19-used-curtail-freedom-expression-further/
+https://maroc-diplomatique.net/projet-de-loi-22-20-quid-des-droits-du-consommateur-marocain/
+https://www.ecoactu.ma/projet-de-loi-22-20-le-gouvernement-tenterait-il-de-nous-faire-porter-des-muselieres/
+https://www.menarights.org/en/articles/morocco-government-must-fully-withdraw-draft-law-social-media
+https://www.civicus.org/index.php/media-resources/news/4533-urgent-appeal-civil-society-groups-call-for-moroccan-authorities-to-cease-intimidation-of-journalist-omar-radi
+https://cpj.org/2020/03/jordan-oman-morocco-and-yemen-suspend-newspaper-pr/
 http://www.mjs.gov.ma/sites/default/files/_blg_twqyf_lshf_lwrqy_.pdf
-
-https://www.voanews.com/science-health/coronavirus-outbreak/coronavirus-deals-blow-newspapers-north-africa
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://northafricapost.com/39243-covid-19-chases-newspapers-from-newsstands.html
+
+https://www.moroccoworldnews.com/2020/05/303623/minister-of-culture-moroccan-print-media-can-resume-activities-may-26/
 
 
 
 # Mozambique 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -1118,59 +1750,105 @@ https://northafricapost.com/39243-covid-19-chases-newspapers-from-newsstands.htm
 
 
 # Namibia 
-*Answer*: 2020-09-17 
+*Time period: Q2*: 2020-09-28
+
+ 
+*Time period: Q3*: 2020-09-28
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Coded as the current end date for the state of emergency. 
+ A presidential proclamation on 17 April 2020 made amendments to the emergency regulations to include provisions against false reporting. A person commits an offence if that person publishes any false or misleading statements about or in connection with the covid-19. This provision did not end immediately after the end of the state of emergency. It continued being included in the first measures taken after September 17 2020, on September 24 2020 (see 3), but was later removed with the amendment of September 28 (see 4), with the GN 235/2020 (GG 7346). 
 
 *Sources*:
- https://www.namibian.com.na/199309/archive-read/Parliament-blesses-state-of-emergency
+ https://namibiafactcheck.org.na/news-item/decoding-the-criminalising-of-covid-19-disinformation/
+https://www.namibian.com.na/200224/archive-read/Covid-19-fake-news-now-a-crime
+
+http://www.lac.org.na/laws/2020/7342.pdf
+(3)
+
+http://www.lac.org.na/laws/2020/7346.pdf
+(4)
 
 
 
 # Nepal 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- There were no de-jure limits on media that were adopted based on the legal instrument employed which was the Infectious Disease Control Act 1964. 
+ There were no de-jure limits on media that were adopted based on the legal instrument employed which was the Infectious Disease Control Act 2020. 
 
 *Sources*:
- https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
-
+ https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+
+
+
 http://www.lawcommission.gov.np/en/archives/12240
 
 
 
 # Netherlands 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B129%5D=129
+ https://rsf.org/en/thematique/internet?countries%5B129%5D=129
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Netherlands
 
 
 
 # New Zealand 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B80%5D=80
+ https://rsf.org/en/thematique/internet?countries%5B80%5D=80
+
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=New%20Zealand
 
 
 
 # Nicaragua 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Nicaragua does not have an emergency response to the covid-19 pandemic. 
@@ -1181,8 +1859,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Niger 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -1193,22 +1878,34 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Nigeria 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Left blank as there is no defined end date. 
+*No comment provided* 
 
 *Sources*:
- http://www.spaajibade.com/resources/wp-content/uploads/2020/04/Infectious-Diseases-Emergency-Prevention-Regulations-2020.pdf
-
-https://www.facebook.com/ebonyionline/posts/ebonyi-state-infectious-diseases-emergency-prevention-regulations-2020preamblewh/1261039964102137/
+*No source provided*
 
 
 
 # North Korea 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -1219,8 +1916,15 @@ https://www.facebook.com/ebonyionline/posts/ebonyi-state-infectious-diseases-eme
 
 
 # North Macedonia 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -1231,20 +1935,35 @@ https://www.facebook.com/ebonyionline/posts/ebonyi-state-infectious-diseases-eme
 
 
 # Norway 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B126%5D=126
+ https://rsf.org/en/thematique/internet?countries%5B126%5D=126
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Norway
 
 
 
 # Oman 
-*Answer*: 2020-08-17 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 2020-08-17
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  On March 22, the Supreme Committee made the decision to stop the "printing, distribution and sale of newspapers, magazines and other publications of all kinds, and preventing the sale and distribution of publications issued outside the Sultanate". The measure came into force on March 23 and was lifted on August 17. 
@@ -1255,8 +1974,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Pakistan 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -1267,8 +1993,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Panama 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -1279,8 +2012,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Papua New Guinea 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Law has not ended by time of coding. 
@@ -1293,8 +2033,15 @@ https://www.policyforum.net/the-securitization-of-public-health-emergencies/
 
 
 # Paraguay 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -1305,8 +2052,15 @@ https://www.policyforum.net/the-securitization-of-public-health-emergencies/
 
 
 # Peru 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -1317,22 +2071,40 @@ https://www.policyforum.net/the-securitization-of-public-health-emergencies/
 
 
 # Philippines 
-*Answer*: 2020-09-23 
+*Time period: Q2*: 2020-09-23
+
+ 
+*Time period: Q3*: 2021-09-23
+
+ 
+*Time period: Q4*: 2021-09-23
+
+ 
 
 *Comments*:
-*No comment provided* 
+ The national state of calamity was extended by a year to September 2021 on 22 September 2020. 
 
 *Sources*:
  https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-punishment
-
-
 http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regulartion_RA_10121.pdf
+
+https://apnews.com/article/virus-outbreak-leni-robredo-philippines-asia-east-asia-28b530198c4f86cd7e40675285d2f3a5
+
+
+https://www.wsws.org/en/articles/2020/09/30/phil-s30.html
 
 
 
 # Poland 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -1343,8 +2115,15 @@ http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regularti
 
 
 # Portugal 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -1355,8 +2134,15 @@ http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regularti
 
 
 # Qatar 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -1367,8 +2153,15 @@ http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regularti
 
 
 # Republic of the Congo 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -1379,7 +2172,15 @@ http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regularti
 
 
 # Romania 
-*Answer*: 2020-05-14 
+*Time period: Q2*: 2020-05-14
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  For the duration of the state of emergency 
@@ -1390,21 +2191,34 @@ http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regularti
 
 
 # Russia 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Permanent amendments to Article 207 of Criminal Code from 31 March 2020 (№ 100-FZ). "The application of the new laws will not be time-limited to duration of the pandemic" according to the Council of Europe. 
+*No comment provided* 
 
 *Sources*:
- https://ipi.media/european-media-freedom-suffers-covid-19-response/
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-4&p_p_col_count=1&_sojdashboard_WAR_coesojportlet_alertId=62518066
+*No source provided*
 
 
 
 # Rwanda 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -1415,22 +2229,36 @@ https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_co
 
 
 # Saudi Arabia 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/thematique/internet?countries%5B153%5D=153
+ https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
+https://rsf.org/en/thematique/internet?countries%5B153%5D=153
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Saudi%20Arabia
 
 
 
 # Senegal 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -1441,7 +2269,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Serbia 
-*Answer*: 2020-04-03 
+*Time period: Q2*: 2020-04-03
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The decree on centralization of public information (see melim) was dropped on 3 April 2020. 
@@ -1452,8 +2288,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Sierra Leone 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -1464,8 +2307,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Singapore 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  There are no indications that the emergency measures de-jure limit media freedom. 
@@ -1476,8 +2326,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Slovakia 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -1488,8 +2345,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Slovenia 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -1500,8 +2364,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Somalia 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -1512,25 +2383,48 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # South Africa 
-*Answer*: 2020-10-15 
+*Time period: Q2*: 2020-07-15
+
+ 
+*Time period: Q3*: 2020-10-15
+
+ 
+*Time period: Q4*: 2020-12-15
+
+ 
 
 *Comments*:
- According to the National Disaster Management Act (2002) a state of national disaster lapses three months after being declared, unless terminated or extended on a monthly basis by the government. On 04 June, President Cyril Ramaphosa declared that the state of national disaster would be extended for one month until 16 July 2020. The latest extension happened on 14 September 2020 until 15 October 2020. 
+ According to the National Disaster Management Act (2002) a state of national disaster lapses three months after being declared, unless terminated or extended on a monthly basis by the government. On 04 June, President Cyril Ramaphosa declared that the state of national disaster would be extended for one month until 16 July 2020. The latest extension happened on 11 November 2020 until 15 December 2020. 
 
 *Sources*:
- https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
-
-https://www.gov.za/sites/default/files/gcis_document/202003/43096gon313.pdf
-
-https://www.sabcnews.com/sabcnews/government-extends-national-state-of-disaster-extended-to-15-july/
-
+ https://www.garda.com/crisis24/news-alerts/398821/south-africa-authorities-extend-state-of-disaster-until-december-15-update-31
+
+https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
+
+
+
+https://www.gov.za/sites/default/files/gcis_document/202003/43096gon313.pdf
+
+
+
+https://www.sabcnews.com/sabcnews/government-extends-national-state-of-disaster-extended-to-15-july/
+
+
+
 https://www.gov.za/sites/default/files/gcis_document/202009/43713gon995.pdf
 
 
 
 # South Korea 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -1541,8 +2435,15 @@ https://www.gov.za/sites/default/files/gcis_document/202009/43713gon995.pdf
 
 
 # South Sudan 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -1553,8 +2454,15 @@ https://www.gov.za/sites/default/files/gcis_document/202009/43713gon995.pdf
 
 
 # Spain 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -1565,8 +2473,15 @@ https://www.gov.za/sites/default/files/gcis_document/202009/43713gon995.pdf
 
 
 # Sri Lanka 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -1577,8 +2492,15 @@ https://www.gov.za/sites/default/files/gcis_document/202009/43713gon995.pdf
 
 
 # Sudan 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -1589,33 +2511,58 @@ https://www.gov.za/sites/default/files/gcis_document/202009/43713gon995.pdf
 
 
 # Sweden 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B141%5D=141
+ https://rsf.org/en/thematique/internet?countries%5B141%5D=141
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Sweden
 
 
 
 # Switzerland 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B142%5D=142
+ https://ipi.media/covid19-media-freedom-monitoring/
+
+https://rsf.org/en/thematique/internet?countries%5B142%5D=142
+
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
 
 
 
 # Taiwan 
-*Answer*: 2021-06-30 
+*Time period: Q2*: 2021-06-30
+
+ 
+*Time period: Q3*: 2021-06-30
+
+ 
+*Time period: Q4*: 2021-06-30
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -1626,21 +2573,34 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Tajikistan 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Permanent amendments to the Administrative Code. 
+*No comment provided* 
 
 *Sources*:
- https://parlament.tj/news/133-ta-jirot-ba-kodeksi-andoz
-https://cpj.org/2020/06/tajikistan-parliament-approves-amendments-imposing-fines-detentions-for-false-news-amid-covid-19-pandemic/
+*No source provided*
 
 
 
 # Tanzania 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -1651,23 +2611,39 @@ https://cpj.org/2020/06/tajikistan-parliament-approves-amendments-imposing-fines
 
 
 # Thailand 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Still ongoing. 
 
 *Sources*:
  https://www.reuters.com/article/us-health-coronavirus-thailand/thailand-extends-emergency-decree-until-end-of-july-idUSKBN2410GM
-
-
+
+
+
+
 https://www.hrw.org/news/2020/05/27/thailand-state-emergency-extension-unjustified
 
 
 
 # The Gambia 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -1678,8 +2654,15 @@ https://www.hrw.org/news/2020/05/27/thailand-state-emergency-extension-unjustifi
 
 
 # Togo 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -1690,8 +2673,15 @@ https://www.hrw.org/news/2020/05/27/thailand-state-emergency-extension-unjustifi
 
 
 # Tunisia 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -1702,8 +2692,15 @@ https://www.hrw.org/news/2020/05/27/thailand-state-emergency-extension-unjustifi
 
 
 # Turkey 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
@@ -1714,8 +2711,15 @@ https://www.hrw.org/news/2020/05/27/thailand-state-emergency-extension-unjustifi
 
 
 # Turkmenistan 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -1726,8 +2730,15 @@ https://www.hrw.org/news/2020/05/27/thailand-state-emergency-extension-unjustifi
 
 
 # Uganda 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -1738,8 +2749,15 @@ https://www.hrw.org/news/2020/05/27/thailand-state-emergency-extension-unjustifi
 
 
 # Ukraine 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -1750,43 +2768,75 @@ https://www.hrw.org/news/2020/05/27/thailand-state-emergency-extension-unjustifi
 
 
 # United Arab Emirates 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there is no defined end date. 
 
 *Sources*:
- https://theconversation.com/gulf-states-use-coronavirus-threat-to-tighten-authoritarian-controls-and-surveillance-136631
-
-https://gulfnews.com/uae/crime/jail-awaits-those-who-spread-rumours-about-coronavirus-in-uae-1.70422491
-
-https://www.occrp.org/en/coronavirus/arab-reporters-during-COVID-19-lockdown-life-on-the-edge
-
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/government-efforts-to-contain-covid-19
-
-https://www.aljazeera.com/news/2020/04/uae-announces-5500-fine-coronavirus-fake-news-200418153715552.html
-
+ https://theconversation.com/gulf-states-use-coronavirus-threat-to-tighten-authoritarian-controls-and-surveillance-136631
+
+
+
+https://gulfnews.com/uae/crime/jail-awaits-those-who-spread-rumours-about-coronavirus-in-uae-1.70422491
+
+
+
+https://www.occrp.org/en/coronavirus/arab-reporters-during-COVID-19-lockdown-life-on-the-edge
+
+
+
+https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/government-efforts-to-contain-covid-19
+
+
+
+https://www.aljazeera.com/news/2020/04/uae-announces-5500-fine-coronavirus-fake-news-200418153715552.html
+
+
+
 https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak
 
 
 
 # United Kingdom 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B135%5D=135
+ https://rsf.org/en/thematique/internet?countries%5B135%5D=135
+
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
 
 
 
 # United States of America 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de-jure limits on media freedom. 
@@ -1797,8 +2847,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Uruguay 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -1809,20 +2866,34 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Uzbekistan 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Permanent ammendments to the Criminal Code (Article 244) 
+*No comment provided* 
 
 *Sources*:
- https://lex.uz/ru/docs/4774974
+*No source provided*
 
 
 
 # Venezuela 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -1833,8 +2904,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Vietnam 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -1845,8 +2923,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Zambia 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -1857,8 +2942,15 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 
 # Zimbabwe 
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 

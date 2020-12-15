@@ -1,9 +1,6 @@
 # Botswana 
 
 
-Time 2020-08-31 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-08-31
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,21 +25,38 @@ Time 2020-08-31
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Initially, the government imposed restrictions under the Public Health Act 2013 on 16 March (Public Notice No. OPC 5/57/6 II (293)). On 02 April, the President declared a national state of emergency under Section 17 of the Constitution of Botswana. This was affirmed for a six month period by the National Assembly of Botswana on 09 April. 
+ Initially, the government imposed restrictions under the Public Health Act 2013 on 16 March (Public Notice No. OPC 5/57/6 II (293)). On 02 April, the President declared a national state of emergency under Section 17 of the Constitution of Botswana. This was affirmed for a six month period by the National Assembly of Botswana on 09 April.
+Botswana has extended its state of emergency for a further six months to combat the spread of COVID-19. 
 
 *Sources*:
- https://www.gov.bw/sites/default/files/2020-03/Covid19.pdf
-
-https://www.chr.up.ac.za/images/researchunits/litigagion/covid19_country_regulations/Botswana-Emergency_Powers_COVID-19_Regulations.pdf
-
-https://www.constituteproject.org/constitution/Botswana_2016?lang=en
-
-https://www.facebook.com/BotswanaGovernment/posts/2892215390861100
-
+ https://www.gov.bw/sites/default/files/2020-03/Covid19.pdf
+
+
+
+https://www.chr.up.ac.za/images/researchunits/litigagion/covid19_country_regulations/Botswana-Emergency_Powers_COVID-19_Regulations.pdf
+
+
+
+https://www.constituteproject.org/constitution/Botswana_2016?lang=en
+
+
+
+https://www.facebook.com/BotswanaGovernment/posts/2892215390861100
+
 https://verfassungsblog.de/constitutionalism-in-a-time-of-crisis-botswanas-reaction-to-the-covid-19-pandemic/
+
+https://abcnews.go.com/International/wireStory/botswana-extends-emergency-measures-combat-virus-73310846
 
 
 
@@ -61,7 +75,15 @@ https://verfassungsblog.de/constitutionalism-in-a-time-of-crisis-botswanas-react
 *Scale*: Character string.
 
  
-*Answer*: Constitution of Botswana (Section 17) 
+*Time period: Q2*: Constitution of Botswana (Section 17)
+
+ 
+*Time period: Q3*: Constitution of Botswana (Section 17)
+
+ 
+*Time period: Q4*: Constitution of Botswana (Section 17)
+
+ 
 
 *Comments*:
  Initially, the government imposed restrictions under the Public Health Act 2013 on 16 March (Public Notice No. OPC 5/57/6 II (293)). On 02 April, the President declared a national state of emergency under Section 17 of the Constitution of Botswana. This was affirmed for a six month period by the National Assembly of Botswana on 09 April. 
@@ -86,14 +108,24 @@ https://verfassungsblog.de/constitutionalism-in-a-time-of-crisis-botswanas-react
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-02 
+*Time period: Q2*: 2020-04-02
+
+ 
+*Time period: Q3*: 2020-04-02
+
+ 
+*Time period: Q4*: 2020-04-02
+
+ 
 
 *Comments*:
  Initially, the government imposed restrictions under the Public Health Act 2013 on 16 March (Public Notice No. OPC 5/57/6 II (293)). On 02 April, the President declared a national state of emergency under Section 17 of the Constitution of Botswana. This was affirmed for a six month period by the National Assembly of Botswana on 09 April. 
 
 *Sources*:
- https://www.gov.bw/sites/default/files/2020-03/Covid19.pdf
-
+ https://www.gov.bw/sites/default/files/2020-03/Covid19.pdf
+
+
+
 https://www.chr.up.ac.za/images/researchunits/litigagion/covid19_country_regulations/Botswana-Emergency_Powers_COVID-19_Regulations.pdf
 
 
@@ -113,15 +145,26 @@ https://www.chr.up.ac.za/images/researchunits/litigagion/covid19_country_regulat
 *Scale*: Date format.
 
  
+*Time period: Q2*: 2020-10-02
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 2021-03-28
+
+ 
+*Time period: Q4*: 2021-03-28
+
+ 
 
 *Comments*:
- The state of emergency was extended for six months. 
+ The state of emergency was again extended for six months in September until March 28. 
 
 *Sources*:
- https://reports.unocha.org/en/country/southern-eastern-africa/card/4zXxeVEkYW/
-
+ https://abcnews.go.com/International/wireStory/botswana-extends-emergency-measures-combat-virus-73310846
+
+https://reports.unocha.org/en/country/southern-eastern-africa/card/4zXxeVEkYW/
+
+
+
 http://www.dailynews.gov.bw/news-details.php?nid=55561
 
 
@@ -144,16 +187,34 @@ http://www.dailynews.gov.bw/news-details.php?nid=55561
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Six months extension on April 9, meaning until October 9. 
+ Six months extension on April 9, meaning until October 9.
+
+Another six month extension in September until March 2021. 
 
 *Sources*:
- https://reports.unocha.org/en/country/southern-eastern-africa/card/4zXxeVEkYW/
-
-http://www.dailynews.gov.bw/news-details.php?nid=55561
-
+ https://www.voanews.com/africa/botswana-parliament-votes-extend-covid-emergency-march
+
+https://abcnews.go.com/International/wireStory/botswana-extends-emergency-measures-combat-virus-73310846
+
+https://reports.unocha.org/en/country/southern-eastern-africa/card/4zXxeVEkYW/
+
+
+
+http://www.dailynews.gov.bw/news-details.php?nid=55561
+
+
+
 https://www.constituteproject.org/constitution/Botswana_2016?lang=en
 
 
@@ -166,23 +227,39 @@ https://www.constituteproject.org/constitution/Botswana_2016?lang=en
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-10-09 
+*Time period: Q2*: 2020-10-02
+
+ 
+*Time period: Q3*: 2021-03-28
+
+ 
+*Time period: Q4*: 2021-03-28
+
+ 
 
 *Comments*:
- Based on six months from the parliamentary decision to extend for a six month period. 
+ Based on six months from the parliamentary decision to extend for a six month period.
+
+The state of emergency was again extended until March 28. 
 
 *Sources*:
- https://reports.unocha.org/en/country/southern-eastern-africa/card/4zXxeVEkYW/
-
-http://www.dailynews.gov.bw/news-details.php?nid=55561
-
+ https://www.voanews.com/africa/botswana-parliament-votes-extend-covid-emergency-march
+
+https://reports.unocha.org/en/country/southern-eastern-africa/card/4zXxeVEkYW/
+
+
+
+http://www.dailynews.gov.bw/news-details.php?nid=55561
+
+
+
 https://www.constituteproject.org/constitution/Botswana_2016?lang=en
 
 
@@ -195,7 +272,7 @@ https://www.constituteproject.org/constitution/Botswana_2016?lang=en
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -205,7 +282,15 @@ https://www.constituteproject.org/constitution/Botswana_2016?lang=en
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  The Constitution of Botswana (Section 17, Article 2) requires that the parliament approve the state of emergency, or it will expire automatically within 7 resp. 21 days. 
@@ -233,15 +318,27 @@ https://www.constituteproject.org/constitution/Botswana_2016?lang=en
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  The parlaiment approved the state of emergency and its extension. 
 
 *Sources*:
- https://www.chr.up.ac.za/images/researchunits/litigagion/covid19_country_regulations/Botswana-Emergency_Powers_COVID-19_Regulations.pdf
-
+ https://www.chr.up.ac.za/images/researchunits/litigagion/covid19_country_regulations/Botswana-Emergency_Powers_COVID-19_Regulations.pdf
+
+
+
 https://www.facebook.com/BotswanaGovernment/posts/2892215390861100
+
+https://www.voanews.com/africa/botswana-parliament-votes-extend-covid-emergency-march
 
 
 
@@ -261,21 +358,32 @@ https://www.facebook.com/BotswanaGovernment/posts/2892215390861100
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The President have some extra power, but the Emergency Powers Act 2020 makes clear that the procedures of the Assembly should continue despite lockdowns and other measures. 
+ The President have some extra power, but the Emergency Powers Act 2020 makes clear that the procedures of the Assembly should continue despite lockdowns and other measures. 
+
 The constitution, article 17, Declarations relating to emergencies, does not limit the lawmaking role of the legislature either. 
 
 *Sources*:
- https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjXuKi76PzpAhVtwcQBHQudCdUQFjACegQIARAB&url=http%3A%2F%2Fwww.dailynews.gov.bw%2Fcommon_up%2Fdailynews%2F03-04-2020_emergency-powers-regulations_1585906437_doc_55402.pdf&usg=AOvVaw0C2sXjOYIQRP41xCM7bm0L
-
+ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjXuKi76PzpAhVtwcQBHQudCdUQFjACegQIARAB&url=http%3A%2F%2Fwww.dailynews.gov.bw%2Fcommon_up%2Fdailynews%2F03-04-2020_emergency-powers-regulations_1585906437_doc_55402.pdf&usg=AOvVaw0C2sXjOYIQRP41xCM7bm0L
+
+
+
 https://www.constituteproject.org/constitution/Botswana_2016?lang=en
 
 
@@ -288,15 +396,22 @@ https://www.constituteproject.org/constitution/Botswana_2016?lang=en
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
@@ -321,8 +436,15 @@ https://www.constituteproject.org/constitution/Botswana_2016?lang=en
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the legislature has not been dissolved, suspended or equivalent with reference to Covid-19. 
@@ -352,22 +474,40 @@ https://www.constituteproject.org/constitution/Botswana_2016?lang=en
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  The regulations apply to the wole of Botswana, accordig to section 3 in the  Emergency Powers Covid-19 Regulations 2020. Lockdowns were imposed on the capital Gaborone and the Greater Gaborone Zone (Extraordinary Gazette 11 May 2020 & Extraordinary Gazette 12 June 2020). 
 
 *Sources*:
- https://bw.usembassy.gov/wp-content/uploads/sites/125/Emergency-Powers-COVID-19-Regulations-2020.pdf
-
-https://covid19portal.gov.org.bw/sites/default/files/2020-06/ExtraordinaryGazette12-06-2020.pdf
-
-https://covid19portal.gov.org.bw/sites/default/files/2020-05/ExtraordinaryGazette11May2020_0.pdf
-
-https://bw.usembassy.gov/health-alert-73120/
-
-https://bw.usembassy.gov/health%e2%80%afalert-u-s-embassy-gaborone-botswana-15/
-
+ https://bw.usembassy.gov/wp-content/uploads/sites/125/Emergency-Powers-COVID-19-Regulations-2020.pdf
+
+
+
+https://covid19portal.gov.org.bw/sites/default/files/2020-06/ExtraordinaryGazette12-06-2020.pdf
+
+
+
+https://covid19portal.gov.org.bw/sites/default/files/2020-05/ExtraordinaryGazette11May2020_0.pdf
+
+
+
+https://bw.usembassy.gov/health-alert-73120/
+
+
+
+https://bw.usembassy.gov/health%e2%80%afalert-u-s-embassy-gaborone-botswana-15/
+
+
+
 https://bw.usembassy.gov/health%e2%80%afalert-u-s-embassy-gaborone-botswana-14/
 
 
@@ -392,10 +532,13 @@ https://bw.usembassy.gov/health%e2%80%afalert-u-s-embassy-gaborone-botswana-14/
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -403,14 +546,22 @@ Time period: *Jul-Sep*: 0
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- https://www.chr.up.ac.za/images/researchunits/litigagion/covid19_country_regulations/Botswana-Emergency_Powers_COVID-19_Regulations.pdf
-
-https://minorityrights.org/?s=botswana
-
-https://www.hrw.org/africa/botswana
-
-https://www.amnesty.org/en/search/?country=38571&resourceType=newsarticle&sort=date
-
+ https://www.chr.up.ac.za/images/researchunits/litigagion/covid19_country_regulations/Botswana-Emergency_Powers_COVID-19_Regulations.pdf
+
+
+
+https://minorityrights.org/?s=botswana
+
+
+
+https://www.hrw.org/africa/botswana
+
+
+
+https://www.amnesty.org/en/search/?country=38571&resourceType=newsarticle&sort=date
+
+
+
 https://www.hrw.org/sitesearch?search=Botswana
 
 
@@ -440,10 +591,13 @@ https://www.hrw.org/sitesearch?search=Botswana
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -451,17 +605,28 @@ Time period: *Jul-Sep*: 0
  No emergency measures that de-jure violate non-derogable rights as defined by the ICCPR, was found. 
 
 *Sources*:
- https://www.chr.up.ac.za/images/researchunits/litigagion/covid19_country_regulations/Botswana-Emergency_Powers_COVID-19_Regulations.pdf
-
-www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-
-https://www.gov.bw/COVID-19
-
-https://minorityrights.org/?s=botswana
-
-https://www.hrw.org/africa/botswana
-
-https://www.amnesty.org/en/search/?country=38571&resourceType=newsarticle&sort=date
+ https://www.chr.up.ac.za/images/researchunits/litigagion/covid19_country_regulations/Botswana-Emergency_Powers_COVID-19_Regulations.pdf
+
+
+
+www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
+
+
+
+https://www.gov.bw/COVID-19
+
+
+
+https://minorityrights.org/?s=botswana
+
+
+
+https://www.hrw.org/africa/botswana
+
+
+
+https://www.amnesty.org/en/search/?country=38571&resourceType=newsarticle&sort=date
+
 
 
 
@@ -486,16 +651,28 @@ https://www.amnesty.org/en/search/?country=38571&resourceType=newsarticle&sort=d
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 1 
+*Time period: Q2*: 3
+
+ 
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
+
+ 
 
 *Comments*:
  Relaying information coming from a non-government source is a punishable offence: "Section 30(3) of Botswana's Emergency Powers Act states that "Any person who relays any information to the public about COVID-19 from a source other than the Director of Health Services, and the WHO commits an offence and is liable to a fine not exceeding P100 000 or to imprisonment for a term not exceeding five years, or to both." These restriction means that media outlets would only have 2 sources to look into and use when reporting on the nature of the Covid-19 virus." 
 
 *Sources*:
- https://bw.usembassy.gov/wp-content/uploads/sites/125/Emergency-Powers-COVID-19-Regulations-2020.pdf
-
-https://ifex.org/covid-19-in-africa-right-to-information-another-casualty-with-spike-in-attacks-on-journalists/
-
+ https://bw.usembassy.gov/wp-content/uploads/sites/125/Emergency-Powers-COVID-19-Regulations-2020.pdf
+
+
+
+https://ifex.org/covid-19-in-africa-right-to-information-another-casualty-with-spike-in-attacks-on-journalists/
+
+
+
 https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
 
 
@@ -508,14 +685,22 @@ https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-02 
+*Time period: Q2*: 2020-04-02
+
+ 
+*Time period: Q3*: 2020-04-02
+
+ 
+*Time period: Q4*: 2020-04-02
+
+ 
 
 *Comments*:
  Based on the publication date of the Emergency Powers Covid-19 Regulations 2020, which state sthe media limitations in section 30(3). 
@@ -533,23 +718,39 @@ https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-10-09 
+*Time period: Q2*: 2020-10-02
+
+ 
+*Time period: Q3*: 2021-03-28
+
+ 
+*Time period: Q4*: 2021-03-28
+
+ 
 
 *Comments*:
- Based on six months from the parliamentary decision to extend the State of Emergency for a six month period, and section 3 in the Emergency Powers Covid-19 Regulations 2020, declaring that the media limitations last for the duration of the State of Emergency. 
+ Based on six months from the parliamentary decision to extend the State of Emergency for a six month period, and section 3 in the Emergency Powers Covid-19 Regulations 2020, declaring that the media limitations last for the duration of the State of Emergency.
+
+The State of Emergency has been extended to 28 March 2021. 
 
 *Sources*:
- https://reports.unocha.org/en/country/southern-eastern-africa/card/4zXxeVEkYW/
-
-http://www.dailynews.gov.bw/news-details.php?nid=55561
-
+ https://www.voanews.com/africa/botswana-parliament-votes-extend-covid-emergency-march
+
+https://reports.unocha.org/en/country/southern-eastern-africa/card/4zXxeVEkYW/
+
+
+
+http://www.dailynews.gov.bw/news-details.php?nid=55561
+
+
+
 https://www.constituteproject.org/constitution/Botswana_2016?lang=en
 
 
@@ -572,10 +773,13 @@ https://www.constituteproject.org/constitution/Botswana_2016?lang=en
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -583,12 +787,18 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
 
 *Sources*:
- https://www.gov.bw/about-covid-19
-
-https://ipi.media/botswana/
-
-https://rsf.org/en/botswana
-
+ https://www.gov.bw/about-covid-19
+
+
+
+https://ipi.media/botswana/
+
+
+
+https://rsf.org/en/botswana
+
+
+
 https://cpj.org/africa/botswana/
 
 
@@ -601,7 +811,7 @@ https://cpj.org/africa/botswana/
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -611,10 +821,13 @@ https://cpj.org/africa/botswana/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -622,12 +835,18 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government is de-facto limiting reporting of the government's Covid-19 response, was found. 
 
 *Sources*:
- https://www.gov.bw/about-covid-19
-
-https://ipi.media/botswana/
-
-https://rsf.org/en/botswana
-
+ https://www.gov.bw/about-covid-19
+
+
+
+https://ipi.media/botswana/
+
+
+
+https://rsf.org/en/botswana
+
+
+
 https://cpj.org/africa/botswana
 
 
@@ -650,10 +869,13 @@ https://cpj.org/africa/botswana
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -661,12 +883,18 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government is de-facto limiting media reporting about non-Covid-19 related news, but with reference to the pandemic, was found. 
 
 *Sources*:
- https://www.gov.bw/about-covid-19
-
-https://ipi.media/botswana/
-
-https://rsf.org/en/botswana
-
+ https://www.gov.bw/about-covid-19
+
+
+
+https://ipi.media/botswana/
+
+
+
+https://rsf.org/en/botswana
+
+
+
 https://cpj.org/africa/botswana
 
 
@@ -686,14 +914,17 @@ https://cpj.org/africa/botswana
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -701,12 +932,18 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government and its agents limits media access to Covid-19 related information, was found. 
 
 *Sources*:
- https://www.gov.bw/about-covid-19
-
-https://ipi.media/botswana/
-
-https://rsf.org/en/botswana
-
+ https://www.gov.bw/about-covid-19
+
+
+
+https://ipi.media/botswana/
+
+
+
+https://rsf.org/en/botswana
+
+
+
 https://cpj.org/africa/botswana
 
 
@@ -729,10 +966,13 @@ https://cpj.org/africa/botswana
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -740,12 +980,18 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government and its agents have verbally harassed journalists reporting about Covid-19, was found. 
 
 *Sources*:
- https://www.gov.bw/about-covid-19
-
-https://ipi.media/botswana/
-
-https://rsf.org/en/botswana
-
+ https://www.gov.bw/about-covid-19
+
+
+
+https://ipi.media/botswana/
+
+
+
+https://rsf.org/en/botswana
+
+
+
 https://cpj.org/africa/botswana
 
 
@@ -768,10 +1014,13 @@ https://cpj.org/africa/botswana
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -779,12 +1028,18 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government and its agents have physically harassed journalists reporting about Covid-19, was found. 
 
 *Sources*:
- https://www.gov.bw/about-covid-19
-
-https://ipi.media/botswana/
-
-https://rsf.org/en/botswana
-
+ https://www.gov.bw/about-covid-19
+
+
+
+https://ipi.media/botswana/
+
+
+
+https://rsf.org/en/botswana
+
+
+
 https://cpj.org/africa/botswana
 
 
@@ -809,10 +1064,13 @@ https://cpj.org/africa/botswana
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -820,8 +1078,10 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government and its agents is spreading information that deviates from that of the WHO, was found. 
 
 *Sources*:
- https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
-
+ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+
+
+
 https://www.gov.bw/about-covid-19
 
 
@@ -846,10 +1106,13 @@ https://www.gov.bw/about-covid-19
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -857,12 +1120,18 @@ Time period: *Jul-Sep*: 0
  Only one instance of police violence in connection to Covid-19 was found. A man was assaulted by law enforcement officers for failing to comply with the Regulations. The government has expressed great concern over this, and has started an investigation. 
 
 *Sources*:
- https://www.bonela.org/index.php?option=com_content&view=article&id=228:15-04-20-bonela-condems-brutality-by-law-enforcement&catid=41:2020&Itemid=246
-
-http://apanews.net/index.php/en/news/botswana-leader-orders-probe-into-police-abuses-during-lockdown
-
-https://www.hrw.org/africa/botswana
-
+ https://www.bonela.org/index.php?option=com_content&view=article&id=228:15-04-20-bonela-condems-brutality-by-law-enforcement&catid=41:2020&Itemid=246
+
+
+
+http://apanews.net/index.php/en/news/botswana-leader-orders-probe-into-police-abuses-during-lockdown
+
+
+
+https://www.hrw.org/africa/botswana
+
+
+
 https://www.amnesty.org/en/search/?country=38571&resourceType=newsarticle&sort=date
 
 
@@ -875,7 +1144,7 @@ https://www.amnesty.org/en/search/?country=38571&resourceType=newsarticle&sort=d
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -885,10 +1154,13 @@ https://www.amnesty.org/en/search/?country=38571&resourceType=newsarticle&sort=d
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -896,32 +1168,8 @@ Time period: *Jul-Sep*: 1
  According to section 2 of the Emergency Powers Covid-19 Regulations 2020, "law enforcement officer means any member of the Botswana Police Service, Botswana Prison Service, [or] Botswana Defence Force...". According to news media, it appears to be the case that the military has been tasked with enforcing lockdown. 
 
 *Sources*:
- https://www.voanews.com/covid-19-pandemic/botswanas-capital-city-back-covid-19-lockdown
-
+ https://www.voanews.com/covid-19-pandemic/botswanas-capital-city-back-covid-19-lockdown
+
+
+
 https://bw.usembassy.gov/wp-content/uploads/sites/125/Emergency-Powers-COVID-19-Regulations-2020.pdf
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

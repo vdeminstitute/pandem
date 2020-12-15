@@ -1,9 +1,6 @@
 # Venezuela 
 
 
-Time 2020-09-18 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-18
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,14 +25,22 @@ Time 2020-09-18
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The state of emergency was declared via the Decree nº 4.160 from March 13. 
+ The state of emergency was declared via the Decree nº 4160 from March 13. 
 
 *Sources*:
- https://app.box.com/s/a437wqh3l52mksb8ks9xd8bskv1oeze9
-https://elpais.com/sociedad/2020-03-13/venezuela-confirma-dos-casos-de-coronavirus.html
+ https://app.box.com/s/a437wqh3l52mksb8ks9xd8bskv1oeze9
+https://elpais.com/sociedad/2020-03-13/venezuela-confirma-dos-casos-de-coronavirus.html
 https://normascovid19.com/venezuela-normativa-basica-covid-19/
 
 
@@ -55,10 +60,18 @@ https://normascovid19.com/venezuela-normativa-basica-covid-19/
 *Scale*: Character string.
 
  
-*Answer*: Article 338 of the Constitution 
+*Time period: Q2*: Article 338 of the Constitution
+
+ 
+*Time period: Q3*: Article 338 of the Constitution
+
+ 
+*Time period: Q4*: Article 338 of the Constitution
+
+ 
 
 *Comments*:
- The 'Estado de Alarma' is regulated by the Article 338 of the Constitution and it was implemented on March 13 by the presidential decree nº 4167. 
+ The state of emergency is regulated by the Article 338 of the Constitution and it was implemented on March 13 by the presidential decree nº 4167. 
 
 *Sources*:
  http://www.presidencia.gob.ve/Site/Web/Principal/paginas/classMostrarEvento3.php?id_evento=15274
@@ -82,7 +95,15 @@ https://app.box.com/s/a437wqh3l52mksb8ks9xd8bskv1oeze9
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-13 
+*Time period: Q2*: 2020-03-13
+
+ 
+*Time period: Q3*: 2020-03-13
+
+ 
+*Time period: Q4*: 2020-03-13
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -107,13 +128,22 @@ https://app.box.com/s/a437wqh3l52mksb8ks9xd8bskv1oeze9
 *Scale*: Date format.
 
  
-*Answer*: 2020-09-08 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 2020-12-03
+
+ 
 
 *Comments*:
- The last extension was announced on August 9 for a period of 30 days. 
+ The last extension found was declared on November 3 for a period of 30 days. 
 
 *Sources*:
- http://www.presidencia.gob.ve/Site/Web/Principal/paginas/classMostrarEvento3.php?id_evento=16316
+ http://www.tsj.gob.ve/-/sala-constitucional-del-tsj-declaro-la-constitucionalidad-del-decreto-de-estado-de-alarma-por-pandemia-del-covid--1
+https://app.box.com/s/96nc7mjgqrszew6obi0itpu3r3bulka5
 
 
 
@@ -135,7 +165,15 @@ https://app.box.com/s/a437wqh3l52mksb8ks9xd8bskv1oeze9
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  The Article 338 of the Constitution define that a state of emergency lasts for 30 days with the possibility of renewal. 
@@ -153,20 +191,30 @@ https://app.box.com/s/a437wqh3l52mksb8ks9xd8bskv1oeze9
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-09-08 
+*Time period: Q2*: 2020-06-13
+
+ 
+*Time period: Q3*: 2020-09-08
+
+ 
+*Time period: Q4*: 2020-12-03
+
+ 
 
 *Comments*:
- When declared, the state of emergency was to end on April 12. The measure was extended five times, the last one until September 8. 
+ When declared, the state of emergency was to end on April 12. The measure was extended several times, the last extension found was until December 3. 
 
 *Sources*:
- https://covid19.patria.org.ve/noticia/venezuela-extiende-por-30-dias-estado-de-alarma-por-covid-19/
+ https://app.box.com/s/7dh3putf0o3yg9peskob9g3e54bj5r3z
+http://www.tsj.gob.ve/-/sala-constitucional-del-tsj-declaro-la-constitucionalidad-del-decreto-de-estado-de-alarma-por-pandemia-del-covid--1
+https://app.box.com/s/96nc7mjgqrszew6obi0itpu3r3bulka5
 
 
 
@@ -178,7 +226,7 @@ https://app.box.com/s/a437wqh3l52mksb8ks9xd8bskv1oeze9
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -188,17 +236,25 @@ https://app.box.com/s/a437wqh3l52mksb8ks9xd8bskv1oeze9
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  According to the Constitution, Art. 338, the National Assembly doesn't need to approve the declaration but shoud approve the extension of the 'Estado de Alarma'. Since it does not recognize Maduro as president, the decree to extend it was considered constitutional by the Venezuelan Supreme Court. 
 
 *Sources*:
  https://venezuela.justia.com/federales/constitucion-de-la-republica-bolivariana-de-venezuela/titulo-viii/capitulo-ii/
-
+
 https://app.box.com/s/a437wqh3l52mksb8ks9xd8bskv1oeze9
-
-https://covid19.patria.org.ve/noticia/presidente-maduro-extiende-30-dias-estado-de-alarma-constitucional-para-combatir-covid-19/
+
+https://covid19.patria.org.ve/noticia/presidente-maduro-extiende-30-dias-estado-de-alarma-constitucional-para-combatir-covid-19/
 http://vicepresidencia.gob.ve/sala-constitucional-del-tsj-declaro-la-constitucionalidad-del-decreto-que-prorroga-estado-de-alarma-por-pandemia-del-covid-19/
 
 
@@ -221,15 +277,24 @@ http://vicepresidencia.gob.ve/sala-constitucional-del-tsj-declaro-la-constitucio
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Since the National Assembly does not recognize Maduro as president, it did not appove the extension of the state of emergecy. The decree to extend it was considered constitutional by the Venezuelan Supreme Court. 
+ Since the National Assembly does not recognize Maduro as president, it did not appove the extensions of the state of emergecy. The decrees to extend it were considered constitutional by the Venezuelan Supreme Court. 
 
 *Sources*:
- https://app.box.com/s/a437wqh3l52mksb8ks9xd8bskv1oeze9
-https://covid19.patria.org.ve/noticia/presidente-maduro-extiende-30-dias-estado-de-alarma-constitucional-para-combatir-covid-19/
+ https://app.box.com/s/a437wqh3l52mksb8ks9xd8bskv1oeze9
+https://covid19.patria.org.ve/noticia/presidente-maduro-extiende-30-dias-estado-de-alarma-constitucional-para-combatir-covid-19/
 http://vicepresidencia.gob.ve/sala-constitucional-del-tsj-declaro-la-constitucionalidad-del-decreto-que-prorroga-estado-de-alarma-por-pandemia-del-covid-19/
+http://www.tsj.gob.ve/-/sala-constitucional-del-tsj-declaro-la-constitucionalidad-del-decreto-de-estado-de-alarma-por-pandemia-del-covid--1
 
 
 
@@ -249,13 +314,21 @@ http://vicepresidencia.gob.ve/sala-constitucional-del-tsj-declaro-la-constitucio
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 3 
+*Time period: Q2*: 3
+
+ 
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
+
+ 
 
 *Comments*:
  "The President of the Bolivarian Republic of Venezuela may dictate other social, economic and health measures that he deems appropriate according to the circumstances presented, in accordance with articles 337, 338 and 339 of the Constitution of the Bolivarian Republic of Venezuela, in order to continue taking care of the extraordinary and exceptional situation that constitutes the object of this Decree." 
@@ -273,15 +346,22 @@ http://vicepresidencia.gob.ve/sala-constitucional-del-tsj-declaro-la-constitucio
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -306,8 +386,15 @@ http://vicepresidencia.gob.ve/sala-constitucional-del-tsj-declaro-la-constitucio
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -337,16 +424,22 @@ http://vicepresidencia.gob.ve/sala-constitucional-del-tsj-declaro-la-constitucio
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  The law applies to the entire country. There are differences in some areas e.g. different curfew time in regions close to the borders. 
 
 *Sources*:
  https://covid19.patria.org.ve/noticia/decretado-toque-de-queda-en-municipios-de-los-estados-zulia-y-bolivar/
-
 https://covid19.patria.org.ve/noticia/presidente-maduro-llama-a-reforzar-zonas-fronterizas-ante-covid-19/
-
 https://covid19.patria.org.ve/noticia/presidente-maduro-decreto-toque-de-queda-en-el-municipio-paez-del-estado-apure/
 
 
@@ -371,10 +464,13 @@ https://covid19.patria.org.ve/noticia/presidente-maduro-decreto-toque-de-queda-e
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -382,7 +478,7 @@ Time period: *Jul-Sep*: 0
  No evidence of discrimination was found. 
 
 *Sources*:
- https://www.hrw.org/americas/venezuela
+ https://www.hrw.org/americas/venezuela
 https://www.amnesty.org/en/countries/americas/venezuela/
 
 
@@ -412,20 +508,24 @@ https://www.amnesty.org/en/countries/americas/venezuela/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The Venezuelan government has containment centres where people who arrive in the country must stay in quarantine. Dozens of thousands of people who had moved to neighbouring countries due to the Venezuelan crisis were forced to return, since they could no longer work to support themselves with the pandemic. They were considered “biological weapons” when they arrived and had to go through these centres, under the custody of the military/police and with unsanitary conditions. Detainees interviewed by the New York Times said they "had been crammed into rooms without beds, hot food, windows or sufficient drinking water". Some were forces to take medication against covid-19 without showing any symptoms, including hydroxychloroquine, despite the health risks. Babies were detained and there were no special provisions for them, and there is a case of a baby who died of dehydration. This disrespects Article 7 (Freedom from torture and cruel/inhuman treatment). 
+ The Venezuelan government has containment centres where people who arrive in the country must stay in quarantine. Dozens of thousands of people who had moved to neighbouring countries due to the Venezuelan crisis were forced to return, since they could no longer work to support themselves with the pandemic. They were considered “biological weapons” when they arrived and had to go through these centres, under the custody of the military/police and with unsanitary conditions. Detainees interviewed by the New York Times said they "had been crammed into rooms without beds, hot food, windows or sufficient drinking water". Some were forced to take medication for covid-19 without showing any symptoms, including hydroxychloroquine, despite the health risks. Babies were detained and there were no special provisions for them, and there is a case of a baby who died of dehydration. This disrespects Article 7 (Freedom from torture and cruel/inhuman treatment). 
 
 *Sources*:
- https://www.nytimes.com/2020/08/19/world/americas/coronavirus-venezuela.html
-https://www.amnesty.org/download/Documents/AMR0129912020ENGLISH.PDF
+ https://www.nytimes.com/2020/08/19/world/americas/coronavirus-venezuela.html
+https://www.amnesty.org/download/Documents/AMR0129912020ENGLISH.PDF
 https://www.laprensalara.com.ve/nota/16560/2020/05/negligencia-acaba-con-la-vida-de-menor-de-un-ao
+https://www.hrw.org/news/2020/10/13/venezuela-abusive-treatment-returnees
 
 
 
@@ -449,13 +549,22 @@ https://www.laprensalara.com.ve/nota/16560/2020/05/negligencia-acaba-con-la-vida
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
 
 *Sources*:
  https://app.box.com/s/a437wqh3l52mksb8ks9xd8bskv1oeze9
+https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
 
 
@@ -467,15 +576,22 @@ https://www.laprensalara.com.ve/nota/16560/2020/05/negligencia-acaba-con-la-vida
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -493,15 +609,22 @@ https://www.laprensalara.com.ve/nota/16560/2020/05/negligencia-acaba-con-la-vida
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -529,25 +652,26 @@ https://www.laprensalara.com.ve/nota/16560/2020/05/negligencia-acaba-con-la-vida
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- According to the Human Rights Watch: "Authorities have harassed, detained, and prosecuted political opponents, including several legislators, journalists who publish critical information, health workers who criticize the government’s handling of the pandemic (...). Security forces have also confiscated cellphones and laptops from journalists and forced them to erase photos or videos". 
-A OHCHR report states that they "documented eight cases of security forces, local authorities, and armed colectivos intimidating or impeding journalists from covering the health crisis, as well as six journalists and media workers arrested while reporting on COVID-19 cases." 
-Additionally, press freedom in Venezuela was already limited before the covid-19 pandemic. 
+ According to the Human Rights Watch: "Authorities have harassed, detained, and prosecuted political opponents, including several legislators, journalists who publish critical information, health workers who criticize the government’s handling of the pandemic (...). Security forces have also confiscated cellphones and laptops from journalists and forced them to erase photos or videos". An OHCHR report states that they "documented eight cases of security forces, local authorities, and armed colectivos intimidating or impeding journalists from covering the health crisis, as well as six journalists and media workers arrested while reporting on COVID-19 cases". Additionally, press freedom in Venezuela was already limited before the covid-19 pandemic. 
 
 *Sources*:
  https://www.dw.com/es/venezuela-ong-denuncia-detenciones-por-informar-sobre-el-coronavirus/a-53366370
-
-https://www.americasquarterly.org/article/how-maduro-is-using-covid-19-to-silence-his-opponents-even-further/
-https://www.hrw.org/news/2020/08/28/venezuela-police-state-lashes-out-amid-covid-19
-https://rsf.org/en/venezuela
+https://www.americasquarterly.org/article/how-maduro-is-using-covid-19-to-silence-his-opponents-even-further/
+https://www.hrw.org/news/2020/08/28/venezuela-police-state-lashes-out-amid-covid-19
+https://rsf.org/en/venezuela
 https://www.ohchr.org/Documents/Countries/VE/A_HRC_44_20_AdvanceUneditedVersion.pdf
+https://ipi.media/covid19/?alert_type=0&years=0&country=venezuela
 
 
 
@@ -559,7 +683,7 @@ https://www.ohchr.org/Documents/Countries/VE/A_HRC_44_20_AdvanceUneditedVersion.
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -569,26 +693,26 @@ https://www.ohchr.org/Documents/Countries/VE/A_HRC_44_20_AdvanceUneditedVersion.
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- According to the Human Rights Watch: "Authorities have harassed, detained, and prosecuted political opponents, including several legislators, journalists who publish critical information, health workers who criticize the government’s handling of the pandemic (...). Security forces have also confiscated cellphones and laptops from journalists and forced them to erase photos or videos". 
-A OHCHR report states that they "documented eight cases of security forces, local authorities, and armed colectivos intimidating or impeding journalists from covering the health crisis, as well as six journalists and media workers arrested while reporting on COVID-19 cases." 
-Additionally, press freedom in Venezuela was already limited before the covid-19 pandemic. 
+ According to the Human Rights Watch: "Authorities have harassed, detained, and prosecuted political opponents, including several legislators, journalists who publish critical information, health workers who criticize the government’s handling of the pandemic (...). Security forces have also confiscated cellphones and laptops from journalists and forced them to erase photos or videos". A OHCHR report states that they "documented eight cases of security forces, local authorities, and armed colectivos intimidating or impeding journalists from covering the health crisis, as well as six journalists and media workers arrested while reporting on COVID-19 cases". Additionally, press freedom in Venezuela was already limited before the covid-19 pandemic. 
 
 *Sources*:
  https://www.dw.com/es/venezuela-ong-denuncia-detenciones-por-informar-sobre-el-coronavirus/a-53366370
-
-https://www.hrw.org/es/news/2020/05/26/venezuela-necesita-ayuda-humanitaria-urgente-para-combatir-la-covid-19
-https://www.americasquarterly.org/article/how-maduro-is-using-covid-19-to-silence-his-opponents-even-further/
-https://www.hrw.org/news/2020/08/28/venezuela-police-state-lashes-out-amid-covid-19
-https://rsf.org/en/venezuela
-https://www.ohchr.org/Documents/Countries/VE/A_HRC_44_20_AdvanceUneditedVersion.pdf
+https://www.hrw.org/es/news/2020/05/26/venezuela-necesita-ayuda-humanitaria-urgente-para-combatir-la-covid-19
+https://www.americasquarterly.org/article/how-maduro-is-using-covid-19-to-silence-his-opponents-even-further/
+https://www.hrw.org/news/2020/08/28/venezuela-police-state-lashes-out-amid-covid-19
+https://rsf.org/en/venezuelahttps://www.ohchr.org/Documents/Countries/VE/A_HRC_44_20_AdvanceUneditedVersion.pdf
+https://ipi.media/covid19/?alert_type=0&years=0&country=venezuela
 
 
 
@@ -610,10 +734,13 @@ https://www.ohchr.org/Documents/Countries/VE/A_HRC_44_20_AdvanceUneditedVersion.
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -621,7 +748,7 @@ Time period: *Jul-Sep*: 1
  The government is using the state of emergency to silence journalists who criticize the government. According to the Human Rights Watch: "Authorities have harassed, detained, and prosecuted political opponents, including several legislators, journalists who publish critical information, health workers who criticize the government’s handling of the pandemic (...). Security forces have also confiscated cellphones and laptops from journalists and forced them to erase photos or videos." 
 
 *Sources*:
- https://www.hrw.org/news/2020/08/28/venezuela-police-state-lashes-out-amid-covid-19
+ https://www.hrw.org/news/2020/08/28/venezuela-police-state-lashes-out-amid-covid-19
 https://www.americasquarterly.org/article/how-maduro-is-using-covid-19-to-silence-his-opponents-even-further/
 
 
@@ -641,14 +768,17 @@ https://www.americasquarterly.org/article/how-maduro-is-using-covid-19-to-silenc
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
@@ -656,12 +786,12 @@ Time period: *Jul-Sep*: 2
  There are reports that the official government numbers are not reliable and that the government is not being transparent about the covid-19 situation in Venezuela. The government is also silencing health workers who speak out about it. 
 
 *Sources*:
- https://www.theguardian.com/global-development/2020/aug/25/venezuela-coronavirus-covid-death-toll-maracaibo
-https://www.reuters.com/article/us-health-coronavirus-venezuela-idUSKCN25E05U
+ https://www.theguardian.com/global-development/2020/aug/25/venezuela-coronavirus-covid-death-toll-maracaibo
+https://www.reuters.com/article/us-health-coronavirus-venezuela-idUSKCN25E05U
 https://www.dw.com/es/venezuela-ong-denuncia-detenciones-por-informar-sobre-el-coronavirus/a-53366370
-
-https://www.hrw.org/es/news/2020/05/26/venezuela-necesita-ayuda-humanitaria-urgente-para-combatir-la-covid-19
+https://www.hrw.org/es/news/2020/05/26/venezuela-necesita-ayuda-humanitaria-urgente-para-combatir-la-covid-19
 https://www.amnesty.org/en/latest/news/2020/08/venezuelan-authorities-are-repressing-and-failing-to-protect-health-workers-as-covid-19-gathers-force/
+https://ipi.media/covid19/?alert_type=0&years=0&country=venezuela
 
 
 
@@ -683,10 +813,13 @@ https://www.amnesty.org/en/latest/news/2020/08/venezuelan-authorities-are-repres
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -695,12 +828,11 @@ Time period: *Jul-Sep*: 1
 
 *Sources*:
  https://www.reuters.com/article/us-health-coronavirus-venezuela-insight/as-coronavirus-hits-venezuela-maduro-further-quashes-dissent-idUSKBN21C1TA
-
 https://www.hrw.org/news/2020/05/26/venezuela-urgent-aid-needed-combat-covid-19
-
 https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
-
 https://www.hrw.org/news/2020/08/28/venezuela-police-state-lashes-out-amid-covid-19
+http://espaciopublico.ong/situacion-general-del-derecho-a-la-libertad-de-expresion-informe-enero-agosto-2020/
+https://ipi.media/covid19/?alert_type=0&years=0&country=venezuela
 
 
 
@@ -722,10 +854,13 @@ https://www.hrw.org/news/2020/08/28/venezuela-police-state-lashes-out-amid-covid
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -736,8 +871,9 @@ Time period: *Jul-Sep*: 1
  https://www.reuters.com/article/us-health-coronavirus-venezuela-insight/as-coronavirus-hits-venezuela-maduro-further-quashes-dissent-idUSKBN21C1TA
 https://www.hrw.org/news/2020/05/26/venezuela-urgent-aid-needed-combat-covid-19
 https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
-
 https://www.hrw.org/news/2020/08/28/venezuela-police-state-lashes-out-amid-covid-19
+http://espaciopublico.ong/situacion-general-del-derecho-a-la-libertad-de-expresion-informe-enero-agosto-2020/
+https://ipi.media/covid19/?alert_type=0&years=0&country=venezuela
 
 
 
@@ -761,15 +897,18 @@ https://www.hrw.org/news/2020/08/28/venezuela-police-state-lashes-out-amid-covid
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
- The information provided by the government about the disease is in acccordance with the WHO but the official numbers are not reliable. Maduro said that Colombia was intentionally infecting migrants that were returning to Venezuela. In the beginning of the pandemic, Maduro also shared on Twitter that a herbal tea was the "cure against the coronavirus". The tweet was later removed by Twitter. The president also defended the use of Interferon and Hydroxychloroquine without scientific proof, even after the WHO ruled Hydroxychloroquine ineffective to treat covid-19. 
+ The information provided by the government about the disease is in acccordance with the WHO but the official numbers are not reliable. Maduro said that Colombia was intentionally infecting migrants that were returning to Venezuela. In the beginning of the pandemic, Maduro also shared on Twitter that a herbal tea was the "cure against the coronavirus". The tweet was later removed by Twitter. The president also defended the use of Interferon and Hydroxychloroquine as a treatment to covid-19, even after the WHO ruled Hydroxychloroquine ineffective. He also said scientists in Venezuela found a molecule obtained from a medicinal plant that cures covid-19, but he did not present any scientific evidence. 
 
 *Sources*:
  https://covid19.patria.org.ve/
@@ -778,6 +917,8 @@ https://www.reuters.com/article/us-health-coronavirus-venezuela-idUSKCN25E05U
 https://www.elcomercio.com/actualidad/maduro-armas-biologicas-retorno-migrantes.html
 https://www.efe.com/efe/america/politica/bolsonaro-y-maduro-dos-lideres-enfrentados-unidos-por-la-cloroquina/20000035-4253123
 http://www.minci.gob.ve/conozca-la-bateria-de-tratamientos-que-impulsa-la-comision-presidencial-para-combatir-el-covid-19/
+https://www.infobae.com/salud/2020/10/26/que-opinan-los-expertos-sobre-el-nuevo-hallazgo-venezolano-contra-el-covid-19/
+https://www.rtve.es/noticias/20201026/maduro-dice-venezuela-conseguido-medicina-anula-coronavirus/2048830.shtml
 
 
 
@@ -801,10 +942,13 @@ http://www.minci.gob.ve/conozca-la-bateria-de-tratamientos-que-impulsa-la-comisi
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 3
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
 
  
 
@@ -812,11 +956,13 @@ Time period: *Jul-Sep*: 2
  There are reports of harassment of those who direspected isolation measures, journalists have been detained for their coverage of covid and health professionals have been detained for openly talking about the pandemic situation. 
 
 *Sources*:
- https://www.hrw.org/news/2020/08/28/venezuela-police-state-lashes-out-amid-covid-19
-https://elpais.com/internacional/2020-04-29/castigos-de-cuartel-por-violar-la-cuarentena-en-venezuela.html
-https://www.bbc.com/mundo/noticias-america-latina-52450803
-https://www.ohchr.org/Documents/Countries/VE/A_HRC_44_20_AdvanceUneditedVersion.pdf
+ https://www.hrw.org/news/2020/08/28/venezuela-police-state-lashes-out-amid-covid-19
+https://elpais.com/internacional/2020-04-29/castigos-de-cuartel-por-violar-la-cuarentena-en-venezuela.html
+https://www.bbc.com/mundo/noticias-america-latina-52450803
+https://www.ohchr.org/Documents/Countries/VE/A_HRC_44_20_AdvanceUneditedVersion.pdf
+https://www.nytimes.com/es/2020/08/19/espanol/america-latina/venezuela-represion-coronavirus.html
 https://www.derechos.org.ve/actualidad/se-multiplican-abusos-y-detenciones-en-tiempos-de-cuarentena-covid-191
+https://www.opendemocracy.net/es/racismo-violencia-estatal-venezuela-hoy/
 
 
 
@@ -828,7 +974,7 @@ https://www.derechos.org.ve/actualidad/se-multiplican-abusos-y-detenciones-en-ti
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -838,10 +984,13 @@ https://www.derechos.org.ve/actualidad/se-multiplican-abusos-y-detenciones-en-ti
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -850,34 +999,6 @@ Time period: *Jul-Sep*: 1
 
 *Sources*:
  https://ceofanb.mil.ve/fanb-supervisa-despliegue-de-seguridad-ante-las-medidas-preventivas-para-evitar-propagacion-del-covid-19/
-http://www.mindefensa.gob.ve/mindefensa/2020/03/16/gj-padrino-lopez-el-pueblo-organizado-juega-un-papel-trascendental-en-este-combate-por-la-vida/
+http://www.mindefensa.gob.ve/mindefensa/2020/03/16/gj-padrino-lopez-el-pueblo-organizado-juega-un-papel-trascendental-en-este-combate-por-la-vida/
 https://www.infodefensa.com/latam/2020/03/25/noticia-paises-latinoamerica-despliegan-combatir-covid19.html
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-*Answer*: Maduro and Guaid√≥ reached an agreement to work together against the pandemic.
-Doctors were harassed and detained for speaking about the poor conditions of the health system and about suspected cases not officially released. 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
- https://www.bbc.com/mundo/noticias-america-latina-52912359
-https://www.bbc.com/mundo/noticias-america-latina-52450803
-
-https://www.lanacion.com.ar/el-mundo/medicos-bajo-fuego-en-venezuela-por-alertar-sobre-casos-sospechosos-del-virus-nid2341942
+https://www.hrw.org/news/2020/10/13/venezuela-abusive-treatment-returnees

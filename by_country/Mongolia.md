@@ -1,9 +1,6 @@
 # Mongolia 
 
 
-Time 2020-09-11 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-11
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,17 +25,30 @@ Time 2020-09-11
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
  The Mongolian constitution has a state of emergency clause that has not been used. Instead, Mongolia initially took a string of emergency measures (border closure, school closure etc.) without any such state of emergency, and have later passed the Law on Covid-19 Prevention. This law authorizes the government to "take necessary measures, such as calling quarantine and traffic movement and time limits, as well as approving relevant regimes, procedures, and instructions to be followed during the COVID 19 pandemic.". This is therefore coded as 4. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Mongolia_2001.pdf?lang=en
-https://www.legalinfo.mn/law/details/15312?lawid=15312
-https://www.mn.undp.org/content/mongolia/en/home/coronavirus/support-to-national-response.html
-https://montsame.mn/en/read/223999
-https://montsame.mn/en/read/217894
+ https://www.constituteproject.org/constitution/Mongolia_2001.pdf?lang=en
+
+https://www.legalinfo.mn/law/details/15312?lawid=15312
+
+https://www.mn.undp.org/content/mongolia/en/home/coronavirus/support-to-national-response.html
+
+https://montsame.mn/en/read/223999
+
+https://montsame.mn/en/read/217894
+
 https://montsame.mn/en/read/213965
 
 
@@ -58,15 +68,26 @@ https://montsame.mn/en/read/213965
 *Scale*: Character string.
 
  
-*Answer*: Law on Covid-19 Prevention 
+*Time period: Q2*: Law on Covid-19 Prevention
+
+ 
+*Time period: Q3*: Law on Covid-19 Prevention
+
+ 
+*Time period: Q4*: Law on Covid-19 Prevention
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://www.mn.undp.org/content/mongolia/en/home/coronavirus/support-to-national-response.html
-https://www.legalinfo.mn/law/details/15312?lawid=15312
-https://montsame.mn/en/read/223999
+ https://www.mn.undp.org/content/mongolia/en/home/coronavirus/support-to-national-response.html
+
+https://www.legalinfo.mn/law/details/15312?lawid=15312
+
+https://montsame.mn/en/read/223999
+
 
 
 
@@ -86,15 +107,26 @@ https://montsame.mn/en/read/223999
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-29 
+*Time period: Q2*: 2020-04-29
+
+ 
+*Time period: Q3*: 2020-04-29
+
+ 
+*Time period: Q4*: 2020-04-29
+
+ 
 
 *Comments*:
  The day the bill was passed. 
 
 *Sources*:
- https://www.mn.undp.org/content/mongolia/en/home/coronavirus/support-to-national-response.html
-https://www.legalinfo.mn/law/details/15312?lawid=15312
-https://montsame.mn/en/read/223999
+ https://www.mn.undp.org/content/mongolia/en/home/coronavirus/support-to-national-response.html
+
+https://www.legalinfo.mn/law/details/15312?lawid=15312
+
+https://montsame.mn/en/read/223999
+
 
 
 
@@ -114,8 +146,15 @@ https://montsame.mn/en/read/223999
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No evidence has been found that implementation of legal instrument has ended by time of coding, and the end date set in the law is December 31. 
@@ -143,15 +182,26 @@ https://montsame.mn/en/read/223999
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  The law is effective until 31 December 2020. 
 
 *Sources*:
- https://www.mn.undp.org/content/mongolia/en/home/coronavirus/support-to-national-response.html
-https://www.legalinfo.mn/law/details/15312?lawid=15312
-https://montsame.mn/en/read/223999
+ https://www.mn.undp.org/content/mongolia/en/home/coronavirus/support-to-national-response.html
+
+https://www.legalinfo.mn/law/details/15312?lawid=15312
+
+https://montsame.mn/en/read/223999
+
 
 
 
@@ -164,23 +214,28 @@ https://montsame.mn/en/read/223999
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-12-31 
+*Time period: Q2*: 2020-12-31
+
+ 
+*Time period: Q3*: 2020-12-31
+
+ 
+*Time period: Q4*: 2020-12-31
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://www.mn.undp.org/content/mongolia/en/home/coronavirus/support-to-national-response.html
-https://www.legalinfo.mn/law/details/15312?lawid=15312
-https://montsame.mn/en/read/223999
-
+ https://www.mn.undp.org/content/mongolia/en/home/coronavirus/support-to-national-response.htmlhttps://www.legalinfo.mn/law/details/15312?lawid=15312https://montsame.mn/en/read/223999
 
 
 
@@ -192,7 +247,7 @@ https://montsame.mn/en/read/223999
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -202,15 +257,26 @@ https://montsame.mn/en/read/223999
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  The parliament had to approve the new law. 
 
 *Sources*:
- https://www.mn.undp.org/content/mongolia/en/home/coronavirus/support-to-national-response.html
-https://www.legalinfo.mn/law/details/15312?lawid=15312
-https://montsame.mn/en/read/223999
+ https://www.mn.undp.org/content/mongolia/en/home/coronavirus/support-to-national-response.html
+
+https://www.legalinfo.mn/law/details/15312?lawid=15312
+
+https://montsame.mn/en/read/223999
+
 
 
 
@@ -233,15 +299,26 @@ https://montsame.mn/en/read/223999
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  The parliament had to and did approve the new law. 
 
 *Sources*:
- https://www.mn.undp.org/content/mongolia/en/home/coronavirus/support-to-national-response.html
-https://www.legalinfo.mn/law/details/15312?lawid=15312
-https://montsame.mn/en/read/223999
+ https://www.mn.undp.org/content/mongolia/en/home/coronavirus/support-to-national-response.html
+
+https://www.legalinfo.mn/law/details/15312?lawid=15312
+
+https://montsame.mn/en/read/223999
+
 
 
 
@@ -262,22 +339,34 @@ https://montsame.mn/en/read/223999
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The law used to enact emergency measures (passed by the parliament) states that parliament shall continue its work, maintain its law making role and oversee the governments actions, and IPU report that Mongolias parliament continues to carry out its functions, only with adjustements with distancing to mitigate any spread of the virus. This is therefore coded as 0.
+ The law used to enact emergency measures (passed by the parliament) states that parliament shall continue its work, maintain its law making role and oversee the governments actions, and IPU report that Mongolias parliament continues to carry out its functions, only with adjustements with distancing to mitigate any spread of the virus. This is therefore coded as 0.
+
 It is also noteworthy that Mongolia succesfully held elections on June 24, with similar levels of participation as previous elections, that installed a new parliament. There have been no reports found that the new parliament has faced any limitations. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#M
-https://www.legalinfo.mn/law/details/15312?lawid=15312
-https://montsame.mn/en/read/223999
+ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#M
+
+https://www.legalinfo.mn/law/details/15312?lawid=15312
+
+https://montsame.mn/en/read/223999
+
 https://www.bloomberg.com/news/articles/2020-06-25/mongolia-s-ruling-party-keeps-big-majority-after-covid-success
 
 
@@ -290,15 +379,22 @@ https://www.bloomberg.com/news/articles/2020-06-25/mongolia-s-ruling-party-keeps
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -323,8 +419,15 @@ https://www.bloomberg.com/news/articles/2020-06-25/mongolia-s-ruling-party-keeps
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -354,13 +457,22 @@ https://www.bloomberg.com/news/articles/2020-06-25/mongolia-s-ruling-party-keeps
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The emergency measures have been taken nationwide and no sub-national variation has been found in Mongolia. This is therefore coded as 0. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/YDjwxi8GHSZoCDHEK/mongolia-government-closes-borders-with-china-to-prevent-2019-ncov-spread-january-27
+ https://www.garda.com/crisis24/news-alert-full-history/YDjwxi8GHSZoCDHEK/mongolia-government-closes-borders-with-china-to-prevent-2019-ncov-spread-january-27
+
 https://www.acaps.org/covid19-government-measures-dataset
 
 
@@ -385,10 +497,13 @@ https://www.acaps.org/covid19-government-measures-dataset
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -396,7 +511,8 @@ Time period: *Jul-Sep*: 0
  Human Rights Watch and Amnesty International have not reported any discrimination within the l response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38378&resourceType=newsarticle&sort=date
+ https://www.amnesty.org/en/search/?country=38378&resourceType=newsarticle&sort=date
+
 https://www.hrw.org/sitesearch?search=Mongolia
 
 
@@ -426,10 +542,13 @@ https://www.hrw.org/sitesearch?search=Mongolia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -437,7 +556,8 @@ Time period: *Jul-Sep*: 0
  Human Rights Watch and Amnesty International have not reported any violations of non-derogable rights within the response to Covid-19, and no other indications of such violations has been found. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38378&resourceType=newsarticle&sort=date
+ https://www.amnesty.org/en/search/?country=38378&resourceType=newsarticle&sort=date
+
 https://www.hrw.org/sitesearch?search=Mongolia
 
 
@@ -462,17 +582,29 @@ https://www.hrw.org/sitesearch?search=Mongolia
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  On April 29, Mongolia amended the Law on Administrative Offenses to include a paragraph stating that: ”Misleading the public or disseminating false information in the event of a disaster, catastrophe, communicable disease, accident or danger shall be punishable by a fine of 500 000 togrogs for a person or 5 000 000 togrogs for a legal person unless criminally punishable” (Section 5.13.1). Note that 500 000 togrogs is approximately 185 american dollars, and 5 000 000 togrogs aprooximately 1850 american dollars. As the current pandemic is regarded such a case of crisis, a person can be punished with fines if "disseminating false information" on the crisis. However, no other de jure limitations on media have been found in Mongolias emergency response. Therefore, this is coded as 1 - a de jure limitation on media restricted to making some limitations on the reporting on Covid-19.
-No evidence has been found that this law has been abrogated or amended during the second period, and the law text is still in place on the Mongolian law website (https://www.legalinfo.mn/law/details/12695). This is therefore coded as 1 for both periods. 
+No evidence has been found that this law has been abrogated or amended during the second an third period, and the law text is still in place on the Mongolian law website (https://www.legalinfo.mn/law/details/12695). This is therefore coded as 1 for all periods. 
 
 *Sources*:
- https://www.legalinfo.mn/law/details/12695
-https://rsf.org/en/thematique/internet?countries%5B77%5D=77
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Mongolia
-https://en.ejo.ch/ethics-quality/mongolia-coronavirus-and-the-media
+ https://www.legalinfo.mn/law/details/12695
+
+https://rsf.org/en/thematique/internet?countries%5B77%5D=77
+
+https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Mongolia
+
+https://en.ejo.ch/ethics-quality/mongolia-coronavirus-and-the-media
+
 https://www.gic.mn/public/docs/freedom_report/media_freedom_report_2019_en.pdf
 
 
@@ -485,14 +617,22 @@ https://www.gic.mn/public/docs/freedom_report/media_freedom_report_2019_en.pdf
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-29 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Date which the amendment was passed. 
@@ -510,15 +650,22 @@ https://www.gic.mn/public/docs/freedom_report/media_freedom_report_2019_en.pdf
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No end date specified for amendment, but the de jure limitation does end if Mongolia is not under some type of crisis. 
@@ -546,23 +693,30 @@ https://www.gic.mn/public/docs/freedom_report/media_freedom_report_2019_en.pdf
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
  Mongolia amended the Law on Administrative Offenses to include a paragraph stating that: "Misleading the public or disseminating false information in the event of a disaster, catastrophe, communicable disease, accident or danger shall be punishable by a fine of 500 000 togrogs for a person or 5 000 000 togrogs for a legal person unless criminally punishable" (Section 5.13.1).
 As "false information" is poorly defined, and this law is being enacted and journalists and media outlets face the risk of being prosecuted for "disseminating false information", this is coded as 1, a de facto limitation on reporting on Covid-19.
-Since the law  is still in place, this is coded as 1 for both periods. 
+Since the law  is still in place, this is coded as 1 for all periods. 
 
 *Sources*:
- https://www.legalinfo.mn/law/details/12695
-https://rsf.org/en/thematique/internet?countries%5B77%5D=77
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Mongolia
-https://en.ejo.ch/ethics-quality/mongolia-coronavirus-and-the-media
+ https://www.legalinfo.mn/law/details/12695
+
+https://rsf.org/en/thematique/internet?countries%5B77%5D=77
+
+https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Mongolia
+
+https://en.ejo.ch/ethics-quality/mongolia-coronavirus-and-the-media
+
 https://www.gic.mn/public/docs/freedom_report/media_freedom_report_2019_en.pdf
 
 
@@ -575,7 +729,7 @@ https://www.gic.mn/public/docs/freedom_report/media_freedom_report_2019_en.pdf
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -585,23 +739,30 @@ https://www.gic.mn/public/docs/freedom_report/media_freedom_report_2019_en.pdf
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
  Mongolia amended the Law on Administrative Offenses to include a paragraph stating that: "Misleading the public or disseminating false information in the event of a disaster, catastrophe, communicable disease, accident or danger shall be punishable by a fine of 500 000 togrogs for a person or 5 000 000 togrogs for a legal person unless criminally punishable" (Section 5.13.1).
 As "false information" is poorly defined, and this law is being enacted and journalists and media outlets face the risk of being prosecuted for "disseminating false information", this is coded as 1, a de facto limitation on reporting on the governments response to Covid-19 is made as journalists and media outlets now that they can be fined on a vaguely formulated regulation on disinformation.
-Since the law is still in place, this is coded 1 for both periods. 
+Since the law is still in place, this is coded 1 for all three periods. 
 
 *Sources*:
- https://www.legalinfo.mn/law/details/12695
-https://rsf.org/en/thematique/internet?countries%5B77%5D=77
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Mongolia
-https://en.ejo.ch/ethics-quality/mongolia-coronavirus-and-the-media
+ https://www.legalinfo.mn/law/details/12695
+
+https://rsf.org/en/thematique/internet?countries%5B77%5D=77
+
+https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Mongolia
+
+https://en.ejo.ch/ethics-quality/mongolia-coronavirus-and-the-media
+
 https://www.gic.mn/public/docs/freedom_report/media_freedom_report_2019_en.pdf
 
 
@@ -624,10 +785,13 @@ https://www.gic.mn/public/docs/freedom_report/media_freedom_report_2019_en.pdf
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -635,10 +799,14 @@ Time period: *Jul-Sep*: 0
  The amendment enacted by Mongolia does make it punishable "Misleading the public or disseminating false information‚ during a crisis" but as this only seem to regard information on the crisis as such, and that no information has been found indicating that Mongolia has used this amendment to prosecute any non-Covid-19 related news reporting, this is coded as 0. 
 
 *Sources*:
- https://www.legalinfo.mn/law/details/12695
-https://rsf.org/en/thematique/internet?countries%5B77%5D=77
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Mongolia
-https://en.ejo.ch/ethics-quality/mongolia-coronavirus-and-the-media
+ https://www.legalinfo.mn/law/details/12695
+
+https://rsf.org/en/thematique/internet?countries%5B77%5D=77
+
+https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Mongolia
+
+https://en.ejo.ch/ethics-quality/mongolia-coronavirus-and-the-media
+
 https://www.gic.mn/public/docs/freedom_report/media_freedom_report_2019_en.pdf
 
 
@@ -658,14 +826,17 @@ https://www.gic.mn/public/docs/freedom_report/media_freedom_report_2019_en.pdf
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -673,7 +844,8 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information, and there's no other indications of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B77%5D=77
+ https://rsf.org/en/thematique/internet?countries%5B77%5D=77
+
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Mongolia
 
 
@@ -696,10 +868,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -707,7 +882,8 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any verbal harassment of journalists in Mongolia, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B77%5D=77
+ https://rsf.org/en/thematique/internet?countries%5B77%5D=77
+
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Mongolia
 
 
@@ -730,10 +906,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -741,7 +920,8 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any physical harassment of journalists in Mongolia, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B77%5D=77
+ https://rsf.org/en/thematique/internet?countries%5B77%5D=77
+
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Mongolia
 
 
@@ -766,17 +946,20 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Most of the information provided by the Mongolian government on Covid-19 is in line with WHO, such as how it spreads, what the symptoms are, who's most at risk if catching it and some of the guidelines for how to avoid it and mitigate the spread. However, they also include a set of advice on how to avoid catching it and what to do if you contract it that is not in line with WHO. These include that avoiding Covid-19 is more likely if one "Drink warm liquids frequently and use cups with lids, Rinse mouth and throat with lukewarm water with salt, lemon and soda, Get a good night's sleep, Calm and stress free, and, Do not use elevators on floors 1-5". Furthermore, it's stated that to avoid contracting it, elderly should among other things "Eat low-salt, sugary, and low-fat foods, Drink hot, warm liquids frequently, Get a good night's sleep, and Calm, no stress, no fatigue".
-As these are misleading statements that are not in accordance with WHO, but are presented together with correct information, and does not counter the content of those approved guidelines and infromation, this is coded as 1.
-Note also, that all these quotes are taken from using google translate on the Mongolian website on Covid-19. 
+ Most of the information provided by the Mongolian government on Covid-19 is in line with WHO, such as how it spreads, what the symptoms are, who's most at risk if catching it and some of the guidelines for how to avoid it and mitigate the spread. However, they also include a set of advice on how to avoid catching it and what to do if you contract it that is not in line with WHO. These include that avoiding Covid-19 is more likely if one "Drink warm liquids frequently and use cups with lids, Rinse mouth and throat with lukewarm water with salt, lemon and soda, Get a good night's sleep, Calm and stress free, and, Do not use elevators on floors 1-5". Furthermore, it's stated that to avoid contracting it, elderly should among other things "Eat low-salt, sugary, and low-fat foods, Drink hot, warm liquids frequently, Get a good night's sleep, and Calm, no stress, no fatigue".As these are misleading statements that are not in accordance with WHO, but are presented together with correct information, and does not counter the content of those approved guidelines and infromation, this is coded as 1.Note also, that all these quotes are taken from using google translate on the Mongolian website on Covid-19.
+
+As this information continues to be presented in the official website, the variable is coded as 1 on all periods. 
 
 *Sources*:
  https://covid19.mohs.mn
@@ -803,10 +986,13 @@ Note also, that all these quotes are taken from using google translate on the Mo
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -814,7 +1000,8 @@ Time period: *Jul-Sep*: 0
  Human Rights Watch and Amnesty International have not  reported any incidents of violence in enforcing emergency measures, and there are no other indiciations of such violence in the emergency measures 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38378&resourceType=newsarticle&sort=date
+ https://www.amnesty.org/en/search/?country=38378&resourceType=newsarticle&sort=date
+
 https://www.hrw.org/sitesearch?search=Mongolia
 
 
@@ -827,7 +1014,7 @@ https://www.hrw.org/sitesearch?search=Mongolia
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -837,10 +1024,13 @@ https://www.hrw.org/sitesearch?search=Mongolia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -849,29 +1039,3 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://www.acaps.org/covid19-government-measures-dataset
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

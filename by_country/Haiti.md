@@ -1,9 +1,6 @@
 # Haiti 
 
 
-Time 2020-09-01 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-01
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,36 +25,44 @@ Time 2020-09-01
  7. Other.
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 5
+
+ 
 
 *Comments*:
- Haiti declared a state of health emergency on March 19, 2020 for a period of one month through an executive decree (1; 2). 
-The President is ruling by decree since January 2020, because the elections that were supposed to take place in October 2019 were not held, therefore the mandate of the Haitian legislature expired on January 13, 2020, and ever since no legislature exists (7). 
-The Constitution has a clause on states of emergency but there wasn't any legal reference to it in the measures taken (8). 
- 
+ Haiti declared a state of health emergency on March 19, 2020 for a period of one month through an executive decree (1; 2). The President is ruling by decree since January 2020, because the elections that were supposed to take place in October 2019 were not held, therefore the mandate of the Haitian legislature expired on January 13, 2020, and ever since no legislature exists (7). The Constitution has a clause on states of emergency but there wasn't any legal reference to it in the measures taken (8). 
+After the lifting of the state of emergency in July 2020, there are still other measures in place, the strictest of which is a night time curfew from 12 midnight to 4 A.M (latest update available: October 19). Face masks are mandatory (9). 
 
 *Sources*:
  https://twitter.com/PrimatureHT/status/1243514262913527809?s=20
 (1)
-
+
 https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
 (2)
-
+
 https://www.haitilibre.com/article-30843-haiti-flash-decret-presidentiel-fixant-les-regles-generales-de-protection-de-la-population-face-au-covid-19.html
-(3)
+(3)
 https://www.reuters.com/article/us-health-coronavirus-haiti/haiti-declares-emergency-over-coronavirus-imposes-curfew-shuts-border-idUSKBN21700V
 (4)
-
+
 https://mspp.gouv.ht/site/downloads/Plan%20de%20Pr%C3%A9paration%20et%20de%20R%C3%A9ponse%20du%20MSPP%20au%20CoronaVirus.pdf
 (5)
-
 https://www.aljazeera.com/programmes/talktojazeera/2020/01/jovenel-moise-200123212546142.html
 (6)
-
+
 https://fas.org/sgp/crs/row/R45034.pdf
-(7)
+(7)
 https://www.constituteproject.org/constitution/Haiti_2012?lang=en
 (8)
+
+https://ht.usembassy.gov/covid-19-information/
+(9)
 
 
 
@@ -76,17 +81,24 @@ https://www.constituteproject.org/constitution/Haiti_2012?lang=en
 *Scale*: Character string.
 
  
-*Answer*: 'ARRETE DU 19 MARS 2020 DECLARANT L'ETAT D'URGENCE SANITAIRE SUR TOUTE L'ETENDUE DU TERRITOIRE'' 
+*Time period: Q2*: 'ARRETE DU 19 MARS 2020 DECLARANT L'ETAT D'URGENCE SANITAIRE SUR TOUTE L'ETENDUE DU TERRITOIRE''
+
+ 
+*Time period: Q3*: 'ARRETE DU 19 MARS 2020 DECLARANT L'ETAT D'URGENCE SANITAIRE SUR TOUTE L'ETENDUE DU TERRITOIRE''
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://twitter.com/PrimatureHT/status/1243514262913527809?s=20
-https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
-https://mspp.gouv.ht/site/downloads/Plan%20de%20Pr%C3%A9paration%20et%20de%20R%C3%A9ponse%20du%20MSPP%20au%20CoronaVirus.pdf
-https://fas.org/sgp/crs/row/R45034.pdf
-
+ https://twitter.com/PrimatureHT/status/1243514262913527809?s=20
+https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
+https://mspp.gouv.ht/site/downloads/Plan%20de%20Pr%C3%A9paration%20et%20de%20R%C3%A9ponse%20du%20MSPP%20au%20CoronaVirus.pdf
+https://fas.org/sgp/crs/row/R45034.pdf
 
 
 
@@ -105,14 +117,22 @@ https://fas.org/sgp/crs/row/R45034.pdf
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-19 
+*Time period: Q2*: 2020-03-19
+
+ 
+*Time period: Q3*: 2020-03-19
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Haitian President announced a state of emergency on March 19, 2020. 
 
 *Sources*:
- https://twitter.com/PrimatureHT/status/1243514262913527809?s=20
-https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
+ https://twitter.com/PrimatureHT/status/1243514262913527809?s=20
+https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
 https://mspp.gouv.ht/site/downloads/Plan%20de%20Pr%C3%A9paration%20et%20de%20R%C3%A9ponse%20du%20MSPP%20au%20CoronaVirus.pdf
 
 
@@ -132,17 +152,25 @@ https://mspp.gouv.ht/site/downloads/Plan%20de%20Pr%C3%A9paration%20et%20de%20R%C
 *Scale*: Date format.
 
  
-*Answer*: 2020-07-20 
+*Time period: Q2*: 
 
-*Comments*:
- The state of emergency in Haiti ended on July 20, 2020. 
+ 
+*Time period: Q3*: 2020-07-20
+
+ 
+*Time period: Q4*: 
+
  
 
-*Sources*:
- htps://www.haitilibre.com/article-31395-haiticovid-19-il-n-y-a-plus-d-etat-d-urgence-sanitaire-en-haiti.html
-https://lenouvelliste.com/article/219104/covid-19-situation-sous-controle-haiti-sort-de-letat-durgence-sanitaire
-http://www.hpnhaiti.com/nouvelles/index.php/covid19/7825-haiti-covid-19-l-etat-d-urgence-sanitaire-leve-par-le-gouvernement
+*Comments*:
+ The state of emergency in Haiti ended on July 20, 2020. Other measures, like a night time curfew and mandatory face masks are still in place. 
 
+*Sources*:
+ htps://www.haitilibre.com/article-31395-haiticovid-19-il-n-y-a-plus-d-etat-d-urgence-sanitaire-en-haiti.html
+https://lenouvelliste.com/article/219104/covid-19-situation-sous-controle-haiti-sort-de-letat-durgence-sanitaire
+http://www.hpnhaiti.com/nouvelles/index.php/covid19/7825-haiti-covid-19-l-etat-d-urgence-sanitaire-leve-par-le-gouvernement
+
+https://ht.usembassy.gov/covid-19-information/
 
 
 
@@ -164,14 +192,24 @@ http://www.hpnhaiti.com/nouvelles/index.php/covid19/7825-haiti-covid-19-l-etat-d
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The state of emergency was initially announced to last for 1 month. 
+ The state of emergency was initially announced to last for 1 month, until April 19 2020. It was later extended to May 19 and then to July 20 2020, when it was also lifted. 
 
 *Sources*:
- https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
-https://twitter.com/PrimatureHT/status/1243514262913527809?s=20
+ https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
+https://twitter.com/PrimatureHT/status/1243514262913527809?s=20
+https://www.garda.com/crisis24/news-alerts/344786/haiti-president-jovenel-moise-extends-state-of-emergency-until-july-20-update-6
+
 https://www.garda.com/crisis24/news-alerts/335021/haiti-state-of-emergency-extended-on-april-20-update-5
 
 
@@ -184,21 +222,31 @@ https://www.garda.com/crisis24/news-alerts/335021/haiti-state-of-emergency-exten
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-19 
+*Time period: Q2*: 2020-05-19
+
+ 
+*Time period: Q3*: 2020-07-20
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The state of emergency was announced to last initially for 1 month. 
+ The state of emergency was initially announced to last for 1 month, until April 19 2020. It was later extended to May 19 and then to July 20 2020, when it was also lifted. 
 
 *Sources*:
- https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
-https://twitter.com/PrimatureHT/status/1243514262913527809?s=20
+ https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
+https://twitter.com/PrimatureHT/status/1243514262913527809?s=20
+https://www.garda.com/crisis24/news-alerts/344786/haiti-president-jovenel-moise-extends-state-of-emergency-until-july-20-update-6
+
 https://www.garda.com/crisis24/news-alerts/335021/haiti-state-of-emergency-extended-on-april-20-update-5
 
 
@@ -211,7 +259,7 @@ https://www.garda.com/crisis24/news-alerts/335021/haiti-state-of-emergency-exten
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -221,10 +269,18 @@ https://www.garda.com/crisis24/news-alerts/335021/haiti-state-of-emergency-exten
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Haitian Constitution (1987), ARTICLE 98-3 [Amended by the Constitutional Law of 9 May 2011 / 19 June 2012]: The attributions of the National Assembly are:..6. to decide on the opportuneness of the state of urgency and the state of siege, to order with the Executive the constitutional guarantees to be suspended and to decide on any demand for renewal of this measure; 
+ According to the Haitian Constitution (1987), ARTICLE 98-3 [Amended by the Constitutional Law of 9 May 2011 / 19 June 2012], the National Assembly should approve and decide on the ''opportuneness of the state of urgency and the state of siege, to order with the Executive the constitutional guarantees to be suspended and to decide on any demand for renewal of this measure''. However, the Haitian President declared and extended the state of emergency without referring to the Constitution. Also, there is no legislature in place since January 2020. 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Haiti_2012?lang=en
@@ -249,16 +305,22 @@ https://www.garda.com/crisis24/news-alerts/335021/haiti-state-of-emergency-exten
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No legislature exists. The Decree on state of emergency was taken by the President and the council of ministers. 
 
 *Sources*:
- https://fas.org/sgp/crs/row/R45034.pdf
-https://www.usnews.com/news/world/articles/2020-08-16/pompeo-pushes-haiti-president-on-elections-rights
-
-
+ https://fas.org/sgp/crs/row/R45034.pdf
+https://www.usnews.com/news/world/articles/2020-08-16/pompeo-pushes-haiti-president-on-elections-rights
 
 
 
@@ -278,20 +340,33 @@ https://www.usnews.com/news/world/articles/2020-08-16/pompeo-pushes-haiti-presid
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 5 
+*Time period: Q2*: 5
+
+ 
+*Time period: Q3*: 5
+
+ 
+*Time period: Q4*: 5
+
+ 
 
 *Comments*:
  Since January 2020 no legislature exists. 
 
 *Sources*:
- https://www.usnews.com/news/world/articles/2020-08-16/pompeo-pushes-haiti-president-on-elections-rights
-https://fas.org/sgp/crs/row/R45034.pdf
+ https://www.voanews.com/americas/pompeo-calls-haiti-hold-overdue-legislative-elections
+
+https://www.miamiherald.com/news/nation-world/world/americas/haiti/article245897040.html
+
+
+https://www.usnews.com/news/world/articles/2020-08-16/pompeo-pushes-haiti-president-on-elections-rights
+https://fas.org/sgp/crs/row/R45034.pdf
 https://www.aljazeera.com/programmes/talktojazeera/2020/01/jovenel-moise-200123212546142.html
 
 
@@ -304,22 +379,34 @@ https://www.aljazeera.com/programmes/talktojazeera/2020/01/jovenel-moise-2001232
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No legislature exists. 
 
 *Sources*:
- https://www.usnews.com/news/world/articles/2020-08-16/pompeo-pushes-haiti-president-on-elections-rights
-https://fas.org/sgp/crs/row/R45034.pdf
+ https://www.voanews.com/americas/pompeo-calls-haiti-hold-overdue-legislative-elections
+
+https://www.miamiherald.com/news/nation-world/world/americas/haiti/article245897040.html
+
+
+https://www.usnews.com/news/world/articles/2020-08-16/pompeo-pushes-haiti-president-on-elections-rights
+https://fas.org/sgp/crs/row/R45034.pdf
 https://www.aljazeera.com/programmes/talktojazeera/2020/01/jovenel-moise-200123212546142.html
 
 
@@ -339,15 +426,27 @@ https://www.aljazeera.com/programmes/talktojazeera/2020/01/jovenel-moise-2001232
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No legislature exists. 
 
 *Sources*:
- https://www.usnews.com/news/world/articles/2020-08-16/pompeo-pushes-haiti-president-on-elections-rights
-https://fas.org/sgp/crs/row/R45034.pdf
+ https://www.voanews.com/americas/pompeo-calls-haiti-hold-overdue-legislative-elections
+
+https://www.miamiherald.com/news/nation-world/world/americas/haiti/article245897040.html
+
+
+https://www.usnews.com/news/world/articles/2020-08-16/pompeo-pushes-haiti-president-on-elections-rights
+https://fas.org/sgp/crs/row/R45034.pdf
 https://www.aljazeera.com/programmes/talktojazeera/2020/01/jovenel-moise-200123212546142.html
 
 
@@ -372,13 +471,23 @@ https://www.aljazeera.com/programmes/talktojazeera/2020/01/jovenel-moise-2001232
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The emergency measures were countrywide. 
+ The emergency measures including the night time curfew have been countrywide. 
 
 *Sources*:
  https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
+
+https://www.garda.com/crisis24/news-alert-full-history/Dtx9gS7BvicMJxZCn/haiti-government-suspends-flights-from-europe-latin-america-and-canada-due-to-covid-19-march-16
 
 
 
@@ -402,25 +511,22 @@ https://www.aljazeera.com/programmes/talktojazeera/2020/01/jovenel-moise-2001232
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No such evidence was found.
-When the Haitian government renewed the state of emergency for two months in May, 2020, added as a preautionary measure the compulsory wearing of a mask in public places, under penalty of sanctions.
-''Prime Minister Joseph Jouthe said that there will not be too large changes in the arrangements already made in the state of health emergency.''
-''According to the presidential decree of March 19 declaring the state of health emergency renewed in the same terms on April 20, "schools, universities, peristyles or voodoo temples, churches, mosques and all other places of worship generally any, international airports, land and sea borders remain closed until further notice ”.''
-“Private hospitals and clinics make their isolation services available to the state. Citizens are asked to stay at home or limit their movements to what is strictly necessary ”, stipulate articles 3 and 4 of the decree.
-The government is maintaining the curfew in effect from 8 p.m. to 5 a.m. until further notice.
-Joseph Jouthe revealed to Le Nouvelliste that the scientific committee recommended to the government the adoption of two to three weeks of confinement to limit the damage. The Prime Minister also acknowledged that the socio-economic situation of the country makes this decision difficult.'' 
+ No such evidence was found. 
 
 *Sources*:
- https://lenouvelliste.com/article/216364/letat-durgence-sanitaire-renouvele-pour-deux-mois-supplementaires
-https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
+ https://lenouvelliste.com/article/216364/letat-durgence-sanitaire-renouvele-pour-deux-mois-supplementaires
+https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
 https://www.haitilibre.com/article-30843-haiti-flash-decret-presidentiel-fixant-les-regles-generales-de-protection-de-la-population-face-au-covid-19.html
 
 
@@ -450,26 +556,23 @@ https://www.haitilibre.com/article-30843-haiti-flash-decret-presidentiel-fixant-
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No such evidence was found.
-When the Haitian government renewed the state of emergency for two months in May, 2020, added as a preautionary measure the compulsory wearing of a mask in public places, under penalty of sanctions.
-''Prime Minister Joseph Jouthe said that there will not be too large changes in the arrangements already made in the state of health emergency.''
-''According to the presidential decree of March 19 declaring the state of health emergency renewed in the same terms on April 20, "schools, universities, peristyles or voodoo temples, churches, mosques and all other places of worship generally any, international airports, land and sea borders remain closed until further notice ”.''
-“Private hospitals and clinics make their isolation services available to the state. Citizens are asked to stay at home or limit their movements to what is strictly necessary ”, stipulate articles 3 and 4 of the decree.
-The government is maintaining the curfew in effect from 8 p.m. to 5 a.m. until further notice.
-Joseph Jouthe revealed to Le Nouvelliste that the scientific committee recommended to the government the adoption of two to three weeks of confinement to limit the damage. The Prime Minister also acknowledged that the socio-economic situation of the country makes this decision difficult.'' 
+ No such evidence was found. 
 
 *Sources*:
- https://lenouvelliste.com/article/216364/letat-durgence-sanitaire-renouvele-pour-deux-mois-supplementaires
-https://news.un.org/en/story/2020/05/1063612
-https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
+ https://lenouvelliste.com/article/216364/letat-durgence-sanitaire-renouvele-pour-deux-mois-supplementaires
+https://news.un.org/en/story/2020/05/1063612
+https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
 https://www.haitilibre.com/article-30843-haiti-flash-decret-presidentiel-fixant-les-regles-generales-de-protection-de-la-population-face-au-covid-19.html
 
 
@@ -494,22 +597,26 @@ https://www.haitilibre.com/article-30843-haiti-flash-decret-presidentiel-fixant-
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- No change in media limitations observed with the renewal of the state of emergency.
-
-When the Haitian government renewed the state of emergency for two months in May, 2020, added as a preautionary measure the compulsory wearing of a mask in public places, under penalty of sanctions.
-''Prime Minister Joseph Jouthe said that there will not be too large changes in the arrangements already made in the state of health emergency.''
-''According to the presidential decree of March 19 declaring the state of health emergency renewed in the same terms on April 20, "schools, universities, peristyles or voodoo temples, churches, mosques and all other places of worship generally any, international airports, land and sea borders remain closed until further notice ”.''
-“Private hospitals and clinics make their isolation services available to the state. Citizens are asked to stay at home or limit their movements to what is strictly necessary ”, stipulate articles 3 and 4 of the decree.
-The government is maintaining the curfew in effect from 8 p.m. to 5 a.m. until further notice.
-Joseph Jouthe revealed to Le Nouvelliste that the scientific committee recommended to the government the adoption of two to three weeks of confinement to limit the damage. The Prime Minister also acknowledged that the socio-economic situation of the country makes this decision difficult.'' 
+ No de jure media limitations were found in the emergency measures. However, government initially had not granted journalists an exemption from the curfew restrictions. ''In a decree dated May 21, 2020, the government rectified the situation by restoring the right of press workers who "are part of the professional categories that can move freely during curfew hours, as is the case for doctors, for example.'' 
 
 *Sources*:
- https://lenouvelliste.com/article/216364/letat-durgence-sanitaire-renouvele-pour-deux-mois-supplementaires
-https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
-https://twitter.com/PrimatureHT/status/1243514262913527809?s=20
+ http://www.hpnhaiti.com/nouvelles/index.php/societe/89-presse/7582-haiti-presse-coronavirus-couvre-feu-le-gouvernement-leve-l-interdiction-imposee-aux-journalistes
+
+http://www.hpnhaiti.com/nouvelles/index.php/societe/89-presse/7510-coronavirus-presse-sos-journalistes-exige-l-assouplissement-du-couvre-feu
+
+https://lenouvelliste.com/article/216364/letat-durgence-sanitaire-renouvele-pour-deux-mois-supplementaires
+https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
 
 
 
@@ -521,15 +628,22 @@ https://twitter.com/PrimatureHT/status/1243514262913527809?s=20
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -547,15 +661,22 @@ https://twitter.com/PrimatureHT/status/1243514262913527809?s=20
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -583,21 +704,29 @@ https://twitter.com/PrimatureHT/status/1243514262913527809?s=20
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- 'Journalists have also faced obstacles while reporting on the coronavirus pandemic.
+ Journalists have faced obstacles while reporting on the coronavirus pandemic.
 In April, the CPJ called on Haitian authorities to investigate an assault on a group of journalists in Port-au-Prince. CPJ reported that several unidentified men punched and hit a group of eight reporters at the National Identification Office, a government department that manages citizens’ identification cards. The journalists were there to report on claims that the office was not adhering to guidelines on social distancing.
 “Journalists should be free to cover COVID-19 and local authorities’ handling of the pandemic without fear that they will be assaulted,” said CPJ Central and South America Program Coordinator Natalie Southwick. 
 
+Also, according to RSF, ''Despite recent changes in Haiti’s media freedom laws, journalists suffer from a lack of financial resources, an absence of institutional support and difficulty in accessing information," said the Paris-based rights group, which downgraded the country's score from 62 to 83 on a scale in which 1 is considered most free.'' 
+
 *Sources*:
- https://cpj.org/2020/04/haitian-journalist-robenson-sanon-says-covering-co/
-https://www.voanews.com/press-freedom/never-ending-battle-press-rights-haiti
+ https://www.voanews.com/press-freedom/never-ending-battle-press-rights-haiti
+
+https://cpj.org/2020/04/journalists-assaulted-while-covering-covid-19-meas/
+
+https://cpj.org/2020/04/haitian-journalist-robenson-sanon-says-covering-co/
 https://en.unesco.org/news/role-haitian-press-response-coronavirus-pandemic
 
 
@@ -610,7 +739,7 @@ https://en.unesco.org/news/role-haitian-press-response-coronavirus-pandemic
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -620,21 +749,29 @@ https://en.unesco.org/news/role-haitian-press-response-coronavirus-pandemic
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- 'Journalists have also faced obstacles while reporting on the coronavirus pandemic.
+ Journalists have faced obstacles while reporting on the coronavirus pandemic.
 In April, the CPJ called on Haitian authorities to investigate an assault on a group of journalists in Port-au-Prince. CPJ reported that several unidentified men punched and hit a group of eight reporters at the National Identification Office, a government department that manages citizens’ identification cards. The journalists were there to report on claims that the office was not adhering to guidelines on social distancing.
 “Journalists should be free to cover COVID-19 and local authorities’ handling of the pandemic without fear that they will be assaulted,” said CPJ Central and South America Program Coordinator Natalie Southwick. 
 
+Also, according to RSF, ''Despite recent changes in Haiti’s media freedom laws, journalists suffer from a lack of financial resources, an absence of institutional support and difficulty in accessing information," said the Paris-based rights group, which downgraded the country's score from 62 to 83 on a scale in which 1 is considered most free.'' 
+
 *Sources*:
- https://cpj.org/2020/04/haitian-journalist-robenson-sanon-says-covering-co/
-https://www.voanews.com/press-freedom/never-ending-battle-press-rights-haiti
+ https://www.voanews.com/press-freedom/never-ending-battle-press-rights-haiti
+
+https://cpj.org/2020/04/journalists-assaulted-while-covering-covid-19-meas/
+
+https://cpj.org/2020/04/haitian-journalist-robenson-sanon-says-covering-co/
 https://en.unesco.org/news/role-haitian-press-response-coronavirus-pandemic
 
 
@@ -657,10 +794,13 @@ https://en.unesco.org/news/role-haitian-press-response-coronavirus-pandemic
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -668,10 +808,10 @@ Time period: *Jul-Sep*: 0
  No such evidence was found. 
 
 *Sources*:
- https://cpj.org/2020/04/haitian-journalist-robenson-sanon-says-covering-co/
-https://www.voanews.com/press-freedom/never-ending-battle-press-rights-haiti
-https://en.unesco.org/news/role-haitian-press-response-coronavirus-pandemic
-https://rsf.org/en/haiti
+ https://cpj.org/2020/04/haitian-journalist-robenson-sanon-says-covering-co/
+https://www.voanews.com/press-freedom/never-ending-battle-press-rights-haiti
+https://en.unesco.org/news/role-haitian-press-response-coronavirus-pandemic
+https://rsf.org/en/haiti
 https://ipi.media/covid19-media-freedom-monitoring/
 
 
@@ -691,29 +831,45 @@ https://ipi.media/covid19-media-freedom-monitoring/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Although only this report was found, it describes a widespread problem with limitations on access to information.
-''Journalists have also faced obstacles while reporting on the coronavirus pandemic.
-In Haiti, information is not guaranteed. You have to fight to access information. It is truly difficult to get information from the government. Sometimes it will take me two to three weeks for a single piece of reporting. You call a government institution to ask for information and they tell you to ask for an appointment.
-Presently, we depend on what authorities tell us. They say there are 10 confirmed cases of coronavirus, but there is no way to verify that information. We really do not know what is happening. We are limited to whatever information they provide us.
-In the current context, I do not have a source that can give me any reliable information, because all of the information is in the hands of the government. There are very few people that handle this information. The rest are just rumors. Up to this point, we depend solely on government press conferences. As journalists, we always try to find a balance, to corroborate the official information. But in these circumstances, it is really difficult.'' 
+ There are reports revealing a widespread problem with limitations on access to information for journalists in Haiti: 
+
+The Haitian government initially had not granted journalists an exemption from the curfew restrictions. However, ''in a decree dated May 21, 2020, the government rectified the situation by restoring the right of press workers who "are part of the professional categories that can move freely during curfew hours, as is the case for doctors, for example.'' (therefore coding is stricter for March-June).
+
+''Journalists have also faced obstacles while reporting on the coronavirus pandemic. In Haiti, information is not guaranteed. You have to fight to access information. It is truly difficult to get information from the government. Sometimes it will take me two to three weeks for a single piece of reporting. You call a government institution to ask for information and they tell you to ask for an appointment.Presently, we depend on what authorities tell us. They say there are 10 confirmed cases of coronavirus, but there is no way to verify that information. We really do not know what is happening. We are limited to whatever information they provide us.In the current context, I do not have a source that can give me any reliable information, because all of the information is in the hands of the government. There are very few people that handle this information. The rest are just rumors. Up to this point, we depend solely on government press conferences. As journalists, we always try to find a balance, to corroborate the official information. But in these circumstances, it is really difficult.'' 
+
+Also, according to RSF, ''Despite recent changes in Haiti’s media freedom laws, journalists suffer from a lack of financial resources, an absence of institutional support and difficulty in accessing information," said the Paris-based rights group, which downgraded the country's score from 62 to 83 on a scale in which 1 is considered most free.'' 
 
 *Sources*:
- https://cpj.org/2020/04/haitian-journalist-robenson-sanon-says-covering-co/
-https://www.voanews.com/press-freedom/never-ending-battle-press-rights-haiti
-https://en.unesco.org/news/role-haitian-press-response-coronavirus-pandemic
-https://rsf.org/en/haiti
+ http://www.hpnhaiti.com/nouvelles/index.php/societe/89-presse/7582-haiti-presse-coronavirus-couvre-feu-le-gouvernement-leve-l-interdiction-imposee-aux-journalistes
+
+http://www.hpnhaiti.com/nouvelles/index.php/societe/89-presse/7510-coronavirus-presse-sos-journalistes-exige-l-assouplissement-du-couvre-feu
+
+
+https://www.voanews.com/press-freedom/never-ending-battle-press-rights-haiti
+
+https://cpj.org/2020/04/journalists-assaulted-while-covering-covid-19-meas/
+
+https://cpj.org/2020/04/haitian-journalist-robenson-sanon-says-covering-co/
+
+https://en.unesco.org/news/role-haitian-press-response-coronavirus-pandemic
+
+https://rsf.org/en/haiti
+
 https://ipi.media/covid19-media-freedom-monitoring/
 
 
@@ -736,24 +892,35 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- 'At about 11:00 a.m. on April 2, several unidentified men punched and hit a group of eight reporters at the National Identification Office, a government department that manages citizens’ identification cards, while they were investigating claims that the office was violating COVID-19 guidelines by keeping applicants in close quarters, according to news reports and Robest Dimanche, one of the journalists, who spoke with CPJ in a phone interview. Some of the attackers were wearing t-shirts identifying them as personnel from the National Identification Office, and others were wearing shirts identifying them as employees of the Ministry of the Interior and “Public Security,” according to a complaint filed by the journalists to the public prosecutor’s office, which CPJ reviewed.'' 
+ At about 11:00 a.m. on April 2, several unidentified men punched and hit a group of eight reporters at the National Identification Office, a government department that manages citizens’ identification cards, while they were investigating claims that the office was violating COVID-19 guidelines by keeping applicants in close quarters, according to news reports and Robest Dimanche, one of the journalists, who spoke with CPJ in a phone interview. Some of the attackers were wearing t-shirts identifying them as personnel from the National Identification Office, and others were wearing shirts identifying them as employees of the Ministry of the Interior and “Public Security,” according to a complaint filed by the journalists to the public prosecutor’s office, which CPJ reviewed.'' 
 
-There are two more incidents against journalists but are not covid19 related (see source 3) 
+''In April, a protest broke out in the capital of Haiti after the arrestation of Mr. Louko Desir after saying a speech on Radio Télé Eclair during his popular radio show called Matin Debat. From some reports, the journalist and the radio host was released from Jail hours later. According to local media like Bon Déjeuner! Radio (BDR! Live) and Radio Télé Eclair, Mr. Louko Desir who is a Journalist and the host of Matin Debat at Radio Télé Eclair were arrested after saying the Haitian Government is lying about the COVID-19 in Haiti. After Mr. Louko Desir said that there are no cases of COVID-19 in Haiti, he was arrested shortly after that speech on the radio.'' 
+
+Also in April, ''A reporter for Radio Television Caribbean, Georges Allen was beaten and arrested by a police patrol for allegedly violating a government imposed curfew, despite the journalists showing his credentials that exempt him from the curfew regulations.'' 
+
+The curfew is still ongoing in the October-December period, even though the state of health emergency has been lifted. 
 
 *Sources*:
- https://cpj.org/2020/04/journalists-assaulted-while-covering-covid-19-meas/
-https://www.washingtonpost.com/opinions/global-opinions/truth-is-the-first-casualty-in-war-including-this-one/2020/04/12/44c5ea44-7a88-11ea-b6ff-597f170df8f8_story.html
-https://cpj.org/2020/08/journalist-setoute-yvens-survives-shooting-attempt-another-reporter-receives-death-threats-in-haiti/
+ https://sflcn.com/another-protest-in-the-capital-of-haiti-after-journalist-arrestation/
 
-(3)
+https://haitiantimes.com/2020/04/30/journalists-condemn-police-brutality-against-haitian-reporter-georges-allen/
+
+https://www.juno7.ht/secteurscondamnent-brutalitespolicieres-georges-allen/
+
+https://cpj.org/2020/04/journalists-assaulted-while-covering-covid-19-meas/
+
+https://www.washingtonpost.com/opinions/global-opinions/truth-is-the-first-casualty-in-war-including-this-one/2020/04/12/44c5ea44-7a88-11ea-b6ff-597f170df8f8_story.html
 
 
 
@@ -775,23 +942,35 @@ https://cpj.org/2020/08/journalist-setoute-yvens-survives-shooting-attempt-anoth
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- 'At about 11:00 a.m. on April 2, several unidentified men punched and hit a group of eight reporters at the National Identification Office, a government department that manages citizens’ identification cards, while they were investigating claims that the office was violating COVID-19 guidelines by keeping applicants in close quarters, according to news reports and Robest Dimanche, one of the journalists, who spoke with CPJ in a phone interview. Some of the attackers were wearing t-shirts identifying them as personnel from the National Identification Office, and others were wearing shirts identifying them as employees of the Ministry of the Interior and “Public Security,” according to a complaint filed by the journalists to the public prosecutor’s office, which CPJ reviewed.'' 
+ At about 11:00 a.m. on April 2, several unidentified men punched and hit a group of eight reporters at the National Identification Office, a government department that manages citizens’ identification cards, while they were investigating claims that the office was violating COVID-19 guidelines by keeping applicants in close quarters, according to news reports and Robest Dimanche, one of the journalists, who spoke with CPJ in a phone interview. Some of the attackers were wearing t-shirts identifying them as personnel from the National Identification Office, and others were wearing shirts identifying them as employees of the Ministry of the Interior and “Public Security,” according to a complaint filed by the journalists to the public prosecutor’s office, which CPJ reviewed.'' 
 
-There are two more incidents against journalists but are not covid19 related (see source 3) 
+''In April, a protest broke out in the capital of Haiti after the arrestation of Mr. Louko Desir after saying a speech on Radio Télé Eclair during his popular radio show called Matin Debat. From some reports, the journalist and the radio host was released from Jail hours later. According to local media like Bon Déjeuner! Radio (BDR! Live) and Radio Télé Eclair, Mr. Louko Desir who is a Journalist and the host of Matin Debat at Radio Télé Eclair were arrested after saying the Haitian Government is lying about the COVID-19 in Haiti. After Mr. Louko Desir said that there are no cases of COVID-19 in Haiti, he was arrested shortly after that speech on the radio.'' 
+
+Also in April, ''A reporter for Radio Television Caribbean, Georges Allen was beaten and arrested by a police patrol for allegedly violating a government imposed curfew, despite the journalists showing his credentials that exempt him from the curfew regulations.'' 
+
+The curfew is still ongoing in the October-December period, even though the state of health emergency has been lifted. 
 
 *Sources*:
- https://cpj.org/2020/04/journalists-assaulted-while-covering-covid-19-meas/
-https://www.washingtonpost.com/opinions/global-opinions/truth-is-the-first-casualty-in-war-including-this-one/2020/04/12/44c5ea44-7a88-11ea-b6ff-597f170df8f8_story.html
-https://cpj.org/2020/08/journalist-setoute-yvens-survives-shooting-attempt-another-reporter-receives-death-threats-in-haiti/
-(3)
+ https://sflcn.com/another-protest-in-the-capital-of-haiti-after-journalist-arrestation/
+
+https://haitiantimes.com/2020/04/30/journalists-condemn-police-brutality-against-haitian-reporter-georges-allen/
+
+https://www.juno7.ht/secteurscondamnent-brutalitespolicieres-georges-allen/
+
+https://cpj.org/2020/04/journalists-assaulted-while-covering-covid-19-meas/
+
+https://www.washingtonpost.com/opinions/global-opinions/truth-is-the-first-casualty-in-war-including-this-one/2020/04/12/44c5ea44-7a88-11ea-b6ff-597f170df8f8_story.html
 
 
 
@@ -815,10 +994,13 @@ https://cpj.org/2020/08/journalist-setoute-yvens-survives-shooting-attempt-anoth
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -826,9 +1008,9 @@ Time period: *Jul-Sep*: 0
  The official information by the Government is in line with WHO recommendations. 
 
 *Sources*:
- https://www.haitilibre.com/article-30307-haiti-covid-19-bulletin-quotidien-19-mars-2020.html
-https://twitter.com/PrimatureHT
-https://twitter.com/PrimatureHT/status/1243514262913527809?s=20
+ https://www.mspp.gouv.ht/
+
+https://www.haitilibre.com/article-30307-haiti-covid-19-bulletin-quotidien-19-mars-2020.html
 
 
 
@@ -852,20 +1034,45 @@ https://twitter.com/PrimatureHT/status/1243514262913527809?s=20
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- No such evidence was found.  
-There had been protests and clashes with the police but these occurred in anti-government demonstrations (also against the gvt's covid19 response), but not in an effort to enforce the measures. 
+ There have been several incidents of police brutality involving journalists in haiti. 
+
+'At about 11:00 a.m. on April 2, several unidentified men punched and hit a group of eight reporters at the National Identification Office, a government department that manages citizens’ identification cards, while they were investigating claims that the office was violating COVID-19 guidelines by keeping applicants in close quarters, according to news reports and Robest Dimanche, one of the journalists, who spoke with CPJ in a phone interview. Some of the attackers were wearing t-shirts identifying them as personnel from the National Identification Office, and others were wearing shirts identifying them as employees of the Ministry of the Interior and “Public Security,” according to a complaint filed by the journalists to the public prosecutor’s office, which CPJ reviewed.'' 
+
+''In April, a protest broke out in the capital of Haiti after the arrestation of Mr. Louko Desir after saying a speech on Radio Télé Eclair during his popular radio show called Matin Debat. From some reports, the journalist and the radio host was released from Jail hours later. According to local media like Bon Déjeuner! Radio (BDR! Live) and Radio Télé Eclair, Mr. Louko Desir who is a Journalist and the host of Matin Debat at Radio Télé Eclair were arrested after saying the Haitian Government is lying about the COVID-19 in Haiti. After Mr. Louko Desir said that there are no cases of COVID-19 in Haiti, he was arrested shortly after that speech on the radio.'' 
+
+Also in April, ''A reporter for Radio Television Caribbean, Georges Allen was beaten and arrested by a police patrol for allegedly violating a government imposed curfew, despite the journalists showing his credentials that exempt him from the curfew regulations.'' 
+
+The curfew is still ongoing in the October-December period, even though the state of health emergency has been lifted. 
+
+There had also been protests and clashes with the police but these occurred in anti-government demonstrations (also against the gvt's covid19 response), but not in an effort to enforce the measures. 
 
 *Sources*:
- https://www.france24.com/en/20200328-virus-prevention-measures-turn-violent-in-parts-of-africa
-https://www.youtube.com/watch?v=BNpYfoPw3f4
+ https://sflcn.com/another-protest-in-the-capital-of-haiti-after-journalist-arrestation/
+
+https://haitiantimes.com/2020/04/30/journalists-condemn-police-brutality-against-haitian-reporter-georges-allen/
+
+https://www.juno7.ht/secteurscondamnent-brutalitespolicieres-georges-allen/
+
+https://cpj.org/2020/04/journalists-assaulted-while-covering-covid-19-meas/
+
+https://www.washingtonpost.com/opinions/global-opinions/truth-is-the-first-casualty-in-war-including-this-one/2020/04/12/44c5ea44-7a88-11ea-b6ff-597f170df8f8_story.html
+
+
+https://www.france24.com/en/20200328-virus-prevention-measures-turn-violent-in-parts-of-africa
+
+https://www.youtube.com/watch?v=BNpYfoPw3f4
+
 https://peoplesdispatch.org/2020/05/19/mismanagement-of-pandemic-by-haitian-president-jovenel-moise-fuels-latest-protests-demanding-his-resignation/
 
 
@@ -878,7 +1085,7 @@ https://peoplesdispatch.org/2020/05/19/mismanagement-of-pandemic-by-haitian-pres
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -888,10 +1095,13 @@ https://peoplesdispatch.org/2020/05/19/mismanagement-of-pandemic-by-haitian-pres
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -900,29 +1110,3 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

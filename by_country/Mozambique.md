@@ -1,9 +1,6 @@
 # Mozambique 
 
 
-Time 2020-09-11 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-11
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,16 +25,25 @@ Time 2020-09-11
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 3
+
+ 
 
 *Comments*:
- According to the constitution, a state of emergency can be declared for up to thirty days a time and it can be extended a maximum of three times. Due to covid-19, a SoE was first declared on March 30, via the Presidential Decree nº 11/2020, and it was extended three times, until July 29. Then, President Filipe Nyus opted to declare a new SoE for thirty days starting from August 8, via the Presidential Decree nº 23/2020. The parliament approved the decree, but the opposition criticized the decision, which they considered unconstitutional since the SoE had already been extended the three times allowed by the constitution. 
+ A state of emergency was first declared on March 30, via the Presidential Decree nº 11/2020, and it was extended three times, until July 29. According to the constitution, a state of emergency can be declared for up to thirty days a time and it can be extended a maximum of three times. Since legally it could no longer be extended, President Filipe Nyus opted to declare a new state of emergency for thirty days starting from August 8, via the Presidential Decree nº 23/2020. The parliament approved the decree, but the opposition criticized the decision, which they considered unconstitutional since the state of emergency had already been extended the three times allowed by the constitution. After the first thirty days ended, the second state of emergency was not extended and, instead, a state of Public Calamity was implemented via Decree nº 79/2020. 
 
 *Sources*:
- https://www.rsm.global/mozambique/sites/default/files/decreto_presidencial_23-2020.pdf
-https://www.dw.com/pt-002/covid-19-em-mo%C3%A7ambique-novo-estado-de-emerg%C3%AAncia-decretado-pelo-pr/a-54452845
-https://covid19.ins.gov.mz/covid-19-presidente-da-republica-declara-estado-de-emergencia-em-mocambique/
+ https://www.rsm.global/mozambique/sites/default/files/decreto_presidencial_23-2020.pdf
+https://www.dw.com/pt-002/covid-19-em-mo%C3%A7ambique-novo-estado-de-emerg%C3%AAncia-decretado-pelo-pr/a-54452845
+https://covid19.ins.gov.mz/covid-19-presidente-da-republica-declara-estado-de-emergencia-em-mocambique/
 https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
+http://www.ts.gov.mz/images/Decreto_n._792020_de_4_de_Setembro_-_Declara_a_situac%C3%A3o_da_calamidade_P%C3%BAblica_e_Activa_o_Alerta_Vermelho_compressed.pdf
 
 
 
@@ -56,13 +62,23 @@ https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legisla
 *Scale*: Character string.
 
  
-*Answer*: Constitution Articles 161 and 282 
+*Time period: Q2*: Constitution Articles 161 and 282
+
+ 
+*Time period: Q3*: Constitution Articles 161 and 282
+
+ 
+*Time period: Q4*: Law nº 10/2020 from August 24, Decree nº 76/2020 from September 1
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
  https://www.stj.pt/wp-content/uploads/2018/01/mocambique_constituicao.pdf
+
+http://www.ts.gov.mz/images/Decreto_n._792020_de_4_de_Setembro_-_Declara_a_situac%C3%A3o_da_calamidade_P%C3%BAblica_e_Activa_o_Alerta_Vermelho_compressed.pdf
 
 
 
@@ -81,16 +97,25 @@ https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legisla
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-01 
+*Time period: Q2*: 2020-04-01
+
+ 
+*Time period: Q3*: 2020-04-01
+
+ 
+*Time period: Q4*: 2020-09-07
+
+ 
 
 *Comments*:
- The state of emergency was first declared on March 30, via the Presidential Decree nº 11/2020, and it was extended three times, until July 29. Then, President Filipe Nyus opted to declare a new state of emergency for thirty days starting from August 8, via the Presidential Decree nº 23/2020. 
+ The state of emergency was first declared on March 30, via the Presidential Decree nº 11/2020, and it was extended three times, until July 29. Then, President Filipe Nyus opted to declare a new state of emergency for thirty days starting from August 8, via the Presidential Decree nº 23/2020. When that expired, a state of public calamity was declared from September 7, via Decree nº 79/2020. 
 
 *Sources*:
- https://covid19.ins.gov.mz/covid-19-presidente-da-republica-declara-estado-de-emergencia-em-mocambique/
-https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
-https://www.rsm.global/mozambique/sites/default/files/decreto_presidencial_23-2020.pdf
+ https://covid19.ins.gov.mz/covid-19-presidente-da-republica-declara-estado-de-emergencia-em-mocambique/
+https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
+https://www.rsm.global/mozambique/sites/default/files/decreto_presidencial_23-2020.pdf
 http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao_do_Estado_de_Emergencia_constante_do_Decreto_Presidencial_n._23_2020_de_5_de_Agosto_4_1.pdf
+http://www.ts.gov.mz/images/Decreto_n._792020_de_4_de_Setembro_-_Declara_a_situac%C3%A3o_da_calamidade_P%C3%BAblica_e_Activa_o_Alerta_Vermelho_compressed.pdf
 
 
 
@@ -109,13 +134,21 @@ http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao
 *Scale*: Date format.
 
  
-*Answer*: 2020-09-07 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 2020-09-06
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The state of emergency was first declared on March 30, via the Presidential Decree nº 11/2020, and it was extended three times, until July 29. Then, President Filipe Nyus opted to declare a new state of emergency for thirty days starting from August 8, via the Presidential Decree nº 23/2020. Once it ended, on Sempteber 7, it was replaced by a state of calamity. 
+ The state of emergency was first declared on March 30, via the Presidential Decree nº 11/2020, and it was extended three times, until July 29. Then, President Filipe Nyus opted to declare a new state of emergency for thirty days via the Presidential Decree nº 23/2020, starting from August 8 and ending on September 6. Once it ended, it was replaced by a state of public  calamity, which is still in place. 
 
 *Sources*:
- http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao_do_Estado_de_Emergencia_constante_do_Decreto_Presidencial_n._23_2020_de_5_de_Agosto_4_1.pdf
+ http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao_do_Estado_de_Emergencia_constante_do_Decreto_Presidencial_n._23_2020_de_5_de_Agosto_4_1.pdf
 https://www.dw.com/pt-002/covid-19-estado-de-calamidade-p%C3%BAblica-declarado-em-mo%C3%A7ambique/a-54822206
 
 
@@ -138,10 +171,18 @@ https://www.dw.com/pt-002/covid-19-estado-de-calamidade-p%C3%BAblica-declarado-e
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The Article 284 of the Constitution defines that, when declared, a state of emergency can have a maximum length of 30 days and it can be extended up to three times. 
+ The Article 284 of the Constitution defines that, when declared, a state of emergency can have a maximum length of 30 days and it can be extended up to three times. The state of public calamity does not have a time limit. 
 
 *Sources*:
  http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao_do_Estado_de_Emergencia_constante_do_Decreto_Presidencial_n._23_2020_de_5_de_Agosto_4_1.pdf
@@ -156,20 +197,28 @@ https://www.dw.com/pt-002/covid-19-estado-de-calamidade-p%C3%BAblica-declarado-e
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-09-07 
+*Time period: Q2*: 2020-06-28
+
+ 
+*Time period: Q3*: 2020-09-06
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The state of emergency was first declared for 30 days on March 30, via the Presidential Decree nº 11/2020. It was extended three times, always for 30 days, until July 29. Then, President Filipe Nyus opted to declare a new state of emergency for 30 days starting from August 8, via the Presidential Decree nº 23/2020. 
+ The state of emergency was first declared for 30 days on March 30, via the Presidential Decree nº 11/2020. It was extended three times, always for 30 days, until July 29.  Then, President Filipe Nyus opted to declare a new state of emergency for thirty days via the Presidential Decree nº 23/2020, starting from August 8 and ending on September 6. Once it ended, it was replaced by a state of public  calamity, which does not have a time limit. 
 
 *Sources*:
- https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
+ https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
 http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao_do_Estado_de_Emergencia_constante_do_Decreto_Presidencial_n._23_2020_de_5_de_Agosto_4_1.pdf
 
 
@@ -182,7 +231,7 @@ http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -192,13 +241,22 @@ http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Consitution, Article 285: "Having declared a state of siege or emergency, the President of the Republic submits to the Assembly of the Republic, within twenty-four hours, the declaration with the respective grounds, for ratification purposes". 
+ Consitution, Article 285: "Having declared a state of siege or emergency, the President of the Republic submits to the Assembly of the Republic, within twenty-four hours, the declaration with the respective grounds, for ratification purposes". The state of public calamity is declared by the Council of Ministers and does not require legislative approval. 
 
 *Sources*:
  https://www.stj.pt/wp-content/uploads/2018/01/mocambique_constituicao.pdf
+https://www.pmaputo.gov.mz/index.php/por/content/download/7394/53460/version/4/file/lei+24-2020+-Gest%C3%A3o+e+Redu%C3%A7%C3%A3o+do+Risco+de+Desastres.pdf
 
 
 
@@ -220,14 +278,22 @@ http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The first state of emergency was approved via Law 1/2020, on March 31, and the second via Law 9/2020, on August 7. When the president declared a new state of emergency in August, the parliament approved the decree, but the opposition criticized the decision, which they considered unconstitutional since the state of emergency had already been extended the three times allowed by the constitution. 
+ The first state of emergency was approved via Law 1/2020, on March 31, and the second via Law 9/2020, on August 7. The state of public calamity is declared by the Council of Ministers and does not require legislative approval. 
 
 *Sources*:
- https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
-http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao_do_Estado_de_Emergencia_constante_do_Decreto_Presidencial_n._23_2020_de_5_de_Agosto_4_1.pdf
+ https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
+http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao_do_Estado_de_Emergencia_constante_do_Decreto_Presidencial_n._23_2020_de_5_de_Agosto_4_1.pdf
 https://www.dw.com/pt-002/covid-19-em-mo%C3%A7ambique-novo-estado-de-emerg%C3%AAncia-decretado-pelo-pr/a-54452845
 
 
@@ -248,20 +314,30 @@ https://www.dw.com/pt-002/covid-19-em-mo%C3%A7ambique-novo-estado-de-emerg%C3%AA
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The executive can propose measures to fight covid-19, but not rule by decree. The Constitution (Article 289) states that "The declaration of a state of siege or emergency cannot affect the application of the Constitution as regards the competence, the functioning of the sovereign bodies and the rights and immunities of the respective holders or members." 
+ Once the National Assembly approved the declaration of the state of emergency, the executive could define measures to fight the pandemic (e.g. Decree nº 12/2020). The Constitution (Article 289) states that "The declaration of a state of siege or emergency cannot affect the application of the Constitution as regards the competence, the functioning of the sovereign bodies and the rights and immunities of the respective holders or members". The Law nº 10/20, Article 34, delimits which measures the government can take during a state of public calamity. 
 
 *Sources*:
- http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao_do_Estado_de_Emergencia_constante_do_Decreto_Presidencial_n._23_2020_de_5_de_Agosto_4_1.pdf
+ http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao_do_Estado_de_Emergencia_constante_do_Decreto_Presidencial_n._23_2020_de_5_de_Agosto_4_1.pdf
+http://www.open.ac.uk/technology/mozambique/sites/www.open.ac.uk.technology.mozambique/files/files/Decreto_12_2020_de_2_de_Abril_BR_64_I_SERIE_2020.pdf
 https://www.stj.pt/wp-content/uploads/2018/01/mocambique_constituicao.pdf
+https://www.pmaputo.gov.mz/index.php/por/content/download/7394/53460/version/4/file/lei+24-2020+-Gest%C3%A3o+e+Redu%C3%A7%C3%A3o+do+Risco+de+Desastres.pdf
 
 
 
@@ -273,15 +349,22 @@ https://www.stj.pt/wp-content/uploads/2018/01/mocambique_constituicao.pdf
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -306,8 +389,15 @@ https://www.stj.pt/wp-content/uploads/2018/01/mocambique_constituicao.pdf
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -337,13 +427,23 @@ https://www.stj.pt/wp-content/uploads/2018/01/mocambique_constituicao.pdf
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The measures have a national scope and I did not find sub-national variation. 
 
 *Sources*:
  https://covid19.ins.gov.mz/medidas/
+https://www.rsm.global/mozambique/sites/default/files/decreto_presidencial_23-2020.pdf
+http://www.ts.gov.mz/images/Decreto_n._792020_de_4_de_Setembro_-_Declara_a_situac%C3%A3o_da_calamidade_P%C3%BAblica_e_Activa_o_Alerta_Vermelho_compressed.pdf
 
 
 
@@ -367,10 +467,13 @@ https://www.stj.pt/wp-content/uploads/2018/01/mocambique_constituicao.pdf
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -378,8 +481,9 @@ Time period: *Jul-Sep*: 0
  No evidence of discrimination was found. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?q=&sort=date&issue=67596&country=38618&resourceType=newsarticle
+ https://www.amnesty.org/en/countries/africa/mozambique/
 https://www.hrw.org/africa/mozambique
+https://monitor.civicus.org/country/mozambique/
 
 
 
@@ -408,10 +512,13 @@ https://www.hrw.org/africa/mozambique
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -419,9 +526,10 @@ Time period: *Jul-Sep*: 0
  No evidence of non-derogable rights violation was found. According to the Constitution, Art. 286: "The declaration of a state of siege or emergency may in no case limit or suspend the rights to life, personal integrity, civil capacity and citizenship, non-retroactivity of criminal law, the right of defense of defendants and freedom of religion". 
 
 *Sources*:
- https://www.stj.pt/wp-content/uploads/2018/01/mocambique_constituicao.pdf
-https://www.amnesty.org/en/search/?q=&sort=date&issue=67596&country=38618&resourceType=newsarticle
+ https://www.stj.pt/wp-content/uploads/2018/01/mocambique_constituicao.pdf
+https://www.amnesty.org/en/countries/africa/mozambique/
 https://www.hrw.org/africa/mozambique
+https://monitor.civicus.org/country/mozambique/
 
 
 
@@ -445,14 +553,23 @@ https://www.hrw.org/africa/mozambique
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The emergency measures do not de-jure limit media freedom. The decree nº 69/2020 defines media as an essencial service. 
+ The emergency measures do not de-jure limit media freedom. During the state of emergency, the Decree nº 69/2020 defines media as an essencial service. The state of public calamity (Decree nº 79/2020) does not impose restrictions on the media. 
 
 *Sources*:
- http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao_do_Estado_de_Emergencia_constante_do_Decreto_Presidencial_n._23_2020_de_5_de_Agosto_4_1.pdf
+ http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao_do_Estado_de_Emergencia_constante_do_Decreto_Presidencial_n._23_2020_de_5_de_Agosto_4_1.pdf
 http://www.ts.gov.mz/images/Decreto_n%C2%BA_692020_de_11_de_Agosto_-_Aprova_as_medidas_de_execuc%C3%A3o_administrativa_para_a_contenc%C3%A3o_da_propagac%C3%A3o_da_pandemia_da_COVID-19_a_vigorar_durante_o_Estado_de_Emerg%C3%AAncia.pdf
+http://www.ts.gov.mz/images/Decreto_n._792020_de_4_de_Setembro_-_Declara_a_situac%C3%A3o_da_calamidade_P%C3%BAblica_e_Activa_o_Alerta_Vermelho_compressed.pdf
 
 
 
@@ -464,15 +581,22 @@ http://www.ts.gov.mz/images/Decreto_n%C2%BA_692020_de_11_de_Agosto_-_Aprova_as_m
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -490,15 +614,22 @@ http://www.ts.gov.mz/images/Decreto_n%C2%BA_692020_de_11_de_Agosto_-_Aprova_as_m
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The emergency measures do not de-jure limit media freedom. 
@@ -526,10 +657,13 @@ http://www.ts.gov.mz/images/Decreto_n%C2%BA_692020_de_11_de_Agosto_-_Aprova_as_m
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -538,8 +672,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/africa/mozambique/
 
 
 
@@ -551,7 +685,7 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -561,10 +695,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -573,8 +710,8 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
 https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/africa/mozambique/
 
 
 
@@ -596,20 +733,23 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- There are reports of journalists being stopped from reporting on non-covid-19 related matters due to the state of emergency. The cases happened in June, but there is no evidence of change. 
+ There are reports of journalists being stopped from reporting on non-covid-19 related matters due to the state of emergency. The cases happened in June, but there is no evidence of improvement. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/08/mozambique-unprecedented-arson-attack-on-canal-media/
-https://cpj.org/2020/07/mozambican-journalist-omardine-omar-convicted-of-civil-disobedience-fined/
-https://www.dw.com/pt-002/jornalista-da-carta-de-mo%C3%A7ambique-libertado-ap%C3%B3s-deten%C3%A7%C3%A3o-humilhante/a-53991674
+ https://www.amnesty.org/en/latest/news/2020/08/mozambique-unprecedented-arson-attack-on-canal-media/
+https://cpj.org/2020/07/mozambican-journalist-omardine-omar-convicted-of-civil-disobedience-fined/
+https://www.dw.com/pt-002/jornalista-da-carta-de-mo%C3%A7ambique-libertado-ap%C3%B3s-deten%C3%A7%C3%A3o-humilhante/a-53991674
 https://www.dw.com/pt-002/pandemia-tornou-se-justifica%C3%A7%C3%A3o-para-atacar-liberdade-de-imprensa/av-53330403
 
 
@@ -629,14 +769,17 @@ https://www.dw.com/pt-002/pandemia-tornou-se-justifica%C3%A7%C3%A3o-para-atacar-
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -645,7 +788,7 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
+
 https://ipi.media/covid19-media-freedom-monitoring/
 
 
@@ -668,10 +811,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -680,7 +826,7 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://rsf.org/en/countries
-
+
 https://ipi.media/covid19-media-freedom-monitoring/
 
 
@@ -703,21 +849,23 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No evidence of harassment was found. 
+ No evidence of physical harassment of journalists reporting about covid-19 was found. However, a journalists was detained for allegedly violating the lockdown, and he was beaten while in police custody. 
 
 *Sources*:
  https://rsf.org/en/countries
-
-https://ipi.media/covid19-media-freedom-monitoring/
-https://www.amnesty.org/en/latest/news/2020/08/mozambique-unprecedented-arson-attack-on-canal-media/
+https://ipi.media/covid19-media-freedom-monitoring/
+https://www.amnesty.org/en/latest/news/2020/08/mozambique-unprecedented-arson-attack-on-canal-media/
 https://cpj.org/2020/07/mozambican-journalist-omardine-omar-convicted-of-civil-disobedience-fined/
 
 
@@ -742,10 +890,13 @@ https://cpj.org/2020/07/mozambican-journalist-omardine-omar-convicted-of-civil-d
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -777,15 +928,18 @@ Time period: *Jul-Sep*: 0
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- The civil society organization Centro para Democracia e Desenvolvimento is collecting reports of police abuse and reported 27 instances only in the first month of the state of emergency. President Nyusi critized police violence but also blammed citizes of "victimization". 
+ The civil society organization Centro para Democracia e Desenvolvimento is collecting reports of police abuse and reported 27 instances only in the first month of the state of emergency. President Nyusi critized police violence but also blammed citizes of "victimization". Reports of police violence were not identified after the state of emergency ended. 
 
 *Sources*:
  https://www.dw.com/pt-002/covid-19-cidad%C3%A3os-mo%C3%A7ambicanos-denunciam-abusos-da-pol%C3%ADcia/a-53343318
@@ -804,7 +958,7 @@ https://www.dw.com/pt-002/jornalista-da-carta-de-mo%C3%A7ambique-libertado-ap%C3
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -814,40 +968,18 @@ https://www.dw.com/pt-002/jornalista-da-carta-de-mo%C3%A7ambique-libertado-ap%C3
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- The new presidential decree also forsees that the armed forces can be used to enforce the emergency measures (article 3). However, I did not find evidence that they are de-facto doing so. 
+ During the state of emergency, the government had the prerogative of using the armed forces to enforce emergency measures (article 3). However, I did not find evidence that they were de-facto doing so. The state of public calamity does not foresee military involvement. 
 
 *Sources*:
  http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao_do_Estado_de_Emergencia_constante_do_Decreto_Presidencial_n._23_2020_de_5_de_Agosto_4_1.pdf
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-*Answer*: The government approved a law (Lei 2/2020, de 6 de Abril) that pardons crimes punishable by up to one year in prison to prevent the spread of the new coronavirus in prisons (there are exceptions for violent crimes). 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
- https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf

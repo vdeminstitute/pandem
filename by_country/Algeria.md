@@ -1,9 +1,6 @@
 # Algeria 
 
 
-Time 2020-09-15 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-15
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,30 +25,42 @@ Time 2020-09-15
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- Algeria adopted several gradual measures through decrees. The decrees are based on the Constitution (1) and other legal acts, but the articles on which they are based are not related to emergency powers, but rather to ''normal'' lawming powers. 
+ Algeria adopted several gradual measures through decrees. The decrees are based on the Constitution (1) and other legal acts, but the articles on which they are based are not related to emergency powers, but rather to ''normal'' lawmaking powers. 
 For example, the decrees  No. 20-69 of March 21 2020 (2), and 20-70 of March 24 2020 (3) refer legally to the Constitution, articles 99 (4) and 143 (1), or the law n° 88-07 du 7 Joumada Ethania 1408 correspondant au 26 janvier 1988 relative à l’hygiène, à la sécurité et à la médecine du travail (4).
 
-''Faced with the Covid-19 health crisis and the development of cases affecting the country, the Algerian Government has gradually taken a series of general measures aimed at containing the spread of the virus. These measures have been the subject of two main texts:
-Executive Decree No. 20-69 of March 21, 2020 (2) relating to measures to prevent and combat the spread of Coronavirus (Covid-19) and, the purpose of which is to establish measures of social distancing intended to prevent and combat the spread of COVID-19; 
- 
-Executive Decree No. 20-70 of March 24, 2020 (3) establishing additional measures to prevent and combat the spread of Coronavirus (Covid-19) and which has as its object the establishment of containment devices, restriction of circulation, framing of citizens' trade and supply activities, of rules of distancing as well as the methods of citizen mobilization in the national effort to prevent and combat the spread of the Covid-19 pandemic.'' (5,6) 
+''The Algerian Government has gradually taken a series of general measures that have been the subject of two main texts:
+a) Executive Decree No. 20-69 of March 21, 2020 (2) relating to measures to prevent and combat the spread of Coronavirus (Covid-19); 
+b) Executive Decree No. 20-70 of March 24, 2020 (3) establishing additional measures to prevent and combat the spread of Coronavirus (Covid-19) susc as restriction of circulation, framing of citizens' trade and supply activities, rules of distancing as well as the methods of citizen mobilization in the national effort to prevent and combat the spread of the Covid-19 pandemic.'' (5,6) 
+
+As of December 2020, the Algerian Government continues to use the same legal instrument in order to issue regulations in forms of Executive Decrees to deal with Covid 19 (see a list of such decrees: 7) 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Algeria_2016.pdf?lang=en
-(1)
+(1)
 https://ambalgeri.esteri.it/ambasciata_algeri/resource/doc/2020/03/decreto_dz_covid_19_-_21032020.pdf
-(2)
+(2)
 http://www.faf.dz/wp-content/uploads/2020/03/Journal-Officiel-n%C2%B016-Relatif-%C3%A0-la-Lutte-contre-le-COVID-19.pdf
-(3)
+(3)
 https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=en&p_isn=4767
-(4)
+(4)
 https://www.gide.com/fr/actualites/covid-19-mesures-generales-relatives-a-la-lutte-contre-la-propagation-du-covid-19-en
-(5)
+(5)
 https://cms.law/fr/media/local/cms-bfl/files/veille-covid-19-en-afrique-du-13-au-17-avril-2020
 (6)
+
+http://ilo.org/dyn/natlex/natlex4.listResults?p_lang=en&p_count=97059&p_classification=01&p_classcount=12682&p_first=151&p_show_abstract=N&p_pagelength=50
+(7)
 
 
 
@@ -70,20 +79,29 @@ https://cms.law/fr/media/local/cms-bfl/files/veille-covid-19-en-afrique-du-13-au
 *Scale*: Character string.
 
  
-*Answer*: Constitution 1989 (reinst. 1996, rev. 2016), articles 99 (4), 143 (1)
--loi n° 88-07 du 7 Joumada Ethania 1408 correspondant au 26 janvier 1988 relative à l’hygiène, à la sécurité et à la médecine du travail (2) 
+*Time period: Q2*: Constitution 1989 (reinst. 1996, rev. 2016), articles 99 (4), 143 (1)
+-loi n° 88-07 du 7 Joumada Ethania 1408 correspondant au 26 janvier 1988 relative à l’hygiène, à la sécurité et à la médecine du travail (2)
+
+ 
+*Time period: Q3*: Constitution 1989 (reinst. 1996, rev. 2016), articles 99 (4), 143 (1)
+-loi n° 88-07 du 7 Joumada Ethania 1408 correspondant au 26 janvier 1988 relative à l’hygiène, à la sécurité et à la médecine du travail (2)
+
+ 
+*Time period: Q4*: Constitution 1989 (reinst. 1996, rev. 2016), articles 99 (4), 143 (1)
+-loi n° 88-07 du 7 Joumada Ethania 1408 correspondant au 26 janvier 1988 relative à l’hygiène, à la sécurité et à la médecine du travail (2)
+
+ 
 
 *Comments*:
- Decrees: No. 20-69 of March 21, 2020, and 20-70 of March 24, 2020 (3, 4)
- 
+ Decrees: No. 20-69 of March 21, 2020, and 20-70 of March 24, 2020 (3, 4) 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Algeria_2016.pdf?lang=en
-(1)
+(1)
 https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=en&p_isn=4767
-(2)
+(2)
 https://ambalgeri.esteri.it/ambasciata_algeri/resource/doc/2020/03/decreto_dz_covid_19_-_21032020.pdf
-(3)
+(3)
 http://www.faf.dz/wp-content/uploads/2020/03/Journal-Officiel-n%C2%B016-Relatif-%C3%A0-la-Lutte-contre-le-COVID-19.pdf
 (4)
 
@@ -104,16 +122,23 @@ http://www.faf.dz/wp-content/uploads/2020/03/Journal-Officiel-n%C2%B016-Relatif-
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-21 
+*Time period: Q2*: 2020-03-21
+
+ 
+*Time period: Q3*: 2020-03-21
+
+ 
+*Time period: Q4*: 2020-03-21
+
+ 
 
 *Comments*:
- This is the date of the first decree issued, because although the second decree was stricter in terms of measures (has as its object the establishment of containment devices, restriction of circulation, framing of citizens' trade and supply activities, of rules of distancing as well as the methods of citizen mobilization in the national effort to prevent and combat the spread of the Covid-19 pandemic), the scope of it was mostly subnational. The first decree included the more general measures. 
+ This is the date of the first decree issued, because although the second decree was stricter in terms of measures (it establishmes containment devices, restriction of circulation, framing of citizens' trade and supply activities, rules of distancing as well as the methods of citizen mobilization in the national effort to prevent and combat the spread of the Covid-19 pandemic), the scope of it was mostly subnational. The first decree included the more general measures. 
 
 *Sources*:
- https://ambalgeri.esteri.it/ambasciata_algeri/resource/doc/2020/03/decreto_dz_covid_19_-_21032020.pdf
-http://www.faf.dz/wp-content/uploads/2020/03/Journal-Officiel-n%C2%B016-Relatif-%C3%A0-la-Lutte-contre-le-COVID-19.pdf
-https://www.gide.com/fr/actualites/covid-19-mesures-generales-relatives-a-la-lutte-contre-la-propagation-du-covid-19-en
-
+ https://ambalgeri.esteri.it/ambasciata_algeri/resource/doc/2020/03/decreto_dz_covid_19_-_21032020.pdf
+http://www.faf.dz/wp-content/uploads/2020/03/Journal-Officiel-n%C2%B016-Relatif-%C3%A0-la-Lutte-contre-le-COVID-19.pdf
+https://www.gide.com/fr/actualites/covid-19-mesures-generales-relatives-a-la-lutte-contre-la-propagation-du-covid-19-en
 
 
 
@@ -132,23 +157,29 @@ https://www.gide.com/fr/actualites/covid-19-mesures-generales-relatives-a-la-lut
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The night time curfew is still in place in many areas.
-
-In early September 2020, ''the national curfew was lifted in the Souk Ahras, Tissemsilt, Djelfa, Mascara, Oum el-Bouaghi, Batna, Biskra, Khenchela, M'sila, Chlef, Sidi Bel Abbes, Bordj Bou Arreridj, Ouargla, Bechar, Constantine, Sétif, Adrar, Laghouat and El-Oued provinces.
-However, the curfew has been renewed in the Boumerdes, Bouira, Relizane, Médéa, Blida, Tipaza, Algiers, Oran, Annaba and Bejaia provinces from 1 September for a period of 30 days, and prohibits movement from 11pm to 6am.
-This curfew has also been imposed on the Tebessa, Illizi, El-Tarf, Ain Defla, Tlemcen, Tizi-Ouzou, Tindouf and Jijel provinces, where the epidemiological situation has worsened.''
-
-The government has eased many other restrictions. 
+ Covid19 related measures are still in place in Algeria in December 2020. On November 8 2020, the Algerian government imposed tighter restrictions such as an extended nightly curfew between 20:00 and 05:00 (local time) in nine additional provinces, and prologned existing curfews in other provinces. A curfew is in effect in 29 of Algeria’s 48 provinces, including in Algiers, and has last been extended through December 16 2020. 
 
 *Sources*:
- https://dz.usembassy.gov/covid-19-information/
-https://www.garda.com/crisis24/news-alerts/367306/algeria-covid-19-movement-restrictions-and-curfew-to-be-eased-as-of-august-9-update-25
-https://www.arabnews.com/node/1716516/middle-east
+ https://dz.usembassy.gov/covid-19-information/
 
+https://www.lemonde.fr/afrique/article/2020/11/09/coronavirus-l-algerie-durcit-les-mesures-de-confinement_6059066_3212.html
+
+https://www.garda.com/crisis24/news-alerts/399901/algeria-authorities-extend-covid-19-restrictions-until-december-2-update-29
+
+https://www.garda.com/crisis24/news-alerts/400581/authorities-reimpose-covid-19-restrictions-nationwide-november-17
+
+https://www.garda.com/crisis24/news-alerts/405721/algeria-authorities-extend-nightly-curfew-until-december-16-update-31
 
 
 
@@ -170,16 +201,25 @@ https://www.arabnews.com/node/1716516/middle-east
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Initially declared for 14 days. 
+ All executive decrees had a limit date upon their issuance. The curfew orders were usually issued for a duration of 2 weeks or 1 month. 
 
 *Sources*:
- https://ambalgeri.esteri.it/ambasciata_algeri/resource/doc/2020/03/decreto_dz_covid_19_-_21032020.pdf
-http://www.faf.dz/wp-content/uploads/2020/03/Journal-Officiel-n%C2%B016-Relatif-%C3%A0-la-Lutte-contre-le-COVID-19.pdf
-https://www.gide.com/fr/actualites/covid-19-mesures-generales-relatives-a-la-lutte-contre-la-propagation-du-covid-19-en
+ https://ambalgeri.esteri.it/ambasciata_algeri/resource/doc/2020/03/decreto_dz_covid_19_-_21032020.pdf
+http://www.faf.dz/wp-content/uploads/2020/03/Journal-Officiel-n%C2%B016-Relatif-%C3%A0-la-Lutte-contre-le-COVID-19.pdf
+https://www.gide.com/fr/actualites/covid-19-mesures-generales-relatives-a-la-lutte-contre-la-propagation-du-covid-19-en
 
+http://ilo.org/dyn/natlex/natlex4.listResults?p_lang=en&p_count=97059&p_classification=01&p_classcount=12682&p_first=151&p_show_abstract=N&p_pagelength=50
 
 
 
@@ -191,23 +231,34 @@ https://www.gide.com/fr/actualites/covid-19-mesures-generales-relatives-a-la-lut
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-04 
+*Time period: Q2*: 2020-06-28
+
+ 
+*Time period: Q3*: 2020-09-30
+
+ 
+*Time period: Q4*: 2020-12-16
+
+ 
 
 *Comments*:
-*No comment provided* 
+ All executive decrees had a limit date upon their issuance. The curfew orders were usually issued for a duration of 2 weeks or 1 month. The dates entered were the last dates for each period where a curfew and other measures were in place. 
 
 *Sources*:
- https://ambalgeri.esteri.it/ambasciata_algeri/resource/doc/2020/03/decreto_dz_covid_19_-_21032020.pdf
-http://www.faf.dz/wp-content/uploads/2020/03/Journal-Officiel-n%C2%B016-Relatif-%C3%A0-la-Lutte-contre-le-COVID-19.pdf
-https://www.gide.com/fr/actualites/covid-19-mesures-generales-relatives-a-la-lutte-contre-la-propagation-du-covid-19-en
+ http://ilo.org/dyn/natlex/natlex4.listResults?p_lang=en&p_count=97059&p_classification=01&p_classcount=12682&p_first=151&p_show_abstract=N&p_pagelength=50
 
+
+http://ilo.org/dyn/natlex/docs/ELECTRONIC/110545/137534/F-424395523/DZA-110545.pdf
+(2)
+
+https://www.garda.com/crisis24/news-alerts/385401/algeria-authorities-revise-covid-19-restrictions-nationwide-october-1-update-27
 
 
 
@@ -219,7 +270,7 @@ https://www.gide.com/fr/actualites/covid-19-mesures-generales-relatives-a-la-lut
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -229,22 +280,28 @@ https://www.gide.com/fr/actualites/covid-19-mesures-generales-relatives-a-la-lut
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  From the information found, the President has the right to issue and sign decrees without the approval of Parliament at all times (not confined to the pandemic). 
 
 ''While the National People’s Assembly is suspended, the President of the Republic may legislate on urgent matters by issuing ordinances after consultation with the Council of State (the administrative court). Such ordinances issued by the President must be submitted to the legislative branch at its next session for ratification.''
 
-Constitution 1989 (reinst. 1996, rev. 2016), article 99 (4): In addition to the powers explicitly conferred upon him by other provisions of the Constitution, the Prime Minister shall exercise the following functions:
-4. he shall sign the executive decrees;
+Constitution 1989 (reinst. 1996, rev. 2016), article 99 (4): In addition to the powers explicitly conferred upon him by other provisions of the Constitution, the Prime Minister shall: ...sign the executive decrees;
 
 Art. 143: Matters other than those earmarked for statutory legislation shall fall within the regulatory power of the President of the Republic. The implementation of the laws shall be a matter for the regulatory field of the Prime Minister 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Algeria_2016.pdf?lang=en
-https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislative-activities.pdf
-
+ https://www.constituteproject.org/constitution/Algeria_2016.pdf?lang=en
+https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislative-activities.pdf
 
 
 
@@ -266,10 +323,19 @@ https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislat
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- 'While the National People’s Assembly is suspended, the President of the Republic may legislate on urgent matters by issuing ordinances after consultation with the Council of State (the administrative court). Such ordinances issued by the President must be submitted to the legislative branch at its next session for ratification.'' 
+ While the National People’s Assembly is suspended, the President of the Republic may legislate on urgent matters by issuing ordinances after consultation with the Council of State (the administrative court). Such ordinances issued by the President must be submitted to the legislative branch at its next session for ratification.'' 
+No evidence was found that the covid19 measures were adopted by the National Assembly. 
 
 *Sources*:
  https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislative-activities.pdf
@@ -292,34 +358,40 @@ https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislat
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- In March, the U.S. Library of Congress reported that the Chairman of the National Assembly had postponed all sessions and activities as a preventive measure against Covid-19. But on 22 April 2020, Aljazeera reported that the National Assembly passed a new law to criminalize fake news in a fairly empty sitting due to social distancing measures. In addition, the IDEA data on legislatures says that the Algerian National Assembly has normal procedure in April. However, the legislature is still not entirely suspended, given that any laws passed while the legislature was temporarily suspended must be retroactively agreed to, but severe restrictions on who can attend and take the floor in the legislature. 
+ In March, the U.S. Library of Congress reported that the Chairman of the National Assembly had postponed all sessions and activities as a preventive measure against Covid-19. But on 22 April 2020, Aljazeera reported that the National Assembly passed a new law to criminalize fake news in a fairly empty sitting due to social distancing measures. In addition, the IDEA data on legislatures says that the Algerian National Assembly has normal procedure in April. However, the legislature is still not entirely suspended, given that any laws passed while the legislature was temporarily suspended must be retroactively agreed to, but severe restrictions on who can attend and take the floor in the legislature. 
  
 
 *Sources*:
- https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislative-activities.pdf
-https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
+ https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislative-activities.pdf
+https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
 International
 IDEA
 Parliaments
 during
 the
 pandemic
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://perma.cc/FP4R-74DP
-https://perma.cc/A3S6-KFR5
-http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdf
-http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20March%2021-27.pdf
-https://www.jeuneafrique.com/915472/politique/maroc-tunisie-algerie-le-coronavirus-bouscule-lagenda-politique-et-legislatif/
-
+https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+https://perma.cc/FP4R-74DPhttps://perma.cc/A3S6-KFR5
+http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdf
+http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20March%2021-27.pdf
+https://www.jeuneafrique.com/915472/politique/maroc-tunisie-algerie-le-coronavirus-bouscule-lagenda-politique-et-legislatif/
 
 
 
@@ -331,15 +403,22 @@ https://www.jeuneafrique.com/915472/politique/maroc-tunisie-algerie-le-coronavir
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -364,8 +443,15 @@ https://www.jeuneafrique.com/915472/politique/maroc-tunisie-algerie-le-coronavir
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -395,26 +481,25 @@ https://www.jeuneafrique.com/915472/politique/maroc-tunisie-algerie-le-coronavir
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- The lockdown and curfew vary subnationally.
-
-In early September 2020, ''the national curfew was lifted in the Souk Ahras, Tissemsilt, Djelfa, Mascara, Oum el-Bouaghi, Batna, Biskra, Khenchela, M'sila, Chlef, Sidi Bel Abbes, Bordj Bou Arreridj, Ouargla, Bechar, Constantine, Sétif, Adrar, Laghouat and El-Oued provinces.
-However, the curfew has been renewed in the Boumerdes, Bouira, Relizane, Médéa, Blida, Tipaza, Algiers, Oran, Annaba and Bejaia provinces from 1 September for a period of 30 days, and prohibits movement from 11pm to 6am.
-This curfew has also been imposed on the Tebessa, Illizi, El-Tarf, Ain Defla, Tlemcen, Tizi-Ouzou, Tindouf and Jijel provinces, where the epidemiological situation has worsened.'' 
+ The lockdown and curfew have varied subnationally throughout all periods. 
 
 *Sources*:
- https://dz.usembassy.gov/covid-19-information/
-https://www.garda.com/crisis24/news-alerts/367306/algeria-covid-19-movement-restrictions-and-curfew-to-be-eased-as-of-august-9-update-25
-https://www.arabnews.com/node/1716516/middle-east
-https://afrique.tv5monde.com/information/algerie-debut-de-deconfinement
-https://www.meed.com/algeria-amends-curfew-to-curb-covid-19
-
-https://www.garda.com/crisis24/news-alerts/325896/algeria-government-implements-lockdown-and-curfew-in-blida-and-algiers-march-23-update-7
-https://www.garda.com/crisis24/news-alerts/327111/algeria-government-extends-overnight-curfew-to-nine-provinces-march-28-update-8
-https://africa.cgtn.com/2020/05/12/algeria-halts-ease-of-anti-coronavirus-lockdown-amid-continued-pandemic/
+ https://www.garda.com/crisis24/news-alert-full-history/vmbrAyjJG63wDFr5D/algeria-government-confirms-first-case-of-covid-19-february-25
 
+https://www.arabnews.com/node/1716516/middle-easthttps://afrique.tv5monde.com/information/algerie-debut-de-deconfinement
+https://www.meed.com/algeria-amends-curfew-to-curb-covid-19
+https://africa.cgtn.com/2020/05/12/algeria-halts-ease-of-anti-coronavirus-lockdown-amid-continued-pandemic/
 
 
 
@@ -438,25 +523,28 @@ https://africa.cgtn.com/2020/05/12/algeria-halts-ease-of-anti-coronavirus-lockdo
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- There are reports on the government discriminating against activists from Hirak, but the discrimination of these activists is based on political basis (them being opposition activists).
-
+ There are reports on the government discriminating against activists from Hirak, but the discrimination of these activists is based on political basis (them being opposition activists).
+
  
 
 *Sources*:
- https://www.chathamhouse.org/expert/comment/algeria-s-perfect-storm-covid-19-and-its-fallout
-https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
-https://ambalgeri.esteri.it/ambasciata_algeri/resource/doc/2020/03/decreto_dz_covid_19_-_21032020.pdf
-http://www.faf.dz/wp-content/uploads/2020/03/Journal-Officiel-n%C2%B016-Relatif-%C3%A0-la-Lutte-contre-le-COVID-19.pdf
-https://dz.usembassy.gov/covid-19-information/
-https://www.africalegalnetwork.com/algeria/news/algeria-sets-measures-to-mitigate-impact-of-covid-19-on-economy/
+ https://www.chathamhouse.org/expert/comment/algeria-s-perfect-storm-covid-19-and-its-fallout
+https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
+https://ambalgeri.esteri.it/ambasciata_algeri/resource/doc/2020/03/decreto_dz_covid_19_-_21032020.pdf
+http://www.faf.dz/wp-content/uploads/2020/03/Journal-Officiel-n%C2%B016-Relatif-%C3%A0-la-Lutte-contre-le-COVID-19.pdf
+https://dz.usembassy.gov/covid-19-information/
+https://www.africalegalnetwork.com/algeria/news/algeria-sets-measures-to-mitigate-impact-of-covid-19-on-economy/
 https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
 
 
@@ -486,10 +574,13 @@ https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -497,10 +588,10 @@ Time period: *Jul-Sep*: 0
  No violation of non-derogable rights. 
 
 *Sources*:
- https://ambalgeri.esteri.it/ambasciata_algeri/resource/doc/2020/03/decreto_dz_covid_19_-_21032020.pdf
-http://www.faf.dz/wp-content/uploads/2020/03/Journal-Officiel-n%C2%B016-Relatif-%C3%A0-la-Lutte-contre-le-COVID-19.pdf
-https://dz.usembassy.gov/covid-19-information/
-https://www.africalegalnetwork.com/algeria/news/algeria-sets-measures-to-mitigate-impact-of-covid-19-on-economy/
+ https://ambalgeri.esteri.it/ambasciata_algeri/resource/doc/2020/03/decreto_dz_covid_19_-_21032020.pdf
+http://www.faf.dz/wp-content/uploads/2020/03/Journal-Officiel-n%C2%B016-Relatif-%C3%A0-la-Lutte-contre-le-COVID-19.pdf
+https://dz.usembassy.gov/covid-19-information/
+https://www.africalegalnetwork.com/algeria/news/algeria-sets-measures-to-mitigate-impact-of-covid-19-on-economy/
 https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
 
 
@@ -525,29 +616,33 @@ https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- 'Amidst the COVID-19 pandemic, the government of Algeria headed by newly elected President Abdelmadjid Tebboune approved a bill amending the country’s penal code to criminalize the spreading of “false news” that harms national unity. The sweeping new law gives authorities powers to tackle misinformation about the virus, but also opens the door to possible censorship. Penalties range between two to five years in jail and carry fines of up to €3,600.''
+ Amidst the COVID-19 pandemic, the government of Algeria headed by newly elected President Abdelmadjid Tebboune approved a bill amending the country’s penal code to criminalize the spreading of “false news” that harms national unity. The sweeping new law gives authorities powers to tackle misinformation about the virus, but also opens the door to possible censorship. Penalties range between two to five years in jail and carry fines of up to €3,600.''
 
-LAW 20-06 AMENDING THE PENAL CODE - 
-The amendments increase prison sentences for defamation, and introduce new penalties including prison sentences for the dissemination of false information. Under the amendments, new offenders face prison sentences of between one and three years. In addition, penalties are heightened if the offence takes place “at a time of a public health lockdown or a natural, biological or technological catastrophe or any other form of catastrophe,” with first time offenders facing up to five years in prison.
+LAW 20-06 AMENDING THE PENAL CODE - The amendments increase prison sentences for defamation, and introduce new penalties including prison sentences for the dissemination of false information. Under the amendments, new offenders face prison sentences of between one and three years. In addition, penalties are heightened if the offence takes place “at a time of a public health lockdown or a natural, biological or technological catastrophe or any other form of catastrophe,” with first time offenders facing up to five years in prison.
 
 The Algerian government, in an attempt to curb the very real dangers caused by dis- and misinformation disseminated by conspiracy theorists and fabulists has been to pass a new law criminalising the broadcast of “fake news” deemed harmful to “public order and state security”. The law, approved by parliament on 22 April, 2020, has come in for criticism by free speech activists, who point out that it could be used to curb independent reporting of the government’s failings in tackling the pandemic. These deficiencies, such as the lack of adequate preventative measures in hospitals, have prompted some doctors to post videos on social media in which they draw attention to the difficult circumstances they are working under. The new law could be used to suppress such reports.'' 
 
 *Sources*:
- https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
-https://www.icnl.org/covid19tracker/?location=142&issue=&date=&type=
-http://www.aps.dz/algerie/104200-amendement-du-code-penal-criminalisation-de-la-diffusion-des-fakenews-portant-atteinte-a-l-ordre-et-a-la-securite-publics
-https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
-https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
-https://cpj.org/2020/04/algeria-blocks-3-news-websites-and-criminalizes-fa/
-https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
-https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%99-activists-denounce-law
-
+ https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
+https://www.icnl.org/covid19tracker/?location=142&issue=&date=&type=
+http://www.aps.dz/algerie/104200-amendement-du-code-penal-criminalisation-de-la-diffusion-des-fakenews-portant-atteinte-a-l-ordre-et-a-la-securite-publics
+https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
+https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
+https://ipi.media/covid19-media-freedom-monitoring/https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
+https://cpj.org/2020/04/algeria-blocks-3-news-websites-and-criminalizes-fa/https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
+https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%99-activists-denounce-law
 
 
 
@@ -559,30 +654,37 @@ https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-22 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
-https://www.icnl.org/covid19tracker/?location=142&issue=&date=&type=
-https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
-https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
-https://cpj.org/2020/04/algeria-blocks-3-news-websites-and-criminalizes-fa/
-https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
-https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%99-activists-denounce-law
-
+ https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
+https://www.icnl.org/covid19tracker/?location=142&issue=&date=&type=
+https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
+https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
+https://cpj.org/2020/04/algeria-blocks-3-news-websites-and-criminalizes-fa/
+https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
+https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%99-activists-denounce-law
 
 
 
@@ -594,31 +696,37 @@ https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
-https://www.icnl.org/covid19tracker/?location=142&issue=&date=&type=
-https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
-https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
-https://cpj.org/2020/04/algeria-blocks-3-news-websites-and-criminalizes-fa/
-https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
-https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%99-activists-denounce-law
-
+ https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
+https://www.icnl.org/covid19tracker/?location=142&issue=&date=&type=
+https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
+https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
+https://cpj.org/2020/04/algeria-blocks-3-news-websites-and-criminalizes-fa/
+https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
+https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%99-activists-denounce-law
 
 
 
@@ -640,38 +748,43 @@ https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- 'Amidst the COVID-19 pandemic, the government of Algeria headed by newly elected President Abdelmadjid Tebboune approved a bill amending the country’s penal code to criminalize the spreading of “false news” that harms national unity. The sweeping new law gives authorities powers to tackle misinformation about the virus, but also opens the door to possible censorship. Penalties range between two to five years in jail and carry fines of up to €3,600.''
+ Amidst the COVID-19 pandemic, the government of Algeria headed by newly elected President Abdelmadjid Tebboune approved a bill amending the country’s penal code to criminalize the spreading of “false news” that harms national unity. The sweeping new law gives authorities powers to tackle misinformation about the virus, but also opens the door to possible censorship. Penalties range between two to five years in jail and carry fines of up to €3,600.''
+
+In addition, ''journalists are required to  report concrete facts about the impact of the disease on the country's society and economy. As for the daily state of the contagion, the authorities very quickly introduced red lines: no doctor, hospital director or local health director can announce figures related to Covid-19. Only the National Commission for Monitoring and Surveillance of the Coronavirus Epidemic, composed of scientists, can provide data on the disease. For the government, the objective is to ensure communication that is "as transparent, reliable and credible as possible". Every day at 5 p.m., at a press conference, this commission presents official statistics on the progress of the disease. However, this press conference is not really a press conference, since the spokesperson of this body simply lists the numbers of new cases, recovered patients and deaths.'' (1)
+''Journalists have soon understood that the authorities took the sensitivity of health information very seriously. At the end of March, the daily El-Sawt-el-Akher published a letter from a member of parliament to the wali of Batna in which he denounced a misdiagnosis by the Algiers Pasteur Institute. According to the deputy, a patient who tested negative for Covid-19 was in fact a carrier of the virus, a situation that would have caused the disease to spread in his locality. After being summoned by the national police, two journalists and the director of this publication were placed under judicial supervision for "undermining national unity" and "distribution of a publication that could harm the national interest" ...'' (1)
 
 Also: In a statement on July 11, the Algerian Minister of Communication accused the media of spreading falsehoods about COVID-19 and threatened jounalists with 5 years imprisonment.
 
 Also: ''One journalist, Khaled Drareni, an editor at the Algerian publication, the Casbah Tribune, was arrested for allegedly "inciting an unarmed gathering and endangering national unity" over his critical Covid-19 coverage. In the past, Drareni had been arrested for his coverage of anti-government protests which had been staged every Friday for more than a year, before it was stopped because of Covid-19.'' 
 
 *Sources*:
- https://rsf.org/en/rsf_search?key=algeria
-https://rsf.org/en/algeria
-https://www.afrik.com/les-menaces-contre-liberte-un-pas-de-trop-dans-la-repression-de-la-presse-en-algerie
-https://www.afrik.com/algerie-le-ministre-de-la-communication-menace-le-journal-liberte
-http://www.aps.dz/algerie/104200-amendement-du-code-penal-criminalisation-de-la-diffusion-des-fakenews-portant-atteinte-a-l-ordre-et-a-la-securite-publics
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
-https://www.icnl.org/covid19tracker/?location=142&issue=&date=&type=
-http://www.aps.dz/algerie/104200-amendement-du-code-penal-criminalisation-de-la-diffusion-des-fakenews-portant-atteinte-a-l-ordre-et-a-la-securite-publics
-https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
-https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
-https://cpj.org/2020/04/algeria-blocks-3-news-websites-and-criminalizes-fa/
-https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
-https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%99-activists-denounce-law
+ https://www.fes-mena.org/blog/e/a-multi-dimensional-crisis-journalism-in-algeria-put-to-the-test-by-covid-19/
 
+https://rsf.org/en/rsf_search?key=algeriahttps://rsf.org/en/algeria
+https://www.afrik.com/les-menaces-contre-liberte-un-pas-de-trop-dans-la-repression-de-la-presse-en-algerie
+https://www.afrik.com/algerie-le-ministre-de-la-communication-menace-le-journal-liberte
+http://www.aps.dz/algerie/104200-amendement-du-code-penal-criminalisation-de-la-diffusion-des-fakenews-portant-atteinte-a-l-ordre-et-a-la-securite-publics
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
+https://www.icnl.org/covid19tracker/?location=142&issue=&date=&type=
+http://www.aps.dz/algerie/104200-amendement-du-code-penal-criminalisation-de-la-diffusion-des-fakenews-portant-atteinte-a-l-ordre-et-a-la-securite-publics
+https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
+https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
+https://rsf.org/en/tracker19-Coronavirus-Covid19https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
+https://cpj.org/2020/04/algeria-blocks-3-news-websites-and-criminalizes-fa/
+https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
+https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%99-activists-denounce-law
 
 
 
@@ -683,7 +796,7 @@ https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -693,38 +806,44 @@ https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- 'Amidst the COVID-19 pandemic, the government of Algeria headed by newly elected President Abdelmadjid Tebboune approved a bill amending the country’s penal code to criminalize the spreading of “false news” that harms national unity. The sweeping new law gives authorities powers to tackle misinformation about the virus, but also opens the door to possible censorship. Penalties range between two to five years in jail and carry fines of up to €3,600.''
+ Amidst the COVID-19 pandemic, the government of Algeria headed by newly elected President Abdelmadjid Tebboune approved a bill amending the country’s penal code to criminalize the spreading of “false news” that harms national unity. The sweeping new law gives authorities powers to tackle misinformation about the virus, but also opens the door to possible censorship. Penalties range between two to five years in jail and carry fines of up to €3,600.''
+
+In addition, ''journalists are required to  report concrete facts about the impact of the disease on the country's society and economy. As for the daily state of the contagion, the authorities very quickly introduced red lines: no doctor, hospital director or local health director can announce figures related to Covid-19. Only the National Commission for Monitoring and Surveillance of the Coronavirus Epidemic, composed of scientists, can provide data on the disease. For the government, the objective is to ensure communication that is "as transparent, reliable and credible as possible". Every day at 5 p.m., at a press conference, this commission presents official statistics on the progress of the disease. However, this press conference is not really a press conference, since the spokesperson of this body simply lists the numbers of new cases, recovered patients and deaths.'' (1)
+''Journalists have soon understood that the authorities took the sensitivity of health information very seriously. At the end of March, the daily El-Sawt-el-Akher published a letter from a member of parliament to the wali of Batna in which he denounced a misdiagnosis by the Algiers Pasteur Institute. According to the deputy, a patient who tested negative for Covid-19 was in fact a carrier of the virus, a situation that would have caused the disease to spread in his locality. After being summoned by the national police, two journalists and the director of this publication were placed under judicial supervision for "undermining national unity" and "distribution of a publication that could harm the national interest" ...'' (1)
 
 Also: In a statement on July 11, the Algerian Minister of Communication accused the media of spreading falsehoods about COVID-19 and threatened jounalists with 5 years imprisonment.
 
 Also: ''One journalist, Khaled Drareni, an editor at the Algerian publication, the Casbah Tribune, was arrested for allegedly "inciting an unarmed gathering and endangering national unity" over his critical Covid-19 coverage. In the past, Drareni had been arrested for his coverage of anti-government protests which had been staged every Friday for more than a year, before it was stopped because of Covid-19.'' 
 
 *Sources*:
- https://rsf.org/en/rsf_search?key=algeria
-https://rsf.org/en/algeria
-https://www.afrik.com/les-menaces-contre-liberte-un-pas-de-trop-dans-la-repression-de-la-presse-en-algerie
-https://www.afrik.com/algerie-le-ministre-de-la-communication-menace-le-journal-liberte
-http://www.aps.dz/algerie/104200-amendement-du-code-penal-criminalisation-de-la-diffusion-des-fakenews-portant-atteinte-a-l-ordre-et-a-la-securite-publics
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
-https://www.icnl.org/covid19tracker/?location=142&issue=&date=&type=
-http://www.aps.dz/algerie/104200-amendement-du-code-penal-criminalisation-de-la-diffusion-des-fakenews-portant-atteinte-a-l-ordre-et-a-la-securite-publics
-https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
-https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
-https://cpj.org/2020/04/algeria-blocks-3-news-websites-and-criminalizes-fa/
-https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
-https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%99-activists-denounce-law
+ https://www.fes-mena.org/blog/e/a-multi-dimensional-crisis-journalism-in-algeria-put-to-the-test-by-covid-19/
+(1)
 
+https://rsf.org/en/rsf_search?key=algeriahttps://rsf.org/en/algeria
+https://www.afrik.com/les-menaces-contre-liberte-un-pas-de-trop-dans-la-repression-de-la-presse-en-algerie
+https://www.afrik.com/algerie-le-ministre-de-la-communication-menace-le-journal-liberte
+http://www.aps.dz/algerie/104200-amendement-du-code-penal-criminalisation-de-la-diffusion-des-fakenews-portant-atteinte-a-l-ordre-et-a-la-securite-publics
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
+https://www.icnl.org/covid19tracker/?location=142&issue=&date=&type=
+http://www.aps.dz/algerie/104200-amendement-du-code-penal-criminalisation-de-la-diffusion-des-fakenews-portant-atteinte-a-l-ordre-et-a-la-securite-publics
+https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
+https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
+https://rsf.org/en/tracker19-Coronavirus-Covid19https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
+https://cpj.org/2020/04/algeria-blocks-3-news-websites-and-criminalizes-fa/
+https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
+https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%99-activists-denounce-law
 
 
 
@@ -746,10 +865,13 @@ https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -757,10 +879,14 @@ Time period: *Jul-Sep*: 0
  No evidence was found. 
 
 *Sources*:
- https://rsf.org/en/rsf_search?key=algeria
-https://rsf.org/en/algeria
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
+ https://rsf.org/en/rsf_search?key=algeria
+
+https://rsf.org/en/algeria
+
+https://ipi.media/covid19-media-freedom-monitoring/
+
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+
 https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
 
 
@@ -780,34 +906,46 @@ https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- 'Access to three online media outlets, Maghreb Emergent, Radio M and Interlignes, has meanwhile been blocked in Algeria on the grounds that they have foreign funding and that they defamed the president.'' 
+ Access to three online media outlets, Maghreb Emergent, Radio M and Interlignes, has been blocked in Algeria on the grounds that they have foreign funding and that they defamed the president.'' 
+
+Also, ''journalists are required to  report concrete facts about the impact of the disease on the country's society and economy. As for the daily state of the contagion, the authorities very quickly introduced red lines: no doctor, hospital director or local health director can announce figures related to Covid-19. Only the National Commission for Monitoring and Surveillance of the Coronavirus Epidemic, composed of scientists, can provide data on the disease. For the government, the objective is to ensure communication that is "as transparent, reliable and credible as possible". Every day at 5 p.m., at a press conference, this commission presents official statistics on the progress of the disease. However, this press conference is not really a press conference, since the spokesperson of this body simply lists the numbers of new cases, recovered patients and deaths.'' (1)
+''Journalists have soon understood that the authorities took the sensitivity of health information very seriously. At the end of March, the daily El-Sawt-el-Akher published a letter from a member of parliament to the wali of Batna in which he denounced a misdiagnosis by the Algiers Pasteur Institute. According to the deputy, a patient who tested negative for Covid-19 was in fact a carrier of the virus, a situation that would have caused the disease to spread in his locality. After being summoned by the national police, two journalists and the director of this publication were placed under judicial supervision for "undermining national unity" and "distribution of a publication that could harm the national interest" ...'' (1) 
 
 *Sources*:
- https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
-https://cpj.org/2020/04/algeria-blocks-3-news-websites-and-criminalizes-fa/
-https://www.afrik.com/les-menaces-contre-liberte-un-pas-de-trop-dans-la-repression-de-la-presse-en-algerie
-https://www.afrik.com/algerie-le-ministre-de-la-communication-menace-le-journal-liberte
-http://www.aps.dz/algerie/104200-amendement-du-code-penal-criminalisation-de-la-diffusion-des-fakenews-portant-atteinte-a-l-ordre-et-a-la-securite-publics
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
-https://www.icnl.org/covid19tracker/?location=142&issue=&date=&type=
-http://www.aps.dz/algerie/104200-amendement-du-code-penal-criminalisation-de-la-diffusion-des-fakenews-portant-atteinte-a-l-ordre-et-a-la-securite-publics
-https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
-https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
-https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
-https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
+ https://www.fes-mena.org/blog/e/a-multi-dimensional-crisis-journalism-in-algeria-put-to-the-test-by-covid-19/
+
+(1)
+https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
+https://cpj.org/2020/04/algeria-blocks-3-news-websites-and-criminalizes-fa/
+https://www.afrik.com/les-menaces-contre-liberte-un-pas-de-trop-dans-la-repression-de-la-presse-en-algerie
+https://www.afrik.com/algerie-le-ministre-de-la-communication-menace-le-journal-liberte
+http://www.aps.dz/algerie/104200-amendement-du-code-penal-criminalisation-de-la-diffusion-des-fakenews-portant-atteinte-a-l-ordre-et-a-la-securite-publics
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
+
+https://www.icnl.org/covid19tracker/?location=142&issue=&date=&type=
+
+http://www.aps.dz/algerie/104200-amendement-du-code-penal-criminalisation-de-la-diffusion-des-fakenews-portant-atteinte-a-l-ordre-et-a-la-securite-publics
+
+https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
+https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
+https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
+https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
 https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%99-activists-denounce-law
 
 
@@ -830,10 +968,13 @@ https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -841,11 +982,15 @@ Time period: *Jul-Sep*: 0
  No evidence of verbal harassment of journalists was found. 
 
 *Sources*:
- https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
+ https://rsf.org/en/news/instead-combatting-covid-19-algerias-authorities-crack-down-journalists
 
+https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
+
+https://ipi.media/covid19-media-freedom-monitoring/
+
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+
+https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
 
 
 
@@ -867,10 +1012,13 @@ https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -878,11 +1026,15 @@ Time period: *Jul-Sep*: 0
  No evidence of physical harassment of journalists was found. 
 
 *Sources*:
- https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
+ https://rsf.org/en/news/instead-combatting-covid-19-algerias-authorities-crack-down-journalists
 
+https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
+
+https://ipi.media/covid19-media-freedom-monitoring/
+
+https://rsf.org/en/tracker19-Coronavirus-Covid19
+
+https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
 
 
 
@@ -906,16 +1058,19 @@ https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
  Algeria has been insisting on the use of hydroxychloroquine despite WHO's decision to stop the trial:
- ''...Despite the decision of the World Health Organization (WHO) to suspend clinical trials, Algeria has decided to continue the use of hydroxychloroquine in the treatment of coronavirus.'' (4, 5)
+ ''...Despite the decision of the World Health Organization (WHO) to suspend clinical trials, Algeria has decided to continue the use of hydroxychloroquine in the treatment of coronavirus in June.'' (4, 5)
 
 The government however decided to gradually abandon chloroquine treatment, and started looking for alternatives in August 2020 (1). In particular, the Algerian Ministry of Health is directed toward the use of corticosteroid therapy for covid19 patients, an approach that is approved by WHO: 
 
@@ -932,6 +1087,8 @@ https://www.lemonde.fr/afrique/article/2020/05/27/coronavirus-l-algerie-ne-compt
 (4)
 https://www.africanews.com/2020/05/27/covid-19-treatment-algeria-to-continue-using-hydroxychloroquine//
 (5)
+https://www.tsa-algerie.com/covid-19-pourquoi-lalgerie-utilise-de-moins-en-moins-la-chloroquine/
+(6)
 http://covid19.sante.gov.dz/fr/accueil/
 http://covid19.sante.gov.dz/fr/consignes-sanitaires-2/
 
@@ -958,19 +1115,31 @@ http://covid19.sante.gov.dz/fr/consignes-sanitaires-2/
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
  There are a few police incidents against political opponents but these occurred before March 11, and were not strictly related to covid 19. 
+However, ''On July 24, 2020, Algerian police arrested 44 people on the grounds of alleged homosexuality. The court found the 44 people guilty of "  homosexual relations  ", "  public contempt  " and "  endangering others by violating the quarantine measures relating to Covid-19  ". Two men were sentenced to three years in prison and a fine, and the others to one year suspended.''  (2)
+
+In addition, ''on June 22 2020, an Algerian court sentenced to one year in prison Amira Baraoui, a gynecologist and an activist, as she is one of the main figures of the protest in Algeria. She was found guilty by the Algerian courts of six charges, including insulting the President of the Republic, inciting to violate confinement by directly exposing the life of others or their physical integrity to danger during the health crisis and offending to Islam. Amina Baraoui is also accused of publication via social networks of information that may undermine national unity and that may endanger security or public order.'' (1) 
 
 *Sources*:
- https://carnegieendowment.org/2020/04/24/coronavirus-threatens-freedom-in-north-africa-pub-81625
-https://www.lematindalgerie.com/matraquage-et-insultes-vulgaires-la-police-reprime-violemment-les-manifestants-alger
+ https://www.bbc.com/afrique/region-53132555
+(1)
+https://www.hrw.org/fr/news/2020/10/15/algerie-condamnations-collectives-pour-homosexualite
+(2)
+https://carnegieendowment.org/2020/04/24/coronavirus-threatens-freedom-in-north-africa-pub-81625
+
+https://www.lematindalgerie.com/matraquage-et-insultes-vulgaires-la-police-reprime-violemment-les-manifestants-alger
+
 https://www.amnesty.org/en/latest/news/2020/04/algeria-end-repression-against-hirak-activists-and-journalists-amid-covid19/
 
 
@@ -983,7 +1152,7 @@ https://www.amnesty.org/en/latest/news/2020/04/algeria-end-repression-against-hi
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -993,10 +1162,13 @@ https://www.amnesty.org/en/latest/news/2020/04/algeria-end-repression-against-hi
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -1004,32 +1176,8 @@ Time period: *Jul-Sep*: 0
  No indication of the military being involved. 
 
 *Sources*:
- https://carnegieendowment.org/2020/04/24/coronavirus-threatens-freedom-in-north-africa-pub-81625
-https://www.lematindalgerie.com/matraquage-et-insultes-vulgaires-la-police-reprime-violemment-les-manifestants-alger
+ https://carnegieendowment.org/2020/04/24/coronavirus-threatens-freedom-in-north-africa-pub-81625
+
+https://www.lematindalgerie.com/matraquage-et-insultes-vulgaires-la-police-reprime-violemment-les-manifestants-alger
+
 https://www.amnesty.org/en/latest/news/2020/04/algeria-end-repression-against-hirak-activists-and-journalists-amid-covid19/
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

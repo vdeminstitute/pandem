@@ -1,9 +1,6 @@
 # Turkmenistan 
 
 
-Time 2020-09-16 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-16
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,10 +25,18 @@ Time 2020-09-16
  7. Other.
 
  
-*Answer*: 5 
+*Time period: Q2*: 5
+
+ 
+*Time period: Q3*: 5
+
+ 
+*Time period: Q4*: 5
+
+ 
 
 *Comments*:
- Turkmenistan has not confirmed any Covid-19 cases. Among many reports that express concern about the situation (see links to Human Rights Watch articles), the U.S. embassy issued the following alert : “While there are no official reports of positive COVID-19 cases in Turkmenistan, the U.S. Embassy has received reports of local citizens with symptoms consistent with COVID-19 undergoing COVID-19 testing and being placed in quarantine in infectious diseases hospitals for up to fourteen days”, which was dismissed by the authorities as "fake news" (Reuters 23 June 2020).  On 13 July 2020, the authorities issues orders to wear face masks because of high concentration of dust in the air (as reported in state media). According to Garda, "the government has also advised individuals to use personal protective equipment (PPE), to maintain a social distance of at least 1m (3ft) apart when in public, and to avoid standing near air conditioners after spending time outside." According to OECD, the emergency measures in Turkmenistan are "Closure of borders, Restrictions on internal movements of people and goods". According to OSCE report (p. 26), the emergency measures are "screening and quarantine measures, temporary closure of passenger traffic, physical distancing, closure of cafes, restaurants and entertainment centers".
+ Turkmenistan has not confirmed any Covid-19 cases. Among many reports that express concern about the situation (see links to Human Rights Watch articles), the U.S. embassy issued the following alert : “While there are no official reports of positive COVID-19 cases in Turkmenistan, the U.S. Embassy has received reports of local citizens with symptoms consistent with COVID-19 undergoing COVID-19 testing and being placed in quarantine in infectious diseases hospitals for up to fourteen days”, which was dismissed by the authorities as "fake news" (Reuters 23 June 2020).  On 13 July 2020, the authorities issues orders to wear face masks because of high concentration of dust in the air (as reported in state media). According to Garda, "the government has also advised individuals to use personal protective equipment (PPE), to maintain a social distance of at least 1m (3ft) apart when in public, and to avoid standing near air conditioners after spending time outside." According to OECD, the emergency measures in Turkmenistan are "Closure of borders, Restrictions on internal movements of people and goods" and "Despite the government claiming that there are no cases of COVID-19 in the country, a range of containment measures designed to restrict the movement of people and goods were implemented in early summer and remain in place as of October 2020." According to OSCE report (p. 26), the emergency measures are "screening and quarantine measures, temporary closure of passenger traffic, physical distancing, closure of cafes, restaurants and entertainment centers".
  
 
 *Sources*:
@@ -45,6 +50,8 @@ https://www.reuters.com/article/idUSL8N2E05AM
 https://www.reuters.com/article/idUSL5N2EM4BC
 https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
 https://www.hrw.org/news/2020/06/27/turkmenistan-denies-apparent-covid-19-outbreak
+https://www.garda.com/crisis24/news-alerts/396656/turkmenistan-authorities-extend-suspension-of-international-flights-until-december-31-update-3
+https://www.garda.com/crisis24/news-alerts/385356/turkmenistan-authorities-extend-suspension-of-international-flights-until-october-31-update-2
 
 
 
@@ -63,8 +70,15 @@ https://www.hrw.org/news/2020/06/27/turkmenistan-denies-apparent-covid-19-outbre
 *Scale*: Character string.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  emlaw=5 (no reference to legal instruments) 
@@ -89,8 +103,15 @@ https://www.hrw.org/news/2020/06/27/turkmenistan-denies-apparent-covid-19-outbre
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  On 15 May 2020, the president approved a preparedness plan for Covid-19 but  coded as "NA" since emlaw = 5 
@@ -116,8 +137,15 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B34
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The latest restrictions were introduced on 15 July 2020 and there is no information that they have been lifted;  coded as "NA" since emlaw = 5. 
@@ -146,8 +174,15 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B70
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  I have not found any information on the time limit of the measures in the news coverage of the measures or in the official announcement in the state media.  Coded as "NA" since emlaw = 5. 
@@ -167,15 +202,22 @@ https://www.garda.com/crisis24/news-alerts/359861/turkmenistan-authorities-annou
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Coded as "NA" since emlaw = 5. 
@@ -193,7 +235,7 @@ https://www.garda.com/crisis24/news-alerts/359861/turkmenistan-authorities-annou
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -203,8 +245,15 @@ https://www.garda.com/crisis24/news-alerts/359861/turkmenistan-authorities-annou
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Coded as "NA" since emlaw = 5 
@@ -232,8 +281,15 @@ https://www.garda.com/crisis24/news-alerts/359861/turkmenistan-authorities-annou
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Coded as "NA" since emlaw = 5. 
@@ -259,16 +315,24 @@ https://www.garda.com/crisis24/news-alerts/359861/turkmenistan-authorities-annou
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- I have no found any measures limiting the lawmaking role of the legislature. According to the state media, the parliament met and ratified legislature on 14 March and 22 August 2020, where the last meeting took place online. 
+ I have no found any measures limiting the lawmaking role of the legislature. According to the state media, the parliament met and ratified legislation on 14 March and 22 August 2020, where the last meeting took place online. 
 
 *Sources*:
  http://tdh.gov.tm/news/articles.aspx&article21786&cat11
@@ -284,15 +348,22 @@ http://tdh.gov.tm/news/articles.aspx&article23878&cat11
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -317,8 +388,15 @@ http://tdh.gov.tm/news/articles.aspx&article23878&cat11
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -348,7 +426,15 @@ http://tdh.gov.tm/news/articles.aspx&article23878&cat11
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No information found. 
@@ -378,10 +464,13 @@ http://tdh.gov.tm/news/articles.aspx&article23878&cat11
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -419,10 +508,13 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/turkmenistan/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -455,7 +547,15 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/turkmenistan/
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No evidence of measures limiting media freedom found 
@@ -476,15 +576,22 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -502,15 +609,22 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -538,16 +652,19 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Coded as 1 due to wide censorship of domestic media outlets. According to Reporters without Borders, "Ranked last in RSF's 2019 World Press Freedom Index, Turkmenistan is one of the world's most closed countries. The government controls all domestic media and continues to step up its persecution of those who clandestinely report for exile media outlets. The few Internet users can only access a highly-censored version of the Internet, usually in cafes where they must first present identification."
-
+ Coded as 1 due to wide censorship of domestic media outlets. According to Reporters without Borders, "Ranked last in RSF's 2019 World Press Freedom Index, Turkmenistan is one of the world's most closed countries. The government controls all domestic media and continues to step up its persecution of those who clandestinely report for exile media outlets. The few Internet users can only access a highly-censored version of the Internet, usually in cafes where they must first present identification."
+
 According to Human Rights Watch, "The Turkmen government routinely retaliates against independent reporting inside the country." 
 
 *Sources*:
@@ -566,7 +683,7 @@ https://cpj.org/reports/2019/09/10-most-censored-eritrea-north-korea-turkmenista
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -576,16 +693,19 @@ https://cpj.org/reports/2019/09/10-most-censored-eritrea-north-korea-turkmenista
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Coded as 1 due to wide censorship of domestic media outlets. According to Reporters without Borders, "Ranked last in RSF's 2019 World Press Freedom Index, Turkmenistan is one of the world's most closed countries. The government controls all domestic media and continues to step up its persecution of those who clandestinely report for exile media outlets. The few Internet users can only access a highly-censored version of the Internet, usually in cafes where they must first present identification."
-
+ Coded as 1 due to wide censorship of domestic media outlets. According to Reporters without Borders, "Ranked last in RSF's 2019 World Press Freedom Index, Turkmenistan is one of the world's most closed countries. The government controls all domestic media and continues to step up its persecution of those who clandestinely report for exile media outlets. The few Internet users can only access a highly-censored version of the Internet, usually in cafes where they must first present identification."
+
 According to Human Rights Watch, "The Turkmen government routinely retaliates against independent reporting inside the country." 
 
 *Sources*:
@@ -614,10 +734,13 @@ https://cpj.org/reports/2019/09/10-most-censored-eritrea-north-korea-turkmenista
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -645,19 +768,22 @@ https://rsf.org/en/turkmenistan
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
- Although the country has not officially registered any Covid-18 cases, there are numerous reports that the authorities are concealing the truth, which Human Rights Watch calls "an apparent covid-19 outbreak." Human Rights Watch mentions the main hospital in the capital being placed in quarantine with many “pneumonia-like”  cases, reports of health workers who tested positive for Covid-19, dealths of people with Covid-19-like symptoms. Doctors are reportedly required to quarantine in hospitals and cannot use their phones.  Coded as 2 in both March-June and July-September 2020 periods as I did not find further information on whether the situation improved. 
+ Although the country has not officially registered any Covid-18 cases, there are numerous reports that the authorities are concealing the truth, which Human Rights Watch calls "an apparent covid-19 outbreak." Human Rights Watch mentions the main hospital in the capital being placed in quarantine with many “pneumonia-like”  cases, reports of health workers who tested positive for Covid-19, dealths of people with Covid-19-like symptoms. Doctors are reportedly required to quarantine in hospitals and cannot use their phones.  Coded as 2 inall time periods as I did not find further information on whether the situation improved. 
 
 *Sources*:
  https://www.hrw.org/news/2020/06/27/turkmenistan-denies-apparent-covid-19-outbreak
@@ -683,10 +809,13 @@ https://www.hrw.org/news/2020/06/27/turkmenistan-denies-apparent-covid-19-outbre
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -717,10 +846,13 @@ https://rsf.org/en/turkmenistan
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -753,19 +885,23 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/turkmenistan/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 3
+*Time period: Q2*: 3
 
  
-Time period: *Jul-Sep*: 3
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
 
  
 
 *Comments*:
- The government removed the word "coronavirus" from its brochures; the president gave an order to use a traditional herb to disinfect public spaces; some travellers had to undergo medical testing unrelated to covid-19 (https://tm.usembassy.gov/covid-19-information/)  I haven't found any information that these statements have been refuted, therefore govmis is coded as 3 in both time periods (March-June and July-September 2020). 
+ The government removed the word "coronavirus" from its brochures; the president gave an order to use a traditional herb to disinfect public spaces; some travellers had to undergo medical testing unrelated to covid-19 (https://tm.usembassy.gov/covid-19-information/). According to a BBC article from 23 October, "alleged virus-laden dust [from China] was the reason citizens were being told to wear masks." 
 
 *Sources*:
  https://rsf.org/en/news/coronavirus-limits-turkmenistan
 https://www.nytimes.com/2020/04/02/world/asia/coronavirus-denial-post-soviet.htmlhttps://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
+https://www.bbc.com/news/world-asia-54655692
 
 
 
@@ -789,10 +925,13 @@ https://www.nytimes.com/2020/04/02/world/asia/coronavirus-denial-post-soviet.htm
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -813,7 +952,7 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/turkmenistan/
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -823,10 +962,13 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/turkmenistan/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -835,29 +977,3 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://milligosun.gov.tm/
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

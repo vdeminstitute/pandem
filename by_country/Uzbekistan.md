@@ -1,9 +1,6 @@
 # Uzbekistan 
 
 
-Time 2020-09-17 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-17
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,18 +25,28 @@ Time 2020-09-17
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- On 29 January, the President issued order 5537 on creation of an anti-crisis commission. The government passed several decrees with emergency measures but mostly the measures have been announced by the anti-crisis commission (e.g. on its website and Telegram channel "Koronavirus Info | Uyda Qoling!") or the President. Legislation included decree 176 from 23 March 2020 (stopping some business activities, prohibiting all public events, closing access to the capital for everyone excluding its permanent residents). Previously, the government passed decree 5969 from 19 March 2020 on economic measures.
-
-Among the most strict measures, a lockdown was declared in the capital Tashkent from 24 March, that was extended to several other cities from 1 April (people were only allowed to leave their homes to go to work or visit shops for buying food/medicine). The measures were announced until 20 April, were then extended until 10 May. Since early May, restrictions were eased. Due to an increase in Covid-19 cases, a second lockdown (less severe than the first) was in place from 10 July until 15 August.
+ On 29 January, the President issued order 5537 on creation of an anti-crisis commission. The government passed several decrees with emergency measures but mostly the measures have been announced by the anti-crisis commission (e.g. on its website and Telegram channel "Koronavirus Info | Uyda Qoling!") or the President. Legislation included decree 176 from 23 March 2020 (stopping some business activities, prohibiting all public events, closing access to the capital for everyone excluding its permanent residents). Previously, the government passed decree 5969 from 19 March 2020 on economic measures. The measures have been in place in all time periods.
  
 
 *Sources*:
  https://lex.uz/ru/docs/4772484
 https://lex.uz/ru/docs/4770761?otherlang=1#undefined
 https://uz.usembassy.gov/covid-19-information/
+https://lex.uz/ru/docs/4914694
+https://president.uz/ru/lists/view/3958
+
+
 https://president.uz/ru/lists/view/3478
 
 https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B704%5D&covid19=1
@@ -68,10 +75,18 @@ https://www.garda.com/crisis24/news-alerts/363601/uzbekistan-authorities-extend-
 *Scale*: Character string.
 
  
-*Answer*: RASPORYAZHENIYE PREZIDENTA RESPUBLIKI UZBEKISTAN OB OBRAZOVANII SPETSIAL'NOY RESPUBLIKANSKOY KOMISSII PO PODGOTOVKE PROGRAMMY MER PO PREDUPREZHDENIYU ZAVOZA I RASPROSTRANENIYA NOVOGO TIPA KORONAVIRUSA V RESPUBLIKE UZBEKISTAN 
+*Time period: Q2*: RASPORYAZHENIYE PREZIDENTA RESPUBLIKI UZBEKISTAN OB OBRAZOVANII SPETSIAL'NOY RESPUBLIKANSKOY KOMISSII PO PODGOTOVKE PROGRAMMY MER PO PREDUPREZHDENIYU ZAVOZA I RASPROSTRANENIYA NOVOGO TIPA KORONAVIRUSA V RESPUBLIKE UZBEKISTAN
+
+ 
+*Time period: Q3*: RASPORYAZHENIYE PREZIDENTA RESPUBLIKI UZBEKISTAN OB OBRAZOVANII SPETSIAL'NOY RESPUBLIKANSKOY KOMISSII PO PODGOTOVKE PROGRAMMY MER PO PREDUPREZHDENIYU ZAVOZA I RASPROSTRANENIYA NOVOGO TIPA KORONAVIRUSA V RESPUBLIKE UZBEKISTAN
+
+ 
+*Time period: Q4*: RASPORYAZHENIYE PREZIDENTA RESPUBLIKI UZBEKISTAN OB OBRAZOVANII SPETSIAL'NOY RESPUBLIKANSKOY KOMISSII PO PODGOTOVKE PROGRAMMY MER PO PREDUPREZHDENIYU ZAVOZA I RASPROSTRANENIYA NOVOGO TIPA KORONAVIRUSA V RESPUBLIKE UZBEKISTAN
+
+ 
 
 *Comments*:
- Presidential order 176 from 23 March 2020 with initial emergency measures was declared on the basis of presidential order 5537 from 29 January 2020 on creation of an anti-crisis commission. However, the lockdown measures were announced mostly in the Telegram channel of the anti-crisis commission and I did not find any further legislation with the most restrictive measures (the economic and social support measures can be found in the country's legal database). An article by Radio Free Europe / Radio Liberty also says that the lockdown measures were declared without reference to any legal instruments.
+ Presidential order 176 from 23 March 2020 with initial emergency measures was declared on the basis of presidential order 5537 from 29 January 2020 on creation of an anti-crisis commission. However, the lockdown measures were announced mostly in the Telegram channel of the anti-crisis commission and I did not find any further legislation with the most restrictive measures (the economic and social support measures can be found in the country's legal database). An article by Radio Free Europe / Radio Liberty also says that the lockdown measures were declared without reference to any legal instruments.
  
 
 *Sources*:
@@ -97,7 +112,15 @@ https://rus.ozodlik.org/a/30532690.html
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-24 
+*Time period: Q2*: 2020-03-24
+
+ 
+*Time period: Q3*: 2020-03-24
+
+ 
+*Time period: Q4*: 2020-03-24
+
+ 
 
 *Comments*:
  Initial measures were introduced in the presidential order 176 with 24 March 2020 as the start date. 
@@ -122,11 +145,18 @@ https://rus.ozodlik.org/a/30532690.html
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Restrictions have been eased but some measures remain in place. 
+ Restrictions have been eased but some measures remain in place (at the time of coding). 
 
 *Sources*:
  https://www.garda.com/crisis24/news-alerts/368241/uzbekistan-authorities-announce-the-lifting-of-lockdown-from-august-15-update-18
@@ -152,7 +182,15 @@ https://coronavirus.uz/ru/lists/view/1672
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Presidential order 176 (stopping some business activities, prohibiting all public events, closing access to the capital for everyone excluding its permanent residents) does not mention an end limit. 
@@ -170,15 +208,22 @@ https://coronavirus.uz/ru/lists/view/1672
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  emlimit = 0 
@@ -196,7 +241,7 @@ https://coronavirus.uz/ru/lists/view/1672
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -206,7 +251,15 @@ https://coronavirus.uz/ru/lists/view/1672
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Legislature approval is not mentioned in presidential order 5537. 
@@ -234,7 +287,15 @@ https://coronavirus.uz/ru/lists/view/1672
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Legislature approval not required and I found no evidence of legislature's approval on its website. 
@@ -261,13 +322,21 @@ http://parliament.gov.uz/ru/events/chamber/index.php?PAGEN_1=7&SIZEN_1=12
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No limiting provisions in decree 5537; the parliament continues to meet with physical distancing measures. 
@@ -287,15 +356,22 @@ http://parliament.gov.uz/ru/events/other/30944/
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -320,8 +396,15 @@ http://parliament.gov.uz/ru/events/other/30944/
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -351,10 +434,20 @@ http://parliament.gov.uz/ru/events/other/30944/
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Initial measures were stricter for the capital; easening of restriction varies depending on the number of infections, with different areas divided into green, yellow, and red zones 
+ March-June: Initial measures were stricter for the capital; easening of restriction varies depending on the number of infections, with different areas divided into green, yellow, and red zones. 
+
+July-September, October-December:  no information on measures implemented on a subnational level found. 
 
 *Sources*:
  https://www.garda.com/crisis24/news-alerts/346901/uzbekistan-authorities-announce-changes-in-covid-19-related-restrictions-may-30-update-12
@@ -382,10 +475,13 @@ https://www.garda.com/crisis24/news-alerts/325731/uzbekistan-government-to-lock-
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -424,10 +520,13 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/uzbekistan/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -459,14 +558,24 @@ Time period: *Jul-Sep*: 0
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 2 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The parliament passed ammendments to the Criminal Code (Article 244) on 23 March 2020 making spreading false information about infections punishable with a fine or imprisonment. 
+ I found no emergency measures that limit media freedom. The parliament passed ammendments to the Criminal Code (Article 244) on 23 March 2020 making spreading false information about infections punishable with a fine or imprisonment. Note that the legislation is not part of the emergency measures, applies to "false" information on infectious diseases in general, and constitutes permanent amendments to existing legislation. It is therefore not coded as part of the emergency measures, but is considered in coding merepfact and merepgov. 
 
 *Sources*:
  https://lex.uz/ru/docs/4774974
 https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
+https://ipi.media/rush-to-pass-fake-news-laws-during-covid-19-intensifying-global-media-freedom-challenges/
+https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#uzbekistan
 
 
 
@@ -478,20 +587,28 @@ https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-26 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://lex.uz/ru/docs/4774974
+*No source provided*
 
 
 
@@ -503,21 +620,28 @@ https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Permanent ammendments to the Criminal Code (Article 244) 
+*No comment provided* 
 
 *Sources*:
- https://lex.uz/ru/docs/4774974
+*No source provided*
 
 
 
@@ -539,10 +663,13 @@ https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -552,6 +679,9 @@ Time period: *Jul-Sep*: 1
 *Sources*:
  https://lex.uz/ru/docs/4774974
 https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
+https://www.amnesty.org/en/latest/campaigns/2020/06/blogging-in-uzbekistan-welcoming-tourism-silencing-criticism/
+https://ipi.media/rush-to-pass-fake-news-laws-during-covid-19-intensifying-global-media-freedom-challenges/
+https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#uzbekistan
 
 
 
@@ -563,7 +693,7 @@ https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-w
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -573,21 +703,27 @@ https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-w
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The parliament passed ammendments to the Criminal Code (Article 244) on 23 March 2020 making spreading false information about infections punishable with a fine or imprisonment, which puts limits on media reporting. Under this new legislation, several journalists have been detained and their equipment was confiscated. since 25 July 2020 regarding a Covid-19 report. The report concerned an alledged dealth of a public official from Covid-19 that was shared by several news outlets, but later om turned out to be false. 
+ The parliament passed ammendments to the Criminal Code (Article 244) on 23 March 2020 making spreading false information about infections punishable with a fine or imprisonment, which puts limits on media reporting. Under this new legislation, several journalists have been detained and their equipment was confiscated since 25 July 2020 in connection to a Covid-19 report. The report concerned an alledged dealth of a public official from Covid-19 that was shared by several news outlets, but later on turned out to be false. 
 
 *Sources*:
  https://lex.uz/ru/docs/4774974
 https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
 https://cpj.org/2020/07/uzbek-authorities-interrogate-journalists-confiscate-equipment-over-retracted-covid-19-report/
 https://rsf.org/en/news/pressure-karakalpakstan-journalist-wrongly-accused-spreading-false-information
+https://www.amnesty.org/en/latest/campaigns/2020/06/blogging-in-uzbekistan-welcoming-tourism-silencing-criticism/
+https://ipi.media/rush-to-pass-fake-news-laws-during-covid-19-intensifying-global-media-freedom-challenges/
+https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#uzbekistan
 
 
 
@@ -609,10 +745,13 @@ https://rsf.org/en/news/pressure-karakalpakstan-journalist-wrongly-accused-sprea
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -640,14 +779,17 @@ https://ipi.media/uzbekistan/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -678,10 +820,13 @@ https://ipi.media/uzbekistan/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -712,10 +857,13 @@ https://ipi.media/uzbekistan/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -749,10 +897,13 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/uzbekistan/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -787,10 +938,13 @@ https://ipi.media/uzbekistan/
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -811,7 +965,7 @@ https://www.hrw.org/europe/central-asia/uzbekistan
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -821,10 +975,13 @@ https://www.hrw.org/europe/central-asia/uzbekistan
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -835,28 +992,3 @@ Time period: *Jul-Sep*: 1
  http://mudofaa.uz/kr/28748/
 http://mudofaa.uz/kr/29663/
 http://mudofaa.uz/kr/29688/
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-*Answer*: privacy violations 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
- https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses

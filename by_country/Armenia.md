@@ -1,9 +1,6 @@
 # Armenia 
 
 
-Time 2020-09-21 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-21
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,15 +25,27 @@ Time 2020-09-21
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- Decree 298 from 16 March 2020 declaring state of emergency from 16 March 2020. The state of emergency was lifted on 11 September 2020 and a quarantine was declared until 11 January 2021. 
+ March-June, July-September: Decree 298 from 16 March 2020 declaring state of emergency from 16 March 2020. The state of emergency was lifted on 11 September 2020.
+
+October-December: a quarantine was declared from 11 September 2020 until 11 January 2021. 
 
 *Sources*:
  https://www.arlis.am/DocumentView.aspx?docid=140631
 https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/
 https://www.e-gov.am/gov-decrees/item/34748/
+https://www.mfa.am/en/press-releases/2020/09/11/quarantaine_RA/10438
+https://www.garda.com/crisis24/news-alerts/368686/armenia-authorities-extend-state-of-emergency-through-september-11-and-ease-other-restrictions-as-of-august-12-update-16
 
 
 
@@ -55,14 +64,26 @@ https://www.e-gov.am/gov-decrees/item/34748/
 *Scale*: Character string.
 
  
-*Answer*: Constitution (Article 120) 
+*Time period: Q2*: Constitution (Article 120)
+
+ 
+*Time period: Q3*: Constitution (Article 120)
+
+ 
+*Time period: Q4*: «Հայաստանի Հանրապետության բնակչության սանիտարահամաճարակային անվտանգության ապահովման մասին» ; «Արտակարգ իրավիճակներում բնակչության պաշտպանության մասին»
+
+ 
 
 *Comments*:
- Article 120 of the Constitution on the state of emergency that is declared "In the event of an imminent threat to the constitutional order." 
+ March-June, July-September: Article 120 of the Constitution on the state of emergency that is declared "In the event of an imminent threat to the constitutional order."
+
+October-December:  1) «Հայաստանի Հանրապետության բնակչության սանիտարահամաճարակային անվտանգության ապահովման մասին» (unofficial translation:  “On Ensuring Sanitary and Epidemiological Security of the Population of the Republic of Armenia”) 2) «Արտակարգ իրավիճակներում բնակչության պաշտպանության մասին»  (unofficial translation: “On Protection of the Population in Emergency Situations”) 
 
 *Sources*:
  https://www.arlis.am/DocumentView.aspx?docid=140631
 https://www.constituteproject.org/constitution/Armenia_2015?lang=en
+
+https://www.arlis.am/documentview.aspx?docID=29774
 
 
 
@@ -81,7 +102,15 @@ https://www.constituteproject.org/constitution/Armenia_2015?lang=en
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-16 
+*Time period: Q2*: 2020-03-16
+
+ 
+*Time period: Q3*: 2020-03-16
+
+ 
+*Time period: Q4*: 2020-09-11
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -106,10 +135,18 @@ https://www.constituteproject.org/constitution/Armenia_2015?lang=en
 *Scale*: Date format.
 
  
-*Answer*: 2020-09-11 
+*Time period: Q2*: 2020-09-11
+
+ 
+*Time period: Q3*: 2020-09-11
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- On 12 August 2020, the state of emergency was extended until 11 September 2020. The state of emergency ended on 11 September and was replaced by quarantine until 11 January 2021. 
+ On 12 August 2020, the state of emergency was extended until 11 September 2020. The state of emergency ended on 11 September and was replaced by quarantine until 11 January 2021 (has not ended by the time of coding). 
 
 *Sources*:
  https://www.e-gov.am/gov-decrees/item/34569/
@@ -135,10 +172,18 @@ https://www.e-gov.am/gov-decrees/item/34748/
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- State of emergency was initially declared until 14 April 2020 and was extended several times. 
+ State of emergency was initially declared until 14 April 2020 and was extended several times. Quarantine was declared until 11 January 2021. 
 
 *Sources*:
  https://www.arlis.am/DocumentView.aspx?docid=140631
@@ -153,20 +198,31 @@ https://www.e-gov.am/gov-decrees/item/34748/
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-09-11 
+*Time period: Q2*: 2020-09-11
+
+ 
+*Time period: Q3*: 2020-09-11
+
+ 
+*Time period: Q4*: 2021-01-11
+
+ 
 
 *Comments*:
- Extensions of the state of emergency: on 14 April 2020 extended until 14 May 2020, on 14 May extended until 13 June 2020, on 12 June extended until 13 July 2020, on 13 July extended until 12 August 2020, on 12 August extended until 11 September 2020. 
+ Extensions of the state of emergency: on 14 April 2020 extended until 14 May 2020, on 14 May extended until 13 June 2020, on 12 June extended until 13 July 2020, on 13 July extended until 12 August 2020, on 12 August extended until 11 September 2020.
+
+Quarantine regime: declared until 11 January 2021 and can be declared for up to 6 months by law. 
 
 *Sources*:
  https://www.e-gov.am/gov-decrees/item/34569/
+http://www.parliament.am/legislation.php?sel=show&ID=7307&lang=arm
 
 
 
@@ -178,7 +234,7 @@ https://www.e-gov.am/gov-decrees/item/34748/
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -188,10 +244,20 @@ https://www.e-gov.am/gov-decrees/item/34748/
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Based on article 120, point 3 of the Constitution, the National Assembly can cancel the declaration of the state of emergency (point 3) and adopts the legal regime of the state of emergency based on majority vote (point 4) 
+ March-June, July-September: Based on article 120, point 3 of the Constitution, the National Assembly can cancel the declaration of the state of emergency (point 3) and adopts the legal regime of the state of emergency based on majority vote (point 4).
+
+October-December: the National Assembly does not need to approve the declaration of quarantine. 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Armenia_2015?lang=en
@@ -216,10 +282,20 @@ https://www.e-gov.am/gov-decrees/item/34748/
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The legislature held a session to discuss the declaration of the state of emergency and adopted the legal regime of the state of emergency. 
+ March-June, July-September: The legislature held a session to discuss the declaration of the state of emergency and adopted the legal regime of the state of emergency.
+
+October-December: not required by law. 
 
 *Sources*:
  http://www.parliament.am/news.php?cat_id=2&NewsID=12789&year=2020&month=03&day=16&lang=eng
@@ -243,16 +319,26 @@ http://www.parliament.am/draft_history.php?id=11477&lang=arm
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Article 120, point 4 of the Constitution: legal regime of the state of emergency decided by the legislature; also based on the law “On the Legal Regime of the State of Emergency” (March 21 2012), that has been amended by the legislature on 31 March 2020. Meetings in parliament continued as usual. According to OSCE report, "parliament has not been involved at all because this is not provided by the constitution or legislation." 
+ March-June, July-September: Article 120, point 4 of the Constitution: legal regime of the state of emergency decided by the legislature; also based on the law “On the Legal Regime of the State of Emergency” (March 21 2012), that has been amended by the legislature on 31 March 2020. Meetings in parliament continued as usual. According to OSCE report, "parliament has not been involved at all because this is not provided by the constitution or legislation."
+
+October-December: The parliament passed amendments hat defined the general measures under a quarantine on 4 September 2020. 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Armenia_2015?lang=en
@@ -262,6 +348,9 @@ http://www.parliament.am/draft_history.php?id=11477&lang=arm
 https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
 https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+
+http://www.parliament.am/news.php?do=view&cat_id=2&day=04&month=09&year=2020&NewsID=13254&lang=arm
+http://www.parliament.am/legislation.php?sel=show&ID=7303&lang=arm
 
 
 
@@ -273,15 +362,22 @@ https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -306,8 +402,15 @@ https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -337,7 +440,15 @@ https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Uniform measures throughout the country. No new information found since June 2020. 
@@ -368,10 +479,13 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B37
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -409,10 +523,13 @@ https://www.hrw.org/europe/central-asia/armenia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -447,14 +564,27 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 2 
+*Time period: Q2*: 3
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Decree on the state of emergency obliged media outlets to refer only to official government sources on covid-19. Based on the legislation, limitations concern “ New cases of coronavirus infection in the Republic of Armenia, new cases, health status of persons, sources of infection, other persons in contact with existing or possible infected persons, persons undergoing examination (infection testing), number of isolated persons, measures taken by the authorized body in the field of health. “ 
+ March-June: Decree on the state of emergency obliged media outlets to refer only to official government sources on covid-19 (Decree 298). The measures were amended on 24 March (Decree 345) where some provisions were removed but the measures still required media outlets to reflect the government's position. The measures applied until 13 April when the state of emergency (but not the media measures) was extended. The Minister of Justice issued a statement that the measures might be restored, which did not happen (the state of emergency ended on 11 September). Melim is therefore coded as 3 in the March-June period.
+
+ July-September, October-December: no measures limiting media freedom found. 
 
 *Sources*:
- https://www.arlis.am/DocumentView.aspx?docid=140631
+ https://www.moj.am/storage/uploads/298voroshum_RUS.pdf
+https://www.moj.am/storage/uploads/298voroshum_RU_24032020.pdf
+https://www.arlis.am/DocumentView.aspx?docid=140631
 https://www.osce.org/representative-on-freedom-of-media/449098
+https://www.loc.gov/law/help/covid-19-freedom-of-expression/freedom-of-expression-during-covid-19.pdf
 
 
 
@@ -466,14 +596,22 @@ https://www.osce.org/representative-on-freedom-of-media/449098
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-16 
+*Time period: Q2*: 2020-03-16
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -491,22 +629,31 @@ https://www.osce.org/representative-on-freedom-of-media/449098
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-09-11 
+*Time period: Q2*: 2020-04-13
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The media measures were relaxed and made less severe from 24 March 2020 following consultations with media representatives (equivalent to melim=1);  the measures were in place for the duration of the state of emergency. 
+ The measures applied until 13 April when the state of emergency (but not the media measures) was extended. The Minister of Justice issued a statement that the measures might be restored, which did not happen (the state of emergency ended on 11 September). Melim is therefore coded as 3 in the March-June period. 
 
 *Sources*:
  https://www.e-gov.am/gov-decrees/item/33613/
 https://www.osce.org/representative-on-freedom-of-media/449098
 https://rm.coe.int/armenia-reply-en-emergency-restrictions-force-media-to-suppress-indepe/16809e4ace
+https://www.loc.gov/law/help/covid-19-freedom-of-expression/freedom-of-expression-during-covid-19.pdf
 
 
 
@@ -528,15 +675,18 @@ https://rm.coe.int/armenia-reply-en-emergency-restrictions-force-media-to-suppre
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- In accordance with Decree N 298 (also see melim), the authorities ordered several media outlets to remove or edit information related to covid-19 (both regarding the virus and the government's response). Since the measures were revised on 24 March and provisions on the removal of information were removed (also see melimend), merepfact is coded as 0 in July-September 2020. 
+ In accordance with Decree N 298 (also see melim), the authorities ordered several media outlets to remove or edit information related to covid-19 (both regarding the virus and the government's response). Since the measures applied until 13 April, merepfact is coded as 0 in July-September 2020. Since the state of emergency ended on 11 September 2020 and I found no new measures limiting media information, merepfact is coded as 0 in October-December 2020. 
 
 *Sources*:
  https://ipi.media/covid19-media-freedom-monitoring/#
@@ -554,7 +704,7 @@ https://www.e-gov.am/gov-decrees/item/33613/
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -564,10 +714,13 @@ https://www.e-gov.am/gov-decrees/item/33613/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -576,8 +729,8 @@ Time period: *Jul-Sep*: 0
 2)     “Hraparak, was forced to retract a story about complaints by prisoners in Armenian jails that they were no longer permitted to receive parcels from family members. ””
 https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-2&p_p_col_pos=4&p_p_col_count=9&_sojdashboard_WAR_coesojportlet_alertPK=61621944
 3)     “Etchmiadzin resident complaining that she was ill but hadn’t been properly examined.” (FactInfo Editor-in-Chief Sona Truzyan) https://hetq.am/en/article/114899
-
-Since the measures were revised on 24 March and provisions on the removal of information were removed (also see melimend), merepgov is coded as 0 in July-September 2020. 
+ 
+Since the measures applied until 13 April, merepgov is coded as 0 in July-September 2020. . Since the state of emergency ended on 11 September 2020 and I found no new measures limiting media information, merepgov is coded as 0 in October-December 2020. 
 
 *Sources*:
  https://ipi.media/covid19-media-freedom-monitoring/#
@@ -604,10 +757,13 @@ https://www.e-gov.am/gov-decrees/item/33613/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -636,14 +792,17 @@ https://rsf.org/en/armenia
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -674,10 +833,13 @@ https://rsf.org/en/armenia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -709,10 +871,13 @@ https://www.hrw.org/europe/central-asia/armenia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -746,10 +911,13 @@ https://www.hrw.org/europe/central-asia/armenia
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -757,7 +925,7 @@ Time period: *Jul-Sep*: 0
  official website with information on covid-19; no reports on disinformation found since 11 March 2020. 
 
 *Sources*:
- https://covid19.gov.am/en
+ https://ncdc.am/
 https://ipi.media/armenia/
 https://rsf.org/en/armenia
 
@@ -783,10 +951,13 @@ https://rsf.org/en/armenia
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -807,7 +978,7 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/armenia/
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -817,10 +988,13 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/armenia/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -830,31 +1004,3 @@ Time period: *Jul-Sep*: 0
 *Sources*:
  https://www.arlis.am/DocumentView.aspx?docid=140631
 http://www.mil.am/hy/news
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-*Answer*: 1) new survelliance law 2) postponed constitutional referendum 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
- 1)
-https://www.hrw.org/news/2020/04/03/armenia-law-restricts-privacy-amid-covid-19-fight
-2)
-https://www.idea.int/news-media/multimedia-reports/global-overview-covid-19-impact-elections

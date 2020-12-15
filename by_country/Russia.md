@@ -1,9 +1,6 @@
 # Russia 
 
 
-Time 2020-09-11 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-11
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,12 +25,20 @@ Time 2020-09-11
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- A presidential decree to order a period of non-working days (English translation taken from https://www.economist.com/europe/2020/05/21/russias-covid-19-outbreak-is-far-worse-than-the-kremlin-admits). The first period of non-working days was declared from 30 March until 3 April (Decree 206 from 25 March 2020). It was then extended from 4 April until 30 April (Decree 239 from 2 April 2020). The third period of non-working days was declared from 6 until 8 May (Decree 294 from 28 April). Although the end date is 8 May, the following days (9-11 May) are official holidays in Russia, so de facto the period of non-working days was from 6 to 11 May, and ended on 11 May, as announced by President Putin.
-
-Since most emergency measures were taken at the regional level, the measures that most resemble a "state of exception" were taken at the regional and not federal level. For example, a state of high alert was announced by all Russia's regions (see references to regional decisions on consultant.ru source), so it was de facto declared in the whole country, but not on a federal level (and therefore is not coded). 
+ Russia used the Constitution (Article 80) to implement a "DECREE ON MEASURES TO ENSURE SANITARY-EPIDEMIOLOGICAL WELLBEING OF RUSSIAN POPULATION" that used for all time periods on a federal level. The decree ordered the first period of non-working days was declared from 30 March until 3 April (Decree 206 from 25 March 2020). It was then extended from 4 April until 30 April (Decree 239 from 2 April 2020). The third period of non-working days was declared from 6 until 8 May (Decree 294 from 28 April). Although the end date is 8 May, the following days (9-11 May) are official holidays in Russia, so de facto the period of non-working days was from 6 to 11 May, and ended on 11 May, as announced by President Putin. The decree also delegates the declaration and implementation of emergency measures to the heads of regional authorities.
+ 
+Note that most emergency measures were taken at the regional level. For example, a state of high alert was announced by all Russia's regions (see references to regional decisions on consultant.ru source), so it was de facto declared in the whole country, but not on a federal level (and therefore is not coded). 
 
 *Sources*:
  http://kremlin.ru/events/president/news/63065
@@ -44,6 +49,7 @@ https://www.bbc.com/russian/news-52614831
 http://kremlin.ru/events/president/news/63340
 http://www.consultant.ru/document/cons_doc_LAW_349932/
 https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B365%5D&covid19=1
+https://www.icnl.org/covid19tracker/?location=105&issue=&date=&type=
 
 
 
@@ -62,7 +68,15 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B36
 *Scale*: Character string.
 
  
-*Answer*: Constitution (Article 80) 
+*Time period: Q2*: Constitution (Article 80)
+
+ 
+*Time period: Q3*: Constitution (Article 80)
+
+ 
+*Time period: Q4*: Constitution (Article 80)
+
+ 
 
 *Comments*:
  Article 80 on the role and functions of the President: "3. The President of the Russian Federation shall, in accordance with the Constitution of the Russian Federation and federal laws, determine the basic objectives of the internal and foreign policy of the State." 
@@ -88,10 +102,18 @@ https://www.constituteproject.org/constitution/Russia_2014?lang=en
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-30 
+*Time period: Q2*: 2020-03-25
+
+ 
+*Time period: Q3*: 2020-03-25
+
+ 
+*Time period: Q4*: 2020-03-25
+
+ 
 
 *Comments*:
- The first period of non-working days was declared from 30 March until 3 April (Decree 206 from 25 March 2020). 
+ According to "DECREE ON MEASURES TO ENSURE SANITARY-EPIDEMIOLOGICAL WELLBEING OF RUSSIAN POPULATION" from 25 March 2020, the decree came in force on the date of its promulgation (25 March). 
 
 *Sources*:
  http://kremlin.ru/events/president/news/63065
@@ -113,10 +135,18 @@ https://www.constituteproject.org/constitution/Russia_2014?lang=en
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-11 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The third period of non-working days was declared from 6 until 8 May (Decree 294 from 28 April). Although the end date is 8 May, the following days (9-11 May) are official holidays in Russia, so de facto the period of non-working days was from 6 to 11 May, and ended on 11 May, as announced by President Putin. 
+ Some but not all measures ended: 1) the declaration and implementation of emergency measures to the heads of regional authorities does not have a time limit and has not ended at the time of coding,  2) The third period of non-working days was declared from 6 until 8 May (Decree 294 from 28 April). Although the end date is 8 May, the following days (9-11 May) are official holidays in Russia, so de facto the period of non-working days was from 6 to 11 May, and ended on 11 May, as announced by President Putin. 
 
 *Sources*:
  https://www.bbc.com/russian/news-52614831
@@ -142,10 +172,18 @@ http://kremlin.ru/events/president/news/63340
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- All three declarations of non-working days had an end limit. 
+ Some but not all measures have a time limit: 1) the declaration and implementation of emergency measures to the heads of regional authorities does not have a time limit and has not ended at the time of coding,  2) The third period of non-working days was declared from 6 until 8 May (Decree 294 from 28 April). Although the end date is 8 May, the following days (9-11 May) are official holidays in Russia, so de facto the period of non-working days was from 6 to 11 May, and ended on 11 May, as announced by President Putin. 
 
 *Sources*:
  http://kremlin.ru/events/president/news/63065
@@ -162,14 +200,22 @@ http://publication.pravo.gov.ru/Document/View/0001202004290001
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-11 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The third period of non-working days was declared from 6 until 8 May (Decree 294 from 28 April). Although the end date is 8 May, the following days (9-11 May) are official holidays in Russia, so de facto the period of non-working days was from 6 to 11 May, and ended on 11 May, as announced by President Putin. 
@@ -188,7 +234,7 @@ http://kremlin.ru/events/president/news/63341
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -198,10 +244,18 @@ http://kremlin.ru/events/president/news/63341
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Declared based on Article 80 of the Constitution (on the role of the President), which contains no provisions for legislature approval. 
+ The measures were declared based on Article 80 of the Constitution (on the role of the President), which contains no provisions for legislature approval. 
 
 *Sources*:
  http://www.constitution.ru/10003000/10003000-6.htm
@@ -226,7 +280,15 @@ http://kremlin.ru/events/president/news/63341
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Not required by law. Additionally, on 31 March the legislature passed a law giving the executive cabinet (led by the Prime Minister) power to declare a states of high alert and emergency (has not been declared) (https://sozd.duma.gov.ru/bill/931192-7) 
@@ -252,13 +314,21 @@ http://kremlin.ru/events/president/news/63341
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No limitations on the legislature mentioned in the text of emergency measures. Based on the legislature's website, some of its sessions were canceled but its lawmaking power was not limited and it ratified emergency measures passed by the government. 
@@ -281,15 +351,22 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B36
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -314,8 +391,15 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B36
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -345,7 +429,15 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B36
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 2 
+*Time period: Q2*: 3
+
+ 
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
+
+ 
 
 *Comments*:
  Most measures have been delegated to the regional authorities with some regions taking stronger measures and for a longer period of time. On 2 April, President Putin said that he gave regional authorities additional power to tackle the crisis due to regional differences and all regions declared a state of high alert. 
@@ -357,8 +449,9 @@ https://www.mos.ru/upload/documents/docs/34-YM.pdf
 https://www.gov.spb.ru/press/governor/188430/
 https://rg.ru/2020/03/31/chehcnya-ukaz66-reg-dok.html
 
-https://www.ft.com/content/05fbbf49-913d-48ec-acdc-1f47c774317a
-https://www.mos.ru/authority/documents/doc/43620220/
+https://www.ft.com/content/05fbbf49-913d-48ec-acdc-1f47c774317ahttps://www.mos.ru/authority/documents/doc/43620220/
+https://www.garda.com/crisis24/news-alerts/398321/russia-authorities-to-tighten-covid-19-restrictions-in-moscow-november-13-update-49
+https://www.mos.ru/city/projects/measures/
 
 
 
@@ -382,10 +475,13 @@ https://www.mos.ru/authority/documents/doc/43620220/
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -424,10 +520,13 @@ https://www.hrw.org/europe/central-asia/russia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -463,12 +562,20 @@ https://www.hrw.org/europe/central-asia/russia
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 2 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Based on amendments to Article 207 of Criminal Code from 31 March 2020 (100-FZ), dissemination of "false information" can be punished with a fine or jail sentence, which IPI argues is a "fake news" law that can be used to limit freedom of the media. According to the Council of Europe, "Media organisations will face fines of up to 5 million rubles (€62,000), that may rise up to 10 million rubles (€124,000) for repeated offences. Individuals will face criminal prosecution that may lead to severe financial penalties (e.g. fines equivalent to the person’s total income over the last 18 months) and prison sentences for up to 5 years."
 
-Note that although the legislation is not part of the emergency measures, Art 207 mentions that it is applicable towards information regarding events that threaten security and safety of citizens, which includes epidemics. 
+Note that the legislation is not part of the emergency measures, Art 207 mentions that it is applicable towards information regarding events that threaten security and safety of citizens, which includes epidemics. It is therefore not coded as part of the emergency measures, but is considered in coding merepfact and merepgov. 
 
 *Sources*:
  http://publication.pravo.gov.ru/Document/View/0001202004010073
@@ -476,6 +583,7 @@ https://ipi.media/new-fake-news-law-stifles-independent-reporting-in-russia-on-c
 https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-4&p_p_col_count=1&_sojdashboard_WAR_coesojportlet_alertId=62518066
 https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B365%5D&covid19=1
 https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
+https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#VII
 
 
 
@@ -487,21 +595,28 @@ https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-01 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- http://publication.pravo.gov.ru/Document/View/0001202004010073
-https://ipi.media/new-fake-news-law-stifles-independent-reporting-in-russia-on-covid-19/
+*No source provided*
 
 
 
@@ -513,22 +628,28 @@ https://ipi.media/new-fake-news-law-stifles-independent-reporting-in-russia-on-c
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Permanent amendments to Article 207 of Criminal Code from 31 March 2020 (№ 100-FZ). "The application of the new laws will not be time-limited to duration of the pandemic" according to the Council of Europe. 
+*No comment provided* 
 
 *Sources*:
- https://ipi.media/european-media-freedom-suffers-covid-19-response/
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-4&p_p_col_count=1&_sojdashboard_WAR_coesojportlet_alertId=62518066
+*No source provided*
 
 
 
@@ -550,22 +671,26 @@ https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_co
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
  Despite having an official website with information on covid-19, the government has censored reports questitioning official statistics (prevalence).
 
-According to IPI, "On March 19, the country’s media regulatory agency, Roskomnadzor, which has a history of censoring the independent press, demanded that more than 20 media outlets remove content it deemed “inaccurate, socially significant information” about the coronavirus from their websites. Among them was radio station Echo of Moscow, which was pressured to remove the recording and transcript of an interview with a disease expert who criticized the government’s handling of the health crisis." Moreover, "media outlets will also be fined up to €117,000 if they publish disinformation about the outbreak, raising further concerns that the broadly defined law will be used to target media that criticize the government’s response to the outbreak." Based on this information (also see melim), merepfact is coded as 1 during both March-June and July-September 2020. 
+According to IPI, "On March 19, the country’s media regulatory agency, Roskomnadzor, which has a history of censoring the independent press, demanded that more than 20 media outlets remove content it deemed “inaccurate, socially significant information” about the coronavirus from their websites. Among them was radio station Echo of Moscow, which was pressured to remove the recording and transcript of an interview with a disease expert who criticized the government’s handling of the health crisis." Moreover, "media outlets will also be fined up to €117,000 if they publish disinformation about the outbreak, raising further concerns that the broadly defined law will be used to target media that criticize the government’s response to the outbreak." Based on this legislation, merepfact is coded as 1 in all time periods. 
 
 *Sources*:
  https://xn--80aesfpebagmfblc0a.xn--p1ai/
 https://ipi.media/european-media-freedom-suffers-covid-19-response/
 https://ipi.media/russian-journalists-face-continued-fines-and-probes-amid-creeping-censorship/
+https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#VII
 
 
 
@@ -577,7 +702,7 @@ https://ipi.media/russian-journalists-face-continued-fines-and-probes-amid-creep
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -587,19 +712,22 @@ https://ipi.media/russian-journalists-face-continued-fines-and-probes-amid-creep
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
  According to Reporters without Border, at the end of March "the regional online newspaper Magadan Govorit was forced to delete a story at the start of the week about the death of a patient suspected of having the virus who finally tested negative. The newspaper said its information was reliable and verified, and did not give the cause of death. Roskomnadzor nonetheless insisted on its deletion." 
 
-According to CPJ, "On June 9, a court in the central Russian city of Ufa fined Timur Almaev, chief editor of independent news website ProUfu, 60,000 rubles ($862) after the outlet published a story alleging that one thousand graves were dug in Ufa for possible victims of COVID-19... police in the town of Sivirsky, outside St. Petersburg, questioned Tatyana Voltskaya, a reporter with the U.S. Congress-funded broadcaster Radio Free Europe/Radio Liberty, over an April 11 report for the broadcaster that alleged hospitals lacked the supplies to respond to the pandemic. Authorities opened an investigation into that article on April 25, and allege that Voltskaya was “spreading false news,” she said. If charged and convicted, she could face a fine and up to five years in jail under the Russian criminal code." 
+According to CPJ, "On June 9, a court in the central Russian city of Ufa fined Timur Almaev, chief editor of independent news website ProUfu, 60,000 rubles ($862) after the outlet published a story alleging that one thousand graves were dug in Ufa for possible victims of COVID-19... police in the town of Sivirsky, outside St. Petersburg, questioned Tatyana Voltskaya, a reporter with the U.S. Congress-funded broadcaster Radio Free Europe/Radio Liberty, over an April 11 report for the broadcaster that alleged hospitals lacked the supplies to respond to the pandemic. Authorities opened an investigation into that article on April 25, and allege that Voltskaya was “spreading false news,” she said. If charged and convicted, she could face a fine and up to five years in jail under the Russian criminal code."  Another journalist, Aleksandr Pichugin, was fined for spreading "false information" because of a satirical post on Covid-19 restrictions.
 
-The government passed ammendments to Article 207 of Criminal Code (on spreading disinformation) which was used to censor reporting on the government's handling of the pandemic.  According to IPI, "On March 19, the country’s media regulatory agency, Roskomnadzor, which has a history of censoring the independent press, demanded that more than 20 media outlets remove content it deemed “inaccurate, socially significant information” about the coronavirus from their websites. Among them was radio station Echo of Moscow, which was pressured to remove the recording and transcript of an interview with a disease expert who criticized the government’s handling of the health crisis." Moreover, "media outlets will also be fined up to €117,000 if they publish disinformation about the outbreak, raising further concerns that the broadly defined law will be used to target media that criticize the government’s response to the outbreak." Based on this information (also see melim), merepgov s coded as 1 during both March-June and July-September 2020. 
+The government passed ammendments to Article 207 of Criminal Code (on spreading disinformation) which was used to censor reporting on the government's handling of the pandemic.  According to IPI, "On March 19, the country’s media regulatory agency, Roskomnadzor, which has a history of censoring the independent press, demanded that more than 20 media outlets remove content it deemed “inaccurate, socially significant information” about the coronavirus from their websites. Among them was radio station Echo of Moscow, which was pressured to remove the recording and transcript of an interview with a disease expert who criticized the government’s handling of the health crisis." Moreover, "media outlets will also be fined up to €117,000 if they publish disinformation about the outbreak, raising further concerns that the broadly defined law will be used to target media that criticize the government’s response to the outbreak." 
 
 *Sources*:
  https://rsf.org/en/news/russia-suppresses-coronavirus-information-home-manipulates-it-abroad
@@ -617,6 +745,9 @@ https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_co
 
 https://ipi.media/russian-journalists-face-continued-fines-and-probes-amid-creeping-censorship/
 https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
+https://cpj.org/2020/11/russian-journalist-aleksandr-pichugin-awaiting-verdict-sentencing-in-false-news-trial/
+https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=2&p_p_cacheability=cacheLevelPage&p_p_col_id=column-4&p_p_col_pos=2&p_p_col_count=3&_sojdashboard_WAR_coesojportlet_alertPK=76017642&_sojdashboard_WAR_coesojportlet_cmd=get_pdf_one
+https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#VII
 
 
 
@@ -638,15 +769,18 @@ https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-w
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Journalist David Frenkel was reporting on voting irregularities on 30 June and "a police officer and an election observer from the ruling United Russia party attacked Frenkel and broke his arm at a polling station in central St. Petersburg." He was fined for "llegedly disobeying police, interfering with an election, and violating the COVID-19 lockdown" on 27 July.  Since it was a single incident and no further cases were reported, merepoth is coded as 0 in July-September 2020. 
+ Journalist David Frenkel was reporting on voting irregularities on 30 June and "a police officer and an election observer from the ruling United Russia party attacked Frenkel and broke his arm at a polling station in central St. Petersburg." He was fined for "llegedly disobeying police, interfering with an election, and violating the COVID-19 lockdown" on 27 July.  Since it was a single incident and no further cases were reported, merepoth is coded as 0 in July-September, October-December 2020. 
 
 *Sources*:
  https://cpj.org/2020/08/russian-journalist-david-frenkels-car-vandalized-following-june-attack-at-voting-station/
@@ -668,27 +802,31 @@ Time period: *Jul-Sep*: 0
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
  According to Reporters without Border, "media access to information is meanwhile being restricted more and more. Since 17 March, reporters cannot attend an event at which Vladimir Putin is present unless their temperature has been taken at least three times" and "on 19 March, foreign reporters were denied access to the Russian parliament." IPI reports that "Requests in Russia often go unanswered" and cites a source that says "In Russia, the closure of many regional government bodies means it is not possible to request information. Other public authorities are not responding within the legal timeframe. Examples include a request by human rights activists to the Moscow Department of IT about the facial recognition system made on 9th April. Despite a seven-day time limit for responding, there was still no response by 23rd April." 
 
-Additionally, according to IPI, "individual medical professionals have been banned from speaking to media, while heads of health institutions have to seek approval and coordinate with central authorities before giving interviews to the press...Gathering information from “unofficial” sources or conducting anonymous interviews meanwhile risks sanctions or a police investigation." 
+Additionally, according to IPI, "individual medical professionals have been banned from speaking to media, while heads of health institutions have to seek approval and coordinate with central authorities before giving interviews to the press...Gathering information from “unofficial” sources or conducting anonymous interviews meanwhile risks sanctions or a police investigation." According to Human Rights Watch, " On October 28, the Health Ministry instructed all medical facilities that any public comments about the Covid-19 situation have to be pre-approved by the ministry’s press service. Later, the assistant health minister stated the instruction applied only to comments on prevention and treatment of the disease and “does not affect doctors” capacity to comment on various aspects of their work, including problematic ones." However, given the retaliation against medical personnel who offered critical comments, it’s reasonable to believe this instruction is intended to have a chilling effect." 
 
 *Sources*:
  https://rsf.org/en/news/russia-suppresses-coronavirus-information-home-manipulates-it-abroad
 https://ipi.media/access-denied-foi-deadlines-extended-or-suspended-across-europe/
 https://www.article19.org/resources/advances-in-freedom-of-information-under-threat-during-coronavirus-pandemic/
 https://ipi.media/new-fake-news-law-stifles-independent-reporting-in-russia-on-covid-19/
+https://www.hrw.org/news/2020/11/02/russia-should-support-health-workers-not-silence-them
 
 
 
@@ -710,10 +848,13 @@ https://ipi.media/new-fake-news-law-stifles-independent-reporting-in-russia-on-c
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -726,32 +867,6 @@ https://ipi.media/chechnya-leader-launches-violent-tirade-against-russian-invest
 https://ipi.media/russian-journalists-face-continued-fines-and-probes-amid-creeping-censorship/
 https://cpj.org/2020/04/chechen-leader-threatens-journalist-elena-milashin/
 https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
-Since
-it
-is
-an
-individual
-case
-and
-I
-found
-no
-evidence
-that
-the
-practice
-is
-system,
-mevhar
-is
-coded
-as
-1
-only
-during
-March-June
-2020
-period.
 
 
 
@@ -773,10 +888,13 @@ period.
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -810,24 +928,30 @@ https://ipi.media/russian-journalists-face-continued-fines-and-probes-amid-creep
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- Overall the information is in line with WHO recommendations (https://xn--80aesfpebagmfblc0a.xn--p1ai/) but there are some reports of state-owned media outlets spreading false information, e.g. a video aired on state-owned Rossiya 24 channel spreading conspiracy theories about Bill Gates (https://www.youtube.com/watch?v=MEtaaNNuVCI, taken from here https://euvsdisinfo.eu/covid-19-moscows-hand-shows-signs-of-shakiness/) & a video aired on Rossiya 1 channel spreading information that covid-19 may have been manufactured by the U.S. (https://euvsdisinfo.eu/coronavirus-russian-journalists-vs-conspiracies/). I haven't found any information that these statements have been refuted, therefore govmis is coded as 1 in both time periods (March-June and July-September 2020).
-
-Note there are reports on alledged underreporting of covid-19 cases and detention of doctors who criticized the official figures, but it is outside the scope of the question. 
+ Overall the information is in line with WHO recommendations (https://xn--80aesfpebagmfblc0a.xn--p1ai/) but there are some reports of state-owned media outlets spreading false information, e.g. a video aired on state-owned Rossiya 24 channel spreading conspiracy theories about Bill Gates (https://www.youtube.com/watch?v=MEtaaNNuVCI, taken from here https://euvsdisinfo.eu/covid-19-moscows-hand-shows-signs-of-shakiness/) & a video aired on Rossiya 1 channel spreading information that covid-19 may have been manufactured by the U.S. (https://euvsdisinfo.eu/coronavirus-russian-journalists-vs-conspiracies/). I haven't found any information that these statements have been refuted, therefore govmis is coded as 1 in all time periods. There are also reports on expressing concerns over alledged underreporting of covid-19 cases. 
 
 *Sources*:
  https://euvsdisinfo.eu/eeas-special-report-update-short-assessment-of-narratives-and-disinformation-around-the-covid19-pandemic-updated-23-april-18-may/
 https://www.nytimes.com/2020/04/03/world/europe/russian-virus-doctor-detained.html
 https://www.nytimes.com/2020/04/10/world/europe/coronavirus-russia-moscow-putin.html?action=click%26module=RelatedLinks%26pgtype=Article
+https://www.bbc.com/russian/news-52235498
+https://www.kommersant.ru/doc/4315608
+
 https://apnews.com/dbbf02a747b11d8ffe3b07d5e33ff129
 https://cpj.org/2020/08/freelancer-vladimir-sevrinovsky-on-covering-covid-19-in-the-north-caucasus-the-main-misinformation-i-fight-is-from-the-state/
+https://www.bloomberg.com/news/articles/2020-05-13/experts-question-russian-data-on-covid-19-death-toll
+https://www.politico.eu/article/covid-vaccine-disinformation-russia/
 
 
 
@@ -851,10 +975,13 @@ https://cpj.org/2020/08/freelancer-vladimir-sevrinovsky-on-covering-covid-19-in-
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -875,7 +1002,7 @@ https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -885,10 +1012,13 @@ https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -897,31 +1027,3 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  http://kremlin.ru/acts/assignments/orders/63217
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-*Answer*: 1) abuse of restrictions on freedom of assembly 2) new mass surveillance technology 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
- 1)
-https://www.hrw.org/news/2020/05/29/russia-journalists-held-over-peaceful-pickets
-2)
-https://www.hrw.org/news/2020/03/25/moscow-silently-expands-surveillance-citizens

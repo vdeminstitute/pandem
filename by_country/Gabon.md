@@ -1,9 +1,6 @@
 # Gabon 
 
 
-Time 2020-09-17 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-17
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,7 +25,15 @@ Time 2020-09-17
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
  Gabon declared a state of emergency on April 10, 2020, according to the Constitution (1) (art25 on the state of emergency or seige),  and the law n°11/90 of 16 November 1990 on the state of emergency (2), with the decree n°00100/PR/PM of April 10 2020. (3, 4).
@@ -36,13 +41,14 @@ On 11 May the state of emergency was lifted, and replaced by a new law (based on
 
 *Sources*:
  https://www.constituteproject.org/constitution/Gabon_2011.pdf?lang=en
-(1)
+(1)
 http://www.droit-afrique.com/uploads/Gabon-Loi-1990-11-etat-urgence.pdf
-(2)
+(2)
 https://www.legigabon.com/etat-d-urgence-covid-19
-(3)
+(3)
 https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_bf8817338b3841c0a52d721427c55e55.pdf
-(4)
+(4)
+
 https://www.union.sonapresse.com/gabon-culture-societe/covid-19-un-nouveau-dispositif-legislatif-se-met-en-place-21834
 (5)
 
@@ -63,17 +69,23 @@ https://www.union.sonapresse.com/gabon-culture-societe/covid-19-un-nouveau-dispo
 *Scale*: Character string.
 
  
-*Answer*: Constitution:
-article 47 (pertenant to the new law that gives the government similar powers as a state of emergency after May 11)
-article 25 on the state of emergency (from April 10 till May 11)
+*Time period: Q2*: Constitution, article 25 on the state of emergency (from April 10 till May 11)
+
+
+ 
+*Time period: Q3*: Constitution, article 47 (pertenant to the new law that gives the government similar powers as a state of emergency after May 11)
+
+ 
+*Time period: Q4*: Constitution, article 47 (pertenant to the new law that gives the government similar powers as a state of emergency after May 11)
+
  
 
 *Comments*:
  Before May 11, on April 10, the Gabonese government had declared a state of emergency based on the Constitutional provision on a state of emergency (article 25), and the Law no 11/90 of November 16 1990 on the state of emergency. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Gabon_2011.pdf?lang=en
-https://www.legigabon.com/etat-d-urgence-covid-19
+ https://www.constituteproject.org/constitution/Gabon_2011.pdf?lang=en
+https://www.legigabon.com/etat-d-urgence-covid-19
 https://www.union.sonapresse.com/gabon-culture-societe/covid-19-un-nouveau-dispositif-legislatif-se-met-en-place-21834
 
 
@@ -93,15 +105,23 @@ https://www.union.sonapresse.com/gabon-culture-societe/covid-19-un-nouveau-dispo
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-10 
+*Time period: Q2*: 2020-04-10
+
+ 
+*Time period: Q3*: 2020-05-11
+
+ 
+*Time period: Q4*: 2020-05-11
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://www.legigabon.com/etat-d-urgence-covid-19
-https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_bf8817338b3841c0a52d721427c55e55.pdf
-http://www.droit-afrique.com/uploads/Gabon-Loi-1990-11-etat-urgence.pdf
+ https://www.legigabon.com/etat-d-urgence-covid-19
+https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_bf8817338b3841c0a52d721427c55e55.pdf
+http://www.droit-afrique.com/uploads/Gabon-Loi-1990-11-etat-urgence.pdf
 https://www.gabonmediatime.com/covid-19-ali-bongo-decrete-letat-durgence/
 
 
@@ -121,22 +141,33 @@ https://www.gabonmediatime.com/covid-19-ali-bongo-decrete-letat-durgence/
 *Scale*: Date format.
 
  
+*Time period: Q2*: 2020-05-11
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- On 11 May the state of emergency was lifted, and replaced by a new law allowing the government to take emergency measures without declaring a state of emergency. The law gives the government similar powers as a state of emergency for an additional 45 days. Under this new law, the state of emergency has been re-declared, and extended several times. Last extension was on August 14, 2020, for an additional 45 days (45 days after the official publication in government Gazzette which was on August 19, therefore until October 4).
-''Authorities in Gabon have extended the country's State of Health Emergency measures for 45 days from Aug. 14, 2020. A nightly 2000-0500 curfew remains in effect.
+ On 11 May the state of emergency was lifted, and replaced by a new law allowing the government to take emergency measures without declaring a state of emergency. The law gives the government similar powers as a state of emergency for an additional 45 days. Under this new law, the state of emergency and related measures have been re-declared and extended several times. 
+
+The Senate granted a 45-days extension of the state of emergency on October 3 to the authorities, i.e. up to mid November, which was validated by the National Assembly and the Senate a day later. 
+However, the Gabonese government, although these measures ended on November 15, had not proceeded to a renewal, hence the measures were in place but lacked legal basis. The government according to media sources (see 1, 2) are seeking to prolong the existing measures until December 14, 2020, but it has not been yet validated.
+
+
  
 
 *Sources*:
- https://www.union.sonapresse.com/gabon-politique/covid-19-fin-de-letat-durgence-sanitaire-le-4-octobre-22832
-https://www.gabonreview.com/covid-19-le-gouvernement-veut-une-nouvelle-prorogation-des-mesures-de-riposte/
+ https://www.gabonreview.com/etat-durgence-sanitaire-le-gouvernement-prolonge-jusquau-14-decembre/
+(1)
+https://www.gabonmediatime.com/covid-19-vers-une-prolongation-de-letat-durgence-sanitaire-au-14-decembre/
+(2)
+https://www.gabonreview.com/etat-durgence-sanitaire-le-senat-accorde-45-jours-de-plus-au-gouvernement/
+https://www.union.sonapresse.com/gabon-politique/covid-19-fin-de-letat-durgence-sanitaire-le-4-octobre-22832
 https://gabonactu.com/covid-19-reconduire-letat-durgence-sanitaire-au-gabon-sera-un-abus-dautorite-selon-lactiviste-paul-aime-bagafou/
-https://gabonactu.com/covid-19-le-gouvernement-proroge-le-confinement-du-gabon-pour-45-jours/
-https://www.gabonmediatime.com/gabon-le-gouvernement-proroge-a-nouveau-de-45-jours-letat-durgence-sanitaire/
-https://www.worldaware.com/covid-19-alert-gabon-extends-state-health-emergency-measures-45-days-aug-14
-https://gabonactu.com/covid-19-le-gouvernement-pourrait-annoncer-le-deconfinement-total-dans-moins-de-45-jours/
 https://www.union.sonapresse.com/gabon-culture-societe/covid-19-un-nouveau-dispositif-legislatif-se-met-en-place-21834
 
 
@@ -160,17 +191,34 @@ https://www.union.sonapresse.com/gabon-culture-societe/covid-19-un-nouveau-dispo
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Initially declared for 15 days. 
+ State of emergency was initially declared for 15 days. On 11 May the state of emergency was lifted, and replaced by a new law allowing the government to take emergency measures without declaring a state of emergency. After the new law, all measures and the state of emergency had a 45-day limit, and were being renewed. 
+
+The Senate granted a 45-days extension of the state of emergency on October 3 to the authorities, i.e. up to mid November, which was validated by the National Assembly and the Senate a day later. 
+However, the Gabonese government, although these measures ended on November 15, had not proceeded to a renewal, hence the measures were in place but lacked legal basis. The government according to media sources (see 1, 2) are seeking to prolong the existing measures until December 14, 2020, but it has not been yet validated. 
 
 *Sources*:
- https://www.legigabon.com/etat-d-urgence-covid-19
-https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_bf8817338b3841c0a52d721427c55e55.pdf
-https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_1639685ba92542b09a7f52711860faa6.pdf
-http://www.droit-afrique.com/uploads/Gabon-Loi-1990-11-etat-urgence.pdf
+ https://www.gabonreview.com/etat-durgence-sanitaire-le-gouvernement-prolonge-jusquau-14-decembre/
+(1)
+https://www.gabonmediatime.com/covid-19-vers-une-prolongation-de-letat-durgence-sanitaire-au-14-decembre/
+(2)
+
+https://www.legigabon.com/etat-d-urgence-covid-19
+https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_bf8817338b3841c0a52d721427c55e55.pdf
+https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_1639685ba92542b09a7f52711860faa6.pdf
+http://www.droit-afrique.com/uploads/Gabon-Loi-1990-11-etat-urgence.pdf
 https://www.gabonmediatime.com/covid-19-ali-bongo-decrete-letat-durgence/
+https://www.gabonreview.com/etat-durgence-sanitaire-le-senat-accorde-45-jours-de-plus-au-gouvernement/
 
 
 
@@ -182,23 +230,41 @@ https://www.gabonmediatime.com/covid-19-ali-bongo-decrete-letat-durgence/
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-25 
+*Time period: Q2*: 2020-04-25
+
+ 
+*Time period: Q3*: 2020-06-26
+
+ 
+*Time period: Q4*: 2020-12-14
+
+ 
 
 *Comments*:
- Initially declared for 15 days. 
+ State of emergency was initially declared for 15 days. On 11 May the state of emergency was lifted, and replaced by a new law allowing the government to take emergency measures without declaring a state of emergency. After the new law, all measures and the state of emergency had a 45-day limit, and were being renewed. 
+
+The Senate granted a 45-days extension of the state of emergency on October 3 to the authorities, i.e. up to mid November, which was validated by the National Assembly and the Senate a day later. 
+However, the Gabonese government, although these measures ended on November 15, had not proceeded to a renewal, hence the measures were in place but lacked legal basis. The government according to media sources (see 1, 2) are seeking to prolong the existing measures until December 14, 2020, but it has not been yet validated. 
 
 *Sources*:
- https://www.legigabon.com/etat-d-urgence-covid-19
-https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_bf8817338b3841c0a52d721427c55e55.pdf
-http://www.droit-afrique.com/uploads/Gabon-Loi-1990-11-etat-urgence.pdf
+ https://www.gabonreview.com/etat-durgence-sanitaire-le-gouvernement-prolonge-jusquau-14-decembre/
+(1)
+https://www.gabonmediatime.com/covid-19-vers-une-prolongation-de-letat-durgence-sanitaire-au-14-decembre/
+(2)
+
+https://www.legigabon.com/etat-d-urgence-covid-19
+https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_bf8817338b3841c0a52d721427c55e55.pdf
+https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_1639685ba92542b09a7f52711860faa6.pdf
+http://www.droit-afrique.com/uploads/Gabon-Loi-1990-11-etat-urgence.pdf
 https://www.gabonmediatime.com/covid-19-ali-bongo-decrete-letat-durgence/
+https://www.gabonreview.com/etat-durgence-sanitaire-le-senat-accorde-45-jours-de-plus-au-gouvernement/
 
 
 
@@ -210,7 +276,7 @@ https://www.gabonmediatime.com/covid-19-ali-bongo-decrete-letat-durgence/
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -220,12 +286,18 @@ https://www.gabonmediatime.com/covid-19-ali-bongo-decrete-letat-durgence/
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Article 50, Constitution and Art.4.‐ of the Law n°11/90 relative à l’état d’urgence, Modifiée par laLoi n°2020‐01) mentions that the state of emergency cannot be declared for more than 15 days, and its extension can only be authorized by the Parliament: 
-''L’état d’urgence ne peut être déclaré que pour  une durée n’excédant pas 15 jours.	
-La prorogation de l’état d’urgence au‐delà de 15 jours ne peut être autorisée	que par le Parlement.'' 
+ Article 50, Constitution and Art.4.‐ of the Law n°11/90 relative à l’état d’urgence, Modifiée par laLoi n°2020‐01) mentions that the state of emergency cannot be declared for more than 15 days, and its extension can only be authorized by the Parliament. The same applies when a state of emergency is declared based on art 47 of Constitution. 
 
 *Sources*:
  http://www.droit-afrique.com/uploads/Gabon-Loi-1990-11-etat-urgence.pdf
@@ -250,22 +322,29 @@ La prorogation de l’état d’urgence au‐delà de 15 jours ne peut être aut
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  Loi n°002/2020 du 25 avril 2020 portant prorogation de la durée de l'état d'urgence
 The National Assembly and the Senate have deliberated and adopted the extension of the State of emergency for 15 more days.
-
 ''The Gabonese government, which wanted to extend the state of emergency for 3 months, did not have the agreement of the elected members of the Lower House of Parliament. Finally, it will only be extended by 15 days, as announced this Saturday evening the Minister of Communication, Edgard Anicet Mboumbou Miyakou, in a press release.''
 
 Also, the new law under Constitution art 47 giving the executive special powers was also approved by the National Assembly on May 11:
 ...''the document was adopted in a plenary session chaired by the President of the National Assembly, Faustin Boukoubi.'' 
 
 *Sources*:
- https://www.union.sonapresse.com/gabon-culture-societe/covid-19-un-nouveau-dispositif-legislatif-se-met-en-place-21834
-https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_b507789792144024b9b51e50f3a9f754.pdf
-https://www.gabonreview.com/etat-durgence-le-senat-en-attend-plus-du-gouvernement-2/
-http://info241.com/l-etat-d-urgence-prolonge-au-gabon-jusqu-au-9-mai-prochain-dans,5052
+ https://www.union.sonapresse.com/gabon-culture-societe/covid-19-un-nouveau-dispositif-legislatif-se-met-en-place-21834
+https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_b507789792144024b9b51e50f3a9f754.pdf
+https://www.gabonreview.com/etat-durgence-le-senat-en-attend-plus-du-gouvernement-2/
+http://info241.com/l-etat-d-urgence-prolonge-au-gabon-jusqu-au-9-mai-prochain-dans,5052
 http://info241.com/coronavirus-le-gouvernement-gabonais-renonce-a-prolonger-l-etat,5090
 
 
@@ -286,13 +365,21 @@ http://info241.com/coronavirus-le-gouvernement-gabonais-renonce-a-prolonger-l-et
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
  Article 25 Constitution: The President may, when circumstances require it, after deliberation with the Council of Ministers and consultation of the Bureaus of the National Assembly and the Senate, proclaim by decree a state of urgency or a state of siege, that will confer to the President special powers within the conditions determined by the law.
@@ -303,9 +390,10 @@ Article 4, law of state of emergency: The Government is authorized, during the d
 Also, there are social distancing measures in place, and there is a Parliamentary Commission of Inquiry dedicated to the control and evaluation of the management of Covid-19. 
 
 *Sources*:
- https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://www.constituteproject.org/constitution/Gabon_2011.pdf?lang=en
+ https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+https://www.constituteproject.org/constitution/Gabon_2011.pdf?lang=en
 https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_bf8817338b3841c0a52d721427c55e55.pdf
+https://www.gabonreview.com/etat-durgence-sanitaire-le-gouvernement-prolonge-jusquau-14-decembre/
 
 
 
@@ -317,15 +405,22 @@ https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_bf8817338b3
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -350,8 +445,15 @@ https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_bf8817338b3
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -381,17 +483,25 @@ https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_bf8817338b3
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- 'Restriction measures introduced under the state of emergency will remain in place during this period. These include a nationwide nightly 2000-0500 curfew, the wearing of masks and other hygiene protocols must be adhered to. Places of worship and bars remain closed; sporting events and other large gatherings remain suspended.
+ Restriction measures introduced under the state of emergency will remain in place during this period. These include a nationwide nightly 2000-0500 curfew, the wearing of masks and other hygiene protocols must be adhered to. Places of worship and bars remain closed; sporting events and other large gatherings remain suspended.
 During the first months of the pandemic, there was a curfew that only applied to Libreville and the nearby communities of Owendo, Akanda, Ntoum, and Pointe Denis. 
 
 *Sources*:
- https://www.worldaware.com/covid-19-alert-gabon-extends-state-health-emergency-measures-45-days-aug-14
-https://gabonactu.com/covid-19-le-gouvernement-proroge-le-confinement-du-gabon-pour-45-jours/
-https://www.garda.com/crisis24/news-alerts/336411/gabon-authorities-extend-state-of-emergency-due-to-covid-19-until-may-11-update-7
-
+ https://www.worldaware.com/covid-19-alert-gabon-extends-state-health-emergency-measures-45-days-aug-14
+https://gabonactu.com/covid-19-le-gouvernement-proroge-le-confinement-du-gabon-pour-45-jours/
+https://www.garda.com/crisis24/news-alerts/336411/gabon-authorities-extend-state-of-emergency-due-to-covid-19-until-may-11-update-7
+https://www.gabonreview.com/etat-durgence-sanitaire-le-gouvernement-prolonge-jusquau-14-decembre/
 
 
 
@@ -415,10 +525,13 @@ https://www.garda.com/crisis24/news-alerts/336411/gabon-authorities-extend-state
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -426,10 +539,9 @@ Time period: *Jul-Sep*: 0
  Nothing mentioned in the emergency measures, nor in reports on human rights violations 
 
 *Sources*:
- https://www.legigabon.com/etat-d-urgence-covid-19
-https://ga.usembassy.gov/u-s-citizen-services/coronavirus-update/
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
+ https://www.legigabon.com/etat-d-urgence-covid-19
+https://ga.usembassy.gov/u-s-citizen-services/coronavirus-update/
+https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
 
 
 
@@ -458,10 +570,13 @@ https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -469,10 +584,9 @@ Time period: *Jul-Sep*: 0
  Nothing mentioned in the emergency measures, nor in reports on human rights violations 
 
 *Sources*:
- https://www.legigabon.com/etat-d-urgence-covid-19
-https://ga.usembassy.gov/u-s-citizen-services/coronavirus-update/
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
+ https://www.legigabon.com/etat-d-urgence-covid-19
+https://ga.usembassy.gov/u-s-citizen-services/coronavirus-update/
+https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
 
 
 
@@ -496,19 +610,26 @@ https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- No de jure media limitations found in the emergency measures.
+ No de jure media limitations found in the emergency measures.
 Yet, Decree no 00106 designating the essential services and personnel, (1), does not include journalists and the media in the listed essential services that are exempted from the movement restrictions of the emergency measures. 
 
 *Sources*:
  https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_a31073297a784eddad9442bfd866da54.pdf
-
-https://www.bbc.com/afrique/region-52363470
-
-https://www.legigabon.com/etat-d-urgence-covid-19
 
+https://www.bbc.com/afrique/region-52363470
+
+https://www.legigabon.com/etat-d-urgence-covid-19
 
 
 
@@ -520,15 +641,22 @@ https://www.legigabon.com/etat-d-urgence-covid-19
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -546,15 +674,22 @@ https://www.legigabon.com/etat-d-urgence-covid-19
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -582,10 +717,13 @@ https://www.legigabon.com/etat-d-urgence-covid-19
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -593,12 +731,11 @@ Time period: *Jul-Sep*: 0
  No media limitations on the nature of covid19. 
 
 *Sources*:
- https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-https://ipi.media/covid19-media-freedom-monitoring/
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
-
+ https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+https://ipi.media/covid19-media-freedom-monitoring/
+https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
 
 
 
@@ -610,7 +747,7 @@ https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -620,35 +757,38 @@ https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The emergency measures, in particular Décret n°00106/PR/MEFPTFPDS du 10 avril 2020 désignant les services et les personnels essentiels du secteur public, parapublic et privé d’astreinte pendant l’état d’urgence lié au COVID-19'' (1) (Decree n°00106 designating the essential services and personnel of the public, parapublic and private on-call sector during the state of emergency linked to COVID-19), does not include journalists and the media in the listed essential services that are exempted from the movement restrictions of the emergency measures.
+ The emergency measures, in particular Décret n°00106/PR/MEFPTFPDS du 10 avril 2020 désignant les services et les personnels essentiels du secteur public, parapublic et privé d’astreinte pendant l’état d’urgence lié au COVID-19'' (1) (designating the essential services and personnel of the public, parapublic and private on-call sector during the state of emergency linked to COVID-19), does not include journalists and the media in the listed essential services that are exempted from the movement restrictions of the emergency measures.
 
-Journalists and editors in Gabon report that this lack of granted authorizations poses a problem for them reporting in the field (2).
+Journalists and editors in Gabon report that this lack of granted authorizations poses a problem for them reporting in the field (2). Emergency measures and curfew are still in place by November 2020.
 
-Authorities in Gabon have extended the country's State of Health Emergency measures for 45 days from Aug. 14, 2020. A nightly 2000-0500 curfew remains in effect.
-
+Authorities in Gabon have extended the country's State of Health Emergency measures up until December 2020. 
 In addition, the media in Gabon are facing serious government censorship (6). The role of HAC (High Authority of Communication) in particular has been extremely problematic the last years (4, 5), suspending several media and newspapers. Although these developments related to facts before Covid19, it is nevertheless a problem which relates to the current situation and still exists. 
 
 *Sources*:
  https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_a31073297a784eddad9442bfd866da54.pdf
-(1)
+(1)
 https://www.bbc.com/afrique/region-52363470
-(2)
-https://www.legigabon.com/etat-d-urgence-covid-19
+(2)
+https://www.legigabon.com/etat-d-urgence-covid-19
 https://monitor.civicus.org/updates/2019/09/02/gabon-several-media-outlets-journalist-accreditation-suspended/
-(4)
+(4)
 https://cpj.org/2019/05/gabon-media-regulator-suspends-two-newspapers-over/
-(5)
+(5)
 https://rsf.org/en/gabon
-(6)
+(6)
 https://gabonactu.com/covid-19-le-gouvernement-proroge-le-confinement-du-gabon-pour-45-jours/
+https://www.garda.com/crisis24/news-alerts/391071/gabon-authorities-to-ease-covid-19-restrictions-and-reduce-curfew-from-october-20-update-11
 
 
 
@@ -670,17 +810,20 @@ https://gabonactu.com/covid-19-le-gouvernement-proroge-le-confinement-du-gabon-p
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
  The emergency measures, in particular Décret n°00106/PR/MEFPTFPDS du 10 avril 2020 désignant les services et les personnels essentiels du secteur public, parapublic et privé d’astreinte pendant l’état d’urgence lié au COVID-19'' (1) (Decree n°00106 designating the essential services and personnel of the public, parapublic and private on-call sector during the state of emergency linked to COVID-19), does not include journalists and the media in the listed essential services that are exempted from the movement restrictions of the emergency measures.
 
-Journalists and editors in Gabon report that this lack of granted authorizations poses a problem for them reporting in the field (2).
+Journalists and editors in Gabon report that this lack of granted authorizations poses a problem for them reporting in the field (2). Emergency measures and curfew are still in place by November 2020.
 
 Authorities in Gabon have extended the country's State of Health Emergency measures for 45 days from Aug. 14, 2020. A nightly 2000-0500 curfew remains in effect.
 
@@ -688,17 +831,18 @@ In addition, the media in Gabon are facing serious government censorship (6). Th
 
 *Sources*:
  https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_a31073297a784eddad9442bfd866da54.pdf
-(1)
+(1)
 https://www.bbc.com/afrique/region-52363470
-(2)
-https://www.legigabon.com/etat-d-urgence-covid-19
+(2)
+https://www.legigabon.com/etat-d-urgence-covid-19
 https://monitor.civicus.org/updates/2019/09/02/gabon-several-media-outlets-journalist-accreditation-suspended/
-(4)
+(4)
 https://cpj.org/2019/05/gabon-media-regulator-suspends-two-newspapers-over/
-(5)
+(5)
 https://rsf.org/en/gabon
-(6)
+(6)
 https://gabonactu.com/covid-19-le-gouvernement-proroge-le-confinement-du-gabon-pour-45-jours/
+https://www.garda.com/crisis24/news-alerts/391071/gabon-authorities-to-ease-covid-19-restrictions-and-reduce-curfew-from-october-20-update-11
 
 
 
@@ -717,21 +861,24 @@ https://gabonactu.com/covid-19-le-gouvernement-proroge-le-confinement-du-gabon-p
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
  The emergency measures, in particular Décret n°00106/PR/MEFPTFPDS du 10 avril 2020 désignant les services et les personnels essentiels du secteur public, parapublic et privé d’astreinte pendant l’état d’urgence lié au COVID-19'' (1) (Decree n°00106 designating the essential services and personnel of the public, parapublic and private on-call sector during the state of emergency linked to COVID-19), does not include journalists and the media in the listed essential services that are exempted from the movement restrictions of the emergency measures.
 
-Journalists and editors in Gabon report that this lack of granted authorizations poses a problem for them reporting in the field (2).
+Journalists and editors in Gabon report that this lack of granted authorizations poses a problem for them reporting in the field (2). Emergency measures and curfew are still in place by November 2020.
 
 Authorities in Gabon have extended the country's State of Health Emergency measures for 45 days from Aug. 14, 2020. A nightly 2000-0500 curfew remains in effect.
 
@@ -739,17 +886,18 @@ In addition, the media in Gabon are facing serious government censorship (6). Th
 
 *Sources*:
  https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_a31073297a784eddad9442bfd866da54.pdf
-(1)
+(1)
 https://www.bbc.com/afrique/region-52363470
-(2)
-https://www.legigabon.com/etat-d-urgence-covid-19
+(2)
+https://www.legigabon.com/etat-d-urgence-covid-19
 https://monitor.civicus.org/updates/2019/09/02/gabon-several-media-outlets-journalist-accreditation-suspended/
-(4)
+(4)
 https://cpj.org/2019/05/gabon-media-regulator-suspends-two-newspapers-over/
-(5)
+(5)
 https://rsf.org/en/gabon
-(6)
+(6)
 https://gabonactu.com/covid-19-le-gouvernement-proroge-le-confinement-du-gabon-pour-45-jours/
+https://www.garda.com/crisis24/news-alerts/391071/gabon-authorities-to-ease-covid-19-restrictions-and-reduce-curfew-from-october-20-update-11
 
 
 
@@ -771,10 +919,13 @@ https://gabonactu.com/covid-19-le-gouvernement-proroge-le-confinement-du-gabon-p
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -782,12 +933,15 @@ Time period: *Jul-Sep*: 0
  No evidence found. 
 
 *Sources*:
- https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-https://ipi.media/covid19-media-freedom-monitoring/
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
+ https://rsf.org/en/tracker19-Coronavirus-Covid19
 
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+
+https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+
+https://ipi.media/covid19-media-freedom-monitoring/
+
+https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
 
 
 
@@ -809,10 +963,13 @@ https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -820,12 +977,15 @@ Time period: *Jul-Sep*: 0
  No evidence found. 
 
 *Sources*:
- https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-https://ipi.media/covid19-media-freedom-monitoring/
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
+ https://rsf.org/en/tracker19-Coronavirus-Covid19
 
+https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+
+https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+
+https://ipi.media/covid19-media-freedom-monitoring/
+
+https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
 
 
 
@@ -849,26 +1009,29 @@ https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
- Gabonese authorities have been using chloroquine in the treatment against covid19 since March (1).
-''The Minister of Health, on May 28, after a meeting with the Scientific Committee and the Technical Committee on the use of hydroxychloroquine in patients with Covid-19 in Gabon after the revelations of the scientific journal " The Lancet " and the decision of the World Health Organization (WHO) to stop current therapeutic trials, decided that the treatment with chloroquine would be continued with caution and that the Lopinavir / Ritonavir combination as indicated in the national therapeutic protocol could be an alternative to hydroxychloroquine if necessary.'' (3)
+ Gabonese authorities have been using chloroquine in the treatment against covid19 since March (1).
+''The Minister of Health, on May 28, after a meeting with the Scientific Committee and the Technical Committee on the use of hydroxychloroquine in patients with Covid-19 in Gabon after the revelations of the scientific journal " The Lancet " and the decision of the World Health Organization (WHO) to stop current therapeutic trials, decided that the treatment with chloroquine would be continued with caution and that the Lopinavir / Ritonavir combination as indicated in the national therapeutic protocol could be an alternative to hydroxychloroquine if necessary.'' (3)
 No evidence was found on whether the government changed its policy on the use of chloroquine after June. 
 
 *Sources*:
  https://gabonactu.com/le-gabon-va-prescrire-la-chloroquine-aux-personnes-atteintes-du-coronavirus/
-(1)
+(1)
 https://gabonactu.com/gabon-le-protocole-therapeutique-des-malades-covid-19/
-(2)
+(2)
 https://lalibreville.com/hydroxychloroquine-et-covid-19-le-gabon-precise-sa-position/
-(3)
-https://afrique.le360.ma/maroc-algerie-autres-pays/politique/2020/06/01/30726-covid-19-voici-pourquoi-les-pays-africains-ont-dit-non-loms-et-poursuivent-le
+(3)
+https://afrique.le360.ma/maroc-algerie-autres-pays/politique/2020/06/01/30726-covid-19-voici-pourquoi-les-pays-africains-ont-dit-non-loms-et-poursuivent-le
 
 
 
@@ -893,10 +1056,13 @@ https://afrique.le360.ma/maroc-algerie-autres-pays/politique/2020/06/01/30726-co
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -916,7 +1082,7 @@ Time period: *Jul-Sep*: 0
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -926,10 +1092,13 @@ Time period: *Jul-Sep*: 0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -937,34 +1106,10 @@ Time period: *Jul-Sep*: 0
  The security forces have been deployed to enforce the movement restrictions. No indication of the military being charged with enforcing the measures. 
 
 *Sources*:
- https://www.worldaware.com/covid-19-alert-gabon-imposes-movement-restrictions-greater-libreville-april-12-27
-https://www.garda.com/crisis24/news-alerts/336411/gabon-authorities-extend-state-of-emergency-due-to-covid-19-until-may-11-update-7
-https://www.institutmontaigne.org/en/blog/coronavirus-and-africa-rapid-and-progressive-response-gabon
-https://www.france24.com/en/20200413-gabon-starts-virus-confinement-in-capital
+ https://www.worldaware.com/covid-19-alert-gabon-imposes-movement-restrictions-greater-libreville-april-12-27
 
+https://www.garda.com/crisis24/news-alerts/336411/gabon-authorities-extend-state-of-emergency-due-to-covid-19-until-may-11-update-7
 
+https://www.institutmontaigne.org/en/blog/coronavirus-and-africa-rapid-and-progressive-response-gabon
 
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*
+https://www.france24.com/en/20200413-gabon-starts-virus-confinement-in-capital

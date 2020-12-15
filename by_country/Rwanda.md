@@ -1,9 +1,6 @@
 # Rwanda 
 
 
-Time 2020-09-04 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-04
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,20 +25,38 @@ Time 2020-09-04
  7. Other.
 
  
-*Answer*: 5 
+*Time period: Q2*: 5
+
+ 
+*Time period: Q3*: 5
+
+ 
+*Time period: Q4*: 5
+
+ 
 
 *Comments*:
- Rwandan government took several measures to deal with the pandemic, but these were not based on a specific legal instrument.
-''In early March a taskforce was assembled and guidelines were issued on 6 March on social distancing and handwashing, and hand sanitiser was placed outside all major public buildings and shopping centres. Testing began well before the first COVID-19 case, which was verified on 14 March.'' 
+ Rwandan government took several measures to deal with the pandemic, but these were not based on a specific legal instrument.
+Measures initially included a prohibition of no-essential movements and travel between cities, closure of non-essential businesses, a nationwide lockdown, which was originally declared on Saturday, March 21 and has been extended several times, a night curfew (since May 1), border closure etc. 
+
+Most measures are still in place in November.
+ 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/?location=106&issue=&date=&type=
-https://www.dw.com/en/coronavirus-rwanda-imposes-africas-first-lockdown/a-52878787
-https://twitter.com/PrimatureRwanda/status/1241412264193937412?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1241412264193937412&ref_url=https%3A%2F%2Fafrica.cgtn.com%2F2020%2F03%2F21%2Frwanda-orders-total-lockdown-in-bid-to-curb-covid-19-spread%2F
-https://www.rbc.gov.rw/fileadmin/user_upload/annoucement/GoR-MOH%20statement%20final.pdf
-https://www.theigc.org/blog/rwandas-response-to-covid-19-and-future-challenges/
-https://rw.usembassy.gov/health-alert-covid-19-information/
-http://paulkagame.com/?p=15265
+ https://ancl-radc.org.za/node/630
+
+https://www.icnl.org/covid19tracker/?location=106&issue=&date=&type=
+https://www.dw.com/en/coronavirus-rwanda-imposes-africas-first-lockdown/a-52878787
+https://twitter.com/PrimatureRwanda/status/1241412264193937412?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1241412264193937412&ref_url=
+https%3A%2F%2Fafrica.cgtn.com%2F2020%2F03%2F21%2Frwanda-orders-total-lockdown-in-bid-to-curb-covid-19-spread%2F
+https://www.rbc.gov.rw/fileadmin/user_upload/annoucement/GoR-MOH%20statement%20final.pdf
+https://www.theigc.org/blog/rwandas-response-to-covid-19-and-future-challenges/
+https://rw.usembassy.gov/health-alert-covid-19-information/http://paulkagame.com/?p=15265
+https://www.garda.com/crisis24/news-alerts/328491/rwanda-nationwide-lockdown-extended-for-15-days-april-1-update-4
+https://www.garda.com/crisis24/news-alerts/338256/rwanda-new-covid-19-prevention-measures-come-into-effect-may-4-update-6
+https://www.garda.com/crisis24/news-alerts/394011/rwanda-covid-19-restrictions-extended-until-november-11-update-17
+
+https://www.gov.rw/koronavirusi
 
 
 
@@ -60,8 +75,15 @@ http://paulkagame.com/?p=15265
 *Scale*: Character string.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -86,8 +108,15 @@ http://paulkagame.com/?p=15265
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -112,8 +141,15 @@ http://paulkagame.com/?p=15265
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -141,8 +177,15 @@ http://paulkagame.com/?p=15265
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -160,15 +203,22 @@ http://paulkagame.com/?p=15265
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -186,7 +236,7 @@ http://paulkagame.com/?p=15265
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -196,8 +246,15 @@ http://paulkagame.com/?p=15265
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -225,8 +282,15 @@ http://paulkagame.com/?p=15265
  1. Yes.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -252,32 +316,48 @@ http://paulkagame.com/?p=15265
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- The government has made several proclamations limiting movement, enforcing social distancing rules, and curfews, and at one stage lockdown, since mid-March. These have originated from the Ministry of Health, Ministry of Local Government, and the Office of the Prime Minister, who has increasingly handled the government emergency response through the Cabinet. All of these decrees have originated from the executive, without direct vote from the legislature. The legislature continues to meet, but less regularly and with social distancing measures.
-
-The lockdown on March 21 indeed affected the parliamentary meetings , which were held online, and the first time the Parliament convened since the partial lift of the Lockdown was on an extraordinary session on May 13 ''to allow to vote on and allow the Government to take loans meant to hasten the distribution of electricity''.
+ The government has made several proclamations limiting movement, enforcing social distancing rules, and curfews, and at one stage lockdown, since mid-March. These have originated from the Ministry of Health, Ministry of Local Government, and the Office of the Prime Minister, who has increasingly handled the government emergency response through the Cabinet. All of these decrees have originated from the executive, without direct vote from the legislature. The legislature ceded decree powers to the executive by inaction, since it has not intervened to require the executive to declare a state of emergency or specific legal framework for adopting Covid-19 restrictions. 
+The legislature continues to meet, but less regularly and with social distancing measures.The lockdown on March 21 indeed affected the parliamentary meetings, which were held online, and the first time the Parliament convened since the partial lift of the Lockdown was on an extraordinary session on May 13 ''to allow to vote on and allow the Government to take loans meant to hasten the distribution of electricity''. 
+
  
 
 *Sources*:
- International
+ https://ancl-radc.org.za/node/630
+
+https://www.garda.com/crisis24/news-alerts/394011/rwanda-covid-19-restrictions-extended-until-november-11-update-17
+
+https://www.constituteproject.org/constitution/Rwanda_2015.pdf?lang=en
+
+International
 IDEA
 Parliaments
 in
 the
-pandemic
-https://twitter.com/PrimatureRwanda/status/1241412264193937412
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Cabinet_Communique_-01-04-2020_.pdf
-https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19
-https://allafrica.com/stories/202005140238.html
-https://www.newtimes.co.rw/news/extraordinary-parliamentary-session-whats-agenda
+pandemic
+https://twitter.com/PrimatureRwanda/status/1241412264193937412
+https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Cabinet_Communique_-01-04-2020_.pdf
+
+https://www.gov.rw/cabinet-resolutions
+https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19
+https://allafrica.com/stories/202005140238.html
+https://www.newtimes.co.rw/news/extraordinary-parliamentary-session-whats-agenda
 https://www.youtube.com/watch?v=Ra3C7HlFGMg
 
 
@@ -290,15 +370,22 @@ https://www.youtube.com/watch?v=Ra3C7HlFGMg
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -323,8 +410,15 @@ https://www.youtube.com/watch?v=Ra3C7HlFGMg
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -354,22 +448,36 @@ https://www.youtube.com/watch?v=Ra3C7HlFGMg
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The measures are overall uniform, except for a few cases, such as: 
-''Transport between different provinces and the city of Kigali is permitted, except for movement to and from Rusizi and Rubavu districts. Public transport in Rusizi and Rubavu districts remains closed. Motos may carry passengers, except in Rusizi and Rubavu districts.'' 
+ The measures in March-June were overall uniform, including the lockdown, except for a few cases: ''Transport between different provinces and the city of Kigali is permitted, except for movement to and from Rusizi and Rubavu districts. Public transport in Rusizi and Rubavu districts remains closed. Motos may carry passengers, except in Rusizi and Rubavu districts.''
+
+Between July-September, the nationwide night curfew remained, but there were a few subnational differences in the measures: there was a local lockdown in six areas in Nyamagabe and Nyamasheke and travel restrictions were increased in Kigali and the western district of Rusizi, with public transport in and out of the capital being banned. The situation and the measures are similar for October and November, with a change in the night curfew hours.  
+
+ 
 
 *Sources*:
- https://www.afro.who.int/news/covid-19-rwanda-countrys-response
-https://www.aa.com.tr/en/africa/rwanda-sets-fines-for-violating-covid-19-measures/1962023
-https://www.rbc.gov.rw/fileadmin/user_upload/annoucement/GoR-MOH%20statement%20final.pdf
-https://twitter.com/NewTimesRwanda/status/1241421501192077314
-https://rw.usembassy.gov/health-alert-covid-19-information/
-https://www.theigc.org/blog/rwandas-response-to-covid-19-and-future-challenges/
-https://www.dw.com/en/coronavirus-rwanda-imposes-africas-first-lockdown/a-52878787
-https://www.garda.com/crisis24/news-alerts/321106/rwanda-public-gatherings-banned-in-kigali-due-to-coronavirus-march-8
+ https://www.afro.who.int/news/covid-19-rwanda-countrys-response
+https://www.aa.com.tr/en/africa/rwanda-sets-fines-for-violating-covid-19-measures/1962023
+https://www.rbc.gov.rw/fileadmin/user_upload/annoucement/GoR-MOH%20statement%20final.pdf
+https://twitter.com/NewTimesRwanda/status/1241421501192077314
+https://rw.usembassy.gov/health-alert-covid-19-information/
+https://www.theigc.org/blog/rwandas-response-to-covid-19-and-future-challenges/
+https://www.dw.com/en/coronavirus-rwanda-imposes-africas-first-lockdown/a-52878787
+https://www.garda.com/crisis24/news-alerts/321106/rwanda-public-gatherings-banned-in-kigali-due-to-coronavirus-march-8
+https://www.garda.com/crisis24/news-alerts/360751/rwanda-lockdowns-extended-in-nyamagabe-and-nyamasheke-until-july-29-update-11
 
+https://www.garda.com/crisis24/news-alerts/373201/rwanda-curfew-extended-and-additional-restrictions-introduced-on-august-26-following-surge-in-covid-19-cases-update-14
+https://www.garda.com/crisis24/news-alerts/388626/rwanda-covid-19-curfew-hours-reduced-from-october-12-update-16
 
 
 
@@ -393,10 +501,13 @@ https://www.garda.com/crisis24/news-alerts/321106/rwanda-public-gatherings-banne
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -404,12 +515,11 @@ Time period: *Jul-Sep*: 0
  No discrimination based on these rights. 
 
 *Sources*:
- https://www.poverty-action.org/blog/reach-covid-19-crisis-rwanda-lessons-recovr-survey
-https://www.rbc.gov.rw/fileadmin/user_upload/annoucement/GoR-MOH%20statement%20final.pdf
-https://twitter.com/NewTimesRwanda/status/1241421501192077314
-https://www.theigc.org/blog/rwandas-response-to-covid-19-and-future-challenges/
-https://www.dw.com/en/coronavirus-rwanda-imposes-africas-first-lockdown/a-52878787
-
+ https://www.poverty-action.org/blog/reach-covid-19-crisis-rwanda-lessons-recovr-survey
+https://www.rbc.gov.rw/fileadmin/user_upload/annoucement/GoR-MOH%20statement%20final.pdf
+https://twitter.com/NewTimesRwanda/status/1241421501192077314
+https://www.theigc.org/blog/rwandas-response-to-covid-19-and-future-challenges/
+https://www.dw.com/en/coronavirus-rwanda-imposes-africas-first-lockdown/a-52878787
 
 
 
@@ -438,10 +548,13 @@ https://www.dw.com/en/coronavirus-rwanda-imposes-africas-first-lockdown/a-528787
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -449,12 +562,11 @@ Time period: *Jul-Sep*: 0
  No violation of non-derogable rights. 
 
 *Sources*:
- https://www.poverty-action.org/blog/reach-covid-19-crisis-rwanda-lessons-recovr-survey
-https://www.rbc.gov.rw/fileadmin/user_upload/annoucement/GoR-MOH%20statement%20final.pdf
-https://twitter.com/NewTimesRwanda/status/1241421501192077314
-https://www.theigc.org/blog/rwandas-response-to-covid-19-and-future-challenges/
-https://www.dw.com/en/coronavirus-rwanda-imposes-africas-first-lockdown/a-52878787
-
+ https://www.poverty-action.org/blog/reach-covid-19-crisis-rwanda-lessons-recovr-survey
+https://www.rbc.gov.rw/fileadmin/user_upload/annoucement/GoR-MOH%20statement%20final.pdf
+https://twitter.com/NewTimesRwanda/status/1241421501192077314
+https://www.theigc.org/blog/rwandas-response-to-covid-19-and-future-challenges/
+https://www.dw.com/en/coronavirus-rwanda-imposes-africas-first-lockdown/a-52878787
 
 
 
@@ -478,16 +590,24 @@ https://www.dw.com/en/coronavirus-rwanda-imposes-africas-first-lockdown/a-528787
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No de jure media limitations found in the emergency measures. However, the lockdown of March 21 (1) did not include the media in the essential services that are exempted from the movement restrictions. 
 
 *Sources*:
  https://twitter.com/PrimatureRwanda/status/1241412264193937412/photo/1
-(1)
-https://twitter.com/NewTimesRwanda/status/1241421501192077314
-https://www.theigc.org/blog/rwandas-response-to-covid-19-and-future-challenges/
+(1)
+https://twitter.com/NewTimesRwanda/status/1241421501192077314
+https://www.theigc.org/blog/rwandas-response-to-covid-19-and-future-challenges/
 https://ipi.media/covid19-media-freedom-monitoring/
 
 
@@ -500,15 +620,22 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -526,15 +653,22 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -562,22 +696,23 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- No incidents in relation to coverage of the nature of covid19. 
-
-But the media system is facing cernsorship: ..''censorship is ubiquitous and self-censorship is widely used to avoid running afoul of the regime. Foreign journalists are often unable to obtain the visas and accreditation they need to report in Rwanda. Despite a new media law in 2010 and efforts to develop Internet connections throughout the country, the legislation is very oppressive. An overhaul of the penal code in 2018 did not reform prison sentences for journalists convicted of insult or defamation. The spectre of the 1994 genocide is still used to brand media critical of the government as “divisionist.” In 2015, the government banned BBC radio broadcasting in the local Kinyarwanda language after a BBC TV documentary referred to the deaths that took place during the advance on Kigali in 1994 by Rwandan Patriotic Front rebels led by Paul Kagame, now Rwanda’s president. Kagame’s reelection in August 2017, after a constitutional amendment allowed him to run for a third term, means that authoritarianism and censorship are likely to continue for the foreseeable future.'' 
+ The media system is facing cernsorship: ..''censorship is ubiquitous and self-censorship is widely used to avoid running afoul of the regime. Foreign journalists are often unable to obtain the visas and accreditation they need to report in Rwanda. Despite a new media law in 2010 and efforts to develop Internet connections throughout the country, the legislation is very oppressive. An overhaul of the penal code in 2018 did not reform prison sentences for journalists convicted of insult or defamation. The spectre of the 1994 genocide is still used to brand media critical of the government as “divisionist.” In 2015, the government banned BBC radio broadcasting in the local Kinyarwanda language after a BBC TV documentary referred to the deaths that took place during the advance on Kigali in 1994 by Rwandan Patriotic Front rebels led by Paul Kagame, now Rwanda’s president. Kagame’s reelection in August 2017, after a constitutional amendment allowed him to run for a third term, means that authoritarianism and censorship are likely to continue for the foreseeable future.'' 
 
 *Sources*:
- https://rsf.org/en/rwanda
-https://ipi.media/covid19-media-freedom-monitoring/
-https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
+ https://rsf.org/en/rwanda
+https://ipi.media/covid19-media-freedom-monitoring/
+https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
 http://rwandansrights.org/rwanda-the-coronavirus-pandemic-is-not-an-excuse-to-trample-on-freedom-of-press/
 
 
@@ -590,7 +725,7 @@ http://rwandansrights.org/rwanda-the-coronavirus-pandemic-is-not-an-excuse-to-tr
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -600,10 +735,13 @@ http://rwandansrights.org/rwanda-the-coronavirus-pandemic-is-not-an-excuse-to-tr
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -622,19 +760,18 @@ Also: ''TV director Hassan had notably finished a sensitive report investigating
 
 *Sources*:
  https://twitter.com/PrimatureRwanda/status/1241412264193937412/photo/1
-(1)
-https://rsf.org/en/rwanda
-https://ipi.media/covid19-media-freedom-monitoring/
-http://www.rfi.fr/en/africa/20200430-covid-19-making-media-africa-great-lakes-region-sick-tanzania-rwanda-uganda
-https://twitter.com/RIB_Rw/status/1250480771229499392?s=20
-http://www.rfi.fr/fr/afrique/20200415-confinement-rwanda-arrestation-plusieurs-blogueurs-et-journalistes
-https://www.hrw.org/fr/news/2020/04/24/rwanda-vague-darrestations-et-dabus-lies-au-confinement
-https://www.hrw.org/news/2020/04/24/rwanda-lockdown-arrests-abuses-surge
-https://cpj.org/2020/05/rwandan-journalist-media-worker-detained-since-mid/
-https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
-http://rwandansrights.org/rwanda-the-coronavirus-pandemic-is-not-an-excuse-to-trample-on-freedom-of-press/
-https://www.africanews.com/2020/07/16/rwanda-records-first-virus-death-govt-rethinks-easing-restrictions//
-
+(1)
+https://rsf.org/en/rwanda
+https://ipi.media/covid19-media-freedom-monitoring/
+http://www.rfi.fr/en/africa/20200430-covid-19-making-media-africa-great-lakes-region-sick-tanzania-rwanda-uganda
+https://twitter.com/RIB_Rw/status/1250480771229499392?s=20
+http://www.rfi.fr/fr/afrique/20200415-confinement-rwanda-arrestation-plusieurs-blogueurs-et-journalistes
+https://www.hrw.org/fr/news/2020/04/24/rwanda-vague-darrestations-et-dabus-lies-au-confinement
+https://www.hrw.org/news/2020/04/24/rwanda-lockdown-arrests-abuses-surge
+https://cpj.org/2020/05/rwandan-journalist-media-worker-detained-since-mid/
+https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
+http://rwandansrights.org/rwanda-the-coronavirus-pandemic-is-not-an-excuse-to-trample-on-freedom-of-press/
+https://www.africanews.com/2020/07/16/rwanda-records-first-virus-death-govt-rethinks-easing-restrictions//
 
 
 
@@ -656,31 +793,29 @@ https://www.africanews.com/2020/07/16/rwanda-records-first-virus-death-govt-reth
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The emergency measures and particularly the lockdown of March 21 (1) did not exempt journalists from moving freely to work, as it did not include the media in the essential services that are exempted from the movement restrictions. (1)
+ The emergency measures and particularly the lockdown of March 21 (1) did not exempt journalists from moving freely to work, as it did not include the media in the essential services that are exempted from the movement restrictions. (1)
 The lockdown was eased in May, but after a rise in coronavirus cases it is since then being re-imposed in selected areas. 
 
 *Sources*:
  https://twitter.com/PrimatureRwanda/status/1241412264193937412/photo/1
-(1)
-https://rsf.org/en/rwanda
-https://ipi.media/covid19-media-freedom-monitoring/
-http://www.rfi.fr/en/africa/20200430-covid-19-making-media-africa-great-lakes-region-sick-tanzania-rwanda-uganda
-https://twitter.com/RIB_Rw/status/1250480771229499392?s=20
-http://www.rfi.fr/fr/afrique/20200415-confinement-rwanda-arrestation-plusieurs-blogueurs-et-journalistes
-https://www.hrw.org/fr/news/2020/04/24/rwanda-vague-darrestations-et-dabus-lies-au-confinement
-https://www.hrw.org/news/2020/04/24/rwanda-lockdown-arrests-abuses-surge
-https://cpj.org/2020/05/rwandan-journalist-media-worker-detained-since-mid/
-https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
-http://rwandansrights.org/rwanda-the-coronavirus-pandemic-is-not-an-excuse-to-trample-on-freedom-of-press/
-https://www.africanews.com/2020/07/16/rwanda-records-first-virus-death-govt-rethinks-easing-restrictions//
+(1)
+https://rsf.org/en/rwanda
+https://ipi.media/covid19-media-freedom-monitoring/
+http://www.rfi.fr/en/africa/20200430-covid-19-making-media-africa-great-lakes-region-sick-tanzania-rwanda-uganda
+https://twitter.com/RIB_Rw/status/1250480771229499392?s=20
+http://www.rfi.fr/fr/afrique/20200415-confinement-rwanda-arrestation-plusieurs-blogueurs-et-journalistes
+https://www.hrw.org/fr/news/2020/04/24/rwanda-vague-darrestations-et-dabus-lies-au-confinementhttps://www.hrw.org/news/2020/04/24/rwanda-lockdown-arrests-abuses-surgehttps://cpj.org/2020/05/rwandan-journalist-media-worker-detained-since-mid/https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/http://rwandansrights.org/rwanda-the-coronavirus-pandemic-is-not-an-excuse-to-trample-on-freedom-of-press/https://www.africanews.com/2020/07/16/rwanda-records-first-virus-death-govt-rethinks-easing-restrictions//
 
 
 
@@ -699,34 +834,46 @@ https://www.africanews.com/2020/07/16/rwanda-records-first-virus-death-govt-reth
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 2
+*Time period: Q2*: 2
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
- The emergency measures and particularly the lockdown of March 21 (1) did not exempt journalists from moving freely to work, as it did not include the media in the essential services that are exempted from the movement restrictions. (1) This measure prevented journalists from reporting in the field, and from access to information.
+ The emergency measures and particularly the lockdown of March 21 (1) did not exempt journalists from moving freely to work, as it did not include the media in the essential services that are exempted from the movement restrictions. (1) This measure prevented journalists from reporting in the field, and from access to information.
 The lockdown was eased in May, but after a rise in coronavirus cases it is since then being re-imposed in selected areas. 
 
 *Sources*:
  https://twitter.com/PrimatureRwanda/status/1241412264193937412/photo/1
-(1)
-https://rsf.org/en/rwanda
-https://ipi.media/covid19-media-freedom-monitoring/
-http://www.rfi.fr/en/africa/20200430-covid-19-making-media-africa-great-lakes-region-sick-tanzania-rwanda-uganda
-https://twitter.com/RIB_Rw/status/1250480771229499392?s=20
-http://www.rfi.fr/fr/afrique/20200415-confinement-rwanda-arrestation-plusieurs-blogueurs-et-journalistes
-https://www.hrw.org/fr/news/2020/04/24/rwanda-vague-darrestations-et-dabus-lies-au-confinement
-https://www.hrw.org/news/2020/04/24/rwanda-lockdown-arrests-abuses-surge
-https://cpj.org/2020/05/rwandan-journalist-media-worker-detained-since-mid/
-https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
-http://rwandansrights.org/rwanda-the-coronavirus-pandemic-is-not-an-excuse-to-trample-on-freedom-of-press/
+(1)
+
+https://rsf.org/en/rwandahttps://ipi.media/covid19-media-freedom-monitoring/
+
+http://www.rfi.fr/en/africa/20200430-covid-19-making-media-africa-great-lakes-region-sick-tanzania-rwanda-uganda
+
+https://twitter.com/RIB_Rw/status/1250480771229499392?s=20
+
+http://www.rfi.fr/fr/afrique/20200415-confinement-rwanda-arrestation-plusieurs-blogueurs-et-journalistes
+
+https://www.hrw.org/fr/news/2020/04/24/rwanda-vague-darrestations-et-dabus-lies-au-confinement
+
+https://www.hrw.org/news/2020/04/24/rwanda-lockdown-arrests-abuses-surge
+
+https://cpj.org/2020/05/rwandan-journalist-media-worker-detained-since-mid/
+
+https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
+
+http://rwandansrights.org/rwanda-the-coronavirus-pandemic-is-not-an-excuse-to-trample-on-freedom-of-press/
+
 https://www.africanews.com/2020/07/16/rwanda-records-first-virus-death-govt-rethinks-easing-restrictions//
 
 
@@ -749,10 +896,13 @@ https://www.africanews.com/2020/07/16/rwanda-records-first-virus-death-govt-reth
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -760,12 +910,15 @@ Time period: *Jul-Sep*: 0
  No verbal harassment reports. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://www.hrw.org/news/2020/04/24/rwanda-lockdown-arrests-abuses-surge
-https://cpj.org/2020/05/rwandan-journalist-media-worker-detained-since-mid/
-https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
-http://rwandansrights.org/rwanda-the-coronavirus-pandemic-is-not-an-excuse-to-trample-on-freedom-of-press/
+ https://ipi.media/covid19-media-freedom-monitoring/
 
+https://www.hrw.org/news/2020/04/24/rwanda-lockdown-arrests-abuses-surge
+
+https://cpj.org/2020/05/rwandan-journalist-media-worker-detained-since-mid/
+
+https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
+
+http://rwandansrights.org/rwanda-the-coronavirus-pandemic-is-not-an-excuse-to-trample-on-freedom-of-press/
 
 
 
@@ -787,10 +940,13 @@ http://rwandansrights.org/rwanda-the-coronavirus-pandemic-is-not-an-excuse-to-tr
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -805,16 +961,27 @@ Also: ''At least four bloggers were arrested in Rwanda earlier this month for vi
 Also: ''TV director Hassan had notably finished a sensitive report investigating the impact of Rwanda’s lockdown measures on locals in poor districts. “These journalists were asking questions about why authorities were demolishing homes deemed unstable in working class areas without compensating their occupants,” Laurent Munyandilikirwa, head of Rwanda’s Observatory for human rights told RFI. The government argues the measure was to protect inhabitants from torrential rains, but Munyandilikirwa says their homes were never located in flood-prone areas to begin with. “They (the journalists) crossed the red line by seeking the truth,” believes the rights defender, who has urged the government to release any media professional detained for their Covid-19 coverage.'' 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-http://www.rfi.fr/en/africa/20200430-covid-19-making-media-africa-great-lakes-region-sick-tanzania-rwanda-uganda
-https://twitter.com/RIB_Rw/status/1250480771229499392?s=20
-http://www.rfi.fr/fr/afrique/20200415-confinement-rwanda-arrestation-plusieurs-blogueurs-et-journalistes
-https://www.hrw.org/fr/news/2020/04/24/rwanda-vague-darrestations-et-dabus-lies-au-confinement
-https://www.hrw.org/news/2020/04/24/rwanda-lockdown-arrests-abuses-surge
-https://cpj.org/2020/05/rwandan-journalist-media-worker-detained-since-mid/
-https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
-http://rwandansrights.org/rwanda-the-coronavirus-pandemic-is-not-an-excuse-to-trample-on-freedom-of-press/
+ https://www.africanews.com/2020/08/07/rwanda-s-extreme-covid-19-prevention-tactics//
 
+https://ipi.media/covid19-media-freedom-monitoring/
+
+http://www.rfi.fr/en/africa/20200430-covid-19-making-media-africa-great-lakes-region-sick-tanzania-rwanda-uganda
+
+https://twitter.com/RIB_Rw/status/1250480771229499392?s=20
+
+http://www.rfi.fr/fr/afrique/20200415-confinement-rwanda-arrestation-plusieurs-blogueurs-et-journalistes
+
+https://www.hrw.org/fr/news/2020/04/24/rwanda-vague-darrestations-et-dabus-lies-au-confinement
+
+https://www.hrw.org/news/2020/04/24/rwanda-lockdown-arrests-abuses-surge
+
+https://cpj.org/2020/05/rwandan-journalist-media-worker-detained-since-mid/
+
+https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
+
+http://rwandansrights.org/rwanda-the-coronavirus-pandemic-is-not-an-excuse-to-trample-on-freedom-of-press/
+https://monitor.civicus.org/updates/2020/09/09/multiple-journalists-arrested-throughout-covid-19-lockdown-period/
+http://apanews.net/en/news/rwandan-two-journalists-arrested-for-breaking-covid-19-curfew
 
 
 
@@ -838,20 +1005,27 @@ http://rwandansrights.org/rwanda-the-coronavirus-pandemic-is-not-an-excuse-to-tr
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- In agreement with WHO guidlines. 
+ In agreement with WHO guidlines. Also, on the use of chloroquine, Rwandan authorities in March had informed the public that chloroquine has not proven yet to be effective, and that updates would follow in collaboration with WHO (4). 
 
 *Sources*:
- https://www.rbc.gov.rw/index.php?id=707
-https://moh.gov.rw/index.php?id=575
+ https://www.rbc.gov.rw/index.php?id=707
+
+https://moh.gov.rw/index.php?id=575
+
 https://www.afro.who.int/news/covid-19-rwanda-countrys-response
+http://www.rwandafda.gov.rw/web/fileadmin/13Circular.pdf
+(4)
 
 
 
@@ -875,24 +1049,33 @@ https://www.afro.who.int/news/covid-19-rwanda-countrys-response
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
  There have been reports of the police killing two persons, but it is not very clear whether this was to enforce lockdown measures - Rwandan police has rejected these accusations. For this reason, but also because it is only this incident reported, coding is 1 (although allegedly with lethal outcomes).
 
-''Rwandan police shot and killed two people who attacked officers while on routine patrol. ''People should not confuse the measures taken to prevent the spread of Covid-19 with this unfortunate incident,'' the police said on Twitter.'' 
+''Rwandan police shot and killed two people who attacked officers while on routine patrol. ''People should not confuse the measures taken to prevent the spread of Covid-19 with this unfortunate incident,'' the police said on Twitter.''
+No more incidents were found after the March-June period. 
 
 *Sources*:
- http://www.xinhuanet.com/english/2020-04/05/c_138949296.htm
-https://www.bloomberg.com/news/articles/2020-06-21/tanzanian-president-faces-rare-challenge-for-party-nomination
-https://allafrica.com/stories/202003260464.html
-https://www.france24.com/en/20200328-virus-prevention-measures-turn-violent-in-parts-of-africa
+ https://www.africanews.com/2020/08/07/rwanda-s-extreme-covid-19-prevention-tactics//
 
+http://www.xinhuanet.com/english/2020-04/05/c_138949296.htm
+
+https://www.bloomberg.com/news/articles/2020-06-21/tanzanian-president-faces-rare-challenge-for-party-nomination
+
+https://allafrica.com/stories/202003260464.html
+
+https://www.france24.com/en/20200328-virus-prevention-measures-turn-violent-in-parts-of-africa
+https://www.hrw.org/news/2020/04/24/rwanda-lockdown-arrests-abuses-surge
 
 
 
@@ -904,7 +1087,7 @@ https://www.france24.com/en/20200328-virus-prevention-measures-turn-violent-in-p
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -914,10 +1097,13 @@ https://www.france24.com/en/20200328-virus-prevention-measures-turn-violent-in-p
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -926,29 +1112,3 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  https://twitter.com/NewTimesRwanda/status/1241421501192077314
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

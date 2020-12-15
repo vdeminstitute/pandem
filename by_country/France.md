@@ -1,9 +1,6 @@
 # France 
 
 
-Time 2020-09-02 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-02
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,14 +25,25 @@ Time 2020-09-02
  7. Other.
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- On Monday March 23, 2020, the French Parliament adopted an emergency law establishing a “health state of emergency,” declared for a period of two months from March 24, 2020 to May 24, 2020 (Emergency Law No. 2020-290 of March 23, 2020 to deal with the Covid-19 epidemic) (the “Emergency Law”). (6)
+ On Monday March 23, 2020, the French Parliament adopted an emergency law establishing a health state of emergency, initially declared for a period of two months from March 24, 2020 to May 24, 2020, and extended until July 10 2020, when it was lifted (Emergency Law No. 2020-290 of March 23, 2020 - The “Emergency Law”) (6). 
 
-''The French Constitution (1958) and primary law deals with emergency situations by virtue of three sets of provisions, i) 'presidential exceptional powers' (Article 16 of the Constitution), ii) the 'state of siege' (Article 36 of the Constitution and Article L. 2121-1 of the Defence Code),  and iii) the 'state of emergency' (Law No 55-385 of 1955). 
+On 11 July a new law came into effect (LOI n° 2020-856 du 9 juillet 2020 (9)) that outlined the conditions for lifting  the state of health emergency and organizing the transition  period. This law contained several restrictions on civil liberties such as that  the  Prime  Minister could still be allowed to regulate gatherings and movement, and to close establishments. This law was brought before the Constitutional Council, which ruled the Law was according to the Constitution, but noted that the powers of the PM to regulate or prohibit the movement of people and vehicles under certain conditions can only be pronounced for the period from 11 July to 30 October 2020 and only in areas with a high circulation of  the  virus, and cannot prohibit people from leaving their homes. (8).
 
-Despite this existing legal framework, the Emergency Law No. 2020-290 of March 23, 2020 is new legislation. This law adds several provisions to the nation’s Public Health Code (8) , allowing the executive to declare a “state of health emergency” (état d’urgence sanitaire) in all or part of the country, and defining what that entails. A state of health emergency allows the government to severely curtail certain liberties in order to fight a pandemic or similar public health emergency. ''
+On  17  October  2020, the health  state  of  emergency was reinstated in  France (10), based on the Public Health Code and through the Decree No.2020-1257 that indicates that the Covid-19 epidemic constitutes a health crisis in France (8). 
+
+Although the French Constitution (1958) and primary law deals with emergency situations by virtue of three sets of provisions: (i) 'presidential exceptional powers' (Article 16 of the Constitution), ii) the 'state of siege' (Article 36 of the Constitution and Article L. 2121-1 of the Defence Code),  and iii) the 'state of emergency' (Law No 55-385 of 1955)), the Emergency Law No. 2020-290 of March 23, 2020 is new legislation. 
+This law adds several provisions to the nation’s Public Health Code (8), allowing the executive to declare a “state of health emergency” in all or part of the country, and defining what that entails. A state of health emergency allows the government to severely curtail certain liberties in order to fight a pandemic or similar public health emergency. ''
 The new Emergency Law is temporary, and it is due to expire entirely by April 1, 2021. It also needs the approval of the legislature if it is going to be implemented for more than 1 month.
 
 ''These provisions supplement a preexisting article of the Public Health Code, article 3131-1, which allows the minister of health to order “any measure proportionate to the risks and appropriate to the circumstances … to prevent and limit the consequences” of a serious health threat to the population. This provision was considered inadequate on its own to deal with a crisis such as the current COVID-19 pandemic, as it placed almost the entire burden of the response on the minister of health. The new provisions, by contrast, are meant to create a more solid and comprehensive framework that involves the entire government.'' (5) 
@@ -43,25 +51,34 @@ The new Emergency Law is temporary, and it is due to expire entirely by April 1,
 *Sources*:
  https://www.legifrance.gouv.fr/affichCode.do;jsessionid=ED7D7E3350C7E021A155E1D07DB5FFDC.tplgfr24s_2?cidTexte=LEGITEXT000006072665&idSectionTA=LEGISCTA000041748550&dateTexte=20200420&categorieLien=id#LEGISCTA000041748550
 (1)
-
+
 https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
 (2)
-
+
 http://constitutionnet.org/state-of-emergency
 (3)
-
+
 https://www.concurrences.com/en/bulletin/news-issues/may-2020-ii-en/the-french-parliament-adopts-an-emergency-law-establishing-a-health-state-of
 (4)
-
+
 https://www.loc.gov/law/foreign-news/article/france-government-adopts-law-declaring-and-defining-a-state-of-health-emergency/
-(5)
+(5)
+
 https://www.gide.com/sites/default/files/gide_clientalert_covid19_ofi_loiurgence_en_mar2020_0.pdf
 (6)
-
+
 http://codes.droit.org/CodV3/sante_publique.pdf
 /
 https://perma.cc/A2H2-YTQW
 (7)
+https://fra.europa.eu/sites/default/files/fra_uploads/fr_report_on_coronavirus_pandemic_november_2020_.pdf
+(8)
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042101318?r=MKyvM6sgBA
+(9)
+
+https://www.gouvernement.fr/partage/11776-conference-de-presse-sur-l-application-des-mesures-contre-la-covid-19
+(10)
 
 
 
@@ -80,16 +97,34 @@ https://perma.cc/A2H2-YTQW
 *Scale*: Character string.
 
  
-*Answer*: Public Health Code (updated on March 2020 to adjust to states of health emergency) 
+*Time period: Q2*: Public Health Code (updated on March 2020 to adjust to states of health emergency)
+
+ 
+*Time period: Q3*: Constitution;  decision of the Constitutional Council n ° 2020-803 DC of July 9, 2020
+
+ 
+*Time period: Q4*: Public Health Code (updated on March 2020 to adjust to states of health emergency)
+
+ 
 
 *Comments*:
- Based on the Public Health Code, Emergency Law No. 2020-290 of March 23, 2020 was passed to deal with the Covid-19 epidemic) (the “Emergency Law”). 
+ Based on the Public Health Code, Emergency Law No. 2020-290 of March 23, 2020 was passed to deal with the Covid-19 epidemic) (the “Emergency Law”).
+Constitution and Constitutional Council decision n ° 2020-803 DC of July 9, 2020
+Law extending the second state of health emergency for the period October-December: LOI n° 2020-1379 du 14 novembre 2020 autorisant la prorogation de l'état d'urgence sanitaire et portant diverses mesures de gestion de la crise sanitaire (4) 
 
 *Sources*:
- https://www.loc.gov/law/foreign-news/article/france-government-adopts-law-declaring-and-defining-a-state-of-health-emergency/
+ https://www.loc.gov/law/foreign-news/article/france-government-adopts-law-declaring-and-defining-a-state-of-health-emergency/
 http://codes.droit.org/CodV3/sante_publique.pdf
-
+
 https://perma.cc/A2H2-YTQW
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042520662
+(4)
+
+https://fra.europa.eu/sites/default/files/fra_uploads/fr_report_on_coronavirus_pandemic_november_2020_.pdf
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042101318?r=MKyvM6sgBA
+
+https://www.gouvernement.fr/partage/11776-conference-de-presse-sur-l-application-des-mesures-contre-la-covid-19
 
 
 
@@ -108,26 +143,48 @@ https://perma.cc/A2H2-YTQW
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-23 
+*Time period: Q2*: 2020-03-23
+
+ 
+*Time period: Q3*: 2020-07-11
+
+ 
+*Time period: Q4*: 2020-10-17
+
+ 
 
 *Comments*:
- On Monday March 23, 2020, the French Parliament adopted an emergency law establishing a “health state of emergency,” declared for a period of two months from March 24, 2020 to May 24, 2020. 
+ On Monday March 23, 2020, the French Parliament adopted an emergency law establishing a “health state of emergency,” declared for a period of two months from March 24, 2020 to May 24, 2020, extended and lifted on July 10 2020. 
+On 11 July a new law came into effect (LOI n° 2020-856 du 9 juillet 2020 that outlined the conditions for lifting  the state of health emergency and organizing the transition  period, valid between 11 July to 30 October 2020. 
+Due to a second wave of covid19, the state of health emergency was re-instituted on October 17 initially by decree (6), and later on, on November 5, the Assemblée Nationale voted in favour of extending the state of emergency until February 16 2021 (7, 8). 
 
 *Sources*:
  https://www.legifrance.gouv.fr/affichCode.do;jsessionid=ED7D7E3350C7E021A155E1D07DB5FFDC.tplgfr24s_2?cidTexte=LEGITEXT000006072665&idSectionTA=LEGISCTA000041748550&dateTexte=20200420&categorieLien=id#LEGISCTA000041748550
 (1)
-
+
 https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
 (2)
-
+
 https://www.concurrences.com/en/bulletin/news-issues/may-2020-ii-en/the-french-parliament-adopts-an-emergency-law-establishing-a-health-state-of
 (3)
-
+
 https://www.loc.gov/law/foreign-news/article/france-government-adopts-law-declaring-and-defining-a-state-of-health-emergency/
 (4)
-
+
 https://www.gide.com/sites/default/files/gide_clientalert_covid19_ofi_loiurgence_en_mar2020_0.pdf
 (5)
+https://www.reuters.com/article/us-health-coronavirus-france-emergency-idUSKBN26Z2PQ
+(6)
+https://www.connexionfrance.com/French-news/France-to-extend-state-of-health-emergency-amid-record-cases-of-Covid-19-and-Macron-warning
+(7)
+https://www.aa.com.tr/en/europe/france-extends-covid-19-state-of-emergency-to-feb-16/2032593
+(8)
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042520662
+(9)
+
+https://fra.europa.eu/sites/default/files/fra_uploads/fr_report_on_coronavirus_pandemic_november_2020_.pdf
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042101318?r=MKyvM6sgBA
 
 
 
@@ -146,17 +203,30 @@ https://www.gide.com/sites/default/files/gide_clientalert_covid19_ofi_loiurgence
 *Scale*: Date format.
 
  
-*Answer*: 2020-07-10 
+*Time period: Q2*: 2020-07-10
+
+ 
+*Time period: Q3*: 2020-10-16
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- France lifted the state of emergency on July 10, 2020. The emergency law, initially declared until May 24, 2020, had been prolonged for 2 extra months, until July 24, 2020. 
+ France lifted the (first) state of emergency on July 10, 2020. The emergency law, initially declared until May 24, 2020, had been prolonged for 2 extra months, until July 24, 2020.
+The law lifting the state of emegrency and organizing the transition period was valid between July 11 and October 30.  
+The second state of health emergency was delcared on October 17 2020 until February 16 2021. 
 
 *Sources*:
- https://www.service-public.fr/particuliers/actualites/A14175
-https://sante.journaldesfemmes.fr/fiches-maladies/2627081-etat-urgence-sanitaire-date-fin-france-prolongation-italie-signification-loi-duree-coronavirus/
-https://www.garda.com/crisis24/news-alerts/349541/france-authorities-to-end-covid-19-emergency-health-powers-on-july-10-update-28
-https://www.voanews.com/covid-19-pandemic/france-will-roll-back-special-government-powers-july-10
+ https://fra.europa.eu/sites/default/files/fra_uploads/fr_report_on_coronavirus_pandemic_november_2020_.pdf
+
+
+https://www.voanews.com/covid-19-pandemic/france-will-roll-back-special-government-powers-july-10
 https://www.france24.com/fr/20200611-covid-19-en-france-l-%C3%A9tat-d-urgence-sanitaire-lev%C3%A9-le-10-juillet-puis-4-mois-de-transition
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042520662
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042101318?r=MKyvM6sgBA
 
 
 
@@ -178,15 +248,28 @@ https://www.france24.com/fr/20200611-covid-19-en-france-l-%C3%A9tat-d-urgence-sa
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- On Monday March 23, 2020, the French Parliament adopted an emergency law establishing a “health state of emergency,” or a sanitary emergency, declared for a period of two months from March 24, 2020 to May 24, 2020 (Emergency Law No. 2020-290 of March 23, 2020 to deal with the Covid-19 epidemic) (the “Emergency Law”). 
+ On Monday March 23, 2020, the French Parliament adopted an emergency law establishing a “health state of emergency,” declared initially for a period of two months, but extended until July 10 2020 (Emergency Law No. 2020-290 of March 23, 2020).
+The law lifting the state of emegrency and organizing the transition period was valid between July 11 and October 30.  
+The second state of health emergency was delcared on October 17 2020 until February 16, 2021. 
 
 *Sources*:
- https://www.legifrance.gouv.fr/affichCode.do;jsessionid=ED7D7E3350C7E021A155E1D07DB5FFDC.tplgfr24s_2?cidTexte=LEGITEXT000006072665&idSectionTA=LEGISCTA000041748550&dateTexte=20200420&categorieLien=id#LEGISCTA000041748550
-https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
-https://www.concurrences.com/en/bulletin/news-issues/may-2020-ii-en/the-french-parliament-adopts-an-emergency-law-establishing-a-health-state-of
+ https://fra.europa.eu/sites/default/files/fra_uploads/fr_report_on_coronavirus_pandemic_november_2020_.pdf
+
+
+https://www.legifrance.gouv.fr/affichCode.do;jsessionid=ED7D7E3350C7E021A155E1D07DB5FFDC.tplgfr24s_2?cidTexte=LEGITEXT000006072665&idSectionTA=LEGISCTA000041748550&dateTexte=20200420&categorieLien=id#LEGISCTA000041748550
+https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042101318?r=MKyvM6sgBA
 
 
 
@@ -198,22 +281,35 @@ https://www.concurrences.com/en/bulletin/news-issues/may-2020-ii-en/the-french-p
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-05-24 
+*Time period: Q2*: 2020-07-24
+
+ 
+*Time period: Q3*: 2020-10-30
+
+ 
+*Time period: Q4*: 2021-02-16
+
+ 
 
 *Comments*:
-*No comment provided* 
+ On Monday March 23, 2020, the French Parliament adopted an emergency law establishing a “health state of emergency,” declared initially for a period of two months, but extended until July 10 2020 (Emergency Law No. 2020-290 of March 23, 2020).
+The law lifting the state of emegrency and organizing the transition period was valid between July 11 and October 30.  
+The second state of health emergency was delcared on October 17 2020 until February 16, 2021. 
 
 *Sources*:
- https://www.legifrance.gouv.fr/affichCode.do;jsessionid=ED7D7E3350C7E021A155E1D07DB5FFDC.tplgfr24s_2?cidTexte=LEGITEXT000006072665&idSectionTA=LEGISCTA000041748550&dateTexte=20200420&categorieLien=id#LEGISCTA000041748550
-https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
-https://www.concurrences.com/en/bulletin/news-issues/may-2020-ii-en/the-french-parliament-adopts-an-emergency-law-establishing-a-health-state-of
+ https://fra.europa.eu/sites/default/files/fra_uploads/fr_report_on_coronavirus_pandemic_november_2020_.pdf
+
+
+https://www.legifrance.gouv.fr/affichCode.do;jsessionid=ED7D7E3350C7E021A155E1D07DB5FFDC.tplgfr24s_2?cidTexte=LEGITEXT000006072665&idSectionTA=LEGISCTA000041748550&dateTexte=20200420&categorieLien=id#LEGISCTA000041748550
+https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042101318?r=MKyvM6sgBA
 
 
 
@@ -225,7 +321,7 @@ https://www.concurrences.com/en/bulletin/news-issues/may-2020-ii-en/the-french-p
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -235,27 +331,39 @@ https://www.concurrences.com/en/bulletin/news-issues/may-2020-ii-en/the-french-p
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Public Health Code, Chapitre Ier bis : Etat d'urgence sanitaire - Article L3131-13: 
-''L'état d'urgence sanitaire est déclaré par décret en conseil des ministres pris sur le rapport du ministre chargé de la santé. Ce décret motivé détermine la ou les circonscriptions territoriales à l'intérieur desquelles il
-entre en vigueur et reçoit application. Les données scientifiques disponibles sur la situation sanitaire qui ont motivé la décision sont rendues publiques. L'Assemblée nationale et le Sénat sont informés sans délai des mesures prises par le Gouvernement au titre de l'état d'urgence sanitaire. L'Assemblée nationale et le Sénat peuvent requérir toute information complémentaire dans le cadre du contrôle et de l'évaluation de ces mesures. La prorogation de l'état d'urgence sanitaire au delà d'un mois ne peut être autorisée que par la loi, après avis du comité de scientifiques prévu à l'article L. 3131-19.'' (1, 1.1)
+ According to the French Public Health Code (Chapitre Ier bis : Etat d'urgence sanitaire - Article L3131-13):
+''The state of health emergency is declared by decree in the Council of Ministers taken on the report of the minister responsible for health...The National Assembly and the Senate are immediately informed of the measures taken by the Government under the state of health emergency. The National Assembly and the Senate may request any additional information in the context of monitoring and evaluating these measures. The extension of the state of health emergency beyond one month can only be authorized by law, after the opinion of the scientific committee provided for in Article L. 3131-19. ''(1, 1.1) 
 
-''While the President of the Republic can declare a state of health emergency by decree, he/she must immediately inform the Senate and the National Assembly of the measures the executive intends to take, as well as make public the scientific data on whose basis the health emergency was declared. The Senate and National Assembly may demand any additional information they deem necessary. Additionally, a state of health emergency may be extended beyond a period of one month only by a law properly adopted by the Parliament, and any measure taken by the government during a state of health emergency may be challenged before the country’s administrative jurisdictions.'' (4) 
+The law of July 11 2020 also needed the approval of the Constitutional Court and the National Assembly.
+ 
 
 *Sources*:
  http://codes.droit.org/CodV3/sante_publique.pdf
 (1)
-
+
 https://perma.cc/A2H2-YTQW
 (1.1)
-
+
 https://www.connexionfrance.com/French-news/Covid-19-France-declares-state-of-health-emergency-after-law-voted-through-by-MPs-and-Senators-Assemblee-Nationale
 (2)
-
+
 https://www.loc.gov/law/foreign-news/article/france-government-adopts-law-declaring-and-defining-a-state-of-health-emergency/
 (3)
+
+https://fra.europa.eu/sites/default/files/fra_uploads/fr_report_on_coronavirus_pandemic_november_2020_.pdf
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042101318?r=MKyvM6sgBA
 
 
 
@@ -277,17 +385,34 @@ https://www.loc.gov/law/foreign-news/article/france-government-adopts-law-declar
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- 'The French Assemblée National approved on 21.03.2020 a legal text that would introduce a “state of health emergency” in France during the coronavirus pandemic.
+ The French Assemblée National approved on 21.03.2020 a legal text that would introduce a “state of health emergency” in France during the coronavirus pandemic.
 The law would give the French prime minister “the power to declare, by decree and upon recommendation of the Health minister, general measures setting limits to the freedom of movement, the freedom to enterprise and the freedom to congregate and would allow him to proceed to the requisition of all necessary goods and services to fight against a health disaster.”
-The text was voted after several hours of debate in the French parliament and includes measures that would reduce private liberties (such as confinement and requisitions).'' 
+
+The law of July 11 was approved by the Constitutional Court and the National Assembly on July 9 2020.
+The second state of health emergency was voted by Assemblee Nationale on November 5, 2020. 
 
 *Sources*:
  https://www.euronews.com/2020/03/21/french-parliament-declares-state-of-sanitary-emergency
-
+
 http://www.rfi.fr/en/france/20200512-french-constitutional-council-passes-emergency-health-law-but-raises-privacy-concerns-covid-19-human-rights-lockdown
+https://www.aa.com.tr/en/europe/france-extends-covid-19-state-of-emergency-to-feb-16/2032593
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042520662
+
+https://fra.europa.eu/sites/default/files/fra_uploads/fr_report_on_coronavirus_pandemic_november_2020_.pdf
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042101318?r=MKyvM6sgBA
 
 
 
@@ -307,19 +432,32 @@ http://www.rfi.fr/en/france/20200512-french-constitutional-council-passes-emerge
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- The Emergency Law gives the executive the powers to rule by Decree in matters related to the pandemic. 
+ The Emergency Law gives the executive the powers to rule by Decree in matters related to the pandemic, although the approval of the law by Parliament is required. 
+The new law of 11 July (LOI n° 2020-856 du 9 juillet 2020 (9)) that outlined the conditions for lifting  the state of health emergency and organizing the transition  period indicated, after a decision by the Constitutional Court, that the Prime Minister may, by decree issued on the report of the Minister responsible for health, in the interest of public health and for the sole purpose of controlling the spread of the covid-19 epidemic, regulate or prohibit the movement of people and vehicles under certain conditions can only be pronounced for the period from 11 July to 30 October 2020 and only in areas with a high circulation of the virus, and cannot prohibit people from leaving their homes. 
 
 *Sources*:
- https://www.loc.gov/law/foreign-news/article/france-government-adopts-law-declaring-and-defining-a-state-of-health-emergency/;
+ https://www.loc.gov/law/foreign-news/article/france-government-adopts-law-declaring-and-defining-a-state-of-health-emergency/
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042101318?r=MKyvM6sgBA
+
+https://fra.europa.eu/sites/default/files/fra_uploads/fr_report_on_coronavirus_pandemic_november_2020_.pdf
 
 
 
@@ -331,15 +469,22 @@ http://www.rfi.fr/en/france/20200512-french-constitutional-council-passes-emerge
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -364,8 +509,15 @@ http://www.rfi.fr/en/france/20200512-french-constitutional-council-passes-emerge
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -395,19 +547,27 @@ http://www.rfi.fr/en/france/20200512-french-constitutional-council-passes-emerge
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  The Emergency Law applied to the whole territory. However, there are a few areas, depending on the spread of the virus, where different measures apply. 
 
 *Sources*:
- https://www.bbc.com/news/topics/cx1m7zg0gylt/morocco
-https://www.france24.com/en/20200731-new-rules-in-parts-of-france-as-new-coronavirus-cases-crop-up
-https://www.connexionfrance.com/French-news/Covid-19-France-declares-state-of-health-emergency-after-law-voted-through-by-MPs-and-Senators-Assemblee-Nationale
-http://constitutionnet.org/state-of-emergency
-https://www.loc.gov/law/foreign-news/article/france-government-adopts-law-declaring-and-defining-a-state-of-health-emergency/
-
-
+ https://www.bbc.com/news/topics/cx1m7zg0gylt/morocco
+https://www.france24.com/en/20200731-new-rules-in-parts-of-france-as-new-coronavirus-cases-crop-up
+https://www.connexionfrance.com/French-news/Covid-19-France-declares-state-of-health-emergency-after-law-voted-through-by-MPs-and-Senators-Assemblee-Nationale
+http://constitutionnet.org/state-of-emergency
+https://www.loc.gov/law/foreign-news/article/france-government-adopts-law-declaring-and-defining-a-state-of-health-emergency/
+https://www.reuters.com/article/us-health-coronavirus-france-emergency-idUSKBN26Z2PQ
+https://www.bbc.com/news/world-europe-53934952
 
 
 
@@ -431,15 +591,18 @@ https://www.loc.gov/law/foreign-news/article/france-government-adopts-law-declar
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- 'The available information suggests that the enforcement of measures to combat the COVID-19 pandemic in France had a disproportionate impact on members of racialized groups and residents of working class
+ The available information suggests that the enforcement of measures to combat the COVID-19 pandemic in France had a disproportionate impact on members of racialized groups and residents of working class
 neighbourhoods.'' (1)
 
 ''In Germany, Cyprus and Serbia, asylum-seekers, refugees and migrants in camps were targeted with selective quarantines, and with forced evictions in France and Greece.'' (4)
@@ -452,13 +615,13 @@ neighbourhoods.'' (1)
 
 *Sources*:
  https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-(1)
+(1)
 https://www.hrw.org/news/2020/05/15/france-end-discriminatory-police-checks-and-fines
-(2)
+(2)
 https://www.france24.com/en/20200421-violence-flares-in-tense-paris-suburbs-as-heavy-handed-lockdown-stirs-explosive-cocktail
-(3)
+(3)
 https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/report-lockdowns-enforced-more-harshly-on-minorities/1888645
-(4)
+(4)
 https://www.theguardian.com/world/2020/jun/24/policing-of-european-covid-19-lockdowns-shows-racial-bias-report
 
 
@@ -488,10 +651,13 @@ https://www.theguardian.com/world/2020/jun/24/policing-of-european-covid-19-lock
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -499,8 +665,8 @@ Time period: *Jul-Sep*: 0
  No, but there is a report by Amnesty Intl on law enforcement officials resorting to the unlawful use of force while enforcing the measures, which in some instances may amount to inhuman or degrading treatment.'' 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-https://www.connexionfrance.com/French-news/Covid-19-France-declares-state-of-health-emergency-after-law-voted-through-by-MPs-and-Senators-Assemblee-Nationale
+ https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
+https://www.connexionfrance.com/French-news/Covid-19-France-declares-state-of-health-emergency-after-law-voted-through-by-MPs-and-Senators-Assemblee-Nationale
 https://www.loc.gov/law/foreign-news/article/france-government-adopts-law-declaring-and-defining-a-state-of-health-emergency/
 
 
@@ -525,14 +691,22 @@ https://www.loc.gov/law/foreign-news/article/france-government-adopts-law-declar
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No de jure media limitations. 
 
 *Sources*:
- https://www.gouvernement.fr/en/coronavirus-covid-19
-http://constitutionnet.org/state-of-emergency
+ https://www.gouvernement.fr/en/coronavirus-covid-19
+http://constitutionnet.org/state-of-emergency
 https://www.legifrance.gouv.fr/affichCode.do;jsessionid=ED7D7E3350C7E021A155E1D07DB5FFDC.tplgfr24s_2?cidTexte=LEGITEXT000006072665&idSectionTA=LEGISCTA000041748550&dateTexte=20200420&categorieLien=id#LEGISCTA000041748550
 
 
@@ -545,15 +719,22 @@ https://www.legifrance.gouv.fr/affichCode.do;jsessionid=ED7D7E3350C7E021A155E1D0
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -571,15 +752,22 @@ https://www.legifrance.gouv.fr/affichCode.do;jsessionid=ED7D7E3350C7E021A155E1D0
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -607,19 +795,22 @@ https://www.legifrance.gouv.fr/affichCode.do;jsessionid=ED7D7E3350C7E021A155E1D0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- On the contrary, authorities seek to strengthen freedom of expression for journalists, and enhance transparency. 
+ No relevant evidence was found. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/europe/france/
+ https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/europe/france/
 https://www.ecpmf.eu/?s=covid19
 
 
@@ -632,7 +823,7 @@ https://www.ecpmf.eu/?s=covid19
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -642,19 +833,22 @@ https://www.ecpmf.eu/?s=covid19
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No such instances mentioned. 
+ No relevant evidence was found. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/europe/france/
+ https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/europe/france/
 https://www.ecpmf.eu/?s=covid19
 
 
@@ -677,20 +871,27 @@ https://www.ecpmf.eu/?s=covid19
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No such instances mentioned. 
+ In November, a bill was discussed that would have limited the rights of journalists and others to take pictures of the police. However, after protests, it was dropped. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/europe/france/
+ https://www.france24.com/en/france/20201130-french-parliament-drops-draft-law-curtailing-right-to-film-police
+
+https://ipi.media/covid19-media-freedom-monitoring/
+https://cpj.org/europe/france/
 https://www.ecpmf.eu/?s=covid19
+
+
 
 
 
@@ -709,23 +910,28 @@ https://www.ecpmf.eu/?s=covid19
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No such instances mentioned. 
+ No relevant evidence was found. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/europe/france/
+ https://ipi.media/covid19-media-freedom-monitoring/
+
+https://cpj.org/europe/france/
+
 https://www.ecpmf.eu/?s=covid19
 
 
@@ -748,19 +954,24 @@ https://www.ecpmf.eu/?s=covid19
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No such instances mentioned. 
+ No relevant evidence was found. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/europe/france/
+ https://ipi.media/covid19-media-freedom-monitoring/
+
+https://cpj.org/europe/france/
+
 https://www.ecpmf.eu/?s=covid19
 
 
@@ -783,19 +994,24 @@ https://www.ecpmf.eu/?s=covid19
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No such instances mentioned. 
+ No relevant evidence was found. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/europe/france/
+ https://ipi.media/covid19-media-freedom-monitoring/
+
+https://cpj.org/europe/france/
+
 https://www.ecpmf.eu/?s=covid19
 
 
@@ -820,10 +1036,13 @@ https://www.ecpmf.eu/?s=covid19
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -831,8 +1050,10 @@ Time period: *Jul-Sep*: 0
  The French government national information resources website on Covid19 is in line with WHO guidlines. 
 
 *Sources*:
- https://www.gouvernement.fr/en/coronavirus-covid-109
-https://www.ecdc.europa.eu/en/COVID-19/national-sources
+ https://www.gouvernement.fr/en/coronavirus-covid-109
+
+https://www.ecdc.europa.eu/en/COVID-19/national-sources
+
 https://www.thelancet.com/action/showPdf?pii=S1470-2045%2820%2930204-7
 
 
@@ -857,15 +1078,20 @@ https://www.thelancet.com/action/showPdf?pii=S1470-2045%2820%2930204-7
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- There have been several reports on police violence in France with reference to the pandemic and the enforcement of lockdown measures during the March-June 2020 period. 
+ There have been several reports on police violence in France with reference to the pandemic and the enforcement of lockdown measures. The situation is ongoing by November 2020. 
+
+“On 28 November, police officers have been filmed beating up a Black men after catching him without a mask on the the street'' (8, 9).
 
 ''The COVID-19 pandemic further revealed the heavy policing and the recurrent unlawful use of force in urban areas in France....'' 
 Moreover, in the cases documented by Amnesty International, law enforcement officials resorted to the unlawful use of force while enforcing the measures, which in some instances may amount to inhuman or degrading treatment.'' (2)
@@ -874,17 +1100,25 @@ Amnesty International verified 15 videos of instances of unlawful use of force a
  ''There are several cases of police brutality in the context of Covid-19 and to date two people from racialised groups have died at the hands of the police, in France and in Belgium. (Mohamed Gabsi, 33 years old, who died on 8 April 2020 in France.)'' (1) 
 
 *Sources*:
- https://www.enar-eu.org/Evidence-of-the-impact-of-Covid-19-on-racialised-communities-exposes-need-to;
-(1)
+ https://www.enar-eu.org/Evidence-of-the-impact-of-Covid-19-on-racialised-communities-exposes-need-to
+(1)
+
 https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-(2)
-https://www.euronews.com/2020/05/07/amnesty-slams-alleged-police-brutality-in-french-lockdown-enforcement;
-
-https://www.independent.co.uk/news/world/europe/police-abuse-brutality-racism-lockdown-protests-france-paris-a9556386.html;
-
-http://www.rfi.fr/en/france/20200512-covid19-france-paris;
-https://www.justiceinitiative.org/newsroom/amid-covid-19-lockdown-justice-initiative-calls-for-end-to-excessive-police-checks-in-france;
+(2)
+
+https://www.euronews.com/2020/05/07/amnesty-slams-alleged-police-brutality-in-french-lockdown-enforcement
+
+https://www.independent.co.uk/news/world/europe/police-abuse-brutality-racism-lockdown-protests-france-paris-a9556386.html
+
+http://www.rfi.fr/en/france/20200512-covid19-france-paris
+
+https://www.justiceinitiative.org/newsroom/amid-covid-19-lockdown-justice-initiative-calls-for-end-to-excessive-police-checks-in-france
+
 https://www.dw.com/en/in-lockdown-migrants-in-france-up-against-pandemic-police-abuse/a-53334045
+https://www.dw.com/en/paris-police-officers-suspended-over-beating-of-black-man/a-55737900
+(8)
+https://abcnews.go.com/International/wireStory/paris-police-suspended-beating-black-man-74416095
+(9)
 
 
 
@@ -896,7 +1130,7 @@ https://www.dw.com/en/in-lockdown-migrants-in-france-up-against-pandemic-police-
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -906,47 +1140,25 @@ https://www.dw.com/en/in-lockdown-migrants-in-france-up-against-pandemic-police-
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- Emmanuel Macron drafted the Frech army into the coronavirus efforts, but not in order to ensure confinement measures, but rather to help organize and support where the situation worsens, by tranferring patients etc.
-
-''The army will not be called upon to ensure the strict confinement of people as has been the case in some other countries, officials said. However, it will be used to protect strategic sites such as pharmacy depots and stockpiles of medical equipment and ventilators after a recent spate of thefts. 
+ Emmanuel Macron drafted the Frech army into the coronavirus efforts, but not in order to ensure confinement measures, but rather to help organize and support where the situation worsens, by tranferring patients etc.
+
+''The army will not be called upon to ensure the strict confinement of people as has been the case in some other countries, officials said. However, it will be used to protect strategic sites such as pharmacy depots and stockpiles of medical equipment and ventilators after a recent spate of thefts. 
 It will also broaden existing efforts to shuffle patients around the country and also in France’s overseas’ territories, where two warships were dispatched this week as the situation worsens there.'' 
 
 *Sources*:
- https://www.theguardian.com/world/video/2020/mar/26/emmanuel-macron-drafts-french-military-into-coronavirus-war-video
-https://www.france24.com/en/20200325-macron-launches-army-operation-resilience-to-support-fight-against-coronavirus
-https://www.reuters.com/article/us-health-coronavirus-france-army/french-army-moves-up-a-gear-in-war-against-coronavirus-idUSKBN21D2TY
+ https://www.theguardian.com/world/video/2020/mar/26/emmanuel-macron-drafts-french-military-into-coronavirus-war-video
 
+https://www.france24.com/en/20200325-macron-launches-army-operation-resilience-to-support-fight-against-coronavirus
 
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*
+https://www.reuters.com/article/us-health-coronavirus-france-army/french-army-moves-up-a-gear-in-war-against-coronavirus-idUSKBN21D2TY

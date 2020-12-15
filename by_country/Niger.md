@@ -1,9 +1,6 @@
 # Niger 
 
 
-Time 2020-09-03 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-03
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,19 +25,26 @@ Time 2020-09-03
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  Niger declared a nationwide state of emergency through a decree. 
-Although in some sources it is mentioned as a State of Public Health Emergency, and the President himself described it in a speech as such, in most official government sources it is described as a State of Emergency. 
-Also, the constitution does not differentiate between a state of emergency and a state of health emergency, but instead has provisions only for a state of emergency (therefore coded as 1). 
+It is often referred to as a State of Public Health Emergency, mainly due to the fact that Niger, and the rest of Sahel region, are under a state of emergency due to security reasons. 
+However, the constitution does not differentiate between a state of emergency and a state of health emergency, but instead has provisions only for a state of emergency (therefore coded as 1). 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/?location=&issue=5&date=&type=
-https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7ed1e4d6fbed7437b83edc/1585369575239/Communiqu%C3%A9_CM+du+vendredi+27+mars+2020_.pdf
-https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7eceb715eff3354ca7e9b9/1585368760730/MESSAGE+A+LA+NATION+DU+PRESIDENT+DE+LA+REPUBLIQUE+SUR+LA+SITUATION+DE+LA+PANDEMIE+DU+CORONAVIRUS+%28COVID-19%29+27+03+2020.pdf
-https://www.presidence.ne/discours-du-prsident/2020/3/27/4jdpnhvms74ecghmg4322p0kbhyptx
-https://www.constituteproject.org/constitution/Niger_2017.pdf?lang=en
+ https://www.icnl.org/covid19tracker/?location=&issue=5&date=&type=
+https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7ed1e4d6fbed7437b83edc/1585369575239/Communiqu%C3%A9_CM+du+vendredi+27+mars+2020_.pdf
+https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7eceb715eff3354ca7e9b9/1585368760730/MESSAGE+A+LA+NATION+DU+PRESIDENT+DE+LA+REPUBLIQUE+SUR+LA+SITUATION+DE+LA+PANDEMIE+DU+CORONAVIRUS+%28COVID-19%29+27+03+2020.pdf
+https://www.presidence.ne/discours-du-prsident/2020/3/27/4jdpnhvms74ecghmg4322p0kbhyptxhttps://www.constituteproject.org/constitution/Niger_2017.pdf?lang=en
 
 
 
@@ -59,18 +63,27 @@ https://www.constituteproject.org/constitution/Niger_2017.pdf?lang=en
 *Scale*: Character string.
 
  
-*Answer*: Constitution (2010), Articles 67, 68, 99, 105, 175;
-Law 98-024 of 1998, modified and updated by law 2015-07 of 2015 ( loi n° 98-024 du 11 août 1998, portant réglementation de l’état d’urgence, modifiée et complétée par la loi n° 2015-07 du 10 avril 2015) on the application of the provisions on emergency - extraordinary measures. 
+*Time period: Q2*: Constitution (2010), Articles 67, 68, 99, 105, 175;
+Law 98-024 of 1998, modified and updated by law 2015-07 of 2015 ( loi n° 98-024 du 11 août 1998, portant réglementation de l’état d’urgence, modifiée et complétée par la loi n° 2015-07 du 10 avril 2015) on the application of the provisions on emergency - extraordinary measures.
+
+ 
+*Time period: Q3*: Constitution (2010), Articles 67, 68, 99, 105, 175;
+Law 98-024 of 1998, modified and updated by law 2015-07 of 2015 ( loi n° 98-024 du 11 août 1998, portant réglementation de l’état d’urgence, modifiée et complétée par la loi n° 2015-07 du 10 avril 2015) on the application of the provisions on emergency - extraordinary measures.
+
+ 
+*Time period: Q4*: Constitution (2010), Articles 67, 68, 99, 105, 175;
+Law 98-024 of 1998, modified and updated by law 2015-07 of 2015 ( loi n° 98-024 du 11 août 1998, portant réglementation de l’état d’urgence, modifiée et complétée par la loi n° 2015-07 du 10 avril 2015) on the application of the provisions on emergency - extraordinary measures.
+
+ 
 
 *Comments*:
  Decree: MINISTERIAL COMMUNIQUE NO. 12/CM/2020 DECLARING A STATE OF EMERGENCY 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Niger_2017.pdf?lang=en
-https://www.icnl.org/covid19tracker/?location=&issue=5&date=&type=
-https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7ed1e4d6fbed7437b83edc/1585369575239/Communiqu%C3%A9_CM+du+vendredi+27+mars+2020_.pdf
-https://www.presidence.ne/discours-du-prsident/2020/3/27/4jdpnhvms74ecghmg4322p0kbhyptx
-
+ https://www.constituteproject.org/constitution/Niger_2017.pdf?lang=en
+https://www.icnl.org/covid19tracker/?location=&issue=5&date=&type=
+https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7ed1e4d6fbed7437b83edc/1585369575239/Communiqu%C3%A9_CM+du+vendredi+27+mars+2020_.pdf
+https://www.presidence.ne/discours-du-prsident/2020/3/27/4jdpnhvms74ecghmg4322p0kbhyptx
 
 
 
@@ -89,16 +102,23 @@ https://www.presidence.ne/discours-du-prsident/2020/3/27/4jdpnhvms74ecghmg4322p0
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-27 
+*Time period: Q2*: 2020-03-27
+
+ 
+*Time period: Q3*: 2020-03-27
+
+ 
+*Time period: Q4*: 2020-03-27
+
+ 
 
 *Comments*:
  Niger announced state of health emergency throughout the national territory on 27 March. 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/?location=&issue=5&date=&type=
-https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7ed1e4d6fbed7437b83edc/1585369575239/Communiqu%C3%A9_CM+du+vendredi+27+mars+2020_.pdf
-https://www.presidence.ne/discours-du-prsident/2020/3/27/4jdpnhvms74ecghmg4322p0kbhyptx
-
+ https://www.icnl.org/covid19tracker/?location=&issue=5&date=&type=
+https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7ed1e4d6fbed7437b83edc/1585369575239/Communiqu%C3%A9_CM+du+vendredi+27+mars+2020_.pdf
+https://www.presidence.ne/discours-du-prsident/2020/3/27/4jdpnhvms74ecghmg4322p0kbhyptx
 
 
 
@@ -117,22 +137,28 @@ https://www.presidence.ne/discours-du-prsident/2020/3/27/4jdpnhvms74ecghmg4322p0
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The nationwide state of emergency has been extended for a further period of three months from July 12, 2020, i.e. until till October 12, 2020.
+ The nationwide state of emergency was extended on October 10 for a period of three months, through January 10, 2021.
 It was Initially established on March 27 throughout the territory, and was extended for the first time on April 12 for three months.
 
 In addition, the Nigerien government decided on August 10 the further extension of the state of emergency to the locality of Kouré, where an attack took place in which eight people including six French aid workers were killed, and the entire Tillabéry region. 
 Other measures have been relaxed. 
 
 *Sources*:
- http://french.china.org.cn/foreign/txt/2020-07/11/content_76260431.htm
-https://www.niameyetles2jours.com/la-gestion-publique/sante/1307-5702-prorogation-de-l-etat-d-urgence-sur-le-territoire-nigerien-pour-une-duree-de-trois-mois
-http://www.faapa.info/blog/covid-19-prorogation-pour-trois-mois-de-letat-durgence-sanitaire-au-niger/
-https://www.france24.com/fr/20200811-assassinat-des-humanitaires-fran%C3%A7ais-au-niger-l-%C3%A9tat-d-urgence-%C3%A9largi-%C3%A0-kour%C3%A9
-https://www.aa.com.tr/fr/afrique/niger-%C3%A9tat-durgence-instaur%C3%A9-dans-toute-la-r%C3%A9gion-de-tillab%C3%A9ri-/1938141
+ https://www.garda.com/crisis24/news-alerts/387021/niger-authorities-extend-state-of-health-emergency-october-10-update-8
+https://ne.usembassy.gov/u-s-citizen-services/covid-19-information/
+https://www.france24.com/fr/20200811-assassinat-des-humanitaires-fran%C3%A7ais-au-niger-l-%C3%A9tat-d-urgence-%C3%A9largi-%C3%A0-kour%C3%A9
+https://www.aa.com.tr/fr/afrique/niger-%C3%A9tat-durgence-instaur%C3%A9-dans-toute-la-r%C3%A9gion-de-tillab%C3%A9ri-/1938141
 https://www.jeuneafrique.com/1027638/politique/niger-apres-lattaque-letat-durgence-elargi-a-koure/
 
 
@@ -155,17 +181,26 @@ https://www.jeuneafrique.com/1027638/politique/niger-apres-lattaque-letat-durgen
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- When the President declared a State of Emergency, he did not specify an end date (the specific measures like the curfew and the closing of services had a limit date).
-However, when the National Assembly approved the bill extending the state of emergency on April 11, 2020, a specifiied limit was added (July 11). 
+ When the President declared a State of Emergency, he did not specify an end date (the specific measures like the curfew and the closing of services had a limit date).However, when the National Assembly approved the bill extending the state of emergency on April 11, 2020, a specifiied limit was added (July 11).
+All later extensions of the state of emergency had a limit date: October 12 2020 and January 10 2021.
+ 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/?location=&issue=5&date=&type=
-https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7ed1e4d6fbed7437b83edc/1585369575239/Communiqu%C3%A9_CM+du+vendredi+27+mars+2020_.pdf
-https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7eceb715eff3354ca7e9b9/1585368760730/MESSAGE+A+LA+NATION+DU+PRESIDENT+DE+LA+REPUBLIQUE+SUR+LA+SITUATION+DE+LA+PANDEMIE+DU+CORONAVIRUS+%28COVID-19%29+27+03+2020.pdf
+ https://www.icnl.org/covid19tracker/?location=&issue=5&date=&type=https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7ed1e4d6fbed7437b83edc/1585369575239/Communiqu%C3%A9_CM+du+vendredi+27+mars+2020_.pdf
+https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7eceb715eff3354ca7e9b9/1585368760730/MESSAGE+A+LA+NATION+DU+PRESIDENT+DE+LA+REPUBLIQUE+SUR+LA+SITUATION+DE+LA+PANDEMIE+DU+CORONAVIRUS+%28COVID-19%29+27+03+2020.pdf
 https://www.presidence.ne/discours-du-prsident/2020/3/27/4jdpnhvms74ecghmg4322p0kbhyptx
+https://www.garda.com/crisis24/news-alerts/387021/niger-authorities-extend-state-of-health-emergency-october-10-update-8
 
 
 
@@ -177,24 +212,32 @@ https://www.presidence.ne/discours-du-prsident/2020/3/27/4jdpnhvms74ecghmg4322p0
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-07-11 
+*Time period: Q2*: 2020-07-11
+
+ 
+*Time period: Q3*: 2020-10-12
+
+ 
+*Time period: Q4*: 2021-01-10
+
+ 
 
 *Comments*:
- When the President declared a State of Emergency, he did not specify an end date (the specific measures like the curfew and the closing of services had a limit date).
-However, when the National Assembly approved the bill extending the state of emergency on April 11, 2020, a specifiied limit was added (July 11). 
+ When the President declared a State of Emergency, he did not specify an end date (the specific measures like the curfew and the closing of services had a limit date).However, when the National Assembly approved the bill extending the state of emergency on April 11, 2020, a specifiied limit was added (July 11).
+All later extensions of the state of emergency had a limit date: October 12 2020 and January 10 2021. 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/?location=&issue=5&date=&type=
-https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7ed1e4d6fbed7437b83edc/1585369575239/Communiqu%C3%A9_CM+du+vendredi+27+mars+2020_.pdf
-https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7eceb715eff3354ca7e9b9/1585368760730/MESSAGE+A+LA+NATION+DU+PRESIDENT+DE+LA+REPUBLIQUE+SUR+LA+SITUATION+DE+LA+PANDEMIE+DU+CORONAVIRUS+%28COVID-19%29+27+03+2020.pdf
+ https://www.icnl.org/covid19tracker/?location=&issue=5&date=&type=https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7ed1e4d6fbed7437b83edc/1585369575239/Communiqu%C3%A9_CM+du+vendredi+27+mars+2020_.pdf
+https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7eceb715eff3354ca7e9b9/1585368760730/MESSAGE+A+LA+NATION+DU+PRESIDENT+DE+LA+REPUBLIQUE+SUR+LA+SITUATION+DE+LA+PANDEMIE+DU+CORONAVIRUS+%28COVID-19%29+27+03+2020.pdf
 https://www.presidence.ne/discours-du-prsident/2020/3/27/4jdpnhvms74ecghmg4322p0kbhyptx
+https://www.garda.com/crisis24/news-alerts/387021/niger-authorities-extend-state-of-health-emergency-october-10-update-8
 
 
 
@@ -206,7 +249,7 @@ https://www.presidence.ne/discours-du-prsident/2020/3/27/4jdpnhvms74ecghmg4322p0
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -216,7 +259,15 @@ https://www.presidence.ne/discours-du-prsident/2020/3/27/4jdpnhvms74ecghmg4322p0
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  Article 67 Constitution - The National Assembly approves with an absolute majority of its members the duration of the exercise of the emergency powers and terminates them in the case of abuse. 
@@ -244,15 +295,32 @@ https://www.presidence.ne/discours-du-prsident/2020/3/27/4jdpnhvms74ecghmg4322p0
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The Nigerien legislature adopted unanimously (90 votes in favor, zero against and zero abstentions) on April 11, 2020 the bill extending the State of Emergency until July 11, 2020. 
-Note that when the President announced the declaration of the State of Emergency on March 27, 2020, he had not specified an end date. This was only added on April 11 when the bill passed from the National Assembly, and an extension until July 11 was given. The initial declaration did not require the approval of the Parliament. 
+ The Nigerien legislature adopted unanimously (90 votes in favor, zero against and zero abstentions) on April 11, 2020 the bill extending the State of Emergency until July 11, 2020. Note that when the President announced the declaration of the State of Emergency on March 27, 2020, he had not specified an end date. This was only added on April 11 when the bill passed from the National Assembly, and an extension until July 11 was given. The initial declaration did not require the approval of the Parliament.
+Nigerien Parliament approved the October's extension of the state of emergency for a period of three months until January 10 2021 (see 3). 
+The second extension, from July till October, was not voted in Parliament, but the government had already authorization of legislating by Ordinance during parliamentary inter-session periods: 
+''This draft ordinance is made in accordance with law n ° 2020-030 of July 2, 2020, empowering the Government to issue ordinances during parliamentary inter-session and this, after opinion of the Constitutional Court. '' (see 4, 5).
+ 
 
 *Sources*:
- http://www.lesahel.org/index.php/2020/04/14/assemblee-nationale-covid-19-les-parlementaires-adoptent-la-loi-portant-prorogation-de-letat-durgence-au-niger/
+ http://www.lesahel.org/index.php/2020/04/14/assemblee-nationale-covid-19-les-parlementaires-adoptent-la-loi-portant-prorogation-de-letat-durgence-au-niger/
 https://nigerinter.com/2020/04/assemblee-nationale-le-projet-de-loi-portant-prorogation-de-letat-durgence-adopte/
+http://www.anp.ne/article/niger-le-parlement-approuve-la-prorogation-de-l-etat-d-urgence-sanitaire-contre-la-covid-19
+(3)
+https://www.presidence.ne/conseils-des-ministres/2020/7/10/zef2pm594x9v69950g44z9sed4toqc
+(4)
+http://www.anp.ne/article/covid-19-prorogation-pour-trois-mois-de-l-etat-d-urgence-sanitaire-au-niger
+(5)
 
 
 
@@ -272,21 +340,32 @@ https://nigerinter.com/2020/04/assemblee-nationale-le-projet-de-loi-portant-pror
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- The Nigerien legislature adopted on April 11, 2020 the bill extending the State of Emergency until July 11, 2020: ''This law aims to give the government the means to deal with the health emergency constituted by the coronavirus pandemic in a strengthened legal framework adaptable to the circumstances. After having noted the pathogenic and contagious nature of the covid-19 virus and the public health emergency that the evolution of its spread entails, the government has decided to extend it for a period of three months the State of emergency for the whole territory of Niger.'' 
+ The Nigerien legislature adopted on April 11, 2020 the bill extending the State of Emergency until July 11, 2020: ''This law aims to give the government the means to deal with the health emergency constituted by the coronavirus pandemic in a strengthened legal framework adaptable to the circumstances.''
+The state of emergency has been extended twice since July 11, first until October 12 and currently running through January 10 2021. 
 
 *Sources*:
- http://www.lesahel.org/index.php/2020/04/14/assemblee-nationale-covid-19-les-parlementaires-adoptent-la-loi-portant-prorogation-de-letat-durgence-au-niger/
-https://nigerinter.com/2020/04/assemblee-nationale-le-projet-de-loi-portant-prorogation-de-letat-durgence-adopte/
+ http://www.lesahel.org/index.php/2020/04/14/assemblee-nationale-covid-19-les-parlementaires-adoptent-la-loi-portant-prorogation-de-letat-durgence-au-niger/
+https://nigerinter.com/2020/04/assemblee-nationale-le-projet-de-loi-portant-prorogation-de-letat-durgence-adopte/
 https://www.constituteproject.org/constitution/Niger_2017.pdf?lang=en
+https://ne.usembassy.gov/u-s-citizen-services/covid-19-information/
+https://www.garda.com/crisis24/news-alerts/387021/niger-authorities-extend-state-of-health-emergency-october-10-update-8
 
 
 
@@ -298,15 +377,22 @@ https://www.constituteproject.org/constitution/Niger_2017.pdf?lang=en
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -331,8 +417,15 @@ https://www.constituteproject.org/constitution/Niger_2017.pdf?lang=en
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -362,17 +455,26 @@ https://www.constituteproject.org/constitution/Niger_2017.pdf?lang=en
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 2 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The Nigerien government decided on August 10, 2020 the further extension of the state of emergency to the locality of Kouré, where an attack took place in which eight people including six French aid workers were killed, and the entire Tillabéry region. 
+ 'President Issoufou announced a state of emergency for the entire country, starting at midnight on March 28, 2020.  Additionally, a curfew from 7 p.m. to 6 a.m. will be in effect starting on March 28, 2020 for the city of Niamey. The city of Niamey will be subject to a health confinement for a period of two weeks starting March 29 at midnight.''
 
-''President Issoufou announced a state of emergency for the entire country, starting at midnight on March 28, 2020.  Additionally, a curfew from 7 p.m. to 6 a.m. will be in effect starting on March 28, 2020 for the city of Niamey.  The city of Niamey will be subject to a health confinement for a period of two weeks starting March 29 at midnight.  The measures will take place for two weeks and may be renewed by the government of Niger.'' 
+The Nigerien government decided on August 10, 2020 the further extension of the state of emergency to the locality of Kouré, where an attack took place in which eight people including six French aid workers were killed, and the entire Tillabéry region. 
+During October-December, restaurants, markets, stores, and all public schools are open.Wearing a mask is mandatory in Niamey in public places, markets, and urban transport. 
 
 *Sources*:
- https://www.france24.com/fr/20200811-assassinat-des-humanitaires-fran%C3%A7ais-au-niger-l-%C3%A9tat-d-urgence-%C3%A9largi-%C3%A0-kour%C3%A9
-https://www.aa.com.tr/fr/afrique/niger-%C3%A9tat-durgence-instaur%C3%A9-dans-toute-la-r%C3%A9gion-de-tillab%C3%A9ri-/1938141
-https://www.jeuneafrique.com/1027638/politique/niger-apres-lattaque-letat-durgence-elargi-a-koure/
+ https://www.france24.com/fr/20200811-assassinat-des-humanitaires-fran%C3%A7ais-au-niger-l-%C3%A9tat-d-urgence-%C3%A9largi-%C3%A0-kour%C3%A9
+https://www.aa.com.tr/fr/afrique/niger-%C3%A9tat-durgence-instaur%C3%A9-dans-toute-la-r%C3%A9gion-de-tillab%C3%A9ri-/1938141
+https://www.jeuneafrique.com/1027638/politique/niger-apres-lattaque-letat-durgence-elargi-a-koure/
 https://www.osac.gov/Country/Niger/Content/Detail/Report/6c42b05c-4a46-468e-9670-184fc373a5a5
 
 
@@ -397,10 +499,13 @@ https://www.osac.gov/Country/Niger/Content/Detail/Report/6c42b05c-4a46-468e-9670
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -408,9 +513,9 @@ Time period: *Jul-Sep*: 0
  There have been reports on discriminatory and non-proportionate measures against civil society activists, and detainees, but these do not relate to the grounds specified in this question. 
 
 *Sources*:
- https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7eceb715eff3354ca7e9b9/1585368760730/MESSAGE+A+LA+NATION+DU+PRESIDENT+DE+LA+REPUBLIQUE+SUR+LA+SITUATION+DE+LA+PANDEMIE+DU+CORONAVIRUS+%28COVID-19%29+27+03+2020.pdf
-https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-https://www.amnesty.org/en/latest/news/2020/03/niger-societe-civile-demandent-un-terme/
+ https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7eceb715eff3354ca7e9b9/1585368760730/MESSAGE+A+LA+NATION+DU+PRESIDENT+DE+LA+REPUBLIQUE+SUR+LA+SITUATION+DE+LA+PANDEMIE+DU+CORONAVIRUS+%28COVID-19%29+27+03+2020.pdf
+https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
+https://www.amnesty.org/en/latest/news/2020/03/niger-societe-civile-demandent-un-terme/
 https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
 
 
@@ -440,10 +545,13 @@ https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -451,9 +559,9 @@ Time period: *Jul-Sep*: 0
  No violation of non-derogable rights. 
 
 *Sources*:
- https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7eceb715eff3354ca7e9b9/1585368760730/MESSAGE+A+LA+NATION+DU+PRESIDENT+DE+LA+REPUBLIQUE+SUR+LA+SITUATION+DE+LA+PANDEMIE+DU+CORONAVIRUS+%28COVID-19%29+27+03+2020.pdf
-https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-https://www.amnesty.org/en/latest/news/2020/03/niger-societe-civile-demandent-un-terme/
+ https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7eceb715eff3354ca7e9b9/1585368760730/MESSAGE+A+LA+NATION+DU+PRESIDENT+DE+LA+REPUBLIQUE+SUR+LA+SITUATION+DE+LA+PANDEMIE+DU+CORONAVIRUS+%28COVID-19%29+27+03+2020.pdf
+https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
+https://www.amnesty.org/en/latest/news/2020/03/niger-societe-civile-demandent-un-terme/
 https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
 
 
@@ -478,14 +586,22 @@ https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No de jure media limitations. 
 
 *Sources*:
- https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7eceb715eff3354ca7e9b9/1585368760730/MESSAGE+A+LA+NATION+DU+PRESIDENT+DE+LA+REPUBLIQUE+SUR+LA+SITUATION+DE+LA+PANDEMIE+DU+CORONAVIRUS+%28COVID-19%29+27+03+2020.pdf
-https://ipi.media/covid19-media-freedom-monitoring/
+ https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7eceb715eff3354ca7e9b9/1585368760730/MESSAGE+A+LA+NATION+DU+PRESIDENT+DE+LA+REPUBLIQUE+SUR+LA+SITUATION+DE+LA+PANDEMIE+DU+CORONAVIRUS+%28COVID-19%29+27+03+2020.pdf
+https://ipi.media/covid19-media-freedom-monitoring/
 https://rsf.org/en/tracker19-Coronavirus-Covid19
 
 
@@ -498,15 +614,22 @@ https://rsf.org/en/tracker19-Coronavirus-Covid19
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -524,15 +647,22 @@ https://rsf.org/en/tracker19-Coronavirus-Covid19
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -560,17 +690,20 @@ https://rsf.org/en/tracker19-Coronavirus-Covid19
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- ...''there has been little change in the overall environment for the media and journalists. In a regional context marked by the fight against terrorism, visits by journalists to the most dangerous areas are still limited, and it is very hard to get information about terrorism or migration. Both Niger's authorities and certain international organizations are responsible for the restrictions on the release of information.'' (RSF)
-
-''on March 25 2020, Kaka Touda, an independent journalist who publishes news reports on his Facebook and Twitter pages, In Niger's capital Niamey, was arrested for his social media post about a suspected Coronavirus case in a local hospital, which filed a complaint against him. The hospital said in the complaint that the March 4 social media post posed a threat to law and order.''
+ ...''there has been little change in the overall environment for the media and journalists. In a regional context marked by the fight against terrorism, visits by journalists to the most dangerous areas are still limited, and it is very hard to get information about terrorism or migration. Both Niger's authorities and certain international organizations are responsible for the restrictions on the release of information.'' (RSF)
+
+''on March 25 2020, Kaka Touda, an independent journalist who publishes news reports on his Facebook and Twitter pages, In Niger's capital Niamey, was arrested for his social media post about a suspected Coronavirus case in a local hospital, which filed a complaint against him. The hospital said in the complaint that the March 4 social media post posed a threat to law and order.''
 Also: ''Niger police interrogate TV editor and journalist over interview, March 14, 2020: Judicial police in Niger summoned the editor-in-chief and a journalist of Television Labari, following an article the outlet published which interviewed a prominent veterinarian about the COVID-19 pandemic.'' 
 
 *Sources*:
@@ -585,14 +718,13 @@ https://rsf.org/en/niger
 
 
 
-
 ## Limitations on media reporting about the government response to Covid-19 (*merepgov*) 
 
 *Question*: Since 11 March 2020,  have the media faced  de-facto limitations on reporting about the government response to the Covid-19 pandemic?
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -602,25 +734,27 @@ https://rsf.org/en/niger
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- ...''there has been little change in the overall environment for the media and journalists. In a regional context marked by the fight against terrorism, visits by journalists to the most dangerous areas are still limited, and it is very hard to get information about terrorism or migration. Both Niger's authorities and certain international organizations are responsible for the restrictions on the release of information.'' (RSF)
-
-''on March 25 2020, Kaka Touda, an independent journalist who publishes news reports on his Facebook and Twitter pages, In Niger's capital Niamey, was arrested for his social media post about a suspected Coronavirus case in a local hospital, which filed a complaint against him. The hospital said in the complaint that the March 4 social media post posed a threat to law and order.''
+ ...''there has been little change in the overall environment for the media and journalists. In a regional context marked by the fight against terrorism, visits by journalists to the most dangerous areas are still limited, and it is very hard to get information about terrorism or migration. Both Niger's authorities and certain international organizations are responsible for the restrictions on the release of information.'' (RSF)
+
+''on March 25 2020, Kaka Touda, an independent journalist who publishes news reports on his Facebook and Twitter pages, In Niger's capital Niamey, was arrested for his social media post about a suspected Coronavirus case in a local hospital, which filed a complaint against him. The hospital said in the complaint that the March 4 social media post posed a threat to law and order.''
 Also: ''Niger police interrogate TV editor and journalist over interview, March 14, 2020: Judicial police in Niger summoned the editor-in-chief and a journalist of Television Labari, following an article the outlet published which interviewed a prominent veterinarian about the COVID-19 pandemic.'' 
 
 *Sources*:
- https://fr.unesco.org/news/information-desinformation-temps-covid-19-lunesco-renforce-capacites-journalistes-afrique
-https://ipi.media/covid19-media-freedom-monitoring/
-https://www.zimeye.net/2020/03/25/journalist-kaka-goni-arrested-in-niger-over-covid-19-report/
-https://globalvoices.org/2020/05/12/amid-covid-19-pandemic-in-niger-government-violates-whistleblowers-freedom-of-speech/#
-
+ https://fr.unesco.org/news/information-desinformation-temps-covid-19-lunesco-renforce-capacites-journalistes-afrique
+https://ipi.media/covid19-media-freedom-monitoring/
+https://www.zimeye.net/2020/03/25/journalist-kaka-goni-arrested-in-niger-over-covid-19-report/
+https://globalvoices.org/2020/05/12/amid-covid-19-pandemic-in-niger-government-violates-whistleblowers-freedom-of-speech/#
 
 
 
@@ -642,10 +776,13 @@ https://globalvoices.org/2020/05/12/amid-covid-19-pandemic-in-niger-government-v
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -653,9 +790,9 @@ Time period: *Jul-Sep*: 0
  No such evidence was found. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://www.zimeye.net/2020/03/25/journalist-kaka-goni-arrested-in-niger-over-covid-19-report/
-https://globalvoices.org/2020/05/12/amid-covid-19-pandemic-in-niger-government-violates-whistleblowers-freedom-of-speech/#
+ https://ipi.media/covid19-media-freedom-monitoring/
+https://www.zimeye.net/2020/03/25/journalist-kaka-goni-arrested-in-niger-over-covid-19-report/
+https://globalvoices.org/2020/05/12/amid-covid-19-pandemic-in-niger-government-violates-whistleblowers-freedom-of-speech/#
 
 
 
@@ -675,32 +812,35 @@ https://globalvoices.org/2020/05/12/amid-covid-19-pandemic-in-niger-government-v
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- ...there has been little change in the overall environment for the media and journalists. In a regional context marked by the fight against terrorism, visits by journalists to the most dangerous areas are still limited, and it is very hard to get information about terrorism or migration. Both Niger's authorities and certain international organizations are responsible for the restrictions on the release of information.'' (RSF)
-
-'on March 25 2020, Kaka Touda, an independent journalist who publishes news reports on his Facebook and Twitter pages, In Niger's capital Niamey, was arrested for his social media post about a suspected Coronavirus case in a local hospital, which filed a complaint against him. The hospital said in the complaint that the March 4 social media post posed a threat to law and order.''
-
-Also: ''Niger police interrogate TV editor and journalist over interview, March 14, 2020: Judicial police in Niger summoned the editor-in-chief and a journalist of Television Labari, following an article the outlet published which interviewed a prominent veterinarian about the COVID-19 pandemic.''
-
+ ...there has been little change in the overall environment for the media and journalists. In a regional context marked by the fight against terrorism, visits by journalists to the most dangerous areas are still limited, and it is very hard to get information about terrorism or migration. Both Niger's authorities and certain international organizations are responsible for the restrictions on the release of information.'' (RSF)
+
+'on March 25 2020, Kaka Touda, an independent journalist who publishes news reports on his Facebook and Twitter pages, In Niger's capital Niamey, was arrested for his social media post about a suspected Coronavirus case in a local hospital, which filed a complaint against him. The hospital said in the complaint that the March 4 social media post posed a threat to law and order.''
+
+Also: ''Niger police interrogate TV editor and journalist over interview, March 14, 2020: Judicial police in Niger summoned the editor-in-chief and a journalist of Television Labari, following an article the outlet published which interviewed a prominent veterinarian about the COVID-19 pandemic.''
+
 Also: ''From the testimony of a journalist from Niger, we learn, for example, that " a large part of the population still does not believe in the existence of the disease, as the population generally gives low credit to the disease. official information and in the current context, the media are subject to restrictions […] certain media have been arrested for having invited to television sets experts deemed 'unqualified' according to the health authority ”. (5) 
 
 *Sources*:
- https://rsf.org/en/niger
-https://ipi.media/covid19-media-freedom-monitoring/
-https://www.amnesty.org/en/latest/news/2020/03/niger-societe-civile-demandent-un-terme/
-https://www.zimeye.net/2020/03/25/journalist-kaka-goni-arrested-in-niger-over-covid-19-report/
-https://globalvoices.org/2020/05/12/amid-covid-19-pandemic-in-niger-government-violates-whistleblowers-freedom-of-speech/#
+ https://rsf.org/en/niger
+https://ipi.media/covid19-media-freedom-monitoring/
+https://www.amnesty.org/en/latest/news/2020/03/niger-societe-civile-demandent-un-terme/
+https://www.zimeye.net/2020/03/25/journalist-kaka-goni-arrested-in-niger-over-covid-19-report/
+https://globalvoices.org/2020/05/12/amid-covid-19-pandemic-in-niger-government-violates-whistleblowers-freedom-of-speech/#
 https://fr.unesco.org/news/information-desinformation-temps-covid-19-lunesco-renforce-capacites-journalistes-afrique
 (5)
 
@@ -724,25 +864,30 @@ https://fr.unesco.org/news/information-desinformation-temps-covid-19-lunesco-ren
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- on March 25 2020, Kaka Touda, an independent journalist who publishes news reports on his Facebook and Twitter pages, In Niger's capital Niamey, was arrested for his social media post about a suspected Coronavirus case in a local hospital, which filed a complaint against him. The hospital said in the complaint that the March 4 social media post posed a threat to law and order.''
+ 'Niger police interrogate TV editor and journalist over interview, March 14, 2020: Judicial police in Niger summoned the editor-in-chief and a journalist of Television Labari, following an article the outlet published which interviewed a prominent veterinarian about the COVID-19 pandemic.''
 
-Also: ''Niger police interrogate TV editor and journalist over interview, March 14, 2020: Judicial police in Niger summoned the editor-in-chief and a journalist of Television Labari, following an article the outlet published which interviewed a prominent veterinarian about the COVID-19 pandemic.''
+On March 25 2020, Kaka Touda, an independent journalist who publishes news reports on his Facebook and Twitter pages, In Niger's capital Niamey, was arrested for his social media post about a suspected Coronavirus case in a local hospital, which filed a complaint against him. The hospital said in the complaint that the March 4 social media post posed a threat to law and order.''
 
 Also: ''In the days before the demonstration, several journalists had been targeted: summoned by the police or arrested after speaking out or for conducting interviews related to the issue of the COVID-19 pandemic. One of them, Mamane Kaka Touda, journalist and human rights defender, is still detained, accused of "disseminating data which may disturb public order" simply for having shared information on the existence of a suspect case.'' 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/africa/niger/
-https://rsf.org/en/niger
-https://www.amnesty.org/en/latest/news/2020/03/niger-societe-civile-demandent-un-terme/
+ https://ipi.media/covid19-media-freedom-monitoring/
+
+https://cpj.org/africa/niger/https://rsf.org/en/niger
+
+https://www.amnesty.org/en/latest/news/2020/03/niger-societe-civile-demandent-un-terme/
+
 https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
 
 
@@ -765,25 +910,32 @@ https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabil
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- on March 25 2020, Kaka Touda, an independent journalist who publishes news reports on his Facebook and Twitter pages, In Niger's capital Niamey, was arrested for his social media post about a suspected Coronavirus case in a local hospital, which filed a complaint against him. The hospital said in the complaint that the March 4 social media post posed a threat to law and order.''
+ 'Niger police interrogate TV editor and journalist over interview, March 14, 2020: Judicial police in Niger summoned the editor-in-chief and a journalist of Television Labari, following an article the outlet published which interviewed a prominent veterinarian about the COVID-19 pandemic.''
 
-Also: ''Niger police interrogate TV editor and journalist over interview, March 14, 2020: Judicial police in Niger summoned the editor-in-chief and a journalist of Television Labari, following an article the outlet published which interviewed a prominent veterinarian about the COVID-19 pandemic.''
+On March 25 2020, Kaka Touda, an independent journalist who publishes news reports on his Facebook and Twitter pages, In Niger's capital Niamey, was arrested for his social media post about a suspected Coronavirus case in a local hospital, which filed a complaint against him. The hospital said in the complaint that the March 4 social media post posed a threat to law and order.''
 
 Also: ''In the days before the demonstration, several journalists had been targeted: summoned by the police or arrested after speaking out or for conducting interviews related to the issue of the COVID-19 pandemic. One of them, Mamane Kaka Touda, journalist and human rights defender, is still detained, accused of "disseminating data which may disturb public order" simply for having shared information on the existence of a suspect case.'' 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/africa/niger/
-https://rsf.org/en/niger
-https://www.amnesty.org/en/latest/news/2020/03/niger-societe-civile-demandent-un-terme/
+ https://ipi.media/covid19-media-freedom-monitoring/
+
+https://cpj.org/africa/niger/
+
+https://rsf.org/en/niger
+
+https://www.amnesty.org/en/latest/news/2020/03/niger-societe-civile-demandent-un-terme/
+
 https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
 
 
@@ -808,25 +960,28 @@ https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabil
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 2
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
 
  
 
 *Comments*:
  The Nigerien authorities have been using chloroquine since March in the treatment of covid19 patients. 
-In May, ''The Health Ministry decided to continue the medical care of patients with Covid-19 through the current protocol in force based on chloroquine associated with azithromycin. This, despite the recent publication of a study concluding that they are ineffective against this pandemic....For Niger, this treatment "  remains at this date the only alternative pending a new protocol  ", explains the government in a press release'' (1)
+In May, ''The Health Ministry decided to continue the medical care of patients with Covid-19 through the current protocol in force based on chloroquine associated with azithromycin. This, despite the recent publication of a study concluding that they are ineffective against this pandemic....For Niger, this treatment "remains at this date the only alternative pending a new protocol", explains the government in a press release'' (1)
 No evidence was found on whether the government changed its policy on the use of chloroquine after June.
  
 
 *Sources*:
  https://www.niameyetles2jours.com/la-gestion-publique/sante/0106-5510-coronavirus-le-niger-va-continuer-le-traitement-des-malades-avec-la-chloroquine
-(1)
-https://twitter.com/minsanteniger/status/1266458992039079938
-https://www.wasexo.bj/niger-covid-19-la-chloroquine-maintenue-dans-traitement-pandemie-ministre-sante/
-https://afriquedecryptages.wordpress.com/2020/07/03/circulation-et-commercialisation-de-chloroquine-en-afrique-de-louest-une-geopolitique-du-medicament-a-la-lumiere-du-covid-19/
+(1)
+https://twitter.com/minsanteniger/status/1266458992039079938
+https://www.wasexo.bj/niger-covid-19-la-chloroquine-maintenue-dans-traitement-pandemie-ministre-sante/
+https://afriquedecryptages.wordpress.com/2020/07/03/circulation-et-commercialisation-de-chloroquine-en-afrique-de-louest-une-geopolitique-du-medicament-a-la-lumiere-du-covid-19/
 
 
 
@@ -851,10 +1006,13 @@ https://afriquedecryptages.wordpress.com/2020/07/03/circulation-et-commercialisa
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -862,9 +1020,9 @@ Time period: *Jul-Sep*: 0
  A few incidents of police violence occurred during the March-June 2020 period. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/03/niger-societe-civile-demandent-un-terme/
-https://www.garda.com/crisis24/news-alerts/334861/niger-residents-in-niamey-protest-covid-19-measures-april-17-19-update-3
+ https://www.amnesty.org/en/latest/news/2020/03/niger-societe-civile-demandent-un-terme/
 
+https://www.garda.com/crisis24/news-alerts/334861/niger-residents-in-niamey-protest-covid-19-measures-april-17-19-update-3
 
 
 
@@ -876,7 +1034,7 @@ https://www.garda.com/crisis24/news-alerts/334861/niger-residents-in-niamey-prot
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -886,10 +1044,13 @@ https://www.garda.com/crisis24/news-alerts/334861/niger-residents-in-niamey-prot
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -897,31 +1058,6 @@ Time period: *Jul-Sep*: 0
  The police is charged and involved with enforcing the covid19 measures. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/334861/niger-residents-in-niamey-protest-covid-19-measures-april-17-19-update-3
+ https://www.garda.com/crisis24/news-alerts/334861/niger-residents-in-niamey-protest-covid-19-measures-april-17-19-update-3
+
 https://africa.cgtn.com/2020/04/22/niger-jails-10-after-violent-protests-against-coronavirus-lockdown/
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

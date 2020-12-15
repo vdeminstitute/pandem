@@ -1,9 +1,6 @@
 # Sudan 
 
 
-Time 2020-09-09 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-09
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,16 +25,31 @@ Time 2020-09-09
  7. Other.
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- Sudan's ruling sovereign council declared on March 16 a public health emergency. 
+ Sudan's ruling sovereign council declared on March 16 a public health emergency.
+ 
 
 *Sources*:
- https://allafrica.com/stories/202003240353.html
-
-https://www.garda.com/crisis24/news-alerts/323581/sudan-government-closes-borders-due-to-covid-19-on-march-16-update-1
-
+ https://allafrica.com/stories/202009170954.html
+
+https://allafrica.com/stories/202003240353.html
+
+
+
+https://www.garda.com/crisis24/news-alerts/323581/sudan-government-closes-borders-due-to-covid-19-on-march-16-update-1
+
+
+
 https://reliefweb.int/report/sudan/sudan-corona-virus-covid-19-country-preparedness-and-response-plan-cprp-may-2020
 
 
@@ -57,14 +69,24 @@ https://reliefweb.int/report/sudan/sudan-corona-virus-covid-19-country-preparedn
 *Scale*: Character string.
 
  
-*Answer*: State of Health Emergency 
+*Time period: Q2*: State of Health Emergency
+
+ 
+*Time period: Q3*: State of Health Emergency
+
+ 
+*Time period: Q4*: State of Health Emergency
+
+ 
 
 *Comments*:
  A State of Health Emergency is declared. This is supported by article 40 through 41 in the constitution, legal experts say. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Sudan_2019?lang=en
-
+ https://www.constituteproject.org/constitution/Sudan_2019?lang=en
+
+
+
 https://allafrica.com/stories/202003240353.html
 
 
@@ -84,16 +106,28 @@ https://allafrica.com/stories/202003240353.html
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-16 
+*Time period: Q2*: 2020-03-16
+
+ 
+*Time period: Q3*: 2020-03-16
+
+ 
+*Time period: Q4*: 2020-03-16
+
+ 
 
 *Comments*:
  A State of Helath Emergency is declared on 16 March. 
 
 *Sources*:
- https://allafrica.com/stories/202003240353.html
-
-https://www.garda.com/crisis24/news-alerts/323581/sudan-government-closes-borders-due-to-covid-19-on-march-16-update-1
-
+ https://allafrica.com/stories/202003240353.html
+
+
+
+https://www.garda.com/crisis24/news-alerts/323581/sudan-government-closes-borders-due-to-covid-19-on-march-16-update-1
+
+
+
 https://reliefweb.int/report/sudan/sudan-corona-virus-covid-19-country-preparedness-and-response-plan-cprp-may-2020
 
 
@@ -113,17 +147,30 @@ https://reliefweb.int/report/sudan/sudan-corona-virus-covid-19-country-preparedn
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- No information on an end date for the state of public health emergency was found, but the emergency measures are still ongoing, indicating that the state of public health emergency is also still in force. 
+ No information on an end date for the state of public health emergency was found. Some emergency measures are no longer ongoing, but the state of public health emergency seems to be still in force. 
 
 *Sources*:
- https://www.reuters.com/article/us-health-coronavirus-sudan/sudan-extends-lockdown-in-khartoum-state-to-june-29-idUSKBN23O3B3
-
-https://www.garda.com/crisis24/news-alerts/351691/sudan-authorities-extend-covid-19-lockdown-in-khartoum-until-june-29-update-12
-
+ https://allafrica.com/stories/202009170954.html
+
+https://www.reuters.com/article/us-health-coronavirus-sudan/sudan-extends-lockdown-in-khartoum-state-to-june-29-idUSKBN23O3B3
+
+
+
+https://www.garda.com/crisis24/news-alerts/351691/sudan-authorities-extend-covid-19-lockdown-in-khartoum-until-june-29-update-12
+
+
+
 https://reliefweb.int/map/sudan/covid-19-movement-restrictions-sudan-mobility-restriction-dashboard-8-18-june-2020
 
 
@@ -146,19 +193,34 @@ https://reliefweb.int/map/sudan/covid-19-movement-restrictions-sudan-mobility-re
  1. Yes.
 
  
+*Time period: Q2*: 0
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- No information on an end date for the state of public health emergency was found, but the emergency measures are still ongoing, indicating that the state of public health emergency is also still in force. 
+ No information on an end date for the state of public health emergency was found. Some emergency measures are no longer ongoing, but the state of public health emergency seems to be still in force. 
 
 *Sources*:
- https://www.reuters.com/article/us-health-coronavirus-sudan/sudan-extends-lockdown-in-khartoum-state-to-june-29-idUSKBN23O3B3
-
-https://www.garda.com/crisis24/news-alerts/351691/sudan-authorities-extend-covid-19-lockdown-in-khartoum-until-june-29-update-12
-
-https://reliefweb.int/map/sudan/covid-19-movement-restrictions-sudan-mobility-restriction-dashboard-8-18-june-2020
-
+ https://allafrica.com/stories/202009170954.html
+
+https://www.reuters.com/article/us-health-coronavirus-sudan/sudan-extends-lockdown-in-khartoum-state-to-june-29-idUSKBN23O3B3
+
+
+
+https://www.garda.com/crisis24/news-alerts/351691/sudan-authorities-extend-covid-19-lockdown-in-khartoum-until-june-29-update-12
+
+
+
+https://reliefweb.int/map/sudan/covid-19-movement-restrictions-sudan-mobility-restriction-dashboard-8-18-june-2020
+
+
+
 https://allafrica.com/stories/202009170954.html
 
 
@@ -171,15 +233,22 @@ https://allafrica.com/stories/202009170954.html
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there is no official end date (variable emlimit). 
@@ -197,7 +266,7 @@ https://allafrica.com/stories/202009170954.html
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -207,7 +276,15 @@ https://allafrica.com/stories/202009170954.html
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  "The declaration of a state of emergency is extinguished if the Legislative Council does not ratify it" - The constitution of Sudan, article 40:4. 
@@ -235,16 +312,28 @@ https://allafrica.com/stories/202009170954.html
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  At the moment Sudan does not have a legislature. Therefore the emergency response could not be approved. 
 
 *Sources*:
- https://edition.cnn.com/2019/04/11/africa/sudan-unrest-intl/index.html
-
-https://www.aa.com.tr/en/middle-east/sudans-al-bashir-dissolves-state-federal-governments/1400513
-
+ https://edition.cnn.com/2019/04/11/africa/sudan-unrest-intl/index.html
+
+
+
+https://www.aa.com.tr/en/middle-east/sudans-al-bashir-dissolves-state-federal-governments/1400513
+
+
+
 https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B625%5D&covid19=1
 
 
@@ -265,22 +354,34 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B62
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 5 
+*Time period: Q2*: 5
+
+ 
+*Time period: Q3*: 5
+
+ 
+*Time period: Q4*: 5
+
+ 
 
 *Comments*:
  The National Assembly is still dissolved since the coup in 2019. 
 
 *Sources*:
- https://edition.cnn.com/2019/04/11/africa/sudan-unrest-intl/index.html
-
-https://www.aa.com.tr/en/middle-east/sudans-al-bashir-dissolves-state-federal-governments/1400513
-
+ https://edition.cnn.com/2019/04/11/africa/sudan-unrest-intl/index.html
+
+
+
+https://www.aa.com.tr/en/middle-east/sudans-al-bashir-dissolves-state-federal-governments/1400513
+
+
+
 https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B625%5D&covid19=1
 
 
@@ -293,15 +394,22 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B62
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the legislature has been dissolved prior to Covid-19. 
@@ -326,8 +434,15 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B62
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as the legislature has been dissolved prior to Covid-19. 
@@ -357,20 +472,41 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B62
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- On 18 April, authorities effected a lockdown in Khartoum and North Darfur. These lockdowns have been gradually lifted since then. 
+ On 18 April, authorities effected a lockdown in Khartoum and North Darfur. From July 8, these lockdowns have been gradually lifted.
+In October, a curfew was declared in Port Sudan and Swakin Towns, but with no reference to covid 19. 
 
 *Sources*:
- https://allafrica.com/stories/202003240353.html
-
-https://reliefweb.int/report/sudan/sudan-corona-virus-covid-19-country-preparedness-and-response-plan-cprp-may-2020
-
-https://sd.usembassy.gov/health-alert-u-s-embassy-khartoum-sudan-july-7-2020/
-
-https://allafrica.com/stories/202007080364.html
-
+ https://reliefweb.int/report/sudan/sudan-covid-19-situation-overview-response-10-november-2020
+
+https://allafrica.com/stories/202010150410.html
+
+https://allafrica.com/stories/202003240353.html
+
+
+
+https://reliefweb.int/report/sudan/sudan-corona-virus-covid-19-country-preparedness-and-response-plan-cprp-may-2020
+
+
+
+https://sd.usembassy.gov/health-alert-u-s-embassy-khartoum-sudan-july-7-2020/
+
+
+
+https://allafrica.com/stories/202007080364.html
+
+
+
 https://www.africanews.com/2020/07/10/sudan-eases-lockdown-restrictions-locals-lament-economic-crunch/
 
 
@@ -395,10 +531,13 @@ https://www.africanews.com/2020/07/10/sudan-eases-lockdown-restrictions-locals-l
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -406,10 +545,14 @@ Time period: *Jul-Sep*: 0
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- https://www.hrw.org/africa/sudan
-
-https://www.amnesty.org/en/search/?country=38641&resourceType=newsarticle&sort=date
-
+ https://www.hrw.org/africa/sudan
+
+
+
+https://www.amnesty.org/en/search/?country=38641&resourceType=newsarticle&sort=date
+
+
+
 https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
 
 
@@ -439,10 +582,13 @@ https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -480,7 +626,15 @@ https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Lockdown restrictions have stopped printing, making content available only online, meaning that most Sudanese will not have access to them as internet penetration is low. This however, does not allow the government to de-jure control the content of the media. No de-jure limitations of media freedom as part of the Covid-19 emergency measures was found. 
@@ -500,15 +654,22 @@ https://rsf.org/en/thematique/internet?countries%5B48%5D=48
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -526,15 +687,22 @@ https://rsf.org/en/thematique/internet?countries%5B48%5D=48
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  Left blank as there are no de-jure limitations on media freedom (variable melim). 
@@ -562,10 +730,13 @@ https://rsf.org/en/thematique/internet?countries%5B48%5D=48
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -573,10 +744,14 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
 
 *Sources*:
- https://rsf.org/en/sudan
-
-https://en.unesco.org/news/media-reform-sudan-beginning-new-era-freedom-expression
-
+ https://rsf.org/en/sudan
+
+
+
+https://en.unesco.org/news/media-reform-sudan-beginning-new-era-freedom-expression
+
+
+
 https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
 
 
@@ -589,7 +764,7 @@ https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -599,10 +774,13 @@ https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -610,10 +788,14 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government is de-facto limiting reporting of the government's Covid-19 response, was found. 
 
 *Sources*:
- https://rsf.org/en/sudan
-
-https://en.unesco.org/news/media-reform-sudan-beginning-new-era-freedom-expression
-
+ https://rsf.org/en/sudan
+
+
+
+https://en.unesco.org/news/media-reform-sudan-beginning-new-era-freedom-expression
+
+
+
 https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
 
 
@@ -636,10 +818,13 @@ https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -647,10 +832,14 @@ Time period: *Jul-Sep*: 0
  No evidence indicating that the government is de-facto limiting media reporting about non-Covid-19 related news, but with reference to the pandemic, was found. 
 
 *Sources*:
- https://rsf.org/en/sudan
-
-https://en.unesco.org/news/media-reform-sudan-beginning-new-era-freedom-expression
-
+ https://rsf.org/en/sudan
+
+
+
+https://en.unesco.org/news/media-reform-sudan-beginning-new-era-freedom-expression
+
+
+
 https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
 
 
@@ -670,14 +859,17 @@ https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -711,10 +903,13 @@ https://www.hrw.org/africa/sudan
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -748,10 +943,13 @@ https://www.darfur24.com/en/2020/06/02/darfur-24-reveals-ordeals-of-two-journali
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -787,10 +985,13 @@ https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -798,10 +999,14 @@ Time period: *Jul-Sep*: 0
  No official Covid-19 information from the Sudanese government was found. Therefore, they do not spread misinformation about Covid-19. 
 
 *Sources*:
- http://www.sudan.gov.sd/index.php/en/
-
-http://www.fmoh.gov.sd/En/index.php?id=1
-
+ http://www.sudan.gov.sd/index.php/en/
+
+
+
+http://www.fmoh.gov.sd/En/index.php?id=1
+
+
+
 https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
 
 
@@ -826,10 +1031,13 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -837,12 +1045,18 @@ Time period: *Jul-Sep*: 0
  No evidence was found that indicates that security forces, such as the civilian police or military, has engaged in physical violence to execute the emergency measures. 
 
 *Sources*:
- https://www.hrw.org/africa/sudan
-
-https://www.amnesty.org/en/search/?country=38641&resourceType=newsarticle&sort=date
-
-https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
-
+ https://www.hrw.org/africa/sudan
+
+
+
+https://www.amnesty.org/en/search/?country=38641&resourceType=newsarticle&sort=date
+
+
+
+https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
+
+
+
 https://www.garda.com/crisis24/news-alerts/330896/sudan-protests-possible-in-khartoum-despite-ban-on-public-gatherings-april-9
 
 
@@ -855,7 +1069,7 @@ https://www.garda.com/crisis24/news-alerts/330896/sudan-protests-possible-in-kha
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -865,15 +1079,19 @@ https://www.garda.com/crisis24/news-alerts/330896/sudan-protests-possible-in-kha
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- The military is supervising the curfew and lockdown regulations. 
+ The military was supervising the curfew and lockdown regulations.
+Since July 8, these lockdowns have been gradually lifted. 
 
 *Sources*:
  Interview
@@ -883,31 +1101,4 @@ civil
 society
 activist.
 
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-*Answer*: Sudanese artists were imprisoned for pro-democracy chants beeing accused to violate the Covid-19 curfew.
-
-A girl's school couldn't reopen because Sudan's Rapid Support Forces began using a school as a training base while it was closed due to the lockdown. 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
- https://www.hrw.org/news/2020/09/21/sudanese-artists-imprisoned-pro-democracy-chants
-
-https://www.hrw.org/news/2020/07/29/sudanese-school-closed-pandemic-kept-closed-armed-forces
+https://reliefweb.int/report/sudan/sudan-covid-19-situation-overview-response-10-november-2020

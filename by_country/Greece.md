@@ -1,9 +1,6 @@
 # Greece 
 
 
-Time 2020-09-08 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-08
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,20 +25,26 @@ Time 2020-09-08
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- The greek Constitution (1) has provisions for giving extraordinary powers to the executive in emergency situations other than war (art 44). To deal with the pandemic, the greek government invoked art 44 of the Constitution, which gives the executive the power to ''fast-track'' law-making, through the so-called ''Acts of Legislative Content''. These Acts need parliamentary approval after their issuance, and are usually accompanied by the so-called ''Common Ministerial Decisions'' (KYA in greek), which are government decisions that specify in more detail the general measures taken with the Acts. 
+ The greek Constitution (1) has provisions for giving extraordinary powers to the executive in emergency situations other than war (art 44). To deal with the pandemic, the greek government has been using art 44 of the Constitution throught the covid19 pandemic as the legal instrument to legislate on covid19 related matters. This instrument gives the executive the power for ''fast-track'' law-making, through the so-called ''Acts of Legislative Content''. These Acts need parliamentary approval after their issuance, and are usually accompanied by the so-called ''Common Ministerial Decisions'' (KYA in greek), which are government decisions that specify in more detail the general measures taken with the Acts. 
 
 *Sources*:
  https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/001-156%20aggliko.pdf
-(1)
+(1)
 http://constitutionnet.org/state-of-emergency
-
-https://www.ynanp.gr/el/gr-epikoinwnias-enhmerwshs/prostasia-apo-neo-koronoio-nomothesia/
-https://www.ispatras.gr/wp-content/uploads/2020/03/%CE%A6%CE%95%CE%9A-986_22-3-2020-%CF%84-%CE%92-%CE%95%CF%80%CE%B9%CE%B2%CE%BF%CE%BB%CE%AE-%CF%84%CE%BF%CF%85-%CE%BC%CE%AD%CF%84%CF%81%CE%BF%CF%85-%CF%84%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%81%CE%B9%CE%BD%CE%BF%CF%8D-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CF%84%CE%B7%CF%82-%CE%BA%CF%85%CE%BA%CE%BB%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B1%CF%82-%CF%84%CF%89%CE%BD-%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CF%8E%CE%BD.pdf
-https://www.icnl.org/covid19tracker/?location=48&issue=&date=&type=
-https://www.tovima.gr/2020/03/22/society/odigos-epiviosis-stin-apagoreysi-kykloforias-18-apantiseis-gia-ola-osa-prepei-na-gnorizoume/
+
+https://www.icnl.org/covid19tracker/?location=48&issue=&date=&type=
+
 https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional-matter-of-life-and-death/
 
 
@@ -61,12 +64,21 @@ https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional
 *Scale*: Character string.
 
  
-*Answer*: Constitution, art 44, ''Act of Legislative order'' (1)
-1. Under extraordinary circumstances of an urgent and unforeseeable need, the President of the Republic may, upon the proposal of the Cabinet, issue acts of legislative content. Such acts shall be submitted to Parliament for ratification, as specified in the provisions of article 72 paragraph 1, within forty days of their issuance or within forty days from the convocation of a parliamentary session. Should such acts not be submitted to Parliament within the above time-limits or if they should not be ratified by Parliament within three months of their submission, they will henceforth cease to be in force. 
+*Time period: Q2*: Constitution, art 44, ''Act of Legislative order'' (1)
+1. Under extraordinary circumstances of an urgent and unforeseeable need, the President of the Republic may, upon the proposal of the Cabinet, issue acts of legislative content. Such acts shall be submitted to Parliament for ratification, as specified in the provisions of article 72 paragraph 1, within forty days of their issuance or within forty days from the convocation of a parliamentary session. Should such acts not be submitted to Parliament within the above time-limits or if they should not be ratified by Parliament within three months of their submission, they will henceforth cease to be in force.
+
+ 
+*Time period: Q3*: Constitution, art 44, ''Act of Legislative order'' (1)
+1. Under extraordinary circumstances of an urgent and unforeseeable need, the President of the Republic may, upon the proposal of the Cabinet, issue acts of legislative content. Such acts shall be submitted to Parliament for ratification, as specified in the provisions of article 72 paragraph 1, within forty days of their issuance or within forty days from the convocation of a parliamentary session. Should such acts not be submitted to Parliament within the above time-limits or if they should not be ratified by Parliament within three months of their submission, they will henceforth cease to be in force.
+
+ 
+*Time period: Q4*: Constitution, art 44, ''Act of Legislative order'' (1)
+1. Under extraordinary circumstances of an urgent and unforeseeable need, the President of the Republic may, upon the proposal of the Cabinet, issue acts of legislative content. Such acts shall be submitted to Parliament for ratification, as specified in the provisions of article 72 paragraph 1, within forty days of their issuance or within forty days from the convocation of a parliamentary session. Should such acts not be submitted to Parliament within the above time-limits or if they should not be ratified by Parliament within three months of their submission, they will henceforth cease to be in force.
+
+ 
 
 *Comments*:
- There have been several Legislative Acts containing different sets of measures in regards to the coronavirus pandemic, and all are taken based on the same legal instrument (see all listed measures in (2))
-The main (strictest) measures (lockdown) are included in the Act  ''ΚΥΑ 20036'' (Common Ministerial Decision 20036), 22.03.2020, Government Gazette no 986, titled ''Επιβολή του μέτρου του προσωρινού περιορισμού της κυκλοφορίας των πολιτών προς αντιμετώπιση του κινδύνου διασποράς του κορωνοϊού COVID-19.'' (Imposition of the temporary movement restriction measure against the spread of covid19'') (3) 
+ There have been several Legislative Acts containing different sets of measures with regards to the coronavirus pandemic. All covid19 measures are taken based on the same legal instrument (see all listed measures in (2)) throughout the pandemic. 
 
 *Sources*:
  https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/001-156%20aggliko.pdf
@@ -74,8 +86,7 @@ The main (strictest) measures (lockdown) are included in the Act  ''ΚΥΑ 20036
 (1)
 https://www.ynanp.gr/el/gr-epikoinwnias-enhmerwshs/prostasia-apo-neo-koronoio-nomothesia/
 (2)
-https://www.ispatras.gr/wp-content/uploads/2020/03/%CE%A6%CE%95%CE%9A-986_22-3-2020-%CF%84-%CE%92-%CE%95%CF%80%CE%B9%CE%B2%CE%BF%CE%BB%CE%AE-%CF%84%CE%BF%CF%85-%CE%BC%CE%AD%CF%84%CF%81%CE%BF%CF%85-%CF%84%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%81%CE%B9%CE%BD%CE%BF%CF%8D-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CF%84%CE%B7%CF%82-%CE%BA%CF%85%CE%BA%CE%BB%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B1%CF%82-%CF%84%CF%89%CE%BD-%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CF%8E%CE%BD.pdf
-(3)
+
 
 
 
@@ -94,18 +105,27 @@ https://www.ispatras.gr/wp-content/uploads/2020/03/%CE%A6%CE%95%CE%9A-986_22-3-2
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-23 
+*Time period: Q2*: 2020-03-23
+
+ 
+*Time period: Q3*: 2020-03-23
+
+ 
+*Time period: Q4*: 2020-03-23
+
+ 
 
 *Comments*:
- This is the date of the strictest measure, i.e. the nationwide lockdown. More measures were added gradually (but also before the lockdown). 
+ There is not an official invocation of art 44 of the Constitution, therefore this is the date of the first and strictest measure, the nationwide lockdown in March 2020. More measures were added gradually (but also before the lockdown). 
+A second lockdown was introduced in November 7 2020, initially to last until November 30, 2020. 
 
 *Sources*:
  https://www.ynanp.gr/el/gr-epikoinwnias-enhmerwshs/prostasia-apo-neo-koronoio-nomothesia/
 (1)
-
+
 https://www.ispatras.gr/wp-content/uploads/2020/03/%CE%A6%CE%95%CE%9A-986_22-3-2020-%CF%84-%CE%92-%CE%95%CF%80%CE%B9%CE%B2%CE%BF%CE%BB%CE%AE-%CF%84%CE%BF%CF%85-%CE%BC%CE%AD%CF%84%CF%81%CE%BF%CF%85-%CF%84%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%81%CE%B9%CE%BD%CE%BF%CF%8D-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CF%84%CE%B7%CF%82-%CE%BA%CF%85%CE%BA%CE%BB%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B1%CF%82-%CF%84%CF%89%CE%BD-%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CF%8E%CE%BD.pdf
 (2)
-
+
 https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional-matter-of-life-and-death/
 
 
@@ -125,20 +145,28 @@ https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The strictest measure, i.e. the lockdown, has been lifted since May 5, 2020. However, the greek government has continued using art 44 of the Constitution as a legal instrument to deal with the pandemic and pass legislation.
-For instance, in late July (31) and August 2020, more measures were taken to deal with the second wave. These measures are both nationwide - mandatory wearing of masks in enclosed spaces-, but also local, for areas with high number of covid19 cases such as Athens, Thessaloniki, and several islands. 
+ The greek government continues to use art 44 of the Constitution as a legal instrument to pass legislation to deal with the pandemic.
+ A second lockdown was introduced in November 7 2020, initially to last until November 30, 2020. The lockdown is currently extended through January 7 2021. 
 
 *Sources*:
- https://www.aa.com.tr/en/europe/greece-announces-compulsory-use-of-masks/1925340
-https://www.ekathimerini.com/255330/article/ekathimerini/news/face-masks-compulsory-in-enclosed-spaces-in-greece
-https://www.ekathimerini.com/255671/article/ekathimerini/news/greece-to-announce-new-measures-to-curb-infections
-https://gr.usembassy.gov/covid-19-information/
-https://www.garda.com/crisis24/news-alerts/337716/greece-government-to-ease-covid-19-restrictions-from-may-4-update-18
-https://www.bloomberg.com/news/articles/2020-04-27/greece-to-gradually-start-lifting-lockdown-measures-on-may-4
+ https://www.ekathimerini.com/259990/article/ekathimerini/news/greece-extends-lockdown-measures-until-jan-7
+
+https://www.aa.com.tr/en/europe/greece-extends-lockdown-to-jan-7/2068810
+
+
+
+
 
 
 
@@ -160,17 +188,28 @@ https://www.bloomberg.com/news/articles/2020-04-27/greece-to-gradually-start-lif
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The nationwide lockdown was initially declared from March 23, 2020, until April 6, 2020. 
+ Each of the provisions taken with regards to combatting covid19 had an end date - e.g. the first nationwide lockdown was initially declared from March 23, 2020, until April 6, 2020.
+The second nationwide lockdown started on November 7 with a first end date on November 30. The lockdown is currently extended through January 7 2021. 
 
 *Sources*:
- https://www.ispatras.gr/wp-content/uploads/2020/03/%CE%A6%CE%95%CE%9A-986_22-3-2020-%CF%84-%CE%92-%CE%95%CF%80%CE%B9%CE%B2%CE%BF%CE%BB%CE%AE-%CF%84%CE%BF%CF%85-%CE%BC%CE%AD%CF%84%CF%81%CE%BF%CF%85-%CF%84%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%81%CE%B9%CE%BD%CE%BF%CF%8D-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CF%84%CE%B7%CF%82-%CE%BA%CF%85%CE%BA%CE%BB%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B1%CF%82-%CF%84%CF%89%CE%BD-%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CF%8E%CE%BD.pdf
-http://constitutionnet.org/state-of-emergency
-https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional-matter-of-life-and-death/
-https://covid19.gov.gr/nomothesia-gia-ton-covid-19/
-https://www.tovima.gr/2020/03/22/society/odigos-epiviosis-stin-apagoreysi-kykloforias-18-apantiseis-gia-ola-osa-prepei-na-gnorizoume/
+ https://www.ekathimerini.com/259990/article/ekathimerini/news/greece-extends-lockdown-measures-until-jan-7
+
+https://www.aa.com.tr/en/europe/greece-extends-lockdown-to-jan-7/2068810
+
+https://www.lawspot.gr/nomika-nea/lockdown-apagoreytiko-dimosieythike-i-ypoyrgiki-apofasi-gia-ton-periorismo-kykloforias
+(1)
+https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional-matter-of-life-and-death/
 
 
 
@@ -182,24 +221,35 @@ https://www.tovima.gr/2020/03/22/society/odigos-epiviosis-stin-apagoreysi-kyklof
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-06 
+*Time period: Q2*: 2020-05-04
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 2020-12-14
+
+ 
 
 *Comments*:
- The nationwide lockdown was initially declared from March 23, 2020, until April 6, 2020. 
+ The nationwide lockdown was initially declared from March 23, 2020, until April 6, 2020. It was lifted on May 4 2020. 
+The second nationwide lockdown was introduced on November 7 until November 30. The lockdown is currently extended through January 7 2021. 
 
 *Sources*:
- https://www.ispatras.gr/wp-content/uploads/2020/03/%CE%A6%CE%95%CE%9A-986_22-3-2020-%CF%84-%CE%92-%CE%95%CF%80%CE%B9%CE%B2%CE%BF%CE%BB%CE%AE-%CF%84%CE%BF%CF%85-%CE%BC%CE%AD%CF%84%CF%81%CE%BF%CF%85-%CF%84%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%81%CE%B9%CE%BD%CE%BF%CF%8D-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CF%84%CE%B7%CF%82-%CE%BA%CF%85%CE%BA%CE%BB%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B1%CF%82-%CF%84%CF%89%CE%BD-%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CF%8E%CE%BD.pdf
-http://constitutionnet.org/state-of-emergency
-https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional-matter-of-life-and-death/
-https://covid19.gov.gr/nomothesia-gia-ton-covid-19/
-https://www.tovima.gr/2020/03/22/society/odigos-epiviosis-stin-apagoreysi-kykloforias-18-apantiseis-gia-ola-osa-prepei-na-gnorizoume/
+ http://constitutionnet.org/state-of-emergency
+
+https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional-matter-of-life-and-death/
+https://covid19.gov.gr/nomothesia-gia-ton-covid-19/
+https://www.ekathimerini.com/259990/article/ekathimerini/news/greece-extends-lockdown-measures-until-jan-7
+
+https://www.aa.com.tr/en/europe/greece-extends-lockdown-to-jan-7/2068810
 
 
 
@@ -211,7 +261,7 @@ https://www.tovima.gr/2020/03/22/society/odigos-epiviosis-stin-apagoreysi-kyklof
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -221,14 +271,23 @@ https://www.tovima.gr/2020/03/22/society/odigos-epiviosis-stin-apagoreysi-kyklof
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Constitution, art 44, legal instrument ''Act of Legislative order'': 1. Under extraordinary circumstances of an urgent and unforeseeable need, the President of the Republic may, upon the proposal of the Cabinet, issue acts of legislative content. Such acts shall be submitted to Parliament for ratification, as specified in the provisions of article 72 paragraph 1, within forty days of their issuance or within forty days from the convocation of a parliamentary session. Should such acts not be submitted to Parliament within the above time-limits or if they should not be ratified by Parliament within three months of their submission, they will henceforth cease to be in force. 
+ Yes - Constitution, art 44: the so-called ''Act of Legislative order' needs parliamentary approval after its issuance:
+''Under extraordinary circumstances of an urgent and unforeseeable need, the President of the Republic may, upon the proposal of the Cabinet, issue acts of legislative content. Such acts shall be submitted to Parliament for ratification, as specified in the provisions of article 72 paragraph 1, within forty days of their issuance or within forty days from the convocation of a parliamentary session. Should such acts not be submitted to Parliament within the above time-limits or if they should not be ratified by Parliament within three months of their submission, they will henceforth cease to be in force.'' 
 
 *Sources*:
- https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/001-156%20aggliko.pdf
-http://constitutionnet.org/state-of-emergency
+ https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/001-156%20aggliko.pdf
+http://constitutionnet.org/state-of-emergency
 https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional-matter-of-life-and-death/
 
 
@@ -251,13 +310,21 @@ https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
  As required by the Constitution, all Legislative Acts with measures against covid19 were, after their issuance, voted in the Parliament. The lockdown decision was part of a group of measures that were approved with a Legislative Act, but its specific content and details were issued through a Ministerial Decision (KYΑ Δ1 α/Γ.Π οικ 20036/2020 - ΦΕΚ 986/Β/22-3-2020) (4) , which technically does not need (nor took) parliamentary approval, but it requires authorization by being published on the Government Gazette. 
 
 *Sources*:
- https://www.hellenicparliament.gr/Nomothetiko-Ergo/Anazitisi-Nomothetikou-Ergou?law_id=1bd1b0a6-1046-4ae2-baad-ab840154207f
+ https://www.hellenicparliament.gr/Nomothetiko-Ergo/Anazitisi-Nomothetikou-Ergou?law_id=1bd1b0a6-1046-4ae2-baad-ab840154207f
 https://www.kathimerini.gr/1071643/article/epikairothta/politikh/yperyhfisthke-sth-voylh-to-nomosxedio-kyrwshs-triwn-pnp-me-ektakta-metra
 
 
@@ -278,35 +345,52 @@ https://www.kathimerini.gr/1071643/article/epikairothta/politikh/yperyhfisthke-s
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- The greek government throughout the pandemic has been taking decisions and issuing laws based on art 44 of the Constitution, which gives extra powers to the executive for ''fast-track'' law-making, through the so-called ''Acts of Legislative Content''. These Acts need parliamentary approval after their issuance, and are usually accompanied by ''(Common) Ministerial Decisions'' (KYA in greek), which are government decisions that specify in more detail the general measures taken with the Acts.
+ The executive is has the power to make fast-track laws and decisions on Covid19 related matters (using art 44 of Constitution), but not to rule by decree, as these fast-track laws need parliamentary approval on a later stage.
+ The Legislature continues working as normal, but with fewer sessions and fewer MPs present. The parliamentary oversight is still in place and functioning. 
+''Plenary: Reduced quorum, Committee: Limited to urgent matters, Voting mechanism: Ballot paper, Staff: Non-essential are working remotely.
+Used procedure of 'organized debate'. Committees can conduct meetings physically or remotely.'' (1, 2)
+Also, the Greek Parliament decided to only vote on one draft bill per week, with priority given to bills related to the management of the coronavirus outbreak. (3)
 
-The Legislature continues working as normal, but with fewer sessions and fewer MPs present. The parliamentary oversight is still in place and functioning. ''Plenary: Reduced quorum, Committee: Limited to urgent matters, Voting mechanism: Ballot paper, Staff: Non-essential are working remotely.Used procedure of 'organized debate'. Committees can conduct meetings physically or remotely.'' (1, 2)Also, the Greek Parliament decided to only vote on one draft bill per week, with priority given to bills related to the management of the coronavirus outbreak. (3)However, the government has been criticized  of eroding parliamentary scrutiny in the midst of the pandemic (6), mainly for having launched several non-covid19 related laws, many of which quite important (environmental bills, education), with fast-track processes. 
+In the second wave of covid19, in October - November 2020, the government implemented a few stricter measures with regards to rules and measures in the Parliament building (see 8, 9), but these do not affect parlimantary oversight or legislative work.
+However, the government has been criticized  of eroding parliamentary scrutiny in the midst of the pandemic (6), mainly for having launched several non-covid19 related laws, many of which quite important (environmental bills, education), with fast-track processes (using the same legal instrument -art 44- that is being used to deal with the pandemic). 
 
 *Sources*:
  https://www.hellenicparliament.gr/Enimerosi/Grafeio-Typou/Deltia-Typou/?press=27323899-dab3-43c2-871a-ab7c0123b99c
-(1)
+(1)
 https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
 (2)
-
+
 http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdf
-(3)
+(3)
 https://vouliwatch.gr/news/article/ta-14-metra-poy-apofasise-i-voyli-gia-tin-antimetopisi-toy-koronoioy
-(4)
+(4)
 https://www.kathimerini.gr/1068683/article/epikairothta/ellada/allages-sth-leitoyrgia-ths-voylhs-logw-korwnoioy
-(5)
+(5)
 https://balkaninsight.com/2020/04/28/greek-govt-accused-of-dodging-democratic-oversight/
-(6)
+(6)
 https://insidestory.gr/article/off-screen-covid19-vouli-nomothetisi-koronoios
 (7)
+https://www.tovima.gr/2020/10/22/society/koronoios-nea-metra-se-vouli-kai-elliniko-strato/
+(8)
+https://www.naftemporiki.gr/story/1648883/nea-metra-sti-bouli-meta-to-trito-krousma-koronoiou
+(9)
 
 
 
@@ -318,15 +402,22 @@ https://insidestory.gr/article/off-screen-covid19-vouli-nomothetisi-koronoios
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -351,8 +442,15 @@ https://insidestory.gr/article/off-screen-covid19-vouli-nomothetisi-koronoios
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -382,20 +480,44 @@ https://insidestory.gr/article/off-screen-covid19-vouli-nomothetisi-koronoios
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 1 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The lockdown, but also other measures such as the closing of all non-essential services, applied countrywide. Some different measures were applied locally in relation with covid19 cases' distribution.
-In late July (31) and August 2020, more measures were taken to deal with the second wave of the pandemic. These measures are both nationwide - mandatory wearing of masks in enclosed spaces, but also local, for places with high number of covid19 cases such as Athens, Thessaloniki, and several islands. 
+ The measures taken in March - June 2020, particularly the lockdown but also the closing of all non-essential services, applied countrywide. A few different extra measures were introduced locally in relation with covid19 cases' distribution (see 1, 2, 3).
+In July - September 2020, when the previous measures had been lifted, the government started taking gradually local measures to deal with a new surge of covid19 cases in places with high number of covid19 infections such as Athens, Thessaloniki, and several islands. These measures gradually included the closing of bars and restaurants in those infected areas and a 50-person limit for public gatherings. In addition, some nationwide measures were also introduced, like the mandatory wearing of masks in enclosed spaces (see 4, 5, 6).
+In the October- December period, the government started by increasing local covid19 measures in highly infected areas (such as Thessaloniki and Athens at first), but in November 2020 ended up in reimposing a nationwide lockdown and a night-time curfew from 09:00pm to 5am (see 7,8,9,10). 
 
 *Sources*:
- https://www.aa.com.tr/en/europe/greece-announces-compulsory-use-of-masks/1925340
-https://www.ekathimerini.com/255330/article/ekathimerini/news/face-masks-compulsory-in-enclosed-spaces-in-greece
-https://www.ekathimerini.com/255671/article/ekathimerini/news/greece-to-announce-new-measures-to-curb-infections
-https://gr.usembassy.gov/covid-19-information/
-https://www.ispatras.gr/wp-content/uploads/2020/03/%CE%A6%CE%95%CE%9A-986_22-3-2020-%CF%84-%CE%92-%CE%95%CF%80%CE%B9%CE%B2%CE%BF%CE%BB%CE%AE-%CF%84%CE%BF%CF%85-%CE%BC%CE%AD%CF%84%CF%81%CE%BF%CF%85-%CF%84%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%81%CE%B9%CE%BD%CE%BF%CF%8D-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CF%84%CE%B7%CF%82-%CE%BA%CF%85%CE%BA%CE%BB%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B1%CF%82-%CF%84%CF%89%CE%BD-%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CF%8E%CE%BD.pdf
-https://www.reuters.com/article/us-health-coronavirus-greece-lockdown/greece-extends-coronavirus-lockdown-measures-by-a-week-to-may-4-idUSKCN2251LH
+ https://www.ispatras.gr/wp-content/uploads/2020/03/%CE%A6%CE%95%CE%9A-986_22-3-2020-%CF%84-%CE%92-%CE%95%CF%80%CE%B9%CE%B2%CE%BF%CE%BB%CE%AE-%CF%84%CE%BF%CF%85-%CE%BC%CE%AD%CF%84%CF%81%CE%BF%CF%85-%CF%84%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%81%CE%B9%CE%BD%CE%BF%CF%8D-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CE%BF%CF%8D-%CF%84%CE%B7%CF%82-%CE%BA%CF%85%CE%BA%CE%BB%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B1%CF%82-%CF%84%CF%89%CE%BD-%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CF%8E%CE%BD.pdf
+(1)
+
+https://www.reuters.com/article/us-health-coronavirus-greece-lockdown/greece-extends-coronavirus-lockdown-measures-by-a-week-to-may-4-idUSKCN2251LH
+(2)
+
 https://www.news247.gr/koinonia/koronoios-18-erotapantiseis-gia-tin-apagoreysi-kykloforias.7607630.html
+(3)
+https://www.aa.com.tr/en/europe/greece-announces-compulsory-use-of-masks/1925340
+(4)
+https://www.ekathimerini.com/255330/article/ekathimerini/news/face-masks-compulsory-in-enclosed-spaces-in-greece
+(5)
+https://www.tovima.gr/2020/08/16/vimatv/koronoios-ta-nea-metra-pou-tithentai-se-isxy-ti-deytera-ti-ora-tha-kleinoun-mpar-kai-estiatoria/
+(6)
+https://gr.usembassy.gov/health-alert/
+(7)
+https://www.tornosnews.gr/en/greek-news/society/42020-greek-authorities-clarify-new-lockdown-restrictions-against-covid-19-pandemic.html
+(8)
+https://www.garda.com/crisis24/news-alerts/392001/greece-curfews-to-be-imposed-in-athens-and-thessaloniki-from-october-24-update-36
+(9)
+https://www.garda.com/crisis24/news-alerts/395161/greece-additional-nationwide-covid-19-restrictions-to-be-implemented-from-november-3-update-37
+(10)
 
 
 
@@ -419,10 +541,13 @@ https://www.news247.gr/koinonia/koronoios-18-erotapantiseis-gia-tin-apagoreysi-k
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 3
+*Time period: Q2*: 3
 
  
-Time period: *Jul-Sep*: 3
+*Time period: Q3*: 3
+
+ 
+*Time period: Q4*: 3
 
  
 
@@ -434,43 +559,48 @@ Note that the government had also put two refugee camps in the mainland (Ritsona
 
 In addition, when the nationwide lockdown was lifted on May 4 2020, the government announced that the island camps will continue to be closed until May and then June 21 without offering an explanation on its decision. (1, 4, 5, 6).
 ''Moria camp has been under lockdown since the onset of the coronavirus pandemic, and residents are only allowed out of the camp during certain times of the day to see a doctor or to buy food. Only 150 people are allowed to leave the camp per hour. Since the beginning of March, all migrants who reach the island have been placed in quarantine away from residents at Moria.'' (14) 
-
 After the first covid 19 case in Moria, Greek authorities have extended the lockdown of all structures hosting refugees and migrants until 15 September. (13)
- 
+
+In the October-December period, many refugee camps continue being under lockdown, however due to virological reasons, since covid19 cases were found. Some other camps however stopped being under quarantine after covid19 was under control (e.g. Malakasa camp on October 12, 2020), while other like the VIAL camp in Chios, is in quarantine due to coronavirus infections since October 14, last extended through November 4, 2020 (see 15, 16). 
+However, movement is controlled - as decided by the greek gvt in November 2020 - in all camps, and the police controls entry and exit: ''The Greek Government announced the control of movement until further notice in almost all the camps. This means that If you need to leave the camp for your basic needs, such as buying groceries or going to the pharmacy, police will control your movement.'' (see (17)). 
 
 *Sources*:
  https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-(1)
+(1)
 https://www.mitarakis.gr/gov/migration/1962-dt-yma-kya-periorismou
-(2)
+(2)
 https://www.mitarakis.gr/press/80-press-releases/6166-periorismo-kikloforias-polikastro-kranidi-ritsona-malakasa
-(2)
+(2)
 https://https://www.amnesty.org/download/Documents/EUR2527762020ENGLISH.pdf
-(3)
+(3)
 www.aljazeera.com/news/2020/05/greece-extends-coronavirus-lockdown-refugee-camps-200510203054274.html
-(4)
-https://euobserver.com/coronavirus/147804;
+(4)
 https://www.dw.com/en/greece-quarantines-migrant-camps/a-53022767
 (5)
-
 https://www.theguardian.com/global-development/2020/may/27/greece-ready-to-welcome-tourists-as-refugees-stay-locked-down-in-lesbos-coronavirus
-(6)
+(6)
 https://www.minedu.gov.gr/publications/docs2020/%CE%A0%CE%9D%CE%A0_4_20032020_%CE%A6%CE%95%CE%9A.pdf.pdf
-(7)
+(7)
 https://www.dw.com/en/greece-reports-first-coronavirus-case-in-moria-migrant-camp-on-lesbos/a-54792666
-(8)
+(8)
 https://www.infomigrants.net/en/post/25818/greece-extends-migrant-camp-lockdown-again-amid-criticism
-(9)
+(9)
 https://www.infomigrants.net/en/post/26138/lockdown-in-refugee-camps-on-greek-islands-discriminatory-msf-says
-(10)
+(10)
 https://www.voanews.com/covid-19-pandemic/greece-extends-lockdown-more-120000-migrants-refugees
-(11)
+(11)
 https://www.doctorswithoutborders.org/what-we-do/news-stories/news/greece-imposes-dangerous-lockdown-moria-refugee-camp-after-first-covid
-(12)
+(12)
 https://www.ecre.org/greece-10000-people-prevented-access-lockdown-extended-recognition-rate-increases/
-(13)
+(13)
 https://www.infomigrants.net/en/post/27000/greece-first-covid-19-case-at-moria-migrant-camp
 (14)
+https://www.infomigrants.net/en/post/28152/malakasa-camp-inaction-and-uncertainty-trap-migrants-despite-end-to-lockdown
+(15)
+https://www.ekathimerini.com/258364/article/ekathimerini/news/lockdown-extended-to-nov-4-for-chios-migrant-camp
+(16)
+https://www.refugee.info/greece/coronavirus-emergency-in-greece/update-on-reception-identification-centers-on-the-greek-islands-lesvos-samos?language=en
+(17)
 
 
 
@@ -499,10 +629,13 @@ https://www.infomigrants.net/en/post/27000/greece-first-covid-19-case-at-moria-m
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -510,11 +643,11 @@ Time period: *Jul-Sep*: 0
  No violation of ndrights. 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-https://www.amnesty.org/download/Documents/EUR2527762020ENGLISH.pdf
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.minedu.gov.gr/publications/docs2020/%CE%A0%CE%9D%CE%A0_4_20032020_%CE%A6%CE%95%CE%9A.pdf.pdf
-http://www.dsanet.gr/epikairothta_nomothesia.asp
+ https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
+https://www.amnesty.org/download/Documents/EUR2527762020ENGLISH.pdf
+https://www.acaps.org/covid19-government-measures-dataset
+https://www.minedu.gov.gr/publications/docs2020/%CE%A0%CE%9D%CE%A0_4_20032020_%CE%A6%CE%95%CE%9A.pdf.pdf
+
 
 
 
@@ -538,15 +671,24 @@ http://www.dsanet.gr/epikairothta_nomothesia.asp
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No de jure media limitations found in the emergency measures. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-https://www.minedu.gov.gr/publications/docs2020/%CE%A0%CE%9D%CE%A0_4_20032020_%CE%A6%CE%95%CE%9A.pdf.pdf
-https://covid19.gov.gr/nomothesia-gia-ton-covid-19/
+ https://covid19.gov.gr/nomothesia-gia-ton-covid-19/
+
+https://www.acaps.org/covid19-government-measures-dataset
+https://www.lawspot.gr/nomika-nea/lockdown-apagoreytiko-dimosieythike-i-ypoyrgiki-apofasi-gia-ton-periorismo-kykloforias
 
 
 
@@ -559,15 +701,22 @@ https://covid19.gov.gr/nomothesia-gia-ton-covid-19/
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -585,15 +734,22 @@ https://covid19.gov.gr/nomothesia-gia-ton-covid-19/
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -621,21 +777,30 @@ https://covid19.gov.gr/nomothesia-gia-ton-covid-19/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No such limitations. 
+ No de facto media limitations on media reporting on covid19. However, after the July 2019 general election and New Democracy's party victory, public broadcaster ERT and state news agency ANA-MPA were placed under the direct supervision of the new Prime Minister Kyriakos Mitsotakis through a presidential decree. 
+
+In addition, when the Greek government allocated €20 million to media outlets for them to carry “Stay at Home” public health messages, it outsourced the distribution of these funds to a private media shop company, bypassing its obligation to make public all transactions conducted by the state. After opposition parties  parliamentary watchdogs protested the lack of transparency, the government in early July, released the list containing the amounts given per media outelt, it was revealed that outlets critical of the government received less than 1 percent of the total sum, compared to pro-government outlets, and one particularly anti-government outlet was excluded entirely from the funding. (1).
+
+Also, ''media in Greece rank among the least trusted by the public, compared to other countries in Europe.... a combination of ownership issues, drastic cuts in costs and jobs, and a peculiar relationship to political power, has produced a deeply problematic media landscape, where unbiased, dispassionate coverage is hard to find....During Covid19, the partisanship of Greek media played out even more intensely. Stories about government contracts that were handed out in less than clear circumstances were featured only in a handful of independent, alternative outlets. Scrutiny over how the government would meet the challenge of building up a public healthcare system devastated by years of cuts was likewise absent from the majority of the media. Questions over the government’s implementation of safety protocols for travelers from abroad were largely unasked...'' (1). 
 
 *Sources*:
- https://www.ecpmf.eu/monitor/mapping-media-freedom/
-
-https://ipi.media/covid19-media-freedom-monitoring/
+ https://ipi.media/the-covid-19-crisis-highlights-greeces-media-problem/
+(1)
+https://www.ecpmf.eu/monitor/mapping-media-freedom/
 
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/greece
 
 
 
@@ -647,7 +812,7 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -657,22 +822,30 @@ https://ipi.media/covid19-media-freedom-monitoring/
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No such limitations. 
+ No de facto media limitations on media reporting on government's response to covid19. However, after the July 2019 general election and New Democracy's party victory, public broadcaster ERT and state news agency ANA-MPA were placed under the direct supervision of the new Prime Minister Kyriakos Mitsotakis through a presidential decree. 
+
+In addition, when the Greek government allocated €20 million to media outlets for them to carry “Stay at Home” public health messages, it outsourced the distribution of these funds to a private media shop company, bypassing its obligation to make public all transactions conducted by the state. After opposition parties  parliamentary watchdogs protested the lack of transparency, the government in early July, released the list containing the amounts given per media outelt, it was revealed that outlets critical of the government received less than 1 percent of the total sum, compared to pro-government outlets, and one particularly anti-government outlet was excluded entirely from the funding. (1).
+
+Also, ''media in Greece rank among the least trusted by the public, compared to other countries in Europe.... a combination of ownership issues, drastic cuts in costs and jobs, and a peculiar relationship to political power, has produced a deeply problematic media landscape, where unbiased, dispassionate coverage is hard to find....During Covid19, the partisanship of Greek media played out even more intensely. Stories about government contracts that were handed out in less than clear circumstances were featured only in a handful of independent, alternative outlets. Scrutiny over how the government would meet the challenge of building up a public healthcare system devastated by years of cuts was likewise absent from the majority of the media. Questions over the government’s implementation of safety protocols for travelers from abroad were largely unasked...'' (1). 
 
 *Sources*:
- https://www.ecpmf.eu/monitor/mapping-media-freedom/
-
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/greece
+ https://ipi.media/the-covid-19-crisis-highlights-greeces-media-problem/
+(1)
+https://www.ecpmf.eu/monitor/mapping-media-freedom/
 
+https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/greece
 
 
 
@@ -694,21 +867,30 @@ https://rsf.org/en/greece
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- No limitations on media reporting about non-Covid-19 related news.
- 
+ No limitations on media reporting about non-Covid-19 related news.  However, after the July 2019 general election and New Democracy's party victory, public broadcaster ERT and state news agency ANA-MPA were placed under the direct supervision of the new Prime Minister Kyriakos Mitsotakis through a presidential decree. 
+
+In addition, when the Greek government allocated €20 million to media outlets for them to carry “Stay at Home” public health messages, it outsourced the distribution of these funds to a private media shop company, bypassing its obligation to make public all transactions conducted by the state. After opposition parties  parliamentary watchdogs protested the lack of transparency, the government in early July, released the list containing the amounts given per media outelt, it was revealed that outlets critical of the government received less than 1 percent of the total sum, compared to pro-government outlets, and one particularly anti-government outlet was excluded entirely from the funding. (1).
+
+Also, ''media in Greece rank among the least trusted by the public, compared to other countries in Europe.... a combination of ownership issues, drastic cuts in costs and jobs, and a peculiar relationship to political power, has produced a deeply problematic media landscape, where unbiased, dispassionate coverage is hard to find....During Covid19, the partisanship of Greek media played out even more intensely. Stories about government contracts that were handed out in less than clear circumstances were featured only in a handful of independent, alternative outlets. Scrutiny over how the government would meet the challenge of building up a public healthcare system devastated by years of cuts was likewise absent from the majority of the media. Questions over the government’s implementation of safety protocols for travelers from abroad were largely unasked...'' (1). 
 
 *Sources*:
- https://www.ecpmf.eu/monitor/mapping-media-freedom/
-https://rsf.org/en/greece
+ https://ipi.media/the-covid-19-crisis-highlights-greeces-media-problem/
+(1)
+https://www.ecpmf.eu/monitor/mapping-media-freedom/
+
 https://ipi.media/covid19-media-freedom-monitoring/
+https://rsf.org/en/greece
 
 
 
@@ -727,14 +909,17 @@ https://ipi.media/covid19-media-freedom-monitoring/
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -743,23 +928,26 @@ Time period: *Jul-Sep*: 1
 
 ''As of March 23, the Greek Ministry of Health, citing public health safety reasons, has decided to close its doors to health editors on a daily basis from Sotiris Tsiodras' spokesman and Deputy Ministers of Civil Protection and Health. In addition, the journalists were informed that they will have the opportunity to ask one - and only one, although there are three speakers -  question per week, which should be submitted in writing to the Press Office, which will read it on "air", without it ability to clarify or apply pressure in order to respond effectively.'' (1,2,3)
 
-Also, opposition media outlets were excluded from a recent government support package in Greece: 
-''Greek newspaper Documento was excluded from a €20 million advertising revenue support package organised by the government in apparent retaliation for its critical coverage and investigative reports in the Prime Minister and his inner circle. When asked why Documento had not been received funding like every other major media outlet in the country, the government spokesman replied that the government did not give funding to outlets threat spread “fake news”. (1,4,5).
- 
+Also, opposition media outlets in July were excluded from a government support package in Greece: 
+''Greek newspaper Documento was excluded from a €20 million advertising revenue support package organised by the government in apparent retaliation for its critical coverage and investigative reports in the Prime Minister and his inner circle. When asked why Documento had not been received funding like every other major media outlet in the country, the government spokesman replied that the government did not give funding to outlets threat spread “fake news”. (1,4,5). 
 
 *Sources*:
  https://ipi.media/covid19-media-freedom-monitoring/
-(1)
-https://www.efsyn.gr/ellada/koinonia/240641_se-karantina-i-enimerosi-haropaleyei-i-eleytheria-toy-typoy
-(2)
-http://www.ertopen.com/news/ellada/item/56727-ti-foboyntai-kai-den-afhnoyn-toys-dhmosiografoys-na-rwtoyn-ton-kath-tsiodra
-(3)
-https://medium.com/athenslivegr/opaque-government-spending-and-vindictiveness-in-greek-mass-media-a5e2e79e0ae1
-(4)
-https://www.ecpmf.eu/mfrr-partners-raise-concerns-over-proposed-low-funding-for-opposition-media-outlets-in-greece/
-(5)
-
+(1)
 
+https://www.efsyn.gr/ellada/koinonia/240641_se-karantina-i-enimerosi-haropaleyei-i-eleytheria-toy-typoy
+(2)
+
+http://www.ertopen.com/news/ellada/item/56727-ti-foboyntai-kai-den-afhnoyn-toys-dhmosiografoys-na-rwtoyn-ton-kath-tsiodra
+(3)
+
+https://medium.com/athenslivegr/opaque-government-spending-and-vindictiveness-in-greek-mass-media-a5e2e79e0ae1
+(4)
+
+https://www.ecpmf.eu/mfrr-partners-raise-concerns-over-proposed-low-funding-for-opposition-media-outlets-in-greece/
+(5)
+
+https://ipi.media/the-covid-19-crisis-highlights-greeces-media-problem/
 
 
 
@@ -781,20 +969,32 @@ https://www.ecpmf.eu/mfrr-partners-raise-concerns-over-proposed-low-funding-for-
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- No incidents of verbal harassment. 
+ Greek police detained and attacked a Greek journalist, Antonis Rigopoulos, on November 17 while he was covering a rally in commemoration of the 1973 Polytechnic University student uprising against the military dictatorship. 
+
+''As the journalist was documenting the arrest of protesters, he was approached by traffic police officers, and despite the fact that he was wearing a full gas mask, police tried to fine him €300 under COVID-19 regulations for not wearing a surgical mask. The officers then brought him to the headquarters of the Traffic Police where Rigopoulos claims they addressed him in a threatening and abusive manner in an attempt to provoke him. He later reported that one officer pushed him forcefully into a chair and shouted aggressively in his face. Rigopoulos added that officers repeatedly refused to acknowledge his journalistic ID and took his national ID off him for about half an hour.'' 
 
 *Sources*:
- https://www.ecpmf.eu/monitor/mapping-media-freedom/
-
-https://ipi.media/covid19-media-freedom-monitoring/
+ https://ipi.media/greece-ipi-denounces-detention-and-intimidation-of-documento-journalist-in-athens/
+
+https://www.koutipandoras.gr/article/epithesi-tis-astynomias-se-dimosiografo-toy-koutipandorasgr-kai-toy-documento?fbclid=IwAR0p4g_GXLptMO3R_Dg-cQJwaj343NQD_NaM3pfFksqSHLMYCEfBwOMXy3A
+
+https://www.koutipandoras.gr/article/my-personal-experience-and-testimony
+
+https://www.ecpmf.eu/monitor/mapping-media-freedom/
+
+https://ipi.media/covid19-media-freedom-monitoring/
+
 https://rsf.org/en/rsf_search?key=greece
 
 
@@ -817,20 +1017,32 @@ https://rsf.org/en/rsf_search?key=greece
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- No incidents of physical harassment. 
+ Greek police detained and attacked a Greek journalist, Antonis Rigopoulos, on November 17 while he was covering a rally in commemoration of the 1973 Polytechnic University student uprising against the military dictatorship. 
+
+''As the journalist was documenting the arrest of protesters, he was approached by traffic police officers, and despite the fact that he was wearing a full gas mask, police tried to fine him €300 under COVID-19 regulations for not wearing a surgical mask. The officers then brought him to the headquarters of the Traffic Police where Rigopoulos claims they addressed him in a threatening and abusive manner in an attempt to provoke him. He later reported that one officer pushed him forcefully into a chair and shouted aggressively in his face. Rigopoulos added that officers repeatedly refused to acknowledge his journalistic ID and took his national ID off him for about half an hour.'' 
 
 *Sources*:
- https://www.ecpmf.eu/monitor/mapping-media-freedom/
-
-https://ipi.media/covid19-media-freedom-monitoring/
+ https://ipi.media/greece-ipi-denounces-detention-and-intimidation-of-documento-journalist-in-athens/
+
+https://www.koutipandoras.gr/article/epithesi-tis-astynomias-se-dimosiografo-toy-koutipandorasgr-kai-toy-documento?fbclid=IwAR0p4g_GXLptMO3R_Dg-cQJwaj343NQD_NaM3pfFksqSHLMYCEfBwOMXy3A
+
+https://www.koutipandoras.gr/article/my-personal-experience-and-testimony
+
+https://www.ecpmf.eu/monitor/mapping-media-freedom/
+
+https://ipi.media/covid19-media-freedom-monitoring/
+
 https://rsf.org/en/rsf_search?key=greece
 
 
@@ -855,10 +1067,13 @@ https://rsf.org/en/rsf_search?key=greece
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -890,27 +1105,42 @@ Time period: *Jul-Sep*: 0
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- The government used police forces to enforce social distancing measures. The police resorted in excess use of violence, sending many people to the hospital and arresting quite a few individuals. These incidents took place during the March-June 2020 period. 
+ The government used police forces to enforce social distancing measures. The police resorted in excess use of violence, sending many people to the hospital and arresting quite a few individuals between March-June 2020 (1).
 
-''Throughout the lockdown..., cases of police abuse, including violence and pushbacks, were reported across the country.'' 
-Reports surfaced about police excessive use of force and ill-treatment against people who gathered in Athens and Thessaloniki, Greece's second largest city, after the measures had been eased.'' (1) 
+In November 2020, police also resorted in violence, tear gas at peaceful gatherings and arrests (see 5,6,7). 
 
 *Sources*:
  https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-(1)
+(1)
+
 https://www.ekathimerini.com/252406/article/ekathimerini/news/covid-concern-after-police-break-up-outdoor-gatherings
-
+(2)
 https://www.voanews.com/covid-19-pandemic/greek-police-tackle-corona-parties-government-eases-lockdown
-
+(3)
 https://balkaninsight.com/2020/05/14/in-pandemic-era-greece-fighting-for-control-of-the-square/
+(4)
+https://apnews.com/article/virus-outbreak-greece-archive-athens-cc3101f260cdaba90098d209c2ab0d36
+(5)
+https://apnews.com/article/thessaloniki-health-coronavirus-pandemic-athens-greece-e3ee760eb7362cff75b78c6faf21d2c4
+(6)
+https://www.aljazeera.com/news/2020/11/16/greek-protests-coronavirus
+(7)
+https://www.aa.com.tr/en/europe/over-100-demonstrators-detained-in-greek-capital/2067702
+
+https://www.aljazeera.com/news/2020/12/6/greek-police-arrest-dozens-at-march-in-memory-of-slain-teen
+
+
 
 
 
@@ -922,7 +1152,7 @@ https://balkaninsight.com/2020/05/14/in-pandemic-era-greece-fighting-for-control
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -932,43 +1162,20 @@ https://balkaninsight.com/2020/05/14/in-pandemic-era-greece-fighting-for-control
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- The greek police is responsible for enforcing the lockdown measures. In addition, the Municipal Police, the Hellenic Coast Guard in their respective authority areas, and the National Transparency Authority participate in the enforcement efforts wherever necessary.
+ The greek police is responsible for enforcing the lockdown measures. In addition, the Municipal Police, the Hellenic Coast Guard in their respective authority areas, and the National Transparency Authority participate in the enforcement efforts wherever necessary.
  
 
 *Sources*:
- https://www.news247.gr/koinonia/koronoios-18-erotapantiseis-gia-tin-apagoreysi-kykloforias.7607630.html
+ https://www.news247.gr/koinonia/koronoios-18-erotapantiseis-gia-tin-apagoreysi-kykloforias.7607630.html
 
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

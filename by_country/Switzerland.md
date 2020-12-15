@@ -1,9 +1,6 @@
 # Switzerland 
 
 
-Time 2020-09-10 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-10
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,19 +25,46 @@ Time 2020-09-10
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- Switzerland has adopted new regulation (Ordinance 1 and 2 on measures to combat the coronavirus (COVID-19)). The first was imposed on February 28, and the second on March 13. It is the second regulation that is here considered the main legal instrument, as it allowed farther reaching emergency measures and the one under which the main response such as closing of shools and public places and curfews were taken.
-The regulations enacted are based in the Epidemics Act and the Swiss Constitution, but is a new legislation and is therefore coded as 4. 
+ Switzerland has adopted new regulation (Ordinance 1, 2 and 3) on measures to combat the coronavirus (COVID-19)). The regulations enacted by Switzerland’s Federal Council were based on the emergency powers provision of Article 185(3) of the Federal Constitution (1) (which authorizes it to “issue ordinances and rulings in order to counter existing or imminent threats of serious disruption to public order or internal or external security” for a limited duration) and on Article 7 of the Epidemics Act of 28 September 2012 (2) (which allows the Federal Council to “order necessary measures for all or part of the country” if an “extraordinary situation requires it,” restricting the cantons to acting in areas outside the scope of the federal order). 
+
+However, since it is a new legislation, it is therefore coded as 4. 
+
+The first Ordinance was imposed on February 28, the second on March 13 (expired on 22 June 2020), and the third on June 22 (in force through December 31, 2021). The second regulation contained and allowed farther reaching emergency measures compared to the first, and under which the main response such as closing of shools and public places and curfews were taken. It is therefore the one used as a start date.
+
+Ordinance 2 was repealed and replaced by COVID-19 Ordinance 3 of June 22 (in force through December 31, 2020), which has fewer restrictions than Ordinance 2. It continues to restrict border crossings and entry by foreign nationals, maintains provisions intended to ensure supplies of essential medical goods, and provides for federal funding of SARS-CoV-2 tests.
+
+In addition, the Swiss Parliament (Federal Assembly) passed on  25 September 2020 the Federal Covid-19 Act (Federal Act on the Statutory Principles for Federal Council Ordinances on Combating the COVID-19 Epidemic) which creates a legal basis allowing the Federal Council to maintain the measures resolved by emergency decree that are still necessary to manage the Covid-19 epidemic, i.e. it authorized the Federal Council’s use of special powers “only to the extent that they are required to respond to the COVID-19 epidemic.” The Federal Covid-19 Act  expires on 31 December 2022. 
 
 *Sources*:
- https://www.admin.ch/opc/de/classified-compilation/20200744/index.html
-https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
-https://www.bag.admin.ch/bag/en/home/gesetze-und-bewilligungen/gesetzgebung/gesetzgebung-mensch-gesundheit/epidemiengesetz.html
-https://www.garda.com/crisis24/news-alerts/324096/switzerland-nationwide-restrictive-measures-implemented-due-to-covid-19-march-16-update-4
-https://www.loc.gov/law/foreign-news/article/switzerland-government-adopts-more-stringent-measures-to-contain-spread-of-coronavirus/
+ https://www.admin.ch/opc/en/classified-compilation/19995395/index.html
+(1)
+https://www.admin.ch/opc/fr/classified-compilation/20071012/index.html
+(2)
+
+https://fcilsis.wordpress.com/2020/11/18/european-legal-responses-to-covid-19-switzerland/
+
 https://www.admin.ch/opc/en/classified-compilation/20201773/index.html
+
+https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+
+https://www.admin.ch/opc/en/classified-compilation/20202070/index.html
+
+https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
+
+https://www.bag.admin.ch/bag/en/home/gesetze-und-bewilligungen/gesetzgebung/gesetzgebung-mensch-gesundheit/epidemiengesetz.html
+
+https://www.loc.gov/law/foreign-news/article/switzerland-government-adopts-more-stringent-measures-to-contain-spread-of-coronavirus/
 
 
 
@@ -59,13 +83,37 @@ https://www.admin.ch/opc/en/classified-compilation/20201773/index.html
 *Scale*: Character string.
 
  
-*Answer*: Ordinance on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 2) 
+*Time period: Q2*: Federal Constitution - Article 185(3), authorizing the government to “issue ordinances and rulings in order to counter existing or imminent threats of serious disruption to public order or internal or external security” for a limited duration;
+Epidemics Act of 28 September 2012 - Article 7 
+
+
+ 
+*Time period: Q3*: Federal Constitution - Article 185(3), authorizing the government to “issue ordinances and rulings in order to counter existing or imminent threats of serious disruption to public order or internal or external security” for a limited duration;
+Epidemics Act of 28 September 2012 - Article 7 
+
+
+ 
+*Time period: Q4*: Federal Constitution - Article 185(3), authorizing the government to “issue ordinances and rulings in order to counter existing or imminent threats of serious disruption to public order or internal or external security” for a limited duration;
+Epidemics Act of 28 September 2012 - Article 7 
+
+
+ 
 
 *Comments*:
- This is the law under which the new regulation is taken. 
+ Switzerland has adopted new regulation (Ordinance 1, 2 and 3) on measures to combat the coronavirus (COVID-19) based on the emergency powers provision of Article 185(3) of the Federal Constitution (1) and on Article 7 of the Epidemics Act of 28 September 2012 (2) (which allows the Federal Council to “order necessary measures for all or part of the country” if an “extraordinary situation requires it,” restricting the cantons to acting in areas outside the scope of the federal order). 
+
+Ordinance 1, 2, 3, were later validated by the Swiss Parliament with the COVID19 Federal Act of September 25 2020. 
 
 *Sources*:
- https://www.admin.ch/opc/fr/classified-compilation/20071012/index.html#a7
+ https://www.admin.ch/opc/en/classified-compilation/19995395/index.html
+(1)
+https://www.admin.ch/opc/fr/classified-compilation/20071012/index.html
+(2)
+https://www.admin.ch/opc/fr/classified-compilation/20071012/index.html#a7
+
+https://www.admin.ch/opc/en/classified-compilation/20201773/index.html
+
+https://www.admin.ch/opc/en/classified-compilation/20202070/index.html
 
 
 
@@ -84,14 +132,26 @@ https://www.admin.ch/opc/en/classified-compilation/20201773/index.html
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-13 
+*Time period: Q2*: 2020-03-13
+
+ 
+*Time period: Q3*: 2020-03-13
+
+ 
+*Time period: Q4*: 2020-03-13
+
+ 
 
 *Comments*:
-*No comment provided* 
+ Switzerland has adopted new regulation (Ordinance 1, 2 and 3) on measures to combat the coronavirus (COVID-19) based on the Constitution and the  Epidemics Act of 28 September 2012. These Ordinaces were later validated by the Swiss Parliament with the COVID19 Federal Act of September 25 2020.  
+
+The first Ordinance was imposed on February 28, the second on March 13 (expired on 22 June 2020), and the third on June 22 (in force through December 31, 2021). The second regulation contained and allowed farther reaching emergency measures compared to the first, and included the main response measures such as closing of shools and public places and curfews were taken. It is therefore the one taken as a start date. 
 
 *Sources*:
- https://www.admin.ch/opc/de/classified-compilation/20200744/index.html
-https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
+ https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
+https://www.admin.ch/opc/en/classified-compilation/20201773/index.html
+
+https://www.admin.ch/opc/en/classified-compilation/20202070/index.html
 
 
 
@@ -110,14 +170,26 @@ https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
 *Scale*: Date format.
 
  
-*Answer*: 2020-06-22 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Ordinance 2, which is the primary legal instrument, was set to expire after 6 months, but was abrogated on June 22 and replaced with Ordinance 3 which holds fewer emergency powers. As Ordinance 2 is regarded as the primary legal instrument here, the end date is June 22. However, it should be noted that there is still temporary emergency legislation in place. 
+ Switzerland has adopted new regulation (Ordinance 1, 2 and 3) on measures to combat the coronavirus (COVID-19) based on the Constitution and the  Epidemics Act of 28 September 2012. Ordinance 1, 2, 3 were later validated by the Swiss Parliament with the COVID19 Federal Act of September 25 2020. 
+
+The Swiss government continues to use the same legal instruments (Constitution and Epidemics Act) to issue COVID19 regulations. Ordinance 2 was set to expire after 6 months, but was abrogated on June 22 and replaced with Ordinance 3, currently in force through December 31, 2021. 
 
 *Sources*:
- https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
+ https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
 https://www.admin.ch/opc/en/classified-compilation/20201773/index.html
+
+https://www.admin.ch/opc/en/classified-compilation/20202070/index.html
 
 
 
@@ -139,14 +211,25 @@ https://www.admin.ch/opc/en/classified-compilation/20201773/index.html
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- Ordinance 2 had a maximum time limit of 6 months. 
+ Ordinance 2 had a maximum time limit of 6 months. Ordinance 3 expires on December 31 2021. The Federal Covid19 Act expires on 31 December 2022. 
 
 *Sources*:
- https://www.admin.ch/opc/de/classified-compilation/20200744/index.html
-https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
+ https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
+
+https://www.admin.ch/opc/en/classified-compilation/20201773/index.html
+
+https://www.admin.ch/opc/en/classified-compilation/20202070/index.html
 
 
 
@@ -158,21 +241,32 @@ https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-09-13 
+*Time period: Q2*: 2020-09-13
+
+ 
+*Time period: Q3*: 2021-12-31
+
+ 
+*Time period: Q4*: 2021-12-31
+
+ 
 
 *Comments*:
- Ordinance 2 was set to end 6 months after its enactment on March 13, but was abrogated on June 22. 
+ Ordinance 2 of March 13 2020 had a maximum time limit of 6 months. Ordinance 3 of June 22 2020 expires on December 31 2021. The Federal Covid19 Act of September 25 2020 expires on 31 December 2022. 
 
 *Sources*:
- https://www.admin.ch/opc/de/classified-compilation/20200744/index.html
-https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
+ https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
+
+https://www.admin.ch/opc/en/classified-compilation/20201773/index.html
+
+https://www.admin.ch/opc/en/classified-compilation/20202070/index.html
 
 
 
@@ -184,7 +278,7 @@ https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -194,14 +288,25 @@ https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- No, the new regulation is an ordinance form the Swiss Federal Council (i.e. Federal Government), and does not need to be voted on by parliament. 
+ According to the Swiss Constitution - article 185, the Federal Council is authorised by law to take emergency decisions without the involvement of Parliament, but according to Article 7d of the Government and Administration Organization Act of 21 March 1997, the emergency ordinances of the government must be ratified by Parliament after six months at the latest. 
+
+The Federal Council defined the Covid-19 crisis an “extraordinary situation” under Article 185 al. 3 of the Constitution and under Article 7 of the Epidemics Act, therefore granting the Federal Council (government) with authorization by the Constitution and by law to take this decision without the involvement of Parliament. 
 
 *Sources*:
- https://www.admin.ch/opc/de/classified-compilation/20200744/index.html
-https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
+ https://www.venice.coe.int/files/EmergencyPowersObservatory/SUI-E.htm
+
+https://fcilsis.wordpress.com/2020/11/18/european-legal-responses-to-covid-19-switzerland/
 
 
 
@@ -223,14 +328,28 @@ https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 1
+
+ 
 
 *Comments*:
- No, the new regulation is an ordinance form the Swiss Federal Council (i.e. Federal Government), and does not need to be voted on, and thus has not been voted on, by parliament. 
+ According to the Swiss Constitution - article 185, the Federal Council is authorised by law to take emergency decisions without the involvement of Parliament, but according to Article 7d of the Government and Administration Organization Act of 21 March 1997, the emergency ordinances of the government must be ratified by Parliament after six months at the latest. 
+The Federal Council defined the Covid-19 crisis an “extraordinary situation” under Article 185 al. 3 of the Constitution and under Article 7 of the Epidemics Act, therefore granting the Federal Council (government) with authorization by the Constitution and by law to take this decision without the involvement of Parliament. 
+
+Ordinance 1, 2 and 3 were introduced and implemented without parliamentary approval. The Swiss Parliament (Federal Assembly) passed on  25 September 2020 the Federal Covid-19 Act (Federal Act on the Statutory Principles for Federal Council Ordinances on Combating the COVID-19 Epidemic) which creates a legal basis allowing the Federal Council to maintain the measures resolved by emergency decree that are still necessary to manage the Covid-19 epidemic, i.e. it authorized the Federal Council’s use of special powers “only to the extent that they are required to respond to the COVID-19 epidemic.” The Federal Covid-19 Act  expires on 31 December 2022. 
 
 *Sources*:
- https://www.admin.ch/opc/de/classified-compilation/20200744/index.html
-https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
+ https://www.venice.coe.int/files/EmergencyPowersObservatory/SUI-E.htm
+
+https://fcilsis.wordpress.com/2020/11/18/european-legal-responses-to-covid-19-switzerland/
+
+https://www.admin.ch/opc/fr/classified-compilation/20202070/index.html
 
 
 
@@ -250,22 +369,40 @@ https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 2 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The emergency situation allows the Federal Council to enact ordinances to mitigate the emergency that the parliament does not need to approve (but which will expire after 6 months if it does not approve it), through the emergency situation as it is regulated in the constitution (Article 185) and the Epidemics Act. The ordinance (number 2) that is the main legal instrument to handle the pandemic is one such ordinance, and also the current Ordninace 3 which contains less provisions, is such an ordinance. Consequently, the constitution and Empidemics Act gives the government a right to narrowly rule by decree (measures must be related to the emergency, and they expire if parliament don't approve them). This is therefore coded as 2 for both periods. 
+ The emergency situation allows the Federal Council to enact ordinances to mitigate the emergency that the parliament does not need to approve (but which will expire after 6 months if it does not approve it), through the emergency situation as it is regulated in the constitution (Article 185) and the Epidemics Act. Consequently, the Constitution and Empidemics Act gives the government a right to narrowly rule by decree (measures must be related to the emergency, and they expire if parliament don't approve them). 
+
+Ordinance 1, 2 and 3 were introduced and implemented without parliamentary approval, but the Swiss Parliament (Federal Assembly) passed on  25 September 2020 the Federal Covid-19 Act (Federal Act on the Statutory Principles for Federal Council Ordinances on Combating the COVID-19 Epidemic) which creates a legal basis allowing the Federal Council to maintain the measures resolved by emergency decree that are still necessary to manage the Covid-19 epidemic, i.e. it authorized the Federal Council’s use of special powers “only to the extent that they are required to respond to the COVID-19 epidemic.” The Federal Covid-19 Act  expires on 31 December 2022. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#S
+ https://www.venice.coe.int/files/EmergencyPowersObservatory/SUI-E.htm
+
+https://fcilsis.wordpress.com/2020/11/18/european-legal-responses-to-covid-19-switzerland/
+
+https://www.admin.ch/opc/fr/classified-compilation/20202070/index.html
+
+
+https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#S
+
 https://www.admin.ch/opc/fr/classified-compilation/20071012/index.html#a7
+
 https://www.constituteproject.org/constitution/Switzerland_2014.pdf?lang=en
-https://www.admin.ch/opc/en/classified-compilation/20201773/index.html
 
 
 
@@ -277,15 +414,22 @@ https://www.admin.ch/opc/en/classified-compilation/20201773/index.html
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -310,8 +454,15 @@ https://www.admin.ch/opc/en/classified-compilation/20201773/index.html
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -341,16 +492,30 @@ https://www.admin.ch/opc/en/classified-compilation/20201773/index.html
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 2 
+*Time period: Q2*: 2
+
+ 
+*Time period: Q3*: 2
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- Switzerland has both had a lot of nationwide emergency measures such as lockdowns and school closings, and emergency measures taken by the states such as curfews and varies reopening. This thus coded as 2, there's some sub-national variation in the emergency measures. 
+ Switzerland being a federal state grants a lot of independen in the cantons on how to issue regulations. Although the Ordinances containing the emergency measures were taken at the Federal level, there is still variation among the regions, 
+Switzerland has had both a lot of nationwide emergency measures such as lockdowns and school closings, and emergency measures taken by the states such as curfews and varies reopening. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-https://www.garda.com/crisis24/news-alert-full-history/sqd227zbeYFtufCtT/switzerland-first-coronavirus-confirmed-in-ticino-canton-february-25
-https://www.swissinfo.ch/eng/covid-19-_-geneva-bans-gatherings-of-more-than-five-people-/45619940
+ https://www.acaps.org/covid19-government-measures-dataset
+
+https://www.garda.com/crisis24/news-alert-full-history/sqd227zbeYFtufCtT/switzerland-first-coronavirus-confirmed-in-ticino-canton-february-25
+
+https://www.swissinfo.ch/eng/covid-19-_-geneva-bans-gatherings-of-more-than-five-people-/45619940
+
 https://www.swissinfo.ch/eng/coronavirus-fallout_swiss-canton-orders-non-essential-industry-to-cease-production/45634594
+
+https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
 
 
 
@@ -374,10 +539,13 @@ https://www.swissinfo.ch/eng/coronavirus-fallout_swiss-canton-orders-non-essenti
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -414,10 +582,13 @@ Time period: *Jul-Sep*: 0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -449,13 +620,22 @@ Time period: *Jul-Sep*: 0
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Swiss Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B142%5D=142
+ https://rsf.org/en/thematique/internet?countries%5B142%5D=142
+
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
 
 
@@ -468,21 +648,29 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B142%5D=142
+ https://rsf.org/en/thematique/internet?countries%5B142%5D=142
+
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
 
 
@@ -495,21 +683,31 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B142%5D=142
+ https://ipi.media/covid19-media-freedom-monitoring/
+
+https://rsf.org/en/thematique/internet?countries%5B142%5D=142
+
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
 
 
@@ -532,10 +730,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -543,7 +744,10 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Switzerland,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B142%5D=142
+ https://ipi.media/covid19-media-freedom-monitoring/
+
+https://rsf.org/en/thematique/internet?countries%5B142%5D=142
+
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
 
 
@@ -556,7 +760,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -566,10 +770,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -577,7 +784,10 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in Switzerland,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B142%5D=142
+ https://ipi.media/covid19-media-freedom-monitoring/
+
+https://rsf.org/en/thematique/internet?countries%5B142%5D=142
+
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
 
 
@@ -600,10 +810,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -611,7 +824,10 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in Switzerland  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B142%5D=142
+ https://ipi.media/covid19-media-freedom-monitoring/
+
+https://rsf.org/en/thematique/internet?countries%5B142%5D=142
+
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
 
 
@@ -631,14 +847,17 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -646,7 +865,10 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information, and there's no other indications of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B142%5D=142
+ https://ipi.media/covid19-media-freedom-monitoring/
+
+https://rsf.org/en/thematique/internet?countries%5B142%5D=142
+
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
 
 
@@ -669,10 +891,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -680,7 +905,10 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any verbal harassment of journalists in Switzerland, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B142%5D=142
+ https://ipi.media/covid19-media-freedom-monitoring/
+
+https://rsf.org/en/thematique/internet?countries%5B142%5D=142
+
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
 
 
@@ -703,10 +931,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -714,7 +945,10 @@ Time period: *Jul-Sep*: 0
  Neither Reporters without Borders nor International Press Institute have reported any physical harassment of journalists in Switzerland, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B142%5D=142
+ https://ipi.media/covid19-media-freedom-monitoring/
+
+https://rsf.org/en/thematique/internet?countries%5B142%5D=142
+
 https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
 
 
@@ -739,10 +973,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -750,8 +987,8 @@ Time period: *Jul-Sep*: 0
  There's no deviations from the information provided by WHO and that of the Swiss Government on Covid-19, and no complaints or accusations of any such disinformation have been found. 
 
 *Sources*:
- https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/krankheit-symptome-behandlung-ursprung.html
-https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/so-schuetzen-wir-uns.html
+ https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/krankheit-symptome-behandlung-ursprung.html
+https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/so-schuetzen-wir-uns.html
 
 
 
@@ -776,10 +1013,13 @@ https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -799,7 +1039,7 @@ Time period: *Jul-Sep*: 0
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -809,10 +1049,13 @@ Time period: *Jul-Sep*: 0
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -821,29 +1064,3 @@ Time period: *Jul-Sep*: 0
 
 *Sources*:
  http://euromil.org/armed-forces-and-covid-19/
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

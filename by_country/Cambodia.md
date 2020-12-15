@@ -1,9 +1,6 @@
 # Cambodia 
 
 
-Time 2020-06-16 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-06-16
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,31 +25,27 @@ Time 2020-06-16
  7. Other.
 
  
-*Answer*: 4 
+*Time period: Q2*: 5
+
+ 
+*Time period: Q3*: 5
+
+ 
+*Time period: Q4*: 5
+
+ 
 
 *Comments*:
- The Cambodian government introduced a state of emergency law which was passed on 29 April 2020. An official state of emergency was never declared. However, the laws passed through can still be enacted.
-
-Article 22 on the constitution states 'When the nation faces danger, the King shall make a public proclamation placing the country in a state of emergency, after unanimous agreement from the Prime Minister, the President of the National Assembly and the President of the Senate." 
+ The Cambodian government introduced a state of emergency law which was passed on 29 April 2020. An official state of emergency was never declared. However, the laws passed through can still be enacted. Article 22 on the constitution states 'When the nation faces danger, the King shall make a public proclamation placing the country in a state of emergency, after unanimous agreement from the Prime Minister, the President of the National Assembly and the President of the Senate." 
 
 *Sources*:
  https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
 
-
-
 https://www.hrw.org/news/2020/04/29/cambodia-covid-19-spurs-bogus-fake-news-arrests
-
-
 https://www.voacambodia.com/a/cambodia-s-controversial-state-of-emergency-draft-signed-into-law/5398771.html
-
-
-https://www.hrw.org/news/2020/04/02/cambodia-emergency-bill-recipe-dictatorship
-
-https://www.voacambodia.com/a/state-of-emergency-draft-law-gives-gov-t-sweeping-powers-permits-human-rights-restrictions-/5353728.html
-
-https://www.amnesty.org/en/latest/news/2020/04/cambodia-proposed-emergency-power-obliterate-human-rights/
-
-https://www.constituteproject.org/constitution/Cambodia_2008.pdf?lang=en
+https://www.hrw.org/news/2020/04/02/cambodia-emergency-bill-recipe-dictatorshiphttps://www.voacambodia.com/a/state-of-emergency-draft-law-gives-gov-t-sweeping-powers-permits-human-rights-restrictions-/5353728.htmlhttps://www.amnesty.org/en/latest/news/2020/04/cambodia-proposed-emergency-power-obliterate-human-rights/https://www.constituteproject.org/constitution/Cambodia_2008.pdf?lang=en
+
+https://www.justsecurity.org/71194/opportunism-covid-19-and-cambodias-state-of-emergency-law/
 
 
 
@@ -71,19 +64,21 @@ https://www.constituteproject.org/constitution/Cambodia_2008.pdf?lang=en
 *Scale*: Character string.
 
  
-*Answer*: Law on National Administration in the State of Emergency 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
-
-
-https://www.hrw.org/news/2020/04/02/cambodia-emergency-bill-recipe-dictatorship
-
-
-https://www.voacambodia.com/a/state-of-emergency-draft-law-gives-gov-t-sweeping-powers-permits-human-rights-restrictions-/5353728.html
+*No source provided*
 
 
 
@@ -102,35 +97,21 @@ https://www.voacambodia.com/a/state-of-emergency-draft-law-gives-gov-t-sweeping-
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Cambodian parliament passed a state of emegency law but never declared a state of emergency. 
+*No comment provided* 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/333951/cambodia-senate-authorizes-state-of-emergency-april-17-update-8
-
-
-"https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
-
-
-
-https://www.hrw.org/news/2020/04/29/cambodia-covid-19-spurs-bogus-fake-news-arrests
-
-
-https://www.voacambodia.com/a/cambodia-s-controversial-state-of-emergency-draft-signed-into-law/5398771.html
-
-
-https://www.hrw.org/news/2020/04/02/cambodia-emergency-bill-recipe-dictatorship
-
-https://www.voacambodia.com/a/state-of-emergency-draft-law-gives-gov-t-sweeping-powers-permits-human-rights-restrictions-/5353728.html
-
-https://www.amnesty.org/en/latest/news/2020/04/cambodia-proposed-emergency-power-obliterate-human-rights/
-
-https://www.constituteproject.org/constitution/Cambodia_2008.pdf?lang=en"
-
-
+*No source provided*
 
 
 
@@ -149,30 +130,21 @@ https://www.constituteproject.org/constitution/Cambodia_2008.pdf?lang=en"
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- A state of emergency was never declared. 
+*No comment provided* 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
-
-
-
-https://www.hrw.org/news/2020/04/29/cambodia-covid-19-spurs-bogus-fake-news-arrests
-
-
-https://www.voacambodia.com/a/cambodia-s-controversial-state-of-emergency-draft-signed-into-law/5398771.html
-
-
-https://www.hrw.org/news/2020/04/02/cambodia-emergency-bill-recipe-dictatorship
-
-https://www.voacambodia.com/a/state-of-emergency-draft-law-gives-gov-t-sweeping-powers-permits-human-rights-restrictions-/5353728.html
-
-https://www.amnesty.org/en/latest/news/2020/04/cambodia-proposed-emergency-power-obliterate-human-rights/
-
-https://www.constituteproject.org/constitution/Cambodia_2008.pdf?lang=en
+*No source provided*
 
 
 
@@ -194,16 +166,21 @@ https://www.constituteproject.org/constitution/Cambodia_2008.pdf?lang=en
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- There is no time limit. Chapter 2 of the law states 'The declaration of the state of emergency is made for a limited time or unlimited time. The declaration of the state of emergency for unlimited time is ended by Royal Decree when a situation is allowed.' 
+*No comment provided* 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/02/cambodia-emergency-bill-recipe-dictatorship
-
-
-https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
+*No source provided*
 
 
 
@@ -215,24 +192,28 @@ https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20E
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- There is no time limit. Chapter 2 of the law states 'The declaration of the state of emergency is made for a limited time or unlimited time. The declaration of the state of emergency for unlimited time is ended by Royal Decree when a situation is allowed.' 
+*No comment provided* 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/02/cambodia-emergency-bill-recipe-dictatorship
-
-
-https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
+*No source provided*
 
 
 
@@ -244,7 +225,7 @@ https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20E
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -254,13 +235,21 @@ https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20E
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The National Assembly voted on the on the bill which was passed in April 2020. However, it is also a one-party National Assembly. Hence there is minimal opportunity for opposing points of view. 
+*No comment provided* 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/02/cambodia-emergency-bill-recipe-dictatorship
+*No source provided*
 
 
 
@@ -282,13 +271,21 @@ https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20E
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- The National Assembly voted on the on the bill which was passed in April 2020. However, it is also a one-party National Assembly. Hence there is minimal opportunity for opposing points of view. 
+*No comment provided* 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/02/cambodia-emergency-bill-recipe-dictatorship
+*No source provided*
 
 
 
@@ -308,21 +305,31 @@ https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20E
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  The lawmaking role of the national legislature has not been affected. 
 
 *Sources*:
  https://www.amnesty.org/en/latest/news/2020/04/cambodia-proposed-emergency-power-obliterate-human-rights/
-
-
+
+
+
+
 https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
 
 
@@ -335,23 +342,32 @@ https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20E
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  I did not find any information suggesting that Cambodia's national legislature was dissolved. 
 
 *Sources*:
  https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia
-
-
+
+
+
+
 https://www.amnesty.org/en/countries/asia-and-the-pacific/cambodia/
 
 
@@ -371,16 +387,25 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/cambodia/
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  I did not find any information suggesting that Cambodia's national legislature was dissolved. 
 
 *Sources*:
  https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia
-
-
+
+
+
+
 https://www.amnesty.org/en/countries/asia-and-the-pacific/cambodia/
 
 
@@ -405,19 +430,27 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/cambodia/
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No evidence was found suggesting varied emergency measures in different parts of Cambodia. 
 
 *Sources*:
  https://www.hrw.org/asia/cambodia
-
-
-"https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/cambodia/"
+"
+
+https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia
+
+
+https://www.amnesty.org/en/countries/asia-and-the-pacific/cambodia/
 
 
 
@@ -441,10 +474,13 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/cambodia/"
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -484,21 +520,35 @@ https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20E
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- I did not find any measures that de-jure violated non-derogable rights as defined by the ICCPR. 
+ The emergency measures have not violated non-derogable rights as defined by the ICCPR. However, a draconian public order law has been drafted by the Cambodian government which could lead to non- derogable rights to be violated in the future. The proposed law would undermine a variety of freedoms. Examples include bans on wearing face masks indoors, restrictions on women’s attire in public, undermining the right to peaceful assembly. 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Cambodia_2008.pdf?lang=en
 
 
 https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
+
+https://www.amnesty.org/en/latest/news/2020/08/cambodia-repressive-draft-public-order-law-targets-the-most-vulnerable-in-society/
+
+
+https://www.hrw.org/news/2020/08/13/civil-society-organizations-call-draft-law-public-order-be-immediately-discarded
+
+
+https://www.voacambodia.com/a/draft-public-order-law-looks-to-control-cambodians-behavior-and-activities/5502253.html
+
+
+https://www.icj.org/cambodia-icj-and-64-organizations-call-for-immediate-withdrawal-of-draft-law-on-public-order/
 
 
 
@@ -522,23 +572,23 @@ https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20E
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 1 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- 1: Art 5(11) of the law provides for "Prohibiting or restricting the distribution or broadcast of information that could generate public alarm or fear or generate unrest, or that could bring about damage to national security, or that could bring into being confusion regarding the state of emergency."
-
-2: Monoroom.info, a Khmer-language news website based in France, became inaccessible in Cambodia on 31 March after it published several articles about the coronavirus situation there. It has remained inaccessible ever since. 
+ As the emergency law that was passed has not been enacted, media freedom is not limited. 
 
 *Sources*:
  https://rsf.org/en/news/cambodia-hun-sen-uses-covid-19-crisis-tighten-his-grip
-
-
 https://www.reuters.com/article/us-health-coronavirus-cambodia/cambodia-adopts-law-to-allow-for-emergency-powers-to-tackle-coronavirus-idUSKCN21S0IW
-
-
 https://www.ifj.org/media-centre/news/detail/category/press-releases/article/cambodia-parliament-approves-state-emergency-law-amid-the-pandemic.html
-
-
 
 
 
@@ -550,23 +600,28 @@ https://www.ifj.org/media-centre/news/detail/category/press-releases/article/cam
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-04-20 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Article 5(11) of the emergency law states that "Prohibiting or restricting the distribution or broadcast of information that could generate public alarm or fear or generate unrest, or that could bring about damage to national security, or that could bring into being confusion regarding the state of emergency." 
+*No comment provided* 
 
 *Sources*:
- https://rsf.org/en/news/cambodia-hun-sen-uses-covid-19-crisis-tighten-his-grip
-
-
-https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
+*No source provided*
 
 
 
@@ -578,27 +633,28 @@ https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20E
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Under the law, a State of Emergency could be declared "for a limited or unlimited period of time". Hence, there is no fixed end to the de-jure limits of media freedom. 
+*No comment provided* 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/02/cambodia-emergency-bill-recipe-dictatorship
-
-https://rsf.org/en/news/cambodia-hun-sen-uses-covid-19-crisis-tighten-his-grip
-
-
-https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
-
+*No source provided*
 
 
 
@@ -620,19 +676,20 @@ https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20E
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- 1: The new legislation allows the government to control the press and social media.
+ 1: Monoroom.info, a Khmer-language news website based in France, became inaccessible in Cambodia on 31 March after it published several articles about the coronavirus situation there. It has remained inaccessible ever since.
 
-2: Art 5(11) of the emergency law provides for “Prohibiting or restricting the distribution or broadcast of information that could generate public alarm or fear or generate unrest, or that could bring about damage to national security, or that could bring into being confusion regarding the state of emergency.” 
-
-3: Monoroom.info, a Khmer-language news website based in France, became inaccessible in Cambodia on 31 March after it published several articles about the coronavirus situation there. It has remained inaccessible ever since. 
+As Cambodia's media landscape is heavily controlled, I have coded this variable as 1 for all time periods. 
 
 *Sources*:
  https://www.theguardian.com/world/2020/apr/10/fears-as-cambodia-grants-hun-sen-vast-power-under-covid-19-pretext
@@ -656,7 +713,7 @@ https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20E
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -666,21 +723,25 @@ https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20E
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
 *Comments*:
- 1: The new legislation allows the government to control the press and social media.
+ 1: Monoroom.info, a Khmer-language news website based in France, became inaccessible in Cambodia on 31 March after it published several articles about the coronavirus situation there. It has remained inaccessible ever since.
 
-2: Art 5(11) of the emergency law provides for “Prohibiting or restricting the distribution or broadcast of information that could generate public alarm or fear or generate unrest, or that could bring about damage to national security, or that could bring into being confusion regarding the state of emergency.” 
+The laws and governments increased ability to control the press would hinder the journalists’ abilities to be critical on the government’s response to Covid-19.
 
-3: Monoroom.info, a Khmer-language news website based in France, became inaccessible in Cambodia on 31 March after it published several articles about the coronavirus situation there. It has remained inaccessible ever since.
+2: Journalist Sovann Rithy was sentenced to 18 months in October 2020 for reporting on comments that the Cambodian Prime Minister had publicly made about Covid-19. 
+3: Journalist Ros Sokhet was sentenced to 18 months in prison on 11 November 2020 for his criticism on government’s response to Covid-19. 
 
-The laws and governments increased ability to control the press would hinder the journalists’ abilities to be critical on the government’s response to Covid-19. 
+As Cambodia's media landscape is heavily controlled, I have coded this variable as 1 for all time periods. 
 
 *Sources*:
  https://www.theguardian.com/world/2020/apr/10/fears-as-cambodia-grants-hun-sen-vast-power-under-covid-19-pretext
@@ -693,6 +754,14 @@ https://rsf.org/en/news/cambodia-hun-sen-uses-covid-19-crisis-tighten-his-grip
 
 
 https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
+
+https://www.voanews.com/press-freedom/cambodias-sentencing-journalist-over-covid-19-comment-threat-freedoms-media-groups
+
+
+https://www.ifj.org/media-centre/news/detail/category/press-releases/article/cambodia-publisher-ros-sokhet-sentenced-for-government-criticism.html
+
+
+https://cpj.org/2020/06/cambodian-journalist-ros-sokhet-detained-charged-with-incitement/
 
 
 
@@ -714,17 +783,18 @@ https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20E
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- 1: Human Rights Watch has reported that the Cambodian authorities have been using the pandemic to carry out arbitrary arrests of opposition supporters and government critics. The Cambodian government has made at least 30 arrests from late January to April 2020. 12 of these 30 people are affiliated with the now dissolved opposition Cambodia National Rescue Party (CNRP).
-
-2: The new emergency law which was passed also allows the government to ban the publication of “any information that could cause unrest, fear or disorder”. Hence, this is not limited to just Covid-19 related issues. 
+ The government has the ability to limit reporting on non-Covid 19 related news with reference to the pandemic. The new emergency law which was passed also allows the government to ban the publication of “any information that could cause unrest, fear or disorder”. This is not limited to just Covid-19 related issues. However, documentation of such cases happening have not be reported. 
 
 *Sources*:
  https://www.hrw.org/news/2020/04/29/cambodia-covid-19-spurs-bogus-fake-news-arrests
@@ -748,14 +818,17 @@ https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 1
+*Time period: Q3*: 1
+
+ 
+*Time period: Q4*: 1
 
  
 
@@ -766,7 +839,7 @@ Time period: *Jul-Sep*: 1
 
 His crime was to have reported a comment about the economic effects of the Covid-19 crisis that the prime minister made during a press conference earlier in the day. As Sovann Rithy accurately reported in a Facebook post, Hun Sen said: “If motorbike-taxi drivers go bankrupt, sell your motorbikes for spending money. The government does not have the ability to help.”
  
-The information ministry reacted by ordering the revocation of TVFB’s media licence on the grounds that its editor had “selected” the prime minister’s quote. 
+The information ministry reacted by ordering the revocation of TVFB’s media license on the grounds that its editor had “selected” the prime minister’s quote. 
 
 *Sources*:
  https://rsf.org/en/news/cambodia-hun-sen-uses-covid-19-crisis-tighten-his-grip
@@ -794,10 +867,13 @@ https://rsf.org/en/news/cambodian-reporter-jailed-quoting-pms-comment-about-covi
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -831,10 +907,13 @@ https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -870,10 +949,13 @@ https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -909,10 +991,13 @@ https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -936,7 +1021,7 @@ https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -946,10 +1031,13 @@ https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -959,29 +1047,3 @@ management of the country amid the emergency is made under the military junta...
 
 *Sources*:
  https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*

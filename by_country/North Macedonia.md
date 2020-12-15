@@ -1,9 +1,6 @@
 # North Macedonia 
 
 
-Time 2020-09-11 
-
-
 
 
 
@@ -13,7 +10,7 @@ Time 2020-09-11
 
  
 
-*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or theg overnment has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
+*Clarification*: Here we are interested in the primary legal instrument used to adopt and enforce  the  main  national-level  emergency  measures  with  reference  to  Covid-19  since March 11, 2020.  If the country has used multiple instruments, choose the one that most closely resembles a “state of exception”, defined as a period during which one person or the government has enhanced powers and authority to limit rights and freedoms beyond what the law ordinarily allows (e.g.  seeAgamben 2005).  Note that the emergency measures may have ended by the time of coding.
 
  
 
@@ -28,10 +25,22 @@ Time 2020-09-11
  7. Other.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 4
+
+ 
 
 *Comments*:
- The government declared a state of emergency on 18 March, initially for 30 days (Decision 08-526/2). On 15 May, it was extended by 14 days (Decision 08-682/2). It was then extended by another 14 days on 30 May (Decision 08-729/2), and ended on 13 June. On 15 June, the state of emergency was declared for 8 days to prepare for parliamentary elections (Decision 08-777/3). According to Decision 08-777/3, the state of emergency is declared for holding parliamentary elections with public health measures due to covid-19; since it is declared with reference to covid-19, it is considered part of emergency measures.
+ March-June: The government declared a state of emergency on 18 March, initially for 30 days (Decision 08-526/2). On 15 May, it was extended by 14 days (Decision 08-682/2). It was then extended by another 14 days on 30 May (Decision 08-729/2), and ended on 13 June. On 15 June, the state of emergency was declared for 8 days to prepare for parliamentary elections (Decision 08-777/3). According to Decision 08-777/3, the state of emergency is declared for holding parliamentary elections with public health measures due to covid-19; since it is declared with reference to covid-19, it is considered part of emergency measures.
+
+July-September:  the primary legal instrument for this time period is "Zakon za zaštita na naselenieto od zarazni bolesti" (Law on Protection of the Population from Infectious Diseases). This legal instrument gives the government authority to implement emergency measures.
+
+October-December: State of crisis (kriznata sostojba) was declared by the government on 20 November 2020 based on the Crisis Management Law ("Zakon za upravuvanje so krizi"). The legal instrument gives the Crisis Management Center the authority to implement emergency measures.
  
 
 *Sources*:
@@ -40,6 +49,14 @@ http://www.slvesnik.com.mk/Issues/4049500a3fc544da898402bee6a65758.pdf
 http://www.slvesnik.com.mk/Issues/08b78c356ddb4deca2f171fe70aace21.pdf
 http://www.slvesnik.com.mk/Issues/d6c92844ad5a4fe2bc47874b138e97fa.pdf
 http://www.slvesnik.com.mk/Issues/77051cc736f74b29be692142447b43a4.pdf
+
+https://vlada.mk/uredbi-covid19
+http://www.slvesnik.com.mk/Issues/099b0abae78442ddab217ec729d2d9e1.pdf
+https://www.worldaware.com/covid-19-alert-north-macedonia-lift-additional-restrictions-june-26-airports-opening-july-1
+
+https://vlada.mk/node/23294
+https://koronavirus.gov.mk/vesti/219024
+https://www.garda.com/crisis24/news-alerts/402236/north-macedonia-authorities-declare-state-of-crisis-november-20-update-15
 
 
 
@@ -58,15 +75,30 @@ http://www.slvesnik.com.mk/Issues/77051cc736f74b29be692142447b43a4.pdf
 *Scale*: Character string.
 
  
-*Answer*: Constitution (Articles 125, 126) 
+*Time period: Q2*: Constitution (Articles 125, 126)
+
+ 
+*Time period: Q3*: Zakon za zaštita na naselenieto od zarazni bolesti
+
+ 
+*Time period: Q4*: Zakon za upravuvanje so krizi
+
+ 
 
 *Comments*:
- According to Article 125 of the Constitution, the decision to declare a state of emergency is made by the parliament, but if the parliament cannot meet, the state of emergency can be declared by the President and needs to be approved by the parliament as soon as it can meet.
- 
+ March-June: According to Article 125 of the Constitution, the decision to declare a state of emergency is made by the parliament, but if the parliament cannot meet, the state of emergency can be declared by the President and needs to be approved by the parliament as soon as it can meet.
+
+July-September: According to Art. 58 of "Zakon za zaštita na naselenieto od zarazni bolesti" (Law on Protection of the Population from Infectious Diseases, the government is authorized to implement emergency measures, such prohibiting travel to countries with high prevalence of infectious diseases, limiting freedom of movement due to spread of infectious diseases, prohibiting mass gatherings and other measures.
+
+October-December: According to "Zakon za upravuvanje so krizi" (unofficial translation: Crisis Management Law), the government declares a state of crisis and the Crisis Management Center has authority to implement emergency measures during a state of crisis. 
 
 *Sources*:
  http://www.slvesnik.com.mk/Issues/4049500a3fc544da898402bee6a65758.pdf
 https://www.constituteproject.org/constitution/Macedonia_2011?lang=en
+
+http://www.slvesnik.com.mk/Issues/099b0abae78442ddab217ec729d2d9e1.pdf
+
+http://www.macefdrr.gov.mk/files/dokumenti/pzrdo/Zakon%20za%20upravuvanje%20so%20krizi%202005.pdf
 
 
 
@@ -85,13 +117,30 @@ https://www.constituteproject.org/constitution/Macedonia_2011?lang=en
 *Scale*: Date format.
 
  
-*Answer*: 2020-03-18 
+*Time period: Q2*: 2020-03-18
+
+ 
+*Time period: Q3*: 2020-03-13
+
+ 
+*Time period: Q4*: 2020-11-20
+
+ 
 
 *Comments*:
-*No comment provided* 
+ March-June: The government declared a state of emergency on 18 March (Decision 08-526/2). 
+
+July-September:  The first time "Zakon za zaštita na naselenieto od zarazni bolesti" (Law on Protection of the Population from Infectious Diseases) was used to implement emergency measures was on 13 March 2020 (Decision from 12 March, published in State Gazette 62/20), and it has been amended several times since then.
+
+October-December: State of crisis (kriznata sostojba) was declared by the government on 20 November 2020 based on the Crisis Management Law ("Zakon za upravuvanje so krizi"). The legal instrument gives the Crisis Management Center the authority to implement emergency measures. 
 
 *Sources*:
  http://www.slvesnik.com.mk/Issues/4049500a3fc544da898402bee6a65758.pdf
+
+http://www.slvesnik.com.mk/Issues/099b0abae78442ddab217ec729d2d9e1.pdf
+
+https://vlada.mk/node/23294
+h
 
 
 
@@ -110,13 +159,27 @@ https://www.constituteproject.org/constitution/Macedonia_2011?lang=en
 *Scale*: Date format.
 
  
-*Answer*: 2020-06-22 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- State of emergency ended on 22 June 2020. Decision (08-526/2) by the government to declare a state of emergency for 30 days. On 15 May 2020, a decision (08-682/2) to extend the state of emergency by 14 days. On 30 May, a decision ( 08-729/2) to extend the state of emergency for 14 days, which expired on 13 June. On 15 June, a decision ( 08-777/3) to declare a state of emergency for 8 days to prepare for parliamentary elections. 
+ Some emergency measures implemented using "Zakon za zaštita na naselenieto od zarazni bolesti" are still in place at the time of coding.
+ 
 
 *Sources*:
- http://www.slvesnik.com.mk/Issues/77051cc736f74b29be692142447b43a4.pdf
+ http://www.slvesnik.com.mk/Issues/099b0abae78442ddab217ec729d2d9e1.pdf
+http://www.slvesnik.com.mk/Issues/77051cc736f74b29be692142447b43a4.pdf
+
+https://vlada.mk/sites/default/files/img/odluka_covid-19.pdf
+
+https://vlada.mk/node/23294
 
 
 
@@ -138,13 +201,24 @@ https://www.constituteproject.org/constitution/Macedonia_2011?lang=en
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- State of emergency was declared for 30 days and all extensions had a time limit: decision (08-526/2) by the government to declare a state of emergency for 30 days. On 15 May 2020, a decision (08-682/2) to extend the state of emergency by 14 days. On 30 May, a decision ( 08-729/2) to extend the state of emergency for 14 days, which expired on 13 June. On 15 June, a decision ( 08-777/3) to declare a state of emergency for 8 days to prepare for parliamentary elections. 
+ Although state of emergency and state of crisis were declared for 30 days, measures implemented using "Zakon za zaštita na naselenieto od zarazni bolesti" (Law on Protection of the Population from Infectious Diseases) were declared without a time limit.
+
+
+ 
 
 *Sources*:
- http://www.slvesnik.com.mk/Issues/4049500a3fc544da898402bee6a65758.pdf
+ http://www.slvesnik.com.mk/Issues/099b0abae78442ddab217ec729d2d9e1.pdf
 
 
 
@@ -156,20 +230,29 @@ https://www.constituteproject.org/constitution/Macedonia_2011?lang=en
 
  
 
-*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in 	extit{emlaw} (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
+*Clarification*: This addresses the legal instrument defined in *emlaw*.  If the enhanced powers have no officially declared end date but have a natural sunset clause under the legal framework described in *emlaw* (e.g. every 30 days), code the date at which such an expiry would occur without review for extension. If the end date varies by provision, code the date when the final provision is set to expire. If there is no officially declared end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-06-22 
+*Time period: Q2*: 
+
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
- Based on decision (08-777/3) from 15 June to extend the state of emergency for 8 days to prepare for parliamentary elections. 
+ Although state of emergency and state of crisis were declared for 30 days, measures implemented using "Zakon za zaštita na naselenieto od zarazni bolesti" (Law on Protection of the Population from Infectious Diseases) were declared without a time limit.
+ 
 
 *Sources*:
- http://www.slvesnik.com.mk/Issues/08b78c356ddb4deca2f171fe70aace21.pdf
+ http://www.slvesnik.com.mk/Issues/099b0abae78442ddab217ec729d2d9e1.pdf
 
 
 
@@ -181,7 +264,7 @@ https://www.constituteproject.org/constitution/Macedonia_2011?lang=en
 
  
 
-*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in 	extit{emlaw}. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
+*Clarification*: This question refers to the legal instrument used to adopt the main national-level emergency measures as defined in *emlaw*. By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws.
 
  
 
@@ -191,14 +274,32 @@ https://www.constituteproject.org/constitution/Macedonia_2011?lang=en
  1. Yes.
 
  
-*Answer*: 1 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- According to Article 125 of the Constitution, the decision to declare a state of emergency is made by the parliament, but if the parliament cannot meet, the state of emergency can be declared by the President and needs to be approved by the parliament as soon as it can meet. Same conditions for extensions. 
+ March-June: According to Article 125 of the Constitution, the decision to declare a state of emergency is made by the parliament, but if the parliament cannot meet, the state of emergency can be declared by the President and needs to be approved by the parliament as soon as it can meet. Same conditions for extensions.
+
+July-September: According to Art. 58 of "Zakon za zaštita na naselenieto od zarazni bolesti" (Law on Protection of the Population from Infectious Diseases, the government is authorized to implement emergency measures, so parliamentary approval is not required.
+
+October-December: A declaration of the state of crisis does not need to be approved by the parliament. A state of crisis cannot last longer than 30 days. After 30 days, the parliament can either approve the extension of the state of crisis or declare a state of emergency (Art 31 of the Crisis Management Law). 
 
 *Sources*:
  https://www.constituteproject.org/constitution/Macedonia_2011?lang=en
 http://www.slvesnik.com.mk/Issues/d6c92844ad5a4fe2bc47874b138e97fa.pdf
+
+http://zdravstvo.gov.mk/zakon-za-zashtita-na-naselenieto-od-zarazni-bolesti/
+
+https://vlada.mk/node/23294
+http://www.macefdrr.gov.mk/files/dokumenti/pzrdo/Zakon%20za%20upravuvanje%20so%20krizi%202005.pdf
+https://koronavirus.gov.mk/vesti/219024
 
 
 
@@ -220,10 +321,22 @@ http://www.slvesnik.com.mk/Issues/d6c92844ad5a4fe2bc47874b138e97fa.pdf
  1. Yes.
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- The parliament was dissolved since 16 February 2020 due to parliamentary elections (i.e. not covid-19) and therefore the declaration and extensions of the state of emergency were made by the government. Each decision has provisions for the need to be approved by the parliament, as soon as its able to meet. At the time of coding, the parliament has met and but not yet approved the decisions (both to declare a state of emergency and to extend it several times) yet. 
+ March-June: The parliament was dissolved since 16 February 2020 due to parliamentary elections (i.e. not covid-19) and therefore the declaration and extensions of the state of emergency were made by the government. Each decision has provisions for the need to be approved by the parliament, as soon as it is able to meet. At the time of coding, the parliament has met and but not yet approved the decisions (both to declare a state of emergency and to extend it several times) yet.
+
+July-September: declaration of emergency measures  based on "Zakon za zaštita na naselenieto od zarazni bolesti"  does not need to be approved by the legislature.
+
+October-December: the declaration of a state of crisis does not need to be approved by the legislature. 
 
 *Sources*:
  https://pretsedatel.mk/%d0%b2%d0%be%d0%bd%d1%80%d0%b5%d0%b4%d0%bd%d0%be-%d0%be%d0%b1%d1%80%d0%b0%d1%9c%d0%b0%d1%9a%d0%b5-%d0%bd%d0%b0-%d0%bf%d1%80%d0%b5%d1%82%d1%81%d0%b5%d0%b4%d0%b0%d1%82%d0%b5%d0%bb%d0%be%d1%82-%d0%bd/
@@ -234,6 +347,7 @@ http://www.slvesnik.com.mk/Issues/77051cc736f74b29be692142447b43a4.pdf
 
 https://www.sobranie.mk/prebaruvanje.nspx?q=%D0%9A%D0%9E%D0%92%D0%98%D0%94-19
 https://pretsedatel.mk/%d0%bf%d1%80%d0%b5%d1%82%d1%81%d0%b5%d0%b4%d0%b0%d1%82%d0%b5%d0%bb%d0%be%d1%82-%d0%bf%d0%b5%d0%bd%d0%b4%d0%b0%d1%80%d0%be%d0%b2%d1%81%d0%ba%d0%b8-%d0%b3%d0%b8-%d0%b8%d1%81%d0%bf%d1%80%d0%b0%d1%82/
+https://www.dw.com/mk/%D0%BA%D0%BE%D0%BD%D1%84%D1%83%D0%B7%D0%B8%D1%98%D0%B0-%D0%B2%D0%BE-%D0%B2%D0%BC%D1%80%D0%BE-%D0%B4%D0%BF%D0%BC%D0%BD%D0%B5-%D0%B1%D0%B0%D1%80%D0%B0%D0%B0-%D0%B2%D0%BE%D0%BD%D1%80%D0%B5%D0%B4%D0%BD%D0%B0-%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%98%D0%B1%D0%B0-%D1%81%D0%B5%D0%B3%D0%B0-%D1%98%D0%B0-%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%83%D0%B2%D0%B0%D0%B0%D1%82/a-55114382
 
 
 
@@ -253,21 +367,40 @@ https://pretsedatel.mk/%d0%bf%d1%80%d0%b5%d1%82%d1%81%d0%b5%d0%b4%d0%b0%d1%82%d0
 
  0. No,Not at all. The lawmaking role of the national legislature is not affected. 
  1. Very little. The legislature has given the executive branch the power to relatively widely interpret Covid-19 related laws, but not to rule by decree. 
- 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the health system. 
+ 2. Somewhat. The executive branch has the right to rule by decree on several, narrowly Covid-19 related issues such as deciding on physical distance measures and measures to support the healthcare system. 
  3. To a large extent. The executive branch has the right to rule by decree on many issues, which may exceed Covid-19 related issues due to vague formulation in emergency laws. 
  4. Completely. The legislature has been dissolved, suspended or equivalent with reference to Covid-19. 
- 5. No legislature existed prior to Covid-19.
+ 5. No legislature existed prior to Covid-19 or the legislature has been dissolved for some reason other than Covid-19 (e.g. coup d'État).
 
  
-*Answer*: 4 
+*Time period: Q2*: 4
+
+ 
+*Time period: Q3*: 4
+
+ 
+*Time period: Q4*: 2
+
+ 
 
 *Comments*:
- The parliament was dissolved since February 2020 due to general elections initially scheduled for 12 April 2020. Since the dissolution of the parliament had to be extended due to covid-19, leglimit is coded as 4. The new parliament met at the end of August but has not approved the declaration and extensions of the state of emergency (as of the time of coding). Based on the government's website, the President sent the decisions to the parliament for confirmation on 25 August. Leglimit is coded as 4 in both March-June and July-September period since the parliament was dissolved until 15 July elections.
+ March-June, July-September: The parliament was dissolved since February 2020 due to general elections initially scheduled for 12 April 2020. Since the dissolution of the parliament had to be extended due to covid-19, leglimit is coded as 4. The new parliament met at the end of August but has not approved the declaration and extensions of the state of emergency. Based on the government's website, the President sent the decisions to the parliament for confirmation on 25 August. According to local media sources from 1 October, it is still unclear if the parliament approved the state of emergency.
 
-According to IDEA, "The country has been facing challenges due to the lack of a functioning parliament. After the European Council failed to agree on the start of EU membership discussions for the country in October 2019, then Prime Minister Zoran brought the parliamentary elections forward from November to 12 April, seeking a fresh mandate. With a unanimous vote on 16 February, the Assembly was dissolved, paving the way to election and a technical unity government was formed, a recent custom to provide all parties with confidence in the election process. A month later, emergency powers were introduced as COVID-19 swept across Europe, and the election postponed by cross-party agreement. The state of emergency gives the government the ability to adopt and enforce decrees, all in the absence a parliament to provide accountability." 
+According to IDEA, "The country has been facing challenges due to the lack of a functioning parliament. After the European Council failed to agree on the start of EU membership discussions for the country in October 2019, then Prime Minister Zoran brought the parliamentary elections forward from November to 12 April, seeking a fresh mandate. With a unanimous vote on 16 February, the Assembly was dissolved, paving the way to election and a technical unity government was formed, a recent custom to provide all parties with confidence in the election process. A month later, emergency powers were introduced as COVID-19 swept across Europe, and the election postponed by cross-party agreement. The state of emergency gives the government the ability to adopt and enforce decrees, all in the absence a parliament to provide accountability."
+
+October-December: According to the Crisis Management Law ("Zakon za upravuvanje so krizi"), the Crisis Management Center has the authority to implement emergency measures during a state of crisis, and the government should notify the parliament about the implemented measures once a week. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Macedonia_2011?lang=enhttps://www.reuters.com/article/us-north-macedonia-election/north-macedonia-parliament-dissolves-sets-poll-date-after-eu-shuns-talks-idUSKBN20A0ONhttps://www.sobranie.mk/sredbi-2020-ns_article-pres-konferencija-po-povod-raspishuvanjeto-na-predvremenite-parlamentarni-izbori.nspxhttps://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B343%5D&covid19=1https://pretsedatel.mk/%d0%bf%d1%80%d0%b5%d1%82%d1%81%d0%b5%d0%b4%d0%b0%d1%82%d0%b5%d0%bb%d0%be%d1%82-%d0%bf%d0%b5%d0%bd%d0%b4%d0%b0%d1%80%d0%be%d0%b2%d1%81%d0%ba%d0%b8-%d0%b3%d0%b8-%d0%b8%d1%81%d0%bf%d1%80%d0%b0%d1%82/
+ https://www.constituteproject.org/constitution/Macedonia_2011?lang=en
+https://www.reuters.com/article/us-north-macedonia-election/north-macedonia-parliament-dissolves-sets-poll-date-after-eu-shuns-talks-idUSKBN20A0ON
+https://www.sobranie.mk/sredbi-2020-ns_article-pres-konferencija-po-povod-raspishuvanjeto-na-predvremenite-parlamentarni-izbori.nspx
+https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B343%5D&covid19=1
+
+https://pretsedatel.mk/%d0%bf%d1%80%d0%b5%d1%82%d1%81%d0%b5%d0%b4%d0%b0%d1%82%d0%b5%d0%bb%d0%be%d1%82-%d0%bf%d0%b5%d0%bd%d0%b4%d0%b0%d1%80%d0%be%d0%b2%d1%81%d0%ba%d0%b8-%d0%b3%d0%b8-%d0%b8%d1%81%d0%bf%d1%80%d0%b0%d1%82/
+https://a1on.mk/macedonia/neizvesno-potvrduvanjeto-na-odlukite-za-vonredna-sostojba-vo-sobranieto/
+https://24.mk/details/neizvesno-potvrduvanjeto-na-odlukite-za-vonredna-sostojba-vo-sobranieto
+
+http://www.macefdrr.gov.mk/files/dokumenti/pzrdo/Zakon%20za%20upravuvanje%20so%20krizi%202005.pdf
 
 
 
@@ -279,14 +412,22 @@ According to IDEA, "The country has been facing challenges due to the lack of a 
 
  
 
-*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (	extit{leglimit}!=4).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
+*Clarification*: By national legislature, we mean the national body with powers to examine, pass, amend, or repeal laws. Leave blank if the legislature has not been dissolved, suspended, or equivalent with reference to Covid-19 (*leglimit=4*).  Note that an extended recess during which the legislature continues to exist and/or periods where the plenary is suspended but committees still meet do not count as suspension, dissolution, or equivalent. If exact date is unknown, give an approximate date (e.g. first of month if month is known).
 
  
 
 *Scale*: Date format.
 
  
-*Answer*: 2020-02-16 
+*Time period: Q2*: 2020-02-16
+
+ 
+*Time period: Q3*: 2020-02-16
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The parliament voted to dissolve itself on 16 February 2020 in preparation for general elections. 
@@ -311,7 +452,15 @@ According to IDEA, "The country has been facing challenges due to the lack of a 
 *Scale*: Date format.
 
  
-*Answer*: 2020-08-04 
+*Time period: Q2*: 2020-08-04
+
+ 
+*Time period: Q3*: 2020-08-04
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
  The new parliament held its first session on 4 August 2020. 
@@ -341,15 +490,22 @@ According to IDEA, "The country has been facing challenges due to the lack of a 
  3. Almost completely. The emergency measures vary across all or almost all of the sub-national areas of the country.
 
  
-*Answer*: 0 
+*Time period: Q2*: 1
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
- Almost uniform measures throughout the country. 
+ March-June: stricter restrictions on movement in some areas from 4 June (night curfew in Skopje, Tetovo, Kumanovo, and Stip cities; the rural municipalities of Lipkovo, Bogovinje, Brvenica, Tearce, Zhelino, Jegunovce, and Karbinc). No further measures implemented on a subnational level found. 
 
 *Sources*:
- https://vlada.mk/covid19
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B343%5D&covid19=1
-https://www.garda.com/crisis24/news-alerts/330296/north-macedonia-curfew-hours-extended-in-kumanovo-municipality-april-8-update-4
+ https://www.garda.com/crisis24/news-alerts/348246/north-macedonia-authorities-reimpose-movement-restrictions-following-rise-in-covid-19-cases-june-4-8-update-11
+https://vlada.mk/uredbi-covid19
 
 
 
@@ -373,10 +529,13 @@ https://www.garda.com/crisis24/news-alerts/330296/north-macedonia-curfew-hours-e
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -414,10 +573,13 @@ https://www.hhrjournal.org/2020/04/anti-roma-racism-is-spiraling-during-covid-19
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -451,7 +613,15 @@ https://cpj.org/europe/north-macedonia/
  3. Almost completely. The emergency measures de-jure require that all or almost all media reporting on Covid-19 reflect the government's position. 
 
  
-*Answer*: 0 
+*Time period: Q2*: 0
+
+ 
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
+
+ 
 
 *Comments*:
  No evidence of measures limiting media freedom found. The Minister of Health and the Ministry of Interior published a statement against false information, but I have not found any indication that this is based on new measures. 
@@ -471,15 +641,22 @@ https://www.icnl.org/covid19tracker/?location=141&issue=&date=&type=
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{melim}) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*melim*) were first adopted. If the exact date is unknown, give the first day of the month. If there are no de-jure limits on media freedoms (melim=0), leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -497,15 +674,22 @@ https://www.icnl.org/covid19tracker/?location=141&issue=&date=&type=
 
  
 
-*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (	extit{medialimits}) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
+*Clarification*: This question addresses the text of the main national-level emergency measures (de-jure). Do not consider the extent to which such provisions have been enforced. Provide the exact date the emergency measures with de-jure limitations on media freedoms (*medialimits*) are set to expire. If the exact date is unknown, give the final day of the month. If there are no de-jure limits on media freedoms (melim=0) or there is no defined end date, leave blank.
 
  
 
 *Scale*: Date format.
 
  
+*Time period: Q2*: 
 
-*Answer:* *No answer entered* 
+ 
+*Time period: Q3*: 
+
+ 
+*Time period: Q4*: 
+
+ 
 
 *Comments*:
 *No comment provided* 
@@ -533,10 +717,13 @@ https://www.icnl.org/covid19tracker/?location=141&issue=&date=&type=
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -559,7 +746,7 @@ https://rsf.org/en/north-macedonia
 
  
 
-*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and 	extit{merepfact} as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
+*Clarification*: Here we are interested in the de-facto limitation of media reporting about news on the government responses to Covid-19. If this includes limitations on reporting about the government's official messaging on the pandemic (e.g. its prevalence, treatment, or origins), code this and *merepfact* as 1- Yes. These limits may or may not be allowed by law. The overall media environment is to be considered when coding this variable. Provide specific references to sources and comments to justify coding. 
 
  
 
@@ -569,10 +756,13 @@ https://rsf.org/en/north-macedonia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -604,10 +794,13 @@ https://rsf.org/en/north-macedonia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -636,14 +829,17 @@ https://rsf.org/en/north-macedonia
 *Scale*: Ordinal, (0-2) 
 
  0. Never or almost never. There are no or almost no reports of the government or its agents limiting media access to Covid-19 related information.  
-  1.Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
+  1. Occasional. There are a few isolated reports of the government or government officials limiting media access to Covid-19 related information, but these are not systematic or ongoing. 
  2. Often. There are widespread and ongoing reports of the government and its agents limiting media access to Covid-19 related information.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -675,10 +871,13 @@ https://rsf.org/en/north-macedonia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -710,10 +909,13 @@ https://rsf.org/en/north-macedonia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -748,10 +950,13 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/north-macedonia/
  3. Always or almost always. The government and its agents systematically disseminate information on a wide range of basic matters concerning Covid-19 that always or almost always deviates from the official information provided by the WHO.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -786,10 +991,13 @@ https://rsf.org/en/north-macedonia
  3. Often. There are widespread reports about use of violence, sometimes with lethal outcomes, by security forces when executing emergency measures taken with reference to Covid-19.
 
  
-Time period: *Mar-Jun*: 0
+*Time period: Q2*: 0
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
@@ -810,7 +1018,7 @@ https://www.hrw.org/europe/central-asia/macedonia
 
  
 
-*Clarification*: ``Confinement measures'' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
+*Clarification*: 'Confinement measures' refer to measures restricting citizens' freedom of movement. Such measures include  quarantines, lockdowns, curfews and  travel restriction within the country. ``The military'' refers to the set of armed organizations responsible for external security that are primarily composed of active-duty members (as opposed to reserve forces). We are interested in whether the military has been given the power to ensure these measures are respected using coercion. We are not interested in whether the military is deployed to deliver aid or provide help to healthcare facilities.
 
  
 
@@ -820,42 +1028,19 @@ https://www.hrw.org/europe/central-asia/macedonia
  1. Yes.
 
  
-Time period: *Mar-Jun*: 1
+*Time period: Q2*: 1
 
  
-Time period: *Jul-Sep*: 0
+*Time period: Q3*: 0
+
+ 
+*Time period: Q4*: 0
 
  
 
 *Comments*:
- The military was involved in monitoring and enforcement of quarantine during the state of emergency. Since the state of emergency was lifted on 22 June, milinv is coded as 1 only during March-June 2020 period. 
+ The military was involved in monitoring and enforcement of quarantine during the state of emergency, which ended on 22 June. I have not found any further information on the military's involvement in the implementation of confinemement measures. 
 
 *Sources*:
  http://www.arm.mil.mk/armijata-vo-poddrshka-na-instituciite/pretsedatelot-pendarovski-primi-pripadnici-na-armijata-koi-uchestvuvaat-vo-spravuvanjeto-so-pandemijata-na-kovid-19/
 http://www.arm.mil.mk/armijata-vo-poddrshka-na-instituciite/aktivnosti-na-armijata-vo-sproveduvanjeto-na-zadachite-vo-uslovi-na-proglasena-vonredna-sostojba-predizvikana-od-pojavata-na-korona-virusot-kovid-19/
-
-
-
-
-
-## Other limitations (*misclimit*) 
-
-*Question*: What other emergency measures did the government pass or implement - not mentioned here until now - with reference to Covid-19, which limit the quality of electoral or liberal democracy? 
-
- 
-
-*Clarification*: This includes for instance the ad-hoc removal of judges, jailing well-known opposition figures, use of financial responses to strengthen loyalists and weaken opposition, etc. 
-
- 
-
-*Scale*: Character string.
-
- 
-
-*Answer:* *No answer entered* 
-
-*Comments*:
-*No comment provided* 
-
-*Sources*:
-*No source provided*
