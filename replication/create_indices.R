@@ -200,7 +200,6 @@ dat.indices.indicators <- dat.indices.indicators %>%
 #Save
 write.xlsx(dat.indices.indicators, 'datasets/pandem_TS_v6.xlsx', sheetName = "Sheet1", 
            col.names = TRUE, row.names = FALSE, append = FALSE, headerStyle = createStyle(textDecoration = "Bold"))
-write.csv(dat.indices.indicators, 'csv_files/pandemTS_CHECK.csv')
 
 ######################################################################
 #Create Cross-Section Dataset
@@ -224,8 +223,6 @@ dat.cs$type7 <- t7_max
 dat.cs <- dat.cs %>% 
   relocate(time) %>% 
   relocate(v2x_libdem_2019, .after = country_name)
-
-dat.cs
 
 #Save
 write.xlsx(dat.cs, 'datasets/pandem_CS_v6.xlsx', sheetName = "Sheet1", 
