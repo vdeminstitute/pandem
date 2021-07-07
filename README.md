@@ -20,6 +20,6 @@ Click [here](https://github.com/vdeminstitute/pandem/tree/master/by_country) to 
 
 Check out our **dashboard** [here](https://www.v-dem.net/en/analysis/PanDem/) to explore the most recent PanDem data and indices. Read our **policy briefs** [here](https://www.v-dem.net/en/publications/briefing-papers/).
 
-# What's new in this version
+## What's new in this version
 
 V5 provided a time series for the three last quarters of 2020 (Q2, Q3, and Q4). This new version (v6), adds the first two quarters of 2021. In v6, we build on prior coding and sources of information from v3, v4, and v5 instructing coders to look for any new information that updates our prior knowledge for previous coding periods. If they find such information, values  are updated to reflect the new information and new sources/comments are added. For this reason, values may deviate from v5 coding.  The coding for the fourth quarter of 2020 may also deviate from v5 if new information was found concerning events occurring between December 10th (the last date covered by v5) and December 31st. 
