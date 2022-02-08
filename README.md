@@ -18,7 +18,7 @@ The full **codebook** for this project is available [here](https://github.com/vd
 
 Click [here](https://github.com/vdeminstitute/pandem/tree/master/by_country) to access all coding sources and justifications organized **by country**, and [here](https://github.com/vdeminstitute/pandem/tree/master/by_question) to access all sources and coding justifications organized **by question**. 
 
-Check out our **dashboard** [here](https://www.v-dem.net/en/analysis/PanDem/) to explore the most recent PanDem data and indices. Read our **policy briefs** [here](https://www.v-dem.net/en/publications/briefing-papers/).
+Check out our **dashboard** [here](https://www.v-dem.net/pandem.html) to explore the most recent PanDem data and indices. Read our **policy briefs** [here](https://www.v-dem.net/pb.html).
 
 ## What's new in this version
 
