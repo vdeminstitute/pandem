@@ -14,7 +14,7 @@ This repository contains the data and sources for the PanDem project. We provide
 
 The R script that produces the indices and the two datasets from the raw data is available [here](https://github.com/vdeminstitute/pandem/tree/master/replication/create_indices.R).
 
-The full **codebook** for this project is available [here](https://github.com/vdeminstitute/pandem/blob/master/codebook/pandem_codebook_V6.pdf).  
+The full **codebook** for this project is available [here](https://www.v-dem.net/static/website/img/refs/codebookv111.pdf).  
 
 Click [here](https://github.com/vdeminstitute/pandem/tree/master/by_country) to access all coding sources and justifications organized **by country**, and [here](https://github.com/vdeminstitute/pandem/tree/master/by_question) to access all sources and coding justifications organized **by question**. 
 
