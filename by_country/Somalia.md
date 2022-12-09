@@ -46,31 +46,24 @@
 
 *Sources*:
  [1]
-https://documentcloud.adobe.com/link/review?uri=urn%3Aaaid%3Ascds%3AUS%3Adb05da55-9c12-4a92-a98d-43cd78c9fe2e#pageNum=10
 
+https://perma.cc/2QRW-CR7P
 [2]
-https://reliefweb.int/sites/reliefweb.int/files/resources/CPRP%20Final%20Subow%2C%2026%20April%20%281%29.pdf
-
+https://perma.cc/JLZ6-AHTJ
 [3]
-https://www.aljazeera.com/news/2020/03/19/coronavirus-pandemic-experts-say-somalia-risk-greater-than-china/
-
+https://perma.cc/WRV3-HDN5
 [4]
-https://www.voanews.com/science-health/coronavirus-outbreak/somalia-imposes-nighttime-curfew-0
-
+https://perma.cc/JY3L-9YW4
 [5]
-https://www.thenewhumanitarian.org/analysis/2021/5/5/whos-afraid-of-covid-19-somalias-battle-with-virus
-
+https://perma.cc/CV3C-WJ56
 [6]
-https://www.nytimes.com/2021/03/01/world/africa/amid-turmoil-over-elections-rising-cases-in-somalia-fuel-talk-of-a-new-lockdown.html
-
+https://perma.cc/P9KX-NG2H
 [7]
-https://twitter.com/sntvnews1/status/1362053137796890628
-
+https://perma.cc/P78S-FLWK
 [8]
-https://www.garda.com/crisis24/news-alerts/408321/somalia-authorities-are-maintaining-restrictions-as-of-december-4-due-to-covid-19-activity-domestic-and-international-flights-ongoing-update-5
-
+https://perma.cc/FQT5-F6HL
 [9]
-https://www.bmj.com/content/368/bmj.m1090/rr-14
+https://perma.cc/MZP3-VGF4
 
 
 
@@ -187,11 +180,8 @@ https://www.bmj.com/content/368/bmj.m1090/rr-14
  No end date for the operations and measures by the emergency task force was found. 
 
 *Sources*:
- https://reliefweb.int/report/somalia/covid-19-preparedness-response-plan-sws-somalia-march-july-2020
-
-
-
-https://www.somalia.gov.so/
+ https://perma.cc/BHX8-U646
+https://perma.cc/ZJ4Y-RGBN
 
 
 
@@ -233,12 +223,9 @@ https://www.somalia.gov.so/
  No end date for the operations and measures by the emergency task force was found. Left blank as no legal instrument (variable emlaw) was used. 
 
 *Sources*:
- https://reliefweb.int/report/somalia/covid-19-preparedness-response-plan-sws-somalia-march-july-2020
-https://reliefweb.int/report/somalia/ocha-somalia-update-5-overview-covid-19-directives-30-may-2020
-
-
-
-https://www.somalia.gov.so/
+ https://perma.cc/A3W5-5LHB
+https://perma.cc/383K-CQT5
+https://perma.cc/ZJ4Y-RGBN
 
 
 
@@ -408,10 +395,10 @@ https://www.somalia.gov.so/
 
 *Sources*:
  [1]
-https://documentcloud.adobe.com/link/review?uri=urn%3Aaaid%3Ascds%3AUS%3Adb05da55-9c12-4a92-a98d-43cd78c9fe2e#pageNum=10
 
+https://perma.cc/2QRW-CR7P
 [2]
-https://reliefweb.int/sites/reliefweb.int/files/resources/CPRP%20Final%20Subow%2C%2026%20April%20%281%29.pdf
+https://perma.cc/JLZ6-AHTJ
 
 
 
@@ -533,9 +520,8 @@ https://reliefweb.int/sites/reliefweb.int/files/resources/CPRP%20Final%20Subow%2
  The implementation of federal regulations within the federal member states of Somalia has varied somewhat. There is evidence that some states, particularly Puntland and Somaliland have adopted separate regulations with respect to Covid-19. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/408321/somalia-authorities-are-maintaining-restrictions-as-of-december-4-due-to-covid-19-activity-domestic-and-international-flights-ongoing-update-5
-
-https://www.bmj.com/content/368/bmj.m1090/rr-14
+ https://perma.cc/64CR-J3Z4
+https://perma.cc/L6W5-DZ94
 
 
 
@@ -579,16 +565,10 @@ https://www.bmj.com/content/368/bmj.m1090/rr-14
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response across all the time periods. 
 
 *Sources*:
- https://www.bbc.com/news/topics/cnx753jejqwt/somalia
-
-
-https://www.amnesty.org/en/search/?country=38635&resourceType=newsarticle&sort=date
-
-
-https://www.hrw.org/africa/somalia
-
-
-https://reliefweb.int/sites/reliefweb.int/files/resources/IOM_Eastern%20Corridor%20Migrant%20Situation_18112020.pdf
+ https://perma.cc/3WJL-PVWW
+https://perma.cc/JX2L-4BUU
+https://perma.cc/ZC2F-A73D
+https://perma.cc/6UDM-3EJ9
 
 
 
@@ -637,9 +617,8 @@ https://reliefweb.int/sites/reliefweb.int/files/resources/IOM_Eastern%20Corridor
  No emergency measures that de-jure violate non-derogable rights as defined by the ICCPR, was found across all time periods. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38635&resourceType=newsarticle&sort=date
-
-https://www.hrw.org/africa/somalia
+ https://perma.cc/XA3N-BKMA
+https://perma.cc/589M-JJN7
 
 
 
@@ -683,7 +662,7 @@ https://www.hrw.org/africa/somalia
  There appears to be a prohibition of "publication of false, exaggerated news" in force, but information indicating that this was part of their covid-19 response was not found across all the time periods. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/02/somalia-spate-arrests-intimidation-journalists
+ https://perma.cc/X8E8-7WB2
 
 
 
@@ -806,19 +785,15 @@ In April 2020, Reporters without Borders accused the government of holding a "mo
 
 *Sources*:
  [1]
-https://rsf.org/en/somalia
-
+https://perma.cc/Y8LJ-C9B8
 [2]
-https://rsf.org/en/news/somalias-new-media-law-ignores-calls-journalists-be-protected
-
+https://perma.cc/7L7G-3E4N
 [3]
-https://www.hrw.org/world-report/2021/country-chapters/somalia#
-
+https://perma.cc/WH9J-3BNJ
 [4]
-https://rsf.org/en/news/somali-officials-cannot-claim-covid-19-information-monopoly-rsf-and-nusoj-say
-
+https://perma.cc/L5JJ-GGKU
 [5]
-https://cpj.org/2020/04/somali-journalist-abdalle-ahmed-mumin-says-there-i/
+https://perma.cc/328J-4GXS
 
 
 
@@ -865,13 +840,11 @@ Throughout 2020 and 2021, the government used the criminal code to limit media r
 
 *Sources*:
  [1]
-https://rsf.org/en/somalia
-
+https://perma.cc/Y8LJ-C9B8
 [2]
-https://rsf.org/en/news/somalias-new-media-law-ignores-calls-journalists-be-protected
-
+https://perma.cc/7L7G-3E4N
 [3]
-https://www.hrw.org/world-report/2021/country-chapters/somalia#
+https://perma.cc/WH9J-3BNJ
 
 
 
@@ -913,11 +886,9 @@ https://www.hrw.org/world-report/2021/country-chapters/somalia#
  No evidence indicating that the government is de-facto limiting media reporting about non-Covid-19 related news, but with reference to the pandemic, was found across all time periods. 
 
 *Sources*:
- https://www.hrw.org/africa/somalia
-
-
-https://www.amnesty.org/en/countries/africa/somalia/
-https://rsf.org/en/somalia
+ https://perma.cc/589M-JJN7
+https://perma.cc/Z6Y2-SMNS
+https://perma.cc/Y8LJ-C9B8
 
 
 
@@ -962,13 +933,9 @@ https://rsf.org/en/somalia
 I have not found any information suggesting that the situation hs improved. As such I have continued to code this variable as 2. 
 
 *Sources*:
- https://cpj.org/2020/04/somali-journalist-abdalle-ahmed-mumin-says-there-i/
-
-
-https://rsf.org/en/news/somali-officials-cannot-claim-covid-19-information-monopoly-rsf-and-nusoj-say
-
-
-https://www.bbc.com/news/av/world-africa-53521563
+ https://perma.cc/FZN5-MZKN
+https://perma.cc/H7YE-VA28
+https://perma.cc/B5Z7-WECJ
 
 
 
@@ -1010,19 +977,12 @@ https://www.bbc.com/news/av/world-africa-53521563
  The state is investigating and jailing journalists, accusing them of offending the honor or prestige of the head of state, or spreading fake news. Also, and more clearly verbal harassment, an official from the presidential palace reached a journalist via Twitter asking him where he got his sources.  I found no evidence that the violations stopped, so mevhar is coded as 1 in all time periods. 
 
 *Sources*:
- https://www.voanews.com/extremism-watch/somali-journalists-arrested-intimidated-while-covering-covid-19
-
-
-https://cpj.org/2020/04/somali-journalist-abdiaziz-ahmed-gurbiye-arrested/
-
-
-https://www.hrw.org/news/2020/05/02/somalia-spate-arrests-intimidation-journalists
-
-https://www.hrw.org/news/2020/07/06/baseless-charges-against-prominent-somali-journalist
-
-https://www.rfi.fr/en/africa/20200414-press-freedom-violations-throughout-african-continent-linked-to-covid-19-coverage
-
-https://www.voanews.com/press-freedom/somali-journalists-alarmed-over-spike-attacks-media
+ https://perma.cc/8K6W-NR77
+https://perma.cc/5EL8-SKYM
+https://perma.cc/569G-UAUR
+https://perma.cc/SL9D-AW4S
+https://perma.cc/V3K9-R2Z8
+https://perma.cc/LAW6-9RPP
 
 
 
@@ -1064,15 +1024,11 @@ https://www.voanews.com/press-freedom/somali-journalists-alarmed-over-spike-atta
  Police officers in Mogadishu's Bondhere district briefly detained and harassed Somali Cable TV reporter, Abdullahi Farah Nur, and slapped his cameraman Abdirahman Omar on the face. Also: A Somalia journalist was assaulted and detained by police while covering a COVID-19 awareness programme in Mogadishu.  I found no evidence that the violations stopped. Instead, information from the sources suggest that physical harrassment of journalist continue to occur. As such, mephar is coded as 1 in all time periods. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-
-https://www.hrw.org/news/2020/05/02/somalia-spate-arrests-intimidation-journalists
-
-https://www.hrw.org/news/2020/07/06/baseless-charges-against-prominent-somali-journalist
-
-https://www.rfi.fr/en/africa/20200414-press-freedom-violations-throughout-african-continent-linked-to-covid-19-coverage
-
-https://www.voanews.com/press-freedom/somali-journalists-alarmed-over-spike-attacks-media
+ https://perma.cc/RU7H-7KU8
+https://perma.cc/X8E8-7WB2
+https://perma.cc/D8DS-K7YR
+https://perma.cc/AY6P-4HAD
+https://perma.cc/C4TY-M6BD
 
 
 
@@ -1116,13 +1072,10 @@ https://www.voanews.com/press-freedom/somali-journalists-alarmed-over-spike-atta
  The information from the government is similar to the information from WHO. 
 
 *Sources*:
- https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+ https://perma.cc/94PJ-XTHK
 
-
-https://moh.gov.so/en/covid19/
-
-
-https://moh.gov.so/en/
+https://perma.cc/X9QK-CGXR
+https://perma.cc/P2BK-66NZ
 
 
 
@@ -1166,10 +1119,8 @@ https://moh.gov.so/en/
  In late April, a police officer in Mogadishu was arrested for shooting at least one civilian while he was enforcing restrictions over the pandemic. Since it is one incident and no further cases of police violence in the implementation of Covid-19 measures are reported, pomviol is coded as 0 for the rest of the time periods. 
 
 *Sources*:
- https://www.africanews.com/2020/04/26/somalians-protest-over-fatal-police-shooting-to-enforce-lockdown
-
-
-https://www.aljazeera.com/news/2020/04/anger-mogadishu-police-kill-civilian-covid-19-curfew-200425143536573.html
+ https://perma.cc/3BQJ-GNTR
+https://perma.cc/A383-J2X7
 
 
 
@@ -1211,11 +1162,7 @@ https://www.aljazeera.com/news/2020/04/anger-mogadishu-police-kill-civilian-covi
  No information was found that indicates that the military has been involved in any confinement measures across all the time periods. 
 
 *Sources*:
- https://www.bbc.com/news/topics/cnx753jejqwt/somalia
-
-
-https://so.usembassy.gov/covid-19-information/
-
-
-https://www.un.org/en/coronavirus/somalia-braces-covid-19
-https://www.somalia.gov.so/
+ https://perma.cc/SXY3-R6EQ
+https://perma.cc/UT82-K7C5
+https://perma.cc/PBF9-7CS6
+https://perma.cc/ZJ4Y-RGBN

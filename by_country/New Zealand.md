@@ -47,15 +47,13 @@
 The COVID-19 Public Health Response Act was introduced after the state of emergency was lifted on 13 May 2020. This Act provides a legislative frameworkfor the New Zealand government's response to the pandemic. 
 
 *Sources*:
- https://gazette.govt.nz/notice/id/2020-go1435
-https://www.beehive.govt.nz/release/state-national-emergency-declared-fight-covid-19
-http://www.legislation.govt.nz/act/public/2002/0033/51.0/DLM149789.html
-https://www.garda.com/crisis24/news-alerts/326196/new-zealand-government-declares-state-of-emergency-march-25-update-5
-https://www.acaps.org/covid19-government-measures-dataset
-
-http://www.legislation.govt.nz/act/public/2020/0012/latest/whole.html#LMS344134
-
-https://www.parliament.nz/en/pb/bills-and-laws/bills-digests/document/52PLLaw26281/covid-19-public-health-response-act-2020-bills-digest
+ [1]	perma.cc/SK8T-ESQD
+[2]	perma.cc/HE4J-ACGR
+[3]	perma.cc/W58K-5MYE
+[4]	perma.cc/8USV-EM23
+[5]	perma.cc/8PP6-MLBE
+[6]	perma.cc/Y6GU-W3YH
+[7]	perma.cc/JBW9-S7RK
 
 
 
@@ -94,7 +92,7 @@ https://www.parliament.nz/en/pb/bills-and-laws/bills-digests/document/52PLLaw262
 *No comment provided* 
 
 *Sources*:
- https://gazette.govt.nz/notice/id/2020-go1435
+ [1]	perma.cc/SK8T-ESQD
 
 
 
@@ -133,10 +131,10 @@ https://www.parliament.nz/en/pb/bills-and-laws/bills-digests/document/52PLLaw262
  The COVID-19 Public Health Response Act started on 13 May 2020. It had amendments for its continuation on 6 August 2020, 8 December 2020, and 18 April 2021. 
 
 *Sources*:
- https://www.legislation.govt.nz/act/public/2020/0012/latest/versions.aspx?search=ts_act%40bill%40regulation%40deemedreg_covid-19_resel_25_a&p=1
-https://www.legislation.govt.nz/regulation/public/2021/0065/latest/LMS481029.html
-https://gazette.govt.nz/notice/id/2020-go1435
-https://www.legislation.govt.nz/act/public/2020/0012/latest/LMS344134.html?search=ts_act%40bill%40regulation%40deemedreg_covid-19_resel_25_a&p=1
+ [1]	perma.cc/YG5U-SYNM
+[2]	perma.cc/25UF-UE7J
+[3]	perma.cc/SK8T-ESQD
+[4]	perma.cc/YG5U-SYNM
 
 
 
@@ -177,8 +175,8 @@ https://www.legislation.govt.nz/act/public/2020/0012/latest/LMS344134.html?searc
 The COVID-19 Public Health Response Act is valid for a period of 90 days. The Act was extended for another 90 days when it last expired on 4 August 2020. It was later extended until the 1 December 2020 and after for a new period of 90 days (until March 2021). In April, it was extended again for 90 days. 
 
 *Sources*:
- https://uniteforrecovery.govt.nz/updates-and-resources/legislation-and-key-documents/#key-documents
-https://www.parliament.nz/en/pb/hansard-debates/rhr/combined/HansDeb_20200804_20200805_32
+ [1]	perma.cc/5XL6-GU46
+[2]	perma.cc/5SXB-V7UF
 
 
 
@@ -229,15 +227,10 @@ If not repealed sooner under subsection (1), this Act is repealed on the date th
 The COVID-19 Public Health Response Act expires 90 days after it is declared. 
 
 *Sources*:
- https://gazette.govt.nz/notice/id/2020-go1435
-https://www.parliament.nz/en/pb/hansard-debates/rhr/combined/HansDeb_20200804_20200805_32
-
-
-https://www.beehive.govt.nz/release/state-national-emergency-declared-fight-covid-19
-
-http://www.legislation.govt.nz/act/public/2002/0033/51.0/DLM149789.html
-
-http://www.legislation.govt.nz/act/public/2002/0033/51.0/DLM149789.html
+ [1]	perma.cc/SK8T-ESQD
+[2]	perma.cc/5SXB-V7UF
+[3]	perma.cc/FG8W-88Z4
+[4]	perma.cc/XH6V-FYF3
 
 
 
@@ -276,15 +269,12 @@ http://www.legislation.govt.nz/act/public/2002/0033/51.0/DLM149789.html
  The COVID-19 Public Health Response Act is valid for 90 days. The Act was extended for another 90 days when it last expired on 4 August 2020. It was later extended until the 1 December 2020 and after for a new period of 90 days (until March 2021). In April, it was extended again for 90 days (until July 2021). The limits are determined as 90 days after the start of a new amendment. 
 
 *Sources*:
- https://www.legislation.govt.nz/act/public/2020/0012/latest/versions.aspx?search=ts_act%40bill%40regulation%40deemedreg_covid-19_resel_25_a&p=1
-https://www.legislation.govt.nz/regulation/public/2021/0065/latest/LMS481029.html
-https://gazette.govt.nz/notice/id/2020-go1435
-
-https://gazette.govt.nz/notice/id/2020-go1435
-https://www.beehive.govt.nz/release/state-national-emergency-declared-fight-covid-19
-http://www.legislation.govt.nz/act/public/2002/0033/51.0/DLM149789.html
-
-https://content.next.westlaw.com/Document/I047fb93f6ae711eaadfea82903531a62/View/FullText.html?originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&firstPage=true
+ [1]	perma.cc/3VUM-8PLB
+[2]	perma.cc/2JV8-NPTW
+[3]	perma.cc/SK8T-ESQD
+[4]	perma.cc/YJE5-WYEM
+[5]	perma.cc/HJ5F-5TTY
+[6]	perma.cc/TC22-UE69
 
 
 
@@ -328,9 +318,8 @@ https://content.next.westlaw.com/Document/I047fb93f6ae711eaadfea82903531a62/View
 Paliament voted to pass the COVID-19 Public Health Response Act 2020. 
 
 *Sources*:
- http://www.legislation.govt.nz/act/public/2002/0033/51.0/DLM149789.html
-
-https://www.lawsociety.org.nz/news/legal-news/covid-19-public-health-response-bill-passed-under-urgency/
+ [1]	perma.cc/9YSR-M7CX
+[2]	perma.cc/47LH-TSST
 
 
 
@@ -374,9 +363,8 @@ https://www.lawsociety.org.nz/news/legal-news/covid-19-public-health-response-bi
 Paliament voted to pass the COVID-19 Public Health Response Act 2020. 
 
 *Sources*:
- http://www.legislation.govt.nz/act/public/2002/0033/51.0/DLM149789.html
-
-https://www.lawsociety.org.nz/news/legal-news/covid-19-public-health-response-bill-passed-under-urgency/
+ [1]	perma.cc/9YSR-M7CX
+[2]	perma.cc/47LH-TSST
 
 
 
@@ -422,16 +410,12 @@ https://www.lawsociety.org.nz/news/legal-news/covid-19-public-health-response-bi
  The Parliament adjourned and only worked remotely during the State of Emergency, but have convened again. While the emergency measures did force parliament to not work as usual, it did not affect its lawmaking role as it continued to pass urgent Covid-19 laws during the pandemic, and are now working as normal with their law making role being sustained.Note also that the parliament was set to dissolve five weeks before electing the new parliament, which is standard practice in New Zealand, but that this has been postponed due to elections being pushed forward (the current date set is October 17). So the current parliament continues to work. The new elections took place on 17 October and the Parliament works and has had no impediments so far. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#N
-https://data.ipu.org/node/122/elections?chamber_id=13478
-
-https://www.parliament.nz/en/pb/bills-and-laws/bills-proposed-laws/
-
-https://www.parliament.nz/en/site-search?term=Covid-19
-
-https://www.theguardian.com/world/2020/aug/12/new-zealand-delays-dissolving-parliament-amid-mystery-coronavirus-outbreak
-
-https://www.garda.com/crisis24/news-alerts/369921/new-zealand-elections-postponed-until-october-17-due-to-new-covid-19-cases-update-22
+ [1]	perma.cc/B6P3-9H64
+[2]	perma.cc/L7KK-K7CG
+[3]	perma.cc/NF87-DZUZ
+[4]	perma.cc/9TA2-RX9N
+[5]	perma.cc/4EPV-7H9K
+[6]	perma.cc/FDF6-M2YD
 
 
 
@@ -558,10 +542,9 @@ October-June 2021: the restrictions in Auckland were lifted on 7 October 2020. T
 The restrictions in Auckland were lifted on 7 October 2020. The entire country was and has been at alert level 1 since that point. As such this variable has been coded as 0 for the Oct/Dec period. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/mzyupTSAse7MPSwJx/new-zealand-first-coronavirus-case-confirmed-february-28
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.reuters.com/article/health-coronavirus-newzealand-int-idUSKBN25V04R
+ [1]	perma.cc/F5K9-Z4BW
+[2]	perma.cc/DX8P-Q29A
+[3]	perma.cc/JD5G-JB66
 
 
 
@@ -605,7 +588,7 @@ https://www.reuters.com/article/health-coronavirus-newzealand-int-idUSKBN25V04R
  Amnesty International have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38387&resourceType=newsarticle&sort=date
+ [1]	perma.cc/U84F-QB9E
 
 
 
@@ -654,7 +637,7 @@ https://www.reuters.com/article/health-coronavirus-newzealand-int-idUSKBN25V04R
  Amnesty International have not reported any violations of non-derogable rights within the response to Covid-19, and no other indications of such violations has been found. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38387&resourceType=newsarticle&sort=date
+ [1]	perma.cc/UV3L-KA99
 
 
 
@@ -698,9 +681,8 @@ https://www.reuters.com/article/health-coronavirus-newzealand-int-idUSKBN25V04R
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in New Zealands Government response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B80%5D=80
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=New%20Zealand
+ [1]	perma.cc/R88Z-YGEU
+[2]	perma.cc/Z6YQ-BCZ7
 
 
 
@@ -739,9 +721,8 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B80%5D=80
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=New%20Zealand
+ [1]	perma.cc/R88Z-YGEU
+[2]	perma.cc/Z6YQ-BCZ7
 
 
 
@@ -780,9 +761,8 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B80%5D=80
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=New%20Zealand
+ [1]	perma.cc/R88Z-YGEU
+[2]	perma.cc/Z6YQ-BCZ7
 
 
 
@@ -824,9 +804,8 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in New Zealand, and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B80%5D=80
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=New%20Zealand
+ [1]	perma.cc/R88Z-YGEU
+[2]	perma.cc/Z6YQ-BCZ7
 
 
 
@@ -868,9 +847,8 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in New Zealand,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B80%5D=80
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=New%20Zealand
+ [1]	perma.cc/R88Z-YGEU
+[2]	perma.cc/Z6YQ-BCZ7
 
 
 
@@ -912,9 +890,8 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in New Zealand,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B80%5D=80
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=New%20Zealand
+ [1]	perma.cc/R88Z-YGEU
+[2]	perma.cc/Z6YQ-BCZ7
 
 
 
@@ -957,9 +934,8 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Neither Reporters without Borders nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information, and there's no other indications of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B80%5D=80
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=New%20Zealand
+ [1]	perma.cc/R88Z-YGEU
+[2]	perma.cc/Z6YQ-BCZ7
 
 
 
@@ -1001,9 +977,8 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Neither Reporters without Borders nor International Press Institute have reported any verbal harassment of journalists in New Zealand, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B80%5D=80
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=New%20Zealand
+ [1]	perma.cc/R88Z-YGEU
+[2]	perma.cc/Z6YQ-BCZ7
 
 
 
@@ -1045,9 +1020,8 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Neither Reporters without Borders nor International Press Institute have reported any physical harassment of journalists in New Zealand, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B80%5D=80
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=New%20Zealand
+ [1]	perma.cc/R88Z-YGEU
+[2]	perma.cc/Z6YQ-BCZ7
 
 
 
@@ -1091,7 +1065,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  There's no deviations from the information provided by WHO and that of New Zealands Government on Covid-19, and no complaints or accusations of any such disinformation have been found. 
 
 *Sources*:
- https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-health-advice-general-public/about-covid-19
+ [1]	perma.cc/H42M-5R74
 
 
 
@@ -1135,7 +1109,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Amnesty international has not reported any violence by security forces when enforcing emergency measures, and there are no other indications of such violence occuring. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38387&resourceType=newsarticle&sort=date
+ [1]	perma.cc/UV3L-KA99
 
 
 
@@ -1179,8 +1153,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 As of 4 December 2020, the military continues to be involved in isolation and quarantie facilities and have hence continues to be coded as 1. In 2021, the situation continues. 
 
 *Sources*:
- https://www.theguardian.com/world/2020/jun/17/new-zealand-brings-in-military-after-covid-19-quarantine-fiasco
-(1)
-https://www.aa.com.tr/en/asia-pacific/new-zealand-military-to-oversee-quarantine-measures/1879928
-https://www.theguardian.com/world/2020/aug/19/new-zealand-sends-500-military-staff-to-bolster-quarantine-facilities
-https://www.nzdf.mil.nz/nzdf/covid-19-response/
+ [1]	perma.cc/8CRX-YA8M
+[2]	perma.cc/MV3X-NYXM
+[3]	perma.cc/LZ56-BMNN
+[4]	perma.cc/BXW2-QHTN

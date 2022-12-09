@@ -49,23 +49,18 @@ July-September 2020: the primary legal instrument for this time period is "Zakon
 October-December 2020, January-March, April-June 2021: State of crisis (kriznata sostojba) was declared by the government on 20 November 2020 based on the Crisis Management Law ("Zakon za upravuvanje so krizi"). The legal instrument gives the Crisis Management Center the authority to implement emergency measures. State of crisis was extended on 9 June 2021 until 31 December 2021. 
 
 *Sources*:
- https://pretsedatel.mk/%d0%b2%d0%be%d0%bd%d1%80%d0%b5%d0%b4%d0%bd%d0%be-%d0%be%d0%b1%d1%80%d0%b0%d1%9c%d0%b0%d1%9a%d0%b5-%d0%bd%d0%b0-%d0%bf%d1%80%d0%b5%d1%82%d1%81%d0%b5%d0%b4%d0%b0%d1%82%d0%b5%d0%bb%d0%be%d1%82-%d0%bd/
-http://www.slvesnik.com.mk/Issues/4049500a3fc544da898402bee6a65758.pdf
-http://www.slvesnik.com.mk/Issues/08b78c356ddb4deca2f171fe70aace21.pdf
-http://www.slvesnik.com.mk/Issues/d6c92844ad5a4fe2bc47874b138e97fa.pdf
-http://www.slvesnik.com.mk/Issues/77051cc736f74b29be692142447b43a4.pdf
-
-https://vlada.mk/uredbi-covid19
-http://www.slvesnik.com.mk/Issues/099b0abae78442ddab217ec729d2d9e1.pdf
-https://www.worldaware.com/covid-19-alert-north-macedonia-lift-additional-restrictions-june-26-airports-opening-july-1
-
-https://vlada.mk/node/23294
-https://koronavirus.gov.mk/vesti/219024
-https://www.garda.com/crisis24/news-alerts/402236/north-macedonia-authorities-declare-state-of-crisis-november-20-update-15
-https://vlada.mk/node/23392
-
-
-https://www.mchamber.mk/Default.aspx?mId=28&id=1007&lng=1
+ [1]	perma.cc/458X-WHHH
+[2]	perma.cc/3KHZ-X39G
+[3]	perma.cc/L6CQ-DD5L
+[4]	perma.cc/96Y5-SCDK
+[5]	perma.cc/Z22F-86DS
+[6]	perma.cc/GJ56-7A6G
+[7]	perma.cc/6DF6-M65S
+[8]	perma.cc/79Y2-37FG
+[9]	perma.cc/TT8D-53PJ
+[10]	perma.cc/MSF3-3FFE
+[11]	perma.cc/BFX6-TQLF
+[12]	perma.cc/B7UM-L42Z
 
 
 
@@ -108,12 +103,10 @@ July-September 2020: According to Art. 58 of "Zakon za zaštita na naselenieto o
 October-December 2020, January-March, April-June 2021: According to "Zakon za upravuvanje so krizi" (unofficial translation: Crisis Management Law), the government declares a state of crisis and the Crisis Management Center has authority to implement emergency measures during a state of crisis. 
 
 *Sources*:
- http://www.slvesnik.com.mk/Issues/4049500a3fc544da898402bee6a65758.pdf
-https://www.constituteproject.org/constitution/Macedonia_2011?lang=en
-
-http://www.slvesnik.com.mk/Issues/099b0abae78442ddab217ec729d2d9e1.pdf
-
-http://www.macefdrr.gov.mk/files/dokumenti/pzrdo/Zakon%20za%20upravuvanje%20so%20krizi%202005.pdf
+ [1]	perma.cc/S54S-6VYA
+[2]	perma.cc/39KK-EY4Z
+[3]	perma.cc/2LZX-8MZE
+[4]	https://web.archive.org/web/20171113052603/http://www.macefdrr.gov.mk/files/dokumenti/pzrdo/Zakon%20za%20upravuvanje%20so%20krizi%202005.pdf
 
 
 
@@ -156,15 +149,9 @@ July-September 2020: The first time "Zakon za zaštita na naselenieto od zarazni
 October-December 2020, January-March, April-June 2021: State of crisis (kriznata sostojba) was declared by the government on 20 November 2020 based on the Crisis Management Law ("Zakon za upravuvanje so krizi"). The legal instrument gives the Crisis Management Center the authority to implement emergency measures. The current extension is until 31 December 2021. 
 
 *Sources*:
- http://www.slvesnik.com.mk/Issues/4049500a3fc544da898402bee6a65758.pdf
-
-http://www.slvesnik.com.mk/Issues/099b0abae78442ddab217ec729d2d9e1.pdf
-
-https://vlada.mk/node/23294
-
-
-
-https://www.mchamber.mk/Default.aspx?mId=28&id=1007&lng=1
+ [1]	perma.cc/8ZYX-8PKD
+[2]	perma.cc/V779-RP8A
+[3]	perma.cc/UC7E-8Q87
 
 
 
@@ -205,19 +192,14 @@ July-September 2020: the implementation of “Zakon za zaštita na naselenieto o
 October-December 2020, January-March 2021, April-June 2021: State of crisis (kriznata sostojba) was declared by the government on 20 November 2020 and remains in place at the time of coding, with the latest extension until 31 December 2021. 
 
 *Sources*:
- https://rm.coe.int/cets-005-mkd-annex-president-decision-15-06-2020/16809ebbfd
-https://www.coe.int/en/web/conventions/full-list/-/conventions/treaty/005/declarations?%20p_%20auth=EeA6R96f&_coeconventions_WAR_coeconventionsportlet_enVigueur=false&_coeconventions_WAR_coeconventionsportlet_searchBy=state&_coeconventions_WAR_coeconventionsportlet_codePays=TFY&_coeconventions_%20WAR_%20coeconventionsportlet_codeNature=10
-https://www.mchamber.mk/default.aspx?mId=45&lng=1
-https://vlada.mk/node/23392
-http://www.slvesnik.com.mk/Issues/099b0abae78442ddab217ec729d2d9e1.pdf
-http://www.slvesnik.com.mk/Issues/77051cc736f74b29be692142447b43a4.pdf
-
-https://vlada.mk/sites/default/files/img/odluka_covid-19.pdf
-
-https://vlada.mk/node/23294
-
-
-https://www.mchamber.mk/Default.aspx?mId=28&id=1007&lng=1
+ [1]	perma.cc/EFA4-NKFP
+[2]	perma.cc/G5X7-VU24
+[3]	perma.cc/CE53-3FRE
+[4]	perma.cc/SR56-M86B
+[5]	perma.cc/V59P-F75P
+[6]	perma.cc/EV3Z-92YX
+[7]	perma.cc/66Z5-BPJD
+[8]	perma.cc/QSM7-6PZ5
 
 
 
@@ -259,15 +241,13 @@ https://www.mchamber.mk/Default.aspx?mId=28&id=1007&lng=1
  Although state of emergency and state of crisis (and its extensions) were declared with a time limit, measures implemented using "Zakon za zaštita na naselenieto od zarazni bolesti" (Law on Protection of the Population from Infectious Diseases) were declared without a time limit. 
 
 *Sources*:
- https://pretsedatel.mk/%d0%b2%d0%be%d0%bd%d1%80%d0%b5%d0%b4%d0%bd%d0%be-%d0%be%d0%b1%d1%80%d0%b0%d1%9c%d0%b0%d1%9a%d0%b5-%d0%bd%d0%b0-%d0%bf%d1%80%d0%b5%d1%82%d1%81%d0%b5%d0%b4%d0%b0%d1%82%d0%b5%d0%bb%d0%be%d1%82-%d0%bd/
-http://www.slvesnik.com.mk/Issues/4049500a3fc544da898402bee6a65758.pdf
-http://www.slvesnik.com.mk/Issues/08b78c356ddb4deca2f171fe70aace21.pdf
-http://www.slvesnik.com.mk/Issues/d6c92844ad5a4fe2bc47874b138e97fa.pdf
-http://www.slvesnik.com.mk/Issues/77051cc736f74b29be692142447b43a4.pdf
-https://www.mchamber.mk/default.aspx?mId=45&lng=1
-https://vlada.mk/node/23392
-
-https://www.mchamber.mk/Default.aspx?mId=28&id=1007&lng=1
+ [1]	perma.cc/MT2C-K4UC
+[2]	perma.cc/HCE9-3V3X
+[3]	perma.cc/R6YQ-JUKJ
+[4]	perma.cc/B2PZ-AVNY
+[5]	perma.cc/38YW-UELA
+[6]	perma.cc/3A9F-TJRR
+[7]	perma.cc/W95K-UELA
 
 
 
@@ -307,15 +287,15 @@ https://www.mchamber.mk/Default.aspx?mId=28&id=1007&lng=1
  
 
 *Sources*:
- http://www.slvesnik.com.mk/Issues/https://pretsedatel.mk/%d0%b2%d0%be%d0%bd%d1%80%d0%b5%d0%b4%d0%bd%d0%be-%d0%be%d0%b1%d1%80%d0%b0%d1%9c%d0%b0%d1%9a%d0%b5-%d0%bd%d0%b0-%d0%bf%d1%80%d0%b5%d1%82%d1%81%d0%b5%d0%b4%d0%b0%d1%82%d0%b5%d0%bb%d0%be%d1%82-%d0%bd/
-http://www.slvesnik.com.mk/Issues/4049500a3fc544da898402bee6a65758.pdf
-http://www.slvesnik.com.mk/Issues/08b78c356ddb4deca2f171fe70aace21.pdf
-http://www.slvesnik.com.mk/Issues/d6c92844ad5a4fe2bc47874b138e97fa.pdf
-http://www.slvesnik.com.mk/Issues/77051cc736f74b29be692142447b43a4.pdf
-https://www.mchamber.mk/default.aspx?mId=45&lng=1
-https://vlada.mk/node/23392
-https://www.slvesnik.com.mk/Issues/ba261508be8b4cf1b7dc0ba68fa279bd.pdf.pdf
-https://www.mchamber.mk/Default.aspx?mId=28&id=1007&lng=1
+ [1]	perma.cc/MT2C-K4UC
+[2]	perma.cc/HCE9-3V3X
+[3]	perma.cc/R6YQ-JUKJ
+[4]	perma.cc/B2PZ-AVNY
+[5]	perma.cc/38YW-UELA
+[6]	perma.cc/87SC-SPPC
+[7]	perma.cc/G3FN-T7M9
+[8]	perma.cc/N64M-ZM6H
+[9]	perma.cc/B2TA-EPN9
 
 
 
@@ -361,17 +341,13 @@ July-September 2020: According to Art. 58 of "Zakon za zaštita na naselenieto o
 October-December 2020, January-March, April-June 2021: A declaration of the state of crisis does not need to be approved by the parliament. A state of crisis cannot last longer than 30 days. However, after 30 days, the parliament can either approve the extension of the state of crisis or declare a state of emergency (Art 31 of the Crisis Management Law). On 1 December 2020, the states of crisis was extended until 30 June 2021. On 9 June 2021, it was extended until 31 December 2021. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Macedonia_2011?lang=en
-http://www.slvesnik.com.mk/Issues/d6c92844ad5a4fe2bc47874b138e97fa.pdfhttp://zdravstvo.gov.mk/zakon-za-zashtita-na-naselenieto-od-zarazni-bolesti/
-
-https://vlada.mk/node/23294
-http://www.macefdrr.gov.mk/files/dokumenti/pzrdo/Zakon%20za%20upravuvanje%20so%20krizi%202005.pdf
-https://koronavirus.gov.mk/vesti/219024
-
-
-https://vlada.mk/node/23392
-
-https://www.mchamber.mk/Default.aspx?mId=28&id=1007&lng=1
+ [1]	perma.cc/LT9H-Y3JD
+[2]	perma.cc/C8WH-83UM
+[3]	perma.cc/FAE7-FFP3
+[4]	perma.cc/TT8D-53PJ
+[5]	https://web.archive.org/web/20171113052603/http://www.macefdrr.gov.mk/files/dokumenti/pzrdo/Zakon%20za%20upravuvanje%20so%20krizi%202005.pdf
+[6]	perma.cc/MSF3-3FFE
+[7]	perma.cc/G5U4-RAU3
 
 
 
@@ -417,16 +393,14 @@ July-September 2020: Declaration of emergency measures based on "Zakon za zašti
 October-December 2020, January-March, April-June 2021: The declaration of a state of crisis does not need to be approved by the legislature. However, the parliament is reponsible for approval of extensions of the state of crisis. Therefore, emlegapp is coded as 1. 
 
 *Sources*:
- https://pretsedatel.mk/%d0%b2%d0%be%d0%bd%d1%80%d0%b5%d0%b4%d0%bd%d0%be-%d0%be%d0%b1%d1%80%d0%b0%d1%9c%d0%b0%d1%9a%d0%b5-%d0%bd%d0%b0-%d0%bf%d1%80%d0%b5%d1%82%d1%81%d0%b5%d0%b4%d0%b0%d1%82%d0%b5%d0%bb%d0%be%d1%82-%d0%bd/
-http://www.slvesnik.com.mk/Issues/4049500a3fc544da898402bee6a65758.pdf
-http://www.slvesnik.com.mk/Issues/08b78c356ddb4deca2f171fe70aace21.pdf
-http://www.slvesnik.com.mk/Issues/d6c92844ad5a4fe2bc47874b138e97fa.pdf
-http://www.slvesnik.com.mk/Issues/77051cc736f74b29be692142447b43a4.pdf
-
-https://www.sobranie.mk/prebaruvanje.nspx?q=%D0%9A%D0%9E%D0%92%D0%98%D0%94-19
-https://pretsedatel.mk/%d0%bf%d1%80%d0%b5%d1%82%d1%81%d0%b5%d0%b4%d0%b0%d1%82%d0%b5%d0%bb%d0%be%d1%82-%d0%bf%d0%b5%d0%bd%d0%b4%d0%b0%d1%80%d0%be%d0%b2%d1%81%d0%ba%d0%b8-%d0%b3%d0%b8-%d0%b8%d1%81%d0%bf%d1%80%d0%b0%d1%82/
-https://www.dw.com/mk/%D0%BA%D0%BE%D0%BD%D1%84%D1%83%D0%B7%D0%B8%D1%98%D0%B0-%D0%B2%D0%BE-%D0%B2%D0%BC%D1%80%D0%BE-%D0%B4%D0%BF%D0%BC%D0%BD%D0%B5-%D0%B1%D0%B0%D1%80%D0%B0%D0%B0-%D0%B2%D0%BE%D0%BD%D1%80%D0%B5%D0%B4%D0%BD%D0%B0-%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%98%D0%B1%D0%B0-%D1%81%D0%B5%D0%B3%D0%B0-%D1%98%D0%B0-%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%83%D0%B2%D0%B0%D0%B0%D1%82/a-55114382
-https://www.mchamber.mk/Default.aspx?mId=28&id=1007&lng=1
+ [1]	perma.cc/MT2C-K4UC
+[2]	perma.cc/HCE9-3V3X
+[3]	perma.cc/R6YQ-JUKJ
+[4]	perma.cc/B2PZ-AVNY
+[5]	perma.cc/38YW-UELA
+[6]	perma.cc/56EY-RP2L
+[7]	perma.cc/SVT4-8Y49
+[8]	perma.cc/P8PU-LH99
 
 
 
@@ -476,17 +450,15 @@ According to IDEA, "The country has been facing challenges due to the lack of a 
 October-December 2020, January-March, April-June 2021: According to the Crisis Management Law ("Zakon za upravuvanje so krizi"), the Crisis Management Center has the authority to implement emergency measures during a state of crisis, and the government should notify the parliament about the implemented measures once a week. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Macedonia_2011?lang=en
-https://www.reuters.com/article/us-north-macedonia-election/north-macedonia-parliament-dissolves-sets-poll-date-after-eu-shuns-talks-idUSKBN20A0ON
-https://www.sobranie.mk/sredbi-2020-ns_article-pres-konferencija-po-povod-raspishuvanjeto-na-predvremenite-parlamentarni-izbori.nspx
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B343%5D&covid19=1
-(1)
+ [1]	perma.cc/84W5-2L3U
+[2]	perma.cc/VHF3-4HNU
+[3]	perma.cc/5MQT-BUFG
+[4]	https://perma.cc/J7UH-BULT
 
-https://pretsedatel.mk/%d0%bf%d1%80%d0%b5%d1%82%d1%81%d0%b5%d0%b4%d0%b0%d1%82%d0%b5%d0%bb%d0%be%d1%82-%d0%bf%d0%b5%d0%bd%d0%b4%d0%b0%d1%80%d0%be%d0%b2%d1%81%d0%ba%d0%b8-%d0%b3%d0%b8-%d0%b8%d1%81%d0%bf%d1%80%d0%b0%d1%82/
-https://a1on.mk/macedonia/neizvesno-potvrduvanjeto-na-odlukite-za-vonredna-sostojba-vo-sobranieto/
-https://24.mk/details/neizvesno-potvrduvanjeto-na-odlukite-za-vonredna-sostojba-vo-sobranieto
-
-http://www.macefdrr.gov.mk/files/dokumenti/pzrdo/Zakon%20za%20upravuvanje%20so%20krizi%202005.pdf
+[5]	perma.cc/8YZL-EZB6
+[6]	perma.cc/SP9L-8KUX
+[7]	perma.cc/H3QE-WZXN
+[8]	https://web.archive.org/web/20171113052603/http://www.macefdrr.gov.mk/files/dokumenti/pzrdo/Zakon%20za%20upravuvanje%20so%20krizi%202005.pdf
 
 
 
@@ -525,7 +497,7 @@ http://www.macefdrr.gov.mk/files/dokumenti/pzrdo/Zakon%20za%20upravuvanje%20so%2
  The parliament voted to dissolve itself on 16 February 2020 in preparation for general elections. 
 
 *Sources*:
- https://www.sobranie.mk/2016-2020-srm-ns_article-izjava-na-pres-konferencijata-po-povod-raspishuvanjeto-na-predvremenite-parlamentarni-izbori.nspx
+ [1]	perma.cc/2KUK-3V4B
 
 
 
@@ -564,7 +536,7 @@ http://www.macefdrr.gov.mk/files/dokumenti/pzrdo/Zakon%20za%20upravuvanje%20so%2
  The new parliament held its first session on 4 August 2020. 
 
 *Sources*:
- https://www.sobranie.mk/2016-2020-srm-ns_article-konstitutivnata-sednica-kje-se-odrzi-na-4-avgust-2020.nspx
+ [1]	perma.cc/ZTJ9-A6MP
 
 
 
@@ -608,9 +580,8 @@ http://www.macefdrr.gov.mk/files/dokumenti/pzrdo/Zakon%20za%20upravuvanje%20so%2
  March-June 2020: stricter restrictions on movement in some areas from 4 June (night curfew in Skopje, Tetovo, Kumanovo, and Stip cities; the rural municipalities of Lipkovo, Bogovinje, Brvenica, Tearce, Zhelino, Jegunovce, and Karbinc). No further measures implemented on a subnational level found in the last year (Q3, Q4 2020 and Q1,Q2 2021). 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/348246/north-macedonia-authorities-reimpose-movement-restrictions-following-rise-in-covid-19-cases-june-4-8-update-11
-
-https://vlada.mk/uredbi-covid19
+ [1]	perma.cc/D8G5-UNGP
+[2]	perma.cc/RQ3H-2J65
 
 
 
@@ -654,11 +625,11 @@ https://vlada.mk/uredbi-covid19
  On 17 March, a group of 200 people crossed the border and all of them were supposed to quarantine, but only 9 Roma were put in quarantine. Since it is a single incident, discrim is coded as 1 only during March-June 2020 period. There is no evidence found for July-September, October-December 2020, January-March, April-June 2021. 
 
 *Sources*:
- http://www.errc.org/news/roma-quarantined-at-the-border-to-north-macedonia
-https://www.hhrjournal.org/2020/04/anti-roma-racism-is-spiraling-during-covid-19-pandemic/#_edn4
-https://www.ilga-europe.org/sites/default/files/2021/north_macedonia.pdf
-https://www.equalitylaw.eu/country/north-macedonia
-https://www.amnesty.org/en/countries/europe-and-central-asia/north-macedonia/report-macedonia/
+ [1]	perma.cc/SL4Z-C2TW
+[2]	perma.cc/USH6-SUNB
+[3]	perma.cc/E9Q4-TJE9
+[4]	perma.cc/7UV8-5XYG
+[5]	https://web.archive.org/web/20210613085709/https://www.amnesty.org/en/countries/europe-and-central-asia/north-macedonia/report-macedonia/
 
 
 
@@ -707,10 +678,10 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/north-macedonia/rep
  No measures violating non-derogable rights found related to COVID-19. 
 
 *Sources*:
- https://vlada.mk/covid19
-https://www.amnesty.org/en/countries/europe-and-central-asia/north-macedonia/
-https://cpj.org/europe/north-macedonia/
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/north-macedonia/
+ [1]	perma.cc/33MS-DAVW
+[2]	perma.cc/9ZJM-6GQU
+[3]	perma.cc/X2L2-BQDC
+[4]	perma.cc/5JQ7-EBAT
 
 
 
@@ -754,11 +725,12 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/nor
  No evidence of measures limiting media freedom found. The Minister of Health and the Ministry of Interior published a statement against false information, but there is no indication that this is based on new measures. 
 
 *Sources*:
- https://vlada.mk/node/20464
-https://mvr.gov.mk/vest/12578
-https://www.icnl.org/covid19tracker/?location=141&issue=&date=&type=
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/north-macedonia/
-https://ipi.media/northmacedonia/
+ [1]	perma.cc/45NJ-BZZL
+[2]	perma.cc/X2RL-RRJ8
+
+[3]	perma.cc/2ZNN-82KY
+[4]	perma.cc/BB49-8HTX
+[5]	perma.cc/5BND-UWZV
 
 
 
@@ -878,10 +850,10 @@ https://ipi.media/northmacedonia/
  Information on COVID-19 on the government's website; no reports on limitations on media reporting on COVID-19 found. 
 
 *Sources*:
- https://ipi.media/northmacedonia/
-https://vlada.mk/covid19
-https://www.icnl.org/covid19tracker/?location=205&issue=&date=&type=
-https://rsf.org/en/north-macedonia
+ [1]	perma.cc/XM48-ZCK7
+[2]	perma.cc/8Q2S-FRFF
+[3]	perma.cc/5WZS-97ML
+[4]	perma.cc/9GZ6-WKNM
 
 
 
@@ -923,9 +895,9 @@ https://rsf.org/en/north-macedonia
  No information on limitations of media reporting on the government's response. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://ipi.media/northmacedonia/
-https://rsf.org/en/north-macedonia
+ [1]	perma.cc/5J8M-JHPJ
+[2]	perma.cc/WRC4-SNCT
+[3]	perma.cc/KX83-ZDAT
 
 
 
@@ -967,12 +939,11 @@ https://rsf.org/en/north-macedonia
  No information on instances of limitations on media reporting on non-Covid-19 related news but with reference to the pandemic found. However, RSF claims that North Macedonia has had violations against media outlets and harassments. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://ipi.media/northmacedonia/
-https://rsf.org/en/north-macedonia
-
-https://www.coe.int/en/web/media-freedom/north-macedonia
-https://www.mappingmediafreedom.org/country-profiles/fyrom-macedonia/
+ [1]	perma.cc/5J8M-JHPJ
+[2]	perma.cc/WRC4-SNCT
+[3]	perma.cc/KX83-ZDAT
+[4]	perma.cc/K79H-8JFW
+[5]	perma.cc/37YH-JTFZ
 
 
 
@@ -1015,9 +986,9 @@ https://www.mappingmediafreedom.org/country-profiles/fyrom-macedonia/
  No reports on limiting media access to covid-19 information found. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://ipi.media/northmacedonia/
-https://rsf.org/en/north-macedonia
+ [1]	perma.cc/5J8M-JHPJ
+[2]	perma.cc/WRC4-SNCT
+[3]	perma.cc/KX83-ZDAT
 
 
 
@@ -1059,9 +1030,9 @@ https://rsf.org/en/north-macedonia
  No evidence found related to COVID-19. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://ipi.media/northmacedonia/
-https://rsf.org/en/north-macedonia
+ [1]	perma.cc/5J8M-JHPJ
+[2]	perma.cc/WRC4-SNCT
+[3]	perma.cc/KX83-ZDAT
 
 
 
@@ -1103,11 +1074,11 @@ https://rsf.org/en/north-macedonia
  No evidence found related to COVID-19. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://ipi.media/northmacedonia/
-https://rsf.org/en/north-macedonia
-https://www.amnesty.org/en/countries/europe-and-central-asia/north-macedonia/
-https://www.mappingmediafreedom.org/country-profiles/fyrom-macedonia/
+ [1]	perma.cc/5J8M-JHPJ
+[2]	perma.cc/WRC4-SNCT
+[3]	perma.cc/KX83-ZDAT
+[4]	perma.cc/Z652-7KR2
+[5]	perma.cc/E77T-FZ6G
 
 
 
@@ -1151,11 +1122,11 @@ https://www.mappingmediafreedom.org/country-profiles/fyrom-macedonia/
  Information on covid-19 on the government's website; no reports on disinformation found. 
 
 *Sources*:
- https://ipi.media/northmacedonia/
-https://vlada.mk/covid19
-https://www.icnl.org/covid19tracker/?location=205&issue=&date=&type=
-https://rsf.org/en/north-macedonia
-https://koronavirus.gov.mk/vesti/219024
+ [1]	perma.cc/Q78T-XC8F
+[2]	perma.cc/44F9-ES3B
+[3]	perma.cc/FB54-34CH
+[4]	perma.cc/7RKX-GEMK
+[5]	perma.cc/MSF3-3FFE
 
 
 
@@ -1199,8 +1170,8 @@ https://koronavirus.gov.mk/vesti/219024
  No instances of police violence found related to measures enforcement. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/north-macedonia/
-https://www.hrw.org/europe/central-asia/macedonia
+ [1]	perma.cc/VTK6-MV6Y
+[2]	perma.cc/DHH7-TYSU
 
 
 
@@ -1242,6 +1213,6 @@ https://www.hrw.org/europe/central-asia/macedonia
  The military was involved in monitoring and enforcement of quarantine during the state of emergency, which ended on 22 June. There is no further information on the military's involvement in the implementation of confinemement measures. 
 
 *Sources*:
- http://www.arm.mil.mk/armijata-vo-poddrshka-na-instituciite/pretsedatelot-pendarovski-primi-pripadnici-na-armijata-koi-uchestvuvaat-vo-spravuvanjeto-so-pandemijata-na-kovid-19/
-http://www.arm.mil.mk/armijata-vo-poddrshka-na-instituciite/aktivnosti-na-armijata-vo-sproveduvanjeto-na-zadachite-vo-uslovi-na-proglasena-vonredna-sostojba-predizvikana-od-pojavata-na-korona-virusot-kovid-19/
-http://euromil.org/armed-forces-and-covid-19/
+ [1]	https://perma.cc/C6H6-F2E2
+[2]	https://perma.cc/327Z-F7TT
+[3]	perma.cc/UPJ3-26HT

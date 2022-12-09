@@ -24,13 +24,10 @@
 Women are extra vulnerable as a result of the restrictions, but the restrictions themselves are not discriminatory. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Afghanistan_2004.pdf?lang=en
-
-https://asiapacific.unwomen.org/en/digital-library/publications/2020/04/gender-alert-on-covid-19-l-afghanistan
-
-https://asiapacific.unwomen.org/en/digital-library/publications/2020/04/gender-alert-on-covid-19-in-afghanistan-issue-ii--ensuring-access-to-services-for-survivors-of-vawg
-
-https://www.hrw.org/news/2020/10/14/gender-alert-covid-19-afghanistan
+ https://perma.cc/5LVR-GXVL
+https://perma.cc/U2RU-885V
+https://perma.cc/8F4M-GPLR
+https://perma.cc/J3YD-EZTR
 
 
 
@@ -55,8 +52,8 @@ https://www.hrw.org/news/2020/10/14/gender-alert-covid-19-afghanistan
  No de-jure disciminating provisions and no information on de-facto discrimination found. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/albania/
-https://www.hrw.org/europe/central-asia/albania
+ https://perma.cc/AR7U-25WJ
+https://perma.cc/H6CW-53KE
 
 
 
@@ -81,21 +78,23 @@ https://www.hrw.org/europe/central-asia/albania
  There are reports on the government discriminating against Hirak movement activists, but these do not relate to the grounds specified in this question. 
 
 *Sources*:
- https://www.chathamhouse.org/expert/comment/algeria-s-perfect-storm-covid-19-and-its-fallout
+ https://perma.cc/4M33-KM6L
 
-https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
+https://perma.cc/8NFJ-ABG6
 
-https://ambalgeri.esteri.it/ambasciata_algeri/resource/doc/2020/03/decreto_dz_covid_19_-_21032020.pdf
+https://perma.cc/6BK6-AFSP
 
-http://www.faf.dz/wp-content/uploads/2020/03/Journal-Officiel-n%C2%B016-Relatif-%C3%A0-la-Lutte-contre-le-COVID-19.pdf
+https://perma.cc/M7WP-WAPS
 
-https://www.africalegalnetwork.com/algeria/news/algeria-sets-measures-to-mitigate-impact-of-covid-19-on-economy/
 
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
+https://perma.cc/9NRY-S9VJ
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/algeria/
+https://perma.cc/Y4HZ-SRGM
 
-https://www.hrw.org/world-report/2021/country-chapters/algeria#fb21e4
+https://perma.cc/59A9-5XUU
+
+
+https://perma.cc/VK56-Y2LJ
 
 
 
@@ -120,10 +119,25 @@ https://www.hrw.org/world-report/2021/country-chapters/algeria#fb21e4
  No evidence of discrimination was found. 
 
 *Sources*:
- https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
-https://www.amnesty.org/en/countries/africa/angola/
-https://www.hrw.org/africa/angola
-https://monitor.civicus.org/country/angola/
+ https://perma.cc/DBU4-MUV2
+
+
+
+
+
+https://perma.cc/6QVZ-WQ6G
+
+
+
+
+
+https://perma.cc/C9HA-3268
+
+
+
+
+
+https://perma.cc/KG2Z-Z6KX
 
 
 
@@ -149,11 +163,13 @@ https://monitor.civicus.org/country/angola/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/argentina/
+https://perma.cc/XT86-SZNX
+
 [2]
-https://www.hrw.org/americas/argentina
+https://perma.cc/LS2C-8RS8
+
 [3]
-https://monitor.civicus.org/country/argentina/
+https://perma.cc/9HET-92D3
 
 
 
@@ -178,8 +194,13 @@ https://monitor.civicus.org/country/argentina/
  No de-jure disciminating provisions and no information on de-facto discrimination found. No new information found since June 2020. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/armenia/
-https://www.hrw.org/europe/central-asia/armenia
+ https://perma.cc/KTY8-4XU8
+
+
+
+
+
+https://perma.cc/CAH3-8XTR
 
 
 
@@ -204,14 +225,13 @@ https://www.hrw.org/europe/central-asia/armenia
  There is no discriminating measures within the Biosecurity Emergency measures, and no other indications of such discrimination occuring in Australia's emergency response has been found. Therefore, this variable is coded as 0 for all periods. 
 
 *Sources*:
- https://www.legislation.gov.au/Details/F2020L00266
+ https://perma.cc/M42S-E3MA
 
-https://humanrights.gov.au/our-work/commission-general/Covid-19-information
+https://perma.cc/594X-943T
 
-https://www.hrw.org/asia/australia
+https://perma.cc/8NH7-KM52
 
-
-https://www.amnesty.org/en/search/?country=38345&resourceType=newsarticle&sort=date
+https://perma.cc/ZQ9E-ZXXU
 
 
 
@@ -236,12 +256,37 @@ https://www.amnesty.org/en/search/?country=38345&resourceType=newsarticle&sort=d
  The EU agency for fundamental rights, Human Rights Watch and Amnesty international report no discrimination within the emergency response, and no other indication of discrimination has been found in the Covid-19 response. This variable is therefore coded as 0 for all periods. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.amnesty.org/en/search/?country=38426&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic_july_2020_.pdf
-https://www.hrw.org/news?country[]=9582
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+ https://perma.cc/9CXM-48PJ
+
+
+
+
+
+https://perma.cc/3Y53-VXR5
+
+
+
+
+
+https://perma.cc/9ACH-VDZC
+
+
+
+
+
+https://perma.cc/G6FV-DA5E
+
+
+
+
+
+https://perma.cc/P5RN-RXEZ
+
+
+
+
+
+https://perma.cc/55S5-MKVP
 
 
 
@@ -266,9 +311,19 @@ https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%
  No de-jure disciminating provisions and no information on de-facto discrimination found. No new information found since June 2020. 
 
 *Sources*:
- https://koronavirusinfo.az/az
-https://www.hrw.org/europe/central-asia/azerbaijan
-https://www.amnesty.org/en/countries/europe-and-central-asia/azerbaijan/
+ https://perma.cc/9YW9-VEY9
+
+
+
+
+
+https://perma.cc/U294-WS7A
+
+
+
+
+
+https://perma.cc/54BB-BP3H
 
 
 
@@ -295,10 +350,13 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/azerbaijan/
 However, state run hospitals have been accused of discrimination when it was reported that two hospitals dedicated to fighting Covid-19 turned away patients from the Bihari community. 
 
 *Sources*:
- https://www.dawn.com/news/1551532
+ https://perma.cc/JH2Z-WEM3
 
 
-https://www.hindustantimes.com/world-news/bangladesh-virus-hospitals-accused-of-rejecting-slum-dwellers/story-03LxQiANx3gnomOltJKKKK.html
+
+
+
+https://perma.cc/JE4C-7F6N
 
 
 
@@ -323,8 +381,8 @@ https://www.hindustantimes.com/world-news/bangladesh-virus-hospitals-accused-of-
  No de-jure disciminating provisions and no information on de-facto discrimination found. No new information found since June 2020. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/belarus/
-https://www.hrw.org/europe/central-asia/belarus
+ https://perma.cc/VFY8-KJK6
+https://perma.cc/R8EC-Z3RE
 
 
 
@@ -357,32 +415,31 @@ A recent report (May 3 2021) by the UN Committee on the Elimination of Racial Di
 ''The experts, however, were concerned about a number of issues, including police-related racial violence – reports of an increase of police violence during the Covid-19 pandemic and recent anti-racism demonstrations, persistent racial profiling and hate speech. It also addressed the situation of Roma communities and migrants.'' (9). 
 
 *Sources*:
- https://www.enar-eu.org/Evidence-of-the-impact-of-Covid-19-on-racialised-communities-exposes-need-to;
+ https://perma.cc/8RDA-Q29V
 (1)
 
-https://www.aljazeera.com/indepth/opinion/police-covid-19-pandemic-excuse-abuse-roma-200511134616420.html
+https://perma.cc/9SAG-MYP2
 (2)
 
-https://www.aljazeera.com/indepth/opinion/death-toll-coronavirus-pandemic-200430085024188.htmlv
+https://perma.cc/J5Y2-YGES
 (3)
-
-https://www.dw.com/en/covid-19-lockdowns-expose-racial-bias-with-belgian-police/av-53954197
+https://perma.cc/2ERU-GWFB
 (4)
 
-https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-(5)
+https://perma.cc/5GX8-MFDL
 
-https://www.fairtrials.org/news/commentary-73-000-alleged-covid-19-breaches-belgium-now-time-launch-review
+(5)
+https://perma.cc/H3YJ-Y327
 (6)
 
-https://www.brusselstimes.com/news/belgium-all-news/justice-belgium/118185/lockdown-uncovered-disturbing-pattern-of-racial-bias-in-belgian-police-report/
-(7)
-
-https://www.amnesty.org/download/Documents/EUR1439192021ENGLISH.pdf
+hhttps://perma.cc/ZUF5-KK9S
 (8)
 
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=27052&LangID=E
+https://perma.cc/C48W-U23M
 (9)
+
+
+
 
 
 
@@ -410,13 +467,10 @@ However, demonstrations by government supporters went ahead without interference
  
 
 *Sources*:
- https://www.gouv.bj/actualite/556/coronavirus-les-11-mesures-prises-par-le-conseil-extraordinaire-des-ministres-au-benin/
-
-https://www.gouv.bj/actualite/567/coronavirus---communique-gouvernement-propos-deux-nouvelles-mesures-prises/
-
-https://www.gouv.bj/actualite/571/coronavirus---communique-ministre-interieur-sujet-cordon-sanitaire/
-
-https://www.amnesty.org/en/countries/africa/benin/report-benin/
+ https://perma.cc/K4BL-4AAA
+https://perma.cc/FZ4S-XXLN
+https://perma.cc/AV6L-69DZ
+https://perma.cc/P5BJ-XC44
 (4)
 
 
@@ -443,11 +497,13 @@ https://www.amnesty.org/en/countries/africa/benin/report-benin/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/bolivia/
+https://perma.cc/X7RB-FL66
+
 [2]
-https://www.hrw.org/americas/bolivia
+https://perma.cc/X9TC-6Z47
+
 [3]
-https://monitor.civicus.org/country/bolivia/
+https://perma.cc/QB49-GWWL
 
 
 
@@ -472,19 +528,21 @@ https://monitor.civicus.org/country/bolivia/
 *No comment provided* 
 
 *Sources*:
- http://vladausk.ba/v4/novost/operativna-grupa-grupe-za-koordiniranje-aktivnosti-i-nadzora-nad-migrantskom-krizom-na-podrucju-unsko-sanskog-kantona/2101
+ https://perma.cc/XD4G-HYD9
 (1)
-http://vladausk.ba/v4/novost/operativna-grupa-za-koordiniranje-aktivnosti-i-nadzora-nad-migrantskom-krizom-na-podrucju-unsko-sanskog-kantona/2566
-http://vladausk.ba/v4/novost/operativna-grupa-za-koordiniranje-aktivnosti-i-nadzora-nad-migrantskom-krizom-na-podrucju-unsko-sanskog-kantona/2762
-https://vlada.ks.gov.ba/aktuelnosti/novosti-vezane-za-koronu-virus/vlada-i-mup-ks-ogranicavaju-kretanje-migranata-u
-(2);
-https://www.paragraf.ba/propisi/kantona-sarajevo/odluka-o-odredjivanju-mjera-ogranicavanja-kretanja-migranata-na-podrucju-kantona-sarajevo-u-cilju-preveniranja.html
+
+https://perma.cc/QEM7-Y7PW
+https://perma.cc/BT8M-PKLX
+https://perma.cc/C45G-ZHJW
+(2)
+
+https://perma.cc/XV9E-UC8Z
 https://www.care.de/fileadmin/user_upload/Nothilfe/Kontinente/Europa/Balkan/Assessment_Report_-_Bosnia_2020_Policy_final.pdf
-https://www.amnesty.org/en/documents/pol10/3202/2021/en/#:~:text=The%20Amnesty%20International%20Report%202020,was%20rocked%20by%20COVID%2D19
-https://www.coe.int/en/web/special-representative-secretary-general-migration-refugees/newsletter-december-2020/-/asset_publisher/cVKOAoroBOtI/content/commissioner-calls-bosnia-and-herzegovina-to-address-shortcomings-in-the-handling-of-migrants-and-asylum-seekers?_101_INSTANCE_cVKOAoroBOtI_viewMode=view/
-https://www.osce.org/files/f/documents/7/7/470667.pdf
-https://www.paragraf.ba/propisi-naredbe-bosne-i-hercegovine-za-sprecavanje-sirenja-korona-virusa-covid-19.html
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/bosnia-and-herzegovina/
+https://perma.cc/8UTW-4SCE
+https://perma.cc/836N-HLHU
+https://perma.cc/8RQK-4NHC
+https://perma.cc/ZST4-RYCZ
+https://perma.cc/FML8-VMNX
 (3)
 
 
@@ -511,19 +569,15 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/bos
 
 *Sources*:
  [1]
-https://www.chr.up.ac.za/images/researchunits/litigagion/covid19_country_regulations/Botswana-Emergency_Powers_COVID-19_Regulations.pdf
-
+https://perma.cc/2SN6-ES87
 [2]
-https://minorityrights.org/?s=botswana
-
+https://perma.cc/7CZK-EQJ3
 [3]
-https://www.hrw.org/africa/botswana
-
+https://perma.cc/AG4R-BK6K
 [4]
-https://www.amnesty.org/en/search/?country=38571&resourceType=newsarticle&sort=date
-
+https://perma.cc/TC4B-DVHZ
 [5]
-https://www.hrw.org/sitesearch?search=Botswana
+https://perma.cc/7Z8M-6XT8
 
 
 
@@ -549,11 +603,13 @@ https://www.hrw.org/sitesearch?search=Botswana
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/brazil/
+https://perma.cc/Q9SV-NAVN
+
 [2]
-https://www.hrw.org/americas/brazil
+https://perma.cc/R727-G9AG
+
 [3]
-https://monitor.civicus.org/country/brazil/
+https://perma.cc/UY7V-T2B8
 
 
 
@@ -584,30 +640,35 @@ Q3 2020: According to Amnestry International (3), the measures were in place fro
 Q4 2020, Q1 2021, Q2 2021: since quarantine measures had a defined limit (with the latest being 8 July 2020) and I found no evidence of further discrimination, coded as 0. 
 
 *Sources*:
- https://www.amnesty.sk/stigmatizujuca-karantena-romskych-komunit-na-slovensku-a-v-bulharsku/
+ https://perma.cc/4V78-54BG
 (1)
-https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-https://www.ohchr.org/FR/NewsEvents/Pages/DisplayNews.aspx?NewsID=25881&LangID=E
-https://www.amnesty.org/en/documents/ior60/2347/2020/en/
-https://fra.europa.eu/sites/default/files/fra_uploads/bulgaria-report-covid-19-april-2020_en.pdf
-http://www.errc.org/news/more-toxic-than-covid-the-politics-of-anti-roma-racism-in-bulgaria
-https://www.coe.int/en/web/commissioner/-/governments-must-ensure-equal-protection-and-care-for-roma-and-travellers-during-the-covid-19-crisis
-https://www.amnesty.sk/stigmatizujuca-karantena-romskych-komunit-na-slovensku-a-v-bulharsku/
-https://www.flashnews.bg/general-mutafchijski-zatyaga-se-kontrola-v-romskite-kvartali/
-(5)
-https://nova-zagora.org/node/3262
-https://nova-zagora.org/sites/default/files/2020/03/18/SKMBT_C20320031812100.pdf
-(4)
-https://www.reuters.com/article/us-health-coronavirus-bulgaria-roma/bulgarias-roma-fear-coronavirus-lockdowns-leave-them-with-no-means-to-live-idUSKBN21Z362
-https://www.amnesty.org/download/Documents/EUR1529612020ENGLISH.PDF
-(3)
-https://btvnovinite.bg/bulgaria/karantinata-v-romskija-kvartal-v-kjustendil-se-udalzhava-do-8-juli.html
 
-https://fra.europa.eu/sites/default/files/fra_uploads/bg_report_on_coronavirus_pandemic_july_2020.pdf
-https://www.reuters.com/article/us-health-coronavirus-easter-bulgaria/bulgarian-churches-open-for-easter-but-only-most-devout-go-idUSKCN21U0JH
-https://fra.europa.eu/sites/default/files/fra_uploads/bg_report_-_covid-19_impact_on_roma_en.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/fra-2020-coronavirus-pandemic-eu-bulletin-roma_en.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/bg_report_on_coronavirus_pandemic_november_2020.pdf
+https://perma.cc/5GX8-MFDL
+https://perma.cc/28JC-K7WU
+https://perma.cc/BPQ5-TQGQ
+https://perma.cc/H26X-C8D9
+https://perma.cc/LWQ4-8TMY
+https://perma.cc/DN24-VQDD
+https://perma.cc/XK2P-REGE
+(5)
+
+https://perma.cc/VY3Y-HYN6
+https://perma.cc/7FHR-SSPY
+(4)
+
+https://perma.cc/6B6L-P9JN
+https://perma.cc/4LRQ-68R5
+
+(3)
+
+https://perma.cc/H8KN-RDBV
+
+https://perma.cc/HDT7-QVR7
+https://perma.cc/ZSS4-UYEL
+https://perma.cc/FWS2-ABPQ
+https://perma.cc/4BDV-SGZD
+https://perma.cc/SG2A-8VKH
+https://perma.cc/7TQ6-5ZKD
 (2)
 
 
@@ -635,13 +696,14 @@ https://fra.europa.eu/sites/default/files/fra_uploads/bg_report_on_coronavirus_p
  
 
 *Sources*:
- https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
-
-https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/burkina-faso/
+ [1]
+perma.cc/5A8S-SV4V
+[2]
+perma.cc/29SS-QCR9
+[3]
+perma.cc/ZH4X-LW3U
+[4]
+perma.cc/JZ4A-CDPX
 
 
 
@@ -666,14 +728,23 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/bur
  There are reports of some discrimination from law enforcement onto the Rohingyan population, who has been subject to harassment, as well as unlawful fines, when attempting to cross checkpoints that are part of the emergency measures. Similar reports are found in the second period, where Rohingyans and Rakhians have been subject to police targeting and extortion. However, no sources indicate that this is national or regional policy, or that there are any more severe or systematically imposed instances of de facto discrimination ongoing in relation to the Covid-19 emergency measures (the more severe discrimination of Rohingyans is from before the emergency measures and not part of the Covid-19 response, and thus not accounted for here). While no new reports of discrimination have been found in later periods, there has not been any evidence or indication that discrimination toward these groups have ceased or any indication that the situation has improved. This is therefore coded as 1, minor de facto discrimination, for all periods. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/29/pandemic-adds-new-threat-rohingyas-myanmar
+ https://perma.cc/8LBM-BCWN
 
-https://www.hrw.org/news?country[]=9543
 
-https://www.amnesty.org/en/search/?country=38380&resourceType=newsarticle&sort=date
+https://perma.cc/J473-9XNG
 
-https://thediplomat.com/2020/09/racism-is-fueling-myanmars-deadly-second-wave-of-Covid-19/
- 
+
+https://perma.cc/LY4E-W8PE
+
+
+
+https://perma.cc/9JV7-RDQX
+
+
+
+
+
+
 
 
 
@@ -700,20 +771,13 @@ https://thediplomat.com/2020/09/racism-is-fueling-myanmars-deadly-second-wave-of
 ''Although police and local officials have quarantined Burundians and foreigners traveling into the country by air or overland in hotels, schools, and other buildings, Burundian authorities have failed to ensure adequate food, health care, hygiene, and sanitation in some locations. Some humanitarian organizations have been blocked from reaching and providing assistance to people in quarantine.'' (1) 
 
 *Sources*:
- https://www.hrw.org/news/2020/03/31/burundi-any-covid-19-cover-will-put-lives-risk
-(1)
-https://www.ohchr.org/Documents/Issues/Racism/COVID-19_and_Racial_Discrimination.pdf
-(2)
-
-http://minisante.bi/?p=553http://minisante.bi/?p=569
-
-http://minisante.bi/wp-content/uploads/Communiqu%C3%A9-de-presse-sur-les-mesures-d%C3%A9j%C3%A0-prises-de-pr%C3%A9vention-Covid-19.pdf
-
-https://twitter.com/BurundiSecurity/status/1241045159636336641
-
-https://twitter.com/mspls_bdi/status/1241013386244169728
-
-https://www.hrw.org/world-report/2021/country-chapters/burundi
+ [1]	perma.cc/LM4M-2667
+[2]	perma.cc/AMN3-GRAT
+[3]	perma.cc/T6JA-6T83
+[4]	perma.cc/9MLB-XFG4
+[5]	perma.cc/3WV9-H3GW
+[6]	perma.cc/T5P9-LJ4K
+[7]	perma.cc/T7JD-ZLXE
 
 
 
@@ -738,10 +802,10 @@ https://www.hrw.org/world-report/2021/country-chapters/burundi
  I did not find evidence of the emergency measures discriminating "solely on the grounds of race, colour, sex, language, religion or social origin". 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Cambodia_2008.pdf?lang=en
+ https://perma.cc/Y2CQ-7EFY
 
 
-https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
+https://perma.cc/PEW5-PJJT
 
 
 
@@ -767,22 +831,14 @@ https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20E
 However, there are reports of the authorities using the pandemic to crack down on human rights: a nationwide ban on demonstrations was issued in Cameroon after the opposition Cameroon Renaissance Movement (MRC) called for the resignation of the president and hundreds of demonstrators were arbitrarily arrested (1) 
 
 *Sources*:
- https://reliefweb.int/report/world/amnesty-international-report-202021-state-worlds-human-rights-enarru
-(1)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cameroon/
-
-https://www.ohchr.org/Documents/HRBodies/SP/COVID/NGOs/NationalObservatoryonESCRightsCameroon.pdf
-
-https://verfassungsblog.de/cameroons-fight-against-covid-19-an-ordinary-legal-framework-for-an-extraordinary-situation/
-
-https://www.prc.cm/en/multimedia/documents/8228-government-response-strategy-to-the-coronavirus-pandemic-covid-19
-
-https://www.spm.gov.cm/site/?q=fr/content/strategie-gouvernementale-de-riposte-face-la-pandemie-de-coronavirus-covid-19
-
-https://afrique.le360.ma/autres-pays/societe/2020/05/01/30417-cameroun-coronavirus-le-gouvernement-assouplit-les-mesures-restrictives-30417
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
+ [1]	perma.cc/6LYP-PGQX
+[2]	perma.cc/Z8KZ-RARE
+[3]	perma.cc/J3VU-TQXY
+[4]	perma.cc/57T8-GCCT
+[5]	perma.cc/Q6YP-N6FN
+[6]	perma.cc/6QHX-TU9P
+[7]	perma.cc/UKY6-95V6
+[8]	perma.cc/8BTA-RNMW
 
 
 
@@ -807,11 +863,13 @@ https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
  Human Rights Watch and Amnesty International have not reported any discrimination within the federal or provincial response to Covid-19, and no other indications of such discrimination have been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9511
+ https://perma.cc/NFL4-XJAL
 
-https://www.amnesty.org/en/search/?country=38279&resourceType=newsarticle&sort=date
 
-https://www.canada.ca/en/global-affairs/news/2020/04/human-rights-implications-of-Covid-19.html
+https://perma.cc/P55J-FZSR
+
+
+https://perma.cc/X28W-BFJT
 
 
 
@@ -836,15 +894,11 @@ https://www.canada.ca/en/global-affairs/news/2020/04/human-rights-implications-o
  No discrimination based on these rights. 
 
 *Sources*:
- https://www.ascleiden.nl/content/ascl-blogs/crepin-marius-mouguia/covid-19-central-african-republic-respecting-barriers
-
-https://reliefweb.int/report/central-african-republic/car-violence-against-women-surging-amid-covid-19-pandemic-study
-
-https://www.ituc-africa.org/Management-of-the-COVID-19-crisis-in-Central-Africa.html
-
-https://www.centrafrique-presse.info/article/13898/rca-covid-19-message-a-la-nation-de-son-excellence-le-professeur-faustin-archange-touadera-president-de-la-republique-chef-de-letat
-
-https://www.amnesty.org/en/latest/news/2021/04/subsaharan-africa-the-devastating-impact-of-conflicts-compounded/
+ [1]	perma.cc/9HRB-7EYY
+[2]	perma.cc/A45S-JZMC
+[3]	perma.cc/LZ88-VCD9
+[4]	perma.cc/GZ8D-CEAH
+[5]	perma.cc/9KW7-G9X4
 
 
 
@@ -869,16 +923,12 @@ https://www.amnesty.org/en/latest/news/2021/04/subsaharan-africa-the-devastating
  Nothing mentioned in the emergency measures, nor in reports on human rights violations. 
 
 *Sources*:
- https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
-
-https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/chad/
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-
+ [1]	perma.cc/A3LJ-FKUB
+[2]	perma.cc/YSV9-SGAZ
+[3]	perma.cc/7ZQE-M3X8
+[4]	perma.cc/7B47-4JGT
+[5]
+https://perma.cc/LS2H-DVMB
 
 
 
@@ -905,11 +955,15 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/chile/
+https://perma.cc/E4E9-DJVQ
+
+
 [2]
-https://www.hrw.org/americas/chile
+https://perma.cc/978C-FA2M
+
+
 [3]
-https://monitor.civicus.org/country/chile/
+https://perma.cc/7JH8-VR48
 
 
 
@@ -935,23 +989,26 @@ https://monitor.civicus.org/country/chile/
  
 
 *Sources*:
- https://www.hrw.org/news/2020/05/05/china-covid-19-discrimination-against-africans
+ https://perma.cc/K94K-8T3X
 
 
-https://time.com/5820389/africans-guangzhou-china-coronavirus-discrimination/
-
-https://www.theguardian.com/world/2020/apr/27/china-fails-to-stop-racism-against-africans-over-covid-19
+https://perma.cc/P7ZG-ZZPS
 
 
-https://www.bbc.com/news/world-africa-52309414
+https://perma.cc/4KNM-DZBD
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/china/
 
-https://apnews.com/article/c1e81496be87b9a289aefe7345479949
+https://perma.cc/DSW3-WHZK
 
-https://www.theguardian.com/world/2020/aug/25/xinjiang-residents-handcuffed-to-their-homes-in-covid-lockdown
 
-https://www.abc.net.au/news/2020-08-25/xinjiang-yell-from-balconies-over-strict-coronavirus-lockdown/12589440
+https://perma.cc/J8LX-MPV9
+
+
+https://perma.cc/63CJ-JX9U
+
+
+https://perma.cc/ZRD3-7VXA
+
 
 
 
@@ -979,11 +1036,11 @@ https://www.abc.net.au/news/2020-08-25/xinjiang-yell-from-balconies-over-strict-
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/colombia/
+https://perma.cc/EQQ4-FHWK
 [2]
-https://www.hrw.org/americas/colombia
+https://perma.cc/D8JJ-3VBU
 [3]
-https://monitor.civicus.org/country/colombia/
+https://perma.cc/6NHC-KUKB
 
 
 
@@ -1009,11 +1066,11 @@ https://monitor.civicus.org/country/colombia/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/search/?q=costa+rica
+https://perma.cc/S82U-TDLC
 [2]
-https://www.hrw.org/americas/costa-rica
+https://perma.cc/FG36-8G96
 [3]
-https://monitor.civicus.org/country/costa-rica/
+https://perma.cc/FG36-8G96
 
 
 
@@ -1039,12 +1096,10 @@ https://monitor.civicus.org/country/costa-rica/
  
 
 *Sources*:
- https://www.ombudsman.hr/en/news/
-https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-april-2020_en.pdf
-
-
-https://fra.europa.eu/sites/default/files/fra_uploads/hr_report_on_coronavirus_pandemic_july_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/hr_report_-_covid-19_impact_on_roma_en.pdf
+ [1]	perma.cc/5BPE-74DE
+[2]	perma.cc/G756-NS2H
+[3]	perma.cc/X6MT-WHA8
+[4]	perma.cc/Y959-RREK
 
 
 
@@ -1070,9 +1125,9 @@ https://fra.europa.eu/sites/default/files/fra_uploads/hr_report_-_covid-19_impac
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/cuba/
+https://perma.cc/NY77-EWB7
 [2]
-https://www.hrw.org/americas/cuba
+https://perma.cc/T9BJ-K74K
 
 
 
@@ -1099,12 +1154,13 @@ https://www.hrw.org/americas/cuba
 There is a persistent discrimination against Roma people in Czech Republic, but this is not Covid-19 related. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/czech-republic/report-czech-republic/
-https://rm.coe.int/ecri-6th-report-on-the-czech-republic/1680a0a086
-https://fra.europa.eu/sites/default/files/fra_uploads/czechia-report-covid-19-april-2020_en.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/cz_report_on_coronavirus_pandemic_july_2020.pdf
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B316%5D&covid19=1
-https://fra.europa.eu/sites/default/files/fra_uploads/cz_report_-_covid-19_impact_on_roma_en.pdf
+ [1]	perma.cc/7MWZ-ANCY
+[2]	perma.cc/2XT3-2XFC
+[3]	perma.cc/Y56N-32DZ
+[4]	perma.cc/L83S-F6Y7
+[5]	https://perma.cc/J7UH-BULT
+
+[6]	perma.cc/CWD5-XZSE
 
 
 
@@ -1129,13 +1185,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/cz_report_-_covid-19_impac
  No evidence of discrimination related to Covid-19 measures was found. 
 
 *Sources*:
- http://www.leganet.cd/Legislation/JO/2020/Ordonnance%2024.03.2020.html
+ https://perma.cc/HB76-4SZD
+https://perma.cc/M5DS-AT3D
+https://perma.cc/Y4PK-NMYV
+https://perma.cc/RVZ9-TY9S
 
-https://www.stopcoronavirusrdc.info/mesures-de-protection-contre-le-coronavirus
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/democratic-republic-of-the-congo/
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
 
 
 
@@ -1160,14 +1216,22 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
  Human rights Watch, Amnesty International and the EU agency for fundamental rights report no discrimination in the emergency measures taken by Denmark, and no indications have been found of any such discrimination. This is therefore coded as 0 for all periods. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38444&resourceType=newsarticle&sort=date
+ https://perma.cc/VBL4-HLNG
 
-https://www.hrw.org/sitesearch?search=Denmark
 
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_july_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+https://perma.cc/VJV7-2N5N
+
+
+https://perma.cc/858P-7D4G
+
+
+https://perma.cc/435T-TTJ2
+
+
+https://perma.cc/L6NK-KUNK
+
+
+https://perma.cc/C2TR-32AG
 
 
 
@@ -1193,11 +1257,11 @@ https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/dominican-republic/
+https://perma.cc/RSD6-RG5Y
 [2]
-https://www.hrw.org/americas/dominican-republic
+https://perma.cc/Q9RL-SSE8
 [3]
-https://monitor.civicus.org/country/dominican-republic/
+https://perma.cc/KB9U-KURC
 
 
 
@@ -1223,11 +1287,11 @@ https://monitor.civicus.org/country/dominican-republic/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/ecuador/
+https://perma.cc/GA4B-JNNR
 [2]
-https://www.hrw.org/americas/ecuador
+https://perma.cc/NRP5-8JQ7
 [3]
-https://monitor.civicus.org/country/ecuador/
+https://perma.cc/S6F3-LQTC
 
 
 
@@ -1252,7 +1316,7 @@ https://monitor.civicus.org/country/ecuador/
  I did not find evidence of the emergency measures discriminating "solely on the grounds of race, colour, sex, language, religion or social origin". 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Egypt_2014.pdf
+ https://perma.cc/R3MP-6PNW
 
 
 
@@ -1278,9 +1342,9 @@ https://monitor.civicus.org/country/ecuador/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/el-salvador/
+https://perma.cc/878P-9V55
 [2]
-https://www.hrw.org/americas/el-salvador
+https://perma.cc/XE2W-T629
 
 
 
@@ -1305,19 +1369,11 @@ https://www.hrw.org/americas/el-salvador
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38593&resourceType=newsarticle&sort=date
-
-
-
-https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
-
-
-
-https://www.hrw.org/africa/eritrea
-
-
-
-https://minorityrights.org/?s=eritrea
+ [1]	perma.cc/V7GP-XPZC
+[2]	perma.cc/88W2-JCJU
+[3]	https://web.archive.org/web/20200402131742/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
+[4]	perma.cc/6FU3-PG56
+[5]	perma.cc/J2TA-QD9G
 
 
 
@@ -1345,15 +1401,15 @@ The Omoro region had very restricted access to internet and phone service betwee
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/africa/ethiopia/
+perma.cc/4DN6-XAC8
 [2]
-https://www.hrw.org/africa/ethiopia
+perma.cc/EV68-RSPT
 [3]
-https://globalfreedomofexpression.columbia.edu/publications/ethiopian-council-of-ministers-regulation-for-the-implementation-of-the-state-of-emergency/
+perma.cc/7UUL-GTY6
 [4]
-https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110046/136731/F-912290884/ETH110046.pdf
+perma.cc/52NA-CWAV
 [5]
-https://dig.watch/updates/internet-restored-oromo-region-ethiopia
+perma.cc/P2Z8-WHN8
 
 
 
@@ -1378,14 +1434,16 @@ https://dig.watch/updates/internet-restored-oromo-region-ethiopia
  Human Rights Watch, Amnesty International and EU agency of fundamental righs have not reported any discrimination within the response to Covid-19, and no indications have been found of it. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38449&resourceType=newsarticle&sort=date
-https://www.hrw.org/sitesearch?search=Finland
-https://verfassungsblog.de/finland-soft-measures-respect-for-the-rule-of-law-and-plenty-of-good-luck/
+ https://perma.cc/7BAQ-P4YN
 
 
+https://perma.cc/UY32-WYHJ
 
-https://fra.europa.eu/sites/default/files/fra_uploads/fi_report_on_coronavirus_pandemic_july_2020.pdf
- 
+
+https://perma.cc/W2UL-6LXU
+
+
+https://perma.cc/86SW-Y568
 
 
 
@@ -1427,23 +1485,13 @@ neighbourhoods.'' (1)
 'Since the beginning of the lockdown, many accounts, some corroborated by videos posted on social networks, reveal police stops that appear abusive, violent, and discriminatory, sometimes accompanied by racist insults.  Available official data, as well as information published in the media, also indicate a considerable concentration of police stops to enforce lockdown measures in “quartiers populaires” – working-class neighborhoods with a high number of visible minority residents and, for example, a fine rate three times as high as the national average in Seine-Saint-Denis, the poorest neighborhood of Metropolitan France. The data and accounts suggest discriminatory behavior against citizens depending on where they live and a disproportionate impact of fines on socially and economically disadvantaged households, the organizations said.'' (2) 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-(1)
+ https://perma.cc/5GX8-MFDL
+https://perma.cc/55WU-JVDV
+https://perma.cc/N4P4-JS83
 
-https://www.hrw.org/news/2020/05/15/france-end-discriminatory-police-checks-and-fines
-(2)
-
-https://www.france24.com/en/20200421-violence-flares-in-tense-paris-suburbs-as-heavy-handed-lockdown-stirs-explosive-cocktail
-(3)
-
-https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/report-lockdowns-enforced-more-harshly-on-minorities/1888645
-(4)
-
-https://www.theguardian.com/world/2020/jun/24/policing-of-european-covid-19-lockdowns-shows-racial-bias-report
-(5)
-
-https://www.hrw.org/world-report/2021/country-chapters/france
-(6)
+https://perma.cc/76BF-YWDW
+https://perma.cc/ZGU3-URZ6
+https://perma.cc/XS4E-T92U
 
 
 
@@ -1468,11 +1516,9 @@ https://www.hrw.org/world-report/2021/country-chapters/france
  No evidence was found in the emergency measures, nor in reports on human rights practices. 
 
 *Sources*:
- https://www.legigabon.com/etat-d-urgence-covid-19
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gabon/
+ https://perma.cc/BEL4-ZK9C
+https://perma.cc/N7ZL-WNSB
+https://perma.cc/75XY-2QNM
 
 
 
@@ -1497,7 +1543,7 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gab
  According to a report by Amnestry International (1, p.6): "Contrary to medical advice, religious gatherings have not been restricted  by law largely to ensure that the Georgian Orthodox Church could conduct liturgies for Orthodox Easter. During Palm Sunday and Easter celebrations on 12 April and 19 April in Georgia, several Orthodox churches hosted dozens of worshippers. All other religious groups in Georgia have voluntarily agreed to close their places of worship to the public. On 15 April, the head of the muslim community of Georgia, Mirtaghi Asadov, declared that when Ramadan begins, they will also open mosques and expect that the government will treat them with the same understanding as they have shown to the Orthodox church. Two days after this statement, Mirtaghi Asadov was summoned for questioning to the State Security Service of Georgia in connection with an attempt to “sabotage” the state." Since both Easter and Ramadan took place in the first time period (Q2 2020), discrim is coded as 0 in Q3 2020. No information on discrimination found in Q4 2020, Q1 2021, Q2 2021. 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
+ https://perma.cc/A7DY-GZVL
 (1)
 
 
@@ -1523,10 +1569,16 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gab
  Human Rights Watch, Amnesty International and EU agency of fundamental righs have not reported any discrimination within the federal or regional  response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9597
-https://www.amnesty.org/en/search/?country=38455&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_july_2020.pdf
+ https://perma.cc/T4GA-NWTA
+
+
+https://perma.cc/VVQ4-AA3C
+
+
+https://perma.cc/SP5Y-6V5A
+
+
+https://perma.cc/R8SE-J4G7
 
 
 
@@ -1552,15 +1604,15 @@ https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_p
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/30/ghana-1st-covid-19-case-psychiatric-hospital
+perma.cc/C996-2GGR
 [2]
-https://www.hrw.org/africa/ghana
+perma.cc/KL8V-NTJJ
 [3]
-https://www.amnesty.org/en/countries/africa/ghana/
+perma.cc/H3PM-L849
 [4]
-https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Act-2020-Act-1012.pdf.pdf
+perma.cc/VFV2-UYT2
 [5]
-https://www.dw.com/en/ghana-covid-19-survivors-stigmatized/av-53418720
+perma.cc/6VNE-E4EC
 
 
 
@@ -1593,51 +1645,44 @@ In Q4 of 2020, many refugee camps continued being under lockdown, but this time 
 Nevertheless, the greek government decided in November 2020 to continue controlling movement in all camps, and the police controls entry and exit: ''The Greek Government announced the control of movement until further notice in almost all the camps.'' (11). 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
+ perma.cc/5H3C-P78N
 (1)
 
-https://www.mitarakis.gr/gov/migration/1962-dt-yma-kya-periorismou
+perma.cc/4EL9-7B7P
 (2)
 
-https://www.amnesty.org/download/Documents/EUR2527762020ENGLISH.pdf
+perma.cc/4MX6-6SP2
 (3)
 
-https://www.aljazeera.com/news/2020/05/greece-extends-coronavirus-lockdown-refugee-camps-200510203054274.html
+perma.cc/P8LB-HDML
 (4)
 
-https://www.dw.com/en/greece-quarantines-migrant-camps/a-53022767
+perma.cc/GW5C-3SD7
 (5)
 
-https://www.theguardian.com/global-development/2020/may/27/greece-ready-to-welcome-tourists-as-refugees-stay-locked-down-in-lesbos-coronavirus
+perma.cc/5WBF-ECM3
 (6)
 
-
-https://www.dw.com/en/greece-reports-first-coronavirus-case-in-moria-migrant-camp-on-lesbos/a-54792666
+perma.cc/E7YU-K5LF
 (7)
 
-https://www.ecre.org/greece-10000-people-prevented-access-lockdown-extended-recognition-rate-increases/
+perma.cc/WK86-Z2G9
 (8)
 
-
-https://www.infomigrants.net/en/post/28152/malakasa-camp-inaction-and-uncertainty-trap-migrants-despite-end-to-lockdown
+perma.cc/J5Q4-ABUM
 (9)
 
-https://www.ekathimerini.com/258364/article/ekathimerini/news/lockdown-extended-to-nov-4-for-chios-migrant-camp
+perma.cc/PBC7-QXBY
 (10)
 
-https://www.refugee.info/greece/coronavirus-emergency-in-greece/update-on-reception-identification-centers-on-the-greek-islands-lesvos-samos?language=en
+perma.cc/4Z7R-9GG6
 (11)
 
-
-https://www.infomigrants.net/en/post/25818/greece-extends-migrant-camp-lockdown-again-amid-criticism
-
-https://www.infomigrants.net/en/post/26138/lockdown-in-refugee-camps-on-greek-islands-discriminatory-msf-says
-
-https://www.voanews.com/covid-19-pandemic/greece-extends-lockdown-more-120000-migrants-refugees
-
-https://www.doctorswithoutborders.org/what-we-do/news-stories/news/greece-imposes-dangerous-lockdown-moria-refugee-camp-after-first-covid
-
-https://www.hrw.org/world-report/2021/country-chapters/greece
+perma.cc/SWL9-DTLM
+perma.cc/6BEA-8ZFM
+perma.cc/FJ62-ZK4E
+perma.cc/VWS8-44VM
+perma.cc/VN6K-S5UE
 
 
 
@@ -1663,11 +1708,11 @@ https://www.hrw.org/world-report/2021/country-chapters/greece
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/guatemala/
+https://perma.cc/P7TD-QE9G
 [2]
-https://www.hrw.org/americas/guatemala
+https://perma.cc/R73R-P9VN
 [3]
-https://monitor.civicus.org/country/guatemala/
+https://perma.cc/ZFN6-2A3B
 
 
 
@@ -1692,15 +1737,15 @@ https://monitor.civicus.org/country/guatemala/
  No incidents of discrimination based on these rights was found. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/guinea/
+ perma.cc/CA4P-MJHZ
 (1)
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+perma.cc/98YU-LB3G
 (2)
 
-https://www.hrw.org/news/2020/04/29/guinea-respecting-rights-key-amid-covid-19-0
-
-http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
+perma.cc/4C6P-RKLF
+[4]
+https://web.archive.org/web/20200528181921/http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
 
 
 
@@ -1725,13 +1770,16 @@ http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de
  No evidence was found. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/haiti/
+ perma.cc/WB8Y-8E69
 
-https://lenouvelliste.com/article/216364/letat-durgence-sanitaire-renouvele-pour-deux-mois-supplementaires
 
-https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
+perma.cc/9HC9-Q7U6
 
-https://www.haitilibre.com/article-30843-haiti-flash-decret-presidentiel-fixant-les-regles-generales-de-protection-de-la-population-face-au-covid-19.html
+
+perma.cc/Y5WG-2SUE
+
+
+perma.cc/Y8T6-DUGX
 
 
 
@@ -1757,12 +1805,11 @@ https://www.haitilibre.com/article-30843-haiti-flash-decret-presidentiel-fixant-
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/honduras/
-
+perma.cc/B5U5-US5V
 [2]
-https://www.hrw.org/americas/honduras
+perma.cc/XD4Q-XXN6
 [3]
-https://monitor.civicus.org/country/honduras/
+perma.cc/B9M7-Q8QH
 
 
 
@@ -1787,11 +1834,10 @@ https://monitor.civicus.org/country/honduras/
  Human Rights Watch and Amnesty International have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. Important to note is that on April 30 2021, Hong Kong introduced some discriminatory measures toward migrant workers. They have been targeted by authorities as being of “high risk” to spread the virus due to their habit of “mingling” with other migrant workers. As a result, the government has ordered the migrant worker group to be mandatorily tested, as well as requiring them to get vaccinated or – if not wanting to get vaccinated – leave the country. Neither testing nor such vaccination policies has been directed to any other group of the population, and NY Times reports that there is no basis in these measures in terms of the extent of viral spread among migrant workers compared to other social groups. The requirement of vaccinations was whitdrawn a couple days later due to protests from parts of the population and officials from other countries, but the testing requirement remained and continues even though the first round of such testing showed a very low level of infections. This, however, is not regarded as discrimination within this coding as it does not affect migrant groups democratic rights such as movement, assembly etc. differently than other people in Hong Kong. Thus, this is coded as 0 for all time periods, although discrimination outside of the scope here considered has been going on. 
 
 *Sources*:
- https://www.hrw.org/news?tags[]=5629
-https://www.amnesty.org/en/search/?q=Hong+Kong
-https://www.nytimes.com/2021/05/18/world/asia/hong-kong-domestic-worker-discrimination.html
-
-https://www.theguardian.com/world/2021/may/03/hong-kong-plan-to-force-covid-vaccines-on-foreign-domestic-workers-sparks-alarm
+ https://perma.cc/GF9A-HNY8
+https://perma.cc/6W2R-XUS4
+https://perma.cc/B8HP-ZKLJ
+https://perma.cc/BGX7-2X5B
 
 
 
@@ -1816,13 +1862,11 @@ https://www.theguardian.com/world/2021/may/03/hong-kong-plan-to-force-covid-vacc
  The Hungarian Helsinki Committee argues that the measures used to expel Iranian students for violating the quarantine are discriminatory, but I have not found further confirmation of this in other sources. The authorities also suspended the admissions of refugees into the transit zone due to covid-19 concerns (most migrants coming from or transiting through Iran), although Human Rights Watch argues that most of them had been at the other side of the border for more than a year. Coded as 0 since the measures apply to people outside the country. Additional note: Hungarian parliament also passed a law prohibiting transgender or intersex people to change their gender, but this is not part of emergency measures (1). No new information found in July-September, October-December. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/hungary-report-covid-19-april-2020_en.pdf
-https://www.helsinki.hu/az-irani-diakok-kollektiv-kiutasitasa-jogellenes-es-eletveszelyes/
-
-https://www.hrw.org/news/2020/03/19/hungary-weaponizes-coronavirus-stoke-xenophobia
-https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-https://www.hrw.org/news/2020/05/21/hungary-ends-legal-recognition-transgender-and-intersex-people
-(1)
+ perma.cc/2V4A-Z4B3
+perma.cc/4M6Q-8ANW
+perma.cc/7F5Q-2YCJ
+https://www.amnesty.org/en/download/EUR0125112020ENGLISH.PDF
+https://perma.cc/GN9Q-MDNF
 
 
 
@@ -1854,29 +1898,37 @@ I have not found evidence suggesting that the situation with Muslims being discr
  
 
 *Sources*:
- https://indianexpress.com/article/coronavirus/ahmedabad-covid-19-coronavirus-hospital-ward-6363040/
-
-https://www.aljazeera.com/news/2020/04/india-hospital-segregates-muslim-hindu-coronavirus-patients-200416080547650.html
+ https://perma.cc/K6GB-3GLX
 
 
-https://www.thehindu.com/news/national/other-states/covid-19-patients-segregated-on-basis-of-religion-at-ahmedabad-civil-hospital-according-to-reports/article31344862.ece
+https://perma.cc/NE8X-MSFT
 
 
-https://freedomhouse.org/article/state-sponsored-religious-discrimination-rises-pandemic
+https://perma.cc/DNN3-BVF4
 
 
-https://www.aljazeera.com/news/2020/04/buy-muslims-bjp-leader-india-calls-boycott-200429034119722.html
-
-https://www.thehindu.com/news/national/other-states/uttar-pradesh-bjp-mla-caught-on-camera-telling-people-not-to-buy-vegetables-from-muslim-vendors/article31452761.ece
-
-https://www.indiatoday.in/india/story/do-not-buy-vegetables-from-muslims-deoria-bjp-mla-suresh-tiwari-1671961-2020-04-28
+https://perma.cc/5HMQ-3EHG
 
 
-https://www.bmj.com/content/369/bmj.m2280
+https://perma.cc/DP9G-6NCH
 
-https://blogs.lse.ac.uk/medialse/2020/09/24/disinformation-against-indian-muslims-during-the-covid-19-pandemic/
 
-https://www.frontiersin.org/articles/10.3389/fpsyt.2020.604949/full
+https://perma.cc/HXT5-FU3M
+
+
+https://perma.cc/K9MC-FWHT
+
+
+https://perma.cc/L9C9-TDC9
+
+
+https://perma.cc/P8M6-6WJJ
+
+
+https://perma.cc/8Q94-LTGG
+
+
+
 
 
 
@@ -1904,17 +1956,13 @@ However, there information illustrating how certain groups of society face restr
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Indonesia_2002.pdf?lang=en
-
-
-[2]]
-https://www.amnesty.org/download/Documents/ASA2122382020ENGLISH.PDF
-
+https://perma.cc/8BE5-35TC
+[2]
+https://perma.cc/CG8P-ZHTF
 [3]
-https://restofworld.org/2021/indonesias-invisible-people-face-discrimination-and-sometimes-death-by-database/
-
+https://perma.cc/SWR2-QTK2
 [4]
-https://www.icj.org/indonesia-trans-women-face-discrimination-in-access-to-covid-19-vaccines/
+https://perma.cc/G59X-GETH
 
 
 
@@ -1939,9 +1987,10 @@ https://www.icj.org/indonesia-trans-women-face-discrimination-in-access-to-covid
  Human Rights Watch and Amnesty International have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found for any of the periods. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9636
+ https://perma.cc/9FBS-RBSD
 
-https://www.amnesty.org/en/search/?q=&sort=date&country=38533
+
+https://perma.cc/4E8X-ZJC7
 
 
 
@@ -1966,10 +2015,9 @@ https://www.amnesty.org/en/search/?q=&sort=date&country=38533
  Human Rights Watch and Amnesty International have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- :
-https://www.hrw.org/news?country[]=9637
-https://www.amnesty.org/en/search/?country=38535&resourceType=newsarticle&sort=date
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/iraq/
+ https://perma.cc/4KXK-CA7W
+https://perma.cc/A5Y2-XRWH
+https://perma.cc/P5JW-8PV8
 
 
 
@@ -1994,10 +2042,16 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/ira
  Human Rights Watch, Amnesty International and EU agency of fundamental righs have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9602
-https://www.amnesty.org/en/search/?country=38464&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_pandemic_july_2020.pdf
-https://www.ihrec.ie/app/uploads/2021/02/Irelands-Emergency-Powers-During-the-Covid-19-Pandemic-25022021.pdf
+ https://perma.cc/KNN2-C6GT
+
+
+https://perma.cc/XE9N-9BZE
+
+
+https://perma.cc/5G4S-BHYN
+
+
+https://perma.cc/CJJ6-E8A6
 
 
 
@@ -2022,16 +2076,25 @@ https://www.ihrec.ie/app/uploads/2021/02/Irelands-Emergency-Powers-During-the-Co
  There are numerous reports of Israel’s policies on the Gaza Strip and West Bank leave Palestinians more exposed to Covid-19, and with less access to health care. Especially, the imposed travel ban on Palestinian territory by the Israeli government has caused concern of numerous Palestinians not being able to access sufficient health care if Covid-19 starts spreading widely. However, the policies toward these territories and the people living there are not related to the Covid-19 crisis, and have been in place long before that. Furthermore, no evidence has been found that the Israeli government has imposed any other regulations that restrict any democratic freedoms more for some groups. Thus, to the extent that Israeli policies actively discriminate Palestinians or other groups democratic rights, these have been in place before the crisis and are not related to the emergency response. Also noteworthy is that some Ultra-Orthodox representatives in Israel have argued that they are subject to discrimination from the governments Covid-19 policy as some areas where these communities live and operate have been targeted with heavy restrictions that also limit their capacity to practice their faith, but this has according to officials been entirely motivated by the significant spread of Covid-19 in these communities and their lack of measures to contain it themselves. This also seems  correct, and is thus not regarded as discrimination, as the Israeli policy has been to try and contain the spread in areas where it has spread most intensely with specific measures. This is therefore coded as 0. Israel has also been criticized for not granting vaccinations to Palestinians while introducing mass vaccination to the Israeli citizens. However, this does not infringe on democratic rights as such and is therefore not accounted for here. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9638
-https://www.hrw.org/news/2020/04/16/when-health-care-decimated-war-Covid-19-middle-east-and-north-africa
-https://www.amnesty.org/en/search/?country=38537&resourceType=newsarticle&sort=date
-https://www.washingtonpost.com/world/middle_east/ultra-orthodox-jews-clash-with-secular-israeli-officials-over-coronavirus-measures/2020/09/04/97bb37be-ee0e-11ea-bd08-1b10132b458f_story.html
+ https://perma.cc/Z39B-6JJQ
 
-https://www.hrw.org/news/2021/01/17/israel-provide-vaccines-occupied-palestinians
 
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/
+https://perma.cc/69TE-DC4B
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/israel-west-bank-and-gaza/
+
+https://perma.cc/73JB-6UTT
+
+
+https://perma.cc/3U7P-JWWM
+
+
+https://perma.cc/8RUB-NTH7
+
+
+https://perma.cc/BN9T-7P9M
+
+
+https://perma.cc/7UB7-42Z2
 
 
 
@@ -2056,10 +2119,13 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/isr
  Human Rights Watch, Amnesty International and the EU Agency for Fundamental rights has not reported any discrimination occuring under the emergency measures, and there are no other indications that such discrimination has occured. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9603
-https://www.amnesty.org/en/search/?country=38466&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/it_report_on_coronavirus_pandemic_may_2020.pdf
+ https://perma.cc/8EJZ-NN57
 
+
+https://perma.cc/XH45-PJE3
+
+
+https://perma.cc/LTD8-XT37
 
 
 
@@ -2084,15 +2150,12 @@ https://fra.europa.eu/sites/default/files/fra_uploads/it_report_on_coronavirus_p
  No discrimination was found on the basis of these democratic rights. 
 
 *Sources*:
- http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
+ perma.cc/4GEP-RX3M
 
-https://www.bbc.com/news/topics/cywd23g0gpgt/ivory-coast
-
-https://www.jeuneafrique.com/914559/societe/coronavirus-la-cote-divoire-entre-deni-panique-et-restrictions/
-
-http://www.rfi.fr/fr/afrique/20200324-s%C3%A9n%C3%A9gal-cote-ivoire-etat-urgence-coronavirus-covid-19
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cote-divoire/
+perma.cc/5Q5P-BCTA
+perma.cc/LBY2-PXHS
+perma.cc/R7E5-3AXJ
+perma.cc/XKK4-5NRP
 
 
 
@@ -2118,21 +2181,22 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cot
 
 *Sources*:
  [1]
-https://moj.gov.jm/sites/default/files/DRMA07.pdf
+perma.cc/68KK-KDGS
 [2]
-https://jis.gov.jm/media/2020/08/DRM-No.-11-1.pdf
+perma.cc/QJK3-5A26
 [3]
-https://moj.gov.jm/sites/default/files/DRMA07A.pdf
+perma.cc/AP5X-73TB
+
 [4]
-https://jis.gov.jm/media/2020/07/Disaster-Risk-Management-Enforcement-Measures-No.-10-Order-2020-July-15-2020-002.pdf
+perma.cc/99WB-8V99
 [5]
-https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
+perma.cc/KE4A-LBZS
 [6]
-https://www.amnesty.org/en/search/?country=38308&sort=date
+perma.cc/GFF2-MVAV
 [7]
-https://www.hrw.org/americas/jamaica
+perma.cc/LKH5-P4WY
 [8]
-https://www.bbc.com/news/topics/c50znx8v848t/jamaica
+perma.cc/L9FL-RZ9K
 
 
 
@@ -2157,9 +2221,10 @@ https://www.bbc.com/news/topics/c50znx8v848t/jamaica
  I did not find evidence of the emergency measures discriminating "solely on the grounds of race, colour, sex, language, religion or social origin" across all the time periods. 
 
 *Sources*:
- https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=424AC0000000031#223
+ https://perma.cc/G5XL-JTJT
 
-https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instead-of-legal-penalty/
+
+https://perma.cc/B74E-83F2
 
 
 
@@ -2184,12 +2249,16 @@ https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instea
  Human Rights Watch and Amnesty International have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. Note that Jordan has been criticized for imposing extensive Covid-19 restrictions without providing aid toward more vulnerable groups who are more affected by these restrictions. However, the restrictions themselves have not been imposed differently across groups and this therefore doesn’t constitute discrimination. 
 
 *Sources*:
- https://www.hrw.org/middle-east/n-africa/jordan
-https://www.amnesty.org/en/search/?country=38539&resourceType=newsarticle&sort=date
+ https://perma.cc/5GB7-SUMS
 
-https://www.business-humanrights.org/en/from-us/briefings/workers-at-risk-labour-rights-in-jordan-during-Covid-19/
 
-https://www.hrw.org/world-report/2021/country-chapters/jordan
+https://perma.cc/K227-X9A2
+
+
+https://perma.cc/YZZ6-TPVA
+
+
+https://perma.cc/SGR4-965T
 
 
 
@@ -2214,7 +2283,7 @@ https://www.hrw.org/world-report/2021/country-chapters/jordan
  No de-jure disciminating provisions and no information on de-facto discrimination found 
 
 *Sources*:
- https://www.hrw.org/europe/central-asia/kazakhstan
+ https://perma.cc/3FFK-EEAV
 
 
 
@@ -2244,21 +2313,14 @@ However, there was no evidence of discrimination found on the ground of race, co
  
 
 *Sources*:
- https://www.hrw.org/news/2020/07/31/kenya-stops-abusive-forced-quarantine-related-covid-19
-
-https://blog.petrieflom.law.harvard.edu/2020/05/21/kenya-global-responses-covid19/
-
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN36_2020.pdf
-
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN36_2020.pdf
-
-https://nhri.ohchr.org/EN/IHRS/TreatyBodies/Page%20Documents/Core%20Human%20Rights.pdf
-
-https://www.bowmanslaw.com/insights/dispute-resolution/newsletter-on-the-publication-of-the-public-health-prevention-control-and-suppression-of-covid-19-rules-2020-and-declaration-of-infected-areas-in-kenya/
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/kenya/
-
-
+ perma.cc/JE8K-HLST
+perma.cc/CN4S-XMXX
+perma.cc/P9GY-5QFA
+perma.cc/UPB2-K9Y6
+[5]
+https://web.archive.org/web/20201115060736/https://nhri.ohchr.org/EN/IHRS/TreatyBodies/Page%20Documents/Core%20Human%20Rights.pdf
+perma.cc/D3UM-CNNY
+perma.cc/H36M-VLGM
 
 
 
@@ -2284,17 +2346,14 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/ken
 Note that in Q1 and Q2 of 2021, it was reported that Kuwaiti authorities have sidestepped migrant workers in their vaccination program, vaccinating all citizens of Kuwait before vaccinating any migrant workers who make up 70% of the population (so that teenagers with citizenship are prioritized over aged migrant workers, for instance). This is not accounted for here, however, as it does not regard democratic rights such as freedom of movement and assembly. 
 
 *Sources*:
- https://www.migrant-rights.org/2020/04/the-Covid-19-crisis-is-fueling-more-racist-discourse-towards-migrant-workers-in-the-gulf/
-https://news.kuwaittimes.net/website/mahboula-workers-stage-sit-in-protest-after-employer-abandoned-them/
-https://news.kuwaittimes.net/website/mp-says-govt-statements-on-demographics-not-serious/
-https://gulfif.org/how-Covid-19-stress-tested-relations-between-residents-citizens-in-kuwait/
-
-https://www.business-humanrights.org/en/latest-news/migrant-workers-in-kuwait-bahrain-face-discrimination-disproportionate-hardship-under-covid-19-response/
-
-https://thearabweekly.com/discrimination-outcry-expats-come-second-kuwaits-vaccine-drive
-
-https://www.business-humanrights.org/es/últimas-noticias/migrants-across-the-gulf-are-facing-systematic-discrimination-in-accessing-covid-19-vaccines-in-contrast-to-nationals/
-https://www.bloomberg.com/news/articles/2021-04-04/expats-struggle-to-get-vaccines-in-kuwait-citizens-come-1st
+ https://perma.cc/3TM3-PKFK
+https://perma.cc/747G-C2ZZ
+https://perma.cc/LJ5X-QDB9
+https://perma.cc/FTH7-YGU6
+https://perma.cc/SH4J-9XS2
+https://perma.cc/9VTE-V5MB
+https://www.business-humanrights.org/es/√∫ltimas-noticias/migrants-across-the-gulf-are-facing-systematic-discrimination-in-accessing-covid-19-vaccines-in-contrast-to-nationals/
+https://perma.cc/3FV6-XDPK
 
 
 
@@ -2319,7 +2378,7 @@ https://www.bloomberg.com/news/articles/2021-04-04/expats-struggle-to-get-vaccin
  No de-jure disciminating provisions and no information on de-facto discrimination found 
 
 *Sources*:
- http://www.president.kg/ru/sobytiya/ukazy/16382_podpisan_ukaz_ovvedenii_chrezvichaynogo_pologheniya_naterritorii_goroda_bishkek_kirgizskoy_respubliki
+ https://perma.cc/4SA5-6ETG
 
 
 
@@ -2344,10 +2403,16 @@ https://www.bloomberg.com/news/articles/2021-04-04/expats-struggle-to-get-vaccin
  Human Rights Watch and Amnesty International have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9554
-https://www.amnesty.org/en/search/?country=38369&resourceType=newsarticle&sort=date
+ https://perma.cc/79CB-UTQ6
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/laos/
+
+https://perma.cc/ME4K-ANJS
+
+
+https://perma.cc/HDC5-2JRV
+
+
+
 
 
 
@@ -2372,19 +2437,25 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/lao
  Syrian refugees have been subject to discriminatory restrictions by several local authorities in Lebanon. In March and April 2020, it has been reported that Syrian refugees were given significant restrictions on movement even before the entrance of the lockdown in Beirut, and that these restrictions included much harsher restrictions than those of the lockdown. Most prominently, Syrian refugees were only allowed to move outside there home four hours per day, much less than Lebanese citizens were allowed. It has been difficult to confirm that this is on going, but several large organizations on human rights situations such as Human Rights Watch, US State Department reports on Human Rights, and UNHCR have reported on it and none of them have provided any indication that this has stopped. UNHCR for instance highlight it in their report on rights violations in Lebanon toward refugees during the whole of 2020, without any mention that the situation has improved. This is therefore assumed to be continuing. Note also that Syrian refugees (as well as other groups of refugees) are facing other discriminating treatment, such as not getting vaccines, and are also reported to be subject to torture and abusive enforcement from Lebanese authorities over the past years (these actions, however, are not related to Covid-19 measures in any way). 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/02/lebanon-refugees-risk-Covid-19-response
+ https://perma.cc/H4R5-LVDQ
 
-https://minorityrights.org/trends2020/lebanon/
 
-https://www.hrw.org/news/2020/04/22/lebanons-refugee-restrictions-could-harm-everyones-health
+https://perma.cc/XS7P-LAZY
 
-https://www.hrw.org/news/2021/04/06/lebanon-refugees-migrants-left-behind-vaccine-rollout
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/lebanon/
+https://perma.cc/ZY7Y-RH2P
 
-https://reliefweb.int/report/lebanon/measures-impacting-refugees-lebanon-jan-dec-2020
 
-https://www.amnesty.org/en/latest/news/2021/03/lebanon-torture-of-syrian-refugees-arbitrarily-detained-on-counter-terror-charges/
+https://perma.cc/MUK2-X58L
+
+
+https://perma.cc/67AH-G4WC
+
+
+https://perma.cc/PYE4-HKVS
+
+
+https://perma.cc/VG3C-HGDH
 
 
 
@@ -2409,20 +2480,16 @@ https://www.amnesty.org/en/latest/news/2021/03/lebanon-torture-of-syrian-refugee
  No discrimination in the emrgency emasures based on these rights. 
 
 *Sources*:
- http://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110076/136761/F-581418260/LSO110076.pdf
-https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
-https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
-https://www.garda.com/crisis24/news-alerts/327786/lesotho-authorities-announce-lockdown-and-entry-restrictions-due-to-covid-19-effective-march-30
-https://reports.unocha.org/en/country/southern-eastern-africa/card/OjrpqS6ae1/
-https://www.webbernew.com/uploads/SKM_45820110909370.pdf
-
-https://www.garda.com/crisis24/news-alerts/466786/lesotho-authorities-maintain-covid-19-restrictions-as-of-april-14-update-17
-
-
-https://www.garda.com/crisis24/news-alerts/478706/lesotho-updated-covid-19-restrictions-in-place-as-of-may-14-update-18
-
-https://www.state.gov/wp-content/uploads/2021/03/LESOTHO-2020-HUMAN-RIGHTS-REPORT.pdf
+ https://perma.cc/76Z8-MAW5
+https://perma.cc/95KE-P87M
+https://perma.cc/UR8R-AJMT
+https://perma.cc/4VYS-7ZTN
+https://perma.cc/NJL7-7YMJ
+https://perma.cc/H5QW-GRUG
+https://perma.cc/H9WZ-WLQ5
+https://perma.cc/64PN-8K89
+https://perma.cc/D9YC-T4BF
+https://perma.cc/N552-TUYE
 
 
 
@@ -2447,10 +2514,13 @@ https://www.state.gov/wp-content/uploads/2021/03/LESOTHO-2020-HUMAN-RIGHTS-REPOR
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/africa/liberia/
-https://www.hrw.org/africa/liberia
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/liberia/
- 
+ https://perma.cc/R82D-AJ82
+
+
+https://perma.cc/J3BY-V848
+
+
+https://perma.cc/LYE5-PTEU
 
 
 
@@ -2475,10 +2545,14 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/lib
  No de-jure disciminating provisions and no information on de-facto discrimination found 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/lithuania-report-covid-19-april-2020_en.pdf
-http://hrmi.lt/
-https://www.amnesty.org/en/countries/europe-and-central-asia/lithuania/
-https://www.hrw.org/europe/central-asia/lithuania
+ [1]
+perma.cc/HQ7T-B7HL
+[2]
+perma.cc/LKP7-FSGZ
+[3]
+perma.cc/9Z85-VPMU
+[4]
+perma.cc/PR2C-BBGS
 
 
 
@@ -2503,11 +2577,8 @@ https://www.hrw.org/europe/central-asia/lithuania
  No evidence of discrimination was found. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/madagascar/
-(1)
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-(2)
+ https://perma.cc/X4JE-W7SP
+https://perma.cc/59KS-EP8Y
 
 
 
@@ -2532,10 +2603,10 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- https://www.bbc.com/news/topics/clm1wxp5pert/malawi
-https://www.amnesty.org/en/countries/africa/malawi/
-https://www.hrw.org/africa/malawi
-https://www.manaonline.gov.mw/index.php/component/k2/item/13931-public-health-corona-virus-prevention-containment-and-management-rules-2020
+ [1]	perma.cc/VT65-6VQC
+[2]	perma.cc/M7HU-7Z36
+[3]	perma.cc/TR9B-M8ZE
+[4]	https://web.archive.org/web/20200524051322/https://www.manaonline.gov.mw/index.php/component/k2/item/13931-public-health-corona-virus-prevention-containment-and-management-rules-2020
 
 
 
@@ -2562,20 +2633,25 @@ https://www.manaonline.gov.mw/index.php/component/k2/item/13931-public-health-co
 There is evidence that the authorities have continued to detain migrants in Q1 and Q2 of 2021. This is therefore coded 3 across all the time periods. 
 
 *Sources*:
- https://www.hrw.org/news/2020/07/17/malaysia-shouldnt-persecute-outspoken-migrant-worker
+ https://perma.cc/966C-5D8F
 
 
-https://www.bbc.com/news/world-asia-53537312
+https://perma.cc/XD9H-57UK
 
-https://www.bbc.com/news/world-asia-52515000
 
-https://www.hrw.org/news/2020/11/20/malaysia-end-abusive-immigration-detention
+https://perma.cc/2DH3-3C96
 
-https://www.abc.net.au/news/2021-06-03/malaysia-to-again-target-immigrants-during-total-lockdown-/100179220
 
-https://www.reuters.com/world/asia-pacific/malaysia-deport-thousands-undocumented-indonesian-migrants-2021-06-11/
+https://perma.cc/LGB3-WQ7P
 
-https://www.benarnews.org/english/news/malaysian/my-migrants-06032021162743.html
+
+https://perma.cc/WAW4-HZ8E
+
+
+https://perma.cc/K953-DL3X
+
+
+https://perma.cc/MR7K-T723
 
 
 
@@ -2600,15 +2676,11 @@ https://www.benarnews.org/english/news/malaysian/my-migrants-06032021162743.html
  No evidence was found. 
 
 *Sources*:
- https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars-2020-2128
-
-https://www.lepoint.fr/afrique/mali-le-covid-19-en-etau-entre-pouvoir-civil-et-pouvoir-religieux-13-05-2020-2375300_3826.php#
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mali/
+ https://perma.cc/4KLQ-4SJV
+https://perma.cc/N7ZL-WNSB
+https://perma.cc/47NA-CPPS
+https://perma.cc/4YMH-BAE7
+https://perma.cc/8FVG-KU89
 
 
 
@@ -2634,19 +2706,13 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mal
 However, rights groups have expressed that the harsh measures imposed to fight the virus have only intensified the social exclusion and discrimination Haratins already face. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mauritania/
-
-https://mr.usembassy.gov/covid-19-information-2/
-
-https://www.antislavery.org/mauritania-lockdown-helping-the-most-vulnerable/
-
-https://www.africanews.com/2020/03/21/covid-19-mauritania-enforces-curfew/
-
-http://fr.ami.mr/Recherche-9
-
-http://fr.ami.mr/Depeche-52875.html
-
-https://unpo.org/article/21867
+ perma.cc/44EQ-UY7Y
+perma.cc/WN5Q-7T5M
+perma.cc/UJW7-9GJB
+perma.cc/Y6W4-H7BX
+perma.cc/PEQ9-MYHK
+perma.cc/7Z5Y-P6M5
+perma.cc/UZP7-UFC8
 
 
 
@@ -2672,14 +2738,13 @@ https://unpo.org/article/21867
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/14/mexico-free-detained-migrants-amid-pandemic
+perma.cc/TN8M-8QRU
 [2]
-https://www.amnesty.org/en/countries/americas/mexico/
+perma.cc/2JCV-8VLS
 [3]
-https://www.hrw.org/americas/mexico
+perma.cc/9FHU-AVRU
 [4]
-https://monitor.civicus.org/country/mexico/
-
+perma.cc/9EH6-T37N
 
 
 
@@ -2704,11 +2769,11 @@ https://monitor.civicus.org/country/mexico/
  No de-jure disciminating provisions and no information on de-facto discrimination found. The city of Soroca with a large Roma population was quarantined due to a high number of Covid-19 cases and therefore not considered in the coding. 
 
 *Sources*:
- http://www.errc.org/uploads/upload_en/file/5265_file1_roma-rights-in-the-time-of-covid..pdf
-https://www.ohchr.org/EN/NewsEvents/Pages/Voices-from-the-Field-Moldova.aspx
-https://www.amnesty.org/en/countries/europe-and-central-asia/moldova/
-https://www.hrw.org/sitesearch?search=moldova
-https://gov.md/sites/default/files/rasporyazhenie_no_1_ot_18_marta_2020_g._komissii_po_chrezvychaynym_situaciyam_respubliki_moldova.pdf
+ https://perma.cc/67AZ-K7QB
+https://perma.cc/6TZN-7RJZ
+https://perma.cc/A9MK-FKCS
+https://perma.cc/4LTG-QPFR
+https://perma.cc/L9H3-6N2L
 
 
 
@@ -2733,9 +2798,10 @@ https://gov.md/sites/default/files/rasporyazhenie_no_1_ot_18_marta_2020_g._komis
  Human Rights Watch and Amnesty International have not reported any discrimination within the l response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38378&resourceType=newsarticle&sort=date
+ https://perma.cc/CJT8-Y86T
 
-https://www.hrw.org/sitesearch?search=Mongolia
+
+https://perma.cc/6YE2-68FP
 
 
 
@@ -2760,17 +2826,19 @@ https://www.hrw.org/sitesearch?search=Mongolia
  No evidence was found. The Emergency laws have been used to prosecute activists but not to discriminate “solely on the ground of race, colour, sex, language, religion or social origin”. 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/morocco/
-
-https://www.amnesty.org/en/latest/news/2020/06/morocco-and-western-sahara-end-prosecution-of-activists-under-new-health-emergency-law/
-
-https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110338/137210/F965170133/MAR-110338.pdf
-
-https://www.policycenter.ma/opinion/coronavirus-does-state-health-emergency-morocco-comply-international-human-rights-law#.XuD0YFMzbOQ
+ perma.cc/AE7M-LJPE
 
 
+perma.cc/HM3B-Y292
+
+
+perma.cc/JJ6N-URMG
+
+
+perma.cc/77JU-QCY9
+
+
+perma.cc/8792-V278
 
 
 
@@ -2795,9 +2863,9 @@ https://www.policycenter.ma/opinion/coronavirus-does-state-health-emergency-moro
  No evidence of discrimination was found. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/africa/mozambique/
-https://www.hrw.org/africa/mozambique
-https://monitor.civicus.org/country/mozambique/
+ [1]	perma.cc/J4NR-BHKZ
+[2]	perma.cc/V575-ENLM
+[3]	perma.cc/R3FE-ZZD7
 
 
 
@@ -2823,11 +2891,11 @@ https://monitor.civicus.org/country/mozambique/
 
 *Sources*:
  [1]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/namibia/
+https://perma.cc/73TV-N7SK
 [2]
-https://www.amnesty.org/en/countries/africa/namibia/
+https://perma.cc/6C3D-UZB8
 [3]
-https://www.hrw.org/africa/namibia
+https://perma.cc/2UAM-TUX7
 
 
 
@@ -2852,12 +2920,13 @@ https://www.hrw.org/africa/namibia
  I did not find evidence of the emergency measures discriminating "solely on the grounds of race, colour, sex, language, religion or social origin" across all the time periods. 
 
 *Sources*:
- https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
-
-http://www.lawcommission.gov.np/en/archives/12240
+ https://perma.cc/R7AQ-R27V
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/nepal/
+https://perma.cc/DX7R-D9NN
+
+
+https://perma.cc/8RKM-BW9T
 
 
 
@@ -2882,16 +2951,23 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/nepal/
  Human Rights Watch, Amnesty International and EU agency of fundamental righs have not reported any discrimination within the  response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9614
-
-https://www.amnesty.org/en/search/?country=38487&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_july_2020.pdf
+ https://perma.cc/2PM8-ZWPG
 
 
 
+https://perma.cc/D5C6-8G6U
 
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_november_2020.pdf
+
+
+https://perma.cc/2XAQ-Z65Q
+
+
+
+https://perma.cc/WWA4-RESD
+
+
+
+https://perma.cc/V7T3-QVNU
 
 
 
@@ -2916,7 +2992,7 @@ https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_p
  Amnesty International have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38387&resourceType=newsarticle&sort=date
+ [1]	perma.cc/U84F-QB9E
 
 
 
@@ -2942,17 +3018,17 @@ https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_p
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3
 
 
 
@@ -2977,17 +3053,12 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
  There have been reports on discriminatory and non-proportionate measures against civil society activists, and detainees, but these do not relate to the grounds specified in this question. 
 
 *Sources*:
- https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7eceb715eff3354ca7e9b9/1585368760730/MESSAGE+A+LA+NATION+DU+PRESIDENT+DE+LA+REPUBLIQUE+SUR+LA+SITUATION+DE+LA+PANDEMIE+DU+CORONAVIRUS+%28COVID-19%29+27+03+2020.pdf
-
-https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-
-https://www.amnesty.org/en/latest/news/2020/03/niger-societe-civile-demandent-un-terme/
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/niger/
+ https://perma.cc/7ASB-G2MP
+https://perma.cc/ZK87-U7MH
+https://perma.cc/FN77-877L
+https://perma.cc/N7ZL-WNSB
+https://perma.cc/59KS-EP8Y
+https://perma.cc/4CLT-SPWP
 
 
 
@@ -3012,11 +3083,11 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/nig
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- https://www.hrw.org/africa/nigeria
-https://www.amnesty.org/en/search/?country=38624&resourceType=newsarticle&sort=date
-https://www.bbc.co.uk/news/topics/c50znx8v132t/nigeria
-https://covid19.ncdc.gov.ng/media/files/GUIDELINES_ON_REOPENING_OF_PLACES_OF_WORSHIP_Final.pdf
-https://pwcnigeria.typepad.com/files/fg-covid-19-regualtions-1.pdf
+ [1]	perma.cc/U7XC-V76M
+[2]	perma.cc/3PWW-Q57T
+[3]	perma.cc/833Y-5WQT
+[4]	perma.cc/TLY5-FTYB
+[5]	perma.cc/KH43-QXAP
 
 
 
@@ -3041,7 +3112,7 @@ https://pwcnigeria.typepad.com/files/fg-covid-19-regualtions-1.pdf
  I did not find evidence of the emergency measures discriminating "solely on the grounds of race, colour, sex, language, religion or social origin" across all the time periods. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Peoples_Republic_of_Korea_1998.pdf
+ https://perma.cc/FG4R-SPW4
 
 
 
@@ -3066,11 +3137,11 @@ https://pwcnigeria.typepad.com/files/fg-covid-19-regualtions-1.pdf
  On 17 March, a group of 200 people crossed the border and all of them were supposed to quarantine, but only 9 Roma were put in quarantine. Since it is a single incident, discrim is coded as 1 only during March-June 2020 period. There is no evidence found for July-September, October-December 2020, January-March, April-June 2021. 
 
 *Sources*:
- http://www.errc.org/news/roma-quarantined-at-the-border-to-north-macedonia
-https://www.hhrjournal.org/2020/04/anti-roma-racism-is-spiraling-during-covid-19-pandemic/#_edn4
-https://www.ilga-europe.org/sites/default/files/2021/north_macedonia.pdf
-https://www.equalitylaw.eu/country/north-macedonia
-https://www.amnesty.org/en/countries/europe-and-central-asia/north-macedonia/report-macedonia/
+ [1]	perma.cc/SL4Z-C2TW
+[2]	perma.cc/USH6-SUNB
+[3]	perma.cc/E9Q4-TJE9
+[4]	perma.cc/7UV8-5XYG
+[5]	https://web.archive.org/web/20210613085709/https://www.amnesty.org/en/countries/europe-and-central-asia/north-macedonia/report-macedonia/
 
 
 
@@ -3095,8 +3166,7 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/north-macedonia/rep
  Human Rights Watch and Amnesty International have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9615
-https://www.amnesty.org/en/countries/europe-and-central-asia/norway/
+ https://perma.cc/C3TP-6THK
 
 
 
@@ -3122,11 +3192,11 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/norway/
 
 *Sources*:
  [1]
-https://www.hrw.org/middle-east/n-africa/oman
+perma.cc/N3V4-EGE8
 [2]
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/oman/
+perma.cc/GMS5-6JK8
 [3]
-https://monitor.civicus.org/country/oman/
+perma.cc/BZ5U-W3US
 
 
 
@@ -3155,13 +3225,9 @@ The churches were reopened in May 2020.
 I did not find evidence of other emergency measures discriminating "solely on the grounds of race, colour, sex, language, religion or social origin" in Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.ucanews.com/news/activists-slam-punjabs-discriminatory-policy-on-prayers/87491
-
-
-https://www.arabnews.pk/node/1676101/pakistan.
-
-
-https://www.hrw.org/world-report/2021/country-chapters/pakistan#12ffb1
+ https://perma.cc/FM3B-WSMF
+https://perma.cc/B37N-RMVD
+https://perma.cc/XL3H-TY7N
 
 
 
@@ -3186,15 +3252,14 @@ https://www.hrw.org/world-report/2021/country-chapters/pakistan#12ffb1
  The government established a gender quarantine. Women could go out on Mondays, Wednesdays, and Fridays; men could go out on Tuesdays, Thursdays, and Saturdays. The dates did not change while the measure was in place, so women were not allowed to leave their houses on weekends. Additionally, this measure received criticism for enhancing discrimination against the transgender community. The measure was lifted on 14 September 2020 and resumed again in December 2020. In January-March 2021 discrim is coded as 2 due to evidence of a continuation of the practice. On 8 February, some gender restrictions were lifted. In April-June 2021, it is coded as 0, since there is no evidence that the measure has been applied. 
 
 *Sources*:
- https://help.unhcr.org/panama/covid-19-2/avisos-importantes/
-https://www.gacetaoficial.gob.pa/pdfTemp/29196_B/82849.pdf
-
-https://www.yomeinformopma.org/static/dash/docs/decretos/Resolucion_No._360.pdf
-https://pa.usembassy.gov/covid-19-information/
-https://www.hrw.org/news/2020/07/13/panama-new-trans-discrimination-cases-under-covid-19-measures
-https://www.hrw.org/news/2020/08/03/glimmer-hope-transgender-people
-https://www.prensa.com/sociedad/minsa-elimina-restriccion-por-numero-de-cedula-se-mantiene-los-dias-para-hombres-y-mujeres/
-https://www.efe.com/efe/america/sociedad/panama-suspende-restriccion-por-genero-y-suaviza-el-toque-de-queda-la-pandemia/20000013-4342773
+ [1]	perma.cc/SRA8-S7UC
+[2]	perma.cc/H3AJ-MN8V
+[3]	perma.cc/GTF3-LAGL
+[4]	perma.cc/DPQ5-82KL
+[5]	perma.cc/5BY3-5RJN
+[6]	perma.cc/2ZTD-CD8N
+[7]	perma.cc/474E-D8V9
+[8]	perma.cc/K43M-XEMJ
 
 
 
@@ -3219,10 +3284,13 @@ https://www.efe.com/efe/america/sociedad/panama-suspende-restriccion-por-genero-
  Human Rights Watch and Amnesty International have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9566
-https://www.amnesty.org/en/search/?country=38395&resourceType=newsarticle&sort=date
+ https://perma.cc/S4BD-BPCG
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/papua-new-guinea/
+
+https://perma.cc/5RZH-6TVG
+
+
+https://perma.cc/5JJ6-PMMJ
 
 
 
@@ -3248,11 +3316,11 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/pap
 
 *Sources*:
  [1]
-https://www.hrw.org/americas/paraguay
+perma.cc/5NDL-S73B
 [2]
-https://www.amnesty.org/en/countries/americas/paraguay/
+perma.cc/BEN5-X3EA
 [3]
-https://monitor.civicus.org/country/paraguay/
+perma.cc/R6HF-CEJD
 
 
 
@@ -3278,11 +3346,11 @@ https://monitor.civicus.org/country/paraguay/
 
 *Sources*:
  [1]
-https://cdn.www.gob.pe/uploads/document/file/574872/DS_057-2020-PCM.pdf
+perma.cc/7RPT-TVK5
 [2]
-https://elpais.com/internacional/2020-04-04/peru-restringe-la-salida-a-la-calle-por-genero.html
+perma.cc/HC4B-3RG8
 [3]
-https://lta.reuters.com/articulo/salud-coronavirus-peru-genero-idLTAKCN21S1MH-OUSLT
+perma.cc/NR4S-UNBY
 
 
 
@@ -3311,17 +3379,10 @@ https://lta.reuters.com/articulo/salud-coronavirus-peru-genero-idLTAKCN21S1MH-OU
 2: There have been reports of acts of racism committed against the Chinese community in the Philippines. For example, Adamson University in Manila ordered all of its Chinese students to quarantine themselves during the outbreak regardless of their travel history in February 2020. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-punishment
-
-
-
-https://www.hrw.org/news/2020/04/22/philippine-activists-charged-sedition-fake-news
-
-
-https://www.cnnphilippines.com/news/2020/2/1/groups-decry-racism-coronavirus-china.html
-
-
-https://news.abs-cbn.com/news/02/01/20/adamson-apologizes-revises-racist-memo-after-online-backlash
+ https://perma.cc/EQG3-5C79
+https://perma.cc/A5ES-WU2H
+https://perma.cc/QJ33-VA63
+https://perma.cc/G22F-MF4K
 
 
 
@@ -3346,9 +3407,13 @@ https://news.abs-cbn.com/news/02/01/20/adamson-apologizes-revises-racist-memo-af
  No de-jure disciminating provisions and no information on de-facto discrimination found 
 
 *Sources*:
- https://www.gov.pl/web/koronawirus
-https://www.hrw.org/europe/central-asia/poland
-https://www.amnesty.org/en/countries/europe-and-central-asia/poland/
+ https://perma.cc/P36J-DSLA
+
+
+https://perma.cc/682N-3P9E
+
+
+https://perma.cc/7E6C-NR9J
 
 
 
@@ -3374,11 +3439,12 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/poland/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/europe-and-central-asia/portugal/
+perma.cc/Z6PL-4W8P
 [2]
-https://www.hrw.org/europe/central-asia/portugal
+perma.cc/A9UN-GXK5
 [3]
-https://monitor.civicus.org/country/portugal/
+perma.cc/TQ2H-Z7S2
+
 
 
 
@@ -3404,26 +3470,16 @@ https://monitor.civicus.org/country/portugal/
 For the latter periods, no evidence of any discrimination in the Covid-19 measures has been found from sources such as the US state department, Amnesty and Human Rights Watch. After Q2 of 2020, this is therefore coded 0. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/04/qatar-migrant-workers-illegally-expelled-during-covid19-pandemic/
-
-https://aineupstrmediaprd.blob.core.windows.net/media/23165/statement-to-amnesty-on-repatriation-of-nepalese-workers-in-qatarpdf.pdf
-
-https://www.theguardian.com/global-development/2020/mar/20/covid-19-lockdown-turns-qatars-largest-migrant-camp-into-virtual-prison
-
-
-https://www.amnesty.org/en/latest/news/2020/03/qatar-migrant-workers-in-labour-camps-at-grave-risk-amid-covid19-crisis/
-
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B694%5D&covid19=1
-
-https://www.hrw.org/news/2020/08/24/qatar-little-progress-protecting-migrant-workers
-
-https://www.euronews.com/2020/08/24/qatar-many-migrant-workers-not-paid-or-paid-too-late-report-claims
-
-https://www.hrw.org/world-report/2021/country-chapters/qatar
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qatar/
+ https://perma.cc/2J7X-BD74
+https://perma.cc/PQ74-M8U4
+https://perma.cc/M6CB-VCSE
+https://perma.cc/86XQ-2EZS
+https://perma.cc/F39L-ESD6
+https://perma.cc/V4TG-6EKB
+https://perma.cc/XPW6-U9AV
+https://perma.cc/7BMU-LWAP
+https://perma.cc/V335-MTQB
+https://perma.cc/744S-ALBU
 
 
 
@@ -3448,17 +3504,13 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qat
  No evidence was found. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/republic-of-the-congo/
+ https://perma.cc/3ABJ-CQU7
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-
-https://fr.africanews.com/2020/07/21/coronavirus-en-afrique-l-essentiel-de-la-situation/
-
-https://www.africanews.com/2020/03/30/congo-republic-heads-into-coronavirus-lockdown/
-
-https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
-
-https://www.garda.com/crisis24/news-alerts/327701/congo-curfew-and-health-emergency-comes-into-effect-march-31-update-2
+https://perma.cc/59KS-EP8Y
+https://perma.cc/2WZR-5WFX
+https://perma.cc/NN28-8LC7
+https://perma.cc/RA3K-VZJG
+https://perma.cc/5LPZ-6VY9
 
 
 
@@ -3483,12 +3535,22 @@ https://www.garda.com/crisis24/news-alerts/327701/congo-curfew-and-health-emerge
  While existing discrimination against Roma likely was exacerbated due to covid-19, I have not found any de-facto or de-jure discriminatory emergency measures. Romania placed areas with a large number of Covid-19 cases under lockdown, which included some Roma communities. Such measures are not coded as discrimination because they were based on the number of Covid-19 cases. There was additional police deployment to areas with large Roma populations (Amnesty International report, p. 25), but, according to the authorities, it was due to high risk of criminality and therefore not coded. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?q=&sort=date&country=38495&resourceType=newsarticle
-https://www.hrw.org/europe/central-asia/romania
-https://minorityrights.org/country/romania/
-https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-https://fra.europa.eu/sites/default/files/fra_uploads/ro_report_-_covid-19_impact_on_roma_en.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/fra-2020-coronavirus-pandemic-eu-bulletin-roma_en.pdf
+ https://perma.cc/8JX8-VNZW
+
+
+https://perma.cc/2DZC-ZABG
+
+
+https://perma.cc/M534-P6XV
+
+
+https://perma.cc/XL3G-EFKC
+
+
+https://perma.cc/T2GZ-LN77
+
+
+https://perma.cc/8S57-LEZA
 
 
 
@@ -3513,9 +3575,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/fra-2020-coronavirus-pande
  Chinese embassy issued a complaint regarding disproportionate checks of Chinese citizens in Moscow on 24 February 2020 (earlier than 11 March 2020). No new information found since June 2020. 
 
 *Sources*:
- https://novayagazeta.ru/news/2020/02/25/159339-posolstvo-kitaya-poprosilo-prekratit-proverki-kitayskih-grazhdan-v-obschestvennom-transporte-moskvy
-https://www.amnesty.org/en/search/?country=38497
-https://www.hrw.org/europe/central-asia/russia
+ https://perma.cc/H7BA-HMC6
+
+
+https://perma.cc/5Q4N-5GAU
+
+
+https://perma.cc/GM42-T7W2
 
 
 
@@ -3540,15 +3606,12 @@ https://www.hrw.org/europe/central-asia/russia
  No discrimination based on these rights. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/rwanda/
+ https://perma.cc/9BXP-Z5SK
 
-https://www.poverty-action.org/blog/reach-covid-19-crisis-rwanda-lessons-recovr-survey
-
-https://www.rbc.gov.rw/fileadmin/user_upload/annoucement/GoR-MOH%20statement%20final.pdf
-
-https://www.theigc.org/blog/rwandas-response-to-covid-19-and-future-challenges/
-
-https://www.hrw.org/world-report/2021/country-chapters/rwanda#12ffb1
+https://perma.cc/424V-K8ET
+https://perma.cc/5RQR-UQZ7
+https://perma.cc/2E43-EZBZ
+https://perma.cc/HP7P-HHXX
 
 
 
@@ -3573,28 +3636,37 @@ https://www.hrw.org/world-report/2021/country-chapters/rwanda#12ffb1
  The Saudi government has taken several discriminating actions toward migrant workers as part of their emergency response. For example, during April 2020 they deported thousands of Ethiopian migrant workers during the pandemic, and as the UN reports the government argued that "Ethiopians were vulnerable to the coronavirus and they have deported some with symptoms and many without, but no testing." Consequently, the government have deported these migrant workers not because the individuals have shown infection of Covid-19, but for being part of that group. Newspaper investigations also show that since those deportations caused international critique, Saudi Arabia has been keeping an unknown but large number of migrant workers in detention centers with horrible standards and under immediate risk of spreading both Covid-19 and other diseases, as well as being subject to extensive violence from guards at the centers. Saudi Arabia faced massive criticism from this, for example by the European Parliament, and eventually started repatriating migrants from these centers to Ethiopia in late January 2021. However, far from all had been repatriated at that time, and no evidence has been found that all have now been repatriated and that these Covid-19 detention centers are no longer in force. Thus, lacking confirmation that this has entirely ended by time of Q2 of 2021 (or time of coding), this is coded 3 for all periods. 
 
 *Sources*:
- https://www.uncdf.org/article/5528/ethiopian-government-on-the-forefront-of-Covid-19
-
-https://www.amnesty.org/en/latest/campaigns/2020/04/covid19-makes-gulf-countries-abuse-of-migrant-workers-impossible-to-ignore/
-
-https://www.reuters.com/article/us-health-coronavirus-ethiopia-migrants/u-n-says-saudi-deportations-of-ethiopian-migrants-risks-spreading-coronavirus-idUSKCN21V1OT
-
-https://www.hrw.org/news/2020/08/13/yemen-houthis-kill-expel-ethiopian-migrants
-
-https://www.telegraph.co.uk/global-health/climate-and-people/investigation-african-migrants-left-die-saudi-arabias-hellish/
-
-https://www.theguardian.com/global-development/2020/aug/04/we-drink-from-the-toilet-migrants-tell-of-hellish-saudi-detention-centres
-
-https://idcoalition.org/wp-content/uploads/2020/10/COVID-19-Impacts-on-Immigration-Detention-Global-Responses-2020.pdf
-
-https://www.amnesty.org/en/latest/news/2020/10/ethiopian-migrants-hellish-detention-in-saudi-arabia/
+ https://perma.cc/EV2C-W8NQ
 
 
-https://www.business-humanrights.org/en/latest-news/eu-parliament-condemns-human-rights-abuses-in-saudi-migrant-camps-after-telegraph-investigation/
+https://perma.cc/Q2VT-4YFP
 
-https://www.telegraph.co.uk/global-health/climate-and-people/first-migrants-released-saudi-detention-centres-arrive-home/
 
-https://www.hrw.org/news/2021/03/01/saudi-arabia-repatriates-hundreds-detained-ethiopians
+https://perma.cc/Q8ZC-B82Q
+
+
+https://perma.cc/JDB6-SC3M
+
+
+https://perma.cc/G3S2-FVQA
+
+
+https://perma.cc/S57B-3GN5
+
+
+https://perma.cc/3KSM-M69D
+
+
+https://perma.cc/PJ4D-5RGC
+
+
+https://perma.cc/AE39-VKVV
+
+
+https://perma.cc/J4ZN-NVYN
+
+
+https://perma.cc/NUD8-BP38
 
 
 
@@ -3619,13 +3691,10 @@ https://www.hrw.org/news/2021/03/01/saudi-arabia-repatriates-hundreds-detained-e
  No discrimination based on these rights. 
 
 *Sources*:
- http://www.sante.gouv.sn/Actualites/covid-19-les-decisions-de-son-execellence-monsieur-macky-sall-president-de-la-republique
-
-https://www.acaps.org/covid19-government-measures-dataseth
-
-ttps://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/senegal/
+ perma.cc/FS4Q-7AGK
+perma.cc/QV69-SKWE
+perma.cc/3KU4-LNR9
+perma.cc/FND8-L3NN
 
 
 
@@ -3653,19 +3722,17 @@ De-jure, the measures for housing centers applied for the duration of the state 
  
 
 *Sources*:
- http://www.mod.gov.rs/cir/15902/ministar-vulin-za-sve-migrante-vazi-24-casovni-karantin-sve-dok-ne-prodje-kriza-15902
-http://www.vs.rs/sr_lat/vesti/3601331A97AD11EAA7E10050568F5424/vojska-srbije-pocela-obezbedjenje-prihvatnih-centara-u-sidu
-http://www.mod.gov.rs/cir/16305/ministar-vulin-sacuvali-smo-srbiju-od-migrantske-krize-16305
-https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
+ https://perma.cc/6E46-Z3MW
+https://perma.cc/96NC-HWUT
+https://perma.cc/9X4V-HEB4
+https://perma.cc/8X3E-VKTR
 (1)
-https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/ministarstva/naredba/2020/66/2/reg
-http://www.mod.gov.rs/cir/16030/saopstenje-16030
-http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/viewdoc?uuid=cea979ce-65b4-4fa3-a896-3a15870af345
-https://www.rts.rs/page/stories/ci/story/124/drustvo/4072893/migranata-u-prihvatnim-centrima.html
-http://www.bgcentar.org.rs/inicijativa-ustavnom-sudu-za-ocenu-ustavnosti-i-zakonitosti-naredbe-o-ogranicenju-kretanja-na-prilazima-otvorenom-prostoru-i-objektima-prihvatnih-centara-za-migrante-i-centara-za-azil/
-https://www.bbc.com/serbian/cyr/srbija-55091114
-(2)
 
+https://perma.cc/8ERN-V22V
+https://perma.cc/Y9UF-DAU4
+https://perma.cc/Y9HX-DYWY
+https://perma.cc/8VMR-B8Z2
+(2)
 
 
 
@@ -3690,29 +3757,29 @@ https://www.bbc.com/serbian/cyr/srbija-55091114
  No de-jure disciminating provisions and no information on de-facto discrimination found; there has been a riot in Freetown's prison due to severely cramped conditions,  which is not considered in the coding since the conditons were cramped before the pandemic and are not part of emergency measures. 
 
 *Sources*:
- https://www.state.gov/wp-content/uploads/2021/03/SIERRA-LEONE-2020-HUMAN-RIGHTS-REPORT.pdf
-https://statehouse.gov.sl/
-https://www.icnl.org/covid19tracker/?location=110&issue=&date=&type=
-https://www.amnesty.org/en/search/?country=38633
-https://www.hrw.org/africa/sierra-leone
-https://www.amnesty.org/en/latest/news/2020/04/sierra-leone-reasons-underlying-prison-riot-amid/
+ [1]	perma.cc/9VCU-6U64
+[2]	perma.cc/B447-XS4U
+[3]	perma.cc/572D-UNEB
+[4]	perma.cc/9GVA-T4QC
+[5]	perma.cc/SG3Z-4TFX
+[6]	perma.cc/68TH-U8JC
 
 
 
 # Singapore 
-*Time period: 2020, Q2*: 3
+*Time period: 2020, Q2*: 0
 
  
-*Time period: 2020, Q3*: 3
+*Time period: 2020, Q3*: 0
 
  
-*Time period: 2020, Q4*: 3
+*Time period: 2020, Q4*: 0
 
  
-*Time period: 2021, Q1*: 3
+*Time period: 2021, Q1*: 0
 
  
-*Time period: 2021, Q2*: 3
+*Time period: 2021, Q2*: 0
 
  
 
@@ -3720,9 +3787,8 @@ https://www.amnesty.org/en/latest/news/2020/04/sierra-leone-reasons-underlying-p
  No evidence of discriminatory measures found. Migrant workers who often live in crowded and unhygienic conditions were disproportionately affected by Covid-19. After a spike in cases that amounted to over 90% of all cases in the country, Singapore implemented strict lockdown procedures in the workers' quarters that exceeded other areas. However, because this was prompted by cases of Covid-19, we do not code this as discriminatory. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/singapore/
-
-https://www.hrw.org/world-report/2021/country-chapters/singapore
+ https://perma.cc/UXG3-E6B9
+https://perma.cc/H2WK-RDMC
 
 
 
@@ -3747,25 +3813,25 @@ https://www.hrw.org/world-report/2021/country-chapters/singapore
  Mandatory targeted testing and quarantine for Roma communities approved by government resolution 196/2020 that is considered discriminatory since it applies only to the Roma and not other communities or areas. Five Roma settlements were placed under quarantine by the military. According to European Union Agency for Fundamental Human Rights, "The lockdown of localities lasted until 15th May (some of the localities were opened earlier), with the town of Žehra being fully reopened as the last." (1) Therefore, discrim is coded as 3 (major de-jure discrimination) only in March-June period. 
 
 *Sources*:
- https://rokovania.gov.sk/RVL/Resolution/18334/1
-http://www.uvzsr.sk/index.php?option=com_content&view=article&id=4166:plan-rieenia-ochorenia-covid-19-v-marginalizovanych-romskych-komunitach&catid=250:koronavirus-2019-ncov&Itemid=153
-https://minorityrights.org/2020/06/02/roma-slovakia-covid-testing/
-https://www.amnesty.org/en/documents/ior60/2347/2020/en/
-https://www.amnesty.org/en/documents/eur72/2110/2020/en/
-https://www.vlada.gov.sk//stat-zacne-od-piatka-s-testovanim-marginalizovanych-romskych-komunit/
-https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-https://www.theguardian.com/world/2020/jun/24/policing-of-european-covid-19-lockdowns-shows-racial-bias-report
-https://www.bbc.com/news/world-52156976
-https://www.reuters.com/article/us-health-coronavirus-slovakia-roma/slovakia-closes-off-five-roma-settlements-due-to-coronavirus-idUSKCN21R28U
-https://www.reuters.com/article/idUSL8N2CY064
-https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30381-9/fulltext
-https://fra.europa.eu/sites/default/files/fra_uploads/sk_report_-_covid-19_impact_on_roma_en.pdf
-
+ https://perma.cc/K4XH-6H3F
+https://perma.cc/63KP-KAHJ
+https://perma.cc/C3UL-ZKHA
+https://perma.cc/P8QQ-XAVQ
+https://perma.cc/48U6-8TDT
+https://perma.cc/B6ZW-HTTY
+https://perma.cc/6VMN-VR8U
+https://perma.cc/ZGU3-URZ6
+https://perma.cc/A7XD-Z9UX
+https://perma.cc/RX34-PUFY
+https://perma.cc/4K2L-GMU2
+https://perma.cc/VYH4-M25P
+https://perma.cc/WBD9-XCAE
 (1)
-https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30381-9/fulltext#articleInformation
-https://www.ohchr.org/Documents/Events/GoodPracticesCoronavirus/slovakia-submission.docx
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/slovakia/
+
+https://perma.cc/2U6P-L5RG
+https://perma.cc/9NL7-VAY8
+https://perma.cc/B9LD-5H93
+https://perma.cc/KB6M-ZQV8
 
 
 
@@ -3790,10 +3856,10 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/slo
  No de-jure disciminating provisions and no information on de-facto discrimination found. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/slovenia-report-covid-19-april-2020_en.pdf
-https://www.hrw.org/europe/central-asia/slovenia
-https://www.amnesty.org/en/countries/europe-and-central-asia/slovenia/
-http://www.varuh-rs.si/en/publication-events/exposed-content-campaigns/covid-19/
+ [1]	perma.cc/54N4-F8KK
+[2]	perma.cc/D6VR-BYV2
+[3]	perma.cc/8Q3Z-8DZM
+[4]	perma.cc/W3PV-BM7T
 
 
 
@@ -3818,16 +3884,10 @@ http://www.varuh-rs.si/en/publication-events/exposed-content-campaigns/covid-19/
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response across all the time periods. 
 
 *Sources*:
- https://www.bbc.com/news/topics/cnx753jejqwt/somalia
-
-
-https://www.amnesty.org/en/search/?country=38635&resourceType=newsarticle&sort=date
-
-
-https://www.hrw.org/africa/somalia
-
-
-https://reliefweb.int/sites/reliefweb.int/files/resources/IOM_Eastern%20Corridor%20Migrant%20Situation_18112020.pdf
+ https://perma.cc/3WJL-PVWW
+https://perma.cc/JX2L-4BUU
+https://perma.cc/ZC2F-A73D
+https://perma.cc/6UDM-3EJ9
 
 
 
@@ -3852,14 +3912,10 @@ https://reliefweb.int/sites/reliefweb.int/files/resources/IOM_Eastern%20Corridor
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- [1]
-https://www.hrw.org/africa/south-africa
-[2]
-https://www.amnesty.org/en/countries/africa/south-africa/
-[3]
-https://www.bbc.com/news/topics/cq23pdgvyl7t/south-africa
-[4]
-https://www.gov.za/coronavirus/guidelines
+ [1]	perma.cc/RQP4-9VNB
+[2]	perma.cc/PZ6P-MEED
+[3]	perma.cc/QUL2-7DPS
+[4]	perma.cc/C4SH-2RQ5
 
 
 
@@ -3884,13 +3940,9 @@ https://www.gov.za/coronavirus/guidelines
  I did not find evidence of the emergency measures discriminating "solely on the grounds of race, colour, sex, language, religion or social origin" across all time periods. 
 
 *Sources*:
- https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
-
-https://elaw.klri.re.kr/kor_service/lawView.do?hseq=40184&lang=ENG
-
-
-
-https://www.loc.gov/law/help/health-emergencies/southkorea.php
+ https://perma.cc/RXQ4-69RF
+https://perma.cc/KRA6-S3BB
+https://web.archive.org/web/20201019061249/https://www.loc.gov/law/help/health-emergencies/southkorea.php
 
 
 
@@ -3915,12 +3967,22 @@ https://www.loc.gov/law/help/health-emergencies/southkorea.php
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- https://twitter.com/southsudangov?lang=en
-http://www.xinhuanet.com/english/africa/2021-03/01/c_139773890.htm
-https://www.voanews.com/covid-19-pandemic/south-sudan-extends-partial-lockdown-indefinitely
-https://radiotamazuj.org/en/news/article/covid-19-south-sudan-lifts-partial-lockdown
-https://twitter.com/SouthSudanGov/status/1239515788341587968
-https://www.aa.com.tr/en/africa/coronavirus-south-sudan-bans-social-gatherings/1768378
+ https://perma.cc/GML7-YZAT
+
+
+https://perma.cc/8WN8-C3XW
+
+
+https://perma.cc/9RJD-BN8Z
+
+
+https://perma.cc/UB78-L5P6
+
+
+https://perma.cc/R98J-ULTW
+
+
+https://perma.cc/Y9DT-7RF2
 
 
 
@@ -3945,14 +4007,9 @@ https://www.aa.com.tr/en/africa/coronavirus-south-sudan-bans-social-gatherings/1
  No evidence of discrimination was found. 
 
 *Sources*:
- [1]
-https://www.amnesty.org/en/countries/europe-and-central-asia/spain/
-
-[2]
-https://www.hrw.org/europe/central-asia/spain
-
-[3]
-https://monitor.civicus.org/country/spain/
+ [1]	perma.cc/2UUL-A2WM
+[2]	perma.cc/X2ZK-TWVK
+[3]	perma.cc/A5NA-HUJP
 
 
 
@@ -3984,31 +4041,23 @@ The anti-cremation order was lifted in February 2021. However bodies are now onl
 
 *Sources*:
  (1)
-https://www.hrw.org/news/2020/04/23/sri-lanka-due-process-concerns-arrests-muslims
-
+https://perma.cc/WGS8-GXBC
 (2)
-https://groundviews.org/2020/04/05/the-president-in-the-pandemic/
-
+https://perma.cc/UB7X-HB7P
 (3)
-https://www.amnesty.org/en/latest/news/2020/04/sri-lanka-religious-minorities-must-have-their-final-rites-respected/
-
-
+https://perma.cc/6G5W-QBSZ
 (4)
-https://www.bbc.com/news/world-asia-53295551
-
+https://perma.cc/4Q3U-NZ5U
 (5)
-https://www.tamilguardian.com/content/sri-lanka-faces-international-condemnation-over-forced-cremation-muslims
-
-(6)https://www.thecitizen.in/index.php/en/NewsDetail/index/6/19620/UN-Urges-Sri-Lanka-to-Allow-Last-Rites-for-Covid-Patients-as-Per-Religion
-
+https://perma.cc/32VT-HYAH
+(6)
+https://perma.cc/QTB8-URKQ
 (7)
-http://www.ft.lk/columns/Lankan-Muslims-deeply-disturbed-at-Govt-failure-to-stop-cremating-Muslims-who-died-of-COVID-19/4-708578
-
+https://perma.cc/2ZKT-CPXA
 (8)
-https://www.bbc.com/news/world-asia-56205737
-
+https://perma.cc/5RVQ-SP3T
 (9)
-https://www.bbc.com/news/world-asia-56249805
+https://perma.cc/5WMA-ZEK7
 
 
 
@@ -4033,12 +4082,9 @@ https://www.bbc.com/news/world-asia-56249805
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- [1]
-https://www.hrw.org/africa/sudan
-[2]
-https://www.amnesty.org/en/search/?country=38641&resourceType=newsarticle&sort=date
-[3]
-https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
+ [1]	perma.cc/XA98-FSL9
+[2]	perma.cc/N2EF-C4KA
+[3]	perma.cc/9KVP-G99B
 
 
 
@@ -4063,15 +4109,19 @@ https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
  Human Rights Watch, Amnesty International and EU agency of fundamental righs have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9625
+ https://perma.cc/E6KV-NM37
 
-https://www.amnesty.org/en/search/?country=38508&resourceType=newsarticle&sort=date
 
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
+https://perma.cc/S83H-Y5L7
 
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_july_2020.pdf
 
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
+https://perma.cc/6FGF-YTMK
+
+
+https://perma.cc/Q4XE-8JDR
+
+
+https://perma.cc/5MWC-SRUK
 
 
 
@@ -4096,13 +4146,16 @@ https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_p
  Amnesty international, human rights watch and the US state department have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38510&resourceType=newsarticle&sort=date
+ https://perma.cc/DZ9J-JY93
 
-https://www.hrw.org/news?country%5B%5D=9626
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/switzerland/
+https://perma.cc/FFX7-YK9K
 
-https://www.amnesty.org/en/countries/europe-and-central-asia/switzerland/report-switzerland/
+
+https://perma.cc/W5F4-WBU6
+
+
+https://perma.cc/9F5V-GXS5
 
 
 
@@ -4130,7 +4183,7 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/switzerland/report-
  https://perma.cc/9W88-7R3B
 
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7246107/
+https://perma.cc/FHE2-95SM
 
 
 
@@ -4155,7 +4208,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7246107/
  No de-jure disciminating provisions and no information on de-facto discrimination found 
 
 *Sources*:
- http://www.president.tj/ru/node/23055
+ https://perma.cc/7LWQ-55US
 
 
 
@@ -4181,18 +4234,19 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7246107/
 
 *Sources*:
  [1]
-https://www.hrw.org/africa/tanzania-and-zanzibar
+https://perma.cc/NS7E-2VPS
+
 
 [2]
-
-https://www.amnesty.org/en/countries/africa/tanzania/
+https://perma.cc/99NT-DV8G
 
 
 [3]
-https://www.bbc.com/news/topics/cjnwl8q4qdrt/tanzania
+https://perma.cc/AS2E-JC8K
+
 
 [4]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tanzania/
+https://perma.cc/E982-NY3H
 
 
 
@@ -4220,19 +4274,15 @@ This travel ban continued during the stricter lockdown in January 2021. Here Tha
 
 *Sources*:
  (1)
-https://www.dw.com/en/thailand-covid-outbreak-among-myanmar-workers-sparks-anti-migrant-backlash/a-56075165
-
+https://perma.cc/AY6V-JAQZ
 (2)
-https://theconversation.com/migrant-worker-segregation-doesnt-work-covid-19-lessons-from-southeast-asia-155260
-
+https://perma.cc/ADB6-PJHC
 (3)
-https://www.dw.com/en/thailand-covid-outbreak-among-myanmar-workers-sparks-anti-migrant-backlash/a-56075165
-
+https://perma.cc/XY95-PRFM
 (4)
-https://www.dw.com/en/thailand-covid-outbreak-among-myanmar-workers-sparks-anti-migrant-backlash/a-56075165
-
+https://perma.cc/T53Y-EXAA
 (5)
-https://www.irrawaddy.com/specials/myanmar-covid-19/myanmars-migrants-face-discrimination-amid-surging-covid-19-in-thailand.html
+https://perma.cc/5XYX-Q8JL
 
 
 
@@ -4257,12 +4307,11 @@ https://www.irrawaddy.com/specials/myanmar-covid-19/myanmars-migrants-face-discr
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response or any measures taken under it. 
 
 *Sources*:
- https://www.hrw.org/africa/gambia
-https://www.amnesty.org/en/countries/africa/gambia/
-https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
-http://www.statehouse.gm/second-address-nation-president-adama-barrow-Covid-19
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gambia/
+ https://perma.cc/V5CK-JVR8
+https://perma.cc/9FSN-4UMB
+https://perma.cc/PE9M-LYTZ
+https://web.archive.org/web/20200511200224/http://www.statehouse.gm/second-address-nation-president-adama-barrow-Covid-19
+https://perma.cc/S9E5-GF9X
 
 
 
@@ -4287,15 +4336,19 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gam
  No discrimination based on these rights. 
 
 *Sources*:
- https://presidence.gouv.tg/2020/04/01/adresse-du-chef-de-letat-sem-faure-essozimna-gnassingbe-au-peuple-togolais-sur-la-riposte-nationale-contre-le-covid-19/
+ perma.cc/6P68-BNMD
 
-https://www.garda.com/crisis24/news-alerts/328466/togo-president-declares-three-month-health-emergency-and-nationwide-curfew-from-2-april-update-3
 
-https://www.togofirst.com/en/economic-governance/0204-5268-coronavirus-togo-declares-state-public-health-emergency-for-3-months
+perma.cc/Y9ZZ-NFDA
 
-http://apanews.net/en/news/covid-19-togo-declares-state-of-emergency-curfew
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/togo/
+perma.cc/SVU2-FY8Q
+
+
+perma.cc/6JPR-ZZJL
+
+
+perma.cc/CH4K-NJDE
 
 
 
@@ -4322,18 +4375,12 @@ In February 2021, Human Rights Watch denounced that "Tunisian security forces ha
  
 
 *Sources*:
- [1]
-https://www.hrw.org/middle-east/n-africa/tunisia
-[2]
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/tunisia/
-[3]
-https://www.bbc.com/news/topics/cwlw3xz0lmvt/tunisia
-[4]
-https://www.hrw.org/news/2021/02/23/tunisia-police-arrest-use-violence-against-lgbti-activists
-[5]
-https://www.hrw.org/news/2021/03/09/tunisia-harassment-arbitrary-detention-lgbt-rights-activist
-[6]
-https://www.amnesty.org/en/latest/news/2021/03/tunisia-release-prominent-lgbti-activist-jailed-for-insulting-police/
+ [1]	perma.cc/M2BD-LEMB
+[2]	perma.cc/UP73-KPH5
+[3]	perma.cc/K555-PAP6
+[4]	perma.cc/Q8C9-26VY
+[5]	perma.cc/Z78N-JYMZ
+[6]	perma.cc/4A4K-NRD8
 
 
 
@@ -4358,14 +4405,12 @@ https://www.amnesty.org/en/latest/news/2021/03/tunisia-release-prominent-lgbti-a
  There seem to be no discriminating elements in the measures taken in reference to Covid-19, and no reports on any discrimination within the emergency measures are reported by Amnesty International or Human Rights Watch. Therefore, this variable is coded as 0. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-https://www.hrw.org/europe/central-asia/turkey
-https://www.amnesty.org/en/search/?country=38514&resourceType=newsarticle&sort=date
-https://www.amnesty.org/en/get-involved/take-action/turkey-Covid-19-prisoners-release/
-
-https://www.amnesty.org/en/countries/europe-and-central-asia/turkey/report-turkey/
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/turkey/
+ https://perma.cc/X4B3-VD5Y
+https://perma.cc/V9SC-U5S4
+https://perma.cc/AC7A-LBPG
+https://web.archive.org/web/20200405064009/https://www.amnesty.org/en/get-involved/take-action/turkey-Covid-19-prisoners-release/
+https://perma.cc/4DK2-MDXY
+https://perma.cc/SE59-FSDW
 
 
 
@@ -4390,8 +4435,10 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tur
  No information found. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
-https://www.amnesty.org/en/countries/europe-and-central-asia/turkmenistan/
+ https://perma.cc/H3AG-KBGB
+
+
+https://perma.cc/ZXD3-SJ7L
 
 
 
@@ -4416,21 +4463,11 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/turkmenistan/
  In 2020, the Bureau of Investigative Journalism reported more than 100 cases of discrimination in the enforcement of Covid-19 protocols that targeted LGBTI communities in Uganda [1]. In March 2020, the police raided a shelter for LGBTI persons, arresting and detaining them without access to representation or due process. In May 2020, all charges were dropped and the individuals were released after filing a law suit. Later, they filed suit against the prison and mayor claiming to have experienced torture and inhuman treatment while in custody. According to the U.S. Department of State Human Rights Report for 2020, on July 19 2020, local government authorities in Kyenjojo Town disrupted a meeting of LGBTI persons claiming that it violated Covid-19 rules [2]. We further evidence of such discrimination ongoing in 2021, including the arrest of 44 LGBT people in June 2021 for unlawful gathering, supposedly under the Covid-19 restrictions. The arrests included forced anal examinations, and police leaked video footage, outing these individuals. [5] There is a history of outed LGBT persons being violently attacked in Uganda, including the 2011 murder of David Kato. 
 
 *Sources*:
- [1]
-https://www.scidev.net/global/features/covid-19-controls-used-to-arrest-torture-hiv-sufferers/
-
-[2]
-https://www.state.gov/wp-content/uploads/2021/03/UGANDA-2020-HUMAN-RIGHTS-REPORT.pdf
-
-
-[3]
-https://harvardhrj.com/2021/05/covid-19-emergency-powers-as-a-weapon-for-targeting-lgbtiq-people-in-uganda/
-
-[4]
-https://www.ohchr.org/en/NewsEvents/Pages/DisplayNews.aspx?NewsID=25832&LangID=E
-
-[5]
-https://observers.france24.com/en/africa/20210610-police-arrest-and-out-dozens-at-lgbt-engagement-party-uganda
+ [1]	perma.cc/SL7S-G2X2
+[2]	perma.cc/3YTP-UGSC
+[3]	perma.cc/5N22-NVA6
+[4]	perma.cc/T73H-F8UP
+[5]	perma.cc/24NA-YU78
 
 
 
@@ -4455,8 +4492,8 @@ https://observers.france24.com/en/africa/20210610-police-arrest-and-out-dozens-a
  In May 2020, , the mayor of Ivano-Frankivsk verbally ordered the Roma to be expelled from the city for violating Covid-19 measures. Ten Roma were expelled from the city by force. Criminal proceedings for discriminations were launched against the major, and he later apologized. In June 2020, an event organized by the LGBTI community was dispersed due to alleged violations of quarantine restrictions, despite being previously approved by the authorities as well as compliance with quarantine requirements. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/ukraine/
-https://twitter.com/usembassykyiv/status/1252915766585970690?lang=en
+ https://perma.cc/57VJ-WAWR
+https://perma.cc/7CRX-NP6T
 
 
 
@@ -4481,16 +4518,11 @@ https://twitter.com/usembassykyiv/status/1252915766585970690?lang=en
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- [1]
-https://dlp.dubai.gov.ae/en/Pages/LegislationSearch.aspx
-[2]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/government-efforts-to-contain-covid-19
-[3]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak
-[4]
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/united-arab-emirates/
-[5]
-https://www.hrw.org/middle-east/n-africa/united-arab-emirates
+ [1]	perma.cc/NLQ7-V4C6
+[2]	perma.cc/VDT7-AZJA
+[3]	perma.cc/3NBH-PBX8
+[4]	perma.cc/9HYX-6DK4
+[5]	perma.cc/6KCV-UZPK
 
 
 
@@ -4516,25 +4548,40 @@ https://www.hrw.org/middle-east/n-africa/united-arab-emirates
 There has also been much debate and criticism about the adverse effect of the pandemic and the restrictions in UK on different minorities and women, but these are not the result of active discrimination within the measures adopted, and thus not accounted for here. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9631
-https://www.amnesty.org/en/search/?country=38510&resourceType=newsarticle&sort=date
-https://www.theguardian.com/uk-news/2020/jul/27/police-in-england-and-wales-twice-as-likely-to-fine-young-bame-men-during-lockdown
-https://www.amnesty.org/en/latest/news/2020/06/europe-covid19-lockdowns-expose-racial-bias-and-discrimination-within-police/
-https://www.opendemocracy.net/en/openjustice/democracy-policing-and-coronavirus-pandemic/
+ https://perma.cc/GQ58-ZRT7
 
-https://theconversation.com/yes-there-is-structural-racism-in-the-uk-Covid-19-outcomes-prove-it-158337
 
-https://theconversation.com/we-asked-70-000-people-how-coronavirus-affected-them-what-they-told-us-revealed-a-lot-about-inequality-in-the-uk-143718
+https://perma.cc/D44T-YRHS
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/united-kingdom/
 
-https://www.hrw.org/world-report/2021/country-chapters/united-kingdom
+https://perma.cc/SAM9-CA27
 
-https://www.amnesty.org/en/countries/europe-and-central-asia/united-kingdom/report-united-kingdom/
 
-https://www.theguardian.com/uk-news/2021/apr/27/all-covid-fines-in-england-should-be-reviewed-mps-say
+https://perma.cc/G34Z-FMD7
 
-https://committees.parliament.uk/committee/93/human-rights-joint-committee/news/154842/joint-committee-on-human-rights-every-fixed-penalty-notice-issued-under-coronavirus-regulations-must-be-reviewed/
+
+https://perma.cc/366G-5HJR
+
+
+https://perma.cc/MGY3-D3XF
+
+
+https://perma.cc/797S-784Z
+
+
+https://perma.cc/7SK6-RAZM
+
+
+https://perma.cc/JXS5-H9TN
+
+
+https://perma.cc/585D-FV67
+
+
+https://perma.cc/ZE8P-4DGJ
+
+
+https://perma.cc/7R45-4U9C
 
 
 
@@ -4559,14 +4606,16 @@ https://committees.parliament.uk/committee/93/human-rights-joint-committee/news/
  Human Rights Watch and Amnesty International have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9456
+ https://perma.cc/954X-6LCG
 
 
-https://www.amnesty.org/en/search/?country=38334&resourceType=newsarticle&sort=date
-https://www.hrw.org/world-report/2021/country-chapters/united-states
+https://perma.cc/FRS4-JRPU
 
 
-https://www.amnesty.org/en/countries/americas/united-states-of-america/report-united-states-of-america/
+https://perma.cc/CMD8-U6PL
+
+
+https://perma.cc/VBF8-N8JD
 
 
 
@@ -4591,15 +4640,10 @@ https://www.amnesty.org/en/countries/americas/united-states-of-america/report-un
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- [1]
-https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/medidas-gobierno-sanitaria-emergencia-sanitaria-covid19
-
-[2]
-https://www.hrw.org/americas/uruguay
-
-[3]
-https://www.amnesty.org/en/countries/americas/uruguay/
-https://monitor.civicus.org/country/uruguay/
+ [1]	perma.cc/5Q7D-C38E
+[2]	perma.cc/FJW8-WSBG
+[3]	perma.cc/2GYL-EVG3
+[4]	perma.cc/K5KV-E3YH
 
 
 
@@ -4624,9 +4668,13 @@ https://monitor.civicus.org/country/uruguay/
  No de-jure disciminating provisions and no information on de-facto discrimination found. 
 
 *Sources*:
- https://lex.uz/ru/docs/4772484
-https://www.hrw.org/europe/central-asia/uzbekistan
-https://www.amnesty.org/en/countries/europe-and-central-asia/uzbekistan/
+ https://perma.cc/XH7S-74PF
+
+
+https://perma.cc/FYH9-SZZV
+
+
+https://perma.cc/TBN9-MWGN
 
 
 
@@ -4652,9 +4700,9 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/uzbekistan/
 
 *Sources*:
  [1]
-https://www.hrw.org/americas/venezuela
+perma.cc/6W5Q-WSEH
 [2]
-https://www.amnesty.org/en/countries/americas/venezuela/
+perma.cc/JZ37-LD8D
 
 
 
@@ -4679,11 +4727,9 @@ https://www.amnesty.org/en/countries/americas/venezuela/
  I did not find evidence of the emergency measures discriminating "solely on the grounds of race, colour, sex, language, religion or social origin" across all time periods. 
 
 *Sources*:
- https://www.hrw.org/asia/vietnam
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/viet-nam/
-
-http://constitutionnet.org/sites/default/files/tranlation_of_vietnams_new_constitution_enuk_2.pdf
+ https://perma.cc/K2FH-2Z3A
+https://perma.cc/58SX-H5TH
+https://perma.cc/UHY6-9EKZ
 
 
 
@@ -4711,20 +4757,17 @@ http://constitutionnet.org/sites/default/files/tranlation_of_vietnams_new_consti
 However, the Statutory Instrument adopted by the Ministry of Health states: "A person shall not enter or leave an infected area without - (a) the permission of an authorized officer..." (2). So, only if medical officials declared refugee camps to be "infected areas" when they were in fact not, then the restrictions on issuing passes for movement would be considered discrimination in this coding. No evidence have been found that the medical officials wrongly claimed the camps to be infected, and so this is not included in the score for this variable. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/zambia/
+ https://perma.cc/MFP6-MUDW
 (1)
-https://www.amnesty.org/en/countries/africa/zambia/
-http://zambialii.org/zm/legislation/statutory-instrument/2020/22
 
+https://perma.cc/D3PV-TJLT
+https://perma.cc/RP77-CAYJ
 
-
-
-http://zambialii.org/zm/legislation/statutory-instrument/2020/21
-https://www.hrw.org/africa/zambia
-https://reliefweb.int/sites/reliefweb.int/files/resources/ZAMBIA_%20COVID-19_Emergency_Appeal.pdf
-http://zambialii.org/zm/legislation/statutory-instrument/2020/22
+https://perma.cc/V262-7AF9
+https://perma.cc/K39L-YBTQ
+https://perma.cc/Z2T9-BV4V
+https://perma.cc/GH77-GTQ2
 (2)
-
 
 
 
@@ -4749,8 +4792,6 @@ http://zambialii.org/zm/legislation/statutory-instrument/2020/22
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response across all the time periods. 
 
 *Sources*:
- https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
-
-https://www.hrw.org/africa/zimbabwe
-
-https://www.amnesty.org/en/countries/africa/zimbabwe/
+ https://perma.cc/Q494-97G4
+https://perma.cc/9663-9QFS
+https://perma.cc/HJ49-CXF6

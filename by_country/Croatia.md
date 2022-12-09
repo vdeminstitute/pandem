@@ -45,17 +45,14 @@
  Croatia did not declare a state of emergency or disaster, and instead used existing legislation (the Civil Protection Act, the Law on Prevention of Infectious Diseases) to implement emergency measures, announced by decisions of the Civil Protection Authority. The first measures under this legal instrument are from 19 March 2020. The same legal instrument was used for all time periods (for example, March-June 2020: decision to limit social gatherings from 19 March , July-September 2020: decision to limit the working hours of night clubs from 10 July, October-December: decision on restricting social gatherings from 25 October, January-March, April-June 2021: many restrictions are still in place. Currently, it is supposed to last through 31 May and determines e.g. that gatherings of more than 25 people are forbidden, and the commerce of alcohol is prohibited between 22-6h. The government argues that from 1 June the measures could be relaxed). 
 
 *Sources*:
- https://vlada.gov.hr/news/37-fewer-infections-week-on-week-more-than-1-2-million-vaccine-shots-administered/32126
-https://www.garda.com/crisis24/news-alerts/479271/croatia-authorities-extends-covid-19-related-restrictions-through-may-31-update-25
-https://www.koronavirus.hr/najnovije/odluke-stozera-civilne-zastite-za-sprjecavanje-sirenja-zaraze-novim-koronavirusom/323
-
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-april-2020_en.pdf
-
-
-https://civilna-zastita.gov.hr/UserDocsImages/CIVILNA%20ZA%C5%A0TITA/PDF_ZA%20WEB/Odluka%20-%20okupljanja.pdf
-https://www.koronavirus.hr/najnovije/novo-radno-vrijeme-nocnih-klubova-barova-kafica/762
-https://fra.europa.eu/sites/default/files/fra_uploads/hr_report_on_coronavirus_pandemic_november_2020.pdf
+ [1]	perma.cc/6VCW-2M4A
+[2]	perma.cc/C8E9-XPGN
+[3]	perma.cc/5NWM-FCZU
+[4]	https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+[5]	perma.cc/7QDN-2K9J
+[6]	perma.cc/7PMN-2E5S
+[7]	perma.cc/5NWM-FCZU
+[8]	perma.cc/K75F-73DK
 
 
 
@@ -95,8 +92,8 @@ https://fra.europa.eu/sites/default/files/fra_uploads/hr_report_on_coronavirus_p
  According to Article 22a of the Civil Protection Act (Zakon o sustavu civilne zaštite), the Civil Protection Headquarters can take measures to mitigate unforseen circumstances. 
 
 *Sources*:
- https://www.zakon.hr/z/809/Zakon-o-sustavu-civilne-za%C5%A1tite
-https://www.zakon.hr/z/190/Zakon-o-zdravstvenoj-za%C5%A1titi
+ [1]	perma.cc/4UWU-32NR
+[2]	perma.cc/78MV-CCJS
 
 
 
@@ -135,8 +132,8 @@ https://www.zakon.hr/z/190/Zakon-o-zdravstvenoj-za%C5%A1titi
  On 19 March 2020, the Civil Protection Authority issues a decision on limitations on social gatherings, sports and cultural events. 
 
 *Sources*:
- https://www.koronavirus.hr/odluka-o-mjerama-ogranicavanja-drustvenih-okupljanja-rada-u-trgovini-usluznih-djelatnosti-i-odrzavanja-sportskih-i-kulturnih-dogadjanja/180
-https://narodne-novine.nn.hr/clanci/sluzbeni/2020_03_32_713.html
+ [1]	perma.cc/442T-YFHJ
+[2]	perma.cc/PEE8-AFWC
 
 
 
@@ -175,11 +172,9 @@ https://narodne-novine.nn.hr/clanci/sluzbeni/2020_03_32_713.html
  As some measures taken under the Civil Protection Act are still in place, the implementation of the legal instrument has not ended at the time of coding. For example, the measures limiting public gatherings are in place until 30 June 2021. 
 
 *Sources*:
- https://vlada.gov.hr/news/37-fewer-infections-week-on-week-more-than-1-2-million-vaccine-shots-administered/32126
-https://www.garda.com/crisis24/news-alerts/479271/croatia-authorities-extends-covid-19-related-restrictions-through-may-31-update-25
-https://www.koronavirus.hr/odluka-o-nuznim-epidemioloskim-mjerama-kojima-se-ogranicavaju-okupljanja/843
-https://civilna-zastita.gov.hr/UserDocsImages/CIVILNA%20ZA%C5%A0TITA/PDF_ZA%20WEB/Odluka%20-%20okupljanja,%2011.06.2021..pdf
-https://www.koronavirus.hr/najnovije/ogranicavanje-okupljanja-i-druge-nuzne-epidemioloske-mjere-i-preporuke/870
+ [1]	perma.cc/ACJ2-DJU8
+[2]	perma.cc/3APK-UHYU
+[3]	perma.cc/G8K8-YEXL
 
 
 
@@ -222,23 +217,15 @@ https://www.koronavirus.hr/najnovije/ogranicavanje-okupljanja-i-druge-nuzne-epid
 July-September, October-December, January-June 2021: all measures taken under the Civil Protection act have a time limit. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/454541/croatia-authorities-to-extend-covid-19-related-restrictions-until-march-31-update-21
-https://www.garda.com/crisis24/news-alerts/479271/croatia-authorities-extends-covid-19-related-restrictions-through-may-31-update-25
-https://civilna-zastita.gov.hr/UserDocsImages/CIVILNA%20ZA%C5%A0TITA/PDF_ZA%20WEB/Odluka%20o%20zabrani%20napu%C5%A1tanja%20prebivali%C5%A1ta....pdf
-
-https://www.koronavirus.hr/odluka-o-zabrani-napustanja-mjesta-prebivalista-i-stalnog-boravka-u-rh/275
-https://vlada.gov.hr/vijesti/od-ponoci-na-snazi-odluke-stozera-civilne-zastite-rh-u-svrhu-sprjecavanja-sirenja-zaraze-novim-koronavirusom/29026
-https://www.koronavirus.hr/najnovije/odluka-o-dopuni-odluke-o-zabrani-napustanja-mjesta-prebivalista-i-stalnog-boravka-u-rh-475/475
-(1)
-
-https://civilna-zastita.gov.hr/UserDocsImages/CIVILNA%20ZA%C5%A0TITA/PDF_ZA%20WEB/Izmjena%20Odluke%20-%20zabrana%20napu%C5%A1tanja....pdf
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-
-
-https://www.koronavirus.hr/najnovije/odluke-stozera-civilne-zastite-za-sprjecavanje-sirenja-zaraze-novim-koronavirusom/323
-
-https://civilna-zastita.gov.hr/UserDocsImages/CIVILNA%20ZA%C5%A0TITA/PDF_ZA%20WEB/Odluka%20-%20okupljanja,%2011.06.2021..pdf
-https://www.koronavirus.hr/najnovije/ogranicavanje-okupljanja-i-druge-nuzne-epidemioloske-mjere-i-preporuke/870
+ [1]	perma.cc/X525-XKEP
+[2]	perma.cc/AA3M-RZ35
+[3]	perma.cc/UZS9-QN5Z
+[4]	perma.cc/GB3T-ZBYC
+[5]	perma.cc/PWQ6-Q2AC
+[6]	perma.cc/CY5Z-2U6U
+[7]	perma.cc/Y898-86TC
+[8]	https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+[9]	perma.cc/36LW-V65Z
 
 
 
@@ -277,23 +264,16 @@ https://www.koronavirus.hr/najnovije/ogranicavanje-okupljanja-i-druge-nuzne-epid
  March-June 2020: Although the decision by the Civil Protection Headquarters from 23 March was lifted on 11 May 2020, emlimitdate is left blank since there was no end limit at the time of passing. July-September 2020: the final provision during this time period was due to expire on 7 October (Decision on limiting the opening hours of night clubs and bars from 22 September 2020). October-December 2020: the final provision during this time period is due to expire on 15 December 2020 (Decision on restricting social gatherings from 22 November 2020). January-March 2021: the final provision during this period is due to expire on 31 March 2021. April-June 2021: the final provision during this period, by the time of the coding, is due to expire on 30 June 2021. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/454541/croatia-authorities-to-extend-covid-19-related-restrictions-until-march-31-update-21
-https://www.garda.com/crisis24/news-alerts/479271/croatia-authorities-extends-covid-19-related-restrictions-through-may-31-update-25
-https://civilna-zastita.gov.hr/UserDocsImages/CIVILNA%20ZA%C5%A0TITA/PDF_ZA%20WEB/Odluka%20o%20zabrani%20napu%C5%A1tanja%20prebivali%C5%A1ta....pdf
-
-https://www.koronavirus.hr/odluka-o-zabrani-napustanja-mjesta-prebivalista-i-stalnog-boravka-u-rh/275
-https://vlada.gov.hr/vijesti/od-ponoci-na-snazi-odluke-stozera-civilne-zastite-rh-u-svrhu-sprjecavanja-sirenja-zaraze-novim-koronavirusom/29026
-https://www.koronavirus.hr/najnovije/odluka-o-dopuni-odluke-o-zabrani-napustanja-mjesta-prebivalista-i-stalnog-boravka-u-rh-475/475
-https://civilna-zastita.gov.hr/UserDocsImages/CIVILNA%20ZA%C5%A0TITA/PDF_ZA%20WEB/Izmjena%20Odluke%20-%20zabrana%20napu%C5%A1tanja....pdf
-
-https://www.koronavirus.hr/odluka-o-nuznim-epidemioloskim-mjerama-kojima-se-ogranicavaju-okupljanja/843
-
-https://civilna-zastita.gov.hr/UserDocsImages/CIVILNA%20ZA%C5%A0TITA/PDF_ZA%20WEB/Odluka%20-%20Barovi%20-%203.%20izmjena.pdf
-https://civilna-zastita.gov.hr/UserDocsImages/CIVILNA%20ZA%C5%A0TITA/PDF_ZA%20WEB/Odluka%20-%20okupljanja%20-%201.%20izmjena.pdf
-
-
-
-https://civilna-zastita.gov.hr/UserDocsImages/CIVILNA%20ZA%C5%A0TITA/PDF_ZA%20WEB/Odluka%20-%20okupljanja,%2011.06.2021..pdf
+ [1]	perma.cc/X525-XKEP
+[2]	perma.cc/AA3M-RZ35
+[3]	perma.cc/UZS9-QN5Z
+[4]	perma.cc/GB3T-ZBYC
+[5]	perma.cc/PWQ6-Q2AC
+[6]	perma.cc/CY5Z-2U6U
+[7]	perma.cc/Y898-86TC
+[8]	perma.cc/DNX4-68LH
+[9]	perma.cc/XP5V-4J2T
+[10]	perma.cc/B38G-W4A7
 
 
 
@@ -335,8 +315,8 @@ https://civilna-zastita.gov.hr/UserDocsImages/CIVILNA%20ZA%C5%A0TITA/PDF_ZA%20WE
  Yes, the parliament has to approve amendments to the Civil Protection System Act. On 19 March 2020, the parliament amended the Civil Protection System Act authorizing the national Civil Protection Headquarters (HQ) to take action against the incoming thereat of Covid-19. 
 
 *Sources*:
- https://verfassungsblog.de/covid-19-and-the-rule-of-law-in-croatia-majoritarian-or-constitutional-democracy/
-https://www.zakon.hr/z/809/Zakon-o-sustavu-civilne-za%C5%A1tite
+ [1]	perma.cc/3W3Y-9NMJ
+[2]	perma.cc/L7RJ-9QFC
 
 
 
@@ -378,10 +358,9 @@ https://www.zakon.hr/z/809/Zakon-o-sustavu-civilne-za%C5%A1tite
  On 19 March 2020, the parliament amended the Civil Protection System Act authorizing the national Civil Protection Headquarters (HQ) to take action against the incoming thereat of Covid-19. 
 
 *Sources*:
- https://verfassungsblog.de/covid-19-and-the-rule-of-law-in-croatia-majoritarian-or-constitutional-democracy/
-
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#C
-https://www.sabor.hr/hr/press/priopcenja/sabor-izmijenio-svoj-poslovnik
+ [1]	perma.cc/A8QY-TEVU
+[2]	perma.cc/9JX9-2Q44
+[3]	perma.cc/DP86-WTBY
 
 
 
@@ -431,18 +410,11 @@ According to OSCE report (p.71), the measures were addressed retroactively by th
 The situation persists for January-March, April-June 2021. 
 
 *Sources*:
- International
-IDEA
-Parliaments
-during
-the
-pandemic
-https://vlada.gov.hr/vijesti/od-ponoci-na-snazi-odluke-stozera-civilne-zastite-rh-u-svrhu-sprjecavanja-sirenja-zaraze-novim-koronavirusom/29026
-
-https://www.sabor.hr/en/press/news/9th-croatian-parliament-dissolved
-https://www.sabor.hr/en/press/news/first-sitting-new-parliament-next-wednesday-10-am
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-(1)
+ [1]	https://perma.cc/DJ79-NX47
+[2]	perma.cc/W42Y-8NWF
+[3]	perma.cc/6V7Q-TQZE
+[4]	perma.cc/V6DP-FNVP
+[5]	perma.cc/WP6K-EFT5
 
 
 
@@ -564,13 +536,12 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  Uniform measures throughout the country in the March-June 2020 period. In July-September, October-December 2020, the measures different for a few sub-national areas. In January-March, April-June 2021, the measures differ regionally, especially the biggest cities as Zagreb. 
 
 *Sources*:
- https://vlada.gov.hr/vijesti/bozinovic-postojeci-rezim-mjera-treba-odrzati-eventualno-promjene-donositi-na-zupanijskoj-razini/31684
-https://vlada.gov.hr/vijesti/bozinovic-vidjet-cemo-trebaju-li-dodatne-mjere-na-nacionalnoj-razini/31746
-https://vlada.gov.hr/vijesti/od-ponoci-na-snazi-odluke-stozera-civilne-zastite-rh-u-svrhu-sprjecavanja-sirenja-zaraze-novim-koronavirusom/29026
-https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-april-2020_en.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/hr_report_on_coronavirus_pandemic_july_2020.pdf
-
-https://www.koronavirus.hr/najnovije/odluke-stozera-civilne-zastite-za-sprjecavanje-sirenja-zaraze-novim-koronavirusom/323
+ [1]	perma.cc/9NMH-EUKF
+[2]	perma.cc/VA89-BEZ7
+[3]	perma.cc/4D8Y-RY65
+[4]	perma.cc/F3VL-EWRG
+[5]	perma.cc/VY2S-H798
+[6]	perma.cc/Z2C8-6NBM
 
 
 
@@ -615,12 +586,10 @@ https://www.koronavirus.hr/najnovije/odluke-stozera-civilne-zastite-za-sprjecava
  
 
 *Sources*:
- https://www.ombudsman.hr/en/news/
-https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-april-2020_en.pdf
-
-
-https://fra.europa.eu/sites/default/files/fra_uploads/hr_report_on_coronavirus_pandemic_july_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/hr_report_-_covid-19_impact_on_roma_en.pdf
+ [1]	perma.cc/5BPE-74DE
+[2]	perma.cc/G756-NS2H
+[3]	perma.cc/X6MT-WHA8
+[4]	perma.cc/Y959-RREK
 
 
 
@@ -671,21 +640,18 @@ https://fra.europa.eu/sites/default/files/fra_uploads/hr_report_-_covid-19_impac
 There is no evidence that the attacks stopped in 2021 when reports from human rights watchdogs were published accusing Croatia of violations. Therefore, ndrights is coded as 1 in all the periods. 
 
 *Sources*:
- https://www.hrw.org/europe/central-asia/croatia
-https://www.borderviolence.eu/annual-torture-report-2020/
-
-https://www.amnesty.org/en/countries/europe-and-central-asia/croatia/report-croatia/
-https://www.ohchr.org/Documents/Issues/Migration/pushback/HumanRightsWatch_Submission.pdf
-https://balkaninsight.com/2021/04/07/human-rights-worsened-in-central-southeast-europe-in-pandemic-amnesty/
-https://www.theguardian.com/global-development/2020/may/28/they-made-crosses-on-our-heads-refugees-report-abuse-by-croatian-police
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25976&LangID=E
-https://www.amnesty.org/en/latest/news/2020/06/croatia-fresh-evidence-of-police-abuse-and-torture-of-migrants-and-asylumseekers/
-https://www.hrw.org/news/2020/10/29/violent-pushbacks-croatia-border-require-eu-action
-https://www.amnesty.org/en/latest/news/2020/06/croatia-prosecution-of-police-accused-of-beating-migrant-must-herald-end-of-cruel-practices-at-the-borders/
-https://www.amnesty.org/en/latest/news/2020/11/eu-inquiry-into-european-complicity-in-croatian-border-violence-against-migrants-and-refugees-significant/
-(2)
-https://www.theguardian.com/global-development/2020/oct/21/croatian-police-accused-of-sickening-assaults-on-migrants-on-balkans-trail-bosnia
-(1)
+ [1]	perma.cc/4J47-K7E3
+[2]	perma.cc/LGA8-XAGS
+[3]	https://perma.cc/L23D-M7Z4
+[4]	perma.cc/MDP8-NL99
+[5]	perma.cc/TAJ9-ABTL
+[6]	perma.cc/LCS8-W23P
+[7]	perma.cc/77V3-SNPW
+[8]	perma.cc/4N23-MQC2
+[9]	perma.cc/QBQ4-H6L3
+[10]	perma.cc/LFC8-LE7R
+[11]	perma.cc/X66U-347D
+[12]	perma.cc/5NXA-YZVS
 
 
 
@@ -731,9 +697,9 @@ https://www.theguardian.com/global-development/2020/oct/21/croatian-police-accus
 There is no new evidence found of changes in January-March, April-July 2021. 
 
 *Sources*:
- https://verfassungsblog.de/croatias-response-to-covid-19-on-legal-form-and-constitutional-safeguards-in-times-of-pandemic/
-https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-april-2020_en.pdf
-https://www.aem.hr/nekategorizirano/upozorenje-vijeca-za-elektronicke-medije-svim-elektronickim-medijima-u-republici-hrvatskoj/
+ [1]	perma.cc/94M6-9ZSS
+[2]	perma.cc/4MNP-3LWR
+[3]	perma.cc/9DLQ-5CHF
 
 
 
@@ -853,9 +819,9 @@ https://www.aem.hr/nekategorizirano/upozorenje-vijeca-za-elektronicke-medije-svi
  Official website with information on Covid-19; no reports on limitations on media reporting on covid-19 found. No new information found since June 2020. 
 
 *Sources*:
- https://www.koronavirus.hr/
-https://ipi.media/croatia/
-https://rsf.org/en/croatia
+ [1]	perma.cc/CP7Y-UDWY
+[2]	perma.cc/JZ2P-NLQB
+[3]	perma.cc/F8YS-T6FM
 
 
 
@@ -897,9 +863,9 @@ https://rsf.org/en/croatia
  No information on limitation of media reporting on the government's response. No new information found since June 2020. 
 
 *Sources*:
- https://ipi.media/croatia/
-https://rsf.org/en/croatia
-https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-april-2020_en.pdf
+ [1]	perma.cc/Y92S-XBC6
+[2]	perma.cc/77E6-BUY2
+[3]	perma.cc/YN5P-SDRY
 
 
 
@@ -941,9 +907,9 @@ https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-ap
  No information found on instances of limitations on media reporting non-Covid-19 related news but with reference to the pandemic. No new information found since June 2020. 
 
 *Sources*:
- https://ipi.media/croatia/
-https://rsf.org/en/croatia
-https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-april-2020_en.pdf
+ [1]	perma.cc/Y92S-XBC6
+[2]	perma.cc/77E6-BUY2
+[3]	perma.cc/YN5P-SDRY
 
 
 
@@ -986,9 +952,9 @@ https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-ap
  No reports on limiting media access to Covid-19 information found since 11 March 2020. 
 
 *Sources*:
- https://ipi.media/croatia/
-https://rsf.org/en/croatia
-https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-april-2020_en.pdf
+ [1]	perma.cc/D897-DY7E
+[2]	perma.cc/73AE-KZH8
+[3]	perma.cc/FY7M-4PPW
 
 
 
@@ -1033,10 +999,10 @@ There is, however, harassment from the civilians regarding reports about Covid-1
  
 
 *Sources*:
- http://www.coe.int/en/web/media-freedom/all-alerts?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-4&p_p_col_count=1&_sojdashboard_WAR_coesojportlet_selectedStringFilters=resolved_or_replied.no_resolved_replied%2Cyear.2020&_sojdashboard_WAR_coesojportlet_selectedCategories=11709494&_sojdashboard_WAR_coesojportlet_keywords=&_sojdashboard_WAR_coesojportlet_advancedSearch=false&_sojdashboard_WAR_coesojportlet_andOperator=true&_sojdashboard_WAR_coesojportlet_resetCur=false&_sojdashboard_WAR_coesojportlet_delta=100
-https://ipi.media/croatia/
-https://rsf.org/en/croatia
-https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-april-2020_en.pdf
+ [1]	perma.cc/UCH8-6WHZ
+[2]	perma.cc/6WF3-YVU6
+[3]	perma.cc/5KLE-MKGX
+[4]	perma.cc/92TP-7CAQ
 
 
 
@@ -1078,7 +1044,7 @@ https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-ap
  A journalist was attacked when reporting on celebrations that were illegal under Covid-19 restrictions, but the attacker appears to be not a state agent. No new information found since June 2020. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/#
+ [1]	perma.cc/Z2FQ-UQE3
 
 
 
@@ -1122,8 +1088,9 @@ https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-ap
  Migrants were "beaten and spray-painted with red crosses on their heads by Croatian police officers who said the treatment was the "cure against coronavirus" in Q2 2020 (The Guardian, 1). Since it was a single case, govdis is coded as 1 during Q2 2020. 
 
 *Sources*:
- https://www.theguardian.com/global-development/2020/may/28/they-made-crosses-on-our-heads-refugees-report-abuse-by-croatian-police
-(1)
+ [1]	perma.cc/DTD9-WGXL
+[2]	perma.cc/JGS8-M5MK
+[3]	perma.cc/UWA4-NS3N
 
 
 
@@ -1169,19 +1136,15 @@ https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-ap
 There is no evidence that the attacks stopped in 2021. 
 
 *Sources*:
- https://www.hrw.org/europe/central-asia/croatia
-https://www.borderviolence.eu/annual-torture-report-2020/
-
-
-
-https://www.theguardian.com/global-development/2020/may/28/they-made-crosses-on-our-heads-refugees-report-abuse-by-croatian-police
-(1)
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25976&LangID=E
-https://www.amnesty.org/en/latest/news/2020/06/croatia-fresh-evidence-of-police-abuse-and-torture-of-migrants-and-asylumseekers/
-https://www.hrw.org/news/2020/10/29/violent-pushbacks-croatia-border-require-eu-action
-https://www.amnesty.org/en/latest/news/2020/06/croatia-prosecution-of-police-accused-of-beating-migrant-must-herald-end-of-cruel-practices-at-the-borders/
-https://www.amnesty.org/en/latest/news/2020/11/eu-inquiry-into-european-complicity-in-croatian-border-violence-against-migrants-and-refugees-significant/
-https://www.theguardian.com/global-development/2020/oct/21/croatian-police-accused-of-sickening-assaults-on-migrants-on-balkans-trail-bosnia
+ [1]	perma.cc/VZ9P-FXPR
+[2]	perma.cc/Y3VY-AEGL
+[3]	perma.cc/H7PJ-XNZB
+[4]	perma.cc/9PZK-BWCN
+[5]	perma.cc/FQK2-R89Z
+[6]	perma.cc/5KKF-RAHL
+[7]	perma.cc/J3SW-6NU7
+[8]	perma.cc/KM3N-SGTA
+[9]	perma.cc/USV9-4PDR
 
 
 
@@ -1223,4 +1186,4 @@ https://www.theguardian.com/global-development/2020/oct/21/croatian-police-accus
  The military was involved with transporting patients and erecting a camp to accommodate infected patients (not with confinement measures). No further evidence since October 2020. 
 
 *Sources*:
- http://euromil.org/armed-forces-and-covid-19/
+ [1]	perma.cc/TK7B-REUK

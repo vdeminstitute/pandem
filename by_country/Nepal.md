@@ -47,14 +47,12 @@
 The Act is broad. Section 2(1) can "provide legal foundation for any government action taken to tackle COVID-19 both moderate and extraordinary." [1] 
 
 *Sources*:
- https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+ https://perma.cc/R7AQ-R27V
 [1]
 
-http://www.lawcommission.gov.np/en/archives/12240
-
-http://www.vertic.org/media/National%20Legislation/Nepal/NP_Infectious_Diseases_Act.pdf
-
-https://researchportal.northumbria.ac.uk/ws/portalfiles/portal/43194666/verfassungsblog.de_Emergency_Law_Responses_and_Conflict_Affected_States_in_Transition.pdf
+https://perma.cc/DX7R-D9NN
+https://perma.cc/E896-56ZR
+https://perma.cc/6X4U-YHTC
 
 
 
@@ -93,11 +91,13 @@ https://researchportal.northumbria.ac.uk/ws/portalfiles/portal/43194666/verfassu
 *No comment provided* 
 
 *Sources*:
- https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+ https://perma.cc/R7AQ-R27V
 
-http://www.lawcommission.gov.np/en/archives/12240
 
-https://researchportal.northumbria.ac.uk/ws/portalfiles/portal/43194666/verfassungsblog.de_Emergency_Law_Responses_and_Conflict_Affected_States_in_Transition.pdf
+https://perma.cc/DX7R-D9NN
+
+
+https://perma.cc/6X4U-YHTC
 
 
 
@@ -136,11 +136,13 @@ https://researchportal.northumbria.ac.uk/ws/portalfiles/portal/43194666/verfassu
 *No comment provided* 
 
 *Sources*:
- https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+ https://perma.cc/R7AQ-R27V
 
-http://www.lawcommission.gov.np/en/archives/12240
 
-https://kathmandupost.com/national/2020/03/23/nepal-goes-under-lockdown-for-a-week-starting-6am-Tuesday
+https://perma.cc/DX7R-D9NN
+
+
+https://perma.cc/5XJQ-TAS9
 
 
 
@@ -179,13 +181,16 @@ https://kathmandupost.com/national/2020/03/23/nepal-goes-under-lockdown-for-a-we
  The legal instrument is still being used to adopt national level responses in Nepal. 
 
 *Sources*:
- https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+ https://perma.cc/R7AQ-R27V
 
-http://www.lawcommission.gov.np/en/archives/12240
 
-http://www.vertic.org/media/National%20Legislation/Nepal/NP_Infectious_Diseases_Act.pdf
+https://perma.cc/DX7R-D9NN
 
-https://researchportal.northumbria.ac.uk/ws/portalfiles/portal/43194666/verfassungsblog.de_Emergency_Law_Responses_and_Conflict_Affected_States_in_Transition.pdf
+
+https://perma.cc/E896-56ZR
+
+
+https://perma.cc/6X4U-YHTC
 
 
 
@@ -227,11 +232,19 @@ https://researchportal.northumbria.ac.uk/ws/portalfiles/portal/43194666/verfassu
  Secondary sources typically mention time limits for most measures that have come into effect in Nepal during the Covid-19 pandemic. Researchers for this project were unable to confirm through official versions of the emergency measures because these could not be translated from Nepali prior to publication of the dataset. They are often posted to social media and government websites as scanned images. Therefore, we have decided to code this case a "1" because some evidence suggests that time limits exist. Nevertheless, the overall legal instrument in use has no time limit. 
 
 *Sources*:
- https://covid19.mohp.gov.np
-https://mohp.gov.np/en
-https://www.garda.com/crisis24/news-alerts/477361/nepal-officials-extend-international-flight-ban-through-may-31-control-measures-in-kathmandu-valley-until-at-least-may-27-update-44
-https://www.reuters.com/article/us-health-coronavirus-nepal-idINKCN25F13J
-https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+ https://perma.cc/E3ES-UG4X
+
+
+https://perma.cc/5335-FBH8
+
+
+https://perma.cc/ZBB4-2QWW
+
+
+https://perma.cc/UHY9-JMCU
+
+
+https://perma.cc/R7AQ-R27V
 
 
 
@@ -270,10 +283,16 @@ https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
  Secondary sources typically mention time limits for most measures that have come into effect in Nepal during the Covid-19 pandemic. Researchers for this project were unable to confirm through official versions of the emergency measures because these could not be translated from Nepali prior to publication of the dataset. They are often posted to social media and government websites as scanned images. Therefore, we have decided to code this case a "1" for emlimit because some evidence suggests that time limits exist. However, we are unable to determine the specific limit date for quarters. In addition, the overall legal instrument in use has no time limit. 
 
 *Sources*:
- https://covid19.mohp.gov.np
-https://mohp.gov.np/en
-https://www.garda.com/crisis24/news-alerts/477361/nepal-officials-extend-international-flight-ban-through-may-31-control-measures-in-kathmandu-valley-until-at-least-may-27-update-44
-https://www.reuters.com/article/us-health-coronavirus-nepal-idINKCN25F13J
+ https://perma.cc/E3ES-UG4X
+
+
+https://perma.cc/5335-FBH8
+
+
+https://perma.cc/ZBB4-2QWW
+
+
+https://perma.cc/UHY9-JMCU
 
 
 
@@ -315,7 +334,7 @@ https://www.reuters.com/article/us-health-coronavirus-nepal-idINKCN25F13J
  I did not find evidence suuggesting that the national legislature has to approve the implementation of the Infectious Disease Control Act 2020. 
 
 *Sources*:
- https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+ https://perma.cc/R7AQ-R27V
 
 
 
@@ -357,7 +376,7 @@ https://www.reuters.com/article/us-health-coronavirus-nepal-idINKCN25F13J
  I did not find evidence suuggesting that the national legislature formally approved of the implementation of the Infectious Disease Control Act 2020. 
 
 *Sources*:
- https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+ https://perma.cc/R7AQ-R27V
 
 
 
@@ -407,19 +426,14 @@ The Act isbroad. Section 2(1) can, "provide legal foundation for any government 
 The parliament was dissolved on December 20th, 2020, with elections planned for April 2021. The Supreme Court ruled that it was unconstitutional in February 2021 and the parliament was reinstated in March 2021. It was then dissolved again in May 2021, with elections planned for November 2021. Since the dissolutions were not due to Covid-19, they are not considered in the coding. 
 
 *Sources*:
- https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+ https://perma.cc/R7AQ-R27V
 [1]
 
-http://www.lawcommission.gov.np/en/archives/12240
-
-http://www.vertic.org/media/National%20Legislation/Nepal/NP_Infectious_Diseases_Act.pdf
-
-https://www.nytimes.com/2020/12/20/world/asia/nepal-parliament.html
-
-https://www.dw.com/en/nepals-parliament-dissolved-president-calls-for-fresh-elections/a-57628429
-
-
-https://www.nytimes.com/2021/05/22/world/asia/nepal-parliament-coronavirus.html
+https://perma.cc/DX7R-D9NN
+https://perma.cc/E896-56ZR
+https://perma.cc/MAB8-LYJQ
+https://perma.cc/3CBL-THXL
+https://perma.cc/S6HT-ZAPS
 
 
 
@@ -545,21 +559,13 @@ There was a lockdown in kathmandu Valley which was extended to September 16. I h
 On 29 April 2021, the Nepalese government implemented a lockdown in Kathmandu till 5 May 2021. 
 
 *Sources*:
- https://www.reuters.com/article/us-health-coronavirus-nepal/nepal-temporarily-bans-transport-and-gatherings-in-capital-due-to-rise-in-coronavirus-idUSKCN25F13J
-
-
-https://www.garda.com/crisis24/news-alerts/370551/nepal-transport-and-public-gatherings-banned-in-kathmandu-from-august-19-update-20
-
-
-https://www.nytimes.com/reuters/2020/08/19/world/asia/19reuters-health-coronavirus-nepal.html
-
-https://www.garda.com/crisis24/news-alerts/375366/nepal-lockdown-extended-in-kathmandu-valley-until-september-9-update-23
-
-https://www.garda.com/crisis24/news-alert-full-history/NFwHHc8bHk7PsJBQW/nepal-first-case-of-2019-ncov-confirmed-january-24
-
-https://www.osac.gov/Content/Report/325f64ac-fa01-40d6-a105-1b7384e46ea2
-
-https://www.garda.com/crisis24/news-alerts/469686/nepal-officials-implementing-tightened-domestic-rules-as-of-april-21-update-39
+ https://perma.cc/ZHK3-8PGV
+https://perma.cc/WJ6T-AX4P
+https://perma.cc/86SN-CHF8
+https://perma.cc/X7DG-B9YM
+https://perma.cc/Z3YH-QUFF
+https://perma.cc/B5LE-PN9W
+https://perma.cc/R4UF-5827
 
 
 
@@ -603,12 +609,13 @@ https://www.garda.com/crisis24/news-alerts/469686/nepal-officials-implementing-t
  I did not find evidence of the emergency measures discriminating "solely on the grounds of race, colour, sex, language, religion or social origin" across all the time periods. 
 
 *Sources*:
- https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
-
-http://www.lawcommission.gov.np/en/archives/12240
+ https://perma.cc/R7AQ-R27V
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/nepal/
+https://perma.cc/DX7R-D9NN
+
+
+https://perma.cc/8RKM-BW9T
 
 
 
@@ -657,10 +664,10 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/nepal/
  No violations of non-derogable rights have been found in or in relation to the government response to Covid-19 across all the time periods. 
 
 *Sources*:
- https://www.hrw.org/asia/nepal
+ https://perma.cc/C58D-G7RQ
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/nepal/
+https://perma.cc/S286-C5UT
 
 
 
@@ -704,16 +711,13 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/nepal/
  I did not come across new limitations on media freedom due to the emergency measures across all the time periods. 
 
 *Sources*:
- https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+ https://perma.cc/R7AQ-R27V
 
 
-
-http://www.lawcommission.gov.np/en/archives/12240
-
+https://perma.cc/DX7R-D9NN
 
 
-
-https://rsf.org/en/nepal
+https://perma.cc/F42Z-C26L
 
 
 
@@ -752,11 +756,10 @@ https://rsf.org/en/nepal
  There were no de-jure limits on media that were adopted based on the legal instrument employed which was the Infectious Disease Control Act 2020. 
 
 *Sources*:
- https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+ https://perma.cc/R7AQ-R27V
 
 
-
-http://www.lawcommission.gov.np/en/archives/12240
+https://perma.cc/DX7R-D9NN
 
 
 
@@ -795,11 +798,10 @@ http://www.lawcommission.gov.np/en/archives/12240
  There were no de-jure limits on media that were adopted based on the legal instrument employed which was the Infectious Disease Control Act 2020. 
 
 *Sources*:
- https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+ https://perma.cc/R7AQ-R27V
 
 
-
-http://www.lawcommission.gov.np/en/archives/12240
+https://perma.cc/DX7R-D9NN
 
 
 
@@ -843,14 +845,13 @@ http://www.lawcommission.gov.np/en/archives/12240
  
 
 *Sources*:
- https://rsf.org/en/news/nepalese-journalists-threatened-attacked-and-censored-over-covid-19-coverage
+ https://perma.cc/5YDB-23NR
 
 
-http://nepalpressfreedom.org/main/issue-single/1173
+https://perma.cc/S9WZ-P9QY
 
 
-
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/G5SY-6M3Y
 
 
 
@@ -901,20 +902,16 @@ I have not found new cases of the media facing de-facto limitations on reporting
 
 *Sources*:
  [1]
-https://rsf.org/en/news/nepalese-journalists-threatened-attacked-and-censored-over-covid-19-coverage
-
-
+https://perma.cc/5YDB-23NR
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/G5SY-6M3Y
 
 [3]
-https://cpj.org/2020/05/nepali-reporters-detained-threatened-while-reporti/
-
+https://perma.cc/J7R5-25F2
 [4]
-http://nepalpressfreedom.org/main/issue-single/1152
-
+https://perma.cc/9PF5-W7A3
 [5]
-https://cpj.org/2020/05/nepali-reporters-detained-threatened-while-reporti/
+https://perma.cc/J7R5-25F2
 
 
 
@@ -956,13 +953,19 @@ https://cpj.org/2020/05/nepali-reporters-detained-threatened-while-reporti/
  I did not find evidence of this occuring across all the time periods. 
 
 *Sources*:
- https://rsf.org/en/nepal
+ https://perma.cc/F42Z-C26L
 
-https://www.bbc.com/news/topics/cvenzmgyld1t/nepal
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/nepal/
+https://perma.cc/25QB-F4VC
 
-https://ipi.media/covid19-media-freedom-monitoring/
+
+https://perma.cc/S286-C5UT
+
+
+https://perma.cc/G5SY-6M3Y
+
+
+
 
 
 
@@ -1005,15 +1008,22 @@ https://ipi.media/covid19-media-freedom-monitoring/
  I did not find any information on this. 
 
 *Sources*:
- https://rsf.org/en/nepal
+ https://perma.cc/F42Z-C26L
 
-https://www.bbc.com/news/topics/cvenzmgyld1t/nepal
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/nepal/
+https://perma.cc/25QB-F4VC
 
-https://ipi.media/covid19-media-freedom-monitoring/
 
-https://en.ejo.ch/ethics-quality/nepal-coronavirus-and-the-media
+https://perma.cc/S286-C5UT
+
+
+https://perma.cc/G5SY-6M3Y
+
+
+https://perma.cc/F4ZT-8TD8
+
+
+
 
 
 
@@ -1061,16 +1071,13 @@ I have not found new cases of jounalists being verbally harrassed after reportin
 
 *Sources*:
  [1]
-https://rsf.org/en/news/nepalese-journalists-threatened-attacked-and-censored-over-covid-19-coverage
-
+https://perma.cc/5YDB-23NR
 [2]
-https://nepal24hours.com/fnj-khotang-protests-death-threat-to-journalist/
-
+https://perma.cc/7QBT-W2P7
 [3]
-https://cpj.org/2020/05/nepali-reporters-detained-threatened-while-reporti/
-
+https://perma.cc/J7R5-25F2
 [4]
-https://cpj.org/2020/05/nepali-reporters-detained-threatened-while-reporti/
+https://perma.cc/J7R5-25F2
 
 
 
@@ -1115,20 +1122,15 @@ I have not found new cases of jounalists being verbally harrassed after reportin
 
 *Sources*:
  [1]
-https://rsf.org/en/news/nepalese-journalists-threatened-attacked-and-censored-over-covid-19-coverage
-
-
+https://perma.cc/5YDB-23NR
 [2]
-https://cpj.org/2020/05/nepali-reporters-detained-threatened-while-reporti/
-
+https://perma.cc/J7R5-25F2
 [3]
-https://ipi.media/covid19-media-freedom-monitoring/
-
+https://perma.cc/G5SY-6M3Y
 [4]
-http://nepalpressfreedom.org/main/issue-single/1152
-
+https://perma.cc/9PF5-W7A3
 [5]
-https://ipi.media/covid19/?alert_type=0&language=0&years=0&country=nepal
+https://perma.cc/7AYP-KWKM
 
 
 
@@ -1172,15 +1174,19 @@ https://ipi.media/covid19/?alert_type=0&language=0&years=0&country=nepal
  I did not find any information on covid-19 related matters deviating from the official information provided by the WHO across all the time periods. 
 
 *Sources*:
- https://rsf.org/en/nepal
+ https://perma.cc/F42Z-C26L
 
-https://www.bbc.com/news/topics/cvenzmgyld1t/nepal
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/nepal/
+https://perma.cc/25QB-F4VC
 
-https://ipi.media/covid19-media-freedom-monitoring/
 
-https://en.ejo.ch/ethics-quality/nepal-coronavirus-and-the-media
+https://perma.cc/S286-C5UT
+
+
+https://perma.cc/G5SY-6M3Y
+
+
+https://perma.cc/F4ZT-8TD8
 
 
 
@@ -1227,17 +1233,13 @@ https://en.ejo.ch/ethics-quality/nepal-coronavirus-and-the-media
 
 *Sources*:
  [1]
-https://thehimalayantimes.com/nepal/police-use-improvised-man-catcher-stick-to-detain-lockdown-offenders-in-banke/
-
+https://perma.cc/FN6M-NNWA
 [2]
-https://www.orfonline.org/expert-speak/how-nepal-has-tried-to-tackle-the-covid19-pandemic-66173/
-
-
+https://perma.cc/YM4K-8UUK
 [3]
-https://www.aljazeera.com/news/2020/09/03/nepal-police-break-up-religious-rally-amid-coronavirus-surge/
-
+https://perma.cc/MC2T-7GTR
 [4]
-https://www.reuters.com/article/uk-health-coronavirus-nepal-festival-idUKKBN25U23G
+https://perma.cc/92WY-WN3N
 
 
 
@@ -1279,15 +1281,19 @@ https://www.reuters.com/article/uk-health-coronavirus-nepal-festival-idUKKBN25U2
  The Nepli army has been deployed in different parts of Nepal at different time periods to enforce the confinement measures. 
 
 *Sources*:
- https://kathmandupost.com/national/2020/05/18/nepal-army-patrolling-the-streets-raises-alarm-leading-many-to-question-why-the-defence-force-was-mobilised
+ https://perma.cc/6CYT-UHSD
 
 
-https://risingnepaldaily.com/mustread/army-mobilised-in-birgunj-to-enforce-prohibitory-order
+https://perma.cc/JT3A-G4AA
 
 
-https://www.garda.com/crisis24/news-alerts/338041/nepal-security-personnel-enforce-covid-19-restrictions-in-nawalparasi-april-29
+https://perma.cc/46EC-7QG8
 
-https://researchportal.northumbria.ac.uk/ws/portalfiles/portal/43194666/verfassungsblog.de_Emergency_Law_Responses_and_Conflict_Affected_States_in_Transition.pdf
 
-https://www.osac.gov/Content/Report/325f64ac-fa01-40d6-a105-1b7384e46ea2
-https://thehimalayantimes.com/kathmandu/deploy-army-at-valley-entry-checkposts-ease-lockdown
+https://perma.cc/G2B2-9MTL
+
+
+https://perma.cc/NQC4-JKQM
+
+
+https://perma.cc/7L2K-592G

@@ -46,7 +46,7 @@
 
 *Sources*:
  [1]
-http://www.in.gov.br/web/dou/-/portaria-n-188-de-3-de-fevereiro-de-2020-241408388
+https://perma.cc/S3VB-53HC
 
 
 
@@ -86,7 +86,7 @@ http://www.in.gov.br/web/dou/-/portaria-n-188-de-3-de-fevereiro-de-2020-24140838
 
 *Sources*:
  [1]
-http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Decreto/D7616.htm
+https://perma.cc/X5NV-KP8P
 
 
 
@@ -126,7 +126,7 @@ http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Decreto/D7616.htm
 
 *Sources*:
  [1]
-http://www.in.gov.br/web/dou/-/portaria-n-188-de-3-de-fevereiro-de-2020-241408388
+https://perma.cc/E89K-D27F
 
 
 
@@ -166,7 +166,7 @@ http://www.in.gov.br/web/dou/-/portaria-n-188-de-3-de-fevereiro-de-2020-24140838
 
 *Sources*:
  [1]
-http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-covid-19
+https://perma.cc/9Y68-9KJE
 
 
 
@@ -209,7 +209,7 @@ http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-covid-19
 
 *Sources*:
  [1]
-http://www.in.gov.br/web/dou/-/portaria-n-188-de-3-de-fevereiro-de-2020-241408388
+https://perma.cc/N2MG-T73A
 
 
 
@@ -249,7 +249,7 @@ http://www.in.gov.br/web/dou/-/portaria-n-188-de-3-de-fevereiro-de-2020-24140838
 
 *Sources*:
  [1]
-http://www.in.gov.br/web/dou/-/portaria-n-188-de-3-de-fevereiro-de-2020-241408388
+https://perma.cc/5V8E-B5ZB
 
 
 
@@ -292,7 +292,7 @@ http://www.in.gov.br/web/dou/-/portaria-n-188-de-3-de-fevereiro-de-2020-24140838
 
 *Sources*:
  [1]
-http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Decreto/D7616.htm
+https://perma.cc/WC7Q-KSB5
 
 
 
@@ -335,7 +335,7 @@ http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Decreto/D7616.htm
 
 *Sources*:
  [1]
-http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Decreto/D7616.htm
+https://perma.cc/Q94S-AZ33
 
 
 
@@ -382,9 +382,9 @@ http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Decreto/D7616.htm
 
 *Sources*:
  [1]
-https://www.camara.leg.br/assessoria-de-imprensa/649450-sessoes-da-camara-sao-realizadas-pelo-plenario-virtual-durante-medidas-de-combate-a-propagacao-da-covid-19/
+https://perma.cc/MB5K-NJ4G
 [2]
-http://www.in.gov.br/web/dou/-/portaria-n-188-de-3-de-fevereiro-de-2020-241408388
+https://perma.cc/EYQ5-ETMM
 
 
 
@@ -507,9 +507,9 @@ http://www.in.gov.br/web/dou/-/portaria-n-188-de-3-de-fevereiro-de-2020-24140838
 
 *Sources*:
  [1]
-http://www.stf.jus.br/portal/cms/verNoticiaDetalhe.asp?idConteudo=441447
+https://perma.cc/UK4B-HEJP
 [2]
-https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/09/saiba-onde-ja-foi-decretado-o-lockdown-no-brasil.htm
+https://perma.cc/VRM4-CCL4
 
 
 
@@ -554,11 +554,13 @@ https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/09/saiba-onde
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/brazil/
+https://perma.cc/Q9SV-NAVN
+
 [2]
-https://www.hrw.org/americas/brazil
+https://perma.cc/R727-G9AG
+
 [3]
-https://monitor.civicus.org/country/brazil/
+https://perma.cc/UY7V-T2B8
 
 
 
@@ -608,11 +610,11 @@ https://monitor.civicus.org/country/brazil/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/brazil/
+https://perma.cc/78VX-PKX8
 [2]
-https://www.hrw.org/americas/brazil
+https://perma.cc/D7VM-8DQ5
 [3]
-https://monitor.civicus.org/country/brazil/
+https://perma.cc/D22Z-RBU2
 
 
 
@@ -657,11 +659,11 @@ https://monitor.civicus.org/country/brazil/
 
 *Sources*:
  [1]
-http://www.in.gov.br/web/dou/-/portaria-n-188-de-3-de-fevereiro-de-2020-241408388
+https://perma.cc/8MDX-VSC6
 [2]
-http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-covid-19
+https://perma.cc/5WC8-RVAL
 [3]
-https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2020/03/planalto-enfatiza-a-imprensa-como-servico-indispensavel-durante-combate-ao-coronavirus
+https://perma.cc/M5UU-6F2A
 
 
 
@@ -782,13 +784,13 @@ https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2020/03/planalto
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/N5RT-VWYJ
 [2]
-https://ipi.media/covid19/?alert_type=0&language=0&years=0&country=brazil
+https://perma.cc/T3KB-BATM
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/98L6-HY4J
 [4]
-https://cpj.org/americas/brazil/
+https://perma.cc/5WTP-2XZ9
 
 
 
@@ -831,13 +833,13 @@ https://cpj.org/americas/brazil/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/N5RT-VWYJ
 [2]
-https://ipi.media/covid19/?alert_type=0&language=0&years=0&country=brazil
+https://perma.cc/T3KB-BATM
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/98L6-HY4J
 [4]
-https://cpj.org/americas/brazil/
+https://perma.cc/5WTP-2XZ9
 
 
 
@@ -880,13 +882,13 @@ https://cpj.org/americas/brazil/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/N5RT-VWYJ
 [2]
-https://ipi.media/covid19/?alert_type=0&language=0&years=0&country=brazil
+https://perma.cc/T3KB-BATM
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/98L6-HY4J
 [4]
-https://cpj.org/americas/brazil/
+https://perma.cc/5WTP-2XZ9
 
 
 
@@ -932,19 +934,17 @@ No evidence of limitations on access to information was found after June.
 
 *Sources*:
  [1]
-https://www.washingtonpost.com/world/the_americas/coronavirus-brazil-bolsonaro-official-death-count-case/2020/06/07/73a713f4-a8cf-11ea-a9d9-a81c1a491c52_story.html
+https://perma.cc/GB99-3YBH
 [2]
-https://www.bbc.com/news/world-latin-america-52952686
-
+https://perma.cc/U2VS-W3BD
 [3]
-https://www.dw.com/pt-br/governo-volta-a-divulgar-dados-completos-da-covid-19/a-53753283
+https://perma.cc/C8EB-D9UD
 [4]
-https://www12.senado.leg.br/noticias/materias/2020/03/24/medida-provisoria-suspende-prazos-de-respostas-via-lei-de-acesso-a-informacao
+https://perma.cc/4X2H-VDAT
 [5]
-https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/141147
-
+https://perma.cc/A6J2-2Q9E
 [6]
-https://www12.senado.leg.br/noticias/materias/2020/04/30/stf-confirma-decisao-que-impede-restricoes-na-lei-de-acesso-a-informacao
+https://perma.cc/7N3Z-DVU4
 
 
 
@@ -987,25 +987,25 @@ https://www12.senado.leg.br/noticias/materias/2020/04/30/stf-confirma-decisao-qu
 
 *Sources*:
  [1]
-https://rsf.org/en/news/brazils-president-attacks-media-instead-combatting-coronavirus
+https://perma.cc/542E-7XJS
 [2]
-https://www.theguardian.com/world/2020/mar/23/brazils-jair-bolsonaro-says-coronavirus-crisis-is-a-media-trick
+https://perma.cc/8W6P-YDGS
 [3]
-https://www.theguardian.com/world/2020/mar/25/bolsonaro-brazil-wouldnt-feel-anything-covid-19-attack-state-lockdowns
+https://perma.cc/9GEH-NWZ9
 [4]
-https://www1.folha.uol.com.br/poder/2020/08/em-evento-pro-cloroquina-bolsonaro-diz-que-jornalista-bundao-tem-mais-chance-de-morrer-de-coronavirus.shtml
+https://perma.cc/8536-VS2D
 [5]
-https://www.reuters.com/article/us-brazil-politics/brazils-bolsonaro-says-journalist-wimps-more-likely-to-die-of-covid-19-idUSKBN25K2G3
-[6]
-https://rsf.org/en/reports/rsf-tallied-580-attacks-against-media-brazil-2020
+https://perma.cc/6C5N-YB3U
+6[]
+https://perma.cc/MJR6-3YQ3
 [7]
-https://www1.folha.uol.com.br/poder/2021/03/puxadas-por-bolsonaro-e-apoiadores-agressoes-a-jornalistas-crescem-168-em-2020-aponta-relatorio.shtml
+https://perma.cc/8NLA-6HJD
 [8]
-https://www1.folha.uol.com.br/equilibrioesaude/2021/03/para-a-midia-o-virus-sou-eu-diz-bolsonaro-no-apice-da-pandemia-no-brasil.shtml
+https://perma.cc/45TS-CW4F
 [9]
-https://politica.estadao.com.br/noticias/geral,bolsonaro-critica-facebook-e-diz-que-o-certo-seria-tirar-jornais-de-circulacao,70003617545
+https://perma.cc/F2XB-WLPP
 [10]
-https://www.nexojornal.com.br/expresso/2021/01/13/A-amea%C3%A7a-%C3%A0-Rep%C3%B3rter-Brasil.-E-a-alta-de-ataques-%C3%A0-imprensa
+https://perma.cc/9PCN-K7EX
 
 
 
@@ -1048,9 +1048,9 @@ https://www.nexojornal.com.br/expresso/2021/01/13/A-amea%C3%A7a-%C3%A0-Rep%C3%B3
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/E2QL-2HWY
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/WQ3W-A7BW
 
 
 
@@ -1095,47 +1095,48 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 *Sources*:
  [1]
-https://www1.folha.uol.com.br/internacional/en/brazil/2020/03/twitter-deletes-bolsonaros-tweets.shtml
+https://perma.cc/9HWD-VCG9
 [2]
-https://www1.folha.uol.com.br/poder/2020/05/deputados-divulgam-fake-news-sobre-coronavirus-para-ecoar-discurso-de-bolsonaro.shtml
+https://perma.cc/MTR3-LBPN
 [3]
-https://www.bbc.com/news/world-latin-america-52739734
+https://perma.cc/P7TS-HZ2F
 [4]
-https://www.bbc.com/news/world-latin-america-53712087
+https://perma.cc/C3GX-KPBV
 [5]
-https://www.theguardian.com/world/2020/mar/19/coronavirus-bolsonaro-son-china-row
+https://perma.cc/5M5F-RJGK
 [6]
-https://www.theguardian.com/world/2020/mar/23/brazils-jair-bolsonaro-says-coronavirus-crisis-is-a-media-trick
+https://perma.cc/4X35-E437
 [7]
-https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/02/bolsonaro-volta-a-defender-cloroquina-quem-reclama-de-alternativa.htm
+https://perma.cc/JH3M-RPT5
 [8]
-https://www.independent.co.uk/news/world/americas/coronavirus-brazil-minister-abraham-weintraub-racist-tweet-china-a9452651.html
+https://perma.cc/8NV7-66H2
 [9]
-https://www.reuters.com/article/us-health-coronavirus-brazil/brazils-bolsonaro-infected-with-covid-19-touts-unproven-drug-idUSKCN24G2XR
+https://perma.cc/8B5E-44V3
 [10]
-https://www.nytimes.com/2020/07/08/world/americas/brazil-bolsonaro-covid-coronavirus.html
+https://perma.cc/T8LT-8VKZ
 [11]
-https://www.hrw.org/news/2020/07/08/covid-19-catches-brazils-president
+https://perma.cc/376B-QU82
 [12]
-https://www.hrw.org/news/2020/04/10/brazil-bolsonaro-sabotages-anti-covid-19-efforts
+https://perma.cc/W3TR-4AG9
 [13]
-https://politica.estadao.com.br/noticias/geral,cloroquina-e-hidroxicloroquina-veja-o-que-bolsonaro-ja-falou-sobre-os-medicamentos,70003357546
+https://perma.cc/B9AC-AE5M
 [14]
-https://www.sciencemag.org/news/2020/10/another-piece-populist-propaganda-critics-slam-brazilian-government-s-new-covid-19-drug
+https://perma.cc/2FAM-F8V7
 [15]
-https://www1.folha.uol.com.br/cotidiano/2020/10/governo-usa-grafico-generico-para-dizer-que-vermifugo-tem-eficacia-contra-covid.shtml
+https://perma.cc/JM7Y-YQXJ
 [16]
-https://apnews.com/article/virus-outbreak-brazil-state-governments-health-sao-paulo-b7b5b620ba54f402dbf803e26fe6b842
+https://perma.cc/3G7T-KXC2
 [17]
-https://noticias.uol.com.br/confere/ultimas-noticias/2021/04/01/live-bolsonaro-confere-1-de-abril-coronavirus-covid-19-governo-federal.htm
+https://perma.cc/TJ3X-R8N4
 [18]
-https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2021/04/02/bolsonaro-volta-a-criticar-isolamento-social-no-pior-momento-da-pandemia.htm
+https://perma.cc/VDP3-84FS
 [19]
-https://oglobo.globo.com/brasil/sem-mascara-ao-lado-de-braga-netto-bolsonaro-diz-que-sua-guerra-nao-politica-ao-criticar-isolamento-social-1-24954600
+https://perma.cc/4XSM-PE3X
 [20]
-https://www1.folha.uol.com.br/equilibrioesaude/2021/04/guedes-diz-que-chines-inventou-o-virus-e-tem-vacina-menos-eficiente-do-que-os-eua.shtml
+https://perma.cc/2BXD-KY2H
 [21]
-https://www.uol.com.br/tilt/noticias/redacao/2021/04/23/youtube-exclui-mais-quatro-videos-de-bolsonaro-por-desinformacao.htm
+https://perma.cc/4KNC-YSPV
+
 
 
 
@@ -1180,23 +1181,23 @@ https://www.uol.com.br/tilt/noticias/redacao/2021/04/23/youtube-exclui-mais-quat
 
 *Sources*:
  [1]
-https://g1.globo.com/sp/sao-carlos-regiao/noticia/2020/04/13/mulher-morde-guarda-municipal-ao-ser-detida-por-caminhar-em-praca-de-araraquara.ghtml
+https://perma.cc/HRM7-ZS7B
 [2]
-https://www.em.com.br/app/noticia/gerais/2020/07/17/interna_gerais,1167809/clientes-aglomerados-restaurante-bh-causam-confusao-guarda-municipal.shtml
+https://perma.cc/Q6PZ-FPD9
 [3]
-https://noticias.uol.com.br/cotidiano/ultimas-noticias/2021/02/14/pm-entra-em-conflito-com-folioes-ao-dispersar-aglomeracao-no-espirito-santo.htm
+https://perma.cc/6U88-ZKN9
 [4]
-https://g1.globo.com/al/alagoas/noticia/2021/02/15/policia-dispara-bala-de-borracha-para-dispersar-aglomeracao-durante-festa-de-aniversario-em-maceio.ghtml
+https://perma.cc/V2ZQ-YNMT
 [5]
-https://g1.globo.com/sp/bauru-marilia/noticia/2021/01/01/pm-dispersa-aglomeracao-com-bombas-de-gas-lacrimogenio-na-noite-do-ano-novo-em-garca.ghtml
+https://perma.cc/H3JT-N9YQ
 [6]
-https://www.cnnbrasil.com.br/nacional/2021/01/01/pm-dispersa-aglomeracao-em-praia-na-riviera-de-sao-lourenco-no-litoral-de-sp
+https://perma.cc/3QT5-C2VN
 [7]
-https://www1.folha.uol.com.br/poder/2021/05/manifestacao-contra-bolsonaro-no-recife-e-encerrada-com-bombas-e-correria-veja-video.shtml
+https://perma.cc/DB9X-LUAN
 [8]
-https://g1.globo.com/jornal-nacional/noticia/2021/06/01/imagens-feitas-por-moradores-do-recife-comprovam-emprego-de-violencia-por-pms-em-protesto-contra-bolsonaro.ghtml
+https://perma.cc/FVE9-SV2Q
 [9]
-https://www.nexojornal.com.br/expresso/2021/05/29/Como-foi-o-protesto-nacional-da-oposi%C3%A7%C3%A3o-contra-Bolsonaro
+https://perma.cc/Q9NW-G4F2
 
 
 
@@ -1239,6 +1240,6 @@ https://www.nexojornal.com.br/expresso/2021/05/29/Como-foi-o-protesto-nacional-d
 
 *Sources*:
  [1]
-https://jc.ne10.uol.com.br/pernambuco/2020/05/5608188-emprego-de-tropa-para-lockdown-em-pernambuco-so-com-aval-da-defesa--diz-comando-militar.html
+https://perma.cc/D3PU-DXH8
 [2]
-https://www.poder360.com.br/governo/bolsonaro-meu-exercito-nao-vai-para-a-rua-obrigar-o-povo-a-ficar-em-casa/
+https://perma.cc/T4YJ-S7SU

@@ -45,27 +45,34 @@
  In Q2 of 2020, Papua New Guinea declared a state of emergency under Chapter X: Emergency Provisions in the constitution. This is therefore coded as 1. Note however that when this ended on June 16 2020, PNG replaced it with the National Pandemic Act which allows for numerous emergency measures in relation to Covid-19. This act is still in place, and has been used to enforce strict emergency measures during 2021 as well. After Q2 of 2020, this is therefore coded as 4. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Papua_New_Guinea_2016.pdf?lang=en
-
-https://www.coronanet-project.org/data/reports/finished/20200620_Papua.html
-
-https://www.garda.com/crisis24/news-alerts/325816/papua-new-guinea-state-of-emergency-comes-into-effect-march-24-update-2
-
-https://www.theguardian.com/world/2020/mar/23/papua-new-guinea-declares-state-of-emergency-after-first-coronavirus-case
-
-https://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-response-to-Covid-19---emergency-legal-regime/
-
-https://covid19.info.gov.pg/
-
-https://www.theguardian.com/world/2021/mar/18/papua-new-guinea-to-impose-month-long-restrictions-as-covid-outbreak-spirals
-
-http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
-
-http://www.parliament.gov.pg/index.php/bills-and-legislation/view/national-pandemic-act-2020
-
-https://www.garda.com/crisis24/news-alerts/480906/papua-new-guinea-authorities-easing-some-Covid-19-restrictions-nationwide-as-of-may-20-update-31
+ https://perma.cc/3FAJ-23LM
 
 
+https://perma.cc/8N8W-MT2F
+
+
+https://perma.cc/6ZZK-JYWL
+
+
+https://perma.cc/952C-AM3U
+
+
+https://perma.cc/Q2RX-96KB
+
+
+https://perma.cc/K4MB-U7FC
+
+
+https://perma.cc/TTG8-USLN
+
+
+https://perma.cc/RAM8-G9JC
+
+
+https://perma.cc/XG77-GPEH
+
+
+https://perma.cc/DZ23-R7F8
 
 
 
@@ -104,12 +111,13 @@ https://www.garda.com/crisis24/news-alerts/480906/papua-new-guinea-authorities-e
 *No comment provided* 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Papua_New_Guinea_2016.pdf?lang=en
-http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
+ https://perma.cc/WW75-R3XL
 
-http://www.parliament.gov.pg/index.php/bills-and-legislation/view/national-pandemic-act-2020
 
- 
+https://perma.cc/6QRR-ZCRJ
+
+
+https://perma.cc/Z744-YE8N
 
 
 
@@ -148,21 +156,28 @@ http://www.parliament.gov.pg/index.php/bills-and-legislation/view/national-pande
 *No comment provided* 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Papua_New_Guinea_2016.pdf?lang=en
+ https://perma.cc/HB9W-WQET
 
-https://www.coronanet-project.org/data/reports/finished/20200620_Papua.html
 
-https://www.garda.com/crisis24/news-alerts/325816/papua-new-guinea-state-of-emergency-comes-into-effect-march-24-update-2
+https://perma.cc/CW63-FZVB
 
-https://www.theguardian.com/world/2020/mar/23/papua-new-guinea-declares-state-of-emergency-after-first-coronavirus-case
 
-https://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-response-to-Covid-19---emergency-legal-regime/
+https://perma.cc/274S-XG5X
 
-https://covid19.info.gov.pg/
 
-http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
+https://perma.cc/88VL-9NS7
 
-http://www.parliament.gov.pg/index.php/bills-and-legislation/view/national-pandemic-act-2020
+
+https://perma.cc/L82Y-PXLQ
+
+
+https://perma.cc/HJ5M-5DB8
+
+
+https://perma.cc/L8ZW-6LLG
+
+
+https://perma.cc/WY89-Z4DR
 
 
 
@@ -201,21 +216,28 @@ http://www.parliament.gov.pg/index.php/bills-and-legislation/view/national-pande
  The state of emergency was extended a couple of times, but was not extended beyond June 16 2020, and has thus ended. However, on June 16 2020, it was replaced with the National Pandemic Act, which transfers most emergency powers to this law. These are still in force, and PNG had extensive Covid-19 measures during the spring of 2021. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Papua_New_Guinea_2016.pdf?lang=en
+ https://perma.cc/7EJF-5UZL
 
-https://www.coronanet-project.org/data/reports/finished/20200620_Papua.html
 
-https://www.garda.com/crisis24/news-alerts/325816/papua-new-guinea-state-of-emergency-comes-into-effect-march-24-update-2
+https://perma.cc/C59P-BLHP
 
-https://www.theguardian.com/world/2020/mar/23/papua-new-guinea-declares-state-of-emergency-after-first-coronavirus-case
 
-https://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-response-to-Covid-19---emergency-legal-regime/
+https://perma.cc/MTL7-U383
 
-https://covid19.info.gov.pg/
 
-http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
+https://perma.cc/2H85-QNH9
 
-http://www.parliament.gov.pg/index.php/bills-and-legislation/view/national-pandemic-act-2020
+
+https://perma.cc/4A9B-BWZ9
+
+
+https://perma.cc/35T7-2YTN
+
+
+https://perma.cc/R9AH-GDJT
+
+
+https://perma.cc/8SXG-3N5A
 
 
 
@@ -257,25 +279,34 @@ http://www.parliament.gov.pg/index.php/bills-and-legislation/view/national-pande
  The state of emergency was initially declared to be in place for two weeks, and did end after some extensions, the last one being set to 2020-06-16. The new emergency legislation, the National Pandemic Act, however is in effect and has no declared end date. This came into force in the late part of Q2 of 2020, and thus accounted for there as well (although the SoE had a declared end date, as noted above). For the Pandemic Act, measures under it can be active as long as a pandemic is declared under it. Therefore, there is currently no time limit to the emergency measures, but there was time limits under the initial state of emergency. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Papua_New_Guinea_2016.pdf?lang=en
+ https://perma.cc/3FAJ-23LM
 
-https://www.coronanet-project.org/data/reports/finished/20200620_Papua.html
 
-https://www.garda.com/crisis24/news-alerts/325816/papua-new-guinea-state-of-emergency-comes-into-effect-march-24-update-2
+https://perma.cc/8N8W-MT2F
 
-https://www.theguardian.com/world/2020/mar/23/papua-new-guinea-declares-state-of-emergency-after-first-coronavirus-case
 
-https://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-response-to-Covid-19---emergency-legal-regime/
+https://perma.cc/6ZZK-JYWL
 
-https://covid19.info.gov.pg/
 
-https://www.theguardian.com/world/2021/mar/18/papua-new-guinea-to-impose-month-long-restrictions-as-covid-outbreak-spirals
+https://perma.cc/952C-AM3U
 
-http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
 
-http://www.parliament.gov.pg/index.php/bills-and-legislation/view/national-pandemic-act-2020
+https://perma.cc/Q2RX-96KB
 
-https://www.garda.com/crisis24/news-alerts/480906/papua-new-guinea-authorities-easing-some-Covid-19-restrictions-nationwide-as-of-may-20-update-31
+
+https://perma.cc/K4MB-U7FC
+
+
+https://perma.cc/TTG8-USLN
+
+
+https://perma.cc/RAM8-G9JC
+
+
+https://perma.cc/XG77-GPEH
+
+
+https://perma.cc/DZ23-R7F8
 
 
 
@@ -314,25 +345,34 @@ https://www.garda.com/crisis24/news-alerts/480906/papua-new-guinea-authorities-e
  The state of emergency was initially declared to be in place for two weeks, and did end after some extensions, the last one being set to 2020-06-16. The new emergency legislation, the National Pandemic Act, however is in effect and has no declared end date. This came into force in the late part of Q2 of 2020, and thus accounted for there as well (although the SoE had a declared end date, as noted above). For the Pandemic Act, measures under it can be active as long as a pandemic is declared under it. Therefore, there is currently no time limit to the emergency measures, but there was time limits under the initial state of emergency. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Papua_New_Guinea_2016.pdf?lang=en
+ https://perma.cc/3FAJ-23LM
 
-https://www.coronanet-project.org/data/reports/finished/20200620_Papua.html
 
-https://www.garda.com/crisis24/news-alerts/325816/papua-new-guinea-state-of-emergency-comes-into-effect-march-24-update-2
+https://perma.cc/8N8W-MT2F
 
-https://www.theguardian.com/world/2020/mar/23/papua-new-guinea-declares-state-of-emergency-after-first-coronavirus-case
 
-https://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-response-to-Covid-19---emergency-legal-regime/
+https://perma.cc/6ZZK-JYWL
 
-https://covid19.info.gov.pg/
 
-https://www.theguardian.com/world/2021/mar/18/papua-new-guinea-to-impose-month-long-restrictions-as-covid-outbreak-spirals
+https://perma.cc/952C-AM3U
 
-http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
 
-http://www.parliament.gov.pg/index.php/bills-and-legislation/view/national-pandemic-act-2020
+https://perma.cc/Q2RX-96KB
 
-https://www.garda.com/crisis24/news-alerts/480906/papua-new-guinea-authorities-easing-some-Covid-19-restrictions-nationwide-as-of-may-20-update-31
+
+https://perma.cc/K4MB-U7FC
+
+
+https://perma.cc/TTG8-USLN
+
+
+https://perma.cc/RAM8-G9JC
+
+
+https://perma.cc/XG77-GPEH
+
+
+https://perma.cc/DZ23-R7F8
 
 
 
@@ -374,25 +414,34 @@ https://www.garda.com/crisis24/news-alerts/480906/papua-new-guinea-authorities-e
  The head of state is allowed to declare a state of national emergency/pandemic situation without needing parliamentary approval (laws made under this state of emergency - emergency laws - does need parliamentary approval however). For the Pandemic Act, this in itself was passed by parliament. However, the activation of that instrument which enables all measures requires no involvement of parliament, as the head of state declares a pandemic situation which triggers available measures (Para 4; National Pandemic act). Thus, this is coded 0 for all periods. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Papua_New_Guinea_2016.pdf?lang=en
+ https://perma.cc/3FAJ-23LM
 
-https://www.coronanet-project.org/data/reports/finished/20200620_Papua.html
 
-https://www.garda.com/crisis24/news-alerts/325816/papua-new-guinea-state-of-emergency-comes-into-effect-march-24-update-2
+https://perma.cc/8N8W-MT2F
 
-https://www.theguardian.com/world/2020/mar/23/papua-new-guinea-declares-state-of-emergency-after-first-coronavirus-case
 
-https://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-response-to-Covid-19---emergency-legal-regime/
+https://perma.cc/6ZZK-JYWL
 
-https://covid19.info.gov.pg/
 
-https://www.theguardian.com/world/2021/mar/18/papua-new-guinea-to-impose-month-long-restrictions-as-covid-outbreak-spirals
+https://perma.cc/952C-AM3U
 
-http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
 
-http://www.parliament.gov.pg/index.php/bills-and-legislation/view/national-pandemic-act-2020
+https://perma.cc/Q2RX-96KB
 
-https://www.garda.com/crisis24/news-alerts/480906/papua-new-guinea-authorities-easing-some-Covid-19-restrictions-nationwide-as-of-may-20-update-31
+
+https://perma.cc/K4MB-U7FC
+
+
+https://perma.cc/TTG8-USLN
+
+
+https://perma.cc/RAM8-G9JC
+
+
+https://perma.cc/XG77-GPEH
+
+
+https://perma.cc/DZ23-R7F8
 
 
 
@@ -434,25 +483,34 @@ https://www.garda.com/crisis24/news-alerts/480906/papua-new-guinea-authorities-e
  The head of state is allowed to declare a state of national emergency/pandemic situation without needing parliamentary approval (laws made under this state of emergency - emergency laws - does need parliamentary approval however). For the Pandemic Act, this in itself was passed by parliament. However, the activation of that instrument which enables all measures requires no involvement of parliament, as the head of state declares a pandemic situation which triggers available measures (Para 4; National Pandemic act). Thus, this is coded 0 for all periods. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Papua_New_Guinea_2016.pdf?lang=en
+ https://perma.cc/3FAJ-23LM
 
-https://www.coronanet-project.org/data/reports/finished/20200620_Papua.html
 
-https://www.garda.com/crisis24/news-alerts/325816/papua-new-guinea-state-of-emergency-comes-into-effect-march-24-update-2
+https://perma.cc/8N8W-MT2F
 
-https://www.theguardian.com/world/2020/mar/23/papua-new-guinea-declares-state-of-emergency-after-first-coronavirus-case
 
-https://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-response-to-Covid-19---emergency-legal-regime/
+https://perma.cc/6ZZK-JYWL
 
-https://covid19.info.gov.pg/
 
-https://www.theguardian.com/world/2021/mar/18/papua-new-guinea-to-impose-month-long-restrictions-as-covid-outbreak-spirals
+https://perma.cc/952C-AM3U
 
-http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
 
-http://www.parliament.gov.pg/index.php/bills-and-legislation/view/national-pandemic-act-2020
+https://perma.cc/Q2RX-96KB
 
-https://www.garda.com/crisis24/news-alerts/480906/papua-new-guinea-authorities-easing-some-Covid-19-restrictions-nationwide-as-of-may-20-update-31
+
+https://perma.cc/K4MB-U7FC
+
+
+https://perma.cc/TTG8-USLN
+
+
+https://perma.cc/RAM8-G9JC
+
+
+https://perma.cc/XG77-GPEH
+
+
+https://perma.cc/DZ23-R7F8
 
 
 
@@ -499,27 +557,16 @@ https://www.garda.com/crisis24/news-alerts/480906/papua-new-guinea-authorities-e
 For Q3-4 of 2020 and Q1-2 of 2021, which has the Pandemic Act as the main legal instrument, there is a similar situation – after a declaration of a pandemic situation, a national control group is formed that takes most decisions and has the right to issue orders and decrees related to combatting a disease. They are obligated to report to the parliament, which also has some capacity to oversee and question measures, but effectively this control group determines the Pandemic response, but within a limited set of measures related to limiting spread of diseases. This is therefore coded 2 for these periods as well. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Papua_New_Guinea_2016.pdf?lang=en
+ https://perma.cc/3M3Z-GCP2
 
-https://www.coronanet-project.org/data/reports/finished/20200620_Papua.html
+https://perma.cc/7PRR-DYE9
+https://perma.cc/8YEW-VQQL
+https://perma.cc/Y9VY-H84E
+https://perma.cc/TNR2-6CG5
+https://perma.cc/H74W-ZDGR
+https://perma.cc/5JDT-VCK3
 
-https://www.garda.com/crisis24/news-alerts/325816/papua-new-guinea-state-of-emergency-comes-into-effect-march-24-update-2
-
-https://www.theguardian.com/world/2020/mar/23/papua-new-guinea-declares-state-of-emergency-after-first-coronavirus-case
-
-https://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-response-to-Covid-19---emergency-legal-regime/
-
-https://covid19.info.gov.pg/
-
-https://www.theguardian.com/world/2021/mar/18/papua-new-guinea-to-impose-month-long-restrictions-as-covid-outbreak-spirals
-
-http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
-
-http://www.parliament.gov.pg/index.php/bills-and-legislation/view/national-pandemic-act-2020
-
-https://www.garda.com/crisis24/news-alerts/480906/papua-new-guinea-authorities-easing-some-Covid-19-restrictions-nationwide-as-of-may-20-update-31
-
- 
+https://perma.cc/8B5R-T8BR
 
 
 
@@ -641,17 +688,25 @@ https://www.garda.com/crisis24/news-alerts/480906/papua-new-guinea-authorities-e
  Papua New Guinea have taken many nationwide emergency measures such as school closings, lockdowns, quarantine rules and the like. However, within this, there have also been some regional variation in that some regions have imposed additional measures or prolonged those already in place, such as curfews, travel restrictions and limits on public gatherings. This is therefore coded as 2. For Q1 and Q2 of 2021, however, restrictions have been more homogenous and PNG have issued extensive measures nationwide to combat larger outbreaks than previously. Within this, some smaller sub-national variation has still existed, and this is therefore coded as 1 for these periods. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-https://www.garda.com/crisis24/news-alerts/369806/papua-new-guinea-bougainville-government-extends-state-of-emergency-through-september-1-update-17
-https://www.garda.com/crisis24/news-alerts/363881/papua-new-guinea-lockdown-imposed-in-port-moresby-as-Covid-19-cases-triple-july-28-update-14
+ https://perma.cc/M8ES-HRKM
 
-https://www.garda.com/crisis24/news-alerts/480906/papua-new-guinea-authorities-easing-some-Covid-19-restrictions-nationwide-as-of-may-20-update-31
 
-https://www.garda.com/crisis24/news-alerts/472911/papua-new-guinea-authorities-maintaining-Covid-19-restrictions-nationwide-as-of-april-29-update-30
+https://perma.cc/M5B8-ZJNZ
 
-https://www.garda.com/crisis24/news-alerts/452771/papua-new-guinea-authorities-tightening-Covid-19-restrictions-in-morobe-province-through-march-19
 
-https://www.garda.com/crisis24/news-alerts/431236/papua-new-guinea-authorities-expand-Covid-19-restrictions-nationwide-as-of-jan-19-update-25
+https://perma.cc/NYZ5-MN2X
+
+
+https://perma.cc/8WY4-BWM5
+
+
+https://perma.cc/X4RG-XG8F
+
+
+https://perma.cc/PG29-GRUG
+
+
+https://perma.cc/EVQ7-XQYN
 
 
 
@@ -695,10 +750,13 @@ https://www.garda.com/crisis24/news-alerts/431236/papua-new-guinea-authorities-e
  Human Rights Watch and Amnesty International have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9566
-https://www.amnesty.org/en/search/?country=38395&resourceType=newsarticle&sort=date
+ https://perma.cc/S4BD-BPCG
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/papua-new-guinea/
+
+https://perma.cc/5RZH-6TVG
+
+
+https://perma.cc/5JJ6-PMMJ
 
 
 
@@ -747,10 +805,13 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/pap
  No reports on violations of non-derogable rights have been found, and there are no indications of such occurences in the PNG response to Covid-19. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9566
-https://www.amnesty.org/en/search/?country=38395&resourceType=newsarticle&sort=date
+ https://perma.cc/9SHT-B4DG
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/papua-new-guinea/
+
+https://perma.cc/QT7W-7NS5
+
+
+https://perma.cc/AM5Z-QHJY
 
 
 
@@ -795,11 +856,13 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/pap
 This is a direct limitation of media reporting on Covid-19, as it bans ”false and misleading information”, but since this is vaguely formulated, this could very well be used to prosecute reporting on Covid-19 more generally. This is coded 2, as it limits media reporting to a large extent, but does not control it completely. 
 
 *Sources*:
- http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
+ https://perma.cc/CG9U-989E
 
-https://reliefweb.int/report/papua-new-guinea/png-and-next-pandemic
 
-https://www.policyforum.net/the-securitization-of-public-health-emergencies/
+https://perma.cc/7HHC-XQTU
+
+
+https://perma.cc/DVG3-Y3VL
 
 
 
@@ -838,9 +901,13 @@ https://www.policyforum.net/the-securitization-of-public-health-emergencies/
  Date of the implementation of the National Pandemic Act. 
 
 *Sources*:
- http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
-https://reliefweb.int/report/papua-new-guinea/png-and-next-pandemic
-https://www.policyforum.net/the-securitization-of-public-health-emergencies/
+ https://perma.cc/CG9U-989E
+
+
+https://perma.cc/7HHC-XQTU
+
+
+https://perma.cc/DVG3-Y3VL
 
 
 
@@ -879,9 +946,13 @@ https://www.policyforum.net/the-securitization-of-public-health-emergencies/
  Law has not ended by time of coding. 
 
 *Sources*:
- http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
-https://reliefweb.int/report/papua-new-guinea/png-and-next-pandemic
-https://www.policyforum.net/the-securitization-of-public-health-emergencies/
+ https://perma.cc/CG9U-989E
+
+
+https://perma.cc/7HHC-XQTU
+
+
+https://perma.cc/DVG3-Y3VL
 
 
 
@@ -923,16 +994,22 @@ https://www.policyforum.net/the-securitization-of-public-health-emergencies/
  The national police commissioner stated in Q2 of 2020 that spreading misinformation on Covid-19 (i.e., its nature, prevalence and the like) will be arrested and charged under Cyber Crime Act. Since what such disinformation constitutes is unclear, and it opens up for journalists being prosecuted for reporting on Covid-19 that is not in line with the governments statements. After the passing of the National Pandemic Act in June 2020, PNG also with vague wording criminalized false and misleading information on the public health emergency, which clearly constitutes a limitation to reporting on Covid-19. This is therefore coded as 1. The law is still in use and a pandemic is still declared under it, and this is therefore coded 1 or all periods. 
 
 *Sources*:
- https://www.coronanet-project.org/data/reports/finished/20200620_Papua.html
+ https://perma.cc/3CM6-4B9Z
 
-https://www.rnz.co.nz/international/pacific-news/413563/png-controller-warns-against-spreading-of-false-info
 
-https://rsf.org/en/thematique/internet?countries%5B82%5D=82
+https://perma.cc/BE4M-MP25
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Papua%20New%20Guinea
 
-https://cpj.org/asia/papua-new-guinea/
-http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
+https://perma.cc/TJS9-FZZQ
+
+
+https://perma.cc/9ZNQ-J7RM
+
+
+https://perma.cc/2WBT-CP5H
+
+
+https://perma.cc/7NCL-5QK5
 
 
 
@@ -974,16 +1051,22 @@ http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
  PNG passed the National Pandemic Act which under Section 47 states that ”A person commits an offense if the person … knowingly gives false or misleading information, or … recklessly disseminates false or misleading information to the public in relation to a Public Health Emergency”. Being found guilty of any of the offenses under Section 47 (which includes other offenses as well) can result in penalties of fines up to 50 000 Kina, and imprisonment for up to five years. This clearly constitutes a limitation to reporting on the governments response to Covid-19, and is coded 1 for both periods. The law is still in use and a pandemic is still declared under it, and this is therefore coded 1 or all periods. 
 
 *Sources*:
- https://www.coronanet-project.org/data/reports/finished/20200620_Papua.html
+ https://perma.cc/3CM6-4B9Z
 
-https://www.rnz.co.nz/international/pacific-news/413563/png-controller-warns-against-spreading-of-false-info
 
-https://rsf.org/en/thematique/internet?countries%5B82%5D=82
+https://perma.cc/BE4M-MP25
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Papua%20New%20Guinea
 
-https://cpj.org/asia/papua-new-guinea/
-http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
+https://perma.cc/TJS9-FZZQ
+
+
+https://perma.cc/9ZNQ-J7RM
+
+
+https://perma.cc/2WBT-CP5H
+
+
+https://perma.cc/7NCL-5QK5
 
 
 
@@ -1025,16 +1108,22 @@ http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
  While there is de facto limitations on reporting on Covid-19 in Papua New Guinea, no evidence has been found on there being such limitations on non-Covid-19 related news during any of the periods, and this is therefore coded as 0. Note also that the limitations on the National Pandemic Act does not limit non-Covid-19 related news as it only limits media "in relation to a National Health Emergecy". 
 
 *Sources*:
- https://www.coronanet-project.org/data/reports/finished/20200620_Papua.html
+ https://perma.cc/3CM6-4B9Z
 
-https://www.rnz.co.nz/international/pacific-news/413563/png-controller-warns-against-spreading-of-false-info
 
-https://rsf.org/en/thematique/internet?countries%5B82%5D=82
+https://perma.cc/BE4M-MP25
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Papua%20New%20Guinea
 
-https://cpj.org/asia/papua-new-guinea/
-http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
+https://perma.cc/TJS9-FZZQ
+
+
+https://perma.cc/9ZNQ-J7RM
+
+
+https://perma.cc/2WBT-CP5H
+
+
+https://perma.cc/7NCL-5QK5
 
 
 
@@ -1077,10 +1166,10 @@ http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
  The Guardian reports that "The state of emergency has also imposed significant restrictions on who can speak to the media, with many doctors saying they were forbidden from discussing issues with the Guardian.", which infringes media’s access to information on Covid-19. Furthermore, the Pandemic Act includes a vaguely formulated ban on spreading disinformation, that potentially can be used to hinder authorities and civil servants from providing information to the media and public. While no other accusations have been found, there is no indication that things have improved, and the Pandemic Act does provide a ground for continuing to limit access to information. As there is no evidence that this is systematically occuring, however, this is coded as 1 for all periods. 
 
 *Sources*:
- https://www.theguardian.com/world/2020/mar/30/papua-new-guinea-is-not-prepared-4000-nurses-to-strike-over-covid-19-readiness
+ https://perma.cc/3ZMA-SXMQ
 
 
-http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
+https://perma.cc/L3SJ-28NY
 
 
 
@@ -1122,12 +1211,16 @@ http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
  In Q2 of 2020, The Police Minister called for the resignation of two journalists reporting on the governments response to Covid-19, stating that they "can't be trusted" (the minister did not, however, start any investigation or call for arrests). This is deemed a verbal harassment of these journalists, and thus coded as 1. However, no evidence of any threats to journalists has been found in relation to Covid-19 (or anything else) since then, and this seems to be an isolated incident. This is therefore coded 0 for all other periods. 
 
 *Sources*:
- https://rsf.org/en/news/papua-new-guinea-government-minister-calls-two-reporters-be-fired-over-Covid-19-coverage
+ https://perma.cc/L2JQ-CK8H
 
-https://rsf.org/en/thematique/internet?countries%5B82%5D=82
 
-https://cpj.org/asia/papua-new-guinea/
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Papua%20New%20Guinea
+https://perma.cc/2R4L-ZWJV
+
+
+https://perma.cc/5W4W-9U8D
+
+
+https://perma.cc/W9Z6-RP57
 
 
 
@@ -1169,13 +1262,22 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Neither Reporters without Borders nor International Press Institute have reported any physical harassment of journalists in Papua New Guinea, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://www.coronanet-project.org/data/reports/finished/20200620_Papua.html
-https://www.rnz.co.nz/international/pacific-news/413563/png-controller-warns-against-spreading-of-false-info
-https://rsf.org/en/thematique/internet?countries%5B82%5D=82
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Papua%20New%20Guinea
+ https://perma.cc/Z3YT-CP7B
 
-https://cpj.org/asia/papua-new-guinea/
- 
+
+https://perma.cc/U3M4-Y7BQ
+
+
+https://perma.cc/5XF8-7M3W
+
+
+https://perma.cc/L472-E6BZ
+
+
+https://perma.cc/9PE4-PVT6
+
+
+
 
 
 
@@ -1219,10 +1321,13 @@ https://cpj.org/asia/papua-new-guinea/
  The information provided by the Papua New Guinea Health Department does not deviate from the information on Covid-19 provided by the WHO, and no other indication of the government spreading disinformation has been found (although disinformation spread by citizens seem to be rampant in PNG). 
 
 *Sources*:
- https://covid19.info.gov.pg/files/Approved%20Coronavirus%20Awareness.pdf
-https://covid19.info.gov.pg/index.php/Covid-19-awareness/
+ https://perma.cc/7H9S-Q2Q2
 
-https://www.bbc.com/news/world-asia-56926131
+
+https://perma.cc/D7UV-UBUV
+
+
+https://perma.cc/CWS2-BUFE
 
 
 
@@ -1266,10 +1371,13 @@ https://www.bbc.com/news/world-asia-56926131
  In June 2020, there was reports that police used abusive enforcement during the lockdown, by beating vendors and stealing from marketplaces. This does not seem to be widespread however, and no serious injuries or lethal violence is reported. For the other periods, neither Human Rights Watch nor Amnesty International has reported any incidents of violence in enforcing emergency measures, and no other indications on such violence occurring has been found. This is coded as 1 for Q2 of 2020, and 0 for the rest. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9566
-https://www.amnesty.org/en/search/?country=38395&resourceType=newsarticle&sort=date
+ https://perma.cc/9SHT-B4DG
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/papua-new-guinea/
+
+https://perma.cc/QT7W-7NS5
+
+
+https://perma.cc/AM5Z-QHJY
 
 
 
@@ -1311,8 +1419,10 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/pap
  Military has been deployed in July and August of 2020 to help enforce emergency measures, and there are also reports of this in March 2021. However, no evidence of this has been found in the other periods, and this is coded as 1 for Q3 of 2020 and Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
+ https://perma.cc/L6NS-CWJR
 
-https://www.looppng.com/coronavirus/manus-starts-Covid-19-operation-98764
 
-https://www.rnz.co.nz/international/pacific-news/423462/png-security-forces-to-wear-armbands-while-enforcing-covid-measures
+https://perma.cc/HKZ2-A9ED
+
+
+https://perma.cc/LJK4-S4JE

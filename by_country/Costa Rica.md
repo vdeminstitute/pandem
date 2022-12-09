@@ -46,9 +46,9 @@
 
 *Sources*:
  [1]
-https://www.ministeriodesalud.go.cr/sobre_ministerio/prensa/decretos_cvd/decreto_ejecutivo_42227_mp_s_declaratoria_emergencia_nacional.pdf
+https://web.archive.org/web/20200412163555/https://www.ministeriodesalud.go.cr/sobre_ministerio/prensa/decretos_cvd/decreto_ejecutivo_42227_mp_s_declaratoria_emergencia_nacional.pdf
 [2]
-https://www.presidencia.go.cr/comunicados/2020/03/gobierno-declara-estado-de-emergencia-nacional-impide-llegada-de-extranjeros-y-se-suspende-lecciones-en-todos-los-centros-educativos-del-pais/
+https://perma.cc/46FJ-KRAG
 
 
 
@@ -88,7 +88,7 @@ https://www.presidencia.go.cr/comunicados/2020/03/gobierno-declara-estado-de-eme
 
 *Sources*:
  [1]
-http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=56178
+https://perma.cc/Q3Q5-M4HM
 
 
 
@@ -128,9 +128,9 @@ http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?n
 
 *Sources*:
  [1]
-https://www.ministeriodesalud.go.cr/sobre_ministerio/prensa/decretos_cvd/decreto_ejecutivo_42227_mp_s_declaratoria_emergencia_nacional.pdf
+https://web.archive.org/web/20200412163555/https://www.ministeriodesalud.go.cr/sobre_ministerio/prensa/decretos_cvd/decreto_ejecutivo_42227_mp_s_declaratoria_emergencia_nacional.pdf
 [2]
-https://www.presidencia.go.cr/comunicados/2020/03/gobierno-declara-estado-de-emergencia-nacional-impide-llegada-de-extranjeros-y-se-suspende-lecciones-en-todos-los-centros-educativos-del-pais/
+https://perma.cc/46FJ-KRAG
 
 
 
@@ -170,7 +170,7 @@ https://www.presidencia.go.cr/comunicados/2020/03/gobierno-declara-estado-de-eme
 
 *Sources*:
  [1]
-https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1532-lineamientos-nacionales-para-la-vigilancia-de-la-infeccion-por-coronavirus-2019-ncov
+https://web.archive.org/web/20200315080459/https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1532-lineamientos-nacionales-para-la-vigilancia-de-la-infeccion-por-coronavirus-2019-ncov
 
 
 
@@ -213,7 +213,7 @@ https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noti
 
 *Sources*:
  [1]
-https://www.ministeriodesalud.go.cr/sobre_ministerio/prensa/decretos_cvd/decreto_ejecutivo_42227_mp_s_declaratoria_emergencia_nacional.pdf
+https://web.archive.org/web/20200412163555/https://www.ministeriodesalud.go.cr/sobre_ministerio/prensa/decretos_cvd/decreto_ejecutivo_42227_mp_s_declaratoria_emergencia_nacional.pdf
 
 
 
@@ -252,8 +252,7 @@ https://www.ministeriodesalud.go.cr/sobre_ministerio/prensa/decretos_cvd/decreto
  The decree does not establish a time limit [1]. 
 
 *Sources*:
- [1]
-https://www.ministeriodesalud.go.cr/sobre_ministerio/prensa/decretos_cvd/decreto_ejecutivo_42227_mp_s_declaratoria_emergencia_nacional.pdf
+ [1]https://web.archive.org/web/20200412163555/https://www.ministeriodesalud.go.cr/sobre_ministerio/prensa/decretos_cvd/decreto_ejecutivo_42227_mp_s_declaratoria_emergencia_nacional.pdf
 
 
 
@@ -296,7 +295,7 @@ https://www.ministeriodesalud.go.cr/sobre_ministerio/prensa/decretos_cvd/decreto
 
 *Sources*:
  [1]
-http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=56178
+https://perma.cc/Q3Q5-M4HM
 
 
 
@@ -385,9 +384,9 @@ http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?n
 
 *Sources*:
  [1]
-http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=56178
+https://perma.cc/Q3Q5-M4HM
 [2]
-https://www.constituteproject.org/constitution/Costa_Rica_2020?lang=em
+https://perma.cc/8S9R-UGP6
 
 
 
@@ -510,11 +509,11 @@ https://www.constituteproject.org/constitution/Costa_Rica_2020?lang=em
 
 *Sources*:
  [1]
-https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1695-ante-aumento-de-casos-covid-19-gobierno-endurece-medidas-en-cinco-distritos
+https://web.archive.org/web/20200714181259/https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1695-ante-aumento-de-casos-covid-19-gobierno-endurece-medidas-en-cinco-distritos
 [2]
-https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1702-distrito-de-la-fortuna-en-san-carlos-y-los-cantones-de-pococi-y-upala-se-suman-a-la-lista-de-alerta-naranja
+https://web.archive.org/web/20200815134322/https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1702-distrito-de-la-fortuna-en-san-carlos-y-los-cantones-de-pococi-y-upala-se-suman-a-la-lista-de-alerta-naranja
 [3]
-https://www.presidencia.go.cr/comunicados/2020/10/aumento-de-casos-covid-19-ocasiona-que-6-cantones-pasen-a-alerta-naranja/
+https://perma.cc/3VK9-72QA
 
 
 
@@ -559,11 +558,11 @@ https://www.presidencia.go.cr/comunicados/2020/10/aumento-de-casos-covid-19-ocas
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/search/?q=costa+rica
+https://perma.cc/S82U-TDLC
 [2]
-https://www.hrw.org/americas/costa-rica
+https://perma.cc/FG36-8G96
 [3]
-https://monitor.civicus.org/country/costa-rica/
+https://perma.cc/FG36-8G96
 
 
 
@@ -613,11 +612,11 @@ https://monitor.civicus.org/country/costa-rica/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/search/?q=costa+rica
+https://perma.cc/S82U-TDLC
 [2]
-https://www.hrw.org/americas/costa-rica
+https://perma.cc/FG36-8G96
 [3]
-https://monitor.civicus.org/country/costa-rica/
+https://perma.cc/FG36-8G96
 
 
 
@@ -662,7 +661,7 @@ https://monitor.civicus.org/country/costa-rica/
 
 *Sources*:
  [1]
-https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1532-lineamientos-nacionales-para-la-vigilancia-de-la-infeccion-por-coronavirus-2019-ncov
+https://web.archive.org/web/20200315080459/https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1532-lineamientos-nacionales-para-la-vigilancia-de-la-infeccion-por-coronavirus-2019-ncov
 
 
 
@@ -783,13 +782,13 @@ https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noti
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/TKS4-GTH3
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/9CY6-PKQW
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/X7F2-D9M7
 [4]
-https://cpj.org/americas/costa-rica/
+https://perma.cc/9VPG-G6D4
 
 
 
@@ -832,13 +831,13 @@ https://cpj.org/americas/costa-rica/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/TKS4-GTH3
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/9CY6-PKQW
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/X7F2-D9M7
 [4]
-https://cpj.org/americas/costa-rica/
+https://perma.cc/9VPG-G6D4
 
 
 
@@ -881,13 +880,13 @@ https://cpj.org/americas/costa-rica/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/TKS4-GTH3
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/9CY6-PKQW
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/X7F2-D9M7
 [4]
-https://cpj.org/americas/costa-rica/
+https://perma.cc/9VPG-G6D4
 
 
 
@@ -931,15 +930,15 @@ https://cpj.org/americas/costa-rica/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/TKS4-GTH3
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/9CY6-PKQW
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/X7F2-D9M7
 [4]
-https://cpj.org/americas/costa-rica/
+https://perma.cc/9VPG-G6D4
 [5]
-https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1725-situacion-nacional-covid-19
+https://web.archive.org/web/20200624182420/https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1725-situacion-nacional-covid-19
 
 
 
@@ -982,11 +981,11 @@ https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noti
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/TKS4-GTH3
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/9CY6-PKQW
 [3]
-https://cpj.org/americas/costa-rica/
+https://perma.cc/9VPG-G6D4
 
 
 
@@ -1029,11 +1028,11 @@ https://cpj.org/americas/costa-rica/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/TKS4-GTH3
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/9CY6-PKQW
 [3]
-https://cpj.org/americas/costa-rica/
+https://perma.cc/9VPG-G6D4
 
 
 
@@ -1078,9 +1077,9 @@ https://cpj.org/americas/costa-rica/
 
 *Sources*:
  [1]
-https://covid19.go.cr/
+https://web.archive.org/web/20200430145447/https://covid19.go.cr/
 [2]
-https://www.ministeriodesalud.go.cr/index.php/material-educativo/documentos-ministerio-de-salud/centro-de-informacion/material-comunicacion/protocolos-ms/coronavirus/mitos-y-realidades?sort=title
+https://web.archive.org/web/20210304191738/https://www.ministeriodesalud.go.cr/index.php/material-educativo/documentos-ministerio-de-salud/centro-de-informacion/material-comunicacion/protocolos-ms/coronavirus/mitos-y-realidades?sort=title
 
 
 
@@ -1125,9 +1124,9 @@ https://www.ministeriodesalud.go.cr/index.php/material-educativo/documentos-mini
 
 *Sources*:
  [1]
-https://www.clarin.com/internacional/video-momento-policia-dispara-surfers-rompieron-cuarentena-coronavirus_3_yiVGvACtq.html
+https://perma.cc/M39U-LEGK
 [2]
-https://www.lateja.cr/sucesos/video-seguridad-investiga-supuestos-disparos-al/HWH5BB4B5FAATD2SCMAOD3V2YI/story/
+https://perma.cc/Z67Z-BZCM
 
 
 
@@ -1170,4 +1169,4 @@ https://www.lateja.cr/sucesos/video-seguridad-investiga-supuestos-disparos-al/HW
 
 *Sources*:
  [1]
-https://www.ministeriodesalud.go.cr/sobre_ministerio/prensa/decretos_cvd/decreto_ejecutivo_42227_mp_s_declaratoria_emergencia_nacional.pdf
+https://web.archive.org/web/20200412163555/https://www.ministeriodesalud.go.cr/sobre_ministerio/prensa/decretos_cvd/decreto_ejecutivo_42227_mp_s_declaratoria_emergencia_nacional.pdf

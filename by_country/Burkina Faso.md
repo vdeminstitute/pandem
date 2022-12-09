@@ -60,40 +60,20 @@ Measures taken after that date are more general in nature, like the mandatory we
 In Q1 and Q2 2021, while no Covid-19-related curfews remain in effect, security-related curfews and associated states of emergency not connected with disease activity are still in force in the Est, Sahel, Boucle de Mouhoun, Nord, Haut-Bassins, and Centre-Est regions (13). 
 
 *Sources*:
- https://lavoixdujuristebf.files.wordpress.com/2013/08/loi-nc2b023-94-adp-portant-code-de-la-sante-publique.pdf
-(1)
+ [1]	perma.cc/RTR5-M6UU
+[2]	https://perma.cc/X9UQ-DMMN
+[3]	https://perma.cc/UFG8-L3ER
+[4]	perma.cc/7AW3-RJSS
+[5]	perma.cc/84XA-CY95
+[6]	perma.cc/8YYT-TV7M
+[7]	perma.cc/9JJ7-CE5N
+[8]	perma.cc/EEF3-4K8F
+[9]	perma.cc/LYM5-6QTS
+[10]	perma.cc/C3GR-HNP3
+[11]	perma.cc/ETV6-UAGF
+[12]	perma.cc/XC2W-VWC6
+[13]	perma.cc/B26S-5LH5
 
-https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
-(2)
-
-https://www.sig.gov.bf/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=305&cHash=012d1512353b08bcf47df2e5d875dadb
-(3)
-
-https://hakilitimes.com/gestion-juridique-du-covid-19-au-burkina-lanalyse-assez-critique-dun-think-tank/
-(4)
-
-https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-etat-d-alerte-sanitaire-devrait-etre-limitee-dans-le-temps-pr-abdoulaye-soma.html
-(5)
-
-https://www.gouvernement.gov.bf/fileadmin/user_upload/storage/fichiers/De__cret_portant_restriction_temporaire_des_liberte__s.pdf
-(6)
-https://hakilitimes.com/coronavirus-le-gouvernement-burkinabe-veut-legiferer-par-ordonnance/
-(7)
-https://www.burkina24.com/2020/04/21/tribune-burkina-faso-quel-usage-de-la-loi-dhabilitation-sollicitee-par-le-gouvernement-pour-la-lutte-contre-le-covid-19/
-(8)
-https://lepays.bf/crise-sanitaire-au-burkina-2/
-(9)
-https://www.leconomistedufaso.bf/2020/06/03/lutte-contre-la-covid-19-le-gouvernement-corrige-des-insuffisances-juridiques/
-(10)
-
-https://www.constituteproject.org/constitution/Burkina_Faso_2015.pdf?lang=en
-(11)
-
-https://bf.usembassy.gov/u-s-citizen-services/covid-19-information/
-(12)
-
-https://www.garda.com/crisis24/news-alerts/471271/burkina-faso-covid-19-restrictions-remain-unchanged-nationwide-as-of-april-25-compared-to-measures-in-early-march-update-14
-(13)
 
 
 
@@ -132,11 +112,8 @@ https://www.garda.com/crisis24/news-alerts/471271/burkina-faso-covid-19-restrict
 *No comment provided* 
 
 *Sources*:
- https://lavoixdujuristebf.files.wordpress.com/2013/08/loi-nc2b023-94-adp-portant-code-de-la-sante-publique.pdf
-(1)
-
-https://www.constituteproject.org/constitution/Burkina_Faso_2015.pdf?lang=en
-(2)
+ [1]	perma.cc/B4SF-NV75
+[2]	perma.cc/W7S3-7VED
 
 
 
@@ -177,13 +154,14 @@ In 5 May 2020, the National Assembly passed an enabling law allowing the governm
 The curfew was lifted on 3 June 2020. 
 
 *Sources*:
- https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
-
-https://hakilitimes.com/coronavirus-le-gouvernement-burkinabe-veut-legiferer-par-ordonnance/
-
-https://www.burkina24.com/2020/04/21/tribune-burkina-faso-quel-usage-de-la-loi-dhabilitation-sollicitee-par-le-gouvernement-pour-la-lutte-contre-le-covid-19/
-
-https://lepays.bf/crise-sanitaire-au-burkina-2/
+ [1]
+https://perma.cc/X9UQ-DMMN
+[2]
+perma.cc/B35C-BARM
+[3]
+perma.cc/PT2F-RGLF
+[4]
+perma.cc/XJ8N-9A5R
 
 
 
@@ -224,19 +202,13 @@ https://lepays.bf/crise-sanitaire-au-burkina-2/
 Separate measures like the curfew and quarantine have been (partly) lifted since 3 June 2020. The resumption of domestic and international flights follows the expiration of a nationwide 2100-0400 health curfew 3 June 2020. The wearing of facemasks in public remains mandatory nationwide. 
 
 *Sources*:
- https://bf.usembassy.gov/u-s-citizen-services/covid-19-information/
-
-https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-etat-d-alerte-sanitaire-devrait-etre-limitee-dans-le-temps-pr-abdoulaye-soma.html
-
-https://www.garda.com/crisis24/news-alerts/347961/burkina-faso-authorities-lift-nationwide-curfew-june-3-update-8
-
-https://www.worldaware.com/intelligence-alert-authorities-maintain-covid-19-restrictions-across-burkina-faso
-
-https://hakilitimes.com/coronavirus-le-gouvernement-burkinabe-veut-legiferer-par-ordonnance/
-
-https://www.burkina24.com/2020/04/21/tribune-burkina-faso-quel-usage-de-la-loi-dhabilitation-sollicitee-par-le-gouvernement-pour-la-lutte-contre-le-covid-19/
-
-https://lepays.bf/crise-sanitaire-au-burkina-2/
+ [1]	perma.cc/DU88-KLDB
+[2]	perma.cc/4MR5-VHRB
+[3]	perma.cc/ZKR8-XHJB
+[4]	perma.cc/5VYK-9MHS
+[5]	perma.cc/7BKH-N3FZ
+[6]	perma.cc/9LM3-4872
+[7]	perma.cc/N37D-BXYM
 
 
 
@@ -278,18 +250,11 @@ https://lepays.bf/crise-sanitaire-au-burkina-2/
  The state of health alert did not have a limit date in its issuance. In 5 May 2020, the National Assembly passed an enabling law allowing the government to rule by Ordinance for a period of 3 months, in order to deal with the pandemic. 
 
 *Sources*:
- https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
-(1)
-
-https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-etat-d-alerte-sanitaire-devrait-etre-limitee-dans-le-temps-pr-abdoulaye-soma.html
-(2)
-https://hakilitimes.com/coronavirus-le-gouvernement-burkinabe-veut-legiferer-par-ordonnance/
-
-https://www.burkina24.com/2020/04/21/tribune-burkina-faso-quel-usage-de-la-loi-dhabilitation-sollicitee-par-le-gouvernement-pour-la-lutte-contre-le-covid-19/
-
-https://lepays.bf/crise-sanitaire-au-burkina-2/
-
-
+ [1]	https://perma.cc/X9UQ-DMMN
+[2]	perma.cc/Y4KL-LZAW
+[3]	perma.cc/XH7Z-LGC4
+[4]	perma.cc/69RB-TECN
+[5]	perma.cc/MYA9-MRZR
 
 
 
@@ -328,11 +293,10 @@ https://lepays.bf/crise-sanitaire-au-burkina-2/
  The declaration of the state of health alert did not have a limit date (1). In 5 May 2020, the National Assembly passed an enabling law allowing the government to rule by Ordinance for a period of 3 months, in order to deal with the pandemic. 
 
 *Sources*:
- https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
-(1)
-
-https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-etat-d-alerte-sanitaire-devrait-etre-limitee-dans-le-temps-pr-abdoulaye-soma.html
-(2
+ [1]
+https://perma.cc/X9UQ-DMMN
+[2]
+perma.cc/Y4KL-LZAW
 
 
 
@@ -375,11 +339,9 @@ https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-
 Constitution article 107 on special powers to the executive to rule by Decree requires parliamentary approval. 
 
 *Sources*:
- https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-etat-d-alerte-sanitaire-devrait-etre-limitee-dans-le-temps-pr-abdoulaye-soma.html
-(1)https://lavoixdujuristebf.files.wordpress.com/2013/08/loi-nc2b023-94-adp-portant-code-de-la-sante-publique.pdf
-(2)
-
-https://www.constituteproject.org/constitution/Burkina_Faso_2015.pdf?lang=en
+ [1]	perma.cc/2ES9-JRUG
+[2]	perma.cc/YKH8-JM7W
+[3]	perma.cc/52LZ-NV7S
 
 
 
@@ -421,14 +383,11 @@ https://www.constituteproject.org/constitution/Burkina_Faso_2015.pdf?lang=en
  Parliamentary approval was not required for the Public Health Code article on the state of health alert, but the enabling law was approved by Parliament on 5 May 2020. 
 
 *Sources*:
- https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-etat-d-alerte-sanitaire-devrait-etre-limitee-dans-le-temps-pr-abdoulaye-soma.html
-https://lavoixdujuristebf.files.wordpress.com/2013/08/loi-nc2b023-94-adp-portant-code-de-la-sante-publique.pdf
-
-https://hakilitimes.com/coronavirus-le-gouvernement-burkinabe-veut-legiferer-par-ordonnance/
-
-https://www.burkina24.com/2020/04/21/tribune-burkina-faso-quel-usage-de-la-loi-dhabilitation-sollicitee-par-le-gouvernement-pour-la-lutte-contre-le-covid-19/
-
-https://lepays.bf/crise-sanitaire-au-burkina-2/
+ [1]	perma.cc/N7QK-PJEJ
+[2]	perma.cc/8EXA-ZYBX
+[3]	perma.cc/HA7Y-64JX
+[4]	perma.cc/6YDQ-CD8F
+[5]	perma.cc/5RGE-E9W9
 
 
 
@@ -481,21 +440,13 @@ The bill on the enabling law providing the government with the legal basis to ta
 InterPares: Oversight: A fact-finding mission on the management of Covid-19 was established by the Government.Plenary: Proxy-voting. 
 
 *Sources*:
- http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdf
-(1)
+ [1]	http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdf
 
-https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-etat-d-alerte-sanitaire-devrait-etre-limitee-dans-le-temps-pr-abdoulaye-soma.html
-
-https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-
-https://hakilitimes.com/coronavirus-le-gouvernement-burkinabe-veut-legiferer-par-ordonnance/
-(4)
-
-https://www.burkina24.com/2020/04/21/tribune-burkina-faso-quel-usage-de-la-loi-dhabilitation-sollicitee-par-le-gouvernement-pour-la-lutte-contre-le-covid-19/
-(5)
-
-https://lepays.bf/crise-sanitaire-au-burkina-2/
-(6)
+[2]	perma.cc/43Z2-ZXA9
+[3]	perma.cc/YP2U-RNRB
+[4]	perma.cc/HB3B-87QB
+[5]	perma.cc/K6RF-WMNE
+[6]	perma.cc/7GSX-XQZU
 
 
 
@@ -618,13 +569,10 @@ https://lepays.bf/crise-sanitaire-au-burkina-2/
 Domestic air flights resumed on 24 July 2020. The wearing of facemasks in public remains mandatory nationwide as of June 2021, and all security-related curfews in areas under a state of emergency will continue. 
 
 *Sources*:
- https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
-
-https://bf.usembassy.gov/u-s-citizen-services/covid-19-information/
-
-https://www.garda.com/crisis24/news-alerts/430886/burkina-faso-security-restrictions-to-remain-across-much-of-the-country-through-at-least-mid-2021-update-3
-
-https://www.garda.com/crisis24/news-alerts/449321/burkina-faso-covid-19-restrictions-remain-unchanged-nationwide-as-of-march-1-update-12
+ [1]	https://perma.cc/X9UQ-DMMN
+[2]	perma.cc/93P5-Z6V2
+[3]	perma.cc/UH93-6Z7X
+[4]	perma.cc/U4US-TXU5
 
 
 
@@ -670,13 +618,14 @@ https://www.garda.com/crisis24/news-alerts/449321/burkina-faso-covid-19-restrict
  
 
 *Sources*:
- https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
-
-https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/burkina-faso/
+ [1]
+perma.cc/5A8S-SV4V
+[2]
+perma.cc/29SS-QCR9
+[3]
+perma.cc/ZH4X-LW3U
+[4]
+perma.cc/JZ4A-CDPX
 
 
 
@@ -726,17 +675,11 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/bur
 No more evidence was found. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/burkina-faso/
-(1)
-
-http://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=6QkG1d%2FPPRiCAqhKb7yhsr[…]2FKU9JkoeDcTWWPIpCoePGBcMsRmFtoMu58pgnmzjyiyRGkPQekcPKtaaTG
-(2)
-
-https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
-
-https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
+ [1]	perma.cc/W2PG-5GR7
+[2]	perma.cc/HFW6-3TP6
+[3]	https://perma.cc/X9UQ-DMMN
+[4]	perma.cc/4KLQ-4SJV
+[5]	perma.cc/9MBV-T7XQ
 
 
 
@@ -780,17 +723,11 @@ https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
  No evidence was found in the emergency measures, nor in the main media freedom tracking pages. 
 
 *Sources*:
- https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://cpj.org/covid-19/
-
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-
+ [1]	https://perma.cc/X9UQ-DMMN
+[2]	perma.cc/R9VD-A6ZW
+[3]	perma.cc/A9DS-HP4E
+[4]	perma.cc/BXP9-MVQH
+[5]	perma.cc/HL43-T3SA
 
 
 
@@ -911,18 +848,12 @@ https://ipi.media/covid19-media-freedom-monitoring/
 Also, on the the media environment: '' With dynamic, professional and diverse media, Burkina Faso is one of Africa's success stories''. (1) 
 
 *Sources*:
- https://rsf.org/en/burkina-faso
-(1)
-
-https://rsf.org/en/rsf_search?key=burkina%20faso
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://cpj.org/covid-19/
-
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
-
-https://ipi.media/covid19-media-freedom-monitoring/
+ [1]	perma.cc/LN22-CJFR
+[2]	perma.cc/F4NG-CPZ8
+[3]	perma.cc/DD2G-T25Q
+[4]	perma.cc/2UF9-JT4F
+[5]	perma.cc/E229-HDQY
+[6]	perma.cc/YY89-SUYC
 
 
 
@@ -965,18 +896,12 @@ https://ipi.media/covid19-media-freedom-monitoring/
 Also, on the the media environment: '' With dynamic, professional and diverse media, Burkina Faso is one of Africa's success stories''. (1) 
 
 *Sources*:
- https://rsf.org/en/burkina-faso
-(1)
-
-https://rsf.org/en/rsf_search?key=burkina%20faso
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://cpj.org/covid-19/
-
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
-
-https://ipi.media/covid19-media-freedom-monitoring/
+ [1]	perma.cc/LN22-CJFR
+[2]	perma.cc/F4NG-CPZ8
+[3]	perma.cc/DD2G-T25Q
+[4]	perma.cc/2UF9-JT4F
+[5]	perma.cc/E229-HDQY
+[6]	perma.cc/YY89-SUYC
 
 
 
@@ -1019,18 +944,12 @@ https://ipi.media/covid19-media-freedom-monitoring/
 Also, on the the media environment: '' With dynamic, professional and diverse media, Burkina Faso is one of Africa's success stories''. (1) 
 
 *Sources*:
- https://rsf.org/en/burkina-faso
-(1)
-
-https://rsf.org/en/rsf_search?key=burkina%20faso
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://cpj.org/covid-19/
-
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
-
-https://ipi.media/covid19-media-freedom-monitoring/
+ [1]	perma.cc/LN22-CJFR
+[2]	perma.cc/F4NG-CPZ8
+[3]	perma.cc/DD2G-T25Q
+[4]	perma.cc/2UF9-JT4F
+[5]	perma.cc/E229-HDQY
+[6]	perma.cc/YY89-SUYC
 
 
 
@@ -1074,18 +993,12 @@ https://ipi.media/covid19-media-freedom-monitoring/
 Also, on the the media environment: '' With dynamic, professional and diverse media, Burkina Faso is one of Africa's success stories''. (1) 
 
 *Sources*:
- https://rsf.org/en/burkina-faso
-(1)
-
-https://rsf.org/en/rsf_search?key=burkina%20faso
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://cpj.org/covid-19/
-
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
-
-https://ipi.media/covid19-media-freedom-monitoring/
+ [1]	perma.cc/LN22-CJFR
+[2]	perma.cc/F4NG-CPZ8
+[3]	perma.cc/DD2G-T25Q
+[4]	perma.cc/2UF9-JT4F
+[5]	perma.cc/E229-HDQY
+[6]	perma.cc/YY89-SUYC
 
 
 
@@ -1127,18 +1040,12 @@ https://ipi.media/covid19-media-freedom-monitoring/
  No evidence of verbal harassment of journalists was found. 
 
 *Sources*:
- https://rsf.org/en/burkina-faso
-
-
-https://rsf.org/en/rsf_search?key=burkina%20faso
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://cpj.org/covid-19/
-
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
-
-https://ipi.media/covid19-media-freedom-monitoring/
+ [1]	perma.cc/LN22-CJFR
+[2]	perma.cc/F4NG-CPZ8
+[3]	perma.cc/DD2G-T25Q
+[4]	perma.cc/2UF9-JT4F
+[5]	perma.cc/E229-HDQY
+[6]	perma.cc/YY89-SUYC
 
 
 
@@ -1180,17 +1087,12 @@ https://ipi.media/covid19-media-freedom-monitoring/
  No evidence of physical harassment of journalists was found. 
 
 *Sources*:
- https://rsf.org/en/burkina-faso
-
-https://rsf.org/en/rsf_search?key=burkina%20faso
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://cpj.org/covid-19/
-
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
-
-https://ipi.media/covid19-media-freedom-monitoring/
+ [1]	perma.cc/LN22-CJFR
+[2]	perma.cc/F4NG-CPZ8
+[3]	perma.cc/DD2G-T25Q
+[4]	perma.cc/2UF9-JT4F
+[5]	perma.cc/E229-HDQY
+[6]	perma.cc/YY89-SUYC
 
 
 
@@ -1237,15 +1139,9 @@ https://ipi.media/covid19-media-freedom-monitoring/
 No evidence was found on whether the government changed its policy on the use of chloroquine after June 2020. We code as 0 for quarters after Q2 2020 because we no longer found reports of the government using or promoting chloroquine. We do not know if it continued in practice. 
 
 *Sources*:
- https://lefaso.net/spip.php?article95860
-
-https://www.theafricareport.com/25416/to-fight-coronavirus-burkina-faso-is-tempted-by-chloroquine/
-(2)
-
-https://www.france24.com/fr/20200401-coronavirus-l-afrique-subsaharienne-se-rue-sur-la-chloroquine
-(3)
-
-
+ [1]	perma.cc/N6T2-QY98
+[2]	perma.cc/TV4G-RTZA
+[3]	perma.cc/ZD45-4DRD
 
 
 
@@ -1289,12 +1185,8 @@ https://www.france24.com/fr/20200401-coronavirus-l-afrique-subsaharienne-se-rue-
  In March 2020 the MBDHP, a local human rights group (Burkinabe Movement for Human and People’s Rights), accused defense and security forces of inflicting acts of torture against offenders of the government’s Covid-19 curfew (1). 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/burkina-faso/
-(1)
-
-https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-
-
+ [1]	perma.cc/W2PG-5GR7
+[2]	perma.cc/4KLQ-4SJV
 
 
 
@@ -1336,8 +1228,6 @@ https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabil
  In Burkina Faso there are reports of armed police officers and soldiers enforcing a curfew and threatening people seen in the streets'', during Q2 of 2020. 
 
 *Sources*:
- https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-
-https://www.garda.com/crisis24/news-alerts/346951/burkina-faso-security-forces-disperse-anti-lockdown-protest-in-bobo-dioulasso-may-30
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/burkina-faso/
+ [1]	perma.cc/L7RY-TNT6
+[2]	perma.cc/24U4-XWFJ
+[3]	perma.cc/RR6N-LSL9

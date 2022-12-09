@@ -46,9 +46,11 @@
 
 *Sources*:
  [1]
-https://www.diariooficial.interior.gob.cl/publicaciones/2020/03/18/42607-B/01/1742691.pdf
+https://perma.cc/KD9E-DV6F
+
+
 [2]
-https://www.gob.cl/noticias/presidente-declara-estado-de-excepcion-constitucional-de-catastrofe-en-todo-el-territorio-nacional/
+https://perma.cc/5WT5-YSRP
 
 
 
@@ -88,10 +90,9 @@ https://www.gob.cl/noticias/presidente-declara-estado-de-excepcion-constituciona
 
 *Sources*:
  [1]
-https://www.oas.org/dil/esp/Constitucion_Chile.pdf
-
+https://perma.cc/QQ6B-3PY6
 [2]
-https://www.leychile.cl/Navegar?idNorma=29824
+https://perma.cc/3YKM-9ERL
 
 
 
@@ -131,9 +132,11 @@ https://www.leychile.cl/Navegar?idNorma=29824
 
 *Sources*:
  [1]
-https://www.diariooficial.interior.gob.cl/publicaciones/2020/03/18/42607-B/01/1742691.pdf
+https://perma.cc/5P88-RMF8
+
+
 [2]
-https://www.gob.cl/noticias/presidente-declara-estado-de-excepcion-constitucional-de-catastrofe-en-todo-el-territorio-nacional/
+https://perma.cc/F2PC-HMTA
 
 
 
@@ -173,15 +176,23 @@ https://www.gob.cl/noticias/presidente-declara-estado-de-excepcion-constituciona
 
 *Sources*:
  [1]
-https://www.diariooficial.interior.gob.cl/publicaciones/2020/03/18/42607-B/01/1742691.pdf
+https://perma.cc/2UT3-AQMR
+
+
 [2]
-https://prensa.presidencia.cl/comunicado.aspx?id=152551
+https://perma.cc/8HAT-6SM2
+
+
 [3]
-https://www.bcn.cl/leychile/navegar?idNorma=1146700&idParte=10129646
+https://perma.cc/2K24-38WV
+
+
 [4]
-https://www.bcn.cl/leychile/navegar?idNorma=1149383&idParte=10157985&idVersion=2020-09-12
+https://perma.cc/2XF2-FFN9
+
+
 [5]
-https://www.bcn.cl/leychile/navegar?idNorma=1156903
+https://perma.cc/2ZYV-ZKKD
 
 
 
@@ -224,9 +235,11 @@ https://www.bcn.cl/leychile/navegar?idNorma=1156903
 
 *Sources*:
  [1]
-https://www.diariooficial.interior.gob.cl/publicaciones/2020/03/18/42607-B/01/1742691.pdf
+https://perma.cc/EYE9-GWQJ
+
+
 [2]
-https://www.bcn.cl/leychile/navegar?idNorma=1146700&idParte=10129646
+https://perma.cc/PL7Q-6GHH
 
 
 
@@ -266,13 +279,19 @@ https://www.bcn.cl/leychile/navegar?idNorma=1146700&idParte=10129646
 
 *Sources*:
  [1]
-https://www.diariooficial.interior.gob.cl/publicaciones/2020/03/18/42607-B/01/1742691.pdf
+https://perma.cc/V6CF-PBUP
+
+
 [2]
-https://prensa.presidencia.cl/comunicado.aspx?id=152551
+https://perma.cc/JL9W-2D84
+
+
 [3]
-https://www.bcn.cl/leychile/navegar?idNorma=1146700&idParte=10129646
+https://perma.cc/QQS8-CMAU
+
+
 [4]
-https://www.bcn.cl/leychile/navegar?idNorma=1149383&idParte=10157985&idVersion=2020-09-12
+https://perma.cc/2772-WR64
 
 
 
@@ -315,7 +334,7 @@ https://www.bcn.cl/leychile/navegar?idNorma=1149383&idParte=10157985&idVersion=2
 
 *Sources*:
  [1]
-https://www.oas.org/dil/esp/Constitucion_Chile.pdf
+https://perma.cc/QJC8-KT2U
 
 
 
@@ -358,9 +377,11 @@ https://www.oas.org/dil/esp/Constitucion_Chile.pdf
 
 *Sources*:
  [1]
-https://www.oas.org/dil/esp/Constitucion_Chile.pdf
+https://perma.cc/LTD7-24LJ
+
+
 [2]
-https://www.senado.cl/estado-de-excepcion-hasta-el-30-de-junio-por-mayoria-senado-ratifica/senado/2021-03-10/171323.html
+https://perma.cc/BRW6-SSQ4
 
 
 
@@ -407,15 +428,15 @@ https://www.senado.cl/estado-de-excepcion-hasta-el-30-de-junio-por-mayoria-senad
 
 *Sources*:
  [1]
-https://www.oas.org/dil/esp/Constitucion_Chile.pdf
+https://perma.cc/5Y62-V636
 [2]
-https://www.diariooficial.interior.gob.cl/publicaciones/2020/03/18/42607-B/01/1742691.pdf
+https://perma.cc/VXX9-277R
 [3]
-https://www.bcn.cl/leychile/navegar?idNorma=1143740
+https://perma.cc/Q2MN-HHR5
 [4]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+https://perma.cc/8G56-2JV9
 [5]
-https://www.bcn.cl/leychile/navegar?idNorma=1157483
+https://perma.cc/BSV6-MLCH
 
 
 
@@ -538,11 +559,11 @@ https://www.bcn.cl/leychile/navegar?idNorma=1157483
 
 *Sources*:
  [1]
-https://www.minsal.cl/nuevo-coronavirus-2019-ncov/
+https://perma.cc/W2MS-3G8U
 [2]
-https://www.gob.cl/coronavirus/pasoapaso/
+https://perma.cc/R4QR-JYPM
 [3]
-https://www.diariooficial.interior.gob.cl/publicaciones/2020/03/18/42607-B/01/1742691.pdf
+https://perma.cc/FM2Y-GJHV
 
 
 
@@ -587,11 +608,15 @@ https://www.diariooficial.interior.gob.cl/publicaciones/2020/03/18/42607-B/01/17
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/chile/
+https://perma.cc/E4E9-DJVQ
+
+
 [2]
-https://www.hrw.org/americas/chile
+https://perma.cc/978C-FA2M
+
+
 [3]
-https://monitor.civicus.org/country/chile/
+https://perma.cc/7JH8-VR48
 
 
 
@@ -641,13 +666,13 @@ https://monitor.civicus.org/country/chile/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/chile/
+https://perma.cc/NJ6F-5G6K
 [2]
-https://www.hrw.org/americas/chile
+https://perma.cc/C3T6-746C
 [3]
-https://monitor.civicus.org/country/chile/
+https://perma.cc/3TF6-PN98
 [4]
-https://www.diariooficial.interior.gob.cl/publicaciones/2020/03/18/42607-B/01/1742691.pdf
+https://perma.cc/XZ4T-QJSR
 
 
 
@@ -692,12 +717,19 @@ https://www.diariooficial.interior.gob.cl/publicaciones/2020/03/18/42607-B/01/17
 
 *Sources*:
  [1]
-https://www.diariooficial.interior.gob.cl/publicaciones/2020/03/18/42607-B/01/1742691.pdf
+https://perma.cc/TTT5-VK2H
+
+
 [2]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/776T-FLHZ
+
+
 [3]
-https://rsf.org/en/countries
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/A682-7NQJ
+https://perma.cc/3CKG-VFUB
+
+
+
 
 
 
@@ -818,14 +850,19 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/N9QH-YHH4
+
 
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/7G6X-V9XN
+
+
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/9W6J-ZXBB
+
+
 [4]
-https://cpj.org/americas/chile/
+https://perma.cc/DG68-49KH
 
 
 
@@ -868,14 +905,19 @@ https://cpj.org/americas/chile/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/N9QH-YHH4
+
 
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/7G6X-V9XN
+
+
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/9W6J-ZXBB
+
+
 [4]
-https://cpj.org/americas/chile/
+https://perma.cc/DG68-49KH
 
 
 
@@ -918,14 +960,19 @@ https://cpj.org/americas/chile/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/N9QH-YHH4
+
 
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/7G6X-V9XN
+
+
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/9W6J-ZXBB
+
+
 [4]
-https://cpj.org/americas/chile/
+https://perma.cc/DG68-49KH
 
 
 
@@ -969,14 +1016,13 @@ https://cpj.org/americas/chile/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
-
+https://perma.cc/6CHQ-MLQT
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/3B25-5EK3
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/7K37-VMTH
 [4]
-https://cpj.org/americas/chile/
+https://perma.cc/KY3Y-D47A
 
 
 
@@ -1019,11 +1065,15 @@ https://cpj.org/americas/chile/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/N9QH-YHH4
+
+
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/7G6X-V9XN
+
+
 [3]
-https://cpj.org/americas/chile/
+https://perma.cc/DG68-49KH
 
 
 
@@ -1066,11 +1116,11 @@ https://cpj.org/americas/chile/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/KTT5-UUJY
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/7Y47-BFBF
 [3]
-https://cpj.org/americas/chile/
+https://perma.cc/5GM2-MQZN
 
 
 
@@ -1115,13 +1165,19 @@ https://cpj.org/americas/chile/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/4SZ5-J4AV
+
+
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/8DZB-3E5Q
+
+
 [3]
-https://www.minsal.cl/
+https://perma.cc/9QX6-YNYG
+
+
 [4]
-https://www.gob.cl/coronavirus/
+https://perma.cc/PQG8-JYQU
 
 
 
@@ -1166,11 +1222,11 @@ https://www.gob.cl/coronavirus/
 
 *Sources*:
  [1]
-https://www.theguardian.com/global-development/2020/aug/26/chile-police-covid-19-quarantine-protest
+https://perma.cc/A3JB-LGBY
 [2]
-https://monitor.civicus.org/updates/2020/06/29/chilean-police-forces-disrupt-and-repress-protests-covid-19/
+https://perma.cc/NV9H-ALUL
 [3]
-https://www.theguardian.com/world/2020/oct/14/calls-grow-for-radical-reform-of-chiles-national-police-force
+https://perma.cc/65R2-XMTY
 
 
 
@@ -1213,13 +1269,12 @@ https://www.theguardian.com/world/2020/oct/14/calls-grow-for-radical-reform-of-c
 
 *Sources*:
  [1]
-https://www.infodefensa.com/latam/2020/03/25/noticia-paises-latinoamerica-despliegan-combatir-covid19.html
+https://perma.cc/DBZ5-S5JH
 [2]
-https://www.infodefensa.com/latam/2020/09/04/noticia-chile-extiende-plazo-despliegue-estado-catastrofe.html
+https://perma.cc/2ZRY-4D3Y
 [3]
-https://www.infodefensa.com/latam/2020/12/31/noticia-ejercito-chile-despliega-capacidades-mayor-crisis-sanitaria-siglo.html
+https://perma.cc/ZQ2T-2ZBT
 [4]
-https://lta.reuters.com/articulo/salud-coronavirus-chile-patrullas-idLTAKBN23J358-OUSLT
-
+https://perma.cc/A3TL-C95C
 [5]
-https://www.diariooficial.interior.gob.cl/publicaciones/2020/03/18/42607-B/01/1742691.pdf
+https://perma.cc/625U-6DWP

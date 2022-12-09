@@ -52,24 +52,23 @@ January-March 2021: Order 809 from 10.02.2021  based on the Law No.15/2016 "For 
  
 
 *Sources*:
- https://www.kryeministria.al/newsroom/vendim-i-keshillit-te-ministrave-date-24-mars-2020/
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B339%5D&covid19=1
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://al.usembassy.gov/updates_covid19/
-(1)
+ https://perma.cc/D2BR-UQ4K
+https://perma.cc/MN9Q-2SHP
+https://perma.cc/UX3F-LZPA
+https://perma.cc/59E2-XFQ6
+https://perma.cc/TV2L-DK3Y
 
-https://www.constituteproject.org/constitution/Albania_2016?lang=en
-(2)
-https://www2.deloitte.com/content/dam/Deloitte/al/Documents/legal/Newsletter_Notice47_COVID19.pdf
-https://qbz.gov.al/eli/akt-normativ/2020/03/15/3/333da18e-47fd-4cc7-b38c-562ec56da463
-https://qbz.gov.al/news/33b00e4f-8efb-4c99-8c45-595cd9b84f1b
-https://shendetesia.gov.al/nga-neser-hyjne-ne-fuqi-masat-e-reja-manastirliu-kufizimet-per-te-frenuar-perhapjen-e-koronavirusit-me-vendosmeri-do-ta-perballim-se-bashku-kete-pandemi/
+https://perma.cc/5ZQG-S4JD
+https://perma.cc/TYV8-AFEB
+https://perma.cc/8RN2-CMCK
 
-https://www.garda.com/crisis24/news-alerts/398026/albania-authorities-to-tighten-covid-19-restrictions-and-introduce-nightly-curfew-from-november-11-update-17
-https://www.garda.com/crisis24/news-alerts/406021/albania-authorities-extend-covid-19-restriction-indefinitely-as-of-december-2-update-18
-https://qbz.gov.al/news/33b00e4f-8efb-4c99-8c45-595cd9b84f1b
-https://www.garda.com/crisis24/news-alerts/426036/albania-authorities-to-indefinitely-maintain-covid-19-related-nationwide-2200-0600-curfew-update-17
-https://www.garda.com/crisis24/news-alerts/474421/albania-domestic-covid-19-restrictions-remain-in-place-nationwide-as-of-may-3-international-entry-controls-lifted-update-24
+https://perma.cc/K2VJ-YE56
+https://perma.cc/33MS-N78V
+https://perma.cc/A43X-BWDA
+https://perma.cc/EPU5-YZC2
+https://perma.cc/DW9C-D334
+
+https://perma.cc/TPH8-BY4L
 
 
 
@@ -112,14 +111,11 @@ Q3 2020: Constitution (Article 101) that allows the Council of Ministers to pass
 Q4 2020, Q1 2021, Q2 2021: own English translation of LIGJNr. 15/2016 "PËR PARANDALIMIN DHE LUFTIMIN E INFEKSIONEVE DHE SËMUNDJEVE INFEKTIVE": Law No.15/2016 "For the prevention and fighting infections and infectious diseases."  According to Art. 7 (point 4d), the Minister of Health can declare measures restricting freedom of movement in order to combat infectious diseases. 
 
 *Sources*:
- https://www.kryeministria.al/newsroom/vendim-i-keshillit-te-ministrave-date-24-mars-2020/
-https://www.constituteproject.org/constitution/Albania_2016?lang=en
-
-https://shendetesia.gov.al/wp-content/uploads/2020/03/Akti-Normativ-nr.-3-date-15-mars-Per-marrjen-e-masava-te-vecanta-administrative-gjate-kohezgjatjes-se-periudhes-se-infeksionit-te-shkaktuar-nga-COVID-19.pdf
-
-https://www.parlament.al/Files/Integrimi/ligj-nr.-15-dt.-10.3.2016-1.pdf
-
-https://shendetesia.gov.al/wp-content/uploads/2021/02/Urdher-Nr.99.pdf
+ https://perma.cc/6KN4-8AN3
+https://perma.cc/7N34-5WCZ
+https://perma.cc/R8DL-V4ZQ
+https://perma.cc/6FMD-UT3Y
+https://perma.cc/NF55-LYHE
 
 
 
@@ -162,13 +158,14 @@ Q3 2020: The legal instrument was first used on 15 March 2020 and since then has
 Q4 2020, Q1 2021, Q2 2021: The legal instrument was first used on 11 November 2020. 
 
 *Sources*:
- https://www.kryeministria.al/newsroom/vendim-i-keshillit-te-ministrave-date-24-mars-2020/
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B339%5D&covid19=1
+ https://perma.cc/5UZM-FHU8
+https://perma.cc/J7UH-BULT
 
-https://www2.deloitte.com/content/dam/Deloitte/al/Documents/legal/Newsletter_Notice47_COVID19.pdf
-https://qbz.gov.al/eli/akt-normativ/2020/07/20/30/e9b8578c-4a19-49ef-b175-865c1897f861
+https://perma.cc/PT4F-CRWW
 
-https://portavendore.al/wp-content/uploads/2020/11/Urdher-nr.-616-dt.-9.11.2020-Per-kufizimin-e-levizjes-brenda-vendit_compressed.pdf
+https://perma.cc/4LH4-VBCV
+
+https://perma.cc/M83H-DTS7
 
 
 
@@ -211,11 +208,10 @@ Q3 2020:  the implementation of the legal instrument has not ended at the time o
 Q4 2020, Q1 2021, Q2 2021: the implementation of LIGJ Nr. 15/2016 PËR PARANDALIMIN DHE LUFTIMIN E INFEKSIONEVE DHE SËMUNDJEVE INFEKTIVE has not ended at the time of coding. 
 
 *Sources*:
- https://www.parlament.al/Projekte/PPPDetails/651
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B339%5D&covid19=1
-https://www.garda.com/crisis24/news-alerts/337691/albania-authorities-extend-state-of-emergency-until-june-23-update-10
-https://portavendore.al/wp-content/uploads/2020/11/Urdher-nr.-616-dt.-9.11.2020-Per-kufizimin-e-levizjes-brenda-vendit_compressed.pdf
-https://qbz.gov.al/eli/ligj/2020/11/26/138/d03fe18e-ef34-47f6-a260-933ba127e5da
+ https://perma.cc/2LJG-83SU
+https://perma.cc/4RZS-Z5KV
+https://perma.cc/UZF2-4LUX
+https://perma.cc/2Z85-MXZ7
 
 
 
@@ -261,17 +257,14 @@ Q3 2020: The implementation of Normative Act no. 3, dated 15.3.2020 that was ame
 Q4 2020, Q1 2021, Q2 2021: some measure implementated using of LIGJ Nr. 15/2016 PËR PARANDALIMIN DHE LUFTIMIN E INFEKSIONEVE DHE SËMUNDJEVE INFEKTIVE do not have a defined time limit and have not ended at the time of coding. 
 
 *Sources*:
- https://www.kryeministria.al/newsroom/vendim-i-keshillit-te-ministrave-date-24-mars-2020/
-https://www.constituteproject.org/constitution/Albania_2016?lang=en
-https://shendetesia.gov.al/nga-neser-hyjne-ne-fuqi-masat-e-reja-manastirliu-kufizimet-per-te-frenuar-perhapjen-e-koronavirusit-me-vendosmeri-do-ta-perballim-se-bashku-kete-pandemi/
-
-
-https://qbz.gov.al/eli/akt-normativ/2020/03/15/3/333da18e-47fd-4cc7-b38c-562ec56da463
-https://qbz.gov.al/eli/akt-normativ/2020/03/15/3
-
-https://portavendore.al/wp-content/uploads/2020/11/Urdher-nr.-616-dt.-9.11.2020-Per-kufizimin-e-levizjes-brenda-vendit_compressed.pdff
-https://new.shendetesia.gov.al/nivel-i-larte-risku-komiteti-teknik-i-eksperteve-vijone-te-mbeten-ne-fuqi-masat-e-marra-pa-afat/
-https://www.garda.com/crisis24/news-alerts/406021/albania-authorities-extend-covid-19-restriction-indefinitely-as-of-december-2-update-18
+ https://perma.cc/5KQR-95F9
+https://perma.cc/E6TR-73EZ
+https://perma.cc/5ZQG-S4JD
+https://perma.cc/8RN2-CMCK
+https://perma.cc/8RN2-CMCK
+https://perma.cc/QB48-8RX7
+https://web.archive.org/web/20210127233709/https://new.shendetesia.gov.al/nivel-i-larte-risku-komiteti-teknik-i-eksperteve-vijone-te-mbeten-ne-fuqi-masat-e-marra-pa-afat/
+https://perma.cc/L5KQ-UJMN
 
 
 
@@ -310,12 +303,9 @@ https://www.garda.com/crisis24/news-alerts/406021/albania-authorities-extend-cov
 *No comment provided* 
 
 *Sources*:
- https://www.kryeministria.al/newsroom/vendim-i-keshillit-te-ministrave-date-24-mars-2020/
-
-
-https://qbz.gov.al/eli/akt-normativ/2020/03/15/3/333da18e-47fd-4cc7-b38c-562ec56da463
-https://qbz.gov.al/eli/akt-normativ/2020/03/15/3
-https://portavendore.al/wp-content/uploads/2020/11/Urdher-nr.-616-dt.-9.11.2020-Per-kufizimin-e-levizjes-brenda-vendit_compressed.pdf
+ https://perma.cc/F53J-9529
+https://perma.cc/8RN2-CMCK
+https://perma.cc/2WY7-9D5V
 
 
 
@@ -361,11 +351,18 @@ Q3 2020: According to Article 101 of the Constitution, normative acts that the f
 Q4 2020, Q1 2021, Q2 2021: legislature approval is not required for the measures restricting freedom of movement because of infectious diseases. Such measures are taken by the Minister of Health on the recommendations of the Institute of Public Health. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Albania_2016?lang=en
-https://www.parlament.al/Projekte/PPPDetails/651
-https://www.parlament.al/Files/Akte/20190724173027ligj%20nr.%2045,%20dt.%2018.7.2019.pdf
-https://www.parlament.al/LibrariaAkteve/LibrariaAkteDetails/5163
-https://www.parlament.al/Files/Integrimi/ligj-nr.-15-dt.-10.3.2016-1.pdf
+ https://perma.cc/P2GR-EZT9
+
+
+
+
+
+
+
+https://perma.cc/K9W9-HSQ6
+https://perma.cc/U8DR-FYJ7
+https://perma.cc/A27M-6Z37
+https://perma.cc/6SAS-KNGK
 
 
 
@@ -411,14 +408,19 @@ Q3 2020:  The legislature approved the measures (Law 95/2020).
 Q4 2020, Q1 2021, Q2 2021: not required by law. 
 
 *Sources*:
- https://www.parlament.al/Projekte/PPPDetails/651
+ https://perma.cc/X5SS-24A2
 
 
-https://www.parlament.al/LibrariaAkteve/LibrariaAkteDetails/5163
-
-https://www.parlament.al/Files/Integrimi/ligj-nr.-15-dt.-10.3.2016-1.pdf
 
 
+
+https://perma.cc/MF5M-R569
+
+
+
+
+
+https://perma.cc/EQ4Q-WKMJ
 
 
 
@@ -466,11 +468,15 @@ https://www.parlament.al/Files/Integrimi/ligj-nr.-15-dt.-10.3.2016-1.pdf
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: no limitations on the lawmaking role of the legislature found. 
 
 *Sources*:
- https://www.kryeministria.al/newsroom/vendim-i-keshillit-te-ministrave-date-24-mars-2020/
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B339%5D&covid19=1
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-https://www.parlament.al/News/Index/10347
-https://www.wfd.org/wp-content/uploads/2021/04/National-Security-Protection-of-Human-Rights-in-Emergency-FINAL-EN.pdf
+ https://perma.cc/LMW8-5T6D
+
+https://perma.cc/J7UH-BULT
+
+https://perma.cc/GA3R-4N6K
+
+https://perma.cc/F8VJ-C33X
+
+https://perma.cc/872B-NL4K
 
 
 
@@ -592,15 +598,49 @@ https://www.wfd.org/wp-content/uploads/2021/04/National-Security-Protection-of-H
  Initial measures were the same for the whole country. The easing of restrictions varies depending on the municipality, with some municipalities designated as "green areas" from 27 April in the first wave and from 4 May in the second wave. Separation of the areas into low and high risk areas ended by 1 June 2020. No new information on subnational variation found since June 2020. 
 
 *Sources*:
- https://www.kryeministria.al/newsroom/hapja-ne-zonat-e-gjelberta-faze-pilotimi-ne-zonat-me-rrezik-te-ulet-te-perhapjes-se-infeksionit/
-https://www.kryeministria.al/newsroom/plani-i-ri-i-masave-lehtesuese-ne-11-maj-nis-faza-e-dyte-e-rihapjes/
-https://www.oecd.org/south-east-europe/COVID-19-Crisis-in-Albania.pdf
+ https://perma.cc/MPG3-EE58
 
-https://www.garda.com/crisis24/news-alerts/464806/albania-authorities-maintain-domestic-covid-19-related-restrictions-as-of-april-8-update-21
-https://www.garda.com/crisis24/news-alerts/474421/albania-domestic-covid-19-restrictions-remain-in-place-nationwide-as-of-may-3-international-entry-controls-lifted-update-24
-https://www.garda.com/crisis24/news-alerts/441496/albania-authorities-tighten-domestic-covid-19-related-restrictions-through-at-least-feb-25-update-20
-https://www.garda.com/crisis24/news-alerts/406021/albania-authorities-extend-covid-19-restriction-indefinitely-as-of-december-2-update-18
-https://www.garda.com/crisis24/news-alerts/383746/albania-authorities-to-ease-some-covid-19-restrictions-from-october-1-update-15
+
+
+
+
+https://perma.cc/9WFQ-MUAH
+
+
+
+
+
+https://perma.cc/642X-B7EF
+
+
+
+
+
+https://perma.cc/FX29-5CYL
+
+
+
+
+
+https://perma.cc/5XNJ-ZFWQ
+
+
+
+
+
+https://perma.cc/79MC-9GPF
+
+
+
+
+
+https://perma.cc/8K7L-QA8C
+
+
+
+
+
+https://perma.cc/9XQV-H5XP
 
 
 
@@ -644,8 +684,8 @@ https://www.garda.com/crisis24/news-alerts/383746/albania-authorities-to-ease-so
  No de-jure disciminating provisions and no information on de-facto discrimination found. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/albania/
-https://www.hrw.org/europe/central-asia/albania
+ https://perma.cc/AR7U-25WJ
+https://perma.cc/H6CW-53KE
 
 
 
@@ -694,9 +734,11 @@ https://www.hrw.org/europe/central-asia/albania
  No measures violating non-derogable rights found. 
 
 *Sources*:
- https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://www.amnesty.org/en/countries/europe-and-central-asia/albania/
-https://new.shendetesia.gov.al/category/lajme/
+ https://perma.cc/B56H-YR5N
+
+https://perma.cc/M4P6-CVLL
+
+https://web.archive.org/web/20200422133851/https://new.shendetesia.gov.al/category/lajme/
 
 
 
@@ -740,10 +782,11 @@ https://new.shendetesia.gov.al/category/lajme/
  No evidence of measures limiting media freedom found. 
 
 *Sources*:
- https://www.kryeministria.al/newsroom/vendim-i-keshillit-te-ministrave-date-24-mars-2020/
+ https://perma.cc/8GBQ-E2ZP
 
-https://ipi.media/albania/
-https://new.shendetesia.gov.al/category/lajme/
+https://perma.cc/U73Z-9BA8
+
+https://web.archive.org/web/20200422133851/https://new.shendetesia.gov.al/category/lajme/
 
 
 
@@ -863,9 +906,11 @@ https://new.shendetesia.gov.al/category/lajme/
  official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. No new information found since June 2020. 
 
 *Sources*:
- https://shendetesia.gov.al/koronavirusi-i-ri-dhe-masat-ndaj-tij/
-https://ipi.media/albania/
-https://rsf.org/en/albania
+ https://perma.cc/G9WP-P9XC
+
+https://perma.cc/F65J-PJLN
+
+https://perma.cc/4YKT-KW3A
 
 
 
@@ -911,12 +956,15 @@ Q4 2020: "On 11 and 12 December 2020, police assaulted and detained Ora News RTV
 Q1 2021, Q2 2021: no information found. Since previous violations were isolated incidents, merepgov is coded as 0. 
 
 *Sources*:
- https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=2&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_sojdashboard_WAR_coesojportlet_alertPK=78918290&_sojdashboard_WAR_coesojportlet_cmd=get_pdf_one
+ https://perma.cc/Q5CC-8JS7
 (1)
-https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/
 
-https://ipi.media/albania/
-https://rsf.org/en/albania
+
+https://perma.cc/6LNW-4SPM
+
+https://perma.cc/DF7U-38LN
+
+https://perma.cc/S5AQ-LMA7
 
 
 
@@ -960,12 +1008,25 @@ https://rsf.org/en/albania
  
 
 *Sources*:
- https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=2&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_sojdashboard_WAR_coesojportlet_alertPK=65038885&_sojdashboard_WAR_coesojportlet_cmd=get_pdf_one
-https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/
+ https://perma.cc/NFQ5-68BW
 
-https://ipi.media/albania/
-https://rsf.org/en/albania
 
+
+
+
+https://perma.cc/9EHY-NJ7N
+
+
+
+
+
+https://perma.cc/K4FJ-3XZZ
+
+
+
+
+
+https://perma.cc/RH2E-ESXF
 
 
 
@@ -1014,9 +1075,11 @@ Q1 2021: Fjona Çela, a journalist with Fax News television, "was barred from in
 Q2 2021: No reports on limiting media access to Covid-19 information found; since the indicents in December 2020 and February 2021 were isolated and I found no information suggestings limitations on media access are ongoing, meinf is coded as 0. 
 
 *Sources*:
- https://ipi.media/alerts/faxnews-journalist-obstructed-from-pandemic-reporting-by-ministry-media-adviser-in-albania/
+ https://perma.cc/6FDA-WPFN
 (2)
-https://ipi.media/ipi-condemns-detention-and-assault-of-journalists-documenting-police-violence-in-albania/
+
+
+https://perma.cc/Y74K-69GC
 (1)
 
 
@@ -1059,11 +1122,15 @@ https://ipi.media/ipi-condemns-detention-and-assault-of-journalists-documenting-
  Q4 2020:  "On 11 and 12 December 2020, police assaulted and detained Ora News RTV journalist Xhoi Malësia and Kohan Jone newspaper’s editor in chief Qamil Xhani, while they were covering protests in Tirana against police violence. Street clashes erupted in the capital following the death of a 25-year-old man shot by police while enforcing a COVID-linked curfew on 8 December." (Council of Europe, 1)  According  Malësia, the police officer "used a slur to insult his family", which is considered verbal assault and hence mevhar is coded as 1. Since it is a single incident and I found no further evidence of verbal harassment of journalists, mevhar is coded as 0 in Q2 2020, Q3 2020, Q1 2021, and Q2 2021. 
 
 *Sources*:
- https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=2&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_sojdashboard_WAR_coesojportlet_alertPK=78918290&_sojdashboard_WAR_coesojportlet_cmd=get_pdf_one
+ https://perma.cc/NSX7-2VYT
 (1)
-https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/
-https://ipi.media/albania/
-https://rsf.org/en/albania
+
+
+https://perma.cc/557A-R32Z
+
+https://perma.cc/4PZB-NZDE
+
+https://perma.cc/H4C6-U25U
 
 
 
@@ -1109,13 +1176,18 @@ Q4 2020: "On 11 and 12 December 2020, police assaulted and detained Ora News RTV
 Q1 2021, Q2 2021: Since the cases in Q4 2020 took place in a short period of time in relation to a specific event and I found no further evidence of physical harassment of journalists, mephar is c0ded as 0. 
 
 *Sources*:
- https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/
-https://ipi.media/albania/
-https://rsf.org/en/albania
+ https://perma.cc/F6WC-7VPQ
 
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=2&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_sojdashboard_WAR_coesojportlet_alertPK=78918290&_sojdashboard_WAR_coesojportlet_cmd=get_pdf_one
+https://perma.cc/35QW-QH8W
+
+https://perma.cc/S9DN-2E2Y
+
+
+https://perma.cc/87GJ-CZKN
 (1)
-https://ipi.media/ipi-condemns-detention-and-assault-of-journalists-documenting-police-violence-in-albania/
+
+
+https://perma.cc/9NJH-HXKV
 
 
 
@@ -1159,10 +1231,12 @@ https://ipi.media/ipi-condemns-detention-and-assault-of-journalists-documenting-
  official website with information on Covid-19; no reports on disinformation found. On March 23 the Prime Minister sent a voice message asking citizens to “protect themselves from the media” (1) (in addition to other measures such as washing hands), which is not considered disinformation. No new information found since June 2020. 
 
 *Sources*:
- https://shendetesia.gov.al/koronavirusi-i-ri-dhe-masat-ndaj-tij/
-https://ipi.media/albania/
-https://rsf.org/en/albania
-https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/
+ https://perma.cc/G9WP-P9XC
+https://perma.cc/S7NX-SY26
+
+https://perma.cc/2GYV-KBRJ
+
+https://perma.cc/Y9VX-3X3D
 (1)
 
 
@@ -1207,12 +1281,31 @@ https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/
  No instances of police or military violence found in Q2 2020, Q3 2020. On 8 December 2020, the police shot a person who violated the curfew and did not obey the police's orders to stop. The police issued a statement that “the police officer did not act according to the law while using his firearm." (1) Since it was a single incident and I found no further cases of police violence in the execution of emergency measures, pomviol is coded as 0 in 2021 (Q1, Q2). 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/343001/albania-protesters-clash-with-security-forces-in-tirana-may-17
-https://www.reuters.com/article/us-health-coronavirus-albania-protests-idUSKBN28J2UU
-(1)
-https://www.garda.com/crisis24/news-alerts/412886/albania-continued-protests-against-police-violence-in-tirana-likely-through-at-least-dec-13
-https://www.euronews.com/2020/12/09/albanian-interior-minister-under-pressure-to-resign-over-police-shooting
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/albania/
+ https://perma.cc/B67H-9E4H
+
+
+
+
+
+https://perma.cc/LZY7-UFDC
+
+
+
+
+
+https://perma.cc/Q439-SKWD
+
+
+
+
+
+https://perma.cc/RBJ9-9WKE
+
+
+
+
+
+https://perma.cc/52RC-6A9V
 
 
 
@@ -1254,12 +1347,18 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/alb
  The military was involved in enforcing the emergency measures, such as preventing cross-town movement, in Q2 2020. According to ICNL, "Albania’s government deployed the army to enforce a strict 40-hour curfew aimed at stopping the spread of coronavirus. " (1) Since the  curfew ended on 1 June (OECD) milinv is coded as 0 in Q3 2020. I found no further information about the military's involvement in enforcing the curfew since November 2020 or other emergency measures. 
 
 *Sources*:
- https://aaf.mil.al/te-fundit/5514-covid-19-fa-vijojne-angazhimin-ne-operacionin-humanitar-dhe-ne-monitorim-patrullim-ne-gjithe-vendin
-https://aaf.mil.al/te-fundit/5494-covid-19-forcat-e-armatosura-shqiptare-vijojne-te-jene-ne-terren-dhe-te-angazhuar-ne-operacionin-humanitar-dhe-ne-monitorim-patrullim-ne-gjithe-vendin
-https://aaf.mil.al/te-fundit/5508-covid-19-fa-vijone-angazhimin-me-forca-dhe-mjete-per-perballimin-e-situates-se-krijuar-nga-covid-19
-https://aaf.mil.al/te-fundit/5520-covid-19-farsh-prej-pese-javesh-vijojne-operacionin-e-patrullim-monitorimit
-https://www.icnl.org/covid19tracker/?location=2&issue=&date=&type=
+ https://web.archive.org/web/20200328082610/https://aaf.mil.al/te-fundit/5494-covid-19-forcat-e-armatosura-shqiptare-vijojne-te-jene-ne-terren-dhe-te-angazhuar-ne-operacionin-humanitar-dhe-ne-monitorim-patrullim-ne-gjithe-vendin
 
+https://web.archive.org/web/20200419114101/https://aaf.mil.al/te-fundit/5514-covid-19-fa-vijojne-angazhimin-ne-operacionin-humanitar-dhe-ne-monitorim-patrullim-ne-gjithe-vendin
+
+https://web.archive.org/web/20200410170851/https://aaf.mil.al/te-fundit/5508-covid-19-fa-vijone-angazhimin-me-forca-dhe-mjete-per-perballimin-e-situates-se-krijuar-nga-covid-19
+
+https://web.archive.org/web/20200427203833/https://aaf.mil.al/te-fundit/5520-covid-19-farsh-prej-pese-javesh-vijojne-operacionin-e-patrullim-monitorimit
+
+https://perma.cc/559N-S8TP
 (1)
-https://www.oecd.org/south-east-europe/COVID-19-Crisis-in-Albania.pdf
-https://www.wfd.org/wp-content/uploads/2021/04/National-Security-Protection-of-Human-Rights-in-Emergency-FINAL-EN.pdf
+
+
+https://perma.cc/AK2F-MQ7E
+
+https://perma.cc/EJ59-67WY

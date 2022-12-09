@@ -57,46 +57,23 @@ In other provinces including the city of Kinshasa, North - Kivu (east), Kongo Ce
 A curfew is still in effect from 10 p.m. to 4 a.m. in some provinces including Kinshasa as of June 2021 (14). 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Democratic_Republic_of_the_Congo_2011.pdf?lang=en
-(1)
+ https://perma.cc/K4FZ-8PZE
 
-https://backend.juridocs.org/wp-content/uploads/2020/04/Copie-certifie%CC%81e-de-lOrdonnance-n%C2%B020-014-DU-24-Mars-2020-portant-Proclamation-de-lEtat-dUrgence-Sanitaire-pour-faire-face-a%CC%80-lEpide%CC%81mie-de-COVID-19.pdf.pdf
-(2)
-
-https://www.bbc.com/afrique/region-52029801
-
-https://www.france24.com/en/20200325-dr-congo-president-imposes-state-of-emergency-to-contain-coronavirus-outbreak
-
-https://juriafrique.com/blog/2020/04/30/rdc-lordonnance-de-letat-durgence-de-felix-tshisekedi-est-conforme-a-la-constitution-dapres-la-cour-constitutionnelle/
-
-https://zoom-eco.net/a-la-une/rdc-le-comite-multisectoriel-de-riposte-a-la-covid-19-alerte-sur-une-deuxieme-vague-de-cette-pandemie-en-afrique/
-
-https://www.garda.com/crisis24/news-alerts/416591/drc-authorities-to-implement-nightly-curfew-from-dec-18-due-to-covid-19-activity-update-20#:~:text=Authorities%20in%20the%20Democratic%20Republic,disease%20(COVID%2D19).
-(7)
-
-https://afrique.lalibre.be/56783/coronavirus-debut-du-couvre-feu-en-rdc/
-(8)
-
-https://www.ccife-rdcongo.org/actualites/n/news/17-12-20-ministere-de-linterieur-arrete-precisant-les-modalites-dapplication-des-mesures-de-lutt.html
-(9)
-
-https://www.ccife-rdcongo.org/fileadmin/cru-1622202093/repcongo/user_upload/WhatsApp_Image_2020-12-19_at_09.49.07.jpeg
-(10)
-
-https://www.ccife-rdcongo.org/fileadmin/cru-1622202093/repcongo/user_upload/WhatsApp_Image_2020-12-19_at_09.49.07_1_.jpeg
-(11)
-
-https://www.ccife-rdcongo.org/fileadmin/cru-1622202093/repcongo/user_upload/WhatsApp_Image_2020-12-19_at_09.49.08.jpeg
-(12)
-
-https://www.aa.com.tr/fr/afrique/rdc-covid-19-all%C3%A8gement-du-couvre-feu-/2208322
-(13)
-
-https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-democratique-du-congo/
-(14)
-
-https://twitter.com/CMR_Covid19_RDC/status/1405227235221676036
-(15)
+https://backend.juridocs.org/wp-content/uploads/2020/04/Copie-certifie%CC%81e-de-lOrdonnance-n%C2%B020-014-DU-24-Mars-2020-portant-Proclamation-de-lEtat-dUrgence-Sanitaire-pour-faire-face-a%CC%80-lEpide%CC%81mie-de-COVID-19.pdf
+https://perma.cc/4FB7-FWST
+https://perma.cc/6XJD-W485
+https://perma.cc/QAE7-6B4P
+https://web.archive.org/web/20200811163902/https://juriafrique.com/blog/2020/04/30/rdc-lordonnance-de-letat-durgence-de-felix-tshisekedi-est-conforme-a-la-constitution-dapres-la-cour-constitutionnelle/
+https://perma.cc/98NE-TFXQ
+https://perma.cc/YSK5-J5MV
+https://perma.cc/YW5Z-27XK
+https://perma.cc/9JVW-R8UA
+https://perma.cc/AE2Q-4ZEP
+https://perma.cc/74MD-MDW7
+https://perma.cc/V6GJ-2NF5
+https://perma.cc/VY2P-VL3Z
+https://perma.cc/KA4X-WXZY
+https://web.archive.org/web/20210616181544/https://twitter.com/CMR_Covid19_RDC/status/1405227235221676036
 
 
 
@@ -141,10 +118,9 @@ https://twitter.com/CMR_Covid19_RDC/status/1405227235221676036
  Decree proclaiming the state of emergency: Ordonnance n° 20/014 of 24 March 2020. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Democratic_Republic_of_the_Congo_2011.pdf?lang=en
-(1)
+ https://perma.cc/K4FZ-8PZE
+
 https://backend.juridocs.org/wp-content/uploads/2020/04/Copie-certifie%CC%81e-de-lOrdonnance-n%C2%B020-014-DU-24-Mars-2020-portant-Proclamation-de-lEtat-dUrgence-Sanitaire-pour-faire-face-a%CC%80-lEpide%CC%81mie-de-COVID-19.pdf.pdf
-(2)
 
 
 
@@ -183,11 +159,9 @@ https://backend.juridocs.org/wp-content/uploads/2020/04/Copie-certifie%CC%81e-de
 *No comment provided* 
 
 *Sources*:
- http://www.leganet.cd/Legislation/JO/2020/Ordonnance%2024.03.2020.html
-
-https://www.juridocs.org/publications/read/ordonnance-portant-proclamation-de-letat-durgence-sanitaire-pour-faire-face-a-lepidemie-de-covid-19?searchItem=Etat%20d%27urgence
-
-https://www.bbc.com/afrique/region-52029801
+ https://perma.cc/J2VM-ZSYT
+https://backend.juridocs.org/wp-content/uploads/2020/04/Copie-certifie%CC%81e-de-lOrdonnance-n%C2%B020-014-DU-24-Mars-2020-portant-Proclamation-de-lEtat-dUrgence-Sanitaire-pour-faire-face-a%CC%80-lEpide%CC%81mie-de-COVID-19.pdf.pdf
+https://perma.cc/4FB7-FWST
 
 
 
@@ -227,15 +201,10 @@ https://www.bbc.com/afrique/region-52029801
 After the lifting of the state of emergency, there are social distancing measures in place, and the mandatory wearing of face masks. 
 
 *Sources*:
- https://zoom-eco.net/a-la-une/rdc-le-comite-multisectoriel-de-riposte-a-la-covid-19-alerte-sur-une-deuxieme-vague-de-cette-pandemie-en-afrique/
-
-www.garda.com/crisis24/news-alerts/362081/drc-authorities-lift-covid-19-state-of-emergency-july-22-update-19
-
-https://www.africanews.com/2020/07/22/dr-congo-president-announces-lifting-of-virus-restrictions//
-
-https://reliefweb.int/report/democratic-republic-congo/democratic-republic-congo-food-security-alert-covid-19-impacts-amid
-
-
+ https://perma.cc/U8KT-TAFR
+https://perma.cc/HJC5-8PCS
+https://perma.cc/H5W9-ZPBT
+https://perma.cc/AKR6-DES5
 
 
 
@@ -277,13 +246,10 @@ https://reliefweb.int/report/democratic-republic-congo/democratic-republic-congo
  The state of emergency was initially proclaimed for a period of 30 days starting from the date of the first ordinance on 25 March 2020. It had been prolonged several times until its lifting on 22 July 2020. 
 
 *Sources*:
- http://www.leganet.cd/Legislation/JO/2020/Ordonnance%2024.03.2020.html
-
-http://www.cheikfitanews.net/2020/03/document.coronavirus-ordonnance-sur-l-etat-d-urgence-sanitaire.html
-
-https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-democratique-du-congo/
-
-https://www.aa.com.tr/en/africa/dr-congo-extends-state-of-emergency-amid-covid-19/1816681
+ https://perma.cc/J2VM-ZSYT
+https://perma.cc/FW96-CNLP
+https://perma.cc/5V37-A94P
+https://perma.cc/Q6E2-2FR7
 
 
 
@@ -322,15 +288,11 @@ https://www.aa.com.tr/en/africa/dr-congo-extends-state-of-emergency-amid-covid-1
  The state of emergency was initially proclaimed for a period of 30 days starting from the date of the first ordinance on 25 March 2020. It had been prolonged several times until its lifting on 22 July 2020. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/352646/drc-government-extends-state-of-health-emergency-until-july-5-update-17
-
-http://www.leganet.cd/Legislation/JO/2020/Ordonnance%2024.03.2020.html
-
-http://www.cheikfitanews.net/2020/03/document.coronavirus-ordonnance-sur-l-etat-d-urgence-sanitaire.html
-
-https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-democratique-du-congo/
-
-https://www.aa.com.tr/en/africa/dr-congo-extends-state-of-emergency-amid-covid-19/1816681
+ https://perma.cc/FM6U-MX8L
+https://perma.cc/HT8M-LJYZ
+https://web.archive.org/web/20200330113154/http://www.cheikfitanews.net/2020/03/document.coronavirus-ordonnance-sur-l-etat-d-urgence-sanitaire.html
+https://perma.cc/PF6V-5F9K
+https://perma.cc/C46R-ABPC
 
 
 
@@ -377,16 +339,13 @@ Measures in place since the end of the state of emergency have been made by the 
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Democratic_Republic_of_the_Congo_2011.pdf?lang=en
-
+https://perma.cc/K4FZ-8PZE
 [2]
-https://constitutionnet.org/news/drcs-constitutional-court-broken-shield-overseeing-executive-emergencies
-
+https://perma.cc/MX9L-6GP6
 [3]
-https://www.ccife-rdcongo.org/actualites/n/news/17-12-20-ministere-de-linterieur-arrete-precisant-les-modalites-dapplication-des-mesures-de-lutt.html
-
+https://perma.cc/5GQ8-ECWL
 [4]
-https://twitter.com/Presidence_RDC/status/1390042483409686533
+https://web.archive.org/web/20210505204800/https://twitter.com/Presidence_RDC/status/1390042483409686533
 
 
 
@@ -430,23 +389,17 @@ https://twitter.com/Presidence_RDC/status/1390042483409686533
 Measures in place since the end of the state of emergency have been made by the Ministry of Interior and Presidential proclamations. These make no reference to a specific legal instrument and have not required legislative approval. 
 
 *Sources*:
- https://constitutionnet.org/news/drcs-constitutional-court-broken-shield-overseeing-executive-emergencies
+ https://perma.cc/MX9L-6GP6
+https://perma.cc/9TAU-WM8Y
+https://perma.cc/77WR-9WVL
 
-https://www.radiookapi.net/2020/05/22/actualite/sante/rdc-lassemblee-nationale-vote-une-nouvelle-prorogation-de-letat-durgence
+https://perma.cc/ML3M-KEVP
+https://perma.cc/9NL3-B3U6
+https://perma.cc/J695-MQ28
+https://perma.cc/DRN9-3V2M
+https://perma.cc/4XEN-4HDH
 
-https://www.rfi.fr/fr/afrique/20200414-état-durgence-sanitaire-en-rdc-que-comprendre-larrêt-la-cour-constitutionnelle
-
-https://www.garda.com/crisis24/news-alerts/352646/drc-government-extends-state-of-health-emergency-until-july-5-update-17
-
-https://www.mediacongo.net/article-actualite-67565_prof_andre_mbata_le_congres_n_a_pas_competence_de_proroger_l_etat_d_urgence.html
-
-https://www.accord.org.za/analysis/an-overview-on-the-democratic-republic-of-congo-in-times-of-covid-19/
-
-https://www.ingsa.org/covid/policymaking-tracker/africa/democratic-republic-of-the-congo/?_page=2
-
-https://www.ccife-rdcongo.org/actualites/n/news/17-12-20-ministere-de-linterieur-arrete-precisant-les-modalites-dapplication-des-mesures-de-lutt.html
-
-https://twitter.com/Presidence_RDC/status/1390042483409686533
+https://web.archive.org/web/20210505204800/https://twitter.com/Presidence_RDC/status/1390042483409686533
 
 
 
@@ -492,17 +445,14 @@ https://twitter.com/Presidence_RDC/status/1390042483409686533
  The legislature suspended plenary sittings from 18 March to 5 April 2020 with reference to Covid-19, but it continued to function as a body, with committee meetings allowed under certain conditions [1]. The President of the National Assembly was also involved in the pandemic response during this period [2]. The legislature resumed sittings on 23 April, where it approved an extension of the state of emergency, and it renewed the state of emergency several times until it expired on 22 July 2020 [3]. Because the president declared the state of emergency without prior authorization from parliament and the measures were in place for 30 days without parliamentary approval, we code Q2 2020 as "2". During Q3 2020, extension of the state of emergency occurred through normal procedures and the legislature had the power, at any time, to end the state of emergency according to the constitution [4], thus we code this period as "1".  Since December 2020, the Ministry of Interior and the President have made several proclamations concerning restrictions related to Covid-19 without reference to a specific legal instrument. As such, we code Q4 of 2020 through Q2 of 2021 as "3" because vaguely formulated laws have allowed the executive to rule by decree. 
 
 *Sources*:
- [1]
-https://www.radiookapi.net/2020/03/19/actualite/sante/coronavirus-pas-des-plenieres-lassemblee-nationale-et-au-senat-jusquau-5
-
+ [1}
+https://perma.cc/MR6H-TRJN
 [2]
-https://www.jeuneafrique.com/916563/politique/rdc-la-garde-rapprochee-de-jeanine-mabunda-presidente-de-lassemblee-nationale/
-
+https://perma.cc/YFF2-KB8B
 [3]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-
+https://perma.cc/8FHR-6LEN
 [4]
-https://www.constituteproject.org/constitution/Democratic_Republic_of_the_Congo_2011.pdf?lang=en
+https://perma.cc/K4FZ-8PZE
 
 
 
@@ -634,23 +584,13 @@ In other provinces including the city of Kinshasa, North - Kivu (east), Kongo Ce
 A curfew is still in effect from 10 p.m. to 4 a.m. in some provinces including Kinshasa as of June 2021 (7). 
 
 *Sources*:
- https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-democratique-du-congo/
-
-https://www.france24.com/en/20200325-dr-congo-president-imposes-state-of-emergency-to-contain-coronavirus-outbreak
-
-https://www.lesoir.be/289798/article/2020-03-24/coronavirus-la-rdc-decrete-letat-durgence-et-isole-la-capitale-kinshasa-du-reste
-
-https://www.garda.com/crisis24/news-alerts/416591/drc-authorities-to-implement-nightly-curfew-from-dec-18-due-to-covid-19-activity-update-20#:~:text=Authorities%20in%20the%20Democratic%20Republic,disease%20(COVID%2D19).
-(4)
-
-https://afrique.lalibre.be/56783/coronavirus-debut-du-couvre-feu-en-rdc/
-(5)
-
-https://www.aa.com.tr/fr/afrique/rdc-covid-19-all%C3%A8gement-du-couvre-feu-/2208322
-(6)
-
-https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-democratique-du-congo/
-(7)
+ https://perma.cc/PF6V-5F9K
+https://perma.cc/6XJD-W485
+https://perma.cc/G39V-MK2R
+https://perma.cc/YSK5-J5MV
+https://perma.cc/YW5Z-27XK
+https://perma.cc/VY2P-VL3Z
+https://perma.cc/PF6V-5F9K
 
 
 
@@ -694,13 +634,13 @@ https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-desti
  No evidence of discrimination related to Covid-19 measures was found. 
 
 *Sources*:
- http://www.leganet.cd/Legislation/JO/2020/Ordonnance%2024.03.2020.html
+ https://perma.cc/HB76-4SZD
+https://perma.cc/M5DS-AT3D
+https://perma.cc/Y4PK-NMYV
+https://perma.cc/RVZ9-TY9S
 
-https://www.stopcoronavirusrdc.info/mesures-de-protection-contre-le-coronavirus
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/democratic-republic-of-the-congo/
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
 
 
 
@@ -749,17 +689,13 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
  Nothing mentioned in the emergency measures, nor in reports on human rights violations. 
 
 *Sources*:
- http://www.leganet.cd/Legislation/JO/2020/Ordonnance%2024.03.2020.html
+ https://perma.cc/HT8M-LJYZ
+https://perma.cc/4TF2-BJMK
+https://perma.cc/PF6V-5F9K
+https://perma.cc/K4FZ-8PZE
+https://perma.cc/Y4PK-NMYV
 
-https://www.stopcoronavirusrdc.info/mesures-de-protection-contre-le-coronavirus
-
-https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-democratique-du-congo/
-
-https://www.constituteproject.org/constitution/Democratic_Republic_of_the_Congo_2011.pdf?lang=en
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/democratic-republic-of-the-congo/
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+https://perma.cc/RVZ9-TY9S
 
 
 
@@ -803,19 +739,12 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
  No evidence of media limitations found in the emergency measures. 
 
 *Sources*:
- http://www.leganet.cd/Legislation/JO/2020/Ordonnance%2024.03.2020.html
-
-https://www.stopcoronavirusrdc.info/mesures-de-protection-contre-le-coronavirus
-
-https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-democratique-du-congo/
-
-https://www.ccife-rdcongo.org/actualites/n/news/17-12-20-ministere-de-linterieur-arrete-precisant-les-modalites-dapplication-des-mesures-de-lutt.html
-
-https://www.ccife-rdcongo.org/fileadmin/cru-1622202093/repcongo/user_upload/WhatsApp_Image_2020-12-19_at_09.49.07.jpeg
-
-https://www.ccife-rdcongo.org/fileadmin/cru-1622202093/repcongo/user_upload/WhatsApp_Image_2020-12-19_at_09.49.07_1_.jpeg
-
-https://www.ccife-rdcongo.org/fileadmin/cru-1622202093/repcongo/user_upload/WhatsApp_Image_2020-12-19_at_09.49.08.jpeg
+ https://perma.cc/HT8M-LJYZ
+https://perma.cc/4TF2-BJMK
+https://perma.cc/PF6V-5F9K
+https://perma.cc/4XEN-4HDH
+https://perma.cc/AE2Q-4ZEPhttps://perma.cc/74MD-MDW7
+https://perma.cc/V6GJ-2NF5
 
 
 
@@ -945,28 +874,15 @@ According to the HRW world report 2020 (3), ''Dozens of people who criticized go
 ''The human rights situation in the DRC has reportedly deteriorated under president Felix Tshisekedi’s watch. His administration is accused of increasingly cracking down on the media and activist groups during its two years in office.  In January 2021, Human Rights Watch reported that at least 109 cases of arbitrary arrests and harassment had been recorded over the past year. Many victims were journalists, who faced intimidation, threats, and sometimes beatings.'' (6) 
 
 *Sources*:
- https://rsf.org/en/democratic-republic-congo
-(1)
+ https://perma.cc/8EM4-SNKB
 
-https://rsf.org/en/reports/2020-pandemic-has-challenged-press-freedom-africa
-(2)
-
-https://www.hrw.org/world-report/2021/country-chapters/democratic-republic-congo#1da9be
-(3)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/democratic-republic-of-the-congo/
-(4)
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-(5)
-
-https://www.ecoi.net/en/document/2046568.html
-(6)
-
-https://www.dailymaverick.co.za/article/2021-05-25-covid-19-and-the-escalating-assault-on-press-freedom-across-southern-africa/
-(7)
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+https://perma.cc/X35P-L3W7
+https://perma.cc/57M2-WMXJ
+https://perma.cc/Y4PK-NMYV
+https://perma.cc/RVZ9-TY9S
+https://perma.cc/5WKA-AYHR
+https://perma.cc/M3RH-YQBU
+https://perma.cc/Y48F-GE4K
 
 
 
@@ -1018,35 +934,17 @@ According to the HRW world report 2020 (1), ''Dozens of people who criticized go
 ''The human rights situation in the DRC has reportedly deteriorated under president Felix Tshisekedi’s watch. His administration is accused of increasingly cracking down on the media and activist groups during its two years in office. In January 2021, Human Rights Watch reported that at least 109 cases of arbitrary arrests and harassment had been recorded over the past year. Many victims were journalists, who faced intimidation, threats, and sometimes beatings.'' (5) 
 
 *Sources*:
- https://www.hrw.org/world-report/2021/country-chapters/democratic-republic-congo#1da9be
-(1)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/democratic-republic-of-the-congo/
-(2)
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-(3)
-
-https://www.ecoi.net/en/document/2046568.html
-(4)
-
-https://www.dailymaverick.co.za/article/2021-05-25-covid-19-and-the-escalating-assault-on-press-freedom-across-southern-africa/
-(5)
-
-https://rsf.org/en/democratic-republic-congo
-(6)
-
-https://rsf.org/fr/actualites/rdc-un-journaliste-renverse-moto-par-des-policiers-pour-sa-couverture-du-confinement
-(7)
-
-https://rsf.org/en/reports/2020-pandemic-has-challenged-press-freedom-africa
-(8)
-
-https://www.radiookapi.net/2020/05/12/actualite/securite/kasai-oriental-le-directeur-de-la-radio-fdm-arrete-pour-outrage-au
-
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+ https://perma.cc/57M2-WMXJ
+https://perma.cc/Y4PK-NMYV
+https://perma.cc/RVZ9-TY9S
+https://perma.cc/5WKA-AYHR
+https://perma.cc/M3RH-YQBU
+https://perma.cc/8EM4-SNKB
+https://perma.cc/65G9-QHKF
+https://perma.cc/X35P-L3W7
+https://perma.cc/AP7D-CN9S
+https://perma.cc/JMG3-7CAM
+https://perma.cc/Y48F-GE4K
 
 
 
@@ -1088,24 +986,15 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
  Congolese reporter Faustin Mbiya, a journalist at Foundation Daniel Madimba radio station based in Mbuji-Mayi, was arrested with charges of violating Covid-19 restrictions on 9 May 2020. He was filming a broadcast - unrelated to the pandemic. He was freed on bail of 300,000 Congolese francs (160 euros) on 12 May 2020 pending trial on charges of “violating emergency health measures” and “insulting the provincial authorities.”'' (1, 2). 
 
 *Sources*:
- https://rsf.org/en/tracker19-Coronavirus-Covid19
-(1)
-
-https://www.radiookapi.net/2020/05/12/actualite/securite/kasai-oriental-le-directeur-de-la-radio-fdm-arrete-pour-outrage-au
-(2)
-https://rsf.org/en/reports/2020-pandemic-has-challenged-press-freedom-africa
-
-https://rsf.org/en/news/lawsuit-kabila-lawyer-threatens-two-congolese-journalists
-
-https://rsf.org/en/news/drc-growing-crackdown-media-mongala-province
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/fr/actualites/rdc-un-journaliste-renverse-moto-par-des-policiers-pour-sa-couverture-du-confinement
-
-https://www.radiookapi.net/2020/05/12/actualite/securite/kasai-oriental-le-directeur-de-la-radio-fdm-arrete-pour-outrage-au
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+ https://perma.cc/CW2C-YUFG
+https://perma.cc/AP7D-CN9S
+https://perma.cc/X35P-L3W7
+https://perma.cc/NQ8Z-NDT5
+https://perma.cc/EB5H-8R9V
+https://perma.cc/3SJV-TGU3
+https://perma.cc/65G9-QHKF
+https://perma.cc/AP7D-CN9S
+https://perma.cc/Y48F-GE4K
 
 
 
@@ -1148,23 +1037,14 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
  No evidence was found. 
 
 *Sources*:
- https://www.hrw.org/world-report/2021/country-chapters/democratic-republic-congo#1da9be
-(1)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/democratic-republic-of-the-congo/
-(2)
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-(3)
-
-https://www.ecoi.net/en/document/2046568.html
-(4)
-
-
-https://rsf.org/en/reports/2020-pandemic-has-challenged-press-freedom-africa
-https://rsf.org/en/democratic-republic-congo
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
+ https://perma.cc/57M2-WMXJ
+https://perma.cc/Y4PK-NMYV
+https://perma.cc/RVZ9-TY9S
+https://perma.cc/5WKA-AYHR
+https://perma.cc/X35P-L3W7
+https://perma.cc/8EM4-SNKB
+https://perma.cc/3SJV-TGU3
+https://perma.cc/X92G-SKZ3
 
 
 
@@ -1207,19 +1087,13 @@ https://rsf.org/en/tracker19-Coronavirus-Covid19
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/07/22/dr-congo-authorities-foundering-rights
-
-[2]
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-[3]
-https://rsf.org/en/democratic-republic-congo
-
+https://perma.cc/Y84H-9L7W[2]
+https://perma.cc/CW2C-YUFG
+[3]https://perma.cc/8EM4-SNKB
 [4]
-https://freedomhouse.org/country/democratic-republic-congo/freedom-world/2021
-
+https://perma.cc/3CEE-XJGU
 [5]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/democratic-republic-of-the-congo/
+https://perma.cc/Y4PK-NMYV
 
 
 
@@ -1262,25 +1136,18 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/dem
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/07/22/dr-congo-authorities-foundering-rights
-
+https://perma.cc/Y84H-9L7W
 [2]
-https://reliefweb.int/report/world/2020-pandemic-has-challenged-press-freedom-africa
-
+https://perma.cc/MS4U-ESTU
 [3]
-https://rsf.org/en/news/drc-congolese-reporter-charged-violating-covid-19-restrictions
-
+https://perma.cc/67ZU-Z2ZK
 [4]
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
+https://perma.cc/CW2C-YUFG
 [5]
-https://rsf.org/en/democratic-republic-congo
-
+https://perma.cc/8EM4-SNKB
 [6]
-https://freedomhouse.org/country/democratic-republic-congo/freedom-world/2021
-
-[7]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/democratic-republic-of-the-congo/
+https://perma.cc/3CEE-XJGU
+[7]https://perma.cc/Y4PK-NMYV
 
 
 
@@ -1329,28 +1196,16 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/dem
 There is no info found on whether the government continues using chloroquine after June 2020. We code as 0 for quarters after Q2 2020 because we no longer found reports of the government using or promoting chloroquine. We do not know if it continued in practice. 
 
 *Sources*:
- https://www.france24.com/en/20200401-africans-rush-for-chloroquine-as-virus-tsunami-looms
-(1)
+ https://perma.cc/G5B7-PYXW
 
-https://allafrica.com/stories/202003250786.html
-(2)
+https://perma.cc/DJ7F-RWTT
 
-https://www.stopcoronavirusrdc.info/directives-prises-par-le-gouvernement
-(3)
-
-https://www.stopcoronavirusrdc.info/mesures-de-protection-contre-le-coronavirus
-(4)
-
-https://factcheck.stopcoronavirusrdc.info/factchecks
-(5)
-
-https://factcheck.stopcoronavirusrdc.info/factchecks/il-des-medicaments-pour-prevenir-ou-traiter-contre-le-nouveau-coronavirus
-(6)
-
-https://www.aa.com.tr/fr/afrique/rdc-covid-19-mise-sur-le-march%C3%A9-de-l-hydroxychloroquine-/1869280
-(7)
-
-https://www.stopcoronavirusrdc.info
+https://perma.cc/SD9Q-36Q8
+https://perma.cc/4TF2-BJMK
+https://web.archive.org/web/20200529171819/https://factcheck.stopcoronavirusrdc.info/factchecks
+https://web.archive.org/web/20200531174010/https://factcheck.stopcoronavirusrdc.info/factchecks/il-des-medicaments-pour-prevenir-ou-traiter-contre-le-nouveau-coronavirus
+https://perma.cc/8LT4-ATEK
+https://perma.cc/M99Y-A2R7
 
 
 
@@ -1404,25 +1259,17 @@ https://www.stopcoronavirusrdc.info
 ''On 9 June 2020, Kinshasa police used live fire to disperse merchants at the Central Market in Kinshasa. The merchants were trading despite the mandated closure of the market due to the Covid-19 pandemic. Two people were reportedly killed during the police intervention, although it is not immediately clear if they were shot or trampled by the crowd. The interior minister has halted the cleanup of the market pending an investigation into the incident.'' 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/democratic-republic-of-the-congo/
-(1)
+ https://perma.cc/Y4PK-NMYV
+https://perma.cc/57M2-WMXJ
+https://perma.cc/9U3Q-KAPB
 
-https://www.hrw.org/world-report/2021/country-chapters/democratic-republic-congo
-(2)
+https://perma.cc/J5KY-L536
+https://perma.cc/6PUT-9NHK
 
-https://congoinconversation.fondationcarmignac.com/2020/05/27/masks-ward-off-police-harassment-and-coronavirus/
-
-https://www.icrc.org/en/document/icrc-response-covid-19-democratic-republic-congo
-
-https://www.reuters.com/article/us-health-coronavirus-africa-police/in-parts-of-africa-police-are-accused-of-excess-force-amid-coronavirus-lockdowns-idUSKCN21S0M92
-
-https://www.hrw.org/news/2020/04/03/dr-congo-respecting-rights-key-amid-covid-19
-
-https://twitter.com/StanysBujakera/status/1244182350860353538?s=20
-
-https://www.garda.com/crisis24/news-alerts/349186/drc-police-use-live-fire-to-disperse-merchants-at-kinshasa-market-closed-amid-covid-19-june-9
-
-https://www.garda.com/crisis24/news-alerts/362081/drc-authorities-lift-covid-19-state-of-emergency-july-22-update-19
+https://perma.cc/HMQ3-V5M8
+https://web.archive.org/web/20200329084640/https://twitter.com/StanysBujakera/status/1244182350860353538
+https://perma.cc/C8UE-VWDT
+https://perma.cc/C8HT-SXSX
 
 
 
@@ -1466,10 +1313,6 @@ https://www.garda.com/crisis24/news-alerts/362081/drc-authorities-lift-covid-19-
 ''The primary responsibility for law enforcement and public order lies with the Congolese National Police, which operates under the Ministry of the Interior. The National Intelligence Agency, overseen by the presidency, is responsible for internal and external intelligence. The Armed Forces of the Democratic Republic of the Congo and the military intelligence service operate under the control of the Ministry of Defense and are primarily responsible for external security but in reality focus almost exclusively on internal security.'' (1) 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/democratic-republic-of-the-congo/
-(1)
-
-https://www.hrw.org/news/2020/04/03/dr-congo-respecting-rights-key-amid-covid-19
-
-
-https://www.garda.com/crisis24/news-alerts/349186/drc-police-use-live-fire-to-disperse-merchants-at-kinshasa-market-closed-amid-covid-19-june-9
+ https://perma.cc/Y4PK-NMYV
+https://perma.cc/HMQ3-V5M8
+https://perma.cc/C8UE-VWDT

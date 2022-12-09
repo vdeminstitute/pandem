@@ -45,28 +45,18 @@
  Kuwait has issued a number of measures (e.g. curfews, closing of schools and workplaces, restricting religious gatherings), with many of these starting on March 12 2020. But there is no mention of any state of emergency having been declared, or any legal instrument being referred to when implementing these measures. Garda, ACAPS and the U.S. Embassy for example makes no mention of any such state of emergency, nor any other emergency legislation. The emergency measures has continued in 2021, still without any legal instrument referenced. Therefore, this is coded as 5 as there is a national level emergency response, but no legal instrument or declared state of emergency. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
+ https://perma.cc/PN37-CWLL
+https://perma.cc/R7N9-SSCA
+https://perma.cc/237D-NP7F
+https://perma.cc/X7GW-M53K
+https://perma.cc/HW8K-YR97
+https://perma.cc/88WZ-ETQ2
 
-https://www.garda.com/search?query=Kuwait&sort_by=created
-
-https://kw.usembassy.gov/health-alert-u-s-embassy-kuwait-march-23-2020/
-
-https://kw.usembassy.gov/health-alert-u-s-embassy-kuwait-2/
-
-https://kw.usembassy.gov/Covid-19-information/
-https://www.garda.com/crisis24/news-alerts/325446/kuwait-government-implements-nationwide-curfew-march-22-update-8
-
-https://www.garda.com/crisis24/news-alerts/405571/kuwait-authorities-maintain-Covid-19-restrictions-december-1-update-28
-
-https://www.garda.com/crisis24/news-alerts/468856/kuwait-authorities-extend-nationwide-Covid-19-related-1900-0500-curfew-through-may-13-update-37
-
-https://www.garda.com/crisis24/news-alerts/445511/kuwait-authorities-cancel-national-day-and-liberation-day-celebrations-feb-25-26
-
-https://covidlawlab.org/?s=&topic=&country=Kuwait
-
-https://www.loc.gov/law/foreign-news/article/saudi-arabia-egypt-kuwait-authorities-impose-new-preventive-measures-to-combat-spread-of-Covid-19-virus-during-ramadan/
-
- 
+https://perma.cc/S8PS-B3EN
+https://perma.cc/7GGL-CFPT
+https://perma.cc/82LP-ZA9Z
+https://perma.cc/BZD8-A77N
+https://web.archive.org/web/20210415145835/https://www.loc.gov/law/foreign-news/article/saudi-arabia-egypt-kuwait-authorities-impose-new-preventive-measures-to-combat-spread-of-Covid-19-virus-during-ramadan/
 
 
 
@@ -394,37 +384,47 @@ https://www.loc.gov/law/foreign-news/article/saudi-arabia-egypt-kuwait-authoriti
  The Kuwaiti parliament initially postponed meetings and cancelled some sittings due to health reasons, but now continues to operate normally, and has thus not been suspended. However, the government have responded to the crisis using a series of decrees on emergency response, and has far reaching powers that limit parliaments law making role. Parliament has also continued to sit in 2021, and voted on other bills such as budget, though remains limited in their impact on the Covid-19 response as it continues to be handled through decrees. This is therefore coded 3 for all periods. 
 
 *Sources*:
- http://www.kna.kw/clt-html5/news-details.asp?id=33298
-
-http://www.kna.kw/clt-html5/news-details.asp?id=33385
-
-http://www.kna.kw/clt-html5/news-details.asp?id=33386
-
-http://www.kna.kw/clt-html5/news-details.asp?id=33415
-
-https://www.loc.gov/law/foreign-news/article/kuwait-new-emir-sworn-in-before-national-assembly/
-https://www.garda.com/crisis24/news-alerts/346726/kuwait-authorities-ease-Covid-19-measures-from-may-31-update-19
-
-https://thearabweekly.com/kuwait-parliament-passes-Covid-19-relief-laws-rejects-amnesty-bill
+ https://perma.cc/XEU3-3AQ4
 
 
-https://kw.usembassy.gov/Covid-19-information/
-https://www.garda.com/crisis24/news-alerts/325446/kuwait-government-implements-nationwide-curfew-march-22-update-8
+https://perma.cc/Y9JF-DVBY
 
-https://www.garda.com/crisis24/news-alerts/405571/kuwait-authorities-maintain-Covid-19-restrictions-december-1-update-28
 
-https://www.garda.com/crisis24/news-alerts/468856/kuwait-authorities-extend-nationwide-Covid-19-related-1900-0500-curfew-through-may-13-update-37
+https://perma.cc/TCH4-JNF3
 
-https://www.garda.com/crisis24/news-alerts/445511/kuwait-authorities-cancel-national-day-and-liberation-day-celebrations-feb-25-26
 
-https://covidlawlab.org/?s=&topic=&country=Kuwait
+https://perma.cc/JJ7X-QT5B
+
+
+https://perma.cc/J5R2-LR4B
+
+
+https://perma.cc/JW9J-LSWB
+
+
+https://perma.cc/5T6V-YG2P
+
+
+https://perma.cc/8FYN-W5A4
+
+
+https://perma.cc/FE4X-ECCX
+
+
+https://perma.cc/H9BQ-VTQS
+
+
+https://perma.cc/2MS6-6ZS9
+
+
+https://perma.cc/4LXS-CM7S
+
 
 https://www.loc.gov/law/foreign-news/article/saudi-arabia-egypt-kuwait-authorities-impose-new-preventive-measures-to-combat-spread-of-Covid-19-virus-during-ramadan/
 
-https://gulfnews.com/world/gulf/kuwait/Covid-19-kuwait-parliament-approves-kd600-million-reward-for-frontline-workers-1.79501482
 
 
- 
+https://perma.cc/PS5C-3EWZ
 
 
 
@@ -546,22 +546,31 @@ https://gulfnews.com/world/gulf/kuwait/Covid-19-kuwait-parliament-approves-kd600
  There is some sub-national variation in Kuwaits response in Q2 and Q3 in 2020, in that some lockdown measures were imposed at different lengths in different regions according to ACAPS. However, no sub-national variation has been found after that and all measures seem to be imposed nationwide. This is therefore coded 1 for the first two quarters, and 0 after that. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
+ https://perma.cc/S8JW-RFM2
 
-https://kw.usembassy.gov/health-alert-u-s-embassy-kuwait-march-23-2020/
 
-https://kw.usembassy.gov/health-alert-u-s-embassy-kuwait-2/
+https://perma.cc/6MDZ-X7PY
 
-https://kw.usembassy.gov/Covid-19-information/
 
-https://www.garda.com/crisis24/news-alerts/325446/kuwait-government-implements-nationwide-curfew-march-22-update-8
+https://perma.cc/LJ86-6L4T
 
-https://www.garda.com/crisis24/news-alerts/356516/kuwait-lockdown-restrictions-to-be-lifted-in-mahboula-and-jleeb-al-shuyoukh-from-july-9-update-21
-https://www.garda.com/crisis24/news-alerts/405571/kuwait-authorities-maintain-Covid-19-restrictions-december-1-update-28
 
-https://www.garda.com/crisis24/news-alerts/468856/kuwait-authorities-extend-nationwide-Covid-19-related-1900-0500-curfew-through-may-13-update-37
+https://perma.cc/369Z-GV9Q
 
-https://www.garda.com/crisis24/news-alerts/445511/kuwait-authorities-cancel-national-day-and-liberation-day-celebrations-feb-25-26
+
+https://perma.cc/TV3N-7JGV
+
+
+https://perma.cc/578B-PXJU
+
+
+https://perma.cc/RFJ9-32GR
+
+
+https://perma.cc/3J8S-6H2S
+
+
+https://perma.cc/4SLR-33TV
 
 
 
@@ -606,17 +615,14 @@ https://www.garda.com/crisis24/news-alerts/445511/kuwait-authorities-cancel-nati
 Note that in Q1 and Q2 of 2021, it was reported that Kuwaiti authorities have sidestepped migrant workers in their vaccination program, vaccinating all citizens of Kuwait before vaccinating any migrant workers who make up 70% of the population (so that teenagers with citizenship are prioritized over aged migrant workers, for instance). This is not accounted for here, however, as it does not regard democratic rights such as freedom of movement and assembly. 
 
 *Sources*:
- https://www.migrant-rights.org/2020/04/the-Covid-19-crisis-is-fueling-more-racist-discourse-towards-migrant-workers-in-the-gulf/
-https://news.kuwaittimes.net/website/mahboula-workers-stage-sit-in-protest-after-employer-abandoned-them/
-https://news.kuwaittimes.net/website/mp-says-govt-statements-on-demographics-not-serious/
-https://gulfif.org/how-Covid-19-stress-tested-relations-between-residents-citizens-in-kuwait/
-
-https://www.business-humanrights.org/en/latest-news/migrant-workers-in-kuwait-bahrain-face-discrimination-disproportionate-hardship-under-covid-19-response/
-
-https://thearabweekly.com/discrimination-outcry-expats-come-second-kuwaits-vaccine-drive
-
-https://www.business-humanrights.org/es/últimas-noticias/migrants-across-the-gulf-are-facing-systematic-discrimination-in-accessing-covid-19-vaccines-in-contrast-to-nationals/
-https://www.bloomberg.com/news/articles/2021-04-04/expats-struggle-to-get-vaccines-in-kuwait-citizens-come-1st
+ https://perma.cc/3TM3-PKFK
+https://perma.cc/747G-C2ZZ
+https://perma.cc/LJ5X-QDB9
+https://perma.cc/FTH7-YGU6
+https://perma.cc/SH4J-9XS2
+https://perma.cc/9VTE-V5MB
+https://www.business-humanrights.org/es/√∫ltimas-noticias/migrants-across-the-gulf-are-facing-systematic-discrimination-in-accessing-covid-19-vaccines-in-contrast-to-nationals/
+https://perma.cc/3FV6-XDPK
 
 
 
@@ -665,14 +671,22 @@ https://www.bloomberg.com/news/articles/2021-04-04/expats-struggle-to-get-vaccin
  No reports of violations of non-derogable rights in the emergency measures has been found. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/campaigns/2020/04/covid19-makes-gulf-countries-abuse-of-migrant-workers-impossible-to-ignore/
-https://www.theguardian.com/world/2020/apr/19/migrant-workers-bear-brunt-of-coronavirus-pandemic-in-gulf
-https://www.hrw.org/sites/default/files/supporting_resources/jointletter_kuwaitigov_migrantworkers_covidprotections_eng.pdf
-https://www.hrw.org/news/2020/04/17/kuwait-protect-migrant-workers-during-pandemic
+ https://perma.cc/4GJF-9B5U
 
-https://www.amnesty.org/en/search/?country=38541&resourceType=newsarticle&sort=date
 
-https://www.hrw.org/middle-east/n-africa/kuwait
+https://perma.cc/698J-PWPM
+
+
+https://perma.cc/U76Q-98GR
+
+
+https://perma.cc/JZ3W-AMMM
+
+
+https://perma.cc/9QFQ-XKCS
+
+
+https://perma.cc/PQF8-5QZ3
 
 
 
@@ -716,12 +730,19 @@ https://www.hrw.org/middle-east/n-africa/kuwait
  No de jure limitations to media freedom have been found within the emergency measures, and no indications of any such limitations have been given by Reporters without Borders, International Press Institute and the American Embassy in Kuwait, This is therefore coded as 0. 
 
 *Sources*:
- https://rsf.org/en/kuwait
-https://rsf.org/en/rsf_search?key=Kuwait
-https://ipi.media/?s=Kuwait
-https://kw.usembassy.gov/world-press-freedom-day/
+ https://perma.cc/6AHV-XCN7
 
-https://cpj.org/mideast/kuwait/
+
+https://perma.cc/6QHX-EGU5
+
+
+https://perma.cc/U68C-L2XP
+
+
+https://perma.cc/QU24-RPVP
+
+
+https://perma.cc/VK3T-HEM6
 
 
 
@@ -760,12 +781,19 @@ https://cpj.org/mideast/kuwait/
  No de-jure limits on media freedom in the emergency measures. 
 
 *Sources*:
- https://rsf.org/en/kuwait
-https://rsf.org/en/rsf_search?key=Kuwait
-https://ipi.media/?s=Kuwait
-https://kw.usembassy.gov/world-press-freedom-day/
+ https://perma.cc/6AHV-XCN7
 
-https://cpj.org/mideast/kuwait/
+
+https://perma.cc/6QHX-EGU5
+
+
+https://perma.cc/U68C-L2XP
+
+
+https://perma.cc/QU24-RPVP
+
+
+https://perma.cc/VK3T-HEM6
 
 
 
@@ -804,12 +832,19 @@ https://cpj.org/mideast/kuwait/
  No de-jure limits on media freedom in the emergency measures. 
 
 *Sources*:
- https://rsf.org/en/kuwait
-https://rsf.org/en/rsf_search?key=Kuwait
-https://ipi.media/?s=Kuwait
-https://kw.usembassy.gov/world-press-freedom-day/
+ https://perma.cc/6AHV-XCN7
 
-https://cpj.org/mideast/kuwait/
+
+https://perma.cc/6QHX-EGU5
+
+
+https://perma.cc/U68C-L2XP
+
+
+https://perma.cc/QU24-RPVP
+
+
+https://perma.cc/VK3T-HEM6
 
 
 
@@ -851,19 +886,15 @@ https://cpj.org/mideast/kuwait/
  The authorities have targeted the dissemination of “false information”, and investigated several websites for spreading false information. For example, “In April the Ministry of Information announced that it had referred 25 websites to the Public Prosecutor, mostly for “offending the government” over its handling of COVID-19.” (1) The Ministry of Information has been “monitor[ing] websites and news services that broadcast lies and rumors and provoke sedition” (2). This thus constitutes a de facto limitation on reporting on Covid-19, and coded 1 for all periods. 
 
 *Sources*:
- https://rsf.org/en/kuwait
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/kuwait/
+ https://perma.cc/GX2G-LBAG
+https://perma.cc/NU33-U3UK
 (1)
-https://www.amnesty.org/download/Documents/MDE0431362020ENGLISH.pdf
+https://perma.cc/99NV-AXSD
 (2)
-https://cpj.org/mideast/kuwait/
-
-http://www.arabtimesonline.com/news/info-acts-tough-on-websites-news-services/
-
-https://www.kuna.net.kw/ArticleDetails.aspx?id=2881967&language=en
-
-https://alqabas.com/article/5766930-بث-الواتس-أب-الجماعي-قد-يسجنك-بين-3-و15-سنة
+https://perma.cc/F8LY-N2AS
+https://perma.cc/J735-7MGP
+https://perma.cc/Z6V9-KPQ5
+https://perma.cc/7GHH-AMBU
 
 
 
@@ -905,19 +936,15 @@ https://alqabas.com/article/5766930-بث-الواتس-أب-الجماعي-قد-�
  The authorities have targeted the dissemination of “false information”, and investigated several websites for spreading false information. For example, “In April the Ministry of Information announced that it had referred 25 websites to the Public Prosecutor, mostly for “offending the government” over its handling of COVID-19.” (1) The Ministry of Information has been “monitor[ing] websites and news services that broadcast lies and rumors and provoke sedition” (2). This thus constitutes a de facto limitation on reporting on the governments response to Covid-19, and coded 1 for all periods. 
 
 *Sources*:
- https://rsf.org/en/kuwait
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/kuwait/
+ https://perma.cc/GX2G-LBAG
+https://perma.cc/NU33-U3UK
 (1)
-https://www.amnesty.org/download/Documents/MDE0431362020ENGLISH.pdf
+https://perma.cc/99NV-AXSD
 (2)
-https://cpj.org/mideast/kuwait/
-
-http://www.arabtimesonline.com/news/info-acts-tough-on-websites-news-services/
-
-https://www.kuna.net.kw/ArticleDetails.aspx?id=2881967&language=en
-
-https://alqabas.com/article/5766930-بث-الواتس-أب-الجماعي-قد-يسجنك-بين-3-و15-سنة
+https://perma.cc/F8LY-N2AS
+https://perma.cc/J735-7MGP
+https://perma.cc/Z6V9-KPQ5
+https://perma.cc/7GHH-AMBU
 
 
 
@@ -959,12 +986,19 @@ https://alqabas.com/article/5766930-بث-الواتس-أب-الجماعي-قد-�
  There are no indications given by Reporters without Borders, International Press Institute and the American Embassy in Kuwait that there have been limitations on access to information due to or related to the pandemic, and this is therefore coded 0. 
 
 *Sources*:
- https://rsf.org/en/kuwait
-https://rsf.org/en/rsf_search?key=Kuwait
-https://ipi.media/?s=Kuwait
-https://kw.usembassy.gov/world-press-freedom-day/
+ https://perma.cc/5CSG-24PA
 
-https://cpj.org/mideast/kuwait/
+
+https://perma.cc/H5PB-LFLP
+
+
+https://perma.cc/YL4R-C7EE
+
+
+https://perma.cc/89Q9-ZEEY
+
+
+https://perma.cc/R3KS-FVLJ
 
 
 
@@ -1007,12 +1041,19 @@ https://cpj.org/mideast/kuwait/
  There are no indications given by Reporters without Borders, International Press Institute and the American Embassy in Kuwait that there have been verbal harassment of journalists during the pandemic for any period, and this is therefore coded as 0. 
 
 *Sources*:
- https://rsf.org/en/kuwait
-https://rsf.org/en/rsf_search?key=Kuwait
-https://ipi.media/?s=Kuwait
-https://kw.usembassy.gov/world-press-freedom-day/
+ https://perma.cc/6AHV-XCN7
 
-https://cpj.org/mideast/kuwait/
+
+https://perma.cc/6QHX-EGU5
+
+
+https://perma.cc/U68C-L2XP
+
+
+https://perma.cc/QU24-RPVP
+
+
+https://perma.cc/VK3T-HEM6
 
 
 
@@ -1054,12 +1095,19 @@ https://cpj.org/mideast/kuwait/
  There are no indications given by Reporters without Borders, International Press Institute and the American Embassy in Kuwait that there have been physical harassment of journalists during the pandemic for any period, and this is therefore coded as 0. 
 
 *Sources*:
- https://rsf.org/en/kuwait
-https://rsf.org/en/rsf_search?key=Kuwait
-https://ipi.media/?s=Kuwait
-https://kw.usembassy.gov/world-press-freedom-day/
+ https://perma.cc/5CSG-24PA
 
-https://cpj.org/mideast/kuwait/
+
+https://perma.cc/H5PB-LFLP
+
+
+https://perma.cc/YL4R-C7EE
+
+
+https://perma.cc/89Q9-ZEEY
+
+
+https://perma.cc/R3KS-FVLJ
 
 
 
@@ -1101,12 +1149,19 @@ https://cpj.org/mideast/kuwait/
  There are no indications given by Reporters without Borders, International Press Institute and the American Embassy in Kuwait  that there have been physical harassment of journalists during the pandemic for either period. 
 
 *Sources*:
- https://rsf.org/en/kuwait
-https://rsf.org/en/rsf_search?key=Kuwait
-https://ipi.media/?s=Kuwait
-https://kw.usembassy.gov/world-press-freedom-day/
+ https://perma.cc/6AHV-XCN7
 
-https://cpj.org/mideast/kuwait/
+
+https://perma.cc/6QHX-EGU5
+
+
+https://perma.cc/U68C-L2XP
+
+
+https://perma.cc/QU24-RPVP
+
+
+https://perma.cc/VK3T-HEM6
 
 
 
@@ -1150,8 +1205,10 @@ https://cpj.org/mideast/kuwait/
  The Kuwait goverment has set up a website tracking the spread of the virus in the country, and providing information on what the virus is, how it spreads and so on. In the english version of this website, all information align with WHO. Furthermore, no indication has been found that Kuwaiti authorities has spread any disinformation 
 
 *Sources*:
- https://corona.e.gov.kw/En/Home/NovelCoronavirus
-https://kw.usembassy.gov/news-events/https://kw.usembassy.gov/Covid-19-information/
+ https://perma.cc/N6AL-X6E7
+
+
+https://perma.cc/QVW3-9WNU
 
 
 
@@ -1195,12 +1252,16 @@ https://kw.usembassy.gov/news-events/https://kw.usembassy.gov/Covid-19-informati
  There are reports of security forces using violence in quelling protests from migrant workers in Q2 of 2020, which are directly related to Covid-19 as these workers have protested being stranded in camps due to Covid-19 not enabling them to travel to their home country. However, the violence so far is non-lethal according to the reports, and thus coded as 1. No evidence of any other instances of violence has been found, either in Q2 of 2020 or any other period. This is therefore seen as an isolated event, and the rest of the quarters are coded as 0. 
 
 *Sources*:
- https://www.middleeasteye.net/news/kuwait-security-forces-break-egyptian-worker-riot-over-repatriation
-https://www.garda.com/crisis24/news-alerts/338716/kuwait-police-forcibly-disperse-protesting-migrant-workers-may-3
+ https://perma.cc/CU4H-8AB9
 
-https://www.hrw.org/middle-east/n-africa/kuwait
 
-https://www.amnesty.org/en/search/?country=38541&resourceType=newsarticle&sort=date
+https://perma.cc/KT3H-YJ5F
+
+
+https://perma.cc/B5YH-S36N
+
+
+https://perma.cc/TK9T-DVHS
 
 
 
@@ -1242,5 +1303,4 @@ https://www.amnesty.org/en/search/?country=38541&resourceType=newsarticle&sort=d
  Kuwait News Agency (the state news agency) on May 31 2020 report that the military is used to secure that quarantines are held in certain neighbourhoods and that residents do not travel outside these neighbourhoods. No reports have been found on whether the military is still deployed in the other periods, but as there is no confirmation that the military is not still enforcing Covid-19 restrictions, this is coded 1 for all periods. 
 
 *Sources*:
- https://www.kuna.net.kw/ArticleDetails.aspx?id=2897499&language=en
-
+ https://perma.cc/9JGZ-D28Q

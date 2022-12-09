@@ -24,16 +24,25 @@
 I have not found more cases of journalists being verbally harassed due to their reporting on Covid-19. However, harassment of journalists does happen frequently in the country. 
 
 *Sources*:
- https://rsf.org/en/news/two-afghan-journalists-arrested-news-agency-harassed
-
-https://www.pajhwok.com/en/2020/06/22/ventilators-donated-moph-smuggled-pakistan?utm_source=dlvr.it&utm_medium=twitter
+ https://perma.cc/3TE9-T4YN
 
 
-https://www.rferl.org/a/rsf-urges-kabul-to-observe-media-law-after-journalists-arrested-harassed/30716541.html
 
-https://www.amnesty.org/en/latest/news/2021/05/afghanistan-authorities-must-protect-journalists-and-journalism-amid-spiralling-violence/
 
-https://www.hrw.org/news/2021/04/01/afghanistan-taliban-target-journalists-women-media
+
+https://perma.cc/V9XC-MGJF
+
+
+
+
+
+https://perma.cc/3LKZ-6FLX
+
+
+https://perma.cc/R2UR-3YJZ
+
+
+https://perma.cc/2LP9-GRQ6
 
 
 
@@ -58,11 +67,15 @@ https://www.hrw.org/news/2021/04/01/afghanistan-taliban-target-journalists-women
  Q4 2020:  "On 11 and 12 December 2020, police assaulted and detained Ora News RTV journalist Xhoi Malësia and Kohan Jone newspaper’s editor in chief Qamil Xhani, while they were covering protests in Tirana against police violence. Street clashes erupted in the capital following the death of a 25-year-old man shot by police while enforcing a COVID-linked curfew on 8 December." (Council of Europe, 1)  According  Malësia, the police officer "used a slur to insult his family", which is considered verbal assault and hence mevhar is coded as 1. Since it is a single incident and I found no further evidence of verbal harassment of journalists, mevhar is coded as 0 in Q2 2020, Q3 2020, Q1 2021, and Q2 2021. 
 
 *Sources*:
- https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=2&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_sojdashboard_WAR_coesojportlet_alertPK=78918290&_sojdashboard_WAR_coesojportlet_cmd=get_pdf_one
+ https://perma.cc/NSX7-2VYT
 (1)
-https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/
-https://ipi.media/albania/
-https://rsf.org/en/albania
+
+
+https://perma.cc/557A-R32Z
+
+https://perma.cc/4PZB-NZDE
+
+https://perma.cc/H4C6-U25U
 
 
 
@@ -87,22 +100,21 @@ https://rsf.org/en/albania
  No evidence of verbal harassment of journalists in the context of Covid-19 was found. There are many incidents of journalists being harassed by the authorities but these are not related to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/news/instead-combatting-covid-19-algerias-authorities-crack-down-journalists
+ https://perma.cc/NM5E-JQDB
 
+https://perma.cc/358H-L7UT
 
-https://www.amnesty.org/download/Documents/MDE2840642021ENGLISH.pdf
+https://perma.cc/9EKB-FL2N
 
-https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
+https://perma.cc/PKB6-89JC
 
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/778B-2ULT
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://perma.cc/3DZL-JX23
 
-https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
+https://perma.cc/Z8PK-T6E7
 
-https://www.hrw.org/world-report/2021/country-chapters/algeria#fb21e4
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/algeria/
+https://perma.cc/WVS9-J7SN
 
 
 
@@ -127,9 +139,13 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/alg
  No evidence of harassment was found. 
 
 *Sources*:
- https://rsf.org/en/countries
-https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/africa/angola/
+ https://perma.cc/7BDX-VCL7
+
+
+
+
+
+https://perma.cc/LQB3-C6AZ
 
 
 
@@ -155,10 +171,10 @@ https://cpj.org/africa/angola/
 
 *Sources*:
  [1]
-https://cpj.org/2021/02/journalists-in-argentinas-formosa-province-detained-harassed-and-blocked-from-reporting/
+https://perma.cc/NYY6-RFC8
 
 [2]
-https://www.lanacion.com.ar/politica/ejercer-periodismo-bajo-gobierno-gildo-insfran-ocultamiento-nid2591482/
+https://perma.cc/R4Z9-72LJ
 
 
 
@@ -183,11 +199,19 @@ https://www.lanacion.com.ar/politica/ejercer-periodismo-bajo-gobierno-gildo-insf
  No reports on verbal harrasment regarding COVID-19, however, evidence can be found of harassment against journalists for other reasons, e.g. (1). No new information found since June 2020. 
 
 *Sources*:
- https://ipi.media/armenia/
-https://rsf.org/en/armenia
-https://www.hrw.org/europe/central-asia/armenia
-https://www.independent.co.uk/independentpremium/editors-letters/armenia-azerbaijan-nagorno-karabakh-war-press-freedom-caucasus-b1182317.htm
-(1)
+ https://perma.cc/AHG3-LSF8
+
+
+
+
+
+https://perma.cc/EQQ4-M4G9
+
+
+
+
+
+https://perma.cc/GYX5-MQNH
 
 
 
@@ -212,9 +236,19 @@ https://www.independent.co.uk/independentpremium/editors-letters/armenia-azerbai
  Neither Reporters Without Borders, Committee to Protect Journalists nor International Press Institute have reported any verbal harassment of journalists by the government and/or its agents, and no other indications have been found of there being any such harassment. 
 
 *Sources*:
- https://rsf.org/en/australia
-https://ipi.media/australia/
-https://cpj.org/asia/australia/
+ https://perma.cc/24ME-K2PM
+
+
+
+
+
+https://perma.cc/F98U-DER5
+
+
+
+
+
+https://perma.cc/8EW2-94ET
 
 
 
@@ -239,16 +273,19 @@ https://cpj.org/asia/australia/
  There is no reports from the EU agency of fundamental rights, Reporters Without Borders, Committee to Protect Journalists or International Press Institute that there has been any verbal harassment of journalists. 
 
 *Sources*:
- https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Austria
+ https://perma.cc/4LAV-WCDS
 
-https://rsf.org/en/austria
-https://cpj.org/europe/austria/BG6§
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+https://perma.cc/Y9FJ-GDJ2
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Austria
+https://cpj.org/europe/austria/BG6<a4>
 
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic_november_2020.pdf
+https://perma.cc/D8XH-JQ8X
+
+https://perma.cc/H2D6-7PAJ
+
+https://perma.cc/4GRC-CGF2
+
+https://perma.cc/9LJB-AJGE
 
 
 
@@ -273,9 +310,9 @@ https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_p
  No reports on verbal harrasment since 11 March 2020. 
 
 *Sources*:
- https://ipi.media/azerbaijan-abuses-quarantine-rules-to-jail-critical-journalists-and-bloggers/
-https://ipi.media/azerbaijan/
-https://rsf.org/en/azerbaijan
+ https://perma.cc/PKY6-EYRZ
+https://perma.cc/D2WZ-N29G
+https://perma.cc/WXZ9-RY98
 
 
 
@@ -300,17 +337,31 @@ https://rsf.org/en/azerbaijan
  I did not find information on the government or it's agents verbally harassing journalists reporting specfically on Covid-19. However journalists in Bangladesh are regularly harassed. And this has continued to be the case in the past year. 
 
 *Sources*:
- https://rsf.org/en/bangladesh
+ https://perma.cc/F7LF-ZA99
 
 
-https://www.hrw.org/asia/bangladesh
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/bangladesh/
 
-https://www.aa.com.tr/en/asia-pacific/bangladesh-senior-journalist-falls-victim-to-controversial-law/2016581
+https://perma.cc/2MDX-B5DT
 
-https://www.dw.com/en/attacked-and-harassedhow-bangladeshi-journalists-are-paying-the-price-for-covid-19-reporting/a-53329494
+
+
+
+
+https://perma.cc/CLW3-NA7N
+
+
+
+
+
+https://perma.cc/JRX8-4HKV
+
+
+
+
+
+https://perma.cc/QB7N-KCNK
 
 
 
@@ -335,8 +386,8 @@ https://www.dw.com/en/attacked-and-harassedhow-bangladeshi-journalists-are-payin
  No information about cases of verbal harassment of journalists reporting on Covid-19 found. 
 
 *Sources*:
- https://rsf.org/en/belarus
-https://ipi.media/belarus/
+ https://perma.cc/UU2A-57J9
+https://perma.cc/5TF8-PW2K
 
 
 
@@ -361,13 +412,9 @@ https://ipi.media/belarus/
  No evidence was found. 
 
 *Sources*:
- https://www.mappingmediafreedom.org/country-profiles/belgium/
-
-
-https://cpj.org/europe/belgium/
-
-
-https://www.ecpmf.eu/tag/covid19/
+ https://perma.cc/6YTS-4FPJ
+https://perma.cc/HXU8-L3AY
+https://perma.cc/C9V3-J7TQ
 
 
 
@@ -394,16 +441,13 @@ However, the authorities during 2020 continued to detain and prosecute journalis
  
 
 *Sources*:
- https://www.amnesty.org/en/countries/africa/benin/report-benin/
+ https://perma.cc/WP6Y-4EQP
 (1)
 
-https://cpj.org/africa/2020/page/2/
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://perma.cc/552E-Z5RX
+https://perma.cc/RR22-KDLX
+https://perma.cc/KX2A-YDLY
+https://perma.cc/95H3-CEXJ
 
 
 
@@ -429,11 +473,13 @@ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/S74X-PXLJ
+
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/N5TR-FZ3E
+
 [3]
-https://cpj.org/americas/bolivia/
+https://perma.cc/6DWG-DJC5
 
 
 
@@ -458,10 +504,9 @@ https://cpj.org/americas/bolivia/
  IPI reports on cases of verbal harassment but not related to covid-19 reporting. No new information found since June 2020. 
 
 *Sources*:
- https://ipi.media/ipi-condemns-assault-death-threat-against-bosnia-tv-journalist/
-
-https://ipi.media/bosnia-and-herzegovina/
-https://rsf.org/en/bosnia-herzegovina
+ https://perma.cc/MCY6-UY27
+https://perma.cc/MHP6-N3M6
+https://perma.cc/9WMG-6GW9
 
 
 
@@ -487,15 +532,15 @@ https://rsf.org/en/bosnia-herzegovina
 
 *Sources*:
  [1]
-https://www.gov.bw/about-covid-19
+https://perma.cc/E366-FUFA
 [2]
-https://ipi.media/botswana/
+https://perma.cc/DT5G-USRP
 [3]
-https://rsf.org/en/botswana
+https://perma.cc/YL4R-W2EX
 [4]
-https://cpj.org/2021/05/equipped-us-israeli-firms-botswana-police/
+https://perma.cc/ED7R-NNT7
 [5]
-https://cpj.org/africa/botswana
+https://perma.cc/BST6-FQKK
 
 
 
@@ -521,25 +566,25 @@ https://cpj.org/africa/botswana
 
 *Sources*:
  [1]
-https://rsf.org/en/news/brazils-president-attacks-media-instead-combatting-coronavirus
+https://perma.cc/542E-7XJS
 [2]
-https://www.theguardian.com/world/2020/mar/23/brazils-jair-bolsonaro-says-coronavirus-crisis-is-a-media-trick
+https://perma.cc/8W6P-YDGS
 [3]
-https://www.theguardian.com/world/2020/mar/25/bolsonaro-brazil-wouldnt-feel-anything-covid-19-attack-state-lockdowns
+https://perma.cc/9GEH-NWZ9
 [4]
-https://www1.folha.uol.com.br/poder/2020/08/em-evento-pro-cloroquina-bolsonaro-diz-que-jornalista-bundao-tem-mais-chance-de-morrer-de-coronavirus.shtml
+https://perma.cc/8536-VS2D
 [5]
-https://www.reuters.com/article/us-brazil-politics/brazils-bolsonaro-says-journalist-wimps-more-likely-to-die-of-covid-19-idUSKBN25K2G3
-[6]
-https://rsf.org/en/reports/rsf-tallied-580-attacks-against-media-brazil-2020
+https://perma.cc/6C5N-YB3U
+6[]
+https://perma.cc/MJR6-3YQ3
 [7]
-https://www1.folha.uol.com.br/poder/2021/03/puxadas-por-bolsonaro-e-apoiadores-agressoes-a-jornalistas-crescem-168-em-2020-aponta-relatorio.shtml
+https://perma.cc/8NLA-6HJD
 [8]
-https://www1.folha.uol.com.br/equilibrioesaude/2021/03/para-a-midia-o-virus-sou-eu-diz-bolsonaro-no-apice-da-pandemia-no-brasil.shtml
+https://perma.cc/45TS-CW4F
 [9]
-https://politica.estadao.com.br/noticias/geral,bolsonaro-critica-facebook-e-diz-que-o-certo-seria-tirar-jornais-de-circulacao,70003617545
+https://perma.cc/F2XB-WLPP
 [10]
-https://www.nexojornal.com.br/expresso/2021/01/13/A-amea%C3%A7a-%C3%A0-Rep%C3%B3rter-Brasil.-E-a-alta-de-ataques-%C3%A0-imprensa
+https://perma.cc/9PCN-K7EX
 
 
 
@@ -564,8 +609,8 @@ https://www.nexojornal.com.br/expresso/2021/01/13/A-amea%C3%A7a-%C3%A0-Rep%C3%B3
  No information found since 11 March 2020. 
 
 *Sources*:
- https://rsf.org/en/bulgaria
-https://ipi.media/bulgaria/
+ https://perma.cc/AJ9B-MMWH
+https://perma.cc/XUD4-ZPZ2
 
 
 
@@ -590,18 +635,12 @@ https://ipi.media/bulgaria/
  No evidence of verbal harassment of journalists was found. 
 
 *Sources*:
- https://rsf.org/en/burkina-faso
-
-
-https://rsf.org/en/rsf_search?key=burkina%20faso
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://cpj.org/covid-19/
-
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
-
-https://ipi.media/covid19-media-freedom-monitoring/
+ [1]	perma.cc/LN22-CJFR
+[2]	perma.cc/F4NG-CPZ8
+[3]	perma.cc/DD2G-T25Q
+[4]	perma.cc/2UF9-JT4F
+[5]	perma.cc/E229-HDQY
+[6]	perma.cc/YY89-SUYC
 
 
 
@@ -626,23 +665,37 @@ https://ipi.media/covid19-media-freedom-monitoring/
  While journalists are facing grave verbal and physical harassment, these cases have not been in relation to Covid-19 or legitimized by them. Rather, such measures have been in relation to the Penal Code, which has been exacerbated after the Coup in 2021. Since this is not specifically on reporting on Covid-19, this is therefore coded as 0. 
 
 *Sources*:
- https://rsf.org/en/news/Covid-19-emergency-laws-spell-disaster-press-freedom
+ https://perma.cc/Y2YQ-D3PV
 
-https://rsf.org/en/news/mid-coronavirus-crisis-myanmar-blocks-221-sites-fake-news
 
-https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-Covid-19-death
+https://perma.cc/ZKA6-5GZF
 
-https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
 
-https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
+https://perma.cc/36RR-Z49T
 
-https://cpj.org/asia/myanmar/
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Myanmar
-https://www.nytimes.com/2021/01/31/world/asia/myanmar-coup-aung-san-suu-kyi.html
-https://www.hrw.org/news/2021/05/06/myanmar-junta-bans-satellite-television
-https://www.hrw.org/news/2021/04/29/myanmar-juntas-assault-truth
-https://rsf.org/en/news/myanmars-military-junta-eliminates-independent-media
+https://perma.cc/RJ8J-UWGX
+
+
+https://perma.cc/B8UC-KPRR
+
+
+https://perma.cc/Q5SW-LKK5
+
+
+https://perma.cc/SJ25-C2K6
+
+
+https://perma.cc/CQN4-2XP3
+
+
+https://perma.cc/FF86-UQ4L
+
+
+https://perma.cc/4UXQ-EQ4D
+
+
+https://perma.cc/VV5B-V8NZ
 
 
 
@@ -667,14 +720,10 @@ https://rsf.org/en/news/myanmars-military-junta-eliminates-independent-media
  No evidence was found. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-
-https://rsf.org/en/rsf_search?key=burundi&y=2020
-
-https://www.amnesty.org/en/latest/news/2021/05/east-and-southern-africa-media-freedoms-curtailed-as-covid19-regional-crises-expose-urgent-need-for-access-to-information/
+ [1]	perma.cc/RR8M-WDME
+[2]	perma.cc/UG7A-ZBX5
+[3]	perma.cc/R5L2-B2AC
+[4]	perma.cc/ZX9J-PMFL
 
 
 
@@ -699,9 +748,10 @@ https://www.amnesty.org/en/latest/news/2021/05/east-and-southern-africa-media-fr
  In May 2021 the Cambodian government ban journalists from reporting on "red zone' area. These are areas with high prevalence of Covid. The government threatened that journalists who choose to ignore this notice would have legal action taken against them. 
 
 *Sources*:
- https://www.rfa.org/english/news/cambodia/lockdown-coverage-05042021195704.html
+ https://perma.cc/9K6X-Z8NX
 
-https://ipi.media/alerts/cambodian-government-threatens-journalists-over-pandemic-lockdown-coverage-as-cases-surge/
+
+https://perma.cc/Q2XG-9KQ2
 
 
 
@@ -726,14 +776,10 @@ https://ipi.media/alerts/cambodian-government-threatens-journalists-over-pandemi
  No verbal harassment of journalists related to Covid-19 reporting was found. 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-
-https://www.voanews.com/africa/cameroon-journalists-protest-harassment-abusive-arrests
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-
-https://www.rfi.fr/en/africa/20201229-2020-was-a-hazardous-year-for-african-journalists-marked-by-killings-harassment-arrests-covid
+ [1]	perma.cc/S49B-B33C
+[2]	perma.cc/2M9V-UC82
+[3]	perma.cc/FS8Q-UDXE
+[4]	perma.cc/52K2-TP53
 
 
 
@@ -758,9 +804,13 @@ https://www.rfi.fr/en/africa/20201229-2020-was-a-hazardous-year-for-african-jour
  Neither Reporters Without Borders, committee to protect journalists nor International Press Institute have reported any verbal harassment of journalists in Canada,  and no other indications of any such harassment has been found. 
 
 *Sources*:
- https://cpj.org/americas/canada/
-https://rsf.org/en/thematique/internet?countries%5B177%5D=177
-https://ipi.media/canada/
+ https://perma.cc/S2MR-NWND
+
+
+https://perma.cc/4HMY-MVKG
+
+
+https://perma.cc/ABM9-XAKD
 
 
 
@@ -788,19 +838,12 @@ https://ipi.media/canada/
  
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/central-african-republic/
-(1)
-
-https://rsf.org/en/central-african-republic
-
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-
-https://www.frontiersin.org/articles/10.3389/fcomm.2021.627214/full
+ [1]	perma.cc/D9G2-YP38
+[2]	perma.cc/55D4-DDT7
+[3]	perma.cc/9LKN-B3C3
+[4]	perma.cc/V7NH-CVSJ
+[5]	perma.cc/56L3-3T7S
+[6]	perma.cc/ZX5X-8V8V
 
 
 
@@ -827,25 +870,14 @@ https://www.frontiersin.org/articles/10.3389/fcomm.2021.627214/full
 In Q1 and Q2 of 2021 ''Chadian authorities have stepped up restrictions on civic space in recent months with long internet shutdowns, arbitrary arrests, and violations of freedoms of protest and peaceful assembly, Amnesty International said ahead of the 11 April 2021 presidential election.'' (5). These are not related to Covid-19 news coverage. 
 
 *Sources*:
- https://www.alwihdainfo.com/Tchad-l-UJT-condamne-la-brutalite-policiere-contre-des-journalistes-de-la-Tele-Tchad_a84903.html
-(1)
-
-https://rsf.org/en/news/chadian-police-attack-tv-crew-covering-coronavirus-measures
-(2)
-
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://www.amnesty.org/en/latest/news/2021/04/tchad-les-coupures-internet-une-entrave-la-liberte-dexpression/
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/chad/
-
-
+ https://perma.cc/FX3L-JXCE
+https://perma.cc/S4WM-24C5
+https://perma.cc/JMG3-7CAM
+https://perma.cc/Y48F-GE4K
+https://perma.cc/X92G-SKZ3
+https://perma.cc/9F38-72NV
+https://perma.cc/6VN6-3D62
+https://perma.cc/KXN4-U8GP
 
 
 
@@ -871,11 +903,15 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cha
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/N9QH-YHH4
+
+
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/7G6X-V9XN
+
+
 [3]
-https://cpj.org/americas/chile/
+https://perma.cc/DG68-49KH
 
 
 
@@ -907,19 +943,15 @@ I have not found new instances of the government and its agents limiting journal
 
 *Sources*:
  [1]
-https://rsf.org/en/news/rsf-denounces-chinas-expulsion-nyt-correspondent-who-reported-extensively-covid-19
-
+https://perma.cc/SZT8-5YEQ
 [2]
-https://rsf.org/en/news/coronavirus-mass-expulsion-foreign-correspondents-further-cripples-freedom-information-china
-
+https://perma.cc/JTR3-A2XD
 [3]
-https://rsf.org/en/news/harassment-foreign-reporters-becoming-systematic-china
-
+https://perma.cc/Z2KU-8AQR
 [4]
-https://rsf.org/en/china
-
+https://perma.cc/TXJ4-NSC4
 [5]
-https://www.newsweek.com/china-harassing-intimidating-journalists-surveillance-built-curb-covid-19-1572983
+https://perma.cc/L2LF-YN2X
 
 
 
@@ -945,11 +977,12 @@ https://www.newsweek.com/china-harassing-intimidating-journalists-surveillance-b
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/2RJR-7URH
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/3MQT-JEYY
+
 [3]
-https://cpj.org/americas/colombia/
+https://perma.cc/3MQT-JEYY
 
 
 
@@ -975,11 +1008,11 @@ https://cpj.org/americas/colombia/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/TKS4-GTH3
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/9CY6-PKQW
 [3]
-https://cpj.org/americas/costa-rica/
+https://perma.cc/9VPG-G6D4
 
 
 
@@ -1007,10 +1040,10 @@ There is, however, harassment from the civilians regarding reports about Covid-1
  
 
 *Sources*:
- http://www.coe.int/en/web/media-freedom/all-alerts?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-4&p_p_col_count=1&_sojdashboard_WAR_coesojportlet_selectedStringFilters=resolved_or_replied.no_resolved_replied%2Cyear.2020&_sojdashboard_WAR_coesojportlet_selectedCategories=11709494&_sojdashboard_WAR_coesojportlet_keywords=&_sojdashboard_WAR_coesojportlet_advancedSearch=false&_sojdashboard_WAR_coesojportlet_andOperator=true&_sojdashboard_WAR_coesojportlet_resetCur=false&_sojdashboard_WAR_coesojportlet_delta=100
-https://ipi.media/croatia/
-https://rsf.org/en/croatia
-https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-april-2020_en.pdf
+ [1]	perma.cc/UCH8-6WHZ
+[2]	perma.cc/6WF3-YVU6
+[3]	perma.cc/5KLE-MKGX
+[4]	perma.cc/92TP-7CAQ
 
 
 
@@ -1036,11 +1069,12 @@ https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-ap
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/HCC9-NLZU
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/92NE-B6TZ
 [3]
-https://cpj.org/americas/cuba/
+
+https://perma.cc/E2NZ-EMAV
 
 
 
@@ -1065,11 +1099,11 @@ https://cpj.org/americas/cuba/
  No information found since 11 March 2020. 
 
 *Sources*:
- https://www.mappingmediafreedom.org/
-https://rsf.org/en/czech-republic
-https://ipi.media/czech-republic/
-https://www.hrw.org/europe/central-asia/czech-republic
-https://www.amnesty.org/en/countries/europe-and-central-asia/czech-republic/
+ [1]	perma.cc/MUJ3-54CB
+[2]	perma.cc/MY3G-5LVP
+[3]	perma.cc/SND2-JJ43
+[4]	perma.cc/LJM9-EYG6
+[5]	perma.cc/4U7M-JS3D
 
 
 
@@ -1095,19 +1129,13 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/czech-republic/
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/07/22/dr-congo-authorities-foundering-rights
-
-[2]
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-[3]
-https://rsf.org/en/democratic-republic-congo
-
+https://perma.cc/Y84H-9L7W[2]
+https://perma.cc/CW2C-YUFG
+[3]https://perma.cc/8EM4-SNKB
 [4]
-https://freedomhouse.org/country/democratic-republic-congo/freedom-world/2021
-
+https://perma.cc/3CEE-XJGU
 [5]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/democratic-republic-of-the-congo/
+https://perma.cc/Y4PK-NMYV
 
 
 
@@ -1132,10 +1160,13 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/dem
  Neither Reporters without Borders nor International Press Institute have reported any verbal harassment of journalists in Denmark, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B105%5D=105
+ https://perma.cc/3L4S-7DKV
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Denmark
-https://cpj.org/europe/denmark/
+
+https://perma.cc/9ND2-X477
+
+
+https://perma.cc/AGW7-WE96
 
 
 
@@ -1161,11 +1192,11 @@ https://cpj.org/europe/denmark/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/LP3E-5FEP
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/S7TP-HZDL
 [3]
-https://cpj.org/americas/dominican-republic/
+https://perma.cc/38XM-QJE3
 
 
 
@@ -1191,11 +1222,11 @@ https://cpj.org/americas/dominican-republic/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/T68Z-3826
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/9MWE-2PPR
 [3]
-https://cpj.org/americas/ecuador/
+https://perma.cc/UJF3-99PQ
 
 
 
@@ -1220,15 +1251,11 @@ https://cpj.org/americas/ecuador/
  I have not found evidence of journalists being verbally harassed due to their reporting on Covid 19. However there is evidence showing that journalists are regularly harassed for their critical reporting in general. 
 
 *Sources*:
- https://rsf.org/en/taxonomy/term/156
+ https://perma.cc/Y2PM-JLXR
+https://perma.cc/6XR8-KRJA
+https://perma.cc/PX7E-Y53N
 
-
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/egypt/
-
-
-https://www.bbc.com/news/topics/c302m85q5xzt/egypt
-
-https://www.middleeastmonitor.com/20210505-egypt-journalists-we-are-harassed-by-security-forces-and-censored/
+https://perma.cc/H4Y8-5SLP
 
 
 
@@ -1254,25 +1281,43 @@ https://www.middleeastmonitor.com/20210505-egypt-journalists-we-are-harassed-by-
 
 *Sources*:
  [1]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/9725-YGUT
+
+
 [2]
-http://apes.org.sv/alertas/agente-pnc-amedrenta-a-periodistas-en-hospital-amatepec/
+https://perma.cc/S97S-XMFQ
+
+
 [3]
-http://apes.org.sv/wordpress/wp-content/uploads/2020/05/INFORME-MAYO.pdf
+https://perma.cc/3CTG-XQCZ
+
+
 [4]
-https://www.sipiapa.org/notas/1214039-la-sip-condena-amenazas-contra-la-prensa-el-salvador
+https://perma.cc/6826-2PCG
+
+
 [5]
-https://foreignaffairs.house.gov/_cache/files/a/7/a7b73a01-82c8-45ac-ba33-1dd490890264/0BA7498A02473A757349A698A432EC5D.09-10-20-house-and-senate-to-pres.-nayib-bukele---final.pdf
+https://perma.cc/32HB-9MMF
+
+
 [6]
-https://www.ifj.org/media-centre/news/detail/category/press-freedom/article/el-salvador-presidente-bukele-ataca-a-la-asociacion-de-periodistas.html
+https://perma.cc/LG6G-SADE
+
+
 [7]
-https://www.bbc.com/mundo/noticias-america-latina-54408910
+https://perma.cc/E9RJ-KNF2
+
+
 [8]
-https://apes.org.sv/category/noticias/
+https://perma.cc/837F-Q64J
+
+
 [9]
-http://im-defensoras.org/wp-content/uploads/2021/05/Informe-agresiones-defensoras-y-periodistas-COVID19.pdf
+https://perma.cc/3V4W-KUGC
+
+
 [10]
-https://monitor.civicus.org/updates/2020/09/14/el-salvadors-congress-creates-group-investigate-harassment-press-using-state-funds/
+https://perma.cc/AX3T-SSN7
 
 
 
@@ -1297,19 +1342,11 @@ https://monitor.civicus.org/updates/2020/09/14/el-salvadors-congress-creates-gro
  No evidence indicating that the government and its agents have verbally harassed journalists reporting about Covid-19 was found. 
 
 *Sources*:
- https://rsf.org/en/eritrea
-
-
-
-https://ipi.media/eritrea/
-
-
-
-https://cpj.org/africa/eritrea/
-
-
-
-https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
+ [1]	perma.cc/TF82-8KRF
+[2]	perma.cc/TB3Q-ZZMA
+[3]	perma.cc/778C-YTH2
+[4]	perma.cc/NT67-XTBK
+[5]	https://web.archive.org/web/20200402131742/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
 
 
 
@@ -1336,15 +1373,15 @@ No evidence was found that journalists were still harassed while reporting on co
 
 *Sources*:
  [1]
-https://cpj.org/2020/04/ethiopian-journalist-yayesew-shimelis-detained-fol/
+perma.cc/32NG-PFBE
 [2]
-https://www.hrw.org/news/2020/05/06/ethiopia-free-speech-risk-amid-covid-19
+perma.cc/XT93-KCR2
 [3]
-https://ipi.media/journalists-detention-sparks-concerns-over-ethiopias-new-hate-speech-law/
+perma.cc/7YV9-YCDN
 [4]
-https://globalvoices.org/2021/03/23/did-the-ethiopian-government-use-its-covid-19-restrictions-to-silence-dissent/
+perma.cc/QYD4-A6UT
 [5]
-https://www.hrw.org/news/2020/05/06/ethiopia-free-speech-risk-amid-covid-19#
+perma.cc/S8RF-TKN6
 
 
 
@@ -1369,10 +1406,10 @@ https://www.hrw.org/news/2020/05/06/ethiopia-free-speech-risk-amid-covid-19#
  Neither Reporters without Borders, Committe to Protect Journalists nor International Press Institute have reported any verbal harassment of journalists in Finland, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B108%5D=108
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+ https://perma.cc/WT4G-C5XR
 
-https://cpj.org/europe/finland/
+
+https://perma.cc/W6GB-66TU
 
 
 
@@ -1397,15 +1434,11 @@ https://cpj.org/europe/finland/
  No relevant evidence was found. There are many instances of physical and verbal harasshment against journalists in France during 2020-2021, but these are unrelated to Covid-19 coverage, nor come from state institutions (rather from individuals). 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-
-https://cpj.org/europe/france/
-
-https://www.ecpmf.eu/?s=covid19
-
+ https://perma.cc/3SJV-TGU3
+https://perma.cc/RU8E-5FY8
+https://perma.cc/YS82-CJ4H
 https://rsf.org/en/rsf_search?key=france
-
-https://www.mappingmediafreedom.org/country-profiles/france/
+https://perma.cc/YW5V-C3X6
 
 
 
@@ -1430,18 +1463,22 @@ https://www.mappingmediafreedom.org/country-profiles/france/
  No evidence found. 
 
 *Sources*:
- https://rsf.org/en/tracker19-Coronavirus-Covid19
+ perma.cc/B3ET-WM4J
 
 
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+perma.cc/B44M-VUHL
 
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
 
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/789V-C9AW
 
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gabon/
+perma.cc/DB64-UL4E
+
+
+perma.cc/QD9T-R8JP
+
+
+perma.cc/VXX9-YX9X
 
 
 
@@ -1466,11 +1503,16 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gab
  No information found 
 
 *Sources*:
- https://ipi.media/georgia/
+ https://perma.cc/QS3N-N6H2
 
-https://rsf.org/en/georgia
-https://www.amnesty.org/en/countries/europe-and-central-asia/georgia/
-https://www.hrw.org/europe/central-asia/georgia
+
+https://perma.cc/E5HL-RAFZ
+
+
+https://perma.cc/T2QR-PLZT
+
+
+https://perma.cc/U335-6JLD
 
 
 
@@ -1495,12 +1537,16 @@ https://www.hrw.org/europe/central-asia/georgia
  Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any verbal harassment of journalists in Germany, and no other indications have been found of there having been any such harassment. Note that while there have been many reports of verbal harassment of journalists in Germany during anti-restriction protests, such harassment has been conducted by protesters and not authorities, and thus not regarded in the coding. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B94%5D=94
+ https://perma.cc/2348-H8ZU
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
 
-https://cpj.org/europe/germany/
-https://www.dw.com/en/protection-for-journalists-in-germany/a-57317382
+https://perma.cc/K9ST-XNC3
+
+
+https://perma.cc/8SWF-ESN9
+
+
+https://perma.cc/HLB7-W9F3
 
 
 
@@ -1528,17 +1574,17 @@ There are no further cases reported.
 
 *Sources*:
  [1]
-https://rsf.org/en/news/ghana-urged-ensure-safety-reporters-covering-covid-19
+perma.cc/L5W5-GPG5
 [2]
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
+perma.cc/5AWX-LGLJ
 [3]
-https://cpj.org/2020/04/in-ghana-soldiers-enforcing-covid-19-restrictions/
+perma.cc/6HGL-JQ2E
 [4]
-https://rsf.org/en/ghana
+perma.cc/XWP7-U5US
 [5]
-https://cpj.org/africa/ghana/
+perma.cc/A6SB-P2KK
 [6]
-http://ipi.media/ghana/
+perma.cc/HBS3-NBLY
 
 
 
@@ -1567,23 +1613,21 @@ http://ipi.media/ghana/
 Since December 2020 up to May 2021, there have been many incidents of police violence against journalists covering protests, but these were unrelated to Covid-19 coverage. (7) 
 
 *Sources*:
- https://ipi.media/greece-ipi-denounces-detention-and-intimidation-of-documento-journalist-in-athens/
+ perma.cc/Z2WZ-F32H
 (1)
 
-https://www.koutipandoras.gr/article/epithesi-tis-astynomias-se-dimosiografo-toy-koutipandorasgr-kai-toy-documento?fbclid=IwAR0p4g_GXLptMO3R_Dg-cQJwaj343NQD_NaM3pfFksqSHLMYCEfBwOMXy3A
+perma.cc/22WS-TNZT
 (2)
 
-https://www.koutipandoras.gr/article/my-personal-experience-and-testimony
+perma.cc/249G-6P3X
 (3)
 
-https://www.ecpmf.eu/monitor/mapping-media-freedom/
+perma.cc/2WRS-EPTK
 (4)
 
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/rsf_search?key=greece
-
-https://www.mappingmediafreedom.org/country-profiles/greece/
+perma.cc/B6XZ-UB76
+perma.cc/53VU-HTMS
+perma.cc/W6LG-R94J
 (7)
 
 
@@ -1610,15 +1654,15 @@ https://www.mappingmediafreedom.org/country-profiles/greece/
 
 *Sources*:
  [1]
-https://www.prensalibre.com/guatemala/comunitario/dia-de-la-libertad-de-prensa-apg-revela-informe-sobre-libertad-de-expresion-en-guatemala/
+perma.cc/49MK-W34Q
 [2]
-https://elperiodico.com.gt/nacion/2020/04/13/reportero-de-san-marcos-fue-intimidado-por-la-policia2/
+https://perma.cc/6977-9PQP
 [3]
-https://web.archive.org/web/20200809194505/https://www.pdh.org.gt/pdh-da-seguimiento-a-agresion-sufrida-por-periodista-en-cunen-quiche/
+perma.cc/PJP6-M8CC
 [4]
-https://web.archive.org/web/20200707231741/https://www.pdh.org.gt/brindan-seguimiento-a-denuncia-interpuesta-por-periodista-de-huehuetenango/
+perma.cc/G7W7-WGTQ
 [5]
-https://www.hrw.org/news/2021/02/18/guatemala-free-press-under-attack
+perma.cc/4YCV-85XP
 
 
 
@@ -1645,22 +1689,17 @@ https://www.hrw.org/news/2021/02/18/guatemala-free-press-under-attack
 'According to the US Department of State's 2020 report on human rights practices (2), there are more reports and incidents of arbitrary arrests, harassment, and intimidation of journalists by the government, but these are unrelated to Covid-19. 
 
 *Sources*:
- https://allafrica.com/stories/202009140921.html
+ perma.cc/4X9U-53R6
 (1)
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/guinea/
+perma.cc/WX9R-PEVB
 (2)
 
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
+perma.cc/BYL2-4MGX
+perma.cc/LE9U-TB78
+perma.cc/SJ7V-BFQM
+perma.cc/4NB6-752X
+perma.cc/5TGF-ST7S
 
 
 
@@ -1685,15 +1724,19 @@ https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
  No evidence was found. 
 
 *Sources*:
- https://sflcn.com/another-protest-in-the-capital-of-haiti-after-journalist-arrestation/
+ perma.cc/RGB5-ZEXP
 
-https://haitiantimes.com/2020/04/30/journalists-condemn-police-brutality-against-haitian-reporter-georges-allen/
 
-https://www.juno7.ht/secteurscondamnent-brutalitespolicieres-georges-allen/
+perma.cc/28WV-FRAB
 
-https://cpj.org/2020/04/journalists-assaulted-while-covering-covid-19-meas/
 
-https://www.washingtonpost.com/opinions/global-opinions/truth-is-the-first-casualty-in-war-including-this-one/2020/04/12/44c5ea44-7a88-11ea-b6ff-597f170df8f8_story.html
+perma.cc/YD6N-EPVG
+
+
+perma.cc/SDU9-M544
+
+
+perma.cc/227J-6AWK
 
 
 
@@ -1719,9 +1762,9 @@ https://www.washingtonpost.com/opinions/global-opinions/truth-is-the-first-casua
 
 *Sources*:
  [1]
-https://ipi.media/alerts/top-honduran-health-official-insults-journalist-at-press-conference-following-critical-questions-about-covid-19-funds/
+perma.cc/4R8K-D3UF
 [2]
-https://ipi.media/alerts/honduran-journalist-receives-death-threat-from-police-officer-after-covering-cases-of-covid-19-in-the-national-police/
+perma.cc/ZTT2-4FNV
 
 
 
@@ -1746,12 +1789,22 @@ https://ipi.media/alerts/honduran-journalist-receives-death-threat-from-police-o
  There are several cases of verbal harassment of journalist in Hong Kong, but no such cases have been found in relation to them reporting on Covid-19. Rather, such harassment seem to be related to quelling the pro-democracy movement, and harassment has been made with reference to the National Security Law that is not linked to Covid-19 measures. This is therefore coded 0. 
 
 *Sources*:
- https://cpj.org/2020/05/hong-kong-police-attack-and-detain-journalists-cov-1/
-https://rsf.org/en/thematique/internet?countries%5B68%5D=68
-https://ipi.media/countries-see-all/?type_of_content=News+and+Monitoring%2CFrom+Our+Network&country=China&paged=4
-https://cpj.org/asia/china/page/1/
-https://www.hrw.org/news/2020/08/11/china/hong-kong-mass-arrests-under-security-law
-https://cpj.org/tags/hongkong/
+ https://perma.cc/QY3E-WVC6
+
+
+https://perma.cc/58XP-7SD9
+
+
+https://perma.cc/QJ49-XAYB
+
+
+https://perma.cc/2XR5-72AP
+
+
+https://perma.cc/MB4K-LU7W
+
+
+https://perma.cc/RU7Q-3WDH
 
 
 
@@ -1776,13 +1829,13 @@ https://cpj.org/tags/hongkong/
  A cartoonist working for a newspaper was verbally attacked and threatened by the authorities and pro-government media. A journalist was verbally attacked and threaten by a TV channel close to the government, after she critisized the emergency measures. According to IPI, " journalists reporting on the reality of the situation inside hospitals are regularly denounced as “scaremongers” by the public service broadcaster." (1) Since I found no further evidence in later periods, mevhar is coded as 1 only in Q2 2020. 
 
 *Sources*:
- https://rsf.org/en/news/two-european-cartoonists-threatened-over-cartoons-religious-and-political-content
-https://rsf.org/en/news/repressive-laws-prosecutions-attacks-europe-fails-shield-its-journalists-against-abuse-covid-19
-https://ipi.media/press-cartoonists-in-europe-must-be-protected/
-https://ipi.media/crisis-point-covid-19-intensifies-challenge-for-independent-media-in-hungary/
+ https://perma.cc/G7YL-FSGG
+https://perma.cc/Q7FV-2TEP
+https://perma.cc/4CEC-SNLE
+https://perma.cc/4KAX-2ZDR
 (1)
 
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_sojdashboard_WAR_coesojportlet_alertId=64037610
+https://perma.cc/U8M7-TRJ7
 
 
 
@@ -1808,15 +1861,11 @@ https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_co
 
 *Sources*:
  [1]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/india/
-
-
+https://perma.cc/Y5DL-ARAC
 [2]
-https://rsf.org/en/barometer?year=2020
-
+https://perma.cc/3BHP-SG2L
 [3]
-https://www.hrw.org/world-report/2021/country-chapters/india
-
+https://perma.cc/2YKC-DDW2
 
 
 
@@ -1843,17 +1892,13 @@ https://www.hrw.org/world-report/2021/country-chapters/india
 
 *Sources*:
  [1]
-https://rsf.org/en/indonesia
-
-
+https://perma.cc/EDN4-UTGH
 [2]
-https://www.hrw.org/asia/indonesia
-
+https://perma.cc/H5B9-HPBE
 [3]
-https://www.amnesty.org/en/countries/asia-and-the-pacific/indonesia/
-
+https://perma.cc/C8TU-67MU
 [4]
-https://ipi.media/attacks-on-journalists-rise-in-indonesia/
+https://perma.cc/M745-H9LH
 
 
 
@@ -1878,22 +1923,43 @@ https://ipi.media/attacks-on-journalists-rise-in-indonesia/
  There are several reports on journalists being threatened and harassed by government over making inquiries into the Covid-19 situation and the government response. While such reports have only been found for Q2 of 2020, no indication has been given that things have improved for journalists in the latter periods, and the environment toward journalists and media has continued to be hostile in many other respects. This is therefore coded as 1 for all periods. 
 
 *Sources*:
- https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-
-https://rsf.org/en/news/iran-press-freedom-violations-recounted-real-time-january-2020
-
-https://cpj.org/2020/03/amid-coronavirus-pandemic-iran-covers-up-crucial-i/
-https://www.ifj.org/media-centre/news/detail/category/press-releases/article/iran-paper-banned-after-reporting-on-Covid-19-death-toll.html
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Iran
-https://rsf.org/en/thematique/internet?countries%5B160%5D=160
-https://cpj.org/mideast/iran/
-https://www.ifj.org/es/centro-de-medios/noticias/detalle/category/press-releases/article/iran-state-covid-vaccination-center-guard-attacks-journalist.html
+ https://perma.cc/9GS9-QJBH
 
 
-https://journalismisnotacrime.com/en/features/3759/
+https://perma.cc/7QFN-PQ45
 
 
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26870&LangID=E 
+https://perma.cc/AUU8-89PT
+
+
+https://perma.cc/JM2X-LUGX
+
+
+https://perma.cc/L2LL-4S7Y
+
+
+https://perma.cc/85LV-FRVW
+
+
+https://perma.cc/S7FL-HQRK
+
+
+https://perma.cc/7JQZ-ZDHQ
+
+
+
+
+
+https://perma.cc/AWX7-3DVY
+
+
+
+
+
+https://perma.cc/TMN2-M5TX
+
+
+
 
 
 
@@ -1918,20 +1984,28 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26870&LangID=E
  There are several cases where journalists have been threatened and verbally harassed when trying to report on Covid-19 in Iraq. In Q2 of 2020, several journalists were detained and arrested for trying to cover authorities handling of Covid-19. In November 2020, journalists (and bloggers) have been targeted with defamation complaints by the government for investigating and reporting on Covid-19 cases and deaths (note also that there is several cases of harassment for reporting on other issues, primarily government protests). In February 2021, three reporters were sentenced to several years in prison for having reported on protests against the governments handling of Covid-19 and its economic consequences. The Iraqi authorities, and especially it seems, the Kurdish region, have continuously verbally harassed journalists through various threats of arrests and sentences (as well as carrying out many of these). This is therefore coded 1 for all periods. 
 
 *Sources*:
- https://rsf.org/en/news/kurdistan-government-threatens-tv-channel-sanctions
+ https://perma.cc/KRT3-DK3V
 
-https://rsf.org/en/news/iraqi-kurdistan-wave-arrests-journalists-Covid-19s-arrival
 
-https://cpj.org/2020/06/journalists-assaulted-detained-while-covering-Covid-19-protest-in-iraqi-kurdistan/
+https://perma.cc/LB5M-D5ZD
 
-https://cpj.org/2020/05/journalists-in-iraqi-kurdistan-tell-cpj-of-obstruc/
 
-https://rsf.org/en/news/iraq-coronavirus-reporting-triggers-spate-defamation-cases
-https://rsf.org/en/news/three-jailed-reporters-charged-undermining-national-security
+https://perma.cc/5GTC-AVLV
 
-https://rsf.org/en/news/iraq-wave-arrests-journalists-covering-protests-iraqi-kurdistan
 
- 
+https://perma.cc/RNX8-WN3J
+
+
+https://perma.cc/J5T8-ZZ3D
+
+
+https://perma.cc/EK9G-9C2L
+
+
+
+
+
+https://perma.cc/73CS-UU6F
 
 
 
@@ -1956,12 +2030,13 @@ https://rsf.org/en/news/iraq-wave-arrests-journalists-covering-protests-iraqi-ku
  Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any verbal harassment of journalists in Ireland, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B115%5D=115
+ https://perma.cc/EGZ2-5PFN
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
 
-https://cpj.org/europe/ireland/
- 
+https://perma.cc/NY8Z-P7EZ
+
+
+https://perma.cc/CE5U-6C3G
 
 
 
@@ -1986,16 +2061,19 @@ https://cpj.org/europe/ireland/
  Neither Reporters without Borders,  Committee to Protect Journalists nor International Press Institute have reported any verbal harassment of journalists in Israel, and no other indications have been found of there having been any such harassment. Note that journalists have been verbally harassed by authorities in relation to reporting on issues related to the Israel-Palestine conflict, but this is not accounted for here. Likewise, some journalists received threats when reporting on Covid-19 issues in areas largely populated by Ultra-Orthodox groups, but this harassment came from residents and not authorities. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B161%5D=161
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Israel
+ https://perma.cc/Z78B-UUH2
 
 
-https://cpj.org/mideast/israel-and-the-occupied-palestinian-territory/
+https://perma.cc/8XF2-VW2P
 
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/israel-west-bank-and-gaza/
+https://perma.cc/3CGH-WJP7
+
+
+https://perma.cc/G5SB-6BH3
+
+
+https://perma.cc/5YAP-N6AP
 
 
 
@@ -2020,8 +2098,11 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/isr
  Neither Reporters without Borders nor International Press Institute have reported any verbal harassment of journalists in Italy, and no other indications have been found of there having been any such harassment. Note that journalists have been subject to verbal harassment by protesters during protests over the Covid-19 measures, but this has not involved authorities or were in any way connected to the measures and therefore not regarded here. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B116%5D=116https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CFrom%20Our%20Network&country=Italy
-https://cpj.org/europe/italy/
+ https://perma.cc/XN4E-LSD7
+https://perma.cc/BKP6-82XD
+
+
+https://perma.cc/YT8B-JJTT
 
 
 
@@ -2046,14 +2127,16 @@ https://cpj.org/europe/italy/
  No incidents of verbal harassment. 
 
 *Sources*:
- https://rsf.org/en/tracker19-Coronavirus-Covid19
+ perma.cc/27JA-NTEC
 
 
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+perma.cc/3QRB-VSBV
 
-https://ipi.media/covid19-media-freedom-monitoring/
 
-https://rsf.org/en/cote-divoire
+perma.cc/D9XL-J8R5
+
+
+perma.cc/BMB3-RU9K
 
 
 
@@ -2079,13 +2162,13 @@ https://rsf.org/en/cote-divoire
 
 *Sources*:
  [1]
-https://ipi.media/jamaica/
+perma.cc/7SF2-BS3F
 [2]
-https://rsf.org/en/thematique/internet?countries%5B190%5D=190
+perma.cc/CXZ5-W5MN
 [3]
-https://www.bbc.com/news/topics/c50znx8v848t/jamaica
+perma.cc/LA7H-2GQZ
 [4]
-https://cpj.org/americas/jamaica/
+perma.cc/ZW3S-JXQ4
 
 
 
@@ -2110,17 +2193,16 @@ https://cpj.org/americas/jamaica/
  There have been no reports of journalists being verbally harassed across all the time periods. 
 
 *Sources*:
- https://rsf.org/en/japan
+ https://perma.cc/6FR3-CGSW
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/japan/
+https://perma.cc/9S8B-6AJZ
 
 
-https://www.bbc.com/news/topics/cjnwl8q4g7nt/japan
+https://perma.cc/KWU9-AR9V
 
 
-
-https://www.hrw.org/asia/japan
+https://perma.cc/7JNS-3WLL
 
 
 
@@ -2145,21 +2227,47 @@ https://www.hrw.org/asia/japan
  There are several reports on journalists being threatened and harassed by government over making inquiries into and criticizing, the Covid-19 situation and the government response. Most reports stem from Q2 of 2020, but there are also reports of arrests and threats in relation to Covid-19 reporting in Q3 and Q4 of 2020. However, no evidence of verbal harassment has been found in Q1 and Q2 of 2021.  This is therefore coded as 1 for Q2-Q4 of 2020, but coded 0 for Q1-Q2 of 2021. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/05/jordan-free-speech-threats-under-Covid-19-response
-https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/news/two-jordanian-tv-journalists-arrested-after-broadcasting-criticism-lockdown
-https://ipi.media/ipi-condemns-the-arrest-of-two-tv-executives-in-jordan/
-https://www.hrw.org/news/2020/08/18/jordan-escalating-repression-journalists
-https://rsf.org/en/news/jordan-bans-coverage-teachers-protests
-https://www.hrw.org/news/2021/02/11/uae-jordanian-convicted-criticizing-jordan-facebook
+ https://perma.cc/4GBT-M723
 
-https://cpj.org/2021/04/jordan-issues-ban-on-media-coverage-of-royal-family-dispute/
 
-https://cpj.org/mideast/jordan/
 
-https://ipi.media/alerts/jordanian-security-forces-arrest-owner-and-news-director-of-a-tv-channel/
+https://perma.cc/TA3T-72XU
 
-https://ipi.media/alerts/jordan-arrests-journalist-for-reporting-about-Covid-19-vaccine/
+
+
+https://perma.cc/S294-VGPQ
+
+
+
+https://perma.cc/43WJ-QNGF
+
+
+
+https://perma.cc/9QZ4-3WXW
+
+
+
+https://perma.cc/TJF2-P6MW
+
+
+
+https://perma.cc/9P88-UB2P
+
+
+
+https://perma.cc/C254-S62F
+
+
+
+https://perma.cc/2BZ3-PNHX
+
+
+
+https://perma.cc/GTB2-G7WA
+
+
+
+https://perma.cc/PM6G-3C95
 
 
 
@@ -2184,10 +2292,13 @@ https://ipi.media/alerts/jordan-arrests-journalist-for-reporting-about-Covid-19-
  No information found. 
 
 *Sources*:
- https://rsf.org/en/news/kazakh-journalists-harassed-over-covid-19-reporting
+ https://perma.cc/Z4W3-JZK6
 
-https://ipi.media/kazakhstan/
-https://rsf.org/en/kazakhstan
+
+https://perma.cc/US4U-DJNJ
+
+
+https://perma.cc/8KBS-HYDS
 
 
 
@@ -2218,28 +2329,18 @@ https://rsf.org/en/kazakhstan
 There are many more attacks on journalists but unrelated to the pandemic. 
 
 *Sources*:
- https://www.article19.org/resources/kenya-journalists-attacked/#:~:text=According%20to%20ARTICLE%2019%20Eastern,about%20by%20the%20coronavirus%20pandemic.&text=The%20collapse%20of%20markets%20for,lockdowns%20brought%20misery%20for%20them
-(1)
-https://allafrica.com/stories/202011060166.html?aa_source=nwsltr-kenya-en
-(2)
+ https://perma.cc/6KYP-6FTD
 
-https://theconversation.com/how-covid-19-has-worsened-attacks-against-journalists-in-kenya-149296
-(3)
+https://perma.cc/C8ZC-8A4B
+https://perma.cc/F8AX-D5K6
 
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://nation.africa/counties/meru/Police-attack-Weru-TV-cameraman-in-Meru-/1183302-5508134-dupwr8/index.html
-
-https://www.hrw.org/news/2020/03/31/kenya-police-abuses-could-undermine-coronavirus-fight
-
-https://www.hrw.org/news/2020/05/04/protect-kenyas-journalists-reporting-covid-19
-
-https://www.the-star.co.ke/news/2020-05-03-press-freedom-day-22-journalists-attacked-between-march-and-april/
-
-https://theconversation.com/as-press-freedom-continues-to-struggle-in-kenya-alternatives-keep-hope-alive-160019
-
-https://www.article19.org/resources/kenya-world-press-freedom-day-2021/
-(10)
+https://perma.cc/3SJV-TGU3
+https://perma.cc/2ZJZ-XGHR
+https://perma.cc/MA52-D6WA
+https://perma.cc/SY6R-GMQE
+https://perma.cc/RMN8-F4ZR
+https://perma.cc/AE2D-93XN
+https://perma.cc/TV63-BVD4
 
 
 
@@ -2264,12 +2365,19 @@ https://www.article19.org/resources/kenya-world-press-freedom-day-2021/
  There are no indications given by Reporters without Borders, International Press Institute and the American Embassy in Kuwait that there have been physical harassment of journalists during the pandemic for any period, and this is therefore coded as 0. 
 
 *Sources*:
- https://rsf.org/en/kuwait
-https://rsf.org/en/rsf_search?key=Kuwait
-https://ipi.media/?s=Kuwait
-https://kw.usembassy.gov/world-press-freedom-day/
+ https://perma.cc/5CSG-24PA
 
-https://cpj.org/mideast/kuwait/
+
+https://perma.cc/H5PB-LFLP
+
+
+https://perma.cc/YL4R-C7EE
+
+
+https://perma.cc/89Q9-ZEEY
+
+
+https://perma.cc/R3KS-FVLJ
 
 
 
@@ -2294,10 +2402,14 @@ https://cpj.org/mideast/kuwait/
  No evidence found 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
+ https://perma.cc/L84V-MLZF
 
-https://ipi.media/kyrgyzstan/
-https://rsf.org/en/kyrgyzstan
+
+https://perma.cc/8B6F-UCKX
+
+
+
+https://perma.cc/BLU9-K5R5
 
 
 
@@ -2322,11 +2434,13 @@ https://rsf.org/en/kyrgyzstan
  Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any verbal harassment of journalists in Laos, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B74%5D=74
+ https://perma.cc/S52Q-4B3X
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Laos
 
-https://cpj.org/asia/laos/
+https://perma.cc/N97W-3P7S
+
+
+https://perma.cc/62EL-NZS5
 
 
 
@@ -2351,14 +2465,16 @@ https://cpj.org/asia/laos/
  Neither Reporters without Borders nor International Press Institute have reported any verbal harassment of journalists in Lebanon, and no other indications have been found of there having been any such harassment. However, there is reports of journalists being verbally (and physically) harassed by government agents in relation to government protests after the Beirut explosion in August 2020. This is coded 0 as these protest, and the enforcement, has no connection to Covid-19 and the measures taken does not reference Covid-19 to the extent I have seen. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B164%5D=164
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Lebanon
+ https://perma.cc/3KML-HYZM
 
-https://ipi.media/press-freedom-in-lebanon-under-threat/
 
-https://www.hrw.org/report/2019/11/15/there-price-pay/criminalization-peaceful-speech-lebanon
+https://perma.cc/2PQT-VATZ
 
-https://cpj.org/mideast/lebanon/
+
+https://perma.cc/ZVK9-R4C9
+
+
+https://perma.cc/9AXY-BFTR
 
 
 
@@ -2383,17 +2499,22 @@ https://cpj.org/mideast/lebanon/
  No incident found. 
 
 *Sources*:
- https://rsf.org/en/lesothohttps://ancl-radc.org.za/node/631
+ https://perma.cc/5AHM-UNSZ
 
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
 
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+https://perma.cc/9EPY-29UT
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
 
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/53XY-CHQ2
 
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+
+https://perma.cc/Y7ZE-NKBX
+
+
+https://perma.cc/YAS5-KGKP
+
+
+https://perma.cc/9DV5-9J3R
 
 
 
@@ -2418,14 +2539,19 @@ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
  Between 19 and 21 March 2020, a journalist was interrogated three times for critical reporting about the governmnet Covid-19 response. The interrogations lasted about five hours on each visit. Another journalist felt threatened after being pressured to reveal his sources on a story on the upcoming lockdown. However, no reports of any threats or other verbal harassment toward journalists has been found in the later periods, and this is therefore only coded 1 in the first period. 
 
 *Sources*:
- https://monitor.civicus.org/country/liberia/#newspost-3228
-https://cpj.org/2020/04/journalists-in-liberia-attacked-harassed-for-repor/
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/liberia/
+ https://perma.cc/R3YQ-XX43
 
 
-https://cpj.org/blog/africa/liberia/
+https://perma.cc/CD9K-3MZ5
 
-https://rsf.org/en/thematique/internet?countries%5B29%5D=29
+
+https://perma.cc/YY48-TC2A
+
+
+https://perma.cc/PH2A-2UAF
+
+
+https://perma.cc/6C7Q-RF7C
 
 
 
@@ -2450,9 +2576,9 @@ https://rsf.org/en/thematique/internet?countries%5B29%5D=29
  No evidence found 
 
 *Sources*:
- https://ipi.media/lithuania/
-https://rsf.org/en/lithuania
-https://cpj.org/europe/lithuania/
+ [1]	perma.cc/2KMZ-Z836
+[2]	perma.cc/ZE64-FG76
+[3]	perma.cc/62P9-NHJX
 
 
 
@@ -2477,17 +2603,12 @@ https://cpj.org/europe/lithuania/
  No incidents of verbal harassment. 
 
 *Sources*:
- https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://www.amnesty.org/download/Documents/AFR3528192020ENGLISH.pdf
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/madagascar/
-
-https://rsf.org/en/news/rsf-urges-madagascar-let-journalists-cover-covid-19-freely
+ https://perma.cc/CW2C-YUFG
+https://perma.cc/E3RN-HL8F
+https://perma.cc/3SJV-TGU3
+https://perma.cc/Y72S-V2TE
+https://perma.cc/X4JE-W7SP
+https://perma.cc/WJ8L-TEYU
 
 
 
@@ -2514,12 +2635,12 @@ https://rsf.org/en/news/rsf-urges-madagascar-let-journalists-cover-covid-19-free
 In January 2021, a woman was attacked by protesters that alleged that she was an infiltrated police officer. 
 
 *Sources*:
- https://ipi.media/malawi-recent-detentions-of-journalists-overshadow-positive-press-freedom-image/
-https://cpj.org/2020/09/malawi-journalists-threatened-over-commentary-on-education-policies-amid-covid-19/
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/malawi
-https://ipi.media/malawi/
-https://cpj.org/africa/malawi/
+ [1]	perma.cc/5QL4-BYQL
+[2]	perma.cc/5UQ3-29KF
+[3]	perma.cc/UG9X-V6PG
+[4]	perma.cc/3RHK-PB9Q
+[5]	perma.cc/E7V9-JQTN
+[6]	perma.cc/4Z6Q-VBMV
 
 
 
@@ -2544,21 +2665,28 @@ https://cpj.org/africa/malawi/
  Malaysian authorities have threatened that they will prosecute what they deem disinformation on Covid-19, and some journalists have been questioned by police due to their reporting. This practiced has continued over the summer 2020. Coded as 0 in Q4 2020, Q1 2021, Q2 2021 since I found no further evidence. 
 
 *Sources*:
- https://www.hrw.org/news/2020/06/10/malaysia-new-government-backslides-free-speech
+ https://perma.cc/S3XR-47K5
 
-https://cpj.org/2020/02/malaysian-journalist-charged-over-coronavirus-face/
 
-https://cpj.org/2020/05/malaysian-journalist-faces-six-years-in-prison-ove/
+https://perma.cc/943S-6SZK
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Malaysia
 
-https://rsf.org/en/thematique/internet?countries%5B75%5D=75
+https://perma.cc/4JUR-UM2S
 
-https://www.hrw.org/news/2020/07/08/malaysia-stop-treating-criticism-crime
 
-https://www.theguardian.com/media/2020/jul/10/police-interrogate-five-australian-al-jazeera-journalists-accused-of-sedition-in-malaysia
+https://perma.cc/3TEK-9NKQ
 
-https://www.ifj.org/fileadmin/user_upload/200909_IFJ_Impacts_Of_Covid19_Malaysia.pdf
+
+https://perma.cc/75VG-S92N
+
+
+https://perma.cc/MBY6-EK2N
+
+
+https://perma.cc/2B5J-CACF
+
+
+https://perma.cc/E8TR-T6B2
 
 
 
@@ -2583,22 +2711,19 @@ https://www.ifj.org/fileadmin/user_upload/200909_IFJ_Impacts_Of_Covid19_Malaysia
  Only one incident found that relates to physical harassment (arrest). 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+ https://perma.cc/E3RN-HL8F
 (1)
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars-2020-2128
-
-https://www.lepoint.fr/afrique/mali-le-covid-19-en-etau-entre-pouvoir-civil-et-pouvoir-religieux-13-05-2020-2375300_3826.php#
-
-https://www.amnesty.org/en/latest/news/2020/05/southern-africa-covid19-a-pretext-for-surge-in-harassment-of-journalists-and-weakening-of-media-houses-by-states/
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mali/
+https://perma.cc/3SJV-TGU3
+(2)
+https://perma.cc/N7ZL-WNSB
+(3)
+https://perma.cc/47NA-CPPS
+(4)
+https://perma.cc/4YMH-BAE7
+https://perma.cc/X2F2-6WFL
+(5)
+https://perma.cc/8FVG-KU89
+(6)
 
 
 
@@ -2623,18 +2748,22 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mal
  No evidence was found. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mauritania/
-
-https://www.hrw.org/world-report/2021/country-chapters/mauritania
-
-https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
+ perma.cc/8HSF-SAQP
 
 
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/SU7H-HJNT
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
 
-https://cpj.org/mideast/mauritania/
+perma.cc/7L3Z-B834
+
+
+perma.cc/7GST-6LDE
+
+
+perma.cc/ZH5E-RVWT
+
+
+perma.cc/UMF7-CJQ3
 
 
 
@@ -2660,19 +2789,20 @@ https://cpj.org/mideast/mauritania/
 
 *Sources*:
  [1]
-https://www.dw.com/es/m%C3%A9xico-ni-la-pandemia-ha-logrado-disminuir-las-agresiones-contra-la-prensa/a-53437599
+perma.cc/8BNK-M7SN
 [2]
-https://www.hrw.org/es/news/2020/06/16/al-presidente-de-mexico-lopez-obrador-le-preocupa-el-contagio-del-virus-de-las-fake
+perma.cc/8AX9-5FFR
 [3]
-https://politica.expansion.mx/presidencia/2020/04/22/en-el-inicio-de-la-fase-mas-critica-del-covid-19-amlo-se-lanza-contra-la-prensa
+perma.cc/8P7B-7G6N
 [4]
-https://www.infobae.com/america/mexico/2020/09/18/loret-de-mola-y-brozo-desvirtuan-el-buen-periodismo-horacio-duarte-de-aduanas-respondio-a-las-duras-criticas-contra-la-rifa-del-avion-presidencial/
+perma.cc/89UF-QH5T
 [5]
-https://lasillarota.com/nacion/amlo-contra-los-medios-una-historia-permanente-prensa-periodistas-reforma-el-universal/435579
-[6]
-https://www.washingtonpost.com/es/post-opinion/2020/07/26/amlo-aumenta-su-autoritarismo-contra-la-prensa/
+perma.cc/T7WR-FFPT
 [7]
-https://ipi.media/alerts/local-mexican-politician-in-tamaulipas-state-threatens-journalist-for-reporting-on-party-during-covid-19-spike/
+perma.cc/G52X-4LTP
+[8]
+perma.cc/CNG4-KAP3
+
 
 
 
@@ -2697,7 +2827,7 @@ https://ipi.media/alerts/local-mexican-politician-in-tamaulipas-state-threatens-
  A journalist was verbally harrassed by a mayor after reporting on "unsafe working conditions and lack of disinfectant inside their textile factory during Covid-19" on Facebook (1) (since she is a journalist, making a social media post is considered journalism). Since it is an individual case and I found no evidence that the practice is system, mevhar is coded as 1 only during March-June 2020 period. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
+ https://perma.cc/UHG3-V5JX
 (1)
 
 
@@ -2723,9 +2853,10 @@ https://ipi.media/alerts/local-mexican-politician-in-tamaulipas-state-threatens-
  Neither Reporters without Borders nor International Press Institute have reported any verbal harassment of journalists in Mongolia, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B77%5D=77
+ https://perma.cc/7SMW-WE7H
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Mongolia
+
+https://perma.cc/XBE5-EFYS
 
 
 
@@ -2750,10 +2881,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  “On 5 May 2020, local representatives of the Ministry of Interior in Tiflet reportedly assaulted two journalists while they were covering the Covid-19 lockdown’s impact on local market activity during Ramadan on behalf of a national Amazigh television station. Media reports indicated the officials verbally assaulted a female journalist before slapping her and pushing her to the ground, while her accompanying cameraman sustained a hand injury as he tried to prevent the authorities from confiscating his camera.” (1) 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/morocco/
+ https://perma.cc/HM3B-Y292
 (1)
-
-https://www.amnesty.org/download/Documents/MDE2931112020ENGLISH.pdf
+https://perma.cc/7MKQ-E537
+(2)
 
 
 
@@ -2778,9 +2909,8 @@ https://www.amnesty.org/download/Documents/MDE2931112020ENGLISH.pdf
  No evidence of harassment was found. 
 
 *Sources*:
- https://rsf.org/en/countries
-_x000D__x000D_
-https://ipi.media/covid19-media-freedom-monitoring/
+ [1]	perma.cc/DZA4-KTHA
+[2]	perma.cc/TKV7-ECVS
 
 
 
@@ -2806,9 +2936,9 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 *Sources*:
  [1]
-https://rsf.org/en/namibia
+https://perma.cc/KAA3-V3DE
 [2]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/namibia/
+https://perma.cc/678F-ND5T
 
 
 
@@ -2839,16 +2969,13 @@ I have not found new cases of jounalists being verbally harrassed after reportin
 
 *Sources*:
  [1]
-https://rsf.org/en/news/nepalese-journalists-threatened-attacked-and-censored-over-covid-19-coverage
-
+https://perma.cc/5YDB-23NR
 [2]
-https://nepal24hours.com/fnj-khotang-protests-death-threat-to-journalist/
-
+https://perma.cc/7QBT-W2P7
 [3]
-https://cpj.org/2020/05/nepali-reporters-detained-threatened-while-reporti/
-
+https://perma.cc/J7R5-25F2
 [4]
-https://cpj.org/2020/05/nepali-reporters-detained-threatened-while-reporti/
+https://perma.cc/J7R5-25F2
 
 
 
@@ -2873,13 +3000,19 @@ https://cpj.org/2020/05/nepali-reporters-detained-threatened-while-reporti/
  Neither Reporters Without Borders nor International Press Institute have reported any verbal harassment of journalists in The Netherlands, and no other indications have been found of there having been any such harassment. Note that there have been reports during the fall and winter of 2020 of journalists being subject to harassment and a hostile environment, but these reports are in relation to covering various Covid-19 protests, and the harassment has come from protesters, not the authorities. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B129%5D=129
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Netherlands
+ https://perma.cc/4VX9-7JBN
 
-https://cpj.org/europe/netherlands/
-https://ipi.media/increasing-threats-and-violence-against-journalists-in-the-netherlands/
 
-https://rsf.org/en/news/reporters-attacked-while-covering-protests-against-Covid-19-measures-italy
+https://perma.cc/VH4P-QUCU
+
+
+https://perma.cc/NNP4-FUYB
+
+
+https://perma.cc/H4DN-QAFV
+
+
+https://perma.cc/7N73-AHNX
 
 
 
@@ -2904,9 +3037,8 @@ https://rsf.org/en/news/reporters-attacked-while-covering-protests-against-Covid
  Neither Reporters without Borders nor International Press Institute have reported any verbal harassment of journalists in New Zealand, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B80%5D=80
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=New%20Zealand
+ [1]	perma.cc/R88Z-YGEU
+[2]	perma.cc/Z6YQ-BCZ7
 
 
 
@@ -2932,27 +3064,25 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 *Sources*:
  [1]
-https://www.laprensa.com.ni/2020/09/08/nacionales/2718522-estos-son-los-ataques-contra-el-periodismo-independientes-en-lo-que-va-de-2020
+perma.cc/R2ER-ZQS9
 [2]
-https://forbescentroamerica.com/2020/05/14/vicepresidenta-de-nicaragua-tilda-de-almas-endemoniadas-a-comunicadores/
+perma.cc/YL95-J7RZ
 [3]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/J4XW-ETUW
 [4]
-https://www.dw.com/es/eeuu-condena-intimidaci%C3%B3n-a-prensa-independiente-en-nicaragua/a-54372266
-
+perma.cc/7Z6M-8YDS
 [5]
-https://www.laprensa.com.ni/2020/09/08/nacionales/2718522-estos-son-los-ataques-contra-el-periodismo-independientes-en-lo-que-va-de-2020
-
+perma.cc/WD5A-ZJV3
 [6]
-https://www.laprensa.com.ni/2020/01/31/nacionales/2634490-censura-represion-y-agresiones-afectan-el-ejercicio-periodistico-independiente-en-nicaragua
+perma.cc/QAE8-D225
 [7]
-https://www.voanoticias.com/centroamerica/periodistas-denuncian-agresiones-durante-cobertura-de-pandemia-en-nicaragua
+perma.cc/B8FZ-MUFX
 [8]
-https://www.voanoticias.com/centroamerica/periodistas-nicaraguenses-denuncian-aumento-de-censura-para-reportar-sobre-covid19
+perma.cc/G5ND-AJ8W
 [9]
-https://www.elsalvador.com/noticias/internacional/nicaragua-crisis-periodistas/765507/2020/
+perma.cc/3A7R-VRW4
 [10]
-https://www.infobae.com/america/america-latina/2021/02/27/periodistas-del-mundo-exigen-libertad-de-expresion-en-nicaragua-el-regimen-de-ortega-ejerce-una-represion-sistematica-contra-los-disidentes/
+perma.cc/WSL7-BH2B
 
 
 
@@ -2977,17 +3107,13 @@ https://www.infobae.com/america/america-latina/2021/02/27/periodistas-del-mundo-
  No evidence was found. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-
-https://cpj.org/africa/niger/https://rsf.org/en/niger
-
-https://www.amnesty.org/en/latest/news/2020/03/niger-societe-civile-demandent-un-terme/
-
-https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/niger/
+ https://perma.cc/3SJV-TGU3
+https://perma.cc/K9EA-965Q
+https://perma.cc/S9HB-R9HB
+https://perma.cc/FN77-877L
+https://perma.cc/ZK87-U7MH
+https://perma.cc/59KS-EP8Y
+https://perma.cc/4CLT-SPWP
 
 
 
@@ -3015,13 +3141,10 @@ Kufre Carter was arrested and prosecuted for  writing an article that was “fal
 July-September, October-December, January-March, April-June: since two cases from March-June appear to be isolated incidents and I found no further information on similar violations, mevhar is coded as 0 in these time periods. 
 
 *Sources*:
- https://cpj.org/2020/06/nigerian-journalist-held-under-cybercrime-act-for-covid-19-coverage/
-
-https://cpj.org/2020/05/nigerian-journalist-kufre-carter-detained-for-1-month-charged-with-defamation-and-conspiracy/
-
-https://cpj.org/2020/04/nigerian-police-arrest-2-journalists-governor-canc/
-
-https://cpj.org/2020/08/nigerian-journalist-sikiru-obarayese-attacked-by-police-while-covering-covid-19-lockdown/
+ [1]	perma.cc/8LAY-NSUU
+[2]	perma.cc/4BP2-6BH4
+[3]	perma.cc/Z8P7-4WH5
+[4]	perma.cc/K86J-NXBN
 
 
 
@@ -3046,12 +3169,9 @@ https://cpj.org/2020/08/nigerian-journalist-sikiru-obarayese-attacked-by-police-
  I did not find any information related to this. However there is complete control over communication within North Korea. Citizens can also be sent to concentration camps for looking at online media. The Korean Central News Agency is the only permitted source of news within the country. These factors may deter journalists from being critical in their reporting. Furthermore, the restricted nature of news may mean that harrassment could be happening without credible reports of such occurances. 
 
 *Sources*:
- https://rsf.org/en/north-korea
-
-
-https://www.hrw.org/asia/north-korea
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/north-korea/
+ https://perma.cc/5PB5-X2UM
+https://perma.cc/RUE6-AZV5
+https://perma.cc/W4PJ-WWVM
 
 
 
@@ -3076,9 +3196,9 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/north-korea/
  No evidence found related to COVID-19. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://ipi.media/northmacedonia/
-https://rsf.org/en/north-macedonia
+ [1]	perma.cc/5J8M-JHPJ
+[2]	perma.cc/WRC4-SNCT
+[3]	perma.cc/KX83-ZDAT
 
 
 
@@ -3103,8 +3223,10 @@ https://rsf.org/en/north-macedonia
  Neither Reporters Without Borders nor International Press Institute have reported any verbal harassment of journalists in Norway, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B126%5D=126
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Norway
+ https://perma.cc/4S5S-RK84
+
+
+https://perma.cc/EU8U-QG7A
 
 
 
@@ -3130,11 +3252,11 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/8U8J-R5EG
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/XJE3-SUHX
 [3]
-https://cpj.org/mideast/oman/
+perma.cc/R6N5-EPQ9
 
 
 
@@ -3161,13 +3283,10 @@ https://cpj.org/mideast/oman/
  
 
 *Sources*:
- https://rsf.org/en/pakistan
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://www.bbc.com/news/topics/c008ql15vpyt/pakistan
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/pakistan/
+ https://perma.cc/LC7N-CM8M
+https://perma.cc/JL9G-SZ2W
+https://perma.cc/9WUX-88Q4
+https://perma.cc/Y9CQ-SXKC
 
 
 
@@ -3193,10 +3312,10 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/pakistan/
 For April-June 2021, some evidence of harassment of journalist was found, but there is no enough evidence to credit that to COVID-19. 
 
 *Sources*:
- https://www.swissinfo.ch/spa/am%C3%A9rica-prensa_sip-alerta-de-un-acoso-judicial-y-de-violencia-contra-periodistas-en-panam%C3%A1/46553928
-https://rsf.org/en/countries
-https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/americas/panama/
+ [1]	perma.cc/CKE9-SWKN
+[2]	perma.cc/ZC72-XW8N
+[3]	perma.cc/C3AD-TFM2
+[4]	perma.cc/4EK8-HDQG
 
 
 
@@ -3221,12 +3340,16 @@ https://cpj.org/americas/panama/
  In Q2 of 2020, The Police Minister called for the resignation of two journalists reporting on the governments response to Covid-19, stating that they "can't be trusted" (the minister did not, however, start any investigation or call for arrests). This is deemed a verbal harassment of these journalists, and thus coded as 1. However, no evidence of any threats to journalists has been found in relation to Covid-19 (or anything else) since then, and this seems to be an isolated incident. This is therefore coded 0 for all other periods. 
 
 *Sources*:
- https://rsf.org/en/news/papua-new-guinea-government-minister-calls-two-reporters-be-fired-over-Covid-19-coverage
+ https://perma.cc/L2JQ-CK8H
 
-https://rsf.org/en/thematique/internet?countries%5B82%5D=82
 
-https://cpj.org/asia/papua-new-guinea/
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Papua%20New%20Guinea
+https://perma.cc/2R4L-ZWJV
+
+
+https://perma.cc/5W4W-9U8D
+
+
+https://perma.cc/W9Z6-RP57
 
 
 
@@ -3252,11 +3375,11 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/QJB4-Q3LX
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/JEZ3-RTRR
 [3]
-https://cpj.org/americas/paraguay/
+perma.cc/24GS-88Z7
 
 
 
@@ -3282,11 +3405,11 @@ https://cpj.org/americas/paraguay/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/56Z6-NGZT
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/DLH2-TPU2
 [3]
-https://cpj.org/americas/peru/
+perma.cc/2DBZ-E2DS
 
 
 
@@ -3311,10 +3434,8 @@ https://cpj.org/americas/peru/
  I did not find any information related to this 
 
 *Sources*:
- https://rsf.org/en/philippines
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/philippines/
+ https://perma.cc/U45B-AKSD
+https://perma.cc/9CJJ-Q3RN
 
 
 
@@ -3339,11 +3460,19 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/philippines/
  No evidence found 
 
 *Sources*:
- https://ipi.media/poland/
-https://rsf.org/en/poland
-https://www.icnl.org/covid19tracker/?location=100&issue=&date=&type=
-https://www.coe.int/en/web/media-freedom/all-alerts
-https://cpj.org/europe/poland/
+ https://perma.cc/WE7F-73CH
+
+
+https://perma.cc/KN8N-LGH4
+
+
+https://perma.cc/SY7L-JPBC
+
+
+https://perma.cc/9JLR-KF62
+
+
+https://perma.cc/MSX8-BMG9
 
 
 
@@ -3369,11 +3498,11 @@ https://cpj.org/europe/poland/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/ASC5-FDQT
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/KSF8-PNPD
 [3]
-https://cpj.org/europe/portugal/
+perma.cc/2Q5G-7LHG
 
 
 
@@ -3398,19 +3527,25 @@ https://cpj.org/europe/portugal/
  No evidence of journalists being verbally harassed over Covid-19 reporting has been found. 
 
 *Sources*:
- https://www.hrw.org/world-report/2021/country-chapters/qatar
+ https://perma.cc/S82F-2EUB
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
 
-https://rsf.org/en/thematique/internet?countries%5B169%5D=169
+https://perma.cc/6526-3CNS
 
-https://cpj.org/mideast/qatar/2020/
 
-https://cpj.org/mideast/qatar/2021/
+https://perma.cc/NJ5A-53RB
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qatar/
 
-https://ipi.media/qatar/
+https://perma.cc/H656-HBYS
+
+
+https://perma.cc/BC9K-GTUP
+
+
+https://perma.cc/7TGL-2MT8
+
+
+https://perma.cc/747X-43C5
 
 
 
@@ -3435,14 +3570,11 @@ https://ipi.media/qatar/
  No evidence found. 
 
 *Sources*:
- https://rsf.org/en/congo-brazzaville
+ https://perma.cc/XC33-PEDH
 
-
-https://rsf.org/en/rsf_search?key=congo
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://cpj.org/africa/republic-of-congo/
+https://web.archive.org/web/20200421110301/http://rsf.org:80/en/rsf_search
+https://perma.cc/3SJV-TGU3
+https://perma.cc/F4AH-62F2
 
 
 
@@ -3467,9 +3599,14 @@ https://cpj.org/africa/republic-of-congo/
  No evidence found 
 
 *Sources*:
- https://www.coe.int/en/web/media-freedom/all-alerts
-https://ipi.media/romania/
-https://rsf.org/en/romania
+ https://perma.cc/8WGN-9D7S
+
+
+https://perma.cc/E55Y-7489
+
+
+
+https://perma.cc/3CU7-UJ96
 
 
 
@@ -3494,11 +3631,19 @@ https://rsf.org/en/romania
  Verbal harrassment and threats towards a journalist reporting on Covid-19 measures in Chechnya region. Since it is an individual case and I found no evidence that the practice is systemic, mevhar is coded as 1 only during March-June 2020 period. 
 
 *Sources*:
- https://novayagazeta.ru/articles/2020/04/13/84881-ramzan-kadyrov-o-novoy-gazete-bez-kommentariev
-https://ipi.media/chechnya-leader-launches-violent-tirade-against-russian-investigative-journalist/
-https://ipi.media/russian-journalists-face-continued-fines-and-probes-amid-creeping-censorship/
-https://cpj.org/2020/04/chechen-leader-threatens-journalist-elena-milashin/
-https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
+ https://perma.cc/BA6D-33VW
+
+
+https://perma.cc/6FAU-75LJ
+
+
+https://perma.cc/39Q3-6592
+
+
+https://perma.cc/GK4D-QE3P
+
+
+https://perma.cc/X8QZ-BDMT
 
 
 
@@ -3523,19 +3668,12 @@ https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-w
  No evidence of verbal harassment of journalists was found. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/rwanda/
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-
-https://www.hrw.org/news/2020/04/24/rwanda-lockdown-arrests-abuses-surge
-
-https://cpj.org/2020/05/rwandan-journalist-media-worker-detained-since-mid/
-
-https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
-
-
-http://rwandansrights.org/rwanda-the-coronavirus-pandemic-is-not-an-excuse-to-trample-on-freedom-of-press/
+ perma.cc/9TRQ-FR5A
+perma.cc/4AQD-CNSK
+perma.cc/AQE9-Y3Q2
+perma.cc/85VR-MYEH
+perma.cc/V7QV-W5FG
+perma.cc/DC7V-U2NV
 
 
 
@@ -3560,9 +3698,13 @@ http://rwandansrights.org/rwanda-the-coronavirus-pandemic-is-not-an-excuse-to-tr
  No evidence has been found on there being any verbal harassment of journalists reporting on Covid-19 in Saudi Arabia. This is therefore coded as 0 for all three periods. 
 
 *Sources*:
- https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/thematique/internet?countries%5B153%5D=153
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Saudi%20Arabia
+ https://perma.cc/X44A-4SSD
+
+
+https://perma.cc/E9HC-2F2J
+
+
+https://perma.cc/V2DN-67RN
 
 
 
@@ -3587,11 +3729,9 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  The only incident found was related to physical harassment. 
 
 *Sources*:
- https://rsf.org/en/senegal
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://twitter.com/RSF_fr/status/1243130431245037569?s=20
+ perma.cc/PXY5-XUWX
+perma.cc/E3RN-HL8F
+perma.cc/2U5M-4PJT
 
 
 
@@ -3616,7 +3756,7 @@ https://twitter.com/RSF_fr/status/1243130431245037569?s=20
  On 1 April a journalist was arrested following reporting on conditions in a local hospital, and she was also verbally harrassed by the government. Since it is an individual case and I found no evidence that the practice is systemic, mevhar is coded as 1 only during March-June 2020 period. 
 
 *Sources*:
- https://cpj.org/2020/04/serbian-reporter-ana-lalic-on-her-arrest-and-deten/
+ https://perma.cc/82G2-369X
 
 
 
@@ -3641,9 +3781,9 @@ https://twitter.com/RSF_fr/status/1243130431245037569?s=20
  No information found. There is evidence of harassment, but not related to the COVID-19 pandemics. 
 
 *Sources*:
- https://rsf.org/en/sierra-leone
-https://ipi.media/sierra-leone/
-https://www.mfwa.org/issues-in-focus/prosecuted-over-annoying-publication-about-police-chief-journalist-mahmud-tim-kargbo-narrates-his-ordeal/
+ [1]	perma.cc/4H4J-EDJG
+[2]	perma.cc/5PG4-DCCT
+[3]	perma.cc/72RZ-ANFD
 
 
 
@@ -3668,11 +3808,9 @@ https://www.mfwa.org/issues-in-focus/prosecuted-over-annoying-publication-about-
  I did not find information suggesting that journalists have been verbally harassed for reporting on the pandemic. 
 
 *Sources*:
- https://rsf.org/en/singapore
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/singapore/
-
-https://www.hrw.org/asia/singapore
+ https://perma.cc/J4Z3-WR78
+https://perma.cc/UY9Y-TTYW
+https://perma.cc/J8SH-GA69
 
 
 
@@ -3697,10 +3835,16 @@ https://www.hrw.org/asia/singapore
  No evidence found 
 
 *Sources*:
- https://cpj.org/europe/slovakia/
-https://ipi.media/slovakia/
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/slovakia
+ https://perma.cc/D3DN-T6YC
+
+
+https://perma.cc/P24Q-GRFC
+
+
+https://perma.cc/R7WW-JY55
+
+
+https://perma.cc/KBX3-JAF2
 
 
 
@@ -3726,34 +3870,25 @@ https://rsf.org/en/slovakia
 In 2021 the attackes persisted, such as in April 2021, when the prime minister accused 24ur of lying about the Covid-19 pandemic (6). Mevhar is therefore coded as 1 in all periods. 
 
 *Sources*:
- https://rsf.org/en/news/repressive-laws-prosecutions-attacks-europe-fails-shield-its-journalists-against-abuse-covid-19
-(1)
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-4&p_p_col_count=1&_sojdashboard_WAR_coesojportlet_alertId=64402726
+ [1]	perma.cc/8T83-YD5L
+[2]	perma.cc/Z6LY-KZ4L
+[3]	perma.cc/T5JA-8XVA
+[4]	perma.cc/LR8V-T4TQ
+[5]	https://web.archive.org/web/20200421112412/https://twitter.com/JJansaSDS/status/1241089868492681218?s=20
+[6]	https://web.archive.org/web/20200321191146/https://twitter.com/JJansaSDS/status/1241440991783129094
+[7]	perma.cc/47CH-YMQM
+[8]	perma.cc/EW2A-SSRX
+[9]	perma.cc/B47D-L9E6
+[10]	perma.cc/TH7M-CKDT
+[11]	perma.cc/AN29-EK6W
+[12]	https://web.archive.org/web/20211011115116/https://twitter.com/jjansasds/status/1316736285059420162?lang=en
+[13]	perma.cc/CN5X-8RSS
+[14]	perma.cc/MRS2-X3YR
+[15]	perma.cc/B7S2-A3BS
+[16]	perma.cc/3WC9-V7BR
+[17]	perma.cc/XQ43-J8K4
+[18]	perma.cc/SHV8-BW4G
 
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-3&p_p_col_count=7&_sojdashboard_WAR_coesojportlet_alertPK=61810902#:~:text=Slovenian%20Journalist%20Bla%C5%BE%20Zgaga%20Targeted,Led%20by%20the%20New%20Government&text=Slovenian%20investigative%20journalist%20Bla%C5%BE%20Zgaga,threats%20from%20far%2Dright%20groups.
-(2)
-https://www.gov.si/en/news/2020-05-11-war-with-the-media/
-https://twitter.com/JJansaSDS/status/1241089868492681218?s=20
-https://twitter.com/JJansaSDS/status/1241440991783129094
-https://www.osce.org/representative-on-freedom-of-media/449287
-https://ipi.media/slovenian-journalists-operate-in-increasingly-toxic-atmosphere/
-https://rsf.org/en/blaz-zgaga
-
-https://cpj.org/2020/04/slovenian-journalist-blaz-zgaga-on-facing-off-agai/
-(3)
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-3&p_p_col_pos=1&p_p_col_count=11&_sojdashboard_WAR_coesojportlet_alertPK=70151499&_sojdashboard_WAR_coesojportlet_displayLink=SojPortlet.getDashboardPortletId%28%29
-(4)
-
-https://twitter.com/jjansasds/status/1316736285059420162?lang=en
-(5)
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/slovenia/
-https://www.europarl.europa.eu/news/en/agenda/briefing/2021-03-08/6/media-freedom-under-attack-in-poland-hungary-and-slovenia
-https://www.total-slovenia-news.com/politics/8199-council-of-europe-report-notes-concerns-about-govt-harassment-of-media-in-sloveniahttps://ipi.media/alerts/slovenian-pm-accuses-24ur-and-its-editor-of-responsibility-in-covid-19-deaths/
-
-(6)
-https://ipi.media/alerts/slovenian-pm-blames-mainstream-media-for-virus-spread/
-(7)
-https://www.politico.eu/article/testifying-to-parliament-experts-detail-curbs-on-media-rights-and-attacks-on-journalists-in-slovenia/
 
 
 
@@ -3778,19 +3913,12 @@ https://www.politico.eu/article/testifying-to-parliament-experts-detail-curbs-on
  The state is investigating and jailing journalists, accusing them of offending the honor or prestige of the head of state, or spreading fake news. Also, and more clearly verbal harassment, an official from the presidential palace reached a journalist via Twitter asking him where he got his sources.  I found no evidence that the violations stopped, so mevhar is coded as 1 in all time periods. 
 
 *Sources*:
- https://www.voanews.com/extremism-watch/somali-journalists-arrested-intimidated-while-covering-covid-19
-
-
-https://cpj.org/2020/04/somali-journalist-abdiaziz-ahmed-gurbiye-arrested/
-
-
-https://www.hrw.org/news/2020/05/02/somalia-spate-arrests-intimidation-journalists
-
-https://www.hrw.org/news/2020/07/06/baseless-charges-against-prominent-somali-journalist
-
-https://www.rfi.fr/en/africa/20200414-press-freedom-violations-throughout-african-continent-linked-to-covid-19-coverage
-
-https://www.voanews.com/press-freedom/somali-journalists-alarmed-over-spike-attacks-media
+ https://perma.cc/8K6W-NR77
+https://perma.cc/5EL8-SKYM
+https://perma.cc/569G-UAUR
+https://perma.cc/SL9D-AW4S
+https://perma.cc/V3K9-R2Z8
+https://perma.cc/LAW6-9RPP
 
 
 
@@ -3815,17 +3943,10 @@ https://www.voanews.com/press-freedom/somali-journalists-alarmed-over-spike-atta
  In April 2020, police threatened and eventually blocked a journalist while covering lockdown enforcement [1]. In August 2020, a member of parliament verbally harassed a journalist who was investigating his remarks concerning the government's response to Covid-19 [2]. No further reports of verbal harassment have been found. 
 
 *Sources*:
- [1]
-https://sanef.org.za/sanef-and-safrea-call-on-law-enforcement-members-saps-metro-police-and-army-to-stop-their-hostility-and-harassment-of-journalists/
-
-[2]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/south-africa/
-
-[3]
-https://www.hrw.org/world-report/2021/country-chapters/south-africa
-
-[4]
-https://rsf.org/en/south-africa
+ [1]	perma.cc/Y4RQ-278Q
+[2]	perma.cc/VA6K-6EKC
+[3]	perma.cc/SH62-RKH4
+[4]	perma.cc/2TCA-2HU5
 
 
 
@@ -3850,16 +3971,10 @@ https://rsf.org/en/south-africa
  I did not find any information related to this. 
 
 *Sources*:
- https://rsf.org/en/south-korea
-
-
-https://www.hrw.org/asia/south-korea
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/south-korea/
-
-
-https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
+ https://perma.cc/67Z5-NR3U
+https://perma.cc/9S8X-MEC6
+https://perma.cc/LQ2G-LZ7Y
+https://perma.cc/M5DV-QWLS
 
 
 
@@ -3884,13 +3999,14 @@ https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
  Harassment of journalists is common in South Sudan but no incidents have been directly linked to Covid-19 reporting or restrictions. 
 
 *Sources*:
- https://freedomhouse.org/country/south-sudan/freedom-world/2020
-https://ipi.media/sudan-shuts-more-media/
-https://www.hrw.org/world-report/2020/country-chapters/south-sudan
-https://www.dw.com/en/south-sudans-independent-media-under-pressure/a-49521449
-https://rsf.org/en/south-sudan
-https://doi.org/10.23696/vdemds20
-https://cpj.org/africa/south-sudan/
+ https://perma.cc/666R-54Y3
+https://perma.cc/4FTZ-AAD4
+https://perma.cc/7VYE-7BR9
+https://perma.cc/J79G-PX5G
+https://perma.cc/8XKB-V5X8
+https://perma.cc/AL7E-N7G8
+
+https://perma.cc/3E3A-WJJV
 
 
 
@@ -3915,14 +4031,9 @@ https://cpj.org/africa/south-sudan/
  No evidence of harassment was found. 
 
 *Sources*:
- [1]
-https://rsf.org/en/countries
-
-[2]
-https://ipi.media/covid19-media-freedom-monitoring/
-
-[3]
-https://cpj.org/europe/spain/
+ [1]	perma.cc/G982-MA86
+[2]	perma.cc/LA53-L7RV
+[3]	perma.cc/X6WT-WGSZ
 
 
 
@@ -3947,18 +4058,11 @@ https://cpj.org/europe/spain/
  I did not find instances of the government or its agents verbally harassing journalists reporting on Covid-19. However, there have been multiple cases of journalists being harassed both verbally and physically for their critical reporting on issues other than Covid-19. 
 
 *Sources*:
- https://rsf.org/en/sri-lanka
-
-
-https://www.bbc.com/news/topics/cywd23g0gxgt/sri-lanka
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/sri-lanka/
-
-
-https://www.hrw.org/asia/sri-lanka
-
-https://cpj.org/2020/12/at-least-5-sri-lankan-journalists-assaulted-while-reporting-in-october/
+ https://perma.cc/3MCU-B279
+https://perma.cc/V5DU-JA2D
+https://perma.cc/HHV3-P4FB
+https://perma.cc/CP9N-H6R7
+https://perma.cc/Q7PH-G5LK
 
 
 
@@ -3983,12 +4087,9 @@ https://cpj.org/2020/12/at-least-5-sri-lankan-journalists-assaulted-while-report
  In May 2020, the Committee to Protect Journalists reported that two journalists had been harassed and arrested for reporting about the number of Covid-19 deaths [3]. No other incidents were found. 
 
 *Sources*:
- [1]
-https://rsf.org/en/sudan
-[2]
-https://www.hrw.org/world-report/2021/country-chapters/sudan#c667ea
-[3]
-https://cpj.org/2020/07/sudanese-authorities-in-north-darfur-state-harass-2-journalists-reporting-on-covid-19/
+ [1]	perma.cc/SL9P-WSRB
+[2]	perma.cc/U4FT-2U6J
+[3]	perma.cc/74C4-P8JH
 
 
 
@@ -4013,8 +4114,10 @@ https://cpj.org/2020/07/sudanese-authorities-in-north-darfur-state-harass-2-jour
  Neither Reporters Without Borders nor International Press Institute have reported any verbal harassment of journalists in Sweden, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B141%5D=141
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Sweden
+ https://perma.cc/UZ7Y-9Q7P
+
+
+https://perma.cc/9E66-2T97
 
 
 
@@ -4039,12 +4142,16 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Neither Reporters Without Borders nor International Press Institute have reported any verbal harassment of journalists in Switzerland, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B142%5D=142
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
+ https://perma.cc/Z6HV-YU93
 
-https://cpj.org/europe/switzerland/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/switzerland/
+https://perma.cc/527G-94W2
+
+
+https://perma.cc/QAG5-ECU2
+
+
+https://perma.cc/AE32-89EJ
 
 
 
@@ -4069,10 +4176,10 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/swi
  I did not find anything information on taiwanese journalists being verbally harrassed. 
 
 *Sources*:
- https://rsf.org/en/taiwan
+ https://perma.cc/QP6L-7SPS
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/taiwan/
+https://perma.cc/C68T-XQ99
 
 
 
@@ -4097,7 +4204,7 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/taiwan/
  A journalist received threats from government-linked online trolls after reporting on the government's response to covid-19, as well as anonymous threats on social media. Since it is an individual case and I found no evidence that the practice is systemic, mevhar is coded as 1 only during March-June 2020 period. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/13/attack-tajik-journalist-reporting-covid-19
+ https://perma.cc/CEZ2-LKVU
 
 
 
@@ -4122,28 +4229,28 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/taiwan/
  In Q2 of 2020, a journalist working for Deutsche Welle was threatened by authorities for reporting on Covid-19 in Tanzania, and two Kenyan journalists were arrested when interviewing citizens on Covid-19. This is therefore coded as 1 in Q2 of 2020. After this, no evidence of verbal harassment of journalists has been found in Tanzania, and this is therefore coded as 0 for the other periods. 
 
 *Sources*:
- [1]
-https://ipi.media/tanzania/
+ [1]https://perma.cc/3BU5-99Y8
 
-[2]
-https://rsf.org/en/tanzania
 
-[3]
-https://cpj.org/africa/tanzania/
+[2]https://perma.cc/54EE-ZUDT
 
-[4]https://www.bbc.com/news/world-africa-52519853
 
-[5]
-https://ipi.media/covid19/?alert_type=0&language=0&years=0&country=tanzania
+[3]https://perma.cc/F9AT-55UB
 
-[6]
-https://ipi.media/alerts/a-deutsche-welle-journalist-was-threatened-with-punitive-action-for-reporting-about-Covid-19/
 
-[7]
-https://ipi.media/alerts/two-kenyan-journalists-arrested-in-tanzania-while-interviewing-residents-on-coronavirus/
+[4]https://perma.cc/HJ7A-KYP3
 
-[8]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tanzania/
+
+[5]https://perma.cc/NJF9-7K8W
+
+
+[6]https://perma.cc/L35N-5UGL
+
+
+[7]https://perma.cc/F8YF-Y5T9
+
+
+[8]https://perma.cc/C7CG-EEAJ
 
 
 
@@ -4168,13 +4275,9 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tan
  Journalists are routinely harassed in Thailand. However, I have not found evidence of journalists being verbally harassed specifically due to their reporting on the pandemic. 
 
 *Sources*:
- https://rsf.org/en/thailand
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/thailand/
-
-
-https://www.hrw.org/thailand
+ https://perma.cc/9WHY-T48F
+https://perma.cc/TQK6-83F5
+https://perma.cc/S8FC-TZ5R
 
 
 
@@ -4199,19 +4302,16 @@ https://www.hrw.org/thailand
  No evidence indicating that the government and its agents have verbally harassed journalists reporting about Covid-19, was found. 
 
 *Sources*:
- https://ipi.media/gambia/
+ https://perma.cc/SVC8-JZ6U
 
 
-
-https://cpj.org/africa/gambia/
-
+https://perma.cc/BT33-UF7Q
 
 
-https://rsf.org/en/gambia
+https://perma.cc/V765-ANW3
 
 
-
-https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
+https://perma.cc/JW4X-PVE7
 
 
 
@@ -4236,20 +4336,13 @@ https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
  No evidence related to Covid-19 was found. 
 
 *Sources*:
- https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://cpj.org/covid-19/
-
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-
-https://rsf.org/en/togo
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/togo/
-
-https://www.amnesty.org/en/countries/africa/togo/report-togo/
+ https://perma.cc/X92G-SKZ3
+perma.cc/JJ9F-YJE7
+perma.cc/V4S2-7LEG
+perma.cc/8VLX-8HKC
+perma.cc/M9E9-QUUV
+perma.cc/5BYV-RGS2
+perma.cc/63AX-72JY
 
 
 
@@ -4274,14 +4367,10 @@ https://www.amnesty.org/en/countries/africa/togo/report-togo/
  No evidence indicating that the government and its agents have verbally harassed journalists reporting about Covid-19, was found. 
 
 *Sources*:
- [1]
-https://ipi.media/tunisia/
-[2]
-https://rsf.org/en/thematique/internet?countries%5B171%5D=171
-[3]
-https://cpj.org/mideast/tunisia/
-[4]
-https://www.bbc.com/news/topics/cwlw3xz0lmvt/tunisia
+ [1]	perma.cc/2WJ3-EGS4
+[2]	perma.cc/6CLX-66F4
+[3]	perma.cc/8CQ9-EH5Z
+[4]	perma.cc/9DNL-4Y4K
 
 
 
@@ -4306,34 +4395,23 @@ https://www.bbc.com/news/topics/cwlw3xz0lmvt/tunisia
  Several reporters that have published or researched issues on Covid-19 have been subject to police investigation and interrogation. However, these reports are only from Q2 of 2020, and no later reports of such arrests related to Covid-19 has been found (although journalists in Turkey are subject to threats that are not related to Covid-19 throughout the period). This is therefore coded 1 for Q2 of 2020, and 0 for the other periods. 
 
 *Sources*:
- https://www.arabnews.com/node/1753071/media
-https://www.coe.int/en/web/media-freedom/all-alerts?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-4&p_p_col_count=1&_sojdashboard_WAR_coesojportlet_keywords=&_sojdashboard_WAR_coesojportlet_selectedStringFilters=&_sojdashboard_WAR_coesojportlet_selectedCategories=12093570,11709464,11709462,11709592
-https://ipi.media/covid19-media-freedom-monitoring/
-https://www.amnesty.org/en/latest/news/2020/05/turkey-covid19-pandemic-increases-climate-of-fear-for-journalists/
+ https://perma.cc/78VP-XJTH
+https://perma.cc/V963-RJCY
+https://perma.cc/JBB5-LBQU
+https://perma.cc/9HKY-N8KM
+https://perma.cc/R6XS-PQYP
+https://perma.cc/7ABG-RAUH
+https://perma.cc/DN9Q-DZV2
+https://perma.cc/7U6N-XF34
+https://perma.cc/DG4M-XT7J
+https://perma.cc/34TP-DHB9
+https://perma.cc/Y7DR-4FNL
+https://perma.cc/T3XE-57QS
 
-https://rsf.org/en/news/turkish-journalists-arrested-reporting-Covid-19-cases
-
-https://rsf.org/en/news/regulators-gradually-imposing-official-line-monopoly-turkeys-media
-
-https://www.amnesty.org/en/latest/campaigns/2020/06/turkey-stifling-free-expression-during-the-covid19-pandemic/
-
-https://www.dusun-think.net/wp-content/uploads/2020/08/Freedom-of-Expression-Violations-in-Turkey-Report-July-2020.pdf
-
-https://www.ifj.org/media-centre/news/detail/category/press-releases/article/Covid-19-pandemic-threatens-press-freedom.html
-
-http://bianet.org/english/freedom-of-expression/230023-press-freedom-in-turkey-journalists-could-not-breathe-in-august-either
-
-https://projects.voanews.com/covering-covid19/english/journalist/turkey-ahmet-kanbal.html
-
-https://rsf.org/en/news/journalists-threatened-imprisonment-under-turkeys-terrorism-law
-
-https://rsf.org/en/news/turkey-press-freedom-figures
-
-https://cpj.org/europe/turkey/
-
-https://www.amnesty.org/en/latest/news/2021/04/can-independent-journalism-fight-back-in-turkey/
-
-https://www.amnesty.org/en/countries/europe-and-central-asia/turkey/report-turkey/
+https://perma.cc/2A9D-M5VS
+https://perma.cc/65PK-7HK9
+https://perma.cc/V4EU-DEHW
+https://perma.cc/X332-ZUHP
 
 
 
@@ -4358,8 +4436,10 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/turkey/report-turke
  No information found. 
 
 *Sources*:
- https://ipi.media/turkmenistan/
-https://rsf.org/en/turkmenistan
+ https://perma.cc/B6AZ-95V7
+
+
+https://perma.cc/EP45-FU7T
 
 
 
@@ -4384,33 +4464,15 @@ https://rsf.org/en/turkmenistan
  Throughout 2020 and 2021, security forces harassed and assaulted journalists while enforcing Covid-19 protocols [1,2,3,4], despite the press being exempt from many of these measures as essential workers [5]. At least 12 cases of assault was reported between just March 19 (beginning of lockdown) and April 24, 2020. Journalists have been beaten, slapped, punched, kicked, and had their camera taken and forced to delete pictures, when reporting on police enforcing lockdown measures [5,6,7,8]. Harassment of journalists before and after national elections in January 2021 supposedly for pandemic response has been widespread [9]. There is no sign of improvement. 
 
 *Sources*:
- [1]
-https://www.state.gov/wp-content/uploads/2021/03/UGANDA-2020-HUMAN-RIGHTS-REPORT.pdf
-
-[2]
-https://freedomhouse.org/country/uganda/freedom-world/2021
-
-[3]
-https://ijoc.org/index.php/ijoc/article/viewFile/11456/2948
-
-
-[4]
-https://rsf.org/en/uganda
-
-[5]
-https://monitor.civicus.org/updates/2020/05/12/dissidents-prosecuted-and-journalists-harassed-while-covering-covid-19-restrictions/
-
-[6]
-https://cpj.org/2020/04/ugandan-security-personnel-enforcing-covid-19-meas/
-
-[7]
-https://www.dw.com/en/ugandan-journalists-assaulted-by-security-forces-amid-coronavirus-lockdowns/a-53235644
-
-[8]
-https://www.hrnjuganda.org/urgent-call-for-safety-of-journalists-covering-the-campaign-to-curb-covid-19-in-uganda/
-
-[9]
-https://cpj.org/2021/02/ugandan-security-personnel-harass-journalists-shut-down-radio-station-during-elections/
+ [1]	perma.cc/8ACU-PH9X
+[2]	perma.cc/NRY3-QS8W
+[3]	perma.cc/TAQ4-JUSN
+[4]	perma.cc/82DN-YHPK
+[5]	perma.cc/39RG-GVN8
+[6]	perma.cc/X7JC-6EBA
+[7]	perma.cc/4UFM-BMGA
+[8]	perma.cc/EEL2-K4T2
+[9]	perma.cc/S8E9-8FL2
 
 
 
@@ -4435,9 +4497,13 @@ https://cpj.org/2021/02/ugandan-security-personnel-harass-journalists-shut-down-
  No information found 
 
 *Sources*:
- https://rsf.org/en/ukraine
-https://ipi.media/ukraine/
-https://cpj.org/europe/ukraine/
+ https://perma.cc/YV7H-MLXK
+
+
+https://perma.cc/R2YX-CHW7
+
+
+https://perma.cc/8DSZ-GH7A
 
 
 
@@ -4462,18 +4528,12 @@ https://cpj.org/europe/ukraine/
  No evidence indicating that the government and its agents have verbally harassed journalists reporting about Covid-19, was found. 
 
 *Sources*:
- [1]
-https://ipi.media/united-arab-emirates/
-[2]
-https://cpj.org/mideast/uae/
-[3]
-https://rsf.org/en/united-arab-emirates
-[4]
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/united-arab-emirates/
-[5]
-https://www.hrw.org/middle-east/n-africa/united-arab-emirates
-[6]
-https://www.bbc.com/news/topics/ce1qrvlexjet/united-arab-emirates
+ [1]	perma.cc/H7ZJ-F54B
+[2]	perma.cc/2S48-3SD4
+[3]	perma.cc/BK3Y-5VYD
+[4]	perma.cc/6V83-TAQX
+[5]	perma.cc/EQT9-D7SZ
+[6]	perma.cc/9J2R-QWAS
 
 
 
@@ -4499,12 +4559,17 @@ https://www.bbc.com/news/topics/ce1qrvlexjet/united-arab-emirates
 However, on November 5 2020, ''Journalists and photographers covering an anti-lockdown protest in London were ordered to leave and threatened with arrest by police. Photographers covering the event had reported that police were “hostile and very aggressive” towards members of the press throughout the evening'' (2). A similar situation occurred on March 23 2021 in Bristol, where a police officer threatened two members of the press who covered a protest in Bristol. This protest was however not related to Covid-19, and is thus not accounted for here. As the event on November 5 seems like an isolated incident, this is coded 0 for the rest of the periods. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/thematique/internet?countries%5B135%5D=135
-https://www.theguardian.com/uk-news/2020/nov/07/lockdown-met-apologises-for-arrest-threats-to-journalists-covering-protest
-(2)
+ https://perma.cc/UM3V-ZR92
 
-https://www.bristolpost.co.uk/news/bristol-news/police-officer-threatened-journalist-doing-5223430
+
+https://perma.cc/8E2H-HJ72
+
+
+https://perma.cc/V3FV-F3SD(2)
+
+
+
+https://perma.cc/ZBR8-FVSE
 
 
 
@@ -4529,21 +4594,31 @@ https://www.bristolpost.co.uk/news/bristol-news/police-officer-threatened-journa
  There are numerous instances in which President Trump and his colleagues have verbally harassed journalists and news agencies. Reporters without borders have published two articles on this, and the verbal harassment of individual journalists and news agencies are widely covered in the press in general, especially those stemming from President Trump. However, reports of this have only been found in the first period, and this is therefore only coded 1 for this period. Note also that some journalists have been subject to verbal and physical harassment when covering Black Lives Matter-protests and election protests, but these are not regarded here as they are not directly linked to Covid-19. The same has been reported in some instances in later periods, where members of the press have been threatened by law enforcement. However, these have not had any connection to Covid-19 restrictions either, and thus not accounted for here. As no evidence has been found of any threats in relation to Covid-19, this is coded 0 for all other periods. 
 
 *Sources*:
- https://rsf.org/en/news/rsf-calls-trump-end-attacks-journalists-encourages-news-outlets-assess-coverage-Covid-19-briefings
-https://rsf.org/en/news/us-rsf-calls-trump-administration-allow-free-flow-information-coronavirus
-https://cpj.org/2020/08/charges-remain-against-journalists-arrested-during-george-floyd-protests/
-https://cpj.org/2021/04/minnesota-law-enforcement-must-stop-obstructing-journalists-covering-protests/
-
-https://cpj.org/2021/03/at-least-3-us-reporters-face-court-hearings-on-charges-from-2020-coverage-of-protests-and-rallies/
-
-https://pen.org/journalism-and-covid19/free-press-threatened/
-
-https://rsf.org/en/thematique/internet?page=1&countries%5B183%5D=183
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=United%20States%20of%20America
+ https://perma.cc/6VGZ-SZKH
 
 
-https://cpj.org/americas/usa/
+https://perma.cc/KKC7-GABS
+
+
+https://perma.cc/6HAE-44MJ
+
+
+https://perma.cc/ZY7D-LUYL
+
+
+https://perma.cc/3E2T-F3QF
+
+
+https://perma.cc/Z43N-L299
+
+
+https://perma.cc/QP8K-B9PM
+
+
+https://perma.cc/VX6V-VL7M
+
+
+https://perma.cc/5HAK-BKFM
 
 
 
@@ -4568,14 +4643,9 @@ https://cpj.org/americas/usa/
  No evidence of verbal harassment of journalists by government agents was found. 
 
 *Sources*:
- []
-https://rsf.org/en/countries
-
-[]
-https://ipi.media/covid19-media-freedom-monitoring/
-
-[]
-https://cpj.org/americas/uruguay/
+ [1]	perma.cc/X28G-P2SV
+[2]	perma.cc/J2UK-SH8X
+[3]	perma.cc/SY57-ME54
 
 
 
@@ -4600,8 +4670,10 @@ https://cpj.org/americas/uruguay/
  No information found 
 
 *Sources*:
- https://rsf.org/en/uzbekistan
-https://ipi.media/uzbekistan/
+ https://perma.cc/F7X4-5EFQ
+
+
+https://perma.cc/GC8C-EBPC
 
 
 
@@ -4627,23 +4699,23 @@ https://ipi.media/uzbekistan/
 
 *Sources*:
  [1]
-https://www.reuters.com/article/us-health-coronavirus-venezuela-insight/as-coronavirus-hits-venezuela-maduro-further-quashes-dissent-idUSKBN21C1TA
+perma.cc/9B6A-5G3P
 [2]
-https://www.hrw.org/news/2020/05/26/venezuela-urgent-aid-needed-combat-covid-19
+perma.cc/K82V-J8TW
 [3]
-https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
+perma.cc/7ANN-L62P
 [4]
-https://www.hrw.org/news/2020/08/28/venezuela-police-state-lashes-out-amid-covid-19
+perma.cc/FM5F-QKD9
 [5]
-http://espaciopublico.ong/situacion-general-del-derecho-a-la-libertad-de-expresion-informe-enero-agosto-2020/
+perma.cc/WKC8-XX3P
 [6]
-https://ipi.media/covid19/?alert_type=0&years=0&country=venezuela
+perma.cc/SZ4E-8D5U
 [7]
-https://www.hrw.org/news/2021/01/14/venezuela-attacks-against-freedom-expression-must-cease-immediately
+perma.cc/X642-3CPQ
 [8]
-https://ipi.media/covid19/?alert_type=0&language=0&years=0&country=venezuela
+perma.cc/2BVK-X9G6
 [9]
-http://espaciopublico.ong/espacio-publico-registro-390-casos-y-965-violaciones-a-la-libertad-de-expresion-en-2020/
+perma.cc/64K9-UM9C
 
 
 
@@ -4668,18 +4740,12 @@ http://espaciopublico.ong/espacio-publico-registro-390-casos-y-965-violaciones-a
  I did not find any information related to this across all time periods. However, there are multiple reports of journalists being harrassed for non-Covid-19 related reasons. Journalits are often harrassed and jailed after bring critical of the government. 
 
 *Sources*:
- https://rsf.org/en/vietnam
-
-https://www.hrw.org/asia/vietnam
-
-
-https://www.bbc.com/news/topics/c207p54m4n2t/vietnam
-
-https://ipi.media/vietnam-journalists-and-media-watchdogs-fear-increased-persecution/
-
-https://ipi.media/journalist-arrested-in-vietnam-for-criticising-government/
-
-https://www.theguardian.com/global-development/2020/oct/08/vietnam-arrests-prominent-journalist-as-state-cracks-down-on-free-speech-online
+ https://perma.cc/N4M9-7YWC
+https://perma.cc/DF8P-43ME
+https://perma.cc/U5QE-9DYU
+https://perma.cc/HLF7-B68Q
+https://perma.cc/AN36-D4AE
+https://perma.cc/E6F4-S7YT
 
 
 
@@ -4704,10 +4770,10 @@ https://www.theguardian.com/global-development/2020/oct/08/vietnam-arrests-promi
  No evidence indicating that the government and its agents have verbally harassed journalists reporting about Covid-19 was found. 
 
 *Sources*:
- https://rsf.org/en/zambia
-https://ipi.media/zambia
-https://cpj.org/africa/zambia/
-https://www.bbc.co.uk/news/topics/cdl8n2edezlt/zambia
+ https://perma.cc/4ZFC-CDEL
+https://perma.cc/3VFM-5KS9
+https://perma.cc/PHU4-27Z2
+https://perma.cc/83SV-P4VV
 
 
 
@@ -4733,18 +4799,11 @@ https://www.bbc.co.uk/news/topics/cdl8n2edezlt/zambia
 This has continued to be the case in Q1 and Q2 of 2021 and no information was found indicating that the violations stopped. 
 
 *Sources*:
- https://rsf.org/en/news/five-zimbabwean-reporters-arrested-while-covering-coronavirus-lockdown
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648907/
-
-https://www.dw.com/en/ugandan-journalists-assaulted-by-security-forces-amid-coronavirus-lockdowns/a-53235644
-
-https://www.amnesty.org/en/latest/news/2020/05/southern-africa-covid19-a-pretext-for-surge-in-harassment-of-journalists-and-weakening-of-media-houses-by-states/
-
-https://hornobserver.com/articles/551/CAJ-CALLS-ON-ZIMBABWEAN-GOVERNMENT-TO-STOP-HARASSMENT-OF-JOURNALISTS-The-Congress-of-African-Journalists-CAJ-has-expressed-concern-over-the-deteriorating-press-freedom-situation-in-Zimbabwe-and-called-on-the-government-of-Zimbabwe-to-stop-harassing-and-ar
-
-https://rsf.org/en/zimbabwe
-
-https://www.aa.com.tr/en/africa/zimbabwe-journalists-dogged-by-poor-wages-harassment/2104752
-
-https://ipi.media/in-zimbabwe-one-year-of-covid-19-saw-surge-in-harassment-of-free-press/
+ https://perma.cc/83GY-PA5M
+https://perma.cc/6UET-ZHW6
+https://perma.cc/74QF-6PLB
+https://perma.cc/X2F2-6WFL
+https://perma.cc/YS6F-Z6S5
+https://perma.cc/8BE4-CZLU
+https://perma.cc/NJF2-YEQG
+https://perma.cc/L5SW-QU9N

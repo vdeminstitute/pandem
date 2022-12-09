@@ -47,28 +47,19 @@
 The COVID-19 (Temporary Measures) Act 2020 was originally in force until 19 October 2020 (1). It was then extended one month until 20 November 2020 (2). Then from 20 November 2020 to 31 March 2021 (3). Some parts were then extended until 30 June 2021 (4). 
 
 *Sources*:
- https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20210419
-
-https://sso.agc.gov.sg/SL/COVID19TMA2020-S254-2020?DocDate=20200407#pr1-
-
-https://www.moh.gov.sg/policies-and-legislation/covid-19-(temporary-measures)-(control-order)-regulations
-
-https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20200513#aw-
+ https://perma.cc/8JX8-LCCD
+https://perma.cc/J3WU-D2HQ
+https://perma.cc/HH6Y-CQSJ
+https://perma.cc/V88P-56RD
 (1)
-
-
-https://sso.agc.gov.sg/SL/COVID19TMA2020-S886-2020?DocDate=20201016
+https://perma.cc/3BDU-C2BN
 (2)
-
-
-https://sso.agc.gov.sg/SL-Supp/S953-2020/Published?DocDate=20201117&ProvIds=
+https://perma.cc/W3QQ-PH4K
 (3)
-
-https://www.mondaq.com/litigation-contracts-and-force-majeure/1055522/covid-19-part-ii-of-the-temporary-measures-act-2020-further-extended
+https://perma.cc/Y5XN-LNYB
 (4)
-
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7978834/
-[5]
+(5)
 
 
 
@@ -107,9 +98,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7978834/
 *No comment provided* 
 
 *Sources*:
- https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20210419
-
-https://sso.agc.gov.sg/SL/COVID19TMA2020-S254-2020?DocDate=20200407#pr1-
+ https://perma.cc/8JX8-LCCD
+https://perma.cc/J3WU-D2HQ
 
 
 
@@ -148,7 +138,7 @@ https://sso.agc.gov.sg/SL/COVID19TMA2020-S254-2020?DocDate=20200407#pr1-
  The COVID-19 (Temporary Measures) Act 2020 was passed on April 7 2020. 
 
 *Sources*:
- https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20210419
+ https://perma.cc/8JX8-LCCD
 
 
 
@@ -187,28 +177,16 @@ https://sso.agc.gov.sg/SL/COVID19TMA2020-S254-2020?DocDate=20200407#pr1-
  The COVID-19 (Temporary Measures) Act 2020 was originally in force until 19 October 2020 (1). It was then extended one month until 20 November 2020 (2). Then from 20 November 2020 to 31 March 2021 (3). Some parts were then extended until 30 June 2021 (4). 
 
 *Sources*:
- https://www.moh.gov.sg/news-highlights/details/end-of-circuit-breaker-phased-approach-to-resuming-activities-safely
-
-
-
-
-https://www.gov.sg/article/post-circuit-breaker-when-can-we-move-on-to-phases-2-and-3
-
-
-https://www.lexology.com/library/detail.aspx?g=ff4d7f75-01bd-4ba6-bb6c-b0bcedf66791
-
-https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20200513#aw-
+ https://perma.cc/PXK5-73BG
+https://perma.cc/VZ87-BSNF
+https://perma.cc/TRR6-BY5T
+https://perma.cc/V88P-56RD
 (1)
-
-
-https://sso.agc.gov.sg/SL/COVID19TMA2020-S886-2020?DocDate=20201016
+https://perma.cc/3BDU-C2BN
 (2)
-
-
-https://sso.agc.gov.sg/SL-Supp/S953-2020/Published?DocDate=20201117&ProvIds=
+https://perma.cc/W3QQ-PH4K
 (3)
-
-https://www.mondaq.com/litigation-contracts-and-force-majeure/1055522/covid-19-part-ii-of-the-temporary-measures-act-2020-further-extended
+https://perma.cc/Y5XN-LNYB
 (4)
 
 
@@ -251,28 +229,16 @@ https://www.mondaq.com/litigation-contracts-and-force-majeure/1055522/covid-19-p
  The COVID-19 (Temporary Measures) Act 2020 was originally in force until 19 October 2020 (1). It was then extended one month until 20 November 2020 (2). Then from 20 November 2020 to 31 March 2021 (3). Some parts were then extended until 30 June 2021 (4). 
 
 *Sources*:
- https://www.moh.gov.sg/news-highlights/details/end-of-circuit-breaker-phased-approach-to-resuming-activities-safely
-
-
-
-
-https://www.gov.sg/article/post-circuit-breaker-when-can-we-move-on-to-phases-2-and-3
-
-
-https://www.lexology.com/library/detail.aspx?g=ff4d7f75-01bd-4ba6-bb6c-b0bcedf66791
-
-https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20200513#aw-
+ https://perma.cc/PXK5-73BG
+https://perma.cc/VZ87-BSNF
+https://perma.cc/TRR6-BY5T
+https://perma.cc/V88P-56RD
 (1)
-
-
-https://sso.agc.gov.sg/SL/COVID19TMA2020-S886-2020?DocDate=20201016
+https://perma.cc/3BDU-C2BN
 (2)
-
-
-https://sso.agc.gov.sg/SL-Supp/S953-2020/Published?DocDate=20201117&ProvIds=
+https://perma.cc/W3QQ-PH4K
 (3)
-
-https://www.mondaq.com/litigation-contracts-and-force-majeure/1055522/covid-19-part-ii-of-the-temporary-measures-act-2020-further-extended
+https://perma.cc/Y5XN-LNYB
 (4)
 
 
@@ -312,28 +278,16 @@ https://www.mondaq.com/litigation-contracts-and-force-majeure/1055522/covid-19-p
  The COVID-19 (Temporary Measures) Act 2020 was originally in force until 19 October 2020 (1). It was then extended one month until 20 November 2020 (2). Then from 20 November 2020 to 31 March 2021 (3). Some parts were then extended until 30 June 2021 (4). 
 
 *Sources*:
- https://www.moh.gov.sg/news-highlights/details/end-of-circuit-breaker-phased-approach-to-resuming-activities-safely
-
-
-
-
-https://www.gov.sg/article/post-circuit-breaker-when-can-we-move-on-to-phases-2-and-3
-
-
-https://www.lexology.com/library/detail.aspx?g=ff4d7f75-01bd-4ba6-bb6c-b0bcedf66791
-
-https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20200513#aw-
+ https://perma.cc/PXK5-73BG
+https://perma.cc/VZ87-BSNF
+https://perma.cc/TRR6-BY5T
+https://perma.cc/V88P-56RD
 (1)
-
-
-https://sso.agc.gov.sg/SL/COVID19TMA2020-S886-2020?DocDate=20201016
+https://perma.cc/3BDU-C2BN
 (2)
-
-
-https://sso.agc.gov.sg/SL-Supp/S953-2020/Published?DocDate=20201117&ProvIds=
+https://perma.cc/W3QQ-PH4K
 (3)
-
-https://www.mondaq.com/litigation-contracts-and-force-majeure/1055522/covid-19-part-ii-of-the-temporary-measures-act-2020-further-extended
+https://perma.cc/Y5XN-LNYB
 (4)
 
 
@@ -376,16 +330,10 @@ https://www.mondaq.com/litigation-contracts-and-force-majeure/1055522/covid-19-p
  The implementation of the Covid-19 (Temporary Measures) Act 2020 was approved by the parliament on 07 April 2021. Further extension of one year was also approved by parliament (Act 6 of 2021 wef 01/03/2021). 
 
 *Sources*:
- https://sso.agc.gov.sg/Act/COVID19TMA2020
-https://sso.agc.gov.sg/Bills-Supp/10-2021/Published/20210405?DocDate=20210405
-
-
-
-
-
-https://www.agc.gov.sg/our-roles/drafter-of-laws/the-legislative-process#:~:text=Under%20our%20Constitution%2C%20all%20Bills,against%20any%20racial%20or%20religious
-
-https://www.theregreview.org/2020/06/15/tan-singapore-regulatory-response-covid-19/
+ https://perma.cc/Q4HV-QJTR
+https://perma.cc/54F5-AGZ9
+https://perma.cc/HM2H-G9RM
+https://perma.cc/EMH8-N4KB
 
 
 
@@ -427,16 +375,10 @@ https://www.theregreview.org/2020/06/15/tan-singapore-regulatory-response-covid-
  The implementation of the Covid-19 (Temporary Measures) Act 2020 was approved by the parliament on 07 April 2021. Further extension of one year was also approved by parliament (Act 6 of 2021 wef 01/03/2021). 
 
 *Sources*:
- https://sso.agc.gov.sg/Act/COVID19TMA2020
-https://sso.agc.gov.sg/Bills-Supp/10-2021/Published/20210405?DocDate=20210405
-
-
-
-
-
-https://www.agc.gov.sg/our-roles/drafter-of-laws/the-legislative-process#:~:text=Under%20our%20Constitution%2C%20all%20Bills,against%20any%20racial%20or%20religious
-
-https://www.theregreview.org/2020/06/15/tan-singapore-regulatory-response-covid-19/
+ https://perma.cc/Q4HV-QJTR
+https://perma.cc/54F5-AGZ9
+https://perma.cc/HM2H-G9RM
+https://perma.cc/EMH8-N4KB
 
 
 
@@ -482,7 +424,7 @@ https://www.theregreview.org/2020/06/15/tan-singapore-regulatory-response-covid-
  Part 7 of the Covid-19 (Temporary Measures) Act 2020 provides the executive with limited powers to make regulations using Covid-19 Control Orders in a specified number of areas including stay-at-home orders, restrictions on movement, closures of facilities, and public gatherings only where this is necessary. Control orders must be presented to parliament and published in the Gazette. Parliament also has the power to annul these orders. 
 
 *Sources*:
- https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20200513#legis
+ https://perma.cc/V88P-56RD
 
 
 
@@ -521,11 +463,8 @@ https://www.theregreview.org/2020/06/15/tan-singapore-regulatory-response-covid-
  The parliament was dissolved due to an election that took place on 10 July 2020. However, there is no information  suggesting that the parliament was dissolved in reference to Covid-19. 
 
 *Sources*:
- https://www.bbc.com/news/world-asia-53471536
-
-
-
-https://www.reuters.com/article/us-singapore-election-succession/singapore-ruling-party-stung-by-poll-setback-faces-succession-questions-idUSKCN24C09B
+ https://perma.cc/8QKA-D5XM
+https://perma.cc/N7XC-MPCF
 
 
 
@@ -564,11 +503,8 @@ https://www.reuters.com/article/us-singapore-election-succession/singapore-rulin
  The parliament was dissolved due to an election that took place on 10 July 2020. However, there is no information  suggesting that the parliament was dissolved in reference to Covid-19. 
 
 *Sources*:
- https://www.bbc.com/news/world-asia-53471536
-
-
-
-https://www.reuters.com/article/us-singapore-election-succession/singapore-ruling-party-stung-by-poll-setback-faces-succession-questions-idUSKCN24C09B
+ https://perma.cc/8QKA-D5XM
+https://perma.cc/N7XC-MPCF
 
 
 
@@ -614,12 +550,8 @@ https://www.reuters.com/article/us-singapore-election-succession/singapore-rulin
 The emergency measures continue to the implemented uniformly through out the country in Q1 and Q2 of 2021. 
 
 *Sources*:
- https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20200513#pr34-
-
-
-
-
-https://www.moh.gov.sg/covid-19
+ https://perma.cc/V88P-56RD
+https://perma.cc/9RET-D3Z9
 
 
 
@@ -643,19 +575,19 @@ https://www.moh.gov.sg/covid-19
  3. Yes, major, systematic de-jure or de-facto discrimination
 
  
-*Time period: 2020, Q2*: 3
+*Time period: 2020, Q2*: 0
 
  
-*Time period: 2020, Q3*: 3
+*Time period: 2020, Q3*: 0
 
  
-*Time period: 2020, Q4*: 3
+*Time period: 2020, Q4*: 0
 
  
-*Time period: 2021, Q1*: 3
+*Time period: 2021, Q1*: 0
 
  
-*Time period: 2021, Q2*: 3
+*Time period: 2021, Q2*: 0
 
  
 
@@ -663,9 +595,8 @@ https://www.moh.gov.sg/covid-19
  No evidence of discriminatory measures found. Migrant workers who often live in crowded and unhygienic conditions were disproportionately affected by Covid-19. After a spike in cases that amounted to over 90% of all cases in the country, Singapore implemented strict lockdown procedures in the workers' quarters that exceeded other areas. However, because this was prompted by cases of Covid-19, we do not code this as discriminatory. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/singapore/
-
-https://www.hrw.org/world-report/2021/country-chapters/singapore
+ https://perma.cc/UXG3-E6B9
+https://perma.cc/H2WK-RDMC
 
 
 
@@ -714,9 +645,8 @@ https://www.hrw.org/world-report/2021/country-chapters/singapore
  No evidence found of direct derogations of non-derogable rights with reference to Covid-19 measures. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/singapore/
-
-https://www.hrw.org/world-report/2021/country-chapters/singapore
+ https://perma.cc/A2A7-YWF2
+https://perma.cc/J8SH-GA69
 
 
 
@@ -760,9 +690,8 @@ https://www.hrw.org/world-report/2021/country-chapters/singapore
  There are no indications that the emergency measures de-jure limit media freedom across all the time periods. However, the media in Singapore has been highly restricted since before the pandemic. 
 
 *Sources*:
- https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20200513#legis
-
-https://rsf.org/en/singapore
+ https://perma.cc/V88P-56RD
+https://perma.cc/J4Z3-WR78
 
 
 
@@ -801,7 +730,7 @@ https://rsf.org/en/singapore
  There are no indications that the emergency measures de-jure limit media freedom. 
 
 *Sources*:
- https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20200513#legis
+ https://perma.cc/V88P-56RD
 
 
 
@@ -840,7 +769,7 @@ https://rsf.org/en/singapore
  There are no indications that the emergency measures de-jure limit media freedom. 
 
 *Sources*:
- https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20200513#legis
+ https://perma.cc/V88P-56RD
 
 
 
@@ -890,15 +819,10 @@ There has only been one other documented use of POFMA in Q1 and Q2 of 2021. It w
 However as the general media environment continues to be heavily regulated, I have continued to code this variable as 1 in Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.straitstimes.com/singapore/pofma-invoked-against-website-that-claimed-cover-up-on-case-numbers
-
-
-https://www.pofmaoffice.gov.sg/regulations/protection-from-online-falsehoods-and-manipulation-act/
-
-
-https://rsf.org/en/news/rsf-explains-why-singapores-anti-fake-news-bill-terrible
-
-https://www.todayonline.com/singapore/pofma-correction-directions-facebook-twitter-sph-magazines-singapore-variant-falsehood
+ https://perma.cc/LN79-LASD
+https://perma.cc/ZH8T-6ZLP
+https://perma.cc/54RL-BYJG
+https://perma.cc/PS49-N6AL
 
 
 
@@ -948,21 +872,13 @@ There has only been one other documented use of POFMA in Q1 and Q2 of 2021. It w
 However as the general media environment continues to be heavily regulated, I have continued to code this variable as 1 in Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.pofmaoffice.gov.sg/regulations/protection-from-online-falsehoods-and-manipulation-act/
+ https://perma.cc/ZH8T-6ZLP
+https://perma.cc/54RL-BYJG
 
-
-https://rsf.org/en/news/rsf-explains-why-singapores-anti-fake-news-bill-terrible
-
-
-https://www.channelnewsasia.com/news/singapore/ge2020-sdp-paul-tambyah-pofma-distraction-covid-19-dormitories-12904928
-
-
-https://www.channelnewsasia.com/news/singapore/ge2020-focus-on-public-health-could-have-been-lost-paul-tambyah-12899558
-
-
-https://www.gov.sg/article/factually050720a
-
-https://www.todayonline.com/singapore/pofma-correction-directions-facebook-twitter-sph-magazines-singapore-variant-falsehood
+https://perma.cc/8LH9-EYNG
+https://perma.cc/KZ2P-6J8H
+https://perma.cc/9VAS-GLVF
+https://perma.cc/4M8E-32KR
 
 
 
@@ -1004,11 +920,9 @@ https://www.todayonline.com/singapore/pofma-correction-directions-facebook-twitt
  I did not find information suggesting the government has placed de-facto limitations on media reporting about non-Covid 19 related news. 
 
 *Sources*:
- https://rsf.org/en/singapore
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/singapore/
-
-https://www.hrw.org/asia/singapore
+ https://perma.cc/J4Z3-WR78
+https://perma.cc/UY9Y-TTYW
+https://perma.cc/J8SH-GA69
 
 
 
@@ -1051,11 +965,9 @@ https://www.hrw.org/asia/singapore
  I did not find evidence suggesting the government has limited access to Covid-19 related information. 
 
 *Sources*:
- https://rsf.org/en/singapore
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/singapore/
-
-https://www.hrw.org/asia/singapore
+ https://perma.cc/J4Z3-WR78
+https://perma.cc/UY9Y-TTYW
+https://perma.cc/J8SH-GA69
 
 
 
@@ -1097,11 +1009,9 @@ https://www.hrw.org/asia/singapore
  I did not find information suggesting that journalists have been verbally harassed for reporting on the pandemic. 
 
 *Sources*:
- https://rsf.org/en/singapore
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/singapore/
-
-https://www.hrw.org/asia/singapore
+ https://perma.cc/J4Z3-WR78
+https://perma.cc/UY9Y-TTYW
+https://perma.cc/J8SH-GA69
 
 
 
@@ -1143,11 +1053,9 @@ https://www.hrw.org/asia/singapore
  I did not find information suggesting that journalists have been physically harassed for reporting on the pandemic. 
 
 *Sources*:
- https://rsf.org/en/singapore
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/singapore/
-
-https://www.hrw.org/asia/singapore
+ https://perma.cc/J4Z3-WR78
+https://perma.cc/UY9Y-TTYW
+https://perma.cc/J8SH-GA69
 
 
 
@@ -1191,14 +1099,10 @@ https://www.hrw.org/asia/singapore
  I did not find any information on the Singaporean government providing information on Covid-19 that deviated from the information provided by the WHO across all time periods. 
 
 *Sources*:
- https://www.moh.gov.sg/covid-19
-
-
-https://rsf.org/en/singapore
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/singapore/
-
-https://www.hrw.org/asia/singapore
+ https://perma.cc/9RET-D3Z9
+https://perma.cc/J4Z3-WR78
+https://perma.cc/UY9Y-TTYW
+https://perma.cc/J8SH-GA69
 
 
 
@@ -1242,11 +1146,9 @@ https://www.hrw.org/asia/singapore
  I did not find evidence of instances of security forces engaging in physical violence to execute the emergency measures across all time periods. 
 
 *Sources*:
- https://rsf.org/en/singapore
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/singapore/
-
-https://www.hrw.org/asia/singapore
+ https://perma.cc/J4Z3-WR78
+https://perma.cc/UY9Y-TTYW
+https://perma.cc/J8SH-GA69
 
 
 
@@ -1288,8 +1190,6 @@ https://www.hrw.org/asia/singapore
  The military has not been tasked with enforcing any confinement measures across all time periods. 
 
 *Sources*:
- https://rsf.org/en/singapore
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/singapore/
-
-https://www.hrw.org/asia/singapore
+ https://perma.cc/J4Z3-WR78
+https://perma.cc/UY9Y-TTYW
+https://perma.cc/J8SH-GA69

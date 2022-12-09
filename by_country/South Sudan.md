@@ -49,12 +49,13 @@ A report by the African Network of Constitutional Lawyers, from 7 June 2020, rea
 Since June 2020, no indications of implementation of a legal instrument to manage the pademic has been found. 
 
 *Sources*:
- https://twitter.com/SouthSudanGov/status/1239515788341587968
-(1)
-https://www.voanews.com/covid-19-pandemic/south-sudan-announces-new-steps-fight-coronavirus
-(2)
-https://ancl-radc.org.za/node/644
-(3)
+ https://perma.cc/6L6B-P2EM
+
+
+https://perma.cc/SU69-VL97
+
+
+https://perma.cc/R3FS-GQGM
 
 
 
@@ -384,13 +385,13 @@ https://ancl-radc.org.za/node/644
 As the law prompts the government to declare a state of emergency and thereby include the legislature in the decision-making process of emergency measures, but the government refrained from doing so, this is interpreted as a limitation of the powers of the legislature. No indication of a change in legislature influence has been found since June 2020. This is therefore coded as 3 for all periods. 
 
 *Sources*:
- https://ancl-radc.org.za/node/644
+ https://perma.cc/R3FS-GQGM
 (1)
-https://www.voanews.com/covid-19-pandemic/south-sudan-announces-new-steps-fight-coronavirus
-https://apnews.com/5307b01c4db913048387a3702aefbbe2
-https://www.garda.com/crisis24/coronavirus-updates?referer=map
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
 
+https://perma.cc/JRU4-9MMK
+https://perma.cc/587W-2ANL
+https://perma.cc/Y47R-AL9P
+https://perma.cc/YJN5-HBXG
 
 
 
@@ -512,12 +513,22 @@ https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
  No sub-national emergency measure variation was found in the emergency response. 
 
 *Sources*:
- https://twitter.com/southsudangov?lang=en
-http://www.xinhuanet.com/english/africa/2021-03/01/c_139773890.htm
-https://www.voanews.com/covid-19-pandemic/south-sudan-extends-partial-lockdown-indefinitely
-https://radiotamazuj.org/en/news/article/covid-19-south-sudan-lifts-partial-lockdown
-https://twitter.com/SouthSudanGov/status/1239515788341587968
-https://www.aa.com.tr/en/africa/coronavirus-south-sudan-bans-social-gatherings/1768378
+ https://perma.cc/NUV5-HHZM
+
+
+https://perma.cc/8JQ3-WBVX
+
+
+https://perma.cc/TRW5-TDU2
+
+
+https://perma.cc/TR3P-VZPF
+
+
+https://perma.cc/9PQ3-KX2C
+
+
+https://perma.cc/YS7V-UW3N
 
 
 
@@ -561,12 +572,22 @@ https://www.aa.com.tr/en/africa/coronavirus-south-sudan-bans-social-gatherings/1
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- https://twitter.com/southsudangov?lang=en
-http://www.xinhuanet.com/english/africa/2021-03/01/c_139773890.htm
-https://www.voanews.com/covid-19-pandemic/south-sudan-extends-partial-lockdown-indefinitely
-https://radiotamazuj.org/en/news/article/covid-19-south-sudan-lifts-partial-lockdown
-https://twitter.com/SouthSudanGov/status/1239515788341587968
-https://www.aa.com.tr/en/africa/coronavirus-south-sudan-bans-social-gatherings/1768378
+ https://perma.cc/GML7-YZAT
+
+
+https://perma.cc/8WN8-C3XW
+
+
+https://perma.cc/9RJD-BN8Z
+
+
+https://perma.cc/UB78-L5P6
+
+
+https://perma.cc/R98J-ULTW
+
+
+https://perma.cc/Y9DT-7RF2
 
 
 
@@ -615,12 +636,22 @@ https://www.aa.com.tr/en/africa/coronavirus-south-sudan-bans-social-gatherings/1
  No emergency measures that de-jure violate non-derogable rights as defined by the ICCPR, was found. 
 
 *Sources*:
- https://twitter.com/southsudangov?lang=en
-http://www.xinhuanet.com/english/africa/2021-03/01/c_139773890.htm
-https://www.voanews.com/covid-19-pandemic/south-sudan-extends-partial-lockdown-indefinitely
-https://radiotamazuj.org/en/news/article/covid-19-south-sudan-lifts-partial-lockdown
-https://twitter.com/SouthSudanGov/status/1239515788341587968
-https://www.aa.com.tr/en/africa/coronavirus-south-sudan-bans-social-gatherings/1768378
+ https://perma.cc/NUV5-HHZM
+
+
+https://perma.cc/8JQ3-WBVX
+
+
+https://perma.cc/TRW5-TDU2
+
+
+https://perma.cc/TR3P-VZPF
+
+
+https://perma.cc/9PQ3-KX2C
+
+
+https://perma.cc/YS7V-UW3N
 
 
 
@@ -664,11 +695,19 @@ https://www.aa.com.tr/en/africa/coronavirus-south-sudan-bans-social-gatherings/1
  The government has warned media outlets to be careful about spreading disinformation about the Covid-19 pandemic, but this does not appear to be de jure under the emergency response provisions. So far, there are no known reports of media outlets being punished for reporting misinformation. 
 
 *Sources*:
- https://twitter.com/SouthSudanGov/status/1243239494616322050/photo/1
-https://ipi.media/south-sudan/
-https://rsf.org/en/south-sudan
-https://cpj.org/search?cx=002635367788333464843%3A1kfp8mbluhy&cof=FORID%3A9&ie=UTF-8&q=south+sudan
-https://cpj.org/africa/south-sudan/
+ https://perma.cc/AA9N-LUJM
+
+
+https://perma.cc/XX2F-BU9G
+
+
+https://perma.cc/47ND-JYR2
+
+
+https://perma.cc/5DUL-43DG
+
+
+https://perma.cc/Q5FH-3CZJ
 
 
 
@@ -788,13 +827,13 @@ https://cpj.org/africa/south-sudan/
  The attempts of the government of South Sudan to censor media in gerneral are direct and routine. 
 
 *Sources*:
- https://freedomhouse.org/country/south-sudan/freedom-world/2020
-https://ipi.media/sudan-shuts-more-media/
-https://www.hrw.org/world-report/2020/country-chapters/south-sudan
-https://www.dw.com/en/south-sudans-independent-media-under-pressure/a-49521449
-https://rsf.org/en/south-sudan
-https://doi.org/10.23696/vdemds20
-https://cpj.org/africa/south-sudan/
+ https://perma.cc/666R-54Y3
+https://perma.cc/4FTZ-AAD4
+https://perma.cc/7VYE-7BR9
+https://perma.cc/J79G-PX5G
+https://perma.cc/8XKB-V5X8
+https://perma.cc/AL7E-N7G8
+https://perma.cc/3E3A-WJJV
 
 
 
@@ -836,13 +875,13 @@ https://cpj.org/africa/south-sudan/
  The attempts of the government of South Sudan to censor media in gerneral are direct and routine. 
 
 *Sources*:
- https://freedomhouse.org/country/south-sudan/freedom-world/2020
-https://ipi.media/sudan-shuts-more-media/
-https://www.hrw.org/world-report/2020/country-chapters/south-sudan
-https://www.dw.com/en/south-sudans-independent-media-under-pressure/a-49521449
-https://rsf.org/en/south-sudan
-https://doi.org/10.23696/vdemds20
-https://cpj.org/africa/south-sudan/
+ https://perma.cc/666R-54Y3
+https://perma.cc/4FTZ-AAD4
+https://perma.cc/7VYE-7BR9
+https://perma.cc/J79G-PX5G
+https://perma.cc/8XKB-V5X8
+https://perma.cc/AL7E-N7G8
+https://perma.cc/3E3A-WJJV
 
 
 
@@ -884,13 +923,13 @@ https://cpj.org/africa/south-sudan/
  No evidence indicating that the government is de-facto limiting media reporting about non-Covid-19 related news, but with reference to the pandemic, was found. 
 
 *Sources*:
- https://freedomhouse.org/country/south-sudan/freedom-world/2020
-https://ipi.media/sudan-shuts-more-media/
-https://www.hrw.org/world-report/2020/country-chapters/south-sudan
-https://www.dw.com/en/south-sudans-independent-media-under-pressure/a-49521449
-https://rsf.org/en/south-sudan
-https://doi.org/10.23696/vdemds20
-https://cpj.org/africa/south-sudan/
+ https://perma.cc/666R-54Y3
+https://perma.cc/4FTZ-AAD4
+https://perma.cc/7VYE-7BR9
+https://perma.cc/J79G-PX5G
+https://perma.cc/8XKB-V5X8
+https://perma.cc/AL7E-N7G8
+https://perma.cc/3E3A-WJJV
 
 
 
@@ -933,10 +972,11 @@ https://cpj.org/africa/south-sudan/
  The government has actively encouraged access to information for recognized media outlets to combat disinformation. It has also called for protection of journalists by security forces to freely move during curfew hours and protective tools for them. At the same time it warned "to only cautiously disseminate credible information obtained from the rightful designated health experts in the Ministry of Healt and WHO" (1). No indication was found that the governments is limiting journalists’ access to Covid-19 related information. 
 
 *Sources*:
- https://twitter.com/SouthSudanGov/status/1243239494616322050/photo/1
+ https://perma.cc/AA9N-LUJM
 (1)
-https://rsf.org/en/south-sudan
-https://cpj.org/africa/south-sudan/
+
+https://perma.cc/XX2F-BU9G
+https://perma.cc/47ND-JYR2
 
 
 
@@ -978,13 +1018,14 @@ https://cpj.org/africa/south-sudan/
  Harassment of journalists is common in South Sudan but no incidents have been directly linked to Covid-19 reporting or restrictions. 
 
 *Sources*:
- https://freedomhouse.org/country/south-sudan/freedom-world/2020
-https://ipi.media/sudan-shuts-more-media/
-https://www.hrw.org/world-report/2020/country-chapters/south-sudan
-https://www.dw.com/en/south-sudans-independent-media-under-pressure/a-49521449
-https://rsf.org/en/south-sudan
-https://doi.org/10.23696/vdemds20
-https://cpj.org/africa/south-sudan/
+ https://perma.cc/666R-54Y3
+https://perma.cc/4FTZ-AAD4
+https://perma.cc/7VYE-7BR9
+https://perma.cc/J79G-PX5G
+https://perma.cc/8XKB-V5X8
+https://perma.cc/AL7E-N7G8
+
+https://perma.cc/3E3A-WJJV
 
 
 
@@ -1026,13 +1067,13 @@ https://cpj.org/africa/south-sudan/
  Harassment of journalists is common in South Sudan but no incidents have been directly linked to Covid-19 reporting or restrictions. 
 
 *Sources*:
- https://freedomhouse.org/country/south-sudan/freedom-world/2020
-https://ipi.media/sudan-shuts-more-media/
-https://www.hrw.org/world-report/2020/country-chapters/south-sudan
-https://www.dw.com/en/south-sudans-independent-media-under-pressure/a-49521449
-https://rsf.org/en/south-sudan
-https://doi.org/10.23696/vdemds20
-https://cpj.org/africa/south-sudan/
+ https://perma.cc/666R-54Y3
+https://perma.cc/4FTZ-AAD4
+https://perma.cc/7VYE-7BR9
+https://perma.cc/J79G-PX5G
+https://perma.cc/8XKB-V5X8
+https://perma.cc/AL7E-N7G8
+https://perma.cc/3E3A-WJJV
 
 
 
@@ -1076,10 +1117,16 @@ https://cpj.org/africa/south-sudan/
  The Ministry of Health of South Sudan maintains information on its website and through its social media accounts (Facebook, Twitter). While these have not been regularly updated throughout the pandemic and links on the Ministry's website do not function, the information that is posted does not deviate from and regularly refers to WHO guidelines. 
 
 *Sources*:
- https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
-https://twitter.com/mohsouthsudan?lang=en
-https://www.facebook.com/moh.gov.ss/
-https://moh.gov.ss
+ https://perma.cc/7J6W-AUVD
+
+
+https://perma.cc/SG67-SN8K
+
+
+https://perma.cc/ZJ7H-KNM5
+
+
+https://perma.cc/46RB-G5LW
 
 
 
@@ -1123,10 +1170,16 @@ https://moh.gov.ss
  No evidence was found that indicates that security forces, such as the civilian police or military, has engaged in physical violence to execute the emergency measures. 
 
 *Sources*:
- https://www.hrw.org/news/2020/06/09/south-sudan-soldiers-kill-civilians-land-dispute
-https://www.amnesty.org/en/countries/africa/south-sudan/
-https://www.hrw.org/africa/south-sudan
-https://www.bbc.com/news/topics/c302m85q54lt/south-sudan
+ https://perma.cc/3NDU-MAXQ
+
+
+https://perma.cc/A6AU-4J3M
+
+
+https://perma.cc/KUV2-MVZY
+
+
+https://perma.cc/C2CV-7JVK
 
 
 
@@ -1168,7 +1221,13 @@ https://www.bbc.com/news/topics/c302m85q54lt/south-sudan
  No information indicating that the South Sudanese military is enforcing lockdown was found. 
 
 *Sources*:
- https://twitter.com/SouthSudanGov/
-https://www.bbc.com/news/topics/c302m85q54lt/south-sudan
-https://www.amnesty.org/en/countries/africa/south-sudan/
-https://www.garda.com/crisis24/coronavirus-updates?referer=map
+ https://perma.cc/AG2W-7NA4
+
+
+https://perma.cc/XC8Z-QVP6
+
+
+https://perma.cc/A6AU-4J3M
+
+
+https://perma.cc/XS8Q-RWZ9

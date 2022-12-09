@@ -46,53 +46,42 @@
 
 *Sources*:
  [1]
-http://qiraatafrican.com/en/new/africa-cdc-expresses-concern-over-tanzania-s-response
-
-[2]https://www.bbc.com/news/world-africa-52723594
-
+https://perma.cc/VAW7-B5DN
+[2]
+https://perma.cc/SJ3D-8WUL
 [3]
-https://www.bbc.com/news/world-africa-54603689
-
-[4]https://www.devex.com/news/in-tanzania-election-Covid-19-denialism-an-excuse-to-clamp-down-on-dissent-98418
-
-[5]https://www.atlanticcouncil.org/blogs/africasource/tanzanias-mild-response-to-Covid-19-and-its-implications-for-the-2020-elections/
-
-[6]https://www.thecitizen.co.tz/news/1840340-5494476-agwmfd/index.html
-
+https://perma.cc/96XQ-UED2
+[4]
+https://perma.cc/BUS6-AYZ3
+[5]
+https://perma.cc/Q9NH-YJWZ
+[6]
+https://perma.cc/BT3T-WHD3
 [7]
-https://allafrica.com/stories/202003171108.html
-[8]https://www.chathamhouse.org/expert/comment/tanzania-evades-Covid-19-lockdown-restrictions-persist
-
+https://perma.cc/5VE2-5JVK
 [8]
-https://www.theguardian.com/world/2021/mar/19/tanzania-swears-in-samia-suluhu-hassan-as-first-female-president
-
+https://perma.cc/P9SA-5X6C
 [9]
-https://www.africanews.com/2021/04/06/tanzania-signals-change-of-stance-on-Covid-19/
-
+https://perma.cc/79PL-3HWE
 [10]
-https://www.garda.com/crisis24/news-alerts/457256/tanzania-authorities-maintain-minimal-Covid-19-restrictions-as-of-march-18-update-9
-
+https://perma.cc/GC7J-QZ3C
 [11]
-https://www.garda.com/crisis24/news-alerts/469096/tanzania-Covid-19-restrictions-remain-largely-unchanged-as-of-april-19-by-comparison-with-those-in-effect-during-mid-march-update-10
-
+https://perma.cc/SBV2-J7W2
 [12]
-https://www.garda.com/crisis24/news-alerts/474751/tanzania-authorities-tighten-Covid-19-related-restrictions-from-may-4-update-11
-
+https://perma.cc/G4UF-JTD3
 [13]
-https://www.garda.com/crisis24/news-alerts/488461/tanzania-authorities-maintain-Covid-19-related-restrictions-as-of-june-9-update-12
-
+https://perma.cc/ZCD2-4CEH
 [14]
-https://tz.usembassy.gov/Covid-19-information/
-
+https://perma.cc/DQ9D-6LJD
 [15]
-https://www.reuters.com/world/africa/tanzania-once-sceptical-Covid-19-announces-measures-curb-new-variants-2021-05-03/
-
-
+https://perma.cc/Y38M-ARLW
 [16]
-https://abcnews.go.com/International/wireStory/tanzania-experts-suggest-overhaul-Covid-19-denial-policy-77744479
+https://web.archive.org/web/20210503172051/https://www.reuters.com/world/africa/tanzania-once-sceptical-Covid-19-announces-measures-curb-new-variants-2021-05-03/
 
 [17]
-https://www.moh.go.tz/en/Covid-19-info
+https://perma.cc/2HDP-B5XU
+[18]
+https://web.archive.org/web/20200412171949/https://www.moh.go.tz/en/covid-19-info
 
 
 
@@ -421,28 +410,19 @@ https://www.moh.go.tz/en/Covid-19-info
 
 *Sources*:
  [1]
-https://www.dw.com/en/tanzania-under-fire-from-who-for-lackluster-response-to-Covid-19-pandemic/a-53304699
-
+https://perma.cc/XR49-BUUW
 [2]
-https://www.constituteproject.org/constitution/Tanzania_1995?lang=en
-
+https://perma.cc/Z97P-J6V5
 [3]
-
-https://www.reuters.com/article/us-tanzania-politics-idUSKBN23N23P
-
+https://perma.cc/C2ZL-E7LD
 [4]
-https://www.news24.com/news24/Africa/News/tanzania-opposition-mps-to-boycott-parliament-after-3-mps-die-20200502
-
-
+https://perma.cc/2WM6-A7BB
 [5]
-https://www.thecitizen.co.tz/tanzania/news/president-magufuli-to-inaugurate-parliament-on-friday-3018352
-
+https://web.archive.org/web/20201111130529/https://www.thecitizen.co.tz/tanzania/news/president-magufuli-to-inaugurate-parliament-on-friday-3018352
 [6]
-https://www.theguardian.com/world/2020/oct/30/tanzanias-president-wins-re-election-amid-claims-of
-
-
+https://perma.cc/QT89-4FCA
 [7]
-https://tz.usembassy.gov/Covid-19-information/
+https://perma.cc/9LYT-BU3X
 
 
 
@@ -565,19 +545,17 @@ https://tz.usembassy.gov/Covid-19-information/
 
 *Sources*:
  [1]
-https://www.garda.com/crisis24/news-alerts?field_news_alert_countries=646
-[2]https://www.atlanticcouncil.org/blogs/africasource/tanzanias-mild-response-to-Covid-19-and-its-implications-for-the-2020-elections/
+https://perma.cc/8NVU-4TLB
+[2]
+https://perma.cc/U79P-79KQ
 [3]
-https://www.garda.com/crisis24/news-alerts/457256/tanzania-authorities-maintain-minimal-Covid-19-restrictions-as-of-march-18-update-9
-
+https://perma.cc/NHH4-XYR5
 [4]
-https://www.garda.com/crisis24/news-alerts/469096/tanzania-Covid-19-restrictions-remain-largely-unchanged-as-of-april-19-by-comparison-with-those-in-effect-during-mid-march-update-10
-
+https://perma.cc/PN2E-F34Z
 [5]
-https://www.garda.com/crisis24/news-alerts/474751/tanzania-authorities-tighten-Covid-19-related-restrictions-from-may-4-update-11
-
+https://perma.cc/DQ98-KT6M
 [6]
-https://www.garda.com/crisis24/news-alerts/488461/tanzania-authorities-maintain-Covid-19-related-restrictions-as-of-june-9-update-12
+https://perma.cc/9UML-Y2CB
 
 
 
@@ -622,18 +600,19 @@ https://www.garda.com/crisis24/news-alerts/488461/tanzania-authorities-maintain-
 
 *Sources*:
  [1]
-https://www.hrw.org/africa/tanzania-and-zanzibar
+https://perma.cc/NS7E-2VPS
+
 
 [2]
-
-https://www.amnesty.org/en/countries/africa/tanzania/
+https://perma.cc/99NT-DV8G
 
 
 [3]
-https://www.bbc.com/news/topics/cjnwl8q4qdrt/tanzania
+https://perma.cc/AS2E-JC8K
+
 
 [4]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tanzania/
+https://perma.cc/E982-NY3H
 
 
 
@@ -683,18 +662,19 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tan
 
 *Sources*:
  [1]
-https://www.hrw.org/africa/tanzania-and-zanzibar
+https://perma.cc/V4UR-QZ83
+
 
 [2]
-
-https://www.amnesty.org/en/countries/africa/tanzania/
+https://perma.cc/N9PP-KDA3
 
 
 [3]
-https://www.bbc.com/news/topics/cjnwl8q4qdrt/tanzania
+https://perma.cc/5XSW-7ST9
+
 
 [4]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tanzania/
+https://perma.cc/LG87-DWV5
 
 
 
@@ -738,26 +718,22 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tan
  No de-jure limitations of media freedom as part of the Covid-19 emergency measures were found. 
 
 *Sources*:
- [1]
-https://ipi.media/tanzania/
+ [1]https://perma.cc/Q8DC-WU4M
 
 
-[2]
-https://rsf.org/en/tanzania
+[2]https://perma.cc/GK7R-B4L2
 
 
-[3]
-https://cpj.org/africa/tanzania/
+[3]https://perma.cc/9JLV-NSJ9
 
 
-[4
-]https://www.bbc.com/news/world-africa-52519853
+[4]https://perma.cc/26QX-9ZEY
 
-[5]
-https://rsf.org/en/news/tanzanian-media-unable-cover-Covid-19-epidemic
 
-[6]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tanzania/
+[5]https://perma.cc/5S8N-Z33T
+
+
+[6]https://perma.cc/5VJ4-UL2K
 
 
 
@@ -881,36 +857,27 @@ On 10 August 2020, the Tanzanian government announced that broadcasting foreign 
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/09/02/tanzania-freedoms-threatened-ahead-elections
-
+https://perma.cc/EH8B-YL59
 [2]
-https://cpj.org/2020/07/tanzania-bans-kwanza-online-tv-for-11-months-citing-misleading-instagram-post-on-Covid-19/
-
-[3]https://www.amnesty.org/en/latest/news/2020/04/tanzania-authorities-must-end-crackdown-on-journalists-reporting-on-covid19/
-
-[4]https://rsf.org/en/news/tanzanian-reporter-banned-six-months-coronavirus-coverage
-
+https://perma.cc/SX4C-6647
+[3]
+https://perma.cc/2BR6-2DP8
+[4]
+https://perma.cc/DYS7-DRRH
 [5]
-https://rsf.org/en/news/tanzanian-media-unable-cover-Covid-19-epidemic
-
+https://perma.cc/933T-U2NA
 [6]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tanzania/
-
+https://perma.cc/67NQ-UUXU
 [7]
-https://www.voanews.com/africa/tanzania-orders-reopening-media-houses-closed-under-magufuli
-
+https://perma.cc/98YR-N22Y
 [8]
-https://ipi.media/new-tanzania-president-to-lift-ban-on-media-organizations/
-
+https://perma.cc/XAA2-KVXQ
 [9]
-https://www.publicmediaalliance.org/lifting-sanctions-on-tanzanias-media-a-limited-turning-point/
-
-
+https://perma.cc/37AN-W65V
 [10]
-https://www.voanews.com/africa/tanzania-government-trims-back-presidents-order-reopen-media-outlets
-
+https://perma.cc/2PA8-DUJC
 [11]
-https://ipi.media/covid19/?alert_type=0&language=0&years=0&country=tanzania
+https://perma.cc/3XJ2-V5T2
 
 
 
@@ -956,36 +923,23 @@ On 10 August 2020, the Tanzanian government announced that broadcasting foreign 
 
 *Sources*:
  [1]
-https://rsf.org/en/news/tanzanian-reporter-banned-six-months-coronavirus-coverage
-
-
+https://perma.cc/HH4A-QKZX
 [2]
-https://cpj.org/2020/05/tanzanian-newspaper-banned-from-publishing-online/
-
+https://perma.cc/G4V8-3VUK
 [3]
-https://rsf.org/en/news/tanzanian-media-unable-cover-Covid-19-epidemic
-
+https://perma.cc/9H24-58R8
 [4]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tanzania/
-
+https://perma.cc/KS9U-SZ8W
 [5]
-https://www.voanews.com/africa/tanzania-orders-reopening-media-houses-closed-under-magufuli
-
+https://perma.cc/F37V-TSLR
 [6]
-https://ipi.media/new-tanzania-president-to-lift-ban-on-media-organizations/
-
+https://perma.cc/U6AT-QGLQ
 [7]
-https://www.publicmediaalliance.org/lifting-sanctions-on-tanzanias-media-a-limited-turning-point/
-
-
+https://perma.cc/D72V-JSWQ
 [8]
-https://www.voanews.com/africa/tanzania-government-trims-back-presidents-order-reopen-media-outlets
-
-
+https://perma.cc/5XPZ-8GD6
 [9]
-https://ipi.media/covid19/?alert_type=0&language=0&years=0&country=tanzania
-
-
+https://perma.cc/96MR-8Y7P
 
 
 
@@ -1028,13 +982,13 @@ https://ipi.media/covid19/?alert_type=0&language=0&years=0&country=tanzania
 
 *Sources*:
  [1]
-https://ipi.media/tanzania-bars-media-from-using-foreign-content/
+https://perma.cc/PY6B-6BWK
 [2]
 https://bulawayo24.com/index-id-news-sc-national-byo-190238.html
 [3]
-https://rsf.org/en/news/tanzania-rsf-condemns-latest-government-clampdown-media
+https://perma.cc/Y9AX-ZDKU
 [4]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tanzania/
+https://perma.cc/6YWN-UGCQ
 
 
 
@@ -1078,20 +1032,18 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tan
 
 *Sources*:
  [1]
-https://www.nytimes.com/2020/08/04/world/africa/tanzanias-coronavirus-president.html
+https://perma.cc/B2PA-3324
 
 [2]
-https://www.hrw.org/news/2020/09/02/tanzania-freedoms-threatened-ahead-elections
-
+https://perma.cc/4DB5-U2C4
 
 [3]
-https://www.theguardian.com/world/2020/may/27/tanzanian-president-accused-of-covering-up-Covid-19-outbreak
-
+https://perma.cc/23ZD-FBTS
 [4]
-https://www.theguardian.com/world/2021/feb/28/tanzania-leader-says-prayer-will-cure-covid-as-hospitals-overflow
+https://perma.cc/36UG-UQKU
 
 [5]
-https://tz.usembassy.gov/Covid-19-information/
+https://perma.cc/E4WG-R62H
 
 
 
@@ -1133,28 +1085,28 @@ https://tz.usembassy.gov/Covid-19-information/
  In Q2 of 2020, a journalist working for Deutsche Welle was threatened by authorities for reporting on Covid-19 in Tanzania, and two Kenyan journalists were arrested when interviewing citizens on Covid-19. This is therefore coded as 1 in Q2 of 2020. After this, no evidence of verbal harassment of journalists has been found in Tanzania, and this is therefore coded as 0 for the other periods. 
 
 *Sources*:
- [1]
-https://ipi.media/tanzania/
+ [1]https://perma.cc/3BU5-99Y8
 
-[2]
-https://rsf.org/en/tanzania
 
-[3]
-https://cpj.org/africa/tanzania/
+[2]https://perma.cc/54EE-ZUDT
 
-[4]https://www.bbc.com/news/world-africa-52519853
 
-[5]
-https://ipi.media/covid19/?alert_type=0&language=0&years=0&country=tanzania
+[3]https://perma.cc/F9AT-55UB
 
-[6]
-https://ipi.media/alerts/a-deutsche-welle-journalist-was-threatened-with-punitive-action-for-reporting-about-Covid-19/
 
-[7]
-https://ipi.media/alerts/two-kenyan-journalists-arrested-in-tanzania-while-interviewing-residents-on-coronavirus/
+[4]https://perma.cc/HJ7A-KYP3
 
-[8]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tanzania/
+
+[5]https://perma.cc/NJF9-7K8W
+
+
+[6]https://perma.cc/L35N-5UGL
+
+
+[7]https://perma.cc/F8YF-Y5T9
+
+
+[8]https://perma.cc/C7CG-EEAJ
 
 
 
@@ -1197,28 +1149,42 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tan
 
 *Sources*:
  [1]
-https://ipi.media/tanzania/
+https://perma.cc/UXU9-DA5N
+
 
 [2]
-https://rsf.org/en/tanzania
+https://perma.cc/6AYH-EG4R
+
+
 
 [3]
-https://cpj.org/africa/tanzania/
+https://perma.cc/3EVK-W8FQ
 
-[4]https://www.bbc.com/news/world-africa-52519853
+
+
+[4]
+https://perma.cc/L6DQ-VHL6
+
+
+
 
 [5]
-https://ipi.media/covid19/?alert_type=0&language=0&years=0&country=tanzania
+https://perma.cc/AF8E-X6FX
+
+
 
 [6]
-https://ipi.media/alerts/a-deutsche-welle-journalist-was-threatened-with-punitive-action-for-reporting-about-Covid-19/
+https://perma.cc/8ECC-JFJC
+
+
 
 [7]
-https://ipi.media/alerts/two-kenyan-journalists-arrested-in-tanzania-while-interviewing-residents-on-coronavirus/
+https://perma.cc/6K4U-VEFA
+
+
 
 [8]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tanzania/
- 
+https://perma.cc/8WHX-TUZQ
 
 
 
@@ -1265,45 +1231,31 @@ Worth noting is that in June 2021 Tanzania requested access to vaccines through 
 
 *Sources*:
  [1]
-https://www.bbc.com/news/world-africa-52966016
-
+https://perma.cc/223W-MQ37
 [2]
-https://www.theguardian.com/world/2020/may/27/tanzanian-president-accused-of-covering-up-Covid-19-outbreak
-
+https://perma.cc/23ZD-FBTS
 [3]
-https://www.bbc.com/news/world-africa-52519853
-
+https://perma.cc/2EXZ-D26Q
 [4]
-https://www.atlanticcouncil.org/blogs/africasource/tanzanias-mild-response-to-Covid-19-and-its-implications-for-the-2020-elections/
-
+https://perma.cc/T2GB-KAQU
 [5]
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
-
+https://perma.cc/QF5V-BUCE
 [6]
-https://africacheck.org/reports/fact-checking-tanzanian-president-john-magufuli-on-inhaling-steam-to-treat-Covid-19/
-
+https://perma.cc/5ASZ-Q7RG
 [7]
-https://www.nytimes.com/2020/08/04/world/africa/tanzanias-coronavirus-president.html
-
+https://perma.cc/9P3S-RENM
 [8]
-https://www.theelephant.info/features/2020/05/29/a-problem-of-denial-why-tanzania-could-lose-the-war-against-Covid-19/
-
-
+https://perma.cc/D26V-SY4B
 [9]
-https://www.theguardian.com/world/2021/feb/28/tanzania-leader-says-prayer-will-cure-covid-as-hospitals-overflow
-
+https://perma.cc/S26D-6886
 [10]
-https://tz.usembassy.gov/Covid-19-information/
-
+https://perma.cc/AAE2-9846
 [11]
-https://abcnews.go.com/International/wireStory/tanzania-experts-suggest-overhaul-Covid-19-denial-policy-77744479
-
+https://perma.cc/3LZA-GJF9
 [12]
-https://www.wsj.com/articles/after-a-year-of-denying-covid-19-tanzania-orders-vaccines-11623938431
-
-[13[
-
-https://www.thecitizen.co.tz/tanzania/news/-tanzania-applies-for-sh1-3trillion-loan-to-fight-covid-19-effects-3440546
+https://perma.cc/R5LD-MAM3
+[13]
+https://web.archive.org/web/20210617083546/https://www.thecitizen.co.tz/tanzania/news/-tanzania-applies-for-sh1-3trillion-loan-to-fight-covid-19-effects-3440546
 
 
 
@@ -1348,15 +1300,19 @@ https://www.thecitizen.co.tz/tanzania/news/-tanzania-applies-for-sh1-3trillion-l
 
 *Sources*:
  [1]
-https://www.hrw.org/africa/tanzania-and-zanzibar
+https://perma.cc/V4UR-QZ83
+
 
 [2]
-https://www.amnesty.org/en/countries/africa/tanzania/
+https://perma.cc/N9PP-KDA3
 
-[3]https://www.bbc.com/news/topics/cjnwl8q4qdrt/tanzania
+
+[3]
+https://perma.cc/5XSW-7ST9
+
 
 [4]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tanzania/
+https://perma.cc/LG87-DWV5
 
 
 
@@ -1399,8 +1355,12 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tan
 
 *Sources*:
  [1]
-https://www.bbc.co.uk/news/topics/cjnwl8q4qdrt/tanzania
+https://perma.cc/QSQ5-N89Z
+
+
 [2]
-https://www.reuters.com/search/news?blob=Tanzania&sortBy=date&dateRange=all
+https://perma.cc/5EMU-7L8D
+
+
 [3]
-https://www.atlanticcouncil.org/blogs/africasource/tanzanias-mild-response-to-Covid-19-and-its-implications-for-the-2020-elections/
+https://perma.cc/AHH9-BYPQ

@@ -45,30 +45,40 @@
  Egypt has been under a nationwide state of emergency since April 2017. It was extended for the 12th time on 28 April 2020 due to the Covid-19 pandemic. On 22 April 2020, amendments were made to the 1958 Emergency Law (No. 162/1958) which gives sweeping powers to the president and security agencies. The state of emergency has been extended regularly every three months. It was last extended on 25 April 2021 and it will last till 25 July 2021. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/07/egypt-covid-19-cover-new-repressive-powers
-
-https://www.atlanticcouncil.org/blogs/menasource/the-state-of-emergency-in-egypt-an-exception-or-rule/
-
-https://www.elwatannews.com/news/details/4706149
-
-https://english.aawsat.com//home/article/2243166/egypt-give-president-extensive-powers-during-coronavirus-outbreak
+ https://perma.cc/LT44-BKBV
 
 
-https://www.constituteproject.org/constitution/Egypt_2014.pdf
+https://perma.cc/MT9U-NZWA
 
-https://www.alkarama.org/sites/default/files/2016-12/Law%20162%20of%201958%20Emergency%20Law%20%28AR%29.pdf
 
-https://verfassungsblog.de/emergency-law-amendments-to-fight-covid-19-in-egypt-putting-the-poison-in-the-honey/
+https://perma.cc/UWB7-WDZK
 
-https://www.loc.gov/law/foreign-news/article/egypt-president-declares-state-of-emergency-for-health-and-security-conditions/#:~:text=Top%20Recent%20Articles-,Egypt%3A%20President%20Declares%20State%20of%20Emergency%20for%20Health%20and%20Security,of%20emergency%20for%20three%20months.
 
-https://www.garda.com/crisis24/news-alerts/336906/egypt-authorities-extend-state-of-emergency-from-april-28-amid-covid-19-pandemic-update-17
+https://perma.cc/7KST-8GPZ
 
-https://www.garda.com/crisis24/news-alerts/471191/egypt-authorities-extend-security-related-state-of-emergency-through-july-25-update-5
 
-https://www.egypttoday.com/Article/1/93779/Egyptian-House-approves-declaring-state-of-emergency-for-another-3
+https://perma.cc/VN37-7Q54
 
-https://www.loc.gov/law/foreign-news/article/egypt-president-declares-state-of-emergency-for-health-and-security-conditions/
+
+https://perma.cc/2ZRV-PXD6
+
+
+https://perma.cc/6VPJ-HMDP
+
+
+https://perma.cc/A694-3774
+
+
+https://perma.cc/7T3Y-RT6M
+
+
+https://perma.cc/G9MY-9AZ6
+
+
+https://perma.cc/3SVE-FNHV
+
+
+https://perma.cc/VB4S-DMGL
 
 
 
@@ -107,7 +117,7 @@ https://www.loc.gov/law/foreign-news/article/egypt-president-declares-state-of-e
 *No comment provided* 
 
 *Sources*:
- https://www.loc.gov/law/foreign-news/article/egypt-president-declares-state-of-emergency-for-health-and-security-conditions/#:~:text=Top%20Recent%20Articles-,Egypt%3A%20President%20Declares%20State%20of%20Emergency%20for%20Health%20and%20Security,of%20emergency%20for%20three%20months.
+ https://perma.cc/A694-3774
 
 
 
@@ -146,26 +156,36 @@ https://www.loc.gov/law/foreign-news/article/egypt-president-declares-state-of-e
 *No comment provided* 
 
 *Sources*:
- https://egyptindependent.com/president-sisi-extends-egypts-state-of-emergency-by-3-months/
-
-https://www.hrw.org/news/2020/05/07/egypt-covid-19-cover-new-repressive-powers
+ https://perma.cc/NN65-YDPR
 
 
-https://www.middleeastmonitor.com/20200721-egypt-extends-state-of-emergency-for-13th-time/
+https://perma.cc/LT44-BKBV
 
-https://sis.gov.eg/Story/149199/House-approves-extending-state-of-emergency-for-3-months-as-of-July-27?lang=en-us
 
-https://egyptindependent.com/president-sisi-extends-egypts-state-of-emergency-by-3-months-2/
+https://perma.cc/V97H-ZBXG
 
-https://www.loc.gov/law/foreign-news/article/egypt-president-declares-state-of-emergency-for-health-and-security-conditions/#:~:text=Top%20Recent%20Articles-,Egypt%3A%20President%20Declares%20State%20of%20Emergency%20for%20Health%20and%20Security,of%20emergency%20for%20three%20months.
 
-https://www.garda.com/crisis24/news-alerts/336906/egypt-authorities-extend-state-of-emergency-from-april-28-amid-covid-19-pandemic-update-17
+https://perma.cc/CU47-BXMT
 
-https://www.garda.com/crisis24/news-alerts/471191/egypt-authorities-extend-security-related-state-of-emergency-through-july-25-update-5
 
-https://www.egypttoday.com/Article/1/93779/Egyptian-House-approves-declaring-state-of-emergency-for-another-3
+https://perma.cc/3SEU-K9J2
 
-https://www.loc.gov/law/foreign-news/article/egypt-president-declares-state-of-emergency-for-health-and-security-conditions/
+
+
+https://perma.cc/WT3W-JYFK
+
+
+https://perma.cc/ZXA4-4UHR
+
+
+
+https://perma.cc/B27D-UWZF
+
+
+https://perma.cc/QVE8-2PML
+
+
+https://perma.cc/WT3W-JYFK
 
 
 
@@ -206,27 +226,36 @@ https://www.loc.gov/law/foreign-news/article/egypt-president-declares-state-of-e
 The state of emergency has been extended regularly every three months. It was last extended on 25 April 2021 and it will last till 25 July 2021. 
 
 *Sources*:
- https://egyptindependent.com/president-sisi-extends-egypts-state-of-emergency-by-3-months/
-
-https://www.hrw.org/news/2020/05/07/egypt-covid-19-cover-new-repressive-powers
+ https://perma.cc/NN65-YDPR
 
 
-https://www.middleeastmonitor.com/20200721-egypt-extends-state-of-emergency-for-13th-time/
+https://perma.cc/LT44-BKBV
 
 
-https://sis.gov.eg/Story/149199/House-approves-extending-state-of-emergency-for-3-months-as-of-July-27?lang=en-us
+https://perma.cc/V97H-ZBXG
 
-https://egyptindependent.com/president-sisi-extends-egypts-state-of-emergency-by-3-months-2/
 
-https://www.loc.gov/law/foreign-news/article/egypt-president-declares-state-of-emergency-for-health-and-security-conditions/#:~:text=Top%20Recent%20Articles-,Egypt%3A%20President%20Declares%20State%20of%20Emergency%20for%20Health%20and%20Security,of%20emergency%20for%20three%20months.
+https://perma.cc/CU47-BXMT
 
-https://www.garda.com/crisis24/news-alerts/336906/egypt-authorities-extend-state-of-emergency-from-april-28-amid-covid-19-pandemic-update-17
 
-https://www.garda.com/crisis24/news-alerts/471191/egypt-authorities-extend-security-related-state-of-emergency-through-july-25-update-5
+https://perma.cc/3SEU-K9J2
 
-https://www.egypttoday.com/Article/1/93779/Egyptian-House-approves-declaring-state-of-emergency-for-another-3
 
-https://www.loc.gov/law/foreign-news/article/egypt-president-declares-state-of-emergency-for-health-and-security-conditions/
+
+https://perma.cc/WT3W-JYFK
+
+
+https://perma.cc/ZXA4-4UHR
+
+
+
+https://perma.cc/B27D-UWZF
+
+
+https://perma.cc/QVE8-2PML
+
+
+https://perma.cc/WT3W-JYFK
 
 
 
@@ -270,12 +299,13 @@ https://www.loc.gov/law/foreign-news/article/egypt-president-declares-state-of-e
 After the latest extension, the State of Emergency is to remain till 28 January 2021. **Update the date here** 
 
 *Sources*:
- https://egyptindependent.com/president-sisi-extends-egypts-state-of-emergency-by-3-months/
+ https://perma.cc/NN65-YDPR
 
 
-https://www.hrw.org/news/2020/05/07/egypt-covid-19-cover-new-repressive-powers
+https://perma.cc/WM4V-E5TX
 
-https://www.hrw.org/news/2020/05/07/egypt-covid-19-cover-new-repressive-powers
+
+https://perma.cc/WM4V-E5TX
 
 
 
@@ -314,17 +344,19 @@ https://www.hrw.org/news/2020/05/07/egypt-covid-19-cover-new-repressive-powers
 *No comment provided* 
 
 *Sources*:
- https://egyptindependent.com/president-sisi-extends-egypts-state-of-emergency-by-3-months/
-
-https://www.hrw.org/news/2020/05/07/egypt-covid-19-cover-new-repressive-powers
+ https://perma.cc/NN65-YDPR
 
 
-https://www.middleeastmonitor.com/20200721-egypt-extends-state-of-emergency-for-13th-time/
+https://perma.cc/WM4V-E5TX
 
 
-https://sis.gov.eg/Story/149199/House-approves-extending-state-of-emergency-for-3-months-as-of-July-27?lang=en-us
+https://perma.cc/V97H-ZBXG
 
-https://egyptindependent.com/president-sisi-extends-egypts-state-of-emergency-by-3-months-2/
+
+https://perma.cc/CU47-BXMT
+
+
+https://perma.cc/3SEU-K9J2
 
 
 
@@ -373,14 +405,13 @@ Representatives is dissolved, the matter is submitted to the new House in its fi
 session." 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Egypt_2019.pdf?lang=en
+ https://perma.cc/NH5Z-3VMF
 
 
+https://perma.cc/K8N4-XYWH
 
-https://blog-iacl-aidc.org/2020-posts/2020/7/14/egypt-under-covid-19-normalizing-emergency
 
-
-https://egyptindependent.com/egypts-house-of-representatives-extends-nationwide-state-of-emergency-3-more-months/
+https://perma.cc/BC39-2Q2J
 
 
 
@@ -422,13 +453,16 @@ https://egyptindependent.com/egypts-house-of-representatives-extends-nationwide-
  The president has the right to declare a state of emergency for a limited time of up to three months. The House of Representatives then has to approve this action. The Egyptian House of Representatives hav approved of all the extentions of the state of emergencies that have taken place since 2017. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Egypt_2019.pdf?lang=en
+ https://perma.cc/NH5Z-3VMF
 
-https://blog-iacl-aidc.org/2020-posts/2020/7/14/egypt-under-covid-19-normalizing-emergency
 
-https://egyptindependent.com/egypts-house-of-representatives-extends-nationwide-state-of-emergency-3-more-months/
+https://perma.cc/K8N4-XYWH
 
-https://egyptindependent.com/president-sisi-extends-egypts-state-of-emergency-by-3-months-2/
+
+https://perma.cc/BC39-2Q2J
+
+
+https://perma.cc/3SEU-K9J2
 
 
 
@@ -474,8 +508,10 @@ https://egyptindependent.com/president-sisi-extends-egypts-state-of-emergency-by
  A state of emergency has been in place for Egypt since 10 April 2017, and was  extended on 28 April 2020 for three months due to the health and security emergencies. The legislature suspended one sitting from 08 April to 29 April due to the curfew measures. On 18 April 2020, it adopted legislation granting new powers to the president to implement specific emergency response measures without being able to rule by decree. 
 
 *Sources*:
- https://www.egypttoday.com/Article/2/85074/EgyptHouse-Refusal-of-burying-COVID-19-victims-punishable-by
-https://www.egypttoday.com/Article/1/84464/Egypt-s-parliament-delays-convention-for-2nd-time-due-to
+ https://perma.cc/GFV4-VP55
+
+
+https://perma.cc/S7PE-5EL5
 
 
 
@@ -597,12 +633,13 @@ https://www.egypttoday.com/Article/1/84464/Egypt-s-parliament-delays-convention-
  I have not found information that suggests that different parts of Egypt has varying response to the pandemic. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/07/egypt-covid-19-cover-new-repressive-powers
+ https://perma.cc/WM4V-E5TX
 
 
-https://www.atlanticcouncil.org/blogs/menasource/the-state-of-emergency-in-egypt-an-exception-or-rule/
+https://perma.cc/MT9U-NZWA
 
-https://www.garda.com/crisis24/news-alerts/475271/egypt-government-to-tighten-certain-covid-19-related-business-restrictions-from-may-6-until-at-least-may-21-update-23
+
+https://perma.cc/JL3C-MSTN
 
 
 
@@ -646,7 +683,7 @@ https://www.garda.com/crisis24/news-alerts/475271/egypt-government-to-tighten-ce
  I did not find evidence of the emergency measures discriminating "solely on the grounds of race, colour, sex, language, religion or social origin". 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Egypt_2014.pdf
+ https://perma.cc/R3MP-6PNW
 
 
 
@@ -695,17 +732,19 @@ https://www.garda.com/crisis24/news-alerts/475271/egypt-government-to-tighten-ce
  The state of emergency which was enacted in Egypt in 2017 was extended in March 2020 with reference to Covid-19, and then renewed every three months in 2020 and the first half of 2021. The state of emergency has enabled large-scale abuse and torture which are widely documented. 
 
 *Sources*:
- https://www.loc.gov/law/foreign-news/article/egypt-president-declares-state-of-emergency-for-health-and-security-conditions/
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/egypt/#:~:text=Significant%20human%20rights%20issues%20included,and%20life%2Dthreatening%20prison%20conditions
-
-https://www.icj.org/wp-content/uploads/2018/09/Egypt-Return-to-State-of-Emergency-Advocacy-Analysis-brief-2018-ENG.pdf
+ https://perma.cc/VB4S-DMGL
 
 
-https://www.constituteproject.org/constitution/Egypt_2014.pdf
+https://perma.cc/Z98Z-TV9J
 
 
-https://timep.org/reports-briefings/timep-briefs/timep-brief-right-to-due-process-in-egypt/
+https://perma.cc/G7D7-2LRQ
+
+
+https://perma.cc/VN37-7Q54
+
+
+https://perma.cc/TJ3B-27FV
 
 
 
@@ -753,20 +792,22 @@ https://timep.org/reports-briefings/timep-briefs/timep-brief-right-to-due-proces
 4: Recently, the authorities have also warned that those who spread "false news" about the coronavirus may face up to five years imprisonment and steep fines. 
 
 *Sources*:
- https://rsf.org/en/news/egypt-new-media-law-aims-silence-independent-online-media-rsf-says
-
-https://www.reuters.com/article/us-egypt-media/new-egyptian-law-establishes-media-regulator-picked-by-president-idUSKBN14F11S
-
-https://www.theguardian.com/world/2020/may/03/egypt-has-made-journalism-a-with-crackdown-says-amnesty-international?fbclid=IwAR2LZlj_pI3XRCnj6ac3H14mWebfB85IlxvWams4v4ttCYuk8ZSZOS8sojg
+ https://perma.cc/3H24-S7EN
 
 
-https://www.constituteproject.org/constitution/Egypt_2014.pdf
+https://perma.cc/P5SX-J4TB
 
 
-https://madamasr.com/en/2017/04/12/feature/politics/egypts-media-in-a-state-of-emergency/
+https://perma.cc/JG52-R9MB
 
 
-https://www.icj.org/wp-content/uploads/2018/09/Egypt-Return-to-State-of-Emergency-Advocacy-Analysis-brief-2018-ENG.pdf
+https://perma.cc/VN37-7Q54
+
+
+https://perma.cc/DH49-LLJN
+
+
+https://perma.cc/G7D7-2LRQ
 
 
 
@@ -886,18 +927,19 @@ https://www.icj.org/wp-content/uploads/2018/09/Egypt-Return-to-State-of-Emergenc
  Ruth Michaelson, a journalist writing for The Guardian who had been living and working in Egypt had to leave the country after she reported on research suggesting that Egypt had a higher rate of coronavirus infections than reported by the government. I have not found new cases of de-facto limitations on reporting on the nature of Covid-19. However multiple organizations such as Reporters without Borders and Amnesty International have continued to report on how the press in Egypt continued to be tightly controlled partially due to the pandemic. As such, I have continued to code this variable as 1 across all the time periods. 
 
 *Sources*:
- https://www.theguardian.com/world/2020/mar/26/egypt-forces-guardian-journalist-leave-coronavirus-story-ruth-michaelson
+ https://perma.cc/JS4Y-PUJ2
 
 
-https://www.theguardian.com/world/2020/mar/15/egypt-rate-coronavirus-cases-higher-than-figures-suggest
+https://perma.cc/P6KD-BFGB
 
 
+https://perma.cc/72JF-HNE6
 
-https://www.cjr.org/first_person/guardian-covid-19-reporter-egypt.php
 
-https://rsf.org/en/2021-world-press-freedom-index-journalism-vaccine-against-disinformation-blocked-more-130-countries
+https://perma.cc/WNM7-B2RR
 
-https://www.amnesty.org/en/latest/news/2021/04/mena-covid-19-amplified-inequalities-and-was-used-to-further-ramp-up-repression/
+
+https://perma.cc/3YGA-3SUR
 
 
 
@@ -949,27 +991,14 @@ https://www.amnesty.org/en/latest/news/2021/04/mena-covid-19-amplified-inequalit
 I have not found new cases of de-facto limitations on reporting on the government's response to Covid-19. However multiple organizations such as Reporters without Borders and Amnesty International have continued to report on how the press in Egypt continued to be tightly controlled partially due to the pandemic. Given the highly controlled nature of the Egyptian press, I have continued to code this variable as 1 across all the time periods. 
 
 *Sources*:
- https://www.thehttps://www.theguardian.com/world/2020/mar/26/egypt-forces-guardian-journalist-leave-coronavirus-story-ruth-michaelson
-
-https://www.theguardian.com/world/2020/mar/15/egypt-rate-coronavirus-cases-higher-than-figures-suggest
-
-https://www.amnesty.org/en/latest/news/2020/05/egypt-end-relentless-attacks-on-journalists-and-other-media-workers/
-
-https://www.amnesty.org.uk/press-releases/egypt-medics-arrested-speaking-out-over-covid-19-failingsguardian.com/world/2020/mar/26/egypt-forces-guardian-journalist-leave-coronavirus-story-ruth-michaelson
-
-https://www.theguardian.com/world/2020/mar/15/egypt-rate-coronavirus-cases-higher-than-figures-suggest
-
-https://www.amnesty.org/en/latest/news/2020/05/egypt-end-relentless-attacks-on-journalists-and-other-media-workers/
-
-
-https://www.icnl.org/covid19tracker/?location=36&issue=&date=&type=
-
-
-https://apnews.com/cf9528ebff1d5dd7e3b95d467d7e9418?utm_source=piano&utm_medium=email&utm_campaign=morningwire&pnespid=juI1oOhHB12NdhAq9ZvGumxD.HriF_5h0ZVYQeaj&mc_cid=1c7a6c2b7a&mc_eid=53f475e67b
-
-https://rsf.org/en/2021-world-press-freedom-index-journalism-vaccine-against-disinformation-blocked-more-130-countries
-
-https://www.amnesty.org/en/latest/news/2021/04/mena-covid-19-amplified-inequalities-and-was-used-to-further-ramp-up-repression/
+ https://perma.cc/JS4Y-PUJ2
+https://perma.cc/P6KD-BFGB
+https://perma.cc/95CZ-EQNU
+https://perma.cc/XU55-5ZPF
+https://perma.cc/2NKG-E56H
+https://perma.cc/TQQ5-H2BY
+https://perma.cc/WNM7-B2RR
+https://perma.cc/3YGA-3SUR
 
 
 
@@ -1011,17 +1040,19 @@ https://www.amnesty.org/en/latest/news/2021/04/mena-covid-19-amplified-inequalit
  I did not find information on this. However, media in Egypt is heavily censored. Critical journalists have routinely been arrested and the Supreme Council for Media Regulation (SCMR), Egypt’s main media regulator has blocked and limited access to multiple news websites and social media accounts. 
 
 *Sources*:
- https://rsf.org/en/news/egypt-blocks-online-fake-news-about-coronavirus
+ https://perma.cc/KP42-ZP8L
 
 
+https://perma.cc/GR5Y-53P2
 
-https://www.middleeastmonitor.com/20200109-egypt-approves-new-media-policies-as-rights-groups-warn-of-censorship/
 
-https://rsf.org/en/taxonomy/term/156
+https://perma.cc/Y2PM-JLXR
 
-https://rsf.org/en/2021-world-press-freedom-index-journalism-vaccine-against-disinformation-blocked-more-130-countries
 
-https://www.amnesty.org/en/latest/news/2021/04/mena-covid-19-amplified-inequalities-and-was-used-to-further-ramp-up-repression/
+https://perma.cc/WNM7-B2RR
+
+
+https://perma.cc/3YGA-3SUR
 
 
 
@@ -1078,28 +1109,17 @@ https://www.amnesty.org/en/latest/news/2021/04/mena-covid-19-amplified-inequalit
 I have not found more cases of the government and it's agents limiting media access to Covid-19 related information in 2021. However as the media landscape has not improved and the fact that Egypt continues to be the third biggest imprisoner of media personnel in the world, I have continued to code this variable as 2. 
 
 *Sources*:
- https://www.cjr.org/first_person/guardian-covid-19-reporter-egypt.php
+ https://perma.cc/72JF-HNE6
+https://perma.cc/JG52-R9MB
+https://perma.cc/JS4Y-PUJ2
+https://perma.cc/P6KD-BFGB
+https://perma.cc/95CZ-EQNU
+https://perma.cc/XU55-5ZPF
+https://perma.cc/KRH7-45JN
+https://perma.cc/KP42-ZP8L
+https://perma.cc/2NKG-E56H
+https://perma.cc/3YGA-3SUR
 
-https://www.theguardian.com/world/2020/may/03/egypt-has-made-journalism-a-with-crackdown-says-amnesty-international?fbclid=IwAR2LZlj_pI3XRCnj6ac3H14mWebfB85IlxvWams4v4ttCYuk8ZSZOS8sojg
-
-https://www.theguardian.com/world/2020/mar/26/egypt-forces-guardian-journalist-leave-coronavirus-story-ruth-michaelson
-
-https://www.theguardian.com/world/2020/mar/15/egypt-rate-coronavirus-cases-higher-than-figures-suggest
-
-https://www.amnesty.org/en/latest/news/2020/05/egypt-end-relentless-attacks-on-journalists-and-other-media-workers/
-
-https://www.amnesty.org.uk/press-releases/egypt-medics-arrested-speaking-out-over-covid-19-failings
-
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-
-https://rsf.org/en/news/egypt-blocks-online-fake-news-about-coronavirus
-
-
-https://www.icnl.org/covid19tracker/?location=36&issue=&date=&type=
-
-https://www.amnesty.org/en/latest/news/2021/04/mena-covid-19-amplified-inequalities-and-was-used-to-further-ramp-up-repression/
 
 
 
@@ -1141,15 +1161,11 @@ https://www.amnesty.org/en/latest/news/2021/04/mena-covid-19-amplified-inequalit
  I have not found evidence of journalists being verbally harassed due to their reporting on Covid 19. However there is evidence showing that journalists are regularly harassed for their critical reporting in general. 
 
 *Sources*:
- https://rsf.org/en/taxonomy/term/156
+ https://perma.cc/Y2PM-JLXR
+https://perma.cc/6XR8-KRJA
+https://perma.cc/PX7E-Y53N
 
-
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/egypt/
-
-
-https://www.bbc.com/news/topics/c302m85q5xzt/egypt
-
-https://www.middleeastmonitor.com/20210505-egypt-journalists-we-are-harassed-by-security-forces-and-censored/
+https://perma.cc/H4Y8-5SLP
 
 
 
@@ -1195,13 +1211,22 @@ In January 2021, "police forces detained Hamdi Atef Abdel Fattah, a 23-year-old 
 Amnesty International reports that journalists in Egypt regularly face harassment for critical reporting on the government's tackling of the pandemic. As such, I have coded all the time periods at 1. 
 
 *Sources*:
- https://www.cjr.org/first_person/guardian-covid-19-reporter-egypt.php
+ https://perma.cc/72JF-HNE6
 
-https://www.theguardian.com/world/2020/may/03/egypt-has-made-journalism-a-with-crackdown-says-amnesty-international?fbclid=IwAR2LZlj_pI3XRCnj6ac3H14mWebfB85IlxvWams4v4ttCYuk8ZSZOS8sojg
 
-https://www.ifj.org/media-centre/news/detail/category/health-and-safety/article/egypt-journalists-face-trial-after-two-week-detention.html
+https://perma.cc/JG52-R9MB
 
-https://www.amnesty.org/en/latest/news/2021/04/mena-covid-19-amplified-inequalities-and-was-used-to-further-ramp-up-repression/
+
+https://perma.cc/Z239-HTML
+
+
+https://perma.cc/3YGA-3SUR
+
+
+
+
+
+
 
 
 
@@ -1289,16 +1314,17 @@ https://www.amnesty.org/en/latest/news/2021/04/mena-covid-19-amplified-inequalit
  There have been a few cases of security forces engaging in non-lethal violence. Egyptian police fired tear gas on 11 April 2020 to disperse a crowd of people who gathered in a village near the Nile Delta to prevent the burial of a doctor who died of coronavirus. I did not find cases of security force engaging in physical violence to enforce the emergency measures in 2021. Hence I have coded Q1 and Q2 of 2021 as 0. 
 
 *Sources*:
- https://www.reuters.com/article/us-health-coronavirus-egypt/egyptian-police-disperse-villagers-who-stopped-burial-of-doctor-killed-by-coronavirus-idUSKCN21T0V5
+ https://perma.cc/5HQN-2PBJ
 
-https://www.voanews.com/middle-east/egypt-tightens-coronavirus-restrictions-eid-holiday
 
-https://www.garda.com/crisis24/news-alerts/331661/egypt-police-disperse-crowd-with-tear-gas-and-arrest-multiple-in-shubra-al-bahw-dakahlia-governorate-april-11
+https://perma.cc/LX7W-BTNN
 
-thailand
-journalists
-harass
-covid
+
+
+https://perma.cc/8PPV-UNXU
+
+
+
 
 
 
@@ -1340,9 +1366,10 @@ covid
  No information was found suggesting the military participated in enforcing the confinement measures. 
 
 *Sources*:
- https://www.reuters.com/article/us-health-coronavirus-egypt-lawmaking/egypt-amends-emergency-laws-amid-coronavirus-outbreak-idUSKCN22437A
+ https://perma.cc/KMD2-JZSZ
 
 
-https://www.reuters.com/places/egypt
+https://perma.cc/7M28-YV9G
 
-https://www.bbc.com/news/topics/c302m85q5xzt/egypt
+
+https://perma.cc/PX7E-Y53N

@@ -49,30 +49,31 @@ The first ''Act of Legislative Content'' with minimal measures to deal with Covi
 Consecutive Acts of Legislative Content and (Common) Ministerial Decisions have been issued during the pandemic (2, 3, 4, 5). See a list of all Acts and Ministerial Decisions: 9. 
 
 *Sources*:
- https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/001-156%20aggliko.pdf
+ perma.cc/A5KJ-24UN
 (1)
-http://constitutionnet.org/state-of-emergency
+
+perma.cc/CX59-643Z
 (2)
 
-https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional-matter-of-life-and-death/
+perma.cc/5MTZ-E4QM
 (3)
 
-https://verfassungsblog.de/constitutionalism-and-covid-19-in-greece-the-normality-of-emergency/
+perma.cc/HD6X-VQXE
 (4)
 
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-(5)
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
 
-https://www.ynanp.gr/media/documents/%CE%A0%CE%9D%CE%A0_25.2.2020.pdf
+(5)
+perma.cc/LFB4-M6ZD
 (6)
 
-https://www.ynanp.gr/media/documents/%CE%9A%CE%A5%CE%91_%CE%93%CE%B5%CE%BD%CE%B9%CE%BA%CF%8C%CF%82_%CE%A0%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CF%8C%CF%82_230320.pdf
+perma.cc/PWM7-6YLD
 (7)
 
-https://www.ynanp.gr/media/documents/%CE%92_4899_%CE%88%CE%BA%CF%84%CE%B1%CE%BA%CF%84%CE%B1_%CE%9C%CE%AD%CF%84%CF%81%CE%B1.pdf
+perma.cc/B8FL-6JL4
 (8)
 
-https://www.ynanp.gr/el/gr-epikoinwnias-enhmerwshs/prostasia-apo-neo-koronoio-nomothesia/
+perma.cc/GZ6B-4CAQ
 (9)
 
 
@@ -113,10 +114,8 @@ https://www.ynanp.gr/el/gr-epikoinwnias-enhmerwshs/prostasia-apo-neo-koronoio-no
 1. Under extraordinary circumstances of an urgent and unforeseeable need, the President of the Republic may, upon the proposal of the Cabinet, issue acts of legislative content. Such acts shall be submitted to Parliament for ratification, as specified in the provisions of article 72 paragraph 1, within forty days of their issuance or within forty days from the convocation of a parliamentary session. Should such acts not be submitted to Parliament within the above time-limits or if they should not be ratified by Parliament within three months of their submission, they will henceforth cease to be in force. 
 
 *Sources*:
- https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/001-156%20aggliko.pdf
-
+ perma.cc/6QA7-AAAS
 (1)
-
 
 
 
@@ -160,32 +159,32 @@ Consecutive Acts of Legislative Content and (Common) Ministerial Decisions have 
 See a list of all Acts and Ministerial Decisions: 1. 
 
 *Sources*:
- https://www.ynanp.gr/el/gr-epikoinwnias-enhmerwshs/prostasia-apo-neo-koronoio-nomothesia/
+ perma.cc/PYS6-GBEZ
 (1)
 
-https://www.ynanp.gr/media/documents/%CE%A0%CE%9D%CE%A0_25.2.2020.pdf
+perma.cc/NK83-QFSN
 (2)
 
-https://www.ynanp.gr/media/documents/%CE%9A%CE%A5%CE%91_%CE%93%CE%B5%CE%BD%CE%B9%CE%BA%CF%8C%CF%82_%CE%A0%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CF%8C%CF%82_230320.pdf
+perma.cc/6MSZ-56AL
 (3)
 
-https://www.ynanp.gr/media/documents/%CE%92_4899_%CE%88%CE%BA%CF%84%CE%B1%CE%BA%CF%84%CE%B1_%CE%9C%CE%AD%CF%84%CF%81%CE%B1.pdf
+perma.cc/AJ44-DP8A
 (4)
 
-
-https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional-matter-of-life-and-death/
+perma.cc/ZFM6-2X98
 (5)
 
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-(6)
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
 
-http://constitutionnet.org/state-of-emergency
+
+(6)
+perma.cc/Q2WL-QK4S
 (7)
 
-https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional-matter-of-life-and-death/
+perma.cc/55LJ-KZCX
 (8)
 
-https://verfassungsblog.de/constitutionalism-and-covid-19-in-greece-the-normality-of-emergency/
+perma.cc/CL2W-B4YE
 (9)
 
 
@@ -230,32 +229,31 @@ Consecutive Acts of Legislative Content and (Common) Ministerial Decisions have 
 See a list of all Acts and Ministerial Decisions: 1. 
 
 *Sources*:
- https://www.ynanp.gr/el/gr-epikoinwnias-enhmerwshs/prostasia-apo-neo-koronoio-nomothesia/
+ perma.cc/2NRN-Y9X5
 (1)
 
-https://www.ynanp.gr/media/documents/%CE%A0%CE%9D%CE%A0_25.2.2020.pdf
+perma.cc/FU6Q-5J4D
 (2)
 
-https://www.ynanp.gr/media/documents/%CE%9A%CE%A5%CE%91_%CE%93%CE%B5%CE%BD%CE%B9%CE%BA%CF%8C%CF%82_%CE%A0%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CF%8C%CF%82_230320.pdf
+perma.cc/RZA7-G8FV
 (3)
 
-https://www.ynanp.gr/media/documents/%CE%92_4899_%CE%88%CE%BA%CF%84%CE%B1%CE%BA%CF%84%CE%B1_%CE%9C%CE%AD%CF%84%CF%81%CE%B1.pdf
+perma.cc/U6VD-46MP
 (4)
 
-
-https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional-matter-of-life-and-death/
+perma.cc/35PL-NWJ2
 (5)
 
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
 (6)
 
-http://constitutionnet.org/state-of-emergency
+perma.cc/FN8F-4UGD
 (7)
 
-https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional-matter-of-life-and-death/
+perma.cc/6NYN-D9CA
 (8)
 
-https://verfassungsblog.de/constitutionalism-and-covid-19-in-greece-the-normality-of-emergency/
+perma.cc/KP9E-A6WU
 (9)
 
 
@@ -303,17 +301,16 @@ In Q3 of 2020 no lockdown was in place, but all other measures, i.e. regulations
  
 
 *Sources*:
- https://www.ynanp.gr/el/gr-epikoinwnias-enhmerwshs/prostasia-apo-neo-koronoio-nomothesia/
+ perma.cc/5MPC-PFRQ
 (1)
 
-https://www.ynanp.gr/media/documents/%CE%9A%CE%A5%CE%91_%CE%93%CE%B5%CE%BD%CE%B9%CE%BA%CF%8C%CF%82_%CE%A0%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CF%8C%CF%82_230320.pdf
+perma.cc/MGZ5-ZD6X
 (2)
 
-https://www.ynanp.gr/media/documents/%CE%92_4899_%CE%88%CE%BA%CF%84%CE%B1%CE%BA%CF%84%CE%B1_%CE%9C%CE%AD%CF%84%CF%81%CE%B1.pdf
+perma.cc/SQS2-CGZZ
 (3)
 
-
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
 (4)
 
 
@@ -358,17 +355,16 @@ In Q3 of 2020 no lockdown was in place, but all other measures, i.e. regulations
  
 
 *Sources*:
- https://www.ynanp.gr/el/gr-epikoinwnias-enhmerwshs/prostasia-apo-neo-koronoio-nomothesia/
+ perma.cc/5MPC-PFRQ
 (1)
 
-https://www.ynanp.gr/media/documents/%CE%9A%CE%A5%CE%91_%CE%93%CE%B5%CE%BD%CE%B9%CE%BA%CF%8C%CF%82_%CE%A0%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CF%8C%CF%82_230320.pdf
+perma.cc/MGZ5-ZD6X
 (2)
 
-https://www.ynanp.gr/media/documents/%CE%92_4899_%CE%88%CE%BA%CF%84%CE%B1%CE%BA%CF%84%CE%B1_%CE%9C%CE%AD%CF%84%CF%81%CE%B1.pdf
+perma.cc/SQS2-CGZZ
 (3)
 
-
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
 (4)
 
 
@@ -412,12 +408,11 @@ https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Te
 ''Under extraordinary circumstances of an urgent and unforeseeable need, the President of the Republic may, upon the proposal of the Cabinet, issue acts of legislative content. Such acts shall be submitted to Parliament for ratification, as specified in the provisions of article 72 paragraph 1, within forty days of their issuance or within forty days from the convocation of a parliamentary session. Should such acts not be submitted to Parliament within the above time-limits or if they should not be ratified by Parliament within three months of their submission, they will henceforth cease to be in force.'' 
 
 *Sources*:
- https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/001-156%20aggliko.pdf
+ perma.cc/C2FF-LEZ3
 (1)
 
-http://constitutionnet.org/state-of-emergency
-
-https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional-matter-of-life-and-death/
+perma.cc/4J6D-K822
+perma.cc/6HN2-ZV7V
 
 
 
@@ -459,9 +454,10 @@ https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional
  The Legislative Acts containing measures to deal with the Covid-19 pandemic have been approved by the Parliament after their issuance. The lockdown decision was part of a group of measures that were approved with a Legislative Act, but its specific content and details were issued through a Ministerial Decision (KYΑ Δ1 α/Γ.Π οικ 20036/2020 - ΦΕΚ 986/Β/22-3-2020) (4), which technically does not need (nor was granted) parliamentary approval, but it requires authorization by being published on the Government Gazette. The same procedure applied to all other measures and lockdown decisions: they were issued as Ministerial Decisions but legally referred to the initial Covid-19 Legislative Acts. 
 
 *Sources*:
- https://www.hellenicparliament.gr/Nomothetiko-Ergo/Anazitisi-Nomothetikou-Ergou?law_id=1bd1b0a6-1046-4ae2-baad-ab840154207f
+ perma.cc/P9MS-BUY9
 
-https://www.kathimerini.gr/1071643/article/epikairothta/politikh/yperyhfisthke-sth-voylh-to-nomosxedio-kyrwshs-triwn-pnp-me-ektakta-metra
+
+perma.cc/CT84-GDR5
 
 
 
@@ -515,34 +511,33 @@ In October - November 2020, the government implemented a few stricter measures i
 Nevertheless, the government has been criticized  of eroding parliamentary scrutiny in the midst of the pandemic (6), mainly for having launched several non-Covid-19 related laws, many of which quite important (environmental bills, education), with fast-track processes (using the same legal instrument - art 44 - that is being used to deal with the pandemic). 
 
 *Sources*:
- https://www.hellenicparliament.gr/Enimerosi/Grafeio-Typou/Deltia-Typou/?press=27323899-dab3-43c2-871a-ab7c0123b99c
+ perma.cc/B3MT-35QN
 (1)
-
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+perma.cc/P4V4-CHGG
 (2)
 
-http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdf
+perma.cc/9FKP-7L3H
 (3)
 
-https://vouliwatch.gr/news/article/ta-14-metra-poy-apofasise-i-voyli-gia-tin-antimetopisi-toy-koronoioy
+perma.cc/CG7R-ZTEC
 (4)
 
-https://www.kathimerini.gr/1068683/article/epikairothta/ellada/allages-sth-leitoyrgia-ths-voylhs-logw-korwnoioy
+perma.cc/EC47-8UWG
 (5)
 
-https://balkaninsight.com/2020/04/28/greek-govt-accused-of-dodging-democratic-oversight/
+perma.cc/MTA8-NC4V
 (6)
 
-https://insidestory.gr/article/off-screen-covid19-vouli-nomothetisi-koronoios
+perma.cc/TNT4-T3PH
 (7)
 
-https://www.tovima.gr/2020/10/22/society/koronoios-nea-metra-se-vouli-kai-elliniko-strato/
+perma.cc/5LZV-2XWT
 (8)
 
-https://www.naftemporiki.gr/story/1648883/nea-metra-sti-bouli-meta-to-trito-krousma-koronoiou
+perma.cc/AX7B-SXRL
 (9)
 
-https://verfassungsblog.de/constitutionalism-and-covid-19-in-greece-the-normality-of-emergency/
+perma.cc/U7HE-6HYN
 (10)
 
 
@@ -668,38 +663,35 @@ In Q4 of 2020, the government started by increasing local Covid-19 measures in h
 During Q1 of 2021, some areas with increased Covid-19 cases were put under stricter local restrictions, such as a different night time curfew (10). During Q2 of 2021, the measures were more or less uniform throughout the country (11). 
 
 *Sources*:
- https://www.reuters.com/article/us-health-coronavirus-greece-lockdown/greece-extends-coronavirus-lockdown-measures-by-a-week-to-may-4-idUSKCN2251LH
+ perma.cc/98RX-VUQA
 (1)
 
-https://www.news247.gr/koinonia/koronoios-18-erotapantiseis-gia-tin-apagoreysi-kykloforias.7607630.html
+perma.cc/2W3K-DLG7
 (2)
-
-https://www.aa.com.tr/en/europe/greece-announces-compulsory-use-of-masks/1925340
+perma.cc/Q3SK-9MPF
 (3)
-
-https://www.ekathimerini.com/255330/article/ekathimerini/news/face-masks-compulsory-in-enclosed-spaces-in-greece
+perma.cc/FP9L-4H49
 (4)
-
-https://www.tovima.gr/2020/08/16/vimatv/koronoios-ta-nea-metra-pou-tithentai-se-isxy-ti-deytera-ti-ora-tha-kleinoun-mpar-kai-estiatoria/
+perma.cc/KM9R-4UME
 (5)
 
-https://gr.usembassy.gov/health-alert/
+perma.cc/EQY2-4BRM
 (6)
-
-https://www.tornosnews.gr/en/greek-news/society/42020-greek-authorities-clarify-new-lockdown-restrictions-against-covid-19-pandemic.html
+perma.cc/M8SS-MAE8
 (7)
 
-https://www.garda.com/crisis24/news-alerts/392001/greece-curfews-to-be-imposed-in-athens-and-thessaloniki-from-october-24-update-36
+perma.cc/NTQ9-FWHY
 (8)
 
-https://www.garda.com/crisis24/news-alerts/395161/greece-additional-nationwide-covid-19-restrictions-to-be-implemented-from-november-3-update-37
+perma.cc/VB7F-YVA5
 (9)
 
-https://www.garda.com/crisis24/news-alerts/457921/greece-authorities-to-tighten-certain-localized-covid-19-restrictions-ease-some-nationwide-restrictions-starting-march-20-update-51
+perma.cc/8XMG-C477
 (10)
-
-https://www.garda.com/crisis24/news-alerts/471491/greece-authorities-ease-restrictions-for-more-international-arrivals-april-26-update-58
+perma.cc/XVN2-U7UW
 (11)
+
+
 
 
 
@@ -751,51 +743,44 @@ In Q4 of 2020, many refugee camps continued being under lockdown, but this time 
 Nevertheless, the greek government decided in November 2020 to continue controlling movement in all camps, and the police controls entry and exit: ''The Greek Government announced the control of movement until further notice in almost all the camps.'' (11). 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
+ perma.cc/5H3C-P78N
 (1)
 
-https://www.mitarakis.gr/gov/migration/1962-dt-yma-kya-periorismou
+perma.cc/4EL9-7B7P
 (2)
 
-https://www.amnesty.org/download/Documents/EUR2527762020ENGLISH.pdf
+perma.cc/4MX6-6SP2
 (3)
 
-https://www.aljazeera.com/news/2020/05/greece-extends-coronavirus-lockdown-refugee-camps-200510203054274.html
+perma.cc/P8LB-HDML
 (4)
 
-https://www.dw.com/en/greece-quarantines-migrant-camps/a-53022767
+perma.cc/GW5C-3SD7
 (5)
 
-https://www.theguardian.com/global-development/2020/may/27/greece-ready-to-welcome-tourists-as-refugees-stay-locked-down-in-lesbos-coronavirus
+perma.cc/5WBF-ECM3
 (6)
 
-
-https://www.dw.com/en/greece-reports-first-coronavirus-case-in-moria-migrant-camp-on-lesbos/a-54792666
+perma.cc/E7YU-K5LF
 (7)
 
-https://www.ecre.org/greece-10000-people-prevented-access-lockdown-extended-recognition-rate-increases/
+perma.cc/WK86-Z2G9
 (8)
 
-
-https://www.infomigrants.net/en/post/28152/malakasa-camp-inaction-and-uncertainty-trap-migrants-despite-end-to-lockdown
+perma.cc/J5Q4-ABUM
 (9)
 
-https://www.ekathimerini.com/258364/article/ekathimerini/news/lockdown-extended-to-nov-4-for-chios-migrant-camp
+perma.cc/PBC7-QXBY
 (10)
 
-https://www.refugee.info/greece/coronavirus-emergency-in-greece/update-on-reception-identification-centers-on-the-greek-islands-lesvos-samos?language=en
+perma.cc/4Z7R-9GG6
 (11)
 
-
-https://www.infomigrants.net/en/post/25818/greece-extends-migrant-camp-lockdown-again-amid-criticism
-
-https://www.infomigrants.net/en/post/26138/lockdown-in-refugee-camps-on-greek-islands-discriminatory-msf-says
-
-https://www.voanews.com/covid-19-pandemic/greece-extends-lockdown-more-120000-migrants-refugees
-
-https://www.doctorswithoutborders.org/what-we-do/news-stories/news/greece-imposes-dangerous-lockdown-moria-refugee-camp-after-first-covid
-
-https://www.hrw.org/world-report/2021/country-chapters/greece
+perma.cc/SWL9-DTLM
+perma.cc/6BEA-8ZFM
+perma.cc/FJ62-ZK4E
+perma.cc/VWS8-44VM
+perma.cc/VN6K-S5UE
 
 
 
@@ -853,33 +838,29 @@ These developments have violated the freedom from torture and cruel/inhuman trea
 “The Human Rights Committee has also interpreted the International Covenant on Civil and Political Rights (ICCPR) to encompass the principle of non-refoulement. Article 7 of the ICCPR affirms that “[n]o one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.” As one legal commentator points out, the “prohibition on refoulement is inferred as a component of the absolute prohibition of torture as well as inhuman and degrading treatment.” (8; 1). 
 
 *Sources*:
- https://www.justsecurity.org/73593/covid-19-and-international-law-refugee-law-the-principle-of-non-refoulement/
+ perma.cc/YBT2-GFCP
 (1)
 
-https://www.justsecurity.org/72955/torture-by-rescue-asylum-seeker-pushbacks-in-the-aegean/
+
+perma.cc/QR88-88GE
 (2)
 
-https://www.nytimes.com/2020/08/14/world/europe/greece-migrants-abandoning-sea.html
+perma.cc/AM5E-CRSD
 (3)
 
-https://www.spiegel.de/consent-a-?targetUrl=https%3A%2F%2Fwww.spiegel.de%2Finternational%2Feurope%2Feu-border-agency-frontex-complicit-in-greek-refugee-pushback-campaign-a-4b6cba29-35a3-4d8c-a49f-a12daad450d7%3Futm_source%3Ddlvr.it%26utm_medium%3Dtwitter%23ref%3Drss&ref=https%3A%2F%2Fwww.justsecurity.org%2F
+perma.cc/F96K-9K8Q
 (4)
 
-https://www.hrw.org/news/2020/07/16/greece-investigate-pushbacks-collective-expulsions
+perma.cc/N5GU-XXSB
 (5)
-
-https://www.bbc.com/news/world-europe-51695468
+perma.cc/78PC-BKTY
 (6)
 
-https://www.infomigrants.net/en/post/24843/greece-asylum-service-reopens-after-11-week-pause
+perma.cc/YTG9-3QRV
 (7)
 
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2992709#:~:text=The%20cornerstone%20of%20refugee%20protection,may%20be%20submitted%20to%20torture
+perma.cc/75JN-WRWV
 (8)
-
-
-
-
 
 
 
@@ -925,13 +906,13 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2992709#:~:text=The%20corner
  No de jure media limitations found in the emergency measures. 
 
 *Sources*:
- https://www.ynanp.gr/el/gr-epikoinwnias-enhmerwshs/prostasia-apo-neo-koronoio-nomothesia/
-
-https://covid19.gov.gr/nomothesia-gia-ton-covid-19/
-
-https://www.acaps.org/covid19-government-measures-dataset
+ perma.cc/9Q8L-NHCR
 
 
+perma.cc/2R7A-VZ7B
+
+
+perma.cc/65Z2-K662
 
 
 
@@ -1061,21 +1042,25 @@ Throughout the pandemic, journalists had to get the government’s permission be
 In addition, when the Greek government allocated a controversial 20-million-euro public information campaign about the virus, investigative media and outlets critical of the government received less than 1 percent of the total sum, compared to pro-government outlets, and one particularly anti-government outlet was excluded entirely from the funding (1, 6). 
 
 *Sources*:
- https://ipi.media/the-covid-19-crisis-highlights-greeces-media-problem/
+ perma.cc/V3M6-VGAD
 (1)
 
-https://ipi.media/alerts/greek-journalist-pushed-out-of-job-after-probing-covid-19-report/
+perma.cc/H8J3-HQW8
 (2)
-https://www.ieidiseis.gr/eidiseis/media/item/72324-paraitithike-i-dimitra-kroustalli-me-kataggelies-gia-asfyktikes-pieseis-apo-to-maksimou-gia-ta-dipla-vivlia
+
+perma.cc/2XNK-6HRN
 (3)
-https://www.ecpmf.eu/monitor/mapping-media-freedom/
+
+perma.cc/AT8T-RV7N
 (4)
-https://ipi.media/covid19-media-freedom-monitoring/
+
+perma.cc/T68Z-NFQF
 (5)
-https://rsf.org/en/greece
+
+perma.cc/4FED-E78A
 (6)
 
-https://www.aljazeera.com/news/2021/4/20/rsf-raises-alarm-over-deteriorating-press-freedom-in-greece
+perma.cc/J9F9-SETU
 
 
 
@@ -1127,21 +1112,24 @@ Throughout the pandemic, journalists had to get the government’s permission be
 In addition, when the Greek government allocated a controversial 20-million-euro public information campaign about the virus, investigative media and outlets critical of the government received less than 1 percent of the total sum, compared to pro-government outlets, and one particularly anti-government outlet was excluded entirely from the funding (1, 6). 
 
 *Sources*:
- https://ipi.media/the-covid-19-crisis-highlights-greeces-media-problem/
+ perma.cc/V3M6-VGAD
 (1)
 
-https://ipi.media/alerts/greek-journalist-pushed-out-of-job-after-probing-covid-19-report/
+perma.cc/H8J3-HQW8
 (2)
-https://www.ieidiseis.gr/eidiseis/media/item/72324-paraitithike-i-dimitra-kroustalli-me-kataggelies-gia-asfyktikes-pieseis-apo-to-maksimou-gia-ta-dipla-vivlia
+
+perma.cc/2XNK-6HRN
 (3)
-https://www.ecpmf.eu/monitor/mapping-media-freedom/
+
+perma.cc/AT8T-RV7N
 (4)
-https://ipi.media/covid19-media-freedom-monitoring/
+
+perma.cc/T68Z-NFQF
 (5)
-https://rsf.org/en/greece
+perma.cc/4FED-E78A
 (6)
 
-https://www.aljazeera.com/news/2021/4/20/rsf-raises-alarm-over-deteriorating-press-freedom-in-greece
+perma.cc/J9F9-SETU
 
 
 
@@ -1187,16 +1175,15 @@ In addition, when the Greek government allocated €20 million to media outlets 
 Also, ''media in Greece rank among the least trusted by the public, compared to other countries in Europe.... a combination of ownership issues, drastic cuts in costs and jobs, and a peculiar relationship to political power, has produced a deeply problematic media landscape, where unbiased, dispassionate coverage is hard to find....During Covid-19, the partisanship of Greek media played out even more intensely. Stories about government contracts that were handed out in less than clear circumstances were featured only in a handful of independent, alternative outlets. Scrutiny over how the government would meet the challenge of building up a public healthcare system devastated by years of cuts was likewise absent from the majority of the media. Questions over the government’s implementation of safety protocols for travelers from abroad were largely unasked...'' (1). 
 
 *Sources*:
- https://ipi.media/the-covid-19-crisis-highlights-greeces-media-problem/
+ perma.cc/2CRL-TJ7S
 (1)
 
-https://ipi.media/alerts/greek-journalist-pushed-out-of-job-after-probing-covid-19-report/
+perma.cc/T74J-ARVT
 (2)
-https://www.ecpmf.eu/monitor/mapping-media-freedom/
 
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/greece
+perma.cc/TP5Y-49ZH
+perma.cc/F3J4-L4FQ
+perma.cc/7F8L-FVB4
 (6)
 
 
@@ -1250,29 +1237,29 @@ Also, opposition media outlets in July 2020 were excluded from a government supp
 Another incident occurred on 20 March 2021. ''Kostas Vaxevanis, publisher of the Athens-based newspaper Documento, tweeted that an arrest warrant had been issued against him. His newspaper had published the full text of a lawsuit lodged against him personally by 22 police officers, with their names on its front page. The policemen were under investigation for the torture of a young activist. Earlier, on 9 March 2021, clashes had erupted between the police and some of the 5,000 protesters who had gathered in the middle-class Athens suburb of Nea Smyrni to demonstrate against police brutality while enforcing Covid-19 quarantine measures. The protest was prompted by a recent event in the neighbourhood, when a rapid response squad out on Covid-curfew patrol harassed a family and then attacked a young man who stepped in to argue in their defence.'' (7). 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
+ perma.cc/Y56A-4RT6
 (1)
 
-https://www.efsyn.gr/ellada/koinonia/240641_se-karantina-i-enimerosi-haropaleyei-i-eleytheria-toy-typoy
+perma.cc/93AQ-BK5J
 (2)
 
-http://www.ertopen.com/news/ellada/item/56727-ti-foboyntai-kai-den-afhnoyn-toys-dhmosiografoys-na-rwtoyn-ton-kath-tsiodra
+perma.cc/R85C-FZ7R
 (3)
 
-https://medium.com/athenslivegr/opaque-government-spending-and-vindictiveness-in-greek-mass-media-a5e2e79e0ae1
+perma.cc/L398-LXVD
 (4)
 
-https://www.ecpmf.eu/mfrr-partners-raise-concerns-over-proposed-low-funding-for-opposition-media-outlets-in-greece/
+perma.cc/NYB5-LC9C
 (5)
 
-https://rsf.org/en/greece
+perma.cc/73RB-VF8Q
 (6)
 
-https://www.opendemocracy.net/en/can-europe-make-it/press-freedom-in-greece-is-under-threat-from-the-government-and-itself/
+perma.cc/Z8NC-7H7F
 (7)
-https://ipi.media/the-covid-19-crisis-highlights-greeces-media-problem/
 
-https://www.aljazeera.com/news/2021/4/20/rsf-raises-alarm-over-deteriorating-press-freedom-in-greece
+perma.cc/Q9M7-4G8N
+perma.cc/TU9Q-7WJA
 
 
 
@@ -1318,23 +1305,21 @@ https://www.aljazeera.com/news/2021/4/20/rsf-raises-alarm-over-deteriorating-pre
 Since December 2020 up to May 2021, there have been many incidents of police violence against journalists covering protests, but these were unrelated to Covid-19 coverage. (7) 
 
 *Sources*:
- https://ipi.media/greece-ipi-denounces-detention-and-intimidation-of-documento-journalist-in-athens/
+ perma.cc/Z2WZ-F32H
 (1)
 
-https://www.koutipandoras.gr/article/epithesi-tis-astynomias-se-dimosiografo-toy-koutipandorasgr-kai-toy-documento?fbclid=IwAR0p4g_GXLptMO3R_Dg-cQJwaj343NQD_NaM3pfFksqSHLMYCEfBwOMXy3A
+perma.cc/22WS-TNZT
 (2)
 
-https://www.koutipandoras.gr/article/my-personal-experience-and-testimony
+perma.cc/249G-6P3X
 (3)
 
-https://www.ecpmf.eu/monitor/mapping-media-freedom/
+perma.cc/2WRS-EPTK
 (4)
 
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/rsf_search?key=greece
-
-https://www.mappingmediafreedom.org/country-profiles/greece/
+perma.cc/B6XZ-UB76
+perma.cc/53VU-HTMS
+perma.cc/W6LG-R94J
 (7)
 
 
@@ -1381,23 +1366,21 @@ https://www.mappingmediafreedom.org/country-profiles/greece/
 Since December 2020 up to May 2021, there have been many incidents of police violence against journalists covering protests, but these were unrelated to Covid-19 reporting. (7) 
 
 *Sources*:
- https://ipi.media/greece-ipi-denounces-detention-and-intimidation-of-documento-journalist-in-athens/
+ perma.cc/Q9TD-V2V2
 (1)
 
-https://www.koutipandoras.gr/article/epithesi-tis-astynomias-se-dimosiografo-toy-koutipandorasgr-kai-toy-documento?fbclid=IwAR0p4g_GXLptMO3R_Dg-cQJwaj343NQD_NaM3pfFksqSHLMYCEfBwOMXy3A
+perma.cc/RG2A-G9A6
 (2)
 
-https://www.koutipandoras.gr/article/my-personal-experience-and-testimony
+perma.cc/89R8-UXM6
 (3)
 
-https://www.ecpmf.eu/monitor/mapping-media-freedom/
+perma.cc/4N8E-YAEU
 (4)
 
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/rsf_search?key=greece
-
-https://www.mappingmediafreedom.org/country-profiles/greece/
+perma.cc/UF75-6HQM
+perma.cc/94UJ-J67Q
+perma.cc/8RWB-F47S
 (7)
 
 
@@ -1448,23 +1431,21 @@ Further, two prominent MPs from the ruling party participated in the holy commun
 Although the greek PM has not defended these practices and incidents, he has nevertheless avoided taking a clear stance against the Orthodox church, or making his position fully clear on the holy communion issue. 
 
 *Sources*:
- https://eody.gov.gr/en/
+ perma.cc/X9AA-V37H
 (1)
 
-https://www.nytimes.com/2020/12/05/world/greece-orthodox-church-coronavirus.html
+perma.cc/KWS3-M9PJ
 (2)
 
-https://www.koutipandoras.gr/article/elena-rapti-ego-simera-koinonisa-kai-tha-synehiso-na-koinono
+perma.cc/239Z-5VBE
 (3)
 
-https://www.efsyn.gr/ellada/koinonia/260373_pyrinas-metadosis-toy-ioy-i-theia-koinonia-anaferei-kathigitis-genetikis
+perma.cc/A8PX-H2VN
 (4)
 
-https://www.dw.com/en/orthodox-church-undermines-greeces-covid-pandemic-measures/a-56251674
-
-https://apnews.com/article/thessaloniki-europe-coronavirus-pandemic-greece-40c58013dd8ad162b343d798ee2c649f
-
-https://www.skai.gr/news/politics/to-karfi-xardalia-gia-theia-koinonia-ypourgou-syggnomi-koumoutsakou
+perma.cc/J7GX-3BZQ
+perma.cc/257H-3R53
+perma.cc/L7BQ-SM85
 
 
 
@@ -1515,50 +1496,44 @@ Police violence and citizens' reactions against it peaked after the police attac
 ''Reports surfaced about police excessive use of force and illtreatment against people who gathered in Athens and Thessaloniki. Reported misuse of chemical irritants by police, beatings, verbal abuse and threats by riot police as well as police officers belonging to the DRASIS force. According to witnesses, the police transferred people in police station without measures taken to protect them from Covid-19 infection, not allowed to contact their lawyers for several hours and did not receive medical assistance for their injuries.'' (16) 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
+ perma.cc/4JRC-9N5J
 (1)
 
-https://www.ekathimerini.com/252406/article/ekathimerini/news/covid-concern-after-police-break-up-outdoor-gatherings
+perma.cc/Y2WF-2VV3
 (2)
 
-https://www.voanews.com/covid-19-pandemic/greek-police-tackle-corona-parties-government-eases-lockdown
+perma.cc/U3TF-M7LH
 (3)
 
-https://balkaninsight.com/2020/05/14/in-pandemic-era-greece-fighting-for-control-of-the-square/
+perma.cc/Q4L5-J6DW
 (4)
 
-https://apnews.com/article/virus-outbreak-greece-archive-athens-cc3101f260cdaba90098d209c2ab0d36
+perma.cc/T698-PYBD
 (5)
 
-https://apnews.com/article/thessaloniki-health-coronavirus-pandemic-athens-greece-e3ee760eb7362cff75b78c6faf21d2c4
+perma.cc/XQR3-KUY5
 (6)
-
-https://www.aljazeera.com/news/2020/11/16/greek-protests-coronavirus
+perma.cc/9P97-T6CP
 (7)
 
-https://www.aa.com.tr/en/europe/over-100-demonstrators-detained-in-greek-capital/2067702
-
-https://www.aljazeera.com/news/2020/12/6/greek-police-arrest-dozens-at-march-in-memory-of-slain-teen
-
-https://www.ekathimerini.com/news/1156869/police-officer-suspended-after-man-beaten-during-covid-19-checks/
+perma.cc/L3FT-GMJC
+(8)
+perma.cc/4VX3-UHLK
+(9)
+perma.cc/F4K2-NJ7W
 (10)
-
-https://civicspacewatch.eu/greece-restrictions-to-public-gatherings-and-police-violence-threaten-right-to-peaceful-assembly-during-covid-19/
+perma.cc/GW7K-CBXS
 (11)
-
-https://www.reuters.com/article/us-greece-protests-idUSKBN2B2246
+perma.cc/J2DT-F8WQ
 (12)
 
-https://www.ethnos.gr/ellada/148870_astynomiki-bia-diarkeias-kanoyn-ede-kai-toys-bgazoyn-ladi
+perma.cc/LRU3-MVAH
 (13)
-
-https://thepressproject.gr/to-propo-eklise-ta-matia-stin-astynomiki-via-stin-kypseli-ke-anakalypse-senaria-pagidefsis-ton-astynomikon/
+perma.cc/E67W-JWFU
 (14)
-
-https://thepressproject.gr/eisvoli-astynomikon-kai-via-mesa-se-polykatoikia-kynigontas-politi-pou-cheirokrotise-eironika/
+perma.cc/3NZJ-KKUX
 (15)
-
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+perma.cc/PF4V-UEY6
 (16)
 
 
@@ -1601,4 +1576,4 @@ https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%
  The greek police is responsible for enforcing the lockdown measures. In addition, the Municipal Police, the Hellenic Coast Guard in their respective authority areas, and the National Transparency Authority participate in the enforcement efforts wherever necessary. The military has been enrolled in somce cases to help out with the vaccination processes. 
 
 *Sources*:
- https://www.news247.gr/koinonia/koronoios-18-erotapantiseis-gia-tin-apagoreysi-kykloforias.7607630.html
+ perma.cc/4WAX-VWES

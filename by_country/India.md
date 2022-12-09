@@ -47,17 +47,13 @@ Information related to the issues that are included and not included in the NDMA
 
 *Sources*:
  [1]
-https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
-
+https://perma.cc/CL8C-JLYL
 [2]
-https://www.bbc.com/news/world-asia-india-52277096
-
+https://perma.cc/9EZ8-J48T
 [3]
-https://ndma.gov.in/index.php/covid/NDMA-Orders_Advisories
-
+https://perma.cc/2CYJ-939G
 [4]
-https://verfassungsblog.de/covid-19-and-the-crisis-in-indian-democracy/
-
+https://perma.cc/6AJV-3LTD
 
 
 
@@ -96,10 +92,10 @@ https://verfassungsblog.de/covid-19-and-the-crisis-in-indian-democracy/
  Information related to the issues that are included and not included in the NDMA has been removed from the official website. 
 
 *Sources*:
- https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
+ https://perma.cc/CL8C-JLYL
 
 
-https://www.bbc.com/news/world-asia-india-52277096
+https://perma.cc/9EZ8-J48T
 
 
 
@@ -138,10 +134,10 @@ https://www.bbc.com/news/world-asia-india-52277096
 *No comment provided* 
 
 *Sources*:
- https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
+ https://perma.cc/CL8C-JLYL
 
 
-https://www.bbc.com/news/world-asia-india-52277096
+https://perma.cc/9EZ8-J48T
 
 
 
@@ -180,7 +176,7 @@ https://www.bbc.com/news/world-asia-india-52277096
 *No comment provided* 
 
 *Sources*:
- https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
+ https://perma.cc/CL8C-JLYL
 
 
 
@@ -224,11 +220,8 @@ https://www.bbc.com/news/world-asia-india-52277096
 Information related to the issues that are included and not included in the NDMA has been removed from the official website. 
 
 *Sources*:
- 
-
-
-[1]
-https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
+ [1]
+https://perma.cc/CL8C-JLYL
 
 
 
@@ -269,9 +262,7 @@ https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
 Information related to the issues that are included and not included in the NDMA has been removed from the official website. 
 
 *Sources*:
- 
-
-https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
+ https://perma.cc/CL8C-JLYL
 
 
 
@@ -357,8 +348,7 @@ Information related to the issues that are included and not included in the NDMA
 *No comment provided* 
 
 *Sources*:
- 
-https://www.bloombergquint.com/law-and-policy/the-legal-process-behind-the-21-day-national-lockdown-order
+ https://perma.cc/28PA-2QER
 
 
 
@@ -408,10 +398,10 @@ On 23 March 2020, the Indian parliament adjourned the first session of 2020 for 
 The Indian parliament has not been adjourned or dissolved again since September 2020. 
 
 *Sources*:
- https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
+ https://perma.cc/CL8C-JLYL
 
 
-https://pib.gov.in/newsite/PrintRelease.aspx?relid=200625
+https://perma.cc/58DC-TB38
 
 
 
@@ -541,17 +531,19 @@ https://pib.gov.in/newsite/PrintRelease.aspx?relid=200625
 There are no nationwide measures that have been issued in Q1 and Q2 of 2021. Measures have continued to be enforced at the sub national level. For example, the area of Maharashtra was put under a week long lockdown from 23 February 2021 to 1 March 2021. Hence I have continued to code this variable as 3. 
 
 *Sources*:
- https://www.hindustantimes.com/india-news/covid-19-disaster-act-invoked-for-the-1st-time-in-india/story-EN3YGrEuxhnl6EzqrlreWM.html
+ https://perma.cc/8XD2-TGCP
 
 
-https://www.tribuneindia.com/news/himachal/himachal-bans-entry-of-domestic-foreign-tourists-amid-coronavirus-threat-58038
+https://perma.cc/AT3G-4BP3
 
 
-https://thewire.in/government/odisha-covid-19-response
+https://perma.cc/9HAW-K22B
 
-https://www.ndtv.com/india-news/amravati-covid-lockdown-please-cooperate-else-cops-on-lockdown-in-maharashtras-amravati-2376678
 
-https://www.indiatoday.in/coronavirus-outbreak/story/nagpur-7-day-lockdown-coronavirus-cases-rise-maharashtra-1779448-2021-03-15
+https://perma.cc/M3P9-KJ47
+
+
+https://perma.cc/S4CX-VHYK
 
 
 
@@ -602,29 +594,37 @@ I have not found evidence suggesting that the situation with Muslims being discr
  
 
 *Sources*:
- https://indianexpress.com/article/coronavirus/ahmedabad-covid-19-coronavirus-hospital-ward-6363040/
-
-https://www.aljazeera.com/news/2020/04/india-hospital-segregates-muslim-hindu-coronavirus-patients-200416080547650.html
+ https://perma.cc/K6GB-3GLX
 
 
-https://www.thehindu.com/news/national/other-states/covid-19-patients-segregated-on-basis-of-religion-at-ahmedabad-civil-hospital-according-to-reports/article31344862.ece
+https://perma.cc/NE8X-MSFT
 
 
-https://freedomhouse.org/article/state-sponsored-religious-discrimination-rises-pandemic
+https://perma.cc/DNN3-BVF4
 
 
-https://www.aljazeera.com/news/2020/04/buy-muslims-bjp-leader-india-calls-boycott-200429034119722.html
-
-https://www.thehindu.com/news/national/other-states/uttar-pradesh-bjp-mla-caught-on-camera-telling-people-not-to-buy-vegetables-from-muslim-vendors/article31452761.ece
-
-https://www.indiatoday.in/india/story/do-not-buy-vegetables-from-muslims-deoria-bjp-mla-suresh-tiwari-1671961-2020-04-28
+https://perma.cc/5HMQ-3EHG
 
 
-https://www.bmj.com/content/369/bmj.m2280
+https://perma.cc/DP9G-6NCH
 
-https://blogs.lse.ac.uk/medialse/2020/09/24/disinformation-against-indian-muslims-during-the-covid-19-pandemic/
 
-https://www.frontiersin.org/articles/10.3389/fpsyt.2020.604949/full
+https://perma.cc/HXT5-FU3M
+
+
+https://perma.cc/K9MC-FWHT
+
+
+https://perma.cc/L9C9-TDC9
+
+
+https://perma.cc/P8M6-6WJJ
+
+
+https://perma.cc/8Q94-LTGG
+
+
+
 
 
 
@@ -673,10 +673,10 @@ https://www.frontiersin.org/articles/10.3389/fpsyt.2020.604949/full
  No evidence found of direct violations of non-derogable rights by the emergency measures. 
 
 *Sources*:
- 
-https://www.hrw.org/news/2020/06/30/deaths-custody-india-highlight-police-torture
+ https://perma.cc/PC7Q-8Q92
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/india/
+
+https://perma.cc/Y5DL-ARAC
 
 
 
@@ -761,9 +761,10 @@ Information related to the issues that are included and not included in the NDMA
 *No comment provided* 
 
 *Sources*:
- https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
+ https://perma.cc/CL8C-JLYL
 
-https://www.bbc.com/news/world-asia-india-52277096
+
+https://perma.cc/9EZ8-J48T
 
 
 
@@ -802,8 +803,7 @@ https://www.bbc.com/news/world-asia-india-52277096
 *No comment provided* 
 
 *Sources*:
- 
-https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
+ https://perma.cc/CL8C-JLYL
 
 
 
@@ -855,26 +855,34 @@ https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
 Given the general restricted nature of the media environment in India (RSF ranks India 142 out of 180 countries), we can assume that de-facto limitations on reporting about the nature of Covid-19 continue to exist even if such incidences are not widely reported. 
 
 *Sources*:
- https://rsf.org/en/news/how-indias-government-tries-suppress-all-covid-19-reporting
-
-https://www.indiatoday.in/coronavirus-outbreak/story/coronavirus-in-india-govt-plays-down-limited-community-transmission-wording-in-official-release-1661406-2020-03-30
-
-https://scroll.in/pulse/957613/health-reporters-have-10-questions-for-the-government-as-indias-coronavirus-crisis-deepens
-
-https://twitter.com/sharmasupriya/status/1245312425441636352
+ https://perma.cc/GQV6-VPSR
 
 
-https://www.dw.com/en/can-indian-media-report-freely-about-the-covid-19-crisis/a-53728264
+https://perma.cc/GA7S-FMJ7
 
 
-https://www.cjr.org/analysis/delhi-india-violence-modi-press-freedom.php
+https://perma.cc/49KT-76UQ
 
 
-https://www.freepressjournal.in/india/national-press-day-read-about-journalists-who-were-jailed-and-killed-in-india
+https://perma.cc/TLG4-RUDF
 
-https://blogs.lse.ac.uk/medialse/2021/05/07/india-cannot-breathe-is-the-media-choking-it-further/
 
-https://qz.com/india/2003124/india-censored-100-covid-19-posts-on-twitter-facebook-this-week/
+https://perma.cc/K85P-8SWJ
+
+
+https://perma.cc/2W6Y-HDV3
+
+
+https://perma.cc/D6Y3-S64V
+
+
+https://perma.cc/PE2M-U952
+
+
+https://perma.cc/PF6P-DCCS
+
+
+
 
 
 
@@ -922,20 +930,22 @@ On April 2021, the Indian government, asked Twitter, Facebook and Instagram to t
 Given the general restricted nature of the media environment in India (RSF ranks India 142 out of 180 countries), we can assume that limitations on media reporting about the government response continue to exist even if such incidences are not widely reported. 
 
 *Sources*:
- https://rsf.org/en/news/indian-newspaper-accused-fake-news-about-lockdowns-impact-poor
+ https://perma.cc/TV3Y-7UXL
 
 
-https://www.nationalheraldindia.com/india/lockdown-impact-in-modi-constituency-dalit-kids-forced-to-eat-grass-reporter-faces-dms-wrath
+https://perma.cc/3P4X-NRXG
 
 
-https://www.dw.com/en/can-indian-media-report-freely-about-the-covid-19-crisis/a-53728264
+https://perma.cc/4X7N-ERZP
 
 
-https://www.freepressjournal.in/india/national-press-day-read-about-journalists-who-were-jailed-and-killed-in-india
+https://perma.cc/SKQ8-9NE6
 
-https://blogs.lse.ac.uk/medialse/2021/05/07/india-cannot-breathe-is-the-media-choking-it-further/
 
-https://qz.com/india/2003124/india-censored-100-covid-19-posts-on-twitter-facebook-this-week/
+https://perma.cc/JB5M-9PUA
+
+
+https://perma.cc/PK9Y-F6MG
 
 
 
@@ -977,7 +987,7 @@ https://qz.com/india/2003124/india-censored-100-covid-19-posts-on-twitter-facebo
  I did not find any information related to this across all time periods. However, there are already many instruments in place that heavily restricts and controls the media in India. 
 
 *Sources*:
- https://rsf.org/en/india
+ https://perma.cc/NY9G-5FUD
 
 
 
@@ -1024,20 +1034,25 @@ After this, the health ministry’s representatives told reporters that they wou
 On April 2021, the Indian government, asked Twitter, Facebook and Instagram to take down more that 100 posts that were critical to the government's response to the pandemic. And on 23 April 2021, the government blocked more than 50 tweets from people who were critical of the governments handling of the pandemic. 
 
 *Sources*:
- https://rsf.org/en/news/how-indias-government-tries-suppress-all-covid-19-reporting
-
-https://www.indiatoday.in/coronavirus-outbreak/story/coronavirus-in-india-govt-plays-down-limited-community-transmission-wording-in-official-release-1661406-2020-03-30
-
-https://scroll.in/pulse/957613/health-reporters-have-10-questions-for-the-government-as-indias-coronavirus-crisis-deepens
-
-https://twitter.com/sharmasupriya/status/1245312425441636352
-
-https://ipi.media/covid19-media-freedom-monitoring/
+ https://perma.cc/GQV6-VPSR
 
 
-https://blogs.lse.ac.uk/medialse/2021/05/07/india-cannot-breathe-is-the-media-choking-it-further/
+https://perma.cc/GA7S-FMJ7
 
-https://qz.com/india/2003124/india-censored-100-covid-19-posts-on-twitter-facebook-this-week/
+
+https://perma.cc/49KT-76UQ
+
+
+https://perma.cc/TLG4-RUDF
+
+
+https://perma.cc/H8QJ-CLE3
+
+
+https://perma.cc/J79V-D3YC
+
+
+https://perma.cc/PW9D-LNRG
 
 
 
@@ -1080,15 +1095,11 @@ https://qz.com/india/2003124/india-censored-100-covid-19-posts-on-twitter-facebo
 
 *Sources*:
  [1]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/india/
-
-
+https://perma.cc/Y5DL-ARAC
 [2]
-https://rsf.org/en/barometer?year=2020
-
+https://perma.cc/3BHP-SG2L
 [3]
-https://www.hrw.org/world-report/2021/country-chapters/india
-
+https://perma.cc/2YKC-DDW2
 
 
 
@@ -1142,33 +1153,46 @@ https://www.hrw.org/world-report/2021/country-chapters/india
  
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/india/
+ https://perma.cc/Y5DL-ARAC
 
-https://rsf.org/en/barometer?year=2020
 
-https://www.hrw.org/world-report/2021/country-chapters/india
+https://perma.cc/3BHP-SG2L
 
-https://www.thehindu.com/data/data-five-journalists-arrested-in-january-2021-the-highest-in-any-year-since-1992/article33830579.ece
 
-https://www.theguardian.com/global-development/2020/jul/31/india-arrests-50-journalists-in-clampdown-on-critics-of-covid-19-response
+https://perma.cc/2YKC-DDW2
 
-https://ipi.media/alerts/journalist-arrested-in-indias-manipur-state-after-criticizing-the-government-for-its-covid-19-response/
 
-https://thewire.in/media/covid-19-journalists-arrested-booked-report
+https://perma.cc/4MYC-EW5Z
 
-https://www.thehindu.com/news/national/editors-guild-demands-release-of-3-manipur-journalists/article33601072.ece
 
-https://rsf.org/en/news/surge-harassment-indian-reporters-over-coronavirus-coverage
+https://perma.cc/8MBN-23RE
 
-https://www.newslaundry.com/2020/05/02/up-journalist-interrogated-by-police-for-story-on-low-quality-ppes
 
-https://www.thehindu.com/news/national/other-states/journalist-held-for-publishing-speculative-story-on-change-of-guard-in-gujarat/article31563046.ece
+https://perma.cc/2JE7-CHXL
 
-https://www.bbc.com/news/world-asia-india-55906345
 
-https://ipi.media/legal-harassment-of-journalists-increases-amidst-farmer-protests-in-india/
+https://perma.cc/QH2X-UMMK
 
-https://rsf.org/en/news/india-harassment-reporters-covering-new-delhi-farmers-protests
+
+https://perma.cc/J5AJ-DST9
+
+
+https://perma.cc/NZ3J-NMZJ
+
+
+https://perma.cc/V8GP-XSQ4
+
+
+https://perma.cc/ZS4J-X6AZ
+
+
+https://perma.cc/U73R-XL8T
+
+
+https://perma.cc/3S5B-BGG3
+
+
+https://perma.cc/9B7V-ZN4C
 
 
 
@@ -1212,11 +1236,13 @@ https://rsf.org/en/news/india-harassment-reporters-covering-new-delhi-farmers-pr
  In mid April 2021, V K Paul, a senior government official encouraged peple to consult "alternative therapy practitioners" if they were having mild versions of Covid-19. He also advised people to consume "chyawanprash" which is a dietary supplment and "kadha" which is a brew of herbs and spices to improve their immunity. There is no scientific and documented proof of these remedies. 
 
 *Sources*:
- https://www.mohfw.gov.in/
+ https://perma.cc/64ST-XL5G
 
-https://www.dw.com/en/india-covid-misinformation/a-57414876
 
-https://www.hindustantimes.com/india-news/paul-recommends-chyawanprash-ayurveda-experts-criticise-remarks-101618340743478.html
+https://perma.cc/KXC8-9DCK
+
+
+https://perma.cc/CEW4-P2RW
 
 
 
@@ -1272,30 +1298,18 @@ There have also been reports of the police using force on people from the lower 
 The police across the country continue to use violence to carry out the emergency measures. Hence I have continued to code this variable as 2 across all the time periods. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/india/
-
-https://www.hrw.org/world-report/2021/country-chapters/india
-
-https://www.youtube.com/watch?v=YIFm0a1D5qY
-
-https://www.reuters.com/article/us-health-coronavirus-india-police/coronavirus-spreads-among-indian-police-enforcing-worlds-largest-lockdown-idUSKBN22I1YH
-
-https://www.openglobalrights.org/addressing-police-brutality-in-india-during-COVID-19/
-
-https://www.newslaundry.com/2020/03/31/lockdown-brutality-continues-policeman-assaults-adivasi-women-in-assam
-
-https://indianexpress.com/article/india/gujarat-police-brutality-on-dalits-during-lockdown-6339140/
-
-
-https://www.bbc.com/news/av/world-asia-india-53521559
-
-https://apnews.com/article/virus-outbreak-police-international-news-india-police-brutality-434547757272fecb25777597c8cb333c
-
-https://www.straitstimes.com/asia/south-asia/covid-19-duties-a-challenge-for-indias-police
-
-https://www.reuters.com/video/watch/idPqZx?now=true
-
-https://www.youtube.com/watch?v=YIFm0a1D5qY
+ https://perma.cc/Y5DL-ARAC
+https://perma.cc/2YKC-DDW2
+https://perma.cc/4H4A-U3TH
+https://perma.cc/S3SN-VL5G
+https://perma.cc/F44A-2FAA
+https://perma.cc/9CFZ-TULY
+https://perma.cc/UZ73-9FVZ
+https://perma.cc/W7B5-SXSL
+https://perma.cc/8LN3-ZN6P
+https://perma.cc/GG6P-S3XJ
+https://perma.cc/UGQ5-R87G
+https://perma.cc/X9JY-9ERR
 
 
 
@@ -1338,11 +1352,13 @@ https://www.youtube.com/watch?v=YIFm0a1D5qY
 The military has been have been deployed to help with in the make-shift hospitals in May 2021. However, they have not been involved in enforcing any of the confinement measures. 
 
 *Sources*:
- https://thediplomat.com/2020/03/indian-army-prepares-to-assist-in-virus-response-measures/
+ https://perma.cc/U5YL-JWHP
 
 
-https://theprint.in/defence/this-is-how-the-indian-military-is-trying-to-prevent-covid-19-from-entering-its-bases/386533/
+https://perma.cc/PL3S-JM3Y
 
-https://www.theweek.in/news/india/2021/05/12/why-india-should-give-a-larger-role-to-military-in-combating-cov.html
 
-https://www.bbc.com/news/world-asia-india-56972286
+https://perma.cc/R2ZK-9KQH
+
+
+https://perma.cc/SE2R-J42L

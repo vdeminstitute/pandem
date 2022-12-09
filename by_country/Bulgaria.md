@@ -45,16 +45,14 @@
  State of emergency declared by the National Assembly from 13 March 2010 until 13 May 2020. On 14 May 2020, “nationwide epidemic situation" (izvunredna epidemiologichna obstanovka, can be translated as "extraordinary epidemiological circumstances" was initially declared for one month, which was extended several times (the latest extension is until 31.07.2021) 
 
 *Sources*:
- https://www.parliament.bg/bills/44/054-01-24.pdf
-https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146931
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
-https://www.osce.org/files/f/documents/e/c/457567_0.pdf
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-
-https://fra.europa.eu/sites/default/files/fra_uploads/bg_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.mh.government.bg/media/filer_public/2021/04/29/zabrana_vlizane_bg_29_04_2021-9.pdf
-https://www.mh.government.bg/bg/novini/ministerski-savet/udlzhava-se-srokt-na-obyavenata-izvnredna-26-05-21/
-
+ https://perma.cc/VTW4-BXMU
+https://perma.cc/N87E-ADDH
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://perma.cc/Y7GF-S485
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://perma.cc/XHV3-UJHR
+https://perma.cc/PX8V-BFGB
+https://perma.cc/P47Y-4L35
 
 
 
@@ -95,14 +93,13 @@ https://www.mh.government.bg/bg/novini/ministerski-savet/udlzhava-se-srokt-na-ob
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: “Nationwide epidemic situation" declared based on Health Law (Art 63a) (amended on 13 May 2020). 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Bulgaria_2015?lang=en
+ https://perma.cc/U9JK-NVPY
 (1)
-https://www.parliament.bg/bills/44/054-01-24.pdf
-https://www.gov.bg/bg/prestsentar/zasedaniya-na-ms/dneven-red-na-izvanrednoto-zasedanie-na-ministerskiya-savet-na-12-03-2020-g
 
-https://www.mh.government.bg/bg/normativni-aktove/zakoni/zakon-za-zdraveto/
-
-https://coronavirus.bg/bg/389
+https://perma.cc/W7R8-6637
+https://perma.cc/YX6V-R5X3
+https://perma.cc/GP6U-768C
+https://perma.cc/7SMR-2HKK
 
 
 
@@ -141,8 +138,8 @@ https://coronavirus.bg/bg/389
 *No comment provided* 
 
 *Sources*:
- https://www.parliament.bg/bg/news/ID/5051
-https://www.mh.government.bg/media/filer_public/2021/04/29/zabrana_vlizane_bg_29_04_2021-9.pdf
+ https://perma.cc/L3SA-3533
+https://perma.cc/Y8XA-8PYA
 
 
 
@@ -181,9 +178,9 @@ https://www.mh.government.bg/media/filer_public/2021/04/29/zabrana_vlizane_bg_29
  The state of emergency was lifted on 13 May 2020 and an emergency epidemic was declared on 14 May 2020 that hasn't ended at the time of coding. 
 
 *Sources*:
- https://coronavirus.bg/bg/389
-https://www.parliament.bg/bg/news/ID/5060
-https://www.reuters.com/article/us-health-coronavirus-bulgaria-emergency/bulgaria-to-end-state-of-emergency-but-some-restrictions-remain-idUSKBN22O2S0
+ https://perma.cc/54NN-GBFD
+https://perma.cc/UA4Q-NLHU
+https://perma.cc/TF33-KYBJ
 
 
 
@@ -227,18 +224,16 @@ https://www.reuters.com/article/us-health-coronavirus-bulgaria-emergency/bulgari
 “Nationwide epidemic situation” initially declared until 14 June, was extended several times. In Q3 2020, the latest extension was until 30 September. In Q4 2020, the latest extension was 31 January 2021. In Q1 2021, the latest extension was until 30 April 2021. in Q2 2021, the latest extension was until 31 July 2021. 
 
 *Sources*:
- https://www.parliament.bg/bg/news/ID/5051
-https://www.parliament.bg/bg/news/ID/5060
+ https://perma.cc/8UYE-9DRF
+https://perma.cc/7FMX-ZHPU
+https://perma.cc/FSM5-NC8H
+https://perma.cc/G4HJ-8FN4
+https://perma.cc/7R3W-E9B8
+https://perma.cc/V8XJ-X2BY
+https://perma.cc/TTG7-PBPP
+https://perma.cc/AHD9-MSKT
+https://perma.cc/3ZA2-83NK
 
-https://www.mh.government.bg/bg/novini/ministerski-savet/udlzhava-se-srokt-na-obyavenata-izvnredna-23-09-20/
-https://coronavirus.bg/bg/389
-https://www.garda.com/crisis24/news-alerts/393946/bulgaria-authorities-to-tighten-covid-19-restrictions-from-october-29-update-20
-https://coronavirus.bg/bg/629
-
-https://coronavirus.bg/bg/781
-
-https://www.mh.government.bg/media/filer_public/2021/04/29/zabrana_vlizane_bg_29_04_2021-9.pdf
-https://www.mh.government.bg/bg/novini/ministerski-savet/udlzhava-se-srokt-na-obyavenata-izvnredna-26-05-21/
 
 
 
@@ -277,18 +272,15 @@ https://www.mh.government.bg/bg/novini/ministerski-savet/udlzhava-se-srokt-na-ob
 *No comment provided* 
 
 *Sources*:
- https://www.parliament.bg/bg/news/ID/5051
-https://www.parliament.bg/bg/news/ID/5060
-
-https://www.mh.government.bg/bg/novini/ministerski-savet/udlzhava-se-srokt-na-obyavenata-izvnredna-23-09-20/
-https://coronavirus.bg/bg/389
-https://www.garda.com/crisis24/news-alerts/393946/bulgaria-authorities-to-tighten-covid-19-restrictions-from-october-29-update-20
-https://coronavirus.bg/bg/629
-
-https://coronavirus.bg/bg/781
-
-https://www.mh.government.bg/media/filer_public/2021/04/29/zabrana_vlizane_bg_29_04_2021-9.pdf
-https://www.mh.government.bg/bg/novini/ministerski-savet/udlzhava-se-srokt-na-obyavenata-izvnredna-26-05-21/
+ https://perma.cc/8UYE-9DRF
+https://perma.cc/7FMX-ZHPU
+https://perma.cc/FSM5-NC8H
+https://perma.cc/G4HJ-8FN4
+https://perma.cc/7R3W-E9B8
+https://perma.cc/V8XJ-X2BY
+https://perma.cc/TTG7-PBPP
+https://perma.cc/AHD9-MSKT
+https://perma.cc/3ZA2-83NK
 
 
 
@@ -332,10 +324,11 @@ https://www.mh.government.bg/bg/novini/ministerski-savet/udlzhava-se-srokt-na-ob
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: Legislature approval is not required for declaring “nationwide epidemic situation" (Health Law) 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Bulgaria_2015?lang=en
+ https://perma.cc/A6FZ-QEF2
 (1)
-https://www.parliament.bg/bills/44/054-01-24.pdf
-https://www.mh.government.bg/media/filer_public/2020/10/05/zakon_za_zdraveto.pdf
+
+https://perma.cc/L64D-HPRL
+https://perma.cc/42WU-FTRT
 
 
 
@@ -379,10 +372,10 @@ https://www.mh.government.bg/media/filer_public/2020/10/05/zakon_za_zdraveto.pdf
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: Legislature approval is not required for declaring “nationwide epidemic situation" (Health Law) 
 
 *Sources*:
- https://www.parliament.bg/bg/news/ID/5051
-https://www.constituteproject.org/constitution/Bulgaria_2015?lang=en
+ https://perma.cc/A5WP-U6UG
+https://perma.cc/CA4C-RED2
 (1)
-https://www.gov.bg/bg/prestsentar/zasedaniya-na-ms/dneven-red-na-izvanrednoto-zasedanie-na-ministerskiya-savet-na-12-03-2020-g
+https://perma.cc/775E-JWCJ
 
 
 
@@ -430,15 +423,13 @@ https://www.gov.bg/bg/prestsentar/zasedaniya-na-ms/dneven-red-na-izvanrednoto-za
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: on 13 May, the legislature passed amendments to the Law on Health which introduced “extraordinary epidemiological circumstance” (declared on 14 May by the government). According to Democracy Reporting (p.12), "after the state of emergency expired on 13 May 2020, Parliament returned to work." (1) I have found no information on limitations on the lawmaking power of the legislature. 
 
 *Sources*:
- https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146931
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-https://www.parliament.bg/bg/news/ID/5059
-https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147150
-https://fra.europa.eu/sites/default/files/fra_uploads/bulgaria-report-covid-19-april-2020_en.pdf
-
-
-https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148005
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+ https://perma.cc/LK8Q-GX3W
+https://perma.cc/MEG5-AD4U
+https://perma.cc/E3DV-CHVX
+https://perma.cc/QG5F-DPTT
+https://perma.cc/3WFE-KJXT
+https://perma.cc/3ECV-QVC6
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
 (1)
 
 
@@ -563,12 +554,12 @@ https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Te
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: All measures apply to the whole country, coding changed to 0. 
 
 *Sources*:
- https://www.bnt.bg/en/a/coronavirus-bulgarias-bansko-ski-resort-under-strict-lock-down
-https://www.bnt.bg/en/a/curfew-introduced-in-panagyurishte-because-of-the-coronavirus
-https://www.garda.com/crisis24/news-alerts/403386/bulgaria-authorities-to-introduce-lockdown-restrictions-from-november-27-update-21
-https://www.garda.com/crisis24/news-alerts/449401/bulgaria-authorities-ease-certain-domestic-covid-19-restrictions-from-march-1-update-21
-https://www.garda.com/crisis24/news-alerts/457166/bulgaria-authorities-to-tighten-domestic-covid-19-restrictions-march-22-31-update-23
-https://www.garda.com/crisis24/news-alerts/465291/bulgaria-authorities-to-ease-additional-domestic-covid-19-restrictions-starting-april-12-update-25
+ https://perma.cc/482C-FMCP
+https://perma.cc/HP88-TW6E
+https://perma.cc/3PY9-EX5E
+https://perma.cc/S8ZS-L42T
+https://perma.cc/8BXU-HL6Z
+https://perma.cc/87WB-3LTD
 
 
 
@@ -618,30 +609,35 @@ Q3 2020: According to Amnestry International (3), the measures were in place fro
 Q4 2020, Q1 2021, Q2 2021: since quarantine measures had a defined limit (with the latest being 8 July 2020) and I found no evidence of further discrimination, coded as 0. 
 
 *Sources*:
- https://www.amnesty.sk/stigmatizujuca-karantena-romskych-komunit-na-slovensku-a-v-bulharsku/
+ https://perma.cc/4V78-54BG
 (1)
-https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-https://www.ohchr.org/FR/NewsEvents/Pages/DisplayNews.aspx?NewsID=25881&LangID=E
-https://www.amnesty.org/en/documents/ior60/2347/2020/en/
-https://fra.europa.eu/sites/default/files/fra_uploads/bulgaria-report-covid-19-april-2020_en.pdf
-http://www.errc.org/news/more-toxic-than-covid-the-politics-of-anti-roma-racism-in-bulgaria
-https://www.coe.int/en/web/commissioner/-/governments-must-ensure-equal-protection-and-care-for-roma-and-travellers-during-the-covid-19-crisis
-https://www.amnesty.sk/stigmatizujuca-karantena-romskych-komunit-na-slovensku-a-v-bulharsku/
-https://www.flashnews.bg/general-mutafchijski-zatyaga-se-kontrola-v-romskite-kvartali/
-(5)
-https://nova-zagora.org/node/3262
-https://nova-zagora.org/sites/default/files/2020/03/18/SKMBT_C20320031812100.pdf
-(4)
-https://www.reuters.com/article/us-health-coronavirus-bulgaria-roma/bulgarias-roma-fear-coronavirus-lockdowns-leave-them-with-no-means-to-live-idUSKBN21Z362
-https://www.amnesty.org/download/Documents/EUR1529612020ENGLISH.PDF
-(3)
-https://btvnovinite.bg/bulgaria/karantinata-v-romskija-kvartal-v-kjustendil-se-udalzhava-do-8-juli.html
 
-https://fra.europa.eu/sites/default/files/fra_uploads/bg_report_on_coronavirus_pandemic_july_2020.pdf
-https://www.reuters.com/article/us-health-coronavirus-easter-bulgaria/bulgarian-churches-open-for-easter-but-only-most-devout-go-idUSKCN21U0JH
-https://fra.europa.eu/sites/default/files/fra_uploads/bg_report_-_covid-19_impact_on_roma_en.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/fra-2020-coronavirus-pandemic-eu-bulletin-roma_en.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/bg_report_on_coronavirus_pandemic_november_2020.pdf
+https://perma.cc/5GX8-MFDL
+https://perma.cc/28JC-K7WU
+https://perma.cc/BPQ5-TQGQ
+https://perma.cc/H26X-C8D9
+https://perma.cc/LWQ4-8TMY
+https://perma.cc/DN24-VQDD
+https://perma.cc/XK2P-REGE
+(5)
+
+https://perma.cc/VY3Y-HYN6
+https://perma.cc/7FHR-SSPY
+(4)
+
+https://perma.cc/6B6L-P9JN
+https://perma.cc/4LRQ-68R5
+
+(3)
+
+https://perma.cc/H8KN-RDBV
+
+https://perma.cc/HDT7-QVR7
+https://perma.cc/ZSS4-UYEL
+https://perma.cc/FWS2-ABPQ
+https://perma.cc/4BDV-SGZD
+https://perma.cc/SG2A-8VKH
+https://perma.cc/7TQ6-5ZKD
 (2)
 
 
@@ -691,7 +687,7 @@ https://fra.europa.eu/sites/default/files/fra_uploads/bg_report_on_coronavirus_p
  No measures violating non-derogable rights found 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/bulgaria-report-covid-19-april-2020_en.pdf
+ https://perma.cc/MU4X-HNN3
 
 
 
@@ -735,10 +731,10 @@ https://fra.europa.eu/sites/default/files/fra_uploads/bg_report_on_coronavirus_p
  The government adopted measures punishing "false information" with a prison term of up to 3 years and a fine of 1,000 euros, but were vetoed by the President. Another similar bill was proposed on April 19 2020 which, if passed, could limit media freedom (coded as 0 since the bill has not been passed at the time of coding). 
 
 *Sources*:
- https://www.osce.org/representative-on-freedom-of-media/450193
-https://rsf.org/en/news/repressive-laws-prosecutions-attacks-europe-fails-shield-its-journalists-against-abuse-covid-19
-https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/
-https://fra.europa.eu/sites/default/files/fra_uploads/bg_report_on_coronavirus_pandemic_july_2020.pdf
+ https://perma.cc/5LC9-JMJ9
+https://perma.cc/H3FN-C3AL
+https://perma.cc/T9E8-T6X7
+https://perma.cc/HDT7-QVR7
 
 
 
@@ -858,9 +854,9 @@ https://fra.europa.eu/sites/default/files/fra_uploads/bg_report_on_coronavirus_p
  official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. No new information found since June 2020. 
 
 *Sources*:
- https://coronavirus.bg/bg/
-https://ipi.media/bulgaria/
-https://rsf.org/en/bulgaria
+ https://perma.cc/CU5P-NU6Q
+https://perma.cc/F667-U7MX
+https://perma.cc/24YP-7XQ5
 
 
 
@@ -902,8 +898,8 @@ https://rsf.org/en/bulgaria
  No information on limitation of media reporting on the government's response. No new information found since June 2020. 
 
 *Sources*:
- https://rsf.org/en/bulgaria
-https://ipi.media/bulgaria/
+ https://perma.cc/AJ9B-MMWH
+https://perma.cc/XUD4-ZPZ2
 
 
 
@@ -945,8 +941,8 @@ https://ipi.media/bulgaria/
  No information found on instances of limitations on media reporting on non-Covid-19 related news but with reference to the pandemic. 
 
 *Sources*:
- https://rsf.org/en/bulgaria
-https://ipi.media/bulgaria/
+ https://perma.cc/AJ9B-MMWH
+https://perma.cc/XUD4-ZPZ2
 
 
 
@@ -989,9 +985,10 @@ https://ipi.media/bulgaria/
  According to IPI, the goverment "doubled the amount of time public bodies have to respond to requests. Since then, media have reported that institutions have cited the new rules in refusing to provide information." (1) According to Art 23 of the law on emergency measures from 13.03.2020, this applies until the end of the state of emergency. Since the state of emergency ended on 13 May 2020, this is coded only during March-June 2020 period. 
 
 *Sources*:
- https://ipi.media/access-denied-foi-deadlines-extended-or-suspended-across-europe/
+ https://perma.cc/6PN6-6WJC
 (1)
-https://www.lex.bg/bg/laws/ldoc/2137201253
+
+https://perma.cc/9T54-WG8X
 
 
 
@@ -1033,8 +1030,8 @@ https://www.lex.bg/bg/laws/ldoc/2137201253
  No information found since 11 March 2020. 
 
 *Sources*:
- https://rsf.org/en/bulgaria
-https://ipi.media/bulgaria/
+ https://perma.cc/AJ9B-MMWH
+https://perma.cc/XUD4-ZPZ2
 
 
 
@@ -1076,8 +1073,8 @@ https://ipi.media/bulgaria/
  A journalist was attacked on 17 March but it is not related to Covid-19 reporting (https://ipi.media/bulgarian-newspaper-editor-left-unconscious-after-attack/). No new information found since June 2020. 
 
 *Sources*:
- https://rsf.org/en/bulgaria
-https://ipi.media/bulgaria/
+ https://perma.cc/3BL3-Y4MK
+https://perma.cc/3Z8W-5XS2
 
 
 
@@ -1121,9 +1118,9 @@ https://ipi.media/bulgaria/
  official website with information on Covid-19; no reports on disinformation found; no new information found since June 2020. 
 
 *Sources*:
- https://coronavirus.bg/bg/
-https://ipi.media/bulgaria/
-https://rsf.org/en/bulgaria
+ https://perma.cc/UBR5-3J6L
+https://perma.cc/ECM5-G6SL
+https://perma.cc/5K85-GZBB
 
 
 
@@ -1167,7 +1164,7 @@ https://rsf.org/en/bulgaria
  No instances of police violence in the execution of emergeny measures found. 
 
 *Sources*:
- https://www.hrw.org/europe/central-asia/bulgaria
+ https://perma.cc/6L3R-QGQ7
 
 
 
@@ -1209,8 +1206,8 @@ https://rsf.org/en/bulgaria
  Based on Decree 71, Article 9, the military can be mobilized to enforce the state of emergency, but I have not found any evidence of the military's involvement in enfocing the measures. OSCE report (1, p.143) says that "here have been reports of Roma communities subjected to Covid-19 testing by the authorities that was administered with the involvement of the military" but I haven't found any factual evidence and testing is not part of confinement measures. 
 
 *Sources*:
- https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147150
-https://www.mod.bg/bg/news.php
-https://www.reuters.com/article/us-health-coronavirus-bulgaria/bulgaria-military-allowed-to-use-force-amid-coronavirus-curbs-idUSKBN2172DK
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+ https://perma.cc/9J6Y-ZXKJ
+https://perma.cc/PJJ6-994P
+https://perma.cc/L2JU-9HQV
+https://perma.cc/KZH2-PHYG
 (1)

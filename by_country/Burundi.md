@@ -49,27 +49,15 @@ The measures still in place throughout the pandemic include social distancing an
  
 
 *Sources*:
- http://minisante.bi/?p=553http://minisante.bi/?p=569
-(1)
-
-http://minisante.bi/wp-content/uploads/Communiqu%C3%A9-de-presse-sur-les-mesures-d%C3%A9j%C3%A0-prises-de-pr%C3%A9vention-Covid-19.pdf
-(2)
-
-https://bi.usembassy.gov/covid-19-information/
-
-https://twitter.com/BurundiSecurity/status/1241045159636336641
-
-https://twitter.com/mspls_bdi/status/1241013386244169728
-
-https://www.africanews.com/2020/05/04/covid-19-measures-at-burundi-campaigns-ahead-of-may-20-vote//
-
-https://www.theguardian.com/world/2020/may/18/burundi-to-go-to-polls-amid-fears-authorities-playing-down-covid-19
-
-https://bi.usembassy.gov/alert-01132021/
-
-https://www.garda.com/crisis24/news-alerts/475866/burundi-covid-19-related-restrictions-in-place-remain-unchanged-as-of-may-7-update-11
-
-
+ [1]	perma.cc/T6JA-6T83
+[2]	perma.cc/9MLB-XFG4
+[3]	perma.cc/G3F8-DZ6B
+[4]	perma.cc/QP9T-5PZ7
+[5]	perma.cc/9MA7-5VFK
+[6]	perma.cc/F96Y-Q9LM
+[7]	perma.cc/8GXF-69R7
+[8]	perma.cc/92S5-AFN3
+[9]	perma.cc/L2SJ-6BA2
 
 
 
@@ -397,19 +385,13 @@ https://www.garda.com/crisis24/news-alerts/475866/burundi-covid-19-related-restr
  No state of emergency or special powers clause invoked. The measures were announced by the Prime Minister. No evidence was found on additional measures limiting the legislature's role. Sessions look like they continue to be held. 
 
 *Sources*:
- https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-
-http://www.assemblee.bi/spip.php?article6
-
-http://minisante.bi/?p=553
-
-http://minisante.bi/?p=569
-
-http://minisante.bi/wp-content/uploads/Communiqu%C3%A9-de-presse-sur-les-mesures-d%C3%A9j%C3%A0-prises-de-pr%C3%A9vention-Covid-19.pdf
-
-https://twitter.com/BurundiSecurity/status/1241045159636336641
-
-https://twitter.com/mspls_bdi/status/1241013386244169728
+ [1]	perma.cc/9W4P-DCPJ
+[2]	perma.cc/UD9V-SYFG
+[3]	perma.cc/AFT9-BXDG
+[4]	perma.cc/N5P2-UVVB
+[5]	perma.cc/CP2R-ZRT5
+[6]	perma.cc/48DL-H6CK
+[7]	perma.cc/2KL7-8TN4
 
 
 
@@ -531,23 +513,14 @@ https://twitter.com/mspls_bdi/status/1241013386244169728
  No sub-national variation. Burundi has not implemented any substantial measures against the spread of Covid-19, but rather has been focusing on issuing guidlines to citizens on how to protect themselves. 
 
 *Sources*:
- https://bi.usembassy.gov/covid-19-information/
-
-https://apnews.com/3e6ef0e411214dbd4432b10bdb7d85ef
-
-https://www.dw.com/en/burundi-coronavirus-prompts-timid-steps-for-a-break-with-the-past/a-54089400
-
-http://minisante.bi/?p=553http://minisante.bi/?p=569
-
-http://minisante.bi/wp-content/uploads/Communiqu%C3%A9-de-presse-sur-les-mesures-d%C3%A9j%C3%A0-prises-de-pr%C3%A9vention-Covid-19.pdf
-
-https://bi.usembassy.gov/covid-19-information/
-
-https://twitter.com/BurundiSecurity/status/1241045159636336641
-
-https://twitter.com/mspls_bdi/status/1241013386244169728
-
-https://www.garda.com/crisis24/news-alerts/475866/burundi-covid-19-related-restrictions-in-place-remain-unchanged-as-of-may-7-update-11
+ [1]	perma.cc/MV7V-Y7BV
+[2]	perma.cc/LTM3-EVY7
+[3]	perma.cc/3MY4-LGYM
+[4]	perma.cc/WF8Q-HUPL
+[5]	perma.cc/2H4Y-WXE4
+[6]	perma.cc/UXK7-VCP8
+[7]	perma.cc/4UPJ-WU4W
+[8]	perma.cc/B7EA-CJJU
 
 
 
@@ -593,20 +566,13 @@ https://www.garda.com/crisis24/news-alerts/475866/burundi-covid-19-related-restr
 ''Although police and local officials have quarantined Burundians and foreigners traveling into the country by air or overland in hotels, schools, and other buildings, Burundian authorities have failed to ensure adequate food, health care, hygiene, and sanitation in some locations. Some humanitarian organizations have been blocked from reaching and providing assistance to people in quarantine.'' (1) 
 
 *Sources*:
- https://www.hrw.org/news/2020/03/31/burundi-any-covid-19-cover-will-put-lives-risk
-(1)
-https://www.ohchr.org/Documents/Issues/Racism/COVID-19_and_Racial_Discrimination.pdf
-(2)
-
-http://minisante.bi/?p=553http://minisante.bi/?p=569
-
-http://minisante.bi/wp-content/uploads/Communiqu%C3%A9-de-presse-sur-les-mesures-d%C3%A9j%C3%A0-prises-de-pr%C3%A9vention-Covid-19.pdf
-
-https://twitter.com/BurundiSecurity/status/1241045159636336641
-
-https://twitter.com/mspls_bdi/status/1241013386244169728
-
-https://www.hrw.org/world-report/2021/country-chapters/burundi
+ [1]	perma.cc/LM4M-2667
+[2]	perma.cc/AMN3-GRAT
+[3]	perma.cc/T6JA-6T83
+[4]	perma.cc/9MLB-XFG4
+[5]	perma.cc/3WV9-H3GW
+[6]	perma.cc/T5P9-LJ4K
+[7]	perma.cc/T7JD-ZLXE
 
 
 
@@ -656,19 +622,13 @@ https://www.hrw.org/world-report/2021/country-chapters/burundi
  
 
 *Sources*:
- https://www.ohchr.org/Documents/Issues/Racism/COVID-19_and_Racial_Discrimination.pdf
-
-http://minisante.bi/?p=553http://minisante.bi/?p=569
-
-http://minisante.bi/wp-content/uploads/Communiqu%C3%A9-de-presse-sur-les-mesures-d%C3%A9j%C3%A0-prises-de-pr%C3%A9vention-Covid-19.pdf
-
-https://twitter.com/BurundiSecurity/status/1241045159636336641
-
-https://twitter.com/mspls_bdi/status/1241013386244169728
-
-https://www.hrw.org/news/2020/03/31/burundi-any-covid-19-cover-will-put-lives-risk
-
-https://www.hrw.org/world-report/2021/country-chapters/burundi
+ [1]	perma.cc/5XL5-LGXN
+[2]	perma.cc/77E2-AR7H
+[3]	perma.cc/33TU-3REX
+[4]	perma.cc/UXK7-VCP8
+[5]	perma.cc/4UPJ-WU4W
+[6]	perma.cc/MR4N-F6AL
+[7]	perma.cc/6W48-EZMJ
 
 
 
@@ -712,21 +672,14 @@ https://www.hrw.org/world-report/2021/country-chapters/burundi
  The measures do not limit media freedoms. However, there are widepread reports on lack of transparency from the Burundian authoritiies on Covid-19 related matters. 
 
 *Sources*:
- https://www.aa.com.tr/en/africa/rights-group-warns-burundi-on-covid-19-cover-up/1786867
-
-https://www.hrw.org/news/2020/03/31/burundi-any-covid-19-cover-will-put-lives-risk
-
-http://minisante.bi/wp-content/uploads/Communiqu%C3%A9-de-presse-sur-les-mesures-d%C3%A9j%C3%A0-prises-de-pr%C3%A9vention-Covid-19.pdf
-
-https://bi.usembassy.gov/covid-19-information/
-
-https://twitter.com/BurundiSecurity/status/1241045159636336641
-
-https://twitter.com/mspls_bdi/status/1241013386244169728
-
-https://www.theguardian.com/world/2020/may/14/burundi-expels-who-coronavirus-team-as-election-approaches
-
-https://www.hrw.org/world-report/2021/country-chapters/burundi
+ [1]	perma.cc/93UT-NW2R
+[2]	perma.cc/A665-A8XG
+[3]	perma.cc/QS4E-K9BC
+[4]	perma.cc/RB37-7SVQ
+[5]	perma.cc/8SUP-DF38
+[6]	perma.cc/XE9V-NQ9R
+[7]	perma.cc/XJ9R-4CA6
+[8]	perma.cc/D5NE-TSWV
 
 
 
@@ -851,32 +804,17 @@ Burundi has been accused for not actively testing or reporting on Covid-19 cases
 However, the media environment has recorded progress during 2020. Burundi moved 13 places, from 160 to 147 in the RSF index, largely following the President's call for the media regulator to "settle the differences" with banned media and a presidential pardon of four journalists sentenced to two and a half years in prison (3). 
 
 *Sources*:
- https://africacenter.org/spotlight/africa-varied-covid-landscapes/
-(1)
-
-https://www.hrw.org/news/2020/06/24/burundi-fear-repression-covid-19-response
-(2)
-
-https://rsf.org/en/burundi
-(3)
-
-https://www.ohchr.org/EN/HRBodies/HRC/Pages/NewsDetail.aspx?NewsID=25791&LangID=E
-(4)
-
-https://www.hrw.org/news/2020/03/31/burundi-any-covid-19-cover-will-put-lives-risk
-
-https://www.aa.com.tr/en/africa/rights-group-warns-burundi-on-covid-19-cover-up/1786867
-
-https://www.theguardian.com/world/2020/may/18/burundi-to-go-to-polls-amid-fears-authorities-playing-down-covid-19
-
-https://www.theguardian.com/world/2020/jun/09/burundi-president-dies-illness-suspected-coronavirus-pierre-nkurunziz
-
-https://www.ohchr.org/EN/HRBodies/HRC/Pages/NewsDetail.aspx?NewsID=25790&LangID=E
-
-https://theconversation.com/how-burundis-independent-press-lost-its-freedom-143062
-
-
-https://www.voanews.com/press-freedom/reporters-without-borders-press-freedom-globally-decline
+ [1]	perma.cc/L2HM-BHSM
+[2]	perma.cc/ZE7K-H8GM
+[3]	perma.cc/KX6H-ARY5
+[4]	perma.cc/W7LY-6RBG
+[5]	perma.cc/M7C9-73GY
+[6]	perma.cc/5HZ3-XU7Y
+[7]	perma.cc/S2GC-34YV
+[8]	perma.cc/LH9Y-ULFJ
+[9]	perma.cc/NLY6-YDEU
+[10]	perma.cc/27FV-WH4U
+[11]	perma.cc/5HWH-N5JC
 
 
 
@@ -924,32 +862,17 @@ Burundi has been accused for not actively testing or reporting on Covid-19 cases
 However, the media environment has recorded progress during 2020. Burundi moved 13 places, from 160 to 147 in the RSF index, largely following the President's call for the media regulator to "settle the differences" with banned media and a presidential pardon of four journalists sentenced to two and a half years in prison. (3) 
 
 *Sources*:
- https://africacenter.org/spotlight/africa-varied-covid-landscapes/
-(1)
-
-https://www.hrw.org/news/2020/06/24/burundi-fear-repression-covid-19-response
-(2)
-
-https://rsf.org/en/burundi
-(3)
-
-https://www.ohchr.org/EN/HRBodies/HRC/Pages/NewsDetail.aspx?NewsID=25791&LangID=E
-(4)
-
-https://www.hrw.org/news/2020/03/31/burundi-any-covid-19-cover-will-put-lives-risk
-
-https://www.aa.com.tr/en/africa/rights-group-warns-burundi-on-covid-19-cover-up/1786867
-
-https://www.theguardian.com/world/2020/may/18/burundi-to-go-to-polls-amid-fears-authorities-playing-down-covid-19
-
-https://www.theguardian.com/world/2020/jun/09/burundi-president-dies-illness-suspected-coronavirus-pierre-nkurunziz
-
-https://www.ohchr.org/EN/HRBodies/HRC/Pages/NewsDetail.aspx?NewsID=25790&LangID=E
-
-https://theconversation.com/how-burundis-independent-press-lost-its-freedom-143062
-
-
-https://www.voanews.com/press-freedom/reporters-without-borders-press-freedom-globally-decline
+ [1]	perma.cc/L2HM-BHSM
+[2]	perma.cc/ZE7K-H8GM
+[3]	perma.cc/KX6H-ARY5
+[4]	perma.cc/W7LY-6RBG
+[5]	perma.cc/M7C9-73GY
+[6]	perma.cc/5HZ3-XU7Y
+[7]	perma.cc/S2GC-34YV
+[8]	perma.cc/LH9Y-ULFJ
+[9]	perma.cc/NLY6-YDEU
+[10]	perma.cc/27FV-WH4U
+[11]	perma.cc/5HWH-N5JC
 
 
 
@@ -991,20 +914,13 @@ https://www.voanews.com/press-freedom/reporters-without-borders-press-freedom-gl
  No reports on non-Covid-19 related issues, although the lack of transparency likely affects such issues as well. 
 
 *Sources*:
- https://africacenter.org/spotlight/africa-varied-covid-landscapes/
-
-https://www.hrw.org/news/2020/06/24/burundi-fear-repression-covid-19-response
-
-
-https://rsf.org/en/burundi
-
-https://www.hrw.org/news/2020/03/31/burundi-any-covid-19-cover-will-put-lives-risk
-
-https://www.aa.com.tr/en/africa/rights-group-warns-burundi-on-covid-19-cover-up/1786867
-
-https://www.ohchr.org/EN/HRBodies/HRC/Pages/NewsDetail.aspx?NewsID=25791&LangID=E
-
-https://www.ohchr.org/EN/HRBodies/HRC/Pages/NewsDetail.aspx?NewsID=25790&LangID=E
+ [1]	perma.cc/5VSB-77EL
+[2]	perma.cc/GUL8-J8GV
+[3]	perma.cc/D37U-JNBA
+[4]	perma.cc/8SVW-SVJ8
+[5]	perma.cc/3WD8-BGXC
+[6]	perma.cc/JTD2-6UQD
+[7]	perma.cc/KAT9-UU6C
 
 
 
@@ -1059,25 +975,14 @@ Also: ''In a statement, the Human Rights Watch said health authorities in the co
 Burundi's position in press freedom ranking improved in 2021, and no new evidence was found in 2021. (3) 
 
 *Sources*:
- https://africacenter.org/spotlight/africa-varied-covid-landscapes/
-(1)
-https://www.hrw.org/news/2020/06/24/burundi-fear-repression-covid-19-response
-(2)
-
-https://rsf.org/en/burundi
-(3)
-
-https://www.ohchr.org/EN/HRBodies/HRC/Pages/NewsDetail.aspx?NewsID=25791&LangID=E
-(4)
-
-https://www.ohchr.org/EN/HRBodies/HRC/Pages/NewsDetail.aspx?NewsID=25790&LangID=E
-
-https://www.aa.com.tr/en/africa/rights-group-warns-burundi-on-covid-19-cover-up/1786867
-
-https://www.aa.com.tr/en/africa/burundi-election-campaigns-start-amid-virus-violence/1820023
-
-https://www.theeastafrican.co.ke/tea/news/east-africa/burundi-media-freedom-3386764
-(8)
+ [1]	perma.cc/DQF2-HGFH
+[2]	perma.cc/28KD-LT2Y
+[3]	perma.cc/7AAP-5Q8M
+[4]	perma.cc/WQ2B-7E9G
+[5]	perma.cc/3E89-ELKR
+[6]	perma.cc/NVF4-UVHP
+[7]	perma.cc/5B6M-RQ6M
+[8]	perma.cc/VW4P-5XB6
 
 
 
@@ -1119,14 +1024,10 @@ https://www.theeastafrican.co.ke/tea/news/east-africa/burundi-media-freedom-3386
  No evidence was found. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-
-https://rsf.org/en/rsf_search?key=burundi&y=2020
-
-https://www.amnesty.org/en/latest/news/2021/05/east-and-southern-africa-media-freedoms-curtailed-as-covid19-regional-crises-expose-urgent-need-for-access-to-information/
+ [1]	perma.cc/RR8M-WDME
+[2]	perma.cc/UG7A-ZBX5
+[3]	perma.cc/R5L2-B2AC
+[4]	perma.cc/ZX9J-PMFL
 
 
 
@@ -1168,13 +1069,10 @@ https://www.amnesty.org/en/latest/news/2021/05/east-and-southern-africa-media-fr
  No evidence was found. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://rsf.org/en/rsf_search?key=burundi&y=2020
-
-https://www.amnesty.org/en/latest/news/2021/05/east-and-southern-africa-media-freedoms-curtailed-as-covid19-regional-crises-expose-urgent-need-for-access-to-information/
+ [1]	perma.cc/RR8M-WDME
+[2]	perma.cc/UG7A-ZBX5
+[3]	perma.cc/R5L2-B2AC
+[4]	perma.cc/ZX9J-PMFL
 
 
 
@@ -1228,38 +1126,18 @@ Burundi authorities prescribe Chloroquine for those tested positive for Covid-19
 No information was found on whether Burundi continues the use of chloroquine after July 2020. We code as 0 for quarters that we no longer found reports of the government using or promoting chloroquine. We do not know if it continued in practice. 
 
 *Sources*:
- https://www.aa.com.tr/en/africa/burundi-launches-covid-19-mass-screening-campaign/1902072
-(1)
-
-https://www.aljazeera.com/news/2020/07/burundi-coronavirus-policy-mass-testing-bujumbura-city-200707072204472.html
-(2)
-
-https://www.dw.com/en/burundi-coronavirus-prompts-timid-steps-for-a-break-with-the-past/a-54089400
-(3)
-
-https://apnews.com/3e6ef0e411214dbd4432b10bdb7d85ef
-(4)
-
-https://www.theguardian.com/world/2020/may/14/burundi-expels-who-coronavirus-team-as-election-approaches
-(5)
-
-https://www.iwacu-burundi.org/covid-19-le-burundi-est-une-exception-car-cest-un-pays-qui-a-donne-a-dieu-la-premiere-place/
-(6)
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://www.theguardian.com/world/2020/may/18/burundi-to-go-to-polls-amid-fears-authorities-playing-down-covid-19
-
-https://www.brookings.edu/blog/africa-in-focus/2020/05/16/africa-in-the-news-lesotho-burundi-malawi-and-covid-19-updates/
-
-https://www.burunditimes.com/59-new-covid-19-cases-recorded-in-burundi/
-(10)
-
-https://www.hrw.org/world-report/2021/country-chapters/burundi
-(11)
-
-https://twitter.com/RTNBurundi/status/1304107144753672193
-(12)
+ [1]	perma.cc/ZBD6-JV82
+[2]	perma.cc/UYH7-QWEK
+[3]	perma.cc/J4U9-Q6MA
+[4]	perma.cc/8FF9-8J39
+[5]	perma.cc/QG24-LC75
+[6]	perma.cc/Q24M-3X4Q
+[7]	perma.cc/EGW4-92C2
+[8]	perma.cc/UQ5Y-6PMS
+[9]	perma.cc/YP89-YM2M
+[10]	perma.cc/92VW-EUF9
+[11]	perma.cc/KJB7-2LQ3
+[12]	perma.cc/3986-7JCW
 
 
 
@@ -1303,12 +1181,9 @@ https://twitter.com/RTNBurundi/status/1304107144753672193
  No incidents found. There has been incidents of police violence but these are related to the May 2020 elections. 
 
 *Sources*:
- https://www.aa.com.tr/en/africa/burundi-election-campaigns-start-amid-virus-violence/1820023
-
-
-https://www.amnesty.org/en/latest/news/2020/04/burundi-election-campaigns-kick-off-amid-covid19-harassment-and-tension/
-
-https://apnews.com/540a6cb0d64f38cec2692e617d76dffc
+ [1]	perma.cc/YA8D-4394
+[2]	perma.cc/6LSP-4VUV
+[3]	perma.cc/TMH9-5FGK
 
 
 
@@ -1350,6 +1225,5 @@ https://apnews.com/540a6cb0d64f38cec2692e617d76dffc
  The incidents where the military is involved were related to the elections and not the enforcement of the measures. 
 
 *Sources*:
- https://reliefweb.int/report/burundi/atrocity-alert-no-200-burundi-burkina-faso-and-covid-19
-
-https://www.hrw.org/news/2020/06/24/burundi-fear-repression-covid-19-response
+ [1]	perma.cc/ZQX4-2WQV
+[2]	perma.cc/Z3UG-JSE7

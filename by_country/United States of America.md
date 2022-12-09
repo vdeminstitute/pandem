@@ -45,22 +45,14 @@
  President Trump made a declaration under the National Emergency Act, declaring a nationwide emergency in relation to Covid-19 on 2020-03-13. This emergency situation is still in force, as it was declared to continue for another year by President Biden on 2021-02-22. Consequently, this is regarded a declaration of state of emergency, within the existing legal framework. Note also that President Trump declared an emergency situation under section 501(b) of the Stafford Act on the same day (2020-03-13), which also provides emergency powers for the government. These powers however primarily pertain to financial and administrative assistance to states, and is thus not regarded as the main legal instrument here. 
 
 *Sources*:
- https://www.federalregister.gov/documents/2020/03/18/2020-05794/declaring-a-national-emergency-concerning-the-novel-coronavirus-disease-Covid-19-outbreak
-
-
-https://www.fema.gov/news-release/2020/03/13/Covid-19-emergency-declaration
-
-https://www.cms.gov/newsroom/press-releases/cms-takes-action-nationwide-aggressively-respond-coronavirus-national-emergency
-
-https://www.fema.gov/disasters/coronavirus/disaster-declarations
-
-https://www.cms.gov/About-CMS/Agency-Information/Emergency/EPRO/Current-Emergencies/Current-Emergencies-page
-
-https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/24/a-letter-on-the-continuation-of-the-national-emergency-concerning-the-coronavirus-disease-2019-Covid-19-pandemic/
-
-https://fas.org/sgp/crs/natsec/R46379.pdf
-
-https://trumpwhitehouse.archives.gov/briefings-statements/letter-president-donald-j-trump-emergency-determination-stafford-act/
+ https://perma.cc/A972-QHD5
+https://perma.cc/EV5W-Q758
+https://perma.cc/J5LD-Z8PN
+https://perma.cc/F444-BCMN
+https://perma.cc/4XVA-LYLR
+https://perma.cc/AHJ8-UYHR
+https://perma.cc/78CE-79FN
+https://perma.cc/TSU3-YNE8
 
 
 
@@ -99,7 +91,7 @@ https://trumpwhitehouse.archives.gov/briefings-statements/letter-president-donal
 *No comment provided* 
 
 *Sources*:
- https://www.federalregister.gov/documents/2020/03/18/2020-05794/declaring-a-national-emergency-concerning-the-novel-coronavirus-disease-Covid-19-outbreak
+ https://perma.cc/A972-QHD5
 
 
 
@@ -138,7 +130,7 @@ https://trumpwhitehouse.archives.gov/briefings-statements/letter-president-donal
 *No comment provided* 
 
 *Sources*:
- https://www.federalregister.gov/documents/2020/03/18/2020-05794/declaring-a-national-emergency-concerning-the-novel-coronavirus-disease-Covid-19-outbreak
+ https://perma.cc/A972-QHD5
 
 
 
@@ -177,7 +169,7 @@ https://trumpwhitehouse.archives.gov/briefings-statements/letter-president-donal
  Implementation of legal instrument has not ended by time of coding. 
 
 *Sources*:
- https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/24/a-letter-on-the-continuation-of-the-national-emergency-concerning-the-coronavirus-disease-2019-Covid-19-pandemic/
+ https://perma.cc/35QA-2577
 
 
 
@@ -219,11 +211,9 @@ https://trumpwhitehouse.archives.gov/briefings-statements/letter-president-donal
  A national emergency under the National Emergency Act can only be declared for a year at a time, but can be extended. President Biden extended the national emergency on 2021-02-11, and it is thus set to end on 2022-03-01 currently. Note that national emergencies can be extended multiple times, and other national emergencies have been in place for several decades in the U.S. 
 
 *Sources*:
- https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/24/a-letter-on-the-continuation-of-the-national-emergency-concerning-the-coronavirus-disease-2019-Covid-19-pandemic/
-
-https://fas.org/sgp/crs/natsec/R46379.pdf
-
-https://www.federalregister.gov/documents/2020/03/18/2020-05794/declaring-a-national-emergency-concerning-the-novel-coronavirus-disease-Covid-19-outbreak
+ https://perma.cc/AHJ8-UYHR
+https://perma.cc/78CE-79FN
+https://perma.cc/A972-QHD5
 
 
 
@@ -262,11 +252,9 @@ https://www.federalregister.gov/documents/2020/03/18/2020-05794/declaring-a-nati
  A national emergency under the National Emergency Act can only be declared for a year at a time, but can be extended. President Biden extended the national emergency on 2021-02-11, and it is thus set to end on 2022-03-01 currently. Note that national emergencies can be extended multiple times, and other national emergencies have been in place for several decades in the U.S. 
 
 *Sources*:
- https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/24/a-letter-on-the-continuation-of-the-national-emergency-concerning-the-coronavirus-disease-2019-Covid-19-pandemic/
-
-https://fas.org/sgp/crs/natsec/R46379.pdf
-
-https://www.federalregister.gov/documents/2020/03/18/2020-05794/declaring-a-national-emergency-concerning-the-novel-coronavirus-disease-Covid-19-outbreak
+ https://perma.cc/AHJ8-UYHR
+https://perma.cc/78CE-79FN
+https://perma.cc/A972-QHD5
 
 
 
@@ -308,7 +296,7 @@ https://www.federalregister.gov/documents/2020/03/18/2020-05794/declaring-a-nati
  The National Emergency Act states that: "With respect to Acts of Congress authorizing the exercise, during the period of a national emergency, of any special or extraordinary power, the President is authorized to declare such national emergency." The President therefore needs no approval from Congress to declare a national emergency. 
 
 *Sources*:
- https://uscode.house.gov/view.xhtml?path=/prelim@title50/chapter34&edition=prelim
+ https://perma.cc/5JAC-MK2N
 
 
 
@@ -350,8 +338,8 @@ https://www.federalregister.gov/documents/2020/03/18/2020-05794/declaring-a-nati
  Congress was not involved in declaring the national emergency. 
 
 *Sources*:
- https://uscode.house.gov/view.xhtml?path=/prelim@title50/chapter34&edition=prelim
-https://www.federalregister.gov/documents/2020/03/18/2020-05794/declaring-a-national-emergency-concerning-the-novel-coronavirus-disease-Covid-19-outbreak
+ https://perma.cc/5JAC-MK2N
+https://perma.cc/3UYC-T8XN
 
 
 
@@ -397,21 +385,16 @@ https://www.federalregister.gov/documents/2020/03/18/2020-05794/declaring-a-nati
  The National Emergency Act, or related emergency measures taken such as under the Stafford Act and Public Health Service Act, do not provide the executive any additional lawmaking power, nor does it limit the legislatures lawmaking role. The National Emergency Act grants the executive access to a number of emergency authority statutes that can be activated. Consequently, only already existing statues are made available, not the capacity to without the legislature create new ones. In addition, no evidence of any de facto changes in the law making role has been found. Congress has been active in related areas as well, for instance passing Covid-19 relief bills, and their work during in terms of other obligations and debating and legislating in other areas seem to be continuing as usual.  Important to note is also that many of the measures in place during the coded period have been enacted by state authorities, and to what extent the law making role has been limited in relation to governors and other authorities is not accounted for here, so any such potential limitation is not included in this question. 
 
 *Sources*:
- https://uscode.house.gov/view.xhtml?path=/prelim@title50/chapter34&edition=prelim
+ https://perma.cc/5JAC-MK2N
 https://www.whitehouse.gov/presidential-actions/proclamation-declaring-national-emergency-concerning-novel-coronavirus-disease-Covid-19-outbreak/
-https://www.nytimes.com/2020/03/13/us/politics/coronavirus-national-emergency.html
-https://www.federalregister.gov/documents/2020/03/18/2020-05794/declaring-a-national-emergency-concerning-the-novel-coronavirus-disease-Covid-19-outbreak
 
-https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/24/a-letter-on-the-continuation-of-the-national-emergency-concerning-the-coronavirus-disease-2019-Covid-19-pandemic/
-
-https://fas.org/sgp/crs/natsec/R46379.pdf
-
-https://trumpwhitehouse.archives.gov/briefings-statements/letter-president-donald-j-trump-emergency-determination-stafford-act/
-
-https://time.com/5944774/whats-in-Covid-19-relief-bill-senate/
-
-
-https://www.house.gov/legislative-activity
+https://perma.cc/8794-2XR5
+https://perma.cc/H5VN-E8RH
+https://perma.cc/YB4D-8A97
+https://perma.cc/PMV6-H4Z7
+https://perma.cc/Y6Z8-FVLC
+https://perma.cc/SNN7-HXBX
+https://perma.cc/U3SC-H69Z
 
 
 
@@ -533,14 +516,16 @@ https://www.house.gov/legislative-activity
  The national emergency does not determine how states respond to Covid-19, it opens up a lot of federal leeway to aid states and territories in differing ways and allows federal agencies to contribute to for example health care and emergency actions. So it has been up to the states to themselves determine their response to the pandemic. The states differ in terms of what and how many emergency measures and Covid-19 related regulation they have enacted, as is shown both by the National Governors Associations compilation of policy and legislation in all states and territories, and in the National Conference of State Legislatures (an interest organization for legislatures) compiling of data on state legislation during the pandemic. While a lot of states have taken similar or the same actions on a number of areas, the overall difference - both in content and in the timing of initiating restrictions and beginning to lift them - lead the overall interpretation of the subnational variation to be coded as 3. Note that during the spring of 2021, most states have relaxed many of the restrictions and have relatively few measures left. However, the way they have reopened has differed, and restrictions in terms of mask wearing, whether bars and restaurants are open (and for what time, with what capacity etc.) and the like still differs, both between states and between counties within states. This is therefore coded 3 for this period as well, although there seems to be a movement toward less sub-national variation. 
 
 *Sources*:
- https://www.nga.org/coronavirus/#states
+ https://perma.cc/9Q52-EHQL
 
 
-https://www.ncsl.org/research/health/state-action-on-coronavirus-Covid-19.aspx
+https://perma.cc/F5XX-Q9Z5
 
-https://www.aarp.org/politics-society/government-elections/info-2020/coronavirus-state-restrictions.html
 
-https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html
+https://perma.cc/JX6T-UW4F
+
+
+https://perma.cc/LHB2-XKET
 
 
 
@@ -584,14 +569,16 @@ https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html
  Human Rights Watch and Amnesty International have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9456
+ https://perma.cc/954X-6LCG
 
 
-https://www.amnesty.org/en/search/?country=38334&resourceType=newsarticle&sort=date
-https://www.hrw.org/world-report/2021/country-chapters/united-states
+https://perma.cc/FRS4-JRPU
 
 
-https://www.amnesty.org/en/countries/americas/united-states-of-america/report-united-states-of-america/
+https://perma.cc/CMD8-U6PL
+
+
+https://perma.cc/VBF8-N8JD
 
 
 
@@ -640,12 +627,19 @@ https://www.amnesty.org/en/countries/americas/united-states-of-america/report-un
  Human Rights Watch and Amnesty International have not reported any violations of non-derogable rights within the response to Covid-19, and no other indications of such violations has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9456
-https://www.amnesty.org/en/search/?country=38334&resourceType=newsarticle&sort=date
-https://www.hrw.org/world-report/2021/country-chapters/united-states
+ https://perma.cc/WY3U-8FKD
 
 
-https://www.amnesty.org/en/countries/americas/united-states-of-america/report-united-states-of-america/
+https://perma.cc/49RG-8VDP
+
+
+https://perma.cc/TJF4-VDTJ
+
+
+
+
+
+https://perma.cc/CH7M-3P6K
 
 
 
@@ -689,10 +683,13 @@ https://www.amnesty.org/en/countries/americas/united-states-of-america/report-un
  No restrictions are imposed on the media in the proclamation of a national emergency, or the actions taken under it. No other evidence has been found of there being imposed any de jure limitations on media. 
 
 *Sources*:
- https://www.federalregister.gov/documents/2020/03/18/2020-05794/declaring-a-national-emergency-concerning-the-novel-coronavirus-disease-Covid-19-outbreak
-https://rsf.org/en/thematique/internet?page=1&countries%5B183%5D=183
+ https://perma.cc/R9AF-MHF7
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=United%20States%20of%20America
+
+https://perma.cc/8T24-DW5C
+
+
+https://perma.cc/YW9P-BXS6
 
 
 
@@ -731,7 +728,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  No de-jure limits on media freedom. 
 
 *Sources*:
- https://www.federalregister.gov/documents/2020/03/18/2020-05794/declaring-a-national-emergency-concerning-the-novel-coronavirus-disease-Covid-19-outbreak
+ https://perma.cc/9AMG-CLN7
 
 
 
@@ -770,7 +767,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  No de-jure limits on media freedom. 
 
 *Sources*:
- https://www.federalregister.gov/documents/2020/03/18/2020-05794/declaring-a-national-emergency-concerning-the-novel-coronavirus-disease-Covid-19-outbreak
+ https://perma.cc/9AMG-CLN7
 
 
 
@@ -812,17 +809,19 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Several sources covering press freedom such as reporters without borders, committee to protect journalists, PEN, international press institute and the US press freedom tracker have not reported any de facto limitations on media reporting about Covid-19 in the U.S, and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://pressfreedomtracker.us
+ https://perma.cc/C7TM-YYCD
 
 
-https://rsf.org/en/thematique/internet?page=1&countries%5B183%5D=183
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=United%20States%20of%20America
+https://perma.cc/2BJG-G7WL
 
 
-https://cpj.org/americas/usa/
+https://perma.cc/5UHL-ND8N
 
-https://pen.org/journalism-and-covid19/free-press-threatened/
+
+https://perma.cc/QZ4B-YEVQ
+
+
+https://perma.cc/UNS6-NH3J
 
 
 
@@ -864,17 +863,19 @@ https://pen.org/journalism-and-covid19/free-press-threatened/
  Several sources covering press freedom such as reporters without borders, committee to protect journalists, PEN, international press institute and the US press freedom tracker have not reported any de facto limitations on media reporting about the governments response to Covid-19 in the U.S, and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://pressfreedomtracker.us
+ https://perma.cc/C7TM-YYCD
 
 
-https://rsf.org/en/thematique/internet?page=1&countries%5B183%5D=183
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=United%20States%20of%20America
+https://perma.cc/2BJG-G7WL
 
 
-https://cpj.org/americas/usa/
+https://perma.cc/5UHL-ND8N
 
-https://pen.org/journalism-and-covid19/free-press-threatened/
+
+https://perma.cc/QZ4B-YEVQ
+
+
+https://perma.cc/UNS6-NH3J
 
 
 
@@ -916,17 +917,19 @@ https://pen.org/journalism-and-covid19/free-press-threatened/
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news with reference to the pandemic. 
 
 *Sources*:
- https://pressfreedomtracker.us
+ https://perma.cc/C7TM-YYCD
 
 
-https://rsf.org/en/thematique/internet?page=1&countries%5B183%5D=183
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=United%20States%20of%20America
+https://perma.cc/2BJG-G7WL
 
 
-https://cpj.org/americas/usa/
+https://perma.cc/5UHL-ND8N
 
-https://pen.org/journalism-and-covid19/free-press-threatened/
+
+https://perma.cc/QZ4B-YEVQ
+
+
+https://perma.cc/UNS6-NH3J
 
 
 
@@ -970,23 +973,31 @@ https://pen.org/journalism-and-covid19/free-press-threatened/
 However, no evidence of this limitation on access to information in relation to Covid-19 has been found under the Biden administration. This is therefore coded as 0 for Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.cnbc.com/2020/05/11/coronavirus-trump-ends-press-conference-after-reporters-challenge-him-on-testing.html
-(1)https://www.nbcnews.com/politics/donald-trump/trump-skips-questions-coronavirus-briefing-after-disinfectant-debacle-n1192341
-(2)https://www.youtube.com/watch?v=oSXmBTeMIJE
-(3)
-https://www.boston.com/news/politics/2020/11/20/kayleigh-mcenany-cnn-kaitlan-collins-activist-white-house-press-briefing
-(4)
-https://rsf.org/en/news/us-rsf-calls-trump-administration-allow-free-flow-information-coronavirus
-(5)
-
-https://pen.org/journalism-and-covid19/free-press-threatened/
-
-https://rsf.org/en/thematique/internet?page=1&countries%5B183%5D=183
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=United%20States%20of%20America
+ https://perma.cc/E654-2SYC
 
 
-https://cpj.org/americas/usa/
+https://perma.cc/WY8C-PKFH
+
+
+https://perma.cc/ZTP2-T2G9
+
+
+https://perma.cc/ECS7-23C3
+
+
+https://perma.cc/KT4X-TZRS
+
+
+https://perma.cc/982E-3F7D
+
+
+https://perma.cc/57ML-MEYL
+
+
+https://perma.cc/89S8-6MHM
+
+
+https://perma.cc/YP6R-ZM74
 
 
 
@@ -1028,21 +1039,31 @@ https://cpj.org/americas/usa/
  There are numerous instances in which President Trump and his colleagues have verbally harassed journalists and news agencies. Reporters without borders have published two articles on this, and the verbal harassment of individual journalists and news agencies are widely covered in the press in general, especially those stemming from President Trump. However, reports of this have only been found in the first period, and this is therefore only coded 1 for this period. Note also that some journalists have been subject to verbal and physical harassment when covering Black Lives Matter-protests and election protests, but these are not regarded here as they are not directly linked to Covid-19. The same has been reported in some instances in later periods, where members of the press have been threatened by law enforcement. However, these have not had any connection to Covid-19 restrictions either, and thus not accounted for here. As no evidence has been found of any threats in relation to Covid-19, this is coded 0 for all other periods. 
 
 *Sources*:
- https://rsf.org/en/news/rsf-calls-trump-end-attacks-journalists-encourages-news-outlets-assess-coverage-Covid-19-briefings
-https://rsf.org/en/news/us-rsf-calls-trump-administration-allow-free-flow-information-coronavirus
-https://cpj.org/2020/08/charges-remain-against-journalists-arrested-during-george-floyd-protests/
-https://cpj.org/2021/04/minnesota-law-enforcement-must-stop-obstructing-journalists-covering-protests/
-
-https://cpj.org/2021/03/at-least-3-us-reporters-face-court-hearings-on-charges-from-2020-coverage-of-protests-and-rallies/
-
-https://pen.org/journalism-and-covid19/free-press-threatened/
-
-https://rsf.org/en/thematique/internet?page=1&countries%5B183%5D=183
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=United%20States%20of%20America
+ https://perma.cc/6VGZ-SZKH
 
 
-https://cpj.org/americas/usa/
+https://perma.cc/KKC7-GABS
+
+
+https://perma.cc/6HAE-44MJ
+
+
+https://perma.cc/ZY7D-LUYL
+
+
+https://perma.cc/3E2T-F3QF
+
+
+https://perma.cc/Z43N-L299
+
+
+https://perma.cc/QP8K-B9PM
+
+
+https://perma.cc/VX6V-VL7M
+
+
+https://perma.cc/5HAK-BKFM
 
 
 
@@ -1084,18 +1105,25 @@ https://cpj.org/americas/usa/
  No instances of physical harassment of reporters covering Covid-19 has been found, and this is therefore coded 0. Note that some journalists have been subject to verbal and physical harassment when covering Black Lives Matter-protests and election protests, but these are not regarded here as they are not directly linked to Covid-19. Some later reports of physical harassment of members of the press from law enforcement has been found, but this is not in relation to Covid-19 and thus not accounted for here. There are also several occurrences of violence toward journalists by protesters, but these are not related to Covid-19 measures either. This is therefore coded 0 for all periods. 
 
 *Sources*:
- https://pressfreedomtracker.us
-https://pressfreedomtracker.us/physical-attack/?endpage=4
-https://cpj.org/2020/08/charges-remain-against-journalists-arrested-during-george-floyd-protests/
-
-https://pen.org/journalism-and-covid19/free-press-threatened/
-
-https://rsf.org/en/thematique/internet?page=1&countries%5B183%5D=183
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=United%20States%20of%20America
+ https://perma.cc/F5ZG-WDUZ
 
 
-https://cpj.org/americas/usa/
+https://perma.cc/8BFM-NB3C
+
+
+https://perma.cc/4ZJL-LEMP
+
+
+https://perma.cc/3DGC-4UTK
+
+
+https://perma.cc/CV3B-JFTN
+
+
+https://perma.cc/9B7D-8AS6
+
+
+https://perma.cc/5ZRJ-KNDC
 
 
 
@@ -1139,12 +1167,12 @@ https://cpj.org/americas/usa/
  The Atlantic (6) provides a list inaccurate statements about Covid-19 by  President Trump (with reference to where the original statement was made), and why they are wrong. For example, President Trump has stated that it would disappear come warmer weather, that it would simply disappear due to a miracle ("One day it's like a miracle - it will simply disappear"), that vaccines will be available much earlier than any other sources claim, that antimalaria medicine is an effective treatment for the virus, that injecting disinfectants could be used as a treatment against the virus, that many medical staff are using antimalaria medicine/injecting disinfectants as a way of protecting themselves against the virus, and that media outlets were overblowing fears about the virus to interfere with the election. Many of the claims have also been repeated, and when questioned, President Trump has defended many of them. However, government agencies and agents, most prominently the CDC, have also provided information fully in accordance with WHO, and have also contested many of President Trump’s claims. It can therefore not be regarded a systematic dissemination of information about the virus from the government and its agencies as a whole, but rather a mixed and conflicting message where President Trump often has provided information on the virus that is not in accordance with WHO. While the disinformation was most intense in the first period, statements have continued and/or not been revoked and this is therefore coded as 2 for all of 2020. However, no evidence has been found of such disinformation in the last days of the Trump administration, nor any from the Biden administration (or other authorities during this period). This is therefore coded as 0 for Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.theatlantic.com/politics/archive/2020/05/trumps-lies-about-coronavirus/608647/
+ https://perma.cc/7DKR-MHZY
 (6)
-https://www.bbc.com/news/world-us-canada-52493073
-https://www.theguardian.com/us-news/2020/mar/28/trump-coronavirus-misleading-claims
-https://www.theatlantic.com/politics/archive/2020/08/trumps-lies-about-coronavirus/608647/
-https://www.cdc.gov/coronavirus/2019-ncov/index.html
+https://perma.cc/3DBN-5PSW
+https://perma.cc/3DBN-5PSW
+https://perma.cc/3DBN-5PSW
+https://perma.cc/HS8Q-R4BM
 
 
 
@@ -1188,12 +1216,19 @@ https://www.cdc.gov/coronavirus/2019-ncov/index.html
  While there have been numerous incidents of police violence in the US since March 2020, for instance in relation to Black Lives Matter protests during the summer, no reports have been found that any of these are linked to enforcing Covid-19 restrictions, or that any other use of excessive force has occurred within the Covid-19 emergency measures. This is therefore coded as 0 for all periods. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9456
-https://www.amnesty.org/en/search/?country=38334&resourceType=newsarticle&sort=date
-https://www.hrw.org/world-report/2021/country-chapters/united-states
+ https://perma.cc/WY3U-8FKD
 
 
-https://www.amnesty.org/en/countries/americas/united-states-of-america/report-united-states-of-america/
+https://perma.cc/49RG-8VDP
+
+
+https://perma.cc/TJF4-VDTJ
+
+
+
+
+
+https://perma.cc/CH7M-3P6K
 
 
 
@@ -1235,7 +1270,11 @@ https://www.amnesty.org/en/countries/americas/united-states-of-america/report-un
  FEMA, who is in charge of managing and overseeing a lot of the national emergency, has not deployed the military or used the military to enforce any confinement measures. However, states have the opportunity to use the National Guard to enforse such measures, and some states have (See the rubric "is FEMA deploying the military?" in the source). The National Guard is not, however, the army organization responsible for external security. Governors can call the National Guard into action during local or statewide emergencies, such as storms, fires, earthquakes or civil disturbances. 
 
 *Sources*:
- https://www.fema.gov/coronavirus/rumor-control
-https://www.defense.gov/Explore/Spotlight/Coronavirus/
+ https://perma.cc/XWG6-LPNF
+https://perma.cc/3SU6-W3H3
 
-https://www.defense.gov/Explore/Spotlight/Coronavirus/DOD-Response-Ti-/
+
+https://perma.cc/44PN-H3WU
+
+
+

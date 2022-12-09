@@ -55,34 +55,25 @@ On 3 April 2021 the authorities reinstated the state of health emergency with De
 
 *Sources*:
  (1)
-https://www.constituteproject.org/constitution/Madagascar_2010.pdf?lang=en
-
+https://perma.cc/N4DQ-4MSV
 (2)
-https://jwf-legal2.fr.gd/Lois-245.htm
-
+https://perma.cc/3CB7-SZTC
 (3)
-https://www.presidence.gov.mg/actualites/755-decret-n-2020-359-du-21-mars-2020-proclamant-l-etat-d-urgence-sanitaire-sur-tout-le-territoire-de-la-republique.html
-
+https://perma.cc/K5AY-6DFT
 (4)
-http://extwprlegs1.fao.org/docs/pdf/Mad176601.pdf
-
+https://perma.cc/LT4M-592V
 (5)
-https://actu.orange.mg/une-nouvelle-prolongation-de-letat-durgence-sanitaire-a-madagascar/
-
+https://perma.cc/BW6S-4BKY
 (6)
-https://www.africanews.com/2020/10/19/madagascar-ends-state-of-health-emergency//
-
+https://perma.cc/R7NR-DY7T
 (7)
-https://www.garda.com/crisis24/news-alerts/427706/madagascar-covid-19-restrictions-remain-in-place-nationwide-as-of-jan-11-update-19
-
+https://perma.cc/A6T3-79ZV
 (8)
-https://www.garda.com/crisis24/news-alerts/450661/madagascar-covid-19-restrictions-remain-in-place-nationwide-as-of-march-4-update-21
-
+https://perma.cc/DV5A-WFGV
 (9)
-http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril-2021.pdf
-
+https://perma.cc/N4JZ-6KDR
 (10)
-https://www.aa.com.tr/fr/afrique/madagascar-covid-19-l-%C3%A9tat-d-urgence-sanitaire-restaur%C3%A9/2197912
+https://perma.cc/J66B-YNZ5
 
 
 
@@ -131,23 +122,19 @@ Decree declaring the (second) state of health emergency: N°2021-390 of 3 April 
 
 *Sources*:
  (1)
-https://www.constituteproject.org/constitution/Madagascar_2010.pdf?lang=en
-
+https://perma.cc/N4DQ-4MSV
 
 (2)
-https://jwf-legal2.fr.gd/Lois-245.htm
+https://perma.cc/3CB7-SZTC
 
 (3)
-https://www.presidence.gov.mg/actualites/755-decret-n-2020-359-du-21-mars-2020-proclamant-l-etat-d-urgence-sanitaire-sur-tout-le-territoire-de-la-republique.html
-
+https://perma.cc/K5AY-6DFT
 (4)
-http://extwprlegs1.fao.org/docs/pdf/Mad176601.pdf
-
+https://perma.cc/LT4M-592V
 (5)
-https://actu.orange.mg/une-nouvelle-prolongation-de-letat-durgence-sanitaire-a-madagascar/
-
+https://perma.cc/BW6S-4BKY
 (6)
-http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril-2021.pdf
+https://perma.cc/N4JZ-6KDR
 
 
 
@@ -187,11 +174,11 @@ http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril
 The state of emergency was reinstated on 3 April 2021 (3). It had been lifted on 18 October 2020. 
 
 *Sources*:
- https://www.presidence.gov.mg/actualites/755-decret-n-2020-359-du-21-mars-2020-proclamant-l-etat-d-urgence-sanitaire-sur-tout-le-territoire-de-la-republique.html
-
-https://actu.orange.mg/une-nouvelle-prolongation-de-letat-durgence-sanitaire-a-madagascar/
-
-http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril-2021.pdf
+ https://perma.cc/K5AY-6DFT
+(1)
+https://perma.cc/BW6S-4BKY
+(2)
+https://perma.cc/N4JZ-6KDR
 (3)
 
 
@@ -232,21 +219,12 @@ http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril
 The state of emergency was reinstated on 3 April 2021 (5). The state of health emergency is still in place: it has been last extended through 28 June 2021 (6). 
 
 *Sources*:
- https://www.africanews.com/2020/10/19/madagascar-ends-state-of-health-emergency//
-(1)
-
-https://www.garda.com/crisis24/news-alerts/390636/madagascar-authorities-announce-end-of-state-of-health-emergency-october-18-update-19
-
-
-https://actu.orange.mg/letat-durgence-sanitaire-prolonge-de-deux-semaines-a-madagascar/
-
-http://www.presidence.gov.mg/actualites/decret/958-decret-n-2020-1020-du-22-aout-2020-prolongeant-la-duree-de-l-etat-d-urgence-sanitaire-sur-tout-le-territoire-de-la-republique.html
-
-http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril-2021.pdf
-(5)
-
-https://www.garda.com/crisis24/news-alerts/490681/madagascar-officials-extend-covid-19-related-state-of-emergency-through-at-least-june-28-domestic-restrictions-further-eased-update-28
-(6)
+ https://perma.cc/R7NR-DY7T
+https://perma.cc/Y6H5-W5PA
+https://perma.cc/NB3Z-ZZZA
+https://perma.cc/EFE5-C6FT
+https://perma.cc/N4JZ-6KDR
+https://perma.cc/BLU2-N4NU
 
 
 
@@ -288,13 +266,11 @@ https://www.garda.com/crisis24/news-alerts/490681/madagascar-officials-extend-co
  Initially declared for 15 days, and was being renewed every two weeks. All later extensions had a limit date. The same applies for the second state of health emergency, introduced on 3 April 2021, which has been last extended through 28 June 2021. 
 
 *Sources*:
- https://www.presidence.gov.mg/actualites/755-decret-n-2020-359-du-21-mars-2020-proclamant-l-etat-d-urgence-sanitaire-sur-tout-le-territoire-de-la-republique.html
-https://actu.orange.mg/une-nouvelle-prolongation-de-letat-durgence-sanitaire-a-madagascar/
-https://www.africanews.com/2020/10/19/madagascar-ends-state-of-health-emergency//
-
-http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril-2021.pdf
-
-https://www.garda.com/crisis24/news-alerts/490681/madagascar-officials-extend-covid-19-related-state-of-emergency-through-at-least-june-28-domestic-restrictions-further-eased-update-28
+ https://perma.cc/K5AY-6DFT
+https://perma.cc/BW6S-4BKY
+https://perma.cc/R7NR-DY7T
+https://perma.cc/N4JZ-6KDR
+https://perma.cc/BLU2-N4NU
 
 
 
@@ -337,16 +313,13 @@ Q4 2020: 2020-10-18 (3)
 Q2 2021: 2021-06-28 (4) 
 
 *Sources*:
- http://www.presidence.gov.mg/actualites/decret/897-decret-n-2020-687-du-27-juin-2020-prolongeant-la-duree-de-l-etat-d-urgence-sanitaire-sur-tout-le-territoire-de-la-republique.html
+ https://perma.cc/KN7F-74VJ
 (1)
-
-http://www.presidence.gov.mg/actualites/decret/985-decret-n-2020-1183-du-19-septembre-2020-prolongeant-la-duree-de-l-etat-d-urgence-sanitaire-sur-tout-le-territoire-de-la-republique.html
+https://perma.cc/Y8H3-V2HF
 (2)
-
-https://www.garda.com/crisis24/news-alerts/390636/madagascar-authorities-announce-end-of-state-of-health-emergency-october-18-update-19
+https://perma.cc/Y6H5-W5PA
 (3)
-
-https://www.garda.com/crisis24/news-alerts/490681/madagascar-officials-extend-covid-19-related-state-of-emergency-through-at-least-june-28-domestic-restrictions-further-eased-update-28
+https://perma.cc/BLU2-N4NU
 (4)
 
 
@@ -395,11 +368,8 @@ Art. 3 - The exceptional situation is limited in time. It may however be extende
 Art. 16 - The duration of the emergency situation is fifteen days. It may be extended under the conditions provided for in article 3 of this law.'' 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Madagascar_2010.pdf?lang=en
-(1)
-
-https://jwf-legal2.fr.gd/Lois-245.htm
-(2)
+ https://perma.cc/N4DQ-4MSV
+https://perma.cc/3CB7-SZTC
 
 
 
@@ -441,9 +411,8 @@ https://jwf-legal2.fr.gd/Lois-245.htm
  Not required. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Madagascar_2010.pdf?lang=en
-
-https://jwf-legal2.fr.gd/Lois-245.htm
+ https://perma.cc/N4DQ-4MSV
+https://perma.cc/3CB7-SZTC
 
 
 
@@ -493,17 +462,13 @@ Article 61, Constitution: ''...The proclamation of the situation of exception co
 Art. 4, law 91-011, 1991- The proclamation of an exceptional situation confers on the President of the Republic of the special powers necessary by the circumstances for which it was proclaimed and puts at his disposal all the civil and military means likely to be implemented for this effect. 
 
 *Sources*:
- https://assemblee-nationale.mg/tenue-de-la-session-de-lassemblee-nationale-dans-le-respect-de-la-distanciation-sociale/
+ https://perma.cc/M3M8-PSHJ
+https://perma.cc/B2CV-HXHC
+https://perma.cc/N4DQ-4MSV
+https://perma.cc/3CB7-SZTC
 
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-
-https://www.constituteproject.org/constitution/Madagascar_2010.pdf?lang=en
-
-https://jwf-legal2.fr.gd/Lois-245.htm
-
-https://assemblee-nationale.mg/category/ordre/
-
-http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril-2021.pdf
+https://perma.cc/WN96-YJR7
+https://perma.cc/E44D-P9LS
 
 
 
@@ -626,21 +591,15 @@ http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril
 The state of emergency was lifted on 18 October 2020 and reinstated on 3 April 2021. Some areas during Q2 of 2021 were subjected to extra confinement measures. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/485646/madagascar-officials-extend-covid-19-related-state-of-emergency-through-at-least-june-15-domestic-restrictions-eased-update-27
+ https://perma.cc/G8RC-58AQ
+https://perma.cc/H868-GVPR
+https://perma.cc/NH79-MNGW
+https://perma.cc/8MSQ-M3HS
 
-https://www.garda.com/crisis24/news-alerts/450661/madagascar-covid-19-restrictions-remain-in-place-nationwide-as-of-march-4-update-21
-
-https://www.garda.com/crisis24/news-alerts/427706/madagascar-covid-19-restrictions-remain-in-place-nationwide-as-of-jan-11-update-19
-
-https://www.garda.com/crisis24/news-alerts/371926/madagascar-authorities-ease-measures-and-extend-national-state-of-health-emergency-through-september-7-update-16
-
-https://reports.unocha.org/en/country/southern-eastern-africa/card/6xJ98YvyVW/
-
-https://www.thejakartapost.com/news/2020/07/06/madagascar-re-imposes-lockdown-amid-surge-in-virus-cases.html
-
-https://www.presidence.gov.mg/actualites/755-decret-n-2020-359-du-21-mars-2020-proclamant-l-etat-d-urgence-sanitaire-sur-tout-le-territoire-de-la-republique.html
-
-https://www.garda.com/crisis24/news-alerts/339186/madagascar-authorities-extend-sanitary-state-of-emergency-until-may-17-update-7
+https://perma.cc/6527-ZB93
+https://perma.cc/XZ96-VUEM
+https://perma.cc/K5AY-6DFT
+https://perma.cc/TAX3-AE7D
 
 
 
@@ -684,11 +643,8 @@ https://www.garda.com/crisis24/news-alerts/339186/madagascar-authorities-extend-
  No evidence of discrimination was found. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/madagascar/
-(1)
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-(2)
+ https://perma.cc/X4JE-W7SP
+https://perma.cc/59KS-EP8Y
 
 
 
@@ -737,10 +693,10 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
  No evidence of violation of non derogable rights was found. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/madagascar/
+ https://perma.cc/X4JE-W7SP
 (1)
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+https://perma.cc/59KS-EP8Y
 (2)
 
 
@@ -801,18 +757,16 @@ The state of emergency was lifted on 18 October 2020, therefore also the media l
 The state of emergency was reinstated on 3 April 2021, and the Decree N°2021-390 includes the same provision regarding the media being requisitioned as the first state of health emergency (see article 4 of said decree, 5). 
 
 *Sources*:
- https://jwf-legal2.fr.gd/Lois-245.htm
+ https://perma.cc/3CB7-SZTC
 (1)
+https://perma.cc/K5AY-6DFT
 
-https://www.presidence.gov.mg/actualites/755-decret-n-2020-359-du-21-mars-2020-proclamant-l-etat-d-urgence-sanitaire-sur-tout-le-territoire-de-la-republique.html
 (2)
+https://perma.cc/4L2A-ZD2C
 
-http://www.rfi.fr/fr/afrique/20200412-madagascar-liberte-presse-journaliste-prison-arphine-helisoa-rajoelina-rakotondraza
 (3)
-
-https://www.africanews.com/2020/10/19/madagascar-ends-state-of-health-emergency//
-
-http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril-2021.pdf
+https://perma.cc/GJM4-MHXU(4)
+https://perma.cc/E44D-P9LS
 (5)
 
 
@@ -853,13 +807,10 @@ http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril
 The state of emergency was reinstated on 3 April 2021, and the Decree N°2021-390 includes the same provision regarding the media being controlled by the government as the first state of health emergency (see article 4 of said decree, 4). 
 
 *Sources*:
- https://jwf-legal2.fr.gd/Lois-245.htm
-
-https://www.presidence.gov.mg/actualites/755-decret-n-2020-359-du-21-mars-2020-proclamant-l-etat-d-urgence-sanitaire-sur-tout-le-territoire-de-la-republique.html
-
-http://www.rfi.fr/fr/afrique/20200412-madagascar-liberte-presse-journaliste-prison-arphine-helisoa-rajoelina-rakotondraza
-
-http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril-2021.pdf
+ https://perma.cc/3CB7-SZTC
+https://perma.cc/K5AY-6DFT
+https://perma.cc/4L2A-ZD2C
+https://perma.cc/E44D-P9LS
 (4)
 
 
@@ -900,11 +851,9 @@ http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril
 The second one, introduced in 3 April 2021, is still in place and extended through 28 June 2021. 
 
 *Sources*:
- https://www.africanews.com/2020/10/19/madagascar-ends-state-of-health-emergency//
-
-http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril-2021.pdf
-
-https://www.garda.com/crisis24/news-alerts/490681/madagascar-officials-extend-covid-19-related-state-of-emergency-through-at-least-june-28-domestic-restrictions-further-eased-update-28
+ https://perma.cc/GJM4-MHXU
+https://perma.cc/E44D-P9LS
+https://perma.cc/BLU2-N4NU
 
 
 
@@ -959,36 +908,24 @@ The state of health emergency was reintroduced on 3 April 2021 and is in place a
 On 22 April 2021, Malagasy authorities issued an interministerial decision that suspended the broadcasting of nine radio and audiovisual programs. The programs were suspended under the state of emergency, on the grounds that they were ''likely to disturb public order and security and harm national unity " (3, 4). 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/AFR3528192020ENGLISH.pdf
+ https://perma.cc/Y72S-V2TE
 (1)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/madagascar/
+https://perma.cc/X4JE-W7SP
 (2)
-
-https://rsf.org/en/news/rsf-urges-madagascar-let-journalists-cover-covid-19-freely
+https://perma.cc/WJ8L-TEYU
 (3)
-
-https://www.rfi.fr/fr/afrique/20210424-le-gouvernement-malgache-interdit-neuf-%C3%A9missions-de-radio-pendant-quinze-jours?ref=wa
+https://perma.cc/H79N-HXUK
 (4)
-
-http://www.rfi.fr/fr/afrique/20200412-madagascar-liberte-presse-journaliste-prison-arphine-helisoa-rajoelina-rakotondraza
+https://perma.cc/4L2A-ZD2C
 (5)
-
-https://www.amnesty.org/en/latest/news/2020/05/southern-africa-covid19-a-pretext-for-surge-in-harassment-of-journalists-and-weakening-of-media-houses-by-states/
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africahttps://www.ecoi.net/en/document/2027261.html
-
-https://rsf.org/en/news/madagascar-sabotage-silences-tv-channel-criticized-coronavirus-measures
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-
-https://rsf.org/fr/actualites/coronavirus-madagascar-une-chaine-de-tele-victime-dun-acte-de-sabotage
-
-https://www.hirondelle.org/de/unsere-news/1131-the-challenges-of-journalism-during-covid-19-lockdown-in-madagascar
-
-http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril-2021.pdf
-
-https://www.garda.com/crisis24/news-alerts/490681/madagascar-officials-extend-covid-19-related-state-of-emergency-through-at-least-june-28-domestic-restrictions-further-eased-update-28
+https://perma.cc/X2F2-6WFL
+https://perma.cc/E3RN-HL8F
+https://perma.cc/CB3N-27RS
+https://perma.cc/Y48F-GE4K
+https://perma.cc/8H6Y-7L8R
+https://perma.cc/6C2Z-TFD2
+https://perma.cc/E44D-P9LS
+https://perma.cc/BLU2-N4NU
 
 
 
@@ -1043,36 +980,24 @@ The state of health emergency was reintroduced on 3 April 2021 and is in place a
 On 22 April 2021, Malagasy authorities issued an interministerial decision that suspended the broadcasting of nine radio and audiovisual programs. The programs were suspended under the state of emergency, on the grounds that they were ''likely to disturb public order and security and harm national unity " (3, 4). 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/AFR3528192020ENGLISH.pdf
+ https://perma.cc/Y72S-V2TE
 (1)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/madagascar/
+https://perma.cc/X4JE-W7SP
 (2)
-
-https://rsf.org/en/news/rsf-urges-madagascar-let-journalists-cover-covid-19-freely
+https://perma.cc/WJ8L-TEYU
 (3)
-
-https://www.rfi.fr/fr/afrique/20210424-le-gouvernement-malgache-interdit-neuf-%C3%A9missions-de-radio-pendant-quinze-jours?ref=wa
+https://perma.cc/H79N-HXUK
 (4)
-
-http://www.rfi.fr/fr/afrique/20200412-madagascar-liberte-presse-journaliste-prison-arphine-helisoa-rajoelina-rakotondraza
+https://perma.cc/4L2A-ZD2C
 (5)
-
-https://www.amnesty.org/en/latest/news/2020/05/southern-africa-covid19-a-pretext-for-surge-in-harassment-of-journalists-and-weakening-of-media-houses-by-states/
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africahttps://www.ecoi.net/en/document/2027261.html
-
-https://rsf.org/en/news/madagascar-sabotage-silences-tv-channel-criticized-coronavirus-measures
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-
-https://rsf.org/fr/actualites/coronavirus-madagascar-une-chaine-de-tele-victime-dun-acte-de-sabotage
-
-https://www.hirondelle.org/de/unsere-news/1131-the-challenges-of-journalism-during-covid-19-lockdown-in-madagascar
-
-http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril-2021.pdf
-
-https://www.garda.com/crisis24/news-alerts/490681/madagascar-officials-extend-covid-19-related-state-of-emergency-through-at-least-june-28-domestic-restrictions-further-eased-update-28
+https://perma.cc/X2F2-6WFL
+https://perma.cc/E3RN-HL8F
+https://perma.cc/CB3N-27RS
+https://perma.cc/Y48F-GE4K
+https://perma.cc/8H6Y-7L8R
+https://perma.cc/6C2Z-TFD2
+https://perma.cc/E44D-P9LS
+https://perma.cc/BLU2-N4NU
 
 
 
@@ -1118,35 +1043,24 @@ Under the state of health emergency, the Ministry of Communication and Culture i
 On 22 April 2021, Malagasy authorities issued an interministerial decision that suspended the broadcasting of nine radio and audiovisual programs. The programs were suspended under the state of emergency, on the grounds that they were ''likely to disturb public order and security and harm national unity " (3, 4). 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/AFR3528192020ENGLISH.pdf
+ https://perma.cc/Y72S-V2TE
 (1)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/madagascar/
+https://perma.cc/X4JE-W7SP
 (2)
-
-https://rsf.org/en/news/rsf-urges-madagascar-let-journalists-cover-covid-19-freely
+https://perma.cc/WJ8L-TEYU
 (3)
-
-https://www.rfi.fr/fr/afrique/20210424-le-gouvernement-malgache-interdit-neuf-%C3%A9missions-de-radio-pendant-quinze-jours?ref=wa
+https://perma.cc/H79N-HXUK
 (4)
-
-http://www.rfi.fr/fr/afrique/20200412-madagascar-liberte-presse-journaliste-prison-arphine-helisoa-rajoelina-rakotondraza
-
-https://www.amnesty.org/en/latest/news/2020/05/southern-africa-covid19-a-pretext-for-surge-in-harassment-of-journalists-and-weakening-of-media-houses-by-states/
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africahttps://www.ecoi.net/en/document/2027261.html
-
-https://rsf.org/en/news/madagascar-sabotage-silences-tv-channel-criticized-coronavirus-measures
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-
-https://rsf.org/fr/actualites/coronavirus-madagascar-une-chaine-de-tele-victime-dun-acte-de-sabotage
-
-https://www.hirondelle.org/de/unsere-news/1131-the-challenges-of-journalism-during-covid-19-lockdown-in-madagascar
-
-http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril-2021.pdf
-
-https://www.garda.com/crisis24/news-alerts/490681/madagascar-officials-extend-covid-19-related-state-of-emergency-through-at-least-june-28-domestic-restrictions-further-eased-update-28
+https://perma.cc/4L2A-ZD2C
+(5)
+https://perma.cc/X2F2-6WFL
+https://perma.cc/E3RN-HL8F
+https://perma.cc/CB3N-27RS
+https://perma.cc/Y48F-GE4K
+https://perma.cc/8H6Y-7L8R
+https://perma.cc/6C2Z-TFD2
+https://perma.cc/E44D-P9LS
+https://perma.cc/BLU2-N4NU
 
 
 
@@ -1197,41 +1111,27 @@ On 22 April 2021, Malagasy authorities issued an interministerial decision that 
 Also, “Several journalists have told RSF they are finding it very difficult to cover the pandemic. They say it is hard to get figures for Covid-19 cases and deaths or get access to the health centres mobilised to combat the pandemic, and that some sources are afraid to talk.” (5) 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/AFR3528192020ENGLISH.pdf
+ https://perma.cc/Y72S-V2TE
 (1)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/madagascar/
+https://perma.cc/X4JE-W7SP
 (2)
-
-https://rsf.org/en/news/rsf-urges-madagascar-let-journalists-cover-covid-19-freely
+https://perma.cc/W5BC-G8MN
 (3)
-
-https://www.rfi.fr/fr/afrique/20210424-le-gouvernement-malgache-interdit-neuf-%C3%A9missions-de-radio-pendant-quinze-jours?ref=wa
+https://perma.cc/H79N-HXUK
 (4)
-
-https://rsf.org/en/news/rsf-urges-madagascar-let-journalists-cover-covid-19-freely
+https://perma.cc/WJ8L-TEYU
 (5)
+https://perma.cc/E44D-P9LS
+https://perma.cc/BLU2-N4NU
 
-http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril-2021.pdf
-
-https://www.garda.com/crisis24/news-alerts/490681/madagascar-officials-extend-covid-19-related-state-of-emergency-through-at-least-june-28-domestic-restrictions-further-eased-update-28
-
-https://www.africanews.com/2020/10/19/madagascar-ends-state-of-health-emergency//
-
-https://jwf-legal2.fr.gd/Lois-245.htm
-
-https://www.presidence.gov.mg/actualites/755-decret-n-2020-359-du-21-mars-2020-proclamant-l-etat-d-urgence-sanitaire-sur-tout-le-territoire-de-la-republique.html
-
-http://www.rfi.fr/fr/afrique/20200412-madagascar-liberte-presse-journaliste-prison-arphine-helisoa-rajoelina-rakotondraza
-
-https://rsf.org/en/news/madagascar-sabotage-silences-tv-channel-criticized-coronavirus-measures
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
-
-
-https://www.hirondelle.org/de/unsere-news/1131-the-challenges-of-journalism-during-covid-19-lockdown-in-madagascar
+https://perma.cc/GJM4-MHXU
+https://perma.cc/3CB7-SZTC
+https://perma.cc/K5AY-6DFT
+https://perma.cc/4L2A-ZD2C
+https://perma.cc/MLR8-D2FN
+https://perma.cc/Y48F-GE4K
+https://perma.cc/JMG3-7CAM
+https://perma.cc/6C2Z-TFD2
 
 
 
@@ -1273,17 +1173,12 @@ https://www.hirondelle.org/de/unsere-news/1131-the-challenges-of-journalism-duri
  No incidents of verbal harassment. 
 
 *Sources*:
- https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://www.amnesty.org/download/Documents/AFR3528192020ENGLISH.pdf
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/madagascar/
-
-https://rsf.org/en/news/rsf-urges-madagascar-let-journalists-cover-covid-19-freely
+ https://perma.cc/CW2C-YUFG
+https://perma.cc/E3RN-HL8F
+https://perma.cc/3SJV-TGU3
+https://perma.cc/Y72S-V2TE
+https://perma.cc/X4JE-W7SP
+https://perma.cc/WJ8L-TEYU
 
 
 
@@ -1327,25 +1222,27 @@ https://rsf.org/en/news/rsf-urges-madagascar-let-journalists-cover-covid-19-free
 Journalist Arphine Helsio was released on 4 May 2020 (6). 
 
 *Sources*:
- http://www.rfi.fr/fr/afrique/20200412-madagascar-liberte-presse-journaliste-prison-arphine-helisoa-rajoelina-rakotondraza
+ https://perma.cc/4L2A-ZD2C
 (1)
+https://perma.cc/8H6Y-7L8R
+(2)
 
-https://rsf.org/fr/actualites/coronavirus-madagascar-une-chaine-de-tele-victime-dun-acte-de-sabotage
+https://perma.cc/4VAP-WXZ8
+(3)
 
-https://www.rfi.fr/en/africa/20201102-abuse-against-journalists-in-africa-has-worsened-with-covid-19-restrictions-press-freedom-south-africa-reporters-without-borders
-
-https://afro.news/2020/11/03/situation-of-journalists-in-africa-has-worsened-with-covid-19-restrictions/
-
-https://information.tv5monde.com/terriennes/madagascar-une-journaliste-arretee-pour-avoir-critique-la-gestion-de-la-crise-du-covid-19
-
+https://perma.cc/Y3KE-WR3T
+(4)
+https://perma.cc/W9RB-24EV
+(5)
 https://twitter.com/tamaralegr/media
 (6)
+https://perma.cc/Y72S-V2TE
+(7)
 
-https://www.amnesty.org/download/Documents/AFR3528192020ENGLISH.pdf
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/madagascar/
-
-https://rsf.org/en/news/rsf-urges-madagascar-let-journalists-cover-covid-19-freely
+https://perma.cc/X4JE-W7SP
+(8)
+https://perma.cc/WJ8L-TEYU
+(9)
 
 
 
@@ -1398,34 +1295,24 @@ When the Madagascan president ended the state of emergency on 18 October 2020, h
 Also, the President Andry Rajoelina was initially strongly against Covid-19 vaccines and instead supported and promoted Covid-Organics as a cure. The President changed course regarding the vaccinations, and joined the WHO-led COVAX programme in April 2021. This decision however will not affect the ongoing distribution of Covid-Organics ( 3,4). 
 
 *Sources*:
- https://reports.unocha.org/en/country/southern-eastern-africa/card/6xJ98YvyVW/
+ https://perma.cc/6527-ZB93
 (1)
-
-https://www.africanews.com/2020/10/19/madagascar-ends-state-of-health-emergency//
+https://perma.cc/GJM4-MHXU
 (2)
-https://www.africanews.com/2021/04/01/madagascar-joins-the-covid-19-vaccine-covax-programme//
+https://perma.cc/6AB8-2UYS
 (3)
-
-https://www.dw.com/en/covid-19-vaccinations-madagascar-changes-course/av-57362730
+https://perma.cc/T7XT-RCFA
 (4)
-
-https://www.theafricareport.com/27201/coronavirus-andry-rajoelinas-remedy-flows-freely-in-madagascar/
+https://perma.cc/LPK8-CCL8
 (5)
+https://perma.cc/WNB9-NK4J
 
-https://www.aa.com.tr/en/africa/who-calls-for-clinical-trial-of-madagascars-virus-cure/1832600
-
-
-https://www.bbc.com/news/world-africa-52519853
-
-https://www.theafricareport.com/27203/coronavirus-madagascars-covid-organics-born-from-local-tradition/
-
-https://www.theafricareport.com/26599/coronavirus-the-miracle-remedy-touted-by-madagasars-rajoelina/
-
-https://www.garda.com/crisis24/news-alerts/339186/madagascar-authorities-extend-sanitary-state-of-emergency-until-may-17-update-7
-
-https://www.bbc.com/news/world-africa-52819674
-
-http://www.sante.gov.mg/ministere-sante-publique/
+https://perma.cc/L6DQ-VHL6
+https://perma.cc/NY2N-YZFM
+https://perma.cc/ZF28-QK9E
+https://perma.cc/TAX3-AE7D
+https://perma.cc/WES2-KAXN
+https://web.archive.org/web/20200415054746/http://www.sante.gov.mg/ministere-sante-publique/
 
 
 
@@ -1469,20 +1356,14 @@ http://www.sante.gov.mg/ministere-sante-publique/
  During Q2 2020, a police officer allegedly beat a street vendor, accused of violating an afternoon ban on commercial activities. Images of the victim were shared on social media, sparking fury among residents of Toamasina in eastern Madagascar. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/madagascar/
-
-https://www.africanews.com/2020/06/04/anti-lockdown-protest-in-madagascar-over-alleged-police-brutality//
-
-https://newsaf.cgtn.com/news/2020-06-06/Protests-erupt-in-Madagascar-over-alleged-police-violence-R5rOjacfyE/index.html
-
-http://venturesafrica.com/citizens-without-face-masks-sanctioned-to-community-service-in-madagascar/
-
-https://www.garda.com/crisis24/news-alerts/348241/madagascar-protesters-clash-with-police-in-toamasina-atsinanana-region-june-3
-
-https://www.barrons.com/news/madagascar-anti-lockdown-protests-flare-after-alleged-police-violence-01591212009
-
-https://www.youtube.com/watch?v=1HXwCeV6IiI
-https://www.africanews.com/2020/10/19/madagascar-ends-state-of-health-emergency//
+ https://perma.cc/X4JE-W7SP
+https://perma.cc/SN4G-CMWM
+https://perma.cc/9X4C-Z6D4
+https://perma.cc/EUT2-FBEH
+https://perma.cc/S2H6-8XFR
+https://perma.cc/Z8D2-PSP7
+https://perma.cc/98HA-P7EA
+https://perma.cc/GJM4-MHXU
 
 
 
@@ -1527,10 +1408,9 @@ The state of emergency was lifted on 18 October 2020 and reintroduced on 3 April
 ''National police, under the authority of the Ministry of Public Security, are responsible for maintaining law and order in urban areas. The gendarmerie and military report to the Ministry of National Defense. The gendarmerie is responsible for maintaining law and order in rural areas at the village level, protecting government facilities, and operating a maritime police contingent. The military is also active in rural areas, particularly in maintaining order in areas affected by cattle rustling and banditry. Civilian authorities at times did not maintain effective control over the security forces. Members of the security forces committed numerous abuses.'' (1) 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/madagascar/
+ https://perma.cc/X4JE-W7SP
 (1)
-
-https://www.france24.com/en/20200525-madagascar-to-send-troops-to-town-where-two-died-of-coronavirus
-https://africa.cgtn.com/2020/05/25/madagascar-to-deploy-soldiers-doctors-to-eastern-city-amid-covid-19-fears/
-https://www.voanews.com/covid-19-pandemic/madagascar-deploys-troops-doctors-city-after-spike-covid-19-cases
-https://www.africanews.com/2020/10/19/madagascar-ends-state-of-health-emergency//
+https://perma.cc/5BYK-Q9LT
+https://perma.cc/H2JF-SL85
+https://perma.cc/AUS8-UR8S
+https://perma.cc/GJM4-MHXU

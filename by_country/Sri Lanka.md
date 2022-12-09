@@ -47,29 +47,23 @@
 The declaration of the curfew in Q2 2020 (1) refers to the Quarantine and Prevention of Diseases Ordinance (2). Moreover, “some within the GoSL have claimed that the Quarantine and Prevention of Diseases Ordinance (QPDO), No.3 of 1897 provided the legal basis for such restrictions” (3). Since the declaration of emergency measures does not refer to any legal instrument, emlaw is coded as 5 in all quarters. 
 
 *Sources*:
- https://www.wionews.com/sri-lanka/sri-lanka-further-relaxes-covid-19-curfew-305660
-
-https://www.bbc.com/news/world-asia-53042755
-
-https://www.idea.int/sites/default/files/publications/emergency-law-responses-to-covid19.pdf
-
-https://verfassungsblog.de/sri-lankas-legal-response-to-covid-19-past-trends-and-future-prospects/
+ https://perma.cc/Z9JY-JNWD
+https://perma.cc/E6WL-PDVL
+https://perma.cc/L2PD-UQFA
+https://perma.cc/2BMR-5DUU
 (3)
 
 https://covid19.gov.lk/news/defence/military-response-to-covid-19-pandemic.html
-https://www.army.lk/news/nocpco-head-cautions-against-public-gatherings-sans-health-practices-guidelines
-
-https://alt.army.lk/covid19/content/head-nocpco-announces-emergency-travel-restrictions-preparedness
-
-https://mfa.gov.lk/declaration-of-police-curfew-island-wide/
+https://perma.cc/C9YV-R4EK
+https://perma.cc/UCL3-9M6Q
+https://perma.cc/6ZSJ-S9QC
 (1)
-https://www.srilankalaw.lk/Alphabetical-List-of-Statutes/quarantine-and-prevention-of-diseases-ordinance.html
+https://perma.cc/5A5L-A3KM
 (2)
+https://web.archive.org/web/20210110141958/https://covid19.gov.lk/news/health/from-now-onwards-first-contacts-will-be-placed-under-self-quarantine-head-nocpco.html
 
-
-https://covid19.gov.lk/news/health/from-now-onwards-first-contacts-will-be-placed-under-self-quarantine-head-nocpco.html
 https://covid19.gov.lk/news/defence/people-urged-to-restrict-their-movements-further-head-of-nocpco.html
-https://www.army.lk/news/travel-restrictions-be-effective-midnight-11-head-nocpco
+https://perma.cc/P67E-7HPA
 
 
 
@@ -399,17 +393,12 @@ https://www.army.lk/news/travel-restrictions-be-effective-midnight-11-head-nocpc
 In all periods, measures were declared by the government without reference to the legal instrument.  Some members of the government argued that the measures could be justified with Quarantine and Prevention of Diseases Ordinance (1), but it provides no legal basis for declaring some of the measures, such as a nationwide curfew (2). “Moreover, in terms of Article 15(6) of the Constitution the freedom of movement can only be restricted through an Act of Parliament or by regulations made under the Public Security Ordinance.” (2) Since the measures were declared without reference to legal instruments, leglimit is coded as 3 in Q4 2020, Q1 2021, Q2 2021. 
 
 *Sources*:
- https://www.reuters.com/article/us-sri-lanka-politics-election/sri-lanka-delays-general-election-for-second-time-sets-august-5-as-new-date-idUSKBN23H1RW
-
-https://www.dw.com/en/coronavirus-keeps-sri-lanka-without-a-functioning-parliament/a-53615108
-https://www.parliament.lk/en/news-en/view/1851?category=6
-
-
-https://www.electionguide.org/elections/id/3498/
-
-https://www.lawnet.gov.lk/quarantine-and-prevention-of-diseases-4/
-
-https://verfassungsblog.de/sri-lankas-legal-response-to-covid-19-past-trends-and-future-prospects/
+ https://perma.cc/B8NK-VHA8
+https://perma.cc/9NZM-QJ7Z
+https://perma.cc/7D87-C78W
+https://perma.cc/D2M9-F56Q
+https://perma.cc/6LLH-6YX9
+https://perma.cc/65C7-L35X
 (2)
 
 
@@ -449,9 +438,8 @@ https://verfassungsblog.de/sri-lankas-legal-response-to-covid-19-past-trends-and
  On 02 March, the President dissolved the parliament calling for new elections, originally scheduled for 25 April 2020. Shortly thereafter, the government instituted a 52-day lockdown. Since then, elections have been delayed three times, until 05 August, citing concerns over Covid-19. 
 
 *Sources*:
- https://www.bbc.com/news/world-asia-53694392
-
-https://www.reuters.com/article/us-sri-lanka-election-result-idUSKCN25308L
+ https://perma.cc/M2R5-KPEZ
+https://perma.cc/GN7P-XK2V
 
 
 
@@ -490,9 +478,8 @@ https://www.reuters.com/article/us-sri-lanka-election-result-idUSKCN25308L
  Elections were held in Sri Lanka on 5 August 2020. The parliament has not been dissolved since August 2020. 
 
 *Sources*:
- https://www.bbc.com/news/world-asia-53694392
-
-https://www.reuters.com/article/us-sri-lanka-election-result-idUSKCN25308L
+ https://perma.cc/M2R5-KPEZ
+https://perma.cc/GN7P-XK2V
 
 
 
@@ -543,24 +530,19 @@ There were slight variations in the emergency measures at the sub-national level
 
 *Sources*:
  (1)
-https://island.lk/sri-lanka-struck-hard-as-covid-19-starts-global-second-wave/
-
-
-(2)http://www.dailymirror.lk/breaking_news/Curfew-in-Gampaha-will-remain-for-few-days/108-197677
-
-(3)https://www.newsfirst.lk/2020/10/23/quarantine-curfew-not-extended-to-other-areas/
-
+https://perma.cc/7YPL-GMHC
+(2)
+https://perma.cc/UY7T-TL4K
 (3)
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011875057/sri-lanka-officials-extend-nationwide-ban-on-nonessential-movement-to-0400-june-14-due-to-covid-19-activity-update-56
-
+https://perma.cc/KSX6-5H35
+(3)
+https://perma.cc/AJG9-QGKG
 (4)
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011875041/sri-lanka-sri-lanka-continuing-to-enforce-covid-19-restrictions-as-of-feb-15-update-40
-
+https://perma.cc/QTR8-2NKW
 (5)
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011875060/sri-lanka-officials-extend-domestic-covid-19-curbs-including-movement-restrictions-through-june-21-update-59
-
+https://perma.cc/U2AX-9EAQ
 (6)
-https://www.garda.com/crisis24/news-alerts/478581/sri-lanka-officials-impose-additional-movement-curbs-through-may-31-due-to-covid-19-activity-update-50
+https://perma.cc/TK5E-4KGH
 
 
 
@@ -611,31 +593,23 @@ The anti-cremation order was lifted in February 2021. However bodies are now onl
 
 *Sources*:
  (1)
-https://www.hrw.org/news/2020/04/23/sri-lanka-due-process-concerns-arrests-muslims
-
+https://perma.cc/WGS8-GXBC
 (2)
-https://groundviews.org/2020/04/05/the-president-in-the-pandemic/
-
+https://perma.cc/UB7X-HB7P
 (3)
-https://www.amnesty.org/en/latest/news/2020/04/sri-lanka-religious-minorities-must-have-their-final-rites-respected/
-
-
+https://perma.cc/6G5W-QBSZ
 (4)
-https://www.bbc.com/news/world-asia-53295551
-
+https://perma.cc/4Q3U-NZ5U
 (5)
-https://www.tamilguardian.com/content/sri-lanka-faces-international-condemnation-over-forced-cremation-muslims
-
-(6)https://www.thecitizen.in/index.php/en/NewsDetail/index/6/19620/UN-Urges-Sri-Lanka-to-Allow-Last-Rites-for-Covid-Patients-as-Per-Religion
-
+https://perma.cc/32VT-HYAH
+(6)
+https://perma.cc/QTB8-URKQ
 (7)
-http://www.ft.lk/columns/Lankan-Muslims-deeply-disturbed-at-Govt-failure-to-stop-cremating-Muslims-who-died-of-COVID-19/4-708578
-
+https://perma.cc/2ZKT-CPXA
 (8)
-https://www.bbc.com/news/world-asia-56205737
-
+https://perma.cc/5RVQ-SP3T
 (9)
-https://www.bbc.com/news/world-asia-56249805
+https://perma.cc/5WMA-ZEK7
 
 
 
@@ -687,24 +661,17 @@ The anti-cremation order was lifted in February 2021. However bodies are now onl
 
 *Sources*:
  (1)
-https://www.amnesty.org/en/latest/news/2020/04/sri-lanka-religious-minorities-must-have-their-final-rites-respected/
-
-
+https://perma.cc/78WD-ZLPG
 (2)
-https://english.alarabiya.net/en/coronavirus/2020/04/20/Coronavirus-Muslims-in-Sri-Lanka-forced-to-cremate-dead-stigmatized-under-lockdown
-
-
+https://perma.cc/PN4N-PP8Z
 (3)
-https://www.thehindu.com/news/international/petitions-challenge-sri-lankan-governments-compulsory-cremation-rule/article31585459.ece
-
+https://perma.cc/U5TU-LZZE
 (4)
-https://thewire.in/south-asia/sri-lanka-covid-19-demonisation-minorities
-
+https://perma.cc/7CB4-HJMS
 (5)
-https://www.bbc.com/news/world-asia-56205737
-
+https://perma.cc/MTF7-8WPR
 (6)
-https://www.bbc.com/news/world-asia-56249805
+https://perma.cc/P63Z-CEDT
 
 
 
@@ -749,12 +716,9 @@ https://www.bbc.com/news/world-asia-56249805
 
 *Sources*:
  (1)
-https://www.hrw.org/news/2020/04/03/sri-lanka-uses-pandemic-curtail-free-expression
-
-
-
+https://perma.cc/732J-29YD
 (2)
-http://adayaalam.org/situation-brief-no-3-covid-19-sri-lankas-militarised-response-poses-grave-threats-to-human-rights/
+https://perma.cc/UD3S-AZE4
 
 
 
@@ -875,19 +839,13 @@ http://adayaalam.org/situation-brief-no-3-covid-19-sri-lankas-militarised-respon
 
 *Sources*:
  (1)
-https://rsf.org/en/sri-lanka
-
-
+https://perma.cc/3MCU-B279
 (2)
-https://www.bbc.com/news/topics/cywd23g0gxgt/sri-lanka
-
-
+https://perma.cc/V5DU-JA2D
 (3)
-https://www.amnesty.org/en/countries/asia-and-the-pacific/sri-lanka/
-
-
+https://perma.cc/HHV3-P4FB
 (4)
-https://www.hrw.org/asia/sri-lanka
+https://perma.cc/CP9N-H6R7
 
 
 
@@ -936,17 +894,14 @@ I have not found new examples of the media facing de-facto limitations on report
 
 *Sources*:
  (1)
-http://adayaalam.org/situation-brief-no-3-covid-19-sri-lankas-militarised-response-poses-grave-threats-to-human-rights/
+https://perma.cc/UD3S-AZE4
 
 (2)
-http://adayaalam.org/wp-content/uploads/2020/04/COVID-19-Situation-Brief-Sri-Lankas-Militarised-Response-poses-grave-threats-to-human-rights.pdf
-
-
+https://perma.cc/K6DE-ZAYL
 (3)
-https://www.hrw.org/news/2020/08/08/sri-lanka-increasing-suppression-dissent
-
+https://perma.cc/U9AW-CT9P
 (4)
-https://www.hrw.org/news/2020/06/24/sri-lanka-end-persecution-journalist
+https://perma.cc/PS9M-9WMS
 
 
 
@@ -988,16 +943,10 @@ https://www.hrw.org/news/2020/06/24/sri-lanka-end-persecution-journalist
  I did not find any information related to this across all time periods. 
 
 *Sources*:
- https://rsf.org/en/sri-lanka
-
-
-https://www.bbc.com/news/topics/cywd23g0gxgt/sri-lanka
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/sri-lanka/
-
-
-https://www.hrw.org/asia/sri-lanka
+ https://perma.cc/3MCU-B279
+https://perma.cc/V5DU-JA2D
+https://perma.cc/HHV3-P4FB
+https://perma.cc/CP9N-H6R7
 
 
 
@@ -1047,19 +996,13 @@ However,
 
 *Sources*:
  (1)
-https://www.hrw.org/news/2020/04/23/sri-lanka-due-process-concerns-arrests-muslims
-
-
+https://perma.cc/WGS8-GXBC
 (2)
-https://groundviews.org/2020/04/05/the-president-in-the-pandemic/
-
-
+https://perma.cc/UB7X-HB7P
 (3)
-http://adayaalam.org/situation-brief-no-3-covid-19-sri-lankas-militarised-response-poses-grave-threats-to-human-rights/
-
-
+https://perma.cc/K6DE-ZAYL
 (4)
-http://adayaalam.org/wp-content/uploads/2020/04/COVID-19-Situation-Brief-Sri-Lankas-Militarised-Response-poses-grave-threats-to-human-rights.pdf
+https://perma.cc/UD3S-AZE4
 
 
 
@@ -1101,18 +1044,11 @@ http://adayaalam.org/wp-content/uploads/2020/04/COVID-19-Situation-Brief-Sri-Lan
  I did not find instances of the government or its agents verbally harassing journalists reporting on Covid-19. However, there have been multiple cases of journalists being harassed both verbally and physically for their critical reporting on issues other than Covid-19. 
 
 *Sources*:
- https://rsf.org/en/sri-lanka
-
-
-https://www.bbc.com/news/topics/cywd23g0gxgt/sri-lanka
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/sri-lanka/
-
-
-https://www.hrw.org/asia/sri-lanka
-
-https://cpj.org/2020/12/at-least-5-sri-lankan-journalists-assaulted-while-reporting-in-october/
+ https://perma.cc/3MCU-B279
+https://perma.cc/V5DU-JA2D
+https://perma.cc/HHV3-P4FB
+https://perma.cc/CP9N-H6R7
+https://perma.cc/Q7PH-G5LK
 
 
 
@@ -1154,7 +1090,7 @@ https://cpj.org/2020/12/at-least-5-sri-lankan-journalists-assaulted-while-report
  “On March 29, online journalist Nuwan Nirodha Alwis was arrested for allegedly publishing unverified information about a suspected COVID-19 patient.” (1) No information found in later time periods. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/sri-lanka
+ https://perma.cc/5FYC-6YQY
 (1)
 
 
@@ -1212,50 +1148,32 @@ However, guidelines published by the WHO does not mention dangers to drinking wa
 
 *Sources*:
  (1)
-http://adayaalam.org/wp-content/uploads/2020/04/COVID-19-Situation-Brief-Sri-Lankas-Militarised-Response-poses-grave-threats-to-human-rights.pdf
-
-
-
+https://perma.cc/K6DE-ZAYL
 (2)
-http://adayaalam.org/situation-brief-no-3-covid-19-sri-lankas-militarised-response-poses-grave-threats-to-human-rights/
-
-
-
+https://perma.cc/UD3S-AZE4
 (3)
-https://www.thehindu.com/news/international/muslim-organisations-in-sri-lanka-concerned-over-hate-mongering/article31334589.ece
-
-
+https://perma.cc/4YXK-CG8E
 (4)
-https://www.hrw.org/news/2020/04/23/sri-lanka-due-process-concerns-arrests-muslims
-
-
-
+https://perma.cc/8K7T-GEWM
 (5)
-https://groundviews.org/2020/04/05/the-president-in-the-pandemic/
-
-
-
+https://perma.cc/7VEQ-N3BU
 (6)
-https://www.bbc.com/news/world-asia-53295551
-
-
-
-(7)https://www.who.int/publications/i/item/infection-prevention-and-control-for-the-safe-management-of-a-dead-body-in-the-context-of-covid-19-interim-guidance
-
+https://perma.cc/ZF2E-GB6G
+(7)
+https://perma.cc/D6AJ-5TK7
 (8)
-https://www.bbc.com/news/world-asia-56205737
-
+https://perma.cc/2D5S-AR65
 (9)
-https://www.bbc.com/news/world-asia-56249805
-
+https://perma.cc/2D5S-AR65
 (10)
-https://covid19.gov.lk/news/defence/meth-sanda-sewana-residents-in-quarantine-to-use-herbal-medicine-against-covid-19.html
-
+https://perma.cc/LM25-ZFJK
 (11)
-https://www.bbc.com/news/world-asia-55780425
+https://web.archive.org/web/20201202180416/https://covid19.gov.lk/news/defence/meth-sanda-sewana-residents-in-quarantine-to-use-herbal-medicine-against-covid-19.html
 
 (12)
-https://www.theguardian.com/world/2021/jan/19/sri-lankan-holy-mans-miracle-potion-for-covid-turns-sour
+https://perma.cc/HA5Q-Y9ZM
+(13)
+https://perma.cc/3FXT-95MF
 
 
 
@@ -1302,24 +1220,17 @@ I did not find additional information on instance of police or military violence
 
 *Sources*:
  (1)
-https://www.thehindu.com/news/international/concern-over-police-brutality-in-sri-lanka/article31798486.ece
-
-
+https://perma.cc/CZ4Q-V3YZ
 (2)
-https://www.thehindu.com/news/international/sri-lanka-to-probe-police-assault-on-autistic-teen/article31761545.ece
-
-
+https://perma.cc/Q3GQ-TTJC
 (3)
-https://www.newsfirst.lk/2020/04/13/two-cops-interdicted-for-imposing-indian-style-punishment/
-
+https://perma.cc/QX6H-Z4BF
 (4)
-https://economynext.com/sri-lanka-bar-association-concerned-about-police-brutality-says-will-intervene-if-necessary-80387/
-
+https://perma.cc/DJ2B-VV8H
 (5)
-https://www.newsfirst.lk/2021/03/29/video-cop-brutally-assaults-man-on-busy-road/
-
+https://perma.cc/Z7B8-Q9EH
 (6)
-https://srilankabrief.org/tag/police-brutality/
+https://perma.cc/PR7L-YYVG
 
 
 
@@ -1361,15 +1272,10 @@ https://srilankabrief.org/tag/police-brutality/
  The military has been participating in various ways during the 52 day lockdown period. For example, they have been participating in contact tracing and running quarantine centers. Since the lockdown ended in Q2 2020, all other time periods are  coded as 0. 
 
 *Sources*:
- http://adayaalam.org/wp-content/uploads/2020/04/COVID-19-Situation-Brief-Sri-Lankas-Militarised-Response-poses-grave-threats-to-human-rights.pdf
+ https://perma.cc/K6DE-ZAYL
 
-
-https://www.thehindu.com/news/international/covid-19-sri-lankan-military-is-helping-the-country-fight-the-pandemic/article31350778.ece#:~:text=National%20Operation%20Center,by%20Army%20Commander%20Shavendra%20Silva.
-
-https://www.icj.org/sri-lanka-vulnerable-groups-pay-the-price-for-militarization-of-covid-19-response/
-
-https://www.medact.org/2020/blogs/sri-lanka-coronavirus/
-
-https://www.business-humanrights.org/es/%C3%BAltimas-noticias/sri-lanka-militarised-response-to-covid-19-intensifying-ethnic-divide-among-workers-minorities/
-
-https://www.medact.org/2020/blogs/sri-lanka-coronavirus/
+https://perma.cc/LK4L-VZDU
+https://perma.cc/Y64W-BT46
+https://perma.cc/3V7L-YKLU
+https://perma.cc/7H7C-A7KH
+https://perma.cc/377L-ZTT8

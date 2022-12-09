@@ -45,17 +45,16 @@
  No state of emergency declared and the measures included: Resolution of the Council of Ministers 208 from 8 April 2020 that resticted people in self-isolation from leaving their home and Resolution of the Council of Ministers 171 from 25 March 2020 (amended on 24 April 2020, 26 June 2020) establishing rules for transport operators and people arriving from certain foreign countries (the list of countries that do not require self-isolation was last amended on 11 June 2020). On 24 April, the President signed a decree introducing measures to support the economy. According to OSCE report, such regulations are of "rather limited scope" (1). According to OECD, Belarus has introduced only some containment measures and no "comprehensive containment measures" (2).  Nevertheless, I coded them as part of the emergency response similar to International IDEA. 
 
 *Sources*:
- https://pravo.by/document/?guid=12551&p0=C22000208&p1=1&p5=0
-http://www.government.by/upload/docs/file1dfbe646dd5b11d0.PDF
-http://www.government.by/upload/docs/fileebd46c4c0ea2ddf9.PDF
-https://www.icnl.org/covid19tracker/?location=10&issue=&date=&type=
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B370%5D&covid19=1
-https://pravo.by/novosti/obshchestvenno-politicheskie-i-v-oblasti-prava/2020/june/51500/
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-(1)
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/
-(2)
-http://president.gov.by/ru/official_documents_ru/view/ukaz-143-ot-24-aprelja-2020-g-23485/
+ https://perma.cc/NN2K-2S3S
+https://web.archive.org/web/20200523064001/http://www.government.by/upload/docs/file1dfbe646dd5b11d0.PDF
+https://web.archive.org/web/20200813085104/http://www.government.by/upload/docs/fileebd46c4c0ea2ddf9.PDF
+
+https://perma.cc/Z82W-U967
+https://perma.cc/J7UH-BULT
+https://perma.cc/F59N-PSDB
+https://perma.cc/FUR3-AP8Q
+https://perma.cc/2S8F-ECXT
+https://perma.cc/5CYW-454M
 
 
 
@@ -94,8 +93,8 @@ http://president.gov.by/ru/official_documents_ru/view/ukaz-143-ot-24-aprelja-202
  Own English translation: Law of the Republic of Belarus from 7 January 2012 on sanitary and epidemiological well-being of the population. According to Art 7 on the responsibility of the Council of Ministers, the Council of Ministers is responsible for nationwide sanitary and epidemiological policy, international cooperation, development and implementation of nationwide policies, and other responsibilities based on existing legislation (own translation). 
 
 *Sources*:
- https://pravo.by/document/?guid=12551&p0=C22000171&p1=1
-https://pravo.by/document/?guid=2012&oldDoc=2012-8/2012-8(020-153).pdf&oldDocPage=1
+ https://perma.cc/EC7R-W7GT
+https://perma.cc/TG5X-UFDD
 
 
 
@@ -134,7 +133,7 @@ https://pravo.by/document/?guid=2012&oldDoc=2012-8/2012-8(020-153).pdf&oldDocPag
 *No comment provided* 
 
 *Sources*:
- https://pravo.by/document/?guid=12551&p0=C22000171&p1=1
+ https://perma.cc/RQ5E-8VEA
 
 
 
@@ -173,7 +172,7 @@ https://pravo.by/document/?guid=2012&oldDoc=2012-8/2012-8(020-153).pdf&oldDocPag
  No end date for the measures, which are limited in scope (self-isolation for people affected by covid-19, special rules for transport operators and self-isolation for people arriving from foreign countries). The implementation has not ended at the time of coding. 
 
 *Sources*:
- https://pravo.by/document/?guid=12551&p0=C22000171&p1=1
+ https://perma.cc/L6Q5-9QET
 
 
 
@@ -215,7 +214,7 @@ https://pravo.by/document/?guid=2012&oldDoc=2012-8/2012-8(020-153).pdf&oldDocPag
  No end date for the measures, which are limited in scope (self-isolation for people affected by covid-19, special rules for transport operators and self-isolation for people arriving from foreign countries). 
 
 *Sources*:
- https://pravo.by/document/?guid=12551&p0=C22000171&p1=1
+ https://perma.cc/5FFW-SR2G
 
 
 
@@ -296,8 +295,8 @@ https://pravo.by/document/?guid=2012&oldDoc=2012-8/2012-8(020-153).pdf&oldDocPag
  Legislature approval is not required based on Law of the Republic of Belarus from 7 January 2012 on sanitary and epidemiological well-being of the population. 
 
 *Sources*:
- https://pravo.by/document/?guid=12551&p0=C22000171&p1=1
-https://pravo.by/document/?guid=2012&oldDoc=2012-8/2012-8(020-153).pdf&oldDocPage=1
+ https://perma.cc/K67L-SZC3
+https://perma.cc/EC7S-8M6X
 
 
 
@@ -339,8 +338,8 @@ https://pravo.by/document/?guid=2012&oldDoc=2012-8/2012-8(020-153).pdf&oldDocPag
  Not required by law (see emlawapp) 
 
 *Sources*:
- https://pravo.by/document/?guid=12551&p0=C22000171&p1=1
-https://pravo.by/document/?guid=2012&oldDoc=2012-8/2012-8(020-153).pdf&oldDocPage=1
+ https://perma.cc/E8ZF-HAPE
+https://perma.cc/QF4S-D4UJ
 
 
 
@@ -386,9 +385,10 @@ https://pravo.by/document/?guid=2012&oldDoc=2012-8/2012-8(020-153).pdf&oldDocPag
  No changes (legal or procedural) to the legislature found. 
 
 *Sources*:
- http://www.house.gov.by/ru/zakonodatelnaya-dejatelnost-ru/
-http://www.house.gov.by/ru/news-ru/
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B370%5D&covid19=1
+ https://perma.cc/6FKB-5P9N
+https://perma.cc/6U9D-3SNT
+https://perma.cc/J7UH-BULT
+
 
 
 
@@ -510,13 +510,14 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B37
  Almost uniform measures in the whole country. Since November 2020, some regions introduced mandatory mask wearing, but otherwise the measures do not vary regionally. 
 
 *Sources*:
- https://pravo.by/document/?guid=12551&p0=C22000208&p1=1&p5=0
-http://www.government.by/upload/docs/file1dfbe646dd5b11d0.PDF
-http://www.government.by/upload/docs/fileebd46c4c0ea2ddf9.PDF
-https://www.icnl.org/covid19tracker/?location=10&issue=&date=&type=
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B370%5D&covid19=1
+ https://perma.cc/NN2K-2S3S
+https://web.archive.org/web/20200523064001/http://www.government.by/upload/docs/file1dfbe646dd5b11d0.PDF
+https://web.archive.org/web/20200813085104/http://www.government.by/upload/docs/fileebd46c4c0ea2ddf9.PDF
+https://perma.cc/Z82W-U967
+https://perma.cc/J7UH-BULT
 
-https://minsk.gov.by/ru/normdoc/4430/https://www.belta.by/society/view/objazatelnyj-masochnyj-rezhim-postepenno-vvedut-po-vsej-belarusi-minzdrav-415691-2020/
+https://web.archive.org/web/20201113113143/https://minsk.gov.by/ru/normdoc/4430/
+https://perma.cc/UW59-4DD3
 
 
 
@@ -560,8 +561,8 @@ https://minsk.gov.by/ru/normdoc/4430/https://www.belta.by/society/view/objazatel
  No de-jure disciminating provisions and no information on de-facto discrimination found. No new information found since June 2020. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/belarus/
-https://www.hrw.org/europe/central-asia/belarus
+ https://perma.cc/VFY8-KJK6
+https://perma.cc/R8EC-Z3RE
 
 
 
@@ -610,10 +611,10 @@ https://www.hrw.org/europe/central-asia/belarus
  No measures violating non-derogable rights found. There have been numberous documented cases of torture (Art 7 of the ICCPR) following the presidential elections in August 2020, which are not considered in the coding since it only captures incidents related to covid-19. 
 
 *Sources*:
- https://pravo.by/document/?guid=12551&p0=C22000171&p1=1
-https://www.amnesty.org/en/countries/europe-and-central-asia/belarus/
-https://www.hrw.org/europe/central-asia/belarus
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26199&LangID=E
+ https://perma.cc/UZ2B-H4VJ
+https://perma.cc/X9GE-CTS3
+https://perma.cc/MPA8-XLDG
+https://perma.cc/K2EB-DYW4
 
 
 
@@ -657,8 +658,8 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26199&LangID=E
  No evidence of emergency measures limiting media freedom found. Under existing legislation (The 2008 Media Law of Belarus), media outlets that public false information can get their license revoked or be blocked, which was used to threated a media outlet for publishing a story about the dealth of a Covid-19 patient in April 2020. Since it is existing legislation, it is not considered in the coding. 
 
 *Sources*:
- https://pravo.by/document/?guid=12551&p0=C22000171&p1=1
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/freedom-of-expression-during-covid-19.pdf
+ https://perma.cc/Y48W-H4T7
+https://perma.cc/D2K7-U678
 
 
 
@@ -778,20 +779,22 @@ https://www.loc.gov/law/help/covid-19-freedom-of-expression/freedom-of-expressio
  Journalist Siarhei Satsuk was detained on 25 March 2020 based on corruption charges after publishing an article that challenges official covid-19 statistics figures. On 7 May, "the Belarusian authorities stripped two Russian media workers of their press accreditation after they reported about increasing coronavirus death rates in the country." (IPI, 1)Although new information was found since June 2020, still coded as 1 as media freedom in Belarus in general is restricted, and independent journalism has been further limited since the 2020 presidential elections. Numerous articles by the IPI and Reporters without Borders on increasing restrictions on press freedom suggest that media faces de-facto limitations on their reporting, which would also apply to reporting on the nature of the Covid-19 virus. For example, on 29 August 2020 the government withdrew accrediation of 17 journalists working for "Associated Press, AFP, German television network ARD, Deutsche Welle, Reuters, RFE/RL, Radio France International, the New York Times and the Wall Street Journal" (IPI,3). Since 21 August, the government blocked more than 70 websites, including "Radio Svaboda (the Belarusian service of Prague-based Radio Free Europe/Radio Liberty), the site of Belsat (a TV channel run by exile journalists based in Warsaw), the Belarusian sites of The Village and Warsaw-based Euroradio, and the Belarusian version of the Russian alternative media outlet MediaZona." (Reporters without Borders). 
 
 *Sources*:
- https://rsf.org/en/news/belarusian-journalist-arrested-criticizing-presidents-covid-19-approach
-https://cpj.org/2020/03/belarusian-journalist-siarhei-satsuk-detained-on-b/
-
-https://ipi.media/four-journalists-jailed-as-belarus-cracks-down-on-opposition-reporting/
+ https://perma.cc/D3CD-4MQ8
+https://perma.cc/WXP4-AK6D
+https://perma.cc/UZV4-3M6N
 (1)
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B370%5D&covid19=1
 
-https://ipi.media/ipi-condemns-belarus-for-cancelling-accreditation-of-journalists/
+https://perma.cc/5XE2-9XXX
+
+https://perma.cc/4YVB-KPDT
 (3)
-https://ipi.media/belarusian-journalists-face-prosecution-and-suppression-as-government-tactics-morph/
-https://rsf.org/en/news/belarus-many-journalists-arrested-foreign-media-stripped-accreditation
-https://rsf.org/en/news/belarus-government-cant-change-course-history-concealing-facts-online
+
+https://perma.cc/URJ7-8TAU
+https://perma.cc/TCU2-QU54
+https://perma.cc/G48C-87A5
 (3)
-https://cpj.org/reports/2019/09/10-most-censored-eritrea-north-korea-turkmenistan-journalist/
+
+https://perma.cc/5C8B-YTPS
 
 
 
@@ -833,17 +836,18 @@ https://cpj.org/reports/2019/09/10-most-censored-eritrea-north-korea-turkmenista
  Journalist Siarhei Satsuk was detained on 25 March 2020 based on corruption charges after publishing an article critical of the government's response to the pandemic. Although new information was found since June 2020, still coded as 1 as media freedom in Belarus in general is restricted, and independent journalism has been further limited since the 9 August presidential elections. Numerous articles by the IPI and Reporters without Borders on increasing restrictions on press freedom suggest that media faces de-facto limitations on their reporting, which would apply also to reporting on the government response to the Covid-19 pandemic. For example, on 29 August 2020 the government withdrew accrediation of 17 journalists working for "Associated Press, AFP, German television network ARD, Deutsche Welle, Reuters, RFE/RL, Radio France International, the New York Times and the Wall Street Journal" (IPI,1). Since 21 August, the government blocked more than 70 websites, including "Radio Svaboda (the Belarusian service of Prague-based Radio Free Europe/Radio Liberty), the site of Belsat (a TV channel run by exile journalists based in Warsaw), the Belarusian sites of The Village and Warsaw-based Euroradio, and the Belarusian version of the Russian alternative media outlet MediaZona." (Reporters without border, 2). 
 
 *Sources*:
- https://rsf.org/en/news/belarusian-journalist-arrested-criticizing-presidents-covid-19-approach
-https://cpj.org/2020/03/belarusian-journalist-siarhei-satsuk-detained-on-b/
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B370%5D&covid19=1
-
-https://ipi.media/ipi-condemns-belarus-for-cancelling-accreditation-of-journalists/
+ https://perma.cc/FGA6-LMWF
+https://perma.cc/KK69-LGQG
+https://perma.cc/J7UH-BULT
+https://perma.cc/YX5K-53TX
 (1)
-https://ipi.media/belarusian-journalists-face-prosecution-and-suppression-as-government-tactics-morph/
-https://rsf.org/en/news/belarus-many-journalists-arrested-foreign-media-stripped-accreditation
+
+https://perma.cc/KG33-NX52
+https://perma.cc/Y2XV-C2DC
 (2)
-https://rsf.org/en/news/belarus-government-cant-change-course-history-concealing-facts-online
-https://cpj.org/reports/2019/09/10-most-censored-eritrea-north-korea-turkmenistan-journalist/
+
+https://perma.cc/2M3V-R69V
+https://perma.cc/9VTR-YEAY
 
 
 
@@ -885,8 +889,8 @@ https://cpj.org/reports/2019/09/10-most-censored-eritrea-north-korea-turkmenista
  No information found on instances of limitations on media reporting on non-Covid-19 related news but with reference to the pandemic. 
 
 *Sources*:
- https://ipi.media/belarus/
-https://rsf.org/en/belarus
+ https://perma.cc/9Y5F-HKBJ
+https://perma.cc/4WU9-CAXE
 
 
 
@@ -929,11 +933,9 @@ https://rsf.org/en/belarus
  According to Library of Congress (p.40), "Social organizations have reported on numerous cases of government attempts to withhold information from the public and intimidate independent media outlets, especially when reporting on the health care system and its handling of Covid-19 cases" (1), citing a report from May 2020. Since there were many incidents and I found no evidence that the situation improved, meinf is coded as 2. 
 
 *Sources*:
- https://www.loc.gov/law/help/covid-19-freedom-of-expression/freedom-of-expression-during-covid-19.pdf
-(1)
-
-https://perma.cc/T3B6-A947
-https://www.hrw.org/world-report/2021/country-chapters/belarus
+ https://perma.cc/P94Z-5GBD
+https://perma.cc/GU4F-EP8V
+https://perma.cc/HT4S-CGWZ
 
 
 
@@ -975,8 +977,8 @@ https://www.hrw.org/world-report/2021/country-chapters/belarus
  No information about cases of verbal harassment of journalists reporting on Covid-19 found. 
 
 *Sources*:
- https://rsf.org/en/belarus
-https://ipi.media/belarus/
+ https://perma.cc/UU2A-57J9
+https://perma.cc/5TF8-PW2K
 
 
 
@@ -1018,7 +1020,7 @@ https://ipi.media/belarus/
  Sergei Satsuk was arrested on 25 March 2020 after publishing an article that questioned Covid-19 statistics in Belarus. Since he was charged for giving a bribe, it is not certain that he was arrested in connection with reporting specifically on Covid-19. No other information about cases of physical harassment of journalists reporting on Covid-19 found. 
 
 *Sources*:
- https://rsf.org/en/news/belarusian-journalist-arrested-criticizing-presidents-covid-19-approach
+ https://perma.cc/VXY7-EX7B
 
 
 
@@ -1068,17 +1070,18 @@ Q4 2020:  no new disinformation from the government, except for a statement by A
 Q1 2021, Q2 2021: I have not found any further disinformation from the government. Because a long time has passed since the initial statements, govmis is coded as 0. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/05/how-not-to-handle-a-pandemic/
-http://www.minzdrav.gov.by/ru/dlya-belorusskikh-grazhdan/COVID-19/
-https://www.nytimes.com/2020/04/02/world/asia/coronavirus-denial-post-soviet.html
-https://www.bbc.com/russian/news-53570933
-https://www.nytimes.com/2020/04/25/world/europe/belarus-lukashenko-coronavirus.html
-https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
-https://www.belta.by/society/view/minzdrav-rekomenduet-sobljudat-pravila-sotsialnogo-distantsirovanija-408211-2020/
-https://t.me/pul_1/1765
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+ https://perma.cc/2JNM-6ZJ8
+https://perma.cc/QQ7H-6GYH
+https://perma.cc/UH4T-67M4
+https://perma.cc/R3F6-9HBA
+https://perma.cc/EF8J-DF6U
+https://perma.cc/A7DY-GZVL
+https://perma.cc/3FLU-83YN
+https://perma.cc/BDV6-EX3S
+https://perma.cc/NYF2-EBUD
 (1)
-https://www.hrw.org/news/2020/05/06/belaruss-parade-plans-defy-public-health-recommendations
+
+https://perma.cc/28JM-GES7
 (2)
 
 
@@ -1123,9 +1126,9 @@ https://www.hrw.org/news/2020/05/06/belaruss-parade-plans-defy-public-health-rec
  No information found on police violence due to covid-19-related measures. There have been numberous cases of police violence and torture following the presidential elections in August 2020, which are not considered in the coding since it only captures incidents related to covid-19. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/08/belarus-police-must-be-held-accountable-for-violence/
-https://www.amnesty.org/en/latest/news/2020/08/belarus-mounting-evidence-of-a-campaign-of-widespread-torture-of-peaceful-protesters/
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26199&LangID=E
+ https://perma.cc/ET4Y-7PME
+https://perma.cc/N8M8-YQL5
+https://perma.cc/6K5Y-WH2X
 
 
 

@@ -48,11 +48,11 @@
  [1]
 https://omannews.gov.om/Local/ArtMID/416/ArticleID/9985
 [2]
-https://covid19.moh.gov.om/#/qarar
+perma.cc/AHP4-K67H
 [3]
-https://www.omanobserver.om/know-your-fine-for-various-covid-19-violations/
+perma.cc/T89N-G4EV
 [4]
-https://www.omanobserver.om/article/1101711/oman/health/mosques-to-reopen-in-oman-restrictions-eased-sc
+perma.cc/NXT8-PLNH
 
 
 
@@ -172,11 +172,11 @@ https://omannews.gov.om/Local/ArtMID/416/ArticleID/9985
 
 *Sources*:
  [1]
-https://covid19.moh.gov.om/#/qarar
+perma.cc/W8G3-L8N6
 [2]
-https://www.omanobserver.om/no-more-lockdowns-health-minister-2/
+perma.cc/PP7G-ASCC
 [3]
-https://www.omanobserver.om/public-urged-to-stick-to-supreme-committees-decisions/
+perma.cc/43L7-CTH5
 
 
 
@@ -219,12 +219,11 @@ https://www.omanobserver.om/public-urged-to-stick-to-supreme-committees-decision
 
 *Sources*:
  [1]
-https://english.alarabiya.net/coronavirus/2020/05/04/Coronavirus-Oman-imposes-lockdown-on-industrial-area-housing-migrant-workers
+perma.cc/BTE4-BV34
 [2]
-https://www.arabnews.com/node/1716306/middle-east
+perma.cc/88R2-UJER
 [3]
-https://gulfnews.com/world/gulf/oman/covid-19-oman-bans-movement-from-8pm-to-4am-until-further-notice-1.80043683
-
+perma.cc/H644-MQM4
 
 
 
@@ -520,15 +519,15 @@ https://omannews.gov.om/Local/ArtMID/416/ArticleID/9985
 
 *Sources*:
  [1]
-http://omannews.gov.om/NewsDescription/ArtMID/392/ArticleID/14380/Supreme-Committee-Takes-Decisions-According-to-Epidemiological-Data-Health-Minister
+perma.cc/EC2C-JS5B
 [2]
-https://www.thearabianstories.com/2020/06/09/covid-19-oman-announces-lockdown-in-dhofar-jabal-akhdar-jabal-shams-and-masirah/
+perma.cc/M2LM-D7S3
 [3]
-https://www.omanobserver.om/lockdown-begins-in-dhofar-tourist-destinations/+&cd=2&hl=es-419&ct=clnk&gl=br
+perma.cc/8L2E-YF2E
 [4]
-https://www.arabnews.com/node/1716306/middle-east
+perma.cc/2MEW-FGX6
 [5]
-https://www.omanobserver.om/night-lockdown-in-oman-to-end-on-saturday-sc/
+perma.cc/3CRT-DJ5S
 
 
 
@@ -573,11 +572,11 @@ https://www.omanobserver.om/night-lockdown-in-oman-to-end-on-saturday-sc/
 
 *Sources*:
  [1]
-https://www.hrw.org/middle-east/n-africa/oman
+perma.cc/N3V4-EGE8
 [2]
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/oman/
+perma.cc/GMS5-6JK8
 [3]
-https://monitor.civicus.org/country/oman/
+perma.cc/BZ5U-W3US
 
 
 
@@ -627,11 +626,11 @@ https://monitor.civicus.org/country/oman/
 
 *Sources*:
  [1]
-https://www.hrw.org/middle-east/n-africa/oman
+perma.cc/5YM2-KK4V
 [2]
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/oman/
+perma.cc/X285-EDEU
 [3]
-https://monitor.civicus.org/country/oman/
+perma.cc/DM98-NF22
 [4]
 https://omannews.gov.om/NewsDescription/ArtMID/392/ArticleID/10389/Supreme-Committee-Takes-More-Decisions-on-Covid-19-Pandemic
 
@@ -678,9 +677,9 @@ https://omannews.gov.om/NewsDescription/ArtMID/392/ArticleID/10389/Supreme-Commi
 
 *Sources*:
  [1]
-https://timesofoman.com/article/2953147/oman/government/supreme-committee-issues-new-decisions-to-prevent-coronavirus-spread
+perma.cc/H9GP-RGX7
 [2]
-https://www.omanobserver.om/print-edition-is-back/
+perma.cc/3SKU-W26P
 
 
 
@@ -720,9 +719,9 @@ https://www.omanobserver.om/print-edition-is-back/
 
 *Sources*:
  [1]
-https://timesofoman.com/article/2953147/oman/government/supreme-committee-issues-new-decisions-to-prevent-coronavirus-spread
+perma.cc/H9GP-RGX7
 [2]
-https://www.omanobserver.om/print-edition-is-back/
+perma.cc/3SKU-W26P
 
 
 
@@ -762,9 +761,9 @@ https://www.omanobserver.om/print-edition-is-back/
 
 *Sources*:
  [1]
-https://timesofoman.com/article/2953147/oman/government/supreme-committee-issues-new-decisions-to-prevent-coronavirus-spread
+perma.cc/H9GP-RGX7
 [2]
-https://www.omanobserver.om/print-edition-is-back/
+perma.cc/3SKU-W26P
 
 
 
@@ -807,13 +806,14 @@ https://www.omanobserver.om/print-edition-is-back/
 
 *Sources*:
  [1]
-https://timesofoman.com/article/2953147/oman/government/supreme-committee-issues-new-decisions-to-prevent-coronavirus-spread
+perma.cc/V9CG-HGBX
 [2]
-https://www.omanobserver.om/print-edition-is-back/
+perma.cc/XXN8-P57Q
 [3]
-https://rsf.org/en/oman
+perma.cc/9DWE-NXUD
 [4]
-https://ochroman.org/eng/2018/05/pressfreedom/
+perma.cc/LB9P-FTJJ
+
 
 
 
@@ -856,13 +856,13 @@ https://ochroman.org/eng/2018/05/pressfreedom/
 
 *Sources*:
  [1]
-https://timesofoman.com/article/2953147/oman/government/supreme-committee-issues-new-decisions-to-prevent-coronavirus-spread
+perma.cc/V9CG-HGBX
 [2]
-https://www.omanobserver.om/print-edition-is-back/
+perma.cc/XXN8-P57Q
 [3]
-https://rsf.org/en/oman
+perma.cc/9DWE-NXUD
 [4]
-https://ochroman.org/eng/2018/05/pressfreedom/
+perma.cc/LB9P-FTJJ
 
 
 
@@ -905,9 +905,9 @@ https://ochroman.org/eng/2018/05/pressfreedom/
 
 *Sources*:
  [1]
-https://timesofoman.com/article/2953147/oman/government/supreme-committee-issues-new-decisions-to-prevent-coronavirus-spread
+perma.cc/CS2A-ERN6
 [2]
-https://www.omanobserver.om/print-edition-is-back/
+perma.cc/2PJU-7LW4
 
 
 
@@ -951,13 +951,13 @@ https://www.omanobserver.om/print-edition-is-back/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/NVQ3-8BWC
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/HLD5-ERB6
 [3]
-https://cpj.org/mideast/oman/
+perma.cc/Q2UG-3YW3
 [4]
-https://ochroman.org/eng/2018/05/pressfreedom/
+perma.cc/3VSM-KY3U
 
 
 
@@ -1000,11 +1000,11 @@ https://ochroman.org/eng/2018/05/pressfreedom/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/8U8J-R5EG
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/XJE3-SUHX
 [3]
-https://cpj.org/mideast/oman/
+perma.cc/R6N5-EPQ9
 
 
 
@@ -1047,11 +1047,11 @@ https://cpj.org/mideast/oman/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/NVQ3-8BWC
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/HLD5-ERB6
 [3]
-https://cpj.org/mideast/oman/
+perma.cc/Q2UG-3YW3
 
 
 
@@ -1096,9 +1096,9 @@ https://cpj.org/mideast/oman/
 
 *Sources*:
  [1]
-https://covid19.moh.gov.om/#/about
+perma.cc/8LPE-YULH
 [2]
-https://covid19.moh.gov.om/#/faq
+perma.cc/TBW3-8VNU
 
 
 
@@ -1143,9 +1143,9 @@ https://covid19.moh.gov.om/#/faq
 
 *Sources*:
  [1]
-https://www.hrw.org/middle-east/n-africa/oman
+perma.cc/D44J-VUJB
 [2]
-https://www.amnesty.org/en/search/?q=&sort=date&country=38547&resourceType=newsarticle
+perma.cc/VRH9-5HJT
 
 
 
@@ -1188,4 +1188,4 @@ https://www.amnesty.org/en/search/?q=&sort=date&country=38547&resourceType=newsa
 
 *Sources*:
  [1]
-https://twitter.com/OmanVSCovid19/status/1245039349886070785/photo/1
+perma.cc/TMR6-97TL

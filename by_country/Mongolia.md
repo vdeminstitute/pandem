@@ -45,21 +45,29 @@
  The Mongolian constitution has a state of emergency clause that has not been used. Instead, Mongolia initially took a string of emergency measures (border closure, school closure etc.) without any such state of emergency, and have later passed the Law on Covid-19 Prevention. This law authorizes the government to "take necessary measures, such as calling quarantine and traffic movement and time limits, as well as approving relevant regimes, procedures, and instructions to be followed during the COVID 19 pandemic.". The measures were initially meant to last till 12 December 2020. But it was later extended to 30 June 2021. Hence this variable is coded as 4 across all the time periods. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Mongolia_2001.pdf?lang=en
+ https://perma.cc/7DFN-JGKX
 
-https://www.legalinfo.mn/law/details/15312?lawid=15312
 
-https://www.mn.undp.org/content/mongolia/en/home/coronavirus/support-to-national-response.html
+https://perma.cc/VQ6J-9EBK
 
-https://montsame.mn/en/read/223999
 
-https://montsame.mn/en/read/217894
+https://perma.cc/43ZN-XE6U
 
-https://montsame.mn/en/read/213965
 
-https://mn.usembassy.gov/alert-state-of-emergency-downgraded-in-ulaanbaatar/
+https://perma.cc/B736-PP7U
 
-https://police.gov.mn/resource/policegovmn/File/2021/01/21/y5ifd751ylg6rvpa/%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D0%B8%D1%80%D1%83%D1%81%D1%82%20%D1%85%D0%B0%D0%BB%D0%B4%D0%B2%D0%B0%D1%80%D1%8B%D0%BD%20%D1%85%D1%83%D1%83%D0%BB%D1%8C.pdf
+
+https://perma.cc/T7H8-KT3U
+
+
+
+https://perma.cc/MA7E-P7VD
+
+
+https://perma.cc/GUD9-JJU9
+
+
+https://perma.cc/9KR5-ACN5
 
 
 
@@ -98,13 +106,16 @@ https://police.gov.mn/resource/policegovmn/File/2021/01/21/y5ifd751ylg6rvpa/%D0%
 *No comment provided* 
 
 *Sources*:
- https://www.mn.undp.org/content/mongolia/en/home/coronavirus/support-to-national-response.html
+ https://perma.cc/LLK3-PD2J
 
-https://www.legalinfo.mn/law/details/15312?lawid=15312
 
-https://montsame.mn/en/read/223999
+https://perma.cc/B27D-AFSH
 
-https://consul.mn/eng/index.php?moduls=19&id=104
+
+https://perma.cc/XNQ2-TVV2
+
+
+https://perma.cc/Y3XR-M85Z
 
 
 
@@ -143,15 +154,16 @@ https://consul.mn/eng/index.php?moduls=19&id=104
 *No comment provided* 
 
 *Sources*:
- https://www.mn.undp.org/content/mongolia/en/home/coronavirus/support-to-national-response.html
+ https://perma.cc/LLK3-PD2J
 
-https://www.legalinfo.mn/law/details/15312?lawid=15312
 
-https://montsame.mn/en/read/223999
+https://perma.cc/B27D-AFSH
 
-https://consul.mn/eng/index.php?moduls=19&id=104
 
-https://police.gov.mn/resource/policegovmn/File/2021/01/21/y5ifd751ylg6rvpa/%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D0%B8%D1%80%D1%83%D1%81%D1%82%20%D1%85%D0%B0%D0%BB%D0%B4%D0%B2%D0%B0%D1%80%D1%8B%D0%BD%20%D1%85%D1%83%D1%83%D0%BB%D1%8C.pdf
+https://perma.cc/XNQ2-TVV2
+
+
+https://perma.cc/9KR5-ACN5
 
 
 
@@ -233,13 +245,16 @@ https://police.gov.mn/resource/policegovmn/File/2021/01/21/y5ifd751ylg6rvpa/%D0%
 But it was later extended to 30 June 2021. Hence this variable is coded as 4 across all the time periods. 
 
 *Sources*:
- https://www.mn.undp.org/content/mongolia/en/home/coronavirus/support-to-national-response.html
+ https://perma.cc/LLK3-PD2J
 
-https://www.legalinfo.mn/law/details/15312?lawid=15312
 
-https://montsame.mn/en/read/223999
+https://perma.cc/B27D-AFSH
 
-https://police.gov.mn/resource/policegovmn/File/2021/01/21/y5ifd751ylg6rvpa/%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D0%B8%D1%80%D1%83%D1%81%D1%82%20%D1%85%D0%B0%D0%BB%D0%B4%D0%B2%D0%B0%D1%80%D1%8B%D0%BD%20%D1%85%D1%83%D1%83%D0%BB%D1%8C.pdf
+
+https://perma.cc/XNQ2-TVV2
+
+
+https://perma.cc/9KR5-ACN5
 
 
 
@@ -279,13 +294,16 @@ https://police.gov.mn/resource/policegovmn/File/2021/01/21/y5ifd751ylg6rvpa/%D0%
 But it was later extended to 30 June 2021. Hence this variable is coded as 4 across all the time periods. 
 
 *Sources*:
- https://www.mn.undp.org/content/mongolia/en/home/coronavirus/support-to-national-response.html
+ https://perma.cc/LLK3-PD2J
 
-https://www.legalinfo.mn/law/details/15312?lawid=15312
 
-https://montsame.mn/en/read/223999
+https://perma.cc/B27D-AFSH
 
-https://police.gov.mn/resource/policegovmn/File/2021/01/21/y5ifd751ylg6rvpa/%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D0%B8%D1%80%D1%83%D1%81%D1%82%20%D1%85%D0%B0%D0%BB%D0%B4%D0%B2%D0%B0%D1%80%D1%8B%D0%BD%20%D1%85%D1%83%D1%83%D0%BB%D1%8C.pdf
+
+https://perma.cc/XNQ2-TVV2
+
+
+https://perma.cc/9KR5-ACN5
 
 
 
@@ -327,13 +345,13 @@ https://police.gov.mn/resource/policegovmn/File/2021/01/21/y5ifd751ylg6rvpa/%D0%
  The parliament had to approve the new law. 
 
 *Sources*:
- https://www.mn.undp.org/content/mongolia/en/home/coronavirus/support-to-national-response.html
-
-https://www.legalinfo.mn/law/details/15312?lawid=15312
-
-https://montsame.mn/en/read/223999
+ https://perma.cc/LLK3-PD2J
 
 
+https://perma.cc/B27D-AFSH
+
+
+https://perma.cc/XNQ2-TVV2
 
 
 
@@ -375,13 +393,13 @@ https://montsame.mn/en/read/223999
  The parliament had to and did approve the new law. 
 
 *Sources*:
- https://www.mn.undp.org/content/mongolia/en/home/coronavirus/support-to-national-response.html
-
-https://www.legalinfo.mn/law/details/15312?lawid=15312
-
-https://montsame.mn/en/read/223999
+ https://perma.cc/LLK3-PD2J
 
 
+https://perma.cc/B27D-AFSH
+
+
+https://perma.cc/XNQ2-TVV2
 
 
 
@@ -429,13 +447,10 @@ https://montsame.mn/en/read/223999
 It is also noteworthy that Mongolia succesfully held elections on June 24, with similar levels of participation as previous elections, that installed a new parliament. There have been no reports found that the new parliament has faced any limitations. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#M
-
-https://www.legalinfo.mn/law/details/15312?lawid=15312
-
-https://montsame.mn/en/read/223999
-
-https://www.bloomberg.com/news/articles/2020-06-25/mongolia-s-ruling-party-keeps-big-majority-after-covid-success
+ https://perma.cc/6UFZ-RQ7B
+https://perma.cc/F7FH-WRAJ
+https://perma.cc/5T48-WJ78
+https://web.archive.org/web/20200627230451/https://www.bloomberg.com/news/articles/2020-06-25/mongolia-s-ruling-party-keeps-big-majority-after-covid-success
 
 
 
@@ -559,15 +574,25 @@ https://www.bloomberg.com/news/articles/2020-06-25/mongolia-s-ruling-party-keeps
 There have been slight variations in the emergency measures in Q1 and Q2 of 2021 at the sub-national level due to the differences in the incident rates of Covid-19. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/YDjwxi8GHSZoCDHEK/mongolia-government-closes-borders-with-china-to-prevent-2019-ncov-spread-january-27
+ https://perma.cc/DHU2-QNA4
 
-https://www.acaps.org/covid19-government-measures-dataset
 
-https://www.garda.com/crisis24/news-alerts/465096/mongolia-officials-to-tighten-restrictions-in-ulaanbaatar-april-10-25-due-to-rising-covid-19-activity-update-21
+https://perma.cc/8H2S-MEMG
 
-https://www.garda.com/crisis24/news-alerts/462136/mongolia-officials-plan-nationwide-business-and-gathering-controls-april-3-18-international-travel-restrictions-set-to-continue-until-at-least-may-1-update-20
 
-https://www.garda.com/crisis24/news-alerts/458891/mongolia-officials-restricting-transport-to-and-from-khuvsgul-province-until-0900-march-29-due-to-covid-19-concerns
+https://perma.cc/ZVJ9-F9DB
+
+
+https://perma.cc/353U-KLFW
+
+
+https://perma.cc/7XU5-NFSV
+
+
+
+
+
+
 
 
 
@@ -611,9 +636,10 @@ https://www.garda.com/crisis24/news-alerts/458891/mongolia-officials-restricting
  Human Rights Watch and Amnesty International have not reported any discrimination within the l response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38378&resourceType=newsarticle&sort=date
+ https://perma.cc/CJT8-Y86T
 
-https://www.hrw.org/sitesearch?search=Mongolia
+
+https://perma.cc/6YE2-68FP
 
 
 
@@ -662,9 +688,10 @@ https://www.hrw.org/sitesearch?search=Mongolia
  Human Rights Watch and Amnesty International have not reported any violations of non-derogable rights within the response to Covid-19, and no other indications of such violations has been found. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38378&resourceType=newsarticle&sort=date
+ https://perma.cc/M3EK-8J6F
 
-https://www.hrw.org/sitesearch?search=Mongolia
+
+https://perma.cc/BWJ3-NEDS
 
 
 
@@ -709,15 +736,19 @@ https://www.hrw.org/sitesearch?search=Mongolia
 No evidence has been found that this law has been abrogated or amended during the second an third period, and the law text is still in place on the Mongolian law website (https://www.legalinfo.mn/law/details/12695). This is therefore coded as 1 for all periods. 
 
 *Sources*:
- https://www.legalinfo.mn/law/details/12695
+ https://perma.cc/FJ5A-QJN6
 
-https://rsf.org/en/thematique/internet?countries%5B77%5D=77
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Mongolia
+https://perma.cc/7SMW-WE7H
 
-https://en.ejo.ch/ethics-quality/mongolia-coronavirus-and-the-media
 
-https://www.gic.mn/public/docs/freedom_report/media_freedom_report_2019_en.pdf
+https://perma.cc/XBE5-EFYS
+
+
+https://perma.cc/7GLG-8JKG
+
+
+https://perma.cc/YA5M-X8ML
 
 
 
@@ -756,7 +787,7 @@ https://www.gic.mn/public/docs/freedom_report/media_freedom_report_2019_en.pdf
  Date which the amendment was passed. 
 
 *Sources*:
- https://www.legalinfo.mn/law/details/12695
+ https://perma.cc/FJ5A-QJN6
 
 
 
@@ -795,7 +826,7 @@ https://www.gic.mn/public/docs/freedom_report/media_freedom_report_2019_en.pdf
  No end date specified for amendment, but the de jure limitation does end if Mongolia is not under some type of crisis. 
 
 *Sources*:
- https://www.legalinfo.mn/law/details/12695
+ https://perma.cc/FJ5A-QJN6
 
 
 
@@ -839,15 +870,22 @@ As "false information" is poorly defined, and this law is being enacted and jour
 Since the law  is still in place, this is coded as 1 for all periods. 
 
 *Sources*:
- https://www.legalinfo.mn/law/details/12695
+ https://perma.cc/FJ5A-QJN6
 
-https://rsf.org/en/thematique/internet?countries%5B77%5D=77
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Mongolia
+https://perma.cc/7SMW-WE7H
 
-https://en.ejo.ch/ethics-quality/mongolia-coronavirus-and-the-media
 
-https://www.gic.mn/public/docs/freedom_report/media_freedom_report_2019_en.pdf
+https://perma.cc/XBE5-EFYS
+
+
+https://perma.cc/7GLG-8JKG
+
+
+https://perma.cc/YA5M-X8ML
+
+
+
 
 
 
@@ -891,15 +929,21 @@ As "false information" is poorly defined, and this law is being enacted and jour
 Since the law is still in place, this is coded 1 for all three periods. 
 
 *Sources*:
- https://www.legalinfo.mn/law/details/12695
+ https://perma.cc/FJ5A-QJN6
 
-https://rsf.org/en/thematique/internet?countries%5B77%5D=77
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Mongolia
+https://perma.cc/7SMW-WE7H
 
-https://en.ejo.ch/ethics-quality/mongolia-coronavirus-and-the-media
 
-https://www.gic.mn/public/docs/freedom_report/media_freedom_report_2019_en.pdf
+https://perma.cc/XBE5-EFYS
+
+
+https://perma.cc/7GLG-8JKG
+
+
+https://perma.cc/YA5M-X8ML
+
+
 
 
 
@@ -942,15 +986,22 @@ https://www.gic.mn/public/docs/freedom_report/media_freedom_report_2019_en.pdf
  The amendment enacted by Mongolia does make it punishable "Misleading the public or disseminating false information‚ during a crisis" but as this only seem to regard information on the crisis as such, and that no information has been found indicating that Mongolia has used this amendment to prosecute any non-Covid-19 related news reporting, this is coded as 0. 
 
 *Sources*:
- https://www.legalinfo.mn/law/details/12695
+ https://perma.cc/FJ5A-QJN6
 
-https://rsf.org/en/thematique/internet?countries%5B77%5D=77
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Mongolia
+https://perma.cc/7SMW-WE7H
 
-https://en.ejo.ch/ethics-quality/mongolia-coronavirus-and-the-media
 
-https://www.gic.mn/public/docs/freedom_report/media_freedom_report_2019_en.pdf
+https://perma.cc/XBE5-EFYS
+
+
+https://perma.cc/7GLG-8JKG
+
+
+https://perma.cc/YA5M-X8ML
+
+
+
 
 
 
@@ -993,11 +1044,15 @@ https://www.gic.mn/public/docs/freedom_report/media_freedom_report_2019_en.pdf
  Neither Reporters without Borders nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information, and there's no other indications of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B77%5D=77
+ https://perma.cc/6EAW-YS3X
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Mongolia
 
-https://rsf.org/en/mongolia
+
+https://perma.cc/AWJ2-J4D9
+
+
+
+https://perma.cc/3CKA-B295
 
 
 
@@ -1039,9 +1094,10 @@ https://rsf.org/en/mongolia
  Neither Reporters without Borders nor International Press Institute have reported any verbal harassment of journalists in Mongolia, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B77%5D=77
+ https://perma.cc/7SMW-WE7H
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Mongolia
+
+https://perma.cc/XBE5-EFYS
 
 
 
@@ -1083,9 +1139,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Neither Reporters without Borders nor International Press Institute have reported any physical harassment of journalists in Mongolia, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B77%5D=77
+ https://perma.cc/7SMW-WE7H
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Mongolia
+
+https://perma.cc/XBE5-EFYS
 
 
 
@@ -1131,7 +1188,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 As this information continues to be presented in the official website, the variable is coded as 1 on all periods. 
 
 *Sources*:
- https://covid19.mohs.mn
+ https://perma.cc/7MVA-67KY
 
 
 
@@ -1175,9 +1232,10 @@ As this information continues to be presented in the official website, the varia
  Human Rights Watch and Amnesty International have not  reported any incidents of violence in enforcing emergency measures, and there are no other indiciations of such violence in the emergency measures 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38378&resourceType=newsarticle&sort=date
+ https://perma.cc/M3EK-8J6F
 
-https://www.hrw.org/sitesearch?search=Mongolia
+
+https://perma.cc/BWJ3-NEDS
 
 
 
@@ -1219,4 +1277,4 @@ https://www.hrw.org/sitesearch?search=Mongolia
  No sources have been found stating that Mongolia has deployed its military to enforce emergency measures. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
+ https://perma.cc/9D77-96TG

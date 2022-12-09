@@ -47,30 +47,19 @@ For Q3 and Q4 of 2020, the major measures taken to limit Covid-19 spreading, suc
 For Q1 and Q2 of 2021, Sweden has used the Covid-19 Act as the main legal instrument, which came into effect 2021-01-10, that provides a more thorough legal base for taking measures to limit the spread, e.g. limiting assemblies, closing business etc. It is a temporary law, and currently set to expire on 2021-09-30. The Covid-19 Act does not replace the other acts, but rather complements them. However, since its enactment it is the main legal instrument used. 
 
 *Sources*:
- https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
-
-https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
-
-https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
-
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
-
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-
-https://www.loc.gov/law/foreign-news/article/sweden-swedish-parliament-gives-swedish-government-temporary-emergency-powers-because-of-Covid-19-outbreak/
-
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
-
-https://www.regeringen.se/artiklar/2020/03/andring-i-forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://www.regeringen.se/artiklar/2020/03/forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://www.regeringen.se/artiklar/2020/03/forbud-mot-allmanna-sammankomster-eller-offentliga-tillstallningar-med-fler-an-50-deltagare/
-
-https://www.regeringen.se/pressmeddelanden/2020/11/max-atta-personer-vid-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://verfassungsblog.de/Covid-19-in-sweden-a-soft-power-approach/
-https://www.regeringen.se/regeringens-politik/regeringens-arbete-med-coronapandemin/om-halsovard-sjukvard-och-aldreomsorg-med-anledning-av-Covid-19/fragor-och-svar-om-den-tillfalliga-pandemilagen/
+ https://perma.cc/ZC9V-ZV7M
+https://perma.cc/S2F7-VSAZ
+https://perma.cc/CN54-SJMV
+https://perma.cc/M59V-C79A
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://web.archive.org/web/20200509230542/https://www.loc.gov/law/foreign-news/article/sweden-swedish-parliament-gives-swedish-government-temporary-emergency-powers-because-of-Covid-19-outbreak/
+https://perma.cc/67SN-YWL9
+https://perma.cc/XP3G-6Q39
+https://perma.cc/U2GL-NA6H
+https://perma.cc/36R3-33JJ
+https://perma.cc/Q7W4-7AWJ
+https://perma.cc/537L-8RS8
+https://perma.cc/F6WA-U5P8
 
 
 
@@ -109,11 +98,16 @@ https://www.regeringen.se/regeringens-politik/regeringens-arbete-med-coronapande
 *No comment provided* 
 
 *Sources*:
- https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
-https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/ordningslag-19931617_sfs-1993-1617
+ https://perma.cc/PH3S-EVRN
 
-https://verfassungsblog.de/Covid-19-in-sweden-a-soft-power-approach/
-https://www.regeringen.se/regeringens-politik/regeringens-arbete-med-coronapandemin/om-halsovard-sjukvard-och-aldreomsorg-med-anledning-av-Covid-19/fragor-och-svar-om-den-tillfalliga-pandemilagen/
+
+https://perma.cc/NLW5-ZVDP
+
+
+https://perma.cc/EQ8Q-QDM7
+
+
+https://perma.cc/R26Z-NDLM
 
 
 
@@ -154,30 +148,20 @@ For Q3 and Q4 of 2020, where the Public Order Act is the main instrument, the Or
 For Q1 and Q2 of 2021, the Covid-19 Act was passed on January 8 2021 but came into effect on January 10 2021, and this is the date coded. 
 
 *Sources*:
- https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
+ https://perma.cc/ZC9V-ZV7M
+https://perma.cc/S2F7-VSAZ
+https://perma.cc/CN54-SJMV
+https://perma.cc/M59V-C79A
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://web.archive.org/web/20200509230542/https://www.loc.gov/law/foreign-news/article/sweden-swedish-parliament-gives-swedish-government-temporary-emergency-powers-because-of-Covid-19-outbreak/
 
-https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
-
-https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
-
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
-
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-
-https://www.loc.gov/law/foreign-news/article/sweden-swedish-parliament-gives-swedish-government-temporary-emergency-powers-because-of-Covid-19-outbreak/
-
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
-
-https://www.regeringen.se/artiklar/2020/03/andring-i-forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://www.regeringen.se/artiklar/2020/03/forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://www.regeringen.se/artiklar/2020/03/forbud-mot-allmanna-sammankomster-eller-offentliga-tillstallningar-med-fler-an-50-deltagare/
-
-https://www.regeringen.se/pressmeddelanden/2020/11/max-atta-personer-vid-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://verfassungsblog.de/Covid-19-in-sweden-a-soft-power-approach/
-https://www.regeringen.se/regeringens-politik/regeringens-arbete-med-coronapandemin/om-halsovard-sjukvard-och-aldreomsorg-med-anledning-av-Covid-19/fragor-och-svar-om-den-tillfalliga-pandemilagen/
+https://perma.cc/67SN-YWL9
+https://perma.cc/XP3G-6Q39
+https://perma.cc/U2GL-NA6H
+https://perma.cc/36R3-33JJ
+https://perma.cc/Q7W4-7AWJ
+https://perma.cc/537L-8RS8
+https://perma.cc/F6WA-U5P8
 
 
 
@@ -217,30 +201,19 @@ https://www.regeringen.se/regeringens-politik/regeringens-arbete-med-coronapande
 For Q3 and Q4 of 2020, the implementation of the legal instrument used in these periods ended after these periods (on 2021-01-10), and was replaced with Covid-19 Act that is currently set to expire on 2021-09-30. The Covid-19 is at the time of coding being suggested to be extended to 2022-01-31, but no decision has been taken yet. 
 
 *Sources*:
- https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
-
-https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
-
-https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
-
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
-
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-
-https://www.loc.gov/law/foreign-news/article/sweden-swedish-parliament-gives-swedish-government-temporary-emergency-powers-because-of-Covid-19-outbreak/
-
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
-
-https://www.regeringen.se/artiklar/2020/03/andring-i-forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://www.regeringen.se/artiklar/2020/03/forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://www.regeringen.se/artiklar/2020/03/forbud-mot-allmanna-sammankomster-eller-offentliga-tillstallningar-med-fler-an-50-deltagare/
-
-https://www.regeringen.se/pressmeddelanden/2020/11/max-atta-personer-vid-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://verfassungsblog.de/Covid-19-in-sweden-a-soft-power-approach/
-https://www.regeringen.se/regeringens-politik/regeringens-arbete-med-coronapandemin/om-halsovard-sjukvard-och-aldreomsorg-med-anledning-av-Covid-19/fragor-och-svar-om-den-tillfalliga-pandemilagen/
+ https://perma.cc/ZC9V-ZV7M
+https://perma.cc/S2F7-VSAZ
+https://perma.cc/CN54-SJMV
+https://perma.cc/M59V-C79A
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://web.archive.org/web/20200509230542/https://www.loc.gov/law/foreign-news/article/sweden-swedish-parliament-gives-swedish-government-temporary-emergency-powers-because-of-Covid-19-outbreak/
+https://perma.cc/67SN-YWL9
+https://perma.cc/XP3G-6Q39
+https://perma.cc/U2GL-NA6H
+https://perma.cc/36R3-33JJ
+https://perma.cc/Q7W4-7AWJ
+https://perma.cc/537L-8RS8
+https://perma.cc/F6WA-U5P8
 
 
 
@@ -285,30 +258,20 @@ For Q4 of 2020, the decision to limit public gatherings to up to 8 people has a 
 For Q1 and Q2 of 2021, the Covid-19 Act is in use which is a temporary legislation that has an expiration date of 2021-09-30 at the time of writing. It is currently discussed to extend it to 2022-01-31, but no decision has been taken when this is coded. 
 
 *Sources*:
- https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
+ https://perma.cc/ZC9V-ZV7M
+https://perma.cc/S2F7-VSAZ
+https://perma.cc/CN54-SJMV
+https://perma.cc/M59V-C79A
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://web.archive.org/web/20200509230542/https://www.loc.gov/law/foreign-news/article/sweden-swedish-parliament-gives-swedish-government-temporary-emergency-powers-because-of-Covid-19-outbreak/
+https://perma.cc/67SN-YWL9
+https://perma.cc/XP3G-6Q39
+https://perma.cc/U2GL-NA6H
+https://perma.cc/36R3-33JJ
+https://perma.cc/Q7W4-7AWJ
+https://perma.cc/537L-8RS8
+https://perma.cc/F6WA-U5P8
 
-https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
-
-https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
-
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
-
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-
-https://www.loc.gov/law/foreign-news/article/sweden-swedish-parliament-gives-swedish-government-temporary-emergency-powers-because-of-Covid-19-outbreak/
-
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
-
-https://www.regeringen.se/artiklar/2020/03/andring-i-forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://www.regeringen.se/artiklar/2020/03/forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://www.regeringen.se/artiklar/2020/03/forbud-mot-allmanna-sammankomster-eller-offentliga-tillstallningar-med-fler-an-50-deltagare/
-
-https://www.regeringen.se/pressmeddelanden/2020/11/max-atta-personer-vid-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://verfassungsblog.de/Covid-19-in-sweden-a-soft-power-approach/
-https://www.regeringen.se/regeringens-politik/regeringens-arbete-med-coronapandemin/om-halsovard-sjukvard-och-aldreomsorg-med-anledning-av-Covid-19/fragor-och-svar-om-den-tillfalliga-pandemilagen/
 
 
 
@@ -350,32 +313,19 @@ For Q4 of 2020, the decision to limit public gatherings to up to 8 people has a 
 For Q1 and Q2 of 2021, the Covid-19 Act is in use which is a temporary legislation that has an expiration date of 2021-09-30 at the time of writing. It is currently discussed to extend it to 2022-01-31, but no decision has been taken when this is coded. 
 
 *Sources*:
- https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
-
-https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
-
-https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
-
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
-
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-
-https://www.loc.gov/law/foreign-news/article/sweden-swedish-parliament-gives-swedish-government-temporary-emergency-powers-because-of-Covid-19-outbreak/
-
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
-
-https://www.regeringen.se/artiklar/2020/03/andring-i-forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://www.regeringen.se/artiklar/2020/03/forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://www.regeringen.se/artiklar/2020/03/forbud-mot-allmanna-sammankomster-eller-offentliga-tillstallningar-med-fler-an-50-deltagare/
-
-https://www.regeringen.se/pressmeddelanden/2020/11/max-atta-personer-vid-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://verfassungsblog.de/Covid-19-in-sweden-a-soft-power-approach/
-https://www.regeringen.se/regeringens-politik/regeringens-arbete-med-coronapandemin/om-halsovard-sjukvard-och-aldreomsorg-med-anledning-av-Covid-19/fragor-och-svar-om-den-tillfalliga-pandemilagen/
-
-https://www.krisinformation.se/nyheter/2020/december/skarpta-restriktioner-infor-julhelgen/
+ https://perma.cc/TS2H-DB5G
+https://perma.cc/3M2B-G5YN
+https://perma.cc/Y754-XEP6
+https://perma.cc/D4MN-Q5YH
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://perma.cc/YSD7-U6GQ
+https://perma.cc/CQ58-64TH
+https://perma.cc/ZKK9-P9UT
+https://perma.cc/99KQ-GFSR
+https://perma.cc/S47N-C89M
+https://perma.cc/VTC2-USLS
+https://perma.cc/C87F-G45T
+https://perma.cc/36VE-VTHE
 
 
 
@@ -419,32 +369,20 @@ For Q3 and 4 of 2020, using the Public Order Act (Ordningslag [1993:1617]) (exis
 For Q1 and Q2 of 2021, the parliament had to approve and did approve the new Covid-19 Act. 
 
 *Sources*:
- https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
-
-https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
-
-https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
-
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
-
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-
-https://www.loc.gov/law/foreign-news/article/sweden-swedish-parliament-gives-swedish-government-temporary-emergency-powers-because-of-Covid-19-outbreak/
-
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
-
-https://www.regeringen.se/artiklar/2020/03/andring-i-forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://www.regeringen.se/artiklar/2020/03/forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://www.regeringen.se/artiklar/2020/03/forbud-mot-allmanna-sammankomster-eller-offentliga-tillstallningar-med-fler-an-50-deltagare/
-
-https://www.regeringen.se/pressmeddelanden/2020/11/max-atta-personer-vid-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://verfassungsblog.de/Covid-19-in-sweden-a-soft-power-approach/
-https://www.regeringen.se/regeringens-politik/regeringens-arbete-med-coronapandemin/om-halsovard-sjukvard-och-aldreomsorg-med-anledning-av-Covid-19/fragor-och-svar-om-den-tillfalliga-pandemilagen/
-
-https://www.svt.se/nyheter/inrikes/riksdagen-rostar-ja-till-ny-pandemilag
+ https://perma.cc/ZC9V-ZV7M
+https://perma.cc/S2F7-VSAZ
+https://perma.cc/CN54-SJMV
+https://perma.cc/M59V-C79A
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://web.archive.org/web/20200509230542/https://www.loc.gov/law/foreign-news/article/sweden-swedish-parliament-gives-swedish-government-temporary-emergency-powers-because-of-Covid-19-outbreak/
+https://perma.cc/67SN-YWL9
+https://perma.cc/XP3G-6Q39
+https://perma.cc/U2GL-NA6H
+https://perma.cc/36R3-33JJ
+https://perma.cc/Q7W4-7AWJ
+https://perma.cc/537L-8RS8
+https://perma.cc/F6WA-U5P8
+https://perma.cc/B79H-83HJ
 
 
 
@@ -488,32 +426,20 @@ For Q3 and 4 of 2020, using the Public Order Act (Ordningslag [1993:1617]) (exis
 For Q1 and Q2 of 2021, the parliament had to approve and did approve the new Covid-19 Act. 
 
 *Sources*:
- https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
-
-https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
-
-https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
-
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
-
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-
-https://www.loc.gov/law/foreign-news/article/sweden-swedish-parliament-gives-swedish-government-temporary-emergency-powers-because-of-Covid-19-outbreak/
-
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
-
-https://www.regeringen.se/artiklar/2020/03/andring-i-forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://www.regeringen.se/artiklar/2020/03/forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://www.regeringen.se/artiklar/2020/03/forbud-mot-allmanna-sammankomster-eller-offentliga-tillstallningar-med-fler-an-50-deltagare/
-
-https://www.regeringen.se/pressmeddelanden/2020/11/max-atta-personer-vid-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://verfassungsblog.de/Covid-19-in-sweden-a-soft-power-approach/
-https://www.regeringen.se/regeringens-politik/regeringens-arbete-med-coronapandemin/om-halsovard-sjukvard-och-aldreomsorg-med-anledning-av-Covid-19/fragor-och-svar-om-den-tillfalliga-pandemilagen/
-
-https://www.svt.se/nyheter/inrikes/riksdagen-rostar-ja-till-ny-pandemilag
+ https://perma.cc/ZC9V-ZV7M
+https://perma.cc/S2F7-VSAZ
+https://perma.cc/CN54-SJMV
+https://perma.cc/M59V-C79A
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://web.archive.org/web/20200509230542/https://www.loc.gov/law/foreign-news/article/sweden-swedish-parliament-gives-swedish-government-temporary-emergency-powers-because-of-Covid-19-outbreak/
+https://perma.cc/67SN-YWL9
+https://perma.cc/XP3G-6Q39
+https://perma.cc/U2GL-NA6H
+https://perma.cc/36R3-33JJ
+https://perma.cc/Q7W4-7AWJ
+https://perma.cc/537L-8RS8
+https://perma.cc/F6WA-U5P8
+https://perma.cc/B79H-83HJ
 
 
 
@@ -562,30 +488,19 @@ For Q1 and Q2 of 2021, suing the Covid-19 Act, no limitaitons on the parliaments
 The Swedish parliament has also continued to work throughout the pandemic (although with some restrictions on how many can convene at the same time physically), passed and amended several laws, and have been able to scrutinize the government and its actions. This is therefore coded 0 for all periods. 
 
 *Sources*:
- https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
-
-https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
-
-https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
-
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
-
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-
-https://www.loc.gov/law/foreign-news/article/sweden-swedish-parliament-gives-swedish-government-temporary-emergency-powers-because-of-Covid-19-outbreak/
-
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
-
-https://www.regeringen.se/artiklar/2020/03/andring-i-forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://www.regeringen.se/artiklar/2020/03/forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://www.regeringen.se/artiklar/2020/03/forbud-mot-allmanna-sammankomster-eller-offentliga-tillstallningar-med-fler-an-50-deltagare/
-
-https://www.regeringen.se/pressmeddelanden/2020/11/max-atta-personer-vid-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://verfassungsblog.de/Covid-19-in-sweden-a-soft-power-approach/
-https://www.regeringen.se/regeringens-politik/regeringens-arbete-med-coronapandemin/om-halsovard-sjukvard-och-aldreomsorg-med-anledning-av-Covid-19/fragor-och-svar-om-den-tillfalliga-pandemilagen/
+ https://perma.cc/TS2H-DB5G
+https://perma.cc/3M2B-G5YN
+https://perma.cc/Y754-XEP6
+https://perma.cc/D4MN-Q5YH
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://perma.cc/YSD7-U6GQ
+https://perma.cc/CQ58-64TH
+https://perma.cc/ZKK9-P9UT
+https://perma.cc/99KQ-GFSR
+https://perma.cc/S47N-C89M
+https://perma.cc/VTC2-USLS
+https://perma.cc/C87F-G45T
+https://perma.cc/36VE-VTHE
 
 
 
@@ -707,14 +622,19 @@ https://www.regeringen.se/regeringens-politik/regeringens-arbete-med-coronapande
  For Q2 and Q3 of 2020, the emergency measures have been taken nationwide and no sub-national variation has been found. This is therefore coded as 0. In Q4 of 2020, some regions introduced somewhat stricter measures, and this is therefore coded as 1. For Q1 and Q2 of 2021, there has again only been nationwide restrictions in place (although some differences have occurred in terms of regional recommendations, but these are only recommendations and not restrictions). 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/Lxd2u5XvrbqyRML3R/sweden-scandanavian-airlines-sas-suspends-all-flights-to-northern-italy-march-3
-https://www.acaps.org/covid19-government-measures-dataset
+ https://perma.cc/W4EW-5V68
+
+
+https://perma.cc/F64D-W7G5
 
 
 
-https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/Covid-19/lokala-rekommendationer/
 
-https://www.garda.com/search?query=Sweden+Covid-19&sort_by=created
+
+https://perma.cc/UQE3-NFQK
+
+
+https://perma.cc/QJY2-MUTY
 
 
 
@@ -758,15 +678,19 @@ https://www.garda.com/search?query=Sweden+Covid-19&sort_by=created
  Human Rights Watch, Amnesty International and EU agency of fundamental righs have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9625
+ https://perma.cc/E6KV-NM37
 
-https://www.amnesty.org/en/search/?country=38508&resourceType=newsarticle&sort=date
 
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
+https://perma.cc/S83H-Y5L7
 
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_july_2020.pdf
 
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
+https://perma.cc/6FGF-YTMK
+
+
+https://perma.cc/Q4XE-8JDR
+
+
+https://perma.cc/5MWC-SRUK
 
 
 
@@ -815,15 +739,19 @@ https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_p
  Amnesty International have not reported any violations of non-derogable rights within the response to Covid-19, and no other indications of such violations has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9625
+ https://perma.cc/UR42-4EHX
 
-https://www.amnesty.org/en/search/?country=38508&resourceType=newsarticle&sort=date
 
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
+https://perma.cc/48HU-TKNT
 
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_july_2020.pdf
 
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
+https://perma.cc/M7QQ-G4XH
+
+
+https://perma.cc/J57M-TQKL
+
+
+https://perma.cc/G6AM-9RD9
 
 
 
@@ -867,8 +795,10 @@ https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_p
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Swedish Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B141%5D=141
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Sweden
+ https://perma.cc/ZRV8-2HEV
+
+
+https://perma.cc/44BQ-8UL6
 
 
 
@@ -907,8 +837,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B141%5D=141
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Sweden
+ https://perma.cc/UZ7Y-9Q7P
+
+
+https://perma.cc/9E66-2T97
 
 
 
@@ -947,8 +879,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B141%5D=141
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Sweden
+ https://perma.cc/ZRV8-2HEV
+
+
+https://perma.cc/44BQ-8UL6
 
 
 
@@ -990,8 +924,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Sweden,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B141%5D=141
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Sweden
+ https://perma.cc/UZ7Y-9Q7P
+
+
+https://perma.cc/9E66-2T97
 
 
 
@@ -1033,8 +969,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Neither Reporters Without Borders nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in Sweden,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B141%5D=141
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Sweden
+ https://perma.cc/UZ7Y-9Q7P
+
+
+https://perma.cc/9E66-2T97
 
 
 
@@ -1076,8 +1014,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Neither Reporters Without Borders nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in Sweden  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B141%5D=141
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Sweden
+ https://perma.cc/UZ7Y-9Q7P
+
+
+https://perma.cc/9E66-2T97
 
 
 
@@ -1120,14 +1060,19 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Swedish media reports that there have been issues in some places, and in relation to some authorities, to gain information during the first wave of the pandemic. This for instance pertains to the number of infected and dead at the level of elderly homes, and other information about or in relation to Covid-19. There have also been debates about the accessibility of public information such as e-mails from people in leading positions. It does not seem to be systematic, however, but rather pertains to a few people/organizations in relation to a couple of issues. Furthermore, this only seems to have been an issue during the first two periods, as no other reports have been found on it (the Swedish government has also ordered an investigation into the extent that FOI have been followed during the pandemic, due to be released in November 2021). This is therefore coded as 1 for Q2 and Q3 of 2020, but 0 after that as no reports of limitations has been found after that and the original limitations not were systematic. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B141%5D=141
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Sweden
+ https://perma.cc/7Z88-DUMB
 
-https://sverigesradio.se/artikel/offentlighetsprincipen-under-pandemin-ska-utredas
 
-https://www.dn.se/nyheter/sverige/kritik-mot-att-smittspridning-och-miljardstod-hemlighalls/
+https://perma.cc/4VPP-9GMH
 
-https://sverigesradio.se/artikel/7500733
+
+https://perma.cc/2K2B-PLP8
+
+
+https://perma.cc/A5YG-RPNU
+
+
+https://perma.cc/P8Q3-VMHA
 
 
 
@@ -1169,8 +1114,10 @@ https://sverigesradio.se/artikel/7500733
  Neither Reporters Without Borders nor International Press Institute have reported any verbal harassment of journalists in Sweden, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B141%5D=141
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Sweden
+ https://perma.cc/UZ7Y-9Q7P
+
+
+https://perma.cc/9E66-2T97
 
 
 
@@ -1212,8 +1159,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Neither Reporters Without Borders nor International Press Institute have reported any physical harassment of journalists in Sweden, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B141%5D=141
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Sweden
+ https://perma.cc/UZ7Y-9Q7P
+
+
+https://perma.cc/9E66-2T97
 
 
 
@@ -1257,7 +1206,7 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  There's no deviations from the information provided by WHO and that of the Swedish Government on Covid-19, and no complaints or accusations of any such disinformation have been found. 
 
 *Sources*:
- https://www.folkhalsomyndigheten.se/the-public-health-agency-of-sweden/communicable-disease-control/Covid-19/
+ https://perma.cc/R866-UWCG
 
 
 
@@ -1301,16 +1250,22 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Neither Human Rights Watch, Amnesty International nor EU agency for fundamental rights have reported any incidents of violence in enforcing emergency measures. There have been a few protest toward the restrictions in Sweden, but reports about these mention no excessive force when dispercing these in the cases they have become unlawful. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9625
-https://www.amnesty.org/en/search/?country=38508&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_july_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
+ https://perma.cc/N25B-8UK8
 
 
-https://www.di.se/nyheter/brak-vid-protester-mot-restriktionerna-sex-poliser-skadade/
+https://perma.cc/SZB7-TWC8
 
-https://www.svd.se/hundratalet-samlade-for-anticoronademonstration
+
+https://perma.cc/X3FW-H775
+
+
+https://perma.cc/6CE2-Z3QJ
+
+
+https://perma.cc/VY69-27A5
+
+
+https://perma.cc/W48R-Z9E3
 
 
 
@@ -1352,5 +1307,7 @@ https://www.svd.se/hundratalet-samlade-for-anticoronademonstration
 *No comment provided* 
 
 *Sources*:
- http://euromil.org/armed-forces-and-Covid-19/
-http://euromil.org/wp-content/uploads/2020/04/Swedish-Armed-Forces-and-the-Corona-Pandemic.pdf
+ https://perma.cc/2H5N-UX6S
+
+
+https://perma.cc/49U8-L4P4

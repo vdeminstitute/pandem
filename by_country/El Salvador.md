@@ -46,22 +46,22 @@
 
 *Sources*:
  [1]
-https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/14-03-2020.pdf
+https://web.archive.org/web/20200401220732/https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/14-03-2020.pdf
 [2]
-https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/15-03-2020.pdf
-[3]
-https://covid19.gob.sv/presidente-nayib-bukele-ordena-establecer-cerco-sanitario-en-municipio-de-corinto-morazan-para-prevenir-posible-rebrote-del-covid-19/
-[4]
-https://www.presidencia.gob.sv/presidente-bukele-pide-a-la-poblacion-incrementar-medidas-biosanitarias-tras-decretar-cerco-sanitario-en-chalchuapa/
-[5]
-https://www.presidencia.gob.sv/gobierno-se-anticipa-con-medidas-preventivas-ante-deteccion-de-nueva-cepa-de-coronavirus-a-pesar-de-no-contar-con-herramientas-juridicas-para-enfrentar-la-emergencia/
-[6]
-https://www.presidencia.gob.sv/alcaldes-que-entorpecieron-acciones-del-gobierno-contra-la-pandemia-ahora-quieren-apropiarse-de-los-fondos-covid-19-para-usarlos-con-otros-fines/
-[7]
-https://www.presidencia.gob.sv/el-presidente-bukele-cumple-con-los-salvadorenos-a-pesar-de-los-bloqueos-de-los-sectores-de-oposicion/
+https://web.archive.org/web/20200401220842/https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/15-03-2020.pdf
 
+[3]
+https://perma.cc/H2SL-RQWP
+[4]
+https://perma.cc/VZ8Q-7PMG
+[5]
+https://perma.cc/3KPY-B46J
+[6]
+https://perma.cc/BMB4-27VA
+[7]
+https://perma.cc/KS5U-4J9A
 [8]
-https://www.presidencia.gob.sv/diputados-emiten-informe-con-sesgo-politico-y-que-contradice-a-organismos-internacionales-para-argumentar-que-el-gobierno-manejo-mal-la-pandemia/
+https://perma.cc/A4RG-4J34
 
 
 
@@ -101,9 +101,9 @@ https://www.presidencia.gob.sv/diputados-emiten-informe-con-sesgo-politico-y-que
 
 *Sources*:
  [1]
-https://www.asamblea.gob.sv/sites/default/files/documents/decretos/171117_073006119_archivo_documento_legislativo.pdf
+https://perma.cc/86DG-8D76
 [2]
-https://pdba.georgetown.edu/Constitutions/ElSal/constitucion.pdf
+https://perma.cc/CES5-GEGJ
 
 
 
@@ -143,7 +143,7 @@ https://pdba.georgetown.edu/Constitutions/ElSal/constitucion.pdf
 
 *Sources*:
  [1]
-https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/14-03-2020.pdf
+https://web.archive.org/web/20200401220732/https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/14-03-2020.pdf
 
 
 
@@ -183,22 +183,23 @@ https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/14-03-2020.pdf
 
 *Sources*:
  [1]
-https://imprentanacional.gob.sv/compilacion-de-decretos-de-emergencia-por-covid-19/
+
+https://perma.cc/WE49-CZH5
 [2]
-https://www.france24.com/es/20200610-el-salvador-corte-suprema-justicia-cuarentena-nayib-bukele
+https://perma.cc/VV2R-QTVG
 [3]
-https://www.elsalvador.com/noticias/nacional/nuevo-decreto-de-emergencia-gobierno-puede-ser-nulo-si-no-pasa-asamblea-coronavirus/715810/2020/
+https://perma.cc/T9ZY-2EM4
 [4]
-https://www.asamblea.gob.sv/node/10304
-https://www.asamblea.gob.sv/node/10318
+https://perma.cc/GUR4-53P4
+https://perma.cc/W5SN-7ZEL
 [5]
-https://www.asamblea.gob.sv/sites/default/files/documents/decretos/5DCA733A-30C1-402A-8669-1E58FF29023D.pdf
+https://perma.cc/T53Q-AC36
 [6]
-https://www.nodal.am/2020/06/el-salvador-bukele-contradice-al-congreso-y-a-la-corte-y-decreta-el-inicio-de-la-reapertura-economica/
+https://perma.cc/R7BS-T4AD
 [7]
-https://www.lapagina.com.sv/nacionales/sala-declara-constitucional-decreto-de-reapertura-economica-vetado-por-presidente-bukele/
+https://perma.cc/L3V7-NFJP
 [8]
-https://www.laprensagrafica.com/elsalvador/Que-se-espera-para-el-24-de-agosto-Se-mantiene-reapertura-total-tras-nueva-resolucion-de-Sala-Ministro-de-Salud-responde-20200820-0022.html
+https://perma.cc/GH64-ZWGN
 
 
 
@@ -241,9 +242,9 @@ https://www.laprensagrafica.com/elsalvador/Que-se-espera-para-el-24-de-agosto-Se
 
 *Sources*:
  [1]
-https://pdba.georgetown.edu/Constitutions/ElSal/constitucion.pdf
+https://perma.cc/CES5-GEGJ
 [2]
-https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/14-03-2020.pdf
+https://web.archive.org/web/20200401220732/https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/14-03-2020.pdf
 
 
 
@@ -283,23 +284,25 @@ https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/14-03-2020.pdf
 
 *Sources*:
  [1]
-https://imprentanacional.gob.sv/compilacion-de-decretos-de-emergencia-por-covid-19/
+
+https://perma.cc/WE49-CZH5
 [2]
-https://www.france24.com/es/20200610-el-salvador-corte-suprema-justicia-cuarentena-nayib-bukele
+https://perma.cc/VV2R-QTVG
 [3]
-https://www.elsalvador.com/noticias/nacional/nuevo-decreto-de-emergencia-gobierno-puede-ser-nulo-si-no-pasa-asamblea-coronavirus/715810/2020/
+https://perma.cc/T9ZY-2EM4
 [4]
-https://www.asamblea.gob.sv/node/10304
+https://perma.cc/GUR4-53P4
 [5]
-https://www.asamblea.gob.sv/node/10318
+
+https://perma.cc/W5SN-7ZEL
 [6]
-https://www.asamblea.gob.sv/sites/default/files/documents/decretos/5DCA733A-30C1-402A-8669-1E58FF29023D.pdf
+https://perma.cc/T53Q-AC36
 [7]
-https://www.nodal.am/2020/06/el-salvador-bukele-contradice-al-congreso-y-a-la-corte-y-decreta-el-inicio-de-la-reapertura-economica/
+https://perma.cc/R7BS-T4AD
 [8]
-https://www.lapagina.com.sv/nacionales/sala-declara-constitucional-decreto-de-reapertura-economica-vetado-por-presidente-bukele/
+https://perma.cc/L3V7-NFJP
 [9]
-https://www.laprensagrafica.com/elsalvador/Que-se-espera-para-el-24-de-agosto-Se-mantiene-reapertura-total-tras-nueva-resolucion-de-Sala-Ministro-de-Salud-responde-20200820-0022.html
+https://perma.cc/GH64-ZWGN
 
 
 
@@ -342,7 +345,7 @@ https://www.laprensagrafica.com/elsalvador/Que-se-espera-para-el-24-de-agosto-Se
 
 *Sources*:
  [1]
-https://www.asamblea.gob.sv/sites/default/files/documents/decretos/171117_073006119_archivo_documento_legislativo.pdf
+https://perma.cc/86DG-8D76
 
 
 
@@ -385,9 +388,9 @@ https://www.asamblea.gob.sv/sites/default/files/documents/decretos/171117_073006
 
 *Sources*:
  [1]
-https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/14-03-2020.pdf
+https://web.archive.org/web/20200401220732/https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/14-03-2020.pdf
 [2]
-https://www.jurisprudencia.gob.sv/portal/apls/2020/05/I_63-2020.pdf
+https://perma.cc/6RR4-PVYK
 
 
 
@@ -434,11 +437,14 @@ https://www.jurisprudencia.gob.sv/portal/apls/2020/05/I_63-2020.pdf
 
 *Sources*:
  [1]
-https://imprentanacional.gob.sv/compilacion-de-decretos-de-emergencia-por-covid-19/
+
+https://perma.cc/WE49-CZH5
+
 [2]
-https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/14-03-2020.pdf
+
+https://web.archive.org/web/20200401220732/https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/14-03-2020.pdf
 [3]
-https://www.asamblea.gob.sv/sites/default/files/documents/decretos/171117_073006119_archivo_documento_legislativo.pdf
+https://perma.cc/VZ3Y-EVMD
 
 
 
@@ -561,7 +567,7 @@ https://www.asamblea.gob.sv/sites/default/files/documents/decretos/171117_073006
 
 *Sources*:
  [1]
-https://www.presidencia.gob.sv/cerco-sanitario-corinto/
+https://perma.cc/2P9N-QSWK
 
 
 
@@ -606,9 +612,9 @@ https://www.presidencia.gob.sv/cerco-sanitario-corinto/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/el-salvador/
+https://perma.cc/878P-9V55
 [2]
-https://www.hrw.org/americas/el-salvador
+https://perma.cc/XE2W-T629
 
 
 
@@ -658,17 +664,27 @@ https://www.hrw.org/americas/el-salvador
 
 *Sources*:
  [1]
-https://monitor.civicus.org/updates/2020/06/04/el-salvadors-disproportionate-measures-curb-covid-19-affect-fundamental-freedoms/
+https://perma.cc/A9A5-2TY5
+
+
 [2]
-https://monitor.civicus.org/updates/2020/04/07/el-salvadors-response-covid-19-has-excessively-restricted-fundamental-rights-say-csos/
+https://perma.cc/QFJ4-5AJZ
+
+
 [3]
-https://www.hrw.org/news/2020/04/17/el-salvador-president-defies-supreme-court
+https://perma.cc/RRN5-42NR
+
+
 [4]
-https://www.hrw.org/news/2020/04/29/el-salvador-inhumane-prison-lockdown-treatment
+https://perma.cc/B2QX-XD4B
+
+
 [5]
-https://www.washingtonpost.com/world/the_americas/el-salvador-prison-crackdown-nayib-bukele/2020/04/27/5d3cea4c-88c9-11ea-80df-d24b35a568ae_story.html
+https://perma.cc/Z8Z5-6HHQ
+
+
 [6]
-https://www.reuters.com/article/us-health-coronavirus-el-salvador-gangs/el-salvador-authorizes-use-of-lethal-force-against-gangs-idUSKCN22900R
+https://perma.cc/DB42-R99C
 
 
 
@@ -713,13 +729,14 @@ https://www.reuters.com/article/us-health-coronavirus-el-salvador-gangs/el-salva
 
 *Sources*:
  [1]
-https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/29-03-2020.pdf
+https://perma.cc/K4VH-H99L
 [2]
-https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/31-03-2020.pdf
+https://web.archive.org/web/20200508132336/https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/31-03-2020.pdf
 [3]
-https://rsf.org/en/news/salvadorean-authorities-must-not-obstruct-coronavirus-coverage
+https://perma.cc/HT5X-SBND
+
 [4]
-https://www.transparencia.gob.sv/institutions/mag/documents/355753/download
+https://perma.cc/5SDT-2LV3
 
 
 
@@ -759,9 +776,10 @@ https://www.transparencia.gob.sv/institutions/mag/documents/355753/download
 
 *Sources*:
  [1]
-https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/29-03-2020.pdf
+https://perma.cc/K4VH-H99L
 [2]
-https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/30-03-2020.pdf
+https://web.archive.org/web/20200402233246/https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/30-03-2020.pdf
+
 
 
 
@@ -801,7 +819,7 @@ https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/30-03-2020.pdf
 
 *Sources*:
  [1]
-https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/31-03-2020.pdf
+https://web.archive.org/web/20200508132336/https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/31-03-2020.pdf
 
 
 
@@ -844,19 +862,27 @@ https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/31-03-2020.pdf
 
 *Sources*:
  [1]
-https://rsf.org/en/news/salvadorean-authorities-must-not-obstruct-coronavirus-coverage
+https://perma.cc/6UVN-5Z68
+
+
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/8F9A-YBDA
+
 
 [3]
-http://apes.org.sv/alertas/por-cuarta-vez-gobierno-impide-preguntas-de-periodistas-en-conferencia-de-prensa/
+https://perma.cc/39DA-9BBR
+
+
 [4]
-https://cpj.org/americas/el-salvador/
+https://perma.cc/D8PW-7VR6
+
+
 [5]
-https://www.ifj.org/media-centre/news/detail/category/press-freedom/article/el-salvador-presidente-bukele-ataca-a-la-asociacion-de-periodistas.html
+https://perma.cc/253L-Z5D8
+
 
 [6]
-https://www.amnesty.org/en/latest/news/2020/06/el-salvador-represion-promesas-rotas-presidente-bukele/
+https://perma.cc/R3UE-ECAG
 
 
 
@@ -899,19 +925,27 @@ https://www.amnesty.org/en/latest/news/2020/06/el-salvador-represion-promesas-ro
 
 *Sources*:
  [1]
-https://rsf.org/en/news/salvadorean-authorities-must-not-obstruct-coronavirus-coverage
+https://perma.cc/6UVN-5Z68
+
+
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/8F9A-YBDA
+
 
 [3]
-http://apes.org.sv/alertas/por-cuarta-vez-gobierno-impide-preguntas-de-periodistas-en-conferencia-de-prensa/
+https://perma.cc/39DA-9BBR
+
+
 [4]
-https://cpj.org/americas/el-salvador/
+https://perma.cc/D8PW-7VR6
+
+
 [5]
-https://www.ifj.org/media-centre/news/detail/category/press-freedom/article/el-salvador-presidente-bukele-ataca-a-la-asociacion-de-periodistas.html
+https://perma.cc/253L-Z5D8
+
 
 [6]
-https://www.amnesty.org/en/latest/news/2020/06/el-salvador-represion-promesas-rotas-presidente-bukele/
+https://perma.cc/R3UE-ECAG
 
 
 
@@ -954,11 +988,12 @@ https://www.amnesty.org/en/latest/news/2020/06/el-salvador-represion-promesas-ro
 
 *Sources*:
  [1]
-https://rsf.org/en/news/salvadorean-authorities-must-not-obstruct-coronavirus-coverage
+https://perma.cc/5EHD-TX75
 [2]
-https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/29-03-2020.pdf
+https://perma.cc/K4VH-H99L
 [3]
-https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/31-03-2020.pdf
+https://web.archive.org/web/20200508132336/https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/31-03-2020.pdf
+
 
 
 
@@ -1002,20 +1037,32 @@ https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/31-03-2020.pdf
 
 *Sources*:
  [1]
-https://rsf.org/en/news/salvadorean-authorities-must-not-obstruct-coronavirus-coverage
+https://perma.cc/TW2Q-5LG2
+
+
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/6VB9-G9KT
+
+
 [3]
-http://apes.org.sv/alertas/por-cuarta-vez-gobierno-impide-preguntas-de-periodistas-en-conferencia-de-prensa/
+https://perma.cc/FS8R-X5L8
+
+
 [4]
-https://www.laprensagrafica.com/elsalvador/Diputados-proponen-comision-para-investigar-cifra-real-de-contagios-y-muertes-por-covid-19-en-El-Salvador-20200720-0043.html
+https://perma.cc/4DFZ-YVRR
+
+
 [5]
-https://apes.org.sv/category/noticias/
-https://www.swissinfo.ch/spa/el-salvador-prensa_el-gremio-period%C3%ADstico-de-el-salvador-no-descarta-persecuci%C3%B3n-gubernamental/46587732
+https://perma.cc/TP9D-DHXP
+https://perma.cc/B982-FPQ8
+
+
 [6]
-https://www.sipiapa.org/notas/1214451-el-salvador
+https://perma.cc/W6SA-53X3
+
+
 [7]
-https://monitor.civicus.org/updates/2021/04/28/experts-underscore-steep-decline-freedom-expression-el-salvador/
+https://perma.cc/MXH3-RYSM
 
 
 
@@ -1058,25 +1105,43 @@ https://monitor.civicus.org/updates/2021/04/28/experts-underscore-steep-decline-
 
 *Sources*:
  [1]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/9725-YGUT
+
+
 [2]
-http://apes.org.sv/alertas/agente-pnc-amedrenta-a-periodistas-en-hospital-amatepec/
+https://perma.cc/S97S-XMFQ
+
+
 [3]
-http://apes.org.sv/wordpress/wp-content/uploads/2020/05/INFORME-MAYO.pdf
+https://perma.cc/3CTG-XQCZ
+
+
 [4]
-https://www.sipiapa.org/notas/1214039-la-sip-condena-amenazas-contra-la-prensa-el-salvador
+https://perma.cc/6826-2PCG
+
+
 [5]
-https://foreignaffairs.house.gov/_cache/files/a/7/a7b73a01-82c8-45ac-ba33-1dd490890264/0BA7498A02473A757349A698A432EC5D.09-10-20-house-and-senate-to-pres.-nayib-bukele---final.pdf
+https://perma.cc/32HB-9MMF
+
+
 [6]
-https://www.ifj.org/media-centre/news/detail/category/press-freedom/article/el-salvador-presidente-bukele-ataca-a-la-asociacion-de-periodistas.html
+https://perma.cc/LG6G-SADE
+
+
 [7]
-https://www.bbc.com/mundo/noticias-america-latina-54408910
+https://perma.cc/E9RJ-KNF2
+
+
 [8]
-https://apes.org.sv/category/noticias/
+https://perma.cc/837F-Q64J
+
+
 [9]
-http://im-defensoras.org/wp-content/uploads/2021/05/Informe-agresiones-defensoras-y-periodistas-COVID19.pdf
+https://perma.cc/3V4W-KUGC
+
+
 [10]
-https://monitor.civicus.org/updates/2020/09/14/el-salvadors-congress-creates-group-investigate-harassment-press-using-state-funds/
+https://perma.cc/AX3T-SSN7
 
 
 
@@ -1119,11 +1184,15 @@ https://monitor.civicus.org/updates/2020/09/14/el-salvadors-congress-creates-gro
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/WAE8-5UMB
+
+
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/57WA-HJWH
+
+
 [3]
-https://cpj.org/americas/el-salvador/
+https://perma.cc/X3PH-79HY
 
 
 
@@ -1168,17 +1237,17 @@ https://cpj.org/americas/el-salvador/
 
 *Sources*:
  [1]
-https://covid19.gob.sv/cuidate-formas-de-prevencion/
+https://perma.cc/W9CK-WVKW
 [2]
-https://covid19.gob.sv/identifica-los-sintomas/
+https://perma.cc/KQ8W-34WB
 [3]
-https://arpas.org.sv/2020/04/las-fake-news-del-presidente-bukele/
+https://perma.cc/VE3M-TKWY
 [4]
-https://www.revistafactum.com/desinformacion-bukele/
+https://perma.cc/8LSD-UXK5
 [5]
-https://www.dw.com/es/el-salvador-y-costa-rica-se-enfrentan-por-manejo-de-la-pandemia/a-53355656
+https://perma.cc/RVD3-Y777
 [6]
-https://www.efe.com/efe/america/politica/bukele-echo-mano-de-la-desinformacion-para-manejar-pandemia-segun-un-estudio/20000035-4439684
+https://perma.cc/7U7G-XWYC
 
 
 
@@ -1223,15 +1292,23 @@ https://www.efe.com/efe/america/politica/bukele-echo-mano-de-la-desinformacion-p
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/15/el-salvador-police-abuses-covid-19-response
+https://perma.cc/LAT9-V74P
+
+
 [2]
-https://www.elsalvador.com/eldiariodehoy/violencia-coronavirus-covid-19-violacion-derechos-humanos-policia/725821/2020/
+https://perma.cc/HV6Y-CNXL
+
+
 [3]
-https://www.amnesty.org/en/latest/news/2020/10/represion-militarizacion-seguridad-publica-el-salvador/
+https://perma.cc/897D-EU7J
+
+
 [4]
-https://www.amnesty.org/en/latest/news/2020/10/amnesty-international-artist-erik-ravelo-demand-solutions-repression/
+https://perma.cc/8HS6-8B5H
+
+
 [5]
-https://www.swissinfo.ch/spa/coronavirus-el-salvador_estudio-se%C3%B1ala--exceso-de-normas-abusivas--durante-cuarentena-en-el-salvador/46402290
+https://perma.cc/L9R4-2AAG
 
 
 
@@ -1274,14 +1351,14 @@ https://www.swissinfo.ch/spa/coronavirus-el-salvador_estudio-se%C3%B1ala--exceso
 
 *Sources*:
  [1]
-https://www.france24.com/es/20200212-el-salvador-bukele-acata-la-decisi%C3%B3n-del-supremo-pese-a-criticarla
+https://perma.cc/7ASE-N556
 [2]
-https://www.bbc.com/mundo/noticias-america-latina-52319351
+https://perma.cc/9KYV-NMJB
 [3]
-https://www.fuerzaarmada.mil.sv/?p=12473
+https://web.archive.org/web/20201101211413/https://www.fuerzaarmada.mil.sv/?p=12473
 [4]
-https://www.fuerzaarmada.mil.sv/?p=12496
+https://web.archive.org/web/20210304153228/https://www.fuerzaarmada.mil.sv/?p=12496
 [5]
-https://www.elsalvador.com/noticias/nacional/asamblea-legislativa-preve-aprobar-ley-sanitaria/769786/2020/
+https://perma.cc/2MVS-FSDV
 [6]
-https://www.amnesty.org/en/latest/news/2020/10/represion-militarizacion-seguridad-publica-el-salvador/
+https://perma.cc/N622-KBNP

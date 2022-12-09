@@ -22,14 +22,19 @@
  I did not find any information related to this. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Afghanistan_2004.pdf?lang=en
+ https://perma.cc/CB53-2V7Z
 
 
 
 
-https://rsf.org/en/news/information-afghanistan-covid-19-adds-problems-war
 
 
+
+
+
+
+
+https://perma.cc/9W7H-PZ3G
 
 
 
@@ -54,10 +59,11 @@ https://rsf.org/en/news/information-afghanistan-covid-19-adds-problems-war
  No evidence of measures limiting media freedom found. 
 
 *Sources*:
- https://www.kryeministria.al/newsroom/vendim-i-keshillit-te-ministrave-date-24-mars-2020/
+ https://perma.cc/8GBQ-E2ZP
 
-https://ipi.media/albania/
-https://new.shendetesia.gov.al/category/lajme/
+https://perma.cc/U73Z-9BA8
+
+https://web.archive.org/web/20200422133851/https://new.shendetesia.gov.al/category/lajme/
 
 
 
@@ -86,29 +92,28 @@ LAW 20-06 AMENDING THE PENAL CODE (2) - The amendments increase prison sentences
 The law has received widespread criticism by free speech activists, who point out that it could be used to curb independent reporting of the government’s failings in tackling the pandemic. These deficiencies, such as the lack of adequate preventative measures in hospitals, have prompted some doctors to post videos on social media in which they draw attention to the difficult circumstances they are working under. The new law could be used to suppress such reports.'' (5) 
 
 *Sources*:
- http://www.aps.dz/algerie/104200-amendement-du-code-penal-criminalisation-de-la-diffusion-des-fakenews-portant-atteinte-a-l-ordre-et-a-la-securite-publics
+ https://perma.cc/DT42-LRNE
 (1)
 
-https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
+https://perma.cc/N44K-ALH5
 (2)
 
-https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
+https://perma.cc/HX5L-67R2
 (3)
 
-https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
+https://perma.cc/G48N-W28J
 (4)
 
-https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
+https://perma.cc/LG4H-258S
 (5)
 
-https://ipi.media/alerts/algeria-criminalizes-fake-news-amidst-covid-19-pandemic/
+https://perma.cc/8NF7-9T68
 (6)
 
-https://cpj.org/2020/04/algeria-blocks-3-news-websites-and-criminalizes-fa/
+https://perma.cc/JU34-KVWL
 
-https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
-
-https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%99-activists-denounce-law
+https://perma.cc/PU6N-BCPV
+https://perma.cc/9XKB-XVDY
 
 
 
@@ -133,8 +138,13 @@ https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%
  The emergency measures do not de-jure limit media freedom. The Presidential Decree nº 81/20, Article 3, determines that there can be no limitation to freedom of information during the state of emergency. 
 
 *Sources*:
- https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
-https://governo.gov.ao/fotos/frontend_1/gov_documentos/200527_ja_decreto_presidencial_8066864925f3b7349d7c68.pdf
+ https://perma.cc/U2W8-5DBD
+
+
+
+
+
+https://perma.cc/A7X8-UKRM
 
 
 
@@ -160,7 +170,7 @@ https://governo.gov.ao/fotos/frontend_1/gov_documentos/200527_ja_decreto_preside
 
 *Sources*:
  [1]
-http://servicios.infoleg.gob.ar/infolegInternet/anexos/335000-339999/335741/norma.htm
+https://perma.cc/TZ6V-YCEE
 
 
 
@@ -187,11 +197,31 @@ http://servicios.infoleg.gob.ar/infolegInternet/anexos/335000-339999/335741/norm
 July-September 2020, October 2020 - June 2021: no measures limiting media freedom found. 
 
 *Sources*:
- https://www.moj.am/storage/uploads/298voroshum_RUS.pdf
-https://www.moj.am/storage/uploads/298voroshum_RU_24032020.pdf
-https://www.arlis.am/DocumentView.aspx?docid=140631
-https://www.osce.org/representative-on-freedom-of-media/449098
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/freedom-of-expression-during-covid-19.pdf
+ https://perma.cc/53T8-BD9F
+
+
+
+
+
+https://perma.cc/F4UT-XAYG
+
+
+
+
+
+https://perma.cc/NC3V-554A
+
+
+
+
+
+https://perma.cc/67UP-VRQ3
+
+
+
+
+
+https://perma.cc/SY6L-8F8C
 
 
 
@@ -216,9 +246,13 @@ https://www.loc.gov/law/help/covid-19-freedom-of-expression/freedom-of-expressio
  No de jure limitations on media freedom in the Biosecurity Emergency declaration, or any measures taken under it. 
 
 *Sources*:
- https://www.legislation.gov.au/Details/F2020L00266
+ https://perma.cc/WQ7V-KHZK
 
-https://www.legislation.gov.au/Details/C2017C00303
+
+
+
+
+https://perma.cc/L5V5-EW2N
 
 
 
@@ -243,12 +277,31 @@ https://www.legislation.gov.au/Details/C2017C00303
  The emergency measures do not place any de jure limitations on media. 
 
 *Sources*:
- https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2020_I_12/BGBLA_2020_I_12.pdfsig
+ https://perma.cc/3A9H-G52Z
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Austria
-https://rsf.org/en/austria
-https://cpj.org/europe/austria/
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+
+
+
+
+https://perma.cc/9QWY-NSRU
+
+
+
+
+
+https://perma.cc/54QB-4QUP
+
+
+
+
+
+https://perma.cc/ZH2A-QEN6
+
+
+
+
+
+https://perma.cc/3ZNR-E4GM
 
 
 
@@ -273,15 +326,19 @@ https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%
  According to OSCE report, Azerbaijan is among the countries that "have introduced and/or applied provisions to criminalize the dissemination of so-called “false information” or “false news” about the pandemic (1). According to a report by the Law Library of Congress, these are Laws Nos. 27-VIQD, 28-VIQD, and 30-VIQD from 17 March. For example, "Law No. 28-VIQD amends the Criminal Code (CC) by adding article 139-1, which criminalizes “[a] violation of the anti-epidemic, sanitary-hygienic, and quarantine regimes that causes, or creates a substantial threat of, the spread of disease." (2) Since this legislation is not part of emergency measures but rather amendments to permanent legislation, it is not coded under melim. 
 
 *Sources*:
- https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-1(1)
-https://ipi.media/rush-to-pass-fake-news-laws-during-covid-19-intensifying-global-media-freedom-challenges/
-https://www.osce.org/representative-on-freedom-of-media/449146
+ https://perma.cc/FUR3-AP8Q
+(1)
+
+https://perma.cc/Z97M-WXQE
+https://perma.cc/AY4Y-S28Z
+
 https://perma.cc/3HL9-SGVR
+
 https://perma.cc/X2TE-7UKH
+
 https://perma.cc/R6VW-VFVE
 
-https://loc.gov/law/help/covid-19-freedom-of-expression/azerbaijan.php
+https://perma.cc/46LN-JKAC
 (2)
 
 
@@ -307,8 +364,13 @@ https://loc.gov/law/help/covid-19-freedom-of-expression/azerbaijan.php
  The 'general holiday' did not include any measures that limited media freedom. 
 
 *Sources*:
- https://verfassungsblog.de/bangladeshs-unofficial-emergency-managing-the-covid-19-crisis-by-notifications/
-https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
+ https://perma.cc/3HPQ-UUR7
+
+
+
+
+
+https://perma.cc/32K8-X7D8
 
 
 
@@ -333,8 +395,8 @@ https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
  No evidence of emergency measures limiting media freedom found. Under existing legislation (The 2008 Media Law of Belarus), media outlets that public false information can get their license revoked or be blocked, which was used to threated a media outlet for publishing a story about the dealth of a Covid-19 patient in April 2020. Since it is existing legislation, it is not considered in the coding. 
 
 *Sources*:
- https://pravo.by/document/?guid=12551&p0=C22000171&p1=1
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/freedom-of-expression-during-covid-19.pdf
+ https://perma.cc/Y48W-H4T7
+https://perma.cc/D2K7-U678
 
 
 
@@ -359,17 +421,12 @@ https://www.loc.gov/law/help/covid-19-freedom-of-expression/freedom-of-expressio
  No de jure media limitations. 
 
 *Sources*:
- http://www.ejustice.just.fgov.be/mopdf/2020/03/14_1.pdf#Page2
-
-http://www.ejustice.just.fgov.be/mopdf/2020/03/18_3.pdf#Page3
-
-http://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&pub_date=2020-03-23&caller=summary&numac=2020030347
-
-http://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&pub_date=2020-03-24&caller=summary&numac=2020030361
-
-https://verfassungsblog.de/belgiums-accordion-response-to-covid-19/
-
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&table_name=loi&cn=2020102801
+ https://perma.cc/R2C3-YRPF
+https://perma.cc/Y7QE-TLFF
+https://perma.cc/EFU9-PU4B
+https://perma.cc/T56D-NDK4
+https://perma.cc/5AJE-LD6F
+https://perma.cc/PGF8-YDRN
 
 
 
@@ -394,17 +451,14 @@ http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&table_nam
  No evidence on media limitations found in the emergency measures. 
 
 *Sources*:
- https://www.gouv.bj/actualite/556/coronavirus-les-11-mesures-prises-par-le-conseil-extraordinaire-des-ministres-au-benin/
+ https://perma.cc/K4BL-4AAA
 
-https://www.gouv.bj/actualite/567/coronavirus---communique-gouvernement-propos-deux-nouvelles-mesures-prises/
+https://perma.cc/FZ4S-XXLN
 
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://www.gouv.bj/actualite/1143/communique-ministere-sante-situation-actuelle-covid-19/
+https://perma.cc/QQ7D-565J
+https://perma.cc/7JYC-SZBJ
+https://perma.cc/VS9X-U2M3
+https://perma.cc/Q842-ZT9V
 
 
 
@@ -430,19 +484,25 @@ https://www.gouv.bj/actualite/1143/communique-ministere-sante-situation-actuelle
 
 *Sources*:
  [1]
-https://www.boliviasegura.gob.bo/archivos/4200.doc.pdf
+https://web.archive.org/web/20200625185532/https://www.boliviasegura.gob.bo/archivos/4200.doc.pdf
+
 [2]
-https://www.boliviasegura.gob.bo/archivos/4231.doc.pdf
+https://web.archive.org/web/20200529151037/https://www.boliviasegura.gob.bo/archivos/4231.doc.pdf
+
 [3]
-https://cpj.org/2020/05/bolivian-decree-broadens-criminal-sanctions-for-di/
+https://perma.cc/289B-4CS4
+
 [4]
-https://monitor.civicus.org/updates/2020/05/12/free-speech-under-threat-bolivia-during-covid-19-pandemic/
+https://perma.cc/63PF-DAAD
+
 [5]
-https://www.amnesty.org/download/Documents/AMR1821712020SPANISH.pdf
+https://perma.cc/7FEY-JURJ
+
 [6]
-https://www.hrw.org/news/2020/04/07/bolivia-covid-19-decree-threatens-free-expression
+https://perma.cc/4ZHU-5JXN
+
 [7]
-https://www.lexivox.org/norms/BO-DS-N4236.html
+https://perma.cc/LC2H-TNAH
 
 
 
@@ -467,14 +527,15 @@ https://www.lexivox.org/norms/BO-DS-N4236.html
  Article 24 of Protection and Rescue of People and Material Goods from Natural or Other Disasters on ensuring transparency and freedom of information. Note on subnational variation: the Serb Republic passed a law on "fake news" that could limit media freedom (1), and similar measures were adopted in the Brčko District (2) 
 
 *Sources*:
- http://msb.gov.ba/Zakoni/zakoni/default.aspx?id=1721&langTag=bs-BA
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://www.icnl.org/covid19tracker/?location=15&issue=&date=&type=
-https://ipi.media/rush-to-pass-fake-news-laws-during-covid-19-intensifying-global-media-freedom-challenges/
-https://www.osce.org/files/f/documents/7/7/470667.pdf
-https://www.osce.org/representative-on-freedom-of-media/450115
+ https://perma.cc/Q7X4-GMYY
+https://perma.cc/M3DG-7W7Y
+https://perma.cc/L29R-29RG
+https://perma.cc/V2TC-Q58G
+https://perma.cc/P9W6-HZ34
+https://perma.cc/B4CZ-JGXC
 (1)
-https://rsf.org/en/news/repressive-laws-prosecutions-attacks-europe-fails-shield-its-journalists-against-abuse-covid-19
+
+https://perma.cc/27XL-275N
 (2)
 
 
@@ -501,16 +562,13 @@ https://rsf.org/en/news/repressive-laws-prosecutions-attacks-europe-fails-shield
 
 *Sources*:
  [1]
-https://bw.usembassy.gov/wp-content/uploads/sites/125/Emergency-Powers-COVID-19-Regulations-2020.pdf
-
+https://perma.cc/K5NF-CTYD
 [2]
-https://ifex.org/covid-19-in-africa-right-to-information-another-casualty-with-spike-in-attacks-on-journalists/
-
-
+https://perma.cc/S5DM-JSEQ
 [3]
-https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
+https://perma.cc/MXW9-42WR
 [4]
-https://www.usaid.gov/sites/default/files/documents/INTERNEWS_EFFECTS_OF_COVID19_ON_FREEDOM_OF_EXPRESSION_IN_SELECT_SADC_COUNTRIES_2.pdf
+https://perma.cc/G2WW-3V9A
 
 
 
@@ -536,11 +594,11 @@ https://www.usaid.gov/sites/default/files/documents/INTERNEWS_EFFECTS_OF_COVID19
 
 *Sources*:
  [1]
-http://www.in.gov.br/web/dou/-/portaria-n-188-de-3-de-fevereiro-de-2020-241408388
+https://perma.cc/8MDX-VSC6
 [2]
-http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-covid-19
+https://perma.cc/5WC8-RVAL
 [3]
-https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2020/03/planalto-enfatiza-a-imprensa-como-servico-indispensavel-durante-combate-ao-coronavirus
+https://perma.cc/M5UU-6F2A
 
 
 
@@ -565,10 +623,10 @@ https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2020/03/planalto
  The government adopted measures punishing "false information" with a prison term of up to 3 years and a fine of 1,000 euros, but were vetoed by the President. Another similar bill was proposed on April 19 2020 which, if passed, could limit media freedom (coded as 0 since the bill has not been passed at the time of coding). 
 
 *Sources*:
- https://www.osce.org/representative-on-freedom-of-media/450193
-https://rsf.org/en/news/repressive-laws-prosecutions-attacks-europe-fails-shield-its-journalists-against-abuse-covid-19
-https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/
-https://fra.europa.eu/sites/default/files/fra_uploads/bg_report_on_coronavirus_pandemic_july_2020.pdf
+ https://perma.cc/5LC9-JMJ9
+https://perma.cc/H3FN-C3AL
+https://perma.cc/T9E8-T6X7
+https://perma.cc/HDT7-QVR7
 
 
 
@@ -593,17 +651,11 @@ https://fra.europa.eu/sites/default/files/fra_uploads/bg_report_on_coronavirus_p
  No evidence was found in the emergency measures, nor in the main media freedom tracking pages. 
 
 *Sources*:
- https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://cpj.org/covid-19/
-
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-
+ [1]	https://perma.cc/X9UQ-DMMN
+[2]	perma.cc/R9VD-A6ZW
+[3]	perma.cc/A9DS-HP4E
+[4]	perma.cc/BXP9-MVQH
+[5]	perma.cc/HL43-T3SA
 
 
 
@@ -628,20 +680,34 @@ https://ipi.media/covid19-media-freedom-monitoring/
  The emergency measures do not place de jure limitations on media, but Myanmar has previous de jure limitations on media that has been used to restrict reporting on Covid-19. Article 505 of the Penal Code states that spreading information that "cause fear or alarm to the public" is illegal and can result in prison up to two years. This penal code has been in continued use since the coup, with several journalists being put on “wanted lists”. This, however, is not a part of the emergency response and was in place before the Covid-19 crisis, and no sources state that Myanmar has introduced any new de jure limitations since then, so this is coded as 0 for all three periods. 
 
 *Sources*:
- https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-Covid-19-death
+ https://perma.cc/3U5F-STEW
 
-https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
 
-https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
+https://perma.cc/4UYL-CSXT
 
-https://rsf.org/en/thematique/internet?countries%5B60%5D=60
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Myanmar
-https://rsf.org/en/news/myanmar-junta-now-publishing-lists-wanted-journalists
-https://www.nytimes.com/2021/01/31/world/asia/myanmar-coup-aung-san-suu-kyi.html
-https://www.hrw.org/news/2021/05/06/myanmar-junta-bans-satellite-television
-https://www.hrw.org/news/2021/04/29/myanmar-juntas-assault-truth
-https://rsf.org/en/news/myanmars-military-junta-eliminates-independent-media
+https://perma.cc/ZJ2Z-RBHE
+
+
+https://perma.cc/UMQ8-MQY4
+
+
+https://perma.cc/V9D7-PAUS
+
+
+https://perma.cc/33NX-JV39
+
+
+https://perma.cc/6YHK-KCD9
+
+
+https://perma.cc/B45K-PKAG
+
+
+https://perma.cc/LBN7-VQ56
+
+
+https://perma.cc/H6G4-EJ4R
 
 
 
@@ -666,21 +732,14 @@ https://rsf.org/en/news/myanmars-military-junta-eliminates-independent-media
  The measures do not limit media freedoms. However, there are widepread reports on lack of transparency from the Burundian authoritiies on Covid-19 related matters. 
 
 *Sources*:
- https://www.aa.com.tr/en/africa/rights-group-warns-burundi-on-covid-19-cover-up/1786867
-
-https://www.hrw.org/news/2020/03/31/burundi-any-covid-19-cover-will-put-lives-risk
-
-http://minisante.bi/wp-content/uploads/Communiqu%C3%A9-de-presse-sur-les-mesures-d%C3%A9j%C3%A0-prises-de-pr%C3%A9vention-Covid-19.pdf
-
-https://bi.usembassy.gov/covid-19-information/
-
-https://twitter.com/BurundiSecurity/status/1241045159636336641
-
-https://twitter.com/mspls_bdi/status/1241013386244169728
-
-https://www.theguardian.com/world/2020/may/14/burundi-expels-who-coronavirus-team-as-election-approaches
-
-https://www.hrw.org/world-report/2021/country-chapters/burundi
+ [1]	perma.cc/93UT-NW2R
+[2]	perma.cc/A665-A8XG
+[3]	perma.cc/QS4E-K9BC
+[4]	perma.cc/RB37-7SVQ
+[5]	perma.cc/8SUP-DF38
+[6]	perma.cc/XE9V-NQ9R
+[7]	perma.cc/XJ9R-4CA6
+[8]	perma.cc/D5NE-TSWV
 
 
 
@@ -705,12 +764,13 @@ https://www.hrw.org/world-report/2021/country-chapters/burundi
  As the emergency law that was passed has not been enacted, media freedom is not limited due to the emergency measures across all the time periods. 
 
 *Sources*:
- https://rsf.org/en/news/cambodia-hun-sen-uses-covid-19-crisis-tighten-his-grip
+ https://perma.cc/D77A-34V3
 
 
-https://www.reuters.com/article/us-health-coronavirus-cambodia/cambodia-adopts-law-to-allow-for-emergency-powers-to-tackle-coronavirus-idUSKCN21S0IW
+https://perma.cc/9TYK-S99J
 
-https://www.ifj.org/media-centre/news/detail/category/press-releases/article/cambodia-parliament-approves-state-emergency-law-amid-the-pandemic.html
+
+https://perma.cc/DE2X-HKL8
 
 
 
@@ -735,15 +795,11 @@ https://www.ifj.org/media-centre/news/detail/category/press-releases/article/cam
  No evidence on media limitations found in the emergency measures. 
 
 *Sources*:
- https://www.prc.cm/en/multimedia/documents/8228-government-response-strategy-to-the-coronavirus-pandemic-covid-19
-
-https://www.spm.gov.cm/site/?q=fr/content/strategie-gouvernementale-de-riposte-face-la-pandemie-de-coronavirus-covid-19
-
-https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
-
-https://afrique.le360.ma/autres-pays/societe/2020/05/01/30417-cameroun-coronavirus-le-gouvernement-assouplit-les-mesures-restrictives-30417
-
-https://verfassungsblog.de/cameroons-fight-against-covid-19-an-ordinary-legal-framework-for-an-extraordinary-situation/
+ [1]	perma.cc/RT9W-GF2F
+[2]	perma.cc/ZJU3-PVGR
+[3]	perma.cc/N2MW-EYVL
+[4]	perma.cc/B7CA-H5M7
+[5]	perma.cc/Y8PD-NTAS
 
 
 
@@ -768,10 +824,16 @@ https://verfassungsblog.de/cameroons-fight-against-covid-19-an-ordinary-legal-fr
  Neither Reporters Without Borders, Committee to Protect Journalists nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B177%5D=177
-https://ipi.media/canada/
-https://www.justice.gc.ca/eng/csj-sjc/covid.html
-https://cpj.org/americas/canada/
+ https://perma.cc/FQE9-8J9K
+
+
+https://perma.cc/FJN2-QB5W
+
+
+https://perma.cc/SN8H-R4NX
+
+
+https://perma.cc/8DFE-M77Q
 
 
 
@@ -796,11 +858,15 @@ https://cpj.org/americas/canada/
  No evidence on media limitations found in the emergency measures. 
 
 *Sources*:
- https://cf.ambafrance.org/Informations-Coronavirus-Covid-19
-https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-centrafricaine/
-https://www.ascleiden.nl/content/ascl-blogs/crepin-marius-mouguia/covid-19-central-african-republic-respecting-barriers
-https://www.ituc-africa.org/Management-of-the-COVID-19-crisis-in-Central-Africa.html
-https://www.centrafrique-presse.info/article/13898/rca-covid-19-message-a-la-nation-de-son-excellence-le-professeur-faustin-archange-touadera-president-de-la-republique-chef-de-letathttps://www.facebook.com/gouv.cf/photos/pcb.2594650120774731/2594650040774739/?type=3&theater
+ [1]	perma.cc/DXH2-LVJS
+[2]	perma.cc/TN3M-VZV5
+[3]	perma.cc/52TQ-Y2TN
+[4]	perma.cc/GFH6-UCB6
+[5]	perma.cc/CHM8-KPSX
+
+[6]
+https://www.facebook.com/gouv.cf/photos/pcb.2594650120774731/2594650040774739/?type=3&theater
+[7]
 https://www.facebook.com/gouv.cf/photos/pb.2107181279521620.-2207520000../2619835311589545/?type=3&theater
 
 
@@ -826,10 +892,9 @@ https://www.facebook.com/gouv.cf/photos/pb.2107181279521620.-2207520000../261983
  No de jure media limitations mentioned in the emergency measures. 
 
 *Sources*:
- https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
-
-https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
-
+ https://perma.cc/6TXA-T9GW
+https://perma.cc/PT62-QME4
+html
 https://www.facebook.com/watch/?v=273032193715366
 
 
@@ -856,12 +921,19 @@ https://www.facebook.com/watch/?v=273032193715366
 
 *Sources*:
  [1]
-https://www.diariooficial.interior.gob.cl/publicaciones/2020/03/18/42607-B/01/1742691.pdf
+https://perma.cc/TTT5-VK2H
+
+
 [2]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/776T-FLHZ
+
+
 [3]
-https://rsf.org/en/countries
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/A682-7NQJ
+https://perma.cc/3CKG-VFUB
+
+
+
 
 
 
@@ -886,7 +958,7 @@ https://ipi.media/covid19-media-freedom-monitoring/
  Article 63(2) of the Emergency Response Law of the People's Republic of China states, "Article 65 Any unit or individual that, in violation of the provisions of this Law, fabricates and disseminates false information on the development or handling of an emergency, or knowingly disseminates such false information, shall be ordered to put it right and shall be given a warning; where serious consequences are caused, it/he shall suspend business operation or its/his practicing certificate shall be revoked according to law; if the leading person directly responsible is a State functionary, he shall, in addition, be given a sanction according to law; and if such an act constitutes a violation of the regulations for administration of public security, a penalty shall be imposed by the public security organ according to law." 
 
 *Sources*:
- http://english.court.gov.cn/2015-08/17/content_21625180_6.htm
+ https://perma.cc/7K3Z-5U6F
 
 
 
@@ -912,11 +984,12 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 *Sources*:
  [1]
-http://www.regiones.gov.co/Inicio/assets/files/51.pdf
+https://perma.cc/Q4FY-3EE8
 [2]
-https://coronaviruscolombia.gov.co/Covid19/docs/decretos/minsalud/resolucion_385_de_2020_minsalud.pdf
+https://perma.cc/3TB5-K29B
+
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/BN6Q-4ZBK
 
 
 
@@ -942,7 +1015,7 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
 *Sources*:
  [1]
-https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1532-lineamientos-nacionales-para-la-vigilancia-de-la-infeccion-por-coronavirus-2019-ncov
+https://web.archive.org/web/20200315080459/https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1532-lineamientos-nacionales-para-la-vigilancia-de-la-infeccion-por-coronavirus-2019-ncov
 
 
 
@@ -969,9 +1042,9 @@ https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noti
 There is no new evidence found of changes in January-March, April-July 2021. 
 
 *Sources*:
- https://verfassungsblog.de/croatias-response-to-covid-19-on-legal-form-and-constitutional-safeguards-in-times-of-pandemic/
-https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-april-2020_en.pdf
-https://www.aem.hr/nekategorizirano/upozorenje-vijeca-za-elektronicke-medije-svim-elektronickim-medijima-u-republici-hrvatskoj/
+ [1]	perma.cc/94M6-9ZSS
+[2]	perma.cc/4MNP-3LWR
+[3]	perma.cc/9DLQ-5CHF
 
 
 
@@ -997,7 +1070,7 @@ https://www.aem.hr/nekategorizirano/upozorenje-vijeca-za-elektronicke-medije-svi
 
 *Sources*:
  [1]
-https://www.gacetaoficial.gob.cu/es/gaceta-oficial-no-25-extraordinaria-de-2020
+https://perma.cc/9DNH-VPZU
 
 
 
@@ -1022,9 +1095,8 @@ https://www.gacetaoficial.gob.cu/es/gaceta-oficial-no-25-extraordinaria-de-2020
  No evidence of measures limiting media freedom found and no provision in law/acts for that. 
 
 *Sources*:
- https://www.vlada.cz/en/media-centrum/aktualne/measures-adopted-by-the-czech-government-against-coronavirus-180545/
-
-https://www.zakonyprolidi.cz/cs/2021-94#cast9
+ [1]	perma.cc/K4AS-ZVZT
+[2]	perma.cc/SE2C-VQF4
 
 
 
@@ -1049,19 +1121,12 @@ https://www.zakonyprolidi.cz/cs/2021-94#cast9
  No evidence of media limitations found in the emergency measures. 
 
 *Sources*:
- http://www.leganet.cd/Legislation/JO/2020/Ordonnance%2024.03.2020.html
-
-https://www.stopcoronavirusrdc.info/mesures-de-protection-contre-le-coronavirus
-
-https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-democratique-du-congo/
-
-https://www.ccife-rdcongo.org/actualites/n/news/17-12-20-ministere-de-linterieur-arrete-precisant-les-modalites-dapplication-des-mesures-de-lutt.html
-
-https://www.ccife-rdcongo.org/fileadmin/cru-1622202093/repcongo/user_upload/WhatsApp_Image_2020-12-19_at_09.49.07.jpeg
-
-https://www.ccife-rdcongo.org/fileadmin/cru-1622202093/repcongo/user_upload/WhatsApp_Image_2020-12-19_at_09.49.07_1_.jpeg
-
-https://www.ccife-rdcongo.org/fileadmin/cru-1622202093/repcongo/user_upload/WhatsApp_Image_2020-12-19_at_09.49.08.jpeg
+ https://perma.cc/HT8M-LJYZ
+https://perma.cc/4TF2-BJMK
+https://perma.cc/PF6V-5F9K
+https://perma.cc/4XEN-4HDH
+https://perma.cc/AE2Q-4ZEPhttps://perma.cc/74MD-MDW7
+https://perma.cc/V6GJ-2NF5
 
 
 
@@ -1086,14 +1151,22 @@ https://www.ccife-rdcongo.org/fileadmin/cru-1622202093/repcongo/user_upload/What
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Danish Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B105%5D=105
+ https://perma.cc/3L4S-7DKV
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Denmark
-https://cpj.org/europe/denmark/
-https://www.elov.dk/epidemiloven/
 
-https://www.retsinformation.dk/eli/lta/2021/285
-https://www.retsinformation.dk/eli/ft/201913L00133
+https://perma.cc/9ND2-X477
+
+
+https://perma.cc/AGW7-WE96
+
+
+https://perma.cc/2WQG-5Z54
+
+
+https://perma.cc/J7MU-NSXD
+
+
+https://perma.cc/UXD3-BTTZ
 
 
 
@@ -1119,9 +1192,9 @@ https://www.retsinformation.dk/eli/ft/201913L00133
 
 *Sources*:
  [1]
-http://www.consultoria.gov.do/Documents/GetDocument?reference=ca72d161-e529-433f-8421-371952912c65
+https://perma.cc/HA9Z-9VST
 [2]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/W9R6-4DVJ
 
 
 
@@ -1147,7 +1220,7 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
 *Sources*:
  [1]
-https://www.defensa.gob.ec/wp-content/uploads/downloads/2020/03/Decreto_presidencial_No_1017_17-Marzo-2020.pdf
+https://perma.cc/HV5A-XCEB
 
 
 
@@ -1176,20 +1249,22 @@ https://www.defensa.gob.ec/wp-content/uploads/downloads/2020/03/Decreto_presiden
 4: Recently, the authorities have also warned that those who spread "false news" about the coronavirus may face up to five years imprisonment and steep fines. 
 
 *Sources*:
- https://rsf.org/en/news/egypt-new-media-law-aims-silence-independent-online-media-rsf-says
-
-https://www.reuters.com/article/us-egypt-media/new-egyptian-law-establishes-media-regulator-picked-by-president-idUSKBN14F11S
-
-https://www.theguardian.com/world/2020/may/03/egypt-has-made-journalism-a-with-crackdown-says-amnesty-international?fbclid=IwAR2LZlj_pI3XRCnj6ac3H14mWebfB85IlxvWams4v4ttCYuk8ZSZOS8sojg
+ https://perma.cc/3H24-S7EN
 
 
-https://www.constituteproject.org/constitution/Egypt_2014.pdf
+https://perma.cc/P5SX-J4TB
 
 
-https://madamasr.com/en/2017/04/12/feature/politics/egypts-media-in-a-state-of-emergency/
+https://perma.cc/JG52-R9MB
 
 
-https://www.icj.org/wp-content/uploads/2018/09/Egypt-Return-to-State-of-Emergency-Advocacy-Analysis-brief-2018-ENG.pdf
+https://perma.cc/VN37-7Q54
+
+
+https://perma.cc/DH49-LLJN
+
+
+https://perma.cc/G7D7-2LRQ
 
 
 
@@ -1215,13 +1290,14 @@ https://www.icj.org/wp-content/uploads/2018/09/Egypt-Return-to-State-of-Emergenc
 
 *Sources*:
  [1]
-https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/29-03-2020.pdf
+https://perma.cc/K4VH-H99L
 [2]
-https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/31-03-2020.pdf
+https://web.archive.org/web/20200508132336/https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/31-03-2020.pdf
 [3]
-https://rsf.org/en/news/salvadorean-authorities-must-not-obstruct-coronavirus-coverage
+https://perma.cc/HT5X-SBND
+
 [4]
-https://www.transparencia.gob.sv/institutions/mag/documents/355753/download
+https://perma.cc/5SDT-2LV3
 
 
 
@@ -1246,9 +1322,10 @@ https://www.transparencia.gob.sv/institutions/mag/documents/355753/download
  No de-jure limitations of media freedom as part of the Covid-19 emergency measures were found. However, since 2001 all independent media have been shut down. 
 
 *Sources*:
- https://rsf.org/en/eritrea
-https://ipi.media/eritrea/
-https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
+ [1]	perma.cc/83QZ-596E
+[2]	perma.cc/A7LY-D26N
+[3]	perma.cc/QYJ6-9A73
+[4]	https://web.archive.org/web/20200402131742/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
 
 
 
@@ -1275,15 +1352,15 @@ Reporters without borders criticize that "the definition of misinformation is so
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/05/06/ethiopia-free-speech-risk-amid-covid-19
+perma.cc/32DF-5JYQ
 [2]
-https://globalfreedomofexpression.columbia.edu/publications/ethiopian-council-of-ministers-regulation-for-the-implementation-of-the-state-of-emergency/
+perma.cc/KNA7-2UR7
 [3]
-http://www.moh.gov.et/ejcc/sites/default/files/2020-04/negarit.pdf
+perma.cc/ZL3M-5DRW
 [4]
-https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
+perma.cc/ZJZ8-JYPA
 [5]
-https://rsf.org/en/ethiopia
+perma.cc/KM6P-XY5H
 
 
 
@@ -1308,15 +1385,19 @@ https://rsf.org/en/ethiopia
  Neither Reporters Without Borders, Committe to Protect Journalists nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Finnish Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B108%5D=108
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+ https://perma.cc/WT4G-C5XR
 
-https://cpj.org/europe/finland/
-https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
 
-https://www.finlex.fi/fi/laki/alkup/2016/20161227
-https://verfassungsblog.de/finland-soft-measures-respect-for-the-rule-of-law-and-plenty-of-good-luck/
- 
+https://perma.cc/W6GB-66TU
+
+
+https://perma.cc/RP6X-MPPT
+
+
+https://perma.cc/PQ43-D6DY
+
+
+https://perma.cc/FW7V-KEFA
 
 
 
@@ -1343,10 +1424,9 @@ The bill called “Global Security Law” presented in the past fall, and in par
 members of the security forces. This would have prevented journalists and others from filming the police in their interventions and may hamper the exposure of police violence. Following strenuous opposition and protests, the government dropped this provision as a way to “save” the law. (2) 
 
 *Sources*:
- https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043268538#:~:text=Copier%20le%20texte-,D%C3%A9cret%20n%C2%B0%202021%2D296%20du%2019%20mars%202021%20modifiant,l'%C3%A9tat%20d'urgence%20sanitaire
+ https://perma.cc/WYT6-XS7T
 
-https://dq4n3btxmr8c9.cloudfront.net/files/AuYJXv/Report_Liberties_EU2020.pdf
-(2)
+https://perma.cc/A6NQ-QQK8
 
 
 
@@ -1372,16 +1452,14 @@ https://dq4n3btxmr8c9.cloudfront.net/files/AuYJXv/Report_Liberties_EU2020.pdf
 Yet, Decree no 00106 designating the essential services and personnel (1), does not include journalists and the media in the listed essential services that are exempted from the movement restrictions (curfew) of the emergency measures. 
 
 *Sources*:
- https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_a31073297a784eddad9442bfd866da54.pdf
+ perma.cc/25ZE-67ZV
 (1)
 
-https://www.bbc.com/afrique/region-52363470
+perma.cc/8WCW-SZDU
+perma.cc/C48V-SJWZ
+perma.cc/7P3K-7FHX
+perma.cc/X2FG-PAQD
 
-https://www.legigabon.com/etat-d-urgence-covid-19
-
-https://info241.com/covid-19-le-gouvernement-gabonais-prolonge-l-etat-d-urgence,797
-
-https://www.gabonmediatime.com/maintien-de-letat-durgence-sanitaire-lhistoire-sans-fin/
 
 
 
@@ -1406,11 +1484,19 @@ https://www.gabonmediatime.com/maintien-de-letat-durgence-sanitaire-lhistoire-sa
  No evidence of measures limiting media freedom found 
 
 *Sources*:
- https://matsne.gov.ge/en/document/view/4830372?publication=0
-https://matsne.gov.ge/ka/document/view/4877009?publication=69
-https://ipi.media/georgia/
+ https://perma.cc/NTG6-NR58
 
-https://rsf.org/en/georgia
+
+https://perma.cc/7V2Z-2JF2
+
+
+https://perma.cc/CS4X-QENH
+
+
+https://perma.cc/62FX-G8PQ
+
+
+
 
 
 
@@ -1435,11 +1521,13 @@ https://rsf.org/en/georgia
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the German Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B94%5D=94
+ https://perma.cc/2348-H8ZU
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
 
-https://cpj.org/europe/germany/
+https://perma.cc/K9ST-XNC3
+
+
+https://perma.cc/8SWF-ESN9
 
 
 
@@ -1465,19 +1553,19 @@ https://cpj.org/europe/germany/
 
 *Sources*:
  [1]
-https://verfassungsblog.de/wp-content/uploads/2020/05/EXECUTIVE-INSTRUMENT-on-COVID.pdf
+perma.cc/ENN2-WG5D
 [2]
-https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-65.pdf
+perma.cc/6T8Z-XN5M
 [3]
-https://africanlii.org/fr/country/ghana
+https://perma.cc/B2LP-GZUU
 [4]
-https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Act-2020-Act-1012.pdf.pdf
+perma.cc/44J7-S3WP
 [5]
-https://rsf.org/en/ghana
+perma.cc/JM8W-WH4Z
 [6]
-https://cpj.org/africa/ghana/
+perma.cc/XC3A-9WDY
 [7]
-http://ipi.media/ghana/
+perma.cc/RW23-VEEP
 
 
 
@@ -1502,13 +1590,13 @@ http://ipi.media/ghana/
  No de jure media limitations found in the emergency measures. 
 
 *Sources*:
- https://www.ynanp.gr/el/gr-epikoinwnias-enhmerwshs/prostasia-apo-neo-koronoio-nomothesia/
-
-https://covid19.gov.gr/nomothesia-gia-ton-covid-19/
-
-https://www.acaps.org/covid19-government-measures-dataset
+ perma.cc/9Q8L-NHCR
 
 
+perma.cc/2R7A-VZ7B
+
+
+perma.cc/65Z2-K662
 
 
 
@@ -1534,9 +1622,9 @@ https://www.acaps.org/covid19-government-measures-dataset
 
 *Sources*:
  [1]
-https://www.minfin.gob.gt/images/calamidad/documentos/Decreto%20No%205-2020%20-%20COVID-19.pdf
+perma.cc/65TQ-ZKTC
 [2]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/MXU8-HNDN
 
 
 
@@ -1561,12 +1649,9 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
  No de jure media limitations. 
 
 *Sources*:
- http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
-
-https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19#G
-
-https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
-
+ https://web.archive.org/web/20200528181921/http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
+https://perma.cc/U962-9CJ9
+https://web.archive.org/web/20200330075009/https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
 
 
 
@@ -1593,13 +1678,16 @@ https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
 ''In a decree dated 21 May 2020, the government rectified the situation by restoring the right of press workers who "are part of the professional categories that can move freely during curfew hours, as is the case for doctors, for example.'' 
 
 *Sources*:
- http://www.hpnhaiti.com/nouvelles/index.php/societe/89-presse/7582-haiti-presse-coronavirus-couvre-feu-le-gouvernement-leve-l-interdiction-imposee-aux-journalistes
+ perma.cc/X4X4-55F7
 
-http://www.hpnhaiti.com/nouvelles/index.php/societe/89-presse/7510-coronavirus-presse-sos-journalistes-exige-l-assouplissement-du-couvre-feu
 
-https://lenouvelliste.com/article/216364/letat-durgence-sanitaire-renouvele-pour-deux-mois-supplementaires
+perma.cc/9CQV-MVCP
 
-https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
+
+perma.cc/WA3V-LPDL
+
+
+perma.cc/C46H-8GKA
 
 
 
@@ -1625,14 +1713,13 @@ https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-
 
 *Sources*:
  [1]
-http://www.consejosecretariosdeestado.gob.hn/content/suspenci%C3%B3n-de-garant%C3%ADas-constitucionales
-
+https://web.archive.org/web/20200708210737/http://www.consejosecretariosdeestado.gob.hn:80/content/suspenci<97>n-de-garant%C3%ADas-constitucionales
 [2]
-https://monitor.civicus.org/updates/2020/05/22/honduras-undue-restrictions-expression-and-police-abuse-emergency-powers-during-covid-19/
+perma.cc/A2M7-PYUW
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/44YK-6FWE
 [4]
-http://www.consejosecretariosdeestado.gob.hn/system/files_force/PCM%20022-2020.pdf
+https://web.archive.org/web/20200924052903/http://www.consejosecretariosdeestado.gob.hn/system/files_force/PCM%20022-2020.pdf
 
 
 
@@ -1657,10 +1744,16 @@ http://www.consejosecretariosdeestado.gob.hn/system/files_force/PCM%20022-2020.p
  While there is legislation in place that can potentially severely limit media freedom (especially the National Security Law that came into effect on June 30 2020), no evidence has been found of any de jure limitations to media under the Covid-19 response in Hong Kong and this is therefore coded as 0. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B68%5D=68
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CFrom%20Our%20Network&country=China
-https://cpj.org/asia/china/
-https://hongkongfp.com/2021/05/03/explainer-the-decline-of-hong-kongs-press-freedom-under-the-national-security-law/
+ https://perma.cc/Q9AT-7WLK
+
+
+https://perma.cc/NN8Q-NUKX
+
+
+https://perma.cc/NE5V-HNRG
+
+
+https://perma.cc/S5AS-FNR5
 
 
 
@@ -1689,18 +1782,15 @@ Q3 2020: no measures limiting media freedom found.
 Q4 2020, Q1 2020, Q2 2020: Same measures as during March-June (Section 337 of the Criminal Code) where misinformation is vaguely defined as when a person "states or disseminates any untrue fact or any misrepresented true fact that is capable of hindering or preventing the efficiency of protection." (1) 
 
 *Sources*:
- https://www.parlament.hu/irom41/09790/09790.pdf
-https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
-https://ipi.media/covid19-media-freedom-monitoring/
-https://ipi.media/european-media-freedom-suffers-covid-19-response/
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-3&p_p_col_pos=1&p_p_col_count=11&_sojdashboard_WAR_coesojportlet_alertPK=61853612&_sojdashboard_WAR_coesojportlet_displayLink=SojPortlet.getDashboardPortletId%28%29
-https://www.theguardian.com/world/2020/apr/03/hungarian-journalists-fear-coronavirus-law-may-be-used-to-jail-them
-
-https://www.alkotmanybirosag.hu/kozlemeny/nem-alaptorveny-ellenes-a-remhirterjesztessel-kapcsolatos-uj-kulonleges-jogrendben-alkalmazando-buntetojogi-szabalyozas
-
-https://www.legislationline.org/download/id/5619/file/HUngary_Criminal_Code_of_2012_en.pdf
+ https://perma.cc/QM2G-474K
+https://perma.cc/MGN9-3UYE
+https://perma.cc/JPR2-9S6P
+https://perma.cc/7TF6-RW2J
+https://perma.cc/EZQ2-DLMN
+https://perma.cc/K56J-553T
+https://perma.cc/7WRS-VKUF
+https://web.archive.org/web/20191201015050/https://www.legislationline.org/download/id/5619/file/HUngary_Criminal_Code_of_2012_en.pdf
 (1)
-
 
 
 
@@ -1755,13 +1845,11 @@ Information related to the issues that are included and not included in the NDMA
 
 *Sources*:
  [1]
-https://en.tempo.co/read/1328272/coronavirus-crackdown-aimed-at-anti-president-smears-hoaxes
-
+https://perma.cc/8VBE-L4ME
 [2]
-https://verfassungsblog.de/one-year-after-the-pandemic-in-indonesia-from-health-crisis-to-the-crisis-of-constitutional-democracy/
-
+https://perma.cc/6A77-Y8NF
 [3]
-https://rsf.org/en/news/indonesia-used-covid-19-silence-criticism-government
+https://perma.cc/J97C-EWTJ
 
 
 
@@ -1788,18 +1876,14 @@ Reporters without borders also report that: "The Covid-19 National Management Of
 
 *Sources*:
  (1)
-https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-
+https://perma.cc/3GE2-ZCDF
 (2)
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/iran/report-iran/
-
-
-https://www.voanews.com/extremism-watch/iran-uses-arrests-censorship-silence-critical-covid-19-coverage
-https://www.aap.com.au/iran-orders-halt-to-printed-newspapers/
-
-https://cpj.org/2020/03/iran-bans-printing-of-all-newspapers-citing-spread/
-https://rsf.org/en/news/press-freedom-violations-recounted-real-time-january-december-2020
-https://irannewswire.org/iran-ministry-of-health-bans-unauthorized-info-on-vaccine-imports/
+https://perma.cc/W5H4-VKQR
+https://perma.cc/HF45-ULCN
+https://web.archive.org/web/20200403202526/https://www.aap.com.au/iran-orders-halt-to-printed-newspapers/
+https://perma.cc/2XU3-BXC5
+https://perma.cc/F69Q-EAA3
+https://perma.cc/NU6Y-BUW9
 
 
 
@@ -1824,25 +1908,43 @@ https://irannewswire.org/iran-ministry-of-health-bans-unauthorized-info-on-vacci
  Reporters without Borders, Committee to Protect Journalists and the IPI report a number of de facto restrictions on the media in Iraq, but no de jure limitations taken within the emergency measures. This is therefore coded as 0. Note however that Iraq has defamation legislation and similar legal instruments to prosecute media and individuals (e.g. Article 433 of Iraq’s Penal Code), but these regulations are old and not connected to the Covid-19 response. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B159%5D=159
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Iraq
-https://www.hrw.org/news/2020/06/15/iraq-urgent-need-free-speech-protection
-
-https://www.refworld.org/docid/452524304.html
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/iraq/
+ https://perma.cc/SL4A-24DR
 
 
-https://rsf.org/en/news/three-jailed-reporters-charged-undermining-national-security
-
-https://rsf.org/en/news/iraq-wave-arrests-journalists-covering-protests-iraqi-kurdistan
+https://perma.cc/5ETY-YPZQ
 
 
-https://cpj.org/2021/03/spaghetti-against-the-wall-flimsy-evidence-iraqi-kurdish-journalists-jail/
+https://perma.cc/4JXF-4LDU
 
 
-https://cpj.org/blog/mideast/iraq/
- 
+https://perma.cc/GV25-QZC6
+
+
+https://perma.cc/3YSY-5UUT
+
+
+
+
+
+https://perma.cc/D3TX-U7FQ
+
+
+
+
+
+https://perma.cc/4HK3-DDYK
+
+
+
+
+
+https://perma.cc/FUR4-XM5Y
+
+
+
+
+
+https://perma.cc/QPW8-3YZ8
 
 
 
@@ -1867,9 +1969,10 @@ https://cpj.org/blog/mideast/iraq/
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Irish Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B115%5D=115
+ https://perma.cc/EGZ2-5PFN
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
+
+https://perma.cc/NY8Z-P7EZ
 
 
 
@@ -1894,15 +1997,19 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Israeli Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B161%5D=161
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Israel
+ https://perma.cc/2EYC-EBVZ
 
-https://rsf.org/en/news/israel-now-holding-13-palestinian-journalists
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/israel-west-bank-and-gaza/
+https://perma.cc/QV9T-MFB9
 
- 
+
+https://perma.cc/EMK9-D964
+
+
+https://perma.cc/S6ZU-QH3P
+
+
+https://perma.cc/RXQ8-9CNU
 
 
 
@@ -1927,11 +2034,10 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/isr
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Italian Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B116%5D=116
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CFrom%20Our%20Network&country=Italy
+ https://perma.cc/QJU4-5KFH
 
 
+https://perma.cc/2QS9-PVNN
 
 
 
@@ -1956,21 +2062,30 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CF
  No de jure media limitations. 
 
 *Sources*:
- http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
+ perma.cc/4GEP-RX3M
 
-https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emergency-to-curb-covid-19//
 
-https://www.bbc.com/news/topics/cywd23g0gpgt/ivory-coast
 
-https://www.jeuneafrique.com/914559/societe/coronavirus-la-cote-divoire-entre-deni-panique-et-restrictions/
+perma.cc/FZ8X-B7QH
 
-http://www.rfi.fr/fr/afrique/20200324-s%C3%A9n%C3%A9gal-cote-ivoire-etat-urgence-coronavirus-covid-19
 
-http://www.gouv.ci/_conseil-ministre-details.php?recordID=410
+perma.cc/XBA3-A8TZ
 
-http://www.gouv.ci/_actualite-article.php?recordID=11917&d=2
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cote-divoire/
+perma.cc/2U9Y-SNHQ
+
+
+perma.cc/X97V-6CGV
+
+
+perma.cc/UMC5-UQ6G
+
+
+perma.cc/CGK9-DB24
+
+
+
+perma.cc/K9N7-DCHQ
 
 
 
@@ -1996,13 +2111,13 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cot
 
 *Sources*:
  [1]
-https://moj.gov.jm/sites/default/files/DRMA07.pdf
+perma.cc/68KK-KDGS
 [2]
-https://ipi.media/jamaica/
+perma.cc/7SF2-BS3F
 [3]
-https://rsf.org/en/thematique/internet?countries%5B190%5D=190
+perma.cc/CXZ5-W5MN
 [4]
-https://cpj.org/americas/jamaica/
+perma.cc/ZW3S-JXQ4
 
 
 
@@ -2027,11 +2142,10 @@ https://cpj.org/americas/jamaica/
  I did not come across new limitations on media freedom due to the emergency measures across all the time periods. 
 
 *Sources*:
- https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=424AC0000000031#223
+ https://perma.cc/AD83-7NX2
 
 
-
-https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instead-of-legal-penalty/
+https://perma.cc/Q9CJ-T9LA
 
 
 
@@ -2056,15 +2170,19 @@ https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instea
  Jordans government issued a decree in April 2020 under the state of emergency that states that spreading ”rumours, fabrications and false news that sows panic” about the pandemic is punishable with up to three years in prison. Furthermore, it has no declared end date as has been found, and as far as have been seen it is still in effect (as is the state of emergency). As part of the emergency measures, the government has also suspended all printed media as they argue it would increase the spread of the virus. No indication has been found that either of these have been removed, and this is therefore coded 1 for all periods. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/05/jordan-free-speech-threats-under-Covid-19-response
+ https://perma.cc/HF4Q-RB2L
 
-https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
 
-https://cpj.org/2020/03/jordan-oman-morocco-and-yemen-suspend-newspaper-pr/
+https://perma.cc/373T-UFGF
 
-https://ipi.media/rush-to-pass-fake-news-laws-during-Covid-19-intensifying-global-media-freedom-challenges/
 
-https://www.hrw.org/world-report/2021/country-chapters/jordan
+https://perma.cc/P42G-G97M
+
+
+https://perma.cc/Z97M-WXQE
+
+
+https://perma.cc/6KXJ-XJED
 
 
 
@@ -2089,9 +2207,10 @@ https://www.hrw.org/world-report/2021/country-chapters/jordan
  No evidence of measures limiting media freedom found in the text of emergency measures. According to Human Rights Watch, "In Kazakhstan, the authorities have used existing laws to suppress freedom of expression among activists and journalists." (1) 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
+ https://perma.cc/Y235-BHKX
 (1)
-https://online.zakon.kz/document/?doc_id=32648341
+
+https://perma.cc/H7BR-MCK7
 
 
 
@@ -2116,9 +2235,10 @@ https://online.zakon.kz/document/?doc_id=32648341
  One of the first Government orders on Covid-19 mesures stated that ''Kenyans must not "abuse" social media platforms or spread misinformation that "can cause fear and panic." (1) 
 
 *Sources*:
- https://www.health.go.ke/first-case-of-coronavirus-disease-confirmed-in-kenya/
-(1)
-https://www.icnl.org/covid19tracker/?location=&issue=9&date=&type=#
+ perma.cc/8N76-GFSA
+
+
+perma.cc/7RKG-ADQQ
 
 
 
@@ -2143,12 +2263,19 @@ https://www.icnl.org/covid19tracker/?location=&issue=9&date=&type=#
  No de jure limitations to media freedom have been found within the emergency measures, and no indications of any such limitations have been given by Reporters without Borders, International Press Institute and the American Embassy in Kuwait, This is therefore coded as 0. 
 
 *Sources*:
- https://rsf.org/en/kuwait
-https://rsf.org/en/rsf_search?key=Kuwait
-https://ipi.media/?s=Kuwait
-https://kw.usembassy.gov/world-press-freedom-day/
+ https://perma.cc/6AHV-XCN7
 
-https://cpj.org/mideast/kuwait/
+
+https://perma.cc/6QHX-EGU5
+
+
+https://perma.cc/U68C-L2XP
+
+
+https://perma.cc/QU24-RPVP
+
+
+https://perma.cc/VK3T-HEM6
 
 
 
@@ -2175,12 +2302,14 @@ https://cpj.org/mideast/kuwait/
 The authorities also submitted a draft bill on false information, which was adopted by the parliament but not accepted yet by the president; the law has been retured to parliament by the president on 3 August for further legislative work. 
 
 *Sources*:
- https://www.gov.kg/ru/npa/s/2347
-http://www.president.kg/ru/sobytiya/ukazy/16382_podpisan_ukaz_ovvedenii_chrezvichaynogo_pologheniya_naterritorii_goroda_bishkek_kirgizskoy_respubliki
-http://kenesh.kg/ru/article/show/6770/na-obshtestvennoe-obsuzhdenie-s-14-maya-2020-goda-vinositsya-proekt-zakona-kirgizskoy-respubliki-o-manipulirovanii-informatsiey
-https://rsf.org/en/news/kyrgyzstan-urged-withdraw-bill-combatting-online-disinformation
-https://cpj.org/2020/06/kyrgyzstan-draft-legislation-empowers-government-to-block-false-information-online/
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#_ftn23
+ https://perma.cc/BR5Y-PF2A
+
+https://perma.cc/R4RL-58ZU
+https://perma.cc/3RTH-9WS7
+https://perma.cc/4GXY-DHPD
+https://perma.cc/FA8P-W42Y
+https://perma.cc/GY8N-5MHA
+
 
 
 
@@ -2205,7 +2334,7 @@ https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#_ftn
  The decree that regulates the emergency measures states that the government shall "strictly prohibit the advertisement of, release, forward any fake news via any media platform that can cause misunderstanding, panic and create negative impact on society. Task the agency for surveillance and response to the social complaints to closely monitor and strictly take action on those offenders." (Section 6). The decree also states that "the Task Force Committee shall provide detail guidance in a format of an easy understanding to disseminate through official media outlets" (Section 11). Consequently, the decree makes it punishable to report in any way on anything deemed to cause misunderstanding, panic and negative impact on the society, without any definition on what this constitutes. Furthermore, it regulates which media outlets shall report on the Covid-19 situation and government response. This is therefore coded as 3 - the emergency measure de jure require that all or almost all media reporting on Covid-19 reflect the governments position. No evidence has been found that this regulation having been repealed or amended. 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
+ https://web.archive.org/web/20200717034652/http://www.mpwt.gov.la/attachments/article/2185/PM's%20Order%20No%2006PM%20on%20COVID-19.pdf
 
 
 
@@ -2230,10 +2359,13 @@ https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#_ftn
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and no such de jure limitations in the Lebanese governments response to Covid-19 has been found. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B164%5D=164
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Lebanon
+ https://perma.cc/S42D-EL9Z
 
-https://cpj.org/mideast/lebanon/2020/
+
+https://perma.cc/UX6C-BM42
+
+
+https://perma.cc/YM77-DYKH
 
 
 
@@ -2258,15 +2390,20 @@ https://cpj.org/mideast/lebanon/2020/
  In the state of emergency declared from 18 March 2020, it stated that "members of the press shall refrain from publishing 'fake news'". The determination of 'fake news' remains undefined (1). Likewise, Legal Notice 41 and 68 on Public Health (COVID-19) Regulations 2020 states that "no person shall publish or spread false information" under section 12(6) (3,4). The regulations of “fake news” are still in place (5). 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+ https://perma.cc/UR8R-AJMT
 (1)
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+
+https://perma.cc/SU5V-FQPG
 (2)
-https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+
+https://perma.cc/JE35-5LTJ
 (3)
-https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
+
+https://perma.cc/95KE-P87M
 (4)
-https://www.lca.org.ls/warning-on-distribution-of-false-and-fake-information-using-communications-platforms/
+
+
+https://perma.cc/4UHK-CLAU
 (5)
 
 
@@ -2293,13 +2430,25 @@ https://www.lca.org.ls/warning-on-distribution-of-false-and-fake-information-usi
 However, these actions were taken under the state of emergency, which ended on 2020-07-21. No evidence of these measures having been enforced after that, nor that it was replaced with any other de jure limitations to media. This is therefore coded as 0 from Q4 of 2020. 
 
 *Sources*:
- https://rsf.org/en/news/Covid-19-emergency-laws-spell-disaster-press-freedom
-https://newspublictrust.com/solicitor-general-vows-to-crack-down-on-media-over-fake-news/
-https://cpj.org/2020/05/liberias-journalists-wary-as-authorities-announce/
-https://www.constituteproject.org/constitution/Liberia_1986?lang=en
-https://rsf.org/en/news/Covid-19-lockdown-forces-liberias-newspapers-suspend-printing-0
-https://rsf.org/en/news/liberian-official-threatens-close-media-under-state-emergency
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/liberia/
+ https://perma.cc/PBT2-SZN8
+
+
+https://perma.cc/U6LR-BBAV
+
+
+https://perma.cc/Y6JD-R7AQ
+
+
+https://perma.cc/7CF6-6LHZ
+
+
+https://perma.cc/3CHY-YMDX
+
+
+https://perma.cc/R7Z9-2RAW
+
+
+https://perma.cc/LT6P-SVED
 
 
 
@@ -2324,9 +2473,9 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/lib
  No evidence of measures limiting media freedom found. 
 
 *Sources*:
- https://lrv.lt/en/news/quarantine-announced-throughout-the-territory-of-the-republic-of-lithuania-attached-resolution-1
-https://ipi.media/lithuania/
-https://rsf.org/en/lithuania
+ [1]	perma.cc/7VBL-JXEW
+[2]	perma.cc/JTR8-A7KC
+[3]	perma.cc/PD5C-JU2Q
 
 
 
@@ -2367,18 +2516,16 @@ The state of emergency was lifted on 18 October 2020, therefore also the media l
 The state of emergency was reinstated on 3 April 2021, and the Decree N°2021-390 includes the same provision regarding the media being requisitioned as the first state of health emergency (see article 4 of said decree, 5). 
 
 *Sources*:
- https://jwf-legal2.fr.gd/Lois-245.htm
+ https://perma.cc/3CB7-SZTC
 (1)
+https://perma.cc/K5AY-6DFT
 
-https://www.presidence.gov.mg/actualites/755-decret-n-2020-359-du-21-mars-2020-proclamant-l-etat-d-urgence-sanitaire-sur-tout-le-territoire-de-la-republique.html
 (2)
+https://perma.cc/4L2A-ZD2C
 
-http://www.rfi.fr/fr/afrique/20200412-madagascar-liberte-presse-journaliste-prison-arphine-helisoa-rajoelina-rakotondraza
 (3)
-
-https://www.africanews.com/2020/10/19/madagascar-ends-state-of-health-emergency//
-
-http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril-2021.pdf
+https://perma.cc/GJM4-MHXU(4)
+https://perma.cc/E44D-P9LS
 (5)
 
 
@@ -2404,8 +2551,10 @@ http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril
  The emergency measures do not mention any limits on media and communication services are listed as essential. 
 
 *Sources*:
- https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-2020-5-publication-document.pdf
-https://gazettes.africa/archive/mw/2020/mw-government-gazette-supplement-dated-2020-08-07-no-23A.pdf
+ [1]
+https://perma.cc/QL9K-4JJA
+[2]
+perma.cc/SF3K-TR9N
 
 
 
@@ -2430,12 +2579,11 @@ https://gazettes.africa/archive/mw/2020/mw-government-gazette-supplement-dated-2
  Under the state of emergency in 2021, the government issued "Emergency (Essential Powers) (No. 2) Ordinance 2021 " which "makes it a criminal offense to create, publish, or disseminate “fake news” relating to Covid-19 or the proclamation of emergency in the country, or to fail to take down such material upon the government’s request" (1). Coded as 2 due to vague formulations 
 
 *Sources*:
- https://www.hrw.org/news/2021/03/13/malaysia-revoke-fake-news-ordinance
+ https://perma.cc/7DWU-CLCP
 (1)
 
-https://ipi.media/alerts/malaysia-uses-emergency-powers-to-pass-fake-news-law/
-
-https://asset.mkn.gov.my/web/wp-content/uploads/sites/3/2021/03/Ordinan-Anti-Berita-Tidak-Benar-20211.pdf
+https://perma.cc/DY7Q-8J8H
+https://perma.cc/S8J5-HXHX
 
 
 
@@ -2467,22 +2615,21 @@ https://asset.mkn.gov.my/web/wp-content/uploads/sites/3/2021/03/Ordinan-Anti-Ber
 The state of emergency is still in place until 26 June 2021. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mali/
+ https://perma.cc/8FVG-KU89
 (1)
-
-https://www.panapress.com/Malian-media-protest-suppression-a_630672857-lang2-free_news.html
+https://perma.cc/TV8S-CM8P
 (2)
-
 https://www.facebook.com/matdmali/posts/1130916104007009
 (3)
+https://perma.cc/E3RN-HL8F
+(4)
+https://perma.cc/3SJV-TGU3
+(5)
 
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars-2020-2128
+https://perma.cc/N7ZL-WNSB
+(6)
+https://perma.cc/47NA-CPPS
+(7)
 
 
 
@@ -2507,17 +2654,22 @@ https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars
  No de jure media limitations. 
 
 *Sources*:
- https://mr.usembassy.gov/covid-19-information-2/
+ perma.cc/XB3K-MJTH
 
-https://www.africanews.com/2020/03/21/covid-19-mauritania-enforces-curfew/
 
-http://fr.ami.mr/Recherche-9http://fr.ami.mr/Depeche-52875.html
+perma.cc/396D-UDVQ
 
-https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
 
-https://fr.ami.mr/Depeche-56289.html
+perma.cc/KV43-TSHA
 
-https://fr.ami.mr/Depeche-56291.html
+
+perma.cc/B6CV-B7EV
+
+
+perma.cc/UY44-8RPV
+
+
+perma.cc/CTG7-WSUV
 
 
 
@@ -2543,11 +2695,11 @@ https://fr.ami.mr/Depeche-56291.html
 
 *Sources*:
  [1]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/W5M8-QPE2
 [2]
-http://dof.gob.mx/nota_detalle.php?codigo=5592067&fecha=21/04/2020
+perma.cc/355H-FY2U
 [3]
-http://dof.gob.mx/nota_detalle.php?codigo=5590745&fecha=30/03/2020
+perma.cc/2Q35-U7HT
 
 
 
@@ -2578,18 +2730,17 @@ Q4 2020: Media outlets were recommended to inform the population on emergency me
 Q2 2021:  Resolution 11/66 from 19 March 2021 issued recommendations on stopping disinformation to media outlets. Since it is a recommendation, it is not coded under melim. 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/?location=81&issue=&date=&type=
+ https://perma.cc/9RK3-CVT9
 (2)
-http://www.audiovizual.md/files/Dispozitie%20CA.semnat.pdf
-https://ipi.media/european-media-freedom-suffers-covid-19-response/
+
+https://perma.cc/P6PH-QYV3
 (1)
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/moldova/
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+https://perma.cc/WN4U-C24P
+https://perma.cc/7ZGB-N7PM
+https://perma.cc/59WA-DAKZ
 
-
-https://cancelaria.gov.md/ro/apc/coronavirus
-
-https://www.legis.md/cautare/getResults?doc_id=126078&lang=ru
+https://perma.cc/7832-5LGV
+https://perma.cc/M842-MY93
 
 
 
@@ -2615,15 +2766,19 @@ https://www.legis.md/cautare/getResults?doc_id=126078&lang=ru
 No evidence has been found that this law has been abrogated or amended during the second an third period, and the law text is still in place on the Mongolian law website (https://www.legalinfo.mn/law/details/12695). This is therefore coded as 1 for all periods. 
 
 *Sources*:
- https://www.legalinfo.mn/law/details/12695
+ https://perma.cc/FJ5A-QJN6
 
-https://rsf.org/en/thematique/internet?countries%5B77%5D=77
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Mongolia
+https://perma.cc/7SMW-WE7H
 
-https://en.ejo.ch/ethics-quality/mongolia-coronavirus-and-the-media
 
-https://www.gic.mn/public/docs/freedom_report/media_freedom_report_2019_en.pdf
+https://perma.cc/XBE5-EFYS
+
+
+https://perma.cc/7GLG-8JKG
+
+
+https://perma.cc/YA5M-X8ML
 
 
 
@@ -2655,42 +2810,22 @@ According to the US Department of State's 2020 report on human rights (7), ''On 
 On 28 March 2020, the secretary general of the Presidency of the Public Prosecutor’s Office reported that police had arrested 56 individuals for publishing false information regarding Covid-19.'' 
 
 *Sources*:
- https://www.chambredesrepresentants.ma/fr/%D8%A7%D9%84%D9%86%D8%B5%D9%88%D8%B5-%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A%D8%A9/projet-de-decret-loi-ndeg220292-edictant-des-mesures-specifiques-letat-durgence
-(1)
+ https://perma.cc/RJ84-EFAQ
+https://perma.cc/36V5-JKKS
+https://perma.cc/4HAV-CGXJ
+https://perma.cc/Z8B6-YDEM
+https://perma.cc/KF5Q-DYZZ
+https://perma.cc/P42G-G97M
+https://perma.cc/HM3B-Y292
+https://perma.cc/P6HJ-6B6A
+https://perma.cc/WP3B-AYCK
+https://perma.cc/ZJY5-V8A6
+https://perma.cc/6M75-79AA
+https://perma.cc/88QW-PDWQ
 
-http://www.sgg.gov.ma/Portals/0/BO/2020/BO_6870_Fr.pdf?ver=2020-04-09-094443-083
-(2)
-
-https://www.icnl.org/covid19tracker/?location=84&issue=&date=&type=
-(3)
-
-https://www.article19.org/resources/morocco-social-media/
-(4)
-
-http://www.mjs.gov.ma/sites/default/files/_blg_twqyf_lshf_lwrqy_.pdf
-(5)
-
-https://cpj.org/2020/03/jordan-oman-morocco-and-yemen-suspend-newspaper-pr/
-(6)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/morocco/
-(7)
-
-https://monitor.civicus.org/updates/2020/06/24/covid-19-used-curtail-freedom-expression-further/
-
-https://maroc-diplomatique.net/projet-de-loi-22-20-quid-des-droits-du-consommateur-marocain/
-
-https://www.ecoactu.ma/projet-de-loi-22-20-le-gouvernement-tenterait-il-de-nous-faire-porter-des-muselieres/
-
-https://www.menarights.org/en/articles/morocco-government-must-fully-withdraw-draft-law-social-media
-
-https://www.civicus.org/index.php/media-resources/news/4533-urgent-appeal-civil-society-groups-call-for-moroccan-authorities-to-cease-intimidation-of-journalist-omar-radi
-
-https://www.voanews.com/science-health/coronavirus-outbreak/coronavirus-deals-blow-newspapers-north-africa
-
-https://northafricapost.com/39243-covid-19-chases-newspapers-from-newsstands.html
-
-https://www.moroccoworldnews.com/2020/05/303623/minister-of-culture-moroccan-print-media-can-resume-activities-may-26/
+https://perma.cc/FFC4-5MPB
+https://perma.cc/HBK2-AY66
+https://perma.cc/U2ZP-CWKQ
 
 
 
@@ -2715,9 +2850,9 @@ https://www.moroccoworldnews.com/2020/05/303623/minister-of-culture-moroccan-pri
  The emergency measures do not de-jure limit media freedom. During the state of emergency, the Decree nº 69/2020 defines media as an essencial service. The state of public calamity (Decree nº 79/2020) does not impose restrictions on the media. 
 
 *Sources*:
- http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao_do_Estado_de_Emergencia_constante_do_Decreto_Presidencial_n._23_2020_de_5_de_Agosto_4_1.pdf
-http://www.ts.gov.mz/images/Decreto_n%C2%BA_692020_de_11_de_Agosto_-_Aprova_as_medidas_de_execuc%C3%A3o_administrativa_para_a_contenc%C3%A3o_da_propagac%C3%A3o_da_pandemia_da_COVID-19_a_vigorar_durante_o_Estado_de_Emerg%C3%AAncia.pdf
-http://www.ts.gov.mz/images/Decreto_n._792020_de_4_de_Setembro_-_Declara_a_situac%C3%A3o_da_calamidade_P%C3%BAblica_e_Activa_o_Alerta_Vermelho_compressed.pdf
+ [1]	perma.cc/E9ES-ECDG
+[2]	perma.cc/F9GP-6WJY
+[3]	perma.cc/Y2G9-XBXM
 
 
 
@@ -2743,11 +2878,11 @@ http://www.ts.gov.mz/images/Decreto_n._792020_de_4_de_Setembro_-_Declara_a_situa
 
 *Sources*:
  [1]
-https://namibiatourism.com.na/uploads/file_uploads/17.04.2020_Government%20Gazette%20no.%207180-Proc%20N13_Amendment%20of%20State%20of%20Emergency%20Regulations%20Namibian%20Constitution_COVID-19.pdf
+https://perma.cc/X5ZU-BNRJ
 [2]
 https://laws.parliament.na/cms_documents/7342-3cc52d5b73.pdf
 [3]
-https://gazettes.africa/archive/na/2021/na-government-gazette-dated-2021-04-30-no-7522.pdf
+https://perma.cc/7KBS-G98M
 
 
 
@@ -2772,16 +2907,13 @@ https://gazettes.africa/archive/na/2021/na-government-gazette-dated-2021-04-30-n
  I did not come across new limitations on media freedom due to the emergency measures across all the time periods. 
 
 *Sources*:
- https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+ https://perma.cc/R7AQ-R27V
 
 
-
-http://www.lawcommission.gov.np/en/archives/12240
-
+https://perma.cc/DX7R-D9NN
 
 
-
-https://rsf.org/en/nepal
+https://perma.cc/F42Z-C26L
 
 
 
@@ -2806,10 +2938,13 @@ https://rsf.org/en/nepal
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Dutch Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B129%5D=129
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Netherlands
+ https://perma.cc/8X2V-2X5R
 
-https://cpj.org/europe/netherlands/
+
+https://perma.cc/5NAY-L69Q
+
+
+https://perma.cc/HV39-BKGZ
 
 
 
@@ -2834,9 +2969,8 @@ https://cpj.org/europe/netherlands/
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in New Zealands Government response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B80%5D=80
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=New%20Zealand
+ [1]	perma.cc/R88Z-YGEU
+[2]	perma.cc/Z6YQ-BCZ7
 
 
 
@@ -2862,17 +2996,17 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3
 
 
 
@@ -2897,15 +3031,11 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
  No de jure media limitations. 
 
 *Sources*:
- https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7eceb715eff3354ca7e9b9/1585368760730/MESSAGE+A+LA+NATION+DU+PRESIDENT+DE+LA+REPUBLIQUE+SUR+LA+SITUATION+DE+LA+PANDEMIE+DU+CORONAVIRUS+%28COVID-19%29+27+03+2020.pdf
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://www.presidence.ne/conseils-des-ministres/2021/1/5/5rjvvwlvz5gpflqlk4vsnybgrlxzeh
-
-https://www.presidence.ne/conseils-des-ministres/2021/4/22/conclusions-du-conseil-des-ministres-du-22-avril-2021
+ https://perma.cc/7ASB-G2MP
+https://perma.cc/3SJV-TGU3
+https://perma.cc/CW2C-YUFG
+https://perma.cc/ALM6-J3ZF
+https://perma.cc/NFB8-QJJ4
 
 
 
@@ -2930,9 +3060,7 @@ https://www.presidence.ne/conseils-des-ministres/2021/4/22/conclusions-du-consei
  No national-level measures limiting media freedom found. Some states have passed a new law, prohibiting publishing "false and damaging" information, which is not coded because the measures were taken on a subnational level, but is considered in coding merepfact and merepgov. 
 
 *Sources*:
- https://cpj.org/2020/03/nigeria-imposes-harsh-restrictions-for-journalist/
-
-
+ [1]	perma.cc/U5SH-KC5F
 
 
 
@@ -2957,7 +3085,7 @@ https://www.presidence.ne/conseils-des-ministres/2021/4/22/conclusions-du-consei
  I did not come across new limitations on media freedom due to the emergency measures across all the time periods. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Peoples_Republic_of_Korea_1998.pdf
+ https://perma.cc/87UC-5489
 
 
 
@@ -2982,11 +3110,12 @@ https://www.presidence.ne/conseils-des-ministres/2021/4/22/conclusions-du-consei
  No evidence of measures limiting media freedom found. The Minister of Health and the Ministry of Interior published a statement against false information, but there is no indication that this is based on new measures. 
 
 *Sources*:
- https://vlada.mk/node/20464
-https://mvr.gov.mk/vest/12578
-https://www.icnl.org/covid19tracker/?location=141&issue=&date=&type=
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/north-macedonia/
-https://ipi.media/northmacedonia/
+ [1]	perma.cc/45NJ-BZZL
+[2]	perma.cc/X2RL-RRJ8
+
+[3]	perma.cc/2ZNN-82KY
+[4]	perma.cc/BB49-8HTX
+[5]	perma.cc/5BND-UWZV
 
 
 
@@ -3011,15 +3140,16 @@ https://ipi.media/northmacedonia/
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Norwegian Governments response to Covid-19. Note that there has been debate regarding Norway during Q1 and Q2 of 2021 not exempting journalists from the mandatory quarantine of 10 days when entering the country, which in practice limits international journalists covering news in Norway. However, as this does not influence the reporting on media and journalists based in Norway, this is not accounted for. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B126%5D=126
+ https://perma.cc/W8SX-XQJC
 
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Norway
+https://perma.cc/5JCV-STJY
 
 
-https://cpj.org/europe/norway/
+https://perma.cc/EQ2Z-4RJ2
 
-https://www.ifj.org/media-centre/news/detail/category/Covid-19-report-safely/article/norway-mandatory-quarantine-rule-for-foreign-journalists-must-be-amended.html
+
+https://perma.cc/U5KL-K89W
 
 
 
@@ -3045,9 +3175,9 @@ https://www.ifj.org/media-centre/news/detail/category/Covid-19-report-safely/art
 
 *Sources*:
  [1]
-https://timesofoman.com/article/2953147/oman/government/supreme-committee-issues-new-decisions-to-prevent-coronavirus-spread
+perma.cc/H9GP-RGX7
 [2]
-https://www.omanobserver.om/print-edition-is-back/
+perma.cc/3SKU-W26P
 
 
 
@@ -3072,12 +3202,8 @@ https://www.omanobserver.om/print-edition-is-back/
  Did not find info on any emergency measures de-jure limiting media freedom across all the time periods. 
 
 *Sources*:
- https://www.voanews.com/covid-19-pandemic/pakistan-says-its-covid-19-cases-could-rise-12-million-end-july
-
-
-
-
-https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755241
+ https://perma.cc/N59C-2NWC
+https://perma.cc/JT6Y-NHC3
 
 
 
@@ -3102,7 +3228,8 @@ https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755
  The emergency measures do not de-jure limit media freedom, the government considered the media an essential service. 
 
 *Sources*:
- http://minsa.b-cdn.net/sites/default/files/general/decreto_ejecutivo_507_de_24_de_marzo_de_2020.pdf
+ [1]
+https://web.archive.org/web/20220812144608/https://minsa.gob.pa/sites/default/files/general/decreto_ejecutivo_507_de_24_de_marzo_de_2020.pdf
 
 
 
@@ -3128,11 +3255,13 @@ https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755
 This is a direct limitation of media reporting on Covid-19, as it bans ”false and misleading information”, but since this is vaguely formulated, this could very well be used to prosecute reporting on Covid-19 more generally. This is coded 2, as it limits media reporting to a large extent, but does not control it completely. 
 
 *Sources*:
- http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
+ https://perma.cc/CG9U-989E
 
-https://reliefweb.int/report/papua-new-guinea/png-and-next-pandemic
 
-https://www.policyforum.net/the-securitization-of-public-health-emergencies/
+https://perma.cc/7HHC-XQTU
+
+
+https://perma.cc/DVG3-Y3VL
 
 
 
@@ -3158,7 +3287,7 @@ https://www.policyforum.net/the-securitization-of-public-health-emergencies/
 
 *Sources*:
  [1]
-https://www.presidencia.gov.py/archivos/documentos/decretos_1_20200321125422555%203478_o342kdv9.pdf
+https://web.archive.org/web/20210712132851/https://www.presidencia.gov.py/archivos/documentos/decretos_1_20200321125422555%203478_o342kdv9.pdf
 
 
 
@@ -3184,7 +3313,7 @@ https://www.presidencia.gov.py/archivos/documentos/decretos_1_20200321125422555%
 
 *Sources*:
  [1]
-https://cdn.www.gob.pe/uploads/document/file/566448/DS044-PCM_1864948-2.pdf
+perma.cc/4MCY-3WNG
 
 
 
@@ -3209,22 +3338,11 @@ https://cdn.www.gob.pe/uploads/document/file/566448/DS044-PCM_1864948-2.pdf
  False information of the Covid-19 Crisis‚ under section 6(6) of the "Bayanihan to Heal as One Act": Philippines President Rodrigo Duterte signed a bill on 25 March 2020 that gives him special powers. These powers include imposing prison sentences of two months or a maximum fine of approximately US $ 19,500 for spreading "fake news" about Covid-19. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
+ https://perma.cc/G3WY-NUBM
 
-
-
-
-
-https://www.cnnphilippines.com/news/2020/3/25/Fake-news-peddlers-P1-million-fine-under-Duterte-special-powers.html
-
-
-
-https://www.rappler.com/nation/255753-duterte-special-powers-bill-coronavirus-fines-fake-news
-
-
-
-
-https://rsf.org/en/news/two-philippine-journalists-face-two-months-prison-coronavirus-reporting
+https://perma.cc/RZ8B-2UEN
+https://perma.cc/XX6E-26FH
+https://perma.cc/8DJJ-AA9M
 
 
 
@@ -3249,9 +3367,10 @@ https://rsf.org/en/news/two-philippine-journalists-face-two-months-prison-corona
  No evidence of measures limiting media freedom found 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/?location=100&issue=&date=&type=
-https://www.coe.int/en/web/media-freedom/all-alerts
-https://cpj.org/europe/poland/
+ https://perma.cc/MC75-MDZG
+
+
+https://perma.cc/KCE5-79EQ
 
 
 
@@ -3277,10 +3396,9 @@ https://cpj.org/europe/poland/
 
 *Sources*:
  [1]
-https://dre.pt/web/guest/pesquisa/-/search/130399862/details/maximized
-
+perma.cc/SH84-6ZMT
 [2]
-https://dre.pt/web/guest/pesquisa/-/search/147933283/details/maximized
+perma.cc/9BD2-QAQB
 
 
 
@@ -3305,19 +3423,25 @@ https://dre.pt/web/guest/pesquisa/-/search/147933283/details/maximized
  No measures limiting media freedom found. Qatar amended it’s penal code in in January in 2020, which further restricts the already severely limited freedom of speech and media freedom. It involves, for instance, up to five years of prison for spreading “fake news”, which is not elaborated in the law what that constitutes. However, this amendment and other laws in use to limit free speech and media is not related to the Covid-19 measures, and were in place before the pandemic. This is therefore coded 0, as no de jure limitation of limiting media freedom in relation to the Covid-19 response was found. 
 
 *Sources*:
- https://portal.www.gov.qa/wps/portal/media-center/news/news-details/hhtheamirdirectsthestartofimplementingapackageofdecisionsandmeasurestocombatthespreadofcoronavirus
+ https://perma.cc/SC9H-XMAS
 
-https://www.gco.gov.qa/en/2020/03/12/government-communications-office-statement-regarding-measures-taken-by-the-state-of-qatar-to-combat-coronavirus-Covid-19/
 
-https://www.garda.com/crisis24/news-alerts/328506/qatar-domestic-restrictions-extended-april-1-update-15
+https://perma.cc/B8FC-S2TW
 
-https://www.garda.com/crisis24/news-alerts/324061/qatar-domestic-restrictions-implemented-march-16-update-14https://www.gc4hr.org/news/view/2309
 
-https://www.hrw.org/world-report/2021/country-chapters/qatar
+https://perma.cc/U6AQ-SGAD
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qatar/
+https://perma.cc/Z4MW-DQQM
+
+
+https://perma.cc/DQ72-GKZD
+
+
+https://perma.cc/S5M6-T3DE
+
+
+https://perma.cc/M4TL-P7MU
 
 
 
@@ -3342,11 +3466,9 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qat
  No evidence was found. 
 
 *Sources*:
- https://www.africanews.com/2020/03/30/congo-republic-heads-into-coronavirus-lockdown/
-
-https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
-
-https://www.garda.com/crisis24/news-alerts/327701/congo-curfew-and-health-emergency-comes-into-effect-march-31-update-2
+ https://perma.cc/NN28-8LC7
+https://perma.cc/RA3K-VZJG
+https://perma.cc/5LPZ-6VY9
 
 
 
@@ -3372,14 +3494,15 @@ https://www.garda.com/crisis24/news-alerts/327701/congo-curfew-and-health-emerge
 upon the motivated decision of National Authority for Management and Regulation in Communication, to immediately block the access to that content and to inform the users. (5) Upon the motivated decision of National Authority for Management and Regulation in Communication, the providers of the publicly available electronic communication networks have the obligation to immediately block the access of users in Romania at the content promoting fake-news as to the evolution of COVID-19 and to the protection and preventive measures and is being transmitted through an electronic communication network by the persons mentioned at paragraph 3 which do not fall under the jurisdiction of the national legislation." (1) 
 
 *Sources*:
- http://legislatie.just.ro/Public/DetaliiDocument/223831
-
+ https://perma.cc/7BGV-4TV4
 (1)
-https://rm.coe.int/09000016809cee30
-https://www.osce.org/representative-on-freedom-of-media/449380
-https://ipi.media/covid19-media-freedom-monitoring/
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B360%5D&covid19=1
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/romania/
+
+https://perma.cc/6UNR-CTW9
+https://perma.cc/J7UH-BULT
+
+https://perma.cc/K53F-YPSW
+https://perma.cc/YTL7-X2WB
+https://perma.cc/E2WT-U4M7
 
 
 
@@ -3406,14 +3529,17 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/rom
 Note that the legislation is not part of the emergency measures, Art 207 mentions that it is applicable towards information regarding events that threaten security and safety of citizens, which includes epidemics. It is therefore not coded as part of the emergency measures, but is considered in coding merepfact and merepgov. 
 
 *Sources*:
- http://publication.pravo.gov.ru/Document/View/0001202004010073
-https://ipi.media/new-fake-news-law-stifles-independent-reporting-in-russia-on-covid-19/
+ https://perma.cc/BQ5T-K3YP
+https://perma.cc/EYY7-B87Y
 (1)
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-4&p_p_col_count=1&_sojdashboard_WAR_coesojportlet_alertId=62518066
+
+https://perma.cc/SJG2-E8UH
 (2)
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B365%5D&covid19=1
-https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#VII
+
+https://perma.cc/J7UH-BULT
+
+https://perma.cc/8J7C-8H5X
+https://perma.cc/VQE6-QYGY
 
 
 
@@ -3438,26 +3564,32 @@ https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#VII
  No de jure media limitations found in the emergency measures. However, the lockdown of 21 March 2020 (1) did not include the media in the essential services that are exempted from the movement restrictions. 
 
 *Sources*:
- https://twitter.com/PrimatureRwanda/status/1241412264193937412/photo/1
+ https://web.archive.org/web/20201014054623/https://twitter.com/PrimatureRwanda/status/1241412264193937412/photo/1
 (1)
+https://perma.cc/W9X8-PS5X
 
-https://twitter.com/NewTimesRwanda/status/1241421501192077314
+(2)
 
-https://www.theigc.org/blog/rwandas-response-to-covid-19-and-future-challenges/
+https://perma.cc/2E43-EZBZ
+(3)
 
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/3SJV-TGU3
+(4)
+https://perma.cc/GXV8-RKJY
+(4)
 
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_18_January_2021.pdf
+https://perma.cc/X7WR-AJ4C
+(5)
+https://perma.cc/T8DS-SCBG
+(6)
 
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions__of_02_February_2021.pdf
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_15_March_2021.pdf
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_14_April_2021.pdf
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_05_May_2021.pdf
+https://perma.cc/B9PZ-DMQ6
+(7)
 
 
+https://perma.cc/FY3K-C2X5
+
+(8)
 
 
 
@@ -3482,9 +3614,13 @@ https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Re
  There are no reports from Reporters Without Borders or International Press Institute that Saudi Arabias emergency measures have included any de jure limitations on the media going beyond those already in place before the pandemic. This is thereore coded as 0. 
 
 *Sources*:
- https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/thematique/internet?countries%5B153%5D=153
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Saudi%20Arabia
+ https://perma.cc/WBE6-RR6Q
+
+
+https://perma.cc/GEY7-F6W4
+
+
+https://perma.cc/2MMB-XQ3Y
 
 
 
@@ -3509,23 +3645,14 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  No de jure media limitations found in the emergency measures. 
 
 *Sources*:
- https://www.sec.gouv.sn/actualit%C3%A9/d%C3%A9cret-n%C2%B0-2020-830-du-23-mars-2020-proclamant-l%E2%80%99%C3%A9tat-d%E2%80%99urgence-sur-le-territoire-national
+ https://web.archive.org/web/20200329042642/https://www.sec.gouv.sn/actualit<8e>/d<8e>cret-n<a1>-2020-830-du-23-mars-2020-proclamant-lՎtat-d<d5>urgence-sur-le-territoire-national
+https://web.archive.org/web/20200329041705/https://www.sec.gouv.sn/actualit<8e>/message-de-sem-le-pr<8e>sident-de-la-r<8e>publique-macky-sall-d<8e>claration-dՎtat-d<d5>urgence-dans
 
-https://www.sec.gouv.sn/actualit%C3%A9/message-de-sem-le-pr%C3%A9sident-de-la-r%C3%A9publique-macky-sall-d%C3%A9claration-d%E2%80%99%C3%A9tat-d%E2%80%99urgence-dans
-
-https://theconversation.com/ce-que-les-senegalais-e-s-pensent-des-mesures-gouvernementales-contre-la-covid-19-146037
-
-
-https://www.lemonde.fr/afrique/article/2020/03/24/coronavirus-etat-d-urgence-et-couvre-feu-en-vigueur-au-senegal_6034223_3212.html
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-n%C2%B0-000030-du-06-janvier-2021-portant-interdiction-temporaire-de-manifestations-et
-
-https://www.sec.gouv.sn/actualit%C3%A9/conseil-des-ministres-du-20-janvier-2021
-
-
+perma.cc/4NYZ-VFKQ
+perma.cc/7G8G-T3SC
+perma.cc/886S-WJE5
+https://web.archive.org/web/20210114065533/https://www.sec.gouv.sn/actualit<8e>/arr<90>t<8e>-n<a1>-000030-du-06-janvier-2021-portant-interdiction-temporaire-de-manifestations-et
+https://web.archive.org/web/20210121071003/https://www.sec.gouv.sn/actualit<8e>/conseil-des-ministres-du-20-janvier-2021
 
 
 
@@ -3550,11 +3677,14 @@ https://www.sec.gouv.sn/actualit%C3%A9/conseil-des-ministres-du-20-janvier-2021
  On 28 March 2020, the government passed a decree that would centralize information on covid-19 and "penalise anyone releasing information about the coronavirus outbreak that is not ‘authorised’ by the Office of the Prime Minister or by individuals approved by the Crisis Management Taskforce" (Council of Europe, 1); the decree was dropped on 3 April 2020 and I found no further measures limiting media freedom. 
 
 *Sources*:
- https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/
-https://www.osce.org/representative-on-freedom-of-media/449494
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-4&p_p_col_pos=2&p_p_col_count=3&_sojdashboard_WAR_coesojportlet_alertId=62071605
-http://stab.smederevo.org.rs/2020/04/01/%D0%B7%D0%B0%D0%BA%D1%99%D1%83%D1%87%D0%B0%D0%BA-%D0%B2%D0%BB%D0%B0%D0%B4%D0%B5-05-%D0%B1%D1%80%D0%BE%D1%98-53-2928-2020-%D0%BE%D0%B4-28-%D0%BC%D0%B0%D1%80%D1%82%D0%B0-2020-%D0%B3%D0%BE%D0%B4%D0%B8/
-https://www.icnl.org/covid19tracker/?location=109&issue=&date=&type=
+ https://perma.cc/UJR8-FGX6
+https://perma.cc/367K-PD7X
+
+https://perma.cc/2YJ5-ALWE
+
+https://perma.cc/98JZ-BCYJ
+
+https://perma.cc/T9JA-F6XD
 (1)
 
 
@@ -3580,9 +3710,9 @@ https://www.icnl.org/covid19tracker/?location=109&issue=&date=&type=
  No evidence of measures limiting media freedom found. 
 
 *Sources*:
- https://statehouse.gov.sl/
-https://rsf.org/en/sierra-leone
-https://ipi.media/sierra-leone/
+ [1]	perma.cc/R7GZ-KBM7
+[2]	perma.cc/THN7-EV25
+[3]	perma.cc/7AGQ-NWDP
 
 
 
@@ -3607,9 +3737,8 @@ https://ipi.media/sierra-leone/
  There are no indications that the emergency measures de-jure limit media freedom across all the time periods. However, the media in Singapore has been highly restricted since before the pandemic. 
 
 *Sources*:
- https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20200513#legis
-
-https://rsf.org/en/singapore
+ https://perma.cc/V88P-56RD
+https://perma.cc/J4Z3-WR78
 
 
 
@@ -3634,8 +3763,10 @@ https://rsf.org/en/singapore
  No evidence of measures limiting media freedom found 
 
 *Sources*:
- https://rokovania.gov.sk/RVL/Resolution/18252/1
-https://korona.gov.sk/
+ https://perma.cc/AF97-9YFL
+
+
+https://perma.cc/3QWC-BDWG
 
 
 
@@ -3660,10 +3791,10 @@ https://korona.gov.sk/
  Despite allegations of e.g. defamation, no evidence of measures limiting media freedom was found. 
 
 *Sources*:
- http://www.pisrs.si/Pis.web/pravniRedRSSearch?search=covid
-https://ipi.media/slovenia/
-https://rsf.org/en/slovenia
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/slovenia/
+ [1]	perma.cc/VX86-LCDC
+[2]	perma.cc/V9QW-FHKU
+[3]	perma.cc/QL86-3QCA
+[4]	perma.cc/3FCB-8MT9
 
 
 
@@ -3688,7 +3819,7 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/slo
  There appears to be a prohibition of "publication of false, exaggerated news" in force, but information indicating that this was part of their covid-19 response was not found across all the time periods. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/02/somalia-spate-arrests-intimidation-journalists
+ https://perma.cc/X8E8-7WB2
 
 
 
@@ -3713,15 +3844,11 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/slo
  According to regulations governing the implementation of response to the national state of disaster published by the government Gazette on 29 April 2020 (No. R480), "Any person who publishes any statement, through any medium, including social media, with the intention to deceive any other person about - (a) Covid-19; (b) Covid-19 infection status of any person; or (c) any measure taken by the Government to address Covid-19" (Article 14) is liable to conviction of fine or six months imprisonment [1]. The government has set up measures to actively track scammers and fake news online regarding the pandemic. This is why it was coded 1 instead of 2. 
 
 *Sources*:
- [1]
-https://www.gov.za/sites/default/files/gcis_document/202004/43258rg11098gon480s.pdf
-[2]
-https://www.gov.za/coronavirus/fakenews
-[3]
-https://rsf.org/en/south-africa
-[4] https://cpj.org/africa/south-africa/
-[5]
-http://ipi.media/south-africa/
+ [1]	perma.cc/R5NH-GB8P
+[2]	perma.cc/Z4YG-XYZT
+[3]	perma.cc/CZ9L-Q3HM
+[4]	perma.cc/TE2S-EYTT
+[5]	perma.cc/9FKK-PMPN
 
 
 
@@ -3746,17 +3873,9 @@ http://ipi.media/south-africa/
  I did not come across new limitations on media freedom due to the emergency measures across all time periods. 
 
 *Sources*:
- https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
-
-
-
-https://elaw.klri.re.kr/kor_service/lawView.do?hseq=40184&lang=ENG
-
-
-
-
-
-https://www.loc.gov/law/help/health-emergencies/southkorea.php
+ https://perma.cc/RXQ4-69RF
+https://perma.cc/KRA6-S3BB
+https://web.archive.org/web/20201019061249/https://www.loc.gov/law/help/health-emergencies/southkorea.php
 
 
 
@@ -3781,11 +3900,19 @@ https://www.loc.gov/law/help/health-emergencies/southkorea.php
  The government has warned media outlets to be careful about spreading disinformation about the Covid-19 pandemic, but this does not appear to be de jure under the emergency response provisions. So far, there are no known reports of media outlets being punished for reporting misinformation. 
 
 *Sources*:
- https://twitter.com/SouthSudanGov/status/1243239494616322050/photo/1
-https://ipi.media/south-sudan/
-https://rsf.org/en/south-sudan
-https://cpj.org/search?cx=002635367788333464843%3A1kfp8mbluhy&cof=FORID%3A9&ie=UTF-8&q=south+sudan
-https://cpj.org/africa/south-sudan/
+ https://perma.cc/AA9N-LUJM
+
+
+https://perma.cc/XX2F-BU9G
+
+
+https://perma.cc/47ND-JYR2
+
+
+https://perma.cc/5DUL-43DG
+
+
+https://perma.cc/Q5FH-3CZJ
 
 
 
@@ -3810,11 +3937,8 @@ https://cpj.org/africa/south-sudan/
  The emergency measures do not de-jure limit media freedom. 
 
 *Sources*:
- [1]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-3692&p=20200328&tn=1#a5
-
-[2]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-12898
+ [1]	perma.cc/4MPB-TGDD
+[2]	perma.cc/84KK-CGUL
 
 
 
@@ -3840,12 +3964,9 @@ https://www.boe.es/buscar/act.php?id=BOE-A-2020-12898
 
 *Sources*:
  (1)
-https://www.hrw.org/news/2020/04/03/sri-lanka-uses-pandemic-curtail-free-expression
-
-
-
+https://perma.cc/732J-29YD
 (2)
-http://adayaalam.org/situation-brief-no-3-covid-19-sri-lankas-militarised-response-poses-grave-threats-to-human-rights/
+https://perma.cc/UD3S-AZE4
 
 
 
@@ -3870,13 +3991,11 @@ http://adayaalam.org/situation-brief-no-3-covid-19-sri-lankas-militarised-respon
  Lockdown restrictions have stopped printing, making content available only online, meaning that most Sudanese will not have access to them as internet penetration is low. This however, does not allow the government to de-jure control the content of the media. No de-jure limitations of media freedom as part of the Covid-19 emergency measures was found. 
 
 *Sources*:
- [1]
-https://www.bbc.com/news/world-africa-52735520?intlink_from_url=https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan&link_location=live-reporting-story
-[2]
-https://rsf.org/en/thematique/internet?countries%5B48%5D=48
-[3] http://ipi.media/sudan/
-[4]
-https://cpj.org/mideast/sudan/
+ [1]	perma.cc/C4PP-DD5X
+[2]	perma.cc/9FYQ-3J29
+[3]	perma.cc/G6TY-WTTP
+[4]	perma.cc/3YGY-6P45
+[5]	perma.cc/3J63-7QVD
 
 
 
@@ -3901,8 +4020,10 @@ https://cpj.org/mideast/sudan/
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Swedish Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B141%5D=141
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Sweden
+ https://perma.cc/ZRV8-2HEV
+
+
+https://perma.cc/44BQ-8UL6
 
 
 
@@ -3927,12 +4048,16 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Swiss Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B142%5D=142
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
+ https://perma.cc/HWF3-JJQH
 
-https://cpj.org/europe/switzerland/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/switzerland/
+https://perma.cc/L2LL-X5J9
+
+
+https://perma.cc/4W4B-2PZ3
+
+
+https://perma.cc/9EJW-66SA
 
 
 
@@ -3957,9 +4082,7 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/swi
  Article 14 of the Special Act states "Individuals who disseminate rumors or false information regarding the epidemic conditions of severe pneumonia with novel pathogens, causing damage to the public or others, shall be sentenced to imprisonment for not more than three years or criminal detention, or in lieu thereof or in addition thereto, a fine of no more than NT$3 million." 
 
 *Sources*:
- http://www.loc.gov/law/foreign-news/article/taiwan-special-covid-19-law-revised-to-increase-economic-relief-budget/
-
-
+ https://perma.cc/X5J4-XHRZ
 
 
 https://perma.cc/9W88-7R3B
@@ -3992,15 +4115,14 @@ Moreover, IPI also argues that the provisions of the new law are vague and "do n
  
 
 *Sources*:
- https://jumhuriyat.tj/index.php?art_id=41162
-https://parlament.tj/news/133-ta-jirot-ba-kodeksi-andoz
-https://cpj.org/2020/06/tajikistan-parliament-approves-amendments-imposing-fines-detentions-for-false-news-amid-covid-19-pandemic/
-https://ipi.media/covid19-media-freedom-monitoring/
-https://ipi.media/tajikistan-passes-coronavirus-fake-news-law/
+ https://perma.cc/K86A-JPZ9
+https://perma.cc/667B-ASMY
+https://perma.cc/BB2Z-ALCK
+https://perma.cc/5E9Y-WTNK
 (2)
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#tajikistan
 
-https://rsf.org/en/news/new-tajik-legislation-hampers-coronavirus-coverage
+https://perma.cc/XZQ7-MY6C
+https://perma.cc/8XNM-CK4G
 (1)
 
 
@@ -4026,26 +4148,22 @@ https://rsf.org/en/news/new-tajik-legislation-hampers-coronavirus-coverage
  No de-jure limitations of media freedom as part of the Covid-19 emergency measures were found. 
 
 *Sources*:
- [1]
-https://ipi.media/tanzania/
+ [1]https://perma.cc/Q8DC-WU4M
 
 
-[2]
-https://rsf.org/en/tanzania
+[2]https://perma.cc/GK7R-B4L2
 
 
-[3]
-https://cpj.org/africa/tanzania/
+[3]https://perma.cc/9JLV-NSJ9
 
 
-[4
-]https://www.bbc.com/news/world-africa-52519853
+[4]https://perma.cc/26QX-9ZEY
 
-[5]
-https://rsf.org/en/news/tanzanian-media-unable-cover-Covid-19-epidemic
 
-[6]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tanzania/
+[5]https://perma.cc/5S8N-Z33T
+
+
+[6]https://perma.cc/5VJ4-UL2K
 
 
 
@@ -4073,16 +4191,13 @@ In March, the government issued a list of prohibitions under the state of emerge
 
 *Sources*:
  (1)
-https://www.hrw.org/news/2020/05/27/thailand-state-emergency-extension-unjustified
-
+https://perma.cc/RWQ7-VSWZ
 (2)
-http://www.ratchakitcha.soc.go.th/DATA/PDF/2563/E/069/T_0010.PDF
-
+https://perma.cc/BX3J-5RM2
 (3)
-https://www.hrw.org/news/2020/03/25/thailand-covid-19-clampdown-free-speech
-
+https://perma.cc/Z264-R38G
 (4)
-https://www.refworld.org/pdfid/482b005f2.pdf
+https://perma.cc/F6FC-8RAE
 
 
 
@@ -4107,11 +4222,11 @@ https://www.refworld.org/pdfid/482b005f2.pdf
  No de-jure limitations of media freedom as part of the Covid-19 emergency measures were found. 
 
 *Sources*:
- https://ipi.media/gambia/
-https://cpj.org/africa/gambia/
-https://rsf.org/en/gambia
-https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
-http://www.statehouse.gm/second-address-nation-president-adama-barrow-Covid-19
+ https://perma.cc/GT4Q-HBE8
+https://perma.cc/64PU-TFSX
+https://perma.cc/X96C-8UQG
+https://perma.cc/JZ3D-HWGJ
+https://web.archive.org/web/20200511200224/http://www.statehouse.gm/second-address-nation-president-adama-barrow-Covid-19
 
 
 
@@ -4136,17 +4251,22 @@ http://www.statehouse.gm/second-address-nation-president-adama-barrow-Covid-19
  No evidence on media limitations found in the emergency measures. 
 
 *Sources*:
- http://togolex.com/2020/04/loi-n-2020-005-du-30/03/2020-portant-habilitation-du-gouvernement-a-prendre-par-ordonnances-les-mesures-relevant-du-domaine-de-la-lo
+ perma.cc/RGX4-UVD4
 
-https://presidence.gouv.tg/2020/04/01/adresse-du-chef-de-letat-sem-faure-essozimna-gnassingbe-au-peuple-togolais-sur-la-riposte-nationale-contre-le-covid-19/
 
-https://www.garda.com/crisis24/news-alerts/328466/togo-president-declares-three-month-health-emergency-and-nationwide-curfew-from-2-april-update-3
+perma.cc/4SJG-3CP6
 
-https://www.togofirst.com/en/economic-governance/0204-5268-coronavirus-togo-declares-state-public-health-emergency-for-3-months
 
-http://apanews.net/en/news/covid-19-togo-declares-state-of-emergency-curfew
+perma.cc/6Y7N-H645
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/togo/
+
+perma.cc/663A-V8M9
+
+
+perma.cc/EVU4-KMU4
+
+
+perma.cc/8NBY-X3EC
 
 
 
@@ -4171,12 +4291,9 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tog
  No de-jure limitations of media freedom as part of the Covid-19 emergency measures were found. 
 
 *Sources*:
- [1]
-https://ipi.media/tunisia/
-[2]
-https://rsf.org/en/thematique/internet?countries%5B171%5D=171
-[3]
-https://cpj.org/mideast/tunisia/
+ [1]	perma.cc/XGF4-RGJN
+[2]	perma.cc/3SGL-3ZJX
+[3]	perma.cc/2C97-QFNS
 
 
 
@@ -4201,23 +4318,20 @@ https://cpj.org/mideast/tunisia/
  There are no reports found that any of the emergency measures places any de jure limitations on media. While media freedom is heavily restricted in Turkey, and harassment is on-going during the pandemic, there are no reports that any de jure limitations have been imposed as a part of Covid-19 measures, or during the pandemic. Other, already existing legal instruments for prosecuting journalists, such as Turkey’s terrorist law, has been in continued used during the pandemic however. 
 
 *Sources*:
- http://constitutionnet.org/state-of-emergency
-https://rsf.org/en/news/nearly-half-un-member-countries-have-obstructed-coronavirus-coverage
-https://tr.usembassy.gov/Covid-19-information-2/
-https://www.garda.com/crisis24/news-alert-full-history/s3ykQoBkeuRRHErpJ/turkey-country-closes-border-with-iran-halts-incoming-flights-over-Covid-19-february-23
-https://www.acaps.org/covid19-government-measures-dataset
+ https://perma.cc/H48B-H64R
+https://perma.cc/NQE7-EY3P
+https://perma.cc/8W3L-4ZGC
+https://web.archive.org/web/20200413122752/https://www.garda.com/crisis24/news-alert-full-history/s3ykQoBkeuRRHErpJ/turkey-country-closes-border-with-iran-halts-incoming-flights-over-Covid-19-february-23
 
-https://rsf.org/en/news/journalists-threatened-imprisonment-under-turkeys-terrorism-law
+https://perma.cc/8RZS-NQ9Q
+https://perma.cc/WHQ9-H8GM
+https://perma.cc/3KN8-SL9E
+https://perma.cc/FV4T-RGGP
+https://perma.cc/DD6K-D5NF
 
-https://rsf.org/en/news/turkey-press-freedom-figures
 
-https://cpj.org/europe/turkey/
-
-https://www.arabnews.com/node/1853106/media
-
-https://www.amnesty.org/en/latest/news/2021/04/can-independent-journalism-fight-back-in-turkey/
-
-https://www.amnesty.org/en/countries/europe-and-central-asia/turkey/report-turkey/
+https://perma.cc/ZV8Z-RTDV
+https://perma.cc/4T9H-8V93
 
 
 
@@ -4242,10 +4356,10 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/turkey/report-turke
  No evidence of measures limiting media freedom found 
 
 *Sources*:
- http://www.turkmenistan.gov.tm/?id=20961
-https://www.garda.com/crisis24/news-alerts/359861/turkmenistan-authorities-announce-nationwide-social-restrictions-july-13-update-1
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-central-asia-5305f172/
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+ https://web.archive.org/web/20200518201602/http://www.turkmenistan.gov.tm/?id=20961
+https://perma.cc/5K4H-8SWS
+https://perma.cc/FF7C-T28X
+https://perma.cc/SW3T-LPXL
 
 
 
@@ -4270,22 +4384,9 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  The statutory instruments published by the government of Uganda do not mention any restrictions on media reporting de jure. In March-April 2020, restrictions on motor vehicles exempted telecommunication services including the media [2]. 
 
 *Sources*:
- [1]
-https://covid19.gou.go.ug/uploads/document_repository/authors/dr._jane_ruth_aceng,_minister_of_health/Statutory_instrument_-_The_Public_Health_(Control_of_COVID_19)_Rules_2020.pdf
-
-[2]
-http://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110090/136775/F1854815533/UGA110090.pdf
-
-[3]
-Additional
-notices
-of
-regulations
-can
-be
-found
-here:
-https://gazettes.africa/gazettes/ug
+ [1]	perma.cc/8UAM-RAZV
+[2]	perma.cc/9YP5-MZN9
+[3]	perma.cc/Y8FD-JDAC
 
 
 
@@ -4310,9 +4411,13 @@ https://gazettes.africa/gazettes/ug
  No evidence of measures limiting media freedom found 
 
 *Sources*:
- https://www.coe.int/uk/web/kyiv/-/safety-of-journalists-and-new-ukrainian-legislation-webinar-on-work-of-media-during-covid-19-pandemic
-https://zakon.rada.gov.ua/laws/show/530-20#Text
-https://zakon.rada.gov.ua/laws/show/539-20#Text
+ https://perma.cc/VEY8-74ZN
+
+
+https://perma.cc/5JFR-L6S8
+
+
+https://perma.cc/VCE8-KTBL
 
 
 
@@ -4337,18 +4442,12 @@ https://zakon.rada.gov.ua/laws/show/539-20#Text
  "It is forbidden for any individual to publish, re-publish or circulate medical information or guidance which is false, misleading or which hasn't been announced officially ... using print, audiovisual or social media, or online websites or any other way of publication or circulation". The order is strictly limiting the information someone is allowed to publish as it has to be previously announced by the government. It is not clarified whether journalist are excluded of this order. 
 
 *Sources*:
- [1]
-https://theconversation.com/gulf-states-use-coronavirus-threat-to-tighten-authoritarian-controls-and-surveillance-136631
-[2]
-https://gulfnews.com/uae/crime/jail-awaits-those-who-spread-rumours-about-coronavirus-in-uae-1.70422491
-[3]
-https://www.occrp.org/en/coronavirus/arab-reporters-during-COVID-19-lockdown-life-on-the-edge
-[4]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/government-efforts-to-contain-covid-19
-[5]
-https://www.aljazeera.com/news/2020/04/uae-announces-5500-fine-coronavirus-fake-news-200418153715552.html
-[6]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak
+ [1]	perma.cc/H9GH-MEEJ
+[2]	perma.cc/MVV7-3UFH
+[3]	perma.cc/6FHQ-QFQY
+[4]	perma.cc/8K37-9HN2
+[5]	perma.cc/S684-J32U
+[6]	perma.cc/9EFJ-SQ9N
 
 
 
@@ -4373,9 +4472,10 @@ https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the UK Government response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B135%5D=135
+ https://perma.cc/QK23-67UR
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
+
+https://perma.cc/KW4A-WD29
 
 
 
@@ -4400,10 +4500,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  No restrictions are imposed on the media in the proclamation of a national emergency, or the actions taken under it. No other evidence has been found of there being imposed any de jure limitations on media. 
 
 *Sources*:
- https://www.federalregister.gov/documents/2020/03/18/2020-05794/declaring-a-national-emergency-concerning-the-novel-coronavirus-disease-Covid-19-outbreak
-https://rsf.org/en/thematique/internet?page=1&countries%5B183%5D=183
+ https://perma.cc/R9AF-MHF7
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=United%20States%20of%20America
+
+https://perma.cc/8T24-DW5C
+
+
+https://perma.cc/YW9P-BXS6
 
 
 
@@ -4428,14 +4531,9 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  The emergency measures do not de-jure limit media freedom. 
 
 *Sources*:
- [1]
-https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
-
-[2]
-https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/medidas-gobierno-sanitaria-emergencia-sanitaria-covid19
-
-[3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+ [1]	perma.cc/B2P8-JHW4
+[2]	perma.cc/5CGC-728H
+[3]	perma.cc/GU2T-ECBJ
 
 
 
@@ -4460,10 +4558,10 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
  I found no emergency measures that limit media freedom. The parliament passed ammendments to the Criminal Code (Article 244) on 23 March 2020 making spreading false information about infections punishable with a fine or imprisonment. Note that the legislation is not part of the emergency measures, applies to "false" information on infectious diseases in general, and constitutes permanent amendments to existing legislation. It is therefore not coded as part of the emergency measures, but is considered in coding merepfact and merepgov. 
 
 *Sources*:
- https://lex.uz/ru/docs/4774974
-https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
-https://ipi.media/rush-to-pass-fake-news-laws-during-covid-19-intensifying-global-media-freedom-challenges/
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#uzbekistan
+ https://perma.cc/B3E7-GWDA
+https://perma.cc/A7DY-GZVL
+https://perma.cc/QJ9P-X7UG
+https://perma.cc/3PME-HABM
 
 
 
@@ -4489,9 +4587,10 @@ https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#uzbe
 
 *Sources*:
  [1]
-https://app.box.com/s/a437wqh3l52mksb8ks9xd8bskv1oeze9
+perma.cc/TFT2-HXG6
 [2]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/2SRM-Z32K
+
 
 
 
@@ -4519,22 +4618,10 @@ But  a new decree was introduced in Vietnam on 15 April 2020 introducing fines f
  
 
 *Sources*:
- https://www.reuters.com/article/us-health-coronavirus-vietnam-security/vietnam-introduces-fake-news-fines-for-coronavirus-misinformation-idUSKCN21X0EB
-
-
-
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-
-
-
-https://www.amnesty.org/en/latest/news/2020/04/viet-nam-facebook-cease-complicity-government-censorship/
-
-
-
-
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25920&LangID=E
+ https://perma.cc/N3CG-QWY4
+https://perma.cc/WP83-GHJZ
+https://perma.cc/ES7Z-526F
+https://perma.cc/WDM2-XBLT
 
 
 
@@ -4559,12 +4646,12 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25920&LangID=E
  The production of "fake news" is prohibited in Zambia since before the Covid-19 crisis, and will thus not be included in this score as it is not part of the current emergency measures. No evidence that the covid-19 emergency measures de-jure limit media freedom was been found. 
 
 *Sources*:
- http://zambialii.org/zm/legislation/statutory-instrument/2020/22
-https://rsf.org/en/zambia
-https://cpj.org/africa/zambia/
-https://ipi.media/covid19-media-freedom-monitoring/
-https://ipi.media/zambia/
-https://africatimes.com/2018/07/08/zambia-says-fraud-fake-news-demand-stricter-digital-platform-laws/
+ https://perma.cc/GH77-GTQ2
+https://perma.cc/4ZFC-CDEL
+https://perma.cc/PHU4-27Z2
+https://perma.cc/PT8L-D5WH
+https://perma.cc/3VFM-5KS9
+https://perma.cc/5S9D-KCB6
 
 
 
@@ -4590,18 +4677,12 @@ https://africatimes.com/2018/07/08/zambia-says-fraud-fake-news-demand-stricter-d
 
 *Sources*:
  [1]
-http://zimlii.org/zw/zw/subleg-consol/S.I.%2083%20of%202020%20Public%20Health%20%28COVID-19%20Prevention%2C%20Containment.pdf
-
-
-
+https://web.archive.org/web/20200926043507/http://zimlii.org/zw/zw/subleg-consol/S.I.%2083%20of%202020%20Public%20Health%20(COVID-19%20Prevention%2C%20Containment.pdf
 [2]
-https://www.reuters.com/article/us-health-coronavirus-zimbabwe/zimbabwe-president-threatens-20-years-jail-over-fake-lockdown-statement-idUSKCN21W1H4
-
+https://perma.cc/4EPR-R735
 [3]
-https://features.hrw.org/features/features/covid/index.html
-
+https://perma.cc/3CCW-VQJ9
 [4]
-https://www.hrw.org/world-report/2021/country-chapters/zimbabwe
-
+https://perma.cc/LL9P-YFZM
 [5]
-https://www.theguardian.com/world/2021/apr/28/zimbabwe-court-quashes-charges-against-journalist-hopewell-chinono
+https://perma.cc/D96T-H48S

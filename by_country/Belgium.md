@@ -62,56 +62,51 @@ On 28 October 2020, the Federal Governemnt issued a new Ministrial Order (13) wh
 The Pandemic Law has not been approved by Parliament as of 17 May 2021; it passed its first hearing on 7 May 2021 (17). 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Belgium_2014.pdf?lang=en
+ https://perma.cc/W3GL-HR26
 (1)
 
-https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
+https://perma.cc/P7SL-CL47
 (2)
 
-https://verfassungsblog.de/belgium-and-covid-19-when-a-health-crisis-replaces-a-political-crisis/
+https://perma.cc/2KFY-Z3RP
 (3)
 
-https://centredecrise.be/fr/news/gestion-de-crise/coronavirus-reponses-vos-questions
+https://perma.cc/A6N8-F6UQ
 (4)
 
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032702&table_name=loi
+https://perma.cc/S2L6-KRZ7
 (5)
 
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032701&table_name=loi
+https://perma.cc/Q9EA-KNYQ
 (6)
 
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032301&table_name=loi
+https://perma.cc/9RE5-Q4PZ
 (7)
 
-https://www.robert-schuman.eu/en/doc/ouvrages/FRS_Parliament_Belgium.pdf
+https://perma.cc/34D4-M29C
 (8)
 
-https://fra.europa.eu/sites/default/files/fra_uploads/be_report_on_coronavirus_pandemic_november_2020.pdf
+https://perma.cc/8PK5-6XAH
 (9)
 
-https://www.rtbf.be/info/belgique/detail_fin-des-pouvoirs-speciaux-debut-de-nouvelles-difficultes-politiques?id=10530520
+https://perma.cc/YK7D-5HUY
 (10)
 
-https://centredecrise.be/sites/default/files/content/mb3006.pdf
+https://web.archive.org/web/20200918141605/https://centredecrise.be/sites/default/files/content/mb3006.pdf
+
 (11)
 
-https://crisiscentrum.be/sites/default/files/mb_1810_0.pdf
+https://web.archive.org/web/20201027103811/https://crisiscentrum.be/sites/default/files/mb_1810_0.pdf
 (12)
 
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&table_name=loi&cn=2020102801
+https://perma.cc/DL8U-H4AX
 (13)
 
-https://verfassungsblog.de/belgiums-accordion-response-to-covid-19/
+https://perma.cc/D89K-T36E
 (14)
 
-https://www.vrt.be/vrtnws/nl/2021/02/26/ontwerp-pandemiewet-klaar/
+https://perma.cc/YC3Y-6GCM
 (15)
-
-https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=nl&la=N&cn=2007051561&table_name=wet
-(16)
-
-https://www.brusselstimes.com/belgium/167816/pandemic-law-passes-first-reading-in-parliament-following-lengthy-debates-chamber-annelies-verlinden-lockdown-curfew-brussels-court/
-(17)
 
 
 
@@ -165,12 +160,13 @@ https://www.brusselstimes.com/belgium/167816/pandemic-law-passes-first-reading-i
 *No comment provided* 
 
 *Sources*:
- https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
+ https://perma.cc/X2Q5-E6JD
+(1)
 
-https://www.constituteproject.org/constitution/Belgium_2014.pdf?lang=en
+https://perma.cc/256S-HH69
 (2)
 
-https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=nl&la=N&cn=2007051561&table_name=wet
+https://perma.cc/DC2L-5KYN
 (3)
 
 
@@ -211,19 +207,19 @@ https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=nl&la=N&cn=20070
 Based on the above, a series of Ministerial decrees are being updated and issued (for a full list of all Covid-19 related measures, and their end date, see (3)). 
 
 *Sources*:
- http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032702&table_name=loi
+ https://perma.cc/6WS2-6YK7
 (1)
 
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032701&table_name=loi
+https://perma.cc/FC9S-HWMT
 (2)
 
-https://centredecrise.be/fr/news/gestion-de-crise/coronavirus-reponses-vos-questions
+https://perma.cc/A6N8-F6UQ
 (3)
 
-https://centredecrise.be/sites/default/files/content/mb3006.pdf
+https://web.archive.org/web/20200918141605/https://centredecrise.be/sites/default/files/content/mb3006.pdf
 (4)
 
-https://crisiscentrum.be/sites/default/files/mb_1810_0.pdf
+https://web.archive.org/web/20201027103811/https://crisiscentrum.be/sites/default/files/mb_1810_0.pdf
 (5)
 
 
@@ -273,32 +269,34 @@ The Pandemic Law has not been fully introduced as of 17 May 2021. It passed its 
 The Belgian federal government continues to use the same legal instruments to deal with Covid-19  since the start of the pandemic. 
 
 *Sources*:
- http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032702&table_name=loi
+ https://perma.cc/NA4G-G9NJ
 (1)
 
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032701&table_name=loi
+https://perma.cc/UL2L-RGLT
 (2)
 
-https://www.rtbf.be/info/belgique/detail_fin-des-pouvoirs-speciaux-debut-de-nouvelles-difficultes-politiques?id=10530520
+https://perma.cc/LW5Z-9HVN
 (3)
 
-https://verfassungsblog.de/belgiums-accordion-response-to-covid-19/
+https://perma.cc/PYS2-9ZVH
 (4)
 
-https://centredecrise.be/sites/default/files/content/mb3006.pdf
+https://web.archive.org/web/20200918141605/https://centredecrise.be/sites/default/files/content/mb3006.pdf
 (5)
 
-https://crisiscentrum.be/sites/default/files/mb_1810_0.pdf
+https://web.archive.org/web/20201027103811/https://crisiscentrum.be/sites/default/files/mb_1810_0.pdf
 (6)
 
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&table_name=loi&cn=2020102801
+https://perma.cc/6XK7-K8UY
 (7)
 
-https://www.vrt.be/vrtnws/nl/2021/02/26/ontwerp-pandemiewet-klaar/
+https://perma.cc/S7M6-PZPJ
 (8)
 
-https://www.brusselstimes.com/belgium/167816/pandemic-law-passes-first-reading-in-parliament-following-lengthy-debates-chamber-annelies-verlinden-lockdown-curfew-brussels-court/
+https://perma.cc/P9N3-6QR6
 (9)
+
+
 
 
 
@@ -343,24 +341,24 @@ The government issued on 30 June 2020 a Ministerial Decree ''portant des mesures
 The Order of 30 June 2020 was amended by Ministrial Order of 18 October 2020, with an initial limit date of 19 November 2020, which was later replaced and updated by a new Ministrial Order of 28 October 2020. This Order was used and was being updated regularly up to 7 May 2021. The Order has an end date of 30 June 2021 (see Art. 28 (7)). 
 
 *Sources*:
- https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
-
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032702&table_name=loi
+ https://perma.cc/2P2L-NTTD
+(1)
+https://perma.cc/T3E6-EBGE
 (2)
 
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032701&table_name=loi
+https://perma.cc/A32A-NRXG
 (3)
 
-https://centredecrise.be/fr/news/gestion-de-crise/coronavirus-reponses-vos-questions
+https://perma.cc/A6N8-F6UQ
 (4)
 
-https://centredecrise.be/sites/default/files/content/mb3006.pdf
+https://web.archive.org/web/20200918141605/https://centredecrise.be/sites/default/files/content/mb3006.pdf
 (5)
 
-https://crisiscentrum.be/sites/default/files/mb_1810_0.pdf
+https://web.archive.org/web/20201027103811/https://crisiscentrum.be/sites/default/files/mb_1810_0.pdf
 (6)
 
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&table_name=loi&cn=2020102801
+https://perma.cc/3H5T-HLWV
 (7)
 
 
@@ -403,17 +401,12 @@ The government issued on 30 June 2020 a Ministerial Decree ''portant des mesures
 The Order of 30 June 2020 was amended by Ministrial Order of 18 October 2020, with an initial limit date of 19 November 2020, which was later replaced and updated by a new Ministrial Order of 28 October 2020. This Order was used and was being updated regularly up to 7 May 2021. The Order has an end date of 30 June 2021 (see Art. 28 (7)). 
 
 *Sources*:
- https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
-
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032702&table_name=loi
-
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032701&table_name=loi
-
-https://centredecrise.be/sites/default/files/content/mb3006.pdf
-
-https://crisiscentrum.be/sites/default/files/mb_1810_0.pdf
-
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&table_name=loi&cn=2020102801
+ https://perma.cc/6BQ9-EZM9
+https://perma.cc/4ZKP-3RNV
+https://perma.cc/J9DB-F4NT
+https://web.archive.org/web/20200918141605/https://centredecrise.be/sites/default/files/content/mb3006.pdf
+https://web.archive.org/web/20201027103811/https://crisiscentrum.be/sites/default/files/mb_1810_0.pdf
+https://perma.cc/JRW7-T99B
 (7)
 
 
@@ -458,10 +451,10 @@ http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&table_nam
 According to article 105 of the Belgian Constitution (special powers decrees), ''the legislator authorises the Government (formally the King at federal level) to abrogate, complete, modify or replace legislative act through royal decrees, under some conditions. The special powers act adopted under exceptional circumstances determine the rationae materiae scope of the measures that can be taken and is always time-limited. The special powers royal decrees have to be confirmed by an act of the legislator within one year of them coming into effect – which is usually a very formal procedure, even if the minority government makes it slightly less certain in this case –, otherwise they will be considered as never having produced effect. Once they are confirmed, they are considered as legislative acts.'' (2) 
 
 *Sources*:
- https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
+ https://perma.cc/X2JR-YEXJ
 (1)
 
-https://verfassungsblog.de/belgium-and-covid-19-when-a-health-crisis-replaces-a-political-crisis/
+https://perma.cc/W64F-9J2F
 (2)
 
 
@@ -509,29 +502,28 @@ https://verfassungsblog.de/belgium-and-covid-19-when-a-health-crisis-replaces-a-
 ''The Belgian Covid-19 response has been widely criticized for its lack of a sufficient legal basis and parliamentary involvement. In January 2021, ten months after the start of the first lockdown, the government finally introduced a ‘Pandemiewet’ (Pandemic law (15)), to serve as a legal basis for this and all following pandemics. (7) The Pandemic Law has not been fully introduced as of 17 May 2021. It passed its first hearing in Parliament on 7 May 2021. (8) 
 
 *Sources*:
- https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
+ https://perma.cc/45E4-24CQ
 (1)
 
-https://verfassungsblog.de/belgium-and-covid-19-when-a-health-crisis-replaces-a-political-crisis/
+https://perma.cc/BT82-C8E5
 (2)
 
-https://www.lachambre.be/FLWB/PDF/55/1104/55K1104001.pdf
+https://perma.cc/TJU2-5KSS
 (3)
 
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032702&table_name=loi
+https://perma.cc/VA24-74P2
 (4)
 
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032701&table_name=loi
+https://perma.cc/N844-3EWB
 (5)
 
-https://legalworld.wolterskluwer.be/fr/nouvelles/domaine/droit-en-general/coronavirus-resume-de-toutes-les-mesures-juridiques-prises-a-l-encontre-du-covid-19/
-
+https://perma.cc/W8W5-CYWZ
 (6)
 
-https://verfassungsblog.de/belgiums-accordion-response-to-covid-19/
+https://perma.cc/KWA9-BHQZ
 (7)
 
-https://www.brusselstimes.com/belgium/167816/pandemic-law-passes-first-reading-in-parliament-following-lengthy-debates-chamber-annelies-verlinden-lockdown-curfew-brussels-court/
+https://perma.cc/HG2K-ERZW
 (8)
 
 
@@ -584,23 +576,18 @@ https://www.brusselstimes.com/belgium/167816/pandemic-law-passes-first-reading-i
 ''Parliamentary involvement has been remarkably low since the federal government has initiated its response to Covid-19. In dealing with the crisis, governmental decision-making has been the emphasis from the start...drastic restrictions on constitutional rights of Belgian citizens relied on decisions formally taken by one minister. Constitutional experts affirm that it is up to the legislator to decide on far-reaching constraints on constitutional rights in a public and open parliamentary debate, in order to ensure broad support for the measures and transparency as to why certain measures are necessary. The Parliament can, however, still ask parliamentary questions to increase transparency and oversight was indeed increased in July with the creation of a special commission (Covid-19 Commission) mandated with the monitoring of the Belgian Covid-19 approach.'' (3) 
 
 *Sources*:
- https://www.lachambre.be/kvvcr/index.cfm
-
-https://www.ipu.org/fr/compilation-par-pays-des-mesures-parlementaires-prises-face-la-pandemie
+ https://perma.cc/9FMB-7UZM
+https://perma.cc/BUH9-943Z
 (2)
 
-https://verfassungsblog.de/belgiums-accordion-response-to-covid-19/
+https://perma.cc/58WZ-9MBD
 (3)
 
-https://verfassungsblog.de/belgium-and-covid-19-when-a-health-crisis-replaces-a-political-crisis/
-
-https://www.lachambre.be/kvvcr/pdf_sections/news/0000011208/mesures_de_prevention_covid_19_20200324.pdf
-
-https://plus.lesoir.be/290560/article/2020-03-27/quelle-garantie-de-controle-parlementaire-des-pouvoirs-speciaux-en-contexte-de
-
-https://www.lachambre.be/FLWB/PDF/55/1100/55K1100001.pdf
-
-https://www.brusselstimes.com/belgium/167816/pandemic-law-passes-first-reading-in-parliament-following-lengthy-debates-chamber-annelies-verlinden-lockdown-curfew-brussels-court/
+https://perma.cc/5K6Q-6UEZ
+https://perma.cc/7EV7-9H3S
+https://perma.cc/GCM3-CNDS
+https://perma.cc/3M9U-6U7U
+https://perma.cc/3W8Z-BBE7
 
 
 
@@ -724,15 +711,11 @@ Belgium is a federal state, therefore apart from the measures that the federal g
 However, the main restrictions such as the lockdown and night curfew have been nationwide. 
 
 *Sources*:
- https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-belgium/
-
-https://www.info-coronavirus.be/en/news/occ-3010/
-
-https://www.info-coronavirus.be/en/
-
-https://www.garda.com/crisis24/news-alerts/368206/belgium-face-masks-become-mandatory-in-all-public-spaces-in-brussels-as-of-august-12-update-22
-
-https://www.garda.com/crisis24/news-alerts/476161/belgium-authorities-to-lift-covid-19-related-curfew-and-certain-other-restrictions-from-may-8-update-35
+ https://perma.cc/P2LB-SG83
+https://web.archive.org/web/20201101015719/https://www.info-coronavirus.be/en/news/occ-3010/
+https://perma.cc/VG7V-2PYD
+https://perma.cc/B9AH-K4SU
+https://perma.cc/84ER-SNNY
 
 
 
@@ -784,32 +767,31 @@ A recent report (May 3 2021) by the UN Committee on the Elimination of Racial Di
 ''The experts, however, were concerned about a number of issues, including police-related racial violence – reports of an increase of police violence during the Covid-19 pandemic and recent anti-racism demonstrations, persistent racial profiling and hate speech. It also addressed the situation of Roma communities and migrants.'' (9). 
 
 *Sources*:
- https://www.enar-eu.org/Evidence-of-the-impact-of-Covid-19-on-racialised-communities-exposes-need-to;
+ https://perma.cc/8RDA-Q29V
 (1)
 
-https://www.aljazeera.com/indepth/opinion/police-covid-19-pandemic-excuse-abuse-roma-200511134616420.html
+https://perma.cc/9SAG-MYP2
 (2)
 
-https://www.aljazeera.com/indepth/opinion/death-toll-coronavirus-pandemic-200430085024188.htmlv
+https://perma.cc/J5Y2-YGES
 (3)
-
-https://www.dw.com/en/covid-19-lockdowns-expose-racial-bias-with-belgian-police/av-53954197
+https://perma.cc/2ERU-GWFB
 (4)
 
-https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-(5)
+https://perma.cc/5GX8-MFDL
 
-https://www.fairtrials.org/news/commentary-73-000-alleged-covid-19-breaches-belgium-now-time-launch-review
+(5)
+https://perma.cc/H3YJ-Y327
 (6)
 
-https://www.brusselstimes.com/news/belgium-all-news/justice-belgium/118185/lockdown-uncovered-disturbing-pattern-of-racial-bias-in-belgian-police-report/
-(7)
-
-https://www.amnesty.org/download/Documents/EUR1439192021ENGLISH.pdf
+hhttps://perma.cc/ZUF5-KK9S
 (8)
 
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=27052&LangID=E
+https://perma.cc/C48W-U23M
 (9)
+
+
+
 
 
 
@@ -861,12 +843,11 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=27052&LangID=E
 least 10 cases in which police ordered people to remove banners calling for “Justice for Adil” in the days after his death. The banners were hung on windows or the external facades of houses. Police told the press that local police regulations prohibit the display of banners on external facades. The order to remove the banners constitutes an unnecessary and arbitrary restriction of the right to freedom of expression.'' (1) 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
+ https://perma.cc/RS3F-V48N
 (1)
+https://perma.cc/ZUF5-KK9S
 
-https://www.amnesty.org/download/Documents/EUR1439192021ENGLISH.pdf
-
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=27052&LangID=E
+https://perma.cc/Y4TT-D9VE
 
 
 
@@ -910,17 +891,12 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=27052&LangID=E
  No de jure media limitations. 
 
 *Sources*:
- http://www.ejustice.just.fgov.be/mopdf/2020/03/14_1.pdf#Page2
-
-http://www.ejustice.just.fgov.be/mopdf/2020/03/18_3.pdf#Page3
-
-http://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&pub_date=2020-03-23&caller=summary&numac=2020030347
-
-http://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&pub_date=2020-03-24&caller=summary&numac=2020030361
-
-https://verfassungsblog.de/belgiums-accordion-response-to-covid-19/
-
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&table_name=loi&cn=2020102801
+ https://perma.cc/R2C3-YRPF
+https://perma.cc/Y7QE-TLFF
+https://perma.cc/EFU9-PU4B
+https://perma.cc/T56D-NDK4
+https://perma.cc/5AJE-LD6F
+https://perma.cc/PGF8-YDRN
 
 
 
@@ -1040,15 +1016,15 @@ http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&table_nam
  No evidence was found. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/belgium-report-covid-19-april-2020_en.pdf
+ https://perma.cc/L652-Z663
 
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/3L5V-WNR7
 
-https://cpj.org/europe/belgium/
+https://perma.cc/CNM6-UXSC
 
-https://www.ecpmf.eu/tag/covid19/
+https://perma.cc/A973-UJKK
 
-https://www.mappingmediafreedom.org/country-profiles/belgium/
+https://perma.cc/B9M4-VHTK
 
 
 
@@ -1091,19 +1067,15 @@ https://www.mappingmediafreedom.org/country-profiles/belgium/
  
 
 *Sources*:
- https://ipi.media/alerts/belgian-journalists-house-searched-after-breaking-story-on-alleged-vaccine-corruption/
+ https://perma.cc/G44W-4REL
 (1)
-
-https://journalist.be/2021/05/vvj-herinnert-aan-journalistiek-bronnengeheim-na-illegale-huiszoeking-bij-journalist-trudocs
+https://perma.cc/A5DS-J6RT
 (2)
 
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://cpj.org/europe/belgium/
-
-https://www.ecpmf.eu/tag/covid19/
-
-https://www.mappingmediafreedom.org/country-profiles/belgium/
+https://perma.cc/3Y34-CH4M
+https://perma.cc/HY2R-JCG5
+https://perma.cc/4CD5-M2JQ
+https://perma.cc/ZA9P-NUD6
 
 
 
@@ -1145,15 +1117,11 @@ https://www.mappingmediafreedom.org/country-profiles/belgium/
  No evidence was found. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/belgium-report-covid-19-april-2020_en.pdf
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://cpj.org/europe/belgium/
-
-https://www.ecpmf.eu/tag/covid19/
-
-https://www.mappingmediafreedom.org/country-profiles/belgium/
+ https://perma.cc/L652-Z663
+https://perma.cc/3L5V-WNR7
+https://perma.cc/CNM6-UXSC
+https://perma.cc/A973-UJKK
+https://perma.cc/B9M4-VHTK
 
 
 
@@ -1196,12 +1164,11 @@ https://www.mappingmediafreedom.org/country-profiles/belgium/
  No limitations on access to information, but ''the actual expert reports that were said to help determine the government response were only made available with a time delay.'' (2) 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/belgium-report-covid-19-april-2020_en.pdf
-
-https://www.vrt.be/vrtnws/nl/2020/06/08/gees-rapporten-publiek-gemaakt/
+ https://perma.cc/KDS7-H8QK
+https://perma.cc/GCW8-VM5K
 (2)
 
-https://www.mappingmediafreedom.org/country-profiles/belgium/
+https://perma.cc/V944-AKMA
 
 
 
@@ -1243,13 +1210,9 @@ https://www.mappingmediafreedom.org/country-profiles/belgium/
  No evidence was found. 
 
 *Sources*:
- https://www.mappingmediafreedom.org/country-profiles/belgium/
-
-
-https://cpj.org/europe/belgium/
-
-
-https://www.ecpmf.eu/tag/covid19/
+ https://perma.cc/6YTS-4FPJ
+https://perma.cc/HXU8-L3AY
+https://perma.cc/C9V3-J7TQ
 
 
 
@@ -1291,18 +1254,18 @@ https://www.ecpmf.eu/tag/covid19/
  On 6 May 2021, ''police searched the home of Belgian journalist Dirk Selis on the order of a judge after he made revelations in an article for the local media Trudocs of systematic vaccine corruption in the Belgian city of Sint-Truiden.'' (1, 2, 3) 
 
 *Sources*:
- https://ipi.media/alerts/belgian-journalists-house-searched-after-breaking-story-on-alleged-vaccine-corruption/
+ https://perma.cc/AY5T-JNK2
 (1)
 
-https://journalist.be/2021/05/vvj-herinnert-aan-journalistiek-bronnengeheim-na-illegale-huiszoeking-bij-journalist-trudocs
+https://perma.cc/83CG-TW4Z
 (2)
 
-https://www.mappingmediafreedom.org/country-profiles/belgium/
+https://perma.cc/4T7F-65SV
 (3)
 
-https://cpj.org/europe/belgium/
+https://perma.cc/FV8K-FJMY
 
-https://www.ecpmf.eu/tag/covid19/
+https://perma.cc/GA7U-8788
 
 
 
@@ -1346,11 +1309,9 @@ https://www.ecpmf.eu/tag/covid19/
  Belgium's national information resources website on Covid-19 is in line with WHO guidlines. Also, the government has tried to limit disinformation coming from non-official sources. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/belgium-report-covid-19-april-2020_en.pdf
-
-https://www.ecdc.europa.eu/en/COVID-19/national-sources
-
-https://www.info-coronavirus.be/en/faq/#faq
+ https://perma.cc/5AVN-WXGV
+https://perma.cc/58GL-A8DW
+https://perma.cc/TV66-D6VU
 
 
 
@@ -1399,33 +1360,34 @@ https://www.info-coronavirus.be/en/faq/#faq
  The Human Rights League collected allegations of abusive police practices between 18 March and 29 May 2020. In 36% of the cases police allegedly use the force unlawfully, in 21% of the cases they uttered insults. Forty per cent of the victims were racialized people.'' (5, 7) 
 
 *Sources*:
- https://www.enar-eu.org/Evidence-of-the-impact-of-Covid-19-on-racialised-communities-exposes-need-to
+ https://perma.cc/S5UF-M5AD
 (1)
 
-https://www.aljazeera.com/indepth/opinion/police-covid-19-pandemic-excuse-abuse-roma-200511134616420.html
+https://perma.cc/NH6Y-RQQP
 (2)
 
-https://www.aljazeera.com/indepth/opinion/death-toll-coronavirus-pandemic-200430085024188.htmlv
+https://perma.cc/J5Y2-YGES
 (3)
 
-https://www.dw.com/en/covid-19-lockdowns-expose-racial-bias-with-belgian-police/av-53954197
+https://perma.cc/VV2W-SQK8
 (4)
 
-https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
+https://perma.cc/5GX8-MFDL
 (5)
 
-https://www.fairtrials.org/news/commentary-73-000-alleged-covid-19-breaches-belgium-now-time-launch-review
+https://perma.cc/C5U8-RL49
 (6)
 
-https://www.brusselstimes.com/news/belgium-all-news/justice-belgium/118185/lockdown-uncovered-disturbing-pattern-of-racial-bias-in-belgian-police-report/
+https://perma.cc/E7RA-MZAW
 (7)
 
-https://obspol.be/actualite
+https://perma.cc/6Q6F-R5FM
+(8)
 
-https://www.france24.com/en/europe/20210401-belgian-police-clash-with-partiers-over-covid-19-restrictions
+https://perma.cc/UZ7D-2XAY
 (9)
 
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=27052&LangID=E
+https://perma.cc/6L2K-LP6Y
 (10)
 
 
@@ -1469,7 +1431,6 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=27052&LangID=E
 Soldiers were tasked with decontamination of medical vehicles, and rescue at the residential care centre. Law enforcement officials were tasked with enforcing the measures. (2) 
 
 *Sources*:
- https://www.brusselstimes.com/belgium/116044/belgium-in-brief-leopold-ii-falls/
-
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+ https://perma.cc/QBC6-WU7R
+https://perma.cc/QN3C-PHU8
 (2)

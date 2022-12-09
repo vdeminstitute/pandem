@@ -55,42 +55,19 @@ Mauritania, due to a surge of Covid-19 cases, reestablished a nighttime curfew o
 The curfew and other measures (like ban on gatherings, mandatory masks etc) are still in place by June 2021 (10). The curfew hours have been amended several times (see 11-14). 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Mauritania_2012.pdf?lang=en
-(1)
-
-http://fr.ami.mr/Depeche-53085.html
-(2)
-
-http://fr.ami.mr/Recherche-13
-(3)
-
-https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
-
-https://www.africanews.com/2020/03/21/covid-19-mauritania-enforces-curfew/
-
-https://fr.ami.mr/Depeche-56289.html
-(6)
-
-https://fr.ami.mr/Depeche-56291.html
-(7)
-
-https://www.arabnews.fr/node/40841/monde-arabe
-(8)
-
-https://www.rfi.fr/fr/afrique/20201213-covid-19-les-autorit%C3%A9s-mauritaniennes-tire-la-sonnette-d-alarme
-(9)
-
-https://mr.usembassy.gov/covid-19-information/
-(10)
-
-https://www.garda.com/crisis24/news-alerts/479751/mauritania-covid-19-restrictions-in-force-as-of-may-17-remain-largely-unchanged-by-comparison-with-those-in-effect-during-early-april-update-19
-(12)
-
-https://www.garda.com/crisis24/news-alerts/457031/mauritania-covid-19-restrictions-in-effect-nationwide-as-of-march-18-amended-international-travel-measures-in-place-update-16
-(13)
-
-https://www.garda.com/fr/crisis24/alertes-de-securite/465406/mauritania-authorities-amend-curfew-hours-to-0200-0600-through-may-13-update-18
-(14)
+ perma.cc/6JJ2-AGWF
+perma.cc/B2RZ-K73V
+perma.cc/R97Y-NUEC
+perma.cc/LQ4J-4FNB
+perma.cc/46QM-2FJ9
+perma.cc/MDR7-BK5K
+perma.cc/9UPL-P7FR
+perma.cc/YH4W-KSZF
+perma.cc/6BKD-4MQC
+perma.cc/SQN7-Y3LM
+perma.cc/PN6K-GL8T
+perma.cc/HA64-36C9
+perma.cc/L7AP-7P3E
 
 
 
@@ -129,7 +106,7 @@ https://www.garda.com/fr/crisis24/alertes-de-securite/465406/mauritania-authorit
 *No comment provided* 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Mauritania_2012.pdf?lang=en
+ perma.cc/6JJ2-AGWF
 
 
 
@@ -168,13 +145,16 @@ https://www.garda.com/fr/crisis24/alertes-de-securite/465406/mauritania-authorit
  The first measures were taken in March 2020, but article 60 of the Constitution that gives special powers to the government to rule by ordinances was invoked on 1 April 2020. 
 
 *Sources*:
- http://fr.ami.mr/Depeche-53085.html
+ perma.cc/7N9C-9H96
 
-http://fr.ami.mr/Depeche-52875.html
 
-http://fr.ami.mr/Depeche-52861.html
+perma.cc/KV43-TSHA
 
-http://fr.ami.mr/Recherche-13
+
+perma.cc/U4TJ-TGMJ
+
+
+perma.cc/R97Y-NUEC
 
 
 
@@ -213,14 +193,16 @@ http://fr.ami.mr/Recherche-13
  'The government of Mauritania eased measures and domestic restrictions taken under Article 60 Constitution nationwide from 10 July 2020: this includes the restriction on movement between regions and the nightly 2000-0600 curfew, as well as the reopening of the airports for domestic flights. The use of protective masks is compulsory in all public spaces. The easing of these restrictions follows the resumption of public religious ceremonies and the opening of markets and restaurants nationwide.'' (2) 
 
 *Sources*:
- https://reliefweb.int/report/mauritania/unicef-mauritania-covid-19-situation-report-no-12-19-september-20-october-2020
+ perma.cc/8PX8-WYHL
 
-https://www.worldaware.com/covid-19-alert-mauritania-ease-domestic-restrictions-july-10
-(2)
 
-https://afrique.le360.ma/mauritanie/societe/2020/07/09/31099-mauritanie-levee-du-couvre-feu-et-de-linterdiction-des-voyages-inter-regions-31099
+perma.cc/WL2S-8RWV
 
-https://reliefweb.int/report/mauritania/unicef-mauritania-covid-19-situation-report-no-10-23-july-19-august-2020
+
+perma.cc/4QV9-73ZF
+
+
+perma.cc/6G3D-AQND
 
 
 
@@ -264,13 +246,13 @@ https://reliefweb.int/report/mauritania/unicef-mauritania-covid-19-situation-rep
 ''The Council examined and approved a draft enabling law authorizing the Government, in application of article 60 of the Constitution, to take by ordinances during a limited time, all the necessary measures, which are normally of the domain of the law, to fight the Covid-19 pandemic.'' (2). 
 
 *Sources*:
- https://fr.ami.mr/Depeche-52930.html
-(1)
+ perma.cc/GEE4-UETL
 
-http://fr.ami.mr/Depeche-53085.html
-(2)
 
-https://www.constituteproject.org/constitution/Mauritania_2012.pdf?lang=en
+perma.cc/7N9C-9H96
+
+
+perma.cc/6JJ2-AGWF
 
 
 
@@ -311,10 +293,10 @@ https://www.constituteproject.org/constitution/Mauritania_2012.pdf?lang=en
 ''The Council examined and approved a draft enabling law authorizing the Government, in application of article 60 of the Constitution, to take by ordinances during a limited time, all the necessary measures, which are normally of the domain of the law, to fight the Covid-19 pandemic.'' (1) 
 
 *Sources*:
- http://fr.ami.mr/Depeche-53085.html
-(1)
+ perma.cc/7N9C-9H96
 
-https://www.constituteproject.org/constitution/Mauritania_2012.pdf?lang=en
+
+perma.cc/6JJ2-AGWF
 
 
 
@@ -357,7 +339,7 @@ https://www.constituteproject.org/constitution/Mauritania_2012.pdf?lang=en
  
 
 *Sources*:
- https://www.constituteproject.org/constitution/Mauritania_2012.pdf?lang=en
+ perma.cc/6JJ2-AGWF
 
 
 
@@ -399,9 +381,10 @@ https://www.constituteproject.org/constitution/Mauritania_2012.pdf?lang=en
  'The National Assembly adopted on 7 April 2020 the enabling bill authorizing the government, in application of article 60 of the Constitution, to take by ordinances, all the measures necessary to fight against the pandemic of Covid-19 and all its effects.'' (2) 
 
 *Sources*:
- http://fr.ami.mr/Depeche-53176.html
+ https://perma.cc/BLD2-E29V
+(1)
 
-http://fr.alakhbar.info/15472-0-Mauritanie-adoption-de-la-loi-dhabilitation-contre-le-Covid-19.html
+https://perma.cc/8JNQ-5MD6
 (2)
 
 
@@ -451,15 +434,19 @@ http://fr.alakhbar.info/15472-0-Mauritanie-adoption-de-la-loi-dhabilitation-cont
 Social distancing measures in place - the Parliament continues sessions. 
 
 *Sources*:
- http://fr.ami.mr/Depeche-53088.htmlhttp://fr.ami.mr/Depeche-53087.html
+ perma.cc/HW2T-WZGA
 
-https://www.constituteproject.org/constitution/Mauritania_2012.pdf?lang=en
-(2)
 
-http://fr.ami.mr/Depeche-53085.html
+perma.cc/3XQR-C599
 
-http://fr.alakhbar.info/15472-0-Mauritanie-adoption-de-la-loi-dhabilitation-contre-le-Covid-19.html
-(4)
+
+perma.cc/6JJ2-AGWF
+
+
+perma.cc/7N9C-9H96
+
+
+perma.cc/8JNQ-5MD6
 
 
 
@@ -586,33 +573,15 @@ During Q1 and Q2 of 2021,the measures were nationwide. A night curfew was in pla
  
 
 *Sources*:
- http://fr.ami.mr/Depeche-52866.html
-(1)
-
-http://www.ituc-africa.org/Mauritania-Facing-the-pandemic-of-COVID-19.html
-(2)
-
-https://www.garda.com/crisis24/news-alerts/344076/mauritania-authorities-announce-travel-ban-for-nouakchott-and-kiffa-assaba-region-may-19-update-5
-(3)
-https://reliefweb.int/report/mauritania/unicef-mauritania-covid-19-situation-report-no-12-19-september-20-october-2020
-(4)
-
-https://www.garda.com/crisis24/news-alerts/432261/mauritania-authorities-enforcing-covid-19-domestic-restrictions-as-of-jan-20-update-14
-(5)
-
-https://www.garda.com/crisis24/news-alerts/452416/mauritania-covid-19-restrictions-in-effect-nationwide-as-of-march-8-remain-largely-unchanged-by-comparison-with-late-january-update-15
-(6)
-
-https://www.garda.com/crisis24/news-alerts/457031/mauritania-covid-19-restrictions-in-effect-nationwide-as-of-march-18-amended-international-travel-measures-in-place-update-16
-(7)
-
-https://www.garda.com/crisis24/news-alerts/479751/mauritania-covid-19-restrictions-in-force-as-of-may-17-remain-largely-unchanged-by-comparison-with-those-in-effect-during-early-april-update-19
-(8)
-
-https://mr.usembassy.gov/covid-19-information-2/
-(9)
-
-
+ perma.cc/77AM-PHX3
+perma.cc/Y354-XDPX
+perma.cc/JQ7V-UA6X
+perma.cc/UCH2-HZ5K
+perma.cc/DX24-FWU9
+perma.cc/5HJM-AWTY
+perma.cc/A797-QQM4
+perma.cc/S886-KW8H
+perma.cc/4C8Y-9Z7T
 
 
 
@@ -657,19 +626,13 @@ https://mr.usembassy.gov/covid-19-information-2/
 However, rights groups have expressed that the harsh measures imposed to fight the virus have only intensified the social exclusion and discrimination Haratins already face. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mauritania/
-
-https://mr.usembassy.gov/covid-19-information-2/
-
-https://www.antislavery.org/mauritania-lockdown-helping-the-most-vulnerable/
-
-https://www.africanews.com/2020/03/21/covid-19-mauritania-enforces-curfew/
-
-http://fr.ami.mr/Recherche-9
-
-http://fr.ami.mr/Depeche-52875.html
-
-https://unpo.org/article/21867
+ perma.cc/44EQ-UY7Y
+perma.cc/WN5Q-7T5M
+perma.cc/UJW7-9GJB
+perma.cc/Y6W4-H7BX
+perma.cc/PEQ9-MYHK
+perma.cc/7Z5Y-P6M5
+perma.cc/UZP7-UFC8
 
 
 
@@ -718,19 +681,28 @@ https://unpo.org/article/21867
  No violation of non-derogable rights. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mauritania/
+ perma.cc/7J2H-8824
 
-https://mr.usembassy.gov/covid-19-information-2/
 
-https://www.antislavery.org/mauritania-lockdown-helping-the-most-vulnerable/
+perma.cc/RP6Q-AJN2
 
-https://www.africanews.com/2020/03/21/covid-19-mauritania-enforces-curfew/
 
-http://fr.ami.mr/Recherche-9
+perma.cc/98NW-R44X
 
-http://fr.ami.mr/Depeche-52875.html
 
-https://unpo.org/article/21867
+perma.cc/6URG-9PBR
+
+
+perma.cc/F23M-LWJT
+
+
+perma.cc/5R6D-T48U
+
+
+perma.cc/X4TJ-KLMH
+
+
+
 
 
 
@@ -774,17 +746,22 @@ https://unpo.org/article/21867
  No de jure media limitations. 
 
 *Sources*:
- https://mr.usembassy.gov/covid-19-information-2/
+ perma.cc/XB3K-MJTH
 
-https://www.africanews.com/2020/03/21/covid-19-mauritania-enforces-curfew/
 
-http://fr.ami.mr/Recherche-9http://fr.ami.mr/Depeche-52875.html
+perma.cc/396D-UDVQ
 
-https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
 
-https://fr.ami.mr/Depeche-56289.html
+perma.cc/KV43-TSHA
 
-https://fr.ami.mr/Depeche-56291.html
+
+perma.cc/B6CV-B7EV
+
+
+perma.cc/UY44-8RPV
+
+
+perma.cc/CTG7-WSUV
 
 
 
@@ -907,31 +884,34 @@ Many opposition parliamentarians as well as human rights activists denounced the
  
 
 *Sources*:
- https://www.middleeasteye.net/news/fear-more-cases-mauritania-claims-total-control-over-coronavirus-spread
-(1)
+ perma.cc/FY39-6FDE
 
-https://www.hrw.org/world-report/2021/country-chapters/mauritania
-(2)
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mauritania/
-(3)
+perma.cc/6DYT-QYTY
 
-https://www.hrw.org/news/2020/08/01/mauritania-president-should-lead-reform-process
-(4)
 
-https://assafirarabi.com/ar/32154/2020/07/08/%D9%85%D8%B9%D8%B1%D9%83%D8%A9-%D9%82%D9%88%D8%A7%D9%86%D9%8A%D9%86-%D8%A7%D9%84%D9%86%D8%B4%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D9%81%D9%8A-%D9%85%D9%88%D8%B1/
-(5)
+perma.cc/4DZS-TBDJ
 
-https://www.mfwa.org/fr/country-highlights/la-mauritanie-adopte-une-loi-sur-les-fausses-publications-dans-un-contexte-de-repression-de-la-dissidence-en-ligne/#:~:text=Le%2024%20juin%202020%2C%20l,ambigu%C3%AFt%C3%A9s%20%C2%BB%20et%20%C2%AB%20inexactitudes%20%C2%BB.
-(6)
 
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/Z5CE-4FNA
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
 
-https://cpj.org/mideast/mauritania/
+perma.cc/JN9P-WMF3
 
-https://unpo.org/article/21867
+
+perma.cc/HYA3-G9EG
+
+
+perma.cc/JS7W-MAVG
+
+
+perma.cc/NRQ3-SHRP
+
+
+perma.cc/MLX3-DEPU
+
+
+perma.cc/3ACK-3YY3
 
 
 
@@ -976,33 +956,17 @@ On 24 June 2020, the National Assembly approved a new law - the Law on Combattin
 Many opposition parliamentarians as well as human rights activists denounced the law, declaring that it risks undermining the freedoms guaranteed by the Constitution (3). 
 
 *Sources*:
- https://allafrica.com/stories/202009140921.html
-(1)
-
-https://www.hrw.org/world-report/2021/country-chapters/mauritania
-(2)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mauritania/
-(3)
-
-https://www.hrw.org/news/2020/08/01/mauritania-president-should-lead-reform-process
-(4)
-
-https://assafirarabi.com/ar/32154/2020/07/08/%D9%85%D8%B9%D8%B1%D9%83%D8%A9-%D9%82%D9%88%D8%A7%D9%86%D9%8A%D9%86-%D8%A7%D9%84%D9%86%D8%B4%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D9%81%D9%8A-%D9%85%D9%88%D8%B1/
-(5)
-
-https://www.mfwa.org/fr/country-highlights/la-mauritanie-adopte-une-loi-sur-les-fausses-publications-dans-un-contexte-de-repression-de-la-dissidence-en-ligne/#:~:text=Le%2024%20juin%202020%2C%20l,ambigu%C3%AFt%C3%A9s%20%C2%BB%20et%20%C2%AB%20inexactitudes%20%C2%BB.
-(6)
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://cpj.org/mideast/mauritania/
-
-https://www.middleeasteye.net/news/fear-more-cases-mauritania-claims-total-control-over-coronavirus-spread
-
-https://unpo.org/article/21867
+ perma.cc/6HHP-AUC8
+perma.cc/Z3ZZ-TCSX
+perma.cc/4L8J-2BYZ
+perma.cc/KDZ5-8YUQ
+perma.cc/M5YB-R7SK
+perma.cc/Q5WH-H3UA
+perma.cc/59BA-Q6H7
+perma.cc/6YVJ-NAB9
+perma.cc/YZL9-SAB6
+perma.cc/D4L4-UG4H
+perma.cc/L4YF-5G73
 
 
 
@@ -1047,31 +1011,35 @@ Many opposition parliamentarians as well as human rights activists denounced the
  
 
 *Sources*:
- https://www.middleeasteye.net/news/fear-more-cases-mauritania-claims-total-control-over-coronavirus-spread
+ perma.cc/FY39-6FDE
 (1)
 
-https://www.hrw.org/world-report/2021/country-chapters/mauritania
+perma.cc/6DYT-QYTY
 (2)
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mauritania/
+perma.cc/4DZS-TBDJ
 (3)
 
-https://www.hrw.org/news/2020/08/01/mauritania-president-should-lead-reform-process
+perma.cc/Z5CE-4FNA
 (4)
 
-https://assafirarabi.com/ar/32154/2020/07/08/%D9%85%D8%B9%D8%B1%D9%83%D8%A9-%D9%82%D9%88%D8%A7%D9%86%D9%8A%D9%86-%D8%A7%D9%84%D9%86%D8%B4%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D9%81%D9%8A-%D9%85%D9%88%D8%B1/
+perma.cc/JN9P-WMF3
 (5)
 
-https://www.mfwa.org/fr/country-highlights/la-mauritanie-adopte-une-loi-sur-les-fausses-publications-dans-un-contexte-de-repression-de-la-dissidence-en-ligne/#:~:text=Le%2024%20juin%202020%2C%20l,ambigu%C3%AFt%C3%A9s%20%C2%BB%20et%20%C2%AB%20inexactitudes%20%C2%BB.
+perma.cc/HYA3-G9EG
 (6)
 
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/JS7W-MAVG
+(7)
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
+perma.cc/NRQ3-SHRP
+(8)
 
-https://cpj.org/mideast/mauritania/
+perma.cc/MLX3-DEPU
+(9)
 
-https://unpo.org/article/21867
+perma.cc/3ACK-3YY3
+(10)
 
 
 
@@ -1118,31 +1086,34 @@ However, no reports of the government or its agents limiting media access to Cov
  
 
 *Sources*:
- https://www.middleeasteye.net/news/fear-more-cases-mauritania-claims-total-control-over-coronavirus-spread
-(1)
+ perma.cc/FY39-6FDE
 
-https://www.hrw.org/world-report/2021/country-chapters/mauritania
-(2)
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mauritania/
-(3)
+perma.cc/6DYT-QYTY
 
-https://www.hrw.org/news/2020/08/01/mauritania-president-should-lead-reform-process
-(4)
 
-https://assafirarabi.com/ar/32154/2020/07/08/%D9%85%D8%B9%D8%B1%D9%83%D8%A9-%D9%82%D9%88%D8%A7%D9%86%D9%8A%D9%86-%D8%A7%D9%84%D9%86%D8%B4%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D9%81%D9%8A-%D9%85%D9%88%D8%B1/
-(5)
+perma.cc/4DZS-TBDJ
 
-https://www.mfwa.org/fr/country-highlights/la-mauritanie-adopte-une-loi-sur-les-fausses-publications-dans-un-contexte-de-repression-de-la-dissidence-en-ligne/#:~:text=Le%2024%20juin%202020%2C%20l,ambigu%C3%AFt%C3%A9s%20%C2%BB%20et%20%C2%AB%20inexactitudes%20%C2%BB.
-(6)
 
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/Z5CE-4FNA
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
 
-https://cpj.org/mideast/mauritania/
+perma.cc/JN9P-WMF3
 
-https://unpo.org/article/21867
+
+perma.cc/HYA3-G9EG
+
+
+perma.cc/JS7W-MAVG
+
+
+perma.cc/NRQ3-SHRP
+
+
+perma.cc/MLX3-DEPU
+
+
+perma.cc/3ACK-3YY3
 
 
 
@@ -1184,18 +1155,22 @@ https://unpo.org/article/21867
  No evidence was found. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mauritania/
-
-https://www.hrw.org/world-report/2021/country-chapters/mauritania
-
-https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
+ perma.cc/8HSF-SAQP
 
 
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/SU7H-HJNT
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
 
-https://cpj.org/mideast/mauritania/
+perma.cc/7L3Z-B834
+
+
+perma.cc/7GST-6LDE
+
+
+perma.cc/ZH5E-RVWT
+
+
+perma.cc/UMF7-CJQ3
 
 
 
@@ -1239,21 +1214,25 @@ https://cpj.org/mideast/mauritania/
 On 2 June 2020, the police arrested Salma Mint Tolba, the alleged author of a series of audio recordings questioning aspects of the government's response to the Covid-19. Notably, she accused the authorities of inflating the number of infections. Two other people, Mohamed Ould Semmane and Sidi Mohamed Ould Beyah, who were suspected to have participated in the dissemination of the audio, were also arrested.'' (1) 
 
 *Sources*:
- https://allafrica.com/stories/202009140921.html
-(1)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mauritania/
-
-https://www.hrw.org/world-report/2021/country-chapters/mauritania
-
-https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
+ perma.cc/HH79-MC6W
 
 
-https://cpj.org/mideast/mauritania/
+perma.cc/7AST-3D3N
+
+
+perma.cc/L9SM-9DQT
+
+
+perma.cc/5ATN-V6SZ
+
+
+perma.cc/8UGV-8R6G
+
+
+perma.cc/RLA4-JB7C
+
+
+perma.cc/52UQ-7HV5
 
 
 
@@ -1300,10 +1279,10 @@ The shipment included 75,000 packs of chloroquine and 15,000 packs of Azithromyc
 Hydroxychloroquine has been part of Mauritania's treatment protocol adopted against Covid-19. No evidence was found on whether the government changed its policy on the use of chloroquine after June 2020. We code as 0 for quarters after Q2 2020 because we no longer found reports of the government using or promoting chloroquine. We do not know if it continued in practice. 
 
 *Sources*:
- https://northafricapost.com/41720-mauritania-others-welcomes-royal-decision-to-dispatch-medical-aid-to-african-countries.html
-(1)
+ perma.cc/FTU3-N58B
 
-https://afrique.le360.ma/maroc-mauritanie/politique/2020/06/14/30862-video-mauritanie-nouakchott-reception-dune-importante-aide-medicale-marocaine-pour
+
+perma.cc/36WS-BARQ
 
 
 
@@ -1353,17 +1332,19 @@ Another incident was found, but it hasn't been possible to verify if the informa
 The young man, father of six, was helping a dark man and his nephew with the transport of merchandise when a gunshot hit him fatally in the chest.'' (2) 
 
 *Sources*:
- https://www.middleeasteye.net/news/fear-more-cases-mauritania-claims-total-control-over-coronavirus-spread
-(1)
+ perma.cc/93Z4-KN7U
 
-https://www.focusonafrica.info/en/mauritania-state-police-kills-another-innocent-black-citizen/
-(2)
 
-https://www.worldaware.com/covid-19-alert-mauritania-ease-domestic-restrictions-july-10
+perma.cc/X97J-KSKQ
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mauritania/
 
-https://www.hrw.org/world-report/2021/country-chapters/mauritania
+perma.cc/R377-PQZK
+
+
+perma.cc/LPJ3-3BZN
+
+
+perma.cc/Y9F3-F548
 
 
 
@@ -1406,9 +1387,10 @@ https://www.hrw.org/world-report/2021/country-chapters/mauritania
  
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mauritania/
+ perma.cc/9B4X-HPHN
 
-https://afrique.le360.ma/mauritanie-senegal/politique/2020/03/21/29894-coronavirus-mauritanie-senegal-fermeture-de-la-frontiere-terrestre-entre-les-deux
+
+perma.cc/7YCS-ACSG
 
 
 

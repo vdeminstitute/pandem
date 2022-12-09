@@ -49,24 +49,15 @@ Coded as 1 instead of 2 because the Constitution does not offer a distinct provi
 The state of health emergency in Chad is still in place and was last extended through 11 September 2021, after consecutive extensions and it has never been lifted (8). 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Chad_2018.pdf?lang=en
-(1)
+ [1]	perma.cc/QM7B-RTAP
+[2]	perma.cc/EEX9-RZYC
+[3]	https://www.facebook.com/watch/?v=273032193715366
 
-https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=fr&p_isn=68934&p_country=TCD&p_count=155
-(2)
-
-https://www.facebook.com/watch/?v=273032193715366
-
-https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
-
-https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
-
-https://www.alwihdainfo.com/Tchad-etat-d-urgence-sanitaire-les-precisions-du-gouvernement_a86510.html
-
-https://reliefweb.int/report/chad/chad-quick-alerts-23-october-2020#:~:text=On%2016%20October%2C%20the%20National,the%20spread%20of%20COVID%2D19.
-
-https://tchadinfos.com/politique/tchad-le-couvre-feu-leve-letat-durgence-sanitaire-proroge-pour-six-mois/
-(8)
+[4]	perma.cc/TQK6-LGFS
+[5]	perma.cc/S2ZG-C3QS
+[6]	perma.cc/5WUA-UW6R
+[7]	perma.cc/P9PS-KGCN
+[8]	perma.cc/WG37-J28C
 
 
 
@@ -111,17 +102,11 @@ Order 044 du 27 octobre 1962 relative à l'état d'urgence
  
 
 *Sources*:
- https://www.constituteproject.org/constitution/Chad_2018.pdf?lang=en
-(1)
+ [1]	perma.cc/5TC2-FTFB
+[2]	perma.cc/MMK2-6KLA
+[3]	https://www.facebook.com/watch/?v=273032193715366
 
-https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=fr&p_isn=68934&p_country=TCD&p_count=155
-(2)
-
-https://www.facebook.com/watch/?v=273032193715366
-(3)
-
-https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
-(4)
+[4]	perma.cc/S6V4-49B8
 
 
 
@@ -160,13 +145,13 @@ https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire
  The state of health emergency is decreed throughout the territory for a period of 21 days, according to decree no 0708 of 25 April 2020. (1, 2) 
 
 *Sources*:
- https://www.facebook.com/watch/?v=273032193715366
-(1)
+ [1]
+https://www.facebook.com/watch/?v=273032193715366
 
-https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
-(2)
-
-https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
+[2]
+perma.cc/2Z53-XF66
+[3]
+perma.cc/5BHM-74NS
 
 
 
@@ -205,9 +190,8 @@ https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes
  State of emergency is still in place. On 11 March 2021, the National Assembly agreed to extend the health state of emergency for six more months, until 11 September 2021. 
 
 *Sources*:
- https://tchadinfos.com/politique/tchad-le-couvre-feu-leve-letat-durgence-sanitaire-proroge-pour-six-mois/
-
-
+ [1]
+perma.cc/WG37-J28C
 
 
 
@@ -250,17 +234,13 @@ https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes
 The state of emergency is still in place: On 11 March 2021, the National Assembly agreed to extend the health state of emergency for six more months, until 11 September 2021. 
 
 *Sources*:
- https://www.facebook.com/watch/?v=273032193715366
+ [1]	https://www.facebook.com/watch/?v=273032193715366
 
-https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
-
-https://www.alwihdainfo.com/Tchad-l-etat-d-urgence-sanitaire-prolonge-de-3-mois_a89969.html
-
-https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
-
-https://reliefweb.int/report/chad/chad-quick-alerts-23-october-2020#:~:text=On%2016%20October%2C%20the%20National,the%20spread%20of%20COVID%2D19.
-
-https://tchadinfos.com/politique/tchad-le-couvre-feu-leve-letat-durgence-sanitaire-proroge-pour-six-mois/
+[2]	perma.cc/VM6Z-FSPQ
+[3]	perma.cc/5VPE-4FBT
+[4]	perma.cc/9BNK-T7T8
+[5]	perma.cc/EQ26-E7XY
+[6]	perma.cc/4XXD-DABR
 
 
 
@@ -302,15 +282,12 @@ The state of emergency is still in place: on 11 March 2021, the National Assembl
  
 
 *Sources*:
- https://www.facebook.com/watch/?v=273032193715366
+ [1]	https://www.facebook.com/watch/?v=273032193715366
 
-https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
-
-https://www.alwihdainfo.com/Tchad-l-etat-d-urgence-sanitaire-prolonge-de-3-mois_a89969.html
-
-https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
-
-https://tchadinfos.com/politique/tchad-le-couvre-feu-leve-letat-durgence-sanitaire-proroge-pour-six-mois/
+[2]	perma.cc/VM6Z-FSPQ
+[3]	perma.cc/5VPE-4FBT
+[4]	perma.cc/9BNK-T7T8
+[5]	perma.cc/4XXD-DABR
 
 
 
@@ -355,7 +332,8 @@ This period may only be extended after the conforming opinion of the National As
 Article 130 The state of siege and the state of urgency are decreed in the Council of Ministers. The President of the Republic informs the National Assembly of it. Their extension beyond twenty-one (21) days may only be authorized by the National Assembly. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Chad_2018.pdf?lang=en
+ [1]
+perma.cc/F6B6-MEDN
 
 
 
@@ -399,17 +377,11 @@ The second and third extensions (17 July 2020 - 17 October 2020, and 16 October 
 The last extension, on 11 March 2021 until 11 September 2021 was also approved by the National Assembly (5). 
 
 *Sources*:
- https://www.alwihdainfo.com/Tchad-l-etat-d-urgence-sanitaire-proroge-de-deux-mois_a87500.html
-
-https://www.alwihdainfo.com/Tchad-l-etat-d-urgence-sanitaire-prolonge-de-3-mois_a89969.html
-
-https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
-
-https://reliefweb.int/report/chad/chad-quick-alerts-23-october-2020#:~:text=On%2016%20October%2C%20the%20National,the%20spread%20of%20COVID%2D19.
-
-
-https://tchadinfos.com/politique/tchad-le-couvre-feu-leve-letat-durgence-sanitaire-proroge-pour-six-mois/
-(5)
+ [1]	perma.cc/VM6Z-FSPQ
+[2]	perma.cc/5VPE-4FBT
+[3]	perma.cc/9BNK-T7T8
+[4]	perma.cc/EQ26-E7XY
+[5]	perma.cc/4XXD-DABR
 
 
 
@@ -461,21 +433,12 @@ The National Assembly however has approved the extensions of the state of emerge
 Procedural change, Parliamentary oversight: oral questions and interellations continue, Plenary: proxy vote (through a reform passed on 22 May 2020 allowing proxy voting), reduced staff on site (1). 
 
 *Sources*:
- https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-(1)
-
-https://tchadinfos.com/politique/coronavirus-au-tchad-qui-sont-dispenses-de-leur-presence-a-lassemblee-nationale/
-(2)
-
-https://www.alwihdainfo.com/Tchad-Covid-19-dispense-de-seance-a-l-Assemblee-nationale-qui-est-concerne_a84717.html
-(3)
-
-https://www.idea.int/news-media/multimedia-reports/global-overview-covid-19-impact-elections
-
-https://www.macaubusiness.com/chad-postpones-long-delayed-legislative-vote-over-virus/
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-(5)
+ https://perma.cc/B2CV-HXHC
+https://perma.cc/MY8J-V8YT
+https://perma.cc/AV8U-W9C7
+https://perma.cc/CG8V-6GB6
+https://perma.cc/E9JJ-WBWC
+https://perma.cc/W4SB-7NHK
 
 
 
@@ -605,19 +568,13 @@ The state of emergency is still in place and extended through September 2021 but
  
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/405421/chad-authorities-extend-nightly-curfew-in-multiple-areas-until-december-15-update-22
-
-https://reliefweb.int/report/chad/chad-quick-alerts-23-october-2020#:~:text=On%2016%20October%2C%20the%20National,the%20spread%20of%20COVID%2D19.
-
-https://www.garda.com/crisis24/news-alerts/370001/chad-authorities-extend-nightly-curfew-in-ndjamena-and-other-regions-through-august-31-update-15
-
-https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
-
-https://www.aa.com.tr/fr/afrique/tchad-covid-19-fin-de-onze-mois-de-couvre-feu/2171788
-
-https://tchadinfos.com/politique/covid-19-le-comite-de-gestion-de-la-crise-sanitaire-propose-la-levee-du-couvre-feu/
-
-https://www.garda.com/crisis24/news-alerts/484521/chad-covid-19-related-measures-remain-largely-unchanged-in-chad-as-of-may-28-update-36
+ https://web.archive.org/web/20201201031447/https://www.garda.com/crisis24/news-alerts/405421/chad-authorities-extend-nightly-curfew-in-multiple-areas-until-december-15-update-22
+https://perma.cc/G6D8-NBV2
+https://perma.cc/HG4D-HLQQ
+https://perma.cc/8UVS-A4NH
+https://perma.cc/MX9A-7K8N
+https://perma.cc/AZD9-BN7F
+https://perma.cc/T6KN-G4W8
 
 
 
@@ -661,16 +618,12 @@ https://www.garda.com/crisis24/news-alerts/484521/chad-covid-19-related-measures
  Nothing mentioned in the emergency measures, nor in reports on human rights violations. 
 
 *Sources*:
- https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
-
-https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/chad/
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-
+ [1]	perma.cc/A3LJ-FKUB
+[2]	perma.cc/YSV9-SGAZ
+[3]	perma.cc/7ZQE-M3X8
+[4]	perma.cc/7B47-4JGT
+[5]
+https://perma.cc/LS2H-DVMB
 
 
 
@@ -720,15 +673,12 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
  Nothing mentioned in the emergency measures, nor in reports on human rights violations. 
 
 *Sources*:
- https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
+ https://perma.cc/V2J5-TQ5G
+https://perma.cc/BHS3-MMLJ
+https://perma.cc/N7ZL-WNSB
+https://perma.cc/XFN8-GKY9
+https://perma.cc/RVZ9-TY9S
 
-https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/chad/
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
 
 
 
@@ -772,10 +722,9 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
  No de jure media limitations mentioned in the emergency measures. 
 
 *Sources*:
- https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
-
-https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
-
+ https://perma.cc/6TXA-T9GW
+https://perma.cc/PT62-QME4
+html
 https://www.facebook.com/watch/?v=273032193715366
 
 
@@ -903,24 +852,14 @@ In Q1 and Q2 of 2021 ''Chadian authorities have stepped up restrictions on civic
  
 
 *Sources*:
- https://www.alwihdainfo.com/Tchad-l-UJT-condamne-la-brutalite-policiere-contre-des-journalistes-de-la-Tele-Tchad_a84903.html
-(1)
-
-https://rsf.org/en/news/chadian-police-attack-tv-crew-covering-coronavirus-measures
-(2)
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/news/many-historic-publications-threatened-closure-chad
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/chad/
-
-https://www.hrw.org/news/2021/04/08/chad-pre-election-crackdown-opponents#
-
-https://www.amnesty.org/en/latest/news/2021/04/tchad-les-coupures-internet-une-entrave-la-liberte-dexpression/
-(7)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/chad/
+ https://perma.cc/RU8K-7ZSP
+https://perma.cc/8KC7-CY3U
+https://perma.cc/3SJV-TGU3
+https://perma.cc/LT3F-RLP5
+https://perma.cc/5RT9-86UP
+https://perma.cc/46FD-L297
+https://perma.cc/5WBE-5P6M
+https://perma.cc/3H27-WHJR
 
 
 
@@ -969,24 +908,14 @@ In Q1 and Q2 of 2021 ''Chadian authorities have stepped up restrictions on civic
  
 
 *Sources*:
- https://www.alwihdainfo.com/Tchad-l-UJT-condamne-la-brutalite-policiere-contre-des-journalistes-de-la-Tele-Tchad_a84903.html
-(1)
-
-https://rsf.org/en/news/chadian-police-attack-tv-crew-covering-coronavirus-measures
-(2)
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/news/many-historic-publications-threatened-closure-chad
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/chad/
-
-https://www.hrw.org/news/2021/04/08/chad-pre-election-crackdown-opponents#
-
-https://www.amnesty.org/en/latest/news/2021/04/tchad-les-coupures-internet-une-entrave-la-liberte-dexpression/
-(7)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/chad/
+ https://perma.cc/RU8K-7ZSP
+https://perma.cc/8KC7-CY3U
+https://perma.cc/3SJV-TGU3
+https://perma.cc/LT3F-RLP5
+https://perma.cc/5RT9-86UP
+https://perma.cc/46FD-L297
+https://perma.cc/5WBE-5P6M
+https://perma.cc/3H27-WHJR
 
 
 
@@ -1032,16 +961,11 @@ In Q1 and Q2 of 2021 ''Chadian authorities have stepped up restrictions on civic
 No specific incidents linked to Covid-19 were found. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/news/many-historic-publications-threatened-closure-chad
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/chad/
-
-https://www.hrw.org/news/2021/04/08/chad-pre-election-crackdown-opponents#
-
-https://www.amnesty.org/en/latest/news/2021/04/tchad-les-coupures-internet-une-entrave-la-liberte-dexpression/
-(5)
+ https://perma.cc/9F38-72NV
+https://perma.cc/LT3F-RLP5
+https://perma.cc/KXN4-U8GP
+https://perma.cc/46FD-L297
+https://perma.cc/5WBE-5P6M
 
 
 
@@ -1088,18 +1012,12 @@ In Q1 and Q2 of 2021 ''Chadian authorities have stepped up restrictions on civic
 No specific incidents linked to Covid-19 were found. 
 
 *Sources*:
- https://rsf.org/en/news/many-historic-publications-threatened-closure-chad
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/chad
-
-https://www.amnesty.org/en/latest/news/2021/04/tchad-les-coupures-internet-une-entrave-la-liberte-dexpression/
-(5)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/chad/
+ https://perma.cc/H6NA-9FNU
+https://perma.cc/29CE-CR2U
+https://perma.cc/K4G2-J467
+https://perma.cc/Y8Q2-MYJT
+https://perma.cc/9NDG-26NC
+https://perma.cc/PDD3-HNTC
 
 
 
@@ -1143,25 +1061,14 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cha
 In Q1 and Q2 of 2021 ''Chadian authorities have stepped up restrictions on civic space in recent months with long internet shutdowns, arbitrary arrests, and violations of freedoms of protest and peaceful assembly, Amnesty International said ahead of the 11 April 2021 presidential election.'' (5). These are not related to Covid-19 news coverage. 
 
 *Sources*:
- https://www.alwihdainfo.com/Tchad-l-UJT-condamne-la-brutalite-policiere-contre-des-journalistes-de-la-Tele-Tchad_a84903.html
-(1)
-
-https://rsf.org/en/news/chadian-police-attack-tv-crew-covering-coronavirus-measures
-(2)
-
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://www.amnesty.org/en/latest/news/2021/04/tchad-les-coupures-internet-une-entrave-la-liberte-dexpression/
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/chad/
-
-
+ https://perma.cc/FX3L-JXCE
+https://perma.cc/S4WM-24C5
+https://perma.cc/JMG3-7CAM
+https://perma.cc/Y48F-GE4K
+https://perma.cc/X92G-SKZ3
+https://perma.cc/9F38-72NV
+https://perma.cc/6VN6-3D62
+https://perma.cc/KXN4-U8GP
 
 
 
@@ -1205,25 +1112,14 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cha
 In Q1 and Q2 of 2021 ''Chadian authorities have stepped up restrictions on civic space in recent months with long internet shutdowns, arbitrary arrests, and violations of freedoms of protest and peaceful assembly, Amnesty International said ahead of the 11 April 2021 presidential election.'' (5). These are not related to Covid-19 news coverage. 
 
 *Sources*:
- https://www.alwihdainfo.com/Tchad-l-UJT-condamne-la-brutalite-policiere-contre-des-journalistes-de-la-Tele-Tchad_a84903.html
-(1)
-
-https://rsf.org/en/news/chadian-police-attack-tv-crew-covering-coronavirus-measures
-(2)
-
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://www.amnesty.org/en/latest/news/2021/04/tchad-les-coupures-internet-une-entrave-la-liberte-dexpression/
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/chad/
-
-
+ https://perma.cc/FX3L-JXCE
+https://perma.cc/S4WM-24C5
+https://perma.cc/JMG3-7CAM
+https://perma.cc/Y48F-GE4K
+https://perma.cc/X92G-SKZ3
+https://perma.cc/9F38-72NV
+https://perma.cc/6VN6-3D62
+https://perma.cc/KXN4-U8GP
 
 
 
@@ -1273,16 +1169,13 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cha
 No evidence was found on whether the government changed its policy on the use of chloroquine after June 2020. We code as 0 for quarters after Q2 2020 because we no longer found reports of the government using or promoting chloroquine. We do not know if it continued in practice. 
 
 *Sources*:
- https://tchadinfos.com/politique/coronavirus-des-tchadiens-soignes-a-base-de-la-chloroquine/
-(1)
-https://www.aa.com.tr/fr/afrique/covid-19-deux-premiers-d%C3%A9c%C3%A8s-enregistr%C3%A9s-au-tchad/1822716
-(2)
-https://allodocteurs.africa/actualites/epidemie/covid-19/coronavirus-le-tchad-continue-avec-la-chloroquine-le-gabon-se-questionne
-(3)
-https://www.rti.ci/info/afrique/27070/coronavirus-le-senegal-et-le-tchad-vont-continuer-le-traitement-avec-la-chloroquine
-https://afrique.le360.ma/maroc-algerie-autres-pays/politique/2020/06/01/30726-covid-19-voici-pourquoi-les-pays-africains-ont-dit-non-loms-et-poursuivent-le
-http://www.lepaystchad.com/13469/
-(6)
+ https://perma.cc/36HP-ZBTV
+
+https://perma.cc/66MF-T6Y3
+https://perma.cc/9D5M-NWJA
+https://perma.cc/6M8W-2R59
+https://perma.cc/NE5U-NP4Q
+https://perma.cc/WU2A-RQ4X
 
 
 
@@ -1328,19 +1221,11 @@ http://www.lepaystchad.com/13469/
 There have been several incidents of police brutality in April 2021 and May 2021 in Chad, with lethal outcomes, but they are relared to the elections and directed against the opposition supporters. (5) 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/404896/chad-security-forces-arrest-dozens-during-demonstration-in-ndjamena-november-27
-
-
-http://www.laltdh.org/pdf/rapport_violations_dh_covid19.pdf
-
-https://www.voaafrique.com/a/les-tchadiens-d%C3%A9noncent-l-abus-policier-en-ce-temps-de-lutte-contre-le-covid-19-/5366236.html
-
-https://www.hrw.org/news/2021/04/08/chad-pre-election-crackdown-opponents#
-
-https://www.civicus.org/index.php/media-resources/news/5074-chad-stop-violence-against-peaceful-protesters-and-respect-democratic-rights-of-chadians
-(5)
-
-
+ https://perma.cc/H2Q3-NNK5
+https://perma.cc/3MPT-SJF3
+https://perma.cc/TN9C-AYRA
+https://perma.cc/SQ43-8RN2
+https://perma.cc/4WZL-9Y9J
 
 
 
@@ -1382,6 +1267,5 @@ https://www.civicus.org/index.php/media-resources/news/5074-chad-stop-violence-a
  The military has been participating in the enforcement of the Covid-19 measures, and although we didn’t find evidence that it continued to do so throughout the pandemic, it may be more likely than in other cases because the legal instrument is the same. 
 
 *Sources*:
- https://www.worldaware.com/covid-19-alert-chad-extends-nightly-curfew-until-aug-31
-
-http://www.laltdh.org/pdf/rapport_violations_dh_covid19.pdf
+ https://perma.cc/PWC9-L549
+https://perma.cc/FDZ6-NEAA

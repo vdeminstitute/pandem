@@ -53,44 +53,43 @@ Due to a surge in Covid-19 cases, President Jovenel Moïse declared on 22 May 20
 The decree on the state of health emergency refers to the Decree of 15 March 2021 revising the Law of 15 April 2010 amending that of 9 September 2008 on the state of emergency (11). The said decree revising the law on the state of emergency could not be found however. 
 
 *Sources*:
- https://twitter.com/PrimatureHT/status/1243514262913527809?s=20
+ perma.cc/7T5E-EA9E
 (1)
 
-https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
+perma.cc/6MDF-8EEW
 (2)
 
-
-https://www.haitilibre.com/article-30843-haiti-flash-decret-presidentiel-fixant-les-regles-generales-de-protection-de-la-population-face-au-covid-19.html
+perma.cc/95NV-4TE3
 (3)
-https://www.reuters.com/article/us-health-coronavirus-haiti/haiti-declares-emergency-over-coronavirus-imposes-curfew-shuts-border-idUSKBN21700V
+
+perma.cc/33T2-FBC6
 (4)
 
-https://mspp.gouv.ht/site/downloads/Plan%20de%20Pr%C3%A9paration%20et%20de%20R%C3%A9ponse%20du%20MSPP%20au%20CoronaVirus.pdf
-(5)
-https://www.aljazeera.com/programmes/talktojazeera/2020/01/jovenel-moise-200123212546142.html
-(6)
-
-https://fas.org/sgp/crs/row/R45034.pdf
+[5]
+perma.cc/CH48-FS2H
+[6}
+https://web.archive.org/web/20200126102229/https://www.aljazeera.com/programmes/talktojazeera/2020/01/jovenel-moise-200123212546142.html
+perma.cc/Y672-ZRHB
 (7)
-https://www.constituteproject.org/constitution/Haiti_2012?lang=en
-(8)
 
-https://ht.usembassy.gov/covid-19-information/
+perma.cc/G7BM-9PJ6
+(8)
+perma.cc/4V8P-77LV
 (9)
 
-https://www.garda.com/crisis24/news-alerts/475926/haiti-covid-19-related-restrictions-remain-unchanged-as-of-may-7-update-14
+perma.cc/327H-94GG
 (10)
 
-https://www.haitilibre.com/en/news-33811-haiti-covid-19-state-of-health-emergency-text-of-the-order.html
+perma.cc/CJ7S-9Z48
 (11)
 
-https://www.garda.com/crisis24/news-alerts/483006/haiti-authorities-impose-covid-19-related-health-state-of-emergency-until-may-30-tightening-domestic-restrictions-update-15
+perma.cc/P7XP-HB2B
 (12)
 
-https://twitter.com/moisejovenel/status/1396262616713023490
+perma.cc/HS7U-VQUV
 (13)
 
-https://www.france24.com/en/americas/20210608-haiti-s-controversial-june-referendum-postponed-no-new-date-given
+perma.cc/TN96-2GDL
 (14)
 
 
@@ -130,17 +129,12 @@ https://www.france24.com/en/americas/20210608-haiti-s-controversial-june-referen
 *No comment provided* 
 
 *Sources*:
- https://twitter.com/PrimatureHT/status/1243514262913527809?s=20
-
-https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
-
-https://mspp.gouv.ht/site/downloads/Plan%20de%20Pr%C3%A9paration%20et%20de%20R%C3%A9ponse%20du%20MSPP%20au%20CoronaVirus.pdf
-
-https://fas.org/sgp/crs/row/R45034.pdf
-
-https://twitter.com/moisejovenel/status/1396262616713023490
-
-https://www.haitilibre.com/en/news-33811-haiti-covid-19-state-of-health-emergency-text-of-the-order.html
+ perma.cc/P2BD-K9RU
+perma.cc/A6HG-U8Y3
+perma.cc/CH48-FS2H
+perma.cc/63PK-9YHP
+perma.cc/S7M9-PWYJ
+perma.cc/9TN5-T74E
 (6)
 
 
@@ -181,13 +175,12 @@ https://www.haitilibre.com/en/news-33811-haiti-covid-19-state-of-health-emergenc
 Due to a surge in Covid-19 cases, President Jovenel Moïse declared on 22 May 2021 the state of health emergency throughout the national territory, in effect from 24 May 2021 and for a period of 8 days. (4) 
 
 *Sources*:
- https://twitter.com/PrimatureHT/status/1243514262913527809?s=20
+ perma.cc/36WQ-4LXB
 (1)
-https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
 
-https://mspp.gouv.ht/site/downloads/Plan%20de%20Pr%C3%A9paration%20et%20de%20R%C3%A9ponse%20du%20MSPP%20au%20CoronaVirus.pdf
-
-https://www.haitilibre.com/en/news-33811-haiti-covid-19-state-of-health-emergency-text-of-the-order.html
+perma.cc/7ZA7-JXHB
+perma.cc/CH48-FS2H
+perma.cc/E7LL-5P6B
 (4)
 
 
@@ -228,17 +221,20 @@ https://www.haitilibre.com/en/news-33811-haiti-covid-19-state-of-health-emergenc
 The state of health emergency declared on 22 May 2021 was last extended until 29 June 2021 (5). 
 
 *Sources*:
- htps://www.haitilibre.com/article-31395-haiticovid-19-il-n-y-a-plus-d-etat-d-urgence-sanitaire-en-haiti.html
-
-https://lenouvelliste.com/article/219104/covid-19-situation-sous-controle-haiti-sort-de-letat-durgence-sanitaire
-
-http://www.hpnhaiti.com/nouvelles/index.php/covid19/7825-haiti-covid-19-l-etat-d-urgence-sanitaire-leve-par-le-gouvernement
+ perma.cc/4MKA-ZD3H
 
 
-https://www.haitilibre.com/en/news-33811-haiti-covid-19-state-of-health-emergency-text-of-the-order.html
 
-https://www.garda.com/crisis24/news-alerts/491501/haiti-authorities-extend-covid-19-related-health-state-of-emergency-until-june-29-update-17
-(5)
+perma.cc/B6GE-Y36C
+
+
+perma.cc/8ELV-JF5G
+
+
+perma.cc/T97P-XBLL
+
+
+perma.cc/8PQB-RSQJ
 
 
 
@@ -281,15 +277,11 @@ https://www.garda.com/crisis24/news-alerts/491501/haiti-authorities-extend-covid
 The state of health emergency declared on 22 May 2021 was initially declared for 8 days, until 30 May 2021, and was last extended until 29 June 2021 (5). 
 
 *Sources*:
- https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
-
-https://twitter.com/PrimatureHT/status/1243514262913527809?s=20
-
-https://www.garda.com/crisis24/news-alerts/344786/haiti-president-jovenel-moise-extends-state-of-emergency-until-july-20-update-6
-
-https://www.garda.com/crisis24/news-alerts/335021/haiti-state-of-emergency-extended-on-april-20-update-5
-
-https://www.garda.com/crisis24/news-alerts/491501/haiti-authorities-extend-covid-19-related-health-state-of-emergency-until-june-29-update-17
+ perma.cc/EW3B-UL72
+perma.cc/9NM5-BV8Y
+perma.cc/EA4Q-3E9N
+perma.cc/V9GB-XWV4
+perma.cc/V226-3GUE
 (5)
 
 
@@ -330,15 +322,11 @@ https://www.garda.com/crisis24/news-alerts/491501/haiti-authorities-extend-covid
 The state of health emergency declared on 22 May 2021 was initially declared for 8 days, until 30 May 2021, and was last extended until 29 June 2021 (5). 
 
 *Sources*:
- https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
-
-https://twitter.com/PrimatureHT/status/1243514262913527809?s=20
-
-https://www.garda.com/crisis24/news-alerts/344786/haiti-president-jovenel-moise-extends-state-of-emergency-until-july-20-update-6
-
-https://www.garda.com/crisis24/news-alerts/335021/haiti-state-of-emergency-extended-on-april-20-update-5
-
-https://www.garda.com/crisis24/news-alerts/491501/haiti-authorities-extend-covid-19-related-health-state-of-emergency-until-june-29-update-17
+ perma.cc/EW3B-UL72
+perma.cc/9NM5-BV8Y
+perma.cc/EA4Q-3E9N
+perma.cc/V9GB-XWV4
+perma.cc/V226-3GUE
 (5)
 
 
@@ -383,7 +371,7 @@ https://www.garda.com/crisis24/news-alerts/491501/haiti-authorities-extend-covid
 However, the Haitian President declared and extended the state of emergency without referring to the Constitution. Also, there is no legislature in place since January 2020. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Haiti_2012?lang=en
+ perma.cc/6FKC-TB2D
 
 
 
@@ -425,13 +413,16 @@ However, the Haitian President declared and extended the state of emergency with
  No legislature exists. The Decrees on state of emergency were taken by the President in the Council of Ministers. 
 
 *Sources*:
- https://fas.org/sgp/crs/row/R45034.pdf
+ perma.cc/PY9R-M5DV
 
-https://www.usnews.com/news/world/articles/2020-08-16/pompeo-pushes-haiti-president-on-elections-rights
 
-https://www.haitilibre.com/en/news-33870-haiti-covid-state-of-health-emergency-renewed-for-15-days.html
+perma.cc/K4SN-EEKL
 
-https://www.haitilibre.com/en/news-33811-haiti-covid-19-state-of-health-emergency-text-of-the-order.html
+
+perma.cc/K6Y4-BGMS
+
+
+perma.cc/QMB4-RNVM
 
 
 
@@ -477,14 +468,12 @@ https://www.haitilibre.com/en/news-33811-haiti-covid-19-state-of-health-emergenc
  Since January 2020 no legislature exists. 
 
 *Sources*:
- https://www.voanews.com/americas/pompeo-calls-haiti-hold-overdue-legislative-elections
+ perma.cc/6984-8ABP
 
-https://www.miamiherald.com/news/nation-world/world/americas/haiti/article245897040.html
-
-
-https://www.usnews.com/news/world/articles/2020-08-16/pompeo-pushes-haiti-president-on-elections-rights
-https://fas.org/sgp/crs/row/R45034.pdf
-https://www.aljazeera.com/programmes/talktojazeera/2020/01/jovenel-moise-200123212546142.html
+https://web.archive.org/web/20201006054644/https://www.miamiherald.com/news/nation-world/world/americas/haiti/article245897040.html
+https://perma.cc/PGE7-4E8W
+https://perma.cc/G3CD-WQRK
+https://web.archive.org/web/20200126102229/https://www.aljazeera.com/programmes/talktojazeera/2020/01/jovenel-moise-200123212546142.html
 
 
 
@@ -606,18 +595,22 @@ https://www.aljazeera.com/programmes/talktojazeera/2020/01/jovenel-moise-2001232
  The emergency measures including the night time curfew have been countrywide during all quarters of 2020 and 2021. 
 
 *Sources*:
- https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
+ perma.cc/M2UT-6BHJ
 
 
-https://www.garda.com/crisis24/news-alert-full-history/Dtx9gS7BvicMJxZCn/haiti-government-suspends-flights-from-europe-latin-america-and-canada-due-to-covid-19-march-16
+perma.cc/VG2H-V37G
 
-https://www.haitilibre.com/en/news-33811-haiti-covid-19-state-of-health-emergency-text-of-the-order.html
 
-https://www.garda.com/crisis24/news-alerts/483006/haiti-authorities-impose-covid-19-related-health-state-of-emergency-until-may-30-tightening-domestic-restrictions-update-15
+perma.cc/CW7S-27MT
 
-https://www.garda.com/crisis24/news-alerts/475926/haiti-covid-19-related-restrictions-remain-unchanged-as-of-may-7-update-14
 
-https://www.garda.com/crisis24/news-alerts/485821/haiti-authorities-extend-covid-19-related-health-state-of-emergency-until-june-15-update-16
+perma.cc/9QHA-JKE8
+
+
+perma.cc/3WYA-26WM
+
+
+perma.cc/2PHX-EDDR
 
 
 
@@ -661,13 +654,16 @@ https://www.garda.com/crisis24/news-alerts/485821/haiti-authorities-extend-covid
  No evidence was found. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/haiti/
+ perma.cc/WB8Y-8E69
 
-https://lenouvelliste.com/article/216364/letat-durgence-sanitaire-renouvele-pour-deux-mois-supplementaires
 
-https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
+perma.cc/9HC9-Q7U6
 
-https://www.haitilibre.com/article-30843-haiti-flash-decret-presidentiel-fixant-les-regles-generales-de-protection-de-la-population-face-au-covid-19.html
+
+perma.cc/Y5WG-2SUE
+
+
+perma.cc/Y8T6-DUGX
 
 
 
@@ -716,16 +712,19 @@ https://www.haitilibre.com/article-30843-haiti-flash-decret-presidentiel-fixant-
  No evidence was found. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/haiti/
+ perma.cc/VS6E-7JM4
 
 
-https://lenouvelliste.com/article/216364/letat-durgence-sanitaire-renouvele-pour-deux-mois-supplementaires
+perma.cc/ZFW9-2MSW
 
-https://news.un.org/en/story/2020/05/1063612
 
-https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
+perma.cc/KV7V-7ML2
 
-https://www.haitilibre.com/article-30843-haiti-flash-decret-presidentiel-fixant-les-regles-generales-de-protection-de-la-population-face-au-covid-19.html
+
+perma.cc/2K6S-CSZK
+
+
+perma.cc/TE5Q-CKG6
 
 
 
@@ -770,13 +769,16 @@ https://www.haitilibre.com/article-30843-haiti-flash-decret-presidentiel-fixant-
 ''In a decree dated 21 May 2020, the government rectified the situation by restoring the right of press workers who "are part of the professional categories that can move freely during curfew hours, as is the case for doctors, for example.'' 
 
 *Sources*:
- http://www.hpnhaiti.com/nouvelles/index.php/societe/89-presse/7582-haiti-presse-coronavirus-couvre-feu-le-gouvernement-leve-l-interdiction-imposee-aux-journalistes
+ perma.cc/X4X4-55F7
 
-http://www.hpnhaiti.com/nouvelles/index.php/societe/89-presse/7510-coronavirus-presse-sos-journalistes-exige-l-assouplissement-du-couvre-feu
 
-https://lenouvelliste.com/article/216364/letat-durgence-sanitaire-renouvele-pour-deux-mois-supplementaires
+perma.cc/9CQV-MVCP
 
-https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
+
+perma.cc/WA3V-LPDL
+
+
+perma.cc/C46H-8GKA
 
 
 
@@ -899,17 +901,15 @@ However, ''In April 2020, the CPJ called on Haitian authorities to investigate a
 Some of the attackers were wearing t-shirts identifying them as personnel from the National Identification Office, and others were wearing shirts identifying them as employees of the Ministry of the Interior and “Public Security”. (2, 3). 
 
 *Sources*:
- https://www.voanews.com/press-freedom/never-ending-battle-press-rights-haiti
-
-https://cpj.org/2020/04/journalists-assaulted-while-covering-covid-19-meas/
+ perma.cc/KZA4-5MNB
+perma.cc/A2WJ-CH8R
 (2)
 
-https://cpj.org/2020/04/haitian-journalist-robenson-sanon-says-covering-co/
+perma.cc/A3LR-NHTJ
 (3)
 
-https://en.unesco.org/news/role-haitian-press-response-coronavirus-pandemic
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/haiti/
+perma.cc/Y57E-M9VD
+perma.cc/H48K-5M6U
 
 
 
@@ -954,17 +954,19 @@ However, ''In April 2020, the CPJ called on Haitian authorities to investigate a
 Some of the attackers were wearing t-shirts identifying them as personnel from the National Identification Office, and others were wearing shirts identifying them as employees of the Ministry of the Interior and “Public Security”.  (2, 3). 
 
 *Sources*:
- https://www.voanews.com/press-freedom/never-ending-battle-press-rights-haiti
+ perma.cc/KZA4-5MNB
 
-https://cpj.org/2020/04/journalists-assaulted-while-covering-covid-19-meas/
-(2)
 
-https://cpj.org/2020/04/haitian-journalist-robenson-sanon-says-covering-co/
-(3)
+perma.cc/A2WJ-CH8R
 
-https://en.unesco.org/news/role-haitian-press-response-coronavirus-pandemic
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/haiti/
+perma.cc/A3LR-NHTJ
+
+
+perma.cc/Y57E-M9VD
+
+
+perma.cc/H48K-5M6U
 
 
 
@@ -1006,17 +1008,22 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/hai
  No evidence was found. 
 
 *Sources*:
- https://cpj.org/2020/04/haitian-journalist-robenson-sanon-says-covering-co/
+ perma.cc/2LK5-3YEY
 
-https://www.voanews.com/press-freedom/never-ending-battle-press-rights-haiti
 
-https://en.unesco.org/news/role-haitian-press-response-coronavirus-pandemic
+perma.cc/92Z6-LWS3
 
-https://rsf.org/en/haiti
 
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/HRZ8-ML9U
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/haiti/
+
+perma.cc/7HBD-9F25
+
+
+perma.cc/8GJZ-L29U
+
+
+perma.cc/2KMX-2X5Q
 
 
 
@@ -1065,27 +1072,28 @@ The Haitian government initially had not granted journalists an exemption from t
 Also, according to RSF, ''Despite recent changes in Haiti’s media freedom laws, journalists suffer from a lack of financial resources, an absence of institutional support and difficulty in accessing information.'' (1, 2). 
 
 *Sources*:
- https://rsf.org/en/haiti
-(1)
+ perma.cc/6ZFJ-6LDX
 
-https://www.voanews.com/press-freedom/never-ending-battle-press-rights-haiti
-(2)
 
-http://www.hpnhaiti.com/nouvelles/index.php/societe/89-presse/7582-haiti-presse-coronavirus-couvre-feu-le-gouvernement-leve-l-interdiction-imposee-aux-journalistes
-(3)
+perma.cc/PE9U-LNR6
 
-http://www.hpnhaiti.com/nouvelles/index.php/societe/89-presse/7510-coronavirus-presse-sos-journalistes-exige-l-assouplissement-du-couvre-feu
-(4)
 
-https://cpj.org/2020/04/haitian-journalist-robenson-sanon-says-covering-co/
-(5)
+perma.cc/SNC3-6CG8
 
-https://cpj.org/2020/04/journalists-assaulted-while-covering-covid-19-meas/
-(6)
 
-https://en.unesco.org/news/role-haitian-press-response-coronavirus-pandemic
+perma.cc/3BDA-XCSA
 
-https://ipi.media/covid19-media-freedom-monitoring/
+
+perma.cc/SC4W-C5VP
+
+
+perma.cc/Z3VF-ANTA
+
+
+perma.cc/55DY-VN64
+
+
+perma.cc/J6YF-CJR3
 
 
 
@@ -1127,15 +1135,19 @@ https://ipi.media/covid19-media-freedom-monitoring/
  No evidence was found. 
 
 *Sources*:
- https://sflcn.com/another-protest-in-the-capital-of-haiti-after-journalist-arrestation/
+ perma.cc/RGB5-ZEXP
 
-https://haitiantimes.com/2020/04/30/journalists-condemn-police-brutality-against-haitian-reporter-georges-allen/
 
-https://www.juno7.ht/secteurscondamnent-brutalitespolicieres-georges-allen/
+perma.cc/28WV-FRAB
 
-https://cpj.org/2020/04/journalists-assaulted-while-covering-covid-19-meas/
 
-https://www.washingtonpost.com/opinions/global-opinions/truth-is-the-first-casualty-in-war-including-this-one/2020/04/12/44c5ea44-7a88-11ea-b6ff-597f170df8f8_story.html
+perma.cc/YD6N-EPVG
+
+
+perma.cc/SDU9-M544
+
+
+perma.cc/227J-6AWK
 
 
 
@@ -1183,18 +1195,17 @@ Also in April 2020, ''A reporter for Radio Television Caribbean, Georges Allen w
 The curfew was still ongoing in Q4 of 2020, Q1 of 2021 and Q2 of 2021. No more incidents were found after Q2 2020. 
 
 *Sources*:
- https://cpj.org/2020/04/journalists-assaulted-while-covering-covid-19-meas/
+ perma.cc/9JH9-G446
 (1)
 
-https://sflcn.com/another-protest-in-the-capital-of-haiti-after-journalist-arrestation/
+perma.cc/Y2ZV-JMBS
 (2)
 
-https://haitiantimes.com/2020/04/30/journalists-condemn-police-brutality-against-haitian-reporter-georges-allen/
+perma.cc/8ZJF-YA9W
 (3)
 
-https://www.juno7.ht/secteurscondamnent-brutalitespolicieres-georges-allen/
-
-https://www.washingtonpost.com/opinions/global-opinions/truth-is-the-first-casualty-in-war-including-this-one/2020/04/12/44c5ea44-7a88-11ea-b6ff-597f170df8f8_story.html
+perma.cc/Y3TL-FAJ6
+perma.cc/WD88-LZPD
 
 
 
@@ -1238,9 +1249,10 @@ https://www.washingtonpost.com/opinions/global-opinions/truth-is-the-first-casua
  The official information by the Government is in line with WHO recommendations. 
 
 *Sources*:
- https://www.mspp.gouv.ht/
+ perma.cc/5JCC-UB6Z
 
-https://www.haitilibre.com/article-30307-haiti-covid-19-bulletin-quotidien-19-mars-2020.html
+
+perma.cc/EE6X-4ZHF
 
 
 
@@ -1293,12 +1305,11 @@ The RNDDH reported police made verbal threats against citizens for violating Cov
 No more incidents were found after Q2 of 2020. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/haiti/
+ perma.cc/3AZE-JYJP
 (1)
 
-https://www.france24.com/en/20200328-virus-prevention-measures-turn-violent-in-parts-of-africa
-
-https://peoplesdispatch.org/2020/05/19/mismanagement-of-pandemic-by-haitian-president-jovenel-moise-fuels-latest-protests-demanding-his-resignation/
+perma.cc/8LTZ-L8EV
+perma.cc/5VAM-RCLG
 
 
 
@@ -1340,6 +1351,7 @@ https://peoplesdispatch.org/2020/05/19/mismanagement-of-pandemic-by-haitian-pres
  The police has been mobilized to enforce the emergency measures. 
 
 *Sources*:
- https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
+ perma.cc/R2AU-SQ98
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/haiti/
+
+perma.cc/7B7R-LGXN

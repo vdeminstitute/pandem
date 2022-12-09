@@ -45,13 +45,18 @@
  A special quarantine regime but not a state of emergency declared by the Cabinet of Ministers on 24 March 2020 and is in place at the time of coding. Under the special quarantine regime, initially people over 65 years old were prohibited from leaving home and assembly of more than 10 people was prohibited. According to OSCE report, Azerbaijan is among countries that "mainly relied on existing sanitation, health safety and/or disaster legislation that gives the authority to put in place restrictive measures." (1) 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/covid19uploads/Azerbaijan%20-%20INFORMATION%20ABOUT%20SPECIAL%20QUARANTINE%20REGIME.%2023.03.2020..pdf
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B373%5D&covid19=1
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+ https://perma.cc/3YPJ-QJKD
+https://perma.cc/J7UH-BULT
+
+https://perma.cc/K55A-GGCY
 (1)
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/
-https://koronavirusinfo.az/files/3/1ff8adaccc96bbc49e32ad0080ff5d9d.pdf
-https://koronavirusinfo.az/files/3/6003f3e205966be9e97a59e24a7dc39d.pdf
+
+
+https://perma.cc/U6JX-XCUV
+
+https://perma.cc/6NFN-F245
+
+https://perma.cc/HS8L-GWY7
 
 
 
@@ -90,10 +95,9 @@ https://koronavirusinfo.az/files/3/6003f3e205966be9e97a59e24a7dc39d.pdf
  Unofficial translation; Law on Sanitary and Epidemiological Safety (Article 25); the authorities can take measures to prevent the spread of diseases. 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/covid19uploads/Azerbaijan%20-%20INFORMATION%20ABOUT%20SPECIAL%20QUARANTINE%20REGIME.%2023.03.2020..pdf
-https://koronavirusinfo.az/az/post/157/
-
-http://www.e-qanun.az/framework/7916
+ https://perma.cc/RNH7-Z599
+https://perma.cc/AL39-TDF9
+https://perma.cc/TTA2-W2RE
 
 
 
@@ -132,10 +136,9 @@ http://www.e-qanun.az/framework/7916
 *No comment provided* 
 
 *Sources*:
- https://koronavirusinfo.az/az/post/157
-
-https://www.icnl.org/covid19tracker/covid19uploads/Azerbaijan%20-%20INFORMATION%20ABOUT%20SPECIAL%20QUARANTINE%20REGIME.%2023.03.2020..pdf
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B373%5D&covid19=1
+ https://perma.cc/V8M8-3XZV
+https://perma.cc/C3LC-SLW5
+https://perma.cc/J7UH-BULT
 
 
 
@@ -174,9 +177,19 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B37
  The special quarantine regime has not ended at the time of coding. The latest extension is until 1 August 2021. 
 
 *Sources*:
- https://koronavirusinfo.az/files/3/6f88ad49e592507016eba015ff5958e1.pdf
-https://koronavirusinfo.az/files/3/f7244ab7ee914f912c81f9980d7a9ba1.pdf
-https://nk.gov.az/az/article/1175/
+ https://perma.cc/S75P-2LV5
+
+
+
+
+
+https://perma.cc/X3UG-FQ4H
+
+
+
+
+
+https://perma.cc/H79X-98XE
 
 
 
@@ -218,20 +231,18 @@ https://nk.gov.az/az/article/1175/
  Both the initial announcement and extensions had a time limit, including the latest extension until 1 August 2021. In March-June 2020, the latest extension was until 1 August 2020. In July-September 2020 , the latest extension was until 2 November 2020. In October-December 2020, the latest extension was 31 January 2021. 
 
 *Sources*:
- https://koronavirusinfo.az/files/3/ef4219dc9c69b2db4073025082dfde34.pdf
+ https://perma.cc/BCS3-4ANB
+https://perma.cc/G9WP-P9XC
 
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B373%5D&covid19=1
-
-https://www.icnl.org/covid19tracker/covid19uploads/Azerbaijan%20-%20INFORMATION%20ABOUT%20SPECIAL%20QUARANTINE%20REGIME.%2023.03.2020..pdf
-https://koronavirusinfo.az/files/3/f7244ab7ee914f912c81f9980d7a9ba1.pdf
-https://nk.gov.az/az/article/1175/
-https://koronavirusinfo.az/az/post/493
-
-https://koronavirusinfo.az/files/3/f7244ab7ee914f912c81f9980d7a9ba1.pdf
-https://www.garda.com/crisis24/news-alerts/352081/azerbaijan-authorities-extend-covid-19-restrictions-through-august-1-update-10
-https://koronavirusinfo.az/files/3/6f88ad49e592507016eba015ff5958e1.pdf
-https://koronavirusinfo.az/files/3/9c6d58c0d6455d624a7bd11404a623c9.pdf
-https://koronavirusinfo.az/files/3/6003f3e205966be9e97a59e24a7dc39d.pdf
+https://perma.cc/6KST-F98N
+https://perma.cc/6KD3-TP3F
+https://perma.cc/8W58-EYYK
+https://perma.cc/2KF2-AC3W
+https://perma.cc/5LHE-93X7
+https://perma.cc/2H3J-EVX4
+https://perma.cc/4YLC-TXPH
+https://perma.cc/7NXR-XD38
+https://perma.cc/TFY5-9RNG
 
 
 
@@ -278,21 +289,19 @@ Q1 2021:  the latest extension of the quarantine regime was until 1 April 2021.
 Q2 2021: the latest extension of the quarantine regime was until 1 August 2021. 
 
 *Sources*:
- https://koronavirusinfo.az/files/3/ef4219dc9c69b2db4073025082dfde34.pdf
+ https://perma.cc/JS2C-SNTU
+https://perma.cc/J7UH-BULT
 
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B373%5D&covid19=1
-
-https://www.icnl.org/covid19tracker/covid19uploads/Azerbaijan%20-%20INFORMATION%20ABOUT%20SPECIAL%20QUARANTINE%20REGIME.%2023.03.2020..pdf
-https://koronavirusinfo.az/files/3/f7244ab7ee914f912c81f9980d7a9ba1.pdf
-https://nk.gov.az/az/article/1175/
-https://koronavirusinfo.az/az/post/493
-
-https://koronavirusinfo.az/files/3/f7244ab7ee914f912c81f9980d7a9ba1.pdf
-https://www.garda.com/crisis24/news-alerts/352081/azerbaijan-authorities-extend-covid-19-restrictions-through-august-1-update-10
-https://koronavirusinfo.az/files/3/78933e9d16f649ed659861358360f732.pdf
-https://koronavirusinfo.az/files/3/6f88ad49e592507016eba015ff5958e1.pdf
-https://koronavirusinfo.az/files/3/9c6d58c0d6455d624a7bd11404a623c9.pdf
-https://koronavirusinfo.az/files/3/6003f3e205966be9e97a59e24a7dc39d.pdf
+https://perma.cc/RC6F-PMS5
+https://perma.cc/5DD4-HLZH
+https://perma.cc/V6SL-42EC
+https://perma.cc/S3TJ-RC4N
+https://perma.cc/L75Z-4Y2Q
+https://perma.cc/W4F8-27UR
+https://perma.cc/7T4F-6LH7
+https://perma.cc/Y4FD-MBLW
+https://perma.cc/466D-4HD7
+https://perma.cc/VVV8-5XA3
 
 
 
@@ -334,7 +343,7 @@ https://koronavirusinfo.az/files/3/6003f3e205966be9e97a59e24a7dc39d.pdf
  Legislature approval is not required based on Article 25 of Law on Sanitary and Epidemiological Safety or the decision to impose quarantine measures (where it is stated that "All recommendations, proposals and decisions of the Operational Headquarters under the Cabinet of Ministers of the Republic of Azerbaijan must be implemented unconditionally." (1)) 
 
 *Sources*:
- http://www.e-qanun.az/framework/7916
+ https://perma.cc/LXT4-42CZ
 (1)
 
 
@@ -377,7 +386,7 @@ https://koronavirusinfo.az/files/3/6003f3e205966be9e97a59e24a7dc39d.pdf
  Not required by law (see emlawapp) 
 
 *Sources*:
- http://www.e-qanun.az/framework/7916
+ https://perma.cc/5WYR-5BT2
 
 
 
@@ -423,13 +432,13 @@ https://koronavirusinfo.az/files/3/6003f3e205966be9e97a59e24a7dc39d.pdf
  Based on based on Article 25 of Law on Sanitary and Epidemiological Safety (used to implement emergency measures), the executive has the power to determine the measures for preventing and treating infectioous diseases. The parliament implemented social distancing measures and held some meetings online. 
 
 *Sources*:
- http://www.e-qanun.az/framework/7916
+ https://perma.cc/MZ8T-H4BV
+https://perma.cc/8L9P-FHCY
+https://perma.cc/2HLQ-BM9R
+https://perma.cc/J7UH-BULT
 
-https://meclis.gov.az/?/az/news/view/4685/
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B373%5D&covid19=1
-https://meclis.gov.az/?/az/news/
+https://perma.cc/9QCA-TQQF
+
 
 
 
@@ -559,24 +568,18 @@ Q1 2021: travel out of major cities was restricted in January.
 Q2 2021: I found no measures on a subnational level in this period. 
 
 *Sources*:
- https://az.usembassy.gov/covid-19-information-for-azerbaijan/
+ https://perma.cc/QH8S-RM6E
+https://perma.cc/J7UH-BULT
 
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B373%5D&covid19=1
-
-https://koronavirusinfo.az/files/3/6ceec44f5ef866f869d1dfaf8771e393.pdf
-https://nk.gov.az/az/article/1175/
-https://koronavirusinfo.az/files/3/3d36b003400a8ee419bfc5cf4a6d9273.pdf
-https://koronavirusinfo.az/files/3/15a662a3ba39a688fb1b210c4dcee28e.pdf
-https://koronavirusinfo.az/az/post/454
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/
-https://www.garda.com/crisis24/news-alerts/410121/azerbaijan-authorities-extend-strict-covid-19-related-quarantine-regime-measures-in-several-areas-until-dec-14-update-24
-
-
-https://www.garda.com/crisis24/news-alerts/430716/azerbaijan-authorities-extend-national-quarantine-until-at-least-april-1-certain-restrictions-eased-update-26
-
-https://www.garda.com/crisis24/news-alerts/458426/azerbaijan-authorities-extend-national-quarantine-until-at-least-june-1-update-28
-
-https://www.garda.com/crisis24/news-alerts/482861/azerbaijan-authorities-maintaining-covid-19-related-restrictions-as-of-may-25-update-30
+https://perma.cc/ZM8B-Y9KM
+https://perma.cc/MC95-J9NN
+https://perma.cc/N2FK-U872
+https://perma.cc/R62U-SCEM
+https://perma.cc/KG8A-EV37
+https://perma.cc/P9VV-RYZB
+https://perma.cc/Y83M-TLZG
+https://perma.cc/JA8Q-ZWD3
+https://perma.cc/Z3S8-UBVY
 
 
 
@@ -620,9 +623,19 @@ https://www.garda.com/crisis24/news-alerts/482861/azerbaijan-authorities-maintai
  No de-jure disciminating provisions and no information on de-facto discrimination found. No new information found since June 2020. 
 
 *Sources*:
- https://koronavirusinfo.az/az
-https://www.hrw.org/europe/central-asia/azerbaijan
-https://www.amnesty.org/en/countries/europe-and-central-asia/azerbaijan/
+ https://perma.cc/9YW9-VEY9
+
+
+
+
+
+https://perma.cc/U294-WS7A
+
+
+
+
+
+https://perma.cc/54BB-BP3H
 
 
 
@@ -675,10 +688,11 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/azerbaijan/
 2) Human Rights Watch reports one alleged case of torture following detentions after 14 July 2020 protests, where some charges included violating Covid-19 rules. Since there is no clear link between covid-19-related allegations and torture, this is not coded. 
 
 *Sources*:
- https://koronavirusinfo.az/az
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+ https://perma.cc/9BQC-F2XU
+https://perma.cc/U682-QJ8N
 (1)
-https://www.hrw.org/news/2020/08/19/azerbaijan-relentless-crackdown-opposition
+
+https://perma.cc/Y5ZP-6WXF
 
 
 
@@ -722,15 +736,19 @@ https://www.hrw.org/news/2020/08/19/azerbaijan-relentless-crackdown-opposition
  According to OSCE report, Azerbaijan is among the countries that "have introduced and/or applied provisions to criminalize the dissemination of so-called “false information” or “false news” about the pandemic (1). According to a report by the Law Library of Congress, these are Laws Nos. 27-VIQD, 28-VIQD, and 30-VIQD from 17 March. For example, "Law No. 28-VIQD amends the Criminal Code (CC) by adding article 139-1, which criminalizes “[a] violation of the anti-epidemic, sanitary-hygienic, and quarantine regimes that causes, or creates a substantial threat of, the spread of disease." (2) Since this legislation is not part of emergency measures but rather amendments to permanent legislation, it is not coded under melim. 
 
 *Sources*:
- https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-1(1)
-https://ipi.media/rush-to-pass-fake-news-laws-during-covid-19-intensifying-global-media-freedom-challenges/
-https://www.osce.org/representative-on-freedom-of-media/449146
+ https://perma.cc/FUR3-AP8Q
+(1)
+
+https://perma.cc/Z97M-WXQE
+https://perma.cc/AY4Y-S28Z
+
 https://perma.cc/3HL9-SGVR
+
 https://perma.cc/X2TE-7UKH
+
 https://perma.cc/R6VW-VFVE
 
-https://loc.gov/law/help/covid-19-freedom-of-expression/azerbaijan.php
+https://perma.cc/46LN-JKAC
 (2)
 
 
@@ -851,11 +869,11 @@ https://loc.gov/law/help/covid-19-freedom-of-expression/azerbaijan.php
  There is a website with updates related on covid-19 and I found no specific cases where journalists' reporting on covid-19 were targeted. Nevertheless, the media in Azerbaijan in general is suppressed, therefore merepfact is coded as 1.  IPI reports that: "Over the last decade, Aliyev, who has ruled Azerbaijan since 2003 and won every presidential election with around 80 percent of the vote, has gradually tightened his grip over the media space and overseen the persecution of critical journalists and bloggers. Several have fled the country, while those who remain often self-censor for fear of arrest.The country has one of the highest number of journalists in jail in the region." (1)According to IPI, " in addition to those jailed this month [April 2020], five more journalists are currently behind bars." (1) 
 
 *Sources*:
- https://koronavirusinfo.az/az
-https://ipi.media/azerbaijan-abuses-quarantine-rules-to-jail-critical-journalists-and-bloggers/
+ https://perma.cc/5B4B-UQVC
+https://perma.cc/5N6K-J8L8
 (1)
-https://rsf.org/en/news/collateralfreedom-rsf-unblocks-eight-sites-censored-during-pandemic
-https://www.hrw.org/world-report/2021/country-chapters/azerbaijan
+https://perma.cc/UG35-F25X
+https://perma.cc/TP7W-EVT2
 
 
 
@@ -907,15 +925,16 @@ Although new information found since June 2020, still coded as 1 as media freedo
 IPI reports that: "Over the last decade, Aliyev, who has ruled Azerbaijan since 2003 and won every presidential election with around 80 percent of the vote, has gradually tightened his grip over the media space and overseen the persecution of critical journalists and bloggers. Several have fled the country, while those who remain often self-censor for fear of arrest.The country has one of the highest number of journalists in jail in the region. According to IPI, in addition to those jailed this month [April 2020], five more journalists are currently behind bars." (1) 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/16/azerbaijan-crackdown-critics-amid-pandemic
-https://ipi.media/covid19-media-freedom-monitoring/#
-https://rsf.org/en/news/azerbaijani-reporter-jailed-30-days-over-coronavirus-reporting
-https://www.kavkaz-uzel.eu/articles/348669/
-https://www.kavkaz-uzel.eu/articles/348669/
-https://ipi.media/azerbaijan-abuses-quarantine-rules-to-jail-critical-journalists-and-bloggers/
+ https://perma.cc/D6BL-ECT6
+https://perma.cc/G77E-SCSY
+https://perma.cc/JC45-KU6E
+https://perma.cc/U62G-KVTE
+https://perma.cc/Q8S6-6ZR6
+https://perma.cc/Z85A-FMPK
 (1)
-https://rsf.org/en/news/collateralfreedom-rsf-unblocks-eight-sites-censored-during-pandemic
-https://www.hrw.org/world-report/2021/country-chapters/azerbaijan
+
+https://perma.cc/K8E5-UFLN
+https://perma.cc/H8EF-MKRE
 
 
 
@@ -959,14 +978,13 @@ https://www.hrw.org/world-report/2021/country-chapters/azerbaijan
 Restrictions on journalists were removed in September (see meinf). Since the arrest of Natig Isbatov was a single incident and no further cases were reported, merepoth is coded as 0 in October-December 2020, January-March 2021, April-June 2021. 
 
 *Sources*:
- https://rsf.org/en/news/azerbaijani-reporter-jailed-30-days-over-coronavirus-reporting
+ https://perma.cc/Y2SV-L86V
 (1)
-
-https://ipi.media/azerbaijan-abuses-quarantine-rules-to-jail-critical-journalists-and-bloggers/
-https://koronavirusinfo.az/az/post/355
-https://www.turan.az/ext/news/2020/6/free/Social/ru/125057.htm
-https://www.kavkaz-uzel.eu/articles/352222/
-https://rsf.org/en/news/collateralfreedom-rsf-unblocks-eight-sites-censored-during-pandemic
+https://perma.cc/VJ2P-FGVA
+https://perma.cc/UF5F-JXA6
+https://perma.cc/N3KA-XDL2
+https://perma.cc/A842-8BKR
+https://perma.cc/84HU-MBPH
 
 
 
@@ -1013,15 +1031,18 @@ https://rsf.org/en/news/collateralfreedom-rsf-unblocks-eight-sites-censored-duri
 Q4 2020, Q1 2021, Q2 2021: new quarantine measures did not impose restrictions on journalists (e.g. see a decree from 7 November where jounalists were excluded from restrictions). However, melim is coded as 2 because, according to Reporters without Borders, "ever since the epidemic reached Azerbaijan, the authorities have been trying to control reporting on its impact and obstruct those journalists trying to cover it." (2) 
 
 *Sources*:
- https://koronavirusinfo.az/az/post/355
-https://www.turan.az/ext/news/2020/6/free/Social/ru/125057.htm
-https://www.kavkaz-uzel.eu/articles/352222/
-https://rsf.org/en/news/collateralfreedom-rsf-unblocks-eight-sites-censored-during-pandemic
-(2)
-https://ipi.media/azerbaijan-abuses-quarantine-rules-to-jail-critical-journalists-and-bloggers/
-(1)
+ https://perma.cc/4NZA-KPS6
+https://perma.cc/6GCV-KRYB
 
-https://koronavirusinfo.az/files/3/6ceec44f5ef866f869d1dfaf8771e393.pdf
+
+https://perma.cc/YAH9-JY4W
+
+https://perma.cc/C3GA-4XEF
+(2)
+
+https://perma.cc/EWZ7-KJGT
+(1)
+https://perma.cc/BPZ2-7F2C
 
 
 
@@ -1063,9 +1084,9 @@ https://koronavirusinfo.az/files/3/6ceec44f5ef866f869d1dfaf8771e393.pdf
  No reports on verbal harrasment since 11 March 2020. 
 
 *Sources*:
- https://ipi.media/azerbaijan-abuses-quarantine-rules-to-jail-critical-journalists-and-bloggers/
-https://ipi.media/azerbaijan/
-https://rsf.org/en/azerbaijan
+ https://perma.cc/PKY6-EYRZ
+https://perma.cc/D2WZ-N29G
+https://perma.cc/WXZ9-RY98
 
 
 
@@ -1107,11 +1128,10 @@ https://rsf.org/en/azerbaijan
  Reports of physical assault and detention of several journalists in Q2 2020. I have not found any new information in other time periods. Since cases of physical harassment of journalists are monitored by various sources (Council of Europe, IPI, CPJ) on a case by case bases, lack of information likely means that there were no further cases of physical harrassment. 
 
 *Sources*:
- https://ipi.media/azerbaijan-abuses-quarantine-rules-to-jail-critical-journalists-and-bloggers/
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-3&p_p_col_pos=1&p_p_col_count=11&_sojdashboard_WAR_coesojportlet_alertPK=63295110&_sojdashboard_WAR_coesojportlet_displayLink=SojPortlet.getDashboardPortletId%28%29
-
-https://www.kavkaz-uzel.eu/articles/348669/
-https://rsf.org/en/news/reporter-who-was-assaulted-jailed-disturbing-public-order
+ https://perma.cc/LX64-TVGW
+https://perma.cc/HMF7-7FNU
+https://perma.cc/UG8K-PYJG
+https://perma.cc/P8AN-YG49
 
 
 
@@ -1155,9 +1175,9 @@ https://rsf.org/en/news/reporter-who-was-assaulted-jailed-disturbing-public-orde
  official website with information on covid-19; no reports on disinformation found. No new information found since June 2020. 
 
 *Sources*:
- https://koronavirusinfo.az/az
-https://rsf.org/en/azerbaijan
-https://ipi.media/azerbaijan/
+ https://perma.cc/YJ9V-BA7P
+https://perma.cc/SV3G-GUWE
+https://perma.cc/5XFX-NL8F
 
 
 
@@ -1201,11 +1221,11 @@ https://ipi.media/azerbaijan/
  Several people were harassed by police as a result of a quarantine raid on 6-8 June 2020. These cases drawn attention of Azerbaijani Ombudsman. This case of police violence happened only once and was extensively covered in local media. I have not found any new information since the end of June 2020.  Assuming that further cases of police violence would be also reported in local media, I coded pomviol as 0 in Q3 2020, Q4 2020, Q1 2021, Q2 2021. 
 
 *Sources*:
- https://www.bbc.com/azeri/azerbaijan-52994225
-https://www.bbc.com/russian/features-53012844
-https://az.sputniknews.ru/life/20200609/424150853/Azerbaijan-ombudsmen-narushiteli-ministr-obrascenie.html
-https://www.kavkaz-uzel.eu/articles/350733/
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/azerbaijan/
+ https://perma.cc/Q7CK-U4RM
+https://perma.cc/EW9J-UKA2
+https://perma.cc/JPZ5-3S8Q
+https://perma.cc/ST2U-TN3E
+https://perma.cc/K89D-M3N9
 
 
 
@@ -1247,6 +1267,6 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/aze
  The military was tasked with enforcing quarantine in July 2020 in connection with a special quarantine regime in some areas. Since the special quarantine regime ended on 1 August 2020 and I found no further information on military's involvemnt, milinv is coded as 1 only during Q3 2020. 
 
 *Sources*:
- http://interfax.az/view/806677
-https://koronavirusinfo.az/az/post/355
-https://mod.gov.az/az/search/?q=karantin
+ https://perma.cc/Y3SL-6S57
+https://perma.cc/3PQT-8SYM
+https://perma.cc/YLP5-8GCH

@@ -54,22 +54,42 @@ In October 2020, one of the measures was Resolution of the Chief State Sanitary 
  
 
 *Sources*:
- https://www.akorda.kz/ru/legal_acts/decrees/o-vvedenii-chrezvychainogo-polozheniya-v-respublike-kazahstan
-https://online.zakon.kz/document/?doc_id=32648341
-https://www.icnl.org/covid19tracker/?location=65&issue=&date=&type=
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B705%5D&covid19=1
-https://primeminister.kz/ru/news/goskomissiya-utverdila-mery-po-stabilizacii-epidemiologicheskoy-situacii-v-rk-26422
-https://www.garda.com/crisis24/news-alerts/356021/kazakhstan-authorities-announce-two-week-lockdown-from-july-5-update-20
-https://www.garda.com/crisis24/news-alerts/359336/kazakhstan-authorities-announce-two-week-extension-of-lockdown-july-13-update-21
-https://primeminister.kz/ru/news/mezhvedomstvennaya-komissiya-odobrila-vtoroy-etap-poslableniy-2675553
+ perma.cc/EKR3-UGHN
 
-https://primeminister.kz/ru/news/goskomissiya-utverdila-plan-poetapnogo-snyatiya-karantinnyh-mer-s-17-avgusta-t-g-137510
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-central-asia-5305f172/
-https://online.zakon.kz/Document/?doc_id=34276342
+
+https://perma.cc/B8Q5-89GU
+
+
+https://perma.cc/ESS3-JA3E
 
 
 
+https://perma.cc/J7UH-BULT
 
+
+
+perma.cc/BA4J-N73X
+
+
+perma.cc/P3YN-RY74
+
+
+perma.cc/8VBQ-XJY5
+
+
+https://perma.cc/9DV7-PKNY
+
+
+perma.cc/8FGX-L6XJ
+
+
+https://perma.cc/8FGX-L6XJ
+
+
+https://perma.cc/RKE2-HX7J
+
+
+https://perma.cc/WM32-49AS
 
 
 
@@ -110,13 +130,13 @@ https://online.zakon.kz/Document/?doc_id=34276342
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: "Kodeks Respubliki Kazakhstan o zdorov'ye naroda i sisteme zdravookhraneniya" can be translated as Law of Kazakhstan on public health and the healthcare system (not official translation) 
 
 *Sources*:
- https://online.zakon.kz/document/?doc_id=1036912#pos=33;-46
-https://online.zakon.kz/document/?doc_id=1005029#pos=424;-40
-https://www.constituteproject.org/constitution/Kazakhstan_2017?lang=en
+ https://perma.cc/7PNP-Y5P9
+https://perma.cc/9P98-TL9J
+https://perma.cc/LUA7-4V6Q
+https://perma.cc/Z5SY-CMST
+https://perma.cc/VR7K-5QRX
+https://perma.cc/9NXS-DTGA
 
-https://online.zakon.kz/document/?doc_id=30479065#pos=4089;-54
-https://online.zakon.kz/document/?doc_id=33241860#pos=1;-170
-https://online.zakon.kz/Document/?doc_id=34276342
 
 
 
@@ -157,9 +177,8 @@ https://online.zakon.kz/Document/?doc_id=34276342
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: the legal instrument was first used to implement  the resolution of the Chief State Sanitary Doctor of the Republic of Kazakhstan dated July 3, 2020 No. 44 "On the introduction of strict restrictive quarantine measures" 
 
 *Sources*:
- https://online.zakon.kz/document/?doc_id=32648341#pos=4;-104
-
-https://online.zakon.kz/Document/?doc_id=34276342#pos=5;-106&sel_link=1004516485
+ https://perma.cc/N4LW-H7UL
+https://perma.cc/AZ2J-ZBG4
 
 
 
@@ -202,11 +221,19 @@ July-September, October-December: after the end of the state of emergency, the s
  
 
 *Sources*:
- https://online.zakon.kz/document/?doc_id=34412366
-https://online.zakon.kz/Document/?doc_id=36528490&fbclid=IwAR1UuYNsEt8TQQ5uWGuhhfvunAgVO9S36tkRDuB73ZBmq5llzi5dpQoPNCQ#pos=29;-54
-https://online.zakon.kz/document/?doc_id=32986543
-https://online.zakon.kz/Document/?doc_id=32145215#pos=4;-106
-https://online.zakon.kz/Document/?doc_id=39846259#pos=4;-88
+ https://perma.cc/Q7M9-CWA7
+
+
+https://perma.cc/EKW3-CHL2
+
+
+https://perma.cc/6ZF2-ZFRT
+
+
+https://perma.cc/Y6EV-8UMG
+
+
+https://perma.cc/2S4F-HBK7
 
 
 
@@ -254,14 +281,19 @@ For example, "Resolution of the Chief State Sanitary Doctor of the Republic of K
  
 
 *Sources*:
- https://online.zakon.kz/document/?doc_id=32648341#pos=4;-104
+ https://perma.cc/47HC-ZQJE
 
-https://online.zakon.kz/Document/?doc_id=34276342#pos=5;-106
 
-https://online.zakon.kz/Document/?doc_id=31726367#pos=5;-106
-https://online.zakon.kz/Document/?doc_id=32145215#pos=4;-106
+https://perma.cc/8UGX-6VMQ
 
-https://online.zakon.kz/Document/?doc_id=39846259#pos=4;-88
+
+https://perma.cc/QCM3-6Q7P
+
+
+https://perma.cc/WH6G-XWZM
+
+
+https://perma.cc/YDT8-8BHK
 
 
 
@@ -302,14 +334,22 @@ https://online.zakon.kz/Document/?doc_id=39846259#pos=4;-88
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: no defined time limit. 
 
 *Sources*:
- https://online.zakon.kz/document/?doc_id=32648341#pos=4;-104
-https://online.zakon.kz/document/?doc_id=34412366
-https://online.zakon.kz/document/?doc_id=32986543
+ https://perma.cc/AS79-M589
 
-https://online.zakon.kz/Document/?doc_id=34276342#pos=5;-106
 
-https://online.zakon.kz/Document/?doc_id=31726367#pos=5;-106
-https://online.zakon.kz/Document/?doc_id=32145215#pos=4;-106
+https://perma.cc/GM64-Y9Z4
+
+
+https://perma.cc/RN4T-QBFG
+
+
+https://perma.cc/D6W6-5GPP
+
+
+https://perma.cc/7QH4-ZW49
+
+
+https://perma.cc/NQ5J-97UV
 
 
 
@@ -353,9 +393,13 @@ https://online.zakon.kz/Document/?doc_id=32145215#pos=4;-106
 Q3 2020, Q1 2021, Q2 2021: According to Law of Kazakhstan on public health and the healthcare system resembles the closest state of exception (paragraph 6 of Article 144, paragraph 4 of Article 150), the measures are declared by the state body in the field of sanitary and epidemiological welfare of the population. The measures have been declared by the Chief State Sanitary Doctor and regional authorities. 
 
 *Sources*:
- https://online.zakon.kz/document/?doc_id=1005029#pos=418;40
-http://www.parlam.kz/ru/legislative/1
-https://adilet.zan.kz/rus/docs/K090000193_#z1543
+ https://perma.cc/Y5SB-AXJJ
+
+
+https://perma.cc/7GHH-SYV8
+
+
+https://perma.cc/25Q2-5YJE
 
 
 
@@ -397,7 +441,7 @@ https://adilet.zan.kz/rus/docs/K090000193_#z1543
  Not required by law for all time periods. 
 
 *Sources*:
- http://www.parlam.kz/ru/legislative/1
+ https://perma.cc/VU49-FKZX
 
 
 
@@ -445,10 +489,13 @@ https://adilet.zan.kz/rus/docs/K090000193_#z1543
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: According to Law of Kazakhstan on public health and the healthcare system resembles the closest state of exception (paragraph 6 of Article 144, paragraph 4 of Article 150), the measures are implemented by the state body in the field of sanitary and epidemiological welfare of the population. 
 
 *Sources*:
- https://online.zakon.kz/document/?doc_id=1036912#pos=294;-56
-https://online.zakon.kz/document/?doc_id=1036912#pos=162;-46
+ https://perma.cc/XE85-UENY
 
-https://online.zakon.kz/Document/?doc_id=34464437#pos=2758;-40
+
+https://perma.cc/32XM-TWL4
+
+
+https://perma.cc/5LK2-VPH3
 
 
 
@@ -576,13 +623,22 @@ Q4 2020, : Mostly uniform measures, stricter measures in Almaty.
 Q1 2021, Q2 2021: stricter measures in some areas. Regions were divided into red, yellow, or green zones, with a different level of restrictions. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/328946/kazakhstan-government-implements-restrictive-measures-in-shymkent-april-4-update-10
+ https://perma.cc/KKA6-4555
 
-https://www.garda.com/crisis24/news-alerts/389786/kazakhstan-authorities-increase-covid-19-measures-in-almaty-october-15-update-24
-https://www.garda.com/crisis24/news-alerts/430916/kazakhstan-as-of-jan-18-authorities-re-add-nur-sultan-to-red-zone-for-covid-19-infections-update-30
-https://www.garda.com/crisis24/news-alerts/437391/kazakhstan-authorities-amend-list-of-regions-based-on-epidemiological-risk-feb-1-nur-sultan-moved-from-red-zone-to-yellow-zone-update-31
-https://www.garda.com/crisis24/news-alerts/447321/kazakhstan-authorities-to-begin-easing-covid-19-measures-in-most-regions-starting-march-1-update-33
-https://www.garda.com/crisis24/news-alerts/481051/kazakhstan-authorities-update-list-of-regions-based-on-covid-19-epidemiological-risk-may-20-update-39
+
+https://perma.cc/7XKD-W4W6
+
+
+https://perma.cc/U958-TVP5
+
+
+https://perma.cc/Z5WW-PZMF
+
+
+https://perma.cc/35XV-4RDF
+
+
+https://perma.cc/5YE5-P23U
 
 
 
@@ -626,7 +682,7 @@ https://www.garda.com/crisis24/news-alerts/481051/kazakhstan-authorities-update-
  No de-jure disciminating provisions and no information on de-facto discrimination found 
 
 *Sources*:
- https://www.hrw.org/europe/central-asia/kazakhstan
+ https://perma.cc/3FFK-EEAV
 
 
 
@@ -677,15 +733,18 @@ https://www.garda.com/crisis24/news-alerts/481051/kazakhstan-authorities-update-
 In March 2020, the apartment block of around a hundred people in the Kazakh city of Ust Kamenogorsk was welded shut and 14 days people living there could not leave the building. This likely violated Article 9 of ICCPR and is not included in the coding. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/06/central-asias-covid19/
-https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
-https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
-https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/kazakhstan/
+ https://perma.cc/Z558-CGW2
+https://perma.cc/J6YD-TXX9
+https://perma.cc/Z24B-6H2S
+https://perma.cc/U9PW-GP3L
+https://perma.cc/9J9B-32EU
 (1)
-http://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=6QkG1d%2FPPRiCAqhKb7yhsrdB0H1l5979OVGGB%2BWPAXjdnG1mwFFfPYGIlNfb%2F6T%2Fqwtc77%2FKU9JkoeDcTWWPIpCoePGBcMsRmFtoMu58pgnmzjyiyRGkPQekcPKtaaTG
-https://www.iphronline.org/wp-content/uploads/2020/07/REV-HUMAN-RIGHTS-IMPACT-ASSESSMENT-OF-THE-COVID-19-RESPONSE-IN-KAZAKHSTAN.pdf
+
+https://perma.cc/V3J7-FTKS
+https://perma.cc/Z48C-X5GG
 (2)
+
+
 
 
 
@@ -729,9 +788,10 @@ https://www.iphronline.org/wp-content/uploads/2020/07/REV-HUMAN-RIGHTS-IMPACT-AS
  No evidence of measures limiting media freedom found in the text of emergency measures. According to Human Rights Watch, "In Kazakhstan, the authorities have used existing laws to suppress freedom of expression among activists and journalists." (1) 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
+ https://perma.cc/Y235-BHKX
 (1)
-https://online.zakon.kz/document/?doc_id=32648341
+
+https://perma.cc/H7BR-MCK7
 
 
 
@@ -851,11 +911,12 @@ https://online.zakon.kz/document/?doc_id=32648341
  According to Human Rights Watch, "In Kazakhstan, the authorities have used existing laws to suppress freedom of expression among activists and journalists." (1)  Under a state of emergency, violations of the measures for controlling mass media can result in a fine or detention for up to 15 days. (Art 476 (7) of the Law on Administrative Offenses). Moreover, according to Art. 274 (4) of the Criminal Code, spreading disinformation during a state of emergency can be punishable by up to 3 years in jail (note that without a declared state of emergency, the same offenses can be punished by a fine, public works or up to 3 years in jail) . Because of existing legislation limiting media freedom, merepfact is coded as 1 in all time periods. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
+ https://perma.cc/4LBB-LVDG
 (1)
-http://adilet.zan.kz/rus/docs/K1400000235#3239
-https://online.zakon.kz/document/?doc_id=31575252#pos=3965;-46
-https://cpj.org/2020/07/kazakhstan-decriminalizes-defamation-but-maintains-detentions-criminal-penalties-for-speech-offenses/
+
+https://perma.cc/A84B-HB87
+https://perma.cc/DZ5F-7QE8
+https://perma.cc/8VRT-T2N4
 
 
 
@@ -899,13 +960,12 @@ https://cpj.org/2020/07/kazakhstan-decriminalizes-defamation-but-maintains-deten
  
 
 *Sources*:
- https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
-https://rsf.org/en/news/kazakh-journalists-harassed-over-covid-19-reporting
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
+ https://perma.cc/4LBB-LVDG
+https://perma.cc/QNU7-5NLM
+https://perma.cc/YE8C-BQ7T
 (1)
-https://cpj.org/2020/07/kazakhstan-decriminalizes-defamation-but-maintains-detentions-criminal-penalties-for-speech-offenses/
+
+https://perma.cc/8VRT-T2N4
 
 
 
@@ -947,7 +1007,7 @@ https://cpj.org/2020/07/kazakhstan-decriminalizes-defamation-but-maintains-deten
  According to the US Department of State Report for 2020, "Prisoner rights activists expressed concern that authorities used Covid-19 restrictions to block access to information about treatment in prisons. " (1) Since I found no evidence for 2021, merepoth is coded as 1 in 2020. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/kazakhstan/
+ https://perma.cc/V8D2-EK5Q
 (1)
 
 
@@ -993,15 +1053,17 @@ https://cpj.org/2020/07/kazakhstan-decriminalizes-defamation-but-maintains-deten
 According to the US Department of State report for 2020, " Human rights observers reported arbitrary detentions during the COVID-19 quarantine restrictions. The nongovernmental organization (NGO) Kazakhstan International Bureau for Human Rights and Rule of Law reported that Almaty authorities built a tent facility and involuntarily confined all homeless citizens picked up in the city during the COVID-19 lockdown that began in March. Some individuals who live near the facility alleged that, in addition to homeless citizens, others who happened to be on site during police raids were also among those locked up in the facility. The few individuals who managed to escape the police-controlled facility complained about hunger, cold, and brutal beatings. Journalists and human rights observers who tried to verify allegations were denied access to the facility." (1) Since the report is for 2020 overall, meinf is coded as 1 in all time periods in 2020. I found no evidence for 2021. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/kazakhstan/
+ https://perma.cc/EF4Q-S25Q
 (1)
-https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
+
+https://perma.cc/X22A-ADNM
 (2)
-https://rsf.org/en/news/kazakh-journalists-harassed-over-covid-19-reporting
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#IV
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://rsf.org/en/kazakhstan
-https://www.centralasiaprogram.org/informing-public-dangers-pandemic-early-covid-19-coverage-news-organizations-kazakhstan
+
+https://perma.cc/T33B-FK7T
+https://perma.cc/Y5FF-H5UY
+https://perma.cc/UHM7-YH8M
+https://perma.cc/6Q26-HAKS
+https://perma.cc/ZS6A-YF4V
 
 
 
@@ -1043,10 +1105,13 @@ https://www.centralasiaprogram.org/informing-public-dangers-pandemic-early-covid
  No information found. 
 
 *Sources*:
- https://rsf.org/en/news/kazakh-journalists-harassed-over-covid-19-reporting
+ https://perma.cc/Z4W3-JZK6
 
-https://ipi.media/kazakhstan/
-https://rsf.org/en/kazakhstan
+
+https://perma.cc/US4U-DJNJ
+
+
+https://perma.cc/8KBS-HYDS
 
 
 
@@ -1088,9 +1153,10 @@ https://rsf.org/en/kazakhstan
  Reports of arrests of journalists covering government's response to the pandemic:  "Kazak authorities arrest two KTK TV journalists reporting on hospital working conditions on April 11, 2020. Police in the western city of Atyrau arrested journalist Beken Alirakhimov and cameraman Manas Sharipov of KTK TV as they were interviewing doctors and reporting on working conditions at a hospital in the city. The pair were charged with “violating the state of emergency” under Article 476 of the Administrative Code. They were found guilty on April 24 and were placed under forced quarantine for two weeks in hospital." (IPI, 1)  Since cases of physical harassment of journalists are monitored by various sources (IPI, CPJ) on a case by case bases, lack of information likely means that there were no further cases of physical harrassment. 
 
 *Sources*:
- https://rsf.org/en/news/kazakh-journalists-harassed-over-covid-19-reporting
-https://ipi.media/covid19-media-freedom-monitoring/
-(1)
+ https://perma.cc/4GTZ-QGTC
+
+
+https://perma.cc/36C8-TF4M
 
 
 
@@ -1134,10 +1200,13 @@ https://ipi.media/covid19-media-freedom-monitoring/
  official website with information on covid-19; no reports on disinformation found 
 
 *Sources*:
- https://www.coronavirus2020.kz/
+ https://perma.cc/6RA9-7UU8
 
-https://ipi.media/kazakhstan/
-https://rsf.org/en/kazakhstan
+
+https://perma.cc/C4PS-H5QR
+
+
+https://perma.cc/P6AW-NTCL
 
 
 
@@ -1181,10 +1250,10 @@ https://rsf.org/en/kazakhstan
  According to the US Department of State report for 2020, "Human rights observers reported arbitrary detentions during the COVID-19 quarantine restrictions. The nongovernmental organization (NGO) Kazakhstan International Bureau for Human Rights and Rule of Law reported that Almaty authorities built a tent facility and involuntarily confined all homeless citizens picked up in the city during the COVID-19 lockdown that began in March. Some individuals who live near the facility alleged that, in addition to homeless citizens, others who happened to be on site during police raids were also among those locked up in the facility. The few individuals who managed to escape the police-controlled facility complained about hunger, cold, and brutal beatings. Journalists and human rights observers who tried to verify allegations were denied access to the facility." (1). The measures applied during the state of emergency (2), therefore pomviol is coded as 1 only in Q2 2020. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/kazakhstan/
+ https://perma.cc/PL6J-YPFY
 (1)
 
-https://www.iphronline.org/wp-content/uploads/2020/07/REV-HUMAN-RIGHTS-IMPACT-ASSESSMENT-OF-THE-COVID-19-RESPONSE-IN-KAZAKHSTAN.pdf
+https://perma.cc/4WZN-6GR6
 (2)
 
 
@@ -1227,7 +1296,13 @@ https://www.iphronline.org/wp-content/uploads/2020/07/REV-HUMAN-RIGHTS-IMPACT-AS
  Provision 4 in decree 285 on the involvement of military forces in enforcing quarantine during the state of emergency; reports on military's involvement in monitoring compliance with confinement measures on its website. There are local media reports from October saying that the military may be mobilized to deal with the second wave of Covid-19, but so far I found no evidence of the military's involvement. Since the state of emergency ended on 11 May 2020, milinv is coded as 1 only during Q2 2020. 
 
 *Sources*:
- https://online.zakon.kz/document/?doc_id=32648341#pos=4;-104
-https://www.gov.kz/memleket/entities/mod/press/news/details/minoborony-prinimaet-dopolnitelnye-mery-v-ramkah-rezhima-chp?lang=ru
-https://www.gov.kz/memleket/entities/mod/press/news/1?lang=ru
-https://kursiv.kz/news/obschestvo/2020-10/v-kazakhstane-podgotovili-armiyu-na-sluchay-vtoroy-volny-koronavirusa
+ https://perma.cc/Y98J-S23L
+
+
+https://perma.cc/8ZZ4-VRWF
+
+
+https://perma.cc/QJ49-EPGQ
+
+
+https://perma.cc/RBY8-SNRZ

@@ -45,30 +45,21 @@
  The Jordanian King declared a state of emergency on March 19 2020 by a Royal Decree. The legal basis for this state of emergency is the Article 124 in the Jordanian Constitution. The declaration did not include an end date, however, but Jordan has continued to impose various restrictions such as lockdowns and curfews throughout the coded period (the latest being easing the curfew somewhat in may 2021). Garda also state in their country report from 2020 that the Covid-19 state of emergency is ongoing, and no indication has been found that it has ended and that current restrictions are based on any other legal instrument  This is therefore coded as 1, a state of emergency within the existing legal framework, for all periods. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Jordan_2016.pdf?lang=en
+ https://perma.cc/PAM4-J8FL
+https://web.archive.org/web/20200523172604/https://www.loc.gov/law/foreign-news/article/jordan-government-takes-steps-aimed-at-curbing-Covid-19-outbreak/
+https://perma.cc/A3NH-SKPG
+https://perma.cc/4Z8X-5ZDA
+https://perma.cc/MF6G-WS7G
+https://perma.cc/6GEG-AQBB
+https://perma.cc/V93H-VHJQ
 
-https://www.loc.gov/law/foreign-news/article/jordan-government-takes-steps-aimed-at-curbing-Covid-19-outbreak/
+https://perma.cc/5NRK-NZYC
 
-https://www.acaps.org/covid19-government-measures-dataset
+https://perma.cc/WT7Y-BRBE
 
-https://www.hrw.org/news/2020/03/20/jordan-state-emergency-declared
+https://perma.cc/KF5L-XZKU
 
-https://www.garda.com/crisis24/news-alert-full-history/NFhXD4B95qP4aB2vu/jordan-quarantine-and-screening-measures-implemented-nationwide-february-2
-
-https://www.arabstates.undp.org/content/rbas/en/home/library/crisis-response0/covid19--socio-economic-impact.html
-https://www.garda.com/crisis24/news-alerts/479311/jordan-authorities-reduce-the-nightly-curfew-to-2300-0600-from-may-13-until-further-notice-amid-gradual-easing-of-Covid-19-restrictions-update-69
-
-
-https://www.garda.com/crisis24/news-alerts/461081/jordan-authorities-extend-existing-curfews-and-other-Covid-19-restrictions-nationwide-until-at-least-may-15-update-65
-
-
-https://www.garda.com/crisis24/news-alerts/429186/jordan-authorities-cancels-24-hour-friday-curfews-starting-jan-15-update-61
-
-
-https://crisis24.garda.com/insights-intelligence/intelligence/country-reports/jordan
-
-
-https://www.reuters.com/article/us-health-coronavirus-jordan-protests-idUSKBN2B60QY
+https://perma.cc/5H82-LFYX
 
 
 
@@ -107,9 +98,7 @@ https://www.reuters.com/article/us-health-coronavirus-jordan-protests-idUSKBN2B6
 *No comment provided* 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Jordan_2016.pdf?lang=en
-
-
+ https://perma.cc/VRE9-AEY6
 
 
 
@@ -148,13 +137,10 @@ https://www.reuters.com/article/us-health-coronavirus-jordan-protests-idUSKBN2B6
 *No comment provided* 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Jordan_2016.pdf?lang=en
-
-https://www.loc.gov/law/foreign-news/article/jordan-government-takes-steps-aimed-at-curbing-Covid-19-outbreak/
-
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.hrw.org/news/2020/03/20/jordan-state-emergency-declared
+ https://perma.cc/4C4N-A7D4
+https://web.archive.org/web/20200523172604/https://www.loc.gov/law/foreign-news/article/jordan-government-takes-steps-aimed-at-curbing-Covid-19-outbreak/
+https://perma.cc/79SM-KH7J
+https://perma.cc/Y36Y-S44N
 
 
 
@@ -193,21 +179,37 @@ https://www.hrw.org/news/2020/03/20/jordan-state-emergency-declared
  Implementation of legal instrument does not seem to have ended by time of coding, Sources such as Garda and Acaps do not report any such termination, and there is no other indication that it has ended. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/NFhXD4B95qP4aB2vu/jordan-quarantine-and-screening-measures-implemented-nationwide-february-2
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.garda.com/crisis24/news-alerts/479311/jordan-authorities-reduce-the-nightly-curfew-to-2300-0600-from-may-13-until-further-notice-amid-gradual-easing-of-Covid-19-restrictions-update-69
+ https://perma.cc/HKL7-TV85
 
 
-https://www.garda.com/crisis24/news-alerts/461081/jordan-authorities-extend-existing-curfews-and-other-Covid-19-restrictions-nationwide-until-at-least-may-15-update-65
+https://perma.cc/355L-3J6E
 
 
-https://www.garda.com/crisis24/news-alerts/429186/jordan-authorities-cancels-24-hour-friday-curfews-starting-jan-15-update-61
+https://perma.cc/QV5R-MAQW
 
 
-https://crisis24.garda.com/insights-intelligence/intelligence/country-reports/jordan
 
 
-https://www.reuters.com/article/us-health-coronavirus-jordan-protests-idUSKBN2B60QY
+
+https://perma.cc/7N7R-C9TT
+
+
+
+
+
+https://perma.cc/AQ6C-XK48
+
+
+
+
+
+https://perma.cc/C68J-GYSG
+
+
+
+
+
+https://perma.cc/2HYF-CVV5
 
 
 
@@ -249,12 +251,11 @@ https://www.reuters.com/article/us-health-coronavirus-jordan-protests-idUSKBN2B6
  Only one of the sources found on the state of emergency in Jordan report that there's a time limit on it (the Swedish Embassy), which states that it is initially imposed for two weeks with the possibility of extension. This is therefore coded as 1 in Q2 of 2020. However, as no evidence has been found of any time limits after this period, and that the SOE is in place without any officially declared end date being found, this is coded as 0 for all other periods. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Jordan_2016.pdf?lang=en
-https://www.loc.gov/law/foreign-news/article/jordan-government-takes-steps-aimed-at-curbing-Covid-19-outbreak/
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.hrw.org/news/2020/03/20/jordan-state-emergency-declared
-https://www.garda.com/crisis24/news-alert-full-history/NFhXD4B95qP4aB2vu/jordan-quarantine-and-screening-measures-implemented-nationwide-february-2
-https://www.swedenabroad.se/en/embassies/jordan-amman/current/news/jordan-announces-state-of-emergency/
+ https://perma.cc/2VYV-3GJC
+https://web.archive.org/web/20200523172604/https://www.loc.gov/law/foreign-news/article/jordan-government-takes-steps-aimed-at-curbing-Covid-19-outbreak/https://perma.cc/7LFB-AAKF
+https://perma.cc/AM8W-C6E8
+https://perma.cc/UQ9M-X848
+https://perma.cc/EB28-Q8MD
 
 
 
@@ -293,21 +294,34 @@ https://www.swedenabroad.se/en/embassies/jordan-amman/current/news/jordan-announ
  The state of emergency was initially set to end after two weeks, which is on March 31 2020. It has since been extended, but no subsequent or current declared end date has been found. 
 
 *Sources*:
- https://www.swedenabroad.se/en/embassies/jordan-amman/current/news/jordan-announces-state-of-emergency/
-
-https://www.garda.com/crisis24/news-alerts/479311/jordan-authorities-reduce-the-nightly-curfew-to-2300-0600-from-may-13-until-further-notice-amid-gradual-easing-of-Covid-19-restrictions-update-69
+ https://perma.cc/TG9J-C8E7
 
 
-https://www.garda.com/crisis24/news-alerts/461081/jordan-authorities-extend-existing-curfews-and-other-Covid-19-restrictions-nationwide-until-at-least-may-15-update-65
+https://perma.cc/72ST-YDZ5
 
 
-https://www.garda.com/crisis24/news-alerts/429186/jordan-authorities-cancels-24-hour-friday-curfews-starting-jan-15-update-61
 
 
-https://crisis24.garda.com/insights-intelligence/intelligence/country-reports/jordan
+
+https://perma.cc/V6JQ-SY9P
 
 
-https://www.reuters.com/article/us-health-coronavirus-jordan-protests-idUSKBN2B60QY
+
+
+
+https://perma.cc/U2TR-55FR
+
+
+
+
+
+https://perma.cc/BH6J-28C9
+
+
+
+
+
+https://perma.cc/GY8A-AVFR
 
 
 
@@ -349,11 +363,11 @@ https://www.reuters.com/article/us-health-coronavirus-jordan-protests-idUSKBN2B6
  No, the constitution states that a state of emergency is declared by royal decree, i.e. the  Jordanian King. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Jordan_2016.pdf?lang=en
-https://www.loc.gov/law/foreign-news/article/jordan-government-takes-steps-aimed-at-curbing-Covid-19-outbreak/
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.hrw.org/news/2020/03/20/jordan-state-emergency-declared
-https://www.garda.com/crisis24/news-alert-full-history/NFhXD4B95qP4aB2vu/jordan-quarantine-and-screening-measures-implemented-nationwide-february-2
+ https://perma.cc/49M2-FQ9Y
+https://web.archive.org/web/20200523172604/https://www.loc.gov/law/foreign-news/article/jordan-government-takes-steps-aimed-at-curbing-Covid-19-outbreak/
+https://perma.cc/3GR4-XNJR
+https://perma.cc/7UAZ-A25M
+https://perma.cc/5JWB-4XPC
 
 
 
@@ -395,15 +409,11 @@ https://www.garda.com/crisis24/news-alert-full-history/NFhXD4B95qP4aB2vu/jordan-
  No, the parliament does not need to approve the state of emergency and has thus  not been given the chance. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Jordan_2016.pdf?lang=en
-
-https://www.loc.gov/law/foreign-news/article/jordan-government-takes-steps-aimed-at-curbing-Covid-19-outbreak/
-
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.hrw.org/news/2020/03/20/jordan-state-emergency-declared
-
-https://www.garda.com/crisis24/news-alert-full-history/NFhXD4B95qP4aB2vu/jordan-quarantine-and-screening-measures-implemented-nationwide-february-2
+ https://perma.cc/2VYV-3GJC
+https://web.archive.org/web/20200523172604/https://www.loc.gov/law/foreign-news/article/jordan-government-takes-steps-aimed-at-curbing-Covid-19-outbreak/
+https://perma.cc/7LFB-AAKF
+https://perma.cc/AM8W-C6E8
+https://perma.cc/UQ9M-X848
 
 
 
@@ -449,28 +459,21 @@ https://www.garda.com/crisis24/news-alert-full-history/NFhXD4B95qP4aB2vu/jordan-
  The state of emergency under the Defence Law gives the prime minister far reaching authority and full responsibility to enact emergency measures. The parliament still meets however, and can for example question the prime minister on the actions taken under the Defense Law, although their law making role is significantly curtailed under the state of emergency. This is therefore coded as 3. Note that the Jordanian king has elected a new Prime Minister in October, and that Jordan held parliamentary elections on November 12 2020. The electoral process was contested and critizised as it occurred during a large Covid-19 outbreak and offered no opportunities to vote by mail or the like, causing very low turnout. This, however, does not seem seem to have any further impact on the parliaments law making role, as it stays as limited as before during the state of emergency. The new parliament also convened and continues to sit. 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/?location=64&issue=&date=&type=
+ https://perma.cc/9VV4-L2E6
+http://www.pm.gov.jo/content/1584465107/ÿ•ÿ±ÿßÿØÿ©-ŸÖŸÑŸÉŸäÿ©-ÿ®ÿßŸÑŸÖŸàÿßŸÅŸÇÿ©-ÿπŸÑŸâ-ŸÇÿ±ÿßÿ±-ŸÖÿ¨ŸÑÿ≥-ÿßŸÑŸàÿ≤ÿ±ÿßÿ°-ÿ•ÿπŸÑÿßŸÜ-ÿßŸÑÿπŸÖŸÑ-ÿ®ŸÇÿßŸÜŸàŸÜ-ÿßŸÑÿØŸÅÿßÿπ.html
 
-http://www.pm.gov.jo/content/1584465107/إرادة-ملكية-بالموافقة-على-قرار-مجلس-الوزراء-إعلان-العمل-بقانون-الدفاع.html
+https://perma.cc/FTP2-9E94
+https://perma.cc/UC45-MG5Q
+https://perma.cc/37UP-BQ4F
 
-https://www.constituteproject.org/constitution/Jordan_2016.pdf?lang=en
+https://perma.cc/55G5-LPCM
 
-https://www.washingtonpost.com/politics/2020/11/20/pandemic-compromised-jordans-parliamentary-elections/
+https://perma.cc/8BLP-7T9T
 
-https://www.garda.com/crisis24/news-alerts/479311/jordan-authorities-reduce-the-nightly-curfew-to-2300-0600-from-may-13-until-further-notice-amid-gradual-easing-of-Covid-19-restrictions-update-69
+https://perma.cc/3VGC-2BKZ
 
-
-https://www.garda.com/crisis24/news-alerts/461081/jordan-authorities-extend-existing-curfews-and-other-Covid-19-restrictions-nationwide-until-at-least-may-15-update-65
-
-
-https://www.garda.com/crisis24/news-alerts/429186/jordan-authorities-cancels-24-hour-friday-curfews-starting-jan-15-update-61
-
-
-https://crisis24.garda.com/insights-intelligence/intelligence/country-reports/jordan
-
-
-https://www.reuters.com/article/us-health-coronavirus-jordan-protests-idUSKBN2B60QY
-https://www.arabnews.com/node/1825421/middle-east
+https://perma.cc/2Z7J-B87U
+https://perma.cc/HVU3-JBJ9
 
 
 
@@ -592,22 +595,34 @@ https://www.arabnews.com/node/1825421/middle-east
  Jordan's emergency measures have been implemented nationally, but some regions (Aqaba, Irbid, Karak, Ma’an, Mafraq and Tafila) eased their lockdowns more than other regions in April 2020, and in August 2020 the Ramtha region imposed curfews not in place in the rest of the country. Likewise, a number of regional measures have been taken in October and November in 2020, where lockdowns and various curfews have been put in place in specific areas or cities (alongside national measures). For Q2 and Q3 of 2020, there is thus a smaller sub-national variation and coded as 1, whereas Q4 sees some increase sub-national variation and coded as 2. However, for Q1 and Q2 of 2021 all restrictions seem to be in force nationally, e.g. curfews, and no sub-national variation has been found. These period are thus coded 0. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/NFhXD4B95qP4aB2vu/jordan-quarantine-and-screening-measures-implemented-nationwide-february-2
-
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.garda.com/crisis24/news-alerts/385871/jordan-authorities-to-impose-24-hour-curfew-in-ain-al-basha-between-october-5-12-update-38
-
-https://www.garda.com/crisis24/news-alerts/386596/jordan-lockdown-in-parts-of-amman-jerash-and-mafraq-implemented-from-october-7-to-14-update-39
-
-https://www.garda.com/crisis24/news-alerts/395416/jordan-five-day-nationwide-lockdown-to-be-imposed-from-november-11-update-45
-https://www.garda.com/crisis24/news-alerts/479311/jordan-authorities-reduce-the-nightly-curfew-to-2300-0600-from-may-13-until-further-notice-amid-gradual-easing-of-Covid-19-restrictions-update-69
+ https://perma.cc/7MD2-4EDB
 
 
-https://www.garda.com/crisis24/news-alerts/461081/jordan-authorities-extend-existing-curfews-and-other-Covid-19-restrictions-nationwide-until-at-least-may-15-update-65
+https://perma.cc/4TY4-ZUR2
 
 
-https://www.garda.com/crisis24/news-alerts/429186/jordan-authorities-cancels-24-hour-friday-curfews-starting-jan-15-update-61
+https://perma.cc/J4QV-3G3Q
+
+
+https://perma.cc/XBX6-HQ2Q
+
+
+https://perma.cc/72CR-BBSC
+
+
+https://perma.cc/3XZD-CKX6
+
+
+
+
+
+https://perma.cc/S4XN-Z3U8
+
+
+
+
+
+https://perma.cc/LC4R-DXBC
 
 
 
@@ -651,12 +666,16 @@ https://www.garda.com/crisis24/news-alerts/429186/jordan-authorities-cancels-24-
  Human Rights Watch and Amnesty International have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. Note that Jordan has been criticized for imposing extensive Covid-19 restrictions without providing aid toward more vulnerable groups who are more affected by these restrictions. However, the restrictions themselves have not been imposed differently across groups and this therefore doesn’t constitute discrimination. 
 
 *Sources*:
- https://www.hrw.org/middle-east/n-africa/jordan
-https://www.amnesty.org/en/search/?country=38539&resourceType=newsarticle&sort=date
+ https://perma.cc/5GB7-SUMS
 
-https://www.business-humanrights.org/en/from-us/briefings/workers-at-risk-labour-rights-in-jordan-during-Covid-19/
 
-https://www.hrw.org/world-report/2021/country-chapters/jordan
+https://perma.cc/K227-X9A2
+
+
+https://perma.cc/YZZ6-TPVA
+
+
+https://perma.cc/SGR4-965T
 
 
 
@@ -705,10 +724,13 @@ https://www.hrw.org/world-report/2021/country-chapters/jordan
  Human Rights Watch and Amnesty International have not reported any violations of non-derogable rights within the response to Covid-19, and no other indications of such violations has been found. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/05/jordan-free-speech-threats-under-Covid-19-response
-https://www.amnesty.org/en/search/?country=38539&resourceType=newsarticle&sort=date
+ https://perma.cc/VPG9-GQUV
 
-https://www.hrw.org/world-report/2021/country-chapters/jordan
+
+https://perma.cc/DW2R-Z7HN
+
+
+https://perma.cc/5XJN-C2Z4
 
 
 
@@ -752,15 +774,19 @@ https://www.hrw.org/world-report/2021/country-chapters/jordan
  Jordans government issued a decree in April 2020 under the state of emergency that states that spreading ”rumours, fabrications and false news that sows panic” about the pandemic is punishable with up to three years in prison. Furthermore, it has no declared end date as has been found, and as far as have been seen it is still in effect (as is the state of emergency). As part of the emergency measures, the government has also suspended all printed media as they argue it would increase the spread of the virus. No indication has been found that either of these have been removed, and this is therefore coded 1 for all periods. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/05/jordan-free-speech-threats-under-Covid-19-response
+ https://perma.cc/HF4Q-RB2L
 
-https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
 
-https://cpj.org/2020/03/jordan-oman-morocco-and-yemen-suspend-newspaper-pr/
+https://perma.cc/373T-UFGF
 
-https://ipi.media/rush-to-pass-fake-news-laws-during-Covid-19-intensifying-global-media-freedom-challenges/
 
-https://www.hrw.org/world-report/2021/country-chapters/jordan
+https://perma.cc/P42G-G97M
+
+
+https://perma.cc/Z97M-WXQE
+
+
+https://perma.cc/6KXJ-XJED
 
 
 
@@ -799,7 +825,7 @@ https://www.hrw.org/world-report/2021/country-chapters/jordan
 *No comment provided* 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/05/jordan-free-speech-threats-under-Covid-19-response
+ https://perma.cc/9UBG-4MUX
 
 
 
@@ -838,15 +864,19 @@ https://www.hrw.org/world-report/2021/country-chapters/jordan
  No declared end has been found on the either the ban on spreading “rumours, fabrications and false news that sows panic” or the ban on printed media. Furthermore, no reports on it having ended have been found either, and it is therefore assumed to still be active. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/05/jordan-free-speech-threats-under-Covid-19-response
+ https://perma.cc/HF4Q-RB2L
 
-https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
 
-https://cpj.org/2020/03/jordan-oman-morocco-and-yemen-suspend-newspaper-pr/
+https://perma.cc/373T-UFGF
 
-https://ipi.media/rush-to-pass-fake-news-laws-during-Covid-19-intensifying-global-media-freedom-challenges/
 
-https://www.hrw.org/world-report/2021/country-chapters/jordan
+https://perma.cc/P42G-G97M
+
+
+https://perma.cc/Z97M-WXQE
+
+
+https://perma.cc/6KXJ-XJED
 
 
 
@@ -888,17 +918,31 @@ https://www.hrw.org/world-report/2021/country-chapters/jordan
  There are several reports of journalists being arrested and detained for investigating and reporting on Covid-19, for example being accused of having spread rumours and fake news. Furthermore, the Jordanian media has faced additional limitations in July and August in 2020 when government has cracked down on their coverage of protests against the government. There are also extensive other limitations on media in Jordan, and the issued ban on spreading “rumours, fabrications and false news that sows panic” which is part of the emergency response and ongoing as far as I’ve found. This is therefore coded 1 for all periods. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/05/jordan-free-speech-threats-under-Covid-19-response
-https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/news/two-jordanian-tv-journalists-arrested-after-broadcasting-criticism-lockdown
-https://ipi.media/ipi-condemns-the-arrest-of-two-tv-executives-in-jordan/
-https://www.hrw.org/news/2020/08/18/jordan-escalating-repression-journalists
-https://rsf.org/en/news/jordan-bans-coverage-teachers-protests
-https://www.hrw.org/news/2021/02/11/uae-jordanian-convicted-criticizing-jordan-facebook
+ https://perma.cc/7AP5-UDVE
 
-https://cpj.org/2021/04/jordan-issues-ban-on-media-coverage-of-royal-family-dispute/
 
-https://cpj.org/mideast/jordan/
+https://perma.cc/E9MN-X8TR
+
+
+https://perma.cc/RXB5-38UP
+
+
+https://perma.cc/A5CJ-ZJNW
+
+
+https://perma.cc/4GPM-D324
+
+
+https://perma.cc/KZ3H-YHDD
+
+
+https://perma.cc/M64N-Q6LS
+
+
+https://perma.cc/2WBX-HSLN
+
+
+https://perma.cc/2PTD-TCQ9
 
 
 
@@ -940,17 +984,31 @@ https://cpj.org/mideast/jordan/
  There are reports of journalists being arrested for reporting criticism on the governments response to Covid-19. Furthermore, the de jure bans on spreading news that can cause panic etc. constitutes a de facto limitation on reporting on the governments response to Covid-19. Finally, the Jordanian media also faces more general limitations, such as a crack down on their coverage of government protests during the summer, and the issued ban on spreading “rumours, fabrications and false news that sows panic” which is part of the emergency response and ongoing as far as I’ve found. This is therefore coded 1 for all periods. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/05/jordan-free-speech-threats-under-Covid-19-response
-https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/news/two-jordanian-tv-journalists-arrested-after-broadcasting-criticism-lockdown
-https://ipi.media/ipi-condemns-the-arrest-of-two-tv-executives-in-jordan/
-https://www.hrw.org/news/2020/08/18/jordan-escalating-repression-journalists
-https://rsf.org/en/news/jordan-bans-coverage-teachers-protests
-https://www.hrw.org/news/2021/02/11/uae-jordanian-convicted-criticizing-jordan-facebook
+ https://perma.cc/7AP5-UDVE
 
-https://cpj.org/2021/04/jordan-issues-ban-on-media-coverage-of-royal-family-dispute/
 
-https://cpj.org/mideast/jordan/
+https://perma.cc/E9MN-X8TR
+
+
+https://perma.cc/RXB5-38UP
+
+
+https://perma.cc/A5CJ-ZJNW
+
+
+https://perma.cc/4GPM-D324
+
+
+https://perma.cc/KZ3H-YHDD
+
+
+https://perma.cc/M64N-Q6LS
+
+
+https://perma.cc/2WBX-HSLN
+
+
+https://perma.cc/2PTD-TCQ9
 
 
 
@@ -992,17 +1050,31 @@ https://cpj.org/mideast/jordan/
  Jordan has, by banning printed media, halted the reporting on non-Covid-19 related news as well with reference to Covid-19. While the news outlets are allowed to publish online, it is still a de facto infringement of media reporting on non-Covid-19 related news. Furthermore, the vaguely formulated emergency measure to ban spreading of “rumours, fabrications and false news that sows panic” can easily be used toward non-Covid-19 related news as well. No evidence has been found that either of these have been lifted, and this is coded 1 for all periods. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/05/jordan-free-speech-threats-under-Covid-19-response
-https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/news/two-jordanian-tv-journalists-arrested-after-broadcasting-criticism-lockdown
-https://ipi.media/ipi-condemns-the-arrest-of-two-tv-executives-in-jordan/
-https://www.hrw.org/news/2020/08/18/jordan-escalating-repression-journalists
-https://rsf.org/en/news/jordan-bans-coverage-teachers-protests
-https://www.hrw.org/news/2021/02/11/uae-jordanian-convicted-criticizing-jordan-facebook
+ https://perma.cc/7AP5-UDVE
 
-https://cpj.org/2021/04/jordan-issues-ban-on-media-coverage-of-royal-family-dispute/
 
-https://cpj.org/mideast/jordan/
+https://perma.cc/E9MN-X8TR
+
+
+https://perma.cc/RXB5-38UP
+
+
+https://perma.cc/A5CJ-ZJNW
+
+
+https://perma.cc/4GPM-D324
+
+
+https://perma.cc/KZ3H-YHDD
+
+
+https://perma.cc/M64N-Q6LS
+
+
+https://perma.cc/2WBX-HSLN
+
+
+https://perma.cc/2PTD-TCQ9
 
 
 
@@ -1045,19 +1117,34 @@ https://cpj.org/mideast/jordan/
  There are several de facto and de jure limitations on media imposed by Jordan during the Covid-19 crisis, but no reports have been found about limitations on access to information, and this is therefore coded as 0. Note that there seem to be other issues of access to information for media in Jordan (as many other aspects of media freedom being restricted), but this does not seem to be related to any Covid-19 measures or directly apply to Covid-19 related information. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/05/jordan-free-speech-threats-under-Covid-19-response
-https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/news/two-jordanian-tv-journalists-arrested-after-broadcasting-criticism-lockdown
-https://ipi.media/ipi-condemns-the-arrest-of-two-tv-executives-in-jordan/
-https://www.hrw.org/news/2020/08/18/jordan-escalating-repression-journalists
-https://rsf.org/en/news/jordan-bans-coverage-teachers-protests
-https://www.hrw.org/news/2021/02/11/uae-jordanian-convicted-criticizing-jordan-facebook
+ https://perma.cc/C8RE-88NG
 
-https://cpj.org/2021/04/jordan-issues-ban-on-media-coverage-of-royal-family-dispute/
 
-https://cpj.org/mideast/jordan/
+https://perma.cc/D54R-6FJW
 
-https://www.opendemocracy.net/en/north-africa-west-asia/whats-wrong-jordanian-media/
+
+https://perma.cc/8ZFN-RR7T
+
+
+https://perma.cc/52GY-TZM2
+
+
+https://perma.cc/JJ6C-YHMU
+
+
+https://perma.cc/TRS6-DUKN
+
+
+https://perma.cc/Q2RA-KYCU
+
+
+https://perma.cc/459M-UL2S
+
+
+https://perma.cc/LGJ5-DRMX
+
+
+https://perma.cc/V2KQ-ZE7L
 
 
 
@@ -1099,21 +1186,47 @@ https://www.opendemocracy.net/en/north-africa-west-asia/whats-wrong-jordanian-me
  There are several reports on journalists being threatened and harassed by government over making inquiries into and criticizing, the Covid-19 situation and the government response. Most reports stem from Q2 of 2020, but there are also reports of arrests and threats in relation to Covid-19 reporting in Q3 and Q4 of 2020. However, no evidence of verbal harassment has been found in Q1 and Q2 of 2021.  This is therefore coded as 1 for Q2-Q4 of 2020, but coded 0 for Q1-Q2 of 2021. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/05/jordan-free-speech-threats-under-Covid-19-response
-https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/news/two-jordanian-tv-journalists-arrested-after-broadcasting-criticism-lockdown
-https://ipi.media/ipi-condemns-the-arrest-of-two-tv-executives-in-jordan/
-https://www.hrw.org/news/2020/08/18/jordan-escalating-repression-journalists
-https://rsf.org/en/news/jordan-bans-coverage-teachers-protests
-https://www.hrw.org/news/2021/02/11/uae-jordanian-convicted-criticizing-jordan-facebook
+ https://perma.cc/4GBT-M723
 
-https://cpj.org/2021/04/jordan-issues-ban-on-media-coverage-of-royal-family-dispute/
 
-https://cpj.org/mideast/jordan/
 
-https://ipi.media/alerts/jordanian-security-forces-arrest-owner-and-news-director-of-a-tv-channel/
+https://perma.cc/TA3T-72XU
 
-https://ipi.media/alerts/jordan-arrests-journalist-for-reporting-about-Covid-19-vaccine/
+
+
+https://perma.cc/S294-VGPQ
+
+
+
+https://perma.cc/43WJ-QNGF
+
+
+
+https://perma.cc/9QZ4-3WXW
+
+
+
+https://perma.cc/TJF2-P6MW
+
+
+
+https://perma.cc/9P88-UB2P
+
+
+
+https://perma.cc/C254-S62F
+
+
+
+https://perma.cc/2BZ3-PNHX
+
+
+
+https://perma.cc/GTB2-G7WA
+
+
+
+https://perma.cc/PM6G-3C95
 
 
 
@@ -1155,21 +1268,40 @@ https://ipi.media/alerts/jordan-arrests-journalist-for-reporting-about-Covid-19-
  There are several reports on journalists being harassed and arrested by government over making inquiries into and criticizing, the Covid-19 situation and the government response. Most reports stem from Q2 of 2020, but there are also reports of arrests in relation to Covid-19 reporting in Q3 and Q4 of 2020. However, no evidence of verbal harassment has been found in Q1 and Q2 of 2021.  This is therefore coded as 1 for Q2-Q4 of 2020, but coded 0 for Q1-Q2 of 2021. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/05/jordan-free-speech-threats-under-Covid-19-response
-https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/news/two-jordanian-tv-journalists-arrested-after-broadcasting-criticism-lockdown
-https://ipi.media/ipi-condemns-the-arrest-of-two-tv-executives-in-jordan/
-https://www.hrw.org/news/2020/08/18/jordan-escalating-repression-journalists
-https://rsf.org/en/news/jordan-bans-coverage-teachers-protests
-https://www.hrw.org/news/2021/02/11/uae-jordanian-convicted-criticizing-jordan-facebook
+ https://perma.cc/7AP5-UDVE
 
-https://cpj.org/2021/04/jordan-issues-ban-on-media-coverage-of-royal-family-dispute/
 
-https://cpj.org/mideast/jordan/
+https://perma.cc/E9MN-X8TR
 
-https://ipi.media/alerts/jordanian-security-forces-arrest-owner-and-news-director-of-a-tv-channel/
 
-https://ipi.media/alerts/jordan-arrests-journalist-for-reporting-about-Covid-19-vaccine/
+https://perma.cc/RXB5-38UP
+
+
+https://perma.cc/A5CJ-ZJNW
+
+
+https://perma.cc/4GPM-D324
+
+
+https://perma.cc/KZ3H-YHDD
+
+
+https://perma.cc/M64N-Q6LS
+
+
+https://perma.cc/2WBX-HSLN
+
+
+https://perma.cc/2PTD-TCQ9
+
+
+https://perma.cc/SB76-NSX5
+
+
+https://perma.cc/EZ3F-BXRX
+
+
+
 
 
 
@@ -1213,7 +1345,7 @@ https://ipi.media/alerts/jordan-arrests-journalist-for-reporting-about-Covid-19-
  There is no deviations from the information provided by WHO and that of the Jordanian Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
 
 *Sources*:
- https://corona.moh.gov.jo/en
+ https://perma.cc/J62J-CGZP
 
 
 
@@ -1257,19 +1389,25 @@ https://ipi.media/alerts/jordan-arrests-journalist-for-reporting-about-Covid-19-
  In July and August of 2020, there have been protests in Jordan in which there are reports that police have used excessive force to disperse these and arrest protesters, citing Covid-19 rules as the reason for these actions. In March of 2021, there were several protests against the government in Jordan, including it’s handling of the Covid-19 crisis and its ban on demonstrations as part of the emergency measures. Police dispersed these, using tear gas and force. However, no reference to Covid-19 restrictions were found in this enforcement, and this is therefore not included here. is therefore coded 1 for Q3 of 2020, and 0 for the other periods. 
 
 *Sources*:
- https://www.reuters.com/article/us-health-coronavirus-un-rights/u-n-raises-alarm-about-police-brutality-in-lockdowns-idUSKCN2291X9
+ https://perma.cc/D2N8-NSSP
 
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25828&LangID=E
 
-https://www.hrw.org/news/2020/05/05/jordan-free-speech-threats-under-Covid-19-response
+https://perma.cc/6GL4-HTRD
 
-https://www.amnesty.org/en/search/?country=38539&resourceType=newsarticle&sort=date
 
-https://www.hrw.org/news/2020/08/27/jordan-arrests-forced-dispersal-teacher-protests
+https://perma.cc/VR3R-6ALL
 
-https://www.reuters.com/article/jordan-protests-int-idUSKBN2BG37N
 
-https://www.nbcnews.com/news/world/jordan-uses-tear-gas-clamp-down-anti-lockdown-protesters-n1261273
+https://perma.cc/6JFD-4RL2
+
+
+https://perma.cc/TPE3-8YL9
+
+
+https://perma.cc/BW79-5UT8
+
+
+https://perma.cc/EL4P-Y8FT
 
 
 
@@ -1311,10 +1449,13 @@ https://www.nbcnews.com/news/world/jordan-uses-tear-gas-clamp-down-anti-lockdown
  Military personnel has been deployed in Jordan to enforce emergency measures, as reports confirm throughout most of the coded period. No indication has been found that there have been times where they have not been deployed and enforced restrictions. This is therefore coded 1 for all periods. 
 
 *Sources*:
- https://www.washingtonpost.com/world/coronavirus-military-enforce-soldiers-armed-forces/2020/03/25/647cbbb6-6d53-11ea-a156-0048b62cdb51_story.html
+ https://perma.cc/S552-Z79F
 
-https://www.arabnews.com/node/1745106/middle-east
 
-https://www.aljazeera.com/news/2020/10/9/jordan-entered-nationwide-coronavirus-lockdown-for-two-days
+https://perma.cc/9P52-73W6
 
-https://www.reuters.com/article/health-coronavirus-jordan-government-int-idUSKCN2AS0I7
+
+https://perma.cc/K65M-9B7U
+
+
+https://perma.cc/UYH6-MA6V

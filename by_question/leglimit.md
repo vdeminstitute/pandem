@@ -22,7 +22,7 @@
  I did not find any information to suggest that the lawmaking role of the legislature has been limited. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Afghanistan_2004.pdf?lang=en
+ https://perma.cc/3MAF-9YYS
 
 
 
@@ -49,11 +49,15 @@
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: no limitations on the lawmaking role of the legislature found. 
 
 *Sources*:
- https://www.kryeministria.al/newsroom/vendim-i-keshillit-te-ministrave-date-24-mars-2020/
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B339%5D&covid19=1
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-https://www.parlament.al/News/Index/10347
-https://www.wfd.org/wp-content/uploads/2021/04/National-Security-Protection-of-Human-Rights-in-Emergency-FINAL-EN.pdf
+ https://perma.cc/LMW8-5T6D
+
+https://perma.cc/J7UH-BULT
+
+https://perma.cc/GA3R-4N6K
+
+https://perma.cc/F8VJ-C33X
+
+https://perma.cc/872B-NL4K
 
 
 
@@ -84,26 +88,22 @@ The legislature is still not entirely suspended, given that any laws passed whil
 Algerian president Abdelmadjid Tebboune called for early legislative elections on 12 June 2021 and dissolved the National People's Assembly on 18 February 2021 (8), but this is a procedural dissolution for election purposes. 
 
 *Sources*:
- https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislative-activities.pdf
+ https://perma.cc/69FV-GL75
 (1)
+https://perma.cc/CQG8-JJVW
 
-
-https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
-
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+https://perma.cc/E38Y-NM2D
 (3)
-
 http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdf
 (4)
-
 http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20March%2021-27.pdf
 (5)
-
 https://perma.cc/A3S6-KFR5
 
-https://www.jeuneafrique.com/915472/politique/maroc-tunisie-algerie-le-coronavirus-bouscule-lagenda-politique-et-legislatif/
 
-https://www.agenceecofin.com/gouvernance-economique/2202-85429-algerie-abdelmadjid-tebboune-remanie-le-gouvernement-et-dissout-lassemblee-populaire-nationale
+https://perma.cc/4Q79-LL6Y
+
+https://perma.cc/F9GN-58M4
 (8)
 
 
@@ -129,9 +129,13 @@ https://www.agenceecofin.com/gouvernance-economique/2202-85429-algerie-abdelmadj
  The Constitution (Article 237) establishes that, while the state of emergency is in force, no amendment to the constitution can be made, but the president can rule by decree on covid-19 matters, as allowed by the Law nº 17/91, Article 20. The president continued to rule by decree during the state of calamity, since according to the Law nº 14/20 (Article 11) "The holder of the Executive Branch is responsible for: [...] c) declaring the situation of catastrophe or public calamity; d) Adopt, in the case provided for in the preceding paragraph, measures aimed at restoring normality; [...] h) To assume the direction of operations in the event of catastrophe or public calamity". (1) 
 
 *Sources*:
- https://www.governo.gov.ao/download.aspx?id=2411&tipo=legislacao
-(1)
-https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
+ https://perma.cc/8FXK-NJX2
+
+
+
+
+
+https://perma.cc/W4XH-SNW4
 
 
 
@@ -157,16 +161,16 @@ https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legisla
 
 *Sources*:
  [1]
-https://www.argentina.gob.ar/justicia/derechofacil/leysimple/emergencia-sanitaria-covid-19
+https://perma.cc/7MAK-P8RB
 
 [2]
-https://www.bbc.com/mundo/noticias-america-latina-52914804
+https://perma.cc/XQ23-6TAY
 
 [3]
-https://www.hcdn.gob.ar/institucional/infGestion/covid19/Protocolo_para_Sesiones_Telematicas.pdf
+https://perma.cc/SV9Y-JYGH
 
 [4]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+https://perma.cc/WSL3-BCPQ
 
 
 
@@ -193,18 +197,55 @@ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
 October-December 2020, January-March, April-June 2021: The parliament passed amendments that defined the general measures under quarantine on 4 September 2020. No further limitations found 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Armenia_2015?lang=en
-https://www.arlis.am/DocumentView.aspx?docID=75358
-https://www.arlis.am/DocumentView.aspx?docID=75358
-http://www.parliament.am/draft_history.php?id=11477&lang=arm
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+ https://perma.cc/LG4Y-LY2H
 
-(1)
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
 
-http://www.parliament.am/news.php?do=view&cat_id=2&day=04&month=09&year=2020&NewsID=13254&lang=arm
-http://www.parliament.am/legislation.php?sel=show&ID=7303&lang=arm
+
+
+
+https://perma.cc/UW3P-BCAQ
+
+
+
+
+
+https://perma.cc/UTP3-A6W2
+
+
+
+
+
+https://perma.cc/7CSF-WQA2
+
+
+
+
+
+https://perma.cc/P7WG-RSU8
+
+
+
+
+
+https://perma.cc/RD24-HPSD
+
+
+
+
+
+https://perma.cc/DN7P-4HTG
+
+
+
+
+
+https://perma.cc/AM9A-7SUQ
+
+
+
+
+
+https://perma.cc/FBG2-BNQE
 
 
 
@@ -231,22 +272,31 @@ Note also that the Australian parliament in two instances during 2020  suspended
 
 *Sources*:
  [2]
-https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Scrutiny_of_Delegated_Legislation/Scrutiny_of_COVID-19_instruments
-https://www.legislation.gov.au/Details/F2020L00266
-https://www.legislation.gov.au/Details/C2017C00303
-https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/rp1920/Quick_Guides/AustralianCovid-19ResponseManagement
+https://perma.cc/FJJ2-FFDK
 
-https://www.legislation.gov.au/Series/F2020L00266
+https://perma.cc/C2FQ-4ZHK
 
-https://www.legislation.gov.au/Details/F2021L00190
-https://www.legislation.gov.au/Details/F2020L01566
-https://www.legislation.gov.au/Details/F2020L01129
-https://www.legislation.gov.au/Details/F2020L00574
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/COVID-19/COVID19
-https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/FlagPost/2020/April/COVID-19_and_parliamentary_sittings
-https://www.aph.gov.au/About_Parliament/House_of_Representatives/About_the_House_News/News/The_Parliaments_response_to_the_COVID-19_pandemic
+https://perma.cc/Y8VV-DFYQ
 
+https://perma.cc/L6M7-NW43
+
+https://perma.cc/DW9R-9M4J
+
+https://perma.cc/6FHZ-ERZH
+
+https://perma.cc/288W-UQT6
+
+https://perma.cc/A5XV-EYZ3
+
+https://perma.cc/LU2Q-774Z
+
+https://perma.cc/QU38-FW3N
+
+https://perma.cc/3D56-TUY5
+
+https://perma.cc/ZA73-X8CL
+
+https://perma.cc/4M53-AQYW
 
 
 
@@ -271,18 +321,19 @@ https://www.aph.gov.au/About_Parliament/House_of_Representatives/About_the_House
  The first Covid-19 Law, and all subsequent laws, amendments and extensions, are passed by the parliament. There's no indication of the lawmaking role of the parliament being decreased during or due to this first Covid-19 Law, and no mention of such measures or consequences in Covid-19 Law text. The parliament has also voted no on some extensions of restrictions, postponing such legislation for 8 weeks to be voted on again. 
 
 *Sources*:
- https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2020_I_12/BGBLA_2020_I_12.pdfsig
-https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Rechtliches.html
+ https://perma.cc/32JV-8HF4
 
-https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011073
+https://perma.cc/WL4S-87XP
 
-https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Rechtliches.html
+https://perma.cc/NJ3Y-LYE5
 
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic-_may_2020.pdf
+https://perma.cc/FU8J-VYCG
 
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-Covid-19/
+https://perma.cc/726Q-2JUZ
 
-https://www.parlament.gv.at/PAKT/VHG/XXVII/A/A_01324/index.shtml#tab-Uebersicht
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+
+https://perma.cc/3QGG-PRZF
 
 
 
@@ -307,13 +358,13 @@ https://www.parlament.gv.at/PAKT/VHG/XXVII/A/A_01324/index.shtml#tab-Uebersicht
  Based on based on Article 25 of Law on Sanitary and Epidemiological Safety (used to implement emergency measures), the executive has the power to determine the measures for preventing and treating infectioous diseases. The parliament implemented social distancing measures and held some meetings online. 
 
 *Sources*:
- http://www.e-qanun.az/framework/7916
+ https://perma.cc/MZ8T-H4BV
+https://perma.cc/8L9P-FHCY
+https://perma.cc/2HLQ-BM9R
+https://perma.cc/J7UH-BULT
 
-https://meclis.gov.az/?/az/news/view/4685/
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B373%5D&covid19=1
-https://meclis.gov.az/?/az/news/
+https://perma.cc/9QCA-TQQF
+
 
 
 
@@ -338,12 +389,13 @@ https://meclis.gov.az/?/az/news/
  I did not find any information indicating that the lawmaking role of the legislature has been limited due to the emergency measures taken with reference to the Covid-19 pandemic. 
 
 *Sources*:
- https://verfassungsblog.de/bangladeshs-unofficial-emergency-managing-the-covid-19-crisis-by-notifications/
+ https://perma.cc/343A-VSYF
 
 
 
 
-https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
+
+https://perma.cc/GJ88-RECJ
 
 
 
@@ -368,9 +420,10 @@ https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
  No changes (legal or procedural) to the legislature found. 
 
 *Sources*:
- http://www.house.gov.by/ru/zakonodatelnaya-dejatelnost-ru/
-http://www.house.gov.by/ru/news-ru/
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B370%5D&covid19=1
+ https://perma.cc/6FKB-5P9N
+https://perma.cc/6U9D-3SNT
+https://perma.cc/J7UH-BULT
+
 
 
 
@@ -401,23 +454,18 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B37
 ''Parliamentary involvement has been remarkably low since the federal government has initiated its response to Covid-19. In dealing with the crisis, governmental decision-making has been the emphasis from the start...drastic restrictions on constitutional rights of Belgian citizens relied on decisions formally taken by one minister. Constitutional experts affirm that it is up to the legislator to decide on far-reaching constraints on constitutional rights in a public and open parliamentary debate, in order to ensure broad support for the measures and transparency as to why certain measures are necessary. The Parliament can, however, still ask parliamentary questions to increase transparency and oversight was indeed increased in July with the creation of a special commission (Covid-19 Commission) mandated with the monitoring of the Belgian Covid-19 approach.'' (3) 
 
 *Sources*:
- https://www.lachambre.be/kvvcr/index.cfm
-
-https://www.ipu.org/fr/compilation-par-pays-des-mesures-parlementaires-prises-face-la-pandemie
+ https://perma.cc/9FMB-7UZM
+https://perma.cc/BUH9-943Z
 (2)
 
-https://verfassungsblog.de/belgiums-accordion-response-to-covid-19/
+https://perma.cc/58WZ-9MBD
 (3)
 
-https://verfassungsblog.de/belgium-and-covid-19-when-a-health-crisis-replaces-a-political-crisis/
-
-https://www.lachambre.be/kvvcr/pdf_sections/news/0000011208/mesures_de_prevention_covid_19_20200324.pdf
-
-https://plus.lesoir.be/290560/article/2020-03-27/quelle-garantie-de-controle-parlementaire-des-pouvoirs-speciaux-en-contexte-de
-
-https://www.lachambre.be/FLWB/PDF/55/1100/55K1100001.pdf
-
-https://www.brusselstimes.com/belgium/167816/pandemic-law-passes-first-reading-in-parliament-following-lengthy-debates-chamber-annelies-verlinden-lockdown-curfew-brussels-court/
+https://perma.cc/5K6Q-6UEZ
+https://perma.cc/7EV7-9H3S
+https://perma.cc/GCM3-CNDS
+https://perma.cc/3M9U-6U7U
+https://perma.cc/3W8Z-BBE7
 
 
 
@@ -443,22 +491,11 @@ https://www.brusselstimes.com/belgium/167816/pandemic-law-passes-first-reading-i
 
 *Sources*:
  http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20March%2021-27.pdf
+https://perma.cc/4SK2-572T
 
-https://www.gouv.bj/actualites/categorie/coronavirus--covid-19-/page/3/
-
-https://www.facebook.com/assembleenationalebenin/
-
-International
-IDEA
-Parliaments
-during
-the
-pandemic
-
-https://lanationbenin.info/assemblee-nationale-deputes-et-personnel-parlementaire-depistes-au-covid-19/
-
-
-https://assemblee-nationale.bj/
+https://perma.cc/AH8C-Q9LJ
+https://perma.cc/HW44-KCGB
+https://perma.cc/9D2L-YWNG
 
 
 
@@ -484,11 +521,13 @@ https://assemblee-nationale.bj/
 
 *Sources*:
  [1]
-http://www.gacetaoficialdebolivia.gob.bo/normas/buscar_comp/(COVID-19)/page:1
+https://perma.cc/8V6P-G6N2
+
 [2]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+https://perma.cc/494Q-UBAC
+
 [3]
-https://www.aduana.gob.bo/aduana7/sites/default/files/kcfinder/files/circulares/circular0872020.pdf
+https://perma.cc/2A6E-3AYU
 
 
 
@@ -513,9 +552,9 @@ https://www.aduana.gob.bo/aduana7/sites/default/files/kcfinder/files/circulares/
  No legal limitations and de-facto the legislature continued to meet. Note on subnational variation: in the Serb Republic the legislature gave the president the right to rule by decree (1) 
 
 *Sources*:
- http://www.parlament.ba/Publication/Category/1?page=1&pageId=238
-https://www.parlament.ba/Publication/Read/16017?pageId=238
-https://www.reuters.com/article/us-health-coronavirus-bosnia/bosnian-serb-region-declares-state-of-emergency-over-coronavirus-idUSKBN21F0OQI
+ https://perma.cc/P55A-RAYD
+https://perma.cc/EJP7-UPHC
+https://perma.cc/CC2K-JWYV
 (1)
 
 
@@ -545,15 +584,12 @@ The constitution, article 17, Declarations relating to emergencies, does not lim
 *Sources*:
  [1]
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjXuKi76PzpAhVtwcQBHQudCdUQFjACegQIARAB&url=http%3A%2F%2Fwww.dailynews.gov.bw%2Fcommon_up%2Fdailynews%2F03-04-2020_emergency-powers-regulations_1585906437_doc_55402.pdf&usg=AOvVaw0C2sXjOYIQRP41xCM7bm0L
-
 [2]
-https://www.constituteproject.org/constitution/Botswana_2016?lang=en
-
+https://perma.cc/RRM3-SBGS
 [3]
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjXuKi76PzpAhVtwcQBHQudCdUQFjACegQIARAB&url=http%3A%2F%2Fwww.dailynews.gov.bw%2Fcommon_up%2Fdailynews%2F03-04-2020_emergency-powers-regulations_1585906437_doc_55402.pdf&usg=AOvVaw0C2sXjOYIQRP41xCM7bm0L
-
 [4]
-https://www.constituteproject.org/constitution/Botswana_2016?lang=en
+https://perma.cc/7LLK-EFP7
 
 
 
@@ -579,9 +615,9 @@ https://www.constituteproject.org/constitution/Botswana_2016?lang=en
 
 *Sources*:
  [1]
-https://www.camara.leg.br/assessoria-de-imprensa/649450-sessoes-da-camara-sao-realizadas-pelo-plenario-virtual-durante-medidas-de-combate-a-propagacao-da-covid-19/
+https://perma.cc/MB5K-NJ4G
 [2]
-http://www.in.gov.br/web/dou/-/portaria-n-188-de-3-de-fevereiro-de-2020-241408388
+https://perma.cc/EYQ5-ETMM
 
 
 
@@ -608,15 +644,13 @@ http://www.in.gov.br/web/dou/-/portaria-n-188-de-3-de-fevereiro-de-2020-24140838
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: on 13 May, the legislature passed amendments to the Law on Health which introduced “extraordinary epidemiological circumstance” (declared on 14 May by the government). According to Democracy Reporting (p.12), "after the state of emergency expired on 13 May 2020, Parliament returned to work." (1) I have found no information on limitations on the lawmaking power of the legislature. 
 
 *Sources*:
- https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146931
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-https://www.parliament.bg/bg/news/ID/5059
-https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=147150
-https://fra.europa.eu/sites/default/files/fra_uploads/bulgaria-report-covid-19-april-2020_en.pdf
-
-
-https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=148005
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+ https://perma.cc/LK8Q-GX3W
+https://perma.cc/MEG5-AD4U
+https://perma.cc/E3DV-CHVX
+https://perma.cc/QG5F-DPTT
+https://perma.cc/3WFE-KJXT
+https://perma.cc/3ECV-QVC6
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
 (1)
 
 
@@ -649,21 +683,13 @@ The bill on the enabling law providing the government with the legal basis to ta
 InterPares: Oversight: A fact-finding mission on the management of Covid-19 was established by the Government.Plenary: Proxy-voting. 
 
 *Sources*:
- http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdf
-(1)
+ [1]	http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdf
 
-https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-etat-d-alerte-sanitaire-devrait-etre-limitee-dans-le-temps-pr-abdoulaye-soma.html
-
-https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-
-https://hakilitimes.com/coronavirus-le-gouvernement-burkinabe-veut-legiferer-par-ordonnance/
-(4)
-
-https://www.burkina24.com/2020/04/21/tribune-burkina-faso-quel-usage-de-la-loi-dhabilitation-sollicitee-par-le-gouvernement-pour-la-lutte-contre-le-covid-19/
-(5)
-
-https://lepays.bf/crise-sanitaire-au-burkina-2/
-(6)
+[2]	perma.cc/43Z2-ZXA9
+[3]	perma.cc/YP2U-RNRB
+[4]	perma.cc/HB3B-87QB
+[5]	perma.cc/K6RF-WMNE
+[6]	perma.cc/7GSX-XQZU
 
 
 
@@ -689,28 +715,64 @@ https://lepays.bf/crise-sanitaire-au-burkina-2/
 The new parliament was supposed to convene for the first time on February 1 2021, but the Burmese military staged a military coup, declared a year-long state of emergency and have not let the new parliament convene. They have also incarcerated large parts of the previous parliamentary members, some of which have died in custody. Since the coup, there is no parliament sitting in Myanmar, but this dissolvment is not in relation to Covid-19. It is thus coded as 5, parliament dissolved for some other reason than Covid-19. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-
-https://www.irrawaddy.com/news/burma/this-week-in-parliament-23.html
+ https://perma.cc/2D67-UVEJ
 
 
-https://www.irrawaddy.com/specials/myanmar-Covid-19/timeline-myanmars-government-responses-to-the-Covid-19-pandemic.html
+https://perma.cc/L84L-AKBF
 
 
-https://www.irrawaddy.com/news/burma/myanmar-govt-cancels-mass-gatherings-and-thingyan-water-festival-as-coronavirus-precaution.html
 
 
-https://www.bbc.com/news/world-asia-54899170
 
-https://verfassungsblog.de/myanmars-military-coup-detat-is-unconstitutional/
+https://perma.cc/BUN6-AZAD
 
-https://www.ipu.org/news/news-in-brief/2021-03/ipu-leadership-meets-with-myanmar-parliamentarians
 
-https://www.ipu.org/news/press-releases/2021-03/ipu-reports-sharp-increase-in-abuse-against-parliamentarians-driven-largely-myanmar
 
-https://www.icnl.org/post/analysis/unlawful-edicts-rule-by-decree-under-the-myanmar-tatmadaw
 
-https://www.hrw.org/news/2021/03/25/myanmar-elected-lawmaker-group-declared-illegal
+
+https://perma.cc/2D68-DLPH
+
+
+
+
+
+https://perma.cc/RHJ8-4K95
+
+
+
+
+
+https://perma.cc/F9YJ-4WP2
+
+
+
+
+
+https://perma.cc/3H73-23HM
+
+
+
+
+
+https://perma.cc/VEF5-4YRS
+
+
+
+
+
+https://perma.cc/39PY-K5SS
+
+
+
+
+
+https://perma.cc/NU8N-L79W
+
+
+
+
+
+
 
 
 
@@ -735,19 +797,13 @@ https://www.hrw.org/news/2021/03/25/myanmar-elected-lawmaker-group-declared-ille
  No state of emergency or special powers clause invoked. The measures were announced by the Prime Minister. No evidence was found on additional measures limiting the legislature's role. Sessions look like they continue to be held. 
 
 *Sources*:
- https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-
-http://www.assemblee.bi/spip.php?article6
-
-http://minisante.bi/?p=553
-
-http://minisante.bi/?p=569
-
-http://minisante.bi/wp-content/uploads/Communiqu%C3%A9-de-presse-sur-les-mesures-d%C3%A9j%C3%A0-prises-de-pr%C3%A9vention-Covid-19.pdf
-
-https://twitter.com/BurundiSecurity/status/1241045159636336641
-
-https://twitter.com/mspls_bdi/status/1241013386244169728
+ [1]	perma.cc/9W4P-DCPJ
+[2]	perma.cc/UD9V-SYFG
+[3]	perma.cc/AFT9-BXDG
+[4]	perma.cc/N5P2-UVVB
+[5]	perma.cc/CP2R-ZRT5
+[6]	perma.cc/48DL-H6CK
+[7]	perma.cc/2KL7-8TN4
 
 
 
@@ -772,21 +828,22 @@ https://twitter.com/mspls_bdi/status/1241013386244169728
  Law on Measures to Prevent the Spread of COVID-19 and other Serious, Dangerous and Contagious Diseases authorizes the government to take emergency measures. According to Human Rights Watch, the bill “fails to provide any independent oversight or procedural safeguards” and “uch vague provisions allow for potential overreach and abuses by the authorities by arbitrarily targeting people and groups in society. Because the scope of the measures is vaguely defined, leglimit is coded as 3 in 2021. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/04/cambodia-proposed-emergency-power-obliterate-human-rights/
+ https://perma.cc/4SPG-BHPW
 
 
+https://perma.cc/LU8Z-G5CZ
 
 
-https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
-
-https://www.phnompenhpost.com/national/law-covid-19-control-takes-effect
-https://www.icnl.org/resources/civic-freedom-monitor/cambodia
-
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26985&LangID=E
+https://perma.cc/2MCT-FWFU
 
 
+https://perma.cc/VWP8-Y4SW
 
-https://www.hrw.org/news/2021/03/05/cambodia-scrap-abusive-covid-19-prevention-bill
+
+https://perma.cc/S9VQ-3DQL
+
+
+https://perma.cc/7E9P-TPNS
 
 
 
@@ -811,26 +868,16 @@ https://www.hrw.org/news/2021/03/05/cambodia-scrap-abusive-covid-19-prevention-b
  The National Assembly of Cameroon held its first session of 2020 from 20 March 2020 to 18 April 2020 and resumed sittings for its second session on 10 June 2020. Decisions regarding the emergency response to Covid-19 have come primarily through the Prime Minister's office or public health authorities, without requiring approval from the parliament. Such measures include requiring masks and closing borders, curfews, social distancing measures and limits on public gatherings. Some of these have been eased since 30 April 2020. 
 
 *Sources*:
- https://www.assnat.cm/index.php/en/
+ [1]	perma.cc/K2BD-NT2K
+[2]	https://perma.cc/DJ79-NX47
+[3]	https://www.facebook.com/notes/assembl%C3%A9e-nationale-du-cameroun/discours-de-cloture-du-tres-honorable-cavaye-yeguie-djibril-president-de-lassemb/2748128938643984/
 
-International
-IDEA
-Parliaments
-during
-the
-pandemic
+[4]	https://www.facebook.com/notes/assembl%C3%A9e-nationale-du-cameroun/discours-douverture-du-tres-honorable-cavaye-yeguie-djibril-president-de-lassemb/2872600949530115/
 
-https://www.facebook.com/notes/assembl%C3%A9e-nationale-du-cameroun/discours-de-cloture-du-tres-honorable-cavaye-yeguie-djibril-president-de-lassemb/2748128938643984/
-
-https://www.facebook.com/notes/assembl%C3%A9e-nationale-du-cameroun/discours-douverture-du-tres-honorable-cavaye-yeguie-djibril-president-de-lassemb/2872600949530115/
-
-https://twitter.com/CRTV_web/status/1248370100622757888
-
-https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
-
-https://www.spm.gov.cm/site/?q=fr/content/strategie-gouvernementale-de-riposte-face-la-pandemie-de-coronavirus-covid-19
-
-https://www.journalducameroun.com/en/cameroonparliament-smashes-govt-anti-coronavirus-measures/1
+[5]	perma.cc/DM6F-DWZC
+[6]	perma.cc/5XUC-UMY5
+[7]	perma.cc/KV7A-D74D
+[8]	perma.cc/XB72-JECJ
 
 
 
@@ -855,12 +902,16 @@ https://www.journalducameroun.com/en/cameroonparliament-smashes-govt-anti-corona
  Large parts of the parliament have been working remotely, and under unusual circumstances with smaller meetings, but their lawmaking role has not been affected. They have also passed laws on financial aid packages (Covid-19 Emergency Responce Act 1 and 2) during this time, and continued to sit and hold its sessions. No indications have been found that the national parliament’s power has been limited. This is therefore coded as 0. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#C
+ https://perma.cc/8A9J-MQR2
 
-https://www.justice.gc.ca/eng/csj-sjc/covid.html
-https://www.acaps.org/covid19-government-measures-dataset
 
-https://www.ourcommons.ca/en/sitting-calendar
+https://perma.cc/QX9Y-PN7M
+
+
+https://perma.cc/C7B8-V7EU
+
+
+https://perma.cc/N89X-M642
 
 
 
@@ -887,17 +938,18 @@ https://www.ourcommons.ca/en/sitting-calendar
 ''On 5 June 2020, the Constitutional Court of the Central African Republic (CAR) rejected as unconstitutional a proposed constitutional amendment that would have allowed the extension of the duration of presidential and parliamentary terms in the case of 'force majeure'. The proposed amendment emerged in a context of the disruptions from the Covid-19 pandemic causing concerns over the timely organisation of presidential and legislative elections in December 2020 and March 2021, respectively.'' 
 
 *Sources*:
- International
-IDEA
-Parliaments
-during
-the
-pandemic
-http://constitutionnet.org/news/covid-19-and-unamendable-limits-duration-presidential-and-legislative-terms-central-african
-http://www.rfi.fr/fr/afrique/20200410-rca-coronavirus-idee-prolongement-mandat-touadera-polemique
+ [1]
+https://perma.cc/DJ79-NX47
+[2]
+perma.cc/EXC9-74B2
+[3]
+perma.cc/7DK7-V43Z
+[4]
 http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20March%2021-27.pdf
-https://www.africanews.com/2020/06/11/despite-covid-19-central-african-republic-court-says-polls-must-hold//
-http://www.rfi.fr/fr/afrique/20200419-centrafrique-rca-polemique-projet-loi-reforme-constitution-coronavirus
+[5]
+perma.cc/867T-K3QK
+[6]
+perma.cc/DQ8A-W2PY
 
 
 
@@ -928,21 +980,12 @@ The National Assembly however has approved the extensions of the state of emerge
 Procedural change, Parliamentary oversight: oral questions and interellations continue, Plenary: proxy vote (through a reform passed on 22 May 2020 allowing proxy voting), reduced staff on site (1). 
 
 *Sources*:
- https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-(1)
-
-https://tchadinfos.com/politique/coronavirus-au-tchad-qui-sont-dispenses-de-leur-presence-a-lassemblee-nationale/
-(2)
-
-https://www.alwihdainfo.com/Tchad-Covid-19-dispense-de-seance-a-l-Assemblee-nationale-qui-est-concerne_a84717.html
-(3)
-
-https://www.idea.int/news-media/multimedia-reports/global-overview-covid-19-impact-elections
-
-https://www.macaubusiness.com/chad-postpones-long-delayed-legislative-vote-over-virus/
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-(5)
+ https://perma.cc/B2CV-HXHC
+https://perma.cc/MY8J-V8YT
+https://perma.cc/AV8U-W9C7
+https://perma.cc/CG8V-6GB6
+https://perma.cc/E9JJ-WBWC
+https://perma.cc/W4SB-7NHK
 
 
 
@@ -968,15 +1011,15 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
 
 *Sources*:
  [1]
-https://www.oas.org/dil/esp/Constitucion_Chile.pdf
+https://perma.cc/5Y62-V636
 [2]
-https://www.diariooficial.interior.gob.cl/publicaciones/2020/03/18/42607-B/01/1742691.pdf
+https://perma.cc/VXX9-277R
 [3]
-https://www.bcn.cl/leychile/navegar?idNorma=1143740
+https://perma.cc/Q2MN-HHR5
 [4]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+https://perma.cc/8G56-2JV9
 [5]
-https://www.bcn.cl/leychile/navegar?idNorma=1157483
+https://perma.cc/BSV6-MLCH
 
 
 
@@ -1002,11 +1045,9 @@ https://www.bcn.cl/leychile/navegar?idNorma=1157483
 
 *Sources*:
  [1]
-http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
-
-
-[1]
-https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislative-activities.pdf
+https://perma.cc/3XVG-RP7V
+[2]
+https://web.archive.org/web/20220211182022/https://www.loc.gov/collections/publications-of-the-law-library-of-congress/about-this-collection/emergency-legislative-activities.pdf%22
 
 
 
@@ -1033,9 +1074,10 @@ Decreto Ley 4107 de 2011, Article 2: The Ministry of Health and Social Protectio
 
 *Sources*:
  [1]
-http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr007.html#215
+https://perma.cc/5HKZ-EGGY
 [2]
-https://www.minsalud.gov.co/Normatividad_Nuevo/DECRETO%204107%20DE%202011.pdf
+
+https://perma.cc/9Y6V-E6PJ
 
 
 
@@ -1061,9 +1103,9 @@ https://www.minsalud.gov.co/Normatividad_Nuevo/DECRETO%204107%20DE%202011.pdf
 
 *Sources*:
  [1]
-http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=56178
+https://perma.cc/Q3Q5-M4HM
 [2]
-https://www.constituteproject.org/constitution/Costa_Rica_2020?lang=em
+https://perma.cc/8S9R-UGP6
 
 
 
@@ -1092,18 +1134,11 @@ According to OSCE report (p.71), the measures were addressed retroactively by th
 The situation persists for January-March, April-June 2021. 
 
 *Sources*:
- International
-IDEA
-Parliaments
-during
-the
-pandemic
-https://vlada.gov.hr/vijesti/od-ponoci-na-snazi-odluke-stozera-civilne-zastite-rh-u-svrhu-sprjecavanja-sirenja-zaraze-novim-koronavirusom/29026
-
-https://www.sabor.hr/en/press/news/9th-croatian-parliament-dissolved
-https://www.sabor.hr/en/press/news/first-sitting-new-parliament-next-wednesday-10-am
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-(1)
+ [1]	https://perma.cc/DJ79-NX47
+[2]	perma.cc/W42Y-8NWF
+[3]	perma.cc/6V7Q-TQZE
+[4]	perma.cc/V6DP-FNVP
+[5]	perma.cc/WP6K-EFT5
 
 
 
@@ -1129,9 +1164,9 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 
 *Sources*:
  [1]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+https://perma.cc/5AVL-TUNY
 [2]
-http://juriscuba.com/wp-content/uploads/2015/10/Decreto-No.-139.pdf
+https://perma.cc/X577-7GQA
 
 
 
@@ -1160,16 +1195,12 @@ July-September 2020: Act No. 258/2000 Coll allows the Minister of Health to make
 April-June 2021: Act No. 94/2021 allows the Minister of Health to make decisions e.g. (unofficial translation) he § 2 (1) "may order extraordinary measures to order the liquidation of the COVID-19 epidemic or the risk of its recurrence. certain activities contributing to the fulfillment of that purpose, or prohibit or restrict certain activities or services the performance of which could spread COVID-19, or lay down the conditions for carrying out such activities or providing such services". (2) 
 
 *Sources*:
- https://www.zakonyprolidi.cz/cs/2021-94#cast9
-(2)
-http://www.hzscr.cz/hasicien/file/crisis-management-act-n-240-2000-coll-pdf.aspx
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#C
-
-https://www.mvcr.cz/mvcren/article/state-of-emergency.aspx
-https://www.psp.cz/sqw/cms.sqw?z=13746
-
-https://www.zakonyprolidi.cz/cs/2000-258#:~:text=(2)%20Ochrana%20ve%C5%99ejn%C3%A9ho%20zdrav%C3%AD%20je,jin%C3%BDch%20v%C3%BDznamn%C3%BDch%20poruch%20zdrav%C3%AD%20a
-(1)
+ [1]	perma.cc/5WBD-EWF2
+[2]	perma.cc/5D4K-PBVX
+[3]	perma.cc/HS3K-VSDQ
+[4]	perma.cc/84MV-PLR2
+[5]	perma.cc/C6JL-B42Q
+[6]	perma.cc/9XRV-XL9G
 
 
 
@@ -1194,17 +1225,14 @@ https://www.zakonyprolidi.cz/cs/2000-258#:~:text=(2)%20Ochrana%20ve%C5%99ejn%C3%
  The legislature suspended plenary sittings from 18 March to 5 April 2020 with reference to Covid-19, but it continued to function as a body, with committee meetings allowed under certain conditions [1]. The President of the National Assembly was also involved in the pandemic response during this period [2]. The legislature resumed sittings on 23 April, where it approved an extension of the state of emergency, and it renewed the state of emergency several times until it expired on 22 July 2020 [3]. Because the president declared the state of emergency without prior authorization from parliament and the measures were in place for 30 days without parliamentary approval, we code Q2 2020 as "2". During Q3 2020, extension of the state of emergency occurred through normal procedures and the legislature had the power, at any time, to end the state of emergency according to the constitution [4], thus we code this period as "1".  Since December 2020, the Ministry of Interior and the President have made several proclamations concerning restrictions related to Covid-19 without reference to a specific legal instrument. As such, we code Q4 of 2020 through Q2 of 2021 as "3" because vaguely formulated laws have allowed the executive to rule by decree. 
 
 *Sources*:
- [1]
-https://www.radiookapi.net/2020/03/19/actualite/sante/coronavirus-pas-des-plenieres-lassemblee-nationale-et-au-senat-jusquau-5
-
+ [1}
+https://perma.cc/MR6H-TRJN
 [2]
-https://www.jeuneafrique.com/916563/politique/rdc-la-garde-rapprochee-de-jeanine-mabunda-presidente-de-lassemblee-nationale/
-
+https://perma.cc/YFF2-KB8B
 [3]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-
+https://perma.cc/8FHR-6LEN
 [4]
-https://www.constituteproject.org/constitution/Democratic_Republic_of_the_Congo_2011.pdf?lang=en
+https://perma.cc/K4FZ-8PZE
 
 
 
@@ -1229,23 +1257,37 @@ https://www.constituteproject.org/constitution/Democratic_Republic_of_the_Congo_
  The legal instrument, the amendment, does not affect the parliaments lawmaking role. It does provide the Health Minister some extraordinary power, but these powers are defined and demarcated in the amendment that parliament passed, and does not provide measures that could impact the lawmaking role of the parliament as such. When the legal instrument changed to the permanent law in Q2 of 2021, the same principles applied as far as I’ve seen, along with extensions into how parliament can oversee and scrutinize measures taken under it (as well as other instances such as judiciaries). Furthermore, when the government during the fall of 2020 proposed to replace the temporary amendment of the epidemics act with a permanent new law containing virtually the same powers, this was strongly rejected by parliament. This led the government to strike a deal with most parties of the parliament, thus involving them in the process of drafting the law. Thus, the initial permanent legislation proposed by the government could have undermined parliamentary scrutiny and power in the longer run, but it was turned down by the opposition and they arrived at a version of it that as far as has been found has no limiting effect on parliaments power. Finally, parliament has stayed active and working during the pandemic, and as stated been involved in drafting new legislation, as well as approving both the temporary amendment and the permanent law. This is therefore coded 0 for all periods. 
 
 *Sources*:
- https://www.elov.dk/epidemiloven/
-
-https://www.retsinformation.dk/eli/lta/2021/285
-https://www.retsinformation.dk/eli/ft/201913L00133
+ https://perma.cc/S6A2-D2RZ
 
 
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.acaps.org/covid19-government-measures-dataset
+https://perma.cc/A4YY-TSQS
 
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.thelocal.dk/20201113/explained-what-is-denmarks-proposed-epidemic-law-and-why-is-it-being-criticised/
 
-https://verfassungsblog.de/the-eternal-emergency-denmarks-legal-response-to-Covid-19-in-review/
+https://perma.cc/5CF2-NCX2
 
-https://sum.dk/nyheder/2020/december/bred-aftale-om-ny-epidemilov-
+
+https://perma.cc/8RCH-5ZVA
+
+
+https://perma.cc/XK6X-PMPQ
+
+
+https://perma.cc/GLQ2-AVFU
+
+
+https://perma.cc/246C-8UZW
+
+
+https://perma.cc/D5WZ-WN8V
+
+
+https://perma.cc/6QDT-WUTQ
+
+
+https://perma.cc/3MXX-RW2L
+
+
+https://perma.cc/H63J-YW5T
 
 
 
@@ -1271,7 +1313,7 @@ https://sum.dk/nyheder/2020/december/bred-aftale-om-ny-epidemilov-
 
 *Sources*:
  [1]
-http://www.consultoria.gov.do/Documents/GetDocument?reference=b444d39f-2e94-4f9b-82e6-5b0ceb4a72c6
+https://perma.cc/3LNA-JN8Z
 
 
 
@@ -1297,13 +1339,13 @@ http://www.consultoria.gov.do/Documents/GetDocument?reference=b444d39f-2e94-4f9b
 
 *Sources*:
  [1]
-https://www.cip.org.ec/2020/06/06/repositorio-de-documentos-emergencia-covid-19-ecuador/
+https://perma.cc/RF5M-TBXW
 [2]
-https://www.elcomercio.com/actualidad/asamblea-nacional-teletrabajo-emergencia-covid19.html
+https://perma.cc/BD8L-3SQN
 [3]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+https://perma.cc/8FHR-6LEN
 [4]
-https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/09/Resoluciones-11-de-septiembre-.pdf
+https://perma.cc/T29J-QYW8
 
 
 
@@ -1328,8 +1370,10 @@ https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/09/Resoluciones-11-d
  A state of emergency has been in place for Egypt since 10 April 2017, and was  extended on 28 April 2020 for three months due to the health and security emergencies. The legislature suspended one sitting from 08 April to 29 April due to the curfew measures. On 18 April 2020, it adopted legislation granting new powers to the president to implement specific emergency response measures without being able to rule by decree. 
 
 *Sources*:
- https://www.egypttoday.com/Article/2/85074/EgyptHouse-Refusal-of-burying-COVID-19-victims-punishable-by
-https://www.egypttoday.com/Article/1/84464/Egypt-s-parliament-delays-convention-for-2nd-time-due-to
+ https://perma.cc/GFV4-VP55
+
+
+https://perma.cc/S7PE-5EL5
 
 
 
@@ -1355,11 +1399,14 @@ https://www.egypttoday.com/Article/1/84464/Egypt-s-parliament-delays-convention-
 
 *Sources*:
  [1]
-https://imprentanacional.gob.sv/compilacion-de-decretos-de-emergencia-por-covid-19/
+
+https://perma.cc/WE49-CZH5
+
 [2]
-https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/14-03-2020.pdf
+
+https://web.archive.org/web/20200401220732/https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/14-03-2020.pdf
 [3]
-https://www.asamblea.gob.sv/sites/default/files/documents/decretos/171117_073006119_archivo_documento_legislativo.pdf
+https://perma.cc/VZ3Y-EVMD
 
 
 
@@ -1386,16 +1433,10 @@ https://www.asamblea.gob.sv/sites/default/files/documents/decretos/171117_073006
  
 
 *Sources*:
- https://covidlawlab.org/wp-content/uploads/2020/07/Guidelines-from-the-High-Level-Task-Force-on-COVID-19.pdf
-(1)
-
-
-
-http://www.ituc-africa.org/ERITREA-Citizen-participation-in-response-to-COVID-19-and-time-for-renewal.html
-
-
-
-https://www.einnews.com/pr_news/525101401/coronavirus-eritrea-global-information-and-early-warning-system-giews-country-brief-eritrea
+ [1]	perma.cc/Z6XJ-LSBE
+[2]	https://web.archive.org/web/20200402131742/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
+[3]	perma.cc/R3NX-GK7L
+[4]	perma.cc/9UBH-BEQY
 
 
 
@@ -1422,26 +1463,21 @@ According to Article 72 (2) of the Food and Medicine Administration Proclamation
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en
+perma.cc/5EUQ-BVFD
 [2]
-International
-IDEA
-Parliaments
-in
-the
-pandemic
+https://perma.cc/DJ79-NX47
 [3]
-https://borkena.com/2020/03/16/ethiopian-house-of-peoples-representatives-cancels-scheduled-session-due-to-covid-19/
+perma.cc/4MVJ-DKF3
 [4]
-https://www.facebook.com/hoprparliament/posts/2513143455458754
+perma.cc/3A5R-WYLX
 [5]
-https://www.moh.gov.et/ejcc/sites/default/files/2020-10/COVID%2019%20Directive%20No.30.pdf
+perma.cc/6WVU-UPEZ
 [6]
-https://extranet.who.int/nutrition/gina/sites/default/filesstore/ETH%202009%20Proclamation%20for%20Food%2C%20Medicine%20and%20health%20care%20administratoin%20and%20control.pdf
+perma.cc/2LSC-NZ3E
 [7]
-http://www.fmhaca.gov.et/wp-content/uploads/2020/06/Food-and-Medicine-Administration-Proclamation-1112.pdf
+perma.cc/PU43-V7GD
 [8]
-http://www.fmhaca.gov.et/publication/food-medicine-and-healthcare-administration-and-control-councils-of-ministers-regulation-no-299-2013/
+perma.cc/6ESF-FU3L
 
 
 
@@ -1466,17 +1502,22 @@ http://www.fmhaca.gov.et/publication/food-medicine-and-healthcare-administration
  According to the Emergency Powers Act, all decrees must be approved or repealed by parliament within a week of its declaration, and in case of repeal it will be immediately terminated. The Act states that:"The Decree shall be immediately submitted to the Parliament. The Parliament shall decide whether the Decree is to apply as such or whether it is to be repealed in full or in part and whether it is to remain in force for the period provided or for a shorter period.” The parliament was thus not limited in it’s law making role during the state of emergency. After the SOE ended, the parliaments role has also been preserved, for instance passing amendments to the Communicable Disease Act. It has also worked continuously throughout the coded period. This is therefore coded as 0 for all periods. 
 
 *Sources*:
- https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
+ https://perma.cc/WGE9-8XGM
 
-https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
 
-https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
-https://www.finlex.fi/fi/laki/alkup/2016/20161227
-https://verfassungsblog.de/finland-soft-measures-respect-for-the-rule-of-law-and-plenty-of-good-luck/
+https://perma.cc/K52L-H235
 
-https://valtioneuvosto.fi/-/10616/hallitus-linjasi-hybridistrategian-toimintasuunnitelman-taydentamisesta?languageId=en_US
 
- 
+https://perma.cc/2MYY-JJSN
+
+
+https://perma.cc/FR9T-VSSM
+
+
+https://perma.cc/9SRX-4ASS
+
+
+https://perma.cc/5V7V-2HEM
 
 
 
@@ -1504,7 +1545,11 @@ The new law of 11 July 2020 (n° 2020-856 (9)) that outlined the conditions for 
 *Sources*:
  https://www.loc.gov/law/foreign-news/article/france-government-adopts-law-declaring-and-defining-a-state-of-health-emergency/
 
+
+
 https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042101318?r=MKyvM6sgBA
+
+
 
 https://fra.europa.eu/sites/default/files/fra_uploads/fr_report_on_coronavirus_pandemic_november_2020_.pdf
 
@@ -1541,25 +1586,25 @@ The National Assembly has granted authorization for the declaration of the state
 Also, there have been social distancing measures in place, and a Parliamentary Commission of Inquiry dedicated to the control and evaluation of the management of Covid-19 (1). 
 
 *Sources*:
- https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+ perma.cc/289G-MLUV
 (1)
 
-https://www.constituteproject.org/constitution/Gabon_2011.pdf?lang=en
+perma.cc/SHY2-ZEZR
 (2)
 
-https://www.gabonreview.com/etat-durgence-le-senat-en-attend-plus-du-gouvernement-2/
+perma.cc/XU6X-XRJE
 (3)
 
-https://www.union.sonapresse.com/gabon-culture-societe/covid-19-un-nouveau-dispositif-legislatif-se-met-en-place-21834
+perma.cc/U94D-7PBB
 (4)
 
-https://lalibreville.com/gabon-lassemblee-nationale-et-le-senat-valident-la-prorogation-de-letat-durgence-sanitaire-afin-de-lutter-contre-le-covid-19/
+perma.cc/VFG5-YHLY
 (5)
 
-https://www.gabonreview.com/etat-durgence-sanitaire-le-parlement-accorde-45-jours-de-plus/
+perma.cc/HUU7-8K7N
 (6)
 
-http://www.droit-afrique.com/uploads/Gabon-Loi-1990-11-etat-urgence.pdf
+perma.cc/B6FZ-4ZAZ
 (7)
 
 
@@ -1587,14 +1632,16 @@ http://www.droit-afrique.com/uploads/Gabon-Loi-1990-11-etat-urgence.pdf
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: Article 45 (3 (1)) of the Law of Georgia on Public Health gives the government the power to temporarily implement measures related to isolation and quarantine. 
 
 *Sources*:
- https://matsne.gov.ge/en/document/view/30346?publication=36
+ https://perma.cc/P2ZU-3XJL
 (1)
-https://matsne.gov.ge/en/document/view/4830372?publication=0
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#G
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+
+https://perma.cc/97L3-DBF6
+https://perma.cc/AY7A-X29A
+
+https://perma.cc/9T6F-9JPU
 (2)
 
-https://matsne.gov.ge/ka/document/view/21784?publication=31
+https://perma.cc/X2CF-QJP9
 
 
 
@@ -1619,28 +1666,20 @@ https://matsne.gov.ge/ka/document/view/21784?publication=31
  There is no state of emergency, and no other sort of state of exception that has changed the Bundestags role. The German Parliament continues to work, however with fewer members present and a restricted programme. The Bundestag have also passed and amended federal laws during the pandemic in order to aid the states and population. Especially, the parliament passed the amendment that created the national-level emergency response now in place. Thus, no evidence has been found that the parliaments law-making role has been limited. Note however that there has been critique that parliament has been too passive during the pandemic, and let the government and the federal states coordinate most measures without particular involvement from parliament (aside from amending laws etc., which the parliament must do). However, as far as have been found here, this has not been due to the law-making role having been limited, but rather that the parliament has chosen to be relatively passive. At the state-level, also, there seem to have been less oversight and participation from the parliaments than usual, but this is not accounted for here. Thus, there’s no evidence found that the law-making role of the national parliament has been limited in any way, and thus coded 0 for all periods. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#G"
+ https://perma.cc/XLE9-SDXN
+https://perma.cc/MWJ9-VA4G
+https://perma.cc/FE3C-2JMK
 
-https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://perma.cc/CR5P-S37J
+https://perma.cc/4992-9S84
+https://perma.cc/AAE7-VYMW
+https://perma.cc/363F-2XGC
+https://perma.cc/AP24-M4YR
 
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
+https://perma.cc/PA5R-E4T2
 
-
-
-
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-Covid-19/
-
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.deutschland.de/en/news/german-federal-government-informs-about-the-corona-crisis"
-
-https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/guv-19-lp/drittes-bevoelkerungsschutzgesetz.html
-https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/B/3._BevSchG_BGBl.pdf
-https://de.wikipedia.org/wiki/Liste_der_infolge_der_COVID-19-Pandemie_erlassenen_deutschen_Gesetze_und_Verordnungen
-
-https://verfassungsblog.de/germany-and-Covid-19-a-most-eventful-year/
-
-https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136
+https://perma.cc/RX44-7E4Q
 
 
 
@@ -1668,9 +1707,9 @@ https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136
 
 *Sources*:
  [1]
-https://verfassungsblog.de/wp-content/uploads/2020/05/Imposition-of-Restrictions-Act-2020-Act-1012.pdf
+perma.cc/BCW7-YAVR
 [2]
-https://www.tandfonline.com/doi/pdf/10.1080/20508840.2020.1777648?needAccess=true
+perma.cc/BNG4-KCZ6
 
 
 
@@ -1703,34 +1742,33 @@ In October - November 2020, the government implemented a few stricter measures i
 Nevertheless, the government has been criticized  of eroding parliamentary scrutiny in the midst of the pandemic (6), mainly for having launched several non-Covid-19 related laws, many of which quite important (environmental bills, education), with fast-track processes (using the same legal instrument - art 44 - that is being used to deal with the pandemic). 
 
 *Sources*:
- https://www.hellenicparliament.gr/Enimerosi/Grafeio-Typou/Deltia-Typou/?press=27323899-dab3-43c2-871a-ab7c0123b99c
+ perma.cc/B3MT-35QN
 (1)
-
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+perma.cc/P4V4-CHGG
 (2)
 
-http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdf
+perma.cc/9FKP-7L3H
 (3)
 
-https://vouliwatch.gr/news/article/ta-14-metra-poy-apofasise-i-voyli-gia-tin-antimetopisi-toy-koronoioy
+perma.cc/CG7R-ZTEC
 (4)
 
-https://www.kathimerini.gr/1068683/article/epikairothta/ellada/allages-sth-leitoyrgia-ths-voylhs-logw-korwnoioy
+perma.cc/EC47-8UWG
 (5)
 
-https://balkaninsight.com/2020/04/28/greek-govt-accused-of-dodging-democratic-oversight/
+perma.cc/MTA8-NC4V
 (6)
 
-https://insidestory.gr/article/off-screen-covid19-vouli-nomothetisi-koronoios
+perma.cc/TNT4-T3PH
 (7)
 
-https://www.tovima.gr/2020/10/22/society/koronoios-nea-metra-se-vouli-kai-elliniko-strato/
+perma.cc/5LZV-2XWT
 (8)
 
-https://www.naftemporiki.gr/story/1648883/nea-metra-sti-bouli-meta-to-trito-krousma-koronoiou
+perma.cc/AX7B-SXRL
 (9)
 
-https://verfassungsblog.de/constitutionalism-and-covid-19-in-greece-the-normality-of-emergency/
+perma.cc/U7HE-6HYN
 (10)
 
 
@@ -1757,9 +1795,9 @@ https://verfassungsblog.de/constitutionalism-and-covid-19-in-greece-the-normalit
 
 *Sources*:
  [1]
-http://ww2.oj.gob.gt/uci/images/leyes/decreto_numero_7.pdf
+perma.cc/AG5F-RFSA
 [2]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+perma.cc/D5AR-KM73
 
 
 
@@ -1794,25 +1832,14 @@ Guinea had a Constitutional referendum that led to the adoption of the Constitut
 ''Unlike the 12-days deadline provided for decreeing a state of emergency by the President of the Republic, the constitution of 14 April 2020 does not set a deadline for the National Assembly as to the extension. However, the state of emergency ceases to be in force at the expiration of the period provided for in the ordinance adopted. And for there to be an extension, an authorization from the National Assembly is required, an ordinance issued for this purpose by the President of the Republic and an announcement of the extension in the official journal. (7) 
 
 *Sources*:
- https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-(1)
-
-https://www.rfi.fr/fr/afrique/20200422-guin%C3%A9e-amadou-damaro-camara-%C3%A9lu-pr%C3%A9sident-l-assembl%C3%A9e-nationale
-(2)
-
-https://www.constituteproject.org/constitution/Guinea_2010.pdf
-(3)
-
-https://guilaw.com/la-constitution-de-2020/
-(4)
-
-https://allodocteurs.africa/actualites/epidemie/covid-19/pour-lutter-contre-le-coronavirus-la-guinee-prolonge-l-etat-d-urgence
-(5)
-https://kalenews.org/a-partir-dhier-lundi-15-fevrier-letat-durgence-sanitaire-et-le-couvre-feu-ne-sont-plus-en-vigueur/
-(6)
-
-https://mediaguinee.org/letat-durgence-sanitaire-proroge-de-3-mois-en-guinee/
-(7)
+ perma.cc/BT96-Z5EF
+perma.cc/W4FC-QK93
+perma.cc/Y2FE-FXLT
+perma.cc/J4GA-XGXT
+perma.cc/6U7U-JU4T
+[6]
+https://web.archive.org/web/20210216151749/https://kalenews.org/a-partir-dhier-lundi-15-fevrier-letat-durgence-sanitaire-et-le-couvre-feu-ne-sont-plus-en-vigueur/
+perma.cc/8GGC-W9RB
 
 
 
@@ -1837,14 +1864,12 @@ https://mediaguinee.org/letat-durgence-sanitaire-proroge-de-3-mois-en-guinee/
  Since January 2020 no legislature exists. 
 
 *Sources*:
- https://www.voanews.com/americas/pompeo-calls-haiti-hold-overdue-legislative-elections
+ perma.cc/6984-8ABP
 
-https://www.miamiherald.com/news/nation-world/world/americas/haiti/article245897040.html
-
-
-https://www.usnews.com/news/world/articles/2020-08-16/pompeo-pushes-haiti-president-on-elections-rights
-https://fas.org/sgp/crs/row/R45034.pdf
-https://www.aljazeera.com/programmes/talktojazeera/2020/01/jovenel-moise-200123212546142.html
+https://web.archive.org/web/20201006054644/https://www.miamiherald.com/news/nation-world/world/americas/haiti/article245897040.html
+https://perma.cc/PGE7-4E8W
+https://perma.cc/G3CD-WQRK
+https://web.archive.org/web/20200126102229/https://www.aljazeera.com/programmes/talktojazeera/2020/01/jovenel-moise-200123212546142.html
 
 
 
@@ -1870,11 +1895,9 @@ https://www.aljazeera.com/programmes/talktojazeera/2020/01/jovenel-moise-2001232
 
 *Sources*:
  [1]
-http://www.congresonacional.hn/
+perma.cc/EMV6-YQWJ
 [2]
-http://www.consejosecretariosdeestado.gob.hn/pcm-2020
-[3]
-http://www.consejosecretariosdeestado.gob.hn/pcm-2020
+https://web.archive.org/web/20200509074051/http://www.consejosecretariosdeestado.gob.hn/pcm-2020
 
 
 
@@ -1903,24 +1926,34 @@ The parliament has also continued to work during the pandemic, and also has some
 
 *Sources*:
  [1]
-https://www.elegislation.gov.hk/hk/cap241
+https://perma.cc/47ZU-CDD6
 
-https://www.elegislation.gov.hk/hk/cap599G!en?xpid=ID_1585378559003_001
 
-https://www.elegislation.gov.hk/hk/cap599
-https://verfassungsblog.de/fear-of-unaccountability-vs-fear-of-a-pandemic-Covid-19-in-hong-kong/
+https://perma.cc/RA3W-HWED
 
-https://www.coronavirus.gov.hk/eng/social_distancing-faq.html
 
-https://www.lexology.com/library/detail.aspx?g=3dec8ab8-231d-437c-aedd-490e753f807a
+https://perma.cc/EUE6-HNYZ
 
-https://www.coronavirus.gov.hk/eng/social_distancing-faq.html
 
-https://www.info.gov.hk/gia/general/202010/27/P2020102700873.htm
+https://perma.cc/6SS3-2G7F
 
-https://www.coronavirus.gov.hk/eng/social_distancing-faq.html
-https://verfassungsblog.de/surviving-executive-led-pandemic-control-in-executive-led-hong-kong/
- 
+
+https://perma.cc/WNF8-JU3D
+
+
+https://perma.cc/NXH7-84TZ
+
+
+https://perma.cc/WNF8-JU3D
+
+
+https://perma.cc/H848-CZ6T
+
+
+https://perma.cc/WNF8-JU3D
+
+
+https://perma.cc/8VY5-TVWJ
 
 
 
@@ -1950,24 +1983,21 @@ Q3 2020: According to  Act CLIV of 1997 on healthcare, the government has the ri
 Q4 2020, Q1 2021, Q2 2021:  On 11 November 2020, the parliament approved extension of the second state of danger (Act CIX of 2020 on the containment of the second wave of the coronavirus pandemic) and authorized the government to rule by decree, but the government needs to regularly inform the parliament on its decisions. It also  "authorized the Government to extend until the end of the state of danger the force of future, not-yet-adopted special decrees" (Hungarian Helsinki Committee, 1).A third state of danger was extended by parliament on 22 February 2021  and then on 22 May 2021 (Act I of 2021). According to the Fundamental Law (52 (2)), " In a state of danger, the Government may adopt decrees by means of which it may, asprovided for by a cardinal Act, suspend the application of certain Acts, derogate from the provisions of Acts and take other extraordinary measures. " (1) Coded as 3 due to vague formulations. 
 
 *Sources*:
- https://tasz.hu/files/tasz/imce/alternative_translation_of_the_draft_constituion.pdf
+ https://perma.cc/54MY-ASBM
 (1)
-https://berlin.mfa.gov.hu/assets/77/49/43/cc3672166e33b2cf015ce4371aeedf19417c2710.pdf
-https://net.jogtar.hu/jogszabaly?docid=A2000012.TV&dbnum=1
+
+https://perma.cc/P72C-QR3E
+https://perma.cc/F2QR-8SBW
 https://www.parlament.hu/en/web/house-of-the-national-assembly/covid-info
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#H
-
-https://www.hrw.org/news/2020/03/23/hungarys-orban-uses-pandemic-seize-unlimited-power
-https://www.icnl.org/covid19tracker/?location=54&issue=&date=&type=
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
-https://helsinki.hu/wp-content/uploads/HHC_Hungary_emergency_measures_overview_24022021.pdf
-
-
-https://net.jogtar.hu/jogszabaly?docid=99700154.tv#lbj816ida1d4
-
-https://covidlawlab.org/wp-content/uploads/2021/01/HUNGARIAN-JOURNAL.pdf
-https://helsinki.hu/wp-content/uploads/HHC_RoL_flash_report_Hungary_12112020.pdf
+https://perma.cc/8KAA-WHL8
+https://perma.cc/EW4H-SVZT
+https://perma.cc/X77R-2XQP
+https://perma.cc/S6MT-EC4A
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://perma.cc/3ZN8-T7LQ
+https://perma.cc/E988-V2ZU
+https://perma.cc/45YA-JQWV
+https://perma.cc/LTX5-MAD7
 (2)
 
 
@@ -1997,10 +2027,10 @@ On 23 March 2020, the Indian parliament adjourned the first session of 2020 for 
 The Indian parliament has not been adjourned or dissolved again since September 2020. 
 
 *Sources*:
- https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
+ https://perma.cc/CL8C-JLYL
 
 
-https://pib.gov.in/newsite/PrintRelease.aspx?relid=200625
+https://perma.cc/58DC-TB38
 
 
 
@@ -2025,15 +2055,12 @@ https://pib.gov.in/newsite/PrintRelease.aspx?relid=200625
  The President of Indonesia declared a state of public health emergency under Law No.6/2018 [1,2]. This law allows for the president to implement restrictions related to the pandemic such as social distancing and other measures through declarations or decree [1]. Meanwhile, the legislature continues to meet using video conferencing and remote operations[3]. 
 
 *Sources*:
- 
-[1]
-https://www.thejakartapost.com/news/2020/03/31/dont-declare-civil-emergency-civil-society-group-tells-government.html
-
+ [1]
+https://perma.cc/7TC9-ABQ7
 [2]
-https://www.thejakartapost.com/news/2020/03/31/jokowi-declares-covid-19-health-emergency-imposes-large-scale-social-restrictions.html
-
+https://perma.cc/S3PM-U3FD
 [3]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+https://perma.cc/64FF-69S4
 
 
 
@@ -2058,16 +2085,25 @@ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
  In February 2020 Iran’s Supreme National Security Council issued an order to set up the National Headquarter to Combat Corona (NHCC), which was given extensive authority. For instance, the Supreme Leader of Iran stated that following the NHCC orders is a legal obligation. The legal grounds for the NHCC is unclear, and their orders seem to not be  legally defined (they are not subject to judicial review for instance, so they are not counted as laws). The majority of the response to Covid-19 has been handled by the NHCC, which has no obligation to consult parliament and parliament cannot veto their decisions in any way as far as I’ve found. At the same time, the Iranian parliament has continued to sit, and they have also debated and enacted other laws during the time (for instance financial aid packages related to Covid-19). Thus, their activities have not been suspended, but their capacity to be involved in the Covid-19 measures and strategy is limited. This can also be compared to if Iran would have imposed a state of emergency as stipulated in the constitution, where parliament needs to approve such an SOE and where they need to reapprove it every thirty days or it expires (although, during an SOE the government would also rule by decree, so parliaments role here would have been oversight as well as approving or not approving the SOE itself). Thus, the government and the Supreme Leader has ruled by decree through the NHCC, and the role of parliament has been limited in combating Covid-19 (note also that even under regular circumstances, the Iranian parliament is limited in the many existing restrictions where several formal and informal powers can monitor and veto the parliament's actions, but this is not related to Covid-19 or the emergency measures). This is therefore coded 3 for all time periods. 
 
 *Sources*:
- https://verfassungsblog.de/the-iranian-legal-response-to-Covid-19-a-constitutional-analysis-of-coronavirus-lockdown/
-
-https://verfassungsblog.de/irans-Covid-19-response-who-calls-the-shots/
+ https://perma.cc/A54W-24WP
 
 
+https://perma.cc/6K9X-QNLE
 
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#I
-https://uk.reuters.com/article/uk-health-coronavirus-iran-parliament/new-iran-parliament-convenes-under-strict-coronavirus-curbs-idUKKBN2330XZ
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.garda.com/crisis24/news-alerts?https://www.garda.com/crisis24/news-alerts?search_api_fulltext=Iran&field_news_alert_categories=All&field_news_alert_crit=All&items_per_page=20
+
+
+
+
+https://perma.cc/NU7L-B4YM
+
+
+https://perma.cc/Y2ZM-P7GX
+
+
+https://perma.cc/D37S-6G97
+
+
+https://perma.cc/2K9U-APLS
 
 
 
@@ -2092,15 +2128,22 @@ https://www.garda.com/crisis24/news-alerts?https://www.garda.com/crisis24/news-a
  No information has been found that the parliaments lawmaking role has been restricted in Iraq due to or during the emergency measures. The parliament has also continued to sit and voted on laws, budget changes and the like, indicating that their law making role is intact. This is therefore coded as 0. 
 
 *Sources*:
- https://en.parliament.iq/category/leadership/page/4/
+ https://perma.cc/49FX-7FU9
 
 
-https://gds.gov.iq/blogposts/
+https://perma.cc/LVK6-6JYH
 
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.reuters.com/article/iraq-economy-int-idUSKBN27S1V0
 
-https://www.hrw.org/news/2021/05/07/iraq-parliament-suspends-draconian-cybercrimes-bill 
+https://perma.cc/AF47-RACK
+
+
+https://perma.cc/QPB2-7NGM
+
+
+
+
+
+https://perma.cc/RP99-X8ZN
 
 
 
@@ -2125,13 +2168,13 @@ https://www.hrw.org/news/2021/05/07/iraq-parliament-suspends-draconian-cybercrim
  A lot of parliamentary work have been conducted remotely or with fewer members presents, and at times parts of the regular programme have been cancelled so that parliament only works on Covid-19 related issues. However, they have convened when necessary and they have passed the bills enabling the emergency response, and no indication is given that this response in turn has limited the parliaments lawmaking role or power in any way. Furthermore, after a first phase of only Covid-19 related legislation (a phase that also coincided with the forming of the new parliament after elections in early 2020), the work has gone back to a more regular structure, although with some adaptions to the Covid-19 situation. Most importantly, the law making role of the Irish parliament has not been affected either by the Covid-19 situation or by the regulations that enable the measures taken toward Covid-19 passed by the parliament. All acts, and all extensions, have been approved by parliament. There has been some critique that oversight by parliament has been insufficient, but this seems to be more an outcome of parliament choosing not to debate and scrutinize some legislation rather than not being able to or obstructe from doing so. This is therefore coded as 0. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#I
-https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
-https://www.oireachtas.ie/en/bills/bill/2020/3/
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-Covid-19/
-https://verfassungsblog.de/pandemic-response-as-accentuation-of-existing-characteristics-vague-requirements-and-executive-dominance-in-ireland/
+ https://perma.cc/S428-3HXX
+https://perma.cc/K79X-ZGNG
+https://perma.cc/KF82-SV9X
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://perma.cc/W5CP-P5EU
 
-https://www.ihrec.ie/app/uploads/2021/02/Irelands-Emergency-Powers-During-the-Covid-19-Pandemic-25022021.pdf
+https://perma.cc/P3ZQ-9V9R
 
 
 
@@ -2157,41 +2200,38 @@ https://www.ihrec.ie/app/uploads/2021/02/Irelands-Emergency-Powers-During-the-Co
 On July 21 2020 the Knesset passed the Coronavirus Law, which now underlines the governments emergency response, and in which they were given extended emergency powers during a state of emergency, as well as the right to declare it for 60 days rather than 7. Within this law, Government is also allowed to rule by decree on measures related to Covid-19 that is deemed acute and cannot be passed through parliament first. However, this law fairly strictly pertains to issues related to the emergency itself (and the powers only exist as long as the SOE is in place), and the parliament still has powers to review the passing of emergency legislation to later terminate it, as well as being able to terminate the state of emergency itself. Therefore, this is coded as 2 here as well  - the government can rule by decree on a number of Covid-19 related issues - from the point where this new law came into effect. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Israel_2013.pdf?lang=en
+ https://perma.cc/ZY5K-587X
 
-https://www.gov.il/en/departments/news/25032020_01
 
-https://www.garda.com/crisis24/news-alerts/325031/israelpalestinian-terr-prime-minister-declares-state-of-emergency-due-to-Covid-19-implements-domestic-restrictions-march-19-update-10
+https://perma.cc/78WR-W6JK
 
-https://www.garda.com/crisis24/news-alert-full-history/pX7cDbbneik6HZj4a/israelpalestinian-terr-el-al-suspends-all-flights-to-china-due-to-novel-coronavirus-january-30
 
-https://main.knesset.gov.il/EN/News/PressReleases/pages/press23720s.aspx
+https://perma.cc/V8CW-Q4US
 
-https://www.gov.il/en/departments/news/29102020-01
+
+https://perma.cc/2YUF-RHT8
+
+
+https://perma.cc/AAS6-9J8S
+
+
+https://perma.cc/S8DR-UMDX
+
 
 https://perma.cc/R5AE-KMPR
 
-https://www.nevo.co.il/law_html/law01/502_325.htm
 
-https://www.gov.il/en/departments/news/23052021-02
 
-https://verfassungsblog.de/the-paradox-of-israels-coronavirus-law/
+https://perma.cc/EN3Y-UCSS
 
-https://verfassungsblog.de/a-year-in-review-Covid-19-in-israel/
 
-https://www.garda.com/crisis24/news-alerts/485676/israel-authorities-lift-most-domestic-Covid-19-restrictions-june-1-update-103
+https://perma.cc/VXU8-VG97
 
-https://www.garda.com/crisis24/news-alerts/487961/israel-authorities-to-lift-indoor-mask-mandate-from-june-15-update-104
 
-https://corona.health.gov.il/en/local-councils-traffic-light-model/
+https://perma.cc/2XFH-354V
 
-https://oxcon.ouplaw.com/view/10.1093/law-occ19/law-occ19-e13
 
-https://www.nevo.co.il/law_word/law10/yalkut-9340.pdf
-
-https://www.gov.il/he/departments/policies/dec820_2021
-
-https://www.gov.il/he/Departments/policies/dec960_2021
+https://perma.cc/2Q4B-97ZJ
 
 
 
@@ -2217,26 +2257,17 @@ https://www.gov.il/he/Departments/policies/dec960_2021
 Note also that Italy experienced a political crisis when the party Italia Viva removed their support from the  government led by Prime Minister Conte, which then  resigned in early January 2021. This government was subsequently replaced by a one led by Mario Draghi in early February 2021. No indication has been found that this has affected the parliament or it’s law-making however, and it continues to be the same parliament that sits. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#I
+ https://perma.cc/JGE9-7ZG5
+https://perma.cc/GRC8-D2RZ
+https://perma.cc/4FR9-ZMH2
+https://perma.cc/HJ47-2NX2
 
-https://www.loc.gov/law/help/emergency-legislative-activities/italy.php
-
-https://www.constituteproject.org/constitution/Italy_2012.pdf?lang=en
-
-https://fra.europa.eu/sites/default/files/fra_uploads/it_report_on_coronavirus_pandemic_may_2020.pdf
-
-
-
-
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-Covid-19/
-https://www.gazzettaufficiale.it/eli/id/2021/04/30/21A02610/sg
-
-https://www.venice.coe.int/files/EmergencyPowersObservatory//T13-E.htm
-https://www.theguardian.com/world/2021/feb/06/mario-draghi-secures-support-from-key-parties-to-form-new-italian-government
-
-https://www.intersentiaonline.com/publication/coronavirus-and-the-law-in-europe/4
-
-https://verfassungsblog.de/fighting-Covid-19-legal-powers-and-risks-italy/
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://perma.cc/5JAM-KJPJ
+https://perma.cc/3J5Q-H2MM
+https://perma.cc/VCZ8-9UPB
+https://perma.cc/H64L-SGHB
+https://perma.cc/Z85U-TZ3H
 
 
 
@@ -2272,20 +2303,19 @@ Freedom House reports that the government used the state of emergency to change 
 This seems to extend the decree powers well beyond Covid-19 issues. 
 
 *Sources*:
- https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-(1)
+ perma.cc/2JUV-E4UK
 
-https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislative-activities.pdf
-(2)
 
-https://www.constituteproject.org/constitution/Cote_DIvoire_2016.pdf?lang=en
-(3)
+perma.cc/V2D5-LJHU
 
-https://apr-news.fr/fr/actualites/cote-divoire-letat-durgence-que-dit-la-loi
-(4)
 
-https://freedomhouse.org/country/cote-divoire/freedom-world/2021
-(5)
+perma.cc/WLQ7-M53W
+
+
+perma.cc/5VX2-ARE4
+
+
+perma.cc/6WQL-7UMN
 
 
 
@@ -2312,7 +2342,7 @@ This enables the executive branch to rule by decree on many issues.
 
 *Sources*:
  [1]
-https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
+perma.cc/KE4A-LBZS
 
 
 
@@ -2337,11 +2367,10 @@ https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%2
  I did not find any information to suggest that the lawmaking role of the legislature has been limited across all the time periods. 
 
 *Sources*:
- https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=424AC0000000031#223
+ https://perma.cc/AD83-7NX2
 
 
-
-https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instead-of-legal-penalty/
+https://perma.cc/Q9CJ-T9LA
 
 
 
@@ -2366,28 +2395,21 @@ https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instea
  The state of emergency under the Defence Law gives the prime minister far reaching authority and full responsibility to enact emergency measures. The parliament still meets however, and can for example question the prime minister on the actions taken under the Defense Law, although their law making role is significantly curtailed under the state of emergency. This is therefore coded as 3. Note that the Jordanian king has elected a new Prime Minister in October, and that Jordan held parliamentary elections on November 12 2020. The electoral process was contested and critizised as it occurred during a large Covid-19 outbreak and offered no opportunities to vote by mail or the like, causing very low turnout. This, however, does not seem seem to have any further impact on the parliaments law making role, as it stays as limited as before during the state of emergency. The new parliament also convened and continues to sit. 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/?location=64&issue=&date=&type=
+ https://perma.cc/9VV4-L2E6
+http://www.pm.gov.jo/content/1584465107/ÿ•ÿ±ÿßÿØÿ©-ŸÖŸÑŸÉŸäÿ©-ÿ®ÿßŸÑŸÖŸàÿßŸÅŸÇÿ©-ÿπŸÑŸâ-ŸÇÿ±ÿßÿ±-ŸÖÿ¨ŸÑÿ≥-ÿßŸÑŸàÿ≤ÿ±ÿßÿ°-ÿ•ÿπŸÑÿßŸÜ-ÿßŸÑÿπŸÖŸÑ-ÿ®ŸÇÿßŸÜŸàŸÜ-ÿßŸÑÿØŸÅÿßÿπ.html
 
-http://www.pm.gov.jo/content/1584465107/إرادة-ملكية-بالموافقة-على-قرار-مجلس-الوزراء-إعلان-العمل-بقانون-الدفاع.html
+https://perma.cc/FTP2-9E94
+https://perma.cc/UC45-MG5Q
+https://perma.cc/37UP-BQ4F
 
-https://www.constituteproject.org/constitution/Jordan_2016.pdf?lang=en
+https://perma.cc/55G5-LPCM
 
-https://www.washingtonpost.com/politics/2020/11/20/pandemic-compromised-jordans-parliamentary-elections/
+https://perma.cc/8BLP-7T9T
 
-https://www.garda.com/crisis24/news-alerts/479311/jordan-authorities-reduce-the-nightly-curfew-to-2300-0600-from-may-13-until-further-notice-amid-gradual-easing-of-Covid-19-restrictions-update-69
+https://perma.cc/3VGC-2BKZ
 
-
-https://www.garda.com/crisis24/news-alerts/461081/jordan-authorities-extend-existing-curfews-and-other-Covid-19-restrictions-nationwide-until-at-least-may-15-update-65
-
-
-https://www.garda.com/crisis24/news-alerts/429186/jordan-authorities-cancels-24-hour-friday-curfews-starting-jan-15-update-61
-
-
-https://crisis24.garda.com/insights-intelligence/intelligence/country-reports/jordan
-
-
-https://www.reuters.com/article/us-health-coronavirus-jordan-protests-idUSKBN2B60QY
-https://www.arabnews.com/node/1825421/middle-east
+https://perma.cc/2Z7J-B87U
+https://perma.cc/HVU3-JBJ9
 
 
 
@@ -2414,10 +2436,13 @@ https://www.arabnews.com/node/1825421/middle-east
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: According to Law of Kazakhstan on public health and the healthcare system resembles the closest state of exception (paragraph 6 of Article 144, paragraph 4 of Article 150), the measures are implemented by the state body in the field of sanitary and epidemiological welfare of the population. 
 
 *Sources*:
- https://online.zakon.kz/document/?doc_id=1036912#pos=294;-56
-https://online.zakon.kz/document/?doc_id=1036912#pos=162;-46
+ https://perma.cc/XE85-UENY
 
-https://online.zakon.kz/Document/?doc_id=34464437#pos=2758;-40
+
+https://perma.cc/32XM-TWL4
+
+
+https://perma.cc/5LK2-VPH3
 
 
 
@@ -2445,15 +2470,16 @@ The emergency laws allow the president to widely interpret and implement decrees
 ''Parliament has continued to rubber stamp the actions of the Executive and has in some instances wholly exempted some of the Covid-19 rules from scrutiny pursuant to Section 14 of the Statutory Instruments Act. Therefore, despite being mandated under the Constitution to facilitate public participation, Parliament has allowed this and its oversight role to be reduced to a cosmetic exercise which has unsurprisingly led to public outcry. As of 27 March 2021, government directives imposing movement restrictions and an extended and modified curfew have been put in place in response to the high positivity rates in the country. The executive has validated an illegal process by publishing the rules without parliamentary approval, once again undermining the rule of law. Public participation requests have become 24-hour alerts relayed to only a few select persons or organizations to tick a compliance box which cannot constitute meaningful public participation.'' (1) 
 
 *Sources*:
- https://verfassungsblog.de/covid-19-in-kenya-a-year-later-a-case-of-deja-vu/
-(1)
+ perma.cc/UE4A-FJHS
 
 
+perma.cc/9M75-KYF4
 
-http://www.parliament.go.ke/parliament-proceeds-recess-following-coronavirus-outbreak
 
-https://allafrica.com/stories/202004130117.html
+perma.cc/H5E6-77PR
 
+
+[4]
 http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdf
 
 
@@ -2479,37 +2505,47 @@ http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%2
  The Kuwaiti parliament initially postponed meetings and cancelled some sittings due to health reasons, but now continues to operate normally, and has thus not been suspended. However, the government have responded to the crisis using a series of decrees on emergency response, and has far reaching powers that limit parliaments law making role. Parliament has also continued to sit in 2021, and voted on other bills such as budget, though remains limited in their impact on the Covid-19 response as it continues to be handled through decrees. This is therefore coded 3 for all periods. 
 
 *Sources*:
- http://www.kna.kw/clt-html5/news-details.asp?id=33298
-
-http://www.kna.kw/clt-html5/news-details.asp?id=33385
-
-http://www.kna.kw/clt-html5/news-details.asp?id=33386
-
-http://www.kna.kw/clt-html5/news-details.asp?id=33415
-
-https://www.loc.gov/law/foreign-news/article/kuwait-new-emir-sworn-in-before-national-assembly/
-https://www.garda.com/crisis24/news-alerts/346726/kuwait-authorities-ease-Covid-19-measures-from-may-31-update-19
-
-https://thearabweekly.com/kuwait-parliament-passes-Covid-19-relief-laws-rejects-amnesty-bill
+ https://perma.cc/XEU3-3AQ4
 
 
-https://kw.usembassy.gov/Covid-19-information/
-https://www.garda.com/crisis24/news-alerts/325446/kuwait-government-implements-nationwide-curfew-march-22-update-8
+https://perma.cc/Y9JF-DVBY
 
-https://www.garda.com/crisis24/news-alerts/405571/kuwait-authorities-maintain-Covid-19-restrictions-december-1-update-28
 
-https://www.garda.com/crisis24/news-alerts/468856/kuwait-authorities-extend-nationwide-Covid-19-related-1900-0500-curfew-through-may-13-update-37
+https://perma.cc/TCH4-JNF3
 
-https://www.garda.com/crisis24/news-alerts/445511/kuwait-authorities-cancel-national-day-and-liberation-day-celebrations-feb-25-26
 
-https://covidlawlab.org/?s=&topic=&country=Kuwait
+https://perma.cc/JJ7X-QT5B
+
+
+https://perma.cc/J5R2-LR4B
+
+
+https://perma.cc/JW9J-LSWB
+
+
+https://perma.cc/5T6V-YG2P
+
+
+https://perma.cc/8FYN-W5A4
+
+
+https://perma.cc/FE4X-ECCX
+
+
+https://perma.cc/H9BQ-VTQS
+
+
+https://perma.cc/2MS6-6ZS9
+
+
+https://perma.cc/4LXS-CM7S
+
 
 https://www.loc.gov/law/foreign-news/article/saudi-arabia-egypt-kuwait-authorities-impose-new-preventive-measures-to-combat-spread-of-Covid-19-virus-during-ramadan/
 
-https://gulfnews.com/world/gulf/kuwait/Covid-19-kuwait-parliament-approves-kd600-million-reward-for-frontline-workers-1.79501482
 
 
- 
+https://perma.cc/PS5C-3EWZ
 
 
 
@@ -2535,12 +2571,14 @@ https://gulfnews.com/world/gulf/kuwait/Covid-19-kuwait-parliament-approves-kd600
  
 
 *Sources*:
- http://cbd.minjust.gov.kg/act/view/ru-ru/202913?cl=ru-ruhttps://www.constituteproject.org/constitution/Kyrgyz_Republic_2016?lang=en
+ https://perma.cc/KQ7D-B8UB
+https://perma.cc/VB3W-J5PE
 (1)
-http://www.kenesh.kg/ru/news/show/9879/deputati-zhogorku-kenesha-vnesli-ryad-rekomendatsiy-v-ramkah-vvedeniya-chrezvichaynogo-polozheniya
-http://www.kenesh.kg/ru/news/show/9886/deputati-oboznachili-voprosi-sokrashteniya-negativnih-sotsialyno-ekonomicheskih-posledstviy-v-svyazi-rasprostraneniem-covid-19
-http://www.kenesh.kg/ru/news/show/10193/napravlen-na-golosovanie-zakonoproekt-o-programme-bistrogo-reagirovaniya-i-podderzhki-rashodov-v-borybe-s-pandemiey-covid-19
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+
+https://perma.cc/T6TL-GYMB
+https://perma.cc/P55J-WAAQ
+https://perma.cc/LY87-BLXZ
+https://perma.cc/BBB9-6ZFT
 
 
 
@@ -2565,13 +2603,12 @@ https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
  No information has been found that the emergency measures has suspended or changed the parliaments work during the pandemic, and the parliament seems to be active as usual. However, all restrictions announced that have been found have been so through decrees by the prime minister, which were not passed by parliament and includes no veto powers from parliament, nor any clear demarcation as to what the prime minister can decide through decree. This rule by decree in relation to restrictions of Covid-19 has continued throughout the period as far as have been found, and no indication has been given that parliament has been involved in the Covid-19 restrictions. This is therefore coded 3 for all periods, as the government has had far reaching power to rule by decree during this period. 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
-https://la.usembassy.gov/Covid-19-information/
-https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
-https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-Covid-19-march-30-update-4
-https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
-
-https://www.aa.com.tr/en/asia-pacific/laos-parliament-elects-new-president/2183905
+ https://web.archive.org/web/20200717034652/http://www.mpwt.gov.la/attachments/article/2185/PM's%20Order%20No%2006PM%20on%20COVID-19.pdf
+https://perma.cc/B4CN-WFS7
+https://perma.cc/NW3A-YQLP
+https://perma.cc/SE79-LVAZ
+https://perma.cc/EPW3-B8WT
+https://perma.cc/D7KH-HE6M
 
 
 
@@ -2596,26 +2633,18 @@ https://www.aa.com.tr/en/asia-pacific/laos-parliament-elects-new-president/21839
  The Inter-Parliamentary Union, Reuters and two local media outlets (The New Arab and Arab News) report that the Lebanese parliament meetings were postponed March 10 2020 for health reasons. They convened a couple of times in Q2 of 2020, the first being at April 21 2020, and they have during these sessions performed a lot of the regular parliamentary work. The parliament has also continued to hold sessions over the periods after that, and has for example voted on a separate state of emergency for the explosion in Beirut in August 2020. However, the medical state of emergency offers the government extended powers to rule by decree in issues related to mitigating the spread of the disease (such as restricing assembly, enacting curfews etc), without need of parliamentary approval. Parliamentary oversight has also been more limited in this medical state of emergency than it would have been if the government had enacted a general state of emergency (which also would require parliamentary approval). At the same time, no evidence has been found that the government has been able to use this medical state of emergency to enact measures beyond those related to Covid-19, and this is therefore coded as 2 rather than 3. Noteworthy is also that Lebanon since the explosion in Beirut in August 2020 have had a general state of emergency in place which seems to have granted them large de facto powers, and have also extended this SoE without gaining the by law necessary approval from parliament. These issues are not related to the handling of Covid-19, however, and the parliament continues to sit and does not seem to have been more limited in their law-making in relation to handling the Covid-19 crisis than they were before the August 2020 SoE being declared. This is therefore coded 2 for all periods. 
 
 *Sources*:
- 
-https://www.reuters.com/article/us-health-coronavirus-lebanon-parliament/lebanese-mps-sprayed-with-sanitizer-at-makeshift-parliament-idUSKCN2231BV
+ https://perma.cc/T35K-PVMB
+https://perma.cc/SQ57-2NPM
+https://perma.cc/Y5CA-XT79
+https://perma.cc/C24N-2NY5
+https://perma.cc/ZWP3-TV6N
+https://perma.cc/8HSA-HJDB
 
-https://english.alaraby.co.uk/english/news/2020/3/10/lebanon-shuts-parliament-over-coronavirus-outbreak
+https://perma.cc/E8XN-GEEP
+https://perma.cc/42BJ-D3FC
+https://web.archive.org/web/20210328191815/https://democracy-reporting.org/wp-content/uploads/2018/08/DRI-LEB-DE-SoE-Lebanon_online.pdf
+https://perma.cc/7DXJ-RRRM
 
-https://www.arabnews.com/node/1639266/middle-east
-
-https://www.nytimes.com/2020/08/13/world/middleeast/lebanon-parliament-emergency.html?auth=login-email&login=email
-
-https://www.lp.gov.lb/
-https://www.csis.org/analysis/navigating-collapse-lebanons-Covid-19-response
-
-
-https://verfassungsblog.de/lebanon-in-times-of-Covid-19-a-series-of-crises/
-
-https://www.presidency.gov.lb/English/News/Pages/Details.aspx?nid=26351
-
-https://democracy-reporting.org/wp-content/uploads/2018/08/DRI-LEB-DE-SoE-Lebanon_online.pdf
-
-https://www.reuters.com/article/us-health-coronavirus-lebanon-vaccine-idUSKBN29K1UC
 
 
 
@@ -2642,19 +2671,24 @@ https://www.reuters.com/article/us-health-coronavirus-lebanon-vaccine-idUSKBN29K
 Since May 2020, a state of disaster has been in force, and under the Disaster Management Act 1997 - the government has a list of specified emergency powers that are narrowly defined to the disaster itself (5). 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+ https://perma.cc/EXS5-EFSJ
 (1)
-https://lesotholii.org/ls/ParliamentProrogation.pdf
+
+https://perma.cc/L6XX-C7CD
 (2)
-https://lesotholii.org/ls/judgment/high-court-constitutional-division/2020/1-0
+
+https://perma.cc/AM42-9BRD
 (3)
-https://africanlii.org/article/20200423/suspension-lesotho%27s-parliament-%27irrational%27%2C-%27unlawful%27-court%20
+
+https://perma.cc/5BYL-AK5K
 (4)
-https://www.ifrc.org/Docs/idrl/862EN.pdf
+
+https://perma.cc/K5PS-3YX7
 (5)
-https://africanlii.org/article/20200423/suspension-lesotho%27s-parliament-%27irrational%27%2C-%27unlawful%27-court
+
+https://perma.cc/5BYL-AK5K
 (6)
-https://www.gov.ls/wp-content/uploads/2021/05/Legal-Notice-No.-49-of-2021-COVID-19-Disaster-Induced-State-of-Emergency-Extension1.pdf
+https://perma.cc/J685-HSVW
 (7)
 
 
@@ -2680,9 +2714,13 @@ https://www.gov.ls/wp-content/uploads/2021/05/Legal-Notice-No.-49-of-2021-COVID-
  The Liberian constitution, article 86a states that: "...Acting pursuant thereto, the President may suspend or affect certain rights, freedoms and guarantees contained in this Constitution and exercise such other emergency powers as may be necessary and appropriate to take care of the emergency." According to the constitution certain rights cannot be suspended and the legislature must approve and can revoke the SOE. Thus, for the duration of the State of Emergency, the government ruled by decree to a large extent, and with broad powers, but these were constrained by legislative oversight and within certain bounds. Article 87a also states that "Emergency powers do not include the power to suspend or abrogate the Constitution [or] dissolve the Legislature...". 3.3. of the Executive Law also provides the president with the right to declare curfews or quarantines, etc. The state of emergency ended on July 21 2020. Under the public health law § 14.2. the minister of health has extended rights to deal with the emergency. Paragraph 14.2 of the public health act maps out the powers of the minister of health under a declaration of a national health emergency, which allows for various measures to limit the spread of diseases (limiting assemblies and movement, strengthening health care and the like), but does not provide for any arbitrary interpretation of what is Covid-19 related nor any general emergency powers beyond those related to limiting the spread of a disease. The chapter in the Public Health Law makes no mention of the legislatures role in this, and the minister of health has the sole responsibility over these efforts. This is therefore coded 2 Q3 and onward where the public health law is the main legal instrument, as the minister of health has the right to rule by decree, but what the minister is authorized to do is delineated and only disease-related. 
 
 *Sources*:
- http://www.vertic.org/media/National%20Legislation/Liberia/LR_Public%20Health%20Law%20-%20Title%2033%20-%20Liberian%20Code%20of%20Laws%20Revised.pdf
-https://www.constituteproject.org/constitution/Liberia_1986?lang=en
-http://www.liberlii.org/cgi-bin/disp.pl/lr/legis/codes/elt12lcolr429/elt12lcolr429.html?stem=0&synonyms=0&query=state%20of%20emergency
+ https://perma.cc/2QY2-MVPC
+
+
+https://perma.cc/H2HB-CW62
+
+
+https://perma.cc/PSB4-2J7V
 
 
 
@@ -2707,13 +2745,11 @@ http://www.liberlii.org/cgi-bin/disp.pl/lr/legis/codes/elt12lcolr429/elt12lcolr4
  There are some limitations to the Parliament (Seimas), as pointed out: "besides the Government, the emergency powers are also exercised by the Chief Officer, who decides upon quarantine measures." (1) Also, the Parliament gave more power to the executive at the beginning of the Covid-19 pandemic. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#L
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B368%5D&covid19=1
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+ [1]	perma.cc/J3YU-4RHK
+[2]	perma.cc/F35Q-GT99
+[3]	https://perma.cc/J7UH-BULT
 
-https://verfassungsblog.de/lithuanias-response-to-covid-19-quarantine-through-the-prism-of-human-rights-and-the-rule-of-law/
-(1)
+[4]	https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
 
 
 
@@ -2742,17 +2778,13 @@ Article 61, Constitution: ''...The proclamation of the situation of exception co
 Art. 4, law 91-011, 1991- The proclamation of an exceptional situation confers on the President of the Republic of the special powers necessary by the circumstances for which it was proclaimed and puts at his disposal all the civil and military means likely to be implemented for this effect. 
 
 *Sources*:
- https://assemblee-nationale.mg/tenue-de-la-session-de-lassemblee-nationale-dans-le-respect-de-la-distanciation-sociale/
+ https://perma.cc/M3M8-PSHJ
+https://perma.cc/B2CV-HXHC
+https://perma.cc/N4DQ-4MSV
+https://perma.cc/3CB7-SZTC
 
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-
-https://www.constituteproject.org/constitution/Madagascar_2010.pdf?lang=en
-
-https://jwf-legal2.fr.gd/Lois-245.htm
-
-https://assemblee-nationale.mg/category/ordre/
-
-http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril-2021.pdf
+https://perma.cc/WN96-YJR7
+https://perma.cc/E44D-P9LS
 
 
 
@@ -2779,7 +2811,8 @@ http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril
  
 
 *Sources*:
- https://malawilii.org/sites/all/libraries/pdf.js/web/viewer.html?file=https%3A%2F%2Fmalawilii.org%2Fsystem%2Ffiles%2Fconsolidatedlegislation%2F3401%2FPublic%2520Health%2520Act.pdf
+ [1]
+https://perma.cc/Y33K-N2FT
 
 
 
@@ -2806,27 +2839,37 @@ http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril
 According to 2B of the Proclamation of Emergency in Malaysia's constitution, the government would be able to introduce laws without the approval of the Parliament. Furthermore the parliament was dissolved and will not reconvene until the end of the emergency in August 2021. On 16 June 2021, the King called for the parliament to be reconvened to debate the Covid-19 recovery plan. As the parliament has yet to reconvene, this variable has been coded as 4 for Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.cljlaw.com/files/bills/pdf/2015/MY_FS_BIL_2015_38.pdf
+ https://perma.cc/TJV3-R58W
 
-https://verfassungsblog.de/covid-19-malaysia-and-the-return-of-rule-by-law/
 
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#M
+https://perma.cc/MWP2-3ZHT
 
-https://www.parlimen.gov.my/index.php?lang=en
 
-https://www.parlimen.gov.my/takwim-dewan-rakyat.html?uweb=dr&
+https://perma.cc/5QKL-96U7
 
-https://www.constituteproject.org/constitution/Malaysia_2007.pdf?lang=en
 
-https://www.arabnews.com/node/1791676/world
+https://perma.cc/Q4BM-GR7U
 
-https://www.abc.net.au/news/2021-01-12/malaysia-king-declares-state-of-emergency-to-curb-covid-spread/13051642
 
-https://www.theguardian.com/world/2021/jan/12/malaysia-declares-covid-state-of-emergency-amid-political-turmoil
+https://perma.cc/G4AN-XVZV
 
-https://www.straitstimes.com/asia/se-asia/no-malaysian-parliament-sitting-until-emergency-ends-on-aug-1-says-minister
 
-https://www.reuters.com/world/asia-pacific/malaysias-king-calls-parliament-resume-earliest-2021-06-16/
+https://perma.cc/F5LM-MCZJ
+
+
+https://perma.cc/Y6NM-DZB9
+
+
+https://perma.cc/9BL5-GWVF
+
+
+https://perma.cc/4V78-XFFT
+
+
+https://perma.cc/3PTZ-SX8V
+
+
+https://perma.cc/NDM5-5BYT
 
 
 
@@ -2855,40 +2898,27 @@ On 18 August 2020 a military coup took place in Mali, leading to the resignation
 Due to surge in Covid-19 cases, the Malian government declared a state of health emergency on 18 December 2020, to last initially for 10 days (until 28 December 2020). The government extended the state of health emergency on 23 December 2020 until 26 June 2021. 
 
 *Sources*:
- https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+ https://perma.cc/B2CV-HXHC
 (1)
-
-https://www.constituteproject.org/constitution/Mali_1992.pdf?lang=en
+https://perma.cc/PT8Y-3TCG
 (2)
-
-https://sgg-mali.ml/JO/2017/mali-jo-2017-46.pdf
+https://perma.cc/HN8S-WEMM
 (3)
-
-https://www.france24.com/fr/20200819-mali-de-la-crise-politique-au-coup-d-%C3%A9tat-militaire
+https://perma.cc/3CFW-7VB6
 (4)
-
-https://www.liberation.fr/direct/element/le-president-du-mali-demissionne-dissout-le-gouvernement-et-lassemblee-nationale_117761/
+https://perma.cc/VUE7-KJS9
 (5)
-
-https://www.theafricareport.com/38911/mali-coup-detat-military-proposes-three-year-transition/
+https://perma.cc/5ASQ-UBSC
 (6)
-
-https://www.bbc.com/afrique/54020425
+https://perma.cc/QCP7-3K32
 (7)
-
 https://www.facebook.com/563531873666309/posts/3981531871866275/
 (8)
-
-https://www.ouestaf.com/mali-letat-durgence-sanitaire-prolonge-jusquau-26-juin-2021/
+https://perma.cc/V5XK-36C8
 (9)
-
-https://www.lessormali.com/mali-letat-durgence-proroge-jusquau-26-juin-2021
+https://web.archive.org/web/20201224215255/https://www.lessormali.com/mali-letat-durgence-proroge-jusquau-26-juin-2021
 (10)
-
-https://www.aljazeera.com/news/2020/9/25/bah-ndaw-sworn-in-as-malis-transitional-president-following-coup
-(11)
-
-https://www.reuters.com/world/africa/mali-hold-elections-next-february-following-post-coup-transition-2021-04-15/
+https://perma.cc/ADD6-VSRA
 (12)
 
 
@@ -2917,15 +2947,19 @@ https://www.reuters.com/world/africa/mali-hold-elections-next-february-following
 Social distancing measures in place - the Parliament continues sessions. 
 
 *Sources*:
- http://fr.ami.mr/Depeche-53088.htmlhttp://fr.ami.mr/Depeche-53087.html
+ perma.cc/HW2T-WZGA
 
-https://www.constituteproject.org/constitution/Mauritania_2012.pdf?lang=en
-(2)
 
-http://fr.ami.mr/Depeche-53085.html
+perma.cc/3XQR-C599
 
-http://fr.alakhbar.info/15472-0-Mauritanie-adoption-de-la-loi-dhabilitation-contre-le-Covid-19.html
-(4)
+
+perma.cc/6JJ2-AGWF
+
+
+perma.cc/7N9C-9H96
+
+
+perma.cc/8JNQ-5MD6
 
 
 
@@ -2951,15 +2985,15 @@ http://fr.alakhbar.info/15472-0-Mauritanie-adoption-de-la-loi-dhabilitation-cont
 
 *Sources*:
  [1]
-http://dof.gob.mx/nota_detalle.php?codigo=5590745&fecha=30/03/2020
+perma.cc/E7TU-N8YA
 [2]
-https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislative-activities.pdf
+perma.cc/62YP-T6R2
 [3]
-http://dof.gob.mx/2020/DOF/COVID19_DOF_160420.pdf
+perma.cc/LY5B-QNZ5
 [4]
-https://dof.gob.mx/nota_detalle.php?codigo=5593313&fecha=14/05/2020
+perma.cc/KA35-2AVX
 [5]
-https://coronavirus.gob.mx/wp-content/uploads/2020/10/SemaforoCOVID_Metodo.pdf
+perma.cc/KG75-4HQB
 
 
 
@@ -2988,10 +3022,9 @@ Q3 2020, Q1 2021: Art. 58 "LEGE Nr. 10 din 03-02-2009 privind supravegherea de 
 Q4 2020: Art 55 of "LEGE Nr. 10 din 03-02-2009 privind supravegherea de stat a sănătăţii publice" has no provisions for the approval of emergency measures by the parliament. The government is responsible for the declaration and implementation of the measures. 
 
 *Sources*:
- https://www.legis.md/cautare/getResults?doc_id=27024&lang=ru
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-
-https://www.legis.md/cautare/getResults?doc_id=106570&lang=ro
+ https://perma.cc/KG43-9WBQ
+https://perma.cc/VYG8-7S9V
+https://www.legis.md/cautare/getResults?doc_id=106570&lang=ro%22
 
 
 
@@ -3018,13 +3051,10 @@ https://www.legis.md/cautare/getResults?doc_id=106570&lang=ro
 It is also noteworthy that Mongolia succesfully held elections on June 24, with similar levels of participation as previous elections, that installed a new parliament. There have been no reports found that the new parliament has faced any limitations. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#M
-
-https://www.legalinfo.mn/law/details/15312?lawid=15312
-
-https://montsame.mn/en/read/223999
-
-https://www.bloomberg.com/news/articles/2020-06-25/mongolia-s-ruling-party-keeps-big-majority-after-covid-success
+ https://perma.cc/6UFZ-RQ7B
+https://perma.cc/F7FH-WRAJ
+https://perma.cc/5T48-WJ78
+https://web.archive.org/web/20200627230451/https://www.bloomberg.com/news/articles/2020-06-25/mongolia-s-ruling-party-keeps-big-majority-after-covid-success
 
 
 
@@ -3051,16 +3081,10 @@ Also, social distancing measures were taken in the Parliament, in order to both 
 ''the secretaries general of both houses reduced the staff on site to a core group carrying out essential duties, while others are teleworking. A communication and follow-up cell was set up to raise staff awareness of hygiene measures to put in place in parliament.'' (3) 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Morocco_2011.pdf?lang=en
-(1)
-
-https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110338/137210/F965170133/MAR-110338.pdf
-(2)
-
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#M
-(3)
-
-https://www.policycenter.ma/opinion/coronavirus-does-state-health-emergency-morocco-comply-international-human-rights-law#.XuD0YFMzbOQ
+ https://perma.cc/QBV9-Z7A8
+https://perma.cc/U8SP-44HC
+https://perma.cc/5VRW-YL89
+https://perma.cc/2SWF-RRZ3
 
 
 
@@ -3085,11 +3109,10 @@ https://www.policycenter.ma/opinion/coronavirus-does-state-health-emergency-moro
  Once the National Assembly approved the declaration of the state of emergency, the executive could define measures to fight the pandemic (e.g. Decree nº 12/2020). The Constitution (Article 289) states that "The declaration of a state of siege or emergency cannot affect the application of the Constitution as regards the competence, the functioning of the sovereign bodies and the rights and immunities of the respective holders or members". (1) The Law nº 10/20, Article 34, delimits which measures the government can take during a state of public calamity. 
 
 *Sources*:
- http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao_do_Estado_de_Emergencia_constante_do_Decreto_Presidencial_n._23_2020_de_5_de_Agosto_4_1.pdf
-http://www.open.ac.uk/technology/mozambique/sites/www.open.ac.uk.technology.mozambique/files/files/Decreto_12_2020_de_2_de_Abril_BR_64_I_SERIE_2020.pdf
-https://www.stj.pt/wp-content/uploads/2018/01/mocambique_constituicao.pdf
-(1)
-https://www.pmaputo.gov.mz/index.php/por/content/download/7394/53460/version/4/file/lei+24-2020+-Gest%C3%A3o+e+Redu%C3%A7%C3%A3o+do+Risco+de+Desastres.pdf
+ [1]	perma.cc/53MZ-78TT
+[2]	perma.cc/HG3P-K9WM
+[3]	perma.cc/3KYL-NNAF
+[4]	perma.cc/7PH5-EQKL
 
 
 
@@ -3115,14 +3138,13 @@ https://www.pmaputo.gov.mz/index.php/por/content/download/7394/53460/version/4/f
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Namibia_2014?lang=en
+https://perma.cc/65GA-7TMM
 [2]
-https://www.namibian.com.na/199309/archive-read/Parliament-blesses-state-of-emergency
-
+https://perma.cc/38VD-XAG4
 [3]
-https://www.lac.org.na/laws/2015/5740.pdf
+https://perma.cc/M9GN-GVJA
 [4]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+https://perma.cc/P2MN-8NYW
 
 
 
@@ -3151,19 +3173,14 @@ The Act isbroad. Section 2(1) can, "provide legal foundation for any government 
 The parliament was dissolved on December 20th, 2020, with elections planned for April 2021. The Supreme Court ruled that it was unconstitutional in February 2021 and the parliament was reinstated in March 2021. It was then dissolved again in May 2021, with elections planned for November 2021. Since the dissolutions were not due to Covid-19, they are not considered in the coding. 
 
 *Sources*:
- https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+ https://perma.cc/R7AQ-R27V
 [1]
 
-http://www.lawcommission.gov.np/en/archives/12240
-
-http://www.vertic.org/media/National%20Legislation/Nepal/NP_Infectious_Diseases_Act.pdf
-
-https://www.nytimes.com/2020/12/20/world/asia/nepal-parliament.html
-
-https://www.dw.com/en/nepals-parliament-dissolved-president-calls-for-fresh-elections/a-57628429
-
-
-https://www.nytimes.com/2021/05/22/world/asia/nepal-parliament-coronavirus.html
+https://perma.cc/DX7R-D9NN
+https://perma.cc/E896-56ZR
+https://perma.cc/MAB8-LYJQ
+https://perma.cc/3CBL-THXL
+https://perma.cc/S6HT-ZAPS
 
 
 
@@ -3189,18 +3206,31 @@ https://www.nytimes.com/2021/05/22/world/asia/nepal-parliament-coronavirus.html
 Note however that there was some critique about the relatively marginal role parliament played in the emergency measures up until the enactment of the Emergency Act, as the Covid-19 response was dealt with by the 25 emergency regions before that. This was a system where government and these regions coordinated the response, thus not involving parliament directly. 
 
 *Sources*:
- https://www.houseofrepresentatives.nl/news/house-representatives-increase-number-debates
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic-_may_2020.pdf
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#N
+ https://perma.cc/497T-RJ4X
 
 
-https://www.rijksoverheid.nl/onderwerpen/coronavirus-Covid-19/nederlandse-maatregelen-tegen-het-coronavirus/coronawet-vervangt-noodverordeningen
+https://perma.cc/N9MK-QG82
 
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_november_2020.pdf
 
-https://verfassungsblog.de/Covid-19-in-the-netherlands-of-changing-tides-and-constitutional-constants/
+https://perma.cc/53PL-KHNK
 
-https://wetten.overheid.nl/BWBR0044416/2021-05-22
+
+
+
+
+https://perma.cc/X8YQ-TBTD
+
+
+https://perma.cc/7QSY-DZ2D
+
+
+https://perma.cc/GQ8X-W7RT
+
+
+https://perma.cc/SE2C-EENC
+
+
+
 
 
 
@@ -3225,16 +3255,12 @@ https://wetten.overheid.nl/BWBR0044416/2021-05-22
  The Parliament adjourned and only worked remotely during the State of Emergency, but have convened again. While the emergency measures did force parliament to not work as usual, it did not affect its lawmaking role as it continued to pass urgent Covid-19 laws during the pandemic, and are now working as normal with their law making role being sustained.Note also that the parliament was set to dissolve five weeks before electing the new parliament, which is standard practice in New Zealand, but that this has been postponed due to elections being pushed forward (the current date set is October 17). So the current parliament continues to work. The new elections took place on 17 October and the Parliament works and has had no impediments so far. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#N
-https://data.ipu.org/node/122/elections?chamber_id=13478
-
-https://www.parliament.nz/en/pb/bills-and-laws/bills-proposed-laws/
-
-https://www.parliament.nz/en/site-search?term=Covid-19
-
-https://www.theguardian.com/world/2020/aug/12/new-zealand-delays-dissolving-parliament-amid-mystery-coronavirus-outbreak
-
-https://www.garda.com/crisis24/news-alerts/369921/new-zealand-elections-postponed-until-october-17-due-to-new-covid-19-cases-update-22
+ [1]	perma.cc/B6P3-9H64
+[2]	perma.cc/L7KK-K7CG
+[3]	perma.cc/NF87-DZUZ
+[4]	perma.cc/9TA2-RX9N
+[5]	perma.cc/4EPV-7H9K
+[6]	perma.cc/FDF6-M2YD
 
 
 
@@ -3260,17 +3286,17 @@ https://www.garda.com/crisis24/news-alerts/369921/new-zealand-elections-postpone
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3
 
 
 
@@ -3312,32 +3338,22 @@ Also, there has been ongoing oversight in Parliament and limits on decree powers
  
 
 *Sources*:
- https://www.constituteproject.org/constitution/Niger_2017.pdf?lang=en
+ https://perma.cc/JYE6-G2KW
 (1)
-
-
-https://www.presidence.ne/conseils-des-ministres/2021/4/22/conclusions-du-conseil-des-ministres-du-22-avril-2021
+https://perma.cc/NFB8-QJJ4
 (2)
+https://perma.cc/NS7F-7FPE
+(3)https://perma.cc/9KT9-H7GK
 
-https://www.presidence.ne/conseils-des-ministres/2020/7/10/zef2pm594x9v69950g44z9sed4toqc
-(3)
-
-http://www.anp.ne/article/covid-19-prorogation-pour-trois-mois-de-l-etat-d-urgence-sanitaire-au-niger
 (4)
-
-http://www.lesahel.org/index.php/2020/04/14/assemblee-nationale-covid-19-les-parlementaires-adoptent-la-loi-portant-prorogation-de-letat-durgence-au-niger/
-(5)
-
-http://www.anp.ne/article/niger-le-parlement-approuve-la-prorogation-de-l-etat-d-urgence-sanitaire-contre-la-covid-19
+https://perma.cc/E3XF-XE8E(5)
+https://perma.cc/VKD8-N9NG
 (6)
+https://perma.cc/35AU-ECQP
+(7)https://perma.cc/K76C-HZCF
 
-https://www.lesahel.org/assemblee-nationale-adoption-de-lois-portant-prorogation-de-letat-durgence-sanitaire-et-securitaire-au-niger/
-(7)
-
-https://www.assemblee.ne/index.php/travaux-parlementaires/ordre-du-jour
 (8)
-
-https://www.dcaf.ch/sites/default/files/imce/FINAL_EN%20Background%20paper%20C-19%20Parlements%20v1.pdf
+https://perma.cc/6B8V-F6GN
 (9)
 
 
@@ -3363,10 +3379,10 @@ https://www.dcaf.ch/sites/default/files/imce/FINAL_EN%20Background%20paper%20C-1
  While the Quarantine Act of 1926 allows for narrowly defined responses to disease outbreaks, many fear that the proposed legislation being debated by the National Assembly is vaguely formulated and will provide more sweeping presidential powers. 
 
 *Sources*:
- https://verfassungsblog.de/nigerias-emergency-legal-response-to-covid-19-a-worthy-sacrifice-for-public-health/
-https://www.loc.gov/law/help/health-emergencies/nigeria.php
-http://lawsofnigeria.placng.org/laws/Q2.pdf
-https://www.scribd.com/document/458968631/Draft-Control-of-Infectious-Diseases-Bill
+ [1]	perma.cc/4RDA-G346
+[2]	perma.cc/A7PF-ELY7
+[3]	perma.cc/244S-ZMDU
+[4]	perma.cc/E8W4-4ULB
 
 
 
@@ -3391,9 +3407,8 @@ https://www.scribd.com/document/458968631/Draft-Control-of-Infectious-Diseases-B
  The emergency measures with reference to Covid-19 do not limit the lawmaking role of the legislature. Furthermore, the legislature appears to meeting and working regularly. Hence I have coded this variable as 0. 
 
 *Sources*:
- https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-
-https://www.constituteproject.org/constitution/Peoples_Republic_of_Korea_1998.pdf
+ https://perma.cc/CD5V-BF43
+https://perma.cc/Z9FX-YELW
 
 
 
@@ -3422,17 +3437,15 @@ According to IDEA, "The country has been facing challenges due to the lack of a 
 October-December 2020, January-March, April-June 2021: According to the Crisis Management Law ("Zakon za upravuvanje so krizi"), the Crisis Management Center has the authority to implement emergency measures during a state of crisis, and the government should notify the parliament about the implemented measures once a week. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Macedonia_2011?lang=en
-https://www.reuters.com/article/us-north-macedonia-election/north-macedonia-parliament-dissolves-sets-poll-date-after-eu-shuns-talks-idUSKBN20A0ON
-https://www.sobranie.mk/sredbi-2020-ns_article-pres-konferencija-po-povod-raspishuvanjeto-na-predvremenite-parlamentarni-izbori.nspx
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B343%5D&covid19=1
-(1)
+ [1]	perma.cc/84W5-2L3U
+[2]	perma.cc/VHF3-4HNU
+[3]	perma.cc/5MQT-BUFG
+[4]	https://perma.cc/J7UH-BULT
 
-https://pretsedatel.mk/%d0%bf%d1%80%d0%b5%d1%82%d1%81%d0%b5%d0%b4%d0%b0%d1%82%d0%b5%d0%bb%d0%be%d1%82-%d0%bf%d0%b5%d0%bd%d0%b4%d0%b0%d1%80%d0%be%d0%b2%d1%81%d0%ba%d0%b8-%d0%b3%d0%b8-%d0%b8%d1%81%d0%bf%d1%80%d0%b0%d1%82/
-https://a1on.mk/macedonia/neizvesno-potvrduvanjeto-na-odlukite-za-vonredna-sostojba-vo-sobranieto/
-https://24.mk/details/neizvesno-potvrduvanjeto-na-odlukite-za-vonredna-sostojba-vo-sobranieto
-
-http://www.macefdrr.gov.mk/files/dokumenti/pzrdo/Zakon%20za%20upravuvanje%20so%20krizi%202005.pdf
+[5]	perma.cc/8YZL-EZB6
+[6]	perma.cc/SP9L-8KUX
+[7]	perma.cc/H3QE-WZXN
+[8]	https://web.archive.org/web/20171113052603/http://www.macefdrr.gov.mk/files/dokumenti/pzrdo/Zakon%20za%20upravuvanje%20so%20krizi%202005.pdf
 
 
 
@@ -3457,16 +3470,25 @@ http://www.macefdrr.gov.mk/files/dokumenti/pzrdo/Zakon%20za%20upravuvanje%20so%2
  The Norwegian parliament has continued to work throughout the pandemic, and have passed both the Corona Act and then subsequent amendments that are used as the main legal instruments, as well as other Covid-19 related legislation (and other legislation). No evidence has been found that their law-making role has been limited. This is therefore coded 0 for all periods. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#N
+ https://perma.cc/M5NR-W2D4
 
-https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2019-2020/the-corona-act/
 
-https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2019-2020/the-storting-constitutes-coronavirus-special-committee/
-https://lovdata.no/dokument/NL/lov/1994-08-05-55
-https://www.stortinget.no/no
-https://oxcon.ouplaw.com/view/10.1093/law-occ19/law-occ19-e3
+https://perma.cc/AW4C-9GUQ
 
-https://verfassungsblog.de/the-pomp-of-popular-constitutional-outrage/
+
+https://perma.cc/RZ3Y-L7VZ
+
+
+https://perma.cc/Z9W8-SAYX
+
+
+https://perma.cc/G3YQ-PJ5X
+
+
+https://perma.cc/ZA9S-XGME
+
+
+https://perma.cc/5AFP-DVM8
 
 
 
@@ -3517,10 +3539,8 @@ https://omannews.gov.om/Local/ArtMID/416/ArticleID/9985
  I have not found information that suggests that the power of the national legislature has been diminished in anyway due to the emergency measures that have been employed across all the time periods. 
 
 *Sources*:
- https://www.voanews.com/covid-19-pandemic/pakistan-says-its-covid-19-cases-could-rise-12-million-end-july
-
-
-https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755241
+ https://perma.cc/N59C-2NWC
+https://perma.cc/JT6Y-NHC3
 
 
 
@@ -3545,11 +3565,10 @@ https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755
  The National Assembly is working, but the executive has the autonomy to rule by decree on covid-19 related issues. 
 
 *Sources*:
- http://www.minsa.gob.pa/contenido/decretos-y-resoluciones-codes
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#P
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://twitter.com/asambleapa?lang=es
-
+ [1]	perma.cc/GKV3-BAL8
+[2]	perma.cc/LQ9K-WZAA
+[3]	perma.cc/S8K3-RVJL
+[4]	perma.cc/JUE6-46PG
 
 
 
@@ -3575,27 +3594,16 @@ https://twitter.com/asambleapa?lang=es
 For Q3-4 of 2020 and Q1-2 of 2021, which has the Pandemic Act as the main legal instrument, there is a similar situation – after a declaration of a pandemic situation, a national control group is formed that takes most decisions and has the right to issue orders and decrees related to combatting a disease. They are obligated to report to the parliament, which also has some capacity to oversee and question measures, but effectively this control group determines the Pandemic response, but within a limited set of measures related to limiting spread of diseases. This is therefore coded 2 for these periods as well. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Papua_New_Guinea_2016.pdf?lang=en
+ https://perma.cc/3M3Z-GCP2
 
-https://www.coronanet-project.org/data/reports/finished/20200620_Papua.html
+https://perma.cc/7PRR-DYE9
+https://perma.cc/8YEW-VQQL
+https://perma.cc/Y9VY-H84E
+https://perma.cc/TNR2-6CG5
+https://perma.cc/H74W-ZDGR
+https://perma.cc/5JDT-VCK3
 
-https://www.garda.com/crisis24/news-alerts/325816/papua-new-guinea-state-of-emergency-comes-into-effect-march-24-update-2
-
-https://www.theguardian.com/world/2020/mar/23/papua-new-guinea-declares-state-of-emergency-after-first-coronavirus-case
-
-https://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-response-to-Covid-19---emergency-legal-regime/
-
-https://covid19.info.gov.pg/
-
-https://www.theguardian.com/world/2021/mar/18/papua-new-guinea-to-impose-month-long-restrictions-as-covid-outbreak-spirals
-
-http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
-
-http://www.parliament.gov.pg/index.php/bills-and-legislation/view/national-pandemic-act-2020
-
-https://www.garda.com/crisis24/news-alerts/480906/papua-new-guinea-authorities-easing-some-Covid-19-restrictions-nationwide-as-of-may-20-update-31
-
- 
+https://perma.cc/8B5R-T8BR
 
 
 
@@ -3621,11 +3629,11 @@ https://www.garda.com/crisis24/news-alerts/480906/papua-new-guinea-authorities-e
 
 *Sources*:
  [1]
-https://www.bacn.gov.py/leyes-paraguayas/2399/ley-n-836-codigo-sanitario
+perma.cc/4KQ2-J2F6
 [2]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+perma.cc/S5TU-5M2K
 [3]
-https://www.infobae.com/america/america-latina/2020/04/03/el-parlamento-de-paraguay-entrara-en-cuarentena-por-un-caso-confirmado-de-coronavirus-en-el-senado/
+perma.cc/GYP2-YTJ9
 
 
 
@@ -3651,9 +3659,9 @@ https://www.infobae.com/america/america-latina/2020/04/03/el-parlamento-de-parag
 
 *Sources*:
  [1]
-https://cdn.www.gob.pe/uploads/document/file/566448/DS044-PCM_1864948-2.pdf
+perma.cc/4MCY-3WNG
 [2]
-https://comunicaciones.congreso.gob.pe/noticias/comunicado-del-congreso-de-la-republica-2/
+perma.cc/ZJ2R-Z9FN
 
 
 
@@ -3678,12 +3686,8 @@ https://comunicaciones.congreso.gob.pe/noticias/comunicado-del-congreso-de-la-re
  Under the state of calamity, the powers that the president is allowed to exercise include1: "Temporarily take over or direct the operations" of public utilities and privately owned health facilities and other necessary facilities.2: Enabling him to "reallocate, realign, and reprogram" a budget of almost 275 billion ($5.37 billion) from the estimated 438 billion ($8.55 billion) national budget approved for 2020, in response to the pandemic.3: The accommodation of health professionals, and the distribution and storage of medical relief; and "facilitate and streamline" the accreditation of testing kits. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-punishment
-
-
-
-
-http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regulartion_RA_10121.pdf
+ https://perma.cc/EQG3-5C79
+https://perma.cc/EDZ5-C2F9
 
 
 
@@ -3708,11 +3712,11 @@ http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regularti
  MP's are allowed to vote remotely and oversee emergency measures. I found no information on limitations on the lawmaking role of the legislature. 
 
 *Sources*:
- https://www.senat.gov.pl/diariusz/posiedzenia-senatu/
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#P
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
-https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
+ https://perma.cc/R2G2-LZ77
+https://perma.cc/NXK9-9Y6L
+https://perma.cc/N7G3-KYGU
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://perma.cc/55RL-RS8D
 
 
 
@@ -3738,11 +3742,11 @@ https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Portugal_2005.pdf
+perma.cc/EJ66-NHYG
 [2]
-https://dre.pt/web/guest/pesquisa-avancada/-/asearch/221696/details/normal?types=SERIEI&numero=44%2F86&tipo=%22Lei%22
+perma.cc/6WE7-KFKU
 [3]
-https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
+perma.cc/WHR8-YR3T
 
 
 
@@ -3767,11 +3771,13 @@ https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
  The Shura Council is only a consultative assembly, not a legislature. This is therefore coded as 5. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#Q
+ https://perma.cc/VM6Z-N3V3
 
-https://www.constituteproject.org/constitution/Qatar_2003?lang=en
 
-https://data.ipu.org/node/137/law-making-oversight-budget?chamber_id=13576
+https://perma.cc/J2BN-HFKD
+
+
+https://perma.cc/M83A-FEHP
 
 
 
@@ -3798,18 +3804,15 @@ https://data.ipu.org/node/137/law-making-oversight-budget?chamber_id=13576
 All the 21 extensions of the state of emergency as of June 2021 have been approved by the Parliament. 
 
 *Sources*:
- https://www.adiac-congo.com/content/prorogation-de-letat-durgence-les-deputes-deplorent-labsence-des-donnees-scientifiques
+ https://perma.cc/A4GP-WTPE
+https://perma.cc/NL4M-9H2U
 
-https://www.adiac-congo.com/content/covid-19-letat-durgence-sanitaire-proroge-compter-du-5-mars-124913
+https://perma.cc/4RST-VVKZ
 
-https://www.adiac-congo.com/content/etat-durgence-sanitaire-le-parlement-autorise-une-nouvelle-prorogation-de-vingt-jours-123112
+https://perma.cc/GJ7A-J5CL
 
-https://www.adiac-congo.com/content/covid-19-le-parlement-approuve-la-prorogation-de-letat-durgence-sanitaire-124261
-
-
-https://lesechos-congobrazza.com/politique/6901-covid-19-au-congo-ca-y-est-le-parlement-a-adopte-la-loi-autorisant-la-prorogation-de-l-etat-d-urgence
-
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+https://perma.cc/Q8D9-T45Y
+https://perma.cc/B2CV-HXHC
 
 
 
@@ -3836,17 +3839,14 @@ https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: Parliament passed a new law, Law 55/2020, regulating the state of alert on 15 May. The state by alert is not recognized by the Constitution as a state of exception and the parliament continued to oversee and amend the measures proposed by the government. According to Law 55/2020, the government adopts decision to implement measures declared by the parliament, so the executive has authority to interpret Covid-19 laws relatively widely, but not rule by decree. 
 
 *Sources*:
- http://www.cdep.ro/relatii_publice/site2.text_presa?pid=19651&catg=100&timp=20200316&asoc=
-
+ https://perma.cc/C3K3-Z5DK
+https://perma.cc/4MLK-WGVB
+https://perma.cc/868M-EYDF
+https://perma.cc/V6CA-PLJU
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://perma.cc/XHK9-T6LE
 http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdf
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#R
-http://www.cdep.ro/pdfs/oz/oz20200314/hp_vot_electronic.pdf
-
-http://legislatie.just.ro/Public/DetaliiDocumentAfis/225620
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-http://www.cdep.ro/comisii/juridica/pdf/2020/rd_0520.pdf
-
-https://www.robert-schuman.eu/en/doc/ouvrages/FRS_Parliament_Romania.pdf
+https://perma.cc/L74U-9QXB
 
 
 
@@ -3871,12 +3871,11 @@ https://www.robert-schuman.eu/en/doc/ouvrages/FRS_Parliament_Romania.pdf
  No limitations on the legislature mentioned in the text of emergency measures. Based on the legislature's website, some of its sessions were canceled but its lawmaking power was not limited and it ratified emergency measures passed by the government. 
 
 *Sources*:
- http://kremlin.ru/events/president/news/63341
-http://duma.gov.ru/news/48598/
-http://duma.gov.ru/news/48454/
-http://duma.gov.ru/news/48058/
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B365%5D&covid19=1
+ https://perma.cc/FQ8L-ZATF
+https://perma.cc/G7WV-UTRY
+https://perma.cc/WZ5S-XWD5
+https://perma.cc/J7UH-BULT
+https://perma.cc/Q6R3-ZWBR
 
 
 
@@ -3905,39 +3904,31 @@ All of these decrees have originated from the executive, without direct vote fro
 The legislature continues to meet, but less regularly and with social distancing measures. The renewed lockdown in 2021 indeed affected the parliamentary meetings, which were held online, and the first time the Parliament convened since the partial lift of the lockdown was on an extraordinary session on 13 May 2021 ‘’to allow to vote on and allow the Government to take loans meant to hasten the distribution of electricity’’. 
 
 *Sources*:
- https://twitter.com/PrimatureRwanda/status/1241412264193937412
+ https://web.archive.org/web/20200321172642/https://twitter.com/PrimatureRwanda/status/1241412264193937412
 (1)
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Cabinet_Communique_-01-04-2020_.pdf
+https://perma.cc/KXR4-EKUS
 (2)
-
-https://www.gov.rw/cabinet-resolutions
+https://perma.cc/2JNG-RA4A
 (3)
 
-
-https://ancl-radc.org.za/node/630
+https://perma.cc/MR5U-MWAS
 (4)
-
-https://allafrica.com/stories/202005140238.html
+https://perma.cc/MD3V-RHKZ
 (5)
-
-https://www.newtimes.co.rw/news/extraordinary-parliamentary-session-whats-agenda
+https://perma.cc/9K99-TPG2
 (6)
+https://perma.cc/DJ79-NX47
+(7)
+https://perma.cc/N6X2-J29Z
+(8)
+https://perma.cc/9HAF-TYH8
+(9)
+https://web.archive.org/web/20210821151804/https://twitter.com/rwandaparliamnt?lang=en
+(10)
 
-International
-IDEA
-Parliaments
-in
-the
-pandemic
+https://perma.cc/683U-9UQ4
 
-https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19
-
-https://www.youtube.com/watch?v=Ra3C7HlFGMg
-
-https://twitter.com/rwandaparliamnt?lang=en
-
-https://www.parliament.gov.rw/
+(11)
 
 
 
@@ -3962,7 +3953,7 @@ https://www.parliament.gov.rw/
  Saudi Arabia is a monarchy where the king holds absolute power. Saudi Arabias "legislature", the Consultative Assembly of Saudi Arabia, is only an advisory body and has no lawmaking role. Therefore, this is coded as 5. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Saudi_Arabia_2013?lang=en
+ https://perma.cc/9GAX-R6GB
 
 
 
@@ -3995,11 +3986,11 @@ After the end of the state of emergency, some minimal Covid-19 health restrictio
 
 *Sources*:
  https://www.facebook.com/assnatsn/posts/3324392247593627
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://www.constituteproject.org/constitution/Senegal_2016.pdf?lang=en
-https://www.aa.com.tr/fr/afrique/s%C3%A9n%C3%A9gal-covid-19-le-parlement-vote-une-loi-habilitant-le-pr%C3%A9sident-%C3%A0-prendre-des-mesures-par-ordonnances/1788433
-https://www.jeuneafrique.com/919680/politique/senegal-les-deputes-donnent-a-macky-sall-le-pouvoir-de-legiferer-par-ordonnances/
-https://afrique.le360.ma/senegal/politique/2020/04/02/30041-senegal-coronavirus-macky-sall-habilite-par-le-parlement-gouverner-par-ordonnance-30041
+perma.cc/MWU8-2G2C
+perma.cc/78KZ-3B7A
+perma.cc/52WY-7URM
+perma.cc/U8FT-D9DC
+perma.cc/3HJE-HEW8
 http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdf
 
 
@@ -4029,13 +4020,22 @@ On 4 March 2020, the President dissolved the parliament in preparation for 26 Ap
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: Art 6. of "Zakon o zaštiti stanovništva od zaraznih bolesti"   gives the government authority to declare and implement emergency measures related to infectious diseases, so the executive can rule by decree on matters related to Covid-19. 
 
 *Sources*:
- https://www.predsednik.rs/lat/pres-centar/vesti/predsednik-vucic-raspisao-redovne-parlamentarne-izbore
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://www.constituteproject.org/constitution/Serbia_2006?lang=en
-http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/skupstina/zakon/2020/62/1/reg
+ https://perma.cc/363P-TH74
 
-https://www.paragraf.rs/propisi/zakon_o_zastiti_stanovnistva_od_zaraznih_bolesti.html
+
+https://perma.cc/WB8W-FDCC
+
+
+https://perma.cc/799S-VPGH
+
+
+https://perma.cc/8M3Z-KV48
+
+
+https://perma.cc/RA67-9ETE
+
+
+https://perma.cc/3JGB-3SDF
 
 
 
@@ -4062,8 +4062,7 @@ https://www.paragraf.rs/propisi/zakon_o_zastiti_stanovnistva_od_zaraznih_bolesti
 After the state of emergency was lifted, the executive still decides some restrictions and measures for COVID-19. Therefore, Q2 2021 is coded as 2. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Sierra_Leone_2013?lang=en
-(1)
+ [1]	perma.cc/FM8A-H3W4
 
 
 
@@ -4088,7 +4087,7 @@ After the state of emergency was lifted, the executive still decides some restri
  Part 7 of the Covid-19 (Temporary Measures) Act 2020 provides the executive with limited powers to make regulations using Covid-19 Control Orders in a specified number of areas including stay-at-home orders, restrictions on movement, closures of facilities, and public gatherings only where this is necessary. Control orders must be presented to parliament and published in the Gazette. Parliament also has the power to annul these orders. 
 
 *Sources*:
- https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20200513#legis
+ https://perma.cc/V88P-56RD
 
 
 
@@ -4113,12 +4112,11 @@ After the state of emergency was lifted, the executive still decides some restri
  I found no limitations on the lawmaking role of the legislature. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#S
-
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B317%5D&covid19=1
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-https://verfassungsblog.de/slovakias-democracy-and-the-covid-19-pandemic-when-executive-communication-fails/
+ https://perma.cc/8EA4-M34D
+https://perma.cc/J7UH-BULT
+https://perma.cc/RN4X-KNYL
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://perma.cc/SXE6-RL9U
 
 
 
@@ -4143,11 +4141,11 @@ https://verfassungsblog.de/slovakias-democracy-and-the-covid-19-pandemic-when-ex
  The measures are declared by the executive without the need for parliamentary oversight, but the parliament can override them with a statute. Leglimit is therefore coded as 1 for all periods. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#S
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-https://verfassungsblog.de/slovenia-second-wave-of-challenges-to-constitutionalism/
+ [1]	perma.cc/KDJ2-3LZB
+[2]	perma.cc/GFG8-UHCG
+[3]	perma.cc/45VQ-T8XB
+[4]	https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+[5]	perma.cc/JJ3M-NBKA
 
 
 
@@ -4173,10 +4171,10 @@ https://verfassungsblog.de/slovenia-second-wave-of-challenges-to-constitutionali
 
 *Sources*:
  [1]
-https://documentcloud.adobe.com/link/review?uri=urn%3Aaaid%3Ascds%3AUS%3Adb05da55-9c12-4a92-a98d-43cd78c9fe2e#pageNum=10
 
+https://perma.cc/2QRW-CR7P
 [2]
-https://reliefweb.int/sites/reliefweb.int/files/resources/CPRP%20Final%20Subow%2C%2026%20April%20%281%29.pdf
+https://perma.cc/JLZ6-AHTJ
 
 
 
@@ -4201,17 +4199,10 @@ https://reliefweb.int/sites/reliefweb.int/files/resources/CPRP%20Final%20Subow%2
  The South African parliament suspended all activities on 19 March 2020 and resumed on 13 April 2020 [1,4]. According to the National Disaster Management Act (2003), "the national executive is primarily responsible for the coordination and management of national disasters irrespective of whether a national state of disaster has been declared" and must deal with the disaster in terms of existing legislation, "augmented by regulations or directions made or issued" when a state of disaster is declared [2]. Specific provisions and limitations on decrees made during a state of national disaster are provided within the law [2,3]. 
 
 *Sources*:
- [1]
-https://www.sabcnews.com/sabcnews/parliament-suspends-activities-amid-covid-19-outbreak/
-
-[2]
-https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
-
-[3]
-https://www.gov.za/sites/default/files/gcis_document/202003/43096gon313.pdf
-
-[4]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+ [1]	perma.cc/YA6U-F8Y3
+[2]	perma.cc/6UAW-RDAN
+[3]	perma.cc/N984-EPR9
+[4]	perma.cc/J6V7-LHF4
 
 
 
@@ -4236,11 +4227,9 @@ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
  The lawmaking role of the legislature has not been limited due to the emergency measures. South Korea held an election on 15 April 2020. 
 
 *Sources*:
- https://www.cfr.org/blog/implications-south-koreas-historic-covid-19-elections
-
-https://www.bbc.com/news/world-asia-52304781
-
-https://www.theguardian.com/world/2020/apr/16/south-koreas-ruling-party-wins-election-landslide-amid-coronavirus-outbreak
+ https://perma.cc/M4Y4-MG2P
+https://perma.cc/8QF5-XQJR
+https://perma.cc/FST9-UF57
 
 
 
@@ -4267,13 +4256,13 @@ https://www.theguardian.com/world/2020/apr/16/south-koreas-ruling-party-wins-ele
 As the law prompts the government to declare a state of emergency and thereby include the legislature in the decision-making process of emergency measures, but the government refrained from doing so, this is interpreted as a limitation of the powers of the legislature. No indication of a change in legislature influence has been found since June 2020. This is therefore coded as 3 for all periods. 
 
 *Sources*:
- https://ancl-radc.org.za/node/644
+ https://perma.cc/R3FS-GQGM
 (1)
-https://www.voanews.com/covid-19-pandemic/south-sudan-announces-new-steps-fight-coronavirus
-https://apnews.com/5307b01c4db913048387a3702aefbbe2
-https://www.garda.com/crisis24/coronavirus-updates?referer=map
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
 
+https://perma.cc/JRU4-9MMK
+https://perma.cc/587W-2ANL
+https://perma.cc/Y47R-AL9P
+https://perma.cc/YJN5-HBXG
 
 
 
@@ -4298,8 +4287,7 @@ https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
  Disposición adicional sexta/Disposición final segunda: the government can rule by decree on matters regarding covid-19 and must report to the congress weekly on what measures were taken. The measures defined in the Royal Decree-Law 21/2020 do not limit the lawmaking role of the legislature. While the president can rule by decree, this is not novel nor exclusive to the Estado de Alarma. The lawmaking role of the legislature is not affected by the emlaw. 
 
 *Sources*:
- [1]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-3692
+ [1]	perma.cc/P8DM-GT25
 
 
 
@@ -4326,17 +4314,12 @@ https://www.boe.es/buscar/act.php?id=BOE-A-2020-3692
 In all periods, measures were declared by the government without reference to the legal instrument.  Some members of the government argued that the measures could be justified with Quarantine and Prevention of Diseases Ordinance (1), but it provides no legal basis for declaring some of the measures, such as a nationwide curfew (2). “Moreover, in terms of Article 15(6) of the Constitution the freedom of movement can only be restricted through an Act of Parliament or by regulations made under the Public Security Ordinance.” (2) Since the measures were declared without reference to legal instruments, leglimit is coded as 3 in Q4 2020, Q1 2021, Q2 2021. 
 
 *Sources*:
- https://www.reuters.com/article/us-sri-lanka-politics-election/sri-lanka-delays-general-election-for-second-time-sets-august-5-as-new-date-idUSKBN23H1RW
-
-https://www.dw.com/en/coronavirus-keeps-sri-lanka-without-a-functioning-parliament/a-53615108
-https://www.parliament.lk/en/news-en/view/1851?category=6
-
-
-https://www.electionguide.org/elections/id/3498/
-
-https://www.lawnet.gov.lk/quarantine-and-prevention-of-diseases-4/
-
-https://verfassungsblog.de/sri-lankas-legal-response-to-covid-19-past-trends-and-future-prospects/
+ https://perma.cc/B8NK-VHA8
+https://perma.cc/9NZM-QJ7Z
+https://perma.cc/7D87-C78W
+https://perma.cc/D2M9-F56Q
+https://perma.cc/6LLH-6YX9
+https://perma.cc/65C7-L35X
 (2)
 
 
@@ -4362,12 +4345,9 @@ https://verfassungsblog.de/sri-lankas-legal-response-to-covid-19-past-trends-and
  The National Assembly is still dissolved since the coup in 2019. 
 
 *Sources*:
- [1]
-https://edition.cnn.com/2019/04/11/africa/sudan-unrest-intl/index.html
-[2]
-https://www.aa.com.tr/en/middle-east/sudans-al-bashir-dissolves-state-federal-governments/1400513
-[3]
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B625%5D&covid19=1
+ [1]	perma.cc/BMT2-CD2U
+[2]	perma.cc/WCP4-PBSH
+[3]	https://perma.cc/J7UH-BULT
 
 
 
@@ -4395,30 +4375,19 @@ For Q1 and Q2 of 2021, suing the Covid-19 Act, no limitaitons on the parliaments
 The Swedish parliament has also continued to work throughout the pandemic (although with some restrictions on how many can convene at the same time physically), passed and amended several laws, and have been able to scrutinize the government and its actions. This is therefore coded 0 for all periods. 
 
 *Sources*:
- https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
-
-https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
-
-https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
-
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
-
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-
-https://www.loc.gov/law/foreign-news/article/sweden-swedish-parliament-gives-swedish-government-temporary-emergency-powers-because-of-Covid-19-outbreak/
-
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
-
-https://www.regeringen.se/artiklar/2020/03/andring-i-forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://www.regeringen.se/artiklar/2020/03/forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://www.regeringen.se/artiklar/2020/03/forbud-mot-allmanna-sammankomster-eller-offentliga-tillstallningar-med-fler-an-50-deltagare/
-
-https://www.regeringen.se/pressmeddelanden/2020/11/max-atta-personer-vid-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://verfassungsblog.de/Covid-19-in-sweden-a-soft-power-approach/
-https://www.regeringen.se/regeringens-politik/regeringens-arbete-med-coronapandemin/om-halsovard-sjukvard-och-aldreomsorg-med-anledning-av-Covid-19/fragor-och-svar-om-den-tillfalliga-pandemilagen/
+ https://perma.cc/TS2H-DB5G
+https://perma.cc/3M2B-G5YN
+https://perma.cc/Y754-XEP6
+https://perma.cc/D4MN-Q5YH
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://perma.cc/YSD7-U6GQ
+https://perma.cc/CQ58-64TH
+https://perma.cc/ZKK9-P9UT
+https://perma.cc/99KQ-GFSR
+https://perma.cc/S47N-C89M
+https://perma.cc/VTC2-USLS
+https://perma.cc/C87F-G45T
+https://perma.cc/36VE-VTHE
 
 
 
@@ -4444,16 +4413,31 @@ https://www.regeringen.se/regeringens-politik/regeringens-arbete-med-coronapande
 Ordinance 1, 2 and 3 were introduced and implemented without parliamentary approval, but the Swiss Parliament (Federal Assembly) passed on 25 September 2020 the Federal Covid-19 Act (Federal Act on the Statutory Principles for Federal Council Ordinances on Combating the COVID-19 Epidemic) which creates a legal basis allowing the Federal Council to maintain the measures resolved by emergency decree that are still necessary to manage the Covid-19 epidemic, i.e. it authorized the Federal Council’s use of special powers. While parliament approved the Act, it does not require parliamentary approval for measures to come into effect, and parliament cannot veto measures (although the government is required to present the measures to parliament, and consult parliamentary committees before executing them). Consequently, parliament has not been involved a lot in the Covid-19 response, and the measures have more or less all been taken by the government. At the same time, the legislation that underlies the ordinances and the Covid-19 Act does not allow for arbitrary interpretations of what are relevant measures for limiting the spread of Covid-19, nor have they powers to rule by decree more generally through this. Thus, the government has handled the Covid-19 response with fairly little influence from parliament, but the powers are limited to Covid-19 related issues. This is the case both under the period using the ordinances, and the periods when the Covid-19 Act came into effect. This is therefore coded 2 for all periods. 
 
 *Sources*:
- https://www.venice.coe.int/files/EmergencyPowersObservatory/SUI-E.htm
-https://fcilsis.wordpress.com/2020/11/18/european-legal-responses-to-Covid-19-switzerland/
-https://www.admin.ch/opc/fr/classified-compilation/20202070/index.html
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#S
-https://www.admin.ch/opc/fr/classified-compilation/20071012/index.html#a7
-https://www.constituteproject.org/constitution/Switzerland_2014.pdf?lang=en
-https://verfassungsblog.de/concentration-of-powers-in-the-federal-executive-the-application-of-emergency-powers-in-switzerland/
+ https://perma.cc/K6QV-S843
 
-https://verfassungsblog.de/switzerland-and-the-Covid-19-pandemic-a-look-back-and-a-look-into-the-future/
-https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+
+https://perma.cc/BW94-6CWJ
+
+
+https://perma.cc/9XJJ-DMAL
+
+
+https://perma.cc/ZVN8-YLXN
+
+
+https://perma.cc/54VX-A79Y
+
+
+https://perma.cc/PZ8Q-A4YL
+
+
+https://perma.cc/65C9-D63P
+
+
+https://perma.cc/6MCB-2TUL
+
+
+https://perma.cc/6W9B-BMT7
 
 
 
@@ -4478,18 +4462,13 @@ https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/
  I have not found information that suggests that the power of the national legislature has been diminished in anyway due to the emergency measures that have been employed. 
 
 *Sources*:
- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7246107/
+ https://perma.cc/8RVW-V7EC
 
 
-
-https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=L0050001
-
+https://perma.cc/672N-SHYB
 
 
-
-http://www.loc.gov/law/foreign-news/article/taiwan-special-covid-19-law-revised-to-increase-economic-relief-budget/
-
-
+https://perma.cc/H5B5-3FSW
 
 
 https://perma.cc/9W88-7R3B
@@ -4517,11 +4496,16 @@ https://perma.cc/9W88-7R3B
  No limitations on the legislature mentioned in the decree. Based on the legislature's website, its activities were not affected by the measures and it held sessions. 
 
 *Sources*:
- http://www.president.tj/ru/node/23055
-http://majmilli.tj/category/habarho/
+ https://perma.cc/8TJ8-KHD7
 
-http://majmilli.tj/%d0%b1%d0%b0%d1%80%d0%b3%d1%83%d0%b7%d0%be%d1%80%d0%b8%d0%b8-%d0%b8%d2%b7%d0%bb%d0%be%d1%81%d0%b8%d1%8f%d0%b8-%d0%b4%d1%83%d1%8e%d0%bc%d0%b8-%d0%bc%d0%b0%d2%b7%d0%bb%d0%b8%d1%81%d0%b8-%d0%bc%d0%b8/
-http://majmilli.tj/%d0%b1%d0%b0%d1%80%d0%b3%d1%83%d0%b7%d0%be%d1%80%d0%b8%d0%b8-%d0%b8%d2%b7%d0%bb%d0%be%d1%81%d0%b8%d1%8f%d0%b8-%d1%8f%d0%ba%d1%83%d0%bc%d0%b8-%d0%bc%d0%b0%d2%b7%d0%bb%d0%b8%d1%81%d0%b8-%d0%bc%d0%b8/
+
+https://perma.cc/B5HQ-F3EF
+
+
+https://perma.cc/LP5N-C6AP
+
+
+https://perma.cc/BJA6-UN32
 
 
 
@@ -4547,28 +4531,19 @@ http://majmilli.tj/%d0%b1%d0%b0%d1%80%d0%b3%d1%83%d0%b7%d0%be%d1%80%d0%b8%d0%b8-
 
 *Sources*:
  [1]
-https://www.dw.com/en/tanzania-under-fire-from-who-for-lackluster-response-to-Covid-19-pandemic/a-53304699
-
+https://perma.cc/XR49-BUUW
 [2]
-https://www.constituteproject.org/constitution/Tanzania_1995?lang=en
-
+https://perma.cc/Z97P-J6V5
 [3]
-
-https://www.reuters.com/article/us-tanzania-politics-idUSKBN23N23P
-
+https://perma.cc/C2ZL-E7LD
 [4]
-https://www.news24.com/news24/Africa/News/tanzania-opposition-mps-to-boycott-parliament-after-3-mps-die-20200502
-
-
+https://perma.cc/2WM6-A7BB
 [5]
-https://www.thecitizen.co.tz/tanzania/news/president-magufuli-to-inaugurate-parliament-on-friday-3018352
-
+https://web.archive.org/web/20201111130529/https://www.thecitizen.co.tz/tanzania/news/president-magufuli-to-inaugurate-parliament-on-friday-3018352
 [6]
-https://www.theguardian.com/world/2020/oct/30/tanzanias-president-wins-re-election-amid-claims-of
-
-
+https://perma.cc/QT89-4FCA
 [7]
-https://tz.usembassy.gov/Covid-19-information/
+https://perma.cc/9LYT-BU3X
 
 
 
@@ -4594,12 +4569,9 @@ https://tz.usembassy.gov/Covid-19-information/
 
 *Sources*:
  (1)
-https://www.hrw.org/news/2020/05/27/thailand-state-emergency-extension-unjustified
-
-
-
+https://perma.cc/RWQ7-VSWZ
 (2)
-http://web.krisdika.go.th/data/document/ext810/810259_0001.pdf
+https://perma.cc/E7UG-Z2NX
 
 
 
@@ -4625,17 +4597,12 @@ http://web.krisdika.go.th/data/document/ext810/810259_0001.pdf
 No evidence has been found that The Public Health Act limits the lawmaking role of the legislature. There have also been few restrictions in place since December 2020, and the legislature seems to be operating in a regular fashion. 
 
 *Sources*:
- 
-https://www.facebook.com/PresidencyGambia/photos/covid19gambianew-Covid-19-health-regulations-following-the-lapse-of-the-last-7-d/1291031134562324/
-https://www.facebook.com/PresidencyGambia/photos/a.666968460301931/1291031134562324/?type=3
-
-https://www.blgcc.eu/government-of-the-gambia-eases-curfew-market-restrictions-and-public-health-regulations/
-
-https://verfassungsblog.de/the-use-of-emergency-powers-in-response-to-Covid-19-in-the-gambia/
-
-https://www.garda.com/fr/crisis24/alertes-de-securite/412326/gambia-minimal-Covid-19-restrictions-in-place-nationwide-as-of-dec-9-update-18
-
-https://twitter.com/gambiaassembly
+ https://perma.cc/2BER-CR6H
+https://perma.cc/S7ZG-6CCR
+https://perma.cc/CG8C-BTYY
+https://perma.cc/66L6-AH8S
+https://perma.cc/8BHB-ZTDJ
+https://perma.cc/6MCP-WQY5
 
 
 
@@ -4665,14 +4632,22 @@ The extension of the state of emergency until March 2021 was also approved by th
 The National Assembly also approved the last extension of the state of health emergency on 16 March 2021, until mid-September 2021 . 
 
 *Sources*:
- https://presidence.gouv.tg/2020/04/01/adresse-du-chef-de-letat-sem-faure-essozimna-gnassingbe-au-peuple-togolais-sur-la-riposte-nationale-contre-le-covid-19/
-http://togolex.com/2020/04/loi-n-2020-005-du-30/03/2020-portant-habilitation-du-gouvernement-a-prendre-par-ordonnances-les-mesures-relevant-du-domaine-de-la-lo
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://www.constituteproject.org/constitution/Togo_2007.pdf?lang=en
-https://www.togofirst.com/en/health/1609-6251-togo-extends-state-of-emergency-again
-(5)
+ perma.cc/WVY4-VC2L
 
-https://www.togofirst.com/en/public-management/1803-7505-covid-19-togo-extends-state-of-health-emergency-for-the-4th-consecutive-time
+
+perma.cc/CP7F-P3PC
+
+
+perma.cc/EHV6-2VMN
+
+
+perma.cc/V545-HYEC
+
+
+perma.cc/4L2G-DN3Y
+
+
+perma.cc/LU5C-32C6
 
 
 
@@ -4717,27 +4692,13 @@ The Assembly also adopted draft legislation on 19 April to allow the Head of Gov
 After the first few months of the exceptional measures in 2020, the ARP returned to its pre-pandemic functioning [3]. 
 
 *Sources*:
- [1]
-https://www.constituteproject.org/constitution/Tunisia_2014?lang=en
-
-
-[2]
-https://www.arab-reform.net/publication/tunisia-facing-covid-19-to-exceptional-circumstances-exceptional-measures/
-
-[3]
-https://directinfo.webmanagercenter.com/2020/06/03/tunisie-arp-annulation-en-pleniere-des-mesures-exceptionnelles-concernant-le-travail-du-parlement/
-
-[4]
-https://www.asf.be/blog/2020/07/01/the-tunisian-response-to-the-covid-19-pandemic-when-the-state-of-exception-overlaps-with-the-state-of-emergency/#_ftn2
-
-[5]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#T
-
-[6]
-https://www.inter-pares.eu/sites/interpares/files/2020-05/Parliaments%20and%20Crisis%20Challenges%20and%20Innovations%20Primer.pdf
-
-[7]
-https://www.tap.info.tn/en/Portal-Politics/12533648-law-on-delegating
+ [1]	perma.cc/KE9Q-9JXB
+[2]	perma.cc/YSR7-SD9X
+[3]	perma.cc/4Z2C-YX2X
+[4]	perma.cc/S8PE-U9LE
+[5]	perma.cc/94PK-H28D
+[6]	perma.cc/W9RL-F3S9
+[7]	perma.cc/Q86V-APBJ
 
 
 
@@ -4763,14 +4724,13 @@ https://www.tap.info.tn/en/Portal-Politics/12533648-law-on-delegating
 The Turkish constitution allows for the declaration of a state of emergency (as does the Law on the State of Emergency [Law no. 2935]), but such action requires that all emergency presidential decrees be sent to Parliament the same day, debated and resolved within three months otherwise they are considered repealed. Turkey has not adopted a state of emergency, rather the executive has issued decrees with reference to ordinary laws -- Law on the Protection of Public Health (Law no. 1593) and the Law on Provincial Administration (Law no. 5442) -- thereby avoiding legislative approval. A prior Constitutional Court judgement in 2016 allows for vague adoption of measures related to emergencies. Thus, the government has ruled by decree on a wide set of issues and with no clear demarcation toward only relating to Covid-19 measures. This has been the situation throughout the pandemic, and Turkey has in several instances been criticized for also using overly broad interpretations of what the laws they rely on allow, as well as implementing and announcing measures in ways inconsistent with the regular and established process. Thus, this is coded as 3 for all time periods. 
 
 *Sources*:
- https://www.hurriyetdailynews.com/turkish-parliament-to-open-for-fourth-legislative-session-with-virus-measures-158723
-https://www.dailysabah.com/politics/diplomacy/turkeys-parliament-resumes-work-under-new-normal-after-48-days
-https://www.hurriyetdailynews.com/turkish-parliament-suspends-work-after-increase-in-Covid-19-cases-on-premises-156038
-https://www.hurriyetdailynews.com/turkish-parliament-goes-on-recess-until-end-of-may-due-to-Covid-19-153926
-https://www.hurriyetdailynews.com/turkish-parliament-to-re-convene-with-busy-agenda-155240
-https://verfassungsblog.de/fighting-Covid-19-legal-powers-risks-and-the-rule-of-law-turkey/
-
-https://verfassungsblog.de/year-one-reflections-on-turkeys-legal-responses-to-the-Covid-19-pandemic/
+ https://perma.cc/A9E5-X57Q
+https://perma.cc/EDB7-AHBB
+https://perma.cc/WYR5-ALLZ
+https://perma.cc/QSF6-VPB7
+https://perma.cc/E32Q-VDX6
+https://perma.cc/L734-LJ2W
+https://perma.cc/6958-LYTA
 
 
 
@@ -4795,8 +4755,9 @@ https://verfassungsblog.de/year-one-reflections-on-turkeys-legal-responses-to-th
  I have no found any measures limiting the lawmaking role of the legislature. According to the state media, the parliament met and ratified legislation on 14 March and 22 August 2020, where the last meeting took place online. 
 
 *Sources*:
- http://tdh.gov.tm/news/articles.aspx&article21786&cat11
-http://tdh.gov.tm/news/articles.aspx&article23878&cat11
+ https://web.archive.org/web/20200315145150/http://tdh.gov.tm/news/articles.aspx&article21786&cat11
+
+https://web.archive.org/web/20200824065749/http://tdh.gov.tm/news/articles.aspx&article23878&cat11
 
 
 
@@ -4821,22 +4782,15 @@ http://tdh.gov.tm/news/articles.aspx&article23878&cat11
  The health minister is allowed to set up rules to combat covid-19. Breaking these rules is an offence. The parliament operated with limited staff during the lockdown in 2020. By not declaring a state of emergency the oversight role of the parliament is restricted and the executive rules by decree, although it seems to have been limited to pandemic response. 
 
 *Sources*:
- [1]
-https://www.parliament.go.ug/news/4599/speaker-issues-new-guidelines-parliament
-[2]
-https://www.constituteproject.org/constitution/Uganda_2017?lang=en
-[3]
-https://perma.cc/E7ZP-68JW
-[4]
-https://www.parliament.go.ug/news/4577/parliament-restricts-access-non-critical-staff-work-home
-[5]
-http://library.health.go.ug/sites/default/files/resources/Public%20Health%20Act.pdf
-[6]
-https://www.asf.be/blog/2020/06/11/ugandas-de-facto-state-of-emergency-to-address-the-covid-19-pandemic/#_ftn3
-[7]
-https://thinkwell.global/wp-content/uploads/2020/09/Uganda-COVID-19-Case-Study-_18-Sept-20201.pdf
-[8]
-https://www.independent.co.ug/covid-19-is-ugandas-lock-down-equivalent-to-state-of-emergency/
+ [1]	perma.cc/Z5GV-3SKQ
+[2]	perma.cc/N7KE-GMG2
+[3]	perma.cc/E7ZP-68JW
+[4]	perma.cc/5CC7-CXHH
+[5]	perma.cc/C9DF-ENFL
+[6]	perma.cc/UL9V-T4PH
+[7]	perma.cc/GJ66-HSYH
+[8]	perma.cc/SJ2L-XWFE
+
 
 
 
@@ -4863,13 +4817,12 @@ https://www.independent.co.ug/covid-19-is-ugandas-lock-down-equivalent-to-state-
  I found no limitations on the lawmaking role of the legislature in other time periods; the parliament continued to pass laws with emergency measures. 
 
 *Sources*:
- https://zakon.rada.gov.ua/laws/show/543-20#Text
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#U
-http://w1.c1.rada.gov.ua/pls/zweb2/webproc2_5_1_J?ses=10010&num_s=2&num=&date1=&date2=&name_zp=covid&out_type=&id=&page=1&zp_cnt=20
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://democracy-reporting.org/dri_publications/backgrounder-ukraines-response-to-covid-19/
-(1)
-https://www.wfd.org/wp-content/uploads/2021/01/Covid-19-legislative-leadership-V5.pdf
+ https://perma.cc/8V2J-WTHN
+https://perma.cc/A4A8-EDXJ
+https://perma.cc/JSV5-N7UX
+https://perma.cc/M26X-U6PQ
+https://web.archive.org/web/20200811035734/https://democracy-reporting.org/dri_publications/backgrounder-ukraines-response-to-covid-19/
+https://perma.cc/Q9DY-D3GT
 
 
 
@@ -4894,14 +4847,10 @@ https://www.wfd.org/wp-content/uploads/2021/01/Covid-19-legislative-leadership-V
  Parliamentary committees have moved to 100 per cent remote working. Nothing seems to suggest that they are limited in their work by other means, or that the exectutive has any extra power as a result of the emergency measures. 
 
 *Sources*:
- [1]
-https://dlp.dubai.gov.ae/en/Pages/LegislationSearch.aspx
-[2]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/government-efforts-to-contain-covid-19
-[3]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak
-[4]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#U
+ [1]	perma.cc/9Q76-SNVT
+[2]	perma.cc/XR3Z-7YQQ
+[3]	perma.cc/89LH-3WYN
+[4]	perma.cc/RH2A-Q4GZ
 
 
 
@@ -4926,22 +4875,15 @@ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#U
  For health reasons, parliament worked remotely from 26 March 2020 to 21 April in 2020, but have resumed work although with limited number of MPs present at each time. Committees are also working, and the parliament have both amended and passed laws. In addition, claiming urgency, the secreterary of state has the power to make the regulations come into force immediately, but the House of Commons needs to approve them within 28 days or it expires. The House also has the possibility to terminate it at any point before that. The emergency measures have thus not affected the parliaments law making role, and this is coded as 0. Note however that there has been significant critique toward the UK government for the lack of parliamentary scrutiny toward the measures taken, not least financial packages and spending. Furthermore, the system of operating where the government have enacted several measures through declarations in line with the legislation, and which have then only been subject to parliamentary approval after that (and as noted above, expires by itself after 28 days if the parliament has not voted on it). However, given that parliament continues to be involved in this process, it is not regarded as affecting their law making role. Neither is the law making role affected in other circumstances as far as has been found. Their capacity to scrutinize and oversee government actions, especially in terms of debates and referring questions to the government in relation to decisions, has been limited for various reasons (claiming urgency, the relatively few parliamentarians gathered at one point and the like), this does not impact law making directly, but rather relates to parliamentary oversight. This is therefore coded 0. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#U
-https://www.bbc.com/news/uk-politics-52032188
-https://www.parliament.uk/business/news/Covid-19/
-https://www.parliament.uk/about/how/Covid-19-hybrid-proceedings-in-the-house-of-commons/
+ https://perma.cc/5XVA-H6XW
+https://perma.cc/8LKW-EEWS
+https://perma.cc/R7RV-NECQ
+https://web.archive.org/web/20200502204125/https://www.parliament.uk/about/how/Covid-19-hybrid-proceedings-in-the-house-of-commons/
 
-https://www.legislation.gov.uk/coronavirus
-
-https://www.legislation.gov.uk/uksi/2021/364/contents
-
-https://doi.org/10.1080/09615768.2020.1759398
-
-https://verfassungsblog.de/a-government-ungoverned/
-
-https://commonslibrary.parliament.uk/coronavirus-parliamentary-scrutiny-and-lockdown-regulations/
-
- 
+https://perma.cc/WYX4-TX94
+https://perma.cc/G2CW-48XZ
+https://perma.cc/3HGW-GE3J
+https://perma.cc/L2QU-BJZA
 
 
 
@@ -4966,21 +4908,16 @@ https://commonslibrary.parliament.uk/coronavirus-parliamentary-scrutiny-and-lock
  The National Emergency Act, or related emergency measures taken such as under the Stafford Act and Public Health Service Act, do not provide the executive any additional lawmaking power, nor does it limit the legislatures lawmaking role. The National Emergency Act grants the executive access to a number of emergency authority statutes that can be activated. Consequently, only already existing statues are made available, not the capacity to without the legislature create new ones. In addition, no evidence of any de facto changes in the law making role has been found. Congress has been active in related areas as well, for instance passing Covid-19 relief bills, and their work during in terms of other obligations and debating and legislating in other areas seem to be continuing as usual.  Important to note is also that many of the measures in place during the coded period have been enacted by state authorities, and to what extent the law making role has been limited in relation to governors and other authorities is not accounted for here, so any such potential limitation is not included in this question. 
 
 *Sources*:
- https://uscode.house.gov/view.xhtml?path=/prelim@title50/chapter34&edition=prelim
+ https://perma.cc/5JAC-MK2N
 https://www.whitehouse.gov/presidential-actions/proclamation-declaring-national-emergency-concerning-novel-coronavirus-disease-Covid-19-outbreak/
-https://www.nytimes.com/2020/03/13/us/politics/coronavirus-national-emergency.html
-https://www.federalregister.gov/documents/2020/03/18/2020-05794/declaring-a-national-emergency-concerning-the-novel-coronavirus-disease-Covid-19-outbreak
 
-https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/24/a-letter-on-the-continuation-of-the-national-emergency-concerning-the-coronavirus-disease-2019-Covid-19-pandemic/
-
-https://fas.org/sgp/crs/natsec/R46379.pdf
-
-https://trumpwhitehouse.archives.gov/briefings-statements/letter-president-donald-j-trump-emergency-determination-stafford-act/
-
-https://time.com/5944774/whats-in-Covid-19-relief-bill-senate/
-
-
-https://www.house.gov/legislative-activity
+https://perma.cc/8794-2XR5
+https://perma.cc/H5VN-E8RH
+https://perma.cc/YB4D-8A97
+https://perma.cc/PMV6-H4Z7
+https://perma.cc/Y6Z8-FVLC
+https://perma.cc/SNN7-HXBX
+https://perma.cc/U3SC-H69Z
 
 
 
@@ -5005,11 +4942,8 @@ https://www.house.gov/legislative-activity
  The congress is partialy working remotely, but the executive has the authority to rule by decree on covid-19 related issues. 
 
 *Sources*:
- [1]
-https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
-
-[2]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+ [1]	perma.cc/8ZXX-3EWB
+[2]	perma.cc/N963-SEN9
 
 
 
@@ -5034,9 +4968,13 @@ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
  No limiting provisions in decree 5537; the parliament continues to meet with physical distancing measures. 
 
 *Sources*:
- https://www.lex.uz/docs/4720408
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#U
-http://parliament.gov.uz/ru/events/other/30944/
+ https://perma.cc/DLR7-EFNT
+
+
+https://perma.cc/EQV4-PJTS
+
+
+https://perma.cc/66SJ-8HVG
 
 
 
@@ -5062,7 +5000,8 @@ http://parliament.gov.uz/ru/events/other/30944/
 
 *Sources*:
  [1]
-https://app.box.com/s/a437wqh3l52mksb8ks9xd8bskv1oeze9
+perma.cc/G7BT-XE7J
+
 
 
 
@@ -5087,16 +5026,11 @@ https://app.box.com/s/a437wqh3l52mksb8ks9xd8bskv1oeze9
  I did not find evidence of the lawmaking role of the legislature being limited due to the emergency measures across all time periods. 
 
 *Sources*:
- https://www.weforum.org/agenda/2020/03/vietnam-contain-covid-19-limited-resources/
-
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.bbc.com/news/business-53045955
-
-https://www.reuters.com/article/us-health-coronavirus-vietnam-riceatm/rice-atm-feeds-vietnams-poor-amid-virus-lockdown-idUSKCN21V0GQ
-
-
-http://constitutionnet.org/sites/default/files/tranlation_of_vietnams_new_constitution_enuk_2.pdf
+ https://perma.cc/AF38-JQLA
+https://perma.cc/Z537-Z8XF
+https://perma.cc/HA79-TY6W
+https://perma.cc/4KRG-8MKW
+https://perma.cc/CX6T-VTR4
 
 
 
@@ -5125,19 +5059,27 @@ After a legislator died from coronavirus and a spike in the cases, the Zambia pa
 While the legislature did resume normal functions from September 2020 onward, President Lungu has continued to unilaterally issue decrees concerning Covid-19 restrictions. 
 
 *Sources*:
- https://mg.co.za/africa/2020-06-15-in-zambia-covid-19-has-claimed-democracy-not-human-life/
-https://www.znbc.co.zm/news/covid-19-parliament-adjourns-sine-die/
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+ https://perma.cc/54GR-NDLT
 
-https://www.lusakatimes.com/2020/06/09/zambian-parliament-to-resume-its-sittings-today/
-https://mg.co.za/africa/2020-06-15-in-zambia-covid-19-has-claimed-democracy-not-human-life/
-https://www.facebook.com/watch/live/?v=3468045533211650&ref=watch_permalink
-https://www.facebook.com/105720380970250/videos/310060723379927
-https://www.thecitizen.co.tz/news/Zambian-Parliament-forced-to-adjourn-after-Covid-19-kills-MP/1840386-5597898-sh2o93/index.html
-https://www.mwebantu.com/2020/07/20/coronavirus-parliament-shuts-down-for-a-second-time-due-to-covid-19/22974/
-https://diggers.news/local/2020/09/07/bill-10-will-be-tabled-in-next-parliament-sitting-clerk/
-https://zambiareports.com/2020/08/13/lungu-open-parliament-sept-11/
-https://www.facebook.com/105720380970250/videos/332455918005458
+https://perma.cc/36NU-YWSR
+
+https://perma.cc/X2QQ-AF9F
+
+https://perma.cc/X3ZW-FUC5
+
+https://perma.cc/GF3F-8LWW
+
+https://perma.cc/LRX9-JUA7
+
+https://perma.cc/5VVE-YVKV
+
+
+https://web.archive.org/web/20200720190050/https://www.mwebantu.com/2020/07/20/coronavirus-parliament-shuts-down-for-a-second-time-due-to-covid-19/22974/
+https://perma.cc/42B7-C3TW
+
+https://web.archive.org/web/20200930024827/https://zambiareports.com/2020/08/13/lungu-open-parliament-sept-11/
+https://perma.cc/WQY6-Z67T
+
 
 
 
@@ -5168,42 +5110,16 @@ On 28 July 2020, the legislature adjurned business to 25 August after members of
 The limits on the legislature from the Civil Protection Notice remain in place - allowing the Minister in consultation with the President - to rule by decree on Covid-19 related measures. 
 
 *Sources*:
- https://allafrica.com/stories/202010220733.html
+ https://perma.cc/LY6N-PVPU
+https://perma.cc/Q494-97G
+https://web.archive.org/web/20201231040747/https://www.parlzim.gov.zw/administration/clerk-of-parliament/clerk-s-blog/press-statement-parliament-and-covid-19-response-04-2020
 
-https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
+https://web.archive.org/web/20220812181002/https://parlzim.gov.zw/download/national-assembly-hansard-18-march-2020-46-36/
 
-
-
-https://www.parlzim.gov.zw/administration/clerk-of-parliament/clerk-s-blog/press-statement-parliament-and-covid-19-response-04-2020
-
-
-
-https://www.parlzim.gov.zw/national-assembly-hansard/national-assembly-hansard-18-march-2020-vol-46-no-36
-
-
-
-https://www.parlzim.gov.zw/national-assembly-hansard/national-assembly-hansard-5-may-2020-vol-46-no-37
-
-
-
-https://www.parlzim.gov.zw/national-assembly-hansard/national-assembly-hansard-28-july-2020-vol-46-no-57
-
-
-
-https://allafrica.com/stories/202007290285.html
-
-
-
-https://www.parlzim.gov.zw/national-assembly-hansard/national-assembly-hansard-25-august-2020-vol-46-no-58
-
-
-
-http://www.newsdzezimbabwe.co.uk/2020/08/parly-sits-for-less-than-20-minutes.html
-
-
-
-https://www.insiderzim.com/zimbabwe-parliament-adjourns-until-5-may-due-to-coronavirus/
-
-
-
-https://allafrica.com/stories/202004290621.html
+https://perma.cc/A855-3NNN
+https://perma.cc/AXX8-9UKB
+https://perma.cc/UX94-Y7QF
+https://perma.cc/Q3JT-XKL2
+https://perma.cc/84SE-FACU
+https://perma.cc/7D2S-ACJS
+https://perma.cc/6RLJ-8SRG

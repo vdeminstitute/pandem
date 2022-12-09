@@ -46,15 +46,15 @@
 
 *Sources*:
  [1]
-https://app.box.com/s/a437wqh3l52mksb8ks9xd8bskv1oeze9
+perma.cc/9MBY-83N4
 [2]
-https://www.moore-venezuela.com/noticias/abril-2021/estado-de-excepcion-de-alarma-para-atender-la-emer
+perma.cc/3VL3-E85F
 [3]
-http://spgoin.imprentanacional.gob.ve/cgi-win/be_alex.cgi?Documento=T028700035728/0&Nombrebd=spgoin&CodAsocDoc=2503&Sesion=249009065
+perma.cc/F9SP-NDPU
 [4]
-https://www.vtv.gob.ve/lunes-venezuela-semana-cuarentena-radical-metodo-77/
+perma.cc/3E7E-VKNW
 [5]
-https://www.garda.com/crisis24/news-alerts/490406/venezuela-authorities-impose-strict-covid-19-related-restrictions-through-at-least-june-20-update-49
+perma.cc/MWH2-TQMF
 
 
 
@@ -94,9 +94,9 @@ https://www.garda.com/crisis24/news-alerts/490406/venezuela-authorities-impose-s
 
 *Sources*:
  [1]
-https://venezuela.justia.com/federales/constitucion-de-la-republica-bolivariana-de-venezuela/titulo-viii/capitulo-ii/
+perma.cc/CWM5-PGQZ
 [2]
-https://app.box.com/s/a437wqh3l52mksb8ks9xd8bskv1oeze9
+perma.cc/2P3B-GJS4
 
 
 
@@ -136,7 +136,7 @@ https://app.box.com/s/a437wqh3l52mksb8ks9xd8bskv1oeze9
 
 *Sources*:
  [1]
-http://www.presidencia.gob.ve/Site/Web/Principal/paginas/classMostrarEvento3.php?id_evento=15274
+perma.cc/NLF5-94SB
 
 
 
@@ -176,13 +176,13 @@ http://www.presidencia.gob.ve/Site/Web/Principal/paginas/classMostrarEvento3.php
 
 *Sources*:
  [1]
-https://www.vtv.gob.ve/venezuela-cumple-ano-declaracion-estado-alarma-pandemia-covid19/
+perma.cc/6XXL-5Y73
 [2]
-http://spgoin.imprentanacional.gob.ve/cgi-win/be_alex.cgi?Documento=T028700035728/0&Nombrebd=spgoin&CodAsocDoc=2503&Sesion=249009065
+perma.cc/HDU5-R5KE
 [3]
-https://www.vtv.gob.ve/lunes-venezuela-semana-cuarentena-radical-metodo-77/
+perma.cc/K9EP-F5A8
 [4]
-https://www.garda.com/crisis24/news-alerts/490406/venezuela-authorities-impose-strict-covid-19-related-restrictions-through-at-least-june-20-update-49
+perma.cc/MG4C-4ENS
 
 
 
@@ -225,7 +225,7 @@ https://www.garda.com/crisis24/news-alerts/490406/venezuela-authorities-impose-s
 
 *Sources*:
  [1]
-https://venezuela.justia.com/federales/constitucion-de-la-republica-bolivariana-de-venezuela/titulo-viii/capitulo-ii/
+perma.cc/P7KA-ASLU
 
 
 
@@ -265,15 +265,15 @@ https://venezuela.justia.com/federales/constitucion-de-la-republica-bolivariana-
 
 *Sources*:
  [1]
-https://app.box.com/s/a437wqh3l52mksb8ks9xd8bskv1oeze9
+perma.cc/9MBY-83N4
 [2]
-https://www.moore-venezuela.com/noticias/abril-2021/estado-de-excepcion-de-alarma-para-atender-la-emer
+perma.cc/3VL3-E85F
 [3]
-http://spgoin.imprentanacional.gob.ve/cgi-win/be_alex.cgi?Documento=T028700035728/0&Nombrebd=spgoin&CodAsocDoc=2503&Sesion=249009065
+perma.cc/F9SP-NDPU
 [4]
-https://www.vtv.gob.ve/lunes-venezuela-semana-cuarentena-radical-metodo-77/
+perma.cc/3E7E-VKNW
 [5]
-https://www.garda.com/crisis24/news-alerts/490406/venezuela-authorities-impose-strict-covid-19-related-restrictions-through-at-least-june-20-update-49
+perma.cc/MWH2-TQMF
 
 
 
@@ -316,11 +316,11 @@ https://www.garda.com/crisis24/news-alerts/490406/venezuela-authorities-impose-s
 
 *Sources*:
  [1]
-https://venezuela.justia.com/federales/constitucion-de-la-republica-bolivariana-de-venezuela/titulo-viii/capitulo-ii/
+perma.cc/Z7X7-EJEK
 [2]
-https://covid19.patria.org.ve/noticia/presidente-maduro-extiende-30-dias-estado-de-alarma-constitucional-para-combatir-covid-19/
+perma.cc/GCV7-J3WA
 [3]
-http://vicepresidencia.gob.ve/sala-constitucional-del-tsj-declaro-la-constitucionalidad-del-decreto-que-prorroga-estado-de-alarma-por-pandemia-del-covid-19/
+https://web.archive.org/web/20200820171306/http://vicepresidencia.gob.ve/sala-constitucional-del-tsj-declaro-la-constitucionalidad-del-decreto-que-prorroga-estado-de-alarma-por-pandemia-del-covid-19/
 
 
 
@@ -363,13 +363,13 @@ http://vicepresidencia.gob.ve/sala-constitucional-del-tsj-declaro-la-constitucio
 
 *Sources*:
  [1]
-https://covid19.patria.org.ve/noticia/presidente-maduro-extiende-30-dias-estado-de-alarma-constitucional-para-combatir-covid-19/
+perma.cc/B6PJ-QE4V
 [2]
-http://vicepresidencia.gob.ve/sala-constitucional-del-tsj-declaro-la-constitucionalidad-del-decreto-que-prorroga-estado-de-alarma-por-pandemia-del-covid-19/
+https://web.archive.org/web/20200820171306/http://vicepresidencia.gob.ve/sala-constitucional-del-tsj-declaro-la-constitucionalidad-del-decreto-que-prorroga-estado-de-alarma-por-pandemia-del-covid-19/
 [3]
-http://www.tsj.gob.ve/-/sala-constitucional-del-tsj-declaro-la-constitucionalidad-del-decreto-de-estado-de-alarma-por-pandemia-del-covid--1
+https://perma.cc/W85V-VQCE
 [4]
-https://www.vtv.gob.ve/sala-tsj-constitucionalidad-decreto/
+perma.cc/9D4K-PYJB
 
 
 
@@ -416,7 +416,8 @@ https://www.vtv.gob.ve/sala-tsj-constitucionalidad-decreto/
 
 *Sources*:
  [1]
-https://app.box.com/s/a437wqh3l52mksb8ks9xd8bskv1oeze9
+perma.cc/G7BT-XE7J
+
 
 
 
@@ -539,13 +540,14 @@ https://app.box.com/s/a437wqh3l52mksb8ks9xd8bskv1oeze9
 
 *Sources*:
  [1]
-https://covid19.patria.org.ve/noticia/decretado-toque-de-queda-en-municipios-de-los-estados-zulia-y-bolivar/
+perma.cc/JF2Z-X4X2
 [2]
-https://covid19.patria.org.ve/noticia/presidente-maduro-llama-a-reforzar-zonas-fronterizas-ante-covid-19/
+perma.cc/A98D-97HQ
 [3]
-https://covid19.patria.org.ve/noticia/presidente-maduro-decreto-toque-de-queda-en-el-municipio-paez-del-estado-apure/
+perma.cc/A8DR-BEDA
 [4]
-https://apnews.com/article/noticias-14215624959fc7deccd691d885d2fd41
+perma.cc/BZ7Z-75BU
+
 
 
 
@@ -590,9 +592,9 @@ https://apnews.com/article/noticias-14215624959fc7deccd691d885d2fd41
 
 *Sources*:
  [1]
-https://www.hrw.org/americas/venezuela
+perma.cc/6W5Q-WSEH
 [2]
-https://www.amnesty.org/en/countries/americas/venezuela/
+perma.cc/JZ37-LD8D
 
 
 
@@ -642,14 +644,13 @@ https://www.amnesty.org/en/countries/americas/venezuela/
 
 *Sources*:
  [1]
-https://www.nytimes.com/2020/08/19/world/americas/coronavirus-venezuela.html
-
+perma.cc/WAH3-NH5E
 [2]
-https://www.amnesty.org/download/Documents/AMR0129912020ENGLISH.PDF
+perma.cc/P5MK-WUWP
 [3]
-https://www.laprensalara.com.ve/nota/16560/2020/05/negligencia-acaba-con-la-vida-de-menor-de-un-ao
+perma.cc/B74Q-X29U
 [4]
-https://www.hrw.org/news/2020/10/13/venezuela-abusive-treatment-returnees
+perma.cc/K86G-48B7
 
 
 
@@ -694,9 +695,10 @@ https://www.hrw.org/news/2020/10/13/venezuela-abusive-treatment-returnees
 
 *Sources*:
  [1]
-https://app.box.com/s/a437wqh3l52mksb8ks9xd8bskv1oeze9
+perma.cc/TFT2-HXG6
 [2]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/2SRM-Z32K
+
 
 
 
@@ -817,26 +819,25 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
 *Sources*:
  [1]
-https://www.dw.com/es/venezuela-ong-denuncia-detenciones-por-informar-sobre-el-coronavirus/a-53366370
+perma.cc/UQ4A-WK9P
 [2]
-https://www.americasquarterly.org/article/how-maduro-is-using-covid-19-to-silence-his-opponents-even-further/
+perma.cc/FBK8-CZ3D
 [3]
-https://www.hrw.org/news/2020/08/28/venezuela-police-state-lashes-out-amid-covid-19
-
+perma.cc/3RB8-NCKG
 [4]
-https://rsf.org/en/venezuela
+perma.cc/76YF-QS94
+[5]
+perma.cc/M4CJ-G3CF
 [6]
-https://www.ohchr.org/Documents/Countries/VE/A_HRC_44_20_AdvanceUneditedVersion.pdf
+perma.cc/2LFG-9AHQ
 [7]
-https://ipi.media/covid19/?alert_type=0&years=0&country=venezuela
+perma.cc/M856-WKH8
 [8]
-https://monitor.civicus.org/updates/2021/02/05/escalation-attacks-against-independent-media-and-civil-society-organisations-venezuela/
+perma.cc/M25G-AMNK
 [9]
-https://www.hrw.org/news/2021/01/14/venezuela-attacks-against-freedom-expression-must-cease-immediately
+perma.cc/4EL8-NRT2
 [10]
-http://espaciopublico.ong/intimidan-al-reportero-orlando-montlouis-durante-cobertura-de-vacunacion/
-[11]
-http://espaciopublico.ong/espacio-publico-registro-390-casos-y-965-violaciones-a-la-libertad-de-expresion-en-2020/
+perma.cc/6RBV-SULK
 
 
 
@@ -879,26 +880,25 @@ http://espaciopublico.ong/espacio-publico-registro-390-casos-y-965-violaciones-a
 
 *Sources*:
  [1]
-https://www.dw.com/es/venezuela-ong-denuncia-detenciones-por-informar-sobre-el-coronavirus/a-53366370
+perma.cc/UQ4A-WK9P
 [2]
-https://www.americasquarterly.org/article/how-maduro-is-using-covid-19-to-silence-his-opponents-even-further/
+perma.cc/FBK8-CZ3D
 [3]
-https://www.hrw.org/news/2020/08/28/venezuela-police-state-lashes-out-amid-covid-19
-
+perma.cc/3RB8-NCKG
 [4]
-https://rsf.org/en/venezuela
+perma.cc/76YF-QS94
+[5]
+perma.cc/M4CJ-G3CF
 [6]
-https://www.ohchr.org/Documents/Countries/VE/A_HRC_44_20_AdvanceUneditedVersion.pdf
+perma.cc/2LFG-9AHQ
 [7]
-https://ipi.media/covid19/?alert_type=0&years=0&country=venezuela
+perma.cc/M856-WKH8
 [8]
-https://monitor.civicus.org/updates/2021/02/05/escalation-attacks-against-independent-media-and-civil-society-organisations-venezuela/
+perma.cc/M25G-AMNK
 [9]
-https://www.hrw.org/news/2021/01/14/venezuela-attacks-against-freedom-expression-must-cease-immediately
+perma.cc/4EL8-NRT2
 [10]
-http://espaciopublico.ong/intimidan-al-reportero-orlando-montlouis-durante-cobertura-de-vacunacion/
-[11]
-http://espaciopublico.ong/espacio-publico-registro-390-casos-y-965-violaciones-a-la-libertad-de-expresion-en-2020/
+perma.cc/6RBV-SULK
 
 
 
@@ -941,16 +941,15 @@ http://espaciopublico.ong/espacio-publico-registro-390-casos-y-965-violaciones-a
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/08/28/venezuela-police-state-lashes-out-amid-covid-19
-
+perma.cc/E27P-A7JJ
 [2]
-https://www.americasquarterly.org/article/how-maduro-is-using-covid-19-to-silence-his-opponents-even-further/
+perma.cc/P4W3-8F29
 [3]
-https://www.hrw.org/news/2021/01/14/venezuela-attacks-against-freedom-expression-must-cease-immediately
+perma.cc/QR7R-HWC4
 [4]
-https://ipi.media/alerts/venezuelan-reporter-detained-for-4-hours-by-police-threatened-with-arrest/
+perma.cc/4L3W-LN4S
 [5]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/venezuela/
+perma.cc/S7N4-9C6T
 
 
 
@@ -994,26 +993,23 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/ven
 
 *Sources*:
  [1]
-https://www.theguardian.com/global-development/2020/aug/25/venezuela-coronavirus-covid-death-toll-maracaibo
+perma.cc/9LRH-KYH3
 [2]
-https://www.reuters.com/article/us-health-coronavirus-venezuela-idUSKCN25E05U
-
+perma.cc/8FY3-ZBBV
 [3]
-https://www.dw.com/es/venezuela-ong-denuncia-detenciones-por-informar-sobre-el-coronavirus/a-53366370
+perma.cc/EN39-E5WQ
 [4]
-https://www.hrw.org/es/news/2020/05/26/venezuela-necesita-ayuda-humanitaria-urgente-para-combatir-la-covid-19
+perma.cc/HB8N-7AHZ
 [5]
-https://www.dw.com/es/la-pandemia-en-venezuela-manipulaci%C3%B3n-de-la-informaci%C3%B3n-cementerios-llenos-y-a%C3%BAn-sin-plan-de-vacunaci%C3%B3n/a-57258234
-
+perma.cc/AX7D-G8V3
 [6]
-https://www.amnesty.org/en/latest/news/2020/08/venezuelan-authorities-are-repressing-and-failing-to-protect-health-workers-as-covid-19-gathers-force/
-
+perma.cc/TEQ4-U35A
 [7]
-https://ipi.media/covid19/?alert_type=0&years=0&country=venezuela
+perma.cc/FB8X-B4L6
 [8]
-https://eldiario.com/2021/06/05/en-venezuela-los-datos-de-covid-19-son-un-secreto-de-estado/
+perma.cc/EH2L-UPJV
 [9]
-http://espaciopublico.ong/acceso-a-la-informacion-publica-en-linea-en-tiempos-de-covid-19/
+perma.cc/4HM3-G27X
 
 
 
@@ -1056,23 +1052,23 @@ http://espaciopublico.ong/acceso-a-la-informacion-publica-en-linea-en-tiempos-de
 
 *Sources*:
  [1]
-https://www.reuters.com/article/us-health-coronavirus-venezuela-insight/as-coronavirus-hits-venezuela-maduro-further-quashes-dissent-idUSKBN21C1TA
+perma.cc/9B6A-5G3P
 [2]
-https://www.hrw.org/news/2020/05/26/venezuela-urgent-aid-needed-combat-covid-19
+perma.cc/K82V-J8TW
 [3]
-https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
+perma.cc/7ANN-L62P
 [4]
-https://www.hrw.org/news/2020/08/28/venezuela-police-state-lashes-out-amid-covid-19
+perma.cc/FM5F-QKD9
 [5]
-http://espaciopublico.ong/situacion-general-del-derecho-a-la-libertad-de-expresion-informe-enero-agosto-2020/
+perma.cc/WKC8-XX3P
 [6]
-https://ipi.media/covid19/?alert_type=0&years=0&country=venezuela
+perma.cc/SZ4E-8D5U
 [7]
-https://www.hrw.org/news/2021/01/14/venezuela-attacks-against-freedom-expression-must-cease-immediately
+perma.cc/X642-3CPQ
 [8]
-https://ipi.media/covid19/?alert_type=0&language=0&years=0&country=venezuela
+perma.cc/2BVK-X9G6
 [9]
-http://espaciopublico.ong/espacio-publico-registro-390-casos-y-965-violaciones-a-la-libertad-de-expresion-en-2020/
+perma.cc/64K9-UM9C
 
 
 
@@ -1115,25 +1111,23 @@ http://espaciopublico.ong/espacio-publico-registro-390-casos-y-965-violaciones-a
 
 *Sources*:
  [1]
-https://www.reuters.com/article/us-health-coronavirus-venezuela-insight/as-coronavirus-hits-venezuela-maduro-further-quashes-dissent-idUSKBN21C1TA
-
+perma.cc/Z5B3-2QGG
 [2]
-https://www.hrw.org/news/2020/05/26/venezuela-urgent-aid-needed-combat-covid-19
+perma.cc/V45U-7VUY
 [3]
-https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
+perma.cc/D88Q-BP8M
 [4]
-https://www.hrw.org/news/2020/08/28/venezuela-police-state-lashes-out-amid-covid-19
+perma.cc/Z52V-4M8J
 [5]
-http://espaciopublico.ong/situacion-general-del-derecho-a-la-libertad-de-expresion-informe-enero-agosto-2020/
+perma.cc/W88F-7CJT
 [6]
-https://ipi.media/covid19/?alert_type=0&years=0&country=venezuela
+perma.cc/HDB4-ACDS
 [7]
-https://www.hrw.org/news/2021/01/14/venezuela-attacks-against-freedom-expression-must-cease-immediately
+perma.cc/227M-BVJK
 [8]
-http://espaciopublico.ong/espacio-publico-registro-390-casos-y-965-violaciones-a-la-libertad-de-expresion-en-2020/
-
+perma.cc/94V6-94D8
 [9]
-https://monitor.civicus.org/updates/2020/10/26/united-nations-report-venezuela-documents-evidence-crimes-against-humanity/
+perma.cc/8297-DE46
 
 
 
@@ -1178,25 +1172,25 @@ https://monitor.civicus.org/updates/2020/10/26/united-nations-report-venezuela-d
 
 *Sources*:
  [1]
-https://covid19.patria.org.ve/
+perma.cc/JT3Z-HAMP
 [2]
-https://www.theguardian.com/global-development/2020/aug/25/venezuela-coronavirus-covid-death-toll-maracaibo
+perma.cc/ZPP9-6SPF
 [3]
-https://www.reuters.com/article/us-health-coronavirus-venezuela-idUSKCN25E05U
+perma.cc/WCJ3-HRTF
 [4]
-https://www.elcomercio.com/actualidad/maduro-armas-biologicas-retorno-migrantes.html
+perma.cc/8UQF-7URD
 [5]
-https://www.efe.com/efe/america/politica/bolsonaro-y-maduro-dos-lideres-enfrentados-unidos-por-la-cloroquina/20000035-4253123
+perma.cc/X9F7-KT8G
 [6]
-http://www.minci.gob.ve/conozca-la-bateria-de-tratamientos-que-impulsa-la-comision-presidencial-para-combatir-el-covid-19/
-[6]
-https://www.infobae.com/salud/2020/10/26/que-opinan-los-expertos-sobre-el-nuevo-hallazgo-venezolano-contra-el-covid-19/
+https://web.archive.org/web/20200817234338/http://www.minci.gob.ve/conozca-la-bateria-de-tratamientos-que-impulsa-la-comision-presidencial-para-combatir-el-covid-19/
 [7]
-https://www.rtve.es/noticias/20201026/maduro-dice-venezuela-conseguido-medicina-anula-coronavirus/2048830.shtml
+perma.cc/KRJ2-HB55
 [8]
-https://elpais.com/internacional/2021-03-27/facebook-bloquea-a-maduro-por-difundir-informacion-falsa-sobre-la-covid-19.html
+perma.cc/5JSH-MHE5
 [9]
-https://www.dw.com/es/la-pandemia-en-venezuela-manipulaci%C3%B3n-de-la-informaci%C3%B3n-cementerios-llenos-y-a%C3%BAn-sin-plan-de-vacunaci%C3%B3n/a-57258234
+perma.cc/8V8U-FTRV
+[10]
+perma.cc/RHW2-DBYW
 
 
 
@@ -1241,23 +1235,23 @@ https://www.dw.com/es/la-pandemia-en-venezuela-manipulaci%C3%B3n-de-la-informaci
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/08/28/venezuela-police-state-lashes-out-amid-covid-19
+perma.cc/C34S-BJKT
 [2]
-https://elpais.com/internacional/2020-04-29/castigos-de-cuartel-por-violar-la-cuarentena-en-venezuela.html
+perma.cc/B7S2-Y9ZD
 [3]
-https://www.bbc.com/mundo/noticias-america-latina-52450803
+perma.cc/D8C5-SB2Y
 [4]
-https://www.ohchr.org/Documents/Countries/VE/A_HRC_44_20_AdvanceUneditedVersion.pdf
+perma.cc/47RK-Z9CL
 [5]
-https://www.nytimes.com/es/2020/08/19/espanol/america-latina/venezuela-represion-coronavirus.html
+perma.cc/5UTU-JJP3
 [6]
-https://www.derechos.org.ve/actualidad/se-multiplican-abusos-y-detenciones-en-tiempos-de-cuarentena-covid-191
+perma.cc/T8H8-XBS9
 [7]
-https://www.opendemocracy.net/es/racismo-violencia-estatal-venezuela-hoy/
+perma.cc/H5Q8-RPQN
 [8]
-https://www.amnesty.org/download/Documents/ACT3034432020SPANISH.pdf
+perma.cc/JBM2-4KJX
 [9]
-https://www.swissinfo.ch/spa/la-polic%C3%ADa--a-la-caza-de-infractores-de-medidas-contra-el-covid-en-barriada-de-venezuela/46466868
+perma.cc/248K-RKH2
 
 
 
@@ -1300,12 +1294,13 @@ https://www.swissinfo.ch/spa/la-polic%C3%ADa--a-la-caza-de-infractores-de-medida
 
 *Sources*:
  [1]
-https://ceofanb.mil.ve/fanb-supervisa-despliegue-de-seguridad-ante-las-medidas-preventivas-para-evitar-propagacion-del-covid-19/
+https://perma.cc/769S-ENBL
 [2]
-http://www.mindefensa.gob.ve/mindefensa/2020/03/16/gj-padrino-lopez-el-pueblo-organizado-juega-un-papel-trascendental-en-este-combate-por-la-vida/
+https://perma.cc/U2ML-5AH8
 [3]
-https://www.infodefensa.com/latam/2020/03/25/noticia-paises-latinoamerica-despliegan-combatir-covid19.html
+perma.cc/QF9W-7PC8
 [4]
-https://www.hrw.org/news/2020/10/13/venezuela-abusive-treatment-returnees
+perma.cc/YA9R-V54X
 [5]
-https://www.europapress.es/internacional/noticia-venezuela-saca-ejercito-calles-imponer-nuevas-restricciones-coronavirus-20200622201752.html
+perma.cc/K84K-TN8A
+

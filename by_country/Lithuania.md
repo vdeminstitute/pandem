@@ -47,20 +47,16 @@ Q3 2020: The authorities declared “extreme situation” from 26 February 2020 
 Q4 2020, Q1 2021, Q2 2021: The second quarantine was declared from 7 November 2020 (Resolution No. 1226) and is in place at the time of coding. 
 
 *Sources*:
- https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/deaf8694663011eaa02cacf2a861120c/asr
-https://koronastop.lrv.lt/uploads/documents/files/Nutarimo%20152%20suvest_redakcija_EN2020-09-03.pdf
-
-https://koronastop.lrv.lt/lt/naujienos/atsaukus-karantina-isliks-gydymo-istaigoms-taip-pat-renginiams-taikyti-apribojimai
-
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/900df810abe011ea8aadde924aa85003
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8feb1a7658a111eaac56f6e40072e018
-https://fra.europa.eu/sites/default/files/fra_uploads/lt_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.e-tar.lt/portal/lt/legalAct/9e348ed0abe011eab9d9cd0c85e0b745
-http://urm.lt/ru/en/news/covid-19-related-restrictions-and-cross-border-movements
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/a2b5da801f4a11eb9604df942ee8e443?jfwid=2r1mjutk
-https://verfassungsblog.de/lithuanias-two-covid-19-quarantines/
-
-
+ [1]	perma.cc/TVX3-3W45
+[2]	perma.cc/8XAR-JX9H
+[3]	perma.cc/LJ65-7WVQ
+[4]	perma.cc/LGD5-9XBZ
+[5]	perma.cc/PQ44-HMU6
+[6]	perma.cc/7PWG-V5FA
+[7]	perma.cc/Z7CU-X47S
+[8]	perma.cc/NV97-GLP8
+[9]	perma.cc/2H8Y-VC24
+[10]	perma.cc/5C2M-P2LK
 
 
 
@@ -101,10 +97,9 @@ https://verfassungsblog.de/lithuanias-two-covid-19-quarantines/
 Q3 2020: the legal instrument is "Lietuvos Respublikos civilinės saugos įstatymo 9 straipsnio 11 punktu ir 26 straipsnio 1 dalies 2 punktu" , which can be translated as Law on Civil Protection (point 11 of Article 9 and point 2 of Paragraph 1 of Article 26). Article 9, point 11 of the Law on Civil Protection of the Republic of Lithuania says that "the government shall establish the procedure for declaring and lifting emergencies of both levels, declare and lift a national level emergency" and Article 26 is on emergencies on the national level: "national level –the emergencies where the response shall be provided by the forces of the civil protection system located within several municipalities through the use of the material resources held at the disposal of the municipalities or the State, where the emergency effects reach beyond the territory of three municipalities." (1) 
 
 *Sources*:
- https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8feb1a7658a111eaac56f6e40072e018?positionInSearchResults=31&searchModelUUID=e5efa5d2-b709-413d-b7ad-feece99aa238
-https://www.ifrc.org/docs/IDRL/Laws/Law%20on%20Civil%20Protection_Lithuania.pdf
-(1)
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.380196?jfwid=q8i88mir8
+ [1]	perma.cc/YB2G-M94D
+[2]	perma.cc/UHB3-A9LP
+[3]	perma.cc/R8A2-YLBM
 
 
 
@@ -145,19 +140,14 @@ Q3 2020:  The authorities declared “extreme situation” from 26 February 2020
 Q4 2020, Q1 2021, Q2 2021: The second quarantine was declared from 7 November 2020 and is in place at least until 30 June 2021. 
 
 *Sources*:
- https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/deaf8694663011eaa02cacf2a861120c/asr
-https://koronastop.lrv.lt/uploads/documents/files/Nutarimo%20152%20suvest_redakcija_EN2020-09-03.pdf
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/a2b5da801f4a11eb9604df942ee8e443?jfwid=2r1mjutk
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8352ecd6bf7911eb91e294a1358e77e9?jfwid=2r1mjutk
-
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8352ecd6bf7911eb91e294a1358e77e9?jfwid=2r1mjutk
-
-https://www.ifrc.org/docs/IDRL/Laws/Law%20on%20Civil%20Protection_Lithuania.pdf
-
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.380196?jfwid=q8i88mir8
-https://www.e-tar.lt/portal/legalAct.html?documentId=8f4b76e0789111eab005936df725feed
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.69957/WfhSLKZiad
-
+ [1]	perma.cc/KK5V-5KNC
+[2]	perma.cc/L2HP-5KY2
+[3]	perma.cc/V8LS-6NA9
+[4]	perma.cc/LK7T-XPNW
+[5]	perma.cc/UJ9A-U6VV
+[6]	perma.cc/FXG6-K2E8
+[7]	perma.cc/QX8F-7847
+[8]	perma.cc/L6BQ-QQ9R
 
 
 
@@ -196,10 +186,13 @@ https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.69957/WfhSLKZiad
  The first quarantine ended on 17 June 2020. “Extreme situation” and the second quarantine are in place at the time of coding. 
 
 *Sources*:
- https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/deaf8694663011eaa02cacf2a861120c/asr
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8352ecd6bf7911eb91e294a1358e77e9?jfwid=2r1mjutk
+ [1]
+perma.cc/TVX3-3W45
 
-https://koronastop.lrv.lt/en/news/government-revokes-quarantine-in-lithuania
+[2]
+perma.cc/7GRU-5TBZ
+[3]
+perma.cc/DER7-AW38
 
 
 
@@ -241,11 +234,10 @@ https://koronastop.lrv.lt/en/news/government-revokes-quarantine-in-lithuania
  “Extreme situation” did not have a declared time limit. Both quarantines and their extensions had a time limit. 
 
 *Sources*:
- http://urm.lt/ru/en/news/covid-19-related-restrictions-and-cross-border-movements
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/deaf8694663011eaa02cacf2a861120c/asr
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/a2b5da801f4a11eb9604df942ee8e443?jfwid=2r1mjutk
-https://koronastop.lrv.lt/lt/naujienos/nuo-sestadienio-karantinas-visoje-salyje
-
+ [1]	perma.cc/9NTV-JMJP
+[2]	perma.cc/BP3Q-BFYY
+[3]	perma.cc/ZM8X-SM3U
+[4]	perma.cc/6K5A-AM62
 
 
 
@@ -289,10 +281,10 @@ Q2 2021: The latest extension of the quarantine in this period was until 30 June
  
 
 *Sources*:
- https://verfassungsblog.de/lithuanias-two-covid-19-quarantines/
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/340a37a18e1e11eb998483d0ae31615c?jfwid=2r1mjutk
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8352ecd6bf7911eb91e294a1358e77e9?jfwid=2r1mjutk
-https://eimin.lrv.lt/lt/naujienos/apribojimai-verslui-sugrieztinto-karantino-laikotarpiu
+ [1]	perma.cc/6A44-6TL6
+[2]	perma.cc/87N2-PF47
+[3]	perma.cc/DLY4-4BEG
+[4]	perma.cc/Q3WV-C9BN
 
 
 
@@ -336,10 +328,8 @@ Q3 2020: According to Article 9, point 11 of the Law on Civil Protection of the 
  
 
 *Sources*:
- https://e-seimas.lrs.lt/portal/legalActPrint/lt?jfwid=-g0zrzend5&documentId=TAIS.373789&category=TAD
-(1)
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.69957/WfhSLKZiad
-(2)
+ [1]	perma.cc/D29F-A399
+[2]	perma.cc/8WWM-H9NQ
 
 
 
@@ -381,8 +371,8 @@ https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.69957/WfhSLKZiad
  Not legally required for all time periods. 
 
 *Sources*:
- https://e-seimas.lrs.lt/portal/legalActPrint/lt?jfwid=-g0zrzend5&documentId=TAIS.373789&category=TAD
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.69957/WfhSLKZiad
+ [1]	perma.cc/D29F-A399
+[2]	perma.cc/8WWM-H9NQ
 
 
 
@@ -428,13 +418,11 @@ https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.69957/WfhSLKZiad
  There are some limitations to the Parliament (Seimas), as pointed out: "besides the Government, the emergency powers are also exercised by the Chief Officer, who decides upon quarantine measures." (1) Also, the Parliament gave more power to the executive at the beginning of the Covid-19 pandemic. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#L
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B368%5D&covid19=1
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+ [1]	perma.cc/J3YU-4RHK
+[2]	perma.cc/F35Q-GT99
+[3]	https://perma.cc/J7UH-BULT
 
-https://verfassungsblog.de/lithuanias-response-to-covid-19-quarantine-through-the-prism-of-human-rights-and-the-rule-of-law/
-(1)
+[4]	https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
 
 
 
@@ -556,10 +544,10 @@ https://verfassungsblog.de/lithuanias-response-to-covid-19-quarantine-through-th
  Uniform measures throughout the country in March-June, July-September 2020. Stricter measures in some areas in October-December 2020 (some areas were under local quarantine in October prior to national quarantine). In January-March, April-June 2021 some limitations remain in place regarding some municipalities. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/468031/lithuania-authorities-temporarily-tighten-certain-covid-19-restrictions-march-27-april-6-due-to-concerns-over-easter-holiday-spike-in-disease-activity-update-25
-https://www.garda.com/crisis24/news-alerts/449331/lithuania-authorities-maintaining-covid-19-restrictions-as-of-march-1-update-22
-https://koronastop.lrv.lt/en/#information
-https://koronastop.lrv.lt/en/news/local-quarantines-are-declared-in-individual-municipalities
+ [1]	perma.cc/S53F-MWEF
+[2]	perma.cc/VR63-PQNQ
+[3]	perma.cc/MTP5-GCQ9
+[4]	perma.cc/VPW7-BTFS
 
 
 
@@ -603,10 +591,14 @@ https://koronastop.lrv.lt/en/news/local-quarantines-are-declared-in-individual-m
  No de-jure disciminating provisions and no information on de-facto discrimination found 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/lithuania-report-covid-19-april-2020_en.pdf
-http://hrmi.lt/
-https://www.amnesty.org/en/countries/europe-and-central-asia/lithuania/
-https://www.hrw.org/europe/central-asia/lithuania
+ [1]
+perma.cc/HQ7T-B7HL
+[2]
+perma.cc/LKP7-FSGZ
+[3]
+perma.cc/9Z85-VPMU
+[4]
+perma.cc/PR2C-BBGS
 
 
 
@@ -655,7 +647,10 @@ https://www.hrw.org/europe/central-asia/lithuania
  No measures violating non-derogable rights found 
 
 *Sources*:
- https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8feb1a7658a111eaac56f6e40072e018?positionInSearchResults=31&searchModelUUID=e5efa5d2-b709-413d-b7ad-feece99aa238
+ [1]
+perma.cc/F3TN-U9AX
+[2]
+https://web.archive.org/web/20200428021611/http://koronastop.lrv.lt/en/quarantine-announced-throughout-the-territory-of-the-republic-of-lithuania-attached-resolution-1
 
 
 
@@ -699,9 +694,9 @@ https://www.hrw.org/europe/central-asia/lithuania
  No evidence of measures limiting media freedom found. 
 
 *Sources*:
- https://lrv.lt/en/news/quarantine-announced-throughout-the-territory-of-the-republic-of-lithuania-attached-resolution-1
-https://ipi.media/lithuania/
-https://rsf.org/en/lithuania
+ [1]	perma.cc/7VBL-JXEW
+[2]	perma.cc/JTR8-A7KC
+[3]	perma.cc/PD5C-JU2Q
 
 
 
@@ -821,9 +816,9 @@ https://rsf.org/en/lithuania
  Official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. 
 
 *Sources*:
- https://ipi.media/lithuania/
-https://rsf.org/en/lithuania
-https://koronastop.lrv.lt/en/
+ [1]	perma.cc/N3XT-RT8B
+[2]	perma.cc/SE7C-CH79
+[3]	perma.cc/E7WD-6BV3
 
 
 
@@ -865,9 +860,9 @@ https://koronastop.lrv.lt/en/
  No information on limitations of media reporting on the government's response 
 
 *Sources*:
- https://ipi.media/lithuania/
-https://rsf.org/en/lithuania
-https://cpj.org/europe/lithuania/
+ [1]	perma.cc/2KMZ-Z836
+[2]	perma.cc/ZE64-FG76
+[3]	perma.cc/62P9-NHJX
 
 
 
@@ -909,9 +904,9 @@ https://cpj.org/europe/lithuania/
  No information found on instances of limitations on media reporting on non-Covid-19 related news but with reference to the pandemic. 
 
 *Sources*:
- https://ipi.media/lithuania/
-https://rsf.org/en/lithuania
-https://cpj.org/europe/lithuania/
+ [1]	perma.cc/2KMZ-Z836
+[2]	perma.cc/ZE64-FG76
+[3]	perma.cc/62P9-NHJX
 
 
 
@@ -954,9 +949,9 @@ https://cpj.org/europe/lithuania/
  No reports on limiting media access to Covid-19 information found 
 
 *Sources*:
- https://ipi.media/lithuania/
-https://rsf.org/en/lithuania
-https://cpj.org/europe/lithuania/
+ [1]	perma.cc/P49D-YPM3
+[2]	perma.cc/49JA-T7ST
+[3]	perma.cc/WWJ3-NTEY
 
 
 
@@ -998,9 +993,9 @@ https://cpj.org/europe/lithuania/
  No evidence found 
 
 *Sources*:
- https://ipi.media/lithuania/
-https://rsf.org/en/lithuania
-https://cpj.org/europe/lithuania/
+ [1]	perma.cc/2KMZ-Z836
+[2]	perma.cc/ZE64-FG76
+[3]	perma.cc/62P9-NHJX
 
 
 
@@ -1042,12 +1037,11 @@ https://cpj.org/europe/lithuania/
  No evidence found 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/lithuania/
-https://ipi.media/lithuania/
-https://rsf.org/en/lithuania
-https://www.amnesty.org/en/countries/europe-and-central-asia/lithuania/
-https://www.hrw.org/europe/central-asia/lithuania
-https://cpj.org/europe/lithuania/
+ [1]	perma.cc/A4UD-686Z
+[2]	perma.cc/4MFW-U8T2
+[3]	perma.cc/HJN7-97PR
+[4]	perma.cc/JHP5-P3UZ
+[5]	perma.cc/BY2M-5SSH
 
 
 
@@ -1091,11 +1085,11 @@ https://cpj.org/europe/lithuania/
  Official website with information on Covid-19; no reports on disinformation found. The authorities have also been tracking disinformation in the media. 
 
 *Sources*:
- https://sam.lrv.lt/en/news
-https://ipi.media/lithuania/
-https://rsf.org/en/lithuania
-https://koronastop.lrv.lt/en/
-https://kariuomene.kam.lt/lt/naujienos_1887/covid-19_situacijai_normalizuojantis_dezinformacijos_nemazeja.html?pbck=30
+ [1]	perma.cc/J69V-FG9V
+[2]	perma.cc/GHL6-RASH
+[3]	perma.cc/54SM-AVL9
+[4]	perma.cc/9RFZ-TNZK
+[5]	perma.cc/PK3W-G239
 
 
 
@@ -1139,8 +1133,8 @@ https://kariuomene.kam.lt/lt/naujienos_1887/covid-19_situacijai_normalizuojantis
  No instances of police violence found. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/lithuania/
-https://www.hrw.org/europe/central-asia/lithuania
+ [1]	perma.cc/LQ6X-HFGZ
+[2]	perma.cc/AG39-PQ6D
 
 
 
@@ -1182,6 +1176,7 @@ https://www.hrw.org/europe/central-asia/lithuania
  The military was involved in monitoring and enforcement of the first quarantine and during other periods in 2020. 
 
 *Sources*:
- https://kariuomene.lt/en/newsevents/the-lithuanian-armed-forces-steps-up-assistance-in-the-efforts-to-control-covid-19-situation/23675
-https://kariuomene.kam.lt/en/military_insignia/news_1889/the_lithuanian_armed_forces_steps_up_assistance_in_the_efforts_to_control_covid-19_situation.html?__cf_chl_jschl_tk__=3dfb5339fb200483bed917177a2fa6051084980b-1622200519-0-AZ9q1qyvdwcfEvHoAKkgt074CEfjHn5m9RqbEXAcGk7hdYZo0uj1zPudrSJB_x2SB3WuieLbIpq4WQa9EX1fcz3NV8eDOXAXXD4CtT9Hh_WRWnrNk7LJXZ511LiaDhVCMdPD2ngQCkNq4UZ2QsFAhNcAMKn_PdVA7pCQdt_hfJhndE8c5x_1bpNiUWjH_Z7iL0vO3AWw7XGBzcK5VVBgzYhR-ey6eAiR_7lg060GPNuyS910h-N2Pgx7syA6g0zpYdq1KB3pHkcsSms39PrWI_cIZ8AVQyYFj17VVwRQrZD_H9jNcborU-RwpvABzz5A8xgB1lHerYFhy6N-fWIOBik9fpNOUj09uedZ0qDTyRYodt2d9DZBiw5Gd7jW6YXYn7tiS_pIIrgYB5t_0jnDOqTE-AoLBSfltAfpNssgvRM3FhMtoktm7nfvlh2yXOhVdtg10rUqcOJuO2dQ1_RzfMWW6ErV9U7VVsvSXD8FmtjtpmcFgHf28CiPmPrnLC00xncpVcxgAjbFJF78LiYCce_ZU4jdeA8MWo5eFNm79ztM7292PWU68EELLQGOhKop74fBdhLcorcosucZ2OBAwlt5Duk1UYr36BgoaBbEECjO9CvRQYZreM1NdNQpw-G1lg
-https://kam.lt/en/news_1098/current_issues/frequently_asked_questions_about_the_lithuanian_armed_forces_and_covid19.html
+ [1]	perma.cc/8LC7-GWT4
+[2]	perma.cc/9DQN-AUZX
+[3]	perma.cc/89JQ-6XDH
+[4]	perma.cc/ZL9Z-AKVL

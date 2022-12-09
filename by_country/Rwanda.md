@@ -54,52 +54,41 @@ In January 2021 the authorities implemented a nationwide night curfew and reinst
 The nationwide night curfew is still in place by June 2021, after being consecutively extended (see 12-16). 
 
 *Sources*:
- https://ancl-radc.org.za/node/630
+ https://perma.cc/MR5U-MWAS
 (1)
-
-https://twitter.com/PrimatureRwanda/status/1241412264193937412?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1241412264193937412&ref_url=
-
-https%3A%2F%2Fafrica.cgtn.com%2F2020%2F03%2F21%2Frwanda-orders-total-lockdown-in-bid-to-curb-covid-19-spread%2F
+https://perma.cc/TDZ8-7QKM
 (2)
-
-https://www.rbc.gov.rw/fileadmin/user_upload/annoucement/GoR-MOH%20statement%20final.pdf
+https://perma.cc/5RQR-UQZ7
 (3)
-
-https://www.theigc.org/blog/rwandas-response-to-covid-19-and-future-challenges/
+https://perma.cc/2E43-EZBZ
 (4)
-
-https://twitter.com/PrimatureRwanda/status/1255998445418090499
+https://web.archive.org/web/20200509090054/https://twitter.com/PrimatureRwanda/status/1255998445418090499
 (5)
-
-https://www.garda.com/crisis24/news-alerts/328491/rwanda-nationwide-lockdown-extended-for-15-days-april-1-update-4
+https://perma.cc/P4V7-MJ5X
 (6)
-
-https://www.garda.com/crisis24/news-alerts/338256/rwanda-new-covid-19-prevention-measures-come-into-effect-may-4-update-6
+https://perma.cc/2L5Y-GEH3
 (7)
-
-https://www.garda.com/crisis24/news-alerts/394011/rwanda-covid-19-restrictions-extended-until-november-11-update-17
+https://perma.cc/2873-4JTV
 (8)
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_18_January_2021.pdf
+https://perma.cc/GXV8-RKJY
 (9)
-
-https://www.garda.com/crisis24/news-alerts/425211/rwanda-health-officials-revise-and-extend-coronavirus-disease-related-nationwide-curfew-through-at-least-mid-january-update-14
+https://perma.cc/CY8X-P7L6
 (10)
 
-https://www.aa.com.tr/en/africa/rwanda-eases-covid-19-lockdown-in-capital/2137274
+https://perma.cc/UH5C-LR42
 (11)
-
-https://www.garda.com/crisis24/news-alerts/438081/rwanda-health-officials-to-impose-amended-nationwide-covid-19-related-restrictions-from-feb-8-update-16
+https://perma.cc/YM5Y-TAJW
 (12)
-https://www.garda.com/crisis24/news-alerts/446311/rwanda-health-officials-revise-and-extend-covid-19-related-restrictions-until-at-least-march-15-update-17
+https://perma.cc/N5XB-D6LM
+
 (13)
+https://perma.cc/9QSG-2J9H
 
-https://www.garda.com/crisis24/news-alerts/461506/rwanda-authorities-revise-and-extend-covid-19-related-restrictions-through-at-least-april-15-update-19
 (14)
-
-https://www.garda.com/crisis24/news-alerts/467306/rwanda-authorities-revise-and-extend-covid-19-related-restrictions-through-at-least-april-29-update-20
+https://perma.cc/R6X2-3RAK
 (15)
-https://rw.usembassy.gov/health-alert-covid-19-information/
+https://perma.cc/L6AL-4A88
+
 (16)
 
 
@@ -432,39 +421,31 @@ All of these decrees have originated from the executive, without direct vote fro
 The legislature continues to meet, but less regularly and with social distancing measures. The renewed lockdown in 2021 indeed affected the parliamentary meetings, which were held online, and the first time the Parliament convened since the partial lift of the lockdown was on an extraordinary session on 13 May 2021 ‘’to allow to vote on and allow the Government to take loans meant to hasten the distribution of electricity’’. 
 
 *Sources*:
- https://twitter.com/PrimatureRwanda/status/1241412264193937412
+ https://web.archive.org/web/20200321172642/https://twitter.com/PrimatureRwanda/status/1241412264193937412
 (1)
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Cabinet_Communique_-01-04-2020_.pdf
+https://perma.cc/KXR4-EKUS
 (2)
-
-https://www.gov.rw/cabinet-resolutions
+https://perma.cc/2JNG-RA4A
 (3)
 
-
-https://ancl-radc.org.za/node/630
+https://perma.cc/MR5U-MWAS
 (4)
-
-https://allafrica.com/stories/202005140238.html
+https://perma.cc/MD3V-RHKZ
 (5)
-
-https://www.newtimes.co.rw/news/extraordinary-parliamentary-session-whats-agenda
+https://perma.cc/9K99-TPG2
 (6)
+https://perma.cc/DJ79-NX47
+(7)
+https://perma.cc/N6X2-J29Z
+(8)
+https://perma.cc/9HAF-TYH8
+(9)
+https://web.archive.org/web/20210821151804/https://twitter.com/rwandaparliamnt?lang=en
+(10)
 
-International
-IDEA
-Parliaments
-in
-the
-pandemic
+https://perma.cc/683U-9UQ4
 
-https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19
-
-https://www.youtube.com/watch?v=Ra3C7HlFGMg
-
-https://twitter.com/rwandaparliamnt?lang=en
-
-https://www.parliament.gov.rw/
+(11)
 
 
 
@@ -591,45 +572,27 @@ In Q1 and Q2 of 2021, most of these measures were also in place, with a few diff
 In January 2021 the authorities reinstated the lockdown in Kigali, which was eased in February 2021. (9 - 13 ). 
 
 *Sources*:
- https://www.theigc.org/blog/rwandas-response-to-covid-19-and-future-challenges/
-(1)
+ perma.cc/2E43-EZBZ
+perma.cc/WQ7U-CS8Y
+perma.cc/U4HA-9RN4
+perma.cc/AQ6L-8SML
+perma.cc/RRH5-7UDR
+perma.cc/CA57-WD76
+[7]
+https://perma.cc/MR35-NWFP
+[8]
+https://perma.cc/826G-BTG2
+[9]
+https://perma.cc/GXV8-RKJY
+[10]
+https://perma.cc/79CR-9SDG
+[11]
+https://perma.cc/T8DS-SCBG
+[12]
+https://perma.cc/B9PZ-DMQ6
 
-https://www.dw.com/en/coronavirus-rwanda-imposes-africas-first-lockdown/a-52878787
-(2)
-
-https://twitter.com/NewTimesRwanda/status/1241421501192077314
-(3)
-
-https://www.osac.gov/Content/Report/52d7596c-8a57-4c3f-9d90-18d785e7393e
-(4)
-
-https://www.garda.com/crisis24/news-alerts/360751/rwanda-lockdowns-extended-in-nyamagabe-and-nyamasheke-until-july-29-update-11
-(5)
-
-https://www.garda.com/crisis24/news-alerts/373201/rwanda-curfew-extended-and-additional-restrictions-introduced-on-august-26-following-surge-in-covid-19-cases-update-14
-(6)
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_12_October_2020.pdf
-(7)
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_27_October_2020.pdf
-(8)
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_18_January_2021.pdf
-(9)
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions__of_02_February_2021.pdf
-(10)
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_15_March_2021.pdf
-(11)
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_14_April_2021.pdf
-(12)
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_05_May_2021.pdf
-
-(13)
+[13]
+https://perma.cc/FY3K-C2X5
 
 
 
@@ -673,15 +636,12 @@ https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Re
  No discrimination based on these rights. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/rwanda/
+ https://perma.cc/9BXP-Z5SK
 
-https://www.poverty-action.org/blog/reach-covid-19-crisis-rwanda-lessons-recovr-survey
-
-https://www.rbc.gov.rw/fileadmin/user_upload/annoucement/GoR-MOH%20statement%20final.pdf
-
-https://www.theigc.org/blog/rwandas-response-to-covid-19-and-future-challenges/
-
-https://www.hrw.org/world-report/2021/country-chapters/rwanda#12ffb1
+https://perma.cc/424V-K8ET
+https://perma.cc/5RQR-UQZ7
+https://perma.cc/2E43-EZBZ
+https://perma.cc/HP7P-HHXX
 
 
 
@@ -730,15 +690,19 @@ https://www.hrw.org/world-report/2021/country-chapters/rwanda#12ffb1
  No violation of non-derogable rights. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/rwanda/
+ perma.cc/N7SY-W6BT
 
-https://www.poverty-action.org/blog/reach-covid-19-crisis-rwanda-lessons-recovr-survey
 
-https://www.rbc.gov.rw/fileadmin/user_upload/annoucement/GoR-MOH%20statement%20final.pdf
+perma.cc/424V-K8ET
 
-https://www.theigc.org/blog/rwandas-response-to-covid-19-and-future-challenges/
 
-https://www.hrw.org/world-report/2021/country-chapters/rwanda#12ffb1
+perma.cc/5RQR-UQZ7
+
+
+perma.cc/728N-MWKE
+
+
+perma.cc/HP7P-HHXX
 
 
 
@@ -782,26 +746,32 @@ https://www.hrw.org/world-report/2021/country-chapters/rwanda#12ffb1
  No de jure media limitations found in the emergency measures. However, the lockdown of 21 March 2020 (1) did not include the media in the essential services that are exempted from the movement restrictions. 
 
 *Sources*:
- https://twitter.com/PrimatureRwanda/status/1241412264193937412/photo/1
+ https://web.archive.org/web/20201014054623/https://twitter.com/PrimatureRwanda/status/1241412264193937412/photo/1
 (1)
+https://perma.cc/W9X8-PS5X
 
-https://twitter.com/NewTimesRwanda/status/1241421501192077314
+(2)
 
-https://www.theigc.org/blog/rwandas-response-to-covid-19-and-future-challenges/
+https://perma.cc/2E43-EZBZ
+(3)
 
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/3SJV-TGU3
+(4)
+https://perma.cc/GXV8-RKJY
+(4)
 
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_18_January_2021.pdf
+https://perma.cc/X7WR-AJ4C
+(5)
+https://perma.cc/T8DS-SCBG
+(6)
 
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions__of_02_February_2021.pdf
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_15_March_2021.pdf
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_14_April_2021.pdf
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_05_May_2021.pdf
+https://perma.cc/B9PZ-DMQ6
+(7)
 
 
+https://perma.cc/FY3K-C2X5
+
+(8)
 
 
 
@@ -923,21 +893,22 @@ https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Re
 Dieudonné Niyonsenga, a journalist who runs Ishema TV, a Rwandan Web TV, was arrested and jailed in a completely opaque manner in 2020 after being accused of “violating lockdown rules.'' (2). 
 
 *Sources*:
- https://rsf.org/en/rwanda
+ https://perma.cc/2KCY-JX83
 (1)
-
-https://ipi.media/alerts/journalist-and-media-worker-arrested-for-violating-curfew-in-rwanda/
+https://perma.cc/7T36-XQXA
 (2)
+https://perma.cc/3SJV-TGU3
+(3)
+https://perma.cc/7ANN-L62P
+(4)
+https://perma.cc/DC7V-U2NV
+(5)
 
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/HP7P-HHXX
+(6)
 
-https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
-
-http://rwandansrights.org/rwanda-the-coronavirus-pandemic-is-not-an-excuse-to-trample-on-freedom-of-press/
-
-https://www.hrw.org/world-report/2021/country-chapters/rwanda#12ffb1
-
-https://www.hrw.org/news/2021/05/03/what-press-freedom-looks-rwanda
+https://perma.cc/45PW-5UYW
+(7)
 
 
 
@@ -989,39 +960,39 @@ In March and April 2020, six bloggers were arrested in Rwanda for violating the 
 Also: ''TV director Hassan had notably finished a sensitive report investigating the impact of Rwanda’s lockdown measures on locals in poor districts. “These journalists were asking questions about why authorities were demolishing homes deemed unstable in working class areas without compensating their occupants,” Laurent Munyandilikirwa, head of Rwanda’s Observatory for human rights told RFI. The government argues the measure was to protect inhabitants from torrential rains, but Munyandilikirwa says their homes were never located in flood-prone areas to begin with. “They (the journalists) crossed the red line by seeking the truth,” believes the rights defender, who has urged the government to release any media professional detained for their Covid-19 coverage.'' (6) 
 
 *Sources*:
- https://twitter.com/PrimatureRwanda/status/1241412264193937412/photo/1
+ https://web.archive.org/web/20201014054623/https://twitter.com/PrimatureRwanda/status/1241412264193937412/photo/1
+
 (1)
-
-https://rsf.org/en/rwanda
+https://perma.cc/2KCY-JX83
 (2)
-
-https://ipi.media/alerts/journalist-and-media-worker-arrested-for-violating-curfew-in-rwanda/
+https://perma.cc/7T36-XQXA
 (3)
-
-http://www.rfi.fr/fr/afrique/20200415-confinement-rwanda-arrestation-plusieurs-blogueurs-et-journalistes
+https://perma.cc/DX4H-65L9
 (4)
-
-https://www.hrw.org/world-report/2021/country-chapters/rwanda#12ffb1
+https://perma.cc/HP7P-HHXX
 (5)
+https://perma.cc/4RZ2-2E7X
 
-http://www.rfi.fr/en/africa/20200430-covid-19-making-media-africa-great-lakes-region-sick-tanzania-rwanda-uganda
 (6)
-
-https://www.hrw.org/news/2021/05/03/what-press-freedom-looks-rwanda
-
+https://perma.cc/45PW-5UYW
+(7)
 https://twitter.com/RIB_Rw/status/1250480771229499392?s=20
+(8)
+https://perma.cc/4VTF-XV9B
+(9)
 
-https://www.hrw.org/fr/news/2020/04/24/rwanda-vague-darrestations-et-dabus-lies-au-confinement
+https://perma.cc/R6ZB-KNQ7
+(10)
 
-https://www.hrw.org/news/2020/04/24/rwanda-lockdown-arrests-abuses-surge
+https://perma.cc/85VR-MYEH
+(11)
+https://perma.cc/7ANN-L62P
+(12)
+https://perma.cc/DC7V-U2NV
+(13)
 
-https://cpj.org/2020/05/rwandan-journalist-media-worker-detained-since-mid/
-
-https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
-
-http://rwandansrights.org/rwanda-the-coronavirus-pandemic-is-not-an-excuse-to-trample-on-freedom-of-press/
-
-https://www.africanews.com/2020/07/16/rwanda-records-first-virus-death-govt-rethinks-easing-restrictions//
+https://perma.cc/BEP4-3DTN
+(14)
 
 
 
@@ -1065,26 +1036,29 @@ https://www.africanews.com/2020/07/16/rwanda-records-first-virus-death-govt-reth
 The lockdown was eased in May 2020, but after a rise in coronavirus cases it is since then being re-imposed in selected areas. 
 
 *Sources*:
- https://twitter.com/PrimatureRwanda/status/1241412264193937412/photo/1
+ https://web.archive.org/web/20201014054623/https://twitter.com/PrimatureRwanda/status/1241412264193937412/photo/1
 (1)
+https://perma.cc/P4V7-MJ5X
+(2)
 
-https://www.garda.com/crisis24/news-alerts/328491/rwanda-nationwide-lockdown-extended-for-15-days-april-1-update-4
+https://perma.cc/2L5Y-GEH3
+(3)
+https://perma.cc/2873-4JTV
+(4)
 
-https://www.garda.com/crisis24/news-alerts/338256/rwanda-new-covid-19-prevention-measures-come-into-effect-may-4-update-6
+https://perma.cc/GXV8-RKJY
+(5)
+https://perma.cc/UH5C-LR42
+(6)
+https://perma.cc/YM5Y-TAJW
+(7)
+https://perma.cc/N5XB-D6LM
+(8)
 
-https://www.garda.com/crisis24/news-alerts/394011/rwanda-covid-19-restrictions-extended-until-november-11-update-17
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_18_January_2021.pdf
-
-https://www.aa.com.tr/en/africa/rwanda-eases-covid-19-lockdown-in-capital/2137274
-
-https://www.garda.com/crisis24/news-alerts/438081/rwanda-health-officials-to-impose-amended-nationwide-covid-19-related-restrictions-from-feb-8-update-16
-
-https://www.garda.com/crisis24/news-alerts/446311/rwanda-health-officials-revise-and-extend-covid-19-related-restrictions-until-at-least-march-15-update-17
-
-https://www.garda.com/crisis24/news-alerts/467306/rwanda-authorities-revise-and-extend-covid-19-related-restrictions-through-at-least-april-29-update-20
-
-https://rw.usembassy.gov/health-alert-covid-19-information/
+https://perma.cc/R6X2-3RAK
+(9)
+https://perma.cc/L6AL-4A88
+(10)
 
 
 
@@ -1129,27 +1103,30 @@ https://rw.usembassy.gov/health-alert-covid-19-information/
 This measure prevented journalists from reporting in the field, and from access to information.The lockdown was eased in May 2020, but after a rise in coronavirus cases it is since then being re-imposed in selected areas. 
 
 *Sources*:
- https://twitter.com/PrimatureRwanda/status/1241412264193937412/photo/1
+ https://web.archive.org/web/20201014054623/https://twitter.com/PrimatureRwanda/status/1241412264193937412/photo/1
+
 (1)
+https://perma.cc/P4V7-MJ5X
+(2)
 
+https://perma.cc/2L5Y-GEH3
+(3)
+https://perma.cc/2873-4JTV
+(4)
 
-https://www.garda.com/crisis24/news-alerts/328491/rwanda-nationwide-lockdown-extended-for-15-days-april-1-update-4
+https://perma.cc/GXV8-RKJY
+(5)
+https://perma.cc/UH5C-LR42
+(6)
+https://perma.cc/YM5Y-TAJW
+(7)
+https://perma.cc/N5XB-D6LM
 
-https://www.garda.com/crisis24/news-alerts/338256/rwanda-new-covid-19-prevention-measures-come-into-effect-may-4-update-6
-
-https://www.garda.com/crisis24/news-alerts/394011/rwanda-covid-19-restrictions-extended-until-november-11-update-17
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_18_January_2021.pdf
-
-https://www.aa.com.tr/en/africa/rwanda-eases-covid-19-lockdown-in-capital/2137274
-
-https://www.garda.com/crisis24/news-alerts/438081/rwanda-health-officials-to-impose-amended-nationwide-covid-19-related-restrictions-from-feb-8-update-16
-
-https://www.garda.com/crisis24/news-alerts/446311/rwanda-health-officials-revise-and-extend-covid-19-related-restrictions-until-at-least-march-15-update-17
-
-https://www.garda.com/crisis24/news-alerts/467306/rwanda-authorities-revise-and-extend-covid-19-related-restrictions-through-at-least-april-29-update-20
-
-https://rw.usembassy.gov/health-alert-covid-19-information/
+(8)
+https://perma.cc/R6X2-3RAK
+(9)
+https://perma.cc/L6AL-4A88
+(10)
 
 
 
@@ -1191,19 +1168,12 @@ https://rw.usembassy.gov/health-alert-covid-19-information/
  No evidence of verbal harassment of journalists was found. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/rwanda/
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-
-https://www.hrw.org/news/2020/04/24/rwanda-lockdown-arrests-abuses-surge
-
-https://cpj.org/2020/05/rwandan-journalist-media-worker-detained-since-mid/
-
-https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
-
-
-http://rwandansrights.org/rwanda-the-coronavirus-pandemic-is-not-an-excuse-to-trample-on-freedom-of-press/
+ perma.cc/9TRQ-FR5A
+perma.cc/4AQD-CNSK
+perma.cc/AQE9-Y3Q2
+perma.cc/85VR-MYEH
+perma.cc/V7QV-W5FG
+perma.cc/DC7V-U2NV
 
 
 
@@ -1253,39 +1223,35 @@ Also: ''TV director Hassan had notably finished a sensitive report investigating
 ''On 9 February 2021, Innocent Bahati, a 31-year-old singer and poet, was reported missing to the Rwanda Investigation Bureau (RIB), two days after he was last seen in Nyanza, Southern Province. His poems, which he recites in videos posted on YouTube, have focused on social issues such as growing poverty or criticism of the lockdown and its impact. Two people who saw him before he disappeared told Human Rights Watch that he had traveled to Nyanza district on 7 February 2021 to research material for a new poem. The RIB spokesperson told the media an investigation into his whereabouts was ongoing.'' (5). 
 
 *Sources*:
- https://ipi.media/alerts/journalist-and-media-worker-arrested-for-violating-curfew-in-rwanda/
+ https://perma.cc/7T36-XQXA
 (1)
-
-http://www.rfi.fr/fr/afrique/20200415-confinement-rwanda-arrestation-plusieurs-blogueurs-et-journalistes
+https://perma.cc/YR9U-QLC9
 (2)
-
-https://www.hrw.org/world-report/2021/country-chapters/rwanda#12ffb1
+https://perma.cc/HP7P-HHXX
 (3)
-
-http://www.rfi.fr/en/africa/20200430-covid-19-making-media-africa-great-lakes-region-sick-tanzania-rwanda-uganda
+https://perma.cc/4RZ2-2E7X
 (4)
-
-https://www.hrw.org/news/2021/03/30/rwanda-arrests-prosecutions-over-youtube-posts
+https://perma.cc/M6PL-XJLR
 (5)
-
-https://www.africanews.com/2020/08/07/rwanda-s-extreme-covid-19-prevention-tactics//
-
-http://www.rfi.fr/en/africa/20200430-covid-19-making-media-africa-great-lakes-region-sick-tanzania-rwanda-uganda
+https://perma.cc/3QL5-V5LD
+(6)
 
 https://twitter.com/RIB_Rw/status/1250480771229499392?s=20
+(7)
 
-http://www.rfi.fr/fr/afrique/20200415-confinement-rwanda-arrestation-plusieurs-blogueurs-et-journalistes
+https://perma.cc/4VTF-XV9B
 
-https://www.hrw.org/fr/news/2020/04/24/rwanda-vague-darrestations-et-dabus-lies-au-confinement
+(8)
+https://perma.cc/R6ZB-KNQ7
+(9)
 
-https://www.hrw.org/news/2020/04/24/rwanda-lockdown-arrests-abuses-surge
+https://perma.cc/7ANN-L62P
+(10)
+https://perma.cc/DC7V-U2NV
+(11)
 
-https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
-
-
-http://rwandansrights.org/rwanda-the-coronavirus-pandemic-is-not-an-excuse-to-trample-on-freedom-of-press/
-
-https://monitor.civicus.org/updates/2020/09/09/multiple-journalists-arrested-throughout-covid-19-lockdown-period/
+https://perma.cc/DH8D-9FQX
+(12)
 
 
 
@@ -1329,12 +1295,15 @@ https://monitor.civicus.org/updates/2020/09/09/multiple-journalists-arrested-thr
  In agreement with WHO guidlines. Also, on the use of chloroquine, Rwandan authorities in March had informed the public that chloroquine has not proven yet to be effective, and that updates would follow in collaboration with WHO (4). 
 
 *Sources*:
- https://www.rbc.gov.rw/index.php?id=707
+ https://perma.cc/EDM3-H9UK
+(1)
 
-https://moh.gov.rw/index.php?id=575
+https://web.archive.org/web/20200727212604/https://moh.gov.rw/index.php?id=575
+(2)
+https://perma.cc/RYP4-UJS8
+(3)
+https://web.archive.org/web/20201130231854/http://www.rwandafda.gov.rw/web/fileadmin/13Circular.pdf
 
-https://www.afro.who.int/news/covid-19-rwanda-countrys-response
-http://www.rwandafda.gov.rw/web/fileadmin/13Circular.pdf
 (4)
 
 
@@ -1386,26 +1355,28 @@ For this reason, but also because it is only this incident reported, coding is 1
 No more incidents were found after Q2 of 2020. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/24/rwanda-lockdown-arrests-abuses-surge
-(1)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/rwanda/
-(2)
-
-https://www.youtube.com/watch?v=oD4M-av8gnU
-
-https://www.africanews.com/2020/08/07/rwanda-s-extreme-covid-19-prevention-tactics//
+ perma.cc/R6ZB-KNQ7
 
 
-http://www.xinhuanet.com/english/2020-04/05/c_138949296.htm
-
-https://www.bloomberg.com/news/articles/2020-06-21/tanzanian-president-faces-rare-challenge-for-party-nomination
-
-https://allafrica.com/stories/202003260464.html
-
-https://www.france24.com/en/20200328-virus-prevention-measures-turn-violent-in-parts-of-africa
+perma.cc/9BXP-Z5SK
 
 
+perma.cc/X9CB-AECF
+
+
+perma.cc/3QL5-V5LD
+
+
+perma.cc/YWX2-5BXB
+
+
+perma.cc/YYX8-JZW3
+
+
+perma.cc/NG5S-5TGG
+
+
+perma.cc/8ZH7-72KA
 
 
 
@@ -1447,4 +1418,4 @@ https://www.france24.com/en/20200328-virus-prevention-measures-turn-violent-in-p
  Local government insitutions and security organs are tasked with ensuring compliance with these instructions''. 
 
 *Sources*:
- https://twitter.com/NewTimesRwanda/status/1241421501192077314
+ perma.cc/W9X8-PS5X

@@ -47,22 +47,27 @@ This is a specific legal instrument that is separate from the Disaster and Emerg
 It is still in force, having been extended four times with a current end date at 2021-09-17. 
 
 *Sources*:
- https://www.legislation.gov.au/Details/F2020L00266
+ https://perma.cc/EY68-XRUS
 
-https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/FlagPost/2020/March/COVID-19_Biosecurity_Emergency_Declaration
+https://perma.cc/TX2X-8ECD
 
-https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Scrutiny_of_Delegated_Legislation/Scrutiny_of_COVID-19_instruments
-https://www.legislation.gov.au/Details/C2017C00303
+https://perma.cc/XE6D-PPY4
 
-https://www.legislation.gov.au/Details/C2018Q00086
-https://www.legislation.gov.au/Series/F2020L00266
+https://perma.cc/DHK8-7DLL
 
-https://www.legislation.gov.au/Details/F2021L00190
-https://www.legislation.gov.au/Details/F2020L01566
-https://www.legislation.gov.au/Details/F2020L01129
-https://www.legislation.gov.au/Details/F2020L00574
+https://perma.cc/FDB4-7HK7
 
-https://www.legislation.gov.au/Details/F2021L00727
+https://perma.cc/NVS7-3A9S
+
+https://perma.cc/Y2F3-PBEV
+
+https://perma.cc/W3EG-YQ4J
+
+https://perma.cc/385V-2UTY
+
+https://perma.cc/6KHT-UANK
+
+https://perma.cc/4JG8-5JUC
 
 
 
@@ -101,8 +106,13 @@ https://www.legislation.gov.au/Details/F2021L00727
 *No comment provided* 
 
 *Sources*:
- https://www.legislation.gov.au/Details/F2020L00266
-https://www.legislation.gov.au/Series/F2020L00266
+ https://perma.cc/QCW6-JSRW
+
+
+
+
+
+https://perma.cc/D56K-BHE5
 
 
 
@@ -141,8 +151,13 @@ https://www.legislation.gov.au/Series/F2020L00266
 *No comment provided* 
 
 *Sources*:
- https://www.legislation.gov.au/Details/F2020L00266
-https://www.legislation.gov.au/Series/F2020L00266
+ https://perma.cc/4QNT-2HJY
+
+
+
+
+
+https://perma.cc/SMY4-EJ8E
 
 
 
@@ -181,13 +196,37 @@ https://www.legislation.gov.au/Series/F2020L00266
  Implementation of legal instrument has not ended by time of coding. Latest extension set to 2021-09-17. 
 
 *Sources*:
- https://www.legislation.gov.au/Series/F2020L00266
+ https://perma.cc/C7QA-KJYS
 
-https://www.legislation.gov.au/Details/F2021L00727
-https://www.legislation.gov.au/Details/F2021L00190
-https://www.legislation.gov.au/Details/F2020L01566
-https://www.legislation.gov.au/Details/F2020L01129
-https://www.legislation.gov.au/Details/F2020L00574
+
+
+
+
+https://perma.cc/5AJD-DSYY
+
+
+
+
+
+https://perma.cc/YX7Z-NNF8
+
+
+
+
+
+https://perma.cc/4UDW-D4DP
+
+
+
+
+
+https://perma.cc/538G-7LXV
+
+
+
+
+
+https://perma.cc/FV2D-92TP
 
 
 
@@ -230,18 +269,21 @@ https://www.legislation.gov.au/Details/F2020L00574
 
 *Sources*:
  [1]
-https://www.legislation.gov.au/Details/F2020L00266
+https://perma.cc/9CAN-NEL2
 
-https://www.legislation.gov.au/Details/C2017C00303
+https://perma.cc/5JHC-YM5E
 
-https://www.legislation.gov.au/Series/F2020L00266
+https://perma.cc/Q2BB-TLCJ
 
-https://www.legislation.gov.au/Details/F2021L00190
-https://www.legislation.gov.au/Details/F2020L01566
-https://www.legislation.gov.au/Details/F2020L01129
-https://www.legislation.gov.au/Details/F2020L00574
+https://perma.cc/5HPZ-JEC7
 
-https://www.legislation.gov.au/Details/F2021L00727
+https://perma.cc/L5J8-JA2H
+
+https://perma.cc/CR8B-F4SY
+
+https://perma.cc/V95G-BQ8C
+
+https://perma.cc/2YT3-T36B
 
 
 
@@ -280,19 +322,55 @@ https://www.legislation.gov.au/Details/F2021L00727
  The initially declared end date was June 17 2020. Within the legal instrument, there's a possibility to extend the period of Biosecurity Emergency indefinetly, but only for three months at a time. On 2020-05-17 it was declared that the measures will be in place for another 3 months, thus ending on the 17th of September 2020. On September 3 2020, it was declared that it is extended to December 17 2020. On December 11th 2020 it was extended to 2021-03-17. On March 2nd, it was extended to 2021-06-17. On June 11, it was extended to 2021-09-17. 
 
 *Sources*:
- https://www.legislation.gov.au/Details/F2020L00266
+ https://perma.cc/5WRD-5M4H
 
-https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/FlagPost/2020/March/COVID-19_Biosecurity_Emergency_Declaration
 
-https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Scrutiny_of_Delegated_Legislation/Scrutiny_of_COVID-19_instruments
-https://www.legislation.gov.au/Series/F2020L00266
 
-https://www.legislation.gov.au/Details/F2021L00190
-https://www.legislation.gov.au/Details/F2020L01566
-https://www.legislation.gov.au/Details/F2020L01129
-https://www.legislation.gov.au/Details/F2020L00574
 
-https://www.legislation.gov.au/Details/F2021L00727
+
+https://perma.cc/66ML-7Q5Q
+
+
+
+
+
+https://perma.cc/3X2A-8X7D
+
+
+
+
+
+https://perma.cc/RW6N-ZX9R
+
+
+
+
+
+https://perma.cc/8DXQ-XP7L
+
+
+
+
+
+https://perma.cc/V3AV-DD5L
+
+
+
+
+
+https://perma.cc/GS9C-Q5NS
+
+
+
+
+
+https://perma.cc/5R6L-CC8D
+
+
+
+
+
+https://perma.cc/8JHW-GHB4
 
 
 
@@ -334,10 +412,25 @@ https://www.legislation.gov.au/Details/F2021L00727
  The law does not require that the Australian parliament approves the emergency measures. 
 
 *Sources*:
- https://www.legislation.gov.au/Details/F2020L00266
-https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/FlagPost/2020/March/COVID-19_Biosecurity_Emergency_Declaration
-https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/rp1920/Quick_Guides/AustralianCovid-19ResponseManagement
-https://www.legislation.gov.au/Details/C2017C00303
+ https://perma.cc/F8K4-79VF
+
+
+
+
+
+https://perma.cc/NB3W-MESZ
+
+
+
+
+
+https://perma.cc/9KWN-7MC3
+
+
+
+
+
+https://perma.cc/NC3Z-6VVZ
 
 
 
@@ -379,10 +472,25 @@ https://www.legislation.gov.au/Details/C2017C00303
  The Australian parliament has not voted on whether to approve the emergency measures. 
 
 *Sources*:
- https://www.legislation.gov.au/Details/F2020L00266
-https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/FlagPost/2020/March/COVID-19_Biosecurity_Emergency_Declaration
-https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/rp1920/Quick_Guides/AustralianCovid-19ResponseManagement
-https://www.legislation.gov.au/Details/C2017C00303
+ https://perma.cc/JEV5-UDRQ
+
+
+
+
+
+https://perma.cc/HFS6-5KS6
+
+
+
+
+
+https://perma.cc/K9ES-YGLD
+
+
+
+
+
+https://perma.cc/T8TH-DTF9
 
 
 
@@ -430,22 +538,31 @@ Note also that the Australian parliament in two instances during 2020  suspended
 
 *Sources*:
  [2]
-https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Scrutiny_of_Delegated_Legislation/Scrutiny_of_COVID-19_instruments
-https://www.legislation.gov.au/Details/F2020L00266
-https://www.legislation.gov.au/Details/C2017C00303
-https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/rp1920/Quick_Guides/AustralianCovid-19ResponseManagement
+https://perma.cc/FJJ2-FFDK
 
-https://www.legislation.gov.au/Series/F2020L00266
+https://perma.cc/C2FQ-4ZHK
 
-https://www.legislation.gov.au/Details/F2021L00190
-https://www.legislation.gov.au/Details/F2020L01566
-https://www.legislation.gov.au/Details/F2020L01129
-https://www.legislation.gov.au/Details/F2020L00574
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/COVID-19/COVID19
-https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/FlagPost/2020/April/COVID-19_and_parliamentary_sittings
-https://www.aph.gov.au/About_Parliament/House_of_Representatives/About_the_House_News/News/The_Parliaments_response_to_the_COVID-19_pandemic
+https://perma.cc/Y8VV-DFYQ
 
+https://perma.cc/L6M7-NW43
+
+https://perma.cc/DW9R-9M4J
+
+https://perma.cc/6FHZ-ERZH
+
+https://perma.cc/288W-UQT6
+
+https://perma.cc/A5XV-EYZ3
+
+https://perma.cc/LU2Q-774Z
+
+https://perma.cc/QU38-FW3N
+
+https://perma.cc/3D56-TUY5
+
+https://perma.cc/ZA73-X8CL
+
+https://perma.cc/4M53-AQYW
 
 
 
@@ -567,13 +684,15 @@ https://www.aph.gov.au/About_Parliament/House_of_Representatives/About_the_House
  While it is the states and territories that enforce and control many of the emergency measures, the Australian government set up the National Cabinet (the federal government and all state and territories cooperation unit) to coordinate and integrate the response to Covid-19. In the first two quarters, the variation due to this was fairly small. For instance, there have been differences in how many people you can invite to your home, how many that are allowed to gather outdoors etc., but these variations have not been substantial and for those that have had comparatively relaxed restrictions, these have still been accompanied by strict requirements for keeping distance etc. Therefore, this is coded as 1 for all these periods. Since then, however, the response has been a bit more heterogenous based on the number of cases, available hospital beds etc. in each state. The states have, for instance, ordered shorter lockdowns at different times and in different ways. Still, the National Cabinet continues to coordinate a lot of work, for instance administrating and rolling out the national vaccination program. Thus, for the Q4 in 2020 and Q1 and Q2 in 2021, this is coded as 2. 
 
 *Sources*:
- :
-https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/government-response-to-the-Covid-19-outbreak
-https://www.acaps.org/covid19-government-measures-dataset
+ https://perma.cc/BVC7-AQPR
 
-https://www.theguardian.com/australia-news/2021/feb/15/australia-covid-19-lockdown-rules-coronavirus-restrictions-by-state-nsw-victoria-vic-queensland-qld-western-south-australia-wa-sa-nt-act-travel-border-social-distancing-masks
-https://www.healthdirect.gov.au/covid19-restriction-checker/activity
-https://www.pm.gov.au/media/national-cabinet-4
+https://perma.cc/WB3G-2KCL
+
+https://perma.cc/H8NN-D9VG
+
+https://perma.cc/A59W-RPKQ
+
+https://perma.cc/X79B-GQPC
 
 
 
@@ -617,14 +736,13 @@ https://www.pm.gov.au/media/national-cabinet-4
  There is no discriminating measures within the Biosecurity Emergency measures, and no other indications of such discrimination occuring in Australia's emergency response has been found. Therefore, this variable is coded as 0 for all periods. 
 
 *Sources*:
- https://www.legislation.gov.au/Details/F2020L00266
+ https://perma.cc/M42S-E3MA
 
-https://humanrights.gov.au/our-work/commission-general/Covid-19-information
+https://perma.cc/594X-943T
 
-https://www.hrw.org/asia/australia
+https://perma.cc/8NH7-KM52
 
-
-https://www.amnesty.org/en/search/?country=38345&resourceType=newsarticle&sort=date
+https://perma.cc/ZQ9E-ZXXU
 
 
 
@@ -673,9 +791,12 @@ https://www.amnesty.org/en/search/?country=38345&resourceType=newsarticle&sort=d
  Neither Human Rights Watch nor Amnesty International has reported any incidents of violations of non-derogable rights, and no other indication has been found that that has occurred in Australia's Covid-19 response. This is therefore coded as 0 for all periods. 
 
 *Sources*:
- https://humanrights.gov.au/our-work/commission-general/Covid-19-information
-https://www.hrw.org/asia/australia
-https://www.amnesty.org/en/search/?country=38345&resourceType=newsarticle&sort=date
+ https://perma.cc/594X-943T
+
+
+https://perma.cc/KJ5J-XYY6
+
+https://perma.cc/W9ZL-M2EY
 
 
 
@@ -719,9 +840,13 @@ https://www.amnesty.org/en/search/?country=38345&resourceType=newsarticle&sort=d
  No de jure limitations on media freedom in the Biosecurity Emergency declaration, or any measures taken under it. 
 
 *Sources*:
- https://www.legislation.gov.au/Details/F2020L00266
+ https://perma.cc/WQ7V-KHZK
 
-https://www.legislation.gov.au/Details/C2017C00303
+
+
+
+
+https://perma.cc/L5V5-EW2N
 
 
 
@@ -760,9 +885,13 @@ https://www.legislation.gov.au/Details/C2017C00303
  No de jure limitations on media freedom in the Biosecurity Emergency declaration, or any measures taken under it. 
 
 *Sources*:
- https://www.legislation.gov.au/Details/F2020L00266
+ https://perma.cc/P33L-8KHF
 
-https://www.legislation.gov.au/Details/C2017C00303
+
+
+
+
+https://perma.cc/WB4S-J2D8
 
 
 
@@ -801,9 +930,13 @@ https://www.legislation.gov.au/Details/C2017C00303
  No de jure limitations on media freedom in the Biosecurity Emergency declaration, or any measures taken under it. 
 
 *Sources*:
- https://www.legislation.gov.au/Details/F2020L00266
+ https://perma.cc/9JZ9-D8UK
 
-https://www.legislation.gov.au/Details/C2017C00303
+
+
+
+
+https://perma.cc/33A9-RS6Q
 
 
 
@@ -845,9 +978,19 @@ https://www.legislation.gov.au/Details/C2017C00303
  Neither Reporters Without Borders, Committee to Protect Journalists nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Australia,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/australia
-https://ipi.media/australia/
-https://cpj.org/asia/australia/
+ https://perma.cc/24ME-K2PM
+
+
+
+
+
+https://perma.cc/F98U-DER5
+
+
+
+
+
+https://perma.cc/8EW2-94ET
 
 
 
@@ -889,9 +1032,19 @@ https://cpj.org/asia/australia/
  Neither Reporters Without Borders, Committee to Protect Journalists nor International Press Institute have reported any de facto limitations on media reporting about the governments response to Covid-19 in Australia,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/australia
-https://ipi.media/australia/
-https://cpj.org/asia/australia/
+ https://perma.cc/24ME-K2PM
+
+
+
+
+
+https://perma.cc/F98U-DER5
+
+
+
+
+
+https://perma.cc/8EW2-94ET
 
 
 
@@ -933,9 +1086,19 @@ https://cpj.org/asia/australia/
  Neither Reporters Without Borders, Committee to Protect Journalists nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in Australia,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/australia
-https://ipi.media/australia/
-https://cpj.org/asia/australia/
+ https://perma.cc/24ME-K2PM
+
+
+
+
+
+https://perma.cc/F98U-DER5
+
+
+
+
+
+https://perma.cc/8EW2-94ET
 
 
 
@@ -978,10 +1141,13 @@ https://cpj.org/asia/australia/
  Neither Reporters Without Borders, Committee to Protect Journalists nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information, and no other indications has been found of there being any such limitations. The Australian authorities have announced that access to information can take longer than the usual statutory frameworks due to Covid-19, and that authorities can apply for extended time periods within which they have to deliver requested information. But this is not a limitation in access to information as such, and no complaints or reports have been found that this limits media's access to Covid-19 related information. 
 
 *Sources*:
- https://rsf.org/en/australia
-https://ipi.media/australia/
-https://cpj.org/asia/australia/
-https://www.oaic.gov.au/freedom-of-information/frequently-asked-questions/how-can-agencies-meet-statutory-timeframes-during-the-Covid-19-pandemic/
+ https://perma.cc/W8LY-YSU9
+
+https://perma.cc/DQM2-CWT6
+
+https://perma.cc/8X2M-ZUUE
+
+https://web.archive.org/web/20200324131033/https://www.oaic.gov.au/freedom-of-information/frequently-asked-questions/how-can-agencies-meet-statutory-timeframes-during-the-Covid-19-pandemic/
 
 
 
@@ -1023,9 +1189,19 @@ https://www.oaic.gov.au/freedom-of-information/frequently-asked-questions/how-ca
  Neither Reporters Without Borders, Committee to Protect Journalists nor International Press Institute have reported any verbal harassment of journalists by the government and/or its agents, and no other indications have been found of there being any such harassment. 
 
 *Sources*:
- https://rsf.org/en/australia
-https://ipi.media/australia/
-https://cpj.org/asia/australia/
+ https://perma.cc/24ME-K2PM
+
+
+
+
+
+https://perma.cc/F98U-DER5
+
+
+
+
+
+https://perma.cc/8EW2-94ET
 
 
 
@@ -1067,9 +1243,19 @@ https://cpj.org/asia/australia/
  Neither Reporters Without Borders, Committee to Protect Journalists nor International Press Institute have reported any physical harassment of journalists by the government and/or its agents, and no other indications have been found of there being any such harassment. 
 
 *Sources*:
- https://rsf.org/en/australia
-https://ipi.media/australia/
-https://cpj.org/asia/australia/
+ https://perma.cc/7JS5-L2R9
+
+
+
+
+
+https://perma.cc/6Z97-WJYR
+
+
+
+
+
+https://perma.cc/R9BY-6AJW
 
 
 
@@ -1113,12 +1299,12 @@ https://cpj.org/asia/australia/
  There seem to be no deviations from the information provided by WHO and that of the Australian Government on Covid-19, and no complaints or accusations of any such disinformation have been found. 
 
 *Sources*:
- https://www.australia.gov.au
+ https://perma.cc/7D6V-5S88
 
-https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert
+https://perma.cc/A27M-Z3HK
 
-https://www.australia.gov.au/Covid-19-mythbusting
-https://www.health.gov.au/initiatives-and-programs/Covid-19-vaccines/is-it-true
+https://web.archive.org/web/20200524232356/https://www.australia.gov.au/Covid-19-mythbusting
+https://perma.cc/FC7V-HQMM
 
 
 
@@ -1162,11 +1348,13 @@ https://www.health.gov.au/initiatives-and-programs/Covid-19-vaccines/is-it-true
  During Q3 of 2020, there are a few incidents of police violence and abusive enforcement reported in the state of Victoria during its lockdown restrictions. Police where given extended authority, and it is reported that the use of force has been excessive in a few instances. However, no evidence of police violence or abusive enforcement has been found in any other time period, or in any other part of Australia. This is therefore coded as 1 in the period Q3 of 2020, and coded 0 otherwise. 
 
 *Sources*:
- https://www.hrw.org/news/2020/09/24/australia-harsh-police-response-during-Covid-19
+ https://perma.cc/5CE6-9XR4
 
-https://humanrights.gov.au/our-work/commission-general/Covid-19-information
-https://www.hrw.org/asia/australia
-https://www.amnesty.org/en/search/?country=38345&resourceType=newsarticle&sort=date
+https://perma.cc/594X-943T
+
+https://perma.cc/H3A2-T7MZ
+
+https://perma.cc/H6EA-WYU9
 
 
 
@@ -1208,5 +1396,6 @@ https://www.amnesty.org/en/search/?country=38345&resourceType=newsarticle&sort=d
  In August of 2020, the state of Victoria employed military personnel to help enforce Covid-19 regulation. In November of 2020, other states had also employed military to assist in "quarantine compliance management". This is therefore coded as 1 for both Q3 and Q4 of 2020. No information has been found that this has continued into Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.reuters.com/article/us-health-coronavirus-australia/australian-state-to-impose-hefty-fines-to-compel-Covid-19-isolation-idUSKCN25005D
-https://news.defence.gov.au/national/daily-update-defence-response-Covid-19
+ https://perma.cc/DL27-XBMB
+
+https://perma.cc/CB5N-KPA6

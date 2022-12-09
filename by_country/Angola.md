@@ -45,14 +45,21 @@
  The Presidental Decree nº 81/20 declared a state of emergency on March 25 2020, and it was in place until May 25 2020. Once it ended, the Presidential Decree nº 142/20 declared a state of calamity, which allows the government to impose some restrictive measures. The state of calamity has been extended several times, currently until July 9 2021. 
 
 *Sources*:
- https://www.angop.ao/noticias/politica/covid-19-angola-com-novo-periodo-de-calamidade-publica/
-https://www.rtp.pt/noticias/covid-19/angola-inicia-ano-com-alivio-de-medidas-e-recorde-de-recuperacoes_n1288506
-https://www.angolaturismo.ao/docs/DecretoPresidencial%208120de25de%20Marco.pdf
-https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
-https://www.vda.pt/pt/publicacoes/insights/estado-de-emergencia-e-de-calamidade-publica/21946/
-https://governo.gov.ao/fotos/frontend_1/gov_documentos/200527_ja_decreto_presidencial_8066864925f3b7349d7c68.pdf
-https://governo.gov.ao/ao/noticias/governo-actualiza-medidas-de-controlo-da-covid-19/
-https://www.garda.com/crisis24/news-alerts/489426/angola-authorities-extend-covid-19-state-of-calamity-nationwide-through-july-9-update-23
+ https://perma.cc/3VQR-UL5J
+
+https://perma.cc/FRE6-2CNC
+
+https://web.archive.org/web/20200622130622/https://www.angolaturismo.ao/docs/DecretoPresidencial%208120de25de%20Marco.pdf
+
+https://perma.cc/Q8QL-8BRG
+
+https://perma.cc/2D39-H4RW
+
+https://perma.cc/QY9Q-VA56
+
+https://perma.cc/6VW8-KMSW
+
+https://perma.cc/7SYM-LLUL
 
 
 
@@ -91,10 +98,25 @@ https://www.garda.com/crisis24/news-alerts/489426/angola-authorities-extend-covi
  The Law and amendment were kept but added by the decree nº 10/21 on 8 January 2021. 
 
 *Sources*:
- https://governo.gov.ao/fotos/frontend_1/gov_documentos/diario_medidas_covid__9914006625ffa247bcbfb2.pdf
-https://governo.gov.ao/ao/noticias/medidas-a-vigorar-ate-11-de-marco/
-https://www.wipo.int/edocs/lexdocs/laws/pt/ao/ao001pt.pdf
-https://www.bfa.ao/media/2339/lei-n%C2%BA-14-20-de-22-de-maio-alteracao-a-lei-de-base-da-proteccao-civil.pdf
+ https://perma.cc/YT9Y-F7GM
+
+
+
+
+
+https://perma.cc/KF8H-CCNJ
+
+
+
+
+
+https://perma.cc/AF7D-GJ6V
+
+
+
+
+
+https://perma.cc/LU6T-37N6
 
 
 
@@ -133,14 +155,19 @@ https://www.bfa.ao/media/2339/lei-n%C2%BA-14-20-de-22-de-maio-alteracao-a-lei-de
  The Presidental Decree nº 81/20 declared a state of emergency on March 25 2020, and it was in place until May 25 2020. Once it ended, the Presidential Decree nº 142/20 declared a state of calamity, which has been extended several times, currently until July 9 2021. 
 
 *Sources*:
- https://www.angop.ao/noticias/politica/covid-19-angola-com-novo-periodo-de-calamidade-publica/
-https://www.rtp.pt/noticias/covid-19/angola-inicia-ano-com-alivio-de-medidas-e-recorde-de-recuperacoes_n1288506
-https://www.angolaturismo.ao/docs/DecretoPresidencial%208120de25de%20Marco.pdf
-https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
-https://www.vda.pt/pt/publicacoes/insights/estado-de-emergencia-e-de-calamidade-publica/21946/
-https://governo.gov.ao/fotos/frontend_1/gov_documentos/200527_ja_decreto_presidencial_8066864925f3b7349d7c68.pdf
-https://governo.gov.ao/ao/noticias/governo-actualiza-medidas-de-controlo-da-covid-19/
-https://www.garda.com/crisis24/news-alerts/489426/angola-authorities-extend-covid-19-state-of-calamity-nationwide-through-july-9-update-23
+ https://perma.cc/8MLJ-U2W2
+
+
+
+
+
+https://perma.cc/CL4J-UUV7
+
+
+
+
+
+https://perma.cc/D45M-48YR
 
 
 
@@ -179,12 +206,31 @@ https://www.garda.com/crisis24/news-alerts/489426/angola-authorities-extend-covi
  The state of emergency ended on May 25 2020 and at the same time a state of calamity was declared. It has been in place since, currently extended until July 9 2021. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/442071/angola-authorities-extend-state-of-public-calamity-through-to-march-11-update-18
-https://www.garda.com/crisis24/news-alerts/476406/angola-authorities-tighten-covid-19-measures-through-at-least-june-8-update-22
-https://www.vda.pt/pt/publicacoes/insights/estado-de-emergencia-e-de-calamidade-publica/21946/
-https://rr.sapo.pt/2020/05/26/mundo/fim-do-estado-de-emergencia-em-angola/noticia/194244/
-https://governo.gov.ao/ao/noticias/governo-actualiza-medidas-de-controlo-da-covid-19/
-https://www.garda.com/crisis24/news-alerts/489426/angola-authorities-extend-covid-19-state-of-calamity-nationwide-through-july-9-update-23
+ https://perma.cc/9YM2-C7JX
+
+
+
+
+
+https://perma.cc/DK4S-ALHF
+
+
+
+
+
+https://perma.cc/5URQ-LL8L
+
+
+
+
+
+https://perma.cc/D7N3-3VMD
+
+
+
+
+
+https://perma.cc/W8QT-U9VZ
 
 
 
@@ -226,12 +272,37 @@ https://www.garda.com/crisis24/news-alerts/489426/angola-authorities-extend-covi
  The Law nº 17/91, Article 8, establishes that a state of emergency can't last more than 90 days and, when declared, it must have an end date, but it can be renewed with legislative approval. It was first declared for 15 days, and later extended. The state of calamity was first declared until June 9 2020, and later extended. The government renews the public calamity period every 30 days. It has been announcing monthly the extensions, alongside new decrees. 
 
 *Sources*:
- https://governo.gov.ao/ao/noticias/a-partir-de-amanha/
-https://www.angop.ao/noticias/politica/covid-19-angola-com-novo-periodo-de-calamidade-publica/
-https://www.rtp.pt/noticias/covid-19/angola-inicia-ano-com-alivio-de-medidas-e-recorde-de-recuperacoes_n1288506
-https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
-https://www.governo.gov.ao/download.aspx?id=2411&tipo=legislacao
-https://governo.gov.ao/fotos/frontend_1/gov_documentos/200527_ja_decreto_presidencial_8066864925f3b7349d7c68.pdf
+ https://perma.cc/38GU-JQ8Z
+
+
+
+
+
+https://perma.cc/WMT8-VGYS
+
+
+
+
+
+https://perma.cc/UKA5-RG63
+
+
+
+
+
+https://perma.cc/6CZG-ATVH
+
+
+
+
+
+https://perma.cc/YG9Z-7FAQ
+
+
+
+
+
+https://perma.cc/539M-MRFK
 
 
 
@@ -270,11 +341,31 @@ https://governo.gov.ao/fotos/frontend_1/gov_documentos/200527_ja_decreto_preside
  At first, the state of emergency was declared for 15 days, until April 11 2020 (page 74). It was then extended twice, until May 25 2020. The state of calamity was first declared until June 9 2020, and later extended several times, currently until July 9 2021. 
 
 *Sources*:
- https://governo.gov.ao/fotos/frontend_1/gov_documentos/diario_da_republica_44_de_11_de_marco_medidas_1666435472604c7dccbc428.pdf
-https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
-https://www.vda.pt/pt/publicacoes/insights/estado-de-emergencia-e-de-calamidade-publica/21946/
-https://governo.gov.ao/fotos/frontend_1/gov_documentos/200527_ja_decreto_presidencial_8066864925f3b7349d7c68.pdf
-https://www.garda.com/crisis24/news-alerts/489426/angola-authorities-extend-covid-19-state-of-calamity-nationwide-through-july-9-update-23
+ https://perma.cc/95X2-SGAT
+
+
+
+
+
+https://perma.cc/L5Y9-WG57
+
+
+
+
+
+https://perma.cc/UH5D-FUBR
+
+
+
+
+
+https://perma.cc/2UZF-2MNH
+
+
+
+
+
+https://perma.cc/3RXB-ZJ7B
 
 
 
@@ -316,8 +407,13 @@ https://www.garda.com/crisis24/news-alerts/489426/angola-authorities-extend-covi
  Law nº 17/91, Chapter 3, determines that the president needs legislative approval to declare a state of emergency. The Law nº 14/20, Article 11, determines that "The holder of the Executive Branch is responsible for declaring the situation of catastrophe or public calamity". 
 
 *Sources*:
- https://www.governo.gov.ao/download.aspx?id=2411&tipo=legislacao
-https://www.bfa.ao/media/2339/lei-n%C2%BA-14-20-de-22-de-maio-alteracao-a-lei-de-base-da-proteccao-civil.pdf
+ https://perma.cc/3DXL-BN2F
+
+
+
+
+
+https://perma.cc/5J54-HYRL
 
 
 
@@ -359,10 +455,31 @@ https://www.bfa.ao/media/2339/lei-n%C2%BA-14-20-de-22-de-maio-alteracao-a-lei-de
  The parliament approved the state of emergency in a unanimous decision. The state of calamity does not require legislative approval. 
 
 *Sources*:
- http://www.parlamento.ao/noticias/iii-legislatura/-/blogs/parlamento-da-nota-positiva-ao-periodo-de-estado-de-emergencia#http://www.parlamento.ao/glue/AN_Navigation.jsp?
-http://www.parlamento.ao/glue/AN_Navigation.jsp?
-http://www.novojornal.co.ao/politica/interior/coronaviruscovid-19-presidente-da-republica-decreta-estado-de-emergencia-86295.html
-https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
+ https://perma.cc/AE7H-X89W
+
+
+
+
+
+https://perma.cc/VAV7-NQL3
+
+
+
+
+
+https://perma.cc/2ZVA-37AM
+
+
+
+
+
+https://perma.cc/ZA55-HHAA
+
+
+
+
+
+https://perma.cc/ZB5H-9BSG
 
 
 
@@ -408,9 +525,13 @@ https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legisla
  The Constitution (Article 237) establishes that, while the state of emergency is in force, no amendment to the constitution can be made, but the president can rule by decree on covid-19 matters, as allowed by the Law nº 17/91, Article 20. The president continued to rule by decree during the state of calamity, since according to the Law nº 14/20 (Article 11) "The holder of the Executive Branch is responsible for: [...] c) declaring the situation of catastrophe or public calamity; d) Adopt, in the case provided for in the preceding paragraph, measures aimed at restoring normality; [...] h) To assume the direction of operations in the event of catastrophe or public calamity". (1) 
 
 *Sources*:
- https://www.governo.gov.ao/download.aspx?id=2411&tipo=legislacao
-(1)
-https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
+ https://perma.cc/8FXK-NJX2
+
+
+
+
+
+https://perma.cc/W4XH-SNW4
 
 
 
@@ -532,11 +653,15 @@ https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legisla
  There are sanitary barriers in Luanda and Kwanza Norte to avoid spreading the coronavirus and mutations to other cities and regions. 
 
 *Sources*:
- https://www.dw.com/pt-002/covid-19-angola-aperta-regras-para-travar-aumento-de-casos/a-57367944
-https://www.angop.ao/noticias/sociedade/covid-19-luanda-continua-sob-cerca-sanitaria/
-http://jornaldeangola.sapo.ao/sociedade/covid-19-luanda-comeca-nova-fase-da-cerca-sanitaria
-https://www.dw.com/pt-002/covid-19-cerca-sanit%C3%A1ria-renovada-em-luanda-mas-viola%C3%A7%C3%B5es-persistem/a-53954334
-https://www.angop.ao/noticias/sociedade/covid-19-angola-vive-sexto-periodo-de-calamidade-publica/
+ https://perma.cc/UV2M-JRQJ
+
+https://perma.cc/4VGD-ZSPF
+
+https://web.archive.org/web/20200610011653/http://jornaldeangola.sapo.ao/sociedade/covid-19-luanda-comeca-nova-fase-da-cerca-sanitaria
+
+https://perma.cc/2TEF-3SYE
+
+https://perma.cc/6R8U-6N5Q
 
 
 
@@ -580,10 +705,25 @@ https://www.angop.ao/noticias/sociedade/covid-19-angola-vive-sexto-periodo-de-ca
  No evidence of discrimination was found. 
 
 *Sources*:
- https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
-https://www.amnesty.org/en/countries/africa/angola/
-https://www.hrw.org/africa/angola
-https://monitor.civicus.org/country/angola/
+ https://perma.cc/DBU4-MUV2
+
+
+
+
+
+https://perma.cc/6QVZ-WQ6G
+
+
+
+
+
+https://perma.cc/C9HA-3268
+
+
+
+
+
+https://perma.cc/KG2Z-Z6KX
 
 
 
@@ -632,12 +772,19 @@ https://monitor.civicus.org/country/angola/
  No evidence of non-derogable rights violation was found. According to the Presidental Decree nº 81/20, Article 3: "the effects of the present declaration of state of emergency are not extended, in any case, to the rights to life, personal integrity, personal identity, civil capacity and citizenship, the non-retroactivity of criminal law and the freedom of expression and information." (1) 
 
 *Sources*:
- https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
+ https://perma.cc/RU8R-PG78
 
-(1)
-https://www.amnesty.org/en/countries/africa/angola/
-https://www.hrw.org/africa/angola
-https://monitor.civicus.org/country/angola/
+
+
+
+
+https://perma.cc/EA8E-BN38
+
+
+
+
+
+https://perma.cc/7AJE-SB2K
 
 
 
@@ -681,8 +828,13 @@ https://monitor.civicus.org/country/angola/
  The emergency measures do not de-jure limit media freedom. The Presidential Decree nº 81/20, Article 3, determines that there can be no limitation to freedom of information during the state of emergency. 
 
 *Sources*:
- https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
-https://governo.gov.ao/fotos/frontend_1/gov_documentos/200527_ja_decreto_presidencial_8066864925f3b7349d7c68.pdf
+ https://perma.cc/U2W8-5DBD
+
+
+
+
+
+https://perma.cc/A7X8-UKRM
 
 
 
@@ -802,11 +954,19 @@ https://governo.gov.ao/fotos/frontend_1/gov_documentos/200527_ja_decreto_preside
  No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. However, media freedom is limited in Angola, since several media outlets are controlled by the government and only a few manage to produce independent and critical reporting. 
 
 *Sources*:
- https://rsf.org/en/angola
-https://www.dw.com/pt-002/jornalistas-alertam-estado-quer-controlar-toda-a-comunica%C3%A7%C3%A3o-social-em-angola/a-54807935
-https://www.dw.com/pt-002/sindicato-dos-jornalistas-lamenta-recuo-na-liberdade-de-imprensa-em-angola/a-55028194
+ https://perma.cc/Y7F3-5N58
 
-https://www.dw.com/pt-002/angola-jornalistas-alertam-para-novas-formas-veladas-de-controlo/a-57462826
+
+
+
+
+https://perma.cc/NY93-HGRU
+
+
+
+
+
+https://perma.cc/LZV4-YUYK
 
 
 
@@ -848,10 +1008,19 @@ https://www.dw.com/pt-002/angola-jornalistas-alertam-para-novas-formas-veladas-d
  Media freedom is limited in Angola, since several media outlets are controlled by the government and only a few manage to produce independent and critical reporting. The journalists' union accused the public media of not covering demonstrations against the death of an Angolan doctor by police forces after they detained him for not wearing a mask. 
 
 *Sources*:
- https://www.dw.com/pt-002/angola-jornalistas-alertam-para-novas-formas-veladas-de-controlo/a-57462826
-https://rsf.org/en/angola
-https://www.dw.com/pt-002/jornalistas-alertam-estado-quer-controlar-toda-a-comunica%C3%A7%C3%A3o-social-em-angola/a-54807935
-https://www.dw.com/pt-002/sindicato-dos-jornalistas-lamenta-recuo-na-liberdade-de-imprensa-em-angola/a-55028194
+ https://perma.cc/VQ26-5HTP
+
+
+
+
+
+https://perma.cc/BA9B-F386
+
+
+
+
+
+https://perma.cc/Q8JF-C8NV
 
 
 
@@ -895,7 +1064,8 @@ https://www.dw.com/pt-002/sindicato-dos-jornalistas-lamenta-recuo-na-liberdade-d
 *Sources*:
  https://rsf.org/en/countries
 _x000D__x000D_
-https://ipi.media/covid19-media-freedom-monitoring/
+
+https://perma.cc/CB8H-PD72
 
 
 
@@ -938,9 +1108,19 @@ https://ipi.media/covid19-media-freedom-monitoring/
  No evidence was found of limitations on access to information. 
 
 *Sources*:
- https://rsf.org/en/countries
-https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/africa/angola/
+ https://perma.cc/TV6W-EVYW
+
+
+
+
+
+https://perma.cc/W4M4-38JJ
+
+
+
+
+
+https://perma.cc/55NW-5DX9
 
 
 
@@ -982,9 +1162,13 @@ https://cpj.org/africa/angola/
  No evidence of harassment was found. 
 
 *Sources*:
- https://rsf.org/en/countries
-https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/africa/angola/
+ https://perma.cc/7BDX-VCL7
+
+
+
+
+
+https://perma.cc/LQB3-C6AZ
 
 
 
@@ -1026,9 +1210,13 @@ https://cpj.org/africa/angola/
  No evidence of harassment was found. 
 
 *Sources*:
- https://rsf.org/en/countries
-https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/africa/angola/
+ https://perma.cc/4H7G-GN9H
+
+
+
+
+
+https://perma.cc/WV6W-JFA5
 
 
 
@@ -1072,13 +1260,37 @@ https://cpj.org/africa/angola/
  Evidence shows that the governement has been aligned to information provided by WHO. However, there are misinformation and rumors circulating around the country, and the government is cooperating with WHO to combat misinformation. 
 
 *Sources*:
- https://reliefweb.int/report/angola/battling-covid-19-rumours-and-hoaxes-angola
-https://reliefweb.int/report/angola/battling-covid-19-rumours-and-hoaxes-angola
-https://www.un.org/africarenewal/news/coronavirus/stopping-covid-19-reaching-family-farmers-angola
-https://rsf.org/en/countries
-https://ipi.media/covid19-media-freedom-monitoring/
-https://governo.gov.ao/ao/noticias/
-https://reliefweb.int/report/angola/battling-covid-19-rumours-and-hoaxes-angola
+ https://perma.cc/6YAU-KRJT
+
+
+
+
+
+https://perma.cc/9C3A-KHXT
+
+
+
+
+
+https://perma.cc/5Y2A-5YVB
+
+
+
+
+
+https://perma.cc/S69P-L24K
+
+
+
+
+
+https://perma.cc/GLE6-SKF7
+
+
+
+
+
+https://perma.cc/9M88-UF3D
 
 
 
@@ -1124,17 +1336,27 @@ https://reliefweb.int/report/angola/battling-covid-19-rumours-and-hoaxes-angola
 Although there are fewer reports,  violence still seems to be common in 2021. Amnesty International and the US Government report on several physical attacks in the implementation of COVID-19 measures. 
 
 *Sources*:
- https://www.voaportugues.com/a/eua-detalham-viola%C3%A7%C3%B5es-de-direitos-humanos-em-angola-mas-elogiam-governo-por-medidas-significativas-/5835182.html
-https://www.dw.com/pt-002/amnistia-internacional-pandemia-fez-aumentar-viola%C3%A7%C3%B5es-aos-direitos-humanos/a-57124133
-https://www.amnesty.org/en/latest/campaigns/2020/08/security-forces-brutality-in-angola/
-https://www.aljazeera.com/news/2020/05/angola-teen-killed-soldier-coronavirus-mask-operation-200516141627616.html
-http://www.angop.ao/angola/pt_pt/noticias/politica/2020/4/21/Covid-Agressao-forcas-defesa-resulta-morte,ae4cdcda-4e37-4a04-a735-ada9ff465bd5.html
-https://ionline.sapo.pt/artigo/691639/covid-19-viol-ncia-policial-em-tempos-de-pandemia-?seccao=Mundo
-https://www.amnesty.org/en/latest/news/2020/04/southern-africa-government-intervention-required-as-millions-face-hunger-under-covid19-lockdown-regimes/
-https://www.dw.com/pt-002/pol%C3%ADcia-angolana-mata-mais-que-o-coronav%C3%ADrus/a-53495843
-https://www.amnesty.org/en/latest/news/2020/08/angola-witnesses-describe-horrific-killings-of-teenagers-by-police/
-https://www.dw.com/pt-002/relat%C3%B3rio-revela-brutalidade-da-pol%C3%ADcia-angolana-durante-estado-de-emerg%C3%AAncia/a-54691312
-https://www.hrw.org/news/2020/11/12/angola-police-fire-peaceful-protesters
+ https://perma.cc/22XD-EQ9E
+
+https://perma.cc/E59X-S34E
+
+https://web.archive.org/web/20200924212058/https://www.amnesty.org/en/latest/campaigns/2020/08/security-forces-brutality-in-angola/
+
+https://perma.cc/BK6L-TVFE
+
+https://web.archive.org/web/20200523025533/http://www.angop.ao/angola/pt_pt/noticias/politica/2020/4/21/Covid-Agressao-forcas-defesa-resulta-morte,ae4cdcda-4e37-4a04-a735-ada9ff465bd5.html
+
+https://perma.cc/82TN-TVSU
+
+https://perma.cc/T3BY-66B5
+
+https://perma.cc/3XM3-UDTH
+
+https://perma.cc/3QLQ-EWHD
+
+https://perma.cc/WTJ3-NB3C
+
+https://perma.cc/3MCV-7J6Y
 
 
 
@@ -1176,8 +1398,28 @@ https://www.hrw.org/news/2020/11/12/angola-police-fire-peaceful-protesters
  During the state of emergency, the military enforced the confinement measures. Once the state of calamity was in place, the armed forces controlled the sanitary barrier in Luanda. The violence continues in 2021. 
 
 *Sources*:
- https://www.dw.com/pt-002/amnistia-internacional-pandemia-fez-aumentar-viola%C3%A7%C3%B5es-aos-direitos-humanos/a-57124133
-http://www.novojornal.co.ao/sociedade/interior/covid-19-faa-em-prontidao-combativa-ate-ao-fim-do-estado-de-emergencia-86337.html
-https://www.dw.com/pt-002/oms-estado-de-emerg%C3%AAncia-em-angola-%C3%A9-medida-adequada/a-52950078
-https://governo.gov.ao/ao/noticias/detalhes.php?id=46408
-https://governo.gov.ao/ao/noticias/detalhes.php?id=45763
+ https://perma.cc/47KK-N7MW
+
+
+
+
+
+https://perma.cc/4BFG-9VWC
+
+
+
+
+
+https://perma.cc/4G3C-G2NH
+
+
+
+
+
+https://perma.cc/6A9H-9WTH
+
+
+
+
+
+https://perma.cc/74A6-6YS3

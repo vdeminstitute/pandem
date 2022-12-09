@@ -22,7 +22,7 @@
  I did not find any information related to this. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Afghanistan_2004.pdf?lang=en
+ https://perma.cc/24QC-7282
 
 
 
@@ -47,9 +47,11 @@
  No measures violating non-derogable rights found. 
 
 *Sources*:
- https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://www.amnesty.org/en/countries/europe-and-central-asia/albania/
-https://new.shendetesia.gov.al/category/lajme/
+ https://perma.cc/B56H-YR5N
+
+https://perma.cc/M4P6-CVLL
+
+https://web.archive.org/web/20200422133851/https://new.shendetesia.gov.al/category/lajme/
 
 
 
@@ -74,17 +76,17 @@ https://new.shendetesia.gov.al/category/lajme/
  No violation of non-derogable rights. 
 
 *Sources*:
- https://ambalgeri.esteri.it/ambasciata_algeri/resource/doc/2020/03/decreto_dz_covid_19_-_21032020.pdf
+ https://perma.cc/UDY6-MGSS
 
-http://www.faf.dz/wp-content/uploads/2020/03/Journal-Officiel-n%C2%B016-Relatif-%C3%A0-la-Lutte-contre-le-COVID-19.pdf
+https://perma.cc/RW3B-Q9EK
 
-https://www.africalegalnetwork.com/algeria/news/algeria-sets-measures-to-mitigate-impact-of-covid-19-on-economy/
+https://perma.cc/L2LW-CR4L
 
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
+https://perma.cc/D787-U6YS
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/algeria/
+https://perma.cc/4KCQ-MT9L
 
-https://www.hrw.org/world-report/2021/country-chapters/algeria#fb21e4
+https://perma.cc/X82C-UK48
 
 
 
@@ -109,12 +111,19 @@ https://www.hrw.org/world-report/2021/country-chapters/algeria#fb21e4
  No evidence of non-derogable rights violation was found. According to the Presidental Decree nº 81/20, Article 3: "the effects of the present declaration of state of emergency are not extended, in any case, to the rights to life, personal integrity, personal identity, civil capacity and citizenship, the non-retroactivity of criminal law and the freedom of expression and information." (1) 
 
 *Sources*:
- https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
+ https://perma.cc/RU8R-PG78
 
-(1)
-https://www.amnesty.org/en/countries/africa/angola/
-https://www.hrw.org/africa/angola
-https://monitor.civicus.org/country/angola/
+
+
+
+
+https://perma.cc/EA8E-BN38
+
+
+
+
+
+https://perma.cc/7AJE-SB2K
 
 
 
@@ -140,9 +149,10 @@ https://monitor.civicus.org/country/angola/
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2021/03/26/argentina-abusive-covid-19-measures-northern-province
+https://perma.cc/BVK4-VWZY
+
 [2]
-http://hopkinshumanitarianhealth.org/news-events/chh-in-the-news/argentina-abusive-covid-19-measures-in-northern-province#panel1
+https://perma.cc/S8ZS-DZE5
 
 
 
@@ -167,10 +177,19 @@ http://hopkinshumanitarianhealth.org/news-events/chh-in-the-news/argentina-abusi
  No measures violating non-derogable rights found. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/armenia/
-https://www.hrw.org/europe/central-asia/armenia
+ https://perma.cc/XU27-598P
 
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+
+
+
+
+https://perma.cc/A6HL-KFML
+
+
+
+
+
+https://perma.cc/8R3P-VYR9
 
 
 
@@ -195,9 +214,12 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  Neither Human Rights Watch nor Amnesty International has reported any incidents of violations of non-derogable rights, and no other indication has been found that that has occurred in Australia's Covid-19 response. This is therefore coded as 0 for all periods. 
 
 *Sources*:
- https://humanrights.gov.au/our-work/commission-general/Covid-19-information
-https://www.hrw.org/asia/australia
-https://www.amnesty.org/en/search/?country=38345&resourceType=newsarticle&sort=date
+ https://perma.cc/594X-943T
+
+
+https://perma.cc/KJ5J-XYY6
+
+https://perma.cc/W9ZL-M2EY
 
 
 
@@ -222,11 +244,31 @@ https://www.amnesty.org/en/search/?country=38345&resourceType=newsarticle&sort=d
  Neither the EU agency for fundamental rights, Human Rights Watch or Amnesty international has reported any incidents of violations of non-derogable rights, and no other indication has been found that that has occurred in Austria's Covid-19 response. This is therefore coded as 0 for all periods. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic-_may_2020.pdf
-https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2020_I_12/BGBLA_2020_I_12.pdfsig
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic_july_2020_.pdf
-https://www.hrw.org/news?country[]=9582
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+ https://perma.cc/3D33-4588
+
+
+
+
+
+https://perma.cc/4B57-2UC5
+
+
+
+
+
+https://perma.cc/MH95-9HC8
+
+
+
+
+
+https://perma.cc/GQX4-AHJQ
+
+
+
+
+
+https://perma.cc/8SS3-9G2F
 
 
 
@@ -255,10 +297,11 @@ https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%
 2) Human Rights Watch reports one alleged case of torture following detentions after 14 July 2020 protests, where some charges included violating Covid-19 rules. Since there is no clear link between covid-19-related allegations and torture, this is not coded. 
 
 *Sources*:
- https://koronavirusinfo.az/az
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+ https://perma.cc/9BQC-F2XU
+https://perma.cc/U682-QJ8N
 (1)
-https://www.hrw.org/news/2020/08/19/azerbaijan-relentless-crackdown-opposition
+
+https://perma.cc/Y5ZP-6WXF
 
 
 
@@ -283,10 +326,13 @@ https://www.hrw.org/news/2020/08/19/azerbaijan-relentless-crackdown-opposition
  I did not find any information related to this. 
 
 *Sources*:
- https://verfassungsblog.de/bangladeshs-unofficial-emergency-managing-the-covid-19-crisis-by-notifications/
+ https://perma.cc/ZYT2-NETS
 
 
-https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
+
+
+
+https://perma.cc/76V9-HYJH
 
 
 
@@ -311,10 +357,10 @@ https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
  No measures violating non-derogable rights found. There have been numberous documented cases of torture (Art 7 of the ICCPR) following the presidential elections in August 2020, which are not considered in the coding since it only captures incidents related to covid-19. 
 
 *Sources*:
- https://pravo.by/document/?guid=12551&p0=C22000171&p1=1
-https://www.amnesty.org/en/countries/europe-and-central-asia/belarus/
-https://www.hrw.org/europe/central-asia/belarus
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26199&LangID=E
+ https://perma.cc/UZ2B-H4VJ
+https://perma.cc/X9GE-CTS3
+https://perma.cc/MPA8-XLDG
+https://perma.cc/K2EB-DYW4
 
 
 
@@ -342,12 +388,11 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26199&LangID=E
 least 10 cases in which police ordered people to remove banners calling for “Justice for Adil” in the days after his death. The banners were hung on windows or the external facades of houses. Police told the press that local police regulations prohibit the display of banners on external facades. The order to remove the banners constitutes an unnecessary and arbitrary restriction of the right to freedom of expression.'' (1) 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
+ https://perma.cc/RS3F-V48N
 (1)
+https://perma.cc/ZUF5-KK9S
 
-https://www.amnesty.org/download/Documents/EUR1439192021ENGLISH.pdf
-
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=27052&LangID=E
+https://perma.cc/Y4TT-D9VE
 
 
 
@@ -372,13 +417,12 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=27052&LangID=E
  No evidence of violation of non-derogable rights was found. 
 
 *Sources*:
- https://www.gouv.bj/actualite/556/coronavirus-les-11-mesures-prises-par-le-conseil-extraordinaire-des-ministres-au-benin/
+ https://perma.cc/K4BL-4AAA
 
-https://www.gouv.bj/actualite/567/coronavirus---communique-gouvernement-propos-deux-nouvelles-mesures-prises/
+https://perma.cc/FZ4S-XXLN
+https://perma.cc/Q842-ZT9V
 
-https://www.gouv.bj/actualite/571/coronavirus---communique-ministre-interieur-sujet-cordon-sanitaire/
-
-https://www.amnesty.org/en/countries/africa/benin/report-benin/
+https://perma.cc/88DD-26LX
 (4)
 
 
@@ -405,11 +449,13 @@ https://www.amnesty.org/en/countries/africa/benin/report-benin/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/bolivia/
+https://perma.cc/V4LR-2KGY
+
 [2]
-https://www.hrw.org/americas/bolivia
+https://perma.cc/9QZR-RTTW
+
 [3]
-https://monitor.civicus.org/country/bolivia/
+https://perma.cc/X5NH-JGXJ
 
 
 
@@ -436,16 +482,18 @@ https://monitor.civicus.org/country/bolivia/
 No information found for Q2 2020, Q3 2020, Q1 2021, Q2 2021. 
 
 *Sources*:
- https://www.hrw.org/news/2021/01/21/bosnia-and-herzegovina-migrants-left-cold
+ https://perma.cc/7AYF-YYQA
 (1)
-https://news.un.org/en/story/2020/12/1080852
-https://balkaninsight.com/2020/12/23/bosnias-troubled-lipa-camp-set-alight-on-closure-day/
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-(2)
-https://www.coe.int/en/web/special-representative-secretary-general-migration-refugees/newsletter-december-2020/-/asset_publisher/cVKOAoroBOtI/content/commissioner-calls-bosnia-and-herzegovina-to-address-shortcomings-in-the-handling-of-migrants-and-asylum-seekers?_101_INSTANCE_cVKOAoroBOtI_viewMode=view/
-https://www.theguardian.com/global-development/2020/dec/23/fire-destroys-migrant-camp-bosnia-lipa
-https://www.bbc.com/news/world-europe-55427750
-https://www.bbc.com/news/world-europe-55497080
+
+https://perma.cc/Y8WU-DWHS
+https://perma.cc/M9Q8-7JFR
+https://perma.cc/59KS-EP8Y
+(4)
+
+https://perma.cc/9AEK-NGGU
+https://perma.cc/72US-86SW
+https://perma.cc/Q2ZS-LSNL
+https://perma.cc/LX3Z-HL73
 
 
 
@@ -471,22 +519,17 @@ https://www.bbc.com/news/world-europe-55497080
 
 *Sources*:
  [1]
-https://www.chr.up.ac.za/images/researchunits/litigagion/covid19_country_regulations/Botswana-Emergency_Powers_COVID-19_Regulations.pdf
-
+https://perma.cc/R3QU-BFCQ
 [2]
-www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-
+https://perma.cc/Z97J-LLW4
 [3]
-https://www.gov.bw/COVID-19
-
+https://perma.cc/8LZR-TQAB
 [4]
-https://minorityrights.org/?s=botswana
-
+https://perma.cc/4NW7-2NRG
 [5]
-https://www.hrw.org/africa/botswana
-
+https://perma.cc/W8Y6-4ZHA
 [6]
-https://www.amnesty.org/en/search/?country=38571&resourceType=newsarticle&sort=date
+https://perma.cc/YB3K-WEYZ
 
 
 
@@ -512,11 +555,11 @@ https://www.amnesty.org/en/search/?country=38571&resourceType=newsarticle&sort=d
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/brazil/
+https://perma.cc/78VX-PKX8
 [2]
-https://www.hrw.org/americas/brazil
+https://perma.cc/D7VM-8DQ5
 [3]
-https://monitor.civicus.org/country/brazil/
+https://perma.cc/D22Z-RBU2
 
 
 
@@ -541,7 +584,7 @@ https://monitor.civicus.org/country/brazil/
  No measures violating non-derogable rights found 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/bulgaria-report-covid-19-april-2020_en.pdf
+ https://perma.cc/MU4X-HNN3
 
 
 
@@ -567,17 +610,11 @@ https://monitor.civicus.org/country/brazil/
 No more evidence was found. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/burkina-faso/
-(1)
-
-http://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=6QkG1d%2FPPRiCAqhKb7yhsr[…]2FKU9JkoeDcTWWPIpCoePGBcMsRmFtoMu58pgnmzjyiyRGkPQekcPKtaaTG
-(2)
-
-https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
-
-https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
+ [1]	perma.cc/W2PG-5GR7
+[2]	perma.cc/HFW6-3TP6
+[3]	https://perma.cc/X9UQ-DMMN
+[4]	perma.cc/4KLQ-4SJV
+[5]	perma.cc/9MBV-T7XQ
 
 
 
@@ -602,13 +639,16 @@ https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
  While there are reports of violations of human rights in Myanmar, and especially so in the recent years, no evidence has been found of any violations of non-derogable rights in the Covid-19 emergency measures. After the coup on 2021-02-01 the violence and human rights abuse from the government has exacerbated, but as far as has been found this has not been in reference to any Covid-19 restrictions, but rather in relation to the state of emergency. Thus, while major human rights violations of non-derogable rights is ongoing in Myanmar, these are not related to the Covid-19 response. Thus, this is coded 0. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/29/pandemic-adds-new-threat-rohingyas-myanmar
+ https://perma.cc/A42D-269V
 
-https://www.hrw.org/news?country[]=9543
 
-https://www.amnesty.org/en/search/?country=38380&resourceType=newsarticle&sort=date
+https://perma.cc/8EW6-GY28
 
-https://www.refugeesinternational.org/reports/2020/5/27/myanmar-call-to-end-human-rights-abuses-and-accountability-for-covid-19
+
+https://perma.cc/U9Z9-UZ8H
+
+
+https://perma.cc/TX63-DXCD
 
 
 
@@ -634,19 +674,13 @@ https://www.refugeesinternational.org/reports/2020/5/27/myanmar-call-to-end-huma
  
 
 *Sources*:
- https://www.ohchr.org/Documents/Issues/Racism/COVID-19_and_Racial_Discrimination.pdf
-
-http://minisante.bi/?p=553http://minisante.bi/?p=569
-
-http://minisante.bi/wp-content/uploads/Communiqu%C3%A9-de-presse-sur-les-mesures-d%C3%A9j%C3%A0-prises-de-pr%C3%A9vention-Covid-19.pdf
-
-https://twitter.com/BurundiSecurity/status/1241045159636336641
-
-https://twitter.com/mspls_bdi/status/1241013386244169728
-
-https://www.hrw.org/news/2020/03/31/burundi-any-covid-19-cover-will-put-lives-risk
-
-https://www.hrw.org/world-report/2021/country-chapters/burundi
+ [1]	perma.cc/5XL5-LGXN
+[2]	perma.cc/77E2-AR7H
+[3]	perma.cc/33TU-3REX
+[4]	perma.cc/UXK7-VCP8
+[5]	perma.cc/4UPJ-WU4W
+[6]	perma.cc/MR4N-F6AL
+[7]	perma.cc/6W48-EZMJ
 
 
 
@@ -673,21 +707,22 @@ https://www.hrw.org/world-report/2021/country-chapters/burundi
 However, a draconian public order law has been drafted by the Cambodian government which could lead to non- derogable rights to be violated in the future. The proposed law would undermine a variety of freedoms. Examples include bans on wearing face masks indoors, restrictions on women’s attire in public, undermining the right to peaceful assembly. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Cambodia_2008.pdf?lang=en
+ https://perma.cc/2VJK-WXV2
 
 
-https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
-
-https://www.amnesty.org/en/latest/news/2020/08/cambodia-repressive-draft-public-order-law-targets-the-most-vulnerable-in-society/
+https://perma.cc/H3K8-WWJZ
 
 
-https://www.hrw.org/news/2020/08/13/civil-society-organizations-call-draft-law-public-order-be-immediately-discarded
+https://perma.cc/W99P-F2EL
 
 
-https://www.voacambodia.com/a/draft-public-order-law-looks-to-control-cambodians-behavior-and-activities/5502253.html
+https://perma.cc/4YXN-7A4S
 
 
-https://www.icj.org/cambodia-icj-and-64-organizations-call-for-immediate-withdrawal-of-draft-law-on-public-order/
+https://perma.cc/FJT4-RHRB
+
+
+https://perma.cc/LCF3-YNPE
 
 
 
@@ -713,22 +748,14 @@ https://www.icj.org/cambodia-icj-and-64-organizations-call-for-immediate-withdra
 These are not related to Covid-19 however. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cameroon/
-
-https://reliefweb.int/report/world/amnesty-international-report-202021-state-worlds-human-rights-enarru
-(2)
-
-https://www.ohchr.org/Documents/HRBodies/SP/COVID/NGOs/NationalObservatoryonESCRightsCameroon.pdf
-
-https://verfassungsblog.de/cameroons-fight-against-covid-19-an-ordinary-legal-framework-for-an-extraordinary-situation/
-
-https://www.prc.cm/en/multimedia/documents/8228-government-response-strategy-to-the-coronavirus-pandemic-covid-19
-
-https://www.spm.gov.cm/site/?q=fr/content/strategie-gouvernementale-de-riposte-face-la-pandemie-de-coronavirus-covid-19
-
-https://afrique.le360.ma/autres-pays/societe/2020/05/01/30417-cameroun-coronavirus-le-gouvernement-assouplit-les-mesures-restrictives-30417
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
+ [1]	perma.cc/KYL6-A4V6
+[2]	perma.cc/9MFA-RJ4Q
+[3]	perma.cc/5MSR-NUXN
+[4]	perma.cc/7CVY-6JKF
+[5]	perma.cc/3US7-ER4M
+[6]	perma.cc/VT89-6KT2
+[7]	perma.cc/N94P-MZD2
+[8]	perma.cc/EQX7-EN5D
 
 
 
@@ -753,12 +780,13 @@ https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
  Neither Human Rights Watch nor Amnesty International has reported any incidents of violations of non-derogable rights, and no other indication has been found of such violations in Canada's Covid-19 response. This is therefore coded as 0. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9511
+ https://perma.cc/NFL4-XJAL
 
-https://www.amnesty.org/en/search/?country=38279&resourceType=newsarticle&sort=date
 
-https://www.canada.ca/en/global-affairs/news/2020/04/human-rights-implications-of-Covid-19.html
- 
+https://perma.cc/P55J-FZSR
+
+
+https://perma.cc/X28W-BFJT
 
 
 
@@ -783,18 +811,12 @@ https://www.canada.ca/en/global-affairs/news/2020/04/human-rights-implications-o
  No violation of non-derogable rights in the context of Covid-19 measures. There are however many incidents of torture by the police and the military (1). 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/central-african-republic/
-(1)
-
-https://www.ascleiden.nl/content/ascl-blogs/crepin-marius-mouguia/covid-19-central-african-republic-respecting-barriers
-
-https://reliefweb.int/report/central-african-republic/car-violence-against-women-surging-amid-covid-19-pandemic-study
-
-https://www.ituc-africa.org/Management-of-the-COVID-19-crisis-in-Central-Africa.html
-
-https://www.centrafrique-presse.info/article/13898/rca-covid-19-message-a-la-nation-de-son-excellence-le-professeur-faustin-archange-touadera-president-de-la-republique-chef-de-letat
-
-https://www.amnesty.org/en/latest/news/2021/04/subsaharan-africa-the-devastating-impact-of-conflicts-compounded/
+ [1]	perma.cc/S3KV-F5F5
+[2]	perma.cc/A2DJ-MX4U
+[3]	perma.cc/NV6M-TYEW
+[4]	perma.cc/8QET-QKDH
+[5]	https://perma.cc/2KCV-45GS
+[6]	perma.cc/4BJ2-2DXC
 
 
 
@@ -819,15 +841,12 @@ https://www.amnesty.org/en/latest/news/2021/04/subsaharan-africa-the-devastating
  Nothing mentioned in the emergency measures, nor in reports on human rights violations. 
 
 *Sources*:
- https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
+ https://perma.cc/V2J5-TQ5G
+https://perma.cc/BHS3-MMLJ
+https://perma.cc/N7ZL-WNSB
+https://perma.cc/XFN8-GKY9
+https://perma.cc/RVZ9-TY9S
 
-https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/chad/
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
 
 
 
@@ -853,13 +872,13 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/chile/
+https://perma.cc/NJ6F-5G6K
 [2]
-https://www.hrw.org/americas/chile
+https://perma.cc/C3T6-746C
 [3]
-https://monitor.civicus.org/country/chile/
+https://perma.cc/3TF6-PN98
 [4]
-https://www.diariooficial.interior.gob.cl/publicaciones/2020/03/18/42607-B/01/1742691.pdf
+https://perma.cc/XZ4T-QJSR
 
 
 
@@ -884,20 +903,19 @@ https://www.diariooficial.interior.gob.cl/publicaciones/2020/03/18/42607-B/01/17
  People living in Urumqi in Xinjiang were physically locked into their homes from 18 July 2020 until September 2020. Social media accounts also show the front doors of some houses being sealed with metal bars to prevent residents from leaving their homes and breaching the quarantine regulations. Footage on social media suggest that people who attempted to leave their apartments were handcuffed to the rails in public streets during the lockdown. Detainees were subjected to torture-like treatment. One woman testifies to the Assocated Press that “...when she was detained at the height of China’s coronavirus outbreak, she was forced to drink a medicine that made her feel weak and nauseous. She and others in her cell had to strip naked once a week as guards hosed them and their cells down with disinfectant, she said.  ‘It was scalding,’ recounted the woman by phone from Xinjiang, declining to be named out of fear of retribution. ‘My hands were ruined, my skin was peeling.’ “ (1) Although the strict lockdown eased in later months, there is no evidence suggesting that the general treatment of citizens in the Xinjiang region, in relation to Covid-19, has improved in Q1 and Q2 of 2021. 
 
 *Sources*:
- https://apnews.com/article/c1e81496be87b9a289aefe7345479949
-(1)
+ https://perma.cc/7NVW-FXKP
 
 
-https://www.reuters.com/article/us-china-health-response/three-more-chinese-regions-lower-emergency-response-level-as-virus-threat-recedes-idUSKCN20K029
+https://perma.cc/8633-M28W
 
 
-http://constitutionnet.org/state-of-emergency
+https://perma.cc/NUP3-YNM3
 
-https://www.abc.net.au/news/2020-08-25/xinjiang-yell-from-balconies-over-strict-coronavirus-lockdown/12589440
 
-https://www.theguardian.com/world/2020/aug/25/xinjiang-residents-handcuffed-to-their-homes-in-covid-lockdown
+https://perma.cc/ZES9-LA8G
 
-https://www.nytimes.com/interactive/2019/11/16/world/asia/china-xinjiang-documents.html
+
+https://perma.cc/9E62-D4BU
 
 
 
@@ -923,11 +941,11 @@ https://www.nytimes.com/interactive/2019/11/16/world/asia/china-xinjiang-documen
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/colombia/
+https://perma.cc/EQQ4-FHWK
 [2]
-https://www.hrw.org/americas/colombia
+https://perma.cc/D8JJ-3VBU
 [3]
-https://monitor.civicus.org/country/colombia/
+https://perma.cc/6NHC-KUKB
 
 
 
@@ -953,11 +971,11 @@ https://monitor.civicus.org/country/colombia/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/search/?q=costa+rica
+https://perma.cc/S82U-TDLC
 [2]
-https://www.hrw.org/americas/costa-rica
+https://perma.cc/FG36-8G96
 [3]
-https://monitor.civicus.org/country/costa-rica/
+https://perma.cc/FG36-8G96
 
 
 
@@ -984,21 +1002,18 @@ https://monitor.civicus.org/country/costa-rica/
 There is no evidence that the attacks stopped in 2021 when reports from human rights watchdogs were published accusing Croatia of violations. Therefore, ndrights is coded as 1 in all the periods. 
 
 *Sources*:
- https://www.hrw.org/europe/central-asia/croatia
-https://www.borderviolence.eu/annual-torture-report-2020/
-
-https://www.amnesty.org/en/countries/europe-and-central-asia/croatia/report-croatia/
-https://www.ohchr.org/Documents/Issues/Migration/pushback/HumanRightsWatch_Submission.pdf
-https://balkaninsight.com/2021/04/07/human-rights-worsened-in-central-southeast-europe-in-pandemic-amnesty/
-https://www.theguardian.com/global-development/2020/may/28/they-made-crosses-on-our-heads-refugees-report-abuse-by-croatian-police
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25976&LangID=E
-https://www.amnesty.org/en/latest/news/2020/06/croatia-fresh-evidence-of-police-abuse-and-torture-of-migrants-and-asylumseekers/
-https://www.hrw.org/news/2020/10/29/violent-pushbacks-croatia-border-require-eu-action
-https://www.amnesty.org/en/latest/news/2020/06/croatia-prosecution-of-police-accused-of-beating-migrant-must-herald-end-of-cruel-practices-at-the-borders/
-https://www.amnesty.org/en/latest/news/2020/11/eu-inquiry-into-european-complicity-in-croatian-border-violence-against-migrants-and-refugees-significant/
-(2)
-https://www.theguardian.com/global-development/2020/oct/21/croatian-police-accused-of-sickening-assaults-on-migrants-on-balkans-trail-bosnia
-(1)
+ [1]	perma.cc/4J47-K7E3
+[2]	perma.cc/LGA8-XAGS
+[3]	https://perma.cc/L23D-M7Z4
+[4]	perma.cc/MDP8-NL99
+[5]	perma.cc/TAJ9-ABTL
+[6]	perma.cc/LCS8-W23P
+[7]	perma.cc/77V3-SNPW
+[8]	perma.cc/4N23-MQC2
+[9]	perma.cc/QBQ4-H6L3
+[10]	perma.cc/LFC8-LE7R
+[11]	perma.cc/X66U-347D
+[12]	perma.cc/5NXA-YZVS
 
 
 
@@ -1024,9 +1039,9 @@ https://www.theguardian.com/global-development/2020/oct/21/croatian-police-accus
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/cuba/
+https://perma.cc/NY77-EWB7
 [2]
-https://www.hrw.org/americas/cuba
+https://perma.cc/T9BJ-K74K
 
 
 
@@ -1051,13 +1066,12 @@ https://www.hrw.org/americas/cuba
  No measures violating non-derogable rights found. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/czech-republic/report-czech-republic/
-https://fra.europa.eu/sites/default/files/fra_uploads/czechia-report-covid-19-april-2020_en.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/cz_report_on_coronavirus_pandemic_july_2020.pdf
+ [1]	perma.cc/8YB3-JFR9
+[2]	perma.cc/A8FV-RE2F
+[3]	perma.cc/GQ56-TBDT
+[4]	https://perma.cc/J7UH-BULT
 
-
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B316%5D&covid19=1
-https://www.mvcr.cz/mvcren/article/state-of-emergency.aspx
+[5]	perma.cc/R5J9-3N9D
 
 
 
@@ -1082,17 +1096,13 @@ https://www.mvcr.cz/mvcren/article/state-of-emergency.aspx
  Nothing mentioned in the emergency measures, nor in reports on human rights violations. 
 
 *Sources*:
- http://www.leganet.cd/Legislation/JO/2020/Ordonnance%2024.03.2020.html
+ https://perma.cc/HT8M-LJYZ
+https://perma.cc/4TF2-BJMK
+https://perma.cc/PF6V-5F9K
+https://perma.cc/K4FZ-8PZE
+https://perma.cc/Y4PK-NMYV
 
-https://www.stopcoronavirusrdc.info/mesures-de-protection-contre-le-coronavirus
-
-https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-democratique-du-congo/
-
-https://www.constituteproject.org/constitution/Democratic_Republic_of_the_Congo_2011.pdf?lang=en
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/democratic-republic-of-the-congo/
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+https://perma.cc/RVZ9-TY9S
 
 
 
@@ -1117,14 +1127,22 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
  Neither the EU agency for fundamental rights, Human Rights Watch or Amnesty international has reported any incidents of violations of non-derogable rights, and no other indication has been found that that has occurred in Denmark's Covid-19 response. This is therefore coded as 0. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38444&resourceType=newsarticle&sort=date
+ https://perma.cc/7YC4-G2E5
 
-https://www.hrw.org/sitesearch?search=Denmark
 
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_july_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+https://perma.cc/E3BR-EFQJ
+
+
+https://perma.cc/YRX4-2DZQ
+
+
+https://perma.cc/UU72-Q653
+
+
+https://perma.cc/DX4L-ZCQB
+
+
+https://perma.cc/F2W6-HZGL
 
 
 
@@ -1150,11 +1168,11 @@ https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/dominican-republic/
+https://perma.cc/RSD6-RG5Y
 [2]
-https://www.hrw.org/americas/dominican-republic
+https://perma.cc/Q9RL-SSE8
 [3]
-https://monitor.civicus.org/country/dominican-republic/
+https://perma.cc/KB9U-KURC
 
 
 
@@ -1180,11 +1198,11 @@ https://monitor.civicus.org/country/dominican-republic/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/ecuador/
+https://perma.cc/GA4B-JNNR
 [2]
-https://www.hrw.org/americas/ecuador
+https://perma.cc/NRP5-8JQ7
 [3]
-https://monitor.civicus.org/country/ecuador/
+https://perma.cc/S6F3-LQTC
 
 
 
@@ -1209,17 +1227,19 @@ https://monitor.civicus.org/country/ecuador/
  The state of emergency which was enacted in Egypt in 2017 was extended in March 2020 with reference to Covid-19, and then renewed every three months in 2020 and the first half of 2021. The state of emergency has enabled large-scale abuse and torture which are widely documented. 
 
 *Sources*:
- https://www.loc.gov/law/foreign-news/article/egypt-president-declares-state-of-emergency-for-health-and-security-conditions/
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/egypt/#:~:text=Significant%20human%20rights%20issues%20included,and%20life%2Dthreatening%20prison%20conditions
-
-https://www.icj.org/wp-content/uploads/2018/09/Egypt-Return-to-State-of-Emergency-Advocacy-Analysis-brief-2018-ENG.pdf
+ https://perma.cc/VB4S-DMGL
 
 
-https://www.constituteproject.org/constitution/Egypt_2014.pdf
+https://perma.cc/Z98Z-TV9J
 
 
-https://timep.org/reports-briefings/timep-briefs/timep-brief-right-to-due-process-in-egypt/
+https://perma.cc/G7D7-2LRQ
+
+
+https://perma.cc/VN37-7Q54
+
+
+https://perma.cc/TJ3B-27FV
 
 
 
@@ -1245,17 +1265,27 @@ https://timep.org/reports-briefings/timep-briefs/timep-brief-right-to-due-proces
 
 *Sources*:
  [1]
-https://monitor.civicus.org/updates/2020/06/04/el-salvadors-disproportionate-measures-curb-covid-19-affect-fundamental-freedoms/
+https://perma.cc/A9A5-2TY5
+
+
 [2]
-https://monitor.civicus.org/updates/2020/04/07/el-salvadors-response-covid-19-has-excessively-restricted-fundamental-rights-say-csos/
+https://perma.cc/QFJ4-5AJZ
+
+
 [3]
-https://www.hrw.org/news/2020/04/17/el-salvador-president-defies-supreme-court
+https://perma.cc/RRN5-42NR
+
+
 [4]
-https://www.hrw.org/news/2020/04/29/el-salvador-inhumane-prison-lockdown-treatment
+https://perma.cc/B2QX-XD4B
+
+
 [5]
-https://www.washingtonpost.com/world/the_americas/el-salvador-prison-crackdown-nayib-bukele/2020/04/27/5d3cea4c-88c9-11ea-80df-d24b35a568ae_story.html
+https://perma.cc/Z8Z5-6HHQ
+
+
 [6]
-https://www.reuters.com/article/us-health-coronavirus-el-salvador-gangs/el-salvador-authorizes-use-of-lethal-force-against-gangs-idUSKCN22900R
+https://perma.cc/DB42-R99C
 
 
 
@@ -1280,10 +1310,10 @@ https://www.reuters.com/article/us-health-coronavirus-el-salvador-gangs/el-salva
  Due to lockdown, prisoners faced even worse conditions without even access to basic things like soap and supplementary food, which their families used to bring them.  As reducing the inmates' access to soap and supplementary food is not part of the emergency measures, but rather an indirect consequence of them, this is coded 0. 
 
 *Sources*:
- https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-https://www.amnesty.org/en/latest/news/2020/05/eritrea-detainees-in-overcrowded-and-unsanitary-conditions-defenceless-against-covid19/
-https://www.amnesty.de/informieren/amnesty-report/eritrea-2020
-https://www.hrw.org/world-report/2021/country-chapters/eritrea
+ [1]	perma.cc/4P8J-3Y2C
+[2]	perma.cc/TDJ5-DF2P
+[3]	perma.cc/BZ7N-SXGL
+[4]	perma.cc/4TN4-BUME
 
 
 
@@ -1309,11 +1339,11 @@ https://www.hrw.org/world-report/2021/country-chapters/eritrea
 
 *Sources*:
  [1]
-https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
+perma.cc/WAT6-8MGF
 [2]
-https://globalfreedomofexpression.columbia.edu/publications/ethiopian-council-of-ministers-regulation-for-the-implementation-of-the-state-of-emergency/
+perma.cc/8V9T-7BVC
 [3]
-https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110046/136731/F-912290884/ETH110046.pdf
+perma.cc/LZG7-CRTB
 
 
 
@@ -1338,13 +1368,16 @@ https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110046/136731/F-912290884/ETH1100
  Neither the EU agency for fundamental rights, Human Rights Watch or Amnesty international has reported any incidents of violations of non-derogable rights, and no other indication has been found that that has occurred in Finland's Covid-19 response. This is therefore coded as 0. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38449&resourceType=newsarticle&sort=date
-https://www.hrw.org/sitesearch?search=Finland
-https://verfassungsblog.de/finland-soft-measures-respect-for-the-rule-of-law-and-plenty-of-good-luck/
+ https://perma.cc/LZ79-3YPL
 
 
+https://perma.cc/3PAV-R4S4
 
-https://fra.europa.eu/sites/default/files/fra_uploads/fi_report_on_coronavirus_pandemic_july_2020.pdf
+
+https://perma.cc/N8EE-TKQF
+
+
+https://perma.cc/QKW2-6A26
 
 
 
@@ -1375,12 +1408,9 @@ https://fra.europa.eu/sites/default/files/fra_uploads/fi_report_on_coronavirus_p
 France continued to detain people in immigration detention centers during the pandemic despite calls in March 2020 from the French Ombudsperson and the General Controller for Prisons for their closure given the risks of contracting Covid-19 and the fact that deportations could not be carried out in a reasonable timeframe due to travel restrictions. In September 2020, the government announced it would use a detention center outside Paris for people who tested positive for the virus that causes Covid-19 while they awaited deportation.'' (6) 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-
-https://www.hrw.org/news/2020/05/15/france-end-discriminatory-police-checks-and-fines
-
-https://www.hrw.org/world-report/2021/country-chapters/france
-(3)
+ https://perma.cc/5GX8-MFDL
+https://perma.cc/55WU-JVDV
+https://perma.cc/XS4E-T92U
 
 
 
@@ -1405,11 +1435,13 @@ https://www.hrw.org/world-report/2021/country-chapters/france
  Nothing mentioned in the emergency measures, nor in reports on human rights violations 
 
 *Sources*:
- https://www.legigabon.com/etat-d-urgence-covid-19
+ perma.cc/E5HZ-8DEA
 
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gabon/
+perma.cc/4ZZ3-PZM2
+
+
+perma.cc/89V8-K938
 
 
 
@@ -1434,7 +1466,7 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gab
  No measures violating non-derogable rights found 
 
 *Sources*:
- https://matsne.gov.ge/en/document/view/4830372?publication=0
+ https://perma.cc/3U2Z-LL83
 
 
 
@@ -1459,11 +1491,16 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gab
  Neither the EU agency for fundamental rights, Human Rights Watch or Amnesty international has reported any incidents of violations of non-derogable rights, and no other indication has been found that that has occurred in Germany's Covid-19 response. This is therefore coded as 0. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9597
-https://www.amnesty.org/en/search/?country=38455&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_july_2020.pdf
- 
+ https://perma.cc/N78Q-QEQF
+
+
+https://perma.cc/A2WF-R8YX
+
+
+https://perma.cc/FW7Y-GFRK
+
+
+https://perma.cc/J8EH-VRHD
 
 
 
@@ -1489,13 +1526,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_p
 
 *Sources*:
  [1]
-https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
+perma.cc/SZ6L-34UW
 [2]
-https://www.amnesty.org/en/countries/africa/ghana/
+perma.cc/G2JF-CWPY
 [3]
-https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Act-2020-Act-1012.pdf.pdf
+perma.cc/3ZPE-CQNR
 [4]
-https://www.hrw.org/africa/ghana
+perma.cc/ZN3Y-TSUY
 
 
 
@@ -1529,33 +1566,29 @@ These developments have violated the freedom from torture and cruel/inhuman trea
 “The Human Rights Committee has also interpreted the International Covenant on Civil and Political Rights (ICCPR) to encompass the principle of non-refoulement. Article 7 of the ICCPR affirms that “[n]o one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.” As one legal commentator points out, the “prohibition on refoulement is inferred as a component of the absolute prohibition of torture as well as inhuman and degrading treatment.” (8; 1). 
 
 *Sources*:
- https://www.justsecurity.org/73593/covid-19-and-international-law-refugee-law-the-principle-of-non-refoulement/
+ perma.cc/YBT2-GFCP
 (1)
 
-https://www.justsecurity.org/72955/torture-by-rescue-asylum-seeker-pushbacks-in-the-aegean/
+
+perma.cc/QR88-88GE
 (2)
 
-https://www.nytimes.com/2020/08/14/world/europe/greece-migrants-abandoning-sea.html
+perma.cc/AM5E-CRSD
 (3)
 
-https://www.spiegel.de/consent-a-?targetUrl=https%3A%2F%2Fwww.spiegel.de%2Finternational%2Feurope%2Feu-border-agency-frontex-complicit-in-greek-refugee-pushback-campaign-a-4b6cba29-35a3-4d8c-a49f-a12daad450d7%3Futm_source%3Ddlvr.it%26utm_medium%3Dtwitter%23ref%3Drss&ref=https%3A%2F%2Fwww.justsecurity.org%2F
+perma.cc/F96K-9K8Q
 (4)
 
-https://www.hrw.org/news/2020/07/16/greece-investigate-pushbacks-collective-expulsions
+perma.cc/N5GU-XXSB
 (5)
-
-https://www.bbc.com/news/world-europe-51695468
+perma.cc/78PC-BKTY
 (6)
 
-https://www.infomigrants.net/en/post/24843/greece-asylum-service-reopens-after-11-week-pause
+perma.cc/YTG9-3QRV
 (7)
 
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2992709#:~:text=The%20cornerstone%20of%20refugee%20protection,may%20be%20submitted%20to%20torture
+perma.cc/75JN-WRWV
 (8)
-
-
-
-
 
 
 
@@ -1583,11 +1616,11 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2992709#:~:text=The%20corner
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/guatemala/
+perma.cc/6LZ5-4JJ3
 [2]
-https://www.hrw.org/americas/guatemala
+perma.cc/JF3A-EWKN
 [3]
-https://monitor.civicus.org/country/guatemala/
+perma.cc/PM8P-G9CG
 
 
 
@@ -1612,16 +1645,11 @@ https://monitor.civicus.org/country/guatemala/
  No evidence was found. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/guinea/
-(1)
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-(2)
-
-
-https://www.hrw.org/news/2020/04/29/guinea-respecting-rights-key-amid-covid-19-0
-
-http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
+ perma.cc/2AEA-AX5B
+perma.cc/38SV-7E26
+perma.cc/836N-STDF
+[4]
+https://web.archive.org/web/20200528181921/http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
 
 
 
@@ -1646,16 +1674,19 @@ http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de
  No evidence was found. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/haiti/
+ perma.cc/VS6E-7JM4
 
 
-https://lenouvelliste.com/article/216364/letat-durgence-sanitaire-renouvele-pour-deux-mois-supplementaires
+perma.cc/ZFW9-2MSW
 
-https://news.un.org/en/story/2020/05/1063612
 
-https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
+perma.cc/KV7V-7ML2
 
-https://www.haitilibre.com/article-30843-haiti-flash-decret-presidentiel-fixant-les-regles-generales-de-protection-de-la-population-face-au-covid-19.html
+
+perma.cc/2K6S-CSZK
+
+
+perma.cc/TE5Q-CKG6
 
 
 
@@ -1681,11 +1712,11 @@ https://www.haitilibre.com/article-30843-haiti-flash-decret-presidentiel-fixant-
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/honduras/
+perma.cc/Z9G8-PU6Z
 [2]
-https://www.hrw.org/americas/honduras
+perma.cc/W5PX-K3VM
 [3]
-https://monitor.civicus.org/country/honduras/
+perma.cc/Q66S-9C9J
 
 
 
@@ -1710,13 +1741,16 @@ https://monitor.civicus.org/country/honduras/
  While Hong Kong authorities have acted with repression in terms of many measures taken toward the pro-democracy movement and protests, especially under the National Security Law imposed by the Chinese government on June 30 2020, no evidence has been found of any violations of non-derogable rights in their Covid-19 measures, and this is therefore coded 0. Note also that the National Security law is not connected to the Covid-19 response. 
 
 *Sources*:
- https://www.globalasia.org/v15no2/focus/how-Covid-19-has-been-battering-human-rights-an-asia-pacific-perspective_rajiv-narayan
+ https://perma.cc/BKU9-MHE6
 
-https://www.hrw.org/news/2020/07/29/china-new-hong-kong-law-roadmap-repression
 
-https://www.amnesty.org/en/latest/news/2020/07/hong-kong-national-security-law-10-things-you-need-to-know/
+https://perma.cc/79X2-N49R
 
-https://www.hrw.org/news?tags[]=5629https://www.amnesty.org/en/search/?q=Hong+Kong&sort=date
+
+https://perma.cc/228Q-GMTJ
+
+
+https://perma.cc/S6PV-NNHZ
 
 
 
@@ -1741,11 +1775,10 @@ https://www.hrw.org/news?tags[]=5629https://www.amnesty.org/en/search/?q=Hong+Ko
  No measures violating non-derogable rights found. Note that according to OSCE report, "fake news" legislature in countries that implemented such laws (including Hungary) (see melim) can be problematic since "there may well be a legitimate concern about the deliberate and malicious spread of disinformation, such criminal provisions are unlikely to comply with the principle of specificity of criminal law enshrined in Article 15 of the ICCPR and Article 7 of the ECHR due to the inherent vagueness and ambiguity of the term “false information”. (1) 
 
 *Sources*:
- https://www.parlament.hu/irom41/09790/09790.pdf
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B310%5D&covid19=1
-
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26199&LangID=E
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+ https://perma.cc/J5NH-LGNR
+https://perma.cc/J7UH-BULT
+https://perma.cc/LHZ8-TTLF
+https://perma.cc/A9K7-7QFK
 (1)
 
 
@@ -1771,10 +1804,10 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  No evidence found of direct violations of non-derogable rights by the emergency measures. 
 
 *Sources*:
- 
-https://www.hrw.org/news/2020/06/30/deaths-custody-india-highlight-police-torture
+ https://perma.cc/PC7Q-8Q92
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/india/
+
+https://perma.cc/Y5DL-ARAC
 
 
 
@@ -1800,10 +1833,9 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/ind
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Indonesia_2002.pdf?lang=en
-
-
-[2]https://www.amnesty.org/download/Documents/ASA2122382020ENGLISH.PDF
+https://perma.cc/22UP-FPQM
+[2]
+https://perma.cc/CG8P-ZHTF
 
 
 
@@ -1828,13 +1860,25 @@ https://www.constituteproject.org/constitution/Indonesia_2002.pdf?lang=en
  No evidence has been found that Iran has violated non-derogable rights within its Covid-19 response. While there are continuing allegations of other aspects of human rights violations in Iran, none of this has been found to be related to the Covid-19 measures in any way. This is therefore coded 0. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9636
-https://www.amnesty.org/en/search/?q=&sort=date&country=38533
-https://www.amnesty.org/en/latest/news/2020/04/iran-prisoners-killed-by-security-forces-during-covid19-pandemic-protests/
-https://www.middleeasteye.net/news/coronavirus-iran-inmates-killed-jail-protests-amnesty
-https://www.reuters.com/article/us-health-coronavirus-iran/u-n-worried-about-iran-prisoners-amid-coronavirus-outbreak-idUSKBN21L2EG
-https://www.unhcr.org/news/briefing/2021/4/606c19ad4/120000-refugees-assisted-access-irans-health-insurance-scheme.html
- 
+ https://perma.cc/3TP8-MTA9
+
+
+https://perma.cc/2K7R-BTNM
+
+
+https://perma.cc/5LGB-XHRL
+
+
+https://perma.cc/LM2M-PUHV
+
+
+https://perma.cc/L674-GRT4
+
+
+https://perma.cc/J7HN-NVB7
+
+
+
 
 
 
@@ -1859,10 +1903,9 @@ https://www.unhcr.org/news/briefing/2021/4/606c19ad4/120000-refugees-assisted-ac
  No reports of violations of non-derogable rights in the governments response to Covid-19 has been found, and this is thus coded 0. 
 
 *Sources*:
- :
-https://www.hrw.org/news?country[]=9637
-https://www.amnesty.org/en/search/?country=38535&resourceType=newsarticle&sort=date
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/iraq/
+ https://perma.cc/S8P8-5T4K
+https://perma.cc/NCU5-CHDJ
+https://perma.cc/KBD8-VWGR
 
 
 
@@ -1887,10 +1930,16 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/ira
  No, there are no de jure violations of non-derogable rights in the emergency measures. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9602
-https://www.amnesty.org/en/search/?country=38464&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_pandemic_july_2020.pdf
-https://www.ihrec.ie/app/uploads/2021/02/Irelands-Emergency-Powers-During-the-Covid-19-Pandemic-25022021.pdf
+ https://perma.cc/6TJ6-TK3B
+
+
+https://perma.cc/PMG3-PPAM
+
+
+https://perma.cc/FB7E-BBMC
+
+
+https://perma.cc/5L5W-FQFM
 
 
 
@@ -1915,16 +1964,28 @@ https://www.ihrec.ie/app/uploads/2021/02/Irelands-Emergency-Powers-During-the-Co
  No violations of non-derogable rights have been found in the emergency response to Covid-19. While Israel are accused of violating numerous rights in their conflict with Palestine, these measures are previous to and not related to the Covid-19 response, and no specific elements of the emergency response has been found to violate any non-derogable rights in Israel. This is therefore coded as 0. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Israel_2013.pdf?lang=en
-https://www.gov.il/en/departments/news/25032020_01
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#I
-https://www.loc.gov/law/help/emergency-legislative-activities/israel.php
-https://www.garda.com/crisis24/news-alerts/325031/israelpalestinian-terr-prime-minister-declares-state-of-emergency-due-to-Covid-19-implements-domestic-restrictions-march-19-update-10
-https://www.garda.com/crisis24/news-alert-full-history/pX7cDbbneik6HZj4a/israelpalestinian-terr-el-al-suspends-all-flights-to-china-due-to-novel-coronavirus-january-30
+ https://perma.cc/X69Q-GF4F
 
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/israel-west-bank-and-gaza/
+https://perma.cc/3KBK-L6AW
+
+
+https://perma.cc/382P-CB9B
+
+
+https://perma.cc/2QRA-RUGT
+
+
+https://perma.cc/S3EV-TPJN
+
+
+https://perma.cc/W23U-39P3
+
+
+https://perma.cc/ZUJ7-5X3K
+
+
+https://perma.cc/3XA9-FE2N
 
 
 
@@ -1949,10 +2010,13 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/isr
  Neither the EU agency for fundamental rights, Human Rights Watch or Amnesty international has reported any incidents of violations of non-derogable rights, and no other indication has been found that that has occurred in Italy's Covid-19 response. This is therefore coded as 0. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9603
-https://www.amnesty.org/en/search/?country=38466&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/it_report_on_coronavirus_pandemic_may_2020.pdf
+ https://perma.cc/9UG4-JFLR
 
+
+https://perma.cc/KUA3-FDJD
+
+
+https://perma.cc/A9AX-GJTB
 
 
 
@@ -1977,15 +2041,20 @@ https://fra.europa.eu/sites/default/files/fra_uploads/it_report_on_coronavirus_p
  No evidence of violation of non-derogable rights was found. 
 
 *Sources*:
- http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
+ perma.cc/4GEP-RX3M
 
-https://www.bbc.com/news/topics/cywd23g0gpgt/ivory-coast
 
-https://www.jeuneafrique.com/914559/societe/coronavirus-la-cote-divoire-entre-deni-panique-et-restrictions/
 
-http://www.rfi.fr/fr/afrique/20200324-s%C3%A9n%C3%A9gal-cote-ivoire-etat-urgence-coronavirus-covid-19
+perma.cc/RD5B-H7MP
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cote-divoire/
+
+perma.cc/8YF4-Z4BK
+
+
+perma.cc/7T9B-J9VT
+
+
+perma.cc/8BRJ-6NSR
 
 
 
@@ -2011,21 +2080,21 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cot
 
 *Sources*:
  [1]
-https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
+perma.cc/8E73-QPHS
 [2]
-https://moj.gov.jm/sites/default/files/DRMA07.pdf
+perma.cc/68KK-KDGS
 [3]
-https://moj.gov.jm/sites/default/files/DRMA07A.pdf
+perma.cc/AP5X-73TB
 [4]
-https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
+perma.cc/KE4A-LBZS
 [5]
-https://moj.gov.jm/sites/default/files/DRMA07A.pdf
+perma.cc/AP5X-73TB
 [6]
-https://jis.gov.jm/media/2020/07/Disaster-Risk-Management-Enforcement-Measures-No.-10-Order-2020-July-15-2020-002.pdf
+perma.cc/99WB-8V99
 [7]
-https://www.amnesty.org/en/search/?country=38308&sort=date
+perma.cc/CE99-6ENX
 [8]
-https://www.hrw.org/americas/jamaica
+perma.cc/JE6Z-JV7Q
 
 
 
@@ -2050,9 +2119,10 @@ https://www.hrw.org/americas/jamaica
  There is no information of the emergency measures de-jure violating non-derogable rights as defined by the ICCPR through out all the time periods. 
 
 *Sources*:
- https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=424AC0000000031#223
+ https://perma.cc/AD83-7NX2
 
-https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instead-of-legal-penalty/
+
+https://perma.cc/Q9CJ-T9LA
 
 
 
@@ -2077,10 +2147,13 @@ https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instea
  Human Rights Watch and Amnesty International have not reported any violations of non-derogable rights within the response to Covid-19, and no other indications of such violations has been found. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/05/jordan-free-speech-threats-under-Covid-19-response
-https://www.amnesty.org/en/search/?country=38539&resourceType=newsarticle&sort=date
+ https://perma.cc/VPG9-GQUV
 
-https://www.hrw.org/world-report/2021/country-chapters/jordan
+
+https://perma.cc/DW2R-Z7HN
+
+
+https://perma.cc/5XJN-C2Z4
 
 
 
@@ -2107,15 +2180,18 @@ https://www.hrw.org/world-report/2021/country-chapters/jordan
 In March 2020, the apartment block of around a hundred people in the Kazakh city of Ust Kamenogorsk was welded shut and 14 days people living there could not leave the building. This likely violated Article 9 of ICCPR and is not included in the coding. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/06/central-asias-covid19/
-https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
-https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
-https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/kazakhstan/
+ https://perma.cc/Z558-CGW2
+https://perma.cc/J6YD-TXX9
+https://perma.cc/Z24B-6H2S
+https://perma.cc/U9PW-GP3L
+https://perma.cc/9J9B-32EU
 (1)
-http://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=6QkG1d%2FPPRiCAqhKb7yhsrdB0H1l5979OVGGB%2BWPAXjdnG1mwFFfPYGIlNfb%2F6T%2Fqwtc77%2FKU9JkoeDcTWWPIpCoePGBcMsRmFtoMu58pgnmzjyiyRGkPQekcPKtaaTG
-https://www.iphronline.org/wp-content/uploads/2020/07/REV-HUMAN-RIGHTS-IMPACT-ASSESSMENT-OF-THE-COVID-19-RESPONSE-IN-KAZAKHSTAN.pdf
+
+https://perma.cc/V3J7-FTKS
+https://perma.cc/Z48C-X5GG
 (2)
+
+
 
 
 
@@ -2140,19 +2216,14 @@ https://www.iphronline.org/wp-content/uploads/2020/07/REV-HUMAN-RIGHTS-IMPACT-AS
  Kenyan authorities have been accused of abusively and by force putting people with Covid-19 symptoms in quarantine in facilities that lacked proper sanitation, were crowded and confined, and did not provide people with personal protective equipment like face masks. This practice stopped in June 2020. 
 
 *Sources*:
- https://www.hrw.org/news/2020/07/31/kenya-stops-abusive-forced-quarantine-related-covid-19
+ https://perma.cc/JE8K-HLST
+https://perma.cc/P34B-GU8M
+https://perma.cc/9PKK-2LDW
+https://perma.cc/9PKK-2LDW
+https://web.archive.org/web/20201115060736/https://nhri.ohchr.org/EN/IHRS/TreatyBodies/Page%20Documents/Core%20Human%20Rights.pdf
 
-https://blog.petrieflom.law.harvard.edu/2020/05/21/kenya-global-responses-covid19/
-
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN36_2020.pdf
-
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN36_2020.pdf
-
-https://nhri.ohchr.org/EN/IHRS/TreatyBodies/Page%20Documents/Core%20Human%20Rights.pdf
-
-https://www.bowmanslaw.com/insights/dispute-resolution/newsletter-on-the-publication-of-the-public-health-prevention-control-and-suppression-of-covid-19-rules-2020-and-declaration-of-infected-areas-in-kenya/
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/kenya/
+https://perma.cc/D3UM-CNNY
+https://perma.cc/F85X-AFVL
 
 
 
@@ -2177,14 +2248,22 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/ken
  No reports of violations of non-derogable rights in the emergency measures has been found. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/campaigns/2020/04/covid19-makes-gulf-countries-abuse-of-migrant-workers-impossible-to-ignore/
-https://www.theguardian.com/world/2020/apr/19/migrant-workers-bear-brunt-of-coronavirus-pandemic-in-gulf
-https://www.hrw.org/sites/default/files/supporting_resources/jointletter_kuwaitigov_migrantworkers_covidprotections_eng.pdf
-https://www.hrw.org/news/2020/04/17/kuwait-protect-migrant-workers-during-pandemic
+ https://perma.cc/4GJF-9B5U
 
-https://www.amnesty.org/en/search/?country=38541&resourceType=newsarticle&sort=date
 
-https://www.hrw.org/middle-east/n-africa/kuwait
+https://perma.cc/698J-PWPM
+
+
+https://perma.cc/U76Q-98GR
+
+
+https://perma.cc/JZ3W-AMMM
+
+
+https://perma.cc/9QFQ-XKCS
+
+
+https://perma.cc/PQF8-5QZ3
 
 
 
@@ -2209,11 +2288,16 @@ https://www.hrw.org/middle-east/n-africa/kuwait
  According to Amnestry International, "On 6 April, in Karakol, Kyrgyzstan, the authorities welded shut the doors of an entire apartment block housing dozens of families, after one resident tested positive for COVID-19." (1) This likely violated Article 9 of ICCPR  and is therefore not included in the coding, 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/06/central-asias-covid19/
+ https://perma.cc/RL3D-XRGQ
 
-https://www.amnesty.org/en/latest/news/2020/04/eastern-europe-and-central-asia-human-rights-must-be-protected-during-covid19-pandemic/
-https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
-http://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=6QkG1d%2FPPRiCAqhKb7yhsrdB0H1l5979OVGGB%2BWPAXjdnG1mwFFfPYGIlNfb%2F6T%2Fqwtc77%2FKU9JkoeDcTWWPIpCoePGBcMsRmFtoMu58pgnmzjyiyRGkPQekcPKtaaTG
+
+https://perma.cc/GE7V-VPM6
+
+
+https://perma.cc/6ANB-J2P2
+
+
+https://perma.cc/YZ2C-NLQD
 
 
 
@@ -2238,10 +2322,13 @@ http://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=6QkG1d%2FPPRiCAqhKb
  Human Rights Watch and Amnesty International have not reported any violations of non-derogable rights within the response to Covid-19, and no other indications of such violations has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9554
-https://www.amnesty.org/en/search/?country=38369&resourceType=newsarticle&sort=date
+ https://perma.cc/XKQ3-E5HF
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/laos/
+
+https://perma.cc/2R79-TGBA
+
+
+https://perma.cc/8YZD-FQ3D
 
 
 
@@ -2266,12 +2353,16 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/lao
  Human Rights Watch and Amnesty International has not reported any violations of non-derogable rights in the emergency measures, and no other indications of this has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9641
+ https://perma.cc/DS7M-WVK4
 
-https://www.amnesty.org/en/search/?country=38543&resourceType=newsarticle&sort=date
 
-https://cpj.org/mideast/lebanon/
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/lebanon/
+https://perma.cc/KL9Z-2Z36
+
+
+https://perma.cc/5T4D-J7RC
+
+
+https://perma.cc/Y7AA-J62P
 
 
 
@@ -2296,17 +2387,34 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/leb
  During the state of emergency in March 2020, law enforcement had a “habit” of using torture when enforcing the emergency measures. No violation of non-derogable rights have been found in the Covid-19 emergency measures since April 2020. 
 
 *Sources*:
- https://monitor.civicus.org/country/lesotho/
-https://twitter.com/YourKayBol/status/1245720374698037248?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1245720374698037248%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fmonitor.civicus.org%2Fcountry%2Flesotho%2F
-http://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110076/136761/F-581418260/LSO110076.pdf
-https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
-https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
-https://www.garda.com/crisis24/news-alerts/327786/lesotho-authorities-announce-lockdown-and-entry-restrictions-due-to-covid-19-effective-march-30
-https://reports.unocha.org/en/country/southern-eastern-africa/card/OjrpqS6ae1/
-https://www.webbernew.com/uploads/SKM_45820110909370.pdf
+ https://perma.cc/3RNY-KLCN
 
-https://www.state.gov/wp-content/uploads/2021/03/LESOTHO-2020-HUMAN-RIGHTS-REPORT.pdf
+
+https://perma.cc/24WU-3WBH
+
+
+https://perma.cc/WHG4-SV4D
+
+
+https://perma.cc/95KE-P87M
+
+
+https://perma.cc/UR8R-AJMT
+
+
+https://perma.cc/SU5V-FQPG
+
+
+https://perma.cc/NJL7-7YMJ
+
+
+https://perma.cc/H5QW-GRUG
+
+
+https://perma.cc/YM8U-2TNW
+
+
+https://perma.cc/N552-TUYE
 
 
 
@@ -2331,10 +2439,13 @@ https://www.state.gov/wp-content/uploads/2021/03/LESOTHO-2020-HUMAN-RIGHTS-REPOR
  No emergency measures that de-jure violate non-derogable rights as defined by the ICCPR, was found. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/africa/liberia/
-https://www.hrw.org/africa/liberia
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/liberia/
- 
+ https://perma.cc/4K5J-KF8E
+
+
+https://perma.cc/TW5A-3FMM
+
+
+https://perma.cc/74JE-9J35
 
 
 
@@ -2359,7 +2470,10 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/lib
  No measures violating non-derogable rights found 
 
 *Sources*:
- https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8feb1a7658a111eaac56f6e40072e018?positionInSearchResults=31&searchModelUUID=e5efa5d2-b709-413d-b7ad-feece99aa238
+ [1]
+perma.cc/F3TN-U9AX
+[2]
+https://web.archive.org/web/20200428021611/http://koronastop.lrv.lt/en/quarantine-announced-throughout-the-territory-of-the-republic-of-lithuania-attached-resolution-1
 
 
 
@@ -2384,10 +2498,10 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/lib
  No evidence of violation of non derogable rights was found. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/madagascar/
+ https://perma.cc/X4JE-W7SP
 (1)
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+https://perma.cc/59KS-EP8Y
 (2)
 
 
@@ -2413,12 +2527,11 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
  No emergency measures that de-jure violate non-derogable rights as defined by the ICCPR, was found. 
 
 *Sources*:
- https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-2020-5-publication-document.pdf
-https://gazettes.africa/archive/mw/2020/mw-government-gazette-supplement-dated-2020-08-07-no-23A.pdf
-
-https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-https://www.amnesty.org/en/countries/africa/malawi/
-https://www.hrw.org/africa/malawi
+ [1]	https://perma.cc/QL9K-4JJA
+[2]	perma.cc/SF3K-TR9N
+[3]	perma.cc/3TH7-C6RT
+[4]	perma.cc/6FK5-4R8V
+[5]	perma.cc/Z7YQ-CA4S
 
 
 
@@ -2443,13 +2556,16 @@ https://www.hrw.org/africa/malawi
  No violations of non-derogable rights have been found in or in relation to the government response to Covid-19.It could be worth noting that Rohingyan refugees were sentenced to "three strokes of the cane" for seeking regufe in Malaysia, a physical punishment that Human Rights Watch claim constitutes torture under international human rights law. However, this sentece was never executed and subsequently revoked, and the Malaysian authorities have thus not conducted any violations of non-derogable rights in this case. Furthermore, no evidence has been found of any other instance where such rights was violated during and in relation to the pandemic. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/7TqZBkyuLyzLPQAyN/malaysia-first-cases-of-2019-ncov-confirmed-january-25
+ https://perma.cc/T73B-G95H
 
-https://www.acaps.org/covid19-government-measures-dataset
 
-https://www.hrw.org/news/2020/07/22/malaysia-stop-treating-rohingya-refugees-criminals
+https://perma.cc/9D77-96TG
 
-https://www.amnesty.org/en/latest/news/2020/07/malaysia-court-ruling-against-whipping-must-be-first-step-toward-protecting-rohingya-refugees/
+
+https://perma.cc/5UUV-CVBA
+
+
+https://perma.cc/5J7V-YP4L
 
 
 
@@ -2474,15 +2590,17 @@ https://www.amnesty.org/en/latest/news/2020/07/malaysia-court-ruling-against-whi
  No evidence was found. 
 
 *Sources*:
- https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
+ https://perma.cc/ZK87-U7MH
+(1)
 
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars-2020-2128
-
-https://www.lepoint.fr/afrique/mali-le-covid-19-en-etau-entre-pouvoir-civil-et-pouvoir-religieux-13-05-2020-2375300_3826.php#
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mali/
+https://perma.cc/N7ZL-WNSB
+(2)
+https://perma.cc/47NA-CPPS
+(3)
+https://perma.cc/4YMH-BAE7
+(4)
+https://perma.cc/8FVG-KU89
+(5)
 
 
 
@@ -2507,19 +2625,28 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mal
  No violation of non-derogable rights. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mauritania/
+ perma.cc/7J2H-8824
 
-https://mr.usembassy.gov/covid-19-information-2/
 
-https://www.antislavery.org/mauritania-lockdown-helping-the-most-vulnerable/
+perma.cc/RP6Q-AJN2
 
-https://www.africanews.com/2020/03/21/covid-19-mauritania-enforces-curfew/
 
-http://fr.ami.mr/Recherche-9
+perma.cc/98NW-R44X
 
-http://fr.ami.mr/Depeche-52875.html
 
-https://unpo.org/article/21867
+perma.cc/6URG-9PBR
+
+
+perma.cc/F23M-LWJT
+
+
+perma.cc/5R6D-T48U
+
+
+perma.cc/X4TJ-KLMH
+
+
+
 
 
 
@@ -2545,11 +2672,11 @@ https://unpo.org/article/21867
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/mexico/
+perma.cc/5CLQ-V6XY
 [2]
-https://www.hrw.org/americas/mexico
+perma.cc/EQW7-PLZZ
 [3]
-https://monitor.civicus.org/country/mexico/
+perma.cc/V9LK-WX87
 
 
 
@@ -2574,9 +2701,9 @@ https://monitor.civicus.org/country/mexico/
  No measures violating non-derogable rights found 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/moldova/
-https://www.hrw.org/sitesearch?search=moldova
-https://gov.md/sites/default/files/rasporyazhenie_no_1_ot_18_marta_2020_g._komissii_po_chrezvychaynym_situaciyam_respubliki_moldova.pdf
+ https://perma.cc/SN9G-KTMF
+https://perma.cc/F6SH-VA62
+https://perma.cc/CMX5-9KEL
 
 
 
@@ -2601,9 +2728,10 @@ https://gov.md/sites/default/files/rasporyazhenie_no_1_ot_18_marta_2020_g._komis
  Human Rights Watch and Amnesty International have not reported any violations of non-derogable rights within the response to Covid-19, and no other indications of such violations has been found. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38378&resourceType=newsarticle&sort=date
+ https://perma.cc/M3EK-8J6F
 
-https://www.hrw.org/sitesearch?search=Mongolia
+
+https://perma.cc/BWJ3-NEDS
 
 
 
@@ -2628,11 +2756,9 @@ https://www.hrw.org/sitesearch?search=Mongolia
  No evidence was found. 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/morocco/
-
-https://www.amnesty.org/en/latest/news/2020/06/morocco-and-western-sahara-end-prosecution-of-activists-under-new-health-emergency-law/
+ https://perma.cc/59KS-EP8Y
+https://perma.cc/HM3B-Y292
+https://perma.cc/JJ6N-URMG
 
 
 
@@ -2657,12 +2783,11 @@ https://www.amnesty.org/en/latest/news/2020/06/morocco-and-western-sahara-end-pr
  No evidence of non-derogable rights violation was found. According to the Constitution, Art. 286: "The declaration of a state of siege or emergency may in no case limit or suspend the rights to life, personal integrity, civil capacity and citizenship, non-retroactivity of criminal law, the right of defense of defendants and freedom of religion".  (1) 
 
 *Sources*:
- https://www.dw.com/pt-002/amnistia-internacional-pandemia-fez-aumentar-viola%C3%A7%C3%B5es-aos-direitos-humanos/a-57124133
-https://www.stj.pt/wp-content/uploads/2018/01/mocambique_constituicao.pdf
-(1)
-https://www.amnesty.org/en/countries/africa/mozambique/
-https://www.hrw.org/africa/mozambique
-https://monitor.civicus.org/country/mozambique/
+ [1]	perma.cc/FA3Q-ENSB
+[2]	perma.cc/T74A-A8RZ
+[3]	perma.cc/WSY8-75F6
+[4]	perma.cc/EVU6-NZ7G
+[5]	perma.cc/X62B-ZSMA
 
 
 
@@ -2688,13 +2813,13 @@ https://monitor.civicus.org/country/mozambique/
 
 *Sources*:
  [1]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/namibia/
+https://perma.cc/678F-ND5T
 [2]
-https://www.amnesty.org/en/countries/africa/namibia/
+https://perma.cc/3N49-6FW9
 [3]
-https://www.hrw.org/africa/namibia
+https://perma.cc/J73W-TSXV
 [4]
-https://datastudio.google.com/u/0/reporting/1sHT8quopdfavCvSDk7t-zvqKIS0Ljiu0/page/dHMKB
+https://perma.cc/FKJ3-S727
 
 
 
@@ -2719,10 +2844,10 @@ https://datastudio.google.com/u/0/reporting/1sHT8quopdfavCvSDk7t-zvqKIS0Ljiu0/pa
  No violations of non-derogable rights have been found in or in relation to the government response to Covid-19 across all the time periods. 
 
 *Sources*:
- https://www.hrw.org/asia/nepal
+ https://perma.cc/C58D-G7RQ
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/nepal/
+https://perma.cc/S286-C5UT
 
 
 
@@ -2747,16 +2872,22 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/nepal/
  Neither the EU agency for fundamental rights, Human Rights Watch or Amnesty international has reported any incidents of violations of non-derogable rights, and no other indication has been found that that has occurred in  Netherlands's Covid-19 response. This is therefore coded as 0. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9614
-
-https://www.amnesty.org/en/search/?country=38487&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_july_2020.pdf
+ https://perma.cc/7TZR-6QSK
 
 
+https://perma.cc/9VB7-CTZC
 
 
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_november_2020.pdf
+https://perma.cc/MH6E-C2F4
+
+
+https://perma.cc/2ZKB-GCD8
+
+
+
+
+
+https://perma.cc/M4FJ-EHYU
 
 
 
@@ -2781,7 +2912,7 @@ https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_p
  Amnesty International have not reported any violations of non-derogable rights within the response to Covid-19, and no other indications of such violations has been found. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38387&resourceType=newsarticle&sort=date
+ [1]	perma.cc/UV3L-KA99
 
 
 
@@ -2807,17 +2938,17 @@ https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_p
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3
 
 
 
@@ -2842,17 +2973,12 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
  No violation of non-derogable rights. 
 
 *Sources*:
- https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7eceb715eff3354ca7e9b9/1585368760730/MESSAGE+A+LA+NATION+DU+PRESIDENT+DE+LA+REPUBLIQUE+SUR+LA+SITUATION+DE+LA+PANDEMIE+DU+CORONAVIRUS+%28COVID-19%29+27+03+2020.pdf
-
-https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-
-https://www.amnesty.org/en/latest/news/2020/03/niger-societe-civile-demandent-un-terme/
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/niger/
+ https://perma.cc/7ASB-G2MP
+https://perma.cc/ZK87-U7MH
+https://perma.cc/FN77-877L
+https://perma.cc/N7ZL-WNSB
+https://perma.cc/59KS-EP8Y
+https://perma.cc/4CLT-SPWP
 
 
 
@@ -2877,12 +3003,12 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/nig
  No evidence was found that any of the emergency measures de-jure violated non-derogable rights as defined by the ICCPR. 
 
 *Sources*:
- https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-https://www.hrw.org/africa/nigeria
-https://www.amnesty.org/en/search/?country=38624&resourceType=newsarticle&sort=date
-https://www.bbc.co.uk/news/topics/c50znx8v132t/nigeria
-https://pwcnigeria.typepad.com/files/fg-covid-19-regualtions-1.pdf
-https://verfassungsblog.de/nigerias-emergency-legal-response-to-covid-19-a-worthy-sacrifice-for-public-health/
+ [1]	perma.cc/XQ4Z-5AW4
+[2]	perma.cc/B72B-JZB7
+[3]	perma.cc/XMQ4-MCSJ
+[4]	perma.cc/8HAX-HVBN
+[5]	perma.cc/5UED-W53V
+[6]	perma.cc/3TST-FPKP
 
 
 
@@ -2907,7 +3033,7 @@ https://verfassungsblog.de/nigerias-emergency-legal-response-to-covid-19-a-worth
  There is no information of the emergency measures de-jure violating non-derogable rights as defined by the ICCPR across all the time periods. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Peoples_Republic_of_Korea_1998.pdf
+ https://perma.cc/87UC-5489
 
 
 
@@ -2932,10 +3058,10 @@ https://verfassungsblog.de/nigerias-emergency-legal-response-to-covid-19-a-worth
  No measures violating non-derogable rights found related to COVID-19. 
 
 *Sources*:
- https://vlada.mk/covid19
-https://www.amnesty.org/en/countries/europe-and-central-asia/north-macedonia/
-https://cpj.org/europe/north-macedonia/
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/north-macedonia/
+ [1]	perma.cc/33MS-DAVW
+[2]	perma.cc/9ZJM-6GQU
+[3]	perma.cc/X2L2-BQDC
+[4]	perma.cc/5JQ7-EBAT
 
 
 
@@ -2960,8 +3086,10 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/nor
  Amnesty International have not reported any violations of non-derogable rights within the response to Covid-19, and no other indications of such violations has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9615
-https://www.amnesty.org/en/countries/europe-and-central-asia/norway/
+ https://perma.cc/5SHL-G499
+
+
+https://perma.cc/6UQF-MTH6
 
 
 
@@ -2987,11 +3115,11 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/norway/
 
 *Sources*:
  [1]
-https://www.hrw.org/middle-east/n-africa/oman
+perma.cc/5YM2-KK4V
 [2]
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/oman/
+perma.cc/X285-EDEU
 [3]
-https://monitor.civicus.org/country/oman/
+perma.cc/DM98-NF22
 [4]
 https://omannews.gov.om/NewsDescription/ArtMID/392/ArticleID/10389/Supreme-Committee-Takes-More-Decisions-on-Covid-19-Pandemic
 
@@ -3020,15 +3148,9 @@ https://omannews.gov.om/NewsDescription/ArtMID/392/ArticleID/10389/Supreme-Commi
 I did not find evidence of the emergency measures violating non-derogable rights as defined by the ICCPR in Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.ucanews.com/news/activists-slam-punjabs-discriminatory-policy-on-prayers/87491
-
-
-https://www.arabnews.pk/node/1676101/pakistan.
-
-
-https://www.arabnews.pk/node/1676101/pakistan
-
-https://ipi.media/alerts/two-pakistani-journalists-allegedly-tortured-by-paramilitary-force-for-coronavirus-coverage/
+ https://perma.cc/APM7-W5QY
+https://perma.cc/4W4H-WJYH
+https://perma.cc/LS2D-JP5E
 
 
 
@@ -3053,9 +3175,9 @@ https://ipi.media/alerts/two-pakistani-journalists-allegedly-tortured-by-paramil
  No evidence of non-derogable rights violation was found. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/americas/panama/
-https://www.hrw.org/americas/panama
-https://monitor.civicus.org/country/panama/
+ [1]	perma.cc/9QRM-XVD4
+[2]	perma.cc/NZQ5-NZGT
+[3]	perma.cc/2DUR-J54U
 
 
 
@@ -3080,10 +3202,13 @@ https://monitor.civicus.org/country/panama/
  No reports on violations of non-derogable rights have been found, and there are no indications of such occurences in the PNG response to Covid-19. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9566
-https://www.amnesty.org/en/search/?country=38395&resourceType=newsarticle&sort=date
+ https://perma.cc/9SHT-B4DG
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/papua-new-guinea/
+
+https://perma.cc/QT7W-7NS5
+
+
+https://perma.cc/AM5Z-QHJY
 
 
 
@@ -3109,11 +3234,11 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/pap
 
 *Sources*:
  [1]
-https://www.hrw.org/americas/paraguay
+perma.cc/9LG9-9QTD
 [2]
-https://www.amnesty.org/en/countries/americas/paraguay/
+perma.cc/LQ95-8YCH
 [3]
-https://monitor.civicus.org/country/paraguay/
+perma.cc/Y86D-KYWX
 
 
 
@@ -3139,11 +3264,11 @@ https://monitor.civicus.org/country/paraguay/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/peru/
+perma.cc/56F4-J8G5
 [2]
-https://www.hrw.org/americas/peru
+perma.cc/Y8KX-3UQZ
 [3]
-https://monitor.civicus.org/updates/?country=63&status=&date_0=&date_1=
+perma.cc/DZ74-6JC3
 
 
 
@@ -3180,18 +3305,11 @@ https://monitor.civicus.org/updates/?country=63&status=&date_0=&date_1=
 6: In April 2021, a man died performing punishment as dictated by officers after he was caught breaking the quarantine rules. He was made to do 300 squat-like exercises. He was reported to have been in pain and struggled to move after getting back home and died shortly after. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/03/philippine-children-face-abuse-violating-covid-19-curfew
-
-
-https://gulfnews.com/world/asia/philippines/duterte-to-philippine-police-shoot-dead-coronavirus-lockdown-troublemakers-1.1585816367011
-
-
-https://www.businessinsider.com/philippines-police-arrested-people-for-breaching-lockdown-2020-7?r=US&IR=T
-
-
-https://www.amnesty.org/en/latest/news/2020/04/philippines-president-duterte-shoot-to-kill-order-pandemic/
-
-https://www.bbc.com/news/world-asia-56641398
+ https://perma.cc/74NC-EJGA
+https://perma.cc/SS9Q-CUSE
+https://perma.cc/Y7B9-XV9G
+https://perma.cc/2D73-RCVB
+https://perma.cc/QV98-ENUR
 
 
 
@@ -3216,9 +3334,13 @@ https://www.bbc.com/news/world-asia-56641398
  No measures violating non-derogable rights found 
 
 *Sources*:
- https://www.gov.pl/web/koronawirus
-https://www.hrw.org/europe/central-asia/poland
-https://www.amnesty.org/en/countries/europe-and-central-asia/poland/
+ https://perma.cc/P36J-DSLA
+
+
+https://perma.cc/682N-3P9E
+
+
+https://perma.cc/7E6C-NR9J
 
 
 
@@ -3244,11 +3366,11 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/poland/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/europe-and-central-asia/portugal/
+perma.cc/9VRE-7D9N
 [2]
-https://www.hrw.org/europe/central-asia/portugal
+perma.cc/YB9Z-HRJY
 [3]
-https://monitor.civicus.org/country/portugal/
+perma.cc/3N7S-HFW9
 
 
 
@@ -3273,21 +3395,28 @@ https://monitor.civicus.org/country/portugal/
  No measures violating non-derogable rights found 
 
 *Sources*:
- https://www.gco.gov.qa/en/2020/03/12/government-communications-office-statement-regarding-measures-taken-by-the-state-of-qatar-to-combat-coronavirus-Covid-19/
+ https://perma.cc/SQ9F-NLCK
 
-https://www.garda.com/crisis24/news-alerts/328506/qatar-domestic-restrictions-extended-april-1-update-15
 
-https://www.garda.com/crisis24/news-alerts/324061/qatar-domestic-restrictions-implemented-march-16-update-14
+https://perma.cc/SLR4-6RPG
 
-https://www.hrw.org/world-report/2021/country-chapters/qatar
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+https://perma.cc/PF4F-MQ8A
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qatar/
 
-https://www.amnesty.org/en/search/?country=38553&resourceType=newsarticle&sort=date
+https://perma.cc/KH26-VPMR
 
-https://www.hrw.org/news?country%5B%5D=9646
+
+https://perma.cc/8MQ3-9DAD
+
+
+https://perma.cc/4224-78GH
+
+
+https://perma.cc/6SM2-AQ36
+
+
+https://perma.cc/S8F2-6FCN
 
 
 
@@ -3315,15 +3444,19 @@ However, the congolese government were refusing medical evacuation to the Congol
  
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/republic-of-the-congo/
+ https://perma.cc/3ABJ-CQU7
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+(1)
+https://perma.cc/59KS-EP8Y
 (2)
-
-https://www.lemonde.fr/afrique/article/2020/07/03/congo-brazzaville-l-opposant-jean-marie-michel-mokoko-hospitalise-sa-defense-exige-sa-liberation_6045048_3212.html
-https://fr.africanews.com/2020/07/21/coronavirus-en-afrique-l-essentiel-de-la-situation/
-https://www.africanews.com/2020/07/30/ivory-coast-ouattara-names-new-prime-minister-but-declines-to-confirm-election-bid//
-https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
+https://perma.cc/W8KB-FXP8
+(3)
+https://perma.cc/2WZR-5WFX
+(4)
+https://perma.cc/2BDD-6T92
+(5)
+https://perma.cc/U7UH-7UKT
+(6)
 
 
 
@@ -3348,13 +3481,19 @@ https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgenc
  No measures violating non-derogable rights found. Note that according to OSCE report, "fake news" legislature in countries that implemented such laws (including Romania) can be problematic since "there may well be a legitimate concern about the deliberate and malicious spread of disinformation, such criminal provisions are unlikely to comply with the principle of specificity of criminal law enshrined in Article 15 of the ICCPR and Article 7 of the ECHR due to the inherent vagueness and ambiguity of the term “false information”. 
 
 *Sources*:
- https://rm.coe.int/09000016809cee30
-https://fra.europa.eu/sites/default/files/fra_uploads/romania-report-covid-19-april-2020_en.pdf
+ https://perma.cc/22WM-46FJ
 
-https://www.amnesty.org/en/search/?q=&sort=date&country=38495&resourceType=newsarticle
-https://www.hrw.org/europe/central-asia/romania
 
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+https://perma.cc/S85V-MG7P
+
+
+https://perma.cc/9D9K-8VQH
+
+
+https://perma.cc/F5FX-N22V
+
+
+https://perma.cc/9XJ6-X3WD
 
 
 
@@ -3379,11 +3518,12 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  No measures violating non-derogable rights.  Note that according to OSCE report, "fake news" legislature in countries that implemented such laws (including Russia) can be problematic since "there may well be a legitimate concern about the deliberate and malicious spread of disinformation, such criminal provisions are unlikely to comply with the principle of specificity of criminal law enshrined in Article 15 of the ICCPR and Article 7 of the ECHR due to the inherent vagueness and ambiguity of the term “false information”. (1) 
 
 *Sources*:
- http://kremlin.ru/events/president/news/63065
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+ https://perma.cc/XQU2-MFSF
+https://perma.cc/3Z4X-QKWH
 (1)
-https://www.amnesty.org/en/search/?country=38497
-https://www.hrw.org/europe/central-asia/russia
+
+https://perma.cc/FE5K-VGT3
+https://perma.cc/Q892-HMPM
 
 
 
@@ -3408,15 +3548,19 @@ https://www.hrw.org/europe/central-asia/russia
  No violation of non-derogable rights. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/rwanda/
+ perma.cc/N7SY-W6BT
 
-https://www.poverty-action.org/blog/reach-covid-19-crisis-rwanda-lessons-recovr-survey
 
-https://www.rbc.gov.rw/fileadmin/user_upload/annoucement/GoR-MOH%20statement%20final.pdf
+perma.cc/424V-K8ET
 
-https://www.theigc.org/blog/rwandas-response-to-covid-19-and-future-challenges/
 
-https://www.hrw.org/world-report/2021/country-chapters/rwanda#12ffb1
+perma.cc/5RQR-UQZ7
+
+
+perma.cc/728N-MWKE
+
+
+perma.cc/HP7P-HHXX
 
 
 
@@ -3441,28 +3585,17 @@ https://www.hrw.org/world-report/2021/country-chapters/rwanda#12ffb1
  Saudi Arabia has both deported migrant workers and put large numbers of them in detention centers since April 2020 as part of their Covid-19 response, arguing that they as a group spread the disease. The treatment these people are subject to in the detention centers are clearly inhuman and cruel (a violation of a non-derogable right), and they have not been given trials or any right to appeal, possibly also violating their right as a person before the law (another non-derogable right). The detention centers for instance reportedly had no access to clean water and sanitation, no access to health care and migrants were subject to violence and torture by guards. Saudi Arabia faced massive criticism from this, for example by the European Parliament, and eventually started repatriating migrants from these centers to Ethiopia in late January 2021. However, far from all had been repatriated at that time, and no evidence has been found that all have now been repatriated and that these Covid-19 detention centers are no longer in force. Thus, lacking confirmation that this has entirely ended by time of Q2 of 2021 (or time of coding), this is coded 1 for all periods. 
 
 *Sources*:
- https://www.uncdf.org/article/5528/ethiopian-government-on-the-forefront-of-Covid-19
-
-https://www.amnesty.org/en/latest/campaigns/2020/04/covid19-makes-gulf-countries-abuse-of-migrant-workers-impossible-to-ignore/
-
-https://www.reuters.com/article/us-health-coronavirus-ethiopia-migrants/u-n-says-saudi-deportations-of-ethiopian-migrants-risks-spreading-coronavirus-idUSKCN21V1OT
-
-https://www.hrw.org/news/2020/08/13/yemen-houthis-kill-expel-ethiopian-migrants
-
-https://www.telegraph.co.uk/global-health/climate-and-people/investigation-african-migrants-left-die-saudi-arabias-hellish/
-
-https://www.theguardian.com/global-development/2020/aug/04/we-drink-from-the-toilet-migrants-tell-of-hellish-saudi-detention-centres
-
-https://idcoalition.org/wp-content/uploads/2020/10/COVID-19-Impacts-on-Immigration-Detention-Global-Responses-2020.pdf
-
-https://www.amnesty.org/en/latest/news/2020/10/ethiopian-migrants-hellish-detention-in-saudi-arabia/
-
-
-https://www.business-humanrights.org/en/latest-news/eu-parliament-condemns-human-rights-abuses-in-saudi-migrant-camps-after-telegraph-investigation/
-
-https://www.telegraph.co.uk/global-health/climate-and-people/first-migrants-released-saudi-detention-centres-arrive-home/
-
-https://www.hrw.org/news/2021/03/01/saudi-arabia-repatriates-hundreds-detained-ethiopians
+ https://perma.cc/3DHY-KGKD
+https://perma.cc/7T9F-DUWP
+https://perma.cc/2643-2MCA
+https://perma.cc/2FVS-75PW
+https://perma.cc/J2HG-83G5
+https://perma.cc/ECT2-CZTP
+https://perma.cc/6S4G-Y4FP
+https://perma.cc/CR9F-YPNK
+https://perma.cc/Y4RD-BXDV
+https://perma.cc/H6ZH-CKNB
+https://perma.cc/ES6W-R4EA
 
 
 
@@ -3487,13 +3620,16 @@ https://www.hrw.org/news/2021/03/01/saudi-arabia-repatriates-hundreds-detained-e
  No violation of non-derogable rights. 
 
 *Sources*:
- http://www.sante.gouv.sn/Actualites/covid-19-les-decisions-de-son-execellence-monsieur-macky-sall-president-de-la-republique
+ perma.cc/FS4Q-7AGK
 
-https://www.acaps.org/covid19-government-measures-dataseth
 
-ttps://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
+perma.cc/QV69-SKWE
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/senegal/
+
+perma.cc/3KU4-LNR9
+
+
+perma.cc/FND8-L3NN
 
 
 
@@ -3518,7 +3654,7 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/sen
  No measures violating non-derogable rights found. 
 
 *Sources*:
- http://www.pravno-informacioni-sistem.rs/fp/covid19
+ https://perma.cc/5WAM-KVM6
 
 
 
@@ -3543,9 +3679,9 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/sen
  No measures violating non-derogable rights found. 
 
 *Sources*:
- https://statehouse.gov.sl/
-https://www.hrw.org/africa/sierra-leone
-https://www.amnesty.org/en/search/?country=38633
+ [1]	perma.cc/R7GZ-KBM7
+[2]	perma.cc/UG49-Y28Y
+[3]	perma.cc/WK74-HX7C
 
 
 
@@ -3570,9 +3706,8 @@ https://www.amnesty.org/en/search/?country=38633
  No evidence found of direct derogations of non-derogable rights with reference to Covid-19 measures. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/singapore/
-
-https://www.hrw.org/world-report/2021/country-chapters/singapore
+ https://perma.cc/A2A7-YWF2
+https://perma.cc/J8SH-GA69
 
 
 
@@ -3597,8 +3732,10 @@ https://www.hrw.org/world-report/2021/country-chapters/singapore
  No measures violating non-derogable rights found 
 
 *Sources*:
- https://korona.gov.sk/
-https://www.health.gov.sk/Clanky
+ https://perma.cc/X2PD-DX6D
+
+
+https://perma.cc/5EFR-V96K
 
 
 
@@ -3623,13 +3760,11 @@ https://www.health.gov.sk/Clanky
  No measures violating non-derogable rights found. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/slovenia-report-covid-19-april-2020_en.pdf
-
-https://fra.europa.eu/sites/default/files/fra_uploads/si_report_on_coronavirus_pandemic_july_2020.pdf
-
-https://www.gov.si/teme/koronavirus-sars-cov-2/
-https://www.hrw.org/europe/central-asia/slovenia
-https://www.amnesty.org/en/countries/europe-and-central-asia/slovenia/report-slovenia/
+ [1]	perma.cc/6R28-CJP5
+[2]	perma.cc/25PC-KX3U
+[3]	perma.cc/6BJZ-3YQK
+[4]	perma.cc/2BXD-QKJH
+[5]	perma.cc/3BEE-CMKP
 
 
 
@@ -3654,9 +3789,8 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/slovenia/report-slo
  No emergency measures that de-jure violate non-derogable rights as defined by the ICCPR, was found across all time periods. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38635&resourceType=newsarticle&sort=date
-
-https://www.hrw.org/africa/somalia
+ https://perma.cc/XA3N-BKMA
+https://perma.cc/589M-JJN7
 
 
 
@@ -3681,16 +3815,11 @@ https://www.hrw.org/africa/somalia
  No emergency measures that de-jure violate non-derogable rights as defined by the ICCPR, was found. 
 
 *Sources*:
- [1]
-https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-[2]
-https://www.hrw.org/africa/south-africa
-[3]
-https://www.amnesty.org/en/countries/africa/south-africa/
-[4]
-https://www.bbc.com/news/topics/cq23pdgvyl7t/south-africa
-[5]
-https://www.gov.za/coronavirus/guidelines
+ [1]	perma.cc/XM52-BKAF
+[2]	perma.cc/CEQ5-JJNN
+[3]	perma.cc/BFA6-TK2G
+[4]	perma.cc/5KTS-N78M
+[5]	perma.cc/FX63-EK5B
 
 
 
@@ -3715,13 +3844,9 @@ https://www.gov.za/coronavirus/guidelines
  I did not find information on any of the measures violating the non-derogable rights as defined by the ICCPR across all time periods. 
 
 *Sources*:
- https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
-
-https://elaw.klri.re.kr/kor_service/lawView.do?hseq=40184&lang=ENG
-
-
-
-https://www.loc.gov/law/help/health-emergencies/southkorea.php
+ https://perma.cc/RXQ4-69RF
+https://perma.cc/KRA6-S3BB
+https://web.archive.org/web/20201019061249/https://www.loc.gov/law/help/health-emergencies/southkorea.php
 
 
 
@@ -3746,12 +3871,22 @@ https://www.loc.gov/law/help/health-emergencies/southkorea.php
  No emergency measures that de-jure violate non-derogable rights as defined by the ICCPR, was found. 
 
 *Sources*:
- https://twitter.com/southsudangov?lang=en
-http://www.xinhuanet.com/english/africa/2021-03/01/c_139773890.htm
-https://www.voanews.com/covid-19-pandemic/south-sudan-extends-partial-lockdown-indefinitely
-https://radiotamazuj.org/en/news/article/covid-19-south-sudan-lifts-partial-lockdown
-https://twitter.com/SouthSudanGov/status/1239515788341587968
-https://www.aa.com.tr/en/africa/coronavirus-south-sudan-bans-social-gatherings/1768378
+ https://perma.cc/NUV5-HHZM
+
+
+https://perma.cc/8JQ3-WBVX
+
+
+https://perma.cc/TRW5-TDU2
+
+
+https://perma.cc/TR3P-VZPF
+
+
+https://perma.cc/9PQ3-KX2C
+
+
+https://perma.cc/YS7V-UW3N
 
 
 
@@ -3776,14 +3911,9 @@ https://www.aa.com.tr/en/africa/coronavirus-south-sudan-bans-social-gatherings/1
  No evidence of non-derogable rights violation was found. 
 
 *Sources*:
- [1]
-https://www.amnesty.org/en/countries/europe-and-central-asia/spain/
-
-[2]
-https://www.hrw.org/europe/central-asia/spain
-
-[3]
-https://monitor.civicus.org/country/spain/
+ [1]	perma.cc/8BKX-Y74X
+[2]	perma.cc/8QCC-L3EH
+[3]	perma.cc/74WX-BRAV
 
 
 
@@ -3811,24 +3941,17 @@ The anti-cremation order was lifted in February 2021. However bodies are now onl
 
 *Sources*:
  (1)
-https://www.amnesty.org/en/latest/news/2020/04/sri-lanka-religious-minorities-must-have-their-final-rites-respected/
-
-
+https://perma.cc/78WD-ZLPG
 (2)
-https://english.alarabiya.net/en/coronavirus/2020/04/20/Coronavirus-Muslims-in-Sri-Lanka-forced-to-cremate-dead-stigmatized-under-lockdown
-
-
+https://perma.cc/PN4N-PP8Z
 (3)
-https://www.thehindu.com/news/international/petitions-challenge-sri-lankan-governments-compulsory-cremation-rule/article31585459.ece
-
+https://perma.cc/U5TU-LZZE
 (4)
-https://thewire.in/south-asia/sri-lanka-covid-19-demonisation-minorities
-
+https://perma.cc/7CB4-HJMS
 (5)
-https://www.bbc.com/news/world-asia-56205737
-
+https://perma.cc/MTF7-8WPR
 (6)
-https://www.bbc.com/news/world-asia-56249805
+https://perma.cc/P63Z-CEDT
 
 
 
@@ -3853,14 +3976,10 @@ https://www.bbc.com/news/world-asia-56249805
  No emergency measures that de-jure violate non-derogable rights as defined by the ICCPR, was found. 
 
 *Sources*:
- [1]
-https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-[2]
-https://www.hrw.org/africa/sudan
-[3]
-https://www.amnesty.org/en/search/?country=38641&resourceType=newsarticle&sort=date
-[4]
-https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
+ [1]	perma.cc/JS2H-56WU
+[2]	perma.cc/N5K9-3C6T
+[3]	perma.cc/Z9DG-3PV6
+[4]	perma.cc/FAC8-KT2Z
 
 
 
@@ -3885,15 +4004,19 @@ https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
  Amnesty International have not reported any violations of non-derogable rights within the response to Covid-19, and no other indications of such violations has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9625
+ https://perma.cc/UR42-4EHX
 
-https://www.amnesty.org/en/search/?country=38508&resourceType=newsarticle&sort=date
 
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
+https://perma.cc/48HU-TKNT
 
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_july_2020.pdf
 
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
+https://perma.cc/M7QQ-G4XH
+
+
+https://perma.cc/J57M-TQKL
+
+
+https://perma.cc/G6AM-9RD9
 
 
 
@@ -3918,13 +4041,16 @@ https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_p
  No reports have been found on any violations of non-derogable rights in the emergency measures 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38510&resourceType=newsarticle&sort=date
+ https://perma.cc/KJW5-BEJB
 
-https://www.hrw.org/news?country%5B%5D=9626
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/switzerland/
+https://perma.cc/D55V-JRJA
 
-https://www.amnesty.org/en/countries/europe-and-central-asia/switzerland/report-switzerland/
+
+https://perma.cc/8HC8-E2UT
+
+
+https://perma.cc/9FKE-42CL
 
 
 
@@ -3949,10 +4075,16 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/switzerland/report-
  I did not find any measures that violated non-derogable rights as defined by the ICCPR. 
 
 *Sources*:
- https://perma.cc/9W88-7R3B"https://perma.cc/9W88-7R3B
+ https://perma.cc/9W88-7R3B
 
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7246107/"
+
+https://perma.cc/9W88-7R3B
+
+
+
+
+https://perma.cc/2DQV-HZDS
 
 
 
@@ -3977,7 +4109,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7246107/"
  No measures violating non-derogable rights found 
 
 *Sources*:
- http://www.president.tj/ru/node/23055
+ https://perma.cc/7LWQ-55US
 
 
 
@@ -4003,18 +4135,19 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7246107/"
 
 *Sources*:
  [1]
-https://www.hrw.org/africa/tanzania-and-zanzibar
+https://perma.cc/V4UR-QZ83
+
 
 [2]
-
-https://www.amnesty.org/en/countries/africa/tanzania/
+https://perma.cc/N9PP-KDA3
 
 
 [3]
-https://www.bbc.com/news/topics/cjnwl8q4qdrt/tanzania
+https://perma.cc/5XSW-7ST9
+
 
 [4]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tanzania/
+https://perma.cc/LG87-DWV5
 
 
 
@@ -4039,11 +4172,9 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tan
  I did not find any information related to this. 
 
 *Sources*:
- http://web.krisdika.go.th/data/document/ext810/810259_0001.pdf
-
-https://www.hrw.org/thailand
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/thailand/
+ https://perma.cc/E7UG-Z2NX
+https://perma.cc/WY2U-32CY
+https://perma.cc/R46Y-72PM
 
 
 
@@ -4068,13 +4199,14 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/thailand/
  No emergency measures that de-jure violate non-derogable rights as defined by the ICCPR, was found. 
 
 *Sources*:
- https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-https://www.hrw.org/africa/gambia
-https://www.amnesty.org/en/countries/africa/gambia/
-https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
-http://www.statehouse.gm/second-address-nation-president-adama-barrow-Covid-19
+ https://perma.cc/BBA2-A3T2
+https://perma.cc/P848-JN6L
+https://perma.cc/8B3V-PM4M
+https://perma.cc/AW7R-ZKBB
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gambia/
+https://web.archive.org/web/20200511200224/http://www.statehouse.gm/second-address-nation-president-adama-barrow-Covid-19
+
+https://perma.cc/3KMK-L7V9
 
 
 
@@ -4102,15 +4234,19 @@ The US state report 2020 on human rights practices however, mentions:
 ''On 11 April 2020, security personnel enforcing the Covid-19 state of emergency reportedly assaulted an elderly woman, Nyanuwoede Drafoe, living in Agbodrafo, an area approximately 20 miles from Lome. Her family members reported she was beaten for not respecting the curfew. Human rights organizations noted, however, the curfew was not in force in the area at that time and that the use of force was excessive and amounted to inhuman and degrading treatment. The human rights organizations referred the case to the CNDH, which began an investigation.'' 
 
 *Sources*:
- https://presidence.gouv.tg/2020/04/01/adresse-du-chef-de-letat-sem-faure-essozimna-gnassingbe-au-peuple-togolais-sur-la-riposte-nationale-contre-le-covid-19/
+ perma.cc/XA3Y-FVFH
 
-https://www.garda.com/crisis24/news-alerts/328466/togo-president-declares-three-month-health-emergency-and-nationwide-curfew-from-2-april-update-3
 
-https://www.togofirst.com/en/economic-governance/0204-5268-coronavirus-togo-declares-state-public-health-emergency-for-3-months
+perma.cc/4Z5J-7JVU
 
-http://apanews.net/en/news/covid-19-togo-declares-state-of-emergency-curfew
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/togo/
+perma.cc/WV2S-H5G4
+
+
+perma.cc/3V9Q-879A
+
+
+perma.cc/6KA7-DEY6
 
 
 
@@ -4135,18 +4271,12 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tog
  No emergency measures to specifically combat the pandemic that violate non-derogable rights as defined by the ICCPR were found. 
 
 *Sources*:
- [1]
-https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-[2]
-https://www.hrw.org/middle-east/n-africa/tunisia
-[3]
-https://www.amnesty.org/en/search/?country=38559&resourceType=newsarticle&sort=date
-[4]
-https://www.bbc.com/news/topics/cwlw3xz0lmvt/tunisia
-[5]
-https://www.hrw.org/news/2021/04/29/tunisia-jails-repatriated-women-suspected-isis-ties
-[6]
-https://www.hrw.org/news/2021/03/09/tunisia-harassment-arbitrary-detention-lgbt-rights-activist
+ [1]	perma.cc/ZH8M-KTJK
+[2]	perma.cc/K59T-FWS3
+[3]	perma.cc/JD38-EZKR
+[4]	perma.cc/EP73-FPW7
+[5]	perma.cc/A8ZG-2G9G
+[6]	perma.cc/D8WT-CQBV
 
 
 
@@ -4171,13 +4301,19 @@ https://www.hrw.org/news/2021/03/09/tunisia-harassment-arbitrary-detention-lgbt-
  No reports have been found that non-derogable rights have been violated in the measures taken in reference to Covid-19, and no reports on any such violations in the enacted measures are reported by Amnesty International or Human Rights Watch. Therefore, this variable is coded as 0. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-https://www.hrw.org/europe/central-asia/turkey
-https://www.amnesty.org/en/search/?country=38514&resourceType=newsarticle&sort=date
+ https://perma.cc/US6M-JG7L
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/turkey/
 
-https://www.amnesty.org/en/countries/europe-and-central-asia/turkey/report-turkey/
+https://perma.cc/P3BW-E4KQ
+
+
+https://perma.cc/262P-WJGC
+
+
+https://perma.cc/EAG5-NSRP
+
+
+https://perma.cc/D3G5-L7LJ
 
 
 
@@ -4202,8 +4338,10 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/turkey/report-turke
  No information found. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
-https://www.amnesty.org/en/countries/europe-and-central-asia/turkmenistan/
+ https://perma.cc/CA5C-BNVA
+
+
+https://perma.cc/RSS5-2DAZ
 
 
 
@@ -4228,17 +4366,11 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/turkmenistan/
  No evidence was found that any of the emergency measures de-jure violated non-derogable rights as defined by the ICCPR. 
 
 *Sources*:
- [1]
-https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-[2]
-https://www.amnesty.org/en/countries/africa/uganda/
-[3]
-https://www.hrw.org/africa/uganda
-[4]
-https://crd.org/uganda-en/
-[5]
-https://www.bbc.co.uk/news/topics/cmj34zmwme4t/uganda
-
+ [1]	perma.cc/2DJY-YXQP
+[2]	perma.cc/8KDA-4TZP
+[3]	perma.cc/L3RT-VUJ4
+[4]	perma.cc/4YAX-ERX4
+[5]	perma.cc/48LR-Q46W
 
 
 
@@ -4263,9 +4395,13 @@ https://www.bbc.co.uk/news/topics/cmj34zmwme4t/uganda
  No measures violating non-derogable rights found 
 
 *Sources*:
- https://zakon.rada.gov.ua/laws/show/530-20#Text
-https://zakon.rada.gov.ua/laws/show/539-20#Text
-https://www.amnesty.org/en/countries/europe-and-central-asia/ukraine/
+ https://perma.cc/RNT4-QNMC
+
+
+https://perma.cc/Y7CB-JA3X
+
+
+https://perma.cc/J7VX-CD6S
 
 
 
@@ -4290,18 +4426,12 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/ukraine/
  The emergency measures have not de-jure violated non-derogable rights as defined by the ICCPR. Although certain parts of the population such as prison inmates and migrant workers, are suffering more from the pandemic, this is not as a result of the emergency measures (but perhaps a result of lack of certain measures to protect vulnerable groups), and is therefore not included in this score. 
 
 *Sources*:
- [1]
-https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-[2]
-https://dlp.dubai.gov.ae/en/Pages/LegislationSearch.aspx
-[3]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/government-efforts-to-contain-covid-19
-[4]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak
-[5]
-https://www.hrw.org/news/2020/06/10/uae-reported-covid-19-prison-outbreaks
-[6]
-https://www.amnesty.org/en/latest/research/2020/04/gulf-concerns-regarding-migrant-workers-rights-during-covid19-pandemic/
+ [1]	perma.cc/X6XE-2YTS
+[2]	perma.cc/6EJG-4ZKD
+[3]	perma.cc/NVW2-J7BC
+[4]	perma.cc/9TMW-ADU3
+[5]	perma.cc/FQ6X-NYGD
+[6]	perma.cc/2CLY-MUF2
 
 
 
@@ -4326,14 +4456,19 @@ https://www.amnesty.org/en/latest/research/2020/04/gulf-concerns-regarding-migra
  No reports have been found on any violations of non-derogable rights in the emergency measures 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9631
-https://www.amnesty.org/en/search/?country=38510&resourceType=newsarticle&sort=date
+ https://perma.cc/X7K5-CBG6
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/united-kingdom/
 
-https://www.hrw.org/world-report/2021/country-chapters/united-kingdom
+https://perma.cc/9LQP-7QNG
 
-https://www.amnesty.org/en/countries/europe-and-central-asia/united-kingdom/report-united-kingdom/
+
+https://perma.cc/YY9M-H9UK
+
+
+https://perma.cc/9NNL-N9U3
+
+
+https://perma.cc/XK9S-BV3H
 
 
 
@@ -4358,12 +4493,19 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/united-kingdom/repo
  Human Rights Watch and Amnesty International have not reported any violations of non-derogable rights within the response to Covid-19, and no other indications of such violations has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9456
-https://www.amnesty.org/en/search/?country=38334&resourceType=newsarticle&sort=date
-https://www.hrw.org/world-report/2021/country-chapters/united-states
+ https://perma.cc/WY3U-8FKD
 
 
-https://www.amnesty.org/en/countries/americas/united-states-of-america/report-united-states-of-america/
+https://perma.cc/49RG-8VDP
+
+
+https://perma.cc/TJF4-VDTJ
+
+
+
+
+
+https://perma.cc/CH7M-3P6K
 
 
 
@@ -4388,17 +4530,10 @@ https://www.amnesty.org/en/countries/americas/united-states-of-america/report-un
  The emergency measures have not de-jure violated non-derogable rights as defined by the ICCPR. 
 
 *Sources*:
- [1]
-https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/medidas-gobierno-sanitaria-emergencia-sanitaria-covid19
-
-[2]
-https://www.hrw.org/americas/uruguay
-
-[3]
-https://www.amnesty.org/en/countries/americas/uruguay/
-
-[4]
-https://monitor.civicus.org/country/uruguay/
+ [1]	perma.cc/C9WU-VMY7
+[2]	perma.cc/3B27-7RAS
+[3]	perma.cc/8WFQ-HP36
+[4]	perma.cc/X7SM-ZLWQ
 
 
 
@@ -4423,7 +4558,7 @@ https://monitor.civicus.org/country/uruguay/
  No measures violating non-derogable rights found 
 
 *Sources*:
- https://lex.uz/ru/docs/4772484
+ https://perma.cc/UL2A-77Q6
 
 
 
@@ -4449,14 +4584,13 @@ https://monitor.civicus.org/country/uruguay/
 
 *Sources*:
  [1]
-https://www.nytimes.com/2020/08/19/world/americas/coronavirus-venezuela.html
-
+perma.cc/WAH3-NH5E
 [2]
-https://www.amnesty.org/download/Documents/AMR0129912020ENGLISH.PDF
+perma.cc/P5MK-WUWP
 [3]
-https://www.laprensalara.com.ve/nota/16560/2020/05/negligencia-acaba-con-la-vida-de-menor-de-un-ao
+perma.cc/B74Q-X29U
 [4]
-https://www.hrw.org/news/2020/10/13/venezuela-abusive-treatment-returnees
+perma.cc/K86G-48B7
 
 
 
@@ -4481,11 +4615,9 @@ https://www.hrw.org/news/2020/10/13/venezuela-abusive-treatment-returnees
  There is no information of the emergency measures de-jure violating non-derogable rights as defined by the ICCPR through out all the time periods. 
 
 *Sources*:
- https://www.hrw.org/asia/vietnam
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/viet-nam/
-
-http://constitutionnet.org/sites/default/files/tranlation_of_vietnams_new_constitution_enuk_2.pdf
+ https://perma.cc/7BDM-4RSZ
+https://perma.cc/T7GR-JH5R
+https://perma.cc/34G4-EGZV
 
 
 
@@ -4510,15 +4642,17 @@ http://constitutionnet.org/sites/default/files/tranlation_of_vietnams_new_consti
  No evidence was found that any of the emergency measures de-jure violated non-derogable rights as defined by the ICCPR. 
 
 *Sources*:
- http://zambialii.org/zm/legislation/statutory-instrument/2020/22
-http://zambialii.org/zm/legislation/statutory-instrument/2020/21
+ https://perma.cc/GH77-GTQ2
+https://perma.cc/V262-7AF9
+https://perma.cc/768B-D3KQ
 
-https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-https://reliefweb.int/sites/reliefweb.int/files/resources/ZAMBIA_%20COVID-19_Emergency_Appeal.pdf
-https://www.amnesty.org/en/search/?country=38651&resourceType=newsarticle&sort=date
-https://www.hrw.org/africa/zambia
+https://perma.cc/QJB7-CURY
 
-https://www.amnesty.org/en/countries/africa/zambia/
+https://perma.cc/K5DX-KULR
+
+https://perma.cc/EPU2-QW66
+
+https://perma.cc/2FTW-DJBP
 
 
 
@@ -4543,12 +4677,8 @@ https://www.amnesty.org/en/countries/africa/zambia/
  No evidence was found that any of the emergency measures de-jure violated non-derogable rights as defined by the ICCPR across all the time periods. 
 
 *Sources*:
- https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-
-https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
-
-https://www.hrw.org/africa/zimbabwe
-
-https://www.amnesty.org/en/countries/africa/zimbabwe/
-
-https://www.hrw.org/world-report/2021/country-chapters/zimbabwe#b15b41
+ https://perma.cc/US4L-C5PC
+https://perma.cc/SU28-4V23
+https://perma.cc/GYL4-ZLRE
+https://perma.cc/YH5C-Q763
+https://perma.cc/FF6L-E2BX

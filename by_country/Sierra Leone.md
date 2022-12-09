@@ -46,13 +46,14 @@
 Thereafter, only measures to contain the spread of the virus, without an official law or act. 
 
 *Sources*:
- https://www.facebook.com/mic.gov.sl/posts/827797114474969
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011879820/sierra-leone-government-lifts-covid-19-state-of-public-health-emergency-and-curfew-as-of-late-march-update-19
-https://statehouse.gov.sl/wp-content/uploads/2020/03/Declaration-of-a-State-of-Public-Emergency-by-His-Excellency-Dr.-Julius-Maada-Bio-President-of-the-Republic-of-Sierra-Leone-%E2%80%93-24-March-2020.pdf
-
+ [1]
+https://www.facebook.com/mic.gov.sl/posts/827797114474969
+[2]
+perma.cc/ZW7F-L3JR
+[3]
+perma.cc/9G8V-PP46
+[4]
 https://sierralii.org/sl/gazette/SLGaz/2020/cxlxi/12/20200324
-
-https://www.garda.com/fr/crisis24/alertes-de-securite/462621/sierra-leone-government-lifts-covid-19-state-of-public-health-emergency-and-curfew-as-of-late-march-update-19
 
 
 
@@ -91,10 +92,11 @@ https://www.garda.com/fr/crisis24/alertes-de-securite/462621/sierra-leone-govern
 *No comment provided* 
 
 *Sources*:
- https://www.facebook.com/mic.gov.sl/posts/827797114474969
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011879820/sierra-leone-government-lifts-covid-19-state-of-public-health-emergency-and-curfew-as-of-late-march-update-19
-https://www.garda.com/crisis24/news-alerts/426451/sierra-leone-sierra-leone-maintains-covid-19-restrictions-as-of-jan-7-update-14
-https://statehouse.gov.sl/wp-content/uploads/2020/03/Declaration-of-a-State-of-Public-Emergency-by-His-Excellency-Dr.-Julius-Maada-Bio-President-of-the-Republic-of-Sierra-Leone-%E2%80%93-24-March-2020.pdf
+ [1]	
+https://www.facebook.com/mic.gov.sl/posts/827797114474969
+[2]	perma.cc/P5WR-XDKU
+[3]	perma.cc/NM7V-UYM2
+[4]	perma.cc/9G8V-PP46
 
 
 
@@ -133,10 +135,10 @@ https://statehouse.gov.sl/wp-content/uploads/2020/03/Declaration-of-a-State-of-P
 *No comment provided* 
 
 *Sources*:
- https://www.facebook.com/mic.gov.sl/posts/827797114474969
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011879820/sierra-leone-government-lifts-covid-19-state-of-public-health-emergency-and-curfew-as-of-late-march-update-19
-https://www.garda.com/crisis24/news-alerts/426451/sierra-leone-sierra-leone-maintains-covid-19-restrictions-as-of-jan-7-update-14
-https://statehouse.gov.sl/wp-content/uploads/2020/03/Declaration-of-a-State-of-Public-Emergency-by-His-Excellency-Dr.-Julius-Maada-Bio-President-of-the-Republic-of-Sierra-Leone-%E2%80%93-24-March-2020.pdf
+ [1]	https://www.facebook.com/mic.gov.sl/posts/827797114474969
+[2]	perma.cc/P5WR-XDKU
+[3]	perma.cc/NM7V-UYM2
+[4]	perma.cc/9G8V-PP46
 
 
 
@@ -175,11 +177,10 @@ https://statehouse.gov.sl/wp-content/uploads/2020/03/Declaration-of-a-State-of-P
  A state of emergency was declared for 12 months until 24 March 2021. 
 
 *Sources*:
- https://www.facebook.com/mic.gov.sl/posts/827797114474969
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011879820/sierra-leone-government-lifts-covid-19-state-of-public-health-emergency-and-curfew-as-of-late-march-update-19
-https://www.garda.com/crisis24/news-alerts/426451/sierra-leone-sierra-leone-maintains-covid-19-restrictions-as-of-jan-7-update-14
-https://statehouse.gov.sl/wp-content/uploads/2020/03/Declaration-of-a-State-of-Public-Emergency-by-His-Excellency-Dr.-Julius-Maada-Bio-President-of-the-Republic-of-Sierra-Leone-%E2%80%93-24-March-2020.pdf
-https://www.garda.com/fr/crisis24/alertes-de-securite/462621/sierra-leone-government-lifts-covid-19-state-of-public-health-emergency-and-curfew-as-of-late-march-update-19
+ [1]	https://www.facebook.com/mic.gov.sl/posts/827797114474969
+[2]	perma.cc/ZW7F-L3JR
+[3]	perma.cc/96JM-6BDB
+[4]	perma.cc/9G8V-PP46
 
 
 
@@ -221,10 +222,10 @@ https://www.garda.com/fr/crisis24/alertes-de-securite/462621/sierra-leone-govern
  State of emergency declared on 24 March 2020 for 12 months. 
 
 *Sources*:
- https://www.facebook.com/mic.gov.sl/posts/827797114474969
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011879820/sierra-leone-government-lifts-covid-19-state-of-public-health-emergency-and-curfew-as-of-late-march-update-19
-https://www.garda.com/crisis24/news-alerts/426451/sierra-leone-sierra-leone-maintains-covid-19-restrictions-as-of-jan-7-update-14
-https://statehouse.gov.sl/wp-content/uploads/2020/03/Declaration-of-a-State-of-Public-Emergency-by-His-Excellency-Dr.-Julius-Maada-Bio-President-of-the-Republic-of-Sierra-Leone-%E2%80%93-24-March-2020.pdf
+ [1]	https://www.facebook.com/mic.gov.sl/posts/827797114474969
+[2]	perma.cc/P5WR-XDKU
+[3]	perma.cc/NM7V-UYM2
+[4]	perma.cc/9G8V-PP46
 
 
 
@@ -263,10 +264,10 @@ https://statehouse.gov.sl/wp-content/uploads/2020/03/Declaration-of-a-State-of-P
  The state of emergency was declared on 24 March 2020 for 12 months. 
 
 *Sources*:
- https://www.facebook.com/mic.gov.sl/posts/827797114474969
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011879820/sierra-leone-government-lifts-covid-19-state-of-public-health-emergency-and-curfew-as-of-late-march-update-19
-https://www.garda.com/crisis24/news-alerts/426451/sierra-leone-sierra-leone-maintains-covid-19-restrictions-as-of-jan-7-update-14
-https://statehouse.gov.sl/wp-content/uploads/2020/03/Declaration-of-a-State-of-Public-Emergency-by-His-Excellency-Dr.-Julius-Maada-Bio-President-of-the-Republic-of-Sierra-Leone-%E2%80%93-24-March-2020.pdf
+ [1]	https://www.facebook.com/mic.gov.sl/posts/827797114474969
+[2]	perma.cc/P5WR-XDKU
+[3]	perma.cc/NM7V-UYM2
+[4]	perma.cc/9G8V-PP46
 
 
 
@@ -308,10 +309,10 @@ https://statehouse.gov.sl/wp-content/uploads/2020/03/Declaration-of-a-State-of-P
  State of emergency needs to be approved by the parliament or otherwise it expires after 21 days (Article 29, point 3 of the Constitution). 
 
 *Sources*:
- https://www.facebook.com/mic.gov.sl/posts/827797114474969
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011879820/sierra-leone-government-lifts-covid-19-state-of-public-health-emergency-and-curfew-as-of-late-march-update-19
-https://www.garda.com/crisis24/news-alerts/426451/sierra-leone-sierra-leone-maintains-covid-19-restrictions-as-of-jan-7-update-14
-https://www.constituteproject.org/constitution/Sierra_Leone_2013?lang=en
+ [1]	https://www.facebook.com/mic.gov.sl/posts/827797114474969
+[2]	perma.cc/L36K-CHTW
+[3]	perma.cc/GV8X-4HCX
+[4]	perma.cc/F8YG-CCCT
 
 
 
@@ -353,11 +354,11 @@ https://www.constituteproject.org/constitution/Sierra_Leone_2013?lang=en
  The parliament's website has not been updated but a media article includes several videos from the parliament's session during which the measures were approved. 
 
 *Sources*:
- https://www.facebook.com/mic.gov.sl/posts/827797114474969
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011879820/sierra-leone-government-lifts-covid-19-state-of-public-health-emergency-and-curfew-as-of-late-march-update-19
-https://www.garda.com/crisis24/news-alerts/426451/sierra-leone-sierra-leone-maintains-covid-19-restrictions-as-of-jan-7-update-14
-https://www.parliament.gov.sl/votes-proceedings-2020-8.html
-https://www.thesierraleonetelegraph.com/sierra-leone-parliament-approves-coronavirus-state-of-public-emergency/
+ [1]	https://www.facebook.com/mic.gov.sl/posts/827797114474969
+[2]	perma.cc/5SVE-49PB
+[3]	perma.cc/MG9L-CYCX
+[4]	perma.cc/HSR3-3EBF
+[5]	perma.cc/HNA3-VFDC
 
 
 
@@ -405,8 +406,7 @@ https://www.thesierraleonetelegraph.com/sierra-leone-parliament-approves-coronav
 After the state of emergency was lifted, the executive still decides some restrictions and measures for COVID-19. Therefore, Q2 2021 is coded as 2. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Sierra_Leone_2013?lang=en
-(1)
+ [1]	perma.cc/FM8A-H3W4
 
 
 
@@ -528,7 +528,7 @@ After the state of emergency was lifted, the executive still decides some restri
  Only uniform measures throughout the country found. 
 
 *Sources*:
- https://statehouse.gov.sl/
+ [1]	perma.cc/R7GZ-KBM7
 
 
 
@@ -572,12 +572,12 @@ After the state of emergency was lifted, the executive still decides some restri
  No de-jure disciminating provisions and no information on de-facto discrimination found; there has been a riot in Freetown's prison due to severely cramped conditions,  which is not considered in the coding since the conditons were cramped before the pandemic and are not part of emergency measures. 
 
 *Sources*:
- https://www.state.gov/wp-content/uploads/2021/03/SIERRA-LEONE-2020-HUMAN-RIGHTS-REPORT.pdf
-https://statehouse.gov.sl/
-https://www.icnl.org/covid19tracker/?location=110&issue=&date=&type=
-https://www.amnesty.org/en/search/?country=38633
-https://www.hrw.org/africa/sierra-leone
-https://www.amnesty.org/en/latest/news/2020/04/sierra-leone-reasons-underlying-prison-riot-amid/
+ [1]	perma.cc/9VCU-6U64
+[2]	perma.cc/B447-XS4U
+[3]	perma.cc/572D-UNEB
+[4]	perma.cc/9GVA-T4QC
+[5]	perma.cc/SG3Z-4TFX
+[6]	perma.cc/68TH-U8JC
 
 
 
@@ -626,9 +626,9 @@ https://www.amnesty.org/en/latest/news/2020/04/sierra-leone-reasons-underlying-p
  No measures violating non-derogable rights found. 
 
 *Sources*:
- https://statehouse.gov.sl/
-https://www.hrw.org/africa/sierra-leone
-https://www.amnesty.org/en/search/?country=38633
+ [1]	perma.cc/R7GZ-KBM7
+[2]	perma.cc/UG49-Y28Y
+[3]	perma.cc/WK74-HX7C
 
 
 
@@ -672,9 +672,9 @@ https://www.amnesty.org/en/search/?country=38633
  No evidence of measures limiting media freedom found. 
 
 *Sources*:
- https://statehouse.gov.sl/
-https://rsf.org/en/sierra-leone
-https://ipi.media/sierra-leone/
+ [1]	perma.cc/R7GZ-KBM7
+[2]	perma.cc/THN7-EV25
+[3]	perma.cc/7AGQ-NWDP
 
 
 
@@ -794,9 +794,10 @@ https://ipi.media/sierra-leone/
  The government published information on covid-19; no reports on limitations on media reporting on covid-19 found. 
 
 *Sources*:
- https://statehouse.gov.sl/wp-content/uploads/2020/03/Statement-by-His-Excellency-Dr-Julius-Maada-Bio-President-of-the-Republic-of-Sierra-Leone-on-Enhanced-Public-Health-and-Safety-Measures-to-Prevent-Coronavirus.-Freetown-Sierra-Leone-18-March-2020.pdf
-https://rsf.org/en/sierra-leone
-https://ipi.media/sierra-leone/
+ [1]	perma.cc/7CJS-2RAQ
+
+[2]	perma.cc/57P8-BK96
+[3]	perma.cc/T84P-LV8M
 
 
 
@@ -838,10 +839,9 @@ https://ipi.media/sierra-leone/
  Journalist Fayia Amara was beated by the military as he was reporting on covid-19 quarantine centre on 1 April 2020. The journalist was mob-beaten by 9 military officials, suffered severe injuries and reportedly collapse when he appeared in court. Since it was a single incident and I found no information of further violations, merepgov is coded as 1 only during March-June. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-
-https://cpj.org/2020/04/sierra-leone-security-forces-attack-and-detain-2-j/
-https://snradio.net/slaj-condemns-state-sanctioned-brutality-against-journalists/
+ [1]	perma.cc/W9BB-VUSA
+[2]	perma.cc/LU6C-ECTK
+[3]	perma.cc/DB2L-SYZD
 
 
 
@@ -883,9 +883,9 @@ https://snradio.net/slaj-condemns-state-sanctioned-brutality-against-journalists
  Journalist Sylvia Olayinka Blyden was detained after critisizing the President on social media, but the charges against her seem unrelated to Covid-19; no other information about limitations on media reporting on non-Covid-19 related news but with reference to the pandemic found. 
 
 *Sources*:
- https://rsf.org/en/sierra-leone
-https://ipi.media/sierra-leone/
-https://cpj.org/2020/06/sierra-leone-journalist-sylvia-olayinka-blyden-detained-charged-over-social-media-posts/
+ [1]	perma.cc/TZE6-E7FJ
+[2]	perma.cc/92LA-PCEA
+[3]	perma.cc/TQH3-ZPUW
 
 
 
@@ -928,8 +928,8 @@ https://cpj.org/2020/06/sierra-leone-journalist-sylvia-olayinka-blyden-detained-
  No reports on limiting media access to covid-19 information found 
 
 *Sources*:
- https://rsf.org/en/sierra-leone
-https://ipi.media/sierra-leone/
+ [1]	perma.cc/THN7-EV25
+[2]	perma.cc/7AGQ-NWDP
 
 
 
@@ -971,9 +971,9 @@ https://ipi.media/sierra-leone/
  No information found. There is evidence of harassment, but not related to the COVID-19 pandemics. 
 
 *Sources*:
- https://rsf.org/en/sierra-leone
-https://ipi.media/sierra-leone/
-https://www.mfwa.org/issues-in-focus/prosecuted-over-annoying-publication-about-police-chief-journalist-mahmud-tim-kargbo-narrates-his-ordeal/
+ [1]	perma.cc/4H4J-EDJG
+[2]	perma.cc/5PG4-DCCT
+[3]	perma.cc/72RZ-ANFD
 
 
 
@@ -1015,10 +1015,9 @@ https://www.mfwa.org/issues-in-focus/prosecuted-over-annoying-publication-about-
  Journalist Fayia Amara was beated by the military as he was reporting on covid-19 quarantine centre on 1 April 2020. The journalist was mob-beaten by 9 military officials, suffered severe injuries and reportedly collapse when he appeared in court. Since it was a single incident and I found no information of further violations, mephar is coded as 1 only during March-June. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-
-https://cpj.org/2020/04/sierra-leone-security-forces-attack-and-detain-2-j/
-https://snradio.net/slaj-condemns-state-sanctioned-brutality-against-journalists/
+ [1]	perma.cc/W9BB-VUSA
+[2]	perma.cc/LU6C-ECTK
+[3]	perma.cc/DB2L-SYZD
 
 
 
@@ -1062,14 +1061,14 @@ https://snradio.net/slaj-condemns-state-sanctioned-brutality-against-journalists
  Daily updates are published on the government's Facebook page, no reports on disinformation found. The official website of the goverment for COVID-19 makes references to WHO. 
 
 *Sources*:
- https://mohs.gov.sl/index.php/covid-19/
-https://statehouse.gov.sl/wp-content/uploads/2020/03/Statement-by-His-Excellency-Dr-Julius-Maada-Bio-President-of-the-Republic-of-Sierra-Leone-on-Enhanced-Public-Health-and-Safety-Measures-to-Prevent-Coronavirus.-Freetown-Sierra-Leone-18-March-2020.pdf
-https://www.afro.who.int/sites/default/files/2020-03/Government%20of%20Sierra%20Leone%20COVID-19%20Advisory%20for%20Residents%20in%20Sierra%20Leone.pdf
+ [1]	perma.cc/Q8EH-3ZJ3
+[2]	perma.cc/7CJS-2RAQ
 
-https://www.facebook.com/mic.gov.sl/
-https://rsf.org/en/sierra-leone
+[3]	perma.cc/UHH3-S3DT
+[4]	https://www.facebook.com/mic.gov.sl/
 
-https://ipi.media/sierra-leone/
+[5]	perma.cc/2J5A-4HTX
+[6]	perma.cc/7ZEM-8YKH
 
 
 
@@ -1113,9 +1112,9 @@ https://ipi.media/sierra-leone/
  No instances of police violence were found to enforce COVID-19 measures. However, there are cases of police violence throughout the country. 
 
 *Sources*:
- https://www.hrw.org/africa/sierra-leone
-https://www.amnesty.org/en/search/?country=38633
-https://www.thesierraleonetelegraph.com/sierra-leone-police-brutality-and-the-spill-over-effect-on-government-op-ed/
+ [1]	perma.cc/UG49-Y28Y
+[2]	perma.cc/WK74-HX7C
+[3]	perma.cc/FF7C-4CRZ
 
 
 
@@ -1158,7 +1157,6 @@ https://www.thesierraleonetelegraph.com/sierra-leone-police-brutality-and-the-sp
 There is no evidence of continuous armed forces enforcement after the end of the state of emergency in April 2021. Therefore, April-June 2021 is coded as 0. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/462621/sierra-leone-government-lifts-covid-19-state-of-public-health-emergency-and-curfew-as-of-late-march-update-19
-https://www.garda.com/crisis24/news-alerts/326706/sierra-leone-national-state-of-emergency-declared-march-25-update-3
-(1)
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B451%5D&covid19=1
+ [1]	perma.cc/A8GK-SM3B
+[2]	perma.cc/CF4P-XB49
+[3]	https://perma.cc/J7UH-BULT

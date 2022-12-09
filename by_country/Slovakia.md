@@ -52,25 +52,20 @@ Q4 2020, Q1 2021, Q2 2021: State of emergency ("Núdzový stav") declared on 1 O
  
 
 *Sources*:
- https://rokovania.gov.sk/RVL/Resolution/18252/1
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://www.icnl.org/covid19tracker/?location=112&issue=&date=&type=
-https://www.health.gov.sk/Clanok?koronavirus-opatrenia-mimoriadne
-https://www.reuters.com/article/idUSL8N2B80M7
-https://rokovania.gov.sk/RVL/Resolution/18249/1
-https://fra.europa.eu/sites/default/files/fra_uploads/sk_report_on_coronavirus_pandemic_july_2020.pdf
-
-
-https://www.minv.sk/?tlacove-spravy&sprava=nudzovy-stav-skoncil-mimoriadna-situacia-stale-trva
-https://rokovania.gov.sk/RVL/Resolution/18249/1
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/sk_report_on_coronavirus_pandemic_november_2020.pdf
-
-https://www.minv.sk/?tlacove-spravy&sprava=od-1-oktobra-plati-na-slovensku-nudzovy-stav
-https://rokovania.gov.sk/RVL/Material/25338/1
-
-
-https://rokovania.gov.sk/RVL/Material/26006/1
+ https://perma.cc/CTN3-ZRMU
+https://perma.cc/YU74-G5E9
+https://perma.cc/395F-R957
+https://perma.cc/YU74-G5E9
+https://perma.cc/36ZY-9S6U
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://perma.cc/HJ24-BDLC
+https://perma.cc/A2V7-YJ86
+https://perma.cc/95H3-3LJE
+https://perma.cc/9JKT-XNPU
+https://perma.cc/A94P-DUYS
+https://perma.cc/FU7T-6BB3
+https://perma.cc/9KA6-8TML
+https://perma.cc/WR3Z-WA4K
 
 
 
@@ -111,13 +106,22 @@ https://rokovania.gov.sk/RVL/Material/26006/1
 Q3 2020:  According to "Zákon Národnej rady Slovenskej republiky o civilnej ochrane obyvateľstva" (paragraph 8), the government is responsible for declaring and revoking emergency situations. 
 
 *Sources*:
- https://rokovania.gov.sk/RVL/Resolution/18252/1
-https://www.mosr.sk/data/files/602.pdf
-https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2002/227/20160102.html
+ https://perma.cc/2LS7-T8LU
 
-https://rokovania.gov.sk/RVL/Resolution/18249/1
 
-https://rokovania.gov.sk/RVL/Material/25338/1
+https://perma.cc/67AX-ANXT
+
+
+https://perma.cc/G79A-B8HT
+
+
+https://perma.cc/JAQ3-AK55
+
+
+https://perma.cc/PCY2-98E9
+
+
+
 
 
 
@@ -160,12 +164,16 @@ Q3 2020: Emergency situation was declared from 12 March and has been in place du
 Q4 2020, Q1 2021, Q2 2021: The second state of emergency was declared from 1 October 2020. 
 
 *Sources*:
- https://rokovania.gov.sk/RVL/Resolution/18252/1
+ https://perma.cc/2U3G-DY6P
 
-https://rokovania.gov.sk/RVL/Resolution/18249/1
 
-https://www.minv.sk/?tlacove-spravy&sprava=od-1-oktobra-plati-na-slovensku-nudzovy-stav
-https://rokovania.gov.sk/RVL/Material/25338/1
+https://perma.cc/C236-D8H2
+
+
+https://perma.cc/C89Q-GWA7
+
+
+https://perma.cc/S95F-7V43
 
 
 
@@ -210,16 +218,25 @@ Q4 2020, Q1 2021, Q2 2021: The second state of emergency ended on 14 May 2021.
  
 
 *Sources*:
- https://www.mosr.sk/data/files/602.pdf
-https://www.minv.sk/?tlacove-spravy&sprava=nudzovy-stav-skoncil-mimoriadna-situacia-stale-trva
-https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2020/147/20200610
-https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1994/42/20110701.html
-
-https://www.minv.sk/?tlacove-spravy&sprava=nudzovy-stav-na-slovensku-sa-predlzi-o-dalsich-45-dni
+ https://perma.cc/7UAZ-Y6G2
 
 
-https://www.minv.sk/?tlacove-spravy&sprava=nudzovy-stav-skoncil-14-maja-mimoriadna-situacia-trva-nadalej
-https://www.minv.sk/?ukoncenie-nudzoveho-stavu-platnost-mimoriadnej-situacie-v-suvislosti-covid-19-ouke
+https://perma.cc/R9S5-ARQZ
+
+
+https://perma.cc/YW7E-LD8U
+
+
+https://perma.cc/HS7F-FU5S
+
+
+https://perma.cc/JS7R-BYR3
+
+
+https://perma.cc/N92G-7P3E
+
+
+https://perma.cc/DMG3-KVUM
 
 
 
@@ -263,15 +280,13 @@ https://www.minv.sk/?ukoncenie-nudzoveho-stavu-platnost-mimoriadnej-situacie-v-s
 Q3 2020: Emergency situation ("Mimoriadna situácia") was declared from 12 March 2020 based on "Zákon Národnej rady Slovenskej republiky o civilnej ochrane obyvateľstva" (paragraph 8) and has been in place since 12 March and is in place at the time of coding. The legal framework does not provide any time limit for emergency situation ("Mimoriadna situácia"). According to Democracy Reporting, "The emergency situation does not have a statutory time limit and it continues today [the report is from July 2020]."  (1) 
 
 *Sources*:
- https://www.mosr.sk/data/files/602.pdf
-
-https://www.health.gov.sk/Clanok?koronavirus-opatrenia-mimoriadne
-
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+ https://perma.cc/Y4DF-QWGX
+https://perma.cc/4QBT-C3X3
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
 (1)
+https://perma.cc/545G-RHDJ
+https://perma.cc/6N38-AV2H
 
-https://www.minv.sk/?tlacove-spravy&sprava=od-1-oktobra-plati-na-slovensku-nudzovy-stav
-https://rokovania.gov.sk/RVL/Material/25338/1
 
 
 
@@ -318,17 +333,25 @@ Q1 2021: The latest extension of the state of emergency was until 28 April 2021.
 Q2 2021:  The latest extension of the state of emergency was until 28 May 2021, but the state of emergency was lifted sooner, on 14 May 2021. 
 
 *Sources*:
- https://www.mosr.sk/data/files/602.pdf
-https://www.minv.sk/?tlacove-spravy&sprava=nudzovy-stav-skoncil-mimoriadna-situacia-stale-trva
+ https://perma.cc/YG4E-GQS2
 
-https://www.minv.sk/?tlacove-spravy&sprava=nudzovy-stav-na-slovensku-sa-predlzi-o-dalsich-45-dni
-https://www.minv.sk/?tlacove-spravy&sprava=nudzovy-stav-skoncil-14-maja-mimoriadna-situacia-trva-nadalej
 
-https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2020/427/20201229
+https://perma.cc/6JW3-ZBJJ
 
-https://www.minv.sk/?tlacove-spravy&sprava=kabinet-schvalil-predlzenie-nudzoveho-stavu-o-dalsich-40-dni
 
-https://www.minv.sk/?tlacove-spravy&sprava=nudzovy-stav-na-slovensku-predlzeny-o-dalsich-30-dni
+https://perma.cc/CXV4-65KD
+
+
+https://perma.cc/DR7D-C82T
+
+
+https://perma.cc/85EF-S3W9
+
+
+https://perma.cc/2VXQ-5N2F
+
+
+https://perma.cc/LF6A-C8CF
 
 
 
@@ -374,15 +397,25 @@ Q3 2020: not required based on paragraph 8 of  "Zákon Národnej rady Slovenskej
 Q4 2020, Q1 2021, Q2 2020: on 29 December 2020, the parliament amended  Constitutional Act no. 227/2002 Coll, which made it possible to extend the state of emergency with parliamentary approval (previously, the executive could declare a state of emergency for  45 days and extend it by another 45 days; this amendment allowed to extend the duration of the state of emergency beyond 90 days with parliamentary authorization). 
 
 *Sources*:
- https://www.mosr.sk/data/files/602.pdf
-https://www.constituteproject.org/constitution/Slovakia_2017?lang=en
-https://verfassungsblog.de/slovakias-democracy-and-the-covid-19-pandemic-when-executive-communication-fails/
+ https://perma.cc/RHQ3-R7RQ
 
-https://www.zakonypreludi.sk/zz/1994-42
 
-https://www.nrsr.sk/web/Default.aspx?sid=schodze/schodza&ID=416#current
-https://www.minv.sk/?tlacove-spravy&sprava=nudzovy-stav-bude-mozne-opakovane-predlzovat
-https://www.minv.sk/?tlacove-spravy&sprava=poslanci-narodnej-rady-sr-odsuhlasili-predlzenie-nudzoveho-stavu
+https://perma.cc/S45L-KQXX
+
+
+https://perma.cc/4LPB-JBSZ
+
+
+https://perma.cc/32HM-WHZA
+
+
+https://perma.cc/8DBE-HFDY
+
+
+https://perma.cc/X4PX-8B43
+
+
+https://perma.cc/7RJC-Q7SC
 
 
 
@@ -428,12 +461,16 @@ Q3 2020: Not required based on "Zákon Národnej rady Slovenskej republiky o civ
 Q4 2020, Q1 2021, Q4 2021: the parliament approved extensions of the state of emergency in these time periods. 
 
 *Sources*:
- https://www.mosr.sk/data/files/602.pdf
+ https://perma.cc/C49N-ZB2D
 
-https://www.zakonypreludi.sk/zz/1994-42
 
-https://www.nrsr.sk/web/Default.aspx?sid=udalosti/udalost&MasterID=55574
-https://www.nrsr.sk/web/Default.aspx?sid=zakony/zakon&ZakZborID=13&CisObdobia=8&CPT=380
+https://perma.cc/X8RH-XPBE
+
+
+https://perma.cc/NR32-GY6S
+
+
+https://perma.cc/FSF5-GMFE
 
 
 
@@ -479,12 +516,11 @@ https://www.nrsr.sk/web/Default.aspx?sid=zakony/zakon&ZakZborID=13&CisObdobia=8&
  I found no limitations on the lawmaking role of the legislature. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#S
-
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B317%5D&covid19=1
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-https://verfassungsblog.de/slovakias-democracy-and-the-covid-19-pandemic-when-executive-communication-fails/
+ https://perma.cc/8EA4-M34D
+https://perma.cc/J7UH-BULT
+https://perma.cc/RN4X-KNYL
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://perma.cc/SXE6-RL9U
 
 
 
@@ -606,8 +642,10 @@ https://verfassungsblog.de/slovakias-democracy-and-the-covid-19-pandemic-when-ex
  Uniform measures throughout the country. 
 
 *Sources*:
- https://korona.gov.sk/
-https://www.health.gov.sk/Clanky
+ https://perma.cc/X2PD-DX6D
+
+
+https://perma.cc/5EFR-V96K
 
 
 
@@ -651,25 +689,25 @@ https://www.health.gov.sk/Clanky
  Mandatory targeted testing and quarantine for Roma communities approved by government resolution 196/2020 that is considered discriminatory since it applies only to the Roma and not other communities or areas. Five Roma settlements were placed under quarantine by the military. According to European Union Agency for Fundamental Human Rights, "The lockdown of localities lasted until 15th May (some of the localities were opened earlier), with the town of Žehra being fully reopened as the last." (1) Therefore, discrim is coded as 3 (major de-jure discrimination) only in March-June period. 
 
 *Sources*:
- https://rokovania.gov.sk/RVL/Resolution/18334/1
-http://www.uvzsr.sk/index.php?option=com_content&view=article&id=4166:plan-rieenia-ochorenia-covid-19-v-marginalizovanych-romskych-komunitach&catid=250:koronavirus-2019-ncov&Itemid=153
-https://minorityrights.org/2020/06/02/roma-slovakia-covid-testing/
-https://www.amnesty.org/en/documents/ior60/2347/2020/en/
-https://www.amnesty.org/en/documents/eur72/2110/2020/en/
-https://www.vlada.gov.sk//stat-zacne-od-piatka-s-testovanim-marginalizovanych-romskych-komunit/
-https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-https://www.theguardian.com/world/2020/jun/24/policing-of-european-covid-19-lockdowns-shows-racial-bias-report
-https://www.bbc.com/news/world-52156976
-https://www.reuters.com/article/us-health-coronavirus-slovakia-roma/slovakia-closes-off-five-roma-settlements-due-to-coronavirus-idUSKCN21R28U
-https://www.reuters.com/article/idUSL8N2CY064
-https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30381-9/fulltext
-https://fra.europa.eu/sites/default/files/fra_uploads/sk_report_-_covid-19_impact_on_roma_en.pdf
-
+ https://perma.cc/K4XH-6H3F
+https://perma.cc/63KP-KAHJ
+https://perma.cc/C3UL-ZKHA
+https://perma.cc/P8QQ-XAVQ
+https://perma.cc/48U6-8TDT
+https://perma.cc/B6ZW-HTTY
+https://perma.cc/6VMN-VR8U
+https://perma.cc/ZGU3-URZ6
+https://perma.cc/A7XD-Z9UX
+https://perma.cc/RX34-PUFY
+https://perma.cc/4K2L-GMU2
+https://perma.cc/VYH4-M25P
+https://perma.cc/WBD9-XCAE
 (1)
-https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30381-9/fulltext#articleInformation
-https://www.ohchr.org/Documents/Events/GoodPracticesCoronavirus/slovakia-submission.docx
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/slovakia/
+
+https://perma.cc/2U6P-L5RG
+https://perma.cc/9NL7-VAY8
+https://perma.cc/B9LD-5H93
+https://perma.cc/KB6M-ZQV8
 
 
 
@@ -718,8 +756,10 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/slo
  No measures violating non-derogable rights found 
 
 *Sources*:
- https://korona.gov.sk/
-https://www.health.gov.sk/Clanky
+ https://perma.cc/X2PD-DX6D
+
+
+https://perma.cc/5EFR-V96K
 
 
 
@@ -763,8 +803,10 @@ https://www.health.gov.sk/Clanky
  No evidence of measures limiting media freedom found 
 
 *Sources*:
- https://rokovania.gov.sk/RVL/Resolution/18252/1
-https://korona.gov.sk/
+ https://perma.cc/AF97-9YFL
+
+
+https://perma.cc/3QWC-BDWG
 
 
 
@@ -884,11 +926,19 @@ https://korona.gov.sk/
  official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. 
 
 *Sources*:
- https://korona.gov.sk/
-https://cpj.org/europe/slovakia/
-https://ipi.media/slovakia/
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/slovakia
+ https://perma.cc/3QWC-BDWG
+
+
+https://perma.cc/D3DN-T6YC
+
+
+https://perma.cc/P24Q-GRFC
+
+
+https://perma.cc/R7WW-JY55
+
+
+https://perma.cc/KBX3-JAF2
 
 
 
@@ -930,10 +980,16 @@ https://rsf.org/en/slovakia
  No information on limitation of media reporting on the government's response 
 
 *Sources*:
- https://cpj.org/europe/slovakia/
-https://ipi.media/slovakia/
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/slovakia
+ https://perma.cc/D3DN-T6YC
+
+
+https://perma.cc/P24Q-GRFC
+
+
+https://perma.cc/R7WW-JY55
+
+
+https://perma.cc/KBX3-JAF2
 
 
 
@@ -975,10 +1031,16 @@ https://rsf.org/en/slovakia
  No information found on instances of limitations on media reporting on non-Covid-19 related news but with reference to the pandemic. 
 
 *Sources*:
- https://cpj.org/europe/slovakia/
-https://ipi.media/slovakia/
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/slovakia
+ https://perma.cc/D3DN-T6YC
+
+
+https://perma.cc/P24Q-GRFC
+
+
+https://perma.cc/R7WW-JY55
+
+
+https://perma.cc/KBX3-JAF2
 
 
 
@@ -1021,10 +1083,16 @@ https://rsf.org/en/slovakia
  No evidence found 
 
 *Sources*:
- https://cpj.org/europe/slovakia/
-https://ipi.media/slovakia/
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/slovakia
+ https://perma.cc/MW3G-V65T
+
+
+https://perma.cc/A996-8PUA
+
+
+https://perma.cc/J7BN-9NV9
+
+
+https://perma.cc/VG77-8SGA
 
 
 
@@ -1066,10 +1134,16 @@ https://rsf.org/en/slovakia
  No evidence found 
 
 *Sources*:
- https://cpj.org/europe/slovakia/
-https://ipi.media/slovakia/
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/slovakia
+ https://perma.cc/D3DN-T6YC
+
+
+https://perma.cc/P24Q-GRFC
+
+
+https://perma.cc/R7WW-JY55
+
+
+https://perma.cc/KBX3-JAF2
 
 
 
@@ -1111,10 +1185,16 @@ https://rsf.org/en/slovakia
  No evidence found 
 
 *Sources*:
- https://cpj.org/europe/slovakia/
-https://ipi.media/slovakia/
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/slovakia
+ https://perma.cc/D3DN-T6YC
+
+
+https://perma.cc/P24Q-GRFC
+
+
+https://perma.cc/R7WW-JY55
+
+
+https://perma.cc/KBX3-JAF2
 
 
 
@@ -1158,10 +1238,16 @@ https://rsf.org/en/slovakia
  official website with information on covid-19; no reports on disinformation from the government and its agents found. IPI reports on disinformation from Marian Kotleba, leader of the neo-fascist People’s Party Our Slovakia (LSNS),  which is not coded since he does not represent the government. 
 
 *Sources*:
- https://korona.gov.sk/
-https://cpj.org/europe/slovakia/
-https://rsf.org/en/slovakia
-https://ipi.media/as-pandemic-grows-slovak-media-struggle-to-fight-the-infodemic/
+ https://perma.cc/E5VX-ZJJZ
+
+
+https://perma.cc/9EN8-ZUVB
+
+
+https://perma.cc/B8AR-G9E8
+
+
+https://perma.cc/E9J5-JV26
 
 
 
@@ -1205,10 +1291,11 @@ https://ipi.media/as-pandemic-grows-slovak-media-struggle-to-fight-the-infodemic
  One case of police violence against Roma where "on 29 April, a police officer beat and threatened to shoot several Romani children in the settlement of Krompachy (one of the quarantined communities) for not respecting the quarantine measures. " (European Union Agency for Fundamental Human Rights, 1).  Since it was one incident and I have not found any further information on police violence, pomviol is coded as 1 only during March-June 2020. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/fra-2020-coronavirus-pandemic-eu-bulletin-roma_en.pdf
+ https://perma.cc/C79T-F54V
 (1)
-http://www.errc.org/reports--submissions/roma-rights-in-the-time-of-covid
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/slovakia/
+
+https://perma.cc/PZX7-XMW8
+https://perma.cc/CN5P-NXGN
 
 
 
@@ -1251,9 +1338,9 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/slo
  
 
 *Sources*:
- https://www.mod.gov.sk/46951-en/j-nad-otvorenie-prvej-romskej-osady-po-16-dnoch-od-jej-uzatvorenia-je-ukazkovym-prikladom-efektivneho-fungovania-domaceho-krizoveho-manazmentu/
-https://www.mod.gov.sk/46876-en/profesionalni-vojaci-budu-pocas-velkonocnych-sviatkov-asistovat-prislusnikom-policajneho-zboru-sr-pri-kontrole-dodrziavania-opatreni-prijatych-vladou/
-https://www.mosr.sk/48157-sk/rezort-obrany-vycleni-na-pomoc-rezortu-zdravotnictva-v-boji-proti-covid-19-do-1500-vojakov/
-https://www.mod.gov.sk/49209-en/profesionalni-vojaci-si-prevzali-ocenenia-za-mimoriadne-nasadenie-v-boji-proti-pandemii-covid-19/
-https://www.mod.gov.sk/48906-en/rezort-obrany-nasadzuje-uz-takmer-rok-na-boj-s-pandemiou-denne-stovky-vojakov/
+ https://perma.cc/SE6W-ZNDE
+https://perma.cc/4LLS-BDSM
+https://perma.cc/PW7J-UJ2D
+https://perma.cc/C3XR-T8KZ
+https://perma.cc/CEE4-8TGB
 (1)

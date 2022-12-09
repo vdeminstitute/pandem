@@ -46,41 +46,76 @@
 On February 1 2021, a military coup displaced the government. The new government also imposed a year-long state of emergency, but not in relation to Covid-19. Multiple sources contend that since the military coup, the restrictions have mostly been kept in place, although most of them have not been confirmed or enacted anew under the new government (for instance, the U.S. embassy states that much of the restrictions have not formally been announced again since the coup, and restrictions can change without formal notice). Thus, the exact restrictions in place are somewhat unclear in Myanmar, but in general the restrictions remain as they were before the coup (Garda for instance mentions that the restriction of no more than 30 people gathering remains as of early May 2021, and have also continuously reported that restrictions have remained in place since the coup). Since the measures and restrictions seem to be the same before and after the coup, and no reference to legal instruments has been found, this is coded as 5 for Q1 and Q2 of 2021 as well. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Myanmar_2015.pdf?lang=en
-
-https://mm.usembassy.gov/Covid-19-information/
+ https://perma.cc/CQ45-VNF2
 
 
+https://perma.cc/H38G-CHP8
 
 
-https://www.garda.com/crisis24/news-alert-full-history/aFv8t8QnEdDsHp4ZF/myanmar-extended-quarantine-measures-implemented-due-to-Covid-19-march-19
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.irrawaddy.com/news/burma/myanmar-govt-cancels-mass-gatherings-and-thingyan-water-festival-as-coronavirus-precaution.html
-
-https://www.irrawaddy.com/specials/myanmar-Covid-19/timeline-myanmars-government-responses-to-the-Covid-19-pandemic.html
-
-https://www.irrawaddy.com/specials/myanmar-Covid-19/different-laws-applied-myanmar-Covid-19-restrictions-lead-inconsistent-punishments-violators.html
-https://covidlawlab.org/?s&topic&country=Myanmar
+https://perma.cc/4UUD-52F2
 
 
-https://data.opendevelopmentmyanmar.net/laws_record/request-to-avoid-public-gatherings
+https://perma.cc/BCY5-8KW4
 
 
-https://www.garda.com/crisis24/news-alerts/393901/myanmar-authorities-extend-international-flight-suspension-until-november-30-update-26
+https://perma.cc/4JCP-KC8W
 
-https://www.garda.com/crisis24/news-alerts/383596/myanmar-stay-at-home-orders-issued-for-additional-townships-on-september-26-update-25
-https://www.garda.com/crisis24/news-alerts/463451/myanmar-authorities-continue-to-enact-Covid-19-restrictions-as-of-april-5-update-33
 
-https://www.garda.com/crisis24/news-alerts/472336/myanmar-officials-continue-to-enact-Covid-19-rules-in-rakhine-state-as-of-april-28-update-10
+https://perma.cc/D9HL-UUJS
 
-https://www.garda.com/crisis24/news-alerts/474581/myanmar-authorities-continue-to-enact-Covid-19-restrictions-as-of-may-4-update-34
 
-https://www.garda.com/crisis24/news-alerts/449036/myanmar-authorities-extended-Covid-19-restrictions-through-march-31-update-32
+https://perma.cc/L7BP-STBE
 
-https://www.garda.com/crisis24/news-alerts/423381/myanmar-authorities-extend-Covid-19-restrictions-through-jan-31-2021-update-29
 
-https://verfassungsblog.de/myanmars-military-coup-detat-is-unconstitutional/ 
+https://perma.cc/387S-74UL
+
+
+
+
+
+https://perma.cc/5QNP-W4AX
+
+
+
+
+
+https://perma.cc/ZU5H-P2DY
+
+
+https://perma.cc/2ZUW-UZTH
+
+
+https://perma.cc/7U23-CUCP
+
+
+
+
+
+https://perma.cc/8H5F-FLPE
+
+
+
+
+
+https://perma.cc/9WGC-DHJZ
+
+
+
+
+
+https://perma.cc/M4PZ-ELAH
+
+
+
+
+
+https://perma.cc/65TZ-RDJR
+
+
+
+
+
+https://perma.cc/XZU7-2N68
 
 
 
@@ -409,28 +444,64 @@ https://verfassungsblog.de/myanmars-military-coup-detat-is-unconstitutional/ 
 The new parliament was supposed to convene for the first time on February 1 2021, but the Burmese military staged a military coup, declared a year-long state of emergency and have not let the new parliament convene. They have also incarcerated large parts of the previous parliamentary members, some of which have died in custody. Since the coup, there is no parliament sitting in Myanmar, but this dissolvment is not in relation to Covid-19. It is thus coded as 5, parliament dissolved for some other reason than Covid-19. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-
-https://www.irrawaddy.com/news/burma/this-week-in-parliament-23.html
+ https://perma.cc/2D67-UVEJ
 
 
-https://www.irrawaddy.com/specials/myanmar-Covid-19/timeline-myanmars-government-responses-to-the-Covid-19-pandemic.html
+https://perma.cc/L84L-AKBF
 
 
-https://www.irrawaddy.com/news/burma/myanmar-govt-cancels-mass-gatherings-and-thingyan-water-festival-as-coronavirus-precaution.html
 
 
-https://www.bbc.com/news/world-asia-54899170
 
-https://verfassungsblog.de/myanmars-military-coup-detat-is-unconstitutional/
+https://perma.cc/BUN6-AZAD
 
-https://www.ipu.org/news/news-in-brief/2021-03/ipu-leadership-meets-with-myanmar-parliamentarians
 
-https://www.ipu.org/news/press-releases/2021-03/ipu-reports-sharp-increase-in-abuse-against-parliamentarians-driven-largely-myanmar
 
-https://www.icnl.org/post/analysis/unlawful-edicts-rule-by-decree-under-the-myanmar-tatmadaw
 
-https://www.hrw.org/news/2021/03/25/myanmar-elected-lawmaker-group-declared-illegal
+
+https://perma.cc/2D68-DLPH
+
+
+
+
+
+https://perma.cc/RHJ8-4K95
+
+
+
+
+
+https://perma.cc/F9YJ-4WP2
+
+
+
+
+
+https://perma.cc/3H73-23HM
+
+
+
+
+
+https://perma.cc/VEF5-4YRS
+
+
+
+
+
+https://perma.cc/39PY-K5SS
+
+
+
+
+
+https://perma.cc/NU8N-L79W
+
+
+
+
+
+
 
 
 
@@ -552,25 +623,43 @@ https://www.hrw.org/news/2021/03/25/myanmar-elected-lawmaker-group-declared-ille
  Many of the emergency measures have been enforced nationwide. However, there have been variation in that curfews initially were only placed in three regions (Yangon, Ayeyawaddy, and Nay Pyi Taw). On september 26 2020, the government also implemented special stay at home orders in several townships. This is therefore coded as 2, there has been some sub-national variation, for Q2-Q4 2020. Since the coup, the military has maintained most of the existing restrictions, including the regional variation. Garda for instance reports that there has been continuing variation between regions, as some had more restrictions than others before the coup. This is thus coded 2 for Q1-Q2 of 2021 as well. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/333906/myanmar-authorities-introduce-curfews-in-three-regions-from-april-18-update-7
+ https://perma.cc/ED63-Z3UK
 
-https://www.garda.com/crisis24/news-alert-full-history/aFv8t8QnEdDsHp4ZF/myanmar-extended-quarantine-measures-implemented-due-to-Covid-19-march-19
 
-https://www.acaps.org/covid19-government-measures-dataset
+https://perma.cc/SQA6-27U9
 
-https://www.garda.com/crisis24/news-alerts/377726/myanmar-restrictions-increased-in-yangon-amid-rise-in-Covid-19-cases-september-10-update-22
 
-https://www.garda.com/crisis24/news-alerts/375841/myanmar-authorities-impose-nightly-curfew-in-rakhine-state-from-september-4-update-21
+https://perma.cc/9DXY-XZT2
 
-https://www.garda.com/crisis24/news-alerts/373266/myanmar-authorities-tighten-Covid-19-restrictions-as-of-august-27-update-19
 
-https://www.garda.com/crisis24/news-alerts/383596/myanmar-stay-at-home-orders-issued-for-additional-townships-on-september-26-update-25
-https://www.garda.com/crisis24/news-alerts/463451/myanmar-authorities-continue-to-enact-Covid-19-restrictions-as-of-april-5-update-33
-https://www.garda.com/crisis24/news-alerts/472336/myanmar-officials-continue-to-enact-Covid-19-rules-in-rakhine-state-as-of-april-28-update-10
-https://www.garda.com/crisis24/news-alerts/449091/myanmar-Covid-19-restrictions-remain-in-place-in-yangon-region-as-of-march-1-update-9
-https://www.garda.com/crisis24/news-alerts/474581/myanmar-authorities-continue-to-enact-Covid-19-restrictions-as-of-may-4-update-34
-https://www.garda.com/crisis24/news-alerts/449036/myanmar-authorities-extended-Covid-19-restrictions-through-march-31-update-32
-https://www.garda.com/crisis24/news-alerts/423381/myanmar-authorities-extend-Covid-19-restrictions-through-jan-31-2021-update-29
+https://perma.cc/5ZKC-JZS2
+
+
+https://perma.cc/NZ4Z-7EYT
+
+
+https://perma.cc/4LMW-BE7F
+
+
+https://perma.cc/QAC6-2XJV
+
+
+https://perma.cc/GBH7-AFNT
+
+
+https://perma.cc/NP75-DJHD
+
+
+https://perma.cc/H27S-RT7S
+
+
+https://perma.cc/DQM8-GRET
+
+
+https://perma.cc/8RFP-9SLM
+
+
+https://perma.cc/9XY7-PMP9
 
 
 
@@ -614,14 +703,23 @@ https://www.garda.com/crisis24/news-alerts/423381/myanmar-authorities-extend-Cov
  There are reports of some discrimination from law enforcement onto the Rohingyan population, who has been subject to harassment, as well as unlawful fines, when attempting to cross checkpoints that are part of the emergency measures. Similar reports are found in the second period, where Rohingyans and Rakhians have been subject to police targeting and extortion. However, no sources indicate that this is national or regional policy, or that there are any more severe or systematically imposed instances of de facto discrimination ongoing in relation to the Covid-19 emergency measures (the more severe discrimination of Rohingyans is from before the emergency measures and not part of the Covid-19 response, and thus not accounted for here). While no new reports of discrimination have been found in later periods, there has not been any evidence or indication that discrimination toward these groups have ceased or any indication that the situation has improved. This is therefore coded as 1, minor de facto discrimination, for all periods. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/29/pandemic-adds-new-threat-rohingyas-myanmar
+ https://perma.cc/8LBM-BCWN
 
-https://www.hrw.org/news?country[]=9543
 
-https://www.amnesty.org/en/search/?country=38380&resourceType=newsarticle&sort=date
+https://perma.cc/J473-9XNG
 
-https://thediplomat.com/2020/09/racism-is-fueling-myanmars-deadly-second-wave-of-Covid-19/
- 
+
+https://perma.cc/LY4E-W8PE
+
+
+
+https://perma.cc/9JV7-RDQX
+
+
+
+
+
+
 
 
 
@@ -670,13 +768,16 @@ https://thediplomat.com/2020/09/racism-is-fueling-myanmars-deadly-second-wave-of
  While there are reports of violations of human rights in Myanmar, and especially so in the recent years, no evidence has been found of any violations of non-derogable rights in the Covid-19 emergency measures. After the coup on 2021-02-01 the violence and human rights abuse from the government has exacerbated, but as far as has been found this has not been in reference to any Covid-19 restrictions, but rather in relation to the state of emergency. Thus, while major human rights violations of non-derogable rights is ongoing in Myanmar, these are not related to the Covid-19 response. Thus, this is coded 0. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/29/pandemic-adds-new-threat-rohingyas-myanmar
+ https://perma.cc/A42D-269V
 
-https://www.hrw.org/news?country[]=9543
 
-https://www.amnesty.org/en/search/?country=38380&resourceType=newsarticle&sort=date
+https://perma.cc/8EW6-GY28
 
-https://www.refugeesinternational.org/reports/2020/5/27/myanmar-call-to-end-human-rights-abuses-and-accountability-for-covid-19
+
+https://perma.cc/U9Z9-UZ8H
+
+
+https://perma.cc/TX63-DXCD
 
 
 
@@ -720,20 +821,34 @@ https://www.refugeesinternational.org/reports/2020/5/27/myanmar-call-to-end-huma
  The emergency measures do not place de jure limitations on media, but Myanmar has previous de jure limitations on media that has been used to restrict reporting on Covid-19. Article 505 of the Penal Code states that spreading information that "cause fear or alarm to the public" is illegal and can result in prison up to two years. This penal code has been in continued use since the coup, with several journalists being put on “wanted lists”. This, however, is not a part of the emergency response and was in place before the Covid-19 crisis, and no sources state that Myanmar has introduced any new de jure limitations since then, so this is coded as 0 for all three periods. 
 
 *Sources*:
- https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-Covid-19-death
+ https://perma.cc/3U5F-STEW
 
-https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
 
-https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
+https://perma.cc/4UYL-CSXT
 
-https://rsf.org/en/thematique/internet?countries%5B60%5D=60
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Myanmar
-https://rsf.org/en/news/myanmar-junta-now-publishing-lists-wanted-journalists
-https://www.nytimes.com/2021/01/31/world/asia/myanmar-coup-aung-san-suu-kyi.html
-https://www.hrw.org/news/2021/05/06/myanmar-junta-bans-satellite-television
-https://www.hrw.org/news/2021/04/29/myanmar-juntas-assault-truth
-https://rsf.org/en/news/myanmars-military-junta-eliminates-independent-media
+https://perma.cc/ZJ2Z-RBHE
+
+
+https://perma.cc/UMQ8-MQY4
+
+
+https://perma.cc/V9D7-PAUS
+
+
+https://perma.cc/33NX-JV39
+
+
+https://perma.cc/6YHK-KCD9
+
+
+https://perma.cc/B45K-PKAG
+
+
+https://perma.cc/LBN7-VQ56
+
+
+https://perma.cc/H6G4-EJ4R
 
 
 
@@ -772,15 +887,19 @@ https://rsf.org/en/news/myanmars-military-junta-eliminates-independent-media
  No de-jure limits on media freedom in the emergency response. 
 
 *Sources*:
- https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-Covid-19-death
+ https://perma.cc/2WL3-V6VD
 
-https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
 
-https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
+https://perma.cc/7R7T-KVDQ
 
-https://rsf.org/en/thematique/internet?countries%5B60%5D=60
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Myanmar
+https://perma.cc/XJN8-U8DD
+
+
+https://perma.cc/LV7N-NQGZ
+
+
+https://perma.cc/E6R4-35WH
 
 
 
@@ -819,15 +938,19 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  No de-jure limits on media freedom in the emergency response. 
 
 *Sources*:
- https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-Covid-19-death
+ https://perma.cc/PC5H-PVQU
 
-https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
 
-https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
+https://perma.cc/G9DD-MJAX
 
-https://rsf.org/en/thematique/internet?countries%5B60%5D=60
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Myanmar
+https://perma.cc/4QD3-PRKT
+
+
+https://perma.cc/BJG9-DHAW
+
+
+https://perma.cc/B8EG-4RSB
 
 
 
@@ -869,20 +992,34 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  A journalist was arrested and jailed for two years in May 2020 for reporting on a person having died of Covid-19, under Article 505 of the Penal Code stating that spreading information that "cause fear or alarm to the public". This legislation evidently puts de facto limitations on media reporting about Covid-19. Myanmar has also closed down over 200 websites in response to the crisis, many of which were media outlets, claiming that these sites spread "fake news”, a ban that has largely continued throughout the year. Furthermore, journalists were not exempt from the stay at home-orders in place during the fall of 2020, and international journalists were not exempt from the ban on foreigners entering the country, effectively limiting a lot of coverage on both Covid-19 and non Covid-19-related news. After the Coup in 2021-02-01 the limitation of media freedom has only been exacerbated, and by now more or less no independent media exists in the country. Journalists are also put on wanted lists, and access to internet and media remains severely restricted by government. While many of these measures are not made with reference to the pandemic, they fully limit any reporting on the pandemic, the governments response and the like. Thus, this is coded as 1 for all periods. 
 
 *Sources*:
- https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-Covid-19-death
+ https://perma.cc/36RR-Z49T
 
-https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
 
-https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
+https://perma.cc/RJ8J-UWGX
 
-https://rsf.org/en/thematique/internet?countries%5B60%5D=60
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Myanmar
-https://rsf.org/en/news/myanmar-junta-now-publishing-lists-wanted-journalists
-https://www.nytimes.com/2021/01/31/world/asia/myanmar-coup-aung-san-suu-kyi.html
-https://www.hrw.org/news/2021/05/06/myanmar-junta-bans-satellite-television
-https://www.hrw.org/news/2021/04/29/myanmar-juntas-assault-truth
-https://rsf.org/en/news/myanmars-military-junta-eliminates-independent-media
+https://perma.cc/B8UC-KPRR
+
+
+https://perma.cc/LV7N-NQGZ
+
+
+https://perma.cc/SJ25-C2K6
+
+
+https://perma.cc/VV5B-V8NZ
+
+
+https://perma.cc/CQN4-2XP3
+
+
+https://perma.cc/FF86-UQ4L
+
+
+https://perma.cc/4UXQ-EQ4D
+
+
+https://perma.cc/VV5B-V8NZ
 
 
 
@@ -924,20 +1061,34 @@ https://rsf.org/en/news/myanmars-military-junta-eliminates-independent-media
  A journalist was arrested and jailed for two years in May 2020 for reporting on a person having died of Covid-19, under Article 505 of the Penal Code stating that spreading information that "cause fear or alarm to the public". This legislation evidently puts de facto limitations on media reporting about Covid-19. Myanmar has also closed down over 200 websites in response to the crisis, many of which were media outlets, claiming that these sites spread "fake news”, a ban that has largely continued throughout the year. Furthermore, journalists were not exempt from the stay at home-orders in place during the fall of 2020, and international journalists were not exempt from the ban on foreigners entering the country, effectively limiting a lot of coverage on both Covid-19 and non Covid-19-related news. After the Coup in 2021-02-01 the limitation of media freedom has only been exacerbated, and by now more or less no independent media exists in the country. Journalists are also put on wanted lists, and access to internet and media remains severely restricted by government. While many of these measures are not made with reference to the pandemic, they fully limit any reporting on the pandemic, the governments response and the like. Thus, this is coded as 1 for all periods. 
 
 *Sources*:
- https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-Covid-19-death
+ https://perma.cc/36RR-Z49T
 
-https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
 
-https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
+https://perma.cc/RJ8J-UWGX
 
-https://rsf.org/en/thematique/internet?countries%5B60%5D=60
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Myanmar
-https://rsf.org/en/news/myanmar-junta-now-publishing-lists-wanted-journalists
-https://www.nytimes.com/2021/01/31/world/asia/myanmar-coup-aung-san-suu-kyi.html
-https://www.hrw.org/news/2021/05/06/myanmar-junta-bans-satellite-television
-https://www.hrw.org/news/2021/04/29/myanmar-juntas-assault-truth
-https://rsf.org/en/news/myanmars-military-junta-eliminates-independent-media
+https://perma.cc/B8UC-KPRR
+
+
+https://perma.cc/LV7N-NQGZ
+
+
+https://perma.cc/SJ25-C2K6
+
+
+https://perma.cc/VV5B-V8NZ
+
+
+https://perma.cc/CQN4-2XP3
+
+
+https://perma.cc/FF86-UQ4L
+
+
+https://perma.cc/4UXQ-EQ4D
+
+
+https://perma.cc/VV5B-V8NZ
 
 
 
@@ -979,30 +1130,49 @@ https://rsf.org/en/news/myanmars-military-junta-eliminates-independent-media
  Myanmar had severe restrictions on media freedom before the coup in 2021, and after that more or less complete restrictions on media freedom. While none of these restrictions, as far as have been found, were made in relation or with reference to Covid-19, but rather with Article 505 of the Penal code which was in place before the pandemic. However, journalists were not exempt from the stay at home-orders that have been invoked at different times and in different regions since the start of the pandemic, and international journalists were not exempt from the ban on foreigners entering the country, effectively limiting a lot of coverage on both Covid-19 and non Covid-19-related news. Since the government after the coup have kept most restrictions in place, this is assumed to be ongoing. This is therefore coded 1 for all periods. 
 
 *Sources*:
- https://www.ohchr.org/en/NewsEvents/Pages/DisplayNews.aspx?NewsID=25783&LangID=E
+ https://perma.cc/4M8B-WNFL
 
-https://en.ejo.ch/ethics-quality/myanmar-coronavirus-and-the-media
 
-https://www.hrw.org/news/2020/03/17/myanmar-denials-define-Covid-19-response
+https://perma.cc/GM3W-A6WD
 
-https://www.article19.org/wp-content/uploads/2020/08/2020.08.31-COVID-19-briefing-paper-Myanmar.pdf
 
-https://www.ifj.org/media-centre/news/detail/category/press-releases/article/myanmar-journalists-face-restrictions-amid-the-pandemic.html
+https://perma.cc/6YHR-U798
 
-https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-Covid-19-death
 
-https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
+https://perma.cc/Y3XJ-2HEP
 
-https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
 
-https://rsf.org/en/thematique/internet?countries%5B60%5D=60
+https://perma.cc/K49C-V3XB
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Myanmar
-https://rsf.org/en/news/myanmar-junta-now-publishing-lists-wanted-journalists
-https://www.nytimes.com/2021/01/31/world/asia/myanmar-coup-aung-san-suu-kyi.html
-https://www.hrw.org/news/2021/05/06/myanmar-junta-bans-satellite-television
-https://www.hrw.org/news/2021/04/29/myanmar-juntas-assault-truth
-https://rsf.org/en/news/myanmars-military-junta-eliminates-independent-media
+
+https://perma.cc/XKM9-EY9M
+
+
+https://perma.cc/HFM5-M29E
+
+
+https://perma.cc/LF53-BXAM
+
+
+https://perma.cc/ZD47-UMPU
+
+
+https://perma.cc/6LXW-27S8
+
+
+https://perma.cc/9MV3-2Q2E
+
+
+https://perma.cc/5DCJ-89RS
+
+
+https://perma.cc/432N-ZFSD
+
+
+https://perma.cc/ZFF3-VAJN
+
+
+https://perma.cc/L5XJ-LEX3
 
 
 
@@ -1045,29 +1215,49 @@ https://rsf.org/en/news/myanmars-military-junta-eliminates-independent-media
  There is widespread reports that Myanmar is covering up the actual number of cases and deaths of Covid-19, and that media is not given access to any information on this beyond the government approved information. This lack of access is ongoing in both Q2 and Q3 of 2020 according to a report by Article19, and no evidence has been found indicating that the situation has improved. In addition, stay at home-orders in place during in various townships in Myanmar have not exempted journalists, which effectively limits their capacity to investigate and access information about Covid-19. No indication has been found that the situation has improved after the coup, and the media has more or less banned all independent media and any transparency, thus affecting access to information on Covid-19 as well as anything else. This is therefore coded as 2 for all periods. 
 
 *Sources*:
- https://www.ohchr.org/en/NewsEvents/Pages/DisplayNews.aspx?NewsID=25783&LangID=E
+ https://perma.cc/LJ4Q-M3MN
 
-https://en.ejo.ch/ethics-quality/myanmar-coronavirus-and-the-media
 
-https://www.hrw.org/news/2020/03/17/myanmar-denials-define-Covid-19-response
+https://perma.cc/PU49-XV2N
 
-https://www.article19.org/wp-content/uploads/2020/08/2020.08.31-COVID-19-briefing-paper-Myanmar.pdf
 
-https://www.ifj.org/media-centre/news/detail/category/press-releases/article/myanmar-journalists-face-restrictions-amid-the-pandemic.html
-https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-Covid-19-death
+https://perma.cc/8DBW-WQP2
 
-https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
 
-https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
+https://perma.cc/VQ76-6JLK
 
-https://rsf.org/en/thematique/internet?countries%5B60%5D=60
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Myanmar
-https://rsf.org/en/news/myanmar-junta-now-publishing-lists-wanted-journalists
-https://www.nytimes.com/2021/01/31/world/asia/myanmar-coup-aung-san-suu-kyi.html
-https://www.hrw.org/news/2021/05/06/myanmar-junta-bans-satellite-television
-https://www.hrw.org/news/2021/04/29/myanmar-juntas-assault-truth
-https://rsf.org/en/news/myanmars-military-junta-eliminates-independent-media
+https://perma.cc/V9M5-F8VA
+
+
+https://perma.cc/NM3P-K423
+
+
+https://perma.cc/A77X-87J4
+
+
+https://perma.cc/TRE3-TYZD
+
+
+https://perma.cc/7HGP-TVY7
+
+
+https://perma.cc/L5ER-YKZRd
+
+
+https://perma.cc/K8WB-P3MR
+
+
+https://perma.cc/NMX2-4DWN
+
+
+https://perma.cc/68HP-2FFZ
+
+
+https://perma.cc/6CW3-59ZY
+
+
+https://perma.cc/WDG3-3V2P
 
 
 
@@ -1109,23 +1299,37 @@ https://rsf.org/en/news/myanmars-military-junta-eliminates-independent-media
  While journalists are facing grave verbal and physical harassment, these cases have not been in relation to Covid-19 or legitimized by them. Rather, such measures have been in relation to the Penal Code, which has been exacerbated after the Coup in 2021. Since this is not specifically on reporting on Covid-19, this is therefore coded as 0. 
 
 *Sources*:
- https://rsf.org/en/news/Covid-19-emergency-laws-spell-disaster-press-freedom
+ https://perma.cc/Y2YQ-D3PV
 
-https://rsf.org/en/news/mid-coronavirus-crisis-myanmar-blocks-221-sites-fake-news
 
-https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-Covid-19-death
+https://perma.cc/ZKA6-5GZF
 
-https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
 
-https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
+https://perma.cc/36RR-Z49T
 
-https://cpj.org/asia/myanmar/
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Myanmar
-https://www.nytimes.com/2021/01/31/world/asia/myanmar-coup-aung-san-suu-kyi.html
-https://www.hrw.org/news/2021/05/06/myanmar-junta-bans-satellite-television
-https://www.hrw.org/news/2021/04/29/myanmar-juntas-assault-truth
-https://rsf.org/en/news/myanmars-military-junta-eliminates-independent-media
+https://perma.cc/RJ8J-UWGX
+
+
+https://perma.cc/B8UC-KPRR
+
+
+https://perma.cc/Q5SW-LKK5
+
+
+https://perma.cc/SJ25-C2K6
+
+
+https://perma.cc/CQN4-2XP3
+
+
+https://perma.cc/FF86-UQ4L
+
+
+https://perma.cc/4UXQ-EQ4D
+
+
+https://perma.cc/VV5B-V8NZ
 
 
 
@@ -1167,23 +1371,37 @@ https://rsf.org/en/news/myanmars-military-junta-eliminates-independent-media
  A journalist has been arrested and jailed for reporting on a Covid-19 death. This is however the only report found on physical harassment of journalists, and it does  not seem to be a recurring or systematic practice in relation to Covid-19 reporting. While journalists are facing grave verbal and physical harassment, these cases have not been in relation to Covid-19 or legitimized by them. Rather, such measures have been in relation to the Penal Code, which has been exacerbated after the Coup in 2021. Since this is not specifically on reporting on Covid-19, this is therefore coded as 0. 
 
 *Sources*:
- https://rsf.org/en/news/Covid-19-emergency-laws-spell-disaster-press-freedom
+ https://perma.cc/Y2YQ-D3PV
 
-https://rsf.org/en/news/mid-coronavirus-crisis-myanmar-blocks-221-sites-fake-news
 
-https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-Covid-19-death
+https://perma.cc/ZKA6-5GZF
 
-https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
 
-https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
+https://perma.cc/36RR-Z49T
 
-https://cpj.org/asia/myanmar/
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Myanmar
-https://www.nytimes.com/2021/01/31/world/asia/myanmar-coup-aung-san-suu-kyi.html
-https://www.hrw.org/news/2021/05/06/myanmar-junta-bans-satellite-television
-https://www.hrw.org/news/2021/04/29/myanmar-juntas-assault-truth
-https://rsf.org/en/news/myanmars-military-junta-eliminates-independent-media
+https://perma.cc/RJ8J-UWGX
+
+
+https://perma.cc/B8UC-KPRR
+
+
+https://perma.cc/Q5SW-LKK5
+
+
+https://perma.cc/SJ25-C2K6
+
+
+https://perma.cc/CQN4-2XP3
+
+
+https://perma.cc/FF86-UQ4L
+
+
+https://perma.cc/4UXQ-EQ4D
+
+
+https://perma.cc/VV5B-V8NZ
 
 
 
@@ -1227,14 +1445,16 @@ https://rsf.org/en/news/myanmars-military-junta-eliminates-independent-media
  There are widespread reports that Myanmar has misreported the number of Covid-19 cases and deaths, but no sources have been found that state that the government has produced disinformation on Covid-19 itself. Myanmar has a webpage with numerous documents on Covid-19 and information for the public, but these are all in Burmese and Google Translate isn't able to translate this well enough for those documents to be examined. This is coded as 0, as no direct evidence of disinformation has been found, but note that the documents produced by the government has not been assessed. 
 
 *Sources*:
- :
-https://mohs.gov.mm/Main/content/publication/key-activities-taken-by-mohs
+ 
 
-https://www.hrw.org/news/2020/03/17/myanmar-denials-define-Covid-19-response
 
-https://mohs.gov.mm/Main/content/publication/2019-ncov
+https://perma.cc/E2CZ-KMNX
 
-https://www.who.int/news-room/feature-stories/detail/yangon-uses-media-mix-to-boost-solidarity-against-Covid-19
+
+
+
+
+https://perma.cc/WVL3-5UH5
 
 
 
@@ -1279,20 +1499,31 @@ https://www.who.int/news-room/feature-stories/detail/yangon-uses-media-mix-to-bo
 Since the 2020-02-01 coup, extensive violence by primarily the police force has occurred, killing hundreds of protesters. Much of the violence has erupted as a result of police enforcing Covid-19 related nightly curfews the new government has upheld (but which were enacted by the previous one). When enforcing these curfews, extensive violence has been used toward protesters who have been active during nighttime. Since this is related to Covid-19 through these curfews, this is coded as 3 for Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/29/pandemic-adds-new-threat-rohingyas-myanmar
+ https://perma.cc/8PHB-B3UQ
 
-https://www.hrw.org/news?country[]=9543
 
-https://www.amnesty.org/en/search/?country=38380&resourceType=newsarticle&sort=date
+https://perma.cc/6MPK-G7XK
 
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25838&LangID=E
 
-https://thediplomat.com/2020/09/racism-is-fueling-myanmars-deadly-second-wave-of-Covid-19/
-https://www.bbc.com/news/world-asia-56265962
-https://www.pbs.org/newshour/world/myanmar-protesters-venture-out-despite-police-violence
-https://www.npr.org/2021/03/07/974588707/violence-continues-in-myanmar-as-police-enforce-curfew-and-occupy-hospitals?t=1621538707621
+https://perma.cc/8X4S-3BWH
 
-https://www.reuters.com/news/picture/myanmar-protesters-defy-curfew-as-police-idUSKBN2B01QT
+
+https://perma.cc/6VH6-QQJ9
+
+
+https://perma.cc/XC7P-S94E
+
+
+https://perma.cc/753W-GA7G
+
+
+https://perma.cc/7AEC-W6YW
+
+
+https://perma.cc/C6CK-6MVS
+
+
+https://perma.cc/82KS-HHXT
 
 
 
@@ -1334,8 +1565,13 @@ https://www.reuters.com/news/picture/myanmar-protesters-defy-curfew-as-police-id
  The military is involved in securing check points for traveling in Myanmar, and this is therefore coded as 1. No sources have been found stating that the military has additional tasks in the emergency measures, but the military presence is very large in Myanmar so it is possible that they have been involved in additional measures. No reports have been found on the military activity in these regards in Q3 and Q4 of 2020, but as no evidence confirming that their involvement has ceased has been found, this is assumed to be on going and coded 1 for these periods. The military presence has increased as a result of the coup, and there is no evidence suggesting that the military has relaxed it’s presence in enforcing Covid-19 restrictions such as curfews. This is therefore coded as 1 for these periods as well. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/29/pandemic-adds-new-threat-rohingyas-myanmar
-https://www.crisisgroup.org/asia/south-east-asia/myanmar/b161-conflict-health-cooperation-and-Covid-19-myanmar
-https://www.bbc.com/news/world-asia-56827116
+ https://perma.cc/CUG3-3BCJ
 
-https://www.france24.com/en/asia-pacific/20210214-myanmar-military-ratchets-up-pressure-tanks-deployed-soldiers-fire-at-protesters
+
+https://perma.cc/G8RS-GCQ8
+
+
+https://perma.cc/RM3W-VVG7
+
+
+https://perma.cc/U67S-5DM9

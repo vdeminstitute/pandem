@@ -50,24 +50,14 @@ According to legal experts (2), ''In Cameroon, emergency law is solely the prero
 ''Instead, Cameroon has chosen to base the fight against Covid-19 on its existing legal framework. The fight against Covid-19 is a public health issue which, according to Cameroonian law, is a component of public order. The protection of public order is the responsibility of executive authorities, which have the power to adopt any executive orders for its preservation. As of now, all the measures taken in the context of the fight against Covid-19 are administrative measures, but as we shall see, they have different legal qualities and force.'' (1) 
 
 *Sources*:
- https://www.spm.gov.cm/site/?q=fr/content/strategie-gouvernementale-de-riposte-face-la-pandemie-de-coronavirus-covid-19
-(1)
-
-https://verfassungsblog.de/cameroons-fight-against-covid-19-an-ordinary-legal-framework-for-an-extraordinary-situation/
-(2)
-
-https://www.garda.com/crisis24/news-alerts/386261/cameroon-schools-reopened-amid-easing-of-covid-19-restrictions-october-5-update-9
-
-https://www.prc.cm/en/multimedia/documents/8228-government-response-strategy-to-the-coronavirus-pandemic-covid-19
-
-https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
-
-https://information.tv5monde.com/video/coronavirus-le-cameroun-ferme-ses-frontieres
-
-https://www.garda.com/crisis24/news-alerts/474506/cameroon-covid-19-restrictions-remain-largely-unchanged-nationwide-as-of-may-3-by-comparison-with-mid-march-update-12
-
-https://cm.usembassy.gov/covid-19-information/
-(8)
+ [1]	perma.cc/KE5B-YTSA
+[2]	perma.cc/72UK-9SMG
+[3]	perma.cc/77TJ-PEUP
+[4]	perma.cc/Y9XT-KAHM
+[5]	perma.cc/L9QE-HWHG
+[6]	perma.cc/BQF8-PB8M
+[7]	perma.cc/TEG3-UW6C
+[8]	perma.cc/2AZP-7YVM
 
 
 
@@ -395,26 +385,16 @@ https://cm.usembassy.gov/covid-19-information/
  The National Assembly of Cameroon held its first session of 2020 from 20 March 2020 to 18 April 2020 and resumed sittings for its second session on 10 June 2020. Decisions regarding the emergency response to Covid-19 have come primarily through the Prime Minister's office or public health authorities, without requiring approval from the parliament. Such measures include requiring masks and closing borders, curfews, social distancing measures and limits on public gatherings. Some of these have been eased since 30 April 2020. 
 
 *Sources*:
- https://www.assnat.cm/index.php/en/
+ [1]	perma.cc/K2BD-NT2K
+[2]	https://perma.cc/DJ79-NX47
+[3]	https://www.facebook.com/notes/assembl%C3%A9e-nationale-du-cameroun/discours-de-cloture-du-tres-honorable-cavaye-yeguie-djibril-president-de-lassemb/2748128938643984/
 
-International
-IDEA
-Parliaments
-during
-the
-pandemic
+[4]	https://www.facebook.com/notes/assembl%C3%A9e-nationale-du-cameroun/discours-douverture-du-tres-honorable-cavaye-yeguie-djibril-president-de-lassemb/2872600949530115/
 
-https://www.facebook.com/notes/assembl%C3%A9e-nationale-du-cameroun/discours-de-cloture-du-tres-honorable-cavaye-yeguie-djibril-president-de-lassemb/2748128938643984/
-
-https://www.facebook.com/notes/assembl%C3%A9e-nationale-du-cameroun/discours-douverture-du-tres-honorable-cavaye-yeguie-djibril-president-de-lassemb/2872600949530115/
-
-https://twitter.com/CRTV_web/status/1248370100622757888
-
-https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
-
-https://www.spm.gov.cm/site/?q=fr/content/strategie-gouvernementale-de-riposte-face-la-pandemie-de-coronavirus-covid-19
-
-https://www.journalducameroun.com/en/cameroonparliament-smashes-govt-anti-coronavirus-measures/1
+[5]	perma.cc/DM6F-DWZC
+[6]	perma.cc/5XUC-UMY5
+[7]	perma.cc/KV7A-D74D
+[8]	perma.cc/XB72-JECJ
 
 
 
@@ -536,21 +516,14 @@ https://www.journalducameroun.com/en/cameroonparliament-smashes-govt-anti-corona
  No sub-national variation. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/474506/cameroon-covid-19-restrictions-remain-largely-unchanged-nationwide-as-of-may-3-by-comparison-with-mid-march-update-12
-
-https://africacdc.org/download/perc-finding-the-balance-public-health-and-social-measures-in-cameroon/
-
-https://www.garda.com/crisis24/news-alerts/386261/cameroon-schools-reopened-amid-easing-of-covid-19-restrictions-october-5-update-9
-
-https://cm.usembassy.gov/covid-19-information/
-
-https://www.prc.cm/en/multimedia/documents/8228-government-response-strategy-to-the-coronavirus-pandemic-covid-19
-
-https://www.spm.gov.cm/site/?q=fr/content/strategie-gouvernementale-de-riposte-face-la-pandemie-de-coronavirus-covid-19
-
-https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
-
-https://afrique.le360.ma/autres-pays/societe/2020/05/01/30417-cameroun-coronavirus-le-gouvernement-assouplit-les-mesures-restrictives-30417
+ [1]	perma.cc/WT6L-TRCQ
+[2]	perma.cc/9QHX-NA8Y
+[3]	perma.cc/4U5V-R6TF
+[4]	perma.cc/34N6-98Z3
+[5]	perma.cc/FM9H-EHMG
+[6]	perma.cc/HYR7-LV8Z
+[7]	perma.cc/R8DB-ELEX
+[8]	perma.cc/Q7WV-ZTEB
 
 
 
@@ -595,22 +568,14 @@ https://afrique.le360.ma/autres-pays/societe/2020/05/01/30417-cameroun-coronavir
 However, there are reports of the authorities using the pandemic to crack down on human rights: a nationwide ban on demonstrations was issued in Cameroon after the opposition Cameroon Renaissance Movement (MRC) called for the resignation of the president and hundreds of demonstrators were arbitrarily arrested (1) 
 
 *Sources*:
- https://reliefweb.int/report/world/amnesty-international-report-202021-state-worlds-human-rights-enarru
-(1)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cameroon/
-
-https://www.ohchr.org/Documents/HRBodies/SP/COVID/NGOs/NationalObservatoryonESCRightsCameroon.pdf
-
-https://verfassungsblog.de/cameroons-fight-against-covid-19-an-ordinary-legal-framework-for-an-extraordinary-situation/
-
-https://www.prc.cm/en/multimedia/documents/8228-government-response-strategy-to-the-coronavirus-pandemic-covid-19
-
-https://www.spm.gov.cm/site/?q=fr/content/strategie-gouvernementale-de-riposte-face-la-pandemie-de-coronavirus-covid-19
-
-https://afrique.le360.ma/autres-pays/societe/2020/05/01/30417-cameroun-coronavirus-le-gouvernement-assouplit-les-mesures-restrictives-30417
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
+ [1]	perma.cc/6LYP-PGQX
+[2]	perma.cc/Z8KZ-RARE
+[3]	perma.cc/J3VU-TQXY
+[4]	perma.cc/57T8-GCCT
+[5]	perma.cc/Q6YP-N6FN
+[6]	perma.cc/6QHX-TU9P
+[7]	perma.cc/UKY6-95V6
+[8]	perma.cc/8BTA-RNMW
 
 
 
@@ -660,22 +625,14 @@ https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
 These are not related to Covid-19 however. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cameroon/
-
-https://reliefweb.int/report/world/amnesty-international-report-202021-state-worlds-human-rights-enarru
-(2)
-
-https://www.ohchr.org/Documents/HRBodies/SP/COVID/NGOs/NationalObservatoryonESCRightsCameroon.pdf
-
-https://verfassungsblog.de/cameroons-fight-against-covid-19-an-ordinary-legal-framework-for-an-extraordinary-situation/
-
-https://www.prc.cm/en/multimedia/documents/8228-government-response-strategy-to-the-coronavirus-pandemic-covid-19
-
-https://www.spm.gov.cm/site/?q=fr/content/strategie-gouvernementale-de-riposte-face-la-pandemie-de-coronavirus-covid-19
-
-https://afrique.le360.ma/autres-pays/societe/2020/05/01/30417-cameroun-coronavirus-le-gouvernement-assouplit-les-mesures-restrictives-30417
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
+ [1]	perma.cc/KYL6-A4V6
+[2]	perma.cc/9MFA-RJ4Q
+[3]	perma.cc/5MSR-NUXN
+[4]	perma.cc/7CVY-6JKF
+[5]	perma.cc/3US7-ER4M
+[6]	perma.cc/VT89-6KT2
+[7]	perma.cc/N94P-MZD2
+[8]	perma.cc/EQX7-EN5D
 
 
 
@@ -719,15 +676,11 @@ https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
  No evidence on media limitations found in the emergency measures. 
 
 *Sources*:
- https://www.prc.cm/en/multimedia/documents/8228-government-response-strategy-to-the-coronavirus-pandemic-covid-19
-
-https://www.spm.gov.cm/site/?q=fr/content/strategie-gouvernementale-de-riposte-face-la-pandemie-de-coronavirus-covid-19
-
-https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
-
-https://afrique.le360.ma/autres-pays/societe/2020/05/01/30417-cameroun-coronavirus-le-gouvernement-assouplit-les-mesures-restrictives-30417
-
-https://verfassungsblog.de/cameroons-fight-against-covid-19-an-ordinary-legal-framework-for-an-extraordinary-situation/
+ [1]	perma.cc/RT9W-GF2F
+[2]	perma.cc/ZJU3-PVGR
+[3]	perma.cc/N2MW-EYVL
+[4]	perma.cc/B7CA-H5M7
+[5]	perma.cc/Y8PD-NTAS
 
 
 
@@ -849,20 +802,11 @@ https://verfassungsblog.de/cameroons-fight-against-covid-19-an-ordinary-legal-fr
 ''Press freedom continues its long decline in Cameroon, now one of Africa’s most dangerous countries for journalists. The government often points to the existence of many media outlets but this doesn’t mean they enjoy a favourable environment. Reporters are often detained arbitrarily and prosecuted, including by military tribunals or special courts.'' (3) 
 
 *Sources*:
- https://rsf.org/en/news/cameroonian-journalist-samuel-wazizi-died-detention
-(1)
-
-https://rsf.org/en/news/rsf-condemns-heavy-handed-methods-used-prevent-journalists-covering-demonstration-cameroon
-(2)
-
-https://rsf.org/en/cameroon
-(3)
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-
-
+ [1]	perma.cc/R2KL-E756
+[2]	perma.cc/685E-MVMH
+[3]	perma.cc/V8BJ-72DS
+[4]	perma.cc/2ZFJ-DCRZ
+[5]	perma.cc/8XVM-5S9E
 
 
 
@@ -906,20 +850,11 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
 ''Press freedom continues its long decline in Cameroon, now one of Africa’s most dangerous countries for journalists. The government often points to the existence of many media outlets but this doesn’t mean they enjoy a favourable environment. Reporters are often detained arbitrarily and prosecuted, including by military tribunals or special courts.'' (3) 
 
 *Sources*:
- https://rsf.org/en/news/cameroonian-journalist-samuel-wazizi-died-detention
-(1)
-
-https://rsf.org/en/news/rsf-condemns-heavy-handed-methods-used-prevent-journalists-covering-demonstration-cameroon
-(2)
-
-https://rsf.org/en/cameroon
-(3)
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-
-
+ [1]	perma.cc/R2KL-E756
+[2]	perma.cc/685E-MVMH
+[3]	perma.cc/V8BJ-72DS
+[4]	perma.cc/2ZFJ-DCRZ
+[5]	perma.cc/8XVM-5S9E
 
 
 
@@ -965,20 +900,11 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
 However, there are no explicit Covid-19 related instances. The only relevant incidents relate to media limitations on access to information. 
 
 *Sources*:
- https://rsf.org/en/news/cameroonian-journalist-samuel-wazizi-died-detention
-(1)
-
-https://rsf.org/en/news/rsf-condemns-heavy-handed-methods-used-prevent-journalists-covering-demonstration-cameroon
-(2)
-
-https://rsf.org/en/cameroon
-(3)
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-
-
+ [1]	perma.cc/R2KL-E756
+[2]	perma.cc/685E-MVMH
+[3]	perma.cc/V8BJ-72DS
+[4]	perma.cc/2ZFJ-DCRZ
+[5]	perma.cc/8XVM-5S9E
 
 
 
@@ -1029,16 +955,10 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
 ''Media, civil society and opposition groups in Cameroon say the government there refused to provide official information about Covid-19 to media outlets and journalists perceived to be critical of it.'' (2) 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-(1)
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-(2)
-
-https://www.minsante.cm/site/?q=en/cat%C3%A9gories/coronavirus-covid-19
-
-https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
-(4)
+ [1]	perma.cc/UW2Q-H73A
+[2]	perma.cc/98WU-7ZEH
+[3]	perma.cc/A3FX-D2AR
+[4]	perma.cc/8738-4EW8
 
 
 
@@ -1080,14 +1000,10 @@ https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-re
  No verbal harassment of journalists related to Covid-19 reporting was found. 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-
-https://www.voanews.com/africa/cameroon-journalists-protest-harassment-abusive-arrests
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-
-https://www.rfi.fr/en/africa/20201229-2020-was-a-hazardous-year-for-african-journalists-marked-by-killings-harassment-arrests-covid
+ [1]	perma.cc/S49B-B33C
+[2]	perma.cc/2M9V-UC82
+[3]	perma.cc/FS8Q-UDXE
+[4]	perma.cc/52K2-TP53
 
 
 
@@ -1129,14 +1045,10 @@ https://www.rfi.fr/en/africa/20201229-2020-was-a-hazardous-year-for-african-jour
  No physical harassment of journalists related to Covid-19 reporting was found. 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-
-https://www.voanews.com/africa/cameroon-journalists-protest-harassment-abusive-arrests
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-
-https://www.rfi.fr/en/africa/20201229-2020-was-a-hazardous-year-for-african-journalists-marked-by-killings-harassment-arrests-covid
+ [1]	perma.cc/LLJ2-B6EA
+[2]	perma.cc/SA8D-JSCC
+[3]	perma.cc/M9SA-G5MK
+[4]	perma.cc/97XW-CGV4
 
 
 
@@ -1188,23 +1100,12 @@ No evidence on whether the government stopped the use of chloroquine in the trea
 We code as 0 for quarters that we no longer found reports of the government using or promoting chloroquine. We do not know if it continued in practice. 
 
 *Sources*:
- https://www.france24.com/en/20200503-covid-19-in-cameroon-a-chloroquine-therapy-hailed-by-french-expert-becomes-state-protocol
-(1)
-
-https://nkafu.org/blog-post/bulletin-002-sur-le-covid-19-au-cameroun/
-(2)
-
-https://afrique.le360.ma/autres-pays/societe/2020/07/16/31180-cameroun-coronavirus-lhydroxychloroquine-nouveau-en-vente-dans-les-pharmacies-31180
-(3)
-
-https://afrique.le360.ma/maroc-algerie-autres-pays/politique/2020/06/01/30726-covid-19-voici-pourquoi-les-pays-africains-ont-dit-non-loms-et-poursuivent-le
-(4)
-
-https://www.voanews.com/science-health/coronavirus-outbreak/cameroon-begins-large-scale-chloroquine-production
-(5)
-
-http://www.crtv.cm/2020/08/covid-19-cameroon-continues-use-of-hydroxichloroquine/
-(6)
+ [1]	perma.cc/5KLE-G3TM
+[2]	perma.cc/2UFL-68HM
+[3]	perma.cc/7LJP-WUAY
+[4]	perma.cc/K536-8DXQ
+[5]	perma.cc/64VN-B2NF
+[6]	perma.cc/649C-CG79
 
 
 
@@ -1257,27 +1158,15 @@ Although violence is ongoing in September 2020, this is related to the December 
 No more incidents of Covid-19-related police violence were found in Q3, Q4 of 2020 and Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.hrw.org/news/2020/09/21/cameroon-heightened-crackdown-opposition
-(1)
-
-
-https://www.hrw.org/world-report/2021/country-chapters/cameroon
-(2)
-
-https://www.voanews.com/covid-19-pandemic/cameroon-police-force-muslims-follow-covid-19-restrictions-ramadan
-
-
-https://allafrica.com/stories/202004250004.html
-
-https://www.voanews.com/covid-19-pandemic/cameroon-arrests-people-without-masks-covid-19-cases-increase
-
-https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
-
-https://www.voaafrique.com/a/cameroun-interdiction-dons-coronavirus-kamto/5436452.html
-
-https://www.hrw.org/news/2020/05/14/covid-19-brings-out-governments-ugly-side-cameroon
-
-http://www.rfi.fr/fr/afrique/20200513-cameroun-opposants-luttant-contre-le-coronavirus-toujours-en-garde-%C3%A0-vue
+ [1]	perma.cc/QD4T-5ZWY
+[2]	perma.cc/7F74-WCPX
+[3]	perma.cc/UH82-72ZC
+[4]	perma.cc/R5Y5-AAQN
+[5]	perma.cc/8ATP-W89J
+[6]	perma.cc/PLT3-T458
+[7]	perma.cc/8R68-DANV
+[8]	perma.cc/B8ZF-R77R
+[9]	perma.cc/QCN5-PBNH
 
 
 
@@ -1319,16 +1208,10 @@ http://www.rfi.fr/fr/afrique/20200513-cameroun-opposants-luttant-contre-le-coron
  The police has been dealing with the enforcement of the measures. 
 
 *Sources*:
- https://www.voanews.com/covid-19-pandemic/cameroon-police-force-muslims-follow-covid-19-restrictions-ramadan
-
-https://allafrica.com/stories/202004250004.html
-
-https://www.voanews.com/covid-19-pandemic/cameroon-arrests-people-without-masks-covid-19-cases-increase
-
-https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
-
-https://www.voaafrique.com/a/cameroun-interdiction-dons-coronavirus-kamto/5436452.html
-
-https://www.hrw.org/news/2020/05/14/covid-19-brings-out-governments-ugly-side-cameroon
-
-http://www.rfi.fr/fr/afrique/20200513-cameroun-opposants-luttant-contre-le-coronavirus-toujours-en-garde-%C3%A0-vue
+ [1]	perma.cc/TR79-9WXP
+[2]	perma.cc/WF4J-J76E
+[3]	perma.cc/5689-Q796
+[4]	perma.cc/W89N-H27S
+[5]	perma.cc/V8D3-EAYJ
+[6]	perma.cc/4H3V-K4KW
+[7]	perma.cc/H2XK-NNE6

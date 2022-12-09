@@ -55,25 +55,19 @@ that distinguishes between a public health emergency and a state of emergency"),
 Q2 2021: State of emergency was declared from 1 April 2021. Declared unconstitutional by the Constitutional Court on 28 April 2021. 
 
 *Sources*:
- https://www.legis.md/cautare/getResults?doc_id=120817&lang=ro
-https://md.usembassy.gov/moldovan-government-has-declared-a-state-of-emergency-in-response-to-the-covid-19/
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B359%5D&covid19=1
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/#section-d1e1382
+ https://perma.cc/YJ55-VCD2
+https://perma.cc/9DP5-C286
+https://perma.cc/J7UH-BULT
 
-
-https://gov.md/sites/default/files/hotarirea_cnesp_nr.10_15.05.2020.pdf
-
-https://md.usembassy.gov/u-s-citizen-services/covid-19-information/
-https://gov.md/sites/default/files/hotarirea_cnesp_nr.33_28.09.2020.pdf
-https://www.legis.md/cautare/getResults?doc_id=123648&lang=ro
-
-https://www.moldpres.md/news/2021/03/19/21002116
-
-
-https://www.reuters.com/business/healthcare-pharmaceuticals/moldova-introduces-state-emergency-contain-coronavirus-pandemic-2021-03-31/
-https://www.legis.md/cautare/getResults?doc_id=126388&lang=ro
-https://www.legis.md/cautare/getResults?doc_id=126435&lang=ro
-
+https://perma.cc/JHR6-HLDG
+https://perma.cc/UU22-KUKQ
+https://perma.cc/ZBM5-6KCH
+https://perma.cc/7TSB-EHR5
+https://perma.cc/W9KC-EZ4K
+https://perma.cc/5NSJ-X7CW
+https://perma.cc/VNN5-Y2V7
+https://perma.cc/ZJ7B-H6XE
+https://perma.cc/J5HG-8JPT
 
 
 
@@ -119,15 +113,19 @@ Q4 2020 Art. 55 "LEGE Nr. 10 din 03-02-2009 privind supravegherea de stat a să
  
 
 *Sources*:
- https://www.legis.md/cautare/getResults?doc_id=27024&lang=ru
-https://www.legis.md/cautare/getResults?doc_id=120817&lang=ro
-https://www.legis.md/cautare/getResults?doc_id=126435&lang=ro
-
-https://www.constituteproject.org/constitution/Moldova_2016?lang=en
-
-https://www.legis.md/cautare/getResults?doc_id=106570&lang=ro
+ https://perma.cc/NV9S-VFYG
 
 
+https://perma.cc/F6H3-8SRL
+
+
+https://perma.cc/Z7JY-4ZLB
+
+
+https://perma.cc/9ZWR-U2NX
+
+
+https://perma.cc/4WH5-Z6TA
 
 
 
@@ -172,16 +170,12 @@ Q4 2020:  public health emergency ("stare de urgenţă în sănătate publică")
 Q2 2021: State of emergency declared from 1 April 2021. 
 
 *Sources*:
- https://www.legis.md/cautare/getResults?doc_id=120817&lang=ru
-
-https://gov.md/sites/default/files/hotarirea_cnesp_nr.10_15.05.2020.pdf
-
-https://md.usembassy.gov/u-s-citizen-services/covid-19-information/
-https://gov.md/sites/default/files/hotarirea_cnesp_nr.33_28.09.2020.pdf
-
-https://gov.md/sites/default/files/hotarirea_cnesp_nr.51_19.03.2021.pdf
-
-https://www.legis.md/cautare/getResults?doc_id=126435&lang=ro
+ https://perma.cc/93SM-Y5M2
+https://perma.cc/UU22-KUKQ
+https://perma.cc/R77J-GJHX
+https://perma.cc/7TSB-EHR5
+https://perma.cc/38WH-H9JJ
+https://perma.cc/8HJM-SCCM
 
 
 
@@ -228,15 +222,25 @@ Q1 2021: national public health emergency ended on 18 April 2021.
 Q2 2021: the state of emergency was declared unconstitutional by the Constitutional Court that ended it on 28 April 2021. 
 
 *Sources*:
- https://www.legis.md/cautare/getResults?doc_id=120817&lang=ru
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+ https://perma.cc/EX6B-J6CT
 
-https://www.garda.com/crisis24/news-alerts/379386/moldova-authorities-extend-public-health-emergency-until-september-30-update-5
-https://cancelaria.gov.md/sites/default/files/postanovlenie_no_33_ot_28.09.2020_g._nacionalnaya_chrezvychaynaya_komissiya_obshchestvennogo_zdorovya.pdf
 
-https://md.usembassy.gov/u-s-citizen-services/covid-19-information/
-https://www.legis.md/cautare/getResults?doc_id=124169&lang=ro
-https://www.legis.md/cautare/getResults?doc_id=126388&lang=ro
+https://perma.cc/46QV-VFPX
+
+
+https://perma.cc/6NWK-GLT4
+
+
+https://perma.cc/2U2F-MES4
+
+
+https://perma.cc/H5VB-UYEC
+
+
+https://perma.cc/B3JB-7ERK
+
+
+https://perma.cc/E3WQ-RN5Z
 
 
 
@@ -286,17 +290,28 @@ Q1 2021: National public health emergency was declared until 18 April 2021.
 Q2 2021: State of emergency was declared for 60 days. 
 
 *Sources*:
- https://www.legis.md/cautare/getResults?doc_id=120817&lang=ru
+ https://perma.cc/WD3X-X9ZD
 
-https://msmps.gov.md/comunicare/comunicate/starea-de-urgenta-in-sanatate-publica-se-prelungeste-pana-la-31-iulie/
-https://msmps.gov.md/comunicare/comunicate/starea-de-urgenta-in-republica-moldova-se-prelungeste-pana-la-31-august-2/
-https://www.garda.com/crisis24/news-alerts/379386/moldova-authorities-extend-public-health-emergency-until-september-30-update-5
 
-https://cancelaria.gov.md/sites/default/files/postanovlenie_no_33_ot_28.09.2020_g._nacionalnaya_chrezvychaynaya_komissiya_obshchestvennogo_zdorovya.pdf
-https://www.legis.md/cautare/getResults?doc_id=84354&lang=ru
+https://perma.cc/D5V2-RV5V
 
-https://www.reuters.com/business/healthcare-pharmaceuticals/moldova-introduces-state-emergency-contain-coronavirus-pandemic-2021-03-31/
-https://www.legis.md/cautare/getResults?doc_id=126435&lang=ro
+
+https://perma.cc/8H7D-7CHX
+
+
+https://perma.cc/B75Z-KG5Q
+
+
+https://perma.cc/VJF5-HCBU
+
+
+https://perma.cc/AE9F-T7LP
+
+
+https://perma.cc/LHC6-6WH8
+
+
+https://perma.cc/25LZ-NZGN
 
 
 
@@ -343,17 +358,28 @@ Q1 2021: National public health emergency was declared until 18 April 2021.
 Q2 2021: State of emergency was declared until 30 May 2021, but ended on 28 April 2021 as it was declared unconstitutional. 
 
 *Sources*:
- https://www.legis.md/cautare/getResults?doc_id=120817&lang=ru
+ https://perma.cc/3652-VACD
 
-https://msmps.gov.md/comunicare/comunicate/starea-de-urgenta-in-sanatate-publica-se-prelungeste-pana-la-31-iulie/
-https://msmps.gov.md/comunicare/comunicate/starea-de-urgenta-in-republica-moldova-se-prelungeste-pana-la-31-august-2/
-https://www.garda.com/crisis24/news-alerts/379386/moldova-authorities-extend-public-health-emergency-until-september-30-update-5
 
-https://cancelaria.gov.md/sites/default/files/postanovlenie_no_33_ot_28.09.2020_g._nacionalnaya_chrezvychaynaya_komissiya_obshchestvennogo_zdorovya.pdf
-https://www.legis.md/cautare/getResults?doc_id=84354&lang=ru
+https://perma.cc/RU72-5A2V
 
-https://www.reuters.com/business/healthcare-pharmaceuticals/moldova-introduces-state-emergency-contain-coronavirus-pandemic-2021-03-31/
-https://www.legis.md/cautare/getResults?doc_id=126435&lang=ro
+
+https://perma.cc/CSY9-T6GS
+
+
+https://perma.cc/QSN7-GUN8
+
+
+https://perma.cc/BL6K-LMCE
+
+
+https://perma.cc/R37X-YG99
+
+
+https://perma.cc/U4YJ-RMF2
+
+
+https://perma.cc/BPG2-CA34
 
 
 
@@ -399,12 +425,13 @@ Q3 2020, Q1 2021: Art. 58 "LEGE Nr. 10 din 03-02-2009 privind supravegherea de 
 Q4 2020: Art 55 of "LEGE Nr. 10 din 03-02-2009 privind supravegherea de stat a sănătăţii publice"has no privisions for the approval of emergency measures by the parliament. The government is responsible for the declaration and implementation of the measures. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Moldova_2016?lang=en
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-
-https://www.legis.md/cautare/getResults?doc_id=106570&lang=ro
+ https://perma.cc/RN6B-RDRX
 
 
+https://perma.cc/B7WH-NPTX
+
+
+https://perma.cc/2UV4-GFLB
 
 
 
@@ -448,9 +475,13 @@ https://www.legis.md/cautare/getResults?doc_id=106570&lang=ro
 Q3 2020, Q4 2020, Q1 2021: parliamentary approval is not required. 
 
 *Sources*:
- https://www.legis.md/cautare/getResults?doc_id=120817&lang=ru
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://cis-legislation.com/document.fwx?rgn=131446
+ https://perma.cc/G47G-P792
+
+
+https://perma.cc/3MSR-DKHX
+
+
+https://perma.cc/W4PQ-QSK6
 
 
 
@@ -500,10 +531,9 @@ Q3 2020, Q1 2021: Art. 58 "LEGE Nr. 10 din 03-02-2009 privind supravegherea de 
 Q4 2020: Art 55 of "LEGE Nr. 10 din 03-02-2009 privind supravegherea de stat a sănătăţii publice" has no provisions for the approval of emergency measures by the parliament. The government is responsible for the declaration and implementation of the measures. 
 
 *Sources*:
- https://www.legis.md/cautare/getResults?doc_id=27024&lang=ru
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-
-https://www.legis.md/cautare/getResults?doc_id=106570&lang=ro
+ https://perma.cc/KG43-9WBQ
+https://perma.cc/VYG8-7S9V
+https://www.legis.md/cautare/getResults?doc_id=106570&lang=ro%22
 
 
 
@@ -625,15 +655,13 @@ https://www.legis.md/cautare/getResults?doc_id=106570&lang=ro
  Uniform measures throughout the country in March-June 2020, July-September 2020. Public health emergency declared in some areas since 1 October (Resolutions 33 from 28 September, updated list of areas with public health emergency in Resolution 34 from 13 October).Some areas had stricter measures during Q1 2021. In April 2021,  Chisinau and Balti were under curfew. 
 
 *Sources*:
- https://gov.md/ro/content/informatii-privind-coronavirus
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/
+ https://perma.cc/59UY-ER2Q
+https://perma.cc/PS34-3M89
+https://perma.cc/TN3X-F6UQ
+https://perma.cc/9XGS-5E5J
+https://perma.cc/FU8Q-77ST
+https://perma.cc/984V-7KD5
 
-https://cancelaria.gov.md/sites/default/files/postanovlenie_nchkoz_no_34_ot_13.10.2020.pdf
-https://cancelaria.gov.md/sites/default/files/postanovlenie_no_33_ot_28.09.2020_g._nacionalnaya_chrezvychaynaya_komissiya_obshchestvennogo_zdorovya.pdf
-
-https://www.garda.com/crisis24/news-alerts/451646/moldova-authorities-modify-covid-19-related-international-entry-restrictions-from-march-5-update-14
-
-https://www.garda.com/crisis24/news-alerts/462976/moldova-authorities-to-extend-covid-19-related-state-of-emergency-until-may-30-and-tighten-certain-related-restrictions-update-16
 
 
 
@@ -677,11 +705,11 @@ https://www.garda.com/crisis24/news-alerts/462976/moldova-authorities-to-extend-
  No de-jure disciminating provisions and no information on de-facto discrimination found. The city of Soroca with a large Roma population was quarantined due to a high number of Covid-19 cases and therefore not considered in the coding. 
 
 *Sources*:
- http://www.errc.org/uploads/upload_en/file/5265_file1_roma-rights-in-the-time-of-covid..pdf
-https://www.ohchr.org/EN/NewsEvents/Pages/Voices-from-the-Field-Moldova.aspx
-https://www.amnesty.org/en/countries/europe-and-central-asia/moldova/
-https://www.hrw.org/sitesearch?search=moldova
-https://gov.md/sites/default/files/rasporyazhenie_no_1_ot_18_marta_2020_g._komissii_po_chrezvychaynym_situaciyam_respubliki_moldova.pdf
+ https://perma.cc/67AZ-K7QB
+https://perma.cc/6TZN-7RJZ
+https://perma.cc/A9MK-FKCS
+https://perma.cc/4LTG-QPFR
+https://perma.cc/L9H3-6N2L
 
 
 
@@ -730,9 +758,9 @@ https://gov.md/sites/default/files/rasporyazhenie_no_1_ot_18_marta_2020_g._komis
  No measures violating non-derogable rights found 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/moldova/
-https://www.hrw.org/sitesearch?search=moldova
-https://gov.md/sites/default/files/rasporyazhenie_no_1_ot_18_marta_2020_g._komissii_po_chrezvychaynym_situaciyam_respubliki_moldova.pdf
+ https://perma.cc/SN9G-KTMF
+https://perma.cc/F6SH-VA62
+https://perma.cc/CMX5-9KEL
 
 
 
@@ -782,18 +810,17 @@ Q4 2020: Media outlets were recommended to inform the population on emergency me
 Q2 2021:  Resolution 11/66 from 19 March 2021 issued recommendations on stopping disinformation to media outlets. Since it is a recommendation, it is not coded under melim. 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/?location=81&issue=&date=&type=
+ https://perma.cc/9RK3-CVT9
 (2)
-http://www.audiovizual.md/files/Dispozitie%20CA.semnat.pdf
-https://ipi.media/european-media-freedom-suffers-covid-19-response/
+
+https://perma.cc/P6PH-QYV3
 (1)
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/moldova/
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+https://perma.cc/WN4U-C24P
+https://perma.cc/7ZGB-N7PM
+https://perma.cc/59WA-DAKZ
 
-
-https://cancelaria.gov.md/ro/apc/coronavirus
-
-https://www.legis.md/cautare/getResults?doc_id=126078&lang=ru
+https://perma.cc/7832-5LGV
+https://perma.cc/M842-MY93
 
 
 
@@ -832,11 +859,19 @@ https://www.legis.md/cautare/getResults?doc_id=126078&lang=ru
  Note that on 19 March the authorities blocked 52 websites for allegedly spreading false information during covid-19. Based on the press release, this was part of emergency measures, but I cannot verify this information since the official document with legal references is a scanned version in Romanian. Therefore, the beginning of media limitations is coded as 24 March, but it is possible that the measures were enforced earlier. 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/?location=81&issue=&date=&type=
-http://www.audiovizual.md/files/Dispozitie%20CA.semnat.pdf
-http://www.audiovizual.md/news/n-aten-ia-furnizorilor-de-servicii-media-audiovizuale-din-jurisdic-ia-republicii-moldova
-https://ipi.media/european-media-freedom-suffers-covid-19-response/
-http://media-azi.md/ro/stiri/doc-sis-dispus-blocarea-52-de-site-uri-anonime-care-ar-distribui-%C8%99tiri-false-despre-covid-19
+ https://perma.cc/26N8-82U6
+
+
+https://perma.cc/PVG8-GDJB
+
+
+https://perma.cc/77FR-G5E2
+
+
+https://perma.cc/UNA3-4QTA
+
+
+https://perma.cc/DA2W-Y6Y9
 
 
 
@@ -875,8 +910,10 @@ http://media-azi.md/ro/stiri/doc-sis-dispus-blocarea-52-de-site-uri-anonime-care
  Although the measures were intended to apply the duration of the state of emergency, the decree was reversed on 26 March due to pressure from journalists and NGOs. I have not found any evidence of other measures limiting media freedom since then. 
 
 *Sources*:
- http://www.audiovizual.md/news/comunicat-de-pres-43
-https://ipi.media/european-media-freedom-suffers-covid-19-response/
+ https://perma.cc/6NLJ-MSJC
+
+
+https://perma.cc/X5GZ-TG68
 
 
 
@@ -918,12 +955,12 @@ https://ipi.media/european-media-freedom-suffers-covid-19-response/
  I have found no reports on limitations on media reporting on covid-19 found. IPI reports that "the country's Security and Intelligence Service (SIS) also ordered 52 different websites allegedly disseminating fake news about the coronavirus to be blocked" (1). The official press release says that the blocked websites are not officially registered news agencies and contains no other information on the content, therefore this is not considered in the coding. 
 
 *Sources*:
- https://gov.md/ro/content/informatii-privind-coronavirus
-https://ipi.media/european-media-freedom-suffers-covid-19-response/
+ https://perma.cc/59UY-ER2Q
+https://perma.cc/RV73-AUJP
 (1)
 
-http://media-azi.md/en/stiri/doc-sis-ordered-block-52-anonymous-sites-allegedly-disseminate-fake-news-about-covid-19
-http://media-azi.md/sites/default/files/indicatii_executorii.pdf
+https://perma.cc/6A35-BMEP
+https://perma.cc/DUP5-GEJ7
 
 
 
@@ -967,12 +1004,15 @@ http://media-azi.md/sites/default/files/indicatii_executorii.pdf
  IPI reports that "the country’s Security and Intelligence Service (SIS) also ordered 52 different websites allegedly disseminating fake news about the coronavirus to be blocked."(2)  The official press release says that the blocked websites are not officially registered news agencies and contains no other information on the content, therefore this is not considered in the coding.  Since it is a single incident and no further information has been found, merepgov is coded as 1 only in March-June 2020 period. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
+ https://perma.cc/NQG6-MG2E
 (2)
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B359%5D&covid19=1
+
+https://perma.cc/J7UH-BULT
 (1)
-http://media-azi.md/en/stiri/doc-sis-ordered-block-52-anonymous-sites-allegedly-disseminate-fake-news-about-covid-19
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/moldova/
+
+https://perma.cc/K3FB-M3AY
+
+https://perma.cc/E5GN-GCE4
 
 
 
@@ -1014,8 +1054,10 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mol
  No information found on instances of limitations on media reporting on non-Covid-19 related news but with reference to the pandemic. 
 
 *Sources*:
- https://ipi.media/moldova/
-https://rsf.org/en/moldova
+ https://perma.cc/W293-5JME
+
+
+https://perma.cc/N2NG-H3KA
 
 
 
@@ -1058,11 +1100,11 @@ https://rsf.org/en/moldova
  The maximum amount of time public bodies have to respond to journalists' requests was trippled. According to Decision 1 by the Commission for Exceptional Situations from 18 March 2020 (p.7, point 6), the extension applies only during the state of emergency. Since the state of emergency ended on 15 May 2020, meinf is coded as 1 only during March-June 2020 period. 
 
 *Sources*:
- https://ipi.media/access-denied-foi-deadlines-extended-or-suspended-across-europe/
+ https://perma.cc/QM9K-YQQU
+https://perma.cc/NAR4-PZ9M
 
-https://ipi.media/european-media-freedom-suffers-covid-19-response/
-https://gov.md/sites/default/files/rasporyazhenie_no_1_ot_18_marta_2020_g._komissii_po_chrezvychaynym_situaciyam_respubliki_moldova.pdf
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+https://perma.cc/CMX5-9KEL
+https://perma.cc/WQ3V-MHKC
 
 
 
@@ -1104,7 +1146,7 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  A journalist was verbally harrassed by a mayor after reporting on "unsafe working conditions and lack of disinfectant inside their textile factory during Covid-19" on Facebook (1) (since she is a journalist, making a social media post is considered journalism). Since it is an individual case and I found no evidence that the practice is system, mevhar is coded as 1 only during March-June 2020 period. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
+ https://perma.cc/UHG3-V5JX
 (1)
 
 
@@ -1147,10 +1189,16 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  No evidence found 
 
 *Sources*:
- https://rsf.org/en/moldova
+ https://perma.cc/YHV2-WUHY
 
-https://www.amnesty.org/en/countries/europe-and-central-asia/moldova/
-https://www.hrw.org/sitesearch?search=moldova
+
+https://perma.cc/4FQ6-5L9T
+
+
+https://perma.cc/P2JJ-5NKE
+
+
+
 
 
 
@@ -1194,9 +1242,9 @@ https://www.hrw.org/sitesearch?search=moldova
  information on covid-19 on the government's website; no reports on disinformation found. 
 
 *Sources*:
- https://gov.md/ro/content/informatii-privind-coronavirus
-https://ipi.media/moldova/
-https://rsf.org/en/moldova
+ https://perma.cc/59UY-ER2Q
+https://perma.cc/V96G-FJY7
+https://perma.cc/N2NG-H3KA
 
 
 
@@ -1240,8 +1288,10 @@ https://rsf.org/en/moldova
  No instances of police violence found 
 
 *Sources*:
- ttps://www.amnesty.org/en/countries/europe-and-central-asia/moldova/
-https://www.hrw.org/sitesearch?search=moldova
+ https://perma.cc/SN9G-KTMF
+
+
+https://perma.cc/F6SH-VA62
 
 
 
@@ -1284,10 +1334,8 @@ https://www.hrw.org/sitesearch?search=moldova
  
 
 *Sources*:
- https://www.legis.md/cautare/getResults?doc_id=121783&lang=ru
-https://www.army.md/?lng=2&action=show&cat=122&obj=6358
-
-
-https://www.legis.md/cautare/getResults?doc_id=121783&lang=ro
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B359%5D&covid19=1
-https://www.legis.md/cautare/getResults?doc_id=125882&lang=ro
+ https://perma.cc/62M6-JPD7
+https://perma.cc/67MX-PWYK
+https://perma.cc/LYP5-JAKA
+https://perma.cc/J7UH-BULT
+https://perma.cc/7YBA-48FK

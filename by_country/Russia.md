@@ -47,19 +47,17 @@
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: emergency measures were taken at the regional level. For example, a state of high alert was announced by all Russia's regions (see references to regional decisions on consultant.ru source), so it was de facto declared in the whole country, but not on a federal level (and therefore is not coded). 
 
 *Sources*:
- http://kremlin.ru/events/president/news/63065
-http://kremlin.ru/events/president/news/63134
-http://publication.pravo.gov.ru/Document/View/0001202004290001
-https://www.dw.com/ru/%D1%80%D0%B5%D0%B6%D0%B8%D0%BC-%D0%BD%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D1%85-%D0%B4%D0%BD%D0%B5%D0%B9-%D0%B2-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%BB%D0%B5%D0%BD-%D0%B4%D0%BE-11-%D0%BC%D0%B0%D1%8F/a-53272908
-https://www.bbc.com/russian/news-52614831
-http://kremlin.ru/events/president/news/63340
-http://www.consultant.ru/document/cons_doc_LAW_349932/
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B365%5D&covid19=1
-https://www.icnl.org/covid19tracker/?location=105&issue=&date=&type=
-
-
-https://www.garda.com/crisis24/news-alerts/479571/russia-authorities-maintaining-covid-19-related-international-entry-and-domestic-restrictions-as-of-may-17-update-43
-https://www.garda.com/crisis24/news-alerts/471001/russia-authorities-declare-may-4-7-a-non-work-period-to-prevent-potential-spike-in-covid-19-activity-update-41
+ https://perma.cc/8AHS-Y6SD
+https://perma.cc/4LMQ-B8NF
+https://perma.cc/HQ79-CBPJ
+https://perma.cc/AR5J-DLQD
+https://perma.cc/D8B7-E2XM
+https://perma.cc/EJ5G-BG74
+https://perma.cc/M7P8-D7PA
+https://perma.cc/J7UH-BULT
+https://perma.cc/ATD6-KNUQ
+https://perma.cc/Z6CF-3NDD
+https://perma.cc/Z3PV-RQ68
 
 
 
@@ -98,9 +96,10 @@ https://www.garda.com/crisis24/news-alerts/471001/russia-authorities-declare-may
  Article 80 on the role and functions of the President: "3. The President of the Russian Federation shall, in accordance with the Constitution of the Russian Federation and federal laws, determine the basic objectives of the internal and foreign policy of the State." (1) 
 
 *Sources*:
- http://kremlin.ru/events/president/news/63065
-https://www.constituteproject.org/constitution/Russia_2014?lang=en
-(1)
+ https://perma.cc/4Z3J-J9MS
+
+
+https://perma.cc/5XCG-Y2XP
 
 
 
@@ -139,7 +138,7 @@ https://www.constituteproject.org/constitution/Russia_2014?lang=en
  According to "DECREE ON MEASURES TO ENSURE SANITARY-EPIDEMIOLOGICAL WELLBEING OF RUSSIAN POPULATION" from 25 March 2020, the decree came in force on the date of its promulgation (25 March). 
 
 *Sources*:
- http://kremlin.ru/events/president/news/63065
+ https://perma.cc/4Z3J-J9MS
 
 
 
@@ -178,8 +177,10 @@ https://www.constituteproject.org/constitution/Russia_2014?lang=en
  The third period of non-working days was declared from 6 until 8 May (Decree 294 from 28 April). Although the end date is 8 May, the following days (9-11 May) are official holidays in Russia, so de facto the period of non-working days was from 6 to 11 May 2020, and ended on 11 May 2020, as announced by President Putin. 
 
 *Sources*:
- https://www.bbc.com/russian/news-52614831
-http://kremlin.ru/events/president/news/63340
+ https://perma.cc/8BNB-QBFT
+
+
+https://perma.cc/L67H-4Q5X
 
 
 
@@ -221,9 +222,13 @@ http://kremlin.ru/events/president/news/63340
  the first period of non-working days was declared from 30 March until 3 April (Decree 206 from 25 March 2020). It was then extended from 4 April until 30 April (Decree 239 from 2 April 2020). The third period of non-working days was declared from 6 until 8 May (Decree 294 from 28 April). Although the end date is 8 May, the following days (9-11 May) are official holidays in Russia, so de facto the period of non-working days was from 6 to 11 May 2020, and ended on 11 May 2020, as announced by President Putin. 
 
 *Sources*:
- http://kremlin.ru/events/president/news/63065
-http://kremlin.ru/events/president/news/63134
-http://publication.pravo.gov.ru/Document/View/0001202004290001
+ https://perma.cc/6CFZ-A7DG
+
+
+https://perma.cc/A35G-SWJ8
+
+
+https://perma.cc/Q98X-SX2T
 
 
 
@@ -262,8 +267,8 @@ http://publication.pravo.gov.ru/Document/View/0001202004290001
  The first period of non-working days was declared from 30 March until 3 April (Decree 206 from 25 March 2020). It was then extended from 4 April until 30 April (Decree 239 from 2 April 2020). The third period of non-working days was declared from 6 until 8 May (Decree 294 from 28 April). Although the end date is 8 May, the following days (9-11 May) are official holidays in Russia, so de facto the period of non-working days was from 6 to 11 May 2020, and ended on 11 May 2020, as announced by President Putin. 
 
 *Sources*:
- http://kremlin.ru/events/president/news/63061/videos
-http://kremlin.ru/events/president/news/63341
+ https://perma.cc/5YSU-QMND
+https://perma.cc/JG53-7ADC
 
 
 
@@ -305,7 +310,7 @@ http://kremlin.ru/events/president/news/63341
  The measures were declared based on Article 80 of the Constitution (on the role of the President), which contains no provisions for legislature approval. 
 
 *Sources*:
- http://www.constitution.ru/10003000/10003000-6.htm
+ https://perma.cc/7T48-NSP4
 
 
 
@@ -347,8 +352,8 @@ http://kremlin.ru/events/president/news/63341
  Not required by law. Additionally, on 31 March the legislature passed a law giving the executive cabinet (led by the Prime Minister) power to declare a states of high alert and emergency (has not been declared) (1) 
 
 *Sources*:
- http://kremlin.ru/events/president/news/63341
-https://sozd.duma.gov.ru/bill/931192-7
+ https://perma.cc/Z4DD-3BSC
+https://perma.cc/T5HD-EHL9
 (1)
 
 
@@ -395,12 +400,11 @@ https://sozd.duma.gov.ru/bill/931192-7
  No limitations on the legislature mentioned in the text of emergency measures. Based on the legislature's website, some of its sessions were canceled but its lawmaking power was not limited and it ratified emergency measures passed by the government. 
 
 *Sources*:
- http://kremlin.ru/events/president/news/63341
-http://duma.gov.ru/news/48598/
-http://duma.gov.ru/news/48454/
-http://duma.gov.ru/news/48058/
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B365%5D&covid19=1
+ https://perma.cc/FQ8L-ZATF
+https://perma.cc/G7WV-UTRY
+https://perma.cc/WZ5S-XWD5
+https://perma.cc/J7UH-BULT
+https://perma.cc/Q6R3-ZWBR
 
 
 
@@ -522,16 +526,14 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B36
  Most measures have been delegated to the regional authorities with some regions taking stronger measures and for a longer period of time. On 2 April 2020, President Putin said that he gave regional authorities additional power to tackle the crisis due to regional differences and all regions declared a state of high alert. 
 
 *Sources*:
- https://www.bbc.com/russian/news-52069617
-http://kremlin.ru/events/president/news/63133
-https://www.mos.ru/upload/documents/docs/34-YM.pdf
-https://www.gov.spb.ru/press/governor/188430/
-https://rg.ru/2020/03/31/chehcnya-ukaz66-reg-dok.html
-
-https://www.ft.com/content/05fbbf49-913d-48ec-acdc-1f47c774317ahttps://www.mos.ru/authority/documents/doc/43620220/
-https://www.garda.com/crisis24/news-alerts/398321/russia-authorities-to-tighten-covid-19-restrictions-in-moscow-november-13-update-49
-https://www.mos.ru/city/projects/measures/
-https://www.garda.com/crisis24/news-alerts/436386/russia-measures-imposed-to-stem-the-spread-of-covid-19-further-eased-in-moscow-as-of-jan-27-update-35
+ https://perma.cc/FBN3-MKT2
+https://perma.cc/MA9M-T683
+https://perma.cc/5NSQ-WPMR
+https://perma.cc/PRA6-DHXV
+https://perma.cc/45VH-2YEX
+https://perma.cc/ZH6U-DJTC
+https://perma.cc/U989-VHFL
+https://www.ft.com/content/05fbbf49-913d-48ec-acdc-1f47c774317a
 
 
 
@@ -575,9 +577,13 @@ https://www.garda.com/crisis24/news-alerts/436386/russia-measures-imposed-to-ste
  Chinese embassy issued a complaint regarding disproportionate checks of Chinese citizens in Moscow on 24 February 2020 (earlier than 11 March 2020). No new information found since June 2020. 
 
 *Sources*:
- https://novayagazeta.ru/news/2020/02/25/159339-posolstvo-kitaya-poprosilo-prekratit-proverki-kitayskih-grazhdan-v-obschestvennom-transporte-moskvy
-https://www.amnesty.org/en/search/?country=38497
-https://www.hrw.org/europe/central-asia/russia
+ https://perma.cc/H7BA-HMC6
+
+
+https://perma.cc/5Q4N-5GAU
+
+
+https://perma.cc/GM42-T7W2
 
 
 
@@ -626,11 +632,12 @@ https://www.hrw.org/europe/central-asia/russia
  No measures violating non-derogable rights.  Note that according to OSCE report, "fake news" legislature in countries that implemented such laws (including Russia) can be problematic since "there may well be a legitimate concern about the deliberate and malicious spread of disinformation, such criminal provisions are unlikely to comply with the principle of specificity of criminal law enshrined in Article 15 of the ICCPR and Article 7 of the ECHR due to the inherent vagueness and ambiguity of the term “false information”. (1) 
 
 *Sources*:
- http://kremlin.ru/events/president/news/63065
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+ https://perma.cc/XQU2-MFSF
+https://perma.cc/3Z4X-QKWH
 (1)
-https://www.amnesty.org/en/search/?country=38497
-https://www.hrw.org/europe/central-asia/russia
+
+https://perma.cc/FE5K-VGT3
+https://perma.cc/Q892-HMPM
 
 
 
@@ -676,14 +683,17 @@ https://www.hrw.org/europe/central-asia/russia
 Note that the legislation is not part of the emergency measures, Art 207 mentions that it is applicable towards information regarding events that threaten security and safety of citizens, which includes epidemics. It is therefore not coded as part of the emergency measures, but is considered in coding merepfact and merepgov. 
 
 *Sources*:
- http://publication.pravo.gov.ru/Document/View/0001202004010073
-https://ipi.media/new-fake-news-law-stifles-independent-reporting-in-russia-on-covid-19/
+ https://perma.cc/BQ5T-K3YP
+https://perma.cc/EYY7-B87Y
 (1)
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-4&p_p_col_count=1&_sojdashboard_WAR_coesojportlet_alertId=62518066
+
+https://perma.cc/SJG2-E8UH
 (2)
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B365%5D&covid19=1
-https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#VII
+
+https://perma.cc/J7UH-BULT
+
+https://perma.cc/8J7C-8H5X
+https://perma.cc/VQE6-QYGY
 
 
 
@@ -805,15 +815,16 @@ https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#VII
 According to IPI, "On March 19, the country’s media regulatory agency, Roskomnadzor, which has a history of censoring the independent press, demanded that more than 20 media outlets remove content it deemed “inaccurate, socially significant information” about the coronavirus from their websites. Among them was radio station Echo of Moscow, which was pressured to remove the recording and transcript of an interview with a disease expert who criticized the government’s handling of the health crisis." (1) Moreover, "media outlets will also be fined up to €117,000 if they publish disinformation about the outbreak, raising further concerns that the broadly defined law will be used to target media that criticize the government’s response to the outbreak." (1)  Based on this legislation, merepfact is coded as 1 in all time periods. 
 
 *Sources*:
- https://xn--80aesfpebagmfblc0a.xn--p1ai/
-https://ipi.media/european-media-freedom-suffers-covid-19-response/
+ https://perma.cc/9GB9-NYDV
+https://perma.cc/DRZ3-J9DJ
 (1)
-https://ipi.media/russian-journalists-face-continued-fines-and-probes-amid-creeping-censorship/
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#VII
-https://www.hrw.org/news/2021/04/29/russia-closing-down-media-freedoms
-https://www.hrw.org/world-report/2021/country-chapters/russia
-https://rsf.org/en/news/new-changes-russias-foreign-agents-law-aim-intimidate-journalists
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+
+https://perma.cc/UM6L-NQVD
+https://perma.cc/N3BM-QQYT
+https://perma.cc/8ZVK-8PFL
+https://perma.cc/B25W-C9LB
+https://perma.cc/8568-QVT3
+https://perma.cc/LC2T-LPF9
 
 
 
@@ -859,32 +870,21 @@ According to CPJ, "On June 9, a court in the central Russian city of Ufa fined T
 The government passed ammendments to Article 207 of Criminal Code (on spreading disinformation) which was used to censor reporting on the government's handling of the pandemic.  According to IPI, "On March 19, the country’s media regulatory agency, Roskomnadzor, which has a history of censoring the independent press, demanded that more than 20 media outlets remove content it deemed “inaccurate, socially significant information” about the coronavirus from their websites. Among them was radio station Echo of Moscow, which was pressured to remove the recording and transcript of an interview with a disease expert who criticized the government’s handling of the health crisis." Moreover, "media outlets will also be fined up to €117,000 if they publish disinformation about the outbreak, raising further concerns that the broadly defined law will be used to target media that criticize the government’s response to the outbreak."  (3) 
 
 *Sources*:
- https://rsf.org/en/news/russia-suppresses-coronavirus-information-home-manipulates-it-abroad
+ https://perma.cc/Q95K-CAR5
 (1)
-https://cpj.org/2020/06/russian-journalists-investigated-fined-over-covid-19-reporting/
 
+https://perma.cc/3US5-AHDE
 (2)
-https://cpj.org/2020/03/russian-media-regulator-orders-2-outlets-to-take-d/
 
-https://ipi.media/new-fake-news-law-stifles-independent-reporting-in-russia-on-covid-19/
-(3)
-
-https://ipi.media/european-media-freedom-suffers-covid-19-response/
-
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-3&p_p_col_count=7&_sojdashboard_WAR_coesojportlet_alertPK=63295618
-
-https://ipi.media/russian-journalists-face-continued-fines-and-probes-amid-creeping-censorship/
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-4&p_p_col_pos=2&p_p_col_count=3&_sojdashboard_WAR_coesojportlet_alertId=66973462
-
-https://ipi.media/russian-journalists-face-continued-fines-and-probes-amid-creeping-censorship/
-https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
-https://cpj.org/2020/11/russian-journalist-aleksandr-pichugin-awaiting-verdict-sentencing-in-false-news-trial/
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=2&p_p_cacheability=cacheLevelPage&p_p_col_id=column-4&p_p_col_pos=2&p_p_col_count=3&_sojdashboard_WAR_coesojportlet_alertPK=76017642&_sojdashboard_WAR_coesojportlet_cmd=get_pdf_one
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#VII
-https://www.hrw.org/news/2021/04/29/russia-closing-down-media-freedoms
-https://www.hrw.org/world-report/2021/country-chapters/russia
-https://rsf.org/en/news/new-changes-russias-foreign-agents-law-aim-intimidate-journalists
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+https://perma.cc/TF2P-A3D7
+https://perma.cc/23LN-FL2E
+https://perma.cc/UZK8-EBVZ
+https://perma.cc/4ZKS-QYRC
+https://perma.cc/K5W9-ZY7Y
+https://perma.cc/L8UU-WALV
+https://perma.cc/M8KF-8T6G
+https://perma.cc/3N9S-WDW5
+https://perma.cc/B32P-NKRE
 
 
 
@@ -926,9 +926,10 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
  Journalist David Frenkel was reporting on voting irregularities on 30 June and "a police officer and an election observer from the ruling United Russia party attacked Frenkel and broke his arm at a polling station in central St. Petersburg." (1) He was fined for "llegedly disobeying police, interfering with an election, and violating the COVID-19 lockdown" on 27 July.  (1) Since it was a single incident and no further cases were reported, merepoth is coded as 0 in other quarters. 
 
 *Sources*:
- https://cpj.org/2020/08/russian-journalist-david-frenkels-car-vandalized-following-june-attack-at-voting-station/
+ https://perma.cc/TH4C-DCVB
 (1)
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/russia/
+
+https://perma.cc/ZA7Q-BGAU
 
 
 
@@ -973,14 +974,18 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/rus
 Additionally, according to IPI, "individual medical professionals have been banned from speaking to media, while heads of health institutions have to seek approval and coordinate with central authorities before giving interviews to the press...Gathering information from “unofficial” sources or conducting anonymous interviews meanwhile risks sanctions or a police investigation." (3) According to Human Rights Watch, " On October 28, the Health Ministry instructed all medical facilities that any public comments about the Covid-19 situation have to be pre-approved by the ministry’s press service. Later, the assistant health minister stated the instruction applied only to comments on prevention and treatment of the disease and “does not affect doctors” capacity to comment on various aspects of their work, including problematic ones." However, given the retaliation against medical personnel who offered critical comments, it’s reasonable to believe this instruction is intended to have a chilling effect." (4)  Since I found no evidence that violations stopped, meinf is coded as 2 in all periods. 
 
 *Sources*:
- https://rsf.org/en/news/russia-suppresses-coronavirus-information-home-manipulates-it-abroad
+ https://perma.cc/9LAU-YA3S
 (1)
-https://ipi.media/access-denied-foi-deadlines-extended-or-suspended-across-europe/
+
+https://perma.cc/S3MU-A2A8
 (2)
-https://www.article19.org/resources/advances-in-freedom-of-information-under-threat-during-coronavirus-pandemic/
-https://ipi.media/new-fake-news-law-stifles-independent-reporting-in-russia-on-covid-19/
+
+https://perma.cc/QFM5-MW4N
+
+https://perma.cc/HE35-XTRV
 (3)
-https://www.hrw.org/news/2020/11/02/russia-should-support-health-workers-not-silence-them
+
+https://perma.cc/KZ27-GVB8
 (4)
 
 
@@ -1023,11 +1028,19 @@ https://www.hrw.org/news/2020/11/02/russia-should-support-health-workers-not-sil
  Verbal harrassment and threats towards a journalist reporting on Covid-19 measures in Chechnya region. Since it is an individual case and I found no evidence that the practice is systemic, mevhar is coded as 1 only during March-June 2020 period. 
 
 *Sources*:
- https://novayagazeta.ru/articles/2020/04/13/84881-ramzan-kadyrov-o-novoy-gazete-bez-kommentariev
-https://ipi.media/chechnya-leader-launches-violent-tirade-against-russian-investigative-journalist/
-https://ipi.media/russian-journalists-face-continued-fines-and-probes-amid-creeping-censorship/
-https://cpj.org/2020/04/chechen-leader-threatens-journalist-elena-milashin/
-https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
+ https://perma.cc/BA6D-33VW
+
+
+https://perma.cc/6FAU-75LJ
+
+
+https://perma.cc/39Q3-6592
+
+
+https://perma.cc/GK4D-QE3P
+
+
+https://perma.cc/X8QZ-BDMT
 
 
 
@@ -1069,9 +1082,16 @@ https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-w
  I have not found any information. 
 
 *Sources*:
- https://ipi.media/russia/
-https://rsf.org/en/russia
-https://ipi.media/russian-journalists-face-continued-fines-and-probes-amid-creeping-censorship/
+ https://perma.cc/9FTA-7PPH
+
+
+https://perma.cc/RR8A-A9BN
+
+
+https://perma.cc/M75U-Y8CB
+
+
+
 
 
 
@@ -1115,21 +1135,20 @@ https://ipi.media/russian-journalists-face-continued-fines-and-probes-amid-creep
  State-owned media channels and outlets have spread Covid-19 conspiracy theories that are not in line with the information given by the WHO, such about the origin of the virus. There are also reports on expressing concerns over alledged underreporting of covid-19 cases. According to Amnestry International, "Official and independent numbers on infection and mortality rates varied greatly, indicating government under-reporting" (1). 
 
 *Sources*:
- https://www.theguardian.com/world/2020/mar/18/russian-media-spreading-covid-19-disinformation
-https://www.bbc.com/news/world-europe-51413870
-https://www.themoscowtimes.com/2021/03/01/2-in-3-russians-believe-coronavirus-is-a-bioweapon-poll-a73101
-https://apnews.com/article/pandemics-beijing-only-on-ap-epidemics-media-122b73e134b780919cc1808f3f6f16e8
-https://euvsdisinfo.eu/eeas-special-report-update-short-assessment-of-narratives-and-disinformation-around-the-covid19-pandemic-updated-23-april-18-may/
-https://www.nytimes.com/2020/04/03/world/europe/russian-virus-doctor-detained.html
-https://www.nytimes.com/2020/04/10/world/europe/coronavirus-russia-moscow-putin.html?action=click%26module=RelatedLinks%26pgtype=Article
-https://www.bbc.com/russian/news-52235498
-https://www.kommersant.ru/doc/4315608
+ https://perma.cc/LYR5-5UYF
+https://perma.cc/9234-KN66
+https://perma.cc/KFT9-SHRS
+https://perma.cc/AC5P-GZTK
+https://perma.cc/72NG-ADLP
+https://perma.cc/5YZG-EZZM
+https://perma.cc/B3SX-Z395
+https://perma.cc/7QM7-WU3L
+https://perma.cc/6AG8-P8QL
+https://perma.cc/ZD6T-7VU9
+https://perma.cc/5R2V-LXH6
 
-https://apnews.com/dbbf02a747b11d8ffe3b07d5e33ff129
-https://cpj.org/2020/08/freelancer-vladimir-sevrinovsky-on-covering-covid-19-in-the-north-caucasus-the-main-misinformation-i-fight-is-from-the-state/
-https://www.bloomberg.com/news/articles/2020-05-13/experts-question-russian-data-on-covid-19-death-toll
-https://www.politico.eu/article/covid-vaccine-disinformation-russia/
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+https://perma.cc/536U-SFHT
+https://perma.cc/59KS-EP8Y
 (1)
 
 
@@ -1174,8 +1193,10 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
  Video footage of police assaulting people without masks in Chechnya. Since it was one incident and I have not found any further information on police violence, pomviol is coded as 1 only during March-June 2020. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/04/eastern-europe-and-central-asia-human-rights-must-be-protected-during-covid19-pandemic/
-https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
+ https://perma.cc/B7B5-7BY2
+
+
+https://perma.cc/P87M-EYN9
 
 
 
@@ -1217,4 +1238,4 @@ https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
  the President ordered (679, 2) the Minister of Defense to consider a possibility of military's involvement but so far the military has not been involved. 
 
 *Sources*:
- http://kremlin.ru/acts/assignments/orders/63217
+ https://perma.cc/XEX7-VAD7

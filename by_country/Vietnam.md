@@ -47,18 +47,12 @@
 Vietnam did not declare a state of a emergency in Q1 and Q2 of 2021. However, other Covid19 related restrictions continue to be in place to varying levels across the country. 
 
 *Sources*:
- https://www.weforum.org/agenda/2020/03/vietnam-contain-covid-19-limited-resources/
-
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.bbc.com/news/business-53045955
-
-https://www.reuters.com/article/us-health-coronavirus-vietnam-riceatm/rice-atm-feeds-vietnams-poor-amid-virus-lockdown-idUSKCN21V0GQ
-
-
-http://constitutionnet.org/sites/default/files/tranlation_of_vietnams_new_constitution_enuk_2.pdf
-
-https://www.garda.com/crisis24/news-alerts/479976/vietnam-authorities-continue-to-enforce-covid-19-restrictions-nationwide-as-of-may-18-update-28
+ https://perma.cc/RWH7-95SD
+https://perma.cc/6KAF-XLCK
+https://perma.cc/Q85K-DA63
+https://perma.cc/FTG8-NH9T
+https://perma.cc/7HCE-HZM9
+https://perma.cc/WMK3-SNQS
 
 
 
@@ -386,16 +380,11 @@ https://www.garda.com/crisis24/news-alerts/479976/vietnam-authorities-continue-t
  I did not find evidence of the lawmaking role of the legislature being limited due to the emergency measures across all time periods. 
 
 *Sources*:
- https://www.weforum.org/agenda/2020/03/vietnam-contain-covid-19-limited-resources/
-
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.bbc.com/news/business-53045955
-
-https://www.reuters.com/article/us-health-coronavirus-vietnam-riceatm/rice-atm-feeds-vietnams-poor-amid-virus-lockdown-idUSKCN21V0GQ
-
-
-http://constitutionnet.org/sites/default/files/tranlation_of_vietnams_new_constitution_enuk_2.pdf
+ https://perma.cc/AF38-JQLA
+https://perma.cc/Z537-Z8XF
+https://perma.cc/HA79-TY6W
+https://perma.cc/4KRG-8MKW
+https://perma.cc/CX6T-VTR4
 
 
 
@@ -434,11 +423,9 @@ http://constitutionnet.org/sites/default/files/tranlation_of_vietnams_new_consti
  I did not find any information suggesting that Vietnam's National Assembly was dissolved across all time periods. However, elections were held on 23 May 2021. 
 
 *Sources*:
- http://quochoi.vn/en-US/Pages/default.aspx
-
-https://www.reuters.com/world/asia-pacific/vietnam-holds-parliament-election-amid-new-covid-19-outbreak-2021-05-23/
-
-https://thediplomat.com/2021/05/ahead-of-vietnams-one-party-elections-the-state-punishes-online-calls-for-democracy/
+ https://perma.cc/T5QL-JBGS
+https://perma.cc/X36D-Z34C
+https://perma.cc/5RF9-HXG6
 
 
 
@@ -479,11 +466,9 @@ https://thediplomat.com/2021/05/ahead-of-vietnams-one-party-elections-the-state-
 However, elections were held on 23 May 2021. 
 
 *Sources*:
- http://quochoi.vn/en-US/Pages/default.aspx
-
-https://www.reuters.com/world/asia-pacific/vietnam-holds-parliament-election-amid-new-covid-19-outbreak-2021-05-23/
-
-https://thediplomat.com/2021/05/ahead-of-vietnams-one-party-elections-the-state-punishes-online-calls-for-democracy/
+ https://perma.cc/T5QL-JBGS
+https://perma.cc/X36D-Z34C
+https://perma.cc/5RF9-HXG6
 
 
 
@@ -531,22 +516,13 @@ I have not found evidence of sub-national variation in the first quarter of 2021
 In an attempt to tacking the recent rise in Covid-19 cases, strict public health measures were imposed in hotspots of Hanoi, Da Nang and the provinces of Bac Giang and Bac Ninh on 18 May 2021 to 18 June 2021. 
 
 *Sources*:
- https://www.theguardian.com/global-development/2020/may/06/vietnam-crushed-the-coronavirus-outbreak-but-now-faces-severe-economic-test
-
-
-https://www.bbc.com/news/world-asia-52628283
-
-
-https://www.vietnam-briefing.com/news/vietnam-business-operations-and-the-coronavirus-updates.html/
-
-https://www.bangkokpost.com/world/1905235/vietnam-to-ease-nationwide-coronavirus-lockdown
-
-
-https://www.who.int/vietnam/internal-publications-detail/covid-19-in-viet-nam-situation-report-19
-
-https://www.dw.com/en/vietnams-covid-resurgence-prompts-strict-new-lockdowns/a-57654484
-
-https://www.garda.com/crisis24/news-alerts/479976/vietnam-authorities-continue-to-enforce-covid-19-restrictions-nationwide-as-of-may-18-update-28
+ https://perma.cc/CXX2-G7LD
+https://perma.cc/CG6M-QPV9
+https://perma.cc/X57E-NZKQ
+https://perma.cc/T5GQ-TVSD
+https://perma.cc/ZH7B-TK68
+https://perma.cc/R6R6-KEJ2
+https://perma.cc/UPB8-Z34K
 
 
 
@@ -590,11 +566,9 @@ https://www.garda.com/crisis24/news-alerts/479976/vietnam-authorities-continue-t
  I did not find evidence of the emergency measures discriminating "solely on the grounds of race, colour, sex, language, religion or social origin" across all time periods. 
 
 *Sources*:
- https://www.hrw.org/asia/vietnam
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/viet-nam/
-
-http://constitutionnet.org/sites/default/files/tranlation_of_vietnams_new_constitution_enuk_2.pdf
+ https://perma.cc/K2FH-2Z3A
+https://perma.cc/58SX-H5TH
+https://perma.cc/UHY6-9EKZ
 
 
 
@@ -643,11 +617,9 @@ http://constitutionnet.org/sites/default/files/tranlation_of_vietnams_new_consti
  There is no information of the emergency measures de-jure violating non-derogable rights as defined by the ICCPR through out all the time periods. 
 
 *Sources*:
- https://www.hrw.org/asia/vietnam
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/viet-nam/
-
-http://constitutionnet.org/sites/default/files/tranlation_of_vietnams_new_constitution_enuk_2.pdf
+ https://perma.cc/7BDM-4RSZ
+https://perma.cc/T7GR-JH5R
+https://perma.cc/34G4-EGZV
 
 
 
@@ -694,22 +666,10 @@ But  a new decree was introduced in Vietnam on 15 April 2020 introducing fines f
  
 
 *Sources*:
- https://www.reuters.com/article/us-health-coronavirus-vietnam-security/vietnam-introduces-fake-news-fines-for-coronavirus-misinformation-idUSKCN21X0EB
-
-
-
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-
-
-
-https://www.amnesty.org/en/latest/news/2020/04/viet-nam-facebook-cease-complicity-government-censorship/
-
-
-
-
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25920&LangID=E
+ https://perma.cc/N3CG-QWY4
+https://perma.cc/WP83-GHJZ
+https://perma.cc/ES7Z-526F
+https://perma.cc/WDM2-XBLT
 
 
 
@@ -835,24 +795,13 @@ An example of a post that warranted punishment was a person who made a post on F
 These restrictions may also contribute to a climate of fear and self-censorship in reporting. Since January 2020, at least 20 journalists, publishers and social media users have been arrested over content that was critical about the Vietnamese government. As the situation has not improved in Q1 and Q2 of 2021, I have continued to code this variable as 1. 
 
 *Sources*:
- https://www.reuters.com/article/us-health-coronavirus-vietnam-security/vietnam-introduces-fake-news-fines-for-coronavirus-misinformation-idUSKCN21X0EB
-
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-
-https://www.amnesty.org/en/latest/news/2020/04/viet-nam-facebook-cease-complicity-government-censorship/
-
-
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25920&LangID=E
-
-
-https://rsf.org/en/vietnam
-
-
-https://www.theregister.com/2020/04/02/vietnam_bans_posting_fake_news/
-
-https://www.voanews.com/press-freedom/vietnam-seeks-further-limit-press
+ https://perma.cc/N3CG-QWY4
+https://perma.cc/WP83-GHJZ
+https://perma.cc/ES7Z-526F
+https://perma.cc/WDM2-XBLT
+https://perma.cc/3LHV-GXXJ
+https://perma.cc/UJ2N-833B
+https://perma.cc/N8FJ-22N3
 
 
 
@@ -896,19 +845,11 @@ https://www.voanews.com/press-freedom/vietnam-seeks-further-limit-press
 A new decree was introduced in Vietnam on 15 April 2020 introducing fines for the dissemination of ‘fake news’ or rumours on social media. According to the decree, fines are imposed on people who use social media to share false, untruthful, distorted or slanderous information.  At least two Facebook users have been given criminal sentences for sharing information deemed to be fake about the virus. The criminal sentences have been up to nine months detention and fines over USD$1000. These restrictions may also contribute to a climate of fear and self-censorship in reporting. As the general media climate in Vietnam has not improved in Q1 and Q2 of 2021, I have continued to code this variable as 1 across all time periods. 
 
 *Sources*:
- https://www.reuters.com/article/us-health-coronavirus-vietnam-security/vietnam-introduces-fake-news-fines-for-coronavirus-misinformation-idUSKCN21X0EB
-
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-
-https://www.amnesty.org/en/latest/news/2020/04/viet-nam-facebook-cease-complicity-government-censorship/
-
-
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25920&LangID=E
-
-
-https://rsf.org/en/vietnam
+ https://perma.cc/N3CG-QWY4
+https://perma.cc/WP83-GHJZ
+https://perma.cc/ES7Z-526F
+https://perma.cc/WDM2-XBLT
+https://perma.cc/3LHV-GXXJ
 
 
 
@@ -952,10 +893,8 @@ https://rsf.org/en/vietnam
 I have not found instances of the government placing de-facto limitations on reporting about non-Covid-19 related news, but with reference to the pandemic. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2018/06/viet-nam-cybersecurity-law-devastating-blow-freedom-of-expression/
-
-
-https://www.amnesty.org/en/latest/news/2018/06/viet-nam-proposed-cybersecurity-law-threatens-to-stamp-out-online-freedom/
+ https://perma.cc/LND7-DG7H
+https://perma.cc/W6AG-23TW
 
 
 
@@ -1000,16 +939,10 @@ https://www.amnesty.org/en/latest/news/2018/06/viet-nam-proposed-cybersecurity-l
 1: A new decree was introduced in Vietnam on 15 April 2020 introducing fines for the dissemination of ‘fake news’ or rumours on social media. According to the decree, fines are imposed on people who use social media to share false, untruthful, distorted or slanderous information.  2: At least two Facebook users have been given criminal sentences for sharing information deemed to be fake about the virus. The criminal sentences have been up to nine months detention and fines over USD$1000. 
 
 *Sources*:
- https://www.reuters.com/article/us-health-coronavirus-vietnam-security/vietnam-introduces-fake-news-fines-for-coronavirus-misinformation-idUSKCN21X0EB
-
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-
-https://www.amnesty.org/en/latest/news/2020/04/viet-nam-facebook-cease-complicity-government-censorship/
-
-
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25920&LangID=E
+ https://perma.cc/N3CG-QWY4
+https://perma.cc/WP83-GHJZ
+https://perma.cc/ES7Z-526F
+https://perma.cc/WDM2-XBLT
 
 
 
@@ -1051,18 +984,12 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25920&LangID=E
  I did not find any information related to this across all time periods. However, there are multiple reports of journalists being harrassed for non-Covid-19 related reasons. Journalits are often harrassed and jailed after bring critical of the government. 
 
 *Sources*:
- https://rsf.org/en/vietnam
-
-https://www.hrw.org/asia/vietnam
-
-
-https://www.bbc.com/news/topics/c207p54m4n2t/vietnam
-
-https://ipi.media/vietnam-journalists-and-media-watchdogs-fear-increased-persecution/
-
-https://ipi.media/journalist-arrested-in-vietnam-for-criticising-government/
-
-https://www.theguardian.com/global-development/2020/oct/08/vietnam-arrests-prominent-journalist-as-state-cracks-down-on-free-speech-online
+ https://perma.cc/N4M9-7YWC
+https://perma.cc/DF8P-43ME
+https://perma.cc/U5QE-9DYU
+https://perma.cc/HLF7-B68Q
+https://perma.cc/AN36-D4AE
+https://perma.cc/E6F4-S7YT
 
 
 
@@ -1104,13 +1031,10 @@ https://www.theguardian.com/global-development/2020/oct/08/vietnam-arrests-promi
  I did not find any information related to this across all time periods. However, there are multiple reports of journalists being harrassed for non-Covid-19 related reasons. Journalits are often harrassed and jailed after bring critical of the government. 
 
 *Sources*:
- https://rsf.org/en/news/pakistani-government-orchestrated-cyber-harassment-women-journalists
-
-https://ipi.media/vietnam-journalists-and-media-watchdogs-fear-increased-persecution/
-
-https://ipi.media/journalist-arrested-in-vietnam-for-criticising-government/
-
-https://www.theguardian.com/global-development/2020/oct/08/vietnam-arrests-prominent-journalist-as-state-cracks-down-on-free-speech-online
+ https://perma.cc/PC8F-9VHA
+https://perma.cc/3478-HT7U
+https://perma.cc/RA3X-8W8M
+https://perma.cc/J3EV-V9G9
 
 
 
@@ -1154,7 +1078,7 @@ https://www.theguardian.com/global-development/2020/oct/08/vietnam-arrests-promi
  I did not find any information on covid-19 related matters deviating from the official information provided by the WHO across all time periods. 
 
 *Sources*:
- https://moh.gov.vn/web/ministry-of-health
+ https://perma.cc/XVQ4-UG4S
 
 
 
@@ -1198,12 +1122,9 @@ https://www.theguardian.com/global-development/2020/oct/08/vietnam-arrests-promi
  I did not find any information related to this across all time periods. 
 
 *Sources*:
- https://rsf.org/en/vietnam
-
-https://www.hrw.org/asia/vietnam
-
-
-https://www.bbc.com/news/topics/c207p54m4n2t/vietnam
+ https://perma.cc/N4M9-7YWC
+https://perma.cc/DF8P-43ME
+https://perma.cc/U5QE-9DYU
 
 
 
@@ -1245,13 +1166,8 @@ https://www.bbc.com/news/topics/c207p54m4n2t/vietnam
  The military have not been tasked with enforcing confinement measures across all the time periods. However, the military has been working in the quarantine centers. Examples of the tasks include distributing meals, taking the travellers' temperature regularly. 
 
 *Sources*:
- https://thediplomat.com/2020/10/vietnams-war-against-covid-19/
-
-https://th.boell.org/en/2020/06/05/vietnam
-
-https://rsf.org/en/vietnam
-
-https://www.hrw.org/asia/vietnam
-
-
-https://www.bbc.com/news/topics/c207p54m4n2t/vietnam
+ https://perma.cc/FXH8-T7QP
+https://perma.cc/7NTY-FWQT
+https://perma.cc/N4M9-7YWC
+https://perma.cc/DF8P-43ME
+https://perma.cc/U5QE-9DYU

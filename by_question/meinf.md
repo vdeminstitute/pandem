@@ -22,12 +22,16 @@
  I did not find any information related to this. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
+ https://perma.cc/GF5H-2FR6
 
 
-https://rsf.org/en/afghanistan
+https://perma.cc/34HH-EAUH
 
-https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
+
+
+
+
+https://perma.cc/XS55-FSHT
 
 
 
@@ -58,9 +62,11 @@ Q1 2021: Fjona Çela, a journalist with Fax News television, "was barred from in
 Q2 2021: No reports on limiting media access to Covid-19 information found; since the indicents in December 2020 and February 2021 were isolated and I found no information suggestings limitations on media access are ongoing, meinf is coded as 0. 
 
 *Sources*:
- https://ipi.media/alerts/faxnews-journalist-obstructed-from-pandemic-reporting-by-ministry-media-adviser-in-albania/
+ https://perma.cc/6FDA-WPFN
 (2)
-https://ipi.media/ipi-condemns-detention-and-assault-of-journalists-documenting-police-violence-in-albania/
+
+
+https://perma.cc/Y74K-69GC
 (1)
 
 
@@ -99,34 +105,35 @@ During Q1 and Q2 of 2021, the Algerian government has been accused of delaying t
 FreedomHouse mentions (10): ''In April 2020 the websites of media outlets Maghreb Emergent, Radio M, and Interlignes became unavailable to Algerian users. In August 2020, the website of L’Avant-Garde Algérie also became inaccessible from within the country. Additional news websites were blocked in December, including Tariq News, Shihab Presse, UltraSawt, TSA Algérie, and Twala. Viewers can access unlicensed private television channels located in Algeria but legally based outside the country, though these are subject to government crackdowns.'' 
 
 *Sources*:
- https://rsf.org/en/algeria
+ https://perma.cc/CC49-22R8
 (1)
 
-https://globalvoices.org/2021/04/08/algerians-speech-freedoms-strained-by-media-laws-passed-under-covid-19-pretext/
+
+https://perma.cc/3BF3-CAJ2
 (2)
 
-http://www.aps.dz/algerie/104200-amendement-du-code-penal-criminalisation-de-la-diffusion-des-fakenews-portant-atteinte-a-l-ordre-et-a-la-securite-publics
+https://perma.cc/3HZN-44Q6
 (3)
 
-https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
+https://perma.cc/9WG8-YJH5
 (4)
 
-https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
+https://perma.cc/XQ67-89A6
 (5)
 
-https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
+https://perma.cc/NQM3-R9AU
 (6)
 
-https://www.aps.dz/sante-science-technologie/110700-projet-de-decret-executif-sur-les-modalites-d-exercice-de-l-activite-d-information-en-ligne
+https://perma.cc/AA9H-C3JK
 (7)
 
-https://www.fes-mena.org/blog/e/a-multi-dimensional-crisis-journalism-in-algeria-put-to-the-test-by-covid-19/
+https://perma.cc/J35A-7K8J
 (8)
 
-https://rsf.org/en/news/algeria-pressures-reporters-delaying-renewal-accreditation
+https://perma.cc/TVK2-GP3C
 (9)
 
-https://freedomhouse.org/country/algeria/freedom-world/2021
+https://perma.cc/4TVE-DYTV
 (10)
 
 
@@ -152,9 +159,19 @@ https://freedomhouse.org/country/algeria/freedom-world/2021
  No evidence was found of limitations on access to information. 
 
 *Sources*:
- https://rsf.org/en/countries
-https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/africa/angola/
+ https://perma.cc/TV6W-EVYW
+
+
+
+
+
+https://perma.cc/W4M4-38JJ
+
+
+
+
+
+https://perma.cc/55NW-5DX9
 
 
 
@@ -180,13 +197,16 @@ https://cpj.org/africa/angola/
 
 *Sources*:
  [1]
-https://www.lanacion.com.ar/politica/prohibido-informar-formosa-donde-leyes-no-rigen-nid2593553/
+https://perma.cc/E95B-DSR5
+
 [2]
-https://www.infobae.com/sociedad/2021/02/08/fuerte-repudio-a-la-decision-del-gobierno-de-formosa-de-impedir-el-ingreso-de-una-periodista-de-la-nacion/
+https://perma.cc/C9QZ-QHNX
+
 [3]
-https://www.lanacion.com.ar/politica/ejercer-periodismo-bajo-gobierno-gildo-insfran-ocultamiento-nid2591482/
+https://perma.cc/UQC9-YKSM
+
 [4]
-https://www.lanacion.com.ar/politica/formosa-libertad-ingreso-periodistas-gildo-insfran-denuncias-nid2595264/
+https://perma.cc/DA8A-YNTM
 
 
 
@@ -211,8 +231,13 @@ https://www.lanacion.com.ar/politica/formosa-libertad-ingreso-periodistas-gildo-
  No reports on limiting media access to covid-19 information found. No new information found since June 2020. 
 
 *Sources*:
- https://ipi.media/armenia/
-https://rsf.org/en/armenia
+ https://perma.cc/QBK7-Q7QQ
+
+
+
+
+
+https://perma.cc/M8Y6-KCSU
 
 
 
@@ -237,10 +262,13 @@ https://rsf.org/en/armenia
  Neither Reporters Without Borders, Committee to Protect Journalists nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information, and no other indications has been found of there being any such limitations. The Australian authorities have announced that access to information can take longer than the usual statutory frameworks due to Covid-19, and that authorities can apply for extended time periods within which they have to deliver requested information. But this is not a limitation in access to information as such, and no complaints or reports have been found that this limits media's access to Covid-19 related information. 
 
 *Sources*:
- https://rsf.org/en/australia
-https://ipi.media/australia/
-https://cpj.org/asia/australia/
-https://www.oaic.gov.au/freedom-of-information/frequently-asked-questions/how-can-agencies-meet-statutory-timeframes-during-the-Covid-19-pandemic/
+ https://perma.cc/W8LY-YSU9
+
+https://perma.cc/DQM2-CWT6
+
+https://perma.cc/8X2M-ZUUE
+
+https://web.archive.org/web/20200324131033/https://www.oaic.gov.au/freedom-of-information/frequently-asked-questions/how-can-agencies-meet-statutory-timeframes-during-the-Covid-19-pandemic/
 
 
 
@@ -265,23 +293,27 @@ https://www.oaic.gov.au/freedom-of-information/frequently-asked-questions/how-ca
  There is no reports from the EU agency of fundamental rights, Reporters Without Borders, Committee to Protect Journalists or International Press Institute that there has been any limitations in access to information, and no other indication of such limitations has been found. Note that there has been ongoing criticism toward Austria’s lack of rigorous FOI-legislation, but this critique has been in place long before Covid-19, and has not to do with (nor seems to have exacerbated) by the pandemic. 
 
 *Sources*:
- https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Austria
+ https://perma.cc/7RQF-REVN
 
-https://rsf.org/en/austria
-https://cpj.org/europe/austria/BG6§
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+https://perma.cc/7FNE-NSHE
 
-https://ipi.media/austrias-journalists-face-roadblocks-to-accessing-official-information/
+https://cpj.org/europe/austria/BG6<a4>
 
-"
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Austria
+https://perma.cc/YS38-4GXJ
 
-https://rsf.org/en/austria
-https://cpj.org/europe/austria/BG6§
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+https://perma.cc/H9HB-3FPN
 
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic_november_2020.pdf
+https://perma.cc/QRL9-MNVB
+
+https://perma.cc/7M8N-ZVEQ
+
+https://perma.cc/LFR6-DNK7
+
+https://perma.cc/6JS5-RANW
+
+https://perma.cc/8D4H-R5PC
+
+
 
 
 
@@ -310,15 +342,18 @@ https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_p
 Q4 2020, Q1 2021, Q2 2021: new quarantine measures did not impose restrictions on journalists (e.g. see a decree from 7 November where jounalists were excluded from restrictions). However, melim is coded as 2 because, according to Reporters without Borders, "ever since the epidemic reached Azerbaijan, the authorities have been trying to control reporting on its impact and obstruct those journalists trying to cover it." (2) 
 
 *Sources*:
- https://koronavirusinfo.az/az/post/355
-https://www.turan.az/ext/news/2020/6/free/Social/ru/125057.htm
-https://www.kavkaz-uzel.eu/articles/352222/
-https://rsf.org/en/news/collateralfreedom-rsf-unblocks-eight-sites-censored-during-pandemic
-(2)
-https://ipi.media/azerbaijan-abuses-quarantine-rules-to-jail-critical-journalists-and-bloggers/
-(1)
+ https://perma.cc/4NZA-KPS6
+https://perma.cc/6GCV-KRYB
 
-https://koronavirusinfo.az/files/3/6ceec44f5ef866f869d1dfaf8771e393.pdf
+
+https://perma.cc/YAH9-JY4W
+
+https://perma.cc/C3GA-4XEF
+(2)
+
+https://perma.cc/EWZ7-KJGT
+(1)
+https://perma.cc/BPZ2-7F2C
 
 
 
@@ -343,13 +378,19 @@ https://koronavirusinfo.az/files/3/6ceec44f5ef866f869d1dfaf8771e393.pdf
  I did not find any information on this. 
 
 *Sources*:
- https://rsf.org/en/bangladesh
+ https://perma.cc/7248-YGFV
 
 
-https://www.hrw.org/asia/bangladesh
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/bangladesh/
+
+https://perma.cc/SMD7-67R6
+
+
+
+
+
+https://perma.cc/S296-PLED
 
 
 
@@ -374,11 +415,9 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/bangladesh/
  According to Library of Congress (p.40), "Social organizations have reported on numerous cases of government attempts to withhold information from the public and intimidate independent media outlets, especially when reporting on the health care system and its handling of Covid-19 cases" (1), citing a report from May 2020. Since there were many incidents and I found no evidence that the situation improved, meinf is coded as 2. 
 
 *Sources*:
- https://www.loc.gov/law/help/covid-19-freedom-of-expression/freedom-of-expression-during-covid-19.pdf
-(1)
-
-https://perma.cc/T3B6-A947
-https://www.hrw.org/world-report/2021/country-chapters/belarus
+ https://perma.cc/P94Z-5GBD
+https://perma.cc/GU4F-EP8V
+https://perma.cc/HT4S-CGWZ
 
 
 
@@ -403,12 +442,11 @@ https://www.hrw.org/world-report/2021/country-chapters/belarus
  No limitations on access to information, but ''the actual expert reports that were said to help determine the government response were only made available with a time delay.'' (2) 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/belgium-report-covid-19-april-2020_en.pdf
-
-https://www.vrt.be/vrtnws/nl/2020/06/08/gees-rapporten-publiek-gemaakt/
+ https://perma.cc/KDS7-H8QK
+https://perma.cc/GCW8-VM5K
 (2)
 
-https://www.mappingmediafreedom.org/country-profiles/belgium/
+https://perma.cc/V944-AKMA
 
 
 
@@ -434,18 +472,14 @@ https://www.mappingmediafreedom.org/country-profiles/belgium/
  
 
 *Sources*:
- https://rsf.org/en/benin
+ https://perma.cc/QX7C-VJYW
 (1)
 
-https://rsf.org/en/news/benin-regulator-orders-unauthorized-media-outlets-close
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/benin/
+https://perma.cc/7BL6-AY4K
+https://perma.cc/K8ER-5QPD
+https://perma.cc/9A2L-P2UY
+https://perma.cc/8928-SXEJ
+https://perma.cc/VQ74-AYT4
 
 
 
@@ -471,13 +505,16 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/ben
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/6YRT-A2F9
+
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/FGE4-4Z5T
+
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/WA4Z-Z8Y5
+
 [4]
-https://cpj.org/americas/bolivia/
+https://perma.cc/42R6-3AS5
 
 
 
@@ -508,11 +545,12 @@ Coded as 1 since the decision applies to one subnational entity and not the whol
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: I have not found any limitations on media access to Covid-19 information. 
 
 *Sources*:
- https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+ https://perma.cc/4PEW-ZYX4
+https://perma.cc/B8MW-BJ35
 (1)
-https://covid-19.ba/dokumenti/civilna_zastita
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/bosnia-and-herzegovina/
+
+https://web.archive.org/web/20200329162203/https://covid-19.ba/dokumenti/civilna_zastita
+https://perma.cc/7U84-M6C5
 (2)
 
 
@@ -539,15 +577,15 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/bos
 
 *Sources*:
  [1]
-https://www.gov.bw/about-covid-19
+https://perma.cc/Z34R-JZAZ
 [2]
-https://ipi.media/botswana/
+https://perma.cc/L2WK-NRDC
 [3]
-https://rsf.org/en/botswana
+https://perma.cc/68Z6-ANTD
 [4]
-https://cpj.org/africa/botswana
+https://perma.cc/Y2RZ-JXEE
 [5]
-https://covidlawlab.org/wp-content/uploads/2020/06/Emergency-Powers-COVID-19-Regulations-2020.pdf
+https://perma.cc/Y6P4-6EEF
 
 
 
@@ -575,19 +613,17 @@ No evidence of limitations on access to information was found after June.
 
 *Sources*:
  [1]
-https://www.washingtonpost.com/world/the_americas/coronavirus-brazil-bolsonaro-official-death-count-case/2020/06/07/73a713f4-a8cf-11ea-a9d9-a81c1a491c52_story.html
+https://perma.cc/GB99-3YBH
 [2]
-https://www.bbc.com/news/world-latin-america-52952686
-
+https://perma.cc/U2VS-W3BD
 [3]
-https://www.dw.com/pt-br/governo-volta-a-divulgar-dados-completos-da-covid-19/a-53753283
+https://perma.cc/C8EB-D9UD
 [4]
-https://www12.senado.leg.br/noticias/materias/2020/03/24/medida-provisoria-suspende-prazos-de-respostas-via-lei-de-acesso-a-informacao
+https://perma.cc/4X2H-VDAT
 [5]
-https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/141147
-
+https://perma.cc/A6J2-2Q9E
 [6]
-https://www12.senado.leg.br/noticias/materias/2020/04/30/stf-confirma-decisao-que-impede-restricoes-na-lei-de-acesso-a-informacao
+https://perma.cc/7N3Z-DVU4
 
 
 
@@ -612,9 +648,10 @@ https://www12.senado.leg.br/noticias/materias/2020/04/30/stf-confirma-decisao-qu
  According to IPI, the goverment "doubled the amount of time public bodies have to respond to requests. Since then, media have reported that institutions have cited the new rules in refusing to provide information." (1) According to Art 23 of the law on emergency measures from 13.03.2020, this applies until the end of the state of emergency. Since the state of emergency ended on 13 May 2020, this is coded only during March-June 2020 period. 
 
 *Sources*:
- https://ipi.media/access-denied-foi-deadlines-extended-or-suspended-across-europe/
+ https://perma.cc/6PN6-6WJC
 (1)
-https://www.lex.bg/bg/laws/ldoc/2137201253
+
+https://perma.cc/9T54-WG8X
 
 
 
@@ -640,18 +677,12 @@ https://www.lex.bg/bg/laws/ldoc/2137201253
 Also, on the the media environment: '' With dynamic, professional and diverse media, Burkina Faso is one of Africa's success stories''. (1) 
 
 *Sources*:
- https://rsf.org/en/burkina-faso
-(1)
-
-https://rsf.org/en/rsf_search?key=burkina%20faso
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://cpj.org/covid-19/
-
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
-
-https://ipi.media/covid19-media-freedom-monitoring/
+ [1]	perma.cc/LN22-CJFR
+[2]	perma.cc/F4NG-CPZ8
+[3]	perma.cc/DD2G-T25Q
+[4]	perma.cc/2UF9-JT4F
+[5]	perma.cc/E229-HDQY
+[6]	perma.cc/YY89-SUYC
 
 
 
@@ -676,29 +707,49 @@ https://ipi.media/covid19-media-freedom-monitoring/
  There is widespread reports that Myanmar is covering up the actual number of cases and deaths of Covid-19, and that media is not given access to any information on this beyond the government approved information. This lack of access is ongoing in both Q2 and Q3 of 2020 according to a report by Article19, and no evidence has been found indicating that the situation has improved. In addition, stay at home-orders in place during in various townships in Myanmar have not exempted journalists, which effectively limits their capacity to investigate and access information about Covid-19. No indication has been found that the situation has improved after the coup, and the media has more or less banned all independent media and any transparency, thus affecting access to information on Covid-19 as well as anything else. This is therefore coded as 2 for all periods. 
 
 *Sources*:
- https://www.ohchr.org/en/NewsEvents/Pages/DisplayNews.aspx?NewsID=25783&LangID=E
+ https://perma.cc/LJ4Q-M3MN
 
-https://en.ejo.ch/ethics-quality/myanmar-coronavirus-and-the-media
 
-https://www.hrw.org/news/2020/03/17/myanmar-denials-define-Covid-19-response
+https://perma.cc/PU49-XV2N
 
-https://www.article19.org/wp-content/uploads/2020/08/2020.08.31-COVID-19-briefing-paper-Myanmar.pdf
 
-https://www.ifj.org/media-centre/news/detail/category/press-releases/article/myanmar-journalists-face-restrictions-amid-the-pandemic.html
-https://rsf.org/en/news/myanmar-journalist-jailed-two-years-reporting-Covid-19-death
+https://perma.cc/8DBW-WQP2
 
-https://cpj.org/2020/05/myanmar-news-editor-sentenced-to-2-years-in-jail-o/
 
-https://www.burmalibrary.org/docs13/Penal_Code-articles.pdf
+https://perma.cc/VQ76-6JLK
 
-https://rsf.org/en/thematique/internet?countries%5B60%5D=60
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Myanmar
-https://rsf.org/en/news/myanmar-junta-now-publishing-lists-wanted-journalists
-https://www.nytimes.com/2021/01/31/world/asia/myanmar-coup-aung-san-suu-kyi.html
-https://www.hrw.org/news/2021/05/06/myanmar-junta-bans-satellite-television
-https://www.hrw.org/news/2021/04/29/myanmar-juntas-assault-truth
-https://rsf.org/en/news/myanmars-military-junta-eliminates-independent-media
+https://perma.cc/V9M5-F8VA
+
+
+https://perma.cc/NM3P-K423
+
+
+https://perma.cc/A77X-87J4
+
+
+https://perma.cc/TRE3-TYZD
+
+
+https://perma.cc/7HGP-TVY7
+
+
+https://perma.cc/L5ER-YKZRd
+
+
+https://perma.cc/K8WB-P3MR
+
+
+https://perma.cc/NMX2-4DWN
+
+
+https://perma.cc/68HP-2FFZ
+
+
+https://perma.cc/6CW3-59ZY
+
+
+https://perma.cc/WDG3-3V2P
 
 
 
@@ -735,25 +786,14 @@ Also: ''In a statement, the Human Rights Watch said health authorities in the co
 Burundi's position in press freedom ranking improved in 2021, and no new evidence was found in 2021. (3) 
 
 *Sources*:
- https://africacenter.org/spotlight/africa-varied-covid-landscapes/
-(1)
-https://www.hrw.org/news/2020/06/24/burundi-fear-repression-covid-19-response
-(2)
-
-https://rsf.org/en/burundi
-(3)
-
-https://www.ohchr.org/EN/HRBodies/HRC/Pages/NewsDetail.aspx?NewsID=25791&LangID=E
-(4)
-
-https://www.ohchr.org/EN/HRBodies/HRC/Pages/NewsDetail.aspx?NewsID=25790&LangID=E
-
-https://www.aa.com.tr/en/africa/rights-group-warns-burundi-on-covid-19-cover-up/1786867
-
-https://www.aa.com.tr/en/africa/burundi-election-campaigns-start-amid-virus-violence/1820023
-
-https://www.theeastafrican.co.ke/tea/news/east-africa/burundi-media-freedom-3386764
-(8)
+ [1]	perma.cc/DQF2-HGFH
+[2]	perma.cc/28KD-LT2Y
+[3]	perma.cc/7AAP-5Q8M
+[4]	perma.cc/WQ2B-7E9G
+[5]	perma.cc/3E89-ELKR
+[6]	perma.cc/NVF4-UVHP
+[7]	perma.cc/5B6M-RQ6M
+[8]	perma.cc/VW4P-5XB6
 
 
 
@@ -786,12 +826,13 @@ The information ministry reacted by ordering the revocation of TVFB’s media li
 3: In May 2021, the Cambodia government banned the media from reporting on Covid-19 related news from 'red zones'. These red zones are areas with high infection rates. 
 
 *Sources*:
- https://rsf.org/en/news/cambodia-hun-sen-uses-covid-19-crisis-tighten-his-grip
+ https://perma.cc/D77A-34V3
 
 
-https://rsf.org/en/news/cambodian-reporter-jailed-quoting-pms-comment-about-covid-19
+https://perma.cc/7T6P-QKMC
 
-https://www.france24.com/en/live-news/20210504-cambodia-bans-media-coverage-from-covid-lockdown-red-zones
+
+https://perma.cc/VQ9V-FRTF
 
 
 
@@ -824,16 +865,10 @@ https://www.france24.com/en/live-news/20210504-cambodia-bans-media-coverage-from
 ''Media, civil society and opposition groups in Cameroon say the government there refused to provide official information about Covid-19 to media outlets and journalists perceived to be critical of it.'' (2) 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-(1)
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-(2)
-
-https://www.minsante.cm/site/?q=en/cat%C3%A9gories/coronavirus-covid-19
-
-https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
-(4)
+ [1]	perma.cc/UW2Q-H73A
+[2]	perma.cc/98WU-7ZEH
+[3]	perma.cc/A3FX-D2AR
+[4]	perma.cc/8738-4EW8
 
 
 
@@ -858,10 +893,16 @@ https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-re
  The Canadian Government reports that accessing public information might be slower than usual due to the pressure Covid-19 puts on the public sector, but assures that requests will be responded to and that all laws on access to information still apply. Furthermore, Reporters Without Borders and the IPI report no issues on journalists lacking access to information in Canada. 
 
 *Sources*:
- https://www.canada.ca/en/parole-board/corporate/transparency/access-to-information-and-privacy.html
-https://cpj.org/americas/canada/
-https://rsf.org/en/thematique/internet?countries%5B177%5D=177
-https://ipi.media/canada/
+ https://perma.cc/QKN2-2MBK
+
+
+https://perma.cc/87SA-EYCV
+
+
+https://perma.cc/6N6D-NC7J
+
+
+https://perma.cc/DC4Q-C7ZT
 
 
 
@@ -889,12 +930,9 @@ Also, it is mentioned that the Central African Bloggers’ Association (ABCA) la
 ...the authorities are not so happy with this approach, as they cannot control it.  “They prefer a more institutional coverage, like you get on Guira FM [the radio station of the United Nations Integrated Multidimensional Stabilisation Mission in the CAR] or on the national radio station, known as the ‘mother radio’,” says one journalist who prefers not to be named. “If you want to go beyond the traditional press conference, you can have a real problem with gaining access to sources.”'' (2) 
 
 *Sources*:
- https://fr.ejo.ch/formats-pratiques/republique-centrafricaine-covid-19-menace-developpement-durable-medias-radio-afrique
-(1)
-https://en.ejo.ch/ethics-quality/central-african-republic-coronavirus-and-the-media
-(2)
-
-https://rsf.org/fr/republique-centrafricaine
+ [1]	perma.cc/VN8Y-3BML
+[2]	perma.cc/AJ5E-UY75
+[3]	perma.cc/3X8C-25N3
 
 
 
@@ -923,18 +961,12 @@ In Q1 and Q2 of 2021 ''Chadian authorities have stepped up restrictions on civic
 No specific incidents linked to Covid-19 were found. 
 
 *Sources*:
- https://rsf.org/en/news/many-historic-publications-threatened-closure-chad
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/chad
-
-https://www.amnesty.org/en/latest/news/2021/04/tchad-les-coupures-internet-une-entrave-la-liberte-dexpression/
-(5)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/chad/
+ https://perma.cc/H6NA-9FNU
+https://perma.cc/29CE-CR2U
+https://perma.cc/K4G2-J467
+https://perma.cc/Y8Q2-MYJT
+https://perma.cc/9NDG-26NC
+https://perma.cc/PDD3-HNTC
 
 
 
@@ -960,14 +992,13 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cha
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
-
+https://perma.cc/6CHQ-MLQT
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/3B25-5EK3
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/7K37-VMTH
 [4]
-https://cpj.org/americas/chile/
+https://perma.cc/KY3Y-D47A
 
 
 
@@ -1000,38 +1031,25 @@ https://cpj.org/americas/chile/
 5: Newsweek has reported that the government has been routinely restricting media access to to information about the nature of Covid-19.  I have not found specific cases of this in 2021. However as the media situation in China has not improved, I continue to code the variable as 2. 
 
 *Sources*:
- https://rsf.org/en/china
-(1)
+ [1]
+https://perma.cc/3TRJ-3XX6
 
 [2]
-https://rsf.org/en/news/covid-19-six-chinese-defenders-press-freedom-still-detention
-
-
+https://perma.cc/2A9H-B7DV
 [3]
-https://rsf.org/en/news/rsf-denounces-chinas-expulsion-nyt-correspondent-who-reported-extensively-covid-19
-
+https://perma.cc/SZT8-5YEQ
 [4]
-https://rsf.org/en/news/coronavirus-mass-expulsion-foreign-correspondents-further-cripples-freedom-information-china
-
-
+https://perma.cc/JTR3-A2XD
 [5]
-https://edition.cnn.com/2020/04/12/asia/china-coronavirus-research-restrictions-intl-hnk/index.html
-
-
-
+https://perma.cc/2EKY-R58T
 [6]
-https://www.theguardian.com/world/2020/apr/11/china-clamping-down-on-coronavirus-research-deleted-pages-suggest
-
+https://perma.cc/5R59-HDPF
 [7]
-https://www.abc.net.au/news/2020-09-08/bill-birtles-mike-smith-evacuated-china-safety-concerns/12638786
-
-
+https://perma.cc/VJ7S-VJGB
 [8]
-https://www.hrw.org/news/2020/09/08/australian-journalists-forced-leave-china
-
-
+https://perma.cc/HU4N-P26N
 [9]
-https://www.newsweek.com/china-harassing-intimidating-journalists-surveillance-built-curb-covid-19-1572983
+https://perma.cc/H8N2-L4YQ
 
 
 
@@ -1057,13 +1075,14 @@ https://www.newsweek.com/china-harassing-intimidating-journalists-surveillance-b
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/2RJR-7URH
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/3MQT-JEYY
+
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/5VD6-YR2S
 [4]
-https://cpj.org/americas/colombia/
+https://perma.cc/3MQT-JEYY
 
 
 
@@ -1089,15 +1108,15 @@ https://cpj.org/americas/colombia/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/TKS4-GTH3
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/9CY6-PKQW
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/X7F2-D9M7
 [4]
-https://cpj.org/americas/costa-rica/
+https://perma.cc/9VPG-G6D4
 [5]
-https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1725-situacion-nacional-covid-19
+https://web.archive.org/web/20200624182420/https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1725-situacion-nacional-covid-19
 
 
 
@@ -1122,9 +1141,9 @@ https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noti
  No reports on limiting media access to Covid-19 information found since 11 March 2020. 
 
 *Sources*:
- https://ipi.media/croatia/
-https://rsf.org/en/croatia
-https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-april-2020_en.pdf
+ [1]	perma.cc/D897-DY7E
+[2]	perma.cc/73AE-KZH8
+[3]	perma.cc/FY7M-4PPW
 
 
 
@@ -1150,9 +1169,9 @@ https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-ap
 
 *Sources*:
  [1]
-https://ipi.media/pandemic-exacerbates-repression-of-independent-journalism-in-cuba/
+https://perma.cc/9GT9-DVDW
 [2]
-https://monitor.civicus.org/updates/2021/01/15/cuban-government-backtracks-talks-protesters-and-uses-covid-19-regulations-harass-critics/
+https://perma.cc/2CP2-FGTG
 
 
 
@@ -1178,19 +1197,15 @@ https://monitor.civicus.org/updates/2021/01/15/cuban-government-backtracks-talks
 2) The Ministry of the Interior removed a video of Malá Vizita & Duše K which discussed Covid-19 treatment in March. 
 
 *Sources*:
- https://ipi.media/czech-presidents-office-bars-certain-media-outlets-from-receiving-information/
-
-(1)
-https://rsf.org/en/news/covid-19-and-press-freedom-europe-must-oppose-measures-proposed-viktor-orban
-https://www.coe.int/en/web/commissioner/-/press-freedom-must-not-be-undermined-by-measures-to-counter-disinformation-about-covid-19
-
-https://echo24.cz/a/S8V78/vlada-kvuli-koronaviru-zredukovala-media-na-konferencich-weby-a-deniky-na-ne-nesmi
-https://hlidacipes.org/ondrej-neumann-nebezpeci-babisovy-medialni-karanteny/
-https://www.oziveni.cz/2020/05/nezhasinat-7-vlada-musi-i-v-krizove-dobe-respektovat-pravidla-pravniho-statu/?utm_source=rss&utm_medium=rss&utm_campaign=nezhasinat-7-vlada-musi-i-v-krizove-dobe-respektovat-pravidla-pravniho-statu
-https://rekonstrukcestatu.s3.amazonaws.com/rekonstrukcestatu/production/files/2020/05/15/13/11/42/ff26ab4e-b44a-46df-8c6e-41f12fa7df4b/doporuceni-rekonstrukce-statu-ochrana-svobody-projevu-v-dobe-pandemie.pdf
-https://ipi.media/critical-media-denied-access-to-online-press-conferences-during-covid-19/
-https://www.coe.int/en/web/commissioner/-/press-freedom-must-not-be-undermined-by-measures-to-counter-disinformation-about-covid-19
-https://www.euractiv.com/section/politics/short_news/certain-czech-media-excluded-from-press-conferences/
+ [1]	perma.cc/J38N-EB49
+[2]	perma.cc/4Q98-SKT8
+[3]	perma.cc/F2KW-N55A
+[4]	perma.cc/JU2H-7S4H
+[5]	perma.cc/WAX7-V7ZP
+[6]	perma.cc/MWV5-83W7
+[7]	perma.cc/57TM-GDQE
+[8]	perma.cc/H49P-YA92
+[9]	perma.cc/L2PE-H4QM
 
 
 
@@ -1215,23 +1230,14 @@ https://www.euractiv.com/section/politics/short_news/certain-czech-media-exclude
  No evidence was found. 
 
 *Sources*:
- https://www.hrw.org/world-report/2021/country-chapters/democratic-republic-congo#1da9be
-(1)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/democratic-republic-of-the-congo/
-(2)
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-(3)
-
-https://www.ecoi.net/en/document/2046568.html
-(4)
-
-
-https://rsf.org/en/reports/2020-pandemic-has-challenged-press-freedom-africa
-https://rsf.org/en/democratic-republic-congo
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/tracker19-Coronavirus-Covid19
+ https://perma.cc/57M2-WMXJ
+https://perma.cc/Y4PK-NMYV
+https://perma.cc/RVZ9-TY9S
+https://perma.cc/5WKA-AYHR
+https://perma.cc/X35P-L3W7
+https://perma.cc/8EM4-SNKB
+https://perma.cc/3SJV-TGU3
+https://perma.cc/X92G-SKZ3
 
 
 
@@ -1256,10 +1262,13 @@ https://rsf.org/en/tracker19-Coronavirus-Covid19
  Neither Reporters without Borders nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information, and no other indications have been found of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B105%5D=105
+ https://perma.cc/3L4S-7DKV
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Denmark
-https://cpj.org/europe/denmark/
+
+https://perma.cc/9ND2-X477
+
+
+https://perma.cc/AGW7-WE96
 
 
 
@@ -1285,13 +1294,13 @@ https://cpj.org/europe/denmark/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/LP3E-5FEP
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/S7TP-HZDL
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/L98Y-JM8Q
 [4]
-https://cpj.org/americas/dominican-republic/
+https://perma.cc/38XM-QJE3
 
 
 
@@ -1317,13 +1326,14 @@ https://cpj.org/americas/dominican-republic/
 
 *Sources*:
  [1]
-https://ipi.media/alerts/ecuadors-health-ministry-prohibits-press-teams-from-covering-second-vaccination-doses/
+https://perma.cc/XE79-JS4P
+
 [2]
-https://www.reuters.com/article/salud-coronavirus-ecuador-ministro-idESKBN2BV26E
+https://perma.cc/H5MF-UXZH
 [3]
-https://ipi.media/alerts/ecuador-camera-team-prevented-from-covering-hospital-facility-where-health-minister-was-visiting/
+https://perma.cc/7THX-VD4U
 [4]
-https://ipi.media/alerts/ecuador-journalist-prevented-from-reporting-outside-hospital/
+https://perma.cc/5L25-AM9F
 
 
 
@@ -1362,28 +1372,17 @@ https://ipi.media/alerts/ecuador-journalist-prevented-from-reporting-outside-hos
 I have not found more cases of the government and it's agents limiting media access to Covid-19 related information in 2021. However as the media landscape has not improved and the fact that Egypt continues to be the third biggest imprisoner of media personnel in the world, I have continued to code this variable as 2. 
 
 *Sources*:
- https://www.cjr.org/first_person/guardian-covid-19-reporter-egypt.php
+ https://perma.cc/72JF-HNE6
+https://perma.cc/JG52-R9MB
+https://perma.cc/JS4Y-PUJ2
+https://perma.cc/P6KD-BFGB
+https://perma.cc/95CZ-EQNU
+https://perma.cc/XU55-5ZPF
+https://perma.cc/KRH7-45JN
+https://perma.cc/KP42-ZP8L
+https://perma.cc/2NKG-E56H
+https://perma.cc/3YGA-3SUR
 
-https://www.theguardian.com/world/2020/may/03/egypt-has-made-journalism-a-with-crackdown-says-amnesty-international?fbclid=IwAR2LZlj_pI3XRCnj6ac3H14mWebfB85IlxvWams4v4ttCYuk8ZSZOS8sojg
-
-https://www.theguardian.com/world/2020/mar/26/egypt-forces-guardian-journalist-leave-coronavirus-story-ruth-michaelson
-
-https://www.theguardian.com/world/2020/mar/15/egypt-rate-coronavirus-cases-higher-than-figures-suggest
-
-https://www.amnesty.org/en/latest/news/2020/05/egypt-end-relentless-attacks-on-journalists-and-other-media-workers/
-
-https://www.amnesty.org.uk/press-releases/egypt-medics-arrested-speaking-out-over-covid-19-failings
-
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-
-https://rsf.org/en/news/egypt-blocks-online-fake-news-about-coronavirus
-
-
-https://www.icnl.org/covid19tracker/?location=36&issue=&date=&type=
-
-https://www.amnesty.org/en/latest/news/2021/04/mena-covid-19-amplified-inequalities-and-was-used-to-further-ramp-up-repression/
 
 
 
@@ -1409,20 +1408,32 @@ https://www.amnesty.org/en/latest/news/2021/04/mena-covid-19-amplified-inequalit
 
 *Sources*:
  [1]
-https://rsf.org/en/news/salvadorean-authorities-must-not-obstruct-coronavirus-coverage
+https://perma.cc/TW2Q-5LG2
+
+
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/6VB9-G9KT
+
+
 [3]
-http://apes.org.sv/alertas/por-cuarta-vez-gobierno-impide-preguntas-de-periodistas-en-conferencia-de-prensa/
+https://perma.cc/FS8R-X5L8
+
+
 [4]
-https://www.laprensagrafica.com/elsalvador/Diputados-proponen-comision-para-investigar-cifra-real-de-contagios-y-muertes-por-covid-19-en-El-Salvador-20200720-0043.html
+https://perma.cc/4DFZ-YVRR
+
+
 [5]
-https://apes.org.sv/category/noticias/
-https://www.swissinfo.ch/spa/el-salvador-prensa_el-gremio-period%C3%ADstico-de-el-salvador-no-descarta-persecuci%C3%B3n-gubernamental/46587732
+https://perma.cc/TP9D-DHXP
+https://perma.cc/B982-FPQ8
+
+
 [6]
-https://www.sipiapa.org/notas/1214451-el-salvador
+https://perma.cc/W6SA-53X3
+
+
 [7]
-https://monitor.civicus.org/updates/2021/04/28/experts-underscore-steep-decline-freedom-expression-el-salvador/
+https://perma.cc/MXH3-RYSM
 
 
 
@@ -1447,27 +1458,12 @@ https://monitor.civicus.org/updates/2021/04/28/experts-underscore-steep-decline-
  No evidence indicating that the government and its agents limits media access to Covid-19 related information was found. 
 
 *Sources*:
- https://freedomhouse.org/country/eritrea/freedom-world/2020
-
-
-
-https://africasacountry.com/2020/09/eritreas-deteriorating-state
-
-
-
-https://rsf.org/en/eritrea
-
-
-
-https://ipi.media/eritrea/
-
-
-
-https://cpj.org/africa/eritrea/
-
-
-
-https://www.amnesty.org/en/countries/africa/eritrea/report-eritrea/
+ [1]	perma.cc/P64Z-89UP
+[2]	perma.cc/6U6C-6DWH
+[3]	perma.cc/93L2-ZPQ6
+[4]	perma.cc/WHG3-TXTY
+[5]	perma.cc/V8TA-GEPQ
+[6]	perma.cc/3LXM-KSQJ
 
 
 
@@ -1493,9 +1489,9 @@ https://www.amnesty.org/en/countries/africa/eritrea/report-eritrea/
 
 *Sources*:
  [1]
-https://dig.watch/updates/internet-restored-oromo-region-ethiopia
+perma.cc/5ELZ-JXPR
 [2]
-https://rsf.org/en/news/coronavirus-rsf-condemns-curbs-access-news-and-information-online
+perma.cc/L3MU-HVKD
 
 
 
@@ -1520,10 +1516,10 @@ https://rsf.org/en/news/coronavirus-rsf-condemns-curbs-access-news-and-informati
  Neither Reporters without Borders, Committe to Protect Journalists nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information, and no other indications have been found of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B108%5D=108
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+ https://perma.cc/Q2YF-FMYR
 
-https://cpj.org/europe/finland/
+
+https://perma.cc/EK75-HBP2
 
 
 
@@ -1548,15 +1544,11 @@ https://cpj.org/europe/finland/
  No relevant evidence was found. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-
-https://cpj.org/europe/france/
-
-https://www.ecpmf.eu/?s=covid19
-
-https://rsf.org/en/rsf_search?key=france
-
-https://www.mappingmediafreedom.org/country-profiles/france/
+ https://perma.cc/3SJV-TGU3
+https://perma.cc/RU8E-5FY8
+https://perma.cc/YS82-CJ4H
+https://web.archive.org/web/20200421110301/http://rsf.org:80/en/rsf_search
+https://perma.cc/YW5V-C3X6
 
 
 
@@ -1585,28 +1577,30 @@ Journalists and editors in Gabon report that this lack of granted authorizations
 In addition, the media in Gabon are facing government censorship (6). The role of HAC (High Authority of Communication) in particular has been extremely problematic the last years (4, 5), suspending several media and newspapers. Although these developments related to facts before Covid-19, it is nevertheless a problem which relates to the current situation. 
 
 *Sources*:
- https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_a31073297a784eddad9442bfd866da54.pdf
+ perma.cc/UJC6-3HDX
 (1)
 
-https://www.bbc.com/afrique/region-52363470
+perma.cc/EE5G-Z77J
+
 (2)
 
-https://www.legigabon.com/etat-d-urgence-covid-19
+perma.cc/8FK4-VEB8
+(3)
 
-https://monitor.civicus.org/updates/2019/09/02/gabon-several-media-outlets-journalist-accreditation-suspended/
+perma.cc/K22E-VJRA
 (4)
 
-https://cpj.org/2019/05/gabon-media-regulator-suspends-two-newspapers-over/
+perma.cc/9TTR-AVUN
 (5)
 
-https://rsf.org/en/gabon
+perma.cc/3W8F-ERYG
 (6)
 
-https://gabonactu.com/covid-19-le-gouvernement-proroge-le-confinement-du-gabon-pour-45-jours
+perma.cc/H22D-QGZN
+(7)
 
-https://www.garda.com/crisis24/news-alerts/391071/gabon-authorities-to-ease-covid-19-restrictions-and-reduce-curfew-from-october-20-update-11
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gabon/
+perma.cc/8J2N-WRUV
+perma.cc/Z6G7-3RKW
 
 
 
@@ -1631,9 +1625,10 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gab
  According to Art 13 (2) of the Ordinance No 181 from 23 March 2020 "On the Approval of Measures to be Implemented in connection with the Prevention of the Spread of the Novel Coronavirus (Covid-19) in Georgia", "The timeframe established by the legislation of Georgia for releasing public information and personal information shall be suspended" for the duration of the state of emergency (1).  It's a case of suspension of freedom of information requests where under a state of emergency the deadlines for releasing public information were suspended. If hypothetical journalists requested information from public authorities, they would not be obliged to reply in a certain time frame. Since the legislation states that the measures apply for the duration of the state of emergency (that ended on 22 May), meinf is coded as 1 only during Q2 2020 period. 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/?location=45&issue=&date=&type=
-https://matsne.gov.ge/en/document/view/4830610?impose=parallelEn&fullscreen=1&publication=0
+ perma.cc/UB7G-ZQRJ
+https://perma.cc/97L3-DBF6
 (1)
+
 
 
 
@@ -1658,11 +1653,13 @@ https://matsne.gov.ge/en/document/view/4830610?impose=parallelEn&fullscreen=1&pu
  Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information,  and no other indications have been found of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B94%5D=94
+ https://perma.cc/2348-H8ZU
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
 
-https://cpj.org/europe/germany/
+https://perma.cc/K9ST-XNC3
+
+
+https://perma.cc/8SWF-ESN9
 
 
 
@@ -1690,15 +1687,15 @@ There are no further cases reported.
 
 *Sources*:
  [1]
-https://rsf.org/en/news/ghana-urged-ensure-safety-reporters-covering-covid-19
+perma.cc/ZW56-5KAQ
 [2]
-https://cpj.org/2020/04/in-ghana-soldiers-enforcing-covid-19-restrictions/
+perma.cc/ET5S-LVJ2
 [3]
-https://rsf.org/en/ghana
+perma.cc/F7N9-A9LX
 [4]
-https://cpj.org/africa/ghana/
+perma.cc/A2LF-SSXM
 [5]
-http://ipi.media/ghana/
+perma.cc/FB4K-KPJP
 
 
 
@@ -1733,29 +1730,29 @@ Also, opposition media outlets in July 2020 were excluded from a government supp
 Another incident occurred on 20 March 2021. ''Kostas Vaxevanis, publisher of the Athens-based newspaper Documento, tweeted that an arrest warrant had been issued against him. His newspaper had published the full text of a lawsuit lodged against him personally by 22 police officers, with their names on its front page. The policemen were under investigation for the torture of a young activist. Earlier, on 9 March 2021, clashes had erupted between the police and some of the 5,000 protesters who had gathered in the middle-class Athens suburb of Nea Smyrni to demonstrate against police brutality while enforcing Covid-19 quarantine measures. The protest was prompted by a recent event in the neighbourhood, when a rapid response squad out on Covid-curfew patrol harassed a family and then attacked a young man who stepped in to argue in their defence.'' (7). 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
+ perma.cc/Y56A-4RT6
 (1)
 
-https://www.efsyn.gr/ellada/koinonia/240641_se-karantina-i-enimerosi-haropaleyei-i-eleytheria-toy-typoy
+perma.cc/93AQ-BK5J
 (2)
 
-http://www.ertopen.com/news/ellada/item/56727-ti-foboyntai-kai-den-afhnoyn-toys-dhmosiografoys-na-rwtoyn-ton-kath-tsiodra
+perma.cc/R85C-FZ7R
 (3)
 
-https://medium.com/athenslivegr/opaque-government-spending-and-vindictiveness-in-greek-mass-media-a5e2e79e0ae1
+perma.cc/L398-LXVD
 (4)
 
-https://www.ecpmf.eu/mfrr-partners-raise-concerns-over-proposed-low-funding-for-opposition-media-outlets-in-greece/
+perma.cc/NYB5-LC9C
 (5)
 
-https://rsf.org/en/greece
+perma.cc/73RB-VF8Q
 (6)
 
-https://www.opendemocracy.net/en/can-europe-make-it/press-freedom-in-greece-is-under-threat-from-the-government-and-itself/
+perma.cc/Z8NC-7H7F
 (7)
-https://ipi.media/the-covid-19-crisis-highlights-greeces-media-problem/
 
-https://www.aljazeera.com/news/2021/4/20/rsf-raises-alarm-over-deteriorating-press-freedom-in-greece
+perma.cc/Q9M7-4G8N
+perma.cc/TU9Q-7WJA
 
 
 
@@ -1781,26 +1778,23 @@ https://www.aljazeera.com/news/2021/4/20/rsf-raises-alarm-over-deteriorating-pre
 
 *Sources*:
  [1]
-https://rsf.org/en/news/guatemala-dont-put-guatemalan-press-quarantine
+perma.cc/46NH-CMZN
 [2]
-https://monitor.civicus.org/updates/2020/05/12/journalists-denounce-guatemala-government-hostility-towards-press/
+perma.cc/R8W4-VQ22
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/CC8C-UZV4
 [4]
-https://www.pdh.org.gt/57-20-el-procurador-de-los-derechos-humanos-jordan-rodas-andrade-manifiesta-que-ante-la-emergencia-sanitaria-es-vital-mantener-una-comunicacion-gubernamental-abierta-directa-y-continua-con-la-prensa/
+perma.cc/E4W3-LZCQ
 [5]
-https://www.sipiapa.org/notas/1213881-la-sip-exhorta-al-gobierno-guatemala-respetar-el-trabajo-los-periodistas
-
+perma.cc/43ES-HA73
 [6]
-https://www.prensalibre.com/guatemala/comunitario/manifestantes-piden-eleccion-de-magistrados-y-transparencia-en-uso-de-recursos-para-la-emergencia/
-
+perma.cc/9AVS-4UQB
 [7]
-https://media.sipiapa.org/adjuntos/185/documentos/001/832/0001832515.pdf
-
+perma.cc/M3VJ-ZXNP
 [8]
-https://drive.google.com/file/d/1HFwdm3DfMqqRIphjH5Ke6CyGsi2MjJ6d/view
-[9]
-https://www.hrw.org/news/2021/02/18/guatemala-free-press-under-attack
+perma.cc/2QG2-M9PP
+[9[
+perma.cc/2HU8-PCEL
 
 
 
@@ -1831,23 +1825,28 @@ According to the US Department of State's 2020 report on human rights practices,
 However, these violations are unrelated to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/guinea
-(1)
+ perma.cc/KW4S-6LME
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/guinea/
-(2)
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+perma.cc/TF3P-YHTT
 
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
 
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/QX9A-427U
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
 
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+perma.cc/4NQR-HEAV
 
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
+
+perma.cc/8QDN-UDEB
+
+
+perma.cc/3JUB-AEU5
+
+
+perma.cc/XN2C-ER8T
+
+
+perma.cc/5TGF-ST7S
 
 
 
@@ -1878,27 +1877,28 @@ The Haitian government initially had not granted journalists an exemption from t
 Also, according to RSF, ''Despite recent changes in Haiti’s media freedom laws, journalists suffer from a lack of financial resources, an absence of institutional support and difficulty in accessing information.'' (1, 2). 
 
 *Sources*:
- https://rsf.org/en/haiti
-(1)
+ perma.cc/6ZFJ-6LDX
 
-https://www.voanews.com/press-freedom/never-ending-battle-press-rights-haiti
-(2)
 
-http://www.hpnhaiti.com/nouvelles/index.php/societe/89-presse/7582-haiti-presse-coronavirus-couvre-feu-le-gouvernement-leve-l-interdiction-imposee-aux-journalistes
-(3)
+perma.cc/PE9U-LNR6
 
-http://www.hpnhaiti.com/nouvelles/index.php/societe/89-presse/7510-coronavirus-presse-sos-journalistes-exige-l-assouplissement-du-couvre-feu
-(4)
 
-https://cpj.org/2020/04/haitian-journalist-robenson-sanon-says-covering-co/
-(5)
+perma.cc/SNC3-6CG8
 
-https://cpj.org/2020/04/journalists-assaulted-while-covering-covid-19-meas/
-(6)
 
-https://en.unesco.org/news/role-haitian-press-response-coronavirus-pandemic
+perma.cc/3BDA-XCSA
 
-https://ipi.media/covid19-media-freedom-monitoring/
+
+perma.cc/SC4W-C5VP
+
+
+perma.cc/Z3VF-ANTA
+
+
+perma.cc/55DY-VN64
+
+
+perma.cc/J6YF-CJR3
 
 
 
@@ -1924,21 +1924,19 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 *Sources*:
  [1]
-http://www.consejosecretariosdeestado.gob.hn/content/suspenci%C3%B3n-de-garant%C3%ADas-constitucionales
-
+https://web.archive.org/web/20200708210737/http://www.consejosecretariosdeestado.gob.hn:80/content/suspenci<97>n-de-garant%C3%ADas-constitucionales
 [2]
-https://monitor.civicus.org/updates/2020/05/22/honduras-undue-restrictions-expression-and-police-abuse-emergency-powers-during-covid-19/
+perma.cc/A2M7-PYUW
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/44YK-6FWE
 [4]
-http://www.consejosecretariosdeestado.gob.hn/system/files_force/PCM%20022-2020.pdf
+https://web.archive.org/web/20200924052903/http://www.consejosecretariosdeestado.gob.hn/system/files_force/PCM%20022-2020.pdf
+[4]
+perma.cc/KS5C-KJ99
 [5]
-https://ipi.media/alerts/regional-official-in-honduras-issues-order-blocking-medical-personnel-from-providing-official-information-about-the-covid-19-epidemic/
+perma.cc/H7BY-X36C
 [6]
-https://ipi.media/alerts/journalists-blocked-from-covering-arrival-of-mobile-hospitals-in-honduras/
-
-[7]
-https://ipi.media/alerts/honduran-military-forces-journalist-to-leave-hospital-construction-site/
+perma.cc/NS5F-5ZTU
 
 
 
@@ -1963,15 +1961,19 @@ https://ipi.media/alerts/honduran-military-forces-journalist-to-leave-hospital-c
  The National Security Law impedes access to information in several ways, but no evidence has been found that access to information on Covid-19 related issues has been limited, nor has any accusations of such limitations been found. This is therefore coded 0 for all periods. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B68%5D=68
+ https://perma.cc/GZ3S-DTN4
 
 
-https://ipi.media/countries-see-all/?type_of_content=News+and+Monitoring%2CFrom+Our+Network&country=China&paged=4
+https://perma.cc/LGB2-FTK5
 
-https://cpj.org/asia/china/page/2/
 
-https://rsf.org/en/news/hong-kong-government-adopts-accreditation-policy-discriminates-independent-media-and-0
-https://cpj.org/tags/hongkong/
+https://perma.cc/47KF-8669
+
+
+https://perma.cc/YP7E-6B64
+
+
+https://perma.cc/H4TM-AJQS
 
 
 
@@ -1996,22 +1998,43 @@ https://cpj.org/tags/hongkong/
  Daily press conferences are organized by Operational Group (OG) for Protection against the Coronavirus Epidemic where questions are pre-selected, certain outlets are neglected and sensitive topics avoided. The time it takes for public bodies to respond to requests (such as journalists' questions) was increased from 30 to 60 days.  In Q4 2020, press conferences were being held without physical presence of journalists. In Q1 2021, IPI and Human Rights Watch reported that journalists were prevented from interviewing medical professionals on Covid-19. Meinf is therefore coded as 2 in all periods. 
 
 *Sources*:
- https://ipi.media/in-hungary-a-government-rattled-by-the-pandemic-finds-new-ways-to-suppress-independent-media/
-https://ipi.media/access-denied-foi-deadlines-extended-or-suspended-across-europe/
-https://ipi.media/crisis-point-covid-19-intensifies-challenge-for-independent-media-in-hungary/
-http://njt.hu/cgi_bin/njt_doc.cgi?docid=219363.382628
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://ipi.media/covid-19-pandemic-adds-to-hungarys-transparency-woes/
+ https://perma.cc/M5DG-L6H7
 
 
-https://koronavirus.gov.hu/cikkek/orszagos-tisztifoorvos-egy-uj-fertozottet-regisztraltak
-https://koronavirus.gov.hu/cikkek/operativ-torzs-keszen-allunk-jarvany-tovabbi-terjedeset-korlatok-kozott-tartani
-https://njt.hu/jogszabaly/2020-521-20-22.2
+https://perma.cc/K2S3-UECV
 
-https://ipi.media/alerts/hungarian-journalists-barred-from-interviewing-medical-professionals-during-covid-19/
-https://www.hrw.org/news/2021/03/31/hidden-danger-hospitals-hungarys-covid-19-patients
-https://verfassungsblog.de/hungary-and-the-pandemic-a-pretext-for-expanding-power/
-https://balkaninsight.com/2021/03/04/in-covid-19-fight-free-speech-becomes-collateral-damage/
+
+https://perma.cc/F32E-BH4S
+
+
+https://perma.cc/433L-HSV4
+
+
+https://perma.cc/BCE5-WJDC
+
+
+https://perma.cc/2GHQ-BFV5
+
+
+https://perma.cc/X52B-2FZR
+
+
+https://perma.cc/V45B-XP29
+
+
+https://perma.cc/D66A-UUQ4
+
+
+https://perma.cc/W4VY-ZEYE
+
+
+https://perma.cc/4S45-JBSQ
+
+
+https://perma.cc/23R4-FPBV
+
+
+https://perma.cc/3C8V-RDQW
 
 
 
@@ -2040,20 +2063,25 @@ After this, the health ministry’s representatives told reporters that they wou
 On April 2021, the Indian government, asked Twitter, Facebook and Instagram to take down more that 100 posts that were critical to the government's response to the pandemic. And on 23 April 2021, the government blocked more than 50 tweets from people who were critical of the governments handling of the pandemic. 
 
 *Sources*:
- https://rsf.org/en/news/how-indias-government-tries-suppress-all-covid-19-reporting
-
-https://www.indiatoday.in/coronavirus-outbreak/story/coronavirus-in-india-govt-plays-down-limited-community-transmission-wording-in-official-release-1661406-2020-03-30
-
-https://scroll.in/pulse/957613/health-reporters-have-10-questions-for-the-government-as-indias-coronavirus-crisis-deepens
-
-https://twitter.com/sharmasupriya/status/1245312425441636352
-
-https://ipi.media/covid19-media-freedom-monitoring/
+ https://perma.cc/GQV6-VPSR
 
 
-https://blogs.lse.ac.uk/medialse/2021/05/07/india-cannot-breathe-is-the-media-choking-it-further/
+https://perma.cc/GA7S-FMJ7
 
-https://qz.com/india/2003124/india-censored-100-covid-19-posts-on-twitter-facebook-this-week/
+
+https://perma.cc/49KT-76UQ
+
+
+https://perma.cc/TLG4-RUDF
+
+
+https://perma.cc/H8QJ-CLE3
+
+
+https://perma.cc/J79V-D3YC
+
+
+https://perma.cc/PW9D-LNRG
 
 
 
@@ -2083,17 +2111,13 @@ I did not find new instances of the government and it's agents limiting media ac
 
 *Sources*:
  [1]
-https://www.amnesty.org/download/Documents/ASA2122382020ENGLISH.PDF
-
-
+https://perma.cc/CG8P-ZHTF
 [2]
-https://www.thejakartapost.com/news/2020/05/11/govt-covid-19-response-poses-risks-to-human-rights-experts.html
-
+https://perma.cc/D4VA-4RDC
 [3]
-https://www.hrw.org/news/2020/04/09/indonesia-little-transparency-covid-19-outbreak
-
+https://perma.cc/9YZG-8R7E
 [4]
-https://www.thejakartapost.com/news/2020/09/25/indonesias-real-virus-death-toll-may-be-3-times-reported-figure-epidemiologist.html
+https://perma.cc/4FG3-EE2A
 
 
 
@@ -2118,21 +2142,40 @@ https://www.thejakartapost.com/news/2020/09/25/indonesias-real-virus-death-toll-
  The Iranian government have repeatedly been covering up or denying access to Covid-19 related information, and undermining reporting on the Covid-19 situation in Iran. While reports mainly pertain to the first wave of Covid-19 during Q2 of 2020, a newspaper was shut down by the government for it publishing an interview with a member of the Iranian Covid-19 Taskforce who spoke of Iran covering up how many cases that was actually recorded in the country in Q3 of 2020. It is not clear to what extent this covering up of Covid-19 cases and deaths continues, but as there’s no indication found that the situation has substantially improved, this is coded 2 for later periods as well. 
 
 *Sources*:
- https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-https://rsf.org/en/news/iran-press-freedom-violations-recounted-real-time-january-2020
-https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-https://cpj.org/2020/03/amid-coronavirus-pandemic-iran-covers-up-crucial-i/
-https://cpj.org/2020/08/iran-shuts-down-economic-newspaper-over-Covid-19-reporting/
-https://www.bbc.com/news/world-middle-east-53598965
+ https://perma.cc/S4KN-39GZ
 
 
-https://www.ifj.org/es/centro-de-medios/noticias/detalle/category/press-releases/article/iran-state-covid-vaccination-center-guard-attacks-journalist.html
+https://perma.cc/A6JD-4CKU
 
 
-https://journalismisnotacrime.com/en/features/3759/
+https://perma.cc/S4KN-39GZ
 
 
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26870&LangID=E
+https://perma.cc/VKF6-W5NJ
+
+
+https://perma.cc/3XY8-EN7B
+
+
+https://perma.cc/FFG8-3K95
+
+
+
+
+
+https://perma.cc/CL93-9CJE
+
+
+
+
+
+https://perma.cc/NVQ4-NQNJ
+
+
+
+
+
+https://perma.cc/8C2D-G42S
 
 
 
@@ -2157,33 +2200,55 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26870&LangID=E
  There are some reports on journalists being obstructed and denied access to information when trying to investigate the Covid-19 situation in Iraq. The Iraqi government also banned Reuters from Iraq for 3 months due to them reporting that the amount of infected people being much higher than the government had stated and that they had deliberately misreported the number of cases. This is coded as 1, since there is indeed obstructions to accessing Covid-19 related information, but there aren't as many such cases reported that it could be argued to be "widespread and ongoing". No indication of improvement has been found for the latter periods, and Iraq’s limiting of media freedom has also been ongoing in many other respects. This is therefore coded 1 for all periods. 
 
 *Sources*:
- https://rsf.org/en/news/iraqi-kurdistan-wave-arrests-journalists-Covid-19s-arrival
-
-https://cpj.org/2020/06/journalists-assaulted-detained-while-covering-Covid-19-protest-in-iraqi-kurdistan/
-
-https://cpj.org/2020/05/journalists-in-iraqi-kurdistan-tell-cpj-of-obstruc/
-
-https://www.hrw.org/news/2020/06/15/iraq-urgent-need-free-speech-protection
-https://www.hrw.org/news/2020/06/15/iraq-urgent-need-free-speech-protection
-
-https://www.reuters.com/article/us-iraq-reuters/iraq-suspends-reuters-for-three-months-over-report-on-coronavirus-cases-idUSKCN21W1RW
-
-https://www.refworld.org/docid/452524304.html
-
-https://rsf.org/en/news/iraq-coronavirus-reporting-triggers-spate-defamation-cases
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/iraq/
+ https://perma.cc/AQ7D-2VK8
 
 
-https://rsf.org/en/news/three-jailed-reporters-charged-undermining-national-security
-
-https://rsf.org/en/news/iraq-wave-arrests-journalists-covering-protests-iraqi-kurdistan
+https://perma.cc/YWD5-8AMT
 
 
-https://cpj.org/2021/03/spaghetti-against-the-wall-flimsy-evidence-iraqi-kurdish-journalists-jail/
+https://perma.cc/XA3K-MNDR
 
 
-https://cpj.org/blog/mideast/iraq/
- 
+https://perma.cc/QKL7-TFHD
+
+
+https://perma.cc/QKL7-TFHD
+
+
+https://perma.cc/5JS6-8S6X
+
+
+https://perma.cc/CK9V-6GKV
+
+
+https://perma.cc/T4TM-6UT6
+
+
+https://perma.cc/LJ8U-NR5B
+
+
+
+
+
+https://perma.cc/GQQ3-UJGW
+
+
+
+
+
+https://perma.cc/2DJJ-Y44X
+
+
+
+
+
+https://perma.cc/EM6V-U7GD
+
+
+
+
+
+https://perma.cc/4PXN-YKQY
 
 
 
@@ -2208,12 +2273,13 @@ https://cpj.org/blog/mideast/iraq/
  Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information,  and no other indications have been found of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B115%5D=115
+ https://perma.cc/EGZ2-5PFN
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
 
-https://cpj.org/europe/ireland/
- 
+https://perma.cc/NY8Z-P7EZ
+
+
+https://perma.cc/CE5U-6C3G
 
 
 
@@ -2238,16 +2304,19 @@ https://cpj.org/europe/ireland/
  Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information, and no other indications have been found of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B161%5D=161
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Israel
+ https://perma.cc/36QS-GLEE
 
 
-https://cpj.org/mideast/israel-and-the-occupied-palestinian-territory/
+https://perma.cc/2QGT-F6BJ
 
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/israel-west-bank-and-gaza/
+https://perma.cc/JF64-7DP9
+
+
+https://perma.cc/HD6D-4TSJ
+
+
+https://perma.cc/8W7L-SNTH
 
 
 
@@ -2273,8 +2342,10 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/isr
 
 *Sources*:
  [1]
-https://ipi.media/access-denied-foi-deadlines-extended-or-suspended-across-europe/
-https://www.gazzettaufficiale.it/eli/id/2020/03/17/20G00034/sg
+https://perma.cc/KB6C-N7CZ
+
+
+https://perma.cc/LV8N-PZHL
 
 
 
@@ -2299,24 +2370,28 @@ https://www.gazzettaufficiale.it/eli/id/2020/03/17/20G00034/sg
  No evidence was found. 
 
 *Sources*:
- https://www.article19.org/resources/west-africa-access-to-information/
-(1)
+ perma.cc/MW6H-FZQC
 
-https://www.disinformationtracker.org/
-(2)
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cote-divoire/
-(3)
+perma.cc/PL7M-9U3B
 
-https://rsf.org/en/cote-divoire
 
-https://rsf.org/en/news/six-ivorian-journalists-heavily-fined-march
+perma.cc/Y4DK-3MQP
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
 
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+perma.cc/YK5Z-EGDW
 
-https://fr.africanews.com/2020/03/31/cote-d-ivoire-deux-journaux-condamnes-pour-fausses-informations/
+
+perma.cc/REP4-56P5
+
+
+perma.cc/7Y8W-73XP
+
+
+perma.cc/9PGG-4LJ3
+
+
+perma.cc/DZW8-PHLU
 
 
 
@@ -2342,13 +2417,13 @@ https://fr.africanews.com/2020/03/31/cote-d-ivoire-deux-journaux-condamnes-pour-
 
 *Sources*:
  [1]
-https://ipi.media/jamaica/
+perma.cc/7SF2-BS3F
 [2]
-https://rsf.org/en/thematique/internet?countries%5B190%5D=190
+perma.cc/CXZ5-W5MN
 [3]
-https://www.bbc.com/news/topics/c50znx8v848t/jamaica
+perma.cc/LA7H-2GQZ
 [4]
-https://cpj.org/americas/jamaica/
+perma.cc/ZW3S-JXQ4
 
 
 
@@ -2375,12 +2450,13 @@ https://cpj.org/americas/jamaica/
 Even though the emergency measures were lifted on 25 May 2020, these restrictions have remained in place. I have not found information suggesting that this restriction has been lifted. Hence I have coded Q3 of meinf as 1. 
 
 *Sources*:
- https://rsf.org/en/news/covid-19-rsf-urges-japan-government-lift-restrictions-access-press-conferences
+ https://perma.cc/D885-R8YM
 
 
-http://www.asahi.com/ajw/articles/13222083
+https://perma.cc/DZD8-JBX7
 
-http://shimbunroren.or.jp/200807statement/
+
+https://perma.cc/DMU5-HGYP
 
 
 
@@ -2405,19 +2481,34 @@ http://shimbunroren.or.jp/200807statement/
  There are several de facto and de jure limitations on media imposed by Jordan during the Covid-19 crisis, but no reports have been found about limitations on access to information, and this is therefore coded as 0. Note that there seem to be other issues of access to information for media in Jordan (as many other aspects of media freedom being restricted), but this does not seem to be related to any Covid-19 measures or directly apply to Covid-19 related information. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/05/jordan-free-speech-threats-under-Covid-19-response
-https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/news/two-jordanian-tv-journalists-arrested-after-broadcasting-criticism-lockdown
-https://ipi.media/ipi-condemns-the-arrest-of-two-tv-executives-in-jordan/
-https://www.hrw.org/news/2020/08/18/jordan-escalating-repression-journalists
-https://rsf.org/en/news/jordan-bans-coverage-teachers-protests
-https://www.hrw.org/news/2021/02/11/uae-jordanian-convicted-criticizing-jordan-facebook
+ https://perma.cc/C8RE-88NG
 
-https://cpj.org/2021/04/jordan-issues-ban-on-media-coverage-of-royal-family-dispute/
 
-https://cpj.org/mideast/jordan/
+https://perma.cc/D54R-6FJW
 
-https://www.opendemocracy.net/en/north-africa-west-asia/whats-wrong-jordanian-media/
+
+https://perma.cc/8ZFN-RR7T
+
+
+https://perma.cc/52GY-TZM2
+
+
+https://perma.cc/JJ6C-YHMU
+
+
+https://perma.cc/TRS6-DUKN
+
+
+https://perma.cc/Q2RA-KYCU
+
+
+https://perma.cc/459M-UL2S
+
+
+https://perma.cc/LGJ5-DRMX
+
+
+https://perma.cc/V2KQ-ZE7L
 
 
 
@@ -2444,15 +2535,17 @@ https://www.opendemocracy.net/en/north-africa-west-asia/whats-wrong-jordanian-me
 According to the US Department of State report for 2020, " Human rights observers reported arbitrary detentions during the COVID-19 quarantine restrictions. The nongovernmental organization (NGO) Kazakhstan International Bureau for Human Rights and Rule of Law reported that Almaty authorities built a tent facility and involuntarily confined all homeless citizens picked up in the city during the COVID-19 lockdown that began in March. Some individuals who live near the facility alleged that, in addition to homeless citizens, others who happened to be on site during police raids were also among those locked up in the facility. The few individuals who managed to escape the police-controlled facility complained about hunger, cold, and brutal beatings. Journalists and human rights observers who tried to verify allegations were denied access to the facility." (1) Since the report is for 2020 overall, meinf is coded as 1 in all time periods in 2020. I found no evidence for 2021. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/kazakhstan/
+ https://perma.cc/EF4Q-S25Q
 (1)
-https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
+
+https://perma.cc/X22A-ADNM
 (2)
-https://rsf.org/en/news/kazakh-journalists-harassed-over-covid-19-reporting
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#IV
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-https://rsf.org/en/kazakhstan
-https://www.centralasiaprogram.org/informing-public-dangers-pandemic-early-covid-19-coverage-news-organizations-kazakhstan
+
+https://perma.cc/T33B-FK7T
+https://perma.cc/Y5FF-H5UY
+https://perma.cc/UHM7-YH8M
+https://perma.cc/6Q26-HAKS
+https://perma.cc/ZS6A-YF4V
 
 
 
@@ -2483,29 +2576,34 @@ https://www.centralasiaprogram.org/informing-public-dangers-pandemic-early-covid
 ''Kenyan media reporting, meanwhile, has tended to repeat rather than question the government line. There have been few attempts to distill the reality behind the numbers announced at the daily briefings and probe the choices that the government has been making. While public officials have not made the media's job easy, restricting the flow of information and the number of questions they are willing to answer during press briefings, it is also true that journalists have generally been reluctant to delve beyond official narratives. ''Trust and obey'' has seemed to be the overriding message.'' (3) 
 
 *Sources*:
- https://www.article19.org/resources/kenya-journalists-attacked/#:~:text=According%20to%20ARTICLE%2019%20Eastern,about%20by%20the%20coronavirus%20pandemic.&text=The%20collapse%20of%20markets%20for,lockdowns%20brought%20misery%20for%20them
-(1)
-https://allafrica.com/stories/202011060166.html?aa_source=nwsltr-kenya-en
-(2)
-
-https://theconversation.com/new-media-voices-are-telling-kenyas-covid-19-stories-from-the-ground-up-138452
-(3)
-
-https://theconversation.com/how-covid-19-has-worsened-attacks-against-journalists-in-kenya-149296
+ perma.cc/P8KF-8HY8
 
 
-https://www.washingtonpost.com/opinions/2020/05/07/kenya-is-turning-public-health-crisis-into-law-and-order-one/
+perma.cc/6F2V-ZH9Q
 
 
-https://www.rfi.fr/en/africa/20200414-press-freedom-violations-throughout-african-continent-linked-to-covid-19-coverage
+perma.cc/J45K-LPM5
 
-https://www.hrw.org/news/2020/05/04/protect-kenyas-journalists-reporting-covid-19
 
-https://rsf.org/en/kenya
+perma.cc/2WLR-2UXM
 
-https://theconversation.com/as-press-freedom-continues-to-struggle-in-kenya-alternatives-keep-hope-alive-160019
 
-https://www.article19.org/resources/kenya-world-press-freedom-day-2021/
+perma.cc/QVE8-KW3Y
+
+
+perma.cc/EFK7-EW2S
+
+
+perma.cc/EPC4-FEP3
+
+
+perma.cc/ZSZ3-NVLY
+
+
+perma.cc/E875-XW5R
+
+
+perma.cc/LDC6-8WR7
 
 
 
@@ -2530,12 +2628,19 @@ https://www.article19.org/resources/kenya-world-press-freedom-day-2021/
  There are no indications given by Reporters without Borders, International Press Institute and the American Embassy in Kuwait that there have been verbal harassment of journalists during the pandemic for any period, and this is therefore coded as 0. 
 
 *Sources*:
- https://rsf.org/en/kuwait
-https://rsf.org/en/rsf_search?key=Kuwait
-https://ipi.media/?s=Kuwait
-https://kw.usembassy.gov/world-press-freedom-day/
+ https://perma.cc/6AHV-XCN7
 
-https://cpj.org/mideast/kuwait/
+
+https://perma.cc/6QHX-EGU5
+
+
+https://perma.cc/U68C-L2XP
+
+
+https://perma.cc/QU24-RPVP
+
+
+https://perma.cc/VK3T-HEM6
 
 
 
@@ -2564,13 +2669,16 @@ According to Amnesty International report, health workers were silenced and rece
 The restrictive measures for journalists applied only for the duration of the state of emergency in certain territories that ended on 10 May, while the silencing of health workers is also reported in July 2020. Since I found no further evidence, meinf is coded as 2 only in Q2 and Q3 of 2020. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#V
+ perma.cc/YT82-CT72
+perma.cc/SUD7-X4BR
 (2)
-https://ipi.media/covid19-media-freedom-monitoring/
+
+https://perma.cc/5J2F-MASG
 (1)
-https://www.amnesty.org/en/latest/news/2020/09/kyrgyzstan-medics-suffer-rights-violations-pay-high-personal-price-during-covid19-pandemic/
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+
+https://perma.cc/GT9N-299U
+
+https://perma.cc/V9JF-FQ96
 
 
 
@@ -2595,13 +2703,10 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
  The decree that regulates the emergency measures states that the "the Task Force Committee shall provide detail guidance in a format of an easy understanding to disseminate through official media outlets" (Section 11).In other words, only state sponsored media is allowed to report on the crisis, which de jure limits all access to information as only the government approved information is being disseminated to these media outlets. No evidence has been found that this regulation having been repealed or amended. This is therefore coded 2 for all periods. 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
-
-https://rsf.org/en/thematique/internet?countries%5B74%5D=74
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Laos
-
-https://cpj.org/asia/laos/
+ https://web.archive.org/web/20200717034652/http://www.mpwt.gov.la/attachments/article/2185/PM's%20Order%20No%2006PM%20on%20COVID-19.pdf
+https://perma.cc/Z52G-SNHG
+https://perma.cc/XBK6-BGHV
+https://perma.cc/CM73-M585
 
 
 
@@ -2626,14 +2731,19 @@ https://cpj.org/asia/laos/
  Neither Reporters without Borders nor International Press Institute have reported any limitations on access to information, and no other indications have been found of there having been implemented any such limitations. However, the state of emergency imposed after the Beirut explosion in August 2020 introduced far reaching powers for the government that could possibly limit media, and Lebanese media do face other restrictions, for example through defamation laws (an introduction of these can be found in this HRW report: https://www.hrw.org/report/2019/11/15/there-price-pay/criminalization-peaceful-speech-lebanon) This is coded 0, as no evidence has been found on access being limited on Covid-19, but it should be noted that it is possible that the media faces such limitations in other areas. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B164%5D=164
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Lebanon
+ https://perma.cc/AA6V-ANXE
 
-https://ipi.media/press-freedom-in-lebanon-under-threat/
 
-https://www.hrw.org/report/2019/11/15/there-price-pay/criminalization-peaceful-speech-lebanon
+https://perma.cc/U49U-3VW7
 
-https://cpj.org/mideast/lebanon/
+
+https://perma.cc/RDX7-NUVC
+
+
+https://perma.cc/Z7CN-QQ4K
+
+
+https://perma.cc/6JXH-9XXX
 
 
 
@@ -2659,15 +2769,19 @@ https://cpj.org/mideast/lebanon/
 “The law provides for the right to obtain and impart information freely, but only if it does not interfere with “defense, public safety, public order, public morality, or public health.”” (5) 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+ https://perma.cc/UR8R-AJMT
 (1)
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+
+https://perma.cc/SU5V-FQPG
 (2)
-https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+
+https://perma.cc/JE35-5LTJ
 (3)
-https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
+
+https://perma.cc/95KE-P87M
 (4)
-https://www.state.gov/wp-content/uploads/2021/03/LESOTHO-2020-HUMAN-RIGHTS-REPORT.pdf
+
+https://perma.cc/N552-TUYE
 (5)
 
 
@@ -2693,15 +2807,19 @@ https://www.state.gov/wp-content/uploads/2021/03/LESOTHO-2020-HUMAN-RIGHTS-REPOR
  Authorities in Liberia have decided to limit access to the president's office to a handful of media outlets that are nearly all controlled by the government or supportive of it. However, this was part of the measures taken within the state of emergency, and is reported to have ended by the time the state of emergency ended. No evidence of any other limitations to information in relation to Covid-19 has been found, and this is therefore coded as 0 from Q4 and onward. 
 
 *Sources*:
- https://rsf.org/en/news/liberia-urged-guarantee-access-coronavirus-information
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/liberia/
+ https://perma.cc/MBK7-SQH7
 
 
-https://cpj.org/blog/africa/liberia/
+https://perma.cc/YTG9-G8HU
 
-https://rsf.org/en/thematique/internet?countries%5B29%5D=29
+
+https://perma.cc/Z8KW-8UCJ
+
+
+https://perma.cc/B4XS-G69Q
+
+
+https://perma.cc/3AAL-6CV9
 
 
 
@@ -2726,9 +2844,9 @@ https://rsf.org/en/thematique/internet?countries%5B29%5D=29
  No reports on limiting media access to Covid-19 information found 
 
 *Sources*:
- https://ipi.media/lithuania/
-https://rsf.org/en/lithuania
-https://cpj.org/europe/lithuania/
+ [1]	perma.cc/P49D-YPM3
+[2]	perma.cc/49JA-T7ST
+[3]	perma.cc/WWJ3-NTEY
 
 
 
@@ -2761,41 +2879,27 @@ On 22 April 2021, Malagasy authorities issued an interministerial decision that 
 Also, “Several journalists have told RSF they are finding it very difficult to cover the pandemic. They say it is hard to get figures for Covid-19 cases and deaths or get access to the health centres mobilised to combat the pandemic, and that some sources are afraid to talk.” (5) 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/AFR3528192020ENGLISH.pdf
+ https://perma.cc/Y72S-V2TE
 (1)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/madagascar/
+https://perma.cc/X4JE-W7SP
 (2)
-
-https://rsf.org/en/news/rsf-urges-madagascar-let-journalists-cover-covid-19-freely
+https://perma.cc/W5BC-G8MN
 (3)
-
-https://www.rfi.fr/fr/afrique/20210424-le-gouvernement-malgache-interdit-neuf-%C3%A9missions-de-radio-pendant-quinze-jours?ref=wa
+https://perma.cc/H79N-HXUK
 (4)
-
-https://rsf.org/en/news/rsf-urges-madagascar-let-journalists-cover-covid-19-freely
+https://perma.cc/WJ8L-TEYU
 (5)
+https://perma.cc/E44D-P9LS
+https://perma.cc/BLU2-N4NU
 
-http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril-2021.pdf
-
-https://www.garda.com/crisis24/news-alerts/490681/madagascar-officials-extend-covid-19-related-state-of-emergency-through-at-least-june-28-domestic-restrictions-further-eased-update-28
-
-https://www.africanews.com/2020/10/19/madagascar-ends-state-of-health-emergency//
-
-https://jwf-legal2.fr.gd/Lois-245.htm
-
-https://www.presidence.gov.mg/actualites/755-decret-n-2020-359-du-21-mars-2020-proclamant-l-etat-d-urgence-sanitaire-sur-tout-le-territoire-de-la-republique.html
-
-http://www.rfi.fr/fr/afrique/20200412-madagascar-liberte-presse-journaliste-prison-arphine-helisoa-rajoelina-rakotondraza
-
-https://rsf.org/en/news/madagascar-sabotage-silences-tv-channel-criticized-coronavirus-measures
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
-
-
-https://www.hirondelle.org/de/unsere-news/1131-the-challenges-of-journalism-during-covid-19-lockdown-in-madagascar
+https://perma.cc/GJM4-MHXU
+https://perma.cc/3CB7-SZTC
+https://perma.cc/K5AY-6DFT
+https://perma.cc/4L2A-ZD2C
+https://perma.cc/MLR8-D2FN
+https://perma.cc/Y48F-GE4K
+https://perma.cc/JMG3-7CAM
+https://perma.cc/6C2Z-TFD2
 
 
 
@@ -2820,10 +2924,10 @@ https://www.hirondelle.org/de/unsere-news/1131-the-challenges-of-journalism-duri
  There are no reports of the media being limited access to information. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/malawi
-https://ipi.media/malawi/
-https://cpj.org/africa/malawi/
+ [1]	perma.cc/93X3-6G73
+[2]	perma.cc/LK7S-ZKXD
+[3]	perma.cc/F67J-JJRG
+[4]	perma.cc/2VZQ-X68S
 
 
 
@@ -2848,13 +2952,19 @@ https://cpj.org/africa/malawi/
  No sources have been found stating that Malaysia has limited the access to information during the pandemic, and this is therefore coded as 0 across all the time periods. 
 
 *Sources*:
- https://www.hrw.org/news/2020/06/10/malaysia-new-government-backslides-free-speech
+ https://perma.cc/LPE3-27U4
 
-https://rsf.org/en/news/malaysian-police-investigate-reporter-who-covered-covid-19-arrests
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Malaysiahttps://rsf.org/en/thematique/internet?countries%5B75%5D=75
+https://perma.cc/D93Q-8RVD
 
-https://www.ifj.org/fileadmin/user_upload/200909_IFJ_Impacts_Of_Covid19_Malaysia.pdf
+
+https://perma.cc/B6E2-5VTK
+
+
+https://perma.cc/75VG-S92N
+
+
+https://perma.cc/R8AL-J8RA
 
 
 
@@ -2884,18 +2994,16 @@ https://www.ifj.org/fileadmin/user_upload/200909_IFJ_Impacts_Of_Covid19_Malaysia
 The state of emergency is still in place until 26 June 2021. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mali/
+ https://perma.cc/8FVG-KU89
 (1)
-
-https://www.panapress.com/Malian-media-protest-suppression-a_630672857-lang2-free_news.html
+https://perma.cc/TV8S-CM8P
 (2)
-
 https://www.facebook.com/matdmali/posts/1130916104007009
 (3)
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/mali
+https://perma.cc/3SJV-TGU3
+(4)
+https://perma.cc/33UY-4FJR
+(5)
 
 
 
@@ -2924,31 +3032,34 @@ However, no reports of the government or its agents limiting media access to Cov
  
 
 *Sources*:
- https://www.middleeasteye.net/news/fear-more-cases-mauritania-claims-total-control-over-coronavirus-spread
-(1)
+ perma.cc/FY39-6FDE
 
-https://www.hrw.org/world-report/2021/country-chapters/mauritania
-(2)
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mauritania/
-(3)
+perma.cc/6DYT-QYTY
 
-https://www.hrw.org/news/2020/08/01/mauritania-president-should-lead-reform-process
-(4)
 
-https://assafirarabi.com/ar/32154/2020/07/08/%D9%85%D8%B9%D8%B1%D9%83%D8%A9-%D9%82%D9%88%D8%A7%D9%86%D9%8A%D9%86-%D8%A7%D9%84%D9%86%D8%B4%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D9%81%D9%8A-%D9%85%D9%88%D8%B1/
-(5)
+perma.cc/4DZS-TBDJ
 
-https://www.mfwa.org/fr/country-highlights/la-mauritanie-adopte-une-loi-sur-les-fausses-publications-dans-un-contexte-de-repression-de-la-dissidence-en-ligne/#:~:text=Le%2024%20juin%202020%2C%20l,ambigu%C3%AFt%C3%A9s%20%C2%BB%20et%20%C2%AB%20inexactitudes%20%C2%BB.
-(6)
 
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/Z5CE-4FNA
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
 
-https://cpj.org/mideast/mauritania/
+perma.cc/JN9P-WMF3
 
-https://unpo.org/article/21867
+
+perma.cc/HYA3-G9EG
+
+
+perma.cc/JS7W-MAVG
+
+
+perma.cc/NRQ3-SHRP
+
+
+perma.cc/MLX3-DEPU
+
+
+perma.cc/3ACK-3YY3
 
 
 
@@ -2974,13 +3085,13 @@ https://unpo.org/article/21867
 
 *Sources*:
  [1]
-https://www.nytimes.com/2020/05/08/world/americas/mexico-coronavirus-count.html
+perma.cc/9W5N-PUJQ
 [2]
-https://www.bbc.com/mundo/noticias-america-latina-53303437
+perma.cc/BDG2-MEA3
 [3]
-https://www.nytimes.com/2020/12/21/world/americas/mexico-city-covid.html
+perma.cc/445E-X3BT
 [4]
-https://www.hrw.org/news/2021/02/03/will-lopez-obrador-continue-playing-mexicans-health
+perma.cc/L2JJ-8CSJ
 
 
 
@@ -3005,11 +3116,11 @@ https://www.hrw.org/news/2021/02/03/will-lopez-obrador-continue-playing-mexicans
  The maximum amount of time public bodies have to respond to journalists' requests was trippled. According to Decision 1 by the Commission for Exceptional Situations from 18 March 2020 (p.7, point 6), the extension applies only during the state of emergency. Since the state of emergency ended on 15 May 2020, meinf is coded as 1 only during March-June 2020 period. 
 
 *Sources*:
- https://ipi.media/access-denied-foi-deadlines-extended-or-suspended-across-europe/
+ https://perma.cc/QM9K-YQQU
+https://perma.cc/NAR4-PZ9M
 
-https://ipi.media/european-media-freedom-suffers-covid-19-response/
-https://gov.md/sites/default/files/rasporyazhenie_no_1_ot_18_marta_2020_g._komissii_po_chrezvychaynym_situaciyam_respubliki_moldova.pdf
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+https://perma.cc/CMX5-9KEL
+https://perma.cc/WQ3V-MHKC
 
 
 
@@ -3034,11 +3145,15 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  Neither Reporters without Borders nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information, and there's no other indications of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B77%5D=77
+ https://perma.cc/6EAW-YS3X
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Mongolia
 
-https://rsf.org/en/mongolia
+
+https://perma.cc/AWJ2-J4D9
+
+
+
+https://perma.cc/3CKA-B295
 
 
 
@@ -3063,13 +3178,10 @@ https://rsf.org/en/mongolia
  No reports of the government limiting media access to Covid-19 related information.The suspension of the publication and distribution until further notice of all print newspapers does not affect media access to Covid-19 information. 
 
 *Sources*:
- https://cpj.org/2020/03/jordan-oman-morocco-and-yemen-suspend-newspaper-pr/
-
-https://www.voanews.com/science-health/coronavirus-outbreak/coronavirus-deals-blow-newspapers-north-africa
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/morocco/
+ https://perma.cc/P42G-G97M
+https://perma.cc/FFC4-5MPB
+https://perma.cc/3SJV-TGU3
+https://perma.cc/HM3B-Y292
 
 
 
@@ -3094,9 +3206,8 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mor
  No evidence was found of limitations on access to information. 
 
 *Sources*:
- https://rsf.org/en/countries
-_x000D__x000D_
-https://ipi.media/covid19-media-freedom-monitoring/
+ [1]	perma.cc/DZA4-KTHA
+[2]	perma.cc/TKV7-ECVS
 
 
 
@@ -3122,17 +3233,17 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 *Sources*:
  [1]
-https://rsf.org/en/namibia
+https://perma.cc/KAA3-V3DE
 [2]
-https://www.namibian.com.na/199747/archive-read/Media-bemoan-exclusion-from-press-briefing
+https://perma.cc/J7B6-QUJ3
 [3]
-https://allafrica.com/stories/202008290076.html
+https://perma.cc/JL8H-FKCM
 [4]
-https://www.namibian.com.na/201403/archive-read/Presidency-security-unit-charged-with-assault
+https://perma.cc/V5NE-KGUA
 [5]
-https://allafrica.com/stories/202006030808.html
+https://perma.cc/ZM3V-XNTJ
 [6]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/namibia/
+https://perma.cc/678F-ND5T
 
 
 
@@ -3157,15 +3268,22 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/nam
  I did not find any information on this. 
 
 *Sources*:
- https://rsf.org/en/nepal
+ https://perma.cc/F42Z-C26L
 
-https://www.bbc.com/news/topics/cvenzmgyld1t/nepal
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/nepal/
+https://perma.cc/25QB-F4VC
 
-https://ipi.media/covid19-media-freedom-monitoring/
 
-https://en.ejo.ch/ethics-quality/nepal-coronavirus-and-the-media
+https://perma.cc/S286-C5UT
+
+
+https://perma.cc/G5SY-6M3Y
+
+
+https://perma.cc/F4ZT-8TD8
+
+
+
 
 
 
@@ -3190,10 +3308,13 @@ https://en.ejo.ch/ethics-quality/nepal-coronavirus-and-the-media
  Neither Reporters Without Borders nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information, and there's no other indications of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B129%5D=129
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Netherlands
+ https://perma.cc/8X2V-2X5R
 
-https://cpj.org/europe/netherlands/
+
+https://perma.cc/5NAY-L69Q
+
+
+https://perma.cc/HV39-BKGZ
 
 
 
@@ -3218,9 +3339,8 @@ https://cpj.org/europe/netherlands/
  Neither Reporters without Borders nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information, and there's no other indications of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B80%5D=80
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=New%20Zealand
+ [1]	perma.cc/R88Z-YGEU
+[2]	perma.cc/Z6YQ-BCZ7
 
 
 
@@ -3246,35 +3366,35 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 
 *Sources*:
  [1]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/42AW-CV2W
 [2]
-https://www.voanoticias.com/centroamerica/periodistas-nicaraguenses-denuncian-aumento-de-censura-para-reportar-sobre-covid19
+perma.cc/8UHW-GVSN
 [3]
-https://100noticias.com.ni/nacionales/99459-periodistas-independientes-censura-coronavirus/
+perma.cc/US6S-HSEQ
 [4]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/C7SM-4U2E
 [5]
-https://www.bbc.com/mundo/noticias-america-latina-52716064
+perma.cc/4C74-6DAE
 [6]
-https://apnews.com/8f21c9f6306d4fb1a1d01d81c3c020d9
+perma.cc/6HN2-K7QY
 [7]
-https://www.nytimes.com/es/2020/06/02/espanol/america-latina/nicaragua-coronavirus-muertes.html
+perma.cc/5YKE-QDNU
 [8]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/W8VU-ZHSP
 [9]
-https://www.hrw.org/es/news/2020/06/23/nicaragua-despiden-medicos-por-criticar-el-manejo-de-la-covid-19
+perma.cc/Y39M-ENE9
 [10]
-https://www.bbc.com/mundo/noticias-america-latina-52716064
+perma.cc/APE4-9YUC
 [11]
-https://www.dw.com/es/eeuu-condena-intimidaci%C3%B3n-a-prensa-independiente-en-nicaragua/a-54372266
+perma.cc/AE47-6LYK
 [12]
-https://www.laprensa.com.ni/2020/09/08/nacionales/2718522-estos-son-los-ataques-contra-el-periodismo-independientes-en-lo-que-va-de-2020
+perma.cc/FT57-BQJW
 [13]
-https://www.voanoticias.com/centroamerica/periodistas-denuncian-agresiones-durante-cobertura-de-pandemia-en-nicaragua
+perma.cc/D8XZ-5BBN
 [14]
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/nicaragua.php
+perma.cc/M9L8-QRMC
 [15]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/4ZV2-76JB
 
 
 
@@ -3299,22 +3419,24 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
  According to a journalist from Niger (May 2020): ''...Official information and in the current context, the media are subject to restrictions […] certain media have been arrested for having invited to television sets experts deemed 'unqualified' according to the health authority ” (5). 
 
 *Sources*:
- https://rsf.org/en/niger
+ https://perma.cc/S9HB-R9HB
+(1)
+https://perma.cc/3SJV-TGU3
+(2)
 
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/FN77-877L
+(3)
+https://perma.cc/EM5U-Q8LX
+(4)
 
-https://www.amnesty.org/en/latest/news/2020/03/niger-societe-civile-demandent-un-terme/
-
-https://www.zimeye.net/2020/03/25/journalist-kaka-goni-arrested-in-niger-over-covid-19-report/
-
-https://globalvoices.org/2020/05/12/amid-covid-19-pandemic-in-niger-government-violates-whistleblowers-freedom-of-speech/#
-
-https://fr.unesco.org/news/information-desinformation-temps-covid-19-lunesco-renforce-capacites-journalistes-afrique
+https://perma.cc/7RF7-NDB2
 (5)
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/niger/
+https://perma.cc/9Q34-SQJT
+(6)
+https://perma.cc/59KS-EP8Y
+(7)
+https://perma.cc/4CLT-SPWP
+(8)
 
 
 
@@ -3339,10 +3461,9 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/nig
  "Nigerian Information Minister Lai Mohammed said that journalists would be required to carry a valid identity card to move around in the two southwestern states of Lagos and Ogun, as well as in the capital Abuja, as part of President Muhammadu Buhari’s lockdowns in those areas, which were imposed on March 29" (1) and the authorities in Nigeria have decided to limit access to the president's office to a handful of media outlets that are nearly all controlled by the government or supportive of it. Since I did not find evidence of the violations discontinuing, merepoth is coded as 1 in all time periods. 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://cpj.org/2020/03/nigeria-imposes-harsh-restrictions-for-journalist/
-(1)
-https://www.vanguardngr.com/2020/07/journalists-barred-as-panel-grills-magu-in-aso-rock/
+ [1]	perma.cc/9ZD8-C3K6
+[2]	perma.cc/YU76-47Q2
+[3]	perma.cc/KA4U-2B6Y
 
 
 
@@ -3375,25 +3496,14 @@ https://www.vanguardngr.com/2020/07/journalists-barred-as-panel-grills-magu-in-a
 The lack of information on the nature of Covid-19 coupled with the restrictions on the consumption of foreign media within the country suggests that media access to Covid-19 related information is heavily limited. As such I have coded this variable as 2 across all the time periods. 
 
 *Sources*:
- https://www.hrw.org/world-report/2019/country-chapters/north-korea
-
-
-https://www.bbc.com/news/world-asia-pacific-16255126
-
-
-https://rsf.org/en/north-korea
-
-https://www.bbc.com/news/world-asia-44234505
-
-
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
-
-https://www.voanews.com/east-asia-pacific/north-koreas-self-isolation-weapons-program-thwart-virus-aid
-
-https://en.yna.co.kr/view/AEN20200331003100325?section=nk/nk
-
-https://apnews.com/article/virus-outbreak-ap-top-news-seoul-international-news-south-korea-9c2695c6a79fb1fea3f774b9ca0b8c6b
-http://www.rodong.rep.kp/en/index.php?strPageID=SF01_03_02&scnt=covid&listno=1
+ https://perma.cc/2YLU-5RXY
+https://perma.cc/7PD5-6F7D
+https://perma.cc/Y9Z3-Z624
+https://perma.cc/EDZ4-78AM
+https://perma.cc/YRL9-JBGE
+https://perma.cc/6MY5-E7PP
+https://perma.cc/EU27-3CMR
+https://perma.cc/SF4F-C7SC
 
 
 
@@ -3418,9 +3528,9 @@ http://www.rodong.rep.kp/en/index.php?strPageID=SF01_03_02&scnt=covid&listno=1
  No reports on limiting media access to covid-19 information found. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://ipi.media/northmacedonia/
-https://rsf.org/en/north-macedonia
+ [1]	perma.cc/5J8M-JHPJ
+[2]	perma.cc/WRC4-SNCT
+[3]	perma.cc/KX83-ZDAT
 
 
 
@@ -3446,15 +3556,16 @@ https://rsf.org/en/north-macedonia
 Note that there has been debate regarding Norway during Q1 and Q2 of 2021 not exempting journalists from the mandatory quarantine of 10 days when entering the country, which in practice limits international journalists covering news in Norway, and hence also their access to information. However, as this does not influence the reporting on media and journalists based in Norway, this is not accounted for. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B126%5D=126
+ https://perma.cc/W8SX-XQJC
 
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Norway
+https://perma.cc/5JCV-STJY
 
 
-https://cpj.org/europe/norway/
+https://perma.cc/EQ2Z-4RJ2
 
-https://www.ifj.org/media-centre/news/detail/category/Covid-19-report-safely/article/norway-mandatory-quarantine-rule-for-foreign-journalists-must-be-amended.html
+
+https://perma.cc/U5KL-K89W
 
 
 
@@ -3480,13 +3591,13 @@ https://www.ifj.org/media-centre/news/detail/category/Covid-19-report-safely/art
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/NVQ3-8BWC
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/HLD5-ERB6
 [3]
-https://cpj.org/mideast/oman/
+perma.cc/Q2UG-3YW3
 [4]
-https://ochroman.org/eng/2018/05/pressfreedom/
+perma.cc/3VSM-KY3U
 
 
 
@@ -3511,13 +3622,10 @@ https://ochroman.org/eng/2018/05/pressfreedom/
  Did not find information on this happening across all the time periods. 
 
 *Sources*:
- https://rsf.org/en/pakistan
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://www.bbc.com/news/topics/c008ql15vpyt/pakistan
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/pakistan/
+ https://perma.cc/89FU-CLR6
+https://perma.cc/M6HK-JWVB
+https://perma.cc/A3Y5-638G
+https://perma.cc/7AYQ-GMC3
 
 
 
@@ -3542,11 +3650,11 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/pakistan/
  No evidence was found of limitations on access to information. The Ministry of Health is working together with the WHO and releases daily updates about the epidemic. 
 
 *Sources*:
- http://www.minsa.gob.pa/destacado/coronavirus-covid-19
-https://rsf.org/en/countries
-https://ipi.media/covid19-media-freedom-monitoring/
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
-https://cpj.org/americas/panama/
+ [1]	perma.cc/DHC9-U7NA
+[2]	perma.cc/4PJQ-BVKE
+[3]	perma.cc/43ZJ-4Y7Y
+[4]	perma.cc/Q6R4-J6BF
+[5]	perma.cc/GM8U-4VHQ
 
 
 
@@ -3571,10 +3679,10 @@ https://cpj.org/americas/panama/
  The Guardian reports that "The state of emergency has also imposed significant restrictions on who can speak to the media, with many doctors saying they were forbidden from discussing issues with the Guardian.", which infringes media’s access to information on Covid-19. Furthermore, the Pandemic Act includes a vaguely formulated ban on spreading disinformation, that potentially can be used to hinder authorities and civil servants from providing information to the media and public. While no other accusations have been found, there is no indication that things have improved, and the Pandemic Act does provide a ground for continuing to limit access to information. As there is no evidence that this is systematically occuring, however, this is coded as 1 for all periods. 
 
 *Sources*:
- https://www.theguardian.com/world/2020/mar/30/papua-new-guinea-is-not-prepared-4000-nurses-to-strike-over-covid-19-readiness
+ https://perma.cc/3ZMA-SXMQ
 
 
-http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
+https://perma.cc/L3SJ-28NY
 
 
 
@@ -3600,14 +3708,13 @@ http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
-
+perma.cc/RP6Y-ASF2
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/X7NS-DPZB
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/Y8R5-3B7X
 [4]
-https://cpj.org/americas/paraguay/
+perma.cc/VQ78-N9SZ
 
 
 
@@ -3633,13 +3740,13 @@ https://cpj.org/americas/paraguay/
 
 *Sources*:
  [1]
-https://www.gob.pe/coronavirus
+perma.cc/3LDK-WX5P
 [2]
-https://rsf.org/en/countries
+perma.cc/2ZWK-FQEU
 [3]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/YTJ2-U6YH
 [4]
-https://cpj.org/americas/peru/
+perma.cc/4AKK-6XJ4
 
 
 
@@ -3664,12 +3771,9 @@ https://cpj.org/americas/peru/
  President Duterte's emergency regulations were preventing independent media from covering official briefings on Covid-19 in the country during the enhanced community quaratine period which lasted till 31 May 2020. Only official media were allowed to attend the briefings. Independent media could join through video conferencing and submit their questions to the moderator before the briefings started. This effectively bared independent media from seeking clarifications after the briefings. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-
-https://www.philstar.com/headlines/2020/03/27/2003783/media-no-longer-allowed-inside-palaces-briefing-room-during-luzon-wide-lockdown
-
-
-https://www.garda.com/crisis24/news-alerts/341506/philippines-modified-enhanced-community-quarantine-to-be-imposed-in-high-risk-areas-from-may-16-update-19
+ https://perma.cc/G3WY-NUBM
+https://perma.cc/DU3G-ZUTG
+https://perma.cc/T2PB-3ZMD
 
 
 
@@ -3697,22 +3801,18 @@ Further information on the so called  “anti-crisis shield” act from 31 March
  
 
 *Sources*:
- https://ipi.media/access-denied-foi-deadlines-extended-or-suspended-across-europe/
-(1)
-https://www.gov.pl/web/sprawiedliwosc/informacja-w-sprawie-wstrzymania-i-zawieszenia-terminow-procesowych
+ https://perma.cc/R57A-D7AX
+https://perma.cc/HVD4-ZK9P
+https://perma.cc/PVP2-FM2E
+https://perma.cc/9CUN-ACVM
+https://perma.cc/3T7P-E88U
+https://perma.cc/53W3-GCNA
+https://perma.cc/J7UH-BULT
+https://perma.cc/28XY-7P8T
+https://perma.cc/Q3ZN-FWLY
+https://perma.cc/2H6R-RQGV
+https://perma.cc/5SKT-A6BA
 
-http://orka.sejm.gov.pl/opinie9.nsf/nazwa/299_u/$file/299_u.pdf
-https://wbj.pl/polands-government-blocks-access-to-public-information-daily/post/126760
-https://next.gazeta.pl/next/7,151003,25874055,koronawirus-rzad-blokuje-dostep-do-informacji-publicznej-jestesmy.html
-https://www.rpo.gov.pl/pl/content/koronawirus-rpo-dostep-do-informacji-publicznej-wazny-epidemii
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B290%5D&covid19=1
-(2)
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-(3)
-
-https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20200000875/O/D20200875.pdf
-https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000875
-https://www.prezydent.pl/bip/dostep-do-informacji-publicznej/
 
 
 
@@ -3738,11 +3838,11 @@ https://www.prezydent.pl/bip/dostep-do-informacji-publicznej/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/ASC5-FDQT
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/KSF8-PNPD
 [3]
-https://cpj.org/europe/portugal/
+perma.cc/2Q5G-7LHG
 
 
 
@@ -3767,17 +3867,22 @@ https://cpj.org/europe/portugal/
  No reports on limiting media access to Covid-19 information found 
 
 *Sources*:
- https://www.hrw.org/world-report/2021/country-chapters/qatar
+ https://perma.cc/AG2B-GSPY
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
 
-https://rsf.org/en/thematique/internet?countries%5B169%5D=169
+https://perma.cc/DH2X-XFM7
 
-https://cpj.org/mideast/qatar/2021/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qatar/
+https://perma.cc/6KMF-AX6N
 
-https://ipi.media/qatar/
+
+https://perma.cc/Q8ZV-UXRT
+
+
+https://perma.cc/K79U-HXKP
+
+
+https://perma.cc/7FNX-BP9B
 
 
 
@@ -3806,19 +3911,20 @@ State TV anchor in Congo suspended after asking a minister 'inconvenient questio
 ''Rocil Otouna was discreetly sidelined as news anchor after putting some difficult questions about the coronavirus crisis to the justice minister in an interview two weeks ago. Otouna has not been seen on the air since 30 April, when he asked the minister about the lack of information about coronavirus victims, including those currently ill and those who have recovered, and about contradictions between the government's figures and those given by the president on both the caseload and the lockdown's economic and social consequences.'' (3) 
 
 *Sources*:
- https://rsf.org/en/congo-brazzaville
+ https://perma.cc/XC33-PEDH
 (1)
-
 https://rsf.org/en/rsf_search?key=congo
-
-https://rsf.org/en/news/republic-congo-state-tv-urged-reinstate-news-anchor-sidelined-after-coronavirus-interview
+(2)
+https://perma.cc/7BYA-GTE3
 (3)
+https://perma.cc/3SJV-TGU3
+(4)
 
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/F4AH-62F2
+(5)
 
-https://cpj.org/africa/republic-of-congo/
-
-https://lesechos-congobrazza.com/societe/6960-congo-affaire-rocil-otouna-le-president-du-conseil-superieur-de-la-liberte-de-communication-ouvre-une-procedure-juridique-et-administrative
+https://perma.cc/PAV8-HGMD
+(6)
 
 
 
@@ -3843,10 +3949,16 @@ https://lesechos-congobrazza.com/societe/6960-congo-affaire-rocil-otouna-le-pres
  The amount of time public bodies have to respond to requests was doubled (Art 56 of Decree 195 from 16 March 2020 declaring a state of emergency). Since the measures applied only during the state of emergency, meinf is coded as 1 only during March-June 2020. 
 
 *Sources*:
- https://ipi.media/access-denied-foi-deadlines-extended-or-suspended-across-europe/
-https://fra.europa.eu/sites/default/files/fra_uploads/romania-report-covid-19-april-2020_en.pdf
-http://legislatie.just.ro/Public/DetaliiDocument/223831
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+ https://perma.cc/LGS3-M4MZ
+
+
+https://perma.cc/H8HW-P4MZ
+
+
+https://perma.cc/LAU3-8CZS
+
+
+https://perma.cc/7BGV-4TV4
 
 
 
@@ -3873,14 +3985,18 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 Additionally, according to IPI, "individual medical professionals have been banned from speaking to media, while heads of health institutions have to seek approval and coordinate with central authorities before giving interviews to the press...Gathering information from “unofficial” sources or conducting anonymous interviews meanwhile risks sanctions or a police investigation." (3) According to Human Rights Watch, " On October 28, the Health Ministry instructed all medical facilities that any public comments about the Covid-19 situation have to be pre-approved by the ministry’s press service. Later, the assistant health minister stated the instruction applied only to comments on prevention and treatment of the disease and “does not affect doctors” capacity to comment on various aspects of their work, including problematic ones." However, given the retaliation against medical personnel who offered critical comments, it’s reasonable to believe this instruction is intended to have a chilling effect." (4)  Since I found no evidence that violations stopped, meinf is coded as 2 in all periods. 
 
 *Sources*:
- https://rsf.org/en/news/russia-suppresses-coronavirus-information-home-manipulates-it-abroad
+ https://perma.cc/9LAU-YA3S
 (1)
-https://ipi.media/access-denied-foi-deadlines-extended-or-suspended-across-europe/
+
+https://perma.cc/S3MU-A2A8
 (2)
-https://www.article19.org/resources/advances-in-freedom-of-information-under-threat-during-coronavirus-pandemic/
-https://ipi.media/new-fake-news-law-stifles-independent-reporting-in-russia-on-covid-19/
+
+https://perma.cc/QFM5-MW4N
+
+https://perma.cc/HE35-XTRV
 (3)
-https://www.hrw.org/news/2020/11/02/russia-should-support-health-workers-not-silence-them
+
+https://perma.cc/KZ27-GVB8
 (4)
 
 
@@ -3908,27 +4024,30 @@ https://www.hrw.org/news/2020/11/02/russia-should-support-health-workers-not-sil
 This measure prevented journalists from reporting in the field, and from access to information.The lockdown was eased in May 2020, but after a rise in coronavirus cases it is since then being re-imposed in selected areas. 
 
 *Sources*:
- https://twitter.com/PrimatureRwanda/status/1241412264193937412/photo/1
+ https://web.archive.org/web/20201014054623/https://twitter.com/PrimatureRwanda/status/1241412264193937412/photo/1
+
 (1)
+https://perma.cc/P4V7-MJ5X
+(2)
 
+https://perma.cc/2L5Y-GEH3
+(3)
+https://perma.cc/2873-4JTV
+(4)
 
-https://www.garda.com/crisis24/news-alerts/328491/rwanda-nationwide-lockdown-extended-for-15-days-april-1-update-4
+https://perma.cc/GXV8-RKJY
+(5)
+https://perma.cc/UH5C-LR42
+(6)
+https://perma.cc/YM5Y-TAJW
+(7)
+https://perma.cc/N5XB-D6LM
 
-https://www.garda.com/crisis24/news-alerts/338256/rwanda-new-covid-19-prevention-measures-come-into-effect-may-4-update-6
-
-https://www.garda.com/crisis24/news-alerts/394011/rwanda-covid-19-restrictions-extended-until-november-11-update-17
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_18_January_2021.pdf
-
-https://www.aa.com.tr/en/africa/rwanda-eases-covid-19-lockdown-in-capital/2137274
-
-https://www.garda.com/crisis24/news-alerts/438081/rwanda-health-officials-to-impose-amended-nationwide-covid-19-related-restrictions-from-feb-8-update-16
-
-https://www.garda.com/crisis24/news-alerts/446311/rwanda-health-officials-revise-and-extend-covid-19-related-restrictions-until-at-least-march-15-update-17
-
-https://www.garda.com/crisis24/news-alerts/467306/rwanda-authorities-revise-and-extend-covid-19-related-restrictions-through-at-least-april-29-update-20
-
-https://rw.usembassy.gov/health-alert-covid-19-information/
+(8)
+https://perma.cc/R6X2-3RAK
+(9)
+https://perma.cc/L6AL-4A88
+(10)
 
 
 
@@ -3953,9 +4072,13 @@ https://rw.usembassy.gov/health-alert-covid-19-information/
  While it is plausible that access to information is limited given the media censorship at large in Saudi Arabia, there are no specific reports found on any limitations to access to information, and this is therefore coded as 0 for all periods. 
 
 *Sources*:
- https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/thematique/internet?countries%5B153%5D=153
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Saudi%20Arabia
+ https://perma.cc/WBE6-RR6Q
+
+
+https://perma.cc/GEY7-F6W4
+
+
+https://perma.cc/2MMB-XQ3Y
 
 
 
@@ -3991,26 +4114,28 @@ Also, in March 2021, during  the protests that emerged when opposition figure Ou
 "Network data from the NetBlocks Internet Observatory confirm the disruption of social media and messaging apps in Senegal as of 5 March 2021. Metrics show that Facebook, YouTube, WhatsApp, and some Telegram servers were restricted on leading cellular network operator Orange/Sonatel as of early morning Friday. Affected services have subsequently been restored from 7:30 a.m. UTC," reads a statement by NetBlocks.'' (6) 
 
 *Sources*:
- https://www.bbc.com/afrique/region-52363470
-(1)
+ perma.cc/2T9P-M5N8
 
-https://theconversation.com/ce-que-les-senegalais-e-s-pensent-des-mesures-gouvernementales-contre-la-covid-19-146037
-(2)
 
-https://www.lemonde.fr/afrique/article/2020/03/24/coronavirus-etat-d-urgence-et-couvre-feu-en-vigueur-au-senegal_6034223_3212.html
-(3)
+perma.cc/V49E-JMJQ
 
-https://www.africanews.com/2021/03/24/senegalese-journalists-allege-increasing-intimidation-over-ousmane-sonko//
-(4)
 
-https://rsf.org/en/senegal
+perma.cc/Y5CM-RSM5
 
-(5)
 
-https://iafrikan.com/2021/03/08/senegal-social-media-and-internet-shutdown/
-(6)
+perma.cc/L6FT-89FV
 
-https://ipi.media/covid19-media-freedom-monitoring/
+
+perma.cc/AS2E-9QUV
+
+
+perma.cc/CYQ6-AMQW
+
+
+perma.cc/M75D-8RY9
+
+
+
 
 
 
@@ -4035,14 +4160,15 @@ https://ipi.media/covid19-media-freedom-monitoring/
  Journalists weew banned from attending daily press conferences and can send questions via email. According to IPI, the goverment "doubled the amount of time public bodies have to respond to requests. Since then, media have reported that institutions have cited the new rules in refusing to provide information." (1) Since the state of emergency ended on 6 May 2020, restrictions on media access are coded only during March-June 2020 period. Moreover, videos of press conferences from November seem to show that journalists are physically present and ask questions at press conferences. 
 
 *Sources*:
- https://ipi.media/access-denied-foi-deadlines-extended-or-suspended-across-europe/
+ https://perma.cc/KYR9-9HDE
 (1)
-https://ipi.media/covid19-media-freedom-monitoring/
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/uredba/2020/41/2/reg
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/serbia/
-https://www.youtube.com/watch?v=3kWQOAMdljk
-https://www.youtube.com/watch?v=uZN9ZO0qq8U
+
+https://perma.cc/8F5N-JUNH
+https://perma.cc/GW4A-H2B8
+https://perma.cc/C8YL-LNZN
+https://perma.cc/Q4S2-XWFY
+https://perma.cc/8X5W-FBV6
+https://perma.cc/JRM3-L7TY
 
 
 
@@ -4067,8 +4193,8 @@ https://www.youtube.com/watch?v=uZN9ZO0qq8U
  No reports on limiting media access to covid-19 information found 
 
 *Sources*:
- https://rsf.org/en/sierra-leone
-https://ipi.media/sierra-leone/
+ [1]	perma.cc/THN7-EV25
+[2]	perma.cc/7AGQ-NWDP
 
 
 
@@ -4093,11 +4219,9 @@ https://ipi.media/sierra-leone/
  I did not find evidence suggesting the government has limited access to Covid-19 related information. 
 
 *Sources*:
- https://rsf.org/en/singapore
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/singapore/
-
-https://www.hrw.org/asia/singapore
+ https://perma.cc/J4Z3-WR78
+https://perma.cc/UY9Y-TTYW
+https://perma.cc/J8SH-GA69
 
 
 
@@ -4122,10 +4246,16 @@ https://www.hrw.org/asia/singapore
  No evidence found 
 
 *Sources*:
- https://cpj.org/europe/slovakia/
-https://ipi.media/slovakia/
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/slovakia
+ https://perma.cc/MW3G-V65T
+
+
+https://perma.cc/A996-8PUA
+
+
+https://perma.cc/J7BN-9NV9
+
+
+https://perma.cc/VG77-8SGA
 
 
 
@@ -4152,20 +4282,17 @@ https://rsf.org/en/slovakia
 Q1 2020, Q2 2021: In February 2021, certain media outlets could not ask questions during government press conferences on Covid-19 (2). Officials were also banned from giving interviews on rapid testing (3). Since I found no indication that limitations on the media stopped in Q2 2021, meinf is coded as 2 for both periods in 2021. 
 
 *Sources*:
- https://www.gov.si/novice/2020-05-22-ukinitev-zacasnih-ukrepov-v-zvezi-s-sodnimi-upravnimi-in-drugimi-javnopravnimi-zadevami-za-obvladovanje-sirjenja-nalezljive-bolezni-covid-19/
-https://cpj.org/2020/04/slovenian-journalist-blaz-zgaga-on-facing-off-agai/
-https://rsf.org/en/news/platforms-urged-prevent-harassment-journalists-covering-covid-19
-https://cpj.org/2020/04/slovenian-journalist-blaz-zgaga-on-facing-off-agai/
-https://rsf.org/en/news/slovenia-trumps-disciple-attacks-journalists-and-introduces-systemic-change
-https://ipi.media/ipi-joins-call-to-guarantee-safety-of-slovenian-investigative-journalist-blaz-zgaga/
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-(1)
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B349%5D&covid19=1
-https://ipi.media/alerts/questions-from-certain-slovenian-journalists-ignored-during-government-press-conferences/
-(2)
-https://ipi.media/alerts/slovenian-government-communication-office-ukom-bans-officials-from-giving-media-interviews-on-rapid-testing-concerns/
-(3)
-https://ipi.media/slovenia-government-communication-office-must-stop-controlling-covid-19-news-coverage/
+ [1]	perma.cc/BH78-WTGY
+[2]	perma.cc/W52B-UVEJ
+[3]	perma.cc/7KCH-WDNT
+[4]	perma.cc/D6JY-XSSZ
+[5]	perma.cc/Y9QV-H68T
+[6]	perma.cc/FUR3-AP8Q
+[7]	https://perma.cc/J7UH-BULT
+
+[8]	perma.cc/W7E2-PP6F
+[9]	perma.cc/HVQ8-CX82
+[10]	perma.cc/B76T-FBC8
 
 
 
@@ -4192,13 +4319,9 @@ https://ipi.media/slovenia-government-communication-office-must-stop-controlling
 I have not found any information suggesting that the situation hs improved. As such I have continued to code this variable as 2. 
 
 *Sources*:
- https://cpj.org/2020/04/somali-journalist-abdalle-ahmed-mumin-says-there-i/
-
-
-https://rsf.org/en/news/somali-officials-cannot-claim-covid-19-information-monopoly-rsf-and-nusoj-say
-
-
-https://www.bbc.com/news/av/world-africa-53521563
+ https://perma.cc/FZN5-MZKN
+https://perma.cc/H7YE-VA28
+https://perma.cc/B5Z7-WECJ
 
 
 
@@ -4223,12 +4346,9 @@ https://www.bbc.com/news/av/world-africa-53521563
  No evidence indicating that the government and its agents limits media access to Covid-19 related information, was found. 
 
 *Sources*:
- [1]
-https://rsf.org/en/south-africa
-[2]
-https://ipi.media/south-africa/
-[3]
-https://cpj.org/africa/south-africa/
+ [1]	perma.cc/AXC6-PCYB
+[2]	perma.cc/KQM7-3MSH
+[3]	perma.cc/M3J8-ZY7U
 
 
 
@@ -4253,16 +4373,10 @@ https://cpj.org/africa/south-africa/
  I did not find any information related to this across all time periods. 
 
 *Sources*:
- https://rsf.org/en/south-korea
-
-
-https://www.hrw.org/asia/south-korea
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/south-korea/
-
-
-https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
+ https://perma.cc/67Z5-NR3U
+https://perma.cc/9S8X-MEC6
+https://perma.cc/LQ2G-LZ7Y
+https://perma.cc/M5DV-QWLS
 
 
 
@@ -4287,10 +4401,11 @@ https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
  The government has actively encouraged access to information for recognized media outlets to combat disinformation. It has also called for protection of journalists by security forces to freely move during curfew hours and protective tools for them. At the same time it warned "to only cautiously disseminate credible information obtained from the rightful designated health experts in the Ministry of Healt and WHO" (1). No indication was found that the governments is limiting journalists’ access to Covid-19 related information. 
 
 *Sources*:
- https://twitter.com/SouthSudanGov/status/1243239494616322050/photo/1
+ https://perma.cc/AA9N-LUJM
 (1)
-https://rsf.org/en/south-sudan
-https://cpj.org/africa/south-sudan/
+
+https://perma.cc/XX2F-BU9G
+https://perma.cc/47ND-JYR2
 
 
 
@@ -4315,32 +4430,15 @@ https://cpj.org/africa/south-sudan/
  When declaring the first state of emergency (Royal Decree 463/2020 Disposición adicional tercera), the government suspended deadlines to provide information requsted via the Freedom of Information Law, which includes covid-19 related information such as copy of purchase contracts, number of tests per region, etc. The state of emergency ended on June 21, 2020, and the second national state of emergency (October 25, 2020–May 9, 2021) did not impose limitations on access to information. However, there are concerns among journalists about the frequency, consistency, and reliability of case information provided by the ministry of health. [7] 
 
 *Sources*:
- [1]
-https://elpais.com/sociedad/2020-04-16/la-crisis-empana-la-transparencia-del-gobierno.html
-
-[2]
-https://ipi.media/covid19-media-freedom-monitoring/
-
-[3]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-3692&p=20200328&tn=1#a5
-
-[4]
-https://www.rti-rating.org/covid-19-tracker/
-
-[5]
-https://cpj.org/2020/07/data-journalists-describe-challenges-of-reporting-on-the-true-toll-of-covid-19/
-
-[6]
-https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/
-
-[7]
-https://ipi.media/spains-free-press-put-to-test-under-covid-19-restrictions/
-
-[8]
-https://ipi.media/press-freedom-in-spain-in-2020-coronavirus-and-five-years-of-the-gag-laws/
-
-[9]
-https://rsf.org/en/news/coronavirus-spanish-government-yields-pressure-journalists-and-agrees-live-press-conferences-0
+ [1]	perma.cc/NG7H-DETQ
+[2]	perma.cc/LJ45-SVP3
+[3]	perma.cc/4UAT-VCWY
+[4]	perma.cc/8SBD-XED3
+[5]	perma.cc/C6K9-3KGG
+[6]	perma.cc/Y4UF-MB85
+[7]	perma.cc/S9MF-9G5A
+[8]	perma.cc/Q5VV-43F7
+[9]	perma.cc/MVU2-8TNP
 
 
 
@@ -4372,19 +4470,13 @@ However,
 
 *Sources*:
  (1)
-https://www.hrw.org/news/2020/04/23/sri-lanka-due-process-concerns-arrests-muslims
-
-
+https://perma.cc/WGS8-GXBC
 (2)
-https://groundviews.org/2020/04/05/the-president-in-the-pandemic/
-
-
+https://perma.cc/UB7X-HB7P
 (3)
-http://adayaalam.org/situation-brief-no-3-covid-19-sri-lankas-militarised-response-poses-grave-threats-to-human-rights/
-
-
+https://perma.cc/K6DE-ZAYL
 (4)
-http://adayaalam.org/wp-content/uploads/2020/04/COVID-19-Situation-Brief-Sri-Lankas-Militarised-Response-poses-grave-threats-to-human-rights.pdf
+https://perma.cc/UD3S-AZE4
 
 
 
@@ -4409,20 +4501,13 @@ http://adayaalam.org/wp-content/uploads/2020/04/COVID-19-Situation-Brief-Sri-Lan
  In December 2020 a report by Imperial College London revealed that only around 2% of COVID-19 deaths in Khartoum had been recorded [5]. There were some concerns in January 2021 [4] about the Ministry of Health not publishing data (individual regions were doing so). 
 
 *Sources*:
- 1]
-https://rsf.org/en/sudan
-[2]
-https://www.amnesty.org/en/countries/africa/sudan/
-[3]
-https://www.hrw.org/africa/sudan
-[4]
-https://www.dabangasudan.org/en/all-news/article/covid-19-dangerous-spread-continues-in-sudan
-[5]
-https://www.dabangasudan.org/en/all-news/article/icl-only-2-of-covid-19-deaths-recorded-in-khartoum
-[6]
-http://ipi.media/sudan/
-[7]
-https://cpj.org/mideast/sudan/
+ [1]	perma.cc/VWP3-ATNK
+[2]	perma.cc/Y75C-X9BF
+[3]	perma.cc/M5GP-VRUF
+[4]	perma.cc/7D58-XETJ
+[5]	perma.cc/UVN2-2WTG
+[6]	perma.cc/UTD9-QAWB
+[7]	perma.cc/SY4B-5GTH
 
 
 
@@ -4447,14 +4532,19 @@ https://cpj.org/mideast/sudan/
  Swedish media reports that there have been issues in some places, and in relation to some authorities, to gain information during the first wave of the pandemic. This for instance pertains to the number of infected and dead at the level of elderly homes, and other information about or in relation to Covid-19. There have also been debates about the accessibility of public information such as e-mails from people in leading positions. It does not seem to be systematic, however, but rather pertains to a few people/organizations in relation to a couple of issues. Furthermore, this only seems to have been an issue during the first two periods, as no other reports have been found on it (the Swedish government has also ordered an investigation into the extent that FOI have been followed during the pandemic, due to be released in November 2021). This is therefore coded as 1 for Q2 and Q3 of 2020, but 0 after that as no reports of limitations has been found after that and the original limitations not were systematic. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B141%5D=141
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Sweden
+ https://perma.cc/7Z88-DUMB
 
-https://sverigesradio.se/artikel/offentlighetsprincipen-under-pandemin-ska-utredas
 
-https://www.dn.se/nyheter/sverige/kritik-mot-att-smittspridning-och-miljardstod-hemlighalls/
+https://perma.cc/4VPP-9GMH
 
-https://sverigesradio.se/artikel/7500733
+
+https://perma.cc/2K2B-PLP8
+
+
+https://perma.cc/A5YG-RPNU
+
+
+https://perma.cc/P8Q3-VMHA
 
 
 
@@ -4479,12 +4569,16 @@ https://sverigesradio.se/artikel/7500733
  Neither Reporters Without Borders nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information, and there's no other indications of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B142%5D=142
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
+ https://perma.cc/HWF3-JJQH
 
-https://cpj.org/europe/switzerland/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/switzerland/
+https://perma.cc/L2LL-X5J9
+
+
+https://perma.cc/4W4B-2PZ3
+
+
+https://perma.cc/9EJW-66SA
 
 
 
@@ -4509,9 +4603,7 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/swi
  This source briefly talks about the Legislative Yuan’s plans to implement measures to limit journalists’ access to the legislative building. However I could not find further information on the measuring being implemented. 
 
 *Sources*:
- https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislative-activities.pdf
-
-
+ https://perma.cc/2ZUP-FW8P
 
 
 
@@ -4545,15 +4637,17 @@ Since there have been numberous violations and I found no evidence that the situ
  
 
 *Sources*:
- https://centralasiaprogram.org/archives/18278?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+CAPGWU+%28Central+Asia+Program%2C+George+Washington+University%29
+ https://perma.cc/7FZE-PPPQ
 (1)
-https://rsf.org/en/news/coronavirus-crisis-makes-reporting-even-harder-tajikistan
+
+https://perma.cc/C8C9-5GYF
 (2)
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B702%5D&covid19=1
-https://rsf.org/en/news/new-tajik-legislation-hampers-coronavirus-coverage
-https://rsf.org/en/news/collateralfreedom-rsf-unblocks-eight-sites-censored-during-pandemic
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tajikistan/
+
+https://perma.cc/J7UH-BULT
+https://perma.cc/X2M7-KKEZ
+https://perma.cc/EMC2-E43H
+https://perma.cc/2DKP-ZVQ2
+https://perma.cc/WU8J-APNX
 
 
 
@@ -4579,20 +4673,18 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/taj
 
 *Sources*:
  [1]
-https://www.nytimes.com/2020/08/04/world/africa/tanzanias-coronavirus-president.html
+https://perma.cc/B2PA-3324
 
 [2]
-https://www.hrw.org/news/2020/09/02/tanzania-freedoms-threatened-ahead-elections
-
+https://perma.cc/4DB5-U2C4
 
 [3]
-https://www.theguardian.com/world/2020/may/27/tanzanian-president-accused-of-covering-up-Covid-19-outbreak
-
+https://perma.cc/23ZD-FBTS
 [4]
-https://www.theguardian.com/world/2021/feb/28/tanzania-leader-says-prayer-will-cure-covid-as-hospitals-overflow
+https://perma.cc/36UG-UQKU
 
 [5]
-https://tz.usembassy.gov/Covid-19-information/
+https://perma.cc/E4WG-R62H
 
 
 
@@ -4621,12 +4713,9 @@ https://tz.usembassy.gov/Covid-19-information/
 I have not found information suggesting that these restrictions have eased. Hence I have continued to code this variable as 1. 
 
 *Sources*:
- https://rsf.org/en/news/thailand-uses-covid-19-restrict-freedom-inform
-
-
-https://www.amnesty.org/download/Documents/ASA3920422020ENGLISH.PDF
-
-https://www.hrw.org/news/2020/03/25/thailand-covid-19-clampdown-free-speech
+ https://perma.cc/GF78-RLZS
+https://perma.cc/2KFU-EXMX
+https://perma.cc/BY62-PYXN
 
 
 
@@ -4651,19 +4740,16 @@ https://www.hrw.org/news/2020/03/25/thailand-covid-19-clampdown-free-speech
  No evidence indicating that the government and its agents limits media access to Covid-19 related information, was found. 
 
 *Sources*:
- https://ipi.media/gambia/
+ https://perma.cc/696R-ZRSQ
 
 
-
-https://cpj.org/africa/gambia/
-
+https://perma.cc/7TTK-G5TR
 
 
-https://rsf.org/en/gambia
+https://perma.cc/9TA3-7BFC
 
 
-
-https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
+https://perma.cc/TW65-7KQF
 
 
 
@@ -4688,15 +4774,19 @@ https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
  No media limitations reported. 
 
 *Sources*:
- https://rsf.org/en/tracker19-Coronavirus-Covid19
+ perma.cc/MY6Y-23BK
 
-https://cpj.org/covid-19/
 
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
+perma.cc/NBA3-6ZEM
 
-https://ipi.media/covid19-media-freedom-monitoring/
 
-https://rsf.org/en/togo
+perma.cc/CF55-X9JP
+
+
+perma.cc/RE6L-JGUR
+
+
+perma.cc/36J6-NLJE
 
 
 
@@ -4721,18 +4811,12 @@ https://rsf.org/en/togo
  "On 16 April 2021, the Tunisian Ministry of Health issued a directive stating that only a specified list of representatives from the health sector are authorized to make statements to the media or on social media in relation to the pandemic." [5] 
 
 *Sources*:
- [1]
-https://ipi.media/tunisia/
-[2]
-https://rsf.org/en/thematique/internet?countries%5B171%5D=171
-[3]
-https://cpj.org/mideast/tunisia/
-[4]
-https://www.bbc.com/news/topics/cwlw3xz0lmvt/tunisia
-[5]
-https://www.amnesty.org/en/latest/news/2021/04/tunisia-rescind-ministerial-order-censoring-health-workers-over-covid19/
-[6]
-https://www.article19.org/resources/tunisia-ministry-of-health-memo-violates-the-right-to-freedom-of-expression-press-and-access-to-information-and-it-should-be-revoked/
+ [1]	perma.cc/XGF4-RGJN
+[2]	perma.cc/3SGL-3ZJX
+[3]	perma.cc/2C97-QFNS
+[4]	perma.cc/J8AS-MDQR
+[5]	perma.cc/GR8V-Q7ZP
+[6]	perma.cc/FDK7-TT7E
 
 
 
@@ -4757,38 +4841,23 @@ https://www.article19.org/resources/tunisia-ministry-of-health-memo-violates-the
  Much of the arrests of journalists, and charges placed on them, have been based on journalists accessing information from hospitals or hospital staff on Covid-19 which the government do not want them publishing and spreading. The Turkish government has more or less closed all access to information on Covid-19 according to Reporters without Borders and Amnesty International, and only wish the media to report on the information on Covid-19 released by the government itself. Furthermore, there are numerous accusations that the Turkish government have delibirately underreported the number of Covid-19 cases in the country. While there isn't as much reporting on this after the summer of 2020, there are no indications that the access to information has improved, and the media climate is still very restrictive and limited. This is therefore coded as 2 for all periods. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://www.amnesty.org/en/latest/news/2020/05/turkey-covid19-pandemic-increases-climate-of-fear-for-journalists/
-
-https://rsf.org/en/news/turkish-journalists-arrested-reporting-Covid-19-cases
-
-https://rsf.org/en/news/regulators-gradually-imposing-official-line-monopoly-turkeys-media
-
-https://www.nytimes.com/2020/04/20/world/middleeast/coronavirus-turkey-deaths.html
-
-https://www.fdd.org/analysis/2020/04/24/erdogans-Covid-19-cover-up/
-
-https://www.hrw.org/news/2020/06/10/turkey-probes-over-doctors-Covid-19-comments
-https://www.ecoi.net/en/document/2039364.html
-
-https://projects.voanews.com/covering-covid19/english/journalist/turkey-ahmet-kanbal.html
-
-https://rsf.org/en/news/journalists-threatened-imprisonment-under-turkeys-terrorism-law
-
-https://rsf.org/en/news/turkey-press-freedom-figures
-
-https://cpj.org/europe/turkey/
-
-https://www.amnesty.org/en/latest/news/2021/04/can-independent-journalism-fight-back-in-turkey/
-
-https://www.amnesty.org/en/countries/europe-and-central-asia/turkey/report-turkey/
-
-https://www.aljazeera.com/news/2021/4/14/what-is-the-real-extent-of-turkeys-covid-crisis
-
+ https://perma.cc/W6QN-TEEX
+https://perma.cc/HEP6-EBKZ
+https://perma.cc/753X-BGPX
+https://perma.cc/6DAK-MDGP
+https://perma.cc/T36X-YY8T
+https://perma.cc/DU4B-V6X4
+https://perma.cc/45MR-BN4F
+https://perma.cc/6ZHA-8KLE
+https://perma.cc/ZL2P-XVRR
+https://perma.cc/4Y5E-GNLM
+https://perma.cc/QXK6-L99L
+https://perma.cc/JF64-5WTR
+https://perma.cc/U4D9-LCWU
+https://perma.cc/Q6JN-7D5B
+https://perma.cc/FJW2-BW2J
 https://www.ft.com/content/5307a438-f083-4f7f-a1da-5b0a0eaa6047
-
-https://ipi.media/alerts/yoltv-correspondent-removed-from-health-ministry-communications-group-after-critical-question-of-erdogans-event-amid-pandemic/
-
+https://perma.cc/D5N2-FNW7
 
 
 
@@ -4813,10 +4882,12 @@ https://ipi.media/alerts/yoltv-correspondent-removed-from-health-ministry-commun
  Although the country has not officially registered any Covid-18 cases, there are numerous reports that the authorities are concealing the truth, which Human Rights Watch calls "an apparent covid-19 outbreak." Human Rights Watch mentions the main hospital in the capital being placed in quarantine with many “pneumonia-like”  cases, reports of health workers who tested positive for Covid-19, dealths of people with Covid-19-like symptoms. Doctors are reportedly required to quarantine in hospitals and cannot use their phones.  (1) Coded as 2 inall time periods as I did not find further information on whether the situation improved. 
 
 *Sources*:
- https://www.hrw.org/news/2020/06/27/turkmenistan-denies-apparent-covid-19-outbreak
+ https://perma.cc/B3PE-RG7Y
 (1)
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-https://www.hrw.org/world-report/2021/country-chapters/turkmenistan
+
+https://perma.cc/QR3S-UY3P
+
+https://perma.cc/4NBL-EQQF
 
 
 
@@ -4841,34 +4912,15 @@ https://www.hrw.org/world-report/2021/country-chapters/turkmenistan
  Throughout 2020 and 2021, security forces harassed and assaulted journalists while enforcing Covid-19 protocols [1,2,3,4], despite the press being exempt from many of these measures as essential workers [5]. This limited their access to information. In addition, actions taken by the Uganda Communications Commission requiring online media outlets to obtain authorization [6] and traditional and foreign press to re-register in late 2020 [7] meant that many agencies were unable or fearful of operating until such registration was completed. Others may have shut down completely. During elections in January 2021, the government shut off internet access for several days [8], limiting access to information further. Restrictions on access to social media continued for some time after the internet was restored [9]. 
 
 *Sources*:
- [1]
-https://www.state.gov/wp-content/uploads/2021/03/UGANDA-2020-HUMAN-RIGHTS-REPORT.pdf
-
-[2]
-https://freedomhouse.org/country/uganda/freedom-world/2021
-
-[3]
-https://ijoc.org/index.php/ijoc/article/viewFile/11456/2948
-
-
-[4]
-https://rsf.org/en/uganda
-
-[5]
-http://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110090/136775/F1854815533/UGA110090.pdf
-
-
-[6]
-https://www.washingtonpost.com/world/africa/uganda-seeks-to-register-online-bloggers-ahead-of-election/2020/09/08/cff9b38a-f1bf-11ea-8025-5d3489768ac8_story.html
-
-[7]
-https://www.rfi.fr/en/africa/20201210-uganda-journalists-targeted-as-government-revokes-foreign-press-passes-before-elections
-
-[8]
-https://www.reuters.com/article/us-uganda-internet-rights-trfn/100-hours-in-the-dark-how-an-election-internet-blackout-hit-poor-ugandans-idUSKBN29P1V8
-
-[9]
-https://www.bbc.com/news/world-africa-55705404
+ [1]	perma.cc/JFD7-MLS3
+[2]	perma.cc/8PQQ-9UKZ
+[3]	perma.cc/8JSU-FC4T
+[4]	perma.cc/6WZY-TVQR
+[5]	perma.cc/GKC6-5HPR
+[6]	perma.cc/8T43-87XU
+[7]	perma.cc/3NT4-PPEA
+[8]	perma.cc/DGB8-PWLR
+[9]	perma.cc/7YL2-5DA9
 
 
 
@@ -4893,15 +4945,13 @@ https://www.bbc.com/news/world-africa-55705404
  In Kryvyi Rih, independent journalists were prevented from attending municipal council meetings on 18 March 2020 (on measures to tackle covid-19) while the city’s own media was allowed to attend. In Kakhovka, only two local media outlets were allowed to attend a council meeting on 19 March 2020 (on measures to tackle covid-19) while other media outlets were not allowed to enter the building. In the village of Lyubimivka, no media were allowed to attending local council meetings. On 4 November 2020, journalists were not allowed to attend the Zaporozhye City Council session about redistribute budget funds to combat Covid-19. According to local media reports, the situation persisted in 2021. According to a survey conducted by the National Union of Journalists of Ukraine in March-April 2021, 20% of journalists surveyed (47 out of 244 participants) said that they encountered obstacles to attending events with the participation of government officials  under the pretext of quarantine restrictions. Based on this information and the report from RSF, meinf is coded as 2 in all periods. 
 
 *Sources*:
- https://rsf.org/en/news/wave-attacks-reporters-covering-coronavirus-lockdown-ukraine
-
-http://1news.zp.ua/sessiya-zaporozhskogo-gorodskogo-soveta-prohodit-v-zakrytom-rezhime-bez-zhurnalistov-i-pryamoj-translyaczii/
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/ukraine/
-http://zabor.zp.ua/www/content/v-zaporozhe-na-sessiyu-gorsoveta-ne-puskayut-zhurnalistov-vinovat-covid
-http://z-city.com.ua/27-01-21-4-27.01.2021
-https://zanoza-news.com/n/2021/02/23/33324
+ https://perma.cc/RLC3-57ET
+https://perma.cc/6R5L-2WZT
+https://perma.cc/BD28-LSL9
+https://perma.cc/L4Z5-RJV6
+https://perma.cc/EF4Z-MJL9
 https://strana.ua/news/327851-tomilenko-soobshchil-kak-zhurnalistam-a-ukraine-prepjatstvujut-v-rabote-vo-vremja-karantina.html
-http://nsju.org/novini/kozhna-chetverta-redakcziya-stykayetsya-z-pereshkodzhannyam-zhurnalistskij-roboti-pid-pryvodom-karantynu/
+https://perma.cc/XY9G-YVMH
 
 
 
@@ -4926,18 +4976,12 @@ http://nsju.org/novini/kozhna-chetverta-redakcziya-stykayetsya-z-pereshkodzhanny
  No evidence indicating that the government and its agents limits media access to Covid-19 related information, was found. 
 
 *Sources*:
- [1]
-https://ipi.media/united-arab-emirates/
-[2]
-https://cpj.org/mideast/uae/
-[3]
-https://rsf.org/en/united-arab-emirates
-[4]
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/united-arab-emirates/
-[5]
-https://www.hrw.org/middle-east/n-africa/united-arab-emirates
-[6]
-https://www.bbc.com/news/topics/ce1qrvlexjet/united-arab-emirates
+ [1]	perma.cc/H7ZJ-F54B
+[2]	perma.cc/2S48-3SD4
+[3]	perma.cc/BK3Y-5VYD
+[4]	perma.cc/6V83-TAQX
+[5]	perma.cc/EQT9-D7SZ
+[6]	perma.cc/9J2R-QWAS
 
 
 
@@ -4962,15 +5006,21 @@ https://www.bbc.com/news/topics/ce1qrvlexjet/united-arab-emirates
  Reporters Without Borders report that: ”Reporters are also facing restrictions in covering the government’s daily press briefings, during which the Prime Minister or another designated official provides updates to the public on the Covid-19 situation in the country. Journalists are limited to virtual participation, and their microphones are almost always cut immediately after an initial question, with follow-up questions rarely allowed - severely limiting their ability to rigorously question the presiding official.” (1). Furthermore, there are reports that medical personnel have been ordered not to speak publicly about their work and the situation at hospitals, limiting media's access to information within these areas. The Media Freedom Rapid Response also reports that the UK government has banned openDemocracy, the Sunday Times and prevented other outlets from asking questions at the daily news briefings. While some of these issues seem to mainly pertain to the first periods (at least in terms of reports on it), the issue of the limitation in freedom of information remains. For instance, editors for several large news outlets expressed strong concern over the lack of following through on FOI-requests in February 2021. As there is no indication that the situation has improved, this is therefore coded 1 for all periods. 
 
 *Sources*:
- https://rsf.org/en/news/uk-press-freedom-under-threat-lockdown-government-dismisses-reporting-campaigning-newspapers
+ https://perma.cc/GS6W-UZZ6
 (1)
 
-https://www.rcmediafreedom.eu/layout/set/print/News/UK-too-many-violations-and-bans-to-media-outlets
-https://www.theguardian.com/society/2020/apr/09/nhs-staff-forbidden-speaking-out-publicly-about-coronavirus
 
-https://www.documentcloud.org/documents/20415987-art-of-darkness-opendemocracy
 
-https://www.bbc.com/news/uk-55988252
+https://perma.cc/VG5G-KJTF
+
+
+https://perma.cc/K9ZD-7JH3
+
+
+https://perma.cc/HTC9-YBQP
+
+
+https://perma.cc/N7MU-2NVT
 
 
 
@@ -4996,23 +5046,31 @@ https://www.bbc.com/news/uk-55988252
 However, no evidence of this limitation on access to information in relation to Covid-19 has been found under the Biden administration. This is therefore coded as 0 for Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.cnbc.com/2020/05/11/coronavirus-trump-ends-press-conference-after-reporters-challenge-him-on-testing.html
-(1)https://www.nbcnews.com/politics/donald-trump/trump-skips-questions-coronavirus-briefing-after-disinfectant-debacle-n1192341
-(2)https://www.youtube.com/watch?v=oSXmBTeMIJE
-(3)
-https://www.boston.com/news/politics/2020/11/20/kayleigh-mcenany-cnn-kaitlan-collins-activist-white-house-press-briefing
-(4)
-https://rsf.org/en/news/us-rsf-calls-trump-administration-allow-free-flow-information-coronavirus
-(5)
-
-https://pen.org/journalism-and-covid19/free-press-threatened/
-
-https://rsf.org/en/thematique/internet?page=1&countries%5B183%5D=183
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=United%20States%20of%20America
+ https://perma.cc/E654-2SYC
 
 
-https://cpj.org/americas/usa/
+https://perma.cc/WY8C-PKFH
+
+
+https://perma.cc/ZTP2-T2G9
+
+
+https://perma.cc/ECS7-23C3
+
+
+https://perma.cc/KT4X-TZRS
+
+
+https://perma.cc/982E-3F7D
+
+
+https://perma.cc/57ML-MEYL
+
+
+https://perma.cc/89S8-6MHM
+
+
+https://perma.cc/YP6R-ZM74
 
 
 
@@ -5037,17 +5095,10 @@ https://cpj.org/americas/usa/
  No evidence was found of limitations on access to information. 
 
 *Sources*:
- [1]
-https://rsf.org/en/countries
-
-[2]
-https://ipi.media/covid19-media-freedom-monitoring/
-
-[3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
-
-[4]
-https://cpj.org/americas/uruguay/
+ [1]	perma.cc/AF9M-CP2F
+[2]	perma.cc/F3WW-QFAQ
+[3]	perma.cc/V84L-YRMD
+[4]	perma.cc/K6ZL-MX32
 
 
 
@@ -5072,8 +5123,10 @@ https://cpj.org/americas/uruguay/
  No reports on limiting media access to covid-19 information found. 
 
 *Sources*:
- https://rsf.org/en/uzbekistan
-https://ipi.media/uzbekistan/
+ https://perma.cc/ME3B-49W9
+
+
+https://perma.cc/2JYL-5HA5
 
 
 
@@ -5099,26 +5152,23 @@ https://ipi.media/uzbekistan/
 
 *Sources*:
  [1]
-https://www.theguardian.com/global-development/2020/aug/25/venezuela-coronavirus-covid-death-toll-maracaibo
+perma.cc/9LRH-KYH3
 [2]
-https://www.reuters.com/article/us-health-coronavirus-venezuela-idUSKCN25E05U
-
+perma.cc/8FY3-ZBBV
 [3]
-https://www.dw.com/es/venezuela-ong-denuncia-detenciones-por-informar-sobre-el-coronavirus/a-53366370
+perma.cc/EN39-E5WQ
 [4]
-https://www.hrw.org/es/news/2020/05/26/venezuela-necesita-ayuda-humanitaria-urgente-para-combatir-la-covid-19
+perma.cc/HB8N-7AHZ
 [5]
-https://www.dw.com/es/la-pandemia-en-venezuela-manipulaci%C3%B3n-de-la-informaci%C3%B3n-cementerios-llenos-y-a%C3%BAn-sin-plan-de-vacunaci%C3%B3n/a-57258234
-
+perma.cc/AX7D-G8V3
 [6]
-https://www.amnesty.org/en/latest/news/2020/08/venezuelan-authorities-are-repressing-and-failing-to-protect-health-workers-as-covid-19-gathers-force/
-
+perma.cc/TEQ4-U35A
 [7]
-https://ipi.media/covid19/?alert_type=0&years=0&country=venezuela
+perma.cc/FB8X-B4L6
 [8]
-https://eldiario.com/2021/06/05/en-venezuela-los-datos-de-covid-19-son-un-secreto-de-estado/
+perma.cc/EH2L-UPJV
 [9]
-http://espaciopublico.ong/acceso-a-la-informacion-publica-en-linea-en-tiempos-de-covid-19/
+perma.cc/4HM3-G27X
 
 
 
@@ -5145,16 +5195,10 @@ http://espaciopublico.ong/acceso-a-la-informacion-publica-en-linea-en-tiempos-de
 1: A new decree was introduced in Vietnam on 15 April 2020 introducing fines for the dissemination of ‘fake news’ or rumours on social media. According to the decree, fines are imposed on people who use social media to share false, untruthful, distorted or slanderous information.  2: At least two Facebook users have been given criminal sentences for sharing information deemed to be fake about the virus. The criminal sentences have been up to nine months detention and fines over USD$1000. 
 
 *Sources*:
- https://www.reuters.com/article/us-health-coronavirus-vietnam-security/vietnam-introduces-fake-news-fines-for-coronavirus-misinformation-idUSKCN21X0EB
-
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-
-https://www.amnesty.org/en/latest/news/2020/04/viet-nam-facebook-cease-complicity-government-censorship/
-
-
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25920&LangID=E
+ https://perma.cc/N3CG-QWY4
+https://perma.cc/WP83-GHJZ
+https://perma.cc/ES7Z-526F
+https://perma.cc/WDM2-XBLT
 
 
 
@@ -5179,10 +5223,10 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25920&LangID=E
  No evidence indicating that the government and its agents limits media access to Covid-19 related information was found. 
 
 *Sources*:
- https://rsf.org/en/zambia
-https://ipi.media/zambia
-https://cpj.org/africa/zambia/
-https://www.bbc.co.uk/news/topics/cdl8n2edezlt/zambia
+ https://perma.cc/4ZFC-CDEL
+https://perma.cc/3VFM-5KS9
+https://perma.cc/PHU4-27Z2
+https://perma.cc/83SV-P4VV
 
 
 
@@ -5207,14 +5251,9 @@ https://www.bbc.co.uk/news/topics/cdl8n2edezlt/zambia
  While the overall media environment is constrained, there is no evidence that the government has used Covid-19 regulations to directly limit media access to information about Covid-19. Attacks on journalists reporting about the government response or other news are captured elsewhere. 
 
 *Sources*:
- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648907/
-
-https://rsf.org/en/news/five-zimbabwean-reporters-arrested-while-covering-coronavirus-lockdown
-
-https://rsf.org/en/news/zimbabwe-two-journalists-held-violating-coronavirus-lockdown-rules
-
-https://www.dw.com/en/ugandan-journalists-assaulted-by-security-forces-amid-coronavirus-lockdowns/a-53235644
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://ipi.media/zimbabwe-press-freedom-suffers-under-pandemic/
+ https://perma.cc/H6NG-36TU
+https://perma.cc/D692-XLG4
+https://perma.cc/XKB2-H89J
+https://perma.cc/ETY2-HK8C
+https://perma.cc/7YWD-Y5XA
+https://perma.cc/F4XR-2ZNJ

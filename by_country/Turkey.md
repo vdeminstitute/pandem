@@ -48,25 +48,18 @@ However, ''instead of presidential decrees, all measures in Turkey were taken wi
 The first significant legal measure undertaken was the closure of all schools and universities. While the authority for closing down schools due to a pandemic is subject to the Law on the State of Emergency, the Ministry of National Education declared that it was decided to have an early holiday for a week and transition to distance learning starting from March 23rd 2020. This decision was never published in the Official Gazette but immediately executed. The strictest measures affecting daily life in Turkey have been those taken by the Ministry of Interior. Citing the powers mentioned above conferred by the Law on the Protection of Public Health and the Law on Provincial Administration, the Ministry of Interior in its ministerial circular on March 21 2020 declared a curfew for individuals who are sixty-five years or older, and anyone with a chronic illness, a measure that was executed nationwide as provincial Public Health Councils adopted identical decisions for curfew. ''The measures introduced in this period require a solid normative base which may either be the state of emergency or new laws adopted by the Parliament for directly addressing the situation otherwise in the long term the possibility of arbitrariness may be as destructive as the pandemic itself.'' This ruling through various decrees and announcements has been in place throughout the pandemic, and the legal basis for these within the two legislative instruments has been questionable at several instances. 
 
 *Sources*:
- https://verfassungsblog.de/fighting-Covid-19-legal-powers-risks-and-the-rule-of-law-turkey/
+ https://perma.cc/8UFT-H37Z
 (1)
-
-https://www.anayasa.gov.tr/icsayfalar/basin/kararlarailiskinbasinduyurulari/genelkurul/detay/21.html
+https://perma.cc/HG9X-ECPT
 (2)
-https://www.constituteproject.org/constitution/Turkey_2017.pdf?lang=en
-https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-21-20-intl-hnk/h_f4f5cbe6dd10324a9472dc0d33e2ea63
 
+https://perma.cc/7ZLX-5CUF
+https://perma.cc/Q5PK-LPRU
 https://perma.cc/S8UH-ZAR5
-
 https://perma.cc/7Q6V-N6GR
-
-https://www.garda.com/crisis24/news-alerts/479251/turkey-authorities-to-ease-domestic-Covid-19-related-measures-from-may-17-update-41
-
-https://www.garda.com/crisis24/news-alerts/471696/turkey-government-to-enforce-nationwide-lockdown-april-29-may-17-due-to-Covid-19-activity-update-38
-
-https://verfassungsblog.de/year-one-reflections-on-turkeys-legal-responses-to-the-Covid-19-pandemic/
-
-https://tr.usembassy.gov/Covid-19-information-2/
+https://perma.cc/GH2W-9XLK
+https://perma.cc/9A42-6GPF
+https://perma.cc/Z7P9-QJX3
 
 
 
@@ -110,13 +103,10 @@ Law on Provincial Administration (Law no. 5442)
  Turkey has used the Law on the Protection of Public Health (Law no.1593) and the Law on Provincial Administration (Law no.5442) as legal instruments to implement emergency response. 
 
 *Sources*:
- https://verfassungsblog.de/fighting-Covid-19-legal-powers-risks-and-the-rule-of-law-turkey/
-https://www.constituteproject.org/constitution/Turkey_2017.pdf?lang=en
-
-https://verfassungsblog.de/year-one-reflections-on-turkeys-legal-responses-to-the-Covid-19-pandemic/
-
+ https://perma.cc/K78P-742A
+https://perma.cc/C7SJ-KY6T
+https://perma.cc/VLY2-QQZD
 https://perma.cc/S8UH-ZAR5
-
 https://perma.cc/7Q6V-N6GR
 
 
@@ -156,9 +146,13 @@ https://perma.cc/7Q6V-N6GR
  Turkey has used the Law on the Protection of Public Health (Law no.1593) and the Law on Provincial Administration (Law no.5442) as legal instruments to implement emergency response. The first significant legal measure undertaken was the closure of all schools and universities on March 23rd 2020. The first strict measure to affect daily life in Turkey have been those taken by the Ministry of Interior, who, on March 21 2020 declared a curfew for individuals who are sixty-five years or older, and anyone with a chronic illness, a measure that was executed nationwide as provincial Public Health Councils adopted identical decisions for curfew. This is therefore coded as the starting date. 
 
 *Sources*:
- https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-21-20-intl-hnk/h_f4f5cbe6dd10324a9472dc0d33e2ea63
-https://verfassungsblog.de/fighting-Covid-19-legal-powers-risks-and-the-rule-of-law-turkey/
-https://www.bloomberg.com/news/articles/2020-03-21/turkey-imposing-curfew-for-people-over-age-65-at-midnight
+ https://perma.cc/X7ZQ-UXQY
+
+
+https://perma.cc/RWH7-YCY7
+
+
+https://perma.cc/QK72-2LGN
 
 
 
@@ -197,14 +191,19 @@ https://www.bloomberg.com/news/articles/2020-03-21/turkey-imposing-curfew-for-pe
  Implementation of legal instrument has not ended by time of coding. In May 2021, Turkey started easing some restrictions, but curfews are still in place. 
 
 *Sources*:
- https://tr.usembassy.gov/Covid-19-information-2/
-https://www.garda.com/crisis24/news-alerts/479251/turkey-authorities-to-ease-domestic-Covid-19-related-measures-from-may-17-update-41
+ https://perma.cc/XN2B-CZCJ
 
-https://www.garda.com/crisis24/news-alerts/471696/turkey-government-to-enforce-nationwide-lockdown-april-29-may-17-due-to-Covid-19-activity-update-38
 
-https://verfassungsblog.de/year-one-reflections-on-turkeys-legal-responses-to-the-Covid-19-pandemic/
+https://perma.cc/GF3E-2UMA
 
-https://tr.usembassy.gov/Covid-19-information-2/
+
+https://perma.cc/G24N-QHY4
+
+
+https://perma.cc/7Z73-SH5U
+
+
+https://perma.cc/QE78-ANSC
 
 
 
@@ -246,18 +245,13 @@ https://tr.usembassy.gov/Covid-19-information-2/
  Turkey has implemented several different and gradual measures in its Covid-19 emergency response. These were issued mainly through ministerial circulars, and the end date of most of them could not be found, or was announced later by the Minister of Interior. For instance, Turkey has announced that they will ease their restrictions as of May 2021, but no time limit for the current restrictions are set. This has been the case throughout the coded period, and generally the time limits of various measures have not been set. This is therefore coded 0 for all periods. 
 
 *Sources*:
- https://verfassungsblog.de/fighting-Covid-19-legal-powers-risks-and-the-rule-of-law-turkey/
-https://www.reuters.com/article/us-health-coronavirus-turkey-measures-idUSKBN21L2SC
-
-https://www.garda.com/crisis24/news-alert-full-history/s3ykQoBkeuRRHErpJ/turkey-country-closes-border-with-iran-halts-incoming-flights-over-Covid-19-february-23
-
-https://www.garda.com/crisis24/news-alerts/479251/turkey-authorities-to-ease-domestic-Covid-19-related-measures-from-may-17-update-41
-
-https://www.garda.com/crisis24/news-alerts/471696/turkey-government-to-enforce-nationwide-lockdown-april-29-may-17-due-to-Covid-19-activity-update-38
-
-https://verfassungsblog.de/year-one-reflections-on-turkeys-legal-responses-to-the-Covid-19-pandemic/
-
-https://tr.usembassy.gov/Covid-19-information-2/
+ https://perma.cc/79H8-67AE
+https://perma.cc/3SPX-26H9
+https://web.archive.org/web/20200413122752/https://www.garda.com/crisis24/news-alert-full-history/s3ykQoBkeuRRHErpJ/turkey-country-closes-border-with-iran-halts-incoming-flights-over-Covid-19-february-23
+https://perma.cc/D5XK-82MB
+https://perma.cc/PGK4-2GMG
+https://perma.cc/9EUX-GCP3
+https://perma.cc/3A3S-MXE3
 
 
 
@@ -296,18 +290,13 @@ https://tr.usembassy.gov/Covid-19-information-2/
  Turkey has implemented several different and gradual measures in its Covid-19 emergency response. These were issued mainly through ministerial circulars, and the end date of most of them could not be found, or was announced later by the Minister of Interior. For instance, Turkey has announced that they will ease their restrictions as of May 2021, but no time limit for the current restrictions are set. This has been the case throughout the coded period, and generally the time limits of various measures have not been set. 
 
 *Sources*:
- https://verfassungsblog.de/fighting-Covid-19-legal-powers-risks-and-the-rule-of-law-turkey/
-https://www.reuters.com/article/us-health-coronavirus-turkey-measures-idUSKBN21L2SC
-
-https://www.garda.com/crisis24/news-alert-full-history/s3ykQoBkeuRRHErpJ/turkey-country-closes-border-with-iran-halts-incoming-flights-over-Covid-19-february-23
-
-https://www.garda.com/crisis24/news-alerts/479251/turkey-authorities-to-ease-domestic-Covid-19-related-measures-from-may-17-update-41
-
-https://www.garda.com/crisis24/news-alerts/471696/turkey-government-to-enforce-nationwide-lockdown-april-29-may-17-due-to-Covid-19-activity-update-38
-
-https://verfassungsblog.de/year-one-reflections-on-turkeys-legal-responses-to-the-Covid-19-pandemic/
-
-https://tr.usembassy.gov/Covid-19-information-2/
+ https://perma.cc/79H8-67AE
+https://perma.cc/3SPX-26H9
+https://perma.cc/PDJ2-REV9
+https://perma.cc/D5XK-82MB
+https://perma.cc/PGK4-2GMG
+https://perma.cc/9EUX-GCP3
+https://perma.cc/3A3S-MXE3
 
 
 
@@ -350,14 +339,21 @@ https://tr.usembassy.gov/Covid-19-information-2/
 Law on the Protection of Public Health (Law no.1593) also does not seem to need parliamentary approval: ''the General Hygiene Law (Umumi Hıfzıssıhha Kanunu) No. 1593 is accepted as the constitution of healthcare services. The Law allows for quarantine application within the scope of “combating contagious and epidemic diseases”. Isolation practices and the quarantine of a certain region are described in Article 72. Authority to decide on quarantine implementation and other measures within the scope of combating epidemic diseases is given to the Ministry of Health for the country in general by the Article 64 of the Law numbered 1593.'' (4) 
 
 *Sources*:
- https://verfassungsblog.de/fighting-Covid-19-legal-powers-risks-and-the-rule-of-law-turkey/
-https://www.constituteproject.org/constitution/Turkey_2017.pdf?lang=en
-https://www.venice.coe.int/webforms/documents/default.aspx?pdffile=CDL-REF(2016)028-e
+ https://perma.cc/EP4H-A9RV
+
+
+https://perma.cc/RD7D-EGPL
+
+
+https://perma.cc/56UC-6AGJ
 (3)
-https://journals.tubitak.gov.tr/medical/issues/sag-20-50-si-1/sag-50-si-1-9-2004-153.pdf
+
+
+https://perma.cc/H2WP-AZDH
 (4)
 
-https://verfassungsblog.de/year-one-reflections-on-turkeys-legal-responses-to-the-Covid-19-pandemic/
+
+https://perma.cc/54HS-3NJB
 
 
 
@@ -399,9 +395,10 @@ https://verfassungsblog.de/year-one-reflections-on-turkeys-legal-responses-to-th
  All measures in Turkey were taken with administrative decisions generally in the form of presidential or ministerial circulars (legally atypical regulatory acts are almost at the bottom of the hierarchy of norms, and they cannot be contrary to laws and regulations. Typically, circulars are issued only for clarifying provisions of laws and regulations.) None of the decisions except one declared directly by the Presidency were published in the Official Gazette and most legal professionals, let alone ordinary citizens, would have a difficult time finding the original texts of these circulars and decisions.'' 
 
 *Sources*:
- https://verfassungsblog.de/fighting-Covid-19-legal-powers-risks-and-the-rule-of-law-turkey/
+ https://perma.cc/E97A-FS9Z
 
-https://verfassungsblog.de/year-one-reflections-on-turkeys-legal-responses-to-the-Covid-19-pandemic/
+
+https://perma.cc/L9PL-THY6
 
 
 
@@ -448,14 +445,13 @@ https://verfassungsblog.de/year-one-reflections-on-turkeys-legal-responses-to-th
 The Turkish constitution allows for the declaration of a state of emergency (as does the Law on the State of Emergency [Law no. 2935]), but such action requires that all emergency presidential decrees be sent to Parliament the same day, debated and resolved within three months otherwise they are considered repealed. Turkey has not adopted a state of emergency, rather the executive has issued decrees with reference to ordinary laws -- Law on the Protection of Public Health (Law no. 1593) and the Law on Provincial Administration (Law no. 5442) -- thereby avoiding legislative approval. A prior Constitutional Court judgement in 2016 allows for vague adoption of measures related to emergencies. Thus, the government has ruled by decree on a wide set of issues and with no clear demarcation toward only relating to Covid-19 measures. This has been the situation throughout the pandemic, and Turkey has in several instances been criticized for also using overly broad interpretations of what the laws they rely on allow, as well as implementing and announcing measures in ways inconsistent with the regular and established process. Thus, this is coded as 3 for all time periods. 
 
 *Sources*:
- https://www.hurriyetdailynews.com/turkish-parliament-to-open-for-fourth-legislative-session-with-virus-measures-158723
-https://www.dailysabah.com/politics/diplomacy/turkeys-parliament-resumes-work-under-new-normal-after-48-days
-https://www.hurriyetdailynews.com/turkish-parliament-suspends-work-after-increase-in-Covid-19-cases-on-premises-156038
-https://www.hurriyetdailynews.com/turkish-parliament-goes-on-recess-until-end-of-may-due-to-Covid-19-153926
-https://www.hurriyetdailynews.com/turkish-parliament-to-re-convene-with-busy-agenda-155240
-https://verfassungsblog.de/fighting-Covid-19-legal-powers-risks-and-the-rule-of-law-turkey/
-
-https://verfassungsblog.de/year-one-reflections-on-turkeys-legal-responses-to-the-Covid-19-pandemic/
+ https://perma.cc/A9E5-X57Q
+https://perma.cc/EDB7-AHBB
+https://perma.cc/WYR5-ALLZ
+https://perma.cc/QSF6-VPB7
+https://perma.cc/E32Q-VDX6
+https://perma.cc/L734-LJ2W
+https://perma.cc/6958-LYTA
 
 
 
@@ -577,15 +573,22 @@ https://verfassungsblog.de/year-one-reflections-on-turkeys-legal-responses-to-th
  The Turkish government durign Q2 of 2020 imposed curfews and lockdowns differently across the country, with stronger restrictions in highly populated areas. For example, on March 30, April 4, April 10, April 18 etc in 2020., different areas and cities were put under quarantine, lockdown, or were obliged to introduced mandatory face masks. In the later periods, however,  became uniform and nationwide, and all extensive measures such as curfews, lockdowns, closing of businesses and the like have been taken at the national level. 
 
 *Sources*:
- https://tr.usembassy.gov/Covid-19-information-2/
-https://www.garda.com/crisis24/news-alert-full-history/s3ykQoBkeuRRHErpJ/turkey-country-closes-border-with-iran-halts-incoming-flights-over-Covid-19-february-23
-https://www.acaps.org/covid19-government-measures-dataset
+ https://perma.cc/FWR4-ASHN
 
-https://www.garda.com/crisis24/news-alerts/485291/turkey-government-to-further-ease-domestic-Covid-19-related-measures-from-june-1-update-42
 
-https://www.garda.com/crisis24/news-alerts/471696/turkey-government-to-enforce-nationwide-lockdown-april-29-may-17-due-to-Covid-19-activity-update-38
+https://perma.cc/9G9L-3X9W
 
-https://www.garda.com/crisis24/news-alerts/449486/turkey-authorities-ease-certain-Covid-19-related-domestic-restrictions-as-of-march-1-update-33
+
+https://perma.cc/Y4C5-HHWB
+
+
+https://perma.cc/F9JB-QE7D
+
+
+https://perma.cc/E4X9-7M5Q
+
+
+https://perma.cc/Y4U9-6FWG
 
 
 
@@ -629,14 +632,12 @@ https://www.garda.com/crisis24/news-alerts/449486/turkey-authorities-ease-certai
  There seem to be no discriminating elements in the measures taken in reference to Covid-19, and no reports on any discrimination within the emergency measures are reported by Amnesty International or Human Rights Watch. Therefore, this variable is coded as 0. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-https://www.hrw.org/europe/central-asia/turkey
-https://www.amnesty.org/en/search/?country=38514&resourceType=newsarticle&sort=date
-https://www.amnesty.org/en/get-involved/take-action/turkey-Covid-19-prisoners-release/
-
-https://www.amnesty.org/en/countries/europe-and-central-asia/turkey/report-turkey/
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/turkey/
+ https://perma.cc/X4B3-VD5Y
+https://perma.cc/V9SC-U5S4
+https://perma.cc/AC7A-LBPG
+https://web.archive.org/web/20200405064009/https://www.amnesty.org/en/get-involved/take-action/turkey-Covid-19-prisoners-release/
+https://perma.cc/4DK2-MDXY
+https://perma.cc/SE59-FSDW
 
 
 
@@ -685,13 +686,19 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tur
  No reports have been found that non-derogable rights have been violated in the measures taken in reference to Covid-19, and no reports on any such violations in the enacted measures are reported by Amnesty International or Human Rights Watch. Therefore, this variable is coded as 0. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-https://www.hrw.org/europe/central-asia/turkey
-https://www.amnesty.org/en/search/?country=38514&resourceType=newsarticle&sort=date
+ https://perma.cc/US6M-JG7L
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/turkey/
 
-https://www.amnesty.org/en/countries/europe-and-central-asia/turkey/report-turkey/
+https://perma.cc/P3BW-E4KQ
+
+
+https://perma.cc/262P-WJGC
+
+
+https://perma.cc/EAG5-NSRP
+
+
+https://perma.cc/D3G5-L7LJ
 
 
 
@@ -735,23 +742,20 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/turkey/report-turke
  There are no reports found that any of the emergency measures places any de jure limitations on media. While media freedom is heavily restricted in Turkey, and harassment is on-going during the pandemic, there are no reports that any de jure limitations have been imposed as a part of Covid-19 measures, or during the pandemic. Other, already existing legal instruments for prosecuting journalists, such as Turkey’s terrorist law, has been in continued used during the pandemic however. 
 
 *Sources*:
- http://constitutionnet.org/state-of-emergency
-https://rsf.org/en/news/nearly-half-un-member-countries-have-obstructed-coronavirus-coverage
-https://tr.usembassy.gov/Covid-19-information-2/
-https://www.garda.com/crisis24/news-alert-full-history/s3ykQoBkeuRRHErpJ/turkey-country-closes-border-with-iran-halts-incoming-flights-over-Covid-19-february-23
-https://www.acaps.org/covid19-government-measures-dataset
+ https://perma.cc/H48B-H64R
+https://perma.cc/NQE7-EY3P
+https://perma.cc/8W3L-4ZGC
+https://web.archive.org/web/20200413122752/https://www.garda.com/crisis24/news-alert-full-history/s3ykQoBkeuRRHErpJ/turkey-country-closes-border-with-iran-halts-incoming-flights-over-Covid-19-february-23
 
-https://rsf.org/en/news/journalists-threatened-imprisonment-under-turkeys-terrorism-law
+https://perma.cc/8RZS-NQ9Q
+https://perma.cc/WHQ9-H8GM
+https://perma.cc/3KN8-SL9E
+https://perma.cc/FV4T-RGGP
+https://perma.cc/DD6K-D5NF
 
-https://rsf.org/en/news/turkey-press-freedom-figures
 
-https://cpj.org/europe/turkey/
-
-https://www.arabnews.com/node/1853106/media
-
-https://www.amnesty.org/en/latest/news/2021/04/can-independent-journalism-fight-back-in-turkey/
-
-https://www.amnesty.org/en/countries/europe-and-central-asia/turkey/report-turkey/
+https://perma.cc/ZV8Z-RTDV
+https://perma.cc/4T9H-8V93
 
 
 
@@ -872,37 +876,24 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/turkey/report-turke
 In addition, Turkey's government passed a new law censoring social media and digital networks in July, which came into effect in October 1 2020. The law considerably strengthens authorities' control over social networks and threatens the presence of Twitter and Facebook in the country if they do not obey requests to remove contentious content. The legislation means social networks with more than a million unique connections per day must have a representative in Turkey, and platforms will also have to obey Turkish court orders to remove content that's reported as offensive by either individuals or the government within 48 hours. Failure to do so could lead to fines of up to €4.3 million or restrictions on bandwidth, blocking access to the platform. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/05/turkey-covid19-pandemic-increases-climate-of-fear-for-journalists/
-
-https://rsf.org/en/news/turkish-journalists-arrested-reporting-Covid-19-cases
-
-https://rsf.org/en/news/nearly-half-un-member-countries-have-obstructed-coronavirus-coverage
-
-https://www.amnesty.org/en/latest/campaigns/2020/06/turkey-stifling-free-expression-during-the-covid19-pandemic/
-
-https://www.dusun-think.net/wp-content/uploads/2020/08/Freedom-of-Expression-Violations-in-Turkey-Report-July-2020.pdf
-
-https://www.ifj.org/media-centre/news/detail/category/press-releases/article/Covid-19-pandemic-threatens-press-freedom.html
-https://www.ecoi.net/en/document/2039364.html
-
-https://www.hrw.org/news/2020/07/27/turkey-social-media-law-will-increase-censorship
-https://www.euronews.com/2020/10/01/turkish-law-tightening-rules-on-social-media-comes-into-effect
-https://balkaninsight.com/2020/11/12/turkish-government-is-tightening-media-censorship-report-says/
-https://mailchi.mp/media4democracy/2020-03-rapor
-
-https://rsf.org/en/news/journalists-threatened-imprisonment-under-turkeys-terrorism-law
-
-https://rsf.org/en/news/turkey-press-freedom-figures
-
-https://cpj.org/europe/turkey/
-
-https://www.arabnews.com/node/1853106/media
-
-https://www.amnesty.org/en/latest/news/2021/04/can-independent-journalism-fight-back-in-turkey/
-
-https://www.amnesty.org/en/countries/europe-and-central-asia/turkey/report-turkey/
-
-https://ipi.media/alerts/court-bans-access-to-reporting-on-Covid-19-positive-cases-among-workers-in-a-pasta-factory/
+ https://perma.cc/725C-6DNG
+https://perma.cc/9VQT-R3WY
+https://perma.cc/5FQY-3JQQ
+https://perma.cc/F6C6-382Q
+https://perma.cc/8RX6-ZVH8
+https://perma.cc/A879-SRQX
+https://perma.cc/PW2W-4WUZ
+https://perma.cc/T68S-3E29
+https://perma.cc/VZ68-8EXG
+https://perma.cc/D24Z-PZZP
+https://perma.cc/4HXS-KBJB
+https://perma.cc/5M8A-MA5V
+https://perma.cc/9YY7-B66R
+https://perma.cc/7B4Y-J75F
+https://perma.cc/V8HE-6KMJ
+https://perma.cc/K766-VPP3
+https://perma.cc/UB6J-R9V4
+https://perma.cc/27YW-RCDZ
 
 
 
@@ -945,41 +936,24 @@ https://ipi.media/alerts/court-bans-access-to-reporting-on-Covid-19-positive-cas
 In addition, Turkey's government passed a new law censoring social media and digital networks in July, which came into effect in October 1. The law considerably strengthens authorities' control over social networks and threatens the presence of Twitter and Facebook in the country if they do not obey requests to remove contentious content. The legislation means social networks with more than a million unique connections per day must have a representative in Turkey, and platforms will also have to obey Turkish court orders to remove content that's reported as offensive by either individuals or the government within 48 hours. Failure to do so could lead to fines of up to €4.3 million or restrictions on bandwidth, blocking access to the platform. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/05/turkey-covid19-pandemic-increases-climate-of-fear-for-journalists/
-
-https://rsf.org/en/news/turkish-journalists-arrested-reporting-Covid-19-cases
-
-https://rsf.org/en/news/nearly-half-un-member-countries-have-obstructed-coronavirus-coverage
-
-https://www.amnesty.org/en/latest/campaigns/2020/06/turkey-stifling-free-expression-during-the-covid19-pandemic/
-
-https://www.dusun-think.net/wp-content/uploads/2020/08/Freedom-of-Expression-Violations-in-Turkey-Report-July-2020.pdf
-
-https://www.ifj.org/media-centre/news/detail/category/press-releases/article/Covid-19-pandemic-threatens-press-freedom.html
-https://www.ecoi.net/en/document/2039364.html
-
-https://www.hrw.org/news/2020/07/27/turkey-social-media-law-will-increase-censorship
-https://www.euronews.com/2020/10/01/turkish-law-tightening-rules-on-social-media-comes-into-effect
-https://balkaninsight.com/2020/11/12/turkish-government-is-tightening-media-censorship-report-says/
-https://mailchi.mp/media4democracy/2020-03-rapor
-
-https://rsf.org/en/news/journalists-threatened-imprisonment-under-turkeys-terrorism-law
-
-https://rsf.org/en/news/turkey-press-freedom-figures
-
-https://cpj.org/europe/turkey/
-
-https://www.arabnews.com/node/1853106/media
-
-https://www.amnesty.org/en/latest/news/2021/04/can-independent-journalism-fight-back-in-turkey/
-
-https://www.amnesty.org/en/countries/europe-and-central-asia/turkey/report-turkey/
-
-https://ipi.media/alerts/court-bans-access-to-reporting-on-Covid-19-positive-cases-among-workers-in-a-pasta-factory/
-
-https://ipi.media/alerts/journalist-summoned-to-questioning-after-an-article-on-discriminative-Covid-19-measures/
-
-https://ipi.media/alerts/turkeys-media-regulatory-body-pressures-tv-channels-not-to-air-footage-of-over-crowded-congresses-by-the-ruling-akp/
+ https://perma.cc/725C-6DNG
+https://perma.cc/9VQT-R3WY
+https://perma.cc/5FQY-3JQQ
+https://perma.cc/F6C6-382Q
+https://perma.cc/8RX6-ZVH8
+https://perma.cc/A879-SRQX
+https://perma.cc/PW2W-4WUZ
+https://perma.cc/T68S-3E29
+https://perma.cc/VZ68-8EXG
+https://perma.cc/D24Z-PZZP
+https://perma.cc/4HXS-KBJB
+https://perma.cc/5M8A-MA5V
+https://perma.cc/9YY7-B66R
+https://perma.cc/7B4Y-J75F
+https://perma.cc/V8HE-6KMJ
+https://perma.cc/K766-VPP3
+https://perma.cc/UB6J-R9V4
+https://perma.cc/27YW-RCDZ
 
 
 
@@ -1021,21 +995,16 @@ https://ipi.media/alerts/turkeys-media-regulatory-body-pressures-tv-channels-not
  While there are de facto limitations as a consequence of or in relation to the pandemic, and many reports on journalists being charged with criminal offences for investigative reporting, no case has been found where the Turkish government or its agents have justified such acts of charging journalists for reporting on non-Covid-19 related news with any reference to the pandemic during Q2 and Q3 of 2020. However, in Q4 of 2020, there are reports that journalists were banned by a court from reporting of a case of illegal construction on a historic site, claiming Covid-19 being the reason. The paper that initially reported on this ban was also subject to a 3-day ban on operating. Therefore, this is coded 1 for Q4 of 2020. After this, however, no such limitations referencing Covid-19 has been found, and this is coded as 0 for Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/05/turkey-covid19-pandemic-increases-climate-of-fear-for-journalists/
-https://rsf.org/en/news/turkish-journalists-arrested-reporting-Covid-19-cases
-https://rsf.org/en/news/regulators-gradually-imposing-official-line-monopoly-turkeys-media
-https://rsf.org/en/news/nearly-half-un-member-countries-have-obstructed-coronavirus-coverage
-https://rsf.org/en/news/journalists-threatened-imprisonment-under-turkeys-terrorism-law
-
-https://rsf.org/en/news/turkey-press-freedom-figures
-
-https://cpj.org/europe/turkey/
-
-https://www.amnesty.org/en/latest/news/2021/04/can-independent-journalism-fight-back-in-turkey/
-
-https://www.amnesty.org/en/countries/europe-and-central-asia/turkey/report-turkey/
-
-https://ipi.media/alerts/daily-birgun-receives-3-day-public-ad-ban-over-a-Covid-19-related-article/
+ https://perma.cc/XSC5-LLA9
+https://perma.cc/2CLW-TWMH
+https://perma.cc/N8BC-3BXR
+https://perma.cc/48BF-XV9P
+https://perma.cc/5V2D-96SK
+https://perma.cc/DD8C-45PT
+https://perma.cc/FZ6N-B2WR
+https://perma.cc/3Y4C-KJCX
+https://perma.cc/A5HT-XZC6
+https://perma.cc/R635-4G9F
 
 
 
@@ -1078,38 +1047,23 @@ https://ipi.media/alerts/daily-birgun-receives-3-day-public-ad-ban-over-a-Covid-
  Much of the arrests of journalists, and charges placed on them, have been based on journalists accessing information from hospitals or hospital staff on Covid-19 which the government do not want them publishing and spreading. The Turkish government has more or less closed all access to information on Covid-19 according to Reporters without Borders and Amnesty International, and only wish the media to report on the information on Covid-19 released by the government itself. Furthermore, there are numerous accusations that the Turkish government have delibirately underreported the number of Covid-19 cases in the country. While there isn't as much reporting on this after the summer of 2020, there are no indications that the access to information has improved, and the media climate is still very restrictive and limited. This is therefore coded as 2 for all periods. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://www.amnesty.org/en/latest/news/2020/05/turkey-covid19-pandemic-increases-climate-of-fear-for-journalists/
-
-https://rsf.org/en/news/turkish-journalists-arrested-reporting-Covid-19-cases
-
-https://rsf.org/en/news/regulators-gradually-imposing-official-line-monopoly-turkeys-media
-
-https://www.nytimes.com/2020/04/20/world/middleeast/coronavirus-turkey-deaths.html
-
-https://www.fdd.org/analysis/2020/04/24/erdogans-Covid-19-cover-up/
-
-https://www.hrw.org/news/2020/06/10/turkey-probes-over-doctors-Covid-19-comments
-https://www.ecoi.net/en/document/2039364.html
-
-https://projects.voanews.com/covering-covid19/english/journalist/turkey-ahmet-kanbal.html
-
-https://rsf.org/en/news/journalists-threatened-imprisonment-under-turkeys-terrorism-law
-
-https://rsf.org/en/news/turkey-press-freedom-figures
-
-https://cpj.org/europe/turkey/
-
-https://www.amnesty.org/en/latest/news/2021/04/can-independent-journalism-fight-back-in-turkey/
-
-https://www.amnesty.org/en/countries/europe-and-central-asia/turkey/report-turkey/
-
-https://www.aljazeera.com/news/2021/4/14/what-is-the-real-extent-of-turkeys-covid-crisis
-
+ https://perma.cc/W6QN-TEEX
+https://perma.cc/HEP6-EBKZ
+https://perma.cc/753X-BGPX
+https://perma.cc/6DAK-MDGP
+https://perma.cc/T36X-YY8T
+https://perma.cc/DU4B-V6X4
+https://perma.cc/45MR-BN4F
+https://perma.cc/6ZHA-8KLE
+https://perma.cc/ZL2P-XVRR
+https://perma.cc/4Y5E-GNLM
+https://perma.cc/QXK6-L99L
+https://perma.cc/JF64-5WTR
+https://perma.cc/U4D9-LCWU
+https://perma.cc/Q6JN-7D5B
+https://perma.cc/FJW2-BW2J
 https://www.ft.com/content/5307a438-f083-4f7f-a1da-5b0a0eaa6047
-
-https://ipi.media/alerts/yoltv-correspondent-removed-from-health-ministry-communications-group-after-critical-question-of-erdogans-event-amid-pandemic/
-
+https://perma.cc/D5N2-FNW7
 
 
 
@@ -1151,34 +1105,23 @@ https://ipi.media/alerts/yoltv-correspondent-removed-from-health-ministry-commun
  Several reporters that have published or researched issues on Covid-19 have been subject to police investigation and interrogation. However, these reports are only from Q2 of 2020, and no later reports of such arrests related to Covid-19 has been found (although journalists in Turkey are subject to threats that are not related to Covid-19 throughout the period). This is therefore coded 1 for Q2 of 2020, and 0 for the other periods. 
 
 *Sources*:
- https://www.arabnews.com/node/1753071/media
-https://www.coe.int/en/web/media-freedom/all-alerts?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-4&p_p_col_count=1&_sojdashboard_WAR_coesojportlet_keywords=&_sojdashboard_WAR_coesojportlet_selectedStringFilters=&_sojdashboard_WAR_coesojportlet_selectedCategories=12093570,11709464,11709462,11709592
-https://ipi.media/covid19-media-freedom-monitoring/
-https://www.amnesty.org/en/latest/news/2020/05/turkey-covid19-pandemic-increases-climate-of-fear-for-journalists/
+ https://perma.cc/78VP-XJTH
+https://perma.cc/V963-RJCY
+https://perma.cc/JBB5-LBQU
+https://perma.cc/9HKY-N8KM
+https://perma.cc/R6XS-PQYP
+https://perma.cc/7ABG-RAUH
+https://perma.cc/DN9Q-DZV2
+https://perma.cc/7U6N-XF34
+https://perma.cc/DG4M-XT7J
+https://perma.cc/34TP-DHB9
+https://perma.cc/Y7DR-4FNL
+https://perma.cc/T3XE-57QS
 
-https://rsf.org/en/news/turkish-journalists-arrested-reporting-Covid-19-cases
-
-https://rsf.org/en/news/regulators-gradually-imposing-official-line-monopoly-turkeys-media
-
-https://www.amnesty.org/en/latest/campaigns/2020/06/turkey-stifling-free-expression-during-the-covid19-pandemic/
-
-https://www.dusun-think.net/wp-content/uploads/2020/08/Freedom-of-Expression-Violations-in-Turkey-Report-July-2020.pdf
-
-https://www.ifj.org/media-centre/news/detail/category/press-releases/article/Covid-19-pandemic-threatens-press-freedom.html
-
-http://bianet.org/english/freedom-of-expression/230023-press-freedom-in-turkey-journalists-could-not-breathe-in-august-either
-
-https://projects.voanews.com/covering-covid19/english/journalist/turkey-ahmet-kanbal.html
-
-https://rsf.org/en/news/journalists-threatened-imprisonment-under-turkeys-terrorism-law
-
-https://rsf.org/en/news/turkey-press-freedom-figures
-
-https://cpj.org/europe/turkey/
-
-https://www.amnesty.org/en/latest/news/2021/04/can-independent-journalism-fight-back-in-turkey/
-
-https://www.amnesty.org/en/countries/europe-and-central-asia/turkey/report-turkey/
+https://perma.cc/2A9D-M5VS
+https://perma.cc/65PK-7HK9
+https://perma.cc/V4EU-DEHW
+https://perma.cc/X332-ZUHP
 
 
 
@@ -1220,34 +1163,23 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/turkey/report-turke
  Turkey has arrested and detained several journalists for their reporting on Covid-19. However, these reports are only from Q2 of 2020, and no later reports of such arrests related to Covid-19 has been found (although journalists in Turkey are subject to arrests that are not related to Covid-19 throughout the period). This is therefore coded 1 for Q2 of 2020, and 0 for the other periods. 
 
 *Sources*:
- https://www.arabnews.com/node/1753071/media
-https://www.coe.int/en/web/media-freedom/all-alerts?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-4&p_p_col_count=1&_sojdashboard_WAR_coesojportlet_keywords=&_sojdashboard_WAR_coesojportlet_selectedStringFilters=&_sojdashboard_WAR_coesojportlet_selectedCategories=12093570,11709464,11709462,11709592
-https://ipi.media/covid19-media-freedom-monitoring/
-https://www.amnesty.org/en/latest/news/2020/05/turkey-covid19-pandemic-increases-climate-of-fear-for-journalists/
+ https://perma.cc/78VP-XJTH
+https://perma.cc/V963-RJCY
+https://perma.cc/JBB5-LBQU
+https://perma.cc/9HKY-N8KM
+https://perma.cc/R6XS-PQYP
+https://perma.cc/7ABG-RAUH
+https://perma.cc/DN9Q-DZV2
+https://perma.cc/7U6N-XF34
+https://perma.cc/DG4M-XT7J
+https://perma.cc/34TP-DHB9
+https://perma.cc/Y7DR-4FNL
+https://perma.cc/T3XE-57QS
 
-https://rsf.org/en/news/turkish-journalists-arrested-reporting-Covid-19-cases
-
-https://rsf.org/en/news/regulators-gradually-imposing-official-line-monopoly-turkeys-media
-
-https://www.amnesty.org/en/latest/campaigns/2020/06/turkey-stifling-free-expression-during-the-covid19-pandemic/
-
-https://www.dusun-think.net/wp-content/uploads/2020/08/Freedom-of-Expression-Violations-in-Turkey-Report-July-2020.pdf
-
-https://www.ifj.org/media-centre/news/detail/category/press-releases/article/Covid-19-pandemic-threatens-press-freedom.html
-
-http://bianet.org/english/freedom-of-expression/230023-press-freedom-in-turkey-journalists-could-not-breathe-in-august-either
-
-https://projects.voanews.com/covering-covid19/english/journalist/turkey-ahmet-kanbal.html
-
-https://rsf.org/en/news/journalists-threatened-imprisonment-under-turkeys-terrorism-law
-
-https://rsf.org/en/news/turkey-press-freedom-figures
-
-https://cpj.org/europe/turkey/
-
-https://www.amnesty.org/en/latest/news/2021/04/can-independent-journalism-fight-back-in-turkey/
-
-https://www.amnesty.org/en/countries/europe-and-central-asia/turkey/report-turkey/
+https://perma.cc/2A9D-M5VS
+https://perma.cc/65PK-7HK9
+https://perma.cc/V4EU-DEHW
+https://perma.cc/X332-ZUHP
 
 
 
@@ -1291,20 +1223,16 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/turkey/report-turke
  In general, the Turkish Government's official guidelines conform to the WHO, but it has recommend treatments with hydroxychloroquine. For example has the Health Minister attributed Turkey’s at the time comparatively low death rate in part to the use of hydroxychloroquine. Furthermore, Hydroxychloroquine was removed from the official Covid-19 treatment plan on 2021-05-07, but was in place throughout the pandemic before that, and seems to have been used through the period as well. This is therefore coded as 2 for all time periods. Note also that Turkey has underreported cases to a large extent, which is not the result of limited test capacity or the like, but underreporting through using a definition of Covid-19 case that does not concur with the one used by WHO, which the government itself admitted to in October of 2020. However, this underreporting does not suffice to increase the coding to 3, and this is still coded as 2 therefore. 
 
 *Sources*:
- https://covid19bilgi.saglik.gov.tr/tr/
-https://covid19.saglik.gov.tr
-https://tr.usembassy.gov/Covid-19-information-2/https://www.bbc.com/news/world-europe-52831017
-https://bianet.org/english/health/230676-turkey-begins-distributing-hydroxychloroquine-to-homes-in-capital-city-amid-bed-shortage
-https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/early-hydroxychloroquine-helps-virus-patients-study/1898810
-
-
-https://www.aljazeera.com/news/2021/4/14/what-is-the-real-extent-of-turkeys-covid-crisis
-
-https://www.ft.com/content/5307a438-f083-4f7f-a1da-5b0a0eaa6047
-
-https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01098-9/fulltext?rss=yes
-
-https://www.duvarenglish.com/turkeys-top-medical-association-asks-health-ministry-to-share-reasons-behind-hydroxychloroquines-removal-from-Covid-19-treatment-plan-news-57449
+ https://perma.cc/HQ43-AZVS
+https://perma.cc/SW6Y-D6PY
+https://perma.cc/5DH3-Z5KA
+https://perma.cc/ZT5X-GMGG
+https://perma.cc/BM2X-ZYE6
+https://perma.cc/8GX9-4GNP
+https://perma.cc/5HVY-YWGK
+https://perma.cc/KM9Q-KWHA
+https://doi.org/10.1016/S0140-6736(21)01098-9
+https://perma.cc/A4BG-8RQP
 
 
 
@@ -1348,25 +1276,18 @@ https://www.duvarenglish.com/turkeys-top-medical-association-asks-health-ministr
  In April of 2020, a refugee was shot to death by law enforcement when running away from a Covid-19 check point. As this was lethal violence related to Covid-19 measures, this is coded as 2 for Q2 of 2020. For this and other period, there are also some reports that the Turkish police have used force (tear gas, rubber bullets and detentions) when trying to stop HDP demonstrations against the government. Stopping these demonstrations have been made with reference to Covid-19, that the demonstrations contribute to spreading the disease and therefore needs to be stopped. Other types of demonstrations have been met with force from authorities, who stop them referrecning Covid-19. The force seem to in several instances have been excessive, although no reports of lethal violence has been found. There is also one report by Human Rights Watch that states that there are a few reported instances where police have used excessive force when for example scattering or fining people in areas for not following Covid-19 regulations. These are however the only reports of such violence in enforcing the measures that have been found, and it seems to be relatively infrequent. Note also that there has been other instances of police violence in Turkey during the period, but this has not been in relation or reference to Covid-19. This is therefore coded 1 for all periods after Q2 of 2020. 
 
 *Sources*:
- https://www.theguardian.com/world/2020/jun/24/hopes-fade-for-unity-in-turkish-opposition-to-erdogan
-https://www.arabnews.com/node/1690931/middle-east
-https://english.alarabiya.net/en/News/middle-east/2020/06/15/Police-fire-tear-gas-on-pro-Kurdish-protesters-in-northwest-Turkey
-https://english.alaraby.co.uk/english/news/2020/6/15/turkish-police-fire-tear-gas-on-pro-kurdish-rally-
-https://www.hrw.org/news/2020/07/29/turkey-police-watchmen-involved-torture-ill-treatment
-https://www.garda.com/crisis24/news-alerts/338121/turkey-dozens-arrested-during-may-day-rallies-in-istanbul-and-ankara-may-1-update-19
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/turkey/
-
-https://english.alaraby.co.uk/news/turkey-police-shoot-syrian-refugee-dead-during-coronavirus-curfew
-
-https://www.al-monitor.com/originals/2021/05/turkey-bans-filming-protests-hide-police-violence-rights-groups-say
-
-https://www.bbc.com/news/world-56957360
-
-
-https://hasna.org/the-shooting-of-ali-el-hemdan-precarity-and-anxiety-for-turkeys-refugees/
-
-http://www.baransav.com/?pnum=769&pt=Report+of+Violations+of+Right+to+Life+as+a+Result+of+Disproportionate+Use+of+Force+by+Law+Enforcement+officials
+ https://perma.cc/PK69-YQ96
+https://perma.cc/SC3E-ABJ5
+https://perma.cc/22TR-2AWY
+https://perma.cc/7CXN-Y9C8
+https://perma.cc/WSY8-6JX5
+https://perma.cc/L8LQ-JVRK
+https://perma.cc/R24W-Y66Q
+https://perma.cc/SG6B-TKDP
+https://perma.cc/U25G-7R64
+https://perma.cc/B4VB-85XP
+https://perma.cc/79PF-KN6W
+https://perma.cc/XDX9-R9GY
 
 
 
@@ -1408,6 +1329,7 @@ http://www.baransav.com/?pnum=769&pt=Report+of+Violations+of+Right+to+Life+as+a+
  No evidence has been found that Turkey has deployed its military to enforce emergency measures. 
 
 *Sources*:
- http://euromil.org/armed-forces-and-Covid-19/
+ https://perma.cc/GV9U-JA6S
 
-https://www.acaps.org/covid19-government-measures-dataset
+
+https://perma.cc/62B3-VQTL

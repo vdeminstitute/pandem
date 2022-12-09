@@ -45,17 +45,14 @@
  The Finish Government declared a state of emergency unde the Emergency Powers Act on March 16 2020, which was terminated on June 16 2020. Since then, Finland has used existing legislation to take measures against Covid-19. The primary legal instrument, since the end of the State of Emergency, is the Communicable Diseases Act, for which some amendments related to handling the pandemic has also been passed by parliament. This is therefore coded as 1 in the Q2 of 2020, and 4 in the other periods. 
 
 *Sources*:
- https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
+ https://perma.cc/HS5Y-NN8U
+https://perma.cc/364V-WX3T
+https://perma.cc/B67N-CH4F
+https://web.archive.org/web/20200317064618/https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
+https://perma.cc/HVT3-KQSY
+https://perma.cc/D9H9-FG4B
 
-https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
-
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
-https://www.finlex.fi/fi/laki/alkup/2016/20161227
-https://verfassungsblog.de/finland-soft-measures-respect-for-the-rule-of-law-and-plenty-of-good-luck/
-
-https://valtioneuvosto.fi/-/10616/hallitus-linjasi-hybridistrategian-toimintasuunnitelman-taydentamisesta?languageId=en_US
+https://perma.cc/PWW9-J7M8
 
 
 
@@ -94,17 +91,14 @@ https://valtioneuvosto.fi/-/10616/hallitus-linjasi-hybridistrategian-toimintasuu
 *No comment provided* 
 
 *Sources*:
- https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
+ https://perma.cc/J7NH-6ND6
+https://perma.cc/3XWD-D2D6
+https://perma.cc/22KZ-QCC9
+https://web.archive.org/web/20200317064618/https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
+https://perma.cc/E4WQ-YN8G
+https://perma.cc/LEU5-FCAW
 
-https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
-
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
-https://www.finlex.fi/fi/laki/alkup/2016/20161227
-https://verfassungsblog.de/finland-soft-measures-respect-for-the-rule-of-law-and-plenty-of-good-luck/
-
-https://valtioneuvosto.fi/-/10616/hallitus-linjasi-hybridistrategian-toimintasuunnitelman-taydentamisesta?languageId=en_US
+https://perma.cc/298A-94Y3
 
 
 
@@ -143,17 +137,14 @@ https://valtioneuvosto.fi/-/10616/hallitus-linjasi-hybridistrategian-toimintasuu
  The State of Emergency was declared and came into effect on 2020-03-16. The Communicable Disease Act that manages the Covid-19 response after the SOE ended was in place previous to the pandemic, but it’s became the primary legal instrument when the SOE ended on 2020-06-16 and this is therefore set as the start date for the legal instrument. 
 
 *Sources*:
- https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
+ https://perma.cc/J7NH-6ND6
+https://perma.cc/3XWD-D2D6
+https://perma.cc/22KZ-QCC9
+https://web.archive.org/web/20200317064618/https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
+https://perma.cc/E4WQ-YN8G
+https://perma.cc/LEU5-FCAW
 
-https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
-
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
-https://www.finlex.fi/fi/laki/alkup/2016/20161227
-https://verfassungsblog.de/finland-soft-measures-respect-for-the-rule-of-law-and-plenty-of-good-luck/
-
-https://valtioneuvosto.fi/-/10616/hallitus-linjasi-hybridistrategian-toimintasuunnitelman-taydentamisesta?languageId=en_US
+https://perma.cc/298A-94Y3
 
 
 
@@ -192,19 +183,14 @@ https://valtioneuvosto.fi/-/10616/hallitus-linjasi-hybridistrategian-toimintasuu
  The Finish government decided to end the state of emergency on June 16 2020, and handle the future response to Covid-19 using regular legislation in the Communicable Disease Act. The implementation and measures of the Communicable Disease Act has not ended at the time of coding. 
 
 *Sources*:
- https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
+ https://perma.cc/HS5Y-NN8U
+https://perma.cc/364V-WX3T
+https://perma.cc/B67N-CH4F
+https://web.archive.org/web/20200317064618/https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
+https://perma.cc/HVT3-KQSY
+https://perma.cc/D9H9-FG4B
 
-https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
-
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
-https://www.finlex.fi/fi/laki/alkup/2016/20161227
-https://verfassungsblog.de/finland-soft-measures-respect-for-the-rule-of-law-and-plenty-of-good-luck/
-
-https://valtioneuvosto.fi/-/10616/hallitus-linjasi-hybridistrategian-toimintasuunnitelman-taydentamisesta?languageId=en_US
-
-
+https://perma.cc/PWW9-J7M8
 
 
 
@@ -246,12 +232,12 @@ https://valtioneuvosto.fi/-/10616/hallitus-linjasi-hybridistrategian-toimintasuu
  The initial declaration of State of Emergency under the Emergency Powers Act limited it to April 14 2020, and was subsequently extended with defined time limits until it expired on June 16. The Communicable Disease Act was in place before the pandemic, and has no end date itself. Note however that the provisions taken under it have, as far as have been seen, always had time limits and continues to do so. This is therefore coded as 1 for all periods. 
 
 *Sources*:
- https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
-https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
-https://valtioneuvosto.fi/en/-/1271139/nationwide-Covid-19-restrictions-to-be-eased-biggest-changes-in-areas-in-acceleration-phase
-https://valtioneuvosto.fi/en/information-on-coronavirus/lifting-of-restrictions
-https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
-https://www.finlex.fi/fi/laki/alkup/2016/20161227
+ https://perma.cc/EDR5-V328
+https://perma.cc/C3ET-LLPT
+https://perma.cc/L3W6-CSY4
+https://perma.cc/8VQH-JEFD
+https://web.archive.org/web/20200317064618/https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
+https://perma.cc/SWB8-QZTN
 
 
 
@@ -291,15 +277,13 @@ https://www.finlex.fi/fi/laki/alkup/2016/20161227
 
 *Sources*:
  https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
-https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
-
-https://valtioneuvosto.fi/en/-/10616/government-agrees-to-ease-restrictions-on-gatherings-operations-of-food-and-beverage-service-businesses-and-visits-to-care-institutions-and-hospitals-1
-
-https://valtioneuvosto.fi/en/-/1271139/increased-flexibility-in-restrictions-on-food-and-beverage-service-businesses-based-on-the-epidemiological-situation-in-the-region-and-the-main-activities-of-the-business
-https://valtioneuvosto.fi/en/-/1271139/nationwide-Covid-19-restrictions-to-be-eased-biggest-changes-in-areas-in-acceleration-phase
-https://valtioneuvosto.fi/en/information-on-coronavirus/lifting-of-restrictions
-https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
-https://www.finlex.fi/fi/laki/alkup/2016/20161227
+https://perma.cc/CP8Z-SAEX
+https://perma.cc/827C-UFPA
+https://perma.cc/53W2-JPV7
+https://perma.cc/L5KB-FV3L
+https://perma.cc/G5WN-7KJJ
+https://web.archive.org/web/20200317064618/https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
+https://perma.cc/VR2G-5RKW
 
 
 
@@ -341,15 +325,13 @@ https://www.finlex.fi/fi/laki/alkup/2016/20161227
  The parliament must pass the Emergency Power Act for the State of Emergency to come into effect. The Comminucable Diseaase Act has already previously been approved by parliament. Any amendments made to the Communicable Disease Act has to be (and has been) passed by parliament. 
 
 *Sources*:
- https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
+ https://perma.cc/2QSC-XRFU
+https://perma.cc/AP5A-U3AG
+https://web.archive.org/web/20200317064618/https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
+https://perma.cc/SD46-EN85
+https://perma.cc/L3TL-56KC
 
-https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
-
-https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
-https://www.finlex.fi/fi/laki/alkup/2016/20161227
-https://verfassungsblog.de/finland-soft-measures-respect-for-the-rule-of-law-and-plenty-of-good-luck/
-
-https://valtioneuvosto.fi/-/10616/hallitus-linjasi-hybridistrategian-toimintasuunnitelman-taydentamisesta?languageId=en_US
+https://perma.cc/2QSC-XRFU
 
 
 
@@ -391,15 +373,13 @@ https://valtioneuvosto.fi/-/10616/hallitus-linjasi-hybridistrategian-toimintasuu
  The parliament passed the Emergency Power Act for the State of Emergency to come into effect. The Comminucable Diseaase Act has already previously been approved by parliament. Any amendments made to the Communicable Disease Act has to be (and has been) passed by parliament. 
 
 *Sources*:
- https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
+ https://perma.cc/2QSC-XRFU
+https://perma.cc/AP5A-U3AG
+https://web.archive.org/web/20200317064618/https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
+https://perma.cc/SD46-EN85
+https://perma.cc/L3TL-56KC
 
-https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
-
-https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
-https://www.finlex.fi/fi/laki/alkup/2016/20161227
-https://verfassungsblog.de/finland-soft-measures-respect-for-the-rule-of-law-and-plenty-of-good-luck/
-
-https://valtioneuvosto.fi/-/10616/hallitus-linjasi-hybridistrategian-toimintasuunnitelman-taydentamisesta?languageId=en_US
+https://perma.cc/2QSC-XRFU
 
 
 
@@ -445,17 +425,22 @@ https://valtioneuvosto.fi/-/10616/hallitus-linjasi-hybridistrategian-toimintasuu
  According to the Emergency Powers Act, all decrees must be approved or repealed by parliament within a week of its declaration, and in case of repeal it will be immediately terminated. The Act states that:"The Decree shall be immediately submitted to the Parliament. The Parliament shall decide whether the Decree is to apply as such or whether it is to be repealed in full or in part and whether it is to remain in force for the period provided or for a shorter period.” The parliament was thus not limited in it’s law making role during the state of emergency. After the SOE ended, the parliaments role has also been preserved, for instance passing amendments to the Communicable Disease Act. It has also worked continuously throughout the coded period. This is therefore coded as 0 for all periods. 
 
 *Sources*:
- https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
+ https://perma.cc/WGE9-8XGM
 
-https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
 
-https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
-https://www.finlex.fi/fi/laki/alkup/2016/20161227
-https://verfassungsblog.de/finland-soft-measures-respect-for-the-rule-of-law-and-plenty-of-good-luck/
+https://perma.cc/K52L-H235
 
-https://valtioneuvosto.fi/-/10616/hallitus-linjasi-hybridistrategian-toimintasuunnitelman-taydentamisesta?languageId=en_US
 
- 
+https://perma.cc/2MYY-JJSN
+
+
+https://perma.cc/FR9T-VSSM
+
+
+https://perma.cc/9SRX-4ASS
+
+
+https://perma.cc/5V7V-2HEM
 
 
 
@@ -577,22 +562,34 @@ https://valtioneuvosto.fi/-/10616/hallitus-linjasi-hybridistrategian-toimintasuu
  No record of sub-national variation has been found in Q2 and Q3 of 2020. There was a lockdown of the Uusima-region, but this only pertained to moving in and out of the region, and had no impact on the emergency measures within each region as these stayed the same. However, in October 2020 some measures regarding restaurants, businesses and the number of people allowed to gather were imposed in only some regions, based on the number of Covid-19 cases. This is therefore coded as 1 for this period, as there are sub-national variation in terms of a few issues. In Q1 and Q2 of 2021, this development has continued and in May of 2021 Finland disbanded much of the national Covid-19 administration of restrictions to let the regions base their restrictions on the number of cases etc. This process is however still guided by a general categorization of what state of the epidemic each region is in, and what measures are generally appropriate in relation to that (as well as what is possible under the Communicable Disease Act). In practice, this means that there is quite some variation between regions based on the spread of the virus at one point in time, but in practice there has not been such significant variations as to regard it as varying completely. This is therefore coded as 2 for both Q1 and Q2 of 2021. 
 
 *Sources*:
- https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi20030696.pdf
-
-https://valtioneuvosto.fi/en/article/-/asset_publisher/1410869/hallituksen-linjaukset
-
-https://valtioneuvosto.fi/en/-/1271139/tighter-restrictions-to-be-imposed-on-food-and-beverage-service-businesses-in-six-areas
-
-https://valtioneuvosto.fi/en/information-on-coronavirus/current-restrictions
-
-https://www.acaps.org/covid19-government-measures-dataset
-https://valtioneuvosto.fi/en/information-on-coronavirus/current-restrictions
-https://valtioneuvosto.fi/en/-/1271139/nationwide-Covid-19-restrictions-to-be-eased-biggest-changes-in-areas-in-acceleration-phase
-https://stm.fi/en/-/Covid-19-prevention-in-finland-to-focus-on-regional-restrictions-and-recommendations
-https://valtioneuvosto.fi/sv/information-om-coronaviruset/gallande-begransningar/restauranger
+ https://perma.cc/2R3R-CDLF
 
 
-https://valtioneuvosto.fi/en/information-on-coronavirus/current-restrictions
+https://perma.cc/CF4Y-ER5B
+
+
+https://perma.cc/VD4W-BGSA
+
+
+https://perma.cc/A4C5-CC2Q
+
+
+https://perma.cc/3UMJ-QNAZ
+
+
+https://perma.cc/A4C5-CC2Q
+
+
+https://perma.cc/U7XG-NTDH
+
+
+https://perma.cc/BZ9R-XM9V
+
+
+https://perma.cc/9QHF-E86S
+
+
+https://perma.cc/A4C5-CC2Q
 
 
 
@@ -636,14 +633,16 @@ https://valtioneuvosto.fi/en/information-on-coronavirus/current-restrictions
  Human Rights Watch, Amnesty International and EU agency of fundamental righs have not reported any discrimination within the response to Covid-19, and no indications have been found of it. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38449&resourceType=newsarticle&sort=date
-https://www.hrw.org/sitesearch?search=Finland
-https://verfassungsblog.de/finland-soft-measures-respect-for-the-rule-of-law-and-plenty-of-good-luck/
+ https://perma.cc/7BAQ-P4YN
 
 
+https://perma.cc/UY32-WYHJ
 
-https://fra.europa.eu/sites/default/files/fra_uploads/fi_report_on_coronavirus_pandemic_july_2020.pdf
- 
+
+https://perma.cc/W2UL-6LXU
+
+
+https://perma.cc/86SW-Y568
 
 
 
@@ -692,13 +691,16 @@ https://fra.europa.eu/sites/default/files/fra_uploads/fi_report_on_coronavirus_p
  Neither the EU agency for fundamental rights, Human Rights Watch or Amnesty international has reported any incidents of violations of non-derogable rights, and no other indication has been found that that has occurred in Finland's Covid-19 response. This is therefore coded as 0. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38449&resourceType=newsarticle&sort=date
-https://www.hrw.org/sitesearch?search=Finland
-https://verfassungsblog.de/finland-soft-measures-respect-for-the-rule-of-law-and-plenty-of-good-luck/
+ https://perma.cc/LZ79-3YPL
 
 
+https://perma.cc/3PAV-R4S4
 
-https://fra.europa.eu/sites/default/files/fra_uploads/fi_report_on_coronavirus_pandemic_july_2020.pdf
+
+https://perma.cc/N8EE-TKQF
+
+
+https://perma.cc/QKW2-6A26
 
 
 
@@ -742,15 +744,19 @@ https://fra.europa.eu/sites/default/files/fra_uploads/fi_report_on_coronavirus_p
  Neither Reporters Without Borders, Committe to Protect Journalists nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Finnish Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B108%5D=108
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+ https://perma.cc/WT4G-C5XR
 
-https://cpj.org/europe/finland/
-https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
 
-https://www.finlex.fi/fi/laki/alkup/2016/20161227
-https://verfassungsblog.de/finland-soft-measures-respect-for-the-rule-of-law-and-plenty-of-good-luck/
- 
+https://perma.cc/W6GB-66TU
+
+
+https://perma.cc/RP6X-MPPT
+
+
+https://perma.cc/PQ43-D6DY
+
+
+https://perma.cc/FW7V-KEFA
 
 
 
@@ -789,15 +795,19 @@ https://verfassungsblog.de/finland-soft-measures-respect-for-the-rule-of-law-and
  No de jure limitations on media freedom in the Emergency Powers Act or the actions taken under it. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B108%5D=108
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+ https://perma.cc/WT4G-C5XR
 
-https://cpj.org/europe/finland/
-https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
 
-https://www.finlex.fi/fi/laki/alkup/2016/20161227
-https://verfassungsblog.de/finland-soft-measures-respect-for-the-rule-of-law-and-plenty-of-good-luck/
- 
+https://perma.cc/W6GB-66TU
+
+
+https://perma.cc/RP6X-MPPT
+
+
+https://perma.cc/PQ43-D6DY
+
+
+https://perma.cc/FW7V-KEFA
 
 
 
@@ -836,15 +846,19 @@ https://verfassungsblog.de/finland-soft-measures-respect-for-the-rule-of-law-and
  No de jure limitations on media freedom in the Emergency Powers Act or the actions taken under it. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B108%5D=108
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+ https://perma.cc/WT4G-C5XR
 
-https://cpj.org/europe/finland/
-https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
 
-https://www.finlex.fi/fi/laki/alkup/2016/20161227
-https://verfassungsblog.de/finland-soft-measures-respect-for-the-rule-of-law-and-plenty-of-good-luck/
- 
+https://perma.cc/W6GB-66TU
+
+
+https://perma.cc/RP6X-MPPT
+
+
+https://perma.cc/PQ43-D6DY
+
+
+https://perma.cc/FW7V-KEFA
 
 
 
@@ -886,10 +900,10 @@ https://verfassungsblog.de/finland-soft-measures-respect-for-the-rule-of-law-and
  Neither Reporters without Borders, Committe to Protect Journalists nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Finland, and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B108%5D=108
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+ https://perma.cc/WT4G-C5XR
 
-https://cpj.org/europe/finland/
+
+https://perma.cc/W6GB-66TU
 
 
 
@@ -931,10 +945,10 @@ https://cpj.org/europe/finland/
  Neither Reporters without Borders, Committe to Protect Journalists nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in Finland, and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B108%5D=108
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+ https://perma.cc/WT4G-C5XR
 
-https://cpj.org/europe/finland/
+
+https://perma.cc/W6GB-66TU
 
 
 
@@ -976,10 +990,10 @@ https://cpj.org/europe/finland/
  Neither Reporters without Borders, Committe to Protect Journalists nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in Finland, and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B108%5D=108
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+ https://perma.cc/WT4G-C5XR
 
-https://cpj.org/europe/finland/
+
+https://perma.cc/W6GB-66TU
 
 
 
@@ -1022,10 +1036,10 @@ https://cpj.org/europe/finland/
  Neither Reporters without Borders, Committe to Protect Journalists nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information, and no other indications have been found of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B108%5D=108
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+ https://perma.cc/Q2YF-FMYR
 
-https://cpj.org/europe/finland/
+
+https://perma.cc/EK75-HBP2
 
 
 
@@ -1067,10 +1081,10 @@ https://cpj.org/europe/finland/
  Neither Reporters without Borders, Committe to Protect Journalists nor International Press Institute have reported any verbal harassment of journalists in Finland, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B108%5D=108
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+ https://perma.cc/WT4G-C5XR
 
-https://cpj.org/europe/finland/
+
+https://perma.cc/W6GB-66TU
 
 
 
@@ -1112,10 +1126,10 @@ https://cpj.org/europe/finland/
  Neither Reporters without Borders, Committe to Protect Journalists nor International Press Institute have reported any physical harassment of journalists in Finland, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B108%5D=108
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Finland
+ https://perma.cc/WT4G-C5XR
 
-https://cpj.org/europe/finland/
+
+https://perma.cc/W6GB-66TU
 
 
 
@@ -1159,9 +1173,10 @@ https://cpj.org/europe/finland/
  There is no deviations from the information provided by WHO and that of the Finnish Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
 
 *Sources*:
- https://thl.fi/en/web/infectious-diseases-and-vaccinations/what-s-new/coronavirus-covid-19-latest-updates
+ https://perma.cc/LBK6-4HHN
 
-https://thl.fi/en/web/infectious-diseases-and-vaccinations/what-s-new/coronavirus-covid-19-latest-updates/symptoms-and-treatment-coronavirus
+
+https://perma.cc/78ZJ-K95D
 
 
 
@@ -1205,12 +1220,13 @@ https://thl.fi/en/web/infectious-diseases-and-vaccinations/what-s-new/coronaviru
  Human Rights Watch, Amnesty International and EU agency of fundamental righs have not reported any violence when enforcing emergency measures. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38449&resourceType=newsarticle&sort=date
-https://www.hrw.org/sitesearch?search=Finland
+ https://perma.cc/LZ79-3YPL
 
 
-https://fra.europa.eu/sites/default/files/fra_uploads/fi_report_on_coronavirus_pandemic_july_2020.pdf
- 
+https://perma.cc/3PAV-R4S4
+
+
+https://perma.cc/QKW2-6A26
 
 
 
@@ -1252,5 +1268,7 @@ https://fra.europa.eu/sites/default/files/fra_uploads/fi_report_on_coronavirus_p
  The Finish Military has not been deployed to enforce any emergency measures. 
 
 *Sources*:
- https://www.defmin.fi/en/topical/preparing_for_coronavirus/frequently_asked_questions_about_Covid-19_and_defence_administration
-https://puolustusvoimat.fi/en/Covid-19/en
+ https://perma.cc/YR7F-7T4U
+
+
+https://perma.cc/4YH6-GTCQ

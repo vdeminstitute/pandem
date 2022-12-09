@@ -48,18 +48,14 @@ I have not found evidence of the Chinese government triggering the emergency res
 
 *Sources*:
  [1]
-http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
-
-
+https://perma.cc/3XVG-RP7V
 [2]
-https://www.reuters.com/article/us-china-health-response/three-more-chinese-regions-lower-emergency-response-level-as-virus-threat-recedes-idUSKCN20K029
-
-
+https://perma.cc/T6XF-KUSJ
 [3]
-http://constitutionnet.org/state-of-emergency
+https://perma.cc/E8RB-HDQ2
 
 [4]
-http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
+https://perma.cc/3XVG-RP7V
 
 
 
@@ -98,7 +94,7 @@ http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
  Emergency Response Law of the People's Republic of China 
 
 *Sources*:
- http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
+ https://perma.cc/3XVG-RP7V
 
 
 
@@ -138,32 +134,17 @@ http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
 
 *Sources*:
  [1]
-https://www.bbc.com/news/world-asia-china-51362336
-
-
-
-
+https://perma.cc/HLZ9-WEA2
 [2]
-https://www.chinadaily.com.cn/a/202001/24/WS5e2a8f83a3101282172731fa.html
-
-
-
-
+https://perma.cc/YMX5-RK38
 [3]
-https://www.chinadaily.com.cn/a/202001/22/WS5e27e312a310128217272c87.htmlhttp://english.court.gov.cn/2015-08/17/content_21625180_2.htm
-
-
-
-
+https://perma.cc/3XVG-RP7V
 [4]
-https://www.reuters.com/article/us-china-health-response/three-more-chinese-regions-lower-emergency-response-level-as-virus-threat-recedes-idUSKCN20K029
-
-
+https://perma.cc/2E7W-U3BN
 [5]
-http://constitutionnet.org/state-of-emergency
-
+https://perma.cc/97U2-DWFT
 [6]
-http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
+https://perma.cc/3XVG-RP7V
 
 
 
@@ -203,18 +184,14 @@ http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
 
 *Sources*:
  [1]
-http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
-
-
+https://perma.cc/3XVG-RP7V
 [2]
-https://www.reuters.com/article/us-china-health-response/three-more-chinese-regions-lower-emergency-response-level-as-virus-threat-recedes-idUSKCN20K029
-
-
+https://perma.cc/T6XF-KUSJ
 [3]
-http://constitutionnet.org/state-of-emergency
+https://perma.cc/E8RB-HDQ2
 
 [4]
-http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
+https://perma.cc/3XVG-RP7V
 
 
 
@@ -257,21 +234,17 @@ http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
 
 *Sources*:
  [1]
-http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
-
-
+https://perma.cc/3XVG-RP7V
 [2]
-https://www.reuters.com/article/us-china-health-response/three-more-chinese-regions-lower-emergency-response-level-as-virus-threat-recedes-idUSKCN20K029
-
-
+https://perma.cc/T6XF-KUSJ
 [3]
-http://constitutionnet.org/state-of-emergency
+https://perma.cc/E8RB-HDQ2
 
 [4]
-http://english.court.gov.cn/2015-08/17/content_21625180_2.htm"
+https://perma.cc/3XVG-RP7V
 
 [5]
-http://english.court.gov.cn/2015-08/17/content_21625180.htm
+https://perma.cc/D5VB-QUHE
 
 
 
@@ -311,21 +284,17 @@ http://english.court.gov.cn/2015-08/17/content_21625180.htm
 
 *Sources*:
  [1]
-http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
-
-
+https://perma.cc/3XVG-RP7V
 [2]
-https://www.reuters.com/article/us-china-health-response/three-more-chinese-regions-lower-emergency-response-level-as-virus-threat-recedes-idUSKCN20K029
-
-
+https://perma.cc/T6XF-KUSJ
 [3]
-http://constitutionnet.org/state-of-emergency
+https://perma.cc/E8RB-HDQ2
 
 [4]
-http://english.court.gov.cn/2015-08/17/content_21625180_2.htm"
+https://perma.cc/3XVG-RP7V
 
 [5]
-http://english.court.gov.cn/2015-08/17/content_21625180.htm
+https://perma.cc/D5VB-QUHE
 
 
 
@@ -368,7 +337,7 @@ http://english.court.gov.cn/2015-08/17/content_21625180.htm
 
 *Sources*:
  [1]
-https://www.bbc.com/news/world-asia-pacific-13908155
+https://perma.cc/9T3Y-H3ZN
 
 
 
@@ -411,7 +380,7 @@ https://www.bbc.com/news/world-asia-pacific-13908155
 
 *Sources*:
  [1]
-https://www.bbc.com/news/world-asia-pacific-13908155
+https://perma.cc/9T3Y-H3ZN
 
 
 
@@ -458,11 +427,9 @@ https://www.bbc.com/news/world-asia-pacific-13908155
 
 *Sources*:
  [1]
-http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
-
-
-[1]
-https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislative-activities.pdf
+https://perma.cc/3XVG-RP7V
+[2]
+https://web.archive.org/web/20220211182022/https://www.loc.gov/collections/publications-of-the-law-library-of-congress/about-this-collection/emergency-legislative-activities.pdf%22
 
 
 
@@ -502,16 +469,10 @@ https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislat
  
 
 *Sources*:
- 
-
-
-
-[1]
-https://www.theguardian.com/global-development/2020/feb/24/coronavirus-china-wuhan-lockdown-economy-south-korea-npc-annual-parliament
-
-
+ [1]
+https://perma.cc/86EG-S9DN
 [2]
-https://www.dw.com/en/coronavirus-china-postpones-parliament-meeting-over-virus-outbreak/a-52498526
+https://perma.cc/M56K-FWL2
 
 
 
@@ -551,16 +512,10 @@ https://www.dw.com/en/coronavirus-china-postpones-parliament-meeting-over-virus-
  
 
 *Sources*:
- 
-
-
-
-[1]
-https://www.theguardian.com/global-development/2020/feb/24/coronavirus-china-wuhan-lockdown-economy-south-korea-npc-annual-parliament
-
-
+ [1]
+https://perma.cc/86EG-S9DN
 [2]
-https://www.dw.com/en/coronavirus-china-postpones-parliament-meeting-over-virus-outbreak/a-52498526
+https://perma.cc/7GFW-GL2Q
 
 
 
@@ -611,39 +566,38 @@ https://www.dw.com/en/coronavirus-china-postpones-parliament-meeting-over-virus-
 
 *Sources*:
  [1]
-https://www.bbc.com/news/world-asia-china-52613138
+https://perma.cc/G2CD-88V8
 
 [2]
-http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
-
+https://perma.cc/3XVG-RP7V
 
 [3]
-https://www.reuters.com/article/us-china-health-response/three-more-chinese-regions-lower-emergency-response-level-as-virus-threat-recedes-idUSKCN20K029
-
+https://perma.cc/8633-M28W
 
 [4]
-http://constitutionnet.org/state-of-emergencyhttp://english.court.gov.cn/2015-08/17/content_21625180_2.htm"
+https://perma.cc/H48B-H64R
+https://perma.cc/3XVG-RP7V
 
 [5]
-https://www.bbc.com/news/world-asia-china-53458412
+https://perma.cc/AF7T-YEP3
 
 [6]
-https://www.nytimes.com/2020/08/25/world/asia/china-xinjiang-covid.html
+https://perma.cc/9SVE-FK3R
 
 [7]
-https://www.businessinsider.com/china-testing-qingdao-city-9-million-after-12-cases-hospital-2020-10?r=US&IR=T
+https://perma.cc/K75X-A3A9
 
 [8]
-https://www.aa.com.tr/en/asia-pacific/china-imposes-covid-19-restrictions-in-foshan/2260238
+https://perma.cc/2X3P-WWYX
 
 [9]
-https://www.garda.com/crisis24/news-alerts/487231/china-negative-covid-19-test-taken-within-48-hours-required-to-leave-guangzhou-from-1200-june-7-update-4
+https://perma.cc/X6PS-ZKXR
 
 [10]
-https://www.garda.com/crisis24/news-alerts?search_api_fulltext=coronavirus&utm_campaign=c24&utm_medium=link&utm_content=covid-risks&pi_campaign_id=16709&na_countries%5B0%5D=1336
+https://perma.cc/5V9G-C4EA
 
 [11]
-https://www.garda.com/crisis24/news-alerts/475686/china-covid-19-related-restrictions-including-strict-international-travel-controls-remain-in-effect-as-of-may-7-update-36
+https://perma.cc/HME9-WWZT
 
 
 
@@ -688,23 +642,26 @@ https://www.garda.com/crisis24/news-alerts/475686/china-covid-19-related-restric
  
 
 *Sources*:
- https://www.hrw.org/news/2020/05/05/china-covid-19-discrimination-against-africans
+ https://perma.cc/K94K-8T3X
 
 
-https://time.com/5820389/africans-guangzhou-china-coronavirus-discrimination/
-
-https://www.theguardian.com/world/2020/apr/27/china-fails-to-stop-racism-against-africans-over-covid-19
+https://perma.cc/P7ZG-ZZPS
 
 
-https://www.bbc.com/news/world-africa-52309414
+https://perma.cc/4KNM-DZBD
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/china/
 
-https://apnews.com/article/c1e81496be87b9a289aefe7345479949
+https://perma.cc/DSW3-WHZK
 
-https://www.theguardian.com/world/2020/aug/25/xinjiang-residents-handcuffed-to-their-homes-in-covid-lockdown
 
-https://www.abc.net.au/news/2020-08-25/xinjiang-yell-from-balconies-over-strict-coronavirus-lockdown/12589440
+https://perma.cc/J8LX-MPV9
+
+
+https://perma.cc/63CJ-JX9U
+
+
+https://perma.cc/ZRD3-7VXA
+
 
 
 
@@ -755,20 +712,19 @@ https://www.abc.net.au/news/2020-08-25/xinjiang-yell-from-balconies-over-strict-
  People living in Urumqi in Xinjiang were physically locked into their homes from 18 July 2020 until September 2020. Social media accounts also show the front doors of some houses being sealed with metal bars to prevent residents from leaving their homes and breaching the quarantine regulations. Footage on social media suggest that people who attempted to leave their apartments were handcuffed to the rails in public streets during the lockdown. Detainees were subjected to torture-like treatment. One woman testifies to the Assocated Press that “...when she was detained at the height of China’s coronavirus outbreak, she was forced to drink a medicine that made her feel weak and nauseous. She and others in her cell had to strip naked once a week as guards hosed them and their cells down with disinfectant, she said.  ‘It was scalding,’ recounted the woman by phone from Xinjiang, declining to be named out of fear of retribution. ‘My hands were ruined, my skin was peeling.’ “ (1) Although the strict lockdown eased in later months, there is no evidence suggesting that the general treatment of citizens in the Xinjiang region, in relation to Covid-19, has improved in Q1 and Q2 of 2021. 
 
 *Sources*:
- https://apnews.com/article/c1e81496be87b9a289aefe7345479949
-(1)
+ https://perma.cc/7NVW-FXKP
 
 
-https://www.reuters.com/article/us-china-health-response/three-more-chinese-regions-lower-emergency-response-level-as-virus-threat-recedes-idUSKCN20K029
+https://perma.cc/8633-M28W
 
 
-http://constitutionnet.org/state-of-emergency
+https://perma.cc/NUP3-YNM3
 
-https://www.abc.net.au/news/2020-08-25/xinjiang-yell-from-balconies-over-strict-coronavirus-lockdown/12589440
 
-https://www.theguardian.com/world/2020/aug/25/xinjiang-residents-handcuffed-to-their-homes-in-covid-lockdown
+https://perma.cc/ZES9-LA8G
 
-https://www.nytimes.com/interactive/2019/11/16/world/asia/china-xinjiang-documents.html
+
+https://perma.cc/9E62-D4BU
 
 
 
@@ -812,7 +768,7 @@ https://www.nytimes.com/interactive/2019/11/16/world/asia/china-xinjiang-documen
  Article 63(2) of the Emergency Response Law of the People's Republic of China states, "Article 65 Any unit or individual that, in violation of the provisions of this Law, fabricates and disseminates false information on the development or handling of an emergency, or knowingly disseminates such false information, shall be ordered to put it right and shall be given a warning; where serious consequences are caused, it/he shall suspend business operation or its/his practicing certificate shall be revoked according to law; if the leading person directly responsible is a State functionary, he shall, in addition, be given a sanction according to law; and if such an act constitutes a violation of the regulations for administration of public security, a penalty shall be imposed by the public security organ according to law." 
 
 *Sources*:
- http://english.court.gov.cn/2015-08/17/content_21625180_6.htm
+ https://perma.cc/7K3Z-5U6F
 
 
 
@@ -890,17 +846,19 @@ https://www.nytimes.com/interactive/2019/11/16/world/asia/china-xinjiang-documen
  The emergency response law makes no mention of a time limit 
 
 *Sources*:
- "http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
+ https://perma.cc/3XVG-RP7V
 
 
-https://www.reuters.com/article/us-china-health-response/three-more-chinese-regions-lower-emergency-response-level-as-virus-threat-recedes-idUSKCN20K029
+https://perma.cc/2E7W-U3BN
 
 
-http://constitutionnet.org/state-of-emergency
+https://perma.cc/97U2-DWFT
 
-http://english.court.gov.cn/2015-08/17/content_21625180_2.htm"
 
-http://english.court.gov.cn/2015-08/17/content_21625180.htm
+https://perma.cc/3XVG-RP7V
+
+
+https://perma.cc/D5VB-QUHE
 
 
 
@@ -950,25 +908,31 @@ http://english.court.gov.cn/2015-08/17/content_21625180.htm
 I have not found specific instances of de-facto limitations in media reporting about the nature of Covid-19 in Q1 and Q2 of 2021. However, multiple sources have reported that censorship and media control in China has gotten worse since the start of the pandemic. Hence, I have continued to code merepfact as 1 for both Q1 and Q2 of 2021. 
 
 *Sources*:
- https://edition.cnn.com/2020/04/21/media/rsf-press-freedom-index-2020-intl/index.html
-
-https://edition.cnn.com/2020/01/31/asia/wuhan-virus-china-censorship-intl-hnk/index.html
-
-https://rsf.org/en/news/rsf-urges-china-stop-censoring-information-about-coronavirus-epidemic
-
-https://rsf.org/fr/actualites/coronavirus-ces-heros-de-linformation-que-la-chine-etouffes
-
-https://www.theguardian.com/world/2020/sep/24/wuhan-covid-journalist-missing-since-february-found-says-friend-chen-qiushi-china
+ https://perma.cc/LV95-N3AD
 
 
-https://www.theguardian.com/world/2020/nov/16/citizen-journalist-facing-jail-in-china-for-wuhan-covid-reporting-zhang-zhan
+https://perma.cc/J3CJ-Y5FL
 
 
-https://rsf.org/en/news/china-one-year-after-covid-19-outbreak-seven-journalists-still-detained-reporting-issue
+https://perma.cc/L4QK-SYCG
 
-https://rsf.org/en/china
 
-https://www.theguardian.com/media/2021/apr/20/oppression-of-journalists-in-china-may-have-been-factor-in-covid-pandemic
+https://perma.cc/7UAB-PKZ9
+
+
+https://perma.cc/4FNL-YLKA
+
+
+https://perma.cc/CC99-YJRB
+
+
+https://perma.cc/SM9F-VB8Z
+
+
+https://perma.cc/QGM3-8TWL
+
+
+https://perma.cc/4PCG-N6B8
 
 
 
@@ -1024,23 +988,13 @@ https://www.theguardian.com/media/2021/apr/20/oppression-of-journalists-in-china
 I have not found specific instances of de-facto limitations on reporting on the government response to Covid-19 in Q1 and Q2 of 2021. However, multiple sources have reported that censorship and media control in China has gotten worse since the start of the pandemic. Hence, I have continued to code merepgov as 1 for both Q1 and Q2 of 2021. 
 
 *Sources*:
- https://rsf.org/en/news/chinas-diplomats-must-stop-attacking-media-over-coronavirus-reporting
-
-https://rsf.org/en/news/rsf-calls-china-stop-cracking-down-voices-criticizing-its-coronavirus-management
-
-https://www.nytimes.com/2020/03/16/business/china-coronavirus-internet-police.html
-
-https://www.theguardian.com/world/2020/sep/24/wuhan-covid-journalist-missing-since-february-found-says-friend-chen-qiushi-china
+ https://perma.cc/6K9M-7DLP
 
 
-https://www.theguardian.com/world/2020/nov/16/citizen-journalist-facing-jail-in-china-for-wuhan-covid-reporting-zhang-zhan
+https://perma.cc/3F76-FJ5W
 
 
-https://rsf.org/en/news/china-one-year-after-covid-19-outbreak-seven-journalists-still-detained-reporting-issue
-
-https://rsf.org/en/china
-
-https://www.theguardian.com/media/2021/apr/20/oppression-of-journalists-in-china-may-have-been-factor-in-covid-pandemic
+https://perma.cc/P56C-CXQM
 
 
 
@@ -1086,20 +1040,19 @@ Beijing has expelled least 14 international journalists since March 2020. Most r
 I have not found instances of the government placing de-facto limitations on reporting about non-Covid 19 related news but with reference to the pandemic in Q1 and Q2 of 2021. 
 
 *Sources*:
- https://rsf.org/en/china
+ https://perma.cc/TXJ4-NSC4
 
 
-https://rsf.org/en/news/china-ranking-near-bottom-rsfs-index-claims-it-welcomes-foreign-journalists-despite-all-evidence
+https://perma.cc/N2YW-H8FS
 
 
-https://www.cfr.org/backgrounder/media-censorship-china
+https://perma.cc/9RU2-TMJB
 
 
+https://perma.cc/VD96-7GP6
 
-https://www.abc.net.au/news/2020-09-08/bill-birtles-mike-smith-evacuated-china-safety-concerns/12638786
 
-
-https://www.hrw.org/news/2020/09/08/australian-journalists-forced-leave-china
+https://perma.cc/5EEE-TQM6
 
 
 
@@ -1150,38 +1103,25 @@ https://www.hrw.org/news/2020/09/08/australian-journalists-forced-leave-china
 5: Newsweek has reported that the government has been routinely restricting media access to to information about the nature of Covid-19.  I have not found specific cases of this in 2021. However as the media situation in China has not improved, I continue to code the variable as 2. 
 
 *Sources*:
- https://rsf.org/en/china
-(1)
+ [1]
+https://perma.cc/3TRJ-3XX6
 
 [2]
-https://rsf.org/en/news/covid-19-six-chinese-defenders-press-freedom-still-detention
-
-
+https://perma.cc/2A9H-B7DV
 [3]
-https://rsf.org/en/news/rsf-denounces-chinas-expulsion-nyt-correspondent-who-reported-extensively-covid-19
-
+https://perma.cc/SZT8-5YEQ
 [4]
-https://rsf.org/en/news/coronavirus-mass-expulsion-foreign-correspondents-further-cripples-freedom-information-china
-
-
+https://perma.cc/JTR3-A2XD
 [5]
-https://edition.cnn.com/2020/04/12/asia/china-coronavirus-research-restrictions-intl-hnk/index.html
-
-
-
+https://perma.cc/2EKY-R58T
 [6]
-https://www.theguardian.com/world/2020/apr/11/china-clamping-down-on-coronavirus-research-deleted-pages-suggest
-
+https://perma.cc/5R59-HDPF
 [7]
-https://www.abc.net.au/news/2020-09-08/bill-birtles-mike-smith-evacuated-china-safety-concerns/12638786
-
-
+https://perma.cc/VJ7S-VJGB
 [8]
-https://www.hrw.org/news/2020/09/08/australian-journalists-forced-leave-china
-
-
+https://perma.cc/HU4N-P26N
 [9]
-https://www.newsweek.com/china-harassing-intimidating-journalists-surveillance-built-curb-covid-19-1572983
+https://perma.cc/H8N2-L4YQ
 
 
 
@@ -1230,19 +1170,15 @@ I have not found new instances of the government and its agents limiting journal
 
 *Sources*:
  [1]
-https://rsf.org/en/news/rsf-denounces-chinas-expulsion-nyt-correspondent-who-reported-extensively-covid-19
-
+https://perma.cc/SZT8-5YEQ
 [2]
-https://rsf.org/en/news/coronavirus-mass-expulsion-foreign-correspondents-further-cripples-freedom-information-china
-
+https://perma.cc/JTR3-A2XD
 [3]
-https://rsf.org/en/news/harassment-foreign-reporters-becoming-systematic-china
-
+https://perma.cc/Z2KU-8AQR
 [4]
-https://rsf.org/en/china
-
+https://perma.cc/TXJ4-NSC4
 [5]
-https://www.newsweek.com/china-harassing-intimidating-journalists-surveillance-built-curb-covid-19-1572983
+https://perma.cc/L2LF-YN2X
 
 
 
@@ -1284,28 +1220,37 @@ https://www.newsweek.com/china-harassing-intimidating-journalists-surveillance-b
  The media in China is very tightly controlled and multiple journalists have been jailed after reporting on various aspects of Covid-19.  For example, Zhang Zhan, a Chinese citizen journalist who covered Wuhan's Covid-19 outbreak was jailed for four years in December 2020. She was found guilty of "picking quarrels and provoking trouble". Reporters without Borders have also reported that harrassment of foreign correspondents in China intensified during Covid-19. 
 
 *Sources*:
- https://www.nbcnews.com/news/world/chinese-citizen-journalist-zhang-zhan-jailed-provoking-trouble-wuhan-reporting-n1252403
-
-https://www.bbc.com/news/world-asia-china-55463241
-
-https://www.cbc.ca/news/world/china-foreign-journalists-harassment-report-1.5932691
-
-https://rsf.org/en/news/china-harassment-foreign-correspondents-intensified-during-covid-19-0
-
-https://rsf.org/en/china
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/china/
+ https://perma.cc/A3P9-A8E8
 
 
-https://www.hrw.org/world-report/2020/country-chapters/china-and-tibet
+https://perma.cc/2X6W-K995
 
-https://www.newsweek.com/china-harassing-intimidating-journalists-surveillance-built-curb-covid-19-1572983
 
-https://rsf.org/en/news/china-one-year-after-covid-19-outbreak-seven-journalists-still-detained-reporting-issue
+https://perma.cc/7JEQ-4Y43
 
-https://rsf.org/en/news/china-harassment-foreign-correspondents-intensified-during-covid-19-0
 
-https://ipi.media/china-jails-citizen-journalists-who-reported-on-covid-19/
+https://perma.cc/BC5L-JYHH
+
+
+https://perma.cc/2NCG-6RGB
+
+
+https://perma.cc/4PJA-CNH3
+
+
+https://perma.cc/G4LV-NFBA
+
+
+https://perma.cc/L2LF-YN2X
+
+
+https://perma.cc/B2L7-67G3
+
+
+https://perma.cc/BC5L-JYHH
+
+
+https://perma.cc/W39X-BF5L
 
 
 
@@ -1366,31 +1311,23 @@ The Chinese government has also been forcing certain groups of people (namely th
 The government has continued to push conspiracy theories of the origin of the virus in Q1 and Q2 of 2021. Hence, I have continued to code this variable as 2. 
 
 *Sources*:
- 
-https://edition.cnn.com/2020/11/30/asia/wuhan-china-covid-intl/index.html
+ https://perma.cc/YR3Z-8DAZ
 (1)
 
-https://www.reuters.com/article/us-health-coronavirus-who-china-report-idUSKBN2BM26S
+https://perma.cc/V3FS-LNYP
 (2)
 
-https://www.who.int/bulletin/online_first/20-254565.pdf
+https://perma.cc/C29Y-S32L
 (3)
 
-https://www.bbc.com/news/world-asia-china-56054468
-
-https://www.nbcnews.com/news/world/coronavirus-chinese-official-suggests-u-s-army-blame-outbreak-n1157826
-
-https://www.nytimes.com/2020/03/13/world/asia/coronavirus-china-conspiracy-theory.html
-
-https://www.theguardian.com/world/2020/nov/29/a-year-after-wuhan-alarm-china-seeks-to-change-covid-origin-story?fbclid=IwAR0JdZAy8jLonk1H5DzkBtT-MCbSZ-dzDe-is7WO1acFIU01hl415q-_NwA
-
-https://www.cbsnews.com/news/china-covid-19-origin-wuhan/
-
-https://www.bbc.com/news/av/world-asia-china-56513257
-
-https://apnews.com/article/c1e81496be87b9a289aefe7345479949
-
-https://www.washingtonpost.com/world/asia_pacific/in-chinas-xinjiang-forced-medication-accompanies-lockdown/2020/08/31/dc9a8430-eb4c-11ea-bd08-1b10132b458f_story.html
+https://perma.cc/8YS5-PD5P
+https://perma.cc/62QQ-LJNB
+https://perma.cc/QKB3-DGAF
+https://perma.cc/GT8D-NAJ3
+https://perma.cc/6H2V-H29T
+https://perma.cc/N4ML-RHMW
+https://perma.cc/JG5U-5NZG
+https://perma.cc/B65S-2XNU
 
 
 
@@ -1434,7 +1371,7 @@ https://www.washingtonpost.com/world/asia_pacific/in-chinas-xinjiang-forced-medi
  Beginning in August 2020, there have been reports of people being handcuffed to railings on the street for violating lockdown measures in the Xinjiang region. 
 
 *Sources*:
- https://apnews.com/article/c1e81496be87b9a289aefe7345479949
+ https://perma.cc/7NVW-FXKP
 
 
 
@@ -1476,10 +1413,11 @@ https://www.washingtonpost.com/world/asia_pacific/in-chinas-xinjiang-forced-medi
  The military in China was initially employed to enforce the confinement measures in Wuhan. However, I did not find any instances of the military being employed to enforce any confinement measures in China in Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.economist.com/international/2020/03/23/armies-are-mobilising-against-the-coronavirus
+ https://perma.cc/7FG9-4DAN
 
 
-https://www.orfonline.org/expert-speak/covid-19-the-chinese-militarys-busy-exploiting-the-pandemic-64569/
+https://perma.cc/5F7F-8R6N
 
 
-https://www.bbc.com/news/world-51911340
+
+https://perma.cc/82RT-DYB2

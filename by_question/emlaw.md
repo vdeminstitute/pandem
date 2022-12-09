@@ -27,22 +27,35 @@ There have been no additional lockdowns since August 2020.
 As of May 7 2021, the COVID-19-related restrictions in force in Afghanistan remain largely unchanged by comparison with those in place during the first week of April 2021. 
 
 *Sources*:
- https://reliefweb.int/report/afghanistan/afghanistan-covid-19-multi-sectoral-response-operational-situation-report-8-july
-
-https://www.theguardian.com/world/2020/may/02/afghanistan-in-new-battle-against-ravages-of-covid-19
+ https://perma.cc/EBV6-4K3R
 
 
-https://gandhara.rferl.org/a/afghanistan-locks-down-capital-to-avoid-coronavirus-tide/30513293.html
+
+https://perma.cc/GE4H-9BRD
 
 
-https://www.constituteproject.org/constitution/Afghanistan_2004.pdf?lang=en
 
 
-https://www.thestatesman.com/world/afghan-govt-imposes-lockdown-coronavirus-cases-increase-15-1502870945.html
 
-https://www.garda.com/crisis24/news-alerts/476146/afghanistan-covid-19-related-measures-remain-largely-unchanged-as-of-may-7-by-comparison-with-those-in-effect-during-early-april-update-15
+https://perma.cc/XMA5-YXVB
 
-https://www.garda.com/crisis24/news-alerts/465531/afghanistan-officials-continue-some-covid-19-measures-as-of-april-11-update-14
+
+
+
+
+https://perma.cc/924G-9MVK
+
+
+
+
+
+https://perma.cc/NVS8-PNJ8
+
+
+https://perma.cc/GK6U-CFB5
+
+
+https://perma.cc/VX3C-7YTR
 
 
 
@@ -74,24 +87,23 @@ January-March 2021: Order 809 from 10.02.2021  based on the Law No.15/2016 "For 
  
 
 *Sources*:
- https://www.kryeministria.al/newsroom/vendim-i-keshillit-te-ministrave-date-24-mars-2020/
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B339%5D&covid19=1
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://al.usembassy.gov/updates_covid19/
-(1)
+ https://perma.cc/D2BR-UQ4K
+https://perma.cc/MN9Q-2SHP
+https://perma.cc/UX3F-LZPA
+https://perma.cc/59E2-XFQ6
+https://perma.cc/TV2L-DK3Y
 
-https://www.constituteproject.org/constitution/Albania_2016?lang=en
-(2)
-https://www2.deloitte.com/content/dam/Deloitte/al/Documents/legal/Newsletter_Notice47_COVID19.pdf
-https://qbz.gov.al/eli/akt-normativ/2020/03/15/3/333da18e-47fd-4cc7-b38c-562ec56da463
-https://qbz.gov.al/news/33b00e4f-8efb-4c99-8c45-595cd9b84f1b
-https://shendetesia.gov.al/nga-neser-hyjne-ne-fuqi-masat-e-reja-manastirliu-kufizimet-per-te-frenuar-perhapjen-e-koronavirusit-me-vendosmeri-do-ta-perballim-se-bashku-kete-pandemi/
+https://perma.cc/5ZQG-S4JD
+https://perma.cc/TYV8-AFEB
+https://perma.cc/8RN2-CMCK
 
-https://www.garda.com/crisis24/news-alerts/398026/albania-authorities-to-tighten-covid-19-restrictions-and-introduce-nightly-curfew-from-november-11-update-17
-https://www.garda.com/crisis24/news-alerts/406021/albania-authorities-extend-covid-19-restriction-indefinitely-as-of-december-2-update-18
-https://qbz.gov.al/news/33b00e4f-8efb-4c99-8c45-595cd9b84f1b
-https://www.garda.com/crisis24/news-alerts/426036/albania-authorities-to-indefinitely-maintain-covid-19-related-nationwide-2200-0600-curfew-update-17
-https://www.garda.com/crisis24/news-alerts/474421/albania-domestic-covid-19-restrictions-remain-in-place-nationwide-as-of-may-3-international-entry-controls-lifted-update-24
+https://perma.cc/K2VJ-YE56
+https://perma.cc/33MS-N78V
+https://perma.cc/A43X-BWDA
+https://perma.cc/EPU5-YZC2
+https://perma.cc/DW9C-D334
+
+https://perma.cc/TPH8-BY4L
 
 
 
@@ -124,38 +136,39 @@ b) Executive Decree No. 20-70 of 24 March 2020 (3) establishing additional measu
 The Algerian Government has been using the same legal instruments in order to issue regulations in forms of Executive Decrees to deal with Covid-19 throughout (see: a list of decrees up to January 2021: 7, 8, decrees during Q1 and Q2 of 2021: 9, 10, 11). 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Algeria_2016.pdf?lang=en
+ https://perma.cc/L2LJ-WBNJ
 (1)
 
-https://ambalgeri.esteri.it/ambasciata_algeri/resource/doc/2020/03/decreto_dz_covid_19_-_21032020.pdf
+https://perma.cc/62EZ-A9NW
 (2)
 
-http://www.faf.dz/wp-content/uploads/2020/03/Journal-Officiel-n%C2%B016-Relatif-%C3%A0-la-Lutte-contre-le-COVID-19.pdf
+https://perma.cc/3R5P-8U7S
 (3)
 
-https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=en&p_isn=4767
+https://perma.cc/U434-T2CU
 (4)
 
-https://www.gide.com/fr/actualites/covid-19-mesures-generales-relatives-a-la-lutte-contre-la-propagation-du-covid-19-en
+https://perma.cc/8N8A-CLYW
 (5)
 
-https://cms.law/fr/media/local/cms-bfl/files/veille-covid-19-en-afrique-du-13-au-17-avril-2020
+https://perma.cc/VA9W-MHGE
 (6)
 
-http://ilo.org/dyn/natlex/natlex4.listResults?p_lang=en&p_count=97059&p_classification=01&p_classcount=12682&p_first=151&p_show_abstract=N&p_pagelength=50
+https://perma.cc/P4T9-8BCT
 (7)
 
-https://samtalgerie.com/wp-content/uploads/2021/02/Textes-juridiques-Algerie-Sante-COVID-19-2020.pdf
-(8)
+https://perma.cc/8EFY-WS4K
+(6)
 
-https://www.cna.dz/extension/mydesign/design/mydesign/images/covid-19/DE_21-70_COVID-19.pdf
+https://perma.cc/BU8R-PJXK
 (9)
 
-https://www.cna.dz/extension/mydesign/design/mydesign/images/covid-19/DE_21-105_COVID-19.pdf
+https://perma.cc/DKE9-RJV6
 (10)
 
-https://www.mfdgi.gov.dz/images/pdf/textes_reglementaires/F2021024.pdf
+https://perma.cc/6QUU-JSN9
 (11)
+
 
 
 
@@ -180,14 +193,21 @@ https://www.mfdgi.gov.dz/images/pdf/textes_reglementaires/F2021024.pdf
  The Presidental Decree nº 81/20 declared a state of emergency on March 25 2020, and it was in place until May 25 2020. Once it ended, the Presidential Decree nº 142/20 declared a state of calamity, which allows the government to impose some restrictive measures. The state of calamity has been extended several times, currently until July 9 2021. 
 
 *Sources*:
- https://www.angop.ao/noticias/politica/covid-19-angola-com-novo-periodo-de-calamidade-publica/
-https://www.rtp.pt/noticias/covid-19/angola-inicia-ano-com-alivio-de-medidas-e-recorde-de-recuperacoes_n1288506
-https://www.angolaturismo.ao/docs/DecretoPresidencial%208120de25de%20Marco.pdf
-https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
-https://www.vda.pt/pt/publicacoes/insights/estado-de-emergencia-e-de-calamidade-publica/21946/
-https://governo.gov.ao/fotos/frontend_1/gov_documentos/200527_ja_decreto_presidencial_8066864925f3b7349d7c68.pdf
-https://governo.gov.ao/ao/noticias/governo-actualiza-medidas-de-controlo-da-covid-19/
-https://www.garda.com/crisis24/news-alerts/489426/angola-authorities-extend-covid-19-state-of-calamity-nationwide-through-july-9-update-23
+ https://perma.cc/3VQR-UL5J
+
+https://perma.cc/FRE6-2CNC
+
+https://web.archive.org/web/20200622130622/https://www.angolaturismo.ao/docs/DecretoPresidencial%208120de25de%20Marco.pdf
+
+https://perma.cc/Q8QL-8BRG
+
+https://perma.cc/2D39-H4RW
+
+https://perma.cc/QY9Q-VA56
+
+https://perma.cc/6VW8-KMSW
+
+https://perma.cc/7SYM-LLUL
 
 
 
@@ -213,11 +233,13 @@ https://www.garda.com/crisis24/news-alerts/489426/angola-authorities-extend-covi
 
 *Sources*:
  [1]
-http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333564/norma.htm
+https://perma.cc/4KTV-P65Q
+
 [2]
-https://www.argentina.gob.ar/coronavirus/dnu
+https://perma.cc/GY3Q-BBDB
+
 [3]
-https://www.argentina.gob.ar/normativa/nacional/decreto-167-2021-347809
+https://perma.cc/C7TA-SUH8
 
 
 
@@ -243,15 +265,49 @@ https://www.argentina.gob.ar/normativa/nacional/decreto-167-2021-347809
 A quarantine was declared from 11 September 2020 until 11 January 2021, and was extended until 11 July 2021. 
 
 *Sources*:
- https://www.e-gov.am/gov-decrees/item/35435/
-,
-https://www.garda.com/crisis24/news-alerts/470286/armenia-authorities-continue-to-enforce-international-entry-and-domestic-restrictions-due-to-covid-19-as-of-april-22-update-13
-https://www.arlis.am/DocumentView.aspx?docid=140631
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/
-https://www.e-gov.am/gov-decrees/item/34748/
-https://www.mfa.am/en/press-releases/2020/09/11/quarantaine_RA/10438
-https://www.garda.com/crisis24/news-alerts/368686/armenia-authorities-extend-state-of-emergency-through-september-11-and-ease-other-restrictions-as-of-august-12-update-16
-https://www.azatutyun.am/a/31042361.html
+ https://perma.cc/J35U-DJHP
+
+
+
+
+
+https://perma.cc/2455-ZJNK
+
+
+
+
+
+https://perma.cc/LRC5-MH6B
+
+
+
+
+
+https://perma.cc/4BYX-YT7W
+
+
+
+
+
+https://perma.cc/354R-NU6S
+
+
+
+
+
+https://perma.cc/E3SR-RYHT
+
+
+
+
+
+https://perma.cc/5R82-WJRK
+
+
+
+
+
+https://perma.cc/3NHL-5FZK
 
 
 
@@ -278,22 +334,27 @@ This is a specific legal instrument that is separate from the Disaster and Emerg
 It is still in force, having been extended four times with a current end date at 2021-09-17. 
 
 *Sources*:
- https://www.legislation.gov.au/Details/F2020L00266
+ https://perma.cc/EY68-XRUS
 
-https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/FlagPost/2020/March/COVID-19_Biosecurity_Emergency_Declaration
+https://perma.cc/TX2X-8ECD
 
-https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Scrutiny_of_Delegated_Legislation/Scrutiny_of_COVID-19_instruments
-https://www.legislation.gov.au/Details/C2017C00303
+https://perma.cc/XE6D-PPY4
 
-https://www.legislation.gov.au/Details/C2018Q00086
-https://www.legislation.gov.au/Series/F2020L00266
+https://perma.cc/DHK8-7DLL
 
-https://www.legislation.gov.au/Details/F2021L00190
-https://www.legislation.gov.au/Details/F2020L01566
-https://www.legislation.gov.au/Details/F2020L01129
-https://www.legislation.gov.au/Details/F2020L00574
+https://perma.cc/FDB4-7HK7
 
-https://www.legislation.gov.au/Details/F2021L00727
+https://perma.cc/NVS7-3A9S
+
+https://perma.cc/Y2F3-PBEV
+
+https://perma.cc/W3EG-YQ4J
+
+https://perma.cc/385V-2UTY
+
+https://perma.cc/6KHT-UANK
+
+https://perma.cc/4JG8-5JUC
 
 
 
@@ -318,15 +379,43 @@ https://www.legislation.gov.au/Details/F2021L00727
  Austria has a state of emergency legislation, but this has not been used. Instead, Austria have implemented a number of new laws (e.g. Covid-19 Law, Second Covid-19 Law and then subsequent legislation for the reopening of Austria, as well as a larger amendment of the Covid-19 Law on September 26 2020) within the existing legal framework, and based primarily on the Epidemics Act. These amendments have continued over the year, and they have also issued legislation of gradual re-opening which will come into effect on 2021-05-18. Through the new laws, the government has been given an extraordinary set of powers to address Covid-19, and this is therefore coded as 4. Worth noting is that the current primary legal instrument for taking measures on Covid-19 is the ”COVID-19 Emergency Measures Act - COVID-19-MG”. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2020_I_12/BGBLA_2020_I_12.pdfsig
-https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Rechtliches.html
+ https://perma.cc/Q4E8-W7BA
 
-https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011073
 
-https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Rechtliches.html
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+
+
+
+https://perma.cc/54HG-8SYJ
+
+
+
+
+
+https://perma.cc/P8LG-8HTE
+
+
+
+
+
+https://perma.cc/WB3S-QNDY
+
+
+
+
+
+https://perma.cc/EKT3-ZSX9
+
+
+
+
+
+https://perma.cc/SNZ5-V3R4
+
+
+
+
+
+https://perma.cc/JN57-HZ9B
 
 
 
@@ -351,13 +440,18 @@ https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%
  A special quarantine regime but not a state of emergency declared by the Cabinet of Ministers on 24 March 2020 and is in place at the time of coding. Under the special quarantine regime, initially people over 65 years old were prohibited from leaving home and assembly of more than 10 people was prohibited. According to OSCE report, Azerbaijan is among countries that "mainly relied on existing sanitation, health safety and/or disaster legislation that gives the authority to put in place restrictive measures." (1) 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/covid19uploads/Azerbaijan%20-%20INFORMATION%20ABOUT%20SPECIAL%20QUARANTINE%20REGIME.%2023.03.2020..pdf
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B373%5D&covid19=1
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+ https://perma.cc/3YPJ-QJKD
+https://perma.cc/J7UH-BULT
+
+https://perma.cc/K55A-GGCY
 (1)
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/
-https://koronavirusinfo.az/files/3/1ff8adaccc96bbc49e32ad0080ff5d9d.pdf
-https://koronavirusinfo.az/files/3/6003f3e205966be9e97a59e24a7dc39d.pdf
+
+
+https://perma.cc/U6JX-XCUV
+
+https://perma.cc/6NFN-F245
+
+https://perma.cc/HS8L-GWY7
 
 
 
@@ -387,14 +481,25 @@ The state imposed a lockdown which lasted from 7 April 2021 to 28 April 2021. Ho
  
 
 *Sources*:
- https://verfassungsblog.de/bangladeshs-unofficial-emergency-managing-the-covid-19-crisis-by-notifications/
-
-https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
-
-https://www.dhakatribune.com/bangladesh/2021/04/20/lockdown-extended-till-april-28-as-covid-deaths-continue-to-rise-2
+ https://perma.cc/SF8Z-K5NC
 
 
-https://www.thedailystar.net/bangladesh/news/stricter-weeklong-lockdown-april-22-state-minister-2080045
+
+
+
+https://perma.cc/AP82-MY5C
+
+
+
+
+
+https://perma.cc/5ZVZ-EY6M
+
+
+
+
+
+https://perma.cc/5AE7-DFGH
 
 
 
@@ -419,17 +524,16 @@ https://www.thedailystar.net/bangladesh/news/stricter-weeklong-lockdown-april-22
  No state of emergency declared and the measures included: Resolution of the Council of Ministers 208 from 8 April 2020 that resticted people in self-isolation from leaving their home and Resolution of the Council of Ministers 171 from 25 March 2020 (amended on 24 April 2020, 26 June 2020) establishing rules for transport operators and people arriving from certain foreign countries (the list of countries that do not require self-isolation was last amended on 11 June 2020). On 24 April, the President signed a decree introducing measures to support the economy. According to OSCE report, such regulations are of "rather limited scope" (1). According to OECD, Belarus has introduced only some containment measures and no "comprehensive containment measures" (2).  Nevertheless, I coded them as part of the emergency response similar to International IDEA. 
 
 *Sources*:
- https://pravo.by/document/?guid=12551&p0=C22000208&p1=1&p5=0
-http://www.government.by/upload/docs/file1dfbe646dd5b11d0.PDF
-http://www.government.by/upload/docs/fileebd46c4c0ea2ddf9.PDF
-https://www.icnl.org/covid19tracker/?location=10&issue=&date=&type=
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B370%5D&covid19=1
-https://pravo.by/novosti/obshchestvenno-politicheskie-i-v-oblasti-prava/2020/june/51500/
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-(1)
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/
-(2)
-http://president.gov.by/ru/official_documents_ru/view/ukaz-143-ot-24-aprelja-2020-g-23485/
+ https://perma.cc/NN2K-2S3S
+https://web.archive.org/web/20200523064001/http://www.government.by/upload/docs/file1dfbe646dd5b11d0.PDF
+https://web.archive.org/web/20200813085104/http://www.government.by/upload/docs/fileebd46c4c0ea2ddf9.PDF
+
+https://perma.cc/Z82W-U967
+https://perma.cc/J7UH-BULT
+https://perma.cc/F59N-PSDB
+https://perma.cc/FUR3-AP8Q
+https://perma.cc/2S8F-ECXT
+https://perma.cc/5CYW-454M
 
 
 
@@ -471,56 +575,51 @@ On 28 October 2020, the Federal Governemnt issued a new Ministrial Order (13) wh
 The Pandemic Law has not been approved by Parliament as of 17 May 2021; it passed its first hearing on 7 May 2021 (17). 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Belgium_2014.pdf?lang=en
+ https://perma.cc/W3GL-HR26
 (1)
 
-https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
+https://perma.cc/P7SL-CL47
 (2)
 
-https://verfassungsblog.de/belgium-and-covid-19-when-a-health-crisis-replaces-a-political-crisis/
+https://perma.cc/2KFY-Z3RP
 (3)
 
-https://centredecrise.be/fr/news/gestion-de-crise/coronavirus-reponses-vos-questions
+https://perma.cc/A6N8-F6UQ
 (4)
 
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032702&table_name=loi
+https://perma.cc/S2L6-KRZ7
 (5)
 
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032701&table_name=loi
+https://perma.cc/Q9EA-KNYQ
 (6)
 
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2020032301&table_name=loi
+https://perma.cc/9RE5-Q4PZ
 (7)
 
-https://www.robert-schuman.eu/en/doc/ouvrages/FRS_Parliament_Belgium.pdf
+https://perma.cc/34D4-M29C
 (8)
 
-https://fra.europa.eu/sites/default/files/fra_uploads/be_report_on_coronavirus_pandemic_november_2020.pdf
+https://perma.cc/8PK5-6XAH
 (9)
 
-https://www.rtbf.be/info/belgique/detail_fin-des-pouvoirs-speciaux-debut-de-nouvelles-difficultes-politiques?id=10530520
+https://perma.cc/YK7D-5HUY
 (10)
 
-https://centredecrise.be/sites/default/files/content/mb3006.pdf
+https://web.archive.org/web/20200918141605/https://centredecrise.be/sites/default/files/content/mb3006.pdf
+
 (11)
 
-https://crisiscentrum.be/sites/default/files/mb_1810_0.pdf
+https://web.archive.org/web/20201027103811/https://crisiscentrum.be/sites/default/files/mb_1810_0.pdf
 (12)
 
-http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&table_name=loi&cn=2020102801
+https://perma.cc/DL8U-H4AX
 (13)
 
-https://verfassungsblog.de/belgiums-accordion-response-to-covid-19/
+https://perma.cc/D89K-T36E
 (14)
 
-https://www.vrt.be/vrtnws/nl/2021/02/26/ontwerp-pandemiewet-klaar/
+https://perma.cc/YC3Y-6GCM
 (15)
-
-https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=nl&la=N&cn=2007051561&table_name=wet
-(16)
-
-https://www.brusselstimes.com/belgium/167816/pandemic-law-passes-first-reading-in-parliament-following-lengthy-debates-chamber-annelies-verlinden-lockdown-curfew-brussels-court/
-(17)
 
 
 
@@ -552,34 +651,41 @@ On 11 May 2020 the government lifted the health cordon (5). Face masks became ma
 Benin has maintained some restrictions in place throughout Q1 and Q2 of 2021 like the mandatory wearing of masks, regular hand washing with soap and water or the use of hydroalcoholic solution, maintaining the health safety distance at least one meter between people (see 6-10). 
 
 *Sources*:
- https://www.gouv.bj/actualites/coronavirus--covid-19-/
+ https://perma.cc/DQV5-FK89
+
+
 (1)
 
-https://www.gouv.bj/actualite/556/coronavirus-les-11-mesures-prises-par-le-conseil-extraordinaire-des-ministres-au-benin/
+https://perma.cc/K4BL-4AAA
+
 (2)
 
-https://www.gouv.bj/actualite/567/coronavirus---communique-gouvernement-propos-deux-nouvelles-mesures-prises/
+https://perma.cc/FZ4S-XXLN
+
+
 (3)
 
-https://www.gouv.bj/actualite/571/coronavirus---communique-ministre-interieur-sujet-cordon-sanitaire/
+https://perma.cc/AV6L-69DZ
+
 (4)
 
-https://24haubenin.info/?Le-cordon-sanitaire-leve-ce-lundi-a-00h
+https://perma.cc/UW8T-VMTR
 (5)
 
-https://reliefweb.int/report/benin/unicef-benin-covid-19-situation-report-no-23-3-30-october-2020
+https://perma.cc/JQ9Z-FM8B
 (6)
 
-
-https://www.garda.com/crisis24/news-alerts/424891/benin-covid-19-restrictions-ongoing-nationwide-as-of-jan-4-update-11
+https://perma.cc/LHB7-6AF7
 (7)
 
-https://www.garda.com/crisis24/news-alerts/460582/benin-covid-19-restrictions-remain-unchanged-nationwide-as-of-march-24-by-comparison-with-those-in-effect-in-early-february-update-14
+https://perma.cc/GK9P-DXB2
 (8)
-https://www.gouv.bj/actualite/1143/communique-ministere-sante-situation-actuelle-covid-19/
+
+https://perma.cc/Q842-ZT9V
+
 (9)
 
-https://www.gouv.bj/coronavirus/mesures/
+https://perma.cc/M4TU-ZU29
 (10)
 
 
@@ -606,13 +712,16 @@ https://www.gouv.bj/coronavirus/mesures/
 
 *Sources*:
  [1]
-https://www.boliviasegura.gob.bo/archivos/4196.doc.pdf
+https://web.archive.org/web/20200625124207/https://www.boliviasegura.gob.bo/archivos/4196.doc.pdf
+
 [2]
-https://www.boliviasegura.gob.bo/archivos/4179.doc.pdf
+https://web.archive.org/web/20200707070157/https://www.boliviasegura.gob.bo/archivos/4179.doc.pdf
+
 [3]
-http://www.gacetaoficialdebolivia.gob.bo/normas/buscar_comp/(COVID-19)
+https://perma.cc/TBW9-CDQS
+
 [4]
-https://www.lexivox.org/norms/BO-DS-N4473.xhtml
+https://perma.cc/FJ9F-D8KE
 
 
 
@@ -637,19 +746,15 @@ https://www.lexivox.org/norms/BO-DS-N4473.xhtml
  Emergency situations introduced separately on 16 March 2020 in the Bosniak-Croat Federation (state of disaster) and the Serb Republic (state of emergency); nationwide state of disaster introduced on 17 March 2020, as announced in the Official Gazette of BiH, No. 18/20. Nationwide state of disaster ended on 31 May and since then I found no measures taken at the federal level since then. 
 
 *Sources*:
- http://www.sluzbenilist.ba/page/akt/bTsBUE4N5GM=
-https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/predsednik/odluka/2020/29/1/reg
-http://www.fbihvlada.gov.ba/bosanski/aktuelno_v2.php?akt_id=8417
-http://www.fbihvlada.gov.ba/bosanski/zakoni/2020/Odluke/198.htm
-http://www.oecd.org/south-east-europe/COVID-19-Crisis-in-Bosnia-and-Herzegovina-archive.pdf
-https://www.oecd.org/south-east-europe/COVID-19-Crisis-in-Bosnia-and-Herzegovina.pdf
-http://www.fbihvlada.gov.ba/bosanski/aktuelno_v2.php?akt_id=8914
-
-https://www.garda.com/crisis24/news-alerts/393291/bosnia-and-herzegovina-authorities-introduce-stricter-covid-19-measures-across-the-country-october-26-update-6
-https://www.paragraf.ba/propisi/republika-srpska/zakljucak-o-obaveznom-sprovodjenju-mjera-za-reagovanje-na-pojavu-bolesti-izazvane-novim-virusom-korona-covid-19-u-republici-srpskoj.html
-
-
-
+ https://perma.cc/5DRP-QWW2
+https://perma.cc/YNC7-T4NW
+https://perma.cc/E5UZ-ZVV8
+https://perma.cc/DS5K-VL4D
+https://perma.cc/L2QL-Y6GF
+https://perma.cc/Q4K9-ZC6R
+https://perma.cc/AM2C-L9KN
+https://perma.cc/5B4Z-VXQU
+https://perma.cc/R98N-9SXA
 
 
 
@@ -677,27 +782,25 @@ In April 2021 the state of public emergency was extended by another 6 months.
 
 *Sources*:
  [1]
-https://www.gov.bw/sites/default/files/2020-03/Covid19.pdf
-
+https://perma.cc/EC7D-SEVF
 [2]
-https://www.chr.up.ac.za/images/researchunits/litigagion/covid19_country_regulations/Botswana-Emergency_Powers_COVID-19_Regulations.pdf
-
+https://perma.cc/N3X2-NKHE
 [3]
-https://www.parliament.gov.bw/index.php/parliamentary-business/notice-papers
-
+https://perma.cc/G6UW-BNQU
 [4]
-https://africa.cgtn.com/2021/04/02/botswana-extends-state-of-public-emergency-to-fight-covid-19/
+https://perma.cc/7SWU-NDQC
 [5]
-http://www.xinhuanet.com/english/africa/2021-04/02/c_139854019.htm
-https://allafrica.com/stories/202104010153.html
+https://perma.cc/N3BU-ET3J
 [6]
-https://www.constituteproject.org/constitution/Botswana_2016?lang=en
+https://perma.cc/9UQR-32LR
 [7]
-https://www.facebook.com/BotswanaGovernment/posts/2892215390861100
+https://perma.cc/TF3A-SJJC
 [8]
-https://verfassungsblog.de/constitutionalism-in-a-time-of-crisis-botswanas-reaction-to-the-covid-19-pandemic/
+https://perma.cc/5U7B-EXHU
 [9]
-https://abcnews.go.com/International/wireStory/botswana-extends-emergency-measures-combat-virus-73310846
+https://perma.cc/87RF-CB6Y
+[10]
+https://perma.cc/6AH7-A5FV
 
 
 
@@ -723,7 +826,7 @@ https://abcnews.go.com/International/wireStory/botswana-extends-emergency-measur
 
 *Sources*:
  [1]
-http://www.in.gov.br/web/dou/-/portaria-n-188-de-3-de-fevereiro-de-2020-241408388
+https://perma.cc/S3VB-53HC
 
 
 
@@ -748,16 +851,14 @@ http://www.in.gov.br/web/dou/-/portaria-n-188-de-3-de-fevereiro-de-2020-24140838
  State of emergency declared by the National Assembly from 13 March 2010 until 13 May 2020. On 14 May 2020, “nationwide epidemic situation" (izvunredna epidemiologichna obstanovka, can be translated as "extraordinary epidemiological circumstances" was initially declared for one month, which was extended several times (the latest extension is until 31.07.2021) 
 
 *Sources*:
- https://www.parliament.bg/bills/44/054-01-24.pdf
-https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=146931
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
-https://www.osce.org/files/f/documents/e/c/457567_0.pdf
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-
-https://fra.europa.eu/sites/default/files/fra_uploads/bg_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.mh.government.bg/media/filer_public/2021/04/29/zabrana_vlizane_bg_29_04_2021-9.pdf
-https://www.mh.government.bg/bg/novini/ministerski-savet/udlzhava-se-srokt-na-obyavenata-izvnredna-26-05-21/
-
+ https://perma.cc/VTW4-BXMU
+https://perma.cc/N87E-ADDH
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://perma.cc/Y7GF-S485
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://perma.cc/XHV3-UJHR
+https://perma.cc/PX8V-BFGB
+https://perma.cc/P47Y-4L35
 
 
 
@@ -797,40 +898,20 @@ Measures taken after that date are more general in nature, like the mandatory we
 In Q1 and Q2 2021, while no Covid-19-related curfews remain in effect, security-related curfews and associated states of emergency not connected with disease activity are still in force in the Est, Sahel, Boucle de Mouhoun, Nord, Haut-Bassins, and Centre-Est regions (13). 
 
 *Sources*:
- https://lavoixdujuristebf.files.wordpress.com/2013/08/loi-nc2b023-94-adp-portant-code-de-la-sante-publique.pdf
-(1)
+ [1]	perma.cc/RTR5-M6UU
+[2]	https://perma.cc/X9UQ-DMMN
+[3]	https://perma.cc/UFG8-L3ER
+[4]	perma.cc/7AW3-RJSS
+[5]	perma.cc/84XA-CY95
+[6]	perma.cc/8YYT-TV7M
+[7]	perma.cc/9JJ7-CE5N
+[8]	perma.cc/EEF3-4K8F
+[9]	perma.cc/LYM5-6QTS
+[10]	perma.cc/C3GR-HNP3
+[11]	perma.cc/ETV6-UAGF
+[12]	perma.cc/XC2W-VWC6
+[13]	perma.cc/B26S-5LH5
 
-https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
-(2)
-
-https://www.sig.gov.bf/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=305&cHash=012d1512353b08bcf47df2e5d875dadb
-(3)
-
-https://hakilitimes.com/gestion-juridique-du-covid-19-au-burkina-lanalyse-assez-critique-dun-think-tank/
-(4)
-
-https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-etat-d-alerte-sanitaire-devrait-etre-limitee-dans-le-temps-pr-abdoulaye-soma.html
-(5)
-
-https://www.gouvernement.gov.bf/fileadmin/user_upload/storage/fichiers/De__cret_portant_restriction_temporaire_des_liberte__s.pdf
-(6)
-https://hakilitimes.com/coronavirus-le-gouvernement-burkinabe-veut-legiferer-par-ordonnance/
-(7)
-https://www.burkina24.com/2020/04/21/tribune-burkina-faso-quel-usage-de-la-loi-dhabilitation-sollicitee-par-le-gouvernement-pour-la-lutte-contre-le-covid-19/
-(8)
-https://lepays.bf/crise-sanitaire-au-burkina-2/
-(9)
-https://www.leconomistedufaso.bf/2020/06/03/lutte-contre-la-covid-19-le-gouvernement-corrige-des-insuffisances-juridiques/
-(10)
-
-https://www.constituteproject.org/constitution/Burkina_Faso_2015.pdf?lang=en
-(11)
-
-https://bf.usembassy.gov/u-s-citizen-services/covid-19-information/
-(12)
-
-https://www.garda.com/crisis24/news-alerts/471271/burkina-faso-covid-19-restrictions-remain-unchanged-nationwide-as-of-april-25-compared-to-measures-in-early-march-update-14
-(13)
 
 
 
@@ -856,41 +937,76 @@ https://www.garda.com/crisis24/news-alerts/471271/burkina-faso-covid-19-restrict
 On February 1 2021, a military coup displaced the government. The new government also imposed a year-long state of emergency, but not in relation to Covid-19. Multiple sources contend that since the military coup, the restrictions have mostly been kept in place, although most of them have not been confirmed or enacted anew under the new government (for instance, the U.S. embassy states that much of the restrictions have not formally been announced again since the coup, and restrictions can change without formal notice). Thus, the exact restrictions in place are somewhat unclear in Myanmar, but in general the restrictions remain as they were before the coup (Garda for instance mentions that the restriction of no more than 30 people gathering remains as of early May 2021, and have also continuously reported that restrictions have remained in place since the coup). Since the measures and restrictions seem to be the same before and after the coup, and no reference to legal instruments has been found, this is coded as 5 for Q1 and Q2 of 2021 as well. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Myanmar_2015.pdf?lang=en
-
-https://mm.usembassy.gov/Covid-19-information/
+ https://perma.cc/CQ45-VNF2
 
 
+https://perma.cc/H38G-CHP8
 
 
-https://www.garda.com/crisis24/news-alert-full-history/aFv8t8QnEdDsHp4ZF/myanmar-extended-quarantine-measures-implemented-due-to-Covid-19-march-19
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.irrawaddy.com/news/burma/myanmar-govt-cancels-mass-gatherings-and-thingyan-water-festival-as-coronavirus-precaution.html
-
-https://www.irrawaddy.com/specials/myanmar-Covid-19/timeline-myanmars-government-responses-to-the-Covid-19-pandemic.html
-
-https://www.irrawaddy.com/specials/myanmar-Covid-19/different-laws-applied-myanmar-Covid-19-restrictions-lead-inconsistent-punishments-violators.html
-https://covidlawlab.org/?s&topic&country=Myanmar
+https://perma.cc/4UUD-52F2
 
 
-https://data.opendevelopmentmyanmar.net/laws_record/request-to-avoid-public-gatherings
+https://perma.cc/BCY5-8KW4
 
 
-https://www.garda.com/crisis24/news-alerts/393901/myanmar-authorities-extend-international-flight-suspension-until-november-30-update-26
+https://perma.cc/4JCP-KC8W
 
-https://www.garda.com/crisis24/news-alerts/383596/myanmar-stay-at-home-orders-issued-for-additional-townships-on-september-26-update-25
-https://www.garda.com/crisis24/news-alerts/463451/myanmar-authorities-continue-to-enact-Covid-19-restrictions-as-of-april-5-update-33
 
-https://www.garda.com/crisis24/news-alerts/472336/myanmar-officials-continue-to-enact-Covid-19-rules-in-rakhine-state-as-of-april-28-update-10
+https://perma.cc/D9HL-UUJS
 
-https://www.garda.com/crisis24/news-alerts/474581/myanmar-authorities-continue-to-enact-Covid-19-restrictions-as-of-may-4-update-34
 
-https://www.garda.com/crisis24/news-alerts/449036/myanmar-authorities-extended-Covid-19-restrictions-through-march-31-update-32
+https://perma.cc/L7BP-STBE
 
-https://www.garda.com/crisis24/news-alerts/423381/myanmar-authorities-extend-Covid-19-restrictions-through-jan-31-2021-update-29
 
-https://verfassungsblog.de/myanmars-military-coup-detat-is-unconstitutional/ 
+https://perma.cc/387S-74UL
+
+
+
+
+
+https://perma.cc/5QNP-W4AX
+
+
+
+
+
+https://perma.cc/ZU5H-P2DY
+
+
+https://perma.cc/2ZUW-UZTH
+
+
+https://perma.cc/7U23-CUCP
+
+
+
+
+
+https://perma.cc/8H5F-FLPE
+
+
+
+
+
+https://perma.cc/9WGC-DHJZ
+
+
+
+
+
+https://perma.cc/M4PZ-ELAH
+
+
+
+
+
+https://perma.cc/65TZ-RDJR
+
+
+
+
+
+https://perma.cc/XZU7-2N68
 
 
 
@@ -919,27 +1035,15 @@ The measures still in place throughout the pandemic include social distancing an
  
 
 *Sources*:
- http://minisante.bi/?p=553http://minisante.bi/?p=569
-(1)
-
-http://minisante.bi/wp-content/uploads/Communiqu%C3%A9-de-presse-sur-les-mesures-d%C3%A9j%C3%A0-prises-de-pr%C3%A9vention-Covid-19.pdf
-(2)
-
-https://bi.usembassy.gov/covid-19-information/
-
-https://twitter.com/BurundiSecurity/status/1241045159636336641
-
-https://twitter.com/mspls_bdi/status/1241013386244169728
-
-https://www.africanews.com/2020/05/04/covid-19-measures-at-burundi-campaigns-ahead-of-may-20-vote//
-
-https://www.theguardian.com/world/2020/may/18/burundi-to-go-to-polls-amid-fears-authorities-playing-down-covid-19
-
-https://bi.usembassy.gov/alert-01132021/
-
-https://www.garda.com/crisis24/news-alerts/475866/burundi-covid-19-related-restrictions-in-place-remain-unchanged-as-of-may-7-update-11
-
-
+ [1]	perma.cc/T6JA-6T83
+[2]	perma.cc/9MLB-XFG4
+[3]	perma.cc/G3F8-DZ6B
+[4]	perma.cc/QP9T-5PZ7
+[5]	perma.cc/9MA7-5VFK
+[6]	perma.cc/F96Y-Q9LM
+[7]	perma.cc/8GXF-69R7
+[8]	perma.cc/92S5-AFN3
+[9]	perma.cc/L2SJ-6BA2
 
 
 
@@ -966,32 +1070,19 @@ https://www.garda.com/crisis24/news-alerts/475866/burundi-covid-19-related-restr
 On 11 March 2021, Law on Measures to Prevent the Spread of COVID-19 and other Serious, Dangerous and Contagious Diseases went in force, which is different from differs from a state of emergency, public health emergency, or disaster/catastrophe and is coded as 4. 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
-
-
-
-https://www.hrw.org/news/2020/04/29/cambodia-covid-19-spurs-bogus-fake-news-arrests
-
-https://www.voacambodia.com/a/cambodia-s-controversial-state-of-emergency-draft-signed-into-law/5398771.html
-
-
-https://www.hrw.org/news/2020/04/02/cambodia-emergency-bill-recipe-dictatorship
-
-https://www.voacambodia.com/a/state-of-emergency-draft-law-gives-gov-t-sweeping-powers-permits-human-rights-restrictions-/5353728.html
-
-https://www.amnesty.org/en/latest/news/2020/04/cambodia-proposed-emergency-power-obliterate-human-rights/
-
-https://www.constituteproject.org/constitution/Cambodia_2008.pdf?lang=en
-
-https://www.justsecurity.org/71194/opportunism-covid-19-and-cambodias-state-of-emergency-law/
-
-https://www.phnompenhpost.com/national/law-covid-19-control-takes-effect
-
-https://www.icnl.org/resources/civic-freedom-monitor/cambodia
-
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26985&LangID=E
-
-https://www.hrw.org/news/2021/03/05/cambodia-scrap-abusive-covid-19-prevention-bill
+ 
+https://perma.cc/KM9L-SCWU
+https://perma.cc/N8HW-BU58
+https://perma.cc/QUU9-CELS
+https://perma.cc/BK2D-DHPZ
+https://perma.cc/R7YS-9CJ8
+https://perma.cc/4SPG-BHPW
+https://perma.cc/2VJK-WXV2
+https://perma.cc/W69K-ZFTE
+https://perma.cc/8YE9-KFXE
+https://perma.cc/T3EH-USPA
+https://perma.cc/AJ3H-WMMP
+https://perma.cc/4W42-ZKQS
 
 
 
@@ -1021,24 +1112,14 @@ According to legal experts (2), ''In Cameroon, emergency law is solely the prero
 ''Instead, Cameroon has chosen to base the fight against Covid-19 on its existing legal framework. The fight against Covid-19 is a public health issue which, according to Cameroonian law, is a component of public order. The protection of public order is the responsibility of executive authorities, which have the power to adopt any executive orders for its preservation. As of now, all the measures taken in the context of the fight against Covid-19 are administrative measures, but as we shall see, they have different legal qualities and force.'' (1) 
 
 *Sources*:
- https://www.spm.gov.cm/site/?q=fr/content/strategie-gouvernementale-de-riposte-face-la-pandemie-de-coronavirus-covid-19
-(1)
-
-https://verfassungsblog.de/cameroons-fight-against-covid-19-an-ordinary-legal-framework-for-an-extraordinary-situation/
-(2)
-
-https://www.garda.com/crisis24/news-alerts/386261/cameroon-schools-reopened-amid-easing-of-covid-19-restrictions-october-5-update-9
-
-https://www.prc.cm/en/multimedia/documents/8228-government-response-strategy-to-the-coronavirus-pandemic-covid-19
-
-https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
-
-https://information.tv5monde.com/video/coronavirus-le-cameroun-ferme-ses-frontieres
-
-https://www.garda.com/crisis24/news-alerts/474506/cameroon-covid-19-restrictions-remain-largely-unchanged-nationwide-as-of-may-3-by-comparison-with-mid-march-update-12
-
-https://cm.usembassy.gov/covid-19-information/
-(8)
+ [1]	perma.cc/KE5B-YTSA
+[2]	perma.cc/72UK-9SMG
+[3]	perma.cc/77TJ-PEUP
+[4]	perma.cc/Y9XT-KAHM
+[5]	perma.cc/L9QE-HWHG
+[6]	perma.cc/BQF8-PB8M
+[7]	perma.cc/TEG3-UW6C
+[8]	perma.cc/2AZP-7YVM
 
 
 
@@ -1063,15 +1144,28 @@ https://cm.usembassy.gov/covid-19-information/
  Canada has a state of emergency legislation, the Emergency Act, but this has not been activated. Instead, the government uses existing legal framework such as the Quarantine Act, Human Pathogen and Toxins Act, Public Health Act and Public Health Agency of Canada Act to mitigate the spread of Covid-19. Furthermore, they have approved laws relating to Covid-19 (Covid-19 Emergency Response Act 1 and 2) but these are not emergency measures that affect any democratic rights, but rather provide financial aid to different sectors and groups. The Canadian government has also implemented national border restrictions and quarantine of foreign nationals entering Canada. Beyond that aspect, though, the emergency response, and declarations of states of emergency, have instead been conducted more or less entirely at the provincial level. Therefore, this is coded as 6, i.e. they have no national level emergency response because that response is handled by the provinces. 
 
 *Sources*:
- https://www.justice.gc.ca/eng/csj-sjc/covid.html
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.canada.ca/en/public-health/corporate/mandate/about-agency/acts-regulations/list-acts-regulations.html#qt
-https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/canadas-reponse.html
-https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2020_5/page-1.html
-https://www.parl.ca/DocumentViewer/en/43-1/bill/C-14/royal-assent
-https://www.justice.gc.ca/eng/csj-sjc/covid.html
-https://centre.irpp.org/wp-content/uploads/sites/3/2021/03/Variation-in-the-Canadian-provincial-and-territorial-responses-to-COVID-19.pdf
- 
+ https://perma.cc/KTE3-MCVM
+
+
+https://perma.cc/88VQ-QG3W
+
+
+https://perma.cc/WN35-F7SC
+
+
+https://perma.cc/PDZ3-QK7G
+
+
+https://perma.cc/J2RR-93GY
+
+
+https://perma.cc/SLD4-7W7V
+
+
+https://perma.cc/E8MC-HANK
+
+
+https://perma.cc/WCX5-9MXV
 
 
 
@@ -1100,27 +1194,20 @@ https://centre.irpp.org/wp-content/uploads/sites/3/2021/03/Variation-in-the-Cana
 Due to the security situation and the existence of rebel groups, a state of emergency was proclaimed on 21 January 2021 (extended until August 2021). A curfew is in force throughout the country, from 8 pm to 5 am. This is not related to the pandemic. 
 
 *Sources*:
- https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-centrafricaine/
+ [1]	perma.cc/7VDV-2GCJ
+[2]	perma.cc/FT98-8ZTL
+[3]	perma.cc/HYE5-P5GQ
+[4]	https://www.facebook.com/gouv.cf/photos/pcb.2594650120774731/2594650040774739/?type=3&theater
 
-https://cf.ambafrance.org/Informations-Coronavirus-Covid-19
-
-https://www.centrafrique-presse.info/article/13898/rca-covid-19-message-a-la-nation-de-son-excellence-le-professeur-faustin-archange-touadera-president-de-la-republique-chef-de-letat
-
-https://www.facebook.com/gouv.cf/photos/pcb.2594650120774731/2594650040774739/?type=3&theater
-
+[5]	
 https://www.facebook.com/gouv.cf/photos/pb.2107181279521620.-2207520000../2619835311589545/?type=3&theater
 
-https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19#C
-
-http://constitutionnet.org/news/covid-19-and-unamendable-limits-duration-presidential-and-legislative-terms-central-african
-
-https://www.garda.com/crisis24/news-alerts/432576/central-african-republic-authorities-maintain-minimal-covid-19-related-restrictions-as-of-jan-21-update-4
-
-https://www.garda.com/crisis24/news-alerts/477616/central-african-republic-nationwide-covid-19-restrictions-remain-largely-unchanged-as-of-may-12-update-8
-
-https://www.lemonde.fr/afrique/article/2021/01/22/etat-d-urgence-en-republique-centrafricaine-ou-l-emissaire-de-l-onu-veut-une-hausse-substantielle-des-casques-bleus_6067179_3212.html
-
-https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-centrafricaine/
+[6]	https://perma.cc/N6X2-J29Z
+[7]	perma.cc/B6AV-NBPT
+[8]	perma.cc/DRQ4-P3L4
+[9]	perma.cc/2D3G-Z3TA
+[10]	perma.cc/TG7M-ZHLT
+[11]	perma.cc/UKT4-DM4U
 
 
 
@@ -1149,24 +1236,15 @@ Coded as 1 instead of 2 because the Constitution does not offer a distinct provi
 The state of health emergency in Chad is still in place and was last extended through 11 September 2021, after consecutive extensions and it has never been lifted (8). 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Chad_2018.pdf?lang=en
-(1)
+ [1]	perma.cc/QM7B-RTAP
+[2]	perma.cc/EEX9-RZYC
+[3]	https://www.facebook.com/watch/?v=273032193715366
 
-https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=fr&p_isn=68934&p_country=TCD&p_count=155
-(2)
-
-https://www.facebook.com/watch/?v=273032193715366
-
-https://www.alwihdainfo.com/Covid-19-Le-Tchad-decrete-l-etat-d-urgence-sanitaire_a86440.html
-
-https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
-
-https://www.alwihdainfo.com/Tchad-etat-d-urgence-sanitaire-les-precisions-du-gouvernement_a86510.html
-
-https://reliefweb.int/report/chad/chad-quick-alerts-23-october-2020#:~:text=On%2016%20October%2C%20the%20National,the%20spread%20of%20COVID%2D19.
-
-https://tchadinfos.com/politique/tchad-le-couvre-feu-leve-letat-durgence-sanitaire-proroge-pour-six-mois/
-(8)
+[4]	perma.cc/TQK6-LGFS
+[5]	perma.cc/S2ZG-C3QS
+[6]	perma.cc/5WUA-UW6R
+[7]	perma.cc/P9PS-KGCN
+[8]	perma.cc/WG37-J28C
 
 
 
@@ -1192,9 +1270,11 @@ https://tchadinfos.com/politique/tchad-le-couvre-feu-leve-letat-durgence-sanitai
 
 *Sources*:
  [1]
-https://www.diariooficial.interior.gob.cl/publicaciones/2020/03/18/42607-B/01/1742691.pdf
+https://perma.cc/KD9E-DV6F
+
+
 [2]
-https://www.gob.cl/noticias/presidente-declara-estado-de-excepcion-constitucional-de-catastrofe-en-todo-el-territorio-nacional/
+https://perma.cc/5WT5-YSRP
 
 
 
@@ -1222,18 +1302,14 @@ I have not found evidence of the Chinese government triggering the emergency res
 
 *Sources*:
  [1]
-http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
-
-
+https://perma.cc/3XVG-RP7V
 [2]
-https://www.reuters.com/article/us-china-health-response/three-more-chinese-regions-lower-emergency-response-level-as-virus-threat-recedes-idUSKCN20K029
-
-
+https://perma.cc/T6XF-KUSJ
 [3]
-http://constitutionnet.org/state-of-emergency
+https://perma.cc/E8RB-HDQ2
 
 [4]
-http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
+https://perma.cc/3XVG-RP7V
 
 
 
@@ -1259,13 +1335,14 @@ http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
 
 *Sources*:
  [1]
-https://coronaviruscolombia.gov.co/Covid19/docs/decretos/minsalud/resolucion_385_de_2020_minsalud.pdf
+
+https://perma.cc/3TB5-K29B
 [2]
-https://incp.org.co/wp-content/uploads/2021/05/Resolucion-738-de-2021.pdf
+https://perma.cc/6FAS-BHBK
 [3]
-http://www.regiones.gov.co/Inicio/assets/files/51.pdf
+https://perma.cc/26X6-HKUQ
 [4]
-https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20637%20DEL%206%20DE%20MAYO%20DE%202020.pdf
+https://perma.cc/9D8S-ZB8E
 
 
 
@@ -1291,9 +1368,9 @@ https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20637%20DEL%206%20D
 
 *Sources*:
  [1]
-https://www.ministeriodesalud.go.cr/sobre_ministerio/prensa/decretos_cvd/decreto_ejecutivo_42227_mp_s_declaratoria_emergencia_nacional.pdf
+https://web.archive.org/web/20200412163555/https://www.ministeriodesalud.go.cr/sobre_ministerio/prensa/decretos_cvd/decreto_ejecutivo_42227_mp_s_declaratoria_emergencia_nacional.pdf
 [2]
-https://www.presidencia.go.cr/comunicados/2020/03/gobierno-declara-estado-de-emergencia-nacional-impide-llegada-de-extranjeros-y-se-suspende-lecciones-en-todos-los-centros-educativos-del-pais/
+https://perma.cc/46FJ-KRAG
 
 
 
@@ -1318,17 +1395,14 @@ https://www.presidencia.go.cr/comunicados/2020/03/gobierno-declara-estado-de-eme
  Croatia did not declare a state of emergency or disaster, and instead used existing legislation (the Civil Protection Act, the Law on Prevention of Infectious Diseases) to implement emergency measures, announced by decisions of the Civil Protection Authority. The first measures under this legal instrument are from 19 March 2020. The same legal instrument was used for all time periods (for example, March-June 2020: decision to limit social gatherings from 19 March , July-September 2020: decision to limit the working hours of night clubs from 10 July, October-December: decision on restricting social gatherings from 25 October, January-March, April-June 2021: many restrictions are still in place. Currently, it is supposed to last through 31 May and determines e.g. that gatherings of more than 25 people are forbidden, and the commerce of alcohol is prohibited between 22-6h. The government argues that from 1 June the measures could be relaxed). 
 
 *Sources*:
- https://vlada.gov.hr/news/37-fewer-infections-week-on-week-more-than-1-2-million-vaccine-shots-administered/32126
-https://www.garda.com/crisis24/news-alerts/479271/croatia-authorities-extends-covid-19-related-restrictions-through-may-31-update-25
-https://www.koronavirus.hr/najnovije/odluke-stozera-civilne-zastite-za-sprjecavanje-sirenja-zaraze-novim-koronavirusom/323
-
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-april-2020_en.pdf
-
-
-https://civilna-zastita.gov.hr/UserDocsImages/CIVILNA%20ZA%C5%A0TITA/PDF_ZA%20WEB/Odluka%20-%20okupljanja.pdf
-https://www.koronavirus.hr/najnovije/novo-radno-vrijeme-nocnih-klubova-barova-kafica/762
-https://fra.europa.eu/sites/default/files/fra_uploads/hr_report_on_coronavirus_pandemic_november_2020.pdf
+ [1]	perma.cc/6VCW-2M4A
+[2]	perma.cc/C8E9-XPGN
+[3]	perma.cc/5NWM-FCZU
+[4]	https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+[5]	perma.cc/7QDN-2K9J
+[6]	perma.cc/7PMN-2E5S
+[7]	perma.cc/5NWM-FCZU
+[8]	perma.cc/K75F-73DK
 
 
 
@@ -1355,15 +1429,15 @@ https://fra.europa.eu/sites/default/files/fra_uploads/hr_report_on_coronavirus_p
 
 *Sources*:
  [1]
-https://www.gacetaoficial.gob.cu/es/gaceta-oficial-no-19-extraordinaria-de-2020
+https://perma.cc/9DNH-VPZU
 [2]
-https://www.gacetaoficial.gob.cu/es/gaceta-oficial-no-25-extraordinaria-de-2020
+https://perma.cc/Q576-SJN2
 [3]
-https://www.gacetaoficial.gob.cu/es/gaceta-oficial-no-44-extraordinaria-de-2020
+https://perma.cc/8MXU-KSDJ
 [4]
-https://www.gacetaoficial.gob.cu/es/gaceta-oficial-no-8-extraordinaria-de-2021
+https://perma.cc/6SMY-9TTS
 [5]
-http://juriscuba.com/wp-content/uploads/2015/10/Decreto-No.-139.pdf
+https://perma.cc/X577-7GQA
 
 
 
@@ -1394,23 +1468,17 @@ October-December 2020, January-March 2021: state of emergency declared from 5 Oc
 April-June 2021: with the Pandemic Act, the state of pandemic alert entered into force. Some restrictions are maintained and are being eased gradually. 
 
 *Sources*:
- https://covid.gov.cz/en/situations/infection-and-general-measures/pandemic-act
-https://verfassungsblog.de/czechs-and-balances-one-year-later/
-https://www.vlada.cz/en/media-centrum/aktualne/the-state-of-emergency-to-end-on-monday--some-restrictions-will-be-lifted--first-children-back-in-schools-and-nurseries-187741/
-https://www.mvcr.cz/mvcren/article/state-of-emergency.aspx
-https://fra.europa.eu/sites/default/files/fra_uploads/czechia-report-covid-19-april-2020_en.pdf
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B316%5D&covid19=1
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+ [1]	perma.cc/7SBF-SYMB
+[2]	perma.cc/G8S6-ZXPG
+[3]	perma.cc/5E2J-BTB4
+[4]	perma.cc/G6N5-7ZN3
+[5]	perma.cc/SVE9-AAED
+[6]	https://perma.cc/J7UH-BULT
 
-https://koronavirus.mzcr.cz/en/extraordinary-and-protective-measures-and-recommendations/
-https://www.zakonyprolidi.cz/cs/2000-258#:~:text=(2)%20Ochrana%20ve%C5%99ejn%C3%A9ho%20zdrav%C3%AD%20je,jin%C3%BDch%20v%C3%BDznamn%C3%BDch%20poruch%20zdrav%C3%AD%20a
-
-(1)
-https://www.vlada.cz/assets/media-centrum/aktualne/1_state-of-emergency_30092020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/cz_report_on_coronavirus_pandemic_november_2020.pdf
-
-
-
+[7]	https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+[8]	perma.cc/8KY8-S3LA
+[9]	perma.cc/P52C-QSXR
+[10]	perma.cc/DB4A-LCWP
 
 
 
@@ -1447,46 +1515,23 @@ In other provinces including the city of Kinshasa, North - Kivu (east), Kongo Ce
 A curfew is still in effect from 10 p.m. to 4 a.m. in some provinces including Kinshasa as of June 2021 (14). 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Democratic_Republic_of_the_Congo_2011.pdf?lang=en
-(1)
+ https://perma.cc/K4FZ-8PZE
 
-https://backend.juridocs.org/wp-content/uploads/2020/04/Copie-certifie%CC%81e-de-lOrdonnance-n%C2%B020-014-DU-24-Mars-2020-portant-Proclamation-de-lEtat-dUrgence-Sanitaire-pour-faire-face-a%CC%80-lEpide%CC%81mie-de-COVID-19.pdf.pdf
-(2)
-
-https://www.bbc.com/afrique/region-52029801
-
-https://www.france24.com/en/20200325-dr-congo-president-imposes-state-of-emergency-to-contain-coronavirus-outbreak
-
-https://juriafrique.com/blog/2020/04/30/rdc-lordonnance-de-letat-durgence-de-felix-tshisekedi-est-conforme-a-la-constitution-dapres-la-cour-constitutionnelle/
-
-https://zoom-eco.net/a-la-une/rdc-le-comite-multisectoriel-de-riposte-a-la-covid-19-alerte-sur-une-deuxieme-vague-de-cette-pandemie-en-afrique/
-
-https://www.garda.com/crisis24/news-alerts/416591/drc-authorities-to-implement-nightly-curfew-from-dec-18-due-to-covid-19-activity-update-20#:~:text=Authorities%20in%20the%20Democratic%20Republic,disease%20(COVID%2D19).
-(7)
-
-https://afrique.lalibre.be/56783/coronavirus-debut-du-couvre-feu-en-rdc/
-(8)
-
-https://www.ccife-rdcongo.org/actualites/n/news/17-12-20-ministere-de-linterieur-arrete-precisant-les-modalites-dapplication-des-mesures-de-lutt.html
-(9)
-
-https://www.ccife-rdcongo.org/fileadmin/cru-1622202093/repcongo/user_upload/WhatsApp_Image_2020-12-19_at_09.49.07.jpeg
-(10)
-
-https://www.ccife-rdcongo.org/fileadmin/cru-1622202093/repcongo/user_upload/WhatsApp_Image_2020-12-19_at_09.49.07_1_.jpeg
-(11)
-
-https://www.ccife-rdcongo.org/fileadmin/cru-1622202093/repcongo/user_upload/WhatsApp_Image_2020-12-19_at_09.49.08.jpeg
-(12)
-
-https://www.aa.com.tr/fr/afrique/rdc-covid-19-all%C3%A8gement-du-couvre-feu-/2208322
-(13)
-
-https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-democratique-du-congo/
-(14)
-
-https://twitter.com/CMR_Covid19_RDC/status/1405227235221676036
-(15)
+https://backend.juridocs.org/wp-content/uploads/2020/04/Copie-certifie%CC%81e-de-lOrdonnance-n%C2%B020-014-DU-24-Mars-2020-portant-Proclamation-de-lEtat-dUrgence-Sanitaire-pour-faire-face-a%CC%80-lEpide%CC%81mie-de-COVID-19.pdf
+https://perma.cc/4FB7-FWST
+https://perma.cc/6XJD-W485
+https://perma.cc/QAE7-6B4P
+https://web.archive.org/web/20200811163902/https://juriafrique.com/blog/2020/04/30/rdc-lordonnance-de-letat-durgence-de-felix-tshisekedi-est-conforme-a-la-constitution-dapres-la-cour-constitutionnelle/
+https://perma.cc/98NE-TFXQ
+https://perma.cc/YSK5-J5MV
+https://perma.cc/YW5Z-27XK
+https://perma.cc/9JVW-R8UA
+https://perma.cc/AE2Q-4ZEP
+https://perma.cc/74MD-MDW7
+https://perma.cc/V6GJ-2NF5
+https://perma.cc/VY2P-VL3Z
+https://perma.cc/KA4X-WXZY
+https://web.archive.org/web/20210616181544/https://twitter.com/CMR_Covid19_RDC/status/1405227235221676036
 
 
 
@@ -1511,23 +1556,37 @@ https://twitter.com/CMR_Covid19_RDC/status/1405227235221676036
  The Danish government proposed an amedment to the Act on Measures against Infectious and Other Communicable Diseases (Epidemiloven) that grants the Minister of Health powers that include limiting gatherings of people, prohibiting access to means of transportation and order people who are suspected of being infected to isolate. This amendment is the legal instrument through which the initial emergency measures were taken, and this is therefore coded as 4. The amendment had a sunset clause set to a year, from 2020-03-01 to 2021-03-01. When this amendment expired, it was replaced with a permanent Epidemic Act (in danish also called Epidemiloven) that was prepared and debated in parliament during the fall and winter of 2020. This new and permanent Epidemic Act includes most of possible measures and powers of the temporary amendment, but due to the permanent nature also includes much more parliamentary oversight, veto rights and judicial review of actions taken, and especially so for the more intervening measures. Thus, the new epidemics act solidifies the Danish authorities powers to take measures to mitigate Covid-19 (and other similar diseases) spread if considered to have devastating enough effect on health and society, but it distributes the power of this act to more instances than the government, as well as introduces checks and balances onto the measures taken. Thus, the legal instrument changed as of Q2 in 2021, but it is still a new legislation not representing any state of emergency and thus coded 4 here as well. 
 
 *Sources*:
- https://www.elov.dk/epidemiloven/
-
-https://www.retsinformation.dk/eli/lta/2021/285
-https://www.retsinformation.dk/eli/ft/201913L00133
+ https://perma.cc/3YC5-KGWA
 
 
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.acaps.org/covid19-government-measures-dataset
+https://perma.cc/9BTK-QBQL
 
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.thelocal.dk/20201113/explained-what-is-denmarks-proposed-epidemic-law-and-why-is-it-being-criticised/
 
-https://verfassungsblog.de/the-eternal-emergency-denmarks-legal-response-to-Covid-19-in-review/
+https://perma.cc/573K-K4QB
 
-https://sum.dk/nyheder/2020/december/bred-aftale-om-ny-epidemilov-
+
+https://perma.cc/GN3Y-95PT
+
+
+https://perma.cc/4P3V-KNLM
+
+
+https://perma.cc/D8L8-A56B
+
+
+https://perma.cc/W634-PEDC
+
+
+https://perma.cc/46AV-HSYE
+
+
+https://perma.cc/PF2M-EHAY
+
+
+https://perma.cc/YRF4-5S4P
+
+
+https://perma.cc/B9AA-7XTD
 
 
 
@@ -1553,9 +1612,9 @@ https://sum.dk/nyheder/2020/december/bred-aftale-om-ny-epidemilov-
 
 *Sources*:
  [1]
-https://conep.org.do/sites/default/files/compendio_de_medidas_oficiales_covid-19_20-07.pdf
+https://perma.cc/8NBQ-BNB9
 [2]
-https://presidencia.gob.do/decretos/245-21
+https://perma.cc/AJ6T-9TWE
 
 
 
@@ -1581,25 +1640,21 @@ https://presidencia.gob.do/decretos/245-21
 
 *Sources*:
  [1]
-https://www.defensa.gob.ec/wp-content/uploads/downloads/2020/03/Decreto_presidencial_No_1017_17-Marzo-2020.pdf
+https://perma.cc/HV5A-XCEB
 [2]
-http://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/e2NhcnBldGE6J3RyYW1pdGUnLCB1dWlkOidmNWYwYTQ3OC0wNzQwLTQxZDMtOTNjOC0yMTliNjI4NDFlYzMucGRmJ30=
-
+https://perma.cc/W2XM-JNQQ
 [3]
-https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/09/Resoluciones-11-de-septiembre-.pdf
+https://perma.cc/H7SG-H8KP
 [4]
-https://www.coronavirusecuador.com/2020/08/yo-me-cuido-la-campana-del-gobierno-nacional-para-incentivar-el-compromiso-ciudadano/
+https://web.archive.org/web/20220223231456/https://www.coronavirusecuador.com/2020/08/yo-me-cuido-la-campana-del-gobierno-nacional-para-incentivar-el-compromiso-ciudadano/
 [5]
-https://www.elcomercio.com/actualidad/politica/corte-constitucional-decreto-excepcion.html
+https://perma.cc/UB6P-BABW
 [6]
-
-http://asobanca.org.ec/sites/default/files/Decreto%20Ejecutivo%201282%20Estado%20de%20excepci%C3%B3n%20hasta%20el%209%20de%20abril%20de%202021.pdf
-
+https://web.archive.org/web/20210820204511/http://asobanca.org.ec/sites/default/files/Decreto%20Ejecutivo%201282%20Estado%20de%20excepci<97>n%20hasta%20el%209%20de%20abril%20de%202021.pdf
 [7]
-https://www.corteconstitucional.gob.ec/index.php/boletines-de-prensa/item/874-constitucionalidad-parcial-del-decreto-ejecutivo-nro-1282-relativo-al-estado-de-excepci%C3%B3n.html
-excepcion
+https://perma.cc/G7ZU-PXJP
 [8]
-https://www.corteconstitucional.gob.ec/index.php/boletines-de-prensa/item/910-dictamen-de-constitucionalidad-del-decreto-de-estado-de-excepci%C3%B3n-nro-1291.html
+https://perma.cc/SM6L-UP8Y
 
 
 
@@ -1624,30 +1679,40 @@ https://www.corteconstitucional.gob.ec/index.php/boletines-de-prensa/item/910-di
  Egypt has been under a nationwide state of emergency since April 2017. It was extended for the 12th time on 28 April 2020 due to the Covid-19 pandemic. On 22 April 2020, amendments were made to the 1958 Emergency Law (No. 162/1958) which gives sweeping powers to the president and security agencies. The state of emergency has been extended regularly every three months. It was last extended on 25 April 2021 and it will last till 25 July 2021. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/07/egypt-covid-19-cover-new-repressive-powers
-
-https://www.atlanticcouncil.org/blogs/menasource/the-state-of-emergency-in-egypt-an-exception-or-rule/
-
-https://www.elwatannews.com/news/details/4706149
-
-https://english.aawsat.com//home/article/2243166/egypt-give-president-extensive-powers-during-coronavirus-outbreak
+ https://perma.cc/LT44-BKBV
 
 
-https://www.constituteproject.org/constitution/Egypt_2014.pdf
+https://perma.cc/MT9U-NZWA
 
-https://www.alkarama.org/sites/default/files/2016-12/Law%20162%20of%201958%20Emergency%20Law%20%28AR%29.pdf
 
-https://verfassungsblog.de/emergency-law-amendments-to-fight-covid-19-in-egypt-putting-the-poison-in-the-honey/
+https://perma.cc/UWB7-WDZK
 
-https://www.loc.gov/law/foreign-news/article/egypt-president-declares-state-of-emergency-for-health-and-security-conditions/#:~:text=Top%20Recent%20Articles-,Egypt%3A%20President%20Declares%20State%20of%20Emergency%20for%20Health%20and%20Security,of%20emergency%20for%20three%20months.
 
-https://www.garda.com/crisis24/news-alerts/336906/egypt-authorities-extend-state-of-emergency-from-april-28-amid-covid-19-pandemic-update-17
+https://perma.cc/7KST-8GPZ
 
-https://www.garda.com/crisis24/news-alerts/471191/egypt-authorities-extend-security-related-state-of-emergency-through-july-25-update-5
 
-https://www.egypttoday.com/Article/1/93779/Egyptian-House-approves-declaring-state-of-emergency-for-another-3
+https://perma.cc/VN37-7Q54
 
-https://www.loc.gov/law/foreign-news/article/egypt-president-declares-state-of-emergency-for-health-and-security-conditions/
+
+https://perma.cc/2ZRV-PXD6
+
+
+https://perma.cc/6VPJ-HMDP
+
+
+https://perma.cc/A694-3774
+
+
+https://perma.cc/7T3Y-RT6M
+
+
+https://perma.cc/G9MY-9AZ6
+
+
+https://perma.cc/3SVE-FNHV
+
+
+https://perma.cc/VB4S-DMGL
 
 
 
@@ -1673,22 +1738,22 @@ https://www.loc.gov/law/foreign-news/article/egypt-president-declares-state-of-e
 
 *Sources*:
  [1]
-https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/14-03-2020.pdf
+https://web.archive.org/web/20200401220732/https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/14-03-2020.pdf
 [2]
-https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/15-03-2020.pdf
-[3]
-https://covid19.gob.sv/presidente-nayib-bukele-ordena-establecer-cerco-sanitario-en-municipio-de-corinto-morazan-para-prevenir-posible-rebrote-del-covid-19/
-[4]
-https://www.presidencia.gob.sv/presidente-bukele-pide-a-la-poblacion-incrementar-medidas-biosanitarias-tras-decretar-cerco-sanitario-en-chalchuapa/
-[5]
-https://www.presidencia.gob.sv/gobierno-se-anticipa-con-medidas-preventivas-ante-deteccion-de-nueva-cepa-de-coronavirus-a-pesar-de-no-contar-con-herramientas-juridicas-para-enfrentar-la-emergencia/
-[6]
-https://www.presidencia.gob.sv/alcaldes-que-entorpecieron-acciones-del-gobierno-contra-la-pandemia-ahora-quieren-apropiarse-de-los-fondos-covid-19-para-usarlos-con-otros-fines/
-[7]
-https://www.presidencia.gob.sv/el-presidente-bukele-cumple-con-los-salvadorenos-a-pesar-de-los-bloqueos-de-los-sectores-de-oposicion/
+https://web.archive.org/web/20200401220842/https://www.diariooficial.gob.sv/diarios/do-2020/03-marzo/15-03-2020.pdf
 
+[3]
+https://perma.cc/H2SL-RQWP
+[4]
+https://perma.cc/VZ8Q-7PMG
+[5]
+https://perma.cc/3KPY-B46J
+[6]
+https://perma.cc/BMB4-27VA
+[7]
+https://perma.cc/KS5U-4J9A
 [8]
-https://www.presidencia.gob.sv/diputados-emiten-informe-con-sesgo-politico-y-que-contradice-a-organismos-internacionales-para-argumentar-que-el-gobierno-manejo-mal-la-pandemia/
+https://perma.cc/A4RG-4J34
 
 
 
@@ -1713,18 +1778,12 @@ https://www.presidencia.gob.sv/diputados-emiten-informe-con-sesgo-politico-y-que
  According to the constitution, article 27, only war, external invasion, civil disorder or natural disaster can be cause for a national state of emergency. Also, the announcement of the guidelines does not refer to any such legal instrument. 
 
 *Sources*:
- http://www.ituc-africa.org/ERITREA-Citizen-participation-in-response-to-COVID-19-and-time-for-renewal.html
-
-
-
-https://www.constituteproject.org/constitution/Eritrea_1997?lang=en
-
-
-
-https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
-https://shabait.com/2020/12/21/guidelines-from-the-high-level-task-force-on-covid-19-5/
-
-https://www.garda.com/crisis24/news-alerts/486171/eritrea-government-eases-certain-domestic-covid-19-restrictions-as-of-june-1-international-entry-controls-remain-largely-unchanged-update-12
+ [1]	perma.cc/HL88-5ABU
+[2]	perma.cc/DPD4-HTSC
+[3]	perma.cc/B2LW-48Z4
+[4]	https://web.archive.org/web/20200402131742/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
+[5]	perma.cc/M5KM-GSC6
+[6]	perma.cc/EL2Q-P448
 
 
 
@@ -1750,40 +1809,35 @@ https://www.garda.com/crisis24/news-alerts/486171/eritrea-government-eases-certa
 
 *Sources*:
  [1]
-https://www.emerald.com/insight/content/doi/10.1108/OXAN-DB256232/full/html
-
+perma.cc/Q76W-Y98G
 [2]
-https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110046/136731/F-912290884/ETH110046.pdf
-
+perma.cc/GX3F-THWH
 [3]
-https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en
-
+perma.cc/M9Y6-XZ2F
 [4]
-https://www.garda.com/crisis24/news-alerts/330611/ethiopia-government-declares-state-of-emergency-due-to-covid-19-april-8-update-8
+perma.cc/YT9L-4EXF
 [5]
-https://www.garda.com/crisis24/news-alerts/473631/ethiopia-authorities-maintaining-covid-19-related-restrictions-nationwide-as-of-april-30-update-11
+perma.cc/SG74-8LQ4
 [6]
-https://www.moh.gov.et/ejcc/sites/default/files/2020-10/COVID%2019%20Directive%20No.30.pdf
+perma.cc/UZ52-ZV6W
 [7]
-https://www.facebook.com/EthiopiaFMoH/posts/1789531567884305
+perma.cc/2UMS-GDXY
 [8]
-https://www.tobaccocontrollaws.org/files/live/Ethiopia/Ethiopia%20-%202019%20Proclamation%20-%20national.pdf
+perma.cc/8FKR-5L2F
 [9]
-https://www.garda.com/crisis24/news-alerts/413536/ethiopia-health-officials-maintain-coronavirus-disease-related-restrictions-as-of-dec-10-update-6
+perma.cc/32GA-CCYX
 [10]
-https://www.garda.com/crisis24/news-alerts/426051/ethiopia-authorities-maintaining-coronavirus-disease-restrictions-as-of-jan-6-update-7
+perma.cc/2VDN-YDJK
 [11]
-https://www.garda.com/crisis24/news-alerts/437536/ethiopia-authorities-maintaining-coronavirus-disease-restrictions-as-of-feb-1-update-8
+perma.cc/X76Z-VHG2
 [12]
-https://www.garda.com/crisis24/news-alerts/449456/ethiopia-covid-19-related-restrictions-remain-largely-unchanged-as-of-march-1-by-comparison-with-those-in-force-during-early-february-update-9
+perma.cc/FF73-74D3
 [13]
-https://www.garda.com/crisis24/news-alerts/462681/ethiopia-authorities-tighten-covid-19-related-restrictions-nationwide-as-of-april-1-update-10
+perma.cc/HV5W-JTND
 [14]
-https://www.garda.com/crisis24/news-alerts/473631/ethiopia-authorities-maintaining-covid-19-related-restrictions-nationwide-as-of-april-30-update-11
+perma.cc/M5F4-26HU
 [15]
-https://www.garda.com/crisis24/news-alerts/484451/ethiopia-authorities-maintain-covid-19-related-restrictions-as-of-may-28-update-12xc
-[16]
-http://www.fmhaca.gov.et/wp-content/uploads/2020/06/Food-and-Medicine-Administration-Proclamation-1112.pdf
+perma.cc/C3M9-GZST
 
 
 
@@ -1808,17 +1862,14 @@ http://www.fmhaca.gov.et/wp-content/uploads/2020/06/Food-and-Medicine-Administra
  The Finish Government declared a state of emergency unde the Emergency Powers Act on March 16 2020, which was terminated on June 16 2020. Since then, Finland has used existing legislation to take measures against Covid-19. The primary legal instrument, since the end of the State of Emergency, is the Communicable Diseases Act, for which some amendments related to handling the pandemic has also been passed by parliament. This is therefore coded as 1 in the Q2 of 2020, and 4 in the other periods. 
 
 *Sources*:
- https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
+ https://perma.cc/HS5Y-NN8U
+https://perma.cc/364V-WX3T
+https://perma.cc/B67N-CH4F
+https://web.archive.org/web/20200317064618/https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
+https://perma.cc/HVT3-KQSY
+https://perma.cc/D9H9-FG4B
 
-https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
-
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
-https://www.finlex.fi/fi/laki/alkup/2016/20161227
-https://verfassungsblog.de/finland-soft-measures-respect-for-the-rule-of-law-and-plenty-of-good-luck/
-
-https://valtioneuvosto.fi/-/10616/hallitus-linjasi-hybridistrategian-toimintasuunnitelman-taydentamisesta?languageId=en_US
+https://perma.cc/PWW9-J7M8
 
 
 
@@ -1856,42 +1907,20 @@ The Decree n ° 2020-1262 of 16 October 2020 was being updated during 2021.
 The state of health emergency had been extended several times and was due to expire on 16 February 2021. On 20 January 2021 the National Assembly gave the green light to extend the state of emergency until 1 June 2021. From 2 June 2021 the government will retain emergency powers until 31 October 2021 regarding the movement of people or the closure of shops if sanitary conditions require it. (12) 
 
 *Sources*:
- https://www.legifrance.gouv.fr/affichCode.do;jsessionid=ED7D7E3350C7E021A155E1D07DB5FFDC.tplgfr24s_2?cidTexte=LEGITEXT000006072665&idSectionTA=LEGISCTA000041748550&dateTexte=20200420&categorieLien=id#LEGISCTA000041748550
-(1)
-
-https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
-(2)
-
-http://constitutionnet.org/state-of-emergency
-(3)
-
-https://www.concurrences.com/en/bulletin/news-issues/may-2020-ii-en/the-french-parliament-adopts-an-emergency-law-establishing-a-health-state-of
-(4)
-
-https://www.loc.gov/law/foreign-news/article/france-government-adopts-law-declaring-and-defining-a-state-of-health-emergency/
-(5)
-
-https://www.gide.com/sites/default/files/gide_clientalert_covid19_ofi_loiurgence_en_mar2020_0.pdf
-(6)
-
-http://codes.droit.org/CodV3/sante_publique.pdf
-/
+ https://perma.cc/YHS3-2SER
+https://perma.cc/55RL-RS8D
+https://perma.cc/H48B-H64R
+https://perma.cc/ZXL6-3PCT
+https://perma.cc/KV84-VHJZ
+https://perma.cc/JCZ7-RYL7
+https://perma.cc/6R47-W9BY
 https://perma.cc/A2H2-YTQW
-(7)
-https://fra.europa.eu/sites/default/files/fra_uploads/fr_report_on_coronavirus_pandemic_november_2020_.pdf
-(8)
 
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042101318?r=MKyvM6sgBA
-(9)
-
-https://www.gouvernement.fr/partage/11776-conference-de-presse-sur-l-application-des-mesures-contre-la-covid-19
-(10)
-
-https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042430554/
-(11)
-
-https://www.rfi.fr/en/france/20210428-french-government-aims-to-lift-state-of-emergency-by-june
-(12)
+https://perma.cc/KFV5-YJY3
+https://perma.cc/VJP5-65SX
+https://perma.cc/Z3CB-CRRW
+https://perma.cc/EF8Y-GCNG
+https://perma.cc/UE2K-598K
 
 
 
@@ -1920,27 +1949,15 @@ The state of emergency has been in place continuously since March 2020, after co
 
 *Sources*:
  https://www.constituteproject.org/constitution/Gabon_2011.pdf?lang=en
-(1)
 
 http://www.droit-afrique.com/uploads/Gabon-Loi-1990-11-etat-urgence.pdf
-(2)
-
 https://www.legigabon.com/etat-d-urgence-covid-19
-(3)
-
 https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_bf8817338b3841c0a52d721427c55e55.pdf
-(4)
 
 https://www.union.sonapresse.com/gabon-culture-societe/covid-19-un-nouveau-dispositif-legislatif-se-met-en-place-21834
-(5)
-
 https://info241.com/covid-19-le-gouvernement-gabonais-prolonge-l-etat-d-urgence,797
-(6)
 
 https://www.gabonmediatime.com/maintien-de-letat-durgence-sanitaire-lhistoire-sans-fin/
-(7)
-
-
 
 
 
@@ -1968,17 +1985,28 @@ Q3 2020, Q4 2020, Q1 2021, Q2 2021: measures have been implemented through amend
 (1) of the Law of Georgia on Public Health, Article 5(c) and Article 6(2)(c) of the Law of Georgia on Personal Data Protection, the Law of Georgia on Healthcare, the Law of Georgia on Social Assistance, the Law of Georgia on Public Procurement, Article 30 of the Law of Georgia on State Budget of Georgia of 2020 and Article 6 of the Law of Georgia on Structure, Powers and Rules of Operation of the Government of Georgia. " Since Georgia has used multiple legal instruments, the Law of Georgia on Public Health is considered the primary legal instrument because it gives the government the power to implement measures related to isolation and quarantine. See the list of all amendments at the bottom of this page: https://matsne.gov.ge/ka/document/view/4877009?publication=114 
 
 *Sources*:
- https://matsne.gov.ge/en/document/view/4830372?publication=0
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/
+ https://perma.cc/WG22-ZNA6
 
-https://matsne.gov.ge/en/document/download/4877009/8/en/pdf
-https://matsne.gov.ge/ka/document/search?query=StopCoV&type=all&covDocs=1&sort=publishDate_desc
-https://matsne.gov.ge/en/document/download/4877009/8/en/pdf
-https://matsne.gov.ge/ka/document/view/4877009?publication=69
 
-https://ge.usembassy.gov/covid-19-information-on-georgia/
-https://matsne.gov.ge/ka/document/view/5035707?publication=0
-http://gov.ge/index.php?lang_id=GEO&sec_id=541&info_id=77641
+https://perma.cc/RK2Y-KGBS
+
+
+https://perma.cc/9TR4-PT5M
+
+
+https://perma.cc/K3VT-XMGA
+
+
+https://perma.cc/P5X8-PK87
+
+
+https://perma.cc/9UDR-CPTZ
+
+
+https://perma.cc/6MM7-5T2F
+
+
+https://perma.cc/62YP-S53E
 
 
 
@@ -2004,27 +2032,34 @@ http://gov.ge/index.php?lang_id=GEO&sec_id=541&info_id=77641
 On 2021-04-21, however, German parliament enacted a new amendment of the Infection Protection Act that mandates the states to impose a coherent set of restrictions if the number of Covid-19 cases exceed 100 in a 7-day period. These restrictions include curfews, restrictions on gatherings and restrictions on business. Thus, while state’s still have the possibility to extend further measures under such circumstances, there is a nationally determined baseline of restrictions that is applied when cases reaches a certain point. Given that the restrictions included in this new amendment are many of the most central ones, as of this point Germant is coded as having a national emergency response, and coded as 4 since this is no state of emergency but a new amendment to existing legislation. 
 
 *Sources*:
- https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html
-
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
+ https://perma.cc/AG74-5RHH
 
 
+https://perma.cc/73W7-R5RF
 
 
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-Covid-19/
+https://perma.cc/MSG9-YXLD
 
-https://www.acaps.org/covid19-government-measures-dataset
 
-https://www.deutschland.de/en/news/german-federal-government-informs-about-the-corona-crisis
+https://perma.cc/FG6W-RUNH
 
-https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/guv-19-lp/drittes-bevoelkerungsschutzgesetz.html
 
-https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/B/3._BevSchG_BGBl.pdf
-https://de.wikipedia.org/wiki/Liste_der_infolge_der_COVID-19-Pandemie_erlassenen_deutschen_Gesetze_und_Verordnungen
+https://perma.cc/9BWM-JEYQ
 
-https://verfassungsblog.de/germany-and-Covid-19-a-most-eventful-year/
 
-https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136
+https://perma.cc/ET84-P6GV
+
+
+https://perma.cc/C9D8-SVSY
+
+
+https://perma.cc/JW3Q-DH46
+
+
+https://perma.cc/J6Z4-4KUW
+
+
+https://perma.cc/U3NH-7H7E
 
 
 
@@ -2050,17 +2085,17 @@ https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136
 
 *Sources*:
  [1]
-https://presidency.gov.gh/index.php/briefing-room/speeches/1535-president-akufo-addo-addresses-nation-on-measures-taken-by-gov-t-to-combat-the-coronavirus-pandemic
+perma.cc/DW8E-NCRT
 [2]
-https://verfassungsblog.de/wp-content/uploads/2020/05/EXECUTIVE-INSTRUMENT-on-COVID.pdf
+perma.cc/B2NB-DEDT
 [3]
-https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-65.pdf
+perma.cc/BG64-FDZM
 [4]
-https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-66.pdf
+perma.cc/DQ9M-V9V9
 [5]
-https://verfassungsblog.de/wp-content/uploads/2020/05/Imposition-of-Restrictions-Act-2020-Act-1012.pdf
+perma.cc/PPH4-THMY
 [6]
-https://www.tandfonline.com/doi/pdf/10.1080/20508840.2020.1777648?needAccess=true
+perma.cc/YY9E-MJAJ
 
 
 
@@ -2089,30 +2124,31 @@ The first ''Act of Legislative Content'' with minimal measures to deal with Covi
 Consecutive Acts of Legislative Content and (Common) Ministerial Decisions have been issued during the pandemic (2, 3, 4, 5). See a list of all Acts and Ministerial Decisions: 9. 
 
 *Sources*:
- https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/001-156%20aggliko.pdf
+ perma.cc/A5KJ-24UN
 (1)
-http://constitutionnet.org/state-of-emergency
+
+perma.cc/CX59-643Z
 (2)
 
-https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional-matter-of-life-and-death/
+perma.cc/5MTZ-E4QM
 (3)
 
-https://verfassungsblog.de/constitutionalism-and-covid-19-in-greece-the-normality-of-emergency/
+perma.cc/HD6X-VQXE
 (4)
 
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-(5)
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
 
-https://www.ynanp.gr/media/documents/%CE%A0%CE%9D%CE%A0_25.2.2020.pdf
+(5)
+perma.cc/LFB4-M6ZD
 (6)
 
-https://www.ynanp.gr/media/documents/%CE%9A%CE%A5%CE%91_%CE%93%CE%B5%CE%BD%CE%B9%CE%BA%CF%8C%CF%82_%CE%A0%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CF%8C%CF%82_230320.pdf
+perma.cc/PWM7-6YLD
 (7)
 
-https://www.ynanp.gr/media/documents/%CE%92_4899_%CE%88%CE%BA%CF%84%CE%B1%CE%BA%CF%84%CE%B1_%CE%9C%CE%AD%CF%84%CF%81%CE%B1.pdf
+perma.cc/B8FL-6JL4
 (8)
 
-https://www.ynanp.gr/el/gr-epikoinwnias-enhmerwshs/prostasia-apo-neo-koronoio-nomothesia/
+perma.cc/GZ6B-4CAQ
 (9)
 
 
@@ -2139,23 +2175,23 @@ https://www.ynanp.gr/el/gr-epikoinwnias-enhmerwshs/prostasia-apo-neo-koronoio-no
 
 *Sources*:
  [1]
-https://www.minfin.gob.gt/images/calamidad/documentos/Decreto%20No%205-2020%20-%20COVID-19.pdf
-
+perma.cc/QM2E-C68R
 [2]
-https://www.cpd.gob.gt/post/acuerdo-ministerial-no-229-2020
+https://web.archive.org/web/20201027090903/https://www.cpd.gob.gt/post/acuerdo-ministerial-no-229-2020
 [3]
 https://www.mspas.gob.gt/component/jdownloads/category/784-acuerdo-gubernativo-no-150-2020.html?Itemid=-1
 [4]
-https://www.mspas.gob.gt/noticias/noticias-ultimas/5-noticias-mspas/1076-medidas-de-prevenci%C3%B3n-para-evitar-contagios-por-covid-19-son-obligatorias-para-toda-la-poblaci%C3%B3n.html
+https://web.archive.org/web/20201010121045/https://www.mspas.gob.gt/noticias/noticias-ultimas/5-noticias-mspas/1076-medidas-de-prevenci<97>n-para-evitar-contagios-por-covid-19-son-obligatorias-para-toda-la-poblaci<97>n.html
+
 [5]
 https://www.mspas.gob.gt/component/jdownloads/send/883-2021/8291-acuerdo-ministerial-no-87-2021.html
 
 [6]
 https://www.mspas.gob.gt/component/jdownloads/send/883-2021/7949-am-73-2021.html
 [7]
-https://www.guatemala.com/fotos/2021/04/DECRETO-GUBERNATIVO-4-2021.pdf
+perma.cc/P9DZ-MWKA
 [8]
-https://www.prensalibre.com/guatemala/comunitario/giammattei-impone-estado-de-prevencion-por-el-coronavirus-estas-son-las-nuevas-disposiciones-breaking/
+perma.cc/JH57-8QCP
 
 
 
@@ -2192,39 +2228,35 @@ This situation renders de facto null and void the orders issued in application o
 The state of emergency was reintroduced on 26 February 2021 for a period of 3 months, based on the same legal instrument, therefore it is coded as a continuation. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Guinea_2010.pdf
+ perma.cc/7EBJ-EMME
 (1)
 
-https://www.refworld.org/docid/3ae6b524c.html
+perma.cc/E6BZ-YQAZ
 (2)
 
-http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
+https://web.archive.org/web/20200528181921/http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
 (3)
 
-https://twitter.com/alphacondepresi/status/1243260447505203209?s=20
+https://perma.cc/97R8-KC6R
 (4)
 
-https://kalenews.org/a-partir-dhier-lundi-15-fevrier-letat-durgence-sanitaire-et-le-couvre-feu-ne-sont-plus-en-vigueur/
+
+https://web.archive.org/web/20210216151749/https://kalenews.org/a-partir-dhier-lundi-15-fevrier-letat-durgence-sanitaire-et-le-couvre-feu-ne-sont-plus-en-vigueur/
+
 (5)
 
-https://mediaguinee.org/grave-revelation-autour-de-la-prolongation-de-letat-durgence-sanitaire-lassemblee-nationale-na-pas-ete-associee-depute/
+perma.cc/4FPC-CCQD
 (6)
 
-https://guilaw.com/la-constitution-de-2020/
+perma.cc/K5N8-VHLZ
 (7)
 
-https://www.garda.com/crisis24/news-alerts/327766/guinea-authorities-announce-state-of-emergency-march-27-update-2
-
-https://www.garda.com/crisis24/news-alerts/416386/guinea-state-of-health-emergency-extended-through-mid-january-update-12
-
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011880515/guinea-authorities-extend-covid-19-related-state-of-health-emergency-for-a-month-from-jan-15-update-14
-
-https://www.garda.com/crisis24/news-alerts/444151/guinea-nationwide-covid-19-restrictions-remain-largely-unchanged-as-of-feb-17-update-15
-
-
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/h9e7wogkvd4bsihrf/guinea-nationwide-state-of-emergency-extended-through-april-30-due-to-covid-19-update-3
-https://www.garda.com/fr/crisis24/alertes-de-securite/484301/guinea-authorities-extend-covid-19-related-state-of-health-emergency-through-june-26-curfew-hours-reduced-may-27-update-19
-
+perma.cc/Z3TP-LHKX
+perma.cc/X6N4-64BJ
+perma.cc/Z9X6-YJKF
+perma.cc/LU38-6GAX
+perma.cc/D4N3-8CRL
+perma.cc/99CT-XT64
 
 
 
@@ -2258,44 +2290,43 @@ Due to a surge in Covid-19 cases, President Jovenel Moïse declared on 22 May 20
 The decree on the state of health emergency refers to the Decree of 15 March 2021 revising the Law of 15 April 2010 amending that of 9 September 2008 on the state of emergency (11). The said decree revising the law on the state of emergency could not be found however. 
 
 *Sources*:
- https://twitter.com/PrimatureHT/status/1243514262913527809?s=20
+ perma.cc/7T5E-EA9E
 (1)
 
-https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
+perma.cc/6MDF-8EEW
 (2)
 
-
-https://www.haitilibre.com/article-30843-haiti-flash-decret-presidentiel-fixant-les-regles-generales-de-protection-de-la-population-face-au-covid-19.html
+perma.cc/95NV-4TE3
 (3)
-https://www.reuters.com/article/us-health-coronavirus-haiti/haiti-declares-emergency-over-coronavirus-imposes-curfew-shuts-border-idUSKBN21700V
+
+perma.cc/33T2-FBC6
 (4)
 
-https://mspp.gouv.ht/site/downloads/Plan%20de%20Pr%C3%A9paration%20et%20de%20R%C3%A9ponse%20du%20MSPP%20au%20CoronaVirus.pdf
-(5)
-https://www.aljazeera.com/programmes/talktojazeera/2020/01/jovenel-moise-200123212546142.html
-(6)
-
-https://fas.org/sgp/crs/row/R45034.pdf
+[5]
+perma.cc/CH48-FS2H
+[6}
+https://web.archive.org/web/20200126102229/https://www.aljazeera.com/programmes/talktojazeera/2020/01/jovenel-moise-200123212546142.html
+perma.cc/Y672-ZRHB
 (7)
-https://www.constituteproject.org/constitution/Haiti_2012?lang=en
-(8)
 
-https://ht.usembassy.gov/covid-19-information/
+perma.cc/G7BM-9PJ6
+(8)
+perma.cc/4V8P-77LV
 (9)
 
-https://www.garda.com/crisis24/news-alerts/475926/haiti-covid-19-related-restrictions-remain-unchanged-as-of-may-7-update-14
+perma.cc/327H-94GG
 (10)
 
-https://www.haitilibre.com/en/news-33811-haiti-covid-19-state-of-health-emergency-text-of-the-order.html
+perma.cc/CJ7S-9Z48
 (11)
 
-https://www.garda.com/crisis24/news-alerts/483006/haiti-authorities-impose-covid-19-related-health-state-of-emergency-until-may-30-tightening-domestic-restrictions-update-15
+perma.cc/P7XP-HB2B
 (12)
 
-https://twitter.com/moisejovenel/status/1396262616713023490
+perma.cc/HS7U-VQUV
 (13)
 
-https://www.france24.com/en/americas/20210608-haiti-s-controversial-june-referendum-postponed-no-new-date-given
+perma.cc/TN96-2GDL
 (14)
 
 
@@ -2322,13 +2353,13 @@ https://www.france24.com/en/americas/20210608-haiti-s-controversial-june-referen
 
 *Sources*:
  [1]
-http://www.consejosecretariosdeestado.gob.hn/content/declaraci%C3%B3n-de-estado-de-emergencia-sanitaria
+https://web.archive.org/web/20200708210814/http://www.consejosecretariosdeestado.gob.hn/content/declaraci<97>n-de-estado-de-emergencia-sanitaria
 [2]
-http://www.consejosecretariosdeestado.gob.hn/content/suspenci%C3%B3n-de-garant%C3%ADas-constitucionales
+https://web.archive.org/web/20200708210737/http://www.consejosecretariosdeestado.gob.hn:80/content/suspenci<97>n-de-garant%C3%ADas-constitucionales
 [3]
-http://www.consejosecretariosdeestado.gob.hn/pcm-2020
+https://web.archive.org/web/20200509074051/http://www.consejosecretariosdeestado.gob.hn/pcm-2020
 [4]
-http://www.consejosecretariosdeestado.gob.hn/pcm-2021
+https://web.archive.org/web/20210127103954/http://www.consejosecretariosdeestado.gob.hn/pcm-2021
 
 
 
@@ -2353,22 +2384,31 @@ http://www.consejosecretariosdeestado.gob.hn/pcm-2021
  Hong Kong has a type of state of emergency legislation called Emergency Regulations Ordinance (for example used to quell protests in the Fall of 2019), but this has not been used in relation to Covid-19. Instead, the government imposed a number of measures between January and March in 2020 that were based on existing statutes, and on March 27 2020 issued new regulation under the Prevention and Control of Disease Ordinance. On March 27 2020, Hong Kong authorities announced a new regulation called 599G Regulation that controls freedom of assembly, where they can ban any public gatherings over four people (the restriction on gatherings has since changed over time, for instance being at two people at times) under a specified period of no more than 14 days. Within this legislation, authorities are also given extended powers such as entering places without warrants. The overarching and principal legal instrument used to enact these measures has been the Prevention and Control of Disease Ordinance, which was in place before the pandemic. It has been used throughout the whole pandemic to issue measures and restrictions. This is therefore coded 4 for all periods. 
 
 *Sources*:
- https://www.elegislation.gov.hk/hk/cap599G!en?xpid=ID_1585378559003_001
+ https://perma.cc/8FCW-A3TV
 
-https://www.elegislation.gov.hk/hk/cap599
-https://verfassungsblog.de/fear-of-unaccountability-vs-fear-of-a-pandemic-Covid-19-in-hong-kong/
 
-https://www.garda.com/crisis24/news-alerts/327086/hong-kong-government-bans-public-gatherings-from-march-29-update-17
+https://perma.cc/Z7M8-GVQT
 
-https://www.coronavirus.gov.hk/eng/social_distancing-faq.html
 
-https://www.lexology.com/library/detail.aspx?g=3dec8ab8-231d-437c-aedd-490e753f807a
+https://perma.cc/5N73-NT6B
 
-https://www.coronavirus.gov.hk/eng/social_distancing-faq.html
 
-https://www.info.gov.hk/gia/general/202010/27/P2020102700873.htm
+https://perma.cc/9GD2-TGYT
 
-https://verfassungsblog.de/surviving-executive-led-pandemic-control-in-executive-led-hong-kong/ 
+
+https://perma.cc/S75M-7JC4
+
+
+https://perma.cc/ZYZ5-LAWE
+
+
+https://perma.cc/S75M-7JC4
+
+
+https://perma.cc/5WNF-PRBE
+
+
+https://perma.cc/5N73-NT6B
 
 
 
@@ -2401,24 +2441,22 @@ Q2 2021: Third "state of danger" (same legal instrument as in Q2 2020, Q4 2020, 
  
 
 *Sources*:
- https://net.jogtar.hu/jogszabaly?docid=A2000040.KOR
-https://www.hbcs.hu/uploads/jogszabaly/3061/fajlok/40_2020_III_11_Korm_rendelet.pdf
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
-https://democracy-reporting.org/dri_publications/phase-two-of-covid-19-responses-across-the-eu-the-rule-of-law-stress-test-continued/
+ https://perma.cc/F33J-FB98
+https://perma.cc/P3AZ-2VJ8
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
 
-https://fra.europa.eu/sites/default/files/fra_uploads/hu_report_on_coronavirus_pandemic_july_2020.pdf
-https://net.jogtar.hu/jogszabaly?docid=a2000283.kor
-https://net.jogtar.hu/jogszabaly?docid=99700154.tv#lbj816ida1d4
+https://web.archive.org/web/20200808211459/https://democracy-reporting.org/dri_publications/phase-two-of-covid-19-responses-across-the-eu-the-rule-of-law-stress-test-continued/
+https://perma.cc/D3JW-X79F
+https://perma.cc/UYU3-G4H9
+https://perma.cc/5BGG-QTZY
+https://perma.cc/AJN4-9Z5H
+https://perma.cc/U8HZ-LGNJ
+https://perma.cc/9LHH-73HL
+https://perma.cc/L2Y5-UPMN
+https://perma.cc/J7M3-BCFE
+https://perma.cc/X9YF-KXGF
+https://perma.cc/E677-LUAU
 
-https://net.jogtar.hu/jogszabaly?docid=a2000478.kor
-https://net.jogtar.hu/jogszabaly?docid=a1100128.tv#lbj117id3a14
-https://hu.usembassy.gov/covid-19/
-
-https://net.jogtar.hu/jogszabaly?docid=a2100026.kor
-
-https://net.jogtar.hu/jogszabaly?docid=A2100027.KOR&dbnum=1
-https://helsinki.hu/wp-content/uploads/HHC_Hungary_emergency_measures_overview_24022021.pdf
-https://koronavirus.gov.hu/cikkek/meghosszabbitottak-koronavirus-jarvany-elleni-vedekezesrol-szolo-torveny-hatalyat
 
 
 
@@ -2445,17 +2483,13 @@ Information related to the issues that are included and not included in the NDMA
 
 *Sources*:
  [1]
-https://verfassungsblog.de/an-executive-emergency-indias-response-to-covid-19/
-
+https://perma.cc/CL8C-JLYL
 [2]
-https://www.bbc.com/news/world-asia-india-52277096
-
+https://perma.cc/9EZ8-J48T
 [3]
-https://ndma.gov.in/index.php/covid/NDMA-Orders_Advisories
-
+https://perma.cc/2CYJ-939G
 [4]
-https://verfassungsblog.de/covid-19-and-the-crisis-in-indian-democracy/
-
+https://perma.cc/6AJV-3LTD
 
 
 
@@ -2483,23 +2517,17 @@ There has been no evidence of other national level emergency response measures b
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Indonesia_2002.pdf?lang=en
-
+https://perma.cc/22UP-FPQM
 [2]
-https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-31-20-intl/h_9d84bdd8b2671de839f5d60a415d275b
-
-
+https://perma.cc/LE4C-DL4C
 [3]
-https://www.thejakartapost.com/news/2020/04/03/indonesias-strategy-to-combat-covid-19-what-we-know-so-far.html
-
+https://perma.cc/W33E-56EF
 [4]
-https://verfassungsblog.de/one-year-after-the-pandemic-in-indonesia-from-health-crisis-to-the-crisis-of-constitutional-democracy/
-
+https://perma.cc/M6RT-MQP9
 [5]
-https://www.asf.be/blog/2020/08/19/indonesia-a-cacophonic-legal-response-to-the-covid-19-pandemic-to-the-expense-of-human-rights/
-
+https://perma.cc/7HNM-3C7E
 [6]
-https://www.hrw.org/news/2021/01/13/indonesia-weak-public-health-response-covid-19
+https://perma.cc/W93R-YH48
 
 
 
@@ -2524,9 +2552,8 @@ https://www.hrw.org/news/2021/01/13/indonesia-weak-public-health-response-covid-
  Iran has a state of emergency legislation in their constitution (Article 79), but this has not been activated. They have implemented several emergency measures, such as curfews, school closings, closing religious and public places and so on, but this has not been in reference to any such legal instrument. Likewise, the reentrance of several measures during October and November in 2020 had no references to legal instruments as far as have been found. Iran’s Supreme National Security Council set up a National Headquarter to Combat Corona in early 2020, which was given the authority to decide and impose measure against Covid-19, and it is this group (along with confirmation over decisions from the supreme leader) that has determined the measures for Iran. Neither such a group nor the measures it’s taken has been found to have any reference to legal instruments (the decisions by this group has no defined legal status, and are not subject to legal review as they are not technically laws, for instance). This is therefore coded as 5, Iran has a national level emergency response but without any specific legal instrument for those emergency measures. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Iran_1989.pdf?lang=en
-
-http://www.president.ir/en/search
+ https://perma.cc/4SGJ-QEGR
+https://perma.cc/6JTA-KYL3
 (search
 for
 Covid-19
@@ -2535,25 +2562,18 @@ get
 governments
 communication/response)
 
-https://www.acaps.org/covid19-government-measures-dataset
+https://perma.cc/77AL-SQ9C
+https://perma.cc/XE3D-CVCF
+https://perma.cc/4BNF-P4M7
+https://perma.cc/96RZ-7BT9
+https://perma.cc/2LJR-NH2C
+https://perma.cc/6H9J-AHJE
 
-https://www.garda.com/crisis24/news-alerts?search_api_fulltext=Iran&field_news_alert_categories=All&field_news_alert_crit=All&items_per_page=20
+https://perma.cc/S6SK-KFA2
 
-https://verfassungsblog.de/the-iranian-legal-response-to-Covid-19-a-constitutional-analysis-of-coronavirus-lockdown/
+https://perma.cc/2LJR-NH2C
 
-https://www.garda.com/crisis24/news-alerts/402201/iran-authorities-to-impose-tightened-Covid-19-restrictions-from-november-21-update-42
-
-https://www.garda.com/crisis24/news-alerts/395361/iran-authorities-to-tighten-Covid-19-restrictions-in-25-provinces-november-4-update-40
-https://verfassungsblog.de/irans-Covid-19-response-who-calls-the-shots/
-
-
-https://www.garda.com/crisis24/news-alerts/465491/iran-health-officials-impose-further-restrictions-in-most-of-the-country-april-10-20-due-to-Covid-19-tehrans-Covid-19-status-remains-red-update-36
-
-
-https://www.garda.com/crisis24/news-alerts/422091/iran-authorities-introduce-nightly-2100-0400-traffic-curfew-in-several-cities-to-stem-the-spread-of-coronavirus-disease-as-of-dec-26-update-29
-
-
-https://www.garda.com/crisis24/news-alerts/409721/iran-authorities-extend-Covid-19-restrictions-in-high-risk-areas-through-dec-19-update-27
+https://perma.cc/8ZF7-6EKY
 
 
 
@@ -2578,25 +2598,10 @@ https://www.garda.com/crisis24/news-alerts/409721/iran-authorities-extend-Covid-
  Iraq has a state of emergency legislation in their constitution (Article 61), but this has not been activated. Iraq has however had a national-level emergency response, including curfews, school closings and closing of public places, to which no reference to any legal instrument has been found. Rather, the measures seem to have been taken through government decrees lacking references to legal instruments. This continues to be the case in Q1 and Q2 of 2021, where Iraq has several emergency measures in place but without any reference to legal instruments as far as have been found. Therefore, this is coded as 5, a national-level emergency response without reference to a specific legal instrument. 
 
 *Sources*:
- https://gds.gov.iq/blogposts/
-
-https://gds.gov.iq/Covid-19-higher-committee-for-health-and-national-safety-announces-key-measures/
-
-https://gds.gov.iq/Covid-19-iraqi-government-announces-new-measures/
-
-https://gds.gov.iq/Covid-19-iraq-announces-changes-to-curfew-other-restrictions/
-
-https://www.acaps.org/covid19-government-measures-datasethttps://www.constituteproject.org/constitution/Iraq_2005.pdf?lang=en
-
-https://gds.gov.iq/Covid-19-iraqi-government-permits-the-conditional-reopening-of-houses-of-worship-public-parks/
-https://www.garda.com/crisis24/news-alerts/442736/iraq-iraqi-authorities-to-impose-stricter-restrictions-from-feb-18-update-78
-
-
-https://www.garda.com/crisis24/news-alerts/474971/iraq-authorities-plan-to-impose-nationwide-curfew-may-12-22-update-91
+ https://perma.cc/Y3RT-ZPWK
 
 
 
-https://covidlawlab.org/?s=&topic=&country=Iraq
 
 
 
@@ -2621,28 +2626,20 @@ https://covidlawlab.org/?s=&topic=&country=Iraq
  Ireland has an emergency legislation, but it only allows for declaring states of emergency "in time of war or armed rebellion". The Irish government and parliament thus made a substantial amendment to the existing Health Act (the amendment is called Preservation and Protection and other Emergency Measures in the Public Interest) which gives the Minister of Health power to restrict gatherings, implement lockdowns, travel restrictions and the like. The main national level emergency response has thus been taken under this legal instrument, which is a new amendment, and therefore coded as 4. The legislation was most recently debated on October 22 2020, where the Irish parliament decided to extend the legislation from November 9 2020 to June 9 2021, and it thus continues to operate as main legal instrument for measures toward Covid-19. On June 4 2021, it was again extended until 2021-11-09. Note that some of measures taken under this overarching legal instrument are amendments itself, e.g. the current restrictions primarily stem from the “HEALTH ACT 1947 (SECTION 31A - TEMPORARY RESTRICTIONS) (COVID-19) (NO. 2) REGULATIONS 2021”. This, however, is not regarded as the primary legal instrument itself, which continues to be the Health (Preservation and Protection and other Emergency Measures in the Public Interest) Act 2020. 
 
 *Sources*:
- https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
+ https://perma.cc/FH8G-E9QV
 
+https://perma.cc/K2L9-VTX2
+https://perma.cc/G52X-A7HA
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://perma.cc/JX9G-7ZXJ
+https://perma.cc/7DQY-PYUU
+https://perma.cc/764X-3WL8
 
+https://perma.cc/RF3J-96J3
 
+https://perma.cc/43HK-NCYA
 
-https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_pandemic_may_2020_0.pdf
-
-https://www.constituteproject.org/constitution/Ireland_2019.pdf?lang=en
-
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-Covid-19/
-
-https://www.citizensinformation.ie/en/health/covid19/public_health_measures_for_covid19.html
-
-https://www.oireachtas.ie/en/debates/debate/dail/2020-10-22/60/
-https://verfassungsblog.de/pandemic-response-as-accentuation-of-existing-characteristics-vague-requirements-and-executive-dominance-in-ireland/
-
-https://www.citizensinformation.ie/en/health/covid19/public_health_measures_for_covid19.html#l95d70
-
-https://www.ihrec.ie/app/uploads/2021/02/Irelands-Emergency-Powers-During-the-Covid-19-Pandemic-25022021.pdf
-
-
-https://www.oireachtas.ie/en/bills/bill/2021/78/
+https://perma.cc/48AS-AUC7
 
 
 
@@ -2667,41 +2664,62 @@ https://www.oireachtas.ie/en/bills/bill/2021/78/
  The Israeli Prime Minister declared a state of emergency on March 19 2020, based on Article 38 and 39 in the constitution (technically, Israel has been in a state of emergency since 1948, but the declaration that this also constituted an emergency situation enabled the government to use emergency regulations, which is the instrument applied under a state of emergency in Israel – so this effectively constitutes a state of emergency declaration even though such a state of emergency was already in place). This is therefore coded as 1, a state of emergency within existing legal framework. On July 21 2020, Israel passed a new and temporary law called the Coronavirus Law (formally,  Law Granting Government Special Authorities to Combat Novel Coronavirus (Temporary Provision) 2020) that gives government extended powers during a state of emergency as well as allowing them to declare it for 60 days instead of 7 days. The initial state of emergency and extensions of it were taken under the articles mentioned above, but the current are taken under this new Coronavirus Law. While this temporary law is new (and has a sunset clause on 2021-06-30), they have still declared a state of emergency under it, and this is therefore coded as 1 rather than 4. The state of emergency has been extended multiple times under the Coronavirus Law, and is currently set to end on June 29 2021. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Israel_2013.pdf?lang=en
+ https://perma.cc/ZY5K-587X
 
-https://www.gov.il/en/departments/news/25032020_01
 
-https://www.garda.com/crisis24/news-alerts/325031/israelpalestinian-terr-prime-minister-declares-state-of-emergency-due-to-Covid-19-implements-domestic-restrictions-march-19-update-10
+https://perma.cc/78WR-W6JK
 
-https://www.garda.com/crisis24/news-alert-full-history/pX7cDbbneik6HZj4a/israelpalestinian-terr-el-al-suspends-all-flights-to-china-due-to-novel-coronavirus-january-30
 
-https://main.knesset.gov.il/EN/News/PressReleases/pages/press23720s.aspx
+https://perma.cc/V8CW-Q4US
 
-https://www.gov.il/en/departments/news/29102020-01
+
+https://perma.cc/2YUF-RHT8
+
+
+https://perma.cc/AAS6-9J8S
+
+
+https://perma.cc/S8DR-UMDX
+
 
 https://perma.cc/R5AE-KMPR
 
-https://www.nevo.co.il/law_html/law01/502_325.htm
 
-https://www.gov.il/en/departments/news/23052021-02
 
-https://verfassungsblog.de/the-paradox-of-israels-coronavirus-law/
+https://perma.cc/EN3Y-UCSS
 
-https://verfassungsblog.de/a-year-in-review-Covid-19-in-israel/
 
-https://www.garda.com/crisis24/news-alerts/485676/israel-authorities-lift-most-domestic-Covid-19-restrictions-june-1-update-103
+https://perma.cc/VXU8-VG97
 
-https://www.garda.com/crisis24/news-alerts/487961/israel-authorities-to-lift-indoor-mask-mandate-from-june-15-update-104
 
-https://corona.health.gov.il/en/local-councils-traffic-light-model/
+https://perma.cc/2XFH-354V
 
-https://oxcon.ouplaw.com/view/10.1093/law-occ19/law-occ19-e13
 
-https://www.nevo.co.il/law_word/law10/yalkut-9340.pdf
+https://perma.cc/2Q4B-97ZJ
 
-https://www.gov.il/he/departments/policies/dec820_2021
 
-https://www.gov.il/he/Departments/policies/dec960_2021
+https://perma.cc/E9TS-86JP
+
+
+https://perma.cc/AJ8K-3Q7L
+
+
+https://perma.cc/6832-WZDP
+
+
+https://perma.cc/EFW9-L4JG
+
+
+https://perma.cc/9TEK-5YCN
+
+
+https://perma.cc/3V7S-MZE7
+
+
+https://perma.cc/4WV8-7EWV
+
+
+
 
 
 
@@ -2726,33 +2744,19 @@ https://www.gov.il/he/Departments/policies/dec960_2021
  A State of Emergency was declared by the Italian Government on 31 January 2020, with reference to the Legislative Decree No. 1 of 2 January 2018. This is thus not a constitutional state of emergency, but one taken with under regular legislation. Note that a number of decrees also have been issued after this to perform a number of emergency measures, but the initial emergency response is this declaration of a state of emergency. In late July 2020, the State of Emergency was extended to October 15 2020. On October 7 2020, it was decided to extend it yet again, to January 31 2021. In January, it was extended until April 30 2021. In April, it was extended to 31 of July 2021, which is the current end date. This is therefore coded 1 for all periods. 
 
 *Sources*:
- https://www.gazzettaufficiale.it/eli/id/2020/02/01/20A00737/sg
+ https://perma.cc/BL3F-D89H
+https://perma.cc/X6FS-U7G4
+https://perma.cc/C7X7-9L7B
+https://perma.cc/5VLU-Z6RZ
 
-https://www.gazzettaufficiale.it/eli/id/2018/1/22/18G00011/sg
-
-https://verfassungsblog.de/fighting-Covid-19-legal-powers-and-risks-italy/
-
-https://fra.europa.eu/sites/default/files/fra_uploads/it_report_on_coronavirus_pandemic_may_2020.pdf
-
-
-
-
-https://www.garda.com/crisis24/news-alerts/310166/italy-council-of-ministers-issue-state-of-emergency-due-to-2019-ncov-as-of-january-31-update-1
-
-
-https://www.garda.com/crisis24/news-alerts/364516/italy-authorities-extend-Covid-19-state-of-emergency-until-october-15-update-37
-
-https://www.reuters.com/article/us-health-coronavirus-italy-emergency-idUSKBN26M4ME
-
-https://www.gazzettaufficiale.it/eli/id/2020/10/07/20A05463/sg
-
-https://www.reuters.com/article/us-health-coronavirus-italy-emergency-idUSKBN29I1L4
-
-https://www.garda.com/crisis24/news-alerts/470411/italy-authorities-to-ease-domestic-Covid-19-related-measures-in-some-areas-april-26-update-43
-
-https://www.gazzettaufficiale.it/eli/id/2021/04/30/21A02610/sg
-https://www.thelocal.it/20210421/latest-italy-set-to-approve-reopening-plan-in-new-covid-emergency-decree/
-
+https://perma.cc/L3BZ-3E48
+https://perma.cc/F45W-52MS
+https://perma.cc/6ZRN-G5AT
+https://perma.cc/3R5D-BBXF
+https://perma.cc/4JQ5-DXNE
+https://perma.cc/WZX8-DTTS
+https://perma.cc/6CCH-7F3N
+https://perma.cc/V7KB-4F89
 https://www.intersentiaonline.com/publication/coronavirus-and-the-law-in-europe/4
 
 
@@ -2786,42 +2790,45 @@ However, it is a bit unclear whether and when the state of emergency was lifted.
 It is also unclear if there is a different legal regime under which the 2021 state of health emergency was adopted, since the Government Press Releases do not make a reference to any legal instrument. The law is vague in the Constitution and the law from 1959 on the state of emergency could not be located. It appears that the state of health emergency and state of emergency fall under the same instrument so we code this as a state of emergency throughout. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Cote_DIvoire_2016.pdf?lang=en
-(1)
+ perma.cc/4CQ2-VGDL
 
 
-https://www.yeclo.com/cote-divoire-decret-de-letat-durgence-face-au-covid-19/
-(2)
+perma.cc/C4CW-LATY
 
-http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
-(3)
 
-https://www.facebook.com/MinistereJusticeCI/posts/1091283804559822/
-(4)
+perma.cc/4GEP-RX3M
 
-http://www.droit-afrique.com/uploads/RCI-Decret-2020-351-etat-urgence-sanitaire-pandemie.pdf
-(5)
 
-https://www.ilo.org/dyn/natlex/docs/MONOGRAPH/110494/137447/F1925305910/CIV-110494.pdf
-(6)
 
-http://www.gouv.ci/_conseil-ministre-details.php?recordID=410
-(7)
+perma.cc/FK9H-Z7UP
 
-http://www.gouv.ci/_actualite-article.php?recordID=11917&d=2
-(8)
 
-https://news.abidjan.net/h/686618.html
-(9)
+perma.cc/AT24-ZPT2
 
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011879525/cote-divoire-covid-19-related-nationwide-measures-unchanged-as-of-june-16-update-24
-(10)
-https://www.garda.com/crisis24/news-alerts/408881/cote-divoire-authorities-maintain-a-nationwide-coronavirus-related-state-of-emergency-as-of-nov-30-update-16
-(11)
 
-https://www.village-justice.com/articles/constitution-ivoirienne-lutte-contre-coronavirus-que-deviennent-nos-droits,34722.html
+perma.cc/2SSL-UVLQ
 
-https://apr-news.fr/fr/actualites/cote-divoire-letat-durgence-que-dit-la-loi
+
+perma.cc/UMC5-UQ6G
+
+
+perma.cc/CGK9-DB24
+
+
+
+perma.cc/CT35-TBZA
+
+
+perma.cc/J5SE-6R2J
+
+
+perma.cc/FWY6-X96F
+
+
+perma.cc/47KA-AZ4T
+
+
+perma.cc/2FU3-QPNA
 
 
 
@@ -2847,15 +2854,15 @@ https://apr-news.fr/fr/actualites/cote-divoire-letat-durgence-que-dit-la-loi
 
 *Sources*:
  [1]
-https://moj.gov.jm/sites/default/files/DRMA14.pdf
+perma.cc/RP76-BEMA
 [2]
-https://moj.gov.jm/sites/default/files/DRMA07.pdf
+perma.cc/68KK-KDGS
 [3]
-https://moj.gov.jm/sites/default/files/DRMA07A.pdf
+perma.cc/AP5X-73TB
 [4]
-https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
+perma.cc/KE4A-LBZS
 [5]
-https://jis.gov.jm/media/2021/01/DRM-Enforcement-Measures-Order-2021.pdf
+perma.cc/K8NW-7M4H
 
 
 
@@ -2884,27 +2891,16 @@ The state of emergency was lifted on 25 May 2020.
 A state of emergency was declared again four prefectures in Japan on 23 April 2021. 
 
 *Sources*:
- https://www.bloomberg.com/news/articles/2020-04-07/japan-s-abe-declares-state-of-emergency-over-coronavirus
-
-https://www.theguardian.com/world/2020/may/25/japan-lifts-state-of-emergency-after-fall-in-coronavirus-cases
-
-https://www.npr.org/sections/coronavirus-live-updates/2021/04/23/990133421/japan-declares-3rd-state-of-emergency-3-months-ahead-of-olympics?t=1623684114245
-
-https://www.bmj.com/content/372/bmj.n141
-
-
-https://www.theguardian.com/world/2020/apr/07/japan-shinzo-abe-declares-state-of-emergency-over-coronavirus
-
-https://www.japantimes.co.jp/news/2020/05/24/national/japan-completely-lift-state-of-emergency-coronavirus/#.XvM1jGozZTY
-
-https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instead-of-legal-penalty/
-
-
-https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=424AC0000000031#223
-
-https://www.argusmedia.com/en/news/2219521-japan-to-further-extend-covid19-emergency-until-june
-
-https://www.npr.org/sections/coronavirus-live-updates/2021/04/23/990133421/japan-declares-3rd-state-of-emergency-3-months-ahead-of-olympics?t=1623684114245
+ https://web.archive.org/web/20200407120942/https://www.bloomberg.com/news/articles/2020-04-07/japan-s-abe-declares-state-of-emergency-over-coronavirus
+https://perma.cc/UYG2-5WLD
+https://perma.cc/3ERZ-NUNT
+https://perma.cc/2CJ5-R5JV
+https://perma.cc/X23L-JQW3
+https://web.archive.org/web/20200601153324/https://www.japantimes.co.jp/news/2020/05/24/national/japan-completely-lift-state-of-emergency-coronavirus/#.XtUf-y-l39A
+https://perma.cc/Q9CJ-T9LA
+https://perma.cc/AD83-7NX2
+https://perma.cc/XX3X-RJJJ
+https://perma.cc/3ERZ-NUNT
 
 
 
@@ -2929,30 +2925,21 @@ https://www.npr.org/sections/coronavirus-live-updates/2021/04/23/990133421/japan
  The Jordanian King declared a state of emergency on March 19 2020 by a Royal Decree. The legal basis for this state of emergency is the Article 124 in the Jordanian Constitution. The declaration did not include an end date, however, but Jordan has continued to impose various restrictions such as lockdowns and curfews throughout the coded period (the latest being easing the curfew somewhat in may 2021). Garda also state in their country report from 2020 that the Covid-19 state of emergency is ongoing, and no indication has been found that it has ended and that current restrictions are based on any other legal instrument  This is therefore coded as 1, a state of emergency within the existing legal framework, for all periods. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Jordan_2016.pdf?lang=en
+ https://perma.cc/PAM4-J8FL
+https://web.archive.org/web/20200523172604/https://www.loc.gov/law/foreign-news/article/jordan-government-takes-steps-aimed-at-curbing-Covid-19-outbreak/
+https://perma.cc/A3NH-SKPG
+https://perma.cc/4Z8X-5ZDA
+https://perma.cc/MF6G-WS7G
+https://perma.cc/6GEG-AQBB
+https://perma.cc/V93H-VHJQ
 
-https://www.loc.gov/law/foreign-news/article/jordan-government-takes-steps-aimed-at-curbing-Covid-19-outbreak/
+https://perma.cc/5NRK-NZYC
 
-https://www.acaps.org/covid19-government-measures-dataset
+https://perma.cc/WT7Y-BRBE
 
-https://www.hrw.org/news/2020/03/20/jordan-state-emergency-declared
+https://perma.cc/KF5L-XZKU
 
-https://www.garda.com/crisis24/news-alert-full-history/NFhXD4B95qP4aB2vu/jordan-quarantine-and-screening-measures-implemented-nationwide-february-2
-
-https://www.arabstates.undp.org/content/rbas/en/home/library/crisis-response0/covid19--socio-economic-impact.html
-https://www.garda.com/crisis24/news-alerts/479311/jordan-authorities-reduce-the-nightly-curfew-to-2300-0600-from-may-13-until-further-notice-amid-gradual-easing-of-Covid-19-restrictions-update-69
-
-
-https://www.garda.com/crisis24/news-alerts/461081/jordan-authorities-extend-existing-curfews-and-other-Covid-19-restrictions-nationwide-until-at-least-may-15-update-65
-
-
-https://www.garda.com/crisis24/news-alerts/429186/jordan-authorities-cancels-24-hour-friday-curfews-starting-jan-15-update-61
-
-
-https://crisis24.garda.com/insights-intelligence/intelligence/country-reports/jordan
-
-
-https://www.reuters.com/article/us-health-coronavirus-jordan-protests-idUSKBN2B60QY
+https://perma.cc/5H82-LFYX
 
 
 
@@ -2986,22 +2973,42 @@ In October 2020, one of the measures was Resolution of the Chief State Sanitary 
  
 
 *Sources*:
- https://www.akorda.kz/ru/legal_acts/decrees/o-vvedenii-chrezvychainogo-polozheniya-v-respublike-kazahstan
-https://online.zakon.kz/document/?doc_id=32648341
-https://www.icnl.org/covid19tracker/?location=65&issue=&date=&type=
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B705%5D&covid19=1
-https://primeminister.kz/ru/news/goskomissiya-utverdila-mery-po-stabilizacii-epidemiologicheskoy-situacii-v-rk-26422
-https://www.garda.com/crisis24/news-alerts/356021/kazakhstan-authorities-announce-two-week-lockdown-from-july-5-update-20
-https://www.garda.com/crisis24/news-alerts/359336/kazakhstan-authorities-announce-two-week-extension-of-lockdown-july-13-update-21
-https://primeminister.kz/ru/news/mezhvedomstvennaya-komissiya-odobrila-vtoroy-etap-poslableniy-2675553
+ perma.cc/EKR3-UGHN
 
-https://primeminister.kz/ru/news/goskomissiya-utverdila-plan-poetapnogo-snyatiya-karantinnyh-mer-s-17-avgusta-t-g-137510
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-central-asia-5305f172/
-https://online.zakon.kz/Document/?doc_id=34276342
+
+https://perma.cc/B8Q5-89GU
+
+
+https://perma.cc/ESS3-JA3E
 
 
 
+https://perma.cc/J7UH-BULT
 
+
+
+perma.cc/BA4J-N73X
+
+
+perma.cc/P3YN-RY74
+
+
+perma.cc/8VBQ-XJY5
+
+
+https://perma.cc/9DV7-PKNY
+
+
+perma.cc/8FGX-L6XJ
+
+
+https://perma.cc/8FGX-L6XJ
+
+
+https://perma.cc/RKE2-HX7J
+
+
+https://perma.cc/WM32-49AS
 
 
 
@@ -3039,46 +3046,21 @@ Before 26 March 2020 a few other more general measures and guidelines had been i
 Authorities continue legislating on Covid-19 matters based on the PHA and POA as of June 2021 (see 11, 12) 
 
 *Sources*:
- http://extwprlegs1.fao.org/docs/pdf/ken129231.pdf
-(1)
-
-https://www.loc.gov/law/help/health-emergencies/kenya.php
-(2)https://blog.petrieflom.law.harvard.edu/2020/05/21/kenya-global-responses-covid19/
-(2)
-
-https://www.strathmore.edu/news/should-the-kenyan-government-declare-a-state-of-emergency/
-(2)
-
-http://kenyalaw.org/kenya_gazette/gazette/volume/MjEyNA--/Vol.CXXII-No.55/
-(3)
-
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN49_2020.pdf
-(4)
-
-https://www.health.go.ke/first-case-of-coronavirus-disease-confirmed-in-kenya/
-(5)
-
-https://www.president.go.ke/2020/03/15/address-to-the-nation-by-h-e-uhuru-kenyatta-c-g-h-president-of-the-republic-of-kenya-and-commander-in-chief-of-the-defence-forces-on-covid-19-commonly-known-as-coronavirus/
-(6)
-
+ perma.cc/DN58-J9ZT
+perma.cc/G8D7-QF6H
+perma.cc/X7PV-6WRV
+perma.cc/8R6J-ZTB4
+perma.cc/8XMN-3ZRM
+perma.cc/WVJ9-FWPP
+perma.cc/4V4G-EHA3
+perma.cc/976W-DWG2
+[9]
 https://ecsahc.org/2020/03/22/corona-press-statement-march-22-kenya-2/
-(7)
-
-http://kenyalaw.org/kenyalawblog/kenyas-response-to-covid-19/
-(8)
-
-https://www.nis.go.ke/downloads/Public%20Order%20Act,%20Cap%2056.pdf
-(9)
-
-
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN36_2020.pdf
-(10)
-
-https://www.president.go.ke/2021/03/26/the-fifteenth-15th-presidential-address-on-the-coronavirus-pandemic/
-(11)
-
-https://verfassungsblog.de/covid-19-in-kenya-a-year-later-a-case-of-deja-vu/
-(12)
+perma.cc/F24G-RMP7
+perma.cc/LX2R-U73M
+perma.cc/U2FT-TBWU
+perma.cc/GKZ5-YXG3
+perma.cc/XDE8-K9R6
 
 
 
@@ -3103,28 +3085,18 @@ https://verfassungsblog.de/covid-19-in-kenya-a-year-later-a-case-of-deja-vu/
  Kuwait has issued a number of measures (e.g. curfews, closing of schools and workplaces, restricting religious gatherings), with many of these starting on March 12 2020. But there is no mention of any state of emergency having been declared, or any legal instrument being referred to when implementing these measures. Garda, ACAPS and the U.S. Embassy for example makes no mention of any such state of emergency, nor any other emergency legislation. The emergency measures has continued in 2021, still without any legal instrument referenced. Therefore, this is coded as 5 as there is a national level emergency response, but no legal instrument or declared state of emergency. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
+ https://perma.cc/PN37-CWLL
+https://perma.cc/R7N9-SSCA
+https://perma.cc/237D-NP7F
+https://perma.cc/X7GW-M53K
+https://perma.cc/HW8K-YR97
+https://perma.cc/88WZ-ETQ2
 
-https://www.garda.com/search?query=Kuwait&sort_by=created
-
-https://kw.usembassy.gov/health-alert-u-s-embassy-kuwait-march-23-2020/
-
-https://kw.usembassy.gov/health-alert-u-s-embassy-kuwait-2/
-
-https://kw.usembassy.gov/Covid-19-information/
-https://www.garda.com/crisis24/news-alerts/325446/kuwait-government-implements-nationwide-curfew-march-22-update-8
-
-https://www.garda.com/crisis24/news-alerts/405571/kuwait-authorities-maintain-Covid-19-restrictions-december-1-update-28
-
-https://www.garda.com/crisis24/news-alerts/468856/kuwait-authorities-extend-nationwide-Covid-19-related-1900-0500-curfew-through-may-13-update-37
-
-https://www.garda.com/crisis24/news-alerts/445511/kuwait-authorities-cancel-national-day-and-liberation-day-celebrations-feb-25-26
-
-https://covidlawlab.org/?s=&topic=&country=Kuwait
-
-https://www.loc.gov/law/foreign-news/article/saudi-arabia-egypt-kuwait-authorities-impose-new-preventive-measures-to-combat-spread-of-Covid-19-virus-during-ramadan/
-
- 
+https://perma.cc/S8PS-B3EN
+https://perma.cc/7GGL-CFPT
+https://perma.cc/82LP-ZA9Z
+https://perma.cc/BZD8-A77N
+https://web.archive.org/web/20210415145835/https://www.loc.gov/law/foreign-news/article/saudi-arabia-egypt-kuwait-authorities-impose-new-preventive-measures-to-combat-spread-of-Covid-19-virus-during-ramadan/
 
 
 
@@ -3152,27 +3124,21 @@ Note that although other sources refer to the emergency regime in the whole coun
  
 
 *Sources*:
- https://www.gov.kg/ru/npa/s/2347
-http://www.president.kg/ru/sobytiya/ukazy/16382_podpisan_ukaz_ovvedenii_chrezvichaynogo_pologheniya_naterritorii_goroda_bishkek_kirgizskoy_respubliki
-
-http://www.president.kg/ru/sobytiya/ukazy/16383_podpisan_ukaz_ovvedenii_chrezvichaynogo_pologheniya_naterritorii_goroda_osh_nookatskogo_ikara_suyskogo_rayonov_oshskoy_oblasti_kirgizskoy_respubliki
-
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://kg.usembassy.gov/health-alert-u-s-embassy-bishkek-march-21-2020/
-https://www.icnl.org/covid19tracker/?location=69&issue=&date=&type=
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B703%5D&covid19=1
-http://cbd.minjust.gov.kg/act/view/ru-ru/111787?cl=ru-ru#:~:text=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%9A%D0%A0%20%D0%BE%D1%82%2024%20%D0%BC%D0%B0%D1%8F,%E2%84%96%2054%20%22%D0%9E%20%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B5%22&text=%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B8%D0%B9%20%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D0%B8%D1%80%D1%83%D0%B5%D1%82%20%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D1%8F%2C%20%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%B0%D1%8E%D1%89%D0%B8%D0%B5,%D0%B2%20%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B5%20%D0%B8%20%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B2%D1%80%D0%B5%D0%BC%D1%8F
-http://cbd.minjust.gov.kg/act/view/ru-ru/142/10?cl=ru-ru
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-central-asia-5305f172/
-https://www.garda.com/crisis24/news-alerts/387526/kyrgyzstan-president-declares-state-of-emergency-in-bishkek-october-9-update-4
-https://www.garda.com/crisis24/news-alerts/389966/kyrgyzstan-parliament-votes-to-end-state-of-emergency-october-16-update-11
-
-https://vesti.kg/obshchestvo/item/83499-zavtra-kyrgyzstan-poluchit-kitajskuyu-vaktsinu-ot-koronavirusa.html
-
-
-
-https://www.garda.com/crisis24/news-alerts/479566/kyrgyzstan-authorities-maintaining-covid-19-related-restrictions-as-of-may-17-update-18
-https://www.garda.com/crisis24/news-alerts/463696/kyrgyzstan-covid-19-related-restrictions-remain-largely-unchanged-as-of-april-5-by-comparison-with-early-february-update-17
+ https://perma.cc/UHP8-W3C6
+https://perma.cc/32HQ-8ZAZ
+https://perma.cc/8UDV-2JGG
+https://perma.cc/KX7E-CM3P
+https://perma.cc/W322-PAB8
+https://perma.cc/LW9U-XZ3J
+https://perma.cc/J7UH-BULT
+https://perma.cc/2KQV-N8ZG
+https://perma.cc/YD7J-3YL5
+https://perma.cc/V3GW-KSYU
+https://perma.cc/37D3-QED4
+https://perma.cc/GZ5A-P3E7
+https://perma.cc/K6AP-92HX
+https://perma.cc/9CRY-A4Q7
+https://perma.cc/4527-RNXP
 
 
 
@@ -3197,38 +3163,25 @@ https://www.garda.com/crisis24/news-alerts/463696/kyrgyzstan-covid-19-related-re
  The Prime Minister issued a decree that specifies and regulates the main emergency measures in Laos, for example public gatherings, public transport, border closure etc. This is not taken in reference to any state of emergency or existing regulations, and is thus regarded as adopting a new law. No other instrument has been found that manages the emergency response, and the latest restrictions seem to also be based on the same legal instrument. This continues to be the legal instrument referenced when ordering newer restrictions (the latest extension of measures was made in May 2021), and as these announcements are decrees that reference this first decree it is here viewed as the main legal instrument for Laos Covid-19 response. Therefore, this is coded as 4 for all the periods. 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
+ https://web.archive.org/web/20200717034652/http://www.mpwt.gov.la/attachments/article/2185/PM's%20Order%20No%2006PM%20on%20COVID-19.pdf
 
-https://la.usembassy.gov/Covid-19-information/
+https://perma.cc/V2LZ-98UC
+https://perma.cc/6Z3H-7A4G
+https://perma.cc/ZU53-QZKC
+https://perma.cc/K67B-CQJC
+https://perma.cc/H4LE-8HVX
+https://perma.cc/LCC9-9AAR
+https://perma.cc/Z46Z-DRWH
+https://perma.cc/38K4-9E3T
+https://perma.cc/MS7S-U9VX
+https://perma.cc/J5ZX-MZB3
+https://perma.cc/WAF3-H5J7
 
-https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
+https://perma.cc/QPL7-C25N
 
-https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-Covid-19-march-30-update-4
+https://perma.cc/N6CE-43DU
 
-https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
-
-https://www.garda.com/crisis24/news-alerts/395516/laos-authorities-extend-Covid-19-restrictions-until-december-31-update-8
-
-https://www.garda.com/crisis24/news-alerts/480966/laos-authorities-continue-to-implement-Covid-19-restrictions-in-vientiane-capital-as-of-may-20-update-2
-
-https://www.garda.com/crisis24/news-alerts/480951/laos-officials-extend-Covid-19-restrictions-through-june-4-update-24
-
-https://www.garda.com/crisis24/news-alerts/463446/laos-authorities-continue-to-enforce-Covid-19-protocols-as-of-april-5-update-19
-
-https://www.garda.com/crisis24/news-alerts/438161/laos-authorities-continue-to-enforce-Covid-19-restrictions-through-march-31-update-17
-
-https://www.garda.com/crisis24/news-alerts/423386/laos-authorities-extend-Covid-19-restrictions-through-jan-31-2021-update-16
-
-http://kpl.gov.la/En/Detail.aspx?id=59603
-
-
-https://data.laos.opendevelopmentmekong.net/en/laws_record/pm-order-on-increasing-the-prevention-control-and-comprehensive-preparedness-measures-against-covid
-
-
-https://data.laos.opendevelopmentmekong.net/en/laws_record?odm_spatial_range_list=la&q=Covid-19&sort=score+desc%2C+metadata_modified+desc&page=1
-
-
-https://www.rajahtannasia.com/resource-centre/Covid-19/lao-PDR
+https://perma.cc/B9VA-6Q6H
 
 
 
@@ -3253,26 +3206,16 @@ https://www.rajahtannasia.com/resource-centre/Covid-19/lao-PDR
  Lebanon declared a state of medical emergency on March 16 2020, which is an emergency declaration that differs from a general state of emergency (such a general state of emergency was also declared during this period, but in relation to the explosion in Beirut). The state of medical emergency was based on the 1957 law on Infectious Diseases and Legislative Decree No. 102/1983 on National Defence, and was announced as the decree “Declaring the State of General Mobilisation to counter the spread of the Coronavirus“. This has been extended several times, and is still in effect (current end date is 2021-09-30). 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/324021/lebanon-prime-minister-declares-state-of-emergency-march-16-update-8
-
-https://www.acaps.org/covid19-government-measures-dataset
-
-http://nna-leb.gov.lb/en/show-news/113498/Supreme-Defense-Council-decides-to-submit-39-general-mobilization-39-request-to-Council-of-Ministers
-
-https://www.garda.com/crisis24/news-alerts/398291/lebanon-nationwide-lockdown-to-be-imposed-november-14-30-update-35
-
-https://www.garda.com/crisis24/news-alerts/466146/lebanon-authorities-impose-2130-0500-nightly-curfew-through-may-12-tighten-restrictions-during-ramadan-update-51
-
-https://www.garda.com/crisis24/news-alerts/461246/lebanon-authorities-extend-state-of-medical-emergency-until-sept-30-update-48
-https://www.garda.com/crisis24/news-alerts/425206/lebanon-authorities-to-impose-a-nationwide-lockdown-from-jan-7-feb-1-update-40
-
-https://verfassungsblog.de/lebanon-in-times-of-Covid-19-a-series-of-crises/
-
-https://www.presidency.gov.lb/English/News/Pages/Details.aspx?nid=26351
-
-https://democracy-reporting.org/wp-content/uploads/2018/08/DRI-LEB-DE-SoE-Lebanon_online.pdf
-
- 
+ https://perma.cc/YE2F-XTUJ
+https://perma.cc/UA7S-CFCB
+https://perma.cc/8W7C-UX5D
+https://perma.cc/5CR4-6K6U
+https://perma.cc/95L4-UPNK
+https://perma.cc/Q5UR-4PAK
+https://perma.cc/L6UX-ZPK5
+https://perma.cc/B6HM-XVE6
+https://perma.cc/P5LX-2T3D
+https://web.archive.org/web/20210328191815/https://democracy-reporting.org/wp-content/uploads/2018/08/DRI-LEB-DE-SoE-Lebanon_online.pdf
 
 
 
@@ -3309,41 +3252,55 @@ According to the Disaster Management Act 1997 section 2 - such a declaration of 
 On 28 April 2021, the Disaster-Incuced State of Emergency (State of Disaster) was extended for six months, to continue to be in effect between 30 April 2021 and 30 October 2021 (16). 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+ https://perma.cc/EXS5-EFSJ
 (1)
-https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+
+https://perma.cc/4VYS-7ZTN
 (2)
-https://www.constituteproject.org/constitution/Lesotho_2018.pdf?lang=en
+
+https://perma.cc/MEB9-L74V
 (3)
-https://lesotholii.org/ls/ParliamentProrogation.pdf
+
+https://perma.cc/L6XX-C7CD
 (4)
-https://ancl-radc.org.za/node/631
+
+https://perma.cc/XN2K-R877
 (5)
-https://www.gov.ls/wp-content/uploads/2020/03/PM-Speech-COVID-19-25032020.pdf
+
+https://perma.cc/5SHL-4QRW
 (6)
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+
+https://perma.cc/AM42-9BRD
 (7)
-https://lesotholii.org/ls/judgment/high-court-constitutional-division/2020/1-0
+
+https://perma.cc/5BYL-AK5K
 (8)
-https://africanlii.org/article/20200423/suspension-lesotho%27s-parliament-%27irrational%27%2C-%27unlawful%27-court%20
+
+https://perma.cc/C8KP-5ZAB
 (9)
-https://www.gov.ls/wp-content/uploads/2020/04/LEGAL-NOTICE-NO.38-2020.pdf
+
+https://perma.cc/JE35-5LTJ
 (10)
-https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+
+https://perma.cc/2QDB-8PMT
 (11)
-https://allafrica.com/stories/202005040976.html
+
+https://perma.cc/NA95-PPNT
 (12)
-https://www.ahrlj.up.ac.za/shale-i-2-2020
-https://twitter.com/nacosec/status/1364209455374741506
+
+https://perma.cc/B8BK-P9JX
 (13)
-https://www.webbernew.com/uploads/SKM_45820110909370.pdf
+https://perma.cc/GU32-ZNWS
 (14)
-https://www.ifrc.org/Docs/idrl/862EN.pdf
+
+https://perma.cc/6U78-QA8G
 (15)
-https://www.gov.ls/wp-content/uploads/2021/05/Legal-Notice-No.-49-of-2021-COVID-19-Disaster-Induced-State-of-Emergency-Extension1.pdf
+
+https://perma.cc/XGU6-HK5F
 (16)
-https://www.ifrc.org/Docs/idrl/862EN.pdf
-17)
+
+https://perma.cc/K5PS-3YX7
+(17)
 
 
 
@@ -3368,17 +3325,34 @@ https://www.ifrc.org/Docs/idrl/862EN.pdf
  Initially, the government declared a national health emergency under the Public Health Law Title 33 (Chapter 14) Liberian Code of Laws Revised. On April 9 2020, a state of emergency was declared in accordance with Articles 85, 86, 87 and 88 of the Liberian constitution. This state of emergency expired on July 21 2020 and a revised national health emergency was announced on July 22 2020. This National Health Emergency is still in force, and became the main legal instrument after the state of emergency ended. Thus, this is coded as 2 from the first period without the state of emergency and onward. 
 
 *Sources*:
- https://www.emansion.gov.lr/doc/ADDRESS%20TO%20THE%20NATION.pdf
-https://www.constituteproject.org/constitution/Liberia_1986?lang=en
-https://emansion.gov.lr/doc/COVID-19%20Declaration%20of%20National%20Health%20Emergency%20-%20MoH.pdf
-http://extwprlegs1.fao.org/docs/pdf/lbr174510.pdf
-https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
-http://moh.gov.lr/press-release/2020/revised-Covid-19-declaration-of-national-health-emergency-by-the-ministry-of-health/
-https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
+ https://perma.cc/ZK7X-EQED
 
-https://lr.usembassy.gov/Covid-19-information/
 
-https://www.garda.com/crisis24/news-alerts/465851/liberia-health-officials-maintaining-Covid-19-related-restrictions-nationwide-as-of-april-12-update-21
+https://perma.cc/4NC8-H3L4
+
+
+https://perma.cc/F477-M754
+
+
+https://perma.cc/GH43-SGME
+
+
+https://perma.cc/9T7E-XQSK
+
+
+https://perma.cc/HN6T-G94N
+
+
+https://perma.cc/ZQP3-QQX9
+
+
+https://perma.cc/AXG5-CWED
+
+
+https://perma.cc/E4WN-AWWR
+
+
+
 
 
 
@@ -3405,20 +3379,16 @@ Q3 2020: The authorities declared “extreme situation” from 26 February 2020 
 Q4 2020, Q1 2021, Q2 2021: The second quarantine was declared from 7 November 2020 (Resolution No. 1226) and is in place at the time of coding. 
 
 *Sources*:
- https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/deaf8694663011eaa02cacf2a861120c/asr
-https://koronastop.lrv.lt/uploads/documents/files/Nutarimo%20152%20suvest_redakcija_EN2020-09-03.pdf
-
-https://koronastop.lrv.lt/lt/naujienos/atsaukus-karantina-isliks-gydymo-istaigoms-taip-pat-renginiams-taikyti-apribojimai
-
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/900df810abe011ea8aadde924aa85003
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8feb1a7658a111eaac56f6e40072e018
-https://fra.europa.eu/sites/default/files/fra_uploads/lt_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.e-tar.lt/portal/lt/legalAct/9e348ed0abe011eab9d9cd0c85e0b745
-http://urm.lt/ru/en/news/covid-19-related-restrictions-and-cross-border-movements
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/a2b5da801f4a11eb9604df942ee8e443?jfwid=2r1mjutk
-https://verfassungsblog.de/lithuanias-two-covid-19-quarantines/
-
-
+ [1]	perma.cc/TVX3-3W45
+[2]	perma.cc/8XAR-JX9H
+[3]	perma.cc/LJ65-7WVQ
+[4]	perma.cc/LGD5-9XBZ
+[5]	perma.cc/PQ44-HMU6
+[6]	perma.cc/7PWG-V5FA
+[7]	perma.cc/Z7CU-X47S
+[8]	perma.cc/NV97-GLP8
+[9]	perma.cc/2H8Y-VC24
+[10]	perma.cc/5C2M-P2LK
 
 
 
@@ -3453,34 +3423,25 @@ On 3 April 2021 the authorities reinstated the state of health emergency with De
 
 *Sources*:
  (1)
-https://www.constituteproject.org/constitution/Madagascar_2010.pdf?lang=en
-
+https://perma.cc/N4DQ-4MSV
 (2)
-https://jwf-legal2.fr.gd/Lois-245.htm
-
+https://perma.cc/3CB7-SZTC
 (3)
-https://www.presidence.gov.mg/actualites/755-decret-n-2020-359-du-21-mars-2020-proclamant-l-etat-d-urgence-sanitaire-sur-tout-le-territoire-de-la-republique.html
-
+https://perma.cc/K5AY-6DFT
 (4)
-http://extwprlegs1.fao.org/docs/pdf/Mad176601.pdf
-
+https://perma.cc/LT4M-592V
 (5)
-https://actu.orange.mg/une-nouvelle-prolongation-de-letat-durgence-sanitaire-a-madagascar/
-
+https://perma.cc/BW6S-4BKY
 (6)
-https://www.africanews.com/2020/10/19/madagascar-ends-state-of-health-emergency//
-
+https://perma.cc/R7NR-DY7T
 (7)
-https://www.garda.com/crisis24/news-alerts/427706/madagascar-covid-19-restrictions-remain-in-place-nationwide-as-of-jan-11-update-19
-
+https://perma.cc/A6T3-79ZV
 (8)
-https://www.garda.com/crisis24/news-alerts/450661/madagascar-covid-19-restrictions-remain-in-place-nationwide-as-of-march-4-update-21
-
+https://perma.cc/DV5A-WFGV
 (9)
-http://www.presidence.gov.mg/images/2021/decret/VF-Decret-Etat-d-urgence-3-Avril-2021.pdf
-
+https://perma.cc/N4JZ-6KDR
 (10)
-https://www.aa.com.tr/fr/afrique/madagascar-covid-19-l-%C3%A9tat-d-urgence-sanitaire-restaur%C3%A9/2197912
+https://perma.cc/J66B-YNZ5
 
 
 
@@ -3519,23 +3480,26 @@ On 20 September, the courts had their final say on lockdowns, ruling them to fal
 In 2021, the Public Health Act continues to operate as the main legal instrument for Malawi’s Covid-19 response. Lockdown measures were announced in January, including the closure of schools. In February, schools were reopened, but the government kept many practices such as social distancing and the mandatory use of masks 
 
 *Sources*:
- https://www.telegraph.co.uk/global-health/science-and-disease/malawi-cant-breathe-lord-please-hear-cries-south-africa-variant/
-https://www.voanews.com/africa/malawi-ends-covid-19-school-restrictions-after-infections-drop
-https://www.rfi.fr/en/africa/20210118-malawi-announces-strict-new-covid-19-measures-including-lockdown-health-africa
-https://gazettes.africa/archive/mw/2020/mw-government-gazette-supplement-dated-2020-08-07-no-23A.pdf
-(1)
-https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-2020-5-publication-document.pdf
-(2)
-https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter-mutharika
-(3)
+ [1]
+https://perma.cc/EJR4-XU4U
+[2]
+https://perma.cc/7VY9-7HT5
+[3]
+https://perma.cc/R9FE-D3K6
+[4]
+https://perma.cc/4UVX-TFST
+[5]
+https://perma.cc/QL9K-4JJA
+[6]
+https://perma.cc/9FQW-T6RP
+[7]
 https://www.facebook.com/malawigovernment/posts/press-releasedeclaration-of-state-of-disaster-by-his-excellency-the-presidentthe/1440708896115600/
-(4)
-https://malawilii.org/mw/consolidated_legislation/3305
-(5)
-https://malawilii.org/sites/all/libraries/pdf.js/web/viewer.html?file=https%3A%2F%2Fmalawilii.org%2Fsystem%2Ffiles%2Fconsolidatedlegislation%2F3401%2FPublic%2520Health%2520Act.pdf
-(6)
-https://blogs.lse.ac.uk/africaatlse/2020/11/13/how-have-malawis-courts-law-affected-epidemic-response/
-(7)
+[8]
+https://web.archive.org/web/20201025104019/https://malawilii.org/mw/consolidated_legislation/3305
+[9]
+https://perma.cc/Y33K-N2FT
+[10]
+https://perma.cc/F79K-GAA9
 
 
 
@@ -3564,37 +3528,27 @@ Malaysia's King Abdullah declared a state of emergency across the country on 12 
 
 *Sources*:
  [1]
-https://www.pmo.gov.my/2020/03/perutusan-khas-yab-perdana-menteri-mengenai-covid-19-16-mac-2020/
-
+https://perma.cc/5YMP-Q6UW
 [2]
-https://www.pmo.gov.my/2020/03/movement-control-order/
-
+https://perma.cc/559U-6962
 [3]
-https://verfassungsblog.de/covid-19-malaysia-and-the-return-of-rule-by-law/
-
+https://perma.cc/MWP2-3ZHT
 [4]
-https://www.garda.com/crisis24/news-alert-full-history/7TqZBkyuLyzLPQAyN/malaysia-first-cases-of-2019-ncov-confirmed-january-25
-
+https://perma.cc/T73B-G95H
 [5]
-https://www.acaps.org/covid19-government-measures-dataset
-
+https://perma.cc/9D77-96TG
 [6]
-https://www.garda.com/crisis24/news-alerts/373766/malaysia-authorities-announce-extension-of-covid-19-restrictions-until-december-31-update-25
-
+https://perma.cc/ABF4-XQKM
 [7]
-https://my.usembassy.gov/health-alert-covid-082820/
-
+https://perma.cc/QLW3-GA4R
 [8]
-https://www.garda.com/crisis24/news-alerts/397431/malaysia-conditional-movement-control-order-issued-in-several-states-from-november-9-update-33
-
+https://perma.cc/KQT7-7XU9
 [9]
-https://www.abc.net.au/news/2021-01-12/malaysia-king-declares-state-of-emergency-to-curb-covid-spread/13051642
-
+https://perma.cc/9BL5-GWVF
 [10]
-https://www.bbc.com/news/55625448
-
+https://perma.cc/33F5-3PF4
 [11]
-https://www.constituteproject.org/constitution/Malaysia_2007.pdf?lang=en
+https://perma.cc/F5LM-MCZJ
 
 
 
@@ -3630,50 +3584,39 @@ Due to surge in Covid-19 cases, the Malian transition government declared a stat
 The government extended the state of health emergency on 23 December 2020 until 26 June 2021 (13, 14). ''In accordance with Law n ° 2017-055 of 6 November 2017 relating to the state of siege and the state of emergency, its extension beyond 10 days is authorized by law.'' 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Mali_1992.pdf?lang=en
+ https://perma.cc/PT8Y-3TCG
 (1)
-
-http://primature.ml/communique-du-conseil-des-ministres-du-mercredi-25-mars-2020/
+https://web.archive.org/web/20200702105724/http://primature.ml/communique-du-conseil-des-ministres-du-mercredi-25-mars-2020/
 (2)
-
-https://www.amba-mali.be/index.php/14-sample-data-articles/219-adresse-a-la-nation-de-sem-ibrahim-boubacar-keita-president-de-la-republique-chef-de-l-etat-suite-a-la-decouverte-de-cas-de-coronavirus-au-mali
-(2)https://sgg-mali.ml/JO/2017/mali-jo-2017-46.pdf
+https://perma.cc/783V-MR4L
+(2)
+https://perma.cc/HN8S-WEMM
 (3)
-
-https://afrique.latribune.fr/think-tank/tribunes/2020-04-10/le-mali-face-au-covid-19-sommes-nous-a-la-hauteur-3-3-844576.html
+https://perma.cc/3E4V-EJSN
 (4)
-
-https://www.rti.ci/info/3/afrique/26958/le-mali-leve-le-couvre-feu-port-du-masque-obligatoire-en-public
+https://perma.cc/3ENG-TBLQ
 (5)
+https://perma.cc/2VNS-PPKY
 
-https://ouestaf.com/mesures-barrieres-contre-le-covid-19-les-maliens-nen-ont-cure/
 (6)
-
-https://www.liberation.fr/direct/element/le-president-du-mali-demissionne-dissout-le-gouvernement-et-lassemblee-nationale_117761/
+https://perma.cc/VUE7-KJS9
 (7)
+https://perma.cc/ERV2-S23C
 
-https://theconversation.com/la-chute-ineluctable-du-president-malien-ibrahim-boubacar-keita-144787
 (8)
-
-https://www.france24.com/fr/20200819-mali-de-la-crise-politique-au-coup-d-%C3%A9tat-militaire
+https://perma.cc/3CFW-7VB6
 (9)
-
-https://www.dw.com/fr/le-covid-19-remet-en-cause-les-%C3%A9lections-du-29-mars-au-mali/a-52918025
+https://perma.cc/SY3E-87ZP
 (10)
 
-
-http://apf.francophonie.org/Elections-legislatives-au-Mali-l-2180433.html
+https://perma.cc/FW5N-FVTZ
 (11)
-
-
-https://sgg-mali.ml/JO/2020/mali-jo-2020-19-sp.pdf
+https://perma.cc/KDC6-5TDC
 (12)
-
 https://www.facebook.com/563531873666309/posts/3981531871866275/
 (13)
 
-
-https://www.ouestaf.com/mali-letat-durgence-sanitaire-prolonge-jusquau-26-juin-2021/
+https://perma.cc/V5XK-36C8
 (14)
 
 
@@ -3709,42 +3652,19 @@ Mauritania, due to a surge of Covid-19 cases, reestablished a nighttime curfew o
 The curfew and other measures (like ban on gatherings, mandatory masks etc) are still in place by June 2021 (10). The curfew hours have been amended several times (see 11-14). 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Mauritania_2012.pdf?lang=en
-(1)
-
-http://fr.ami.mr/Depeche-53085.html
-(2)
-
-http://fr.ami.mr/Recherche-13
-(3)
-
-https://www.icnl.org/covid19tracker/?location=210&issue=&date=&type=
-
-https://www.africanews.com/2020/03/21/covid-19-mauritania-enforces-curfew/
-
-https://fr.ami.mr/Depeche-56289.html
-(6)
-
-https://fr.ami.mr/Depeche-56291.html
-(7)
-
-https://www.arabnews.fr/node/40841/monde-arabe
-(8)
-
-https://www.rfi.fr/fr/afrique/20201213-covid-19-les-autorit%C3%A9s-mauritaniennes-tire-la-sonnette-d-alarme
-(9)
-
-https://mr.usembassy.gov/covid-19-information/
-(10)
-
-https://www.garda.com/crisis24/news-alerts/479751/mauritania-covid-19-restrictions-in-force-as-of-may-17-remain-largely-unchanged-by-comparison-with-those-in-effect-during-early-april-update-19
-(12)
-
-https://www.garda.com/crisis24/news-alerts/457031/mauritania-covid-19-restrictions-in-effect-nationwide-as-of-march-18-amended-international-travel-measures-in-place-update-16
-(13)
-
-https://www.garda.com/fr/crisis24/alertes-de-securite/465406/mauritania-authorities-amend-curfew-hours-to-0200-0600-through-may-13-update-18
-(14)
+ perma.cc/6JJ2-AGWF
+perma.cc/B2RZ-K73V
+perma.cc/R97Y-NUEC
+perma.cc/LQ4J-4FNB
+perma.cc/46QM-2FJ9
+perma.cc/MDR7-BK5K
+perma.cc/9UPL-P7FR
+perma.cc/YH4W-KSZF
+perma.cc/6BKD-4MQC
+perma.cc/SQN7-Y3LM
+perma.cc/PN6K-GL8T
+perma.cc/HA64-36C9
+perma.cc/L7AP-7P3E
 
 
 
@@ -3770,16 +3690,15 @@ https://www.garda.com/fr/crisis24/alertes-de-securite/465406/mauritania-authorit
 
 *Sources*:
  [1]
-https://www.dof.gob.mx/nota_detalle.php?codigo=5590745&fecha=30/03/2020
+perma.cc/L789-XVBR
 [2]
-https://www.gob.mx/salud/prensa/consejo-de-salubridad-general-declara-emergencia-sanitaria-nacional-a-epidemia-por-coronavirus-covid-19-239301
+https://perma.cc/Q9LF-SNDQ
 [3]
-https://dof.gob.mx/nota_detalle.php?codigo=5593313&fecha=14/05/2020
-
+perma.cc/KA35-2AVX
 [4]
-https://coronavirus.gob.mx/wp-content/uploads/2020/10/SemaforoCOVID_Metodo.pdf
+perma.cc/KG75-4HQB
 [5]
-https://coronavirus.gob.mx/semaforo/
+https://perma.cc/J3CR-AHLS
 
 
 
@@ -3814,25 +3733,19 @@ that distinguishes between a public health emergency and a state of emergency"),
 Q2 2021: State of emergency was declared from 1 April 2021. Declared unconstitutional by the Constitutional Court on 28 April 2021. 
 
 *Sources*:
- https://www.legis.md/cautare/getResults?doc_id=120817&lang=ro
-https://md.usembassy.gov/moldovan-government-has-declared-a-state-of-emergency-in-response-to-the-covid-19/
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B359%5D&covid19=1
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/#section-d1e1382
+ https://perma.cc/YJ55-VCD2
+https://perma.cc/9DP5-C286
+https://perma.cc/J7UH-BULT
 
-
-https://gov.md/sites/default/files/hotarirea_cnesp_nr.10_15.05.2020.pdf
-
-https://md.usembassy.gov/u-s-citizen-services/covid-19-information/
-https://gov.md/sites/default/files/hotarirea_cnesp_nr.33_28.09.2020.pdf
-https://www.legis.md/cautare/getResults?doc_id=123648&lang=ro
-
-https://www.moldpres.md/news/2021/03/19/21002116
-
-
-https://www.reuters.com/business/healthcare-pharmaceuticals/moldova-introduces-state-emergency-contain-coronavirus-pandemic-2021-03-31/
-https://www.legis.md/cautare/getResults?doc_id=126388&lang=ro
-https://www.legis.md/cautare/getResults?doc_id=126435&lang=ro
-
+https://perma.cc/JHR6-HLDG
+https://perma.cc/UU22-KUKQ
+https://perma.cc/ZBM5-6KCH
+https://perma.cc/7TSB-EHR5
+https://perma.cc/W9KC-EZ4K
+https://perma.cc/5NSJ-X7CW
+https://perma.cc/VNN5-Y2V7
+https://perma.cc/ZJ7B-H6XE
+https://perma.cc/J5HG-8JPT
 
 
 
@@ -3857,21 +3770,29 @@ https://www.legis.md/cautare/getResults?doc_id=126435&lang=ro
  The Mongolian constitution has a state of emergency clause that has not been used. Instead, Mongolia initially took a string of emergency measures (border closure, school closure etc.) without any such state of emergency, and have later passed the Law on Covid-19 Prevention. This law authorizes the government to "take necessary measures, such as calling quarantine and traffic movement and time limits, as well as approving relevant regimes, procedures, and instructions to be followed during the COVID 19 pandemic.". The measures were initially meant to last till 12 December 2020. But it was later extended to 30 June 2021. Hence this variable is coded as 4 across all the time periods. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Mongolia_2001.pdf?lang=en
+ https://perma.cc/7DFN-JGKX
 
-https://www.legalinfo.mn/law/details/15312?lawid=15312
 
-https://www.mn.undp.org/content/mongolia/en/home/coronavirus/support-to-national-response.html
+https://perma.cc/VQ6J-9EBK
 
-https://montsame.mn/en/read/223999
 
-https://montsame.mn/en/read/217894
+https://perma.cc/43ZN-XE6U
 
-https://montsame.mn/en/read/213965
 
-https://mn.usembassy.gov/alert-state-of-emergency-downgraded-in-ulaanbaatar/
+https://perma.cc/B736-PP7U
 
-https://police.gov.mn/resource/policegovmn/File/2021/01/21/y5ifd751ylg6rvpa/%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D0%B8%D1%80%D1%83%D1%81%D1%82%20%D1%85%D0%B0%D0%BB%D0%B4%D0%B2%D0%B0%D1%80%D1%8B%D0%BD%20%D1%85%D1%83%D1%83%D0%BB%D1%8C.pdf
+
+https://perma.cc/T7H8-KT3U
+
+
+
+https://perma.cc/MA7E-P7VD
+
+
+https://perma.cc/GUD9-JJU9
+
+
+https://perma.cc/9KR5-ACN5
 
 
 
@@ -3898,23 +3819,13 @@ https://police.gov.mn/resource/policegovmn/File/2021/01/21/y5ifd751ylg6rvpa/%D0%
 'Based on Article 81 of the Moroccan Constitution (1), in extraordinary cases of necessity and emergency, the government can adopt decrees having the force of law, which are immediately binding on adoption, but require parliamentary approbation.'' 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Morocco_2011.pdf?lang=en
-(1)
-
-https://www.chambredesrepresentants.ma/fr/%D8%A7%D9%84%D9%86%D8%B5%D9%88%D8%B5-%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A%D8%A9/projet-de-decret-loi-ndeg220292-edictant-des-mesures-specifiques-letat-durgence
-(2)
-
-https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110338/137210/F965170133/MAR-110338.pdf
-(3)
-
-https://www.chambredesrepresentants.ma/sites/default/files/loi/%D9%85%D8%B4%D8%B1%D9%88%D8%B9_%D9%85%D8%B1%D8%B3%D9%88%D9%85_%D8%A8%D9%82%D8%A7%D9%86%D9%88%D9%86_%D8%B1%D9%82%D9%85_2.20.292_%D9%8A%D8%AA%D8%B9%D9%84%D9%82_%D8%A8%D8%B3%D9%86_%D8%A3%D8%AD%D9%83%D8%A7%D9%85_%D8%AE%D8%A7%D8%B5%D8%A9_%D8%A8%D8%AD%D8%A7%D9%84%D8%A9_%D8%A7%D9%84%D8%B7%D9%88%D8%A7%D8%B1%D8%A6_%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%A9_%D9%88%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA_%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%86_%D8%B9%D9%86%D9%87%D8%A7_0.pdf
-(4)
-
-https://www.policycenter.ma/opinion/coronavirus-does-state-health-emergency-morocco-comply-international-human-rights-law#.XuD0YFMzbOQ
-
-http://www.sgg.gov.ma/Portals/0/BO/2020/BO_6870_Fr.pdf?ver=2020-04-09-094443-083
-
-http://www.sgg.gov.ma/Portals/1/BO/2020/BO_6867-bis_Ar.pdf?ver=2020-03-24-102522-043
+ perma.cc/4WX5-BCRU
+perma.cc/RJ84-EFAQ
+perma.cc/FZ9D-YMN3
+https://perma.cc/A7JG-6UFG
+perma.cc/A83W-RV4W
+perma.cc/36V5-JKKS
+perma.cc/TY68-4WU7
 
 
 
@@ -3939,12 +3850,12 @@ http://www.sgg.gov.ma/Portals/1/BO/2020/BO_6867-bis_Ar.pdf?ver=2020-03-24-102522
  A state of emergency was first declared on March 30, via the Presidential Decree nº 11/2020, and it was extended three times, until July 29. According to the constitution, a state of emergency can be declared for up to thirty days a time and it can be extended a maximum of three times. Since legally it could no longer be extended, President Filipe Nyus opted to declare a new state of emergency for thirty days starting from August 8, via the Presidential Decree nº 23/2020. The parliament approved the decree, but the opposition criticized the decision, which they considered unconstitutional since the state of emergency had already been extended the three times allowed by the constitution. After the first thirty days ended, the second state of emergency was not extended and, instead, a state of Public Calamity was implemented via Decree nº 79/2020. 
 
 *Sources*:
- https://www.rsm.global/mozambique/sites/default/files/decreto_presidencial_23-2020.pdf
-https://www.dw.com/pt-002/covid-19-em-mo%C3%A7ambique-novo-estado-de-emerg%C3%AAncia-decretado-pelo-pr/a-54452845
-https://covid19.ins.gov.mz/covid-19-presidente-da-republica-declara-estado-de-emergencia-em-mocambique/
-https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
-http://www.ts.gov.mz/images/Decreto_n._792020_de_4_de_Setembro_-_Declara_a_situac%C3%A3o_da_calamidade_P%C3%BAblica_e_Activa_o_Alerta_Vermelho_compressed.pdf
-https://www.misau.gov.mz/index.php/estado-de-calamidade-publica
+ [1]	perma.cc/QSG2-VSNG
+[2]	perma.cc/D7ZB-PBLJ
+[3]	perma.cc/SBW8-7GGS
+[4]	perma.cc/D25N-BSMR
+[5]	perma.cc/9HDF-ML5H
+[6]	perma.cc/V24L-4JCW
 
 
 
@@ -3974,20 +3885,19 @@ Note that emend is coded as 17 September 2020 for Q3 2020, because the state of 
 
 *Sources*:
  [1]
-https://namiblii.org/akn/na/act/p/2020/7/eng%402020-03-18
-
+https://perma.cc/H6T9-2ZQ5
 [2]
-https://laws.parliament.na/cms_documents/7148-f5bbadcff6.pdf
+https://web.archive.org/web/20200703064426/https://laws.parliament.na/cms_documents/7148-f5bbadcff6.pdf
 [3]
-https://www.namibian.com.na/199309/archive-read/Parliament-blesses-state-of-emergency
+https://perma.cc/7AJA-D6YQ
 [4]
-https://www.reuters.com/article/healthcoronavirus-namibia/namibia-to-allow-international-travel-lift-covid-state-of-emergency-idUSL4N2GE3MJ
+https://perma.cc/Z2N7-65CT
 [5]
-https://laws.parliament.na/annotated-laws-regulations/law-regulation.php?id=522
+https://web.archive.org/web/20220124165334/https://www.parliament.na/?id=522
 [6]
 https://laws.parliament.na/cms_documents/7554-f88039bcb2.pdf
 [7]
-https://www.namibiaembassyusa.org/sites/default/files/statements/Statement%20by%20Dr%20Kalumbi%20Shangula%20Details%20on%20COVID19%20Measures%2016.06.2021%20bis.pdf
+https://perma.cc/UX9R-4P3E
 
 
 
@@ -4014,14 +3924,12 @@ https://www.namibiaembassyusa.org/sites/default/files/statements/Statement%20by%
 The Act is broad. Section 2(1) can "provide legal foundation for any government action taken to tackle COVID-19 both moderate and extraordinary." [1] 
 
 *Sources*:
- https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+ https://perma.cc/R7AQ-R27V
 [1]
 
-http://www.lawcommission.gov.np/en/archives/12240
-
-http://www.vertic.org/media/National%20Legislation/Nepal/NP_Infectious_Diseases_Act.pdf
-
-https://researchportal.northumbria.ac.uk/ws/portalfiles/portal/43194666/verfassungsblog.de_Emergency_Law_Responses_and_Conflict_Affected_States_in_Transition.pdf
+https://perma.cc/DX7R-D9NN
+https://perma.cc/E896-56ZR
+https://perma.cc/6X4U-YHTC
 
 
 
@@ -4047,29 +3955,19 @@ https://researchportal.northumbria.ac.uk/ws/portalfiles/portal/43194666/verfassu
 For Q4 of 2020, this changed however.  From 1 December 2020, regional emergency ordinances were replaced by a national "Emergency Act on measures against COVID-19" (Tijdelijke wet maatregelen Covid-19). This measures taken through this law have been debated as a court disallowed the use of a curfew under it (although an appeals court later partially revoked that decision), and parliament and the government then passed an amendment to this law enabling such a curfew. However, this Emergency Act continues to be the overarching legislation determining the Covid-19 response, and is at the time of coding set to end on 2021-09-01. This is therefore coded as 4 for Q4 of 2020 and Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Netherlands_2008.pdf?lang=en
+ https://perma.cc/YM84-7TRH
 
-
-
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic-_may_2020.pdf
-
-https://verfassungsblog.de/the-netherlands-of-rollercoasters-and-elephants/
-
-https://wetten.overheid.nl/BWBR0027466/2020-01-01
-
-https://www.veiligheidsberaad.nl/2020/03/17/landelijke-model-noodverordening-voor-de-veiligheidsregios/
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_july_2020.pdf
-https://www.rijksoverheid.nl/onderwerpen/coronavirus-Covid-19/nederlandse-maatregelen-tegen-het-coronavirus/coronawet-vervangt-noodverordeningen
-
-https://wetten.overheid.nl/BWBR0044337/2020-12-01
-
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-
-https://www.bbc.com/news/world-europe-56084466
-
-https://verfassungsblog.de/Covid-19-in-the-netherlands-of-changing-tides-and-constitutional-constants/
-
-https://wetten.overheid.nl/BWBR0044416/2021-05-22
+https://perma.cc/9PWC-JWYS
+https://perma.cc/24D9-XRS7
+https://perma.cc/5PEC-QQ8N
+https://perma.cc/RW9C-B6D9
+https://perma.cc/65MY-UD3A
+https://perma.cc/Q6NU-RVW3
+https://perma.cc/FLW4-K6VR
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://perma.cc/FHD3-FTZ8
+https://perma.cc/8Z88-AR8V
+https://perma.cc/4CZ2-2MNX
 
 
 
@@ -4096,15 +3994,13 @@ https://wetten.overheid.nl/BWBR0044416/2021-05-22
 The COVID-19 Public Health Response Act was introduced after the state of emergency was lifted on 13 May 2020. This Act provides a legislative frameworkfor the New Zealand government's response to the pandemic. 
 
 *Sources*:
- https://gazette.govt.nz/notice/id/2020-go1435
-https://www.beehive.govt.nz/release/state-national-emergency-declared-fight-covid-19
-http://www.legislation.govt.nz/act/public/2002/0033/51.0/DLM149789.html
-https://www.garda.com/crisis24/news-alerts/326196/new-zealand-government-declares-state-of-emergency-march-25-update-5
-https://www.acaps.org/covid19-government-measures-dataset
-
-http://www.legislation.govt.nz/act/public/2020/0012/latest/whole.html#LMS344134
-
-https://www.parliament.nz/en/pb/bills-and-laws/bills-digests/document/52PLLaw26281/covid-19-public-health-response-act-2020-bills-digest
+ [1]	perma.cc/SK8T-ESQD
+[2]	perma.cc/HE4J-ACGR
+[3]	perma.cc/W58K-5MYE
+[4]	perma.cc/8USV-EM23
+[5]	perma.cc/8PP6-MLBE
+[6]	perma.cc/Y6GU-W3YH
+[7]	perma.cc/JBW9-S7RK
 
 
 
@@ -4130,17 +4026,17 @@ https://www.parliament.nz/en/pb/bills-and-laws/bills-digests/document/52PLLaw262
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3
 
 
 
@@ -4171,30 +4067,25 @@ The state of emergency due to Covid-19 has been prolonged several times (see e.g
 During Q1 of 2021, the state of emergency was prolonged on 5 January 2021 (see 8), and then prolonged again for 3 months in April 2021 (see 9). 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Niger_2017.pdf?lang=en
+ https://perma.cc/JYE6-G2KW
 (1)
-
-https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7ed1e4d6fbed7437b83edc/1585369575239/Communiqu%C3%A9_CM+du+vendredi+27+mars+2020_.pdf
+https://perma.cc/75R4-H7EA
 (2)
-
-https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7eceb715eff3354ca7e9b9/1585368760730/MESSAGE+A+LA+NATION+DU+PRESIDENT+DE+LA+REPUBLIQUE+SUR+LA+SITUATION+DE+LA+PANDEMIE+DU+CORONAVIRUS+%28COVID-19%29+27+03+2020.pdf
+https://perma.cc/7ASB-G2MP
 (3)
+https://perma.cc/AR9N-EBT2
 
-https://www.presidence.ne/discours-du-prsident/2020/3/27/4jdpnhvms74ecghmg4322p0kbhyptx
 (4)
-
-http://www.anp.ne/article/niger-le-parlement-approuve-la-prorogation-de-l-etat-d-urgence-sanitaire-contre-la-covid-19
+https://perma.cc/VKD8-N9NG
 (5)
+https://perma.cc/L7DA-37MG
 
-https://www.garda.com/crisis24/news-alerts/425966/niger-niger-extends-covid-19-related-state-of-health-emergency-for-three-months-through-early-april-update-12
 (6)
-https://www.ouestaf.com/niger-letat-durgence-sanitaire-et-securitaire-prolonges/
+https://perma.cc/688N-HD2D
 (7)
-
-https://www.presidence.ne/conseils-des-ministres/2021/1/5/5rjvvwlvz5gpflqlk4vsnybgrlxzeh
+https://perma.cc/ALM6-J3ZF
 (8)
-
-https://www.presidence.ne/conseils-des-ministres/2021/4/22/conclusions-du-conseil-des-ministres-du-22-avril-2021
+https://perma.cc/NFB8-QJJ4
 (9)
 
 
@@ -4220,13 +4111,13 @@ https://www.presidence.ne/conseils-des-ministres/2021/4/22/conclusions-du-consei
  Nigeria has called upon emergency powers to deal with COVID-19 without, however, having declared a state of emergency. The extant Infectious Diseases Law - the Quarantine Act 1926 - gives the President sweeping powers towards preventing the introduction into and spread in Nigeria, and the transmission from Nigeria, of dangerous infectious diseases' and to make regulations for associated purposes. However, the Quarantine Act has been in process of being repealed and substituted via a new Bill of health. 
 
 *Sources*:
- https://placng.org/i/quarantine-act-repeal-and-re-enactment-bill-2021-passes-second-reading-in-the-senate/
-https://verfassungsblog.de/nigerias-emergency-legal-response-to-covid-19-a-worthy-sacrifice-for-public-health/
-https://www.loc.gov/law/help/health-emergencies/nigeria.php
-https://www.scribd.com/document/458968631/Draft-Control-of-Infectious-Diseases-Bill
-https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/
-https://covid19.ncdc.gov.ng/advisory/
-https://covidlawlab.org/wp-content/uploads/2020/06/Quarantine-Act-1926.pdf
+ [1]	perma.cc/RZB3-E45D
+[2]	perma.cc/ZJ35-5V5W
+[3]	perma.cc/RX2M-ZUCP
+[4]	perma.cc/X7W8-YLG3
+[5]	perma.cc/27JV-KJYU
+[6]	perma.cc/K8E2-LJAZ
+[7]	perma.cc/XV3D-2824
 
 
 
@@ -4257,44 +4148,56 @@ A three-week lockdown was imposed in the city of Kaesong in July 2020 after a su
  
 
 *Sources*:
- https://www.constituteproject.org/constitution/Peoples_Republic_of_Korea_1998.pdf
+ https://perma.cc/FG4R-SPW4
 
 
-https://www.bbc.com/news/world-asia-52146989
+https://perma.cc/SAP5-J6GV
 
 
-https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korean-lecturers-say-there-are-confirmed-coronavirus-cases-in-the-country-rfa-idUSKBN2200H8
-
-https://www.nytimes.com/2020/03/31/world/asia/north-korea-coronavirus.html
+https://perma.cc/H56E-YNJ8
 
 
-
-https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korean-lecturers-say-there-are-confirmed-coronavirus-cases-in-the-country-rfa-idUSKBN2200H8
-
+https://perma.cc/X2ZX-CC6Z
 
 
-https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korea-lifts-lockdown-in-border-town-after-suspected-covid-19-case-inconclusive-idUSKCN25A044?il=0
+https://perma.cc/86XL-YU2M
 
 
-https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19
+https://perma.cc/4ALA-F9YV
 
-https://thediplomat.com/2021/01/what-is-the-truth-about-covid-19-in-north-korea/
 
-https://www.reuters.com/article/us-health-coronavirus-northkorea-idUSKCN24Q0TC
+https://perma.cc/6CJK-S98L
 
-https://www.garda.com/crisis24/news-alerts/365721/north-korea-authorities-implement-tighter-lockdown-restrictions-on-august-2-update-4
 
-https://www.garda.com/crisis24/news-alerts/346061/north-korea-british-embassy-in-pyongyang-closes-due-to-covid-19-restrictions-may-27-update-2
+https://perma.cc/Y5GD-5L75
 
-https://www.garda.com/crisis24/news-alerts/413771/north-korea-north-korea-continues-to-enforce-domestic-covid-19-related-restrictions-as-of-mid-december-update-13
 
-https://www.garda.com/crisis24/news-alerts/430211/north-korea-officials-continue-to-enforce-domestic-covid-19-related-restrictions-as-of-mid-january-update-14
+https://perma.cc/MAG2-VNSD
 
-https://www.garda.com/crisis24/news-alerts/454976/north-korea-officials-continue-to-enforce-domestic-covid-19-related-restrictions-as-of-march-15-update-16
 
-https://www.garda.com/crisis24/news-alerts/468001/north-korea-officials-continue-to-enforce-domestic-covid-19-related-restrictions-as-of-april-16-update-17
+https://perma.cc/EDE5-D8J8
 
-https://www.garda.com/crisis24/news-alerts/478096/north-korea-officials-continue-to-enforce-domestic-covid-19-related-restrictions-as-of-may-13-update-18
+
+https://perma.cc/GFC9-E6CN
+
+
+https://perma.cc/4H6N-EU3J
+
+
+https://perma.cc/KA9S-UV37
+
+
+https://perma.cc/8VLK-SMVT
+
+
+https://perma.cc/HZF7-YTDN
+
+
+https://perma.cc/WC65-YKG4
+
+
+
+
 
 
 
@@ -4325,23 +4228,18 @@ July-September 2020: the primary legal instrument for this time period is "Zakon
 October-December 2020, January-March, April-June 2021: State of crisis (kriznata sostojba) was declared by the government on 20 November 2020 based on the Crisis Management Law ("Zakon za upravuvanje so krizi"). The legal instrument gives the Crisis Management Center the authority to implement emergency measures. State of crisis was extended on 9 June 2021 until 31 December 2021. 
 
 *Sources*:
- https://pretsedatel.mk/%d0%b2%d0%be%d0%bd%d1%80%d0%b5%d0%b4%d0%bd%d0%be-%d0%be%d0%b1%d1%80%d0%b0%d1%9c%d0%b0%d1%9a%d0%b5-%d0%bd%d0%b0-%d0%bf%d1%80%d0%b5%d1%82%d1%81%d0%b5%d0%b4%d0%b0%d1%82%d0%b5%d0%bb%d0%be%d1%82-%d0%bd/
-http://www.slvesnik.com.mk/Issues/4049500a3fc544da898402bee6a65758.pdf
-http://www.slvesnik.com.mk/Issues/08b78c356ddb4deca2f171fe70aace21.pdf
-http://www.slvesnik.com.mk/Issues/d6c92844ad5a4fe2bc47874b138e97fa.pdf
-http://www.slvesnik.com.mk/Issues/77051cc736f74b29be692142447b43a4.pdf
-
-https://vlada.mk/uredbi-covid19
-http://www.slvesnik.com.mk/Issues/099b0abae78442ddab217ec729d2d9e1.pdf
-https://www.worldaware.com/covid-19-alert-north-macedonia-lift-additional-restrictions-june-26-airports-opening-july-1
-
-https://vlada.mk/node/23294
-https://koronavirus.gov.mk/vesti/219024
-https://www.garda.com/crisis24/news-alerts/402236/north-macedonia-authorities-declare-state-of-crisis-november-20-update-15
-https://vlada.mk/node/23392
-
-
-https://www.mchamber.mk/Default.aspx?mId=28&id=1007&lng=1
+ [1]	perma.cc/458X-WHHH
+[2]	perma.cc/3KHZ-X39G
+[3]	perma.cc/L6CQ-DD5L
+[4]	perma.cc/96Y5-SCDK
+[5]	perma.cc/Z22F-86DS
+[6]	perma.cc/GJ56-7A6G
+[7]	perma.cc/6DF6-M65S
+[8]	perma.cc/79Y2-37FG
+[9]	perma.cc/TT8D-53PJ
+[10]	perma.cc/MSF3-3FFE
+[11]	perma.cc/BFX6-TQLF
+[12]	perma.cc/B7UM-L42Z
 
 
 
@@ -4366,27 +4264,43 @@ https://www.mchamber.mk/Default.aspx?mId=28&id=1007&lng=1
  In Q2 of 2020, Norway passed a new law, the Corona Act, on 24 March 2020. This was the main legal instrument under which measures were enacted, and therefore coded 4 as this was a new law. In addition to measures passed under the Corona Act, Norway has other implemented emergency measures based on the "Lov om vern mot smittsomme sykdommer [smittevernloven]" (the Act of 5 August 1994 No. 55 relating to control of communicable diseases), first used to adopt quarantine measures for people arriving from abroad as "Vedtak etter lov om vern mot smittsomme sykdommer § 4-1 andre ledd om karantene (isolering) etter reiser utenfor Norden" (13 March 2020, FOR-2020-03-12-271), and some emergency measures were passed as amendments to "Forskrift om smitteverntiltak mv. ved koronautbruddet (Covid-19-forskriften)" from 27 March 2020 (FOR-2020-03-27-470). At the same time, the Corona Act expired on 2020-05-27, which made the "Lov om vern mot smittsomme sykdommer [smittevernloven]" (the Act of 5 August 1994 No. 55 relating to control of communicable diseases) the main legal instrument, and is still in use. All of these constituted new laws and were no state of emergencies, and this is therefore coded as 4. 
 
 *Sources*:
- https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2019-2020/the-corona-act/
+ https://perma.cc/2FT3-3UR2
 
-https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2019-2020/vedtak-201920-080/
 
-https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyheter/2019-2020/skal-behandle-fullmaktslov/
-https://lovdata.no/dokument/LTI/lov/2020-03-27-17
+https://perma.cc/RNX4-GU25
 
-https://lovdata.no/artikkel/forskrifter_med_heimel_i_koronaloven/2682
-https://lovdata.no/dokument/LTI/forskrift/2020-03-12-271
 
-https://www.norway.no/en/canada/norway-canada/news-events/news2/the-norwegian-government-introduces-a-variety-of-new-measures-to-prevent-transmission-of-the-coronavirus/
+https://perma.cc/V6Z4-F6H6
 
-https://www.regjeringen.no/contentassets/9d991e8a50774074b5b703d0268c1b76/regulations_on_quarantine.pdf
 
-https://lovdata.no/dokument/SF/forskrift/2020-03-27-470/#KAPITTEL_5
+https://perma.cc/HHM5-MVR8
 
-https://lovdata.no/dokument/NL/lov/1994-08-05-55
 
-https://verfassungsblog.de/the-pomp-of-popular-constitutional-outrage/
+https://perma.cc/FJ5E-CWBJ
 
-https://www.regjeringen.no/no/tema/Koronasituasjonen/plan-for-gradvis-gjenapning/id2842645/
+
+https://perma.cc/VSW2-PV5B
+
+
+https://perma.cc/P33M-Q933
+
+
+https://perma.cc/WJR2-24N7
+
+
+https://perma.cc/HU7T-L6JM
+
+
+https://perma.cc/MJK8-VSZS
+
+
+https://perma.cc/TBV7-YVD8
+
+
+https://perma.cc/237H-P42C
+
+
+
 
 
 
@@ -4414,11 +4328,11 @@ https://www.regjeringen.no/no/tema/Koronasituasjonen/plan-for-gradvis-gjenapning
  [1]
 https://omannews.gov.om/Local/ArtMID/416/ArticleID/9985
 [2]
-https://covid19.moh.gov.om/#/qarar
+perma.cc/AHP4-K67H
 [3]
-https://www.omanobserver.om/know-your-fine-for-various-covid-19-violations/
+perma.cc/T89N-G4EV
 [4]
-https://www.omanobserver.om/article/1101711/oman/health/mosques-to-reopen-in-oman-restrictions-eased-sc
+perma.cc/NXT8-PLNH
 
 
 
@@ -4445,12 +4359,9 @@ https://www.omanobserver.om/article/1101711/oman/health/mosques-to-reopen-in-oma
 A joint civilian-military body called the National Command and Operation Centre (NCOC) was established to respond to the Covid-19 situation in Pakistan. However this is not a legal instrument. Hence I have coded this variable as 5 across all the time periods. 
 
 *Sources*:
- https://www.voanews.com/covid-19-pandemic/pakistan-says-its-covid-19-cases-could-rise-12-million-end-july
-
-
-https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755241
-
-https://verfassungsblog.de/democratic-deficits-of-covid-19-crisis-in-pakistan/
+ https://perma.cc/N59C-2NWC
+https://perma.cc/JT6Y-NHC3
+https://perma.cc/7RK4-Q8F6
 
 
 
@@ -4475,10 +4386,10 @@ https://verfassungsblog.de/democratic-deficits-of-covid-19-crisis-in-pakistan/
  There were several emergency measures taken by the government in response to the covid-19 pandemic. The Resolución de Gabinete N° 11 declared a state of national emergency on 13 March 2020. However, it is not based on the constitution, that foresees a "state of urgency" in which the government could suspend constitutional guarantees. Rather, it is based on the public procurement law, which facilitates the purchase of goods and services to deal with an emergency situation and provides the government with an emergency fund. Thus, I consider that the measure that most closely resembles a state of exception was the Executive Decree nº 507, from 24 March 2020, which declares a complete lockdown and defines other emergency measures. The measures continue throughout all the quarters coded. 
 
 *Sources*:
- http://www.minsa.gob.pa/contenido/decretos-y-resoluciones-codes
-http://minsa.b-cdn.net/sites/default/files/general/decreto_ejecutivo_507_de_24_de_marzo_de_2020.pdf
-https://www.mitradel.gob.pa/decretoscovid19/resolucion-de-gabinete-no-11-de-13-de-marzo-de-2020-que-declara-el-estado-de-emergencia-nacional-y-dicta-otras-disposiciones-consejo-de-gabinete/#:~:text=11%20de%2013%20de%20marzo%20de%202020%20%E2%80%93%20Que%20declara%20el,otras%20disposiciones%20%E2%80%93%20Consejo%20de%20Gabinete
-https://www.prensa.com/politica/gabinete-declara-formalmente-el-estado-de-emergencia-nacional/
+ [1]	perma.cc/SPB6-UHF7
+[2]	https://web.archive.org/web/20220812144608/https://minsa.gob.pa/sites/default/files/general/decreto_ejecutivo_507_de_24_de_marzo_de_2020.pdf
+[3]	perma.cc/3PGZ-597T
+[4]	perma.cc/UTF7-WVMK
 
 
 
@@ -4503,27 +4414,34 @@ https://www.prensa.com/politica/gabinete-declara-formalmente-el-estado-de-emerge
  In Q2 of 2020, Papua New Guinea declared a state of emergency under Chapter X: Emergency Provisions in the constitution. This is therefore coded as 1. Note however that when this ended on June 16 2020, PNG replaced it with the National Pandemic Act which allows for numerous emergency measures in relation to Covid-19. This act is still in place, and has been used to enforce strict emergency measures during 2021 as well. After Q2 of 2020, this is therefore coded as 4. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Papua_New_Guinea_2016.pdf?lang=en
-
-https://www.coronanet-project.org/data/reports/finished/20200620_Papua.html
-
-https://www.garda.com/crisis24/news-alerts/325816/papua-new-guinea-state-of-emergency-comes-into-effect-march-24-update-2
-
-https://www.theguardian.com/world/2020/mar/23/papua-new-guinea-declares-state-of-emergency-after-first-coronavirus-case
-
-https://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-response-to-Covid-19---emergency-legal-regime/
-
-https://covid19.info.gov.pg/
-
-https://www.theguardian.com/world/2021/mar/18/papua-new-guinea-to-impose-month-long-restrictions-as-covid-outbreak-spirals
-
-http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
-
-http://www.parliament.gov.pg/index.php/bills-and-legislation/view/national-pandemic-act-2020
-
-https://www.garda.com/crisis24/news-alerts/480906/papua-new-guinea-authorities-easing-some-Covid-19-restrictions-nationwide-as-of-may-20-update-31
+ https://perma.cc/3FAJ-23LM
 
 
+https://perma.cc/8N8W-MT2F
+
+
+https://perma.cc/6ZZK-JYWL
+
+
+https://perma.cc/952C-AM3U
+
+
+https://perma.cc/Q2RX-96KB
+
+
+https://perma.cc/K4MB-U7FC
+
+
+https://perma.cc/TTG8-USLN
+
+
+https://perma.cc/RAM8-G9JC
+
+
+https://perma.cc/XG77-GPEH
+
+
+https://perma.cc/DZ23-R7F8
 
 
 
@@ -4549,15 +4467,16 @@ https://www.garda.com/crisis24/news-alerts/480906/papua-new-guinea-authorities-e
 
 *Sources*:
  [1]
-https://www.ip.gov.py/ip/covid-19/
+perma.cc/2VDF-BZ9H
 [2]
-https://www.mspbs.gov.py/decretos-covid19.html
+perma.cc/6QK2-AY7E
 [3]
-https://www.presidencia.gov.py/archivos/documentos/DECRETO3456_qgov9hok.pdf
+https://web.archive.org/web/20200416114235/https://www.presidencia.gov.py/archivos/documentos/DECRETO3456_qgov9hok.pdf
 [4]
-https://www.presidencia.gov.py/archivos/documentos/decretos_1_20200321125422555%203478_o342kdv9.pdf
+https://web.archive.org/web/20210712132851/https://www.presidencia.gov.py/archivos/documentos/decretos_1_20200321125422555%203478_o342kdv9.pdf
 [5]
-http://www.gacetaoficial.gov.py/index/detalle_publicacion/62474
+perma.cc/72PS-E4P8
+
 
 
 
@@ -4583,11 +4502,11 @@ http://www.gacetaoficial.gov.py/index/detalle_publicacion/62474
 
 *Sources*:
  [1]
-https://cdn.www.gob.pe/uploads/document/file/566448/DS044-PCM_1864948-2.pdf
+perma.cc/36H3-SHS6
 [2]
-https://www.gob.pe/institucion/pcm/colecciones/787-normativa-sobre-estado-de-emergencia-por-coronavirus
+https://perma.cc/9JBR-CR4G
 [3]
-https://www.gob.pe/institucion/mtpe/normas-legales/1941651-105-2021-pcm
+https://perma.cc/QRX8-LXFK
 
 
 
@@ -4616,21 +4535,11 @@ https://www.gob.pe/institucion/mtpe/normas-legales/1941651-105-2021-pcm
 3: The national state of calamity was extended by a year to September 2021 on 22 September 2020. 
 
 *Sources*:
- http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regulartion_RA_10121.pdf
-
-https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-punishment
-
-
-https://www.officialgazette.gov.ph/downloads/2020/04apr/20200401-IRR-RA-11469-RRD.pdf
-
-
-https://apnews.com/article/virus-outbreak-leni-robredo-philippines-asia-east-asia-28b530198c4f86cd7e40675285d2f3a5
-
-
-https://www.wsws.org/en/articles/2020/09/30/phil-s30.html
-
-
-https://www.pna.gov.ph/articles/1115937
+ https://perma.cc/EDZ5-C2F9
+https://perma.cc/2RLE-4QKQ
+https://perma.cc/JQK9-56BE
+https://perma.cc/HWA4-82T7
+https://perma.cc/QT8M-BJRV
 
 
 
@@ -4655,14 +4564,14 @@ https://www.pna.gov.ph/articles/1115937
  A state of epidemic declared on 20 March 2020 by the Ministry of Health. Previously the state of epidemic threat declared on 13 March 2020 (lifted on 20 March 2020). 
 
 *Sources*:
- http://www.dziennikustaw.gov.pl/DU/2020/433
-http://www.dziennikustaw.gov.pl/DU/2020/490
-http://www.dziennikustaw.gov.pl/DU/2020/491
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B290%5D&covid19=1
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/pl_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
+ https://perma.cc/T6JL-WP2W
+https://perma.cc/G4Z5-MFE7
+https://perma.cc/V96A-9F9P
+https://perma.cc/J7UH-BULT
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://perma.cc/7TAE-STH9
+https://perma.cc/JP5V-B3QQ
 
 
 
@@ -4688,13 +4597,13 @@ https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649
 
 *Sources*:
  [1]
-https://dre.pt/web/guest/pesquisa/-/search/130399862/details/maximized
+perma.cc/839M-D2N9
 [2]
-https://dre.pt/web/guest/pesquisa/-/search/147933283/details/maximized
+perma.cc/HB6K-SBBZ
 [3]
-https://dre.pt/legislacao-covid-19-upo
+perma.cc/J5YS-5GC9
 [4]
-https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
+perma.cc/2JLZ-3CTN
 
 
 
@@ -4719,35 +4628,46 @@ https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
  There have been several emergency measures in Qatar, such as closing cinemas, theatres, children’s play areas, gyms and wedding venues, including those in hotels; stopping all flights; stopping public transportation; distance teaching in schools. No reference to any legal instrument has been found when implementing these measures. The measures were eased in phases starting on June 15 2020, and were relatively relaxed during the fall and winter. In February 2021, harder restrictions were reimposed and many continue to be in effect although some easing of these were introduced in May 2021. Again, no reference to any legal instrument has been found, and this is therefore coded as 5 for all periods. 
 
 *Sources*:
- https://portal.www.gov.qa/wps/portal/media-center/news/news-details/hhtheamirdirectsthestartofimplementingapackageofdecisionsandmeasurestocombatthespreadofcoronavirus
+ https://perma.cc/QC79-K86Y
 
-https://www.gco.gov.qa/en/2020/03/12/government-communications-office-statement-regarding-measures-taken-by-the-state-of-qatar-to-combat-coronavirus-Covid-19/
 
-https://www.garda.com/crisis24/news-alerts/328506/qatar-domestic-restrictions-extended-april-1-update-15
+https://perma.cc/TZN5-KU3U
 
-https://www.garda.com/crisis24/news-alerts/324061/qatar-domestic-restrictions-implemented-march-16-update-14
 
-https://portal.www.gov.qa/wps/portal/media-center/news/news-details/detailsofthirdstageofliftingcovisninteenrestrictionsinqatar?searchText=covid
+https://perma.cc/2AN2-HDKN
 
-https://portal.www.gov.qa/wps/portal/media-center/news/news-details/supremecommitteeforcrisismanagementannouncesstartofparttwoofphasefourofliftingcovidnineteenrestrictionsfromtuesday?searchText=covid
 
-https://www.garda.com/crisis24/news-alerts/388831/qatar-officials-extend-quarantine-restrictions-for-arrivals-until-december-31-update-25
+https://perma.cc/M7GS-4ZP7
 
-https://www.gco.gov.qa/en/top-news/statement-supreme-committee-containing-Covid-19/
 
-https://www.garda.com/crisis24/news-alerts/482266/qatar-authorities-to-ease-Covid-19-restrictions-in-four-phases-starting-may-28-update-28
+https://perma.cc/B692-KN9V
 
-https://www.garda.com/crisis24/news-alerts/464616/qatar-authorities-to-further-tighten-Covid-19-restrictions-from-april-9-update-25
 
-https://www.garda.com/crisis24/news-alerts/438611/qatar-authorities-to-reimpose-some-Covid-19-restrictions-nationwide-from-feb-4-update-22
+https://perma.cc/E3FM-RAQ7
 
-https://qa.usembassy.gov/Covid-19-information-11/
 
-https://www.gco.gov.qa/en/focus/Covid-19/
+https://perma.cc/7L8C-RA7L
 
-https://covid19.moph.gov.qa/EN/Precautions-for-lifting-restrictions/Pages/default.aspx
 
- 
+https://perma.cc/Y7K9-K2Z8
+
+
+https://perma.cc/MKM8-S6D5
+
+
+https://perma.cc/B9AB-3AWF
+
+
+https://perma.cc/9L8N-U65E
+
+
+https://perma.cc/MX2W-2XVB
+
+
+https://perma.cc/V3E4-DPBZ
+
+
+https://perma.cc/CRX3-LNPR
 
 
 
@@ -4778,16 +4698,15 @@ The state of emergency has been renewed several consecutive times, using the sam
  
 
 *Sources*:
- https://www.constituteproject.org/constitution/Congo_2015.pdf?lang=en
-
-https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
+ https://perma.cc/UQ4V-38AZ
+(1)
+https://perma.cc/RA3K-VZJG
 (2)
-
-https://www.africanews.com/2020/03/30/congo-republic-heads-into-coronavirus-lockdown/
-
-https://www.tourisme-environnement.gouv.cg/decret-portant-declaration-de-letat-durgence-sanitaire-republique-congo/
-
-https://cms.law/fr/media/local/cms-bfl/files/veille-covid-19-en-afrique-du-13-au-17-avril-2020
+https://perma.cc/NN28-8LC7
+(3)
+https://perma.cc/TQ4J-RKVR
+(4)
+https://perma.cc/F6ZA-NS4V
 
 
 
@@ -4814,23 +4733,17 @@ https://cms.law/fr/media/local/cms-bfl/files/veille-covid-19-en-afrique-du-13-au
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: State of alert declared on 18 May 2020 based on multiple legal instruments where  Law 55/2020 is considered the primary legal instrument since it most closely resembles a state of exception. Law 55/2020 was passed by the parliament on 15 May 2020 and has regulated the state of alert. The state of alert has been extended several times and is in place at least until 11 July 2021. 
 
 *Sources*:
- http://legislatie.just.ro/Public/DetaliiDocument/223831
-https://rm.coe.int/09000016809cee30
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-
-http://legislatie.just.ro/Public/DetaliiDocument/225876
-https://ro.usembassy.gov/health-alert-u-s-embassy-bucharest-romania-may-18-2020/
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/ro_report_on_coronavirus_pandemic_november_2020.pdf
-
-https://www.mai.gov.ro/wp-content/uploads/2019/01/Hotararea-Guvernului-nr.-531-din-11.05.2021-privind-prelungirea-starii-de-alerta-pe-teritoriul-Romaniei-incepand-cu-data-de-13-mai-2021.pdf
-https://www.garda.com/crisis24/news-alerts/477691/romania-authorities-extend-covid-19-related-state-of-alert-and-constituent-restrictions-until-at-least-june-11-update-18
-https://www.mai.gov.ro/wp-content/uploads/2019/01/Hotararea-CNSU-nr.-38-din-09.06.2021.pdf
-https://www.garda.com/crisis24/news-alerts/489581/romania-authorities-extend-covid-19-related-state-of-alert-until-july-11-update-21
-
-
-
+ https://perma.cc/M68K-4ES7
+https://perma.cc/AA6W-V4VU
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://perma.cc/GN7D-GCEL
+https://perma.cc/35B6-F2EU
+https://perma.cc/Y5A8-HMJS
+https://perma.cc/7HRH-RF4W
+https://perma.cc/NZ3W-58S6
+https://perma.cc/R9HL-TGD3
+https://perma.cc/6FNQ-UTHH
 
 
 
@@ -4857,19 +4770,17 @@ https://www.garda.com/crisis24/news-alerts/489581/romania-authorities-extend-cov
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: emergency measures were taken at the regional level. For example, a state of high alert was announced by all Russia's regions (see references to regional decisions on consultant.ru source), so it was de facto declared in the whole country, but not on a federal level (and therefore is not coded). 
 
 *Sources*:
- http://kremlin.ru/events/president/news/63065
-http://kremlin.ru/events/president/news/63134
-http://publication.pravo.gov.ru/Document/View/0001202004290001
-https://www.dw.com/ru/%D1%80%D0%B5%D0%B6%D0%B8%D0%BC-%D0%BD%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D1%85-%D0%B4%D0%BD%D0%B5%D0%B9-%D0%B2-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%BB%D0%B5%D0%BD-%D0%B4%D0%BE-11-%D0%BC%D0%B0%D1%8F/a-53272908
-https://www.bbc.com/russian/news-52614831
-http://kremlin.ru/events/president/news/63340
-http://www.consultant.ru/document/cons_doc_LAW_349932/
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B365%5D&covid19=1
-https://www.icnl.org/covid19tracker/?location=105&issue=&date=&type=
-
-
-https://www.garda.com/crisis24/news-alerts/479571/russia-authorities-maintaining-covid-19-related-international-entry-and-domestic-restrictions-as-of-may-17-update-43
-https://www.garda.com/crisis24/news-alerts/471001/russia-authorities-declare-may-4-7-a-non-work-period-to-prevent-potential-spike-in-covid-19-activity-update-41
+ https://perma.cc/8AHS-Y6SD
+https://perma.cc/4LMQ-B8NF
+https://perma.cc/HQ79-CBPJ
+https://perma.cc/AR5J-DLQD
+https://perma.cc/D8B7-E2XM
+https://perma.cc/EJ5G-BG74
+https://perma.cc/M7P8-D7PA
+https://perma.cc/J7UH-BULT
+https://perma.cc/ATD6-KNUQ
+https://perma.cc/Z6CF-3NDD
+https://perma.cc/Z3PV-RQ68
 
 
 
@@ -4903,52 +4814,41 @@ In January 2021 the authorities implemented a nationwide night curfew and reinst
 The nationwide night curfew is still in place by June 2021, after being consecutively extended (see 12-16). 
 
 *Sources*:
- https://ancl-radc.org.za/node/630
+ https://perma.cc/MR5U-MWAS
 (1)
-
-https://twitter.com/PrimatureRwanda/status/1241412264193937412?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1241412264193937412&ref_url=
-
-https%3A%2F%2Fafrica.cgtn.com%2F2020%2F03%2F21%2Frwanda-orders-total-lockdown-in-bid-to-curb-covid-19-spread%2F
+https://perma.cc/TDZ8-7QKM
 (2)
-
-https://www.rbc.gov.rw/fileadmin/user_upload/annoucement/GoR-MOH%20statement%20final.pdf
+https://perma.cc/5RQR-UQZ7
 (3)
-
-https://www.theigc.org/blog/rwandas-response-to-covid-19-and-future-challenges/
+https://perma.cc/2E43-EZBZ
 (4)
-
-https://twitter.com/PrimatureRwanda/status/1255998445418090499
+https://web.archive.org/web/20200509090054/https://twitter.com/PrimatureRwanda/status/1255998445418090499
 (5)
-
-https://www.garda.com/crisis24/news-alerts/328491/rwanda-nationwide-lockdown-extended-for-15-days-april-1-update-4
+https://perma.cc/P4V7-MJ5X
 (6)
-
-https://www.garda.com/crisis24/news-alerts/338256/rwanda-new-covid-19-prevention-measures-come-into-effect-may-4-update-6
+https://perma.cc/2L5Y-GEH3
 (7)
-
-https://www.garda.com/crisis24/news-alerts/394011/rwanda-covid-19-restrictions-extended-until-november-11-update-17
+https://perma.cc/2873-4JTV
 (8)
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_18_January_2021.pdf
+https://perma.cc/GXV8-RKJY
 (9)
-
-https://www.garda.com/crisis24/news-alerts/425211/rwanda-health-officials-revise-and-extend-coronavirus-disease-related-nationwide-curfew-through-at-least-mid-january-update-14
+https://perma.cc/CY8X-P7L6
 (10)
 
-https://www.aa.com.tr/en/africa/rwanda-eases-covid-19-lockdown-in-capital/2137274
+https://perma.cc/UH5C-LR42
 (11)
-
-https://www.garda.com/crisis24/news-alerts/438081/rwanda-health-officials-to-impose-amended-nationwide-covid-19-related-restrictions-from-feb-8-update-16
+https://perma.cc/YM5Y-TAJW
 (12)
-https://www.garda.com/crisis24/news-alerts/446311/rwanda-health-officials-revise-and-extend-covid-19-related-restrictions-until-at-least-march-15-update-17
+https://perma.cc/N5XB-D6LM
+
 (13)
+https://perma.cc/9QSG-2J9H
 
-https://www.garda.com/crisis24/news-alerts/461506/rwanda-authorities-revise-and-extend-covid-19-related-restrictions-through-at-least-april-15-update-19
 (14)
-
-https://www.garda.com/crisis24/news-alerts/467306/rwanda-authorities-revise-and-extend-covid-19-related-restrictions-through-at-least-april-29-update-20
+https://perma.cc/R6X2-3RAK
 (15)
-https://rw.usembassy.gov/health-alert-covid-19-information/
+https://perma.cc/L6AL-4A88
+
 (16)
 
 
@@ -4974,23 +4874,28 @@ https://rw.usembassy.gov/health-alert-covid-19-information/
  The Saudi government have taken many emergency measures, such as curfews, lockdowns of some areas and regions, travel bans, border closure and closing of religious and public places. However, this has been without any declared state of emergency, and there's no reference to specific legal instruments under which these actions are taken in the source, nor that they have adopted any new laws. This lack of legal instrument has also remained in the other periods. This is therefore coded as 5. 
 
 *Sources*:
- https://www.sciencedirect.com/science/article/pii/S1876034120304664#bib0085
+ https://perma.cc/F9LZ-J955
 
 
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.garda.com/crisis24/news-alert-full-history/2vkXk5oi3DhYpxPo5/saudi-arabia-temperature-screenings-implemented-for-inbound-flights-from-china-january-23
-
-https://covidlawlab.org/?s&topic&country=Saudi+Arabia
-
-https://www.garda.com/crisis24/news-alerts/409071/saudi-arabia-Covid-19-related-restrictions-remain-in-effect-nationwide-as-of-dec-5-update-44
+https://perma.cc/8U8Q-BC4Z
 
 
-https://www.garda.com/crisis24/news-alerts/439596/saudi-arabia-authorities-maintaining-tightened-domestic-restrictions-as-of-feb-6-amid-efforts-to-combat-Covid-19-update-52
+https://perma.cc/7X5G-7KWL
 
-https://www.garda.com/crisis24/news-alerts/484936/saudi-arabia-authorities-lift-Covid-19-related-travel-ban-on-11-countries-may-30-update-60
 
-https://www.garda.com/crisis24/news-alerts/451796/saudi-arabia-authorities-to-lift-some-domestic-restrictions-nationwide-beginning-march-7-update-54
+https://perma.cc/6STC-4D67
+
+
+https://perma.cc/2VFP-6KDS
+
+
+https://perma.cc/L98D-TZGV
+
+
+https://perma.cc/UYC9-3KQJ
+
+
+https://perma.cc/F3ML-U9XH
 
 
 
@@ -5023,49 +4928,21 @@ Senegal lifted the state of health disaster on 19 March 2021, after nearly three
 After the end of the state of emergency, some minimal Covid-19 health restrictions are maintained, like the wearing of face masks and social distancing measures (13). 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Senegal_2016.pdf?lang=en
-(1)
+ perma.cc/J5RT-9Y4A
+perma.cc/X9DE-BY4B
+https://web.archive.org/web/20200329042642/https://www.sec.gouv.sn/actualit<8e>/d<8e>cret-n<a1>-2020-830-du-23-mars-2020-proclamant-lՎtat-d<d5>urgence-sur-le-territoire-national
 
-http://www.dri.gouv.sn/sites/default/files/LOI/1969/69%2029.pdf
-(2)
-
-https://www.sec.gouv.sn/actualit%C3%A9/d%C3%A9cret-n%C2%B0-2020-830-du-23-mars-2020-proclamant-l%E2%80%99%C3%A9tat-d%E2%80%99urgence-sur-le-territoire-national
-(3)
-
-http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
-(4)
-
-https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-minist%C3%A9riel-n%C2%B0-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
-(5)
-
-https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-n%C2%B0024066-du-05-octobre-2020-portant-prorogation-de-larr%C3%AAt%C3%A9-n%C2%B011592-du-10-juillet
-(6)
-
-https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-n%C2%B0-000030-du-06-janvier-2021-portant-interdiction-temporaire-de-manifestations-et
-(7)
-
-https://ze-africanews.com/en/senegal-president-macky-sall-promulgated-the-state-of-emergency-and-state-of-siege-act/
-(8)
-
-https://www.presidence.sn/actualites/le-president-de-la-republique-a-promulgue-la-loi-n-2021-18-modifiant-la-loi-n-69-29-du-29-avril-1969-relative-a-letat-durgence-et-a-letat-de-siege_2169
-(9)
-
-https://www.voaafrique.com/a/le-pr%C3%A9sident-s%C3%A9n%C3%A9galais-obtient-des-pouvoirs-accrus-pour-contrer-le-coronavirus/5734069.html
-(10)
-
-https://www.rfi.fr/en/africa/20210106-senegal-declares-state-of-emergency-curfew-to-combat-spike-in-covid-19-africa-health
-(11)
-
-https://www.garda.com/crisis24/news-alerts/435261/senegal-authorities-invoke-covid-19-state-of-health-disaster-extend-2100-0500-curfew-in-dakar-thies-as-of-jan-26-update-16
-(12)
-https://www.garda.com/crisis24/news-alerts/467136/senegal-minimal-restrictions-remain-in-place-nationwide-as-of-april-13-due-to-covid-19-activity-update-20
-(13)
-
-
-http://www.apanews.net/en/news/covid-19-state-of-emergency-extended-in-dakar-thies-regions
-
-
-
+perma.cc/TQP5-X4A4
+https://web.archive.org/web/20200716073713/https://www.sec.gouv.sn/actualit<8e>/arr<90>t<8e>-minist<8e>riel-n<a1>-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
+https://web.archive.org/web/20201029170930/https://www.sec.gouv.sn/actualit<8e>/arr<90>t<8e>-n<a1>024066-du-05-octobre-2020-portant-prorogation-de-larr<90>t<8e>-n<a1>11592-du-10-juillet
+https://web.archive.org/web/20210114065533/https://www.sec.gouv.sn/actualit<8e>/arr<90>t<8e>-n<a1>-000030-du-06-janvier-2021-portant-interdiction-temporaire-de-manifestations-et
+perma.cc/MBJ5-A9QK
+perma.cc/2B7N-WJ4F
+perma.cc/5AX6-VUYB
+perma.cc/MGZ6-4TRK
+perma.cc/A9NC-MGDZ
+perma.cc/TEH2-RKS5
+perma.cc/6ZQR-F2NE
 
 
 
@@ -5094,18 +4971,16 @@ On 7 July 2020, the President announced "as of tomorrow all public gatherings in
 Q3 2020, Q4 2020, Q1 2020, Q2 2020: after the state of emergency ended, emergency measures have been implemented based on  "Zakon o zaštiti stanovništva od zaraznih bolesti" (Law on Protection of the Population from Infectious Diseases) and "Zakon o Vladi" (Law on Government).  "Zakon o zaštiti stanovništva od zaraznih bolesti"  is considered the primary legal instrument since it most resembles "a state of exception" (Art 6. gives the government authority to declare and implement emergency measures related to infectious diseases). The legal instrument was used to declare "UREDBU o merama za sprečavanje i suzbijanje zarazne bolesti COVID-19" ("REGULATION on measures for prevention and control of infectious diseases COVID-19") (among other decrees) that has been amended several times in these time periods, with the latest amendment on 13 May 2021 as of the time of coding. 
 
 *Sources*:
- http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/predsednik/odluka/2020/29/1/reg
-
-
-https://www.predsednik.rs/en/press-center/news/address-of-the-president-of-the-republic-of-serbia-on-07th-july-2020
-https://www.euronews.com/2020/07/08/coronavirus-protesters-attempt-to-storm-parliament-in-serbia-as-lockdown-measures-are-rein
-https://www.srbija.gov.rs/vest/478429/od-sutra-na-snazi-nove-mere-u-borbi-protiv-koronavirusa.php
-
-https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/uredba/2020/66/1/reg
+ https://perma.cc/G5PG-XBDX
+https://perma.cc/553N-LZGS
+https://perma.cc/9WW5-N2XT
+https://perma.cc/4ZTQ-NS4F
 (1)
-https://www.paragraf.rs/propisi/zakon_o_zastiti_stanovnistva_od_zaraznih_bolesti.html
-https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/ministarstva/naredba/2020/100/1/reg
-http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/uredba/2020/151/1/reg
+
+https://perma.cc/EH4Y-9UXV
+https://perma.cc/HNA4-U3VC
+https://perma.cc/L8HQ-LPE2
+https://perma.cc/7F9E-EZGS
 
 
 
@@ -5131,13 +5006,14 @@ http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/ured
 Thereafter, only measures to contain the spread of the virus, without an official law or act. 
 
 *Sources*:
- https://www.facebook.com/mic.gov.sl/posts/827797114474969
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011879820/sierra-leone-government-lifts-covid-19-state-of-public-health-emergency-and-curfew-as-of-late-march-update-19
-https://statehouse.gov.sl/wp-content/uploads/2020/03/Declaration-of-a-State-of-Public-Emergency-by-His-Excellency-Dr.-Julius-Maada-Bio-President-of-the-Republic-of-Sierra-Leone-%E2%80%93-24-March-2020.pdf
-
+ [1]
+https://www.facebook.com/mic.gov.sl/posts/827797114474969
+[2]
+perma.cc/ZW7F-L3JR
+[3]
+perma.cc/9G8V-PP46
+[4]
 https://sierralii.org/sl/gazette/SLGaz/2020/cxlxi/12/20200324
-
-https://www.garda.com/fr/crisis24/alertes-de-securite/462621/sierra-leone-government-lifts-covid-19-state-of-public-health-emergency-and-curfew-as-of-late-march-update-19
 
 
 
@@ -5164,28 +5040,19 @@ https://www.garda.com/fr/crisis24/alertes-de-securite/462621/sierra-leone-govern
 The COVID-19 (Temporary Measures) Act 2020 was originally in force until 19 October 2020 (1). It was then extended one month until 20 November 2020 (2). Then from 20 November 2020 to 31 March 2021 (3). Some parts were then extended until 30 June 2021 (4). 
 
 *Sources*:
- https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20210419
-
-https://sso.agc.gov.sg/SL/COVID19TMA2020-S254-2020?DocDate=20200407#pr1-
-
-https://www.moh.gov.sg/policies-and-legislation/covid-19-(temporary-measures)-(control-order)-regulations
-
-https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20200513#aw-
+ https://perma.cc/8JX8-LCCD
+https://perma.cc/J3WU-D2HQ
+https://perma.cc/HH6Y-CQSJ
+https://perma.cc/V88P-56RD
 (1)
-
-
-https://sso.agc.gov.sg/SL/COVID19TMA2020-S886-2020?DocDate=20201016
+https://perma.cc/3BDU-C2BN
 (2)
-
-
-https://sso.agc.gov.sg/SL-Supp/S953-2020/Published?DocDate=20201117&ProvIds=
+https://perma.cc/W3QQ-PH4K
 (3)
-
-https://www.mondaq.com/litigation-contracts-and-force-majeure/1055522/covid-19-part-ii-of-the-temporary-measures-act-2020-further-extended
+https://perma.cc/Y5XN-LNYB
 (4)
-
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7978834/
-[5]
+(5)
 
 
 
@@ -5217,25 +5084,20 @@ Q4 2020, Q1 2021, Q2 2021: State of emergency ("Núdzový stav") declared on 1 O
  
 
 *Sources*:
- https://rokovania.gov.sk/RVL/Resolution/18252/1
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://www.icnl.org/covid19tracker/?location=112&issue=&date=&type=
-https://www.health.gov.sk/Clanok?koronavirus-opatrenia-mimoriadne
-https://www.reuters.com/article/idUSL8N2B80M7
-https://rokovania.gov.sk/RVL/Resolution/18249/1
-https://fra.europa.eu/sites/default/files/fra_uploads/sk_report_on_coronavirus_pandemic_july_2020.pdf
-
-
-https://www.minv.sk/?tlacove-spravy&sprava=nudzovy-stav-skoncil-mimoriadna-situacia-stale-trva
-https://rokovania.gov.sk/RVL/Resolution/18249/1
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/sk_report_on_coronavirus_pandemic_november_2020.pdf
-
-https://www.minv.sk/?tlacove-spravy&sprava=od-1-oktobra-plati-na-slovensku-nudzovy-stav
-https://rokovania.gov.sk/RVL/Material/25338/1
-
-
-https://rokovania.gov.sk/RVL/Material/26006/1
+ https://perma.cc/CTN3-ZRMU
+https://perma.cc/YU74-G5E9
+https://perma.cc/395F-R957
+https://perma.cc/YU74-G5E9
+https://perma.cc/36ZY-9S6U
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://perma.cc/HJ24-BDLC
+https://perma.cc/A2V7-YJ86
+https://perma.cc/95H3-3LJE
+https://perma.cc/9JKT-XNPU
+https://perma.cc/A94P-DUYS
+https://perma.cc/FU7T-6BB3
+https://perma.cc/9KA6-8TML
+https://perma.cc/WR3Z-WA4K
 
 
 
@@ -5262,21 +5124,19 @@ https://rokovania.gov.sk/RVL/Material/26006/1
 According to Democracy Reporting (report from 27 July), "The 1991 Constitution envisages the option for the National Assembly (or, if the Assembly cannot meet, the President of the Republic) to declare a state of emergency when a great and general danger threatens the existence of the state (Article 92). Importantly, when the state of emergency has been declared, most of the constitutional rights can be temporarily suspended. However, at no point during the epidemic was a state of emergency declared. Severe limitations of the constitutional rights were thus enacted on the basis of existing legislation, namely the Communicable Diseases Act (ZNB). The powers vested in the executive branch by the ZNB are inadequate for an epidemic of this scale and a strict reading of the relevant clauses of the ZNB cannot support measures as drastic as the ones that Slovenia saw between mid-March and early May 2020." 
 
 *Sources*:
- https://www.gov.si/en/news/2020-03-12-slovenia-declares-coronavirus-epidemic/
-http://www.pisrs.si/Pis.web/pregledPredpisa?id=ODRE2550
-https://www.constituteproject.org/constitution/Slovenia_2016?lang=en
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-(1)
-
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
-https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2020-01-2783?sop=2020-01-2783
-https://www.gov.si/en/news/2020-10-19-government-declares-covid-19-epidemic-throughout-slovenian-territory/
-http://www.pisrs.si/Pis.web/pregledPredpisa?id=ODLO2150
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/si_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.gov.si/en/news/2021-01-22-basis-for-ministry-of-healths-decision-on-mandatory-testing-is-communicable-diseases-act/
-https://www.gov.si/en/news/2021-05-27-slovenia-is-not-yet-in-the-green-phase-according-to-ecdc-criteria-69859/
-https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2021-01-1543/odlok-o-razglasitvi-epidemije-nalezljive-bolezni-covid-19-na-obmocju-republike-slovenije?h=%20razglasitvi%20epidemije%20nalezljive
+ [1]	perma.cc/XN4U-56E6
+[2]	perma.cc/3WGQ-2MDG
+[3]	perma.cc/KEG2-65JG
+[4]	perma.cc/Y62J-GWJ7
+[5]	https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+[6]	perma.cc/N2BS-MCRD
+[7]	perma.cc/7WB4-DS6F
+[8]	perma.cc/QN46-5UQK
+[9]	https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+[10]	perma.cc/794P-T73B
+[11]	perma.cc/Q3KZ-SR6F
+[12]	perma.cc/9KST-SRVN
+[13]	perma.cc/9TQA-5CDS
 
 
 
@@ -5302,31 +5162,24 @@ https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2021-01-1543/odlok-o-r
 
 *Sources*:
  [1]
-https://documentcloud.adobe.com/link/review?uri=urn%3Aaaid%3Ascds%3AUS%3Adb05da55-9c12-4a92-a98d-43cd78c9fe2e#pageNum=10
 
+https://perma.cc/2QRW-CR7P
 [2]
-https://reliefweb.int/sites/reliefweb.int/files/resources/CPRP%20Final%20Subow%2C%2026%20April%20%281%29.pdf
-
+https://perma.cc/JLZ6-AHTJ
 [3]
-https://www.aljazeera.com/news/2020/03/19/coronavirus-pandemic-experts-say-somalia-risk-greater-than-china/
-
+https://perma.cc/WRV3-HDN5
 [4]
-https://www.voanews.com/science-health/coronavirus-outbreak/somalia-imposes-nighttime-curfew-0
-
+https://perma.cc/JY3L-9YW4
 [5]
-https://www.thenewhumanitarian.org/analysis/2021/5/5/whos-afraid-of-covid-19-somalias-battle-with-virus
-
+https://perma.cc/CV3C-WJ56
 [6]
-https://www.nytimes.com/2021/03/01/world/africa/amid-turmoil-over-elections-rising-cases-in-somalia-fuel-talk-of-a-new-lockdown.html
-
+https://perma.cc/P9KX-NG2H
 [7]
-https://twitter.com/sntvnews1/status/1362053137796890628
-
+https://perma.cc/P78S-FLWK
 [8]
-https://www.garda.com/crisis24/news-alerts/408321/somalia-authorities-are-maintaining-restrictions-as-of-december-4-due-to-covid-19-activity-domestic-and-international-flights-ongoing-update-5
-
+https://perma.cc/FQT5-F6HL
 [9]
-https://www.bmj.com/content/368/bmj.m1090/rr-14
+https://perma.cc/MZP3-VGF4
 
 
 
@@ -5351,10 +5204,8 @@ https://www.bmj.com/content/368/bmj.m1090/rr-14
  There is a declaration of National State of Disaster March 15, 2020. This is different from a state of emergency. 
 
 *Sources*:
- [1]
-https://www.gov.za/sites/default/files/gcis_document/202003/43096gon313.pdf
-[2]
-https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
+ [1]	perma.cc/N984-EPR9
+[2]	perma.cc/6UAW-RDAN
 
 
 
@@ -5381,16 +5232,13 @@ https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
 According to Article 76 of the South Korean Constitution, the President can call for a State of Emergency. However this has never been enacted across all the time periods. 
 
 *Sources*:
- https://verfassungsblog.de/south-koreas-combating-covid-19-under-the-rule-of-law/
+ https://perma.cc/U5ZA-A7YT
+https://perma.cc/RXQ4-69RF
 
-https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
+https://web.archive.org/web/20201019061249/https://www.loc.gov/law/help/health-emergencies/southkorea.php
 
-
-https://www.loc.gov/law/help/health-emergencies/southkorea.php
-
-https://elaw.klri.re.kr/kor_service/lawView.do?lang=ENG&hseq=53530
-
-https://www.globalasia.org/v15no1/focus/south-korea-has-the-legal-infrastructure-to-fight-pandemics%3B-the-us-doesnt_brian-j-kim
+https://perma.cc/D347-NL4A
+https://perma.cc/R75M-P29N
 
 
 
@@ -5419,12 +5267,13 @@ A report by the African Network of Constitutional Lawyers, from 7 June 2020, rea
 Since June 2020, no indications of implementation of a legal instrument to manage the pademic has been found. 
 
 *Sources*:
- https://twitter.com/SouthSudanGov/status/1239515788341587968
-(1)
-https://www.voanews.com/covid-19-pandemic/south-sudan-announces-new-steps-fight-coronavirus
-(2)
-https://ancl-radc.org.za/node/644
-(3)
+ https://perma.cc/6L6B-P2EM
+
+
+https://perma.cc/SU69-VL97
+
+
+https://perma.cc/R3FS-GQGM
 
 
 
@@ -5449,21 +5298,12 @@ https://ancl-radc.org.za/node/644
  The state of emergency was declared via the Royal Decree nº 463/2020 from March 14 2020, which ended on June 21 2020. On June 9 2020, the Royal Decree-Law 21/2020 defined measures to be implemented with the gradual lift of the measures defined in the state of emergency. On October 25, 2020, a new state of emergency was declared via the Royal Decree nº 926/2020. On November 3, 2020 an extension of the state of emergency was approved. On May 9, 2021, this national state of emergency ended. 
 
 *Sources*:
- [1]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-3692
-
-[2]
-https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5895
-
-[3]
-https://www.lamoncloa.gob.es/covid-19/Paginas/estado-de-alarma.aspx
-
-[4]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-12898
-[5]
-https://www.lamoncloa.gob.es/consejodeministros/Paginas/enlaces/031120-enlace-alarma.aspx
-[6]
-https://www.france24.com/en/europe/20210509-it-s-like-new-year-s-spain-ends-covid-19-state-of-emergency
+ [1]	perma.cc/FEZ3-UQEF
+[2]	perma.cc/E2C3-XV53
+[3]	perma.cc/4EYL-TW4M
+[4]	perma.cc/Q9K6-J2N2
+[5]	perma.cc/HGN5-FWZN
+[6]	perma.cc/G8QE-6LBG
 
 
 
@@ -5490,29 +5330,23 @@ https://www.france24.com/en/europe/20210509-it-s-like-new-year-s-spain-ends-covi
 The declaration of the curfew in Q2 2020 (1) refers to the Quarantine and Prevention of Diseases Ordinance (2). Moreover, “some within the GoSL have claimed that the Quarantine and Prevention of Diseases Ordinance (QPDO), No.3 of 1897 provided the legal basis for such restrictions” (3). Since the declaration of emergency measures does not refer to any legal instrument, emlaw is coded as 5 in all quarters. 
 
 *Sources*:
- https://www.wionews.com/sri-lanka/sri-lanka-further-relaxes-covid-19-curfew-305660
-
-https://www.bbc.com/news/world-asia-53042755
-
-https://www.idea.int/sites/default/files/publications/emergency-law-responses-to-covid19.pdf
-
-https://verfassungsblog.de/sri-lankas-legal-response-to-covid-19-past-trends-and-future-prospects/
+ https://perma.cc/Z9JY-JNWD
+https://perma.cc/E6WL-PDVL
+https://perma.cc/L2PD-UQFA
+https://perma.cc/2BMR-5DUU
 (3)
 
 https://covid19.gov.lk/news/defence/military-response-to-covid-19-pandemic.html
-https://www.army.lk/news/nocpco-head-cautions-against-public-gatherings-sans-health-practices-guidelines
-
-https://alt.army.lk/covid19/content/head-nocpco-announces-emergency-travel-restrictions-preparedness
-
-https://mfa.gov.lk/declaration-of-police-curfew-island-wide/
+https://perma.cc/C9YV-R4EK
+https://perma.cc/UCL3-9M6Q
+https://perma.cc/6ZSJ-S9QC
 (1)
-https://www.srilankalaw.lk/Alphabetical-List-of-Statutes/quarantine-and-prevention-of-diseases-ordinance.html
+https://perma.cc/5A5L-A3KM
 (2)
+https://web.archive.org/web/20210110141958/https://covid19.gov.lk/news/health/from-now-onwards-first-contacts-will-be-placed-under-self-quarantine-head-nocpco.html
 
-
-https://covid19.gov.lk/news/health/from-now-onwards-first-contacts-will-be-placed-under-self-quarantine-head-nocpco.html
 https://covid19.gov.lk/news/defence/people-urged-to-restrict-their-movements-further-head-of-nocpco.html
-https://www.army.lk/news/travel-restrictions-be-effective-midnight-11-head-nocpco
+https://perma.cc/P67E-7HPA
 
 
 
@@ -5537,20 +5371,13 @@ https://www.army.lk/news/travel-restrictions-be-effective-midnight-11-head-nocpc
  Sudan's  Sovereignty Council declared on March 16, 2020, a state of health emergency. Articles 40 and 41 of Sudan's constitution regulate the state of emergency and there is no distinction made in the constitution between types of states of emergency. No separate legislative basis for a state of health emergency was found. 
 
 *Sources*:
- [1]
-https://allafrica.com/stories/202009170954.html
-[2]
-https://allafrica.com/stories/202003240353.html
-[3]
-https://www.garda.com/crisis24/news-alerts/323581/sudan-government-closes-borders-due-to-covid-19-on-march-16-update-1
-[4]
-https://reliefweb.int/report/sudan/sudan-corona-virus-covid-19-country-preparedness-and-response-plan-cprp-may-2020
-[5]
-https://www.dabangasudan.org/en/all-news/article/sudan-declares-health-emergency-to-combat-coronavirus
-[6]
-https://www.constituteproject.org/constitution/Sudan_2019?lang=en
-[7]
-https://www.idea.int/sites/default/files/publications/emergency-law-responses-to-covid19.pdf
+ [1]	perma.cc/MW38-J27N
+[2]	perma.cc/7X6G-5PVU
+[3]	perma.cc/7BNJ-SS4M
+[4]	perma.cc/7Z9H-WV6K
+[5]	perma.cc/75ZY-JFCZ
+[6]	perma.cc/N3YU-BX2H
+[7]	perma.cc/SJ2F-DWDM
 
 
 
@@ -5577,30 +5404,19 @@ For Q3 and Q4 of 2020, the major measures taken to limit Covid-19 spreading, suc
 For Q1 and Q2 of 2021, Sweden has used the Covid-19 Act as the main legal instrument, which came into effect 2021-01-10, that provides a more thorough legal base for taking measures to limit the spread, e.g. limiting assemblies, closing business etc. It is a temporary law, and currently set to expire on 2021-09-30. The Covid-19 Act does not replace the other acts, but rather complements them. However, since its enactment it is the main legal instrument used. 
 
 *Sources*:
- https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
-
-https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
-
-https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
-
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
-
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-
-https://www.loc.gov/law/foreign-news/article/sweden-swedish-parliament-gives-swedish-government-temporary-emergency-powers-because-of-Covid-19-outbreak/
-
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
-
-https://www.regeringen.se/artiklar/2020/03/andring-i-forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://www.regeringen.se/artiklar/2020/03/forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://www.regeringen.se/artiklar/2020/03/forbud-mot-allmanna-sammankomster-eller-offentliga-tillstallningar-med-fler-an-50-deltagare/
-
-https://www.regeringen.se/pressmeddelanden/2020/11/max-atta-personer-vid-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://verfassungsblog.de/Covid-19-in-sweden-a-soft-power-approach/
-https://www.regeringen.se/regeringens-politik/regeringens-arbete-med-coronapandemin/om-halsovard-sjukvard-och-aldreomsorg-med-anledning-av-Covid-19/fragor-och-svar-om-den-tillfalliga-pandemilagen/
+ https://perma.cc/ZC9V-ZV7M
+https://perma.cc/S2F7-VSAZ
+https://perma.cc/CN54-SJMV
+https://perma.cc/M59V-C79A
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://web.archive.org/web/20200509230542/https://www.loc.gov/law/foreign-news/article/sweden-swedish-parliament-gives-swedish-government-temporary-emergency-powers-because-of-Covid-19-outbreak/
+https://perma.cc/67SN-YWL9
+https://perma.cc/XP3G-6Q39
+https://perma.cc/U2GL-NA6H
+https://perma.cc/36R3-33JJ
+https://perma.cc/Q7W4-7AWJ
+https://perma.cc/537L-8RS8
+https://perma.cc/F6WA-U5P8
 
 
 
@@ -5629,26 +5445,8 @@ In addition, the Swiss Parliament (Federal Assembly) passed on 25 September 2020
 A referendum was held on 2021-06-13 if the Covid-19 Act would continue to be in use or suspended, but the Act found support and will be in force as planned at least until the end of 2021 which is the current end date. 
 
 *Sources*:
- https://www.admin.ch/opc/en/classified-compilation/19995395/index.html
-(1)
-https://www.admin.ch/opc/fr/classified-compilation/20071012/index.html
-(2)
-https://fcilsis.wordpress.com/2020/11/18/european-legal-responses-to-Covid-19-switzerland/
-https://www.admin.ch/opc/en/classified-compilation/20201773/index.html
-https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-https://www.admin.ch/opc/en/classified-compilation/20202070/index.html
-https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
-https://www.bag.admin.ch/bag/en/home/gesetze-und-bewilligungen/gesetzgebung/gesetzgebung-mensch-gesundheit/epidemiengesetz.html
-https://www.loc.gov/law/foreign-news/article/switzerland-government-adopts-more-stringent-measures-to-contain-spread-of-coronavirus/
+ https://perma.cc/N2J8-3MJM
 
-https://verfassungsblog.de/concentration-of-powers-in-the-federal-executive-the-application-of-emergency-powers-in-switzerland/
-
-https://verfassungsblog.de/switzerland-and-the-Covid-19-pandemic-a-look-back-and-a-look-into-the-future/
-https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-
-https://www.swissinfo.ch/eng/Covid-19-law-to-win-endorsement-from-voters/46687472
-
- 
 
 
 
@@ -5680,16 +5478,19 @@ and the Disaster Prevention and Protection Act, rather than the Special Act. Hen
 The Special Act was initially meant to be in effect till 30 June 2021. However it was extended to 30 June 2022 on 4 June 2021. 
 
 *Sources*:
- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7246107/
+ https://perma.cc/E8PS-EVLZ
 
-https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=L0050001
 
-http://www.loc.gov/law/foreign-news/article/taiwan-special-covid-19-law-revised-to-increase-economic-relief-budget/
+https://perma.cc/E8KK-STVL
+
+
+https://perma.cc/3R8U-7C4J
 
 
 https://perma.cc/9W88-7R3B
 
-https://taiwantoday.tw/news.php?unit=2,6,10,15,18&post=201560
+
+https://perma.cc/X2RB-FCGS
 
 
 
@@ -5715,20 +5516,22 @@ https://taiwantoday.tw/news.php?unit=2,6,10,15,18&post=201560
  
 
 *Sources*:
- http://www.president.tj/ru/node/23055
-https://khovar.tj/rus/2020/04/srochnaya-novost-v-tadzhikistane-zapretili-eksport-prodovolstvennyh-tovarov-i-organizatsiyu-massovyh-meropriyatij-shkolnikov-otpravili-na-kanikuly/
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-central-asia-5305f172/
+ https://perma.cc/7LWQ-55US
+https://perma.cc/2H5Y-7LVC
+https://perma.cc/S3VQ-PUEE
+https://perma.cc/38MC-H73E
 (1)
 
-https://www.garda.com/crisis24/news-alerts/336211/tajikistan-schools-closed-through-may-9-due-to-covid-19-update-4
-https://www.garda.com/crisis24/news-alerts/350886/tajikistan-authorities-announce-easing-of-covid-19-restrictions-june-15-update-6
+https://perma.cc/HBC6-4V7E
+https://perma.cc/8Q4D-MD64
 (2)
-https://reliefweb.int/report/tajikistan/covid-19-tajikistan-situation-report-18-12-november-2020
+
+https://perma.cc/7HA8-5B93
 (3)
-https://www.garda.com/crisis24/news-alerts/477706/tajikistan-authorities-maintain-covid-19-measures-nationwide-as-of-may-12-update-11
-https://www.garda.com/crisis24/news-alerts/465796/tajikistan-authorities-maintain-covid-19-measures-as-of-april-12-update-10
-https://www.garda.com/crisis24/news-alerts/436366/tajikistan-covid-19-measures-remain-in-place-nationwide-as-of-jan-29-update-8
+
+https://perma.cc/3AGM-ZE8N
+https://perma.cc/VMK7-ZH82
+
 
 
 
@@ -5754,53 +5557,42 @@ https://www.garda.com/crisis24/news-alerts/436366/tajikistan-covid-19-measures-r
 
 *Sources*:
  [1]
-http://qiraatafrican.com/en/new/africa-cdc-expresses-concern-over-tanzania-s-response
-
-[2]https://www.bbc.com/news/world-africa-52723594
-
+https://perma.cc/VAW7-B5DN
+[2]
+https://perma.cc/SJ3D-8WUL
 [3]
-https://www.bbc.com/news/world-africa-54603689
-
-[4]https://www.devex.com/news/in-tanzania-election-Covid-19-denialism-an-excuse-to-clamp-down-on-dissent-98418
-
-[5]https://www.atlanticcouncil.org/blogs/africasource/tanzanias-mild-response-to-Covid-19-and-its-implications-for-the-2020-elections/
-
-[6]https://www.thecitizen.co.tz/news/1840340-5494476-agwmfd/index.html
-
+https://perma.cc/96XQ-UED2
+[4]
+https://perma.cc/BUS6-AYZ3
+[5]
+https://perma.cc/Q9NH-YJWZ
+[6]
+https://perma.cc/BT3T-WHD3
 [7]
-https://allafrica.com/stories/202003171108.html
-[8]https://www.chathamhouse.org/expert/comment/tanzania-evades-Covid-19-lockdown-restrictions-persist
-
+https://perma.cc/5VE2-5JVK
 [8]
-https://www.theguardian.com/world/2021/mar/19/tanzania-swears-in-samia-suluhu-hassan-as-first-female-president
-
+https://perma.cc/P9SA-5X6C
 [9]
-https://www.africanews.com/2021/04/06/tanzania-signals-change-of-stance-on-Covid-19/
-
+https://perma.cc/79PL-3HWE
 [10]
-https://www.garda.com/crisis24/news-alerts/457256/tanzania-authorities-maintain-minimal-Covid-19-restrictions-as-of-march-18-update-9
-
+https://perma.cc/GC7J-QZ3C
 [11]
-https://www.garda.com/crisis24/news-alerts/469096/tanzania-Covid-19-restrictions-remain-largely-unchanged-as-of-april-19-by-comparison-with-those-in-effect-during-mid-march-update-10
-
+https://perma.cc/SBV2-J7W2
 [12]
-https://www.garda.com/crisis24/news-alerts/474751/tanzania-authorities-tighten-Covid-19-related-restrictions-from-may-4-update-11
-
+https://perma.cc/G4UF-JTD3
 [13]
-https://www.garda.com/crisis24/news-alerts/488461/tanzania-authorities-maintain-Covid-19-related-restrictions-as-of-june-9-update-12
-
+https://perma.cc/ZCD2-4CEH
 [14]
-https://tz.usembassy.gov/Covid-19-information/
-
+https://perma.cc/DQ9D-6LJD
 [15]
-https://www.reuters.com/world/africa/tanzania-once-sceptical-Covid-19-announces-measures-curb-new-variants-2021-05-03/
-
-
+https://perma.cc/Y38M-ARLW
 [16]
-https://abcnews.go.com/International/wireStory/tanzania-experts-suggest-overhaul-Covid-19-denial-policy-77744479
+https://web.archive.org/web/20210503172051/https://www.reuters.com/world/africa/tanzania-once-sceptical-Covid-19-announces-measures-curb-new-variants-2021-05-03/
 
 [17]
-https://www.moh.go.tz/en/Covid-19-info
+https://perma.cc/2HDP-B5XU
+[18]
+https://web.archive.org/web/20200412171949/https://www.moh.go.tz/en/covid-19-info
 
 
 
@@ -5828,51 +5620,33 @@ The State of Emergency has been extended 12 times since it was first enacted on 
 
 *Sources*:
  (1)
-https://www.hrw.org/news/2020/05/27/thailand-state-emergency-extension-unjustified
-
+https://perma.cc/RWQ7-VSWZ
 (2)
-https://ipi.media/covid19-media-freedom-monitoring/
-
+https://perma.cc/8YRN-VNBR
 (3)
-https://rsf.org/en/news/thailand-uses-covid-19-restrict-freedom-inform
-
+https://perma.cc/S8RK-ACFX
 (4)
-http://web.krisdika.go.th/data/document/ext810/810259_0001.pdf
-
+https://perma.cc/9DEV-48PP
 (5)
-https://www.refworld.org/pdfid/482b005f2.pdf
-
-
+https://perma.cc/MP7F-7UKA
 (6)
-http://constitutionnet.org/sites/default/files/2017-05/CONSTITUTION+OF+THE+KINGDOM+OF+THAILAND+(B.E.+2560+(2017)).pdf
-
-
+https://perma.cc/KU8J-RZXG
 (7)
-https://www.bangkokpost.com/thailand/general/2024171/state-of-emergency-extended-to-jan-15
-
-(8)
-https://www.garda.com/crisis24/news-alerts/482691/thailand-officials-extend-nationwide-state-of-emergency-through-july-31-due-to-covid-19-update-47
-
+https://perma.cc/A8CR-N7DZ
 (9)
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011892835/thailand-officials-extend-the-nationwide-state-of-emergency-through-feb-28-update-34
-
+https://perma.cc/KN8P-9WB5
 (10)
-https://www.tatnews.org/2021/03/thailand-extends-emergency-decree-for-eleventh-time-until-31-may-2021/
-
+https://perma.cc/7AQZ-H3LP
 (11)
-https://www.garda.com/fr/crisis24/alertes-de-securite/446376/thailand-officials-easing-covid-19-rules-in-some-provinces-from-march-1-extended-the-nationwide-state-of-emergency-update-37
-
+https://perma.cc/RT2G-F6V5
 (12)
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011892838/thailand-officials-easing-covid-19-rules-in-some-provinces-from-march-1-extended-the-nationwide-state-of-emergency-update-37
-
+https://perma.cc/9EDE-S88B
 (13)
-https://www.bloomberg.com/news/articles/2021-05-21/thailand-extends-state-of-emergency-as-covid-cases-deaths-soar
-
+https://perma.cc/SX3R-3QA3
 (14)
-https://www.garda.com/crisis24/news-alerts/482691/thailand-officials-extend-nationwide-state-of-emergency-through-july-31-due-to-covid-19-update-47
-
+https://perma.cc/BFZ3-CQMZ
 (15)
-https://thailand.ahk.de/en/translate-to-english-covid-19
+https://perma.cc/Z38V-CYN9
 
 
 
@@ -5897,30 +5671,24 @@ https://thailand.ahk.de/en/translate-to-english-covid-19
  A State of Public Emergency was declared on March 27, multiple times extended and expired July 22. Another State of Public Emergency was declared on August 5 and expired September 17. A Public Health emergency was declared on July 24 (called the “The Public Health (Dangerous infectious Diseases) Protection Regulations, 2020”, and based on the Public Health Act Cap 40.02 and the Quarantine Act, Cap 42.03), and was the main legal instrument when the state of public emergency ended. Gambia lifted most of its restrictions in December 2020, though keeping some such as the use of face masks and keeping distance in public, as well as travel bans. This continues to be the case, where Gambia has had few restrictions during 2021, and relied on a few regulations and general recommendations of keeping distance (along with relatively closed borders). No other legal instrument has been found for these measures, and this state of health emergency is for instance referenced in documents in 2021 that issues entry bans. This is therefore coded 2 for Q1 and Q2 of 2021 as well. 
 
 *Sources*:
- https://www.chronicle.gm/gambia-opens-land-borders-night-clubs-as-Covid-19-cases-lessen/
-https://www.panapress.com/Coronavirus-Gambia-introduces-ne-a_630653045-lang2-free_news.html
+ https://perma.cc/6WQC-X8QY
+https://perma.cc/PM4A-VMPD
+https://perma.cc/VZ2Z-CGXW
+https://perma.cc/G4TA-XE8B
+https://perma.cc/4GKM-73CA
+https://perma.cc/G7KE-9D5A
+https://perma.cc/M5SQ-XGDE
+https://perma.cc/J7UH-BULT
 
-https://www.facebook.com/PresidencyGambia/photos/covid19gambianew-Covid-19-health-regulations-following-the-lapse-of-the-last-7-d/1291031134562324/
-https://www.constituteproject.org/constitution/Gambia_2018?lang=en
-https://www.facebook.com/PresidencyGambia/posts/1291037857894985
-https://www.facebook.com/PresidencyGambia/posts/1301223466876424
-https://www.facebook.com/PresidencyGambia/posts/1320268651638572
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B420%5D&covid19=1
-https://allafrica.com/stories/202009180532.html
-
-https://www.facebook.com/PresidencyGambia/photos/a.666968460301931/1291031134562324/?type=3
-
-https://www.blgcc.eu/government-of-the-gambia-eases-curfew-market-restrictions-and-public-health-regulations/
-
-https://verfassungsblog.de/the-use-of-emergency-powers-in-response-to-Covid-19-in-the-gambia/
-
+https://perma.cc/8GCC-S454
+https://perma.cc/NFN5-VXHS
+https://perma.cc/64MU-2QDQ
+https://perma.cc/M7BA-TCEA
 https://www.wfd.org/wp-content/uploads/2020/12/Learning-from-Gambias-COVID-19-response.pdf
 
-https://www.garda.com/fr/crisis24/alertes-de-securite/412326/gambia-minimal-Covid-19-restrictions-in-place-nationwide-as-of-dec-9-update-18
-
-https://move.gambiaembassy.eu/wp-content/uploads/2021/01/Travel-Advisory-6.pdf
-
-https://move.gambiaembassy.eu/wp-content/uploads/2021/04/Travel-Advisory-7.pdf
+https://perma.cc/V2E7-GHWK
+https://perma.cc/PVR7-KT32
+https://perma.cc/F4KL-3P23
 
 
 
@@ -5950,22 +5718,25 @@ Also, the same critics (mainly ssee link 6), question the legitimacy of the stat
 Coded as 1 instead of 2 because the Constitution does not offer a distinct provision for a state of health emergency, despite the fact that what was officially declared was a state of health emergency (the Constitution looks as if it allows for adjusted language to the nature of the crisis (e.g. “state of siege”) as warranted. 
 
 *Sources*:
- https://presidence.gouv.tg/2020/04/01/adresse-du-chef-de-letat-sem-faure-essozimna-gnassingbe-au-peuple-togolais-sur-la-riposte-nationale-contre-le-covid-19/
-(1)
+ perma.cc/898F-P456
 
-http://togolex.com/2020/04/loi-n-2020-005-du-30/03/2020-portant-habilitation-du-gouvernement-a-prendre-par-ordonnances-les-mesures-relevant-du-domaine-de-la-lo
-(2)
 
-https://www.constituteproject.org/constitution/Togo_2007.pdf?lang=en
-(3)
+perma.cc/GV5D-X6T4
 
-https://www.togofirst.com/en/economic-governance/0204-5268-coronavirus-togo-declares-state-public-health-emergency-for-3-months
-(4)http://news.alome.com/h/126579.html
-(5)
-http://togolex.com/2020/04/la-cour-constitutionnelle-valide-l-etat-d-urgence-et-donne-au-gouvernement-un-blanc-seing-pour-restreindre-les-libertes-commentaire
-(6)
 
-https://www.garda.com/crisis24/news-alerts/456291/togo-authorities-extend-covid-19-related-state-of-health-emergency-for-six-months-from-march-16-update-14
+perma.cc/SX9T-37FA
+
+
+perma.cc/5XY4-82FX
+
+
+perma.cc/37EP-8FPX
+
+
+perma.cc/C4GM-AL2S
+
+
+perma.cc/DZ2L-WA58
 
 
 
@@ -5990,29 +5761,14 @@ https://www.garda.com/crisis24/news-alerts/456291/togo-authorities-extend-covid-
  No state of emergency is declared, since Tunisia already has an active state of emergency since 2015 (provided for by Decree no.78-50 of 26 January 1978 [8]. However, Articles 70 and 80 of the Constitution have been activated as the main legal instruments to provide the Prime Minister and the President respectively with increased powers to carry out an emergency response to the pandemic. 
 
 *Sources*:
- [1]
-https://africa.cgtn.com/2020/05/30/tunisia-extends-state-of-emergency-for-6-months/
-
-[2]
-https://news-tunisia.tunisienumerique.com/tunisia-president-kais-saied-extends-state-of-emergency-for-six-months-from-may-30-2020/
-
-[3]
-https://news-tunisia.tunisienumerique.com/tunisia-state-of-emergency-extended-in-tunisia/
-
-[4]
-https://www.constituteproject.org/constitution/Tunisia_2014?lang=en
-
-[5]
-https://www.arab-reform.net/publication/tunisia-facing-covid-19-to-exceptional-circumstances-exceptional-measures/
-
-[6]
-https://www.tap.info.tn/en/Portal-Politics/12533648-law-on-delegating
-
-[7]
-https://www.aljazeera.com/news/2020/12/26/tunisia-extends-five-year-state-of-emergency
-
-[8]
-https://www.asf.be/blog/2020/07/01/the-tunisian-response-to-the-covid-19-pandemic-when-the-state-of-exception-overlaps-with-the-state-of-emergency/#_ftn4
+ [1]	perma.cc/CWZ3-7EDY
+[2]	perma.cc/X48T-ZK2H
+[3]	perma.cc/HK3Y-EJE4
+[4]	perma.cc/SH5E-GB35
+[5]	perma.cc/C3XB-CJ6G
+[6]	perma.cc/CZS2-Z4J7
+[7]	perma.cc/DXD4-QWLP
+[8]	perma.cc/8K9L-YU4G
 
 
 
@@ -6040,25 +5796,18 @@ However, ''instead of presidential decrees, all measures in Turkey were taken wi
 The first significant legal measure undertaken was the closure of all schools and universities. While the authority for closing down schools due to a pandemic is subject to the Law on the State of Emergency, the Ministry of National Education declared that it was decided to have an early holiday for a week and transition to distance learning starting from March 23rd 2020. This decision was never published in the Official Gazette but immediately executed. The strictest measures affecting daily life in Turkey have been those taken by the Ministry of Interior. Citing the powers mentioned above conferred by the Law on the Protection of Public Health and the Law on Provincial Administration, the Ministry of Interior in its ministerial circular on March 21 2020 declared a curfew for individuals who are sixty-five years or older, and anyone with a chronic illness, a measure that was executed nationwide as provincial Public Health Councils adopted identical decisions for curfew. ''The measures introduced in this period require a solid normative base which may either be the state of emergency or new laws adopted by the Parliament for directly addressing the situation otherwise in the long term the possibility of arbitrariness may be as destructive as the pandemic itself.'' This ruling through various decrees and announcements has been in place throughout the pandemic, and the legal basis for these within the two legislative instruments has been questionable at several instances. 
 
 *Sources*:
- https://verfassungsblog.de/fighting-Covid-19-legal-powers-risks-and-the-rule-of-law-turkey/
+ https://perma.cc/8UFT-H37Z
 (1)
-
-https://www.anayasa.gov.tr/icsayfalar/basin/kararlarailiskinbasinduyurulari/genelkurul/detay/21.html
+https://perma.cc/HG9X-ECPT
 (2)
-https://www.constituteproject.org/constitution/Turkey_2017.pdf?lang=en
-https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-21-20-intl-hnk/h_f4f5cbe6dd10324a9472dc0d33e2ea63
 
+https://perma.cc/7ZLX-5CUF
+https://perma.cc/Q5PK-LPRU
 https://perma.cc/S8UH-ZAR5
-
 https://perma.cc/7Q6V-N6GR
-
-https://www.garda.com/crisis24/news-alerts/479251/turkey-authorities-to-ease-domestic-Covid-19-related-measures-from-may-17-update-41
-
-https://www.garda.com/crisis24/news-alerts/471696/turkey-government-to-enforce-nationwide-lockdown-april-29-may-17-due-to-Covid-19-activity-update-38
-
-https://verfassungsblog.de/year-one-reflections-on-turkeys-legal-responses-to-the-Covid-19-pandemic/
-
-https://tr.usembassy.gov/Covid-19-information-2/
+https://perma.cc/GH2W-9XLK
+https://perma.cc/9A42-6GPF
+https://perma.cc/Z7P9-QJX3
 
 
 
@@ -6084,30 +5833,33 @@ https://tr.usembassy.gov/Covid-19-information-2/
  
 
 *Sources*:
- http://www.turkmenistan.gov.tm/?id=20961
-https://www.garda.com/crisis24/news-alerts/359861/turkmenistan-authorities-announce-nationwide-social-restrictions-july-13-update-1
+ https://web.archive.org/web/20200518201602/http://www.turkmenistan.gov.tm/?id=20961
+https://perma.cc/T5QK-698G
 (2)
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-central-asia-5305f172/
-(3)
 
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+
+https://perma.cc/CNA2-SYKT
+(3)
+https://perma.cc/TJ3B-4XFV
 (4)
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B701%5D&covid19=1
-https://tm.usembassy.gov/covid-19-information/
-https://www.reuters.com/article/idUSL8N2E05AM
+
+https://perma.cc/XXP9-5Q9Q
+
+https://perma.cc/ZN6L-EFEG
+https://perma.cc/J7UH-BULT
 (1)
 
-https://www.reuters.com/article/idUSL5N2EM4BC
-https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
-https://www.hrw.org/news/2020/06/27/turkmenistan-denies-apparent-covid-19-outbreak
-https://www.garda.com/crisis24/news-alerts/396656/turkmenistan-authorities-extend-suspension-of-international-flights-until-december-31-update-3
-https://www.garda.com/crisis24/news-alerts/385356/turkmenistan-authorities-extend-suspension-of-international-flights-until-october-31-update-2
-https://covid19.who.int/region/euro/country/tm
-https://www.garda.com/crisis24/news-alerts/474251/turkmenistan-authorities-maintain-covid-19-related-domestic-restrictions-and-international-entry-requirements-as-of-may-3-update-12
-https://www.garda.com/crisis24/news-alerts/461981/turkmenistan-authorities-ease-covid-19-related-domestic-travel-restrictions-from-april-1-update-11
-https://www.garda.com/crisis24/news-alerts/437586/turkmenistan-authorities-extend-coronavirus-disease-related-international-and-domestic-travel-restrictions-until-at-least-feb-28-update-9
-https://www.garda.com/crisis24/news-alerts/423761/turkmenistan-authorities-extend-covid-19-related-international-and-domestic-travel-restrictions-until-at-least-jan-31-update-8
-https://www.saglykhm.gov.tm/makala
+https://perma.cc/F6SL-BKKW
+https://perma.cc/PFP3-CBQF
+https://perma.cc/C7JK-Z6XF
+https://perma.cc/FLA8-D6UB
+https://perma.cc/7HE3-QPPY
+https://perma.cc/XFY6-N8FV
+https://perma.cc/W2XE-FXG3
+https://perma.cc/7AFK-9JHE
+https://perma.cc/7TH9-CHVH
+https://perma.cc/MNM4-N3MF
+https://perma.cc/9SET-G6NY
 
 
 
@@ -6132,29 +5884,17 @@ https://www.saglykhm.gov.tm/makala
  The "Public Health Act of Uganda (Cap 281, 2000)", is the main instrument used to make the rules in "The Public Health (Control of COVID - 19) Rules, 2020" and various amendments to them throughout 2020 and 2021 [5]. A state of emergency has not been declared along the lines of Article 110 of Uganda's Constitution. While this Article does not include disease as a reason to declare a state of emergency, this official declaration of a state of emergency would regulate the executive's powers, define the timeline of the state of emergency, and provide parliamentary oversight. [1] There is other legislation that would have supported the declaration of a state of emergency, but it has not been invoked. "The 2011 National Disaster Preparedness Policy, lists pandemics as a disaster that merits government intervention. Section 2.1.8 of the policy anticipates pandemics like COVID-19." [4] There were calls in spring 2020 for the President to declare a State of Emergency by judges and legislators [6][8] but the executive declined to do so. [7]  "The decision not to declare a state of emergency has deprived the Parliament of its constitutional mandate to monitor or balance the Executive powers’ self-assigned ‘exceptional powers’ over the extent of restrictions to rights and freedoms over the past couple of months." [2] There was a nationwide lockdown for almost 3 months in Q2 2020. [9] On June 7, 2021, President Museveni introduced another partial lockdown for 42 days that includes restrictions on inter-district travel, school closures, and suspension of markets and churches. [10] Effective 18 June 2021, the country is under another nationwide lockdown for 42 days, with all private vehicles banned from roadways and schools, bars, restaurants closed; restrictions are also in place on funerals. [11] 
 
 *Sources*:
- [1]
-https://www.constituteproject.org/constitution/Uganda_2017?lang=en
-[2]
-https://www.asf.be/blog/2020/06/11/ugandas-de-facto-state-of-emergency-to-address-the-covid-19-pandemic/
-[3]
-https://perma.cc/E7ZP-68JW
-[4]
-https://www.independent.co.ug/covid-19-is-ugandas-lock-down-equivalent-to-state-of-emergency/
-[5]
-http://library.health.go.ug/sites/default/files/resources/Public%20Health%20Act.pdf
-[6]
-https://www.independent.co.ug/kadaga-katureebe-advised-museveni-to-declare-a-state-of-emergency/
-[7]
-https://www.independent.co.ug/2021-elections-govt-declines-to-declare-state-of-emergency/
-[8]
-https://www.parliament.go.ug/news/4590/mps-call-declaration-state-emergency
-[9]
-https://allafrica.com/stories/202105310324.html
-
-[10]
-https://www.reuters.com/world/africa/uganda-re-imposes-lockdown-beat-back-covid-19-case-surge-2021-06-06/
-[11]
-https://www.monitor.co.ug/uganda/news/national/uganda-goes-into-total-lockdown-as-covid-19-infections-rise-3442464
+ [1]	perma.cc/Z9ZJ-SXDW
+[2]	perma.cc/PKY9-G8B4
+[3]	perma.cc/E7ZP-68JW
+[4]	perma.cc/7LEF-FMRV
+[5]	perma.cc/B2BV-8HJM
+[6]	perma.cc/WGT8-ZY5T
+[7]	perma.cc/ZUR6-54AC
+[8]	perma.cc/4AE2-E5US
+[9]	perma.cc/JEV4-P3CB
+[10]	perma.cc/D2H5-6W5W
+[11]	perma.cc/2NEZ-5TQ3
 
 
 
@@ -6182,27 +5922,26 @@ Q3 2020, Q4 2020, Q1 2021, Q2 2021: the legal instrument in these time periods i
  
 
 *Sources*:
- https://www.kmu.gov.ua/en/news/uryad-zaprovadiv-rezhim-nadzvichajnoyi-situaciyi-po-vsij-teritoriyi-ukrayini
-https://www.kmu.gov.ua/npas/pro-perevedennya-yedinoyi-derzhavnoyi-sistemi-civilnogo-zahistu-u-rezhim-nadzvichajnoyi-situaciyi-338250320
-https://www.constituteproject.org/constitution/Ukraine_2016?lang=en
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://www.oecd.org/eurasia/competitiveness-programme/eastern-partners/COVID-19-CRISIS-IN-UKRAINE.pdf
-https://www.kmu.gov.ua/npas/pro-zapobigannya-poshim110320rennyu-na-teritoriyi-ukrayini-koronavirusu-covid-19
-https://www.kmu.gov.ua/npas/pro-vstanovlennya-karantinu-ta-zapr-641
-https://www.kmu.gov.ua/en/news/uryad-podovzhiv-adaptivnij-karantin-do-31-zhovtnya
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B369%5D&covid19=1
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/
+ https://perma.cc/C9KT-Y5TA
 
-https://zakon.rada.gov.ua/laws/show/211-2020-%D0%BF#Text
-https://zakon.rada.gov.ua/laws/show/392-2020-%D0%BF#n5
-https://covid19.gov.ua/karantynni-zakhody
+https://perma.cc/UC9Q-VEU3
+https://perma.cc/9XK4-FWYW
+https://perma.cc/3X8M-TQ95
+https://perma.cc/FE2M-QYMV
+https://perma.cc/P58A-JHX8
+https://perma.cc/VT2Z-T5ZM
+https://perma.cc/H8EE-UPA5
+https://perma.cc/ZL5N-ZPEM
+https://perma.cc/J7UH-BULT
 
-https://zakon.rada.gov.ua/laws/show/956-2020-%D0%BF#n10
+https://perma.cc/2S8F-ECXT
+https://perma.cc/9CH3-UN4W
 
-https://www.kmu.gov.ua/npas/pro-vstanovlennya-karantinu-ta-zaprovadzhennya-obmezhuvalnih-protiepidemichnih-zahodiv-1236-091220?fbclid=IwAR3pbhcUjgWC49Nycv3BbeP44aFKJ4bUO67mub_kBQ6pIq5obafpN40dDcA
-https://www.kmu.gov.ua/npas/pro-vstanovlennya-karantinu-ta-zaprovadzhennya-obmezhuvalnih-protiepidemichnih-zahodiv-1236-091220
-https://www.oecd.org/eurasia/competitiveness-programme/eastern-partners/COVID-19-CRISIS-IN-UKRAINE.pdf
+https://perma.cc/YH6C-FSBB
+https://perma.cc/Z69P-34VQ
+https://perma.cc/C67F-EJCJ
+https://perma.cc/9U98-EC66
+https://perma.cc/JP88-22TF
 
 
 
@@ -6227,12 +5966,9 @@ https://www.oecd.org/eurasia/competitiveness-programme/eastern-partners/COVID-19
  No reference to a legal instrument was found regarding the national response to the Covid-19 pandemic. 
 
 *Sources*:
- [1]
-https://dlp.dubai.gov.ae/en/Pages/LegislationSearch.aspx
-[2]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/government-efforts-to-contain-covid-19
-[3]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak
+ [1]	perma.cc/NLQ7-V4C6
+[2]	perma.cc/VDT7-AZJA
+[3]	perma.cc/3NBH-PBX8
 
 
 
@@ -6259,26 +5995,21 @@ Note that The Health Protection (Coronavirus, Restrictions) Regulations 2020 was
 All the aforementioned Regulations were introduced under the same legal instrument, the Public Health (Control of Disease) Act 1984. The slight difference in regulation also continues between England, Wales, Northern Ireland and Scotland who all have their own version of this regulation, all however being based in the Public Health (Control of Disease) Act 1984. 
 
 *Sources*:
- http://www.legislation.gov.uk/uksi/2020/350/contents/made
-http://www.legislation.gov.uk/uksi/2020/350/pdfs/uksi_20200350_en.pdf
-http://www.legislation.gov.uk/ssi/2020/103/contents/made
-http://www.legislation.gov.uk/wsi/2020/353/contents/made
-https://www.health-ni.gov.uk/sites/default/files/publications/health/Coronavirus-Restrictiions-Regs-2020.pdf
-https://blogs.loc.gov/law/2020/05/restrictions-on-movement-due-to-the-coronavirus-pandemic-across-england-part-i/
-https://blogs.loc.gov/law/2020/05/restrictions-on-movement-due-to-the-coronavirus-pandemic-across-england-part-ii/
-https://www.legislation.gov.uk/uksi/2020/684/introduction/made
-https://www.legislation.gov.uk/uksi/2020/1200/made
-https://www.legislation.gov.uk/uksi/2020/1200/pdfs/uksi_20201200_en.pdf
-https://www.legislation.gov.uk/uksi/2020/1374/made
-
-
-https://www.legislation.gov.uk/uksi/2021/8/made
-https://verfassungsblog.de/a-government-ungoverned/
-
-
-https://www.legislation.gov.uk/coronavirus
-
-https://www.legislation.gov.uk/uksi/2021/364/contents
+ https://perma.cc/89Z9-LC94
+https://perma.cc/L3X6-MUVR
+https://perma.cc/HJ5X-T6N6
+https://perma.cc/853K-SKBP
+https://perma.cc/PTF4-K9XE
+https://perma.cc/K8WV-H2PR
+https://perma.cc/CA8U-EMQZ
+https://perma.cc/XY7B-2NRJ
+https://perma.cc/GHL6-82LQ
+https://perma.cc/6PG8-KQ5Z
+https://perma.cc/89W5-8UKV
+https://perma.cc/56FJ-XR4U
+https://perma.cc/ZQ46-3S4C
+https://perma.cc/V3WQ-F7FX
+https://perma.cc/ZDQ9-6XFA
 
 
 
@@ -6303,22 +6034,14 @@ https://www.legislation.gov.uk/uksi/2021/364/contents
  President Trump made a declaration under the National Emergency Act, declaring a nationwide emergency in relation to Covid-19 on 2020-03-13. This emergency situation is still in force, as it was declared to continue for another year by President Biden on 2021-02-22. Consequently, this is regarded a declaration of state of emergency, within the existing legal framework. Note also that President Trump declared an emergency situation under section 501(b) of the Stafford Act on the same day (2020-03-13), which also provides emergency powers for the government. These powers however primarily pertain to financial and administrative assistance to states, and is thus not regarded as the main legal instrument here. 
 
 *Sources*:
- https://www.federalregister.gov/documents/2020/03/18/2020-05794/declaring-a-national-emergency-concerning-the-novel-coronavirus-disease-Covid-19-outbreak
-
-
-https://www.fema.gov/news-release/2020/03/13/Covid-19-emergency-declaration
-
-https://www.cms.gov/newsroom/press-releases/cms-takes-action-nationwide-aggressively-respond-coronavirus-national-emergency
-
-https://www.fema.gov/disasters/coronavirus/disaster-declarations
-
-https://www.cms.gov/About-CMS/Agency-Information/Emergency/EPRO/Current-Emergencies/Current-Emergencies-page
-
-https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/24/a-letter-on-the-continuation-of-the-national-emergency-concerning-the-coronavirus-disease-2019-Covid-19-pandemic/
-
-https://fas.org/sgp/crs/natsec/R46379.pdf
-
-https://trumpwhitehouse.archives.gov/briefings-statements/letter-president-donald-j-trump-emergency-determination-stafford-act/
+ https://perma.cc/A972-QHD5
+https://perma.cc/EV5W-Q758
+https://perma.cc/J5LD-Z8PN
+https://perma.cc/F444-BCMN
+https://perma.cc/4XVA-LYLR
+https://perma.cc/AHJ8-UYHR
+https://perma.cc/78CE-79FN
+https://perma.cc/TSU3-YNE8
 
 
 
@@ -6343,11 +6066,8 @@ https://trumpwhitehouse.archives.gov/briefings-statements/letter-president-donal
  The state of sanitary emergency was declared via the Decree nº 093/2020 on March 13. 
 
 *Sources*:
- [1]
-https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
-
-[2]
-https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/lacalle-medidas-coronavirus-conferencia
+ [1]	perma.cc/ZRL8-U8FZ
+[2]	perma.cc/75PJ-2QK9
 
 
 
@@ -6373,23 +6093,21 @@ https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/lacalle-medidas
  
 
 *Sources*:
- https://lex.uz/ru/docs/4772484
-https://lex.uz/ru/docs/4770761?otherlang=1#undefined
-https://uz.usembassy.gov/covid-19-information/
-https://lex.uz/ru/docs/4914694
-https://president.uz/ru/lists/view/3958
+ https://perma.cc/29KQ-UJSU
+https://perma.cc/2T8L-QQDS
+https://perma.cc/NM7H-ESX4
+https://perma.cc/ST84-4JNJ
+https://perma.cc/3SP6-MWEY
+https://perma.cc/S7SY-3YTV
+https://perma.cc/J7UH-BULT
 
-
-https://president.uz/ru/lists/view/3478
-
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B704%5D&covid19=1
-https://www.garda.com/crisis24/news-alerts/325731/uzbekistan-government-to-lock-down-tashkent-from-march-24-to-prevent-further-spread-of-covid-19-update-3
-https://www.garda.com/crisis24/news-alerts/328416/uzbekistan-stricter-containment-measures-in-place-as-of-april-1-update-6
-https://www.garda.com/crisis24/news-alerts/333911/uzbekistan-authorities-extend-nationwide-restrictions-until-may-10-update-7
-https://t.me/koronavirusinfouz/2725
-https://www.garda.com/crisis24/news-alerts/342706/uzbekistan-authorities-extend-quarantine-measures-until-june-1-update-11
-https://www.garda.com/crisis24/news-alerts/357721/uzbekistan-authorities-to-introduce-second-lockdown-from-july-10-update-16
-https://www.garda.com/crisis24/news-alerts/363601/uzbekistan-authorities-extend-covid-19-lockdown-measures-until-august-15-update-17
+https://perma.cc/78UZ-AA2U
+https://perma.cc/UC6Q-C6T9
+https://perma.cc/YP42-NHGM
+https://perma.cc/3SM3-2HSG
+https://perma.cc/JW7X-JGNS
+https://perma.cc/UY83-SZQM
+https://perma.cc/VQY4-R7XC
 
 
 
@@ -6415,15 +6133,15 @@ https://www.garda.com/crisis24/news-alerts/363601/uzbekistan-authorities-extend-
 
 *Sources*:
  [1]
-https://app.box.com/s/a437wqh3l52mksb8ks9xd8bskv1oeze9
+perma.cc/9MBY-83N4
 [2]
-https://www.moore-venezuela.com/noticias/abril-2021/estado-de-excepcion-de-alarma-para-atender-la-emer
+perma.cc/3VL3-E85F
 [3]
-http://spgoin.imprentanacional.gob.ve/cgi-win/be_alex.cgi?Documento=T028700035728/0&Nombrebd=spgoin&CodAsocDoc=2503&Sesion=249009065
+perma.cc/F9SP-NDPU
 [4]
-https://www.vtv.gob.ve/lunes-venezuela-semana-cuarentena-radical-metodo-77/
+perma.cc/3E7E-VKNW
 [5]
-https://www.garda.com/crisis24/news-alerts/490406/venezuela-authorities-impose-strict-covid-19-related-restrictions-through-at-least-june-20-update-49
+perma.cc/MWH2-TQMF
 
 
 
@@ -6450,18 +6168,12 @@ https://www.garda.com/crisis24/news-alerts/490406/venezuela-authorities-impose-s
 Vietnam did not declare a state of a emergency in Q1 and Q2 of 2021. However, other Covid19 related restrictions continue to be in place to varying levels across the country. 
 
 *Sources*:
- https://www.weforum.org/agenda/2020/03/vietnam-contain-covid-19-limited-resources/
-
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.bbc.com/news/business-53045955
-
-https://www.reuters.com/article/us-health-coronavirus-vietnam-riceatm/rice-atm-feeds-vietnams-poor-amid-virus-lockdown-idUSKCN21V0GQ
-
-
-http://constitutionnet.org/sites/default/files/tranlation_of_vietnams_new_constitution_enuk_2.pdf
-
-https://www.garda.com/crisis24/news-alerts/479976/vietnam-authorities-continue-to-enforce-covid-19-restrictions-nationwide-as-of-may-18-update-28
+ https://perma.cc/RWH7-95SD
+https://perma.cc/6KAF-XLCK
+https://perma.cc/Q85K-DA63
+https://perma.cc/FTG8-NH9T
+https://perma.cc/7HCE-HZM9
+https://perma.cc/WMK3-SNQS
 
 
 
@@ -6488,52 +6200,46 @@ https://www.garda.com/crisis24/news-alerts/479976/vietnam-authorities-continue-t
 While the Ministry of Health initially led the response, in coordination with the WHO, the president appeared to have seized control by issuing a series of restrictions since March 2020 that have been amended at various points and continue through Q2 2021 (5, 6, 7, 8, 9, 10, 11, 12, 13, 14). 
 
 *Sources*:
- http://zambialii.org/zm/legislation/statutory-instrument/2020/21
-
-
+ https://perma.cc/V262-7AF9
 (1)
-http://zambialii.org/zm/legislation/statutory-instrument/2020/22
+
+https://perma.cc/GH77-GTQ2
 (2)
 
-https://www.parliament.gov.zm/sites/default/files/documents/acts/Public%20Health%20Act.pdf
+https://perma.cc/6W45-KS92
 (3)
-https://zambialii.org/zm/legislation/statutory-instrument/2020/no-62-2020
+
+https://perma.cc/BKW2-RZ3X
 (4)
-https://www.mod.gov.zm/?wpfb_dl=41
+
+https://perma.cc/8RMH-JJPP
 (5)
-https://www.themastonline.com/2020/04/16/boma-ni-bowman-the-plight-of-the-rule-of-law-in-zambia-during-covid-19/
+
+https://perma.cc/8EGC-2RZV
 (6)
-https://www.effective-states.org/zambias-response-to-covid-19-part-3-rising-infections-and-falling-confidence-amidst-increased-authoritarianism/
+
+https://perma.cc/267D-LMPN
 (7)
-http://zambiahighcommission.ca/wp/revised-guidelines-for-strengthening-sureillance-at-the-points-of-entry-poe-v2-0/
+
+https://perma.cc/CP43-L5EG
 (8)
-https://www.swedenabroad.se/globalassets/ambassader/zambia-lusaka/documents/poe-guidelines-version-2.0-with-annex.pdf
+
+https://perma.cc/94UT-E9UC
 (9)
 
-
-
-
-
-
-
-
-
-
-https://www.mod.gov.zm/?wpfb_dl=41
-
+https://perma.cc/KZ8Q-KN9J
 (10)
 
-https://www.cabinet.gov.zm/wp-content/uploads/2020/04/PRESIDENT-LUNGU-MAKES-SECOND-ADDRESS-TO-NATION-ON-COVID.pdf
+https://perma.cc/8EGC-2RZV
 (11)
 
-https://www.sh.gov.zm/?wpfb_dl=225
+https://www.cabinet.gov.zm/wp-content/uploads/2020/05/HE-FIFTH-COVID-ADDRESS-003-REVISED-20.05.20.pdf
 (12)
 
-https://www.cabinet.gov.zm/wp-content/uploads/2020/05/4TH-COVID-NATIONAL-ADDRESS-8th-MAY-2020.pdf
-
+https://perma.cc/5SMB-WD9R
 (13)
 
-https://www.cabinet.gov.zm/wp-content/uploads/2020/05/HE-FIFTH-COVID-ADDRESS-003-REVISED-20.05.20.pdf
+https://web.archive.org/web/20201130052045/https://www.cabinet.gov.zm/wp-content/uploads/2020/05/4TH-COVID-NATIONAL-ADDRESS-8th-MAY-2020.pdf
 (14)
 
 
@@ -6559,8 +6265,5 @@ https://www.cabinet.gov.zm/wp-content/uploads/2020/05/HE-FIFTH-COVID-ADDRESS-003
  A state of disaster is declared on March 23, in the "Civil Protection (Declaration of State of Disaster: Rural and Urban Areas of Zimbabwe) (COVID-19) Notice, 2020" 
 
 *Sources*:
- https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
-
-http://zimlii.org/zw/zw/subleg-consol/S.I.%2083%20of%202020%20Public%20Health%20%28COVID-19%20Prevention%2C%20Containment.pdf
-
-
+ https://perma.cc/Q494-97G4
+https://web.archive.org/web/20200926043507/http://zimlii.org/zw/zw/subleg-consol/S.I.%2083%20of%202020%20Public%20Health%20(COVID-19%20Prevention%2C%20Containment.pdf

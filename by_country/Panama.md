@@ -45,10 +45,10 @@
  There were several emergency measures taken by the government in response to the covid-19 pandemic. The Resolución de Gabinete N° 11 declared a state of national emergency on 13 March 2020. However, it is not based on the constitution, that foresees a "state of urgency" in which the government could suspend constitutional guarantees. Rather, it is based on the public procurement law, which facilitates the purchase of goods and services to deal with an emergency situation and provides the government with an emergency fund. Thus, I consider that the measure that most closely resembles a state of exception was the Executive Decree nº 507, from 24 March 2020, which declares a complete lockdown and defines other emergency measures. The measures continue throughout all the quarters coded. 
 
 *Sources*:
- http://www.minsa.gob.pa/contenido/decretos-y-resoluciones-codes
-http://minsa.b-cdn.net/sites/default/files/general/decreto_ejecutivo_507_de_24_de_marzo_de_2020.pdf
-https://www.mitradel.gob.pa/decretoscovid19/resolucion-de-gabinete-no-11-de-13-de-marzo-de-2020-que-declara-el-estado-de-emergencia-nacional-y-dicta-otras-disposiciones-consejo-de-gabinete/#:~:text=11%20de%2013%20de%20marzo%20de%202020%20%E2%80%93%20Que%20declara%20el,otras%20disposiciones%20%E2%80%93%20Consejo%20de%20Gabinete
-https://www.prensa.com/politica/gabinete-declara-formalmente-el-estado-de-emergencia-nacional/
+ [1]	perma.cc/SPB6-UHF7
+[2]	https://web.archive.org/web/20220812144608/https://minsa.gob.pa/sites/default/files/general/decreto_ejecutivo_507_de_24_de_marzo_de_2020.pdf
+[3]	perma.cc/3PGZ-597T
+[4]	perma.cc/UTF7-WVMK
 
 
 
@@ -87,7 +87,8 @@ https://www.prensa.com/politica/gabinete-declara-formalmente-el-estado-de-emerge
 *No comment provided* 
 
 *Sources*:
- https://extranet.who.int/nutrition/gina/sites/default/files/PAN%20Codigo%20Sanitario.pdf
+ [1]
+https://extranet.who.int/nutrition/gina/sites/default/files/PAN%20Codigo%20Sanitario.pdf
 
 
 
@@ -126,7 +127,8 @@ https://www.prensa.com/politica/gabinete-declara-formalmente-el-estado-de-emerge
 *No comment provided* 
 
 *Sources*:
- http://minsa.b-cdn.net/sites/default/files/general/decreto_ejecutivo_507_de_24_de_marzo_de_2020.pdf
+ [1]
+https://web.archive.org/web/20220812144608/https://minsa.gob.pa/sites/default/files/general/decreto_ejecutivo_507_de_24_de_marzo_de_2020.pdf
 
 
 
@@ -165,14 +167,12 @@ https://www.prensa.com/politica/gabinete-declara-formalmente-el-estado-de-emerge
  The Executive Decree nº 507 was not revoked, but it has been altered several times. From June 1 2020, the complete lockdown was lifted and replaced with a curfew between 7 p.m. and 5 a.m. during the week and a lockdown on weekends, maintaining a gender restriction that men and women could only leave their houses on alternate days (via the Executive Decree nº 644). From 14 September 2020, the curfew changed to 11 p.m. to 5 a.m. and the gender restriction was lifted (via the Executive Decree nº 1078). From 25 October 2020, the lockdown on weekends was lifted, but there is still a curfew between 11 p.m. and 5 a.m. (Executive Decree nº 1222). In January, there is a plan of easing the measures, however, the development of the COVID-19 pandemic maintained some measures active. On 13 January 2021, the curfew was again determined between 9 p.m. and 4 a.m., and a new gender restriction of alternate days. On 6 March 2021, the lockdown during weekends resumes, and the curfew was from 10 p.m. to 4 a.m. By the time of the coding, the last updates are from 21 May 2021, when the curfew remained from 10 p.m. to 4 a.m. and some restrictions to enter the country were in place. 
 
 *Sources*:
- https://help.unhcr.org/panama/covid-19-2/avisos-importantes/
-
-https://www.gacetaoficial.gob.pa/pdfTemp/29196_B/82849.pdf
-
-https://www.gacetaoficial.gob.pa/pdfTemp/29224_A/83563.pdf
-https://www.gacetaoficial.gob.pa/pdfTemp/29035_B/GacetaNo_29035b_20200529.pdf
-https://www.gacetaoficial.gob.pa/pdfTemp/29111_A/GacetaNo_29111a_20200911.pdf
-https://www.gacetaoficial.gob.pa/pdfTemp/29141_A/81504.pdf
+ [1]	perma.cc/64EA-EPX9
+[2]	perma.cc/586U-BSVT
+[3]	perma.cc/D42L-QH4R
+[4]	perma.cc/T4R9-5RHP
+[5]	perma.cc/5RFD-9MRX
+[6]	perma.cc/CR6L-5EWQ
 
 
 
@@ -214,7 +214,8 @@ https://www.gacetaoficial.gob.pa/pdfTemp/29141_A/81504.pdf
  No time limit defined. 
 
 *Sources*:
- http://minsa.b-cdn.net/sites/default/files/general/decreto_ejecutivo_507_de_24_de_marzo_de_2020.pdf
+ [1]
+https://web.archive.org/web/20220812144608/https://minsa.gob.pa/sites/default/files/general/decreto_ejecutivo_507_de_24_de_marzo_de_2020.pdf
 
 
 
@@ -295,8 +296,8 @@ https://www.gacetaoficial.gob.pa/pdfTemp/29141_A/81504.pdf
  According to Código Sanitario, Art. 85: Attributions and duty of the National Department of Public Health, there is no demand for legislative approval. 
 
 *Sources*:
- https://extranet.who.int/nutrition/gina/en/node/17791
-https://data.miraquetemiro.org/sites/default/files/documentos/Codigo_Sanitario.pdf
+ [1]	perma.cc/U99Y-QYBR
+[2]	perma.cc/6P7Q-3HN4
 
 
 
@@ -338,8 +339,8 @@ https://data.miraquetemiro.org/sites/default/files/documentos/Codigo_Sanitario.p
  The law doesn't require legislative approval. The National Department of Public Health is the responsible for the measures related to pandemics. 
 
 *Sources*:
- https://extranet.who.int/nutrition/gina/en/node/17791
-https://data.miraquetemiro.org/sites/default/files/documentos/Codigo_Sanitario.pdf
+ [1]	perma.cc/U99Y-QYBR
+[2]	perma.cc/6P7Q-3HN4
 
 
 
@@ -385,11 +386,10 @@ https://data.miraquetemiro.org/sites/default/files/documentos/Codigo_Sanitario.p
  The National Assembly is working, but the executive has the autonomy to rule by decree on covid-19 related issues. 
 
 *Sources*:
- http://www.minsa.gob.pa/contenido/decretos-y-resoluciones-codes
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#P
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://twitter.com/asambleapa?lang=es
-
+ [1]	perma.cc/GKV3-BAL8
+[2]	perma.cc/LQ9K-WZAA
+[3]	perma.cc/S8K3-RVJL
+[4]	perma.cc/JUE6-46PG
 
 
 
@@ -511,12 +511,11 @@ https://twitter.com/asambleapa?lang=es
  The emergency measures applied for the entire country at first. With the reopening, there were some subnational variations in accordance with the local situation (e.g. a "sanitary bareer" was implemented in some provinces, or weekend lockdown). 
 
 *Sources*:
- https://help.unhcr.org/panama/covid-19-2/avisos-importantes/
-
-https://www.yomeinformopma.org/static/dash/docs/decretos/RESOLUCION_No._286.pdf
-https://www.yomeinformopma.org/static/dash/docs/decretos/RESOLUCION_No._491.pdf
-https://www.prensa.com/sociedad/minsa-elimina-restriccion-por-numero-de-cedula-se-mantiene-los-dias-para-hombres-y-mujeres/
-https://www.prensa.com/sociedad/minsa-ordena-nuevo-toque-de-queda-y-ley-seca-en-panama-oeste-infractores-no-cobraran-bono-solidario/
+ [1]	perma.cc/2TYK-SMEN
+[2]	perma.cc/RUU3-XGHT
+[3]	perma.cc/VF4J-J225
+[4]	perma.cc/KG2S-TPN9
+[5]	perma.cc/PWS5-ULFW
 
 
 
@@ -560,15 +559,14 @@ https://www.prensa.com/sociedad/minsa-ordena-nuevo-toque-de-queda-y-ley-seca-en-
  The government established a gender quarantine. Women could go out on Mondays, Wednesdays, and Fridays; men could go out on Tuesdays, Thursdays, and Saturdays. The dates did not change while the measure was in place, so women were not allowed to leave their houses on weekends. Additionally, this measure received criticism for enhancing discrimination against the transgender community. The measure was lifted on 14 September 2020 and resumed again in December 2020. In January-March 2021 discrim is coded as 2 due to evidence of a continuation of the practice. On 8 February, some gender restrictions were lifted. In April-June 2021, it is coded as 0, since there is no evidence that the measure has been applied. 
 
 *Sources*:
- https://help.unhcr.org/panama/covid-19-2/avisos-importantes/
-https://www.gacetaoficial.gob.pa/pdfTemp/29196_B/82849.pdf
-
-https://www.yomeinformopma.org/static/dash/docs/decretos/Resolucion_No._360.pdf
-https://pa.usembassy.gov/covid-19-information/
-https://www.hrw.org/news/2020/07/13/panama-new-trans-discrimination-cases-under-covid-19-measures
-https://www.hrw.org/news/2020/08/03/glimmer-hope-transgender-people
-https://www.prensa.com/sociedad/minsa-elimina-restriccion-por-numero-de-cedula-se-mantiene-los-dias-para-hombres-y-mujeres/
-https://www.efe.com/efe/america/sociedad/panama-suspende-restriccion-por-genero-y-suaviza-el-toque-de-queda-la-pandemia/20000013-4342773
+ [1]	perma.cc/SRA8-S7UC
+[2]	perma.cc/H3AJ-MN8V
+[3]	perma.cc/GTF3-LAGL
+[4]	perma.cc/DPQ5-82KL
+[5]	perma.cc/5BY3-5RJN
+[6]	perma.cc/2ZTD-CD8N
+[7]	perma.cc/474E-D8V9
+[8]	perma.cc/K43M-XEMJ
 
 
 
@@ -617,9 +615,9 @@ https://www.efe.com/efe/america/sociedad/panama-suspende-restriccion-por-genero-
  No evidence of non-derogable rights violation was found. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/americas/panama/
-https://www.hrw.org/americas/panama
-https://monitor.civicus.org/country/panama/
+ [1]	perma.cc/9QRM-XVD4
+[2]	perma.cc/NZQ5-NZGT
+[3]	perma.cc/2DUR-J54U
 
 
 
@@ -663,7 +661,8 @@ https://monitor.civicus.org/country/panama/
  The emergency measures do not de-jure limit media freedom, the government considered the media an essential service. 
 
 *Sources*:
- http://minsa.b-cdn.net/sites/default/files/general/decreto_ejecutivo_507_de_24_de_marzo_de_2020.pdf
+ [1]
+https://web.archive.org/web/20220812144608/https://minsa.gob.pa/sites/default/files/general/decreto_ejecutivo_507_de_24_de_marzo_de_2020.pdf
 
 
 
@@ -783,10 +782,10 @@ https://monitor.civicus.org/country/panama/
  No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. 
 
 *Sources*:
- https://rsf.org/en/countries
-https://ipi.media/covid19-media-freedom-monitoring/
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
-https://cpj.org/americas/panama/
+ [1]	perma.cc/WFT6-6Y2R
+[2]	perma.cc/7UQX-3DFX
+[3]	perma.cc/3HSB-2PUG
+[4]	perma.cc/M3AM-K7CG
 
 
 
@@ -828,10 +827,10 @@ https://cpj.org/americas/panama/
  No evidence was found of de-facto limitations on reporting about the government response to the pandemic. 
 
 *Sources*:
- https://rsf.org/en/countries
-https://ipi.media/covid19-media-freedom-monitoring/
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
-https://cpj.org/americas/panama/
+ [1]	perma.cc/WFT6-6Y2R
+[2]	perma.cc/7UQX-3DFX
+[3]	perma.cc/3HSB-2PUG
+[4]	perma.cc/M3AM-K7CG
 
 
 
@@ -873,10 +872,10 @@ https://cpj.org/americas/panama/
  No evidence was found of de-facto limitations on reporting about non-Covid-19 related news due to the pandemic. 
 
 *Sources*:
- https://rsf.org/en/countries
-https://ipi.media/covid19-media-freedom-monitoring/
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
-https://cpj.org/americas/panama/
+ [1]	perma.cc/WFT6-6Y2R
+[2]	perma.cc/7UQX-3DFX
+[3]	perma.cc/3HSB-2PUG
+[4]	perma.cc/M3AM-K7CG
 
 
 
@@ -919,11 +918,11 @@ https://cpj.org/americas/panama/
  No evidence was found of limitations on access to information. The Ministry of Health is working together with the WHO and releases daily updates about the epidemic. 
 
 *Sources*:
- http://www.minsa.gob.pa/destacado/coronavirus-covid-19
-https://rsf.org/en/countries
-https://ipi.media/covid19-media-freedom-monitoring/
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
-https://cpj.org/americas/panama/
+ [1]	perma.cc/DHC9-U7NA
+[2]	perma.cc/4PJQ-BVKE
+[3]	perma.cc/43ZJ-4Y7Y
+[4]	perma.cc/Q6R4-J6BF
+[5]	perma.cc/GM8U-4VHQ
 
 
 
@@ -966,10 +965,10 @@ https://cpj.org/americas/panama/
 For April-June 2021, some evidence of harassment of journalist was found, but there is no enough evidence to credit that to COVID-19. 
 
 *Sources*:
- https://www.swissinfo.ch/spa/am%C3%A9rica-prensa_sip-alerta-de-un-acoso-judicial-y-de-violencia-contra-periodistas-en-panam%C3%A1/46553928
-https://rsf.org/en/countries
-https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/americas/panama/
+ [1]	perma.cc/CKE9-SWKN
+[2]	perma.cc/ZC72-XW8N
+[3]	perma.cc/C3AD-TFM2
+[4]	perma.cc/4EK8-HDQG
 
 
 
@@ -1012,10 +1011,10 @@ https://cpj.org/americas/panama/
 For April-June 2021, some evidence of harassment of journalist was found, but there is no enough evidence to credit that to COVID-19. 
 
 *Sources*:
- https://www.swissinfo.ch/spa/am%C3%A9rica-prensa_sip-alerta-de-un-acoso-judicial-y-de-violencia-contra-periodistas-en-panam%C3%A1/46553928
-https://rsf.org/en/countries
-https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/americas/panama/
+ [1]	perma.cc/CKE9-SWKN
+[2]	perma.cc/ZC72-XW8N
+[3]	perma.cc/C3AD-TFM2
+[4]	perma.cc/4EK8-HDQG
 
 
 
@@ -1059,8 +1058,8 @@ https://cpj.org/americas/panama/
  No evidence of false information being disseminated by the government. The government uses WHO information and the Ministry of Health created a website together with the WHO to inform the population. 
 
 *Sources*:
- http://www.minsa.gob.pa/destacado/coronavirus-covid-19
-https://panama.campusvirtualsp.org/instituciones-participantes
+ [1]	perma.cc/EY97-VQGN
+[2]	perma.cc/784A-RSPS
 
 
 
@@ -1105,12 +1104,12 @@ https://panama.campusvirtualsp.org/instituciones-participantes
 Reports still talking about and there is no sign that the violence stopped for the periods January-March, April-June 2021. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/panama/
-https://www.laestrella.com.pa/nacional/201217/repudian-represion-policial-periodistas-segundo-caso-dos-meses
-https://www.panamaamerica.com.pa/mundo/la-violencia-policial-una-enfermedad-dificil-de-erradicar-en-america-1186851
-https://www.defensoriadelpueblo.gob.pa/portal/comunicado-sobre-actuacion-policial-ante-el-estado-de-emergencia-nacional-por-la-pandemia-de-covid-19/
-https://www.laestrella.com.pa/nacional/200727/residentes-curundu-protestan-abuso-agentes-policiales
-https://www.prensa.com/impresa/panorama/arrestan-a-jovenes-por-protesta-contra-la-cuarentena/
+ [1]	perma.cc/Q6UA-EZD3
+[2]	perma.cc/2MBN-E868
+[3]	perma.cc/BKY8-MN3K
+[4]	perma.cc/HUH4-24X5
+[5]	perma.cc/6HHG-3RTJ
+[6]	perma.cc/6FWM-4446
 
 
 
@@ -1152,4 +1151,4 @@ https://www.prensa.com/impresa/panorama/arrestan-a-jovenes-por-protesta-contra-l
  Executive Decree nº 499, Article 7: It is up to the health authorities, in collaboration with the security and police departments, to ensure compliance with these measures. Panama does not have a standing military. 
 
 *Sources*:
- http://www.minsa.gob.pa/sites/default/files/general/decreto_ejecutivo_499_de_19_marzo_de_2020.pdf
+ [1]	perma.cc/XTP7-FYNU

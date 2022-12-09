@@ -6,7 +6,7 @@ library(dplyr)
 
 #Load raw data
 #setwd()
-dat <- read.xlsx('replication/raw_data_V6.xlsx')
+dat <- read.xlsx('datasets/raw_data_V6.xlsx')
 
 #Order data
 dat$quarter <- factor(dat$quarter, levels = c("Q1", "Q2", "Q3", "Q4"))
@@ -173,7 +173,7 @@ dat.indices <- data.frame(
 dat.indices <- dat.indices[order(dat.indices$country_name, dat.indices$year, factor(dat.indices$quarter, levels = c("Q1", "Q2", "Q3", "Q4"))), ]
 
 #Merge with V-Dem data (V11.1)
-vdem <- read.csv('replication/VDem-v11.1.csv')
+vdem <- read.csv('datasets/VDem-v11.1.csv')
 dat.indices <- merge(dat.indices, vdem[vdem$year==2019, c('country_name', 'v2x_libdem')], all.x = T)
 dat.indices$v2x_libdem_2019 <- dat.indices$v2x_libdem
 dat.indices <- dat.indices[, names(dat.indices)[!(names(dat.indices) %in% 'v2x_libdem')]]

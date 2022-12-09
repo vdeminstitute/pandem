@@ -50,22 +50,25 @@ Also, the same critics (mainly ssee link 6), question the legitimacy of the stat
 Coded as 1 instead of 2 because the Constitution does not offer a distinct provision for a state of health emergency, despite the fact that what was officially declared was a state of health emergency (the Constitution looks as if it allows for adjusted language to the nature of the crisis (e.g. “state of siege”) as warranted. 
 
 *Sources*:
- https://presidence.gouv.tg/2020/04/01/adresse-du-chef-de-letat-sem-faure-essozimna-gnassingbe-au-peuple-togolais-sur-la-riposte-nationale-contre-le-covid-19/
-(1)
+ perma.cc/898F-P456
 
-http://togolex.com/2020/04/loi-n-2020-005-du-30/03/2020-portant-habilitation-du-gouvernement-a-prendre-par-ordonnances-les-mesures-relevant-du-domaine-de-la-lo
-(2)
 
-https://www.constituteproject.org/constitution/Togo_2007.pdf?lang=en
-(3)
+perma.cc/GV5D-X6T4
 
-https://www.togofirst.com/en/economic-governance/0204-5268-coronavirus-togo-declares-state-public-health-emergency-for-3-months
-(4)http://news.alome.com/h/126579.html
-(5)
-http://togolex.com/2020/04/la-cour-constitutionnelle-valide-l-etat-d-urgence-et-donne-au-gouvernement-un-blanc-seing-pour-restreindre-les-libertes-commentaire
-(6)
 
-https://www.garda.com/crisis24/news-alerts/456291/togo-authorities-extend-covid-19-related-state-of-health-emergency-for-six-months-from-march-16-update-14
+perma.cc/SX9T-37FA
+
+
+perma.cc/5XY4-82FX
+
+
+perma.cc/37EP-8FPX
+
+
+perma.cc/C4GM-AL2S
+
+
+perma.cc/DZ2L-WA58
 
 
 
@@ -109,14 +112,13 @@ https://www.garda.com/crisis24/news-alerts/456291/togo-authorities-extend-covid-
  Enabling Law: No. 2020-005 of 30 March 2020 (2). 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Togo_2007.pdf?lang=en
-(1)
+ perma.cc/Z5ZW-7H9Z
 
-http://togolex.com/2020/04/loi-n-2020-005-du-30/03/2020-portant-habilitation-du-gouvernement-a-prendre-par-ordonnances-les-mesures-relevant-du-domaine-de-la-lo
-(2)
 
-https://presidence.gouv.tg/2020/04/01/adresse-du-chef-de-letat-sem-faure-essozimna-gnassingbe-au-peuple-togolais-sur-la-riposte-nationale-contre-le-covid-19/
-(3)
+perma.cc/72SW-PHL5
+
+
+perma.cc/K5TB-BN7T
 
 
 
@@ -155,13 +157,16 @@ https://presidence.gouv.tg/2020/04/01/adresse-du-chef-de-letat-sem-faure-essozim
  The President declared a three-month nationwide "health emergency"on 1 April 2020, and a six-month period of exceptional lawmaking authority under Article 86 (and 94) of the Constitution. 
 
 *Sources*:
- http://togolex.com/2020/04/loi-n-2020-005-du-30/03/2020-portant-habilitation-du-gouvernement-a-prendre-par-ordonnances-les-mesures-relevant-du-domaine-de-la-lo
-(1)
-https://presidence.gouv.tg/2020/04/01/adresse-du-chef-de-letat-sem-faure-essozimna-gnassingbe-au-peuple-togolais-sur-la-riposte-nationale-contre-le-covid-19/
-(2)
+ perma.cc/4PHR-C5HC
 
 
-https://www.togofirst.com/en/economic-governance/0204-5268-coronavirus-togo-declares-state-public-health-emergency-for-3-months
+perma.cc/NAH6-T29D
+
+
+perma.cc/T76N-7ELT
+
+
+
 
 
 
@@ -202,17 +207,22 @@ The last reneweal took place on 15 September 2020 for an additional period of 6 
 Authorities on 16 March 2021 extended the State of Health Emergency for the 4th time since its introduction in April 2020. It is now being extended for 6 months, through 15 September 2021. 
 
 *Sources*:
- https://www.togofirst.com/fr/sante/1509-6245-togo-l-etat-d-urgence-sanitaire-va-de-nouveau-etre-prolonge
+ perma.cc/VT9X-6J5W
 
-https://l-frii.com/togo-letat-durgence-sera-proroge/
 
-http://french.xinhuanet.com/afrique/2020-09/16/c_139371056.htm
+perma.cc/3ERN-2MAS
 
-https://www.garda.com/crisis24/news-alerts/380216/togo-authorities-extend-state-of-emergency-until-march-2021-update-7
 
-https://www.garda.com/crisis24/news-alerts/456291/togo-authorities-extend-covid-19-related-state-of-health-emergency-for-six-months-from-march-16-update-14
+perma.cc/2ETG-JKLV
 
-https://www.togofirst.com/en/public-management/1803-7505-covid-19-togo-extends-state-of-health-emergency-for-the-4th-consecutive-time
+
+perma.cc/U6PC-EA5D
+
+
+perma.cc/T7KD-J7NM
+
+
+perma.cc/U3YU-CCDZ
 
 
 
@@ -255,17 +265,22 @@ https://www.togofirst.com/en/public-management/1803-7505-covid-19-togo-extends-s
 The later extensions of the state of emergency all had a time limit (first until 16 August 2020, then 15 September 2020, 16 March 2021, and the final and current extension runs through 16 September 2021). 
 
 *Sources*:
- https://presidence.gouv.tg/2020/04/01/adresse-du-chef-de-letat-sem-faure-essozimna-gnassingbe-au-peuple-togolais-sur-la-riposte-nationale-contre-le-covid-19/
-(1)
+ perma.cc/N4SN-Q8T9
 
-http://togolex.com/2020/04/loi-n-2020-005-du-30/03/2020-portant-habilitation-du-gouvernement-a-prendre-par-ordonnances-les-mesures-relevant-du-domaine-de-la-lo
-(2)
 
-https://www.togofirst.com/en/economic-governance/0204-5268-coronavirus-togo-declares-state-public-health-emergency-for-3-months
-http://apanews.net/en/news/covid-19-togo-declares-state-of-emergency-curfew
-https://www.garda.com/crisis24/news-alerts/380216/togo-authorities-extend-state-of-emergency-until-march-2021-update-7
+perma.cc/2AND-QU85
 
-https://www.garda.com/crisis24/news-alerts/456291/togo-authorities-extend-covid-19-related-state-of-health-emergency-for-six-months-from-march-16-update-14
+
+perma.cc/CSZ7-5L6Z
+
+
+perma.cc/VUX3-JHAZ
+
+
+perma.cc/LM28-KM9D
+
+
+perma.cc/N7B3-893Q
 
 
 
@@ -305,17 +320,22 @@ https://www.garda.com/crisis24/news-alerts/456291/togo-authorities-extend-covid-
 The later extensions of the state of emergency all had a time limit (first until 16 August 2020, then 15 September 2020, 16 March 2021, and the final and current extension runs through 16 September 2021). 
 
 *Sources*:
- https://presidence.gouv.tg/2020/04/01/adresse-du-chef-de-letat-sem-faure-essozimna-gnassingbe-au-peuple-togolais-sur-la-riposte-nationale-contre-le-covid-19/
-(1)
+ perma.cc/N4SN-Q8T9
 
-http://togolex.com/2020/04/loi-n-2020-005-du-30/03/2020-portant-habilitation-du-gouvernement-a-prendre-par-ordonnances-les-mesures-relevant-du-domaine-de-la-lo
-(2)
 
-https://www.togofirst.com/en/economic-governance/0204-5268-coronavirus-togo-declares-state-public-health-emergency-for-3-months
-http://apanews.net/en/news/covid-19-togo-declares-state-of-emergency-curfew
-https://www.garda.com/crisis24/news-alerts/380216/togo-authorities-extend-state-of-emergency-until-march-2021-update-7
+perma.cc/2AND-QU85
 
-https://www.garda.com/crisis24/news-alerts/456291/togo-authorities-extend-covid-19-related-state-of-health-emergency-for-six-months-from-march-16-update-14
+
+perma.cc/CSZ7-5L6Z
+
+
+perma.cc/VUX3-JHAZ
+
+
+perma.cc/LM28-KM9D
+
+
+perma.cc/N7B3-893Q
 
 
 
@@ -359,10 +379,16 @@ https://www.garda.com/crisis24/news-alerts/456291/togo-authorities-extend-covid-
 Article 86 also reads that the ''Government can, for the execution of its programs, demand of the National Assembly, the authorization to take by ordinances, during a limited time period, the measures that are normally of the domain of the law. These ordinances are taken in the Council of Ministers after the opinion of the Constitutional Court. They enter into force on their publication, but become lapsed if the bill of law of ratification is not deposited with the National Assembly before the date established by the enabling law. At the expiration of the time period defined in the enabling law, these ordinances may only be modified by the law, in that which concerns their provisions which arise in the legislative domain.'' 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Togo_2007.pdf?lang=en
-https://presidence.gouv.tg/2020/04/01/adresse-du-chef-de-letat-sem-faure-essozimna-gnassingbe-au-peuple-togolais-sur-la-riposte-nationale-contre-le-covid-19/
-http://togolex.com/2020/04/loi-n-2020-005-du-30/03/2020-portant-habilitation-du-gouvernement-a-prendre-par-ordonnances-les-mesures-relevant-du-domaine-de-la-lo
-http://togolex.com/2020/04/la-cour-constitutionnelle-valide-l-etat-d-urgence-et-donne-au-gouvernement-un-blanc-seing-pour-restreindre-les-libertes-commentaire
+ perma.cc/T29D-4EH8
+
+
+perma.cc/MP59-8QKL
+
+
+perma.cc/AS24-6M8U
+
+
+perma.cc/5TB7-MLEV
 
 
 
@@ -410,15 +436,19 @@ The definitive duration of each period should be decided by presidential decree,
 Togo last extended the State of Health Emergency on 16 March 2021, to run through 16 September 2021. ''The decision was approved by the National Assembly after a request was submitted by PM Victoire Tomégah-Dogbé on 16 March 2021.'' 
 
 *Sources*:
- http://togolex.com/2020/04/loi-n-2020-005-du-30/03/2020-portant-habilitation-du-gouvernement-a-prendre-par-ordonnances-les-mesures-relevant-du-domaine-de-la-lo
-(1)
-http://news.alome.com/h/126579.html
+ perma.cc/EM8H-HVTQ
 
-http://togolex.com/2020/04/la-cour-constitutionnelle-valide-l-etat-d-urgence-et-donne-au-gouvernement-un-blanc-seing-pour-restreindre-les-libertes-commentaire
-https://www.togofirst.com/en/health/1609-6251-togo-extends-state-of-emergency-again
-(4)
 
-https://www.togofirst.com/en/public-management/1803-7505-covid-19-togo-extends-state-of-health-emergency-for-the-4th-consecutive-time
+perma.cc/87LJ-NX7T
+
+
+perma.cc/U2PG-MHDA
+
+
+perma.cc/6QY3-HSG5
+
+
+perma.cc/P9U4-4YAA
 
 
 
@@ -469,14 +499,22 @@ The extension of the state of emergency until March 2021 was also approved by th
 The National Assembly also approved the last extension of the state of health emergency on 16 March 2021, until mid-September 2021 . 
 
 *Sources*:
- https://presidence.gouv.tg/2020/04/01/adresse-du-chef-de-letat-sem-faure-essozimna-gnassingbe-au-peuple-togolais-sur-la-riposte-nationale-contre-le-covid-19/
-http://togolex.com/2020/04/loi-n-2020-005-du-30/03/2020-portant-habilitation-du-gouvernement-a-prendre-par-ordonnances-les-mesures-relevant-du-domaine-de-la-lo
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://www.constituteproject.org/constitution/Togo_2007.pdf?lang=en
-https://www.togofirst.com/en/health/1609-6251-togo-extends-state-of-emergency-again
-(5)
+ perma.cc/WVY4-VC2L
 
-https://www.togofirst.com/en/public-management/1803-7505-covid-19-togo-extends-state-of-health-emergency-for-the-4th-consecutive-time
+
+perma.cc/CP7F-P3PC
+
+
+perma.cc/EHV6-2VMN
+
+
+perma.cc/V545-HYEC
+
+
+perma.cc/4L2G-DN3Y
+
+
+perma.cc/LU5C-32C6
 
 
 
@@ -601,22 +639,15 @@ Since August 2020 there had been a few areas in Togo where the coronavirus measu
 These local lockdowns and curfew were maintained in Q1 of 2021: ''The northern Savanes region is under an indefinite lockdown. A 2000-0500 curfew is in place. Movement and travel restrictions are reportedly in effect in Sokode, Tchamba, and Adjengre.'' (8) 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/370461/togo-authorities-extend-state-of-emergency-until-september-15-update-5
+ perma.cc/9BR9-T3NT
+perma.cc/WDY2-23TN
+perma.cc/MF9H-AAAJ
+perma.cc/8T23-WMDW
+perma.cc/V5L7-XRCT
+https://web.archive.org/web/20201018174252/https://tg.usembassy.gov/health-alert-u-s-embassy-lome-togo-october-15-2020/
+perma.cc/SZW6-FVXX
+perma.cc/YH8K-9PGA
 
-https://www.togofirst.com/fr/sante/2408-6101-covid-19-bouclage-de-sokode-tchamba-et-adjengre
-
-https://www.aa.com.tr/fr/afrique/togo-covid-19-couvre-feu-et-bouclage-de-trois-villes/1952543
-
-http://apanews.net/en/news/covid-19-togo-declares-state-of-emergency-curfew
-
-https://presidence.gouv.tg/2020/04/01/adresse-du-chef-de-letat-sem-faure-essozimna-gnassingbe-au-peuple-togolais-sur-la-riposte-nationale-contre-le-covid-19/
-
-https://tg.usembassy.gov/health-alert-u-s-embassy-lome-togo-october-15-2020/
-
-https://www.garda.com/crisis24/news-alerts/456291/togo-authorities-extend-covid-19-related-state-of-health-emergency-for-six-months-from-march-16-update-14
-
-https://www.garda.com/crisis24/news-alerts/433616/togo-authorities-maintain-several-covid-19-related-international-movement-restrictions-and-curfew-in-places-as-of-jan-23-update-12
-(8)
 
 
 
@@ -660,15 +691,19 @@ https://www.garda.com/crisis24/news-alerts/433616/togo-authorities-maintain-seve
  No discrimination based on these rights. 
 
 *Sources*:
- https://presidence.gouv.tg/2020/04/01/adresse-du-chef-de-letat-sem-faure-essozimna-gnassingbe-au-peuple-togolais-sur-la-riposte-nationale-contre-le-covid-19/
+ perma.cc/6P68-BNMD
 
-https://www.garda.com/crisis24/news-alerts/328466/togo-president-declares-three-month-health-emergency-and-nationwide-curfew-from-2-april-update-3
 
-https://www.togofirst.com/en/economic-governance/0204-5268-coronavirus-togo-declares-state-public-health-emergency-for-3-months
+perma.cc/Y9ZZ-NFDA
 
-http://apanews.net/en/news/covid-19-togo-declares-state-of-emergency-curfew
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/togo/
+perma.cc/SVU2-FY8Q
+
+
+perma.cc/6JPR-ZZJL
+
+
+perma.cc/CH4K-NJDE
 
 
 
@@ -720,15 +755,19 @@ The US state report 2020 on human rights practices however, mentions:
 ''On 11 April 2020, security personnel enforcing the Covid-19 state of emergency reportedly assaulted an elderly woman, Nyanuwoede Drafoe, living in Agbodrafo, an area approximately 20 miles from Lome. Her family members reported she was beaten for not respecting the curfew. Human rights organizations noted, however, the curfew was not in force in the area at that time and that the use of force was excessive and amounted to inhuman and degrading treatment. The human rights organizations referred the case to the CNDH, which began an investigation.'' 
 
 *Sources*:
- https://presidence.gouv.tg/2020/04/01/adresse-du-chef-de-letat-sem-faure-essozimna-gnassingbe-au-peuple-togolais-sur-la-riposte-nationale-contre-le-covid-19/
+ perma.cc/XA3Y-FVFH
 
-https://www.garda.com/crisis24/news-alerts/328466/togo-president-declares-three-month-health-emergency-and-nationwide-curfew-from-2-april-update-3
 
-https://www.togofirst.com/en/economic-governance/0204-5268-coronavirus-togo-declares-state-public-health-emergency-for-3-months
+perma.cc/4Z5J-7JVU
 
-http://apanews.net/en/news/covid-19-togo-declares-state-of-emergency-curfew
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/togo/
+perma.cc/WV2S-H5G4
+
+
+perma.cc/3V9Q-879A
+
+
+perma.cc/6KA7-DEY6
 
 
 
@@ -772,17 +811,22 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tog
  No evidence on media limitations found in the emergency measures. 
 
 *Sources*:
- http://togolex.com/2020/04/loi-n-2020-005-du-30/03/2020-portant-habilitation-du-gouvernement-a-prendre-par-ordonnances-les-mesures-relevant-du-domaine-de-la-lo
+ perma.cc/RGX4-UVD4
 
-https://presidence.gouv.tg/2020/04/01/adresse-du-chef-de-letat-sem-faure-essozimna-gnassingbe-au-peuple-togolais-sur-la-riposte-nationale-contre-le-covid-19/
 
-https://www.garda.com/crisis24/news-alerts/328466/togo-president-declares-three-month-health-emergency-and-nationwide-curfew-from-2-april-update-3
+perma.cc/4SJG-3CP6
 
-https://www.togofirst.com/en/economic-governance/0204-5268-coronavirus-togo-declares-state-public-health-emergency-for-3-months
 
-http://apanews.net/en/news/covid-19-togo-declares-state-of-emergency-curfew
+perma.cc/6Y7N-H645
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/togo/
+
+perma.cc/663A-V8M9
+
+
+perma.cc/EVU4-KMU4
+
+
+perma.cc/8NBY-X3EC
 
 
 
@@ -906,29 +950,19 @@ According to RSF, ''The development of an investigative journalism culture is be
 ''Togo's supreme court administrative chamber decided on 9 March 2021 to confirm the four-month suspension that the High Authority for Broadcasting and Communication (HAAC) imposed a month ago on the newspaper L’Alternative. The HAAC ordered the suspension in response to a complaint by the minister of urbanism, housing and land reform, who was described as a “forger” by the newspaper because, it said, he used forged documents when administering the property of the family of a wealthy businessman who recently died.'' (8, 9). 
 
 *Sources*:
- https://www.lemonde.fr/afrique/article/2020/03/27/au-togo-deux-journaux-d-opposition-suspendus-apres-une-plainte-de-la-france_6034634_3212.html
-(1)
+ https://perma.cc/S7J2-TSN8
+https://perma.cc/Q7KR-JVV3
+https://perma.cc/HS73-G2PG
+https://perma.cc/3SJV-TGU3
 
-https://rsf.org/en/news/convicting-petrolgate-journalist-defamation-would-be-disastrous-rsf-says
-(2)
+https://perma.cc/XD9R-MTXD
 
-https://www.aa.com.tr/fr/afrique/togo-le-syndicat-des-journalistes-condamne-la-suspension-de-deux-journaux-/1783254
-(3)
+https://perma.cc/E3RN-HL8F
 
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/CYL3-VRKE
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/togo/
-
-https://rsf.org/en/news/togo-court-upholds-baseless-and-disproportionate-newspaper-closures
-(8)
-
-https://rsf.org/en/togo
-
-(9)
+https://perma.cc/3MDC-2VT8
+https://perma.cc/M9E9-QUUV
 
 
 
@@ -974,29 +1008,19 @@ According to RSF, ''The development of an investigative journalism culture is be
 ''Togo's supreme court administrative chamber decided on 9 March 2021 to confirm the four-month suspension that the High Authority for Broadcasting and Communication (HAAC) imposed a month ago on the newspaper L’Alternative. The HAAC ordered the suspension in response to a complaint by the minister of urbanism, housing and land reform, who was described as a “forger” by the newspaper because, it said, he used forged documents when administering the property of the family of a wealthy businessman who recently died.'' (8, 9). 
 
 *Sources*:
- https://www.lemonde.fr/afrique/article/2020/03/27/au-togo-deux-journaux-d-opposition-suspendus-apres-une-plainte-de-la-france_6034634_3212.html
-(1)
+ https://perma.cc/S7J2-TSN8
+https://perma.cc/Q7KR-JVV3
+https://perma.cc/HS73-G2PG
+https://perma.cc/3SJV-TGU3
 
-https://rsf.org/en/news/convicting-petrolgate-journalist-defamation-would-be-disastrous-rsf-says
-(2)
+https://perma.cc/XD9R-MTXD
 
-https://www.aa.com.tr/fr/afrique/togo-le-syndicat-des-journalistes-condamne-la-suspension-de-deux-journaux-/1783254
-(3)
+https://perma.cc/E3RN-HL8F
 
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/CYL3-VRKE
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/togo/
-
-https://rsf.org/en/news/togo-court-upholds-baseless-and-disproportionate-newspaper-closures
-(8)
-
-https://rsf.org/en/togo
-
-(9)
+https://perma.cc/3MDC-2VT8
+https://perma.cc/M9E9-QUUV
 
 
 
@@ -1042,28 +1066,19 @@ According to RSF, ''The development of an investigative journalism culture is be
 ''Togo's supreme court administrative chamber decided on 9 March 2021 to confirm the four-month suspension that the High Authority for Broadcasting and Communication (HAAC) imposed a month ago on the newspaper L’Alternative. The HAAC ordered the suspension in response to a complaint by the minister of urbanism, housing and land reform, who was described as a “forger” by the newspaper because, it said, he used forged documents when administering the property of the family of a wealthy businessman who recently died.'' (8, 9). 
 
 *Sources*:
- https://www.lemonde.fr/afrique/article/2020/03/27/au-togo-deux-journaux-d-opposition-suspendus-apres-une-plainte-de-la-france_6034634_3212.html
-(1)
+ https://perma.cc/S7J2-TSN8
+https://perma.cc/Q7KR-JVV3
+https://perma.cc/HS73-G2PG
+https://perma.cc/3SJV-TGU3
 
-https://rsf.org/en/news/convicting-petrolgate-journalist-defamation-would-be-disastrous-rsf-says
-(2)
+https://perma.cc/XD9R-MTXD
 
-https://www.aa.com.tr/fr/afrique/togo-le-syndicat-des-journalistes-condamne-la-suspension-de-deux-journaux-/1783254
-(3)
+https://perma.cc/E3RN-HL8F
 
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/CYL3-VRKE
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/togo/
-
-https://rsf.org/en/news/togo-court-upholds-baseless-and-disproportionate-newspaper-closures
-(8)
-
-https://rsf.org/en/togo
-(9)
+https://perma.cc/3MDC-2VT8
+https://perma.cc/M9E9-QUUV
 
 
 
@@ -1106,15 +1121,19 @@ https://rsf.org/en/togo
  No media limitations reported. 
 
 *Sources*:
- https://rsf.org/en/tracker19-Coronavirus-Covid19
+ perma.cc/MY6Y-23BK
 
-https://cpj.org/covid-19/
 
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
+perma.cc/NBA3-6ZEM
 
-https://ipi.media/covid19-media-freedom-monitoring/
 
-https://rsf.org/en/togo
+perma.cc/CF55-X9JP
+
+
+perma.cc/RE6L-JGUR
+
+
+perma.cc/36J6-NLJE
 
 
 
@@ -1156,20 +1175,13 @@ https://rsf.org/en/togo
  No evidence related to Covid-19 was found. 
 
 *Sources*:
- https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://cpj.org/covid-19/
-
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-
-https://rsf.org/en/togo
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/togo/
-
-https://www.amnesty.org/en/countries/africa/togo/report-togo/
+ https://perma.cc/X92G-SKZ3
+perma.cc/JJ9F-YJE7
+perma.cc/V4S2-7LEG
+perma.cc/8VLX-8HKC
+perma.cc/M9E9-QUUV
+perma.cc/5BYV-RGS2
+perma.cc/63AX-72JY
 
 
 
@@ -1211,20 +1223,14 @@ https://www.amnesty.org/en/countries/africa/togo/report-togo/
  No evidence related to Covid-19 was found. 
 
 *Sources*:
- https://rsf.org/en/tracker19-Coronavirus-Covid19
+ perma.cc/S2LN-ZP3W
+perma.cc/GQ5S-CWKX
+perma.cc/V6X6-FZS8
+perma.cc/E57A-TBA7
+perma.cc/9MFE-KTNB
+perma.cc/Y2BK-CEL4
+perma.cc/7ZDT-P6JB
 
-https://cpj.org/covid-19/
-
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-
-https://rsf.org/en/togo
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/togo/
-
-https://www.amnesty.org/en/countries/africa/togo/report-togo/
 
 
 
@@ -1274,20 +1280,11 @@ By October 2020, the government is still using chloroquine for treating Covid-19
 No evidence was found on whether chloroquine is still being used by June 2021. We code as 0 for quarters that we no longer found reports of the government using or promoting chloroquine. We do not know if it continued in practice. 
 
 *Sources*:
- https://afrique.le360.ma/maroc-algerie-autres-pays/politique/2020/06/01/30726-covid-19-voici-pourquoi-les-pays-africains-ont-dit-non-loms-et-poursuivent-le
-(1)
-
-https://www.togofirst.com/en/health/2905-5619-covid-19-togo-decides-to-keep-using-chloroquine-to-treat-patients-despite-the-controversy-surrounding-its-efficiency
-(2)
-
-https://tg.usembassy.gov/health-alert-u-s-embassy-lome-togo-july-2-2020/
-(3)
-
-https://www.republicoftogo.com/Toutes-les-rubriques/Sante/Le-melange-chloroquine-hydroxychloroquine-n-est-pas-efficace
-(4)
-
-https://tg.usembassy.gov/health-alert-u-s-embassy-lome-togo-october-15-2020/
-(5)
+ perma.cc/GY8Y-ATWX
+perma.cc/BSB4-PKJ2
+https://web.archive.org/web/20200809212819/https://tg.usembassy.gov/health-alert-u-s-embassy-lome-togo-july-2-2020/
+perma.cc/LE2W-QB9C
+https://web.archive.org/web/20201018174252/https://tg.usembassy.gov/health-alert-u-s-embassy-lome-togo-october-15-2020/
 
 
 
@@ -1333,20 +1330,22 @@ https://tg.usembassy.gov/health-alert-u-s-embassy-lome-togo-october-15-2020/
 No more incidents were found after Q2 of 2020. 
 
 *Sources*:
- https://www.dw.com/fr/lutte-contre-le-coronavirus-au-togo-le-couvre-feu-est-respect%C3%A9-malgr%C3%A9-des-d%C3%A9rapages/a-53026770
-
-https://africanarguments.org/2020/04/21/dictatorships-love-lockdown-coronavirus-togo/
-(2)
+ perma.cc/9SCY-PMVY
 
 
-https://www.africanwomeninlaw.com/post/is-the-virus-a-thief-togolese-women-and-state-violence-in-a-time-of-covid-19
-(3)
+perma.cc/83PK-5TDR
 
-https://togo-online.net/togo/couvre-feu-une-vieille-dame-rouee-de-coups-par-des-militaires/
 
-http://kpatimanews.com/togo-couvre-feu-un-jeune-battu-a-mort-par-les-forces-de-lordre/
+perma.cc/X7HC-8VEJ
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/togo/
+
+perma.cc/ZED4-86EL
+
+
+perma.cc/4RZF-YKZQ
+
+
+perma.cc/CYL3-VRKE
 
 
 
@@ -1388,6 +1387,7 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tog
  A special anti-pandemic force composed of 5,000 men was created by decree, to be responsible for ensuring compliance with the decisions taken in the fight against the Covid-19. ''It will be a mixed force made up of defense and security forces on the model already known by FOSEP.'' 
 
 *Sources*:
- https://presidence.gouv.tg/2020/04/01/adresse-du-chef-de-letat-sem-faure-essozimna-gnassingbe-au-peuple-togolais-sur-la-riposte-nationale-contre-le-covid-19/
+ perma.cc/E7YN-GMUJ
 
-http://apanews.net/en/news/covid-19-togo-declares-state-of-emergency-curfew
+
+perma.cc/EE8W-VPQX

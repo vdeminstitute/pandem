@@ -22,12 +22,19 @@
  There has been no information on security forces engaging in physical violence to execute the emergency measures. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
+ https://perma.cc/8N8D-XTUQ
 
 
-https://rsf.org/en/afghanistan
 
-https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
+
+
+https://perma.cc/E3XQ-ZEV4
+
+
+
+
+
+https://perma.cc/VDV9-RBLW
 
 
 
@@ -52,12 +59,31 @@ https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
  No instances of police or military violence found in Q2 2020, Q3 2020. On 8 December 2020, the police shot a person who violated the curfew and did not obey the police's orders to stop. The police issued a statement that “the police officer did not act according to the law while using his firearm." (1) Since it was a single incident and I found no further cases of police violence in the execution of emergency measures, pomviol is coded as 0 in 2021 (Q1, Q2). 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/343001/albania-protesters-clash-with-security-forces-in-tirana-may-17
-https://www.reuters.com/article/us-health-coronavirus-albania-protests-idUSKBN28J2UU
-(1)
-https://www.garda.com/crisis24/news-alerts/412886/albania-continued-protests-against-police-violence-in-tirana-likely-through-at-least-dec-13
-https://www.euronews.com/2020/12/09/albanian-interior-minister-under-pressure-to-resign-over-police-shooting
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/albania/
+ https://perma.cc/B67H-9E4H
+
+
+
+
+
+https://perma.cc/LZY7-UFDC
+
+
+
+
+
+https://perma.cc/Q439-SKWD
+
+
+
+
+
+https://perma.cc/RBJ9-9WKE
+
+
+
+
+
+https://perma.cc/52RC-6A9V
 
 
 
@@ -83,21 +109,21 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/alb
 However, ''On 24 July 2020, Algerian police arrested 44 people on the grounds of alleged homosexuality. The court found the 44 people guilty of "homosexual relations", "public contempt" and "endangering others by violating the quarantine measures relating to Covid-19". Two men were sentenced to three years in prison and a fine, and the others to one year suspended.''  (2) 
 
 *Sources*:
- https://www.bbc.com/afrique/region-53132555
+ https://perma.cc/9444-MNJ2
 (1)
 
-https://www.hrw.org/fr/news/2020/10/15/algerie-condamnations-collectives-pour-homosexualite
+https://perma.cc/K394-SKG9
 (2)
 
-https://carnegieendowment.org/2020/04/24/coronavirus-threatens-freedom-in-north-africa-pub-81625
+https://perma.cc/B8SL-6KL8
 
-https://www.lematindalgerie.com/matraquage-et-insultes-vulgaires-la-police-reprime-violemment-les-manifestants-alger
+https://perma.cc/48C2-3497
 
-https://www.amnesty.org/en/latest/news/2020/04/algeria-end-repression-against-hirak-activists-and-journalists-amid-covid19/
+https://perma.cc/3FFS-T8CW
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/algeria/
+https://perma.cc/J5KE-SEY9
 
-https://www.hrw.org/world-report/2021/country-chapters/algeria#fb21e4
+https://perma.cc/QW7M-6JXJ
 
 
 
@@ -124,17 +150,27 @@ https://www.hrw.org/world-report/2021/country-chapters/algeria#fb21e4
 Although there are fewer reports,  violence still seems to be common in 2021. Amnesty International and the US Government report on several physical attacks in the implementation of COVID-19 measures. 
 
 *Sources*:
- https://www.voaportugues.com/a/eua-detalham-viola%C3%A7%C3%B5es-de-direitos-humanos-em-angola-mas-elogiam-governo-por-medidas-significativas-/5835182.html
-https://www.dw.com/pt-002/amnistia-internacional-pandemia-fez-aumentar-viola%C3%A7%C3%B5es-aos-direitos-humanos/a-57124133
-https://www.amnesty.org/en/latest/campaigns/2020/08/security-forces-brutality-in-angola/
-https://www.aljazeera.com/news/2020/05/angola-teen-killed-soldier-coronavirus-mask-operation-200516141627616.html
-http://www.angop.ao/angola/pt_pt/noticias/politica/2020/4/21/Covid-Agressao-forcas-defesa-resulta-morte,ae4cdcda-4e37-4a04-a735-ada9ff465bd5.html
-https://ionline.sapo.pt/artigo/691639/covid-19-viol-ncia-policial-em-tempos-de-pandemia-?seccao=Mundo
-https://www.amnesty.org/en/latest/news/2020/04/southern-africa-government-intervention-required-as-millions-face-hunger-under-covid19-lockdown-regimes/
-https://www.dw.com/pt-002/pol%C3%ADcia-angolana-mata-mais-que-o-coronav%C3%ADrus/a-53495843
-https://www.amnesty.org/en/latest/news/2020/08/angola-witnesses-describe-horrific-killings-of-teenagers-by-police/
-https://www.dw.com/pt-002/relat%C3%B3rio-revela-brutalidade-da-pol%C3%ADcia-angolana-durante-estado-de-emerg%C3%AAncia/a-54691312
-https://www.hrw.org/news/2020/11/12/angola-police-fire-peaceful-protesters
+ https://perma.cc/22XD-EQ9E
+
+https://perma.cc/E59X-S34E
+
+https://web.archive.org/web/20200924212058/https://www.amnesty.org/en/latest/campaigns/2020/08/security-forces-brutality-in-angola/
+
+https://perma.cc/BK6L-TVFE
+
+https://web.archive.org/web/20200523025533/http://www.angop.ao/angola/pt_pt/noticias/politica/2020/4/21/Covid-Agressao-forcas-defesa-resulta-morte,ae4cdcda-4e37-4a04-a735-ada9ff465bd5.html
+
+https://perma.cc/82TN-TVSU
+
+https://perma.cc/T3BY-66B5
+
+https://perma.cc/3XM3-UDTH
+
+https://perma.cc/3QLQ-EWHD
+
+https://perma.cc/WTJ3-NB3C
+
+https://perma.cc/3MCV-7J6Y
 
 
 
@@ -160,35 +196,49 @@ https://www.hrw.org/news/2020/11/12/angola-police-fire-peaceful-protesters
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/11/20/argentinas-violent-enforcement-covid-19-rules
+https://perma.cc/ERN6-K6H4
+
 [2]
-https://amnistia.org.ar/amnistia-internacional-alerta-sobre-la-actuacion-de-las-fuerzas-de-seguridad-durante-la-cuarentena-por-el-coronavirus/
+https://perma.cc/SC4X-KKYE
+
 [3]
-https://www.amnesty.org/en/latest/news/2020/05/americas-authorities-must-protect-people-covid19-repressive-measures/
+https://perma.cc/5YTA-VNRN
+
 [4]
-https://elpais.com/sociedad/2020-03-30/violencia-policial-en-argentina-cualquier-delito-incluso-el-asesinato-sera-legal-durante-12-horas.html
+https://perma.cc/J7M2-RGDB
+
 [5]
-https://www.infobae.com/politica/2020/04/01/la-ministra-de-seguridad-critico-los-abusos-de-las-policias-provinciales-en-el-control-de-la-cuarentena-seran-capacitados/
+https://perma.cc/LYK7-6FHA
+
 [6]
-https://www.infobae.com/politica/2020/04/28/coronavirus-en-argentina-preocupacion-en-el-gobierno-por-el-aumento-de-casos-de-abusos-policiales-durante-la-cuarentena/
+https://perma.cc/LEX2-RN4Z
+
 [7]
-https://www.clarin.com/policiales/coronavirus-argentina-denuncian-caso-abuso-policial-alertan-ministro-berni_0_0tXsh84g9.html
+https://perma.cc/Y3MV-68J7
+
 [8]
-https://acnudh.org/argentina-onu-advierte-discriminacion-y-violencia-policial-en-el-chaco/
+https://perma.cc/AX2E-GLN4
+
 [9]
-https://www.infobae.com/sociedad/policiales/2020/08/16/una-ong-afirma-que-durante-la-cuarentena-hubo-92-muertes-perpetradas-por-fuerzas-estatales/
+https://perma.cc/C2SE-HETW
+
 [10]
-https://www.infobae.com/sociedad/policiales/2020/08/16/por-sacar-a-pasear-al-perro-la-policia-intercepto-y-detuvo-con-violencia-a-una-mujer-en-bariloche/
+https://perma.cc/8D9B-XYK4
+
 [11]
-https://www.infobae.com/america/agencias/2020/08/20/argentina-alarma-por-excesos-policiales-en-cuarentena/
+https://perma.cc/GCQ2-NZMG
+
 [12]
-https://www.lanacion.com.ar/seguridad/cuarentena-empresario-la-pampa-denuncio-policias-irrumpieron-nid2413633
+https://perma.cc/YHE7-UNJU
+
 [13]
-https://www.washingtonpost.com/es/post-opinion/2020/11/19/argentina-aislamiento-covid-represion-violencia-brutalidad-policial/
+https://perma.cc/63LQ-DBU8
+
 [14]
-https://www.infobae.com/politica/2021/05/11/video-la-policia-de-formosa-se-llevo-por-la-fuerza-a-un-hombre-con-covid-19-que-queria-hacer-la-cuarentena-en-su-casa/
+https://perma.cc/99AF-NCXQ
+
 [15]
-https://www.hrw.org/es/news/2021/03/26/argentina-formosa-adopta-medidas-abusivas-en-su-respuesta-al-covid-19
+https://perma.cc/X4DC-U622
 
 
 
@@ -213,10 +263,13 @@ https://www.hrw.org/es/news/2021/03/26/argentina-formosa-adopta-medidas-abusivas
  No information found (there is one video of police violence but I haven't found confirmation in more trusted sources, 1). 
 
 *Sources*:
- https://www.hrw.org/europe/central-asia/armenia
-https://www.amnesty.org/en/countries/europe-and-central-asia/armenia/
-https://en.azvision.az/news/125493/-police-violence-in-armenia-against-citizens-not-wearing-face-masks-video-.html
-(1)
+ https://perma.cc/C9PP-Q52J
+
+
+
+
+
+https://perma.cc/FH86-7648
 
 
 
@@ -241,11 +294,13 @@ https://en.azvision.az/news/125493/-police-violence-in-armenia-against-citizens-
  During Q3 of 2020, there are a few incidents of police violence and abusive enforcement reported in the state of Victoria during its lockdown restrictions. Police where given extended authority, and it is reported that the use of force has been excessive in a few instances. However, no evidence of police violence or abusive enforcement has been found in any other time period, or in any other part of Australia. This is therefore coded as 1 in the period Q3 of 2020, and coded 0 otherwise. 
 
 *Sources*:
- https://www.hrw.org/news/2020/09/24/australia-harsh-police-response-during-Covid-19
+ https://perma.cc/5CE6-9XR4
 
-https://humanrights.gov.au/our-work/commission-general/Covid-19-information
-https://www.hrw.org/asia/australia
-https://www.amnesty.org/en/search/?country=38345&resourceType=newsarticle&sort=date
+https://perma.cc/594X-943T
+
+https://perma.cc/H3A2-T7MZ
+
+https://perma.cc/H6EA-WYU9
 
 
 
@@ -270,12 +325,37 @@ https://www.amnesty.org/en/search/?country=38345&resourceType=newsarticle&sort=d
  The EU agency for fundamental rights, Human Rights Watch and Amnesty International make no mention of any physical violence occurring when enforcing the emergency measures, and no other indications of such violence has been found. There have been some large protests against the restrictions, especially during the first quarter of 2021. These have also been violent in parts, but the news reports on this do not report any abusive enforcement or the like. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic-_may_2020.pdf
-https://www.amnesty.org/en/search/?country=38426&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic_july_2020_.pdf
-https://www.hrw.org/news?country[]=9582
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
-https://www.thelocal.at/20210201/vienna-coronavirus-protesters-tried-to-storm-and-occupy-austrian-parliament/
+ https://perma.cc/LZ84-FPAS
+
+
+
+
+
+https://perma.cc/83CA-NRVV
+
+
+
+
+
+https://perma.cc/9XBM-V8EZ
+
+
+
+
+
+https://perma.cc/EGK8-H23P
+
+
+
+
+
+https://perma.cc/JAA5-MUZ6
+
+
+
+
+
+https://perma.cc/HX4K-RMF8
 
 
 
@@ -300,11 +380,11 @@ https://www.thelocal.at/20210201/vienna-coronavirus-protesters-tried-to-storm-an
  Several people were harassed by police as a result of a quarantine raid on 6-8 June 2020. These cases drawn attention of Azerbaijani Ombudsman. This case of police violence happened only once and was extensively covered in local media. I have not found any new information since the end of June 2020.  Assuming that further cases of police violence would be also reported in local media, I coded pomviol as 0 in Q3 2020, Q4 2020, Q1 2021, Q2 2021. 
 
 *Sources*:
- https://www.bbc.com/azeri/azerbaijan-52994225
-https://www.bbc.com/russian/features-53012844
-https://az.sputniknews.ru/life/20200609/424150853/Azerbaijan-ombudsmen-narushiteli-ministr-obrascenie.html
-https://www.kavkaz-uzel.eu/articles/350733/
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/azerbaijan/
+ https://perma.cc/Q7CK-U4RM
+https://perma.cc/EW9J-UKA2
+https://perma.cc/JPZ5-3S8Q
+https://perma.cc/ST2U-TN3E
+https://perma.cc/K89D-M3N9
 
 
 
@@ -331,9 +411,13 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/aze
 There have been no reported cases of security forces engaging in physical violence to execute the emergency measures since the 10-day “general holiday” ended in March 2020. 
 
 *Sources*:
- https://www.dhakatribune.com/bangladesh/2020/03/27/covid-19-police-action-during-social-distancing-draws-flak
+ https://perma.cc/696P-8Y8J
 
-https://tbsnews.net/coronavirus-chronicle/coronavirus-bangladesh/police-enforce-social-distancing-through-humiliation
+
+
+
+
+https://perma.cc/97U6-6NJU
 
 
 
@@ -358,9 +442,9 @@ https://tbsnews.net/coronavirus-chronicle/coronavirus-bangladesh/police-enforce-
  No information found on police violence due to covid-19-related measures. There have been numberous cases of police violence and torture following the presidential elections in August 2020, which are not considered in the coding since it only captures incidents related to covid-19. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/08/belarus-police-must-be-held-accountable-for-violence/
-https://www.amnesty.org/en/latest/news/2020/08/belarus-mounting-evidence-of-a-campaign-of-widespread-torture-of-peaceful-protesters/
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26199&LangID=E
+ https://perma.cc/ET4Y-7PME
+https://perma.cc/N8M8-YQL5
+https://perma.cc/6K5Y-WH2X
 
 
 
@@ -390,33 +474,34 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26199&LangID=E
  The Human Rights League collected allegations of abusive police practices between 18 March and 29 May 2020. In 36% of the cases police allegedly use the force unlawfully, in 21% of the cases they uttered insults. Forty per cent of the victims were racialized people.'' (5, 7) 
 
 *Sources*:
- https://www.enar-eu.org/Evidence-of-the-impact-of-Covid-19-on-racialised-communities-exposes-need-to
+ https://perma.cc/S5UF-M5AD
 (1)
 
-https://www.aljazeera.com/indepth/opinion/police-covid-19-pandemic-excuse-abuse-roma-200511134616420.html
+https://perma.cc/NH6Y-RQQP
 (2)
 
-https://www.aljazeera.com/indepth/opinion/death-toll-coronavirus-pandemic-200430085024188.htmlv
+https://perma.cc/J5Y2-YGES
 (3)
 
-https://www.dw.com/en/covid-19-lockdowns-expose-racial-bias-with-belgian-police/av-53954197
+https://perma.cc/VV2W-SQK8
 (4)
 
-https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
+https://perma.cc/5GX8-MFDL
 (5)
 
-https://www.fairtrials.org/news/commentary-73-000-alleged-covid-19-breaches-belgium-now-time-launch-review
+https://perma.cc/C5U8-RL49
 (6)
 
-https://www.brusselstimes.com/news/belgium-all-news/justice-belgium/118185/lockdown-uncovered-disturbing-pattern-of-racial-bias-in-belgian-police-report/
+https://perma.cc/E7RA-MZAW
 (7)
 
-https://obspol.be/actualite
+https://perma.cc/6Q6F-R5FM
+(8)
 
-https://www.france24.com/en/europe/20210401-belgian-police-clash-with-partiers-over-covid-19-restrictions
+https://perma.cc/UZ7D-2XAY
 (9)
 
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=27052&LangID=E
+https://perma.cc/6L2K-LP6Y
 (10)
 
 
@@ -444,10 +529,10 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=27052&LangID=E
 In April 2020, videos were distributed on social media showing the police beating people for not wearing face masks. For example, ''on 28 April 1010, a video circulated on social media showing a police officer beating a motorbike taxi rider and his female passenger for failing to wear facemasks mandated by Covid-19 enforcement measures. The beating took place on a Cotonou street in the presence of three other officers''. (1,2) 
 
 *Sources*:
- https://www.amnesty.org/en/countries/africa/benin/report-benin/
+ https://perma.cc/L9BW-76ZK
 (1)
 
-https://www.ecoi.net/en/document/2048380.html
+https://perma.cc/H8J4-WSZU
 (2)
 
 
@@ -474,9 +559,10 @@ https://www.ecoi.net/en/document/2048380.html
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/search/?q=&sort=date&country=38275&resourceType=newsarticle
+https://perma.cc/6FSK-J6V9
+
 [2]
-https://www.hrw.org/americas/bolivia
+https://perma.cc/EQ6G-3VMQ
 
 
 
@@ -501,8 +587,8 @@ https://www.hrw.org/americas/bolivia
  No instances of police violence found. No new information found since June 2020. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/bosnia-and-herzegovina/
-https://www.hrw.org/europe/central-asia/bosnia-and-herzegovina
+ https://perma.cc/CS93-XN3E
+https://perma.cc/V96M-ELPP
 
 
 
@@ -528,13 +614,13 @@ https://www.hrw.org/europe/central-asia/bosnia-and-herzegovina
 
 *Sources*:
  [1]
-https://www.bonela.org/index.php?option=com_content&view=article&id=228:15-04-20-bonela-condems-brutality-by-law-enforcement&catid=41:2020&Itemid=246
+https://perma.cc/9M6K-AZD2
 [2]
 http://apanews.net/index.php/en/news/botswana-leader-orders-probe-into-police-abuses-during-lockdown
 [3]
-https://www.hrw.org/africa/botswana
+https://perma.cc/A9CJ-S8LP
 [4]
-https://www.amnesty.org/en/search/?country=38571&resourceType=newsarticle&sort=date
+https://perma.cc/KHY5-LH6X
 
 
 
@@ -560,23 +646,23 @@ https://www.amnesty.org/en/search/?country=38571&resourceType=newsarticle&sort=d
 
 *Sources*:
  [1]
-https://g1.globo.com/sp/sao-carlos-regiao/noticia/2020/04/13/mulher-morde-guarda-municipal-ao-ser-detida-por-caminhar-em-praca-de-araraquara.ghtml
+https://perma.cc/HRM7-ZS7B
 [2]
-https://www.em.com.br/app/noticia/gerais/2020/07/17/interna_gerais,1167809/clientes-aglomerados-restaurante-bh-causam-confusao-guarda-municipal.shtml
+https://perma.cc/Q6PZ-FPD9
 [3]
-https://noticias.uol.com.br/cotidiano/ultimas-noticias/2021/02/14/pm-entra-em-conflito-com-folioes-ao-dispersar-aglomeracao-no-espirito-santo.htm
+https://perma.cc/6U88-ZKN9
 [4]
-https://g1.globo.com/al/alagoas/noticia/2021/02/15/policia-dispara-bala-de-borracha-para-dispersar-aglomeracao-durante-festa-de-aniversario-em-maceio.ghtml
+https://perma.cc/V2ZQ-YNMT
 [5]
-https://g1.globo.com/sp/bauru-marilia/noticia/2021/01/01/pm-dispersa-aglomeracao-com-bombas-de-gas-lacrimogenio-na-noite-do-ano-novo-em-garca.ghtml
+https://perma.cc/H3JT-N9YQ
 [6]
-https://www.cnnbrasil.com.br/nacional/2021/01/01/pm-dispersa-aglomeracao-em-praia-na-riviera-de-sao-lourenco-no-litoral-de-sp
+https://perma.cc/3QT5-C2VN
 [7]
-https://www1.folha.uol.com.br/poder/2021/05/manifestacao-contra-bolsonaro-no-recife-e-encerrada-com-bombas-e-correria-veja-video.shtml
+https://perma.cc/DB9X-LUAN
 [8]
-https://g1.globo.com/jornal-nacional/noticia/2021/06/01/imagens-feitas-por-moradores-do-recife-comprovam-emprego-de-violencia-por-pms-em-protesto-contra-bolsonaro.ghtml
+https://perma.cc/FVE9-SV2Q
 [9]
-https://www.nexojornal.com.br/expresso/2021/05/29/Como-foi-o-protesto-nacional-da-oposi%C3%A7%C3%A3o-contra-Bolsonaro
+https://perma.cc/Q9NW-G4F2
 
 
 
@@ -601,7 +687,7 @@ https://www.nexojornal.com.br/expresso/2021/05/29/Como-foi-o-protesto-nacional-d
  No instances of police violence in the execution of emergeny measures found. 
 
 *Sources*:
- https://www.hrw.org/europe/central-asia/bulgaria
+ https://perma.cc/6L3R-QGQ7
 
 
 
@@ -626,12 +712,8 @@ https://www.nexojornal.com.br/expresso/2021/05/29/Como-foi-o-protesto-nacional-d
  In March 2020 the MBDHP, a local human rights group (Burkinabe Movement for Human and People’s Rights), accused defense and security forces of inflicting acts of torture against offenders of the government’s Covid-19 curfew (1). 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/burkina-faso/
-(1)
-
-https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-
-
+ [1]	perma.cc/W2PG-5GR7
+[2]	perma.cc/4KLQ-4SJV
 
 
 
@@ -657,20 +739,31 @@ https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabil
 Since the 2020-02-01 coup, extensive violence by primarily the police force has occurred, killing hundreds of protesters. Much of the violence has erupted as a result of police enforcing Covid-19 related nightly curfews the new government has upheld (but which were enacted by the previous one). When enforcing these curfews, extensive violence has been used toward protesters who have been active during nighttime. Since this is related to Covid-19 through these curfews, this is coded as 3 for Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/29/pandemic-adds-new-threat-rohingyas-myanmar
+ https://perma.cc/8PHB-B3UQ
 
-https://www.hrw.org/news?country[]=9543
 
-https://www.amnesty.org/en/search/?country=38380&resourceType=newsarticle&sort=date
+https://perma.cc/6MPK-G7XK
 
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25838&LangID=E
 
-https://thediplomat.com/2020/09/racism-is-fueling-myanmars-deadly-second-wave-of-Covid-19/
-https://www.bbc.com/news/world-asia-56265962
-https://www.pbs.org/newshour/world/myanmar-protesters-venture-out-despite-police-violence
-https://www.npr.org/2021/03/07/974588707/violence-continues-in-myanmar-as-police-enforce-curfew-and-occupy-hospitals?t=1621538707621
+https://perma.cc/8X4S-3BWH
 
-https://www.reuters.com/news/picture/myanmar-protesters-defy-curfew-as-police-idUSKBN2B01QT
+
+https://perma.cc/6VH6-QQJ9
+
+
+https://perma.cc/XC7P-S94E
+
+
+https://perma.cc/753W-GA7G
+
+
+https://perma.cc/7AEC-W6YW
+
+
+https://perma.cc/C6CK-6MVS
+
+
+https://perma.cc/82KS-HHXT
 
 
 
@@ -695,12 +788,9 @@ https://www.reuters.com/news/picture/myanmar-protesters-defy-curfew-as-police-id
  No incidents found. There has been incidents of police violence but these are related to the May 2020 elections. 
 
 *Sources*:
- https://www.aa.com.tr/en/africa/burundi-election-campaigns-start-amid-virus-violence/1820023
-
-
-https://www.amnesty.org/en/latest/news/2020/04/burundi-election-campaigns-kick-off-amid-covid19-harassment-and-tension/
-
-https://apnews.com/540a6cb0d64f38cec2692e617d76dffc
+ [1]	perma.cc/YA8D-4394
+[2]	perma.cc/6LSP-4VUV
+[3]	perma.cc/TMH9-5FGK
 
 
 
@@ -725,17 +815,22 @@ https://apnews.com/540a6cb0d64f38cec2692e617d76dffc
  Multiple police officers used batons, sticks and rattan canes to chase and beat civilians who were violating the stay home order during the 14 day lockdown in Phnom Penh in April 2021. 
 
 *Sources*:
- https://www.rfa.org/english/news/cambodia/beatings-04212021180816.html
+ https://perma.cc/BF6H-23P4
 
-https://www.reuters.com/world/asia-pacific/cambodia-police-defend-caning-lockdown-offenders-breaching-covid-19-rules-2021-04-21/
 
-https://www.voacambodia.com/a/sar-kheng-issues-warning-against-police-using-violence-in-lockdown-/5862862.html
+https://perma.cc/M4ZU-XB72
 
-https://rsf.org/en/cambodia
 
-https://www.hrw.org/asia/cambodia
+https://perma.cc/6F5Y-NF57
 
-https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia
+
+https://perma.cc/73YX-9G35
+
+
+https://perma.cc/KG9B-LWJV
+
+
+https://perma.cc/8RKJ-B738
 
 
 
@@ -769,27 +864,15 @@ Although violence is ongoing in September 2020, this is related to the December 
 No more incidents of Covid-19-related police violence were found in Q3, Q4 of 2020 and Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.hrw.org/news/2020/09/21/cameroon-heightened-crackdown-opposition
-(1)
-
-
-https://www.hrw.org/world-report/2021/country-chapters/cameroon
-(2)
-
-https://www.voanews.com/covid-19-pandemic/cameroon-police-force-muslims-follow-covid-19-restrictions-ramadan
-
-
-https://allafrica.com/stories/202004250004.html
-
-https://www.voanews.com/covid-19-pandemic/cameroon-arrests-people-without-masks-covid-19-cases-increase
-
-https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
-
-https://www.voaafrique.com/a/cameroun-interdiction-dons-coronavirus-kamto/5436452.html
-
-https://www.hrw.org/news/2020/05/14/covid-19-brings-out-governments-ugly-side-cameroon
-
-http://www.rfi.fr/fr/afrique/20200513-cameroun-opposants-luttant-contre-le-coronavirus-toujours-en-garde-%C3%A0-vue
+ [1]	perma.cc/QD4T-5ZWY
+[2]	perma.cc/7F74-WCPX
+[3]	perma.cc/UH82-72ZC
+[4]	perma.cc/R5Y5-AAQN
+[5]	perma.cc/8ATP-W89J
+[6]	perma.cc/PLT3-T458
+[7]	perma.cc/8R68-DANV
+[8]	perma.cc/B8ZF-R77R
+[9]	perma.cc/QCN5-PBNH
 
 
 
@@ -814,8 +897,10 @@ http://www.rfi.fr/fr/afrique/20200513-cameroun-opposants-luttant-contre-le-coron
  Human Rights Watch and Amnesty International have not reported any cases of police or military violence when executing emergency measures, and no other indications of such violence has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9511
-https://www.amnesty.org/en/search/?country=38279&resourceType=newsarticle&sort=date
+ https://perma.cc/NFL4-XJAL
+
+
+https://perma.cc/P55J-FZSR
 
 
 
@@ -840,10 +925,12 @@ https://www.amnesty.org/en/search/?country=38279&resourceType=newsarticle&sort=d
  No incidents found. There have been incidents of police violence but these are related to the 2020 elections and the security situation. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/central-african-republic/
-
-https://www.reuters.com/article/us-health-coronavirus-africa-police/in-parts-of-africa-police-are-accused-of-excess-force-amid-coronavirus-lockdowns-idUSKCN21S0M92
-https://www.un.org/press/fr/2020/cs14331.doc.htm
+ [1]
+perma.cc/9AY2-QTMZ
+[2]
+https://perma.cc/6PUT-9NHK
+[3]
+perma.cc/CTE5-6DK6
 
 
 
@@ -870,19 +957,11 @@ https://www.un.org/press/fr/2020/cs14331.doc.htm
 There have been several incidents of police brutality in April 2021 and May 2021 in Chad, with lethal outcomes, but they are relared to the elections and directed against the opposition supporters. (5) 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/404896/chad-security-forces-arrest-dozens-during-demonstration-in-ndjamena-november-27
-
-
-http://www.laltdh.org/pdf/rapport_violations_dh_covid19.pdf
-
-https://www.voaafrique.com/a/les-tchadiens-d%C3%A9noncent-l-abus-policier-en-ce-temps-de-lutte-contre-le-covid-19-/5366236.html
-
-https://www.hrw.org/news/2021/04/08/chad-pre-election-crackdown-opponents#
-
-https://www.civicus.org/index.php/media-resources/news/5074-chad-stop-violence-against-peaceful-protesters-and-respect-democratic-rights-of-chadians
-(5)
-
-
+ https://perma.cc/H2Q3-NNK5
+https://perma.cc/3MPT-SJF3
+https://perma.cc/TN9C-AYRA
+https://perma.cc/SQ43-8RN2
+https://perma.cc/4WZL-9Y9J
 
 
 
@@ -908,11 +987,11 @@ https://www.civicus.org/index.php/media-resources/news/5074-chad-stop-violence-a
 
 *Sources*:
  [1]
-https://www.theguardian.com/global-development/2020/aug/26/chile-police-covid-19-quarantine-protest
+https://perma.cc/A3JB-LGBY
 [2]
-https://monitor.civicus.org/updates/2020/06/29/chilean-police-forces-disrupt-and-repress-protests-covid-19/
+https://perma.cc/NV9H-ALUL
 [3]
-https://www.theguardian.com/world/2020/oct/14/calls-grow-for-radical-reform-of-chiles-national-police-force
+https://perma.cc/65R2-XMTY
 
 
 
@@ -937,7 +1016,7 @@ https://www.theguardian.com/world/2020/oct/14/calls-grow-for-radical-reform-of-c
  Beginning in August 2020, there have been reports of people being handcuffed to railings on the street for violating lockdown measures in the Xinjiang region. 
 
 *Sources*:
- https://apnews.com/article/c1e81496be87b9a289aefe7345479949
+ https://perma.cc/7NVW-FXKP
 
 
 
@@ -963,19 +1042,21 @@ https://www.theguardian.com/world/2020/oct/14/calls-grow-for-radical-reform-of-c
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/latest/news/2020/09/colombia-amnistia-condena-tortura-uso-excesivo-fuerza/
+https://perma.cc/23YC-GDTX
 [2]
-https://unperiodico.unal.edu.co/pages/detail/el-uso-de-la-fuerza-en-medio-del-estado-de-emergencia/
+https://perma.cc/QLE9-YLSQ
 [3]
-https://www.eldiario.es/sociedad/Colombia-rechaza-agresion-policias-Bogota_0_1029598201.html
+https://perma.cc/SG3A-N84M
+
 [4]
-https://www.eltiempo.com/colombia/otras-ciudades/en-video-policia-agrede-a-un-hombre-en-cucuta-por-no-utilizar-tapabocas-505424
+https://perma.cc/2P28-UTJ8
 [5]
-https://www.bbc.com/mundo/noticias-america-latina-54095677
+
+https://perma.cc/YP2G-D48S
 [6]
-https://www.reuters.com/article/colombia-protestas-idLTAKCN26C2WR
+https://perma.cc/7N89-BGXQ
 [7]
-https://www.nytimes.com/es/2021/05/12/espanol/protestas-colombia-policia.html
+https://perma.cc/K3P8-AJYL
 
 
 
@@ -1001,9 +1082,9 @@ https://www.nytimes.com/es/2021/05/12/espanol/protestas-colombia-policia.html
 
 *Sources*:
  [1]
-https://www.clarin.com/internacional/video-momento-policia-dispara-surfers-rompieron-cuarentena-coronavirus_3_yiVGvACtq.html
+https://perma.cc/M39U-LEGK
 [2]
-https://www.lateja.cr/sucesos/video-seguridad-investiga-supuestos-disparos-al/HWH5BB4B5FAATD2SCMAOD3V2YI/story/
+https://perma.cc/Z67Z-BZCM
 
 
 
@@ -1030,19 +1111,15 @@ https://www.lateja.cr/sucesos/video-seguridad-investiga-supuestos-disparos-al/HW
 There is no evidence that the attacks stopped in 2021. 
 
 *Sources*:
- https://www.hrw.org/europe/central-asia/croatia
-https://www.borderviolence.eu/annual-torture-report-2020/
-
-
-
-https://www.theguardian.com/global-development/2020/may/28/they-made-crosses-on-our-heads-refugees-report-abuse-by-croatian-police
-(1)
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25976&LangID=E
-https://www.amnesty.org/en/latest/news/2020/06/croatia-fresh-evidence-of-police-abuse-and-torture-of-migrants-and-asylumseekers/
-https://www.hrw.org/news/2020/10/29/violent-pushbacks-croatia-border-require-eu-action
-https://www.amnesty.org/en/latest/news/2020/06/croatia-prosecution-of-police-accused-of-beating-migrant-must-herald-end-of-cruel-practices-at-the-borders/
-https://www.amnesty.org/en/latest/news/2020/11/eu-inquiry-into-european-complicity-in-croatian-border-violence-against-migrants-and-refugees-significant/
-https://www.theguardian.com/global-development/2020/oct/21/croatian-police-accused-of-sickening-assaults-on-migrants-on-balkans-trail-bosnia
+ [1]	perma.cc/VZ9P-FXPR
+[2]	perma.cc/Y3VY-AEGL
+[3]	perma.cc/H7PJ-XNZB
+[4]	perma.cc/9PZK-BWCN
+[5]	perma.cc/FQK2-R89Z
+[6]	perma.cc/5KKF-RAHL
+[7]	perma.cc/J3SW-6NU7
+[8]	perma.cc/KM3N-SGTA
+[9]	perma.cc/USV9-4PDR
 
 
 
@@ -1068,13 +1145,13 @@ https://www.theguardian.com/global-development/2020/oct/21/croatian-police-accus
 
 *Sources*:
  [1]
-https://www.diariolasamericas.com/america-latina/denuncian-que-policia-cuba-aumenta-abusos-el-covid-19-n4203056
+https://perma.cc/Q5MF-LNXP
 [2]
-https://www.hrw.org/news/2020/12/07/cuba-covid-19-rules-used-intensify-repression
+https://perma.cc/X28N-BHHU
 [3]
-https://diariodecuba.com/cuba/1594716069_23585.html
+https://perma.cc/Y3DC-PRVH
 [4]
-https://www.hrw.org/news/2020/07/28/cuba-protest-over-police-killing-suppressed
+https://perma.cc/VA8M-PXHB
 
 
 
@@ -1099,8 +1176,8 @@ https://www.hrw.org/news/2020/07/28/cuba-protest-over-police-killing-suppressed
  No instances of police violence in the execution of the emergency measures found since 11 March 2020. 
 
 *Sources*:
- https://www.hrw.org/europe/central-asia/czech-republic
-https://www.amnesty.org/en/countries/europe-and-central-asia/czech-republic/
+ [1]	perma.cc/KZH9-Y72L
+[2]	perma.cc/KK8Q-CBG3
 
 
 
@@ -1135,25 +1212,17 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/czech-republic/
 ''On 9 June 2020, Kinshasa police used live fire to disperse merchants at the Central Market in Kinshasa. The merchants were trading despite the mandated closure of the market due to the Covid-19 pandemic. Two people were reportedly killed during the police intervention, although it is not immediately clear if they were shot or trampled by the crowd. The interior minister has halted the cleanup of the market pending an investigation into the incident.'' 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/democratic-republic-of-the-congo/
-(1)
+ https://perma.cc/Y4PK-NMYV
+https://perma.cc/57M2-WMXJ
+https://perma.cc/9U3Q-KAPB
 
-https://www.hrw.org/world-report/2021/country-chapters/democratic-republic-congo
-(2)
+https://perma.cc/J5KY-L536
+https://perma.cc/6PUT-9NHK
 
-https://congoinconversation.fondationcarmignac.com/2020/05/27/masks-ward-off-police-harassment-and-coronavirus/
-
-https://www.icrc.org/en/document/icrc-response-covid-19-democratic-republic-congo
-
-https://www.reuters.com/article/us-health-coronavirus-africa-police/in-parts-of-africa-police-are-accused-of-excess-force-amid-coronavirus-lockdowns-idUSKCN21S0M92
-
-https://www.hrw.org/news/2020/04/03/dr-congo-respecting-rights-key-amid-covid-19
-
-https://twitter.com/StanysBujakera/status/1244182350860353538?s=20
-
-https://www.garda.com/crisis24/news-alerts/349186/drc-police-use-live-fire-to-disperse-merchants-at-kinshasa-market-closed-amid-covid-19-june-9
-
-https://www.garda.com/crisis24/news-alerts/362081/drc-authorities-lift-covid-19-state-of-emergency-july-22-update-19
+https://perma.cc/HMQ3-V5M8
+https://web.archive.org/web/20200329084640/https://twitter.com/StanysBujakera/status/1244182350860353538
+https://perma.cc/C8UE-VWDT
+https://perma.cc/C8HT-SXSX
 
 
 
@@ -1178,18 +1247,28 @@ https://www.garda.com/crisis24/news-alerts/362081/drc-authorities-lift-covid-19-
  Neither Human Rights Watch, Amnesty International nor EU agency for fundamental rights have reported any incidents of violence in enforcing emergency measures. There have been a couple of larger demonstrations on restrictions against Covid-19 during Q1 and Q2 of 2021, but no indication has been found that police have used excessive force during these. This is therefore coded 0 for all periods. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38444&resourceType=newsarticle&sort=date
+ https://perma.cc/B6NT-RVLA
 
-https://www.hrw.org/sitesearch?search=Denmark
 
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_july_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+https://perma.cc/TZP2-LK7K
 
-https://www.thelocal.dk/20210110/nine-arrested-in-denmark-after-anti-lockdown-violence/
 
-https://www.garda.com/crisis24/news-alerts/478396/denmark-anti-lockdown-activists-to-rally-at-copenhagen-city-hall-on-may-15 
+https://perma.cc/52KW-WNEN
+
+
+https://perma.cc/QHF7-XXMJ
+
+
+https://perma.cc/4KTT-76YT
+
+
+https://perma.cc/4BXF-Y5PE
+
+
+https://perma.cc/4UNL-GGUM
+
+
+https://perma.cc/VP7K-LZE5
 
 
 
@@ -1215,9 +1294,9 @@ https://www.garda.com/crisis24/news-alerts/478396/denmark-anti-lockdown-activist
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/latest/news/2020/05/americas-authorities-must-protect-people-covid19-repressive-measures/
+https://perma.cc/B7TW-KGB4
 [2]
-https://lta.reuters.com/article/idLTAKCN229235
+https://perma.cc/5YSW-WZRM
 
 
 
@@ -1243,17 +1322,17 @@ https://lta.reuters.com/article/idLTAKCN229235
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/05/25/police-beat-and-injure-ecuadors-covid-19-protesters
+https://perma.cc/6TX3-KB8X
 [2]
-https://www.hrw.org/news/2020/06/19/ecuador-limit-use-force-armed-forces
+https://perma.cc/HQ5D-KK9T
 [3]
-https://www.elcomercio.com/actualidad/investigacion-fiscalia-maltratos-militares-coronavirus
+https://perma.cc/L7F4-SWAE
 [4]
-https://www.aa.com.tr/es/mundo/denuncian-violencia-contra-polic%C3%ADas-que-vigilan-toque-de-queda-por-coronavirus-en-ecuador/1817870
+https://perma.cc/62YV-HYHK
 [5]
-https://www.hrw.org/es/news/2020/05/25/policias-golpean-manifestantes-en-protesta-por-la-covid-19-en-ecuador
+https://perma.cc/GQF9-UBVH
 [6]
-https://www.elcomercio.com/actualidad/ecuador/detenidos-restricciones-tungurahua-agresiones-covid.html
+https://perma.cc/T4D2-NB5F
 
 
 
@@ -1278,16 +1357,17 @@ https://www.elcomercio.com/actualidad/ecuador/detenidos-restricciones-tungurahua
  There have been a few cases of security forces engaging in non-lethal violence. Egyptian police fired tear gas on 11 April 2020 to disperse a crowd of people who gathered in a village near the Nile Delta to prevent the burial of a doctor who died of coronavirus. I did not find cases of security force engaging in physical violence to enforce the emergency measures in 2021. Hence I have coded Q1 and Q2 of 2021 as 0. 
 
 *Sources*:
- https://www.reuters.com/article/us-health-coronavirus-egypt/egyptian-police-disperse-villagers-who-stopped-burial-of-doctor-killed-by-coronavirus-idUSKCN21T0V5
+ https://perma.cc/5HQN-2PBJ
 
-https://www.voanews.com/middle-east/egypt-tightens-coronavirus-restrictions-eid-holiday
 
-https://www.garda.com/crisis24/news-alerts/331661/egypt-police-disperse-crowd-with-tear-gas-and-arrest-multiple-in-shubra-al-bahw-dakahlia-governorate-april-11
+https://perma.cc/LX7W-BTNN
 
-thailand
-journalists
-harass
-covid
+
+
+https://perma.cc/8PPV-UNXU
+
+
+
 
 
 
@@ -1313,15 +1393,23 @@ covid
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/15/el-salvador-police-abuses-covid-19-response
+https://perma.cc/LAT9-V74P
+
+
 [2]
-https://www.elsalvador.com/eldiariodehoy/violencia-coronavirus-covid-19-violacion-derechos-humanos-policia/725821/2020/
+https://perma.cc/HV6Y-CNXL
+
+
 [3]
-https://www.amnesty.org/en/latest/news/2020/10/represion-militarizacion-seguridad-publica-el-salvador/
+https://perma.cc/897D-EU7J
+
+
 [4]
-https://www.amnesty.org/en/latest/news/2020/10/amnesty-international-artist-erik-ravelo-demand-solutions-repression/
+https://perma.cc/8HS6-8B5H
+
+
 [5]
-https://www.swissinfo.ch/spa/coronavirus-el-salvador_estudio-se%C3%B1ala--exceso-de-normas-abusivas--durante-cuarentena-en-el-salvador/46402290
+https://perma.cc/L9R4-2AAG
 
 
 
@@ -1346,17 +1434,9 @@ https://www.swissinfo.ch/spa/coronavirus-el-salvador_estudio-se%C3%B1ala--exceso
  No evidence was found that indicates that security forces, such as the civilian police or military, has engaged in physical violence to execute the emergency measures. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/africa/eritrea/
-
-
-
-https://www.hrw.org/africa/eritrea
-
-
-
-https://www.bbc.com/news/topics/cz4pr2gdgjyt/eritrea
-
-
+ [1]	perma.cc/34HX-FVF4
+[2]	perma.cc/5TF4-V49Y
+[3]	perma.cc/9NMJ-L83F
 
 
 
@@ -1382,17 +1462,17 @@ https://www.bbc.com/news/topics/cz4pr2gdgjyt/eritrea
 
 *Sources*:
  [1]
-https://www.bbc.com/news/topics/cwlw3xz047jt/ethiopia
+perma.cc/24XY-EAZ5
 [2]
-https://www.hrw.org/africa/ethiopia
+perma.cc/GVH2-8T8V
 [3]
-https://www.amnesty.org/en/countries/africa/ethiopia/
+perma.cc/7W9U-MN9J
 [4]
-https://web.archive.org/web/20200824025702/https://www.nytimes.com/reuters/2020/08/20/world/africa/20reuters-ethiopia-protests.html
+perma.cc/W2V7-XFT7
 [5]
-https://www.washingtonpost.com/world/africa/at-least-17-killed-in-political-unrest-in-southern-ethiopia/2020/08/13/e0506862-dd80-11ea-b4f1-25b762cdbbf4_story.html
+perma.cc/P5F8-G3P8
 [6]
-https://apnews.com/11f27003ca7eaaa74e087597eb73ded9
+perma.cc/EBC8-9RFG
 
 
 
@@ -1417,12 +1497,13 @@ https://apnews.com/11f27003ca7eaaa74e087597eb73ded9
  Human Rights Watch, Amnesty International and EU agency of fundamental righs have not reported any violence when enforcing emergency measures. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38449&resourceType=newsarticle&sort=date
-https://www.hrw.org/sitesearch?search=Finland
+ https://perma.cc/LZ79-3YPL
 
 
-https://fra.europa.eu/sites/default/files/fra_uploads/fi_report_on_coronavirus_pandemic_july_2020.pdf
- 
+https://perma.cc/3PAV-R4S4
+
+
+https://perma.cc/QKW2-6A26
 
 
 
@@ -1454,32 +1535,17 @@ Amnesty International verified 15 videos of instances of unlawful use of force a
  ''There are several cases of police brutality in the context of Covid-19 and to date two people from racialised groups have died at the hands of the police, in France and in Belgium. (Mohamed Gabsi, 33 years old, who died on 8 April 2020 in France.)'' (1) 
 
 *Sources*:
- https://www.enar-eu.org/Evidence-of-the-impact-of-Covid-19-on-racialised-communities-exposes-need-to
-(1)
+ https://perma.cc/S5UF-M5AD
+https://perma.cc/5GX8-MFDL
+https://perma.cc/AVY5-4M6S
 
-https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-(2)
-
-https://www.euronews.com/2020/05/07/amnesty-slams-alleged-police-brutality-in-french-lockdown-enforcement
-
-https://www.independent.co.uk/news/world/europe/police-abuse-brutality-racism-lockdown-protests-france-paris-a9556386.html
-
-http://www.rfi.fr/en/france/20200512-covid19-france-paris
-
-
-https://www.justiceinitiative.org/newsroom/amid-covid-19-lockdown-justice-initiative-calls-for-end-to-excessive-police-checks-in-france
-
-
-https://www.dw.com/en/in-lockdown-migrants-in-france-up-against-pandemic-police-abuse/a-53334045
-
-https://www.dw.com/en/paris-police-officers-suspended-over-beating-of-black-man/a-55737900
-(8)
-
-https://abcnews.go.com/International/wireStory/paris-police-suspended-beating-black-man-74416095
-(9)
-
-https://www.euronews.com/2021/04/11/covid-19-20-arrested-in-anti-measures-protests-in-finland-denmark-norway
-(10)
+https://perma.cc/XRG4-HHGT
+https://perma.cc/JT5E-JQTH
+https://perma.cc/AHT8-S6J6
+https://perma.cc/M8LQ-GZQL
+https://perma.cc/85MA-GRS8
+https://perma.cc/56KH-FWXM
+https://perma.cc/C8AM-PDP9
 
 
 
@@ -1504,9 +1570,10 @@ https://www.euronews.com/2021/04/11/covid-19-20-arrested-in-anti-measures-protes
  No incidents reported. 
 
 *Sources*:
- https://www.france24.com/en/20200328-virus-prevention-measures-turn-violent-in-parts-of-africa
+ perma.cc/GYW3-87BJ
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gabon/
+
+perma.cc/B9TT-VY99
 
 
 
@@ -1531,8 +1598,10 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gab
  No instances of police violence in the execution of the emergency measures found since 11 March 2020. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/georgia/
-https://www.hrw.org/europe/central-asia/georgia
+ perma.cc/2FPV-EV7N
+
+
+perma.cc/SBJ8-Y6R8
 
 
 
@@ -1557,11 +1626,19 @@ https://www.hrw.org/europe/central-asia/georgia
  Neither Human Rights Watch, Amnesty International nor EU agency for fundamental rights have reported any incidents of violence in enforcing emergency measures. Germany has seen many protests toward Covid-19 restrictions, many of which have turned violent. Police have responded to the violence, arresting individuals and using measures such as water cannons and pepper spray. However, none of this has been reported as excessive force or enforcing the restrictions violently. This is therefore coded 0 for all periods. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9597
-https://www.amnesty.org/en/search/?country=38455&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_july_2020.pdf
-https://www.dw.com/en/germany-anti-lockdown-protest-turns-violent-in-kassel/a-56938225 
+ https://perma.cc/N78Q-QEQF
+
+
+https://perma.cc/A2WF-R8YX
+
+
+https://perma.cc/FW7Y-GFRK
+
+
+https://perma.cc/J8EH-VRHD
+
+
+https://perma.cc/7SB8-Z6LB
 
 
 
@@ -1591,22 +1668,21 @@ There are no further cases reported.
 
 *Sources*:
  [1]
-https://rsf.org/en/news/ghana-urged-ensure-safety-reporters-covering-covid-19
+perma.cc/6NCW-4WSY
 [2]
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
+perma.cc/H52P-MTE7
 [3]
-https://cpj.org/2020/04/in-ghana-soldiers-enforcing-covid-19-restrictions/
+perma.cc/F45L-VCPQ
 [4]
-https://rsf.org/en/ghana
+perma.cc/DB7G-RAJU
 [5]
-https://cpj.org/africa/ghana/
+perma.cc/8Y2S-8PQA
 [6]
-http://ipi.media/ghana/
+perma.cc/66P6-4VKC
 [7]
-https://www.hrw.org/africa/ghana
+perma.cc/B8UG-SB8W
 [8]
-https://www.amnesty.org/en/countries/africa/ghana/
-
+perma.cc/6M96-EZXP
 
 
 
@@ -1638,50 +1714,44 @@ Police violence and citizens' reactions against it peaked after the police attac
 ''Reports surfaced about police excessive use of force and illtreatment against people who gathered in Athens and Thessaloniki. Reported misuse of chemical irritants by police, beatings, verbal abuse and threats by riot police as well as police officers belonging to the DRASIS force. According to witnesses, the police transferred people in police station without measures taken to protect them from Covid-19 infection, not allowed to contact their lawyers for several hours and did not receive medical assistance for their injuries.'' (16) 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
+ perma.cc/4JRC-9N5J
 (1)
 
-https://www.ekathimerini.com/252406/article/ekathimerini/news/covid-concern-after-police-break-up-outdoor-gatherings
+perma.cc/Y2WF-2VV3
 (2)
 
-https://www.voanews.com/covid-19-pandemic/greek-police-tackle-corona-parties-government-eases-lockdown
+perma.cc/U3TF-M7LH
 (3)
 
-https://balkaninsight.com/2020/05/14/in-pandemic-era-greece-fighting-for-control-of-the-square/
+perma.cc/Q4L5-J6DW
 (4)
 
-https://apnews.com/article/virus-outbreak-greece-archive-athens-cc3101f260cdaba90098d209c2ab0d36
+perma.cc/T698-PYBD
 (5)
 
-https://apnews.com/article/thessaloniki-health-coronavirus-pandemic-athens-greece-e3ee760eb7362cff75b78c6faf21d2c4
+perma.cc/XQR3-KUY5
 (6)
-
-https://www.aljazeera.com/news/2020/11/16/greek-protests-coronavirus
+perma.cc/9P97-T6CP
 (7)
 
-https://www.aa.com.tr/en/europe/over-100-demonstrators-detained-in-greek-capital/2067702
-
-https://www.aljazeera.com/news/2020/12/6/greek-police-arrest-dozens-at-march-in-memory-of-slain-teen
-
-https://www.ekathimerini.com/news/1156869/police-officer-suspended-after-man-beaten-during-covid-19-checks/
+perma.cc/L3FT-GMJC
+(8)
+perma.cc/4VX3-UHLK
+(9)
+perma.cc/F4K2-NJ7W
 (10)
-
-https://civicspacewatch.eu/greece-restrictions-to-public-gatherings-and-police-violence-threaten-right-to-peaceful-assembly-during-covid-19/
+perma.cc/GW7K-CBXS
 (11)
-
-https://www.reuters.com/article/us-greece-protests-idUSKBN2B2246
+perma.cc/J2DT-F8WQ
 (12)
 
-https://www.ethnos.gr/ellada/148870_astynomiki-bia-diarkeias-kanoyn-ede-kai-toys-bgazoyn-ladi
+perma.cc/LRU3-MVAH
 (13)
-
-https://thepressproject.gr/to-propo-eklise-ta-matia-stin-astynomiki-via-stin-kypseli-ke-anakalypse-senaria-pagidefsis-ton-astynomikon/
+perma.cc/E67W-JWFU
 (14)
-
-https://thepressproject.gr/eisvoli-astynomikon-kai-via-mesa-se-polykatoikia-kynigontas-politi-pou-cheirokrotise-eironika/
+perma.cc/3NZJ-KKUX
 (15)
-
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+perma.cc/PF4V-UEY6
 (16)
 
 
@@ -1708,7 +1778,7 @@ https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%
 
 *Sources*:
  [1]
-https://www.prensalibre.com/guatemala/comunitario/dia-de-la-libertad-de-prensa-apg-revela-informe-sobre-libertad-de-expresion-en-guatemala/
+perma.cc/V463-K7WX
 
 
 
@@ -1740,22 +1810,14 @@ In May 2020, six protesters died in Guinea during clashes with the police, where
 In Q3, Q4 of 2020 and Q1 and Q2 of 2021, no more incidents of police brutality were found related to enforcing Covid-19 measures. There are however several occasions of police brutality directed to opposition party members and civil society activists. (see 2, 3) 
 
 *Sources*:
- https://www.aljazeera.com/news/2020/05/guinea-protesters-killed-clashes-police-200513071249521.html
-(1)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/guinea/
-(2)
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-(3)
-
-https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
-
-https://www.africanews.com/2020/05/15/covid-19-guinean-security-forces-accused-of-violence//
-
-https://www.hrw.org/fr/news/2020/04/29/guinee-le-respect-des-droits-humains-est-essentiel-dans-la-lutte-contre-le-covid-19
-
-https://reliefweb.int/report/guinea/guinea-respecting-rights-key-amid-covid-19
+ perma.cc/U5YZ-YWHZ
+perma.cc/U49M-T7KT
+perma.cc/5WB4-6ZGN
+[4]
+https://web.archive.org/web/20200330075009/https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
+perma.cc/CC4Q-Z9LQ
+perma.cc/T5EH-M2HP
+perma.cc/QT29-YUVC
 
 
 
@@ -1789,12 +1851,11 @@ The RNDDH reported police made verbal threats against citizens for violating Cov
 No more incidents were found after Q2 of 2020. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/haiti/
+ perma.cc/3AZE-JYJP
 (1)
 
-https://www.france24.com/en/20200328-virus-prevention-measures-turn-violent-in-parts-of-africa
-
-https://peoplesdispatch.org/2020/05/19/mismanagement-of-pandemic-by-haitian-president-jovenel-moise-fuels-latest-protests-demanding-his-resignation/
+perma.cc/8LTZ-L8EV
+perma.cc/5VAM-RCLG
 
 
 
@@ -1820,23 +1881,23 @@ https://peoplesdispatch.org/2020/05/19/mismanagement-of-pandemic-by-haitian-pres
 
 *Sources*:
  [1]
-http://defensoresenlinea.com/wp-content/uploads/2020/04/INFORME-COFADEH-DDHH-Y-COVID-19-1.pdf
+perma.cc/28RA-BNXG
 [2]
-https://monitor.civicus.org/updates/2020/05/22/honduras-undue-restrictions-expression-and-police-abuse-emergency-powers-during-covid-19/
+perma.cc/R6GA-8VWC
 [3]
-https://oacnudh.hn/oacnudh-llama-a-que-las-autoridades-investiguen-denuncias-de-uso-excesivo-de-la-fuerza-y-tomen-medidas-para-prevenir-su-repeticion/
+perma.cc/WX4A-W46F
 [4]
-https://www.dw.com/es/polic%C3%ADa-de-honduras-lanza-gas-lacrim%C3%B3geno-en-un-bus-lleno-de-personas/a-54563771
+perma.cc/UM5R-DB28
 [5]
-https://www.bbc.com/mundo/noticias-america-latina-54257555
+perma.cc/LW26-75RE
 [6]
-https://www.eldiario.es/desalambre/trabajadoras-atacadas-iban-tejer-mascarillas-orden-gobierno-hondureno-atacadas-policia-senti-saldriamos-volando-pedazos_130_6474480.html
+perma.cc/8F5A-483G
 [7]
-https://www.bbc.com/mundo/noticias-america-latina-56004728
+perma.cc/NKL9-GH97
 [8]
-https://www.amnesty.org/en/latest/news/2021/02/honduras-muerte-keyla-martinez-exige-investigacion-exhaustiva/
+perma.cc/73UV-S5EM
 [9]
-https://www.france24.com/en/live-news/20210212-global-calls-to-probe-violent-death-of-honduras-nurse-5-others
+perma.cc/3DDT-BL69
 
 
 
@@ -1861,13 +1922,16 @@ https://www.france24.com/en/live-news/20210212-global-calls-to-probe-violent-dea
  There are several reports of law enforcement cracking down on protesters and pro-democracy organizations, but none of these have been found to be in relation to Covid-19 restrictions, or legitimized by them. Rather, such measures have been referenced to other legal instruments, not least the National Security Law when it came into effect on 2020-06-30. No evidence has thus been found that any police violence has occured in relation to the Covid-19 measures, and this is therefore coded as 0. 
 
 *Sources*:
- https://www.hrw.org/news?tags[]=5629
-https://www.hrw.org/news/2020/08/11/china/hong-kong-mass-arrests-under-security-law
+ https://perma.cc/GC4V-G4JL
 
-https://www.amnesty.org/en/search/?q=Hong+Kong&sort=date
 
-https://www.hrw.org/news/2020/11/19/still-no-accountability-hong-kongs-police-force
-https://www.amnesty.org/en/latest/news/2021/01/hong-kong-mass-arrest-of-opposition-figures-highlights-repressive-power-of-national-security-law/
+https://perma.cc/8DWX-G97Q
+
+
+https://perma.cc/UP7M-TF6G
+
+
+https://perma.cc/4KZR-TB9H
 
 
 
@@ -1892,8 +1956,10 @@ https://www.amnesty.org/en/latest/news/2021/01/hong-kong-mass-arrest-of-oppositi
  No instances of police violence found since 11 March 2020. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/hungary/
-https://www.hrw.org/europe/central-asia/hungary
+ perma.cc/L3PW-HM99
+
+
+perma.cc/NYQ4-6WVE
 
 
 
@@ -1930,30 +1996,18 @@ There have also been reports of the police using force on people from the lower 
 The police across the country continue to use violence to carry out the emergency measures. Hence I have continued to code this variable as 2 across all the time periods. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/india/
-
-https://www.hrw.org/world-report/2021/country-chapters/india
-
-https://www.youtube.com/watch?v=YIFm0a1D5qY
-
-https://www.reuters.com/article/us-health-coronavirus-india-police/coronavirus-spreads-among-indian-police-enforcing-worlds-largest-lockdown-idUSKBN22I1YH
-
-https://www.openglobalrights.org/addressing-police-brutality-in-india-during-COVID-19/
-
-https://www.newslaundry.com/2020/03/31/lockdown-brutality-continues-policeman-assaults-adivasi-women-in-assam
-
-https://indianexpress.com/article/india/gujarat-police-brutality-on-dalits-during-lockdown-6339140/
-
-
-https://www.bbc.com/news/av/world-asia-india-53521559
-
-https://apnews.com/article/virus-outbreak-police-international-news-india-police-brutality-434547757272fecb25777597c8cb333c
-
-https://www.straitstimes.com/asia/south-asia/covid-19-duties-a-challenge-for-indias-police
-
-https://www.reuters.com/video/watch/idPqZx?now=true
-
-https://www.youtube.com/watch?v=YIFm0a1D5qY
+ https://perma.cc/Y5DL-ARAC
+https://perma.cc/2YKC-DDW2
+https://perma.cc/4H4A-U3TH
+https://perma.cc/S3SN-VL5G
+https://perma.cc/F44A-2FAA
+https://perma.cc/9CFZ-TULY
+https://perma.cc/UZ73-9FVZ
+https://perma.cc/W7B5-SXSL
+https://perma.cc/8LN3-ZN6P
+https://perma.cc/GG6P-S3XJ
+https://perma.cc/UGQ5-R87G
+https://perma.cc/X9JY-9ERR
 
 
 
@@ -1979,11 +2033,10 @@ https://www.youtube.com/watch?v=YIFm0a1D5qY
 
 *Sources*:
  [1]
-https://www.reuters.com/article/us-health-coronavirus-indonesia/soldiers-police-enforce-indonesias-new-normal-coronavirus-restrictions-idUSKBN2320IJ
-
-
+https://perma.cc/ETP7-4M5Y
 [2]
-https://thediplomat.com/2020/04/indonesia-needs-to-change-its-security-heavy-approach-to-covid-19/
+https://perma.cc/9356-PJ4D
+
 
 
 
@@ -2008,11 +2061,13 @@ https://thediplomat.com/2020/04/indonesia-needs-to-change-its-security-heavy-app
  There are several reports on security forces in engaging in severe violence in reaction to protests and riots at prisons due to the Covid-19 situation, and the inmates incapacity to protect themselves from it spreading. Lethal violence occurred at the hands of security forces in reaction to inmates not following the regulations and protesting on Covid-19 related issues, and Amnesty International reports that up to 36 inmates have been killed by security forces during these protests. This is therefore coded as 2 for the Q2 of 2020. However, no reports have been found on other such violence or abuse in enforcing Covid-19 restrictions. As the incidents in prisons by all reports seem to be isolated to the first period, and not a continued practice, it is thus only coded 2 for the first period and 0 for the latter as no other evidence of police violence has been found in relation to Covid-19. Note also that there are on-going reports of police violence in Iran, but as far as have been seen these are not connected to nor have been legitimized by the Covid-19 restrictions. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9636
+ https://perma.cc/P6GA-9F2J
 
-https://www.amnesty.org/en/documents/mde13/2237/2020/en/
 
-https://www.amnesty.org/en/latest/news/2020/04/iran-prisoners-killed-by-security-forces-during-covid19-pandemic-protests/
+https://perma.cc/ZG4C-DHXT
+
+
+https://perma.cc/8Y3S-D6BZ
 
 
 
@@ -2037,9 +2092,10 @@ https://www.amnesty.org/en/latest/news/2020/04/iran-prisoners-killed-by-security
  Human Rights Watch and Amnesty International have not reported any incidents of violence in enforcing emergency measures, and there are no other indiciations of such violence in the emergency measures. Note that there has been extensive violence toward protesters in relation to other issues, especially the anti-government protests that occurred in the period before the pandemic. However, no evidence has been found that any violence has been used in enforcing Covid-19 measures, and this is therefore coded 0. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9602
+ https://perma.cc/Q28W-LLNL
 
-https://www.amnesty.org/en/search/?country=38464&resourceType=newsarticle&sort=date
+
+https://perma.cc/WN77-9CN7
 
 
 
@@ -2065,10 +2121,11 @@ https://www.amnesty.org/en/search/?country=38464&resourceType=newsarticle&sort=d
 There's a report of a violent clash between police and protesters in October 2020, but this is not described as involving any abusive or excessive force, and thus not reason for coding it other than 0. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9602
-https://www.amnesty.org/en/search/?country=38464&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_pandemic_july_2020.pdf
-https://www.independent.co.uk/news/world/europe/lockdown-protest-dublin-let-ireland-live-coronavirus-gardai-b985870.html
+ https://perma.cc/Z36L-8RCG
+
+https://perma.cc/67UD-3HRT
+https://perma.cc/5TH6-MA8L
+https://perma.cc/23VF-Q4ND
 
 
 
@@ -2094,28 +2151,19 @@ https://www.independent.co.uk/news/world/europe/lockdown-protest-dublin-let-irel
 Note also that the ongoing violence in the Palestinian territories occupied by Israel is not regarded here, as this violence is not connected to the emergency measures, and Covid-19 has not been used as an excuse for such violence by the Israeli government or authorities. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9638
-https://www.hrw.org/news/2020/04/16/when-health-care-decimated-war-Covid-19-middle-east-and-north-africa
+ https://perma.cc/BCR6-PSSR
+https://perma.cc/NLS2-9R7E
+https://perma.cc/M6N2-ASEC
+https://perma.cc/4GHF-F69E
+https://perma.cc/MD39-6FBS
 
-https://www.amnesty.org/en/search/?country=38537&resourceType=newsarticle&sort=date
-
-https://english.alaraby.co.uk/english/news/2020/4/1/israeli-police-using-Covid-19-lockdown-rules-to-beat-palestinian-israelis
-
-https://www.middleeasteye.net/news/corona¬ßvirus-protest-jaffa-Covid-19-restrictions-police-brutality
-
-https://www.theguardian.com/world/2020/jul/13/israeli-police-tear-down-anti-netanyahu-protest-camp-corruption-Covid-19-crisis
-
-https://www.timesofisrael.com/meeting-with-pm-over-coronavirus-enforcement-haredi-mks-demand-end-to-abuse/
-
-https://www.haaretz.com/israel-news/.premium-violence-mars-anti-netanyahu-protests-across-israel-1.9206958
-
-
-https://www.garda.com/crisis24/news-alerts/433951/israel-further-protests-against-lockdown-and-Covid-19-restrictions-likely-in-israel-through-at-least-jan-31
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/israel-west-bank-and-gaza/
-
-https://www.nytimes.com/2020/10/05/world/middleeast/israel-coronavirus-lockdown.html
+https://perma.cc/5GHN-B79B
+https://perma.cc/QBJ4-JG73
+https://perma.cc/H8VH-6CZX
+https://perma.cc/M2HZ-ZW8G
+https://perma.cc/L3VL-6LP9
+https://perma.cc/UAS2-D4SA
+https://perma.cc/UU3S-NLWK
 
 
 
@@ -2140,17 +2188,19 @@ https://www.nytimes.com/2020/10/05/world/middleeast/israel-coronavirus-lockdown.
  Amnesty International reports a few isolated incidents of police using excessive force in enforcing the limit on public gatherings in Q2 of 2020, and this is therefore coded as 1. However, no reports of any incidents of police violence has been found for any of the other periods, and the events the first period seem to be isolated. Furthermore, there have been reports of violent clashes between police and demonstrators against new lockdown measures in some cities in Italy during the fall of 2020  and spring of 2021, but these reports do not indicate any excessive or abusive force from police. This is thus coded as 0 for the other periods. 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
+ https://perma.cc/BEY6-9B8M
 
-https://edition.cnn.com/2020/10/27/europe/italy-coronavirus-protests-intl/index.html
 
-https://www.amnesty.org/en/search/?country=38466&resourceType=newsarticle&sort=date
+https://perma.cc/32W5-TPSV
 
-https://www.hrw.org/news?country[]=9603
 
-www.bbc.com/news/world-europe-54701042
+https://perma.cc/YM6P-6LP8
 
-https://www.thelocal.it/20210412/Covid-19-protesters-clash-with-italian-police-over-business-closures/
+
+https://perma.cc/5HQK-UNSZ
+
+
+https://perma.cc/45LP-RAM2
 
 
 
@@ -2177,16 +2227,14 @@ However, in August 2020, there have been several days of violence where five peo
 Also, in the aftermath of the controversial presidential elections of October 31 2020, more than 50 people have been killed, and security forces are reported to have ''failed to adequately protect civilians and in at least one case used excessive force to disperse opposition-led protests, shooting dead at least two demonstrators and beating a man unconscious.'' 
 
 *Sources*:
- https://www.hrw.org/news/2020/12/02/cote-divoire-post-election-violence-repression
-
-https://www.garda.com/crisis24/news-alerts/390786/cote-divoire-police-kill-one-during-dispersal-operations-amid-unrest-in-bonoua-grand-bassam-department-october-19-update-1
-
-https://www.jeuneafrique.com/1029789/politique/cote-divoire-cinq-morts-apres-plusieurs-jours-de-violences-retour-au-calme/
+ perma.cc/LAZ2-NJBZ
+perma.cc/X2JB-N9RU
+perma.cc/7HM6-8YWJ
 (1)
 
-https://www.france24.com/en/20200406-crowd-in-ivory-coast-destroys-coronavirus-testing-centre
+perma.cc/5ZU9-5GLH
+perma.cc/WG8Z-N3WM
 
-https://www.reuters.com/article/us-health-coronavirus-ivorycoast-violenc/ivory-coast-police-clash-with-protesters-over-coronavirus-test-centre-idUSKBN21O1LT
 
 
 
@@ -2212,11 +2260,11 @@ https://www.reuters.com/article/us-health-coronavirus-ivorycoast-violenc/ivory-c
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/search/?country=38308&resourceType=newsarticle&sort=date
+perma.cc/VEM8-8P7V
 [2]
-https://www.hrw.org/americas/jamaica
+perma.cc/M7E7-ZAZ7
 [3]
-https://www.bbc.com/news/topics/c50znx8v848t/jamaica
+perma.cc/4RRU-B6BU
 
 
 
@@ -2241,17 +2289,16 @@ https://www.bbc.com/news/topics/c50znx8v848t/jamaica
  I did not find any information related to this across all the time periods. 
 
 *Sources*:
- https://rsf.org/en/japan
+ https://perma.cc/6FR3-CGSW
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/japan/
+https://perma.cc/9S8B-6AJZ
 
 
-https://www.bbc.com/news/topics/cjnwl8q4g7nt/japan
+https://perma.cc/KWU9-AR9V
 
 
-
-https://www.hrw.org/asia/japan
+https://perma.cc/7JNS-3WLL
 
 
 
@@ -2276,19 +2323,25 @@ https://www.hrw.org/asia/japan
  In July and August of 2020, there have been protests in Jordan in which there are reports that police have used excessive force to disperse these and arrest protesters, citing Covid-19 rules as the reason for these actions. In March of 2021, there were several protests against the government in Jordan, including it’s handling of the Covid-19 crisis and its ban on demonstrations as part of the emergency measures. Police dispersed these, using tear gas and force. However, no reference to Covid-19 restrictions were found in this enforcement, and this is therefore not included here. is therefore coded 1 for Q3 of 2020, and 0 for the other periods. 
 
 *Sources*:
- https://www.reuters.com/article/us-health-coronavirus-un-rights/u-n-raises-alarm-about-police-brutality-in-lockdowns-idUSKCN2291X9
+ https://perma.cc/D2N8-NSSP
 
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25828&LangID=E
 
-https://www.hrw.org/news/2020/05/05/jordan-free-speech-threats-under-Covid-19-response
+https://perma.cc/6GL4-HTRD
 
-https://www.amnesty.org/en/search/?country=38539&resourceType=newsarticle&sort=date
 
-https://www.hrw.org/news/2020/08/27/jordan-arrests-forced-dispersal-teacher-protests
+https://perma.cc/VR3R-6ALL
 
-https://www.reuters.com/article/jordan-protests-int-idUSKBN2BG37N
 
-https://www.nbcnews.com/news/world/jordan-uses-tear-gas-clamp-down-anti-lockdown-protesters-n1261273
+https://perma.cc/6JFD-4RL2
+
+
+https://perma.cc/TPE3-8YL9
+
+
+https://perma.cc/BW79-5UT8
+
+
+https://perma.cc/EL4P-Y8FT
 
 
 
@@ -2313,10 +2366,10 @@ https://www.nbcnews.com/news/world/jordan-uses-tear-gas-clamp-down-anti-lockdown
  According to the US Department of State report for 2020, "Human rights observers reported arbitrary detentions during the COVID-19 quarantine restrictions. The nongovernmental organization (NGO) Kazakhstan International Bureau for Human Rights and Rule of Law reported that Almaty authorities built a tent facility and involuntarily confined all homeless citizens picked up in the city during the COVID-19 lockdown that began in March. Some individuals who live near the facility alleged that, in addition to homeless citizens, others who happened to be on site during police raids were also among those locked up in the facility. The few individuals who managed to escape the police-controlled facility complained about hunger, cold, and brutal beatings. Journalists and human rights observers who tried to verify allegations were denied access to the facility." (1). The measures applied during the state of emergency (2), therefore pomviol is coded as 1 only in Q2 2020. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/kazakhstan/
+ https://perma.cc/PL6J-YPFY
 (1)
 
-https://www.iphronline.org/wp-content/uploads/2020/07/REV-HUMAN-RIGHTS-IMPACT-ASSESSMENT-OF-THE-COVID-19-RESPONSE-IN-KAZAKHSTAN.pdf
+https://perma.cc/4WZN-6GR6
 (2)
 
 
@@ -2361,36 +2414,26 @@ On the night of 1 June 2020, a homeless man popularly known as Vaite was shot de
 In Q1 and Q2 of 2021, there are a few reports of police brutally enforcing the curfew or other measures, but the situation seems to have improved and there are no widepread reports like the ones in 2020. 
 
 *Sources*:
- https://www.youtube.com/watch?v=5i57ortwbfg
-https://www.bbc.com/news/world-africa-53191358
-https://www.bbc.com/news/av/world-africa-53025934
-https://www.aa.com.tr/en/africa/15-killed-by-kenyan-police-enforcing-covid-19-curfew/1862803
-https://www.article19.org/resources/kenya-coronavirus-pandemic-should-not-be-used-as-excuse-to-stop-protests/
-(1)
-https://www.africanews.com/2020/06/29/kenya-mask-enforcement-protest-leads-to-deaths/
-(2)
-https://www.africanews.com/2020/07/09/kenyans-protest-police-brutality-in-nairobi-yet-again/
-(3)
+ https://perma.cc/MT5X-7EDZ
+https://perma.cc/J8SH-CRJB
+https://perma.cc/7TJF-P5P6
+https://perma.cc/7R34-HWZM
+https://perma.cc/ZSM6-655A
+https://perma.cc/34FG-VJLR
+https://perma.cc/975X-LUZC
+https://perma.cc/QPN5-QQQ8
+https://perma.cc/6SL7-2FHR
+https://perma.cc/8ZM2-WWMG
 
-https://www.theguardian.com/global-development/2020/oct/23/brutal-policing-kenyas-covid-curfew-left-15-dead
-(4)
+https://perma.cc/UU48-HPRA
 
-https://www.standardmedia.co.ke/nairobi/article/2001393465/police-brutality-in-corona-operation-draws-groups-ire
-(5)
+https://perma.cc/HL3V-TQ5X
 
-
-https://www.aljazeera.com/news/2020/04/fury-kenya-police-brutality-coronavirus-curfew-200402125719150.html?xif=;
-
-https://www.the-star.co.ke/news/2020-06-04-6-cops-to-face-murder-assault-charges-while-enforcing-curfew/
-https://www.aljazeera.com/news/2020/04/killed-kenyan-police-enforcing-coronavirus-curfew-hrw-200422144016333.html?utm_source=website&utm_medium=article_page&utm_campaign=read_more_links;
-https://www.hrw.org/news/2020/03/31/kenya-police-abuses-could-undermine-coronavirus-fight
-https://news.trust.org/item/20200928142310-7i546/
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/kenya/
-
-https://www.bbc.com/news/world-africa-56986035
-
-https://newsplex.nation.co.ke/deadlyforce/2021
+https://perma.cc/MA52-D6WA
+https://perma.cc/RX78-LTHB
+https://perma.cc/F85X-AFVL
+https://perma.cc/K9GQ-ZT3Q
+https://perma.cc/FTD8-8UWK
 
 
 
@@ -2415,12 +2458,16 @@ https://newsplex.nation.co.ke/deadlyforce/2021
  There are reports of security forces using violence in quelling protests from migrant workers in Q2 of 2020, which are directly related to Covid-19 as these workers have protested being stranded in camps due to Covid-19 not enabling them to travel to their home country. However, the violence so far is non-lethal according to the reports, and thus coded as 1. No evidence of any other instances of violence has been found, either in Q2 of 2020 or any other period. This is therefore seen as an isolated event, and the rest of the quarters are coded as 0. 
 
 *Sources*:
- https://www.middleeasteye.net/news/kuwait-security-forces-break-egyptian-worker-riot-over-repatriation
-https://www.garda.com/crisis24/news-alerts/338716/kuwait-police-forcibly-disperse-protesting-migrant-workers-may-3
+ https://perma.cc/CU4H-8AB9
 
-https://www.hrw.org/middle-east/n-africa/kuwait
 
-https://www.amnesty.org/en/search/?country=38541&resourceType=newsarticle&sort=date
+https://perma.cc/KT3H-YJ5F
+
+
+https://perma.cc/B5YH-S36N
+
+
+https://perma.cc/TK9T-DVHS
 
 
 
@@ -2445,9 +2492,16 @@ https://www.amnesty.org/en/search/?country=38541&resourceType=newsarticle&sort=d
  No instances of police violence found since 11 March 2020. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/06/central-asias-covid19/
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
+ perma.cc/5NUE-G7Q2
+
+
+https://perma.cc/4HX8-48QS
+
+
+https://perma.cc/M7EP-V5U3
+
+
+
 
 
 
@@ -2472,9 +2526,13 @@ https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
  Human Rights Watch and Amnesty International have not  reported any incidents of violence in enforcing emergency measures, and there are no other indiciations of such violence in the emergency measures 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9554
-https://www.amnesty.org/en/search/?country=38369&resourceType=newsarticle&sort=date
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/laos/
+ https://perma.cc/XKQ3-E5HF
+
+
+https://perma.cc/2R79-TGBA
+
+
+https://perma.cc/8YZD-FQ3D
 
 
 
@@ -2499,18 +2557,31 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/lao
  The mass protests against the Lebanese government that were ongoing before the Covid-19 crisis started again March and April 2020, and there are some reports of violent clashes between protesters and security forces, with at least one protester being killed. In the reports, this is in direct relation to Covid-19, as the quelling of the protests was motivated by them breaking the Covid-19 restrictions. This is therefore coded as 2 for Q2 of 2020, as there are recurring tensions between protesters and security forces which in some cases have escalated, but not a systematic use of violence to enforce emergency measures. However, no reports of any Covid-19 related law enforcement violence has been found in the other periods.  While there have been protests in relation to the Beirut explosion, the reporting on this makes no reference to Covid-19, and the violence occurring under these circumstances are thus not motivated by or part of the Covid-19 emergency measures. Furthermore, large-scale violence was seen from law enforcement during January 2021, where several protests broke out. Lebanon had an around-the-clock curfew at the time, and the protests were in part toward the harsh Covid-19 restrictions. However, this is not accounted for here as no evidence has been found of authorities legitimating the violence through protesters breaking curfew, nor that they were enforcing Covid-19 restrictions. Rather, the evidence found states that law enforcement acted in order to quell protests and limit violence from the side of the protesters. In addition, those arrested and charged were so under the terrorist act, not under any crimes related to the Covid-19 restrictions. Thus, this is coded 0, but is important to note that several instances of police violence has occurred during some of the periods after Q2, only that this has not been legitimized by Covid-19. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/29/lebanon-one-protester-dead-tripoli
-https://www.garda.com/crisis24/news-alerts/341571/lebanon-anti-government-protests-continue-in-several-cities-may-11-13-update-106
-https://www.garda.com/crisis24/news-alert-full-history/RyXoanz6vcgSniKnQ/lebanon-protests-breakout-nationwide-october-17
-https://www.hrw.org/news/2020/08/26/lebanon-lethal-force-used-against-protesters
-https://www.amnesty.org/en/latest/news/2021/03/lebanon-authorities-step-up-repression-through-use-of-terrorism-charges-against-protesters/
-
-https://www.hrw.org/news/2021/03/30/lebanon-tripoli-detainees-allege-torture-forced-disappearance
-
-https://www.garda.com/crisis24/news-alerts/434386/lebanon-further-protests-against-lockdown-and-Covid-19-restrictions-likely-in-lebanon-through-at-least-jan-31
+ https://perma.cc/VH4F-ZDX3
 
 
-https://www.garda.com/crisis24/news-alerts/435706/lebanon-clashes-reported-during-demonstrations-against-Covid-19-measures-in-tripoli-early-jan-28
+https://perma.cc/2KT5-E5L6
+
+
+https://perma.cc/6VPR-UQDW
+
+
+https://perma.cc/KNN5-J37Q
+
+
+https://perma.cc/4FCJ-6LCP
+
+
+https://perma.cc/5VY2-CQHV
+
+
+https://perma.cc/7VA5-UBGK
+
+
+
+
+
+https://perma.cc/C6UX-9EEC
 
 
 
@@ -2535,23 +2606,28 @@ https://www.garda.com/crisis24/news-alerts/435706/lebanon-clashes-reported-durin
  After the government introduced initial lockdown measures in March/April 2020, several reports surfaced on social media about police brutality in enforcing the measures. Videos showed police "making citizens roll on the ground and beating them up" (1). The assistant commissioner of police issued a directive ordering police to desist such violations. In November 2020, “the police fired on a female journalist and arrested several other reporters arbitrarily”, when they were covering a protest (8,9). “Police justified their actions by saying they were dispersing an illegal gathering…. Protests remain banned in Lesotho since the beginning of the country’s Covid-19 lockdown regulations on 3 April 2020” (9). No incidents found before or since November 2020. In May 2021, the police blocked factory workers’ protests fo being “in contravention of Covid-19 regulations”, and during the violent clashes between the police and the demonstrators, a woman was shot dead by police (4). There are also other occasions of police and military brutality in the country during the pandemic, although they are not included in the score (2). 
 
 *Sources*:
- https://monitor.civicus.org/updates/2020/10/30/police-brutality-continuing-crisis-covid-19-related-protests-documented/
+ https://perma.cc/34JE-4EXY
 (1)
-https://www.dw.com/en/lesotho-pm-deploys-army-to-restore-order-amid-wife-murder-probe/a-53175904
+
+https://perma.cc/9E3L-D94H
 (2)
-https://ewn.co.za/2020/03/30/lesotho-lockdown-police-soldiers-accused-of-rights-violations
+
+https://perma.cc/5CUY-5KZW
 (3)
-https://www.theguardian.com/global-development/2021/may/28/woman-shot-dead-in-lesotho-as-factory-workers-clashes-with-police-escalate
+
+https://perma.cc/877M-SWTY
 (4)
-https://twitter.com/YourKayBol/status/1245720374698037248?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1245720374698037248%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fmonitor.civicus.org%2Fcountry%2Flesotho%2F
-(5)
-https://twitter.com/MosabalaThuso/status/1244544721726377984
+
+https://perma.cc/BQM6-3XSW
 (6)
-https://twitter.com/MosabalaThuso/status/1244553703333531648
+
+https://perma.cc/T65J-UDVZ
 (7)
-https://rsf.org/en/lesotho
+
+https://perma.cc/WE8Q-CB9P
 (8)
-https://zimbabwe.misa.org/2020/11/16/lesotho-police-shoot-journalist-during-protests/
+
+https://perma.cc/GR7Z-J2BP
 (9)
 
 
@@ -2578,17 +2654,15 @@ https://zimbabwe.misa.org/2020/11/16/lesotho-police-shoot-journalist-during-prot
 No further evidence was found that indicates that security forces, such as the civilian police or military, has engaged in physical violence to execute the emergency measures later on. This is therefore coded 0 for all the other periods. 
 
 *Sources*:
- https://www.democracynow.org/2020/4/13/headlines/liberians_say_they_fear_hunger_more_than_covid_19_as_police_violently_enforce_lockdown
-https://www.reuters.com/article/us-health-coronavirus-liberia/liberia-coronavirus-lockdown-off-to-chaotic-start-idUSKCN21U0QU
+ https://perma.cc/DA6A-LC57
+https://perma.cc/AE3Z-4D8Z
+https://perma.cc/V8QF-PXLH
+https://perma.cc/ML8M-UZH7
+https://perma.cc/5M85-MYG2
+https://web.archive.org/web/20200425172830/https://www.liberianobserver.com/news/citizens-retaliate-with-brutality-against-police-abuse/
 
-https://www.amnesty.org/en/countries/africa/liberia/
-https://www.hrw.org/africa/liberia
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/liberia/
-https://www.liberianobserver.com/news/citizens-retaliate-with-brutality-against-police-abuse/
-
-
-https://frontpageafricaonline.com/news/liberia-afl-soldier-found-guilty-of-assaulting-woman-while-enforcing-soe/
-https://www.ghanaweb.com/GhanaHomePage/africa/Three-Liberian-soldiers-investigated-for-lockdown-brutality-927304
+https://perma.cc/P8LX-QDA3
+https://perma.cc/CS6J-NYXF
 
 
 
@@ -2613,8 +2687,8 @@ https://www.ghanaweb.com/GhanaHomePage/africa/Three-Liberian-soldiers-investigat
  No instances of police violence found. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/lithuania/
-https://www.hrw.org/europe/central-asia/lithuania
+ [1]	perma.cc/LQ6X-HFGZ
+[2]	perma.cc/AG39-PQ6D
 
 
 
@@ -2639,20 +2713,14 @@ https://www.hrw.org/europe/central-asia/lithuania
  During Q2 2020, a police officer allegedly beat a street vendor, accused of violating an afternoon ban on commercial activities. Images of the victim were shared on social media, sparking fury among residents of Toamasina in eastern Madagascar. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/madagascar/
-
-https://www.africanews.com/2020/06/04/anti-lockdown-protest-in-madagascar-over-alleged-police-brutality//
-
-https://newsaf.cgtn.com/news/2020-06-06/Protests-erupt-in-Madagascar-over-alleged-police-violence-R5rOjacfyE/index.html
-
-http://venturesafrica.com/citizens-without-face-masks-sanctioned-to-community-service-in-madagascar/
-
-https://www.garda.com/crisis24/news-alerts/348241/madagascar-protesters-clash-with-police-in-toamasina-atsinanana-region-june-3
-
-https://www.barrons.com/news/madagascar-anti-lockdown-protests-flare-after-alleged-police-violence-01591212009
-
-https://www.youtube.com/watch?v=1HXwCeV6IiI
-https://www.africanews.com/2020/10/19/madagascar-ends-state-of-health-emergency//
+ https://perma.cc/X4JE-W7SP
+https://perma.cc/SN4G-CMWM
+https://perma.cc/9X4C-Z6D4
+https://perma.cc/EUT2-FBEH
+https://perma.cc/S2H6-8XFR
+https://perma.cc/Z8D2-PSP7
+https://perma.cc/98HA-P7EA
+https://perma.cc/GJM4-MHXU
 
 
 
@@ -2677,8 +2745,10 @@ https://www.africanews.com/2020/10/19/madagascar-ends-state-of-health-emergency/
  Since Covid-19 was declared a formidable disease, Malawi has experienced protests surrounding a presidential election re-run. However, police brutality against protestors including the use of tear gas  has not been justified with reference to the Covid-19 regulations. 
 
 *Sources*:
- https://freedomhouse.org/article/heavy-handed-pandemic-responses-could-fuel-unrest-southern-africa
-https://www.voanews.com/covid-19-pandemic/malawi-police-clash-prison-guards-demanding-covid-19-protection-equipment
+ [1]
+perma.cc/UHB2-XT78
+[2]
+perma.cc/BY7L-8YKD
 
 
 
@@ -2707,14 +2777,16 @@ While there are reports that Malaysia has arrested and jailed thousands of peopl
  
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/malaysia/
-(1)
+ https://perma.cc/MTS5-V6YP
 
-https://www.hrw.org/news?country[]=9555
 
-https://www.amnesty.org/en/search/?country=38372&resourceType=newsarticle&sort=date
+https://perma.cc/4UKL-8X7Y
 
-https://www.hrw.org/news/2020/04/26/malaysia-stop-jailing-covid-19-lockdown-violators
+
+https://perma.cc/2DAR-L45U
+
+
+https://perma.cc/XJ2E-PQQP
 
 
 
@@ -2739,18 +2811,16 @@ https://www.hrw.org/news/2020/04/26/malaysia-stop-jailing-covid-19-lockdown-viol
  There are several incidents with police violence against protesters, but these relate either to the political crisis facing Mali during July-August 2020 (see 4), or to isolated incidents unrelated to the emergency measures (see 1, 2) 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/341406/mali-violent-protests-erupt-in-kayes-kayes-region-may-11-12
+ https://perma.cc/9HNK-RH97
 (1)
-
-https://north-africa.com/2020/05/mali-unrest-in-kayes-over-police-violence-three-more-civilians-killed/
+https://perma.cc/74SA-Y72T
 (2)
-
-https://www.ispionline.it/en/pubblicazione/covid-19-and-civil-society-protests-west-africa-26482
-
-https://www.france24.com/en/20200716-coronavirus-pandemic-doctors-forced-to-refuse-patients-in-south-africa
+https://perma.cc/5KV7-Z5P4
+(3)
+https://perma.cc/3D6D-EG94
 (4)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mali/
+https://perma.cc/8FVG-KU89
+(5)
 
 
 
@@ -2781,17 +2851,19 @@ Another incident was found, but it hasn't been possible to verify if the informa
 The young man, father of six, was helping a dark man and his nephew with the transport of merchandise when a gunshot hit him fatally in the chest.'' (2) 
 
 *Sources*:
- https://www.middleeasteye.net/news/fear-more-cases-mauritania-claims-total-control-over-coronavirus-spread
-(1)
+ perma.cc/93Z4-KN7U
 
-https://www.focusonafrica.info/en/mauritania-state-police-kills-another-innocent-black-citizen/
-(2)
 
-https://www.worldaware.com/covid-19-alert-mauritania-ease-domestic-restrictions-july-10
+perma.cc/X97J-KSKQ
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mauritania/
 
-https://www.hrw.org/world-report/2021/country-chapters/mauritania
+perma.cc/R377-PQZK
+
+
+perma.cc/LPJ3-3BZN
+
+
+perma.cc/Y9F3-F548
 
 
 
@@ -2817,17 +2889,17 @@ https://www.hrw.org/world-report/2021/country-chapters/mauritania
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/latest/news/2020/05/americas-authorities-must-protect-people-covid19-repressive-measures/
+perma.cc/96RL-6AFW
 [2]
-https://www.clarin.com/internacional/mexico/violencia-policial-mexico-cineasta-guillermo-toro-pidio-justicia-asesinato-giovanni-lopez_0_0aABz2itq.html
+perma.cc/BAG4-JN57
 [3]
-https://www.efe.com/efe/espana/sociedad/la-ira-ante-brutalidad-policial-llega-a-mexico-por-muerte-de-un-detenido/10004-4264668
+perma.cc/J5CT-JYXG
 [4]
-https://www.infobae.com/america/mexico/2020/06/14/primero-se-detiene-y-luego-se-investiga-el-abuso-policial-en-mexico-quedo-expuesto-por-el-covid-19/
+perma.cc/C34Y-F4HK
 [5]
-https://www.dw.com/es/violencia-policial-en-am%C3%A9rica-latina-est%C3%A1-fuera-de-control/a-55209031
+perma.cc/G962-TG56
 [6]
-https://www.theguardian.com/world/2020/jun/05/mexican-arrested-for-not-wearing-face-mask-later-found-dead
+perma.cc/HD23-NZ8H
 
 
 
@@ -2852,8 +2924,10 @@ https://www.theguardian.com/world/2020/jun/05/mexican-arrested-for-not-wearing-f
  No instances of police violence found 
 
 *Sources*:
- ttps://www.amnesty.org/en/countries/europe-and-central-asia/moldova/
-https://www.hrw.org/sitesearch?search=moldova
+ https://perma.cc/SN9G-KTMF
+
+
+https://perma.cc/F6SH-VA62
 
 
 
@@ -2878,9 +2952,10 @@ https://www.hrw.org/sitesearch?search=moldova
  Human Rights Watch and Amnesty International have not  reported any incidents of violence in enforcing emergency measures, and there are no other indiciations of such violence in the emergency measures 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38378&resourceType=newsarticle&sort=date
+ https://perma.cc/M3EK-8J6F
 
-https://www.hrw.org/sitesearch?search=Mongolia
+
+https://perma.cc/BWJ3-NEDS
 
 
 
@@ -2907,27 +2982,16 @@ https://www.hrw.org/sitesearch?search=Mongolia
 Authorities continue to resport to arbitrary arrests and some violence while enforcing Covid-19 measures during Q1 and Q2 of 2021. 
 
 *Sources*:
- https://monitor.civicus.org/updates/2020/06/24/covid-19-used-curtail-freedom-expression-further/
+ https://perma.cc/P6HJ-6B6A
 (1)
 
-
-https://www.africanews.com/2021/04/28/morocco-more-than-1-5-million-people-arrested-for-covid-breaches//
-
-https://www.bbc.com/news/topics/cx1m7zg0gylt/morocco
-
-https://www.amnesty.org/en/latest/news/2021/05/morocco-drop-charges-against-teachers-who-peacefully-protested-over-workers-rights/
-
-https://studies.aljazeera.net/en/reports/how-arab-states-take-coronavirus-morocco-case-study
-
-https://www.reuters.com/article/us-health-coronavirus-morocco-rights/morocco-rejects-accusation-of-police-abuse-in-enforcing-lockdown-idUSKCN22A375
-
-https://english.alarabiya.net/en/coronavirus/2020/04/13/Morocco-arrests-over-4-300-for-breaching-coronavirus-emergency-rules-
-
-https://www.aljazeera.com/news/2020/04/raises-alarm-police-brutality-covid-19-lockdowns-200428070216771.html
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/morocco/
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+https://perma.cc/T49P-MM3S
+https://perma.cc/5T8F-DFFE
+https://perma.cc/SY7F-BPTH
+https://perma.cc/DM35-9GVY
+https://perma.cc/B3TN-5GVW
+https://perma.cc/HM3B-Y292
+https://perma.cc/59KS-EP8Y
 
 
 
@@ -2952,13 +3016,12 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
  The civil society organization Centro para Democracia e Desenvolvimento is collecting reports of police abuse and reported 27 instances only in the first month of the state of emergency. President Nyusi critized police violence but also blammed citizes of "victimization". Reports of police violence were not identified after the state of emergency ended. Amnesty International and some newspapers claimed in March/April 2021 that violence has been used to enforce COVID-19 measures. 
 
 *Sources*:
- https://www.dw.com/pt-002/amnistia-internacional-pandemia-fez-aumentar-viola%C3%A7%C3%B5es-aos-direitos-humanos/a-57124133
-https://www.dw.com/pt-002/amnistia-internacional-pandemia-fez-aumentar-viola%C3%A7%C3%B5es-aos-direitos-humanos/a-57124133
-https://www.dw.com/pt-002/covid-19-cidad%C3%A3os-mo%C3%A7ambicanos-denunciam-abusos-da-pol%C3%ADcia/a-53343318
-https://www.amnesty.org/en/latest/news/2020/04/southern-africa-government-intervention-required-as-millions-face-hunger-under-covid19-lockdown-regimes/
-https://cddmoz.org/wp-content/uploads/2020/09/Relat%C3%B3rio-reporta-graves-viola%C3%A7%C3%B5es-de-direitos-humanos-no-contexto-da-viol%C3%AAncia-armada-em-Cabo-Delgado.pdf
-https://www.dw.com/pt-002/nyusi-critica-viol%C3%AAncia-policial-durante-estado-de-emerg%C3%AAncia/a-54038708
-https://www.dw.com/pt-002/jornalista-da-carta-de-mo%C3%A7ambique-libertado-ap%C3%B3s-deten%C3%A7%C3%A3o-humilhante/a-53991674
+ [1]	perma.cc/T2Q8-XR22
+[2]	perma.cc/3JLV-CM7G
+[3]	perma.cc/88DY-KMQN
+[4]	perma.cc/3JBR-QGA4
+[5]	perma.cc/XU9A-UNZM
+[6]	perma.cc/26ZS-U5YU
 
 
 
@@ -2984,16 +3047,15 @@ https://www.dw.com/pt-002/jornalista-da-carta-de-mo%C3%A7ambique-libertado-ap%C3
 
 *Sources*:
  [1]
-https://www.namibian.com.na/200996/archive-read/Two-men-claim-police-brutality
-
+https://perma.cc/D3GN-QDVL
 [2]
-https://www.namibian.com.na/201403/archive-read/Presidency-security-unit-charged-with-assault
+https://perma.cc/3BHG-HCTK
 [3]
-https://allafrica.com/stories/202006030808.html
+https://perma.cc/NGG2-82KX
 [4]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/namibia/
+https://perma.cc/678F-ND5T
 [5]
-https://www.hrw.org/africa/namibia#
+https://perma.cc/J73W-TSXV
 
 
 
@@ -3021,17 +3083,13 @@ https://www.hrw.org/africa/namibia#
 
 *Sources*:
  [1]
-https://thehimalayantimes.com/nepal/police-use-improvised-man-catcher-stick-to-detain-lockdown-offenders-in-banke/
-
+https://perma.cc/FN6M-NNWA
 [2]
-https://www.orfonline.org/expert-speak/how-nepal-has-tried-to-tackle-the-covid19-pandemic-66173/
-
-
+https://perma.cc/YM4K-8UUK
 [3]
-https://www.aljazeera.com/news/2020/09/03/nepal-police-break-up-religious-rally-amid-coronavirus-surge/
-
+https://perma.cc/MC2T-7GTR
 [4]
-https://www.reuters.com/article/uk-health-coronavirus-nepal-festival-idUKKBN25U23G
+https://perma.cc/92WY-WN3N
 
 
 
@@ -3056,20 +3114,34 @@ https://www.reuters.com/article/uk-health-coronavirus-nepal-festival-idUKKBN25U2
  Neither Human Rights Watch, Amnesty International nor EU agency for fundamental rights have reported any incidents of violence in enforcing emergency measures for Q2-Q4 of 2020. However, in Q1 of 2021 a large number of protests broke out in the Netherlands in relation to the extensive Covid-19 restrictions, which resulted in several clashes with law enforcement. Generally, police seem to have not used excessive force under these circumstances, and protesters have also been violent on many occasions, as well as having gathered far more people than demonstrations allowed for. A couple of instances of excessive force is mentioned however, such as footage of a man being beaten by the police, though no major injuries are reported from these clashes. Furthermore, these protests do not seem to have been on going in Q2 of 2021, and this is therefore coded as 0 again. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9614
-https://www.amnesty.org/en/search/?country=38487&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_july_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_november_2020.pdf
-
-https://www.bbc.com/news/world-europe-56393820
-
-https://www.euronews.com/2021/01/18/dutch-police-arrest-around-100-at-anti-government-covid-19-demonstration
+ https://perma.cc/5WCF-PQEM
 
 
-https://www.reuters.com/article/us-health-coronavirus-netherlands-protes-idUSKBN29T0B2
+https://perma.cc/X7FV-WDPC
 
-https://nltimes.nl/2021/03/17/120-police-violence-complaints-hague-protest
+
+https://perma.cc/73UH-LNEK
+
+
+https://perma.cc/2H4G-2YLN
+
+
+https://perma.cc/YTG3-M2BF
+
+
+https://perma.cc/WXG9-JFTW
+
+
+https://perma.cc/NC7G-VH7X
+
+
+https://perma.cc/T8JS-T2GF
+
+
+https://perma.cc/J8ZF-8JK8
+
+
+
 
 
 
@@ -3094,7 +3166,7 @@ https://nltimes.nl/2021/03/17/120-police-violence-complaints-hague-protest
  Amnesty international has not reported any violence by security forces when enforcing emergency measures, and there are no other indications of such violence occuring. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38387&resourceType=newsarticle&sort=date
+ [1]	perma.cc/UV3L-KA99
 
 
 
@@ -3120,17 +3192,17 @@ https://nltimes.nl/2021/03/17/120-police-violence-complaints-hague-protest
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3
 
 
 
@@ -3155,14 +3227,10 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
  No evidence was found. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/03/niger-societe-civile-demandent-un-terme/
-
-
-https://www.garda.com/crisis24/news-alerts/334861/niger-residents-in-niamey-protest-covid-19-measures-april-17-19-update-3
-z
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/niger/
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+ https://perma.cc/FN77-877L
+https://perma.cc/RK9Y-Z6YM
+https://perma.cc/4CLT-SPWP
+https://perma.cc/59KS-EP8Y
 
 
 
@@ -3187,15 +3255,14 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
  There are several reports of police violence related to the beginning of the enforcement of the lockdown, in which several people were killed. Police officers who enforced coronavirus restriction measures allegedly harassed and raped women as well. Since many cases of violations were observed and I found no evidence of violations discontinuing, pomviol is coded as 3 in all time periods. 
 
 *Sources*:
- https://reliefweb.int/report/world/amnesty-international-report-202021-state-worlds-human-rights-enarru
-https://www.reuters.com/article/us-health-coronavirus-nigeria-security/nigerian-security-forces-killed-18-people-during-lockdowns-rights-panel-idUSKCN21Y272
-https://www.garda.com/crisis24/news-alerts/333471/nigeria-security-forces-kill-18-since-march-30-amid-covid-19-lockdown-restrictions-update-12
-https://www.bbc.com/news/world-africa-52317196
-https://www.aljazeera.com/news/2020/04/raises-alarm-police-brutality-covid-19-lockdowns-200428070216771.html
-https://www.aa.com.tr/en/africa/nigeria-commission-claims-18-killed-in-virus-lockdown/1806639
-https://www.reuters.com/article/us-nigeria-justice-idUSKCN25915T
-https://www.aljazeera.com/features/2020/09/09/women-abused-by-police-enforcing-covid-19-rules-in-nigeria/?gb=true
-
+ [1]	perma.cc/KMC9-GKH9
+[2]	perma.cc/RHH6-T6WH
+[3]	perma.cc/85NL-B4CY
+[4]	perma.cc/ZVR4-597W
+[5]	perma.cc/B3TN-5GVW
+[6]	perma.cc/NR83-F28C
+[7]	perma.cc/KG6F-PCAC
+[8]	perma.cc/4N6V-NUC3
 
 
 
@@ -3220,12 +3287,9 @@ https://www.aljazeera.com/features/2020/09/09/women-abused-by-police-enforcing-c
  I did not find any information related to this across all the time periods. However there is complete control over communication within North Korea. Citizens can also be sent to concentration camps for looking at online media. The Korean Central News Agency is the only permitted source of news within the country. These factors may deter journalists from being critical in their reporting. Furthermore, the restricted nature of news may mean that police violence could be happening without credible reports of such occurances. 
 
 *Sources*:
- https://rsf.org/en/north-korea
-
-
-https://www.hrw.org/asia/north-korea
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/north-korea/
+ https://perma.cc/5PB5-X2UM
+https://perma.cc/RUE6-AZV5
+https://perma.cc/W4PJ-WWVM
 
 
 
@@ -3250,8 +3314,8 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/north-korea/
  No instances of police violence found related to measures enforcement. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/north-macedonia/
-https://www.hrw.org/europe/central-asia/macedonia
+ [1]	perma.cc/VTK6-MV6Y
+[2]	perma.cc/DHH7-TYSU
 
 
 
@@ -3276,8 +3340,10 @@ https://www.hrw.org/europe/central-asia/macedonia
  Human Rights Watch and Amnesty International have not  reported any incidents of violence in enforcing emergency measures, and there are no other indiciations of such violence in the emergency measures 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9615
-https://www.amnesty.org/en/countries/europe-and-central-asia/norway/
+ https://perma.cc/5SHL-G499
+
+
+https://perma.cc/6UQF-MTH6
 
 
 
@@ -3303,9 +3369,9 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/norway/
 
 *Sources*:
  [1]
-https://www.hrw.org/middle-east/n-africa/oman
+perma.cc/D44J-VUJB
 [2]
-https://www.amnesty.org/en/search/?q=&sort=date&country=38547&resourceType=newsarticle
+perma.cc/VRH9-5HJT
 
 
 
@@ -3332,13 +3398,10 @@ https://www.amnesty.org/en/search/?q=&sort=date&country=38547&resourceType=newsa
 I have not found other instances of police violence since then. 
 
 *Sources*:
- https://www.theguardian.com/world/2020/apr/09/pakistan-doctors-beaten-police-despair-untreatable-pandemic
-
-https://www.thenews.com.pk/print/633532-cops-in-a-fix-over-how-to-impose-lockdown
-
-https://www.thenews.com.pk/latest/642364-coronavirus-lockdown-woman-sho-wounded-as-mob-attacks-police-outside-karachi-mosque
-
-https://in.news.yahoo.com/upsurge-police-brutality-pakistan-160728874.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAIELIMXplnNSqFOfUVJ5pRUCZKSyHk51c0n2iOAqfpkyGGRq7rj59OZmAPRTfcR33BnAxXlYHGLeDyxjo2B_VK5fcqqA9XVvJ6OtM4DlORiGu79pVvMkxBYXbQm19kYVlz0ooBnTsvYheX_70xbKdBBTX8NHTUqGqpdtXrfHuVXt
+ https://perma.cc/2RWK-DRZL
+https://perma.cc/XG4D-SFAN
+https://perma.cc/WY5C-S7MD
+https://perma.cc/ZWU8-M828
 
 
 
@@ -3364,12 +3427,12 @@ https://in.news.yahoo.com/upsurge-police-brutality-pakistan-160728874.html?gucco
 Reports still talking about and there is no sign that the violence stopped for the periods January-March, April-June 2021. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/panama/
-https://www.laestrella.com.pa/nacional/201217/repudian-represion-policial-periodistas-segundo-caso-dos-meses
-https://www.panamaamerica.com.pa/mundo/la-violencia-policial-una-enfermedad-dificil-de-erradicar-en-america-1186851
-https://www.defensoriadelpueblo.gob.pa/portal/comunicado-sobre-actuacion-policial-ante-el-estado-de-emergencia-nacional-por-la-pandemia-de-covid-19/
-https://www.laestrella.com.pa/nacional/200727/residentes-curundu-protestan-abuso-agentes-policiales
-https://www.prensa.com/impresa/panorama/arrestan-a-jovenes-por-protesta-contra-la-cuarentena/
+ [1]	perma.cc/Q6UA-EZD3
+[2]	perma.cc/2MBN-E868
+[3]	perma.cc/BKY8-MN3K
+[4]	perma.cc/HUH4-24X5
+[5]	perma.cc/6HHG-3RTJ
+[6]	perma.cc/6FWM-4446
 
 
 
@@ -3394,10 +3457,13 @@ https://www.prensa.com/impresa/panorama/arrestan-a-jovenes-por-protesta-contra-l
  In June 2020, there was reports that police used abusive enforcement during the lockdown, by beating vendors and stealing from marketplaces. This does not seem to be widespread however, and no serious injuries or lethal violence is reported. For the other periods, neither Human Rights Watch nor Amnesty International has reported any incidents of violence in enforcing emergency measures, and no other indications on such violence occurring has been found. This is coded as 1 for Q2 of 2020, and 0 for the rest. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9566
-https://www.amnesty.org/en/search/?country=38395&resourceType=newsarticle&sort=date
+ https://perma.cc/9SHT-B4DG
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/papua-new-guinea/
+
+https://perma.cc/QT7W-7NS5
+
+
+https://perma.cc/AM5Z-QHJY
 
 
 
@@ -3423,15 +3489,15 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/pap
 
 *Sources*:
  [1]
-https://www.theguardian.com/global-development/2020/apr/01/extreme-coronavirus-lockdown-controls-raise-fears-for-worlds-poorest
+perma.cc/G7S7-5WHS
 [2]
-https://www.lanacion.com.py/pais/2020/05/31/policia-nacional-lamenta-penoso-suceso-y-promete-colaborar-para-el-esclarecimiento/
+perma.cc/W4DW-PNXE
 [3]
-https://www.amnesty.org/en/latest/news/2020/05/americas-authorities-must-protect-people-covid19-repressive-measures/
+perma.cc/T6FP-BWEZ
 [4]
-https://monitor.civicus.org/country/paraguay/#newspost-3912
+perma.cc/BV4N-DWS8
 [5]
-https://www.abc.com.py/nacionales/2021/03/06/reportan-al-menos-20-heridos-tras-enfrentamientos-en-el-microcentro/
+perma.cc/TF28-X72Y
 
 
 
@@ -3457,17 +3523,17 @@ https://www.abc.com.py/nacionales/2021/03/06/reportan-al-menos-20-heridos-tras-e
 
 *Sources*:
  [1]
-https://www.infodefensa.com/latam/2020/07/13/noticia-investiga-militares-policias-delitos-funcion-durante-cuarentena.html
+perma.cc/ZE2R-QBWE
 [2]
-https://ojo-publico.com/1716/policia-detiene-y-agrede-editor-regional-de-ojopublico
+perma.cc/8RKY-Z8NU
 [3]
-https://lta.reuters.com/articulo/salud-coronavirus-peru-idLTAKBN22H2L5-OUSLT
+perma.cc/2D73-ZYLK
 [4]
-https://www.amnesty.org/en/latest/news/2020/03/peru-debe-derogar-ley-impunidad-abusos-policiales-emergencia-covid19/
+perma.cc/QC6N-J8TS
 [5]
-https://www.hrw.org/news/2020/05/12/peru-law-protects-abusive-policing
+perma.cc/4AVF-NZ2W
 [6]
-https://www.hrw.org/es/world-report/2021/country-chapters/377401
+perma.cc/NA28-7XXF
 
 
 
@@ -3502,20 +3568,12 @@ https://www.hrw.org/es/world-report/2021/country-chapters/377401
 I have not found new cases of police violence. However since these incidents appear to be occuring frequently, I have coded this variable as 2 on all time periods. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/03/philippine-children-face-abuse-violating-covid-19-curfew
-
-
-https://www.rappler.com/nation/256369-lockdown-violators-arrested-philippines-march-2020
-
-
-https://www.vice.com/en_ca/article/ep4mgm/philippines-cop-kneel-man-coronavirus-violation-police-brutality
-
-
-https://foreignpolicy.com/2020/04/16/duterte-philippines-coronavirus-response-shoot-them-dead/
-
-https://www.amnesty.org/en/latest/news/2021/04/philippines-faces-health-human-rights-crisis-covid/
-
-https://www.rappler.com/nation/pnp-no-more-arrests-quarantine-violators-during-mecq
+ https://perma.cc/74NC-EJGA
+https://perma.cc/9L7Y-K2V5
+https://perma.cc/ZQ6E-EGH4
+https://perma.cc/5CR7-QHBM
+https://perma.cc/DDB8-UJVV
+https://perma.cc/5M7M-EN8A
 
 
 
@@ -3540,9 +3598,13 @@ https://www.rappler.com/nation/pnp-no-more-arrests-quarantine-violators-during-m
  In August, October, November 2020, the police engaged violence to disperse protests, such as using teargas and beating protestors. Since the protests were dispersed for not complying with Covid-19 restrictions on protests, pomviol is coded as 2 in Q3 and Q4 2020. 
 
 *Sources*:
- https://apnews.com/article/europe-poland-coronavirus-pandemic-courts-europe-8fd07c868e11af4e022454939ff00146
-https://www.bbc.com/news/world-europe-54657021
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/poland/
+ https://perma.cc/T332-Q9DE
+
+
+https://perma.cc/J9BG-XK75
+
+
+https://perma.cc/59F8-UA4Z
 
 
 
@@ -3568,11 +3630,11 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/pol
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/europe-and-central-asia/portugal/
+perma.cc/3GV9-UCBD
 [2]
-https://www.hrw.org/europe/central-asia/portugal
+perma.cc/2SGL-QKM8
 [3]
-https://www.publico.pt/2021/02/16/sociedade/noticia/psp-abre-inquerito-duvidas-uso-forca-accao-policial-barreiro-1950939
+perma.cc/85KL-ZLPV
 
 
 
@@ -3597,26 +3659,16 @@ https://www.publico.pt/2021/02/16/sociedade/noticia/psp-abre-inquerito-duvidas-u
  Dozens of migrants workers from Nepal were placed in detention centers and then deported after being approached by the police who said that they were going to get tested for Covid-19 (detained on 12 and 13 March 2020, deported on 15 and 19 March 2020) (also see discrim), which is a case of unlawful confinement. However, no evidence suggests that these arrests were violent, and this is thus not accounted for here. Furthermore,  no evidence of any other excessive use of force in relation to Covid-19 measures has been found. This is therefore coded as  0 for all other periods. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/04/qatar-migrant-workers-illegally-expelled-during-covid19-pandemic/
-
-https://aineupstrmediaprd.blob.core.windows.net/media/23165/statement-to-amnesty-on-repatriation-of-nepalese-workers-in-qatarpdf.pdf
-
-https://www.theguardian.com/global-development/2020/mar/20/covid-19-lockdown-turns-qatars-largest-migrant-camp-into-virtual-prison
-
-
-https://www.amnesty.org/en/latest/news/2020/03/qatar-migrant-workers-in-labour-camps-at-grave-risk-amid-covid19-crisis/
-
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B694%5D&covid19=1
-
-https://www.hrw.org/news/2020/08/24/qatar-little-progress-protecting-migrant-workers
-
-https://www.euronews.com/2020/08/24/qatar-many-migrant-workers-not-paid-or-paid-too-late-report-claims
-
-https://www.hrw.org/world-report/2021/country-chapters/qatar
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qatar/
+ https://perma.cc/T2QE-R7AZ
+https://perma.cc/NCT2-T7XG
+https://perma.cc/96QK-HVGY
+https://perma.cc/8Q6F-N9L4
+https://perma.cc/F39L-ESD6
+https://perma.cc/9KB3-8RNW
+https://perma.cc/7D9U-47S6
+https://perma.cc/8ATK-KX83
+https://perma.cc/MZ6Z-US7J
+https://perma.cc/UML4-FNPY
 
 
 
@@ -3641,13 +3693,12 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qat
  No evidence of police violence in enforcing Covid-19 measures was found. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/republic-of-the-congo/
+ https://perma.cc/3ABJ-CQU7
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+https://perma.cc/59KS-EP8Y
+https://perma.cc/S9S8-DZEG
 
-https://www.africanews.com/tag/republic-of-congo/
-
-https://www.france24.com/en/20200328-virus-prevention-measures-turn-violent-in-parts-of-africa
+https://perma.cc/8ZH7-72KA
 
 
 
@@ -3672,8 +3723,10 @@ https://www.france24.com/en/20200328-virus-prevention-measures-turn-violent-in-p
  Reports of a case of police violence against Roma on 30 April 2020 during the enforcement of emergency measures (Amnesty International). A criminal investigation was opened by the Prosecutor and chief of police who led the operation was dismissed by Minister of the Interior. Since it was one incident and I have not found any further information on police violence, pomviol is coded as 1 only during March-June 2020. 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-https://balkaninsight.com/2020/04/24/video-of-romanian-police-beating-roma-causes-outrage/
+ https://perma.cc/8H33-JB4G
+
+
+https://perma.cc/H7Y6-9XRF
 
 
 
@@ -3698,8 +3751,10 @@ https://balkaninsight.com/2020/04/24/video-of-romanian-police-beating-roma-cause
  Video footage of police assaulting people without masks in Chechnya. Since it was one incident and I have not found any further information on police violence, pomviol is coded as 1 only during March-June 2020. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/04/eastern-europe-and-central-asia-human-rights-must-be-protected-during-covid19-pandemic/
-https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
+ https://perma.cc/B7B5-7BY2
+
+
+https://perma.cc/P87M-EYN9
 
 
 
@@ -3731,26 +3786,28 @@ For this reason, but also because it is only this incident reported, coding is 1
 No more incidents were found after Q2 of 2020. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/24/rwanda-lockdown-arrests-abuses-surge
-(1)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/rwanda/
-(2)
-
-https://www.youtube.com/watch?v=oD4M-av8gnU
-
-https://www.africanews.com/2020/08/07/rwanda-s-extreme-covid-19-prevention-tactics//
+ perma.cc/R6ZB-KNQ7
 
 
-http://www.xinhuanet.com/english/2020-04/05/c_138949296.htm
-
-https://www.bloomberg.com/news/articles/2020-06-21/tanzanian-president-faces-rare-challenge-for-party-nomination
-
-https://allafrica.com/stories/202003260464.html
-
-https://www.france24.com/en/20200328-virus-prevention-measures-turn-violent-in-parts-of-africa
+perma.cc/9BXP-Z5SK
 
 
+perma.cc/X9CB-AECF
+
+
+perma.cc/3QL5-V5LD
+
+
+perma.cc/YWX2-5BXB
+
+
+perma.cc/YYX8-JZW3
+
+
+perma.cc/NG5S-5TGG
+
+
+perma.cc/8ZH7-72KA
 
 
 
@@ -3775,9 +3832,10 @@ https://www.france24.com/en/20200328-virus-prevention-measures-turn-violent-in-p
  Neither Human Rights Watch nor Amnesty International has reported any violence when enforcing the emergency measures, and I have found no other indication of such violence. This is therefore coded as 0 for all periods. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38555&resourceType=newsarticle&sort=date
+ https://perma.cc/J42W-2TUD
 
-https://www.hrw.org/news?country[]=9647
+
+https://perma.cc/3RTR-ST3P
 
 
 
@@ -3805,25 +3863,15 @@ Police in Senegal have fired tear gas and rubber bullets at protesters demanding
 The state of emergency was lifted on 30 June 2020. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/senegal/
-(1)
-
-https://www.youtube.com/watch?v=ADf7lmJDu_0
-(2)
-
-https://www.france24.com/en/20200604-senegal-to-ease-virus-curfew-after-angry-protests
-
-https://www.news24.com/news24/africa/news/lockdown-senegal-arrests-74-people-over-violent-protests-against-coronavirus-curfew-20200604
-
-https://www.reuters.com/article/us-health-coronavirus-africa-police/in-parts-of-africa-police-are-accused-of-excess-force-amid-coronavirus-lockdowns-idUSKCN21S0M9
-
-https://www.france24.com/en/20200401-security-forces-use-violent-tactics-to-enforce-africa-s-coronavirus-shutdowns
-
-https://www.amnesty.org/en/get-involved/take-action/justice-pour-les-victimes-de-la-repression-violente-des-manifestations-au-senegal/
-
-https://www.dw.com/en/at-least-4-dead-in-senegal-protests/a-56782432
-
-https://www.africanews.com/2021/04/09/senegalese-government-announces-probe-into-unrest//
+ perma.cc/4WF7-ELKQ
+perma.cc/2S3Q-6UXH
+perma.cc/P5LH-UC4P
+perma.cc/ASG3-BFMB
+perma.cc/V997-FWKT
+perma.cc/4Q9X-YT3M
+https://web.archive.org/web/20210312170105/https://www.amnesty.org/en/get-involved/take-action/justice-pour-les-victimes-de-la-repression-violente-des-manifestations-au-senegal/
+perma.cc/3UNL-DLA7
+perma.cc/MHU2-KTRB
 
 
 
@@ -3848,12 +3896,19 @@ https://www.africanews.com/2021/04/09/senegalese-government-announces-probe-into
  One report of a police officer hitting a person who violated curfew; coded as 1 in March-June 2020 since it is only one incident. Note that police violence during anti-lockdown protests in July is not considered part of emergency measures. 
 
 *Sources*:
- https://rs.n1info.com/english/news/a589618-serbias-police-to-probe-officer-behaviour-during-state-of-emergency/
-https://www.hrw.org/europe/central-asia/serbia/kosovo
-https://www.amnesty.org/en/countries/europe-and-central-asia/serbia/
+ https://perma.cc/G37G-XHP9
 
-https://www.amnesty.org/en/latest/news/2020/07/serbia-violent-police-crackdown-against-covid-19-lockdown-protesters-must-stop/
-https://ipi.media/numerous-journalists-beaten-and-attacked-covering-serbia-protests/
+
+https://perma.cc/8R2V-NQTF
+
+
+https://perma.cc/65U5-39G7
+
+
+https://perma.cc/7WJ5-6GXE
+
+
+https://perma.cc/LE43-NNBD
 
 
 
@@ -3878,9 +3933,9 @@ https://ipi.media/numerous-journalists-beaten-and-attacked-covering-serbia-prote
  No instances of police violence were found to enforce COVID-19 measures. However, there are cases of police violence throughout the country. 
 
 *Sources*:
- https://www.hrw.org/africa/sierra-leone
-https://www.amnesty.org/en/search/?country=38633
-https://www.thesierraleonetelegraph.com/sierra-leone-police-brutality-and-the-spill-over-effect-on-government-op-ed/
+ [1]	perma.cc/UG49-Y28Y
+[2]	perma.cc/WK74-HX7C
+[3]	perma.cc/FF7C-4CRZ
 
 
 
@@ -3905,11 +3960,9 @@ https://www.thesierraleonetelegraph.com/sierra-leone-police-brutality-and-the-sp
  I did not find evidence of instances of security forces engaging in physical violence to execute the emergency measures across all time periods. 
 
 *Sources*:
- https://rsf.org/en/singapore
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/singapore/
-
-https://www.hrw.org/asia/singapore
+ https://perma.cc/J4Z3-WR78
+https://perma.cc/UY9Y-TTYW
+https://perma.cc/J8SH-GA69
 
 
 
@@ -3934,10 +3987,11 @@ https://www.hrw.org/asia/singapore
  One case of police violence against Roma where "on 29 April, a police officer beat and threatened to shoot several Romani children in the settlement of Krompachy (one of the quarantined communities) for not respecting the quarantine measures. " (European Union Agency for Fundamental Human Rights, 1).  Since it was one incident and I have not found any further information on police violence, pomviol is coded as 1 only during March-June 2020. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/fra-2020-coronavirus-pandemic-eu-bulletin-roma_en.pdf
+ https://perma.cc/C79T-F54V
 (1)
-http://www.errc.org/reports--submissions/roma-rights-in-the-time-of-covid
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/slovakia/
+
+https://perma.cc/PZX7-XMW8
+https://perma.cc/CN5P-NXGN
 
 
 
@@ -3962,9 +4016,8 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/slo
  No instances of police violence found. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/slovenia/
-https://www.hrw.org/sitesearch?search=slovenia&sort_by=created
-
+ [1]	perma.cc/U7GT-QSNF
+[2]	perma.cc/C5AW-8QXK
 
 
 
@@ -3989,10 +4042,8 @@ https://www.hrw.org/sitesearch?search=slovenia&sort_by=created
  In late April, a police officer in Mogadishu was arrested for shooting at least one civilian while he was enforcing restrictions over the pandemic. Since it is one incident and no further cases of police violence in the implementation of Covid-19 measures are reported, pomviol is coded as 0 for the rest of the time periods. 
 
 *Sources*:
- https://www.africanews.com/2020/04/26/somalians-protest-over-fatal-police-shooting-to-enforce-lockdown
-
-
-https://www.aljazeera.com/news/2020/04/anger-mogadishu-police-kill-civilian-covid-19-curfew-200425143536573.html
+ https://perma.cc/3BQJ-GNTR
+https://perma.cc/A383-J2X7
 
 
 
@@ -4017,15 +4068,10 @@ https://www.aljazeera.com/news/2020/04/anger-mogadishu-police-kill-civilian-covi
  From March to June 2020, the Independent Police Investigative Directorate (IPID) received 588 complaints related to the enforcement of the lockdown measures - including killings, torture, assault, and discharge of firearms. At least 11 persons died at the hands of law enforcement during this period [3]. According to experts, "the problem has continued" into 2021 [4]. Police brutality is endemic in South Africa, with over 60,000 cases lodged and 3,686 police killings  between 2010 and 2020 [1,2].  However, we found no evidence of further violent enforcement of Covid-19 emergency measures after June 2020; therefore, we code this as "0" for subsequent quarters despite the widespread nature of police brutality in this case. 
 
 *Sources*:
- [1]
-https://www.timeslive.co.za/news/south-africa/2021-04-09-police-brutality-nearly-60000-cases-opened-against-cops-in-10-years/
-[2]
-https://foreignpolicy.com/2021/05/31/southafrica-police-brutality-julies/
-[3]
-http://www.ipid.gov.za/content/ipid-investigates-588-complaints-covid-19-period
-[4]
-https://blog.petrieflom.law.harvard.edu/2021/04/13/human-rights-rule-of-law-south-africa-covid/
-
+ [1]	perma.cc/EHR4-8X4V
+[2]	perma.cc/QJF3-XURQ
+[3]	perma.cc/847H-92MC
+[4]	perma.cc/28LW-ZKZK
 
 
 
@@ -4050,16 +4096,10 @@ https://blog.petrieflom.law.harvard.edu/2021/04/13/human-rights-rule-of-law-sout
  I did not find any information related to this across all time periods. 
 
 *Sources*:
- https://rsf.org/en/south-korea
-
-
-https://www.hrw.org/asia/south-korea
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/south-korea/
-
-
-https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
+ https://perma.cc/67Z5-NR3U
+https://perma.cc/9S8X-MEC6
+https://perma.cc/LQ2G-LZ7Y
+https://perma.cc/M5DV-QWLS
 
 
 
@@ -4084,10 +4124,16 @@ https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
  No evidence was found that indicates that security forces, such as the civilian police or military, has engaged in physical violence to execute the emergency measures. 
 
 *Sources*:
- https://www.hrw.org/news/2020/06/09/south-sudan-soldiers-kill-civilians-land-dispute
-https://www.amnesty.org/en/countries/africa/south-sudan/
-https://www.hrw.org/africa/south-sudan
-https://www.bbc.com/news/topics/c302m85q54lt/south-sudan
+ https://perma.cc/3NDU-MAXQ
+
+
+https://perma.cc/A6AU-4J3M
+
+
+https://perma.cc/KUV2-MVZY
+
+
+https://perma.cc/C2CV-7JVK
 
 
 
@@ -4112,16 +4158,11 @@ https://www.bbc.com/news/topics/c302m85q54lt/south-sudan
  There were reports of police harassment and violence against people who disrespected the emergency measures during the first state of emergency, which was lifted on June 21. Other instances of police violence were not identified. 
 
 *Sources*:
- [1]
-https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-[2]
-https://www.publico.es/tremending/2020/03/23/coronavirus-indignacion-por-unos-videos-de-policias-abofeteando-a-detenidos-los-castigos-los-ponen-los-jueces-no-la-policia/
-[3]
-https://rpp.pe/mundo/actualidad/coronavirus-covid-19-espana-la-policia-agredio-a-un-joven-con-habilidades-especiales-que-no-pudo-justificar-su-salida-a-la-calle-noticia-1255262
-[4]
-https://www.elplural.com/sociedad/cruz-cuarentena-abusos-policiales-jueces-balcones_236144102
-[5]
-https://www.elplural.com/sociedad/polemica-detencion-guardas-no-permiten-trabajador-sacar-autorizacion_236126102
+ [1]	perma.cc/6ZVV-5KCZ
+[2]	perma.cc/2LL9-NQHX
+[3]	perma.cc/K3RJ-8L5G
+[4]	perma.cc/8L7A-FKBQ
+[5]	perma.cc/WCJ9-ERTR
 
 
 
@@ -4149,24 +4190,17 @@ I did not find additional information on instance of police or military violence
 
 *Sources*:
  (1)
-https://www.thehindu.com/news/international/concern-over-police-brutality-in-sri-lanka/article31798486.ece
-
-
+https://perma.cc/CZ4Q-V3YZ
 (2)
-https://www.thehindu.com/news/international/sri-lanka-to-probe-police-assault-on-autistic-teen/article31761545.ece
-
-
+https://perma.cc/Q3GQ-TTJC
 (3)
-https://www.newsfirst.lk/2020/04/13/two-cops-interdicted-for-imposing-indian-style-punishment/
-
+https://perma.cc/QX6H-Z4BF
 (4)
-https://economynext.com/sri-lanka-bar-association-concerned-about-police-brutality-says-will-intervene-if-necessary-80387/
-
+https://perma.cc/DJ2B-VV8H
 (5)
-https://www.newsfirst.lk/2021/03/29/video-cop-brutally-assaults-man-on-busy-road/
-
+https://perma.cc/Z7B8-Q9EH
 (6)
-https://srilankabrief.org/tag/police-brutality/
+https://perma.cc/PR7L-YYVG
 
 
 
@@ -4191,14 +4225,10 @@ https://srilankabrief.org/tag/police-brutality/
  No evidence was found that indicates that security forces, such as the civilian police or military, has engaged in physical violence to execute the emergency measures for the pandemic response. 
 
 *Sources*:
- [1]
-https://www.hrw.org/africa/sudan
-[2]
-https://www.amnesty.org/en/search/?country=38641&resourceType=newsarticle&sort=date
-[3]
-https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
-[4]
-https://www.garda.com/crisis24/news-alerts/330896/sudan-protests-possible-in-khartoum-despite-ban-on-public-gatherings-april-9
+ [1]	perma.cc/K3LE-GYAW
+[2]	perma.cc/89LB-GTUV
+[3]	perma.cc/97XT-WSEN
+[4]	perma.cc/Y6TQ-R9YN
 
 
 
@@ -4223,16 +4253,22 @@ https://www.garda.com/crisis24/news-alerts/330896/sudan-protests-possible-in-kha
  Neither Human Rights Watch, Amnesty International nor EU agency for fundamental rights have reported any incidents of violence in enforcing emergency measures. There have been a few protest toward the restrictions in Sweden, but reports about these mention no excessive force when dispercing these in the cases they have become unlawful. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9625
-https://www.amnesty.org/en/search/?country=38508&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_july_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
+ https://perma.cc/N25B-8UK8
 
 
-https://www.di.se/nyheter/brak-vid-protester-mot-restriktionerna-sex-poliser-skadade/
+https://perma.cc/SZB7-TWC8
 
-https://www.svd.se/hundratalet-samlade-for-anticoronademonstration
+
+https://perma.cc/X3FW-H775
+
+
+https://perma.cc/6CE2-Z3QJ
+
+
+https://perma.cc/VY69-27A5
+
+
+https://perma.cc/W48R-Z9E3
 
 
 
@@ -4257,15 +4293,19 @@ https://www.svd.se/hundratalet-samlade-for-anticoronademonstration
  Amnesty International, Human Rights wWatch and the US state department has not reported any violence by security forces when enforcing emergency measures, and there are no other indications of such violence occurring. Note that police have dispersed some protests against the Covid-19 restrictions were some force has been used such as tear gas, but this does not seem to be excessive force. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38510&resourceType=newsarticle&sort=date
+ https://perma.cc/D8FG-3DAH
 
-https://www.hrw.org/news?country%5B%5D=9626
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/switzerland/
+https://perma.cc/4KJ3-HRF4
 
-https://www.amnesty.org/en/countries/europe-and-central-asia/switzerland/report-switzerland/
 
-https://www.swissinfo.ch/eng/police-break-up-unauthorised-covid-demonstration-in-central-swiss-town/46521070
+https://perma.cc/BEX3-PQZ7
+
+
+https://perma.cc/L9ST-8B9K
+
+
+https://perma.cc/ZQ4Q-XBZE
 
 
 
@@ -4290,10 +4330,10 @@ https://www.swissinfo.ch/eng/police-break-up-unauthorised-covid-demonstration-in
  No info on physical violence being used to execute the emergency measures. 
 
 *Sources*:
- https://rsf.org/en/taiwan
+ https://perma.cc/QP6L-7SPS
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/taiwan/
+https://perma.cc/C68T-XQ99
 
 
 
@@ -4318,8 +4358,11 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/taiwan/
  No instances of police or military violence found. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/tajikistan/
-https://www.hrw.org/europe/central-asia/tajikistan
+ https://perma.cc/HV3Q-ABTK
+
+
+
+https://perma.cc/6YK4-NELY
 
 
 
@@ -4345,15 +4388,19 @@ https://www.hrw.org/europe/central-asia/tajikistan
 
 *Sources*:
  [1]
-https://www.hrw.org/africa/tanzania-and-zanzibar
+https://perma.cc/V4UR-QZ83
+
 
 [2]
-https://www.amnesty.org/en/countries/africa/tanzania/
+https://perma.cc/N9PP-KDA3
 
-[3]https://www.bbc.com/news/topics/cjnwl8q4qdrt/tanzania
+
+[3]
+https://perma.cc/5XSW-7ST9
+
 
 [4]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tanzania/
+https://perma.cc/LG87-DWV5
 
 
 
@@ -4378,13 +4425,9 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tan
  I did not find any information related to this. 
 
 *Sources*:
- https://rsf.org/en/thailand
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/thailand/
-
-
-https://www.hrw.org/thailand
+ https://perma.cc/9WHY-T48F
+https://perma.cc/TQK6-83F5
+https://perma.cc/S8FC-TZ5R
 
 
 
@@ -4409,11 +4452,19 @@ https://www.hrw.org/thailand
  Police fire tear gas in clashes with anti-government demonstrators demanding resignation of the President. But no evidence was found that indicates that security forces, such as the civilian police or military, has engaged in physical violence to execute the Covid-19 emergency measures. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/308596/gambia-police-fire-tear-gas-as-thousands-demand-resignation-of-president-in-banjul-january-26-update-4
-https://www.bbc.com/news/topics/cdl8n2edeydt/the-gambia
-https://www.hrw.org/africa/gambia
-https://www.amnesty.org/en/countries/africa/gambia/
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gambia/
+ https://perma.cc/A3U6-7CBT
+
+
+https://perma.cc/LY66-EEXB
+
+
+https://perma.cc/S3JE-HWWQ
+
+
+https://perma.cc/L4GR-6JTP
+
+
+https://perma.cc/5DWH-2HT8
 
 
 
@@ -4440,20 +4491,22 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gam
 No more incidents were found after Q2 of 2020. 
 
 *Sources*:
- https://www.dw.com/fr/lutte-contre-le-coronavirus-au-togo-le-couvre-feu-est-respect%C3%A9-malgr%C3%A9-des-d%C3%A9rapages/a-53026770
-
-https://africanarguments.org/2020/04/21/dictatorships-love-lockdown-coronavirus-togo/
-(2)
+ perma.cc/9SCY-PMVY
 
 
-https://www.africanwomeninlaw.com/post/is-the-virus-a-thief-togolese-women-and-state-violence-in-a-time-of-covid-19
-(3)
+perma.cc/83PK-5TDR
 
-https://togo-online.net/togo/couvre-feu-une-vieille-dame-rouee-de-coups-par-des-militaires/
 
-http://kpatimanews.com/togo-couvre-feu-un-jeune-battu-a-mort-par-les-forces-de-lordre/
+perma.cc/X7HC-8VEJ
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/togo/
+
+perma.cc/ZED4-86EL
+
+
+perma.cc/4RZF-YKZQ
+
+
+perma.cc/CYL3-VRKE
 
 
 
@@ -4478,21 +4531,13 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tog
  Violent repression of protests in January and February 2021 was not clearly about enforcing COVID-19 measures. 
 
 *Sources*:
- [1]
-https://www.hrw.org/middle-east/n-africa/tunisia
-[2]
-https://www.amnesty.org/en/search/?country=38559&resourceType=newsarticle&sort=date
-[3]
-https://www.bbc.com/news/topics/cwlw3xz0lmvt/tunisia
-[4]
-https://www.amnesty.org/en/latest/news/2021/01/tunisia-authorities-must-refrain-from-using-unnecessary-and-excessive-force-against-protesters/
-[5]
-https://www.bbc.com/news/topics/cwlw3xz0lmvt/tunisia?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=6063ec810b5e0102e3fc449d%26Tunisian%20police%20fire%20tear%20gas%20on%20protesters%262021-03-31T06%3A19%3A19.266Z&ns_fee=0&pinned_post_locator=urn:asset:8b5aa29e-bb64-45be-a0fa-bbe43cad6b30&pinned_post_asset_id=6063ec810b5e0102e3fc449d&pinned_post_type=share
-[6]
-https://www.hrw.org/news/2021/02/05/tunisia-police-use-violent-tactics-quash-protests
-[7]
-https://www.bbc.com/news/world-africa-55733224
-[7]
+ [1]	perma.cc/R78T-EHPX
+[2]	perma.cc/8V5W-BLEP
+[3]	perma.cc/HF5N-J5TS
+[4]	perma.cc/F9S2-KN32
+[5]	perma.cc/646K-RKM7
+[6]	perma.cc/UC2H-VALZ
+[7]	perma.cc/J6CH-AKR6
 
 
 
@@ -4517,25 +4562,18 @@ https://www.bbc.com/news/world-africa-55733224
  In April of 2020, a refugee was shot to death by law enforcement when running away from a Covid-19 check point. As this was lethal violence related to Covid-19 measures, this is coded as 2 for Q2 of 2020. For this and other period, there are also some reports that the Turkish police have used force (tear gas, rubber bullets and detentions) when trying to stop HDP demonstrations against the government. Stopping these demonstrations have been made with reference to Covid-19, that the demonstrations contribute to spreading the disease and therefore needs to be stopped. Other types of demonstrations have been met with force from authorities, who stop them referrecning Covid-19. The force seem to in several instances have been excessive, although no reports of lethal violence has been found. There is also one report by Human Rights Watch that states that there are a few reported instances where police have used excessive force when for example scattering or fining people in areas for not following Covid-19 regulations. These are however the only reports of such violence in enforcing the measures that have been found, and it seems to be relatively infrequent. Note also that there has been other instances of police violence in Turkey during the period, but this has not been in relation or reference to Covid-19. This is therefore coded 1 for all periods after Q2 of 2020. 
 
 *Sources*:
- https://www.theguardian.com/world/2020/jun/24/hopes-fade-for-unity-in-turkish-opposition-to-erdogan
-https://www.arabnews.com/node/1690931/middle-east
-https://english.alarabiya.net/en/News/middle-east/2020/06/15/Police-fire-tear-gas-on-pro-Kurdish-protesters-in-northwest-Turkey
-https://english.alaraby.co.uk/english/news/2020/6/15/turkish-police-fire-tear-gas-on-pro-kurdish-rally-
-https://www.hrw.org/news/2020/07/29/turkey-police-watchmen-involved-torture-ill-treatment
-https://www.garda.com/crisis24/news-alerts/338121/turkey-dozens-arrested-during-may-day-rallies-in-istanbul-and-ankara-may-1-update-19
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/turkey/
-
-https://english.alaraby.co.uk/news/turkey-police-shoot-syrian-refugee-dead-during-coronavirus-curfew
-
-https://www.al-monitor.com/originals/2021/05/turkey-bans-filming-protests-hide-police-violence-rights-groups-say
-
-https://www.bbc.com/news/world-56957360
-
-
-https://hasna.org/the-shooting-of-ali-el-hemdan-precarity-and-anxiety-for-turkeys-refugees/
-
-http://www.baransav.com/?pnum=769&pt=Report+of+Violations+of+Right+to+Life+as+a+Result+of+Disproportionate+Use+of+Force+by+Law+Enforcement+officials
+ https://perma.cc/PK69-YQ96
+https://perma.cc/SC3E-ABJ5
+https://perma.cc/22TR-2AWY
+https://perma.cc/7CXN-Y9C8
+https://perma.cc/WSY8-6JX5
+https://perma.cc/L8LQ-JVRK
+https://perma.cc/R24W-Y66Q
+https://perma.cc/SG6B-TKDP
+https://perma.cc/U25G-7R64
+https://perma.cc/B4VB-85XP
+https://perma.cc/79PF-KN6W
+https://perma.cc/XDX9-R9GY
 
 
 
@@ -4560,8 +4598,11 @@ http://www.baransav.com/?pnum=769&pt=Report+of+Violations+of+Right+to+Life+as+a+
  No instances of police violence found 
 
 *Sources*:
- https://www.hrw.org/europe/central-asia/turkmenistan
-https://www.amnesty.org/en/countries/europe-and-central-asia/turkmenistan/
+ https://perma.cc/N6YR-USEU
+
+
+
+https://perma.cc/RSS5-2DAZ
 
 
 
@@ -4586,33 +4627,18 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/turkmenistan/
  There are many reports of violence by security forces enforcing the emergency restrictions, sometimes with deadly outcomes. 
 
 *Sources*:
- [1]
-https://www.bbc.com/news/world-africa-53450850
-[2]
-https://www.rfi.fr/en/africa/20200806-ugandan-police-vet-presidential-debates-deter-crowds-media-bobi-wine-museveni-2021-election
-[3]
-https://www.monitor.co.ug/News/National/Two-shot-Mukono-defying-presidential-directives/688334-5505644-aro68b/index.html
-[4]
-https://thetowerpost.com/2020/03/30/officer-arrested-for-opening-fire-while-dispersing-bar-goers/
-[5]
-https://www.hrw.org/news/2020/04/02/uganda-respect-rights-covid-19-response
-[6]
-https://www.hrw.org/news/2020/04/03/uganda-lgbt-shelter-residents-arrested-covid-19-pretext
-[7]
-https://www.monitor.co.ug/News/National/Elegu-locals-accuse-forces-brutality/688334-5516804-icokkaz/index.html
-[8]
-https://theconversation.com/ugandas-army-and-violence-how-covid-19-is-offering-hints-of-change-138331
-[9]
-https://www.independent.co.ug/ugandan-security-teams-have-killed-six-people-in-covid-19-operations/
-[10]
-https://rsf.org/en/news/uganda-crackdown-reporters-threatens-ugandan-elections-credibility
-[11]
-https://cpj.org/2021/02/ugandan-soldiers-assault-journalists-at-bobi-wine-event-face-opaque-military-trial/
-[12]
-https://cpj.org/2021/02/ugandan-soldiers-assault-journalists-at-bobi-wine-event-face-opaque-military-trial/
-
-[13]
-https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10532-2
+ [1]	perma.cc/7YXB-JAJG
+[2]	perma.cc/R76V-NRLY
+[3]	perma.cc/N9G5-3LQP
+[4]	perma.cc/WG26-N9QD
+[5]	perma.cc/3R2B-2CYR
+[6]	perma.cc/5TSD-YYQK
+[7]	perma.cc/7VVC-FWWW
+[8]	perma.cc/JP7N-NYHR
+[9]	perma.cc/VW49-F2KZ
+[10]	perma.cc/9GPB-2TVD
+[11]	perma.cc/5546-F658
+[12]	perma.cc/7MRX-UKWY
 
 
 
@@ -4637,8 +4663,10 @@ https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10532-2
  No instances of police violence found. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/ukraine/
-https://www.hrw.org/europe/central-asia/ukraine
+ https://perma.cc/J7VX-CD6S
+
+
+https://perma.cc/GV22-95KS
 
 
 
@@ -4663,14 +4691,10 @@ https://www.hrw.org/europe/central-asia/ukraine
  No evidence was found that indicates that security forces, such as the civilian police or military, has engaged in physical violence to execute the emergency measures. 
 
 *Sources*:
- [1]
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/united-arab-emirates/
-[2]
-https://www.hrw.org/middle-east/n-africa/united-arab-emirates
-[3]
-https://www.civicus.org/
-[4]
-https://www.bbc.com/news/topics/ce1qrvlexjet/united-arab-emirates
+ [1]	perma.cc/YA3X-ZYDW
+[2]	perma.cc/DS5L-JFPF
+[3]	perma.cc/78SP-MJ7L
+[4]	perma.cc/9TGD-P3ZN
 
 
 
@@ -4695,18 +4719,28 @@ https://www.bbc.com/news/topics/ce1qrvlexjet/united-arab-emirates
  Human Rights Watch and Amnesty International have not reported any incidents of violence in enforcing emergency measures, and there are no other indiciations of such violence in the emergency measures. In November 2020, there have been several police arrests during anti-lockdown and anti-vaccine protests. There have also been protests in 2021, but the reports on these do not record any excessive force, rather that protesters have harmed police officers when protesters turned violent. There has also been critique toward the police during a vigil in London after the murder of Sarah Everard, but it remains contested whether police used excessive force as the event was not allowed and they were ordered to disperse. As it remains unclear whether the arrests made were excessive or not, this is coded 0 here. Thus, this is coded 0 for all periods. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9631
-https://www.amnesty.org/en/search/?country=38510&resourceType=newsarticle&sort=date
-https://www.reuters.com/article/us-health-coronavirus-britain-demonstrat/british-police-arrest-104-londoners-for-breach-of-lockdown-restrictions-idUSKBN27L31Z
-https://www.reuters.com/article/us-health-coronavirus-britain-protests/uk-police-arrest-over-60-in-anti-lockdown-protests-idUSKBN2880KY
+ https://perma.cc/TNE8-7JAP
 
-https://www.bbc.com/news/uk-england-london-56878486
 
-https://www.globaltimes.cn/page/202103/1218476.shtml
+https://perma.cc/VB6W-EL7Y
 
-https://www.bbc.com/news/uk-56394344
 
-https://www.france24.com/en/europe/20210321-uk-riot-police-deployed-after-kill-the-bill-protest-in-bristol-turns-violent
+https://perma.cc/FT3H-YBLT
+
+
+https://perma.cc/STR7-4VW8
+
+
+https://perma.cc/L4R9-QSBX
+
+
+https://perma.cc/P7Y8-5VMH
+
+
+https://perma.cc/D5Y7-HWH6
+
+
+https://perma.cc/Z8WG-CXM9
 
 
 
@@ -4731,12 +4765,19 @@ https://www.france24.com/en/europe/20210321-uk-riot-police-deployed-after-kill-t
  While there have been numerous incidents of police violence in the US since March 2020, for instance in relation to Black Lives Matter protests during the summer, no reports have been found that any of these are linked to enforcing Covid-19 restrictions, or that any other use of excessive force has occurred within the Covid-19 emergency measures. This is therefore coded as 0 for all periods. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9456
-https://www.amnesty.org/en/search/?country=38334&resourceType=newsarticle&sort=date
-https://www.hrw.org/world-report/2021/country-chapters/united-states
+ https://perma.cc/WY3U-8FKD
 
 
-https://www.amnesty.org/en/countries/americas/united-states-of-america/report-united-states-of-america/
+https://perma.cc/49RG-8VDP
+
+
+https://perma.cc/TJF4-VDTJ
+
+
+
+
+
+https://perma.cc/CH7M-3P6K
 
 
 
@@ -4762,18 +4803,11 @@ https://www.amnesty.org/en/countries/americas/united-states-of-america/report-un
 There are reports that security forces engaged in violence to disperse agglomerations that direspected social distancing measures. The incident happened in November, 2020, in Montevideo. The Inter-American Commission on Human Rights issued a statement expressing concern over it, to which the Foreign Ministry replied that there was no police misconduct. In May 2021 there were accusations of police misconduct that the Minister of Interior said would be investigated. 
 
 *Sources*:
- [1]
-https://www.elpais.com.uy/informacion/politica/larranaga-seguiran-fogoneando-ese-relato-parece-apuesta-politica.html
-
-[2]
-https://www.montevideo.com.uy/Noticias/Once-detenidos-y-dos-policias-con-lesiones-leves-en-enfrentamiento-en-Plaza-Seregni-uc769366
-
-[3]
-https://www.elpais.com.uy/informacion/politica/plaza-seregni-cancilleria-respondio-mensaje-comision-interamericana-dd-hh.html
-[4]
-https://www.montevideo.com.uy/Noticias/Larranaga-sobre-denuncias-de-abuso-policial--Que-las-traigan-que-vamos-a-investigar--uc786495
-[5]
-https://www.montevideo.com.uy/Noticias/INDDHH-determino-que-hubo-abuso-policial-en-operativo-con-persona-en-situacion-de-calle-uc784482
+ [1]	perma.cc/63TZ-75HA
+[2]	perma.cc/MV7F-RFGY
+[3]	perma.cc/U8V5-U7DN
+[4]	perma.cc/XB24-9HSZ
+[5]	perma.cc/JCM2-PCXZ
 
 
 
@@ -4798,9 +4832,16 @@ https://www.montevideo.com.uy/Noticias/INDDHH-determino-que-hubo-abuso-policial-
  In June 2020, the police allegedly tried to strangle a person for not wearing a mask. In July 2020, a judge was beated by police officers while waiting to pass through checkpoints that were in place as part of the Covid-19 measures. Since I found no further cases of police violence, pomviol is coded as 1 in Q2 2020, Q3 2020. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/uzbekistan/
-https://fergana.agency/news/120152/
-https://rus.ozodlik.org/a/30674521.html
+ https://perma.cc/2K55-4ZYM
+
+
+https://perma.cc/AMX8-G4G9
+
+
+https://perma.cc/J6GU-P2NT
+
+
+
 
 
 
@@ -4826,23 +4867,23 @@ https://rus.ozodlik.org/a/30674521.html
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/08/28/venezuela-police-state-lashes-out-amid-covid-19
+perma.cc/C34S-BJKT
 [2]
-https://elpais.com/internacional/2020-04-29/castigos-de-cuartel-por-violar-la-cuarentena-en-venezuela.html
+perma.cc/B7S2-Y9ZD
 [3]
-https://www.bbc.com/mundo/noticias-america-latina-52450803
+perma.cc/D8C5-SB2Y
 [4]
-https://www.ohchr.org/Documents/Countries/VE/A_HRC_44_20_AdvanceUneditedVersion.pdf
+perma.cc/47RK-Z9CL
 [5]
-https://www.nytimes.com/es/2020/08/19/espanol/america-latina/venezuela-represion-coronavirus.html
+perma.cc/5UTU-JJP3
 [6]
-https://www.derechos.org.ve/actualidad/se-multiplican-abusos-y-detenciones-en-tiempos-de-cuarentena-covid-191
+perma.cc/T8H8-XBS9
 [7]
-https://www.opendemocracy.net/es/racismo-violencia-estatal-venezuela-hoy/
+perma.cc/H5Q8-RPQN
 [8]
-https://www.amnesty.org/download/Documents/ACT3034432020SPANISH.pdf
+perma.cc/JBM2-4KJX
 [9]
-https://www.swissinfo.ch/spa/la-polic%C3%ADa--a-la-caza-de-infractores-de-medidas-contra-el-covid-en-barriada-de-venezuela/46466868
+perma.cc/248K-RKH2
 
 
 
@@ -4867,12 +4908,9 @@ https://www.swissinfo.ch/spa/la-polic%C3%ADa--a-la-caza-de-infractores-de-medida
  I did not find any information related to this across all time periods. 
 
 *Sources*:
- https://rsf.org/en/vietnam
-
-https://www.hrw.org/asia/vietnam
-
-
-https://www.bbc.com/news/topics/c207p54m4n2t/vietnam
+ https://perma.cc/N4M9-7YWC
+https://perma.cc/DF8P-43ME
+https://perma.cc/U5QE-9DYU
 
 
 
@@ -4901,17 +4939,23 @@ On 27 September 2020, police shot a man dead when they were enforcing curfew res
 In January 2021, President Lungu issued a press statement saying that the abusive enforcement of Covid-19 regulations by security officials is "regrettable" (4). Nevertheless, police spokespersons have been on record stating that "We hammer you, we hit you, then we do detention. If you escape, you are lucky" (5) and that "police will not tolerate being dared" (6) concerning political rallies that go against Covid-19 restrictions. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/zambia/
+ https://perma.cc/3VC9-CJDE
 (1)
-https://www.garda.com/crisis24/news-alerts/344951/zambia-riots-reported-in-nakonde-over-lockdown-measures-may-20
+
+https://perma.cc/M2CF-GLKY
 (2)
-https://www.parliament.gov.zm/sites/default/files/images/publication_docs/Ministerial%20Statement%20on%20Police%20Shootings%20in%20Lusaka%20and%20North-Western%20Provinces%20and%20Phase%20II%20of%20Mobile%20Issuance%20National%20Registration%20Cards.pdf
+
+https://perma.cc/FY8M-ZYJU
 (3)
-https://www.sh.gov.zm/?wpfb_dl=286
+
+https://perma.cc/K6TX-MBXT
 (4)
-https://www.justice.gov/eoir/page/file/1345736/download
+
+https://web.archive.org/web/20210501201132/https://www.justice.gov/eoir/page/file/1345736/download
+
 (5)
-https://www.lusakatimes.com/2021/05/29/charity-katanga-warns-political-players-not-to-dare-the-zambia-police-by-defying-covid-19-protocols/
+
+https://perma.cc/9P2A-MV43
 (6)
 
 
@@ -4938,20 +4982,9 @@ https://www.lusakatimes.com/2021/05/29/charity-katanga-warns-political-players-n
 No information was found indicating that the violations stopped. 
 
 *Sources*:
- https://allafrica.com/stories/202004090375.html
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648907/
-
-https://www.aljazeera.com/news/2020/04/anxiety-rights-violations-zimbabwe-enforces-lockdown-200406131100256.html
-
-
-
-https://www.bbc.com/news/world-africa-52726220
-
-
-
-https://www.voanews.com/africa/rights-groups-welcome-court-ban-brutal-zimbabwe-covid-19-lockdown
-
-
-
-https://www.amnesty.org/en/latest/news/2020/07/zimbabwe-authorities-thwart-anti-corruption-protests-launch-a-witchhunt-against-activists/
+ https://perma.cc/67WE-X6RA
+https://perma.cc/HWZ3-4LS4
+https://perma.cc/9MES-JE8A
+https://perma.cc/RDZ8-QCLW
+https://perma.cc/DR4N-87AV
+https://perma.cc/24WL-FY8G

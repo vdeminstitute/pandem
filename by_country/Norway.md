@@ -45,27 +45,43 @@
  In Q2 of 2020, Norway passed a new law, the Corona Act, on 24 March 2020. This was the main legal instrument under which measures were enacted, and therefore coded 4 as this was a new law. In addition to measures passed under the Corona Act, Norway has other implemented emergency measures based on the "Lov om vern mot smittsomme sykdommer [smittevernloven]" (the Act of 5 August 1994 No. 55 relating to control of communicable diseases), first used to adopt quarantine measures for people arriving from abroad as "Vedtak etter lov om vern mot smittsomme sykdommer § 4-1 andre ledd om karantene (isolering) etter reiser utenfor Norden" (13 March 2020, FOR-2020-03-12-271), and some emergency measures were passed as amendments to "Forskrift om smitteverntiltak mv. ved koronautbruddet (Covid-19-forskriften)" from 27 March 2020 (FOR-2020-03-27-470). At the same time, the Corona Act expired on 2020-05-27, which made the "Lov om vern mot smittsomme sykdommer [smittevernloven]" (the Act of 5 August 1994 No. 55 relating to control of communicable diseases) the main legal instrument, and is still in use. All of these constituted new laws and were no state of emergencies, and this is therefore coded as 4. 
 
 *Sources*:
- https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2019-2020/the-corona-act/
+ https://perma.cc/2FT3-3UR2
 
-https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2019-2020/vedtak-201920-080/
 
-https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyheter/2019-2020/skal-behandle-fullmaktslov/
-https://lovdata.no/dokument/LTI/lov/2020-03-27-17
+https://perma.cc/RNX4-GU25
 
-https://lovdata.no/artikkel/forskrifter_med_heimel_i_koronaloven/2682
-https://lovdata.no/dokument/LTI/forskrift/2020-03-12-271
 
-https://www.norway.no/en/canada/norway-canada/news-events/news2/the-norwegian-government-introduces-a-variety-of-new-measures-to-prevent-transmission-of-the-coronavirus/
+https://perma.cc/V6Z4-F6H6
 
-https://www.regjeringen.no/contentassets/9d991e8a50774074b5b703d0268c1b76/regulations_on_quarantine.pdf
 
-https://lovdata.no/dokument/SF/forskrift/2020-03-27-470/#KAPITTEL_5
+https://perma.cc/HHM5-MVR8
 
-https://lovdata.no/dokument/NL/lov/1994-08-05-55
 
-https://verfassungsblog.de/the-pomp-of-popular-constitutional-outrage/
+https://perma.cc/FJ5E-CWBJ
 
-https://www.regjeringen.no/no/tema/Koronasituasjonen/plan-for-gradvis-gjenapning/id2842645/
+
+https://perma.cc/VSW2-PV5B
+
+
+https://perma.cc/P33M-Q933
+
+
+https://perma.cc/WJR2-24N7
+
+
+https://perma.cc/HU7T-L6JM
+
+
+https://perma.cc/MJK8-VSZS
+
+
+https://perma.cc/TBV7-YVD8
+
+
+https://perma.cc/237H-P42C
+
+
+
 
 
 
@@ -104,10 +120,13 @@ https://www.regjeringen.no/no/tema/Koronasituasjonen/plan-for-gradvis-gjenapning
 *No comment provided* 
 
 *Sources*:
- https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyheter/2019-2020/skal-behandle-fullmaktslov/
-https://lovdata.no/dokument/NL/lov/1994-08-05-55
+ https://perma.cc/BZK7-8DF5
 
-https://verfassungsblog.de/the-pomp-of-popular-constitutional-outrage/
+
+https://perma.cc/96CJ-EALL
+
+
+https://perma.cc/NZ5A-DK88
 
 
 
@@ -146,14 +165,19 @@ https://verfassungsblog.de/the-pomp-of-popular-constitutional-outrage/
 *No comment provided* 
 
 *Sources*:
- https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2019-2020/the-corona-act/
+ https://perma.cc/CQ3M-6PU8
 
-https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2019-2020/vedtak-201920-080/
 
-https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyheter/2019-2020/skal-behandle-fullmaktslov/
-https://lovdata.no/dokument/LTI/forskrift/2020-03-12-271
+https://perma.cc/28EZ-2Y2H
 
-https://www.norway.no/en/canada/norway-canada/news-events/news2/the-norwegian-government-introduces-a-variety-of-new-measures-to-prevent-transmission-of-the-coronavirus/
+
+https://perma.cc/6WNM-FMLX
+
+
+https://perma.cc/24X4-M7Q4
+
+
+https://perma.cc/B547-6YD6
 
 
 
@@ -193,12 +217,16 @@ https://www.norway.no/en/canada/norway-canada/news-events/news2/the-norwegian-go
 For the other periods, the implementation of "Lov om vern mot smittsomme sykdommer [smittevernloven]" (The Act Relating to the Control of Communicable Diseases) has not ended at the time of coding. 
 
 *Sources*:
- https://www.regjeringen.no/no/tema/Koronasituasjonen/forskrifter-med-hjemmel-i-koronaloven/id2695150/
+ https://perma.cc/2DDH-SPKK
 
-https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyheter/2019-2020/skal-behandle-fullmaktslov/
-https://verfassungsblog.de/the-pomp-of-popular-constitutional-outrage/
 
-https://www.regjeringen.no/no/tema/Koronasituasjonen/plan-for-gradvis-gjenapning/id2842645/
+https://perma.cc/75H5-QCQ9
+
+
+https://perma.cc/A7FX-5ZAP
+
+
+https://perma.cc/H76J-WXNZ
 
 
 
@@ -240,14 +268,22 @@ https://www.regjeringen.no/no/tema/Koronasituasjonen/plan-for-gradvis-gjenapning
  For Q2 of 2020, the initial time limit of the Corona Act was 1 month. For the other periods, when using the using "Lov om vern mot smittsomme sykdommer [smittevernloven]" (the Act of 5 August 1994 No. 55 relating to control of communicable diseases) as the main legal instrument, no defined time limit or end date has been found for major restrictions such as limitations on assembly and private gatherings. No time limit has been found on the legal instrument itself either. This is therefore coded 0 for all other periods. 
 
 *Sources*:
- https://www.regjeringen.no/no/tema/Koronasituasjonen/forskrifter-med-hjemmel-i-koronaloven/id2695150/
+ https://perma.cc/FQ4K-H2GT
 
-https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyheter/2019-2020/skal-behandle-fullmaktslov/
-https://lovdata.no/dokument/SF/forskrift/2020-03-27-470/#KAPITTEL_5
-https://verfassungsblog.de/the-pomp-of-popular-constitutional-outrage/
 
-https://www.regjeringen.no/no/tema/Koronasituasjonen/plan-for-gradvis-gjenapning/id2842645/
-https://www.regjeringen.no/en/aktuelt/english/id2842670/
+https://perma.cc/CH4Z-BKN7
+
+
+https://perma.cc/2B48-8TQW
+
+
+https://perma.cc/4CNU-38H6
+
+
+https://perma.cc/J9CX-67J6
+
+
+https://perma.cc/A3KF-GMDP
 
 
 
@@ -286,13 +322,19 @@ https://www.regjeringen.no/en/aktuelt/english/id2842670/
  For Q2 of 2020, the initial time limit of the Corona Act was 1 month. For the other periods, when using the using "Lov om vern mot smittsomme sykdommer [smittevernloven]" (the Act of 5 August 1994 No. 55 relating to control of communicable diseases) as the main legal instrument, no defined time limit or end date has been found for major restrictions such as limitations on assembly and private gatherings. No time limit has been found on the legal instrument itself either. This is therefore coded 0 for all other periods. 
 
 *Sources*:
- https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyheter/2019-2020/skal-behandle-fullmaktslov/
-https://lovdata.no/dokument/SF/forskrift/2020-03-27-470/#KAPITTEL_5
+ https://perma.cc/ELR8-LBBN
 
-https://verfassungsblog.de/the-pomp-of-popular-constitutional-outrage/
 
-https://www.regjeringen.no/no/tema/Koronasituasjonen/plan-for-gradvis-gjenapning/id2842645/
-https://www.regjeringen.no/en/aktuelt/english/id2842670/
+https://perma.cc/2RNZ-TYLV
+
+
+https://perma.cc/H2EG-GA2Q
+
+
+https://perma.cc/VQ2B-VJM7
+
+
+https://perma.cc/4JCQ-DM3V
 
 
 
@@ -334,13 +376,19 @@ https://www.regjeringen.no/en/aktuelt/english/id2842670/
  In Q2 of 2020, the parliament had to pass the Corona Act for it to come in effect. The underlying legislation for the subsequent main legal instrument, "Lov om vern mot smittsomme sykdommer [smittevernloven]" (the Act of 5 August 1994 No. 55 relating to control of communicable diseases) (§ 4-1.), was already in place since 1994. However, the amendments that were made in order to use it for Covid-19 measures had to be and were passed by parliament on June 23 2020. Parliament has also passed several other amendments after that. 
 
 *Sources*:
- https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2019-2020/the-corona-act/
+ https://perma.cc/MEJ4-CJMC
 
-https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2019-2020/vedtak-201920-080/
 
-https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyheter/2019-2020/skal-behandle-fullmaktslov/
-https://lovdata.no/dokument/NL/lov/1994-08-05-55
-https://oxcon.ouplaw.com/view/10.1093/law-occ19/law-occ19-e3
+https://perma.cc/E2KD-C6PM
+
+
+https://perma.cc/PD9F-8RK3
+
+
+https://perma.cc/7TJR-VW8A
+
+
+https://perma.cc/E64S-S2CL
 
 
 
@@ -382,13 +430,19 @@ https://oxcon.ouplaw.com/view/10.1093/law-occ19/law-occ19-e3
  In Q2 of 2020, the parliament had to pass the Corona Act for it to come in effect. The underlying legislation for the subsequent main legal instrument, "Lov om vern mot smittsomme sykdommer [smittevernloven]" (the Act of 5 August 1994 No. 55 relating to control of communicable diseases) (§ 4-1.), was already in place since 1994. However, the amendments that were made in order to use it for Covid-19 measures had to be and were passed by parliament on June 23 2020. Parliament has also passed several other amendments after that. 
 
 *Sources*:
- https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2019-2020/the-corona-act/
+ https://perma.cc/MEJ4-CJMC
 
-https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2019-2020/vedtak-201920-080/
 
-https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyheter/2019-2020/skal-behandle-fullmaktslov/
-https://lovdata.no/dokument/NL/lov/1994-08-05-55
-https://oxcon.ouplaw.com/view/10.1093/law-occ19/law-occ19-e3
+https://perma.cc/E2KD-C6PM
+
+
+https://perma.cc/PD9F-8RK3
+
+
+https://perma.cc/7TJR-VW8A
+
+
+https://perma.cc/E64S-S2CL
 
 
 
@@ -434,16 +488,25 @@ https://oxcon.ouplaw.com/view/10.1093/law-occ19/law-occ19-e3
  The Norwegian parliament has continued to work throughout the pandemic, and have passed both the Corona Act and then subsequent amendments that are used as the main legal instruments, as well as other Covid-19 related legislation (and other legislation). No evidence has been found that their law-making role has been limited. This is therefore coded 0 for all periods. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#N
+ https://perma.cc/M5NR-W2D4
 
-https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2019-2020/the-corona-act/
 
-https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2019-2020/the-storting-constitutes-coronavirus-special-committee/
-https://lovdata.no/dokument/NL/lov/1994-08-05-55
-https://www.stortinget.no/no
-https://oxcon.ouplaw.com/view/10.1093/law-occ19/law-occ19-e3
+https://perma.cc/AW4C-9GUQ
 
-https://verfassungsblog.de/the-pomp-of-popular-constitutional-outrage/
+
+https://perma.cc/RZ3Y-L7VZ
+
+
+https://perma.cc/Z9W8-SAYX
+
+
+https://perma.cc/G3YQ-PJ5X
+
+
+https://perma.cc/ZA9S-XGME
+
+
+https://perma.cc/5AFP-DVM8
 
 
 
@@ -565,19 +628,28 @@ https://verfassungsblog.de/the-pomp-of-popular-constitutional-outrage/
  In Q2 of 2020, the emergency measures have been taken nationwide and no sub-national variation has been found in Norway. This is therefore coded as 0. For Q3 and Q4, some extra restrictions were in place in the Oslo area, but uniform otherwise. This is therefore coded as 1 for these periods. In Q1 And Q2 of 2021, additional sub-national variation has been introduced, along with a system to determine the general level of restrictions regionally depending on the degree of outbreak. This has caused more sub-national variation, but not complete variation, and is therefore coded 2. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-https://www.garda.com/crisis24/news-alerts/384291/norway-authorities-tighten-Covid-19-restrictions-in-oslo-as-of-september-29-update-16
+ https://perma.cc/WB29-MHJK
 
-https://www.nrk.no/osloogviken/innforer-forbud-mot-private-samlinger-med-flere-enn-ti-personer-1.15168519
-https://www.regjeringen.no/no/tema/Koronasituasjonen/sporsmal-og-svar-om-koronasituasjonen/tiltaksniva-ved-lokale-smitteutbrudd/id2831989/
 
-https://www.garda.com/crisis24/news-alerts/475281/norway-authorities-to-ease-certain-Covid-19-restrictions-in-oslo-from-may-6-update-42
+https://perma.cc/3A5E-M4C8
 
-https://www.garda.com/crisis24/news-alerts/455946/norway-authorities-tighten-Covid-19-restrictions-in-viken-county-as-of-march-16-update-35
 
-https://www.garda.com/crisis24/news-alerts/449236/norway-authorities-to-tighten-Covid-19-restrictions-in-oslo-from-march-2-update-34
+https://perma.cc/6BZK-YL2S
 
-https://www.garda.com/crisis24/news-alerts/440161/norway-authorities-tighten-some-local-restrictions-as-of-feb-8-in-response-to-new-strain-of-Covid-19-update-32
+
+https://perma.cc/8YFK-44PN
+
+
+https://perma.cc/LVJ8-VNY3
+
+
+https://perma.cc/6TCX-PXEE
+
+
+https://perma.cc/SL5R-UV49
+
+
+https://perma.cc/6TGG-ESRB
 
 
 
@@ -621,8 +693,7 @@ https://www.garda.com/crisis24/news-alerts/440161/norway-authorities-tighten-som
  Human Rights Watch and Amnesty International have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9615
-https://www.amnesty.org/en/countries/europe-and-central-asia/norway/
+ https://perma.cc/C3TP-6THK
 
 
 
@@ -671,8 +742,10 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/norway/
  Amnesty International have not reported any violations of non-derogable rights within the response to Covid-19, and no other indications of such violations has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9615
-https://www.amnesty.org/en/countries/europe-and-central-asia/norway/
+ https://perma.cc/5SHL-G499
+
+
+https://perma.cc/6UQF-MTH6
 
 
 
@@ -716,15 +789,16 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/norway/
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Norwegian Governments response to Covid-19. Note that there has been debate regarding Norway during Q1 and Q2 of 2021 not exempting journalists from the mandatory quarantine of 10 days when entering the country, which in practice limits international journalists covering news in Norway. However, as this does not influence the reporting on media and journalists based in Norway, this is not accounted for. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B126%5D=126
+ https://perma.cc/W8SX-XQJC
 
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Norway
+https://perma.cc/5JCV-STJY
 
 
-https://cpj.org/europe/norway/
+https://perma.cc/EQ2Z-4RJ2
 
-https://www.ifj.org/media-centre/news/detail/category/Covid-19-report-safely/article/norway-mandatory-quarantine-rule-for-foreign-journalists-must-be-amended.html
+
+https://perma.cc/U5KL-K89W
 
 
 
@@ -763,8 +837,10 @@ https://www.ifj.org/media-centre/news/detail/category/Covid-19-report-safely/art
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B126%5D=126
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Norway
+ https://perma.cc/D7QW-HATC
+
+
+https://perma.cc/R382-8ETY
 
 
 
@@ -803,8 +879,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B126%5D=126
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Norway
+ https://perma.cc/D7QW-HATC
+
+
+https://perma.cc/R382-8ETY
 
 
 
@@ -847,17 +925,16 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
 Note that there has been debate regarding Norway during Q1 and Q2 of 2021 not exempting journalists from the mandatory quarantine of 10 days when entering the country, which in practice limits international journalists covering news in Norway. However, as this does not influence the reporting on media and journalists based in Norway, this is not accounted for. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B126%5D=126
+ https://perma.cc/W8SX-XQJC
 
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Norway
+https://perma.cc/5JCV-STJY
 
 
-https://cpj.org/europe/norway/
+https://perma.cc/EQ2Z-4RJ2
 
-https://www.ifj.org/media-centre/news/detail/category/Covid-19-report-safely/article/norway-mandatory-quarantine-rule-for-foreign-journalists-must-be-amended.html
 
- 
+https://perma.cc/U5KL-K89W
 
 
 
@@ -900,17 +977,16 @@ https://www.ifj.org/media-centre/news/detail/category/Covid-19-report-safely/art
 Note that there has been debate regarding Norway during Q1 and Q2 of 2021 not exempting journalists from the mandatory quarantine of 10 days when entering the country, which in practice limits international journalists covering news in Norway. However, as this does not influence the reporting on media and journalists based in Norway, this is not accounted for. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B126%5D=126
+ https://perma.cc/W8SX-XQJC
 
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Norway
+https://perma.cc/5JCV-STJY
 
 
-https://cpj.org/europe/norway/
-
-https://www.ifj.org/media-centre/news/detail/category/Covid-19-report-safely/article/norway-mandatory-quarantine-rule-for-foreign-journalists-must-be-amended.html
+https://perma.cc/EQ2Z-4RJ2
 
 
+https://perma.cc/U5KL-K89W
 
 
 
@@ -953,15 +1029,16 @@ https://www.ifj.org/media-centre/news/detail/category/Covid-19-report-safely/art
 Note that there has been debate regarding Norway during Q1 and Q2 of 2021 not exempting journalists from the mandatory quarantine of 10 days when entering the country, which in practice limits international journalists covering news in Norway. However, as this does not influence the reporting on media and journalists based in Norway, this is not accounted for. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B126%5D=126
+ https://perma.cc/W8SX-XQJC
 
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Norway
+https://perma.cc/5JCV-STJY
 
 
-https://cpj.org/europe/norway/
+https://perma.cc/EQ2Z-4RJ2
 
-https://www.ifj.org/media-centre/news/detail/category/Covid-19-report-safely/article/norway-mandatory-quarantine-rule-for-foreign-journalists-must-be-amended.html
+
+https://perma.cc/U5KL-K89W
 
 
 
@@ -1005,15 +1082,16 @@ https://www.ifj.org/media-centre/news/detail/category/Covid-19-report-safely/art
 Note that there has been debate regarding Norway during Q1 and Q2 of 2021 not exempting journalists from the mandatory quarantine of 10 days when entering the country, which in practice limits international journalists covering news in Norway, and hence also their access to information. However, as this does not influence the reporting on media and journalists based in Norway, this is not accounted for. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B126%5D=126
+ https://perma.cc/W8SX-XQJC
 
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Norway
+https://perma.cc/5JCV-STJY
 
 
-https://cpj.org/europe/norway/
+https://perma.cc/EQ2Z-4RJ2
 
-https://www.ifj.org/media-centre/news/detail/category/Covid-19-report-safely/article/norway-mandatory-quarantine-rule-for-foreign-journalists-must-be-amended.html
+
+https://perma.cc/U5KL-K89W
 
 
 
@@ -1055,8 +1133,10 @@ https://www.ifj.org/media-centre/news/detail/category/Covid-19-report-safely/art
  Neither Reporters Without Borders nor International Press Institute have reported any verbal harassment of journalists in Norway, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B126%5D=126
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Norway
+ https://perma.cc/4S5S-RK84
+
+
+https://perma.cc/EU8U-QG7A
 
 
 
@@ -1098,8 +1178,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Neither Reporters Without Borders nor International Press Institute have reported any physical harassment of journalists in Norway, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B126%5D=126
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Norway
+ https://perma.cc/D7QW-HATC
+
+
+https://perma.cc/R382-8ETY
 
 
 
@@ -1143,8 +1225,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  There's no deviations from the information provided by WHO and that of the Norwegian government on Covid-19, and no complaints or accusations of any such disinformation have been found. 
 
 *Sources*:
- https://helsenorge.no/coronavirus
-https://helsenorge.no/coronavirus/infection-and-incubation-period
+ https://perma.cc/FB2F-H7PK
+
+
+https://perma.cc/G35Q-XRN4
 
 
 
@@ -1188,8 +1272,10 @@ https://helsenorge.no/coronavirus/infection-and-incubation-period
  Human Rights Watch and Amnesty International have not  reported any incidents of violence in enforcing emergency measures, and there are no other indiciations of such violence in the emergency measures 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9615
-https://www.amnesty.org/en/countries/europe-and-central-asia/norway/
+ https://perma.cc/5SHL-G499
+
+
+https://perma.cc/6UQF-MTH6
 
 
 
@@ -1231,5 +1317,7 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/norway/
 *No comment provided* 
 
 *Sources*:
- http://euromil.org/armed-forces-and-Covid-19/
-https://www.forsvaret.no/en/news/archive/the-norwegian-armed-forces-and-the-Covid-19-pandemic
+ https://perma.cc/MT23-8SGP
+
+
+https://perma.cc/QE3S-Y83L

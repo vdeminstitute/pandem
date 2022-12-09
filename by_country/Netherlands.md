@@ -46,29 +46,19 @@
 For Q4 of 2020, this changed however.  From 1 December 2020, regional emergency ordinances were replaced by a national "Emergency Act on measures against COVID-19" (Tijdelijke wet maatregelen Covid-19). This measures taken through this law have been debated as a court disallowed the use of a curfew under it (although an appeals court later partially revoked that decision), and parliament and the government then passed an amendment to this law enabling such a curfew. However, this Emergency Act continues to be the overarching legislation determining the Covid-19 response, and is at the time of coding set to end on 2021-09-01. This is therefore coded as 4 for Q4 of 2020 and Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Netherlands_2008.pdf?lang=en
+ https://perma.cc/YM84-7TRH
 
-
-
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic-_may_2020.pdf
-
-https://verfassungsblog.de/the-netherlands-of-rollercoasters-and-elephants/
-
-https://wetten.overheid.nl/BWBR0027466/2020-01-01
-
-https://www.veiligheidsberaad.nl/2020/03/17/landelijke-model-noodverordening-voor-de-veiligheidsregios/
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_july_2020.pdf
-https://www.rijksoverheid.nl/onderwerpen/coronavirus-Covid-19/nederlandse-maatregelen-tegen-het-coronavirus/coronawet-vervangt-noodverordeningen
-
-https://wetten.overheid.nl/BWBR0044337/2020-12-01
-
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-
-https://www.bbc.com/news/world-europe-56084466
-
-https://verfassungsblog.de/Covid-19-in-the-netherlands-of-changing-tides-and-constitutional-constants/
-
-https://wetten.overheid.nl/BWBR0044416/2021-05-22
+https://perma.cc/9PWC-JWYS
+https://perma.cc/24D9-XRS7
+https://perma.cc/5PEC-QQ8N
+https://perma.cc/RW9C-B6D9
+https://perma.cc/65MY-UD3A
+https://perma.cc/Q6NU-RVW3
+https://perma.cc/FLW4-K6VR
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://perma.cc/FHD3-FTZ8
+https://perma.cc/8Z88-AR8V
+https://perma.cc/4CZ2-2MNX
 
 
 
@@ -108,10 +98,13 @@ https://wetten.overheid.nl/BWBR0044416/2021-05-22
 Q4 of 2020  and Q1-Q2 of 2021: "Tijdelijke wet maatregelen Covid-19" can be translated as "Emergency Act on measures against COVID-19" or "Temporary COVID-19 Act". 
 
 *Sources*:
- https://wetten.overheid.nl/BWBR0044337/2020-12-01
-https://verfassungsblog.de/Covid-19-in-the-netherlands-of-changing-tides-and-constitutional-constants/
+ https://perma.cc/R4T4-NLPN
 
-https://wetten.overheid.nl/BWBR0044416/2021-05-22
+
+https://perma.cc/2HPL-QNJ2
+
+
+https://perma.cc/8GTU-KR63
 
 
 
@@ -150,11 +143,13 @@ https://wetten.overheid.nl/BWBR0044416/2021-05-22
  Q2-Q3 2020, no national-level emergency response. "Tijdelijke wet maatregelen Covid-19" went into force on 1 December 2020. 
 
 *Sources*:
- https://wetten.overheid.nl/BWBR0044337/2020-12-01#ArtikelX
+ https://perma.cc/9NLR-FVQG
 
-https://verfassungsblog.de/Covid-19-in-the-netherlands-of-changing-tides-and-constitutional-constants/
 
-https://wetten.overheid.nl/BWBR0044416/2021-05-22
+https://perma.cc/2HPL-QNJ2
+
+
+https://perma.cc/8GTU-KR63
 
 
 
@@ -194,10 +189,13 @@ https://wetten.overheid.nl/BWBR0044416/2021-05-22
 "Tijdelijke wet maatregelen Covid-19", which was enacted on 2020-12-01, has a time limit of 3 months and can be extended through a Royal Decree. It was extended in late February, and then again in late May, and is currently set to expire on 2021-09-01. 
 
 *Sources*:
- https://wetten.overheid.nl/BWBR0044337/2020-12-01#ArtikelX
-https://verfassungsblog.de/Covid-19-in-the-netherlands-of-changing-tides-and-constitutional-constants/
+ https://perma.cc/L4TV-J9Z2
 
-https://wetten.overheid.nl/BWBR0044416/2021-05-22
+
+https://perma.cc/RV5J-BMBC
+
+
+https://perma.cc/Q8EF-63N6
 
 
 
@@ -240,11 +238,16 @@ https://wetten.overheid.nl/BWBR0044416/2021-05-22
 "Tijdelijke wet maatregelen Covid-19" has a time limit of 3 months and can be (and has been)  extended through a Royal Decree. 
 
 *Sources*:
- https://www.rijksoverheid.nl/onderwerpen/coronavirus-Covid-19/nederlandse-maatregelen-tegen-het-coronavirus/coronawet-vervangt-noodverordeningen
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_november_2020.pdf
-https://verfassungsblog.de/Covid-19-in-the-netherlands-of-changing-tides-and-constitutional-constants/
+ https://perma.cc/F4GG-HYTK
 
-https://wetten.overheid.nl/BWBR0044416/2021-05-22
+
+https://perma.cc/8KQB-RF6R
+
+
+https://perma.cc/A2SV-HMGY
+
+
+https://perma.cc/68K4-QDF6
 
 
 
@@ -284,11 +287,16 @@ https://wetten.overheid.nl/BWBR0044416/2021-05-22
 "Tijdelijke wet maatregelen Covid-19" has a time limit of 3 months and went into force on 1 December 2020, thus making the first expiry date on 2021-02-28. It was extended in late February 2021, and then set to expire on 2021-06-01, thus making it the end date for Q1 of 2021. In late of May 2021, the government extended it again, and is currently set to expire on 2021-09-01. 
 
 *Sources*:
- https://www.rijksoverheid.nl/onderwerpen/coronavirus-Covid-19/nederlandse-maatregelen-tegen-het-coronavirus/coronawet-vervangt-noodverordeningen
-https://wetten.overheid.nl/BWBR0044337/2020-12-01#ArtikelX
-https://verfassungsblog.de/Covid-19-in-the-netherlands-of-changing-tides-and-constitutional-constants/
+ https://perma.cc/EYG7-JRZL
 
-https://wetten.overheid.nl/BWBR0044416/2021-05-22
+
+https://perma.cc/X8X5-8YAF
+
+
+https://perma.cc/D67M-T2MB
+
+
+https://perma.cc/2FG9-XZNB
 
 
 
@@ -331,13 +339,10 @@ https://wetten.overheid.nl/BWBR0044416/2021-05-22
 "Tijdelijke wet maatregelen Covid-19" had to be debated and approved by parliament. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_november_2020.pdf
-
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-
-https://verfassungsblog.de/Covid-19-in-the-netherlands-of-changing-tides-and-constitutional-constants/
-
-https://wetten.overheid.nl/BWBR0044416/2021-05-22
+ https://perma.cc/MQ9M-TFZV
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://perma.cc/AH72-ZZEP
+https://perma.cc/6UYM-RRJR
 
 
 
@@ -380,13 +385,10 @@ https://wetten.overheid.nl/BWBR0044416/2021-05-22
 Tijdelijke wet maatregelen Covid-19" had to be debated and approved by parliament. The House of Representatives passed this bill on 13 October 2020. The senate passed the bill on 27 October 2020. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_november_2020.pdf
-
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-
-https://verfassungsblog.de/Covid-19-in-the-netherlands-of-changing-tides-and-constitutional-constants/
-
-https://wetten.overheid.nl/BWBR0044416/2021-05-22
+ https://perma.cc/MQ9M-TFZV
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://perma.cc/AH72-ZZEP
+https://perma.cc/6UYM-RRJR
 
 
 
@@ -433,18 +435,31 @@ https://wetten.overheid.nl/BWBR0044416/2021-05-22
 Note however that there was some critique about the relatively marginal role parliament played in the emergency measures up until the enactment of the Emergency Act, as the Covid-19 response was dealt with by the 25 emergency regions before that. This was a system where government and these regions coordinated the response, thus not involving parliament directly. 
 
 *Sources*:
- https://www.houseofrepresentatives.nl/news/house-representatives-increase-number-debates
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic-_may_2020.pdf
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#N
+ https://perma.cc/497T-RJ4X
 
 
-https://www.rijksoverheid.nl/onderwerpen/coronavirus-Covid-19/nederlandse-maatregelen-tegen-het-coronavirus/coronawet-vervangt-noodverordeningen
+https://perma.cc/N9MK-QG82
 
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_november_2020.pdf
 
-https://verfassungsblog.de/Covid-19-in-the-netherlands-of-changing-tides-and-constitutional-constants/
+https://perma.cc/53PL-KHNK
 
-https://wetten.overheid.nl/BWBR0044416/2021-05-22
+
+
+
+
+https://perma.cc/X8YQ-TBTD
+
+
+https://perma.cc/7QSY-DZ2D
+
+
+https://perma.cc/GQ8X-W7RT
+
+
+https://perma.cc/SE2C-EENC
+
+
+
 
 
 
@@ -566,15 +581,19 @@ https://wetten.overheid.nl/BWBR0044416/2021-05-22
  For Q2 and Q3 of 2020, the emergency measures are taken at the sub-national level in The Netherlands, the emergency response has been heavily coordinated by the government, and there are no major variations between regions. Some small variation seem to be in place though, and this is therefore coded as 1. For the later periods, no measures implemented on a subnational level found. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.garda.com/crisis24/news-alert-full-history/A4mgehRxM6Mbrgj4B/netherlands-klm-extends-flight-restrictions-to-and-from-china-until-march-29
-https://www.garda.com/search?query=netherlands%20Covid-19&sort_by=created&page=0
+ https://perma.cc/LSG5-NVRM
 
 
-https://verfassungsblog.de/Covid-19-in-the-netherlands-of-changing-tides-and-constitutional-constants/
+https://perma.cc/WCU3-EUVA
 
- 
+
+https://perma.cc/4P5L-QTRT
+
+
+
+
+
+https://perma.cc/6XG8-VX28
 
 
 
@@ -618,16 +637,23 @@ https://verfassungsblog.de/Covid-19-in-the-netherlands-of-changing-tides-and-con
  Human Rights Watch, Amnesty International and EU agency of fundamental righs have not reported any discrimination within the  response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9614
-
-https://www.amnesty.org/en/search/?country=38487&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_july_2020.pdf
+ https://perma.cc/2PM8-ZWPG
 
 
 
+https://perma.cc/D5C6-8G6U
 
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_november_2020.pdf
+
+
+https://perma.cc/2XAQ-Z65Q
+
+
+
+https://perma.cc/WWA4-RESD
+
+
+
+https://perma.cc/V7T3-QVNU
 
 
 
@@ -676,16 +702,22 @@ https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_p
  Neither the EU agency for fundamental rights, Human Rights Watch or Amnesty international has reported any incidents of violations of non-derogable rights, and no other indication has been found that that has occurred in  Netherlands's Covid-19 response. This is therefore coded as 0. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9614
-
-https://www.amnesty.org/en/search/?country=38487&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_july_2020.pdf
+ https://perma.cc/7TZR-6QSK
 
 
+https://perma.cc/9VB7-CTZC
 
 
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_november_2020.pdf
+https://perma.cc/MH6E-C2F4
+
+
+https://perma.cc/2ZKB-GCD8
+
+
+
+
+
+https://perma.cc/M4FJ-EHYU
 
 
 
@@ -729,10 +761,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_p
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Dutch Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B129%5D=129
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Netherlands
+ https://perma.cc/8X2V-2X5R
 
-https://cpj.org/europe/netherlands/
+
+https://perma.cc/5NAY-L69Q
+
+
+https://perma.cc/HV39-BKGZ
 
 
 
@@ -771,8 +806,10 @@ https://cpj.org/europe/netherlands/
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B129%5D=129
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Netherlands
+ https://perma.cc/C69E-XXT2
+
+
+https://perma.cc/S5QQ-CRNA
 
 
 
@@ -811,8 +848,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B129%5D=129
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Netherlands
+ https://perma.cc/C69E-XXT2
+
+
+https://perma.cc/S5QQ-CRNA
 
 
 
@@ -854,10 +893,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Neither Reporters Without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in The Netherlands, and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B129%5D=129
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Netherlands
+ https://perma.cc/8X2V-2X5R
 
-https://cpj.org/europe/netherlands/
+
+https://perma.cc/5NAY-L69Q
+
+
+https://perma.cc/HV39-BKGZ
 
 
 
@@ -899,10 +941,13 @@ https://cpj.org/europe/netherlands/
  Neither Reporters Without Borders nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in The Netherlands, and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B129%5D=129
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Netherlands
+ https://perma.cc/8X2V-2X5R
 
-https://cpj.org/europe/netherlands/
+
+https://perma.cc/5NAY-L69Q
+
+
+https://perma.cc/HV39-BKGZ
 
 
 
@@ -944,10 +989,13 @@ https://cpj.org/europe/netherlands/
  Neither Reporters Without Borders nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in The Netherlands, and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B129%5D=129
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Netherlands
+ https://perma.cc/8X2V-2X5R
 
-https://cpj.org/europe/netherlands/
+
+https://perma.cc/5NAY-L69Q
+
+
+https://perma.cc/HV39-BKGZ
 
 
 
@@ -990,10 +1038,13 @@ https://cpj.org/europe/netherlands/
  Neither Reporters Without Borders nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information, and there's no other indications of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B129%5D=129
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Netherlands
+ https://perma.cc/8X2V-2X5R
 
-https://cpj.org/europe/netherlands/
+
+https://perma.cc/5NAY-L69Q
+
+
+https://perma.cc/HV39-BKGZ
 
 
 
@@ -1035,13 +1086,19 @@ https://cpj.org/europe/netherlands/
  Neither Reporters Without Borders nor International Press Institute have reported any verbal harassment of journalists in The Netherlands, and no other indications have been found of there having been any such harassment. Note that there have been reports during the fall and winter of 2020 of journalists being subject to harassment and a hostile environment, but these reports are in relation to covering various Covid-19 protests, and the harassment has come from protesters, not the authorities. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B129%5D=129
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Netherlands
+ https://perma.cc/4VX9-7JBN
 
-https://cpj.org/europe/netherlands/
-https://ipi.media/increasing-threats-and-violence-against-journalists-in-the-netherlands/
 
-https://rsf.org/en/news/reporters-attacked-while-covering-protests-against-Covid-19-measures-italy
+https://perma.cc/VH4P-QUCU
+
+
+https://perma.cc/NNP4-FUYB
+
+
+https://perma.cc/H4DN-QAFV
+
+
+https://perma.cc/7N73-AHNX
 
 
 
@@ -1083,13 +1140,19 @@ https://rsf.org/en/news/reporters-attacked-while-covering-protests-against-Covid
  Neither Reporters Without Borders nor International Press Institute have reported any physical harassment of journalists in The Netherlands, and no other indications have been found of there having been any such harassment. Note that there have been reports during the fall and winter of 2020 of journalists being subject to harassment and a hostile environment, but these reports are in relation to covering various Covid-19 protests, and the harassment has come from protesters, not the authorities. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B129%5D=129
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Netherlands
+ https://perma.cc/8X2V-2X5R
 
-https://cpj.org/europe/netherlands/
-https://ipi.media/increasing-threats-and-violence-against-journalists-in-the-netherlands/
 
-https://rsf.org/en/news/reporters-attacked-while-covering-protests-against-Covid-19-measures-italy
+https://perma.cc/5NAY-L69Q
+
+
+https://perma.cc/HV39-BKGZ
+
+
+https://perma.cc/GN74-KDE2
+
+
+https://perma.cc/7GT7-93LK
 
 
 
@@ -1133,7 +1196,7 @@ https://rsf.org/en/news/reporters-attacked-while-covering-protests-against-Covid
  There's no deviations from the information provided by WHO and that of the Dutch Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
 
 *Sources*:
- https://www.rivm.nl/en/novel-coronavirus-Covid-19
+ https://perma.cc/QRB2-HNQQ
 
 
 
@@ -1177,20 +1240,34 @@ https://rsf.org/en/news/reporters-attacked-while-covering-protests-against-Covid
  Neither Human Rights Watch, Amnesty International nor EU agency for fundamental rights have reported any incidents of violence in enforcing emergency measures for Q2-Q4 of 2020. However, in Q1 of 2021 a large number of protests broke out in the Netherlands in relation to the extensive Covid-19 restrictions, which resulted in several clashes with law enforcement. Generally, police seem to have not used excessive force under these circumstances, and protesters have also been violent on many occasions, as well as having gathered far more people than demonstrations allowed for. A couple of instances of excessive force is mentioned however, such as footage of a man being beaten by the police, though no major injuries are reported from these clashes. Furthermore, these protests do not seem to have been on going in Q2 of 2021, and this is therefore coded as 0 again. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9614
-https://www.amnesty.org/en/search/?country=38487&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_july_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_november_2020.pdf
-
-https://www.bbc.com/news/world-europe-56393820
-
-https://www.euronews.com/2021/01/18/dutch-police-arrest-around-100-at-anti-government-covid-19-demonstration
+ https://perma.cc/5WCF-PQEM
 
 
-https://www.reuters.com/article/us-health-coronavirus-netherlands-protes-idUSKBN29T0B2
+https://perma.cc/X7FV-WDPC
 
-https://nltimes.nl/2021/03/17/120-police-violence-complaints-hague-protest
+
+https://perma.cc/73UH-LNEK
+
+
+https://perma.cc/2H4G-2YLN
+
+
+https://perma.cc/YTG3-M2BF
+
+
+https://perma.cc/WXG9-JFTW
+
+
+https://perma.cc/NC7G-VH7X
+
+
+https://perma.cc/T8JS-T2GF
+
+
+https://perma.cc/J8ZF-8JK8
+
+
+
 
 
 
@@ -1232,5 +1309,7 @@ https://nltimes.nl/2021/03/17/120-police-violence-complaints-hague-protest
  The Dutch military is aiding the emergency response, but are not involved in enforcing emergency measures. 
 
 *Sources*:
- http://euromil.org/armed-forces-and-Covid-19/
-https://english.defensie.nl/topics/corona-covid-19
+ https://perma.cc/C7NU-R9WZ
+
+
+https://perma.cc/Y8BC-EFJS

@@ -45,15 +45,28 @@
  Canada has a state of emergency legislation, the Emergency Act, but this has not been activated. Instead, the government uses existing legal framework such as the Quarantine Act, Human Pathogen and Toxins Act, Public Health Act and Public Health Agency of Canada Act to mitigate the spread of Covid-19. Furthermore, they have approved laws relating to Covid-19 (Covid-19 Emergency Response Act 1 and 2) but these are not emergency measures that affect any democratic rights, but rather provide financial aid to different sectors and groups. The Canadian government has also implemented national border restrictions and quarantine of foreign nationals entering Canada. Beyond that aspect, though, the emergency response, and declarations of states of emergency, have instead been conducted more or less entirely at the provincial level. Therefore, this is coded as 6, i.e. they have no national level emergency response because that response is handled by the provinces. 
 
 *Sources*:
- https://www.justice.gc.ca/eng/csj-sjc/covid.html
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.canada.ca/en/public-health/corporate/mandate/about-agency/acts-regulations/list-acts-regulations.html#qt
-https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/canadas-reponse.html
-https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2020_5/page-1.html
-https://www.parl.ca/DocumentViewer/en/43-1/bill/C-14/royal-assent
-https://www.justice.gc.ca/eng/csj-sjc/covid.html
-https://centre.irpp.org/wp-content/uploads/sites/3/2021/03/Variation-in-the-Canadian-provincial-and-territorial-responses-to-COVID-19.pdf
- 
+ https://perma.cc/KTE3-MCVM
+
+
+https://perma.cc/88VQ-QG3W
+
+
+https://perma.cc/WN35-F7SC
+
+
+https://perma.cc/PDZ3-QK7G
+
+
+https://perma.cc/J2RR-93GY
+
+
+https://perma.cc/SLD4-7W7V
+
+
+https://perma.cc/E8MC-HANK
+
+
+https://perma.cc/WCX5-9MXV
 
 
 
@@ -381,12 +394,16 @@ https://centre.irpp.org/wp-content/uploads/sites/3/2021/03/Variation-in-the-Cana
  Large parts of the parliament have been working remotely, and under unusual circumstances with smaller meetings, but their lawmaking role has not been affected. They have also passed laws on financial aid packages (Covid-19 Emergency Responce Act 1 and 2) during this time, and continued to sit and hold its sessions. No indications have been found that the national parliament’s power has been limited. This is therefore coded as 0. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#C
+ https://perma.cc/8A9J-MQR2
 
-https://www.justice.gc.ca/eng/csj-sjc/covid.html
-https://www.acaps.org/covid19-government-measures-dataset
 
-https://www.ourcommons.ca/en/sitting-calendar
+https://perma.cc/QX9Y-PN7M
+
+
+https://perma.cc/C7B8-V7EU
+
+
+https://perma.cc/N89X-M642
 
 
 
@@ -508,13 +525,25 @@ https://www.ourcommons.ca/en/sitting-calendar
  The initial and main emergency responses, such as curfews, bans on gatherings, closing of workplaces and so on, have been taken by the Canadian provinces and territories, and not the federal government. However, the government has coordinated a lot of work, and many efforts (school closings, curfews) occurred at the same time or within days of each other. Furthermore, the measures taken have been largely similar within the states. However, by the time of the second wave of Covid-19 infections, the sub-national variation increased. A recent research report (March 2021) on the sub-national variation in policy response in Canada shows that the difference in response, and timing of responses, increased during this time and has continued to vary more. Thus, from Q4 in 2020 and onwards, this is coded as 3, since there has been less national coordination and a substantial variation among provinces. 
 
 *Sources*:
- https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html?amp%Bqid=96637021
-https://orders-in-council.canada.ca/attachment.php?attach=38952&lang=en
-https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/guidance-documents/federal-provincial-territorial-public-health-response-plan-ongoing-management-Covid-19.html
-https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms/provincial-territorial-resources-Covid-19.html
-https://vancouversun.com/news/stark-differences-found-in-provincial-pandemic-responses
-https://centre.irpp.org/data/Covid-19-provincial-policies/
-https://centre.irpp.org/wp-content/uploads/sites/3/2021/03/Variation-in-the-Canadian-provincial-and-territorial-responses-to-COVID-19.pdf
+ https://perma.cc/8J7U-N22N
+
+
+https://perma.cc/7VZ7-DH75
+
+
+https://perma.cc/XG2H-DQYG
+
+
+https://perma.cc/TYB6-CDC7
+
+
+https://perma.cc/U2T5-T6JZ
+
+
+https://perma.cc/WB6Z-EUY8
+
+
+https://perma.cc/C2SV-J3LS
 
 
 
@@ -558,11 +587,13 @@ https://centre.irpp.org/wp-content/uploads/sites/3/2021/03/Variation-in-the-Cana
  Human Rights Watch and Amnesty International have not reported any discrimination within the federal or provincial response to Covid-19, and no other indications of such discrimination have been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9511
+ https://perma.cc/NFL4-XJAL
 
-https://www.amnesty.org/en/search/?country=38279&resourceType=newsarticle&sort=date
 
-https://www.canada.ca/en/global-affairs/news/2020/04/human-rights-implications-of-Covid-19.html
+https://perma.cc/P55J-FZSR
+
+
+https://perma.cc/X28W-BFJT
 
 
 
@@ -611,12 +642,13 @@ https://www.canada.ca/en/global-affairs/news/2020/04/human-rights-implications-o
  Neither Human Rights Watch nor Amnesty International has reported any incidents of violations of non-derogable rights, and no other indication has been found of such violations in Canada's Covid-19 response. This is therefore coded as 0. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9511
+ https://perma.cc/NFL4-XJAL
 
-https://www.amnesty.org/en/search/?country=38279&resourceType=newsarticle&sort=date
 
-https://www.canada.ca/en/global-affairs/news/2020/04/human-rights-implications-of-Covid-19.html
- 
+https://perma.cc/P55J-FZSR
+
+
+https://perma.cc/X28W-BFJT
 
 
 
@@ -660,10 +692,16 @@ https://www.canada.ca/en/global-affairs/news/2020/04/human-rights-implications-o
  Neither Reporters Without Borders, Committee to Protect Journalists nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B177%5D=177
-https://ipi.media/canada/
-https://www.justice.gc.ca/eng/csj-sjc/covid.html
-https://cpj.org/americas/canada/
+ https://perma.cc/FQE9-8J9K
+
+
+https://perma.cc/FJN2-QB5W
+
+
+https://perma.cc/SN8H-R4NX
+
+
+https://perma.cc/8DFE-M77Q
 
 
 
@@ -702,11 +740,13 @@ https://cpj.org/americas/canada/
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B177%5D=177
+ https://perma.cc/FQE9-8J9K
 
-https://ipi.media/canada/
 
-https://www.justice.gc.ca/eng/csj-sjc/covid.html
+https://perma.cc/FJN2-QB5W
+
+
+https://perma.cc/SN8H-R4NX
 
 
 
@@ -745,11 +785,13 @@ https://www.justice.gc.ca/eng/csj-sjc/covid.html
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B177%5D=177
+ https://perma.cc/FQE9-8J9K
 
-https://ipi.media/canada/
 
-https://www.justice.gc.ca/eng/csj-sjc/covid.html
+https://perma.cc/FJN2-QB5W
+
+
+https://perma.cc/SN8H-R4NX
 
 
 
@@ -791,9 +833,13 @@ https://www.justice.gc.ca/eng/csj-sjc/covid.html
  Neither Reporters Without Borders, Committee to Protect Journalists nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Canada, and no other indications of any such limitation has been found. 
 
 *Sources*:
- https://cpj.org/americas/canada/
-https://rsf.org/en/thematique/internet?countries%5B177%5D=177
-https://ipi.media/canada/
+ https://perma.cc/S2MR-NWND
+
+
+https://perma.cc/4HMY-MVKG
+
+
+https://perma.cc/ABM9-XAKD
 
 
 
@@ -835,9 +881,13 @@ https://ipi.media/canada/
  Neither Reporters Without Borders, Committee to Protect Journalists nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in Canada, and  no other indications of any such limitation has been found. 
 
 *Sources*:
- https://cpj.org/americas/canada/
-https://rsf.org/en/thematique/internet?countries%5B177%5D=177
-https://ipi.media/canada/
+ https://perma.cc/S2MR-NWND
+
+
+https://perma.cc/4HMY-MVKG
+
+
+https://perma.cc/ABM9-XAKD
 
 
 
@@ -879,9 +929,13 @@ https://ipi.media/canada/
  Neither Reporters Without Borders, Committee to Protect Journalists nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in Canada,  and no other indications of any such limitation has been found. 
 
 *Sources*:
- https://cpj.org/americas/canada/
-https://rsf.org/en/thematique/internet?countries%5B177%5D=177
-https://ipi.media/canada/
+ https://perma.cc/S2MR-NWND
+
+
+https://perma.cc/4HMY-MVKG
+
+
+https://perma.cc/ABM9-XAKD
 
 
 
@@ -924,10 +978,16 @@ https://ipi.media/canada/
  The Canadian Government reports that accessing public information might be slower than usual due to the pressure Covid-19 puts on the public sector, but assures that requests will be responded to and that all laws on access to information still apply. Furthermore, Reporters Without Borders and the IPI report no issues on journalists lacking access to information in Canada. 
 
 *Sources*:
- https://www.canada.ca/en/parole-board/corporate/transparency/access-to-information-and-privacy.html
-https://cpj.org/americas/canada/
-https://rsf.org/en/thematique/internet?countries%5B177%5D=177
-https://ipi.media/canada/
+ https://perma.cc/QKN2-2MBK
+
+
+https://perma.cc/87SA-EYCV
+
+
+https://perma.cc/6N6D-NC7J
+
+
+https://perma.cc/DC4Q-C7ZT
 
 
 
@@ -969,9 +1029,13 @@ https://ipi.media/canada/
  Neither Reporters Without Borders, committee to protect journalists nor International Press Institute have reported any verbal harassment of journalists in Canada,  and no other indications of any such harassment has been found. 
 
 *Sources*:
- https://cpj.org/americas/canada/
-https://rsf.org/en/thematique/internet?countries%5B177%5D=177
-https://ipi.media/canada/
+ https://perma.cc/S2MR-NWND
+
+
+https://perma.cc/4HMY-MVKG
+
+
+https://perma.cc/ABM9-XAKD
 
 
 
@@ -1013,9 +1077,13 @@ https://ipi.media/canada/
  Neither Reporters Without Borders, committee to protect journalists nor International Press Institute have reported any physical harassment of journalists in Canada, and no other indications of any such harassment has been found. 
 
 *Sources*:
- https://cpj.org/americas/canada/
-https://rsf.org/en/thematique/internet?countries%5B177%5D=177
-https://ipi.media/canada/
+ https://perma.cc/S2MR-NWND
+
+
+https://perma.cc/4HMY-MVKG
+
+
+https://perma.cc/ABM9-XAKD
 
 
 
@@ -1059,10 +1127,13 @@ https://ipi.media/canada/
  There are no deviations from the information provided by WHO and that of the Canadian Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
 
 *Sources*:
- https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-Covid-19.html
+ https://perma.cc/EY4T-2PGC
 
-https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html?topic=tilelink
-https://ipac-canada.org/coronavirus-resources.php
+
+https://perma.cc/4547-884B
+
+
+https://perma.cc/T8MH-5YQH
 
 
 
@@ -1106,8 +1177,10 @@ https://ipac-canada.org/coronavirus-resources.php
  Human Rights Watch and Amnesty International have not reported any cases of police or military violence when executing emergency measures, and no other indications of such violence has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9511
-https://www.amnesty.org/en/search/?country=38279&resourceType=newsarticle&sort=date
+ https://perma.cc/NFL4-XJAL
+
+
+https://perma.cc/P55J-FZSR
 
 
 
@@ -1149,4 +1222,4 @@ https://www.amnesty.org/en/search/?country=38279&resourceType=newsarticle&sort=d
  The military is involved in aiding the public sector in tackling Covid-19, but they are not deployed to enforce any emergency measures. 
 
 *Sources*:
- https://www.canada.ca/en/department-national-defence/campaigns/Covid-19-military-response.html
+ https://perma.cc/SRF7-E7XA

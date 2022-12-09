@@ -57,41 +57,55 @@ According to the Disaster Management Act 1997 section 2 - such a declaration of 
 On 28 April 2021, the Disaster-Incuced State of Emergency (State of Disaster) was extended for six months, to continue to be in effect between 30 April 2021 and 30 October 2021 (16). 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+ https://perma.cc/EXS5-EFSJ
 (1)
-https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+
+https://perma.cc/4VYS-7ZTN
 (2)
-https://www.constituteproject.org/constitution/Lesotho_2018.pdf?lang=en
+
+https://perma.cc/MEB9-L74V
 (3)
-https://lesotholii.org/ls/ParliamentProrogation.pdf
+
+https://perma.cc/L6XX-C7CD
 (4)
-https://ancl-radc.org.za/node/631
+
+https://perma.cc/XN2K-R877
 (5)
-https://www.gov.ls/wp-content/uploads/2020/03/PM-Speech-COVID-19-25032020.pdf
+
+https://perma.cc/5SHL-4QRW
 (6)
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+
+https://perma.cc/AM42-9BRD
 (7)
-https://lesotholii.org/ls/judgment/high-court-constitutional-division/2020/1-0
+
+https://perma.cc/5BYL-AK5K
 (8)
-https://africanlii.org/article/20200423/suspension-lesotho%27s-parliament-%27irrational%27%2C-%27unlawful%27-court%20
+
+https://perma.cc/C8KP-5ZAB
 (9)
-https://www.gov.ls/wp-content/uploads/2020/04/LEGAL-NOTICE-NO.38-2020.pdf
+
+https://perma.cc/JE35-5LTJ
 (10)
-https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+
+https://perma.cc/2QDB-8PMT
 (11)
-https://allafrica.com/stories/202005040976.html
+
+https://perma.cc/NA95-PPNT
 (12)
-https://www.ahrlj.up.ac.za/shale-i-2-2020
-https://twitter.com/nacosec/status/1364209455374741506
+
+https://perma.cc/B8BK-P9JX
 (13)
-https://www.webbernew.com/uploads/SKM_45820110909370.pdf
+https://perma.cc/GU32-ZNWS
 (14)
-https://www.ifrc.org/Docs/idrl/862EN.pdf
+
+https://perma.cc/6U78-QA8G
 (15)
-https://www.gov.ls/wp-content/uploads/2021/05/Legal-Notice-No.-49-of-2021-COVID-19-Disaster-Induced-State-of-Emergency-Extension1.pdf
+
+https://perma.cc/XGU6-HK5F
 (16)
-https://www.ifrc.org/Docs/idrl/862EN.pdf
-17)
+
+https://perma.cc/K5PS-3YX7
+(17)
 
 
 
@@ -130,21 +144,28 @@ https://www.ifrc.org/Docs/idrl/862EN.pdf
  Prime Minister Thomas Thabane initially declared a state of emergency under 23(1) of the Constitution on 18 March (1) and again on 15 April (3). On 29 April, Prime Minister Thabane further declared a state of disaster under the Disaster Management Act 1997, with effect from 29 April to 28 October 2020 (4,5). The state of disaster was extended from 29 October 2020 to 29 April 2021 by the new Prime Minister Moeketsi Majoro (6). On April 28 2021, the state of disaster was extended until October 30 2021 (8). 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+ https://perma.cc/EXS5-EFSJ
 (1)
-https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+
+https://perma.cc/UR8R-AJMT
 (2)
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+
+https://perma.cc/SU5V-FQPG
 (3)
-https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+
+https://perma.cc/JE35-5LTJ
 (4)
-https://www.ahrlj.up.ac.za/shale-i-2-2020
+
+https://perma.cc/2PHT-DALK
 (5)
-https://www.webbernew.com/uploads/SKM_45820110909370.pdf
+
+https://perma.cc/YM8U-2TNW
 (6)
-https://allafrica.com/stories/202005040976.html
+
+https://perma.cc/NN4U-2KAK
 (7)
-https://www.gov.ls/wp-content/uploads/2021/05/Legal-Notice-No.-49-of-2021-COVID-19-Disaster-Induced-State-of-Emergency-Extension1.pdf
+
+https://perma.cc/XGU6-HK5F
 (8)
 
 
@@ -184,21 +205,28 @@ https://www.gov.ls/wp-content/uploads/2021/05/Legal-Notice-No.-49-of-2021-COVID-
  Prime Minister Thomas Thabane initially declared a state of emergency under 23(1) of the Constitution on 18 March (1) and again on 15 April (3). On 29 April, Prime Minister Thabane further declared a state of disaster under the Disaster Management Act 1997, with effect from 29 April to 28 October 2020 (4,5). The state of disaster was extended from 29 October 2020 to 29 April 2021 by the new Prime Minister Moeketsi Majoro(6). On April 28 2021, the state of disaster was extended until October 30 2021 (8). 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+ https://perma.cc/EXS5-EFSJ
 (1)
-https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+
+https://perma.cc/UR8R-AJMT
 (2)
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+
+https://perma.cc/SU5V-FQPG
 (3)
-https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+
+https://perma.cc/JE35-5LTJ
 (4)
-https://www.ahrlj.up.ac.za/shale-i-2-2020
+
+https://perma.cc/2PHT-DALK
 (5)
-https://www.webbernew.com/uploads/SKM_45820110909370.pdf
+
+https://perma.cc/YM8U-2TNW
 (6)
-https://allafrica.com/stories/202005040976.html
+
+https://perma.cc/NN4U-2KAK
 (7)
-https://www.gov.ls/wp-content/uploads/2021/05/Legal-Notice-No.-49-of-2021-COVID-19-Disaster-Induced-State-of-Emergency-Extension1.pdf
+
+https://perma.cc/XGU6-HK5F
 (8)
 
 
@@ -238,24 +266,33 @@ https://www.gov.ls/wp-content/uploads/2021/05/Legal-Notice-No.-49-of-2021-COVID-
  Prime Minister Thomas Thabane initially declared a state of emergency under 23(1) of the Constitution on 18 March (1) and again on 15 April (3). On 29 April, Prime Minister Thabane further declared a state of disaster under the Disaster Management Act 1997, with effect from 29 April to 28 October 2020 (4,5). The state of disaster was extended from 29 October 2020 to 29 April 2021 by the new Prime Minister Moeketsi Majoro(6). On April 28 2021, the state of disaster was extended until October 30 2021 (8). 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+ https://perma.cc/EXS5-EFSJ
 (1)
-https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+
+https://perma.cc/SU5V-FQPG
 (2)
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+
+https://perma.cc/4VYS-7ZTN
 (3)
-https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+
+https://perma.cc/RVF4-ES9H
 (4)
-https://www.ahrlj.up.ac.za/shale-i-2-2020
+
+https://perma.cc/GX39-RMSU
 (5)
-https://www.webbernew.com/uploads/SKM_45820110909370.pdf
+
+https://perma.cc/9UKM-SMNJ
+
+
 (6)
-https://allafrica.com/stories/202005040976.html
+
+https://perma.cc/R92R-FQ2Z
+
 (7)
-https://www.gov.ls/wp-content/uploads/2021/05/Legal-Notice-No.-49-of-2021-COVID-19-Disaster-Induced-State-of-Emergency-Extension1.pdf
+https://perma.cc/AM43-3C7M
 (8)
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pd
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+
+
 
 
 
@@ -299,25 +336,45 @@ https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.
 According to the Disaster Management Act 1997 section 2 - such a declaration of a state of disaster shall be in effect for the period specified in the declaration (9). No copy of the formal declaration in the Lesotho Gazette could be located. However, other sources indicate it was published in Legal Notice 40 of 2020, to be in effect from 29 April to 28 October 2020 (5). On 29 October, the new Prime Minister Moeketsi Majoro issued a declaration extending the state of disaster for another 6 months until 29 April 2021 (6). On April 28 2021, the state of disaster was extended until 30 October 2021 (10). 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+ https://perma.cc/TJ7J-GAF7
 (1)
-https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+
+
+https://perma.cc/EH27-Z43V
 (2)
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+
+
+https://perma.cc/XAT3-UHXW
 (3)
-https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+
+
+https://perma.cc/RVF4-ES9H
 (4)
-https://www.ahrlj.up.ac.za/shale-i-2-2020
+
+
+
+https://perma.cc/6U3C-N7A3
 (5)
-https://www.webbernew.com/uploads/SKM_45820110909370.pdf
+
+
+https://perma.cc/48AM-PAHQ
 (6)
-https://allafrica.com/stories/202005040976.html
+
+
+https://perma.cc/GTB8-2SXU
 (7)
-https://www.constituteproject.org/constitution/Lesotho_2018.pdf?lang=en
+
+
+https://perma.cc/JN85-T8HY
 (8)
-https://www.ifrc.org/Docs/idrl/862EN.pdf
+
+
+https://perma.cc/NDD5-WM72
 (9)
-https://www.gov.ls/wp-content/uploads/2021/05/Legal-Notice-No.-49-of-2021-COVID-19-Disaster-Induced-State-of-Emergency-Extension1.pdf
+
+
+
+https://perma.cc/J685-HSVW
 (10)
 
 
@@ -359,25 +416,34 @@ https://www.gov.ls/wp-content/uploads/2021/05/Legal-Notice-No.-49-of-2021-COVID-
 According to the Disaster Management Act 1997 section 2 - such a declaration of a state of disaster shall be in effect for the period specified in the declaration (9). No copy of the formal declaration in the Lesotho Gazette could be located. However, other sources indicate it was published in Legal Notice 40 of 2020, to be in effect from 29 April to 28 October 2020 (5). On 29 October 2020, the new Prime Minister Moeketsi Majoro issued a declaration extending the state of disaster for another 6 months until 29 April 2021 (6). On April 28 2021, the state of disaster was extended until October 30 2021 (10). 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+ https://perma.cc/EXS5-EFSJ
 (1)
-https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+
+https://perma.cc/UR8R-AJMT
 (2)
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+
+https://perma.cc/SU5V-FQPG
 (3)
-https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+
+https://perma.cc/JE35-5LTJ
 (4)
-https://www.ahrlj.up.ac.za/shale-i-2-2020
+
+https://perma.cc/2PHT-DALK
 (5)
-https://www.webbernew.com/uploads/SKM_45820110909370.pdf
+
+https://perma.cc/YM8U-2TNW
 (6)
-https://allafrica.com/stories/202005040976.html
+
+https://perma.cc/NN4U-2KAK
 (7)
-https://www.constituteproject.org/constitution/Lesotho_2018.pdf?lang=en
+
+https://perma.cc/UGA5-REAV
 (8)
-https://www.ifrc.org/Docs/idrl/862EN.pdf
+
+https://perma.cc/K5PS-3YX7
 (9)
-https://www.gov.ls/wp-content/uploads/2021/05/Legal-Notice-No.-49-of-2021-COVID-19-Disaster-Induced-State-of-Emergency-Extension1.pdf
+
+https://perma.cc/XGU6-HK5F
 (10)
 
 
@@ -420,21 +486,28 @@ https://www.gov.ls/wp-content/uploads/2021/05/Legal-Notice-No.-49-of-2021-COVID-
  Pursuant under 23(2) of the Constitution, any declaration of state of emergency will expire automatically within 14 days without approval by the parliament for an extension of up to six months at a time (7). While one reference mentions the state of emergency extended by parliament for six months (until 18 October 2020), local news reported the contrary (4.6). For this reason, to be conservative, we code the state of disaster from the 14-day expiration of the 15 April 2020 state of emergency. According to the Disaster Management Act 1997 section 2 - such a declaration of a state of disaster shall be in effect for the period specified in the declaration, without requirement of parliamentary approval (8). According to sections 3 and 15 of the  Disaster Management Act, 1997, the Prime Minister may declare a state of disaster him-/herself (8). 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+ https://perma.cc/EXS5-EFSJ
 (1)
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+
+https://perma.cc/SU5V-FQPG
 (2)
-https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+
+https://perma.cc/JE35-5LTJ
 (3)
-https://www.ahrlj.up.ac.za/shale-i-2-2020
+
+https://perma.cc/2PHT-DALK
 (4)
-https://www.webbernew.com/uploads/SKM_45820110909370.pdf
+
+https://perma.cc/YM8U-2TNW
 (5)
-https://allafrica.com/stories/202005040976.html
+
+https://perma.cc/NN4U-2KAK
 (6)
-https://www.constituteproject.org/constitution/Lesotho_2018.pdf?lang=en
+
+https://perma.cc/UGA5-REAV
 (7)
-https://www.ifrc.org/Docs/idrl/862EN.pdf
+
+https://perma.cc/K5PS-3YX7
 (8)
 
 
@@ -477,23 +550,32 @@ https://www.ifrc.org/Docs/idrl/862EN.pdf
  Pursuant under 23(2) of the Constitution, any declaration of state of emergency will expire automatically within 14 days without approval by the parliament for an extension of up to six months at a time (7). While one reference mentions the state of emergency extended by parliament for six months (until 18 October 2020), local news reported the contrary (4.6). For this reason, to be conservative, we code the state of disaster from the 14-day expiration of the 15 April 2020 state of emergency. According to the Disaster Management Act 1997 section 2 - such a declaration of a state of disaster shall be in effect for the period specified in the declaration, without requirement of parliamentary approval (8). Prime Minister Moeketsi Majoro issued a Legal Notice on 28 April 2021, that he extends the state of disaster until 30 October 2021 (9). 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+ https://perma.cc/EXS5-EFSJ
 (1)
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+
+https://perma.cc/SU5V-FQPG
 (2)
-https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+
+https://perma.cc/JE35-5LTJ
 (3)
-https://www.ahrlj.up.ac.za/shale-i-2-2020
+
+https://perma.cc/2PHT-DALK
 (4)
-https://www.webbernew.com/uploads/SKM_45820110909370.pdf
+
+https://perma.cc/YM8U-2TNW
 (5)
-https://allafrica.com/stories/202005040976.html
+
+https://perma.cc/NN4U-2KAK
 (6)
-https://www.constituteproject.org/constitution/Lesotho_2018.pdf?lang=en
+
+https://perma.cc/UGA5-REAV
 (7)
-https://www.ifrc.org/Docs/idrl/862EN.pdf
+
+https://perma.cc/K5PS-3YX7
 (8)
-https://www.gov.ls/wp-content/uploads/2021/05/Legal-Notice-No.-49-of-2021-COVID-19-Disaster-Induced-State-of-Emergency-Extension1.pdf
+
+
+https://perma.cc/XGU6-HK5F
 (9)
 
 
@@ -542,19 +624,24 @@ https://www.gov.ls/wp-content/uploads/2021/05/Legal-Notice-No.-49-of-2021-COVID-
 Since May 2020, a state of disaster has been in force, and under the Disaster Management Act 1997 - the government has a list of specified emergency powers that are narrowly defined to the disaster itself (5). 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+ https://perma.cc/EXS5-EFSJ
 (1)
-https://lesotholii.org/ls/ParliamentProrogation.pdf
+
+https://perma.cc/L6XX-C7CD
 (2)
-https://lesotholii.org/ls/judgment/high-court-constitutional-division/2020/1-0
+
+https://perma.cc/AM42-9BRD
 (3)
-https://africanlii.org/article/20200423/suspension-lesotho%27s-parliament-%27irrational%27%2C-%27unlawful%27-court%20
+
+https://perma.cc/5BYL-AK5K
 (4)
-https://www.ifrc.org/Docs/idrl/862EN.pdf
+
+https://perma.cc/K5PS-3YX7
 (5)
-https://africanlii.org/article/20200423/suspension-lesotho%27s-parliament-%27irrational%27%2C-%27unlawful%27-court
+
+https://perma.cc/5BYL-AK5K
 (6)
-https://www.gov.ls/wp-content/uploads/2021/05/Legal-Notice-No.-49-of-2021-COVID-19-Disaster-Induced-State-of-Emergency-Extension1.pdf
+https://perma.cc/J685-HSVW
 (7)
 
 
@@ -594,13 +681,16 @@ https://www.gov.ls/wp-content/uploads/2021/05/Legal-Notice-No.-49-of-2021-COVID-
  Prime Minister Thomas Thabane initially declared a state of emergency under 23(1) of the Constitution to prevent the spread of Covid-19 on 18 March 2020 (1). Two days after his speech adopting the state of emergency, Prime Minister Thabane issued a legal notice declaring the prorogation (temporary dissolution) of parliament from 20 March to 19 June 2020 (2). On 17 April 2020, the High Court of Lesotho ruled that "the prorogation is not a blunt instrument available to a PM … to fight political battles or to frustrate parliament in the performance of its constitutional roles" (3,4). It immediately reinstated the parliament. 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+ https://perma.cc/EXS5-EFSJ
 (1)
-https://lesotholii.org/ls/ParliamentProrogation.pdf
+
+https://perma.cc/L6XX-C7CD
 (2)
-https://lesotholii.org/ls/judgment/high-court-constitutional-division/2020/1-0
+
+https://perma.cc/AM42-9BRD
 (3)
-https://africanlii.org/article/20200423/suspension-lesotho%27s-parliament-%27irrational%27%2C-%27unlawful%27-court%20
+
+https://perma.cc/5BYL-AK5K
 (4)
 
 
@@ -640,13 +730,16 @@ https://africanlii.org/article/20200423/suspension-lesotho%27s-parliament-%27irr
  Prime Minister Thomas Thabane initially declared a state of emergency under 23(1) of the Constitution to prevent the spread of Covid-19 on 18 March 2020 (1). Two days after his speech adopting the state of emergency, Prime Minister Thabane issued a legal notice declaring the prorogation (temporary dissolution) of parliament from 20 March to 19 June 2020 (2). On 17 April 2020, the High Court of Lesotho ruled that "the prorogation is not a blunt instrument available to a PM … to fight political battles or to frustrate parliament in the performance of its constitutional roles" (3,4). It immediately reinstated the parliament. 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+ https://perma.cc/EXS5-EFSJ
 (1)
-https://lesotholii.org/ls/ParliamentProrogation.pdf
+
+https://perma.cc/L6XX-C7CD
 (2)
-https://lesotholii.org/ls/judgment/high-court-constitutional-division/2020/1-0
+
+https://perma.cc/AM42-9BRD
 (3)
-https://africanlii.org/article/20200423/suspension-lesotho%27s-parliament-%27irrational%27%2C-%27unlawful%27-court%20
+
+https://perma.cc/5BYL-AK5K
 (4)
 
 
@@ -691,18 +784,23 @@ https://africanlii.org/article/20200423/suspension-lesotho%27s-parliament-%27irr
  Both the state of emergency and subsequent state of disaster, including all restrictions within them, apply to the entire territory. 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+ https://perma.cc/EXS5-EFSJ
 (1)
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+
+https://perma.cc/SU5V-FQPG
 (2)
-https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+
+https://perma.cc/JE35-5LTJ
 (3)
-https://www.webbernew.com/uploads/SKM_45820110909370.pdf
+
+https://perma.cc/YM8U-2TNW
 (4)
-https://www.garda.com/crisis24/news-alerts/466786/lesotho-authorities-maintain-covid-19-restrictions-as-of-april-14-update-17
+
+https://perma.cc/64PN-8K89
 (5)
-https://www.garda.com/crisis24/news-alerts/478706/lesotho-updated-covid-19-restrictions-in-place-as-of-may-14-update-18
-(5))
+
+https://perma.cc/W9FT-ZZF9
+(5)
 
 
 
@@ -746,20 +844,16 @@ https://www.garda.com/crisis24/news-alerts/478706/lesotho-updated-covid-19-restr
  No discrimination in the emrgency emasures based on these rights. 
 
 *Sources*:
- http://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110076/136761/F-581418260/LSO110076.pdf
-https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
-https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
-https://www.garda.com/crisis24/news-alerts/327786/lesotho-authorities-announce-lockdown-and-entry-restrictions-due-to-covid-19-effective-march-30
-https://reports.unocha.org/en/country/southern-eastern-africa/card/OjrpqS6ae1/
-https://www.webbernew.com/uploads/SKM_45820110909370.pdf
-
-https://www.garda.com/crisis24/news-alerts/466786/lesotho-authorities-maintain-covid-19-restrictions-as-of-april-14-update-17
-
-
-https://www.garda.com/crisis24/news-alerts/478706/lesotho-updated-covid-19-restrictions-in-place-as-of-may-14-update-18
-
-https://www.state.gov/wp-content/uploads/2021/03/LESOTHO-2020-HUMAN-RIGHTS-REPORT.pdf
+ https://perma.cc/76Z8-MAW5
+https://perma.cc/95KE-P87M
+https://perma.cc/UR8R-AJMT
+https://perma.cc/4VYS-7ZTN
+https://perma.cc/NJL7-7YMJ
+https://perma.cc/H5QW-GRUG
+https://perma.cc/H9WZ-WLQ5
+https://perma.cc/64PN-8K89
+https://perma.cc/D9YC-T4BF
+https://perma.cc/N552-TUYE
 
 
 
@@ -808,17 +902,34 @@ https://www.state.gov/wp-content/uploads/2021/03/LESOTHO-2020-HUMAN-RIGHTS-REPOR
  During the state of emergency in March 2020, law enforcement had a “habit” of using torture when enforcing the emergency measures. No violation of non-derogable rights have been found in the Covid-19 emergency measures since April 2020. 
 
 *Sources*:
- https://monitor.civicus.org/country/lesotho/
-https://twitter.com/YourKayBol/status/1245720374698037248?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1245720374698037248%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fmonitor.civicus.org%2Fcountry%2Flesotho%2F
-http://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110076/136761/F-581418260/LSO110076.pdf
-https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
-https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
-https://www.garda.com/crisis24/news-alerts/327786/lesotho-authorities-announce-lockdown-and-entry-restrictions-due-to-covid-19-effective-march-30
-https://reports.unocha.org/en/country/southern-eastern-africa/card/OjrpqS6ae1/
-https://www.webbernew.com/uploads/SKM_45820110909370.pdf
+ https://perma.cc/3RNY-KLCN
 
-https://www.state.gov/wp-content/uploads/2021/03/LESOTHO-2020-HUMAN-RIGHTS-REPORT.pdf
+
+https://perma.cc/24WU-3WBH
+
+
+https://perma.cc/WHG4-SV4D
+
+
+https://perma.cc/95KE-P87M
+
+
+https://perma.cc/UR8R-AJMT
+
+
+https://perma.cc/SU5V-FQPG
+
+
+https://perma.cc/NJL7-7YMJ
+
+
+https://perma.cc/H5QW-GRUG
+
+
+https://perma.cc/YM8U-2TNW
+
+
+https://perma.cc/N552-TUYE
 
 
 
@@ -862,15 +973,20 @@ https://www.state.gov/wp-content/uploads/2021/03/LESOTHO-2020-HUMAN-RIGHTS-REPOR
  In the state of emergency declared from 18 March 2020, it stated that "members of the press shall refrain from publishing 'fake news'". The determination of 'fake news' remains undefined (1). Likewise, Legal Notice 41 and 68 on Public Health (COVID-19) Regulations 2020 states that "no person shall publish or spread false information" under section 12(6) (3,4). The regulations of “fake news” are still in place (5). 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+ https://perma.cc/UR8R-AJMT
 (1)
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+
+https://perma.cc/SU5V-FQPG
 (2)
-https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+
+https://perma.cc/JE35-5LTJ
 (3)
-https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
+
+https://perma.cc/95KE-P87M
 (4)
-https://www.lca.org.ls/warning-on-distribution-of-false-and-fake-information-using-communications-platforms/
+
+
+https://perma.cc/4UHK-CLAU
 (5)
 
 
@@ -910,19 +1026,19 @@ https://www.lca.org.ls/warning-on-distribution-of-false-and-fake-information-usi
  In the state of emergency declared from 18 March 2020, it stated that "members of the press shall refrain from publishing 'fake news'". The determination of 'fake news' remains undefined (1). Likewise, Legal Notice 41 and 68 on Public Health (COVID-19) Regulations 2020 states that "no person shall publish or spread false information" under section 12(6) (3,4). The regulations of “fake news” are still in place (5). 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+ https://perma.cc/UR8R-AJMT
 (1)
 
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+https://perma.cc/SU5V-FQPG
 (2)
 
-https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+https://perma.cc/JE35-5LTJ
 (3)
 
-https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
+https://perma.cc/95KE-P87M
 (4)
 
-https://www.lca.org.ls/warning-on-distribution-of-false-and-fake-information-using-communications-platforms/
+https://perma.cc/4UHK-CLAU
 (5)
 
 
@@ -964,41 +1080,39 @@ https://www.lca.org.ls/warning-on-distribution-of-false-and-fake-information-usi
 Pursuant under article 23 of the Constitution, any declaration of state of emergency will expire automatically within 14 days without approval by the parliament for an extension of up to six months at a time. While one reference mentions the state of emergency extended by parliament for six months (until 18 October 2020), local news reported the contrary. For this reason, to be conservative, we code the state of disaster from the 14-day expiration of the 15 April 2020 state of emergency.   According to the Disaster Management Act 1997 section 2 - such a declaration of a state of disaster shall be in effect for the period specified in the declaration. No copy of the formal declaration in the Lesotho Gazette could be located. However, other sources indicate it was published in Legal Notice 40 of 2020, to be in effect from 29 April to 28 October 2020. On 29 October 2020, the new Prime Minister Moeketsi Majoro issued a declaration extending the state of disaster for another 6 months until 29 April 2021. On April 28 2021, the state of disaster was extended until October 30 2021. 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+ https://perma.cc/UR8R-AJMT
 (1)
 
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+https://perma.cc/SU5V-FQPG
 (2)
 
-https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+https://perma.cc/JE35-5LTJ
 (3)
 
-https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
+https://perma.cc/95KE-P87M
 (4)
 
-https://www.lca.org.ls/warning-on-distribution-of-false-and-fake-information-using-communications-platforms/
+https://perma.cc/4UHK-CLAU
 (5)
 
-https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+https://perma.cc/TJ7J-GAF7
+https://perma.cc/EH27-Z43V
 
+https://perma.cc/XAT3-UHXW
 
-https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+https://perma.cc/RVF4-ES9H
 
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+https://perma.cc/6U3C-N7A3
 
-https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+https://perma.cc/48AM-PAHQ
 
-https://www.ahrlj.up.ac.za/shale-i-2-2020
+https://perma.cc/GTB8-2SXU
 
-https://www.webbernew.com/uploads/SKM_45820110909370.pdf
+https://perma.cc/JN85-T8HY
 
-https://allafrica.com/stories/202005040976.html
+https://perma.cc/NDD5-WM72
 
-https://www.constituteproject.org/constitution/Lesotho_2018.pdf?lang=en
-
-https://www.ifrc.org/Docs/idrl/862EN.pdf
-
-https://www.gov.ls/wp-content/uploads/2021/05/Legal-Notice-No.-49-of-2021-COVID-19-Disaster-Induced-State-of-Emergency-Extension1.pdf
+https://perma.cc/J685-HSVW
 
 
 
@@ -1040,22 +1154,19 @@ https://www.gov.ls/wp-content/uploads/2021/05/Legal-Notice-No.-49-of-2021-COVID-
  No de facto limitations or incident found, only de jure limitation on "fake news" mentioned in Legal Notice 26, 41 and 68 (article 12.6): “Any person who publishes or spread fake or false information commits an offence”.  “The law provides for the right to obtain and impart information freely, but only if it does not interfere with “defense, public safety, public order, public morality, or public health.”” (5) 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+ https://perma.cc/UR8R-AJMT
 (1)
 
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+https://perma.cc/SU5V-FQPG
 (2)
 
-
-https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+https://perma.cc/JE35-5LTJ
 (3)
 
-
-https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
+https://perma.cc/95KE-P87M
 (4)
 
-
-https://www.state.gov/wp-content/uploads/2021/03/LESOTHO-2020-HUMAN-RIGHTS-REPORT.pdf
+https://perma.cc/N552-TUYE
 (5)
 
 
@@ -1098,19 +1209,19 @@ https://www.state.gov/wp-content/uploads/2021/03/LESOTHO-2020-HUMAN-RIGHTS-REPOR
  No de facto limitations or incident found, only de jure limitation on "fake news" mentioned in Legal Notice 26, 41 and 68 (article 12.6): “Any person who publishes or spread fake or false information commits an offence”.  “The law provides for the right to obtain and impart information freely, but only if it does not interfere with “defense, public safety, public order, public morality, or public health.”” (5) 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+ https://perma.cc/UR8R-AJMT
 (1)
 
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+https://perma.cc/SU5V-FQPG
 (2)
 
-https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+https://perma.cc/JE35-5LTJ
 (3)
 
-https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
+https://perma.cc/95KE-P87M
 (4)
 
-https://www.state.gov/wp-content/uploads/2021/03/LESOTHO-2020-HUMAN-RIGHTS-REPORT.pdf
+https://perma.cc/N552-TUYE
 (5)
 
 
@@ -1153,18 +1264,22 @@ https://www.state.gov/wp-content/uploads/2021/03/LESOTHO-2020-HUMAN-RIGHTS-REPOR
  In November 2020, “the police fired on a female journalist and arrested several other reporters arbitrarily”, when they were covering a protest (5, 6). “Police justified their actions by saying they were dispersing an illegal gathering…. Protests remain banned in Lesotho since the beginning of the country’s Covid-19 lockdown regulations on 3 April 2020” (6). 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+ https://perma.cc/UR8R-AJMT
 (1)
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+
+https://perma.cc/SU5V-FQPG
 (2)
-https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+
+https://perma.cc/JE35-5LTJ
 (3)
-https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
+
+https://perma.cc/95KE-P87M
 (4)
-https://rsf.org/en/lesotho
+
+https://perma.cc/5AHM-UNSZ
 (5)
 
-https://zimbabwe.misa.org/2020/11/16/lesotho-police-shoot-journalist-during-protests/
+https://perma.cc/UF5B-BL7P
 (6)
 
 
@@ -1209,15 +1324,19 @@ https://zimbabwe.misa.org/2020/11/16/lesotho-police-shoot-journalist-during-prot
 “The law provides for the right to obtain and impart information freely, but only if it does not interfere with “defense, public safety, public order, public morality, or public health.”” (5) 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
+ https://perma.cc/UR8R-AJMT
 (1)
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+
+https://perma.cc/SU5V-FQPG
 (2)
-https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+
+https://perma.cc/JE35-5LTJ
 (3)
-https://www.gov.ls/wp-content/uploads/2020/08/Legal-Notice-No.-68-1.pdf
+
+https://perma.cc/95KE-P87M
 (4)
-https://www.state.gov/wp-content/uploads/2021/03/LESOTHO-2020-HUMAN-RIGHTS-REPORT.pdf
+
+https://perma.cc/N552-TUYE
 (5)
 
 
@@ -1260,17 +1379,22 @@ https://www.state.gov/wp-content/uploads/2021/03/LESOTHO-2020-HUMAN-RIGHTS-REPOR
  No incident found. 
 
 *Sources*:
- https://rsf.org/en/lesothohttps://ancl-radc.org.za/node/631
+ https://perma.cc/5AHM-UNSZ
 
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
 
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+https://perma.cc/9EPY-29UT
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
 
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/53XY-CHQ2
 
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+
+https://perma.cc/Y7ZE-NKBX
+
+
+https://perma.cc/YAS5-KGKP
+
+
+https://perma.cc/9DV5-9J3R
 
 
 
@@ -1312,21 +1436,17 @@ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
  No reports of journalists being physically harassed while reporting about Covid-19. However, in November 2020, several reporters were detained and one was shot while covering a youth movement protest. Police justified their actions under Covid-19 restrictions on gatherings. See merepoth and pomviol. 
 
 *Sources*:
- https://rsf.org/en/lesotho
+ https://perma.cc/5AHM-UNSZ
 (1)
-https://zimbabwe.misa.org/2020/11/16/lesotho-police-shoot-journalist-during-protests/
+
+https://perma.cc/9EPY-29UT
 (2)
-https://ancl-radc.org.za/node/631
 
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://perma.cc/53XY-CHQ2
+https://perma.cc/Y7ZE-NKBX
+https://perma.cc/YAS5-KGKP
+https://perma.cc/6NMQ-KKTM
+https://perma.cc/9DV5-9J3R
 
 
 
@@ -1370,14 +1490,21 @@ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
  The information provided by the government is in agreement with information from the WHO. 
 
 *Sources*:
- https://www.gov.ls/document-category/health/
+ https://perma.cc/L22W-CX8S
 
-https://www.gov.ls/wp-content/uploads/2020/08/Risk-Determination-and-Mitigating-Measures-for-Social-Activities-1.pdf
 
-https://www.gov.ls/about-coronavirus-covid-19/
+https://perma.cc/Y9BY-6MBM
 
-https://www.gov.ls/national-command-centre/
-https://factcheck.afp.com/health-ministry-rejects-online-rumours-herbal-cure
+
+https://perma.cc/JWD3-P2G6
+
+
+
+https://perma.cc/XTH5-8Y8L
+
+
+
+https://perma.cc/KD53-5JBA
 
 
 
@@ -1421,23 +1548,28 @@ https://factcheck.afp.com/health-ministry-rejects-online-rumours-herbal-cure
  After the government introduced initial lockdown measures in March/April 2020, several reports surfaced on social media about police brutality in enforcing the measures. Videos showed police "making citizens roll on the ground and beating them up" (1). The assistant commissioner of police issued a directive ordering police to desist such violations. In November 2020, “the police fired on a female journalist and arrested several other reporters arbitrarily”, when they were covering a protest (8,9). “Police justified their actions by saying they were dispersing an illegal gathering…. Protests remain banned in Lesotho since the beginning of the country’s Covid-19 lockdown regulations on 3 April 2020” (9). No incidents found before or since November 2020. In May 2021, the police blocked factory workers’ protests fo being “in contravention of Covid-19 regulations”, and during the violent clashes between the police and the demonstrators, a woman was shot dead by police (4). There are also other occasions of police and military brutality in the country during the pandemic, although they are not included in the score (2). 
 
 *Sources*:
- https://monitor.civicus.org/updates/2020/10/30/police-brutality-continuing-crisis-covid-19-related-protests-documented/
+ https://perma.cc/34JE-4EXY
 (1)
-https://www.dw.com/en/lesotho-pm-deploys-army-to-restore-order-amid-wife-murder-probe/a-53175904
+
+https://perma.cc/9E3L-D94H
 (2)
-https://ewn.co.za/2020/03/30/lesotho-lockdown-police-soldiers-accused-of-rights-violations
+
+https://perma.cc/5CUY-5KZW
 (3)
-https://www.theguardian.com/global-development/2021/may/28/woman-shot-dead-in-lesotho-as-factory-workers-clashes-with-police-escalate
+
+https://perma.cc/877M-SWTY
 (4)
-https://twitter.com/YourKayBol/status/1245720374698037248?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1245720374698037248%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fmonitor.civicus.org%2Fcountry%2Flesotho%2F
-(5)
-https://twitter.com/MosabalaThuso/status/1244544721726377984
+
+https://perma.cc/BQM6-3XSW
 (6)
-https://twitter.com/MosabalaThuso/status/1244553703333531648
+
+https://perma.cc/T65J-UDVZ
 (7)
-https://rsf.org/en/lesotho
+
+https://perma.cc/WE8Q-CB9P
 (8)
-https://zimbabwe.misa.org/2020/11/16/lesotho-police-shoot-journalist-during-protests/
+
+https://perma.cc/GR7Z-J2BP
 (9)
 
 
@@ -1482,11 +1614,13 @@ https://zimbabwe.misa.org/2020/11/16/lesotho-police-shoot-journalist-during-prot
 Other available declarations for emergency measures do not mention the military's involvement and no media reports of military deploying between April 2020 and January 2021 (2). 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/Lockdown-Gazette-Lesotho.pdf
-(1)
-https://www.africanews.com/2020/04/20/lesotho-deploys-military-to-combat-security-threats-covid-19-lockdown//
-(2)
-https://www.garda.com/crisis24/news-alerts/478706/lesotho-updated-covid-19-restrictions-in-place-as-of-may-14-update-18
-(3)
-https://www.garda.com/crisis24/news-alerts/425961/lesotho-authorities-implement-tightened-covid-19-restrictions-from-midnight-jan-6-update-11
-(4)
+ https://perma.cc/UR8R-AJMT
+
+
+https://perma.cc/Y9J2-LM4G
+
+
+https://perma.cc/W9FT-ZZF9
+
+
+https://perma.cc/K6HQ-JE8T

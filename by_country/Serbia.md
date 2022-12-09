@@ -49,18 +49,16 @@ On 7 July 2020, the President announced "as of tomorrow all public gatherings in
 Q3 2020, Q4 2020, Q1 2020, Q2 2020: after the state of emergency ended, emergency measures have been implemented based on  "Zakon o zaštiti stanovništva od zaraznih bolesti" (Law on Protection of the Population from Infectious Diseases) and "Zakon o Vladi" (Law on Government).  "Zakon o zaštiti stanovništva od zaraznih bolesti"  is considered the primary legal instrument since it most resembles "a state of exception" (Art 6. gives the government authority to declare and implement emergency measures related to infectious diseases). The legal instrument was used to declare "UREDBU o merama za sprečavanje i suzbijanje zarazne bolesti COVID-19" ("REGULATION on measures for prevention and control of infectious diseases COVID-19") (among other decrees) that has been amended several times in these time periods, with the latest amendment on 13 May 2021 as of the time of coding. 
 
 *Sources*:
- http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/predsednik/odluka/2020/29/1/reg
-
-
-https://www.predsednik.rs/en/press-center/news/address-of-the-president-of-the-republic-of-serbia-on-07th-july-2020
-https://www.euronews.com/2020/07/08/coronavirus-protesters-attempt-to-storm-parliament-in-serbia-as-lockdown-measures-are-rein
-https://www.srbija.gov.rs/vest/478429/od-sutra-na-snazi-nove-mere-u-borbi-protiv-koronavirusa.php
-
-https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/uredba/2020/66/1/reg
+ https://perma.cc/G5PG-XBDX
+https://perma.cc/553N-LZGS
+https://perma.cc/9WW5-N2XT
+https://perma.cc/4ZTQ-NS4F
 (1)
-https://www.paragraf.rs/propisi/zakon_o_zastiti_stanovnistva_od_zaraznih_bolesti.html
-https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/ministarstva/naredba/2020/100/1/reg
-http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/uredba/2020/151/1/reg
+
+https://perma.cc/EH4Y-9UXV
+https://perma.cc/HNA4-U3VC
+https://perma.cc/L8HQ-LPE2
+https://perma.cc/7F9E-EZGS
 
 
 
@@ -101,12 +99,17 @@ http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/ured
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: According to Art.6 of  "Zakon o zaštiti stanovništva od zaraznih bolesti", the government can determine measures used to deal with infectious diseases and their implementation. 
 
 *Sources*:
- http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/predsednik/odluka/2020/29/1/reg
-https://www.constituteproject.org/constitution/Serbia_2006?lang=en
-(1)
+ https://perma.cc/UE4E-QRBN
 
-https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/uredba/2020/66/1/reg
-https://www.paragraf.rs/propisi/zakon_o_zastiti_stanovnistva_od_zaraznih_bolesti.html
+
+https://perma.cc/XL8Z-DGSH
+
+
+https://perma.cc/5TXX-QDJN
+
+
+
+https://perma.cc/AQ2X-SAS7
 
 
 
@@ -147,8 +150,10 @@ https://www.paragraf.rs/propisi/zakon_o_zastiti_stanovnistva_od_zaraznih_bolesti
 Q3 2020, Q4 2020, Q1 2021, Q2 2021:  "Zakon o zaštiti stanovništva od zaraznih bolesti" was first used on 7 May 2020 following the end of the state of emergency. 
 
 *Sources*:
- http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/predsednik/odluka/2020/29/1/reg
-https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/uredba/2020/66/1/reg
+ https://perma.cc/BL59-3MZZ
+
+
+https://perma.cc/BT3K-A5HJ
 
 
 
@@ -189,9 +194,13 @@ https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/ure
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: the implementation of the legal instrument has not ended at the time of coding. 
 
 *Sources*:
- https://www.srbija.gov.rs/vest/en/155727/serbia-lifts-state-of-emergency.php
-http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/skupstina/odluka/2020/65/1/reg
-https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/uredba/2020/66/1/reg
+ https://perma.cc/M22U-DXG9
+
+
+https://perma.cc/669S-BY22
+
+
+https://perma.cc/TCT5-JC8G
 
 
 
@@ -235,15 +244,12 @@ https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/ure
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: some measures implemented after the end of the state of emergency do not have a defined time limit (e.g. prohibition on gathering) 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Serbia_2006?lang=en
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B345%5D&covid19=1
-
-
-https://www.srbija.gov.rs/vest/481522/stroze-preventivne-mere-ostaju-na-snazi-do-daljeg.php
-https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/ministarstva/naredba/2020/100/1/reg
-https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/uredba/2020/66/1/reg
-
-https://www.srbija.gov.rs/vest/513051/aktuelne-epidemioloske-mere-na-snazi-do-daljeg.php
+ https://perma.cc/XL8Z-DGSH
+https://perma.cc/J7UH-BULT
+https://perma.cc/3P2Z-DAGQ
+https://perma.cc/S5KQ-95L5
+https://perma.cc/D4XZ-B6MQ
+https://perma.cc/UM9Y-JBTU
 
 
 
@@ -284,8 +290,10 @@ https://www.srbija.gov.rs/vest/513051/aktuelne-epidemioloske-mere-na-snazi-do-da
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: no defined time limit for some emergency measures. 
 
 *Sources*:
- https://www.srbija.gov.rs/vest/en/155727/serbia-lifts-state-of-emergency.php
-http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/skupstina/odluka/2020/65/1/reg
+ https://perma.cc/6WYC-DNET
+
+
+https://perma.cc/3QN4-TEKV
 
 
 
@@ -329,11 +337,16 @@ http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/skupstina/
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: parliamentary approval is not required based on  "Zakon o zaštiti stanovništva od zaraznih bolesti". 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Serbia_2006?lang=en
-http://constitutionnet.org/news/critics-allege-serbias-state-emergency-was-declared-unconstitutionally
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#S
+ https://perma.cc/XL8Z-DGSH
 
-https://www.paragraf.rs/propisi/zakon_o_zastiti_stanovnistva_od_zaraznih_bolesti.html
+
+https://perma.cc/2RED-UWTN
+
+
+https://perma.cc/DG5L-ZDAH
+
+
+https://perma.cc/3HNX-MT2E
 
 
 
@@ -377,10 +390,13 @@ https://www.paragraf.rs/propisi/zakon_o_zastiti_stanovnistva_od_zaraznih_bolesti
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: parliamentary approval is not required based on  "Zakon o zaštiti stanovništva od zaraznih bolesti". 
 
 *Sources*:
- http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/predsednik/odluka/2020/29/1/reg
-http://www.parlament.gov.rs/%D0%9F%D1%80%D0%B2a_%D1%81%D0%B5%D0%B4%D0%BD%D0%B8%D1%86a_%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B5_%D1%81%D0%BA%D1%83%D0%BF%D1%88%D1%82%D0%B8%D0%BD%D0%B5.38956.43.html
+ https://perma.cc/X7NC-5A6A
 
-https://www.paragraf.rs/propisi/zakon_o_zastiti_stanovnistva_od_zaraznih_bolesti.html
+
+https://perma.cc/T6L8-XG72
+
+
+https://perma.cc/PC22-N6SF
 
 
 
@@ -430,13 +446,22 @@ On 4 March 2020, the President dissolved the parliament in preparation for 26 Ap
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: Art 6. of "Zakon o zaštiti stanovništva od zaraznih bolesti"   gives the government authority to declare and implement emergency measures related to infectious diseases, so the executive can rule by decree on matters related to Covid-19. 
 
 *Sources*:
- https://www.predsednik.rs/lat/pres-centar/vesti/predsednik-vucic-raspisao-redovne-parlamentarne-izbore
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://www.constituteproject.org/constitution/Serbia_2006?lang=en
-http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/skupstina/zakon/2020/62/1/reg
+ https://perma.cc/363P-TH74
 
-https://www.paragraf.rs/propisi/zakon_o_zastiti_stanovnistva_od_zaraznih_bolesti.html
+
+https://perma.cc/WB8W-FDCC
+
+
+https://perma.cc/799S-VPGH
+
+
+https://perma.cc/8M3Z-KV48
+
+
+https://perma.cc/RA67-9ETE
+
+
+https://perma.cc/3JGB-3SDF
 
 
 
@@ -475,8 +500,10 @@ https://www.paragraf.rs/propisi/zakon_o_zastiti_stanovnistva_od_zaraznih_bolesti
  On 4 March 2020, the President dissolved the parliament in preparation for 26 April parliamentary elections (later postponed to 21 June because elections were suspended during the state of emergency (Art 5. of Decree on Measures during the State of Emergency from 16 March 2020)). 
 
 *Sources*:
- https://www.predsednik.rs/lat/pres-centar/vesti/obracanje-predsednika-republike-srbije-07072020
-https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/uredba/2020/31/1/reg
+ https://perma.cc/4MZJ-XD2S
+
+
+https://perma.cc/CR3J-EZRM
 
 
 
@@ -515,8 +542,10 @@ https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/ure
  The parliament held its first session during the state of emergency and approved the declaration of the state of emergency (and other 44 decrees on emergency measures) retroactively on 28 April. According to OSCE report (p.68), the parliament did not give a clear justification for the suspension of its activities. 
 
 *Sources*:
- http://www.parlament.rs/First_Session_of_the_National_Assembly_of_the_Republic_of_Serbia_During_the_State_of_Emergency.38958.537.html
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+ https://perma.cc/K282-BQU3
+
+
+https://perma.cc/799S-VPGH
 
 
 
@@ -560,19 +589,41 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  Almost uniform measures throughout the country during Q2 2020, Q4 2020, Q1 2021, Q2 2021. During Q3 2020, there were special measures in the capital Belgrade. 
 
 *Sources*:
- http://www.pravno-informacioni-sistem.rs/fp/covid19
-https://www.reuters.com/article/us-health-coronavirus-serbia-idUSKBN24416T
-https://www.srbija.gov.rs/vest/en/158547/special-measures-to-curb-covid-19-in-territory-of-belgrade.php
+ https://perma.cc/2KKM-SDH9
 
-https://www.srbija.gov.rs/vest/476370/nove-mere-za-beograd-u-cilju-sprecavanja-sirenja-covid-19.php
-https://www.garda.com/crisis24/news-alerts/356336/serbia-state-of-emergency-declared-in-belgrade-on-july-3-amid-surge-in-covid-19-cases-update-13
-https://www.srbija.gov.rs/vest/477069/nove-mere-i-policijski-cas-u-beogradu-od-petka-do-ponedeljka.php
 
-https://www.srbija.gov.rs/vest/533485/relaksiranje-mera-ako-ne-bude-naglih-skokova-broja-zarazenih.php
-https://www.srbija.gov.rs/vest/530389/aktuelne-mere-protiv-covid-19-ostaju-na-snazi.php
-https://www.srbija.gov.rs/vest/529675/od-sutra-na-snazi-nove-mere-za-suzbijanje-epidemije.php
-https://www.srbija.gov.rs/vest/528085/ostrije-mere-u-borbi-protiv-koronavirusa-do-ponedeljka.php
-https://www.srbija.gov.rs/vest/527368/od-veceras-u-21-cas-na-snazi-nove-mere-za-suzbijanje-epidemije.php
+https://perma.cc/RKB7-3SEA
+
+
+https://perma.cc/X9GC-R9Y5
+
+
+https://perma.cc/NCZ9-NQ9F
+
+
+https://perma.cc/K55Q-DQC6
+
+
+https://perma.cc/52X9-S45W
+
+
+
+https://perma.cc/6DE7-YZ53
+
+
+https://perma.cc/FMJ5-BCFE
+
+
+https://perma.cc/LRZ3-S6WY
+
+
+https://perma.cc/WZ52-4ZXY
+
+
+https://perma.cc/SUT7-XQPP
+
+
+
 
 
 
@@ -619,19 +670,17 @@ De-jure, the measures for housing centers applied for the duration of the state 
  
 
 *Sources*:
- http://www.mod.gov.rs/cir/15902/ministar-vulin-za-sve-migrante-vazi-24-casovni-karantin-sve-dok-ne-prodje-kriza-15902
-http://www.vs.rs/sr_lat/vesti/3601331A97AD11EAA7E10050568F5424/vojska-srbije-pocela-obezbedjenje-prihvatnih-centara-u-sidu
-http://www.mod.gov.rs/cir/16305/ministar-vulin-sacuvali-smo-srbiju-od-migrantske-krize-16305
-https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
+ https://perma.cc/6E46-Z3MW
+https://perma.cc/96NC-HWUT
+https://perma.cc/9X4V-HEB4
+https://perma.cc/8X3E-VKTR
 (1)
-https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/ministarstva/naredba/2020/66/2/reg
-http://www.mod.gov.rs/cir/16030/saopstenje-16030
-http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/viewdoc?uuid=cea979ce-65b4-4fa3-a896-3a15870af345
-https://www.rts.rs/page/stories/ci/story/124/drustvo/4072893/migranata-u-prihvatnim-centrima.html
-http://www.bgcentar.org.rs/inicijativa-ustavnom-sudu-za-ocenu-ustavnosti-i-zakonitosti-naredbe-o-ogranicenju-kretanja-na-prilazima-otvorenom-prostoru-i-objektima-prihvatnih-centara-za-migrante-i-centara-za-azil/
-https://www.bbc.com/serbian/cyr/srbija-55091114
-(2)
 
+https://perma.cc/8ERN-V22V
+https://perma.cc/Y9UF-DAU4
+https://perma.cc/Y9HX-DYWY
+https://perma.cc/8VMR-B8Z2
+(2)
 
 
 
@@ -680,7 +729,7 @@ https://www.bbc.com/serbian/cyr/srbija-55091114
  No measures violating non-derogable rights found. 
 
 *Sources*:
- http://www.pravno-informacioni-sistem.rs/fp/covid19
+ https://perma.cc/5WAM-KVM6
 
 
 
@@ -724,11 +773,14 @@ https://www.bbc.com/serbian/cyr/srbija-55091114
  On 28 March 2020, the government passed a decree that would centralize information on covid-19 and "penalise anyone releasing information about the coronavirus outbreak that is not ‘authorised’ by the Office of the Prime Minister or by individuals approved by the Crisis Management Taskforce" (Council of Europe, 1); the decree was dropped on 3 April 2020 and I found no further measures limiting media freedom. 
 
 *Sources*:
- https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/
-https://www.osce.org/representative-on-freedom-of-media/449494
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-4&p_p_col_pos=2&p_p_col_count=3&_sojdashboard_WAR_coesojportlet_alertId=62071605
-http://stab.smederevo.org.rs/2020/04/01/%D0%B7%D0%B0%D0%BA%D1%99%D1%83%D1%87%D0%B0%D0%BA-%D0%B2%D0%BB%D0%B0%D0%B4%D0%B5-05-%D0%B1%D1%80%D0%BE%D1%98-53-2928-2020-%D0%BE%D0%B4-28-%D0%BC%D0%B0%D1%80%D1%82%D0%B0-2020-%D0%B3%D0%BE%D0%B4%D0%B8/
-https://www.icnl.org/covid19tracker/?location=109&issue=&date=&type=
+ https://perma.cc/UJR8-FGX6
+https://perma.cc/367K-PD7X
+
+https://perma.cc/2YJ5-ALWE
+
+https://perma.cc/98JZ-BCYJ
+
+https://perma.cc/T9JA-F6XD
 (1)
 
 
@@ -768,9 +820,10 @@ https://www.icnl.org/covid19tracker/?location=109&issue=&date=&type=
 *No comment provided* 
 
 *Sources*:
- https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/
+ https://perma.cc/B3KZ-RGEW
 
-http://stab.smederevo.org.rs/2020/04/01/%D0%B7%D0%B0%D0%BA%D1%99%D1%83%D1%87%D0%B0%D0%BA-%D0%B2%D0%BB%D0%B0%D0%B4%D0%B5-05-%D0%B1%D1%80%D0%BE%D1%98-53-2928-2020-%D0%BE%D0%B4-28-%D0%BC%D0%B0%D1%80%D1%82%D0%B0-2020-%D0%B3%D0%BE%D0%B4%D0%B8/
+
+https://perma.cc/JUM9-F9LV
 
 
 
@@ -809,7 +862,7 @@ http://stab.smederevo.org.rs/2020/04/01/%D0%B7%D0%B0%D0%BA%D1%99%D1%83%D1%87%D0%
  The decree on centralization of public information (see melim) was dropped on 3 April 2020. 
 
 *Sources*:
- https://www.osce.org/representative-on-freedom-of-media/449536
+ https://perma.cc/H4DC-AH3A
 
 
 
@@ -851,9 +904,13 @@ http://stab.smederevo.org.rs/2020/04/01/%D0%B7%D0%B0%D0%BA%D1%99%D1%83%D1%87%D0%
  official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. 
 
 *Sources*:
- https://covid19.rs/
-https://rsf.org/en/serbia
-https://ipi.media/serbia/
+ https://perma.cc/32UX-UUS7
+
+
+https://perma.cc/AJS3-MJWA
+
+
+https://perma.cc/2XF8-YAE2
 
 
 
@@ -895,12 +952,25 @@ https://ipi.media/serbia/
  On 1 April a journalist was arrested following reporting on conditions in a local hospital. Several journalists were physically harassed by the police while covering anti-lockdown protests in July 2020. 
 
 *Sources*:
- https://rsf.org/en/news/repressive-laws-prosecutions-attacks-europe-fails-shield-its-journalists-against-abuse-covid-19
-https://ipi.media/access-denied-foi-deadlines-extended-or-suspended-across-europe/
-https://cpj.org/2020/04/serbian-reporter-ana-lalic-on-her-arrest-and-deten/
-https://ipi.media/covid19-media-freedom-monitoring/
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-4&p_p_col_pos=2&p_p_col_count=3&_sojdashboard_WAR_coesojportlet_alertId=62071605
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/serbia/
+ https://perma.cc/B6K6-24XE
+
+
+https://perma.cc/4M5Y-DJC3
+
+
+https://perma.cc/3Q5Q-58Q2
+
+
+https://perma.cc/P5C8-ZAVW
+
+
+https://perma.cc/247N-YX2F
+
+
+https://perma.cc/4DMT-C4WJ
+
+
+
 
 
 
@@ -942,7 +1012,13 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/ser
  No information found on instances of limitations on media reporting on non-Covid-19 related news but with reference to the pandemic. 
 
 *Sources*:
- https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/ https://rsf.org/en/serbia https://ipi.media/serbia/
+ https://perma.cc/A92E-SXGA
+
+
+https://perma.cc/7723-7AJ5
+
+
+https://perma.cc/3TJC-X74H
 
 
 
@@ -985,14 +1061,15 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/ser
  Journalists weew banned from attending daily press conferences and can send questions via email. According to IPI, the goverment "doubled the amount of time public bodies have to respond to requests. Since then, media have reported that institutions have cited the new rules in refusing to provide information." (1) Since the state of emergency ended on 6 May 2020, restrictions on media access are coded only during March-June 2020 period. Moreover, videos of press conferences from November seem to show that journalists are physically present and ask questions at press conferences. 
 
 *Sources*:
- https://ipi.media/access-denied-foi-deadlines-extended-or-suspended-across-europe/
+ https://perma.cc/KYR9-9HDE
 (1)
-https://ipi.media/covid19-media-freedom-monitoring/
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/uredba/2020/41/2/reg
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/serbia/
-https://www.youtube.com/watch?v=3kWQOAMdljk
-https://www.youtube.com/watch?v=uZN9ZO0qq8U
+
+https://perma.cc/8F5N-JUNH
+https://perma.cc/GW4A-H2B8
+https://perma.cc/C8YL-LNZN
+https://perma.cc/Q4S2-XWFY
+https://perma.cc/8X5W-FBV6
+https://perma.cc/JRM3-L7TY
 
 
 
@@ -1034,7 +1111,7 @@ https://www.youtube.com/watch?v=uZN9ZO0qq8U
  On 1 April a journalist was arrested following reporting on conditions in a local hospital, and she was also verbally harrassed by the government. Since it is an individual case and I found no evidence that the practice is systemic, mevhar is coded as 1 only during March-June 2020 period. 
 
 *Sources*:
- https://cpj.org/2020/04/serbian-reporter-ana-lalic-on-her-arrest-and-deten/
+ https://perma.cc/82G2-369X
 
 
 
@@ -1078,14 +1155,28 @@ https://www.youtube.com/watch?v=uZN9ZO0qq8U
 Several journalists were physically harassed by the police while covering anti-lockdown protests in July 2020. 
 
 *Sources*:
- https://cpj.org/2020/04/serbian-reporter-ana-lalic-on-her-arrest-and-deten/
-https://ipi.media/covid19-media-freedom-monitoring/
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-4&p_p_col_pos=2&p_p_col_count=3&_sojdashboard_WAR_coesojportlet_alertId=62071605
-https://rsf.org/en/news/repressive-laws-prosecutions-attacks-europe-fails-shield-its-journalists-against-abuse-covid-19
-https://ipi.media/numerous-journalists-beaten-and-attacked-covering-serbia-protests/
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=2&p_p_cacheability=cacheLevelPage&p_p_col_id=column-4&p_p_col_count=1&_sojdashboard_WAR_coesojportlet_alertPK=68764728&_sojdashboard_WAR_coesojportlet_cmd=get_pdf_one
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/serbia/
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+ https://perma.cc/VB3W-9NC2
+
+
+https://perma.cc/YCA9-6PM7
+
+
+https://perma.cc/8FB9-GKVA
+
+
+https://perma.cc/P8MZ-T75Q
+
+
+https://perma.cc/C678-8CS7
+
+
+https://perma.cc/YKE9-X7XZ
+
+
+https://perma.cc/KAU4-HSKS
+
+
+https://perma.cc/YW75-4Q6D
 
 
 
@@ -1129,13 +1220,12 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
  Reports on repeated misinformation from MD Branimir Nestorovic, a member of the the expert emergency team (stating that the virus is a joke, that it does not affect women, that Serbs have a genetic modification in blood protecting them from a virus, that we should get exposed to the virus to help create collective immunity, among others). According to local media reports, Branimir Nestorovic has not made any more controversial statements since June 2020.  Nevertheless, I haven't found any information that these statements have been refuted, therefore govmis is coded as 2 in March-June and July-September 2020. Branimir Nestorovic left the emergency team in August 2020. Because he could not longer be considered part of the government or its agents and I found no other reports on disinformation, coding is changed to 0 in Q4 2020, Q1 2021, Q2 201. 
 
 *Sources*:
- https://globalvoices.org/2020/04/22/six-false-statements-by-serbian-government-officials-on-covid-19/
-
-https://www.istinomer.rs/analize/preslobodne-tvrdnje-jednog-pulmologa
-https://www.istinomer.rs/izjava/srbija-imala-krizni-stab-kad-jos-niko-nije
-https://www.bbc.com/serbian/lat/srbija-52067487
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B345%5D&covid19=1
-https://www.b92.net/eng/news/society.php?yyyy=2020&mm=08&dd=07&nav_id=109087
+ https://perma.cc/55WW-BTJ5
+https://perma.cc/3VU2-CJZ2
+https://perma.cc/G3E7-8FK5
+https://perma.cc/FGC2-TQZA
+https://perma.cc/J7UH-BULT
+https://perma.cc/6D7F-QYCG
 
 
 
@@ -1179,12 +1269,19 @@ https://www.b92.net/eng/news/society.php?yyyy=2020&mm=08&dd=07&nav_id=109087
  One report of a police officer hitting a person who violated curfew; coded as 1 in March-June 2020 since it is only one incident. Note that police violence during anti-lockdown protests in July is not considered part of emergency measures. 
 
 *Sources*:
- https://rs.n1info.com/english/news/a589618-serbias-police-to-probe-officer-behaviour-during-state-of-emergency/
-https://www.hrw.org/europe/central-asia/serbia/kosovo
-https://www.amnesty.org/en/countries/europe-and-central-asia/serbia/
+ https://perma.cc/G37G-XHP9
 
-https://www.amnesty.org/en/latest/news/2020/07/serbia-violent-police-crackdown-against-covid-19-lockdown-protesters-must-stop/
-https://ipi.media/numerous-journalists-beaten-and-attacked-covering-serbia-protests/
+
+https://perma.cc/8R2V-NQTF
+
+
+https://perma.cc/65U5-39G7
+
+
+https://perma.cc/7WJ5-6GXE
+
+
+https://perma.cc/LE43-NNBD
 
 
 
@@ -1227,6 +1324,10 @@ https://ipi.media/numerous-journalists-beaten-and-attacked-covering-serbia-prote
  
 
 *Sources*:
- http://www.mod.gov.rs/cir/15798/pojacane-mere-vojske-srbije-na-suzbijanju-covida-19-u-valjevu-15798
-https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-http://rs.n1info.com/Vesti/a600134/Mediji-Vucic-naredio-odlazak-Vojske-u-Sid-zbog-migranata.html
+ https://perma.cc/2EH3-BLXP
+
+
+https://perma.cc/4AT9-CDMB
+
+
+https://perma.cc/2EH3-BLXP

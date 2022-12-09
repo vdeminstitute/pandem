@@ -51,16 +51,15 @@ The state of emergency has been renewed several consecutive times, using the sam
  
 
 *Sources*:
- https://www.constituteproject.org/constitution/Congo_2015.pdf?lang=en
-
-https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
+ https://perma.cc/UQ4V-38AZ
+(1)
+https://perma.cc/RA3K-VZJG
 (2)
-
-https://www.africanews.com/2020/03/30/congo-republic-heads-into-coronavirus-lockdown/
-
-https://www.tourisme-environnement.gouv.cg/decret-portant-declaration-de-letat-durgence-sanitaire-republique-congo/
-
-https://cms.law/fr/media/local/cms-bfl/files/veille-covid-19-en-afrique-du-13-au-17-avril-2020
+https://perma.cc/NN28-8LC7
+(3)
+https://perma.cc/TQ4J-RKVR
+(4)
+https://perma.cc/F6ZA-NS4V
 
 
 
@@ -99,11 +98,9 @@ https://cms.law/fr/media/local/cms-bfl/files/veille-covid-19-en-afrique-du-13-au
  Decree no 2020-93 of 30 March 2020. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Congo_2015.pdf?lang=en
-
-https://www.tourisme-environnement.gouv.cg/decret-portant-declaration-de-letat-durgence-sanitaire-republique-congo/
-
-https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
+ https://perma.cc/UQ4V-38AZ
+https://perma.cc/TQ4J-RKVR
+https://perma.cc/U7UH-7UKT
 
 
 
@@ -142,13 +139,10 @@ https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgenc
 *No comment provided* 
 
 *Sources*:
- https://www.africanews.com/2020/03/30/congo-republic-heads-into-coronavirus-lockdown/
-
-https://www.tourisme-environnement.gouv.cg/decret-portant-declaration-de-letat-durgence-sanitaire-republique-congo/
-
-https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
-
-https://cms.law/fr/media/local/cms-bfl/files/veille-covid-19-en-afrique-du-13-au-17-avril-2020
+ https://perma.cc/NN28-8LC7
+https://perma.cc/TQ4J-RKVR
+https://perma.cc/RA3K-VZJG
+https://perma.cc/F6ZA-NS4V
 
 
 
@@ -187,9 +181,7 @@ https://cms.law/fr/media/local/cms-bfl/files/veille-covid-19-en-afrique-du-13-au
  The government of The Republic of Congo has last extended the state of health emergency through 4 July 2021. 
 
 *Sources*:
- https://www.vox.cg/2021/06/le-parlement-reconduit-letat-durgence-sanitaire-pour-la-22e-fois/
-
-
+ https://web.archive.org/web/20210615101721/https://www.vox.cg/2021/06/le-parlement-reconduit-letat-durgence-sanitaire-pour-la-22e-fois/
 
 
 
@@ -236,20 +228,15 @@ Q1 2021: 2021-03-25
 Q2 2021: 2021-07-04 
 
 *Sources*:
- https://www.vox.cg/2021/06/le-parlement-reconduit-letat-durgence-sanitaire-pour-la-22e-fois/
+ https://web.archive.org/web/20210615101721/https://www.vox.cg/2021/06/le-parlement-reconduit-letat-durgence-sanitaire-pour-la-22e-fois/
+https://perma.cc/BSS5-HB8P
+https://perma.cc/NL4M-9H2U
 
-https://www.garda.com/crisis24/news-alerts/483286/congo-covid-19-related-state-of-health-emergency-likely-extended-through-june-15-update-24
-
-https://www.adiac-congo.com/content/covid-19-letat-durgence-sanitaire-proroge-compter-du-5-mars-124913
-
-https://economie.gouv.cg/sites/default/files/D%20n%C2%B02020-354%20du%207%20septembre%202020.pdf
-
-https://economie.gouv.cg/sites/default/files/L%20n%C2%B031-2020%20du%2019%20juin%202020.pdf
-
-https://cg.usembassy.gov/health-alert-the-government-of-the-republic-of-congo-roc-extended-a-state-of-health-emergency-until-december-16-to-limit-the-spread-of-covid-19/
-
-https://www.garda.com/crisis24/news-alerts/368681/congo-authorities-extend-state-of-health-emergency-until-september-8-update-10
-https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
+https://perma.cc/7JL7-VAKM
+https://perma.cc/VEZ5-SMV8
+https://perma.cc/6Y9Y-ZR8J
+https://perma.cc/J3EB-YPAV
+https://perma.cc/U7UH-7UKT
 
 
 
@@ -293,21 +280,17 @@ Q1 2021: 2021-03-25
 Q2 2021: 2021-07-04 
 
 *Sources*:
- https://www.vox.cg/2021/06/le-parlement-reconduit-letat-durgence-sanitaire-pour-la-22e-fois/
+ https://web.archive.org/web/20210615101721/https://www.vox.cg/2021/06/le-parlement-reconduit-letat-durgence-sanitaire-pour-la-22e-fois/
 
+https://perma.cc/BSS5-HB8P
+https://perma.cc/NL4M-9H2U
 
-https://www.garda.com/crisis24/news-alerts/483286/congo-covid-19-related-state-of-health-emergency-likely-extended-through-june-15-update-24
+https://perma.cc/7JL7-VAKM
+https://perma.cc/VEZ5-SMV8
+https://perma.cc/6Y9Y-ZR8J
 
-https://www.adiac-congo.com/content/covid-19-letat-durgence-sanitaire-proroge-compter-du-5-mars-124913
-
-https://economie.gouv.cg/sites/default/files/D%20n%C2%B02020-354%20du%207%20septembre%202020.pdf
-
-https://economie.gouv.cg/sites/default/files/L%20n%C2%B031-2020%20du%2019%20juin%202020.pdf
-
-https://cg.usembassy.gov/health-alert-the-government-of-the-republic-of-congo-roc-extended-a-state-of-health-emergency-until-december-16-to-limit-the-spread-of-covid-19/
-
-https://www.garda.com/crisis24/news-alerts/368681/congo-authorities-extend-state-of-health-emergency-until-september-8-update-10
-https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
+https://perma.cc/J3EB-YPAV
+https://perma.cc/U7UH-7UKT
 
 
 
@@ -351,7 +334,7 @@ https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgenc
 ''Article 93 Constitution - When the institutions of the Republic,(........)  are menaced in a grave and imminent manner[,] and that the regular functioning of the public powers is interrupted, the President of the Republic takes the measures required by the circumstances, after consultation of the Prime Minister and of the Presidents of the two Chambers of the Parliament.The Parliament meets of plain right in extraordinary session.The Parliament establishes the time period at the term of which the President of the Republic can no longer take the exceptional measures.'' 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Congo_2015.pdf?lang=en
+ https://perma.cc/UQ4V-38AZ
 
 
 
@@ -394,25 +377,20 @@ https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgenc
 The later extensions of the state of emergency have been approved by the Parliament. 
 
 *Sources*:
- https://www.adiac-congo.com/content/prorogation-de-letat-durgence-les-deputes-deplorent-labsence-des-donnees-scientifiques
+ https://perma.cc/A4GP-WTPE
+https://perma.cc/NL4M-9H2U
 
-https://www.adiac-congo.com/content/covid-19-letat-durgence-sanitaire-proroge-compter-du-5-mars-124913
+https://perma.cc/4RST-VVKZ
 
-https://www.adiac-congo.com/content/etat-durgence-sanitaire-le-parlement-autorise-une-nouvelle-prorogation-de-vingt-jours-123112
+https://perma.cc/GJ7A-J5CL
+https://perma.cc/3JCK-EN3X
 
-https://www.adiac-congo.com/content/covid-19-le-parlement-approuve-la-prorogation-de-letat-durgence-sanitaire-124261
+https://perma.cc/55PE-B5CM
+https://perma.cc/BD3D-XJGA
 
-https://ambacongofr.org/index.php/l-ambassade/actualites/677-covid-19-le-conseil-des-ministre-autorise-de-nouveau-la-prorogation-de-l-etat-d-urgence-sur-toute-l-etendue-du-territoire-national
-
-http://ambacongofr.org/index.php/l-ambassade/actualites/663-covid-19-un-nouveau-projet-de-loi-autorisant-l-etat-d-urgence-sanitaire-au-congo-a-ete-adopte-par-le-conseil-des-ministres
-
-http://apanews.net/en/news/congo-extends-health-emergency-for-20-days
-
-https://fr.allafrica.com/stories/202004300846.html
-
-https://lesechos-congobrazza.com/politique/6901-covid-19-au-congo-ca-y-est-le-parlement-a-adopte-la-loi-autorisant-la-prorogation-de-l-etat-d-urgence
-
-https://ambacongofr.org/index.php/l-ambassade/actualites/529-le-conseil-des-ministres-approuve-le-projet-de-loi-prorogeant-l-etat-d-urgence-sanitaire?showall=1&limitstart=
+https://perma.cc/3LT2-MVHC
+https://perma.cc/Q8D9-T45Y
+https://perma.cc/7E3P-7N5D
 
 
 
@@ -460,18 +438,15 @@ https://ambacongofr.org/index.php/l-ambassade/actualites/529-le-conseil-des-mini
 All the 21 extensions of the state of emergency as of June 2021 have been approved by the Parliament. 
 
 *Sources*:
- https://www.adiac-congo.com/content/prorogation-de-letat-durgence-les-deputes-deplorent-labsence-des-donnees-scientifiques
+ https://perma.cc/A4GP-WTPE
+https://perma.cc/NL4M-9H2U
 
-https://www.adiac-congo.com/content/covid-19-letat-durgence-sanitaire-proroge-compter-du-5-mars-124913
+https://perma.cc/4RST-VVKZ
 
-https://www.adiac-congo.com/content/etat-durgence-sanitaire-le-parlement-autorise-une-nouvelle-prorogation-de-vingt-jours-123112
+https://perma.cc/GJ7A-J5CL
 
-https://www.adiac-congo.com/content/covid-19-le-parlement-approuve-la-prorogation-de-letat-durgence-sanitaire-124261
-
-
-https://lesechos-congobrazza.com/politique/6901-covid-19-au-congo-ca-y-est-le-parlement-a-adopte-la-loi-autorisant-la-prorogation-de-l-etat-d-urgence
-
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+https://perma.cc/Q8D9-T45Y
+https://perma.cc/B2CV-HXHC
 
 
 
@@ -596,21 +571,14 @@ During Q3 and Q4 of 2020, and Q1 and Q2 of 2021, a night curfew is in place in B
  
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/460387/congo-covid-19-related-state-of-health-emergency-extended-through-april-14-update-21
-
-https://www.garda.com/crisis24/news-alerts/434231/congo-covid-19-related-state-of-health-emergency-extended-through-feb-14-update-18
-
-https://cg.usembassy.gov/health-alert-the-government-of-the-republic-of-congo-roc-extended-a-state-of-health-emergency-until-december-16-to-limit-the-spread-of-covid-19/
-
-https://www.garda.com/crisis24/news-alerts/397456/congo-authorities-extend-state-of-health-emergency-until-november-27-update-14
-
-https://cg.usembassy.gov/covid-19-health-alert-08272020/
-
-https://www.africanews.com/2020/03/30/congo-republic-heads-into-coronavirus-lockdown/
-
-https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
-
-https://www.garda.com/crisis24/news-alerts/327701/congo-curfew-and-health-emergency-comes-into-effect-march-31-update-2
+ https://perma.cc/2C7N-EVPB
+https://perma.cc/DDZ5-5FWJ
+https://perma.cc/6Y9Y-ZR8J
+https://perma.cc/GU9S-GZ25
+https://perma.cc/R7CA-EGWN
+https://perma.cc/NN28-8LC7
+https://perma.cc/RA3K-VZJG
+https://perma.cc/5LPZ-6VY9
 
 
 
@@ -654,17 +622,13 @@ https://www.garda.com/crisis24/news-alerts/327701/congo-curfew-and-health-emerge
  No evidence was found. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/republic-of-the-congo/
+ https://perma.cc/3ABJ-CQU7
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-
-https://fr.africanews.com/2020/07/21/coronavirus-en-afrique-l-essentiel-de-la-situation/
-
-https://www.africanews.com/2020/03/30/congo-republic-heads-into-coronavirus-lockdown/
-
-https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
-
-https://www.garda.com/crisis24/news-alerts/327701/congo-curfew-and-health-emergency-comes-into-effect-march-31-update-2
+https://perma.cc/59KS-EP8Y
+https://perma.cc/2WZR-5WFX
+https://perma.cc/NN28-8LC7
+https://perma.cc/RA3K-VZJG
+https://perma.cc/5LPZ-6VY9
 
 
 
@@ -716,15 +680,19 @@ However, the congolese government were refusing medical evacuation to the Congol
  
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/republic-of-the-congo/
+ https://perma.cc/3ABJ-CQU7
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+(1)
+https://perma.cc/59KS-EP8Y
 (2)
-
-https://www.lemonde.fr/afrique/article/2020/07/03/congo-brazzaville-l-opposant-jean-marie-michel-mokoko-hospitalise-sa-defense-exige-sa-liberation_6045048_3212.html
-https://fr.africanews.com/2020/07/21/coronavirus-en-afrique-l-essentiel-de-la-situation/
-https://www.africanews.com/2020/07/30/ivory-coast-ouattara-names-new-prime-minister-but-declines-to-confirm-election-bid//
-https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
+https://perma.cc/W8KB-FXP8
+(3)
+https://perma.cc/2WZR-5WFX
+(4)
+https://perma.cc/2BDD-6T92
+(5)
+https://perma.cc/U7UH-7UKT
+(6)
 
 
 
@@ -768,11 +736,9 @@ https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgenc
  No evidence was found. 
 
 *Sources*:
- https://www.africanews.com/2020/03/30/congo-republic-heads-into-coronavirus-lockdown/
-
-https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
-
-https://www.garda.com/crisis24/news-alerts/327701/congo-curfew-and-health-emergency-comes-into-effect-march-31-update-2
+ https://perma.cc/NN28-8LC7
+https://perma.cc/RA3K-VZJG
+https://perma.cc/5LPZ-6VY9
 
 
 
@@ -895,19 +861,17 @@ State TV anchor in Congo suspended after asking a minister 'inconvenient questio
 ''Rocil Otouna was discreetly sidelined as news anchor after putting some difficult questions about the coronavirus crisis to the justice minister in an interview two weeks ago. Otouna has not been seen on the air since 30 April, when he asked the minister about the lack of information about coronavirus victims, including those currently ill and those who have recovered, and about contradictions between the government's figures and those given by the president on both the caseload and the lockdown's economic and social consequences.'' (3) 
 
 *Sources*:
- https://rsf.org/en/congo-brazzaville
+ https://perma.cc/XC33-PEDH
 (1)
-
-https://rsf.org/en/rsf_search?key=congo
-
-https://rsf.org/en/news/republic-congo-state-tv-urged-reinstate-news-anchor-sidelined-after-coronavirus-interview
+https://web.archive.org/web/20200421110301/http://rsf.org:80/en/rsf_search
+(2)
+https://perma.cc/7BYA-GTE3
 (3)
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://cpj.org/africa/republic-of-congo/
-
-https://lesechos-congobrazza.com/societe/6960-congo-affaire-rocil-otouna-le-president-du-conseil-superieur-de-la-liberte-de-communication-ouvre-une-procedure-juridique-et-administrative
+https://perma.cc/3SJV-TGU3
+(4)
+https://perma.cc/F4AH-62F2
+(5)
+https://perma.cc/PAV8-HGMD
 
 
 
@@ -952,19 +916,17 @@ State TV anchor in Congo suspended after asking a minister 'inconvenient questio
 ''Rocil Otouna was discreetly sidelined as news anchor after putting some difficult questions about the coronavirus crisis to the justice minister in an interview two weeks ago. Otouna has not been seen on the air since 30 April, when he asked the minister about the lack of information about coronavirus victims, including those currently ill and those who have recovered, and about contradictions between the government's figures and those given by the president on both the caseload and the lockdown's economic and social consequences.'' (3) 
 
 *Sources*:
- https://rsf.org/en/congo-brazzaville
+ https://perma.cc/XC33-PEDH
 (1)
-
-https://rsf.org/en/rsf_search?key=congo
-
-https://rsf.org/en/news/republic-congo-state-tv-urged-reinstate-news-anchor-sidelined-after-coronavirus-interview
+https://web.archive.org/web/20200421110301/http://rsf.org:80/en/rsf_search
+(2)
+https://perma.cc/7BYA-GTE3
 (3)
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://cpj.org/africa/republic-of-congo/
-
-https://lesechos-congobrazza.com/societe/6960-congo-affaire-rocil-otouna-le-president-du-conseil-superieur-de-la-liberte-de-communication-ouvre-une-procedure-juridique-et-administrative
+https://perma.cc/3SJV-TGU3
+(4)
+https://perma.cc/F4AH-62F2
+(5)
+https://perma.cc/PAV8-HGMD
 
 
 
@@ -1006,13 +968,10 @@ https://lesechos-congobrazza.com/societe/6960-congo-affaire-rocil-otouna-le-pres
  No evidence was found. 
 
 *Sources*:
- https://rsf.org/en/congo-brazzaville
-
-https://rsf.org/en/rsf_search?key=congo
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://cpj.org/africa/republic-of-congo/
+ https://perma.cc/XC33-PEDH
+https://web.archive.org/web/20200421110301/http://rsf.org:80/en/rsf_search
+https://perma.cc/3SJV-TGU3
+https://perma.cc/F4AH-62F2
 
 
 
@@ -1059,19 +1018,20 @@ State TV anchor in Congo suspended after asking a minister 'inconvenient questio
 ''Rocil Otouna was discreetly sidelined as news anchor after putting some difficult questions about the coronavirus crisis to the justice minister in an interview two weeks ago. Otouna has not been seen on the air since 30 April, when he asked the minister about the lack of information about coronavirus victims, including those currently ill and those who have recovered, and about contradictions between the government's figures and those given by the president on both the caseload and the lockdown's economic and social consequences.'' (3) 
 
 *Sources*:
- https://rsf.org/en/congo-brazzaville
+ https://perma.cc/XC33-PEDH
 (1)
-
 https://rsf.org/en/rsf_search?key=congo
-
-https://rsf.org/en/news/republic-congo-state-tv-urged-reinstate-news-anchor-sidelined-after-coronavirus-interview
+(2)
+https://perma.cc/7BYA-GTE3
 (3)
+https://perma.cc/3SJV-TGU3
+(4)
 
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/F4AH-62F2
+(5)
 
-https://cpj.org/africa/republic-of-congo/
-
-https://lesechos-congobrazza.com/societe/6960-congo-affaire-rocil-otouna-le-president-du-conseil-superieur-de-la-liberte-de-communication-ouvre-une-procedure-juridique-et-administrative
+https://perma.cc/PAV8-HGMD
+(6)
 
 
 
@@ -1113,14 +1073,11 @@ https://lesechos-congobrazza.com/societe/6960-congo-affaire-rocil-otouna-le-pres
  No evidence found. 
 
 *Sources*:
- https://rsf.org/en/congo-brazzaville
+ https://perma.cc/XC33-PEDH
 
-
-https://rsf.org/en/rsf_search?key=congo
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://cpj.org/africa/republic-of-congo/
+https://web.archive.org/web/20200421110301/http://rsf.org:80/en/rsf_search
+https://perma.cc/3SJV-TGU3
+https://perma.cc/F4AH-62F2
 
 
 
@@ -1162,13 +1119,10 @@ https://cpj.org/africa/republic-of-congo/
  No evidence was found. 
 
 *Sources*:
- https://rsf.org/en/congo-brazzaville
-
-https://rsf.org/en/rsf_search?key=congo
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://cpj.org/africa/republic-of-congo/
+ https://perma.cc/XC33-PEDH
+https://web.archive.org/web/20200421110301/http://rsf.org:80/en/rsf_search
+https://perma.cc/3SJV-TGU3
+https://perma.cc/F4AH-62F2
 
 
 
@@ -1214,10 +1168,14 @@ https://cpj.org/africa/republic-of-congo/
 ''Asked about the controversial treatment against Covid-19 from the traditional pharmacopoeia, which was developed in Madagascar and which the Congo intends to try on its territory, Denis Sassou-Nguesso explains that lives are at stake. "We think that all the trials that have been done elsewhere and that have shown some signs of effectiveness […], we too must try them to try to save lives ".'' 
 
 *Sources*:
- https://www.africanews.com/2020/07/17/congo-covid-organics-efficacy-limited/
-(1)
-https://www.france24.com/fr/afrique/20200507-denis-sassou-nguesso-nous-avons-observ%C3%A9-une-remont%C3%A9e-de-l-%C3%A9pid%C3%A9mie-de-covid-19-au-congo
-https://www.aa.com.tr/fr/afrique/-le-congo-brazzaville-recoit-un-lot-de-covid-organics-/1831840
+ https://perma.cc/JQS3-W9CW
+(1)
+https://perma.cc/UHQ9-SMZ3
+(2)
+
+https://perma.cc/GQ4M-FQ9R
+
+(3)
 
 
 
@@ -1261,13 +1219,12 @@ https://www.aa.com.tr/fr/afrique/-le-congo-brazzaville-recoit-un-lot-de-covid-or
  No evidence of police violence in enforcing Covid-19 measures was found. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/republic-of-the-congo/
+ https://perma.cc/3ABJ-CQU7
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+https://perma.cc/59KS-EP8Y
+https://perma.cc/S9S8-DZEG
 
-https://www.africanews.com/tag/republic-of-congo/
-
-https://www.france24.com/en/20200328-virus-prevention-measures-turn-violent-in-parts-of-africa
+https://perma.cc/8ZH7-72KA
 
 
 
@@ -1309,4 +1266,4 @@ https://www.france24.com/en/20200328-virus-prevention-measures-turn-violent-in-p
  Security personnel is deployed to enforce the measures, no military involvement. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/338286/congo-government-extends-covid-19-lockdown-measures-until-may-15-update-4
+ https://perma.cc/D4LA-A2PE

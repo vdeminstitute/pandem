@@ -46,40 +46,35 @@
 
 *Sources*:
  [1]
-https://www.emerald.com/insight/content/doi/10.1108/OXAN-DB256232/full/html
-
+perma.cc/Q76W-Y98G
 [2]
-https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110046/136731/F-912290884/ETH110046.pdf
-
+perma.cc/GX3F-THWH
 [3]
-https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en
-
+perma.cc/M9Y6-XZ2F
 [4]
-https://www.garda.com/crisis24/news-alerts/330611/ethiopia-government-declares-state-of-emergency-due-to-covid-19-april-8-update-8
+perma.cc/YT9L-4EXF
 [5]
-https://www.garda.com/crisis24/news-alerts/473631/ethiopia-authorities-maintaining-covid-19-related-restrictions-nationwide-as-of-april-30-update-11
+perma.cc/SG74-8LQ4
 [6]
-https://www.moh.gov.et/ejcc/sites/default/files/2020-10/COVID%2019%20Directive%20No.30.pdf
+perma.cc/UZ52-ZV6W
 [7]
-https://www.facebook.com/EthiopiaFMoH/posts/1789531567884305
+perma.cc/2UMS-GDXY
 [8]
-https://www.tobaccocontrollaws.org/files/live/Ethiopia/Ethiopia%20-%202019%20Proclamation%20-%20national.pdf
+perma.cc/8FKR-5L2F
 [9]
-https://www.garda.com/crisis24/news-alerts/413536/ethiopia-health-officials-maintain-coronavirus-disease-related-restrictions-as-of-dec-10-update-6
+perma.cc/32GA-CCYX
 [10]
-https://www.garda.com/crisis24/news-alerts/426051/ethiopia-authorities-maintaining-coronavirus-disease-restrictions-as-of-jan-6-update-7
+perma.cc/2VDN-YDJK
 [11]
-https://www.garda.com/crisis24/news-alerts/437536/ethiopia-authorities-maintaining-coronavirus-disease-restrictions-as-of-feb-1-update-8
+perma.cc/X76Z-VHG2
 [12]
-https://www.garda.com/crisis24/news-alerts/449456/ethiopia-covid-19-related-restrictions-remain-largely-unchanged-as-of-march-1-by-comparison-with-those-in-force-during-early-february-update-9
+perma.cc/FF73-74D3
 [13]
-https://www.garda.com/crisis24/news-alerts/462681/ethiopia-authorities-tighten-covid-19-related-restrictions-nationwide-as-of-april-1-update-10
+perma.cc/HV5W-JTND
 [14]
-https://www.garda.com/crisis24/news-alerts/473631/ethiopia-authorities-maintaining-covid-19-related-restrictions-nationwide-as-of-april-30-update-11
+perma.cc/M5F4-26HU
 [15]
-https://www.garda.com/crisis24/news-alerts/484451/ethiopia-authorities-maintain-covid-19-related-restrictions-as-of-may-28-update-12xc
-[16]
-http://www.fmhaca.gov.et/wp-content/uploads/2020/06/Food-and-Medicine-Administration-Proclamation-1112.pdf
+perma.cc/C3M9-GZST
 
 
 
@@ -119,13 +114,11 @@ http://www.fmhaca.gov.et/wp-content/uploads/2020/06/Food-and-Medicine-Administra
 
 *Sources*:
  [1]
-https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110046/136731/F-912290884/ETH110046.pdf
+perma.cc/LHX7-RFTD
 [2]
-https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en
+perma.cc/7HJP-GD76
 [3]
-https://www.moh.gov.et/ejcc/sites/default/files/2020-10/COVID%2019%20Directive%20No.30.pdf
-[4]
-http://www.fmhaca.gov.et/wp-content/uploads/2020/06/Food-and-Medicine-Administration-Proclamation-1112.pdf
+perma.cc/34NY-C7SX
 
 
 
@@ -166,13 +159,13 @@ On October 5, 2020, Directive No. 30/2020 was issued by the Ethiopian Public Hea
 
 *Sources*:
  [1]
-https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110046/136731/F-912290884/ETH110046.pdf
+perma.cc/U375-DC4L
 [2]
-https://www.garda.com/crisis24/news-alerts/330611/ethiopia-government-declares-state-of-emergency-due-to-covid-19-april-8-update-8
+perma.cc/C2ZZ-LAJL
 [3]
-https://www.weforum.org/agenda/2020/06/ethiopia-covid19-response/
+perma.cc/35AS-CMN5
 [4]
-https://www.moh.gov.et/ejcc/sites/default/files/2020-10/COVID%2019%20Directive%20No.30.pdf
+perma.cc/3Y4Z-9W4E
 
 
 
@@ -213,11 +206,11 @@ Directive No. 30/2020 has no end date.
 
 *Sources*:
  [1]
-https://www.washingtonpost.com/world/africa/ethiopians-mark-the-start-of-a-new-year-after-gods-wrath/2020/09/11/f0865f9e-f418-11ea-8025-5d3489768ac8_story.html
+perma.cc/Q4KX-P3HH
 [2]
-https://www.garda.com/crisis24/news-alerts/330611/ethiopia-government-declares-state-of-emergency-due-to-covid-19-april-8-update-8
+perma.cc/PD42-7QDA
 [3]
-https://www.africanews.com/2020/05/19/ethiopia-s-coronavirus-rules-crowd-ban-free-transport-regulate-essentials-etc/
+perma.cc/Q6GR-L8EH
 
 
 
@@ -260,13 +253,13 @@ https://www.africanews.com/2020/05/19/ethiopia-s-coronavirus-rules-crowd-ban-fre
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/05/06/ethiopia-free-speech-risk-amid-covid-19
+perma.cc/YS7P-D275
 [2]
-https://www.africanews.com/2020/05/19/ethiopia-s-coronavirus-rules-crowd-ban-free-transport-regulate-essentials-etc/
+perma.cc/KH4F-LH8F
 [3]
-https://www.hopr.gov.et/documents/portlet_file_entry/20181/A+State+of+Emergency+Proclamation+Enacted+to+Counter+and+Control+the+Spread+of+COVID-19.pdf/ec884bba-3221-49e8-9992-26ccbb385462?download=true
+perma.cc/GW34-NAV9
 [4]
-https://www.moh.gov.et/ejcc/sites/default/files/2020-10/COVID%2019%20Directive%20No.30.pdf
+perma.cc/3VLN-XZDP
 
 
 
@@ -306,9 +299,9 @@ https://www.moh.gov.et/ejcc/sites/default/files/2020-10/COVID%2019%20Directive%2
 
 *Sources*:
  [1]
-https://www.garda.com/crisis24/news-alerts/330611/ethiopia-government-declares-state-of-emergency-due-to-covid-19-april-8-update-8
+perma.cc/7V96-DUT2
 [2]
-https://www.hopr.gov.et/documents/portlet_file_entry/20181/A+State+of+Emergency+Proclamation+Enacted+to+Counter+and+Control+the+Spread+of+COVID-19.pdf/ec884bba-3221-49e8-9992-26ccbb385462?download=true
+perma.cc/7SS3-QDV8
 
 
 
@@ -352,7 +345,7 @@ Directive No. 30/2020 was issued by the Ethiopian Public Health Institute and do
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en
+perma.cc/2TMQ-59XG
 
 
 
@@ -396,11 +389,11 @@ Directive No. 30/2020 was issued by the Ethiopian Public Health Institute and do
 
 *Sources*:
  [1]
-https://www.hopr.gov.et/web/guest/-/the-house-of-people-s-representatives-has-approved-a-state-of-emergency-
+perma.cc/QZ4B-ZJRX
 [2]
-https://borkena.com/2020/04/10/ethiopian-house-of-representatives-endorsed-the-state-of-emergency/
+perma.cc/NE2Y-T8D7
 [3]
-https://www.ethioembassy.org.uk/ethiopia-declares-state-of-emergency-to-curb-transmission-of-coronavirus/
+perma.cc/ZBB4-G3DX
 
 
 
@@ -448,26 +441,21 @@ According to Article 72 (2) of the Food and Medicine Administration Proclamation
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en
+perma.cc/5EUQ-BVFD
 [2]
-International
-IDEA
-Parliaments
-in
-the
-pandemic
+https://perma.cc/DJ79-NX47
 [3]
-https://borkena.com/2020/03/16/ethiopian-house-of-peoples-representatives-cancels-scheduled-session-due-to-covid-19/
+perma.cc/4MVJ-DKF3
 [4]
-https://www.facebook.com/hoprparliament/posts/2513143455458754
+perma.cc/3A5R-WYLX
 [5]
-https://www.moh.gov.et/ejcc/sites/default/files/2020-10/COVID%2019%20Directive%20No.30.pdf
+perma.cc/6WVU-UPEZ
 [6]
-https://extranet.who.int/nutrition/gina/sites/default/filesstore/ETH%202009%20Proclamation%20for%20Food%2C%20Medicine%20and%20health%20care%20administratoin%20and%20control.pdf
+perma.cc/2LSC-NZ3E
 [7]
-http://www.fmhaca.gov.et/wp-content/uploads/2020/06/Food-and-Medicine-Administration-Proclamation-1112.pdf
+perma.cc/PU43-V7GD
 [8]
-http://www.fmhaca.gov.et/publication/food-medicine-and-healthcare-administration-and-control-councils-of-ministers-regulation-no-299-2013/
+perma.cc/6ESF-FU3L
 
 
 
@@ -596,29 +584,29 @@ A state of emergency has been declared in the Tigray region in November because 
 
 *Sources*:
  [1]
-https://www.garda.com/crisis24/news-alerts/326976/ethiopia-state-of-emergency-declared-in-tigray-region-march-26-update-5
+perma.cc/6YQH-Q4BE
 [2]
-https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en
+perma.cc/3HM2-GX2E
 [3]
-https://www.garda.com/crisis24/news-alerts/335866/ethiopia-tigray-region-relaxes-state-of-emergency-april-24-update-11
+perma.cc/FC37-T9SZ
 [4]
-https://dig.watch/updates/internet-restored-oromo-region-ethiopia
+perma.cc/82CZ-52LZ
 [5]
-https://borkena.com/2020/08/03/tigray-authorities-reject-ethiopian-upper-house-warning-over-election/
+perma.cc/GDH2-WBJB
 [6]
-https://borkena.com/2020/08/14/tigray-region-pardoned-over-1500-inmates-to-prevent-spread-of-covid-19-eleciton-not-cancelled/
+perma.cc/4DAK-DN4W
 [7]
-https://et.usembassy.gov/alert-regional-state-governments-and-dire-dawa-implementing-covid-19-related-restrictions-03312020/
+perma.cc/WXW7-86J7
 [8]
-https://www.reuters.com/article/us-ethiopia-conflict-tigray-idUSKBN27S1N8
+perma.cc/4Y7U-PJX6
 [9]
-https://allafrica.com/view/group/main/main/id/00077959.html
+perma.cc/W3F9-BYKS
 [10]
-https://www.garda.com/crisis24/news-alerts/449456/ethiopia-covid-19-related-restrictions-remain-largely-unchanged-as-of-march-1-by-comparison-with-those-in-force-during-early-february-update-9
+perma.cc/JSP3-CE5P
 [11]
-https://www.garda.com/crisis24/news-alerts/473631/ethiopia-authorities-maintaining-covid-19-related-restrictions-nationwide-as-of-april-30-update-11
+perma.cc/VT8C-66T2
 [12]
-https://www.garda.com/crisis24/news-alerts/476106/ethiopia-authorities-impose-indefinite-security-related-curfew-in-karat-city-konso-zone-from-may-6
+perma.cc/5VBK-GS2F
 
 
 
@@ -665,15 +653,15 @@ The Omoro region had very restricted access to internet and phone service betwee
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/africa/ethiopia/
+perma.cc/4DN6-XAC8
 [2]
-https://www.hrw.org/africa/ethiopia
+perma.cc/EV68-RSPT
 [3]
-https://globalfreedomofexpression.columbia.edu/publications/ethiopian-council-of-ministers-regulation-for-the-implementation-of-the-state-of-emergency/
+perma.cc/7UUL-GTY6
 [4]
-https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110046/136731/F-912290884/ETH110046.pdf
+perma.cc/52NA-CWAV
 [5]
-https://dig.watch/updates/internet-restored-oromo-region-ethiopia
+perma.cc/P2Z8-WHN8
 
 
 
@@ -723,11 +711,11 @@ https://dig.watch/updates/internet-restored-oromo-region-ethiopia
 
 *Sources*:
  [1]
-https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
+perma.cc/WAT6-8MGF
 [2]
-https://globalfreedomofexpression.columbia.edu/publications/ethiopian-council-of-ministers-regulation-for-the-implementation-of-the-state-of-emergency/
+perma.cc/8V9T-7BVC
 [3]
-https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110046/136731/F-912290884/ETH110046.pdf
+perma.cc/LZG7-CRTB
 
 
 
@@ -773,15 +761,15 @@ Reporters without borders criticize that "the definition of misinformation is so
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/05/06/ethiopia-free-speech-risk-amid-covid-19
+perma.cc/32DF-5JYQ
 [2]
-https://globalfreedomofexpression.columbia.edu/publications/ethiopian-council-of-ministers-regulation-for-the-implementation-of-the-state-of-emergency/
+perma.cc/KNA7-2UR7
 [3]
-http://www.moh.gov.et/ejcc/sites/default/files/2020-04/negarit.pdf
+perma.cc/ZL3M-5DRW
 [4]
-https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
+perma.cc/ZJZ8-JYPA
 [5]
-https://rsf.org/en/ethiopia
+perma.cc/KM6P-XY5H
 
 
 
@@ -821,9 +809,9 @@ https://rsf.org/en/ethiopia
 
 *Sources*:
  [1]
-https://globalfreedomofexpression.columbia.edu/publications/ethiopian-council-of-ministers-regulation-for-the-implementation-of-the-state-of-emergency/
+perma.cc/BW2Z-CX3S
 [2]
-https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110046/136731/F-912290884/ETH110046.pdf
+perma.cc/BP3B-DT76
 
 
 
@@ -863,9 +851,9 @@ https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110046/136731/F-912290884/ETH1100
 
 *Sources*:
  [1]
-https://www.garda.com/crisis24/news-alerts/330611/ethiopia-government-declares-state-of-emergency-due-to-covid-19-april-8-update-8
+perma.cc/7EDV-ACM6
 [2]
-https://www.washingtonpost.com/world/africa/ethiopians-mark-the-start-of-a-new-year-after-gods-wrath/2020/09/11/f0865f9e-f418-11ea-8025-5d3489768ac8_story.html
+perma.cc/GLA9-FAQL
 
 
 
@@ -908,11 +896,12 @@ https://www.washingtonpost.com/world/africa/ethiopians-mark-the-start-of-a-new-y
 
 *Sources*:
  [1]
-https://rsf.org/en/ethiopia
+perma.cc/VS9U-9LJR
 [2]
-https://ipi.media/ethiopia/
+perma.cc/77GU-YSNW
 [3]
-https://cpj.org/africa/ethiopia/
+perma.cc/6Z38-JZDF
+
 
 
 
@@ -957,19 +946,19 @@ After the State of Emergency ended, there have apparently not been de-facto limi
 
 *Sources*:
  [1]
-https://rsf.org/en/ethiopia
+perma.cc/L8TY-F45E
 [2]
-https://ipi.media/ethiopia/
+perma.cc/LCR4-44ZL
 [3]
-https://cpj.org/africa/ethiopia/
+perma.cc/9TXL-BJPL
 [4]
-https://www.hrw.org/news/2020/05/06/ethiopia-free-speech-risk-amid-covid-19#
+perma.cc/8CYK-CTX5
 [5]
-https://globalvoices.org/2021/03/23/did-the-ethiopian-government-use-its-covid-19-restrictions-to-silence-dissent/
+perma.cc/FL4B-3VU9
 [6]
-https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
+perma.cc/AG84-RS3K
 [7]
-https://cpj.org/2020/04/ethiopian-journalist-yayesew-shimelis-detained-fol/
+perma.cc/7T7R-K2EK
 
 
 
@@ -1012,11 +1001,11 @@ https://cpj.org/2020/04/ethiopian-journalist-yayesew-shimelis-detained-fol/
 
 *Sources*:
  [1]
-https://rsf.org/en/ethiopia
+perma.cc/9VSP-TK4X
 [2]
-https://ipi.media/ethiopia/
+perma.cc/36M4-FXWT
 [3]
-https://cpj.org/africa/ethiopia/
+perma.cc/9MP2-3CSP
 
 
 
@@ -1060,9 +1049,9 @@ https://cpj.org/africa/ethiopia/
 
 *Sources*:
  [1]
-https://dig.watch/updates/internet-restored-oromo-region-ethiopia
+perma.cc/5ELZ-JXPR
 [2]
-https://rsf.org/en/news/coronavirus-rsf-condemns-curbs-access-news-and-information-online
+perma.cc/L3MU-HVKD
 
 
 
@@ -1106,15 +1095,15 @@ No evidence was found that journalists were still harassed while reporting on co
 
 *Sources*:
  [1]
-https://cpj.org/2020/04/ethiopian-journalist-yayesew-shimelis-detained-fol/
+perma.cc/32NG-PFBE
 [2]
-https://www.hrw.org/news/2020/05/06/ethiopia-free-speech-risk-amid-covid-19
+perma.cc/XT93-KCR2
 [3]
-https://ipi.media/journalists-detention-sparks-concerns-over-ethiopias-new-hate-speech-law/
+perma.cc/7YV9-YCDN
 [4]
-https://globalvoices.org/2021/03/23/did-the-ethiopian-government-use-its-covid-19-restrictions-to-silence-dissent/
+perma.cc/QYD4-A6UT
 [5]
-https://www.hrw.org/news/2020/05/06/ethiopia-free-speech-risk-amid-covid-19#
+perma.cc/S8RF-TKN6
 
 
 
@@ -1157,11 +1146,11 @@ https://www.hrw.org/news/2020/05/06/ethiopia-free-speech-risk-amid-covid-19#
 
 *Sources*:
  [1]
-https://rsf.org/en/ethiopia
+perma.cc/FSB7-7NJX
 [2]
-https://ipi.media/ethiopia/
+perma.cc/7HWF-7HDY
 [3]
-https://cpj.org/africa/ethiopia/
+perma.cc/8CY6-RR5A
 
 
 
@@ -1206,9 +1195,9 @@ https://cpj.org/africa/ethiopia/
 
 *Sources*:
  [1]
-http://www.moh.gov.et/ejcc/en
+perma.cc/9R8Z-H5EU
 [2]
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+perma.cc/BG4W-XPT7
 
 
 
@@ -1253,17 +1242,17 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
 
 *Sources*:
  [1]
-https://www.bbc.com/news/topics/cwlw3xz047jt/ethiopia
+perma.cc/24XY-EAZ5
 [2]
-https://www.hrw.org/africa/ethiopia
+perma.cc/GVH2-8T8V
 [3]
-https://www.amnesty.org/en/countries/africa/ethiopia/
+perma.cc/7W9U-MN9J
 [4]
-https://web.archive.org/web/20200824025702/https://www.nytimes.com/reuters/2020/08/20/world/africa/20reuters-ethiopia-protests.html
+perma.cc/W2V7-XFT7
 [5]
-https://www.washingtonpost.com/world/africa/at-least-17-killed-in-political-unrest-in-southern-ethiopia/2020/08/13/e0506862-dd80-11ea-b4f1-25b762cdbbf4_story.html
+perma.cc/P5F8-G3P8
 [6]
-https://apnews.com/11f27003ca7eaaa74e087597eb73ded9
+perma.cc/EBC8-9RFG
 
 
 
@@ -1306,8 +1295,8 @@ https://apnews.com/11f27003ca7eaaa74e087597eb73ded9
 
 *Sources*:
  [1]
-https://globalfreedomofexpression.columbia.edu/publications/ethiopian-council-of-ministers-regulation-for-the-implementation-of-the-state-of-emergency/
+perma.cc/9ZLH-XCUM
 [2]
-https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en
+perma.cc/38QD-BC2M
 [3]
-https://www.amnesty.org/en/latest/news/2020/08/ethiopia-stop-the-use-of-deadly-force-on-protesters/
+perma.cc/XVW5-6EGZ

@@ -46,15 +46,15 @@
 
 *Sources*:
  [1]
-https://moj.gov.jm/sites/default/files/DRMA14.pdf
+perma.cc/RP76-BEMA
 [2]
-https://moj.gov.jm/sites/default/files/DRMA07.pdf
+perma.cc/68KK-KDGS
 [3]
-https://moj.gov.jm/sites/default/files/DRMA07A.pdf
+perma.cc/AP5X-73TB
 [4]
-https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
+perma.cc/KE4A-LBZS
 [5]
-https://jis.gov.jm/media/2021/01/DRM-Enforcement-Measures-Order-2021.pdf
+perma.cc/K8NW-7M4H
 
 
 
@@ -94,11 +94,11 @@ https://jis.gov.jm/media/2021/01/DRM-Enforcement-Measures-Order-2021.pdf
 
 *Sources*:
  [1]
-https://moj.gov.jm/sites/default/files/DRMA07.pdf
+perma.cc/68KK-KDGS
 [2]
-https://moj.gov.jm/sites/default/files/DRMA07A.pdf
+perma.cc/AP5X-73TB
 [3]
-https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
+perma.cc/KE4A-LBZS
 
 
 
@@ -138,7 +138,7 @@ https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%2
 
 *Sources*:
  [1]
-https://moj.gov.jm/sites/default/files/DRMA07.pdf
+perma.cc/68KK-KDGS
 
 
 
@@ -180,13 +180,13 @@ https://moj.gov.jm/sites/default/files/DRMA07.pdf
 
 *Sources*:
  [1]
-https://moj.gov.jm/sites/default/files/DRMA07.pdf
+perma.cc/68KK-KDGS
 [2]
-https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
+perma.cc/KE4A-LBZS
 [3]
-https://opm.gov.jm/news/pm-holness-announces-proposed-covid-19-measures-for-the-christmas-period/
+perma.cc/HXC3-89Q2
 [4]
-https://jis.gov.jm/media/2021/04/Disaster-Risk-Management-Enforcement-Measures-No.-5-Order-2021-1.pdf
+perma.cc/9AAQ-GEEC
 
 
 
@@ -231,11 +231,11 @@ https://jis.gov.jm/media/2021/04/Disaster-Risk-Management-Enforcement-Measures-N
 
 *Sources*:
  [1]
-https://moj.gov.jm/sites/default/files/DRMA07.pdf
+perma.cc/68KK-KDGS
 [2]
-https://moj.gov.jm/sites/default/files/DRMA07A.pdf
+perma.cc/AP5X-73TB
 [3]
-https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
+perma.cc/KE4A-LBZS
 
 
 
@@ -317,7 +317,7 @@ https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%2
 
 *Sources*:
  [1]
-https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
+perma.cc/KE4A-LBZS
 
 
 
@@ -360,9 +360,7 @@ https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%2
 
 *Sources*:
  [1]
-https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
-
-
+perma.cc/KE4A-LBZS
 
 
 
@@ -410,7 +408,7 @@ This enables the executive branch to rule by decree on many issues.
 
 *Sources*:
  [1]
-https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
+perma.cc/KE4A-LBZS
 
 
 
@@ -533,19 +531,19 @@ https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%2
 
 *Sources*:
  [1]
-https://www.ctvnews.ca/world/state-of-emergency-lifted-for-montego-bay-extended-around-kingston-1.4658677
+perma.cc/TL2S-W465
 [2]
-https://www.caribbeannationalweekly.com/caribbean-breaking-news-featured/parliament-approves-extension-of-states-of-emergency-in-jamaica/
+perma.cc/DUK4-Q5XW
 [3]
-https://www.telesurenglish.net/news/jamaica-to-lift-states-of-emergency-ahead-of-elections-20200815-0007.html
+perma.cc/5WCZ-XM2Q
 [4]
-https://jis.gov.jm/media/2020/07/Disaster-Risk-Management-Enforcement-Measures-No.-10-Order-2020-July-15-2020-002.pdf
+perma.cc/99WB-8V99
 [5]
-https://www.travelpulse.com/news/destinations/how-strict-covid-19-protocols-enabled-jamaicas-travel-reopening.html
+perma.cc/D38H-YMBA
 [6]
-https://www.travelpulse.com/news/destinations/how-jamaica-is-attracting-visitors-in-the-covid-19-era.html
+perma.cc/3LZR-BEPM
 [7]
-https://jis.gov.jm/covid-19-resilient-corridor-established-for-tourists/
+perma.cc/MGA2-C73A
 
 
 
@@ -590,21 +588,22 @@ https://jis.gov.jm/covid-19-resilient-corridor-established-for-tourists/
 
 *Sources*:
  [1]
-https://moj.gov.jm/sites/default/files/DRMA07.pdf
+perma.cc/68KK-KDGS
 [2]
-https://jis.gov.jm/media/2020/08/DRM-No.-11-1.pdf
+perma.cc/QJK3-5A26
 [3]
-https://moj.gov.jm/sites/default/files/DRMA07A.pdf
+perma.cc/AP5X-73TB
+
 [4]
-https://jis.gov.jm/media/2020/07/Disaster-Risk-Management-Enforcement-Measures-No.-10-Order-2020-July-15-2020-002.pdf
+perma.cc/99WB-8V99
 [5]
-https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
+perma.cc/KE4A-LBZS
 [6]
-https://www.amnesty.org/en/search/?country=38308&sort=date
+perma.cc/GFF2-MVAV
 [7]
-https://www.hrw.org/americas/jamaica
+perma.cc/LKH5-P4WY
 [8]
-https://www.bbc.com/news/topics/c50znx8v848t/jamaica
+perma.cc/L9FL-RZ9K
 
 
 
@@ -654,21 +653,21 @@ https://www.bbc.com/news/topics/c50znx8v848t/jamaica
 
 *Sources*:
  [1]
-https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
+perma.cc/8E73-QPHS
 [2]
-https://moj.gov.jm/sites/default/files/DRMA07.pdf
+perma.cc/68KK-KDGS
 [3]
-https://moj.gov.jm/sites/default/files/DRMA07A.pdf
+perma.cc/AP5X-73TB
 [4]
-https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
+perma.cc/KE4A-LBZS
 [5]
-https://moj.gov.jm/sites/default/files/DRMA07A.pdf
+perma.cc/AP5X-73TB
 [6]
-https://jis.gov.jm/media/2020/07/Disaster-Risk-Management-Enforcement-Measures-No.-10-Order-2020-July-15-2020-002.pdf
+perma.cc/99WB-8V99
 [7]
-https://www.amnesty.org/en/search/?country=38308&sort=date
+perma.cc/CE99-6ENX
 [8]
-https://www.hrw.org/americas/jamaica
+perma.cc/JE6Z-JV7Q
 
 
 
@@ -713,13 +712,13 @@ https://www.hrw.org/americas/jamaica
 
 *Sources*:
  [1]
-https://moj.gov.jm/sites/default/files/DRMA07.pdf
+perma.cc/68KK-KDGS
 [2]
-https://ipi.media/jamaica/
+perma.cc/7SF2-BS3F
 [3]
-https://rsf.org/en/thematique/internet?countries%5B190%5D=190
+perma.cc/CXZ5-W5MN
 [4]
-https://cpj.org/americas/jamaica/
+perma.cc/ZW3S-JXQ4
 
 
 
@@ -840,15 +839,15 @@ https://cpj.org/americas/jamaica/
 
 *Sources*:
  [1]
-https://ipi.media/jamaica/
+perma.cc/7SF2-BS3F
 [2]
-https://rsf.org/en/thematique/internet?countries%5B190%5D=190
+perma.cc/CXZ5-W5MN
 [3]
-https://www.bbc.com/news/topics/c50znx8v848t/jamaica
+perma.cc/LA7H-2GQZ
 [4]
-https://freedomhouse.org/country/jamaica/freedom-world/2020
+perma.cc/VV9S-6K4A
 [5]
-https://cpj.org/americas/jamaica/
+perma.cc/ZW3S-JXQ4
 
 
 
@@ -891,15 +890,15 @@ https://cpj.org/americas/jamaica/
 
 *Sources*:
  [1]
-https://ipi.media/jamaica/
+perma.cc/7SF2-BS3F
 [2]
-https://rsf.org/en/thematique/internet?countries%5B190%5D=190
+perma.cc/CXZ5-W5MN
 [3]
-https://www.bbc.com/news/topics/c50znx8v848t/jamaica
+perma.cc/LA7H-2GQZ
 [4]
-https://freedomhouse.org/country/jamaica/freedom-world/2020
+perma.cc/VV9S-6K4A
 [5]
-https://cpj.org/americas/jamaica/
+perma.cc/ZW3S-JXQ4
 
 
 
@@ -942,15 +941,15 @@ https://cpj.org/americas/jamaica/
 
 *Sources*:
  [1]
-https://ipi.media/jamaica/
+perma.cc/7SF2-BS3F
 [2]
-https://rsf.org/en/thematique/internet?countries%5B190%5D=190
+perma.cc/CXZ5-W5MN
 [3]
-https://www.bbc.com/news/topics/c50znx8v848t/jamaica
+perma.cc/LA7H-2GQZ
 [4]
-https://freedomhouse.org/country/jamaica/freedom-world/2020
+perma.cc/VV9S-6K4A
 [5]
-https://cpj.org/americas/jamaica/
+perma.cc/ZW3S-JXQ4
 
 
 
@@ -994,13 +993,13 @@ https://cpj.org/americas/jamaica/
 
 *Sources*:
  [1]
-https://ipi.media/jamaica/
+perma.cc/7SF2-BS3F
 [2]
-https://rsf.org/en/thematique/internet?countries%5B190%5D=190
+perma.cc/CXZ5-W5MN
 [3]
-https://www.bbc.com/news/topics/c50znx8v848t/jamaica
+perma.cc/LA7H-2GQZ
 [4]
-https://cpj.org/americas/jamaica/
+perma.cc/ZW3S-JXQ4
 
 
 
@@ -1043,13 +1042,13 @@ https://cpj.org/americas/jamaica/
 
 *Sources*:
  [1]
-https://ipi.media/jamaica/
+perma.cc/7SF2-BS3F
 [2]
-https://rsf.org/en/thematique/internet?countries%5B190%5D=190
+perma.cc/CXZ5-W5MN
 [3]
-https://www.bbc.com/news/topics/c50znx8v848t/jamaica
+perma.cc/LA7H-2GQZ
 [4]
-https://cpj.org/americas/jamaica/
+perma.cc/ZW3S-JXQ4
 
 
 
@@ -1092,13 +1091,13 @@ https://cpj.org/americas/jamaica/
 
 *Sources*:
  [1]
-https://ipi.media/jamaica/
+perma.cc/7SF2-BS3F
 [2]
-https://rsf.org/en/thematique/internet?countries%5B190%5D=190
+perma.cc/CXZ5-W5MN
 [3]
-https://www.bbc.com/news/topics/c50znx8v848t/jamaica
+perma.cc/LA7H-2GQZ
 [4]
-https://cpj.org/americas/jamaica/
+perma.cc/ZW3S-JXQ4
 
 
 
@@ -1143,11 +1142,11 @@ https://cpj.org/americas/jamaica/
 
 *Sources*:
  [1]
-https://jamcovid19.moh.gov.jm/how-to-protect.html
+perma.cc/2B9U-NCJA
 [2]
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+perma.cc/4VRG-4N9L
 [3]
-https://jis.gov.jm/jamaica-and-the-coronavirus/
+perma.cc/35JY-KKWC
 
 
 
@@ -1192,11 +1191,11 @@ https://jis.gov.jm/jamaica-and-the-coronavirus/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/search/?country=38308&resourceType=newsarticle&sort=date
+perma.cc/VEM8-8P7V
 [2]
-https://www.hrw.org/americas/jamaica
+perma.cc/M7E7-ZAZ7
 [3]
-https://www.bbc.com/news/topics/c50znx8v848t/jamaica
+perma.cc/4RRU-B6BU
 
 
 
@@ -1239,8 +1238,8 @@ https://www.bbc.com/news/topics/c50znx8v848t/jamaica
 
 *Sources*:
  [1]
-https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
+perma.cc/7C5E-PTXH
 [2]
-https://www.bbc.com/news/topics/c50znx8v848t/jamaica
+perma.cc/44S9-ZKDC
 [3]
-https://www.reuters.com/search/news?blob=jamaica
+perma.cc/9FNT-23LC

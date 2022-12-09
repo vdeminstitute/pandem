@@ -46,15 +46,15 @@
 
 *Sources*:
  [1]
-https://www.gacetaoficial.gob.cu/es/gaceta-oficial-no-19-extraordinaria-de-2020
+https://perma.cc/9DNH-VPZU
 [2]
-https://www.gacetaoficial.gob.cu/es/gaceta-oficial-no-25-extraordinaria-de-2020
+https://perma.cc/Q576-SJN2
 [3]
-https://www.gacetaoficial.gob.cu/es/gaceta-oficial-no-44-extraordinaria-de-2020
+https://perma.cc/8MXU-KSDJ
 [4]
-https://www.gacetaoficial.gob.cu/es/gaceta-oficial-no-8-extraordinaria-de-2021
+https://perma.cc/6SMY-9TTS
 [5]
-http://juriscuba.com/wp-content/uploads/2015/10/Decreto-No.-139.pdf
+https://perma.cc/X577-7GQA
 
 
 
@@ -94,7 +94,7 @@ http://juriscuba.com/wp-content/uploads/2015/10/Decreto-No.-139.pdf
 
 *Sources*:
  [1]
-http://juriscuba.com/wp-content/uploads/2015/10/Decreto-No.-139.pdf
+https://perma.cc/RN8V-2KN4
 
 
 
@@ -134,7 +134,7 @@ http://juriscuba.com/wp-content/uploads/2015/10/Decreto-No.-139.pdf
 
 *Sources*:
  [1]
-https://www.gacetaoficial.gob.cu/es/gaceta-oficial-no-25-extraordinaria-de-2020
+https://perma.cc/9DNH-VPZU
 
 
 
@@ -174,7 +174,7 @@ https://www.gacetaoficial.gob.cu/es/gaceta-oficial-no-25-extraordinaria-de-2020
 
 *Sources*:
  [1]
-https://www.gacetaoficial.gob.cu/es/resolucion-128-de-2020-de-ministerio-de-salud-publica
+https://perma.cc/5RQ6-TW34
 
 
 
@@ -217,7 +217,7 @@ https://www.gacetaoficial.gob.cu/es/resolucion-128-de-2020-de-ministerio-de-salu
 
 *Sources*:
  [1]
-https://www.gacetaoficial.gob.cu/es/gaceta-oficial-no-25-extraordinaria-de-2020
+https://perma.cc/9DNH-VPZU
 
 
 
@@ -257,7 +257,7 @@ https://www.gacetaoficial.gob.cu/es/gaceta-oficial-no-25-extraordinaria-de-2020
 
 *Sources*:
  [1]
-https://www.gacetaoficial.gob.cu/es/gaceta-oficial-no-25-extraordinaria-de-2020
+https://perma.cc/9DNH-VPZU
 
 
 
@@ -300,7 +300,7 @@ https://www.gacetaoficial.gob.cu/es/gaceta-oficial-no-25-extraordinaria-de-2020
 
 *Sources*:
  [1]
-http://juriscuba.com/wp-content/uploads/2015/10/Decreto-No.-139.pdf
+https://perma.cc/RN8V-2KN4
 
 
 
@@ -389,9 +389,9 @@ http://juriscuba.com/wp-content/uploads/2015/10/Decreto-No.-139.pdf
 
 *Sources*:
  [1]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+https://perma.cc/5AVL-TUNY
 [2]
-http://juriscuba.com/wp-content/uploads/2015/10/Decreto-No.-139.pdf
+https://perma.cc/X577-7GQA
 
 
 
@@ -514,16 +514,16 @@ http://juriscuba.com/wp-content/uploads/2015/10/Decreto-No.-139.pdf
 
 *Sources*:
  [1]
-http://www.cubadebate.cu/noticias/2020/05/30/prolongan-cuarentena-por-la-covid-19-en-poblado-de-ciego-de-avila/#.Xv9cPCgzbIU
+https://perma.cc/TTF4-KTVU
 [2]
-https://diariodecuba.com/cuba/1588083336_17725.html
+https://perma.cc/AL86-F3C4
 [3]
-https://www.gacetaoficial.gob.cu/sites/default/files/goc-2020-ex44.pdf
+https://perma.cc/L96M-PYHN
 [4]
-http://www.granma.cu/cuba-covid-19/2020-12-03/el-regreso-a-la-cuarentena-03-12-2020-00-12-22
+https://perma.cc/Y426-X45X
 [5]
-http://www.cubadebate.cu/noticias/2021/06/10/aprueban-medidas-para-reforzar-el-enfrentamiento-a-la-covid-19-en-la-habana/
-http://www.granma.cu/cuba/2021-05-25/reforzaran-medidas-de-enfrentamiento-a-la-covid-19-en-la-habana-ante-la-cercania-del-verano
+https://perma.cc/YC4L-6C2G
+https://perma.cc/BWD5-BGJ7
 
 
 
@@ -568,9 +568,9 @@ http://www.granma.cu/cuba/2021-05-25/reforzaran-medidas-de-enfrentamiento-a-la-c
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/cuba/
+https://perma.cc/NY77-EWB7
 [2]
-https://www.hrw.org/americas/cuba
+https://perma.cc/T9BJ-K74K
 
 
 
@@ -620,9 +620,9 @@ https://www.hrw.org/americas/cuba
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/cuba/
+https://perma.cc/NY77-EWB7
 [2]
-https://www.hrw.org/americas/cuba
+https://perma.cc/T9BJ-K74K
 
 
 
@@ -667,7 +667,7 @@ https://www.hrw.org/americas/cuba
 
 *Sources*:
  [1]
-https://www.gacetaoficial.gob.cu/es/gaceta-oficial-no-25-extraordinaria-de-2020
+https://perma.cc/9DNH-VPZU
 
 
 
@@ -788,14 +788,13 @@ https://www.gacetaoficial.gob.cu/es/gaceta-oficial-no-25-extraordinaria-de-2020
 
 *Sources*:
  [1]
-https://rsf.org/en/cuba
+https://perma.cc/J5ZG-YMUV
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
-
+https://perma.cc/92NE-B6TZ
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/N7S5-XNR3
 [4]
-https://cpj.org/americas/cuba/
+https://perma.cc/E2NZ-EMAV
 
 
 
@@ -838,16 +837,15 @@ https://cpj.org/americas/cuba/
 
 *Sources*:
  [1]
-https://cpj.org/2020/07/cuban-journalist-jorge-enrique-rodriguez-detained-amid-protests-awaiting-trial/
+https://perma.cc/2DH3-PSFB
 [2]
-https://rsf.org/en/cuba
-
+https://perma.cc/HCC9-NLZU
 [3]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/92NE-B6TZ
+[4]
+https://perma.cc/N7S5-XNR3
 [5]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
-[5]
-https://cpj.org/americas/cuba/
+https://perma.cc/E2NZ-EMAV
 
 
 
@@ -890,13 +888,13 @@ https://cpj.org/americas/cuba/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/HCC9-NLZU
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/92NE-B6TZ
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/N7S5-XNR3
 [4]
-https://cpj.org/americas/cuba/
+https://perma.cc/E2NZ-EMAV
 
 
 
@@ -940,9 +938,9 @@ https://cpj.org/americas/cuba/
 
 *Sources*:
  [1]
-https://ipi.media/pandemic-exacerbates-repression-of-independent-journalism-in-cuba/
+https://perma.cc/9GT9-DVDW
 [2]
-https://monitor.civicus.org/updates/2021/01/15/cuban-government-backtracks-talks-protesters-and-uses-covid-19-regulations-harass-critics/
+https://perma.cc/2CP2-FGTG
 
 
 
@@ -985,11 +983,12 @@ https://monitor.civicus.org/updates/2021/01/15/cuban-government-backtracks-talks
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/HCC9-NLZU
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/92NE-B6TZ
 [3]
-https://cpj.org/americas/cuba/
+
+https://perma.cc/E2NZ-EMAV
 
 
 
@@ -1032,13 +1031,14 @@ https://cpj.org/americas/cuba/
 
 *Sources*:
  [1]
-https://cpj.org/2020/07/cuban-journalist-jorge-enrique-rodriguez-detained-amid-protests-awaiting-trial/
+https://perma.cc/2DH3-PSFB
 [2]
-https://rsf.org/en/countries
+https://perma.cc/HCC9-NLZU
 [3]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/92NE-B6TZ
 [4]
-https://cpj.org/americas/cuba/
+
+https://perma.cc/E2NZ-EMAV
 
 
 
@@ -1083,7 +1083,7 @@ https://cpj.org/americas/cuba/
 
 *Sources*:
  [1]
-https://salud.msp.gob.cu/category/covid-19/
+https://perma.cc/3LJJ-G4QZ
 
 
 
@@ -1128,13 +1128,13 @@ https://salud.msp.gob.cu/category/covid-19/
 
 *Sources*:
  [1]
-https://www.diariolasamericas.com/america-latina/denuncian-que-policia-cuba-aumenta-abusos-el-covid-19-n4203056
+https://perma.cc/Q5MF-LNXP
 [2]
-https://www.hrw.org/news/2020/12/07/cuba-covid-19-rules-used-intensify-repression
+https://perma.cc/X28N-BHHU
 [3]
-https://diariodecuba.com/cuba/1594716069_23585.html
+https://perma.cc/Y3DC-PRVH
 [4]
-https://www.hrw.org/news/2020/07/28/cuba-protest-over-police-killing-suppressed
+https://perma.cc/VA8M-PXHB
 
 
 
@@ -1177,8 +1177,8 @@ https://www.hrw.org/news/2020/07/28/cuba-protest-over-police-killing-suppressed
 
 *Sources*:
  [1]
-http://www.granma.cu/cuba-covid-19/2020-03-24/el-primer-secretario-del-pcc-y-el-presidente-activaron-los-consejos-de-defensa-en-el-pais-24-03-2020-01-03-10
+https://perma.cc/822E-7AL6
 [2]
-http://www.granma.cu/cuba-covid-19/2020-04-06/las-far-frente-a-la-covid-19-el-pueblo-que-salva-al-pueblo-fotos-06-04-2020-23-04-20
+https://perma.cc/Z6MA-43S9
 [3]
-https://nuso.org/articulo/cuba-la-pandemia-y-las-far/
+https://perma.cc/8STN-JFED

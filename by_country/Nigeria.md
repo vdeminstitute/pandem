@@ -45,13 +45,13 @@
  Nigeria has called upon emergency powers to deal with COVID-19 without, however, having declared a state of emergency. The extant Infectious Diseases Law - the Quarantine Act 1926 - gives the President sweeping powers towards preventing the introduction into and spread in Nigeria, and the transmission from Nigeria, of dangerous infectious diseases' and to make regulations for associated purposes. However, the Quarantine Act has been in process of being repealed and substituted via a new Bill of health. 
 
 *Sources*:
- https://placng.org/i/quarantine-act-repeal-and-re-enactment-bill-2021-passes-second-reading-in-the-senate/
-https://verfassungsblog.de/nigerias-emergency-legal-response-to-covid-19-a-worthy-sacrifice-for-public-health/
-https://www.loc.gov/law/help/health-emergencies/nigeria.php
-https://www.scribd.com/document/458968631/Draft-Control-of-Infectious-Diseases-Bill
-https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/
-https://covid19.ncdc.gov.ng/advisory/
-https://covidlawlab.org/wp-content/uploads/2020/06/Quarantine-Act-1926.pdf
+ [1]	perma.cc/RZB3-E45D
+[2]	perma.cc/ZJ35-5V5W
+[3]	perma.cc/RX2M-ZUCP
+[4]	perma.cc/X7W8-YLG3
+[5]	perma.cc/27JV-KJYU
+[6]	perma.cc/K8E2-LJAZ
+[7]	perma.cc/XV3D-2824
 
 
 
@@ -90,10 +90,10 @@ https://covidlawlab.org/wp-content/uploads/2020/06/Quarantine-Act-1926.pdf
  The National Assembly of Nigeria has proposed to replace the Quarantine Act of 1926 with new legislation (separately tabled in each house), but these bills are still pending. Thus, the Quarantine Act of 1926 is the current main legal instrument to allow the president to make Covid-19 related regulations. 
 
 *Sources*:
- https://www.loc.gov/law/help/health-emergencies/nigeria.php
-https://verfassungsblog.de/nigerias-emergency-legal-response-to-covid-19-a-worthy-sacrifice-for-public-health/
-https://www.scribd.com/document/458968631/Draft-Control-of-Infectious-Diseases-Bill
-https://covidlawlab.org/wp-content/uploads/2020/06/Quarantine-Act-1926.pdf
+ [1]	perma.cc/J727-8B63
+[2]	perma.cc/UN7K-GXX5
+[3]	perma.cc/J8DE-SYEX
+[4]	perma.cc/B2P7-8D6T
 
 
 
@@ -132,12 +132,11 @@ https://covidlawlab.org/wp-content/uploads/2020/06/Quarantine-Act-1926.pdf
  The Covid-19 Regulations, 2020, are signed by the President of Nigeria on March 30, 2020. It restricted the movement in Lagos and Ogun States as well as the FCT. 
 
 *Sources*:
- https://allafrica.com/stories/202101260092.html
-https://covid19.ncdc.gov.ng/media/files/F4_-_IMPLEMENTATION_GUIDELINES.pdf
-https://www.bbc.com/pidgin/tori-55415014
-
-https://pwcnigeria.typepad.com/files/fg-covid-19-regualtions-1.pdf
-https://verfassungsblog.de/nigerias-emergency-legal-response-to-covid-19-a-worthy-sacrifice-for-public-health/
+ [1]	perma.cc/U7NJ-TW9H
+[2]	perma.cc/X448-BHYP
+[3]	perma.cc/G6NP-HLHN
+[4]	perma.cc/YSV4-J4SM
+[5]	perma.cc/AWW9-35LZ
 
 
 
@@ -176,19 +175,10 @@ https://verfassungsblog.de/nigerias-emergency-legal-response-to-covid-19-a-worth
  The government initially declared a 14-day period of emergency measures but these have been periodically extended. From 04 May the restrictions got gradually eased but curfews remained in place from 10pm-6am across all of Nigeria. On 04 September, Nigeria entered the third phase of eased lockdown which was planned to last four weeks. On 19 October, the measures were extended for four weeks and I found no evidence that they were extended further, therefore emend is coded as 16 November 2020. The Nigerian Centre for Disease Control still lists limits on gatherings of over 20 people outside of workplaces; however, no other national-level restrictions from the original regulations are listed. The Nigerian CDC also issued a set of guidelines for end-of-year travel. These include mandatory testing and quarantine (7 days) for travelers entering the country, but no formal restrictions on movement or public gatherings. In January, the lockdown was extended for 4 weeks. Phase IV of lockdown was instituted on 10 May 2021 and end by the time of coding on 11 June 2021. Limitations come and go with the new developments and waves of the pandemic. 
 
 *Sources*:
- https://covid19.ncdc.gov.ng/media/files/F4_-_IMPLEMENTATION_GUIDELINES.pdf
-https://covid19.ncdc.gov.ng/media/files/Coronavirus_Disease_COVID19_Health_Protection_Re
-emlimit
-https://covid19.ncdc.gov.ng/media/files/F4_-_IMPLEMENTATION_GUIDELINES.pdf
-https://www.bbc.com/pidgin/tori-55415014
-https://statehouse.gov.ng/covid19/infographics/
-https://pwcnigeria.typepad.com/files/fg-covid-19-regualtions-1.pdf
-https://www.facebook.com/MuhammaduBuhari/posts/2686476408299209
-https://statehouse.gov.ng/covid19/wp-content/uploads/2020/10/Implementation-guidelines-for-Eased-Lockdown-19Oct-2020.pdf
-https://www.garda.com/crisis24/news-alerts/336796/nigeria-lockdown-in-lagos-abuja-and-ogun-state-extended-for-one-week-april-27-update-18
-https://www.premiumtimesng.com/news/headlines/412306-covid-19-nigerias-third-phase-of-eased-lockdown-to-last-four-weeks-official.html
-https://ncdc.gov.ng/news/276/end-of-year-travel-advisory-on-covid-19
-https://covid19.ncdc.gov.ng/faq/
+ [1]
+https://covid19.ncdc.gov.ng/media/files/Coronavirus_Disease_COVID19_Health_Protection_Reemlimit
+[2]
+perma.cc/R564-7F7D
 
 
 
@@ -236,12 +226,19 @@ October-December 2020: On 19 October, the measures were extended for four weeks.
 January-June 2021: On 26 January, after an attempt to reopen the schools, the phase three was extended for extra 4 weeks. On 10 May, the lockdown entered in its fourth phase with the end envisaged for the 11 June. 
 
 *Sources*:
- https://statehouse.gov.ng/covid19/infographics/
-https://pwcnigeria.typepad.com/files/fg-covid-19-regualtions-1.pdf
+ [1]
+https://perma.cc/YA8R-RZS4
+[2]
+perma.cc/2LPQ-PL9X
+[3]
 https://www.facebook.com/MuhammaduBuhari/posts/2686476408299209
-https://statehouse.gov.ng/covid19/wp-content/uploads/2020/10/Implementation-guidelines-for-Eased-Lockdown-19Oct-2020.pdf
-https://www.garda.com/crisis24/news-alerts/336796/nigeria-lockdown-in-lagos-abuja-and-ogun-state-extended-for-one-week-april-27-update-18
-https://www.premiumtimesng.com/news/headlines/412306-covid-19-nigerias-third-phase-of-eased-lockdown-to-last-four-weeks-official.html
+
+[4]
+https://perma.cc/4UGP-AE96
+[5]
+perma.cc/M4NG-65FE
+[6]
+perma.cc/8NE3-ATV8
 
 
 
@@ -286,16 +283,25 @@ October-December 2020: On 19 October, the measures were extended for four weeks.
 January-June 2021: On 26 January, after an attempt to reopen the schools, the phase three was extended for extra 4 weeks. On 10 May, the lockdown entered in its fourth phase with the end envisaged for the 11 June. 
 
 *Sources*:
- https://covid19.ncdc.gov.ng/media/files/F4_-_IMPLEMENTATION_GUIDELINES.pdf
-https://www.bbc.com/pidgin/tori-55415014
-https://statehouse.gov.ng/covid19/infographics/
-https://pwcnigeria.typepad.com/files/fg-covid-19-regualtions-1.pdf
+ [1]
+https://perma.cc/28GU-ZFBK
+[2]
+https://perma.cc/H9UY-KUBJ
+[3]
+https://perma.cc/YA8R-RZS4
+[4]
+https://perma.cc/B3VK-CZUS
+[5]
 https://www.facebook.com/MuhammaduBuhari/posts/2686476408299209
-ttps://www.garda.com/crisis24/news-alerts/336796/nigeria-lockdown-in-lagos-abuja-and-ogun-state-extended-for-one-week-april-27-update-18
 
-https://statehouse.gov.ng/covid19/2020/07/01/updated-implementation-guidelines-for-extension-of-easing-of-lockdown-june-30-to-july-27-2020/
-https://www.premiumtimesng.com/news/headlines/412306-covid-19-nigerias-third-phase-of-eased-lockdown-to-last-four-weeks-official.html
-https://statehouse.gov.ng/covid19/wp-content/uploads/2020/10/Implementation-guidelines-for-Eased-Lockdown-19Oct-2020.pdf
+[6]
+https://perma.cc/A9UD-E69T
+[7]
+https://perma.cc/JW5H-VA6F
+[8]
+https://perma.cc/K76G-6MFG
+[9]
+https://perma.cc/4UGP-AE96
 
 
 
@@ -337,15 +343,9 @@ https://statehouse.gov.ng/covid19/wp-content/uploads/2020/10/Implementation-guid
  The Quarantine Act of 1926, which was adopted during the colonial period, does not require that the legislative approval of emergency response measures. 
 
 *Sources*:
- https://verfassungsblog.de/nigerias-emergency-legal-response-to-covid-19-a-worthy-sacrifice-for-public-health/
-
-
-
-https://www.loc.gov/law/help/health-emergencies/nigeria.php
-
-
-
-http://lawsofnigeria.placng.org/laws/Q2.pdf
+ [1]	perma.cc/LR78-8GS7
+[2]	perma.cc/693U-TNST
+[3]	perma.cc/NGD2-27HU
 
 
 
@@ -387,16 +387,10 @@ http://lawsofnigeria.placng.org/laws/Q2.pdf
  The Quarantine Act of 1926, which was adopted during the colonial period, does not require that the legislative approval of emergency response measures. Nevertheless, the legislature is current debating new legislation on emergency responses to disease. 
 
 *Sources*:
- https://verfassungsblog.de/nigerias-emergency-legal-response-to-covid-19-a-worthy-sacrifice-for-public-health/
-
-
-
-https://www.loc.gov/law/help/health-emergencies/nigeria.php;
-http://lawsofnigeria.placng.org/laws/Q2.pdf
-
-
-
-https://www.scribd.com/document/458968631/Draft-Control-of-Infectious-Diseases-Bill
+ [1]	perma.cc/LR78-8GS7
+[2]	perma.cc/693U-TNST
+[3]	perma.cc/NGD2-27HU
+[4]	perma.cc/X4W4-5RGD
 
 
 
@@ -442,10 +436,10 @@ https://www.scribd.com/document/458968631/Draft-Control-of-Infectious-Diseases-B
  While the Quarantine Act of 1926 allows for narrowly defined responses to disease outbreaks, many fear that the proposed legislation being debated by the National Assembly is vaguely formulated and will provide more sweeping presidential powers. 
 
 *Sources*:
- https://verfassungsblog.de/nigerias-emergency-legal-response-to-covid-19-a-worthy-sacrifice-for-public-health/
-https://www.loc.gov/law/help/health-emergencies/nigeria.php
-http://lawsofnigeria.placng.org/laws/Q2.pdf
-https://www.scribd.com/document/458968631/Draft-Control-of-Infectious-Diseases-Bill
+ [1]	perma.cc/4RDA-G346
+[2]	perma.cc/A7PF-ELY7
+[3]	perma.cc/244S-ZMDU
+[4]	perma.cc/E8W4-4ULB
 
 
 
@@ -567,10 +561,10 @@ https://www.scribd.com/document/458968631/Draft-Control-of-Infectious-Diseases-B
  The federal system of governance in Nigeria allows for varying responses by state governments. In addition, the federal response has been targeted at areas of high infection, especially urban centers of Lagos, Arusha, and Ogun. 
 
 *Sources*:
- https://www.theafricareport.com/27773/coronavirus-nigerias-varied-responses-to-controlling-covid-19/
-https://www.nytimes.com/2020/05/17/world/africa/coronavirus-kano-nigeria-hotspot.html
-https://statehouse.gov.ng/covid19/infographics/
-https://pwcnigeria.typepad.com/files/fg-covid-19-regualtions-1.pdf
+ [1]	perma.cc/5JAM-VVVS
+[2]	perma.cc/Z2HN-PL6B
+[3]	https://perma.cc/R8HG-75T9
+[4]	perma.cc/C9UJ-YD9A
 
 
 
@@ -614,11 +608,11 @@ https://pwcnigeria.typepad.com/files/fg-covid-19-regualtions-1.pdf
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- https://www.hrw.org/africa/nigeria
-https://www.amnesty.org/en/search/?country=38624&resourceType=newsarticle&sort=date
-https://www.bbc.co.uk/news/topics/c50znx8v132t/nigeria
-https://covid19.ncdc.gov.ng/media/files/GUIDELINES_ON_REOPENING_OF_PLACES_OF_WORSHIP_Final.pdf
-https://pwcnigeria.typepad.com/files/fg-covid-19-regualtions-1.pdf
+ [1]	perma.cc/U7XC-V76M
+[2]	perma.cc/3PWW-Q57T
+[3]	perma.cc/833Y-5WQT
+[4]	perma.cc/TLY5-FTYB
+[5]	perma.cc/KH43-QXAP
 
 
 
@@ -667,12 +661,12 @@ https://pwcnigeria.typepad.com/files/fg-covid-19-regualtions-1.pdf
  No evidence was found that any of the emergency measures de-jure violated non-derogable rights as defined by the ICCPR. 
 
 *Sources*:
- https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-https://www.hrw.org/africa/nigeria
-https://www.amnesty.org/en/search/?country=38624&resourceType=newsarticle&sort=date
-https://www.bbc.co.uk/news/topics/c50znx8v132t/nigeria
-https://pwcnigeria.typepad.com/files/fg-covid-19-regualtions-1.pdf
-https://verfassungsblog.de/nigerias-emergency-legal-response-to-covid-19-a-worthy-sacrifice-for-public-health/
+ [1]	perma.cc/XQ4Z-5AW4
+[2]	perma.cc/B72B-JZB7
+[3]	perma.cc/XMQ4-MCSJ
+[4]	perma.cc/8HAX-HVBN
+[5]	perma.cc/5UED-W53V
+[6]	perma.cc/3TST-FPKP
 
 
 
@@ -716,9 +710,7 @@ https://verfassungsblog.de/nigerias-emergency-legal-response-to-covid-19-a-worth
  No national-level measures limiting media freedom found. Some states have passed a new law, prohibiting publishing "false and damaging" information, which is not coded because the measures were taken on a subnational level, but is considered in coding merepfact and merepgov. 
 
 *Sources*:
- https://cpj.org/2020/03/nigeria-imposes-harsh-restrictions-for-journalist/
-
-
+ [1]	perma.cc/U5SH-KC5F
 
 
 
@@ -840,11 +832,10 @@ https://verfassungsblog.de/nigerias-emergency-legal-response-to-covid-19-a-worth
 A reporter was arrested and accused of publishing "false and damaging" information regarding a Lassa fever outbreak in the state, which is not related to reporting on the Covid-19 virus and is instead coded in merepoth. 
 
 *Sources*:
- http://www.spaajibade.com/resources/wp-content/uploads/2020/04/Infectious-Diseases-Emergency-Prevention-Regulations-2020.pdf
-https://www.facebook.com/ebonyionline/posts/ebonyi-state-infectious-diseases-emergency-prevention-regulations-2020preamblewh/1261039964102137/
-
-https://www.premiumtimesng.com/regional/ssouth-east/388686-coronavirus-law-used-to-arrest-nigerian-journalist-over-health-story.html
-https://cpj.org/2020/04/nigerian-police-arrest-2-journalists-governor-canc/
+ [1]	perma.cc/593X-C5MP
+[2]	https://www.facebook.com/ebonyionline/posts/ebonyi-state-infectious-diseases-emergency-prevention-regulations-2020preamblewh/1261039964102137/
+[3]	perma.cc/TS5Z-QZ2P
+[4]	perma.cc/2B5R-HGQU
 
 
 
@@ -888,22 +879,18 @@ https://cpj.org/2020/04/nigerian-police-arrest-2-journalists-governor-canc/
 Some states have passed a new law, prohibiting publishing "false and damaging" information, which puts limitation on reporting on Covid-19, including on the government's response to Covid-19. In 2021 the media environment continues to harass and arrest journalists. 
 
 *Sources*:
- https://cpj.org/2021/01/nigerian-security-forces-seize-journalists-cameras-delete-photos/
-https://cpj.org/2021/04/nigerian-governor-threatens-to-deal-with-journalists-who-covered-2018-corruption-case/
-https://cpj.org/2020/06/nigerian-journalist-held-under-cybercrime-act-for-covid-19-coverage/
-https://cpj.org/2020/05/nigerian-journalist-kufre-carter-detained-for-1-month-charged-with-defamation-and-conspiracy/
-https://tribuneonlineng.com/lockdown-task-force-attacks-delta-nuj-chairman-another-journalist/
-https://cpj.org/2020/08/nigerian-journalist-sikiru-obarayese-attacked-by-police-while-covering-covid-19-lockdown/
-https://reliefweb.int/report/world/2020-pandemic-has-challenged-press-freedom-africa
-https://rsf.org/en/reports/2020-pandemic-has-challenged-press-freedom-africa
-
-https://rsf.org/en/news/young-nigerian-reporters-body-found-lagos-morgue
-
-(1)
-https://cpj.org/2020/04/nigerian-police-arrest-2-journalists-governor-canc/
-
-http://www.spaajibade.com/resources/wp-content/uploads/2020/04/Infectious-Diseases-Emergency-Prevention-Regulations-2020.pdf
-https://www.facebook.com/ebonyionline/posts/ebonyi-state-infectious-diseases-emergency-prevention-regulations-2020preamblewh/1261039964102137/
+ [1]	perma.cc/M5PM-PQAS
+[2]	perma.cc/67MY-SH9Z
+[3]	perma.cc/NGW2-ZVUW
+[4]	perma.cc/4CML-8WH9
+[5]	perma.cc/G4WX-KMWZ
+[6]	perma.cc/67LX-LUVD
+[7]	perma.cc/MS4U-ESTU
+[8]	perma.cc/X35P-L3W7
+[9]	perma.cc/RA6S-SBT2
+[10]	perma.cc/WCH9-CPKA
+[11]	perma.cc/7G69-SP3T
+[12]	https://www.facebook.com/ebonyionline/posts/ebonyi-state-infectious-diseases-emergency-prevention-regulations-2020preamblewh/1261039964102137/
 
 
 
@@ -949,13 +936,12 @@ As part of public health restrictions on assembly, 92 journalists had their acce
 There are reports that journalist were excluded from a hearing of the acting Chairman of the Economic and Financial Crimes, however, this restriction was not with reference to the pandemic. 
 
 *Sources*:
- https://cpj.org/2021/01/nigerian-security-forces-seize-journalists-cameras-delete-photos/
-https://cpj.org/2021/04/nigerian-governor-threatens-to-deal-with-journalists-who-covered-2018-corruption-case/
-
-https://cpj.org/2020/04/nigerian-police-arrest-2-journalists-governor-canc/
-https://cpj.org/2020/03/nigeria-imposes-harsh-restrictions-for-journalist/
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://www.vanguardngr.com/2020/07/journalists-barred-as-panel-grills-magu-in-aso-rock/
+ [1]	perma.cc/9YRV-5FGW
+[2]	perma.cc/MR3Z-Q36Q
+[3]	perma.cc/XEL7-NJT7
+[4]	perma.cc/QLC8-QSUG
+[5]	perma.cc/LYF5-CMMU
+[6]	perma.cc/6CEG-QCWW
 
 
 
@@ -998,10 +984,9 @@ https://www.vanguardngr.com/2020/07/journalists-barred-as-panel-grills-magu-in-a
  "Nigerian Information Minister Lai Mohammed said that journalists would be required to carry a valid identity card to move around in the two southwestern states of Lagos and Ogun, as well as in the capital Abuja, as part of President Muhammadu Buhari’s lockdowns in those areas, which were imposed on March 29" (1) and the authorities in Nigeria have decided to limit access to the president's office to a handful of media outlets that are nearly all controlled by the government or supportive of it. Since I did not find evidence of the violations discontinuing, merepoth is coded as 1 in all time periods. 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://cpj.org/2020/03/nigeria-imposes-harsh-restrictions-for-journalist/
-(1)
-https://www.vanguardngr.com/2020/07/journalists-barred-as-panel-grills-magu-in-aso-rock/
+ [1]	perma.cc/9ZD8-C3K6
+[2]	perma.cc/YU76-47Q2
+[3]	perma.cc/KA4U-2B6Y
 
 
 
@@ -1046,13 +1031,10 @@ Kufre Carter was arrested and prosecuted for  writing an article that was “fal
 July-September, October-December, January-March, April-June: since two cases from March-June appear to be isolated incidents and I found no further information on similar violations, mevhar is coded as 0 in these time periods. 
 
 *Sources*:
- https://cpj.org/2020/06/nigerian-journalist-held-under-cybercrime-act-for-covid-19-coverage/
-
-https://cpj.org/2020/05/nigerian-journalist-kufre-carter-detained-for-1-month-charged-with-defamation-and-conspiracy/
-
-https://cpj.org/2020/04/nigerian-police-arrest-2-journalists-governor-canc/
-
-https://cpj.org/2020/08/nigerian-journalist-sikiru-obarayese-attacked-by-police-while-covering-covid-19-lockdown/
+ [1]	perma.cc/8LAY-NSUU
+[2]	perma.cc/4BP2-6BH4
+[3]	perma.cc/Z8P7-4WH5
+[4]	perma.cc/K86J-NXBN
 
 
 
@@ -1094,14 +1076,12 @@ https://cpj.org/2020/08/nigerian-journalist-sikiru-obarayese-attacked-by-police-
  Journalists covering covid-19 related issues have been physically attacked by police. On 03 August a journalist was attacked by police forces while covering officers' enforcing COVID-19 restrictions. On 24 October, a journalist was arrested after conducting "interviews in the north Lagos suburb of Agege, where residents had massed outside a government warehouse with the aim of taking food they believed to be stored here for alleviating the effects of the coronavirus pandemic" (1), and a week later he was found dead with a gunshot on his body. According to RSF, “Nigeria is now one of West Africa’s most dangerous and difficult countries for journalists, who are often spied on, attacked, arbitrarily arrested or even killed” (1). Since there were several violations and assaults on journalists are common, violations likely continue and mephar is coded as 1 in all periods. 
 
 *Sources*:
- https://cpj.org/2021/04/nigerian-journalist-frederick-olatunde-odimayo-beaten-over-drug-reporting/
-https://www.premiumtimesng.com/features-and-interviews/459144-press-freedom-is-the-lifeblood-of-democracy.html
-https://tribuneonlineng.com/lockdown-task-force-attacks-delta-nuj-chairman-another-journalist/
-https://allafrica.com/stories/202003300115.html
-https://cpj.org/2020/08/nigerian-journalist-sikiru-obarayese-attacked-by-police-while-covering-covid-19-lockdown/
-
-https://rsf.org/en/news/young-nigerian-reporters-body-found-lagos-morgue
-(1)
+ [1]	perma.cc/9FJS-T25U
+[2]	perma.cc/VN99-LCNM
+[3]	perma.cc/WN4J-6AWZ
+[4]	perma.cc/E4AC-TS9B
+[5]	perma.cc/XZB3-TJUE
+[6]	perma.cc/YLK2-PN5K
 
 
 
@@ -1147,31 +1127,13 @@ https://rsf.org/en/news/young-nigerian-reporters-body-found-lagos-morgue
 Otherwise, the government Covid-19 information is similar to that of the WHO. 
 
 *Sources*:
- https://www.bbc.com/news/world-africa-52633630
-
-
-
-https://www.dw.com/en/covid-19-tests-for-miracle-cure-herb-artemisia-begin/a-53442366
-
-
-
-https://guardian.ng/news/why-nigeria-should-avoid-madagascars-covid-19-drug/
-
-
-
-https://www.afro.who.int/news/working-media-nigerias-covid-19-fight
-
-
-
-https://www.bbc.com/pidgin/tori-52684663
-
-
-
-https://covid19.ncdc.gov.ng/faq/
-
-
-
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+ [1]	perma.cc/SSQ5-WXQQ
+[2]	perma.cc/2G4V-L3MK
+[3]	perma.cc/253J-KCN5
+[4]	perma.cc/82A4-YZYL
+[5]	perma.cc/39ZL-P2YW
+[6]	perma.cc/DJU8-HPTC
+[7]	perma.cc/LNS9-DM4Q
 
 
 
@@ -1215,15 +1177,14 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
  There are several reports of police violence related to the beginning of the enforcement of the lockdown, in which several people were killed. Police officers who enforced coronavirus restriction measures allegedly harassed and raped women as well. Since many cases of violations were observed and I found no evidence of violations discontinuing, pomviol is coded as 3 in all time periods. 
 
 *Sources*:
- https://reliefweb.int/report/world/amnesty-international-report-202021-state-worlds-human-rights-enarru
-https://www.reuters.com/article/us-health-coronavirus-nigeria-security/nigerian-security-forces-killed-18-people-during-lockdowns-rights-panel-idUSKCN21Y272
-https://www.garda.com/crisis24/news-alerts/333471/nigeria-security-forces-kill-18-since-march-30-amid-covid-19-lockdown-restrictions-update-12
-https://www.bbc.com/news/world-africa-52317196
-https://www.aljazeera.com/news/2020/04/raises-alarm-police-brutality-covid-19-lockdowns-200428070216771.html
-https://www.aa.com.tr/en/africa/nigeria-commission-claims-18-killed-in-virus-lockdown/1806639
-https://www.reuters.com/article/us-nigeria-justice-idUSKCN25915T
-https://www.aljazeera.com/features/2020/09/09/women-abused-by-police-enforcing-covid-19-rules-in-nigeria/?gb=true
-
+ [1]	perma.cc/KMC9-GKH9
+[2]	perma.cc/RHH6-T6WH
+[3]	perma.cc/85NL-B4CY
+[4]	perma.cc/ZVR4-597W
+[5]	perma.cc/B3TN-5GVW
+[6]	perma.cc/NR83-F28C
+[7]	perma.cc/KG6F-PCAC
+[8]	perma.cc/4N6V-NUC3
 
 
 
@@ -1265,8 +1226,8 @@ https://www.aljazeera.com/features/2020/09/09/women-abused-by-police-enforcing-c
  The Nigerian army denied rumours that they would enforce lockdown, later sources, however, state that the army has been involved in violent and deadly lockdown enforcements. Since I found no evidence of discontinuation of military involvement in enforcing confinement measures, milinv is coded as 1 in all time periods. 
 
 *Sources*:
- https://guardian.ng/news/nigerian-army-denies-rumoured-plans-to-enforce-coronavirus-lockdown/
-https://www.hrw.org/news/2020/03/26/nigerian-security-forces-enforce-social-distancing
-https://www.reuters.com/article/us-health-coronavirus-nigeria-security/nigerian-security-forces-killed-18-people-during-lockdowns-rights-panel-idUSKCN21Y272
-https://www.bbc.com/news/world-africa-52317196
-https://www.bloombergquint.com/politics/nigerian-security-response-to-covid-is-deadlier-than-the-disease
+ [1]	perma.cc/37W9-J3M7
+[2]	perma.cc/S82Y-E4B3
+[3]	perma.cc/E2XB-RQDM
+[4]	perma.cc/3WRH-FB7F
+[5]	perma.cc/27SL-8GK8

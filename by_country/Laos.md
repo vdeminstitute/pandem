@@ -45,38 +45,25 @@
  The Prime Minister issued a decree that specifies and regulates the main emergency measures in Laos, for example public gatherings, public transport, border closure etc. This is not taken in reference to any state of emergency or existing regulations, and is thus regarded as adopting a new law. No other instrument has been found that manages the emergency response, and the latest restrictions seem to also be based on the same legal instrument. This continues to be the legal instrument referenced when ordering newer restrictions (the latest extension of measures was made in May 2021), and as these announcements are decrees that reference this first decree it is here viewed as the main legal instrument for Laos Covid-19 response. Therefore, this is coded as 4 for all the periods. 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
+ https://web.archive.org/web/20200717034652/http://www.mpwt.gov.la/attachments/article/2185/PM's%20Order%20No%2006PM%20on%20COVID-19.pdf
 
-https://la.usembassy.gov/Covid-19-information/
+https://perma.cc/V2LZ-98UC
+https://perma.cc/6Z3H-7A4G
+https://perma.cc/ZU53-QZKC
+https://perma.cc/K67B-CQJC
+https://perma.cc/H4LE-8HVX
+https://perma.cc/LCC9-9AAR
+https://perma.cc/Z46Z-DRWH
+https://perma.cc/38K4-9E3T
+https://perma.cc/MS7S-U9VX
+https://perma.cc/J5ZX-MZB3
+https://perma.cc/WAF3-H5J7
 
-https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
+https://perma.cc/QPL7-C25N
 
-https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-Covid-19-march-30-update-4
+https://perma.cc/N6CE-43DU
 
-https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
-
-https://www.garda.com/crisis24/news-alerts/395516/laos-authorities-extend-Covid-19-restrictions-until-december-31-update-8
-
-https://www.garda.com/crisis24/news-alerts/480966/laos-authorities-continue-to-implement-Covid-19-restrictions-in-vientiane-capital-as-of-may-20-update-2
-
-https://www.garda.com/crisis24/news-alerts/480951/laos-officials-extend-Covid-19-restrictions-through-june-4-update-24
-
-https://www.garda.com/crisis24/news-alerts/463446/laos-authorities-continue-to-enforce-Covid-19-protocols-as-of-april-5-update-19
-
-https://www.garda.com/crisis24/news-alerts/438161/laos-authorities-continue-to-enforce-Covid-19-restrictions-through-march-31-update-17
-
-https://www.garda.com/crisis24/news-alerts/423386/laos-authorities-extend-Covid-19-restrictions-through-jan-31-2021-update-16
-
-http://kpl.gov.la/En/Detail.aspx?id=59603
-
-
-https://data.laos.opendevelopmentmekong.net/en/laws_record/pm-order-on-increasing-the-prevention-control-and-comprehensive-preparedness-measures-against-covid
-
-
-https://data.laos.opendevelopmentmekong.net/en/laws_record?odm_spatial_range_list=la&q=Covid-19&sort=score+desc%2C+metadata_modified+desc&page=1
-
-
-https://www.rajahtannasia.com/resource-centre/Covid-19/lao-PDR
+https://perma.cc/B9VA-6Q6H
 
 
 
@@ -115,20 +102,17 @@ https://www.rajahtannasia.com/resource-centre/Covid-19/lao-PDR
 *No comment provided* 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
-https://la.usembassy.gov/Covid-19-information/
-https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
-https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-Covid-19-march-30-update-4
-http://kpl.gov.la/En/Detail.aspx?id=59603
+ https://web.archive.org/web/20200717034652/http://www.mpwt.gov.la/attachments/article/2185/PM's%20Order%20No%2006PM%20on%20COVID-19.pdf
+https://perma.cc/WY44-XF2G
+https://perma.cc/2WTA-LN8M
+https://perma.cc/46ZZ-EMTM
+https://perma.cc/498A-CJ37
 
+https://perma.cc/T775-VF6Z
 
-https://data.laos.opendevelopmentmekong.net/en/laws_record/pm-order-on-increasing-the-prevention-control-and-comprehensive-preparedness-measures-against-covid
+https://perma.cc/X3RL-53PN
 
-
-https://data.laos.opendevelopmentmekong.net/en/laws_record?odm_spatial_range_list=la&q=Covid-19&sort=score+desc%2C+metadata_modified+desc&page=1
-
-
-https://www.rajahtannasia.com/resource-centre/Covid-19/lao-PDR
+https://perma.cc/7XVF-ZNBH
 
 
 
@@ -167,11 +151,12 @@ https://www.rajahtannasia.com/resource-centre/Covid-19/lao-PDR
 *No comment provided* 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
-https://la.usembassy.gov/Covid-19-information/
-https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
-https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-Covid-19-march-30-update-4
-https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
+ https://web.archive.org/web/20200717034652/http://www.mpwt.gov.la/attachments/article/2185/PM's%20Order%20No%2006PM%20on%20COVID-19.pdf
+https://perma.cc/B4CN-WFS7
+https://perma.cc/NW3A-YQLP
+https://perma.cc/SE79-LVAZ
+https://perma.cc/EPW3-B8WT
+
 
 
 
@@ -210,7 +195,7 @@ https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
  No evidence has been found that implementation of legal instrument has ended. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/486936/laos-officials-extend-most-Covid-19-restrictions-through-june-19-update-25
+ https://perma.cc/V64A-H45G
 
 
 
@@ -255,40 +240,24 @@ https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
  http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
 
 
+https://perma.cc/V2LZ-98UC
+https://perma.cc/6Z3H-7A4G
+https://perma.cc/ZU53-QZKC
+https://perma.cc/K67B-CQJC
+https://perma.cc/H4LE-8HVX
+https://perma.cc/LCC9-9AAR
+https://perma.cc/Z46Z-DRWH
+https://perma.cc/38K4-9E3T
+https://perma.cc/MS7S-U9VX
+https://perma.cc/J5ZX-MZB3
+https://perma.cc/WAF3-H5J7
 
+https://perma.cc/QPL7-C25N
 
-https://la.usembassy.gov/Covid-19-information/
+https://perma.cc/N6CE-43DU
 
-https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
-
-https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-Covid-19-march-30-update-4
-
-https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
-
-https://www.garda.com/crisis24/news-alerts/395516/laos-authorities-extend-Covid-19-restrictions-until-december-31-update-8
-
-https://www.garda.com/crisis24/news-alerts/480966/laos-authorities-continue-to-implement-Covid-19-restrictions-in-vientiane-capital-as-of-may-20-update-2
-
-https://www.garda.com/crisis24/news-alerts/480951/laos-officials-extend-Covid-19-restrictions-through-june-4-update-24
-
-https://www.garda.com/crisis24/news-alerts/463446/laos-authorities-continue-to-enforce-Covid-19-protocols-as-of-april-5-update-19
-
-https://www.garda.com/crisis24/news-alerts/438161/laos-authorities-continue-to-enforce-Covid-19-restrictions-through-march-31-update-17
-
-https://www.garda.com/crisis24/news-alerts/423386/laos-authorities-extend-Covid-19-restrictions-through-jan-31-2021-update-16
-
-http://kpl.gov.la/En/Detail.aspx?id=59603
-
-
-https://data.laos.opendevelopmentmekong.net/en/laws_record/pm-order-on-increasing-the-prevention-control-and-comprehensive-preparedness-measures-against-covid
-
-
-https://data.laos.opendevelopmentmekong.net/en/laws_record?odm_spatial_range_list=la&q=Covid-19&sort=score+desc%2C+metadata_modified+desc&page=1
-
-
-https://www.rajahtannasia.com/resource-centre/Covid-19/lao-PDR
-
-https://www.garda.com/crisis24/news-alerts/486936/laos-officials-extend-most-Covid-19-restrictions-through-june-19-update-25
+https://perma.cc/B9VA-6Q6H
+https://perma.cc/7TP8-3QHV
 
 
 
@@ -327,43 +296,26 @@ https://www.garda.com/crisis24/news-alerts/486936/laos-officials-extend-most-Cov
  The initial end date was April 19 2020, but it was subsequently extended and subsequent end dates are only sporadic. Most recently, the restrictions were extended on June 4 2021, and will be in place at least until June 19 2021. However, the time limit for various measures is still unclear, as is whether there is a legally binding time limit on some or all measures. 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
+ https://web.archive.org/web/20200717034652/http://www.mpwt.gov.la/attachments/article/2185/PM's%20Order%20No%2006PM%20on%20COVID-19.pdf
 
+https://perma.cc/V2LZ-98UC
+https://perma.cc/6Z3H-7A4G
+https://perma.cc/ZU53-QZKC
+https://perma.cc/K67B-CQJC
+https://perma.cc/H4LE-8HVX
+https://perma.cc/LCC9-9AAR
+https://perma.cc/Z46Z-DRWH
+https://perma.cc/38K4-9E3T
+https://perma.cc/MS7S-U9VX
+https://perma.cc/J5ZX-MZB3
+https://perma.cc/WAF3-H5J7
 
+https://perma.cc/QPL7-C25N
 
+https://perma.cc/N6CE-43DU
 
-https://la.usembassy.gov/Covid-19-information/
-
-https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
-
-https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-Covid-19-march-30-update-4
-
-https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
-
-https://www.garda.com/crisis24/news-alerts/395516/laos-authorities-extend-Covid-19-restrictions-until-december-31-update-8
-
-https://www.garda.com/crisis24/news-alerts/480966/laos-authorities-continue-to-implement-Covid-19-restrictions-in-vientiane-capital-as-of-may-20-update-2
-
-https://www.garda.com/crisis24/news-alerts/480951/laos-officials-extend-Covid-19-restrictions-through-june-4-update-24
-
-https://www.garda.com/crisis24/news-alerts/463446/laos-authorities-continue-to-enforce-Covid-19-protocols-as-of-april-5-update-19
-
-https://www.garda.com/crisis24/news-alerts/438161/laos-authorities-continue-to-enforce-Covid-19-restrictions-through-march-31-update-17
-
-https://www.garda.com/crisis24/news-alerts/423386/laos-authorities-extend-Covid-19-restrictions-through-jan-31-2021-update-16
-
-http://kpl.gov.la/En/Detail.aspx?id=59603
-
-
-https://data.laos.opendevelopmentmekong.net/en/laws_record/pm-order-on-increasing-the-prevention-control-and-comprehensive-preparedness-measures-against-covid
-
-
-https://data.laos.opendevelopmentmekong.net/en/laws_record?odm_spatial_range_list=la&q=Covid-19&sort=score+desc%2C+metadata_modified+desc&page=1
-
-
-https://www.rajahtannasia.com/resource-centre/Covid-19/lao-PDR
-
-https://www.garda.com/crisis24/news-alerts/486936/laos-officials-extend-most-Covid-19-restrictions-through-june-19-update-25
+https://perma.cc/B9VA-6Q6H
+https://perma.cc/7TP8-3QHV
 
 
 
@@ -405,11 +357,11 @@ https://www.garda.com/crisis24/news-alerts/486936/laos-officials-extend-most-Cov
  The decree was issued by the Prime Minister and the parliament has not voted on it. 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
-https://la.usembassy.gov/Covid-19-information/
-https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
-https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-Covid-19-march-30-update-4
-https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
+ https://web.archive.org/web/20200717034652/http://www.mpwt.gov.la/attachments/article/2185/PM's%20Order%20No%2006PM%20on%20COVID-19.pdf
+https://perma.cc/46XT-S9BT
+https://perma.cc/K8AR-2LYX
+https://perma.cc/BCS3-SZ4P
+https://perma.cc/8KGA-YTAF
 
 
 
@@ -451,11 +403,11 @@ https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
  The decree was issued by the Prime Minister and the parliament has not voted on it. 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
-https://la.usembassy.gov/Covid-19-information/
-https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
-https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-Covid-19-march-30-update-4
-https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
+ https://web.archive.org/web/20200717034652/http://www.mpwt.gov.la/attachments/article/2185/PM's%20Order%20No%2006PM%20on%20COVID-19.pdf
+https://perma.cc/46XT-S9BT
+https://perma.cc/K8AR-2LYX
+https://perma.cc/BCS3-SZ4P
+https://perma.cc/8KGA-YTAF
 
 
 
@@ -501,13 +453,12 @@ https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
  No information has been found that the emergency measures has suspended or changed the parliaments work during the pandemic, and the parliament seems to be active as usual. However, all restrictions announced that have been found have been so through decrees by the prime minister, which were not passed by parliament and includes no veto powers from parliament, nor any clear demarcation as to what the prime minister can decide through decree. This rule by decree in relation to restrictions of Covid-19 has continued throughout the period as far as have been found, and no indication has been given that parliament has been involved in the Covid-19 restrictions. This is therefore coded 3 for all periods, as the government has had far reaching power to rule by decree during this period. 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
-https://la.usembassy.gov/Covid-19-information/
-https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
-https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-Covid-19-march-30-update-4
-https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
-
-https://www.aa.com.tr/en/asia-pacific/laos-parliament-elects-new-president/2183905
+ https://web.archive.org/web/20200717034652/http://www.mpwt.gov.la/attachments/article/2185/PM's%20Order%20No%2006PM%20on%20COVID-19.pdf
+https://perma.cc/B4CN-WFS7
+https://perma.cc/NW3A-YQLP
+https://perma.cc/SE79-LVAZ
+https://perma.cc/EPW3-B8WT
+https://perma.cc/D7KH-HE6M
 
 
 
@@ -629,17 +580,25 @@ https://www.aa.com.tr/en/asia-pacific/laos-parliament-elects-new-president/21839
  For the first two quarters, no sub-national variation has been found in Laos and emergency measures are implement nationwide. Starting December 2020, however, Laos has imposed some more extensive movement restrictions and the like in some parts of the country at different intervals, the latest in April and May 2021 being a more extensive set of restrictions in the capital area. This is therefore coded 2 for Q4 of 2020 and Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/QdgTsHwDr2kJ9R5FC/laos-lao-airlines-to-suspend-flight-to-south-korea-from-march
+ https://perma.cc/J8HQ-9KR4
 
-https://www.acaps.org/covid19-government-measures-dataset
 
-https://www.garda.com/crisis24/news-alerts/395516/laos-authorities-extend-Covid-19-restrictions-until-december-31-update-8
+https://perma.cc/MT3L-8S99
 
-https://www.garda.com/crisis24/news-alerts/417796/laos-officials-in-bokeo-province-and-luang-prabang-tightening-restrictions-as-of-dec-18-update-15
 
-https://www.garda.com/crisis24/news-alerts/428181/laos-movement-restrictions-in-place-in-ton-pheung-bokeo-through-jan-25
+https://perma.cc/TS9V-Y2ZJ
 
-https://www.garda.com/crisis24/news-alerts/470201/laos-authorities-enforcing-stricter-Covid-19-restrictions-in-vientiane-through-2359-may-5
+
+https://perma.cc/XSQ7-V2HH
+
+
+https://perma.cc/F39F-R7KL
+
+
+https://perma.cc/R7XB-3VVK
+
+
+
 
 
 
@@ -683,10 +642,16 @@ https://www.garda.com/crisis24/news-alerts/470201/laos-authorities-enforcing-str
  Human Rights Watch and Amnesty International have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9554
-https://www.amnesty.org/en/search/?country=38369&resourceType=newsarticle&sort=date
+ https://perma.cc/79CB-UTQ6
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/laos/
+
+https://perma.cc/ME4K-ANJS
+
+
+https://perma.cc/HDC5-2JRV
+
+
+
 
 
 
@@ -735,10 +700,13 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/lao
  Human Rights Watch and Amnesty International have not reported any violations of non-derogable rights within the response to Covid-19, and no other indications of such violations has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9554
-https://www.amnesty.org/en/search/?country=38369&resourceType=newsarticle&sort=date
+ https://perma.cc/XKQ3-E5HF
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/laos/
+
+https://perma.cc/2R79-TGBA
+
+
+https://perma.cc/8YZD-FQ3D
 
 
 
@@ -782,7 +750,7 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/lao
  The decree that regulates the emergency measures states that the government shall "strictly prohibit the advertisement of, release, forward any fake news via any media platform that can cause misunderstanding, panic and create negative impact on society. Task the agency for surveillance and response to the social complaints to closely monitor and strictly take action on those offenders." (Section 6). The decree also states that "the Task Force Committee shall provide detail guidance in a format of an easy understanding to disseminate through official media outlets" (Section 11). Consequently, the decree makes it punishable to report in any way on anything deemed to cause misunderstanding, panic and negative impact on the society, without any definition on what this constitutes. Furthermore, it regulates which media outlets shall report on the Covid-19 situation and government response. This is therefore coded as 3 - the emergency measure de jure require that all or almost all media reporting on Covid-19 reflect the governments position. No evidence has been found that this regulation having been repealed or amended. 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
+ https://web.archive.org/web/20200717034652/http://www.mpwt.gov.la/attachments/article/2185/PM's%20Order%20No%2006PM%20on%20COVID-19.pdf
 
 
 
@@ -821,7 +789,7 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/lao
 *No comment provided* 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
+ https://web.archive.org/web/20200717034652/http://www.mpwt.gov.la/attachments/article/2185/PM's%20Order%20No%2006PM%20on%20COVID-19.pdf
 
 
 
@@ -860,11 +828,11 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/lao
  No declared end date yet. 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
-https://la.usembassy.gov/Covid-19-information/
-https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
-https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-Covid-19-march-30-update-4
-https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
+ https://web.archive.org/web/20200717034652/http://www.mpwt.gov.la/attachments/article/2185/PM's%20Order%20No%2006PM%20on%20COVID-19.pdf
+https://perma.cc/76GG-P34Y
+https://perma.cc/HLY4-US3Z
+https://perma.cc/ZB2N-SPJX
+https://perma.cc/4QL8-SM3Z
 
 
 
@@ -906,13 +874,10 @@ https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
  The decree that regulates the emergency measures states that the government shall "strictly prohibit the advertisement of, release, forward any fake news via any media platform that can cause misunderstanding, panic and create negative impact on society. Task the agency for surveillance and response to the social complaints to closely monitor and strictly take action on those offenders." (Section 6). The decree also states that "the Task Force Committee shall provide detail guidance in a format of an easy understanding to disseminate through official media outlets" (Section 11). This puts a strong de facto limitation on media reporting on Covid-19 Laos, by making it punishable to report on anything deemed to cause misunderstanding, panic and negative impact on the society, without any definition on what this constitutes. No evidence has been found that this regulation having been repealed or amended. This is therefore coded 1 for all periods. 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
-
-https://rsf.org/en/thematique/internet?countries%5B74%5D=74
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Laos
-
-https://cpj.org/asia/laos/
+ https://web.archive.org/web/20200717034652/http://www.mpwt.gov.la/attachments/article/2185/PM's%20Order%20No%2006PM%20on%20COVID-19.pdf
+https://perma.cc/Y68W-MGDZ
+https://perma.cc/5V3A-EM64
+https://perma.cc/EY8F-5YFM
 
 
 
@@ -954,13 +919,12 @@ https://cpj.org/asia/laos/
  The decree that regulates the emergency measures states that the government shall "strictly prohibit the advertisement of, release, forward any fake news via any media platform that can cause misunderstanding, panic and create negative impact on society. Task the agency for surveillance and response to the social complaints to closely monitor and strictly take action on those offenders." (Section 6). The decree also states that "the Task Force Committee shall provide detail guidance in a format of an easy understanding to disseminate through official media outlets" (Section 11). This puts a strong de facto limitation on media reporting on the governments response to Covid-19 in Laos, by making it punishable to report on anything deemed to cause misunderstanding, panic and negative impact on the society, without any definition on what this constitutes. No evidence has been found that this regulation having been repealed or amended. This is therefore coded 1 for all periods. 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
+ https://web.archive.org/web/20200717034652/http://www.mpwt.gov.la/attachments/article/2185/PM's%20Order%20No%2006PM%20on%20COVID-19.pdf
+https://perma.cc/Y68W-MGDZ
+https://perma.cc/5V3A-EM64
+https://perma.cc/EY8F-5YFM
 
-https://rsf.org/en/thematique/internet?countries%5B74%5D=74
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Laos
-
-https://cpj.org/asia/laos/
 
 
 
@@ -1003,12 +967,11 @@ https://cpj.org/asia/laos/
 This puts a strong de facto limitation on media reporting on non-Covid-19 related news in Laos, by making it punishable to report on anything deemed to cause misunderstanding, panic and negative impact on the society, without any definition on what this constitutes. No evidence has been found that this regulation having been repealed or amended. This is therefore coded 1 for all periods. 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
-https://rsf.org/en/thematique/internet?countries%5B74%5D=74
+ https://web.archive.org/web/20200717034652/http://www.mpwt.gov.la/attachments/article/2185/PM's%20Order%20No%2006PM%20on%20COVID-19.pdf
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Laos
-
-https://cpj.org/asia/laos/
+https://web.archive.org/web/20201204135637/https://rsf.org/en/thematique/internet?countries%5B74%5D=74
+https://perma.cc/U8V9-S874
+https://perma.cc/579K-V5SZ
 
 
 
@@ -1051,13 +1014,10 @@ https://cpj.org/asia/laos/
  The decree that regulates the emergency measures states that the "the Task Force Committee shall provide detail guidance in a format of an easy understanding to disseminate through official media outlets" (Section 11).In other words, only state sponsored media is allowed to report on the crisis, which de jure limits all access to information as only the government approved information is being disseminated to these media outlets. No evidence has been found that this regulation having been repealed or amended. This is therefore coded 2 for all periods. 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
-
-https://rsf.org/en/thematique/internet?countries%5B74%5D=74
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Laos
-
-https://cpj.org/asia/laos/
+ https://web.archive.org/web/20200717034652/http://www.mpwt.gov.la/attachments/article/2185/PM's%20Order%20No%2006PM%20on%20COVID-19.pdf
+https://perma.cc/Z52G-SNHG
+https://perma.cc/XBK6-BGHV
+https://perma.cc/CM73-M585
 
 
 
@@ -1099,11 +1059,13 @@ https://cpj.org/asia/laos/
  Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any verbal harassment of journalists in Laos, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B74%5D=74
+ https://perma.cc/S52Q-4B3X
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Laos
 
-https://cpj.org/asia/laos/
+https://perma.cc/N97W-3P7S
+
+
+https://perma.cc/62EL-NZS5
 
 
 
@@ -1145,11 +1107,13 @@ https://cpj.org/asia/laos/
  Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any physical harassment of journalists in Laos, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B74%5D=74
+ https://perma.cc/8KLJ-6EKU
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Laos
 
-https://cpj.org/asia/laos/
+https://perma.cc/NDB7-RZAK
+
+
+https://perma.cc/F4FJ-6P99
 
 
 
@@ -1193,11 +1157,9 @@ https://cpj.org/asia/laos/
  Laos has launched a website with information on Covid-19, but it currently can't be translated using Google Translate, and is therefore not accessible at time of coding. No reports of disinformation on Covid-19 by the Laos authorities has been indicated by other sources, but as the published information on it is not available, this conclusion is very tentative. 
 
 *Sources*:
- https://translate.google.com/translate?hl=sv&sl=lo&tl=en&u=http%3A%2F%2Fwww.moh.gov.la&prev=search
-
-https://www.covid19.gov.la/index.php
-
-https://www.covid19.gov.la/index.php
+ https://web.archive.org/web/20201124201337/https://moh.gov.la/
+https://perma.cc/526P-SXPM
+https://perma.cc/526P-SXPM
 
 
 
@@ -1241,9 +1203,13 @@ https://www.covid19.gov.la/index.php
  Human Rights Watch and Amnesty International have not  reported any incidents of violence in enforcing emergency measures, and there are no other indiciations of such violence in the emergency measures 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9554
-https://www.amnesty.org/en/search/?country=38369&resourceType=newsarticle&sort=date
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/laos/
+ https://perma.cc/XKQ3-E5HF
+
+
+https://perma.cc/2R79-TGBA
+
+
+https://perma.cc/8YZD-FQ3D
 
 
 
@@ -1285,6 +1251,7 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/lao
  The Laotian military has been given responsibility to, together with the police, enforce emergency measures like limiting public gatherings, closing public transportaion, and closing the border. No indication has been found that this has changed, and the military is thus assumed to continue enforcing emergency measures. This is therefore coded 1 for all periods. 
 
 *Sources*:
- https://la.usembassy.gov/health-and-travel-alert-u-s-embassy-vientiane-laos-march-29-2020/
+ https://perma.cc/AL6E-74KC
 
-https://www.acaps.org/covid19-government-measures-dataset
+
+https://perma.cc/G64Y-LZTN

@@ -51,44 +51,56 @@ A three-week lockdown was imposed in the city of Kaesong in July 2020 after a su
  
 
 *Sources*:
- https://www.constituteproject.org/constitution/Peoples_Republic_of_Korea_1998.pdf
+ https://perma.cc/FG4R-SPW4
 
 
-https://www.bbc.com/news/world-asia-52146989
+https://perma.cc/SAP5-J6GV
 
 
-https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korean-lecturers-say-there-are-confirmed-coronavirus-cases-in-the-country-rfa-idUSKBN2200H8
-
-https://www.nytimes.com/2020/03/31/world/asia/north-korea-coronavirus.html
+https://perma.cc/H56E-YNJ8
 
 
-
-https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korean-lecturers-say-there-are-confirmed-coronavirus-cases-in-the-country-rfa-idUSKBN2200H8
-
+https://perma.cc/X2ZX-CC6Z
 
 
-https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korea-lifts-lockdown-in-border-town-after-suspected-covid-19-case-inconclusive-idUSKCN25A044?il=0
+https://perma.cc/86XL-YU2M
 
 
-https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19
+https://perma.cc/4ALA-F9YV
 
-https://thediplomat.com/2021/01/what-is-the-truth-about-covid-19-in-north-korea/
 
-https://www.reuters.com/article/us-health-coronavirus-northkorea-idUSKCN24Q0TC
+https://perma.cc/6CJK-S98L
 
-https://www.garda.com/crisis24/news-alerts/365721/north-korea-authorities-implement-tighter-lockdown-restrictions-on-august-2-update-4
 
-https://www.garda.com/crisis24/news-alerts/346061/north-korea-british-embassy-in-pyongyang-closes-due-to-covid-19-restrictions-may-27-update-2
+https://perma.cc/Y5GD-5L75
 
-https://www.garda.com/crisis24/news-alerts/413771/north-korea-north-korea-continues-to-enforce-domestic-covid-19-related-restrictions-as-of-mid-december-update-13
 
-https://www.garda.com/crisis24/news-alerts/430211/north-korea-officials-continue-to-enforce-domestic-covid-19-related-restrictions-as-of-mid-january-update-14
+https://perma.cc/MAG2-VNSD
 
-https://www.garda.com/crisis24/news-alerts/454976/north-korea-officials-continue-to-enforce-domestic-covid-19-related-restrictions-as-of-march-15-update-16
 
-https://www.garda.com/crisis24/news-alerts/468001/north-korea-officials-continue-to-enforce-domestic-covid-19-related-restrictions-as-of-april-16-update-17
+https://perma.cc/EDE5-D8J8
 
-https://www.garda.com/crisis24/news-alerts/478096/north-korea-officials-continue-to-enforce-domestic-covid-19-related-restrictions-as-of-may-13-update-18
+
+https://perma.cc/GFC9-E6CN
+
+
+https://perma.cc/4H6N-EU3J
+
+
+https://perma.cc/KA9S-UV37
+
+
+https://perma.cc/8VLK-SMVT
+
+
+https://perma.cc/HZF7-YTDN
+
+
+https://perma.cc/WC65-YKG4
+
+
+
+
 
 
 
@@ -129,7 +141,7 @@ https://www.garda.com/crisis24/news-alerts/478096/north-korea-officials-continue
 *No comment provided* 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Peoples_Republic_of_Korea_2016?lang=en
+ https://perma.cc/FG4R-SPW4
 
 
 
@@ -168,11 +180,13 @@ https://www.garda.com/crisis24/news-alerts/478096/north-korea-officials-continue
 *No comment provided* 
 
 *Sources*:
- https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19
+ https://perma.cc/6CJK-S98L
 
-https://www.nytimes.com/2020/07/25/world/asia/north-korea-coronavirus-kim-jong-un.html
 
-https://www.reuters.com/article/us-health-coronavirus-northkorea-idUSKCN24Q0TC
+https://perma.cc/8GMP-9EUT
+
+
+https://perma.cc/MAG2-VNSD
 
 
 
@@ -253,16 +267,10 @@ https://www.reuters.com/article/us-health-coronavirus-northkorea-idUSKCN24Q0TC
  I could not find any information on an officially declared time limit to the state of emergency. 
 
 *Sources*:
- 
+ https://perma.cc/SAP5-J6GV
 
 
-
-https://www.bbc.com/news/world-asia-52146989
-
-
-
-
-https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korean-lecturers-say-there-are-confirmed-coronavirus-cases-in-the-country-rfa-idUSKBN2200H8
+https://perma.cc/86XL-YU2M
 
 
 
@@ -301,16 +309,10 @@ https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korean-le
  I could not find any information on an officially declared time limit to the state of emergency. 
 
 *Sources*:
- 
+ https://perma.cc/SAP5-J6GV
 
 
-
-https://www.bbc.com/news/world-asia-52146989
-
-
-
-
-https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korean-lecturers-say-there-are-confirmed-coronavirus-cases-in-the-country-rfa-idUSKBN2200H8
+https://perma.cc/86XL-YU2M
 
 
 
@@ -440,9 +442,8 @@ https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korean-le
  The emergency measures with reference to Covid-19 do not limit the lawmaking role of the legislature. Furthermore, the legislature appears to meeting and working regularly. Hence I have coded this variable as 0. 
 
 *Sources*:
- https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-
-https://www.constituteproject.org/constitution/Peoples_Republic_of_Korea_1998.pdf
+ https://perma.cc/CD5V-BF43
+https://perma.cc/Z9FX-YELW
 
 
 
@@ -481,12 +482,10 @@ https://www.constituteproject.org/constitution/Peoples_Republic_of_Korea_1998.pd
  I did not find any information suggesting that North Korea's national legislature was dissolved across all time periods. 
 
 *Sources*:
- https://www.bbc.com/news/topics/cywd23g0gz5t/north-korea
+ https://perma.cc/5F2F-KXEA
 
 
-
-
-https://www.reuters.com/news/archive/northKorea
+https://perma.cc/KRZ2-JR3Y
 
 
 
@@ -525,12 +524,8 @@ https://www.reuters.com/news/archive/northKorea
  I did not find any information suggesting that North Korea's national legislature was dissolved across all time periods. 
 
 *Sources*:
- https://www.bbc.com/news/topics/cywd23g0gz5t/north-korea
-
-
-
-
-https://www.reuters.com/news/archive/northKorea
+ https://perma.cc/C234-AJK5
+https://perma.cc/MJZ5-85FM
 
 
 
@@ -575,26 +570,42 @@ https://www.reuters.com/news/archive/northKorea
  
 
 *Sources*:
- https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19
+ https://perma.cc/EWJ9-TPS9
 
-https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korea-lifts-lockdown-in-border-town-after-suspected-covid-19-case-inconclusive-idUSKCN25A044?il=0
 
-https://www.reuters.com/article/us-health-coronavirus-northkorea-idUSKCN24Q0TC
 
-https://www.garda.com/crisis24/news-alerts/365721/north-korea-authorities-implement-tighter-lockdown-restrictions-on-august-2-update-4
+https://perma.cc/RS9E-GT6C
 
-https://www.garda.com/crisis24/news-alerts/346061/north-korea-british-embassy-in-pyongyang-closes-due-to-covid-19-restrictions-may-27-update-2
 
-https://www.garda.com/crisis24/news-alerts/413771/north-korea-north-korea-continues-to-enforce-domestic-covid-19-related-restrictions-as-of-mid-december-update-13
 
-https://www.garda.com/crisis24/news-alerts/430211/north-korea-officials-continue-to-enforce-domestic-covid-19-related-restrictions-as-of-mid-january-update-14
+https://perma.cc/5235-HRTZ
 
-https://www.garda.com/crisis24/news-alerts/454976/north-korea-officials-continue-to-enforce-domestic-covid-19-related-restrictions-as-of-march-15-update-16
 
-https://www.garda.com/crisis24/news-alerts/468001/north-korea-officials-continue-to-enforce-domestic-covid-19-related-restrictions-as-of-april-16-update-17
 
-https://www.garda.com/crisis24/news-alerts/478096/north-korea-officials-continue-to-enforce-domestic-covid-19-related-restrictions-as-of-may-13-update-18
+https://perma.cc/BX5F-W54U
 
+
+https://perma.cc/AL3W-BZHP
+
+
+
+https://perma.cc/GYS3-G9QT
+
+
+
+https://perma.cc/QQA6-XWSJ
+
+
+
+https://perma.cc/R7TA-S79Z
+
+
+
+https://perma.cc/C79Y-99KR
+
+
+
+https://perma.cc/5J7M-DZ5T
 
 
 
@@ -638,7 +649,7 @@ https://www.garda.com/crisis24/news-alerts/478096/north-korea-officials-continue
  I did not find evidence of the emergency measures discriminating "solely on the grounds of race, colour, sex, language, religion or social origin" across all the time periods. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Peoples_Republic_of_Korea_1998.pdf
+ https://perma.cc/FG4R-SPW4
 
 
 
@@ -687,7 +698,7 @@ https://www.garda.com/crisis24/news-alerts/478096/north-korea-officials-continue
  There is no information of the emergency measures de-jure violating non-derogable rights as defined by the ICCPR across all the time periods. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Peoples_Republic_of_Korea_1998.pdf
+ https://perma.cc/87UC-5489
 
 
 
@@ -731,7 +742,7 @@ https://www.garda.com/crisis24/news-alerts/478096/north-korea-officials-continue
  I did not come across new limitations on media freedom due to the emergency measures across all the time periods. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Peoples_Republic_of_Korea_1998.pdf
+ https://perma.cc/87UC-5489
 
 
 
@@ -861,25 +872,13 @@ While North Korea has officially maintained that there has not been reported cas
 The fact the local media sources have not been able to corroborate these facts across all the time periods may suggest de-factor limitations on reporting about the nature of the Covid-19 virus. 
 
 *Sources*:
- https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
-
-https://www.voanews.com/east-asia-pacific/north-koreas-self-isolation-weapons-program-thwart-virus-aid
-
-https://en.yna.co.kr/view/AEN20200331003100325?section=nk/nk
-
-0
-
-https://www.hrw.org/world-report/2019/country-chapters/north-korea
-
-
-https://rsf.org/en/north-korea
-
-
-https://www.dw.com/en/north-korea-coronavirus-cases/a-54699995
-
-
-https://apnews.com/article/virus-outbreak-ap-top-news-seoul-international-news-south-korea-9c2695c6a79fb1fea3f774b9ca0b8c6b
-
+ https://perma.cc/YRL9-JBGE
+https://perma.cc/6MY5-E7PP
+https://perma.cc/EU27-3CMR
+https://perma.cc/2YLU-5RXY
+https://perma.cc/5PB5-X2UM
+https://perma.cc/YVE6-8625
+https://perma.cc/SF4F-C7SC
 
 
 
@@ -927,24 +926,13 @@ Independant media is prohibited and the government regularly uses arrest, punish
 These restrictions which have been in place since before the pandemic, would act as de-facto limitations on the ability of the media to report on the government's response to the Covid-19 pandemic. As such I have coded this variable as 1 across all the time periods. 
 
 *Sources*:
- https://www.hrw.org/world-report/2019/country-chapters/north-korea
-
-
-https://www.bbc.com/news/world-asia-pacific-16255126
-
-
-https://rsf.org/en/north-korea
-
-https://www.bbc.com/news/world-asia-44234505
-
-
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
-
-https://www.voanews.com/east-asia-pacific/north-koreas-self-isolation-weapons-program-thwart-virus-aid
-
-https://en.yna.co.kr/view/AEN20200331003100325?section=nk/nk
-
-http://www.rodong.rep.kp/en/index.php?strPageID=SF01_03_02&scnt=covid&listno=1
+ https://perma.cc/2YLU-5RXY
+https://perma.cc/7PD5-6F7D
+https://perma.cc/5PB5-X2UM
+https://perma.cc/EDZ4-78AM
+https://perma.cc/YRL9-JBGE
+https://perma.cc/6MY5-E7PP
+https://perma.cc/SF4F-C7SC
 
 
 
@@ -988,12 +976,9 @@ http://www.rodong.rep.kp/en/index.php?strPageID=SF01_03_02&scnt=covid&listno=1
 The media landscape has been highly restricted prior to the pandemic. As a result, the de-facto limitations on media reporting about non-Covid-19 related news are likely frequent, but not needed to be motivated by the pandemic. 
 
 *Sources*:
- https://rsf.org/en/north-korea
-
-
-https://www.hrw.org/asia/north-korea
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/north-korea/
+ https://perma.cc/5PB5-X2UM
+https://perma.cc/RUE6-AZV5
+https://perma.cc/W4PJ-WWVM
 
 
 
@@ -1044,25 +1029,14 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/north-korea/
 The lack of information on the nature of Covid-19 coupled with the restrictions on the consumption of foreign media within the country suggests that media access to Covid-19 related information is heavily limited. As such I have coded this variable as 2 across all the time periods. 
 
 *Sources*:
- https://www.hrw.org/world-report/2019/country-chapters/north-korea
-
-
-https://www.bbc.com/news/world-asia-pacific-16255126
-
-
-https://rsf.org/en/north-korea
-
-https://www.bbc.com/news/world-asia-44234505
-
-
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
-
-https://www.voanews.com/east-asia-pacific/north-koreas-self-isolation-weapons-program-thwart-virus-aid
-
-https://en.yna.co.kr/view/AEN20200331003100325?section=nk/nk
-
-https://apnews.com/article/virus-outbreak-ap-top-news-seoul-international-news-south-korea-9c2695c6a79fb1fea3f774b9ca0b8c6b
-http://www.rodong.rep.kp/en/index.php?strPageID=SF01_03_02&scnt=covid&listno=1
+ https://perma.cc/2YLU-5RXY
+https://perma.cc/7PD5-6F7D
+https://perma.cc/Y9Z3-Z624
+https://perma.cc/EDZ4-78AM
+https://perma.cc/YRL9-JBGE
+https://perma.cc/6MY5-E7PP
+https://perma.cc/EU27-3CMR
+https://perma.cc/SF4F-C7SC
 
 
 
@@ -1104,12 +1078,9 @@ http://www.rodong.rep.kp/en/index.php?strPageID=SF01_03_02&scnt=covid&listno=1
  I did not find any information related to this. However there is complete control over communication within North Korea. Citizens can also be sent to concentration camps for looking at online media. The Korean Central News Agency is the only permitted source of news within the country. These factors may deter journalists from being critical in their reporting. Furthermore, the restricted nature of news may mean that harrassment could be happening without credible reports of such occurances. 
 
 *Sources*:
- https://rsf.org/en/north-korea
-
-
-https://www.hrw.org/asia/north-korea
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/north-korea/
+ https://perma.cc/5PB5-X2UM
+https://perma.cc/RUE6-AZV5
+https://perma.cc/W4PJ-WWVM
 
 
 
@@ -1151,12 +1122,9 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/north-korea/
  I did not find any information related to this. However there is complete control over communication within North Korea. Citizens can also be sent to concentration camps for looking at online media. The Korean Central News Agency is the only permitted source of news within the country. These factors may deter journalists from being critical in their reporting. Furthermore, the restricted nature of news may mean that harrassment could be happening without credible reports of such occurances. 
 
 *Sources*:
- https://rsf.org/en/north-korea
-
-
-https://www.hrw.org/asia/north-korea
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/north-korea/
+ https://perma.cc/5PB5-X2UM
+https://perma.cc/RUE6-AZV5
+https://perma.cc/W4PJ-WWVM
 
 
 
@@ -1202,16 +1170,22 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/north-korea/
 In October 2020, North Korea warned its citizens to stay indoors over fears that 'yellow dust' which blows from China could bring Covid-19 to the country. However, there has been no link between these seasonal dust clouds and Covid-19. 
 
 *Sources*:
- https://www.brookings.edu/blog/order-from-chaos/2020/04/13/a-tale-of-two-koreas-in-the-age-of-coronavirus/
+ https://perma.cc/KR6S-XTHY
 
 
-https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korea-testing-quarantining-for-covid-19-still-says-no-cases-who-representative-idUSKBN21P3C2
+https://perma.cc/F2PL-N3DR
 
-https://www.dw.com/en/is-north-korea-hiding-a-coronavirus-outbreak/a-52619099
 
-https://www.dailynk.com/english/north-korean-tests-positive-for-covid-19-china/
+https://perma.cc/8C7T-NGNB
 
-https://www.bbc.com/news/world-asia-54655692
+
+https://perma.cc/AP4U-EV8V
+
+
+https://perma.cc/S9EZ-JVNA
+
+
+
 
 
 
@@ -1255,12 +1229,9 @@ https://www.bbc.com/news/world-asia-54655692
  I did not find any information related to this across all the time periods. However there is complete control over communication within North Korea. Citizens can also be sent to concentration camps for looking at online media. The Korean Central News Agency is the only permitted source of news within the country. These factors may deter journalists from being critical in their reporting. Furthermore, the restricted nature of news may mean that police violence could be happening without credible reports of such occurances. 
 
 *Sources*:
- https://rsf.org/en/north-korea
-
-
-https://www.hrw.org/asia/north-korea
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/north-korea/
+ https://perma.cc/5PB5-X2UM
+https://perma.cc/RUE6-AZV5
+https://perma.cc/W4PJ-WWVM
 
 
 
@@ -1302,9 +1273,6 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/north-korea/
  I did not find any information related to this across all the time periods. 
 
 *Sources*:
- https://rsf.org/en/north-korea
-
-
-https://www.hrw.org/asia/north-korea
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/north-korea/
+ https://perma.cc/5PB5-X2UM
+https://perma.cc/RUE6-AZV5
+https://perma.cc/W4PJ-WWVM

@@ -47,23 +47,13 @@
 'Based on Article 81 of the Moroccan Constitution (1), in extraordinary cases of necessity and emergency, the government can adopt decrees having the force of law, which are immediately binding on adoption, but require parliamentary approbation.'' 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Morocco_2011.pdf?lang=en
-(1)
-
-https://www.chambredesrepresentants.ma/fr/%D8%A7%D9%84%D9%86%D8%B5%D9%88%D8%B5-%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A%D8%A9/projet-de-decret-loi-ndeg220292-edictant-des-mesures-specifiques-letat-durgence
-(2)
-
-https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110338/137210/F965170133/MAR-110338.pdf
-(3)
-
-https://www.chambredesrepresentants.ma/sites/default/files/loi/%D9%85%D8%B4%D8%B1%D9%88%D8%B9_%D9%85%D8%B1%D8%B3%D9%88%D9%85_%D8%A8%D9%82%D8%A7%D9%86%D9%88%D9%86_%D8%B1%D9%82%D9%85_2.20.292_%D9%8A%D8%AA%D8%B9%D9%84%D9%82_%D8%A8%D8%B3%D9%86_%D8%A3%D8%AD%D9%83%D8%A7%D9%85_%D8%AE%D8%A7%D8%B5%D8%A9_%D8%A8%D8%AD%D8%A7%D9%84%D8%A9_%D8%A7%D9%84%D8%B7%D9%88%D8%A7%D8%B1%D8%A6_%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%A9_%D9%88%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA_%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%86_%D8%B9%D9%86%D9%87%D8%A7_0.pdf
-(4)
-
-https://www.policycenter.ma/opinion/coronavirus-does-state-health-emergency-morocco-comply-international-human-rights-law#.XuD0YFMzbOQ
-
-http://www.sgg.gov.ma/Portals/0/BO/2020/BO_6870_Fr.pdf?ver=2020-04-09-094443-083
-
-http://www.sgg.gov.ma/Portals/1/BO/2020/BO_6867-bis_Ar.pdf?ver=2020-03-24-102522-043
+ perma.cc/4WX5-BCRU
+perma.cc/RJ84-EFAQ
+perma.cc/FZ9D-YMN3
+https://perma.cc/A7JG-6UFG
+perma.cc/A83W-RV4W
+perma.cc/36V5-JKKS
+perma.cc/TY68-4WU7
 
 
 
@@ -104,15 +94,10 @@ Decree-Law No. 2-20-292 of 23 March 2020 on the declaration of a state of health
 Decree No. 2-20-293 of 24 March 2020, regulating the state of health emergency to contain the Covid-19 epidemic (2) 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Morocco_2011.pdf?lang=en
-(1)
-
-https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110338/137210/F965170133/MAR-110338.pdf
-(2)
-
-https://cms.law/en/mar/news-information/morocco-state-health-emergency
-
-https://telquel.ma/2020/03/27/etat-urgence-sanitaire-pourquoi-faire_1675966
+ https://perma.cc/QBV9-Z7A8
+https://perma.cc/U8SP-44HC
+https://perma.cc/FF34-XFWK
+https://perma.cc/BQ9N-HWM4
 
 
 
@@ -151,11 +136,9 @@ https://telquel.ma/2020/03/27/etat-urgence-sanitaire-pourquoi-faire_1675966
  On 23 March 2020, the Moroccan Parliament adopted the bills 2.20.292 / 2.20.293 establishing the state of health emergency on the national territory and empowering the government to take all measures aimed at the containment of Covid-19. The state of health emergency took effect from 20 March 2020. 
 
 *Sources*:
- https://cms.law/en/mar/news-information/morocco-state-health-emergency
-
-https://telquel.ma/2020/03/27/etat-urgence-sanitaire-pourquoi-faire_1675966
-
-https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110338/137210/F965170133/MAR-110338.pdf
+ https://perma.cc/FF34-XFWK
+https://perma.cc/FF34-XFWK
+https://perma.cc/U8SP-44HC
 
 
 
@@ -195,16 +178,22 @@ https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110338/137210/F965170133/MAR-1103
 The latest extension is until 10 July 2021. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/486611/morocco-authorities-extend-existing-health-state-of-emergency-through-july-10-to-combat-covid-19-update-64
+ perma.cc/UQ8W-R8NT
 
-https://www.garda.com/crisis24/news-alerts/475666/morocco-authorities-extend-existing-covid-19-related-health-state-of-emergency-through-june-10-update-62
 
-https://www.medias24.com/2021/04/08/prolongation-de-letat-durgence-sanitaire-au-maroc-jusquau-10-mai/
+perma.cc/TW3S-XNK4
 
-https://www.francetvinfo.fr/monde/afrique/societe-africaine/covid-19-le-maroc-prolonge-l-etat-d-urgence-sanitaire-jusqu-au-10-avril_4320969.html
-https://www.garda.com/crisis24/news-alerts/438921/morocco-authorities-extend-coronavirus-disease-related-health-state-of-emergency-through-at-least-march-10-update-45
 
-https://www.garda.com/crisis24/news-alerts/406836/morocco-authorities-extend-coronavirus-disease-related-health-state-of-emergency-until-january-10-update-36
+perma.cc/RW9D-HY9T
+
+
+perma.cc/H82Z-TM8U
+
+
+perma.cc/D4EM-JUKC
+
+
+perma.cc/9G7A-M6S9
 
 
 
@@ -254,24 +243,16 @@ Q2 2021: 2021-07-10
 The latest extension is until 10 July 2021. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/486611/morocco-authorities-extend-existing-health-state-of-emergency-through-july-10-to-combat-covid-19-update-64
+ https://perma.cc/P5BJ-ZTM5
+https://perma.cc/9D5H-JRKK
+https://perma.cc/SL9B-EGVN
+https://perma.cc/A22R-9EW9
 
-https://www.garda.com/crisis24/news-alerts/438921/morocco-authorities-extend-coronavirus-disease-related-health-state-of-emergency-through-at-least-march-10-update-45
-
-https://www.garda.com/crisis24/news-alerts/406836/morocco-authorities-extend-coronavirus-disease-related-health-state-of-emergency-until-january-10-update-36
-
-https://www.garda.com/crisis24/news-alerts/387451/morocco-authorities-extend-health-state-of-emergency-until-november-10-update-34
-
-https://www.ecoactu.ma/prolongation-de-letat-durgence-sanitaire-au-10-juillet-2020avec-allegement-des-restrictions/
-
-https://leseco.ma/maroc/covid-19-le-maroc-prolonge-letat-durgence-sanitaire-jusquau-10-septembre-2020.html
-
-https://telquel.ma/2020/03/27/etat-urgence-sanitaire-pourquoi-faire_1675966
-
-
-https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110338/137210/F965170133/MAR-110338.pdf
-
-https://www.policycenter.ma/opinion/coronavirus-does-state-health-emergency-morocco-comply-international-human-rights-law#.XuD0YFMzbOQ
+https://perma.cc/JX7Y-QWEH
+https://perma.cc/5UY8-JJJN
+https://perma.cc/BQ9N-HWM4
+https://perma.cc/U8SP-44HC
+https://perma.cc/2SWF-RRZ3
 
 
 
@@ -318,23 +299,16 @@ Q2 2021: 2021-07-10
 The latest extension is until 10 July 2021. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/486611/morocco-authorities-extend-existing-health-state-of-emergency-through-july-10-to-combat-covid-19-update-64
+ https://perma.cc/P5BJ-ZTM5
+https://perma.cc/9D5H-JRKK
+https://perma.cc/SL9B-EGVN
+https://perma.cc/A22R-9EW9
 
-https://www.garda.com/crisis24/news-alerts/438921/morocco-authorities-extend-coronavirus-disease-related-health-state-of-emergency-through-at-least-march-10-update-45
-
-https://www.garda.com/crisis24/news-alerts/406836/morocco-authorities-extend-coronavirus-disease-related-health-state-of-emergency-until-january-10-update-36
-
-https://www.garda.com/crisis24/news-alerts/387451/morocco-authorities-extend-health-state-of-emergency-until-november-10-update-34
-
-https://www.ecoactu.ma/prolongation-de-letat-durgence-sanitaire-au-10-juillet-2020avec-allegement-des-restrictions/
-
-https://leseco.ma/maroc/covid-19-le-maroc-prolonge-letat-durgence-sanitaire-jusquau-10-septembre-2020.html
-
-https://telquel.ma/2020/03/27/etat-urgence-sanitaire-pourquoi-faire_1675966
-
-https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110338/137210/F965170133/MAR-110338.pdf
-
-https://www.policycenter.ma/opinion/coronavirus-does-state-health-emergency-morocco-comply-international-human-rights-law#.XuD0YFMzbOQ
+https://perma.cc/JX7Y-QWEH
+https://perma.cc/5UY8-JJJN
+https://perma.cc/BQ9N-HWM4
+https://perma.cc/U8SP-44HC
+https://perma.cc/2SWF-RRZ3
 
 
 
@@ -377,17 +351,11 @@ https://www.policycenter.ma/opinion/coronavirus-does-state-health-emergency-moro
 On 23 March 2020, the parliament adopted the bills 2.20.292 / 2.20.293 (2) establishing the state of health emergency on the national territory and empowering the government to take all measures aimed at the containment of Covid-19. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Morocco_2011.pdf?lang=en
-(1)
-÷
-https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110338/137210/F965170133/MAR-110338.pdf
-(2)
-
-https://www.policycenter.ma/opinion/coronavirus-does-state-health-emergency-morocco-comply-international-human-rights-law#.XuD0YFMzbOQ
-
-https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110338/137210/F965170133/MAR-110338.pdf
-
-http://www.sgg.gov.ma/Portals/1/BO/2020/BO_6867-bis_Ar.pdf?ver=2020-03-24-102522-043
+ https://perma.cc/QBV9-Z7A8
+https://perma.cc/U8SP-44HC
+https://perma.cc/2SWF-RRZ3
+https://perma.cc/U8SP-44HC
+https://perma.cc/N3NW-5FM5
 
 
 
@@ -431,15 +399,11 @@ HoR: 23.04.20
 HoC: 12.05.20 
 
 *Sources*:
- https://fr.hespress.com/144827-la-chambre-des-conseillers-adopte-un-projet-de-loi-relatif-a-letat-durgence-sanitaire-2.html
-
-https://www.medias24.com/la-chambre-des-conseillers-adopte-son-premier-vote-par-voie-electronique-10246.html
-
-https://www.ecoactu.ma/etat-durgence-sanitaire-le-projet-de-loi-adopte/
-
-https://industries.ma/le-vote-electronique-a-distance-adopte-a-la-chambre-des-conseillers/
-
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#M
+ https://perma.cc/T6FY-LFK4
+https://perma.cc/H4E5-MNDK
+https://perma.cc/Y3BJ-YF3T
+https://perma.cc/9CHB-SSYV
+https://perma.cc/5VRW-YL89
 
 
 
@@ -487,16 +451,10 @@ Also, social distancing measures were taken in the Parliament, in order to both 
 ''the secretaries general of both houses reduced the staff on site to a core group carrying out essential duties, while others are teleworking. A communication and follow-up cell was set up to raise staff awareness of hygiene measures to put in place in parliament.'' (3) 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Morocco_2011.pdf?lang=en
-(1)
-
-https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110338/137210/F965170133/MAR-110338.pdf
-(2)
-
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#M
-(3)
-
-https://www.policycenter.ma/opinion/coronavirus-does-state-health-emergency-morocco-comply-international-human-rights-law#.XuD0YFMzbOQ
+ https://perma.cc/QBV9-Z7A8
+https://perma.cc/U8SP-44HC
+https://perma.cc/5VRW-YL89
+https://perma.cc/2SWF-RRZ3
 
 
 
@@ -618,25 +576,18 @@ https://www.policycenter.ma/opinion/coronavirus-does-state-health-emergency-moro
  The state of health emergency in Morocco has been nationwide, but different cities and areas, depending on the epidemiological situation, were put under confinement. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/486611/morocco-authorities-extend-existing-health-state-of-emergency-through-july-10-to-combat-covid-19-update-64
+ https://perma.cc/P5BJ-ZTM5
+https://perma.cc/9D5H-JRKK
+https://perma.cc/SL9B-EGVN
+https://perma.cc/A22R-9EW9
+https://perma.cc/JX7Y-QWEH
+https://perma.cc/5UY8-JJJN
+https://perma.cc/K7T7-2P6S
 
-https://www.garda.com/crisis24/news-alerts/438921/morocco-authorities-extend-coronavirus-disease-related-health-state-of-emergency-through-at-least-march-10-update-45
+https://perma.cc/L4LA-XCAR
+https://perma.cc/K7T7-2P6S
 
-https://www.garda.com/crisis24/news-alerts/406836/morocco-authorities-extend-coronavirus-disease-related-health-state-of-emergency-until-january-10-update-36
-
-https://www.garda.com/crisis24/news-alerts/387451/morocco-authorities-extend-health-state-of-emergency-until-november-10-update-34
-
-https://www.ecoactu.ma/prolongation-de-letat-durgence-sanitaire-au-10-juillet-2020avec-allegement-des-restrictions/
-
-https://leseco.ma/maroc/covid-19-le-maroc-prolonge-letat-durgence-sanitaire-jusquau-10-septembre-2020.html
-
-https://www.garda.com/crisis24/news-alert-full-history/NctzfWdtzBiz43uLt/morocco-royal-air-maroc-suspends-flights-to-mainland-china-due-to-novel-coronavirus-as-of-january-31
-
-https://www.washingtoninstitute.org/fikraforum/view/Coronavirus-Morocco-Economic-Social-impact-COVID19
-
-https://middle-east-online.com/en/morocco-set-further-ease-coronavirus-lockdown
-
-https://www.garda.com/crisis24/news-alerts/349416/morocco-authorities-extend-state-of-emergency-to-july-10-update-15
+https://perma.cc/8JBV-AB2Z
 
 
 
@@ -680,17 +631,19 @@ https://www.garda.com/crisis24/news-alerts/349416/morocco-authorities-extend-sta
  No evidence was found. The Emergency laws have been used to prosecute activists but not to discriminate “solely on the ground of race, colour, sex, language, religion or social origin”. 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/morocco/
-
-https://www.amnesty.org/en/latest/news/2020/06/morocco-and-western-sahara-end-prosecution-of-activists-under-new-health-emergency-law/
-
-https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110338/137210/F965170133/MAR-110338.pdf
-
-https://www.policycenter.ma/opinion/coronavirus-does-state-health-emergency-morocco-comply-international-human-rights-law#.XuD0YFMzbOQ
+ perma.cc/AE7M-LJPE
 
 
+perma.cc/HM3B-Y292
+
+
+perma.cc/JJ6N-URMG
+
+
+perma.cc/77JU-QCY9
+
+
+perma.cc/8792-V278
 
 
 
@@ -739,11 +692,9 @@ https://www.policycenter.ma/opinion/coronavirus-does-state-health-emergency-moro
  No evidence was found. 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/morocco/
-
-https://www.amnesty.org/en/latest/news/2020/06/morocco-and-western-sahara-end-prosecution-of-activists-under-new-health-emergency-law/
+ https://perma.cc/59KS-EP8Y
+https://perma.cc/HM3B-Y292
+https://perma.cc/JJ6N-URMG
 
 
 
@@ -794,42 +745,22 @@ According to the US Department of State's 2020 report on human rights (7), ''On 
 On 28 March 2020, the secretary general of the Presidency of the Public Prosecutor’s Office reported that police had arrested 56 individuals for publishing false information regarding Covid-19.'' 
 
 *Sources*:
- https://www.chambredesrepresentants.ma/fr/%D8%A7%D9%84%D9%86%D8%B5%D9%88%D8%B5-%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A%D8%A9/projet-de-decret-loi-ndeg220292-edictant-des-mesures-specifiques-letat-durgence
-(1)
+ https://perma.cc/RJ84-EFAQ
+https://perma.cc/36V5-JKKS
+https://perma.cc/4HAV-CGXJ
+https://perma.cc/Z8B6-YDEM
+https://perma.cc/KF5Q-DYZZ
+https://perma.cc/P42G-G97M
+https://perma.cc/HM3B-Y292
+https://perma.cc/P6HJ-6B6A
+https://perma.cc/WP3B-AYCK
+https://perma.cc/ZJY5-V8A6
+https://perma.cc/6M75-79AA
+https://perma.cc/88QW-PDWQ
 
-http://www.sgg.gov.ma/Portals/0/BO/2020/BO_6870_Fr.pdf?ver=2020-04-09-094443-083
-(2)
-
-https://www.icnl.org/covid19tracker/?location=84&issue=&date=&type=
-(3)
-
-https://www.article19.org/resources/morocco-social-media/
-(4)
-
-http://www.mjs.gov.ma/sites/default/files/_blg_twqyf_lshf_lwrqy_.pdf
-(5)
-
-https://cpj.org/2020/03/jordan-oman-morocco-and-yemen-suspend-newspaper-pr/
-(6)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/morocco/
-(7)
-
-https://monitor.civicus.org/updates/2020/06/24/covid-19-used-curtail-freedom-expression-further/
-
-https://maroc-diplomatique.net/projet-de-loi-22-20-quid-des-droits-du-consommateur-marocain/
-
-https://www.ecoactu.ma/projet-de-loi-22-20-le-gouvernement-tenterait-il-de-nous-faire-porter-des-muselieres/
-
-https://www.menarights.org/en/articles/morocco-government-must-fully-withdraw-draft-law-social-media
-
-https://www.civicus.org/index.php/media-resources/news/4533-urgent-appeal-civil-society-groups-call-for-moroccan-authorities-to-cease-intimidation-of-journalist-omar-radi
-
-https://www.voanews.com/science-health/coronavirus-outbreak/coronavirus-deals-blow-newspapers-north-africa
-
-https://northafricapost.com/39243-covid-19-chases-newspapers-from-newsstands.html
-
-https://www.moroccoworldnews.com/2020/05/303623/minister-of-culture-moroccan-print-media-can-resume-activities-may-26/
+https://perma.cc/FFC4-5MPB
+https://perma.cc/HBK2-AY66
+https://perma.cc/U2ZP-CWKQ
 
 
 
@@ -868,18 +799,18 @@ https://www.moroccoworldnews.com/2020/05/303623/minister-of-culture-moroccan-pri
  On 22 March 2020, the Moroccan Ministry of Culture, Youth, and Sports, which oversees the country's press, ordered all print newspapers to suspend their publication and distribution until further notice, and encouraged print outlets to use alternative methods to deliver the news (see the statement in arabic: 2). The Minister of Culture, Youth, and Sports, Othman El Ferdaous, permitted newspapers and magazines to resume the issuance, publication, and distribution of paper editions starting on 26 May 2020 (1). 
 
 *Sources*:
- https://cpj.org/2020/03/jordan-oman-morocco-and-yemen-suspend-newspaper-pr/(1)
-
-http://www.mjs.gov.ma/sites/default/files/_blg_twqyf_lshf_lwrqy_.pdf
+ https://perma.cc/P42G-G97M
+(1)
+https://perma.cc/KF5Q-DYZZ
 (2)
-
-http://www.sgg.gov.ma/Portals/0/BO/2020/BO_6870_Fr.pdf?ver=2020-04-09-094443-083
-
-https://www.voanews.com/science-health/coronavirus-outbreak/coronavirus-deals-blow-newspapers-north-africa
-
-https://northafricapost.com/39243-covid-19-chases-newspapers-from-newsstands.html
-
-https://www.moroccoworldnews.com/2020/05/303623/minister-of-culture-moroccan-print-media-can-resume-activities-may-26/
+https://perma.cc/36V5-JKKS
+(3)
+https://perma.cc/FFC4-5MPB
+(4)
+https://perma.cc/HBK2-AY66
+(5)
+https://perma.cc/U2ZP-CWKQ
+(6)
 
 
 
@@ -923,23 +854,15 @@ On 4 May 2020, the draft law No. 22.20 on the use of social networks, open broad
 However, since the state of health emergency is still in place through 10 July 2021, it is assumed that the government order which states that ''anyone who contravenes the decree No. 2-20-292 that declares a health emergency, or incites others to contravene the decree through speech or threat uttered in a public place or meeting, written or printed materials, photos, posters, audiovisual or electronic communications, or any other means can be imprisoned one to three months or be fined 300 to 1,300 dirhams ($30-$130) is also still in place. 
 
 *Sources*:
- https://www.article19.org/resources/morocco-social-media/
-
-https://monitor.civicus.org/updates/2020/06/24/covid-19-used-curtail-freedom-expression-further/
-
-https://maroc-diplomatique.net/projet-de-loi-22-20-quid-des-droits-du-consommateur-marocain/
-
-https://www.ecoactu.ma/projet-de-loi-22-20-le-gouvernement-tenterait-il-de-nous-faire-porter-des-muselieres/
-
-https://www.menarights.org/en/articles/morocco-government-must-fully-withdraw-draft-law-social-media
-
-https://www.civicus.org/index.php/media-resources/news/4533-urgent-appeal-civil-society-groups-call-for-moroccan-authorities-to-cease-intimidation-of-journalist-omar-radi
-
-https://cpj.org/2020/03/jordan-oman-morocco-and-yemen-suspend-newspaper-pr/
-
-http://www.mjs.gov.ma/sites/default/files/_blg_twqyf_lshf_lwrqy_.pdf
-
-https://www.moroccoworldnews.com/2020/05/303623/minister-of-culture-moroccan-print-media-can-resume-activities-may-26/
+ https://perma.cc/Z8B6-YDEM
+https://perma.cc/P6HJ-6B6A
+https://perma.cc/WP3B-AYCK
+https://perma.cc/ZJY5-V8A6
+https://perma.cc/6M75-79AA
+https://perma.cc/88QW-PDWQ
+https://perma.cc/P42G-G97M
+https://perma.cc/KF5Q-DYZZ
+https://perma.cc/U2ZP-CWKQ
 
 
 
@@ -987,45 +910,38 @@ Also, in a statement on 22 March 2020, the Moroccan Ministry of Culture, Youth, 
 In addition, on 19 March 2020, the Government Council approved draft law No. 22.20 on the use of social networks, open broadcasting networks or similar networks, which, according to the Minster of Justice, aims at combatting fake news. After a large wave of critiques and denouncements by civil society organisations on the absence of consultations and the lack of transparency regarding the content of the provisions, since the draft law was only discovered in detail on 27 April 2020, following a leak on social networks, the bill was temporarily suspended on 4 May 2020 (4). 
 
 *Sources*:
- https://www.chambredesrepresentants.ma/fr/%D8%A7%D9%84%D9%86%D8%B5%D9%88%D8%B5-%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A%D8%A9/projet-de-decret-loi-ndeg220292-edictant-des-mesures-specifiques-letat-durgence
+ https://perma.cc/RJ84-EFAQ
 (1)
-
-http://www.sgg.gov.ma/Portals/0/BO/2020/BO_6870_Fr.pdf?ver=2020-04-09-094443-083
+https://perma.cc/36V5-JKKS
 (2)
-
-https://www.icnl.org/covid19tracker/?location=84&issue=&date=&type=
+https://perma.cc/4HAV-CGXJ
 (3)
-
-https://www.article19.org/resources/morocco-social-media/
+https://perma.cc/Z8B6-YDEM
 (4)
-
-http://www.mjs.gov.ma/sites/default/files/_blg_twqyf_lshf_lwrqy_.pdf
+https://perma.cc/KF5Q-DYZZ
 (5)
-
-https://cpj.org/2020/03/jordan-oman-morocco-and-yemen-suspend-newspaper-pr/
+https://perma.cc/P42G-G97M
 (6)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/morocco/
+https://perma.cc/HM3B-Y292
 (7)
-
-https://monitor.civicus.org/updates/2020/06/24/covid-19-used-curtail-freedom-expression-further/
-
-https://maroc-diplomatique.net/projet-de-loi-22-20-quid-des-droits-du-consommateur-marocain/
-
-https://www.ecoactu.ma/projet-de-loi-22-20-le-gouvernement-tenterait-il-de-nous-faire-porter-des-muselieres/
-
-https://www.menarights.org/en/articles/morocco-government-must-fully-withdraw-draft-law-social-media
-
-https://www.civicus.org/index.php/media-resources/news/4533-urgent-appeal-civil-society-groups-call-for-moroccan-authorities-to-cease-intimidation-of-journalist-omar-radi
-
-https://www.voanews.com/science-health/coronavirus-outbreak/coronavirus-deals-blow-newspapers-north-africa
-
-https://northafricapost.com/39243-covid-19-chases-newspapers-from-newsstands.html
-
-https://www.moroccoworldnews.com/2020/05/303623/minister-of-culture-moroccan-print-media-can-resume-activities-may-26/
-
-
-https://rsf.org/en/ranking
+https://perma.cc/P6HJ-6B6A
+(8)
+https://perma.cc/WP3B-AYCK
+(9)
+https://perma.cc/ZJY5-V8A6
+(10)
+https://perma.cc/6M75-79AA
+(11)
+https://perma.cc/88QW-PDWQ
+(12)
+https://perma.cc/FFC4-5MPB
+(13)
+https://perma.cc/HBK2-AY66
+(14)
+https://perma.cc/U2ZP-CWKQ
+(15)
+https://perma.cc/MU4P-6ZKE
+(16)
 
 
 
@@ -1073,45 +989,38 @@ Also, in a statement on 22 March 2020, the Moroccan Ministry of Culture, Youth, 
 In addition, on 19 March 2020, the Government Council approved draft law No. 22.20 on the use of social networks, open broadcasting networks or similar networks, which, according to the Minster of Justice, aims at combatting fake news. After a large wave of critiques and denouncements by civil society organisations on the absence of consultations and the lack of transparency regarding the content of the provisions, since the draft law was only discovered in detail on 27 April 2020, following a leak on social networks, the bill was temporarily suspended on 4 May 2020 (4). 
 
 *Sources*:
- https://www.chambredesrepresentants.ma/fr/%D8%A7%D9%84%D9%86%D8%B5%D9%88%D8%B5-%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A%D8%A9/projet-de-decret-loi-ndeg220292-edictant-des-mesures-specifiques-letat-durgence
+ https://perma.cc/RJ84-EFAQ
 (1)
-
-http://www.sgg.gov.ma/Portals/0/BO/2020/BO_6870_Fr.pdf?ver=2020-04-09-094443-083
+https://perma.cc/36V5-JKKS
 (2)
-
-https://www.icnl.org/covid19tracker/?location=84&issue=&date=&type=
+https://perma.cc/4HAV-CGXJ
 (3)
-
-https://www.article19.org/resources/morocco-social-media/
+https://perma.cc/Z8B6-YDEM
 (4)
-
-http://www.mjs.gov.ma/sites/default/files/_blg_twqyf_lshf_lwrqy_.pdf
+https://perma.cc/KF5Q-DYZZ
 (5)
-
-https://cpj.org/2020/03/jordan-oman-morocco-and-yemen-suspend-newspaper-pr/
+https://perma.cc/P42G-G97M
 (6)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/morocco/
+https://perma.cc/HM3B-Y292
 (7)
-
-https://monitor.civicus.org/updates/2020/06/24/covid-19-used-curtail-freedom-expression-further/
-
-https://maroc-diplomatique.net/projet-de-loi-22-20-quid-des-droits-du-consommateur-marocain/
-
-https://www.ecoactu.ma/projet-de-loi-22-20-le-gouvernement-tenterait-il-de-nous-faire-porter-des-muselieres/
-
-https://www.menarights.org/en/articles/morocco-government-must-fully-withdraw-draft-law-social-media
-
-https://www.civicus.org/index.php/media-resources/news/4533-urgent-appeal-civil-society-groups-call-for-moroccan-authorities-to-cease-intimidation-of-journalist-omar-radi
-
-https://www.voanews.com/science-health/coronavirus-outbreak/coronavirus-deals-blow-newspapers-north-africa
-
-https://northafricapost.com/39243-covid-19-chases-newspapers-from-newsstands.html
-
-https://www.moroccoworldnews.com/2020/05/303623/minister-of-culture-moroccan-print-media-can-resume-activities-may-26/
-
-
-https://rsf.org/en/ranking
+https://perma.cc/P6HJ-6B6A
+(8)
+https://perma.cc/WP3B-AYCK
+(9)
+https://perma.cc/ZJY5-V8A6
+(10)
+https://perma.cc/6M75-79AA
+(11)
+https://perma.cc/88QW-PDWQ
+(12)
+https://perma.cc/FFC4-5MPB
+(13)
+https://perma.cc/HBK2-AY66
+(14)
+https://perma.cc/U2ZP-CWKQ
+(15)
+https://perma.cc/MU4P-6ZKE
+(16)
 
 
 
@@ -1159,48 +1068,40 @@ Also, in a statement on 22 March 2020, the Moroccan Ministry of Culture, Youth, 
 Further, ''Journalist Nazha ElKhalidi and her fiancée have been put under house arrest since 21 November 2020. The journalist was detained by Moroccan security services due to her coverage of human rights violations by Moroccan authorities in Western Sahara. She has recently noted and reported the crackdown on freedom of expression by the Morrocan authorities in Western Sahara. Morrocan authorities claimed that this measure is part of its Covid-19 precautionary procedures. Nazha and her fiancée confirmed that social distancing and other precautionary measures were taken into account when organizing the ceremony.'' (8) 
 
 *Sources*:
- https://www.chambredesrepresentants.ma/fr/%D8%A7%D9%84%D9%86%D8%B5%D9%88%D8%B5-%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A%D8%A9/projet-de-decret-loi-ndeg220292-edictant-des-mesures-specifiques-letat-durgence
+ https://perma.cc/RJ84-EFAQ
 (1)
-
-http://www.sgg.gov.ma/Portals/0/BO/2020/BO_6870_Fr.pdf?ver=2020-04-09-094443-083
+https://perma.cc/36V5-JKKS
 (2)
-
-https://www.icnl.org/covid19tracker/?location=84&issue=&date=&type=
+https://perma.cc/4HAV-CGXJ
 (3)
-
-https://www.article19.org/resources/morocco-social-media/
+https://perma.cc/Z8B6-YDEM
 (4)
-
-http://www.mjs.gov.ma/sites/default/files/_blg_twqyf_lshf_lwrqy_.pdf
+https://perma.cc/KF5Q-DYZZ
 (5)
-
-https://cpj.org/2020/03/jordan-oman-morocco-and-yemen-suspend-newspaper-pr/
+https://perma.cc/P42G-G97M
 (6)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/morocco/
+https://perma.cc/HM3B-Y292
 (7)
-
-https://womeninjournalism.org/cfwij-press-statements/morocco-amid-heated-conflict-swahili-journalist-nazha-elkhalidi-and-her-fiance-are-under-house-arrest-and-their-wedding-postponed-by-moroccan-authorities
+https://perma.cc/BQZ7-B88U
 (8)
-
-https://monitor.civicus.org/updates/2020/06/24/covid-19-used-curtail-freedom-expression-further/
-
-https://maroc-diplomatique.net/projet-de-loi-22-20-quid-des-droits-du-consommateur-marocain/
-
-https://www.ecoactu.ma/projet-de-loi-22-20-le-gouvernement-tenterait-il-de-nous-faire-porter-des-muselieres/
-
-https://www.menarights.org/en/articles/morocco-government-must-fully-withdraw-draft-law-social-media
-
-https://www.civicus.org/index.php/media-resources/news/4533-urgent-appeal-civil-society-groups-call-for-moroccan-authorities-to-cease-intimidation-of-journalist-omar-radi
-
-https://www.voanews.com/science-health/coronavirus-outbreak/coronavirus-deals-blow-newspapers-north-africa
-
-https://northafricapost.com/39243-covid-19-chases-newspapers-from-newsstands.html
-
-https://www.moroccoworldnews.com/2020/05/303623/minister-of-culture-moroccan-print-media-can-resume-activities-may-26/
-
-
-https://rsf.org/en/ranking
+https://perma.cc/P6HJ-6B6A
+(9)
+https://perma.cc/WP3B-AYCK
+(10)
+https://perma.cc/ZJY5-V8A6
+(11)
+https://perma.cc/6M75-79AA
+(12)
+https://perma.cc/88QW-PDWQ
+(13)
+https://perma.cc/FFC4-5MPB
+(14)
+https://perma.cc/HBK2-AY66
+(15)
+https://perma.cc/U2ZP-CWKQ
+(16)
+https://perma.cc/MU4P-6ZKE
+(17)
 
 
 
@@ -1243,13 +1144,10 @@ https://rsf.org/en/ranking
  No reports of the government limiting media access to Covid-19 related information.The suspension of the publication and distribution until further notice of all print newspapers does not affect media access to Covid-19 information. 
 
 *Sources*:
- https://cpj.org/2020/03/jordan-oman-morocco-and-yemen-suspend-newspaper-pr/
-
-https://www.voanews.com/science-health/coronavirus-outbreak/coronavirus-deals-blow-newspapers-north-africa
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/morocco/
+ https://perma.cc/P42G-G97M
+https://perma.cc/FFC4-5MPB
+https://perma.cc/3SJV-TGU3
+https://perma.cc/HM3B-Y292
 
 
 
@@ -1291,10 +1189,10 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mor
  “On 5 May 2020, local representatives of the Ministry of Interior in Tiflet reportedly assaulted two journalists while they were covering the Covid-19 lockdown’s impact on local market activity during Ramadan on behalf of a national Amazigh television station. Media reports indicated the officials verbally assaulted a female journalist before slapping her and pushing her to the ground, while her accompanying cameraman sustained a hand injury as he tried to prevent the authorities from confiscating his camera.” (1) 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/morocco/
+ https://perma.cc/HM3B-Y292
 (1)
-
-https://www.amnesty.org/download/Documents/MDE2931112020ENGLISH.pdf
+https://perma.cc/7MKQ-E537
+(2)
 
 
 
@@ -1345,19 +1243,23 @@ In addition, ''Journalist Nazha ElKhalidi and her fiancée have been put under h
 No more incidents were found during Q1 and Q2 of 2021. 
 
 *Sources*:
- https://monitor.civicus.org/updates/2020/06/24/covid-19-used-curtail-freedom-expression-further/
+ https://perma.cc/P6HJ-6B6A
+
 (1)
-https://www.amnesty.org/download/Documents/MDE2931112020ENGLISH.pdf
+https://perma.cc/7MKQ-E537
 (2)
-https://womeninjournalism.org/cfwij-press-statements/morocco-amid-heated-conflict-swahili-journalist-nazha-elkhalidi-and-her-fiance-are-under-house-arrest-and-their-wedding-postponed-by-moroccan-authorities
+https://perma.cc/BQZ7-B88U
 (3)
-https://www.civicus.org/index.php/media-resources/news/4533-urgent-appeal-civil-society-groups-call-for-moroccan-authorities-to-cease-intimidation-of-journalist-omar-radi
-https://www.amnesty.org/en/latest/news/2020/06/morocco-and-western-sahara-end-prosecution-of-activists-under-new-health-emergency-law/
+https://perma.cc/88QW-PDWQ
+(4)
+https://perma.cc/JJ6N-URMG
+(5)
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/morocco/
+https://perma.cc/HM3B-Y292
+
 (6)
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+https://perma.cc/59KS-EP8Y
+(7)
 
 
 
@@ -1406,21 +1308,14 @@ The Moroccan Health Minister Khalid Ait Taleb ''also returned to the treatment p
 Morocco continues the use of chloroquine in Covid-19 treatment as of May 2021 (2). 
 
 *Sources*:
- https://www.en24news.com/2020/09/khalid-ait-taleb-tells-all-about-chloroquine-vaccines-and-respirators.html
-(1)
+ https://perma.cc/H9YS-TU34
+https://perma.cc/CV9D-NR2Z
+https://perma.cc/GQD7-JXGC
+https://perma.cc/24M7-ZHR2
 
-https://www.moroccoworldnews.com/2021/05/341393/morocco-to-re-supply-all-pharmacies-with-chloroquine-based-medicines-in-june
-(2)
-
-https://www.financialafrik.com/2020/08/06/covid-19-au-maroc-les-cas-asymptomatiques-seront-traites-a-domicile-avec-la-chloroquine/
-
-https://www.mapnews.ma/en/actualites/general/morocco-was-right-continue-using-chloroquine-treat-covid-19-patients-minister
-
-https://afrique.le360.ma/maroc-algerie-autres-pays/politique/2020/06/01/30726-covid-19-voici-pourquoi-les-pays-africains-ont-dit-non-loms-et-poursuivent-le
-
-https://northafricapost.com/41247-morocco-continues-use-of-chloroquine-despite-controversy.html
-
-https://al-bab.com/blog/2020/05/covid-19-algeria-and-morocco-continue-using-chloroquine-despite-concerns
+https://perma.cc/NE5U-NP4Q
+https://perma.cc/WUL6-GW5J
+https://perma.cc/Q455-WPNB
 
 
 
@@ -1466,27 +1361,16 @@ https://al-bab.com/blog/2020/05/covid-19-algeria-and-morocco-continue-using-chlo
 Authorities continue to resport to arbitrary arrests and some violence while enforcing Covid-19 measures during Q1 and Q2 of 2021. 
 
 *Sources*:
- https://monitor.civicus.org/updates/2020/06/24/covid-19-used-curtail-freedom-expression-further/
+ https://perma.cc/P6HJ-6B6A
 (1)
 
-
-https://www.africanews.com/2021/04/28/morocco-more-than-1-5-million-people-arrested-for-covid-breaches//
-
-https://www.bbc.com/news/topics/cx1m7zg0gylt/morocco
-
-https://www.amnesty.org/en/latest/news/2021/05/morocco-drop-charges-against-teachers-who-peacefully-protested-over-workers-rights/
-
-https://studies.aljazeera.net/en/reports/how-arab-states-take-coronavirus-morocco-case-study
-
-https://www.reuters.com/article/us-health-coronavirus-morocco-rights/morocco-rejects-accusation-of-police-abuse-in-enforcing-lockdown-idUSKCN22A375
-
-https://english.alarabiya.net/en/coronavirus/2020/04/13/Morocco-arrests-over-4-300-for-breaching-coronavirus-emergency-rules-
-
-https://www.aljazeera.com/news/2020/04/raises-alarm-police-brutality-covid-19-lockdowns-200428070216771.html
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/morocco/
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+https://perma.cc/T49P-MM3S
+https://perma.cc/5T8F-DFFE
+https://perma.cc/SY7F-BPTH
+https://perma.cc/DM35-9GVY
+https://perma.cc/B3TN-5GVW
+https://perma.cc/HM3B-Y292
+https://perma.cc/59KS-EP8Y
 
 
 
@@ -1530,12 +1414,12 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
 ''The state of emergency allows, if necessary, the use of public force. Thus Morocco has deployed the police and even the army to control derogatory movements. Part of the faithful protested against the closure of the mosques.'' (2) 
 
 *Sources*:
- https://www.washingtoninstitute.org/fikraforum/view/Coronavirus-Morocco-Economic-Social-impact-COVID19
+ https://perma.cc/L4LA-XCAR
 (1)
+https://perma.cc/ALP5-QPZR
 
-https://information.tv5monde.com/afrique/confinement-etat-d-urgence-couvre-feu-l-afrique-face-au-coronavirus-353422
 (2)
-
-https://studies.aljazeera.net/en/reports/how-arab-states-take-coronavirus-morocco-case-study
-
-https://www.arabnews.com/node/1645401/middle-east
+https://perma.cc/BPA5-LUSV
+(3)
+https://perma.cc/XQR8-K8KL
+(4)

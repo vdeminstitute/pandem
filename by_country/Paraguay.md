@@ -46,15 +46,16 @@
 
 *Sources*:
  [1]
-https://www.ip.gov.py/ip/covid-19/
+perma.cc/2VDF-BZ9H
 [2]
-https://www.mspbs.gov.py/decretos-covid19.html
+perma.cc/6QK2-AY7E
 [3]
-https://www.presidencia.gov.py/archivos/documentos/DECRETO3456_qgov9hok.pdf
+https://web.archive.org/web/20200416114235/https://www.presidencia.gov.py/archivos/documentos/DECRETO3456_qgov9hok.pdf
 [4]
-https://www.presidencia.gov.py/archivos/documentos/decretos_1_20200321125422555%203478_o342kdv9.pdf
+https://web.archive.org/web/20210712132851/https://www.presidencia.gov.py/archivos/documentos/decretos_1_20200321125422555%203478_o342kdv9.pdf
 [5]
-http://www.gacetaoficial.gov.py/index/detalle_publicacion/62474
+perma.cc/72PS-E4P8
+
 
 
 
@@ -94,11 +95,11 @@ http://www.gacetaoficial.gov.py/index/detalle_publicacion/62474
 
 *Sources*:
  [1]
-https://www.presidencia.gov.py/archivos/documentos/decretos_1_20200321125422555%203478_o342kdv9.pdf
+https://web.archive.org/web/20210712132851/https://www.presidencia.gov.py/archivos/documentos/decretos_1_20200321125422555%203478_o342kdv9.pdf
 [2]
-https://www.oas.org/juridico/spanish/par_res3.htm#:~:text=T%C3%8DTULO%20I.&text=La%20Rep%C3%BAblica%20del%20Paraguay%20es,esta%20Constituci%C3%B3n%20y%20las%20leyes.
+perma.cc/S357-U6U3
 [3]
-https://www.bacn.gov.py/leyes-paraguayas/2399/ley-n-836-codigo-sanitario
+perma.cc/TCK8-7NPX
 
 
 
@@ -138,7 +139,7 @@ https://www.bacn.gov.py/leyes-paraguayas/2399/ley-n-836-codigo-sanitario
 
 *Sources*:
  [1]
-https://www.presidencia.gov.py/archivos/documentos/DECRETO3456_qgov9hok.pdf
+https://web.archive.org/web/20200416114235/https://www.presidencia.gov.py/archivos/documentos/DECRETO3456_qgov9hok.pdf
 
 
 
@@ -178,9 +179,9 @@ https://www.presidencia.gov.py/archivos/documentos/DECRETO3456_qgov9hok.pdf
 
 *Sources*:
  [1]
-https://www.ip.gov.py/ip/covid-19/
+perma.cc/96XZ-XMWU
 [2]
-https://www.mspbs.gov.py/decretos-covid19.html
+perma.cc/DTH8-YEKH
 
 
 
@@ -223,7 +224,7 @@ https://www.mspbs.gov.py/decretos-covid19.html
 
 *Sources*:
  [1]
-https://www.presidencia.gov.py/archivos/documentos/decretos_1_20200321125422555%203478_o342kdv9.pdf
+https://web.archive.org/web/20210712132851/https://www.presidencia.gov.py/archivos/documentos/decretos_1_20200321125422555%203478_o342kdv9.pdf
 
 
 
@@ -263,7 +264,7 @@ https://www.presidencia.gov.py/archivos/documentos/decretos_1_20200321125422555%
 
 *Sources*:
  [1]
-https://www.presidencia.gov.py/archivos/documentos/decretos_1_20200321125422555%203478_o342kdv9.pdf
+https://web.archive.org/web/20210712132851/https://www.presidencia.gov.py/archivos/documentos/decretos_1_20200321125422555%203478_o342kdv9.pdf
 
 
 
@@ -306,7 +307,7 @@ https://www.presidencia.gov.py/archivos/documentos/decretos_1_20200321125422555%
 
 *Sources*:
  [1]
-https://www.bacn.gov.py/leyes-paraguayas/2399/ley-n-836-codigo-sanitario
+perma.cc/X3LJ-AT54
 
 
 
@@ -395,11 +396,11 @@ https://www.bacn.gov.py/leyes-paraguayas/2399/ley-n-836-codigo-sanitario
 
 *Sources*:
  [1]
-https://www.bacn.gov.py/leyes-paraguayas/2399/ley-n-836-codigo-sanitario
+perma.cc/4KQ2-J2F6
 [2]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+perma.cc/S5TU-5M2K
 [3]
-https://www.infobae.com/america/america-latina/2020/04/03/el-parlamento-de-paraguay-entrara-en-cuarentena-por-un-caso-confirmado-de-coronavirus-en-el-senado/
+perma.cc/GYP2-YTJ9
 
 
 
@@ -522,11 +523,11 @@ https://www.infobae.com/america/america-latina/2020/04/03/el-parlamento-de-parag
 
 *Sources*:
  [1]
-https://www.ip.gov.py/ip/covid-19/
+perma.cc/6PPF-3ART
 [2]
-https://www.mspbs.gov.py/decretos-covid19.html
+perma.cc/AX7E-RGFZ
 [3]
-https://www.ip.gov.py/ip/la-policia-implementara-un-nuevo-esquema-de-seguridad-en-zonas-y-horarios-claves/
+perma.cc/7KU8-USES
 
 
 
@@ -571,11 +572,11 @@ https://www.ip.gov.py/ip/la-policia-implementara-un-nuevo-esquema-de-seguridad-e
 
 *Sources*:
  [1]
-https://www.hrw.org/americas/paraguay
+perma.cc/5NDL-S73B
 [2]
-https://www.amnesty.org/en/countries/americas/paraguay/
+perma.cc/BEN5-X3EA
 [3]
-https://monitor.civicus.org/country/paraguay/
+perma.cc/R6HF-CEJD
 
 
 
@@ -625,11 +626,11 @@ https://monitor.civicus.org/country/paraguay/
 
 *Sources*:
  [1]
-https://www.hrw.org/americas/paraguay
+perma.cc/9LG9-9QTD
 [2]
-https://www.amnesty.org/en/countries/americas/paraguay/
+perma.cc/LQ95-8YCH
 [3]
-https://monitor.civicus.org/country/paraguay/
+perma.cc/Y86D-KYWX
 
 
 
@@ -674,7 +675,7 @@ https://monitor.civicus.org/country/paraguay/
 
 *Sources*:
  [1]
-https://www.presidencia.gov.py/archivos/documentos/decretos_1_20200321125422555%203478_o342kdv9.pdf
+https://web.archive.org/web/20210712132851/https://www.presidencia.gov.py/archivos/documentos/decretos_1_20200321125422555%203478_o342kdv9.pdf
 
 
 
@@ -795,14 +796,13 @@ https://www.presidencia.gov.py/archivos/documentos/decretos_1_20200321125422555%
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
-
+perma.cc/XX8Z-R732
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/39RT-HLXZ
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/4B5Z-KCSL
 [4]
-https://cpj.org/americas/paraguay/
+perma.cc/Z7XR-F2HY
 
 
 
@@ -845,15 +845,15 @@ https://cpj.org/americas/paraguay/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/NR3X-F57J
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/5U5D-3REN
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/78ZJ-9ZGC
 [4]
-https://cpj.org/2020/07/paraguayan-soldiers-assault-detain-journalist-roberto-esquivel/
+perma.cc/J7FN-PS56
 [5]
-https://www.ifj.org/media-centre/news/detail/article/paraguay-militares-detienen-y-golpean-esposado-a-un-periodista-que-los-investigaba.html
+perma.cc/QN38-FTD2
 
 
 
@@ -896,14 +896,13 @@ https://www.ifj.org/media-centre/news/detail/article/paraguay-militares-detienen
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
-
+perma.cc/XX8Z-R732
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/39RT-HLXZ
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/4B5Z-KCSL
 [4]
-https://cpj.org/americas/paraguay/
+perma.cc/Z7XR-F2HY
 
 
 
@@ -947,14 +946,13 @@ https://cpj.org/americas/paraguay/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
-
+perma.cc/RP6Y-ASF2
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/X7NS-DPZB
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/Y8R5-3B7X
 [4]
-https://cpj.org/americas/paraguay/
+perma.cc/VQ78-N9SZ
 
 
 
@@ -997,11 +995,11 @@ https://cpj.org/americas/paraguay/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/QJB4-Q3LX
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/JEZ3-RTRR
 [3]
-https://cpj.org/americas/paraguay/
+perma.cc/24GS-88Z7
 
 
 
@@ -1044,13 +1042,13 @@ https://cpj.org/americas/paraguay/
 
 *Sources*:
  [1]
-https://cpj.org/2020/07/paraguayan-soldiers-assault-detain-journalist-roberto-esquivel/
+perma.cc/ZEJ2-FZDN
 [2]
-https://www.ifj.org/media-centre/news/detail/article/paraguay-militares-detienen-y-golpean-esposado-a-un-periodista-que-los-investigaba.html
+perma.cc/ZN5A-XQ4X
 [3]
-https://rsf.org/en/countries
+perma.cc/LG7P-PGWT
 [4]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/W6KQ-VEST
 
 
 
@@ -1095,7 +1093,7 @@ https://ipi.media/covid19-media-freedom-monitoring/
 
 *Sources*:
  [1]
-https://www.mspbs.gov.py/publico-general-covid19.html
+perma.cc/SFQ5-DUJW
 
 
 
@@ -1140,15 +1138,15 @@ https://www.mspbs.gov.py/publico-general-covid19.html
 
 *Sources*:
  [1]
-https://www.theguardian.com/global-development/2020/apr/01/extreme-coronavirus-lockdown-controls-raise-fears-for-worlds-poorest
+perma.cc/G7S7-5WHS
 [2]
-https://www.lanacion.com.py/pais/2020/05/31/policia-nacional-lamenta-penoso-suceso-y-promete-colaborar-para-el-esclarecimiento/
+perma.cc/W4DW-PNXE
 [3]
-https://www.amnesty.org/en/latest/news/2020/05/americas-authorities-must-protect-people-covid19-repressive-measures/
+perma.cc/T6FP-BWEZ
 [4]
-https://monitor.civicus.org/country/paraguay/#newspost-3912
+perma.cc/BV4N-DWS8
 [5]
-https://www.abc.com.py/nacionales/2021/03/06/reportan-al-menos-20-heridos-tras-enfrentamientos-en-el-microcentro/
+perma.cc/TF28-X72Y
 
 
 
@@ -1191,10 +1189,10 @@ https://www.abc.com.py/nacionales/2021/03/06/reportan-al-menos-20-heridos-tras-e
 
 *Sources*:
  [1]
-https://www.mspbs.gov.py/dependencias/portal/adjunto/8dc125-ResolucinSGN76COE.pdf
+perma.cc/XZ5U-QUWJ
 [2]
-https://www.ip.gov.py/ip/las-fuerzas-armadas-cuenta-con-buses-para-el-traslado-de-pasajeros/
+perma.cc/QMA6-5N7J
 [3]
-https://www.facebook.com/ejercitopy/posts/1653805504757424/
+perma.cc/2ZTD-B8GA
 [4]
-https://www.armadaparaguaya.mil.py/index.php/noticias/control-en-las-calles-en-cumplimiento-del-decreto-presidencial
+perma.cc/2QR5-XKZE

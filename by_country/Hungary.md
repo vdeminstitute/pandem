@@ -53,24 +53,22 @@ Q2 2021: Third "state of danger" (same legal instrument as in Q2 2020, Q4 2020, 
  
 
 *Sources*:
- https://net.jogtar.hu/jogszabaly?docid=A2000040.KOR
-https://www.hbcs.hu/uploads/jogszabaly/3061/fajlok/40_2020_III_11_Korm_rendelet.pdf
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
-https://democracy-reporting.org/dri_publications/phase-two-of-covid-19-responses-across-the-eu-the-rule-of-law-stress-test-continued/
+ https://perma.cc/F33J-FB98
+https://perma.cc/P3AZ-2VJ8
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
 
-https://fra.europa.eu/sites/default/files/fra_uploads/hu_report_on_coronavirus_pandemic_july_2020.pdf
-https://net.jogtar.hu/jogszabaly?docid=a2000283.kor
-https://net.jogtar.hu/jogszabaly?docid=99700154.tv#lbj816ida1d4
+https://web.archive.org/web/20200808211459/https://democracy-reporting.org/dri_publications/phase-two-of-covid-19-responses-across-the-eu-the-rule-of-law-stress-test-continued/
+https://perma.cc/D3JW-X79F
+https://perma.cc/UYU3-G4H9
+https://perma.cc/5BGG-QTZY
+https://perma.cc/AJN4-9Z5H
+https://perma.cc/U8HZ-LGNJ
+https://perma.cc/9LHH-73HL
+https://perma.cc/L2Y5-UPMN
+https://perma.cc/J7M3-BCFE
+https://perma.cc/X9YF-KXGF
+https://perma.cc/E677-LUAU
 
-https://net.jogtar.hu/jogszabaly?docid=a2000478.kor
-https://net.jogtar.hu/jogszabaly?docid=a1100128.tv#lbj117id3a14
-https://hu.usembassy.gov/covid-19/
-
-https://net.jogtar.hu/jogszabaly?docid=a2100026.kor
-
-https://net.jogtar.hu/jogszabaly?docid=A2100027.KOR&dbnum=1
-https://helsinki.hu/wp-content/uploads/HHC_Hungary_emergency_measures_overview_24022021.pdf
-https://koronavirus.gov.hu/cikkek/meghosszabbitottak-koronavirus-jarvany-elleni-vedekezesrol-szolo-torveny-hatalyat
 
 
 
@@ -112,9 +110,9 @@ Q3 2020:  According to Section 247 (1b) of Act CLIV of 1997 on healthcare,  the 
  
 
 *Sources*:
- https://www.constituteproject.org/constitution/Hungary_2016.pdf?lang=en
+ https://perma.cc/8WTP-RPJG
 
-https://net.jogtar.hu/jogszabaly?docid=99700154.tv#lbj816ida1d4
+https://perma.cc/NG7W-R43K
 
 
 
@@ -157,10 +155,13 @@ Q3 2020: State of epidemiological preparedness was declared on 18 June 2020.
 Q4 2020, Q1 2021, Q2 2021: The second state of danger was declared on 4 November 2020. The third state of danger was declared on 8 February 2021 and is in place at the time of coding. Since the legal instrument is the same, emstart is coded as 4 November 2020. 
 
 *Sources*:
- https://net.jogtar.hu/jogszabaly?docid=A2000040.KOR
-https://net.jogtar.hu/jogszabaly?docid=a2000478.kor
-https://helsinki.hu/wp-content/uploads/HHC_Hungary_emergency_measures_overview_24022021.pdf
+ perma.cc/2FTB-7BTF
 
+
+perma.cc/4DTN-5BEE
+
+
+perma.cc/N9B5-84DM
 
 
 
@@ -203,17 +204,14 @@ Q3 2020:  a state of epidemiological preparedness  was initially declared until 
 Q4 2020, Q1 2021, Q2 2021: state of danger has not ended at the time of coding. Although the second state of danger ended on 8 February 2021, a third state of danger was declared from 8 February 2021 and was extended until 22 May 2021, and further until September 2021. Since the legal instrument has been the same throughout the period, emend is left blank. 
 
 *Sources*:
- https://net.jogtar.hu/jogszabaly?docid=A2000282.KOR&searchUrl=/gyorskereso%3Fkeyword%3D282/2020
-
-https://www.bbc.com/news/world-europe-53062177
-https://www.euronews.com/2020/06/16/hungary-debates-end-to-emergency-powers-but-new-law-opens-up-potential-to-re-apply-them
-https://net.jogtar.hu/jogszabaly?docid=A2000283.KOR&searchUrl=/gyorskereso%3Fkeyword%3D283/2020
-
-https://www.icnl.org/covid19tracker/?location=54&issue=&date=&type=
-(1)
-
-https://fra.europa.eu/sites/default/files/fra_uploads/hu_report_on_coronavirus_pandemic_july_2020.pdf
-https://net.jogtar.hu/jogszabaly?docid=A2100027.KOR&dbnum=1
+ https://perma.cc/PMF5-TYR4
+https://perma.cc/9PZR-YCWF
+https://perma.cc/Y792-8LD4
+https://perma.cc/6AHS-2BA7
+https://perma.cc/2MYH-LGB5
+(!)
+https://perma.cc/6MU2-ZURD
+https://perma.cc/3SHD-8RWB
 
 
 
@@ -260,17 +258,24 @@ Q4 2020, Q1 2021, Q2 2021: Decree 478/2020  had a 15-day limit, its extension (A
 repealed on the 90th day following its promulgation". (1) The third state of danger had a 15-time limit, its extensions had a time limit. 
 
 *Sources*:
- https://net.jogtar.hu/jogszabaly?docid=A2000012.TV&dbnum=1
-https://www.washingtonpost.com/world/hungarian-parliament-hands-orban-power-to-rule-unchecked/2020/03/30/cc5135f6-7293-11ea-ad9b-254ec99993bc_story.html
-https://www.icnl.org/covid19tracker/?location=54&issue=&date=&type=
-https://hungarianspectrum.org/2020/03/21/translation-of-draft-law-on-protecting-against-the-coronavirus/
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B310%5D&covid19=1
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
-https://fra.europa.eu/sites/default/files/fra_uploads/hu_report_on_coronavirus_pandemic_july_2020.pdf
-https://ils.hu/storage/covid-19/en/Act%20109%20of%202020-Covid-19.pdf
+ perma.cc/Z462-SSPL
+perma.cc/NFN6-7VVQ
+perma.cc/H69Q-HR88
+
+perma.cc/M4U9-VMKA
+
+https://perma.cc/J7UH-BULT
+
+
+perma.cc/F4GF-JHGF
+
+perma.cc/TL3Y-YWF5
+
+https://perma.cc/8QKP-NH5W
+
 (1)
 
-https://net.jogtar.hu/jogszabaly?docid=A2100001.TV&searchUrl=/gyorskereso%3Fkeyword%3D1/2021
+perma.cc/TXN6-CJLF
 
 
 
@@ -317,19 +322,15 @@ Q1 2021: The state of danger was extended by the parliament until 22 May 2021.
 Q2 2021: The state of danger was extended by the parliament until 15 days after the start of the autumn parliamentary session. According to the parliament website, the autumn session starts on 1 September, so emlimitdate is coded as 15 September 2021. 
 
 *Sources*:
- https://net.jogtar.hu/jogszabaly?docid=A2000012.TV&dbnum=1
-
-https://fra.europa.eu/sites/default/files/fra_uploads/hu_report_on_coronavirus_pandemic_july_2020.pdf
-
-
-
-https://net.jogtar.hu/jogszabaly?docid=A2000283.KOR&searchUrl=/gyorskereso%3Fkeyword%3Deg%25C3%25A9szs%25C3%25A9g%25C3%25BCgyi%2520v%25C3%25A1ls%25C3%25A1ghelyzet
-https://net.jogtar.hu/jogszabaly?docid=A2100027.KOR&dbnum=1
-
-https://ils.hu/storage/covid-19/en/Act%20109%20of%202020-Covid-19.pdf
+ https://perma.cc/7MVL-Z744
+https://perma.cc/B4FA-DLNT
+https://perma.cc/MX3B-NYF5
+https://perma.cc/G63N-2C6Z
+https://perma.cc/3A53-4V94
+https://perma.cc/7TUQ-GL8B
 (1)
-https://mkogy.jogtar.hu/jogszabaly?docid=A2100040.TV
-https://www.parlament.hu/en/web/house-of-the-national-assembly/operation-of-the-national-assembly
+
+https://perma.cc/YT4M-BR9X
 
 
 
@@ -376,10 +377,11 @@ Q3 2020: no provisions for legislature approval in the Government Decree 283/202
  
 
 *Sources*:
- https://www.constituteproject.org/constitution/Hungary_2016.pdf?lang=en
+ https://perma.cc/9GD6-VJA4
 (1)
-https://net.jogtar.hu/jogszabaly?docid=a2000283.kor
-https://net.jogtar.hu/jogszabaly?docid=99700154.tv
+
+https://perma.cc/JAK6-4VWB
+https://perma.cc/42XR-4VXM
 
 
 
@@ -429,16 +431,19 @@ Q1 2020: The parliament passed Act I of 2021 on the Containment of the Coronavir
 Q2 2021: The parliament extended Act I of 2021 on the Containment of the Coronavirus Pandemic. 
 
 *Sources*:
- https://net.jogtar.hu/jogszabaly?docid=A2000012.TV&dbnum=1
+ https://perma.cc/BA2Q-YFV5
 
 
+https://perma.cc/TER7-G9F8
 
-https://net.jogtar.hu/jogszabaly?docid=99700154.tv#lbj816ida1d4
 
-https://net.jogtar.hu/jogszabaly?docid=A2000109.TV&searchUrl=/gyorskereso%3Fkeyword%3Dkoronav%25C3%25ADrus
+https://perma.cc/3CYB-37KM
 
-https://mkogy.jogtar.hu/jogszabaly?docid=A2100040.TV
-https://koronavirus.gov.hu/cikkek/meghosszabbitottak-koronavirus-jarvany-elleni-vedekezesrol-szolo-torveny-hatalyat
+
+https://perma.cc/24ZL-SRUF
+
+
+https://perma.cc/A4UY-9Z5D
 
 
 
@@ -489,24 +494,21 @@ Q3 2020: According to  Act CLIV of 1997 on healthcare, the government has the ri
 Q4 2020, Q1 2021, Q2 2021:  On 11 November 2020, the parliament approved extension of the second state of danger (Act CIX of 2020 on the containment of the second wave of the coronavirus pandemic) and authorized the government to rule by decree, but the government needs to regularly inform the parliament on its decisions. It also  "authorized the Government to extend until the end of the state of danger the force of future, not-yet-adopted special decrees" (Hungarian Helsinki Committee, 1).A third state of danger was extended by parliament on 22 February 2021  and then on 22 May 2021 (Act I of 2021). According to the Fundamental Law (52 (2)), " In a state of danger, the Government may adopt decrees by means of which it may, asprovided for by a cardinal Act, suspend the application of certain Acts, derogate from the provisions of Acts and take other extraordinary measures. " (1) Coded as 3 due to vague formulations. 
 
 *Sources*:
- https://tasz.hu/files/tasz/imce/alternative_translation_of_the_draft_constituion.pdf
+ https://perma.cc/54MY-ASBM
 (1)
-https://berlin.mfa.gov.hu/assets/77/49/43/cc3672166e33b2cf015ce4371aeedf19417c2710.pdf
-https://net.jogtar.hu/jogszabaly?docid=A2000012.TV&dbnum=1
+
+https://perma.cc/P72C-QR3E
+https://perma.cc/F2QR-8SBW
 https://www.parlament.hu/en/web/house-of-the-national-assembly/covid-info
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#H
-
-https://www.hrw.org/news/2020/03/23/hungarys-orban-uses-pandemic-seize-unlimited-power
-https://www.icnl.org/covid19tracker/?location=54&issue=&date=&type=
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
-https://helsinki.hu/wp-content/uploads/HHC_Hungary_emergency_measures_overview_24022021.pdf
-
-
-https://net.jogtar.hu/jogszabaly?docid=99700154.tv#lbj816ida1d4
-
-https://covidlawlab.org/wp-content/uploads/2021/01/HUNGARIAN-JOURNAL.pdf
-https://helsinki.hu/wp-content/uploads/HHC_RoL_flash_report_Hungary_12112020.pdf
+https://perma.cc/8KAA-WHL8
+https://perma.cc/EW4H-SVZT
+https://perma.cc/X77R-2XQP
+https://perma.cc/S6MT-EC4A
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://perma.cc/3ZN8-T7LQ
+https://perma.cc/E988-V2ZU
+https://perma.cc/45YA-JQWV
+https://perma.cc/LTX5-MAD7
 (2)
 
 
@@ -629,8 +631,8 @@ https://helsinki.hu/wp-content/uploads/HHC_RoL_flash_report_Hungary_12112020.pdf
  Only uniform measures throughout the country found. 
 
 *Sources*:
- https://koronavirus.gov.hu/#aktualis
-https://net.jogtar.hu/veszelyhelyzet
+ https://perma.cc/5HK7-Y22M
+https://perma.cc/42CY-4EZR
 
 
 
@@ -674,13 +676,11 @@ https://net.jogtar.hu/veszelyhelyzet
  The Hungarian Helsinki Committee argues that the measures used to expel Iranian students for violating the quarantine are discriminatory, but I have not found further confirmation of this in other sources. The authorities also suspended the admissions of refugees into the transit zone due to covid-19 concerns (most migrants coming from or transiting through Iran), although Human Rights Watch argues that most of them had been at the other side of the border for more than a year. Coded as 0 since the measures apply to people outside the country. Additional note: Hungarian parliament also passed a law prohibiting transgender or intersex people to change their gender, but this is not part of emergency measures (1). No new information found in July-September, October-December. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/hungary-report-covid-19-april-2020_en.pdf
-https://www.helsinki.hu/az-irani-diakok-kollektiv-kiutasitasa-jogellenes-es-eletveszelyes/
-
-https://www.hrw.org/news/2020/03/19/hungary-weaponizes-coronavirus-stoke-xenophobia
-https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-https://www.hrw.org/news/2020/05/21/hungary-ends-legal-recognition-transgender-and-intersex-people
-(1)
+ perma.cc/2V4A-Z4B3
+perma.cc/4M6Q-8ANW
+perma.cc/7F5Q-2YCJ
+https://www.amnesty.org/en/download/EUR0125112020ENGLISH.PDF
+https://perma.cc/GN9Q-MDNF
 
 
 
@@ -729,11 +729,10 @@ https://www.hrw.org/news/2020/05/21/hungary-ends-legal-recognition-transgender-a
  No measures violating non-derogable rights found. Note that according to OSCE report, "fake news" legislature in countries that implemented such laws (including Hungary) (see melim) can be problematic since "there may well be a legitimate concern about the deliberate and malicious spread of disinformation, such criminal provisions are unlikely to comply with the principle of specificity of criminal law enshrined in Article 15 of the ICCPR and Article 7 of the ECHR due to the inherent vagueness and ambiguity of the term “false information”. (1) 
 
 *Sources*:
- https://www.parlament.hu/irom41/09790/09790.pdf
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B310%5D&covid19=1
-
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26199&LangID=E
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+ https://perma.cc/J5NH-LGNR
+https://perma.cc/J7UH-BULT
+https://perma.cc/LHZ8-TTLF
+https://perma.cc/A9K7-7QFK
 (1)
 
 
@@ -782,18 +781,15 @@ Q3 2020: no measures limiting media freedom found.
 Q4 2020, Q1 2020, Q2 2020: Same measures as during March-June (Section 337 of the Criminal Code) where misinformation is vaguely defined as when a person "states or disseminates any untrue fact or any misrepresented true fact that is capable of hindering or preventing the efficiency of protection." (1) 
 
 *Sources*:
- https://www.parlament.hu/irom41/09790/09790.pdf
-https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
-https://ipi.media/covid19-media-freedom-monitoring/
-https://ipi.media/european-media-freedom-suffers-covid-19-response/
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-3&p_p_col_pos=1&p_p_col_count=11&_sojdashboard_WAR_coesojportlet_alertPK=61853612&_sojdashboard_WAR_coesojportlet_displayLink=SojPortlet.getDashboardPortletId%28%29
-https://www.theguardian.com/world/2020/apr/03/hungarian-journalists-fear-coronavirus-law-may-be-used-to-jail-them
-
-https://www.alkotmanybirosag.hu/kozlemeny/nem-alaptorveny-ellenes-a-remhirterjesztessel-kapcsolatos-uj-kulonleges-jogrendben-alkalmazando-buntetojogi-szabalyozas
-
-https://www.legislationline.org/download/id/5619/file/HUngary_Criminal_Code_of_2012_en.pdf
+ https://perma.cc/QM2G-474K
+https://perma.cc/MGN9-3UYE
+https://perma.cc/JPR2-9S6P
+https://perma.cc/7TF6-RW2J
+https://perma.cc/EZQ2-DLMN
+https://perma.cc/K56J-553T
+https://perma.cc/7WRS-VKUF
+https://web.archive.org/web/20191201015050/https://www.legislationline.org/download/id/5619/file/HUngary_Criminal_Code_of_2012_en.pdf
 (1)
-
 
 
 
@@ -832,8 +828,7 @@ https://www.legislationline.org/download/id/5619/file/HUngary_Criminal_Code_of_2
 *No comment provided* 
 
 *Sources*:
- https://www.parlament.hu/irom41/09790/09790.pdf
-
+ https://perma.cc/F3LJ-Y8XG
 
 
 
@@ -880,17 +875,34 @@ Q1 2021: The state of danger was extended by the parliament until 22 May 2021.
 Q2 2021: The state of danger was extended by the parliament until 15 days after the start of the autumn parliamentary session. According to the parliament website, the autumn session starts on 1 September, so melimend is coded the same as emlimitdate (15 September 2021) 
 
 *Sources*:
- https://net.jogtar.hu/jogszabaly?docid=A2000282.KOR&searchUrl=/gyorskereso%3Fkeyword%3D282/2020
-https://www.bbc.com/news/world-europe-53062177
-https://www.euronews.com/2020/06/16/hungary-debates-end-to-emergency-powers-but-new-law-opens-up-potential-to-re-apply-them
-https://net.jogtar.hu/jogszabaly?docid=A2000283.KOR&searchUrl=/gyorskereso%3Fkeyword%3D283/2020
-https://njt.hu/translated/doc/J2020R0283K_20200618_FIN.pdf
-https://www.alkotmanybirosag.hu/kozlemeny/nem-alaptorveny-ellenes-a-remhirterjesztessel-kapcsolatos-uj-kulonleges-jogrendben-alkalmazando-buntetojogi-szabalyozas
-https://alkotmanybirosag.hu/dontes/ab-hatarozat-alkotmanyjogi-panasz-elutasitasarol-9
-https://njt.hu/translated/doc/J2012T0100P_20200331_FIN.PDF
+ https://perma.cc/7T6D-Z3FX
 
-https://mkogy.jogtar.hu/jogszabaly?docid=A2100040.TV
-https://www.parlament.hu/en/web/house-of-the-national-assembly/operation-of-the-national-assembly
+
+https://perma.cc/U4ME-PF9H
+
+
+https://perma.cc/NRT4-Y6ST
+
+
+https://perma.cc/HD6V-YQ2R
+
+
+https://perma.cc/2HU6-XP29
+
+
+https://perma.cc/WE5R-YJ55
+
+
+https://perma.cc/9BJF-3EDJ
+
+
+https://perma.cc/4LW7-KZGY
+
+
+https://perma.cc/VWK9-PS65
+
+
+https://perma.cc/KS87-G79V
 
 
 
@@ -932,8 +944,8 @@ https://www.parlament.hu/en/web/house-of-the-national-assembly/operation-of-the-
  According to IPI, the "fake news" law has increased self-censorship for journalists who are afraid of being charging with spreading false information. Moreover, "journalists could hardly find sources in the health care system or education system who were willing to talk. There is a definite fear among ordinary people from the consequences of leaking." (1) 
 
 *Sources*:
- https://ipi.media/crisis-point-covid-19-intensifies-challenge-for-independent-media-in-hungary/
-https://ipi.media/rush-to-pass-fake-news-laws-during-covid-19-intensifying-global-media-freedom-challenges/
+ https://perma.cc/AUK5-8E7S
+https://perma.cc/X2VH-XG8C
 (1)
 
 
@@ -976,8 +988,8 @@ https://ipi.media/rush-to-pass-fake-news-laws-during-covid-19-intensifying-globa
  According to IPI, the "fake news" law has increased self-censorship for journalists who are afraid of being charging with spreading false information. Moreover, "journalists could hardly find sources in the health care system or education system who were willing to talk. There is a definite fear among ordinary people from the consequences of leaking." (1) 
 
 *Sources*:
- https://ipi.media/crisis-point-covid-19-intensifies-challenge-for-independent-media-in-hungary/
-https://ipi.media/rush-to-pass-fake-news-laws-during-covid-19-intensifying-global-media-freedom-challenges/
+ https://perma.cc/AUK5-8E7S
+https://perma.cc/X2VH-XG8C
 (1)
 
 
@@ -1020,9 +1032,10 @@ https://ipi.media/rush-to-pass-fake-news-laws-during-covid-19-intensifying-globa
  While IPI and the Council of Europe warn that new regulations (see melim) likely have a self-censorship effect on media reporting, I found no evidence of  instances of limitations on media reporting on non-Covid-19 related news but with reference to the pandemic. 
 
 *Sources*:
- https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-3&p_p_col_pos=1&p_p_col_count=11&_sojdashboard_WAR_coesojportlet_alertPK=61853612&_sojdashboard_WAR_coesojportlet_displayLink=SojPortlet.getDashboardPortletId%28%29
+ https://perma.cc/TRQ2-Q363
 
-https://ipi.media/crisis-point-covid-19-intensifies-challenge-for-independent-media-in-hungary/
+
+https://perma.cc/4KAX-2ZDR
 
 
 
@@ -1065,22 +1078,43 @@ https://ipi.media/crisis-point-covid-19-intensifies-challenge-for-independent-me
  Daily press conferences are organized by Operational Group (OG) for Protection against the Coronavirus Epidemic where questions are pre-selected, certain outlets are neglected and sensitive topics avoided. The time it takes for public bodies to respond to requests (such as journalists' questions) was increased from 30 to 60 days.  In Q4 2020, press conferences were being held without physical presence of journalists. In Q1 2021, IPI and Human Rights Watch reported that journalists were prevented from interviewing medical professionals on Covid-19. Meinf is therefore coded as 2 in all periods. 
 
 *Sources*:
- https://ipi.media/in-hungary-a-government-rattled-by-the-pandemic-finds-new-ways-to-suppress-independent-media/
-https://ipi.media/access-denied-foi-deadlines-extended-or-suspended-across-europe/
-https://ipi.media/crisis-point-covid-19-intensifies-challenge-for-independent-media-in-hungary/
-http://njt.hu/cgi_bin/njt_doc.cgi?docid=219363.382628
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://ipi.media/covid-19-pandemic-adds-to-hungarys-transparency-woes/
+ https://perma.cc/M5DG-L6H7
 
 
-https://koronavirus.gov.hu/cikkek/orszagos-tisztifoorvos-egy-uj-fertozottet-regisztraltak
-https://koronavirus.gov.hu/cikkek/operativ-torzs-keszen-allunk-jarvany-tovabbi-terjedeset-korlatok-kozott-tartani
-https://njt.hu/jogszabaly/2020-521-20-22.2
+https://perma.cc/K2S3-UECV
 
-https://ipi.media/alerts/hungarian-journalists-barred-from-interviewing-medical-professionals-during-covid-19/
-https://www.hrw.org/news/2021/03/31/hidden-danger-hospitals-hungarys-covid-19-patients
-https://verfassungsblog.de/hungary-and-the-pandemic-a-pretext-for-expanding-power/
-https://balkaninsight.com/2021/03/04/in-covid-19-fight-free-speech-becomes-collateral-damage/
+
+https://perma.cc/F32E-BH4S
+
+
+https://perma.cc/433L-HSV4
+
+
+https://perma.cc/BCE5-WJDC
+
+
+https://perma.cc/2GHQ-BFV5
+
+
+https://perma.cc/X52B-2FZR
+
+
+https://perma.cc/V45B-XP29
+
+
+https://perma.cc/D66A-UUQ4
+
+
+https://perma.cc/W4VY-ZEYE
+
+
+https://perma.cc/4S45-JBSQ
+
+
+https://perma.cc/23R4-FPBV
+
+
+https://perma.cc/3C8V-RDQW
 
 
 
@@ -1122,13 +1156,13 @@ https://balkaninsight.com/2021/03/04/in-covid-19-fight-free-speech-becomes-colla
  A cartoonist working for a newspaper was verbally attacked and threatened by the authorities and pro-government media. A journalist was verbally attacked and threaten by a TV channel close to the government, after she critisized the emergency measures. According to IPI, " journalists reporting on the reality of the situation inside hospitals are regularly denounced as “scaremongers” by the public service broadcaster." (1) Since I found no further evidence in later periods, mevhar is coded as 1 only in Q2 2020. 
 
 *Sources*:
- https://rsf.org/en/news/two-european-cartoonists-threatened-over-cartoons-religious-and-political-content
-https://rsf.org/en/news/repressive-laws-prosecutions-attacks-europe-fails-shield-its-journalists-against-abuse-covid-19
-https://ipi.media/press-cartoonists-in-europe-must-be-protected/
-https://ipi.media/crisis-point-covid-19-intensifies-challenge-for-independent-media-in-hungary/
+ https://perma.cc/G7YL-FSGG
+https://perma.cc/Q7FV-2TEP
+https://perma.cc/4CEC-SNLE
+https://perma.cc/4KAX-2ZDR
 (1)
 
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_sojdashboard_WAR_coesojportlet_alertId=64037610
+https://perma.cc/U8M7-TRJ7
 
 
 
@@ -1170,9 +1204,13 @@ https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_co
  No information found since 11 March 2020. 
 
 *Sources*:
- https://www.hrw.org/europe/central-asia/hungary
-https://ipi.media/crisis-point-covid-19-intensifies-challenge-for-independent-media-in-hungary/
-https://www.amnesty.org/en/countries/europe-and-central-asia/hungary/
+ https://perma.cc/RR9D-ZYTZ
+
+
+https://perma.cc/HU3U-BU86
+
+
+https://perma.cc/BTX3-49CS
 
 
 
@@ -1216,12 +1254,11 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/hungary/
  official website with information on covid-19; no reports on disinformation found since 11 March 2020. 
 
 *Sources*:
- https://koronavirus.gov.hu/
-
-https://ipi.media/hungary/
-https://rsf.org/en/hungary
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B310%5D&covid19=1
-https://fra.europa.eu/sites/default/files/fra_uploads/hu_report_on_coronavirus_pandemic_july_2020.pdf
+ https://perma.cc/Z6HM-XKRE
+https://perma.cc/RP3T-UUY3
+https://perma.cc/5MLZ-EGGN
+https://perma.cc/J7UH-BULT
+https://perma.cc/6KCV-ATD4
 
 
 
@@ -1265,8 +1302,10 @@ https://fra.europa.eu/sites/default/files/fra_uploads/hu_report_on_coronavirus_p
  No instances of police violence found since 11 March 2020. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/hungary/
-https://www.hrw.org/europe/central-asia/hungary
+ perma.cc/L3PW-HM99
+
+
+perma.cc/NYQ4-6WVE
 
 
 
@@ -1312,14 +1351,28 @@ Q3 2020: No information on military involvement in the execution of confinement 
 Q4 2020, Q1 2021, Q2 2021: The military has been involved in monitoring curfew compliance and other tasks (authorized by Government Decree 484/2020). Since the decree is in place at the time of coding and I found no indication military's involvment has ended, milinv is coded as 1 in these periods. 
 
 *Sources*:
- https://2015-2019.kormany.hu/en/ministry-of-defence/news/hungarian-soldiers-are-also-playing-an-active-part-in-containment-of-epidemic
+ https://perma.cc/ECQ4-Q7VU
 
-https://2015-2019.kormany.hu/en/ministry-of-defence/news/the-government-is-doing-everything-possible-to-assure-the-functioning-of-transit-zones
-https://2015-2019.kormany.hu/hu/honvedelmi-miniszterium/hirek/katonai-segitseg-a-heim-pal-korhaznak
-https://2015-2019.kormany.hu/hu/honvedelmi-miniszterium/hirek/ismet-a-katonak-segitettek
-https://2015-2019.kormany.hu/hu/honvedelmi-miniszterium/parlamenti-allamtitkarsag/hirek/nem-tudnank-a-honvedseg-nelkul-urra-lenni-ezen-a-veszelyhelyzeten2
-https://2015-2019.kormany.hu/hu/honvedelmi-miniszterium/hirek/gyakorlatozott-a-jarvanyugyi-bevetesi-egyseg
-https://hu.euronews.com/2020/05/16/budapesten-is-feloldjak-a-kijarasi-korlatozast
 
-https://koronavirus.gov.hu/cikkek/orban-katonakat-bevonjak-kijarasi-tilalom-fenntartasaba
-https://net.jogtar.hu/jogszabaly?docid=A2000484.KOR&dbnum=1
+https://perma.cc/823U-4G6Y
+
+
+https://perma.cc/K5Y2-HY8N
+
+
+https://perma.cc/NMJ7-5HRR
+
+
+https://perma.cc/P2PQ-23GG
+
+
+https://perma.cc/XBY5-8CRP
+
+
+https://perma.cc/6F4V-GCSM
+
+
+https://perma.cc/F56A-YWWR
+
+
+https://perma.cc/L95E-WG6K

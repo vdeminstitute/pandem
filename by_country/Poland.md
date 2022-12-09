@@ -45,14 +45,14 @@
  A state of epidemic declared on 20 March 2020 by the Ministry of Health. Previously the state of epidemic threat declared on 13 March 2020 (lifted on 20 March 2020). 
 
 *Sources*:
- http://www.dziennikustaw.gov.pl/DU/2020/433
-http://www.dziennikustaw.gov.pl/DU/2020/490
-http://www.dziennikustaw.gov.pl/DU/2020/491
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B290%5D&covid19=1
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/pl_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
+ https://perma.cc/T6JL-WP2W
+https://perma.cc/G4Z5-MFE7
+https://perma.cc/V96A-9F9P
+https://perma.cc/J7UH-BULT
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://perma.cc/7TAE-STH9
+https://perma.cc/JP5V-B3QQ
 
 
 
@@ -91,14 +91,12 @@ https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649
  Own translation: Act on preventing and combating infections and infectious diseases. Additional note: there are provisions in the Constitution for a state of natural disaster (Chapter 6, Article 228), where mass spread of infectious diseases is classified as natural disaster based on the Act on the state of natural disaster of 2002. Several sources mention that the reason the declaration of a state of epidemiological emergency was not based on the Constitution is because in that case it won't be possible to hold presidential elections, initially scheduled for 10 May 2020. According to IDEA, " the state of epidemic which provides for more restrictive measure than the constitutional state of natural disaster." (1) 
 
 *Sources*:
- http://www.dziennikustaw.gov.pl/D2020000037401.pdf
-https://www.constituteproject.org/constitution/Poland_2009?lang=en
-http://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020620558
-https://fra.europa.eu/sites/default/files/fra_uploads/poland-report-covid-19-april-2020_en.pdf
-
-http://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20082341570/U/D20081570Lj.pdf
-
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B290%5D&covid19=1
+ https://perma.cc/KQ6C-8QJA
+https://perma.cc/ZC55-3PDY
+https://perma.cc/T97K-NZAP
+https://perma.cc/93BD-D6HN
+https://perma.cc/M5VL-Y5AV
+https://perma.cc/J7UH-BULT
 (1)
 
 
@@ -138,7 +136,7 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B29
 *No comment provided* 
 
 *Sources*:
- http://www.dziennikustaw.gov.pl/D2020000049101.pdf
+ https://perma.cc/WR2W-84S3
 
 
 
@@ -177,7 +175,7 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B29
  The state of epidemic declared on 20 March 2020 until further notice. 
 
 *Sources*:
- http://www.dziennikustaw.gov.pl/D2020000049101.pdf
+ https://perma.cc/P22R-X33E
 
 
 
@@ -225,28 +223,25 @@ According to OSCE report (3, p.36), "the end date of certain measures is uncerta
 The state of epidemic is also different from the state of emergency that has a 90-day time limit based on the Constitution (Article 230, point 1). While some specific emergency measures under a state of epidemic have a time limit, the state of epidemic was declared until further notice, therefore coded as 0. 
 
 *Sources*:
- https://www.gov.pl/web/koronawirus/wprowadzamy-stan-epidemii-w-polsce
-
-
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
-
+ https://perma.cc/JX7T-TAGE
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
 (4)
-http://dziennikustaw.gov.pl/DU/2020/374
-http://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082341570
-https://www.constituteproject.org/constitution/Poland_2009?lang=en
 
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+https://perma.cc/M53K-5ULZ
+https://perma.cc/85G5-MFW2
 
+https://perma.cc/8MF5-GCT4
 
+https://perma.cc/79KR-S4B6
 (3)
-https://polskieradio24.pl/5/1222/Artykul/2549098,Kiedy-zniesienie-stanu-epidemii-Minister-zdrowia-podal-mozliwy-termin
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-http://dziennikustaw.gov.pl/D2020000037401.pdf
+https://perma.cc/L8FH-HF64
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://perma.cc/2D49-MV33
 (1)
-https://fra.europa.eu/sites/default/files/fra_uploads/poland-report-covid-19-april-2020_en.pdf
+https://perma.cc/2MN3-LVHS
 (2)
 
-http://www.dziennikustaw.gov.pl/D2020000049101.pdf
+https://perma.cc/FPN2-2NHK
 (5)
 
 
@@ -328,8 +323,10 @@ http://www.dziennikustaw.gov.pl/D2020000049101.pdf
  Based on the act on specific solutions related to the prevention and combating COVID and other infectious diseases and crises they caused (2 March 2020), the Council of Ministers can declare a state of epidemic or epidemic threat; no provisions on legislature approval 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/poland-report-covid-19-april-2020_en.pdf
-http://www.dziennikustaw.gov.pl/D2020000037401.pdf
+ https://perma.cc/PA3E-F5VG
+
+
+https://perma.cc/A52S-B2WJ
 
 
 
@@ -371,9 +368,10 @@ http://www.dziennikustaw.gov.pl/D2020000037401.pdf
  Based on the act on specific solutions related to the prevention and combating Covid-19 and other infectious diseases and crises they caused (2 March 2020), the Council of Ministers has to submit a report on the implementation to the Sejm every 3 months; no evidence of legislature approval. 
 
 *Sources*:
- https://www.senat.gov.pl/aktualnoscilista/marszalek-i-prezydium/art,12605,senacki-projekt-zmiany-ustawy-dotyczacej-walki-z-koronawirusem.html
+ https://perma.cc/X9CU-MDG9
 
-https://www.senat.gov.pl/aktualnoscilista/art,12629,senackie-poprawki-do-ustaw-dotyczacych-walki-z-koronawirusem.html
+
+https://perma.cc/2TZL-6SSD
 
 
 
@@ -419,11 +417,11 @@ https://www.senat.gov.pl/aktualnoscilista/art,12629,senackie-poprawki-do-ustaw-d
  MP's are allowed to vote remotely and oversee emergency measures. I found no information on limitations on the lawmaking role of the legislature. 
 
 *Sources*:
- https://www.senat.gov.pl/diariusz/posiedzenia-senatu/
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#P
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
-https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
+ https://perma.cc/R2G2-LZ77
+https://perma.cc/NXK9-9Y6L
+https://perma.cc/N7G3-KYGU
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://perma.cc/55RL-RS8D
 
 
 
@@ -551,15 +549,25 @@ Q1 2021: In March 2021, there were stricter measures in some regions (Warmia,Pom
 Q2 2021: No information on measures on a subnational level found. 
 
 *Sources*:
- https://dziennikustaw.gov.pl/DU/2020/1356
-https://www.gov.pl/web/koronawirus/100-dni-solidarnosci-w-walce-z-covid-19
-https://www.gov.pl/web/coronavirus/temporary-limitations
-https://www.bbc.com/news/world-europe-54672736
+ https://perma.cc/KL5D-ELQG
 
-https://www.garda.com/crisis24/news-alerts/454306/poland-authorities-extend-domestic-covid-19-restrictions-until-march-28-while-tightening-measures-in-some-regions-update-27
 
-https://www.garda.com/crisis24/news-alerts/482736/poland-authorities-continue-to-gradually-ease-domestic-covid-19-restrictions-as-of-may-25-update-35
-https://www.garda.com/crisis24/news-alerts/472856/poland-authorities-to-further-ease-domestic-covid-19-restrictions-starting-may-1-update-34
+https://perma.cc/P9HU-BE92
+
+
+https://perma.cc/5JFB-R4DK
+
+
+https://perma.cc/V9H6-ZRBC
+
+
+https://perma.cc/YD3Y-EGW3
+
+
+https://perma.cc/P3N7-HTR8
+
+
+https://perma.cc/G2XB-TCJM
 
 
 
@@ -603,9 +611,13 @@ https://www.garda.com/crisis24/news-alerts/472856/poland-authorities-to-further-
  No de-jure disciminating provisions and no information on de-facto discrimination found 
 
 *Sources*:
- https://www.gov.pl/web/koronawirus
-https://www.hrw.org/europe/central-asia/poland
-https://www.amnesty.org/en/countries/europe-and-central-asia/poland/
+ https://perma.cc/P36J-DSLA
+
+
+https://perma.cc/682N-3P9E
+
+
+https://perma.cc/7E6C-NR9J
 
 
 
@@ -654,9 +666,13 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/poland/
  No measures violating non-derogable rights found 
 
 *Sources*:
- https://www.gov.pl/web/koronawirus
-https://www.hrw.org/europe/central-asia/poland
-https://www.amnesty.org/en/countries/europe-and-central-asia/poland/
+ https://perma.cc/P36J-DSLA
+
+
+https://perma.cc/682N-3P9E
+
+
+https://perma.cc/7E6C-NR9J
 
 
 
@@ -700,9 +716,10 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/poland/
  No evidence of measures limiting media freedom found 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/?location=100&issue=&date=&type=
-https://www.coe.int/en/web/media-freedom/all-alerts
-https://cpj.org/europe/poland/
+ https://perma.cc/MC75-MDZG
+
+
+https://perma.cc/KCE5-79EQ
 
 
 
@@ -822,9 +839,16 @@ https://cpj.org/europe/poland/
  information on Covid-19 on the government's website; no reports on limitations on media reporting on Covid-19 found. On 10 June, two activists were detained following a poster campaign on covid-19 statistics, but this is not coded since they are not journalists. 
 
 *Sources*:
- https://www.gov.pl/web/koronawirus
-https://cpj.org/europe/poland/
-https://www.amnesty.org/en/latest/news/2020/06/poland-activists-at-risk-of-10-year-jail-term-for-covid-19-poster-campaign-challenging-government-statistics/https://ipi.media/romania/
+ https://perma.cc/JX7T-TAGE
+
+
+https://perma.cc/5HXM-M4JP
+
+
+https://perma.cc/XYJ8-QF25
+
+
+https://perma.cc/LKZ5-ZYJK
 
 
 
@@ -866,7 +890,7 @@ https://www.amnesty.org/en/latest/news/2020/06/poland-activists-at-risk-of-10-ye
  On 10 June 2020, two activists were detained following a poster campaign on Covid-19 statistics, but this is not coded since they are not journalists. 
 
 *Sources*:
- https://www.amnesty.ie/urgent-action-polish-activists/
+ https://perma.cc/9G5Z-4TZE
 
 
 
@@ -914,14 +938,15 @@ Q4 2020: On 17 November 2020, Angelika Pitoń was covering protests and was char
 Q1 2021, Q2 2021: coded as 1 because there were several violations in the previous time periods and I found no indication that the situation improved. 
 
 *Sources*:
- https://rsf.org/en/news/polands-independent-media-harassed-run-presidential-election
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-4&p_p_col_count=1&_sojdashboard_WAR_coesojportlet_alertId=63710924
-
-https://ipi.media/alerts/most-read-newspaper-in-polish-denied-plane-accreditation-over-covid-19-seat-restrictions/
+ https://perma.cc/U2XA-PP3R
+https://perma.cc/WE57-LKTW
 (1)
 
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=2&p_p_cacheability=cacheLevelPage&p_p_col_id=column-4&p_p_col_count=1&_sojdashboard_WAR_coesojportlet_alertPK=77081008&_sojdashboard_WAR_coesojportlet_cmd=get_pdf_one
+https://perma.cc/22MF-S29S
+https://perma.cc/Z4MU-EQWU
 (2)
+
+
 
 
 
@@ -967,22 +992,18 @@ Further information on the so called  “anti-crisis shield” act from 31 March
  
 
 *Sources*:
- https://ipi.media/access-denied-foi-deadlines-extended-or-suspended-across-europe/
-(1)
-https://www.gov.pl/web/sprawiedliwosc/informacja-w-sprawie-wstrzymania-i-zawieszenia-terminow-procesowych
+ https://perma.cc/R57A-D7AX
+https://perma.cc/HVD4-ZK9P
+https://perma.cc/PVP2-FM2E
+https://perma.cc/9CUN-ACVM
+https://perma.cc/3T7P-E88U
+https://perma.cc/53W3-GCNA
+https://perma.cc/J7UH-BULT
+https://perma.cc/28XY-7P8T
+https://perma.cc/Q3ZN-FWLY
+https://perma.cc/2H6R-RQGV
+https://perma.cc/5SKT-A6BA
 
-http://orka.sejm.gov.pl/opinie9.nsf/nazwa/299_u/$file/299_u.pdf
-https://wbj.pl/polands-government-blocks-access-to-public-information-daily/post/126760
-https://next.gazeta.pl/next/7,151003,25874055,koronawirus-rzad-blokuje-dostep-do-informacji-publicznej-jestesmy.html
-https://www.rpo.gov.pl/pl/content/koronawirus-rpo-dostep-do-informacji-publicznej-wazny-epidemii
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B290%5D&covid19=1
-(2)
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-(3)
-
-https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20200000875/O/D20200875.pdf
-https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000875
-https://www.prezydent.pl/bip/dostep-do-informacji-publicznej/
 
 
 
@@ -1024,11 +1045,19 @@ https://www.prezydent.pl/bip/dostep-do-informacji-publicznej/
  No evidence found 
 
 *Sources*:
- https://ipi.media/poland/
-https://rsf.org/en/poland
-https://www.icnl.org/covid19tracker/?location=100&issue=&date=&type=
-https://www.coe.int/en/web/media-freedom/all-alerts
-https://cpj.org/europe/poland/
+ https://perma.cc/WE7F-73CH
+
+
+https://perma.cc/KN8N-LGH4
+
+
+https://perma.cc/SY7L-JPBC
+
+
+https://perma.cc/9JLR-KF62
+
+
+https://perma.cc/MSX8-BMG9
 
 
 
@@ -1070,9 +1099,13 @@ https://cpj.org/europe/poland/
  Pawel Rutkiewicz, a reporter working for Gazeta Wyborcza was detained when covering anti-lockdown demonstrations on 29 March 2020, despite showing his press pass.  Since cases of physical harassment of journalists are monitored by various sources (Council of Europe, IPI, CPJ) on a case by case bases, lack of information likely means that there were no further cases of physical harrassment. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-4&p_p_col_count=1&_sojdashboard_WAR_coesojportlet_alertId=63710924
-https://ipi.media/increase-in-violence-against-journalists-covering-protests-across-europe/
+ https://perma.cc/AY7A-8RCH
+
+
+https://perma.cc/5KKN-X9AS
+
+
+https://perma.cc/UXR8-6EWT
 
 
 
@@ -1116,10 +1149,13 @@ https://ipi.media/increase-in-violence-against-journalists-covering-protests-acr
  information on Covid-19 on the government's website; no reports on disinformation found. 
 
 *Sources*:
- https://www.gov.pl/web/koronawirus
+ https://perma.cc/JX7T-TAGE
 
-https://ipi.media/poland/
-https://rsf.org/en/poland
+
+https://perma.cc/3VZG-UQYX
+
+
+https://perma.cc/9TET-EP2T
 
 
 
@@ -1163,9 +1199,13 @@ https://rsf.org/en/poland
  In August, October, November 2020, the police engaged violence to disperse protests, such as using teargas and beating protestors. Since the protests were dispersed for not complying with Covid-19 restrictions on protests, pomviol is coded as 2 in Q3 and Q4 2020. 
 
 *Sources*:
- https://apnews.com/article/europe-poland-coronavirus-pandemic-courts-europe-8fd07c868e11af4e022454939ff00146
-https://www.bbc.com/news/world-europe-54657021
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/poland/
+ https://perma.cc/T332-Q9DE
+
+
+https://perma.cc/J9BG-XK75
+
+
+https://perma.cc/59F8-UA4Z
 
 
 
@@ -1207,7 +1247,13 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/pol
  The military was involved in monitoring and enforcement of quarantine in all time periods. 
 
 *Sources*:
- https://www.gov.pl/web/obrona-narodowa/gotowosc-odzew-ratunek---4-miesiace-walki-wojska-polskiego-z-epidemia-koronawirusa
-https://www.gov.pl/web/koronawirus/wojsko-polskie-caly-czas-zaangazowane-jest-w-walke-z-covid-20
-https://www.gov.pl/web/koronawirus/blisko-20-tys-zolnierzy-zaangazowanych-w-walke-z-koronawirusem
-https://www.gov.pl/web/obrona-narodowa/wojsko-polskie-caly-czas-zaangazowane-jest-w-walke-z-covid-19
+ https://perma.cc/7UW4-Q9WL
+
+
+https://perma.cc/MCU4-Z9UD
+
+
+https://perma.cc/7P9C-JEA4
+
+
+https://perma.cc/MMQ6-NXT3

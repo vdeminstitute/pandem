@@ -46,17 +46,17 @@
 
 *Sources*:
  [1]
-https://presidency.gov.gh/index.php/briefing-room/speeches/1535-president-akufo-addo-addresses-nation-on-measures-taken-by-gov-t-to-combat-the-coronavirus-pandemic
+perma.cc/DW8E-NCRT
 [2]
-https://verfassungsblog.de/wp-content/uploads/2020/05/EXECUTIVE-INSTRUMENT-on-COVID.pdf
+perma.cc/B2NB-DEDT
 [3]
-https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-65.pdf
+perma.cc/BG64-FDZM
 [4]
-https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-66.pdf
+perma.cc/DQ9M-V9V9
 [5]
-https://verfassungsblog.de/wp-content/uploads/2020/05/Imposition-of-Restrictions-Act-2020-Act-1012.pdf
+perma.cc/PPH4-THMY
 [6]
-https://www.tandfonline.com/doi/pdf/10.1080/20508840.2020.1777648?needAccess=true
+perma.cc/YY9E-MJAJ
 
 
 
@@ -96,17 +96,17 @@ https://www.tandfonline.com/doi/pdf/10.1080/20508840.2020.1777648?needAccess=tru
 
 *Sources*:
  [1]
-https://presidency.gov.gh/index.php/briefing-room/speeches/1535-president-akufo-addo-addresses-nation-on-measures-taken-by-gov-t-to-combat-the-coronavirus-pandemic
+perma.cc/DW8E-NCRT
 [2]
-https://verfassungsblog.de/wp-content/uploads/2020/05/EXECUTIVE-INSTRUMENT-on-COVID.pdf
+perma.cc/B2NB-DEDT
 [3]
-https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-65.pdf
+perma.cc/BG64-FDZM
 [4]
-https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-66.pdf
+perma.cc/DQ9M-V9V9
 [5]
-https://verfassungsblog.de/wp-content/uploads/2020/05/Imposition-of-Restrictions-Act-2020-Act-1012.pdf
+perma.cc/PPH4-THMY
 [6]
-https://www.tandfonline.com/doi/pdf/10.1080/20508840.2020.1777648?needAccess=true
+perma.cc/YY9E-MJAJ
 
 
 
@@ -146,15 +146,15 @@ https://www.tandfonline.com/doi/pdf/10.1080/20508840.2020.1777648?needAccess=tru
 
 *Sources*:
  [1]
-https://presidency.gov.gh/index.php/briefing-room/speeches/1535-president-akufo-addo-addresses-nation-on-measures-taken-by-gov-t-to-combat-the-coronavirus-pandemic
+perma.cc/DW8E-NCRT
 [2]
-https://verfassungsblog.de/wp-content/uploads/2020/05/EXECUTIVE-INSTRUMENT-on-COVID.pdf
+perma.cc/B2NB-DEDT
 [3]
-https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-65.pdf
+perma.cc/BG64-FDZM
 [4]
-https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-66.pdf
+perma.cc/DQ9M-V9V9
 [5]
-https://presidency.gov.gh/index.php/briefing-room/speeches
+perma.cc/2RK6-2B3N
 
 
 
@@ -193,7 +193,8 @@ https://presidency.gov.gh/index.php/briefing-room/speeches
  Implementation remains ongoing as of 15 June 2021. 
 
 *Sources*:
- https://presidency.gov.gh/index.php/briefing-room/speeches/1859-update-no-23-measures-taken-to-combat-spread-of-coronavirus
+ [1]
+perma.cc/ZHA5-83SZ
 
 
 
@@ -240,13 +241,13 @@ This contradicts the Imposition of Restrictions Act, which allows for restrictio
 
 *Sources*:
  [1]
-https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Act-2020-Act-1012.pdf.pdf
+perma.cc/AZS7-QFLG
 [2]
-https://africanlii.org/fr/country/ghana
+https://perma.cc/B2LP-GZUU
 [3]
-https://verfassungsblog.de/wp-content/uploads/2020/05/EXECUTIVE-INSTRUMENT-on-COVID.pdf
+perma.cc/3SEH-LG7Z
 [4]
-https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-65.pdf
+perma.cc/GQ3Z-H4XV
 
 
 
@@ -290,13 +291,13 @@ This contradicts the Imposition of Restrictions Act, which allows for restrictio
 
 *Sources*:
  [1]
-https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Act-2020-Act-1012.pdf.pdf
+perma.cc/AZS7-QFLG
 [2]
-https://africanlii.org/fr/country/ghana
+https://perma.cc/B2LP-GZUU
 [3]
-https://verfassungsblog.de/wp-content/uploads/2020/05/EXECUTIVE-INSTRUMENT-on-COVID.pdf
+perma.cc/3SEH-LG7Z
 [4]
-https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-65.pdf
+perma.cc/GQ3Z-H4XV
 
 
 
@@ -339,11 +340,11 @@ https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-65.pdf
 
 *Sources*:
  [1]
-https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Act-2020-Act-1012.pdf.pdf
+perma.cc/369Y-5LYH
 [2]
-https://acts.ghanajustice.com/actsofparliament/imposition-of-restrictions-act-2020-act-1012/
+perma.cc/SW99-EQD9
 [3]
-https://ghanalawhub.com/overview-of-the-imposition-of-restrictions-act-2020-act-1020/
+perma.cc/YD8D-UZHG
 
 
 
@@ -386,11 +387,11 @@ https://ghanalawhub.com/overview-of-the-imposition-of-restrictions-act-2020-act-
 
 *Sources*:
  [1]
-https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Act-2020-Act-1012.pdf.pdf
+perma.cc/369Y-5LYH
 [2]
-https://acts.ghanajustice.com/actsofparliament/imposition-of-restrictions-act-2020-act-1012/
+perma.cc/SW99-EQD9
 [3]
-https://ghanalawhub.com/overview-of-the-imposition-of-restrictions-act-2020-act-1020/
+perma.cc/YD8D-UZHG
 
 
 
@@ -439,9 +440,9 @@ https://ghanalawhub.com/overview-of-the-imposition-of-restrictions-act-2020-act-
 
 *Sources*:
  [1]
-https://verfassungsblog.de/wp-content/uploads/2020/05/Imposition-of-Restrictions-Act-2020-Act-1012.pdf
+perma.cc/BCW7-YAVR
 [2]
-https://www.tandfonline.com/doi/pdf/10.1080/20508840.2020.1777648?needAccess=true
+perma.cc/BNG4-KCZ6
 
 
 
@@ -566,15 +567,15 @@ The restrictions reintroduced in January 2021 apply to the entire country and re
 
 *Sources*:
  [1]
-https://www.cnbcafrica.com/news/2020/04/20/ghana-lifts-lockdown-on-key-regions-as-covid-19-cases-reach-1042/
+perma.cc/D2H2-ZDD7
 [2]
-https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-65.pdf
+perma.cc/X8NL-F35N
 [3]
-https://www.garda.com/crisis24/news-alerts/327316/ghana-authorities-impose-lockdown-on-two-regions-due-to-covid-19-from-march-30-update-3
+perma.cc/QS8H-9WQP
 [4]
-https://www.aa.com.tr/en/africa/ghana-eases-lockdown-measures-supports-social-distance/1860712
+perma.cc/4ABX-XY3D
 [5]
-https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Coronavirus-Government-bans-funerals-weddings-concerts-parties-until-further-notice-1168564
+perma.cc/5JP4-2L55
 
 
 
@@ -619,15 +620,15 @@ https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Coronavirus-Government-bans-f
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/30/ghana-1st-covid-19-case-psychiatric-hospital
+perma.cc/C996-2GGR
 [2]
-https://www.hrw.org/africa/ghana
+perma.cc/KL8V-NTJJ
 [3]
-https://www.amnesty.org/en/countries/africa/ghana/
+perma.cc/H3PM-L849
 [4]
-https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Act-2020-Act-1012.pdf.pdf
+perma.cc/VFV2-UYT2
 [5]
-https://www.dw.com/en/ghana-covid-19-survivors-stigmatized/av-53418720
+perma.cc/6VNE-E4EC
 
 
 
@@ -677,13 +678,13 @@ https://www.dw.com/en/ghana-covid-19-survivors-stigmatized/av-53418720
 
 *Sources*:
  [1]
-https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
+perma.cc/SZ6L-34UW
 [2]
-https://www.amnesty.org/en/countries/africa/ghana/
+perma.cc/G2JF-CWPY
 [3]
-https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Act-2020-Act-1012.pdf.pdf
+perma.cc/3ZPE-CQNR
 [4]
-https://www.hrw.org/africa/ghana
+perma.cc/ZN3Y-TSUY
 
 
 
@@ -728,19 +729,19 @@ https://www.hrw.org/africa/ghana
 
 *Sources*:
  [1]
-https://verfassungsblog.de/wp-content/uploads/2020/05/EXECUTIVE-INSTRUMENT-on-COVID.pdf
+perma.cc/ENN2-WG5D
 [2]
-https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-65.pdf
+perma.cc/6T8Z-XN5M
 [3]
-https://africanlii.org/fr/country/ghana
+https://perma.cc/B2LP-GZUU
 [4]
-https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Act-2020-Act-1012.pdf.pdf
+perma.cc/44J7-S3WP
 [5]
-https://rsf.org/en/ghana
+perma.cc/JM8W-WH4Z
 [6]
-https://cpj.org/africa/ghana/
+perma.cc/XC3A-9WDY
 [7]
-http://ipi.media/ghana/
+perma.cc/RW23-VEEP
 
 
 
@@ -861,11 +862,11 @@ http://ipi.media/ghana/
 
 *Sources*:
  [1]
-https://ipi.media/ghana/
+perma.cc/R5DJ-FFNB
 [2]
-https://rsf.org/en/ghana
+perma.cc/NR5D-5X6W
 [3]
-https://cpj.org/africa/ghana/
+perma.cc/H2ZG-7ZDW
 
 
 
@@ -910,13 +911,13 @@ There are no further cases reported of de-facto limitations on the government's 
 
 *Sources*:
  [1]
-https://cpj.org/2020/04/in-ghana-soldiers-enforcing-covid-19-restrictions/
+perma.cc/6WT6-FC75
 [2]
-https://rsf.org/en/ghana
+perma.cc/33HL-ZUVN
 [3]
-https://cpj.org/africa/ghana/
+perma.cc/CYJ4-V9JL
 [4]
-http://ipi.media/ghana/
+perma.cc/HBS3-NBLY
 
 
 
@@ -961,13 +962,13 @@ There are no further cases reported of government forces restricting media repor
 
 *Sources*:
  [1]
-https://cpj.org/2020/04/in-ghana-soldiers-enforcing-covid-19-restrictions/
+perma.cc/6WT6-FC75
 [2]
-https://rsf.org/en/ghana
+perma.cc/33HL-ZUVN
 [3]
-https://cpj.org/africa/ghana/
+perma.cc/CYJ4-V9JL
 [4]
-http://ipi.media/ghana/
+perma.cc/HBS3-NBLY
 
 
 
@@ -1013,15 +1014,15 @@ There are no further cases reported.
 
 *Sources*:
  [1]
-https://rsf.org/en/news/ghana-urged-ensure-safety-reporters-covering-covid-19
+perma.cc/ZW56-5KAQ
 [2]
-https://cpj.org/2020/04/in-ghana-soldiers-enforcing-covid-19-restrictions/
+perma.cc/ET5S-LVJ2
 [3]
-https://rsf.org/en/ghana
+perma.cc/F7N9-A9LX
 [4]
-https://cpj.org/africa/ghana/
+perma.cc/A2LF-SSXM
 [5]
-http://ipi.media/ghana/
+perma.cc/FB4K-KPJP
 
 
 
@@ -1066,17 +1067,17 @@ There are no further cases reported.
 
 *Sources*:
  [1]
-https://rsf.org/en/news/ghana-urged-ensure-safety-reporters-covering-covid-19
+perma.cc/L5W5-GPG5
 [2]
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
+perma.cc/5AWX-LGLJ
 [3]
-https://cpj.org/2020/04/in-ghana-soldiers-enforcing-covid-19-restrictions/
+perma.cc/6HGL-JQ2E
 [4]
-https://rsf.org/en/ghana
+perma.cc/XWP7-U5US
 [5]
-https://cpj.org/africa/ghana/
+perma.cc/A6SB-P2KK
 [6]
-http://ipi.media/ghana/
+perma.cc/HBS3-NBLY
 
 
 
@@ -1123,17 +1124,17 @@ There are no further cases reported.
 
 *Sources*:
  [1]
-https://rsf.org/en/news/ghana-urged-ensure-safety-reporters-covering-covid-19
+perma.cc/A4FE-95PR
 [2]
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
+perma.cc/QV6L-RF8J
 [3]
-https://cpj.org/2020/04/in-ghana-soldiers-enforcing-covid-19-restrictions/
+perma.cc/4VCE-KMGR
 [4]
-https://rsf.org/en/ghana
+perma.cc/B8ZX-SQUM
 [5]
-https://cpj.org/africa/ghana/
+perma.cc/8SZU-TFZK
 [6]
-http://ipi.media/ghana/
+perma.cc/67PS-CHJ4
 
 
 
@@ -1178,11 +1179,11 @@ http://ipi.media/ghana/
 
 *Sources*:
  [1]
-https://ghanahealthservice.org/covid19/faqs.php
+https://web.archive.org/web/20200315080838/https://ghanahealthservice.org/covid19/faqs.php
 [2]
-https://www.moh.gov.gh/coronavirus-alert-education-inforgraphics/
+perma.cc/5HKG-HR8U
 [3]
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+perma.cc/HJQ7-3HJG
 
 
 
@@ -1231,22 +1232,21 @@ There are no further cases reported.
 
 *Sources*:
  [1]
-https://rsf.org/en/news/ghana-urged-ensure-safety-reporters-covering-covid-19
+perma.cc/6NCW-4WSY
 [2]
-https://www.dw.com/en/is-the-coronavirus-killing-press-freedom-in-africa/a-53061431
+perma.cc/H52P-MTE7
 [3]
-https://cpj.org/2020/04/in-ghana-soldiers-enforcing-covid-19-restrictions/
+perma.cc/F45L-VCPQ
 [4]
-https://rsf.org/en/ghana
+perma.cc/DB7G-RAJU
 [5]
-https://cpj.org/africa/ghana/
+perma.cc/8Y2S-8PQA
 [6]
-http://ipi.media/ghana/
+perma.cc/66P6-4VKC
 [7]
-https://www.hrw.org/africa/ghana
+perma.cc/B8UG-SB8W
 [8]
-https://www.amnesty.org/en/countries/africa/ghana/
-
+perma.cc/6M96-EZXP
 
 
 
@@ -1289,20 +1289,20 @@ https://www.amnesty.org/en/countries/africa/ghana/
 
 *Sources*:
  [1]
-https://cpj.org/2020/04/in-ghana-soldiers-enforcing-covid-19-restrictions/
+perma.cc/7FHG-BD8T
 [2]
-http://apanews.net/en/news/ghana-deploys-police-army-to-enforce-lockdown
+perma.cc/J3WV-T5X9
 [3]
-https://www.ghanaiantimes.com.gh/ama-military-cum-police-enforce-nose-mask-wearing-in-accra/
+perma.cc/55VT-LVHD
 [4]
-https://rsf.org/en/ghana
+perma.cc/3FF5-DTAV
 [5]
-https://cpj.org/africa/ghana/
+perma.cc/6R8N-BVXE
 [6]
-http://ipi.media/ghana/
+perma.cc/ML4X-GTXM
 [7]
-https://www.hrw.org/africa/ghana
+perma.cc/4SJZ-BQAW
 [8]
-https://www.amnesty.org/en/countries/africa/ghana/
+perma.cc/AQU7-L66A
 [9]
-https://citinewsroom.com/2021/04/security-agencies-will-enforce-covid-19-restrictions-during-easter-akufo-addo/
+perma.cc/3AJS-3ZFU

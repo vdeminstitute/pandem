@@ -46,13 +46,16 @@
 
 *Sources*:
  [1]
-https://www.boliviasegura.gob.bo/archivos/4196.doc.pdf
+https://web.archive.org/web/20200625124207/https://www.boliviasegura.gob.bo/archivos/4196.doc.pdf
+
 [2]
-https://www.boliviasegura.gob.bo/archivos/4179.doc.pdf
+https://web.archive.org/web/20200707070157/https://www.boliviasegura.gob.bo/archivos/4179.doc.pdf
+
 [3]
-http://www.gacetaoficialdebolivia.gob.bo/normas/buscar_comp/(COVID-19)
+https://perma.cc/TBW9-CDQS
+
 [4]
-https://www.lexivox.org/norms/BO-DS-N4473.xhtml
+https://perma.cc/FJ9F-D8KE
 
 
 
@@ -92,9 +95,10 @@ https://www.lexivox.org/norms/BO-DS-N4473.xhtml
 
 *Sources*:
  [1]
-https://www.lexivox.org/norms/BO-DL-15629.html
+https://perma.cc/J4AZ-8FVQ
+
 [2]
-https://www.lexivox.org/norms/BO-L-N1293.html?dcmi_identifier=BO-L-N1293&format=html
+https://perma.cc/8W8P-S6DS
 
 
 
@@ -134,9 +138,10 @@ https://www.lexivox.org/norms/BO-L-N1293.html?dcmi_identifier=BO-L-N1293&format=
 
 *Sources*:
  [1]
-http://www.gacetaoficialdebolivia.gob.bo/normas/buscar_comp/(COVID-19)/page:2
+https://perma.cc/5YTQ-M4SU
+
 [2]
-https://www.lexivox.org/norms/BO-DS-N4430.html?dcmi_identifier=BO-DS-N4430&format=html
+https://perma.cc/2AHT-48CB
 
 
 
@@ -176,9 +181,10 @@ https://www.lexivox.org/norms/BO-DS-N4430.html?dcmi_identifier=BO-DS-N4430&forma
 
 *Sources*:
  [1]
-https://www.lexivox.org/norms/BO-DS-N4387.xhtml?dcmi_identifier=BO-DS-N4387&format=xhtml
+https://perma.cc/3S49-NVSV
+
 [2]
-https://www.lexivox.org/norms/BO-DS-N4473.xhtml
+https://perma.cc/2GPW-WS3B
 
 
 
@@ -221,11 +227,13 @@ https://www.lexivox.org/norms/BO-DS-N4473.xhtml
 
 *Sources*:
  [1]
-http://www.gacetaoficialdebolivia.gob.bo/normas/buscar_comp/(COVID-19)/page:1
+https://perma.cc/J3T7-CFB3
+
 [2]
-https://www.lexivox.org/norms/BO-COD-DL15629.xhtml
+https://perma.cc/SJP2-KLMM
+
 [3]
-https://www.lexivox.org/norms/BO-DS-N4314.xhtml
+https://perma.cc/E99B-NB83
 
 
 
@@ -265,11 +273,13 @@ https://www.lexivox.org/norms/BO-DS-N4314.xhtml
 
 *Sources*:
  [1]
-http://www.gacetaoficialdebolivia.gob.bo/normas/buscar_comp/(COVID-19)/page:1
+https://perma.cc/J3T7-CFB3
+
 [2]
-https://www.lexivox.org/norms/BO-COD-DL15629.xhtml
+https://perma.cc/SJP2-KLMM
+
 [3]
-https://www.lexivox.org/norms/BO-DS-N4314.xhtml
+https://perma.cc/E99B-NB83
 
 
 
@@ -312,9 +322,10 @@ https://www.lexivox.org/norms/BO-DS-N4314.xhtml
 
 *Sources*:
  [1]
-https://www.lexivox.org/norms/BO-COD-DL15629.xhtml
+https://perma.cc/FC8K-76AC
+
 [2]
-https://www.lexivox.org/norms/BO-L-N1293.html?dcmi_identifier=BO-L-N1293&format=html
+https://perma.cc/8H4U-3U7C
 
 
 
@@ -357,9 +368,10 @@ https://www.lexivox.org/norms/BO-L-N1293.html?dcmi_identifier=BO-L-N1293&format=
 
 *Sources*:
  [1]
-https://www.lexivox.org/norms/BO-COD-DL15629.xhtml
+https://perma.cc/FC8K-76AC
+
 [2]
-https://www.lexivox.org/norms/BO-L-N1293.html?dcmi_identifier=BO-L-N1293&format=html
+https://perma.cc/8H4U-3U7C
 
 
 
@@ -406,11 +418,13 @@ https://www.lexivox.org/norms/BO-L-N1293.html?dcmi_identifier=BO-L-N1293&format=
 
 *Sources*:
  [1]
-http://www.gacetaoficialdebolivia.gob.bo/normas/buscar_comp/(COVID-19)/page:1
+https://perma.cc/8V6P-G6N2
+
 [2]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+https://perma.cc/494Q-UBAC
+
 [3]
-https://www.aduana.gob.bo/aduana7/sites/default/files/kcfinder/files/circulares/circular0872020.pdf
+https://perma.cc/2A6E-3AYU
 
 
 
@@ -533,13 +547,16 @@ https://www.aduana.gob.bo/aduana7/sites/default/files/kcfinder/files/circulares/
 
 *Sources*:
  [1]
-http://www.gacetaoficialdebolivia.gob.bo/normas/buscar_comp/(COVID-19)/page:1
+https://perma.cc/75XL-TNMX
+
 [2]
-https://www.lexivox.org/norms/BO-DS-N4245.xhtml
+https://perma.cc/K8PQ-WB9C
+
 [3]
-https://www.jornada.com.mx/notas/2021/05/15/mundo/ante-tercera-ola-de-covid-19-bolivia-refuerza-medidas-sanitarias/
+https://perma.cc/8UBP-DFS6
+
 [4]
-https://www.parlamentoandino.org/images/actualidad/informes-covid/Bolivia/Principales-medidas-adoptadas-por-el-gobierno-boliviano.pdf
+https://perma.cc/TL3R-K7Z2
 
 
 
@@ -584,11 +601,13 @@ https://www.parlamentoandino.org/images/actualidad/informes-covid/Bolivia/Princi
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/bolivia/
+https://perma.cc/X7RB-FL66
+
 [2]
-https://www.hrw.org/americas/bolivia
+https://perma.cc/X9TC-6Z47
+
 [3]
-https://monitor.civicus.org/country/bolivia/
+https://perma.cc/QB49-GWWL
 
 
 
@@ -638,11 +657,13 @@ https://monitor.civicus.org/country/bolivia/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/bolivia/
+https://perma.cc/V4LR-2KGY
+
 [2]
-https://www.hrw.org/americas/bolivia
+https://perma.cc/9QZR-RTTW
+
 [3]
-https://monitor.civicus.org/country/bolivia/
+https://perma.cc/X5NH-JGXJ
 
 
 
@@ -687,19 +708,25 @@ https://monitor.civicus.org/country/bolivia/
 
 *Sources*:
  [1]
-https://www.boliviasegura.gob.bo/archivos/4200.doc.pdf
+https://web.archive.org/web/20200625185532/https://www.boliviasegura.gob.bo/archivos/4200.doc.pdf
+
 [2]
-https://www.boliviasegura.gob.bo/archivos/4231.doc.pdf
+https://web.archive.org/web/20200529151037/https://www.boliviasegura.gob.bo/archivos/4231.doc.pdf
+
 [3]
-https://cpj.org/2020/05/bolivian-decree-broadens-criminal-sanctions-for-di/
+https://perma.cc/289B-4CS4
+
 [4]
-https://monitor.civicus.org/updates/2020/05/12/free-speech-under-threat-bolivia-during-covid-19-pandemic/
+https://perma.cc/63PF-DAAD
+
 [5]
-https://www.amnesty.org/download/Documents/AMR1821712020SPANISH.pdf
+https://perma.cc/7FEY-JURJ
+
 [6]
-https://www.hrw.org/news/2020/04/07/bolivia-covid-19-decree-threatens-free-expression
+https://perma.cc/4ZHU-5JXN
+
 [7]
-https://www.lexivox.org/norms/BO-DS-N4236.html
+https://perma.cc/LC2H-TNAH
 
 
 
@@ -739,9 +766,10 @@ https://www.lexivox.org/norms/BO-DS-N4236.html
 
 *Sources*:
  [1]
-https://www.boliviasegura.gob.bo/archivos/4200.doc.pdf
+https://web.archive.org/web/20200625185532/https://www.boliviasegura.gob.bo/archivos/4200.doc.pdf
+
 [2]
-https://www.boliviasegura.gob.bo/archivos/4231.doc.pdf
+https://web.archive.org/web/20200529151037/https://www.boliviasegura.gob.bo/archivos/4231.doc.pdf
 
 
 
@@ -781,9 +809,10 @@ https://www.boliviasegura.gob.bo/archivos/4231.doc.pdf
 
 *Sources*:
  [1]
-https://www.boliviasegura.gob.bo/archivos/decreto4236.pdf
+https://web.archive.org/web/20200626174034/https://www.boliviasegura.gob.bo/archivos/decreto4236.pdf
+
 [2]
-https://www.infobae.com/america/agencias/2020/05/15/bolivia-anula-decreto-que-restringe-libertad-de-expresion/
+https://perma.cc/E5CH-NXBY
 
 
 
@@ -826,13 +855,16 @@ https://www.infobae.com/america/agencias/2020/05/15/bolivia-anula-decreto-que-re
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/3XMZ-CE33
+
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/MC36-HFA6
+
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/D5DB-VF3H
+
 [4]
-https://cpj.org/americas/bolivia/
+https://perma.cc/4BPP-TFXZ
 
 
 
@@ -875,13 +907,16 @@ https://cpj.org/americas/bolivia/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/3XMZ-CE33
+
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/MC36-HFA6
+
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/D5DB-VF3H
+
 [4]
-https://cpj.org/americas/bolivia/
+https://perma.cc/4BPP-TFXZ
 
 
 
@@ -924,13 +959,16 @@ https://cpj.org/americas/bolivia/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/3XMZ-CE33
+
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/MC36-HFA6
+
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/D5DB-VF3H
+
 [4]
-https://cpj.org/americas/bolivia/
+https://perma.cc/4BPP-TFXZ
 
 
 
@@ -974,13 +1012,16 @@ https://cpj.org/americas/bolivia/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/6YRT-A2F9
+
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/FGE4-4Z5T
+
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/WA4Z-Z8Y5
+
 [4]
-https://cpj.org/americas/bolivia/
+https://perma.cc/42R6-3AS5
 
 
 
@@ -1023,11 +1064,13 @@ https://cpj.org/americas/bolivia/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/S74X-PXLJ
+
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/N5TR-FZ3E
+
 [3]
-https://cpj.org/americas/bolivia/
+https://perma.cc/6DWG-DJC5
 
 
 
@@ -1070,11 +1113,13 @@ https://cpj.org/americas/bolivia/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/699T-7A5B
+
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/54UA-6FVX
+
 [3]
-https://cpj.org/americas/bolivia/
+https://perma.cc/EG77-YAHL
 
 
 
@@ -1119,7 +1164,7 @@ https://cpj.org/americas/bolivia/
 
 *Sources*:
  [1]
-https://www.boliviasegura.gob.bo/index.php
+https://perma.cc/EU99-QFER
 
 
 
@@ -1164,9 +1209,10 @@ https://www.boliviasegura.gob.bo/index.php
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/search/?q=&sort=date&country=38275&resourceType=newsarticle
+https://perma.cc/6FSK-J6V9
+
 [2]
-https://www.hrw.org/americas/bolivia
+https://perma.cc/EQ6G-3VMQ
 
 
 
@@ -1209,17 +1255,22 @@ https://www.hrw.org/americas/bolivia
 
 *Sources*:
  [1]
-https://www.infodefensa.com/latam/2020/03/25/noticia-paises-latinoamerica-despliegan-combatir-covid19.html
+https://web.archive.org/web/20200326202408/https://www.infodefensa.com/latam/2020/03/25/noticia-paises-latinoamerica-despliegan-combatir-covid19.html
+
 [2]
-https://www.infodefensa.com/latam/2020/04/15/noticia-bolivia-presentan-balance-actuacion-durante-emergencia.html
+https://perma.cc/P9GS-3Z2B
+
 [3]
-https://www.infodefensa.com/latam/2020/04/29/noticia-bolivia-presentan-contingencia-sobre-cuarentena.html
+https://web.archive.org/web/20200505021101/https://www.infodefensa.com/latam/2020/04/29/noticia-bolivia-presentan-contingencia-sobre-cuarentena.html
+
 [4]
-https://elpais.com/internacional/2020-03-26/el-gobierno-de-bolivia-extiende-la-cuarentena-y-amenaza-a-quien-la-incumpla-con-hasta-10-anos-de-carcel.html
+https://perma.cc/W3GW-6V9L
 
 [5]
-https://www.boliviasegura.gob.bo/archivos/4245.doc.pdf
+https://web.archive.org/web/20200725145639/https://www.boliviasegura.gob.bo/archivos/4245.doc.pdf
+
 [6]
-https://www.boliviasegura.gob.bo/archivos/4276.doc.pdf
+https://web.archive.org/web/20200918124843/https://www.boliviasegura.gob.bo/archivos/4276.doc.pdf
+
 [7]
-https://www.minsalud.gob.bo/4124-ministerio-de-salud-capacita-a-miembros-de-las-fuerzas-armadas-y-la-policia-en-bioseguridad-y-equipos-de-proteccion-personal
+https://perma.cc/7CVS-LZV3

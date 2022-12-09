@@ -50,20 +50,19 @@ Note that emend is coded as 17 September 2020 for Q3 2020, because the state of 
 
 *Sources*:
  [1]
-https://namiblii.org/akn/na/act/p/2020/7/eng%402020-03-18
-
+https://perma.cc/H6T9-2ZQ5
 [2]
-https://laws.parliament.na/cms_documents/7148-f5bbadcff6.pdf
+https://web.archive.org/web/20200703064426/https://laws.parliament.na/cms_documents/7148-f5bbadcff6.pdf
 [3]
-https://www.namibian.com.na/199309/archive-read/Parliament-blesses-state-of-emergency
+https://perma.cc/7AJA-D6YQ
 [4]
-https://www.reuters.com/article/healthcoronavirus-namibia/namibia-to-allow-international-travel-lift-covid-state-of-emergency-idUSL4N2GE3MJ
+https://perma.cc/Z2N7-65CT
 [5]
-https://laws.parliament.na/annotated-laws-regulations/law-regulation.php?id=522
+https://web.archive.org/web/20220124165334/https://www.parliament.na/?id=522
 [6]
 https://laws.parliament.na/cms_documents/7554-f88039bcb2.pdf
 [7]
-https://www.namibiaembassyusa.org/sites/default/files/statements/Statement%20by%20Dr%20Kalumbi%20Shangula%20Details%20on%20COVID19%20Measures%2016.06.2021%20bis.pdf
+https://perma.cc/UX9R-4P3E
 
 
 
@@ -109,20 +108,19 @@ Note that emend is coded as 17 September 2020 for Q3 2020, because the state of 
 
 *Sources*:
  [1]
-https://namiblii.org/akn/na/act/p/2020/7/eng%402020-03-18
-
+https://perma.cc/73TV-N7SK
 [2]
-https://laws.parliament.na/cms_documents/7148-f5bbadcff6.pdf
+https://web.archive.org/web/20200703064426/https://laws.parliament.na/cms_documents/7148-f5bbadcff6.pdf
 [3]
-https://www.namibian.com.na/199309/archive-read/Parliament-blesses-state-of-emergency
+https://perma.cc/38VD-XAG4
 [4]
-https://www.reuters.com/article/healthcoronavirus-namibia/namibia-to-allow-international-travel-lift-covid-state-of-emergency-idUSL4N2GE3MJ
+https://perma.cc/RPS2-WH2P
 [5]
-https://laws.parliament.na/annotated-laws-regulations/law-regulation.php?id=522
+https://web.archive.org/web/20220124165334/https://www.parliament.na/?id=522
 [6]
 https://laws.parliament.na/cms_documents/7554-f88039bcb2.pdf
 [7]
-https://www.namibiaembassyusa.org/sites/default/files/statements/Statement%20by%20Dr%20Kalumbi%20Shangula%20Details%20on%20COVID19%20Measures%2016.06.2021%20bis.pdf
+https://perma.cc/UEG2-HYX5
 
 
 
@@ -166,20 +164,19 @@ Note that emend is coded as 17 September 2020 for Q3 2020, because the state of 
 
 *Sources*:
  [1]
-https://namiblii.org/akn/na/act/p/2020/7/eng%402020-03-18
-
+https://perma.cc/73TV-N7SK
 [2]
-https://laws.parliament.na/cms_documents/7148-f5bbadcff6.pdf
+https://web.archive.org/web/20200703064426/https://laws.parliament.na/cms_documents/7148-f5bbadcff6.pdf
 [3]
-https://www.namibian.com.na/199309/archive-read/Parliament-blesses-state-of-emergency
+https://perma.cc/38VD-XAG4
 [4]
-https://www.reuters.com/article/healthcoronavirus-namibia/namibia-to-allow-international-travel-lift-covid-state-of-emergency-idUSL4N2GE3MJ
+https://perma.cc/RPS2-WH2P
 [5]
-https://laws.parliament.na/annotated-laws-regulations/law-regulation.php?id=522
+https://web.archive.org/web/20220124165334/https://www.parliament.na/?id=522
 [6]
 https://laws.parliament.na/cms_documents/7554-f88039bcb2.pdf
 [7]
-https://www.namibiaembassyusa.org/sites/default/files/statements/Statement%20by%20Dr%20Kalumbi%20Shangula%20Details%20on%20COVID19%20Measures%2016.06.2021%20bis.pdf
+https://perma.cc/UEG2-HYX5
 
 
 
@@ -223,20 +220,19 @@ Note that emend is coded as 17 September 2020 for Q3 2020, because the state of 
 
 *Sources*:
  [1]
-https://namiblii.org/akn/na/act/p/2020/7/eng%402020-03-18
-
+https://perma.cc/H6T9-2ZQ5
 [2]
-https://laws.parliament.na/cms_documents/7148-f5bbadcff6.pdf
+https://web.archive.org/web/20200703064426/https://laws.parliament.na/cms_documents/7148-f5bbadcff6.pdf
 [3]
-https://www.namibian.com.na/199309/archive-read/Parliament-blesses-state-of-emergency
+https://perma.cc/7AJA-D6YQ
 [4]
-https://www.reuters.com/article/healthcoronavirus-namibia/namibia-to-allow-international-travel-lift-covid-state-of-emergency-idUSL4N2GE3MJ
+https://perma.cc/Z2N7-65CT
 [5]
-https://laws.parliament.na/annotated-laws-regulations/law-regulation.php?id=522
+https://web.archive.org/web/20220124165334/https://www.parliament.na/?id=522
 [6]
 https://laws.parliament.na/cms_documents/7554-f88039bcb2.pdf
 [7]
-https://www.namibiaembassyusa.org/sites/default/files/statements/Statement%20by%20Dr%20Kalumbi%20Shangula%20Details%20on%20COVID19%20Measures%2016.06.2021%20bis.pdf
+https://perma.cc/UX9R-4P3E
 
 
 
@@ -279,13 +275,13 @@ https://www.namibiaembassyusa.org/sites/default/files/statements/Statement%20by%
 
 *Sources*:
  [1]
-https://www.namibian.com.na/199309/archive-read/Parliament-blesses-state-of-emergency
+https://perma.cc/38VD-XAG4
 [2]
-https://www.reuters.com/article/healthcoronavirus-namibia/namibia-to-allow-international-travel-lift-covid-state-of-emergency-idUSL4N2GE3MJ
+https://perma.cc/RPS2-WH2P
 [3]
-https://laws.parliament.na/annotated-laws-regulations/law-regulation.php?id=522
+https://web.archive.org/web/20220124165334/https://www.parliament.na/?id=522
 [4]
-https://gazettes.africa/archive/na/2021/na-government-gazette-dated-2021-02-24-no-7467.pdf
+https://perma.cc/9DWC-AVW9
 [5]
 https://laws.parliament.na/cms_documents/government-notice-233-e896ba2aab.pdf
 [6]
@@ -329,13 +325,14 @@ https://laws.parliament.na/cms_documents/7554-f88039bcb2.pdf
 
 *Sources*:
  [1]
-https://www.namibian.com.na/199309/archive-read/Parliament-blesses-state-of-emergency
+https://perma.cc/38VD-XAG4
 [2]
-https://www.reuters.com/article/healthcoronavirus-namibia/namibia-to-allow-international-travel-lift-covid-state-of-emergency-idUSL4N2GE3MJ
+https://perma.cc/RPS2-WH2P
 [3]
-https://laws.parliament.na/annotated-laws-regulations/law-regulation.php?id=522
+
+https://web.archive.org/web/20220124165334/https://www.parliament.na/?id=522
 [4]
-https://gazettes.africa/archive/na/2021/na-government-gazette-dated-2021-02-24-no-7467.pdf
+https://perma.cc/9DWC-AVW9
 [5]
 https://laws.parliament.na/cms_documents/government-notice-233-e896ba2aab.pdf
 [6]
@@ -382,9 +379,9 @@ https://laws.parliament.na/cms_documents/7554-f88039bcb2.pdf
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Namibia_2014?lang=en
+https://perma.cc/65GA-7TMM
 [2]
-https://www.lac.org.na/laws/2015/5740.pdf
+https://perma.cc/M9GN-GVJA
 
 
 
@@ -427,12 +424,11 @@ https://www.lac.org.na/laws/2015/5740.pdf
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Namibia_2014?lang=en
+https://perma.cc/65GA-7TMM
 [2]
-https://www.namibian.com.na/199309/archive-read/Parliament-blesses-state-of-emergency
-
+https://perma.cc/38VD-XAG4
 [3]
-https://www.lac.org.na/laws/2015/5740.pdf
+https://perma.cc/M9GN-GVJA
 
 
 
@@ -479,14 +475,13 @@ https://www.lac.org.na/laws/2015/5740.pdf
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Namibia_2014?lang=en
+https://perma.cc/65GA-7TMM
 [2]
-https://www.namibian.com.na/199309/archive-read/Parliament-blesses-state-of-emergency
-
+https://perma.cc/38VD-XAG4
 [3]
-https://www.lac.org.na/laws/2015/5740.pdf
+https://perma.cc/M9GN-GVJA
 [4]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+https://perma.cc/P2MN-8NYW
 
 
 
@@ -525,9 +520,8 @@ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
  The legislature has not been dissolved, suspended, or equivalent with reference to Covid-19. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-
-https://www.parliament.na
+ https://perma.cc/P2MN-8NYW
+https://perma.cc/P94A-9F7K
 
 
 
@@ -566,9 +560,8 @@ https://www.parliament.na
  The legislature has not been dissolved, suspended, or equivalent with reference to Covid-19. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-
-https://www.parliament.na
+ https://perma.cc/P2MN-8NYW
+https://perma.cc/P94A-9F7K
 
 
 
@@ -613,27 +606,35 @@ https://www.parliament.na
 
 *Sources*:
  [1]
-https://laws.parliament.na/cms_documents/7159-0ec73ee461.pdf
+https://web.archive.org/web/20200704155813/https://laws.parliament.na/cms_documents/7159-0ec73ee461.pdf
 [2]
-https://namibiatourism.com.na/uploads/file_uploads/17.04.2020_Government%20Gazette%20no.%207180-Proc%20N13_Amendment%20of%20State%20of%20Emergency%20Regulations%20Namibian%20Constitution_COVID-19.pdf
+[1]
+https://perma.cc/X5ZU-BNRJ
 [3]
-https://laws.parliament.na/cms_documents/7203-c6a9bfc0f8.pdf
+https://web.archive.org/web/20200703070511/https://laws.parliament.na/cms_documents/7203-c6a9bfc0f8.pdf
 [4]
-https://gazettes.africa/archive/na/2020/na-government-gazette-dated-2020-06-01-no-7225.pdf
+https://perma.cc/U9Y8-QJGC
+
 [5]
-https://gazettes.africa/archive/na/2020/na-government-gazette-dated-2020-06-08-no-7235.pdf
+https://perma.cc/A7AU-DZEV
+
 [6]
-https://gazettes.africa/archive/na/2020/na-government-gazette-dated-2020-06-22-no-7251.pdf
+https://perma.cc/L5MY-DLXP
+
 [7]
-https://namiblii.org/akn/na/act/p/2020/28/eng%402020-06-28
+https://perma.cc/ME8G-GJZX
+
 [8]
 https://laws.parliament.na/cms_documents/7270-80940f4318.pdf
+
 [9]
 https://laws.parliament.na/cms_documents/7307-80c72a8aee.pdf
+
 [10]
 https://laws.parliament.na/cms_documents/7320-b40a8a9d4b.pdf
+
 [11]
-https://laws.parliament.na/annotated-laws-regulations/law-regulation.php?id=522
+https://web.archive.org/web/20220124165334/https://www.parliament.na/?id=522
 [12]
 https://laws.parliament.na/cms_documents/7554-f88039bcb2.pdf
 
@@ -680,11 +681,11 @@ https://laws.parliament.na/cms_documents/7554-f88039bcb2.pdf
 
 *Sources*:
  [1]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/namibia/
+https://perma.cc/73TV-N7SK
 [2]
-https://www.amnesty.org/en/countries/africa/namibia/
+https://perma.cc/6C3D-UZB8
 [3]
-https://www.hrw.org/africa/namibia
+https://perma.cc/2UAM-TUX7
 
 
 
@@ -734,13 +735,13 @@ https://www.hrw.org/africa/namibia
 
 *Sources*:
  [1]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/namibia/
+https://perma.cc/678F-ND5T
 [2]
-https://www.amnesty.org/en/countries/africa/namibia/
+https://perma.cc/3N49-6FW9
 [3]
-https://www.hrw.org/africa/namibia
+https://perma.cc/J73W-TSXV
 [4]
-https://datastudio.google.com/u/0/reporting/1sHT8quopdfavCvSDk7t-zvqKIS0Ljiu0/page/dHMKB
+https://perma.cc/FKJ3-S727
 
 
 
@@ -785,11 +786,11 @@ https://datastudio.google.com/u/0/reporting/1sHT8quopdfavCvSDk7t-zvqKIS0Ljiu0/pa
 
 *Sources*:
  [1]
-https://namibiatourism.com.na/uploads/file_uploads/17.04.2020_Government%20Gazette%20no.%207180-Proc%20N13_Amendment%20of%20State%20of%20Emergency%20Regulations%20Namibian%20Constitution_COVID-19.pdf
+https://perma.cc/X5ZU-BNRJ
 [2]
 https://laws.parliament.na/cms_documents/7342-3cc52d5b73.pdf
 [3]
-https://gazettes.africa/archive/na/2021/na-government-gazette-dated-2021-04-30-no-7522.pdf
+https://perma.cc/7KBS-G98M
 
 
 
@@ -829,11 +830,11 @@ https://gazettes.africa/archive/na/2021/na-government-gazette-dated-2021-04-30-n
 
 *Sources*:
  [1]
-https://namibiatourism.com.na/uploads/file_uploads/17.04.2020_Government%20Gazette%20no.%207180-Proc%20N13_Amendment%20of%20State%20of%20Emergency%20Regulations%20Namibian%20Constitution_COVID-19.pdf
+https://perma.cc/X5ZU-BNRJ
 [2]
 https://laws.parliament.na/cms_documents/7342-3cc52d5b73.pdf
 [3]
-https://gazettes.africa/archive/na/2021/na-government-gazette-dated-2021-04-30-no-7522.pdf
+https://perma.cc/7KBS-G98M
 
 
 
@@ -873,11 +874,11 @@ https://gazettes.africa/archive/na/2021/na-government-gazette-dated-2021-04-30-n
 
 *Sources*:
  [1]
-https://namibiatourism.com.na/uploads/file_uploads/17.04.2020_Government%20Gazette%20no.%207180-Proc%20N13_Amendment%20of%20State%20of%20Emergency%20Regulations%20Namibian%20Constitution_COVID-19.pdf
+https://perma.cc/X5ZU-BNRJ
 [2]
 https://laws.parliament.na/cms_documents/7342-3cc52d5b73.pdf
 [3]
-https://gazettes.africa/archive/na/2021/na-government-gazette-dated-2021-04-30-no-7522.pdf
+https://perma.cc/7KBS-G98M
 
 
 
@@ -920,9 +921,9 @@ https://gazettes.africa/archive/na/2021/na-government-gazette-dated-2021-04-30-n
 
 *Sources*:
  [1]
-https://rsf.org/en/namibia
+https://perma.cc/KAA3-V3DE
 [2]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/namibia/
+https://perma.cc/678F-ND5T
 
 
 
@@ -965,9 +966,9 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/nam
 
 *Sources*:
  [1]
-https://rsf.org/en/namibia
+https://perma.cc/KAA3-V3DE
 [2]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/namibia/
+https://perma.cc/678F-ND5T
 
 
 
@@ -1009,8 +1010,7 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/nam
  No direct incidents were found of limitations on reporting about other news due to the Covid-19 regulations. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/namibia/
-https://rsf.org/en/namibia
+ https://perma.cc/678F-ND5T
 
 
 
@@ -1054,17 +1054,17 @@ https://rsf.org/en/namibia
 
 *Sources*:
  [1]
-https://rsf.org/en/namibia
+https://perma.cc/KAA3-V3DE
 [2]
-https://www.namibian.com.na/199747/archive-read/Media-bemoan-exclusion-from-press-briefing
+https://perma.cc/J7B6-QUJ3
 [3]
-https://allafrica.com/stories/202008290076.html
+https://perma.cc/JL8H-FKCM
 [4]
-https://www.namibian.com.na/201403/archive-read/Presidency-security-unit-charged-with-assault
+https://perma.cc/V5NE-KGUA
 [5]
-https://allafrica.com/stories/202006030808.html
+https://perma.cc/ZM3V-XNTJ
 [6]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/namibia/
+https://perma.cc/678F-ND5T
 
 
 
@@ -1107,9 +1107,9 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/nam
 
 *Sources*:
  [1]
-https://rsf.org/en/namibia
+https://perma.cc/KAA3-V3DE
 [2]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/namibia/
+https://perma.cc/678F-ND5T
 
 
 
@@ -1152,13 +1152,14 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/nam
 
 *Sources*:
  [1]
-https://www.namibian.com.na/201403/archive-read/Presidency-security-unit-charged-with-assault
+https://perma.cc/7X8N-8Y2U
 [2]
-https://allafrica.com/stories/202006030808.html
+https://perma.cc/ZM3V-XNTJ
+
 [3]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/namibia/
+https://perma.cc/678F-ND5T
 [4]
-https://rsf.org/en/namibia
+https://perma.cc/KAA3-V3DE
 
 
 
@@ -1203,12 +1204,11 @@ https://rsf.org/en/namibia
 
 *Sources*:
  [1]
-https://www.facebook.com/www.nbcnews.na/posts/namibia-joins-other-african-countries-in-supporting-madagascars-alleged-covid-19/3169454246439083/
+https://perma.cc/JRF4-M8L6
 [2]
-https://www.youtube.com/watch?v=bcPAjL84hck
-
+https://perma.cc/QG8G-NEF3
 [3]
-http://www.mhss.gov.na/corona
+https://perma.cc/ULW8-55EV
 [4]
 https://namibiacovid19.gov.na/faq
 
@@ -1255,16 +1255,15 @@ https://namibiacovid19.gov.na/faq
 
 *Sources*:
  [1]
-https://www.namibian.com.na/200996/archive-read/Two-men-claim-police-brutality
-
+https://perma.cc/D3GN-QDVL
 [2]
-https://www.namibian.com.na/201403/archive-read/Presidency-security-unit-charged-with-assault
+https://perma.cc/3BHG-HCTK
 [3]
-https://allafrica.com/stories/202006030808.html
+https://perma.cc/NGG2-82KX
 [4]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/namibia/
+https://perma.cc/678F-ND5T
 [5]
-https://www.hrw.org/africa/namibia#
+https://perma.cc/J73W-TSXV
 
 
 
@@ -1306,20 +1305,9 @@ https://www.hrw.org/africa/namibia#
  The military has assisted the police in enforcing lockdowns. The state of emergency and the lockdowns and curfews were lifted on September 17 2020. 
 
 *Sources*:
- https://allafrica.com/stories/202005060826.html
+ https://perma.cc/QVA2-ZEXC
+https://perma.cc/G9NY-9ZJS
+https://web.archive.org/web/20200326120633/https://www.nbc.na/news/ndf-warns-against-non-adherence-lockdown-regulations.29517
 
-
-
-https://www.namibian.com.na/199534/archive-read/Military-to-enforce-lockdown
-
-
-
-https://www.nbc.na/news/ndf-warns-against-non-adherence-lockdown-regulations.29517
-
-
-
-https://wiki.unece.org/display/CTRBSBC/Namibia
-
-
-
-https://www.namibian.com.na/93919/read/Lockdown-Without-a-Plan
+https://perma.cc/NA4L-E6NY
+https://perma.cc/NH4R-49TS

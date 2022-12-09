@@ -45,11 +45,8 @@
  The state of sanitary emergency was declared via the Decree nº 093/2020 on March 13. 
 
 *Sources*:
- [1]
-https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
-
-[2]
-https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/lacalle-medidas-coronavirus-conferencia
+ [1]	perma.cc/ZRL8-U8FZ
+[2]	perma.cc/75PJ-2QK9
 
 
 
@@ -88,11 +85,8 @@ https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/lacalle-medidas
 *No comment provided* 
 
 *Sources*:
- [1]
-https://www.impo.com.uy/bases/leyes/9202-1934
-
-[2]
-https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
+ [1]	perma.cc/D9XE-HRR7
+[2]	perma.cc/ZRL8-U8FZ
 
 
 
@@ -131,11 +125,8 @@ https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
 *No comment provided* 
 
 *Sources*:
- [1]
-https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
-
-[2]
-https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/lacalle-medidas-coronavirus-conferencia
+ [1]	perma.cc/ZRL8-U8FZ
+[2]	perma.cc/75PJ-2QK9
 
 
 
@@ -174,11 +165,8 @@ https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/lacalle-medidas
  The sanitary emergency is still in place and the state of sanitary emergency does not have a a fixed end date, but certain restrictions on mobility, access to public spaces, and attendance at sporting events have been at times lifted. When they are reimposed these specific measures have fixed end dates. 
 
 *Sources*:
- [1]
-https://www.elpais.com.uy/informacion/politica/rige-emergencia-sanitaria.html
-
-[2]
-https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/medidas-gobierno-educacion-emergencia-sanitaria-covid19
+ [1]	perma.cc/RY3N-EMK9
+[2]	perma.cc/5Q7D-C38E
 
 
 
@@ -220,8 +208,7 @@ https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/medidas-gobiern
  The law doesn't establish a limit. 
 
 *Sources*:
- [1]
-https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
+ [1]	perma.cc/ZRL8-U8FZ
 
 
 
@@ -260,8 +247,7 @@ https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
  Left blank as there is no fixed end date to the state of sanitary emergency. 
 
 *Sources*:
- [1]
-https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
+ [1]	perma.cc/ZRL8-U8FZ
 
 
 
@@ -303,11 +289,8 @@ https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
  Law nº 9.202 attributes the Executive with the competence in public health and the same law affirms that the Ministry of Public Health can adopt the necessary measures. This state was declared in the Council of Ministers with the President. 
 
 *Sources*:
- [1]
-https://www.impo.com.uy/bases/leyes/9202-1934
-
-[2]
-https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
+ [1]	perma.cc/D9XE-HRR7
+[2]	perma.cc/ZRL8-U8FZ
 
 
 
@@ -349,8 +332,7 @@ https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
  The law does not require legislative approval. 
 
 *Sources*:
- [1]
-https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
+ [1]	perma.cc/ZRL8-U8FZ
 
 
 
@@ -396,11 +378,8 @@ https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
  The congress is partialy working remotely, but the executive has the authority to rule by decree on covid-19 related issues. 
 
 *Sources*:
- [1]
-https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
-
-[2]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+ [1]	perma.cc/8ZXX-3EWB
+[2]	perma.cc/N963-SEN9
 
 
 
@@ -523,11 +502,8 @@ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
 With the significant spike in cases beginning in late 2020, there is not much evidence of a sub-national variance in the response. 
 
 *Sources*:
- [1]
-https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/medidas-gobierno-sanitaria-emergencia-sanitaria-covid19
-
-[2]
-https://www.elpais.com.uy/informacion/salud/coronavirus-uruguay-departamentos-hay-casos-confirmados.html
+ [1]	perma.cc/C9WU-VMY7
+[2]	perma.cc/38PM-7JTD
 
 
 
@@ -571,15 +547,10 @@ https://www.elpais.com.uy/informacion/salud/coronavirus-uruguay-departamentos-ha
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- [1]
-https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/medidas-gobierno-sanitaria-emergencia-sanitaria-covid19
-
-[2]
-https://www.hrw.org/americas/uruguay
-
-[3]
-https://www.amnesty.org/en/countries/americas/uruguay/
-https://monitor.civicus.org/country/uruguay/
+ [1]	perma.cc/5Q7D-C38E
+[2]	perma.cc/FJW8-WSBG
+[3]	perma.cc/2GYL-EVG3
+[4]	perma.cc/K5KV-E3YH
 
 
 
@@ -628,17 +599,10 @@ https://monitor.civicus.org/country/uruguay/
  The emergency measures have not de-jure violated non-derogable rights as defined by the ICCPR. 
 
 *Sources*:
- [1]
-https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/medidas-gobierno-sanitaria-emergencia-sanitaria-covid19
-
-[2]
-https://www.hrw.org/americas/uruguay
-
-[3]
-https://www.amnesty.org/en/countries/americas/uruguay/
-
-[4]
-https://monitor.civicus.org/country/uruguay/
+ [1]	perma.cc/C9WU-VMY7
+[2]	perma.cc/3B27-7RAS
+[3]	perma.cc/8WFQ-HP36
+[4]	perma.cc/X7SM-ZLWQ
 
 
 
@@ -682,14 +646,9 @@ https://monitor.civicus.org/country/uruguay/
  The emergency measures do not de-jure limit media freedom. 
 
 *Sources*:
- [1]
-https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
-
-[2]
-https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/medidas-gobierno-sanitaria-emergencia-sanitaria-covid19
-
-[3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+ [1]	perma.cc/B2P8-JHW4
+[2]	perma.cc/5CGC-728H
+[3]	perma.cc/GU2T-ECBJ
 
 
 
@@ -809,17 +768,10 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
  No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. 
 
 *Sources*:
- [1]
-https://rsf.org/en/countries
-
-[2]
-https://ipi.media/covid19-media-freedom-monitoring/
-
-[3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
-
-[4]
-https://cpj.org/americas/uruguay/
+ [1]	perma.cc/AF9M-CP2F
+[2]	perma.cc/F3WW-QFAQ
+[3]	perma.cc/V84L-YRMD
+[4]	perma.cc/K6ZL-MX32
 
 
 
@@ -861,17 +813,10 @@ https://cpj.org/americas/uruguay/
  No evidence was found of de-facto limitations on reporting about the government response to the pandemic. 
 
 *Sources*:
- [1]
-https://rsf.org/en/countries
-
-[2]
-https://ipi.media/covid19-media-freedom-monitoring/
-
-[3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
-
-[4]
-https://cpj.org/americas/uruguay/
+ [1]	perma.cc/AF9M-CP2F
+[2]	perma.cc/F3WW-QFAQ
+[3]	perma.cc/V84L-YRMD
+[4]	perma.cc/K6ZL-MX32
 
 
 
@@ -913,23 +858,12 @@ https://cpj.org/americas/uruguay/
  No evidence was found of de-facto limitations on reporting about non-covid-19 related news due to the pandemic. There are sanctions in the Ley de Urgente Consideración nº 19889 approved on July 9, 2020 for insulting police officers, but the text of the law specifies that this shall not apply to the freedom of press. 
 
 *Sources*:
- [1]
-https://rsf.org/en/countries
-
-[2]
-https://ipi.media/covid19-media-freedom-monitoring/
-
-[3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
-
-[4]
-https://cpj.org/americas/uruguay/
-
-[5]
-https://monitor.civicus.org/updates/2020/10/08/new-government-imposes-legislative-setbacks-civic-space-uruguay/
-
-[6]
-https://www.impo.com.uy/bases/leyes/19889-2020
+ [1]	perma.cc/AF9M-CP2F
+[2]	perma.cc/F3WW-QFAQ
+[3]	perma.cc/V84L-YRMD
+[4]	perma.cc/K6ZL-MX32
+[5]	perma.cc/6FGS-PF7K
+[6]	perma.cc/9EEV-JABH
 
 
 
@@ -972,17 +906,10 @@ https://www.impo.com.uy/bases/leyes/19889-2020
  No evidence was found of limitations on access to information. 
 
 *Sources*:
- [1]
-https://rsf.org/en/countries
-
-[2]
-https://ipi.media/covid19-media-freedom-monitoring/
-
-[3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
-
-[4]
-https://cpj.org/americas/uruguay/
+ [1]	perma.cc/AF9M-CP2F
+[2]	perma.cc/F3WW-QFAQ
+[3]	perma.cc/V84L-YRMD
+[4]	perma.cc/K6ZL-MX32
 
 
 
@@ -1024,14 +951,9 @@ https://cpj.org/americas/uruguay/
  No evidence of verbal harassment of journalists by government agents was found. 
 
 *Sources*:
- []
-https://rsf.org/en/countries
-
-[]
-https://ipi.media/covid19-media-freedom-monitoring/
-
-[]
-https://cpj.org/americas/uruguay/
+ [1]	perma.cc/X28G-P2SV
+[2]	perma.cc/J2UK-SH8X
+[3]	perma.cc/SY57-ME54
 
 
 
@@ -1073,14 +995,9 @@ https://cpj.org/americas/uruguay/
  No evidence of physical harassment of journalists by government agents was found. 
 
 *Sources*:
- [1]
-https://rsf.org/en/countries
-
-[2]
-https://ipi.media/covid19-media-freedom-monitoring/
-
-[3]
-https://cpj.org/americas/uruguay/
+ [1]	perma.cc/X28G-P2SV
+[2]	perma.cc/J2UK-SH8X
+[3]	perma.cc/SY57-ME54
 
 
 
@@ -1125,7 +1042,7 @@ https://cpj.org/americas/uruguay/
 
 *Sources*:
  [1]
-https://www.gub.uy/ministerio-salud-publica/comunicacion/publicaciones/preguntas-respuestas
+https://web.archive.org/web/20200406225512/https://www.gub.uy/ministerio-salud-publica/comunicacion/publicaciones/preguntas-respuestas
 
 
 
@@ -1170,18 +1087,11 @@ https://www.gub.uy/ministerio-salud-publica/comunicacion/publicaciones/preguntas
 There are reports that security forces engaged in violence to disperse agglomerations that direspected social distancing measures. The incident happened in November, 2020, in Montevideo. The Inter-American Commission on Human Rights issued a statement expressing concern over it, to which the Foreign Ministry replied that there was no police misconduct. In May 2021 there were accusations of police misconduct that the Minister of Interior said would be investigated. 
 
 *Sources*:
- [1]
-https://www.elpais.com.uy/informacion/politica/larranaga-seguiran-fogoneando-ese-relato-parece-apuesta-politica.html
-
-[2]
-https://www.montevideo.com.uy/Noticias/Once-detenidos-y-dos-policias-con-lesiones-leves-en-enfrentamiento-en-Plaza-Seregni-uc769366
-
-[3]
-https://www.elpais.com.uy/informacion/politica/plaza-seregni-cancilleria-respondio-mensaje-comision-interamericana-dd-hh.html
-[4]
-https://www.montevideo.com.uy/Noticias/Larranaga-sobre-denuncias-de-abuso-policial--Que-las-traigan-que-vamos-a-investigar--uc786495
-[5]
-https://www.montevideo.com.uy/Noticias/INDDHH-determino-que-hubo-abuso-policial-en-operativo-con-persona-en-situacion-de-calle-uc784482
+ [1]	perma.cc/63TZ-75HA
+[2]	perma.cc/MV7F-RFGY
+[3]	perma.cc/U8V5-U7DN
+[4]	perma.cc/XB24-9HSZ
+[5]	perma.cc/JCM2-PCXZ
 
 
 
@@ -1223,8 +1133,5 @@ https://www.montevideo.com.uy/Noticias/INDDHH-determino-que-hubo-abuso-policial-
  There is no indication that the military has been tasked with enforcing national confinement measures. 
 
 *Sources*:
- [1]
-https://www.bbc.com/mundo/noticias-52928601
-
-[2]
-https://lta.reuters.com/articulo/salud-uruguay-coronavirus-idLTAKBN2341OF-OUSLT
+ [1]	perma.cc/9T6H-2NLA
+[2]	perma.cc/8UNS-PB9Z

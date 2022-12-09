@@ -22,12 +22,19 @@
  I did not find any information on covid-19 related matters deviating from the official information provided by the WHO. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
+ https://perma.cc/HJ6U-KMYS
 
 
-https://rsf.org/en/afghanistan
 
-https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
+
+
+https://perma.cc/LV5G-JVWX
+
+
+
+
+
+https://perma.cc/2BVQ-HDX4
 
 
 
@@ -52,10 +59,12 @@ https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
  official website with information on Covid-19; no reports on disinformation found. On March 23 the Prime Minister sent a voice message asking citizens to “protect themselves from the media” (1) (in addition to other measures such as washing hands), which is not considered disinformation. No new information found since June 2020. 
 
 *Sources*:
- https://shendetesia.gov.al/koronavirusi-i-ri-dhe-masat-ndaj-tij/
-https://ipi.media/albania/
-https://rsf.org/en/albania
-https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/
+ https://perma.cc/G9WP-P9XC
+https://perma.cc/S7NX-SY26
+
+https://perma.cc/2GYV-KBRJ
+
+https://perma.cc/Y9VX-3X3D
 (1)
 
 
@@ -83,20 +92,27 @@ https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/
 The government however decided to gradually abandon chloroquine treatment, and started looking for alternatives in August 2020 (1). In particular, the Algerian Ministry of Health is directed toward the use of corticosteroid therapy for Covid-19 patients, an approach that is approved by WHO (2). 
 
 *Sources*:
- https://algeriepartplus.com/document-exclusif-lalgerie-abandonne-progressivement-le-traitement-a-base-de-chloroquine-et-soriente-vers-la-corticotherapie/
+ https://perma.cc/3337-UWTY
 (1)
-https://www.who.int/news-room/feature-stories/detail/who-updates-clinical-care-guidance-with-corticosteroid-recommendations
+
+https://perma.cc/2CMK-DLF4
 (2)
-https://afrique.le360.ma/maroc-algerie-autres-pays/politique/2020/06/01/30726-covid-19-voici-pourquoi-les-pays-africains-ont-dit-non-loms-et-poursuivent-le
-http://www.aps.dz/sante-science-technologie/108504-covid-19-saidal-entame-la-production-davantage-de-quantites-d-hydroxychloroquine
-https://www.lemonde.fr/afrique/article/2020/05/27/coronavirus-l-algerie-ne-compte-pas-renoncer-a-l-hydroxychloroquine_6040901_3212.html
+
+https://perma.cc/TXD5-QFUR
+
+https://perma.cc/8FRH-ZMHL
+
+https://perma.cc/39NP-GC3J
 (4)
-https://www.africanews.com/2020/05/27/covid-19-treatment-algeria-to-continue-using-hydroxychloroquine//
+
+https://perma.cc/7K8R-46RW
 (5)
-https://www.tsa-algerie.com/covid-19-pourquoi-lalgerie-utilise-de-moins-en-moins-la-chloroquine/
+https://perma.cc/QR69-9SET
 (6)
-http://covid19.sante.gov.dz/fr/accueil/
-http://covid19.sante.gov.dz/fr/consignes-sanitaires-2/
+https://perma.cc/VB5F-PSRG
+https://perma.cc/SH4A-QJQN
+
+
 
 
 
@@ -122,13 +138,37 @@ http://covid19.sante.gov.dz/fr/consignes-sanitaires-2/
  Evidence shows that the governement has been aligned to information provided by WHO. However, there are misinformation and rumors circulating around the country, and the government is cooperating with WHO to combat misinformation. 
 
 *Sources*:
- https://reliefweb.int/report/angola/battling-covid-19-rumours-and-hoaxes-angola
-https://reliefweb.int/report/angola/battling-covid-19-rumours-and-hoaxes-angola
-https://www.un.org/africarenewal/news/coronavirus/stopping-covid-19-reaching-family-farmers-angola
-https://rsf.org/en/countries
-https://ipi.media/covid19-media-freedom-monitoring/
-https://governo.gov.ao/ao/noticias/
-https://reliefweb.int/report/angola/battling-covid-19-rumours-and-hoaxes-angola
+ https://perma.cc/6YAU-KRJT
+
+
+
+
+
+https://perma.cc/9C3A-KHXT
+
+
+
+
+
+https://perma.cc/5Y2A-5YVB
+
+
+
+
+
+https://perma.cc/S69P-L24K
+
+
+
+
+
+https://perma.cc/GLE6-SKF7
+
+
+
+
+
+https://perma.cc/9M88-UF3D
 
 
 
@@ -154,14 +194,16 @@ https://reliefweb.int/report/angola/battling-covid-19-rumours-and-hoaxes-angola
 
 *Sources*:
  [1]
-https://www.argentina.gob.ar/salud/coronavirus-COVID-19
+https://perma.cc/8WZS-QAQ8
+
 [2]
-https://www.argentina.gob.ar/noticias/no-compartamos-noticias-falsas
+https://perma.cc/Q9BF-QSMP
+
 [3]
-https://www.clarin.com/politica/coronavirus-argentina-alberto-fernandez-advirtio-informacion-falsa-whatsapp-redes-sociales_0_bx7N8CrKx.html
+https://perma.cc/5NDB-NQ32
 
 [4]
-https://confiar.telam.com.ar/
+https://perma.cc/89BF-43J6
 
 
 
@@ -186,9 +228,19 @@ https://confiar.telam.com.ar/
  Official website with information on covid-19; no reports on disinformation found since 11 March 2020. 
 
 *Sources*:
- https://ncdc.am/
-https://ipi.media/armenia/
-https://rsf.org/en/armenia
+ https://perma.cc/U774-DZ9R
+
+
+
+
+
+https://perma.cc/4KHP-HN4A
+
+
+
+
+
+https://perma.cc/M3CR-YXXH
 
 
 
@@ -213,12 +265,12 @@ https://rsf.org/en/armenia
  There seem to be no deviations from the information provided by WHO and that of the Australian Government on Covid-19, and no complaints or accusations of any such disinformation have been found. 
 
 *Sources*:
- https://www.australia.gov.au
+ https://perma.cc/7D6V-5S88
 
-https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert
+https://perma.cc/A27M-Z3HK
 
-https://www.australia.gov.au/Covid-19-mythbusting
-https://www.health.gov.au/initiatives-and-programs/Covid-19-vaccines/is-it-true
+https://web.archive.org/web/20200524232356/https://www.australia.gov.au/Covid-19-mythbusting
+https://perma.cc/FC7V-HQMM
 
 
 
@@ -243,8 +295,13 @@ https://www.health.gov.au/initiatives-and-programs/Covid-19-vaccines/is-it-true
  The information provided on Covid-19 are aligned with that of the WHO, and there are no indications that Austria has provided any disinformation. 
 
 *Sources*:
- https://www.sozialministerium.at/en/Coronavirus/New-coronavirus-(COVID-19).html
-https://www.austria.info/en/service-and-facts/coronavirus-information#safety-measures
+ https://perma.cc/PQR5-M6XA
+
+
+
+
+
+https://perma.cc/N6AP-8BTV
 
 
 
@@ -269,9 +326,9 @@ https://www.austria.info/en/service-and-facts/coronavirus-information#safety-mea
  official website with information on covid-19; no reports on disinformation found. No new information found since June 2020. 
 
 *Sources*:
- https://koronavirusinfo.az/az
-https://rsf.org/en/azerbaijan
-https://ipi.media/azerbaijan/
+ https://perma.cc/YJ9V-BA7P
+https://perma.cc/SV3G-GUWE
+https://perma.cc/5XFX-NL8F
 
 
 
@@ -296,7 +353,7 @@ https://ipi.media/azerbaijan/
  I did not find any information on covid-19 related matters deviating from the official information provided by the WHO. 
 
 *Sources*:
- https://dghs.gov.bd/index.php/en/home/5343-covid-19-update
+ https://perma.cc/2ZNT-KBPT
 
 
 
@@ -327,17 +384,18 @@ Q4 2020:  no new disinformation from the government, except for a statement by A
 Q1 2021, Q2 2021: I have not found any further disinformation from the government. Because a long time has passed since the initial statements, govmis is coded as 0. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/05/how-not-to-handle-a-pandemic/
-http://www.minzdrav.gov.by/ru/dlya-belorusskikh-grazhdan/COVID-19/
-https://www.nytimes.com/2020/04/02/world/asia/coronavirus-denial-post-soviet.html
-https://www.bbc.com/russian/news-53570933
-https://www.nytimes.com/2020/04/25/world/europe/belarus-lukashenko-coronavirus.html
-https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
-https://www.belta.by/society/view/minzdrav-rekomenduet-sobljudat-pravila-sotsialnogo-distantsirovanija-408211-2020/
-https://t.me/pul_1/1765
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+ https://perma.cc/2JNM-6ZJ8
+https://perma.cc/QQ7H-6GYH
+https://perma.cc/UH4T-67M4
+https://perma.cc/R3F6-9HBA
+https://perma.cc/EF8J-DF6U
+https://perma.cc/A7DY-GZVL
+https://perma.cc/3FLU-83YN
+https://perma.cc/BDV6-EX3S
+https://perma.cc/NYF2-EBUD
 (1)
-https://www.hrw.org/news/2020/05/06/belaruss-parade-plans-defy-public-health-recommendations
+
+https://perma.cc/28JM-GES7
 (2)
 
 
@@ -363,11 +421,9 @@ https://www.hrw.org/news/2020/05/06/belaruss-parade-plans-defy-public-health-rec
  Belgium's national information resources website on Covid-19 is in line with WHO guidlines. Also, the government has tried to limit disinformation coming from non-official sources. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/belgium-report-covid-19-april-2020_en.pdf
-
-https://www.ecdc.europa.eu/en/COVID-19/national-sources
-
-https://www.info-coronavirus.be/en/faq/#faq
+ https://perma.cc/5AVN-WXGV
+https://perma.cc/58GL-A8DW
+https://perma.cc/TV66-D6VU
 
 
 
@@ -393,18 +449,14 @@ https://www.info-coronavirus.be/en/faq/#faq
  
 
 *Sources*:
- https://www.lespharaons.com/2020/04/28/chloroquine-voici-le-protocole-operationnel-contre-la-covid-19-utilise-au-benin/
-
-https://www.theafricareport.com/25416/to-fight-coronavirus-burkina-faso-is-tempted-by-chloroquine/
-
+ https://perma.cc/N92B-8HP5
+https://perma.cc/ZBD2-25HJ
 https://archives.banouto.info/article/bien-etre/20200428-coronavirus-au-bnin-les-personnes-ligibles-au-traitement--la-chloroquine/
-
-https://www.24haubenin.info/?Le-traitement-preventif-a-la-Chloroquine-deconseille
-
-https://www.dw.com/fr/en-afrique-des-m%C3%A9thodes-alternatives-contre-la-covid-19/a-56402022
+https://perma.cc/CW26-6Y2P
+https://perma.cc/KY3K-BY9Q
 (5)
 
-https://sante.gouv.bj/assets/ressources/pdf/COVID%2019%20-%20COMMUNIQUE%20MS.pdf
+https://perma.cc/8KAY-7LYP
 (6)
 
 
@@ -431,7 +483,7 @@ https://sante.gouv.bj/assets/ressources/pdf/COVID%2019%20-%20COMMUNIQUE%20MS.pdf
 
 *Sources*:
  [1]
-https://www.boliviasegura.gob.bo/index.php
+https://perma.cc/EU99-QFER
 
 
 
@@ -456,12 +508,11 @@ https://www.boliviasegura.gob.bo/index.php
  official website with information on covid-19; no reports on disinformation found. No new information found since June 2020. 
 
 *Sources*:
- https://covid-19.ba/
-https://koronavirususrpskoj.com/
-https://covid19.fmoh.gov.ba/preporuke
-
-https://ipi.media/bosnia-and-herzegovina/
-https://rsf.org/en/bosnia-herzegovina
+ https://perma.cc/3L6P-8XQA
+https://perma.cc/36MH-LRMG
+https://perma.cc/SJ3Y-9LSQ
+https://perma.cc/9GE3-2JL6
+https://perma.cc/8LR2-3DCJ
 
 
 
@@ -487,9 +538,9 @@ https://rsf.org/en/bosnia-herzegovina
 
 *Sources*:
  [1]
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+https://perma.cc/7LBA-UP5G
 [2]
-https://www.gov.bw/about-covid-19
+https://perma.cc/Z8SP-TMNU
 
 
 
@@ -515,47 +566,48 @@ https://www.gov.bw/about-covid-19
 
 *Sources*:
  [1]
-https://www1.folha.uol.com.br/internacional/en/brazil/2020/03/twitter-deletes-bolsonaros-tweets.shtml
+https://perma.cc/9HWD-VCG9
 [2]
-https://www1.folha.uol.com.br/poder/2020/05/deputados-divulgam-fake-news-sobre-coronavirus-para-ecoar-discurso-de-bolsonaro.shtml
+https://perma.cc/MTR3-LBPN
 [3]
-https://www.bbc.com/news/world-latin-america-52739734
+https://perma.cc/P7TS-HZ2F
 [4]
-https://www.bbc.com/news/world-latin-america-53712087
+https://perma.cc/C3GX-KPBV
 [5]
-https://www.theguardian.com/world/2020/mar/19/coronavirus-bolsonaro-son-china-row
+https://perma.cc/5M5F-RJGK
 [6]
-https://www.theguardian.com/world/2020/mar/23/brazils-jair-bolsonaro-says-coronavirus-crisis-is-a-media-trick
+https://perma.cc/4X35-E437
 [7]
-https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/02/bolsonaro-volta-a-defender-cloroquina-quem-reclama-de-alternativa.htm
+https://perma.cc/JH3M-RPT5
 [8]
-https://www.independent.co.uk/news/world/americas/coronavirus-brazil-minister-abraham-weintraub-racist-tweet-china-a9452651.html
+https://perma.cc/8NV7-66H2
 [9]
-https://www.reuters.com/article/us-health-coronavirus-brazil/brazils-bolsonaro-infected-with-covid-19-touts-unproven-drug-idUSKCN24G2XR
+https://perma.cc/8B5E-44V3
 [10]
-https://www.nytimes.com/2020/07/08/world/americas/brazil-bolsonaro-covid-coronavirus.html
+https://perma.cc/T8LT-8VKZ
 [11]
-https://www.hrw.org/news/2020/07/08/covid-19-catches-brazils-president
+https://perma.cc/376B-QU82
 [12]
-https://www.hrw.org/news/2020/04/10/brazil-bolsonaro-sabotages-anti-covid-19-efforts
+https://perma.cc/W3TR-4AG9
 [13]
-https://politica.estadao.com.br/noticias/geral,cloroquina-e-hidroxicloroquina-veja-o-que-bolsonaro-ja-falou-sobre-os-medicamentos,70003357546
+https://perma.cc/B9AC-AE5M
 [14]
-https://www.sciencemag.org/news/2020/10/another-piece-populist-propaganda-critics-slam-brazilian-government-s-new-covid-19-drug
+https://perma.cc/2FAM-F8V7
 [15]
-https://www1.folha.uol.com.br/cotidiano/2020/10/governo-usa-grafico-generico-para-dizer-que-vermifugo-tem-eficacia-contra-covid.shtml
+https://perma.cc/JM7Y-YQXJ
 [16]
-https://apnews.com/article/virus-outbreak-brazil-state-governments-health-sao-paulo-b7b5b620ba54f402dbf803e26fe6b842
+https://perma.cc/3G7T-KXC2
 [17]
-https://noticias.uol.com.br/confere/ultimas-noticias/2021/04/01/live-bolsonaro-confere-1-de-abril-coronavirus-covid-19-governo-federal.htm
+https://perma.cc/TJ3X-R8N4
 [18]
-https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2021/04/02/bolsonaro-volta-a-criticar-isolamento-social-no-pior-momento-da-pandemia.htm
+https://perma.cc/VDP3-84FS
 [19]
-https://oglobo.globo.com/brasil/sem-mascara-ao-lado-de-braga-netto-bolsonaro-diz-que-sua-guerra-nao-politica-ao-criticar-isolamento-social-1-24954600
+https://perma.cc/4XSM-PE3X
 [20]
-https://www1.folha.uol.com.br/equilibrioesaude/2021/04/guedes-diz-que-chines-inventou-o-virus-e-tem-vacina-menos-eficiente-do-que-os-eua.shtml
+https://perma.cc/2BXD-KY2H
 [21]
-https://www.uol.com.br/tilt/noticias/redacao/2021/04/23/youtube-exclui-mais-quatro-videos-de-bolsonaro-por-desinformacao.htm
+https://perma.cc/4KNC-YSPV
+
 
 
 
@@ -580,9 +632,9 @@ https://www.uol.com.br/tilt/noticias/redacao/2021/04/23/youtube-exclui-mais-quat
  official website with information on Covid-19; no reports on disinformation found; no new information found since June 2020. 
 
 *Sources*:
- https://coronavirus.bg/bg/
-https://ipi.media/bulgaria/
-https://rsf.org/en/bulgaria
+ https://perma.cc/UBR5-3J6L
+https://perma.cc/ECM5-G6SL
+https://perma.cc/5K85-GZBB
 
 
 
@@ -610,15 +662,9 @@ https://rsf.org/en/bulgaria
 No evidence was found on whether the government changed its policy on the use of chloroquine after June 2020. We code as 0 for quarters after Q2 2020 because we no longer found reports of the government using or promoting chloroquine. We do not know if it continued in practice. 
 
 *Sources*:
- https://lefaso.net/spip.php?article95860
-
-https://www.theafricareport.com/25416/to-fight-coronavirus-burkina-faso-is-tempted-by-chloroquine/
-(2)
-
-https://www.france24.com/fr/20200401-coronavirus-l-afrique-subsaharienne-se-rue-sur-la-chloroquine
-(3)
-
-
+ [1]	perma.cc/N6T2-QY98
+[2]	perma.cc/TV4G-RTZA
+[3]	perma.cc/ZD45-4DRD
 
 
 
@@ -643,14 +689,16 @@ https://www.france24.com/fr/20200401-coronavirus-l-afrique-subsaharienne-se-rue-
  There are widespread reports that Myanmar has misreported the number of Covid-19 cases and deaths, but no sources have been found that state that the government has produced disinformation on Covid-19 itself. Myanmar has a webpage with numerous documents on Covid-19 and information for the public, but these are all in Burmese and Google Translate isn't able to translate this well enough for those documents to be examined. This is coded as 0, as no direct evidence of disinformation has been found, but note that the documents produced by the government has not been assessed. 
 
 *Sources*:
- :
-https://mohs.gov.mm/Main/content/publication/key-activities-taken-by-mohs
+ 
 
-https://www.hrw.org/news/2020/03/17/myanmar-denials-define-Covid-19-response
 
-https://mohs.gov.mm/Main/content/publication/2019-ncov
+https://perma.cc/E2CZ-KMNX
 
-https://www.who.int/news-room/feature-stories/detail/yangon-uses-media-mix-to-boost-solidarity-against-Covid-19
+
+
+
+
+https://perma.cc/WVL3-5UH5
 
 
 
@@ -685,38 +733,18 @@ Burundi authorities prescribe Chloroquine for those tested positive for Covid-19
 No information was found on whether Burundi continues the use of chloroquine after July 2020. We code as 0 for quarters that we no longer found reports of the government using or promoting chloroquine. We do not know if it continued in practice. 
 
 *Sources*:
- https://www.aa.com.tr/en/africa/burundi-launches-covid-19-mass-screening-campaign/1902072
-(1)
-
-https://www.aljazeera.com/news/2020/07/burundi-coronavirus-policy-mass-testing-bujumbura-city-200707072204472.html
-(2)
-
-https://www.dw.com/en/burundi-coronavirus-prompts-timid-steps-for-a-break-with-the-past/a-54089400
-(3)
-
-https://apnews.com/3e6ef0e411214dbd4432b10bdb7d85ef
-(4)
-
-https://www.theguardian.com/world/2020/may/14/burundi-expels-who-coronavirus-team-as-election-approaches
-(5)
-
-https://www.iwacu-burundi.org/covid-19-le-burundi-est-une-exception-car-cest-un-pays-qui-a-donne-a-dieu-la-premiere-place/
-(6)
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://www.theguardian.com/world/2020/may/18/burundi-to-go-to-polls-amid-fears-authorities-playing-down-covid-19
-
-https://www.brookings.edu/blog/africa-in-focus/2020/05/16/africa-in-the-news-lesotho-burundi-malawi-and-covid-19-updates/
-
-https://www.burunditimes.com/59-new-covid-19-cases-recorded-in-burundi/
-(10)
-
-https://www.hrw.org/world-report/2021/country-chapters/burundi
-(11)
-
-https://twitter.com/RTNBurundi/status/1304107144753672193
-(12)
+ [1]	perma.cc/ZBD6-JV82
+[2]	perma.cc/UYH7-QWEK
+[3]	perma.cc/J4U9-Q6MA
+[4]	perma.cc/8FF9-8J39
+[5]	perma.cc/QG24-LC75
+[6]	perma.cc/Q24M-3X4Q
+[7]	perma.cc/EGW4-92C2
+[8]	perma.cc/UQ5Y-6PMS
+[9]	perma.cc/YP89-YM2M
+[10]	perma.cc/92VW-EUF9
+[11]	perma.cc/KJB7-2LQ3
+[12]	perma.cc/3986-7JCW
 
 
 
@@ -741,11 +769,13 @@ https://twitter.com/RTNBurundi/status/1304107144753672193
  I did not find any information on the government or its agents about Covid-19 related matter deviate from the official information provided by the WHO. 
 
 *Sources*:
- https://rsf.org/en/cambodia
+ https://perma.cc/HN5T-V9A7
 
-https://www.hrw.org/asia/cambodia
 
-https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia
+https://perma.cc/E7AD-Z7N2
+
+
+https://perma.cc/8EA7-T787
 
 
 
@@ -778,23 +808,12 @@ No evidence on whether the government stopped the use of chloroquine in the trea
 We code as 0 for quarters that we no longer found reports of the government using or promoting chloroquine. We do not know if it continued in practice. 
 
 *Sources*:
- https://www.france24.com/en/20200503-covid-19-in-cameroon-a-chloroquine-therapy-hailed-by-french-expert-becomes-state-protocol
-(1)
-
-https://nkafu.org/blog-post/bulletin-002-sur-le-covid-19-au-cameroun/
-(2)
-
-https://afrique.le360.ma/autres-pays/societe/2020/07/16/31180-cameroun-coronavirus-lhydroxychloroquine-nouveau-en-vente-dans-les-pharmacies-31180
-(3)
-
-https://afrique.le360.ma/maroc-algerie-autres-pays/politique/2020/06/01/30726-covid-19-voici-pourquoi-les-pays-africains-ont-dit-non-loms-et-poursuivent-le
-(4)
-
-https://www.voanews.com/science-health/coronavirus-outbreak/cameroon-begins-large-scale-chloroquine-production
-(5)
-
-http://www.crtv.cm/2020/08/covid-19-cameroon-continues-use-of-hydroxichloroquine/
-(6)
+ [1]	perma.cc/5KLE-G3TM
+[2]	perma.cc/2UFL-68HM
+[3]	perma.cc/7LJP-WUAY
+[4]	perma.cc/K536-8DXQ
+[5]	perma.cc/64VN-B2NF
+[6]	perma.cc/649C-CG79
 
 
 
@@ -819,10 +838,13 @@ http://www.crtv.cm/2020/08/covid-19-cameroon-continues-use-of-hydroxichloroquine
  There are no deviations from the information provided by WHO and that of the Canadian Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
 
 *Sources*:
- https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-Covid-19.html
+ https://perma.cc/EY4T-2PGC
 
-https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html?topic=tilelink
-https://ipac-canada.org/coronavirus-resources.php
+
+https://perma.cc/4547-884B
+
+
+https://perma.cc/T8MH-5YQH
 
 
 
@@ -849,8 +871,8 @@ https://ipac-canada.org/coronavirus-resources.php
 No evidence was found on whether the government changed its policy on the use of chloroquine after June 2020. We code as 0 for quarters after Q2 2020 because we no longer found reports of the government using or promoting chloroquine. We do not know if it continued in practice. 
 
 *Sources*:
- https://www.jeuneafrique.com/999318/societe/coronavirus-pourquoi-la-centrafrique-sattend-au-pire/
-(1)
+ [1]
+perma.cc/YZ7B-JUEU
 
 
 
@@ -881,16 +903,13 @@ No evidence was found on whether the government changed its policy on the use of
 No evidence was found on whether the government changed its policy on the use of chloroquine after June 2020. We code as 0 for quarters after Q2 2020 because we no longer found reports of the government using or promoting chloroquine. We do not know if it continued in practice. 
 
 *Sources*:
- https://tchadinfos.com/politique/coronavirus-des-tchadiens-soignes-a-base-de-la-chloroquine/
-(1)
-https://www.aa.com.tr/fr/afrique/covid-19-deux-premiers-d%C3%A9c%C3%A8s-enregistr%C3%A9s-au-tchad/1822716
-(2)
-https://allodocteurs.africa/actualites/epidemie/covid-19/coronavirus-le-tchad-continue-avec-la-chloroquine-le-gabon-se-questionne
-(3)
-https://www.rti.ci/info/afrique/27070/coronavirus-le-senegal-et-le-tchad-vont-continuer-le-traitement-avec-la-chloroquine
-https://afrique.le360.ma/maroc-algerie-autres-pays/politique/2020/06/01/30726-covid-19-voici-pourquoi-les-pays-africains-ont-dit-non-loms-et-poursuivent-le
-http://www.lepaystchad.com/13469/
-(6)
+ https://perma.cc/36HP-ZBTV
+
+https://perma.cc/66MF-T6Y3
+https://perma.cc/9D5M-NWJA
+https://perma.cc/6M8W-2R59
+https://perma.cc/NE5U-NP4Q
+https://perma.cc/WU2A-RQ4X
 
 
 
@@ -916,13 +935,19 @@ http://www.lepaystchad.com/13469/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/4SZ5-J4AV
+
+
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/8DZB-3E5Q
+
+
 [3]
-https://www.minsal.cl/
+https://perma.cc/9QX6-YNYG
+
+
 [4]
-https://www.gob.cl/coronavirus/
+https://perma.cc/PQG8-JYQU
 
 
 
@@ -964,31 +989,23 @@ The Chinese government has also been forcing certain groups of people (namely th
 The government has continued to push conspiracy theories of the origin of the virus in Q1 and Q2 of 2021. Hence, I have continued to code this variable as 2. 
 
 *Sources*:
- 
-https://edition.cnn.com/2020/11/30/asia/wuhan-china-covid-intl/index.html
+ https://perma.cc/YR3Z-8DAZ
 (1)
 
-https://www.reuters.com/article/us-health-coronavirus-who-china-report-idUSKBN2BM26S
+https://perma.cc/V3FS-LNYP
 (2)
 
-https://www.who.int/bulletin/online_first/20-254565.pdf
+https://perma.cc/C29Y-S32L
 (3)
 
-https://www.bbc.com/news/world-asia-china-56054468
-
-https://www.nbcnews.com/news/world/coronavirus-chinese-official-suggests-u-s-army-blame-outbreak-n1157826
-
-https://www.nytimes.com/2020/03/13/world/asia/coronavirus-china-conspiracy-theory.html
-
-https://www.theguardian.com/world/2020/nov/29/a-year-after-wuhan-alarm-china-seeks-to-change-covid-origin-story?fbclid=IwAR0JdZAy8jLonk1H5DzkBtT-MCbSZ-dzDe-is7WO1acFIU01hl415q-_NwA
-
-https://www.cbsnews.com/news/china-covid-19-origin-wuhan/
-
-https://www.bbc.com/news/av/world-asia-china-56513257
-
-https://apnews.com/article/c1e81496be87b9a289aefe7345479949
-
-https://www.washingtonpost.com/world/asia_pacific/in-chinas-xinjiang-forced-medication-accompanies-lockdown/2020/08/31/dc9a8430-eb4c-11ea-bd08-1b10132b458f_story.html
+https://perma.cc/8YS5-PD5P
+https://perma.cc/62QQ-LJNB
+https://perma.cc/QKB3-DGAF
+https://perma.cc/GT8D-NAJ3
+https://perma.cc/6H2V-H29T
+https://perma.cc/N4ML-RHMW
+https://perma.cc/JG5U-5NZG
+https://perma.cc/B65S-2XNU
 
 
 
@@ -1014,7 +1031,7 @@ https://www.washingtonpost.com/world/asia_pacific/in-chinas-xinjiang-forced-medi
 
 *Sources*:
  [1]
-https://coronaviruscolombia.gov.co/Covid19/preguntas-frecuentes.html
+https://perma.cc/YH7H-ZL65
 
 
 
@@ -1040,9 +1057,9 @@ https://coronaviruscolombia.gov.co/Covid19/preguntas-frecuentes.html
 
 *Sources*:
  [1]
-https://covid19.go.cr/
+https://web.archive.org/web/20200430145447/https://covid19.go.cr/
 [2]
-https://www.ministeriodesalud.go.cr/index.php/material-educativo/documentos-ministerio-de-salud/centro-de-informacion/material-comunicacion/protocolos-ms/coronavirus/mitos-y-realidades?sort=title
+https://web.archive.org/web/20210304191738/https://www.ministeriodesalud.go.cr/index.php/material-educativo/documentos-ministerio-de-salud/centro-de-informacion/material-comunicacion/protocolos-ms/coronavirus/mitos-y-realidades?sort=title
 
 
 
@@ -1067,8 +1084,9 @@ https://www.ministeriodesalud.go.cr/index.php/material-educativo/documentos-mini
  Migrants were "beaten and spray-painted with red crosses on their heads by Croatian police officers who said the treatment was the "cure against coronavirus" in Q2 2020 (The Guardian, 1). Since it was a single case, govdis is coded as 1 during Q2 2020. 
 
 *Sources*:
- https://www.theguardian.com/global-development/2020/may/28/they-made-crosses-on-our-heads-refugees-report-abuse-by-croatian-police
-(1)
+ [1]	perma.cc/DTD9-WGXL
+[2]	perma.cc/JGS8-M5MK
+[3]	perma.cc/UWA4-NS3N
 
 
 
@@ -1094,7 +1112,7 @@ https://www.ministeriodesalud.go.cr/index.php/material-educativo/documentos-mini
 
 *Sources*:
  [1]
-https://salud.msp.gob.cu/category/covid-19/
+https://perma.cc/3LJJ-G4QZ
 
 
 
@@ -1119,11 +1137,11 @@ https://salud.msp.gob.cu/category/covid-19/
  Official websites with information on Covid-19 and guidelines. No information found since 11 March 2020. 
 
 *Sources*:
- https://koronavirus.mzcr.cz/en/
-https://onemocneni-aktualne.mzcr.cz/covid-19
-https://ipi.media/czech-republic/
-https://rsf.org/en/czech-republic
-https://www.mvcr.cz/mvcren/article/coronavirus-information-of-moi.aspx
+ [1]	perma.cc/FX6J-YFGY
+[2]	perma.cc/4KLE-5KNQ
+[3]	perma.cc/J9D2-P4DT
+[4]	perma.cc/D5FN-7RPH
+[5]	perma.cc/45MP-9CNV
 
 
 
@@ -1153,28 +1171,16 @@ https://www.mvcr.cz/mvcren/article/coronavirus-information-of-moi.aspx
 There is no info found on whether the government continues using chloroquine after June 2020. We code as 0 for quarters after Q2 2020 because we no longer found reports of the government using or promoting chloroquine. We do not know if it continued in practice. 
 
 *Sources*:
- https://www.france24.com/en/20200401-africans-rush-for-chloroquine-as-virus-tsunami-looms
-(1)
+ https://perma.cc/G5B7-PYXW
 
-https://allafrica.com/stories/202003250786.html
-(2)
+https://perma.cc/DJ7F-RWTT
 
-https://www.stopcoronavirusrdc.info/directives-prises-par-le-gouvernement
-(3)
-
-https://www.stopcoronavirusrdc.info/mesures-de-protection-contre-le-coronavirus
-(4)
-
-https://factcheck.stopcoronavirusrdc.info/factchecks
-(5)
-
-https://factcheck.stopcoronavirusrdc.info/factchecks/il-des-medicaments-pour-prevenir-ou-traiter-contre-le-nouveau-coronavirus
-(6)
-
-https://www.aa.com.tr/fr/afrique/rdc-covid-19-mise-sur-le-march%C3%A9-de-l-hydroxychloroquine-/1869280
-(7)
-
-https://www.stopcoronavirusrdc.info
+https://perma.cc/SD9Q-36Q8
+https://perma.cc/4TF2-BJMK
+https://web.archive.org/web/20200529171819/https://factcheck.stopcoronavirusrdc.info/factchecks
+https://web.archive.org/web/20200531174010/https://factcheck.stopcoronavirusrdc.info/factchecks/il-des-medicaments-pour-prevenir-ou-traiter-contre-le-nouveau-coronavirus
+https://perma.cc/8LT4-ATEK
+https://perma.cc/M99Y-A2R7
 
 
 
@@ -1199,10 +1205,10 @@ https://www.stopcoronavirusrdc.info
  There seem to be no deviations from the information provided by WHO and that of the Danish Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
 
 *Sources*:
- https://www.sst.dk/da/corona
+ https://perma.cc/XDY9-LGEF
 
 
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_november_2020.pdf
+https://perma.cc/9YN9-FZCY
 
 
 
@@ -1228,8 +1234,8 @@ https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_p
 
 *Sources*:
  [1]
-https://coronavirusrd.gob.do/
-https://coronavirusrd.gob.do/wp-content/uploads/2020/03/35-Preguntas-y-Respuestas-Sobre-el-Coronavirus-y-Falsos-Rumores.pdf.pdf.pdf
+https://perma.cc/XN6L-QLE9
+https://perma.cc/L8HJ-24ZQ
 
 
 
@@ -1255,10 +1261,9 @@ https://coronavirusrd.gob.do/wp-content/uploads/2020/03/35-Preguntas-y-Respuesta
 
 *Sources*:
  [1]
-https://coronavirusecuador.com/
-
+https://perma.cc/KP5T-5NMH
 [2]
-https://www.coronavirusecuador.com/fake-news-coronavirus-ecuador/
+https://perma.cc/NJ9H-YL9P
 
 
 
@@ -1309,17 +1314,17 @@ https://www.coronavirusecuador.com/fake-news-coronavirus-ecuador/
 
 *Sources*:
  [1]
-https://covid19.gob.sv/cuidate-formas-de-prevencion/
+https://perma.cc/W9CK-WVKW
 [2]
-https://covid19.gob.sv/identifica-los-sintomas/
+https://perma.cc/KQ8W-34WB
 [3]
-https://arpas.org.sv/2020/04/las-fake-news-del-presidente-bukele/
+https://perma.cc/VE3M-TKWY
 [4]
-https://www.revistafactum.com/desinformacion-bukele/
+https://perma.cc/8LSD-UXK5
 [5]
-https://www.dw.com/es/el-salvador-y-costa-rica-se-enfrentan-por-manejo-de-la-pandemia/a-53355656
+https://perma.cc/RVD3-Y777
 [6]
-https://www.efe.com/efe/america/politica/bukele-echo-mano-de-la-desinformacion-para-manejar-pandemia-segun-un-estudio/20000035-4439684
+https://perma.cc/7U7G-XWYC
 
 
 
@@ -1344,15 +1349,9 @@ https://www.efe.com/efe/america/politica/bukele-echo-mano-de-la-desinformacion-p
  No information on Covid-19 from the Eritrean government was found. 
 
 *Sources*:
- http://www.ecss-online.com/2013/wp-content/uploads/2020/06/Corona-.pdf
-
-
-
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
-
-
-
-https://shabait.com/2020/05/09/we-all-need-to-protect-one-another-by-washing-our-hands-a-keeping-the-distance/
+ [1]	perma.cc/P2ZN-LSEL
+[2]	perma.cc/2BFN-RSY7
+[3]	perma.cc/U5V9-DWND
 
 
 
@@ -1378,9 +1377,9 @@ https://shabait.com/2020/05/09/we-all-need-to-protect-one-another-by-washing-our
 
 *Sources*:
  [1]
-http://www.moh.gov.et/ejcc/en
+perma.cc/9R8Z-H5EU
 [2]
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+perma.cc/BG4W-XPT7
 
 
 
@@ -1405,9 +1404,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
  There is no deviations from the information provided by WHO and that of the Finnish Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
 
 *Sources*:
- https://thl.fi/en/web/infectious-diseases-and-vaccinations/what-s-new/coronavirus-covid-19-latest-updates
+ https://perma.cc/LBK6-4HHN
 
-https://thl.fi/en/web/infectious-diseases-and-vaccinations/what-s-new/coronavirus-covid-19-latest-updates/symptoms-and-treatment-coronavirus
+
+https://perma.cc/78ZJ-K95D
 
 
 
@@ -1432,11 +1432,9 @@ https://thl.fi/en/web/infectious-diseases-and-vaccinations/what-s-new/coronaviru
  The French government national information resources website on Covid-19 is in line with WHO guidlines. 
 
 *Sources*:
- https://www.gouvernement.fr/en/coronavirus-covid-109
-
-https://www.ecdc.europa.eu/en/COVID-19/national-sources
-
-https://www.thelancet.com/action/showPdf?pii=S1470-2045%2820%2930204-7
+ https://perma.cc/V7LF-BCBW
+https://perma.cc/58GL-A8DW
+https://perma.cc/S7T6-H4JD
 
 
 
@@ -1464,14 +1462,16 @@ https://www.thelancet.com/action/showPdf?pii=S1470-2045%2820%2930204-7
 No evidence was found on whether the government changed its policy on the use of chloroquine after June 2020. We code as 0 for quarters after Q2 2020 because we no longer found reports of the government using or promoting chloroquine. We do not know if it continued in practice. 
 
 *Sources*:
- https://gabonactu.com/le-gabon-va-prescrire-la-chloroquine-aux-personnes-atteintes-du-coronavirus/
-(1)
-https://gabonactu.com/gabon-le-protocole-therapeutique-des-malades-covid-19/
-(2)
-https://lalibreville.com/hydroxychloroquine-et-covid-19-le-gabon-precise-sa-position/
-(3)
-https://afrique.le360.ma/maroc-algerie-autres-pays/politique/2020/06/01/30726-covid-19-voici-pourquoi-les-pays-africains-ont-dit-non-loms-et-poursuivent-le
+ perma.cc/3B65-K5HK
 
+
+perma.cc/Q3XY-9K8A
+
+
+perma.cc/P7EC-AJPT
+
+
+perma.cc/JB8G-RH84
 
 
 
@@ -1496,9 +1496,16 @@ https://afrique.le360.ma/maroc-algerie-autres-pays/politique/2020/06/01/30726-co
  official website with information on Covid-19; no reports on disinformation found 
 
 *Sources*:
- https://stopcov.ge/
-https://ipi.media/georgia/
-https://rsf.org/en/georgia
+ perma.cc/WCC8-GQ3W
+
+
+https://perma.cc/N885-7XTP
+
+
+https://perma.cc/YJR4-6C8N
+
+
+
 
 
 
@@ -1523,9 +1530,13 @@ https://rsf.org/en/georgia
  There is no deviations from the information provided by WHO and that of the German Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
 
 *Sources*:
- https://www.zusammengegencorona.de/en/
-https://www.zusammengegencorona.de/en/basic-knowledge-about-coronavirus/
-https://www.deutschland.de/en/corona-virus-germany-overview
+ https://perma.cc/NN4R-BSW3
+
+
+https://perma.cc/E7DC-QGX4
+
+
+https://perma.cc/RWS6-NZ25
 
 
 
@@ -1551,11 +1562,11 @@ https://www.deutschland.de/en/corona-virus-germany-overview
 
 *Sources*:
  [1]
-https://ghanahealthservice.org/covid19/faqs.php
+https://web.archive.org/web/20200315080838/https://ghanahealthservice.org/covid19/faqs.php
 [2]
-https://www.moh.gov.gh/coronavirus-alert-education-inforgraphics/
+perma.cc/5HKG-HR8U
 [3]
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+perma.cc/HJQ7-3HJG
 
 
 
@@ -1586,23 +1597,21 @@ Further, two prominent MPs from the ruling party participated in the holy commun
 Although the greek PM has not defended these practices and incidents, he has nevertheless avoided taking a clear stance against the Orthodox church, or making his position fully clear on the holy communion issue. 
 
 *Sources*:
- https://eody.gov.gr/en/
+ perma.cc/X9AA-V37H
 (1)
 
-https://www.nytimes.com/2020/12/05/world/greece-orthodox-church-coronavirus.html
+perma.cc/KWS3-M9PJ
 (2)
 
-https://www.koutipandoras.gr/article/elena-rapti-ego-simera-koinonisa-kai-tha-synehiso-na-koinono
+perma.cc/239Z-5VBE
 (3)
 
-https://www.efsyn.gr/ellada/koinonia/260373_pyrinas-metadosis-toy-ioy-i-theia-koinonia-anaferei-kathigitis-genetikis
+perma.cc/A8PX-H2VN
 (4)
 
-https://www.dw.com/en/orthodox-church-undermines-greeces-covid-pandemic-measures/a-56251674
-
-https://apnews.com/article/thessaloniki-europe-coronavirus-pandemic-greece-40c58013dd8ad162b343d798ee2c649f
-
-https://www.skai.gr/news/politics/to-karfi-xardalia-gia-theia-koinonia-ypourgou-syggnomi-koumoutsakou
+perma.cc/J7GX-3BZQ
+perma.cc/257H-3R53
+perma.cc/L7BQ-SM85
 
 
 
@@ -1628,9 +1637,9 @@ https://www.skai.gr/news/politics/to-karfi-xardalia-gia-theia-koinonia-ypourgou-
 
 *Sources*:
  [1]
-https://www.mspas.gob.gt/index.php/noticias/covid-19/coronavirus-2019-ncov
+https://web.archive.org/web/20200412030741/https://www.mspas.gob.gt/index.php/noticias/covid-19/coronavirus-2019-ncov
 [2]
-https://cnnespanol.cnn.com/video/guatemala-manuel-sagastume-covid19-coronavirus-entrevista-fernando-del-rincon-conclusiones/
+perma.cc/W72N-99WS
 
 
 
@@ -1655,9 +1664,10 @@ https://cnnespanol.cnn.com/video/guatemala-manuel-sagastume-covid19-coronavirus-
  l’Agence nationale de la sécurité sanitaire (ANSS), the official body responsible for managing the pandemic, is in line with WHO guidlines. 
 
 *Sources*:
- https://anss-guinee.org/
+ perma.cc/L78P-QVCD
 
-https://www.lemonde.fr/afrique/article/2020/04/27/la-guinee-franchit-la-barre-des-1-000-cas-de-coronavirus_6037877_3212.html
+
+perma.cc/7UP6-5ARJ
 
 
 
@@ -1682,9 +1692,10 @@ https://www.lemonde.fr/afrique/article/2020/04/27/la-guinee-franchit-la-barre-de
  The official information by the Government is in line with WHO recommendations. 
 
 *Sources*:
- https://www.mspp.gouv.ht/
+ perma.cc/5JCC-UB6Z
 
-https://www.haitilibre.com/article-30307-haiti-covid-19-bulletin-quotidien-19-mars-2020.html
+
+perma.cc/EE6X-4ZHF
 
 
 
@@ -1710,7 +1721,7 @@ https://www.haitilibre.com/article-30307-haiti-covid-19-bulletin-quotidien-19-ma
 
 *Sources*:
  [1]
-https://covid19honduras.org/
+https://web.archive.org/web/20200311224844/https://covid19honduras.org/
 
 
 
@@ -1735,8 +1746,10 @@ https://covid19honduras.org/
  The information provided by the Hong Kong government is in line with WHO, and no evidence has been found of any spreading of disinformation by government officials. 
 
 *Sources*:
- https://www.coronavirus.gov.hk/eng/covid19.html
-https://www.coronavirus.gov.hk/eng/index.html
+ https://perma.cc/2PVH-H7EM
+
+
+https://perma.cc/FWL6-3WZK
 
 
 
@@ -1761,12 +1774,11 @@ https://www.coronavirus.gov.hk/eng/index.html
  official website with information on covid-19; no reports on disinformation found since 11 March 2020. 
 
 *Sources*:
- https://koronavirus.gov.hu/
-
-https://ipi.media/hungary/
-https://rsf.org/en/hungary
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B310%5D&covid19=1
-https://fra.europa.eu/sites/default/files/fra_uploads/hu_report_on_coronavirus_pandemic_july_2020.pdf
+ https://perma.cc/Z6HM-XKRE
+https://perma.cc/RP3T-UUY3
+https://perma.cc/5MLZ-EGGN
+https://perma.cc/J7UH-BULT
+https://perma.cc/6KCV-ATD4
 
 
 
@@ -1791,11 +1803,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/hu_report_on_coronavirus_p
  In mid April 2021, V K Paul, a senior government official encouraged peple to consult "alternative therapy practitioners" if they were having mild versions of Covid-19. He also advised people to consume "chyawanprash" which is a dietary supplment and "kadha" which is a brew of herbs and spices to improve their immunity. There is no scientific and documented proof of these remedies. 
 
 *Sources*:
- https://www.mohfw.gov.in/
+ https://perma.cc/64ST-XL5G
 
-https://www.dw.com/en/india-covid-misinformation/a-57414876
 
-https://www.hindustantimes.com/india-news/paul-recommends-chyawanprash-ayurveda-experts-criticise-remarks-101618340743478.html
+https://perma.cc/KXC8-9DCK
+
+
+https://perma.cc/CEW4-P2RW
 
 
 
@@ -1825,14 +1839,11 @@ I have not found more instances of government disinformation in Indonesia in 202
 
 *Sources*:
  [1]
-https://www.theguardian.com/world/2020/jul/07/indonesia-minister-in-row-over-eucalyptus-necklace-covid-19-claim
-
-
+https://perma.cc/3Y8F-ER3C
 [2]
-https://www.reuters.com/article/us-health-coronavirus-indonesia-insight-idUSKCN25G02J
-
+https://perma.cc/B8YK-U7SY
 [3]
-https://covid19.go.id/
+https://perma.cc/LJ6G-EU9J
 
 
 
@@ -1857,7 +1868,7 @@ https://covid19.go.id/
  There is no important deviations from the information provided by WHO and that of the Iranian health department  on Covid-19, and no complaints or accusations of any such disinformation has been found. There are however numerous and ongoing accusations of Iran underreporting the number of cases in the country, but this is not included in this question. 
 
 *Sources*:
- https://irangov.ir/ministry-of-health-and-medical-education
+ https://perma.cc/6XKA-YMYU
 
 
 
@@ -1882,9 +1893,10 @@ https://covid19.go.id/
  The Iraqi governments guidance on Covid-19 , how it spreads and what the symtoms are isn't extensive, but all information they have published is in line with that of WHO, and this is therefore coded as 0. 
 
 *Sources*:
- https://gds.gov.iq/novel-coronavirus/
+ https://perma.cc/QJ7S-5MEU
 
-https://gds.gov.iq/novel-coronavirus-%E2%80%AACovid-19-iraqs-ministry-of-health-guidance-to-the-public/
+
+https://perma.cc/E6PW-NUCF
 
 
 
@@ -1909,7 +1921,7 @@ https://gds.gov.iq/novel-coronavirus-%E2%80%AACovid-19-iraqs-ministry-of-health-
  There is no deviations from the information provided by WHO and that of the Irish Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
 
 *Sources*:
- https://www.gov.ie/en/publication/472f64-Covid-19-coronavirus-guidance-and-advice/
+ https://web.archive.org/web/20200304154809/https://www.gov.ie/en/publication/472f64-Covid-19-coronavirus-guidance-and-advice/
 
 
 
@@ -1934,7 +1946,7 @@ https://gds.gov.iq/novel-coronavirus-%E2%80%AACovid-19-iraqs-ministry-of-health-
  There is no deviations from the information provided by WHO and that of the Israeli Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
 
 *Sources*:
- https://www.gov.il/en/departments/faq/faq-coronavirus
+ https://perma.cc/M52V-TKGY
 
 
 
@@ -1959,7 +1971,7 @@ https://gds.gov.iq/novel-coronavirus-%E2%80%AACovid-19-iraqs-ministry-of-health-
  There is no deviations from the information provided by WHO and that of the Italian Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
 
 *Sources*:
- http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioFaqNuovoCoronavirus.jsp?lingua=english&id=230#1
+ https://perma.cc/YG65-F3SZ
 
 
 
@@ -1984,10 +1996,10 @@ https://gds.gov.iq/novel-coronavirus-%E2%80%AACovid-19-iraqs-ministry-of-health-
  In agreement with WHO guidlines. 
 
 *Sources*:
- https://covid19-ci.info/
+ perma.cc/84PP-6967
 
 
-http://info-covid19.gouv.ci/welcome/covid
+perma.cc/M8D6-KHLV
 
 
 
@@ -2013,11 +2025,11 @@ http://info-covid19.gouv.ci/welcome/covid
 
 *Sources*:
  [1]
-https://jamcovid19.moh.gov.jm/how-to-protect.html
+perma.cc/2B9U-NCJA
 [2]
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+perma.cc/4VRG-4N9L
 [3]
-https://jis.gov.jm/jamaica-and-the-coronavirus/
+perma.cc/35JY-KKWC
 
 
 
@@ -2042,7 +2054,7 @@ https://jis.gov.jm/jamaica-and-the-coronavirus/
  I did not find any information on covid-19 related matters deviating from the official information provided by the WHO across all the time periods. 
 
 *Sources*:
- https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/newpage_00032.html
+ https://perma.cc/LYN9-3BCF
 
 
 
@@ -2067,7 +2079,7 @@ https://jis.gov.jm/jamaica-and-the-coronavirus/
  There is no deviations from the information provided by WHO and that of the Jordanian Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
 
 *Sources*:
- https://corona.moh.gov.jo/en
+ https://perma.cc/J62J-CGZP
 
 
 
@@ -2092,10 +2104,13 @@ https://jis.gov.jm/jamaica-and-the-coronavirus/
  official website with information on covid-19; no reports on disinformation found 
 
 *Sources*:
- https://www.coronavirus2020.kz/
+ https://perma.cc/6RA9-7UU8
 
-https://ipi.media/kazakhstan/
-https://rsf.org/en/kazakhstan
+
+https://perma.cc/C4PS-H5QR
+
+
+https://perma.cc/P6AW-NTCL
 
 
 
@@ -2124,17 +2139,10 @@ While the Kenyan Ministry of Health initially approved a trial use of hydroxychl
 Along with 12 other African countries, Kenya is now participating in the ANTICOV trials led by the Drugs for Neglected Diseases Initiative (DNDi), an international non-profit dedicated to finding affordable treatments for diseases (3). The trials began in September and are currently testing the effectiveness of hydroxychloroquine in Covid-19 patients with mild symptoms (4). Because this is a drug trial and not an endorsement by the government, we do not consider it disinformation. 
 
 *Sources*:
- https://www.the-star.co.ke/news/2020-05-26-kenya-stuck-with-379000-tablets-of-controversial-drug-dropped-by-who/
-(1)
-
-https://www.youtube.com/watch?v=Tn4RPdXHgOY
-(2)
-
-https://dndi.org/wp-content/uploads/2020/11/DNDi-ANTICOV-Backgrounder-Nov2020-EN.pdf
-(3)
-
-https://www.sciencemag.org/news/2020/12/first-its-kind-african-trial-tests-common-drugs-prevent-severe-covid-19
-(4)
+ perma.cc/8HRW-X623
+perma.cc/YDY7-Z6A7
+https://web.archive.org/web/20201125065610/https://dndi.org/wp-content/uploads/2020/11/DNDi-ANTICOV-Backgrounder-Nov2020-EN.pdf
+perma.cc/5HSN-QE2P
 
 
 
@@ -2159,8 +2167,10 @@ https://www.sciencemag.org/news/2020/12/first-its-kind-african-trial-tests-commo
  The Kuwait goverment has set up a website tracking the spread of the virus in the country, and providing information on what the virus is, how it spreads and so on. In the english version of this website, all information align with WHO. Furthermore, no indication has been found that Kuwaiti authorities has spread any disinformation 
 
 *Sources*:
- https://corona.e.gov.kw/En/Home/NovelCoronavirus
-https://kw.usembassy.gov/news-events/https://kw.usembassy.gov/Covid-19-information/
+ https://perma.cc/N6AL-X6E7
+
+
+https://perma.cc/QVW3-9WNU
 
 
 
@@ -2185,10 +2195,9 @@ https://kw.usembassy.gov/news-events/https://kw.usembassy.gov/Covid-19-informati
  official website with information on Covid-19; no reports on disinformation found 
 
 *Sources*:
- https://covid.kg/
-
-https://ipi.media/kyrgyzstan/
-https://rsf.org/en/kyrgyzstan
+ https://web.archive.org/web/20200325065106/https://covid.kg/
+https://perma.cc/G8Z6-3DRG
+https://perma.cc/BLU9-K5R5
 
 
 
@@ -2213,11 +2222,9 @@ https://rsf.org/en/kyrgyzstan
  Laos has launched a website with information on Covid-19, but it currently can't be translated using Google Translate, and is therefore not accessible at time of coding. No reports of disinformation on Covid-19 by the Laos authorities has been indicated by other sources, but as the published information on it is not available, this conclusion is very tentative. 
 
 *Sources*:
- https://translate.google.com/translate?hl=sv&sl=lo&tl=en&u=http%3A%2F%2Fwww.moh.gov.la&prev=search
-
-https://www.covid19.gov.la/index.php
-
-https://www.covid19.gov.la/index.php
+ https://web.archive.org/web/20201124201337/https://moh.gov.la/
+https://perma.cc/526P-SXPM
+https://perma.cc/526P-SXPM
 
 
 
@@ -2242,9 +2249,10 @@ https://www.covid19.gov.la/index.php
  There is no deviations from the information provided by WHO and that of the Lebanese Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
 
 *Sources*:
- https://www.moph.gov.lb/userfiles/files/Health%20Tips/25Feb2020%20Corona%20English%20FINAL.pdf
+ https://perma.cc/BFR9-L66M
 
-https://www.moph.gov.lb/en/Media/view/34077/novel-coronavirus-2019-
+
+https://perma.cc/R7XZ-EETW
 
 
 
@@ -2269,14 +2277,21 @@ https://www.moph.gov.lb/en/Media/view/34077/novel-coronavirus-2019-
  The information provided by the government is in agreement with information from the WHO. 
 
 *Sources*:
- https://www.gov.ls/document-category/health/
+ https://perma.cc/L22W-CX8S
 
-https://www.gov.ls/wp-content/uploads/2020/08/Risk-Determination-and-Mitigating-Measures-for-Social-Activities-1.pdf
 
-https://www.gov.ls/about-coronavirus-covid-19/
+https://perma.cc/Y9BY-6MBM
 
-https://www.gov.ls/national-command-centre/
-https://factcheck.afp.com/health-ministry-rejects-online-rumours-herbal-cure
+
+https://perma.cc/JWD3-P2G6
+
+
+
+https://perma.cc/XTH5-8Y8L
+
+
+
+https://perma.cc/KD53-5JBA
 
 
 
@@ -2301,10 +2316,16 @@ https://factcheck.afp.com/health-ministry-rejects-online-rumours-herbal-cure
  The information from the government is similar to the information from WHO. However, Liberia received a consignment from the Madagascar's president. WHO advises that there is no proof of its efficiency for the "Covid Organics" medicine (a herbal tonic touted as a cure for  Covid-19). No evidence of any other disinformation in later periods has been found, and this is therefore coded 0 for the other periods. 
 
 *Sources*:
- http://moh.gov.lr/
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
-https://www.reuters.com/article/us-health-coronavirus-madagascar-idUSKBN22K1HQ
-https://frontpageafricaonline.com/front-slider/liberia-pres-weah-receives-controversial-Covid-19-cure-herbs-from-madagascar/
+ https://perma.cc/MGT6-P8EN
+
+
+https://perma.cc/H6G2-BQPK
+
+
+https://perma.cc/7G22-E54J
+
+
+https://perma.cc/PQX5-MBU4
 
 
 
@@ -2329,11 +2350,11 @@ https://frontpageafricaonline.com/front-slider/liberia-pres-weah-receives-contro
  Official website with information on Covid-19; no reports on disinformation found. The authorities have also been tracking disinformation in the media. 
 
 *Sources*:
- https://sam.lrv.lt/en/news
-https://ipi.media/lithuania/
-https://rsf.org/en/lithuania
-https://koronastop.lrv.lt/en/
-https://kariuomene.kam.lt/lt/naujienos_1887/covid-19_situacijai_normalizuojantis_dezinformacijos_nemazeja.html?pbck=30
+ [1]	perma.cc/J69V-FG9V
+[2]	perma.cc/GHL6-RASH
+[3]	perma.cc/54SM-AVL9
+[4]	perma.cc/9RFZ-TNZK
+[5]	perma.cc/PK3W-G239
 
 
 
@@ -2367,34 +2388,24 @@ When the Madagascan president ended the state of emergency on 18 October 2020, h
 Also, the President Andry Rajoelina was initially strongly against Covid-19 vaccines and instead supported and promoted Covid-Organics as a cure. The President changed course regarding the vaccinations, and joined the WHO-led COVAX programme in April 2021. This decision however will not affect the ongoing distribution of Covid-Organics ( 3,4). 
 
 *Sources*:
- https://reports.unocha.org/en/country/southern-eastern-africa/card/6xJ98YvyVW/
+ https://perma.cc/6527-ZB93
 (1)
-
-https://www.africanews.com/2020/10/19/madagascar-ends-state-of-health-emergency//
+https://perma.cc/GJM4-MHXU
 (2)
-https://www.africanews.com/2021/04/01/madagascar-joins-the-covid-19-vaccine-covax-programme//
+https://perma.cc/6AB8-2UYS
 (3)
-
-https://www.dw.com/en/covid-19-vaccinations-madagascar-changes-course/av-57362730
+https://perma.cc/T7XT-RCFA
 (4)
-
-https://www.theafricareport.com/27201/coronavirus-andry-rajoelinas-remedy-flows-freely-in-madagascar/
+https://perma.cc/LPK8-CCL8
 (5)
+https://perma.cc/WNB9-NK4J
 
-https://www.aa.com.tr/en/africa/who-calls-for-clinical-trial-of-madagascars-virus-cure/1832600
-
-
-https://www.bbc.com/news/world-africa-52519853
-
-https://www.theafricareport.com/27203/coronavirus-madagascars-covid-organics-born-from-local-tradition/
-
-https://www.theafricareport.com/26599/coronavirus-the-miracle-remedy-touted-by-madagasars-rajoelina/
-
-https://www.garda.com/crisis24/news-alerts/339186/madagascar-authorities-extend-sanitary-state-of-emergency-until-may-17-update-7
-
-https://www.bbc.com/news/world-africa-52819674
-
-http://www.sante.gov.mg/ministere-sante-publique/
+https://perma.cc/L6DQ-VHL6
+https://perma.cc/NY2N-YZFM
+https://perma.cc/ZF28-QK9E
+https://perma.cc/TAX3-AE7D
+https://perma.cc/WES2-KAXN
+https://web.archive.org/web/20200415054746/http://www.sante.gov.mg/ministere-sante-publique/
 
 
 
@@ -2419,9 +2430,13 @@ http://www.sante.gov.mg/ministere-sante-publique/
  The information provided by the government is in line with the WHO standards. 
 
 *Sources*:
- https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
-https://www.health.gov.mw
-https://twitter.com/health_malawi?lang=en
+ [1]
+perma.cc/5QT6-8ZV9
+[2]
+perma.cc/9FAJ-9DZF
+[3]
+https://perma.cc/4PHU-7GPU
+[4]
 https://www.facebook.com/malawimoh/
 
 
@@ -2447,13 +2462,10 @@ https://www.facebook.com/malawimoh/
  The Malaysian authorities information on Covid-19 is overall in line with that of WHO, and no evidence has been found that the government has engaged in any disinformation campaigns. This is therefore coded as 0. 
 
 *Sources*:
- https://www.infosihat.gov.my/images/media_sihat/lain_lain/pdf/SOALAN%20LAZIM%20COVID-19.pdf
-
-http://covid-19.moh.gov.my/faqsop/faq-umum/22.%20FAQ%20KKM_20Mac2020.pdf
-
-https://www.malaysia.gov.my/portal/content/30936
-
-http://covid-19.moh.gov.my
+ https://perma.cc/T7LW-4RMF
+https://perma.cc/T3EB-RK3D
+https://web.archive.org/web/20200425012503/https://www.malaysia.gov.my/portal/content/30936
+https://perma.cc/932K-N5PZ
 
 
 
@@ -2482,13 +2494,11 @@ http://covid-19.moh.gov.my
 No evidence was found on whether the government changed its policy on the use of chloroquine after June 2020. We code as 0 for quarters after Q2 2020 because we no longer found reports of the government using or promoting chloroquine. We do not know if it continued in practice. 
 
 *Sources*:
- http://mali-web.org/sante/traitement-du-coronavirus-au-mali-lutilisation-de-la-chloroquine-autorisee-lautomedication-interdite?fbclid=IwAR1Q4XNmQkPcKXJelQi-oWl91fCLrR5n1-9N2gbzW-PtUC4kToN1rucS280
+ https://perma.cc/B9CJ-XDZB
 (1)
-
-https://www.studiotamani.org/index.php/themes/societe/23651-traitement-des-malades-du-covid-19-l-oms-suspend-l-utilisation-de-la-chloroquine
+https://perma.cc/5MNC-S8B2
 (2)
-
-https://www.afrik.com/coronavirus-chloroquine-azythromycine-didier-raoult-donne-l-algerie-le-mali-le-senegal-en-exemple-video
+https://perma.cc/K3A8-KN53
 (3)
 
 
@@ -2517,10 +2527,10 @@ The shipment included 75,000 packs of chloroquine and 15,000 packs of Azithromyc
 Hydroxychloroquine has been part of Mauritania's treatment protocol adopted against Covid-19. No evidence was found on whether the government changed its policy on the use of chloroquine after June 2020. We code as 0 for quarters after Q2 2020 because we no longer found reports of the government using or promoting chloroquine. We do not know if it continued in practice. 
 
 *Sources*:
- https://northafricapost.com/41720-mauritania-others-welcomes-royal-decision-to-dispatch-medical-aid-to-african-countries.html
-(1)
+ perma.cc/FTU3-N58B
 
-https://afrique.le360.ma/maroc-mauritanie/politique/2020/06/14/30862-video-mauritanie-nouakchott-reception-dune-importante-aide-medicale-marocaine-pour
+
+perma.cc/36WS-BARQ
 
 
 
@@ -2546,24 +2556,23 @@ https://afrique.le360.ma/maroc-mauritanie/politique/2020/06/14/30862-video-mauri
 
 *Sources*:
  [1]
-https://www.theguardian.com/world/2020/mar/15/bolsonaro-amlo-coronavirus-warnings
+perma.cc/JT9W-AD6F
 [2]
-https://www.nytimes.com/2020/05/08/world/americas/mexico-coronavirus-count.html
+perma.cc/XVN7-X64Z
 [3]
-https://www.bbc.com/portuguese/internacional-52042531
+perma.cc/WE7Y-DQFS
 [4]
-https://www.youtube.com/watch?v=Fdz8Kwpf9KE
+perma.cc/53WT-WTME
 [5]
-https://cpj.org/2020/05/mexican-government-threatens-outlets-over-covid-19/
+perma.cc/GMR6-9K2Q
 [6]
-https://www.hrw.org/es/news/2020/03/26/mexico-los-mexicanos-necesitan-informacion-veraz-sobre-el-covid-19
-
+perma.cc/LNH8-JD2W
 [7]
-https://www.theguardian.com/world/2020/jul/31/mexico-president-amlo-mask-coronavirus-corruption
+perma.cc/QZ9D-4MNF
 [8]
-https://www.hrw.org/news/2021/02/03/will-lopez-obrador-continue-playing-mexicans-health
+perma.cc/S2P9-B86Z
 [9]
-https://www.theatlantic.com/international/archive/2021/02/why-covid-19-deniers-hold-so-much-power/618033/
+perma.cc/A5WJ-DWPC
 
 
 
@@ -2588,9 +2597,9 @@ https://www.theatlantic.com/international/archive/2021/02/why-covid-19-deniers-h
  information on covid-19 on the government's website; no reports on disinformation found. 
 
 *Sources*:
- https://gov.md/ro/content/informatii-privind-coronavirus
-https://ipi.media/moldova/
-https://rsf.org/en/moldova
+ https://perma.cc/59UY-ER2Q
+https://perma.cc/V96G-FJY7
+https://perma.cc/N2NG-H3KA
 
 
 
@@ -2617,7 +2626,7 @@ https://rsf.org/en/moldova
 As this information continues to be presented in the official website, the variable is coded as 1 on all periods. 
 
 *Sources*:
- https://covid19.mohs.mn
+ https://perma.cc/7MVA-67KY
 
 
 
@@ -2647,21 +2656,14 @@ The Moroccan Health Minister Khalid Ait Taleb ''also returned to the treatment p
 Morocco continues the use of chloroquine in Covid-19 treatment as of May 2021 (2). 
 
 *Sources*:
- https://www.en24news.com/2020/09/khalid-ait-taleb-tells-all-about-chloroquine-vaccines-and-respirators.html
-(1)
+ https://perma.cc/H9YS-TU34
+https://perma.cc/CV9D-NR2Z
+https://perma.cc/GQD7-JXGC
+https://perma.cc/24M7-ZHR2
 
-https://www.moroccoworldnews.com/2021/05/341393/morocco-to-re-supply-all-pharmacies-with-chloroquine-based-medicines-in-june
-(2)
-
-https://www.financialafrik.com/2020/08/06/covid-19-au-maroc-les-cas-asymptomatiques-seront-traites-a-domicile-avec-la-chloroquine/
-
-https://www.mapnews.ma/en/actualites/general/morocco-was-right-continue-using-chloroquine-treat-covid-19-patients-minister
-
-https://afrique.le360.ma/maroc-algerie-autres-pays/politique/2020/06/01/30726-covid-19-voici-pourquoi-les-pays-africains-ont-dit-non-loms-et-poursuivent-le
-
-https://northafricapost.com/41247-morocco-continues-use-of-chloroquine-despite-controversy.html
-
-https://al-bab.com/blog/2020/05/covid-19-algeria-and-morocco-continue-using-chloroquine-despite-concerns
+https://perma.cc/NE5U-NP4Q
+https://perma.cc/WUL6-GW5J
+https://perma.cc/Q455-WPNB
 
 
 
@@ -2686,7 +2688,7 @@ https://al-bab.com/blog/2020/05/covid-19-algeria-and-morocco-continue-using-chlo
  No evidence of false information being disseminated by the government. The government shares WHO information on its official covid-19 website. 
 
 *Sources*:
- https://covid19.ins.gov.mz/
+ [1]	perma.cc/W4MB-PD7K
 
 
 
@@ -2712,12 +2714,11 @@ https://al-bab.com/blog/2020/05/covid-19-algeria-and-morocco-continue-using-chlo
 
 *Sources*:
  [1]
-https://www.facebook.com/www.nbcnews.na/posts/namibia-joins-other-african-countries-in-supporting-madagascars-alleged-covid-19/3169454246439083/
+https://perma.cc/JRF4-M8L6
 [2]
-https://www.youtube.com/watch?v=bcPAjL84hck
-
+https://perma.cc/QG8G-NEF3
 [3]
-http://www.mhss.gov.na/corona
+https://perma.cc/ULW8-55EV
 [4]
 https://namibiacovid19.gov.na/faq
 
@@ -2744,15 +2745,19 @@ https://namibiacovid19.gov.na/faq
  I did not find any information on covid-19 related matters deviating from the official information provided by the WHO across all the time periods. 
 
 *Sources*:
- https://rsf.org/en/nepal
+ https://perma.cc/F42Z-C26L
 
-https://www.bbc.com/news/topics/cvenzmgyld1t/nepal
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/nepal/
+https://perma.cc/25QB-F4VC
 
-https://ipi.media/covid19-media-freedom-monitoring/
 
-https://en.ejo.ch/ethics-quality/nepal-coronavirus-and-the-media
+https://perma.cc/S286-C5UT
+
+
+https://perma.cc/G5SY-6M3Y
+
+
+https://perma.cc/F4ZT-8TD8
 
 
 
@@ -2777,7 +2782,7 @@ https://en.ejo.ch/ethics-quality/nepal-coronavirus-and-the-media
  There's no deviations from the information provided by WHO and that of the Dutch Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
 
 *Sources*:
- https://www.rivm.nl/en/novel-coronavirus-Covid-19
+ https://perma.cc/QRB2-HNQQ
 
 
 
@@ -2802,7 +2807,7 @@ https://en.ejo.ch/ethics-quality/nepal-coronavirus-and-the-media
  There's no deviations from the information provided by WHO and that of New Zealands Government on Covid-19, and no complaints or accusations of any such disinformation have been found. 
 
 *Sources*:
- https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-health-advice-general-public/about-covid-19
+ [1]	perma.cc/H42M-5R74
 
 
 
@@ -2828,21 +2833,21 @@ https://en.ejo.ch/ethics-quality/nepal-coronavirus-and-the-media
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/6EMK-AHTK
 [2]
-https://www.hrw.org/es/news/2020/06/23/nicaragua-despiden-medicos-por-criticar-el-manejo-de-la-covid-19
+perma.cc/5VH3-3SWW
 [3]
-http://www.oas.org/es/cidh/expresion/showarticle.asp?artID=1176&lID=2
+perma.cc/9GRY-Q82U
 [4]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/F87L-3V89
 [5]
-https://www.amnesty.org/download/Documents/AMR4325352020ENGLISH.PDF
+perma.cc/HZ94-TKMB
 [6]
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/nicaragua.php
+perma.cc/M3C5-VPG7
 [7]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/X8AX-G64H
 [8]
-https://www.hrw.org/world-report/2021/country-chapters/nicaragua
+perma.cc/3WV7-26BW
 
 
 
@@ -2870,11 +2875,12 @@ No evidence was found on whether the government changed its policy on the use of
  
 
 *Sources*:
- https://www.niameyetles2jours.com/la-gestion-publique/sante/0106-5510-coronavirus-le-niger-va-continuer-le-traitement-des-malades-avec-la-chloroquine
-(1)
-https://twitter.com/minsanteniger/status/1266458992039079938
-https://www.wasexo.bj/niger-covid-19-la-chloroquine-maintenue-dans-traitement-pandemie-ministre-sante/
-https://afriquedecryptages.wordpress.com/2020/07/03/circulation-et-commercialisation-de-chloroquine-en-afrique-de-louest-une-geopolitique-du-medicament-a-la-lumiere-du-covid-19/
+ https://perma.cc/FA6Q-8DDX
+
+(1)
+https://web.archive.org/web/20200529222929/https://twitter.com/minsanteniger/status/1266458992039079938
+https://perma.cc/R2DE-SPEL
+https://perma.cc/MZ6B-WMN7
 
 
 
@@ -2902,31 +2908,13 @@ https://afriquedecryptages.wordpress.com/2020/07/03/circulation-et-commercialisa
 Otherwise, the government Covid-19 information is similar to that of the WHO. 
 
 *Sources*:
- https://www.bbc.com/news/world-africa-52633630
-
-
-
-https://www.dw.com/en/covid-19-tests-for-miracle-cure-herb-artemisia-begin/a-53442366
-
-
-
-https://guardian.ng/news/why-nigeria-should-avoid-madagascars-covid-19-drug/
-
-
-
-https://www.afro.who.int/news/working-media-nigerias-covid-19-fight
-
-
-
-https://www.bbc.com/pidgin/tori-52684663
-
-
-
-https://covid19.ncdc.gov.ng/faq/
-
-
-
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+ [1]	perma.cc/SSQ5-WXQQ
+[2]	perma.cc/2G4V-L3MK
+[3]	perma.cc/253J-KCN5
+[4]	perma.cc/82A4-YZYL
+[5]	perma.cc/39ZL-P2YW
+[6]	perma.cc/DJU8-HPTC
+[7]	perma.cc/LNS9-DM4Q
 
 
 
@@ -2953,16 +2941,22 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
 In October 2020, North Korea warned its citizens to stay indoors over fears that 'yellow dust' which blows from China could bring Covid-19 to the country. However, there has been no link between these seasonal dust clouds and Covid-19. 
 
 *Sources*:
- https://www.brookings.edu/blog/order-from-chaos/2020/04/13/a-tale-of-two-koreas-in-the-age-of-coronavirus/
+ https://perma.cc/KR6S-XTHY
 
 
-https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korea-testing-quarantining-for-covid-19-still-says-no-cases-who-representative-idUSKBN21P3C2
+https://perma.cc/F2PL-N3DR
 
-https://www.dw.com/en/is-north-korea-hiding-a-coronavirus-outbreak/a-52619099
 
-https://www.dailynk.com/english/north-korean-tests-positive-for-covid-19-china/
+https://perma.cc/8C7T-NGNB
 
-https://www.bbc.com/news/world-asia-54655692
+
+https://perma.cc/AP4U-EV8V
+
+
+https://perma.cc/S9EZ-JVNA
+
+
+
 
 
 
@@ -2987,11 +2981,11 @@ https://www.bbc.com/news/world-asia-54655692
  Information on covid-19 on the government's website; no reports on disinformation found. 
 
 *Sources*:
- https://ipi.media/northmacedonia/
-https://vlada.mk/covid19
-https://www.icnl.org/covid19tracker/?location=205&issue=&date=&type=
-https://rsf.org/en/north-macedonia
-https://koronavirus.gov.mk/vesti/219024
+ [1]	perma.cc/Q78T-XC8F
+[2]	perma.cc/44F9-ES3B
+[3]	perma.cc/FB54-34CH
+[4]	perma.cc/7RKX-GEMK
+[5]	perma.cc/MSF3-3FFE
 
 
 
@@ -3016,8 +3010,10 @@ https://koronavirus.gov.mk/vesti/219024
  There's no deviations from the information provided by WHO and that of the Norwegian government on Covid-19, and no complaints or accusations of any such disinformation have been found. 
 
 *Sources*:
- https://helsenorge.no/coronavirus
-https://helsenorge.no/coronavirus/infection-and-incubation-period
+ https://perma.cc/FB2F-H7PK
+
+
+https://perma.cc/G35Q-XRN4
 
 
 
@@ -3043,9 +3039,9 @@ https://helsenorge.no/coronavirus/infection-and-incubation-period
 
 *Sources*:
  [1]
-https://covid19.moh.gov.om/#/about
+perma.cc/8LPE-YULH
 [2]
-https://covid19.moh.gov.om/#/faq
+perma.cc/TBW3-8VNU
 
 
 
@@ -3070,7 +3066,7 @@ https://covid19.moh.gov.om/#/faq
  Did not find information on this happening across all the time periods. 
 
 *Sources*:
- http://covid.gov.pk/
+ https://perma.cc/JGX8-CNMW
 
 
 
@@ -3095,8 +3091,8 @@ https://covid19.moh.gov.om/#/faq
  No evidence of false information being disseminated by the government. The government uses WHO information and the Ministry of Health created a website together with the WHO to inform the population. 
 
 *Sources*:
- http://www.minsa.gob.pa/destacado/coronavirus-covid-19
-https://panama.campusvirtualsp.org/instituciones-participantes
+ [1]	perma.cc/EY97-VQGN
+[2]	perma.cc/784A-RSPS
 
 
 
@@ -3121,10 +3117,13 @@ https://panama.campusvirtualsp.org/instituciones-participantes
  The information provided by the Papua New Guinea Health Department does not deviate from the information on Covid-19 provided by the WHO, and no other indication of the government spreading disinformation has been found (although disinformation spread by citizens seem to be rampant in PNG). 
 
 *Sources*:
- https://covid19.info.gov.pg/files/Approved%20Coronavirus%20Awareness.pdf
-https://covid19.info.gov.pg/index.php/Covid-19-awareness/
+ https://perma.cc/7H9S-Q2Q2
 
-https://www.bbc.com/news/world-asia-56926131
+
+https://perma.cc/D7UV-UBUV
+
+
+https://perma.cc/CWS2-BUFE
 
 
 
@@ -3150,7 +3149,7 @@ https://www.bbc.com/news/world-asia-56926131
 
 *Sources*:
  [1]
-https://www.mspbs.gov.py/publico-general-covid19.html
+perma.cc/SFQ5-DUJW
 
 
 
@@ -3176,9 +3175,9 @@ https://www.mspbs.gov.py/publico-general-covid19.html
 
 *Sources*:
  [1]
-https://www.gob.pe/coronavirus
+perma.cc/3LDK-WX5P
 [2]
-https://twitter.com/minjusdh_peru/status/1247871817815150592
+perma.cc/3SWB-5ZCX
 
 
 
@@ -3203,7 +3202,7 @@ https://twitter.com/minjusdh_peru/status/1247871817815150592
  I did not find evidence of this. 
 
 *Sources*:
- https://www.doh.gov.ph/2019-nCoV
+ https://perma.cc/B6MA-R67W
 
 
 
@@ -3228,10 +3227,13 @@ https://twitter.com/minjusdh_peru/status/1247871817815150592
  information on Covid-19 on the government's website; no reports on disinformation found. 
 
 *Sources*:
- https://www.gov.pl/web/koronawirus
+ https://perma.cc/JX7T-TAGE
 
-https://ipi.media/poland/
-https://rsf.org/en/poland
+
+https://perma.cc/3VZG-UQYX
+
+
+https://perma.cc/9TET-EP2T
 
 
 
@@ -3257,9 +3259,9 @@ https://rsf.org/en/poland
 
 *Sources*:
  [1]
-https://covid19.min-saude.pt/
+perma.cc/B66Z-MD37
 [2]
-https://covid19.min-saude.pt/category/perguntas-frequentes/
+perma.cc/XK2V-AMWU
 
 
 
@@ -3284,9 +3286,16 @@ https://covid19.min-saude.pt/category/perguntas-frequentes/
  The information provided on the official Covid-19 website in Qatar aligns with WHO, and no evidence of disinformation has been found. 
 
 *Sources*:
- https://covid19.moph.gov.qa/EN/Pages/default.aspx
-https://ipi.media/qatar/
-https://rsf.org/en/qatar
+ https://perma.cc/PFR5-HD2W
+
+
+https://perma.cc/QNP2-QELW
+
+
+https://perma.cc/QLR7-6C93
+
+
+
 
 
 
@@ -3313,10 +3322,14 @@ https://rsf.org/en/qatar
 ''Asked about the controversial treatment against Covid-19 from the traditional pharmacopoeia, which was developed in Madagascar and which the Congo intends to try on its territory, Denis Sassou-Nguesso explains that lives are at stake. "We think that all the trials that have been done elsewhere and that have shown some signs of effectiveness […], we too must try them to try to save lives ".'' 
 
 *Sources*:
- https://www.africanews.com/2020/07/17/congo-covid-organics-efficacy-limited/
-(1)
-https://www.france24.com/fr/afrique/20200507-denis-sassou-nguesso-nous-avons-observ%C3%A9-une-remont%C3%A9e-de-l-%C3%A9pid%C3%A9mie-de-covid-19-au-congo
-https://www.aa.com.tr/fr/afrique/-le-congo-brazzaville-recoit-un-lot-de-covid-organics-/1831840
+ https://perma.cc/JQS3-W9CW
+(1)
+https://perma.cc/UHQ9-SMZ3
+(2)
+
+https://perma.cc/GQ4M-FQ9R
+
+(3)
 
 
 
@@ -3341,9 +3354,16 @@ https://www.aa.com.tr/fr/afrique/-le-congo-brazzaville-recoit-un-lot-de-covid-or
  information on Covid-19 on the government's website; no reports on disinformation found. 
 
 *Sources*:
- https://gov.ro/ro/info-coronavirus-covid-19
-https://ipi.media/romania/
-https://rsf.org/en/romania
+ https://perma.cc/2M6N-PLSB
+
+
+https://perma.cc/4QA5-YLCX
+
+
+https://perma.cc/PR28-J2T6
+
+
+
 
 
 
@@ -3368,21 +3388,20 @@ https://rsf.org/en/romania
  State-owned media channels and outlets have spread Covid-19 conspiracy theories that are not in line with the information given by the WHO, such about the origin of the virus. There are also reports on expressing concerns over alledged underreporting of covid-19 cases. According to Amnestry International, "Official and independent numbers on infection and mortality rates varied greatly, indicating government under-reporting" (1). 
 
 *Sources*:
- https://www.theguardian.com/world/2020/mar/18/russian-media-spreading-covid-19-disinformation
-https://www.bbc.com/news/world-europe-51413870
-https://www.themoscowtimes.com/2021/03/01/2-in-3-russians-believe-coronavirus-is-a-bioweapon-poll-a73101
-https://apnews.com/article/pandemics-beijing-only-on-ap-epidemics-media-122b73e134b780919cc1808f3f6f16e8
-https://euvsdisinfo.eu/eeas-special-report-update-short-assessment-of-narratives-and-disinformation-around-the-covid19-pandemic-updated-23-april-18-may/
-https://www.nytimes.com/2020/04/03/world/europe/russian-virus-doctor-detained.html
-https://www.nytimes.com/2020/04/10/world/europe/coronavirus-russia-moscow-putin.html?action=click%26module=RelatedLinks%26pgtype=Article
-https://www.bbc.com/russian/news-52235498
-https://www.kommersant.ru/doc/4315608
+ https://perma.cc/LYR5-5UYF
+https://perma.cc/9234-KN66
+https://perma.cc/KFT9-SHRS
+https://perma.cc/AC5P-GZTK
+https://perma.cc/72NG-ADLP
+https://perma.cc/5YZG-EZZM
+https://perma.cc/B3SX-Z395
+https://perma.cc/7QM7-WU3L
+https://perma.cc/6AG8-P8QL
+https://perma.cc/ZD6T-7VU9
+https://perma.cc/5R2V-LXH6
 
-https://apnews.com/dbbf02a747b11d8ffe3b07d5e33ff129
-https://cpj.org/2020/08/freelancer-vladimir-sevrinovsky-on-covering-covid-19-in-the-north-caucasus-the-main-misinformation-i-fight-is-from-the-state/
-https://www.bloomberg.com/news/articles/2020-05-13/experts-question-russian-data-on-covid-19-death-toll
-https://www.politico.eu/article/covid-vaccine-disinformation-russia/
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+https://perma.cc/536U-SFHT
+https://perma.cc/59KS-EP8Y
 (1)
 
 
@@ -3408,12 +3427,15 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
  In agreement with WHO guidlines. Also, on the use of chloroquine, Rwandan authorities in March had informed the public that chloroquine has not proven yet to be effective, and that updates would follow in collaboration with WHO (4). 
 
 *Sources*:
- https://www.rbc.gov.rw/index.php?id=707
+ https://perma.cc/EDM3-H9UK
+(1)
 
-https://moh.gov.rw/index.php?id=575
+https://web.archive.org/web/20200727212604/https://moh.gov.rw/index.php?id=575
+(2)
+https://perma.cc/RYP4-UJS8
+(3)
+https://web.archive.org/web/20201130231854/http://www.rwandafda.gov.rw/web/fileadmin/13Circular.pdf
 
-https://www.afro.who.int/news/covid-19-rwanda-countrys-response
-http://www.rwandafda.gov.rw/web/fileadmin/13Circular.pdf
 (4)
 
 
@@ -3439,8 +3461,8 @@ http://www.rwandafda.gov.rw/web/fileadmin/13Circular.pdf
  The information provided by the Saudi Health Department does not deviate from the information on Covid-19 provided by the WHO. 
 
 *Sources*:
- https://www.moh.gov.sa/en/HealthAwareness/EducationalContent/Corona/Pages/corona.aspx
-https://www.moh.gov.sa/en/Pages/default.aspx
+ https://perma.cc/9M2D-GX7C
+https://perma.cc/93UP-H9KF
 
 
 
@@ -3469,12 +3491,19 @@ Professor Moussa Seydi, head of the infectious diseases department at Fann hospi
 “Currently, the analysis of our data collected from 838 patients. The results that we have obtained on the use of hydroxychloroquine and azithromycin have confirmed the efficiency of this combination,”'' (1) 
 
 *Sources*:
- https://africa.cgtn.com/2020/07/03/senegals-covid-19-cases-surpass-7000-mark/
-(1)
-https://www.africanews.com/2020/05/28/senegal-to-continue-treating-covid-19-patients-with-hydroxychloroquine//
-https://afrique.le360.ma/maroc-algerie-autres-pays/politique/2020/06/01/30726-covid-19-voici-pourquoi-les-pays-africains-ont-dit-non-loms-et-poursuivent-le
-http://www.xinhuanet.com/english/2020-06/07/c_139119593.htm
-https://enactafrica.org/enact-observer/how-covid-19-is-fuelling-the-trafficking-of-fake-chloroquine-in-senegal
+ perma.cc/J7US-TCA2
+
+
+perma.cc/C78Q-FZLJ
+
+
+perma.cc/7YDD-3QM9
+
+
+perma.cc/AZ9D-W7Q4
+
+
+perma.cc/8P4P-4SEZ
 
 
 
@@ -3499,13 +3528,12 @@ https://enactafrica.org/enact-observer/how-covid-19-is-fuelling-the-trafficking-
  Reports on repeated misinformation from MD Branimir Nestorovic, a member of the the expert emergency team (stating that the virus is a joke, that it does not affect women, that Serbs have a genetic modification in blood protecting them from a virus, that we should get exposed to the virus to help create collective immunity, among others). According to local media reports, Branimir Nestorovic has not made any more controversial statements since June 2020.  Nevertheless, I haven't found any information that these statements have been refuted, therefore govmis is coded as 2 in March-June and July-September 2020. Branimir Nestorovic left the emergency team in August 2020. Because he could not longer be considered part of the government or its agents and I found no other reports on disinformation, coding is changed to 0 in Q4 2020, Q1 2021, Q2 201. 
 
 *Sources*:
- https://globalvoices.org/2020/04/22/six-false-statements-by-serbian-government-officials-on-covid-19/
-
-https://www.istinomer.rs/analize/preslobodne-tvrdnje-jednog-pulmologa
-https://www.istinomer.rs/izjava/srbija-imala-krizni-stab-kad-jos-niko-nije
-https://www.bbc.com/serbian/lat/srbija-52067487
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B345%5D&covid19=1
-https://www.b92.net/eng/news/society.php?yyyy=2020&mm=08&dd=07&nav_id=109087
+ https://perma.cc/55WW-BTJ5
+https://perma.cc/3VU2-CJZ2
+https://perma.cc/G3E7-8FK5
+https://perma.cc/FGC2-TQZA
+https://perma.cc/J7UH-BULT
+https://perma.cc/6D7F-QYCG
 
 
 
@@ -3530,14 +3558,14 @@ https://www.b92.net/eng/news/society.php?yyyy=2020&mm=08&dd=07&nav_id=109087
  Daily updates are published on the government's Facebook page, no reports on disinformation found. The official website of the goverment for COVID-19 makes references to WHO. 
 
 *Sources*:
- https://mohs.gov.sl/index.php/covid-19/
-https://statehouse.gov.sl/wp-content/uploads/2020/03/Statement-by-His-Excellency-Dr-Julius-Maada-Bio-President-of-the-Republic-of-Sierra-Leone-on-Enhanced-Public-Health-and-Safety-Measures-to-Prevent-Coronavirus.-Freetown-Sierra-Leone-18-March-2020.pdf
-https://www.afro.who.int/sites/default/files/2020-03/Government%20of%20Sierra%20Leone%20COVID-19%20Advisory%20for%20Residents%20in%20Sierra%20Leone.pdf
+ [1]	perma.cc/Q8EH-3ZJ3
+[2]	perma.cc/7CJS-2RAQ
 
-https://www.facebook.com/mic.gov.sl/
-https://rsf.org/en/sierra-leone
+[3]	perma.cc/UHH3-S3DT
+[4]	https://www.facebook.com/mic.gov.sl/
 
-https://ipi.media/sierra-leone/
+[5]	perma.cc/2J5A-4HTX
+[6]	perma.cc/7ZEM-8YKH
 
 
 
@@ -3562,14 +3590,10 @@ https://ipi.media/sierra-leone/
  I did not find any information on the Singaporean government providing information on Covid-19 that deviated from the information provided by the WHO across all time periods. 
 
 *Sources*:
- https://www.moh.gov.sg/covid-19
-
-
-https://rsf.org/en/singapore
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/singapore/
-
-https://www.hrw.org/asia/singapore
+ https://perma.cc/9RET-D3Z9
+https://perma.cc/J4Z3-WR78
+https://perma.cc/UY9Y-TTYW
+https://perma.cc/J8SH-GA69
 
 
 
@@ -3594,10 +3618,16 @@ https://www.hrw.org/asia/singapore
  official website with information on covid-19; no reports on disinformation from the government and its agents found. IPI reports on disinformation from Marian Kotleba, leader of the neo-fascist People’s Party Our Slovakia (LSNS),  which is not coded since he does not represent the government. 
 
 *Sources*:
- https://korona.gov.sk/
-https://cpj.org/europe/slovakia/
-https://rsf.org/en/slovakia
-https://ipi.media/as-pandemic-grows-slovak-media-struggle-to-fight-the-infodemic/
+ https://perma.cc/E5VX-ZJJZ
+
+
+https://perma.cc/9EN8-ZUVB
+
+
+https://perma.cc/B8AR-G9E8
+
+
+https://perma.cc/E9J5-JV26
 
 
 
@@ -3622,12 +3652,11 @@ https://ipi.media/as-pandemic-grows-slovak-media-struggle-to-fight-the-infodemic
  Official website with information on covid-19; no reports on disinformation found. 
 
 *Sources*:
- https://www.gov.si/teme/koronavirus-sars-cov-2/
-
-https://ipi.media/slovenia/
-https://rsf.org/en/slovenia
-https://www.icnl.org/covid19tracker/?location=113&issue=&date=&type=
-https://cpj.org/europe/slovenia/
+ [1]	perma.cc/ND6G-JZW5
+[2]	perma.cc/R6JX-YZDU
+[3]	perma.cc/9FS4-4KY7
+[4]	perma.cc/DBR3-URW9
+[5]	perma.cc/NB6H-ANHM
 
 
 
@@ -3652,13 +3681,10 @@ https://cpj.org/europe/slovenia/
  The information from the government is similar to the information from WHO. 
 
 *Sources*:
- https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+ https://perma.cc/94PJ-XTHK
 
-
-https://moh.gov.so/en/covid19/
-
-
-https://moh.gov.so/en/
+https://perma.cc/X9QK-CGXR
+https://perma.cc/P2BK-66NZ
 
 
 
@@ -3683,14 +3709,9 @@ https://moh.gov.so/en/
  The Department of Health provides an FAQ that states that "the SARS-CoV-2 virus does not survive well in warmer climates" [1]. This is not in line with the information from the WHO. However, this is minor and does not appear to be intended as misinformation. All other information on the government websites appears to be in line with the WHO. The government has also established a website aimed at combatting fake news. 
 
 *Sources*:
- [1]
-https://sacoronavirus.co.za/faqs/
-
-[2]
-http://www.health.gov.za/covid19/faq/covid19.html
-
-[3]
-https://www.gov.za/covid-19/resources/fake-news-coronavirus-covid-19
+ [1]	perma.cc/AXC6-PCYB
+[2]	perma.cc/KQM7-3MSH
+[3]	perma.cc/M3J8-ZY7U
 
 
 
@@ -3715,7 +3736,7 @@ https://www.gov.za/covid-19/resources/fake-news-coronavirus-covid-19
  I did not find any information related to this across all time periods. 
 
 *Sources*:
- http://ncov.mohw.go.kr/en/
+ https://perma.cc/87GD-FZKU
 
 
 
@@ -3740,10 +3761,16 @@ https://www.gov.za/covid-19/resources/fake-news-coronavirus-covid-19
  The Ministry of Health of South Sudan maintains information on its website and through its social media accounts (Facebook, Twitter). While these have not been regularly updated throughout the pandemic and links on the Ministry's website do not function, the information that is posted does not deviate from and regularly refers to WHO guidelines. 
 
 *Sources*:
- https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
-https://twitter.com/mohsouthsudan?lang=en
-https://www.facebook.com/moh.gov.ss/
-https://moh.gov.ss
+ https://perma.cc/7J6W-AUVD
+
+
+https://perma.cc/SG67-SN8K
+
+
+https://perma.cc/ZJ7H-KNM5
+
+
+https://perma.cc/46RB-G5LW
 
 
 
@@ -3768,11 +3795,8 @@ https://moh.gov.ss
  The information provided by the government is in acccordance with the WHO. 
 
 *Sources*:
- [1]
-https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/ciudadania.htm
-
-[2]
-https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/situacionActual.htm
+ [1]	perma.cc/WGJ9-2JMW
+[2]	perma.cc/4QK6-8TXF
 
 
 
@@ -3810,50 +3834,32 @@ However, guidelines published by the WHO does not mention dangers to drinking wa
 
 *Sources*:
  (1)
-http://adayaalam.org/wp-content/uploads/2020/04/COVID-19-Situation-Brief-Sri-Lankas-Militarised-Response-poses-grave-threats-to-human-rights.pdf
-
-
-
+https://perma.cc/K6DE-ZAYL
 (2)
-http://adayaalam.org/situation-brief-no-3-covid-19-sri-lankas-militarised-response-poses-grave-threats-to-human-rights/
-
-
-
+https://perma.cc/UD3S-AZE4
 (3)
-https://www.thehindu.com/news/international/muslim-organisations-in-sri-lanka-concerned-over-hate-mongering/article31334589.ece
-
-
+https://perma.cc/4YXK-CG8E
 (4)
-https://www.hrw.org/news/2020/04/23/sri-lanka-due-process-concerns-arrests-muslims
-
-
-
+https://perma.cc/8K7T-GEWM
 (5)
-https://groundviews.org/2020/04/05/the-president-in-the-pandemic/
-
-
-
+https://perma.cc/7VEQ-N3BU
 (6)
-https://www.bbc.com/news/world-asia-53295551
-
-
-
-(7)https://www.who.int/publications/i/item/infection-prevention-and-control-for-the-safe-management-of-a-dead-body-in-the-context-of-covid-19-interim-guidance
-
+https://perma.cc/ZF2E-GB6G
+(7)
+https://perma.cc/D6AJ-5TK7
 (8)
-https://www.bbc.com/news/world-asia-56205737
-
+https://perma.cc/2D5S-AR65
 (9)
-https://www.bbc.com/news/world-asia-56249805
-
+https://perma.cc/2D5S-AR65
 (10)
-https://covid19.gov.lk/news/defence/meth-sanda-sewana-residents-in-quarantine-to-use-herbal-medicine-against-covid-19.html
-
+https://perma.cc/LM25-ZFJK
 (11)
-https://www.bbc.com/news/world-asia-55780425
+https://web.archive.org/web/20201202180416/https://covid19.gov.lk/news/defence/meth-sanda-sewana-residents-in-quarantine-to-use-herbal-medicine-against-covid-19.html
 
 (12)
-https://www.theguardian.com/world/2021/jan/19/sri-lankan-holy-mans-miracle-potion-for-covid-turns-sour
+https://perma.cc/HA5Q-Y9ZM
+(13)
+https://perma.cc/3FXT-95MF
 
 
 
@@ -3878,12 +3884,9 @@ https://www.theguardian.com/world/2021/jan/19/sri-lankan-holy-mans-miracle-potio
  No official Covid-19 information from the Sudanese government was found. Therefore, they do not spread misinformation about Covid-19. 
 
 *Sources*:
- [1]
-http://www.sudan.gov.sd/index.php/en/
-[2]
-http://www.fmoh.gov.sd/En/index.php?id=1
-[3]
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+ [1]	perma.cc/GZA4-DK4A
+[2]	perma.cc/8XAR-CWWF
+[3]	perma.cc/49U7-LC38
 
 
 
@@ -3908,7 +3911,7 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
  There's no deviations from the information provided by WHO and that of the Swedish Government on Covid-19, and no complaints or accusations of any such disinformation have been found. 
 
 *Sources*:
- https://www.folkhalsomyndigheten.se/the-public-health-agency-of-sweden/communicable-disease-control/Covid-19/
+ https://perma.cc/R866-UWCG
 
 
 
@@ -3933,11 +3936,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
  There's no deviations from the information provided by WHO and that of the Swiss Government on Covid-19, and no complaints or accusations of any such disinformation have been found. 
 
 *Sources*:
- https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/krankheit-symptome-behandlung-ursprung.html
-
-https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/so-schuetzen-wir-uns.html
+ https://perma.cc/FL9P-WDKJ
 
 
+https://perma.cc/4JV3-YU4H
 
 
 
@@ -3962,10 +3964,10 @@ https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/
  I did not find any information on covid-19 related matters deviating from the official information provided by the WHO. 
 
 *Sources*:
- https://www.cdc.gov.tw/En/Category/QAPage/SbkmnM5v0OwdDMjJ2tI_xw
+ https://perma.cc/Q4SJ-6DTM
 
 
-https://www.cdc.gov.tw/En/Category/List/fl7pveR6ZcoetNProjyY-g
+https://perma.cc/5FEK-CAL2
 
 
 
@@ -3990,10 +3992,11 @@ https://www.cdc.gov.tw/En/Category/List/fl7pveR6ZcoetNProjyY-g
  The government publishes information on covid-19 on the health ministry website (1). In March 2020, the health minister gave an interview to a state-run newspaper saying that covid-19 is less likely to spread in Tajikistan due to its hot climate. Coded as 1 in March-June 2020 since information on the official website is in line with WHO recommendations.  Since it was a single incident and I found no further reports on disinformation, govdis is coded as 1 only in Q2 2020. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
-http://moh.tj/covid-19/
+ https://perma.cc/C8K9-HZ2C
+https://web.archive.org/web/20200405140843/http://moh.tj/covid-19/
 (1)
-https://www.economist.com/asia/2020/04/23/life-carries-on-as-usual-in-tajikistan-and-turkmenistan
+
+https://perma.cc/VL2Z-2V4K
 
 
 
@@ -4021,45 +4024,31 @@ Worth noting is that in June 2021 Tanzania requested access to vaccines through 
 
 *Sources*:
  [1]
-https://www.bbc.com/news/world-africa-52966016
-
+https://perma.cc/223W-MQ37
 [2]
-https://www.theguardian.com/world/2020/may/27/tanzanian-president-accused-of-covering-up-Covid-19-outbreak
-
+https://perma.cc/23ZD-FBTS
 [3]
-https://www.bbc.com/news/world-africa-52519853
-
+https://perma.cc/2EXZ-D26Q
 [4]
-https://www.atlanticcouncil.org/blogs/africasource/tanzanias-mild-response-to-Covid-19-and-its-implications-for-the-2020-elections/
-
+https://perma.cc/T2GB-KAQU
 [5]
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
-
+https://perma.cc/QF5V-BUCE
 [6]
-https://africacheck.org/reports/fact-checking-tanzanian-president-john-magufuli-on-inhaling-steam-to-treat-Covid-19/
-
+https://perma.cc/5ASZ-Q7RG
 [7]
-https://www.nytimes.com/2020/08/04/world/africa/tanzanias-coronavirus-president.html
-
+https://perma.cc/9P3S-RENM
 [8]
-https://www.theelephant.info/features/2020/05/29/a-problem-of-denial-why-tanzania-could-lose-the-war-against-Covid-19/
-
-
+https://perma.cc/D26V-SY4B
 [9]
-https://www.theguardian.com/world/2021/feb/28/tanzania-leader-says-prayer-will-cure-covid-as-hospitals-overflow
-
+https://perma.cc/S26D-6886
 [10]
-https://tz.usembassy.gov/Covid-19-information/
-
+https://perma.cc/AAE2-9846
 [11]
-https://abcnews.go.com/International/wireStory/tanzania-experts-suggest-overhaul-Covid-19-denial-policy-77744479
-
+https://perma.cc/3LZA-GJF9
 [12]
-https://www.wsj.com/articles/after-a-year-of-denying-covid-19-tanzania-orders-vaccines-11623938431
-
-[13[
-
-https://www.thecitizen.co.tz/tanzania/news/-tanzania-applies-for-sh1-3trillion-loan-to-fight-covid-19-effects-3440546
+https://perma.cc/R5LD-MAM3
+[13]
+https://web.archive.org/web/20210617083546/https://www.thecitizen.co.tz/tanzania/news/-tanzania-applies-for-sh1-3trillion-loan-to-fight-covid-19-effects-3440546
 
 
 
@@ -4084,7 +4073,7 @@ https://www.thecitizen.co.tz/tanzania/news/-tanzania-applies-for-sh1-3trillion-l
  I did not find any information related to this. 
 
 *Sources*:
- https://ddc.moph.go.th/viralpneumonia/eng/index.php
+ https://perma.cc/49WB-8A8S
 
 
 
@@ -4109,21 +4098,12 @@ https://www.thecitizen.co.tz/tanzania/news/-tanzania-applies-for-sh1-3trillion-l
  The information from the government is similar to the information from WHO. However, the government has announced accepting a consignment from the Madagascar's president through an ECOWAS program. The "Covid Organics" medicine (a herbal tonic touted as a cure for COVID-19) was then said to be handed to the ministry of health for treatment of patients. WHO advises that there is no proof of its efficiency. No information was found indicating that patients are actually being treated with "Covid Organics". Information provided by the Ministry of Health conforms to WHO guidelines and does not mention Covid Organics. Therefore, we only code disinformation as "1" in the Mar-June period when the consignment of Covid Organics was received. No other evidence of any disinformation found during the coded period. 
 
 *Sources*:
- https://www.chronicle.gm/madagascar-covid-organics-gambians-believe-its-time-to-show-solidarity/
+ https://perma.cc/3AC4-A8Y3
 
-https://twitter.com/mohcovid19gmb
+https://perma.cc/MBH7-9PAS
 
-http://op.gov.gm/gambia-receives-covid-organics-package-madagascar
-
-http://www.moh.gov.gm/Covid-19-report/
-
-
-
-http://www.moh.gov.gm/
-
-
-
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+https://perma.cc/D8ZA-54US
+https://web.archive.org/web/20200328065148/http://www.moh.gov.gm/Covid-19-report/
 
 
 
@@ -4154,20 +4134,11 @@ By October 2020, the government is still using chloroquine for treating Covid-19
 No evidence was found on whether chloroquine is still being used by June 2021. We code as 0 for quarters that we no longer found reports of the government using or promoting chloroquine. We do not know if it continued in practice. 
 
 *Sources*:
- https://afrique.le360.ma/maroc-algerie-autres-pays/politique/2020/06/01/30726-covid-19-voici-pourquoi-les-pays-africains-ont-dit-non-loms-et-poursuivent-le
-(1)
-
-https://www.togofirst.com/en/health/2905-5619-covid-19-togo-decides-to-keep-using-chloroquine-to-treat-patients-despite-the-controversy-surrounding-its-efficiency
-(2)
-
-https://tg.usembassy.gov/health-alert-u-s-embassy-lome-togo-july-2-2020/
-(3)
-
-https://www.republicoftogo.com/Toutes-les-rubriques/Sante/Le-melange-chloroquine-hydroxychloroquine-n-est-pas-efficace
-(4)
-
-https://tg.usembassy.gov/health-alert-u-s-embassy-lome-togo-october-15-2020/
-(5)
+ perma.cc/GY8Y-ATWX
+perma.cc/BSB4-PKJ2
+https://web.archive.org/web/20200809212819/https://tg.usembassy.gov/health-alert-u-s-embassy-lome-togo-july-2-2020/
+perma.cc/LE2W-QB9C
+https://web.archive.org/web/20201018174252/https://tg.usembassy.gov/health-alert-u-s-embassy-lome-togo-october-15-2020/
 
 
 
@@ -4192,12 +4163,9 @@ https://tg.usembassy.gov/health-alert-u-s-embassy-lome-togo-october-15-2020/
  The information from the government is similar to the information from WHO. 
 
 *Sources*:
- [1]
-http://www.pm.gov.tn/pm/content/?lang=en
-[2]
-http://coronavirus.rns.tn
-[3]
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+ [1]	perma.cc/27YN-M2R9
+[2]	perma.cc/K99Z-VUBW
+[3]	perma.cc/PB8W-CCVK
 
 
 
@@ -4222,20 +4190,16 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
  In general, the Turkish Government's official guidelines conform to the WHO, but it has recommend treatments with hydroxychloroquine. For example has the Health Minister attributed Turkey’s at the time comparatively low death rate in part to the use of hydroxychloroquine. Furthermore, Hydroxychloroquine was removed from the official Covid-19 treatment plan on 2021-05-07, but was in place throughout the pandemic before that, and seems to have been used through the period as well. This is therefore coded as 2 for all time periods. Note also that Turkey has underreported cases to a large extent, which is not the result of limited test capacity or the like, but underreporting through using a definition of Covid-19 case that does not concur with the one used by WHO, which the government itself admitted to in October of 2020. However, this underreporting does not suffice to increase the coding to 3, and this is still coded as 2 therefore. 
 
 *Sources*:
- https://covid19bilgi.saglik.gov.tr/tr/
-https://covid19.saglik.gov.tr
-https://tr.usembassy.gov/Covid-19-information-2/https://www.bbc.com/news/world-europe-52831017
-https://bianet.org/english/health/230676-turkey-begins-distributing-hydroxychloroquine-to-homes-in-capital-city-amid-bed-shortage
-https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/early-hydroxychloroquine-helps-virus-patients-study/1898810
-
-
-https://www.aljazeera.com/news/2021/4/14/what-is-the-real-extent-of-turkeys-covid-crisis
-
-https://www.ft.com/content/5307a438-f083-4f7f-a1da-5b0a0eaa6047
-
-https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01098-9/fulltext?rss=yes
-
-https://www.duvarenglish.com/turkeys-top-medical-association-asks-health-ministry-to-share-reasons-behind-hydroxychloroquines-removal-from-Covid-19-treatment-plan-news-57449
+ https://perma.cc/HQ43-AZVS
+https://perma.cc/SW6Y-D6PY
+https://perma.cc/5DH3-Z5KA
+https://perma.cc/ZT5X-GMGG
+https://perma.cc/BM2X-ZYE6
+https://perma.cc/8GX9-4GNP
+https://perma.cc/5HVY-YWGK
+https://perma.cc/KM9Q-KWHA
+https://doi.org/10.1016/S0140-6736(21)01098-9
+https://perma.cc/A4BG-8RQP
 
 
 
@@ -4260,14 +4224,16 @@ https://www.duvarenglish.com/turkeys-top-medical-association-asks-health-ministr
  The government removed the word "coronavirus" from its brochures; the president gave an order to use a traditional herb to disinfect public spaces; some travellers had to undergo medical testing unrelated to covid-19 (1). According to a BBC article from 23 October, "alleged virus-laden dust [from China] was the reason citizens were being told to wear masks." (2) 
 
 *Sources*:
- https://tm.usembassy.gov/covid-19-information/
+ https://perma.cc/32MD-T768
 (1)
-https://rsf.org/en/news/coronavirus-limits-turkmenistan
-https://www.nytimes.com/2020/04/02/world/asia/coronavirus-denial-post-soviet.html
-https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
-https://www.bbc.com/news/world-asia-54655692
+
+https://perma.cc/5PR2-2QXY
+https://perma.cc/NU8G-NH7E
+https://perma.cc/Q54U-CSE6
+https://perma.cc/9838-ZZNK
 (2)
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+
+https://perma.cc/QR3S-UY3P
 
 
 
@@ -4292,27 +4258,13 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
  In April the Ugandan government touted hydroxychloroquine as a Covid-19 cure. The World Health Organization decided to discontinue trials with hydroxychloroquine on June 17 and Uganda stopped using it in July, a month after the WHO stopped its trials. Uganda's health ministry has fact sheets on its websites from the WHO and the information it presents is consistent with the WHO. 
 
 *Sources*:
- [1]
-https://www.wsws.org/en/articles/2020/04/15/ugan-a15.html
-
-[2]
-https://www.newvision.co.ug/news/1523847/hydroxychloroquine-removed-covid-19-treatment-experts
-[3]
-https://www.independent.co.ug/uganda-halts-use-of-hdyroxychloroquine-for-covid-19-treatment/
-
-[4]
-https://www.reuters.com/article/uk-factcheck-uganda-idUSKBN26L2KW
-
-[5]
-https://www.independent.co.ug/uganda-using-hydroxychloroquine-to-treat-covid-19-patients/
-[6]
-https://www.newvision.co.ug/news/1523847/hydroxychloroquine-removed-covid-19-treatment-experts
-[7]
-https://www.independent.co.ug/uganda-halts-use-of-hdyroxychloroquine-for-covid-19-treatment/
-[8]
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
-[9]
-https://www.health.go.ug/covid/
+ [1]	perma.cc/P5WP-XM97
+[2]	perma.cc/957A-5NJ7
+[3]	perma.cc/EZT9-9MB7
+[4]	perma.cc/9VPV-8NEY
+[5]	perma.cc/P5BW-9NXG
+[6]	perma.cc/D9CC-6K6P
+[7]	perma.cc/MCD5-E2UJ
 
 
 
@@ -4337,10 +4289,16 @@ https://www.health.go.ug/covid/
  official website with information on covid-19; no reports on disinformation found. 
 
 *Sources*:
- https://covid19.gov.ua/
-https://rsf.org/en/ukraine
-https://ipi.media/ukraine/
-https://cpj.org/europe/ukraine/
+ https://perma.cc/Z69P-34VQ
+
+
+https://perma.cc/B85V-X5EG
+
+
+https://perma.cc/2U96-Y72Q
+
+
+https://perma.cc/9ZQY-5L9J
 
 
 
@@ -4365,14 +4323,10 @@ https://cpj.org/europe/ukraine/
  The UAE government's covid-19 information is similar to that of the WHO. 
 
 *Sources*:
- [1]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/2019-novel-coronavirus
-[2]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/tips-to-stay-safe-from-covid-19
-[3]
-https://www.mohap.gov.ae/en/AwarenessCenter/Pages/COVID19-Information-Center.aspx
-[4]
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+ [1]	perma.cc/2M4U-SQYL
+[2]	perma.cc/V5KH-GEYV
+[3]	https://web.archive.org/web/20200515113155/https://www.mohap.gov.ae/en/AwarenessCenter/Pages/COVID19-Information-Center.aspx
+[4]	perma.cc/633J-YW64
 
 
 
@@ -4397,9 +4351,9 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
  There's no deviations from the information provided by WHO and that of the British Government on Covid-19, and no complaints or accusations of any such disinformation have been found. 
 
 *Sources*:
- https://www.gov.uk/coronavirus
+ https://perma.cc/X9LC-42V3
+https://web.archive.org/web/20200316024926/https://publichealthmatters.blog.gov.uk/2020/01/23/wuhan-novel-coronavirus-what-you-need-to-know/
 
-https://publichealthmatters.blog.gov.uk/2020/01/23/wuhan-novel-coronavirus-what-you-need-to-know/
 
 
 
@@ -4424,12 +4378,12 @@ https://publichealthmatters.blog.gov.uk/2020/01/23/wuhan-novel-coronavirus-what-
  The Atlantic (6) provides a list inaccurate statements about Covid-19 by  President Trump (with reference to where the original statement was made), and why they are wrong. For example, President Trump has stated that it would disappear come warmer weather, that it would simply disappear due to a miracle ("One day it's like a miracle - it will simply disappear"), that vaccines will be available much earlier than any other sources claim, that antimalaria medicine is an effective treatment for the virus, that injecting disinfectants could be used as a treatment against the virus, that many medical staff are using antimalaria medicine/injecting disinfectants as a way of protecting themselves against the virus, and that media outlets were overblowing fears about the virus to interfere with the election. Many of the claims have also been repeated, and when questioned, President Trump has defended many of them. However, government agencies and agents, most prominently the CDC, have also provided information fully in accordance with WHO, and have also contested many of President Trump’s claims. It can therefore not be regarded a systematic dissemination of information about the virus from the government and its agencies as a whole, but rather a mixed and conflicting message where President Trump often has provided information on the virus that is not in accordance with WHO. While the disinformation was most intense in the first period, statements have continued and/or not been revoked and this is therefore coded as 2 for all of 2020. However, no evidence has been found of such disinformation in the last days of the Trump administration, nor any from the Biden administration (or other authorities during this period). This is therefore coded as 0 for Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.theatlantic.com/politics/archive/2020/05/trumps-lies-about-coronavirus/608647/
+ https://perma.cc/7DKR-MHZY
 (6)
-https://www.bbc.com/news/world-us-canada-52493073
-https://www.theguardian.com/us-news/2020/mar/28/trump-coronavirus-misleading-claims
-https://www.theatlantic.com/politics/archive/2020/08/trumps-lies-about-coronavirus/608647/
-https://www.cdc.gov/coronavirus/2019-ncov/index.html
+https://perma.cc/3DBN-5PSW
+https://perma.cc/3DBN-5PSW
+https://perma.cc/3DBN-5PSW
+https://perma.cc/HS8Q-R4BM
 
 
 
@@ -4455,7 +4409,7 @@ https://www.cdc.gov/coronavirus/2019-ncov/index.html
 
 *Sources*:
  [1]
-https://www.gub.uy/ministerio-salud-publica/comunicacion/publicaciones/preguntas-respuestas
+https://web.archive.org/web/20200406225512/https://www.gub.uy/ministerio-salud-publica/comunicacion/publicaciones/preguntas-respuestas
 
 
 
@@ -4480,10 +4434,13 @@ https://www.gub.uy/ministerio-salud-publica/comunicacion/publicaciones/preguntas
  official website with information on covid-19; no reports on disinformation found 
 
 *Sources*:
- https://coronavirus.uz/ru
+ https://perma.cc/5T9H-KS2G
 
-https://rsf.org/en/uzbekistan
-https://ipi.media/uzbekistan/
+
+https://perma.cc/4U62-KUUE
+
+
+https://perma.cc/WH5R-8ELA
 
 
 
@@ -4509,25 +4466,25 @@ https://ipi.media/uzbekistan/
 
 *Sources*:
  [1]
-https://covid19.patria.org.ve/
+perma.cc/JT3Z-HAMP
 [2]
-https://www.theguardian.com/global-development/2020/aug/25/venezuela-coronavirus-covid-death-toll-maracaibo
+perma.cc/ZPP9-6SPF
 [3]
-https://www.reuters.com/article/us-health-coronavirus-venezuela-idUSKCN25E05U
+perma.cc/WCJ3-HRTF
 [4]
-https://www.elcomercio.com/actualidad/maduro-armas-biologicas-retorno-migrantes.html
+perma.cc/8UQF-7URD
 [5]
-https://www.efe.com/efe/america/politica/bolsonaro-y-maduro-dos-lideres-enfrentados-unidos-por-la-cloroquina/20000035-4253123
+perma.cc/X9F7-KT8G
 [6]
-http://www.minci.gob.ve/conozca-la-bateria-de-tratamientos-que-impulsa-la-comision-presidencial-para-combatir-el-covid-19/
-[6]
-https://www.infobae.com/salud/2020/10/26/que-opinan-los-expertos-sobre-el-nuevo-hallazgo-venezolano-contra-el-covid-19/
+https://web.archive.org/web/20200817234338/http://www.minci.gob.ve/conozca-la-bateria-de-tratamientos-que-impulsa-la-comision-presidencial-para-combatir-el-covid-19/
 [7]
-https://www.rtve.es/noticias/20201026/maduro-dice-venezuela-conseguido-medicina-anula-coronavirus/2048830.shtml
+perma.cc/KRJ2-HB55
 [8]
-https://elpais.com/internacional/2021-03-27/facebook-bloquea-a-maduro-por-difundir-informacion-falsa-sobre-la-covid-19.html
+perma.cc/5JSH-MHE5
 [9]
-https://www.dw.com/es/la-pandemia-en-venezuela-manipulaci%C3%B3n-de-la-informaci%C3%B3n-cementerios-llenos-y-a%C3%BAn-sin-plan-de-vacunaci%C3%B3n/a-57258234
+perma.cc/8V8U-FTRV
+[10]
+perma.cc/RHW2-DBYW
 
 
 
@@ -4552,7 +4509,7 @@ https://www.dw.com/es/la-pandemia-en-venezuela-manipulaci%C3%B3n-de-la-informaci
  I did not find any information on covid-19 related matters deviating from the official information provided by the WHO across all time periods. 
 
 *Sources*:
- https://moh.gov.vn/web/ministry-of-health
+ https://perma.cc/XVQ4-UG4S
 
 
 
@@ -4577,8 +4534,8 @@ https://www.dw.com/es/la-pandemia-en-venezuela-manipulaci%C3%B3n-de-la-informaci
  The Zambian government's Covid-19 information is similar to that of the WHO. 
 
 *Sources*:
- https://www.moh.gov.zm/
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+ https://perma.cc/46KX-DFH5
+https://perma.cc/A6XW-ADHF
 
 
 
@@ -4603,8 +4560,5 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
  The government's covid-19 information is similar to that of the WHO. 
 
 *Sources*:
- http://www.mohcc.gov.zw/index.php?option=com_content&view=category&layout=blog&id=103&Itemid=743
-
-
-
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+ https://perma.cc/E7BR-ZKPX
+https://perma.cc/J4RP-2MFV

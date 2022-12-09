@@ -46,25 +46,21 @@
 
 *Sources*:
  [1]
-https://www.defensa.gob.ec/wp-content/uploads/downloads/2020/03/Decreto_presidencial_No_1017_17-Marzo-2020.pdf
+https://perma.cc/HV5A-XCEB
 [2]
-http://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/e2NhcnBldGE6J3RyYW1pdGUnLCB1dWlkOidmNWYwYTQ3OC0wNzQwLTQxZDMtOTNjOC0yMTliNjI4NDFlYzMucGRmJ30=
-
+https://perma.cc/W2XM-JNQQ
 [3]
-https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/09/Resoluciones-11-de-septiembre-.pdf
+https://perma.cc/H7SG-H8KP
 [4]
-https://www.coronavirusecuador.com/2020/08/yo-me-cuido-la-campana-del-gobierno-nacional-para-incentivar-el-compromiso-ciudadano/
+https://web.archive.org/web/20220223231456/https://www.coronavirusecuador.com/2020/08/yo-me-cuido-la-campana-del-gobierno-nacional-para-incentivar-el-compromiso-ciudadano/
 [5]
-https://www.elcomercio.com/actualidad/politica/corte-constitucional-decreto-excepcion.html
+https://perma.cc/UB6P-BABW
 [6]
-
-http://asobanca.org.ec/sites/default/files/Decreto%20Ejecutivo%201282%20Estado%20de%20excepci%C3%B3n%20hasta%20el%209%20de%20abril%20de%202021.pdf
-
+https://web.archive.org/web/20210820204511/http://asobanca.org.ec/sites/default/files/Decreto%20Ejecutivo%201282%20Estado%20de%20excepci<97>n%20hasta%20el%209%20de%20abril%20de%202021.pdf
 [7]
-https://www.corteconstitucional.gob.ec/index.php/boletines-de-prensa/item/874-constitucionalidad-parcial-del-decreto-ejecutivo-nro-1282-relativo-al-estado-de-excepci%C3%B3n.html
-excepcion
+https://perma.cc/G7ZU-PXJP
 [8]
-https://www.corteconstitucional.gob.ec/index.php/boletines-de-prensa/item/910-dictamen-de-constitucionalidad-del-decreto-de-estado-de-excepci%C3%B3n-nro-1291.html
+https://perma.cc/SM6L-UP8Y
 
 
 
@@ -104,9 +100,9 @@ https://www.corteconstitucional.gob.ec/index.php/boletines-de-prensa/item/910-di
 
 *Sources*:
  [1]
-http://www.oas.org/juridico/PDFs/mesicic5_ecu_panel5_SERCOP_1.3._ley_seg_p%C3%BAblica.pdf
+https://perma.cc/86W3-UV7C
 [2]
-http://www.oas.org/juridico/pdfs/mesicic4_ecu_const.pdf
+https://perma.cc/H7A5-L7Q4
 
 
 
@@ -146,9 +142,9 @@ http://www.oas.org/juridico/pdfs/mesicic4_ecu_const.pdf
 
 *Sources*:
  [1]
-https://www.defensa.gob.ec/wp-content/uploads/downloads/2020/03/Decreto_presidencial_No_1017_17-Marzo-2020.pdf
+https://perma.cc/HV5A-XCEB
 [2]
-https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/09/Resoluciones-11-de-septiembre-.pdf
+https://perma.cc/YC59-NQBQ
 
 
 
@@ -188,7 +184,7 @@ https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/09/Resoluciones-11-d
 
 *Sources*:
  [1]
-https://www.comunicacion.gob.ec/el-presidente-de-la-republica-amplio-por-30-dias-mas-el-estado-de-excepcion-en-todo-el-territorio-nacional/
+https://perma.cc/J48L-694U
 [2]
 https://lta.reuters.com/article/idLTAKBN2653FF
 
@@ -233,15 +229,15 @@ https://lta.reuters.com/article/idLTAKBN2653FF
 
 *Sources*:
  [1]
-https://www.defensa.gob.ec/wp-content/uploads/downloads/2020/03/Decreto_presidencial_No_1017_17-Marzo-2020.pdf
+https://perma.cc/HV5A-XCEB
 [2]
-https://www.telecomunicaciones.gob.ec/wp-content/uploads/2020/07/Decreto_Ejecutivo_No._1052_20200415200635.pdf
+https://perma.cc/5XUW-6EA2
 [3]
-https://www.presidencia.gob.ec/wp-content/uploads/2020/06/Decreto_Ejecutivo_No._1074-1_20200515230008_20200515230017_20200515231157-1074-certificado.pdf
+https://perma.cc/5WJG-7VT2
 [4]
-https://www.comunicacion.gob.ec/el-presidente-de-la-republica-amplio-por-30-dias-mas-el-estado-de-excepcion-en-todo-el-territorio-nacional/
+https://perma.cc/G6JL-LBRE
 [5]
-https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/09/Resoluciones-11-de-septiembre-.pdf
+https://perma.cc/F6K7-H32G
 
 
 
@@ -281,15 +277,15 @@ https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/09/Resoluciones-11-d
 
 *Sources*:
  [1]
-https://www.defensa.gob.ec/wp-content/uploads/downloads/2020/03/Decreto_presidencial_No_1017_17-Marzo-2020.pdf
+https://perma.cc/HV5A-XCEB
 [2]
-https://www.telecomunicaciones.gob.ec/wp-content/uploads/2020/07/Decreto_Ejecutivo_No._1052_20200415200635.pdf
+https://perma.cc/5XUW-6EA2
 [3]
-https://www.presidencia.gob.ec/wp-content/uploads/2020/06/Decreto_Ejecutivo_No._1074-1_20200515230008_20200515230017_20200515231157-1074-certificado.pdf
+https://perma.cc/5WJG-7VT2
 [4]
-https://www.comunicacion.gob.ec/el-presidente-de-la-republica-amplio-por-30-dias-mas-el-estado-de-excepcion-en-todo-el-territorio-nacional/
+https://perma.cc/G6JL-LBRE
 [5]
-https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/09/Resoluciones-11-de-septiembre-.pdf
+https://perma.cc/F6K7-H32G
 
 
 
@@ -332,7 +328,7 @@ https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/09/Resoluciones-11-d
 
 *Sources*:
  [1]
-http://www.oas.org/juridico/PDFs/mesicic5_ecu_panel5_SERCOP_1.3._ley_seg_p%C3%BAblica.pdf
+https://perma.cc/86W3-UV7C
 
 
 
@@ -421,13 +417,13 @@ http://www.oas.org/juridico/PDFs/mesicic5_ecu_panel5_SERCOP_1.3._ley_seg_p%C3%BA
 
 *Sources*:
  [1]
-https://www.cip.org.ec/2020/06/06/repositorio-de-documentos-emergencia-covid-19-ecuador/
+https://perma.cc/RF5M-TBXW
 [2]
-https://www.elcomercio.com/actualidad/asamblea-nacional-teletrabajo-emergencia-covid19.html
+https://perma.cc/BD8L-3SQN
 [3]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+https://perma.cc/8FHR-6LEN
 [4]
-https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/09/Resoluciones-11-de-septiembre-.pdf
+https://perma.cc/T29J-QYW8
 
 
 
@@ -550,13 +546,13 @@ https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/09/Resoluciones-11-d
 
 *Sources*:
  [1]
-https://www.ministeriodegobierno.gob.ec/desde-el-1-de-junio-se-cambian-algunas-reglas-de-la-semaforizacion-por-la-emergencia-sanitaria/
+https://perma.cc/C78E-J5FS
 [2]
 https://lta.reuters.com/article/idLTAKBN2653FF
 [3]
-https://www.elcomercio.com/actualidad/quito-cambios-hoy-circula-transito.html
+https://perma.cc/EAJ2-CPYG
 [4]
-https://www.elcomercio.com/actualidad/casos-coronavirus-ecuador-provincias-expertos.html
+https://perma.cc/EAJ2-CPYG
 
 
 
@@ -601,11 +597,11 @@ https://www.elcomercio.com/actualidad/casos-coronavirus-ecuador-provincias-exper
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/ecuador/
+https://perma.cc/GA4B-JNNR
 [2]
-https://www.hrw.org/americas/ecuador
+https://perma.cc/NRP5-8JQ7
 [3]
-https://monitor.civicus.org/country/ecuador/
+https://perma.cc/S6F3-LQTC
 
 
 
@@ -655,11 +651,11 @@ https://monitor.civicus.org/country/ecuador/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/ecuador/
+https://perma.cc/GA4B-JNNR
 [2]
-https://www.hrw.org/americas/ecuador
+https://perma.cc/NRP5-8JQ7
 [3]
-https://monitor.civicus.org/country/ecuador/
+https://perma.cc/S6F3-LQTC
 
 
 
@@ -704,7 +700,7 @@ https://monitor.civicus.org/country/ecuador/
 
 *Sources*:
  [1]
-https://www.defensa.gob.ec/wp-content/uploads/downloads/2020/03/Decreto_presidencial_No_1017_17-Marzo-2020.pdf
+https://perma.cc/HV5A-XCEB
 
 
 
@@ -825,13 +821,13 @@ https://www.defensa.gob.ec/wp-content/uploads/downloads/2020/03/Decreto_presiden
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/T68Z-3826
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/9MWE-2PPR
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/V2KC-883T
 [4]
-https://cpj.org/americas/ecuador/
+https://perma.cc/UJF3-99PQ
 
 
 
@@ -874,15 +870,14 @@ https://cpj.org/americas/ecuador/
 
 *Sources*:
  [1]
-https://cpj.org/2020/11/ecuadorean-journalist-juan-sarmiento-sentenced-to-prison-for-discrediting-local-official/
+https://perma.cc/63AG-2EFT
 [2]
-https://www.eluniverso.com/noticias/2020/11/20/nota/8056567/sentencian-periodista-napo-criticar-gestion-gobernador-emergencia#cxrecs_s
-
-
+https://perma.cc/QH59-8752
 [3]
-https://ipi.media/alerts/ecuadors-health-ministry-prohibits-press-teams-from-covering-second-vaccination-doses/
+https://perma.cc/XE79-JS4P
+
 [4]
-https://www.reuters.com/article/salud-coronavirus-ecuador-ministro-idESKBN2BV26E
+https://perma.cc/H5MF-UXZH
 
 
 
@@ -925,13 +920,13 @@ https://www.reuters.com/article/salud-coronavirus-ecuador-ministro-idESKBN2BV26E
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/T68Z-3826
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/9MWE-2PPR
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/V2KC-883T
 [4]
-https://cpj.org/americas/ecuador/
+https://perma.cc/UJF3-99PQ
 
 
 
@@ -975,13 +970,14 @@ https://cpj.org/americas/ecuador/
 
 *Sources*:
  [1]
-https://ipi.media/alerts/ecuadors-health-ministry-prohibits-press-teams-from-covering-second-vaccination-doses/
+https://perma.cc/XE79-JS4P
+
 [2]
-https://www.reuters.com/article/salud-coronavirus-ecuador-ministro-idESKBN2BV26E
+https://perma.cc/H5MF-UXZH
 [3]
-https://ipi.media/alerts/ecuador-camera-team-prevented-from-covering-hospital-facility-where-health-minister-was-visiting/
+https://perma.cc/7THX-VD4U
 [4]
-https://ipi.media/alerts/ecuador-journalist-prevented-from-reporting-outside-hospital/
+https://perma.cc/5L25-AM9F
 
 
 
@@ -1024,11 +1020,11 @@ https://ipi.media/alerts/ecuador-journalist-prevented-from-reporting-outside-hos
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/T68Z-3826
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/9MWE-2PPR
 [3]
-https://cpj.org/americas/ecuador/
+https://perma.cc/UJF3-99PQ
 
 
 
@@ -1071,11 +1067,11 @@ https://cpj.org/americas/ecuador/
 
 *Sources*:
  [1]
-https://cpj.org/2020/11/ecuadorean-journalist-juan-sarmiento-sentenced-to-prison-for-discrediting-local-official/
+https://perma.cc/63AG-2EFT
 [2]
-https://www.eluniverso.com/noticias/2020/11/20/nota/8056567/sentencian-periodista-napo-criticar-gestion-gobernador-emergencia#cxrecs_s
+https://perma.cc/QH59-8752
 [3]
-https://www.elcomercio.com/actualidad/moreno-cambio-gobernador-napo-periodista.html
+https://perma.cc/RF9N-N6VP
 
 
 
@@ -1120,10 +1116,9 @@ https://www.elcomercio.com/actualidad/moreno-cambio-gobernador-napo-periodista.h
 
 *Sources*:
  [1]
-https://coronavirusecuador.com/
-
+https://perma.cc/KP5T-5NMH
 [2]
-https://www.coronavirusecuador.com/fake-news-coronavirus-ecuador/
+https://perma.cc/NJ9H-YL9P
 
 
 
@@ -1168,17 +1163,17 @@ https://www.coronavirusecuador.com/fake-news-coronavirus-ecuador/
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/05/25/police-beat-and-injure-ecuadors-covid-19-protesters
+https://perma.cc/6TX3-KB8X
 [2]
-https://www.hrw.org/news/2020/06/19/ecuador-limit-use-force-armed-forces
+https://perma.cc/HQ5D-KK9T
 [3]
-https://www.elcomercio.com/actualidad/investigacion-fiscalia-maltratos-militares-coronavirus
+https://perma.cc/L7F4-SWAE
 [4]
-https://www.aa.com.tr/es/mundo/denuncian-violencia-contra-polic%C3%ADas-que-vigilan-toque-de-queda-por-coronavirus-en-ecuador/1817870
+https://perma.cc/62YV-HYHK
 [5]
-https://www.hrw.org/es/news/2020/05/25/policias-golpean-manifestantes-en-protesta-por-la-covid-19-en-ecuador
+https://perma.cc/GQF9-UBVH
 [6]
-https://www.elcomercio.com/actualidad/ecuador/detenidos-restricciones-tungurahua-agresiones-covid.html
+https://perma.cc/T4D2-NB5F
 
 
 
@@ -1221,18 +1216,18 @@ https://www.elcomercio.com/actualidad/ecuador/detenidos-restricciones-tungurahua
 
 *Sources*:
  [1]
-https://www.comunicacion.gob.ec/el-presidente-de-la-republica-amplio-por-30-dias-mas-el-estado-de-excepcion-en-todo-el-territorio-nacional/
+https://perma.cc/Z3B4-ZFP2
 [2]
-https://www.defensa.gob.ec/wp-content/uploads/downloads/2020/03/Decreto_presidencial_No_1017_17-Marzo-2020.pdf
+https://perma.cc/846C-J8WY
 [3]
-http://www.rfi.fr/es/am%C3%A9ricas/20200406-el-ej%C3%A9rcito-se-despliega-en-quito-para-controlar-el-toque-de-queda
+https://perma.cc/4RQZ-QQKX
 [4]
-https://www.infodefensa.com/latam/2020/03/21/noticia-ecuador-moviliza-fuerzas-armadas-pleno-estado-excepcion.html
+https://perma.cc/M6LK-WNM2
 [5]
-https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/09/Resoluciones-11-de-septiembre-.pdf
+https://perma.cc/BD5G-3B5L
 [6]
-https://www.elcomercio.com/actualidad/excepcion-confinamiento-ecuador-decreto.html
+https://perma.cc/Z75E-NG4U
 [7]
-http://asobanca.org.ec/sites/default/files/Decreto%20Ejecutivo%201282%20Estado%20de%20excepci%C3%B3n%20hasta%20el%209%20de%20abril%20de%202021.pdf
+http://asobanca.org.ec/sites/default/files/Decreto%20Ejecutivo%201282%20Estado%20de%20excepción%20hasta%20el%209%20de%20abril%20de%202021.pdf
 [8]
-https://www.elcomercio.com/actualidad/excepcion-confinamiento-ecuador-decreto.html
+https://perma.cc/M9H6-2EQ9

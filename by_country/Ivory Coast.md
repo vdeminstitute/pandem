@@ -53,42 +53,45 @@ However, it is a bit unclear whether and when the state of emergency was lifted.
 It is also unclear if there is a different legal regime under which the 2021 state of health emergency was adopted, since the Government Press Releases do not make a reference to any legal instrument. The law is vague in the Constitution and the law from 1959 on the state of emergency could not be located. It appears that the state of health emergency and state of emergency fall under the same instrument so we code this as a state of emergency throughout. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Cote_DIvoire_2016.pdf?lang=en
-(1)
+ perma.cc/4CQ2-VGDL
 
 
-https://www.yeclo.com/cote-divoire-decret-de-letat-durgence-face-au-covid-19/
-(2)
+perma.cc/C4CW-LATY
 
-http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
-(3)
 
-https://www.facebook.com/MinistereJusticeCI/posts/1091283804559822/
-(4)
+perma.cc/4GEP-RX3M
 
-http://www.droit-afrique.com/uploads/RCI-Decret-2020-351-etat-urgence-sanitaire-pandemie.pdf
-(5)
 
-https://www.ilo.org/dyn/natlex/docs/MONOGRAPH/110494/137447/F1925305910/CIV-110494.pdf
-(6)
 
-http://www.gouv.ci/_conseil-ministre-details.php?recordID=410
-(7)
+perma.cc/FK9H-Z7UP
 
-http://www.gouv.ci/_actualite-article.php?recordID=11917&d=2
-(8)
 
-https://news.abidjan.net/h/686618.html
-(9)
+perma.cc/AT24-ZPT2
 
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011879525/cote-divoire-covid-19-related-nationwide-measures-unchanged-as-of-june-16-update-24
-(10)
-https://www.garda.com/crisis24/news-alerts/408881/cote-divoire-authorities-maintain-a-nationwide-coronavirus-related-state-of-emergency-as-of-nov-30-update-16
-(11)
 
-https://www.village-justice.com/articles/constitution-ivoirienne-lutte-contre-coronavirus-que-deviennent-nos-droits,34722.html
+perma.cc/2SSL-UVLQ
 
-https://apr-news.fr/fr/actualites/cote-divoire-letat-durgence-que-dit-la-loi
+
+perma.cc/UMC5-UQ6G
+
+
+perma.cc/CGK9-DB24
+
+
+
+perma.cc/CT35-TBZA
+
+
+perma.cc/J5SE-6R2J
+
+
+perma.cc/FWY6-X96F
+
+
+perma.cc/47KA-AZ4T
+
+
+perma.cc/2FU3-QPNA
 
 
 
@@ -132,11 +135,14 @@ Law 59-231 of November 7, 1959 on the state of emergency.
 *No comment provided* 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Cote_DIvoire_2016.pdf?lang=en
+ perma.cc/67MZ-WNBT
 
-http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
 
-https://apr-news.fr/fr/actualites/cote-divoire-letat-durgence-que-dit-la-loi
+perma.cc/4GEP-RX3M
+
+
+
+perma.cc/Q8W8-EKSF
 
 
 
@@ -178,20 +184,22 @@ It appears that the initial SOE from 2020 expired sometime in December 2020 (4),
  
 
 *Sources*:
- http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
+ perma.cc/4GEP-RX3M
 (1)
 
-https://www.reuters.com/article/health-coronavirus-senegal-ivorycoast/ivory-coast-senegal-declare-emergencies-impose-curfews-in-coronavirus-response-idUSL8N2BG9MO
+perma.cc/3YWY-A683
+(2)
 
-https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emergency-to-curb-covid-19//
+perma.cc/QK9L-2VVF
+(3)
 
-http://www.gouv.ci/_conseil-ministre-details.php?recordID=410
+perma.cc/UMC5-UQ6G
 (4)
 
-http://www.gouv.ci/_actualite-article.php?recordID=11917&d=2
+perma.cc/CGK9-DB24
 (5)
 
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011879525/cote-divoire-covid-19-related-nationwide-measures-unchanged-as-of-june-16-update-24
+perma.cc/QC8S-VGKM
 (6)
 
 
@@ -232,23 +240,20 @@ https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip100
 A state of emergency was reintroduced on 21 January 2021 (5). It is in place until 30 June 2021 (6). 
 
 *Sources*:
- http://www.gouv.ci/_conseil-ministre-details.php?recordID=410
-(1)
-
-https://ci.usembassy.gov/covid-19-information/#:~:text=Since%20the%20start%20of%20the,are%20encouraged%2C%20though%20not%20enforced.
-
-https://www.garda.com/crisis24/news-alerts/408881/cote-divoire-authorities-maintain-a-nationwide-coronavirus-related-state-of-emergency-as-of-nov-30-update-16
-
-http://www.gouv.ci/_conseil-ministre-details.php?recordID=410
-(4)
-
-http://www.gouv.ci/_actualite-article.php?recordID=11917&d=2
-(5)
-
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011879525/cote-divoire-covid-19-related-nationwide-measures-unchanged-as-of-june-16-update-24
-(6)
+ perma.cc/UMC5-UQ6G
 
 
+perma.cc/22MN-LYND
+
+
+perma.cc/G8F7-HS8T
+
+
+perma.cc/CGK9-DB24
+
+
+
+perma.cc/9TB5-KQV7
 
 
 
@@ -295,31 +300,30 @@ In the COUNCIL OF MINISTERS OF 09-30-2020 it is mentioned that ''the Council ins
 The state of health emergency, introduced on 21 January 2021, was initially declared until 28 February 2021 (see 5, 6). On 26 March 2021, the government extended the state of health emergency until 30 June 2021 (7, 8). 
 
 *Sources*:
- http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
-(1)
-
-http://www.gouv.ci/_conseil-ministre-details.php?recordID=397
-(2)
-
-http://www.gouv.ci/_actualite-article.php?recordID=11039
-(3)
-
-http://www.gouv.ci/_conseil-ministre-details.php?recordID=410
-(4)
-
-http://www.gouv.ci/_actualite-article.php?recordID=11917&d=2
-(5)
-
-https://news.abidjan.net/h/686618.html
-(6)
-
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011879525/cote-divoire-covid-19-related-nationwide-measures-unchanged-as-of-june-16-update-24
-(7)
-
-https://partir.ouest-france.fr/cote-d-ivoire/covid-19
-(8)
+ perma.cc/4GEP-RX3M
 
 
+
+perma.cc/78AV-YU5N
+
+
+perma.cc/P44V-C5UN
+
+
+perma.cc/UMC5-UQ6G
+
+
+perma.cc/CGK9-DB24
+
+
+
+perma.cc/PJ8G-KKMT
+
+
+perma.cc/LZ9Z-P2FU
+
+
+perma.cc/GVY6-QVFB
 
 
 
@@ -363,31 +367,29 @@ In the COUNCIL OF MINISTERS OF 09-30-2020 it is mentioned that ''the Council ins
 The state of health emergency, introduced on 21 January 2021, was initially declared until 28 February 2021 (see 5, 6). On 26 March 2021, the government extended the state of health emergency until 30 June 2021 (7, 8). 
 
 *Sources*:
- http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
+ perma.cc/4GEP-RX3M
 (1)
 
-http://www.gouv.ci/_conseil-ministre-details.php?recordID=397
+perma.cc/78AV-YU5N
 (2)
 
-http://www.gouv.ci/_actualite-article.php?recordID=11039
+perma.cc/P44V-C5UN
 (3)
 
-http://www.gouv.ci/_conseil-ministre-details.php?recordID=410
+perma.cc/UMC5-UQ6G
 (4)
 
-http://www.gouv.ci/_actualite-article.php?recordID=11917&d=2
+perma.cc/CGK9-DB24
 (5)
 
-https://news.abidjan.net/h/686618.html
+perma.cc/PJ8G-KKMT
 (6)
 
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011879525/cote-divoire-covid-19-related-nationwide-measures-unchanged-as-of-june-16-update-24
+perma.cc/LZ9Z-P2FU
 (7)
 
-https://partir.ouest-france.fr/cote-d-ivoire/covid-19
+perma.cc/GVY6-QVFB
 (8)
-
-
 
 
 
@@ -432,17 +434,23 @@ And Article 74 - The President of the Republic initiates legislation concurrentl
  
 
 *Sources*:
- https://www.constituteproject.org/constitution/Cote_DIvoire_2016.pdf?lang=en
+ perma.cc/GL57-B9KD
 
-http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
 
-https://www.village-justice.com/articles/constitution-ivoirienne-lutte-contre-coronavirus-que-deviennent-nos-droits,34722.html
+perma.cc/4GEP-RX3M
 
-https://www.afriksoir.net/amp/cote-divoire-loi-etat-urgence-en-vigueur-depuis-1959/
 
-https://apr-news.fr/fr/actualites/cote-divoire-letat-durgence-que-dit-la-loi
 
-https://www.reuters.com/article/health-coronavirus-senegal-ivorycoast/ivory-coast-senegal-declare-emergencies-impose-curfews-in-coronavirus-response-idUSL8N2BG9MO"
+perma.cc/NG64-VVFK
+
+
+perma.cc/DPR8-F6BZ
+
+
+perma.cc/VGL6-TGN3
+
+
+perma.cc/T4KE-PQBE
 
 
 
@@ -484,21 +492,24 @@ https://www.reuters.com/article/health-coronavirus-senegal-ivorycoast/ivory-coas
  No information was found indicating that the emergency measures were approved by the Parliament. 
 
 *Sources*:
- http://www.gouv.ci/_actualite-article.php?recordID=11084&d=1
-
-https://aip.ci/cote-divoire-aip-covid-19-letat-durgence-proroge-jusquau-30-avril/
-
-https://www.village-justice.com/articles/constitution-ivoirienne-lutte-contre-coronavirus-que-deviennent-nos-droits,34722.html
-
+ [1]
+perma.cc/S72N-32EL
+[2]
+https://web.archive.org/web/20200425233950/https://aip.ci/cote-divoire-aip-covid-19-letat-durgence-proroge-jusquau-30-avril/
+[3]
+perma.cc/C2U9-2MZ9
+[4]
 https://www.afriksoir.net/amp/cote-divoire-loi-etat-urgence-en-vigueur-depuis-1959/
 
-https://apr-news.fr/fr/actualites/cote-divoire-letat-durgence-que-dit-la-loi
+[5]
+perma.cc/X3WN-HHBZ
+[6]
+perma.cc/UMC5-UQ6G
+[7]
+perma.cc/CGK9-DB24
 
-http://www.gouv.ci/_conseil-ministre-details.php?recordID=410
-
-http://www.gouv.ci/_actualite-article.php?recordID=11917&d=2
-
-https://news.abidjan.net/h/686618.html
+[8]
+perma.cc/3EZR-7W76
 
 
 
@@ -555,20 +566,19 @@ Freedom House reports that the government used the state of emergency to change 
 This seems to extend the decree powers well beyond Covid-19 issues. 
 
 *Sources*:
- https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-(1)
+ perma.cc/2JUV-E4UK
 
-https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislative-activities.pdf
-(2)
 
-https://www.constituteproject.org/constitution/Cote_DIvoire_2016.pdf?lang=en
-(3)
+perma.cc/V2D5-LJHU
 
-https://apr-news.fr/fr/actualites/cote-divoire-letat-durgence-que-dit-la-loi
-(4)
 
-https://freedomhouse.org/country/cote-divoire/freedom-world/2021
-(5)
+perma.cc/WLQ7-M53W
+
+
+perma.cc/5VX2-ARE4
+
+
+perma.cc/6WQL-7UMN
 
 
 
@@ -692,23 +702,15 @@ https://freedomhouse.org/country/cote-divoire/freedom-world/2021
 During Q1 and Q2 of 2021, the state of health emergency was nationwide. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/408881/cote-divoire-authorities-maintain-a-nationwide-coronavirus-related-state-of-emergency-as-of-nov-30-update-16
-
-https://crisis24.garda.com/insights/news-alerts/meqdf7bayncosrdnr/cote-divoire-quarantine-measures-in-abidjan-lifted-july-15-update-14
-
-https://ci.usembassy.gov/covid-19-information/#:~:text=Since%20the%20start%20of%20the,are%20encouraged%2C%20though%20not%20enforced.
-
-https://www.garda.com/crisis24/news-alerts/365271/cote-divoire-authorities-extend-covid-19-state-of-emergency-until-august-31-update-15
-
-https://ci.usembassy.gov/covid-19-information/
-
-https://www.garda.com/crisis24/news-alerts/342271/cote-divoire-authorities-announce-easing-of-some-covid-19-restrictions-in-abidjan-may-14-update-11
-
-https://fr.africanews.com/2020/03/24/coronavirus-en-cote-d-ivoire-decrete-etat-d-urgence-couvre-feu-et-confinement/
-
-https://www.garda.com/crisis24/news-alerts/478156/cote-divoire-covid-19-related-nationwide-measures-unchanged-as-of-may-13-update-23
-
-https://www.garda.com/crisis24/news-alerts/450286/cote-divoire-covid-19-related-nationwide-measures-unchanged-as-of-march-3-update-20
+ perma.cc/V89E-PGVU
+perma.cc/5UT4-9Y8P
+perma.cc/8HLY-E5R7
+perma.cc/U82L-2ZQM
+perma.cc/42GQ-8MA2
+perma.cc/XL86-94DU
+perma.cc/QJE9-6HKL
+perma.cc/Z22F-DQ4K
+perma.cc/7RQZ-6FBJ
 
 
 
@@ -752,15 +754,12 @@ https://www.garda.com/crisis24/news-alerts/450286/cote-divoire-covid-19-related-
  No discrimination was found on the basis of these democratic rights. 
 
 *Sources*:
- http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
+ perma.cc/4GEP-RX3M
 
-https://www.bbc.com/news/topics/cywd23g0gpgt/ivory-coast
-
-https://www.jeuneafrique.com/914559/societe/coronavirus-la-cote-divoire-entre-deni-panique-et-restrictions/
-
-http://www.rfi.fr/fr/afrique/20200324-s%C3%A9n%C3%A9gal-cote-ivoire-etat-urgence-coronavirus-covid-19
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cote-divoire/
+perma.cc/5Q5P-BCTA
+perma.cc/LBY2-PXHS
+perma.cc/R7E5-3AXJ
+perma.cc/XKK4-5NRP
 
 
 
@@ -809,15 +808,20 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cot
  No evidence of violation of non-derogable rights was found. 
 
 *Sources*:
- http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
+ perma.cc/4GEP-RX3M
 
-https://www.bbc.com/news/topics/cywd23g0gpgt/ivory-coast
 
-https://www.jeuneafrique.com/914559/societe/coronavirus-la-cote-divoire-entre-deni-panique-et-restrictions/
 
-http://www.rfi.fr/fr/afrique/20200324-s%C3%A9n%C3%A9gal-cote-ivoire-etat-urgence-coronavirus-covid-19
+perma.cc/RD5B-H7MP
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cote-divoire/
+
+perma.cc/8YF4-Z4BK
+
+
+perma.cc/7T9B-J9VT
+
+
+perma.cc/8BRJ-6NSR
 
 
 
@@ -861,21 +865,30 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cot
  No de jure media limitations. 
 
 *Sources*:
- http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
+ perma.cc/4GEP-RX3M
 
-https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emergency-to-curb-covid-19//
 
-https://www.bbc.com/news/topics/cywd23g0gpgt/ivory-coast
 
-https://www.jeuneafrique.com/914559/societe/coronavirus-la-cote-divoire-entre-deni-panique-et-restrictions/
+perma.cc/FZ8X-B7QH
 
-http://www.rfi.fr/fr/afrique/20200324-s%C3%A9n%C3%A9gal-cote-ivoire-etat-urgence-coronavirus-covid-19
 
-http://www.gouv.ci/_conseil-ministre-details.php?recordID=410
+perma.cc/XBA3-A8TZ
 
-http://www.gouv.ci/_actualite-article.php?recordID=11917&d=2
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cote-divoire/
+perma.cc/2U9Y-SNHQ
+
+
+perma.cc/X97V-6CGV
+
+
+perma.cc/UMC5-UQ6G
+
+
+perma.cc/CGK9-DB24
+
+
+
+perma.cc/K9N7-DCHQ
 
 
 
@@ -999,20 +1012,22 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cot
  
 
 *Sources*:
- https://www.article19.org/resources/west-africa-access-to-information/
-(1)
+ perma.cc/8EDB-XPF5
 
-https://www.disinformationtracker.org/
-(2)
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cote-divoire/
-(3)
+perma.cc/QC4E-HVVA
 
-https://rsf.org/en/cote-divoire
 
-https://rsf.org/en/news/six-ivorian-journalists-heavily-fined-march
+perma.cc/59KD-ZMBP
 
-https://fr.africanews.com/2020/03/31/cote-d-ivoire-deux-journaux-condamnes-pour-fausses-informations/
+
+perma.cc/S3B5-K7E3
+
+
+perma.cc/42T3-95PW
+
+
+perma.cc/7ZTP-64U3
 
 
 
@@ -1054,21 +1069,18 @@ https://fr.africanews.com/2020/03/31/cote-d-ivoire-deux-journaux-condamnes-pour-
  No evidence was found. 
 
 *Sources*:
- https://www.article19.org/resources/west-africa-access-to-information/
+ perma.cc/8EDB-XPF5
 (1)
-
-https://www.disinformationtracker.org/
+perma.cc/QC4E-HVVA
 (2)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cote-divoire/
+perma.cc/59KD-ZMBP
 (3)
-
-https://rsf.org/en/cote-divoire
-
-https://rsf.org/en/news/six-ivorian-journalists-heavily-fined-march
-
-
-https://fr.africanews.com/2020/03/31/cote-d-ivoire-deux-journaux-condamnes-pour-fausses-informations/
+perma.cc/S3B5-K7E3
+(4)
+perma.cc/42T3-95PW
+(5)
+perma.cc/7ZTP-64U3
+(6)
 
 
 
@@ -1110,24 +1122,28 @@ https://fr.africanews.com/2020/03/31/cote-d-ivoire-deux-journaux-condamnes-pour-
  No evidence was found. 
 
 *Sources*:
- https://www.article19.org/resources/west-africa-access-to-information/
-(1)
+ perma.cc/CK5E-6UA7
 
-https://www.disinformationtracker.org/
-(2)
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cote-divoire/
-(3)
+perma.cc/44CD-S9L5
 
-https://rsf.org/en/cote-divoire
 
-https://rsf.org/en/news/six-ivorian-journalists-heavily-fined-march
+perma.cc/6TBY-JPNJ
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
 
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+perma.cc/TZ6V-EYSQ
 
-https://fr.africanews.com/2020/03/31/cote-d-ivoire-deux-journaux-condamnes-pour-fausses-informations/
+
+perma.cc/WKC9-9M3T
+
+
+perma.cc/X5HY-QVGR
+
+
+perma.cc/XPC8-LTJY
+
+
+perma.cc/4KVF-6YFD
 
 
 
@@ -1170,24 +1186,28 @@ https://fr.africanews.com/2020/03/31/cote-d-ivoire-deux-journaux-condamnes-pour-
  No evidence was found. 
 
 *Sources*:
- https://www.article19.org/resources/west-africa-access-to-information/
-(1)
+ perma.cc/MW6H-FZQC
 
-https://www.disinformationtracker.org/
-(2)
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cote-divoire/
-(3)
+perma.cc/PL7M-9U3B
 
-https://rsf.org/en/cote-divoire
 
-https://rsf.org/en/news/six-ivorian-journalists-heavily-fined-march
+perma.cc/Y4DK-3MQP
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
 
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+perma.cc/YK5Z-EGDW
 
-https://fr.africanews.com/2020/03/31/cote-d-ivoire-deux-journaux-condamnes-pour-fausses-informations/
+
+perma.cc/REP4-56P5
+
+
+perma.cc/7Y8W-73XP
+
+
+perma.cc/9PGG-4LJ3
+
+
+perma.cc/DZW8-PHLU
 
 
 
@@ -1229,14 +1249,16 @@ https://fr.africanews.com/2020/03/31/cote-d-ivoire-deux-journaux-condamnes-pour-
  No incidents of verbal harassment. 
 
 *Sources*:
- https://rsf.org/en/tracker19-Coronavirus-Covid19
+ perma.cc/27JA-NTEC
 
 
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+perma.cc/3QRB-VSBV
 
-https://ipi.media/covid19-media-freedom-monitoring/
 
-https://rsf.org/en/cote-divoire
+perma.cc/D9XL-J8R5
+
+
+perma.cc/BMB3-RU9K
 
 
 
@@ -1278,24 +1300,28 @@ https://rsf.org/en/cote-divoire
  No incidents of physical harassment. 
 
 *Sources*:
- https://www.article19.org/resources/west-africa-access-to-information/
-(1)
+ perma.cc/8EDB-XPF5
 
-https://www.disinformationtracker.org/
-(2)
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/cote-divoire/
-(3)
+perma.cc/QC4E-HVVA
 
-https://rsf.org/en/cote-divoire
 
-https://rsf.org/en/news/six-ivorian-journalists-heavily-fined-march
+perma.cc/59KD-ZMBP
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
 
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+perma.cc/S3B5-K7E3
 
-https://fr.africanews.com/2020/03/31/cote-d-ivoire-deux-journaux-condamnes-pour-fausses-informations/
+
+perma.cc/42T3-95PW
+
+
+perma.cc/M4H6-JKWX
+
+
+perma.cc/4CN2-AFGZ
+
+
+perma.cc/7ZTP-64U3
 
 
 
@@ -1339,10 +1365,10 @@ https://fr.africanews.com/2020/03/31/cote-d-ivoire-deux-journaux-condamnes-pour-
  In agreement with WHO guidlines. 
 
 *Sources*:
- https://covid19-ci.info/
+ perma.cc/84PP-6967
 
 
-http://info-covid19.gouv.ci/welcome/covid
+perma.cc/M8D6-KHLV
 
 
 
@@ -1388,16 +1414,14 @@ However, in August 2020, there have been several days of violence where five peo
 Also, in the aftermath of the controversial presidential elections of October 31 2020, more than 50 people have been killed, and security forces are reported to have ''failed to adequately protect civilians and in at least one case used excessive force to disperse opposition-led protests, shooting dead at least two demonstrators and beating a man unconscious.'' 
 
 *Sources*:
- https://www.hrw.org/news/2020/12/02/cote-divoire-post-election-violence-repression
-
-https://www.garda.com/crisis24/news-alerts/390786/cote-divoire-police-kill-one-during-dispersal-operations-amid-unrest-in-bonoua-grand-bassam-department-october-19-update-1
-
-https://www.jeuneafrique.com/1029789/politique/cote-divoire-cinq-morts-apres-plusieurs-jours-de-violences-retour-au-calme/
+ perma.cc/LAZ2-NJBZ
+perma.cc/X2JB-N9RU
+perma.cc/7HM6-8YWJ
 (1)
 
-https://www.france24.com/en/20200406-crowd-in-ivory-coast-destroys-coronavirus-testing-centre
+perma.cc/5ZU9-5GLH
+perma.cc/WG8Z-N3WM
 
-https://www.reuters.com/article/us-health-coronavirus-ivorycoast-violenc/ivory-coast-police-clash-with-protesters-over-coronavirus-test-centre-idUSKBN21O1LT
 
 
 
@@ -1439,16 +1463,18 @@ https://www.reuters.com/article/us-health-coronavirus-ivorycoast-violenc/ivory-c
  The security forces have been charged with enforcing the movement restrictions. No evidence of the military being involved. 
 
 *Sources*:
- http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
+ [1]
+perma.cc/4GEP-RX3M
 
-https://aip.ci/cote-divoire-aip-covid-19-le-ministre-diomande-affirme-la-fermete-des-forces-de-securite-dans-le-cadre-du-respect-des-mesures/
-
-https://news.abidjan.net/h/672518.html
-
-https://www.lemonde.fr/afrique/article/2020/04/13/coronavirus-en-afrique-des-mesures-d-exception-qui-menacent-les-libertes-publiques_6036443_3212.html
-
-https://globalbrief.ca/2020/04/les-forces-africaines-de-defense-et-de-securite-face-a-la-pandemie/
-
-https://information.tv5monde.com/afrique/confinement-etat-d-urgence-couvre-feu-l-afrique-face-au-coronavirus-353422
-
-https://www.france24.com/en/20200324-coronavirus-curfews-in-senegal-and-ivory-coast-lockdown-in-south-africa
+[2]
+https://web.archive.org/web/20200520025503/https://aip.ci/cote-divoire-aip-covid-19-le-ministre-diomande-affirme-la-fermete-des-forces-de-securite-dans-le-cadre-du-respect-des-mesures/
+[3]
+perma.cc/K2X7-L74U
+[4]
+perma.cc/ND8P-GKEJ
+[5]
+perma.cc/9DE9-ZFY7
+[6]
+perma.cc/ALP5-QPZR
+[7]
+perma.cc/ACY8-8JAG

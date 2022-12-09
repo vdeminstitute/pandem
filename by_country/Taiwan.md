@@ -52,16 +52,19 @@ and the Disaster Prevention and Protection Act, rather than the Special Act. Hen
 The Special Act was initially meant to be in effect till 30 June 2021. However it was extended to 30 June 2022 on 4 June 2021. 
 
 *Sources*:
- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7246107/
+ https://perma.cc/E8PS-EVLZ
 
-https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=L0050001
 
-http://www.loc.gov/law/foreign-news/article/taiwan-special-covid-19-law-revised-to-increase-economic-relief-budget/
+https://perma.cc/E8KK-STVL
+
+
+https://perma.cc/3R8U-7C4J
 
 
 https://perma.cc/9W88-7R3B
 
-https://taiwantoday.tw/news.php?unit=2,6,10,15,18&post=201560
+
+https://perma.cc/X2RB-FCGS
 
 
 
@@ -100,7 +103,8 @@ https://taiwantoday.tw/news.php?unit=2,6,10,15,18&post=201560
 *No comment provided* 
 
 *Sources*:
- http://www.loc.gov/law/foreign-news/article/taiwan-special-covid-19-law-revised-to-increase-economic-relief-budget/
+ https://perma.cc/X5J4-XHRZ
+
 
 
 
@@ -227,9 +231,10 @@ It was extended to 30 June 2022 on 4 June 2021.
  The Special Act was initially meant to be effective till 30 June 2021. However it was extended to 30 June 2022 on 4 June 2021. 
 
 *Sources*:
- http://www.loc.gov/law/foreign-news/article/taiwan-special-covid-19-law-revised-to-increase-economic-relief-budget/
+ https://perma.cc/X5J4-XHRZ
 
-https://taiwantoday.tw/news.php?unit=2,6,10,15,18&post=201560
+
+https://perma.cc/95PV-AWXX
 
 
 
@@ -268,9 +273,10 @@ https://taiwantoday.tw/news.php?unit=2,6,10,15,18&post=201560
 *No comment provided* 
 
 *Sources*:
- http://www.loc.gov/law/foreign-news/article/taiwan-special-covid-19-law-revised-to-increase-economic-relief-budget/
+ https://perma.cc/X5J4-XHRZ
 
-https://taiwantoday.tw/news.php?unit=2,6,10,15,18&post=201560
+
+https://perma.cc/95PV-AWXX
 
 
 
@@ -312,12 +318,10 @@ https://taiwantoday.tw/news.php?unit=2,6,10,15,18&post=201560
 *No comment provided* 
 
 *Sources*:
- https://verfassungsblog.de/taiwans-fight-against-covid-19-constitutionalism-laws-and-the-global-pandemic/
+ https://perma.cc/2JQ3-UYGX
 
 
-
-
-https://www.loc.gov/law/foreign-news/article/taiwan-special-covid-19-law-revised-to-increase-economic-relief-budget/
+https://perma.cc/28G7-DGVQ
 
 
 
@@ -359,12 +363,10 @@ https://www.loc.gov/law/foreign-news/article/taiwan-special-covid-19-law-revised
 *No comment provided* 
 
 *Sources*:
- https://verfassungsblog.de/taiwans-fight-against-covid-19-constitutionalism-laws-and-the-global-pandemic/
+ https://perma.cc/2JQ3-UYGX
 
 
-
-
-https://www.loc.gov/law/foreign-news/article/taiwan-special-covid-19-law-revised-to-increase-economic-relief-budget/
+https://perma.cc/28G7-DGVQ
 
 
 
@@ -410,18 +412,13 @@ https://www.loc.gov/law/foreign-news/article/taiwan-special-covid-19-law-revised
  I have not found information that suggests that the power of the national legislature has been diminished in anyway due to the emergency measures that have been employed. 
 
 *Sources*:
- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7246107/
+ https://perma.cc/8RVW-V7EC
 
 
-
-https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=L0050001
-
+https://perma.cc/672N-SHYB
 
 
-
-http://www.loc.gov/law/foreign-news/article/taiwan-special-covid-19-law-revised-to-increase-economic-relief-budget/
-
-
+https://perma.cc/H5B5-3FSW
 
 
 https://perma.cc/9W88-7R3B
@@ -463,11 +460,10 @@ https://perma.cc/9W88-7R3B
  I did not find any information suggesting that Taiwan's national legislature was dissolved. 
 
 *Sources*:
- https://www.bbc.com/news/topics/cg41ylwvw2qt/taiwan
+ https://perma.cc/6X9H-QVY3
 
 
-
-https://www.hrw.org/asia/taiwan
+https://perma.cc/H5LZ-6J5E
 
 
 
@@ -506,11 +502,10 @@ https://www.hrw.org/asia/taiwan
  I did not find any information suggesting that Taiwan's national legislature was dissolved. 
 
 *Sources*:
- https://www.bbc.com/news/topics/cg41ylwvw2qt/taiwan
+ https://perma.cc/6X9H-QVY3
 
 
-
-https://www.hrw.org/asia/taiwan
+https://perma.cc/H5LZ-6J5E
 
 
 
@@ -554,14 +549,13 @@ https://www.hrw.org/asia/taiwan
  There was no variation in the emergency measures that were implemented throughout the country across all the time periods. 
 
 *Sources*:
- https://www.bbc.com/news/technology-52883838
+ https://perma.cc/YQ35-ADUF
 
 
+https://perma.cc/L387-CJ7A
 
 
-https://verfassungsblog.de/taiwans-fight-against-covid-19-constitutionalism-laws-and-the-global-pandemic/
-
-https://www.reuters.com/world/china/taiwan-extend-covid-19-curbs-schools-stay-shut-2021-06-07/
+https://perma.cc/EM6X-T3L9
 
 
 
@@ -608,7 +602,7 @@ https://www.reuters.com/world/china/taiwan-extend-covid-19-curbs-schools-stay-sh
  https://perma.cc/9W88-7R3B
 
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7246107/
+https://perma.cc/FHE2-95SM
 
 
 
@@ -657,10 +651,16 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7246107/
  I did not find any measures that violated non-derogable rights as defined by the ICCPR. 
 
 *Sources*:
- https://perma.cc/9W88-7R3B"https://perma.cc/9W88-7R3B
+ https://perma.cc/9W88-7R3B
 
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7246107/"
+
+https://perma.cc/9W88-7R3B
+
+
+
+
+https://perma.cc/2DQV-HZDS
 
 
 
@@ -704,9 +704,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7246107/"
  Article 14 of the Special Act states "Individuals who disseminate rumors or false information regarding the epidemic conditions of severe pneumonia with novel pathogens, causing damage to the public or others, shall be sentenced to imprisonment for not more than three years or criminal detention, or in lieu thereof or in addition thereto, a fine of no more than NT$3 million." 
 
 *Sources*:
- http://www.loc.gov/law/foreign-news/article/taiwan-special-covid-19-law-revised-to-increase-economic-relief-budget/
-
-
+ https://perma.cc/X5J4-XHRZ
 
 
 https://perma.cc/9W88-7R3B
@@ -748,10 +746,7 @@ https://perma.cc/9W88-7R3B
 *No comment provided* 
 
 *Sources*:
- http://www.loc.gov/law/foreign-news/article/taiwan-special-covid-19-law-revised-to-increase-economic-relief-budget/
-
-
-
+ https://perma.cc/X5J4-XHRZ
 
 
 https://perma.cc/9W88-7R3B
@@ -793,7 +788,7 @@ https://perma.cc/9W88-7R3B
 *No comment provided* 
 
 *Sources*:
- http://www.loc.gov/law/foreign-news/article/taiwan-special-covid-19-law-revised-to-increase-economic-relief-budget/
+ https://perma.cc/X5J4-XHRZ
 
 
 
@@ -835,13 +830,13 @@ https://perma.cc/9W88-7R3B
  Article 14 of the Special Act states ‘Individuals who disseminate rumors or false information regarding the epidemic conditions of severe pneumonia with novel pathogens, causing damage to the public or others, shall be sentenced to imprisonment for not more than three years or criminal detention, or in lieu thereof or in addition thereto, a fine of no more than NT$3 million’.  However I have not found instances of this law being used across all the time periods. 
 
 *Sources*:
- http://www.loc.gov/law/foreign-news/article/taiwan-special-covid-19-law-revised-to-increase-economic-relief-budget/
+ https://perma.cc/X5J4-XHRZ
 
 
 https://perma.cc/9W88-7R3B
 
 
-https://rsf.org/en/taiwan
+https://perma.cc/QP6L-7SPS
 
 
 
@@ -925,13 +920,13 @@ https://rsf.org/en/taiwan
  I did not find any information on this across all the time periods. 
 
 *Sources*:
- http://www.loc.gov/law/foreign-news/article/taiwan-special-covid-19-law-revised-to-increase-economic-relief-budget/
+ https://perma.cc/X5J4-XHRZ
 
 
 https://perma.cc/9W88-7R3B
 
 
-https://rsf.org/en/taiwan
+https://perma.cc/QP6L-7SPS
 
 
 
@@ -974,9 +969,7 @@ https://rsf.org/en/taiwan
  This source briefly talks about the Legislative Yuan’s plans to implement measures to limit journalists’ access to the legislative building. However I could not find further information on the measuring being implemented. 
 
 *Sources*:
- https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislative-activities.pdf
-
-
+ https://perma.cc/2ZUP-FW8P
 
 
 
@@ -1018,10 +1011,10 @@ https://rsf.org/en/taiwan
  I did not find anything information on taiwanese journalists being verbally harrassed. 
 
 *Sources*:
- https://rsf.org/en/taiwan
+ https://perma.cc/QP6L-7SPS
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/taiwan/
+https://perma.cc/C68T-XQ99
 
 
 
@@ -1063,10 +1056,10 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/taiwan/
  I did not find anything information on taiwanese journalists being physically harrassed. 
 
 *Sources*:
- https://rsf.org/en/taiwan
+ https://perma.cc/QP6L-7SPS
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/taiwan/
+https://perma.cc/C68T-XQ99
 
 
 
@@ -1110,10 +1103,10 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/taiwan/
  I did not find any information on covid-19 related matters deviating from the official information provided by the WHO. 
 
 *Sources*:
- https://www.cdc.gov.tw/En/Category/QAPage/SbkmnM5v0OwdDMjJ2tI_xw
+ https://perma.cc/Q4SJ-6DTM
 
 
-https://www.cdc.gov.tw/En/Category/List/fl7pveR6ZcoetNProjyY-g
+https://perma.cc/5FEK-CAL2
 
 
 
@@ -1157,10 +1150,10 @@ https://www.cdc.gov.tw/En/Category/List/fl7pveR6ZcoetNProjyY-g
  No info on physical violence being used to execute the emergency measures. 
 
 *Sources*:
- https://rsf.org/en/taiwan
+ https://perma.cc/QP6L-7SPS
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/taiwan/
+https://perma.cc/C68T-XQ99
 
 
 
@@ -1202,7 +1195,7 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/taiwan/
  The military has not been tasked with enforcing any confinement measures. 
 
 *Sources*:
- https://rsf.org/en/taiwan
+ https://perma.cc/QP6L-7SPS
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/taiwan/
+https://perma.cc/C68T-XQ99

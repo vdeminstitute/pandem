@@ -47,23 +47,17 @@
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: State of alert declared on 18 May 2020 based on multiple legal instruments where  Law 55/2020 is considered the primary legal instrument since it most closely resembles a state of exception. Law 55/2020 was passed by the parliament on 15 May 2020 and has regulated the state of alert. The state of alert has been extended several times and is in place at least until 11 July 2021. 
 
 *Sources*:
- http://legislatie.just.ro/Public/DetaliiDocument/223831
-https://rm.coe.int/09000016809cee30
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-
-http://legislatie.just.ro/Public/DetaliiDocument/225876
-https://ro.usembassy.gov/health-alert-u-s-embassy-bucharest-romania-may-18-2020/
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/ro_report_on_coronavirus_pandemic_november_2020.pdf
-
-https://www.mai.gov.ro/wp-content/uploads/2019/01/Hotararea-Guvernului-nr.-531-din-11.05.2021-privind-prelungirea-starii-de-alerta-pe-teritoriul-Romaniei-incepand-cu-data-de-13-mai-2021.pdf
-https://www.garda.com/crisis24/news-alerts/477691/romania-authorities-extend-covid-19-related-state-of-alert-and-constituent-restrictions-until-at-least-june-11-update-18
-https://www.mai.gov.ro/wp-content/uploads/2019/01/Hotararea-CNSU-nr.-38-din-09.06.2021.pdf
-https://www.garda.com/crisis24/news-alerts/489581/romania-authorities-extend-covid-19-related-state-of-alert-until-july-11-update-21
-
-
-
+ https://perma.cc/M68K-4ES7
+https://perma.cc/AA6W-V4VU
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://perma.cc/GN7D-GCEL
+https://perma.cc/35B6-F2EU
+https://perma.cc/Y5A8-HMJS
+https://perma.cc/7HRH-RF4W
+https://perma.cc/NZ3W-58S6
+https://perma.cc/R9HL-TGD3
+https://perma.cc/6FNQ-UTHH
 
 
 
@@ -102,10 +96,13 @@ https://www.garda.com/crisis24/news-alerts/489581/romania-authorities-extend-cov
 *No comment provided* 
 
 *Sources*:
- https://rm.coe.int/09000016809cee30
-https://www.constituteproject.org/constitution/Romania_2003?lang=en
+ https://perma.cc/2EXX-CFWD
 
-http://legislatie.just.ro/Public/DetaliiDocumentAfis/225620
+
+https://perma.cc/Z459-KM9L
+
+
+https://perma.cc/UHA8-BPSV
 
 
 
@@ -144,14 +141,25 @@ http://legislatie.just.ro/Public/DetaliiDocumentAfis/225620
 *No comment provided* 
 
 *Sources*:
- https://rm.coe.int/09000016809cee30
+ https://perma.cc/6SCD-WY3J
 
-http://legislatie.just.ro/Public/DetaliiDocument/225876
-https://www.garda.com/crisis24/news-alerts/399616/romania-authorities-extend-covid-19-state-of-alert-until-december-15-update-18
-https://www.garda.com/crisis24/news-alerts/389016/romania-authorities-extend-covid-19-state-of-alert-until-november-15-update-16
-https://www.garda.com/crisis24/news-alerts/389016/romania-authorities-extend-covid-19-state-of-alert-until-november-15-update-16
-https://www.garda.com/crisis24/news-alerts/360996/romania-authorities-extend-state-of-alert-through-august-16-update-10
-https://www.garda.com/crisis24/news-alerts/369931/romania-authorities-extend-covid-19-state-of-alert-until-september-15-update-12
+
+https://perma.cc/HAB3-B75E
+
+
+https://perma.cc/J988-HS3K
+
+
+https://perma.cc/MM6J-UK8C
+
+
+https://perma.cc/KWN9-7PBG
+
+
+https://perma.cc/CYX8-UDB2
+
+
+https://perma.cc/5LRP-TXB7
 
 
 
@@ -192,15 +200,24 @@ https://www.garda.com/crisis24/news-alerts/369931/romania-authorities-extend-cov
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: The state of alert was declared on 18 May and has been extended several times (each time by 30 days); still in place at the time of coding with the latest extension until 11 July 2021. 
 
 *Sources*:
- http://legislatie.just.ro/Public/DetaliiDocumentAfis/224849
-http://legislatie.just.ro/Public/DetaliiDocument/225876
+ https://perma.cc/4BLA-MRSM
 
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 
-https://www.mai.gov.ro/wp-content/uploads/2019/01/Hotararea-Guvernului-nr.-531-din-11.05.2021-privind-prelungirea-starii-de-alerta-pe-teritoriul-Romaniei-incepand-cu-data-de-13-mai-2021.pdf
+https://perma.cc/JV7C-8KWA
 
-https://www.mai.gov.ro/wp-content/uploads/2019/01/Hotararea-CNSU-nr.-38-din-09.06.2021.pdf
-https://www.garda.com/crisis24/news-alerts/489581/romania-authorities-extend-covid-19-related-state-of-alert-until-july-11-update-21
+
+https://perma.cc/KXQ9-YXV7
+
+
+https://perma.cc/6JKS-PCZU
+
+
+https://perma.cc/3XAE-YAN6
+
+
+https://perma.cc/7GKK-NQLP
+
+
 
 
 
@@ -245,11 +262,20 @@ https://www.garda.com/crisis24/news-alerts/489581/romania-authorities-extend-cov
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: a state of alert is declared for 30 days and can be extended by 30 days (Law 55/2020). Both the declaration and all extensions of the state of alert had a time limit. 
 
 *Sources*:
- http://legislatie.just.ro/Public/DetaliiDocumentAfis/224849
-http://legislatie.just.ro/Public/DetaliiDocument/225876
+ https://perma.cc/2R9D-8RAB
 
-http://legislatie.just.ro/Public/DetaliiDocumentAfis/225620
-https://www.mai.gov.ro/wp-content/uploads/2019/01/Hotararea-Guvernului-nr.-531-din-11.05.2021-privind-prelungirea-starii-de-alerta-pe-teritoriul-Romaniei-incepand-cu-data-de-13-mai-2021.pdf
+
+https://perma.cc/B95U-RCSW
+
+
+
+https://perma.cc/Z2MB-ULQH
+
+
+https://perma.cc/2GZN-YGWQ
+
+
+
 
 
 
@@ -290,17 +316,36 @@ https://www.mai.gov.ro/wp-content/uploads/2019/01/Hotararea-Guvernului-nr.-531-d
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: The state of alert was declared  on 18 May 2020 and has been extended several times (each time by 30 days) and is in place at the time of coding. For Q3 2020, the latest extension was until 15 October 2020. For Q4 2020, the latest extesion was until 13 January 2021. For Q1 2021, the latest extension was until 12 April 2021. For Q2 2021, the latest extension was until 11 July 2021, as of the time of coding. 
 
 *Sources*:
- http://legislatie.just.ro/Public/DetaliiDocumentAfis/224849
-http://legislatie.just.ro/Public/DetaliiDocument/225876
-http://legislatie.just.ro/Public/DetaliiDocumentAfis/226824#A34
+ https://perma.cc/82JM-P827
 
-http://legislatie.just.ro/Public/DetaliiDocumentAfis/239080
 
-http://legislatie.just.ro/Public/DetaliiDocumentAfis/235076
-https://www.mai.gov.ro/wp-content/uploads/2019/01/Hotararea-Guvernului-nr.-531-din-11.05.2021-privind-prelungirea-starii-de-alerta-pe-teritoriul-Romaniei-incepand-cu-data-de-13-mai-2021.pdf
 
-https://www.mai.gov.ro/wp-content/uploads/2019/01/Hotararea-CNSU-nr.-38-din-09.06.2021.pdf
-https://www.mai.gov.ro/wp-content/uploads/2019/01/Hotararea-CNSU-nr.-38-din-09.06.2021.pdf
+https://perma.cc/A6LS-XNH3
+
+
+https://perma.cc/93G9-W78P
+
+
+
+https://perma.cc/HB52-BP7N
+
+
+https://perma.cc/Q843-NVJB
+
+
+https://perma.cc/P8AD-TELN
+
+
+https://perma.cc/73GV-EG9Y
+
+
+https://perma.cc/HL74-7RAV
+
+
+
+
+
+
 
 
 
@@ -344,12 +389,10 @@ https://www.mai.gov.ro/wp-content/uploads/2019/01/Hotararea-CNSU-nr.-38-din-09.0
 Q3 2020, Q4 2020, Q1 2021, Q2 2021:  On 25 June, the Constitutional Court ruled that the parliament does not need to approve the declaration and the extensions to the state of alert, therefore emlawapp is coded as 0. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Romania_2003?lang=en
-
-
-http://legislatie.just.ro/Public/DetaliiDocumentAfis/225620
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B360%5D&covid19=1
-https://www.ccr.ro/wp-content/uploads/2020/06/Comunicat-de-presa-EN-25-iunie-2020.pdf
+ https://perma.cc/Z459-KM9L
+https://perma.cc/YN7Z-RF22
+https://perma.cc/J7UH-BULT
+https://perma.cc/MVK5-3B82
 
 
 
@@ -393,13 +436,23 @@ https://www.ccr.ro/wp-content/uploads/2020/06/Comunicat-de-presa-EN-25-iunie-202
 Q3 2020, Q4 2020, Q1 2021, Q 2021: not required based on the ruling of the Consitutional Court. 
 
 *Sources*:
- http://legislatie.just.ro/Public/DetaliiDocument/223917
-http://legislatie.just.ro/Public/DetaliiDocument/224911
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+ https://perma.cc/2UN5-NV68
 
-http://www.cdep.ro/comisii/juridica/pdf/2020/rd_0520.pdf
-http://legislatie.just.ro/Public/DetaliiDocumentAfis/225943
-https://www.ccr.ro/wp-content/uploads/2020/06/Comunicat-de-presa-EN-25-iunie-2020.pdf
+
+
+https://perma.cc/B6EJ-GMVA
+
+
+https://perma.cc/GY9N-T5N8
+
+
+https://perma.cc/2HJQ-HXTZ
+
+
+https://perma.cc/UX5Z-BCQZ
+
+
+https://perma.cc/MVK5-3B82
 
 
 
@@ -447,17 +500,14 @@ https://www.ccr.ro/wp-content/uploads/2020/06/Comunicat-de-presa-EN-25-iunie-202
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: Parliament passed a new law, Law 55/2020, regulating the state of alert on 15 May. The state by alert is not recognized by the Constitution as a state of exception and the parliament continued to oversee and amend the measures proposed by the government. According to Law 55/2020, the government adopts decision to implement measures declared by the parliament, so the executive has authority to interpret Covid-19 laws relatively widely, but not rule by decree. 
 
 *Sources*:
- http://www.cdep.ro/relatii_publice/site2.text_presa?pid=19651&catg=100&timp=20200316&asoc=
-
+ https://perma.cc/C3K3-Z5DK
+https://perma.cc/4MLK-WGVB
+https://perma.cc/868M-EYDF
+https://perma.cc/V6CA-PLJU
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://perma.cc/XHK9-T6LE
 http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdf
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#R
-http://www.cdep.ro/pdfs/oz/oz20200314/hp_vot_electronic.pdf
-
-http://legislatie.just.ro/Public/DetaliiDocumentAfis/225620
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-http://www.cdep.ro/comisii/juridica/pdf/2020/rd_0520.pdf
-
-https://www.robert-schuman.eu/en/doc/ouvrages/FRS_Parliament_Romania.pdf
+https://perma.cc/L74U-9QXB
 
 
 
@@ -585,19 +635,28 @@ Q4 2020: stricter measures in Bucharest (closure of restaurants) in October.
 Q1 2021, Q2 2021: no measures implemented on a subnational level found. 
 
 *Sources*:
- https://ro.usembassy.gov/covid-19-information/
-https://www.euronews.com/2020/04/10/the-region-with-twice-as-many-coronavirus-cases-as-anywhere-else-in-romania
+ https://perma.cc/F3YH-YE93
 
-http://legislatie.just.ro/Public/DetaliiDocument/225876
 
-https://www.garda.com/crisis24/news-alerts/388201/romania-authorities-announce-closure-of-restaurants-and-bars-in-bucharest-as-of-october-7-update-15
+https://perma.cc/68XH-6VLJ
 
-https://www.garda.com/crisis24/news-alerts/414656/romania-authorities-extend-coronavirus-disease-related-state-of-alert-and-restrictive-measures-as-of-until-jan-13-update-12
-https://www.garda.com/crisis24/news-alerts/433706/romania-authorities-extend-coronavirus-disease-related-state-of-alert-and-restrictive-measures-as-of-until-at-least-feb-12-update-13
-https://www.garda.com/crisis24/news-alerts/442316/romania-authorities-extend-coronavirus-related-state-of-alert-and-restrictive-measures-until-at-least-march-13-update-14
-https://www.garda.com/crisis24/news-alerts/478491/romania-authorities-to-ease-covid-19-related-domestic-restrictions-from-may-15-update-19
-https://www.garda.com/crisis24/news-alerts/453486/romania-authorities-extend-covid-19-related-state-of-alert-and-associated-restrictions-until-at-least-april-12-update-15
-https://www.garda.com/crisis24/news-alerts/465801/romania-authorities-extend-covid-19-related-state-of-alert-and-constituent-restrictions-until-at-least-may-12-update-17
+
+https://perma.cc/4S8C-E5UD
+
+
+https://perma.cc/57HM-HRDX
+
+
+https://perma.cc/JYL8-7BUP
+
+
+https://perma.cc/BG8A-Y3UE
+
+
+https://perma.cc/RNV2-Y7KE
+
+
+https://perma.cc/GPA3-BZAN
 
 
 
@@ -641,12 +700,22 @@ https://www.garda.com/crisis24/news-alerts/465801/romania-authorities-extend-cov
  While existing discrimination against Roma likely was exacerbated due to covid-19, I have not found any de-facto or de-jure discriminatory emergency measures. Romania placed areas with a large number of Covid-19 cases under lockdown, which included some Roma communities. Such measures are not coded as discrimination because they were based on the number of Covid-19 cases. There was additional police deployment to areas with large Roma populations (Amnesty International report, p. 25), but, according to the authorities, it was due to high risk of criminality and therefore not coded. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?q=&sort=date&country=38495&resourceType=newsarticle
-https://www.hrw.org/europe/central-asia/romania
-https://minorityrights.org/country/romania/
-https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-https://fra.europa.eu/sites/default/files/fra_uploads/ro_report_-_covid-19_impact_on_roma_en.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/fra-2020-coronavirus-pandemic-eu-bulletin-roma_en.pdf
+ https://perma.cc/8JX8-VNZW
+
+
+https://perma.cc/2DZC-ZABG
+
+
+https://perma.cc/M534-P6XV
+
+
+https://perma.cc/XL3G-EFKC
+
+
+https://perma.cc/T2GZ-LN77
+
+
+https://perma.cc/8S57-LEZA
 
 
 
@@ -695,13 +764,19 @@ https://fra.europa.eu/sites/default/files/fra_uploads/fra-2020-coronavirus-pande
  No measures violating non-derogable rights found. Note that according to OSCE report, "fake news" legislature in countries that implemented such laws (including Romania) can be problematic since "there may well be a legitimate concern about the deliberate and malicious spread of disinformation, such criminal provisions are unlikely to comply with the principle of specificity of criminal law enshrined in Article 15 of the ICCPR and Article 7 of the ECHR due to the inherent vagueness and ambiguity of the term “false information”. 
 
 *Sources*:
- https://rm.coe.int/09000016809cee30
-https://fra.europa.eu/sites/default/files/fra_uploads/romania-report-covid-19-april-2020_en.pdf
+ https://perma.cc/22WM-46FJ
 
-https://www.amnesty.org/en/search/?q=&sort=date&country=38495&resourceType=newsarticle
-https://www.hrw.org/europe/central-asia/romania
 
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+https://perma.cc/S85V-MG7P
+
+
+https://perma.cc/9D9K-8VQH
+
+
+https://perma.cc/F5FX-N22V
+
+
+https://perma.cc/9XJ6-X3WD
 
 
 
@@ -746,14 +821,15 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 upon the motivated decision of National Authority for Management and Regulation in Communication, to immediately block the access to that content and to inform the users. (5) Upon the motivated decision of National Authority for Management and Regulation in Communication, the providers of the publicly available electronic communication networks have the obligation to immediately block the access of users in Romania at the content promoting fake-news as to the evolution of COVID-19 and to the protection and preventive measures and is being transmitted through an electronic communication network by the persons mentioned at paragraph 3 which do not fall under the jurisdiction of the national legislation." (1) 
 
 *Sources*:
- http://legislatie.just.ro/Public/DetaliiDocument/223831
-
+ https://perma.cc/7BGV-4TV4
 (1)
-https://rm.coe.int/09000016809cee30
-https://www.osce.org/representative-on-freedom-of-media/449380
-https://ipi.media/covid19-media-freedom-monitoring/
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B360%5D&covid19=1
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/romania/
+
+https://perma.cc/6UNR-CTW9
+https://perma.cc/J7UH-BULT
+
+https://perma.cc/K53F-YPSW
+https://perma.cc/YTL7-X2WB
+https://perma.cc/E2WT-U4M7
 
 
 
@@ -792,7 +868,7 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/rom
 *No comment provided* 
 
 *Sources*:
- http://legislatie.just.ro/Public/DetaliiDocument/223831
+ https://perma.cc/7BGV-4TV4
 
 
 
@@ -831,7 +907,7 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/rom
  The measures were in place for the duration of the state of emergency. 
 
 *Sources*:
- http://legislatie.just.ro/Public/DetaliiDocumentAfis/224849
+ https://perma.cc/VFC6-TGNF
 
 
 
@@ -873,9 +949,13 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/rom
  information on covid-19 on the government's website; no reports on limitations on media reporting on covid-19 found. RSF reports that two websites were blocked based on "fake news" legislation (see melim) and Bucuresti FM, a radio, had to delete an article from the website (not considered in the coding since it is unclear if the information was indeed false). 
 
 *Sources*:
- https://gov.ro/ro/info-coronavirus-covid-19
-https://www.coe.int/en/web/media-freedom/all-alerts
-https://rsf.org/en/news/repressive-laws-prosecutions-attacks-europe-fails-shield-its-journalists-against-abuse-covid-19
+ https://perma.cc/R4DU-8K9J
+
+
+https://perma.cc/M9Q9-CBPR
+
+
+https://perma.cc/6KLT-8GCE
 
 
 
@@ -917,9 +997,13 @@ https://rsf.org/en/news/repressive-laws-prosecutions-attacks-europe-fails-shield
  No information on limitation of media reporting on the government's response found. RSF reports that two websites were blocked based on "fake news" legislation (see melim) and Bucuresti FM, a radio, had to delete an article from the website (not considered in the coding since it is unclear if the information was indeed false) 
 
 *Sources*:
- https://rsf.org/en/news/repressive-laws-prosecutions-attacks-europe-fails-shield-its-journalists-against-abuse-covid-19
-https://www.coe.int/en/web/media-freedom/all-alerts
-https://ipi.media/romania/
+ https://perma.cc/6KLT-8GCE
+
+
+https://perma.cc/8WGN-9D7S
+
+
+https://perma.cc/E55Y-7489
 
 
 
@@ -961,9 +1045,13 @@ https://ipi.media/romania/
  No information found on instances of limitations on media reporting on non-Covid-19 related news but with reference to the pandemic. 
 
 *Sources*:
- https://www.coe.int/en/web/media-freedom/all-alerts
-https://rsf.org/en/news/repressive-laws-prosecutions-attacks-europe-fails-shield-its-journalists-against-abuse-covid-19
-https://ipi.media/romania/
+ https://perma.cc/6KLT-8GCE
+
+
+https://perma.cc/8WGN-9D7S
+
+
+https://perma.cc/E55Y-7489
 
 
 
@@ -1006,10 +1094,16 @@ https://ipi.media/romania/
  The amount of time public bodies have to respond to requests was doubled (Art 56 of Decree 195 from 16 March 2020 declaring a state of emergency). Since the measures applied only during the state of emergency, meinf is coded as 1 only during March-June 2020. 
 
 *Sources*:
- https://ipi.media/access-denied-foi-deadlines-extended-or-suspended-across-europe/
-https://fra.europa.eu/sites/default/files/fra_uploads/romania-report-covid-19-april-2020_en.pdf
-http://legislatie.just.ro/Public/DetaliiDocument/223831
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+ https://perma.cc/LGS3-M4MZ
+
+
+https://perma.cc/H8HW-P4MZ
+
+
+https://perma.cc/LAU3-8CZS
+
+
+https://perma.cc/7BGV-4TV4
 
 
 
@@ -1051,9 +1145,14 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
  No evidence found 
 
 *Sources*:
- https://www.coe.int/en/web/media-freedom/all-alerts
-https://ipi.media/romania/
-https://rsf.org/en/romania
+ https://perma.cc/8WGN-9D7S
+
+
+https://perma.cc/E55Y-7489
+
+
+
+https://perma.cc/3CU7-UJ96
 
 
 
@@ -1095,12 +1194,16 @@ https://rsf.org/en/romania
  No evidence found 
 
 *Sources*:
- https://www.hrw.org/europe/central-asia/romania
+ https://perma.cc/YN9U-TT7U
 
-https://www.coe.int/en/web/media-freedom/all-alerts
 
-https://ipi.media/romania/
-https://rsf.org/en/romania
+https://perma.cc/8ZW5-EXX8
+
+
+https://perma.cc/Q267-JJNB
+
+
+https://perma.cc/WGV3-A5ZA
 
 
 
@@ -1144,9 +1247,16 @@ https://rsf.org/en/romania
  information on Covid-19 on the government's website; no reports on disinformation found. 
 
 *Sources*:
- https://gov.ro/ro/info-coronavirus-covid-19
-https://ipi.media/romania/
-https://rsf.org/en/romania
+ https://perma.cc/2M6N-PLSB
+
+
+https://perma.cc/4QA5-YLCX
+
+
+https://perma.cc/PR28-J2T6
+
+
+
 
 
 
@@ -1190,8 +1300,10 @@ https://rsf.org/en/romania
  Reports of a case of police violence against Roma on 30 April 2020 during the enforcement of emergency measures (Amnesty International). A criminal investigation was opened by the Prosecutor and chief of police who led the operation was dismissed by Minister of the Interior. Since it was one incident and I have not found any further information on police violence, pomviol is coded as 1 only during March-June 2020. 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-https://balkaninsight.com/2020/04/24/video-of-romanian-police-beating-roma-causes-outrage/
+ https://perma.cc/8H33-JB4G
+
+
+https://perma.cc/H7Y6-9XRF
 
 
 
@@ -1233,6 +1345,10 @@ https://balkaninsight.com/2020/04/24/video-of-romanian-police-beating-roma-cause
  The military was involved in monitoring and enforcement of lockdowns during the state of emergency.  I have not found any evidence of further military's involvement in enforcing confinement measures. Since the state of emergency ended on 14 May 2020, milinv is coded as 1 only during Q2 2020. 
 
 *Sources*:
- https://www.mapn.ro/evenimente/2062_Deta%C8%99ament-din-cadrul-Batalionului-202-Aparare-CBRN-(Interven%C8%9Bie-la-Dezastre)-continua-sa-ac%C8%9Bioneze-in-Suceava
-https://www.bbc.com/news/world-europe-52370421
-https://www.euronews.com/2020/04/22/coronavirus-romania-set-to-ease-its-lockdown-next-month-after-fines-pay-dividends
+ https://perma.cc/KKQ8-VE2T
+
+
+https://perma.cc/7AWP-SKV9
+
+
+https://perma.cc/R2PP-SUF4

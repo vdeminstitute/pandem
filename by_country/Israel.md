@@ -45,41 +45,62 @@
  The Israeli Prime Minister declared a state of emergency on March 19 2020, based on Article 38 and 39 in the constitution (technically, Israel has been in a state of emergency since 1948, but the declaration that this also constituted an emergency situation enabled the government to use emergency regulations, which is the instrument applied under a state of emergency in Israel – so this effectively constitutes a state of emergency declaration even though such a state of emergency was already in place). This is therefore coded as 1, a state of emergency within existing legal framework. On July 21 2020, Israel passed a new and temporary law called the Coronavirus Law (formally,  Law Granting Government Special Authorities to Combat Novel Coronavirus (Temporary Provision) 2020) that gives government extended powers during a state of emergency as well as allowing them to declare it for 60 days instead of 7 days. The initial state of emergency and extensions of it were taken under the articles mentioned above, but the current are taken under this new Coronavirus Law. While this temporary law is new (and has a sunset clause on 2021-06-30), they have still declared a state of emergency under it, and this is therefore coded as 1 rather than 4. The state of emergency has been extended multiple times under the Coronavirus Law, and is currently set to end on June 29 2021. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Israel_2013.pdf?lang=en
+ https://perma.cc/ZY5K-587X
 
-https://www.gov.il/en/departments/news/25032020_01
 
-https://www.garda.com/crisis24/news-alerts/325031/israelpalestinian-terr-prime-minister-declares-state-of-emergency-due-to-Covid-19-implements-domestic-restrictions-march-19-update-10
+https://perma.cc/78WR-W6JK
 
-https://www.garda.com/crisis24/news-alert-full-history/pX7cDbbneik6HZj4a/israelpalestinian-terr-el-al-suspends-all-flights-to-china-due-to-novel-coronavirus-january-30
 
-https://main.knesset.gov.il/EN/News/PressReleases/pages/press23720s.aspx
+https://perma.cc/V8CW-Q4US
 
-https://www.gov.il/en/departments/news/29102020-01
+
+https://perma.cc/2YUF-RHT8
+
+
+https://perma.cc/AAS6-9J8S
+
+
+https://perma.cc/S8DR-UMDX
+
 
 https://perma.cc/R5AE-KMPR
 
-https://www.nevo.co.il/law_html/law01/502_325.htm
 
-https://www.gov.il/en/departments/news/23052021-02
 
-https://verfassungsblog.de/the-paradox-of-israels-coronavirus-law/
+https://perma.cc/EN3Y-UCSS
 
-https://verfassungsblog.de/a-year-in-review-Covid-19-in-israel/
 
-https://www.garda.com/crisis24/news-alerts/485676/israel-authorities-lift-most-domestic-Covid-19-restrictions-june-1-update-103
+https://perma.cc/VXU8-VG97
 
-https://www.garda.com/crisis24/news-alerts/487961/israel-authorities-to-lift-indoor-mask-mandate-from-june-15-update-104
 
-https://corona.health.gov.il/en/local-councils-traffic-light-model/
+https://perma.cc/2XFH-354V
 
-https://oxcon.ouplaw.com/view/10.1093/law-occ19/law-occ19-e13
 
-https://www.nevo.co.il/law_word/law10/yalkut-9340.pdf
+https://perma.cc/2Q4B-97ZJ
 
-https://www.gov.il/he/departments/policies/dec820_2021
 
-https://www.gov.il/he/Departments/policies/dec960_2021
+https://perma.cc/E9TS-86JP
+
+
+https://perma.cc/AJ8K-3Q7L
+
+
+https://perma.cc/6832-WZDP
+
+
+https://perma.cc/EFW9-L4JG
+
+
+https://perma.cc/9TEK-5YCN
+
+
+https://perma.cc/3V7S-MZE7
+
+
+https://perma.cc/4WV8-7EWV
+
+
+
 
 
 
@@ -118,13 +139,10 @@ https://www.gov.il/he/Departments/policies/dec960_2021
  There has been a state of emergency in place throughout the coded period, but the SoE was initially based on Article 39 of the constitution. As of the passing of the Coronavirus Law, this has been the legal instrument under which the SoE is based. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Israel_2013.pdf?lang=en
-
+ https://perma.cc/7CPD-W328
 https://perma.cc/R5AE-KMPR
-
-https://verfassungsblog.de/the-paradox-of-israels-coronavirus-law/
-
-https://verfassungsblog.de/a-year-in-review-Covid-19-in-israel/
+https://perma.cc/L8DS-QRAY
+https://perma.cc/MH9M-EGF5
 
 
 
@@ -163,27 +181,38 @@ https://verfassungsblog.de/a-year-in-review-Covid-19-in-israel/
  There has been a state of emergency in place throughout the coded period, but the SoE was initially based on Article 39 of the constitution. As of the passing of the Coronavirus Law on July 21 2020, this has been the legal instrument under which the SoE is based. Therefore, this has two different start dates, although an SoE in relation to Covid-19 has been in place throughout the coded period. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Israel_2013.pdf?lang=en
+ https://perma.cc/ZY5K-587X
 
-https://www.gov.il/en/departments/news/25032020_01
 
-https://www.garda.com/crisis24/news-alerts/325031/israelpalestinian-terr-prime-minister-declares-state-of-emergency-due-to-Covid-19-implements-domestic-restrictions-march-19-update-10
+https://perma.cc/78WR-W6JK
 
-https://www.garda.com/crisis24/news-alert-full-history/pX7cDbbneik6HZj4a/israelpalestinian-terr-el-al-suspends-all-flights-to-china-due-to-novel-coronavirus-january-30
 
-https://main.knesset.gov.il/EN/News/PressReleases/pages/press23720s.aspx
+https://perma.cc/V8CW-Q4US
 
-https://www.gov.il/en/departments/news/29102020-01
+
+https://perma.cc/2YUF-RHT8
+
+
+https://perma.cc/AAS6-9J8S
+
+
+https://perma.cc/S8DR-UMDX
+
 
 https://perma.cc/R5AE-KMPR
 
-https://www.nevo.co.il/law_html/law01/502_325.htm
 
-https://www.gov.il/en/departments/news/23052021-02
 
-https://verfassungsblog.de/the-paradox-of-israels-coronavirus-law/
+https://perma.cc/EN3Y-UCSS
 
-https://verfassungsblog.de/a-year-in-review-Covid-19-in-israel/
+
+https://perma.cc/VXU8-VG97
+
+
+https://perma.cc/2XFH-354V
+
+
+https://perma.cc/2Q4B-97ZJ
 
 
 
@@ -222,18 +251,22 @@ https://verfassungsblog.de/a-year-in-review-Covid-19-in-israel/
  Implementation of legal instrument has not ended by time of coding. Israel has removed almost all of its restrictions at the time of coding, but some remain such as border restrictions, and the SoE is still in force and currently set to end on 2021-06-29. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/485676/israel-authorities-lift-most-domestic-Covid-19-restrictions-june-1-update-103
-
-https://www.garda.com/crisis24/news-alerts/487961/israel-authorities-to-lift-indoor-mask-mandate-from-june-15-update-104
+ https://perma.cc/5SLZ-254W
 
 
-https://oxcon.ouplaw.com/view/10.1093/law-occ19/law-occ19-e13
+https://perma.cc/E7GD-PPVX
 
-https://www.nevo.co.il/law_word/law10/yalkut-9340.pdf
 
-https://www.gov.il/he/departments/policies/dec820_2021
+https://perma.cc/2L4N-HS83
 
-https://www.gov.il/he/Departments/policies/dec960_2021
+
+https://perma.cc/6NGK-VVHB
+
+
+https://perma.cc/H7F2-RKST
+
+
+https://perma.cc/J5PB-LLDX
 
 
 
@@ -275,41 +308,38 @@ https://www.gov.il/he/Departments/policies/dec960_2021
  Article 38 of the Israeli constitution, Declaring a State of Emergency, states that the Knesset can declare a state of emergency for a maximum time limit of one year (with possibility of extension), and that the government can declare a state of emergency with the maximum time limit of 7 days (with the possiblity of extension, and the possible termination of the state of the emergency if the Knesset votes in favour of ending it). This state of emergency is the latter, declared by the government, and thus had an initial time limit of 7 days although they have extended it afterwards. Note that since July 21 2020, there's a new (temporary) law regulating state's of emergency that gives government extended powers during an SoE related to Covid-19, as well as the right to declare it for a longer time. See comments and sources under emleglimit for more information. It has been extended for 60 days a number of times, and the SoE is currently set to end on 2021-06-29. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Israel_2013.pdf?lang=en
+ https://perma.cc/ZY5K-587X
 
-https://www.gov.il/en/departments/news/25032020_01
 
-https://www.garda.com/crisis24/news-alerts/325031/israelpalestinian-terr-prime-minister-declares-state-of-emergency-due-to-Covid-19-implements-domestic-restrictions-march-19-update-10
+https://perma.cc/78WR-W6JK
 
-https://www.garda.com/crisis24/news-alert-full-history/pX7cDbbneik6HZj4a/israelpalestinian-terr-el-al-suspends-all-flights-to-china-due-to-novel-coronavirus-january-30
 
-https://main.knesset.gov.il/EN/News/PressReleases/pages/press23720s.aspx
+https://perma.cc/V8CW-Q4US
 
-https://www.gov.il/en/departments/news/29102020-01
+
+https://perma.cc/2YUF-RHT8
+
+
+https://perma.cc/AAS6-9J8S
+
+
+https://perma.cc/S8DR-UMDX
+
 
 https://perma.cc/R5AE-KMPR
 
-https://www.nevo.co.il/law_html/law01/502_325.htm
 
-https://www.gov.il/en/departments/news/23052021-02
 
-https://verfassungsblog.de/the-paradox-of-israels-coronavirus-law/
+https://perma.cc/EN3Y-UCSS
 
-https://verfassungsblog.de/a-year-in-review-Covid-19-in-israel/
 
-https://www.garda.com/crisis24/news-alerts/485676/israel-authorities-lift-most-domestic-Covid-19-restrictions-june-1-update-103
+https://perma.cc/VXU8-VG97
 
-https://www.garda.com/crisis24/news-alerts/487961/israel-authorities-to-lift-indoor-mask-mandate-from-june-15-update-104
 
-https://corona.health.gov.il/en/local-councils-traffic-light-model/
+https://perma.cc/2XFH-354V
 
-https://oxcon.ouplaw.com/view/10.1093/law-occ19/law-occ19-e13
 
-https://www.nevo.co.il/law_word/law10/yalkut-9340.pdf
-
-https://www.gov.il/he/departments/policies/dec820_2021
-
-https://www.gov.il/he/Departments/policies/dec960_2021
+https://perma.cc/2Q4B-97ZJ
 
 
 
@@ -348,41 +378,38 @@ https://www.gov.il/he/Departments/policies/dec960_2021
  The initial end date for the state of emergency was March 26 2020, as the maximum amount of days the government is allowed to declare a state of emergency before they need to renew it is 7 days. This SOE was extended multiple times, and the final extension in Q2 was set to July 2, which is therefore the date recorded in that period. On July 21 2020 a new temporary law regulating SOE's was introduced that gives the government extended powers during it, as well as a right to declare it for longer time periods (see comments and sources under emleglimit for more information). The last end date set for the SoE in Q3 was therefore November 6 2020. In October 2020, the SOE was extended from this date to January 3 2021, and is therefore the date recorded for Q4. It was later extended until 2021-03-21, and again to 2021-05-01 (which was the last extension during Q1 of 2021), and then in April it was extended to 2021-06-29 which is the current end date. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Israel_2013.pdf?lang=en
+ https://perma.cc/ZY5K-587X
 
-https://www.gov.il/en/departments/news/25032020_01
 
-https://www.garda.com/crisis24/news-alerts/325031/israelpalestinian-terr-prime-minister-declares-state-of-emergency-due-to-Covid-19-implements-domestic-restrictions-march-19-update-10
+https://perma.cc/78WR-W6JK
 
-https://www.garda.com/crisis24/news-alert-full-history/pX7cDbbneik6HZj4a/israelpalestinian-terr-el-al-suspends-all-flights-to-china-due-to-novel-coronavirus-january-30
 
-https://main.knesset.gov.il/EN/News/PressReleases/pages/press23720s.aspx
+https://perma.cc/V8CW-Q4US
 
-https://www.gov.il/en/departments/news/29102020-01
+
+https://perma.cc/2YUF-RHT8
+
+
+https://perma.cc/AAS6-9J8S
+
+
+https://perma.cc/S8DR-UMDX
+
 
 https://perma.cc/R5AE-KMPR
 
-https://www.nevo.co.il/law_html/law01/502_325.htm
 
-https://www.gov.il/en/departments/news/23052021-02
 
-https://verfassungsblog.de/the-paradox-of-israels-coronavirus-law/
+https://perma.cc/EN3Y-UCSS
 
-https://verfassungsblog.de/a-year-in-review-Covid-19-in-israel/
 
-https://www.garda.com/crisis24/news-alerts/485676/israel-authorities-lift-most-domestic-Covid-19-restrictions-june-1-update-103
+https://perma.cc/VXU8-VG97
 
-https://www.garda.com/crisis24/news-alerts/487961/israel-authorities-to-lift-indoor-mask-mandate-from-june-15-update-104
 
-https://corona.health.gov.il/en/local-councils-traffic-light-model/
+https://perma.cc/2XFH-354V
 
-https://oxcon.ouplaw.com/view/10.1093/law-occ19/law-occ19-e13
 
-https://www.nevo.co.il/law_word/law10/yalkut-9340.pdf
-
-https://www.gov.il/he/departments/policies/dec820_2021
-
-https://www.gov.il/he/Departments/policies/dec960_2021
+https://perma.cc/2Q4B-97ZJ
 
 
 
@@ -424,27 +451,38 @@ https://www.gov.il/he/Departments/policies/dec960_2021
  The constitution states that both the government and the parliament can declare a state of emergency, but that a government-declared state of emergency has a much shorter time limit and can be terminated by the parliament. This was a state of emergency declared by the government, and the parliament did thus not approve it. Note that the system for declaring states of emergencies (and how long they have effect) has been changed by the entrance of the Coronavirus Law (see comments and sources for emlaw for more information), but the SoE is the same in the sense that the government introduced it and parliament did not vote on it. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Israel_2013.pdf?lang=en
+ https://perma.cc/ZY5K-587X
 
-https://www.gov.il/en/departments/news/25032020_01
 
-https://www.garda.com/crisis24/news-alerts/325031/israelpalestinian-terr-prime-minister-declares-state-of-emergency-due-to-Covid-19-implements-domestic-restrictions-march-19-update-10
+https://perma.cc/78WR-W6JK
 
-https://www.garda.com/crisis24/news-alert-full-history/pX7cDbbneik6HZj4a/israelpalestinian-terr-el-al-suspends-all-flights-to-china-due-to-novel-coronavirus-january-30
 
-https://main.knesset.gov.il/EN/News/PressReleases/pages/press23720s.aspx
+https://perma.cc/V8CW-Q4US
 
-https://www.gov.il/en/departments/news/29102020-01
+
+https://perma.cc/2YUF-RHT8
+
+
+https://perma.cc/AAS6-9J8S
+
+
+https://perma.cc/S8DR-UMDX
+
 
 https://perma.cc/R5AE-KMPR
 
-https://www.nevo.co.il/law_html/law01/502_325.htm
 
-https://www.gov.il/en/departments/news/23052021-02
 
-https://verfassungsblog.de/the-paradox-of-israels-coronavirus-law/
+https://perma.cc/EN3Y-UCSS
 
-https://verfassungsblog.de/a-year-in-review-Covid-19-in-israel/
+
+https://perma.cc/VXU8-VG97
+
+
+https://perma.cc/2XFH-354V
+
+
+https://perma.cc/2Q4B-97ZJ
 
 
 
@@ -486,27 +524,38 @@ https://verfassungsblog.de/a-year-in-review-Covid-19-in-israel/
  The constitution states that both the government and the parliement can declare a state of emergency, but that a government-declared state of emergency has a much shorter time limit and can be terminated by the parliament. This was a state of emergency declared by the government, and the parliament did thus not approve it. Note that the system for declaring states of emergencies (and how long they have effect) has been changed by the entrance of the Coronavirus Law (see comments and sources for emlaw for more information), but the SoE is the same in the sense that the government introduced it and parliament did not vote on it. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Israel_2013.pdf?lang=en
+ https://perma.cc/ZY5K-587X
 
-https://www.gov.il/en/departments/news/25032020_01
 
-https://www.garda.com/crisis24/news-alerts/325031/israelpalestinian-terr-prime-minister-declares-state-of-emergency-due-to-Covid-19-implements-domestic-restrictions-march-19-update-10
+https://perma.cc/78WR-W6JK
 
-https://www.garda.com/crisis24/news-alert-full-history/pX7cDbbneik6HZj4a/israelpalestinian-terr-el-al-suspends-all-flights-to-china-due-to-novel-coronavirus-january-30
 
-https://main.knesset.gov.il/EN/News/PressReleases/pages/press23720s.aspx
+https://perma.cc/V8CW-Q4US
 
-https://www.gov.il/en/departments/news/29102020-01
+
+https://perma.cc/2YUF-RHT8
+
+
+https://perma.cc/AAS6-9J8S
+
+
+https://perma.cc/S8DR-UMDX
+
 
 https://perma.cc/R5AE-KMPR
 
-https://www.nevo.co.il/law_html/law01/502_325.htm
 
-https://www.gov.il/en/departments/news/23052021-02
 
-https://verfassungsblog.de/the-paradox-of-israels-coronavirus-law/
+https://perma.cc/EN3Y-UCSS
 
-https://verfassungsblog.de/a-year-in-review-Covid-19-in-israel/
+
+https://perma.cc/VXU8-VG97
+
+
+https://perma.cc/2XFH-354V
+
+
+https://perma.cc/2Q4B-97ZJ
 
 
 
@@ -553,41 +602,38 @@ https://verfassungsblog.de/a-year-in-review-Covid-19-in-israel/
 On July 21 2020 the Knesset passed the Coronavirus Law, which now underlines the governments emergency response, and in which they were given extended emergency powers during a state of emergency, as well as the right to declare it for 60 days rather than 7. Within this law, Government is also allowed to rule by decree on measures related to Covid-19 that is deemed acute and cannot be passed through parliament first. However, this law fairly strictly pertains to issues related to the emergency itself (and the powers only exist as long as the SOE is in place), and the parliament still has powers to review the passing of emergency legislation to later terminate it, as well as being able to terminate the state of emergency itself. Therefore, this is coded as 2 here as well  - the government can rule by decree on a number of Covid-19 related issues - from the point where this new law came into effect. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Israel_2013.pdf?lang=en
+ https://perma.cc/ZY5K-587X
 
-https://www.gov.il/en/departments/news/25032020_01
 
-https://www.garda.com/crisis24/news-alerts/325031/israelpalestinian-terr-prime-minister-declares-state-of-emergency-due-to-Covid-19-implements-domestic-restrictions-march-19-update-10
+https://perma.cc/78WR-W6JK
 
-https://www.garda.com/crisis24/news-alert-full-history/pX7cDbbneik6HZj4a/israelpalestinian-terr-el-al-suspends-all-flights-to-china-due-to-novel-coronavirus-january-30
 
-https://main.knesset.gov.il/EN/News/PressReleases/pages/press23720s.aspx
+https://perma.cc/V8CW-Q4US
 
-https://www.gov.il/en/departments/news/29102020-01
+
+https://perma.cc/2YUF-RHT8
+
+
+https://perma.cc/AAS6-9J8S
+
+
+https://perma.cc/S8DR-UMDX
+
 
 https://perma.cc/R5AE-KMPR
 
-https://www.nevo.co.il/law_html/law01/502_325.htm
 
-https://www.gov.il/en/departments/news/23052021-02
 
-https://verfassungsblog.de/the-paradox-of-israels-coronavirus-law/
+https://perma.cc/EN3Y-UCSS
 
-https://verfassungsblog.de/a-year-in-review-Covid-19-in-israel/
 
-https://www.garda.com/crisis24/news-alerts/485676/israel-authorities-lift-most-domestic-Covid-19-restrictions-june-1-update-103
+https://perma.cc/VXU8-VG97
 
-https://www.garda.com/crisis24/news-alerts/487961/israel-authorities-to-lift-indoor-mask-mandate-from-june-15-update-104
 
-https://corona.health.gov.il/en/local-councils-traffic-light-model/
+https://perma.cc/2XFH-354V
 
-https://oxcon.ouplaw.com/view/10.1093/law-occ19/law-occ19-e13
 
-https://www.nevo.co.il/law_word/law10/yalkut-9340.pdf
-
-https://www.gov.il/he/departments/policies/dec820_2021
-
-https://www.gov.il/he/Departments/policies/dec960_2021
+https://perma.cc/2Q4B-97ZJ
 
 
 
@@ -709,26 +755,15 @@ https://www.gov.il/he/Departments/policies/dec960_2021
  The emergency measures have mostly been taken nationwide. However, some regions and areas have been subject to further restrictions and measures than the country as a whole in the Jul-Sep period, where some sub-national variation existed. This sub-national variation has as far as have been seen not travelled into to Oct-Dec period, where it is again uniform measures across the country. During 2021, all restrictions and the subsequent reopening has been nationwide. This is therefore coded 2 in the Jul-Sep period, and 0 in the others. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/pX7cDbbneik6HZj4a/israelpalestinian-terr-el-al-suspends-all-flights-to-china-due-to-novel-coronavirus-january-30
-
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.garda.com/crisis24/news-alert-full-
-
-https://www.garda.com/crisis24/news-alerts/375666/israelpalestinian-terr-officials-announce-lockdowns-in-30-cities-from-september-7-update-53
-
-https://www.garda.com/crisis24/news-alerts/390116/israelpalestinian-terr-authorities-to-ease-lockdown-measures-october-18-update-64
-
-https://www.garda.com/crisis24/news-alerts/395126/israelpalestinian-terr-authorities-to-ease-Covid-19-measures-from-november-1-update-66
-
-
-https://www.garda.com/crisis24/news-alerts/443406/israel-authorities-to-reopen-malls-stores-and-other-establishments-nationwide-feb-21-update-90
-
-https://www.garda.com/crisis24/news-alerts/425781/israel-authorities-to-tighten-coronavirus-disease-related-restrictions-nationwide-for-at-least-two-weeks-beginning-jan-8-update-81
-
-https://www.garda.com/crisis24/news-alerts/485676/israel-authorities-lift-most-domestic-Covid-19-restrictions-june-1-update-103
-
-https://www.garda.com/crisis24/news-alerts/487961/israel-authorities-to-lift-indoor-mask-mandate-from-june-15-update-104
+ https://perma.cc/9D54-W2ZF
+https://perma.cc/WA7D-PTWK
+https://perma.cc/CT4F-ZTJK
+https://perma.cc/4MPQ-4PJF
+https://perma.cc/3XZJ-4SGK
+https://perma.cc/57JM-QWKN
+https://perma.cc/5WV7-TTXZ
+https://perma.cc/6BG7-UQLA
+https://perma.cc/N3FK-DCX2
 
 
 
@@ -772,16 +807,25 @@ https://www.garda.com/crisis24/news-alerts/487961/israel-authorities-to-lift-ind
  There are numerous reports of Israel’s policies on the Gaza Strip and West Bank leave Palestinians more exposed to Covid-19, and with less access to health care. Especially, the imposed travel ban on Palestinian territory by the Israeli government has caused concern of numerous Palestinians not being able to access sufficient health care if Covid-19 starts spreading widely. However, the policies toward these territories and the people living there are not related to the Covid-19 crisis, and have been in place long before that. Furthermore, no evidence has been found that the Israeli government has imposed any other regulations that restrict any democratic freedoms more for some groups. Thus, to the extent that Israeli policies actively discriminate Palestinians or other groups democratic rights, these have been in place before the crisis and are not related to the emergency response. Also noteworthy is that some Ultra-Orthodox representatives in Israel have argued that they are subject to discrimination from the governments Covid-19 policy as some areas where these communities live and operate have been targeted with heavy restrictions that also limit their capacity to practice their faith, but this has according to officials been entirely motivated by the significant spread of Covid-19 in these communities and their lack of measures to contain it themselves. This also seems  correct, and is thus not regarded as discrimination, as the Israeli policy has been to try and contain the spread in areas where it has spread most intensely with specific measures. This is therefore coded as 0. Israel has also been criticized for not granting vaccinations to Palestinians while introducing mass vaccination to the Israeli citizens. However, this does not infringe on democratic rights as such and is therefore not accounted for here. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9638
-https://www.hrw.org/news/2020/04/16/when-health-care-decimated-war-Covid-19-middle-east-and-north-africa
-https://www.amnesty.org/en/search/?country=38537&resourceType=newsarticle&sort=date
-https://www.washingtonpost.com/world/middle_east/ultra-orthodox-jews-clash-with-secular-israeli-officials-over-coronavirus-measures/2020/09/04/97bb37be-ee0e-11ea-bd08-1b10132b458f_story.html
+ https://perma.cc/Z39B-6JJQ
 
-https://www.hrw.org/news/2021/01/17/israel-provide-vaccines-occupied-palestinians
 
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/
+https://perma.cc/69TE-DC4B
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/israel-west-bank-and-gaza/
+
+https://perma.cc/73JB-6UTT
+
+
+https://perma.cc/3U7P-JWWM
+
+
+https://perma.cc/8RUB-NTH7
+
+
+https://perma.cc/BN9T-7P9M
+
+
+https://perma.cc/7UB7-42Z2
 
 
 
@@ -830,16 +874,28 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/isr
  No violations of non-derogable rights have been found in the emergency response to Covid-19. While Israel are accused of violating numerous rights in their conflict with Palestine, these measures are previous to and not related to the Covid-19 response, and no specific elements of the emergency response has been found to violate any non-derogable rights in Israel. This is therefore coded as 0. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Israel_2013.pdf?lang=en
-https://www.gov.il/en/departments/news/25032020_01
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#I
-https://www.loc.gov/law/help/emergency-legislative-activities/israel.php
-https://www.garda.com/crisis24/news-alerts/325031/israelpalestinian-terr-prime-minister-declares-state-of-emergency-due-to-Covid-19-implements-domestic-restrictions-march-19-update-10
-https://www.garda.com/crisis24/news-alert-full-history/pX7cDbbneik6HZj4a/israelpalestinian-terr-el-al-suspends-all-flights-to-china-due-to-novel-coronavirus-january-30
+ https://perma.cc/X69Q-GF4F
 
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/israel-west-bank-and-gaza/
+https://perma.cc/3KBK-L6AW
+
+
+https://perma.cc/382P-CB9B
+
+
+https://perma.cc/2QRA-RUGT
+
+
+https://perma.cc/S3EV-TPJN
+
+
+https://perma.cc/W23U-39P3
+
+
+https://perma.cc/ZUJ7-5X3K
+
+
+https://perma.cc/3XA9-FE2N
 
 
 
@@ -883,15 +939,19 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/isr
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Israeli Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B161%5D=161
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Israel
+ https://perma.cc/2EYC-EBVZ
 
-https://rsf.org/en/news/israel-now-holding-13-palestinian-journalists
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/israel-west-bank-and-gaza/
+https://perma.cc/QV9T-MFB9
 
- 
+
+https://perma.cc/EMK9-D964
+
+
+https://perma.cc/S6ZU-QH3P
+
+
+https://perma.cc/RXQ8-9CNU
 
 
 
@@ -930,9 +990,10 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/isr
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B161%5D=161
+ https://perma.cc/VU9K-Z9JF
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Israel
+
+https://perma.cc/BX68-GZR9
 
 
 
@@ -971,9 +1032,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B161%5D=161
+ https://perma.cc/VU9K-Z9JF
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Israel
+
+https://perma.cc/BX68-GZR9
 
 
 
@@ -1015,16 +1077,19 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Israel, and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B161%5D=161
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Israel
+ https://perma.cc/Z78B-UUH2
 
 
-https://cpj.org/mideast/israel-and-the-occupied-palestinian-territory/
+https://perma.cc/8XF2-VW2P
 
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/israel-west-bank-and-gaza/
+https://perma.cc/3CGH-WJP7
+
+
+https://perma.cc/G5SB-6BH3
+
+
+https://perma.cc/5YAP-N6AP
 
 
 
@@ -1066,16 +1131,19 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/isr
  Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in Israel, and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B161%5D=161
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Israel
+ https://perma.cc/Z78B-UUH2
 
 
-https://cpj.org/mideast/israel-and-the-occupied-palestinian-territory/
+https://perma.cc/8XF2-VW2P
 
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/israel-west-bank-and-gaza/
+https://perma.cc/3CGH-WJP7
+
+
+https://perma.cc/G5SB-6BH3
+
+
+https://perma.cc/5YAP-N6AP
 
 
 
@@ -1117,16 +1185,19 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/isr
  Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in Israel, and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B161%5D=161
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Israel
+ https://perma.cc/Z78B-UUH2
 
 
-https://cpj.org/mideast/israel-and-the-occupied-palestinian-territory/
+https://perma.cc/8XF2-VW2P
 
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/israel-west-bank-and-gaza/
+https://perma.cc/3CGH-WJP7
+
+
+https://perma.cc/G5SB-6BH3
+
+
+https://perma.cc/5YAP-N6AP
 
 
 
@@ -1169,16 +1240,19 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/isr
  Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information, and no other indications have been found of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B161%5D=161
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Israel
+ https://perma.cc/36QS-GLEE
 
 
-https://cpj.org/mideast/israel-and-the-occupied-palestinian-territory/
+https://perma.cc/2QGT-F6BJ
 
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/israel-west-bank-and-gaza/
+https://perma.cc/JF64-7DP9
+
+
+https://perma.cc/HD6D-4TSJ
+
+
+https://perma.cc/8W7L-SNTH
 
 
 
@@ -1220,16 +1294,19 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/isr
  Neither Reporters without Borders,  Committee to Protect Journalists nor International Press Institute have reported any verbal harassment of journalists in Israel, and no other indications have been found of there having been any such harassment. Note that journalists have been verbally harassed by authorities in relation to reporting on issues related to the Israel-Palestine conflict, but this is not accounted for here. Likewise, some journalists received threats when reporting on Covid-19 issues in areas largely populated by Ultra-Orthodox groups, but this harassment came from residents and not authorities. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B161%5D=161
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Israel
+ https://perma.cc/Z78B-UUH2
 
 
-https://cpj.org/mideast/israel-and-the-occupied-palestinian-territory/
+https://perma.cc/8XF2-VW2P
 
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/israel-west-bank-and-gaza/
+https://perma.cc/3CGH-WJP7
+
+
+https://perma.cc/G5SB-6BH3
+
+
+https://perma.cc/5YAP-N6AP
 
 
 
@@ -1271,16 +1348,19 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/isr
  Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any physical harassment of journalists in Israel, and no other indications have been found of there having been any such harassment. Note that journalists have been physically harassed by authorities in relation to reporting on issues related to the Israel-Palestine conflict, but this is not accounted for here. Likewise, some journalists received physical abuse when reporting on Covid-19 issues in areas largely populated by Ultra-Orthodox groups, but this harassment came from residents and not authorities. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B161%5D=161
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Israel
+ https://perma.cc/Z78B-UUH2
 
 
-https://cpj.org/mideast/israel-and-the-occupied-palestinian-territory/
+https://perma.cc/8XF2-VW2P
 
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/israel-west-bank-and-gaza/
+https://perma.cc/3CGH-WJP7
+
+
+https://perma.cc/G5SB-6BH3
+
+
+https://perma.cc/5YAP-N6AP
 
 
 
@@ -1324,7 +1404,7 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/isr
  There is no deviations from the information provided by WHO and that of the Israeli Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
 
 *Sources*:
- https://www.gov.il/en/departments/faq/faq-coronavirus
+ https://perma.cc/M52V-TKGY
 
 
 
@@ -1369,28 +1449,19 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/isr
 Note also that the ongoing violence in the Palestinian territories occupied by Israel is not regarded here, as this violence is not connected to the emergency measures, and Covid-19 has not been used as an excuse for such violence by the Israeli government or authorities. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9638
-https://www.hrw.org/news/2020/04/16/when-health-care-decimated-war-Covid-19-middle-east-and-north-africa
+ https://perma.cc/BCR6-PSSR
+https://perma.cc/NLS2-9R7E
+https://perma.cc/M6N2-ASEC
+https://perma.cc/4GHF-F69E
+https://perma.cc/MD39-6FBS
 
-https://www.amnesty.org/en/search/?country=38537&resourceType=newsarticle&sort=date
-
-https://english.alaraby.co.uk/english/news/2020/4/1/israeli-police-using-Covid-19-lockdown-rules-to-beat-palestinian-israelis
-
-https://www.middleeasteye.net/news/corona¬ßvirus-protest-jaffa-Covid-19-restrictions-police-brutality
-
-https://www.theguardian.com/world/2020/jul/13/israeli-police-tear-down-anti-netanyahu-protest-camp-corruption-Covid-19-crisis
-
-https://www.timesofisrael.com/meeting-with-pm-over-coronavirus-enforcement-haredi-mks-demand-end-to-abuse/
-
-https://www.haaretz.com/israel-news/.premium-violence-mars-anti-netanyahu-protests-across-israel-1.9206958
-
-
-https://www.garda.com/crisis24/news-alerts/433951/israel-further-protests-against-lockdown-and-Covid-19-restrictions-likely-in-israel-through-at-least-jan-31
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/israel-west-bank-and-gaza/
-
-https://www.nytimes.com/2020/10/05/world/middleeast/israel-coronavirus-lockdown.html
+https://perma.cc/5GHN-B79B
+https://perma.cc/QBJ4-JG73
+https://perma.cc/H8VH-6CZX
+https://perma.cc/M2HZ-ZW8G
+https://perma.cc/L3VL-6LP9
+https://perma.cc/UAS2-D4SA
+https://perma.cc/UU3S-NLWK
 
 
 
@@ -1432,7 +1503,13 @@ https://www.nytimes.com/2020/10/05/world/middleeast/israel-coronavirus-lockdown.
  Military personnel has been deployed in Israel to help enforce emergency measures during the first two periods. However, no reports have been found about this in Q4 of 2020 and later, and this is therefore coded 0 from there on. 
 
 *Sources*:
- https://www.timesofisrael.com/idf-500-armed-soldiers-to-join-police-in-enforcing-coronavirus-restrictions/
-https://www.haaretz.com/israel-news/netanyahu-announces-enforcement-of-emergency-measures-to-ensure-coronavirus-lockdown-1.8693660
-https://www.deccanherald.com/international/coronavirus-israel-to-use-military-to-help-enforce-Covid-19-lockdown-818220.html
-https://www.timesofisrael.com/idf-to-step-up-role-in-national-coronavirus-response-as-cases-spike/
+ https://perma.cc/4ST7-5RQP
+
+
+https://perma.cc/3EFR-SXPS
+
+
+https://perma.cc/8Y4J-MHV2
+
+
+https://perma.cc/TF4F-4T74

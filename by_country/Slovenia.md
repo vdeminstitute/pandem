@@ -47,21 +47,19 @@
 According to Democracy Reporting (report from 27 July), "The 1991 Constitution envisages the option for the National Assembly (or, if the Assembly cannot meet, the President of the Republic) to declare a state of emergency when a great and general danger threatens the existence of the state (Article 92). Importantly, when the state of emergency has been declared, most of the constitutional rights can be temporarily suspended. However, at no point during the epidemic was a state of emergency declared. Severe limitations of the constitutional rights were thus enacted on the basis of existing legislation, namely the Communicable Diseases Act (ZNB). The powers vested in the executive branch by the ZNB are inadequate for an epidemic of this scale and a strict reading of the relevant clauses of the ZNB cannot support measures as drastic as the ones that Slovenia saw between mid-March and early May 2020." 
 
 *Sources*:
- https://www.gov.si/en/news/2020-03-12-slovenia-declares-coronavirus-epidemic/
-http://www.pisrs.si/Pis.web/pregledPredpisa?id=ODRE2550
-https://www.constituteproject.org/constitution/Slovenia_2016?lang=en
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-(1)
-
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
-https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2020-01-2783?sop=2020-01-2783
-https://www.gov.si/en/news/2020-10-19-government-declares-covid-19-epidemic-throughout-slovenian-territory/
-http://www.pisrs.si/Pis.web/pregledPredpisa?id=ODLO2150
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/si_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.gov.si/en/news/2021-01-22-basis-for-ministry-of-healths-decision-on-mandatory-testing-is-communicable-diseases-act/
-https://www.gov.si/en/news/2021-05-27-slovenia-is-not-yet-in-the-green-phase-according-to-ecdc-criteria-69859/
-https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2021-01-1543/odlok-o-razglasitvi-epidemije-nalezljive-bolezni-covid-19-na-obmocju-republike-slovenije?h=%20razglasitvi%20epidemije%20nalezljive
+ [1]	perma.cc/XN4U-56E6
+[2]	perma.cc/3WGQ-2MDG
+[3]	perma.cc/KEG2-65JG
+[4]	perma.cc/Y62J-GWJ7
+[5]	https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+[6]	perma.cc/N2BS-MCRD
+[7]	perma.cc/7WB4-DS6F
+[8]	perma.cc/QN46-5UQK
+[9]	https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+[10]	perma.cc/794P-T73B
+[11]	perma.cc/Q3KZ-SR6F
+[12]	perma.cc/9KST-SRVN
+[13]	perma.cc/9TQA-5CDS
 
 
 
@@ -100,8 +98,8 @@ https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2021-01-1543/odlok-o-r
  Translation from the English version of the government's website: Contageous Diseases Act (Article 7). European Union Agency for Fundamental Rights translates it as "Communicable Diseases Act." 
 
 *Sources*:
- https://www.gov.si/en/news/2020-03-12-slovenia-declares-coronavirus-epidemic/
-https://fra.europa.eu/sites/default/files/fra_uploads/si_report_on_coronavirus_pandemic_july_2020.pdf
+ [1]	perma.cc/A3WG-MQM4
+[2]	perma.cc/7U8Y-25CR
 
 
 
@@ -140,7 +138,7 @@ https://fra.europa.eu/sites/default/files/fra_uploads/si_report_on_coronavirus_p
  Zakon o nalezljivih boleznih (ZNB) was first adopted to implement a ban on mass public gatherings (more than 500 people) on 7 March 2020. 
 
 *Sources*:
- https://www.uradni-list.si/_pdf/2020/Ur/u2020015.pdf
+ [1]	perma.cc/PV3D-XMQW
 
 
 
@@ -179,10 +177,9 @@ https://fra.europa.eu/sites/default/files/fra_uploads/si_report_on_coronavirus_p
  The implementation of the legal instrument has not ended at the time of coding. Although the epidemic ended on 15 June 2021, some measures remain in place at the time of coding. 
 
 *Sources*:
- http://www.pisrs.si/Pis.web/pregledPredpisa?id=ODLO2184
-https://www.gov.si/en/news/2020-11-26-government-extends-measures/
-https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2021-01-1543/odlok-o-razglasitvi-epidemije-nalezljive-bolezni-covid-19-na-obmocju-republike-slovenije?h=%20razglasitvi%20epidemije%20nalezljive
-https://www.gov.si/en/news/2021-06-15-today-is-the-last-day-of-the-epidemic/
+ [1]	perma.cc/7G25-Y2Q4
+[2]	perma.cc/VB8G-RWS9
+[3]	perma.cc/6CJ9-KUTE
 
 
 
@@ -232,29 +229,20 @@ In October-December 2020: the decree restricting freedom of movement from 27 Nov
 Q1 2021, Q2 2021: I have not found any measures declared without a time limit. 
 
 *Sources*:
- http://www.pisrs.si/Pis.web/pregledPredpisa?id=ODLO2041
-http://www.pisrs.si/Pis.web/pregledPredpisa?id=SKLU296
-https://fra.europa.eu/sites/default/files/fra_uploads/si_report_on_coronavirus_pandemic_july_2020.pdf
-(1)
-
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2020-01-1185/sklep-o-uporabi-ukrepov-ki-jih-doloca-zakon-o-nalezljivih-boleznih-pri-nalezljivi-bolezni-covid-19
-https://www.icnl.org/covid19tracker/?location=113&issue=&date=&type=
-
-https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2020-01-1744/odlok-o-spremembah-in-dopolnitvi-odloka-o-zacasni-splosni-omejitvi-oziroma-prepovedi-zbiranja-ljudi-v-republiki-sloveniji
-https://www.gov.si/novice/2020-07-08-nov-novica/
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-http://www.pisrs.si/Pis.web/pregledPredpisa?id=ODLO2184
-
-https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2021-01-1864/odlok-o-spremembah-dolocenih-odlokov-izdanih-na-podlagi-zakona-o-nalezljivih-boleznih?h=sprememba
-https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2021-01-1395/odlok-o-spremembah-in-dopolnitvah-odloka-o-dolocitvi-pogojev-vstopa-v-republiko-slovenijo-zaradi-zajezitve-in-obvladovanja-nalezljive-bolezni-covid-19?h=sprememba%20covid
-
-https://www.uradni-list.si/glasilo-uradni-list-rs
-http://www.pisrs.si/Pis.web/pregledPredpisa?id=ODLO2444
-
-
-
-https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2021-01-2073?sop=2021-01-2073
+ [1]	perma.cc/35E7-CM94
+[2]	perma.cc/Y8PU-87JD
+[3]	perma.cc/D7QR-VWQ4
+[4]	perma.cc/2E8U-J3VA
+[5]	perma.cc/S2DN-ZUDA
+[6]	perma.cc/7E26-ZXV4
+[7]	perma.cc/6BGC-ZBMA
+[8]	perma.cc/8AFL-YJ7Y
+[9]	https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+[10]	perma.cc/RTF2-TSY9
+[11]	perma.cc/9S5M-FZH7
+[12]	perma.cc/NNF2-SP58
+[13]	perma.cc/CW3K-KFRD
+[14]	perma.cc/7GPN-T6YA
 
 
 
@@ -297,28 +285,19 @@ Q1 2021: Since emergency measures have a different time limit, emlimitdate is co
 Q2 2021: Although the epidemic ended on 15 June 2021, some measures were extended until 27 June 2021 as of the time of coding. 
 
 *Sources*:
- http://www.pisrs.si/Pis.web/pregledPredpisa?id=ODLO2041
-http://www.pisrs.si/Pis.web/pregledPredpisa?id=SKLU296
-https://fra.europa.eu/sites/default/files/fra_uploads/si_report_on_coronavirus_pandemic_july_2020.pdf
-
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2020-01-1185/sklep-o-uporabi-ukrepov-ki-jih-doloca-zakon-o-nalezljivih-boleznih-pri-nalezljivi-bolezni-covid-19
-https://www.icnl.org/covid19tracker/?location=113&issue=&date=&type=
-
-https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2020-01-1744/odlok-o-spremembah-in-dopolnitvi-odloka-o-zacasni-splosni-omejitvi-oziroma-prepovedi-zbiranja-ljudi-v-republiki-sloveniji
-https://www.gov.si/novice/2020-07-08-nov-novica/
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-
-http://www.pisrs.si/Pis.web/pregledPredpisa?id=ODLO2184
-
-https://www.uradni-list.si/glasilo-uradni-list-rs
-https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2021-01-0703/odlok-o-razglasitvi-epidemije-nalezljive-bolezni-covid-19-na-obmocju-republike-slovenije?h=%20razglasitvi%20epidemije%20nalezljive
-https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2021-01-1543/odlok-o-razglasitvi-epidemije-nalezljive-bolezni-covid-19-na-obmocju-republike-slovenije?h=%20razglasitvi%20epidemije%20nalezljive
-https://www.gov.si/en/news/2021-06-15-today-is-the-last-day-of-the-epidemic/
-http://www.pisrs.si/Pis.web/pregledPredpisa?id=ODLO2504
-
-
-https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2021-01-2073?sop=2021-01-2073
+ [1]	perma.cc/35E7-CM94
+[2]	perma.cc/Y8PU-87JD
+[3]	perma.cc/D7QR-VWQ4
+[4]	perma.cc/2E8U-J3VA
+[5]	perma.cc/S2DN-ZUDA
+[6]	perma.cc/7E26-ZXV4
+[7]	perma.cc/6BGC-ZBMA
+[8]	perma.cc/8AFL-YJ7Y
+[9]	https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+[10]	perma.cc/RTF2-TSY9
+[11]	perma.cc/L8YR-62LC
+[12]	perma.cc/3TD6-B6TD
+[13]	perma.cc/496E-PUYH
 
 
 
@@ -360,10 +339,9 @@ https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2021-01-2073?sop=2021-
  The measures are declared by the government (Contageous Diseases Act, Article 7) who needs to inform the parliament about the measures (Act on Intervention Measures to Contain the COVID-19 Epidemic and its Mitigation for Citizens and the Economy (ZIUZEOP)); no provisions on legislature approval. 
 
 *Sources*:
- http://www.pisrs.si/Pis.web/pregledPredpisa?id=ZAKO433
-
-http://www.pisrs.si/Pis.web/pregledPredpisa?id=ZAKO8190
-https://verfassungsblog.de/slovenia-second-wave-of-challenges-to-constitutionalism/
+ [1]	perma.cc/ALL9-YZ6E
+[2]	perma.cc/W9X3-G2TP
+[3]	perma.cc/R2KU-RMVT
 
 
 
@@ -405,8 +383,8 @@ https://verfassungsblog.de/slovenia-second-wave-of-challenges-to-constitutionali
  Not required by law. 
 
 *Sources*:
- http://www.pisrs.si/Pis.web/pregledPredpisa?id=ODRE2550
-https://verfassungsblog.de/slovenia-second-wave-of-challenges-to-constitutionalism/
+ [1]	perma.cc/VA72-SGDP
+[2]	perma.cc/6K8K-ZFRA
 
 
 
@@ -452,11 +430,11 @@ https://verfassungsblog.de/slovenia-second-wave-of-challenges-to-constitutionali
  The measures are declared by the executive without the need for parliamentary oversight, but the parliament can override them with a statute. Leglimit is therefore coded as 1 for all periods. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#S
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-https://verfassungsblog.de/slovenia-second-wave-of-challenges-to-constitutionalism/
+ [1]	perma.cc/KDJ2-3LZB
+[2]	perma.cc/GFG8-UHCG
+[3]	perma.cc/45VQ-T8XB
+[4]	https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+[5]	perma.cc/JJ3M-NBKA
 
 
 
@@ -578,7 +556,7 @@ https://verfassungsblog.de/slovenia-second-wave-of-challenges-to-constitutionali
  Uniform measures throughout the country. 
 
 *Sources*:
- https://www.gov.si/teme/koronavirus-sars-cov-2/
+ [1]	perma.cc/65TN-HJCB
 
 
 
@@ -622,10 +600,10 @@ https://verfassungsblog.de/slovenia-second-wave-of-challenges-to-constitutionali
  No de-jure disciminating provisions and no information on de-facto discrimination found. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/slovenia-report-covid-19-april-2020_en.pdf
-https://www.hrw.org/europe/central-asia/slovenia
-https://www.amnesty.org/en/countries/europe-and-central-asia/slovenia/
-http://www.varuh-rs.si/en/publication-events/exposed-content-campaigns/covid-19/
+ [1]	perma.cc/54N4-F8KK
+[2]	perma.cc/D6VR-BYV2
+[3]	perma.cc/8Q3Z-8DZM
+[4]	perma.cc/W3PV-BM7T
 
 
 
@@ -674,13 +652,11 @@ http://www.varuh-rs.si/en/publication-events/exposed-content-campaigns/covid-19/
  No measures violating non-derogable rights found. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/slovenia-report-covid-19-april-2020_en.pdf
-
-https://fra.europa.eu/sites/default/files/fra_uploads/si_report_on_coronavirus_pandemic_july_2020.pdf
-
-https://www.gov.si/teme/koronavirus-sars-cov-2/
-https://www.hrw.org/europe/central-asia/slovenia
-https://www.amnesty.org/en/countries/europe-and-central-asia/slovenia/report-slovenia/
+ [1]	perma.cc/6R28-CJP5
+[2]	perma.cc/25PC-KX3U
+[3]	perma.cc/6BJZ-3YQK
+[4]	perma.cc/2BXD-QKJH
+[5]	perma.cc/3BEE-CMKP
 
 
 
@@ -724,10 +700,10 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/slovenia/report-slo
  Despite allegations of e.g. defamation, no evidence of measures limiting media freedom was found. 
 
 *Sources*:
- http://www.pisrs.si/Pis.web/pravniRedRSSearch?search=covid
-https://ipi.media/slovenia/
-https://rsf.org/en/slovenia
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/slovenia/
+ [1]	perma.cc/VX86-LCDC
+[2]	perma.cc/V9QW-FHKU
+[3]	perma.cc/QL86-3QCA
+[4]	perma.cc/3FCB-8MT9
 
 
 
@@ -847,11 +823,11 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/slo
  Official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. 
 
 *Sources*:
- https://www.gov.si/teme/koronavirus-sars-cov-2/
-https://ipi.media/slovenia/
-https://rsf.org/en/slovenia
-https://www.icnl.org/covid19tracker/?location=113&issue=&date=&type=
-https://cpj.org/europe/slovenia/
+ [1]	perma.cc/D55B-4Y37
+[2]	perma.cc/S96A-PNH3
+[3]	perma.cc/2KFR-2ZZJ
+[4]	perma.cc/4RV9-ULM2
+[5]	perma.cc/D7CV-RLRX
 
 
 
@@ -893,11 +869,10 @@ https://cpj.org/europe/slovenia/
  Blaž Zgaga, a journalist, mentions that "officials in the new government have targeted him and other journalists over their criticism of the government’s response to the coronavirus pandemic" in an interview with CPJ (1), but I have not found any evidence of factual cases where journalists faced limitations on media reporting about the government response to the Covid-19 pandemic, therefore coded as 0. 
 
 *Sources*:
- https://cpj.org/2020/04/slovenian-journalist-blaz-zgaga-on-facing-off-agai/
-(1)
-https://ipi.media/slovenia/
-https://rsf.org/en/slovenia
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/slovenia/
+ [1]	perma.cc/6TEV-SRKL
+[2]	perma.cc/PZH5-PVYW
+[3]	perma.cc/2YEN-Z9WQ
+[4]	perma.cc/VAV5-TEWR
 
 
 
@@ -939,12 +914,12 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/slo
  No information on instances of limitations on media reporting on non-Covid-19 related news but with reference to the pandemic found. On 15 September, a criminal compaint two journalists was filed, claiming that they organized a demonstration on 15 July that violated Covid-19 rules. Since it was not disclosed who filed the complaint, the incident is not considered in the coding. 
 
 *Sources*:
- https://ipi.media/slovenia/
-https://rsf.org/en/slovenia
-https://www.icnl.org/covid19tracker/?location=113&issue=&date=&type=
-https://cpj.org/europe/slovenia/
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-3&p_p_col_pos=1&p_p_col_count=11&_sojdashboard_WAR_coesojportlet_alertPK=72981773&_sojdashboard_WAR_coesojportlet_displayLink=SojPortlet.getDashboardPortletId%28%29
-https://www.coe.int/en/web/media-freedom/slovenia
+ [1]	perma.cc/Y36T-95JN
+[2]	perma.cc/EBY8-MQG5
+[3]	perma.cc/FA5X-3DC7
+[4]	perma.cc/5L6C-HBB5
+[5]	perma.cc/AQ3N-QMAB
+[6]	perma.cc/Z2AL-XX9S
 
 
 
@@ -989,20 +964,17 @@ https://www.coe.int/en/web/media-freedom/slovenia
 Q1 2020, Q2 2021: In February 2021, certain media outlets could not ask questions during government press conferences on Covid-19 (2). Officials were also banned from giving interviews on rapid testing (3). Since I found no indication that limitations on the media stopped in Q2 2021, meinf is coded as 2 for both periods in 2021. 
 
 *Sources*:
- https://www.gov.si/novice/2020-05-22-ukinitev-zacasnih-ukrepov-v-zvezi-s-sodnimi-upravnimi-in-drugimi-javnopravnimi-zadevami-za-obvladovanje-sirjenja-nalezljive-bolezni-covid-19/
-https://cpj.org/2020/04/slovenian-journalist-blaz-zgaga-on-facing-off-agai/
-https://rsf.org/en/news/platforms-urged-prevent-harassment-journalists-covering-covid-19
-https://cpj.org/2020/04/slovenian-journalist-blaz-zgaga-on-facing-off-agai/
-https://rsf.org/en/news/slovenia-trumps-disciple-attacks-journalists-and-introduces-systemic-change
-https://ipi.media/ipi-joins-call-to-guarantee-safety-of-slovenian-investigative-journalist-blaz-zgaga/
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-(1)
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B349%5D&covid19=1
-https://ipi.media/alerts/questions-from-certain-slovenian-journalists-ignored-during-government-press-conferences/
-(2)
-https://ipi.media/alerts/slovenian-government-communication-office-ukom-bans-officials-from-giving-media-interviews-on-rapid-testing-concerns/
-(3)
-https://ipi.media/slovenia-government-communication-office-must-stop-controlling-covid-19-news-coverage/
+ [1]	perma.cc/BH78-WTGY
+[2]	perma.cc/W52B-UVEJ
+[3]	perma.cc/7KCH-WDNT
+[4]	perma.cc/D6JY-XSSZ
+[5]	perma.cc/Y9QV-H68T
+[6]	perma.cc/FUR3-AP8Q
+[7]	https://perma.cc/J7UH-BULT
+
+[8]	perma.cc/W7E2-PP6F
+[9]	perma.cc/HVQ8-CX82
+[10]	perma.cc/B76T-FBC8
 
 
 
@@ -1045,34 +1017,25 @@ https://ipi.media/slovenia-government-communication-office-must-stop-controlling
 In 2021 the attackes persisted, such as in April 2021, when the prime minister accused 24ur of lying about the Covid-19 pandemic (6). Mevhar is therefore coded as 1 in all periods. 
 
 *Sources*:
- https://rsf.org/en/news/repressive-laws-prosecutions-attacks-europe-fails-shield-its-journalists-against-abuse-covid-19
-(1)
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-4&p_p_col_count=1&_sojdashboard_WAR_coesojportlet_alertId=64402726
+ [1]	perma.cc/8T83-YD5L
+[2]	perma.cc/Z6LY-KZ4L
+[3]	perma.cc/T5JA-8XVA
+[4]	perma.cc/LR8V-T4TQ
+[5]	https://web.archive.org/web/20200421112412/https://twitter.com/JJansaSDS/status/1241089868492681218?s=20
+[6]	https://web.archive.org/web/20200321191146/https://twitter.com/JJansaSDS/status/1241440991783129094
+[7]	perma.cc/47CH-YMQM
+[8]	perma.cc/EW2A-SSRX
+[9]	perma.cc/B47D-L9E6
+[10]	perma.cc/TH7M-CKDT
+[11]	perma.cc/AN29-EK6W
+[12]	https://web.archive.org/web/20211011115116/https://twitter.com/jjansasds/status/1316736285059420162?lang=en
+[13]	perma.cc/CN5X-8RSS
+[14]	perma.cc/MRS2-X3YR
+[15]	perma.cc/B7S2-A3BS
+[16]	perma.cc/3WC9-V7BR
+[17]	perma.cc/XQ43-J8K4
+[18]	perma.cc/SHV8-BW4G
 
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-3&p_p_col_count=7&_sojdashboard_WAR_coesojportlet_alertPK=61810902#:~:text=Slovenian%20Journalist%20Bla%C5%BE%20Zgaga%20Targeted,Led%20by%20the%20New%20Government&text=Slovenian%20investigative%20journalist%20Bla%C5%BE%20Zgaga,threats%20from%20far%2Dright%20groups.
-(2)
-https://www.gov.si/en/news/2020-05-11-war-with-the-media/
-https://twitter.com/JJansaSDS/status/1241089868492681218?s=20
-https://twitter.com/JJansaSDS/status/1241440991783129094
-https://www.osce.org/representative-on-freedom-of-media/449287
-https://ipi.media/slovenian-journalists-operate-in-increasingly-toxic-atmosphere/
-https://rsf.org/en/blaz-zgaga
-
-https://cpj.org/2020/04/slovenian-journalist-blaz-zgaga-on-facing-off-agai/
-(3)
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-3&p_p_col_pos=1&p_p_col_count=11&_sojdashboard_WAR_coesojportlet_alertPK=70151499&_sojdashboard_WAR_coesojportlet_displayLink=SojPortlet.getDashboardPortletId%28%29
-(4)
-
-https://twitter.com/jjansasds/status/1316736285059420162?lang=en
-(5)
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/slovenia/
-https://www.europarl.europa.eu/news/en/agenda/briefing/2021-03-08/6/media-freedom-under-attack-in-poland-hungary-and-slovenia
-https://www.total-slovenia-news.com/politics/8199-council-of-europe-report-notes-concerns-about-govt-harassment-of-media-in-sloveniahttps://ipi.media/alerts/slovenian-pm-accuses-24ur-and-its-editor-of-responsibility-in-covid-19-deaths/
-
-(6)
-https://ipi.media/alerts/slovenian-pm-blames-mainstream-media-for-virus-spread/
-(7)
-https://www.politico.eu/article/testifying-to-parliament-experts-detail-curbs-on-media-rights-and-attacks-on-journalists-in-slovenia/
 
 
 
@@ -1114,10 +1077,10 @@ https://www.politico.eu/article/testifying-to-parliament-experts-detail-curbs-on
  No evidence found 
 
 *Sources*:
- https://ipi.media/slovenia/
-https://rsf.org/en/slovenia
-https://www.icnl.org/covid19tracker/?location=113&issue=&date=&type=
-https://cpj.org/europe/slovenia/
+ [1]	perma.cc/VCM8-8S29
+[2]	perma.cc/W2UQ-4NP7
+[3]	perma.cc/M9HJ-C9YZ
+[4]	perma.cc/X984-JGY5
 
 
 
@@ -1161,12 +1124,11 @@ https://cpj.org/europe/slovenia/
  Official website with information on covid-19; no reports on disinformation found. 
 
 *Sources*:
- https://www.gov.si/teme/koronavirus-sars-cov-2/
-
-https://ipi.media/slovenia/
-https://rsf.org/en/slovenia
-https://www.icnl.org/covid19tracker/?location=113&issue=&date=&type=
-https://cpj.org/europe/slovenia/
+ [1]	perma.cc/ND6G-JZW5
+[2]	perma.cc/R6JX-YZDU
+[3]	perma.cc/9FS4-4KY7
+[4]	perma.cc/DBR3-URW9
+[5]	perma.cc/NB6H-ANHM
 
 
 
@@ -1210,9 +1172,8 @@ https://cpj.org/europe/slovenia/
  No instances of police violence found. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/slovenia/
-https://www.hrw.org/sitesearch?search=slovenia&sort_by=created
-
+ [1]	perma.cc/U7GT-QSNF
+[2]	perma.cc/C5AW-8QXK
 
 
 
@@ -1254,6 +1215,9 @@ https://www.hrw.org/sitesearch?search=slovenia&sort_by=created
  The military was tasked with erecting a medical tent and transporting equipment but not confinement measures during March-June 2020. No further information found. 
 
 *Sources*:
- http://www.slovenskavojska.si/en/public-affairs/news/news-single/nov/edvard-peperko-barracks-provides-accommodation-facilities-for-people-during-the-epidemic/
-http://www.slovenskavojska.si/odnosi-z-javnostmi/sporocila-za-javnost/novica/nov/slovenska-vojska-s-svojimi-zmogljivostmi-podpira-napore-za-zajezitev-siritve-novega-virusa/
-http://euromil.org/armed-forces-and-covid-19/
+ [1]
+https://web.archive.org/web/20200413183422/http://www.slovenskavojska.si/en/public-affairs/news/news-single/nov/edvard-peperko-barracks-provides-accommodation-facilities-for-people-during-the-epidemic/
+[2]
+https://web.archive.org/web/20200920021454/http://www.slovenskavojska.si/odnosi-z-javnostmi/sporocila-za-javnost/novica/nov/slovenska-vojska-s-svojimi-zmogljivostmi-podpira-napore-za-zajezitev-siritve-novega-virusa/
+[3]
+perma.cc/G48D-8RR5

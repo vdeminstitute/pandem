@@ -58,42 +58,20 @@ The Decree n ° 2020-1262 of 16 October 2020 was being updated during 2021.
 The state of health emergency had been extended several times and was due to expire on 16 February 2021. On 20 January 2021 the National Assembly gave the green light to extend the state of emergency until 1 June 2021. From 2 June 2021 the government will retain emergency powers until 31 October 2021 regarding the movement of people or the closure of shops if sanitary conditions require it. (12) 
 
 *Sources*:
- https://www.legifrance.gouv.fr/affichCode.do;jsessionid=ED7D7E3350C7E021A155E1D07DB5FFDC.tplgfr24s_2?cidTexte=LEGITEXT000006072665&idSectionTA=LEGISCTA000041748550&dateTexte=20200420&categorieLien=id#LEGISCTA000041748550
-(1)
-
-https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
-(2)
-
-http://constitutionnet.org/state-of-emergency
-(3)
-
-https://www.concurrences.com/en/bulletin/news-issues/may-2020-ii-en/the-french-parliament-adopts-an-emergency-law-establishing-a-health-state-of
-(4)
-
-https://www.loc.gov/law/foreign-news/article/france-government-adopts-law-declaring-and-defining-a-state-of-health-emergency/
-(5)
-
-https://www.gide.com/sites/default/files/gide_clientalert_covid19_ofi_loiurgence_en_mar2020_0.pdf
-(6)
-
-http://codes.droit.org/CodV3/sante_publique.pdf
-/
+ https://perma.cc/YHS3-2SER
+https://perma.cc/55RL-RS8D
+https://perma.cc/H48B-H64R
+https://perma.cc/ZXL6-3PCT
+https://perma.cc/KV84-VHJZ
+https://perma.cc/JCZ7-RYL7
+https://perma.cc/6R47-W9BY
 https://perma.cc/A2H2-YTQW
-(7)
-https://fra.europa.eu/sites/default/files/fra_uploads/fr_report_on_coronavirus_pandemic_november_2020_.pdf
-(8)
 
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042101318?r=MKyvM6sgBA
-(9)
-
-https://www.gouvernement.fr/partage/11776-conference-de-presse-sur-l-application-des-mesures-contre-la-covid-19
-(10)
-
-https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042430554/
-(11)
-
-https://www.rfi.fr/en/france/20210428-french-government-aims-to-lift-state-of-emergency-by-june
-(12)
+https://perma.cc/KFV5-YJY3
+https://perma.cc/VJP5-65SX
+https://perma.cc/Z3CB-CRRW
+https://perma.cc/EF8Y-GCNG
+https://perma.cc/UE2K-598K
 
 
 
@@ -134,18 +112,13 @@ Constitution and Constitutional Council decision n ° 2020-803 DC of 9 July 2020
 Law extending the second state of health emergency for the period October 2020-December 2020: LOI n° 2020-1379 of November 2020 (4). 
 
 *Sources*:
- https://www.loc.gov/law/foreign-news/article/france-government-adopts-law-declaring-and-defining-a-state-of-health-emergency/
-http://codes.droit.org/CodV3/sante_publique.pdf
-
+ https://perma.cc/KV84-VHJZ
+https://perma.cc/6R47-W9BY
 https://perma.cc/A2H2-YTQW
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042520662
-(4)
-
-https://fra.europa.eu/sites/default/files/fra_uploads/fr_report_on_coronavirus_pandemic_november_2020_.pdf
-
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042101318?r=MKyvM6sgBA
-
-https://www.gouvernement.fr/partage/11776-conference-de-presse-sur-l-application-des-mesures-contre-la-covid-19
+https://perma.cc/HW2D-KME4
+https://perma.cc/KFV5-YJY3
+https://perma.cc/VJP5-65SX
+https://perma.cc/Z3CB-CRRW
 
 
 
@@ -188,35 +161,18 @@ Due to a second wave of Covid-19, the state of health emergency was re-institute
 The state of health emergency had been extended several times during 2021 and was due to expire on 16 February 2021. On 20 January 2021 the National Assembly gave the green light to extend the state of emergency until 1 June 2021. From 2 June 2021 the government will retain emergency powers until 31 October 2021 regarding the movement of people or the closure of shops if sanitary conditions require it. (12) 
 
 *Sources*:
- https://www.legifrance.gouv.fr/affichCode.do;jsessionid=ED7D7E3350C7E021A155E1D07DB5FFDC.tplgfr24s_2?cidTexte=LEGITEXT000006072665&idSectionTA=LEGISCTA000041748550&dateTexte=20200420&categorieLien=id#LEGISCTA000041748550
-(1)
-
-https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
-(2)
-
-https://www.concurrences.com/en/bulletin/news-issues/may-2020-ii-en/the-french-parliament-adopts-an-emergency-law-establishing-a-health-state-of
-(3)
-
-https://www.loc.gov/law/foreign-news/article/france-government-adopts-law-declaring-and-defining-a-state-of-health-emergency/
-(4)
-
-https://www.gide.com/sites/default/files/gide_clientalert_covid19_ofi_loiurgence_en_mar2020_0.pdf
-(5)
-https://www.reuters.com/article/us-health-coronavirus-france-emergency-idUSKBN26Z2PQ
-(6)
-https://www.connexionfrance.com/French-news/France-to-extend-state-of-health-emergency-amid-record-cases-of-Covid-19-and-Macron-warning
-(7)
-https://www.aa.com.tr/en/europe/france-extends-covid-19-state-of-emergency-to-feb-16/2032593
-(8)
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042520662
-(9)
-
-https://fra.europa.eu/sites/default/files/fra_uploads/fr_report_on_coronavirus_pandemic_november_2020_.pdf
-
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042101318?r=MKyvM6sgBA
-
-https://www.rfi.fr/en/france/20210428-french-government-aims-to-lift-state-of-emergency-by-june
-(12)
+ https://perma.cc/YHS3-2SER
+https://perma.cc/55RL-RS8D
+https://perma.cc/ZXL6-3PCT
+https://perma.cc/KV84-VHJZ
+https://perma.cc/JCZ7-RYL7
+https://perma.cc/32YF-B69F
+https://perma.cc/9H2M-CH26
+https://perma.cc/3YDU-69FM
+https://perma.cc/HW2D-KME4
+https://perma.cc/KFV5-YJY3
+https://perma.cc/VJP5-65SX
+https://perma.cc/UE2K-598K
 
 
 
@@ -260,17 +216,12 @@ Due to a second wave of Covid-19, the state of health emergency was re-institute
 The state of health emergency had been extended several times during 2021 and was due to expire on 16 February 2021. On 20 January 2021 the National Assembly, gave the green light to extend the state of emergency until 1 June 2021. From 2 June 2021 the government will retain emergency powers until 31 October 2021 regarding the movement of people or the closure of shops if sanitary conditions require it. (6) 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/fr_report_on_coronavirus_pandemic_november_2020_.pdf
-
-
-https://www.voanews.com/covid-19-pandemic/france-will-roll-back-special-government-powers-july-10
-https://www.france24.com/fr/20200611-covid-19-en-france-l-%C3%A9tat-d-urgence-sanitaire-lev%C3%A9-le-10-juillet-puis-4-mois-de-transition
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042520662
-
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042101318?r=MKyvM6sgBA
-
-https://www.rfi.fr/en/france/20210428-french-government-aims-to-lift-state-of-emergency-by-june
-(6)
+ https://perma.cc/KFV5-YJY3
+https://perma.cc/Y5CW-WZKZ
+https://perma.cc/NM9B-XHF2
+https://perma.cc/HW2D-KME4
+https://perma.cc/VJP5-65SX
+https://perma.cc/UE2K-598K
 
 
 
@@ -317,17 +268,12 @@ Due to a second wave of Covid-19, the state of health emergency was re-institute
 The state of health emergency had been extended several times during 2021 and was due to expire on 16 February 2021. On 20 January 2021 the National Assembly, gave the green light to extend the state of emergency until 1 June 2021. From 2 June 2021 the government will retain emergency powers until 31 October 2021 regarding the movement of people or the closure of shops if sanitary conditions require it. (6) 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/fr_report_on_coronavirus_pandemic_november_2020_.pdf
-
-
-https://www.voanews.com/covid-19-pandemic/france-will-roll-back-special-government-powers-july-10
-https://www.france24.com/fr/20200611-covid-19-en-france-l-%C3%A9tat-d-urgence-sanitaire-lev%C3%A9-le-10-juillet-puis-4-mois-de-transition
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042520662
-
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042101318?r=MKyvM6sgBA
-
-https://www.rfi.fr/en/france/20210428-french-government-aims-to-lift-state-of-emergency-by-june
-(6)
+ https://perma.cc/KFV5-YJY3
+https://perma.cc/Y5CW-WZKZ
+https://perma.cc/NM9B-XHF2
+https://perma.cc/HW2D-KME4
+https://perma.cc/VJP5-65SX
+https://perma.cc/UE2K-598K
 
 
 
@@ -371,17 +317,12 @@ Due to a second wave of Covid-19, the state of health emergency was re-institute
 The state of health emergency had been extended several times during 2021 and was due to expire on 16 February 2021. On 20 January 2021 the National Assembly, gave the green light to extend the state of emergency until 1 June 2021. From 2 June 2021 the government will retain emergency powers until 31 October 2021 regarding the movement of people or the closure of shops if sanitary conditions require it. (6) 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/fr_report_on_coronavirus_pandemic_november_2020_.pdf
-
-
-https://www.voanews.com/covid-19-pandemic/france-will-roll-back-special-government-powers-july-10
-https://www.france24.com/fr/20200611-covid-19-en-france-l-%C3%A9tat-d-urgence-sanitaire-lev%C3%A9-le-10-juillet-puis-4-mois-de-transition
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042520662
-
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042101318?r=MKyvM6sgBA
-
-https://www.rfi.fr/en/france/20210428-french-government-aims-to-lift-state-of-emergency-by-june
-(6)
+ https://perma.cc/KFV5-YJY3
+https://perma.cc/Y5CW-WZKZ
+https://perma.cc/NM9B-XHF2
+https://perma.cc/HW2D-KME4
+https://perma.cc/VJP5-65SX
+https://perma.cc/UE2K-598K
 
 
 
@@ -427,21 +368,14 @@ The law of 11 July 2020 also needed the approval of the Constitutional Court and
  
 
 *Sources*:
- http://codes.droit.org/CodV3/sante_publique.pdf
-(1)
-
+ https://perma.cc/6R47-W9BY
 https://perma.cc/A2H2-YTQW
 (1.1)
 
-https://www.connexionfrance.com/French-news/Covid-19-France-declares-state-of-health-emergency-after-law-voted-through-by-MPs-and-Senators-Assemblee-Nationale
-(2)
-
-https://www.loc.gov/law/foreign-news/article/france-government-adopts-law-declaring-and-defining-a-state-of-health-emergency/
-(3)
-
-https://fra.europa.eu/sites/default/files/fra_uploads/fr_report_on_coronavirus_pandemic_november_2020_.pdf
-
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042101318?r=MKyvM6sgBA
+https://perma.cc/B6AW-3FBQ
+https://perma.cc/KV84-VHJZ
+https://perma.cc/KFV5-YJY3
+https://perma.cc/VJP5-65SX
 
 
 
@@ -487,21 +421,13 @@ The law of 11 July 2020 was approved by the Constitutional Court and the Nationa
 The second state of health emergency was voted by Assemblee Nationale on 5 November 2020. The state of health emergency had been extended several times during 2021 and was due to expire on 16 February 2021. On 20 January 2021 the National Assembly, gave the green light to extend the state of emergency until 1 June 2021. From 2 June 2021 the government will retain emergency powers until 31 October 2021 regarding the movement of people or the closure of shops if sanitary conditions require it. (6) 
 
 *Sources*:
- https://www.euronews.com/2020/03/21/french-parliament-declares-state-of-sanitary-emergency
-
-http://www.rfi.fr/en/france/20200512-french-constitutional-council-passes-emergency-health-law-but-raises-privacy-concerns-covid-19-human-rights-lockdown
-
-https://www.aa.com.tr/en/europe/france-extends-covid-19-state-of-emergency-to-feb-16/2032593
-
-
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042520662
-
-https://fra.europa.eu/sites/default/files/fra_uploads/fr_report_on_coronavirus_pandemic_november_2020_.pdf
-
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042101318?r=MKyvM6sgBA
-
-https://www.rfi.fr/en/france/20210428-french-government-aims-to-lift-state-of-emergency-by-june
-(6)
+ https://perma.cc/TB4M-SP7Q
+https://perma.cc/6U7D-89TJ
+https://perma.cc/3YDU-69FM
+https://perma.cc/HW2D-KME4
+https://perma.cc/KFV5-YJY3
+https://perma.cc/VJP5-65SX
+https://perma.cc/UE2K-598K
 
 
 
@@ -550,7 +476,11 @@ The new law of 11 July 2020 (n° 2020-856 (9)) that outlined the conditions for 
 *Sources*:
  https://www.loc.gov/law/foreign-news/article/france-government-adopts-law-declaring-and-defining-a-state-of-health-emergency/
 
+
+
 https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042101318?r=MKyvM6sgBA
+
+
 
 https://fra.europa.eu/sites/default/files/fra_uploads/fr_report_on_coronavirus_pandemic_november_2020_.pdf
 
@@ -676,26 +606,16 @@ https://fra.europa.eu/sites/default/files/fra_uploads/fr_report_on_coronavirus_p
  
 
 *Sources*:
- https://www.bbc.com/news/topics/cx1m7zg0gylt/morocco
+ https://perma.cc/2DZY-SHCN
+https://perma.cc/26S8-AJCR
+https://perma.cc/B6AW-3FBQ
+https://perma.cc/H48B-H64R
+https://perma.cc/KV84-VHJZ
+https://perma.cc/32YF-B69F
+https://perma.cc/HG4L-GPUW
+https://perma.cc/35VL-JANT
 
-https://www.france24.com/en/20200731-new-rules-in-parts-of-france-as-new-coronavirus-cases-crop-up
-
-https://www.connexionfrance.com/French-news/Covid-19-France-declares-state-of-health-emergency-after-law-voted-through-by-MPs-and-Senators-Assemblee-Nationale
-
-http://constitutionnet.org/state-of-emergency
-
-https://www.loc.gov/law/foreign-news/article/france-government-adopts-law-declaring-and-defining-a-state-of-health-emergency/
-
-https://www.reuters.com/article/us-health-coronavirus-france-emergency-idUSKBN26Z2PQ
-
-https://www.bbc.com/news/world-europe-53934952
-
-https://www.garda.com/crisis24/news-alerts/441081/france-authorities-extend-covid-19-related-state-of-health-emergency-until-june-1-update-33
-
-
-https://www.gouvernement.fr/en/coronavirus-covid-19
-
-
+https://perma.cc/S7X7-YNR9
 
 
 
@@ -756,23 +676,13 @@ neighbourhoods.'' (1)
 'Since the beginning of the lockdown, many accounts, some corroborated by videos posted on social networks, reveal police stops that appear abusive, violent, and discriminatory, sometimes accompanied by racist insults.  Available official data, as well as information published in the media, also indicate a considerable concentration of police stops to enforce lockdown measures in “quartiers populaires” – working-class neighborhoods with a high number of visible minority residents and, for example, a fine rate three times as high as the national average in Seine-Saint-Denis, the poorest neighborhood of Metropolitan France. The data and accounts suggest discriminatory behavior against citizens depending on where they live and a disproportionate impact of fines on socially and economically disadvantaged households, the organizations said.'' (2) 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-(1)
+ https://perma.cc/5GX8-MFDL
+https://perma.cc/55WU-JVDV
+https://perma.cc/N4P4-JS83
 
-https://www.hrw.org/news/2020/05/15/france-end-discriminatory-police-checks-and-fines
-(2)
-
-https://www.france24.com/en/20200421-violence-flares-in-tense-paris-suburbs-as-heavy-handed-lockdown-stirs-explosive-cocktail
-(3)
-
-https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/report-lockdowns-enforced-more-harshly-on-minorities/1888645
-(4)
-
-https://www.theguardian.com/world/2020/jun/24/policing-of-european-covid-19-lockdowns-shows-racial-bias-report
-(5)
-
-https://www.hrw.org/world-report/2021/country-chapters/france
-(6)
+https://perma.cc/76BF-YWDW
+https://perma.cc/ZGU3-URZ6
+https://perma.cc/XS4E-T92U
 
 
 
@@ -827,12 +737,9 @@ https://www.hrw.org/world-report/2021/country-chapters/france
 France continued to detain people in immigration detention centers during the pandemic despite calls in March 2020 from the French Ombudsperson and the General Controller for Prisons for their closure given the risks of contracting Covid-19 and the fact that deportations could not be carried out in a reasonable timeframe due to travel restrictions. In September 2020, the government announced it would use a detention center outside Paris for people who tested positive for the virus that causes Covid-19 while they awaited deportation.'' (6) 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-
-https://www.hrw.org/news/2020/05/15/france-end-discriminatory-police-checks-and-fines
-
-https://www.hrw.org/world-report/2021/country-chapters/france
-(3)
+ https://perma.cc/5GX8-MFDL
+https://perma.cc/55WU-JVDV
+https://perma.cc/XS4E-T92U
 
 
 
@@ -878,10 +785,9 @@ The bill called “Global Security Law” presented in the past fall, and in par
 members of the security forces. This would have prevented journalists and others from filming the police in their interventions and may hamper the exposure of police violence. Following strenuous opposition and protests, the government dropped this provision as a way to “save” the law. (2) 
 
 *Sources*:
- https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043268538#:~:text=Copier%20le%20texte-,D%C3%A9cret%20n%C2%B0%202021%2D296%20du%2019%20mars%202021%20modifiant,l'%C3%A9tat%20d'urgence%20sanitaire
+ https://perma.cc/WYT6-XS7T
 
-https://dq4n3btxmr8c9.cloudfront.net/files/AuYJXv/Report_Liberties_EU2020.pdf
-(2)
+https://perma.cc/A6NQ-QQK8
 
 
 
@@ -1001,15 +907,11 @@ https://dq4n3btxmr8c9.cloudfront.net/files/AuYJXv/Report_Liberties_EU2020.pdf
  No relevant evidence was found. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-
-https://cpj.org/europe/france/
-
-https://www.ecpmf.eu/?s=covid19
-
+ https://perma.cc/3SJV-TGU3
+https://perma.cc/RU8E-5FY8
+https://perma.cc/YS82-CJ4H
 https://rsf.org/en/rsf_search?key=france
-
-https://www.mappingmediafreedom.org/country-profiles/france/
+https://perma.cc/YW5V-C3X6
 
 
 
@@ -1051,15 +953,11 @@ https://www.mappingmediafreedom.org/country-profiles/france/
  No relevant evidence was found. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-
-https://cpj.org/europe/france/
-
-https://www.ecpmf.eu/?s=covid19
-
+ https://perma.cc/3SJV-TGU3
+https://perma.cc/RU8E-5FY8
+https://perma.cc/YS82-CJ4H
 https://rsf.org/en/rsf_search?key=france
-
-https://www.mappingmediafreedom.org/country-profiles/france/
+https://perma.cc/YW5V-C3X6
 
 
 
@@ -1101,15 +999,11 @@ https://www.mappingmediafreedom.org/country-profiles/france/
  In November 2020, a bill was discussed that would have limited the rights of journalists and others to take pictures of the police. However, after protests, it was dropped. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-
-https://cpj.org/europe/france/
-
-https://www.ecpmf.eu/?s=covid19
-
+ https://perma.cc/3SJV-TGU3
+https://perma.cc/RU8E-5FY8
+https://perma.cc/YS82-CJ4H
 https://rsf.org/en/rsf_search?key=france
-
-https://www.mappingmediafreedom.org/country-profiles/france/
+https://perma.cc/YW5V-C3X6
 
 
 
@@ -1152,15 +1046,11 @@ https://www.mappingmediafreedom.org/country-profiles/france/
  No relevant evidence was found. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-
-https://cpj.org/europe/france/
-
-https://www.ecpmf.eu/?s=covid19
-
-https://rsf.org/en/rsf_search?key=france
-
-https://www.mappingmediafreedom.org/country-profiles/france/
+ https://perma.cc/3SJV-TGU3
+https://perma.cc/RU8E-5FY8
+https://perma.cc/YS82-CJ4H
+https://web.archive.org/web/20200421110301/http://rsf.org:80/en/rsf_search
+https://perma.cc/YW5V-C3X6
 
 
 
@@ -1202,15 +1092,11 @@ https://www.mappingmediafreedom.org/country-profiles/france/
  No relevant evidence was found. There are many instances of physical and verbal harasshment against journalists in France during 2020-2021, but these are unrelated to Covid-19 coverage, nor come from state institutions (rather from individuals). 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-
-https://cpj.org/europe/france/
-
-https://www.ecpmf.eu/?s=covid19
-
+ https://perma.cc/3SJV-TGU3
+https://perma.cc/RU8E-5FY8
+https://perma.cc/YS82-CJ4H
 https://rsf.org/en/rsf_search?key=france
-
-https://www.mappingmediafreedom.org/country-profiles/france/
+https://perma.cc/YW5V-C3X6
 
 
 
@@ -1252,15 +1138,11 @@ https://www.mappingmediafreedom.org/country-profiles/france/
  No relevant evidence was found. There are many instances of physical and verbal harasshment against journalists in France during 2020-2021, but these are unrelated to Covid-19 coverage, nor come from state institutions (rather from individuals). 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-
-https://cpj.org/europe/france/
-
-https://www.ecpmf.eu/?s=covid19
-
-https://rsf.org/en/rsf_search?key=france
-
-https://www.mappingmediafreedom.org/country-profiles/france/
+ https://perma.cc/3SJV-TGU3
+https://perma.cc/RU8E-5FY8
+https://perma.cc/YS82-CJ4H
+https://web.archive.org/web/20200421110301/http://rsf.org:80/en/rsf_search
+https://perma.cc/YW5V-C3X6
 
 
 
@@ -1304,11 +1186,9 @@ https://www.mappingmediafreedom.org/country-profiles/france/
  The French government national information resources website on Covid-19 is in line with WHO guidlines. 
 
 *Sources*:
- https://www.gouvernement.fr/en/coronavirus-covid-109
-
-https://www.ecdc.europa.eu/en/COVID-19/national-sources
-
-https://www.thelancet.com/action/showPdf?pii=S1470-2045%2820%2930204-7
+ https://perma.cc/V7LF-BCBW
+https://perma.cc/58GL-A8DW
+https://perma.cc/S7T6-H4JD
 
 
 
@@ -1359,32 +1239,17 @@ Amnesty International verified 15 videos of instances of unlawful use of force a
  ''There are several cases of police brutality in the context of Covid-19 and to date two people from racialised groups have died at the hands of the police, in France and in Belgium. (Mohamed Gabsi, 33 years old, who died on 8 April 2020 in France.)'' (1) 
 
 *Sources*:
- https://www.enar-eu.org/Evidence-of-the-impact-of-Covid-19-on-racialised-communities-exposes-need-to
-(1)
+ https://perma.cc/S5UF-M5AD
+https://perma.cc/5GX8-MFDL
+https://perma.cc/AVY5-4M6S
 
-https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-(2)
-
-https://www.euronews.com/2020/05/07/amnesty-slams-alleged-police-brutality-in-french-lockdown-enforcement
-
-https://www.independent.co.uk/news/world/europe/police-abuse-brutality-racism-lockdown-protests-france-paris-a9556386.html
-
-http://www.rfi.fr/en/france/20200512-covid19-france-paris
-
-
-https://www.justiceinitiative.org/newsroom/amid-covid-19-lockdown-justice-initiative-calls-for-end-to-excessive-police-checks-in-france
-
-
-https://www.dw.com/en/in-lockdown-migrants-in-france-up-against-pandemic-police-abuse/a-53334045
-
-https://www.dw.com/en/paris-police-officers-suspended-over-beating-of-black-man/a-55737900
-(8)
-
-https://abcnews.go.com/International/wireStory/paris-police-suspended-beating-black-man-74416095
-(9)
-
-https://www.euronews.com/2021/04/11/covid-19-20-arrested-in-anti-measures-protests-in-finland-denmark-norway
-(10)
+https://perma.cc/XRG4-HHGT
+https://perma.cc/JT5E-JQTH
+https://perma.cc/AHT8-S6J6
+https://perma.cc/M8LQ-GZQL
+https://perma.cc/85MA-GRS8
+https://perma.cc/56KH-FWXM
+https://perma.cc/C8AM-PDP9
 
 
 
@@ -1429,8 +1294,6 @@ https://www.euronews.com/2021/04/11/covid-19-20-arrested-in-anti-measures-protes
 It will also broaden existing efforts to shuffle patients around the country and also in France’s overseas’ territories, where two warships were dispatched this week as the situation worsens there.'' 
 
 *Sources*:
- https://www.theguardian.com/world/video/2020/mar/26/emmanuel-macron-drafts-french-military-into-coronavirus-war-video
-
-https://www.france24.com/en/20200325-macron-launches-army-operation-resilience-to-support-fight-against-coronavirus
-
-https://www.reuters.com/article/us-health-coronavirus-france-army/french-army-moves-up-a-gear-in-war-against-coronavirus-idUSKBN21D2TY
+ https://perma.cc/WH3G-5V6X
+https://perma.cc/3CXM-D8BE
+https://perma.cc/WW47-M7CZ

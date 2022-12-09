@@ -53,38 +53,39 @@ b) Executive Decree No. 20-70 of 24 March 2020 (3) establishing additional measu
 The Algerian Government has been using the same legal instruments in order to issue regulations in forms of Executive Decrees to deal with Covid-19 throughout (see: a list of decrees up to January 2021: 7, 8, decrees during Q1 and Q2 of 2021: 9, 10, 11). 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Algeria_2016.pdf?lang=en
+ https://perma.cc/L2LJ-WBNJ
 (1)
 
-https://ambalgeri.esteri.it/ambasciata_algeri/resource/doc/2020/03/decreto_dz_covid_19_-_21032020.pdf
+https://perma.cc/62EZ-A9NW
 (2)
 
-http://www.faf.dz/wp-content/uploads/2020/03/Journal-Officiel-n%C2%B016-Relatif-%C3%A0-la-Lutte-contre-le-COVID-19.pdf
+https://perma.cc/3R5P-8U7S
 (3)
 
-https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=en&p_isn=4767
+https://perma.cc/U434-T2CU
 (4)
 
-https://www.gide.com/fr/actualites/covid-19-mesures-generales-relatives-a-la-lutte-contre-la-propagation-du-covid-19-en
+https://perma.cc/8N8A-CLYW
 (5)
 
-https://cms.law/fr/media/local/cms-bfl/files/veille-covid-19-en-afrique-du-13-au-17-avril-2020
+https://perma.cc/VA9W-MHGE
 (6)
 
-http://ilo.org/dyn/natlex/natlex4.listResults?p_lang=en&p_count=97059&p_classification=01&p_classcount=12682&p_first=151&p_show_abstract=N&p_pagelength=50
+https://perma.cc/P4T9-8BCT
 (7)
 
-https://samtalgerie.com/wp-content/uploads/2021/02/Textes-juridiques-Algerie-Sante-COVID-19-2020.pdf
-(8)
+https://perma.cc/8EFY-WS4K
+(6)
 
-https://www.cna.dz/extension/mydesign/design/mydesign/images/covid-19/DE_21-70_COVID-19.pdf
+https://perma.cc/BU8R-PJXK
 (9)
 
-https://www.cna.dz/extension/mydesign/design/mydesign/images/covid-19/DE_21-105_COVID-19.pdf
+https://perma.cc/DKE9-RJV6
 (10)
 
-https://www.mfdgi.gov.dz/images/pdf/textes_reglementaires/F2021024.pdf
+https://perma.cc/6QUU-JSN9
 (11)
+
 
 
 
@@ -129,13 +130,16 @@ https://www.mfdgi.gov.dz/images/pdf/textes_reglementaires/F2021024.pdf
 b) law n° 88-07 du 7 Joumada Ethania 1408 du 26 janvier 1988 relative à l’hygiène, à la sécurité et à la médecine du travail. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Algeria_2016.pdf?lang=en
+ https://perma.cc/YRM6-D3MU
 (1)
-https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=en&p_isn=4767
+
+https://perma.cc/7Y4C-WZKV
 (2)
-https://ambalgeri.esteri.it/ambasciata_algeri/resource/doc/2020/03/decreto_dz_covid_19_-_21032020.pdf
+
+https://perma.cc/S868-3KV7
 (3)
-http://www.faf.dz/wp-content/uploads/2020/03/Journal-Officiel-n%C2%B016-Relatif-%C3%A0-la-Lutte-contre-le-COVID-19.pdf
+
+https://perma.cc/ZT4V-FED7
 (4)
 
 
@@ -175,13 +179,13 @@ http://www.faf.dz/wp-content/uploads/2020/03/Journal-Officiel-n%C2%B016-Relatif-
  The Algerian government initially adopted two main Decrees, on 21 March 2020 (1) and 24 March 2020 (2). Emstart is coded based on the date of the first decree because it included the more general and nationwide measures. The second decree was stricter (e.g. establishes confinement measures and restrictions), but its scope was mostly subnational. 
 
 *Sources*:
- https://ambalgeri.esteri.it/ambasciata_algeri/resource/doc/2020/03/decreto_dz_covid_19_-_21032020.pdf
+ https://perma.cc/T8YG-6NHN
 (1)
 
-http://www.faf.dz/wp-content/uploads/2020/03/Journal-Officiel-n%C2%B016-Relatif-%C3%A0-la-Lutte-contre-le-COVID-19.pdf
+https://perma.cc/L7HV-HR6S
 (2)
 
-https://www.gide.com/fr/actualites/covid-19-mesures-generales-relatives-a-la-lutte-contre-la-propagation-du-covid-19-en
+https://perma.cc/Y5RM-RQW8
 
 
 
@@ -222,30 +226,30 @@ The Algerian government has maintained Covid-19 measures throughout the pandemic
 The latest update on the measures includes an extension of the nightly 23:59-04:00 curfew through at least 20 June 2021 across 19 provinces, including Algiers, Oran, Tebessa, and Constantine.The government has eased some other domestic measures (1). 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/486231/algeria-authorities-extend-nightly-curfew-in-multiple-provinces-through-at-least-june-20-to-combat-covid-19-update-7
+ https://perma.cc/CQU2-PCZR
 (1)
 
-https://www.observalgerie.com/2021/05/20/la-une/le-couvre-feu-nocturne-prolonge-pour-un-mois-en-algerie/
+https://perma.cc/5GV7-XDJF
 
-https://www.agenceecofin.com/transports/2005-88385-lalgerie-renonce-a-son-plan-de-reouverture-des-frontieres-terrestres
+https://perma.cc/RU4X-3DZ4
 
-https://www.tsa-algerie.com/alerte-covid-19-le-couvre-feu-nocturne-reinstaure-dans-10-wilayas/
+https://perma.cc/DTY2-P9Q9
 
-https://lepetitjournal.com/alger/covid-19-reconduction-couvre-feu-neuf-wilayas-algerie-303013
+https://perma.cc/2NKX-WJEN
 
-https://www.algerie-eco.com/2021/03/30/le-confinement-a-domicile-prolonge-dans-9-wilayas-les-horaires-du-couvre-feu-alleges/
+https://perma.cc/ECQ9-L7S5
 
-https://www.aps.dz/algerie/116945-covid-19-reamenagement-des-horaires-de-confinement-partiel-a-alger
+https://perma.cc/T78U-QNSR
 
-https://www.francetvinfo.fr/monde/afrique/societe-africaine/covid-19-l-algerie-allege-ses-mesures-de-restriction_4281899.html
+https://perma.cc/V29V-VVQ4
 
-https://www.lemonde.fr/afrique/article/2020/11/09/coronavirus-l-algerie-durcit-les-mesures-de-confinement_6059066_3212.html
+https://perma.cc/Y39W-A388
 
-https://www.garda.com/crisis24/news-alerts/399901/algeria-authorities-extend-covid-19-restrictions-until-december-2-update-29
+https://perma.cc/EN39-LNTU
 
-https://www.garda.com/crisis24/news-alerts/400581/authorities-reimpose-covid-19-restrictions-nationwide-november-17
+https://perma.cc/X4WK-TVCN
 
-https://www.garda.com/crisis24/news-alerts/405721/algeria-authorities-extend-nightly-curfew-until-december-16-update-31
+https://perma.cc/4TKE-VN5H
 
 
 
@@ -291,25 +295,25 @@ Nevertheless, the legal instruments used did not have a limit date, i.e. there h
 The latest update on the measures includes an extension of the nightly 23:59-04:00 curfew through at least 20 June 2021 across 19 provinces, including Algiers, Oran, Tebessa, and Constantine.The government has eased some other domestic measures (7). 
 
 *Sources*:
- https://ambalgeri.esteri.it/ambasciata_algeri/resource/doc/2020/03/decreto_dz_covid_19_-_21032020.pdf
+ https://perma.cc/4TMS-V92L
 (1)
 
-http://www.faf.dz/wp-content/uploads/2020/03/Journal-Officiel-n%C2%B016-Relatif-%C3%A0-la-Lutte-contre-le-COVID-19.pdf
+https://perma.cc/F3G4-HZGT
 (2)
 
-https://www.gide.com/fr/actualites/covid-19-mesures-generales-relatives-a-la-lutte-contre-la-propagation-du-covid-19-en
+https://perma.cc/RX8U-C244
 (3)
 
-http://ilo.org/dyn/natlex/docs/ELECTRONIC/110556/137556/F-1406949206/DZA-110556.pdf
+https://perma.cc/YVC3-ZPAM
 (4)
 
-http://ilo.org/dyn/natlex/docs/ELECTRONIC/110555/137554/F-1277301820/DZA-110555.pdf
+https://perma.cc/CZR6-LVV6
 (5)
 
-http://ilo.org/dyn/natlex/natlex4.listResults?p_lang=en&p_count=97059&p_classification=01&p_classcount=12682&p_first=151&p_show_abstract=N&p_pagelength=50
+https://perma.cc/Z8PX-5QGC
 (6)
 
-https://www.garda.com/crisis24/news-alerts/486231/algeria-authorities-extend-nightly-curfew-in-multiple-provinces-through-at-least-june-20-to-combat-covid-19-update-7
+https://perma.cc/J973-E546
 (7)
 
 
@@ -353,25 +357,25 @@ Nevertheless, the legal instruments used did not have a limit date, i.e. there h
 The latest update on the measures includes an extension of the nightly 23:59-04:00 curfew through at least 20 June 2021 across 19 provinces, including Algiers, Oran, Tebessa, and Constantine.The government has eased some other domestic measures (7). 
 
 *Sources*:
- https://ambalgeri.esteri.it/ambasciata_algeri/resource/doc/2020/03/decreto_dz_covid_19_-_21032020.pdf
+ https://perma.cc/7CYD-SGMR
 (1)
 
-http://www.faf.dz/wp-content/uploads/2020/03/Journal-Officiel-n%C2%B016-Relatif-%C3%A0-la-Lutte-contre-le-COVID-19.pdf
+https://perma.cc/8NEJ-TMR
 (2)
 
-https://www.gide.com/fr/actualites/covid-19-mesures-generales-relatives-a-la-lutte-contre-la-propagation-du-covid-19-en
+https://perma.cc/FV4Z-ZJZD
 (3)
 
-http://ilo.org/dyn/natlex/docs/ELECTRONIC/110556/137556/F-1406949206/DZA-110556.pdf
+https://perma.cc/S76M-EL43
 (4)
 
-http://ilo.org/dyn/natlex/docs/ELECTRONIC/110555/137554/F-1277301820/DZA-110555.pdf
+https://perma.cc/Y556-V7W8
 (5)
 
-http://ilo.org/dyn/natlex/natlex4.listResults?p_lang=en&p_count=97059&p_classification=01&p_classcount=12682&p_first=151&p_show_abstract=N&p_pagelength=50
+https://perma.cc/55JC-AU8S
 (6)
 
-https://www.garda.com/crisis24/news-alerts/486231/algeria-authorities-extend-nightly-curfew-in-multiple-provinces-through-at-least-june-20-to-combat-covid-19-update-7
+https://perma.cc/F6P5-WK5S
 (7)
 
 
@@ -420,9 +424,9 @@ Constitution 1989 (reinst. 1996, rev. 2016), article 99 (4): In addition to the 
 Art. 143: Matters other than those earmarked for statutory legislation shall fall within the regulatory power of the President of the Republic. The implementation of the laws shall be a matter for the regulatory field of the Prime Minister. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Algeria_2016.pdf?lang=en
+ https://perma.cc/KV2F-LA5M
 
-https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislative-activities.pdf
+https://perma.cc/TLL4-KMTY
 (2)
 
 
@@ -465,7 +469,7 @@ https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislat
  No evidence was found that the Covid-19 measures were adopted by the National Assembly, but it is also not required by law. 
 
 *Sources*:
- https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislative-activities.pdf
+ https://perma.cc/SM46-TGC5
 
 
 
@@ -517,26 +521,22 @@ The legislature is still not entirely suspended, given that any laws passed whil
 Algerian president Abdelmadjid Tebboune called for early legislative elections on 12 June 2021 and dissolved the National People's Assembly on 18 February 2021 (8), but this is a procedural dissolution for election purposes. 
 
 *Sources*:
- https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislative-activities.pdf
+ https://perma.cc/69FV-GL75
 (1)
+https://perma.cc/CQG8-JJVW
 
-
-https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
-
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+https://perma.cc/E38Y-NM2D
 (3)
-
 http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdf
 (4)
-
 http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20March%2021-27.pdf
 (5)
-
 https://perma.cc/A3S6-KFR5
 
-https://www.jeuneafrique.com/915472/politique/maroc-tunisie-algerie-le-coronavirus-bouscule-lagenda-politique-et-legislatif/
 
-https://www.agenceecofin.com/gouvernance-economique/2202-85429-algerie-abdelmadjid-tebboune-remanie-le-gouvernement-et-dissout-lassemblee-populaire-nationale
+https://perma.cc/4Q79-LL6Y
+
+https://perma.cc/F9GN-58M4
 (8)
 
 
@@ -659,30 +659,30 @@ https://www.agenceecofin.com/gouvernance-economique/2202-85429-algerie-abdelmadj
  The lockdown and curfew have varied subnationally throughout all periods. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/486231/algeria-authorities-extend-nightly-curfew-in-multiple-provinces-through-at-least-june-20-to-combat-covid-19-update-7
+ https://perma.cc/6LVU-2N27
 (1)
 
-https://www.observalgerie.com/2021/05/20/la-une/le-couvre-feu-nocturne-prolonge-pour-un-mois-en-algerie/
+https://perma.cc/NGZ8-BTDQ
 
-https://www.agenceecofin.com/transports/2005-88385-lalgerie-renonce-a-son-plan-de-reouverture-des-frontieres-terrestres
+https://perma.cc/4UGB-Y592
 
-https://www.tsa-algerie.com/alerte-covid-19-le-couvre-feu-nocturne-reinstaure-dans-10-wilayas/
+https://perma.cc/55J5-ACEP
 
-https://lepetitjournal.com/alger/covid-19-reconduction-couvre-feu-neuf-wilayas-algerie-303013
+https://perma.cc/7FXP-CKBK
 
-https://www.algerie-eco.com/2021/03/30/le-confinement-a-domicile-prolonge-dans-9-wilayas-les-horaires-du-couvre-feu-alleges/
+https://perma.cc/5Z6A-KKCR
 
-https://www.aps.dz/algerie/116945-covid-19-reamenagement-des-horaires-de-confinement-partiel-a-alger
+https://perma.cc/9R7E-LVGY
 
-https://www.francetvinfo.fr/monde/afrique/societe-africaine/covid-19-l-algerie-allege-ses-mesures-de-restriction_4281899.html
+https://perma.cc/5DZK-669Q
 
-https://www.lemonde.fr/afrique/article/2020/11/09/coronavirus-l-algerie-durcit-les-mesures-de-confinement_6059066_3212.html
+https://perma.cc/5PAV-6TBU
 
-https://www.garda.com/crisis24/news-alerts/399901/algeria-authorities-extend-covid-19-restrictions-until-december-2-update-29
+https://perma.cc/9873-FYES
 
-https://www.garda.com/crisis24/news-alerts/400581/authorities-reimpose-covid-19-restrictions-nationwide-november-17
+https://perma.cc/6Z8L-GAKB
 
-https://www.garda.com/crisis24/news-alerts/405721/algeria-authorities-extend-nightly-curfew-until-december-16-update-31
+https://perma.cc/A9BQ-YR56
 
 
 
@@ -726,21 +726,23 @@ https://www.garda.com/crisis24/news-alerts/405721/algeria-authorities-extend-nig
  There are reports on the government discriminating against Hirak movement activists, but these do not relate to the grounds specified in this question. 
 
 *Sources*:
- https://www.chathamhouse.org/expert/comment/algeria-s-perfect-storm-covid-19-and-its-fallout
+ https://perma.cc/4M33-KM6L
 
-https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
+https://perma.cc/8NFJ-ABG6
 
-https://ambalgeri.esteri.it/ambasciata_algeri/resource/doc/2020/03/decreto_dz_covid_19_-_21032020.pdf
+https://perma.cc/6BK6-AFSP
 
-http://www.faf.dz/wp-content/uploads/2020/03/Journal-Officiel-n%C2%B016-Relatif-%C3%A0-la-Lutte-contre-le-COVID-19.pdf
+https://perma.cc/M7WP-WAPS
 
-https://www.africalegalnetwork.com/algeria/news/algeria-sets-measures-to-mitigate-impact-of-covid-19-on-economy/
 
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
+https://perma.cc/9NRY-S9VJ
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/algeria/
+https://perma.cc/Y4HZ-SRGM
 
-https://www.hrw.org/world-report/2021/country-chapters/algeria#fb21e4
+https://perma.cc/59A9-5XUU
+
+
+https://perma.cc/VK56-Y2LJ
 
 
 
@@ -789,17 +791,17 @@ https://www.hrw.org/world-report/2021/country-chapters/algeria#fb21e4
  No violation of non-derogable rights. 
 
 *Sources*:
- https://ambalgeri.esteri.it/ambasciata_algeri/resource/doc/2020/03/decreto_dz_covid_19_-_21032020.pdf
+ https://perma.cc/UDY6-MGSS
 
-http://www.faf.dz/wp-content/uploads/2020/03/Journal-Officiel-n%C2%B016-Relatif-%C3%A0-la-Lutte-contre-le-COVID-19.pdf
+https://perma.cc/RW3B-Q9EK
 
-https://www.africalegalnetwork.com/algeria/news/algeria-sets-measures-to-mitigate-impact-of-covid-19-on-economy/
+https://perma.cc/L2LW-CR4L
 
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
+https://perma.cc/D787-U6YS
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/algeria/
+https://perma.cc/4KCQ-MT9L
 
-https://www.hrw.org/world-report/2021/country-chapters/algeria#fb21e4
+https://perma.cc/X82C-UK48
 
 
 
@@ -847,29 +849,28 @@ LAW 20-06 AMENDING THE PENAL CODE (2) - The amendments increase prison sentences
 The law has received widespread criticism by free speech activists, who point out that it could be used to curb independent reporting of the government’s failings in tackling the pandemic. These deficiencies, such as the lack of adequate preventative measures in hospitals, have prompted some doctors to post videos on social media in which they draw attention to the difficult circumstances they are working under. The new law could be used to suppress such reports.'' (5) 
 
 *Sources*:
- http://www.aps.dz/algerie/104200-amendement-du-code-penal-criminalisation-de-la-diffusion-des-fakenews-portant-atteinte-a-l-ordre-et-a-la-securite-publics
+ https://perma.cc/DT42-LRNE
 (1)
 
-https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
+https://perma.cc/N44K-ALH5
 (2)
 
-https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
+https://perma.cc/HX5L-67R2
 (3)
 
-https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
+https://perma.cc/G48N-W28J
 (4)
 
-https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
+https://perma.cc/LG4H-258S
 (5)
 
-https://ipi.media/alerts/algeria-criminalizes-fake-news-amidst-covid-19-pandemic/
+https://perma.cc/8NF7-9T68
 (6)
 
-https://cpj.org/2020/04/algeria-blocks-3-news-websites-and-criminalizes-fa/
+https://perma.cc/JU34-KVWL
 
-https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
-
-https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%99-activists-denounce-law
+https://perma.cc/PU6N-BCPV
+https://perma.cc/9XKB-XVDY
 
 
 
@@ -908,25 +909,25 @@ https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%
 *No comment provided* 
 
 *Sources*:
- https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
+ https://perma.cc/WY2A-CGZY
 
-https://www.icnl.org/covid19tracker/?location=142&issue=&date=&type=
+https://perma.cc/R2XW-NVGC
 
-https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
+https://perma.cc/G826-8HTQ
 
-https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
+https://perma.cc/WN49-3Y4U
 
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/T4E6-EWH4
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://perma.cc/2XPH-CA8H
 
-https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
+https://perma.cc/4PQC-TDEV
 
-https://cpj.org/2020/04/algeria-blocks-3-news-websites-and-criminalizes-fa/
+https://perma.cc/9HNN-Y2HB
 
-https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
+https://perma.cc/6CDY-QEEB
 
-https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%99-activists-denounce-law
+https://perma.cc/Y2GQ-A8YH
 
 
 
@@ -965,25 +966,25 @@ https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%
 *No comment provided* 
 
 *Sources*:
- https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
+ https://perma.cc/7SLC-ULBL
 
-https://www.icnl.org/covid19tracker/?location=142&issue=&date=&type=
+https://perma.cc/CQ4D-3ACY
 
-https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
+https://perma.cc/BA5V-RMEK
 
-https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
+https://perma.cc/WS9L-NQGE
 
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/W5CR-CUXB
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://perma.cc/C97U-TC6F
 
-https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
+https://perma.cc/RW6B-HCQX
 
-https://cpj.org/2020/04/algeria-blocks-3-news-websites-and-criminalizes-fa/
+https://perma.cc/R5MJ-V4UN
 
-https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
+https://perma.cc/86K4-Y9BL
 
-https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%99-activists-denounce-law
+https://perma.cc/J5UL-ZS9F
 
 
 
@@ -1042,51 +1043,51 @@ During Q1 and Q2 of 2021, the Algerian government has been accused of delaying t
 FreedomHouse mentions (12): ''In April 2020 the websites of media outlets Maghreb Emergent, Radio M, and Interlignes became unavailable to Algerian users. In August 2020 the website of L’Avant-Garde Algérie also became inaccessible from within the country. Additional news websites were blocked in December, including Tariq News, Shihab Presse, UltraSawt, TSA Algérie, and Twala. Viewers can access unlicensed private television channels located in Algeria but legally based outside the country, though these are subject to government crackdowns.'' 
 
 *Sources*:
- https://rsf.org/en/algeria
+ https://perma.cc/D5GT-XC3C
 (1)
 
-https://globalvoices.org/2021/04/08/algerians-speech-freedoms-strained-by-media-laws-passed-under-covid-19-pretext/
+https://perma.cc/69NY-2YTC
 (2)
 
-http://www.aps.dz/algerie/104200-amendement-du-code-penal-criminalisation-de-la-diffusion-des-fakenews-portant-atteinte-a-l-ordre-et-a-la-securite-publics
+https://perma.cc/6QHM-YYUR
 (3)
 
-https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
+https://perma.cc/YD39-JBLG
 (4)
 
-https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
+https://perma.cc/527D-L7AJ
 (5)
 
-https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
-(6)
+https://perma.cc/7X8S-T96H
+(5)
 
-https://www.aps.dz/sante-science-technologie/110700-projet-de-decret-executif-sur-les-modalites-d-exercice-de-l-activite-d-information-en-ligne
+https://perma.cc/3G7S-JDUW
 (7)
 
-https://www.fes-mena.org/blog/e/a-multi-dimensional-crisis-journalism-in-algeria-put-to-the-test-by-covid-19/
+https://perma.cc/H2W7-NVCS
 (8)
 
-https://www.afrik.com/les-menaces-contre-liberte-un-pas-de-trop-dans-la-repression-de-la-presse-en-algerie
+https://perma.cc/5QRY-WY5Z
 (9)
 
-https://ipi.media/alerts/algerian-minister-accused-media-of-spreading-lies-about-covid-19/
+https://perma.cc/XTF4-EESD
 (10)
 
-https://rsf.org/en/news/algeria-pressures-reporters-delaying-renewal-accreditation
+https://perma.cc/L5DX-UWK4
 (11)
 
-https://freedomhouse.org/country/algeria/freedom-world/2021
+https://perma.cc/QN6D-A56X
 (12)
 
-https://www.afrik.com/algerie-le-ministre-de-la-communication-menace-le-journal-liberte
+https://perma.cc/2JCX-B9WG
+https://perma.cc/JU56-VRHL
+https://perma.cc/H93Z-HBJU
 
-https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
+https://perma.cc/A6NM-ZDJU
 
-https://cpj.org/2020/04/algeria-blocks-3-news-websites-and-criminalizes-fa/
+https://perma.cc/FH8W-3VV7
 
-https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
 
-https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%99-activists-denounce-law
 
 
 
@@ -1145,51 +1146,51 @@ During Q1 and Q2 of 2021, the Algerian government has been accused of delaying t
 FreedomHouse mentions (12): ''In April 2020 the websites of media outlets Maghreb Emergent, Radio M, and Interlignes became unavailable to Algerian users. In August 2020 the website of L’Avant-Garde Algérie also became inaccessible from within the country. Additional news websites were blocked in December, including Tariq News, Shihab Presse, UltraSawt, TSA Algérie, and Twala. Viewers can access unlicensed private television channels located in Algeria but legally based outside the country, though these are subject to government crackdowns.'' 
 
 *Sources*:
- https://rsf.org/en/algeria
+ https://perma.cc/D5GT-XC3C
 (1)
 
-https://globalvoices.org/2021/04/08/algerians-speech-freedoms-strained-by-media-laws-passed-under-covid-19-pretext/
+https://perma.cc/69NY-2YTC
 (2)
 
-http://www.aps.dz/algerie/104200-amendement-du-code-penal-criminalisation-de-la-diffusion-des-fakenews-portant-atteinte-a-l-ordre-et-a-la-securite-publics
+https://perma.cc/6QHM-YYUR
 (3)
 
-https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
+https://perma.cc/YD39-JBLG
 (4)
 
-https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
+https://perma.cc/527D-L7AJ
 (5)
 
-https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
-(6)
+https://perma.cc/7X8S-T96H
+(5)
 
-https://www.aps.dz/sante-science-technologie/110700-projet-de-decret-executif-sur-les-modalites-d-exercice-de-l-activite-d-information-en-ligne
+https://perma.cc/3G7S-JDUW
 (7)
 
-https://www.fes-mena.org/blog/e/a-multi-dimensional-crisis-journalism-in-algeria-put-to-the-test-by-covid-19/
+https://perma.cc/H2W7-NVCS
 (8)
 
-https://www.afrik.com/les-menaces-contre-liberte-un-pas-de-trop-dans-la-repression-de-la-presse-en-algerie
+https://perma.cc/5QRY-WY5Z
 (9)
 
-https://ipi.media/alerts/algerian-minister-accused-media-of-spreading-lies-about-covid-19/
+https://perma.cc/XTF4-EESD
 (10)
 
-https://rsf.org/en/news/algeria-pressures-reporters-delaying-renewal-accreditation
+https://perma.cc/L5DX-UWK4
 (11)
 
-https://freedomhouse.org/country/algeria/freedom-world/2021
+https://perma.cc/QN6D-A56X
 (12)
 
-https://www.afrik.com/algerie-le-ministre-de-la-communication-menace-le-journal-liberte
+https://perma.cc/2JCX-B9WG
+https://perma.cc/JU56-VRHL
+https://perma.cc/H93Z-HBJU
 
-https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
+https://perma.cc/A6NM-ZDJU
 
-https://cpj.org/2020/04/algeria-blocks-3-news-websites-and-criminalizes-fa/
+https://perma.cc/FH8W-3VV7
 
-https://minorityrights.org/2020/05/12/algeria-discrimination-laws/
 
-https://middle-east-online.com/en/algeria-criminalises-%E2%80%98fake-news%E2%80%99-activists-denounce-law
 
 
 
@@ -1237,28 +1238,28 @@ Further, the Algerian government adopted in December 2020 its first ever decree 
 ''At the end of March 2020, the daily El-Sawt-el-Akher published a letter from a member of parliament to the wali of Batna in which he denounced a misdiagnosis by the Algiers Pasteur Institute. According to the deputy, a patient who tested negative for Covid-19 was in fact a carrier of the virus, a situation that would have caused the disease to spread in his locality. After being summoned by the national police, two journalists and the director of this publication were placed under judicial supervision for "undermining national unity" and "distribution of a publication that could harm the national interest" ...'' (8). 
 
 *Sources*:
- https://rsf.org/en/algeria
+ https://perma.cc/D5GT-XC3C
 (1)
 
-https://globalvoices.org/2021/04/08/algerians-speech-freedoms-strained-by-media-laws-passed-under-covid-19-pretext/
+https://perma.cc/69NY-2YTC
 (2)
 
-http://www.aps.dz/algerie/104200-amendement-du-code-penal-criminalisation-de-la-diffusion-des-fakenews-portant-atteinte-a-l-ordre-et-a-la-securite-publics
+https://perma.cc/6QHM-YYUR
 (3)
 
-https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
+https://perma.cc/YD39-JBLG
 (4)
 
-https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
+https://perma.cc/527D-L7AJ
 (5)
 
-https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
-(6)
+https://perma.cc/7X8S-T96H
+(5)
 
-https://www.aps.dz/sante-science-technologie/110700-projet-de-decret-executif-sur-les-modalites-d-exercice-de-l-activite-d-information-en-ligne
+https://perma.cc/3G7S-JDUW
 (7)
 
-https://www.fes-mena.org/blog/e/a-multi-dimensional-crisis-journalism-in-algeria-put-to-the-test-by-covid-19/
+https://perma.cc/H2W7-NVCS
 (8)
 
 
@@ -1315,34 +1316,35 @@ During Q1 and Q2 of 2021, the Algerian government has been accused of delaying t
 FreedomHouse mentions (10): ''In April 2020 the websites of media outlets Maghreb Emergent, Radio M, and Interlignes became unavailable to Algerian users. In August 2020, the website of L’Avant-Garde Algérie also became inaccessible from within the country. Additional news websites were blocked in December, including Tariq News, Shihab Presse, UltraSawt, TSA Algérie, and Twala. Viewers can access unlicensed private television channels located in Algeria but legally based outside the country, though these are subject to government crackdowns.'' 
 
 *Sources*:
- https://rsf.org/en/algeria
+ https://perma.cc/CC49-22R8
 (1)
 
-https://globalvoices.org/2021/04/08/algerians-speech-freedoms-strained-by-media-laws-passed-under-covid-19-pretext/
+
+https://perma.cc/3BF3-CAJ2
 (2)
 
-http://www.aps.dz/algerie/104200-amendement-du-code-penal-criminalisation-de-la-diffusion-des-fakenews-portant-atteinte-a-l-ordre-et-a-la-securite-publics
+https://perma.cc/3HZN-44Q6
 (3)
 
-https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
+https://perma.cc/9WG8-YJH5
 (4)
 
-https://www.aljazeera.com/news/2020/04/algeria-criminalises-fake-news-protect-state-security-200422201042011.html
+https://perma.cc/XQ67-89A6
 (5)
 
-https://www.joradp.dz/FTP/JO-FRANCAIS/2020/F2020025.pdf
+https://perma.cc/NQM3-R9AU
 (6)
 
-https://www.aps.dz/sante-science-technologie/110700-projet-de-decret-executif-sur-les-modalites-d-exercice-de-l-activite-d-information-en-ligne
+https://perma.cc/AA9H-C3JK
 (7)
 
-https://www.fes-mena.org/blog/e/a-multi-dimensional-crisis-journalism-in-algeria-put-to-the-test-by-covid-19/
+https://perma.cc/J35A-7K8J
 (8)
 
-https://rsf.org/en/news/algeria-pressures-reporters-delaying-renewal-accreditation
+https://perma.cc/TVK2-GP3C
 (9)
 
-https://freedomhouse.org/country/algeria/freedom-world/2021
+https://perma.cc/4TVE-DYTV
 (10)
 
 
@@ -1385,22 +1387,21 @@ https://freedomhouse.org/country/algeria/freedom-world/2021
  No evidence of verbal harassment of journalists in the context of Covid-19 was found. There are many incidents of journalists being harassed by the authorities but these are not related to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/news/instead-combatting-covid-19-algerias-authorities-crack-down-journalists
+ https://perma.cc/NM5E-JQDB
 
+https://perma.cc/358H-L7UT
 
-https://www.amnesty.org/download/Documents/MDE2840642021ENGLISH.pdf
+https://perma.cc/9EKB-FL2N
 
-https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
+https://perma.cc/PKB6-89JC
 
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/778B-2ULT
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://perma.cc/3DZL-JX23
 
-https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
+https://perma.cc/Z8PK-T6E7
 
-https://www.hrw.org/world-report/2021/country-chapters/algeria#fb21e4
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/algeria/
+https://perma.cc/WVS9-J7SN
 
 
 
@@ -1444,28 +1445,25 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/alg
 There are many more incidents of journalists being harassed by the authorities but these are not related to Covid-19. 
 
 *Sources*:
- https://womeninjournalism.org/cfwij-press-statements/2020/4/17/algeria-journalist-arrested-for-reporting-on-covid-19-placed-under-judicial-control
+ https://perma.cc/FKL2-GF4D
 (1)
 
-https://www.elwatan.com/edition/actualite/trois-journalistes-places-sous-controle-judiciaire-04-04-2020
+https://perma.cc/RKC4-96GW
 (2)
+https://perma.cc/SP3Y-5GJH
 
-https://rsf.org/en/news/instead-combatting-covid-19-algerias-authorities-crack-down-journalists
+https://perma.cc/358H-L7UT
+https://perma.cc/6QLU-G5TA
 
+https://perma.cc/Q3AS-L8JP
 
-https://www.amnesty.org/download/Documents/MDE2840642021ENGLISH.pdf
+https://perma.cc/ZBU8-6SDD
 
-https://rsf.org/en/news/fake-news-bill-will-tighten-gag-press-freedom-algeria
+https://perma.cc/AH6M-X9V4
 
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/5H6Y-WUPD
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://en.ejo.ch/ethics-quality/algeria-coronavirus-and-the-media
-
-https://www.hrw.org/world-report/2021/country-chapters/algeria#fb21e4
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/algeria/
+https://perma.cc/Y3AB-VJT9
 
 
 
@@ -1511,20 +1509,27 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/alg
 The government however decided to gradually abandon chloroquine treatment, and started looking for alternatives in August 2020 (1). In particular, the Algerian Ministry of Health is directed toward the use of corticosteroid therapy for Covid-19 patients, an approach that is approved by WHO (2). 
 
 *Sources*:
- https://algeriepartplus.com/document-exclusif-lalgerie-abandonne-progressivement-le-traitement-a-base-de-chloroquine-et-soriente-vers-la-corticotherapie/
+ https://perma.cc/3337-UWTY
 (1)
-https://www.who.int/news-room/feature-stories/detail/who-updates-clinical-care-guidance-with-corticosteroid-recommendations
+
+https://perma.cc/2CMK-DLF4
 (2)
-https://afrique.le360.ma/maroc-algerie-autres-pays/politique/2020/06/01/30726-covid-19-voici-pourquoi-les-pays-africains-ont-dit-non-loms-et-poursuivent-le
-http://www.aps.dz/sante-science-technologie/108504-covid-19-saidal-entame-la-production-davantage-de-quantites-d-hydroxychloroquine
-https://www.lemonde.fr/afrique/article/2020/05/27/coronavirus-l-algerie-ne-compte-pas-renoncer-a-l-hydroxychloroquine_6040901_3212.html
+
+https://perma.cc/TXD5-QFUR
+
+https://perma.cc/8FRH-ZMHL
+
+https://perma.cc/39NP-GC3J
 (4)
-https://www.africanews.com/2020/05/27/covid-19-treatment-algeria-to-continue-using-hydroxychloroquine//
+
+https://perma.cc/7K8R-46RW
 (5)
-https://www.tsa-algerie.com/covid-19-pourquoi-lalgerie-utilise-de-moins-en-moins-la-chloroquine/
+https://perma.cc/QR69-9SET
 (6)
-http://covid19.sante.gov.dz/fr/accueil/
-http://covid19.sante.gov.dz/fr/consignes-sanitaires-2/
+https://perma.cc/VB5F-PSRG
+https://perma.cc/SH4A-QJQN
+
+
 
 
 
@@ -1570,21 +1575,21 @@ http://covid19.sante.gov.dz/fr/consignes-sanitaires-2/
 However, ''On 24 July 2020, Algerian police arrested 44 people on the grounds of alleged homosexuality. The court found the 44 people guilty of "homosexual relations", "public contempt" and "endangering others by violating the quarantine measures relating to Covid-19". Two men were sentenced to three years in prison and a fine, and the others to one year suspended.''  (2) 
 
 *Sources*:
- https://www.bbc.com/afrique/region-53132555
+ https://perma.cc/9444-MNJ2
 (1)
 
-https://www.hrw.org/fr/news/2020/10/15/algerie-condamnations-collectives-pour-homosexualite
+https://perma.cc/K394-SKG9
 (2)
 
-https://carnegieendowment.org/2020/04/24/coronavirus-threatens-freedom-in-north-africa-pub-81625
+https://perma.cc/B8SL-6KL8
 
-https://www.lematindalgerie.com/matraquage-et-insultes-vulgaires-la-police-reprime-violemment-les-manifestants-alger
+https://perma.cc/48C2-3497
 
-https://www.amnesty.org/en/latest/news/2020/04/algeria-end-repression-against-hirak-activists-and-journalists-amid-covid19/
+https://perma.cc/3FFS-T8CW
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/algeria/
+https://perma.cc/J5KE-SEY9
 
-https://www.hrw.org/world-report/2021/country-chapters/algeria#fb21e4
+https://perma.cc/QW7M-6JXJ
 
 
 
@@ -1626,10 +1631,10 @@ https://www.hrw.org/world-report/2021/country-chapters/algeria#fb21e4
  No indication of the military being involved. 
 
 *Sources*:
- https://carnegieendowment.org/2020/04/24/coronavirus-threatens-freedom-in-north-africa-pub-81625
+ https://perma.cc/755Y-89GC
 
-https://www.lematindalgerie.com/matraquage-et-insultes-vulgaires-la-police-reprime-violemment-les-manifestants-alger
+https://perma.cc/H3LQ-ZWYK
 
-https://www.amnesty.org/en/latest/news/2020/04/algeria-end-repression-against-hirak-activists-and-journalists-amid-covid19/
+https://perma.cc/A3MF-96BB
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/algeria/
+https://perma.cc/WU5M-DYJ7

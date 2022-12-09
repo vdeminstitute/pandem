@@ -46,13 +46,13 @@
 
 *Sources*:
  [1]
-https://dre.pt/web/guest/pesquisa/-/search/130399862/details/maximized
+perma.cc/839M-D2N9
 [2]
-https://dre.pt/web/guest/pesquisa/-/search/147933283/details/maximized
+perma.cc/HB6K-SBBZ
 [3]
-https://dre.pt/legislacao-covid-19-upo
+perma.cc/J5YS-5GC9
 [4]
-https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
+perma.cc/2JLZ-3CTN
 
 
 
@@ -92,17 +92,21 @@ https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
 
 *Sources*:
  [1]
-https://dre.pt/web/guest/pesquisa/-/search/130399862/details/maximized
-https://dre.pt/legislacao-consolidada/-/lc/34520775/view
+perma.cc/DBF6-79M8
 [2]
-https://dre.pt/web/guest/pesquisa/-/search/221696/details/normal?l=1
-https://dre.pt/web/guest/pesquisa/-/search/146220/details/normal?l=1
+perma.cc/RV5V-V7R5
 [3]
-https://dre.pt/web/guest/pesquisa/-/search/552035/details/normal?l=1
-https://dre.pt/web/guest/pesquisa/-/search/132883344/details/maximized
+perma.cc/PQM4-B32P
 [4]
-https://dre.pt/web/guest/pesquisa/-/search/147933283/details/maximized
-https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
+perma.cc/8D89-Y9CZ
+[5]
+perma.cc/AV9Z-2N52
+[6]
+perma.cc/CC74-ZCPX
+[7]
+perma.cc/GKN5-NQR2
+[8]
+perma.cc/HHC3-9TAJ
 
 
 
@@ -142,11 +146,12 @@ https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
 
 *Sources*:
  [1]
-https://dre.pt/web/guest/pesquisa/-/search/130399862/details/maximized
+perma.cc/7WJ3-4HEA
 [2]
-https://dre.pt/web/guest/pesquisa/-/search/147933283/details/maximized
+perma.cc/HK4P-PRLY
 [3]
-https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
+perma.cc/FJ7A-EE62
+
 
 
 
@@ -186,15 +191,15 @@ https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
 
 *Sources*:
  [1]
-https://dre.pt/web/guest/pesquisa/-/search/131908497/details/normal?l=1
+perma.cc/7WRN-YQKU
 [2]
-https://dre.pt/legislacao-covid-19-por-areas-tematicas#1
+perma.cc/YJ64-9Z9X
 [3]
-https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
+perma.cc/2JLZ-3CTN
 [4]
-https://data.dre.pt/web/guest/pesquisa/-/search/161433529/details/maximized
+perma.cc/W5ST-EMEF
 [5]
-https://data.dre.pt/web/guest/pesquisa/-/search/164321573/details/maximized
+perma.cc/Z3PD-T5EA
 
 
 
@@ -237,17 +242,17 @@ https://data.dre.pt/web/guest/pesquisa/-/search/164321573/details/maximized
 
 *Sources*:
  [1]
-https://dre.pt/web/guest/pesquisa-avancada/-/asearch/221696/details/normal?types=SERIEI&numero=44%2F86&tipo=%22Lei%22
+perma.cc/B7RM-3ESS
 [2]
-https://dre.pt/web/guest/pesquisa/-/search/130399862/details/maximized
+perma.cc/D9S2-3EQ4
 [3]
-https://dre.pt/web/guest/pesquisa/-/search/147933283/details/maximized
+perma.cc/C27P-F7U2
 [4]
-https://dre.pt/web/guest/pesquisa/-/search/149106929/details/maximized
+perma.cc/UFW3-ZCX8
 [5]
-https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
+perma.cc/2MLY-LB48
 [6]
-https://dre.pt/web/guest/pesquisa/-/search/150509281/details/maximized
+perma.cc/RPN2-RR34
 
 
 
@@ -287,15 +292,15 @@ https://dre.pt/web/guest/pesquisa/-/search/150509281/details/maximized
 
 *Sources*:
  [1]
-https://dre.pt/web/guest/pesquisa/-/search/130399862/details/maximized
+perma.cc/XN35-RZVT
 [2]
-https://dre.pt/web/guest/pesquisa/-/search/147933283/details/maximized
+perma.cc/S2ZH-TH8B
 [3]
-https://dre.pt/web/guest/pesquisa/-/search/149106929/details/maximized
+perma.cc/BR9S-LBYZ
 [4]
-https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
+perma.cc/566T-7J7S
 [5]
-https://dre.pt/web/guest/pesquisa/-/search/150509281/details/maximized
+perma.cc/8NBS-X49D
 
 
 
@@ -338,11 +343,11 @@ https://dre.pt/web/guest/pesquisa/-/search/150509281/details/maximized
 
 *Sources*:
  [1]
-https://dre.pt/web/guest/pesquisa-avancada/-/asearch/221696/details/normal?types=SERIEI&numero=44%2F86&tipo=%22Lei%22
+perma.cc/6NGK-D9X3
 [2]
-https://dre.pt/web/guest/pesquisa/-/search/552035/details/normal?l=1
+perma.cc/TM9M-X8AY
 [3]
-https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
+perma.cc/422Q-TLM9
 
 
 
@@ -385,11 +390,11 @@ https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
 
 *Sources*:
  [1]
-https://dre.pt/web/guest/pesquisa/-/search/130399863/details/maximized
+perma.cc/4ZUD-UFVL
 [2]
-https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
+perma.cc/7EAW-Z9W6
 [3]
-https://dre.pt/legislacao-covid-19-upo
+perma.cc/DZ8N-BR2D
 
 
 
@@ -436,11 +441,11 @@ https://dre.pt/legislacao-covid-19-upo
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Portugal_2005.pdf
+perma.cc/EJ66-NHYG
 [2]
-https://dre.pt/web/guest/pesquisa-avancada/-/asearch/221696/details/normal?types=SERIEI&numero=44%2F86&tipo=%22Lei%22
+perma.cc/6WE7-KFKU
 [3]
-https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
+perma.cc/WHR8-YR3T
 
 
 
@@ -563,11 +568,11 @@ https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
 
 *Sources*:
  [1]
-https://dre.pt/legislacao-covid-19-por-areas-tematicas#10
+perma.cc/9MB4-WRLF
 [2]
-https://dre.pt/web/guest/pesquisa/-/search/136365123/details/maximized
+perma.cc/22U6-4P9Y
 [3]
-https://dre.pt/legislacao-covid-19-upo
+perma.cc/UQ5D-TYPK
 
 
 
@@ -612,11 +617,12 @@ https://dre.pt/legislacao-covid-19-upo
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/europe-and-central-asia/portugal/
+perma.cc/Z6PL-4W8P
 [2]
-https://www.hrw.org/europe/central-asia/portugal
+perma.cc/A9UN-GXK5
 [3]
-https://monitor.civicus.org/country/portugal/
+perma.cc/TQ2H-Z7S2
+
 
 
 
@@ -666,11 +672,11 @@ https://monitor.civicus.org/country/portugal/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/europe-and-central-asia/portugal/
+perma.cc/9VRE-7D9N
 [2]
-https://www.hrw.org/europe/central-asia/portugal
+perma.cc/YB9Z-HRJY
 [3]
-https://monitor.civicus.org/country/portugal/
+perma.cc/3N7S-HFW9
 
 
 
@@ -715,10 +721,9 @@ https://monitor.civicus.org/country/portugal/
 
 *Sources*:
  [1]
-https://dre.pt/web/guest/pesquisa/-/search/130399862/details/maximized
-
+perma.cc/SH84-6ZMT
 [2]
-https://dre.pt/web/guest/pesquisa/-/search/147933283/details/maximized
+perma.cc/9BD2-QAQB
 
 
 
@@ -839,11 +844,11 @@ https://dre.pt/web/guest/pesquisa/-/search/147933283/details/maximized
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/ASC5-FDQT
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/KSF8-PNPD
 [3]
-https://cpj.org/europe/portugal/
+perma.cc/2Q5G-7LHG
 
 
 
@@ -886,11 +891,11 @@ https://cpj.org/europe/portugal/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/ASC5-FDQT
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/KSF8-PNPD
 [3]
-https://cpj.org/europe/portugal/
+perma.cc/2Q5G-7LHG
 
 
 
@@ -933,11 +938,11 @@ https://cpj.org/europe/portugal/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/ASC5-FDQT
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/KSF8-PNPD
 [3]
-https://cpj.org/europe/portugal/
+perma.cc/2Q5G-7LHG
 
 
 
@@ -981,11 +986,11 @@ https://cpj.org/europe/portugal/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/ASC5-FDQT
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/KSF8-PNPD
 [3]
-https://cpj.org/europe/portugal/
+perma.cc/2Q5G-7LHG
 
 
 
@@ -1028,11 +1033,11 @@ https://cpj.org/europe/portugal/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/ASC5-FDQT
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/KSF8-PNPD
 [3]
-https://cpj.org/europe/portugal/
+perma.cc/2Q5G-7LHG
 
 
 
@@ -1075,11 +1080,11 @@ https://cpj.org/europe/portugal/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/ASC5-FDQT
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/KSF8-PNPD
 [3]
-https://cpj.org/europe/portugal/
+perma.cc/2Q5G-7LHG
 
 
 
@@ -1124,9 +1129,9 @@ https://cpj.org/europe/portugal/
 
 *Sources*:
  [1]
-https://covid19.min-saude.pt/
+perma.cc/B66Z-MD37
 [2]
-https://covid19.min-saude.pt/category/perguntas-frequentes/
+perma.cc/XK2V-AMWU
 
 
 
@@ -1171,11 +1176,11 @@ https://covid19.min-saude.pt/category/perguntas-frequentes/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/europe-and-central-asia/portugal/
+perma.cc/3GV9-UCBD
 [2]
-https://www.hrw.org/europe/central-asia/portugal
+perma.cc/2SGL-QKM8
 [3]
-https://www.publico.pt/2021/02/16/sociedade/noticia/psp-abre-inquerito-duvidas-uso-forca-accao-policial-barreiro-1950939
+perma.cc/85KL-ZLPV
 
 
 
@@ -1218,10 +1223,10 @@ https://www.publico.pt/2021/02/16/sociedade/noticia/psp-abre-inquerito-duvidas-u
 
 *Sources*:
  [1]
-https://dre.pt/web/guest/pesquisa/-/search/221696/details/normal?l=1
+perma.cc/K8JU-D6N3
 [2]
-https://dre.pt/web/guest/pesquisa/-/search/130399862/details/maximized
+perma.cc/5ZLV-QHPK
 [3]
 https://www.exercito.pt/pt/informa%C3%A7%C3%A3o-p%C3%BAblica/not%C3%ADcias/1673
 [4]
-https://dre.pt/web/guest/pesquisa/-/search/147933283/details/maximized
+perma.cc/3VE8-ZVSF

@@ -49,37 +49,27 @@ Malaysia's King Abdullah declared a state of emergency across the country on 12 
 
 *Sources*:
  [1]
-https://www.pmo.gov.my/2020/03/perutusan-khas-yab-perdana-menteri-mengenai-covid-19-16-mac-2020/
-
+https://perma.cc/5YMP-Q6UW
 [2]
-https://www.pmo.gov.my/2020/03/movement-control-order/
-
+https://perma.cc/559U-6962
 [3]
-https://verfassungsblog.de/covid-19-malaysia-and-the-return-of-rule-by-law/
-
+https://perma.cc/MWP2-3ZHT
 [4]
-https://www.garda.com/crisis24/news-alert-full-history/7TqZBkyuLyzLPQAyN/malaysia-first-cases-of-2019-ncov-confirmed-january-25
-
+https://perma.cc/T73B-G95H
 [5]
-https://www.acaps.org/covid19-government-measures-dataset
-
+https://perma.cc/9D77-96TG
 [6]
-https://www.garda.com/crisis24/news-alerts/373766/malaysia-authorities-announce-extension-of-covid-19-restrictions-until-december-31-update-25
-
+https://perma.cc/ABF4-XQKM
 [7]
-https://my.usembassy.gov/health-alert-covid-082820/
-
+https://perma.cc/QLW3-GA4R
 [8]
-https://www.garda.com/crisis24/news-alerts/397431/malaysia-conditional-movement-control-order-issued-in-several-states-from-november-9-update-33
-
+https://perma.cc/KQT7-7XU9
 [9]
-https://www.abc.net.au/news/2021-01-12/malaysia-king-declares-state-of-emergency-to-curb-covid-spread/13051642
-
+https://perma.cc/9BL5-GWVF
 [10]
-https://www.bbc.com/news/55625448
-
+https://perma.cc/33F5-3PF4
 [11]
-https://www.constituteproject.org/constitution/Malaysia_2007.pdf?lang=en
+https://perma.cc/F5LM-MCZJ
 
 
 
@@ -119,21 +109,18 @@ https://www.constituteproject.org/constitution/Malaysia_2007.pdf?lang=en
 
 *Sources*:
  [1]
-https://www.pmo.gov.my/2020/03/perutusan-khas-yab-perdana-menteri-mengenai-covid-19-16-mac-2020/
-
+https://perma.cc/5YMP-Q6UW
 [2]
-https://www.pmo.gov.my/2020/03/movement-control-order/
-
+https://perma.cc/559U-6962
 [3]
-https://verfassungsblog.de/covid-19-malaysia-and-the-return-of-rule-by-law/
-
-[4]https://www.garda.com/crisis24/news-alert-full-history/7TqZBkyuLyzLPQAyN/malaysia-first-cases-of-2019-ncov-confirmed-january-25
+https://perma.cc/MWP2-3ZHT
+[4]
+https://perma.cc/LJ5K-UA6U
 
 [5]
-https://www.acaps.org/covid19-government-measures-dataset
-
+https://perma.cc/6HLB-5KFN
 [6]
-https://www.constituteproject.org/constitution/Malaysia_2007.pdf?lang=en
+https://perma.cc/F5LM-MCZJ
 
 
 
@@ -173,25 +160,20 @@ https://www.constituteproject.org/constitution/Malaysia_2007.pdf?lang=en
 
 *Sources*:
  [1]
-https://www.pmo.gov.my/2020/03/perutusan-khas-yab-perdana-menteri-mengenai-covid-19-16-mac-2020/
-
+https://perma.cc/5YMP-Q6UW
 [2]
-https://www.pmo.gov.my/2020/03/movement-control-order/
-
+https://perma.cc/559U-6962
 [3]
-https://verfassungsblog.de/covid-19-malaysia-and-the-return-of-rule-by-law/
-
+https://perma.cc/MWP2-3ZHT
 [4]
-https://www.garda.com/crisis24/news-alert-full-history/7TqZBkyuLyzLPQAyN/malaysia-first-cases-of-2019-ncov-confirmed-january-25
+https://perma.cc/LJ5K-UA6U
 
 [5]
-https://www.acaps.org/covid19-government-measures-dataset
-
+https://perma.cc/6HLB-5KFN
 [6]
-https://www.abc.net.au/news/2021-01-12/malaysia-king-declares-state-of-emergency-to-curb-covid-spread/13051642
-
+https://perma.cc/T97N-DBB2
 [7]
-https://www.bbc.com/news/55625448
+https://perma.cc/33F5-3PF4
 
 
 
@@ -233,10 +215,9 @@ At the time of coding for Q1 and Q2 2021, the state of emergency was still in us
 
 *Sources*:
  [1]
-https://www.garda.com/crisis24/news-alerts/373766/malaysia-authorities-announce-extension-of-covid-19-restrictions-until-december-31-update-25
-
+https://perma.cc/E55J-LEQG
 [2]
-https://my.usembassy.gov/health-alert-covid-082820/
+https://perma.cc/C292-97XJ
 
 
 
@@ -281,31 +262,23 @@ The state of emergency which was declared in January 2021, is set to last till 1
 
 *Sources*:
  [1]
-https://www.pmo.gov.my/2020/03/perutusan-khas-yab-perdana-menteri-mengenai-covid-19-16-mac-2020/
-
+https://perma.cc/5YMP-Q6UW
 [2]
-https://www.pmo.gov.my/2020/03/movement-control-order/
-
+https://perma.cc/559U-6962
 [3]
-https://www.garda.com/crisis24/news-alert-full-history/7TqZBkyuLyzLPQAyN/malaysia-first-cases-of-2019-ncov-confirmed-january-25
-
+https://perma.cc/T73B-G95H
 [4]
-https://www.acaps.org/covid19-government-measures-dataset
-
+https://perma.cc/6HLB-5KFN
 [5]
-https://www.garda.com/crisis24/news-alerts/373766/malaysia-authorities-announce-extension-of-covid-19-restrictions-until-december-31-update-25
-
+https://perma.cc/ABF4-XQKM
 [6]
-https://my.usembassy.gov/health-alert-covid-082820/
-
+https://perma.cc/QLW3-GA4R
 [7]
-https://www.malaymail.com/news/malaysia/2021/05/17/halfway-into-malaysias-2021-emergency-how-far-have-the-seven-emergency-link/1974615
-
+https://perma.cc/4L4D-NKY2
 [8]
-https://www.abc.net.au/news/2021-01-12/malaysia-king-declares-state-of-emergency-to-curb-covid-spread/13051642
-
+https://perma.cc/T97N-DBB2
 [9]
-https://verfassungsblog.de/covid-19-malaysia-and-the-return-of-rule-by-law/
+https://perma.cc/MWP2-3ZHT
 
 
 
@@ -349,35 +322,26 @@ The state of emergency which was declared in January 2021, is set to last till 1
 
 *Sources*:
  [1]
-https://www.pmo.gov.my/2020/03/perutusan-khas-yab-perdana-menteri-mengenai-covid-19-16-mac-2020/
-
+https://perma.cc/5YMP-Q6UW
 [2]
-https://www.pmo.gov.my/2020/03/movement-control-order/
-
+https://perma.cc/559U-6962
 [3]
-https://verfassungsblog.de/covid-19-malaysia-and-the-return-of-rule-by-law/
-
+https://perma.cc/MWP2-3ZHT
 [4]
-https://www.garda.com/crisis24/news-alert-full-history/7TqZBkyuLyzLPQAyN/malaysia-first-cases-of-2019-ncov-confirmed-january-25
+https://perma.cc/LJ5K-UA6U
 
 [5]
-https://www.acaps.org/covid19-government-measures-dataset
-
+https://perma.cc/6HLB-5KFN
 [6]
-https://www.garda.com/crisis24/news-alerts/373766/malaysia-authorities-announce-extension-of-covid-19-restrictions-until-december-31-update-25
-
+https://perma.cc/ABF4-XQKM
 [7]
-https://www.garda.com/crisis24/news-alerts/397431/malaysia-conditional-movement-control-order-issued-in-several-states-from-november-9-update-33
-
-
+https://perma.cc/KQT7-7XU9
 [8]
-https://www.channelnewsasia.com/news/asia/malaysia-recovery-movement-control-order-extended-dec-31-mco-13047724
-
+https://perma.cc/Y3QU-8DCE
 [9]
-https://www.malaymail.com/news/malaysia/2021/05/17/halfway-into-malaysias-2021-emergency-how-far-have-the-seven-emergency-link/1974615
-
+https://perma.cc/4L4D-NKY2
 [10]
-https://www.abc.net.au/news/2021-01-12/malaysia-king-declares-state-of-emergency-to-curb-covid-spread/13051642
+https://perma.cc/T97N-DBB2
 
 
 
@@ -421,17 +385,12 @@ https://www.abc.net.au/news/2021-01-12/malaysia-king-declares-state-of-emergency
 The parliament does not need to approve of the state of emergency. The King has the responsibility to declare a state of emergency and this was done after it was requested by the Prime Minister. 
 
 *Sources*:
- https://www.pmo.gov.my/2020/03/perutusan-khas-yab-perdana-menteri-mengenai-covid-19-16-mac-2020/
-
-https://www.pmo.gov.my/2020/03/movement-control-order/
-
-https://verfassungsblog.de/covid-19-malaysia-and-the-return-of-rule-by-law/
-
-https://www.garda.com/crisis24/news-alert-full-history/7TqZBkyuLyzLPQAyN/malaysia-first-cases-of-2019-ncov-confirmed-january-25
-
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.abc.net.au/news/2021-01-12/malaysia-king-declares-state-of-emergency-to-curb-covid-spread/13051642
+ https://perma.cc/5YMP-Q6UW
+https://perma.cc/559U-6962
+https://perma.cc/MWP2-3ZHT
+https://perma.cc/T73B-G95H
+https://perma.cc/6HLB-5KFN
+https://perma.cc/T97N-DBB2
 
 
 
@@ -475,19 +434,13 @@ https://www.abc.net.au/news/2021-01-12/malaysia-king-declares-state-of-emergency
 The parliament does not need to approve of the state of emergency. The King has the responsibility to declare a state of emergency and this was done after it was requested by the Prime Minister. 
 
 *Sources*:
- https://www.pmo.gov.my/2020/03/perutusan-khas-yab-perdana-menteri-mengenai-covid-19-16-mac-2020/
-
-https://www.pmo.gov.my/2020/03/movement-control-order/
-
-https://verfassungsblog.de/covid-19-malaysia-and-the-return-of-rule-by-law/
-
-https://www.garda.com/crisis24/news-alert-full-history/7TqZBkyuLyzLPQAyN/malaysia-first-cases-of-2019-ncov-confirmed-january-25
-
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.constituteproject.org/constitution/Malaysia_2007.pdf?lang=en
-
-https://www.abc.net.au/news/2021-01-12/malaysia-king-declares-state-of-emergency-to-curb-covid-spread/13051642
+ https://perma.cc/5YMP-Q6UW
+https://perma.cc/559U-6962
+https://perma.cc/MWP2-3ZHT
+https://perma.cc/T73B-G95H
+https://perma.cc/6HLB-5KFN
+https://perma.cc/F5LM-MCZJ
+https://perma.cc/T97N-DBB2
 
 
 
@@ -535,27 +488,37 @@ https://www.abc.net.au/news/2021-01-12/malaysia-king-declares-state-of-emergency
 According to 2B of the Proclamation of Emergency in Malaysia's constitution, the government would be able to introduce laws without the approval of the Parliament. Furthermore the parliament was dissolved and will not reconvene until the end of the emergency in August 2021. On 16 June 2021, the King called for the parliament to be reconvened to debate the Covid-19 recovery plan. As the parliament has yet to reconvene, this variable has been coded as 4 for Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.cljlaw.com/files/bills/pdf/2015/MY_FS_BIL_2015_38.pdf
+ https://perma.cc/TJV3-R58W
 
-https://verfassungsblog.de/covid-19-malaysia-and-the-return-of-rule-by-law/
 
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#M
+https://perma.cc/MWP2-3ZHT
 
-https://www.parlimen.gov.my/index.php?lang=en
 
-https://www.parlimen.gov.my/takwim-dewan-rakyat.html?uweb=dr&
+https://perma.cc/5QKL-96U7
 
-https://www.constituteproject.org/constitution/Malaysia_2007.pdf?lang=en
 
-https://www.arabnews.com/node/1791676/world
+https://perma.cc/Q4BM-GR7U
 
-https://www.abc.net.au/news/2021-01-12/malaysia-king-declares-state-of-emergency-to-curb-covid-spread/13051642
 
-https://www.theguardian.com/world/2021/jan/12/malaysia-declares-covid-state-of-emergency-amid-political-turmoil
+https://perma.cc/G4AN-XVZV
 
-https://www.straitstimes.com/asia/se-asia/no-malaysian-parliament-sitting-until-emergency-ends-on-aug-1-says-minister
 
-https://www.reuters.com/world/asia-pacific/malaysias-king-calls-parliament-resume-earliest-2021-06-16/
+https://perma.cc/F5LM-MCZJ
+
+
+https://perma.cc/Y6NM-DZB9
+
+
+https://perma.cc/9BL5-GWVF
+
+
+https://perma.cc/4V78-XFFT
+
+
+https://perma.cc/3PTZ-SX8V
+
+
+https://perma.cc/NDM5-5BYT
 
 
 
@@ -594,15 +557,19 @@ https://www.reuters.com/world/asia-pacific/malaysias-king-calls-parliament-resum
  The Malaysian Parliament was suspended when the State of emergency was introduced on 12 January 2021. It has yet to reconvene. 
 
 *Sources*:
- https://www.arabnews.com/node/1791676/world
+ https://perma.cc/Y6NM-DZB9
 
-https://www.abc.net.au/news/2021-01-12/malaysia-king-declares-state-of-emergency-to-curb-covid-spread/13051642
 
-https://www.theguardian.com/world/2021/jan/12/malaysia-declares-covid-state-of-emergency-amid-political-turmoil
+https://perma.cc/9BL5-GWVF
 
-https://www.straitstimes.com/asia/se-asia/no-malaysian-parliament-sitting-until-emergency-ends-on-aug-1-says-minister
 
-https://www.reuters.com/world/asia-pacific/malaysias-king-calls-parliament-resume-earliest-2021-06-16/
+https://perma.cc/4V78-XFFT
+
+
+https://perma.cc/3PTZ-SX8V
+
+
+https://perma.cc/NDM5-5BYT
 
 
 
@@ -641,15 +608,19 @@ https://www.reuters.com/world/asia-pacific/malaysias-king-calls-parliament-resum
  The Malaysian Parliament was suspended when the State of emergency was introduced on 12 January 2021. It has yet to reconvene. 
 
 *Sources*:
- https://www.arabnews.com/node/1791676/world
+ https://perma.cc/Y6NM-DZB9
 
-https://www.abc.net.au/news/2021-01-12/malaysia-king-declares-state-of-emergency-to-curb-covid-spread/13051642
 
-https://www.theguardian.com/world/2021/jan/12/malaysia-declares-covid-state-of-emergency-amid-political-turmoil
+https://perma.cc/9BL5-GWVF
 
-https://www.straitstimes.com/asia/se-asia/no-malaysian-parliament-sitting-until-emergency-ends-on-aug-1-says-minister
 
-https://www.reuters.com/world/asia-pacific/malaysias-king-calls-parliament-resume-earliest-2021-06-16/
+https://perma.cc/4V78-XFFT
+
+
+https://perma.cc/3PTZ-SX8V
+
+
+https://perma.cc/NDM5-5BYT
 
 
 
@@ -693,23 +664,31 @@ https://www.reuters.com/world/asia-pacific/malaysias-king-calls-parliament-resum
  Many measures have been taken nationwide in Malaysia. However, consistently throughout the periods there has been regional measures such as curfews, limits of public gatherings and lockdowns along with those measures taken by national government. Thus there has been some regional variation in emergency measures, but also some conforming measures. This is therefore coded as 2 for all time periods. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-datase
+ https://perma.cc/9D77-96TG
 
-thttps://www.garda.com/crisis24/news-alerts/320071/malaysia-sarawak-state-implements-entry-restrictions-amid-covid-19-outbreak-march-4-update-3
 
-https://www.garda.com/crisis24/news-alert-full-history/7TqZBkyuLyzLPQAyN/malaysia-first-cases-of-2019-ncov-confirmed-january-25
+https://perma.cc/NFV2-77JP
 
-https://www.garda.com/crisis24/news-alerts/388416/malaysia-authorities-to-introduce-movement-restrictions-in-kuala-lumpur-and-selangor-state-october-14-27-update-32
 
-https://www.garda.com/crisis24/news-alerts/397431/malaysia-conditional-movement-control-order-issued-in-several-states-from-november-9-update-33
+https://perma.cc/T73B-G95H
 
-https://www.garda.com/crisis24/news-alerts/482281/malaysia-authorities-to-tighten-covid-19-restrictions-nationwide-may-25-june-7-update-43
 
-https://www.garda.com/crisis24/news-alerts/484266/malaysia-authorities-to-tighten-covid-19-restrictions-in-sarawak-state-may-29-june-11-update-44
+https://perma.cc/BTW9-VEL9
 
-https://www.garda.com/crisis24/news-alerts/466086/malaysia-officials-extend-most-current-domestic-covid-19-restrictions-through-april-28-update-34
 
-https://www.garda.com/crisis24/news-alerts/461616/malaysia-officials-extend-current-domestic-covid-19-restrictions-through-april-14-update-33
+https://perma.cc/W3DP-NLYZ
+
+
+https://perma.cc/TW5S-2BPZ
+
+
+https://perma.cc/E5HZ-HPT5
+
+
+https://perma.cc/G5T7-L6E9
+
+
+https://perma.cc/K7Y7-K3MB
 
 
 
@@ -755,20 +734,25 @@ https://www.garda.com/crisis24/news-alerts/461616/malaysia-officials-extend-curr
 There is evidence that the authorities have continued to detain migrants in Q1 and Q2 of 2021. This is therefore coded 3 across all the time periods. 
 
 *Sources*:
- https://www.hrw.org/news/2020/07/17/malaysia-shouldnt-persecute-outspoken-migrant-worker
+ https://perma.cc/966C-5D8F
 
 
-https://www.bbc.com/news/world-asia-53537312
+https://perma.cc/XD9H-57UK
 
-https://www.bbc.com/news/world-asia-52515000
 
-https://www.hrw.org/news/2020/11/20/malaysia-end-abusive-immigration-detention
+https://perma.cc/2DH3-3C96
 
-https://www.abc.net.au/news/2021-06-03/malaysia-to-again-target-immigrants-during-total-lockdown-/100179220
 
-https://www.reuters.com/world/asia-pacific/malaysia-deport-thousands-undocumented-indonesian-migrants-2021-06-11/
+https://perma.cc/LGB3-WQ7P
 
-https://www.benarnews.org/english/news/malaysian/my-migrants-06032021162743.html
+
+https://perma.cc/WAW4-HZ8E
+
+
+https://perma.cc/K953-DL3X
+
+
+https://perma.cc/MR7K-T723
 
 
 
@@ -817,13 +801,16 @@ https://www.benarnews.org/english/news/malaysian/my-migrants-06032021162743.html
  No violations of non-derogable rights have been found in or in relation to the government response to Covid-19.It could be worth noting that Rohingyan refugees were sentenced to "three strokes of the cane" for seeking regufe in Malaysia, a physical punishment that Human Rights Watch claim constitutes torture under international human rights law. However, this sentece was never executed and subsequently revoked, and the Malaysian authorities have thus not conducted any violations of non-derogable rights in this case. Furthermore, no evidence has been found of any other instance where such rights was violated during and in relation to the pandemic. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/7TqZBkyuLyzLPQAyN/malaysia-first-cases-of-2019-ncov-confirmed-january-25
+ https://perma.cc/T73B-G95H
 
-https://www.acaps.org/covid19-government-measures-dataset
 
-https://www.hrw.org/news/2020/07/22/malaysia-stop-treating-rohingya-refugees-criminals
+https://perma.cc/9D77-96TG
 
-https://www.amnesty.org/en/latest/news/2020/07/malaysia-court-ruling-against-whipping-must-be-first-step-toward-protecting-rohingya-refugees/
+
+https://perma.cc/5UUV-CVBA
+
+
+https://perma.cc/5J7V-YP4L
 
 
 
@@ -867,12 +854,11 @@ https://www.amnesty.org/en/latest/news/2020/07/malaysia-court-ruling-against-whi
  Under the state of emergency in 2021, the government issued "Emergency (Essential Powers) (No. 2) Ordinance 2021 " which "makes it a criminal offense to create, publish, or disseminate “fake news” relating to Covid-19 or the proclamation of emergency in the country, or to fail to take down such material upon the government’s request" (1). Coded as 2 due to vague formulations 
 
 *Sources*:
- https://www.hrw.org/news/2021/03/13/malaysia-revoke-fake-news-ordinance
+ https://perma.cc/7DWU-CLCP
 (1)
 
-https://ipi.media/alerts/malaysia-uses-emergency-powers-to-pass-fake-news-law/
-
-https://asset.mkn.gov.my/web/wp-content/uploads/sites/3/2021/03/Ordinan-Anti-Berita-Tidak-Benar-20211.pdf
+https://perma.cc/DY7Q-8J8H
+https://perma.cc/S8J5-HXHX
 
 
 
@@ -911,10 +897,13 @@ https://asset.mkn.gov.my/web/wp-content/uploads/sites/3/2021/03/Ordinan-Anti-Ber
  "Emergency (Essential Powers) (No. 2) Ordinance 2021 "  went in force on 12 March 2021. 
 
 *Sources*:
- https://www.hrw.org/news/2021/03/13/malaysia-revoke-fake-news-ordinance
+ https://perma.cc/7DWU-CLCP
 
-https://ipi.media/alerts/malaysia-uses-emergency-powers-to-pass-fake-news-law/
-https://asset.mkn.gov.my/web/wp-content/uploads/sites/3/2021/03/Ordinan-Anti-Berita-Tidak-Benar-20211.pdf
+
+https://perma.cc/DY7Q-8J8H
+
+
+https://perma.cc/S8J5-HXHX
 
 
 
@@ -953,7 +942,10 @@ https://asset.mkn.gov.my/web/wp-content/uploads/sites/3/2021/03/Ordinan-Anti-Ber
  "Emergency (Essential Powers) (No. 2) Ordinance 2021 "  has the same time limit as the state of emergency. 
 
 *Sources*:
- https://www.malaymail.com/news/malaysia/2021/05/17/halfway-into-malaysias-2021-emergency-how-far-have-the-seven-emergency-link/1974615
+ https://perma.cc/4L4D-NKY2
+
+
+
 
 
 
@@ -997,29 +989,24 @@ https://asset.mkn.gov.my/web/wp-content/uploads/sites/3/2021/03/Ordinan-Anti-Ber
 On 12 March 2021, the government issued an "anti-fake news" emergency ordinance. With this instrument, the government is able to "effectively ban any information about the pandemic or current state of emergency that is not its liking". With this, the government is able to choose the information about the pandemic and state of emergency that is released and not released to the public. This adds another layer to the de-facto limitations on reporting on the nature of Covid-19 [1,2,3]. 
 
 *Sources*:
- https://www.hrw.org/news/2020/06/10/malaysia-new-government-backslides-free-speech
+ https://perma.cc/S3XR-47K5
+https://perma.cc/943S-6SZK
+https://perma.cc/4JUR-UM2S
+https://perma.cc/3TEK-9NKQ
+https://perma.cc/59ET-L46V
 
-https://cpj.org/2020/02/malaysian-journalist-charged-over-coronavirus-face/
+https://perma.cc/MBY6-EK2N
 
-https://cpj.org/2020/05/malaysian-journalist-faces-six-years-in-prison-ove/
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Malaysia
+https://perma.cc/2B5J-CACF
 
-https://rsf.org/en/thematique/internet?countries%5B75%5D=75
-
-https://www.hrw.org/news/2020/07/08/malaysia-stop-treating-criticism-crime
-
-https://www.theguardian.com/media/2020/jul/10/police-interrogate-five-australian-al-jazeera-journalists-accused-of-sedition-in-malaysia
-
-https://www.ifj.org/fileadmin/user_upload/200909_IFJ_Impacts_Of_Covid19_Malaysia.pdf
-
-https://rsf.org/en/news/new-malaysian-ordinance-threatens-very-concept-truth
+https://perma.cc/E8TR-T6B2
+https://perma.cc/2XEN-RZWD
 [1]
-
-https://www.hrw.org/news/2021/03/13/malaysia-revoke-fake-news-ordinance
+https://perma.cc/7DWU-CLCP
 [2]
+https://perma.cc/HST8-WDTQ
 
-https://www.business-standard.com/article/current-affairs/malaysia-china-and-pakistan-use-covid-19-as-excuse-to-block-press-freedoms-121042100390_1.html
 [3]
 
 
@@ -1064,27 +1051,24 @@ https://www.business-standard.com/article/current-affairs/malaysia-china-and-pak
 On 12 March 2021, issued an "anti-fake news" emergency ordinance. With this instrument, the government is able to "effectively ban any information about the pandemic or current state of emergency that is not its liking". With this, the government is able to choose the information about the pandemic and state of emergency that is released and not released to the public. This adds another layer to the de-facto limitations on reporting about the government response to Covid-19 [1,2,3]. 
 
 *Sources*:
- https://www.hrw.org/news/2020/06/10/malaysia-new-government-backslides-free-speech
+ https://perma.cc/S3XR-47K5
+https://perma.cc/943S-6SZK
+https://perma.cc/4JUR-UM2S
+https://perma.cc/3TEK-9NKQ
+https://perma.cc/59ET-L46V
 
-https://cpj.org/2020/02/malaysian-journalist-charged-over-coronavirus-face/
+https://perma.cc/MBY6-EK2N
 
-https://cpj.org/2020/05/malaysian-journalist-faces-six-years-in-prison-ove/
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Malaysiahttps://rsf.org/en/thematique/internet?countries%5B75%5D=75
+https://perma.cc/2B5J-CACF
 
-https://www.hrw.org/news/2020/07/08/malaysia-stop-treating-criticism-crime
-
-https://www.theguardian.com/media/2020/jul/10/police-interrogate-five-australian-al-jazeera-journalists-accused-of-sedition-in-malaysia
-
-https://www.ifj.org/fileadmin/user_upload/200909_IFJ_Impacts_Of_Covid19_Malaysia.pdf
-
-https://rsf.org/en/news/new-malaysian-ordinance-threatens-very-concept-truth
+https://perma.cc/E8TR-T6B2
+https://perma.cc/2XEN-RZWD
 [1]
-
-https://www.hrw.org/news/2021/03/13/malaysia-revoke-fake-news-ordinance
+https://perma.cc/7DWU-CLCP
 [2]
+https://perma.cc/HST8-WDTQ
 
-https://www.business-standard.com/article/current-affairs/malaysia-china-and-pakistan-use-covid-19-as-excuse-to-block-press-freedoms-121042100390_1.html
 [3]
 
 
@@ -1129,25 +1113,17 @@ https://www.business-standard.com/article/current-affairs/malaysia-china-and-pak
 On 12 March 2021, issued an "anti-fake news" emergency ordinance. With this instrument, the government is able to effectively ban any information  that is not its liking. The wording of the ordinance is not specific to the pandemic. The authorities would be able to use this to place de-facto limitations on reporting about non-Covid 19 related news. Hence I have coded this variable as 1 for Q1 and Q2 of 2021 [1,2,3]. 
 
 *Sources*:
- https://www.hrw.org/news/2020/06/10/malaysia-new-government-backslides-free-speech
-
-https://cpj.org/2020/02/malaysian-journalist-charged-over-coronavirus-face/
-
-https://cpj.org/2020/05/malaysian-journalist-faces-six-years-in-prison-ove/
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Malaysia
-
-https://rsf.org/en/thematique/internet?countries%5B75%5D=75
-
-https://www.ifj.org/fileadmin/user_upload/200909_IFJ_Impacts_Of_Covid19_Malaysia.pdf
-
-https://rsf.org/en/news/new-malaysian-ordinance-threatens-very-concept-truth
-[1]
-
-https://www.hrw.org/news/2021/03/13/malaysia-revoke-fake-news-ordinance
+ https://perma.cc/S3XR-47K5
+https://perma.cc/943S-6SZK
+https://perma.cc/4JUR-UM2S
+https://perma.cc/3TEK-9NKQ
+https://perma.cc/75VG-S92N
+https://perma.cc/E8TR-T6B2
+https://perma.cc/2XEN-RZWD
+{1]
+https://perma.cc/7DWU-CLCP
 [2]
-
-https://www.business-standard.com/article/current-affairs/malaysia-china-and-pakistan-use-covid-19-as-excuse-to-block-press-freedoms-121042100390_1.html
+https://perma.cc/HST8-WDTQ
 [3]
 
 
@@ -1191,13 +1167,19 @@ https://www.business-standard.com/article/current-affairs/malaysia-china-and-pak
  No sources have been found stating that Malaysia has limited the access to information during the pandemic, and this is therefore coded as 0 across all the time periods. 
 
 *Sources*:
- https://www.hrw.org/news/2020/06/10/malaysia-new-government-backslides-free-speech
+ https://perma.cc/LPE3-27U4
 
-https://rsf.org/en/news/malaysian-police-investigate-reporter-who-covered-covid-19-arrests
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Malaysiahttps://rsf.org/en/thematique/internet?countries%5B75%5D=75
+https://perma.cc/D93Q-8RVD
 
-https://www.ifj.org/fileadmin/user_upload/200909_IFJ_Impacts_Of_Covid19_Malaysia.pdf
+
+https://perma.cc/B6E2-5VTK
+
+
+https://perma.cc/75VG-S92N
+
+
+https://perma.cc/R8AL-J8RA
 
 
 
@@ -1239,21 +1221,28 @@ https://www.ifj.org/fileadmin/user_upload/200909_IFJ_Impacts_Of_Covid19_Malaysia
  Malaysian authorities have threatened that they will prosecute what they deem disinformation on Covid-19, and some journalists have been questioned by police due to their reporting. This practiced has continued over the summer 2020. Coded as 0 in Q4 2020, Q1 2021, Q2 2021 since I found no further evidence. 
 
 *Sources*:
- https://www.hrw.org/news/2020/06/10/malaysia-new-government-backslides-free-speech
+ https://perma.cc/S3XR-47K5
 
-https://cpj.org/2020/02/malaysian-journalist-charged-over-coronavirus-face/
 
-https://cpj.org/2020/05/malaysian-journalist-faces-six-years-in-prison-ove/
+https://perma.cc/943S-6SZK
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Malaysia
 
-https://rsf.org/en/thematique/internet?countries%5B75%5D=75
+https://perma.cc/4JUR-UM2S
 
-https://www.hrw.org/news/2020/07/08/malaysia-stop-treating-criticism-crime
 
-https://www.theguardian.com/media/2020/jul/10/police-interrogate-five-australian-al-jazeera-journalists-accused-of-sedition-in-malaysia
+https://perma.cc/3TEK-9NKQ
 
-https://www.ifj.org/fileadmin/user_upload/200909_IFJ_Impacts_Of_Covid19_Malaysia.pdf
+
+https://perma.cc/75VG-S92N
+
+
+https://perma.cc/MBY6-EK2N
+
+
+https://perma.cc/2B5J-CACF
+
+
+https://perma.cc/E8TR-T6B2
 
 
 
@@ -1295,19 +1284,25 @@ https://www.ifj.org/fileadmin/user_upload/200909_IFJ_Impacts_Of_Covid19_Malaysia
  Journalists have been arrested and jailed for their reporting on the governments reponse to Covid-19 in Q2 and Q3 2020. Coded as 0 in Q4 2020, Q1 2021, Q2 2021 since I found no further evidence. 
 
 *Sources*:
- https://www.hrw.org/news/2020/06/10/malaysia-new-government-backslides-free-speech
+ https://perma.cc/S3XR-47K5
 
-https://cpj.org/2020/02/malaysian-journalist-charged-over-coronavirus-face/
 
-https://cpj.org/2020/05/malaysian-journalist-faces-six-years-in-prison-ove/
+https://perma.cc/943S-6SZK
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Malaysia
 
-https://rsf.org/en/thematique/internet?countries%5B75%5D=75
+https://perma.cc/4JUR-UM2S
 
-https://www.hrw.org/news/2020/07/08/malaysia-stop-treating-criticism-crime
 
-https://www.ifj.org/fileadmin/user_upload/200909_IFJ_Impacts_Of_Covid19_Malaysia.pdf
+https://perma.cc/3TEK-9NKQ
+
+
+https://perma.cc/59ET-L46V
+
+
+https://perma.cc/MBY6-EK2N
+
+
+https://perma.cc/E8TR-T6B2
 
 
 
@@ -1351,13 +1346,10 @@ https://www.ifj.org/fileadmin/user_upload/200909_IFJ_Impacts_Of_Covid19_Malaysia
  The Malaysian authorities information on Covid-19 is overall in line with that of WHO, and no evidence has been found that the government has engaged in any disinformation campaigns. This is therefore coded as 0. 
 
 *Sources*:
- https://www.infosihat.gov.my/images/media_sihat/lain_lain/pdf/SOALAN%20LAZIM%20COVID-19.pdf
-
-http://covid-19.moh.gov.my/faqsop/faq-umum/22.%20FAQ%20KKM_20Mac2020.pdf
-
-https://www.malaysia.gov.my/portal/content/30936
-
-http://covid-19.moh.gov.my
+ https://perma.cc/T7LW-4RMF
+https://perma.cc/T3EB-RK3D
+https://web.archive.org/web/20200425012503/https://www.malaysia.gov.my/portal/content/30936
+https://perma.cc/932K-N5PZ
 
 
 
@@ -1405,14 +1397,16 @@ While there are reports that Malaysia has arrested and jailed thousands of peopl
  
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/malaysia/
-(1)
+ https://perma.cc/MTS5-V6YP
 
-https://www.hrw.org/news?country[]=9555
 
-https://www.amnesty.org/en/search/?country=38372&resourceType=newsarticle&sort=date
+https://perma.cc/4UKL-8X7Y
 
-https://www.hrw.org/news/2020/04/26/malaysia-stop-jailing-covid-19-lockdown-violators
+
+https://perma.cc/2DAR-L45U
+
+
+https://perma.cc/XJ2E-PQQP
 
 
 
@@ -1454,13 +1448,16 @@ https://www.hrw.org/news/2020/04/26/malaysia-stop-jailing-covid-19-lockdown-viol
  Several local or regional media outlets report that the military has been used widely to enforce emergency measures in 2020. No information found for 2021. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.aa.com.tr/en/asia-pacific/covid-19-malaysia-may-use-military-to-enforce-measures/1771535
-
-https://www.malaymail.com/news/malaysia/2020/03/20/senior-minister-military-to-help-enforce-covid-19-shutdown-from-sunday/1848383
-
-https://www.channelnewsasia.com/news/asia/covid-19-malaysia-deploy-military-movement-control-order-12559958
+ https://perma.cc/M8ES-HRKM
 
 
-https://www.malaymail.com/news/malaysia/2020/10/11/over-1100-armed-forces-personnel-deployed-to-sabah-to-contain-spread-of-cov/1911586
+https://perma.cc/6CRJ-NA27
+
+
+https://perma.cc/E2A6-TDCR
+
+
+https://perma.cc/P5DD-W59E
+
+
+https://perma.cc/2NGP-D9CY

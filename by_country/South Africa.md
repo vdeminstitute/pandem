@@ -45,10 +45,8 @@
  There is a declaration of National State of Disaster March 15, 2020. This is different from a state of emergency. 
 
 *Sources*:
- [1]
-https://www.gov.za/sites/default/files/gcis_document/202003/43096gon313.pdf
-[2]
-https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
+ [1]	perma.cc/N984-EPR9
+[2]	perma.cc/6UAW-RDAN
 
 
 
@@ -87,11 +85,8 @@ https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
  There is a declaration of National State of Disaster March 15. 
 
 *Sources*:
- [1]
-https://www.gov.za/sites/default/files/gcis_document/202003/43096gon313.pdf
-
-[2]
-https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
+ [1]	perma.cc/N984-EPR9
+[2]	perma.cc/6UAW-RDAN
 
 
 
@@ -130,11 +125,8 @@ https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
  There is a declaration of National State of Disaster March 15. 
 
 *Sources*:
- [1]
-https://www.gov.za/sites/default/files/gcis_document/202003/43096gon313.pdf
-
-[2]
-https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
+ [1]	perma.cc/N984-EPR9
+[2]	perma.cc/6UAW-RDAN
 
 
 
@@ -173,12 +165,9 @@ https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
  The total duration of the National State of Disaster is not restricted in length by law; however, the government can only declare such a situation for three months and extend on a monthly basis thereafter [1]. The government has thus far followed this requirement [2]. The Cabinet approved the latest extension on 10 June 2021 until 15 July 2021 [3]. 
 
 *Sources*:
- [1]
-https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
-[2]
-https://www.garda.com/crisis24/news-alert-full-history/vt5BqFDoC8wPytd74/south-africa-country-confirms-first-covid-19-case-march-5
-[3]
-https://www.gov.za/speeches/statement-cabinet-meeting-9-june-2021-10-jun-2021-0000
+ [1]	perma.cc/3EDJ-QLW8
+[2]	perma.cc/ESR6-K7HK
+[3]	perma.cc/6WMW-VZ4U
 
 
 
@@ -220,12 +209,9 @@ https://www.gov.za/speeches/statement-cabinet-meeting-9-june-2021-10-jun-2021-00
  The total duration of the National State of Disaster is not restricted in length by law; however, the government can only declare such a situation for three months and extend on a monthly basis thereafter [1]. The government has thus far followed this requirement [2]. The Cabinet approved the latest extension on 10 June 2021 until 15 July 2021 [3]. 
 
 *Sources*:
- [1]
-https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
-[2]
-https://www.garda.com/crisis24/news-alert-full-history/vt5BqFDoC8wPytd74/south-africa-country-confirms-first-covid-19-case-march-5
-[3]
-https://www.gov.za/speeches/statement-cabinet-meeting-9-june-2021-10-jun-2021-0000
+ [1]	perma.cc/6UAW-RDAN
+[2]	perma.cc/42JU-SVYY
+[3]	perma.cc/4BGK-ZY6L
 
 
 
@@ -264,15 +250,9 @@ https://www.gov.za/speeches/statement-cabinet-meeting-9-june-2021-10-jun-2021-00
  The total duration of the National State of Disaster is not restricted in length by law; however, the government can only declare such a situation for three months and extend on a monthly basis thereafter [1]. The government has thus far followed this requirement [2]. The Cabinet approved the latest extension on 10 June 2021 until 15 July 2021 [3]. 
 
 *Sources*:
- [1]
-https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
-
-
-[2]
-https://www.garda.com/crisis24/news-alert-full-history/vt5BqFDoC8wPytd74/south-africa-country-confirms-first-covid-19-case-march-5
-
-[3]
-https://www.gov.za/speeches/statement-cabinet-meeting-9-june-2021-10-jun-2021-0000
+ [1]	perma.cc/6UAW-RDAN
+[2]	perma.cc/42JU-SVYY
+[3]	perma.cc/4BGK-ZY6L
 
 
 
@@ -314,11 +294,8 @@ https://www.gov.za/speeches/statement-cabinet-meeting-9-june-2021-10-jun-2021-00
  The National Disaster Management Act (2002) does not require that the National Assembly approve the declaration of the national state of disaster, its end date, or its extension. These powers belong solely to the executive. However, petitions can be brought before the courts to repeal the measure. 
 
 *Sources*:
- [1]
-https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
-
-[2]
-https://verfassungsblog.de/covid-19-state-of-disaster-in-south-africa/
+ [1]	perma.cc/6UAW-RDAN
+[2]	perma.cc/WPN2-H9FF
 
 
 
@@ -360,11 +337,8 @@ https://verfassungsblog.de/covid-19-state-of-disaster-in-south-africa/
  The National Disaster Management Act (2002) does not require that the National Assembly approve the declaration of the national state of disaster, its end date, or its extension. These powers belong solely to the executive. However, petitions can be brought before the courts to repeal the measure. 
 
 *Sources*:
- [1]
-https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
-
-[2]
-https://verfassungsblog.de/covid-19-state-of-disaster-in-south-africa/
+ [1]	perma.cc/6UAW-RDAN
+[2]	perma.cc/WPN2-H9FF
 
 
 
@@ -410,17 +384,10 @@ https://verfassungsblog.de/covid-19-state-of-disaster-in-south-africa/
  The South African parliament suspended all activities on 19 March 2020 and resumed on 13 April 2020 [1,4]. According to the National Disaster Management Act (2003), "the national executive is primarily responsible for the coordination and management of national disasters irrespective of whether a national state of disaster has been declared" and must deal with the disaster in terms of existing legislation, "augmented by regulations or directions made or issued" when a state of disaster is declared [2]. Specific provisions and limitations on decrees made during a state of national disaster are provided within the law [2,3]. 
 
 *Sources*:
- [1]
-https://www.sabcnews.com/sabcnews/parliament-suspends-activities-amid-covid-19-outbreak/
-
-[2]
-https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
-
-[3]
-https://www.gov.za/sites/default/files/gcis_document/202003/43096gon313.pdf
-
-[4]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+ [1]	perma.cc/YA6U-F8Y3
+[2]	perma.cc/6UAW-RDAN
+[3]	perma.cc/N984-EPR9
+[4]	perma.cc/J6V7-LHF4
 
 
 
@@ -542,15 +509,11 @@ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
  The South African government has declared some areas as "hotspots" throughout the pandemic. These areas are subject to additional protocols beyond those implemented nationally, such as longer curfews, lockdowns, restrictions or closures of public places, and border closures. 
 
 *Sources*:
- https://sacoronavirus.co.za/2020/04/28/update-on-covid-19-28th-april-2020-with-media-presentation/
-
-https://www.reuters.com/article/us-health-coronavirus-safrica/south-africa-tightens-covid-19-rules-in-eastern-cape-ramaphosa-says-in-the-fight-of-our-lives-idUSKBN28D32X
-
-https://www.washingtonpost.com/world/africa/south-africa-coronavirus-surge/2020/12/28/b4c8e17a-492c-11eb-97b6-4eb9f72ff46b_story.html
-
-https://www.garda.com/crisis24/news-alerts/428226/south-africa-officials-amend-covid-19-restrictions-nationwide-jan-11-update-19
-
-https://www.garda.com/crisis24/news-alerts/461871/south-africa-authorities-ease-public-gathering-covid-19-restrictions-from-march-31-update-4
+ [1]	perma.cc/U3PR-ALB6
+[2]	perma.cc/TY6D-SG2V
+[3]	perma.cc/H8WP-YA3B
+[4]	perma.cc/FU8T-5DW6
+[5]	perma.cc/TMF3-Z3A9
 
 
 
@@ -594,14 +557,10 @@ https://www.garda.com/crisis24/news-alerts/461871/south-africa-authorities-ease-
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- [1]
-https://www.hrw.org/africa/south-africa
-[2]
-https://www.amnesty.org/en/countries/africa/south-africa/
-[3]
-https://www.bbc.com/news/topics/cq23pdgvyl7t/south-africa
-[4]
-https://www.gov.za/coronavirus/guidelines
+ [1]	perma.cc/RQP4-9VNB
+[2]	perma.cc/PZ6P-MEED
+[3]	perma.cc/QUL2-7DPS
+[4]	perma.cc/C4SH-2RQ5
 
 
 
@@ -650,16 +609,11 @@ https://www.gov.za/coronavirus/guidelines
  No emergency measures that de-jure violate non-derogable rights as defined by the ICCPR, was found. 
 
 *Sources*:
- [1]
-https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-[2]
-https://www.hrw.org/africa/south-africa
-[3]
-https://www.amnesty.org/en/countries/africa/south-africa/
-[4]
-https://www.bbc.com/news/topics/cq23pdgvyl7t/south-africa
-[5]
-https://www.gov.za/coronavirus/guidelines
+ [1]	perma.cc/XM52-BKAF
+[2]	perma.cc/CEQ5-JJNN
+[3]	perma.cc/BFA6-TK2G
+[4]	perma.cc/5KTS-N78M
+[5]	perma.cc/FX63-EK5B
 
 
 
@@ -703,15 +657,11 @@ https://www.gov.za/coronavirus/guidelines
  According to regulations governing the implementation of response to the national state of disaster published by the government Gazette on 29 April 2020 (No. R480), "Any person who publishes any statement, through any medium, including social media, with the intention to deceive any other person about - (a) Covid-19; (b) Covid-19 infection status of any person; or (c) any measure taken by the Government to address Covid-19" (Article 14) is liable to conviction of fine or six months imprisonment [1]. The government has set up measures to actively track scammers and fake news online regarding the pandemic. This is why it was coded 1 instead of 2. 
 
 *Sources*:
- [1]
-https://www.gov.za/sites/default/files/gcis_document/202004/43258rg11098gon480s.pdf
-[2]
-https://www.gov.za/coronavirus/fakenews
-[3]
-https://rsf.org/en/south-africa
-[4] https://cpj.org/africa/south-africa/
-[5]
-http://ipi.media/south-africa/
+ [1]	perma.cc/R5NH-GB8P
+[2]	perma.cc/Z4YG-XYZT
+[3]	perma.cc/CZ9L-Q3HM
+[4]	perma.cc/TE2S-EYTT
+[5]	perma.cc/9FKK-PMPN
 
 
 
@@ -750,8 +700,7 @@ http://ipi.media/south-africa/
  The first page of the Government Notice indicates that the start date is April 29, 2020. 
 
 *Sources*:
- [1]
-https://www.gov.za/sites/default/files/gcis_document/202004/43258rg11098gon480s.pdf
+ [1]	perma.cc/R5NH-GB8P
 
 
 
@@ -790,14 +739,9 @@ https://www.gov.za/sites/default/files/gcis_document/202004/43258rg11098gon480s.
  The total duration of the National State of Disaster is not restricted in length by law; however, the government can only declare such a situation for three months and extend on a monthly basis thereafter [1]. The government has thus far followed this requirement [2]. The Cabinet approved the latest extension on 10 June 2021 until 15 July 2021 [3]. 
 
 *Sources*:
- [1]
-https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
-
-[2]
-https://www.garda.com/crisis24/news-alert-full-history/vt5BqFDoC8wPytd74/south-africa-country-confirms-first-covid-19-case-march-5
-
-[3]
-https://www.gov.za/speeches/statement-cabinet-meeting-9-june-2021-10-jun-2021-0000
+ [1]	perma.cc/3EDJ-QLW8
+[2]	perma.cc/ESR6-K7HK
+[3]	perma.cc/6WMW-VZ4U
 
 
 
@@ -839,12 +783,9 @@ https://www.gov.za/speeches/statement-cabinet-meeting-9-june-2021-10-jun-2021-00
  No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
 
 *Sources*:
- [1]
-https://cpj.org/africa/south-africa/
-[2]
-https://rsf.org/en/south-africa
-[3]
-https://ipi.media/south-africa/
+ [1]	perma.cc/YH8E-Y236
+[2]	perma.cc/E4V9-GD5B
+[3]	perma.cc/5FJQ-EBH2
 
 
 
@@ -889,19 +830,13 @@ But there is no information indicating that the media still faces limitations.
  
 
 *Sources*:
- [1]
-https://rsf.org/en/news/journalist-flees-south-africa-after-police-beatings-over-lockdown-reporting
-[2]
-https://sanef.org.za/sanef-and-safrea-call-on-law-enforcement-members-saps-metro-police-and-army-to-stop-their-hostility-and-harassment-of-journalists/
-[3]
-https://www.amnesty.org/en/latest/news/2020/05/southern-africa-covid19-a-pretext-for-surge-in-harassment-of-journalists-and-weakening-of-media-houses-by-states/
-[4]
-https://rsf.org/en/south-africa
-[5] https://cpj.org/africa/south-africa/
-[6]
-http://ipi.media/south-africa/
-[7]
-https://cpj.org/2020/05/south-african-police-assault-charge-journalist-pau/
+ [1]	perma.cc/4L8X-XX43
+[2]	perma.cc/Y4RQ-278Q
+[3]	perma.cc/8KYN-HQTJ
+[4]	perma.cc/CNX8-T672
+[5]	perma.cc/CS7H-FAE3
+[6]	perma.cc/5T2G-EYP2
+[7]	perma.cc/5EA7-5874
 
 
 
@@ -943,12 +878,9 @@ https://cpj.org/2020/05/south-african-police-assault-charge-journalist-pau/
  No evidence indicating that the government is de-facto limiting media reporting about non-Covid-19 related news, but with reference to the pandemic, was found. 
 
 *Sources*:
- [1]
-https://rsf.org/en/south-africa
-[2]
-https://ipi.media/south-africa/
-[3]
-https://cpj.org/africa/south-africa/
+ [1]	perma.cc/E99H-Q77R
+[2]	perma.cc/242A-87HN
+[3]	perma.cc/CL2E-QMCM
 
 
 
@@ -991,12 +923,9 @@ https://cpj.org/africa/south-africa/
  No evidence indicating that the government and its agents limits media access to Covid-19 related information, was found. 
 
 *Sources*:
- [1]
-https://rsf.org/en/south-africa
-[2]
-https://ipi.media/south-africa/
-[3]
-https://cpj.org/africa/south-africa/
+ [1]	perma.cc/AXC6-PCYB
+[2]	perma.cc/KQM7-3MSH
+[3]	perma.cc/M3J8-ZY7U
 
 
 
@@ -1038,17 +967,10 @@ https://cpj.org/africa/south-africa/
  In April 2020, police threatened and eventually blocked a journalist while covering lockdown enforcement [1]. In August 2020, a member of parliament verbally harassed a journalist who was investigating his remarks concerning the government's response to Covid-19 [2]. No further reports of verbal harassment have been found. 
 
 *Sources*:
- [1]
-https://sanef.org.za/sanef-and-safrea-call-on-law-enforcement-members-saps-metro-police-and-army-to-stop-their-hostility-and-harassment-of-journalists/
-
-[2]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/south-africa/
-
-[3]
-https://www.hrw.org/world-report/2021/country-chapters/south-africa
-
-[4]
-https://rsf.org/en/south-africa
+ [1]	perma.cc/Y4RQ-278Q
+[2]	perma.cc/VA6K-6EKC
+[3]	perma.cc/SH62-RKH4
+[4]	perma.cc/2TCA-2HU5
 
 
 
@@ -1090,18 +1012,10 @@ https://rsf.org/en/south-africa
  In March 2020, police in Johannesburg shot a journalist who was reporting on the use of rubber bullets to disperse lockdown violators [1]. May 2020, a journalist fled South Africa after being beaten by police while covering the lockdown. No further reports of physical harassment have been found. 
 
 *Sources*:
- [1]
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/south-africa/
-
-[2]
-https://rsf.org/en/news/journalist-flees-south-africa-after-police-beatings-over-lockdown-reporting
-
-
-[3]
-https://www.hrw.org/world-report/2021/country-chapters/south-africa
-
-[4]
-https://rsf.org/en/south-africa
+ [1]	perma.cc/96XW-ZUYT
+[2]	perma.cc/R5W7-TCLX
+[3]	perma.cc/EZ32-NWBA
+[4]	perma.cc/P4TZ-TCQJ
 
 
 
@@ -1145,14 +1059,9 @@ https://rsf.org/en/south-africa
  The Department of Health provides an FAQ that states that "the SARS-CoV-2 virus does not survive well in warmer climates" [1]. This is not in line with the information from the WHO. However, this is minor and does not appear to be intended as misinformation. All other information on the government websites appears to be in line with the WHO. The government has also established a website aimed at combatting fake news. 
 
 *Sources*:
- [1]
-https://sacoronavirus.co.za/faqs/
-
-[2]
-http://www.health.gov.za/covid19/faq/covid19.html
-
-[3]
-https://www.gov.za/covid-19/resources/fake-news-coronavirus-covid-19
+ [1]	perma.cc/AXC6-PCYB
+[2]	perma.cc/KQM7-3MSH
+[3]	perma.cc/M3J8-ZY7U
 
 
 
@@ -1196,15 +1105,10 @@ https://www.gov.za/covid-19/resources/fake-news-coronavirus-covid-19
  From March to June 2020, the Independent Police Investigative Directorate (IPID) received 588 complaints related to the enforcement of the lockdown measures - including killings, torture, assault, and discharge of firearms. At least 11 persons died at the hands of law enforcement during this period [3]. According to experts, "the problem has continued" into 2021 [4]. Police brutality is endemic in South Africa, with over 60,000 cases lodged and 3,686 police killings  between 2010 and 2020 [1,2].  However, we found no evidence of further violent enforcement of Covid-19 emergency measures after June 2020; therefore, we code this as "0" for subsequent quarters despite the widespread nature of police brutality in this case. 
 
 *Sources*:
- [1]
-https://www.timeslive.co.za/news/south-africa/2021-04-09-police-brutality-nearly-60000-cases-opened-against-cops-in-10-years/
-[2]
-https://foreignpolicy.com/2021/05/31/southafrica-police-brutality-julies/
-[3]
-http://www.ipid.gov.za/content/ipid-investigates-588-complaints-covid-19-period
-[4]
-https://blog.petrieflom.law.harvard.edu/2021/04/13/human-rights-rule-of-law-south-africa-covid/
-
+ [1]	perma.cc/EHR4-8X4V
+[2]	perma.cc/QJF3-XURQ
+[3]	perma.cc/847H-92MC
+[4]	perma.cc/28LW-ZKZK
 
 
 
@@ -1247,17 +1151,10 @@ https://blog.petrieflom.law.harvard.edu/2021/04/13/human-rights-rule-of-law-sout
 From January 2021: "South Africa says it will deploy its National Defence Force (SANDF) in the Western Cape to assist police with enforcing lockdown regulations." [7] However, it was not clear that this enforcement continued into Q2 2021. 
 
 *Sources*:
- [1]
-https://www.news24.com/news24/southafrica/news/sandf-troops-back-in-barracks-after-covid-19-lockdown-deployment-20201003
-[2]
-https://citizen.co.za/news/south-africa/general/2365708/sandfs-lockdown-deployment-expires-but-soldiers-ready-for-second-possible-covid-19-wave/
-[3]
-https://www.sanews.gov.za/south-africa/minister-addresses-allegations-abuse-sandf-members
-[4]
-https://www.bbc.com/news/world-africa-52387962
-[5]
-https://www.reuters.com/article/uk-factcheck-south-africa-military-coron/partly-false-claim-streets-of-south-africa-lined-with-military-in-response-to-coronavirus-idUSKBN21H34L
-[6]
-https://uk.reuters.com/article/uk-health-coronavirus-safrica/south-africa-covid-19-cases-set-to-reach-300000-despite-early-lockdown-idUKKCN24G25O
-[7]
-https://www.africanews.com/2021/01/07/south-africa-to-deploy-military-to-enforce-covid-regulations//
+ [1]	perma.cc/LH79-4KUH
+[2]	perma.cc/EVN7-YFAW
+[3]	perma.cc/KJ8R-FNQP
+[4]	perma.cc/74NP-4SUX
+[5]	perma.cc/7ZXR-VD79
+[6]	perma.cc/HPL3-W9E4
+[7]	perma.cc/M678-W34M

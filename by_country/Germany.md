@@ -46,27 +46,34 @@
 On 2021-04-21, however, German parliament enacted a new amendment of the Infection Protection Act that mandates the states to impose a coherent set of restrictions if the number of Covid-19 cases exceed 100 in a 7-day period. These restrictions include curfews, restrictions on gatherings and restrictions on business. Thus, while state’s still have the possibility to extend further measures under such circumstances, there is a nationally determined baseline of restrictions that is applied when cases reaches a certain point. Given that the restrictions included in this new amendment are many of the most central ones, as of this point Germant is coded as having a national emergency response, and coded as 4 since this is no state of emergency but a new amendment to existing legislation. 
 
 *Sources*:
- https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html
-
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
+ https://perma.cc/AG74-5RHH
 
 
+https://perma.cc/73W7-R5RF
 
 
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-Covid-19/
+https://perma.cc/MSG9-YXLD
 
-https://www.acaps.org/covid19-government-measures-dataset
 
-https://www.deutschland.de/en/news/german-federal-government-informs-about-the-corona-crisis
+https://perma.cc/FG6W-RUNH
 
-https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/guv-19-lp/drittes-bevoelkerungsschutzgesetz.html
 
-https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/B/3._BevSchG_BGBl.pdf
-https://de.wikipedia.org/wiki/Liste_der_infolge_der_COVID-19-Pandemie_erlassenen_deutschen_Gesetze_und_Verordnungen
+https://perma.cc/9BWM-JEYQ
 
-https://verfassungsblog.de/germany-and-Covid-19-a-most-eventful-year/
 
-https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136
+https://perma.cc/ET84-P6GV
+
+
+https://perma.cc/C9D8-SVSY
+
+
+https://perma.cc/JW3Q-DH46
+
+
+https://perma.cc/J6Z4-4KUW
+
+
+https://perma.cc/U3NH-7H7E
 
 
 
@@ -105,26 +112,31 @@ https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136
  For Q2-Q4 2020 and Q1 2021, there was no national-level emergency response. With the amendment of the Infection Protection Act on 2021-04-21, however, the German government created a national system for restrictions based on the extent of infections in each state. Thus, for Q2 2021, the national-level legal instrument was the Infection Protection Act. 
 
 *Sources*:
- https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html
-
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
+ https://perma.cc/AG74-5RHH
 
 
+https://perma.cc/73W7-R5RF
 
 
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-Covid-19/
+https://perma.cc/MSG9-YXLD
 
-https://www.acaps.org/covid19-government-measures-dataset
 
-https://www.deutschland.de/en/news/german-federal-government-informs-about-the-corona-crisis
+https://perma.cc/FG6W-RUNH
 
-https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/guv-19-lp/drittes-bevoelkerungsschutzgesetz.html
 
-https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/B/3._BevSchG_BGBl.pdf
+https://perma.cc/9BWM-JEYQ
 
-https://verfassungsblog.de/germany-and-Covid-19-a-most-eventful-year/
 
-https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136
+https://perma.cc/ET84-P6GV
+
+
+https://perma.cc/C9D8-SVSY
+
+
+https://perma.cc/X6AG-A558
+
+
+https://perma.cc/79KY-S5VB
 
 
 
@@ -163,26 +175,31 @@ https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136
  For Q2-Q4 2020 and Q1 2021, there was no national-level emergency response. With the amendment of the Infection Protection Act on 2021-04-21, however, the German government created a national system for restrictions based on the extent of infections in each state. While the amendment was passed on 2021-04-21, it came into effect 2021-04-23, and this is therefore the starting date. 
 
 *Sources*:
- https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html
-
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
+ https://perma.cc/AG74-5RHH
 
 
+https://perma.cc/73W7-R5RF
 
 
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-Covid-19/
+https://perma.cc/MSG9-YXLD
 
-https://www.acaps.org/covid19-government-measures-dataset
 
-https://www.deutschland.de/en/news/german-federal-government-informs-about-the-corona-crisis
+https://perma.cc/FG6W-RUNH
 
-https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/guv-19-lp/drittes-bevoelkerungsschutzgesetz.html
 
-https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/B/3._BevSchG_BGBl.pdf
+https://perma.cc/9BWM-JEYQ
 
-https://verfassungsblog.de/germany-and-Covid-19-a-most-eventful-year/
 
-https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136
+https://perma.cc/ET84-P6GV
+
+
+https://perma.cc/C9D8-SVSY
+
+
+https://perma.cc/X6AG-A558
+
+
+https://perma.cc/79KY-S5VB
 
 
 
@@ -221,26 +238,31 @@ https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136
  For Q2-Q4 2020 and Q1 2021, there was no national-level emergency response. With the amendment of the Infection Protection Act on 2021-04-21, however, the German government created a national system for restrictions based on the extent of infections in each state. This has not ended by time of coding, and is therefore left blank also for Q2 2021. 
 
 *Sources*:
- https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html
-
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
+ https://perma.cc/AG74-5RHH
 
 
+https://perma.cc/73W7-R5RF
 
 
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-Covid-19/
+https://perma.cc/MSG9-YXLD
 
-https://www.acaps.org/covid19-government-measures-dataset
 
-https://www.deutschland.de/en/news/german-federal-government-informs-about-the-corona-crisis
+https://perma.cc/FG6W-RUNH
 
-https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/guv-19-lp/drittes-bevoelkerungsschutzgesetz.html
 
-https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/B/3._BevSchG_BGBl.pdf
+https://perma.cc/9BWM-JEYQ
 
-https://verfassungsblog.de/germany-and-Covid-19-a-most-eventful-year/
 
-https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136
+https://perma.cc/ET84-P6GV
+
+
+https://perma.cc/C9D8-SVSY
+
+
+https://perma.cc/38K7-8TPT
+
+
+https://perma.cc/74CW-STFW
 
 
 
@@ -282,26 +304,31 @@ https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136
  For Q2-Q4 2020 and Q1 2021, there was no national-level emergency response. With the amendment of the Infection Protection Act on 2021-04-21, however, the German government created a national system for restrictions based on the extent of infections in each state. The time limit for the restrictions taken under this amendment depends on how quickly the extent of infections drop in each state (and some will not have them imposed if infection rates are low), but the time limit for the amendment being in effect is 2021-06-30. Since there is a general time limit on the measures, this is coded as 1. 
 
 *Sources*:
- https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html
-
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
+ https://perma.cc/AG74-5RHH
 
 
+https://perma.cc/73W7-R5RF
 
 
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-Covid-19/
+https://perma.cc/MSG9-YXLD
 
-https://www.acaps.org/covid19-government-measures-dataset
 
-https://www.deutschland.de/en/news/german-federal-government-informs-about-the-corona-crisis
+https://perma.cc/FG6W-RUNH
 
-https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/guv-19-lp/drittes-bevoelkerungsschutzgesetz.html
 
-https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/B/3._BevSchG_BGBl.pdf
+https://perma.cc/9BWM-JEYQ
 
-https://verfassungsblog.de/germany-and-Covid-19-a-most-eventful-year/
 
-https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136
+https://perma.cc/ET84-P6GV
+
+
+https://perma.cc/C9D8-SVSY
+
+
+https://perma.cc/X6AG-A558
+
+
+https://perma.cc/79KY-S5VB
 
 
 
@@ -340,26 +367,31 @@ https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136
  For Q2-Q4 2020 and Q1 2021, there was no national-level emergency response. With the amendment of the Infection Protection Act on 2021-04-21, however, the German government created a national system for restrictions based on the extent of infections in each state. The time limit for the restrictions taken under this amendment depends on how quickly the extent of infections drop in each state (and some will not have them imposed if infection rates are low), but the time limit for the amendment being in effect is 2021-06-30. 
 
 *Sources*:
- https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html
-
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
+ https://perma.cc/AG74-5RHH
 
 
+https://perma.cc/73W7-R5RF
 
 
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-Covid-19/
+https://perma.cc/MSG9-YXLD
 
-https://www.acaps.org/covid19-government-measures-dataset
 
-https://www.deutschland.de/en/news/german-federal-government-informs-about-the-corona-crisis
+https://perma.cc/FG6W-RUNH
 
-https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/guv-19-lp/drittes-bevoelkerungsschutzgesetz.html
 
-https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/B/3._BevSchG_BGBl.pdf
+https://perma.cc/9BWM-JEYQ
 
-https://verfassungsblog.de/germany-and-Covid-19-a-most-eventful-year/
 
-https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136
+https://perma.cc/ET84-P6GV
+
+
+https://perma.cc/C9D8-SVSY
+
+
+https://perma.cc/X6AG-A558
+
+
+https://perma.cc/79KY-S5VB
 
 
 
@@ -401,25 +433,31 @@ https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136
  For Q2-Q4 2020 and Q1 2021, there was no national-level emergency response. With the amendment of the Infection Protection Act on 2021-04-21, however, the German government created a national system for restrictions based on the extent of infections in each state. This amendment had to be passed by the Bundestag (though not the Bundesrat), and was on 2021-04-21. 
 
 *Sources*:
- https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html
-
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
+ https://perma.cc/AG74-5RHH
 
 
+https://perma.cc/73W7-R5RF
 
 
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-Covid-19/
+https://perma.cc/MSG9-YXLD
 
-https://www.acaps.org/covid19-government-measures-dataset
 
-https://www.deutschland.de/en/news/german-federal-government-informs-about-the-corona-crisis
+https://perma.cc/FG6W-RUNH
 
-https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/guv-19-lp/drittes-bevoelkerungsschutzgesetz.html
 
-https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/B/3._BevSchG_BGBl.pdf
-https://verfassungsblog.de/germany-and-Covid-19-a-most-eventful-year/
+https://perma.cc/9BWM-JEYQ
 
-https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136
+
+https://perma.cc/ET84-P6GV
+
+
+https://perma.cc/C9D8-SVSY
+
+
+https://perma.cc/X6AG-A558
+
+
+https://perma.cc/79KY-S5VB
 
 
 
@@ -461,25 +499,31 @@ https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136
  For Q2-Q4 2020 and Q1 2021, there was no national-level emergency response. With the amendment of the Infection Protection Act on 2021-04-21, however, the German government created a national system for restrictions based on the extent of infections in each state. This amendment had to be passed by the Bundestag (though not the Bundesrat), and was on 2021-04-21. 
 
 *Sources*:
- https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html
-
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
+ https://perma.cc/AG74-5RHH
 
 
+https://perma.cc/73W7-R5RF
 
 
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-Covid-19/
+https://perma.cc/MSG9-YXLD
 
-https://www.acaps.org/covid19-government-measures-dataset
 
-https://www.deutschland.de/en/news/german-federal-government-informs-about-the-corona-crisis
+https://perma.cc/FG6W-RUNH
 
-https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/guv-19-lp/drittes-bevoelkerungsschutzgesetz.html
 
-https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/B/3._BevSchG_BGBl.pdf
-https://verfassungsblog.de/germany-and-Covid-19-a-most-eventful-year/
+https://perma.cc/9BWM-JEYQ
 
-https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136
+
+https://perma.cc/ET84-P6GV
+
+
+https://perma.cc/C9D8-SVSY
+
+
+https://perma.cc/X6AG-A558
+
+
+https://perma.cc/79KY-S5VB
 
 
 
@@ -525,28 +569,20 @@ https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136
  There is no state of emergency, and no other sort of state of exception that has changed the Bundestags role. The German Parliament continues to work, however with fewer members present and a restricted programme. The Bundestag have also passed and amended federal laws during the pandemic in order to aid the states and population. Especially, the parliament passed the amendment that created the national-level emergency response now in place. Thus, no evidence has been found that the parliaments law-making role has been limited. Note however that there has been critique that parliament has been too passive during the pandemic, and let the government and the federal states coordinate most measures without particular involvement from parliament (aside from amending laws etc., which the parliament must do). However, as far as have been found here, this has not been due to the law-making role having been limited, but rather that the parliament has chosen to be relatively passive. At the state-level, also, there seem to have been less oversight and participation from the parliaments than usual, but this is not accounted for here. Thus, there’s no evidence found that the law-making role of the national parliament has been limited in any way, and thus coded 0 for all periods. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#G"
+ https://perma.cc/XLE9-SDXN
+https://perma.cc/MWJ9-VA4G
+https://perma.cc/FE3C-2JMK
 
-https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://perma.cc/CR5P-S37J
+https://perma.cc/4992-9S84
+https://perma.cc/AAE7-VYMW
+https://perma.cc/363F-2XGC
+https://perma.cc/AP24-M4YR
 
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
+https://perma.cc/PA5R-E4T2
 
-
-
-
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-Covid-19/
-
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.deutschland.de/en/news/german-federal-government-informs-about-the-corona-crisis"
-
-https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/guv-19-lp/drittes-bevoelkerungsschutzgesetz.html
-https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/B/3._BevSchG_BGBl.pdf
-https://de.wikipedia.org/wiki/Liste_der_infolge_der_COVID-19-Pandemie_erlassenen_deutschen_Gesetze_und_Verordnungen
-
-https://verfassungsblog.de/germany-and-Covid-19-a-most-eventful-year/
-
-https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136
+https://perma.cc/RX44-7E4Q
 
 
 
@@ -668,14 +704,19 @@ https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136
  The federal government have coordinated a lot of the emergency response and implemented a set of measures during the pandemic that have resulted in a fairly similar response across most states. However, some states such as Bavaria and Thuringia have taken more far reaching responses at times, and there are also other states in which differing emergency measures have been imposed. While there thus are some states that do differ a lot from most others, the measures taken have not been so different across the states that it results complete or almost complete sub-national variation during any of the periods, and this is therefore coded as 2. While the amendment on 2021-04-21 created more homogeneity in the measures as some baseline of restrictions (onto which states can infer more restrictions) is applied to all areas which meets a threshold of infection rates, not all district have met this threshold and some drop below it over time. Thus, there continues to be sub-national variation in Germany, and this is coded 2 for all periods. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
+ https://perma.cc/P7FH-NW2U
 
-https://www.tagesschau.de/inland/freiburg-ausgangssperre-101.html
 
-https://www.stmi.bayern.de/assets/stmi/sus/katastrophenschutz/baymbl_2020_155_feststellung_katastrophenfall.pdf
+https://perma.cc/733N-FPGC
 
-https://verfassungsblog.de/germany-and-Covid-19-a-most-eventful-year/
-https://www.garda.com/crisis24/news-alerts/471066/germany-authorities-tighten-domestic-Covid-19-restrictions-as-of-april-24-update-43
+
+https://perma.cc/GAD3-DB3U
+
+
+https://perma.cc/7XBG-EYVD
+
+
+https://perma.cc/P77X-U9GG
 
 
 
@@ -719,10 +760,16 @@ https://www.garda.com/crisis24/news-alerts/471066/germany-authorities-tighten-do
  Human Rights Watch, Amnesty International and EU agency of fundamental righs have not reported any discrimination within the federal or regional  response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9597
-https://www.amnesty.org/en/search/?country=38455&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_july_2020.pdf
+ https://perma.cc/T4GA-NWTA
+
+
+https://perma.cc/VVQ4-AA3C
+
+
+https://perma.cc/SP5Y-6V5A
+
+
+https://perma.cc/R8SE-J4G7
 
 
 
@@ -771,11 +818,16 @@ https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_p
  Neither the EU agency for fundamental rights, Human Rights Watch or Amnesty international has reported any incidents of violations of non-derogable rights, and no other indication has been found that that has occurred in Germany's Covid-19 response. This is therefore coded as 0. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9597
-https://www.amnesty.org/en/search/?country=38455&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_july_2020.pdf
- 
+ https://perma.cc/N78Q-QEQF
+
+
+https://perma.cc/A2WF-R8YX
+
+
+https://perma.cc/FW7Y-GFRK
+
+
+https://perma.cc/J8EH-VRHD
 
 
 
@@ -819,11 +871,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_p
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the German Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B94%5D=94
+ https://perma.cc/2348-H8ZU
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
 
-https://cpj.org/europe/germany/
+https://perma.cc/K9ST-XNC3
+
+
+https://perma.cc/8SWF-ESN9
 
 
 
@@ -862,11 +916,13 @@ https://cpj.org/europe/germany/
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B94%5D=94
+ https://perma.cc/2348-H8ZU
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
 
-https://cpj.org/europe/germany/
+https://perma.cc/K9ST-XNC3
+
+
+https://perma.cc/8SWF-ESN9
 
 
 
@@ -905,11 +961,13 @@ https://cpj.org/europe/germany/
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B94%5D=94
+ https://perma.cc/2348-H8ZU
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
 
-https://cpj.org/europe/germany/
+https://perma.cc/K9ST-XNC3
+
+
+https://perma.cc/8SWF-ESN9
 
 
 
@@ -951,11 +1009,13 @@ https://cpj.org/europe/germany/
  Neither Reporters without Borders, Committee to Protect Journalists  nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Germany,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B94%5D=94
+ https://perma.cc/2348-H8ZU
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
 
-https://cpj.org/europe/germany/
+https://perma.cc/K9ST-XNC3
+
+
+https://perma.cc/8SWF-ESN9
 
 
 
@@ -997,11 +1057,13 @@ https://cpj.org/europe/germany/
  Neither Reporters without Borders, Committee to Protect Journalists  nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in Germany,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B94%5D=94
+ https://perma.cc/2348-H8ZU
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
 
-https://cpj.org/europe/germany/
+https://perma.cc/K9ST-XNC3
+
+
+https://perma.cc/8SWF-ESN9
 
 
 
@@ -1043,11 +1105,13 @@ https://cpj.org/europe/germany/
  Neither Reporters without Borders, Committee to Protect Journalists  nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in Germany,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B94%5D=94
+ https://perma.cc/2348-H8ZU
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
 
-https://cpj.org/europe/germany/
+https://perma.cc/K9ST-XNC3
+
+
+https://perma.cc/8SWF-ESN9
 
 
 
@@ -1090,11 +1154,13 @@ https://cpj.org/europe/germany/
  Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information,  and no other indications have been found of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B94%5D=94
+ https://perma.cc/2348-H8ZU
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
 
-https://cpj.org/europe/germany/
+https://perma.cc/K9ST-XNC3
+
+
+https://perma.cc/8SWF-ESN9
 
 
 
@@ -1136,12 +1202,16 @@ https://cpj.org/europe/germany/
  Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any verbal harassment of journalists in Germany, and no other indications have been found of there having been any such harassment. Note that while there have been many reports of verbal harassment of journalists in Germany during anti-restriction protests, such harassment has been conducted by protesters and not authorities, and thus not regarded in the coding. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B94%5D=94
+ https://perma.cc/2348-H8ZU
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
 
-https://cpj.org/europe/germany/
-https://www.dw.com/en/protection-for-journalists-in-germany/a-57317382
+https://perma.cc/K9ST-XNC3
+
+
+https://perma.cc/8SWF-ESN9
+
+
+https://perma.cc/HLB7-W9F3
 
 
 
@@ -1183,12 +1253,16 @@ https://www.dw.com/en/protection-for-journalists-in-germany/a-57317382
  Neither Reporters without Borders, Committee to Protect Journalists  nor International Press Institute have reported any verbal harassment of journalists in Germany, and no other indications have been found of there having been any such harassment. Note that while there have been many reports of verbal harassment of journalists in Germany during anti-restriction protests, such harassment has been conducted by protesters and not authorities, and thus not regarded in the coding. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B94%5D=94
+ https://perma.cc/2348-H8ZU
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Germany
 
-https://cpj.org/europe/germany/
-https://www.dw.com/en/protection-for-journalists-in-germany/a-57317382
+https://perma.cc/K9ST-XNC3
+
+
+https://perma.cc/8SWF-ESN9
+
+
+https://perma.cc/K25M-4ZR9
 
 
 
@@ -1232,9 +1306,13 @@ https://www.dw.com/en/protection-for-journalists-in-germany/a-57317382
  There is no deviations from the information provided by WHO and that of the German Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
 
 *Sources*:
- https://www.zusammengegencorona.de/en/
-https://www.zusammengegencorona.de/en/basic-knowledge-about-coronavirus/
-https://www.deutschland.de/en/corona-virus-germany-overview
+ https://perma.cc/NN4R-BSW3
+
+
+https://perma.cc/E7DC-QGX4
+
+
+https://perma.cc/RWS6-NZ25
 
 
 
@@ -1278,11 +1356,19 @@ https://www.deutschland.de/en/corona-virus-germany-overview
  Neither Human Rights Watch, Amnesty International nor EU agency for fundamental rights have reported any incidents of violence in enforcing emergency measures. Germany has seen many protests toward Covid-19 restrictions, many of which have turned violent. Police have responded to the violence, arresting individuals and using measures such as water cannons and pepper spray. However, none of this has been reported as excessive force or enforcing the restrictions violently. This is therefore coded 0 for all periods. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9597
-https://www.amnesty.org/en/search/?country=38455&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_july_2020.pdf
-https://www.dw.com/en/germany-anti-lockdown-protest-turns-violent-in-kassel/a-56938225 
+ https://perma.cc/N78Q-QEQF
+
+
+https://perma.cc/A2WF-R8YX
+
+
+https://perma.cc/FW7Y-GFRK
+
+
+https://perma.cc/J8EH-VRHD
+
+
+https://perma.cc/7SB8-Z6LB
 
 
 
@@ -1324,5 +1410,7 @@ https://www.dw.com/en/germany-anti-lockdown-protest-turns-violent-in-kassel/a-56
  The German military has been used to aid in a number of health and logistics measures, but have not been used to enforce emergency measures. 
 
 *Sources*:
- http://euromil.org/armed-forces-and-Covid-19/
-https://www.dw.com/en/coronavirus-the-german-armys-fight-on-the-homefront/a-56553467
+ https://perma.cc/TH39-MV2K
+
+
+https://perma.cc/Y6WC-ZP9N

@@ -49,26 +49,8 @@ In addition, the Swiss Parliament (Federal Assembly) passed on 25 September 2020
 A referendum was held on 2021-06-13 if the Covid-19 Act would continue to be in use or suspended, but the Act found support and will be in force as planned at least until the end of 2021 which is the current end date. 
 
 *Sources*:
- https://www.admin.ch/opc/en/classified-compilation/19995395/index.html
-(1)
-https://www.admin.ch/opc/fr/classified-compilation/20071012/index.html
-(2)
-https://fcilsis.wordpress.com/2020/11/18/european-legal-responses-to-Covid-19-switzerland/
-https://www.admin.ch/opc/en/classified-compilation/20201773/index.html
-https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-https://www.admin.ch/opc/en/classified-compilation/20202070/index.html
-https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
-https://www.bag.admin.ch/bag/en/home/gesetze-und-bewilligungen/gesetzgebung/gesetzgebung-mensch-gesundheit/epidemiengesetz.html
-https://www.loc.gov/law/foreign-news/article/switzerland-government-adopts-more-stringent-measures-to-contain-spread-of-coronavirus/
+ https://perma.cc/N2J8-3MJM
 
-https://verfassungsblog.de/concentration-of-powers-in-the-federal-executive-the-application-of-emergency-powers-in-switzerland/
-
-https://verfassungsblog.de/switzerland-and-the-Covid-19-pandemic-a-look-back-and-a-look-into-the-future/
-https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-
-https://www.swissinfo.ch/eng/Covid-19-law-to-win-endorsement-from-voters/46687472
-
- 
 
 
 
@@ -110,20 +92,18 @@ Epidemics Act of 28 September 2012 - Article 7
 Ordinance 1, 2, 3, were later validated by the Swiss Parliament with the COVID19 Federal Act of September 25 2020. This Act, formally called Federal Covid-19 Act (Federal Act on the Statutory Principles for Federal Council Ordinances on Combating the COVID-19 Epidemic), is from this point the main legal instrument, and thus recorded from Q3 of 2020. 
 
 *Sources*:
- https://www.admin.ch/opc/en/classified-compilation/19995395/index.html
+ https://perma.cc/BPK3-NA4U
 (1)
-https://www.admin.ch/opc/fr/classified-compilation/20071012/index.html
+
+https://perma.cc/N2J8-3MJM
 (2)
-https://www.admin.ch/opc/fr/classified-compilation/20071012/index.html#a7
-https://www.admin.ch/opc/en/classified-compilation/20201773/index.html
-https://www.admin.ch/opc/en/classified-compilation/20202070/index.html
-
-https://verfassungsblog.de/concentration-of-powers-in-the-federal-executive-the-application-of-emergency-powers-in-switzerland/
-
-https://verfassungsblog.de/switzerland-and-the-Covid-19-pandemic-a-look-back-and-a-look-into-the-future/
-https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-
-https://www.swissinfo.ch/eng/Covid-19-law-to-win-endorsement-from-voters/46687472
+https://perma.cc/XE4N-MJZL
+https://perma.cc/6R66-BSHA
+https://perma.cc/V65P-QKP3
+https://perma.cc/3BWA-J8VZ
+https://perma.cc/WN6G-B7UX
+https://perma.cc/27BM-UZWE
+https://perma.cc/7QK4-TQAG
 
 
 
@@ -163,16 +143,13 @@ https://www.swissinfo.ch/eng/Covid-19-law-to-win-endorsement-from-voters/4668747
 The first Ordinance was imposed on February 28 2020, the second on March 13 2020 (expired on 22 June 2020), and the third on June 22 (in force through December 31, 2021). The second regulation contained and allowed farther reaching emergency measures compared to the first, and included the main response measures such as closing of shools and public places and curfews were taken. It is therefore the one taken as a start date. Since the passing of the Covid-19 Act, this is regarded the main legal instrument, and this is recorded as the start date from the time it was passed. 
 
 *Sources*:
- https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
-https://www.admin.ch/opc/en/classified-compilation/20201773/index.html
-https://www.admin.ch/opc/en/classified-compilation/20202070/index.html
-https://www.admin.ch/opc/en/classified-compilation/20201773/index.html
-https://verfassungsblog.de/concentration-of-powers-in-the-federal-executive-the-application-of-emergency-powers-in-switzerland/
-
-https://verfassungsblog.de/switzerland-and-the-Covid-19-pandemic-a-look-back-and-a-look-into-the-future/
-https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-
-https://www.swissinfo.ch/eng/Covid-19-law-to-win-endorsement-from-voters/46687472
+ https://perma.cc/9RBH-PZYX
+https://perma.cc/N2J8-3MJM
+https://perma.cc/3Y9C-ZS7Z
+https://perma.cc/TA8F-3PMM
+https://perma.cc/R22E-JMP6
+https://perma.cc/6U3B-5SNM
+https://perma.cc/SXH4-5YHM
 
 
 
@@ -212,18 +189,15 @@ https://www.swissinfo.ch/eng/Covid-19-law-to-win-endorsement-from-voters/4668747
 The Swiss government continues to use the same legal instruments (Constitution and Epidemics Act) to issue COVID19 regulations. Ordinance 2 was set to expire after 6 months, but was abrogated on June 22 2020 and replaced with Ordinance 3, currently in force through December 31, 2021. Since both Ordinance 3 and the overarching Covid-19 Act is in force, this is not coded as having any end date. 
 
 *Sources*:
- https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
-https://www.admin.ch/opc/en/classified-compilation/20201773/index.html
-https://www.admin.ch/opc/en/classified-compilation/20202070/index.html
-https://www.admin.ch/opc/en/classified-compilation/20201773/index.html
-https://verfassungsblog.de/concentration-of-powers-in-the-federal-executive-the-application-of-emergency-powers-in-switzerland/
+ https://perma.cc/TD36-36M8
+https://perma.cc/N2J8-3MJM
+https://perma.cc/7S9P-G5T5
+https://perma.cc/EM7P-83TG
+https://perma.cc/6FK6-PZYM
+https://perma.cc/J6QG-3AMK
+https://perma.cc/H9H4-3XTL
+https://perma.cc/L5EA-RUGQ
 
-https://verfassungsblog.de/switzerland-and-the-Covid-19-pandemic-a-look-back-and-a-look-into-the-future/
-https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-
-https://www.swissinfo.ch/eng/Covid-19-law-to-win-endorsement-from-voters/46687472
-
- 
 
 
 
@@ -265,9 +239,13 @@ https://www.swissinfo.ch/eng/Covid-19-law-to-win-endorsement-from-voters/4668747
  Ordinance 2 had a maximum time limit of 6 months. Ordinance 3, which contains the current measures, expires on December 31 2021. 
 
 *Sources*:
- https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
-https://www.admin.ch/opc/en/classified-compilation/20201773/index.html
-https://www.admin.ch/opc/en/classified-compilation/20202070/index.html
+ https://perma.cc/9263-6RKB
+
+
+https://perma.cc/WJ9U-5LAW
+
+
+https://perma.cc/3BT2-ZX4S
 
 
 
@@ -306,9 +284,13 @@ https://www.admin.ch/opc/en/classified-compilation/20202070/index.html
  Ordinance 2 of March 13 2020 had a maximum time limit of 6 months. Ordinance 3 of June 22 2020, which contains the current measures, expires on December 31 2021. 
 
 *Sources*:
- https://www.admin.ch/opc/en/classified-compilation/20200744/index.html
-https://www.admin.ch/opc/en/classified-compilation/20201773/index.html
-https://www.admin.ch/opc/en/classified-compilation/20202070/index.html
+ https://perma.cc/9263-6RKB
+
+
+https://perma.cc/WJ9U-5LAW
+
+
+https://perma.cc/3BT2-ZX4S
 
 
 
@@ -351,12 +333,19 @@ https://www.admin.ch/opc/en/classified-compilation/20202070/index.html
 The Federal Council defined the Covid-19 crisis an “extraordinary situation” under Article 185 al. 3 of the Constitution and under Article 7 of the Epidemics Act, therefore granting the Federal Council (government) with authorization by the Constitution and by law to take this decision without the involvement of Parliament. While parliament approved the Covid-19 Act, the Act does not require parliamentary approval for measures to come into effect, and parliament cannot veto measures (although the government is required to present the measures to parliament, and consult parliamentary committees before executing them). This is therefore coded 0 for all periods, as neither the ordinances nor the Covid-19 act requires parliamentary approval for measures. 
 
 *Sources*:
- https://www.venice.coe.int/files/EmergencyPowersObservatory/SUI-E.htm
-https://fcilsis.wordpress.com/2020/11/18/european-legal-responses-to-Covid-19-switzerland/
-https://verfassungsblog.de/concentration-of-powers-in-the-federal-executive-the-application-of-emergency-powers-in-switzerland/
+ https://perma.cc/Y33P-T3HZ
 
-https://verfassungsblog.de/switzerland-and-the-Covid-19-pandemic-a-look-back-and-a-look-into-the-future/
-https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+
+https://perma.cc/2PX7-45HL
+
+
+https://perma.cc/6FT2-9AED
+
+
+https://perma.cc/J6NG-GNLM
+
+
+https://perma.cc/2WHE-3SF3
 
 
 
@@ -399,13 +388,22 @@ https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/
 Ordinance 1, 2 and 3 were introduced and implemented without parliamentary approval. The Swiss Parliament (Federal Assembly) passed on 25 September 2020 the Federal Covid-19 Act (Federal Act on the Statutory Principles for Federal Council Ordinances on Combating the COVID-19 Epidemic) which creates a legal basis allowing the Federal Council to maintain the measures resolved by emergency decree that are still necessary to manage the Covid-19 epidemic, i.e. it authorized the Federal Council’s use of special powers “only to the extent that they are required to respond to the COVID-19 epidemic.” While parliament approved the law, the Act does not require parliamentary approval for measures to come into effect, and parliament cannot veto measures (although the government is required to present the measures to parliament, and consult parliamentary committees before executing them). This is therefore coded 0 for all periods, as neither the ordinances or the Covid-19 act requires parliamentary approval for measures. 
 
 *Sources*:
- https://www.venice.coe.int/files/EmergencyPowersObservatory/SUI-E.htm
-https://fcilsis.wordpress.com/2020/11/18/european-legal-responses-to-Covid-19-switzerland/
-https://www.admin.ch/opc/fr/classified-compilation/20202070/index.html
-https://verfassungsblog.de/concentration-of-powers-in-the-federal-executive-the-application-of-emergency-powers-in-switzerland/
+ https://perma.cc/SC4F-83HV
 
-https://verfassungsblog.de/switzerland-and-the-Covid-19-pandemic-a-look-back-and-a-look-into-the-future/
-https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+
+https://perma.cc/V8T7-H39P
+
+
+https://perma.cc/9XVZ-2Z4T
+
+
+https://perma.cc/WRY3-8NY9
+
+
+https://perma.cc/ZY4S-K5UW
+
+
+https://perma.cc/2MHE-DCZD
 
 
 
@@ -452,16 +450,31 @@ https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/
 Ordinance 1, 2 and 3 were introduced and implemented without parliamentary approval, but the Swiss Parliament (Federal Assembly) passed on 25 September 2020 the Federal Covid-19 Act (Federal Act on the Statutory Principles for Federal Council Ordinances on Combating the COVID-19 Epidemic) which creates a legal basis allowing the Federal Council to maintain the measures resolved by emergency decree that are still necessary to manage the Covid-19 epidemic, i.e. it authorized the Federal Council’s use of special powers. While parliament approved the Act, it does not require parliamentary approval for measures to come into effect, and parliament cannot veto measures (although the government is required to present the measures to parliament, and consult parliamentary committees before executing them). Consequently, parliament has not been involved a lot in the Covid-19 response, and the measures have more or less all been taken by the government. At the same time, the legislation that underlies the ordinances and the Covid-19 Act does not allow for arbitrary interpretations of what are relevant measures for limiting the spread of Covid-19, nor have they powers to rule by decree more generally through this. Thus, the government has handled the Covid-19 response with fairly little influence from parliament, but the powers are limited to Covid-19 related issues. This is the case both under the period using the ordinances, and the periods when the Covid-19 Act came into effect. This is therefore coded 2 for all periods. 
 
 *Sources*:
- https://www.venice.coe.int/files/EmergencyPowersObservatory/SUI-E.htm
-https://fcilsis.wordpress.com/2020/11/18/european-legal-responses-to-Covid-19-switzerland/
-https://www.admin.ch/opc/fr/classified-compilation/20202070/index.html
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#S
-https://www.admin.ch/opc/fr/classified-compilation/20071012/index.html#a7
-https://www.constituteproject.org/constitution/Switzerland_2014.pdf?lang=en
-https://verfassungsblog.de/concentration-of-powers-in-the-federal-executive-the-application-of-emergency-powers-in-switzerland/
+ https://perma.cc/K6QV-S843
 
-https://verfassungsblog.de/switzerland-and-the-Covid-19-pandemic-a-look-back-and-a-look-into-the-future/
-https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+
+https://perma.cc/BW94-6CWJ
+
+
+https://perma.cc/9XJJ-DMAL
+
+
+https://perma.cc/ZVN8-YLXN
+
+
+https://perma.cc/54VX-A79Y
+
+
+https://perma.cc/PZ8Q-A4YL
+
+
+https://perma.cc/65C9-D63P
+
+
+https://perma.cc/6MCB-2TUL
+
+
+https://perma.cc/6W9B-BMT7
 
 
 
@@ -583,11 +596,19 @@ https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/
  Switzerland being a federal state grants a lot of independence to the cantons on how to issue regulations. Although the Ordinances containing the emergency measures were taken at the Federal level, there is still variation among the regions, Switzerland has had both a lot of nationwide emergency measures such as lockdowns and school closings, and emergency measures taken by the states such as curfews and varied timing of reopening. This has continued throughout the coded period, where national and sub-national measures have been in effect. This is therefore coded 2 for all periods. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-https://www.garda.com/crisis24/news-alert-full-history/sqd227zbeYFtufCtT/switzerland-first-coronavirus-confirmed-in-ticino-canton-february-25
-https://www.swissinfo.ch/eng/Covid-19-_-geneva-bans-gatherings-of-more-than-five-people-/45619940
-https://www.swissinfo.ch/eng/coronavirus-fallout_swiss-canton-orders-non-essential-industry-to-cease-production/45634594
-https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+ https://perma.cc/5M4B-BUPU
+
+
+https://perma.cc/BTJ5-4XJA
+
+
+https://perma.cc/V3RX-3J5U
+
+
+https://perma.cc/57B7-N6FD
+
+
+https://perma.cc/QT3U-PFL7
 
 
 
@@ -631,13 +652,16 @@ https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/
  Amnesty international, human rights watch and the US state department have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38510&resourceType=newsarticle&sort=date
+ https://perma.cc/DZ9J-JY93
 
-https://www.hrw.org/news?country%5B%5D=9626
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/switzerland/
+https://perma.cc/FFX7-YK9K
 
-https://www.amnesty.org/en/countries/europe-and-central-asia/switzerland/report-switzerland/
+
+https://perma.cc/W5F4-WBU6
+
+
+https://perma.cc/9F5V-GXS5
 
 
 
@@ -686,13 +710,16 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/switzerland/report-
  No reports have been found on any violations of non-derogable rights in the emergency measures 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38510&resourceType=newsarticle&sort=date
+ https://perma.cc/KJW5-BEJB
 
-https://www.hrw.org/news?country%5B%5D=9626
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/switzerland/
+https://perma.cc/D55V-JRJA
 
-https://www.amnesty.org/en/countries/europe-and-central-asia/switzerland/report-switzerland/
+
+https://perma.cc/8HC8-E2UT
+
+
+https://perma.cc/9FKE-42CL
 
 
 
@@ -736,12 +763,16 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/switzerland/report-
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Swiss Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B142%5D=142
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
+ https://perma.cc/HWF3-JJQH
 
-https://cpj.org/europe/switzerland/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/switzerland/
+https://perma.cc/L2LL-X5J9
+
+
+https://perma.cc/4W4B-2PZ3
+
+
+https://perma.cc/9EJW-66SA
 
 
 
@@ -780,9 +811,10 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/swi
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B142%5D=142
+ https://perma.cc/9BPV-UTV3
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
+
+https://perma.cc/TJ82-MU4W
 
 
 
@@ -821,11 +853,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
+ https://perma.cc/P3C8-8TPD
 
-https://rsf.org/en/thematique/internet?countries%5B142%5D=142
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
+https://perma.cc/5XPY-WMJ3
+
+
+https://perma.cc/JVL3-2QGY
 
 
 
@@ -867,12 +901,16 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Neither Reporters Without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Switzerland,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B142%5D=142
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
+ https://perma.cc/Z6HV-YU93
 
-https://cpj.org/europe/switzerland/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/switzerland/
+https://perma.cc/527G-94W2
+
+
+https://perma.cc/QAG5-ECU2
+
+
+https://perma.cc/AE32-89EJ
 
 
 
@@ -914,12 +952,16 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/swi
  Neither Reporters Without Borders nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in Switzerland,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B142%5D=142
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
+ https://perma.cc/Z6HV-YU93
 
-https://cpj.org/europe/switzerland/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/switzerland/
+https://perma.cc/527G-94W2
+
+
+https://perma.cc/QAG5-ECU2
+
+
+https://perma.cc/AE32-89EJ
 
 
 
@@ -961,12 +1003,16 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/swi
  Neither Reporters Without Borders nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in Switzerland and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B142%5D=142
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
+ https://perma.cc/Z6HV-YU93
 
-https://cpj.org/europe/switzerland/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/switzerland/
+https://perma.cc/527G-94W2
+
+
+https://perma.cc/QAG5-ECU2
+
+
+https://perma.cc/AE32-89EJ
 
 
 
@@ -1009,12 +1055,16 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/swi
  Neither Reporters Without Borders nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information, and there's no other indications of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B142%5D=142
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
+ https://perma.cc/HWF3-JJQH
 
-https://cpj.org/europe/switzerland/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/switzerland/
+https://perma.cc/L2LL-X5J9
+
+
+https://perma.cc/4W4B-2PZ3
+
+
+https://perma.cc/9EJW-66SA
 
 
 
@@ -1056,12 +1106,16 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/swi
  Neither Reporters Without Borders nor International Press Institute have reported any verbal harassment of journalists in Switzerland, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B142%5D=142
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
+ https://perma.cc/Z6HV-YU93
 
-https://cpj.org/europe/switzerland/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/switzerland/
+https://perma.cc/527G-94W2
+
+
+https://perma.cc/QAG5-ECU2
+
+
+https://perma.cc/AE32-89EJ
 
 
 
@@ -1103,12 +1157,16 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/swi
  Neither Reporters Without Borders nor International Press Institute have reported any physical harassment of journalists in Switzerland, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B142%5D=142
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
+ https://perma.cc/Z6HV-YU93
 
-https://cpj.org/europe/switzerland/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/switzerland/
+https://perma.cc/527G-94W2
+
+
+https://perma.cc/QAG5-ECU2
+
+
+https://perma.cc/AE32-89EJ
 
 
 
@@ -1152,11 +1210,10 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/swi
  There's no deviations from the information provided by WHO and that of the Swiss Government on Covid-19, and no complaints or accusations of any such disinformation have been found. 
 
 *Sources*:
- https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/krankheit-symptome-behandlung-ursprung.html
-
-https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/so-schuetzen-wir-uns.html
+ https://perma.cc/FL9P-WDKJ
 
 
+https://perma.cc/4JV3-YU4H
 
 
 
@@ -1200,15 +1257,19 @@ https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/
  Amnesty International, Human Rights wWatch and the US state department has not reported any violence by security forces when enforcing emergency measures, and there are no other indications of such violence occurring. Note that police have dispersed some protests against the Covid-19 restrictions were some force has been used such as tear gas, but this does not seem to be excessive force. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38510&resourceType=newsarticle&sort=date
+ https://perma.cc/D8FG-3DAH
 
-https://www.hrw.org/news?country%5B%5D=9626
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/switzerland/
+https://perma.cc/4KJ3-HRF4
 
-https://www.amnesty.org/en/countries/europe-and-central-asia/switzerland/report-switzerland/
 
-https://www.swissinfo.ch/eng/police-break-up-unauthorised-covid-demonstration-in-central-swiss-town/46521070
+https://perma.cc/BEX3-PQZ7
+
+
+https://perma.cc/L9ST-8B9K
+
+
+https://perma.cc/ZQ4Q-XBZE
 
 
 
@@ -1250,7 +1311,10 @@ https://www.swissinfo.ch/eng/police-break-up-unauthorised-covid-demonstration-in
  The Swiss military has been deployed to help out with Covid-19, but only in terms of logistic, health care and border control. They have not enforced any measures, and this is therefore coded 0. 
 
 *Sources*:
- http://euromil.org/armed-forces-and-Covid-19/
+ https://perma.cc/2N3A-VMRN
 
-https://www.swissinfo.ch/eng/swiss-army-ends-coronavirus-deployment/45870134
-https://www.ctvnews.ca/health/coronavirus/swiss-army-back-on-Covid-19-front-line-1.5180809
+
+https://perma.cc/DZ4R-68A5
+
+
+https://perma.cc/59XX-Y9A9

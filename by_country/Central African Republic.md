@@ -49,27 +49,20 @@
 Due to the security situation and the existence of rebel groups, a state of emergency was proclaimed on 21 January 2021 (extended until August 2021). A curfew is in force throughout the country, from 8 pm to 5 am. This is not related to the pandemic. 
 
 *Sources*:
- https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-centrafricaine/
+ [1]	perma.cc/7VDV-2GCJ
+[2]	perma.cc/FT98-8ZTL
+[3]	perma.cc/HYE5-P5GQ
+[4]	https://www.facebook.com/gouv.cf/photos/pcb.2594650120774731/2594650040774739/?type=3&theater
 
-https://cf.ambafrance.org/Informations-Coronavirus-Covid-19
-
-https://www.centrafrique-presse.info/article/13898/rca-covid-19-message-a-la-nation-de-son-excellence-le-professeur-faustin-archange-touadera-president-de-la-republique-chef-de-letat
-
-https://www.facebook.com/gouv.cf/photos/pcb.2594650120774731/2594650040774739/?type=3&theater
-
+[5]	
 https://www.facebook.com/gouv.cf/photos/pb.2107181279521620.-2207520000../2619835311589545/?type=3&theater
 
-https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19#C
-
-http://constitutionnet.org/news/covid-19-and-unamendable-limits-duration-presidential-and-legislative-terms-central-african
-
-https://www.garda.com/crisis24/news-alerts/432576/central-african-republic-authorities-maintain-minimal-covid-19-related-restrictions-as-of-jan-21-update-4
-
-https://www.garda.com/crisis24/news-alerts/477616/central-african-republic-nationwide-covid-19-restrictions-remain-largely-unchanged-as-of-may-12-update-8
-
-https://www.lemonde.fr/afrique/article/2021/01/22/etat-d-urgence-en-republique-centrafricaine-ou-l-emissaire-de-l-onu-veut-une-hausse-substantielle-des-casques-bleus_6067179_3212.html
-
-https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-centrafricaine/
+[6]	https://perma.cc/N6X2-J29Z
+[7]	perma.cc/B6AV-NBPT
+[8]	perma.cc/DRQ4-P3L4
+[9]	perma.cc/2D3G-Z3TA
+[10]	perma.cc/TG7M-ZHLT
+[11]	perma.cc/UKT4-DM4U
 
 
 
@@ -399,17 +392,18 @@ https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-desti
 ''On 5 June 2020, the Constitutional Court of the Central African Republic (CAR) rejected as unconstitutional a proposed constitutional amendment that would have allowed the extension of the duration of presidential and parliamentary terms in the case of 'force majeure'. The proposed amendment emerged in a context of the disruptions from the Covid-19 pandemic causing concerns over the timely organisation of presidential and legislative elections in December 2020 and March 2021, respectively.'' 
 
 *Sources*:
- International
-IDEA
-Parliaments
-during
-the
-pandemic
-http://constitutionnet.org/news/covid-19-and-unamendable-limits-duration-presidential-and-legislative-terms-central-african
-http://www.rfi.fr/fr/afrique/20200410-rca-coronavirus-idee-prolongement-mandat-touadera-polemique
+ [1]
+https://perma.cc/DJ79-NX47
+[2]
+perma.cc/EXC9-74B2
+[3]
+perma.cc/7DK7-V43Z
+[4]
 http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20March%2021-27.pdf
-https://www.africanews.com/2020/06/11/despite-covid-19-central-african-republic-court-says-polls-must-hold//
-http://www.rfi.fr/fr/afrique/20200419-centrafrique-rca-polemique-projet-loi-reforme-constitution-coronavirus
+[5]
+perma.cc/867T-K3QK
+[6]
+perma.cc/DQ8A-W2PY
 
 
 
@@ -533,19 +527,13 @@ http://www.rfi.fr/fr/afrique/20200419-centrafrique-rca-polemique-projet-loi-refo
 Most of these minimal measures are maintained by June 2021. 
 
 *Sources*:
- https://cf.ambafrance.org/Informations-Coronavirus-Covid-19
-
-https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-centrafricaine/
-
-https://www.ascleiden.nl/content/ascl-blogs/crepin-marius-mouguia/covid-19-central-african-republic-respecting-barriers
-
-https://www.africanews.com/2020/06/22/car-enforces-strict-measures-against-covid-19//
-
-https://www.centrafrique-presse.info/article/13898/rca-covid-19-message-a-la-nation-de-son-excellence-le-professeur-faustin-archange-touadera-president-de-la-republique-chef-de-letat
-
-https://www.garda.com/crisis24/news-alerts/477616/central-african-republic-nationwide-covid-19-restrictions-remain-largely-unchanged-as-of-may-12-update-8
-
-https://www.garda.com/crisis24/news-alerts/432576/central-african-republic-authorities-maintain-minimal-covid-19-related-restrictions-as-of-jan-21-update-4
+ [1]	perma.cc/6SXH-P9DM
+[2]	perma.cc/6X6J-8JU3
+[3]	perma.cc/P6XE-7VE9
+[4]	perma.cc/ZEG4-M669
+[5]	perma.cc/8LLB-CTJE
+[6]	perma.cc/B92C-W9R9
+[7]	perma.cc/Z7U2-Z4V6
 
 
 
@@ -589,15 +577,11 @@ https://www.garda.com/crisis24/news-alerts/432576/central-african-republic-autho
  No discrimination based on these rights. 
 
 *Sources*:
- https://www.ascleiden.nl/content/ascl-blogs/crepin-marius-mouguia/covid-19-central-african-republic-respecting-barriers
-
-https://reliefweb.int/report/central-african-republic/car-violence-against-women-surging-amid-covid-19-pandemic-study
-
-https://www.ituc-africa.org/Management-of-the-COVID-19-crisis-in-Central-Africa.html
-
-https://www.centrafrique-presse.info/article/13898/rca-covid-19-message-a-la-nation-de-son-excellence-le-professeur-faustin-archange-touadera-president-de-la-republique-chef-de-letat
-
-https://www.amnesty.org/en/latest/news/2021/04/subsaharan-africa-the-devastating-impact-of-conflicts-compounded/
+ [1]	perma.cc/9HRB-7EYY
+[2]	perma.cc/A45S-JZMC
+[3]	perma.cc/LZ88-VCD9
+[4]	perma.cc/GZ8D-CEAH
+[5]	perma.cc/9KW7-G9X4
 
 
 
@@ -646,18 +630,12 @@ https://www.amnesty.org/en/latest/news/2021/04/subsaharan-africa-the-devastating
  No violation of non-derogable rights in the context of Covid-19 measures. There are however many incidents of torture by the police and the military (1). 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/central-african-republic/
-(1)
-
-https://www.ascleiden.nl/content/ascl-blogs/crepin-marius-mouguia/covid-19-central-african-republic-respecting-barriers
-
-https://reliefweb.int/report/central-african-republic/car-violence-against-women-surging-amid-covid-19-pandemic-study
-
-https://www.ituc-africa.org/Management-of-the-COVID-19-crisis-in-Central-Africa.html
-
-https://www.centrafrique-presse.info/article/13898/rca-covid-19-message-a-la-nation-de-son-excellence-le-professeur-faustin-archange-touadera-president-de-la-republique-chef-de-letat
-
-https://www.amnesty.org/en/latest/news/2021/04/subsaharan-africa-the-devastating-impact-of-conflicts-compounded/
+ [1]	perma.cc/S3KV-F5F5
+[2]	perma.cc/A2DJ-MX4U
+[3]	perma.cc/NV6M-TYEW
+[4]	perma.cc/8QET-QKDH
+[5]	https://perma.cc/2KCV-45GS
+[6]	perma.cc/4BJ2-2DXC
 
 
 
@@ -701,11 +679,15 @@ https://www.amnesty.org/en/latest/news/2021/04/subsaharan-africa-the-devastating
  No evidence on media limitations found in the emergency measures. 
 
 *Sources*:
- https://cf.ambafrance.org/Informations-Coronavirus-Covid-19
-https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-centrafricaine/
-https://www.ascleiden.nl/content/ascl-blogs/crepin-marius-mouguia/covid-19-central-african-republic-respecting-barriers
-https://www.ituc-africa.org/Management-of-the-COVID-19-crisis-in-Central-Africa.html
-https://www.centrafrique-presse.info/article/13898/rca-covid-19-message-a-la-nation-de-son-excellence-le-professeur-faustin-archange-touadera-president-de-la-republique-chef-de-letathttps://www.facebook.com/gouv.cf/photos/pcb.2594650120774731/2594650040774739/?type=3&theater
+ [1]	perma.cc/DXH2-LVJS
+[2]	perma.cc/TN3M-VZV5
+[3]	perma.cc/52TQ-Y2TN
+[4]	perma.cc/GFH6-UCB6
+[5]	perma.cc/CHM8-KPSX
+
+[6]
+https://www.facebook.com/gouv.cf/photos/pcb.2594650120774731/2594650040774739/?type=3&theater
+[7]
 https://www.facebook.com/gouv.cf/photos/pb.2107181279521620.-2207520000../2619835311589545/?type=3&theater
 
 
@@ -828,15 +810,11 @@ https://www.facebook.com/gouv.cf/photos/pb.2107181279521620.-2207520000../261983
 ''As the CAR struggles to emerge from the violence of a civil war that saw radio stations ransacked and destroyed, journalists are still in danger from the various warring factions and attacks on the media continue, including a radio station ransacked in April 2020. Much of the country is not controlled by the state and the authorities are increasingly intolerant of criticism. Journalists who interview the various parties involved in the conflict are often treated as spies or as the accomplices of armed groups, and are often the targets of violence. This was seen again in 2019 when a policeman fired at a journalist in Bouar and violence was used to detain two French reporters in Bangui. The security environment during the presidential election in late 2020 was appalling. Some journalists were directly threatened. Others were pressured by being invited to “participate in the war effort” or by being forced to stay in the capital to cover the armed clashes taking place there. Disinformation campaigns, especially online ones, are increasing in scale and it is not unusual for responsible journalists and bloggers to be the targets of hate messages, defamation and attacks on social media. The vulnerable and easily-influenced print media publish little more than editorials, rumours and smear campaigns. Backed by Switzerland’s Fondation Hirondelle, Radio Ndeke Luka is one of the few media outlets providing properly-sourced reporting in a landscape scarred by years of conflict, but it is often subjected to pressure. When crimes of violence are committed against journalists, there is total impunity...'' (RSF) 
 
 *Sources*:
- https://en.ejo.ch/ethics-quality/central-african-republic-coronavirus-and-the-media
-
-https://rsf.org/en/central-african-republic
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+ [1]	perma.cc/DQ5S-QD5Y
+[2]	perma.cc/3X4U-8XHN
+[3]	perma.cc/XEV6-BE9E
+[4]	perma.cc/TJ4X-FEVF
+[5]	perma.cc/GR4T-Q8Q5
 
 
 
@@ -880,15 +858,11 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
 ''As the CAR struggles to emerge from the violence of a civil war that saw radio stations ransacked and destroyed, journalists are still in danger from the various warring factions and attacks on the media continue, including a radio station ransacked in April 2020. Much of the country is not controlled by the state and the authorities are increasingly intolerant of criticism. Journalists who interview the various parties involved in the conflict are often treated as spies or as the accomplices of armed groups, and are often the targets of violence. This was seen again in 2019 when a policeman fired at a journalist in Bouar and violence was used to detain two French reporters in Bangui. The security environment during the presidential election in late 2020 was appalling. Some journalists were directly threatened. Others were pressured by being invited to “participate in the war effort” or by being forced to stay in the capital to cover the armed clashes taking place there. Disinformation campaigns, especially online ones, are increasing in scale and it is not unusual for responsible journalists and bloggers to be the targets of hate messages, defamation and attacks on social media. The vulnerable and easily-influenced print media publish little more than editorials, rumours and smear campaigns. Backed by Switzerland’s Fondation Hirondelle, Radio Ndeke Luka is one of the few media outlets providing properly-sourced reporting in a landscape scarred by years of conflict, but it is often subjected to pressure. When crimes of violence are committed against journalists, there is total impunity...'' (RSF) 
 
 *Sources*:
- https://en.ejo.ch/ethics-quality/central-african-republic-coronavirus-and-the-media
-
-https://rsf.org/en/central-african-republic
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+ [1]	perma.cc/DQ5S-QD5Y
+[2]	perma.cc/3X4U-8XHN
+[3]	perma.cc/XEV6-BE9E
+[4]	perma.cc/TJ4X-FEVF
+[5]	perma.cc/GR4T-Q8Q5
 
 
 
@@ -930,15 +904,11 @@ https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african
  No incidents related to Covid-19 were found. 
 
 *Sources*:
- https://en.ejo.ch/ethics-quality/central-african-republic-coronavirus-and-the-media
-
-https://rsf.org/en/central-african-republic
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+ [1]	perma.cc/DQ5S-QD5Y
+[2]	perma.cc/3X4U-8XHN
+[3]	perma.cc/XEV6-BE9E
+[4]	perma.cc/TJ4X-FEVF
+[5]	perma.cc/GR4T-Q8Q5
 
 
 
@@ -984,12 +954,9 @@ Also, it is mentioned that the Central African Bloggers’ Association (ABCA) la
 ...the authorities are not so happy with this approach, as they cannot control it.  “They prefer a more institutional coverage, like you get on Guira FM [the radio station of the United Nations Integrated Multidimensional Stabilisation Mission in the CAR] or on the national radio station, known as the ‘mother radio’,” says one journalist who prefers not to be named. “If you want to go beyond the traditional press conference, you can have a real problem with gaining access to sources.”'' (2) 
 
 *Sources*:
- https://fr.ejo.ch/formats-pratiques/republique-centrafricaine-covid-19-menace-developpement-durable-medias-radio-afrique
-(1)
-https://en.ejo.ch/ethics-quality/central-african-republic-coronavirus-and-the-media
-(2)
-
-https://rsf.org/fr/republique-centrafricaine
+ [1]	perma.cc/VN8Y-3BML
+[2]	perma.cc/AJ5E-UY75
+[3]	perma.cc/3X8C-25N3
 
 
 
@@ -1034,19 +1001,12 @@ https://rsf.org/fr/republique-centrafricaine
  
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/central-african-republic/
-(1)
-
-https://rsf.org/en/central-african-republic
-
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-
-https://www.frontiersin.org/articles/10.3389/fcomm.2021.627214/full
+ [1]	perma.cc/D9G2-YP38
+[2]	perma.cc/55D4-DDT7
+[3]	perma.cc/9LKN-B3C3
+[4]	perma.cc/V7NH-CVSJ
+[5]	perma.cc/56L3-3T7S
+[6]	perma.cc/ZX5X-8V8V
 
 
 
@@ -1091,19 +1051,12 @@ https://www.frontiersin.org/articles/10.3389/fcomm.2021.627214/full
  
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/central-african-republic/
-(1)
-
-https://rsf.org/en/central-african-republic
-
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-
-https://www.frontiersin.org/articles/10.3389/fcomm.2021.627214/full
+ [1]	perma.cc/KFF6-WL7W
+[2]	perma.cc/DCJ5-BVQW
+[3]	perma.cc/H6GG-GL99
+[4]	perma.cc/3TTU-39J8
+[5]	perma.cc/8X66-UH55
+[6]	perma.cc/7VEA-3M5C
 
 
 
@@ -1149,8 +1102,8 @@ https://www.frontiersin.org/articles/10.3389/fcomm.2021.627214/full
 No evidence was found on whether the government changed its policy on the use of chloroquine after June 2020. We code as 0 for quarters after Q2 2020 because we no longer found reports of the government using or promoting chloroquine. We do not know if it continued in practice. 
 
 *Sources*:
- https://www.jeuneafrique.com/999318/societe/coronavirus-pourquoi-la-centrafrique-sattend-au-pire/
-(1)
+ [1]
+perma.cc/YZ7B-JUEU
 
 
 
@@ -1194,10 +1147,12 @@ No evidence was found on whether the government changed its policy on the use of
  No incidents found. There have been incidents of police violence but these are related to the 2020 elections and the security situation. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/central-african-republic/
-
-https://www.reuters.com/article/us-health-coronavirus-africa-police/in-parts-of-africa-police-are-accused-of-excess-force-amid-coronavirus-lockdowns-idUSKCN21S0M92
-https://www.un.org/press/fr/2020/cs14331.doc.htm
+ [1]
+perma.cc/9AY2-QTMZ
+[2]
+https://perma.cc/6PUT-9NHK
+[3]
+perma.cc/CTE5-6DK6
 
 
 
@@ -1239,6 +1194,5 @@ https://www.un.org/press/fr/2020/cs14331.doc.htm
  No indication of the military being involved in the enforcement of Covid-19 measures. 
 
 *Sources*:
- https://cf.ambafrance.org/Informations-Coronavirus-Covid-19
-
-https://www.africanews.com/2020/03/04/central-african-republic-recruits-1000-police-officers//
+ [1]	perma.cc/VT22-5MQ3
+[2]	perma.cc/QM3E-BGVM

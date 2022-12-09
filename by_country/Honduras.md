@@ -46,13 +46,13 @@
 
 *Sources*:
  [1]
-http://www.consejosecretariosdeestado.gob.hn/content/declaraci%C3%B3n-de-estado-de-emergencia-sanitaria
+https://web.archive.org/web/20200708210814/http://www.consejosecretariosdeestado.gob.hn/content/declaraci<97>n-de-estado-de-emergencia-sanitaria
 [2]
-http://www.consejosecretariosdeestado.gob.hn/content/suspenci%C3%B3n-de-garant%C3%ADas-constitucionales
+https://web.archive.org/web/20200708210737/http://www.consejosecretariosdeestado.gob.hn:80/content/suspenci<97>n-de-garant%C3%ADas-constitucionales
 [3]
-http://www.consejosecretariosdeestado.gob.hn/pcm-2020
+https://web.archive.org/web/20200509074051/http://www.consejosecretariosdeestado.gob.hn/pcm-2020
 [4]
-http://www.consejosecretariosdeestado.gob.hn/pcm-2021
+https://web.archive.org/web/20210127103954/http://www.consejosecretariosdeestado.gob.hn/pcm-2021
 
 
 
@@ -92,7 +92,7 @@ http://www.consejosecretariosdeestado.gob.hn/pcm-2021
 
 *Sources*:
  [1]
-https://pdba.georgetown.edu/Parties/Honduras/Leyes/constitucion.pdf
+perma.cc/3PE3-TMJ5
 
 
 
@@ -132,7 +132,7 @@ https://pdba.georgetown.edu/Parties/Honduras/Leyes/constitucion.pdf
 
 *Sources*:
  [1]
-http://www.consejosecretariosdeestado.gob.hn/content/suspenci%C3%B3n-de-garant%C3%ADas-constitucionales
+https://web.archive.org/web/20200708210737/http://www.consejosecretariosdeestado.gob.hn:80/content/suspenci<97>n-de-garant%C3%ADas-constitucionales
 
 
 
@@ -172,14 +172,13 @@ http://www.consejosecretariosdeestado.gob.hn/content/suspenci%C3%B3n-de-garant%C
 
 *Sources*:
  [1]
-http://www.consejosecretariosdeestado.gob.hn/pcm-2020
-
+https://web.archive.org/web/20200509074051/http://www.consejosecretariosdeestado.gob.hn/pcm-2020
 [2]
-http://www.consejosecretariosdeestado.gob.hn/pcm-2021
+https://web.archive.org/web/20210127103954/http://www.consejosecretariosdeestado.gob.hn/pcm-2021
 [3]
 http://www.consejosecretariosdeestado.gob.hn/content/prorroga-de-las-medidas-de-restricci%C3%B3n-de-derechos-fundamentales-del-26-de-abril-al-9-de
 [4]
-https://www.policianacional.gob.hn/comunicados/11709
+https://perma.cc/8TMT-BFK9
 
 
 
@@ -222,16 +221,15 @@ https://www.policianacional.gob.hn/comunicados/11709
 
 *Sources*:
  [1]
-https://pdba.georgetown.edu/Parties/Honduras/Leyes/constitucion.pdf
+perma.cc/3PE3-TMJ5
 [2]
-http://www.consejosecretariosdeestado.gob.hn/pcm-2020
-
+https://web.archive.org/web/20200509074051/http://www.consejosecretariosdeestado.gob.hn/pcm-2020
 [3]
-http://www.consejosecretariosdeestado.gob.hn/pcm-2021
+https://web.archive.org/web/20210127103954/http://www.consejosecretariosdeestado.gob.hn/pcm-2021
 [4]
 http://www.consejosecretariosdeestado.gob.hn/content/prorroga-de-las-medidas-de-restricci%C3%B3n-de-derechos-fundamentales-del-26-de-abril-al-9-de
-[5]
-https://www.policianacional.gob.hn/comunicados/11709
+[2]
+perma.cc/K5SL-YVPD
 
 
 
@@ -271,16 +269,15 @@ https://www.policianacional.gob.hn/comunicados/11709
 
 *Sources*:
  [1]
-https://pdba.georgetown.edu/Parties/Honduras/Leyes/constitucion.pdf
+perma.cc/3PE3-TMJ5
 [2]
-http://www.consejosecretariosdeestado.gob.hn/pcm-2020
-
+https://web.archive.org/web/20200509074051/http://www.consejosecretariosdeestado.gob.hn/pcm-2020
 [3]
-http://www.consejosecretariosdeestado.gob.hn/pcm-2021
+https://web.archive.org/web/20210127103954/http://www.consejosecretariosdeestado.gob.hn/pcm-2021
 [4]
 http://www.consejosecretariosdeestado.gob.hn/content/prorroga-de-las-medidas-de-restricci%C3%B3n-de-derechos-fundamentales-del-26-de-abril-al-9-de
 [5]
-https://www.policianacional.gob.hn/comunicados/11709
+perma.cc/K5SL-YVPD
 
 
 
@@ -323,7 +320,7 @@ https://www.policianacional.gob.hn/comunicados/11709
 
 *Sources*:
  [1]
-https://pdba.georgetown.edu/Parties/Honduras/Leyes/constitucion.pdf
+perma.cc/3PE3-TMJ5
 
 
 
@@ -366,7 +363,7 @@ https://pdba.georgetown.edu/Parties/Honduras/Leyes/constitucion.pdf
 
 *Sources*:
  [1]
-https://www.tsc.gob.hn/web/leyes/Decreto-32-2020.pdf
+perma.cc/L4Z3-AFJ7
 
 
 
@@ -413,11 +410,9 @@ https://www.tsc.gob.hn/web/leyes/Decreto-32-2020.pdf
 
 *Sources*:
  [1]
-http://www.congresonacional.hn/
+perma.cc/EMV6-YQWJ
 [2]
-http://www.consejosecretariosdeestado.gob.hn/pcm-2020
-[3]
-http://www.consejosecretariosdeestado.gob.hn/pcm-2020
+https://web.archive.org/web/20200509074051/http://www.consejosecretariosdeestado.gob.hn/pcm-2020
 
 
 
@@ -540,20 +535,18 @@ http://www.consejosecretariosdeestado.gob.hn/pcm-2020
 
 *Sources*:
  [1]
-https://www.laprensa.hn/honduras/1388142-410/cierran-mercados-honduras-focos-contagio-covid-19-
-
+perma.cc/TL2M-S4GQ
 [2]
-https://www.diez.hn/coronavirus/1388127-441/segunda-fase-apertura-inteligente-reactivacion-economica-suspenso-coronavirus-honduras
+perma.cc/JZQ4-XQ5U
 [3]
 http://www.consejosecretariosdeestado.gob.hn/content/pr%C3%B3rroga-de-las-medidas-de-restricci%C3%B3n-de-derechos-fundamentales-del-24-de-agosto-hasta-el-6
 
 [4]
-http://www.consejosecretariosdeestado.gob.hn/content/pr%C3%B3rroga-de-las-medidas-de-restricci%C3%B3n-derechos-fundamentales-partir-del-12-al-18-de-octubre
-
+https://web.archive.org/web/20211021013629/http://consejosecretariosdeestado.gob.hn/content/pr<97>rroga-de-las-medidas-de-restricci<97>n-derechos-fundamentales-partir-del-12-al-18-de-octubre
 [5]
-https://www.elheraldo.hn/pais/1462800-466/extienden-toque-queda-honduras-restricciones-contagios-covid-pandemia-medidas
+perma.cc/3V2R-ZMPG
 [6]
-https://presidencia.gob.hn/press/blog-node/salud-anuncia-medidas-ante-incremento-de-casos-de-covid-19-en-el-para%C3%ADso
+https://web.archive.org/web/20210614235918/https://presidencia.gob.hn/press/blog-node/salud-anuncia-medidas-ante-incremento-de-casos-de-covid-19-en-el-para%C3%ADso
 
 
 
@@ -598,12 +591,11 @@ https://presidencia.gob.hn/press/blog-node/salud-anuncia-medidas-ante-incremento
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/honduras/
-
+perma.cc/B5U5-US5V
 [2]
-https://www.hrw.org/americas/honduras
+perma.cc/XD4Q-XXN6
 [3]
-https://monitor.civicus.org/country/honduras/
+perma.cc/B9M7-Q8QH
 
 
 
@@ -653,11 +645,11 @@ https://monitor.civicus.org/country/honduras/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/honduras/
+perma.cc/Z9G8-PU6Z
 [2]
-https://www.hrw.org/americas/honduras
+perma.cc/W5PX-K3VM
 [3]
-https://monitor.civicus.org/country/honduras/
+perma.cc/Q66S-9C9J
 
 
 
@@ -702,14 +694,13 @@ https://monitor.civicus.org/country/honduras/
 
 *Sources*:
  [1]
-http://www.consejosecretariosdeestado.gob.hn/content/suspenci%C3%B3n-de-garant%C3%ADas-constitucionales
-
+https://web.archive.org/web/20200708210737/http://www.consejosecretariosdeestado.gob.hn:80/content/suspenci<97>n-de-garant%C3%ADas-constitucionales
 [2]
-https://monitor.civicus.org/updates/2020/05/22/honduras-undue-restrictions-expression-and-police-abuse-emergency-powers-during-covid-19/
+perma.cc/A2M7-PYUW
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/44YK-6FWE
 [4]
-http://www.consejosecretariosdeestado.gob.hn/system/files_force/PCM%20022-2020.pdf
+https://web.archive.org/web/20200924052903/http://www.consejosecretariosdeestado.gob.hn/system/files_force/PCM%20022-2020.pdf
 
 
 
@@ -749,14 +740,13 @@ http://www.consejosecretariosdeestado.gob.hn/system/files_force/PCM%20022-2020.p
 
 *Sources*:
  [1]
-http://www.consejosecretariosdeestado.gob.hn/content/suspenci%C3%B3n-de-garant%C3%ADas-constitucionales
-
+https://web.archive.org/web/20200708210737/http://www.consejosecretariosdeestado.gob.hn:80/content/suspenci<97>n-de-garant%C3%ADas-constitucionales
 [2]
-https://monitor.civicus.org/updates/2020/05/22/honduras-undue-restrictions-expression-and-police-abuse-emergency-powers-during-covid-19/
+perma.cc/A2M7-PYUW
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/44YK-6FWE
 [4]
-http://www.consejosecretariosdeestado.gob.hn/system/files_force/PCM%20022-2020.pdf
+https://web.archive.org/web/20200924052903/http://www.consejosecretariosdeestado.gob.hn/system/files_force/PCM%20022-2020.pdf
 
 
 
@@ -796,14 +786,13 @@ http://www.consejosecretariosdeestado.gob.hn/system/files_force/PCM%20022-2020.p
 
 *Sources*:
  [1]
-http://www.consejosecretariosdeestado.gob.hn/content/suspenci%C3%B3n-de-garant%C3%ADas-constitucionales
-
+https://web.archive.org/web/20200708210737/http://www.consejosecretariosdeestado.gob.hn:80/content/suspenci<97>n-de-garant%C3%ADas-constitucionales
 [2]
-https://monitor.civicus.org/updates/2020/05/22/honduras-undue-restrictions-expression-and-police-abuse-emergency-powers-during-covid-19/
+perma.cc/A2M7-PYUW
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/44YK-6FWE
 [4]
-http://www.consejosecretariosdeestado.gob.hn/system/files_force/PCM%20022-2020.pdf
+https://web.archive.org/web/20200924052903/http://www.consejosecretariosdeestado.gob.hn/system/files_force/PCM%20022-2020.pdf
 
 
 
@@ -846,16 +835,15 @@ http://www.consejosecretariosdeestado.gob.hn/system/files_force/PCM%20022-2020.p
 
 *Sources*:
  [1]
-http://www.consejosecretariosdeestado.gob.hn/content/suspenci%C3%B3n-de-garant%C3%ADas-constitucionales
-
+https://web.archive.org/web/20200708210737/http://www.consejosecretariosdeestado.gob.hn:80/content/suspenci<97>n-de-garant%C3%ADas-constitucionales
 [2]
-https://monitor.civicus.org/updates/2020/05/22/honduras-undue-restrictions-expression-and-police-abuse-emergency-powers-during-covid-19/
+perma.cc/A2X6-RGZB
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/Q32E-Q8PG
 [4]
-https://ipi.media/hondurass-enduring-press-freedom-crisis/
+perma.cc/TAW5-Z74V
 [5]
-https://rsf.org/en/honduras
+perma.cc/TG2V-566W
 
 
 
@@ -898,16 +886,15 @@ https://rsf.org/en/honduras
 
 *Sources*:
  [1]
-http://www.consejosecretariosdeestado.gob.hn/content/suspenci%C3%B3n-de-garant%C3%ADas-constitucionales
-
+https://web.archive.org/web/20200708210737/http://www.consejosecretariosdeestado.gob.hn:80/content/suspenci<97>n-de-garant%C3%ADas-constitucionales
 [2]
-https://monitor.civicus.org/updates/2020/05/22/honduras-undue-restrictions-expression-and-police-abuse-emergency-powers-during-covid-19/
+perma.cc/A2X6-RGZB
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/Q32E-Q8PG
 [4]
-https://ipi.media/hondurass-enduring-press-freedom-crisis/
+perma.cc/TAW5-Z74V
 [5]
-https://rsf.org/en/honduras
+perma.cc/TG2V-566W
 
 
 
@@ -950,14 +937,13 @@ https://rsf.org/en/honduras
 
 *Sources*:
  [1]
-http://www.consejosecretariosdeestado.gob.hn/content/suspenci%C3%B3n-de-garant%C3%ADas-constitucionales
-
+https://web.archive.org/web/20200708210737/http://www.consejosecretariosdeestado.gob.hn:80/content/suspenci<97>n-de-garant%C3%ADas-constitucionales
 [2]
-https://monitor.civicus.org/updates/2020/05/22/honduras-undue-restrictions-expression-and-police-abuse-emergency-powers-during-covid-19/
+perma.cc/A2M7-PYUW
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/44YK-6FWE
 [4]
-http://www.consejosecretariosdeestado.gob.hn/system/files_force/PCM%20022-2020.pdf
+https://web.archive.org/web/20200924052903/http://www.consejosecretariosdeestado.gob.hn/system/files_force/PCM%20022-2020.pdf
 
 
 
@@ -1001,21 +987,19 @@ http://www.consejosecretariosdeestado.gob.hn/system/files_force/PCM%20022-2020.p
 
 *Sources*:
  [1]
-http://www.consejosecretariosdeestado.gob.hn/content/suspenci%C3%B3n-de-garant%C3%ADas-constitucionales
-
+https://web.archive.org/web/20200708210737/http://www.consejosecretariosdeestado.gob.hn:80/content/suspenci<97>n-de-garant%C3%ADas-constitucionales
 [2]
-https://monitor.civicus.org/updates/2020/05/22/honduras-undue-restrictions-expression-and-police-abuse-emergency-powers-during-covid-19/
+perma.cc/A2M7-PYUW
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/44YK-6FWE
 [4]
-http://www.consejosecretariosdeestado.gob.hn/system/files_force/PCM%20022-2020.pdf
+https://web.archive.org/web/20200924052903/http://www.consejosecretariosdeestado.gob.hn/system/files_force/PCM%20022-2020.pdf
+[4]
+perma.cc/KS5C-KJ99
 [5]
-https://ipi.media/alerts/regional-official-in-honduras-issues-order-blocking-medical-personnel-from-providing-official-information-about-the-covid-19-epidemic/
+perma.cc/H7BY-X36C
 [6]
-https://ipi.media/alerts/journalists-blocked-from-covering-arrival-of-mobile-hospitals-in-honduras/
-
-[7]
-https://ipi.media/alerts/honduran-military-forces-journalist-to-leave-hospital-construction-site/
+perma.cc/NS5F-5ZTU
 
 
 
@@ -1058,9 +1042,9 @@ https://ipi.media/alerts/honduran-military-forces-journalist-to-leave-hospital-c
 
 *Sources*:
  [1]
-https://ipi.media/alerts/top-honduran-health-official-insults-journalist-at-press-conference-following-critical-questions-about-covid-19-funds/
+perma.cc/4R8K-D3UF
 [2]
-https://ipi.media/alerts/honduran-journalist-receives-death-threat-from-police-officer-after-covering-cases-of-covid-19-in-the-national-police/
+perma.cc/ZTT2-4FNV
 
 
 
@@ -1103,7 +1087,7 @@ https://ipi.media/alerts/honduran-journalist-receives-death-threat-from-police-o
 
 *Sources*:
  [1]
-https://ipi.media/alerts/honduran-police-seize-journalists-mobile-phone-during-live-critical-report-on-covid-19-funds/
+perma.cc/5DS3-47QG
 
 
 
@@ -1148,7 +1132,7 @@ https://ipi.media/alerts/honduran-police-seize-journalists-mobile-phone-during-l
 
 *Sources*:
  [1]
-https://covid19honduras.org/
+https://web.archive.org/web/20200311224844/https://covid19honduras.org/
 
 
 
@@ -1193,23 +1177,23 @@ https://covid19honduras.org/
 
 *Sources*:
  [1]
-http://defensoresenlinea.com/wp-content/uploads/2020/04/INFORME-COFADEH-DDHH-Y-COVID-19-1.pdf
+perma.cc/28RA-BNXG
 [2]
-https://monitor.civicus.org/updates/2020/05/22/honduras-undue-restrictions-expression-and-police-abuse-emergency-powers-during-covid-19/
+perma.cc/R6GA-8VWC
 [3]
-https://oacnudh.hn/oacnudh-llama-a-que-las-autoridades-investiguen-denuncias-de-uso-excesivo-de-la-fuerza-y-tomen-medidas-para-prevenir-su-repeticion/
+perma.cc/WX4A-W46F
 [4]
-https://www.dw.com/es/polic%C3%ADa-de-honduras-lanza-gas-lacrim%C3%B3geno-en-un-bus-lleno-de-personas/a-54563771
+perma.cc/UM5R-DB28
 [5]
-https://www.bbc.com/mundo/noticias-america-latina-54257555
+perma.cc/LW26-75RE
 [6]
-https://www.eldiario.es/desalambre/trabajadoras-atacadas-iban-tejer-mascarillas-orden-gobierno-hondureno-atacadas-policia-senti-saldriamos-volando-pedazos_130_6474480.html
+perma.cc/8F5A-483G
 [7]
-https://www.bbc.com/mundo/noticias-america-latina-56004728
+perma.cc/NKL9-GH97
 [8]
-https://www.amnesty.org/en/latest/news/2021/02/honduras-muerte-keyla-martinez-exige-investigacion-exhaustiva/
+perma.cc/73UV-S5EM
 [9]
-https://www.france24.com/en/live-news/20210212-global-calls-to-probe-violent-death-of-honduras-nurse-5-others
+perma.cc/3DDT-BL69
 
 
 
@@ -1252,12 +1236,10 @@ https://www.france24.com/en/live-news/20210212-global-calls-to-probe-violent-dea
 
 *Sources*:
  [1]
-https://www.coronanet-project.org/data/reports/finished/20200612_Honduras.html
+perma.cc/JN8R-C7S2
 [2]
-https://www.efe.com/efe/america/sociedad/mas-de-6-000-detenidos-en-honduras-por-incumplir-el-toque-queda-covid-19/20000013-4217796
-
+perma.cc/V6TE-RE4Q
 [3]
-https://www.infobae.com/america/america-latina/2020/06/29/el-insolito-video-de-las-fuerzas-armadas-de-honduras-en-redes-sociales-para-advertir-a-la-poblacion-sobre-las-violaciones-al-aislamiento/
-
+perma.cc/HS9D-NJ5N
 [4]
-https://www.policianacional.gob.hn/comunicados/11709
+perma.cc/Y5MA-JDW4

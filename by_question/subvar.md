@@ -26,9 +26,13 @@
 As of May 7 2021, the COVID-19-related restrictions in force in Afghanistan remain largely unchanged by comparison with those in place during the first week of April 2021. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/476146/afghanistan-covid-19-related-measures-remain-largely-unchanged-as-of-may-7-by-comparison-with-those-in-effect-during-early-april-update-15
+ https://perma.cc/5E6J-5J3B
 
-https://www.garda.com/crisis24/news-alerts/465531/afghanistan-officials-continue-some-covid-19-measures-as-of-april-11-update-14
+
+
+
+
+https://perma.cc/GK25-P6CY
 
 
 
@@ -53,15 +57,49 @@ https://www.garda.com/crisis24/news-alerts/465531/afghanistan-officials-continue
  Initial measures were the same for the whole country. The easing of restrictions varies depending on the municipality, with some municipalities designated as "green areas" from 27 April in the first wave and from 4 May in the second wave. Separation of the areas into low and high risk areas ended by 1 June 2020. No new information on subnational variation found since June 2020. 
 
 *Sources*:
- https://www.kryeministria.al/newsroom/hapja-ne-zonat-e-gjelberta-faze-pilotimi-ne-zonat-me-rrezik-te-ulet-te-perhapjes-se-infeksionit/
-https://www.kryeministria.al/newsroom/plani-i-ri-i-masave-lehtesuese-ne-11-maj-nis-faza-e-dyte-e-rihapjes/
-https://www.oecd.org/south-east-europe/COVID-19-Crisis-in-Albania.pdf
+ https://perma.cc/MPG3-EE58
 
-https://www.garda.com/crisis24/news-alerts/464806/albania-authorities-maintain-domestic-covid-19-related-restrictions-as-of-april-8-update-21
-https://www.garda.com/crisis24/news-alerts/474421/albania-domestic-covid-19-restrictions-remain-in-place-nationwide-as-of-may-3-international-entry-controls-lifted-update-24
-https://www.garda.com/crisis24/news-alerts/441496/albania-authorities-tighten-domestic-covid-19-related-restrictions-through-at-least-feb-25-update-20
-https://www.garda.com/crisis24/news-alerts/406021/albania-authorities-extend-covid-19-restriction-indefinitely-as-of-december-2-update-18
-https://www.garda.com/crisis24/news-alerts/383746/albania-authorities-to-ease-some-covid-19-restrictions-from-october-1-update-15
+
+
+
+
+https://perma.cc/9WFQ-MUAH
+
+
+
+
+
+https://perma.cc/642X-B7EF
+
+
+
+
+
+https://perma.cc/FX29-5CYL
+
+
+
+
+
+https://perma.cc/5XNJ-ZFWQ
+
+
+
+
+
+https://perma.cc/79MC-9GPF
+
+
+
+
+
+https://perma.cc/8K7L-QA8C
+
+
+
+
+
+https://perma.cc/9XQV-H5XP
 
 
 
@@ -86,30 +124,30 @@ https://www.garda.com/crisis24/news-alerts/383746/albania-authorities-to-ease-so
  The lockdown and curfew have varied subnationally throughout all periods. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/486231/algeria-authorities-extend-nightly-curfew-in-multiple-provinces-through-at-least-june-20-to-combat-covid-19-update-7
+ https://perma.cc/6LVU-2N27
 (1)
 
-https://www.observalgerie.com/2021/05/20/la-une/le-couvre-feu-nocturne-prolonge-pour-un-mois-en-algerie/
+https://perma.cc/NGZ8-BTDQ
 
-https://www.agenceecofin.com/transports/2005-88385-lalgerie-renonce-a-son-plan-de-reouverture-des-frontieres-terrestres
+https://perma.cc/4UGB-Y592
 
-https://www.tsa-algerie.com/alerte-covid-19-le-couvre-feu-nocturne-reinstaure-dans-10-wilayas/
+https://perma.cc/55J5-ACEP
 
-https://lepetitjournal.com/alger/covid-19-reconduction-couvre-feu-neuf-wilayas-algerie-303013
+https://perma.cc/7FXP-CKBK
 
-https://www.algerie-eco.com/2021/03/30/le-confinement-a-domicile-prolonge-dans-9-wilayas-les-horaires-du-couvre-feu-alleges/
+https://perma.cc/5Z6A-KKCR
 
-https://www.aps.dz/algerie/116945-covid-19-reamenagement-des-horaires-de-confinement-partiel-a-alger
+https://perma.cc/9R7E-LVGY
 
-https://www.francetvinfo.fr/monde/afrique/societe-africaine/covid-19-l-algerie-allege-ses-mesures-de-restriction_4281899.html
+https://perma.cc/5DZK-669Q
 
-https://www.lemonde.fr/afrique/article/2020/11/09/coronavirus-l-algerie-durcit-les-mesures-de-confinement_6059066_3212.html
+https://perma.cc/5PAV-6TBU
 
-https://www.garda.com/crisis24/news-alerts/399901/algeria-authorities-extend-covid-19-restrictions-until-december-2-update-29
+https://perma.cc/9873-FYES
 
-https://www.garda.com/crisis24/news-alerts/400581/authorities-reimpose-covid-19-restrictions-nationwide-november-17
+https://perma.cc/6Z8L-GAKB
 
-https://www.garda.com/crisis24/news-alerts/405721/algeria-authorities-extend-nightly-curfew-until-december-16-update-31
+https://perma.cc/A9BQ-YR56
 
 
 
@@ -134,11 +172,15 @@ https://www.garda.com/crisis24/news-alerts/405721/algeria-authorities-extend-nig
  There are sanitary barriers in Luanda and Kwanza Norte to avoid spreading the coronavirus and mutations to other cities and regions. 
 
 *Sources*:
- https://www.dw.com/pt-002/covid-19-angola-aperta-regras-para-travar-aumento-de-casos/a-57367944
-https://www.angop.ao/noticias/sociedade/covid-19-luanda-continua-sob-cerca-sanitaria/
-http://jornaldeangola.sapo.ao/sociedade/covid-19-luanda-comeca-nova-fase-da-cerca-sanitaria
-https://www.dw.com/pt-002/covid-19-cerca-sanit%C3%A1ria-renovada-em-luanda-mas-viola%C3%A7%C3%B5es-persistem/a-53954334
-https://www.angop.ao/noticias/sociedade/covid-19-angola-vive-sexto-periodo-de-calamidade-publica/
+ https://perma.cc/UV2M-JRQJ
+
+https://perma.cc/4VGD-ZSPF
+
+https://web.archive.org/web/20200610011653/http://jornaldeangola.sapo.ao/sociedade/covid-19-luanda-comeca-nova-fase-da-cerca-sanitaria
+
+https://perma.cc/2TEF-3SYE
+
+https://perma.cc/6R8U-6N5Q
 
 
 
@@ -164,17 +206,22 @@ https://www.angop.ao/noticias/sociedade/covid-19-angola-vive-sexto-periodo-de-ca
 
 *Sources*:
  [1]
-http://servicios.infoleg.gob.ar/infolegInternet/anexos/335000-339999/338406/norma.htm
+https://perma.cc/Q3NR-7CWP
+
 [2]
-https://www.boletinoficial.gob.ar/detalleAviso/primera/234257/20200831
+https://perma.cc/YY6T-F6AC
+
 [3]
-https://www.boletinoficial.gob.ar/detalleAviso/primera/237062/20201107
+https://perma.cc/RS62-ERNZ
+
 [4]
-https://www.argentina.gob.ar/normativa/nacional/decreto-287-2021-349492
+https://perma.cc/9HBQ-F9UF
+
 [5]
-https://www.argentina.gob.ar/normativa/nacional/decreto-334-2021-350159/texto
+https://perma.cc/E8NK-4RFL
+
 [6]
-https://argentina.as.com/argentina/2021/06/07/actualidad/1623056315_266705.html
+https://perma.cc/EJL4-MWK9
 
 
 
@@ -199,11 +246,15 @@ https://argentina.as.com/argentina/2021/06/07/actualidad/1623056315_266705.html
  Uniform measures throughout the country. No new information found since June 2020. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/470286/armenia-authorities-continue-to-enforce-international-entry-and-domestic-restrictions-due-to-covid-19-as-of-april-22-update-13
-https://www.garda.com/crisis24/news-alerts/447216/armenia-authorities-continue-to-enforce-international-entry-and-domestic-restrictions-due-to-covid-19-as-of-feb-24-update-11
-https://www.garda.com/crisis24/news-alerts/434116/armenia-authorities-enforcing-international-covid-19-entry-restrictions-as-of-jan-25-update-10
-https://www.arlis.am/DocumentView.aspx?docid=140631
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B371%5D&covid19=1
+ https://perma.cc/TL4N-RHFU
+
+https://perma.cc/JPV8-RRKA
+
+https://perma.cc/25JR-FPXB
+
+https://perma.cc/MLY7-A9EZ
+
+https://perma.cc/F39L-ESD6
 
 
 
@@ -228,13 +279,15 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B37
  While it is the states and territories that enforce and control many of the emergency measures, the Australian government set up the National Cabinet (the federal government and all state and territories cooperation unit) to coordinate and integrate the response to Covid-19. In the first two quarters, the variation due to this was fairly small. For instance, there have been differences in how many people you can invite to your home, how many that are allowed to gather outdoors etc., but these variations have not been substantial and for those that have had comparatively relaxed restrictions, these have still been accompanied by strict requirements for keeping distance etc. Therefore, this is coded as 1 for all these periods. Since then, however, the response has been a bit more heterogenous based on the number of cases, available hospital beds etc. in each state. The states have, for instance, ordered shorter lockdowns at different times and in different ways. Still, the National Cabinet continues to coordinate a lot of work, for instance administrating and rolling out the national vaccination program. Thus, for the Q4 in 2020 and Q1 and Q2 in 2021, this is coded as 2. 
 
 *Sources*:
- :
-https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/government-response-to-the-Covid-19-outbreak
-https://www.acaps.org/covid19-government-measures-dataset
+ https://perma.cc/BVC7-AQPR
 
-https://www.theguardian.com/australia-news/2021/feb/15/australia-covid-19-lockdown-rules-coronavirus-restrictions-by-state-nsw-victoria-vic-queensland-qld-western-south-australia-wa-sa-nt-act-travel-border-social-distancing-masks
-https://www.healthdirect.gov.au/covid19-restriction-checker/activity
-https://www.pm.gov.au/media/national-cabinet-4
+https://perma.cc/WB3G-2KCL
+
+https://perma.cc/H8NN-D9VG
+
+https://perma.cc/A59W-RPKQ
+
+https://perma.cc/X79B-GQPC
 
 
 
@@ -259,11 +312,31 @@ https://www.pm.gov.au/media/national-cabinet-4
  From the policy responses recorded by ACAPS, there is some smaller variation in measures taken between different states in the federation. However, the main emergency measures are decided and enacted at the federal level. In the second quarter of 2021, the restrictions have been more specific. While some have been country-wide, such as night-time curfews, extra lockdown measures have been implemented or extended in only parts of the country. This is therefore a larger, sub-national variation, and coded 2 for this period. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-https://www.austria.info/en/service-and-facts/coronavirus-information
-https://www.garda.com/crisis24/news-alerts/466186/austria-authorities-extend-Covid-19-lockdown-in-vienna-until-may-2-update-31
-https://www.garda.com/crisis24/news-alerts/462476/austria-local-authorities-extend-Covid-19-lockdowns-until-april-11-in-lower-austria-and-burgenland-update-28
-https://www.garda.com/crisis24/news-alerts/467001/austria-authorities-extend-Covid-19-lockdown-in-lower-austria-until-may-2-update-32
+ https://perma.cc/M937-C5H5
+
+
+
+
+
+https://perma.cc/W87D-BE32
+
+
+
+
+
+https://perma.cc/84GQ-ZEG8
+
+
+
+
+
+https://perma.cc/59A6-YPZT
+
+
+
+
+
+https://perma.cc/V6BB-KAYQ
 
 
 
@@ -296,24 +369,18 @@ Q1 2021: travel out of major cities was restricted in January.
 Q2 2021: I found no measures on a subnational level in this period. 
 
 *Sources*:
- https://az.usembassy.gov/covid-19-information-for-azerbaijan/
+ https://perma.cc/QH8S-RM6E
+https://perma.cc/J7UH-BULT
 
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B373%5D&covid19=1
-
-https://koronavirusinfo.az/files/3/6ceec44f5ef866f869d1dfaf8771e393.pdf
-https://nk.gov.az/az/article/1175/
-https://koronavirusinfo.az/files/3/3d36b003400a8ee419bfc5cf4a6d9273.pdf
-https://koronavirusinfo.az/files/3/15a662a3ba39a688fb1b210c4dcee28e.pdf
-https://koronavirusinfo.az/az/post/454
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/
-https://www.garda.com/crisis24/news-alerts/410121/azerbaijan-authorities-extend-strict-covid-19-related-quarantine-regime-measures-in-several-areas-until-dec-14-update-24
-
-
-https://www.garda.com/crisis24/news-alerts/430716/azerbaijan-authorities-extend-national-quarantine-until-at-least-april-1-certain-restrictions-eased-update-26
-
-https://www.garda.com/crisis24/news-alerts/458426/azerbaijan-authorities-extend-national-quarantine-until-at-least-june-1-update-28
-
-https://www.garda.com/crisis24/news-alerts/482861/azerbaijan-authorities-maintaining-covid-19-related-restrictions-as-of-may-25-update-30
+https://perma.cc/ZM8B-Y9KM
+https://perma.cc/MC95-J9NN
+https://perma.cc/N2FK-U872
+https://perma.cc/R62U-SCEM
+https://perma.cc/KG8A-EV37
+https://perma.cc/P9VV-RYZB
+https://perma.cc/Y83M-TLZG
+https://perma.cc/JA8Q-ZWD3
+https://perma.cc/Z3S8-UBVY
 
 
 
@@ -340,19 +407,37 @@ https://www.garda.com/crisis24/news-alerts/482861/azerbaijan-authorities-maintai
 The lockdown in April 2021 in Bangladesh was imposed on a national level. 
 
 *Sources*:
- https://verfassungsblog.de/bangladeshs-unofficial-emergency-managing-the-covid-19-crisis-by-notifications/
-
-https://www.aa.com.tr/en/asia-pacific/covid-19-bangladesh-extends-lockdown-until-may-30/1840126
-
-https://www.india.com/news/world/bangladesh-govt-decides-not-to-extend-covid-19-shutdown-4042581/
+ https://perma.cc/5Z2U-4DYY
 
 
-https://tbsnews.net/coronavirus-chronicle/covid-19-bangladesh/general-holiday-not-extend-further-state-minister-85870
-
-https://www.dhakatribune.com/bangladesh/2021/04/20/lockdown-extended-till-april-28-as-covid-deaths-continue-to-rise-2
 
 
-https://www.thedailystar.net/bangladesh/news/stricter-weeklong-lockdown-april-22-state-minister-2080045
+
+https://perma.cc/6X8Z-QDVF
+
+
+
+
+
+https://perma.cc/UED9-9KC6
+
+
+
+
+
+https://perma.cc/3PJE-TF5M
+
+
+
+
+
+https://perma.cc/C6JZ-JXET
+
+
+
+
+
+https://perma.cc/QZM2-P5ZB
 
 
 
@@ -377,13 +462,14 @@ https://www.thedailystar.net/bangladesh/news/stricter-weeklong-lockdown-april-22
  Almost uniform measures in the whole country. Since November 2020, some regions introduced mandatory mask wearing, but otherwise the measures do not vary regionally. 
 
 *Sources*:
- https://pravo.by/document/?guid=12551&p0=C22000208&p1=1&p5=0
-http://www.government.by/upload/docs/file1dfbe646dd5b11d0.PDF
-http://www.government.by/upload/docs/fileebd46c4c0ea2ddf9.PDF
-https://www.icnl.org/covid19tracker/?location=10&issue=&date=&type=
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B370%5D&covid19=1
+ https://perma.cc/NN2K-2S3S
+https://web.archive.org/web/20200523064001/http://www.government.by/upload/docs/file1dfbe646dd5b11d0.PDF
+https://web.archive.org/web/20200813085104/http://www.government.by/upload/docs/fileebd46c4c0ea2ddf9.PDF
+https://perma.cc/Z82W-U967
+https://perma.cc/J7UH-BULT
 
-https://minsk.gov.by/ru/normdoc/4430/https://www.belta.by/society/view/objazatelnyj-masochnyj-rezhim-postepenno-vvedut-po-vsej-belarusi-minzdrav-415691-2020/
+https://web.archive.org/web/20201113113143/https://minsk.gov.by/ru/normdoc/4430/
+https://perma.cc/UW59-4DD3
 
 
 
@@ -410,15 +496,11 @@ Belgium is a federal state, therefore apart from the measures that the federal g
 However, the main restrictions such as the lockdown and night curfew have been nationwide. 
 
 *Sources*:
- https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-belgium/
-
-https://www.info-coronavirus.be/en/news/occ-3010/
-
-https://www.info-coronavirus.be/en/
-
-https://www.garda.com/crisis24/news-alerts/368206/belgium-face-masks-become-mandatory-in-all-public-spaces-in-brussels-as-of-august-12-update-22
-
-https://www.garda.com/crisis24/news-alerts/476161/belgium-authorities-to-lift-covid-19-related-curfew-and-certain-other-restrictions-from-may-8-update-35
+ https://perma.cc/P2LB-SG83
+https://web.archive.org/web/20201101015719/https://www.info-coronavirus.be/en/news/occ-3010/
+https://perma.cc/VG7V-2PYD
+https://perma.cc/B9AH-K4SU
+https://perma.cc/84ER-SNNY
 
 
 
@@ -451,29 +533,28 @@ The health cordon was lifted on 11 May 2020 (4). After this date, there were som
 Benin has maintained some restrictions in place throughout Q1 and Q2 of 2021 like the mandatory wearing of masks, regular hand washing with soap and water or the use of hydroalcoholic solution, maintaining the health safety distance at least one meter between people. 
 
 *Sources*:
- https://www.gouv.bj/actualite/556/coronavirus-les-11-mesures-prises-par-le-conseil-extraordinaire-des-ministres-au-benin/
+ https://perma.cc/K4BL-4AAA
 (1)
 
-https://www.gouv.bj/actualite/567/coronavirus---communique-gouvernement-propos-deux-nouvelles-mesures-prises/
+https://perma.cc/FZ4S-XXLN
+
 (2)
 
-https://www.gouv.bj/actualite/571/coronavirus---communique-ministre-interieur-sujet-cordon-sanitaire/
+https://perma.cc/AV6L-69DZ
+
 (3)
 
-https://24haubenin.info/?Le-cordon-sanitaire-leve-ce-lundi-a-00h
+https://perma.cc/4M8H-XL8W
 (4)
-
-https://www.gouv.bj/actualite/666/
+https://perma.cc/4UBH-DE38
 (5)
-https://tropmedhealth.biomedcentral.com/articles/10.1186/s41182-020-00235-6
 
-https://reliefweb.int/report/benin/unicef-benin-covid-19-situation-report-no-18-25-july-7-august-2020
 
-https://www.garda.com/crisis24/news-alerts/424891/benin-covid-19-restrictions-ongoing-nationwide-as-of-jan-4-update-11
-
-https://www.garda.com/crisis24/news-alerts/460582/benin-covid-19-restrictions-remain-unchanged-nationwide-as-of-march-24-by-comparison-with-those-in-effect-in-early-february-update-14
-
-https://www.gouv.bj/actualite/1143/communique-ministere-sante-situation-actuelle-covid-19/
+https://perma.cc/DG5H-JPKF
+https://perma.cc/LVA6-8B4G
+https://perma.cc/YN6C-VWHD
+https://perma.cc/56EY-249V
+https://perma.cc/Q842-ZT9V
 
 
 
@@ -499,13 +580,16 @@ https://www.gouv.bj/actualite/1143/communique-ministere-sante-situation-actuelle
 
 *Sources*:
  [1]
-http://www.gacetaoficialdebolivia.gob.bo/normas/buscar_comp/(COVID-19)/page:1
+https://perma.cc/75XL-TNMX
+
 [2]
-https://www.lexivox.org/norms/BO-DS-N4245.xhtml
+https://perma.cc/K8PQ-WB9C
+
 [3]
-https://www.jornada.com.mx/notas/2021/05/15/mundo/ante-tercera-ola-de-covid-19-bolivia-refuerza-medidas-sanitarias/
+https://perma.cc/8UBP-DFS6
+
 [4]
-https://www.parlamentoandino.org/images/actualidad/informes-covid/Bolivia/Principales-medidas-adoptadas-por-el-gobierno-boliviano.pdf
+https://perma.cc/TL3R-K7Z2
 
 
 
@@ -530,14 +614,14 @@ https://www.parlamentoandino.org/images/actualidad/informes-covid/Bolivia/Princi
  Aside from a nationwide state of disaster, the specific measures, duration, implementation etc. were different in the two autonomous regions of Bosniak-Croat Federation (state of disaster) and the Serb Republic (state of emergency). On the structure of BiH government see https://eacea.ec.europa.eu/national-policies/eurydice/content/main-executive-and-legislative-bodies-11_en Also see notes on subantional variation for other variables. 
 
 *Sources*:
- https://www.oecd.org/south-east-europe/COVID-19-Crisis-in-Bosnia-and-Herzegovina.pdf
-https://www.narodnaskupstinars.net/?q=ci/%D0%B2%D0%B8%D1%98%D0%B5%D1%81%D1%82%D0%B8/%D1%81%D0%B0%D1%81%D1%82%D0%B0%D0%BD%D0%B0%D0%BA-%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%87%D0%BD%D0%B8%D0%BA%D0%B0-%D1%81%D1%80%D0%BF%D1%81%D0%BA%D0%B5-%D0%B2%D0%BB%D0%B0%D0%B4%D0%B0-%D0%BF%D1%80%D0%BE%D0%B3%D0%BB%D0%B0%D1%88%D0%B0%D0%B2%D0%B0-%D0%B2%D0%B0%D0%BD%D1%80%D0%B5%D0%B4%D0%BD%D1%83-%D1%81%D0%B8%D1%82%D1%83%D0%B0%D1%86%D0%B8%D1%98%D1%83-%D0%BE%D0%B4-%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B5-%D1%81%D0%BA%D1%83%D0%BF%D1%88%D1%82%D0%B8%D0%BD%D0%B5-%D1%9B%D0%B5-%D0%B7%D0%B0%D1%82%D1%80%D0%B0%D0%B6%D0%B8%D1%82%D0%B8-%D0%BF%D1%80%D0%BE%D0%B3%D0%BB%D0%B0%D1%88e%D1%9A%D0%B5-%D0%B2%D0%B0%D0%BD%D1%80%D0%B5%D0%B4%D0%BD%D0%BE%D0%B3-%D1%81%D1%82%D0%B0%D1%9A%D0%B0
-http://www.fbihvlada.gov.ba/bosanski/aktuelno_v2.php?akt_id=8417
-http://www.fbihvlada.gov.ba/bosanski/zakoni/2020/Odluke/198.htm
-https://www.reuters.com/article/us-health-coronavirus-bosnia/bosnia-declares-nationwide-state-of-emergency-over-coronavirus-pm-idUSKBN2142FH
-https://www.reuters.com/article/us-health-coronavirus-bosnia-emergency/bosnias-serb-republic-lifts-coronavirus-state-of-emergency-idUSKBN22X22I
-https://www.garda.com/crisis24/news-alerts/337196/bosnia-herzegovina-government-eases-covid-19-lockdown-measures-in-republika-srpska-as-of-april-27-update-3
-https://www.garda.com/crisis24/news-alerts/478166/bosnia-and-herzegovina-authorities-maintaining-covid-19-restrictions-as-of-may-13-update-25
+ https://perma.cc/HJ4B-USJR
+https://perma.cc/9M6M-MZQT
+https://perma.cc/BG4S-79JW
+https://perma.cc/FL9S-78WJ
+https://perma.cc/ZA88-F8RH
+https://perma.cc/CNX8-ZGWW
+https://perma.cc/5HRG-TXLV
+https://perma.cc/EBK3-EQ7V
 
 
 
@@ -563,22 +647,19 @@ https://www.garda.com/crisis24/news-alerts/478166/bosnia-and-herzegovina-authori
 
 *Sources*:
  [1]
-https://bw.usembassy.gov/wp-content/uploads/sites/125/Emergency-Powers-COVID-19-Regulations-2020.pdf
-
+https://perma.cc/7YDC-2QWA
 [2]
-https://covid19portal.gov.org.bw/sites/default/files/2020-06/ExtraordinaryGazette12-06-2020.pdf
-
-
+https://perma.cc/3FUN-C2LR
 [3]
-https://covid19portal.gov.org.bw/sites/default/files/2020-05/ExtraordinaryGazette11May2020_0.pdf
-https://bw.usembassy.gov/health-alert-73120/
-
+https://perma.cc/Q48G-KYBH
 [4]
-https://allafrica.com/stories/202104140121.html
-https://bw.usembassy.gov/health%e2%80%afalert-u-s-embassy-gaborone-botswana-15/
-
+https://perma.cc/KD23-XRFA
 [5]
-https://bw.usembassy.gov/health%e2%80%afalert-u-s-embassy-gaborone-botswana-14/
+https://perma.cc/GEJ6-2J2N
+[6]
+https://perma.cc/2WC9-KL67
+[7]
+https://perma.cc/BV75-2HFA
 
 
 
@@ -604,9 +685,9 @@ https://bw.usembassy.gov/health%e2%80%afalert-u-s-embassy-gaborone-botswana-14/
 
 *Sources*:
  [1]
-http://www.stf.jus.br/portal/cms/verNoticiaDetalhe.asp?idConteudo=441447
+https://perma.cc/UK4B-HEJP
 [2]
-https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/09/saiba-onde-ja-foi-decretado-o-lockdown-no-brasil.htm
+https://perma.cc/VRM4-CCL4
 
 
 
@@ -633,12 +714,12 @@ https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/09/saiba-onde
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: All measures apply to the whole country, coding changed to 0. 
 
 *Sources*:
- https://www.bnt.bg/en/a/coronavirus-bulgarias-bansko-ski-resort-under-strict-lock-down
-https://www.bnt.bg/en/a/curfew-introduced-in-panagyurishte-because-of-the-coronavirus
-https://www.garda.com/crisis24/news-alerts/403386/bulgaria-authorities-to-introduce-lockdown-restrictions-from-november-27-update-21
-https://www.garda.com/crisis24/news-alerts/449401/bulgaria-authorities-ease-certain-domestic-covid-19-restrictions-from-march-1-update-21
-https://www.garda.com/crisis24/news-alerts/457166/bulgaria-authorities-to-tighten-domestic-covid-19-restrictions-march-22-31-update-23
-https://www.garda.com/crisis24/news-alerts/465291/bulgaria-authorities-to-ease-additional-domestic-covid-19-restrictions-starting-april-12-update-25
+ https://perma.cc/482C-FMCP
+https://perma.cc/HP88-TW6E
+https://perma.cc/3PY9-EX5E
+https://perma.cc/S8ZS-L42T
+https://perma.cc/8BXU-HL6Z
+https://perma.cc/87WB-3LTD
 
 
 
@@ -664,13 +745,10 @@ https://www.garda.com/crisis24/news-alerts/465291/bulgaria-authorities-to-ease-a
 Domestic air flights resumed on 24 July 2020. The wearing of facemasks in public remains mandatory nationwide as of June 2021, and all security-related curfews in areas under a state of emergency will continue. 
 
 *Sources*:
- https://www.gouvernement.gov.bf/informations/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=321&cHash=8a604362c203496dd929bca73663b0e2
-
-https://bf.usembassy.gov/u-s-citizen-services/covid-19-information/
-
-https://www.garda.com/crisis24/news-alerts/430886/burkina-faso-security-restrictions-to-remain-across-much-of-the-country-through-at-least-mid-2021-update-3
-
-https://www.garda.com/crisis24/news-alerts/449321/burkina-faso-covid-19-restrictions-remain-unchanged-nationwide-as-of-march-1-update-12
+ [1]	https://perma.cc/X9UQ-DMMN
+[2]	perma.cc/93P5-Z6V2
+[3]	perma.cc/UH93-6Z7X
+[4]	perma.cc/U4US-TXU5
 
 
 
@@ -695,25 +773,43 @@ https://www.garda.com/crisis24/news-alerts/449321/burkina-faso-covid-19-restrict
  Many of the emergency measures have been enforced nationwide. However, there have been variation in that curfews initially were only placed in three regions (Yangon, Ayeyawaddy, and Nay Pyi Taw). On september 26 2020, the government also implemented special stay at home orders in several townships. This is therefore coded as 2, there has been some sub-national variation, for Q2-Q4 2020. Since the coup, the military has maintained most of the existing restrictions, including the regional variation. Garda for instance reports that there has been continuing variation between regions, as some had more restrictions than others before the coup. This is thus coded 2 for Q1-Q2 of 2021 as well. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/333906/myanmar-authorities-introduce-curfews-in-three-regions-from-april-18-update-7
+ https://perma.cc/ED63-Z3UK
 
-https://www.garda.com/crisis24/news-alert-full-history/aFv8t8QnEdDsHp4ZF/myanmar-extended-quarantine-measures-implemented-due-to-Covid-19-march-19
 
-https://www.acaps.org/covid19-government-measures-dataset
+https://perma.cc/SQA6-27U9
 
-https://www.garda.com/crisis24/news-alerts/377726/myanmar-restrictions-increased-in-yangon-amid-rise-in-Covid-19-cases-september-10-update-22
 
-https://www.garda.com/crisis24/news-alerts/375841/myanmar-authorities-impose-nightly-curfew-in-rakhine-state-from-september-4-update-21
+https://perma.cc/9DXY-XZT2
 
-https://www.garda.com/crisis24/news-alerts/373266/myanmar-authorities-tighten-Covid-19-restrictions-as-of-august-27-update-19
 
-https://www.garda.com/crisis24/news-alerts/383596/myanmar-stay-at-home-orders-issued-for-additional-townships-on-september-26-update-25
-https://www.garda.com/crisis24/news-alerts/463451/myanmar-authorities-continue-to-enact-Covid-19-restrictions-as-of-april-5-update-33
-https://www.garda.com/crisis24/news-alerts/472336/myanmar-officials-continue-to-enact-Covid-19-rules-in-rakhine-state-as-of-april-28-update-10
-https://www.garda.com/crisis24/news-alerts/449091/myanmar-Covid-19-restrictions-remain-in-place-in-yangon-region-as-of-march-1-update-9
-https://www.garda.com/crisis24/news-alerts/474581/myanmar-authorities-continue-to-enact-Covid-19-restrictions-as-of-may-4-update-34
-https://www.garda.com/crisis24/news-alerts/449036/myanmar-authorities-extended-Covid-19-restrictions-through-march-31-update-32
-https://www.garda.com/crisis24/news-alerts/423381/myanmar-authorities-extend-Covid-19-restrictions-through-jan-31-2021-update-29
+https://perma.cc/5ZKC-JZS2
+
+
+https://perma.cc/NZ4Z-7EYT
+
+
+https://perma.cc/4LMW-BE7F
+
+
+https://perma.cc/QAC6-2XJV
+
+
+https://perma.cc/GBH7-AFNT
+
+
+https://perma.cc/NP75-DJHD
+
+
+https://perma.cc/H27S-RT7S
+
+
+https://perma.cc/DQM8-GRET
+
+
+https://perma.cc/8RFP-9SLM
+
+
+https://perma.cc/9XY7-PMP9
 
 
 
@@ -738,23 +834,14 @@ https://www.garda.com/crisis24/news-alerts/423381/myanmar-authorities-extend-Cov
  No sub-national variation. Burundi has not implemented any substantial measures against the spread of Covid-19, but rather has been focusing on issuing guidlines to citizens on how to protect themselves. 
 
 *Sources*:
- https://bi.usembassy.gov/covid-19-information/
-
-https://apnews.com/3e6ef0e411214dbd4432b10bdb7d85ef
-
-https://www.dw.com/en/burundi-coronavirus-prompts-timid-steps-for-a-break-with-the-past/a-54089400
-
-http://minisante.bi/?p=553http://minisante.bi/?p=569
-
-http://minisante.bi/wp-content/uploads/Communiqu%C3%A9-de-presse-sur-les-mesures-d%C3%A9j%C3%A0-prises-de-pr%C3%A9vention-Covid-19.pdf
-
-https://bi.usembassy.gov/covid-19-information/
-
-https://twitter.com/BurundiSecurity/status/1241045159636336641
-
-https://twitter.com/mspls_bdi/status/1241013386244169728
-
-https://www.garda.com/crisis24/news-alerts/475866/burundi-covid-19-related-restrictions-in-place-remain-unchanged-as-of-may-7-update-11
+ [1]	perma.cc/MV7V-Y7BV
+[2]	perma.cc/LTM3-EVY7
+[3]	perma.cc/3MY4-LGYM
+[4]	perma.cc/WF8Q-HUPL
+[5]	perma.cc/2H4Y-WXE4
+[6]	perma.cc/UXK7-VCP8
+[7]	perma.cc/4UPJ-WU4W
+[8]	perma.cc/B7EA-CJJU
 
 
 
@@ -783,19 +870,22 @@ The Cambodian government enacted strict stay at home orders across the cities of
 The lockdowns ended on 6 May 2021. 
 
 *Sources*:
- https://www.hrw.org/asia/cambodia
-"
-
-https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia
+ https://perma.cc/KG9B-LWJV
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/cambodia/
+https://perma.cc/8RKJ-B738
 
-https://asia.nikkei.com/Spotlight/Coronavirus/Thailand-Vietnam-and-Cambodia-hit-COVID-variants-with-iron-fist
 
-https://www.hrw.org/news/2021/05/05/cambodia-end-food-insecurity-abuses-during-lockdown
+https://perma.cc/DP9B-GGL2
 
-https://www.reuters.com/world/asia-pacific/cambodia-ends-blanket-covid-19-lockdown-despite-more-infections-2021-05-06/
+
+https://perma.cc/6UV4-STSR
+
+
+https://perma.cc/RY2U-62C2
+
+
+https://perma.cc/G5EZ-VD9F
 
 
 
@@ -820,21 +910,14 @@ https://www.reuters.com/world/asia-pacific/cambodia-ends-blanket-covid-19-lockdo
  No sub-national variation. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/474506/cameroon-covid-19-restrictions-remain-largely-unchanged-nationwide-as-of-may-3-by-comparison-with-mid-march-update-12
-
-https://africacdc.org/download/perc-finding-the-balance-public-health-and-social-measures-in-cameroon/
-
-https://www.garda.com/crisis24/news-alerts/386261/cameroon-schools-reopened-amid-easing-of-covid-19-restrictions-october-5-update-9
-
-https://cm.usembassy.gov/covid-19-information/
-
-https://www.prc.cm/en/multimedia/documents/8228-government-response-strategy-to-the-coronavirus-pandemic-covid-19
-
-https://www.spm.gov.cm/site/?q=fr/content/strategie-gouvernementale-de-riposte-face-la-pandemie-de-coronavirus-covid-19
-
-https://www.aljazeera.com/news/2020/04/masks-bans-questions-cameroon-covid-19-response-200422134140013.html
-
-https://afrique.le360.ma/autres-pays/societe/2020/05/01/30417-cameroun-coronavirus-le-gouvernement-assouplit-les-mesures-restrictives-30417
+ [1]	perma.cc/WT6L-TRCQ
+[2]	perma.cc/9QHX-NA8Y
+[3]	perma.cc/4U5V-R6TF
+[4]	perma.cc/34N6-98Z3
+[5]	perma.cc/FM9H-EHMG
+[6]	perma.cc/HYR7-LV8Z
+[7]	perma.cc/R8DB-ELEX
+[8]	perma.cc/Q7WV-ZTEB
 
 
 
@@ -859,13 +942,25 @@ https://afrique.le360.ma/autres-pays/societe/2020/05/01/30417-cameroun-coronavir
  The initial and main emergency responses, such as curfews, bans on gatherings, closing of workplaces and so on, have been taken by the Canadian provinces and territories, and not the federal government. However, the government has coordinated a lot of work, and many efforts (school closings, curfews) occurred at the same time or within days of each other. Furthermore, the measures taken have been largely similar within the states. However, by the time of the second wave of Covid-19 infections, the sub-national variation increased. A recent research report (March 2021) on the sub-national variation in policy response in Canada shows that the difference in response, and timing of responses, increased during this time and has continued to vary more. Thus, from Q4 in 2020 and onwards, this is coded as 3, since there has been less national coordination and a substantial variation among provinces. 
 
 *Sources*:
- https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html?amp%Bqid=96637021
-https://orders-in-council.canada.ca/attachment.php?attach=38952&lang=en
-https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/guidance-documents/federal-provincial-territorial-public-health-response-plan-ongoing-management-Covid-19.html
-https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms/provincial-territorial-resources-Covid-19.html
-https://vancouversun.com/news/stark-differences-found-in-provincial-pandemic-responses
-https://centre.irpp.org/data/Covid-19-provincial-policies/
-https://centre.irpp.org/wp-content/uploads/sites/3/2021/03/Variation-in-the-Canadian-provincial-and-territorial-responses-to-COVID-19.pdf
+ https://perma.cc/8J7U-N22N
+
+
+https://perma.cc/7VZ7-DH75
+
+
+https://perma.cc/XG2H-DQYG
+
+
+https://perma.cc/TYB6-CDC7
+
+
+https://perma.cc/U2T5-T6JZ
+
+
+https://perma.cc/WB6Z-EUY8
+
+
+https://perma.cc/C2SV-J3LS
 
 
 
@@ -892,19 +987,13 @@ https://centre.irpp.org/wp-content/uploads/sites/3/2021/03/Variation-in-the-Cana
 Most of these minimal measures are maintained by June 2021. 
 
 *Sources*:
- https://cf.ambafrance.org/Informations-Coronavirus-Covid-19
-
-https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-centrafricaine/
-
-https://www.ascleiden.nl/content/ascl-blogs/crepin-marius-mouguia/covid-19-central-african-republic-respecting-barriers
-
-https://www.africanews.com/2020/06/22/car-enforces-strict-measures-against-covid-19//
-
-https://www.centrafrique-presse.info/article/13898/rca-covid-19-message-a-la-nation-de-son-excellence-le-professeur-faustin-archange-touadera-president-de-la-republique-chef-de-letat
-
-https://www.garda.com/crisis24/news-alerts/477616/central-african-republic-nationwide-covid-19-restrictions-remain-largely-unchanged-as-of-may-12-update-8
-
-https://www.garda.com/crisis24/news-alerts/432576/central-african-republic-authorities-maintain-minimal-covid-19-related-restrictions-as-of-jan-21-update-4
+ [1]	perma.cc/6SXH-P9DM
+[2]	perma.cc/6X6J-8JU3
+[3]	perma.cc/P6XE-7VE9
+[4]	perma.cc/ZEG4-M669
+[5]	perma.cc/8LLB-CTJE
+[6]	perma.cc/B92C-W9R9
+[7]	perma.cc/Z7U2-Z4V6
 
 
 
@@ -937,19 +1026,13 @@ The state of emergency is still in place and extended through September 2021 but
  
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/405421/chad-authorities-extend-nightly-curfew-in-multiple-areas-until-december-15-update-22
-
-https://reliefweb.int/report/chad/chad-quick-alerts-23-october-2020#:~:text=On%2016%20October%2C%20the%20National,the%20spread%20of%20COVID%2D19.
-
-https://www.garda.com/crisis24/news-alerts/370001/chad-authorities-extend-nightly-curfew-in-ndjamena-and-other-regions-through-august-31-update-15
-
-https://td.ambafrance.org/IMG/pdf/mesures_adoptees_par_les_autorites_tchadiennes_-_18-05-2020.pdf?6272/748a676a4ffe8b72ba25d829954d28b05fdbac15
-
-https://www.aa.com.tr/fr/afrique/tchad-covid-19-fin-de-onze-mois-de-couvre-feu/2171788
-
-https://tchadinfos.com/politique/covid-19-le-comite-de-gestion-de-la-crise-sanitaire-propose-la-levee-du-couvre-feu/
-
-https://www.garda.com/crisis24/news-alerts/484521/chad-covid-19-related-measures-remain-largely-unchanged-in-chad-as-of-may-28-update-36
+ https://web.archive.org/web/20201201031447/https://www.garda.com/crisis24/news-alerts/405421/chad-authorities-extend-nightly-curfew-in-multiple-areas-until-december-15-update-22
+https://perma.cc/G6D8-NBV2
+https://perma.cc/HG4D-HLQQ
+https://perma.cc/8UVS-A4NH
+https://perma.cc/MX9A-7K8N
+https://perma.cc/AZD9-BN7F
+https://perma.cc/T6KN-G4W8
 
 
 
@@ -975,11 +1058,11 @@ https://www.garda.com/crisis24/news-alerts/484521/chad-covid-19-related-measures
 
 *Sources*:
  [1]
-https://www.minsal.cl/nuevo-coronavirus-2019-ncov/
+https://perma.cc/W2MS-3G8U
 [2]
-https://www.gob.cl/coronavirus/pasoapaso/
+https://perma.cc/R4QR-JYPM
 [3]
-https://www.diariooficial.interior.gob.cl/publicaciones/2020/03/18/42607-B/01/1742691.pdf
+https://perma.cc/FM2Y-GJHV
 
 
 
@@ -1011,39 +1094,38 @@ https://www.diariooficial.interior.gob.cl/publicaciones/2020/03/18/42607-B/01/17
 
 *Sources*:
  [1]
-https://www.bbc.com/news/world-asia-china-52613138
+https://perma.cc/G2CD-88V8
 
 [2]
-http://english.court.gov.cn/2015-08/17/content_21625180_2.htm
-
+https://perma.cc/3XVG-RP7V
 
 [3]
-https://www.reuters.com/article/us-china-health-response/three-more-chinese-regions-lower-emergency-response-level-as-virus-threat-recedes-idUSKCN20K029
-
+https://perma.cc/8633-M28W
 
 [4]
-http://constitutionnet.org/state-of-emergencyhttp://english.court.gov.cn/2015-08/17/content_21625180_2.htm"
+https://perma.cc/H48B-H64R
+https://perma.cc/3XVG-RP7V
 
 [5]
-https://www.bbc.com/news/world-asia-china-53458412
+https://perma.cc/AF7T-YEP3
 
 [6]
-https://www.nytimes.com/2020/08/25/world/asia/china-xinjiang-covid.html
+https://perma.cc/9SVE-FK3R
 
 [7]
-https://www.businessinsider.com/china-testing-qingdao-city-9-million-after-12-cases-hospital-2020-10?r=US&IR=T
+https://perma.cc/K75X-A3A9
 
 [8]
-https://www.aa.com.tr/en/asia-pacific/china-imposes-covid-19-restrictions-in-foshan/2260238
+https://perma.cc/2X3P-WWYX
 
 [9]
-https://www.garda.com/crisis24/news-alerts/487231/china-negative-covid-19-test-taken-within-48-hours-required-to-leave-guangzhou-from-1200-june-7-update-4
+https://perma.cc/X6PS-ZKXR
 
 [10]
-https://www.garda.com/crisis24/news-alerts?search_api_fulltext=coronavirus&utm_campaign=c24&utm_medium=link&utm_content=covid-risks&pi_campaign_id=16709&na_countries%5B0%5D=1336
+https://perma.cc/5V9G-C4EA
 
 [11]
-https://www.garda.com/crisis24/news-alerts/475686/china-covid-19-related-restrictions-including-strict-international-travel-controls-remain-in-effect-as-of-may-7-update-36
+https://perma.cc/HME9-WWZT
 
 
 
@@ -1069,21 +1151,22 @@ https://www.garda.com/crisis24/news-alerts/475686/china-covid-19-related-restric
 
 *Sources*:
  [1]
-http://www.regiones.gov.co/Inicio/assets/files/51.pdf
+https://perma.cc/UX56-25YY
 [2]
-https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20637%20DEL%206%20DE%20MAYO%20DE%202020.pdf
+https://perma.cc/5LZW-XEVJ
 [3]
-https://www.medellin.gov.co/irj/portal/medellin?NavigationTarget=navurl://bddad1ea6cf4d7b8e48769594398fdbb
+
+https://perma.cc/5VKW-LJFR
 [4]
-https://bogota.gov.co/mi-ciudad/salud/cuarentena/tres-nuevas-medidas-para-combatir-el-covid-19-en-bogota
+https://perma.cc/U6YJ-F5KU
 [5]
-https://colombia.as.com/colombia/2020/11/01/actualidad/1604255149_113360.html
+https://perma.cc/5VKW-LJFR
 [6]
-https://www.elespectador.com/noticias/nacional/nuevas-medidas-que-tomaron-las-principales-ciudades-para-mitigar-el-covid-19/
+https://perma.cc/5YPN-38J9
 [7]
-https://bogota.gov.co/tag/cuarentena-en-bogota
+https://perma.cc/Z8GG-FJJ4
 [8]
-https://www.barranquilla.gov.co/salud/coronavirus/decretos-durante-la-emergencia-coronavirus-barranquilla
+https://perma.cc/E29J-49N7
 
 
 
@@ -1109,11 +1192,11 @@ https://www.barranquilla.gov.co/salud/coronavirus/decretos-durante-la-emergencia
 
 *Sources*:
  [1]
-https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1695-ante-aumento-de-casos-covid-19-gobierno-endurece-medidas-en-cinco-distritos
+https://web.archive.org/web/20200714181259/https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1695-ante-aumento-de-casos-covid-19-gobierno-endurece-medidas-en-cinco-distritos
 [2]
-https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1702-distrito-de-la-fortuna-en-san-carlos-y-los-cantones-de-pococi-y-upala-se-suman-a-la-lista-de-alerta-naranja
+https://web.archive.org/web/20200815134322/https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1702-distrito-de-la-fortuna-en-san-carlos-y-los-cantones-de-pococi-y-upala-se-suman-a-la-lista-de-alerta-naranja
 [3]
-https://www.presidencia.go.cr/comunicados/2020/10/aumento-de-casos-covid-19-ocasiona-que-6-cantones-pasen-a-alerta-naranja/
+https://perma.cc/3VK9-72QA
 
 
 
@@ -1138,13 +1221,12 @@ https://www.presidencia.go.cr/comunicados/2020/10/aumento-de-casos-covid-19-ocas
  Uniform measures throughout the country in the March-June 2020 period. In July-September, October-December 2020, the measures different for a few sub-national areas. In January-March, April-June 2021, the measures differ regionally, especially the biggest cities as Zagreb. 
 
 *Sources*:
- https://vlada.gov.hr/vijesti/bozinovic-postojeci-rezim-mjera-treba-odrzati-eventualno-promjene-donositi-na-zupanijskoj-razini/31684
-https://vlada.gov.hr/vijesti/bozinovic-vidjet-cemo-trebaju-li-dodatne-mjere-na-nacionalnoj-razini/31746
-https://vlada.gov.hr/vijesti/od-ponoci-na-snazi-odluke-stozera-civilne-zastite-rh-u-svrhu-sprjecavanja-sirenja-zaraze-novim-koronavirusom/29026
-https://fra.europa.eu/sites/default/files/fra_uploads/croatia-report-covid-19-april-2020_en.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/hr_report_on_coronavirus_pandemic_july_2020.pdf
-
-https://www.koronavirus.hr/najnovije/odluke-stozera-civilne-zastite-za-sprjecavanje-sirenja-zaraze-novim-koronavirusom/323
+ [1]	perma.cc/9NMH-EUKF
+[2]	perma.cc/VA89-BEZ7
+[3]	perma.cc/4D8Y-RY65
+[4]	perma.cc/F3VL-EWRG
+[5]	perma.cc/VY2S-H798
+[6]	perma.cc/Z2C8-6NBM
 
 
 
@@ -1170,16 +1252,16 @@ https://www.koronavirus.hr/najnovije/odluke-stozera-civilne-zastite-za-sprjecava
 
 *Sources*:
  [1]
-http://www.cubadebate.cu/noticias/2020/05/30/prolongan-cuarentena-por-la-covid-19-en-poblado-de-ciego-de-avila/#.Xv9cPCgzbIU
+https://perma.cc/TTF4-KTVU
 [2]
-https://diariodecuba.com/cuba/1588083336_17725.html
+https://perma.cc/AL86-F3C4
 [3]
-https://www.gacetaoficial.gob.cu/sites/default/files/goc-2020-ex44.pdf
+https://perma.cc/L96M-PYHN
 [4]
-http://www.granma.cu/cuba-covid-19/2020-12-03/el-regreso-a-la-cuarentena-03-12-2020-00-12-22
+https://perma.cc/Y426-X45X
 [5]
-http://www.cubadebate.cu/noticias/2021/06/10/aprueban-medidas-para-reforzar-el-enfrentamiento-a-la-covid-19-en-la-habana/
-http://www.granma.cu/cuba/2021-05-25/reforzaran-medidas-de-enfrentamiento-a-la-covid-19-en-la-habana-ante-la-cercania-del-verano
+https://perma.cc/YC4L-6C2G
+https://perma.cc/BWD5-BGJ7
 
 
 
@@ -1206,11 +1288,11 @@ http://www.granma.cu/cuba/2021-05-25/reforzaran-medidas-de-enfrentamiento-a-la-c
 January-March, April-June 2021: there is a minimal variation in the easening of the measures. In Febuary, it was forbidden to travel to some regions. In March, residents of Prague could only leave the city with a good reason. In April, the opening of shops was only possible when there is a lower incidence rate. In May, the opening of schools would be possible only in areas with a lower incidence rate. 
 
 *Sources*:
- https://www.vlada.cz/en/media-centrum/aktualne/measures-adopted-by-the-czech-government-against-coronavirus-180545/
-https://www.osu.eu/24712/the-latest-covid-19-related-news/
-https://www.garda.com/crisis24/news-alerts/441926/czech-republic-authorities-suspend-travel-to-and-from-cheb-sokolov-and-trutnov-from-feb-12-due-to-high-covid-19-infection-rates-update-32
-https://fra.europa.eu/sites/default/files/fra_uploads/czechia-report-covid-19-april-2020_en.pdf
-https://koronavirus.mzcr.cz/en/from-july-onwards-strict-anti-epidemic-measures-will-only-apply-in-certain-parts-of-the-moravian-silesian-region/
+ [1]	perma.cc/Q3DC-H5NS
+[2]	perma.cc/275U-SMCE
+[3]	perma.cc/S8PA-FTZA
+[4]	perma.cc/X3DS-27JS
+[5]	perma.cc/V3XP-GJRQ
 
 
 
@@ -1245,23 +1327,13 @@ In other provinces including the city of Kinshasa, North - Kivu (east), Kongo Ce
 A curfew is still in effect from 10 p.m. to 4 a.m. in some provinces including Kinshasa as of June 2021 (7). 
 
 *Sources*:
- https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-democratique-du-congo/
-
-https://www.france24.com/en/20200325-dr-congo-president-imposes-state-of-emergency-to-contain-coronavirus-outbreak
-
-https://www.lesoir.be/289798/article/2020-03-24/coronavirus-la-rdc-decrete-letat-durgence-et-isole-la-capitale-kinshasa-du-reste
-
-https://www.garda.com/crisis24/news-alerts/416591/drc-authorities-to-implement-nightly-curfew-from-dec-18-due-to-covid-19-activity-update-20#:~:text=Authorities%20in%20the%20Democratic%20Republic,disease%20(COVID%2D19).
-(4)
-
-https://afrique.lalibre.be/56783/coronavirus-debut-du-couvre-feu-en-rdc/
-(5)
-
-https://www.aa.com.tr/fr/afrique/rdc-covid-19-all%C3%A8gement-du-couvre-feu-/2208322
-(6)
-
-https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/republique-democratique-du-congo/
-(7)
+ https://perma.cc/PF6V-5F9K
+https://perma.cc/6XJD-W485
+https://perma.cc/G39V-MK2R
+https://perma.cc/YSK5-J5MV
+https://perma.cc/YW5Z-27XK
+https://perma.cc/VY2P-VL3Z
+https://perma.cc/PF6V-5F9K
 
 
 
@@ -1286,16 +1358,22 @@ https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-desti
  In Q2 of 2020, I haven't found any record of sub-national variation in the policy response to Covid-19. All emergency measures are handled by the Danish Government. In Q3 of 2020, more restrictive measures were declared in the Copenhagen area and Odense Municipality. In Q4 of 2020 and Q1 and Q2 of 2021, No  record of sub-national variation in the policy response to Covid-19 was found in this time period. Denmark has had substantial restrictions nationally, and also seem to have opened up at the same pace and time nationally. 
 
 *Sources*:
- https://en.coronasmitte.dk/latest-updates
+ https://perma.cc/S3FZ-KF9H
 
 
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
+https://perma.cc/T4SJ-UDV4
 
-https://www.acaps.org/covid19-government-measures-dataset
 
-https://www.retsinformation.dk/eli/ft/201913L00133
-https://sum.dk/Aktuelt/Nyheder/Coronavirus/2020/September/Nye-tiltag-mod-COVID-19.aspx
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_november_2020.pdf
+https://perma.cc/GF2P-F94R
+
+
+https://perma.cc/HJ7Q-UCGU
+
+
+https://perma.cc/264N-WWU2
+
+
+https://perma.cc/W4G8-99XE
 
 
 
@@ -1321,9 +1399,9 @@ https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_p
 
 *Sources*:
  [1]
-https://conep.org.do/sites/default/files/compendio_de_medidas_oficiales_covid-19_20-07.pdf
+https://perma.cc/8NBQ-BNB9
 [2]
-https://www.godominicanrepublic.com/newsroom/coronavirus/
+https://perma.cc/A6H8-47YK
 
 
 
@@ -1349,13 +1427,13 @@ https://www.godominicanrepublic.com/newsroom/coronavirus/
 
 *Sources*:
  [1]
-https://www.ministeriodegobierno.gob.ec/desde-el-1-de-junio-se-cambian-algunas-reglas-de-la-semaforizacion-por-la-emergencia-sanitaria/
+https://perma.cc/C78E-J5FS
 [2]
 https://lta.reuters.com/article/idLTAKBN2653FF
 [3]
-https://www.elcomercio.com/actualidad/quito-cambios-hoy-circula-transito.html
+https://perma.cc/EAJ2-CPYG
 [4]
-https://www.elcomercio.com/actualidad/casos-coronavirus-ecuador-provincias-expertos.html
+https://perma.cc/EAJ2-CPYG
 
 
 
@@ -1380,12 +1458,13 @@ https://www.elcomercio.com/actualidad/casos-coronavirus-ecuador-provincias-exper
  I have not found information that suggests that different parts of Egypt has varying response to the pandemic. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/07/egypt-covid-19-cover-new-repressive-powers
+ https://perma.cc/WM4V-E5TX
 
 
-https://www.atlanticcouncil.org/blogs/menasource/the-state-of-emergency-in-egypt-an-exception-or-rule/
+https://perma.cc/MT9U-NZWA
 
-https://www.garda.com/crisis24/news-alerts/475271/egypt-government-to-tighten-certain-covid-19-related-business-restrictions-from-may-6-until-at-least-may-21-update-23
+
+https://perma.cc/JL3C-MSTN
 
 
 
@@ -1411,7 +1490,7 @@ https://www.garda.com/crisis24/news-alerts/475271/egypt-government-to-tighten-ce
 
 *Sources*:
  [1]
-https://www.presidencia.gob.sv/cerco-sanitario-corinto/
+https://perma.cc/2P9N-QSWK
 
 
 
@@ -1436,9 +1515,9 @@ https://www.presidencia.gob.sv/cerco-sanitario-corinto/
  The guidelines apply to all of Eritrea. 
 
 *Sources*:
- https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
-
-https://www.garda.com/crisis24/news-alerts/328486/eritrea-authorities-implement-21-day-lockdown-from-april-2-update-3
+ [1]	perma.cc/5UDK-WMZF
+[2]	https://web.archive.org/web/20200402131742/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
+[3]	perma.cc/3P76-F4VZ
 
 
 
@@ -1470,29 +1549,29 @@ A state of emergency has been declared in the Tigray region in November because 
 
 *Sources*:
  [1]
-https://www.garda.com/crisis24/news-alerts/326976/ethiopia-state-of-emergency-declared-in-tigray-region-march-26-update-5
+perma.cc/6YQH-Q4BE
 [2]
-https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en
+perma.cc/3HM2-GX2E
 [3]
-https://www.garda.com/crisis24/news-alerts/335866/ethiopia-tigray-region-relaxes-state-of-emergency-april-24-update-11
+perma.cc/FC37-T9SZ
 [4]
-https://dig.watch/updates/internet-restored-oromo-region-ethiopia
+perma.cc/82CZ-52LZ
 [5]
-https://borkena.com/2020/08/03/tigray-authorities-reject-ethiopian-upper-house-warning-over-election/
+perma.cc/GDH2-WBJB
 [6]
-https://borkena.com/2020/08/14/tigray-region-pardoned-over-1500-inmates-to-prevent-spread-of-covid-19-eleciton-not-cancelled/
+perma.cc/4DAK-DN4W
 [7]
-https://et.usembassy.gov/alert-regional-state-governments-and-dire-dawa-implementing-covid-19-related-restrictions-03312020/
+perma.cc/WXW7-86J7
 [8]
-https://www.reuters.com/article/us-ethiopia-conflict-tigray-idUSKBN27S1N8
+perma.cc/4Y7U-PJX6
 [9]
-https://allafrica.com/view/group/main/main/id/00077959.html
+perma.cc/W3F9-BYKS
 [10]
-https://www.garda.com/crisis24/news-alerts/449456/ethiopia-covid-19-related-restrictions-remain-largely-unchanged-as-of-march-1-by-comparison-with-those-in-force-during-early-february-update-9
+perma.cc/JSP3-CE5P
 [11]
-https://www.garda.com/crisis24/news-alerts/473631/ethiopia-authorities-maintaining-covid-19-related-restrictions-nationwide-as-of-april-30-update-11
+perma.cc/VT8C-66T2
 [12]
-https://www.garda.com/crisis24/news-alerts/476106/ethiopia-authorities-impose-indefinite-security-related-curfew-in-karat-city-konso-zone-from-may-6
+perma.cc/5VBK-GS2F
 
 
 
@@ -1517,22 +1596,34 @@ https://www.garda.com/crisis24/news-alerts/476106/ethiopia-authorities-impose-in
  No record of sub-national variation has been found in Q2 and Q3 of 2020. There was a lockdown of the Uusima-region, but this only pertained to moving in and out of the region, and had no impact on the emergency measures within each region as these stayed the same. However, in October 2020 some measures regarding restaurants, businesses and the number of people allowed to gather were imposed in only some regions, based on the number of Covid-19 cases. This is therefore coded as 1 for this period, as there are sub-national variation in terms of a few issues. In Q1 and Q2 of 2021, this development has continued and in May of 2021 Finland disbanded much of the national Covid-19 administration of restrictions to let the regions base their restrictions on the number of cases etc. This process is however still guided by a general categorization of what state of the epidemic each region is in, and what measures are generally appropriate in relation to that (as well as what is possible under the Communicable Disease Act). In practice, this means that there is quite some variation between regions based on the spread of the virus at one point in time, but in practice there has not been such significant variations as to regard it as varying completely. This is therefore coded as 2 for both Q1 and Q2 of 2021. 
 
 *Sources*:
- https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi20030696.pdf
-
-https://valtioneuvosto.fi/en/article/-/asset_publisher/1410869/hallituksen-linjaukset
-
-https://valtioneuvosto.fi/en/-/1271139/tighter-restrictions-to-be-imposed-on-food-and-beverage-service-businesses-in-six-areas
-
-https://valtioneuvosto.fi/en/information-on-coronavirus/current-restrictions
-
-https://www.acaps.org/covid19-government-measures-dataset
-https://valtioneuvosto.fi/en/information-on-coronavirus/current-restrictions
-https://valtioneuvosto.fi/en/-/1271139/nationwide-Covid-19-restrictions-to-be-eased-biggest-changes-in-areas-in-acceleration-phase
-https://stm.fi/en/-/Covid-19-prevention-in-finland-to-focus-on-regional-restrictions-and-recommendations
-https://valtioneuvosto.fi/sv/information-om-coronaviruset/gallande-begransningar/restauranger
+ https://perma.cc/2R3R-CDLF
 
 
-https://valtioneuvosto.fi/en/information-on-coronavirus/current-restrictions
+https://perma.cc/CF4Y-ER5B
+
+
+https://perma.cc/VD4W-BGSA
+
+
+https://perma.cc/A4C5-CC2Q
+
+
+https://perma.cc/3UMJ-QNAZ
+
+
+https://perma.cc/A4C5-CC2Q
+
+
+https://perma.cc/U7XG-NTDH
+
+
+https://perma.cc/BZ9R-XM9V
+
+
+https://perma.cc/9QHF-E86S
+
+
+https://perma.cc/A4C5-CC2Q
 
 
 
@@ -1559,26 +1650,16 @@ https://valtioneuvosto.fi/en/information-on-coronavirus/current-restrictions
  
 
 *Sources*:
- https://www.bbc.com/news/topics/cx1m7zg0gylt/morocco
+ https://perma.cc/2DZY-SHCN
+https://perma.cc/26S8-AJCR
+https://perma.cc/B6AW-3FBQ
+https://perma.cc/H48B-H64R
+https://perma.cc/KV84-VHJZ
+https://perma.cc/32YF-B69F
+https://perma.cc/HG4L-GPUW
+https://perma.cc/35VL-JANT
 
-https://www.france24.com/en/20200731-new-rules-in-parts-of-france-as-new-coronavirus-cases-crop-up
-
-https://www.connexionfrance.com/French-news/Covid-19-France-declares-state-of-health-emergency-after-law-voted-through-by-MPs-and-Senators-Assemblee-Nationale
-
-http://constitutionnet.org/state-of-emergency
-
-https://www.loc.gov/law/foreign-news/article/france-government-adopts-law-declaring-and-defining-a-state-of-health-emergency/
-
-https://www.reuters.com/article/us-health-coronavirus-france-emergency-idUSKBN26Z2PQ
-
-https://www.bbc.com/news/world-europe-53934952
-
-https://www.garda.com/crisis24/news-alerts/441081/france-authorities-extend-covid-19-related-state-of-health-emergency-until-june-1-update-33
-
-
-https://www.gouvernement.fr/en/coronavirus-covid-19
-
-
+https://perma.cc/S7X7-YNR9
 
 
 
@@ -1607,22 +1688,22 @@ In Q3 and Q4 of 2020, the state of health emergency and the curfew are nationwid
 In Q1 and Q2 of 2021, the state of health emergency and the curfew are nationwide, but entry and exit to Greater Libreville is further restricted (5, 6). 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/336411/gabon-authorities-extend-state-of-emergency-due-to-covid-19-until-may-11-update-7
+ perma.cc/QPQ5-STM8
 (1)
 
-https://www.garda.com/crisis24/news-alerts/341016/gabon-covid-19-state-of-emergency-lifted-may-11-update-8
+perma.cc/D55V-VVXJ
 (2)
 
-https://www.garda.com/crisis24/news-alerts/386741/gabon-state-of-health-emergency-extended-until-november-17-update-10
+perma.cc/55AC-R62S
 (3)
 
-https://www.garda.com/crisis24/news-alerts/414551/gabon-covid-19-related-state-of-health-emergency-extended-through-january-2021-update-11
+perma.cc/7CX4-YJAF
 (4)
 
-https://www.garda.com/crisis24/news-alerts/448336/gabon-covid-19-measures-unchanged-as-of-feb-26-update-15
+perma.cc/M3NA-LC3C
 (5)
 
-https://www.garda.com/crisis24/news-alerts/480971/gabon-covid-19-related-state-of-emergency-in-place-nationwide-through-june-28-update-19
+perma.cc/B48Q-C4ZZ
 (6)
 
 
@@ -1652,20 +1733,41 @@ Q3 2020, Q4 2020: from 9 November vehicular and pedestrian movement in Tbilisi a
 Q1 2021, Q2 2021: Emergency measures were almost uniform. 
 
 *Sources*:
- http://gov.ge/index.php?lang_id=ENG&sec_id=547&info_id=76140
-http://gov.ge/index.php?lang_id=ENG&sec_id=547&info_id=76096
-http://gov.ge/index.php?lang_id=ENG&sec_id=547&info_id=75892
-https://www.gov.uk/foreign-travel-advice/georgia/coronavirus
-https://www.garda.com/crisis24/news-alerts/397366/georgia-authorities-to-introduce-curfew-across-large-cities-due-to-covid-19-from-november-9-update-20
-https://matsne.gov.ge/ka/document/view/5029960?publication=0
-https://matsne.gov.ge/ka/document/view/4896865?publication=0
+ https://perma.cc/2KUN-JYRP
 
-https://www.garda.com/crisis24/news-alerts/479621/georgia-authorities-ease-certain-domestic-covid-19-related-restrictions-as-of-may-17-update-32
-https://www.garda.com/crisis24/news-alerts/469216/georgia-authorities-maintaining-covid-19-related-restrictions-as-of-april-20-update-31
-https://www.garda.com/crisis24/news-alerts/458506/georgia-authorities-continue-to-gradually-ease-domestic-covid-19-restrictions-as-of-march-22-update-30
-https://www.garda.com/crisis24/news-alerts/448096/georgia-authorities-ease-certain-domestic-covid-19-restrictions-as-of-feb-25-international-entry-restrictions-starting-march-1-update-29
-https://www.garda.com/crisis24/news-alerts/438716/georgia-authorities-to-further-ease-domestic-covid-19-restrictions-from-feb-8-update-28
-https://www.garda.com/crisis24/news-alerts/426436/georgia-authorities-maintaining-domestic-coronavirus-restrictions-through-at-least-jan-31-update-26
+
+https://perma.cc/56TY-8QKF
+
+
+https://perma.cc/2DX5-DVZ3
+
+
+https://perma.cc/R4LG-DC8J
+
+
+https://perma.cc/ZX6X-UL6B
+
+
+https://perma.cc/VN8N-VVG8
+
+
+https://perma.cc/PF6S-MF29
+
+
+https://perma.cc/R3G8-RUCF
+
+
+https://perma.cc/56AD-B3RS
+
+
+https://perma.cc/39S6-YC38
+
+
+https://perma.cc/DU7P-AWJS
+
+
+
+https://perma.cc/DR9N-WVC9
 
 
 
@@ -1690,14 +1792,19 @@ https://www.garda.com/crisis24/news-alerts/426436/georgia-authorities-maintainin
  The federal government have coordinated a lot of the emergency response and implemented a set of measures during the pandemic that have resulted in a fairly similar response across most states. However, some states such as Bavaria and Thuringia have taken more far reaching responses at times, and there are also other states in which differing emergency measures have been imposed. While there thus are some states that do differ a lot from most others, the measures taken have not been so different across the states that it results complete or almost complete sub-national variation during any of the periods, and this is therefore coded as 2. While the amendment on 2021-04-21 created more homogeneity in the measures as some baseline of restrictions (onto which states can infer more restrictions) is applied to all areas which meets a threshold of infection rates, not all district have met this threshold and some drop below it over time. Thus, there continues to be sub-national variation in Germany, and this is coded 2 for all periods. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
+ https://perma.cc/P7FH-NW2U
 
-https://www.tagesschau.de/inland/freiburg-ausgangssperre-101.html
 
-https://www.stmi.bayern.de/assets/stmi/sus/katastrophenschutz/baymbl_2020_155_feststellung_katastrophenfall.pdf
+https://perma.cc/733N-FPGC
 
-https://verfassungsblog.de/germany-and-Covid-19-a-most-eventful-year/
-https://www.garda.com/crisis24/news-alerts/471066/germany-authorities-tighten-domestic-Covid-19-restrictions-as-of-april-24-update-43
+
+https://perma.cc/GAD3-DB3U
+
+
+https://perma.cc/7XBG-EYVD
+
+
+https://perma.cc/P77X-U9GG
 
 
 
@@ -1725,15 +1832,15 @@ The restrictions reintroduced in January 2021 apply to the entire country and re
 
 *Sources*:
  [1]
-https://www.cnbcafrica.com/news/2020/04/20/ghana-lifts-lockdown-on-key-regions-as-covid-19-cases-reach-1042/
+perma.cc/D2H2-ZDD7
 [2]
-https://verfassungsblog.de/wp-content/uploads/2020/05/E.I.-65.pdf
+perma.cc/X8NL-F35N
 [3]
-https://www.garda.com/crisis24/news-alerts/327316/ghana-authorities-impose-lockdown-on-two-regions-due-to-covid-19-from-march-30-update-3
+perma.cc/QS8H-9WQP
 [4]
-https://www.aa.com.tr/en/africa/ghana-eases-lockdown-measures-supports-social-distance/1860712
+perma.cc/4ABX-XY3D
 [5]
-https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Coronavirus-Government-bans-funerals-weddings-concerts-parties-until-further-notice-1168564
+perma.cc/5JP4-2L55
 
 
 
@@ -1761,38 +1868,35 @@ In Q4 of 2020, the government started by increasing local Covid-19 measures in h
 During Q1 of 2021, some areas with increased Covid-19 cases were put under stricter local restrictions, such as a different night time curfew (10). During Q2 of 2021, the measures were more or less uniform throughout the country (11). 
 
 *Sources*:
- https://www.reuters.com/article/us-health-coronavirus-greece-lockdown/greece-extends-coronavirus-lockdown-measures-by-a-week-to-may-4-idUSKCN2251LH
+ perma.cc/98RX-VUQA
 (1)
 
-https://www.news247.gr/koinonia/koronoios-18-erotapantiseis-gia-tin-apagoreysi-kykloforias.7607630.html
+perma.cc/2W3K-DLG7
 (2)
-
-https://www.aa.com.tr/en/europe/greece-announces-compulsory-use-of-masks/1925340
+perma.cc/Q3SK-9MPF
 (3)
-
-https://www.ekathimerini.com/255330/article/ekathimerini/news/face-masks-compulsory-in-enclosed-spaces-in-greece
+perma.cc/FP9L-4H49
 (4)
-
-https://www.tovima.gr/2020/08/16/vimatv/koronoios-ta-nea-metra-pou-tithentai-se-isxy-ti-deytera-ti-ora-tha-kleinoun-mpar-kai-estiatoria/
+perma.cc/KM9R-4UME
 (5)
 
-https://gr.usembassy.gov/health-alert/
+perma.cc/EQY2-4BRM
 (6)
-
-https://www.tornosnews.gr/en/greek-news/society/42020-greek-authorities-clarify-new-lockdown-restrictions-against-covid-19-pandemic.html
+perma.cc/M8SS-MAE8
 (7)
 
-https://www.garda.com/crisis24/news-alerts/392001/greece-curfews-to-be-imposed-in-athens-and-thessaloniki-from-october-24-update-36
+perma.cc/NTQ9-FWHY
 (8)
 
-https://www.garda.com/crisis24/news-alerts/395161/greece-additional-nationwide-covid-19-restrictions-to-be-implemented-from-november-3-update-37
+perma.cc/VB7F-YVA5
 (9)
 
-https://www.garda.com/crisis24/news-alerts/457921/greece-authorities-to-tighten-certain-localized-covid-19-restrictions-ease-some-nationwide-restrictions-starting-march-20-update-51
+perma.cc/8XMG-C477
 (10)
-
-https://www.garda.com/crisis24/news-alerts/471491/greece-authorities-ease-restrictions-for-more-international-arrivals-april-26-update-58
+perma.cc/XVN2-U7UW
 (11)
+
+
 
 
 
@@ -1818,7 +1922,7 @@ https://www.garda.com/crisis24/news-alerts/471491/greece-authorities-ease-restri
 
 *Sources*:
  [1]
-https://www.minfin.gob.gt/images/calamidad/documentos/Decreto%20No%205-2020%20-%20COVID-19.pdf
+perma.cc/S4NH-S9YF
 [2]
 https://consortiumlegal.com/documentos/COVID-19/documentos/GT/DECRETO%20GUBERNATIVO%2017-2020%20(200826).pdf
 
@@ -1848,27 +1952,19 @@ Despite the extension of the state of emergency, some Covid-19 restrictions in t
 In Q1 and Q2 of 2021, all measures, including the existing 0001-0400 curfew in Greater Conakry (Conakry, Coyah, and Dubreka), remain in effect. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/379846/guinea-authorities-extend-health-emergency-through-at-least-october-15-update-10
-
-https://www.garda.com/crisis24/news-alerts/390171/guinea-authorities-extend-state-of-health-emergency-until-november-15-update-12
-
-https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19#G
-
-https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
-
-https://www.garda.com/crisis24/news-alerts/331731/guinea-nationwide-state-of-emergency-extended-through-april-30-due-to-covid-19-update-3
-
-http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
-
-https://www.garda.com/crisis24/news-alerts/416386/guinea-state-of-health-emergency-extended-through-mid-january-update-12
-
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011880515/guinea-authorities-extend-covid-19-related-state-of-health-emergency-for-a-month-from-jan-15-update-14
-
-https://www.garda.com/crisis24/news-alerts/444151/guinea-nationwide-covid-19-restrictions-remain-largely-unchanged-as-of-feb-17-update-15
-
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/h9e7wogkvd4bsihrf/guinea-nationwide-state-of-emergency-extended-through-april-30-due-to-covid-19-update-3
-
-https://www.garda.com/fr/crisis24/alertes-de-securite/484301/guinea-authorities-extend-covid-19-related-state-of-health-emergency-through-june-26-curfew-hours-reduced-may-27-update-19
+ perma.cc/9JE3-BHCZ
+perma.cc/2DE6-3HVX
+perma.cc/U962-9CJ9
+[4]
+https://web.archive.org/web/20200330075009/https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
+perma.cc/PGN4-2Q5U
+[6]
+https://web.archive.org/web/20200528181921/http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
+perma.cc/R2DX-38LR
+perma.cc/9N22-8UJM
+perma.cc/8GTX-E49H
+perma.cc/SN3N-EPUU
+perma.cc/AZ43-98GU
 
 
 
@@ -1893,18 +1989,22 @@ https://www.garda.com/fr/crisis24/alertes-de-securite/484301/guinea-authorities-
  The emergency measures including the night time curfew have been countrywide during all quarters of 2020 and 2021. 
 
 *Sources*:
- https://www.haitilibre.com/article-30311-haiti-flash-le-president-moise-declare-l-etat-l-urgence-sanitaire-texte-de-l-arrete.html
+ perma.cc/M2UT-6BHJ
 
 
-https://www.garda.com/crisis24/news-alert-full-history/Dtx9gS7BvicMJxZCn/haiti-government-suspends-flights-from-europe-latin-america-and-canada-due-to-covid-19-march-16
+perma.cc/VG2H-V37G
 
-https://www.haitilibre.com/en/news-33811-haiti-covid-19-state-of-health-emergency-text-of-the-order.html
 
-https://www.garda.com/crisis24/news-alerts/483006/haiti-authorities-impose-covid-19-related-health-state-of-emergency-until-may-30-tightening-domestic-restrictions-update-15
+perma.cc/CW7S-27MT
 
-https://www.garda.com/crisis24/news-alerts/475926/haiti-covid-19-related-restrictions-remain-unchanged-as-of-may-7-update-14
 
-https://www.garda.com/crisis24/news-alerts/485821/haiti-authorities-extend-covid-19-related-health-state-of-emergency-until-june-15-update-16
+perma.cc/9QHA-JKE8
+
+
+perma.cc/3WYA-26WM
+
+
+perma.cc/2PHX-EDDR
 
 
 
@@ -1930,20 +2030,18 @@ https://www.garda.com/crisis24/news-alerts/485821/haiti-authorities-extend-covid
 
 *Sources*:
  [1]
-https://www.laprensa.hn/honduras/1388142-410/cierran-mercados-honduras-focos-contagio-covid-19-
-
+perma.cc/TL2M-S4GQ
 [2]
-https://www.diez.hn/coronavirus/1388127-441/segunda-fase-apertura-inteligente-reactivacion-economica-suspenso-coronavirus-honduras
+perma.cc/JZQ4-XQ5U
 [3]
 http://www.consejosecretariosdeestado.gob.hn/content/pr%C3%B3rroga-de-las-medidas-de-restricci%C3%B3n-de-derechos-fundamentales-del-24-de-agosto-hasta-el-6
 
 [4]
-http://www.consejosecretariosdeestado.gob.hn/content/pr%C3%B3rroga-de-las-medidas-de-restricci%C3%B3n-derechos-fundamentales-partir-del-12-al-18-de-octubre
-
+https://web.archive.org/web/20211021013629/http://consejosecretariosdeestado.gob.hn/content/pr<97>rroga-de-las-medidas-de-restricci<97>n-derechos-fundamentales-partir-del-12-al-18-de-octubre
 [5]
-https://www.elheraldo.hn/pais/1462800-466/extienden-toque-queda-honduras-restricciones-contagios-covid-pandemia-medidas
+perma.cc/3V2R-ZMPG
 [6]
-https://presidencia.gob.hn/press/blog-node/salud-anuncia-medidas-ante-incremento-de-casos-de-covid-19-en-el-para%C3%ADso
+https://web.archive.org/web/20210614235918/https://presidencia.gob.hn/press/blog-node/salud-anuncia-medidas-ante-incremento-de-casos-de-covid-19-en-el-para%C3%ADso
 
 
 
@@ -1968,12 +2066,16 @@ https://presidencia.gob.hn/press/blog-node/salud-anuncia-medidas-ante-incremento
  No sub-national variation in the emergency measures has been found. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/d5vLuQaeAu3bRjikg/hong-kong-maximum-health-warning-level-implemented-january-25
-https://www.acaps.org/covid19-government-measures-dataset
-https://verfassungsblog.de/fear-of-unaccountability-vs-fear-of-a-pandemic-Covid-19-in-hong-kong/
+ https://perma.cc/8TZJ-BX67
 
-https://verfassungsblog.de/surviving-executive-led-pandemic-control-in-executive-led-hong-kong/
- 
+
+https://perma.cc/AUR6-TPPM
+
+
+https://perma.cc/B3FK-2TVY
+
+
+https://perma.cc/Q6EA-MQ3B
 
 
 
@@ -1998,8 +2100,8 @@ https://verfassungsblog.de/surviving-executive-led-pandemic-control-in-executive
  Only uniform measures throughout the country found. 
 
 *Sources*:
- https://koronavirus.gov.hu/#aktualis
-https://net.jogtar.hu/veszelyhelyzet
+ https://perma.cc/5HK7-Y22M
+https://perma.cc/42CY-4EZR
 
 
 
@@ -2032,17 +2134,19 @@ https://net.jogtar.hu/veszelyhelyzet
 There are no nationwide measures that have been issued in Q1 and Q2 of 2021. Measures have continued to be enforced at the sub national level. For example, the area of Maharashtra was put under a week long lockdown from 23 February 2021 to 1 March 2021. Hence I have continued to code this variable as 3. 
 
 *Sources*:
- https://www.hindustantimes.com/india-news/covid-19-disaster-act-invoked-for-the-1st-time-in-india/story-EN3YGrEuxhnl6EzqrlreWM.html
+ https://perma.cc/8XD2-TGCP
 
 
-https://www.tribuneindia.com/news/himachal/himachal-bans-entry-of-domestic-foreign-tourists-amid-coronavirus-threat-58038
+https://perma.cc/AT3G-4BP3
 
 
-https://thewire.in/government/odisha-covid-19-response
+https://perma.cc/9HAW-K22B
 
-https://www.ndtv.com/india-news/amravati-covid-lockdown-please-cooperate-else-cops-on-lockdown-in-maharashtras-amravati-2376678
 
-https://www.indiatoday.in/coronavirus-outbreak/story/nagpur-7-day-lockdown-coronavirus-cases-rise-maharashtra-1779448-2021-03-15
+https://perma.cc/M3P9-KJ47
+
+
+https://perma.cc/S4CX-VHYK
 
 
 
@@ -2074,29 +2178,22 @@ Large scale social restrictions were implemented just in the provinces of Java a
 
 *Sources*:
  [1]
-https://www.cnbcindonesia.com/market/20200321130447-17-146650/ini-daftar-pemda-yang-sudah-tetapkan-darurat-corona
-
-
+https://perma.cc/B5UN-JYB2
 [2]
-https://www.bbc.com/news/world-asia-52124193
-
+https://perma.cc/B2DY-K94A
 [3]
-https://indonesien.ahk.de/en/infocenter/news/news-details/covid-19-developments-in-indonesia
-
+https://perma.cc/4WTM-RWQE
 [4]
-https://setkab.go.id/pemerintah-beri-kewenangan-penuh-pemda-tentukan-izin-pembelajaran-tatap-muka/
-
+https://perma.cc/8WE9-WJPR
 [5]
-https://www.cnnindonesia.com/nasional/20210106125013-20-590125/pemerintah-tetapkan-psbb-jawa-bali-11-25-januari-2021
+https://perma.cc/JC3T-44ZP
 
 [6]
-https://www.garda.com/crisis24/news-alerts/439821/indonesia-authorities-extend-public-activity-restrictions-in-parts-of-java-and-bali-through-feb-22-update-64
-
+https://perma.cc/B22N-BHVR
 [7]
-https://www.garda.com/crisis24/news-alerts/479371/indonesia-officials-extends-covid-19-restrictions-nationwide-through-may-31-update-72
-
+https://perma.cc/A3KS-6RKD
 [8]
-https://www.garda.com/crisis24/news-alerts/474161/indonesia-officials-expanding-public-activity-restrictions-through-may-17-due-to-covid-19-update-71
+https://perma.cc/4HKW-GV4W
 
 
 
@@ -2121,20 +2218,31 @@ https://www.garda.com/crisis24/news-alerts/474161/indonesia-officials-expanding-
  In Q2 of 2020, Iran's emergency measures have been implemented nationwide by the government, and no sub-national variation in these measures have been found. This is therefore coded as 0 for this period. In Q3 of 2020, a little sub-national variation was introduced in that lockdown measures were reintroduced in Tehran on July 15 2020 due to a rise in Covid-19 cases. This period is therefore coded as 1. In Q4, more sub-national variation has emerged as new restrictions came in place in 25 of the 31 regions, as well as imposing new curfews in 31 cities, including Tehran. For this period, this is therefore coded 2. For Q1 and Q2 of 2021, this relative sub-national variation has continued, where restrictions are in part based on the extent of the viral spread, and some regions and cities are subject to more extensive restrictions. Thus, this is coded as 2 for these periods as well. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/N9NhpAJjGdQ34cnYX/iran-officials-suspend-flights-to-and-from-china-due-to-novel-coronavirus-as-of-january-31
-
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.garda.com/crisis24/news-alerts/395361/iran-authorities-to-tighten-Covid-19-restrictions-in-25-provinces-november-4-update-40
-
-https://www.garda.com/crisis24/news-alerts/398556/iran-authorities-impose-curfew-in-tehran-and-30-other-cities-november-11-update-41
-https://www.garda.com/crisis24/news-alerts/465491/iran-health-officials-impose-further-restrictions-in-most-of-the-country-april-10-20-due-to-Covid-19-tehrans-Covid-19-status-remains-red-update-36
+ https://perma.cc/WNY7-HFY6
 
 
-https://www.garda.com/crisis24/news-alerts/422091/iran-authorities-introduce-nightly-2100-0400-traffic-curfew-in-several-cities-to-stem-the-spread-of-coronavirus-disease-as-of-dec-26-update-29
+https://perma.cc/DJR3-P4XT
 
 
-https://www.garda.com/crisis24/news-alerts/409721/iran-authorities-extend-Covid-19-restrictions-in-high-risk-areas-through-dec-19-update-27 
+https://perma.cc/V4UK-9YZE
+
+
+https://perma.cc/G3ZA-V4VU
+
+
+https://perma.cc/Y5UM-QM9V
+
+
+
+
+
+https://perma.cc/UK5A-DD7K
+
+
+
+
+
+https://perma.cc/2FB5-R7Y5
 
 
 
@@ -2159,24 +2267,34 @@ https://www.garda.com/crisis24/news-alerts/409721/iran-authorities-extend-Covid-
  Several measures have been taken for the whole country, such as school closing, curfews, limiting public gatherings, but there has also been much regional variation. Baghdad and Najaf have imposed curfews and lockdowns beyond the national-level emergency response, and the Kurdish region of Iraq has have also imposed significant emergency measures such as lockdowns and limitations on movement. These regional differences seem to be fairly constant throughout 2020. However, there is less regional variation and more national-level emergencies in Q1 and Q2 of 2021. Some regional variation remains through independent measures taken in some instances by the Kurdish region, but it has become more nationally homogenous in the restrictions. This is therefore coded 2, some sub-national variation, in Q2-Q4 of 2020, and 1, a little sub-national variation, in Q1-Q2 of 2021. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.garda.com/crisis24/news-alert-full-history/skyyNqiseFrGow3WS/iraq-government-bans-entry-of-travelers-from-china-as-of-february-2-amid-Covid-19-outbreak
+ https://perma.cc/H5SG-VXW3
 
 
-https://www.garda.com/crisis24/news-alerts/320991/iraq-authorities-order-closure-of-najaf-province-over-Covid-19-outbreak-march-11-update-10
+https://perma.cc/5VRV-E4EE
 
 
-https://www.garda.com/crisis24/news-alerts/324521/iraq-lockdown-extended-in-kurdistan-region-march-18-update-14
-
-https://www.garda.com/crisis24/news-alerts/367431/iraq-Covid-19-curfew-extended-nationwide-until-august-15-update-47
-https://www.garda.com/crisis24/news-alerts/442736/iraq-iraqi-authorities-to-impose-stricter-restrictions-from-feb-18-update-78
+https://perma.cc/K5PF-CUT5
 
 
-https://www.garda.com/crisis24/news-alerts/474971/iraq-authorities-plan-to-impose-nationwide-curfew-may-12-22-update-91
+https://perma.cc/4YYQ-E924
 
 
-https://www.garda.com/crisis24/news-alerts/466301/iraq-iraqi-authorities-extend-partial-Covid-19-curfew-as-of-april-13-update-89 
+https://perma.cc/3CVZ-ET54
+
+
+https://perma.cc/E4F5-RKKP
+
+
+
+
+
+https://perma.cc/G8DA-8BUC
+
+
+
+
+
+https://perma.cc/DYF5-3RWP
 
 
 
@@ -2201,24 +2319,34 @@ https://www.garda.com/crisis24/news-alerts/466301/iraq-iraqi-authorities-extend-
  Initially, the emergency measures were taken nationwide with no sub-national variation. In Q3 of 2020, however, some sub-national variation occurred as some specific measures were implemented in Kildare, Laois and Offaly, and subsequently also Dublin and Donegal, Calvan and Monaghan. This sub-national variation also carried over to Q4, and constituted differences in limitations on public gatherings, travel restrictions, attendance at public places etc. Several emergency measures have still been conducted nationwide though, and for instance the situation was deemed a level 5 emergency (the max) for the whole country in October 2020, followed by nationwide restrictions again. Therefore, this is coded 0 in Q2 of 2020, and 1 in Q3 and Q4 period as some variation were introduced, alongside uniform restrictions across the country. However, for Q1 and Q2 of 2021, no such sub-national variation has been found and all measures seem to be functioning nationwide. This is therefore coded 0 for these. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
+ https://perma.cc/J8ZD-R2UL
 
-https://www.garda.com/crisis24/news-alert-full-history/QRxmkCyBbNst6LbX5/ireland-first-case-of-Covid-19-confirmed-in-country-february-29
 
-https://www.garda.com/crisis24/news-alerts/367156/ireland-authorities-reintroduce-some-Covid-19-restrictions-in-kildare-laois-and-offaly-counties-august-7-update-12
+https://perma.cc/87MY-259Z
 
-https://www.garda.com/crisis24/news-alerts/381191/ireland-authorities-impose-tighter-restrictions-in-dublin-from-september-19-update-14
 
-https://www.garda.com/crisis24/news-alerts/390931/ireland-authorities-to-impose-highest-level-of-Covid-19-restrictions-from-october-21-update-16
+https://perma.cc/UW7E-PUEU
 
-https://www.garda.com/crisis24/news-alerts/473376/ireland-authorities-to-ease-Covid-19-restrictions-on-domestic-activities-starting-may-10-update-35
 
-https://www.garda.com/crisis24/news-alerts/471451/ireland-authorities-maintaining-Covid-19-restrictions-as-of-april-26-update-34
+https://perma.cc/XP6S-ZQBQ
 
-https://www.garda.com/crisis24/news-alerts/446811/ireland-authorities-extend-Covid-19-related-domestic-restrictions-until-april-5-update-27
 
-https://www.garda.com/crisis24/news-alerts/435061/ireland-authorities-extend-Covid-19-restrictions-until-at-least-march-5-despite-decrease-in-infection-rates-update-24
-https://www.citizensinformation.ie/en/covid19/living_with_covid19_plan.html
+https://perma.cc/VW22-RUJH
+
+
+https://perma.cc/98SC-HBA8
+
+
+https://perma.cc/BB7G-9GL6
+
+
+https://perma.cc/U8P2-YHJF
+
+
+https://perma.cc/3NAU-T7UN
+
+
+https://perma.cc/7ZKZ-7R9E
 
 
 
@@ -2243,26 +2371,15 @@ https://www.citizensinformation.ie/en/covid19/living_with_covid19_plan.html
  The emergency measures have mostly been taken nationwide. However, some regions and areas have been subject to further restrictions and measures than the country as a whole in the Jul-Sep period, where some sub-national variation existed. This sub-national variation has as far as have been seen not travelled into to Oct-Dec period, where it is again uniform measures across the country. During 2021, all restrictions and the subsequent reopening has been nationwide. This is therefore coded 2 in the Jul-Sep period, and 0 in the others. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/pX7cDbbneik6HZj4a/israelpalestinian-terr-el-al-suspends-all-flights-to-china-due-to-novel-coronavirus-january-30
-
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.garda.com/crisis24/news-alert-full-
-
-https://www.garda.com/crisis24/news-alerts/375666/israelpalestinian-terr-officials-announce-lockdowns-in-30-cities-from-september-7-update-53
-
-https://www.garda.com/crisis24/news-alerts/390116/israelpalestinian-terr-authorities-to-ease-lockdown-measures-october-18-update-64
-
-https://www.garda.com/crisis24/news-alerts/395126/israelpalestinian-terr-authorities-to-ease-Covid-19-measures-from-november-1-update-66
-
-
-https://www.garda.com/crisis24/news-alerts/443406/israel-authorities-to-reopen-malls-stores-and-other-establishments-nationwide-feb-21-update-90
-
-https://www.garda.com/crisis24/news-alerts/425781/israel-authorities-to-tighten-coronavirus-disease-related-restrictions-nationwide-for-at-least-two-weeks-beginning-jan-8-update-81
-
-https://www.garda.com/crisis24/news-alerts/485676/israel-authorities-lift-most-domestic-Covid-19-restrictions-june-1-update-103
-
-https://www.garda.com/crisis24/news-alerts/487961/israel-authorities-to-lift-indoor-mask-mandate-from-june-15-update-104
+ https://perma.cc/9D54-W2ZF
+https://perma.cc/WA7D-PTWK
+https://perma.cc/CT4F-ZTJK
+https://perma.cc/4MPQ-4PJF
+https://perma.cc/3XZJ-4SGK
+https://perma.cc/57JM-QWKN
+https://perma.cc/5WV7-TTXZ
+https://perma.cc/6BG7-UQLA
+https://perma.cc/N3FK-DCX2
 
 
 
@@ -2287,20 +2404,28 @@ https://www.garda.com/crisis24/news-alerts/487961/israel-authorities-to-lift-ind
  Although the Italian Government have had numerous national response measures, the regional variation has during Q2 of 2020 differed substantially, most notably in the beginning of the spread of Covid-19 where only the Northern regions were in lockdown. While several measures later spread to all of Italy's regions, these large discrepancies in emergency responses between regions at parts of the development is enough to code this as 3 in Q2 of 2020, as there was substantial sub-national variation. However, for Q3 and Q4 of 2020, measures seem to have conformed more. Although sub-national variation still exist, and some regions have seen reentrance of some measures that others have not, there are several nationwide measures implemented (or lifted across the nation) during these periods. The system of adopting different measures in regions depending on their level of infections etc. has continued in 2021, and there thus remains sub-national variation. However, as in the latter part of 2020, the variation in practice has not been so significant as to constitute coding 3, as the majority of Italy has been under more extensive lockdown measures and few regions have seen substantial differences from this. Thus, this is coded as 2 in Q1 and Q2 of 2021 as well. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/aiKFCqLFGxWQZ86xz/italy-air-traffic-suspended-to-and-from-china-due-to-novel-coronavirus-as-of-january-30
+ https://perma.cc/3GPS-2PWN
 
-https://www.acaps.org/covid19-government-measures-dataset
 
-https://www.garda.com/crisis24/news-alerts/392941/italy-authorities-announce-new-Covid-19-restrictions-nationwide-from-october-26-update-46
+https://perma.cc/7GAF-W9EQ
 
-https://www.garda.com/crisis24/news-alerts/391781/italy-authorities-to-introduce-night-time-curfew-in-lazio-region-from-october-23-update-45
 
-https://www.garda.com/crisis24/news-alerts/390271/italy-lombardy-and-campania-regions-impose-tighter-Covid-19-restrictions-october-17-update-43
-https://www.garda.com/crisis24/news-alerts/480216/italy-authorities-ease-Covid-19-related-curfew-as-of-may-18-update-49
+https://perma.cc/EDV9-USU8
 
-https://www.garda.com/crisis24/news-alerts/454506/italy-authorities-to-tighten-domestic-Covid-19-restrictions-from-march-15-update-40
 
-https://www.garda.com/crisis24/news-alerts/430441/italy-authorities-extend-Covid-19-related-state-of-emergency-until-april-30-associated-restrictions-in-place-until-at-least-feb-15-update-31
+https://perma.cc/SGF3-ZB47
+
+
+https://perma.cc/785E-QMXD
+
+
+https://perma.cc/RCV2-QJER
+
+
+https://perma.cc/3Q86-35SB
+
+
+https://perma.cc/236Y-KNFH
 
 
 
@@ -2327,23 +2452,15 @@ https://www.garda.com/crisis24/news-alerts/430441/italy-authorities-extend-Covid
 During Q1 and Q2 of 2021, the state of health emergency was nationwide. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/408881/cote-divoire-authorities-maintain-a-nationwide-coronavirus-related-state-of-emergency-as-of-nov-30-update-16
-
-https://crisis24.garda.com/insights/news-alerts/meqdf7bayncosrdnr/cote-divoire-quarantine-measures-in-abidjan-lifted-july-15-update-14
-
-https://ci.usembassy.gov/covid-19-information/#:~:text=Since%20the%20start%20of%20the,are%20encouraged%2C%20though%20not%20enforced.
-
-https://www.garda.com/crisis24/news-alerts/365271/cote-divoire-authorities-extend-covid-19-state-of-emergency-until-august-31-update-15
-
-https://ci.usembassy.gov/covid-19-information/
-
-https://www.garda.com/crisis24/news-alerts/342271/cote-divoire-authorities-announce-easing-of-some-covid-19-restrictions-in-abidjan-may-14-update-11
-
-https://fr.africanews.com/2020/03/24/coronavirus-en-cote-d-ivoire-decrete-etat-d-urgence-couvre-feu-et-confinement/
-
-https://www.garda.com/crisis24/news-alerts/478156/cote-divoire-covid-19-related-nationwide-measures-unchanged-as-of-may-13-update-23
-
-https://www.garda.com/crisis24/news-alerts/450286/cote-divoire-covid-19-related-nationwide-measures-unchanged-as-of-march-3-update-20
+ perma.cc/V89E-PGVU
+perma.cc/5UT4-9Y8P
+perma.cc/8HLY-E5R7
+perma.cc/U82L-2ZQM
+perma.cc/42GQ-8MA2
+perma.cc/XL86-94DU
+perma.cc/QJE9-6HKL
+perma.cc/Z22F-DQ4K
+perma.cc/7RQZ-6FBJ
 
 
 
@@ -2369,19 +2486,19 @@ https://www.garda.com/crisis24/news-alerts/450286/cote-divoire-covid-19-related-
 
 *Sources*:
  [1]
-https://www.ctvnews.ca/world/state-of-emergency-lifted-for-montego-bay-extended-around-kingston-1.4658677
+perma.cc/TL2S-W465
 [2]
-https://www.caribbeannationalweekly.com/caribbean-breaking-news-featured/parliament-approves-extension-of-states-of-emergency-in-jamaica/
+perma.cc/DUK4-Q5XW
 [3]
-https://www.telesurenglish.net/news/jamaica-to-lift-states-of-emergency-ahead-of-elections-20200815-0007.html
+perma.cc/5WCZ-XM2Q
 [4]
-https://jis.gov.jm/media/2020/07/Disaster-Risk-Management-Enforcement-Measures-No.-10-Order-2020-July-15-2020-002.pdf
+perma.cc/99WB-8V99
 [5]
-https://www.travelpulse.com/news/destinations/how-strict-covid-19-protocols-enabled-jamaicas-travel-reopening.html
+perma.cc/D38H-YMBA
 [6]
-https://www.travelpulse.com/news/destinations/how-jamaica-is-attracting-visitors-in-the-covid-19-era.html
+perma.cc/3LZR-BEPM
 [7]
-https://jis.gov.jm/covid-19-resilient-corridor-established-for-tourists/
+perma.cc/MGA2-C73A
 
 
 
@@ -2412,29 +2529,17 @@ The state of emergency was progressively increased through out Japan in May and 
 A state of emergency was declared in Tokyo and the surrounding areas of Chiba, Saitama and Kanagawa from 7 February 2021. This emergency declaration was not extended to the rest of the country. This state of emegency was later extended to at least 20 June 2021. 
 
 *Sources*:
- "https://www.theguardian.com/world/2020/may/25/japan-lifts-state-of-emergency-after-fall-in-coronavirus-cases
-
-https://www.reuters.com/article/us-health-coronavirus-japan-abe/japan-pm-abe-to-lift-state-of-emergency-for-all-of-japan-today-idUSKBN2310WN
-
-
-https://abcnews.go.com/Health/wireStory/latest-south-korea-25-cases-small-outbreaks-70855282
-
-https://www.bloomberg.com/news/articles/2020-04-07/japan-s-abe-declares-state-of-emergency-over-coronavirus
-
-https://web.archive.org/web/20200416074627/
-
-https://mainichi.jp/english/articles/20200416/p2g/00m/0na/085000c"
-
-
-https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=424AC0000000031#223
-
-https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instead-of-legal-penalty/
-
-https://edition.cnn.com/2021/01/07/asia/japan-state-of-emergency-tokyo-coronavirus-intl-hnk/index.html
-
-https://english.kyodonews.net/news/2021/05/d35c8e4fadc4-japan-to-expand-extend-covid-19-state-of-emergency.html
-
-https://www.argusmedia.com/en/news/2219521-japan-to-further-extend-covid19-emergency-until-june
+ https://perma.cc/UYG2-5WLD
+https://perma.cc/2R99-UWD7
+https://perma.cc/XS34-USSN
+https://web.archive.org/web/20200407120942/https://www.bloomberg.com/news/articles/2020-04-07/japan-s-abe-declares-state-of-emergency-over-coronavirus
+https://perma.cc/A985-JVRC
+https://perma.cc/36NF-ELJM
+https://perma.cc/AD83-7NX2
+https://perma.cc/Q9CJ-T9LA
+https://perma.cc/3UMG-C9X8
+https://perma.cc/32DJ-8VNR
+https://perma.cc/8WRL-TSQF
 
 
 
@@ -2459,22 +2564,34 @@ https://www.argusmedia.com/en/news/2219521-japan-to-further-extend-covid19-emerg
  Jordan's emergency measures have been implemented nationally, but some regions (Aqaba, Irbid, Karak, Ma’an, Mafraq and Tafila) eased their lockdowns more than other regions in April 2020, and in August 2020 the Ramtha region imposed curfews not in place in the rest of the country. Likewise, a number of regional measures have been taken in October and November in 2020, where lockdowns and various curfews have been put in place in specific areas or cities (alongside national measures). For Q2 and Q3 of 2020, there is thus a smaller sub-national variation and coded as 1, whereas Q4 sees some increase sub-national variation and coded as 2. However, for Q1 and Q2 of 2021 all restrictions seem to be in force nationally, e.g. curfews, and no sub-national variation has been found. These period are thus coded 0. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/NFhXD4B95qP4aB2vu/jordan-quarantine-and-screening-measures-implemented-nationwide-february-2
-
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.garda.com/crisis24/news-alerts/385871/jordan-authorities-to-impose-24-hour-curfew-in-ain-al-basha-between-october-5-12-update-38
-
-https://www.garda.com/crisis24/news-alerts/386596/jordan-lockdown-in-parts-of-amman-jerash-and-mafraq-implemented-from-october-7-to-14-update-39
-
-https://www.garda.com/crisis24/news-alerts/395416/jordan-five-day-nationwide-lockdown-to-be-imposed-from-november-11-update-45
-https://www.garda.com/crisis24/news-alerts/479311/jordan-authorities-reduce-the-nightly-curfew-to-2300-0600-from-may-13-until-further-notice-amid-gradual-easing-of-Covid-19-restrictions-update-69
+ https://perma.cc/7MD2-4EDB
 
 
-https://www.garda.com/crisis24/news-alerts/461081/jordan-authorities-extend-existing-curfews-and-other-Covid-19-restrictions-nationwide-until-at-least-may-15-update-65
+https://perma.cc/4TY4-ZUR2
 
 
-https://www.garda.com/crisis24/news-alerts/429186/jordan-authorities-cancels-24-hour-friday-curfews-starting-jan-15-update-61
+https://perma.cc/J4QV-3G3Q
+
+
+https://perma.cc/XBX6-HQ2Q
+
+
+https://perma.cc/72CR-BBSC
+
+
+https://perma.cc/3XZD-CKX6
+
+
+
+
+
+https://perma.cc/S4XN-Z3U8
+
+
+
+
+
+https://perma.cc/LC4R-DXBC
 
 
 
@@ -2505,13 +2622,22 @@ Q4 2020, : Mostly uniform measures, stricter measures in Almaty.
 Q1 2021, Q2 2021: stricter measures in some areas. Regions were divided into red, yellow, or green zones, with a different level of restrictions. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/328946/kazakhstan-government-implements-restrictive-measures-in-shymkent-april-4-update-10
+ https://perma.cc/KKA6-4555
 
-https://www.garda.com/crisis24/news-alerts/389786/kazakhstan-authorities-increase-covid-19-measures-in-almaty-october-15-update-24
-https://www.garda.com/crisis24/news-alerts/430916/kazakhstan-as-of-jan-18-authorities-re-add-nur-sultan-to-red-zone-for-covid-19-infections-update-30
-https://www.garda.com/crisis24/news-alerts/437391/kazakhstan-authorities-amend-list-of-regions-based-on-epidemiological-risk-feb-1-nur-sultan-moved-from-red-zone-to-yellow-zone-update-31
-https://www.garda.com/crisis24/news-alerts/447321/kazakhstan-authorities-to-begin-easing-covid-19-measures-in-most-regions-starting-march-1-update-33
-https://www.garda.com/crisis24/news-alerts/481051/kazakhstan-authorities-update-list-of-regions-based-on-covid-19-epidemiological-risk-may-20-update-39
+
+https://perma.cc/7XKD-W4W6
+
+
+https://perma.cc/U958-TVP5
+
+
+https://perma.cc/Z5WW-PZMF
+
+
+https://perma.cc/35XV-4RDF
+
+
+https://perma.cc/5YE5-P23U
 
 
 
@@ -2540,26 +2666,15 @@ In 27 March 2021, authorities tightened restrictions in some parts of the countr
 The night curfew in the remainder of the country was between 22:00-04:00. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/BZAeasJyK3nfsL7pM/kenya-kenya-airlines-suspends-flights-to-mainland-china-as-of-january-31-due-to-novel-coronavirus
-
-
-https://www.garda.com/crisis24/news-alerts/372871/kenya-authorities-extend-covid-19-curfew-by-30-days-update-30
-
-https://www.garda.com/crisis24/news-alerts/339936/kenya-authorities-announce-15-day-lockdown-in-eastleigh-nairobi-and-mombasa-city-as-of-may-7-update-19
-
-https://www.garda.com/crisis24/news-alerts/357071/kenya-movement-restrictions-to-be-lifted-in-nairobi-mombasa-and-mandera-counties-july-7-update-25
-
-https://www.garda.com/crisis24/news-alerts/335441/kenya-authorities-implement-ban-on-movement-in-mandera-county-april-22-update-16
-
-https://www.garda.com/crisis24/news-alerts/331191/kenya-authorities-to-lock-down-mandera-county-as-of-april-9-update-14
-
-https://www.garda.com/crisis24/news-alerts/329806/kenya-authorities-announce-21-day-movement-ban-in-nairobi-and-three-counties-april-6-update-12
-
-https://www.garda.com/crisis24/news-alerts/467521/kenya-authorities-extend-existing-covid-19-related-restrictions-through-at-least-may-29-update-21
-
-https://www.garda.com/crisis24/news-alerts/485101/kenya-authorities-extend-nationwide-curfew-until-july-27-update-23
-
-
+ https://perma.cc/P4CJ-DS8J
+https://perma.cc/3QKU-ZR4Y
+https://perma.cc/X3QL-XEBX
+https://perma.cc/9FRK-9GBW
+https://perma.cc/PX8Z-BA8A
+https://perma.cc/RXP2-BM5W
+https://perma.cc/43VV-NVQG
+https://perma.cc/GF98-TN86
+https://perma.cc/M3E7-YWNA
 
 
 
@@ -2584,22 +2699,31 @@ https://www.garda.com/crisis24/news-alerts/485101/kenya-authorities-extend-natio
  There is some sub-national variation in Kuwaits response in Q2 and Q3 in 2020, in that some lockdown measures were imposed at different lengths in different regions according to ACAPS. However, no sub-national variation has been found after that and all measures seem to be imposed nationwide. This is therefore coded 1 for the first two quarters, and 0 after that. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
+ https://perma.cc/S8JW-RFM2
 
-https://kw.usembassy.gov/health-alert-u-s-embassy-kuwait-march-23-2020/
 
-https://kw.usembassy.gov/health-alert-u-s-embassy-kuwait-2/
+https://perma.cc/6MDZ-X7PY
 
-https://kw.usembassy.gov/Covid-19-information/
 
-https://www.garda.com/crisis24/news-alerts/325446/kuwait-government-implements-nationwide-curfew-march-22-update-8
+https://perma.cc/LJ86-6L4T
 
-https://www.garda.com/crisis24/news-alerts/356516/kuwait-lockdown-restrictions-to-be-lifted-in-mahboula-and-jleeb-al-shuyoukh-from-july-9-update-21
-https://www.garda.com/crisis24/news-alerts/405571/kuwait-authorities-maintain-Covid-19-restrictions-december-1-update-28
 
-https://www.garda.com/crisis24/news-alerts/468856/kuwait-authorities-extend-nationwide-Covid-19-related-1900-0500-curfew-through-may-13-update-37
+https://perma.cc/369Z-GV9Q
 
-https://www.garda.com/crisis24/news-alerts/445511/kuwait-authorities-cancel-national-day-and-liberation-day-celebrations-feb-25-26
+
+https://perma.cc/TV3N-7JGV
+
+
+https://perma.cc/578B-PXJU
+
+
+https://perma.cc/RFJ9-32GR
+
+
+https://perma.cc/3J8S-6H2S
+
+
+https://perma.cc/4SLR-33TV
 
 
 
@@ -2628,14 +2752,19 @@ Q3 2020, Q4 2020: stricter measures in the capital Bishkek.
 Q1 2020, Q2 2020: I found no measures on a subnational level. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/340411/kyrgyzstan-authorities-extend-state-of-emergency-indefinitely-may-8-update-10
-
-https://www.meria.kg/ru/post/20244
+ https://perma.cc/C6LR-6WJ8
 
 
-https://www.garda.com/crisis24/news-alerts/440176/kyrgyzstan-authorities-maintain-coronavirus-disease-related-international-entry-and-domestic-restrictions-as-of-feb-8-update-16
-https://www.garda.com/crisis24/news-alerts/463696/kyrgyzstan-covid-19-related-restrictions-remain-largely-unchanged-as-of-april-5-by-comparison-with-early-february-update-17
-https://www.garda.com/crisis24/news-alerts/479566/kyrgyzstan-authorities-maintaining-covid-19-related-restrictions-as-of-may-17-update-18
+https://perma.cc/FN2B-K83P
+
+
+https://perma.cc/DEK5-PVLX
+
+
+https://perma.cc/D6Y5-5ZU3
+
+
+https://perma.cc/R4SJ-DL9Z
 
 
 
@@ -2660,17 +2789,25 @@ https://www.garda.com/crisis24/news-alerts/479566/kyrgyzstan-authorities-maintai
  For the first two quarters, no sub-national variation has been found in Laos and emergency measures are implement nationwide. Starting December 2020, however, Laos has imposed some more extensive movement restrictions and the like in some parts of the country at different intervals, the latest in April and May 2021 being a more extensive set of restrictions in the capital area. This is therefore coded 2 for Q4 of 2020 and Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/QdgTsHwDr2kJ9R5FC/laos-lao-airlines-to-suspend-flight-to-south-korea-from-march
+ https://perma.cc/J8HQ-9KR4
 
-https://www.acaps.org/covid19-government-measures-dataset
 
-https://www.garda.com/crisis24/news-alerts/395516/laos-authorities-extend-Covid-19-restrictions-until-december-31-update-8
+https://perma.cc/MT3L-8S99
 
-https://www.garda.com/crisis24/news-alerts/417796/laos-officials-in-bokeo-province-and-luang-prabang-tightening-restrictions-as-of-dec-18-update-15
 
-https://www.garda.com/crisis24/news-alerts/428181/laos-movement-restrictions-in-place-in-ton-pheung-bokeo-through-jan-25
+https://perma.cc/TS9V-Y2ZJ
 
-https://www.garda.com/crisis24/news-alerts/470201/laos-authorities-enforcing-stricter-Covid-19-restrictions-in-vientiane-through-2359-may-5
+
+https://perma.cc/XSQ7-V2HH
+
+
+https://perma.cc/F39F-R7KL
+
+
+https://perma.cc/R7XB-3VVK
+
+
+
 
 
 
@@ -2695,25 +2832,31 @@ https://www.garda.com/crisis24/news-alerts/470201/laos-authorities-enforcing-str
  For Q2 and Q3 of 2020, the emergency measures have been taken nationwide and no sub-national variation has been found in Lebanon. This is therefore coded as 0 for these periods. For Q4 of 2020 however, some sub-national variation exists. In October 2020, Lebanon reintroduced lockdown measures, starting with numerous townships and cities. In November 2020, lockdown measures were instead imposed nationwide, effectively minimizing any sub-national variation. This is therefore coded as 1 for Q4, as there did exist some sub-national variation during October 2020, but was met with more conforming measures later. For Q1 and Q2 of 2021, the nationwide implementation has continued, and this is therefore coded as 0 again. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
+ https://perma.cc/DA7W-Z264
 
-https://www.garda.com/crisis24/news-alert-full-history/QaSde7jsB6oYEcCsE/lebanon-first-case-of-coronavirus-Covid-19-confirmed-february-21
 
-https://www.garda.com/crisis24/news-alerts/385561/lebanon-authorities-to-implement-lockdown-restrictions-for-scores-of-locations-from-october-4-update-31
+https://perma.cc/GH6K-C2JL
 
-https://www.garda.com/crisis24/news-alerts/388151/lebanon-authorities-to-implement-lockdown-restrictions-for-multiple-locations-from-october-12-update-32
 
-https://www.garda.com/crisis24/news-alerts/395506/lebanon-authorities-extend-nationwide-curfew-times-and-place-more-areas-under-lockdown-november-2-update-34
+https://perma.cc/3RW2-8TKB
 
-https://www.garda.com/crisis24/news-alerts/398291/lebanon-nationwide-lockdown-to-be-imposed-november-14-30-update-35
 
-https://www.garda.com/crisis24/news-alerts/428061/lebanon-authorities-to-impose-24-hour-nationwide-curfew-and-tighten-Covid-19-restrictions-jan-14-25-update-42
+https://perma.cc/M3MS-CHNU
 
-https://www.garda.com/crisis24/news-alerts/439761/lebanon-health-officials-to-ease-Covid-19-related-restrictions-in-four-phases-beginning-feb-8-update-44
 
-https://www.garda.com/crisis24/news-alerts/466146/lebanon-authorities-impose-2130-0500-nightly-curfew-through-may-12-tighten-restrictions-during-ramadan-update-51
+https://perma.cc/46XS-TWNS
 
- 
+
+https://perma.cc/974M-JEJB
+
+
+https://perma.cc/C5TK-YHRQ
+
+
+https://perma.cc/UZ2A-3QDM
+
+
+https://perma.cc/WT8R-DTA3
 
 
 
@@ -2738,18 +2881,23 @@ https://www.garda.com/crisis24/news-alerts/466146/lebanon-authorities-impose-213
  Both the state of emergency and subsequent state of disaster, including all restrictions within them, apply to the entire territory. 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+ https://perma.cc/EXS5-EFSJ
 (1)
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+
+https://perma.cc/SU5V-FQPG
 (2)
-https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+
+https://perma.cc/JE35-5LTJ
 (3)
-https://www.webbernew.com/uploads/SKM_45820110909370.pdf
+
+https://perma.cc/YM8U-2TNW
 (4)
-https://www.garda.com/crisis24/news-alerts/466786/lesotho-authorities-maintain-covid-19-restrictions-as-of-april-14-update-17
+
+https://perma.cc/64PN-8K89
 (5)
-https://www.garda.com/crisis24/news-alerts/478706/lesotho-updated-covid-19-restrictions-in-place-as-of-may-14-update-18
-(5))
+
+https://perma.cc/W9FT-ZZF9
+(5)
 
 
 
@@ -2774,16 +2922,25 @@ https://www.garda.com/crisis24/news-alerts/478706/lesotho-updated-covid-19-restr
  The measures apply to all of Liberia. During the first two weeks of the state of emergency, "residents within the borders of Montserrado County, Margibi County, Nimba County, and Grand Kru County are to STAY AT HOME". Also prior to this, the counties of Montserrado and Margibi were on lockdown for 21 days as part of the national health emergency. Since then, all measure have been taken nationwide, and this is therefore coded 0 after Q3 of 2020. 
 
 *Sources*:
- https://www.emansion.gov.lr/2press.php?news_id=5159&related=7&pg=sp
-https://www.emansion.gov.lr/doc/ADDRESS%20TO%20THE%20NATION.pdf
-https://medicalxpress.com/news/2020-04-liberia-capital-virus-threat.html
-https://blogs.loc.gov/law/2020/05/liberia-government-measures-to-contain-the-spread-of-Covid-19/
+ https://perma.cc/CJ6L-RPHV
 
-https://www.garda.com/crisis24/news-alerts/479446/liberia-Covid-19-related-protocols-in-place-as-of-may-17-following-may-10-update-update-23
 
-https://www.garda.com/crisis24/news-alerts/465851/liberia-health-officials-maintaining-Covid-19-related-restrictions-nationwide-as-of-april-12-update-21
+https://perma.cc/93MV-QUP4
 
-https://www.garda.com/crisis24/news-alerts/436101/liberia-health-officials-maintain-coronavirus-disease-related-restrictions-as-of-jan-28-update-18
+
+https://perma.cc/2KNX-XJA4
+
+
+https://perma.cc/2P2Y-QSSC
+
+
+https://perma.cc/7HXK-QX2H
+
+
+https://perma.cc/W53P-E8Y6
+
+
+https://perma.cc/5BEH-TFLG
 
 
 
@@ -2808,10 +2965,10 @@ https://www.garda.com/crisis24/news-alerts/436101/liberia-health-officials-maint
  Uniform measures throughout the country in March-June, July-September 2020. Stricter measures in some areas in October-December 2020 (some areas were under local quarantine in October prior to national quarantine). In January-March, April-June 2021 some limitations remain in place regarding some municipalities. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/468031/lithuania-authorities-temporarily-tighten-certain-covid-19-restrictions-march-27-april-6-due-to-concerns-over-easter-holiday-spike-in-disease-activity-update-25
-https://www.garda.com/crisis24/news-alerts/449331/lithuania-authorities-maintaining-covid-19-restrictions-as-of-march-1-update-22
-https://koronastop.lrv.lt/en/#information
-https://koronastop.lrv.lt/en/news/local-quarantines-are-declared-in-individual-municipalities
+ [1]	perma.cc/S53F-MWEF
+[2]	perma.cc/VR63-PQNQ
+[3]	perma.cc/MTP5-GCQ9
+[4]	perma.cc/VPW7-BTFS
 
 
 
@@ -2837,21 +2994,15 @@ https://koronastop.lrv.lt/en/news/local-quarantines-are-declared-in-individual-m
 The state of emergency was lifted on 18 October 2020 and reinstated on 3 April 2021. Some areas during Q2 of 2021 were subjected to extra confinement measures. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/485646/madagascar-officials-extend-covid-19-related-state-of-emergency-through-at-least-june-15-domestic-restrictions-eased-update-27
+ https://perma.cc/G8RC-58AQ
+https://perma.cc/H868-GVPR
+https://perma.cc/NH79-MNGW
+https://perma.cc/8MSQ-M3HS
 
-https://www.garda.com/crisis24/news-alerts/450661/madagascar-covid-19-restrictions-remain-in-place-nationwide-as-of-march-4-update-21
-
-https://www.garda.com/crisis24/news-alerts/427706/madagascar-covid-19-restrictions-remain-in-place-nationwide-as-of-jan-11-update-19
-
-https://www.garda.com/crisis24/news-alerts/371926/madagascar-authorities-ease-measures-and-extend-national-state-of-health-emergency-through-september-7-update-16
-
-https://reports.unocha.org/en/country/southern-eastern-africa/card/6xJ98YvyVW/
-
-https://www.thejakartapost.com/news/2020/07/06/madagascar-re-imposes-lockdown-amid-surge-in-virus-cases.html
-
-https://www.presidence.gov.mg/actualites/755-decret-n-2020-359-du-21-mars-2020-proclamant-l-etat-d-urgence-sanitaire-sur-tout-le-territoire-de-la-republique.html
-
-https://www.garda.com/crisis24/news-alerts/339186/madagascar-authorities-extend-sanitary-state-of-emergency-until-may-17-update-7
+https://perma.cc/6527-ZB93
+https://perma.cc/XZ96-VUEM
+https://perma.cc/K5AY-6DFT
+https://perma.cc/TAX3-AE7D
 
 
 
@@ -2878,8 +3029,7 @@ https://www.garda.com/crisis24/news-alerts/339186/madagascar-authorities-extend-
 By May 2021, there is no evidence that any variation in measures was found across the country. 
 
 *Sources*:
- https://gazettes.africa/archive/mw/2020/mw-government-gazette-supplement-dated-2020-08-07-no-23A.pdf
-(1)
+ [1]	perma.cc/C6SQ-EPD6
 
 
 
@@ -2904,23 +3054,31 @@ By May 2021, there is no evidence that any variation in measures was found acros
  Many measures have been taken nationwide in Malaysia. However, consistently throughout the periods there has been regional measures such as curfews, limits of public gatherings and lockdowns along with those measures taken by national government. Thus there has been some regional variation in emergency measures, but also some conforming measures. This is therefore coded as 2 for all time periods. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-datase
+ https://perma.cc/9D77-96TG
 
-thttps://www.garda.com/crisis24/news-alerts/320071/malaysia-sarawak-state-implements-entry-restrictions-amid-covid-19-outbreak-march-4-update-3
 
-https://www.garda.com/crisis24/news-alert-full-history/7TqZBkyuLyzLPQAyN/malaysia-first-cases-of-2019-ncov-confirmed-january-25
+https://perma.cc/NFV2-77JP
 
-https://www.garda.com/crisis24/news-alerts/388416/malaysia-authorities-to-introduce-movement-restrictions-in-kuala-lumpur-and-selangor-state-october-14-27-update-32
 
-https://www.garda.com/crisis24/news-alerts/397431/malaysia-conditional-movement-control-order-issued-in-several-states-from-november-9-update-33
+https://perma.cc/T73B-G95H
 
-https://www.garda.com/crisis24/news-alerts/482281/malaysia-authorities-to-tighten-covid-19-restrictions-nationwide-may-25-june-7-update-43
 
-https://www.garda.com/crisis24/news-alerts/484266/malaysia-authorities-to-tighten-covid-19-restrictions-in-sarawak-state-may-29-june-11-update-44
+https://perma.cc/BTW9-VEL9
 
-https://www.garda.com/crisis24/news-alerts/466086/malaysia-officials-extend-most-current-domestic-covid-19-restrictions-through-april-28-update-34
 
-https://www.garda.com/crisis24/news-alerts/461616/malaysia-officials-extend-current-domestic-covid-19-restrictions-through-april-14-update-33
+https://perma.cc/W3DP-NLYZ
+
+
+https://perma.cc/TW5S-2BPZ
+
+
+https://perma.cc/E5HZ-HPT5
+
+
+https://perma.cc/G5T7-L6E9
+
+
+https://perma.cc/K7Y7-K3MB
 
 
 
@@ -2947,19 +3105,14 @@ https://www.garda.com/crisis24/news-alerts/461616/malaysia-officials-extend-curr
 Due to surge in Covid-19 cases, the Malian government declared a nationwide state of health emergency on 18 December 2020, to last initially for 10 days (until 28 December 2020). The government extended the state of health emergency on 23 December 2020 until 26 June 2021. 
 
 *Sources*:
- https://www.aa.com.tr/fr/afrique/mali-covid-19-lev%C3%A9e-du-couvre-feu-sur-toute-l%C3%A9tendue-du-territoire/1834861
-
-https://www.garda.com/crisis24/news-alerts/340831/mali-curfew-lifted-nationwide-may-9-update-4
-
-https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-
-https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mali/
+ https://perma.cc/JV7M-93D3
+https://perma.cc/7W5Q-J69B
+https://perma.cc/ZK87-U7MH
+https://perma.cc/6V8P-3R25
 
 https://www.facebook.com/563531873666309/posts/3981531871866275/
-
-https://www.garda.com/crisis24/news-alerts/455926/mali-domestic-covid-19-restrictions-remain-largely-unchanged-as-of-march-16-by-comparison-with-those-in-effect-in-early-january-update-10
-
-https://www.garda.com/crisis24/news-alerts/463836/mali-domestic-covid-19-restrictions-remain-largely-unchanged-as-of-april-6-update-11
+https://perma.cc/K6TY-QYB7
+https://perma.cc/UY7D-GHX2
 
 
 
@@ -2989,33 +3142,15 @@ During Q1 and Q2 of 2021,the measures were nationwide. A night curfew was in pla
  
 
 *Sources*:
- http://fr.ami.mr/Depeche-52866.html
-(1)
-
-http://www.ituc-africa.org/Mauritania-Facing-the-pandemic-of-COVID-19.html
-(2)
-
-https://www.garda.com/crisis24/news-alerts/344076/mauritania-authorities-announce-travel-ban-for-nouakchott-and-kiffa-assaba-region-may-19-update-5
-(3)
-https://reliefweb.int/report/mauritania/unicef-mauritania-covid-19-situation-report-no-12-19-september-20-october-2020
-(4)
-
-https://www.garda.com/crisis24/news-alerts/432261/mauritania-authorities-enforcing-covid-19-domestic-restrictions-as-of-jan-20-update-14
-(5)
-
-https://www.garda.com/crisis24/news-alerts/452416/mauritania-covid-19-restrictions-in-effect-nationwide-as-of-march-8-remain-largely-unchanged-by-comparison-with-late-january-update-15
-(6)
-
-https://www.garda.com/crisis24/news-alerts/457031/mauritania-covid-19-restrictions-in-effect-nationwide-as-of-march-18-amended-international-travel-measures-in-place-update-16
-(7)
-
-https://www.garda.com/crisis24/news-alerts/479751/mauritania-covid-19-restrictions-in-force-as-of-may-17-remain-largely-unchanged-by-comparison-with-those-in-effect-during-early-april-update-19
-(8)
-
-https://mr.usembassy.gov/covid-19-information-2/
-(9)
-
-
+ perma.cc/77AM-PHX3
+perma.cc/Y354-XDPX
+perma.cc/JQ7V-UA6X
+perma.cc/UCH2-HZ5K
+perma.cc/DX24-FWU9
+perma.cc/5HJM-AWTY
+perma.cc/A797-QQM4
+perma.cc/S886-KW8H
+perma.cc/4C8Y-9Z7T
 
 
 
@@ -3041,23 +3176,21 @@ https://mr.usembassy.gov/covid-19-information-2/
 
 *Sources*:
  [1]
-http://dof.gob.mx/nota_detalle.php?codigo=5592067&fecha=21/04/2020
+perma.cc/47M4-DETX
 [2]
-http://dof.gob.mx/nota_detalle.php?codigo=5590745&fecha=30/03/2020
+perma.cc/L2ZH-UTQL
 [3]
-https://dof.gob.mx/nota_detalle.php?codigo=5593313&fecha=14%2F05%2F2020
+https://perma.cc/24SK-3BM7
 [4]
-https://coronavirus.gob.mx/semaforo/
+https://perma.cc/J3CR-AHLS
 [5]
-https://www.infobae.com/america/mexico/2020/06/20/gobernadores-de-ocho-estados-solicitaron-a-amlo-suspender-megaobras-y-usar-los-recursos-en-contra-del-coronavirus/
-
+perma.cc/DAQ9-JRX3
 [6]
-https://politica.expansion.mx/estados/2020/04/21/que-implica-la-fase-3-coronavirus-medidas-edomex-guanajuato-valle-de-mexico
+perma.cc/A8RT-R6H3
 [7]
-https://www.xataka.com.mx/medicina-y-salud/yucatan-primer-estado-mexico-que-te-dara-tres-anos-carcel-tienes-covid-19-no-cumples-cuarentena
-
+perma.cc/2CDF-UG2N
 [8]
-https://www.reuters.com/article/salud-coronavirus-mexico-idLTAKBN28S2KA
+perma.cc/56AN-PPA9
 
 
 
@@ -3082,15 +3215,13 @@ https://www.reuters.com/article/salud-coronavirus-mexico-idLTAKBN28S2KA
  Uniform measures throughout the country in March-June 2020, July-September 2020. Public health emergency declared in some areas since 1 October (Resolutions 33 from 28 September, updated list of areas with public health emergency in Resolution 34 from 13 October).Some areas had stricter measures during Q1 2021. In April 2021,  Chisinau and Balti were under curfew. 
 
 *Sources*:
- https://gov.md/ro/content/informatii-privind-coronavirus
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/
+ https://perma.cc/59UY-ER2Q
+https://perma.cc/PS34-3M89
+https://perma.cc/TN3X-F6UQ
+https://perma.cc/9XGS-5E5J
+https://perma.cc/FU8Q-77ST
+https://perma.cc/984V-7KD5
 
-https://cancelaria.gov.md/sites/default/files/postanovlenie_nchkoz_no_34_ot_13.10.2020.pdf
-https://cancelaria.gov.md/sites/default/files/postanovlenie_no_33_ot_28.09.2020_g._nacionalnaya_chrezvychaynaya_komissiya_obshchestvennogo_zdorovya.pdf
-
-https://www.garda.com/crisis24/news-alerts/451646/moldova-authorities-modify-covid-19-related-international-entry-restrictions-from-march-5-update-14
-
-https://www.garda.com/crisis24/news-alerts/462976/moldova-authorities-to-extend-covid-19-related-state-of-emergency-until-may-30-and-tighten-certain-related-restrictions-update-16
 
 
 
@@ -3117,15 +3248,25 @@ https://www.garda.com/crisis24/news-alerts/462976/moldova-authorities-to-extend-
 There have been slight variations in the emergency measures in Q1 and Q2 of 2021 at the sub-national level due to the differences in the incident rates of Covid-19. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/YDjwxi8GHSZoCDHEK/mongolia-government-closes-borders-with-china-to-prevent-2019-ncov-spread-january-27
+ https://perma.cc/DHU2-QNA4
 
-https://www.acaps.org/covid19-government-measures-dataset
 
-https://www.garda.com/crisis24/news-alerts/465096/mongolia-officials-to-tighten-restrictions-in-ulaanbaatar-april-10-25-due-to-rising-covid-19-activity-update-21
+https://perma.cc/8H2S-MEMG
 
-https://www.garda.com/crisis24/news-alerts/462136/mongolia-officials-plan-nationwide-business-and-gathering-controls-april-3-18-international-travel-restrictions-set-to-continue-until-at-least-may-1-update-20
 
-https://www.garda.com/crisis24/news-alerts/458891/mongolia-officials-restricting-transport-to-and-from-khuvsgul-province-until-0900-march-29-due-to-covid-19-concerns
+https://perma.cc/ZVJ9-F9DB
+
+
+https://perma.cc/353U-KLFW
+
+
+https://perma.cc/7XU5-NFSV
+
+
+
+
+
+
 
 
 
@@ -3150,25 +3291,18 @@ https://www.garda.com/crisis24/news-alerts/458891/mongolia-officials-restricting
  The state of health emergency in Morocco has been nationwide, but different cities and areas, depending on the epidemiological situation, were put under confinement. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/486611/morocco-authorities-extend-existing-health-state-of-emergency-through-july-10-to-combat-covid-19-update-64
+ https://perma.cc/P5BJ-ZTM5
+https://perma.cc/9D5H-JRKK
+https://perma.cc/SL9B-EGVN
+https://perma.cc/A22R-9EW9
+https://perma.cc/JX7Y-QWEH
+https://perma.cc/5UY8-JJJN
+https://perma.cc/K7T7-2P6S
 
-https://www.garda.com/crisis24/news-alerts/438921/morocco-authorities-extend-coronavirus-disease-related-health-state-of-emergency-through-at-least-march-10-update-45
+https://perma.cc/L4LA-XCAR
+https://perma.cc/K7T7-2P6S
 
-https://www.garda.com/crisis24/news-alerts/406836/morocco-authorities-extend-coronavirus-disease-related-health-state-of-emergency-until-january-10-update-36
-
-https://www.garda.com/crisis24/news-alerts/387451/morocco-authorities-extend-health-state-of-emergency-until-november-10-update-34
-
-https://www.ecoactu.ma/prolongation-de-letat-durgence-sanitaire-au-10-juillet-2020avec-allegement-des-restrictions/
-
-https://leseco.ma/maroc/covid-19-le-maroc-prolonge-letat-durgence-sanitaire-jusquau-10-septembre-2020.html
-
-https://www.garda.com/crisis24/news-alert-full-history/NctzfWdtzBiz43uLt/morocco-royal-air-maroc-suspends-flights-to-mainland-china-due-to-novel-coronavirus-as-of-january-31
-
-https://www.washingtoninstitute.org/fikraforum/view/Coronavirus-Morocco-Economic-Social-impact-COVID19
-
-https://middle-east-online.com/en/morocco-set-further-ease-coronavirus-lockdown
-
-https://www.garda.com/crisis24/news-alerts/349416/morocco-authorities-extend-state-of-emergency-to-july-10-update-15
+https://perma.cc/8JBV-AB2Z
 
 
 
@@ -3193,10 +3327,10 @@ https://www.garda.com/crisis24/news-alerts/349416/morocco-authorities-extend-sta
  The measures have a national scope. However, in April 2021, the capital of provinces have stricter measures than the countryside. 
 
 *Sources*:
- https://www.dw.com/pt-002/mo%C3%A7ambique-nyusi-estende-recolher-obrigat%C3%B3rio-nas-capitais-provinciais/a-57105042
-https://covid19.ins.gov.mz/medidas/
-https://www.rsm.global/mozambique/sites/default/files/decreto_presidencial_23-2020.pdf
-http://www.ts.gov.mz/images/Decreto_n._792020_de_4_de_Setembro_-_Declara_a_situac%C3%A3o_da_calamidade_P%C3%BAblica_e_Activa_o_Alerta_Vermelho_compressed.pdf
+ [1]	perma.cc/QG8T-RPNF
+[2]	perma.cc/D2EB-HC7C
+[3]	perma.cc/U8QS-B8Q9
+[4]	perma.cc/E3MB-NBDG
 
 
 
@@ -3222,27 +3356,35 @@ http://www.ts.gov.mz/images/Decreto_n._792020_de_4_de_Setembro_-_Declara_a_situa
 
 *Sources*:
  [1]
-https://laws.parliament.na/cms_documents/7159-0ec73ee461.pdf
+https://web.archive.org/web/20200704155813/https://laws.parliament.na/cms_documents/7159-0ec73ee461.pdf
 [2]
-https://namibiatourism.com.na/uploads/file_uploads/17.04.2020_Government%20Gazette%20no.%207180-Proc%20N13_Amendment%20of%20State%20of%20Emergency%20Regulations%20Namibian%20Constitution_COVID-19.pdf
+[1]
+https://perma.cc/X5ZU-BNRJ
 [3]
-https://laws.parliament.na/cms_documents/7203-c6a9bfc0f8.pdf
+https://web.archive.org/web/20200703070511/https://laws.parliament.na/cms_documents/7203-c6a9bfc0f8.pdf
 [4]
-https://gazettes.africa/archive/na/2020/na-government-gazette-dated-2020-06-01-no-7225.pdf
+https://perma.cc/U9Y8-QJGC
+
 [5]
-https://gazettes.africa/archive/na/2020/na-government-gazette-dated-2020-06-08-no-7235.pdf
+https://perma.cc/A7AU-DZEV
+
 [6]
-https://gazettes.africa/archive/na/2020/na-government-gazette-dated-2020-06-22-no-7251.pdf
+https://perma.cc/L5MY-DLXP
+
 [7]
-https://namiblii.org/akn/na/act/p/2020/28/eng%402020-06-28
+https://perma.cc/ME8G-GJZX
+
 [8]
 https://laws.parliament.na/cms_documents/7270-80940f4318.pdf
+
 [9]
 https://laws.parliament.na/cms_documents/7307-80c72a8aee.pdf
+
 [10]
 https://laws.parliament.na/cms_documents/7320-b40a8a9d4b.pdf
+
 [11]
-https://laws.parliament.na/annotated-laws-regulations/law-regulation.php?id=522
+https://web.archive.org/web/20220124165334/https://www.parliament.na/?id=522
 [12]
 https://laws.parliament.na/cms_documents/7554-f88039bcb2.pdf
 
@@ -3273,21 +3415,13 @@ There was a lockdown in kathmandu Valley which was extended to September 16. I h
 On 29 April 2021, the Nepalese government implemented a lockdown in Kathmandu till 5 May 2021. 
 
 *Sources*:
- https://www.reuters.com/article/us-health-coronavirus-nepal/nepal-temporarily-bans-transport-and-gatherings-in-capital-due-to-rise-in-coronavirus-idUSKCN25F13J
-
-
-https://www.garda.com/crisis24/news-alerts/370551/nepal-transport-and-public-gatherings-banned-in-kathmandu-from-august-19-update-20
-
-
-https://www.nytimes.com/reuters/2020/08/19/world/asia/19reuters-health-coronavirus-nepal.html
-
-https://www.garda.com/crisis24/news-alerts/375366/nepal-lockdown-extended-in-kathmandu-valley-until-september-9-update-23
-
-https://www.garda.com/crisis24/news-alert-full-history/NFwHHc8bHk7PsJBQW/nepal-first-case-of-2019-ncov-confirmed-january-24
-
-https://www.osac.gov/Content/Report/325f64ac-fa01-40d6-a105-1b7384e46ea2
-
-https://www.garda.com/crisis24/news-alerts/469686/nepal-officials-implementing-tightened-domestic-rules-as-of-april-21-update-39
+ https://perma.cc/ZHK3-8PGV
+https://perma.cc/WJ6T-AX4P
+https://perma.cc/86SN-CHF8
+https://perma.cc/X7DG-B9YM
+https://perma.cc/Z3YH-QUFF
+https://perma.cc/B5LE-PN9W
+https://perma.cc/R4UF-5827
 
 
 
@@ -3312,15 +3446,19 @@ https://www.garda.com/crisis24/news-alerts/469686/nepal-officials-implementing-t
  For Q2 and Q3 of 2020, the emergency measures are taken at the sub-national level in The Netherlands, the emergency response has been heavily coordinated by the government, and there are no major variations between regions. Some small variation seem to be in place though, and this is therefore coded as 1. For the later periods, no measures implemented on a subnational level found. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.garda.com/crisis24/news-alert-full-history/A4mgehRxM6Mbrgj4B/netherlands-klm-extends-flight-restrictions-to-and-from-china-until-march-29
-https://www.garda.com/search?query=netherlands%20Covid-19&sort_by=created&page=0
+ https://perma.cc/LSG5-NVRM
 
 
-https://verfassungsblog.de/Covid-19-in-the-netherlands-of-changing-tides-and-constitutional-constants/
+https://perma.cc/WCU3-EUVA
 
- 
+
+https://perma.cc/4P5L-QTRT
+
+
+
+
+
+https://perma.cc/6XG8-VX28
 
 
 
@@ -3350,10 +3488,9 @@ October-June 2021: the restrictions in Auckland were lifted on 7 October 2020. T
 The restrictions in Auckland were lifted on 7 October 2020. The entire country was and has been at alert level 1 since that point. As such this variable has been coded as 0 for the Oct/Dec period. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/mzyupTSAse7MPSwJx/new-zealand-first-coronavirus-case-confirmed-february-28
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.reuters.com/article/health-coronavirus-newzealand-int-idUSKBN25V04R
+ [1]	perma.cc/F5K9-Z4BW
+[2]	perma.cc/DX8P-Q29A
+[3]	perma.cc/JD5G-JB66
 
 
 
@@ -3379,17 +3516,17 @@ https://www.reuters.com/article/health-coronavirus-newzealand-int-idUSKBN25V04R
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3
 
 
 
@@ -3417,31 +3554,20 @@ During Q4 of 2020, restaurants, markets, stores, and all public schools are open
 During Q1 and Q2 of 2021 the state of emergency applied nationwide and all other barrier gestures were uniform. 
 
 *Sources*:
- https://www.france24.com/fr/20200811-assassinat-des-humanitaires-fran%C3%A7ais-au-niger-l-%C3%A9tat-d-urgence-%C3%A9largi-%C3%A0-kour%C3%A9
+ https://perma.cc/ZVS9-QF23
+https://perma.cc/7V9A-QJVN
+https://perma.cc/XQD7-96PJ
+https://perma.cc/R3YC-QQXT
+https://perma.cc/XLV4-3XC2
 
-https://www.aa.com.tr/fr/afrique/niger-%C3%A9tat-durgence-instaur%C3%A9-dans-toute-la-r%C3%A9gion-de-tillab%C3%A9ri-/1938141
+https://perma.cc/L7DA-37MG
+https://perma.cc/688N-HD2D
 
-https://www.jeuneafrique.com/1027638/politique/niger-apres-lattaque-letat-durgence-elargi-a-koure/
-
-https://www.osac.gov/Country/Niger/Content/Detail/Report/6c42b05c-4a46-468e-9670-184fc373a5a5
-
-
-https://www.niameyetles2jours.com/l-uemoa/gestion-publique/0803-6563-niger-prorogation-de-l-etat-d-urgence-sanitaire
-
-
-https://www.garda.com/crisis24/news-alerts/425966/niger-niger-extends-covid-19-related-state-of-health-emergency-for-three-months-through-early-april-update-12
-
-https://www.ouestaf.com/niger-letat-durgence-sanitaire-et-securitaire-prolonges/
-
-https://www.pouvoirsafrique.com/2021/05/02/niger-letat-durgence-sanitaire-prolonge/
-
-http://www.santetropicale.com/actus.asp?action=lire&id=29796
-
-https://www.presidence.ne/conseils-des-ministres/2021/1/5/5rjvvwlvz5gpflqlk4vsnybgrlxzeh
-
-https://www.presidence.ne/conseils-des-ministres/2021/4/22/conclusions-du-conseil-des-ministres-du-22-avril-2021
-
-https://www.garda.com/crisis24/news-alerts/466171/niger-covid-19-related-restrictions-remain-largely-unchanged-as-of-april-12-by-comparison-with-those-in-force-during-early-january-update-13
+https://perma.cc/CSG2-ZXCJ
+https://perma.cc/3TUJ-VM99
+https://perma.cc/ALM6-J3ZF
+https://perma.cc/NFB8-QJJ4
+https://perma.cc/9BQ7-G7XG
 
 
 
@@ -3466,10 +3592,10 @@ https://www.garda.com/crisis24/news-alerts/466171/niger-covid-19-related-restric
  The federal system of governance in Nigeria allows for varying responses by state governments. In addition, the federal response has been targeted at areas of high infection, especially urban centers of Lagos, Arusha, and Ogun. 
 
 *Sources*:
- https://www.theafricareport.com/27773/coronavirus-nigerias-varied-responses-to-controlling-covid-19/
-https://www.nytimes.com/2020/05/17/world/africa/coronavirus-kano-nigeria-hotspot.html
-https://statehouse.gov.ng/covid19/infographics/
-https://pwcnigeria.typepad.com/files/fg-covid-19-regualtions-1.pdf
+ [1]	perma.cc/5JAM-VVVS
+[2]	perma.cc/Z2HN-PL6B
+[3]	https://perma.cc/R8HG-75T9
+[4]	perma.cc/C9UJ-YD9A
 
 
 
@@ -3495,26 +3621,42 @@ https://pwcnigeria.typepad.com/files/fg-covid-19-regualtions-1.pdf
  
 
 *Sources*:
- https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19
+ https://perma.cc/EWJ9-TPS9
 
-https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korea-lifts-lockdown-in-border-town-after-suspected-covid-19-case-inconclusive-idUSKCN25A044?il=0
 
-https://www.reuters.com/article/us-health-coronavirus-northkorea-idUSKCN24Q0TC
 
-https://www.garda.com/crisis24/news-alerts/365721/north-korea-authorities-implement-tighter-lockdown-restrictions-on-august-2-update-4
+https://perma.cc/RS9E-GT6C
 
-https://www.garda.com/crisis24/news-alerts/346061/north-korea-british-embassy-in-pyongyang-closes-due-to-covid-19-restrictions-may-27-update-2
 
-https://www.garda.com/crisis24/news-alerts/413771/north-korea-north-korea-continues-to-enforce-domestic-covid-19-related-restrictions-as-of-mid-december-update-13
 
-https://www.garda.com/crisis24/news-alerts/430211/north-korea-officials-continue-to-enforce-domestic-covid-19-related-restrictions-as-of-mid-january-update-14
+https://perma.cc/5235-HRTZ
 
-https://www.garda.com/crisis24/news-alerts/454976/north-korea-officials-continue-to-enforce-domestic-covid-19-related-restrictions-as-of-march-15-update-16
 
-https://www.garda.com/crisis24/news-alerts/468001/north-korea-officials-continue-to-enforce-domestic-covid-19-related-restrictions-as-of-april-16-update-17
 
-https://www.garda.com/crisis24/news-alerts/478096/north-korea-officials-continue-to-enforce-domestic-covid-19-related-restrictions-as-of-may-13-update-18
+https://perma.cc/BX5F-W54U
 
+
+https://perma.cc/AL3W-BZHP
+
+
+
+https://perma.cc/GYS3-G9QT
+
+
+
+https://perma.cc/QQA6-XWSJ
+
+
+
+https://perma.cc/R7TA-S79Z
+
+
+
+https://perma.cc/C79Y-99KR
+
+
+
+https://perma.cc/5J7M-DZ5T
 
 
 
@@ -3539,9 +3681,8 @@ https://www.garda.com/crisis24/news-alerts/478096/north-korea-officials-continue
  March-June 2020: stricter restrictions on movement in some areas from 4 June (night curfew in Skopje, Tetovo, Kumanovo, and Stip cities; the rural municipalities of Lipkovo, Bogovinje, Brvenica, Tearce, Zhelino, Jegunovce, and Karbinc). No further measures implemented on a subnational level found in the last year (Q3, Q4 2020 and Q1,Q2 2021). 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/348246/north-macedonia-authorities-reimpose-movement-restrictions-following-rise-in-covid-19-cases-june-4-8-update-11
-
-https://vlada.mk/uredbi-covid19
+ [1]	perma.cc/D8G5-UNGP
+[2]	perma.cc/RQ3H-2J65
 
 
 
@@ -3566,19 +3707,28 @@ https://vlada.mk/uredbi-covid19
  In Q2 of 2020, the emergency measures have been taken nationwide and no sub-national variation has been found in Norway. This is therefore coded as 0. For Q3 and Q4, some extra restrictions were in place in the Oslo area, but uniform otherwise. This is therefore coded as 1 for these periods. In Q1 And Q2 of 2021, additional sub-national variation has been introduced, along with a system to determine the general level of restrictions regionally depending on the degree of outbreak. This has caused more sub-national variation, but not complete variation, and is therefore coded 2. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-https://www.garda.com/crisis24/news-alerts/384291/norway-authorities-tighten-Covid-19-restrictions-in-oslo-as-of-september-29-update-16
+ https://perma.cc/WB29-MHJK
 
-https://www.nrk.no/osloogviken/innforer-forbud-mot-private-samlinger-med-flere-enn-ti-personer-1.15168519
-https://www.regjeringen.no/no/tema/Koronasituasjonen/sporsmal-og-svar-om-koronasituasjonen/tiltaksniva-ved-lokale-smitteutbrudd/id2831989/
 
-https://www.garda.com/crisis24/news-alerts/475281/norway-authorities-to-ease-certain-Covid-19-restrictions-in-oslo-from-may-6-update-42
+https://perma.cc/3A5E-M4C8
 
-https://www.garda.com/crisis24/news-alerts/455946/norway-authorities-tighten-Covid-19-restrictions-in-viken-county-as-of-march-16-update-35
 
-https://www.garda.com/crisis24/news-alerts/449236/norway-authorities-to-tighten-Covid-19-restrictions-in-oslo-from-march-2-update-34
+https://perma.cc/6BZK-YL2S
 
-https://www.garda.com/crisis24/news-alerts/440161/norway-authorities-tighten-some-local-restrictions-as-of-feb-8-in-response-to-new-strain-of-Covid-19-update-32
+
+https://perma.cc/8YFK-44PN
+
+
+https://perma.cc/LVJ8-VNY3
+
+
+https://perma.cc/6TCX-PXEE
+
+
+https://perma.cc/SL5R-UV49
+
+
+https://perma.cc/6TGG-ESRB
 
 
 
@@ -3604,15 +3754,15 @@ https://www.garda.com/crisis24/news-alerts/440161/norway-authorities-tighten-som
 
 *Sources*:
  [1]
-http://omannews.gov.om/NewsDescription/ArtMID/392/ArticleID/14380/Supreme-Committee-Takes-Decisions-According-to-Epidemiological-Data-Health-Minister
+perma.cc/EC2C-JS5B
 [2]
-https://www.thearabianstories.com/2020/06/09/covid-19-oman-announces-lockdown-in-dhofar-jabal-akhdar-jabal-shams-and-masirah/
+perma.cc/M2LM-D7S3
 [3]
-https://www.omanobserver.om/lockdown-begins-in-dhofar-tourist-destinations/+&cd=2&hl=es-419&ct=clnk&gl=br
+perma.cc/8L2E-YF2E
 [4]
-https://www.arabnews.com/node/1716306/middle-east
+perma.cc/2MEW-FGX6
 [5]
-https://www.omanobserver.om/night-lockdown-in-oman-to-end-on-saturday-sc/
+perma.cc/3CRT-DJ5S
 
 
 
@@ -3641,16 +3791,11 @@ However from 26 November 2020 to 11 january 2021, the only emergency measure tha
 Pakistan introduced a partial lockdown across the country from 8 to 16 May 2021. The measures were implemented uniformly across the country. Hence I have coded the variable as 1 for Q2 of 2021. 
 
 *Sources*:
- https://www.voanews.com/covid-19-pandemic/pakistan-says-its-covid-19-cases-could-rise-12-million-end-july
-
-
-https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755241
-
-https://www.bmj.com/content/371/bmj.m4113/rr-0
-
-https://www.reuters.com/article/health-coronavirus-pakistan-schools-idUSKBN28618X
-
-https://www.garda.com/crisis24/news-alerts/398316/pakistan-lockdowns-introduced-in-parts-of-lahore-rawalpindi-and-multan-punjab-province-november-10-update-36
+ https://perma.cc/H45P-RZ2K
+https://perma.cc/XS6A-U35E
+https://perma.cc/Y5EV-YLK8
+https://perma.cc/UFU2-LRVY
+https://perma.cc/NHL5-FHG9
 
 
 
@@ -3675,12 +3820,11 @@ https://www.garda.com/crisis24/news-alerts/398316/pakistan-lockdowns-introduced-
  The emergency measures applied for the entire country at first. With the reopening, there were some subnational variations in accordance with the local situation (e.g. a "sanitary bareer" was implemented in some provinces, or weekend lockdown). 
 
 *Sources*:
- https://help.unhcr.org/panama/covid-19-2/avisos-importantes/
-
-https://www.yomeinformopma.org/static/dash/docs/decretos/RESOLUCION_No._286.pdf
-https://www.yomeinformopma.org/static/dash/docs/decretos/RESOLUCION_No._491.pdf
-https://www.prensa.com/sociedad/minsa-elimina-restriccion-por-numero-de-cedula-se-mantiene-los-dias-para-hombres-y-mujeres/
-https://www.prensa.com/sociedad/minsa-ordena-nuevo-toque-de-queda-y-ley-seca-en-panama-oeste-infractores-no-cobraran-bono-solidario/
+ [1]	perma.cc/2TYK-SMEN
+[2]	perma.cc/RUU3-XGHT
+[3]	perma.cc/VF4J-J225
+[4]	perma.cc/KG2S-TPN9
+[5]	perma.cc/PWS5-ULFW
 
 
 
@@ -3705,17 +3849,25 @@ https://www.prensa.com/sociedad/minsa-ordena-nuevo-toque-de-queda-y-ley-seca-en-
  Papua New Guinea have taken many nationwide emergency measures such as school closings, lockdowns, quarantine rules and the like. However, within this, there have also been some regional variation in that some regions have imposed additional measures or prolonged those already in place, such as curfews, travel restrictions and limits on public gatherings. This is therefore coded as 2. For Q1 and Q2 of 2021, however, restrictions have been more homogenous and PNG have issued extensive measures nationwide to combat larger outbreaks than previously. Within this, some smaller sub-national variation has still existed, and this is therefore coded as 1 for these periods. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-https://www.garda.com/crisis24/news-alerts/369806/papua-new-guinea-bougainville-government-extends-state-of-emergency-through-september-1-update-17
-https://www.garda.com/crisis24/news-alerts/363881/papua-new-guinea-lockdown-imposed-in-port-moresby-as-Covid-19-cases-triple-july-28-update-14
+ https://perma.cc/M8ES-HRKM
 
-https://www.garda.com/crisis24/news-alerts/480906/papua-new-guinea-authorities-easing-some-Covid-19-restrictions-nationwide-as-of-may-20-update-31
 
-https://www.garda.com/crisis24/news-alerts/472911/papua-new-guinea-authorities-maintaining-Covid-19-restrictions-nationwide-as-of-april-29-update-30
+https://perma.cc/M5B8-ZJNZ
 
-https://www.garda.com/crisis24/news-alerts/452771/papua-new-guinea-authorities-tightening-Covid-19-restrictions-in-morobe-province-through-march-19
 
-https://www.garda.com/crisis24/news-alerts/431236/papua-new-guinea-authorities-expand-Covid-19-restrictions-nationwide-as-of-jan-19-update-25
+https://perma.cc/NYZ5-MN2X
+
+
+https://perma.cc/8WY4-BWM5
+
+
+https://perma.cc/X4RG-XG8F
+
+
+https://perma.cc/PG29-GRUG
+
+
+https://perma.cc/EVQ7-XQYN
 
 
 
@@ -3741,11 +3893,11 @@ https://www.garda.com/crisis24/news-alerts/431236/papua-new-guinea-authorities-e
 
 *Sources*:
  [1]
-https://www.ip.gov.py/ip/covid-19/
+perma.cc/6PPF-3ART
 [2]
-https://www.mspbs.gov.py/decretos-covid19.html
+perma.cc/AX7E-RGFZ
 [3]
-https://www.ip.gov.py/ip/la-policia-implementara-un-nuevo-esquema-de-seguridad-en-zonas-y-horarios-claves/
+perma.cc/7KU8-USES
 
 
 
@@ -3771,14 +3923,14 @@ https://www.ip.gov.py/ip/la-policia-implementara-un-nuevo-esquema-de-seguridad-e
 
 *Sources*:
  [1]
-https://cdn.www.gob.pe/uploads/document/file/566448/DS044-PCM_1864948-2.pdf
-
+perma.cc/4MCY-3WNG
 [2]
-https://www.gob.pe/8784
+perma.cc/MB58-SEHZ
 [3]
-https://cdn.www.gob.pe/uploads/document/file/1268797/DS%20146-2020-PCM.pdf
+perma.cc/ZJ2K-9T3S
 [4]
-https://busquedas.elperuano.pe/normaslegales/decreto-supremo-que-prorroga-el-estado-de-emergencia-naciona-decreto-supremo-n-076-2021-pcm-1944838-1/
+perma.cc/WS7N-DUE2
+
 
 
 
@@ -3803,26 +3955,14 @@ https://busquedas.elperuano.pe/normaslegales/decreto-supremo-que-prorroga-el-est
  The emergency measures have varied slightly at the sub national level according to the severity of Covid-19 in the different regions of the country. 
 
 *Sources*:
- http://www.congress.gov.ph/press/details.php?pressid=11841
-
-
-
-
-https://www.officialgazette.gov.ph/downloads/2020/04apr/20200401-IRR-RA-11469-RRD.pdf
-
-https://www.garda.com/crisis24/news-alerts/384106/philippines-authorities-extend-partial-covid-19-restrictions-in-manila-until-october-31-update-37
-
-https://www.garda.com/crisis24/news-alerts/383066/philippines-authorities-tighten-restrictions-in-iloilo-city-until-october-9-update-36
-
-https://www.garda.com/crisis24/news-alerts/488181/philippines-heightened-security-measures-remain-in-place-in-mindanao-as-of-june-9
-
-https://www.garda.com/crisis24/news-alerts/485306/philippines-officials-to-continue-general-community-quarantine-in-metro-manila-surrounding-areas-until-at-least-june-15-update-7
-
-https://www.garda.com/crisis24/news-alerts/485416/philippines-authorities-extends-covid-19-community-quarantine-measures-of-varying-levels-nationwide-through-june-15-due-to-covid-19-update-68
-
-https://www.garda.com/crisis24/news-alerts/487026/philippines-authorities-to-enact-entry-restrictions-in-dinagat-islands-province-june-7-21
-
-
+ https://perma.cc/BU9T-ZF2U
+https://perma.cc/BM6F-XSZA
+https://perma.cc/JUY6-JSSM
+https://perma.cc/N5PR-XDU5
+https://perma.cc/FG2A-8T64
+https://perma.cc/SPA8-3E4B
+https://perma.cc/YP7U-45VE
+https://perma.cc/UQ4M-Z6JR
 
 
 
@@ -3853,15 +3993,25 @@ Q1 2021: In March 2021, there were stricter measures in some regions (Warmia,Pom
 Q2 2021: No information on measures on a subnational level found. 
 
 *Sources*:
- https://dziennikustaw.gov.pl/DU/2020/1356
-https://www.gov.pl/web/koronawirus/100-dni-solidarnosci-w-walce-z-covid-19
-https://www.gov.pl/web/coronavirus/temporary-limitations
-https://www.bbc.com/news/world-europe-54672736
+ https://perma.cc/KL5D-ELQG
 
-https://www.garda.com/crisis24/news-alerts/454306/poland-authorities-extend-domestic-covid-19-restrictions-until-march-28-while-tightening-measures-in-some-regions-update-27
 
-https://www.garda.com/crisis24/news-alerts/482736/poland-authorities-continue-to-gradually-ease-domestic-covid-19-restrictions-as-of-may-25-update-35
-https://www.garda.com/crisis24/news-alerts/472856/poland-authorities-to-further-ease-domestic-covid-19-restrictions-starting-may-1-update-34
+https://perma.cc/P9HU-BE92
+
+
+https://perma.cc/5JFB-R4DK
+
+
+https://perma.cc/V9H6-ZRBC
+
+
+https://perma.cc/YD3Y-EGW3
+
+
+https://perma.cc/P3N7-HTR8
+
+
+https://perma.cc/G2XB-TCJM
 
 
 
@@ -3887,11 +4037,11 @@ https://www.garda.com/crisis24/news-alerts/472856/poland-authorities-to-further-
 
 *Sources*:
  [1]
-https://dre.pt/legislacao-covid-19-por-areas-tematicas#10
+perma.cc/9MB4-WRLF
 [2]
-https://dre.pt/web/guest/pesquisa/-/search/136365123/details/maximized
+perma.cc/22U6-4P9Y
 [3]
-https://dre.pt/legislacao-covid-19-upo
+perma.cc/UQ5D-TYPK
 
 
 
@@ -3916,20 +4066,25 @@ https://dre.pt/legislacao-covid-19-upo
  In Q2 of 2020, there was a partial closure of the Industrial Area in Doha from 17 March 2020 for 2 weeks. Apart from that, no evidence of any sub-national variation has been found, and this is therefore coded as 1 for Q2 of 2020 and 0 for all other periods. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/324061/qatar-domestic-restrictions-implemented-march-16-update-14
-
-https://www.gco.gov.qa/en/2020/05/06/industrial-area/
+ https://perma.cc/WQ43-E4NG
 
 
-https://www.amnesty.org/en/latest/news/2020/03/qatar-migrant-workers-in-labour-camps-at-grave-risk-amid-covid19-crisis/
+https://perma.cc/842W-TK4T
 
-https://www.garda.com/crisis24/news-alerts/482266/qatar-authorities-to-ease-Covid-19-restrictions-in-four-phases-starting-may-28-update-28
 
-https://www.garda.com/crisis24/news-alerts/464616/qatar-authorities-to-further-tighten-Covid-19-restrictions-from-april-9-update-25
+https://perma.cc/VPC7-EGT3
 
-https://www.garda.com/crisis24/news-alerts/438611/qatar-authorities-to-reimpose-some-Covid-19-restrictions-nationwide-from-feb-4-update-22
 
-https://qa.usembassy.gov/Covid-19-information-11/
+https://perma.cc/KJN3-GKNT
+
+
+https://perma.cc/EZ5L-FS43
+
+
+https://perma.cc/D6V9-N9GR
+
+
+https://perma.cc/6H4K-RD2U
 
 
 
@@ -3957,21 +4112,14 @@ During Q3 and Q4 of 2020, and Q1 and Q2 of 2021, a night curfew is in place in B
  
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/460387/congo-covid-19-related-state-of-health-emergency-extended-through-april-14-update-21
-
-https://www.garda.com/crisis24/news-alerts/434231/congo-covid-19-related-state-of-health-emergency-extended-through-feb-14-update-18
-
-https://cg.usembassy.gov/health-alert-the-government-of-the-republic-of-congo-roc-extended-a-state-of-health-emergency-until-december-16-to-limit-the-spread-of-covid-19/
-
-https://www.garda.com/crisis24/news-alerts/397456/congo-authorities-extend-state-of-health-emergency-until-november-27-update-14
-
-https://cg.usembassy.gov/covid-19-health-alert-08272020/
-
-https://www.africanews.com/2020/03/30/congo-republic-heads-into-coronavirus-lockdown/
-
-https://www.sgg.cg/textes-officiels/Congo-Decret-2020-93-declaration-etat-urgence-sanitaire-Republique-Congo.pdf
-
-https://www.garda.com/crisis24/news-alerts/327701/congo-curfew-and-health-emergency-comes-into-effect-march-31-update-2
+ https://perma.cc/2C7N-EVPB
+https://perma.cc/DDZ5-5FWJ
+https://perma.cc/6Y9Y-ZR8J
+https://perma.cc/GU9S-GZ25
+https://perma.cc/R7CA-EGWN
+https://perma.cc/NN28-8LC7
+https://perma.cc/RA3K-VZJG
+https://perma.cc/5LPZ-6VY9
 
 
 
@@ -4002,19 +4150,28 @@ Q4 2020: stricter measures in Bucharest (closure of restaurants) in October.
 Q1 2021, Q2 2021: no measures implemented on a subnational level found. 
 
 *Sources*:
- https://ro.usembassy.gov/covid-19-information/
-https://www.euronews.com/2020/04/10/the-region-with-twice-as-many-coronavirus-cases-as-anywhere-else-in-romania
+ https://perma.cc/F3YH-YE93
 
-http://legislatie.just.ro/Public/DetaliiDocument/225876
 
-https://www.garda.com/crisis24/news-alerts/388201/romania-authorities-announce-closure-of-restaurants-and-bars-in-bucharest-as-of-october-7-update-15
+https://perma.cc/68XH-6VLJ
 
-https://www.garda.com/crisis24/news-alerts/414656/romania-authorities-extend-coronavirus-disease-related-state-of-alert-and-restrictive-measures-as-of-until-jan-13-update-12
-https://www.garda.com/crisis24/news-alerts/433706/romania-authorities-extend-coronavirus-disease-related-state-of-alert-and-restrictive-measures-as-of-until-at-least-feb-12-update-13
-https://www.garda.com/crisis24/news-alerts/442316/romania-authorities-extend-coronavirus-related-state-of-alert-and-restrictive-measures-until-at-least-march-13-update-14
-https://www.garda.com/crisis24/news-alerts/478491/romania-authorities-to-ease-covid-19-related-domestic-restrictions-from-may-15-update-19
-https://www.garda.com/crisis24/news-alerts/453486/romania-authorities-extend-covid-19-related-state-of-alert-and-associated-restrictions-until-at-least-april-12-update-15
-https://www.garda.com/crisis24/news-alerts/465801/romania-authorities-extend-covid-19-related-state-of-alert-and-constituent-restrictions-until-at-least-may-12-update-17
+
+https://perma.cc/4S8C-E5UD
+
+
+https://perma.cc/57HM-HRDX
+
+
+https://perma.cc/JYL8-7BUP
+
+
+https://perma.cc/BG8A-Y3UE
+
+
+https://perma.cc/RNV2-Y7KE
+
+
+https://perma.cc/GPA3-BZAN
 
 
 
@@ -4039,16 +4196,14 @@ https://www.garda.com/crisis24/news-alerts/465801/romania-authorities-extend-cov
  Most measures have been delegated to the regional authorities with some regions taking stronger measures and for a longer period of time. On 2 April 2020, President Putin said that he gave regional authorities additional power to tackle the crisis due to regional differences and all regions declared a state of high alert. 
 
 *Sources*:
- https://www.bbc.com/russian/news-52069617
-http://kremlin.ru/events/president/news/63133
-https://www.mos.ru/upload/documents/docs/34-YM.pdf
-https://www.gov.spb.ru/press/governor/188430/
-https://rg.ru/2020/03/31/chehcnya-ukaz66-reg-dok.html
-
-https://www.ft.com/content/05fbbf49-913d-48ec-acdc-1f47c774317ahttps://www.mos.ru/authority/documents/doc/43620220/
-https://www.garda.com/crisis24/news-alerts/398321/russia-authorities-to-tighten-covid-19-restrictions-in-moscow-november-13-update-49
-https://www.mos.ru/city/projects/measures/
-https://www.garda.com/crisis24/news-alerts/436386/russia-measures-imposed-to-stem-the-spread-of-covid-19-further-eased-in-moscow-as-of-jan-27-update-35
+ https://perma.cc/FBN3-MKT2
+https://perma.cc/MA9M-T683
+https://perma.cc/5NSQ-WPMR
+https://perma.cc/PRA6-DHXV
+https://perma.cc/45VH-2YEX
+https://perma.cc/ZH6U-DJTC
+https://perma.cc/U989-VHFL
+https://www.ft.com/content/05fbbf49-913d-48ec-acdc-1f47c774317a
 
 
 
@@ -4078,45 +4233,27 @@ In Q1 and Q2 of 2021, most of these measures were also in place, with a few diff
 In January 2021 the authorities reinstated the lockdown in Kigali, which was eased in February 2021. (9 - 13 ). 
 
 *Sources*:
- https://www.theigc.org/blog/rwandas-response-to-covid-19-and-future-challenges/
-(1)
+ perma.cc/2E43-EZBZ
+perma.cc/WQ7U-CS8Y
+perma.cc/U4HA-9RN4
+perma.cc/AQ6L-8SML
+perma.cc/RRH5-7UDR
+perma.cc/CA57-WD76
+[7]
+https://perma.cc/MR35-NWFP
+[8]
+https://perma.cc/826G-BTG2
+[9]
+https://perma.cc/GXV8-RKJY
+[10]
+https://perma.cc/79CR-9SDG
+[11]
+https://perma.cc/T8DS-SCBG
+[12]
+https://perma.cc/B9PZ-DMQ6
 
-https://www.dw.com/en/coronavirus-rwanda-imposes-africas-first-lockdown/a-52878787
-(2)
-
-https://twitter.com/NewTimesRwanda/status/1241421501192077314
-(3)
-
-https://www.osac.gov/Content/Report/52d7596c-8a57-4c3f-9d90-18d785e7393e
-(4)
-
-https://www.garda.com/crisis24/news-alerts/360751/rwanda-lockdowns-extended-in-nyamagabe-and-nyamasheke-until-july-29-update-11
-(5)
-
-https://www.garda.com/crisis24/news-alerts/373201/rwanda-curfew-extended-and-additional-restrictions-introduced-on-august-26-following-surge-in-covid-19-cases-update-14
-(6)
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_12_October_2020.pdf
-(7)
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_27_October_2020.pdf
-(8)
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_18_January_2021.pdf
-(9)
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions__of_02_February_2021.pdf
-(10)
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_15_March_2021.pdf
-(11)
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_14_April_2021.pdf
-(12)
-
-https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Resolutions/Statement_on_Cabinet_Resolutions_of_05_May_2021.pdf
-
-(13)
+[13]
+https://perma.cc/FY3K-C2X5
 
 
 
@@ -4141,22 +4278,14 @@ https://www.gov.rw/fileadmin/user_upload/gov_user_upload/Publications/Cabinet_Re
  During Q2-Q3 of 2020, Saudi Arabia imposed several nationwide emergence measures, but also a number of regional measures, primarily specific lockdowns and curfews (or easing of these). This is therefore coded as 2, as there's some regional variation along with several measures in place for the whole country. From Q4 and onward, however, all restrictions seem to be in place nationwide and no sub-national variation has been found. This is therefore coded as 0. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.garda.com/crisis24/news-alerts/340651/saudi-arabia-authorities-ease-Covid-19-restrictions-in-several-districts-of-medina-may-9-update-33
-
-https://www.garda.com/crisis24/news-alerts/341441/saudi-arabia-lockdown-measures-introduced-in-baish-province-jazan-region-as-of-may-12-to-curb-the-spread-of-Covid-19-update-34
-
-https://www.garda.com/crisis24/news-alerts/409071/saudi-arabia-Covid-19-related-restrictions-remain-in-effect-nationwide-as-of-dec-5-update-44
-
-https://www.garda.com/crisis24/news-alerts/409071/saudi-arabia-Covid-19-related-restrictions-remain-in-effect-nationwide-as-of-dec-5-update-44
-
-
-https://www.garda.com/crisis24/news-alerts/439596/saudi-arabia-authorities-maintaining-tightened-domestic-restrictions-as-of-feb-6-amid-efforts-to-combat-Covid-19-update-52
-
-https://www.garda.com/crisis24/news-alerts/484936/saudi-arabia-authorities-lift-Covid-19-related-travel-ban-on-11-countries-may-30-update-60
-
-https://www.garda.com/crisis24/news-alerts/451796/saudi-arabia-authorities-to-lift-some-domestic-restrictions-nationwide-beginning-march-7-update-54
+ https://perma.cc/H6B7-PWZB
+https://perma.cc/K4E8-Q6EQ
+https://perma.cc/VK53-32WG
+https://perma.cc/YBF4-CFLC
+https://perma.cc/H5JW-C3JD
+https://perma.cc/6DZP-QNB4
+https://perma.cc/9ZC5-WVQV
+https://perma.cc/M26V-2NAQ
 
 
 
@@ -4183,25 +4312,17 @@ https://www.garda.com/crisis24/news-alerts/451796/saudi-arabia-authorities-to-li
 The state of health disaster, introduced in 5 January 2021 - in place until 19 March 2021, was imposed on the capital Dakar and neighbouring Thies. The measures in place after March 2021 applied nationwide. 
 
 *Sources*:
- https://www.voaafrique.com/a/macky-sall-annonce-la-fin-du-couvre-feu-et-de-l-%C3%A9tat-d-urgence/5486029.html
-
-http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
-
-https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emergency-to-curb-covid-19//
-
-https://www.reuters.com/article/us-health-coronavirus-senegal/senegal-orders-all-schools-closed-in-response-to-coronavirus-idUSKBN211106
-
-https://www.reuters.com/article/health-coronavirus-senegal-ivorycoast/ivory-coast-senegal-declare-emergencies-impose-curfews-in-coronavirus-response-idUSL8N2BG9MO
-
-https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-minist%C3%A9riel-n%C2%B0-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
-
+ perma.cc/8SQ6-6AHL
+perma.cc/N3LV-9WGU
+perma.cc/28G3-9H5L
+perma.cc/8GQY-UWHW
+perma.cc/VQ3L-S3Z9
+https://web.archive.org/web/20200716073713/https://www.sec.gouv.sn/actualit<8e>/arr<90>t<8e>-minist<8e>riel-n<a1>-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
 https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-n%C2%B0024066-du-05-octobre-2020-portant-prorogation-de-larr%C3%AAt%C3%A9-n%C2%B011592-du-10-juillet
 
-https://sn.usembassy.gov/covid-19-information/
-
-https://www.rfi.fr/en/africa/20210106-senegal-declares-state-of-emergency-curfew-to-combat-spike-in-covid-19-africa-health
-
-https://www.garda.com/crisis24/news-alerts/458161/senegal-several-covid-19-related-domestic-restrictions-including-a-night-time-curfew-in-dakar-and-thies-lifted-as-of-march-21-update-19
+perma.cc/6JQE-GXWS
+perma.cc/NYT9-DFGU
+perma.cc/U6DA-KQMD
 
 
 
@@ -4226,19 +4347,41 @@ https://www.garda.com/crisis24/news-alerts/458161/senegal-several-covid-19-relat
  Almost uniform measures throughout the country during Q2 2020, Q4 2020, Q1 2021, Q2 2021. During Q3 2020, there were special measures in the capital Belgrade. 
 
 *Sources*:
- http://www.pravno-informacioni-sistem.rs/fp/covid19
-https://www.reuters.com/article/us-health-coronavirus-serbia-idUSKBN24416T
-https://www.srbija.gov.rs/vest/en/158547/special-measures-to-curb-covid-19-in-territory-of-belgrade.php
+ https://perma.cc/2KKM-SDH9
 
-https://www.srbija.gov.rs/vest/476370/nove-mere-za-beograd-u-cilju-sprecavanja-sirenja-covid-19.php
-https://www.garda.com/crisis24/news-alerts/356336/serbia-state-of-emergency-declared-in-belgrade-on-july-3-amid-surge-in-covid-19-cases-update-13
-https://www.srbija.gov.rs/vest/477069/nove-mere-i-policijski-cas-u-beogradu-od-petka-do-ponedeljka.php
 
-https://www.srbija.gov.rs/vest/533485/relaksiranje-mera-ako-ne-bude-naglih-skokova-broja-zarazenih.php
-https://www.srbija.gov.rs/vest/530389/aktuelne-mere-protiv-covid-19-ostaju-na-snazi.php
-https://www.srbija.gov.rs/vest/529675/od-sutra-na-snazi-nove-mere-za-suzbijanje-epidemije.php
-https://www.srbija.gov.rs/vest/528085/ostrije-mere-u-borbi-protiv-koronavirusa-do-ponedeljka.php
-https://www.srbija.gov.rs/vest/527368/od-veceras-u-21-cas-na-snazi-nove-mere-za-suzbijanje-epidemije.php
+https://perma.cc/RKB7-3SEA
+
+
+https://perma.cc/X9GC-R9Y5
+
+
+https://perma.cc/NCZ9-NQ9F
+
+
+https://perma.cc/K55Q-DQC6
+
+
+https://perma.cc/52X9-S45W
+
+
+
+https://perma.cc/6DE7-YZ53
+
+
+https://perma.cc/FMJ5-BCFE
+
+
+https://perma.cc/LRZ3-S6WY
+
+
+https://perma.cc/WZ52-4ZXY
+
+
+https://perma.cc/SUT7-XQPP
+
+
+
 
 
 
@@ -4263,7 +4406,7 @@ https://www.srbija.gov.rs/vest/527368/od-veceras-u-21-cas-na-snazi-nove-mere-za-
  Only uniform measures throughout the country found. 
 
 *Sources*:
- https://statehouse.gov.sl/
+ [1]	perma.cc/R7GZ-KBM7
 
 
 
@@ -4290,12 +4433,8 @@ https://www.srbija.gov.rs/vest/527368/od-veceras-u-21-cas-na-snazi-nove-mere-za-
 The emergency measures continue to the implemented uniformly through out the country in Q1 and Q2 of 2021. 
 
 *Sources*:
- https://sso.agc.gov.sg/Act/COVID19TMA2020?ValidDate=20200513#pr34-
-
-
-
-
-https://www.moh.gov.sg/covid-19
+ https://perma.cc/V88P-56RD
+https://perma.cc/9RET-D3Z9
 
 
 
@@ -4320,8 +4459,10 @@ https://www.moh.gov.sg/covid-19
  Uniform measures throughout the country. 
 
 *Sources*:
- https://korona.gov.sk/
-https://www.health.gov.sk/Clanky
+ https://perma.cc/X2PD-DX6D
+
+
+https://perma.cc/5EFR-V96K
 
 
 
@@ -4346,7 +4487,7 @@ https://www.health.gov.sk/Clanky
  Uniform measures throughout the country. 
 
 *Sources*:
- https://www.gov.si/teme/koronavirus-sars-cov-2/
+ [1]	perma.cc/65TN-HJCB
 
 
 
@@ -4371,9 +4512,8 @@ https://www.health.gov.sk/Clanky
  The implementation of federal regulations within the federal member states of Somalia has varied somewhat. There is evidence that some states, particularly Puntland and Somaliland have adopted separate regulations with respect to Covid-19. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/408321/somalia-authorities-are-maintaining-restrictions-as-of-december-4-due-to-covid-19-activity-domestic-and-international-flights-ongoing-update-5
-
-https://www.bmj.com/content/368/bmj.m1090/rr-14
+ https://perma.cc/64CR-J3Z4
+https://perma.cc/L6W5-DZ94
 
 
 
@@ -4398,15 +4538,11 @@ https://www.bmj.com/content/368/bmj.m1090/rr-14
  The South African government has declared some areas as "hotspots" throughout the pandemic. These areas are subject to additional protocols beyond those implemented nationally, such as longer curfews, lockdowns, restrictions or closures of public places, and border closures. 
 
 *Sources*:
- https://sacoronavirus.co.za/2020/04/28/update-on-covid-19-28th-april-2020-with-media-presentation/
-
-https://www.reuters.com/article/us-health-coronavirus-safrica/south-africa-tightens-covid-19-rules-in-eastern-cape-ramaphosa-says-in-the-fight-of-our-lives-idUSKBN28D32X
-
-https://www.washingtonpost.com/world/africa/south-africa-coronavirus-surge/2020/12/28/b4c8e17a-492c-11eb-97b6-4eb9f72ff46b_story.html
-
-https://www.garda.com/crisis24/news-alerts/428226/south-africa-officials-amend-covid-19-restrictions-nationwide-jan-11-update-19
-
-https://www.garda.com/crisis24/news-alerts/461871/south-africa-authorities-ease-public-gathering-covid-19-restrictions-from-march-31-update-4
+ [1]	perma.cc/U3PR-ALB6
+[2]	perma.cc/TY6D-SG2V
+[3]	perma.cc/H8WP-YA3B
+[4]	perma.cc/FU8T-5DW6
+[5]	perma.cc/TMF3-Z3A9
 
 
 
@@ -4431,22 +4567,14 @@ https://www.garda.com/crisis24/news-alerts/461871/south-africa-authorities-ease-
  The emergency measures have varied slightly at the sub-national level. The more populated cities in South Korea have generally had more Covid-19 related restrictions. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/320021/south-korea-government-declares-new-special-care-zone-in-north-gyeongsang-province-march-5-update-11
-
-https://www.garda.com/crisis24/news-alerts/465551/south-korea-authorities-extend-covid-19-restrictions-through-may-2-tighter-measures-likely-in-urban-areas-update-58
-
-https://www.garda.com/crisis24/news-alerts/371876/south-korea-authorities-make-face-masks-mandatory-in-seoul-august-24-update-29
-
-https://www.garda.com/crisis24/news-alerts/316596/south-korea-number-of-coronavirus-covid-49-cases-surges-february-22-update-5
-
-https://www.garda.com/crisis24/news-alerts/383256/south-korea-authorities-extend-covid-19-restrictions-until-october-11-update-35
-
-https://www.garda.com/crisis24/news-alerts/400541/authorities-tighten-covid-19-restrictions-in-seoul-november-19
-
-https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/south-korea/
+ https://perma.cc/7JT9-TWK8
+https://perma.cc/9JW2-PZNA
+https://perma.cc/6DJN-76A9
+https://perma.cc/SAK7-JK9S
+https://perma.cc/6NV5-Z5GT
+https://perma.cc/2MRG-NYBK
+https://perma.cc/M5DV-QWLS
+https://perma.cc/LQ2G-LZ7Y
 
 
 
@@ -4471,12 +4599,22 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/south-korea/
  No sub-national emergency measure variation was found in the emergency response. 
 
 *Sources*:
- https://twitter.com/southsudangov?lang=en
-http://www.xinhuanet.com/english/africa/2021-03/01/c_139773890.htm
-https://www.voanews.com/covid-19-pandemic/south-sudan-extends-partial-lockdown-indefinitely
-https://radiotamazuj.org/en/news/article/covid-19-south-sudan-lifts-partial-lockdown
-https://twitter.com/SouthSudanGov/status/1239515788341587968
-https://www.aa.com.tr/en/africa/coronavirus-south-sudan-bans-social-gatherings/1768378
+ https://perma.cc/NUV5-HHZM
+
+
+https://perma.cc/8JQ3-WBVX
+
+
+https://perma.cc/TRW5-TDU2
+
+
+https://perma.cc/TR3P-VZPF
+
+
+https://perma.cc/9PQ3-KX2C
+
+
+https://perma.cc/YS7V-UW3N
 
 
 
@@ -4501,26 +4639,13 @@ https://www.aa.com.tr/en/africa/coronavirus-south-sudan-bans-social-gatherings/1
  During the first state of emergency, the government's plan for reopening the country was gradual, and in each fase some regions are allowed to open to "a new normal". The second state of emergency allows autonomous regions to decide whether or not to close their region, and it declares a mandatory curfew in all of Spain, except the Canary Islands. 
 
 *Sources*:
- [1]
-https://administracion.gob.es/pag_Home/atencionCiudadana/Estado-de-alarma-crisis-sanitaria.html#-5c02617e6a9c
-
-[2]
-https://www.elconfidencial.com/espana/coronavirus/2020-06-19/estado-alarma-cuando-acaba-espana-coronavirus_2534664/
-
-[3]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-12898
-
-[4]
-https://elpais.com/espana/2020-10-25/sanchez-aprueba-un-nuevo-estado-de-alarma-para-toda-espana-con-intencion-de-que-se-prolongue-hasta-el-9-de-mayo.html
-
-[5]
-https://www.abc.es/sociedad/abci-restricciones-semana-santa-comunidades-nsv-202103261218_noticia.html
-
-[6]
-https://www.lavanguardia.com/motor/actualidad/20210326/6610522/semana-santa-2021-debes-quieres-desplazarte-dias-esi.html
-
-[7]
-https://elpais.com/sociedad/2020-12-29/navidad-en-espana-estas-son-las-medidas-y-restricciones-en-las-comunidades-por-el-coronavirus.html
+ [1]	perma.cc/2F9Z-38J5
+[2]	perma.cc/9DWH-VBU6
+[3]	perma.cc/58PV-63EQ
+[4]	perma.cc/SR96-XUFR
+[5]	perma.cc/2MUS-732M
+[6]	perma.cc/8LFH-3HKJ
+[7]	perma.cc/LU6W-VMQX
 
 
 
@@ -4552,24 +4677,19 @@ There were slight variations in the emergency measures at the sub-national level
 
 *Sources*:
  (1)
-https://island.lk/sri-lanka-struck-hard-as-covid-19-starts-global-second-wave/
-
-
-(2)http://www.dailymirror.lk/breaking_news/Curfew-in-Gampaha-will-remain-for-few-days/108-197677
-
-(3)https://www.newsfirst.lk/2020/10/23/quarantine-curfew-not-extended-to-other-areas/
-
+https://perma.cc/7YPL-GMHC
+(2)
+https://perma.cc/UY7T-TL4K
 (3)
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011875057/sri-lanka-officials-extend-nationwide-ban-on-nonessential-movement-to-0400-june-14-due-to-covid-19-activity-update-56
-
+https://perma.cc/KSX6-5H35
+(3)
+https://perma.cc/AJG9-QGKG
 (4)
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011875041/sri-lanka-sri-lanka-continuing-to-enforce-covid-19-restrictions-as-of-feb-15-update-40
-
+https://perma.cc/QTR8-2NKW
 (5)
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011875060/sri-lanka-officials-extend-domestic-covid-19-curbs-including-movement-restrictions-through-june-21-update-59
-
+https://perma.cc/U2AX-9EAQ
 (6)
-https://www.garda.com/crisis24/news-alerts/478581/sri-lanka-officials-impose-additional-movement-curbs-through-may-31-due-to-covid-19-activity-update-50
+https://perma.cc/TK5E-4KGH
 
 
 
@@ -4594,26 +4714,16 @@ https://www.garda.com/crisis24/news-alerts/478581/sri-lanka-officials-impose-add
  On 18 April, 2020, authorities effected a lockdown in Khartoum and North Darfur. From July 8, 2020, these lockdowns have been gradually lifted. In October 2020, a curfew was declared in Port Sudan and Swakin Towns, but with no reference to Covid-19. No evidence found for differing regional measures in Q1 2021. [10] On March 25, 2021, "North Darfur state announced the suspension of studies in basic and secondary schools for a week." [9] On May 2, 2021 the Health Emergency Committee in North Kordofan declared a State of Health Emergency. [8] 
 
 *Sources*:
- [1]
-https://reliefweb.int/report/sudan/sudan-covid-19-situation-overview-response-10-november-2020
-[2]
-https://allafrica.com/stories/202010150410.html
-[3]
-https://allafrica.com/stories/202003240353.html
-[4]
-https://reliefweb.int/report/sudan/sudan-corona-virus-covid-19-country-preparedness-and-response-plan-cprp-may-2020
-[5]
-https://sd.usembassy.gov/health-alert-u-s-embassy-khartoum-sudan-july-7-2020/
-[6]
-https://allafrica.com/stories/202007080364.html
-[7]
-https://www.africanews.com/2020/07/10/sudan-eases-lockdown-restrictions-locals-lament-economic-crunch/
-[8]
-https://www.dabangasudan.org/en/all-news/article/covid-19-in-sudan-state-of-emergency-as-cases-rise-in-north-kordofan
-[9]
-https://www.dabangasudan.org/en/all-news/article/covid-19-in-sudan-face-masks-social-distancing-now-mandatory-in-state-institutions-schools-public-transport
-[10]
-https://www.dabangasudan.org/en/all-news/article/sudan-timeline-january-march-2021-holdout-rebels-in-from-the-cold-sudanese-pound-devalued-covid-19-vaccine-roll-out-begins
+ [1]	perma.cc/ME3Y-5CC2
+[2]	perma.cc/4QBB-DCK5
+[3]	perma.cc/FDH2-Z7KB
+[4]	perma.cc/6YYG-X8HA
+[5]	perma.cc/BW6M-7BRL
+[6]	perma.cc/4QBB-DCK5
+[7]	perma.cc/5KE3-DMTQ
+[8]	perma.cc/Y3XT-YMF7
+[9]	perma.cc/8X8V-MQ2E
+[10]	perma.cc/E3VT-27GB
 
 
 
@@ -4638,14 +4748,19 @@ https://www.dabangasudan.org/en/all-news/article/sudan-timeline-january-march-20
  For Q2 and Q3 of 2020, the emergency measures have been taken nationwide and no sub-national variation has been found. This is therefore coded as 0. In Q4 of 2020, some regions introduced somewhat stricter measures, and this is therefore coded as 1. For Q1 and Q2 of 2021, there has again only been nationwide restrictions in place (although some differences have occurred in terms of regional recommendations, but these are only recommendations and not restrictions). 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/Lxd2u5XvrbqyRML3R/sweden-scandanavian-airlines-sas-suspends-all-flights-to-northern-italy-march-3
-https://www.acaps.org/covid19-government-measures-dataset
+ https://perma.cc/W4EW-5V68
+
+
+https://perma.cc/F64D-W7G5
 
 
 
-https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/Covid-19/lokala-rekommendationer/
 
-https://www.garda.com/search?query=Sweden+Covid-19&sort_by=created
+
+https://perma.cc/UQE3-NFQK
+
+
+https://perma.cc/QJY2-MUTY
 
 
 
@@ -4670,11 +4785,19 @@ https://www.garda.com/search?query=Sweden+Covid-19&sort_by=created
  Switzerland being a federal state grants a lot of independence to the cantons on how to issue regulations. Although the Ordinances containing the emergency measures were taken at the Federal level, there is still variation among the regions, Switzerland has had both a lot of nationwide emergency measures such as lockdowns and school closings, and emergency measures taken by the states such as curfews and varied timing of reopening. This has continued throughout the coded period, where national and sub-national measures have been in effect. This is therefore coded 2 for all periods. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-https://www.garda.com/crisis24/news-alert-full-history/sqd227zbeYFtufCtT/switzerland-first-coronavirus-confirmed-in-ticino-canton-february-25
-https://www.swissinfo.ch/eng/Covid-19-_-geneva-bans-gatherings-of-more-than-five-people-/45619940
-https://www.swissinfo.ch/eng/coronavirus-fallout_swiss-canton-orders-non-essential-industry-to-cease-production/45634594
-https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+ https://perma.cc/5M4B-BUPU
+
+
+https://perma.cc/BTJ5-4XJA
+
+
+https://perma.cc/V3RX-3J5U
+
+
+https://perma.cc/57B7-N6FD
+
+
+https://perma.cc/QT3U-PFL7
 
 
 
@@ -4699,14 +4822,13 @@ https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/
  There was no variation in the emergency measures that were implemented throughout the country across all the time periods. 
 
 *Sources*:
- https://www.bbc.com/news/technology-52883838
+ https://perma.cc/YQ35-ADUF
 
 
+https://perma.cc/L387-CJ7A
 
 
-https://verfassungsblog.de/taiwans-fight-against-covid-19-constitutionalism-laws-and-the-global-pandemic/
-
-https://www.reuters.com/world/china/taiwan-extend-covid-19-curbs-schools-stay-shut-2021-06-07/
+https://perma.cc/EM6X-T3L9
 
 
 
@@ -4731,7 +4853,7 @@ https://www.reuters.com/world/china/taiwan-extend-covid-19-curbs-schools-stay-sh
  Uniform measures throughout the country. 
 
 *Sources*:
- http://www.president.tj/ru/node/23055
+ https://perma.cc/7LWQ-55US
 
 
 
@@ -4757,19 +4879,17 @@ https://www.reuters.com/world/china/taiwan-extend-covid-19-curbs-schools-stay-sh
 
 *Sources*:
  [1]
-https://www.garda.com/crisis24/news-alerts?field_news_alert_countries=646
-[2]https://www.atlanticcouncil.org/blogs/africasource/tanzanias-mild-response-to-Covid-19-and-its-implications-for-the-2020-elections/
+https://perma.cc/8NVU-4TLB
+[2]
+https://perma.cc/U79P-79KQ
 [3]
-https://www.garda.com/crisis24/news-alerts/457256/tanzania-authorities-maintain-minimal-Covid-19-restrictions-as-of-march-18-update-9
-
+https://perma.cc/NHH4-XYR5
 [4]
-https://www.garda.com/crisis24/news-alerts/469096/tanzania-Covid-19-restrictions-remain-largely-unchanged-as-of-april-19-by-comparison-with-those-in-effect-during-mid-march-update-10
-
+https://perma.cc/PN2E-F34Z
 [5]
-https://www.garda.com/crisis24/news-alerts/474751/tanzania-authorities-tighten-Covid-19-related-restrictions-from-may-4-update-11
-
+https://perma.cc/DQ98-KT6M
 [6]
-https://www.garda.com/crisis24/news-alerts/488461/tanzania-authorities-maintain-Covid-19-related-restrictions-as-of-june-9-update-12
+https://perma.cc/9UML-Y2CB
 
 
 
@@ -4794,14 +4914,10 @@ https://www.garda.com/crisis24/news-alerts/488461/tanzania-authorities-maintain-
  The emergency measures have varied according to the different provinces. The more heavily populated provinces have had more restrictions that then less populated areas. For example in January 2021, residences from only six provinces had to obtain permits before being allowed to leave their province. 
 
 *Sources*:
- https://www.bangkokpost.com/thailand/general/1883570
-
-
-https://www.springnews.co.th/breaking-news/634353
-
-https://www.straitstimes.com/asia/se-asia/softly-does-it-bangkoks-covid-19-containment-strategy-stirs-unease
-
-https://www.garda.com/crisis24/news-alerts/482691/thailand-officials-extend-nationwide-state-of-emergency-through-july-31-due-to-covid-19-update-47
+ https://perma.cc/FQJ6-SXN3
+https://perma.cc/CYC6-RDD7
+https://perma.cc/8EQR-25SE
+https://perma.cc/YRB6-D52U
 
 
 
@@ -4826,14 +4942,19 @@ https://www.garda.com/crisis24/news-alerts/482691/thailand-officials-extend-nati
  The measures appear to have been more or less uniform across the country. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/344421/gambia-president-extends-Covid-19-state-of-emergency-until-june-9-update-2
-https://www.garda.com/crisis24/news-alerts/349821/gambia-Covid-19-state-of-emergency-extended-until-july-1-update-3
+ https://perma.cc/G9NK-NK89
 
-https://www.garda.com/crisis24/news-alerts/380661/gambia-Covid-19-restrictions-eased-from-september-17-update-8
 
-https://www.garda.com/crisis24/news-alerts/412326/gambia-minimal-Covid-19-restrictions-in-place-nationwide-as-of-dec-9-update-18
+https://perma.cc/7PVF-CTUN
 
-https://www.garda.com/crisis24/news-alerts/424211/gambia-minimal-Covid-19-restrictions-in-place-nationwide-as-of-dec-31-update-19
+
+https://perma.cc/7ELZ-CEL9
+
+
+https://perma.cc/4WT5-JWHG
+
+
+https://perma.cc/3DCM-6NEE
 
 
 
@@ -4861,22 +4982,15 @@ Since August 2020 there had been a few areas in Togo where the coronavirus measu
 These local lockdowns and curfew were maintained in Q1 of 2021: ''The northern Savanes region is under an indefinite lockdown. A 2000-0500 curfew is in place. Movement and travel restrictions are reportedly in effect in Sokode, Tchamba, and Adjengre.'' (8) 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/370461/togo-authorities-extend-state-of-emergency-until-september-15-update-5
+ perma.cc/9BR9-T3NT
+perma.cc/WDY2-23TN
+perma.cc/MF9H-AAAJ
+perma.cc/8T23-WMDW
+perma.cc/V5L7-XRCT
+https://web.archive.org/web/20201018174252/https://tg.usembassy.gov/health-alert-u-s-embassy-lome-togo-october-15-2020/
+perma.cc/SZW6-FVXX
+perma.cc/YH8K-9PGA
 
-https://www.togofirst.com/fr/sante/2408-6101-covid-19-bouclage-de-sokode-tchamba-et-adjengre
-
-https://www.aa.com.tr/fr/afrique/togo-covid-19-couvre-feu-et-bouclage-de-trois-villes/1952543
-
-http://apanews.net/en/news/covid-19-togo-declares-state-of-emergency-curfew
-
-https://presidence.gouv.tg/2020/04/01/adresse-du-chef-de-letat-sem-faure-essozimna-gnassingbe-au-peuple-togolais-sur-la-riposte-nationale-contre-le-covid-19/
-
-https://tg.usembassy.gov/health-alert-u-s-embassy-lome-togo-october-15-2020/
-
-https://www.garda.com/crisis24/news-alerts/456291/togo-authorities-extend-covid-19-related-state-of-health-emergency-for-six-months-from-march-16-update-14
-
-https://www.garda.com/crisis24/news-alerts/433616/togo-authorities-maintain-several-covid-19-related-international-movement-restrictions-and-curfew-in-places-as-of-jan-23-update-12
-(8)
 
 
 
@@ -4904,20 +5018,13 @@ On October 16, 2020, a curfew was imposed in 16 of 24 governorates. But it was c
 It appears that the measures adopted during the first two quarters of 2021 have been standardized at the national level. "Update 2021-01-26: The measures in force in Tunisia until recently were renewed on Saturday (23 January). A countrywide curfew remains in force from 08:00 p.m. to 05:00 a.m. (local time). Gatherings as well as travel between cities are prohibited." [7] 
 
 *Sources*:
- [1]
-https://africa.cgtn.com/2020/08/29/curfew-imposed-in-northwestern-tunisia/
-[2]
-https://www.emergency-live.com/news/curfew-in-16-regions-of-tunisia-to-stop-the-coronavirus-1000-contagions-per-day/
-[3]
-https://newsaf.cgtn.com/news/2020-10-30/Tunisia-imposes-nighttime-curfew-in-efforts-to-curb-COVID-19-spread-UZBr9AoTDi/index.html
-[4]
-http://english.ahram.org.eg/NewsContent/2/8/378227/World/Region/Tunisia-imposes-curfew-in-two-southern-towns-to-co.aspx
-[5]
-https://www.reuters.com/article/idUSL8N2FN4FE
-[6]
-https://www.garda.com/crisis24/news-alerts/476176/tunisia-authorities-impose-a-nationwide-partial-lockdown-may-9-16-to-combat-covid-19-update-52
-[7]
-https://global-monitoring.com/gm/page/events/epidemic-0002033.opYWG7G2jfCj.html?lang=en
+ [1]	perma.cc/7ZMB-AZY3
+[2]	perma.cc/7NTV-8T8J
+[3]	perma.cc/7FTS-MLJE
+[4]	perma.cc/8QPT-JB2E
+[5]	perma.cc/6VDG-C7PY
+[6]	perma.cc/EXK5-VAAX
+[7]	perma.cc/B587-LASK
 
 
 
@@ -4942,15 +5049,22 @@ https://global-monitoring.com/gm/page/events/epidemic-0002033.opYWG7G2jfCj.html?
  The Turkish government durign Q2 of 2020 imposed curfews and lockdowns differently across the country, with stronger restrictions in highly populated areas. For example, on March 30, April 4, April 10, April 18 etc in 2020., different areas and cities were put under quarantine, lockdown, or were obliged to introduced mandatory face masks. In the later periods, however,  became uniform and nationwide, and all extensive measures such as curfews, lockdowns, closing of businesses and the like have been taken at the national level. 
 
 *Sources*:
- https://tr.usembassy.gov/Covid-19-information-2/
-https://www.garda.com/crisis24/news-alert-full-history/s3ykQoBkeuRRHErpJ/turkey-country-closes-border-with-iran-halts-incoming-flights-over-Covid-19-february-23
-https://www.acaps.org/covid19-government-measures-dataset
+ https://perma.cc/FWR4-ASHN
 
-https://www.garda.com/crisis24/news-alerts/485291/turkey-government-to-further-ease-domestic-Covid-19-related-measures-from-june-1-update-42
 
-https://www.garda.com/crisis24/news-alerts/471696/turkey-government-to-enforce-nationwide-lockdown-april-29-may-17-due-to-Covid-19-activity-update-38
+https://perma.cc/9G9L-3X9W
 
-https://www.garda.com/crisis24/news-alerts/449486/turkey-authorities-ease-certain-Covid-19-related-domestic-restrictions-as-of-march-1-update-33
+
+https://perma.cc/Y4C5-HHWB
+
+
+https://perma.cc/F9JB-QE7D
+
+
+https://perma.cc/E4X9-7M5Q
+
+
+https://perma.cc/Y4U9-6FWG
 
 
 
@@ -4975,8 +5089,8 @@ https://www.garda.com/crisis24/news-alerts/449486/turkey-authorities-ease-certai
  No information found. 
 
 *Sources*:
- https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B349%5D&covid19=1
-https://www.garda.com/crisis24/news-alerts/486586/turkmenistan-authorities-largely-maintain-covid-19-related-domestic-restrictions-and-international-entry-requirements-as-of-june-3-update-13
+ https://perma.cc/J7UH-BULT
+https://perma.cc/DL2V-RXEX
 
 
 
@@ -5002,18 +5116,12 @@ https://www.garda.com/crisis24/news-alerts/486586/turkmenistan-authorities-large
 No hint of subnational variation for July-December 2020. No evidence found for subnational variation Q1 and Q2 2021. 
 
 *Sources*:
- [1]
-https://www.asf.be/blog/2020/06/11/ugandas-de-facto-state-of-emergency-to-address-the-covid-19-pandemic/#_ftn3
-[2]
-https://www.health.go.ug/covid/wp-content/uploads/2020/03/Covid-19-1.png
-[3]
-https://ug.usembassy.gov/health%e2%80%afalert-u-s-embassy-kampala-june-26-2020/
-[4]
-https://www.garda.com/crisis24/news-alerts/459721/uganda-authorities-maintain-covid-19-related-restrictions-as-of-march-24-update-14
-[5]
-https://ug.usembassy.gov/health-alert-u-s-embassy-kampala-may-3-2021/
-[6]
-http://www.xinhuanet.com/english/africa/2021-05/01/c_139919129.htm
+ [1]	perma.cc/Y6R8-TPJM
+[2]	perma.cc/E42Z-ZMEV
+[3]	perma.cc/HU7Y-NMEZ
+[4]	perma.cc/3MGR-CWYT
+[5]	perma.cc/5SF9-HMZG
+[6]	perma.cc/N42N-37XZ
 
 
 
@@ -5040,15 +5148,14 @@ http://www.xinhuanet.com/english/africa/2021-05/01/c_139919129.htm
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: there have been different measures for four epidemiological zones with four levels of risk (Green, Yellow, Orange and Red). 
 
 *Sources*:
- https://www.kmu.gov.ua/npas/pro-vstanovlennya-rezhimu-nadzvichajnoyi-situaciyi-v-zhitomirskij-ta-cherniveckij-oblastyah-320160320
-https://www.kmu.gov.ua/npas/pro-vstanovlennya-rezhimu-nadzvichajnoyi-situaciyi-v-doneckij-ternopilskij-ta-cherkaskij-t230320
-https://www.kmu.gov.ua/npas/pro-vstanovlennya-rezhimu-nadzvichajnoyi-situaciyi-u-m-kiyevi-324200320
-https://www.kmu.gov.ua/npas/pro-vstanovlennya-rezhimu-nadzvichajnoyi-situaciyi-v-dnipropetrovskij-oblasti-322200320
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B369%5D&covid19=1
-https://www.oecd.org/eurasia/competitiveness-programme/eastern-partners/COVID-19-CRISIS-IN-UKRAINE.pdf
-
-https://www.garda.com/crisis24/news-alerts/478256/ukraine-authorities-update-adaptive-quarantine-regime-for-covid-19-may-13-all-regions-in-yellow-zone-for-epidemiological-risk-update-26
-https://www.garda.com/crisis24/news-alerts/455636/ukraine-authorities-maintaining-covid-19-adaptive-quarantine-regime-until-april-30-update-19
+ https://perma.cc/SM5G-DKRW
+https://perma.cc/7PSZ-RB3H
+https://perma.cc/NFH9-XCE5
+https://perma.cc/88ZU-J6E7
+https://perma.cc/J7UH-BULT
+https://perma.cc/ZY59-YXH7
+https://perma.cc/4SPZ-HADU
+https://perma.cc/DYG7-QLXC
 
 
 
@@ -5074,24 +5181,13 @@ https://www.garda.com/crisis24/news-alerts/455636/ukraine-authorities-maintainin
  The area lockdowns were lifted in April 2020. 
 
 *Sources*:
- [1]
-https://www.worldaware.com/covid-19-alert-dubai-uae-lifts-full-lockdown-al-ras-naif-districts-april-27
-[2]
-https://www.reuters.com/article/us-health-coronavirus-emirates/dubai-lifts-lockdown-on-two-densely-populated-commercial-districts-idUSKCN2280QZ
-
-
-[3]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/government-efforts-to-contain-covid-19
-[4]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak
-[5]
-https://www.washingtonpost.com/world/middle_east/coronavirus-united-arab-emirates-dubai-abu-dhabi/2020/07/12/23fbfef2-bf89-11ea-8908-68a2b9eae9e0_story.html
-[6]
-https://www.reuters.com/article/idUSKCN26F1IX
-[7]
-https://www.shrm.org/resourcesandtools/hr-topics/global-hr/pages/covid-19-measures-dubai-abu-dhabi.aspx
-[8]
-https://www.worldaware.com/covid-19-alert-dubai-uae-lifts-full-lockdown-al-ras-naif-districts-april-27
+ [1]	perma.cc/M4PQ-9TQM
+[2]	perma.cc/QC8X-VW7D
+[3]	perma.cc/9AJE-Y54M
+[4]	perma.cc/B46A-6AZM
+[5]	perma.cc/GQT2-YREW
+[6]	perma.cc/9CVF-HS5L
+[7]	perma.cc/MHN5-LVRV
 
 
 
@@ -5116,20 +5212,34 @@ https://www.worldaware.com/covid-19-alert-dubai-uae-lifts-full-lockdown-al-ras-n
  The emergency measures have been implemented across the UK and the response is more or less uniform. The city and the surrounding area of Leicester has been an exception from the beginning, due to the high prevalence of Covid-19 cases. Between July and September, the emergency measures differed slightly more; England for instance started some reopening that differed from other parts of the UK, such as opening school for some age groups and allowing a larger set of people to gather at the same place. These differences were relatively small though, therefore these periods are coded as 1. Since October 14 2020, the first Covid-19 tier regulations came into force, which split the UK in 3 different tiers followed by respective three levels of restrictions. This regulation was replaced by a more rigorous nationwide lockdown regulations on November 5 (until December 1). However, a national countrywide three-tier legal framework was reintroduced on 2 December 2020: ''The government will replace them on 2 December with a regionally-differentiated approach, where different tiers of restrictions apply in different parts of the country. These tiers will be strengthened compared to the previous tiers in order to prevent a return to growing infections''. This tier system was in place until March 29 2021, and the relative sub-national variation continued within England, as well as sub-national variation caused by somewhat different restrictions in the four different countries. For Q2 of 2021, there still remain some sub-national variation, but now pertaining to differences in the speed and phasing of opening up and loosening restrictions. This is therefore coded 2 for both Q1 and Q2 of 2021 as well. 
 
 *Sources*:
- https://www.bbc.com/news/uk-55086621
-https://www.theguardian.com/world/2020/sep/22/local-lockdowns-failing-to-stop-covid-spread-in-england-experts-warn
-https://www.gov.uk/guidance/local-restriction-tiers-what-you-need-to-know
-https://www.gov.uk/government/news/pm-six-people-can-meet-outside-under-new-measures-to-ease-lockdown
-https://www.garda.com/crisis24/news-alert-full-history/7Jh4PXSYFEpgJ6Mi2/uk-british-airways-to-reduce-flights-to-italy-singapore-and-south-korea-february-28
-https://www.acaps.org/covid19-government-measures-dataset
+ https://perma.cc/TAA4-X8L5
 
-https://verfassungsblog.de/a-government-ungoverned/
 
-https://www.garda.com/crisis24/news-alerts/487371/uk-authorities-maintaining-Covid-19-restrictions-as-of-june-7-update-65
+https://perma.cc/NUM6-68U9
 
-https://www.garda.com/crisis24/news-alerts/474286/uk-uk-continuing-to-ease-Covid-19-restrictions-as-of-may-3-update-62
 
-https://www.garda.com/crisis24/news-alerts/452526/uk-authorities-begin-to-ease-Covid-19-related-restrictions-in-england-march-8-update-57
+https://perma.cc/7PET-CBL8
+
+
+https://perma.cc/CRC8-FZGP
+
+
+https://perma.cc/S7X3-BLED
+
+
+https://perma.cc/K852-AXAS
+
+
+https://perma.cc/TSV8-VJ6R
+
+
+https://perma.cc/73YN-TDQZ
+
+
+https://perma.cc/XP82-4W7J
+
+
+https://perma.cc/5ZZT-HYTG
 
 
 
@@ -5154,14 +5264,16 @@ https://www.garda.com/crisis24/news-alerts/452526/uk-authorities-begin-to-ease-C
  The national emergency does not determine how states respond to Covid-19, it opens up a lot of federal leeway to aid states and territories in differing ways and allows federal agencies to contribute to for example health care and emergency actions. So it has been up to the states to themselves determine their response to the pandemic. The states differ in terms of what and how many emergency measures and Covid-19 related regulation they have enacted, as is shown both by the National Governors Associations compilation of policy and legislation in all states and territories, and in the National Conference of State Legislatures (an interest organization for legislatures) compiling of data on state legislation during the pandemic. While a lot of states have taken similar or the same actions on a number of areas, the overall difference - both in content and in the timing of initiating restrictions and beginning to lift them - lead the overall interpretation of the subnational variation to be coded as 3. Note that during the spring of 2021, most states have relaxed many of the restrictions and have relatively few measures left. However, the way they have reopened has differed, and restrictions in terms of mask wearing, whether bars and restaurants are open (and for what time, with what capacity etc.) and the like still differs, both between states and between counties within states. This is therefore coded 3 for this period as well, although there seems to be a movement toward less sub-national variation. 
 
 *Sources*:
- https://www.nga.org/coronavirus/#states
+ https://perma.cc/9Q52-EHQL
 
 
-https://www.ncsl.org/research/health/state-action-on-coronavirus-Covid-19.aspx
+https://perma.cc/F5XX-Q9Z5
 
-https://www.aarp.org/politics-society/government-elections/info-2020/coronavirus-state-restrictions.html
 
-https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html
+https://perma.cc/JX6T-UW4F
+
+
+https://perma.cc/LHB2-XKET
 
 
 
@@ -5187,11 +5299,8 @@ https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html
 With the significant spike in cases beginning in late 2020, there is not much evidence of a sub-national variance in the response. 
 
 *Sources*:
- [1]
-https://www.presidencia.gub.uy/comunicacion/comunicacionnoticias/medidas-gobierno-sanitaria-emergencia-sanitaria-covid19
-
-[2]
-https://www.elpais.com.uy/informacion/salud/coronavirus-uruguay-departamentos-hay-casos-confirmados.html
+ [1]	perma.cc/C9WU-VMY7
+[2]	perma.cc/38PM-7JTD
 
 
 
@@ -5218,10 +5327,16 @@ https://www.elpais.com.uy/informacion/salud/coronavirus-uruguay-departamentos-ha
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: no information on measures implemented on a subnational level found. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/346901/uzbekistan-authorities-announce-changes-in-covid-19-related-restrictions-may-30-update-12
-https://www.garda.com/crisis24/news-alerts/325731/uzbekistan-government-to-lock-down-tashkent-from-march-24-to-prevent-further-spread-of-covid-19-update-3
-https://www.garda.com/crisis24/news-alerts/486001/uzbekistan-health-officials-maintain-covid-19-related-entry-and-domestic-restrictions-as-of-june-2-update-27
-https://www.garda.com/crisis24/news-alerts/437616/uzbekistan-health-officials-extend-coronavirus-disease-related-international-entry-restrictions-through-march-1-update-22
+ https://perma.cc/L9GL-WBSE
+
+
+https://perma.cc/S8JY-3FT6
+
+
+https://perma.cc/4J38-FGNQ
+
+
+https://perma.cc/HL2S-ZYYL
 
 
 
@@ -5247,13 +5362,14 @@ https://www.garda.com/crisis24/news-alerts/437616/uzbekistan-health-officials-ex
 
 *Sources*:
  [1]
-https://covid19.patria.org.ve/noticia/decretado-toque-de-queda-en-municipios-de-los-estados-zulia-y-bolivar/
+perma.cc/JF2Z-X4X2
 [2]
-https://covid19.patria.org.ve/noticia/presidente-maduro-llama-a-reforzar-zonas-fronterizas-ante-covid-19/
+perma.cc/A98D-97HQ
 [3]
-https://covid19.patria.org.ve/noticia/presidente-maduro-decreto-toque-de-queda-en-el-municipio-paez-del-estado-apure/
+perma.cc/A8DR-BEDA
 [4]
-https://apnews.com/article/noticias-14215624959fc7deccd691d885d2fd41
+perma.cc/BZ7Z-75BU
+
 
 
 
@@ -5282,22 +5398,13 @@ I have not found evidence of sub-national variation in the first quarter of 2021
 In an attempt to tacking the recent rise in Covid-19 cases, strict public health measures were imposed in hotspots of Hanoi, Da Nang and the provinces of Bac Giang and Bac Ninh on 18 May 2021 to 18 June 2021. 
 
 *Sources*:
- https://www.theguardian.com/global-development/2020/may/06/vietnam-crushed-the-coronavirus-outbreak-but-now-faces-severe-economic-test
-
-
-https://www.bbc.com/news/world-asia-52628283
-
-
-https://www.vietnam-briefing.com/news/vietnam-business-operations-and-the-coronavirus-updates.html/
-
-https://www.bangkokpost.com/world/1905235/vietnam-to-ease-nationwide-coronavirus-lockdown
-
-
-https://www.who.int/vietnam/internal-publications-detail/covid-19-in-viet-nam-situation-report-19
-
-https://www.dw.com/en/vietnams-covid-resurgence-prompts-strict-new-lockdowns/a-57654484
-
-https://www.garda.com/crisis24/news-alerts/479976/vietnam-authorities-continue-to-enforce-covid-19-restrictions-nationwide-as-of-may-18-update-28
+ https://perma.cc/CXX2-G7LD
+https://perma.cc/CG6M-QPV9
+https://perma.cc/X57E-NZKQ
+https://perma.cc/T5GQ-TVSD
+https://perma.cc/ZH7B-TK68
+https://perma.cc/R6R6-KEJ2
+https://perma.cc/UPB8-Z34K
 
 
 
@@ -5322,15 +5429,19 @@ https://www.garda.com/crisis24/news-alerts/479976/vietnam-authorities-continue-t
  The measures appear to have been more or less uniform across the country through 2020 and the first half of 2021 (1, 2, 3, 4). President Lungu has issued several measures since March 2020, thereamong a temporary lockdown in Kaufe Town in April 2020 (5). 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts?field_news_alert_countries=1311
+ https://perma.cc/8ZLV-MDDC
 (1)
-http://zambialii.org/zm/legislation/statutory-instrument/2020/22
+
+https://perma.cc/GH77-GTQ2
 (2)
-https://www.garda.com/crisis24/news-alerts/455561/zambia-covid-19-restrictions-remain-in-place-nationwide-as-of-march-16-update-8
+
+https://perma.cc/269Q-WYHX
 (3)
-https://www.garda.com/crisis24/news-alerts/474516/zambia-covid-19-restrictions-remain-in-place-nationwide-as-of-may-4-update-9
+
+https://perma.cc/XQ53-JMAC
 (4)
-https://www.osac.gov/Country/Zambia/Content/Detail/Report/19b8f3c0-f7a4-49e6-90aa-1871837c7616
+
+https://perma.cc/9WQD-PAYE
 (5)
 
 
@@ -5356,14 +5467,9 @@ https://www.osac.gov/Country/Zambia/Content/Detail/Report/19b8f3c0-f7a4-49e6-90a
  The measures appear to have been more or less uniform across the country across all the time periods. 
 
 *Sources*:
- https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
-
-https://gazettes.africa/gazettes/zw-government-gazette-dated-2020-05-02-no-40
-
-https://www.garda.com/crisis24/news-alerts/362041/zimbabwe-government-imposes-new-curfew-and-covid-19-lockdown-measures-amid-surge-in-cases-july-22-update-12
-
-https://www.reuters.com/article/us-health-coronavirus-zimbabwe-lockdown/overwhelmed-zimbabwe-tightens-covid-19-restrictions-orders-most-businesses-closed-idUKKBN2970KQ?edition-redirect=uk
-
-https://www.garda.com/crisis24/news-alerts/461376/zimbabwe-authorities-maintain-covid-19-restrictions-as-of-march-30-update-14
-
-https://www.garda.com/crisis24/news-alerts/449811/zimbabwe-authorities-ease-covid-19-restrictions-from-march-1-update-13
+ https://perma.cc/L4BM-JKK8
+https://perma.cc/W8MP-ZVPS
+https://perma.cc/D5L5-GQX7
+https://perma.cc/T2Q9-6XTC
+https://perma.cc/S75R-SK2C
+https://perma.cc/BEU8-XT3Z

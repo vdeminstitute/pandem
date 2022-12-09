@@ -45,28 +45,20 @@
  Ireland has an emergency legislation, but it only allows for declaring states of emergency "in time of war or armed rebellion". The Irish government and parliament thus made a substantial amendment to the existing Health Act (the amendment is called Preservation and Protection and other Emergency Measures in the Public Interest) which gives the Minister of Health power to restrict gatherings, implement lockdowns, travel restrictions and the like. The main national level emergency response has thus been taken under this legal instrument, which is a new amendment, and therefore coded as 4. The legislation was most recently debated on October 22 2020, where the Irish parliament decided to extend the legislation from November 9 2020 to June 9 2021, and it thus continues to operate as main legal instrument for measures toward Covid-19. On June 4 2021, it was again extended until 2021-11-09. Note that some of measures taken under this overarching legal instrument are amendments itself, e.g. the current restrictions primarily stem from the “HEALTH ACT 1947 (SECTION 31A - TEMPORARY RESTRICTIONS) (COVID-19) (NO. 2) REGULATIONS 2021”. This, however, is not regarded as the primary legal instrument itself, which continues to be the Health (Preservation and Protection and other Emergency Measures in the Public Interest) Act 2020. 
 
 *Sources*:
- https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
+ https://perma.cc/FH8G-E9QV
 
+https://perma.cc/K2L9-VTX2
+https://perma.cc/G52X-A7HA
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://perma.cc/JX9G-7ZXJ
+https://perma.cc/7DQY-PYUU
+https://perma.cc/764X-3WL8
 
+https://perma.cc/RF3J-96J3
 
+https://perma.cc/43HK-NCYA
 
-https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_pandemic_may_2020_0.pdf
-
-https://www.constituteproject.org/constitution/Ireland_2019.pdf?lang=en
-
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-Covid-19/
-
-https://www.citizensinformation.ie/en/health/covid19/public_health_measures_for_covid19.html
-
-https://www.oireachtas.ie/en/debates/debate/dail/2020-10-22/60/
-https://verfassungsblog.de/pandemic-response-as-accentuation-of-existing-characteristics-vague-requirements-and-executive-dominance-in-ireland/
-
-https://www.citizensinformation.ie/en/health/covid19/public_health_measures_for_covid19.html#l95d70
-
-https://www.ihrec.ie/app/uploads/2021/02/Irelands-Emergency-Powers-During-the-Covid-19-Pandemic-25022021.pdf
-
-
-https://www.oireachtas.ie/en/bills/bill/2021/78/
+https://perma.cc/48AS-AUC7
 
 
 
@@ -105,25 +97,19 @@ https://www.oireachtas.ie/en/bills/bill/2021/78/
  This has been the  main and overarching national level legal instrument. Note that some of measures taken under this overarching legal instrument are amendments, e.g. the current restrictions primarily stem from the “HEALTH ACT 1947 (SECTION 31A - TEMPORARY RESTRICTIONS) (COVID-19) (NO. 2) REGULATIONS 2021”. This, however, is not regarded as the primary legal instrument itself, which continues to be the Health (Preservation and Protection and other Emergency Measures in the Public Interest) Act 2020. 
 
 *Sources*:
- https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
+ https://perma.cc/FH8G-E9QV
 
+https://perma.cc/K2L9-VTX2
+https://perma.cc/G52X-A7HA
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://perma.cc/JX9G-7ZXJ
+https://perma.cc/7DQY-PYUU
+https://perma.cc/764X-3WL8
 
+https://perma.cc/RF3J-96J3
 
+https://perma.cc/43HK-NCYA
 
-https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_pandemic_may_2020_0.pdf
-
-https://www.constituteproject.org/constitution/Ireland_2019.pdf?lang=en
-
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-Covid-19/
-
-https://www.citizensinformation.ie/en/health/covid19/public_health_measures_for_covid19.html
-
-https://www.oireachtas.ie/en/debates/debate/dail/2020-10-22/60/
-https://verfassungsblog.de/pandemic-response-as-accentuation-of-existing-characteristics-vague-requirements-and-executive-dominance-in-ireland/
-
-https://www.citizensinformation.ie/en/health/covid19/public_health_measures_for_covid19.html#l95d70
-
-https://www.ihrec.ie/app/uploads/2021/02/Irelands-Emergency-Powers-During-the-Covid-19-Pandemic-25022021.pdf
 
 
 
@@ -162,25 +148,18 @@ https://www.ihrec.ie/app/uploads/2021/02/Irelands-Emergency-Powers-During-the-Co
 *No comment provided* 
 
 *Sources*:
- https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
+ https://perma.cc/FH8G-E9QV
 
+https://perma.cc/K2L9-VTX2
+https://perma.cc/G52X-A7HA
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://perma.cc/JX9G-7ZXJ
+https://perma.cc/7DQY-PYUU
+https://perma.cc/764X-3WL8
 
+https://perma.cc/RF3J-96J3
 
-
-https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_pandemic_may_2020_0.pdf
-
-https://www.constituteproject.org/constitution/Ireland_2019.pdf?lang=en
-
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-Covid-19/
-
-https://www.citizensinformation.ie/en/health/covid19/public_health_measures_for_covid19.html
-
-https://www.oireachtas.ie/en/debates/debate/dail/2020-10-22/60/
-https://verfassungsblog.de/pandemic-response-as-accentuation-of-existing-characteristics-vague-requirements-and-executive-dominance-in-ireland/
-
-https://www.citizensinformation.ie/en/health/covid19/public_health_measures_for_covid19.html#l95d70
-
-https://www.ihrec.ie/app/uploads/2021/02/Irelands-Emergency-Powers-During-the-Covid-19-Pandemic-25022021.pdf
+https://perma.cc/43HK-NCYA
 
 
 
@@ -261,26 +240,19 @@ https://www.ihrec.ie/app/uploads/2021/02/Irelands-Emergency-Powers-During-the-Co
  The Health (Preservation and Protection and other Emergency Measures in the Public Interest) Act 2020 had a sunset clause at November 9 2020, with the possibility of extension. It was subsequently extended to 2021-06-09, and then on June 4 2021 it was extended until 2021-11-09. 
 
 *Sources*:
- https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
+ https://perma.cc/FH8G-E9QV
 
+https://perma.cc/K2L9-VTX2
+https://perma.cc/G52X-A7HA
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://perma.cc/JX9G-7ZXJ
+https://perma.cc/7DQY-PYUU
+https://perma.cc/764X-3WL8
 
+https://perma.cc/RF3J-96J3
 
-
-https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_pandemic_may_2020_0.pdf
-
-https://www.constituteproject.org/constitution/Ireland_2019.pdf?lang=en
-
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-Covid-19/
-
-https://www.citizensinformation.ie/en/health/covid19/public_health_measures_for_covid19.html
-
-https://www.oireachtas.ie/en/debates/debate/dail/2020-10-22/60/
-https://verfassungsblog.de/pandemic-response-as-accentuation-of-existing-characteristics-vague-requirements-and-executive-dominance-in-ireland/
-
-https://www.citizensinformation.ie/en/health/covid19/public_health_measures_for_covid19.html#l95d70
-
-https://www.ihrec.ie/app/uploads/2021/02/Irelands-Emergency-Powers-During-the-Covid-19-Pandemic-25022021.pdf
-https://www.oireachtas.ie/en/bills/bill/2021/78/
+https://perma.cc/43HK-NCYA
+https://perma.cc/48AS-AUC7
 
 
 
@@ -319,28 +291,19 @@ https://www.oireachtas.ie/en/bills/bill/2021/78/
  The emergency measures taken under the Health (Preservation and Protection and other Emergency Measures in the Public Interest) Act 2020 have had different time limits that have in many cases been extended, but the amendment itself which grants the extraordinary powers to the Health Minister initially had a sunset clause at November 9 2020. However, the sunset clause was debated on October 22 2020, after which it was extended to June 9 2021. On June 4 2021, it was extended until 2021-11-09. Therefore, the end date was 2020-11-09 for the Q2 and Q3 of 2020, and 2021-06-09 for the Q4 of 2020 and Q1  of 2021. The current end date, 2021-11-09, is then coded for Q2 of 2021. 
 
 *Sources*:
- https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
+ https://perma.cc/FH8G-E9QV
 
+https://perma.cc/K2L9-VTX2
+https://perma.cc/G52X-A7HA
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://perma.cc/JX9G-7ZXJ
+https://perma.cc/7DQY-PYUU
+https://perma.cc/764X-3WL8
 
+https://perma.cc/RF3J-96J3
 
-
-https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_pandemic_may_2020_0.pdf
-
-https://www.constituteproject.org/constitution/Ireland_2019.pdf?lang=en
-
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-Covid-19/
-
-https://www.citizensinformation.ie/en/health/covid19/public_health_measures_for_covid19.html
-
-https://www.oireachtas.ie/en/debates/debate/dail/2020-10-22/60/
-https://verfassungsblog.de/pandemic-response-as-accentuation-of-existing-characteristics-vague-requirements-and-executive-dominance-in-ireland/
-
-https://www.citizensinformation.ie/en/health/covid19/public_health_measures_for_covid19.html#l95d70
-
-https://www.ihrec.ie/app/uploads/2021/02/Irelands-Emergency-Powers-During-the-Covid-19-Pandemic-25022021.pdf
-
-
-https://www.oireachtas.ie/en/bills/bill/2021/78/
+https://perma.cc/43HK-NCYA
+https://perma.cc/48AS-AUC7
 
 
 
@@ -382,11 +345,10 @@ https://www.oireachtas.ie/en/bills/bill/2021/78/
  The Irish lower house passed the bill on March 19 2020. 
 
 *Sources*:
- https://www.oireachtas.ie/en/bills/bill/2020/3/
-
-https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
+ https://perma.cc/59HS-Y6A8
 
 
+https://perma.cc/495D-DMAB
 
 
 
@@ -428,9 +390,10 @@ https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
  Yes, the amendment to the law could not have been made without the legislature approving it. 
 
 *Sources*:
- https://www.oireachtas.ie/en/bills/bill/2020/3/
+ https://perma.cc/59HS-Y6A8
 
-https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
+
+https://perma.cc/495D-DMAB
 
 
 
@@ -476,13 +439,13 @@ https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
  A lot of parliamentary work have been conducted remotely or with fewer members presents, and at times parts of the regular programme have been cancelled so that parliament only works on Covid-19 related issues. However, they have convened when necessary and they have passed the bills enabling the emergency response, and no indication is given that this response in turn has limited the parliaments lawmaking role or power in any way. Furthermore, after a first phase of only Covid-19 related legislation (a phase that also coincided with the forming of the new parliament after elections in early 2020), the work has gone back to a more regular structure, although with some adaptions to the Covid-19 situation. Most importantly, the law making role of the Irish parliament has not been affected either by the Covid-19 situation or by the regulations that enable the measures taken toward Covid-19 passed by the parliament. All acts, and all extensions, have been approved by parliament. There has been some critique that oversight by parliament has been insufficient, but this seems to be more an outcome of parliament choosing not to debate and scrutinize some legislation rather than not being able to or obstructe from doing so. This is therefore coded as 0. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#I
-https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
-https://www.oireachtas.ie/en/bills/bill/2020/3/
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-Covid-19/
-https://verfassungsblog.de/pandemic-response-as-accentuation-of-existing-characteristics-vague-requirements-and-executive-dominance-in-ireland/
+ https://perma.cc/S428-3HXX
+https://perma.cc/K79X-ZGNG
+https://perma.cc/KF82-SV9X
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://perma.cc/W5CP-P5EU
 
-https://www.ihrec.ie/app/uploads/2021/02/Irelands-Emergency-Powers-During-the-Covid-19-Pandemic-25022021.pdf
+https://perma.cc/P3ZQ-9V9R
 
 
 
@@ -604,24 +567,34 @@ https://www.ihrec.ie/app/uploads/2021/02/Irelands-Emergency-Powers-During-the-Co
  Initially, the emergency measures were taken nationwide with no sub-national variation. In Q3 of 2020, however, some sub-national variation occurred as some specific measures were implemented in Kildare, Laois and Offaly, and subsequently also Dublin and Donegal, Calvan and Monaghan. This sub-national variation also carried over to Q4, and constituted differences in limitations on public gatherings, travel restrictions, attendance at public places etc. Several emergency measures have still been conducted nationwide though, and for instance the situation was deemed a level 5 emergency (the max) for the whole country in October 2020, followed by nationwide restrictions again. Therefore, this is coded 0 in Q2 of 2020, and 1 in Q3 and Q4 period as some variation were introduced, alongside uniform restrictions across the country. However, for Q1 and Q2 of 2021, no such sub-national variation has been found and all measures seem to be functioning nationwide. This is therefore coded 0 for these. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
+ https://perma.cc/J8ZD-R2UL
 
-https://www.garda.com/crisis24/news-alert-full-history/QRxmkCyBbNst6LbX5/ireland-first-case-of-Covid-19-confirmed-in-country-february-29
 
-https://www.garda.com/crisis24/news-alerts/367156/ireland-authorities-reintroduce-some-Covid-19-restrictions-in-kildare-laois-and-offaly-counties-august-7-update-12
+https://perma.cc/87MY-259Z
 
-https://www.garda.com/crisis24/news-alerts/381191/ireland-authorities-impose-tighter-restrictions-in-dublin-from-september-19-update-14
 
-https://www.garda.com/crisis24/news-alerts/390931/ireland-authorities-to-impose-highest-level-of-Covid-19-restrictions-from-october-21-update-16
+https://perma.cc/UW7E-PUEU
 
-https://www.garda.com/crisis24/news-alerts/473376/ireland-authorities-to-ease-Covid-19-restrictions-on-domestic-activities-starting-may-10-update-35
 
-https://www.garda.com/crisis24/news-alerts/471451/ireland-authorities-maintaining-Covid-19-restrictions-as-of-april-26-update-34
+https://perma.cc/XP6S-ZQBQ
 
-https://www.garda.com/crisis24/news-alerts/446811/ireland-authorities-extend-Covid-19-related-domestic-restrictions-until-april-5-update-27
 
-https://www.garda.com/crisis24/news-alerts/435061/ireland-authorities-extend-Covid-19-restrictions-until-at-least-march-5-despite-decrease-in-infection-rates-update-24
-https://www.citizensinformation.ie/en/covid19/living_with_covid19_plan.html
+https://perma.cc/VW22-RUJH
+
+
+https://perma.cc/98SC-HBA8
+
+
+https://perma.cc/BB7G-9GL6
+
+
+https://perma.cc/U8P2-YHJF
+
+
+https://perma.cc/3NAU-T7UN
+
+
+https://perma.cc/7ZKZ-7R9E
 
 
 
@@ -665,10 +638,16 @@ https://www.citizensinformation.ie/en/covid19/living_with_covid19_plan.html
  Human Rights Watch, Amnesty International and EU agency of fundamental righs have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9602
-https://www.amnesty.org/en/search/?country=38464&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_pandemic_july_2020.pdf
-https://www.ihrec.ie/app/uploads/2021/02/Irelands-Emergency-Powers-During-the-Covid-19-Pandemic-25022021.pdf
+ https://perma.cc/KNN2-C6GT
+
+
+https://perma.cc/XE9N-9BZE
+
+
+https://perma.cc/5G4S-BHYN
+
+
+https://perma.cc/CJJ6-E8A6
 
 
 
@@ -717,10 +696,16 @@ https://www.ihrec.ie/app/uploads/2021/02/Irelands-Emergency-Powers-During-the-Co
  No, there are no de jure violations of non-derogable rights in the emergency measures. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9602
-https://www.amnesty.org/en/search/?country=38464&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_pandemic_july_2020.pdf
-https://www.ihrec.ie/app/uploads/2021/02/Irelands-Emergency-Powers-During-the-Covid-19-Pandemic-25022021.pdf
+ https://perma.cc/6TJ6-TK3B
+
+
+https://perma.cc/PMG3-PPAM
+
+
+https://perma.cc/FB7E-BBMC
+
+
+https://perma.cc/5L5W-FQFM
 
 
 
@@ -764,9 +749,10 @@ https://www.ihrec.ie/app/uploads/2021/02/Irelands-Emergency-Powers-During-the-Co
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Irish Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B115%5D=115
+ https://perma.cc/EGZ2-5PFN
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
+
+https://perma.cc/NY8Z-P7EZ
 
 
 
@@ -805,9 +791,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B115%5D=115
+ https://perma.cc/EGZ2-5PFN
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
+
+https://perma.cc/NY8Z-P7EZ
 
 
 
@@ -846,9 +833,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B115%5D=115
+ https://perma.cc/EGZ2-5PFN
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
+
+https://perma.cc/NY8Z-P7EZ
 
 
 
@@ -890,12 +878,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Ireland,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B115%5D=115
+ https://perma.cc/EGZ2-5PFN
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
 
-https://cpj.org/europe/ireland/
- 
+https://perma.cc/NY8Z-P7EZ
+
+
+https://perma.cc/CE5U-6C3G
 
 
 
@@ -937,12 +926,13 @@ https://cpj.org/europe/ireland/
  Neither Reporters without Borders, Committee to Protect Journalists  nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in Ireland,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B115%5D=115
+ https://perma.cc/EGZ2-5PFN
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
 
-https://cpj.org/europe/ireland/
- 
+https://perma.cc/NY8Z-P7EZ
+
+
+https://perma.cc/CE5U-6C3G
 
 
 
@@ -984,12 +974,13 @@ https://cpj.org/europe/ireland/
  Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in Ireland,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B115%5D=115
+ https://perma.cc/EGZ2-5PFN
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
 
-https://cpj.org/europe/ireland/
- 
+https://perma.cc/NY8Z-P7EZ
+
+
+https://perma.cc/CE5U-6C3G
 
 
 
@@ -1032,12 +1023,13 @@ https://cpj.org/europe/ireland/
  Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information,  and no other indications have been found of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B115%5D=115
+ https://perma.cc/EGZ2-5PFN
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
 
-https://cpj.org/europe/ireland/
- 
+https://perma.cc/NY8Z-P7EZ
+
+
+https://perma.cc/CE5U-6C3G
 
 
 
@@ -1079,12 +1071,13 @@ https://cpj.org/europe/ireland/
  Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any verbal harassment of journalists in Ireland, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B115%5D=115
+ https://perma.cc/EGZ2-5PFN
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
 
-https://cpj.org/europe/ireland/
- 
+https://perma.cc/NY8Z-P7EZ
+
+
+https://perma.cc/CE5U-6C3G
 
 
 
@@ -1126,12 +1119,13 @@ https://cpj.org/europe/ireland/
  Neither Reporters without Borders, Committee to Protect Journalists nor International Press Institute have reported any physical harassment of journalists in Ireland, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B115%5D=115
+ https://perma.cc/EGZ2-5PFN
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Ireland
 
-https://cpj.org/europe/ireland/
- 
+https://perma.cc/NY8Z-P7EZ
+
+
+https://perma.cc/CE5U-6C3G
 
 
 
@@ -1175,7 +1169,7 @@ https://cpj.org/europe/ireland/
  There is no deviations from the information provided by WHO and that of the Irish Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
 
 *Sources*:
- https://www.gov.ie/en/publication/472f64-Covid-19-coronavirus-guidance-and-advice/
+ https://web.archive.org/web/20200304154809/https://www.gov.ie/en/publication/472f64-Covid-19-coronavirus-guidance-and-advice/
 
 
 
@@ -1220,10 +1214,11 @@ https://cpj.org/europe/ireland/
 There's a report of a violent clash between police and protesters in October 2020, but this is not described as involving any abusive or excessive force, and thus not reason for coding it other than 0. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9602
-https://www.amnesty.org/en/search/?country=38464&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/ie_report_on_coronavirus_pandemic_july_2020.pdf
-https://www.independent.co.uk/news/world/europe/lockdown-protest-dublin-let-ireland-live-coronavirus-gardai-b985870.html
+ https://perma.cc/Z36L-8RCG
+
+https://perma.cc/67UD-3HRT
+https://perma.cc/5TH6-MA8L
+https://perma.cc/23VF-Q4ND
 
 
 
@@ -1265,5 +1260,7 @@ https://www.independent.co.uk/news/world/europe/lockdown-protest-dublin-let-irel
  The military has been used to aid health sector in several ways, but have not been involved in enforcing emergency measures. 
 
 *Sources*:
- http://euromil.org/armed-forces-and-Covid-19/
-https://www.acaps.org/covid19-government-measures-dataset
+ https://perma.cc/HB26-QDWC
+
+
+https://perma.cc/TTH7-537N

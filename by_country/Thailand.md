@@ -48,51 +48,33 @@ The State of Emergency has been extended 12 times since it was first enacted on 
 
 *Sources*:
  (1)
-https://www.hrw.org/news/2020/05/27/thailand-state-emergency-extension-unjustified
-
+https://perma.cc/RWQ7-VSWZ
 (2)
-https://ipi.media/covid19-media-freedom-monitoring/
-
+https://perma.cc/8YRN-VNBR
 (3)
-https://rsf.org/en/news/thailand-uses-covid-19-restrict-freedom-inform
-
+https://perma.cc/S8RK-ACFX
 (4)
-http://web.krisdika.go.th/data/document/ext810/810259_0001.pdf
-
+https://perma.cc/9DEV-48PP
 (5)
-https://www.refworld.org/pdfid/482b005f2.pdf
-
-
+https://perma.cc/MP7F-7UKA
 (6)
-http://constitutionnet.org/sites/default/files/2017-05/CONSTITUTION+OF+THE+KINGDOM+OF+THAILAND+(B.E.+2560+(2017)).pdf
-
-
+https://perma.cc/KU8J-RZXG
 (7)
-https://www.bangkokpost.com/thailand/general/2024171/state-of-emergency-extended-to-jan-15
-
-(8)
-https://www.garda.com/crisis24/news-alerts/482691/thailand-officials-extend-nationwide-state-of-emergency-through-july-31-due-to-covid-19-update-47
-
+https://perma.cc/A8CR-N7DZ
 (9)
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011892835/thailand-officials-extend-the-nationwide-state-of-emergency-through-feb-28-update-34
-
+https://perma.cc/KN8P-9WB5
 (10)
-https://www.tatnews.org/2021/03/thailand-extends-emergency-decree-for-eleventh-time-until-31-may-2021/
-
+https://perma.cc/7AQZ-H3LP
 (11)
-https://www.garda.com/fr/crisis24/alertes-de-securite/446376/thailand-officials-easing-covid-19-rules-in-some-provinces-from-march-1-extended-the-nationwide-state-of-emergency-update-37
-
+https://perma.cc/RT2G-F6V5
 (12)
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011892838/thailand-officials-easing-covid-19-rules-in-some-provinces-from-march-1-extended-the-nationwide-state-of-emergency-update-37
-
+https://perma.cc/9EDE-S88B
 (13)
-https://www.bloomberg.com/news/articles/2021-05-21/thailand-extends-state-of-emergency-as-covid-cases-deaths-soar
-
+https://perma.cc/SX3R-3QA3
 (14)
-https://www.garda.com/crisis24/news-alerts/482691/thailand-officials-extend-nationwide-state-of-emergency-through-july-31-due-to-covid-19-update-47
-
+https://perma.cc/BFZ3-CQMZ
 (15)
-https://thailand.ahk.de/en/translate-to-english-covid-19
+https://perma.cc/Z38V-CYN9
 
 
 
@@ -131,28 +113,12 @@ https://thailand.ahk.de/en/translate-to-english-covid-19
 *No comment provided* 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/27/thailand-state-emergency-extension-unjustified
-
-
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-
-
-https://rsf.org/en/news/thailand-uses-covid-19-restrict-freedom-inform
-
-
-
-http://web.krisdika.go.th/data/document/ext810/810259_0001.pdf
-
-
-
-https://www.refworld.org/pdfid/482b005f2.pdf
-
-
-
-
-http://constitutionnet.org/sites/default/files/2017-05/CONSTITUTION+OF+THE+KINGDOM+OF+THAILAND+(B.E.+2560+(2017)).pdf
+ https://perma.cc/3YAJ-8XTP
+https://perma.cc/UXL4-YLH9
+https://perma.cc/NT53-6EUH
+https://perma.cc/JGR2-DXSN
+https://perma.cc/BP8F-VA59
+https://perma.cc/YQW9-5PLR
 
 
 
@@ -191,12 +157,8 @@ http://constitutionnet.org/sites/default/files/2017-05/CONSTITUTION+OF+THE+KINGD
 *No comment provided* 
 
 *Sources*:
- https://in.reuters.com/article/health-coronavirus-thailand-emergency/thailand-to-declare-one-month-emergency-on-march-26-prime-minister-idINKBN21B0RK
-
-
-
-
-https://www.reuters.com/article/us-health-coronavirus-thailand-emergency/thai-leader-to-invoke-emergency-powers-as-virus-infections-climb-idUSKBN21B0RV
+ https://perma.cc/HGM2-2WG7
+https://perma.cc/8ZUA-PPRR
 
 
 
@@ -247,47 +209,25 @@ https://www.reuters.com/article/us-health-coronavirus-thailand-emergency/thai-le
 12: 31 July 2021 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/27/thailand-state-emergency-extension-unjustified
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/news/thailand-uses-covid-19-restrict-freedom-inform
-
-http://web.krisdika.go.th/data/document/ext810/810259_0001.pdf
-
-https://www.refworld.org/pdfid/482b005f2.pdf"
-
-
-https://www.hrw.org/news/2020/05/27/thailand-state-emergency-extension-unjustified
-
-https://www.reuters.com/article/us-health-coronavirus-thailand-idUSKBN2410GM
-
-
-https://www.reuters.com/article/us-health-coronavirus-thailand-idUSKCN24N0KI
-
-https://af.reuters.com/article/idINL3N2ET13N
-
-
-https://www.tatnews.org/2020/08/thailand-extends-emergency-decree-for-the-fifth-time-to-the-end-of-september/
-
-
-https://www.bangkokpost.com/thailand/general/2024171/state-of-emergency-extended-to-jan-15
-
-https://www.garda.com/crisis24/news-alerts/482691/thailand-officials-extend-nationwide-state-of-emergency-through-july-31-due-to-covid-19-update-47
-
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011892835/thailand-officials-extend-the-nationwide-state-of-emergency-through-feb-28-update-34
-
-https://www.tatnews.org/2021/03/thailand-extends-emergency-decree-for-eleventh-time-until-31-may-2021/
-
-https://www.garda.com/fr/crisis24/alertes-de-securite/446376/thailand-officials-easing-covid-19-rules-in-some-provinces-from-march-1-extended-the-nationwide-state-of-emergency-update-37
-
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011892838/thailand-officials-easing-covid-19-rules-in-some-provinces-from-march-1-extended-the-nationwide-state-of-emergency-update-37
-
-https://www.bloomberg.com/news/articles/2021-05-21/thailand-extends-state-of-emergency-as-covid-cases-deaths-soar
-
-https://www.garda.com/crisis24/news-alerts/482691/thailand-officials-extend-nationwide-state-of-emergency-through-july-31-due-to-covid-19-update-47
-
-https://thailand.ahk.de/en/translate-to-english-covid-19
+ https://perma.cc/4KLL-DU86
+https://perma.cc/88GE-SJVB
+https://perma.cc/GEL9-4V5L
+https://perma.cc/JNS3-QLVU
+https://perma.cc/TB7X-HAA9
+https://perma.cc/2MVH-M8BQ
+https://perma.cc/347A-BJMZ
+https://perma.cc/RJB8-B677
+https://perma.cc/G7AL-4VU3
+https://perma.cc/28P3-ZNFD
+https://perma.cc/ZTZ6-MNY2
+https://perma.cc/Q3J8-H8Q3
+https://perma.cc/V6VK-TFBZ
+https://perma.cc/Q4B9-9KJN
+https://perma.cc/5JQH-BJZT
+https://perma.cc/Q4RD-GSSR
+https://perma.cc/H2AL-3M4U
+https://perma.cc/TRT9-CVZH
+https://perma.cc/F2SJ-CBL9
 
 
 
@@ -341,36 +281,20 @@ https://thailand.ahk.de/en/translate-to-english-covid-19
 12: 31 July 2021 
 
 *Sources*:
- https://cpj.org/2020/03/thailand-declares-state-of-emergency-imposes-press/
-
-
-https://www.hrw.org/news/2020/05/27/thailand-state-emergency-extension-unjustified
-
-
-https://www.reuters.com/article/us-health-coronavirus-thailand-idUSKCN24N0KI
-
-https://af.reuters.com/article/idINL3N2ET13N
-
-
-https://www.tatnews.org/2020/08/thailand-extends-emergency-decree-for-the-fifth-time-to-the-end-of-september/
-
-https://www.bangkokpost.com/thailand/general/2024171/state-of-emergency-extended-to-jan-15
-
-https://www.garda.com/crisis24/news-alerts/482691/thailand-officials-extend-nationwide-state-of-emergency-through-july-31-due-to-covid-19-update-47
-
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011892835/thailand-officials-extend-the-nationwide-state-of-emergency-through-feb-28-update-34
-
-https://www.tatnews.org/2021/03/thailand-extends-emergency-decree-for-eleventh-time-until-31-may-2021/
-
-https://www.garda.com/fr/crisis24/alertes-de-securite/446376/thailand-officials-easing-covid-19-rules-in-some-provinces-from-march-1-extended-the-nationwide-state-of-emergency-update-37
-
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011892838/thailand-officials-easing-covid-19-rules-in-some-provinces-from-march-1-extended-the-nationwide-state-of-emergency-update-37
-
-https://www.bloomberg.com/news/articles/2021-05-21/thailand-extends-state-of-emergency-as-covid-cases-deaths-soar
-
-https://www.garda.com/crisis24/news-alerts/482691/thailand-officials-extend-nationwide-state-of-emergency-through-july-31-due-to-covid-19-update-47
-
-https://thailand.ahk.de/en/translate-to-english-covid-19
+ https://perma.cc/7WZP-W989
+https://perma.cc/X58U-RVPX
+https://perma.cc/7QDY-H345
+https://perma.cc/W3XM-MPD6
+https://perma.cc/UW24-T35H
+https://perma.cc/WAY3-F79X
+https://perma.cc/X2AP-2XF8
+https://perma.cc/NB8J-C4QZ
+https://perma.cc/3FUL-4RFH
+https://perma.cc/5LDK-TGPM
+https://perma.cc/7T9Z-9347
+https://perma.cc/9J87-PADE
+https://perma.cc/32PA-BCKA
+https://perma.cc/RND5-SG9H
 
 
 
@@ -421,28 +345,11 @@ https://thailand.ahk.de/en/translate-to-english-covid-19
 12: 31 July 2021 
 
 *Sources*:
- https://cpj.org/2020/03/thailand-declares-state-of-emergency-imposes-press/
-
-
-
-
-https://www.hrw.org/news/2020/05/27/thailand-state-emergency-extension-unjustified
-
-
-
-
-
-
-https://www.reuters.com/article/us-health-coronavirus-thailand-idUSKCN24N0KI
-
-
-
-https://af.reuters.com/article/idINL3N2ET13N
-
-
-
-
-https://www.tatnews.org/2020/08/thailand-extends-emergency-decree-for-the-fifth-time-to-the-end-of-september/
+ https://perma.cc/7WZP-W989
+https://perma.cc/X58U-RVPX
+https://perma.cc/7QDY-H345
+https://perma.cc/W3XM-MPD6
+https://perma.cc/UW24-T35H
 
 
 
@@ -487,13 +394,11 @@ However, as the council of ministers are not part of the legislature, this varia
 
 *Sources*:
  (1)
-http://web.krisdika.go.th/data/document/ext810/810259_0001.pdf
-
+https://perma.cc/E7UG-Z2NX
 (2)
-https://www.bangkokpost.com/thailand/general/2024171/state-of-emergency-extended-to-jan-15
-
+https://perma.cc/F8WK-ZMVQ
 (3)
-https://data.ipu.org/content/thailand?chamber_id=68412
+https://perma.cc/QR78-6WYN
 
 
 
@@ -538,29 +443,19 @@ In the case where it is necessary to extend such period, the 'Prime Minister upo
 
 *Sources*:
  (1)
-https://www.bangkokpost.com/thailand/politics/1941008/authorities-want-1-more-month-of-emergency-decree
-
-
+https://perma.cc/F8WD-9R8K
 (2)
-https://www.bangkokpost.com/thailand/general/1937148/move-forward-seeks-changes-to-emergency-law
-
-
+https://perma.cc/KTY9-T5ET
 (3)
-https://www.ide.go.jp/library/English/Publish/Download/Jrp/pdf/157_ch1.pdf
-
-
+https://web.archive.org/web/20170818153207/https://www.ide.go.jp/library/English/Publish/Download/Jrp/pdf/157_ch1.pdf
 (4)
-https://www.channelnewsasia.com/news/asia/covid-19-coronavirus-thailand-extend-measures-12680010
-
-
+https://web.archive.org/web/20200502091527/https://www.channelnewsasia.com/news/asia/covid-19-coronavirus-thailand-extend-measures-12680010
 (5)
-https://www.bangkokpost.com/thailand/general/2024171/state-of-emergency-extended-to-jan-15
-
+https://perma.cc/TFF6-NVRJ
 (6)
-https://constituteproject.org/constitution/Thailand_2017?lang=en
-
+https://perma.cc/VS5P-7582
 (7)
-http://web.krisdika.go.th/data/document/ext810/810259_0001.pdf
+https://perma.cc/5CRT-G34G
 
 
 
@@ -607,12 +502,9 @@ http://web.krisdika.go.th/data/document/ext810/810259_0001.pdf
 
 *Sources*:
  (1)
-https://www.hrw.org/news/2020/05/27/thailand-state-emergency-extension-unjustified
-
-
-
+https://perma.cc/RWQ7-VSWZ
 (2)
-http://web.krisdika.go.th/data/document/ext810/810259_0001.pdf
+https://perma.cc/E7UG-Z2NX
 
 
 
@@ -651,21 +543,10 @@ http://web.krisdika.go.th/data/document/ext810/810259_0001.pdf
  I did not find any information suggesting that Thailand's national legislature was dissolved. Instead, there have been peaceful protests calling for the dissolution of parliament. 
 
 *Sources*:
- https://theowp.org/protestors-in-bangkok-call-for-dissolution-of-thai-parliament/
-
-
-
-
-https://www.bangkokpost.com/thailand/politics/382864/academics-call-for-dissolution-of-parliament
-
-
-
-http://constitutionnet.org/news/protests-thailand-call-dissolution-parliament-and-new-constitution
-
-
-
-
-https://www.parliament.go.th/ewtadmin/ewt/parenglish/more_news.php?cid=8
+ https://perma.cc/68KX-DMUP
+https://perma.cc/F5AL-2ME5
+https://perma.cc/6R9Y-UAZM
+https://perma.cc/8M88-85B8
 
 
 
@@ -704,21 +585,10 @@ https://www.parliament.go.th/ewtadmin/ewt/parenglish/more_news.php?cid=8
  I did not find any information suggesting that Thailand's national legislature was dissolved. Instead, there have been peaceful protests calling for the dissolution of parliament. 
 
 *Sources*:
- https://theowp.org/protestors-in-bangkok-call-for-dissolution-of-thai-parliament/
-
-
-
-
-https://www.bangkokpost.com/thailand/politics/382864/academics-call-for-dissolution-of-parliament
-
-
-
-http://constitutionnet.org/news/protests-thailand-call-dissolution-parliament-and-new-constitution
-
-
-
-
-https://www.parliament.go.th/ewtadmin/ewt/parenglish/more_news.php?cid=8
+ https://perma.cc/68KX-DMUP
+https://perma.cc/F5AL-2ME5
+https://perma.cc/6R9Y-UAZM
+https://perma.cc/8M88-85B8
 
 
 
@@ -762,14 +632,10 @@ https://www.parliament.go.th/ewtadmin/ewt/parenglish/more_news.php?cid=8
  The emergency measures have varied according to the different provinces. The more heavily populated provinces have had more restrictions that then less populated areas. For example in January 2021, residences from only six provinces had to obtain permits before being allowed to leave their province. 
 
 *Sources*:
- https://www.bangkokpost.com/thailand/general/1883570
-
-
-https://www.springnews.co.th/breaking-news/634353
-
-https://www.straitstimes.com/asia/se-asia/softly-does-it-bangkoks-covid-19-containment-strategy-stirs-unease
-
-https://www.garda.com/crisis24/news-alerts/482691/thailand-officials-extend-nationwide-state-of-emergency-through-july-31-due-to-covid-19-update-47
+ https://perma.cc/FQJ6-SXN3
+https://perma.cc/CYC6-RDD7
+https://perma.cc/8EQR-25SE
+https://perma.cc/YRB6-D52U
 
 
 
@@ -816,19 +682,15 @@ This travel ban continued during the stricter lockdown in January 2021. Here Tha
 
 *Sources*:
  (1)
-https://www.dw.com/en/thailand-covid-outbreak-among-myanmar-workers-sparks-anti-migrant-backlash/a-56075165
-
+https://perma.cc/AY6V-JAQZ
 (2)
-https://theconversation.com/migrant-worker-segregation-doesnt-work-covid-19-lessons-from-southeast-asia-155260
-
+https://perma.cc/ADB6-PJHC
 (3)
-https://www.dw.com/en/thailand-covid-outbreak-among-myanmar-workers-sparks-anti-migrant-backlash/a-56075165
-
+https://perma.cc/XY95-PRFM
 (4)
-https://www.dw.com/en/thailand-covid-outbreak-among-myanmar-workers-sparks-anti-migrant-backlash/a-56075165
-
+https://perma.cc/T53Y-EXAA
 (5)
-https://www.irrawaddy.com/specials/myanmar-covid-19/myanmars-migrants-face-discrimination-amid-surging-covid-19-in-thailand.html
+https://perma.cc/5XYX-Q8JL
 
 
 
@@ -877,11 +739,9 @@ https://www.irrawaddy.com/specials/myanmar-covid-19/myanmars-migrants-face-discr
  I did not find any information related to this. 
 
 *Sources*:
- http://web.krisdika.go.th/data/document/ext810/810259_0001.pdf
-
-https://www.hrw.org/thailand
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/thailand/
+ https://perma.cc/E7UG-Z2NX
+https://perma.cc/WY2U-32CY
+https://perma.cc/R46Y-72PM
 
 
 
@@ -928,16 +788,13 @@ In March, the government issued a list of prohibitions under the state of emerge
 
 *Sources*:
  (1)
-https://www.hrw.org/news/2020/05/27/thailand-state-emergency-extension-unjustified
-
+https://perma.cc/RWQ7-VSWZ
 (2)
-http://www.ratchakitcha.soc.go.th/DATA/PDF/2563/E/069/T_0010.PDF
-
+https://perma.cc/BX3J-5RM2
 (3)
-https://www.hrw.org/news/2020/03/25/thailand-covid-19-clampdown-free-speech
-
+https://perma.cc/Z264-R38G
 (4)
-https://www.refworld.org/pdfid/482b005f2.pdf
+https://perma.cc/F6FC-8RAE
 
 
 
@@ -976,28 +833,12 @@ https://www.refworld.org/pdfid/482b005f2.pdf
 *No comment provided* 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/27/thailand-state-emergency-extension-unjustified
-
-
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-
-
-https://rsf.org/en/news/thailand-uses-covid-19-restrict-freedom-inform
-
-
-
-http://web.krisdika.go.th/data/document/ext810/810259_0001.pdf
-
-
-
-https://www.refworld.org/pdfid/482b005f2.pdf
-
-
-
-
-http://constitutionnet.org/sites/default/files/2017-05/CONSTITUTION+OF+THE+KINGDOM+OF+THAILAND+(B.E.+2560+(2017)).pdf
+ https://perma.cc/RWQ7-VSWZ
+https://perma.cc/4F9W-V7AP
+https://perma.cc/8X88-E6EF
+https://perma.cc/U2AS-VAR7
+https://perma.cc/ZQG9-5CGV
+https://perma.cc/4HLF-VYBE
 
 
 
@@ -1036,12 +877,8 @@ http://constitutionnet.org/sites/default/files/2017-05/CONSTITUTION+OF+THE+KINGD
  Still ongoing. 
 
 *Sources*:
- https://www.reuters.com/article/us-health-coronavirus-thailand/thailand-extends-emergency-decree-until-end-of-july-idUSKBN2410GM
-
-
-
-
-https://www.hrw.org/news/2020/05/27/thailand-state-emergency-extension-unjustified
+ https://perma.cc/9L2F-X32A
+https://perma.cc/RWQ7-VSWZ
 
 
 
@@ -1091,19 +928,15 @@ These restrictions would act as a deterrent for journalist to report on the situ
 
 *Sources*:
  (1)
-https://rsf.org/en/news/thailand-uses-covid-19-restrict-freedom-inform
-
+https://perma.cc/M9T7-Z9VZ
 (2)
-https://www.tlhr2014.com/?p=16636&lang=en
-
+https://perma.cc/X5HL-JE42
 (3)
-https://www.hrw.org/news/2020/10/21/thailand-outspoken-tv-channel-banned
-
+https://perma.cc/ZMC9-V4G2
 (4)
-https://www.hrw.org/world-report/2021/country-chapters/thailand#c6d5f8
-
+https://perma.cc/84PY-2EPK
 (5)
-https://www.hrw.org/news/2020/03/25/thailand-covid-19-clampdown-free-speech
+https://perma.cc/L9U4-EQ6C
 
 
 
@@ -1151,13 +984,11 @@ https://www.hrw.org/news/2020/03/25/thailand-covid-19-clampdown-free-speech
 These restrictions would act as a deterrent for journalist to report on the situation in Thailand in a negative or critical manner. Hence I have continued to code this variable as 1. 
 
 *Sources*:
- https://rsf.org/en/news/thailand-uses-covid-19-restrict-freedom-inform
+ https://perma.cc/M9T7-Z9VZ
 
-https://www.dw.com/en/rights-group-slams-thailands-repressive-laws-to-intensify-crackdown-on-covid-19-critics/a-53227080
-
-https://www.hrw.org/news/2020/10/21/thailand-outspoken-tv-channel-banned
-
-https://www.hrw.org/world-report/2021/country-chapters/thailand#c6d5f8
+https://perma.cc/LF6J-CMM3
+https://perma.cc/ZMC9-V4G2
+https://perma.cc/84PY-2EPK
 
 
 
@@ -1209,23 +1040,15 @@ As these incidents do not include professional journalists, this variable has be
 
 *Sources*:
  (1)
-https://rsf.org/en/news/thailand-uses-covid-19-restrict-freedom-inform
-
-
+https://perma.cc/M9T7-Z9VZ
 (2)
-https://www.tlhr2014.com/?p=16636&lang=en
-
-
+https://perma.cc/X5HL-JE42
 (3)
-https://www.hrw.org/news/2020/05/27/thailand-state-emergency-extension-unjustified
-
-
+https://perma.cc/RWQ7-VSWZ
 (4)
-https://www.hrw.org/news/2020/10/21/thailand-outspoken-tv-channel-banned
-
-
+https://perma.cc/ZMC9-V4G2
 (5)
-https://www.hrw.org/news/2019/05/29/thailand-no-arrests-assaults-junta-critics
+https://perma.cc/RBA2-352H
 
 
 
@@ -1272,12 +1095,9 @@ https://www.hrw.org/news/2019/05/29/thailand-no-arrests-assaults-junta-critics
 I have not found information suggesting that these restrictions have eased. Hence I have continued to code this variable as 1. 
 
 *Sources*:
- https://rsf.org/en/news/thailand-uses-covid-19-restrict-freedom-inform
-
-
-https://www.amnesty.org/download/Documents/ASA3920422020ENGLISH.PDF
-
-https://www.hrw.org/news/2020/03/25/thailand-covid-19-clampdown-free-speech
+ https://perma.cc/GF78-RLZS
+https://perma.cc/2KFU-EXMX
+https://perma.cc/BY62-PYXN
 
 
 
@@ -1319,13 +1139,9 @@ https://www.hrw.org/news/2020/03/25/thailand-covid-19-clampdown-free-speech
  Journalists are routinely harassed in Thailand. However, I have not found evidence of journalists being verbally harassed specifically due to their reporting on the pandemic. 
 
 *Sources*:
- https://rsf.org/en/thailand
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/thailand/
-
-
-https://www.hrw.org/thailand
+ https://perma.cc/9WHY-T48F
+https://perma.cc/TQK6-83F5
+https://perma.cc/S8FC-TZ5R
 
 
 
@@ -1367,15 +1183,10 @@ https://www.hrw.org/thailand
  Journalists are routinely harassed in Thailand. However, I have not found evidence of journalists being physically harassed specifically due to their reporting on the pandemic. 
 
 *Sources*:
- https://www.dw.com/en/matiullah-jan-critical-journalists-routinely-threatened-in-pakistan/a-54620414
-
-https://rsf.org/en/thailand
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/thailand/
-
-
-https://www.hrw.org/thailand
+ https://perma.cc/2SN7-3ZHV
+https://perma.cc/58SL-KTRN
+https://perma.cc/WY2U-32CY
+https://perma.cc/R46Y-72PM
 
 
 
@@ -1419,7 +1230,7 @@ https://www.hrw.org/thailand
  I did not find any information related to this. 
 
 *Sources*:
- https://ddc.moph.go.th/viralpneumonia/eng/index.php
+ https://perma.cc/49WB-8A8S
 
 
 
@@ -1463,13 +1274,9 @@ https://www.hrw.org/thailand
  I did not find any information related to this. 
 
 *Sources*:
- https://rsf.org/en/thailand
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/thailand/
-
-
-https://www.hrw.org/thailand
+ https://perma.cc/9WHY-T48F
+https://perma.cc/TQK6-83F5
+https://perma.cc/S8FC-TZ5R
 
 
 
@@ -1511,11 +1318,7 @@ https://www.hrw.org/thailand
  Police and soldiers were deployed in April 2020 to enforce confinement measures, mainly during the nationwide curfew. However I have not found evidence of their continued deployment after the second quarter of 2020 [1,2]. 
 
 *Sources*:
- [1]https://www.reuters.com/article/us-health-coronavirus-thailand-curfew/police-soldiers-enforce-thailands-nationwide-coronavirus-curfew-idUSKBN21L2H0
-
-
+ [1]
+https://perma.cc/7589-25R5
 [2]
-https://www.channelnewsasia.com/news/asia/coronavirus-covid19-thailand-police-soldiers-enforce-curfew-12608316
-
-
-
+https://perma.cc/5PVG-P5J3

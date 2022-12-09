@@ -48,27 +48,25 @@ In April 2021 the state of public emergency was extended by another 6 months.
 
 *Sources*:
  [1]
-https://www.gov.bw/sites/default/files/2020-03/Covid19.pdf
-
+https://perma.cc/EC7D-SEVF
 [2]
-https://www.chr.up.ac.za/images/researchunits/litigagion/covid19_country_regulations/Botswana-Emergency_Powers_COVID-19_Regulations.pdf
-
+https://perma.cc/N3X2-NKHE
 [3]
-https://www.parliament.gov.bw/index.php/parliamentary-business/notice-papers
-
+https://perma.cc/G6UW-BNQU
 [4]
-https://africa.cgtn.com/2021/04/02/botswana-extends-state-of-public-emergency-to-fight-covid-19/
+https://perma.cc/7SWU-NDQC
 [5]
-http://www.xinhuanet.com/english/africa/2021-04/02/c_139854019.htm
-https://allafrica.com/stories/202104010153.html
+https://perma.cc/N3BU-ET3J
 [6]
-https://www.constituteproject.org/constitution/Botswana_2016?lang=en
+https://perma.cc/9UQR-32LR
 [7]
-https://www.facebook.com/BotswanaGovernment/posts/2892215390861100
+https://perma.cc/TF3A-SJJC
 [8]
-https://verfassungsblog.de/constitutionalism-in-a-time-of-crisis-botswanas-reaction-to-the-covid-19-pandemic/
+https://perma.cc/5U7B-EXHU
 [9]
-https://abcnews.go.com/International/wireStory/botswana-extends-emergency-measures-combat-virus-73310846
+https://perma.cc/87RF-CB6Y
+[10]
+https://perma.cc/6AH7-A5FV
 
 
 
@@ -108,7 +106,7 @@ https://abcnews.go.com/International/wireStory/botswana-extends-emergency-measur
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Botswana_2016?lang=en
+https://perma.cc/YC82-HQGL
 
 
 
@@ -148,16 +146,13 @@ https://www.constituteproject.org/constitution/Botswana_2016?lang=en
 
 *Sources*:
  [1]
-https://www.gov.bw/sites/default/files/2020-03/Covid19.pdf
-
+https://perma.cc/N6X7-7RKA
 [2]
-https://www.chr.up.ac.za/images/researchunits/litigagion/covid19_country_regulations/Botswana-Emergency_Powers_COVID-19_Regulations.pdf
-
+https://perma.cc/Z7D6-G7FN
 [3]
-https://www.parliament.gov.bw/index.php/parliamentary-business/notice-papers
-
+https://perma.cc/F33T-98FU
 [4]
-https://allafrica.com/stories/202104010153.html
+https://perma.cc/H7DH-WJ3L
 
 
 
@@ -197,13 +192,14 @@ https://allafrica.com/stories/202104010153.html
 
 *Sources*:
  [1]
-https://abcnews.go.com/International/wireStory/botswana-extends-emergency-measures-combat-virus-73310846
+https://perma.cc/TD5X-XDBY
 [2]
-https://reports.unocha.org/en/country/southern-eastern-africa/card/4zXxeVEkYW/
+https://perma.cc/KH8P-EGD8
 [3]
-https://www.parliament.gov.bw/index.php/parliamentary-business/notice-papers
-https://allafrica.com/stories/202104010153.html
+https://perma.cc/R75F-UJPL
 [4]
+https://perma.cc/7D6N-6RSY
+[5]
 http://www.dailynews.gov.bw/news-details.php?nid=55561
 
 
@@ -247,18 +243,19 @@ http://www.dailynews.gov.bw/news-details.php?nid=55561
 
 *Sources*:
  [1]
-https://www.voanews.com/africa/botswana-parliament-votes-extend-covid-emergency-march
+https://perma.cc/G9MT-WYZ8
 [2]
-https://abcnews.go.com/International/wireStory/botswana-extends-emergency-measures-combat-virus-73310846
+https://perma.cc/8DHF-7E7K
 [3]
-https://reports.unocha.org/en/country/southern-eastern-africa/card/4zXxeVEkYW/
+https://perma.cc/RJ79-63F5
 [4]
-https://www.parliament.gov.bw/index.php/parliamentary-business/notice-papers
-https://allafrica.com/stories/202104010153.html
+https://perma.cc/LKA6-H4YK
 [5]
-http://www.dailynews.gov.bw/news-details.php?nid=55561
+https://perma.cc/ZWW3-WSBL
 [6]
-https://www.constituteproject.org/constitution/Botswana_2016?lang=en
+http://www.dailynews.gov.bw/news-details.php?nid=55561
+[7]
+https://perma.cc/CE75-KC7F
 
 
 
@@ -298,16 +295,17 @@ https://www.constituteproject.org/constitution/Botswana_2016?lang=en
 
 *Sources*:
  [1]
-https://www.voanews.com/africa/botswana-parliament-votes-extend-covid-emergency-march
+https://perma.cc/7LQU-GRYS
 [2]
-https://reports.unocha.org/en/country/southern-eastern-africa/card/4zXxeVEkYW/
+https://perma.cc/DF46-FWPL
 [3]
-https://www.parliament.gov.bw/index.php/parliamentary-business/notice-papers
-https://allafrica.com/stories/202104010153.html
+https://perma.cc/T7CJ-ZPG5
 [4]
-http://www.dailynews.gov.bw/news-details.php?nid=55561
+https://perma.cc/74BB-RUHL
 [5]
-https://www.constituteproject.org/constitution/Botswana_2016?lang=en
+http://www.dailynews.gov.bw/news-details.php?nid=55561
+[6]
+https://perma.cc/2G6X-LKS5
 
 
 
@@ -350,7 +348,7 @@ https://www.constituteproject.org/constitution/Botswana_2016?lang=en
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Botswana_2016?lang=en
+https://perma.cc/7CW9-5Y8B
 
 
 
@@ -393,16 +391,13 @@ https://www.constituteproject.org/constitution/Botswana_2016?lang=en
 
 *Sources*:
  [1]
-https://www.chr.up.ac.za/images/researchunits/litigagion/covid19_country_regulations/Botswana-Emergency_Powers_COVID-19_Regulations.pdf
-
+https://perma.cc/CPK8-B68Q
 [2]
-https://www.facebook.com/BotswanaGovernment/posts/2892215390861100
-
+https://perma.cc/6DL8-HGHQ
 [3]
-https://www.voanews.com/africa/botswana-parliament-votes-extend-covid-emergency-march
-
+https://perma.cc/9L2G-ECTY
 [4]
-https://www.parliament.gov.bw/index.php/parliamentary-business/notice-papers
+https://perma.cc/Q2GD-5LH3
 
 
 
@@ -452,15 +447,12 @@ The constitution, article 17, Declarations relating to emergencies, does not lim
 *Sources*:
  [1]
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjXuKi76PzpAhVtwcQBHQudCdUQFjACegQIARAB&url=http%3A%2F%2Fwww.dailynews.gov.bw%2Fcommon_up%2Fdailynews%2F03-04-2020_emergency-powers-regulations_1585906437_doc_55402.pdf&usg=AOvVaw0C2sXjOYIQRP41xCM7bm0L
-
 [2]
-https://www.constituteproject.org/constitution/Botswana_2016?lang=en
-
+https://perma.cc/RRM3-SBGS
 [3]
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjXuKi76PzpAhVtwcQBHQudCdUQFjACegQIARAB&url=http%3A%2F%2Fwww.dailynews.gov.bw%2Fcommon_up%2Fdailynews%2F03-04-2020_emergency-powers-regulations_1585906437_doc_55402.pdf&usg=AOvVaw0C2sXjOYIQRP41xCM7bm0L
-
 [4]
-https://www.constituteproject.org/constitution/Botswana_2016?lang=en
+https://perma.cc/7LLK-EFP7
 
 
 
@@ -583,22 +575,19 @@ https://www.constituteproject.org/constitution/Botswana_2016?lang=en
 
 *Sources*:
  [1]
-https://bw.usembassy.gov/wp-content/uploads/sites/125/Emergency-Powers-COVID-19-Regulations-2020.pdf
-
+https://perma.cc/7YDC-2QWA
 [2]
-https://covid19portal.gov.org.bw/sites/default/files/2020-06/ExtraordinaryGazette12-06-2020.pdf
-
-
+https://perma.cc/3FUN-C2LR
 [3]
-https://covid19portal.gov.org.bw/sites/default/files/2020-05/ExtraordinaryGazette11May2020_0.pdf
-https://bw.usembassy.gov/health-alert-73120/
-
+https://perma.cc/Q48G-KYBH
 [4]
-https://allafrica.com/stories/202104140121.html
-https://bw.usembassy.gov/health%e2%80%afalert-u-s-embassy-gaborone-botswana-15/
-
+https://perma.cc/KD23-XRFA
 [5]
-https://bw.usembassy.gov/health%e2%80%afalert-u-s-embassy-gaborone-botswana-14/
+https://perma.cc/GEJ6-2J2N
+[6]
+https://perma.cc/2WC9-KL67
+[7]
+https://perma.cc/BV75-2HFA
 
 
 
@@ -643,19 +632,15 @@ https://bw.usembassy.gov/health%e2%80%afalert-u-s-embassy-gaborone-botswana-14/
 
 *Sources*:
  [1]
-https://www.chr.up.ac.za/images/researchunits/litigagion/covid19_country_regulations/Botswana-Emergency_Powers_COVID-19_Regulations.pdf
-
+https://perma.cc/2SN6-ES87
 [2]
-https://minorityrights.org/?s=botswana
-
+https://perma.cc/7CZK-EQJ3
 [3]
-https://www.hrw.org/africa/botswana
-
+https://perma.cc/AG4R-BK6K
 [4]
-https://www.amnesty.org/en/search/?country=38571&resourceType=newsarticle&sort=date
-
+https://perma.cc/TC4B-DVHZ
 [5]
-https://www.hrw.org/sitesearch?search=Botswana
+https://perma.cc/7Z8M-6XT8
 
 
 
@@ -705,22 +690,17 @@ https://www.hrw.org/sitesearch?search=Botswana
 
 *Sources*:
  [1]
-https://www.chr.up.ac.za/images/researchunits/litigagion/covid19_country_regulations/Botswana-Emergency_Powers_COVID-19_Regulations.pdf
-
+https://perma.cc/R3QU-BFCQ
 [2]
-www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-
+https://perma.cc/Z97J-LLW4
 [3]
-https://www.gov.bw/COVID-19
-
+https://perma.cc/8LZR-TQAB
 [4]
-https://minorityrights.org/?s=botswana
-
+https://perma.cc/4NW7-2NRG
 [5]
-https://www.hrw.org/africa/botswana
-
+https://perma.cc/W8Y6-4ZHA
 [6]
-https://www.amnesty.org/en/search/?country=38571&resourceType=newsarticle&sort=date
+https://perma.cc/YB3K-WEYZ
 
 
 
@@ -765,16 +745,13 @@ https://www.amnesty.org/en/search/?country=38571&resourceType=newsarticle&sort=d
 
 *Sources*:
  [1]
-https://bw.usembassy.gov/wp-content/uploads/sites/125/Emergency-Powers-COVID-19-Regulations-2020.pdf
-
+https://perma.cc/K5NF-CTYD
 [2]
-https://ifex.org/covid-19-in-africa-right-to-information-another-casualty-with-spike-in-attacks-on-journalists/
-
-
+https://perma.cc/S5DM-JSEQ
 [3]
-https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
+https://perma.cc/MXW9-42WR
 [4]
-https://www.usaid.gov/sites/default/files/documents/INTERNEWS_EFFECTS_OF_COVID19_ON_FREEDOM_OF_EXPRESSION_IN_SELECT_SADC_COUNTRIES_2.pdf
+https://perma.cc/G2WW-3V9A
 
 
 
@@ -814,7 +791,7 @@ https://www.usaid.gov/sites/default/files/documents/INTERNEWS_EFFECTS_OF_COVID19
 
 *Sources*:
  [1]
-https://bw.usembassy.gov/wp-content/uploads/sites/125/Emergency-Powers-COVID-19-Regulations-2020.pdf
+https://perma.cc/F7YB-RWUD
 
 
 
@@ -856,19 +833,15 @@ The State of Emergency has been extended to 30 September 2021.
 
 *Sources*:
  [1]
-https://www.voanews.com/africa/botswana-parliament-votes-extend-covid-emergency-march
-
+https://perma.cc/6GC4-Q9CK
 [2]
-https://reports.unocha.org/en/country/southern-eastern-africa/card/4zXxeVEkYW/
-
+https://perma.cc/6KL2-WXCT
 [3]
 http://www.dailynews.gov.bw/news-details.php?nid=55561
-
 [4]
-https://allafrica.com/stories/202104010153.html
-
+https://perma.cc/DY3Q-BWPM
 [5]
-https://www.constituteproject.org/constitution/Botswana_2016?lang=en
+https://perma.cc/3A25-TJR6
 
 
 
@@ -911,15 +884,15 @@ https://www.constituteproject.org/constitution/Botswana_2016?lang=en
 
 *Sources*:
  [1]
-https://www.gov.bw/about-covid-19
+https://perma.cc/FMY5-R7QE
 [2]
-https://ipi.media/botswana/
+https://perma.cc/X6W3-Z2PP
 [3]
-https://rsf.org/en/botswana
+https://perma.cc/TU4P-S5Q2
 [4]
-https://cpj.org/africa/botswana/
+https://perma.cc/NE33-L5NY
 [5]
-https://covidlawlab.org/wp-content/uploads/2020/06/Emergency-Powers-COVID-19-Regulations-2020.pdf
+https://perma.cc/PPF9-F7CZ
 
 
 
@@ -962,19 +935,19 @@ https://covidlawlab.org/wp-content/uploads/2020/06/Emergency-Powers-COVID-19-Reg
 
 *Sources*:
  [1]
-https://www.gov.bw/about-covid-19
+https://perma.cc/9RT9-X8UC
 [2]
-https://ipi.media/botswana/
+https://perma.cc/3DVV-BZAD
 [3]
-https://rsf.org/en/botswana
+https://perma.cc/Q96M-P9JU
 [4]
-https://cpj.org/africa/botswana
+https://perma.cc/TYP7-MBKG
 [5]
-https://cpj.org/2021/05/news-editor-botswana-jail-facebook/
+https://perma.cc/6L43-M5UY
 [6]
-https://news.thevoicebw.com/2021/02/state-amends-charge-sheet-in-justice-motlhabane-case/
+https://perma.cc/NGU8-S378
 [7]
-https://cpj.org/2021/05/equipped-us-israeli-firms-botswana-police/
+https://perma.cc/K4BF-JNLZ
 
 
 
@@ -1017,13 +990,13 @@ https://cpj.org/2021/05/equipped-us-israeli-firms-botswana-police/
 
 *Sources*:
  [1]
-https://www.gov.bw/about-covid-19
+https://perma.cc/QL9H-ZSHX
 [2]
-https://ipi.media/botswana/
+https://perma.cc/29U5-NR7E
 [3]
-https://rsf.org/en/botswana
+https://perma.cc/74JS-R4HS
 [4]
-https://cpj.org/africa/botswana
+https://perma.cc/8X4U-JM6Y
 
 
 
@@ -1067,15 +1040,15 @@ https://cpj.org/africa/botswana
 
 *Sources*:
  [1]
-https://www.gov.bw/about-covid-19
+https://perma.cc/Z34R-JZAZ
 [2]
-https://ipi.media/botswana/
+https://perma.cc/L2WK-NRDC
 [3]
-https://rsf.org/en/botswana
+https://perma.cc/68Z6-ANTD
 [4]
-https://cpj.org/africa/botswana
+https://perma.cc/Y2RZ-JXEE
 [5]
-https://covidlawlab.org/wp-content/uploads/2020/06/Emergency-Powers-COVID-19-Regulations-2020.pdf
+https://perma.cc/Y6P4-6EEF
 
 
 
@@ -1118,15 +1091,15 @@ https://covidlawlab.org/wp-content/uploads/2020/06/Emergency-Powers-COVID-19-Reg
 
 *Sources*:
  [1]
-https://www.gov.bw/about-covid-19
+https://perma.cc/E366-FUFA
 [2]
-https://ipi.media/botswana/
+https://perma.cc/DT5G-USRP
 [3]
-https://rsf.org/en/botswana
+https://perma.cc/YL4R-W2EX
 [4]
-https://cpj.org/2021/05/equipped-us-israeli-firms-botswana-police/
+https://perma.cc/ED7R-NNT7
 [5]
-https://cpj.org/africa/botswana
+https://perma.cc/BST6-FQKK
 
 
 
@@ -1169,15 +1142,15 @@ https://cpj.org/africa/botswana
 
 *Sources*:
  [1]
-https://www.gov.bw/about-covid-19
+https://perma.cc/7UTK-6HC8
 [2]
-https://ipi.media/botswana/
+https://perma.cc/3L3P-MQ79
 [3]
-https://rsf.org/en/botswana
+https://perma.cc/RV5E-MXVQ
 [4]
-https://cpj.org/2021/05/news-editor-botswana-jail-facebook/
+https://perma.cc/694M-PUL2
 [5]
-https://cpj.org/africa/botswana
+https://perma.cc/ZV45-AUUL
 
 
 
@@ -1222,9 +1195,9 @@ https://cpj.org/africa/botswana
 
 *Sources*:
  [1]
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+https://perma.cc/7LBA-UP5G
 [2]
-https://www.gov.bw/about-covid-19
+https://perma.cc/Z8SP-TMNU
 
 
 
@@ -1269,13 +1242,13 @@ https://www.gov.bw/about-covid-19
 
 *Sources*:
  [1]
-https://www.bonela.org/index.php?option=com_content&view=article&id=228:15-04-20-bonela-condems-brutality-by-law-enforcement&catid=41:2020&Itemid=246
+https://perma.cc/9M6K-AZD2
 [2]
 http://apanews.net/index.php/en/news/botswana-leader-orders-probe-into-police-abuses-during-lockdown
 [3]
-https://www.hrw.org/africa/botswana
+https://perma.cc/A9CJ-S8LP
 [4]
-https://www.amnesty.org/en/search/?country=38571&resourceType=newsarticle&sort=date
+https://perma.cc/KHY5-LH6X
 
 
 
@@ -1318,6 +1291,6 @@ https://www.amnesty.org/en/search/?country=38571&resourceType=newsarticle&sort=d
 
 *Sources*:
  [1]
-https://www.voanews.com/covid-19-pandemic/botswanas-capital-city-back-covid-19-lockdown
+https://perma.cc/QH4T-XNKN
 [2]
-https://bw.usembassy.gov/wp-content/uploads/sites/125/Emergency-Powers-COVID-19-Regulations-2020.pdf
+https://perma.cc/T676-7JAW

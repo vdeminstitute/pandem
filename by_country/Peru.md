@@ -46,11 +46,11 @@
 
 *Sources*:
  [1]
-https://cdn.www.gob.pe/uploads/document/file/566448/DS044-PCM_1864948-2.pdf
+perma.cc/36H3-SHS6
 [2]
-https://www.gob.pe/institucion/pcm/colecciones/787-normativa-sobre-estado-de-emergencia-por-coronavirus
+https://perma.cc/9JBR-CR4G
 [3]
-https://www.gob.pe/institucion/mtpe/normas-legales/1941651-105-2021-pcm
+https://perma.cc/QRX8-LXFK
 
 
 
@@ -90,7 +90,8 @@ https://www.gob.pe/institucion/mtpe/normas-legales/1941651-105-2021-pcm
 
 *Sources*:
  [1]
-https://www.oas.org/juridico/spanish/per_res17.pdf
+
+perma.cc/YA5H-DLNL
 
 
 
@@ -130,7 +131,7 @@ https://www.oas.org/juridico/spanish/per_res17.pdf
 
 *Sources*:
  [1]
-https://cdn.www.gob.pe/uploads/document/file/566448/DS044-PCM_1864948-2.pdf
+perma.cc/V3JF-EX8S
 
 
 
@@ -170,9 +171,9 @@ https://cdn.www.gob.pe/uploads/document/file/566448/DS044-PCM_1864948-2.pdf
 
 *Sources*:
  [1]
-https://www.gob.pe/institucion/pcm/colecciones/787-normativa-sobre-estado-de-emergencia-por-coronavirus
+https://perma.cc/9JBR-CR4G
 [2]
-https://www.gob.pe/institucion/pcm/normas-legales/1356546-174-2020-pcm
+https://perma.cc/QRX8-LXFK
 
 
 
@@ -215,9 +216,9 @@ https://www.gob.pe/institucion/pcm/normas-legales/1356546-174-2020-pcm
 
 *Sources*:
  [1]
-https://cdn.www.gob.pe/uploads/document/file/566448/DS044-PCM_1864948-2.pdf
+perma.cc/V3JF-EX8S
 [2]
-https://www.gob.pe/institucion/pcm/colecciones/787-normativa-sobre-estado-de-emergencia-por-coronavirus
+https://perma.cc/9JBR-CR4G
 
 
 
@@ -257,11 +258,11 @@ https://www.gob.pe/institucion/pcm/colecciones/787-normativa-sobre-estado-de-eme
 
 *Sources*:
  [1]
-https://cdn.www.gob.pe/uploads/document/file/566448/DS044-PCM_1864948-2.pdf
+perma.cc/V3JF-EX8S
 [2]
-https://www.gob.pe/institucion/pcm/colecciones/787-normativa-sobre-estado-de-emergencia-por-coronavirus
+perma.cc/9JBR-CR4G
 [3]
-https://www.gob.pe/institucion/mtpe/normas-legales/1941651-105-2021-pcm
+perma.cc/N7GE-ZCKW
 
 
 
@@ -304,7 +305,7 @@ https://www.gob.pe/institucion/mtpe/normas-legales/1941651-105-2021-pcm
 
 *Sources*:
  [1]
-https://www.oas.org/juridico/spanish/per_res17.pdf
+perma.cc/YA5H-DLNL
 
 
 
@@ -393,9 +394,9 @@ https://www.oas.org/juridico/spanish/per_res17.pdf
 
 *Sources*:
  [1]
-https://cdn.www.gob.pe/uploads/document/file/566448/DS044-PCM_1864948-2.pdf
+perma.cc/4MCY-3WNG
 [2]
-https://comunicaciones.congreso.gob.pe/noticias/comunicado-del-congreso-de-la-republica-2/
+perma.cc/ZJ2R-Z9FN
 
 
 
@@ -518,14 +519,14 @@ https://comunicaciones.congreso.gob.pe/noticias/comunicado-del-congreso-de-la-re
 
 *Sources*:
  [1]
-https://cdn.www.gob.pe/uploads/document/file/566448/DS044-PCM_1864948-2.pdf
-
+perma.cc/4MCY-3WNG
 [2]
-https://www.gob.pe/8784
+perma.cc/MB58-SEHZ
 [3]
-https://cdn.www.gob.pe/uploads/document/file/1268797/DS%20146-2020-PCM.pdf
+perma.cc/ZJ2K-9T3S
 [4]
-https://busquedas.elperuano.pe/normaslegales/decreto-supremo-que-prorroga-el-estado-de-emergencia-naciona-decreto-supremo-n-076-2021-pcm-1944838-1/
+perma.cc/WS7N-DUE2
+
 
 
 
@@ -570,11 +571,11 @@ https://busquedas.elperuano.pe/normaslegales/decreto-supremo-que-prorroga-el-est
 
 *Sources*:
  [1]
-https://cdn.www.gob.pe/uploads/document/file/574872/DS_057-2020-PCM.pdf
+perma.cc/7RPT-TVK5
 [2]
-https://elpais.com/internacional/2020-04-04/peru-restringe-la-salida-a-la-calle-por-genero.html
+perma.cc/HC4B-3RG8
 [3]
-https://lta.reuters.com/articulo/salud-coronavirus-peru-genero-idLTAKCN21S1MH-OUSLT
+perma.cc/NR4S-UNBY
 
 
 
@@ -624,11 +625,11 @@ https://lta.reuters.com/articulo/salud-coronavirus-peru-genero-idLTAKCN21S1MH-OU
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/peru/
+perma.cc/56F4-J8G5
 [2]
-https://www.hrw.org/americas/peru
+perma.cc/Y8KX-3UQZ
 [3]
-https://monitor.civicus.org/updates/?country=63&status=&date_0=&date_1=
+perma.cc/DZ74-6JC3
 
 
 
@@ -673,7 +674,7 @@ https://monitor.civicus.org/updates/?country=63&status=&date_0=&date_1=
 
 *Sources*:
  [1]
-https://cdn.www.gob.pe/uploads/document/file/566448/DS044-PCM_1864948-2.pdf
+perma.cc/4MCY-3WNG
 
 
 
@@ -794,13 +795,13 @@ https://cdn.www.gob.pe/uploads/document/file/566448/DS044-PCM_1864948-2.pdf
 
 *Sources*:
  [1]
-https://www.gob.pe/coronavirus
+perma.cc/3LDK-WX5P
 [2]
-https://rsf.org/en/countries
+perma.cc/2ZWK-FQEU
 [3]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/YTJ2-U6YH
 [4]
-https://cpj.org/americas/peru/
+perma.cc/4AKK-6XJ4
 
 
 
@@ -843,13 +844,13 @@ https://cpj.org/americas/peru/
 
 *Sources*:
  [1]
-https://www.gob.pe/coronavirus
+perma.cc/3LDK-WX5P
 [2]
-https://rsf.org/en/countries
+perma.cc/2ZWK-FQEU
 [3]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/YTJ2-U6YH
 [4]
-https://cpj.org/americas/peru/
+perma.cc/4AKK-6XJ4
 
 
 
@@ -892,13 +893,13 @@ https://cpj.org/americas/peru/
 
 *Sources*:
  [1]
-https://www.gob.pe/coronavirus
+perma.cc/3LDK-WX5P
 [2]
-https://rsf.org/en/countries
+perma.cc/2ZWK-FQEU
 [3]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/YTJ2-U6YH
 [4]
-https://cpj.org/americas/peru/
+perma.cc/4AKK-6XJ4
 
 
 
@@ -942,13 +943,13 @@ https://cpj.org/americas/peru/
 
 *Sources*:
  [1]
-https://www.gob.pe/coronavirus
+perma.cc/3LDK-WX5P
 [2]
-https://rsf.org/en/countries
+perma.cc/2ZWK-FQEU
 [3]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/YTJ2-U6YH
 [4]
-https://cpj.org/americas/peru/
+perma.cc/4AKK-6XJ4
 
 
 
@@ -991,11 +992,11 @@ https://cpj.org/americas/peru/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/56Z6-NGZT
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/DLH2-TPU2
 [3]
-https://cpj.org/americas/peru/
+perma.cc/2DBZ-E2DS
 
 
 
@@ -1038,13 +1039,13 @@ https://cpj.org/americas/peru/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/LVG8-CZRZ
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/CUP4-77TE
 [3]
-https://cpj.org/americas/peru/
+perma.cc/KF7A-W5EU
 [4]
-https://ojo-publico.com/1716/policia-detiene-y-agrede-editor-regional-de-ojopublico
+perma.cc/68YC-XPUD
 
 
 
@@ -1089,9 +1090,9 @@ https://ojo-publico.com/1716/policia-detiene-y-agrede-editor-regional-de-ojopubl
 
 *Sources*:
  [1]
-https://www.gob.pe/coronavirus
+perma.cc/3LDK-WX5P
 [2]
-https://twitter.com/minjusdh_peru/status/1247871817815150592
+perma.cc/3SWB-5ZCX
 
 
 
@@ -1136,17 +1137,17 @@ https://twitter.com/minjusdh_peru/status/1247871817815150592
 
 *Sources*:
  [1]
-https://www.infodefensa.com/latam/2020/07/13/noticia-investiga-militares-policias-delitos-funcion-durante-cuarentena.html
+perma.cc/ZE2R-QBWE
 [2]
-https://ojo-publico.com/1716/policia-detiene-y-agrede-editor-regional-de-ojopublico
+perma.cc/8RKY-Z8NU
 [3]
-https://lta.reuters.com/articulo/salud-coronavirus-peru-idLTAKBN22H2L5-OUSLT
+perma.cc/2D73-ZYLK
 [4]
-https://www.amnesty.org/en/latest/news/2020/03/peru-debe-derogar-ley-impunidad-abusos-policiales-emergencia-covid19/
+perma.cc/QC6N-J8TS
 [5]
-https://www.hrw.org/news/2020/05/12/peru-law-protects-abusive-policing
+perma.cc/4AVF-NZ2W
 [6]
-https://www.hrw.org/es/world-report/2021/country-chapters/377401
+perma.cc/NA28-7XXF
 
 
 
@@ -1189,12 +1190,12 @@ https://www.hrw.org/es/world-report/2021/country-chapters/377401
 
 *Sources*:
  [1]
-https://www.infodefensa.com/latam/2020/03/25/noticia-paises-latinoamerica-despliegan-combatir-covid19.html
+perma.cc/6MX8-KXQQ
 [2]
-https://cdn.www.gob.pe/uploads/document/file/566448/DS044-PCM_1864948-2.pdf
+perma.cc/4MCY-3WNG
 [3]
-https://www.reuters.com/article/us-health-coronavirus-peru-army/peru-calls-up-10000-army-reserves-to-enforce-quarantine-idUSKBN21J69A
+perma.cc/ULU7-CEFG
 [4]
-https://rpp.pe/politica/gobierno/coronavirus-en-peru-martin-vizcarra-fuerzas-armadas-permaneceran-en-las-calles-hasta-fin-de-ano-para-contener-focos-de-criminalidad-noticia-1283035
+perma.cc/3HMP-PQAA
 [5]
-https://www.france24.com/es/minuto-a-minuto/20210328-per%C3%BA-prorroga-por-un-mes-el-estado-de-emergencia-por-la-pandemia
+perma.cc/8QBM-E4D2

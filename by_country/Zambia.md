@@ -47,52 +47,46 @@
 While the Ministry of Health initially led the response, in coordination with the WHO, the president appeared to have seized control by issuing a series of restrictions since March 2020 that have been amended at various points and continue through Q2 2021 (5, 6, 7, 8, 9, 10, 11, 12, 13, 14). 
 
 *Sources*:
- http://zambialii.org/zm/legislation/statutory-instrument/2020/21
-
-
+ https://perma.cc/V262-7AF9
 (1)
-http://zambialii.org/zm/legislation/statutory-instrument/2020/22
+
+https://perma.cc/GH77-GTQ2
 (2)
 
-https://www.parliament.gov.zm/sites/default/files/documents/acts/Public%20Health%20Act.pdf
+https://perma.cc/6W45-KS92
 (3)
-https://zambialii.org/zm/legislation/statutory-instrument/2020/no-62-2020
+
+https://perma.cc/BKW2-RZ3X
 (4)
-https://www.mod.gov.zm/?wpfb_dl=41
+
+https://perma.cc/8RMH-JJPP
 (5)
-https://www.themastonline.com/2020/04/16/boma-ni-bowman-the-plight-of-the-rule-of-law-in-zambia-during-covid-19/
+
+https://perma.cc/8EGC-2RZV
 (6)
-https://www.effective-states.org/zambias-response-to-covid-19-part-3-rising-infections-and-falling-confidence-amidst-increased-authoritarianism/
+
+https://perma.cc/267D-LMPN
 (7)
-http://zambiahighcommission.ca/wp/revised-guidelines-for-strengthening-sureillance-at-the-points-of-entry-poe-v2-0/
+
+https://perma.cc/CP43-L5EG
 (8)
-https://www.swedenabroad.se/globalassets/ambassader/zambia-lusaka/documents/poe-guidelines-version-2.0-with-annex.pdf
+
+https://perma.cc/94UT-E9UC
 (9)
 
-
-
-
-
-
-
-
-
-
-https://www.mod.gov.zm/?wpfb_dl=41
-
+https://perma.cc/KZ8Q-KN9J
 (10)
 
-https://www.cabinet.gov.zm/wp-content/uploads/2020/04/PRESIDENT-LUNGU-MAKES-SECOND-ADDRESS-TO-NATION-ON-COVID.pdf
+https://perma.cc/8EGC-2RZV
 (11)
 
-https://www.sh.gov.zm/?wpfb_dl=225
+https://www.cabinet.gov.zm/wp-content/uploads/2020/05/HE-FIFTH-COVID-ADDRESS-003-REVISED-20.05.20.pdf
 (12)
 
-https://www.cabinet.gov.zm/wp-content/uploads/2020/05/4TH-COVID-NATIONAL-ADDRESS-8th-MAY-2020.pdf
-
+https://perma.cc/5SMB-WD9R
 (13)
 
-https://www.cabinet.gov.zm/wp-content/uploads/2020/05/HE-FIFTH-COVID-ADDRESS-003-REVISED-20.05.20.pdf
+https://web.archive.org/web/20201130052045/https://www.cabinet.gov.zm/wp-content/uploads/2020/05/4TH-COVID-NATIONAL-ADDRESS-8th-MAY-2020.pdf
 (14)
 
 
@@ -132,13 +126,16 @@ https://www.cabinet.gov.zm/wp-content/uploads/2020/05/HE-FIFTH-COVID-ADDRESS-003
  The Public Health Act (sections 28, 30, and 114) is, and has been, the main legal instrument to combat the Covid-19 pandemic. (1, 2, 3, 4) 
 
 *Sources*:
- http://zambialii.org/zm/legislation/statutory-instrument/2020/21
+ https://perma.cc/GH77-GTQ2
 (1)
-http://zambialii.org/zm/legislation/statutory-instrument/2020/22
+
+https://perma.cc/T4NR-S4QF
 (2)
-http://zambiahighcommission.ca/wp/revised-guidelines-for-strengthening-sureillance-at-the-points-of-entry-poe-v2-0/
+
+https://perma.cc/Y9R3-W26S
 (3)
-https://www.swedenabroad.se/globalassets/ambassader/zambia-lusaka/documents/poe-guidelines-version-2.0-with-annex.pdf
+
+https://perma.cc/7ETB-JRF9
 (4)
 
 
@@ -178,12 +175,14 @@ https://www.swedenabroad.se/globalassets/ambassader/zambia-lusaka/documents/poe-
  The Public Health Act (sections 28, 30, and 114) is, and has been, the main legal instrument to combat the Covid-19 pandemic. (1, 2, 3, 4) 
 
 *Sources*:
- http://zambialii.org/zm/legislation/statutory-instrument/2020/22
+ https://perma.cc/GH77-GTQ2
+
 (1)
-http://zambialii.org/zm/legislation/statutory-instrument/2020/21(2)
-http://zambiahighcommission.ca/wp/revised-guidelines-for-strengthening-sureillance-at-the-points-of-entry-poe-v2-0/
+https://perma.cc/V262-7AF9
+(2)
+https://perma.cc/6G24-VPX3
 (3)
-https://www.swedenabroad.se/globalassets/ambassader/zambia-lusaka/documents/poe-guidelines-version-2.0-with-annex.pdf
+https://perma.cc/G9V9-CGTV
 (4)
 
 
@@ -223,12 +222,17 @@ https://www.swedenabroad.se/globalassets/ambassader/zambia-lusaka/documents/poe-
  The Public Health Act (sections 28, 30, and 114) is, and has been, the main legal instrument to combat the Covid-19 pandemic. (1, 2, 3, 4) 
 
 *Sources*:
- http://zambialii.org/zm/legislation/statutory-instrument/2020/22
+ https://perma.cc/GH77-GTQ2
+
 (1)
-http://zambialii.org/zm/legislation/statutory-instrument/2020/21(2)
-http://zambiahighcommission.ca/wp/revised-guidelines-for-strengthening-sureillance-at-the-points-of-entry-poe-v2-0/
+
+https://perma.cc/V262-7AF9
+(2)
+
+https://perma.cc/FKK2-B3VH
 (3)
-https://www.swedenabroad.se/globalassets/ambassader/zambia-lusaka/documents/poe-guidelines-version-2.0-with-annex.pdf
+
+https://perma.cc/P5C9-WAZQ
 (4)
 
 
@@ -271,8 +275,8 @@ https://www.swedenabroad.se/globalassets/ambassader/zambia-lusaka/documents/poe-
  There is no official end date or sunset clause in the Public Health Regulations 2020 document, or in the Public Health Act sections used for legal power to implement these regulations (section 28, 30, and 114). 
 
 *Sources*:
- http://zambialii.org/zm/legislation/statutory-instrument/2020/22
-http://zambialii.org/node/8020
+ https://perma.cc/GH77-GTQ2
+https://perma.cc/T4NR-S4QF
 
 
 
@@ -353,25 +357,31 @@ http://zambialii.org/node/8020
  The Statutory Instruments (Chapter 295 of the Public Health Act, sections 9, 28, 30, and 114) specified public health officials as the "authorized officers" to implement Covid-19 regulations and protocols. While the Ministry of Health initially led the response, in coordination with the WHO, the president appeared to have seized control by issuing a series of restrictions in March 2020 that have been amended at various points and continue through Q2 2021. 
 
 *Sources*:
- http://zambialii.org/zm/legislation/statutory-instrument/2020/21
+ https://perma.cc/V262-7AF9
 
 (1)
-http://zambialii.org/zm/legislation/statutory-instrument/2020/22
+https://perma.cc/GH77-GTQ2
 (2)
-
-https://www.parliament.gov.zm/sites/default/files/documents/acts/Public%20Health%20Act.pdf
+https://perma.cc/TT8W-QTVQ
 (3)
-https://zambialii.org/zm/legislation/statutory-instrument/2020/no-62-2020
+
+https://perma.cc/BKW2-RZ3X
+
 (4)
-https://www.mod.gov.zm/?wpfb_dl=41
+
+https://perma.cc/EXY8-L953
 (5)
-https://www.effective-states.org/zambias-response-to-covid-19-part-3-rising-infections-and-falling-confidence-amidst-increased-authoritarianism/
+
+https://perma.cc/5D9Z-6CR7
 (6)
-https://www.themastonline.com/2020/04/16/boma-ni-bowman-the-plight-of-the-rule-of-law-in-zambia-during-covid-19/
+
+https://perma.cc/2BZN-78CG
 (7)
-http://zambiahighcommission.ca/wp/revised-guidelines-for-strengthening-sureillance-at-the-points-of-entry-poe-v2-0/
+
+https://perma.cc/Y9R3-W26S
 (8)
-https://www.swedenabroad.se/globalassets/ambassader/zambia-lusaka/documents/poe-guidelines-version-2.0-with-annex.pdf
+
+https://perma.cc/7ETB-JRF9
 (9)
 
 
@@ -414,25 +424,31 @@ https://www.swedenabroad.se/globalassets/ambassader/zambia-lusaka/documents/poe-
  The Statutory Instruments (Chapter 295 of the Public Health Act, sections 9, 28, 30, and 114) specified public health officials as the "authorized officers" to implement Covid-19 regulations and protocols. While the Ministry of Health initially led the response, in coordination with the WHO, the president appeared to have seized control by issuing a series of restrictions in March 2020 that have been amended at various points and continue through Q2 2021. 
 
 *Sources*:
- http://zambialii.org/zm/legislation/statutory-instrument/2020/21
+ https://perma.cc/V262-7AF9
 
 (1)
-http://zambialii.org/zm/legislation/statutory-instrument/2020/22
+https://perma.cc/GH77-GTQ2
 (2)
-
-https://www.parliament.gov.zm/sites/default/files/documents/acts/Public%20Health%20Act.pdf
+https://perma.cc/TT8W-QTVQ
 (3)
-https://zambialii.org/zm/legislation/statutory-instrument/2020/no-62-2020
+
+https://perma.cc/BKW2-RZ3X
+
 (4)
-https://www.mod.gov.zm/?wpfb_dl=41
+
+https://perma.cc/EXY8-L953
 (5)
-https://www.effective-states.org/zambias-response-to-covid-19-part-3-rising-infections-and-falling-confidence-amidst-increased-authoritarianism/
+
+https://perma.cc/5D9Z-6CR7
 (6)
-https://www.themastonline.com/2020/04/16/boma-ni-bowman-the-plight-of-the-rule-of-law-in-zambia-during-covid-19/
+
+https://perma.cc/2BZN-78CG
 (7)
-http://zambiahighcommission.ca/wp/revised-guidelines-for-strengthening-sureillance-at-the-points-of-entry-poe-v2-0/
+
+https://perma.cc/Y9R3-W26S
 (8)
-https://www.swedenabroad.se/globalassets/ambassader/zambia-lusaka/documents/poe-guidelines-version-2.0-with-annex.pdf
+
+https://perma.cc/7ETB-JRF9
 (9)
 
 
@@ -483,19 +499,27 @@ After a legislator died from coronavirus and a spike in the cases, the Zambia pa
 While the legislature did resume normal functions from September 2020 onward, President Lungu has continued to unilaterally issue decrees concerning Covid-19 restrictions. 
 
 *Sources*:
- https://mg.co.za/africa/2020-06-15-in-zambia-covid-19-has-claimed-democracy-not-human-life/
-https://www.znbc.co.zm/news/covid-19-parliament-adjourns-sine-die/
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+ https://perma.cc/54GR-NDLT
 
-https://www.lusakatimes.com/2020/06/09/zambian-parliament-to-resume-its-sittings-today/
-https://mg.co.za/africa/2020-06-15-in-zambia-covid-19-has-claimed-democracy-not-human-life/
-https://www.facebook.com/watch/live/?v=3468045533211650&ref=watch_permalink
-https://www.facebook.com/105720380970250/videos/310060723379927
-https://www.thecitizen.co.tz/news/Zambian-Parliament-forced-to-adjourn-after-Covid-19-kills-MP/1840386-5597898-sh2o93/index.html
-https://www.mwebantu.com/2020/07/20/coronavirus-parliament-shuts-down-for-a-second-time-due-to-covid-19/22974/
-https://diggers.news/local/2020/09/07/bill-10-will-be-tabled-in-next-parliament-sitting-clerk/
-https://zambiareports.com/2020/08/13/lungu-open-parliament-sept-11/
-https://www.facebook.com/105720380970250/videos/332455918005458
+https://perma.cc/36NU-YWSR
+
+https://perma.cc/X2QQ-AF9F
+
+https://perma.cc/X3ZW-FUC5
+
+https://perma.cc/GF3F-8LWW
+
+https://perma.cc/LRX9-JUA7
+
+https://perma.cc/5VVE-YVKV
+
+
+https://web.archive.org/web/20200720190050/https://www.mwebantu.com/2020/07/20/coronavirus-parliament-shuts-down-for-a-second-time-due-to-covid-19/22974/
+https://perma.cc/42B7-C3TW
+
+https://web.archive.org/web/20200930024827/https://zambiareports.com/2020/08/13/lungu-open-parliament-sept-11/
+https://perma.cc/WQY6-Z67T
+
 
 
 
@@ -536,9 +560,9 @@ https://www.facebook.com/105720380970250/videos/332455918005458
 After a legislator died from Covid-19 and a spike in active cases, the Zambia parliament adjourned sine die for the second time in reference to the Covid-19 pandemic on 21 July 2020. The parliament was reopened for the Fifth session of the Twelfth National Assembly on 11 September 2020. 
 
 *Sources*:
- https://www.znbc.co.zm/news/covid-19-parliament-adjourns-sine-die/
-https://www.lusakatimes.com/2020/06/09/zambian-parliament-to-resume-its-sittings-today/
-https://www.facebook.com/watch/live/?v=3468045533211650&ref=watch_permalink
+ https://perma.cc/6A8T-AGVJ
+https://perma.cc/X3ZW-FUC5
+https://perma.cc/5VVE-YVKV
 
 
 
@@ -581,8 +605,9 @@ After a legislator died from Covid-19 and a spike in active cases, the Zambia pa
 Therefore, 11 September, 2020 is coded as the date the parliament resumed its functions. 
 
 *Sources*:
- https://www.znbc.co.zm/news/covid-19-parliament-adjourns-sine-die/
-https://www.lusakatimes.com/2020/06/09/zambian-parliament-to-resume-its-sittings-today/
+ https://perma.cc/54GR-NDLT
+
+https://perma.cc/X3ZW-FUC5
 
 
 
@@ -626,15 +651,19 @@ https://www.lusakatimes.com/2020/06/09/zambian-parliament-to-resume-its-sittings
  The measures appear to have been more or less uniform across the country through 2020 and the first half of 2021 (1, 2, 3, 4). President Lungu has issued several measures since March 2020, thereamong a temporary lockdown in Kaufe Town in April 2020 (5). 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts?field_news_alert_countries=1311
+ https://perma.cc/8ZLV-MDDC
 (1)
-http://zambialii.org/zm/legislation/statutory-instrument/2020/22
+
+https://perma.cc/GH77-GTQ2
 (2)
-https://www.garda.com/crisis24/news-alerts/455561/zambia-covid-19-restrictions-remain-in-place-nationwide-as-of-march-16-update-8
+
+https://perma.cc/269Q-WYHX
 (3)
-https://www.garda.com/crisis24/news-alerts/474516/zambia-covid-19-restrictions-remain-in-place-nationwide-as-of-may-4-update-9
+
+https://perma.cc/XQ53-JMAC
 (4)
-https://www.osac.gov/Country/Zambia/Content/Detail/Report/19b8f3c0-f7a4-49e6-90aa-1871837c7616
+
+https://perma.cc/9WQD-PAYE
 (5)
 
 
@@ -682,20 +711,17 @@ https://www.osac.gov/Country/Zambia/Content/Detail/Report/19b8f3c0-f7a4-49e6-90a
 However, the Statutory Instrument adopted by the Ministry of Health states: "A person shall not enter or leave an infected area without - (a) the permission of an authorized officer..." (2). So, only if medical officials declared refugee camps to be "infected areas" when they were in fact not, then the restrictions on issuing passes for movement would be considered discrimination in this coding. No evidence have been found that the medical officials wrongly claimed the camps to be infected, and so this is not included in the score for this variable. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/zambia/
+ https://perma.cc/MFP6-MUDW
 (1)
-https://www.amnesty.org/en/countries/africa/zambia/
-http://zambialii.org/zm/legislation/statutory-instrument/2020/22
 
+https://perma.cc/D3PV-TJLT
+https://perma.cc/RP77-CAYJ
 
-
-
-http://zambialii.org/zm/legislation/statutory-instrument/2020/21
-https://www.hrw.org/africa/zambia
-https://reliefweb.int/sites/reliefweb.int/files/resources/ZAMBIA_%20COVID-19_Emergency_Appeal.pdf
-http://zambialii.org/zm/legislation/statutory-instrument/2020/22
+https://perma.cc/V262-7AF9
+https://perma.cc/K39L-YBTQ
+https://perma.cc/Z2T9-BV4V
+https://perma.cc/GH77-GTQ2
 (2)
-
 
 
 
@@ -744,15 +770,17 @@ http://zambialii.org/zm/legislation/statutory-instrument/2020/22
  No evidence was found that any of the emergency measures de-jure violated non-derogable rights as defined by the ICCPR. 
 
 *Sources*:
- http://zambialii.org/zm/legislation/statutory-instrument/2020/22
-http://zambialii.org/zm/legislation/statutory-instrument/2020/21
+ https://perma.cc/GH77-GTQ2
+https://perma.cc/V262-7AF9
+https://perma.cc/768B-D3KQ
 
-https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-https://reliefweb.int/sites/reliefweb.int/files/resources/ZAMBIA_%20COVID-19_Emergency_Appeal.pdf
-https://www.amnesty.org/en/search/?country=38651&resourceType=newsarticle&sort=date
-https://www.hrw.org/africa/zambia
+https://perma.cc/QJB7-CURY
 
-https://www.amnesty.org/en/countries/africa/zambia/
+https://perma.cc/K5DX-KULR
+
+https://perma.cc/EPU2-QW66
+
+https://perma.cc/2FTW-DJBP
 
 
 
@@ -796,12 +824,12 @@ https://www.amnesty.org/en/countries/africa/zambia/
  The production of "fake news" is prohibited in Zambia since before the Covid-19 crisis, and will thus not be included in this score as it is not part of the current emergency measures. No evidence that the covid-19 emergency measures de-jure limit media freedom was been found. 
 
 *Sources*:
- http://zambialii.org/zm/legislation/statutory-instrument/2020/22
-https://rsf.org/en/zambia
-https://cpj.org/africa/zambia/
-https://ipi.media/covid19-media-freedom-monitoring/
-https://ipi.media/zambia/
-https://africatimes.com/2018/07/08/zambia-says-fraud-fake-news-demand-stricter-digital-platform-laws/
+ https://perma.cc/GH77-GTQ2
+https://perma.cc/4ZFC-CDEL
+https://perma.cc/PHU4-27Z2
+https://perma.cc/PT8L-D5WH
+https://perma.cc/3VFM-5KS9
+https://perma.cc/5S9D-KCB6
 
 
 
@@ -921,10 +949,10 @@ https://africatimes.com/2018/07/08/zambia-says-fraud-fake-news-demand-stricter-d
  The Zambian government has revoked a licence for one of the country's most popular TV stations after they refused to air government coronavirus-awareness adverts for free. However, this is not a limitation on how the media can report on Covid-19 facts, so it does not affect the score on this variable. 
 
 *Sources*:
- https://cpj.org/2020/04/zambia-cancels-broadcaster-prime-tvs-license-polic/
-https://ipi.media/zambia-cancels-license-of-private-tv-channel-over-covid-19-ad-dispute/
-https://www.amnesty.org/download/Documents/AFR6321402020ENGLISH.pdf
-https://www.bbc.com/news/topics/cdl8n2edezlt/zambia
+ https://perma.cc/P3B8-6TYR
+https://perma.cc/TDY3-UH98
+https://perma.cc/4WXN-LAEQ
+https://perma.cc/83SV-P4VV
 
 
 
@@ -966,10 +994,10 @@ https://www.bbc.com/news/topics/cdl8n2edezlt/zambia
  The Zambian government has revoked a licence for one of the country's most popular TV stations after they refused to air government coronavirus-awareness adverts for free. However, this is not a limitation on how the media can report on the government’s response to the Covid-19 pandemic, so it does not affect the score on this variable. 
 
 *Sources*:
- https://cpj.org/2020/04/zambia-cancels-broadcaster-prime-tvs-license-polic/
-https://ipi.media/zambia-cancels-license-of-private-tv-channel-over-covid-19-ad-dispute/
-https://www.amnesty.org/download/Documents/AFR6321402020ENGLISH.pdf
-https://www.bbc.com/news/topics/cdl8n2edezlt/zambia
+ https://perma.cc/P3B8-6TYR
+https://perma.cc/TDY3-UH98
+https://perma.cc/4WXN-LAEQ
+https://perma.cc/83SV-P4VV
 
 
 
@@ -1011,10 +1039,10 @@ https://www.bbc.com/news/topics/cdl8n2edezlt/zambia
  No evidence indicating that the government is de-facto limiting media reporting about non-Covid-19 related news with reference to the pandemic was found. 
 
 *Sources*:
- https://rsf.org/en/zambia
-https://ipi.media/zambia
-https://cpj.org/africa/zambia/
-https://www.bbc.co.uk/news/topics/cdl8n2edezlt/zambia
+ https://perma.cc/4ZFC-CDEL
+https://perma.cc/3VFM-5KS9
+https://perma.cc/PHU4-27Z2
+https://perma.cc/83SV-P4VV
 
 
 
@@ -1057,10 +1085,10 @@ https://www.bbc.co.uk/news/topics/cdl8n2edezlt/zambia
  No evidence indicating that the government and its agents limits media access to Covid-19 related information was found. 
 
 *Sources*:
- https://rsf.org/en/zambia
-https://ipi.media/zambia
-https://cpj.org/africa/zambia/
-https://www.bbc.co.uk/news/topics/cdl8n2edezlt/zambia
+ https://perma.cc/4ZFC-CDEL
+https://perma.cc/3VFM-5KS9
+https://perma.cc/PHU4-27Z2
+https://perma.cc/83SV-P4VV
 
 
 
@@ -1102,10 +1130,10 @@ https://www.bbc.co.uk/news/topics/cdl8n2edezlt/zambia
  No evidence indicating that the government and its agents have verbally harassed journalists reporting about Covid-19 was found. 
 
 *Sources*:
- https://rsf.org/en/zambia
-https://ipi.media/zambia
-https://cpj.org/africa/zambia/
-https://www.bbc.co.uk/news/topics/cdl8n2edezlt/zambia
+ https://perma.cc/4ZFC-CDEL
+https://perma.cc/3VFM-5KS9
+https://perma.cc/PHU4-27Z2
+https://perma.cc/83SV-P4VV
 
 
 
@@ -1147,10 +1175,10 @@ https://www.bbc.co.uk/news/topics/cdl8n2edezlt/zambia
  No evidence indicating that the government and its agents have physically harassed journalists reporting about Covid-19 was found. 
 
 *Sources*:
- https://rsf.org/en/zambia
-https://ipi.media/zambia
-https://cpj.org/africa/zambia/
-https://www.bbc.co.uk/news/topics/cdl8n2edezlt/zambia
+ https://perma.cc/4ZFC-CDEL
+https://perma.cc/3VFM-5KS9
+https://perma.cc/PHU4-27Z2
+https://perma.cc/83SV-P4VV
 
 
 
@@ -1194,8 +1222,8 @@ https://www.bbc.co.uk/news/topics/cdl8n2edezlt/zambia
  The Zambian government's Covid-19 information is similar to that of the WHO. 
 
 *Sources*:
- https://www.moh.gov.zm/
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+ https://perma.cc/46KX-DFH5
+https://perma.cc/A6XW-ADHF
 
 
 
@@ -1243,17 +1271,23 @@ On 27 September 2020, police shot a man dead when they were enforcing curfew res
 In January 2021, President Lungu issued a press statement saying that the abusive enforcement of Covid-19 regulations by security officials is "regrettable" (4). Nevertheless, police spokespersons have been on record stating that "We hammer you, we hit you, then we do detention. If you escape, you are lucky" (5) and that "police will not tolerate being dared" (6) concerning political rallies that go against Covid-19 restrictions. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/zambia/
+ https://perma.cc/3VC9-CJDE
 (1)
-https://www.garda.com/crisis24/news-alerts/344951/zambia-riots-reported-in-nakonde-over-lockdown-measures-may-20
+
+https://perma.cc/M2CF-GLKY
 (2)
-https://www.parliament.gov.zm/sites/default/files/images/publication_docs/Ministerial%20Statement%20on%20Police%20Shootings%20in%20Lusaka%20and%20North-Western%20Provinces%20and%20Phase%20II%20of%20Mobile%20Issuance%20National%20Registration%20Cards.pdf
+
+https://perma.cc/FY8M-ZYJU
 (3)
-https://www.sh.gov.zm/?wpfb_dl=286
+
+https://perma.cc/K6TX-MBXT
 (4)
-https://www.justice.gov/eoir/page/file/1345736/download
+
+https://web.archive.org/web/20210501201132/https://www.justice.gov/eoir/page/file/1345736/download
+
 (5)
-https://www.lusakatimes.com/2021/05/29/charity-katanga-warns-political-players-not-to-dare-the-zambia-police-by-defying-covid-19-protocols/
+
+https://perma.cc/9P2A-MV43
 (6)
 
 
@@ -1297,5 +1331,5 @@ https://www.lusakatimes.com/2021/05/29/charity-katanga-warns-political-players-n
 
 *Sources*:
  https://perma.cc/E5GL-2RXM
-https://www.bbc.com/news/topics/cdl8n2edezlt/zambia
-https://www.reuters.com/search/news?blob=Zambia&sortBy=date&dateRange=all
+https://perma.cc/83SV-P4VV
+https://perma.cc/C2QV-7ZCU

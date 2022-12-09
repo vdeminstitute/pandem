@@ -46,23 +46,23 @@
 
 *Sources*:
  [1]
-https://www.minfin.gob.gt/images/calamidad/documentos/Decreto%20No%205-2020%20-%20COVID-19.pdf
-
+perma.cc/QM2E-C68R
 [2]
-https://www.cpd.gob.gt/post/acuerdo-ministerial-no-229-2020
+https://web.archive.org/web/20201027090903/https://www.cpd.gob.gt/post/acuerdo-ministerial-no-229-2020
 [3]
 https://www.mspas.gob.gt/component/jdownloads/category/784-acuerdo-gubernativo-no-150-2020.html?Itemid=-1
 [4]
-https://www.mspas.gob.gt/noticias/noticias-ultimas/5-noticias-mspas/1076-medidas-de-prevenci%C3%B3n-para-evitar-contagios-por-covid-19-son-obligatorias-para-toda-la-poblaci%C3%B3n.html
+https://web.archive.org/web/20201010121045/https://www.mspas.gob.gt/noticias/noticias-ultimas/5-noticias-mspas/1076-medidas-de-prevenci<97>n-para-evitar-contagios-por-covid-19-son-obligatorias-para-toda-la-poblaci<97>n.html
+
 [5]
 https://www.mspas.gob.gt/component/jdownloads/send/883-2021/8291-acuerdo-ministerial-no-87-2021.html
 
 [6]
 https://www.mspas.gob.gt/component/jdownloads/send/883-2021/7949-am-73-2021.html
 [7]
-https://www.guatemala.com/fotos/2021/04/DECRETO-GUBERNATIVO-4-2021.pdf
+perma.cc/P9DZ-MWKA
 [8]
-https://www.prensalibre.com/guatemala/comunitario/giammattei-impone-estado-de-prevencion-por-el-coronavirus-estas-son-las-nuevas-disposiciones-breaking/
+perma.cc/JH57-8QCP
 
 
 
@@ -102,9 +102,9 @@ https://www.prensalibre.com/guatemala/comunitario/giammattei-impone-estado-de-pr
 
 *Sources*:
  [1]
-https://www.oas.org/dil/esp/Constitucion_Guatemala.pdf
+perma.cc/68MA-KJCR
 [2]
-https://mingob.gob.gt/wp-content/uploads/2016/01/04-marco-constitucional.pdf
+https://web.archive.org/web/20200320182129/https://mingob.gob.gt/wp-content/uploads/2016/01/04-marco-constitucional.pdf
 
 
 
@@ -144,9 +144,9 @@ https://mingob.gob.gt/wp-content/uploads/2016/01/04-marco-constitucional.pdf
 
 *Sources*:
  [1]
-https://www.minfin.gob.gt/images/calamidad/documentos/Decreto%20No%205-2020%20-%20COVID-19.pdf
-[1]
-https://www.guatemala.com/fotos/2021/04/DECRETO-GUBERNATIVO-4-2021.pdf
+perma.cc/5LZY-CR7C
+[2]
+perma.cc/9KUV-P87V
 
 
 
@@ -188,11 +188,12 @@ https://www.guatemala.com/fotos/2021/04/DECRETO-GUBERNATIVO-4-2021.pdf
  [1]
 https://consortiumlegal.com/documentos/COVID-19/documentos/GT/DECRETO%20DEL%20CONGRESO%2029-2020.pdf
 [2]
-https://twitter.com/GuatemalaGob/status/1310997570936864768
+https://perma.cc/76XH-VA6T
 [3]
-https://www.prensalibre.com/guatemala/politica/estado-de-calamidad-gobierno-anuncia-que-no-pedira-otra-prorroga-breaking/
+https://perma.cc/8GNW-JBW8
 [4]
 https://www.mspas.gob.gt/component/jdownloads/send/883-2021/7949-am-73-2021.html
+
 
 
 
@@ -235,11 +236,11 @@ https://www.mspas.gob.gt/component/jdownloads/send/883-2021/7949-am-73-2021.html
 
 *Sources*:
  [1]
-https://www.oas.org/dil/esp/Constitucion_Guatemala.pdf
+perma.cc/JR4N-JPLP
 [2]
-https://republica.gt/2020/08/27/congreso-avala-estado-de-calamidad-hasta-el-5-de-octubre/
+perma.cc/J5VP-NWWW
 [3]
-https://www.guatemala.com/fotos/2021/04/DECRETO-GUBERNATIVO-4-2021.pdf
+perma.cc/CNA8-CTXF
 
 
 
@@ -279,15 +280,15 @@ https://www.guatemala.com/fotos/2021/04/DECRETO-GUBERNATIVO-4-2021.pdf
 
 *Sources*:
  [1]
-https://www.minfin.gob.gt/images/calamidad/documentos/Decreto%20No%205-2020%20-%20COVID-19.pdf
+https://perma.cc/Y8LU-XJ2S
 [2]
 https://consortiumlegal.com/documentos/COVID-19/documentos/GT/DECRETO%20GUBERNATIVO%2017-2020%20(200826).pdf
 [3]
 https://consortiumlegal.com/documentos/COVID-19/documentos/GT/DECRETO%20DEL%20CONGRESO%2029-2020.pdf
 [4]
-https://www.blplegal.com/es/Disposiciones-normativas-COVID19-Coronavirus-Guatemala
+https://web.archive.org/web/20200424092648/https://www.blplegal.com/es/Disposiciones-normativas-COVID19-Coronavirus-Guatemala
 [5]
-https://www.guatemala.com/fotos/2021/04/DECRETO-GUBERNATIVO-4-2021.pdf
+perma.cc/NW3A-9EPG
 
 
 
@@ -330,9 +331,9 @@ https://www.guatemala.com/fotos/2021/04/DECRETO-GUBERNATIVO-4-2021.pdf
 
 *Sources*:
  [1]
-https://www.oas.org/dil/esp/Constitucion_Guatemala.pdf
+perma.cc/SCW5-NM3C
 [2]
-http://www.cicad.oas.org/fortalecimiento_institucional/legislations/pdf/gt/decreto_congresional_90-97.pdf
+perma.cc/95LA-3XCP
 
 
 
@@ -377,7 +378,7 @@ http://www.cicad.oas.org/fortalecimiento_institucional/legislations/pdf/gt/decre
  [1]
 https://consortiumlegal.com/documentos/COVID-19/documentos/GT/DECRETO%20DEL%20CONGRESO%2029-2020.pdf
 [2]
-https://republica.gt/2020/08/27/congreso-avala-estado-de-calamidad-hasta-el-5-de-octubre/
+perma.cc/HDZ5-LBLE
 
 
 
@@ -424,9 +425,9 @@ https://republica.gt/2020/08/27/congreso-avala-estado-de-calamidad-hasta-el-5-de
 
 *Sources*:
  [1]
-http://ww2.oj.gob.gt/uci/images/leyes/decreto_numero_7.pdf
+perma.cc/AG5F-RFSA
 [2]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+perma.cc/D5AR-KM73
 
 
 
@@ -549,7 +550,7 @@ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
 
 *Sources*:
  [1]
-https://www.minfin.gob.gt/images/calamidad/documentos/Decreto%20No%205-2020%20-%20COVID-19.pdf
+perma.cc/S4NH-S9YF
 [2]
 https://consortiumlegal.com/documentos/COVID-19/documentos/GT/DECRETO%20GUBERNATIVO%2017-2020%20(200826).pdf
 
@@ -596,11 +597,11 @@ https://consortiumlegal.com/documentos/COVID-19/documentos/GT/DECRETO%20GUBERNAT
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/guatemala/
+https://perma.cc/P7TD-QE9G
 [2]
-https://www.hrw.org/americas/guatemala
+https://perma.cc/R73R-P9VN
 [3]
-https://monitor.civicus.org/country/guatemala/
+https://perma.cc/ZFN6-2A3B
 
 
 
@@ -650,11 +651,11 @@ https://monitor.civicus.org/country/guatemala/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/guatemala/
+perma.cc/6LZ5-4JJ3
 [2]
-https://www.hrw.org/americas/guatemala
+perma.cc/JF3A-EWKN
 [3]
-https://monitor.civicus.org/country/guatemala/
+perma.cc/PM8P-G9CG
 
 
 
@@ -699,9 +700,9 @@ https://monitor.civicus.org/country/guatemala/
 
 *Sources*:
  [1]
-https://www.minfin.gob.gt/images/calamidad/documentos/Decreto%20No%205-2020%20-%20COVID-19.pdf
+perma.cc/65TQ-ZKTC
 [2]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/MXU8-HNDN
 
 
 
@@ -822,10 +823,9 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
 *Sources*:
  [1]
-https://rsf.org/en/guatemala
-
+perma.cc/UV5D-SXYN
 [2]
-https://www.hrw.org/news/2021/02/18/guatemala-free-press-under-attack
+perma.cc/LHN8-EUGR
 
 
 
@@ -868,10 +868,9 @@ https://www.hrw.org/news/2021/02/18/guatemala-free-press-under-attack
 
 *Sources*:
  [1]
-https://rsf.org/en/guatemala
-
+perma.cc/UV5D-SXYN
 [2]
-https://www.hrw.org/news/2021/02/18/guatemala-free-press-under-attack
+perma.cc/LHN8-EUGR
 
 
 
@@ -914,13 +913,14 @@ https://www.hrw.org/news/2021/02/18/guatemala-free-press-under-attack
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/T6BV-TX3F
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/SV69-VJHS
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/M5H4-CSS4
 [4]
-https://cpj.org/americas/guatemala/
+perma.cc/34T2-2Q7T
+
 
 
 
@@ -964,26 +964,23 @@ https://cpj.org/americas/guatemala/
 
 *Sources*:
  [1]
-https://rsf.org/en/news/guatemala-dont-put-guatemalan-press-quarantine
+perma.cc/46NH-CMZN
 [2]
-https://monitor.civicus.org/updates/2020/05/12/journalists-denounce-guatemala-government-hostility-towards-press/
+perma.cc/R8W4-VQ22
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/CC8C-UZV4
 [4]
-https://www.pdh.org.gt/57-20-el-procurador-de-los-derechos-humanos-jordan-rodas-andrade-manifiesta-que-ante-la-emergencia-sanitaria-es-vital-mantener-una-comunicacion-gubernamental-abierta-directa-y-continua-con-la-prensa/
+perma.cc/E4W3-LZCQ
 [5]
-https://www.sipiapa.org/notas/1213881-la-sip-exhorta-al-gobierno-guatemala-respetar-el-trabajo-los-periodistas
-
+perma.cc/43ES-HA73
 [6]
-https://www.prensalibre.com/guatemala/comunitario/manifestantes-piden-eleccion-de-magistrados-y-transparencia-en-uso-de-recursos-para-la-emergencia/
-
+perma.cc/9AVS-4UQB
 [7]
-https://media.sipiapa.org/adjuntos/185/documentos/001/832/0001832515.pdf
-
+perma.cc/M3VJ-ZXNP
 [8]
-https://drive.google.com/file/d/1HFwdm3DfMqqRIphjH5Ke6CyGsi2MjJ6d/view
-[9]
-https://www.hrw.org/news/2021/02/18/guatemala-free-press-under-attack
+perma.cc/2QG2-M9PP
+[9[
+perma.cc/2HU8-PCEL
 
 
 
@@ -1026,15 +1023,15 @@ https://www.hrw.org/news/2021/02/18/guatemala-free-press-under-attack
 
 *Sources*:
  [1]
-https://www.prensalibre.com/guatemala/comunitario/dia-de-la-libertad-de-prensa-apg-revela-informe-sobre-libertad-de-expresion-en-guatemala/
+perma.cc/49MK-W34Q
 [2]
-https://elperiodico.com.gt/nacion/2020/04/13/reportero-de-san-marcos-fue-intimidado-por-la-policia2/
+https://perma.cc/6977-9PQP
 [3]
-https://web.archive.org/web/20200809194505/https://www.pdh.org.gt/pdh-da-seguimiento-a-agresion-sufrida-por-periodista-en-cunen-quiche/
+perma.cc/PJP6-M8CC
 [4]
-https://web.archive.org/web/20200707231741/https://www.pdh.org.gt/brindan-seguimiento-a-denuncia-interpuesta-por-periodista-de-huehuetenango/
+perma.cc/G7W7-WGTQ
 [5]
-https://www.hrw.org/news/2021/02/18/guatemala-free-press-under-attack
+perma.cc/4YCV-85XP
 
 
 
@@ -1077,11 +1074,11 @@ https://www.hrw.org/news/2021/02/18/guatemala-free-press-under-attack
 
 *Sources*:
  [1]
-https://www.prensalibre.com/guatemala/comunitario/dia-de-la-libertad-de-prensa-apg-revela-informe-sobre-libertad-de-expresion-en-guatemala/
+perma.cc/5D47-YUJX
 [2]
-https://web.archive.org/web/20200707231741/https://www.pdh.org.gt/brindan-seguimiento-a-denuncia-interpuesta-por-periodista-de-huehuetenango/
+perma.cc/K8NC-VGMC
 [3]
-https://web.archive.org/web/20200815111222/https://www.pdh.org.gt/dan-seguimiento-a-denuncias-interpuestas-por-periodistas/
+perma.cc/8NBS-F42L
 
 
 
@@ -1126,9 +1123,9 @@ https://web.archive.org/web/20200815111222/https://www.pdh.org.gt/dan-seguimient
 
 *Sources*:
  [1]
-https://www.mspas.gob.gt/index.php/noticias/covid-19/coronavirus-2019-ncov
+https://web.archive.org/web/20200412030741/https://www.mspas.gob.gt/index.php/noticias/covid-19/coronavirus-2019-ncov
 [2]
-https://cnnespanol.cnn.com/video/guatemala-manuel-sagastume-covid19-coronavirus-entrevista-fernando-del-rincon-conclusiones/
+perma.cc/W72N-99WS
 
 
 
@@ -1173,7 +1170,7 @@ https://cnnespanol.cnn.com/video/guatemala-manuel-sagastume-covid19-coronavirus-
 
 *Sources*:
  [1]
-https://www.prensalibre.com/guatemala/comunitario/dia-de-la-libertad-de-prensa-apg-revela-informe-sobre-libertad-de-expresion-en-guatemala/
+perma.cc/V463-K7WX
 
 
 
@@ -1216,6 +1213,7 @@ https://www.prensalibre.com/guatemala/comunitario/dia-de-la-libertad-de-prensa-a
 
 *Sources*:
  [1]
-https://igm.gob.gt/wp-content/uploads/2020/03/1927_001.pdf
+perma.cc/VRL2-8H39
 [2]
-https://www.elpais.cr/2020/05/15/guatemaltecos-asumen-cuarentena-total-y-obligatoria-por-covid-19/
+perma.cc/W4V2-YSCC
+

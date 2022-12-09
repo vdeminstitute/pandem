@@ -45,35 +45,46 @@
  There have been several emergency measures in Qatar, such as closing cinemas, theatres, children’s play areas, gyms and wedding venues, including those in hotels; stopping all flights; stopping public transportation; distance teaching in schools. No reference to any legal instrument has been found when implementing these measures. The measures were eased in phases starting on June 15 2020, and were relatively relaxed during the fall and winter. In February 2021, harder restrictions were reimposed and many continue to be in effect although some easing of these were introduced in May 2021. Again, no reference to any legal instrument has been found, and this is therefore coded as 5 for all periods. 
 
 *Sources*:
- https://portal.www.gov.qa/wps/portal/media-center/news/news-details/hhtheamirdirectsthestartofimplementingapackageofdecisionsandmeasurestocombatthespreadofcoronavirus
+ https://perma.cc/QC79-K86Y
 
-https://www.gco.gov.qa/en/2020/03/12/government-communications-office-statement-regarding-measures-taken-by-the-state-of-qatar-to-combat-coronavirus-Covid-19/
 
-https://www.garda.com/crisis24/news-alerts/328506/qatar-domestic-restrictions-extended-april-1-update-15
+https://perma.cc/TZN5-KU3U
 
-https://www.garda.com/crisis24/news-alerts/324061/qatar-domestic-restrictions-implemented-march-16-update-14
 
-https://portal.www.gov.qa/wps/portal/media-center/news/news-details/detailsofthirdstageofliftingcovisninteenrestrictionsinqatar?searchText=covid
+https://perma.cc/2AN2-HDKN
 
-https://portal.www.gov.qa/wps/portal/media-center/news/news-details/supremecommitteeforcrisismanagementannouncesstartofparttwoofphasefourofliftingcovidnineteenrestrictionsfromtuesday?searchText=covid
 
-https://www.garda.com/crisis24/news-alerts/388831/qatar-officials-extend-quarantine-restrictions-for-arrivals-until-december-31-update-25
+https://perma.cc/M7GS-4ZP7
 
-https://www.gco.gov.qa/en/top-news/statement-supreme-committee-containing-Covid-19/
 
-https://www.garda.com/crisis24/news-alerts/482266/qatar-authorities-to-ease-Covid-19-restrictions-in-four-phases-starting-may-28-update-28
+https://perma.cc/B692-KN9V
 
-https://www.garda.com/crisis24/news-alerts/464616/qatar-authorities-to-further-tighten-Covid-19-restrictions-from-april-9-update-25
 
-https://www.garda.com/crisis24/news-alerts/438611/qatar-authorities-to-reimpose-some-Covid-19-restrictions-nationwide-from-feb-4-update-22
+https://perma.cc/E3FM-RAQ7
 
-https://qa.usembassy.gov/Covid-19-information-11/
 
-https://www.gco.gov.qa/en/focus/Covid-19/
+https://perma.cc/7L8C-RA7L
 
-https://covid19.moph.gov.qa/EN/Precautions-for-lifting-restrictions/Pages/default.aspx
 
- 
+https://perma.cc/Y7K9-K2Z8
+
+
+https://perma.cc/MKM8-S6D5
+
+
+https://perma.cc/B9AB-3AWF
+
+
+https://perma.cc/9L8N-U65E
+
+
+https://perma.cc/MX2W-2XVB
+
+
+https://perma.cc/V3E4-DPBZ
+
+
+https://perma.cc/CRX3-LNPR
 
 
 
@@ -112,35 +123,46 @@ https://covid19.moph.gov.qa/EN/Precautions-for-lifting-restrictions/Pages/defaul
  Not coded as no reference to any legal instrument was found in emergency measures. 
 
 *Sources*:
- https://portal.www.gov.qa/wps/portal/media-center/news/news-details/hhtheamirdirectsthestartofimplementingapackageofdecisionsandmeasurestocombatthespreadofcoronavirus
+ https://perma.cc/QC79-K86Y
 
-https://www.gco.gov.qa/en/2020/03/12/government-communications-office-statement-regarding-measures-taken-by-the-state-of-qatar-to-combat-coronavirus-Covid-19/
 
-https://www.garda.com/crisis24/news-alerts/328506/qatar-domestic-restrictions-extended-april-1-update-15
+https://perma.cc/TZN5-KU3U
 
-https://www.garda.com/crisis24/news-alerts/324061/qatar-domestic-restrictions-implemented-march-16-update-14
 
-https://portal.www.gov.qa/wps/portal/media-center/news/news-details/detailsofthirdstageofliftingcovisninteenrestrictionsinqatar?searchText=covid
+https://perma.cc/2AN2-HDKN
 
-https://portal.www.gov.qa/wps/portal/media-center/news/news-details/supremecommitteeforcrisismanagementannouncesstartofparttwoofphasefourofliftingcovidnineteenrestrictionsfromtuesday?searchText=covid
 
-https://www.garda.com/crisis24/news-alerts/388831/qatar-officials-extend-quarantine-restrictions-for-arrivals-until-december-31-update-25
+https://perma.cc/M7GS-4ZP7
 
-https://www.gco.gov.qa/en/top-news/statement-supreme-committee-containing-Covid-19/
 
-https://www.garda.com/crisis24/news-alerts/482266/qatar-authorities-to-ease-Covid-19-restrictions-in-four-phases-starting-may-28-update-28
+https://perma.cc/B692-KN9V
 
-https://www.garda.com/crisis24/news-alerts/464616/qatar-authorities-to-further-tighten-Covid-19-restrictions-from-april-9-update-25
 
-https://www.garda.com/crisis24/news-alerts/438611/qatar-authorities-to-reimpose-some-Covid-19-restrictions-nationwide-from-feb-4-update-22
+https://perma.cc/E3FM-RAQ7
 
-https://qa.usembassy.gov/Covid-19-information-11/
 
-https://www.gco.gov.qa/en/focus/Covid-19/
+https://perma.cc/7L8C-RA7L
 
-https://covid19.moph.gov.qa/EN/Precautions-for-lifting-restrictions/Pages/default.aspx
 
- 
+https://perma.cc/Y7K9-K2Z8
+
+
+https://perma.cc/MKM8-S6D5
+
+
+https://perma.cc/B9AB-3AWF
+
+
+https://perma.cc/9L8N-U65E
+
+
+https://perma.cc/MX2W-2XVB
+
+
+https://perma.cc/V3E4-DPBZ
+
+
+https://perma.cc/CRX3-LNPR
 
 
 
@@ -179,35 +201,46 @@ https://covid19.moph.gov.qa/EN/Precautions-for-lifting-restrictions/Pages/defaul
  Not coded as no reference to any legal instrument was found in emergency measures. 
 
 *Sources*:
- https://portal.www.gov.qa/wps/portal/media-center/news/news-details/hhtheamirdirectsthestartofimplementingapackageofdecisionsandmeasurestocombatthespreadofcoronavirus
+ https://perma.cc/QC79-K86Y
 
-https://www.gco.gov.qa/en/2020/03/12/government-communications-office-statement-regarding-measures-taken-by-the-state-of-qatar-to-combat-coronavirus-Covid-19/
 
-https://www.garda.com/crisis24/news-alerts/328506/qatar-domestic-restrictions-extended-april-1-update-15
+https://perma.cc/TZN5-KU3U
 
-https://www.garda.com/crisis24/news-alerts/324061/qatar-domestic-restrictions-implemented-march-16-update-14
 
-https://portal.www.gov.qa/wps/portal/media-center/news/news-details/detailsofthirdstageofliftingcovisninteenrestrictionsinqatar?searchText=covid
+https://perma.cc/2AN2-HDKN
 
-https://portal.www.gov.qa/wps/portal/media-center/news/news-details/supremecommitteeforcrisismanagementannouncesstartofparttwoofphasefourofliftingcovidnineteenrestrictionsfromtuesday?searchText=covid
 
-https://www.garda.com/crisis24/news-alerts/388831/qatar-officials-extend-quarantine-restrictions-for-arrivals-until-december-31-update-25
+https://perma.cc/M7GS-4ZP7
 
-https://www.gco.gov.qa/en/top-news/statement-supreme-committee-containing-Covid-19/
 
-https://www.garda.com/crisis24/news-alerts/482266/qatar-authorities-to-ease-Covid-19-restrictions-in-four-phases-starting-may-28-update-28
+https://perma.cc/B692-KN9V
 
-https://www.garda.com/crisis24/news-alerts/464616/qatar-authorities-to-further-tighten-Covid-19-restrictions-from-april-9-update-25
 
-https://www.garda.com/crisis24/news-alerts/438611/qatar-authorities-to-reimpose-some-Covid-19-restrictions-nationwide-from-feb-4-update-22
+https://perma.cc/E3FM-RAQ7
 
-https://qa.usembassy.gov/Covid-19-information-11/
 
-https://www.gco.gov.qa/en/focus/Covid-19/
+https://perma.cc/7L8C-RA7L
 
-https://covid19.moph.gov.qa/EN/Precautions-for-lifting-restrictions/Pages/default.aspx
 
- 
+https://perma.cc/Y7K9-K2Z8
+
+
+https://perma.cc/MKM8-S6D5
+
+
+https://perma.cc/B9AB-3AWF
+
+
+https://perma.cc/9L8N-U65E
+
+
+https://perma.cc/MX2W-2XVB
+
+
+https://perma.cc/V3E4-DPBZ
+
+
+https://perma.cc/CRX3-LNPR
 
 
 
@@ -246,35 +279,46 @@ https://covid19.moph.gov.qa/EN/Precautions-for-lifting-restrictions/Pages/defaul
  Not coded as no reference to any legal instrument was found in emergency measures. 
 
 *Sources*:
- https://portal.www.gov.qa/wps/portal/media-center/news/news-details/hhtheamirdirectsthestartofimplementingapackageofdecisionsandmeasurestocombatthespreadofcoronavirus
+ https://perma.cc/QC79-K86Y
 
-https://www.gco.gov.qa/en/2020/03/12/government-communications-office-statement-regarding-measures-taken-by-the-state-of-qatar-to-combat-coronavirus-Covid-19/
 
-https://www.garda.com/crisis24/news-alerts/328506/qatar-domestic-restrictions-extended-april-1-update-15
+https://perma.cc/TZN5-KU3U
 
-https://www.garda.com/crisis24/news-alerts/324061/qatar-domestic-restrictions-implemented-march-16-update-14
 
-https://portal.www.gov.qa/wps/portal/media-center/news/news-details/detailsofthirdstageofliftingcovisninteenrestrictionsinqatar?searchText=covid
+https://perma.cc/2AN2-HDKN
 
-https://portal.www.gov.qa/wps/portal/media-center/news/news-details/supremecommitteeforcrisismanagementannouncesstartofparttwoofphasefourofliftingcovidnineteenrestrictionsfromtuesday?searchText=covid
 
-https://www.garda.com/crisis24/news-alerts/388831/qatar-officials-extend-quarantine-restrictions-for-arrivals-until-december-31-update-25
+https://perma.cc/M7GS-4ZP7
 
-https://www.gco.gov.qa/en/top-news/statement-supreme-committee-containing-Covid-19/
 
-https://www.garda.com/crisis24/news-alerts/482266/qatar-authorities-to-ease-Covid-19-restrictions-in-four-phases-starting-may-28-update-28
+https://perma.cc/B692-KN9V
 
-https://www.garda.com/crisis24/news-alerts/464616/qatar-authorities-to-further-tighten-Covid-19-restrictions-from-april-9-update-25
 
-https://www.garda.com/crisis24/news-alerts/438611/qatar-authorities-to-reimpose-some-Covid-19-restrictions-nationwide-from-feb-4-update-22
+https://perma.cc/E3FM-RAQ7
 
-https://qa.usembassy.gov/Covid-19-information-11/
 
-https://www.gco.gov.qa/en/focus/Covid-19/
+https://perma.cc/7L8C-RA7L
 
-https://covid19.moph.gov.qa/EN/Precautions-for-lifting-restrictions/Pages/default.aspx
 
- 
+https://perma.cc/Y7K9-K2Z8
+
+
+https://perma.cc/MKM8-S6D5
+
+
+https://perma.cc/B9AB-3AWF
+
+
+https://perma.cc/9L8N-U65E
+
+
+https://perma.cc/MX2W-2XVB
+
+
+https://perma.cc/V3E4-DPBZ
+
+
+https://perma.cc/CRX3-LNPR
 
 
 
@@ -316,35 +360,46 @@ https://covid19.moph.gov.qa/EN/Precautions-for-lifting-restrictions/Pages/defaul
  Not coded as no reference to any legal instrument was found in emergency measures. 
 
 *Sources*:
- https://portal.www.gov.qa/wps/portal/media-center/news/news-details/hhtheamirdirectsthestartofimplementingapackageofdecisionsandmeasurestocombatthespreadofcoronavirus
+ https://perma.cc/QC79-K86Y
 
-https://www.gco.gov.qa/en/2020/03/12/government-communications-office-statement-regarding-measures-taken-by-the-state-of-qatar-to-combat-coronavirus-Covid-19/
 
-https://www.garda.com/crisis24/news-alerts/328506/qatar-domestic-restrictions-extended-april-1-update-15
+https://perma.cc/TZN5-KU3U
 
-https://www.garda.com/crisis24/news-alerts/324061/qatar-domestic-restrictions-implemented-march-16-update-14
 
-https://portal.www.gov.qa/wps/portal/media-center/news/news-details/detailsofthirdstageofliftingcovisninteenrestrictionsinqatar?searchText=covid
+https://perma.cc/2AN2-HDKN
 
-https://portal.www.gov.qa/wps/portal/media-center/news/news-details/supremecommitteeforcrisismanagementannouncesstartofparttwoofphasefourofliftingcovidnineteenrestrictionsfromtuesday?searchText=covid
 
-https://www.garda.com/crisis24/news-alerts/388831/qatar-officials-extend-quarantine-restrictions-for-arrivals-until-december-31-update-25
+https://perma.cc/M7GS-4ZP7
 
-https://www.gco.gov.qa/en/top-news/statement-supreme-committee-containing-Covid-19/
 
-https://www.garda.com/crisis24/news-alerts/482266/qatar-authorities-to-ease-Covid-19-restrictions-in-four-phases-starting-may-28-update-28
+https://perma.cc/B692-KN9V
 
-https://www.garda.com/crisis24/news-alerts/464616/qatar-authorities-to-further-tighten-Covid-19-restrictions-from-april-9-update-25
 
-https://www.garda.com/crisis24/news-alerts/438611/qatar-authorities-to-reimpose-some-Covid-19-restrictions-nationwide-from-feb-4-update-22
+https://perma.cc/E3FM-RAQ7
 
-https://qa.usembassy.gov/Covid-19-information-11/
 
-https://www.gco.gov.qa/en/focus/Covid-19/
+https://perma.cc/7L8C-RA7L
 
-https://covid19.moph.gov.qa/EN/Precautions-for-lifting-restrictions/Pages/default.aspx
 
- 
+https://perma.cc/Y7K9-K2Z8
+
+
+https://perma.cc/MKM8-S6D5
+
+
+https://perma.cc/B9AB-3AWF
+
+
+https://perma.cc/9L8N-U65E
+
+
+https://perma.cc/MX2W-2XVB
+
+
+https://perma.cc/V3E4-DPBZ
+
+
+https://perma.cc/CRX3-LNPR
 
 
 
@@ -383,35 +438,46 @@ https://covid19.moph.gov.qa/EN/Precautions-for-lifting-restrictions/Pages/defaul
  Not coded as no reference to any legal instrument was found in emergency measures. 
 
 *Sources*:
- https://portal.www.gov.qa/wps/portal/media-center/news/news-details/hhtheamirdirectsthestartofimplementingapackageofdecisionsandmeasurestocombatthespreadofcoronavirus
+ https://perma.cc/QC79-K86Y
 
-https://www.gco.gov.qa/en/2020/03/12/government-communications-office-statement-regarding-measures-taken-by-the-state-of-qatar-to-combat-coronavirus-Covid-19/
 
-https://www.garda.com/crisis24/news-alerts/328506/qatar-domestic-restrictions-extended-april-1-update-15
+https://perma.cc/TZN5-KU3U
 
-https://www.garda.com/crisis24/news-alerts/324061/qatar-domestic-restrictions-implemented-march-16-update-14
 
-https://portal.www.gov.qa/wps/portal/media-center/news/news-details/detailsofthirdstageofliftingcovisninteenrestrictionsinqatar?searchText=covid
+https://perma.cc/2AN2-HDKN
 
-https://portal.www.gov.qa/wps/portal/media-center/news/news-details/supremecommitteeforcrisismanagementannouncesstartofparttwoofphasefourofliftingcovidnineteenrestrictionsfromtuesday?searchText=covid
 
-https://www.garda.com/crisis24/news-alerts/388831/qatar-officials-extend-quarantine-restrictions-for-arrivals-until-december-31-update-25
+https://perma.cc/M7GS-4ZP7
 
-https://www.gco.gov.qa/en/top-news/statement-supreme-committee-containing-Covid-19/
 
-https://www.garda.com/crisis24/news-alerts/482266/qatar-authorities-to-ease-Covid-19-restrictions-in-four-phases-starting-may-28-update-28
+https://perma.cc/B692-KN9V
 
-https://www.garda.com/crisis24/news-alerts/464616/qatar-authorities-to-further-tighten-Covid-19-restrictions-from-april-9-update-25
 
-https://www.garda.com/crisis24/news-alerts/438611/qatar-authorities-to-reimpose-some-Covid-19-restrictions-nationwide-from-feb-4-update-22
+https://perma.cc/E3FM-RAQ7
 
-https://qa.usembassy.gov/Covid-19-information-11/
 
-https://www.gco.gov.qa/en/focus/Covid-19/
+https://perma.cc/7L8C-RA7L
 
-https://covid19.moph.gov.qa/EN/Precautions-for-lifting-restrictions/Pages/default.aspx
 
- 
+https://perma.cc/Y7K9-K2Z8
+
+
+https://perma.cc/MKM8-S6D5
+
+
+https://perma.cc/B9AB-3AWF
+
+
+https://perma.cc/9L8N-U65E
+
+
+https://perma.cc/MX2W-2XVB
+
+
+https://perma.cc/V3E4-DPBZ
+
+
+https://perma.cc/CRX3-LNPR
 
 
 
@@ -453,35 +519,46 @@ https://covid19.moph.gov.qa/EN/Precautions-for-lifting-restrictions/Pages/defaul
  Not coded as no reference to any legal instrument was found in emergency measures. 
 
 *Sources*:
- https://portal.www.gov.qa/wps/portal/media-center/news/news-details/hhtheamirdirectsthestartofimplementingapackageofdecisionsandmeasurestocombatthespreadofcoronavirus
+ https://perma.cc/QC79-K86Y
 
-https://www.gco.gov.qa/en/2020/03/12/government-communications-office-statement-regarding-measures-taken-by-the-state-of-qatar-to-combat-coronavirus-Covid-19/
 
-https://www.garda.com/crisis24/news-alerts/328506/qatar-domestic-restrictions-extended-april-1-update-15
+https://perma.cc/TZN5-KU3U
 
-https://www.garda.com/crisis24/news-alerts/324061/qatar-domestic-restrictions-implemented-march-16-update-14
 
-https://portal.www.gov.qa/wps/portal/media-center/news/news-details/detailsofthirdstageofliftingcovisninteenrestrictionsinqatar?searchText=covid
+https://perma.cc/2AN2-HDKN
 
-https://portal.www.gov.qa/wps/portal/media-center/news/news-details/supremecommitteeforcrisismanagementannouncesstartofparttwoofphasefourofliftingcovidnineteenrestrictionsfromtuesday?searchText=covid
 
-https://www.garda.com/crisis24/news-alerts/388831/qatar-officials-extend-quarantine-restrictions-for-arrivals-until-december-31-update-25
+https://perma.cc/M7GS-4ZP7
 
-https://www.gco.gov.qa/en/top-news/statement-supreme-committee-containing-Covid-19/
 
-https://www.garda.com/crisis24/news-alerts/482266/qatar-authorities-to-ease-Covid-19-restrictions-in-four-phases-starting-may-28-update-28
+https://perma.cc/B692-KN9V
 
-https://www.garda.com/crisis24/news-alerts/464616/qatar-authorities-to-further-tighten-Covid-19-restrictions-from-april-9-update-25
 
-https://www.garda.com/crisis24/news-alerts/438611/qatar-authorities-to-reimpose-some-Covid-19-restrictions-nationwide-from-feb-4-update-22
+https://perma.cc/E3FM-RAQ7
 
-https://qa.usembassy.gov/Covid-19-information-11/
 
-https://www.gco.gov.qa/en/focus/Covid-19/
+https://perma.cc/7L8C-RA7L
 
-https://covid19.moph.gov.qa/EN/Precautions-for-lifting-restrictions/Pages/default.aspx
 
- 
+https://perma.cc/Y7K9-K2Z8
+
+
+https://perma.cc/MKM8-S6D5
+
+
+https://perma.cc/B9AB-3AWF
+
+
+https://perma.cc/9L8N-U65E
+
+
+https://perma.cc/MX2W-2XVB
+
+
+https://perma.cc/V3E4-DPBZ
+
+
+https://perma.cc/CRX3-LNPR
 
 
 
@@ -523,35 +600,46 @@ https://covid19.moph.gov.qa/EN/Precautions-for-lifting-restrictions/Pages/defaul
  Not coded as no reference to any legal instrument was found in emergency measures. 
 
 *Sources*:
- https://portal.www.gov.qa/wps/portal/media-center/news/news-details/hhtheamirdirectsthestartofimplementingapackageofdecisionsandmeasurestocombatthespreadofcoronavirus
+ https://perma.cc/QC79-K86Y
 
-https://www.gco.gov.qa/en/2020/03/12/government-communications-office-statement-regarding-measures-taken-by-the-state-of-qatar-to-combat-coronavirus-Covid-19/
 
-https://www.garda.com/crisis24/news-alerts/328506/qatar-domestic-restrictions-extended-april-1-update-15
+https://perma.cc/TZN5-KU3U
 
-https://www.garda.com/crisis24/news-alerts/324061/qatar-domestic-restrictions-implemented-march-16-update-14
 
-https://portal.www.gov.qa/wps/portal/media-center/news/news-details/detailsofthirdstageofliftingcovisninteenrestrictionsinqatar?searchText=covid
+https://perma.cc/2AN2-HDKN
 
-https://portal.www.gov.qa/wps/portal/media-center/news/news-details/supremecommitteeforcrisismanagementannouncesstartofparttwoofphasefourofliftingcovidnineteenrestrictionsfromtuesday?searchText=covid
 
-https://www.garda.com/crisis24/news-alerts/388831/qatar-officials-extend-quarantine-restrictions-for-arrivals-until-december-31-update-25
+https://perma.cc/M7GS-4ZP7
 
-https://www.gco.gov.qa/en/top-news/statement-supreme-committee-containing-Covid-19/
 
-https://www.garda.com/crisis24/news-alerts/482266/qatar-authorities-to-ease-Covid-19-restrictions-in-four-phases-starting-may-28-update-28
+https://perma.cc/B692-KN9V
 
-https://www.garda.com/crisis24/news-alerts/464616/qatar-authorities-to-further-tighten-Covid-19-restrictions-from-april-9-update-25
 
-https://www.garda.com/crisis24/news-alerts/438611/qatar-authorities-to-reimpose-some-Covid-19-restrictions-nationwide-from-feb-4-update-22
+https://perma.cc/E3FM-RAQ7
 
-https://qa.usembassy.gov/Covid-19-information-11/
 
-https://www.gco.gov.qa/en/focus/Covid-19/
+https://perma.cc/7L8C-RA7L
 
-https://covid19.moph.gov.qa/EN/Precautions-for-lifting-restrictions/Pages/default.aspx
 
- 
+https://perma.cc/Y7K9-K2Z8
+
+
+https://perma.cc/MKM8-S6D5
+
+
+https://perma.cc/B9AB-3AWF
+
+
+https://perma.cc/9L8N-U65E
+
+
+https://perma.cc/MX2W-2XVB
+
+
+https://perma.cc/V3E4-DPBZ
+
+
+https://perma.cc/CRX3-LNPR
 
 
 
@@ -597,11 +685,13 @@ https://covid19.moph.gov.qa/EN/Precautions-for-lifting-restrictions/Pages/defaul
  The Shura Council is only a consultative assembly, not a legislature. This is therefore coded as 5. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#Q
+ https://perma.cc/VM6Z-N3V3
 
-https://www.constituteproject.org/constitution/Qatar_2003?lang=en
 
-https://data.ipu.org/node/137/law-making-oversight-budget?chamber_id=13576
+https://perma.cc/J2BN-HFKD
+
+
+https://perma.cc/M83A-FEHP
 
 
 
@@ -723,20 +813,25 @@ https://data.ipu.org/node/137/law-making-oversight-budget?chamber_id=13576
  In Q2 of 2020, there was a partial closure of the Industrial Area in Doha from 17 March 2020 for 2 weeks. Apart from that, no evidence of any sub-national variation has been found, and this is therefore coded as 1 for Q2 of 2020 and 0 for all other periods. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/324061/qatar-domestic-restrictions-implemented-march-16-update-14
-
-https://www.gco.gov.qa/en/2020/05/06/industrial-area/
+ https://perma.cc/WQ43-E4NG
 
 
-https://www.amnesty.org/en/latest/news/2020/03/qatar-migrant-workers-in-labour-camps-at-grave-risk-amid-covid19-crisis/
+https://perma.cc/842W-TK4T
 
-https://www.garda.com/crisis24/news-alerts/482266/qatar-authorities-to-ease-Covid-19-restrictions-in-four-phases-starting-may-28-update-28
 
-https://www.garda.com/crisis24/news-alerts/464616/qatar-authorities-to-further-tighten-Covid-19-restrictions-from-april-9-update-25
+https://perma.cc/VPC7-EGT3
 
-https://www.garda.com/crisis24/news-alerts/438611/qatar-authorities-to-reimpose-some-Covid-19-restrictions-nationwide-from-feb-4-update-22
 
-https://qa.usembassy.gov/Covid-19-information-11/
+https://perma.cc/KJN3-GKNT
+
+
+https://perma.cc/EZ5L-FS43
+
+
+https://perma.cc/D6V9-N9GR
+
+
+https://perma.cc/6H4K-RD2U
 
 
 
@@ -781,26 +876,16 @@ https://qa.usembassy.gov/Covid-19-information-11/
 For the latter periods, no evidence of any discrimination in the Covid-19 measures has been found from sources such as the US state department, Amnesty and Human Rights Watch. After Q2 of 2020, this is therefore coded 0. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/04/qatar-migrant-workers-illegally-expelled-during-covid19-pandemic/
-
-https://aineupstrmediaprd.blob.core.windows.net/media/23165/statement-to-amnesty-on-repatriation-of-nepalese-workers-in-qatarpdf.pdf
-
-https://www.theguardian.com/global-development/2020/mar/20/covid-19-lockdown-turns-qatars-largest-migrant-camp-into-virtual-prison
-
-
-https://www.amnesty.org/en/latest/news/2020/03/qatar-migrant-workers-in-labour-camps-at-grave-risk-amid-covid19-crisis/
-
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B694%5D&covid19=1
-
-https://www.hrw.org/news/2020/08/24/qatar-little-progress-protecting-migrant-workers
-
-https://www.euronews.com/2020/08/24/qatar-many-migrant-workers-not-paid-or-paid-too-late-report-claims
-
-https://www.hrw.org/world-report/2021/country-chapters/qatar
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qatar/
+ https://perma.cc/2J7X-BD74
+https://perma.cc/PQ74-M8U4
+https://perma.cc/M6CB-VCSE
+https://perma.cc/86XQ-2EZS
+https://perma.cc/F39L-ESD6
+https://perma.cc/V4TG-6EKB
+https://perma.cc/XPW6-U9AV
+https://perma.cc/7BMU-LWAP
+https://perma.cc/V335-MTQB
+https://perma.cc/744S-ALBU
 
 
 
@@ -849,21 +934,28 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qat
  No measures violating non-derogable rights found 
 
 *Sources*:
- https://www.gco.gov.qa/en/2020/03/12/government-communications-office-statement-regarding-measures-taken-by-the-state-of-qatar-to-combat-coronavirus-Covid-19/
+ https://perma.cc/SQ9F-NLCK
 
-https://www.garda.com/crisis24/news-alerts/328506/qatar-domestic-restrictions-extended-april-1-update-15
 
-https://www.garda.com/crisis24/news-alerts/324061/qatar-domestic-restrictions-implemented-march-16-update-14
+https://perma.cc/SLR4-6RPG
 
-https://www.hrw.org/world-report/2021/country-chapters/qatar
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+https://perma.cc/PF4F-MQ8A
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qatar/
 
-https://www.amnesty.org/en/search/?country=38553&resourceType=newsarticle&sort=date
+https://perma.cc/KH26-VPMR
 
-https://www.hrw.org/news?country%5B%5D=9646
+
+https://perma.cc/8MQ3-9DAD
+
+
+https://perma.cc/4224-78GH
+
+
+https://perma.cc/6SM2-AQ36
+
+
+https://perma.cc/S8F2-6FCN
 
 
 
@@ -907,19 +999,25 @@ https://www.hrw.org/news?country%5B%5D=9646
  No measures limiting media freedom found. Qatar amended it’s penal code in in January in 2020, which further restricts the already severely limited freedom of speech and media freedom. It involves, for instance, up to five years of prison for spreading “fake news”, which is not elaborated in the law what that constitutes. However, this amendment and other laws in use to limit free speech and media is not related to the Covid-19 measures, and were in place before the pandemic. This is therefore coded 0, as no de jure limitation of limiting media freedom in relation to the Covid-19 response was found. 
 
 *Sources*:
- https://portal.www.gov.qa/wps/portal/media-center/news/news-details/hhtheamirdirectsthestartofimplementingapackageofdecisionsandmeasurestocombatthespreadofcoronavirus
+ https://perma.cc/SC9H-XMAS
 
-https://www.gco.gov.qa/en/2020/03/12/government-communications-office-statement-regarding-measures-taken-by-the-state-of-qatar-to-combat-coronavirus-Covid-19/
 
-https://www.garda.com/crisis24/news-alerts/328506/qatar-domestic-restrictions-extended-april-1-update-15
+https://perma.cc/B8FC-S2TW
 
-https://www.garda.com/crisis24/news-alerts/324061/qatar-domestic-restrictions-implemented-march-16-update-14https://www.gc4hr.org/news/view/2309
 
-https://www.hrw.org/world-report/2021/country-chapters/qatar
+https://perma.cc/U6AQ-SGAD
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qatar/
+https://perma.cc/Z4MW-DQQM
+
+
+https://perma.cc/DQ72-GKZD
+
+
+https://perma.cc/S5M6-T3DE
+
+
+https://perma.cc/M4TL-P7MU
 
 
 
@@ -1039,18 +1137,22 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qat
  Coded as 1 due to wide media censorship. According to Reporters without Borders, Qatar has a "draconian system of censorship" and reporting on sensitive topics can result in imprisonment. Qatar also has several laws in place that effectively restricts freedom of speech and media freedom. 
 
 *Sources*:
- https://rsf.org/en/qatar
-https://freedomhouse.org/country/qatar/freedom-world/2020
+ https://perma.cc/B4WT-6SEA
 
-https://www.hrw.org/world-report/2021/country-chapters/qatar
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+https://perma.cc/2RX4-22B4
 
-https://rsf.org/en/thematique/internet?countries%5B169%5D=169
 
-https://cpj.org/mideast/qatar/2021/
+https://perma.cc/DMP5-8Y6B
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qatar/
+
+https://perma.cc/G58R-QXFU
+
+
+https://perma.cc/M7DS-8NS4
+
+
+https://perma.cc/DN2Y-SH4V
 
 
 
@@ -1092,18 +1194,22 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qat
  Coded as 1 due to wide media censorship. According to Reporters without Borders, Qatar has a "draconian system of censorship" and reporting on sensitive topics can result in imprisonment. Qatar also has several laws in place that effectively restricts freedom of speech and media freedom. 
 
 *Sources*:
- https://rsf.org/en/qatar
-https://freedomhouse.org/country/qatar/freedom-world/2020
+ https://perma.cc/B4WT-6SEA
 
-https://www.hrw.org/world-report/2021/country-chapters/qatar
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+https://perma.cc/2RX4-22B4
 
-https://rsf.org/en/thematique/internet?countries%5B169%5D=169
 
-https://cpj.org/mideast/qatar/2021/
+https://perma.cc/DMP5-8Y6B
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qatar/
+
+https://perma.cc/G58R-QXFU
+
+
+https://perma.cc/M7DS-8NS4
+
+
+https://perma.cc/DN2Y-SH4V
 
 
 
@@ -1145,18 +1251,22 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qat
  No information on instances of limitations on media reporting on non-Covid-19 related news found. 
 
 *Sources*:
- https://rsf.org/en/qatar
-https://freedomhouse.org/country/qatar/freedom-world/2020
+ https://perma.cc/B4WT-6SEA
 
-https://www.hrw.org/world-report/2021/country-chapters/qatar
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+https://perma.cc/2RX4-22B4
 
-https://rsf.org/en/thematique/internet?countries%5B169%5D=169
 
-https://cpj.org/mideast/qatar/2021/
+https://perma.cc/DMP5-8Y6B
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qatar/
+
+https://perma.cc/G58R-QXFU
+
+
+https://perma.cc/M7DS-8NS4
+
+
+https://perma.cc/DN2Y-SH4V
 
 
 
@@ -1199,17 +1309,22 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qat
  No reports on limiting media access to Covid-19 information found 
 
 *Sources*:
- https://www.hrw.org/world-report/2021/country-chapters/qatar
+ https://perma.cc/AG2B-GSPY
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
 
-https://rsf.org/en/thematique/internet?countries%5B169%5D=169
+https://perma.cc/DH2X-XFM7
 
-https://cpj.org/mideast/qatar/2021/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qatar/
+https://perma.cc/6KMF-AX6N
 
-https://ipi.media/qatar/
+
+https://perma.cc/Q8ZV-UXRT
+
+
+https://perma.cc/K79U-HXKP
+
+
+https://perma.cc/7FNX-BP9B
 
 
 
@@ -1251,19 +1366,25 @@ https://ipi.media/qatar/
  No evidence of journalists being verbally harassed over Covid-19 reporting has been found. 
 
 *Sources*:
- https://www.hrw.org/world-report/2021/country-chapters/qatar
+ https://perma.cc/S82F-2EUB
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
 
-https://rsf.org/en/thematique/internet?countries%5B169%5D=169
+https://perma.cc/6526-3CNS
 
-https://cpj.org/mideast/qatar/2020/
 
-https://cpj.org/mideast/qatar/2021/
+https://perma.cc/NJ5A-53RB
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qatar/
 
-https://ipi.media/qatar/
+https://perma.cc/H656-HBYS
+
+
+https://perma.cc/BC9K-GTUP
+
+
+https://perma.cc/7TGL-2MT8
+
+
+https://perma.cc/747X-43C5
 
 
 
@@ -1305,19 +1426,25 @@ https://ipi.media/qatar/
  No evidence of journalists being physically harassed over Covid-19 reporting has been found. 
 
 *Sources*:
- https://www.hrw.org/world-report/2021/country-chapters/qatar
+ https://perma.cc/S82F-2EUB
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
 
-https://rsf.org/en/thematique/internet?countries%5B169%5D=169
+https://perma.cc/6526-3CNS
 
-https://cpj.org/mideast/qatar/2020/
 
-https://cpj.org/mideast/qatar/2021/
+https://perma.cc/NJ5A-53RB
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qatar/
 
-https://ipi.media/qatar/
+https://perma.cc/H656-HBYS
+
+
+https://perma.cc/BC9K-GTUP
+
+
+https://perma.cc/7TGL-2MT8
+
+
+https://perma.cc/747X-43C5
 
 
 
@@ -1361,9 +1488,16 @@ https://ipi.media/qatar/
  The information provided on the official Covid-19 website in Qatar aligns with WHO, and no evidence of disinformation has been found. 
 
 *Sources*:
- https://covid19.moph.gov.qa/EN/Pages/default.aspx
-https://ipi.media/qatar/
-https://rsf.org/en/qatar
+ https://perma.cc/PFR5-HD2W
+
+
+https://perma.cc/QNP2-QELW
+
+
+https://perma.cc/QLR7-6C93
+
+
+
 
 
 
@@ -1407,26 +1541,16 @@ https://rsf.org/en/qatar
  Dozens of migrants workers from Nepal were placed in detention centers and then deported after being approached by the police who said that they were going to get tested for Covid-19 (detained on 12 and 13 March 2020, deported on 15 and 19 March 2020) (also see discrim), which is a case of unlawful confinement. However, no evidence suggests that these arrests were violent, and this is thus not accounted for here. Furthermore,  no evidence of any other excessive use of force in relation to Covid-19 measures has been found. This is therefore coded as  0 for all other periods. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/04/qatar-migrant-workers-illegally-expelled-during-covid19-pandemic/
-
-https://aineupstrmediaprd.blob.core.windows.net/media/23165/statement-to-amnesty-on-repatriation-of-nepalese-workers-in-qatarpdf.pdf
-
-https://www.theguardian.com/global-development/2020/mar/20/covid-19-lockdown-turns-qatars-largest-migrant-camp-into-virtual-prison
-
-
-https://www.amnesty.org/en/latest/news/2020/03/qatar-migrant-workers-in-labour-camps-at-grave-risk-amid-covid19-crisis/
-
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B694%5D&covid19=1
-
-https://www.hrw.org/news/2020/08/24/qatar-little-progress-protecting-migrant-workers
-
-https://www.euronews.com/2020/08/24/qatar-many-migrant-workers-not-paid-or-paid-too-late-report-claims
-
-https://www.hrw.org/world-report/2021/country-chapters/qatar
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qatar/
+ https://perma.cc/T2QE-R7AZ
+https://perma.cc/NCT2-T7XG
+https://perma.cc/96QK-HVGY
+https://perma.cc/8Q6F-N9L4
+https://perma.cc/F39L-ESD6
+https://perma.cc/9KB3-8RNW
+https://perma.cc/7D9U-47S6
+https://perma.cc/8ATK-KX83
+https://perma.cc/MZ6Z-US7J
+https://perma.cc/UML4-FNPY
 
 
 
@@ -1468,4 +1592,4 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/qat
  No evidence was found that Qatar deployed military in relation to Covid-19 enforcement. 
 
 *Sources*:
- https://portal.moi.gov.qa/wps/portal/MOIInternet/wcmsearch/?1dmy&urile=wcm%3apath%3a%2Fwcmlib-internet-en%2Fsa-moinews%2F094fd448-4071-48a8-bacc-e17a3bee0417
+ https://perma.cc/SCD7-D2FZ

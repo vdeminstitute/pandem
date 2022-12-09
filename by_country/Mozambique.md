@@ -45,12 +45,12 @@
  A state of emergency was first declared on March 30, via the Presidential Decree nº 11/2020, and it was extended three times, until July 29. According to the constitution, a state of emergency can be declared for up to thirty days a time and it can be extended a maximum of three times. Since legally it could no longer be extended, President Filipe Nyus opted to declare a new state of emergency for thirty days starting from August 8, via the Presidential Decree nº 23/2020. The parliament approved the decree, but the opposition criticized the decision, which they considered unconstitutional since the state of emergency had already been extended the three times allowed by the constitution. After the first thirty days ended, the second state of emergency was not extended and, instead, a state of Public Calamity was implemented via Decree nº 79/2020. 
 
 *Sources*:
- https://www.rsm.global/mozambique/sites/default/files/decreto_presidencial_23-2020.pdf
-https://www.dw.com/pt-002/covid-19-em-mo%C3%A7ambique-novo-estado-de-emerg%C3%AAncia-decretado-pelo-pr/a-54452845
-https://covid19.ins.gov.mz/covid-19-presidente-da-republica-declara-estado-de-emergencia-em-mocambique/
-https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
-http://www.ts.gov.mz/images/Decreto_n._792020_de_4_de_Setembro_-_Declara_a_situac%C3%A3o_da_calamidade_P%C3%BAblica_e_Activa_o_Alerta_Vermelho_compressed.pdf
-https://www.misau.gov.mz/index.php/estado-de-calamidade-publica
+ [1]	perma.cc/QSG2-VSNG
+[2]	perma.cc/D7ZB-PBLJ
+[3]	perma.cc/SBW8-7GGS
+[4]	perma.cc/D25N-BSMR
+[5]	perma.cc/9HDF-ML5H
+[6]	perma.cc/V24L-4JCW
 
 
 
@@ -89,10 +89,9 @@ https://www.misau.gov.mz/index.php/estado-de-calamidade-publica
 *No comment provided* 
 
 *Sources*:
- https://www.misau.gov.mz/index.php/estado-de-calamidade-publica
-https://www.stj.pt/wp-content/uploads/2018/01/mocambique_constituicao.pdf
-
-http://www.ts.gov.mz/images/Decreto_n._792020_de_4_de_Setembro_-_Declara_a_situac%C3%A3o_da_calamidade_P%C3%BAblica_e_Activa_o_Alerta_Vermelho_compressed.pdf
+ [1]	perma.cc/2CX8-YEJ8
+[2]	perma.cc/P4DL-S3EC
+[3]	perma.cc/5EBG-2EFD
 
 
 
@@ -131,12 +130,12 @@ http://www.ts.gov.mz/images/Decreto_n._792020_de_4_de_Setembro_-_Declara_a_situa
  The state of emergency was first declared on March 30, via the Presidential Decree nº 11/2020, and it was extended three times, until July 29. Then, President Filipe Nyus opted to declare a new state of emergency for thirty days starting from August 8, via the Presidential Decree nº 23/2020. When that expired, a state of public calamity was declared from September 7, via Decree nº 79/2020. The state of public calamity has been amended by several decrees. 
 
 *Sources*:
- https://www.misau.gov.mz/index.php/estado-de-calamidade-publica
-https://covid19.ins.gov.mz/covid-19-presidente-da-republica-declara-estado-de-emergencia-em-mocambique/
-https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
-https://www.rsm.global/mozambique/sites/default/files/decreto_presidencial_23-2020.pdf
-http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao_do_Estado_de_Emergencia_constante_do_Decreto_Presidencial_n._23_2020_de_5_de_Agosto_4_1.pdf
-http://www.ts.gov.mz/images/Decreto_n._792020_de_4_de_Setembro_-_Declara_a_situac%C3%A3o_da_calamidade_P%C3%BAblica_e_Activa_o_Alerta_Vermelho_compressed.pdf
+ [1]	perma.cc/D9RY-3CVH
+[2]	perma.cc/T2W5-F68A
+[3]	perma.cc/L4M8-MCVJ
+[4]	perma.cc/4N6B-SV7S
+[5]	perma.cc/7897-JNNW
+[6]	perma.cc/9NR6-BK4E
 
 
 
@@ -175,9 +174,9 @@ http://www.ts.gov.mz/images/Decreto_n._792020_de_4_de_Setembro_-_Declara_a_situa
  The state of emergency was first declared on March 30, via the Presidential Decree nº 11/2020, and it was extended three times, until July 29. Then, President Filipe Nyus opted to declare a new state of emergency for thirty days via the Presidential Decree nº 23/2020, starting from August 8 and ending on September 6. Once it ended, it was replaced by a state of public calamity, which is still in place. Despite it, some flexibilizations were announced on 25 April 2021, e.g. opening of cinemas with 40% of the maximal capacity. 
 
 *Sources*:
- https://www.misau.gov.mz/index.php/estado-de-calamidade-publica
-http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao_do_Estado_de_Emergencia_constante_do_Decreto_Presidencial_n._23_2020_de_5_de_Agosto_4_1.pdf
-https://www.dw.com/pt-002/covid-19-estado-de-calamidade-p%C3%BAblica-declarado-em-mo%C3%A7ambique/a-54822206
+ [1]	perma.cc/KJ9K-7522
+[2]	perma.cc/HA9Y-US6A
+[3]	perma.cc/6PBD-2PX7
 
 
 
@@ -219,7 +218,7 @@ https://www.dw.com/pt-002/covid-19-estado-de-calamidade-p%C3%BAblica-declarado-e
  The Article 284 of the Constitution defines that, when declared, a state of emergency can have a maximum length of 30 days and it can be extended up to three times. The state of public calamity does not have a time limit, but the new measures implemented via decrees have been limited by periods of 21 or 30 days. See emlimitdate_comment. 
 
 *Sources*:
- http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao_do_Estado_de_Emergencia_constante_do_Decreto_Presidencial_n._23_2020_de_5_de_Agosto_4_1.pdf
+ [1]	perma.cc/K2EN-RY5J
 
 
 
@@ -258,8 +257,8 @@ https://www.dw.com/pt-002/covid-19-estado-de-calamidade-p%C3%BAblica-declarado-e
  The state of emergency was first declared for 30 days on March 30, via the Presidential Decree nº 11/2020. It was extended three times, always for 30 days, until July 29. Then, President Filipe Nyus opted to declare a new state of emergency for thirty days via the Presidential Decree nº 23/2020, starting from August 8 and ending on September 6. Once it ended, it was replaced by a state of public calamity, which does not have a time limit. On January 13 was instituted that, from January 15, the state of calamity would be extended for 21 days. On February 5 and March 5, the state of public calamity was extended each time for extra 30 days. On April 5, new measures were implemented, and the state of public calamity was extended again for 21 days. On April 26, the measures were extended for 30 days. 
 
 *Sources*:
- https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
-http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao_do_Estado_de_Emergencia_constante_do_Decreto_Presidencial_n._23_2020_de_5_de_Agosto_4_1.pdf
+ [1]	perma.cc/B22D-UNYK
+[2]	perma.cc/3Q6V-6E27
 
 
 
@@ -301,8 +300,8 @@ http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao
  Consitution, Article 285: "Having declared a state of siege or emergency, the President of the Republic submits to the Assembly of the Republic, within twenty-four hours, the declaration with the respective grounds, for ratification purposes". The state of public calamity is declared by the Council of Ministers and does not require legislative approval. The state of public calamity is still active. 
 
 *Sources*:
- https://www.stj.pt/wp-content/uploads/2018/01/mocambique_constituicao.pdf
-https://www.pmaputo.gov.mz/index.php/por/content/download/7394/53460/version/4/file/lei+24-2020+-Gest%C3%A3o+e+Redu%C3%A7%C3%A3o+do+Risco+de+Desastres.pdf
+ [1]	perma.cc/VX58-AD6S
+[2]	perma.cc/GDS7-FQEP
 
 
 
@@ -344,9 +343,9 @@ https://www.pmaputo.gov.mz/index.php/por/content/download/7394/53460/version/4/f
  The first state of emergency was approved via Law 1/2020, on March 31, and the second via Law 9/2020, on August 7. The state of public calamity is declared by the Council of Ministers and does not require legislative approval. 
 
 *Sources*:
- https://www.paced-paloptl.com/uploads/publicacoes_ficheiros/coletanea-de-legislacao2aedicao_rev2.pdf
-http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao_do_Estado_de_Emergencia_constante_do_Decreto_Presidencial_n._23_2020_de_5_de_Agosto_4_1.pdf
-https://www.dw.com/pt-002/covid-19-em-mo%C3%A7ambique-novo-estado-de-emerg%C3%AAncia-decretado-pelo-pr/a-54452845
+ [1]	perma.cc/BN66-LWXB
+[2]	perma.cc/JY3Z-YC6F
+[3]	perma.cc/Z3YP-Y6T6
 
 
 
@@ -392,11 +391,10 @@ https://www.dw.com/pt-002/covid-19-em-mo%C3%A7ambique-novo-estado-de-emerg%C3%AA
  Once the National Assembly approved the declaration of the state of emergency, the executive could define measures to fight the pandemic (e.g. Decree nº 12/2020). The Constitution (Article 289) states that "The declaration of a state of siege or emergency cannot affect the application of the Constitution as regards the competence, the functioning of the sovereign bodies and the rights and immunities of the respective holders or members". (1) The Law nº 10/20, Article 34, delimits which measures the government can take during a state of public calamity. 
 
 *Sources*:
- http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao_do_Estado_de_Emergencia_constante_do_Decreto_Presidencial_n._23_2020_de_5_de_Agosto_4_1.pdf
-http://www.open.ac.uk/technology/mozambique/sites/www.open.ac.uk.technology.mozambique/files/files/Decreto_12_2020_de_2_de_Abril_BR_64_I_SERIE_2020.pdf
-https://www.stj.pt/wp-content/uploads/2018/01/mocambique_constituicao.pdf
-(1)
-https://www.pmaputo.gov.mz/index.php/por/content/download/7394/53460/version/4/file/lei+24-2020+-Gest%C3%A3o+e+Redu%C3%A7%C3%A3o+do+Risco+de+Desastres.pdf
+ [1]	perma.cc/53MZ-78TT
+[2]	perma.cc/HG3P-K9WM
+[3]	perma.cc/3KYL-NNAF
+[4]	perma.cc/7PH5-EQKL
 
 
 
@@ -518,10 +516,10 @@ https://www.pmaputo.gov.mz/index.php/por/content/download/7394/53460/version/4/f
  The measures have a national scope. However, in April 2021, the capital of provinces have stricter measures than the countryside. 
 
 *Sources*:
- https://www.dw.com/pt-002/mo%C3%A7ambique-nyusi-estende-recolher-obrigat%C3%B3rio-nas-capitais-provinciais/a-57105042
-https://covid19.ins.gov.mz/medidas/
-https://www.rsm.global/mozambique/sites/default/files/decreto_presidencial_23-2020.pdf
-http://www.ts.gov.mz/images/Decreto_n._792020_de_4_de_Setembro_-_Declara_a_situac%C3%A3o_da_calamidade_P%C3%BAblica_e_Activa_o_Alerta_Vermelho_compressed.pdf
+ [1]	perma.cc/QG8T-RPNF
+[2]	perma.cc/D2EB-HC7C
+[3]	perma.cc/U8QS-B8Q9
+[4]	perma.cc/E3MB-NBDG
 
 
 
@@ -565,9 +563,9 @@ http://www.ts.gov.mz/images/Decreto_n._792020_de_4_de_Setembro_-_Declara_a_situa
  No evidence of discrimination was found. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/africa/mozambique/
-https://www.hrw.org/africa/mozambique
-https://monitor.civicus.org/country/mozambique/
+ [1]	perma.cc/J4NR-BHKZ
+[2]	perma.cc/V575-ENLM
+[3]	perma.cc/R3FE-ZZD7
 
 
 
@@ -616,12 +614,11 @@ https://monitor.civicus.org/country/mozambique/
  No evidence of non-derogable rights violation was found. According to the Constitution, Art. 286: "The declaration of a state of siege or emergency may in no case limit or suspend the rights to life, personal integrity, civil capacity and citizenship, non-retroactivity of criminal law, the right of defense of defendants and freedom of religion".  (1) 
 
 *Sources*:
- https://www.dw.com/pt-002/amnistia-internacional-pandemia-fez-aumentar-viola%C3%A7%C3%B5es-aos-direitos-humanos/a-57124133
-https://www.stj.pt/wp-content/uploads/2018/01/mocambique_constituicao.pdf
-(1)
-https://www.amnesty.org/en/countries/africa/mozambique/
-https://www.hrw.org/africa/mozambique
-https://monitor.civicus.org/country/mozambique/
+ [1]	perma.cc/FA3Q-ENSB
+[2]	perma.cc/T74A-A8RZ
+[3]	perma.cc/WSY8-75F6
+[4]	perma.cc/EVU6-NZ7G
+[5]	perma.cc/X62B-ZSMA
 
 
 
@@ -665,9 +662,9 @@ https://monitor.civicus.org/country/mozambique/
  The emergency measures do not de-jure limit media freedom. During the state of emergency, the Decree nº 69/2020 defines media as an essencial service. The state of public calamity (Decree nº 79/2020) does not impose restrictions on the media. 
 
 *Sources*:
- http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao_do_Estado_de_Emergencia_constante_do_Decreto_Presidencial_n._23_2020_de_5_de_Agosto_4_1.pdf
-http://www.ts.gov.mz/images/Decreto_n%C2%BA_692020_de_11_de_Agosto_-_Aprova_as_medidas_de_execuc%C3%A3o_administrativa_para_a_contenc%C3%A3o_da_propagac%C3%A3o_da_pandemia_da_COVID-19_a_vigorar_durante_o_Estado_de_Emerg%C3%AAncia.pdf
-http://www.ts.gov.mz/images/Decreto_n._792020_de_4_de_Setembro_-_Declara_a_situac%C3%A3o_da_calamidade_P%C3%BAblica_e_Activa_o_Alerta_Vermelho_compressed.pdf
+ [1]	perma.cc/E9ES-ECDG
+[2]	perma.cc/F9GP-6WJY
+[3]	perma.cc/Y2G9-XBXM
 
 
 
@@ -787,9 +784,9 @@ http://www.ts.gov.mz/images/Decreto_n._792020_de_4_de_Setembro_-_Declara_a_situa
  No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. 
 
 *Sources*:
- https://rsf.org/en/countries
-https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/africa/mozambique/
+ [1]	perma.cc/WPQ3-TSC6
+[2]	perma.cc/HS6K-NHMU
+[3]	perma.cc/JU4Q-PL6R
 
 
 
@@ -831,9 +828,9 @@ https://cpj.org/africa/mozambique/
  No evidence was found of de-facto limitations on reporting about the government response to the pandemic. 
 
 *Sources*:
- https://rsf.org/en/countries
-https://ipi.media/covid19-media-freedom-monitoring/
-https://cpj.org/africa/mozambique/
+ [1]	perma.cc/WPQ3-TSC6
+[2]	perma.cc/HS6K-NHMU
+[3]	perma.cc/JU4Q-PL6R
 
 
 
@@ -875,12 +872,12 @@ https://cpj.org/africa/mozambique/
  There are reports of journalists being stopped from reporting on non-Covid-19 related matters due to the state of emergency. The cases happened in June, but there is no evidence of improvement, since violence has been reported. Due to a long period without new occurences, in 2021, merepoth is coded as 0. 
 
 *Sources*:
- https://www.amnesty.org/en/documents/pol10/3202/2021/en/
-https://www.dw.com/pt-002/amnistia-internacional-pandemia-fez-aumentar-viola%C3%A7%C3%B5es-aos-direitos-humanos/a-57124133
-https://www.amnesty.org/en/latest/news/2020/08/mozambique-unprecedented-arson-attack-on-canal-media/
-https://cpj.org/2020/07/mozambican-journalist-omardine-omar-convicted-of-civil-disobedience-fined/
-https://www.dw.com/pt-002/jornalista-da-carta-de-mo%C3%A7ambique-libertado-ap%C3%B3s-deten%C3%A7%C3%A3o-humilhante/a-53991674
-https://www.dw.com/pt-002/pandemia-tornou-se-justifica%C3%A7%C3%A3o-para-atacar-liberdade-de-imprensa/av-53330403
+ [1]	perma.cc/8SAF-CY97
+[2]	perma.cc/3PJR-TSH4
+[3]	perma.cc/9YMD-5EF2
+[4]	perma.cc/D3EH-G89Z
+[5]	perma.cc/84FV-2CLC
+[6]	perma.cc/M7HN-C67L
 
 
 
@@ -923,9 +920,8 @@ https://www.dw.com/pt-002/pandemia-tornou-se-justifica%C3%A7%C3%A3o-para-atacar-
  No evidence was found of limitations on access to information. 
 
 *Sources*:
- https://rsf.org/en/countries
-_x000D__x000D_
-https://ipi.media/covid19-media-freedom-monitoring/
+ [1]	perma.cc/DZA4-KTHA
+[2]	perma.cc/TKV7-ECVS
 
 
 
@@ -967,9 +963,8 @@ https://ipi.media/covid19-media-freedom-monitoring/
  No evidence of harassment was found. 
 
 *Sources*:
- https://rsf.org/en/countries
-_x000D__x000D_
-https://ipi.media/covid19-media-freedom-monitoring/
+ [1]	perma.cc/DZA4-KTHA
+[2]	perma.cc/TKV7-ECVS
 
 
 
@@ -1011,10 +1006,10 @@ https://ipi.media/covid19-media-freedom-monitoring/
  No evidence of physical harassment of journalists reporting about covid-19 was found. However, a journalists was detained for allegedly violating the lockdown, and he was beaten while in police custody. 
 
 *Sources*:
- https://rsf.org/en/countries
-https://ipi.media/covid19-media-freedom-monitoring/
-https://www.amnesty.org/en/latest/news/2020/08/mozambique-unprecedented-arson-attack-on-canal-media/
-https://cpj.org/2020/07/mozambican-journalist-omardine-omar-convicted-of-civil-disobedience-fined/
+ [1]	perma.cc/MG2R-RXT3
+[2]	perma.cc/LAT2-4NZX
+[3]	perma.cc/X4VX-FTML
+[4]	perma.cc/Y5PT-9QX2
 
 
 
@@ -1058,7 +1053,7 @@ https://cpj.org/2020/07/mozambican-journalist-omardine-omar-convicted-of-civil-d
  No evidence of false information being disseminated by the government. The government shares WHO information on its official covid-19 website. 
 
 *Sources*:
- https://covid19.ins.gov.mz/
+ [1]	perma.cc/W4MB-PD7K
 
 
 
@@ -1102,13 +1097,12 @@ https://cpj.org/2020/07/mozambican-journalist-omardine-omar-convicted-of-civil-d
  The civil society organization Centro para Democracia e Desenvolvimento is collecting reports of police abuse and reported 27 instances only in the first month of the state of emergency. President Nyusi critized police violence but also blammed citizes of "victimization". Reports of police violence were not identified after the state of emergency ended. Amnesty International and some newspapers claimed in March/April 2021 that violence has been used to enforce COVID-19 measures. 
 
 *Sources*:
- https://www.dw.com/pt-002/amnistia-internacional-pandemia-fez-aumentar-viola%C3%A7%C3%B5es-aos-direitos-humanos/a-57124133
-https://www.dw.com/pt-002/amnistia-internacional-pandemia-fez-aumentar-viola%C3%A7%C3%B5es-aos-direitos-humanos/a-57124133
-https://www.dw.com/pt-002/covid-19-cidad%C3%A3os-mo%C3%A7ambicanos-denunciam-abusos-da-pol%C3%ADcia/a-53343318
-https://www.amnesty.org/en/latest/news/2020/04/southern-africa-government-intervention-required-as-millions-face-hunger-under-covid19-lockdown-regimes/
-https://cddmoz.org/wp-content/uploads/2020/09/Relat%C3%B3rio-reporta-graves-viola%C3%A7%C3%B5es-de-direitos-humanos-no-contexto-da-viol%C3%AAncia-armada-em-Cabo-Delgado.pdf
-https://www.dw.com/pt-002/nyusi-critica-viol%C3%AAncia-policial-durante-estado-de-emerg%C3%AAncia/a-54038708
-https://www.dw.com/pt-002/jornalista-da-carta-de-mo%C3%A7ambique-libertado-ap%C3%B3s-deten%C3%A7%C3%A3o-humilhante/a-53991674
+ [1]	perma.cc/T2Q8-XR22
+[2]	perma.cc/3JLV-CM7G
+[3]	perma.cc/88DY-KMQN
+[4]	perma.cc/3JBR-QGA4
+[5]	perma.cc/XU9A-UNZM
+[6]	perma.cc/26ZS-U5YU
 
 
 
@@ -1150,5 +1144,5 @@ https://www.dw.com/pt-002/jornalista-da-carta-de-mo%C3%A7ambique-libertado-ap%C3
  During the state of emergency, the government had the prerogative of using the armed forces to enforce emergency measures (article 3). However, I did not find evidence that they were de-facto doing so. The state of public calamity does not foresee military involvement. There is brief mentions of militars getting involved in conflict, however. 
 
 *Sources*:
- http://www.ts.gov.mz/images/Lei_n._9_2020_de_7_de_Agosto_-_Ratifica_a_Declaracao_do_Estado_de_Emergencia_constante_do_Decreto_Presidencial_n._23_2020_de_5_de_Agosto_4_1.pdf
-https://www.dw.com/pt-002/amnistia-internacional-pandemia-fez-aumentar-viola%C3%A7%C3%B5es-aos-direitos-humanos/a-57124133
+ [1]	perma.cc/AVT6-LQD8
+[2]	perma.cc/4QXG-7EY6

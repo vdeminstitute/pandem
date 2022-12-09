@@ -46,13 +46,14 @@
 
 *Sources*:
  [1]
-https://coronaviruscolombia.gov.co/Covid19/docs/decretos/minsalud/resolucion_385_de_2020_minsalud.pdf
+
+https://perma.cc/3TB5-K29B
 [2]
-https://incp.org.co/wp-content/uploads/2021/05/Resolucion-738-de-2021.pdf
+https://perma.cc/6FAS-BHBK
 [3]
-http://www.regiones.gov.co/Inicio/assets/files/51.pdf
+https://perma.cc/26X6-HKUQ
 [4]
-https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20637%20DEL%206%20DE%20MAYO%20DE%202020.pdf
+https://perma.cc/9D8S-ZB8E
 
 
 
@@ -92,16 +93,15 @@ https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20637%20DEL%206%20D
 
 *Sources*:
  [1]
-http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr007.html#215
+https://perma.cc/5HKZ-EGGY
 [2]
-https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=13966#:~:text=Objeto%20de%20la%20Ley.,los%20poderes%20ordinarios%20del%20Estado.
-
+https://perma.cc/9N8A-6CP5
 [3]
-https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=61933
+https://perma.cc/V5P4-CY7W
 [4]
-https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=44615
+https://perma.cc/9YRK-AC2Y
 [5]
-https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=61933
+https://perma.cc/Z8Y9-DLG5
 
 
 
@@ -141,13 +141,14 @@ https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=61933
 
 *Sources*:
  [1]
-http://www.regiones.gov.co/Inicio/assets/files/51.pdf
+https://perma.cc/UX56-25YY
 [2]
-https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20637%20DEL%206%20DE%20MAYO%20DE%202020.pdf
+https://perma.cc/5LZW-XEVJ
 [3]
-https://coronaviruscolombia.gov.co/Covid19/docs/decretos/minsalud/resolucion_385_de_2020_minsalud.pdf
+
+https://perma.cc/3TB5-K29B
 [4]
-https://incp.org.co/wp-content/uploads/2021/05/Resolucion-738-de-2021.pdf
+https://perma.cc/6FAS-BHBK
 
 
 
@@ -187,13 +188,14 @@ https://incp.org.co/wp-content/uploads/2021/05/Resolucion-738-de-2021.pdf
 
 *Sources*:
  [1]
-http://www.regiones.gov.co/Inicio/assets/files/51.pdf
+https://perma.cc/UX56-25YY
 [2]
-https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20637%20DEL%206%20DE%20MAYO%20DE%202020.pdf
+https://perma.cc/5LZW-XEVJ
 [3]
-https://coronaviruscolombia.gov.co/Covid19/docs/decretos/minsalud/resolucion_385_de_2020_minsalud.pdf
+
+https://perma.cc/3TB5-K29B
 [4]
-https://incp.org.co/wp-content/uploads/2021/05/Resolucion-738-de-2021.pdf
+https://perma.cc/6FAS-BHBK
 
 
 
@@ -236,15 +238,16 @@ https://incp.org.co/wp-content/uploads/2021/05/Resolucion-738-de-2021.pdf
 
 *Sources*:
  [1]
-http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr007.html#215
+https://perma.cc/6REB-7TSS
 [2]
-http://www.regiones.gov.co/Inicio/assets/files/51.pdf
+https://perma.cc/84CM-H4W3
 [3]
-https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20637%20DEL%206%20DE%20MAYO%20DE%202020.pdf
+https://perma.cc/9D8S-ZB8E
 [4]
-https://coronaviruscolombia.gov.co/Covid19/docs/decretos/minsalud/resolucion_385_de_2020_minsalud.pdf
+
+https://perma.cc/3TB5-K29B
 [5]
-https://incp.org.co/wp-content/uploads/2021/05/Resolucion-738-de-2021.pdf
+https://perma.cc/6FAS-BHBK
 
 
 
@@ -284,13 +287,14 @@ https://incp.org.co/wp-content/uploads/2021/05/Resolucion-738-de-2021.pdf
 
 *Sources*:
  [1]
-http://www.regiones.gov.co/Inicio/assets/files/51.pdf
+https://perma.cc/UX56-25YY
 [2]
-https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20637%20DEL%206%20DE%20MAYO%20DE%202020.pdf
+https://perma.cc/5LZW-XEVJ
 [3]
-https://coronaviruscolombia.gov.co/Covid19/docs/decretos/minsalud/resolucion_385_de_2020_minsalud.pdf
+
+https://perma.cc/3TB5-K29B
 [4]
-https://incp.org.co/wp-content/uploads/2021/05/Resolucion-738-de-2021.pdf
+https://perma.cc/6FAS-BHBK
 
 
 
@@ -333,9 +337,9 @@ https://incp.org.co/wp-content/uploads/2021/05/Resolucion-738-de-2021.pdf
 
 *Sources*:
  [1]
-https://www.corteconstitucional.gov.co/inicio/Constitucion%20politica%20de%20Colombia.pdf
-[2]
-https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=61933
+https://web.archive.org/web/20200322145352/https://www.corteconstitucional.gov.co/inicio/Constitucion%20politica%20de%20Colombia.pdf
+
+[2]https://web.archive.org/web/20200717025456/https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=61933
 
 
 
@@ -378,9 +382,10 @@ https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=61933
 
 *Sources*:
  [1]
-https://www.corteconstitucional.gov.co/inicio/Constitucion%20politica%20de%20Colombia.pdf
+https://web.archive.org/web/20200322145352/https://www.corteconstitucional.gov.co/inicio/Constitucion%20politica%20de%20Colombia.pdf
+
 [2]
-https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=61933
+https://web.archive.org/web/20200717025456/https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=61933
 
 
 
@@ -428,9 +433,10 @@ Decreto Ley 4107 de 2011, Article 2: The Ministry of Health and Social Protectio
 
 *Sources*:
  [1]
-http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr007.html#215
+https://perma.cc/5HKZ-EGGY
 [2]
-https://www.minsalud.gov.co/Normatividad_Nuevo/DECRETO%204107%20DE%202011.pdf
+
+https://perma.cc/9Y6V-E6PJ
 
 
 
@@ -553,21 +559,22 @@ https://www.minsalud.gov.co/Normatividad_Nuevo/DECRETO%204107%20DE%202011.pdf
 
 *Sources*:
  [1]
-http://www.regiones.gov.co/Inicio/assets/files/51.pdf
+https://perma.cc/UX56-25YY
 [2]
-https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20637%20DEL%206%20DE%20MAYO%20DE%202020.pdf
+https://perma.cc/5LZW-XEVJ
 [3]
-https://www.medellin.gov.co/irj/portal/medellin?NavigationTarget=navurl://bddad1ea6cf4d7b8e48769594398fdbb
+
+https://perma.cc/5VKW-LJFR
 [4]
-https://bogota.gov.co/mi-ciudad/salud/cuarentena/tres-nuevas-medidas-para-combatir-el-covid-19-en-bogota
+https://perma.cc/U6YJ-F5KU
 [5]
-https://colombia.as.com/colombia/2020/11/01/actualidad/1604255149_113360.html
+https://perma.cc/5VKW-LJFR
 [6]
-https://www.elespectador.com/noticias/nacional/nuevas-medidas-que-tomaron-las-principales-ciudades-para-mitigar-el-covid-19/
+https://perma.cc/5YPN-38J9
 [7]
-https://bogota.gov.co/tag/cuarentena-en-bogota
+https://perma.cc/Z8GG-FJJ4
 [8]
-https://www.barranquilla.gov.co/salud/coronavirus/decretos-durante-la-emergencia-coronavirus-barranquilla
+https://perma.cc/E29J-49N7
 
 
 
@@ -612,11 +619,11 @@ https://www.barranquilla.gov.co/salud/coronavirus/decretos-durante-la-emergencia
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/colombia/
+https://perma.cc/EQQ4-FHWK
 [2]
-https://www.hrw.org/americas/colombia
+https://perma.cc/D8JJ-3VBU
 [3]
-https://monitor.civicus.org/country/colombia/
+https://perma.cc/6NHC-KUKB
 
 
 
@@ -666,11 +673,11 @@ https://monitor.civicus.org/country/colombia/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/colombia/
+https://perma.cc/EQQ4-FHWK
 [2]
-https://www.hrw.org/americas/colombia
+https://perma.cc/D8JJ-3VBU
 [3]
-https://monitor.civicus.org/country/colombia/
+https://perma.cc/6NHC-KUKB
 
 
 
@@ -715,11 +722,12 @@ https://monitor.civicus.org/country/colombia/
 
 *Sources*:
  [1]
-http://www.regiones.gov.co/Inicio/assets/files/51.pdf
+https://perma.cc/Q4FY-3EE8
 [2]
-https://coronaviruscolombia.gov.co/Covid19/docs/decretos/minsalud/resolucion_385_de_2020_minsalud.pdf
+https://perma.cc/3TB5-K29B
+
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/BN6Q-4ZBK
 
 
 
@@ -840,13 +848,14 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/2RJR-7URH
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/3MQT-JEYY
+
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/5VD6-YR2S
 [4]
-https://cpj.org/americas/colombia/
+https://perma.cc/3MQT-JEYY
 
 
 
@@ -889,13 +898,14 @@ https://cpj.org/americas/colombia/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/2RJR-7URH
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/3MQT-JEYY
+
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/5VD6-YR2S
 [4]
-https://cpj.org/americas/colombia/
+https://perma.cc/3MQT-JEYY
 
 
 
@@ -938,13 +948,14 @@ https://cpj.org/americas/colombia/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/2RJR-7URH
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/3MQT-JEYY
+
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/5VD6-YR2S
 [4]
-https://cpj.org/americas/colombia/
+https://perma.cc/3MQT-JEYY
 
 
 
@@ -988,13 +999,14 @@ https://cpj.org/americas/colombia/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/2RJR-7URH
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/3MQT-JEYY
+
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/5VD6-YR2S
 [4]
-https://cpj.org/americas/colombia/
+https://perma.cc/3MQT-JEYY
 
 
 
@@ -1037,11 +1049,12 @@ https://cpj.org/americas/colombia/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/2RJR-7URH
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/3MQT-JEYY
+
 [3]
-https://cpj.org/americas/colombia/
+https://perma.cc/3MQT-JEYY
 
 
 
@@ -1084,11 +1097,12 @@ https://cpj.org/americas/colombia/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/2RJR-7URH
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/3MQT-JEYY
+
 [3]
-https://cpj.org/americas/colombia/
+https://perma.cc/3MQT-JEYY
 
 
 
@@ -1133,7 +1147,7 @@ https://cpj.org/americas/colombia/
 
 *Sources*:
  [1]
-https://coronaviruscolombia.gov.co/Covid19/preguntas-frecuentes.html
+https://perma.cc/YH7H-ZL65
 
 
 
@@ -1178,19 +1192,21 @@ https://coronaviruscolombia.gov.co/Covid19/preguntas-frecuentes.html
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/latest/news/2020/09/colombia-amnistia-condena-tortura-uso-excesivo-fuerza/
+https://perma.cc/23YC-GDTX
 [2]
-https://unperiodico.unal.edu.co/pages/detail/el-uso-de-la-fuerza-en-medio-del-estado-de-emergencia/
+https://perma.cc/QLE9-YLSQ
 [3]
-https://www.eldiario.es/sociedad/Colombia-rechaza-agresion-policias-Bogota_0_1029598201.html
+https://perma.cc/SG3A-N84M
+
 [4]
-https://www.eltiempo.com/colombia/otras-ciudades/en-video-policia-agrede-a-un-hombre-en-cucuta-por-no-utilizar-tapabocas-505424
+https://perma.cc/2P28-UTJ8
 [5]
-https://www.bbc.com/mundo/noticias-america-latina-54095677
+
+https://perma.cc/YP2G-D48S
 [6]
-https://www.reuters.com/article/colombia-protestas-idLTAKCN26C2WR
+https://perma.cc/7N89-BGXQ
 [7]
-https://www.nytimes.com/es/2021/05/12/espanol/protestas-colombia-policia.html
+https://perma.cc/K3P8-AJYL
 
 
 
@@ -1233,15 +1249,14 @@ https://www.nytimes.com/es/2021/05/12/espanol/protestas-colombia-policia.html
 
 *Sources*:
  [1]
-https://www.infodefensa.com/latam/2020/03/25/noticia-paises-latinoamerica-despliegan-combatir-covid19.html
-
+https://perma.cc/2VVA-UCE2
 [2]
-https://www.elpais.com.co/cali/autoridades-tendran-puntos-de-control-en-durante-cuarentena-por-coronavirus.html
+https://perma.cc/UP6D-P2GW
 [3]
-https://www.infodefensa.com/latam/2020/06/23/noticia-ejercito-colombiano-primer-batallon-anticovid.html
+https://perma.cc/T4LP-SQUE
 [4]
-https://www.cgfm.mil.co/es/blog/ejercito-nacional-apoya-el-control-de-las-zonas-de-cuarentena-estricta-en-bogota
+https://perma.cc/Y5DX-VER4
 [5]
-https://www.cgfm.mil.co/es/blog/ejercito-nacional-activa-dispositivo-de-seguridad-con-patrullas-mixtas-durante-el-puente
+https://perma.cc/AR6T-DL8G
 [6]
-https://www.cgfm.mil.co/es/blog/ejercito-nacional-refuerza-campanas-de-prevencion-contra-la-covid-19-en-el-guaviare-y-sur-del
+https://perma.cc/7CCT-YG4X

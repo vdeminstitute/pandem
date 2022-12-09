@@ -48,27 +48,26 @@ Q3 2020, Q4 2020, Q1 2021, Q2 2021: the legal instrument in these time periods i
  
 
 *Sources*:
- https://www.kmu.gov.ua/en/news/uryad-zaprovadiv-rezhim-nadzvichajnoyi-situaciyi-po-vsij-teritoriyi-ukrayini
-https://www.kmu.gov.ua/npas/pro-perevedennya-yedinoyi-derzhavnoyi-sistemi-civilnogo-zahistu-u-rezhim-nadzvichajnoyi-situaciyi-338250320
-https://www.constituteproject.org/constitution/Ukraine_2016?lang=en
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://www.oecd.org/eurasia/competitiveness-programme/eastern-partners/COVID-19-CRISIS-IN-UKRAINE.pdf
-https://www.kmu.gov.ua/npas/pro-zapobigannya-poshim110320rennyu-na-teritoriyi-ukrayini-koronavirusu-covid-19
-https://www.kmu.gov.ua/npas/pro-vstanovlennya-karantinu-ta-zapr-641
-https://www.kmu.gov.ua/en/news/uryad-podovzhiv-adaptivnij-karantin-do-31-zhovtnya
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B369%5D&covid19=1
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/
+ https://perma.cc/C9KT-Y5TA
 
-https://zakon.rada.gov.ua/laws/show/211-2020-%D0%BF#Text
-https://zakon.rada.gov.ua/laws/show/392-2020-%D0%BF#n5
-https://covid19.gov.ua/karantynni-zakhody
+https://perma.cc/UC9Q-VEU3
+https://perma.cc/9XK4-FWYW
+https://perma.cc/3X8M-TQ95
+https://perma.cc/FE2M-QYMV
+https://perma.cc/P58A-JHX8
+https://perma.cc/VT2Z-T5ZM
+https://perma.cc/H8EE-UPA5
+https://perma.cc/ZL5N-ZPEM
+https://perma.cc/J7UH-BULT
 
-https://zakon.rada.gov.ua/laws/show/956-2020-%D0%BF#n10
+https://perma.cc/2S8F-ECXT
+https://perma.cc/9CH3-UN4W
 
-https://www.kmu.gov.ua/npas/pro-vstanovlennya-karantinu-ta-zaprovadzhennya-obmezhuvalnih-protiepidemichnih-zahodiv-1236-091220?fbclid=IwAR3pbhcUjgWC49Nycv3BbeP44aFKJ4bUO67mub_kBQ6pIq5obafpN40dDcA
-https://www.kmu.gov.ua/npas/pro-vstanovlennya-karantinu-ta-zaprovadzhennya-obmezhuvalnih-protiepidemichnih-zahodiv-1236-091220
-https://www.oecd.org/eurasia/competitiveness-programme/eastern-partners/COVID-19-CRISIS-IN-UKRAINE.pdf
+https://perma.cc/YH6C-FSBB
+https://perma.cc/Z69P-34VQ
+https://perma.cc/C67F-EJCJ
+https://perma.cc/9U98-EC66
+https://perma.cc/JP88-22TF
 
 
 
@@ -109,9 +108,10 @@ https://www.oecd.org/eurasia/competitiveness-programme/eastern-partners/COVID-19
 Q3 2020, Q4 2020, Q1 2021, Q2 2021:  Law of Ukraine On Protection of Population against Infectious Diseases (Art. 29) 
 
 *Sources*:
- https://zakon.rada.gov.ua/laws/show/5403-17?lang=en
+ https://perma.cc/56TC-9WHP
 
-https://zakon.rada.gov.ua/laws/show/1645-14?lang=en#Text
+
+https://perma.cc/8HQX-QCQS
 
 
 
@@ -152,8 +152,10 @@ https://zakon.rada.gov.ua/laws/show/1645-14?lang=en#Text
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: quarantine was declared from 12 March 2020 (Decision 211). 
 
 *Sources*:
- https://www.kmu.gov.ua/en/news/uryad-zaprovadiv-rezhim-nadzvichajnoyi-situaciyi-po-vsij-teritoriyi-ukrayini
-https://zakon.rada.gov.ua/laws/show/211-2020-%D0%BF#Text
+ https://perma.cc/N8VA-L2UF
+
+
+https://perma.cc/AGU9-LKBJ
 
 
 
@@ -192,10 +194,13 @@ https://zakon.rada.gov.ua/laws/show/211-2020-%D0%BF#Text
  Emergency situation ended on 24 April 2020 (March-June) but quarantine measures have been extended until 30 June 2021 (as of the time of coding) and have not ended at the time of coding. 
 
 *Sources*:
- https://www.kmu.gov.ua/en/news/uryad-zaprovadiv-rezhim-nadzvichajnoyi-situaciyi-po-vsij-teritoriyi-ukrayini
+ https://perma.cc/4QHA-ZYNN
 
-https://www.kmu.gov.ua/npas/pro-vstanovlennya-karantinu-z-metoyu-zapobigannya-poshirennyu-na-teritoriyi-ukrayini-gostroyi-respiratornoyi-hvorobi-covid-19-sprichinenoyi-koronavirusom-sars-cov-i200520-392
-https://www.kmu.gov.ua/npas/pro-vnesennya-zmin-do-deyakih-aktiv-a405
+
+https://perma.cc/J5S9-XWLS
+
+
+https://perma.cc/3RMS-PK43
 
 
 
@@ -239,20 +244,34 @@ https://www.kmu.gov.ua/npas/pro-vnesennya-zmin-do-deyakih-aktiv-a405
 Q3 2020, Q4 2020, Q1 2021, Q2 2021:  The declaration and extension of the quarantine had a time limit. 
 
 *Sources*:
- https://www.kmu.gov.ua/en/news/uryad-zaprovadiv-rezhim-nadzvichajnoyi-situaciyi-po-vsij-teritoriyi-ukrayini
-https://www.kmu.gov.ua/npas/pro-perevedennya-yedinoyi-derzhavnoyi-sistemi-civilnogo-zahistu-u-rezhim-nadzvichajnoyi-situaciyi-338250320
-
-https://zakon.rada.gov.ua/laws/show/211-2020-%D0%BF#Text
-https://zakon.rada.gov.ua/laws/show/760-2020-%D0%BF#n11
-https://zakon.rada.gov.ua/laws/show/956-2020-%D0%BF#n10
-https://www.kmu.gov.ua/npas/pro-vstanovlennya-karantinu-ta-zaprovadzhennya-obmezhuvalnih-protiepidemichnih-zahodiv-1236-091220
+ https://perma.cc/PF8P-KL4S
 
 
-https://www.garda.com/crisis24/news-alerts/449306/ukraine-authorities-extend-covid-19-adaptive-quarantine-regime-until-april-30-update-18
-https://www.kmu.gov.ua/npas/pro-vnesennya-zmin-do-deyakih-aktiv-kabinetu-ministriv-ukrayini-104-170221
+https://perma.cc/UX4B-59E7
 
-https://www.garda.com/crisis24/news-alerts/483816/ukraine-authorities-maintaining-covid-19-related-restrictions-as-of-may-27-update-27
-https://www.kmu.gov.ua/npas/pro-vnesennya-zmin-do-deyakih-aktiv-a405
+
+https://perma.cc/E2TU-U88U
+
+
+https://perma.cc/K9G7-WSM6
+
+
+https://perma.cc/5JSB-VA8K
+
+
+https://perma.cc/9LYE-3WAJ
+
+
+https://perma.cc/U46F-GZ64
+
+
+https://perma.cc/R2HY-BH8Z
+
+
+https://perma.cc/3BQ5-FLTP
+
+
+https://perma.cc/66QJ-ZMMM
 
 
 
@@ -299,20 +318,34 @@ Q1 2021: the latest extension of the quaratine was until 30 April 2021.
 Q2 2021: the latest extension of the quarantine was until 30 June 2021 (Decision 405), as of the time of coding. 
 
 *Sources*:
- https://www.kmu.gov.ua/en/news/uryad-zaprovadiv-rezhim-nadzvichajnoyi-situaciyi-po-vsij-teritoriyi-ukrayini
-https://www.kmu.gov.ua/npas/pro-perevedennya-yedinoyi-derzhavnoyi-sistemi-civilnogo-zahistu-u-rezhim-nadzvichajnoyi-situaciyi-338250320
-
-https://zakon.rada.gov.ua/laws/show/211-2020-%D0%BF#Text
-https://zakon.rada.gov.ua/laws/show/760-2020-%D0%BF#n11
-https://zakon.rada.gov.ua/laws/show/956-2020-%D0%BF#n10
-https://www.kmu.gov.ua/npas/pro-vstanovlennya-karantinu-ta-zaprovadzhennya-obmezhuvalnih-protiepidemichnih-zahodiv-1236-091220
+ https://perma.cc/PF8P-KL4S
 
 
-https://www.garda.com/crisis24/news-alerts/449306/ukraine-authorities-extend-covid-19-adaptive-quarantine-regime-until-april-30-update-18
-https://www.kmu.gov.ua/npas/pro-vnesennya-zmin-do-deyakih-aktiv-kabinetu-ministriv-ukrayini-104-170221
+https://perma.cc/UX4B-59E7
 
-https://www.garda.com/crisis24/news-alerts/483816/ukraine-authorities-maintaining-covid-19-related-restrictions-as-of-may-27-update-27
-https://www.kmu.gov.ua/npas/pro-vnesennya-zmin-do-deyakih-aktiv-a405
+
+https://perma.cc/E2TU-U88U
+
+
+https://perma.cc/K9G7-WSM6
+
+
+https://perma.cc/5JSB-VA8K
+
+
+https://perma.cc/9LYE-3WAJ
+
+
+https://perma.cc/U46F-GZ64
+
+
+https://perma.cc/R2HY-BH8Z
+
+
+https://perma.cc/3BQ5-FLTP
+
+
+https://perma.cc/66QJ-ZMMM
 
 
 
@@ -356,9 +389,10 @@ https://www.kmu.gov.ua/npas/pro-vnesennya-zmin-do-deyakih-aktiv-a405
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: legislature approval is not required based on Law of Ukraine On Protection of Population against Infectious Diseases (Art. 29). 
 
 *Sources*:
- https://zakon.rada.gov.ua/laws/show/5403-17?lang=en
+ https://perma.cc/QTZ2-HH6F
 
-https://zakon.rada.gov.ua/laws/show/1645-14#n241
+
+https://perma.cc/AZ24-RPDF
 
 
 
@@ -400,9 +434,10 @@ https://zakon.rada.gov.ua/laws/show/1645-14#n241
  Not required by law for all time periods. 
 
 *Sources*:
- https://zakon.rada.gov.ua/laws/show/5403-17?lang=en
+ https://perma.cc/QTZ2-HH6F
 
-https://zakon.rada.gov.ua/laws/show/1645-14#n241
+
+https://perma.cc/AZ24-RPDF
 
 
 
@@ -450,13 +485,12 @@ https://zakon.rada.gov.ua/laws/show/1645-14#n241
  I found no limitations on the lawmaking role of the legislature in other time periods; the parliament continued to pass laws with emergency measures. 
 
 *Sources*:
- https://zakon.rada.gov.ua/laws/show/543-20#Text
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#U
-http://w1.c1.rada.gov.ua/pls/zweb2/webproc2_5_1_J?ses=10010&num_s=2&num=&date1=&date2=&name_zp=covid&out_type=&id=&page=1&zp_cnt=20
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://democracy-reporting.org/dri_publications/backgrounder-ukraines-response-to-covid-19/
-(1)
-https://www.wfd.org/wp-content/uploads/2021/01/Covid-19-legislative-leadership-V5.pdf
+ https://perma.cc/8V2J-WTHN
+https://perma.cc/A4A8-EDXJ
+https://perma.cc/JSV5-N7UX
+https://perma.cc/M26X-U6PQ
+https://web.archive.org/web/20200811035734/https://democracy-reporting.org/dri_publications/backgrounder-ukraines-response-to-covid-19/
+https://perma.cc/Q9DY-D3GT
 
 
 
@@ -580,15 +614,14 @@ https://www.wfd.org/wp-content/uploads/2021/01/Covid-19-legislative-leadership-V
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: there have been different measures for four epidemiological zones with four levels of risk (Green, Yellow, Orange and Red). 
 
 *Sources*:
- https://www.kmu.gov.ua/npas/pro-vstanovlennya-rezhimu-nadzvichajnoyi-situaciyi-v-zhitomirskij-ta-cherniveckij-oblastyah-320160320
-https://www.kmu.gov.ua/npas/pro-vstanovlennya-rezhimu-nadzvichajnoyi-situaciyi-v-doneckij-ternopilskij-ta-cherkaskij-t230320
-https://www.kmu.gov.ua/npas/pro-vstanovlennya-rezhimu-nadzvichajnoyi-situaciyi-u-m-kiyevi-324200320
-https://www.kmu.gov.ua/npas/pro-vstanovlennya-rezhimu-nadzvichajnoyi-situaciyi-v-dnipropetrovskij-oblasti-322200320
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B369%5D&covid19=1
-https://www.oecd.org/eurasia/competitiveness-programme/eastern-partners/COVID-19-CRISIS-IN-UKRAINE.pdf
-
-https://www.garda.com/crisis24/news-alerts/478256/ukraine-authorities-update-adaptive-quarantine-regime-for-covid-19-may-13-all-regions-in-yellow-zone-for-epidemiological-risk-update-26
-https://www.garda.com/crisis24/news-alerts/455636/ukraine-authorities-maintaining-covid-19-adaptive-quarantine-regime-until-april-30-update-19
+ https://perma.cc/SM5G-DKRW
+https://perma.cc/7PSZ-RB3H
+https://perma.cc/NFH9-XCE5
+https://perma.cc/88ZU-J6E7
+https://perma.cc/J7UH-BULT
+https://perma.cc/ZY59-YXH7
+https://perma.cc/4SPZ-HADU
+https://perma.cc/DYG7-QLXC
 
 
 
@@ -632,8 +665,8 @@ https://www.garda.com/crisis24/news-alerts/455636/ukraine-authorities-maintainin
  In May 2020, , the mayor of Ivano-Frankivsk verbally ordered the Roma to be expelled from the city for violating Covid-19 measures. Ten Roma were expelled from the city by force. Criminal proceedings for discriminations were launched against the major, and he later apologized. In June 2020, an event organized by the LGBTI community was dispersed due to alleged violations of quarantine restrictions, despite being previously approved by the authorities as well as compliance with quarantine requirements. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/ukraine/
-https://twitter.com/usembassykyiv/status/1252915766585970690?lang=en
+ https://perma.cc/57VJ-WAWR
+https://perma.cc/7CRX-NP6T
 
 
 
@@ -682,9 +715,13 @@ https://twitter.com/usembassykyiv/status/1252915766585970690?lang=en
  No measures violating non-derogable rights found 
 
 *Sources*:
- https://zakon.rada.gov.ua/laws/show/530-20#Text
-https://zakon.rada.gov.ua/laws/show/539-20#Text
-https://www.amnesty.org/en/countries/europe-and-central-asia/ukraine/
+ https://perma.cc/RNT4-QNMC
+
+
+https://perma.cc/Y7CB-JA3X
+
+
+https://perma.cc/J7VX-CD6S
 
 
 
@@ -728,9 +765,13 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/ukraine/
  No evidence of measures limiting media freedom found 
 
 *Sources*:
- https://www.coe.int/uk/web/kyiv/-/safety-of-journalists-and-new-ukrainian-legislation-webinar-on-work-of-media-during-covid-19-pandemic
-https://zakon.rada.gov.ua/laws/show/530-20#Text
-https://zakon.rada.gov.ua/laws/show/539-20#Text
+ https://perma.cc/VEY8-74ZN
+
+
+https://perma.cc/5JFR-L6S8
+
+
+https://perma.cc/VCE8-KTBL
 
 
 
@@ -850,8 +891,10 @@ https://zakon.rada.gov.ua/laws/show/539-20#Text
  official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. 
 
 *Sources*:
- https://covid19.gov.ua/
-https://ipi.media/ukraine/
+ https://perma.cc/Z69P-34VQ
+
+
+https://perma.cc/SW2D-79A2
 
 
 
@@ -893,7 +936,7 @@ https://ipi.media/ukraine/
  The police aggressively pushed and broke camera equipment of a journalist reporting on anti-lockdown protests on 29 April 2020.  Since it was a single incident and I found no further information, merepgov is coded as 0 in other time periods. 
 
 *Sources*:
- https://rsf.org/en/news/ukrainian-police-attack-reporter-covering-protest-against-covid-19-lockdown
+ https://perma.cc/PA6A-YJQ2
 
 
 
@@ -935,9 +978,13 @@ https://ipi.media/ukraine/
  No information found on instances of limitations on media reporting on non-Covid-19 related news but with reference to the pandemic. 
 
 *Sources*:
- https://rsf.org/en/ukraine
-https://ipi.media/ukraine/
-https://cpj.org/europe/ukraine/
+ https://perma.cc/YV7H-MLXK
+
+
+https://perma.cc/R2YX-CHW7
+
+
+https://perma.cc/8DSZ-GH7A
 
 
 
@@ -980,15 +1027,13 @@ https://cpj.org/europe/ukraine/
  In Kryvyi Rih, independent journalists were prevented from attending municipal council meetings on 18 March 2020 (on measures to tackle covid-19) while the city’s own media was allowed to attend. In Kakhovka, only two local media outlets were allowed to attend a council meeting on 19 March 2020 (on measures to tackle covid-19) while other media outlets were not allowed to enter the building. In the village of Lyubimivka, no media were allowed to attending local council meetings. On 4 November 2020, journalists were not allowed to attend the Zaporozhye City Council session about redistribute budget funds to combat Covid-19. According to local media reports, the situation persisted in 2021. According to a survey conducted by the National Union of Journalists of Ukraine in March-April 2021, 20% of journalists surveyed (47 out of 244 participants) said that they encountered obstacles to attending events with the participation of government officials  under the pretext of quarantine restrictions. Based on this information and the report from RSF, meinf is coded as 2 in all periods. 
 
 *Sources*:
- https://rsf.org/en/news/wave-attacks-reporters-covering-coronavirus-lockdown-ukraine
-
-http://1news.zp.ua/sessiya-zaporozhskogo-gorodskogo-soveta-prohodit-v-zakrytom-rezhime-bez-zhurnalistov-i-pryamoj-translyaczii/
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/ukraine/
-http://zabor.zp.ua/www/content/v-zaporozhe-na-sessiyu-gorsoveta-ne-puskayut-zhurnalistov-vinovat-covid
-http://z-city.com.ua/27-01-21-4-27.01.2021
-https://zanoza-news.com/n/2021/02/23/33324
+ https://perma.cc/RLC3-57ET
+https://perma.cc/6R5L-2WZT
+https://perma.cc/BD28-LSL9
+https://perma.cc/L4Z5-RJV6
+https://perma.cc/EF4Z-MJL9
 https://strana.ua/news/327851-tomilenko-soobshchil-kak-zhurnalistam-a-ukraine-prepjatstvujut-v-rabote-vo-vremja-karantina.html
-http://nsju.org/novini/kozhna-chetverta-redakcziya-stykayetsya-z-pereshkodzhannyam-zhurnalistskij-roboti-pid-pryvodom-karantynu/
+https://perma.cc/XY9G-YVMH
 
 
 
@@ -1030,9 +1075,13 @@ http://nsju.org/novini/kozhna-chetverta-redakcziya-stykayetsya-z-pereshkodzhanny
  No information found 
 
 *Sources*:
- https://rsf.org/en/ukraine
-https://ipi.media/ukraine/
-https://cpj.org/europe/ukraine/
+ https://perma.cc/YV7H-MLXK
+
+
+https://perma.cc/R2YX-CHW7
+
+
+https://perma.cc/8DSZ-GH7A
 
 
 
@@ -1074,9 +1123,13 @@ https://cpj.org/europe/ukraine/
  The police aggressively pushed and broke camera equipment of a journalist reporting on anti-lockdown protests on 29 April 2020. Since cases of physical harassment of journalists are monitored by various sources (Council of Europe, IPI, CPJ) on a case by case bases, lack of information likely means that there were no further cases of physical harrassment. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/news/ukrainian-police-attack-reporter-covering-protest-against-covid-19-lockdown
-https://rsf.org/en/news/nearly-half-un-member-countries-have-obstructed-coronavirus-coverage
+ https://perma.cc/MT8B-8Z2B
+
+
+https://perma.cc/PA6A-YJQ2
+
+
+https://perma.cc/2AH7-EKKS
 
 
 
@@ -1120,10 +1173,16 @@ https://rsf.org/en/news/nearly-half-un-member-countries-have-obstructed-coronavi
  official website with information on covid-19; no reports on disinformation found. 
 
 *Sources*:
- https://covid19.gov.ua/
-https://rsf.org/en/ukraine
-https://ipi.media/ukraine/
-https://cpj.org/europe/ukraine/
+ https://perma.cc/Z69P-34VQ
+
+
+https://perma.cc/B85V-X5EG
+
+
+https://perma.cc/2U96-Y72Q
+
+
+https://perma.cc/9ZQY-5L9J
 
 
 
@@ -1167,8 +1226,10 @@ https://cpj.org/europe/ukraine/
  No instances of police violence found. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/ukraine/
-https://www.hrw.org/europe/central-asia/ukraine
+ https://perma.cc/J7VX-CD6S
+
+
+https://perma.cc/GV22-95KS
 
 
 
@@ -1214,6 +1275,6 @@ According to Amnestry International Report, the military also closed a footbridg
  Since I have not found any evidence of further military's involvement in enforcing quarantine measures, therefore military involvement is coded as 0 in 2021. 
 
 *Sources*:
- https://www.mil.gov.ua/news/2020/03/21/zbrojni-sili-ukraini-vzaemodiyatimut-z-pravoohoronnimi-organami-shhodo-zabezpechennya-gromadskoi-bezpeki-pid-chas-karantinu/
-https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
+ https://perma.cc/Z4UU-Q72V
+https://perma.cc/5DWD-RQ2N
 (1)

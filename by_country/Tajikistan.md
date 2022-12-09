@@ -46,20 +46,22 @@
  
 
 *Sources*:
- http://www.president.tj/ru/node/23055
-https://khovar.tj/rus/2020/04/srochnaya-novost-v-tadzhikistane-zapretili-eksport-prodovolstvennyh-tovarov-i-organizatsiyu-massovyh-meropriyatij-shkolnikov-otpravili-na-kanikuly/
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-central-asia-5305f172/
+ https://perma.cc/7LWQ-55US
+https://perma.cc/2H5Y-7LVC
+https://perma.cc/S3VQ-PUEE
+https://perma.cc/38MC-H73E
 (1)
 
-https://www.garda.com/crisis24/news-alerts/336211/tajikistan-schools-closed-through-may-9-due-to-covid-19-update-4
-https://www.garda.com/crisis24/news-alerts/350886/tajikistan-authorities-announce-easing-of-covid-19-restrictions-june-15-update-6
+https://perma.cc/HBC6-4V7E
+https://perma.cc/8Q4D-MD64
 (2)
-https://reliefweb.int/report/tajikistan/covid-19-tajikistan-situation-report-18-12-november-2020
+
+https://perma.cc/7HA8-5B93
 (3)
-https://www.garda.com/crisis24/news-alerts/477706/tajikistan-authorities-maintain-covid-19-measures-nationwide-as-of-may-12-update-11
-https://www.garda.com/crisis24/news-alerts/465796/tajikistan-authorities-maintain-covid-19-measures-as-of-april-12-update-10
-https://www.garda.com/crisis24/news-alerts/436366/tajikistan-covid-19-measures-remain-in-place-nationwide-as-of-jan-29-update-8
+
+https://perma.cc/3AGM-ZE8N
+https://perma.cc/VMK7-ZH82
+
 
 
 
@@ -98,8 +100,10 @@ https://www.garda.com/crisis24/news-alerts/436366/tajikistan-covid-19-measures-r
  Article on the competencies of the President. 
 
 *Sources*:
- http://www.president.tj/ru/node/23055
-https://minjust.ww.tj/library/constitution_rus.pdf
+ https://perma.cc/A7G5-F742
+
+
+https://perma.cc/2JEW-Z4JN
 
 
 
@@ -138,7 +142,7 @@ https://minjust.ww.tj/library/constitution_rus.pdf
  According to the presidential decree 1544 on socio-economic measures for mitigating the consequences of covid-19 from 5 June 2020, the start date of some economic measures (tax holidays) is 1 April 2020. 
 
 *Sources*:
- http://www.president.tj/ru/node/23055
+ https://perma.cc/7LWQ-55US
 
 
 
@@ -177,8 +181,10 @@ https://minjust.ww.tj/library/constitution_rus.pdf
  Not all measures have been lifted at the time of coding. 
 
 *Sources*:
- http://www.president.tj/ru/node/23055
-https://www.garda.com/crisis24/news-alerts/350886/tajikistan-authorities-announce-easing-of-covid-19-restrictions-june-15-update-6
+ https://perma.cc/7LWQ-55US
+
+
+https://perma.cc/MX7X-NLUP
 
 
 
@@ -220,13 +226,12 @@ https://www.garda.com/crisis24/news-alerts/350886/tajikistan-authorities-announc
  Time limit depends on the particular measures,sSome measures do not have a time limit. According to IDEA, "In late April, the Tajik Prime Minister’s COVID-19 Task Force cancelled all public events indefinitely. As of September, the prohibition is still in place. As of 19 October, mass gatherings and events remain prohibited. Private events are permitted for 30-40 people." (1) There is also no end date for the restictions on public events in the press release of the state news agency "Khovar" (no other legislation or official announcement on the President's website found). The measures have been in place in all time periods. 
 
 *Sources*:
- http://www.president.tj/ru/node/23055
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B702%5D&covid19=1
+ https://perma.cc/7LWQ-55US
+https://perma.cc/J7UH-BULT
 (1)
-https://khovar.tj/rus/2020/04/srochnaya-novost-v-tadzhikistane-zapretili-eksport-prodovolstvennyh-tovarov-i-organizatsiyu-massovyh-meropriyatij-shkolnikov-otpravili-na-kanikuly/
-
-https://tj.usembassy.gov/covid-19-information/
-https://www.garda.com/crisis24/news-alerts/489456/tajikistan-authorities-maintain-covid-19-related-entry-restrictions-as-of-june-11-update-12
+https://perma.cc/L6PW-Y5HZ
+https://perma.cc/7R7D-LFG4
+https://perma.cc/P8VX-T5UH
 
 
 
@@ -265,11 +270,12 @@ https://www.garda.com/crisis24/news-alerts/489456/tajikistan-authorities-maintai
  Time limit depends on the particular measures (such as 1 August 2020, 1 September 2020), with some measures until 31 December 2020. Some measures do not have a time limit. According to IDEA, "In late April, the Tajik Prime Minister's COVID-19 Task Force cancelled all public events indefinitely. As of September, the prohibition is still in place. " (1) There is also no end date for the restictions on public events in the press release of the state news agency "Khovar" (no other legislation or official announcement on the President's website found). The measures have been in place in all time periods. 
 
 *Sources*:
- http://www.president.tj/ru/node/23055
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B702%5D&covid19=1
+ https://perma.cc/7LWQ-55US
+https://perma.cc/J7UH-BULT
 (1)
-https://khovar.tj/rus/2020/04/srochnaya-novost-v-tadzhikistane-zapretili-eksport-prodovolstvennyh-tovarov-i-organizatsiyu-massovyh-meropriyatij-shkolnikov-otpravili-na-kanikuly/
-https://khovar.tj/rus/2020/04/srochnaya-novost-v-tadzhikistane-zapretili-eksport-prodovolstvennyh-tovarov-i-organizatsiyu-massovyh-meropriyatij-shkolnikov-otpravili-na-kanikuly/
+https://perma.cc/L6PW-Y5HZ
+https://perma.cc/7R7D-LFG4
+https://perma.cc/5WM4-BRJ9
 
 
 
@@ -311,7 +317,7 @@ https://khovar.tj/rus/2020/04/srochnaya-novost-v-tadzhikistane-zapretili-eksport
  Legislature approval is required for declaring a state of emergency but not for other measures (Article 69 of the Constitution) 
 
 *Sources*:
- https://minjust.ww.tj/library/constitution_rus.pdf
+ https://perma.cc/RS8K-WS23
 
 
 
@@ -353,7 +359,7 @@ https://khovar.tj/rus/2020/04/srochnaya-novost-v-tadzhikistane-zapretili-eksport
  Not required by law. 
 
 *Sources*:
- http://www.president.tj/ru/node/23055
+ https://perma.cc/7LWQ-55US
 
 
 
@@ -399,11 +405,16 @@ https://khovar.tj/rus/2020/04/srochnaya-novost-v-tadzhikistane-zapretili-eksport
  No limitations on the legislature mentioned in the decree. Based on the legislature's website, its activities were not affected by the measures and it held sessions. 
 
 *Sources*:
- http://www.president.tj/ru/node/23055
-http://majmilli.tj/category/habarho/
+ https://perma.cc/8TJ8-KHD7
 
-http://majmilli.tj/%d0%b1%d0%b0%d1%80%d0%b3%d1%83%d0%b7%d0%be%d1%80%d0%b8%d0%b8-%d0%b8%d2%b7%d0%bb%d0%be%d1%81%d0%b8%d1%8f%d0%b8-%d0%b4%d1%83%d1%8e%d0%bc%d0%b8-%d0%bc%d0%b0%d2%b7%d0%bb%d0%b8%d1%81%d0%b8-%d0%bc%d0%b8/
-http://majmilli.tj/%d0%b1%d0%b0%d1%80%d0%b3%d1%83%d0%b7%d0%be%d1%80%d0%b8%d0%b8-%d0%b8%d2%b7%d0%bb%d0%be%d1%81%d0%b8%d1%8f%d0%b8-%d1%8f%d0%ba%d1%83%d0%bc%d0%b8-%d0%bc%d0%b0%d2%b7%d0%bb%d0%b8%d1%81%d0%b8-%d0%bc%d0%b8/
+
+https://perma.cc/B5HQ-F3EF
+
+
+https://perma.cc/LP5N-C6AP
+
+
+https://perma.cc/BJA6-UN32
 
 
 
@@ -525,7 +536,7 @@ http://majmilli.tj/%d0%b1%d0%b0%d1%80%d0%b3%d1%83%d0%b7%d0%be%d1%80%d0%b8%d0%b8-
  Uniform measures throughout the country. 
 
 *Sources*:
- http://www.president.tj/ru/node/23055
+ https://perma.cc/7LWQ-55US
 
 
 
@@ -569,7 +580,7 @@ http://majmilli.tj/%d0%b1%d0%b0%d1%80%d0%b3%d1%83%d0%b7%d0%be%d1%80%d0%b8%d0%b8-
  No de-jure disciminating provisions and no information on de-facto discrimination found 
 
 *Sources*:
- http://www.president.tj/ru/node/23055
+ https://perma.cc/7LWQ-55US
 
 
 
@@ -618,7 +629,7 @@ http://majmilli.tj/%d0%b1%d0%b0%d1%80%d0%b3%d1%83%d0%b7%d0%be%d1%80%d0%b8%d0%b8-
  No measures violating non-derogable rights found 
 
 *Sources*:
- http://www.president.tj/ru/node/23055
+ https://perma.cc/7LWQ-55US
 
 
 
@@ -667,15 +678,14 @@ Moreover, IPI also argues that the provisions of the new law are vague and "do n
  
 
 *Sources*:
- https://jumhuriyat.tj/index.php?art_id=41162
-https://parlament.tj/news/133-ta-jirot-ba-kodeksi-andoz
-https://cpj.org/2020/06/tajikistan-parliament-approves-amendments-imposing-fines-detentions-for-false-news-amid-covid-19-pandemic/
-https://ipi.media/covid19-media-freedom-monitoring/
-https://ipi.media/tajikistan-passes-coronavirus-fake-news-law/
+ https://perma.cc/K86A-JPZ9
+https://perma.cc/667B-ASMY
+https://perma.cc/BB2Z-ALCK
+https://perma.cc/5E9Y-WTNK
 (2)
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#tajikistan
 
-https://rsf.org/en/news/new-tajik-legislation-hampers-coronavirus-coverage
+https://perma.cc/XZQ7-MY6C
+https://perma.cc/8XNM-CK4G
 (1)
 
 
@@ -796,23 +806,21 @@ https://rsf.org/en/news/new-tajik-legislation-hampers-coronavirus-coverage
  According to Reporters without Borders, "Ranked 161st out of 180 countries in RSF's 2020 World Press Freedom Index, Tajikistan has fallen 45 places since 2015, above all because of massive online censorship and harassment of the few independent journalists who are still trying to work." (1) Media reporting has been further limited due to new regulations on "false information" . According to Reporters without Borders, "Under the amendments to the Administrative Code voted by the Tajik parliament on 10 June, anyone providing  “false” or “inaccurate” information about Covid-19 in the media or on social media could be fined up to 1,160 somoni (995 euros) – nearly twice the minimum monthly wage." 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-crisis-makes-reporting-even-harder-tajikistan
+ https://perma.cc/5EQ6-3JCX
 (1)
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B702%5D&covid19=1
 
-https://rsf.org/en/news/tajik-reporters-assailants-get-nothing-more-fines
-https://www.usagm.gov/2020/08/26/journalists-in-tajikistan-denied-accreditation-again/#:~:text=Again.,-August%2026%2C%202020&text=In%20Tajikistan%2C%20the%20Ministry%20of,able%20to%20do%20their%20work.
-https://jumhuriyat.tj/index.php?art_id=41162
-https://parlament.tj/news/133-ta-jirot-ba-kodeksi-andoz
-https://cpj.org/2020/06/tajikistan-parliament-approves-amendments-imposing-fines-detentions-for-false-news-amid-covid-19-pandemic/
-https://ipi.media/covid19-media-freedom-monitoring/
-https://ipi.media/tajikistan-passes-coronavirus-fake-news-law/
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#tajikistan
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-https://rsf.org/en/news/tajikistan-imposes-total-control-over-independent-broadcast-media
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tajikistan/
-https://rsf.org/en/news/new-tajik-legislation-hampers-coronavirus-coverage
+https://perma.cc/CX67-KWC3
+https://perma.cc/J7UH-BULT
+https://perma.cc/3YND-CCQS
+https://perma.cc/7UMS-7222
+https://perma.cc/DEB8-TMYP
+https://perma.cc/Y6QN-P33N
+https://perma.cc/667B-ASMY
+https://perma.cc/2KJP-JTMW
+https://perma.cc/Q3CD-6E26
+https://perma.cc/23QB-9VGF
+https://perma.cc/58MR-KAG7
+https://perma.cc/4K8Q-DUUN
 (2)
 
 
@@ -855,23 +863,20 @@ https://rsf.org/en/news/new-tajik-legislation-hampers-coronavirus-coverage
  According to Reporters without Borders, "Ranked 161st out of 180 countries in RSF's 2020 World Press Freedom Index, Tajikistan has fallen 45 places since 2015, above all because of massive online censorship and harassment of the few independent journalists who are still trying to work."  (1)Media reporting has been further limited due to new regulations on "false information". According to Reporters without Borders, "Under the amendments to the Administrative Code voted by the Tajik parliament on 10 June, anyone providing  “false” or “inaccurate” information about Covid-19 in the media or on social media could be fined up to 1,160 somoni (995 euros) – nearly twice the minimum monthly wage."  (2) 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-crisis-makes-reporting-even-harder-tajikistan
+ https://perma.cc/5EQ6-3JCX
 (1)
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B702%5D&covid19=1
 
-https://rsf.org/en/news/tajik-reporters-assailants-get-nothing-more-fines
-https://www.usagm.gov/2020/08/26/journalists-in-tajikistan-denied-accreditation-again/#:~:text=Again.,-August%2026%2C%202020&text=In%20Tajikistan%2C%20the%20Ministry%20of,able%20to%20do%20their%20work.
-https://jumhuriyat.tj/index.php?art_id=41162
-https://parlament.tj/news/133-ta-jirot-ba-kodeksi-andoz
-https://cpj.org/2020/06/tajikistan-parliament-approves-amendments-imposing-fines-detentions-for-false-news-amid-covid-19-pandemic/
-https://ipi.media/covid19-media-freedom-monitoring/
-https://ipi.media/tajikistan-passes-coronavirus-fake-news-law/
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#tajikistan
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-https://rsf.org/en/news/tajikistan-imposes-total-control-over-independent-broadcast-media
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tajikistan/
-https://rsf.org/en/news/new-tajik-legislation-hampers-coronavirus-coverage
+https://perma.cc/CX67-KWC3
+https://perma.cc/J7UH-BULT
+https://perma.cc/3YND-CCQS
+https://perma.cc/7UMS-7222
+https://perma.cc/DEB8-TMYP
+https://perma.cc/Y6QN-P33N
+https://perma.cc/667B-ASMYhttps://perma.cc/2KJP-JTMW
+https://perma.cc/Q3CD-6E26
+https://perma.cc/23QB-9VGF
+https://perma.cc/58MR-KAG7
+https://perma.cc/4K8Q-DUUN
 (2)
 
 
@@ -914,7 +919,7 @@ https://rsf.org/en/news/new-tajik-legislation-hampers-coronavirus-coverage
  Journalists were not allowed to be present during the trial of Daler Sharifov on the basis of Covid-19 preventative measures in April 2020. Since it is a single cases, merepoth is coded as 1 only during Q2 2020. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tajikistan/
+ https://perma.cc/WU8J-APNX
 
 
 
@@ -966,15 +971,17 @@ Since there have been numberous violations and I found no evidence that the situ
  
 
 *Sources*:
- https://centralasiaprogram.org/archives/18278?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+CAPGWU+%28Central+Asia+Program%2C+George+Washington+University%29
+ https://perma.cc/7FZE-PPPQ
 (1)
-https://rsf.org/en/news/coronavirus-crisis-makes-reporting-even-harder-tajikistan
+
+https://perma.cc/C8C9-5GYF
 (2)
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B702%5D&covid19=1
-https://rsf.org/en/news/new-tajik-legislation-hampers-coronavirus-coverage
-https://rsf.org/en/news/collateralfreedom-rsf-unblocks-eight-sites-censored-during-pandemic
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/tajikistan/
+
+https://perma.cc/J7UH-BULT
+https://perma.cc/X2M7-KKEZ
+https://perma.cc/EMC2-E43H
+https://perma.cc/2DKP-ZVQ2
+https://perma.cc/WU8J-APNX
 
 
 
@@ -1016,7 +1023,7 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/taj
  A journalist received threats from government-linked online trolls after reporting on the government's response to covid-19, as well as anonymous threats on social media. Since it is an individual case and I found no evidence that the practice is systemic, mevhar is coded as 1 only during March-June 2020 period. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/13/attack-tajik-journalist-reporting-covid-19
+ https://perma.cc/CEZ2-LKVU
 
 
 
@@ -1058,8 +1065,10 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/taj
  On 11 and 29 May 2929, a journalist reporting on the government's response to covid-19 was attacked. According to the journalist, the attackers presented themselves as  representatives of the State Committee for National Security, but it was not confirmed that the attackers were state agents. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/13/attack-tajik-journalist-reporting-covid-19
-https://cpj.org/2020/05/tajik-journalist-avazmad-ghurbatov-beaten-by-unide/
+ https://perma.cc/CEZ2-LKVU
+
+
+https://perma.cc/63SD-QKGP
 
 
 
@@ -1103,10 +1112,11 @@ https://cpj.org/2020/05/tajik-journalist-avazmad-ghurbatov-beaten-by-unide/
  The government publishes information on covid-19 on the health ministry website (1). In March 2020, the health minister gave an interview to a state-run newspaper saying that covid-19 is less likely to spread in Tajikistan due to its hot climate. Coded as 1 in March-June 2020 since information on the official website is in line with WHO recommendations.  Since it was a single incident and I found no further reports on disinformation, govdis is coded as 1 only in Q2 2020. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
-http://moh.tj/covid-19/
+ https://perma.cc/C8K9-HZ2C
+https://web.archive.org/web/20200405140843/http://moh.tj/covid-19/
 (1)
-https://www.economist.com/asia/2020/04/23/life-carries-on-as-usual-in-tajikistan-and-turkmenistan
+
+https://perma.cc/VL2Z-2V4K
 
 
 
@@ -1150,8 +1160,11 @@ https://www.economist.com/asia/2020/04/23/life-carries-on-as-usual-in-tajikistan
  No instances of police or military violence found. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/tajikistan/
-https://www.hrw.org/europe/central-asia/tajikistan
+ https://perma.cc/HV3Q-ABTK
+
+
+
+https://perma.cc/6YK4-NELY
 
 
 
@@ -1193,4 +1206,4 @@ https://www.hrw.org/europe/central-asia/tajikistan
  No information found. 
 
 *Sources*:
- https://vkd.tj/
+ https://perma.cc/K54N-UNVS

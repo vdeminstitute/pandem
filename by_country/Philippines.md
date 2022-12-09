@@ -49,21 +49,11 @@
 3: The national state of calamity was extended by a year to September 2021 on 22 September 2020. 
 
 *Sources*:
- http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regulartion_RA_10121.pdf
-
-https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-punishment
-
-
-https://www.officialgazette.gov.ph/downloads/2020/04apr/20200401-IRR-RA-11469-RRD.pdf
-
-
-https://apnews.com/article/virus-outbreak-leni-robredo-philippines-asia-east-asia-28b530198c4f86cd7e40675285d2f3a5
-
-
-https://www.wsws.org/en/articles/2020/09/30/phil-s30.html
-
-
-https://www.pna.gov.ph/articles/1115937
+ https://perma.cc/EDZ5-C2F9
+https://perma.cc/2RLE-4QKQ
+https://perma.cc/JQK9-56BE
+https://perma.cc/HWA4-82T7
+https://perma.cc/QT8M-BJRV
 
 
 
@@ -102,12 +92,8 @@ https://www.pna.gov.ph/articles/1115937
 *No comment provided* 
 
 *Sources*:
- http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regulartion_RA_10121.pdf
-
-
-
-
-https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-punishment
+ https://perma.cc/EQG3-5C79
+https://perma.cc/EDZ5-C2F9
 
 
 
@@ -146,12 +132,8 @@ https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-pu
 *No comment provided* 
 
 *Sources*:
- http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regulartion_RA_10121.pdf
-
-
-
-
-https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-punishment
+ https://perma.cc/EQG3-5C79
+https://perma.cc/EDZ5-C2F9
 
 
 
@@ -190,16 +172,10 @@ https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-pu
  The state of calamity was first introduced on 16 March 2020 for a period of six months. This was further extended by a year to 12 September 2021 on 22 September 2020. 
 
 *Sources*:
- http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regulartion_RA_10121.pdf
-https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-punishment
-
-https://apnews.com/article/virus-outbreak-leni-robredo-philippines-asia-east-asia-28b530198c4f86cd7e40675285d2f3a5
-
-
-https://www.wsws.org/en/articles/2020/09/30/phil-s30.html
-
-
-https://www.pna.gov.ph/articles/1115937
+ https://perma.cc/EDZ5-C2F9
+https://perma.cc/2RLE-4QKQ
+https://perma.cc/HWA4-82T7
+https://perma.cc/QT8M-BJRV
 
 
 
@@ -241,16 +217,11 @@ https://www.pna.gov.ph/articles/1115937
  The state of calamity was first introduced on 16 March 2020 for a period of six months. This was further extended by a year to 12 September 2021 on 22 September 2020. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-punishment
-http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regulartion_RA_10121.pdf
-
-https://apnews.com/article/virus-outbreak-leni-robredo-philippines-asia-east-asia-28b530198c4f86cd7e40675285d2f3a5
-
-
-https://www.wsws.org/en/articles/2020/09/30/phil-s30.html
-
-
-https://www.pna.gov.ph/articles/1115937
+ https://perma.cc/EQG3-5C79
+https://perma.cc/EDZ5-C2F9
+https://perma.cc/HWA4-82T7
+https://perma.cc/HWA4-82T7
+https://perma.cc/QT8M-BJRV
 
 
 
@@ -289,12 +260,8 @@ https://www.pna.gov.ph/articles/1115937
  The state of calamity was first introduced on 16 March 2020 for a period of six months. This was further extended by a year to September 2021 on 22 September 2020. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-punishment
-
-
-
-
-http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regulartion_RA_10121.pdf
+ https://perma.cc/EQG3-5C79
+https://perma.cc/EDZ5-C2F9
 
 
 
@@ -336,17 +303,9 @@ http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regularti
  The law requires the national ledislature to approve the implementation of the legal instrument. 
 
 *Sources*:
- http://www.congress.gov.ph/press/details.php?pressid=11841
-
-
-
-
-https://newsinfo.inquirer.net/1246872/house-approves-bill-declaring-national-emergency-due-to-coronavirus
-
-
-
-
-https://newsinfo.inquirer.net/1247363/senate-oks-bill-granting-duterte-special-powers-to-fight-covid-19
+ https://perma.cc/9XFJ-2GHY
+https://perma.cc/W5JX-BJ9P
+https://perma.cc/75TR-6AZB
 
 
 
@@ -388,17 +347,9 @@ https://newsinfo.inquirer.net/1247363/senate-oks-bill-granting-duterte-special-p
  The legislature approved of the implementation of the Bayanihan to Heal as One Act. 
 
 *Sources*:
- http://www.congress.gov.ph/press/details.php?pressid=11841
-
-
-
-
-https://newsinfo.inquirer.net/1246872/house-approves-bill-declaring-national-emergency-due-to-coronavirus
-
-
-
-
-https://newsinfo.inquirer.net/1247363/senate-oks-bill-granting-duterte-special-powers-to-fight-covid-19
+ https://perma.cc/9XFJ-2GHY
+https://perma.cc/W5JX-BJ9P
+https://perma.cc/75TR-6AZB
 
 
 
@@ -444,12 +395,8 @@ https://newsinfo.inquirer.net/1247363/senate-oks-bill-granting-duterte-special-p
  Under the state of calamity, the powers that the president is allowed to exercise include1: "Temporarily take over or direct the operations" of public utilities and privately owned health facilities and other necessary facilities.2: Enabling him to "reallocate, realign, and reprogram" a budget of almost 275 billion ($5.37 billion) from the estimated 438 billion ($8.55 billion) national budget approved for 2020, in response to the pandemic.3: The accommodation of health professionals, and the distribution and storage of medical relief; and "facilitate and streamline" the accreditation of testing kits. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-punishment
-
-
-
-
-http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regulartion_RA_10121.pdf
+ https://perma.cc/EQG3-5C79
+https://perma.cc/EDZ5-C2F9
 
 
 
@@ -571,26 +518,14 @@ http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regularti
  The emergency measures have varied slightly at the sub national level according to the severity of Covid-19 in the different regions of the country. 
 
 *Sources*:
- http://www.congress.gov.ph/press/details.php?pressid=11841
-
-
-
-
-https://www.officialgazette.gov.ph/downloads/2020/04apr/20200401-IRR-RA-11469-RRD.pdf
-
-https://www.garda.com/crisis24/news-alerts/384106/philippines-authorities-extend-partial-covid-19-restrictions-in-manila-until-october-31-update-37
-
-https://www.garda.com/crisis24/news-alerts/383066/philippines-authorities-tighten-restrictions-in-iloilo-city-until-october-9-update-36
-
-https://www.garda.com/crisis24/news-alerts/488181/philippines-heightened-security-measures-remain-in-place-in-mindanao-as-of-june-9
-
-https://www.garda.com/crisis24/news-alerts/485306/philippines-officials-to-continue-general-community-quarantine-in-metro-manila-surrounding-areas-until-at-least-june-15-update-7
-
-https://www.garda.com/crisis24/news-alerts/485416/philippines-authorities-extends-covid-19-community-quarantine-measures-of-varying-levels-nationwide-through-june-15-due-to-covid-19-update-68
-
-https://www.garda.com/crisis24/news-alerts/487026/philippines-authorities-to-enact-entry-restrictions-in-dinagat-islands-province-june-7-21
-
-
+ https://perma.cc/BU9T-ZF2U
+https://perma.cc/BM6F-XSZA
+https://perma.cc/JUY6-JSSM
+https://perma.cc/N5PR-XDU5
+https://perma.cc/FG2A-8T64
+https://perma.cc/SPA8-3E4B
+https://perma.cc/YP7U-45VE
+https://perma.cc/UQ4M-Z6JR
 
 
 
@@ -638,17 +573,10 @@ https://www.garda.com/crisis24/news-alerts/487026/philippines-authorities-to-ena
 2: There have been reports of acts of racism committed against the Chinese community in the Philippines. For example, Adamson University in Manila ordered all of its Chinese students to quarantine themselves during the outbreak regardless of their travel history in February 2020. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-punishment
-
-
-
-https://www.hrw.org/news/2020/04/22/philippine-activists-charged-sedition-fake-news
-
-
-https://www.cnnphilippines.com/news/2020/2/1/groups-decry-racism-coronavirus-china.html
-
-
-https://news.abs-cbn.com/news/02/01/20/adamson-apologizes-revises-racist-memo-after-online-backlash
+ https://perma.cc/EQG3-5C79
+https://perma.cc/A5ES-WU2H
+https://perma.cc/QJ33-VA63
+https://perma.cc/G22F-MF4K
 
 
 
@@ -709,18 +637,11 @@ https://news.abs-cbn.com/news/02/01/20/adamson-apologizes-revises-racist-memo-af
 6: In April 2021, a man died performing punishment as dictated by officers after he was caught breaking the quarantine rules. He was made to do 300 squat-like exercises. He was reported to have been in pain and struggled to move after getting back home and died shortly after. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/03/philippine-children-face-abuse-violating-covid-19-curfew
-
-
-https://gulfnews.com/world/asia/philippines/duterte-to-philippine-police-shoot-dead-coronavirus-lockdown-troublemakers-1.1585816367011
-
-
-https://www.businessinsider.com/philippines-police-arrested-people-for-breaching-lockdown-2020-7?r=US&IR=T
-
-
-https://www.amnesty.org/en/latest/news/2020/04/philippines-president-duterte-shoot-to-kill-order-pandemic/
-
-https://www.bbc.com/news/world-asia-56641398
+ https://perma.cc/74NC-EJGA
+https://perma.cc/SS9Q-CUSE
+https://perma.cc/Y7B9-XV9G
+https://perma.cc/2D73-RCVB
+https://perma.cc/QV98-ENUR
 
 
 
@@ -764,22 +685,11 @@ https://www.bbc.com/news/world-asia-56641398
  False information of the Covid-19 Crisis‚ under section 6(6) of the "Bayanihan to Heal as One Act": Philippines President Rodrigo Duterte signed a bill on 25 March 2020 that gives him special powers. These powers include imposing prison sentences of two months or a maximum fine of approximately US $ 19,500 for spreading "fake news" about Covid-19. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
+ https://perma.cc/G3WY-NUBM
 
-
-
-
-
-https://www.cnnphilippines.com/news/2020/3/25/Fake-news-peddlers-P1-million-fine-under-Duterte-special-powers.html
-
-
-
-https://www.rappler.com/nation/255753-duterte-special-powers-bill-coronavirus-fines-fake-news
-
-
-
-
-https://rsf.org/en/news/two-philippine-journalists-face-two-months-prison-coronavirus-reporting
+https://perma.cc/RZ8B-2UEN
+https://perma.cc/XX6E-26FH
+https://perma.cc/8DJJ-AA9M
 
 
 
@@ -818,22 +728,11 @@ https://rsf.org/en/news/two-philippine-journalists-face-two-months-prison-corona
 *No comment provided* 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
+ https://perma.cc/G3WY-NUBM
 
-
-
-
-
-https://www.cnnphilippines.com/news/2020/3/25/Fake-news-peddlers-P1-million-fine-under-Duterte-special-powers.html
-
-
-
-https://www.rappler.com/nation/255753-duterte-special-powers-bill-coronavirus-fines-fake-news
-
-
-
-
-https://rsf.org/en/news/two-philippine-journalists-face-two-months-prison-coronavirus-reporting
+https://perma.cc/RZ8B-2UEN
+https://perma.cc/XX6E-26FH
+https://perma.cc/8DJJ-AA9M
 
 
 
@@ -872,16 +771,11 @@ https://rsf.org/en/news/two-philippine-journalists-face-two-months-prison-corona
  The national state of calamity was extended by a year to September 12 2021 on 22 September 2020. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/08/philippines-uses-humiliation-covid-curfew-punishment
-http://www.ndrrmc.gov.ph/attachments/article/95/Implementing_Rules_and_Regulartion_RA_10121.pdf
-
-https://apnews.com/article/virus-outbreak-leni-robredo-philippines-asia-east-asia-28b530198c4f86cd7e40675285d2f3a5
-
-
-https://www.wsws.org/en/articles/2020/09/30/phil-s30.html
-
-
-https://www.pna.gov.ph/articles/1115937
+ https://perma.cc/EQG3-5C79
+https://perma.cc/EDZ5-C2F9
+https://perma.cc/HWA4-82T7
+https://perma.cc/HWA4-82T7
+https://perma.cc/QT8M-BJRV
 
 
 
@@ -923,10 +817,8 @@ https://www.pna.gov.ph/articles/1115937
  Section 6(6) of the “Bayanihan to Heal As One Act” prohibits the spreading of “false information on the Covid-19 crisis”. This has been used against two journalists for the alleged spread of fake reports on Covid-19. 
 
 *Sources*:
- https://rsf.org/en/news/two-philippine-journalists-face-two-months-prison-coronavirus-reporting
-
-
-https://www.cnnphilippines.com/news/2020/3/28/cavite-town-mayor-charges-fake-COVID-19-reports.html
+ https://perma.cc/8DJJ-AA9M
+https://perma.cc/ZRV5-R3JW
 
 
 
@@ -972,11 +864,9 @@ https://www.cnnphilippines.com/news/2020/3/28/cavite-town-mayor-charges-fake-COV
 I did not find new cases of the media facing de-facto limitation on reporting about the government response to the pandemic. However the general media situation in the country has only worsened in the past year. Furthermore the bill mentioned above would act as a strong deterrent discouraging journalist from being critical of the government's response to the pandemic. Hence, I have continued to code this variable as 1 across all the time periods. 
 
 *Sources*:
- https://rsf.org/en/news/two-philippine-journalists-face-two-months-prison-coronavirus-reporting
-
-https://www.cnnphilippines.com/news/2020/3/28/cavite-town-mayor-charges-fake-COVID-19-reports.html
-
-https://rsf.org/en/philippines
+ https://perma.cc/8DJJ-AA9M
+https://perma.cc/ZRV5-R3JW
+https://perma.cc/U45B-AKSD
 
 
 
@@ -1020,12 +910,9 @@ https://rsf.org/en/philippines
 The ABS-CSN network continues to be closed in 2021. 
 
 *Sources*:
- https://www.theguardian.com/world/2020/may/05/philippines-main-channel-abs-cbn-forced-off-air-amid-coronavirus-lockdown
-
-
-https://www.nytimes.com/2020/05/14/world/asia/duterte-philippines-tv-network-ABS-CBN.html
-
-https://www.hrw.org/news/2021/02/11/duterte-should-leave-alone-philippines-tv-network
+ https://perma.cc/J65X-9ZZ6
+https://perma.cc/2BQS-V2DE
+https://perma.cc/JUM8-TXQ9
 
 
 
@@ -1068,12 +955,9 @@ https://www.hrw.org/news/2021/02/11/duterte-should-leave-alone-philippines-tv-ne
  President Duterte's emergency regulations were preventing independent media from covering official briefings on Covid-19 in the country during the enhanced community quaratine period which lasted till 31 May 2020. Only official media were allowed to attend the briefings. Independent media could join through video conferencing and submit their questions to the moderator before the briefings started. This effectively bared independent media from seeking clarifications after the briefings. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-
-https://www.philstar.com/headlines/2020/03/27/2003783/media-no-longer-allowed-inside-palaces-briefing-room-during-luzon-wide-lockdown
-
-
-https://www.garda.com/crisis24/news-alerts/341506/philippines-modified-enhanced-community-quarantine-to-be-imposed-in-high-risk-areas-from-may-16-update-19
+ https://perma.cc/G3WY-NUBM
+https://perma.cc/DU3G-ZUTG
+https://perma.cc/T2PB-3ZMD
 
 
 
@@ -1115,10 +999,8 @@ https://www.garda.com/crisis24/news-alerts/341506/philippines-modified-enhanced-
  I did not find any information related to this 
 
 *Sources*:
- https://rsf.org/en/philippines
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/philippines/
+ https://perma.cc/U45B-AKSD
+https://perma.cc/9CJJ-Q3RN
 
 
 
@@ -1160,7 +1042,7 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/philippines/
  I did not find any information related to this. 
 
 *Sources*:
- https://reutersinstitute.politics.ox.ac.uk/our-research/caught-between-five-extremes-reporting-pakistan
+ https://perma.cc/F57J-ZLZG
 
 
 
@@ -1204,7 +1086,7 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/philippines/
  I did not find evidence of this. 
 
 *Sources*:
- https://www.doh.gov.ph/2019-nCoV
+ https://perma.cc/B6MA-R67W
 
 
 
@@ -1258,20 +1140,12 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/philippines/
 I have not found new cases of police violence. However since these incidents appear to be occuring frequently, I have coded this variable as 2 on all time periods. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/03/philippine-children-face-abuse-violating-covid-19-curfew
-
-
-https://www.rappler.com/nation/256369-lockdown-violators-arrested-philippines-march-2020
-
-
-https://www.vice.com/en_ca/article/ep4mgm/philippines-cop-kneel-man-coronavirus-violation-police-brutality
-
-
-https://foreignpolicy.com/2020/04/16/duterte-philippines-coronavirus-response-shoot-them-dead/
-
-https://www.amnesty.org/en/latest/news/2021/04/philippines-faces-health-human-rights-crisis-covid/
-
-https://www.rappler.com/nation/pnp-no-more-arrests-quarantine-violators-during-mecq
+ https://perma.cc/74NC-EJGA
+https://perma.cc/9L7Y-K2V5
+https://perma.cc/ZQ6E-EGH4
+https://perma.cc/5CR7-QHBM
+https://perma.cc/DDB8-UJVV
+https://perma.cc/5M7M-EN8A
 
 
 
@@ -1313,22 +1187,11 @@ https://www.rappler.com/nation/pnp-no-more-arrests-quarantine-violators-during-m
  The Military have been deployed in parts of the Philippines to enforce the enhanced coronavirus quarantine measures since March 2020. President Duterte has also ordered the police and the military to arrest "unruly quarantine violators". 
 
 *Sources*:
- http://www.covid19.gov.ph/duterte-to-pnp-afp-be-ready-to-enforce-quarantine-protocols/
-
-
-https://www.reuters.com/article/us-health-coronavirus-philippines-idUSKCN24I191
-
-https://foreignpolicy.com/2020/04/16/duterte-philippines-coronavirus-response-shoot-them-dead/
-
-https://www.scmp.com/week-asia/economics/article/3080765/coronavirus-fears-grow-martial-law-lockdown-philippines
-
-
-https://www.pna.gov.ph/articles/1106957
-
-
-https://foreignpolicy.com/2020/06/15/coronavirus-pandemic-army-military-southeast-asia-boost-indonesia-philippines-jokowi-duterte-authoritarianism/
-
-
-https://www.dw.com/en/covid-19-in-philippines-police-deployed-to-implement-fresh-lockdowns/a-54243337
-
-https://time.com/5945616/covid-philippines-pandemic-lockdown/
+ https://perma.cc/EV5B-RYUZ
+https://perma.cc/DRJ5-JJYL
+https://perma.cc/LU8K-GUVA
+https://perma.cc/R6VW-M7FK
+https://perma.cc/Z7Y7-ZC5X
+https://perma.cc/A5PR-CAGY
+https://perma.cc/HB6M-5NQL
+https://perma.cc/BR8G-KZK5

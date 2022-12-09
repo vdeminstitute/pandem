@@ -45,9 +45,8 @@
  Iran has a state of emergency legislation in their constitution (Article 79), but this has not been activated. They have implemented several emergency measures, such as curfews, school closings, closing religious and public places and so on, but this has not been in reference to any such legal instrument. Likewise, the reentrance of several measures during October and November in 2020 had no references to legal instruments as far as have been found. Iran’s Supreme National Security Council set up a National Headquarter to Combat Corona in early 2020, which was given the authority to decide and impose measure against Covid-19, and it is this group (along with confirmation over decisions from the supreme leader) that has determined the measures for Iran. Neither such a group nor the measures it’s taken has been found to have any reference to legal instruments (the decisions by this group has no defined legal status, and are not subject to legal review as they are not technically laws, for instance). This is therefore coded as 5, Iran has a national level emergency response but without any specific legal instrument for those emergency measures. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Iran_1989.pdf?lang=en
-
-http://www.president.ir/en/search
+ https://perma.cc/4SGJ-QEGR
+https://perma.cc/6JTA-KYL3
 (search
 for
 Covid-19
@@ -56,25 +55,18 @@ get
 governments
 communication/response)
 
-https://www.acaps.org/covid19-government-measures-dataset
+https://perma.cc/77AL-SQ9C
+https://perma.cc/XE3D-CVCF
+https://perma.cc/4BNF-P4M7
+https://perma.cc/96RZ-7BT9
+https://perma.cc/2LJR-NH2C
+https://perma.cc/6H9J-AHJE
 
-https://www.garda.com/crisis24/news-alerts?search_api_fulltext=Iran&field_news_alert_categories=All&field_news_alert_crit=All&items_per_page=20
+https://perma.cc/S6SK-KFA2
 
-https://verfassungsblog.de/the-iranian-legal-response-to-Covid-19-a-constitutional-analysis-of-coronavirus-lockdown/
+https://perma.cc/2LJR-NH2C
 
-https://www.garda.com/crisis24/news-alerts/402201/iran-authorities-to-impose-tightened-Covid-19-restrictions-from-november-21-update-42
-
-https://www.garda.com/crisis24/news-alerts/395361/iran-authorities-to-tighten-Covid-19-restrictions-in-25-provinces-november-4-update-40
-https://verfassungsblog.de/irans-Covid-19-response-who-calls-the-shots/
-
-
-https://www.garda.com/crisis24/news-alerts/465491/iran-health-officials-impose-further-restrictions-in-most-of-the-country-april-10-20-due-to-Covid-19-tehrans-Covid-19-status-remains-red-update-36
-
-
-https://www.garda.com/crisis24/news-alerts/422091/iran-authorities-introduce-nightly-2100-0400-traffic-curfew-in-several-cities-to-stem-the-spread-of-coronavirus-disease-as-of-dec-26-update-29
-
-
-https://www.garda.com/crisis24/news-alerts/409721/iran-authorities-extend-Covid-19-restrictions-in-high-risk-areas-through-dec-19-update-27
+https://perma.cc/8ZF7-6EKY
 
 
 
@@ -402,16 +394,25 @@ https://www.garda.com/crisis24/news-alerts/409721/iran-authorities-extend-Covid-
  In February 2020 Iran’s Supreme National Security Council issued an order to set up the National Headquarter to Combat Corona (NHCC), which was given extensive authority. For instance, the Supreme Leader of Iran stated that following the NHCC orders is a legal obligation. The legal grounds for the NHCC is unclear, and their orders seem to not be  legally defined (they are not subject to judicial review for instance, so they are not counted as laws). The majority of the response to Covid-19 has been handled by the NHCC, which has no obligation to consult parliament and parliament cannot veto their decisions in any way as far as I’ve found. At the same time, the Iranian parliament has continued to sit, and they have also debated and enacted other laws during the time (for instance financial aid packages related to Covid-19). Thus, their activities have not been suspended, but their capacity to be involved in the Covid-19 measures and strategy is limited. This can also be compared to if Iran would have imposed a state of emergency as stipulated in the constitution, where parliament needs to approve such an SOE and where they need to reapprove it every thirty days or it expires (although, during an SOE the government would also rule by decree, so parliaments role here would have been oversight as well as approving or not approving the SOE itself). Thus, the government and the Supreme Leader has ruled by decree through the NHCC, and the role of parliament has been limited in combating Covid-19 (note also that even under regular circumstances, the Iranian parliament is limited in the many existing restrictions where several formal and informal powers can monitor and veto the parliament's actions, but this is not related to Covid-19 or the emergency measures). This is therefore coded 3 for all time periods. 
 
 *Sources*:
- https://verfassungsblog.de/the-iranian-legal-response-to-Covid-19-a-constitutional-analysis-of-coronavirus-lockdown/
-
-https://verfassungsblog.de/irans-Covid-19-response-who-calls-the-shots/
+ https://perma.cc/A54W-24WP
 
 
+https://perma.cc/6K9X-QNLE
 
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#I
-https://uk.reuters.com/article/uk-health-coronavirus-iran-parliament/new-iran-parliament-convenes-under-strict-coronavirus-curbs-idUKKBN2330XZ
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.garda.com/crisis24/news-alerts?https://www.garda.com/crisis24/news-alerts?search_api_fulltext=Iran&field_news_alert_categories=All&field_news_alert_crit=All&items_per_page=20
+
+
+
+
+https://perma.cc/NU7L-B4YM
+
+
+https://perma.cc/Y2ZM-P7GX
+
+
+https://perma.cc/D37S-6G97
+
+
+https://perma.cc/2K9U-APLS
 
 
 
@@ -533,20 +534,31 @@ https://www.garda.com/crisis24/news-alerts?https://www.garda.com/crisis24/news-a
  In Q2 of 2020, Iran's emergency measures have been implemented nationwide by the government, and no sub-national variation in these measures have been found. This is therefore coded as 0 for this period. In Q3 of 2020, a little sub-national variation was introduced in that lockdown measures were reintroduced in Tehran on July 15 2020 due to a rise in Covid-19 cases. This period is therefore coded as 1. In Q4, more sub-national variation has emerged as new restrictions came in place in 25 of the 31 regions, as well as imposing new curfews in 31 cities, including Tehran. For this period, this is therefore coded 2. For Q1 and Q2 of 2021, this relative sub-national variation has continued, where restrictions are in part based on the extent of the viral spread, and some regions and cities are subject to more extensive restrictions. Thus, this is coded as 2 for these periods as well. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/N9NhpAJjGdQ34cnYX/iran-officials-suspend-flights-to-and-from-china-due-to-novel-coronavirus-as-of-january-31
-
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.garda.com/crisis24/news-alerts/395361/iran-authorities-to-tighten-Covid-19-restrictions-in-25-provinces-november-4-update-40
-
-https://www.garda.com/crisis24/news-alerts/398556/iran-authorities-impose-curfew-in-tehran-and-30-other-cities-november-11-update-41
-https://www.garda.com/crisis24/news-alerts/465491/iran-health-officials-impose-further-restrictions-in-most-of-the-country-april-10-20-due-to-Covid-19-tehrans-Covid-19-status-remains-red-update-36
+ https://perma.cc/WNY7-HFY6
 
 
-https://www.garda.com/crisis24/news-alerts/422091/iran-authorities-introduce-nightly-2100-0400-traffic-curfew-in-several-cities-to-stem-the-spread-of-coronavirus-disease-as-of-dec-26-update-29
+https://perma.cc/DJR3-P4XT
 
 
-https://www.garda.com/crisis24/news-alerts/409721/iran-authorities-extend-Covid-19-restrictions-in-high-risk-areas-through-dec-19-update-27 
+https://perma.cc/V4UK-9YZE
+
+
+https://perma.cc/G3ZA-V4VU
+
+
+https://perma.cc/Y5UM-QM9V
+
+
+
+
+
+https://perma.cc/UK5A-DD7K
+
+
+
+
+
+https://perma.cc/2FB5-R7Y5
 
 
 
@@ -590,9 +602,10 @@ https://www.garda.com/crisis24/news-alerts/409721/iran-authorities-extend-Covid-
  Human Rights Watch and Amnesty International have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found for any of the periods. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9636
+ https://perma.cc/9FBS-RBSD
 
-https://www.amnesty.org/en/search/?q=&sort=date&country=38533
+
+https://perma.cc/4E8X-ZJC7
 
 
 
@@ -641,13 +654,25 @@ https://www.amnesty.org/en/search/?q=&sort=date&country=38533
  No evidence has been found that Iran has violated non-derogable rights within its Covid-19 response. While there are continuing allegations of other aspects of human rights violations in Iran, none of this has been found to be related to the Covid-19 measures in any way. This is therefore coded 0. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9636
-https://www.amnesty.org/en/search/?q=&sort=date&country=38533
-https://www.amnesty.org/en/latest/news/2020/04/iran-prisoners-killed-by-security-forces-during-covid19-pandemic-protests/
-https://www.middleeasteye.net/news/coronavirus-iran-inmates-killed-jail-protests-amnesty
-https://www.reuters.com/article/us-health-coronavirus-iran/u-n-worried-about-iran-prisoners-amid-coronavirus-outbreak-idUSKBN21L2EG
-https://www.unhcr.org/news/briefing/2021/4/606c19ad4/120000-refugees-assisted-access-irans-health-insurance-scheme.html
- 
+ https://perma.cc/3TP8-MTA9
+
+
+https://perma.cc/2K7R-BTNM
+
+
+https://perma.cc/5LGB-XHRL
+
+
+https://perma.cc/LM2M-PUHV
+
+
+https://perma.cc/L674-GRT4
+
+
+https://perma.cc/J7HN-NVB7
+
+
+
 
 
 
@@ -693,18 +718,14 @@ Reporters without borders also report that: "The Covid-19 National Management Of
 
 *Sources*:
  (1)
-https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-
+https://perma.cc/3GE2-ZCDF
 (2)
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/iran/report-iran/
-
-
-https://www.voanews.com/extremism-watch/iran-uses-arrests-censorship-silence-critical-covid-19-coverage
-https://www.aap.com.au/iran-orders-halt-to-printed-newspapers/
-
-https://cpj.org/2020/03/iran-bans-printing-of-all-newspapers-citing-spread/
-https://rsf.org/en/news/press-freedom-violations-recounted-real-time-january-december-2020
-https://irannewswire.org/iran-ministry-of-health-bans-unauthorized-info-on-vaccine-imports/
+https://perma.cc/W5H4-VKQR
+https://perma.cc/HF45-ULCN
+https://web.archive.org/web/20200403202526/https://www.aap.com.au/iran-orders-halt-to-printed-newspapers/
+https://perma.cc/2XU3-BXC5
+https://perma.cc/F69Q-EAA3
+https://perma.cc/NU6Y-BUW9
 
 
 
@@ -744,18 +765,14 @@ https://irannewswire.org/iran-ministry-of-health-bans-unauthorized-info-on-vacci
 
 *Sources*:
  (1)
-https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-
+https://perma.cc/3GE2-ZCDF
 (2)
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/iran/report-iran/
-
-
-https://www.voanews.com/extremism-watch/iran-uses-arrests-censorship-silence-critical-covid-19-coverage
-https://www.aap.com.au/iran-orders-halt-to-printed-newspapers/
-
-https://cpj.org/2020/03/iran-bans-printing-of-all-newspapers-citing-spread/
-https://rsf.org/en/news/press-freedom-violations-recounted-real-time-january-december-2020
-https://irannewswire.org/iran-ministry-of-health-bans-unauthorized-info-on-vaccine-imports/
+https://perma.cc/W5H4-VKQR
+https://perma.cc/HF45-ULCN
+https://web.archive.org/web/20200403202526/https://www.aap.com.au/iran-orders-halt-to-printed-newspapers/
+https://perma.cc/2XU3-BXC5
+https://perma.cc/F69Q-EAA3
+https://perma.cc/NU6Y-BUW9
 
 
 
@@ -795,18 +812,14 @@ https://irannewswire.org/iran-ministry-of-health-bans-unauthorized-info-on-vacci
 
 *Sources*:
  (1)
-https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-
+https://perma.cc/3GE2-ZCDF
 (2)
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/iran/report-iran/
-
-
-https://www.voanews.com/extremism-watch/iran-uses-arrests-censorship-silence-critical-covid-19-coverage
-https://www.aap.com.au/iran-orders-halt-to-printed-newspapers/
-
-https://cpj.org/2020/03/iran-bans-printing-of-all-newspapers-citing-spread/
-https://rsf.org/en/news/press-freedom-violations-recounted-real-time-january-december-2020
-https://irannewswire.org/iran-ministry-of-health-bans-unauthorized-info-on-vaccine-imports/
+https://perma.cc/W5H4-VKQR
+https://perma.cc/HF45-ULCN
+https://web.archive.org/web/20200403202526/https://www.aap.com.au/iran-orders-halt-to-printed-newspapers/
+https://perma.cc/2XU3-BXC5
+https://perma.cc/F69Q-EAA3
+https://perma.cc/NU6Y-BUW9
 
 
 
@@ -848,25 +861,34 @@ https://irannewswire.org/iran-ministry-of-health-bans-unauthorized-info-on-vacci
  There are several reports on journalists being arrested for reporting on the coronavirus, especially those who have published evidence that contradicts the governments figures about the spread of the virus and accused the Iranian government of misinformation about the Covid-19 situation in Iran. These Journalists have generally been accused of "Publishing false information about the coronavirus". A newspaper was also shut down for publishing an interview with an official working in Iran's Covid-19 Taskforce. In addition, the media in Iran is severely restricted in several ways and journalists are arrested and jailed for numerous reasons, generally limiting the capacity for reporting, including on Covid-19. This is therefore coded as 1 for all periods. 
 
 *Sources*:
- https://rsf.org/en/news/iran-press-freedom-violations-recounted-real-time-january-2020
-
-https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-
-https://cpj.org/2020/03/amid-coronavirus-pandemic-iran-covers-up-crucial-i/
-
-https://cpj.org/2020/08/iran-shuts-down-economic-newspaper-over-Covid-19-reporting/
-https://www.ifj.org/media-centre/news/detail/category/press-releases/article/iran-paper-banned-after-reporting-on-Covid-19-death-toll.html
-https://rsf.org/en/news/press-freedom-violations-recounted-real-time-january-december-2020
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Iran
-https://rsf.org/en/thematique/internet?countries%5B160%5D=160
-https://cpj.org/mideast/iran/
-https://www.ifj.org/es/centro-de-medios/noticias/detalle/category/press-releases/article/iran-state-covid-vaccination-center-guard-attacks-journalist.html
+ https://perma.cc/QD5S-2QXV
 
 
-https://journalismisnotacrime.com/en/features/3759/
+https://perma.cc/6D8X-AKJW
 
 
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26870&LangID=E 
+https://perma.cc/DGW4-FHQL
+
+
+https://perma.cc/PGE3-8S7V
+
+
+https://perma.cc/J3M3-UJL2
+
+
+https://perma.cc/2XE6-3S3E
+
+
+https://perma.cc/KKZ7-H3UV
+
+
+https://perma.cc/D7VT-LVLK
+
+
+https://perma.cc/WYA6-3KZ4
+
+
+https://perma.cc/M38S-MZFX
 
 
 
@@ -908,24 +930,43 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26870&LangID=E
  There are several reports on journalists being arrested for reporting on the coronavirus, especially those who have published evidence that contradicts the governments figures about the spread of the virus and accused the Iranian government of misinformation about the Covid-19 situation in Iran. These Journalists have generally been accused of "Publishing false information about the coronavirus". A newspaper was also shut down for publishing an interview with an official working in Iran's Covid-19 Taskforce. Since this reporting includes the prevalence of the virus, this is included in the government response. Beyond that, the media in Iran is severely restricted in several ways and journalists are arrested and jailed for numerous reasons, generally limiting the capacity for reporting, including on Covid-19. This is therefore coded as 1. 
 
 *Sources*:
- https://rsf.org/en/news/iran-press-freedom-violations-recounted-real-time-january-2020
-
-https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-
-https://cpj.org/2020/03/amid-coronavirus-pandemic-iran-covers-up-crucial-i/
-
-https://cpj.org/2020/08/iran-shuts-down-economic-newspaper-over-Covid-19-reporting/
-https://rsf.org/en/news/press-freedom-violations-recounted-real-time-january-december-2020
-https://www.ifj.org/media-centre/news/detail/category/press-releases/article/iran-paper-banned-after-reporting-on-Covid-19-death-toll.html
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Iran
-https://rsf.org/en/thematique/internet?countries%5B160%5D=160
-https://cpj.org/mideast/iran/
-
-https://www.ifj.org/es/centro-de-medios/noticias/detalle/category/press-releases/article/iran-state-covid-vaccination-center-guard-attacks-journalist.html
-https://journalismisnotacrime.com/en/features/3759/
+ https://perma.cc/3BYQ-NG3L
 
 
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26870&LangID=E 
+https://perma.cc/MV7H-XKGF
+
+
+https://perma.cc/GD9F-UV77
+
+
+https://perma.cc/494B-5NEG
+
+
+https://perma.cc/UMP7-3HZE
+
+
+https://perma.cc/99P6-W44M
+
+
+https://perma.cc/BR3F-JC3M
+
+
+https://perma.cc/QSS9-3WKQ
+
+
+https://perma.cc/A7GC-LA9L
+
+
+https://perma.cc/U5VX-AP5T
+
+
+https://perma.cc/2T9P-PT85
+
+
+
+
+
+https://perma.cc/25CY-C7YW
 
 
 
@@ -967,19 +1008,17 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26870&LangID=E
  Through Irans ban on printed media, they have halted the reporting on non-Covid-19 related news as well with reference to Covid-19. While the news outlets are allowed to publish online, it is still a de facto infringement of media reporting on non-Covid-19 related news. A newspaper was also shut down for publishing an interview with an official working in Iran's Covid-19 Taskforce. This is therefore coded as 1. 
 
 *Sources*:
- https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-https://www.aap.com.au/iran-orders-halt-to-printed-newspapers/
-https://cpj.org/2020/08/iran-shuts-down-economic-newspaper-over-Covid-19-reporting/
-https://www.ifj.org/media-centre/news/detail/category/press-releases/article/iran-paper-banned-after-reporting-on-Covid-19-death-toll.html
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Iran
-https://rsf.org/en/thematique/internet?countries%5B160%5D=160
-https://cpj.org/mideast/iran/
+ https://perma.cc/5ST6-B3CV
+https://web.archive.org/web/20200403202526/https://www.aap.com.au/iran-orders-halt-to-printed-newspapers/
+https://perma.cc/3HWL-6GN3
+https://perma.cc/WJ5A-MHBY
+https://perma.cc/NY5T-52CC
+https://perma.cc/5WAY-ZC7J
+https://perma.cc/EVP5-S8HF
+https://perma.cc/R3EY-JZKE
+https://perma.cc/64L9-27AX
 
-https://www.ifj.org/es/centro-de-medios/noticias/detalle/category/press-releases/article/iran-state-covid-vaccination-center-guard-attacks-journalist.html
-https://journalismisnotacrime.com/en/features/3759/
-
-
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26870&LangID=E 
+https://perma.cc/XC8X-Z6MC
 
 
 
@@ -1022,21 +1061,40 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26870&LangID=E
  The Iranian government have repeatedly been covering up or denying access to Covid-19 related information, and undermining reporting on the Covid-19 situation in Iran. While reports mainly pertain to the first wave of Covid-19 during Q2 of 2020, a newspaper was shut down by the government for it publishing an interview with a member of the Iranian Covid-19 Taskforce who spoke of Iran covering up how many cases that was actually recorded in the country in Q3 of 2020. It is not clear to what extent this covering up of Covid-19 cases and deaths continues, but as there’s no indication found that the situation has substantially improved, this is coded 2 for later periods as well. 
 
 *Sources*:
- https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-https://rsf.org/en/news/iran-press-freedom-violations-recounted-real-time-january-2020
-https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-https://cpj.org/2020/03/amid-coronavirus-pandemic-iran-covers-up-crucial-i/
-https://cpj.org/2020/08/iran-shuts-down-economic-newspaper-over-Covid-19-reporting/
-https://www.bbc.com/news/world-middle-east-53598965
+ https://perma.cc/S4KN-39GZ
 
 
-https://www.ifj.org/es/centro-de-medios/noticias/detalle/category/press-releases/article/iran-state-covid-vaccination-center-guard-attacks-journalist.html
+https://perma.cc/A6JD-4CKU
 
 
-https://journalismisnotacrime.com/en/features/3759/
+https://perma.cc/S4KN-39GZ
 
 
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26870&LangID=E
+https://perma.cc/VKF6-W5NJ
+
+
+https://perma.cc/3XY8-EN7B
+
+
+https://perma.cc/FFG8-3K95
+
+
+
+
+
+https://perma.cc/CL93-9CJE
+
+
+
+
+
+https://perma.cc/NVQ4-NQNJ
+
+
+
+
+
+https://perma.cc/8C2D-G42S
 
 
 
@@ -1078,22 +1136,43 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26870&LangID=E
  There are several reports on journalists being threatened and harassed by government over making inquiries into the Covid-19 situation and the government response. While such reports have only been found for Q2 of 2020, no indication has been given that things have improved for journalists in the latter periods, and the environment toward journalists and media has continued to be hostile in many other respects. This is therefore coded as 1 for all periods. 
 
 *Sources*:
- https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-
-https://rsf.org/en/news/iran-press-freedom-violations-recounted-real-time-january-2020
-
-https://cpj.org/2020/03/amid-coronavirus-pandemic-iran-covers-up-crucial-i/
-https://www.ifj.org/media-centre/news/detail/category/press-releases/article/iran-paper-banned-after-reporting-on-Covid-19-death-toll.html
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Iran
-https://rsf.org/en/thematique/internet?countries%5B160%5D=160
-https://cpj.org/mideast/iran/
-https://www.ifj.org/es/centro-de-medios/noticias/detalle/category/press-releases/article/iran-state-covid-vaccination-center-guard-attacks-journalist.html
+ https://perma.cc/9GS9-QJBH
 
 
-https://journalismisnotacrime.com/en/features/3759/
+https://perma.cc/7QFN-PQ45
 
 
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26870&LangID=E 
+https://perma.cc/AUU8-89PT
+
+
+https://perma.cc/JM2X-LUGX
+
+
+https://perma.cc/L2LL-4S7Y
+
+
+https://perma.cc/85LV-FRVW
+
+
+https://perma.cc/S7FL-HQRK
+
+
+https://perma.cc/7JQZ-ZDHQ
+
+
+
+
+
+https://perma.cc/AWX7-3DVY
+
+
+
+
+
+https://perma.cc/TMN2-M5TX
+
+
+
 
 
 
@@ -1135,17 +1214,31 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26870&LangID=E
  Several journalists have been arrested and detained due to reporting on Covid-19 in Iran. Many of these (if not all) are still detained it seems, clearly constituting a physical harassment for their reporting in relation to Covid-19 in the following periods as well. Iran’s general infringement of media has also continued over the other periods, although no direct evidence has been found of further assaults or detentions. However, as these detentions seem to be ongoing, and no indications are given that the situation in Iran is improving, this is coded as 1 for all periods. 
 
 *Sources*:
- https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-https://rsf.org/en/news/iran-press-freedom-violations-recounted-real-time-january-2020
-https://rsf.org/en/news/iranian-journalists-hounded-disputing-official-coronavirus-figures
-https://cpj.org/2020/03/amid-coronavirus-pandemic-iran-covers-up-crucial-i/
+ https://perma.cc/2JVJ-J3CY
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Iran
-https://rsf.org/en/thematique/internet?countries%5B160%5D=160
-https://cpj.org/mideast/iran/
 
-https://www.ifj.org/es/centro-de-medios/noticias/detalle/category/press-releases/article/iran-state-covid-vaccination-center-guard-attacks-journalist.html
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26870&LangID=E
+https://perma.cc/JRU4-UJ7J
+
+
+https://perma.cc/2JVJ-J3CY
+
+
+https://perma.cc/8SJP-NR3H
+
+
+https://perma.cc/EF8J-YVYB
+
+
+https://perma.cc/6UJJ-LDW9
+
+
+https://perma.cc/H2TV-JY46
+
+
+https://perma.cc/48GU-24XE
+
+
+https://perma.cc/A3AX-YATW
 
 
 
@@ -1189,7 +1282,7 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26870&LangID=E
  There is no important deviations from the information provided by WHO and that of the Iranian health department  on Covid-19, and no complaints or accusations of any such disinformation has been found. There are however numerous and ongoing accusations of Iran underreporting the number of cases in the country, but this is not included in this question. 
 
 *Sources*:
- https://irangov.ir/ministry-of-health-and-medical-education
+ https://perma.cc/6XKA-YMYU
 
 
 
@@ -1233,11 +1326,13 @@ https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26870&LangID=E
  There are several reports on security forces in engaging in severe violence in reaction to protests and riots at prisons due to the Covid-19 situation, and the inmates incapacity to protect themselves from it spreading. Lethal violence occurred at the hands of security forces in reaction to inmates not following the regulations and protesting on Covid-19 related issues, and Amnesty International reports that up to 36 inmates have been killed by security forces during these protests. This is therefore coded as 2 for the Q2 of 2020. However, no reports have been found on other such violence or abuse in enforcing Covid-19 restrictions. As the incidents in prisons by all reports seem to be isolated to the first period, and not a continued practice, it is thus only coded 2 for the first period and 0 for the latter as no other evidence of police violence has been found in relation to Covid-19. Note also that there are on-going reports of police violence in Iran, but as far as have been seen these are not connected to nor have been legitimized by the Covid-19 restrictions. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9636
+ https://perma.cc/P6GA-9F2J
 
-https://www.amnesty.org/en/documents/mde13/2237/2020/en/
 
-https://www.amnesty.org/en/latest/news/2020/04/iran-prisoners-killed-by-security-forces-during-covid19-pandemic-protests/
+https://perma.cc/ZG4C-DHXT
+
+
+https://perma.cc/8Y3S-D6BZ
 
 
 
@@ -1279,6 +1374,7 @@ https://www.amnesty.org/en/latest/news/2020/04/iran-prisoners-killed-by-security
  The Iranian military is in charge of much of the emergency measures in terms of planning and logistics. Furthermore, in March 2020, the military was deployed to enforce restrictions and clear public places, close down businesses etc. It is unclear how involved the military has been since then in enforcing Covid-19 regulations, but no evidence has been found showing that the military presence has been retracted, and it is thus assumed that they are still taking part in the enforcement. This is therefore coded as 1 for all periods. 
 
 *Sources*:
- https://www.washingtonpost.com/outlook/2020/05/27/irans-strategy-fighting-covid-19-could-backfire/
+ https://perma.cc/7ETS-68KQ
 
-https://www.theguardian.com/world/2020/mar/13/revolutionary-guards-enforce-coronavirus-controls-iran
+
+https://perma.cc/LF5E-QNUF

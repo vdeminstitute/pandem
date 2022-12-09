@@ -51,30 +51,25 @@ The state of emergency due to Covid-19 has been prolonged several times (see e.g
 During Q1 of 2021, the state of emergency was prolonged on 5 January 2021 (see 8), and then prolonged again for 3 months in April 2021 (see 9). 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Niger_2017.pdf?lang=en
+ https://perma.cc/JYE6-G2KW
 (1)
-
-https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7ed1e4d6fbed7437b83edc/1585369575239/Communiqu%C3%A9_CM+du+vendredi+27+mars+2020_.pdf
+https://perma.cc/75R4-H7EA
 (2)
-
-https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7eceb715eff3354ca7e9b9/1585368760730/MESSAGE+A+LA+NATION+DU+PRESIDENT+DE+LA+REPUBLIQUE+SUR+LA+SITUATION+DE+LA+PANDEMIE+DU+CORONAVIRUS+%28COVID-19%29+27+03+2020.pdf
+https://perma.cc/7ASB-G2MP
 (3)
+https://perma.cc/AR9N-EBT2
 
-https://www.presidence.ne/discours-du-prsident/2020/3/27/4jdpnhvms74ecghmg4322p0kbhyptx
 (4)
-
-http://www.anp.ne/article/niger-le-parlement-approuve-la-prorogation-de-l-etat-d-urgence-sanitaire-contre-la-covid-19
+https://perma.cc/VKD8-N9NG
 (5)
+https://perma.cc/L7DA-37MG
 
-https://www.garda.com/crisis24/news-alerts/425966/niger-niger-extends-covid-19-related-state-of-health-emergency-for-three-months-through-early-april-update-12
 (6)
-https://www.ouestaf.com/niger-letat-durgence-sanitaire-et-securitaire-prolonges/
+https://perma.cc/688N-HD2D
 (7)
-
-https://www.presidence.ne/conseils-des-ministres/2021/1/5/5rjvvwlvz5gpflqlk4vsnybgrlxzeh
+https://perma.cc/ALM6-J3ZF
 (8)
-
-https://www.presidence.ne/conseils-des-ministres/2021/4/22/conclusions-du-conseil-des-ministres-du-22-avril-2021
+https://perma.cc/NFB8-QJJ4
 (9)
 
 
@@ -119,9 +114,8 @@ Law 98-024 of 1998, modified and updated by law 2015-07 of 2015
 *No comment provided* 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Niger_2017.pdf?lang=en
-
-https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7ed1e4d6fbed7437b83edc/1585369575239/Communiqu%C3%A9_CM+du+vendredi+27+mars+2020_.pdf
+ https://perma.cc/JYE6-G2KW
+https://perma.cc/75R4-H7EA
 
 
 
@@ -161,13 +155,13 @@ https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7ed1e4d6fbed
 The state of emergency due to Covid-19 has been prolonged several times and it has been last extended through 5 August 2021 (3). 
 
 *Sources*:
- https://www.presidence.ne/discours-du-prsident/2020/3/27/4jdpnhvms74ecghmg4322p0kbhyptx
+ https://perma.cc/AR9N-EBT2
+
 (1)
 
-https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7ed1e4d6fbed7437b83edc/1585369575239/Communiqu%C3%A9_CM+du+vendredi+27+mars+2020_.pdf
+https://perma.cc/75R4-H7EA
 (2)
-
-https://www.ouestaf.com/niger-letat-durgence-sanitaire-et-securitaire-prolonges/
+https://perma.cc/688N-HD2D
 (3)
 
 
@@ -209,25 +203,26 @@ The state of emergency due to Covid-19 has been prolonged several times (see 5, 
 During Q1 of 2021, the state of emergency was prolonged for 3 months on 5 January 2021, and then for another 3 months in April 2021. 
 
 *Sources*:
- https://www.presidence.ne/discours-du-prsident/2020/3/27/4jdpnhvms74ecghmg4322p0kbhyptx
+ https://perma.cc/AR9N-EBT2
 (1)
 
-https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7ed1e4d6fbed7437b83edc/1585369575239/Communiqu%C3%A9_CM+du+vendredi+27+mars+2020_.pdf
+https://perma.cc/75R4-H7EA
 (2)
 
-https://www.ouestaf.com/niger-letat-durgence-sanitaire-et-securitaire-prolonges/
+https://perma.cc/688N-HD2D
 (3)
 
-https://www.presidence.ne/conseils-des-ministres/2021/4/22/conclusions-du-conseil-des-ministres-du-22-avril-2021
+https://perma.cc/NFB8-QJJ4
 (4)
 
-https://www.garda.com/crisis24/news-alerts/425966/niger-niger-extends-covid-19-related-state-of-health-emergency-for-three-months-through-early-april-update-12
+https://perma.cc/L7DA-37MG
 (5)
 
-https://www.presidence.ne/conseils-des-ministres/2021/1/5/5rjvvwlvz5gpflqlk4vsnybgrlxzeh
+https://perma.cc/ALM6-J3ZF
 (6)
 
-https://www.garda.com/crisis24/news-alerts/387021/niger-authorities-extend-state-of-health-emergency-october-10-update-8
+https://perma.cc/J5Z6-DAZ3
+
 (7)
 
 
@@ -272,28 +267,20 @@ All later extensions of the state of emergency had a limit date: 12 October 2020
  
 
 *Sources*:
- https://www.presidence.ne/discours-du-prsident/2020/3/27/4jdpnhvms74ecghmg4322p0kbhyptx
-(1)
-
-https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7ed1e4d6fbed7437b83edc/1585369575239/Communiqu%C3%A9_CM+du+vendredi+27+mars+2020_.pdf
+ https://perma.cc/AR9N-EBT2
+(1)https://perma.cc/75R4-H7EA
 (2)
+https://perma.cc/E3XF-XE8E
 
-https://www.lesahel.org/assemblee-nationale-covid-19-les-parlementaires-adoptent-la-loi-portant-prorogation-de-letat-durgence-au-niger/
 (3)
-
-https://www.garda.com/crisis24/news-alerts/425966/niger-niger-extends-covid-19-related-state-of-health-emergency-for-three-months-through-early-april-update-12
+https://perma.cc/L7DA-37MG
 (4)
-
-https://www.presidence.ne/conseils-des-ministres/2021/1/5/5rjvvwlvz5gpflqlk4vsnybgrlxzeh
+https://perma.cc/ALM6-J3ZF
 (5)
-
-https://www.presidence.ne/conseils-des-ministres/2021/4/22/conclusions-du-conseil-des-ministres-du-22-avril-2021
-(6)
-
-https://www.garda.com/crisis24/news-alerts/387021/niger-authorities-extend-state-of-health-emergency-october-10-update-8
+https://perma.cc/NFB8-QJJ4
+(6)https://perma.cc/J5Z6-DAZ3
 (7)
-
-https://www.ouestaf.com/niger-letat-durgence-sanitaire-et-securitaire-prolonges/
+https://perma.cc/688N-HD2D
 (8)
 
 
@@ -335,28 +322,19 @@ All later extensions of the state of emergency had a limit date: 12 October 2020
  
 
 *Sources*:
- https://www.presidence.ne/discours-du-prsident/2020/3/27/4jdpnhvms74ecghmg4322p0kbhyptx
-(1)
-
-https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7ed1e4d6fbed7437b83edc/1585369575239/Communiqu%C3%A9_CM+du+vendredi+27+mars+2020_.pdf
+ https://perma.cc/AR9N-EBT2
+(1)https://perma.cc/75R4-H7EA
 (2)
-
-https://www.lesahel.org/assemblee-nationale-covid-19-les-parlementaires-adoptent-la-loi-portant-prorogation-de-letat-durgence-au-niger/
+https://perma.cc/E3XF-XE8E
 (3)
-
-https://www.garda.com/crisis24/news-alerts/425966/niger-niger-extends-covid-19-related-state-of-health-emergency-for-three-months-through-early-april-update-12
+https://perma.cc/L7DA-37MG
 (4)
-
-https://www.presidence.ne/conseils-des-ministres/2021/1/5/5rjvvwlvz5gpflqlk4vsnybgrlxzeh
+https://perma.cc/ALM6-J3ZF
 (5)
-
-https://www.presidence.ne/conseils-des-ministres/2021/4/22/conclusions-du-conseil-des-ministres-du-22-avril-2021
-(6)
-
-https://www.garda.com/crisis24/news-alerts/387021/niger-authorities-extend-state-of-health-emergency-october-10-update-8
+https://perma.cc/NFB8-QJJ4
+(6)https://perma.cc/J5Z6-DAZ3
 (7)
-
-https://www.ouestaf.com/niger-letat-durgence-sanitaire-et-securitaire-prolonges/
+https://perma.cc/688N-HD2D
 (8)
 
 
@@ -399,7 +377,7 @@ https://www.ouestaf.com/niger-letat-durgence-sanitaire-et-securitaire-prolonges/
  According to article 67 of the Constitution, the President may declare a state of emergency after official consultation of the Prime Minister, of the President of the National Assembly and of the President of the Constitutional Court. The National Assembly is required to approve with an absolute majority of its members the duration of the exercise of the emergency powers and to terminate them in the case of abuse. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Niger_2017.pdf?lang=en
+ https://perma.cc/JYE6-G2KW
 
 
 
@@ -449,32 +427,29 @@ The National Assembly adopted in the plenary of 8 April 2021 a Bill ratifying Or
 Further, the National Assembly adopted a bill with 90 votes in favor, 19 against and zero (0) abstentions that extends, by three months, the state of emergency throughout the territory of Niger for the period from 5 May 2021 to 05 August 2021 (see 9). 
 
 *Sources*:
- http://www.lesahel.org/index.php/2020/04/14/assemblee-nationale-covid-19-les-parlementaires-adoptent-la-loi-portant-prorogation-de-letat-durgence-au-niger/
+ https://perma.cc/E3XF-XE8E
 (1)
-
-https://nigerinter.com/2020/04/assemblee-nationale-le-projet-de-loi-portant-prorogation-de-letat-durgence-adopte/
+https://perma.cc/DK3K-R5SC
 (2)
 
+https://perma.cc/AR9N-EBT2
 
-https://www.presidence.ne/discours-du-prsident/2020/3/27/4jdpnhvms74ecghmg4322p0kbhyptx
 (3)
+https://perma.cc/75R4-H7EA
 
-https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7ed1e4d6fbed7437b83edc/1585369575239/Communiqu%C3%A9_CM+du+vendredi+27+mars+2020_.pdf
 (4)
+https://perma.cc/VKD8-N9NG
 
-http://www.anp.ne/article/niger-le-parlement-approuve-la-prorogation-de-l-etat-d-urgence-sanitaire-contre-la-covid-19
 (5)
+https://perma.cc/NS7F-7FPE
 
-https://www.presidence.ne/conseils-des-ministres/2020/7/10/zef2pm594x9v69950g44z9sed4toqc
 (6)
-
-http://www.anp.ne/article/covid-19-prorogation-pour-trois-mois-de-l-etat-d-urgence-sanitaire-au-niger
+https://perma.cc/9KT9-H7GK
 (7)
+https://perma.cc/K76C-HZCF
 
-https://www.assemblee.ne/index.php/travaux-parlementaires/ordre-du-jour
 (8)
-
-https://www.lesahel.org/assemblee-nationale-adoption-de-lois-portant-prorogation-de-letat-durgence-sanitaire-et-securitaire-au-niger/
+https://perma.cc/35AU-ECQP
 (9)
 
 
@@ -538,32 +513,22 @@ Also, there has been ongoing oversight in Parliament and limits on decree powers
  
 
 *Sources*:
- https://www.constituteproject.org/constitution/Niger_2017.pdf?lang=en
+ https://perma.cc/JYE6-G2KW
 (1)
-
-
-https://www.presidence.ne/conseils-des-ministres/2021/4/22/conclusions-du-conseil-des-ministres-du-22-avril-2021
+https://perma.cc/NFB8-QJJ4
 (2)
+https://perma.cc/NS7F-7FPE
+(3)https://perma.cc/9KT9-H7GK
 
-https://www.presidence.ne/conseils-des-ministres/2020/7/10/zef2pm594x9v69950g44z9sed4toqc
-(3)
-
-http://www.anp.ne/article/covid-19-prorogation-pour-trois-mois-de-l-etat-d-urgence-sanitaire-au-niger
 (4)
-
-http://www.lesahel.org/index.php/2020/04/14/assemblee-nationale-covid-19-les-parlementaires-adoptent-la-loi-portant-prorogation-de-letat-durgence-au-niger/
-(5)
-
-http://www.anp.ne/article/niger-le-parlement-approuve-la-prorogation-de-l-etat-d-urgence-sanitaire-contre-la-covid-19
+https://perma.cc/E3XF-XE8E(5)
+https://perma.cc/VKD8-N9NG
 (6)
+https://perma.cc/35AU-ECQP
+(7)https://perma.cc/K76C-HZCF
 
-https://www.lesahel.org/assemblee-nationale-adoption-de-lois-portant-prorogation-de-letat-durgence-sanitaire-et-securitaire-au-niger/
-(7)
-
-https://www.assemblee.ne/index.php/travaux-parlementaires/ordre-du-jour
 (8)
-
-https://www.dcaf.ch/sites/default/files/imce/FINAL_EN%20Background%20paper%20C-19%20Parlements%20v1.pdf
+https://perma.cc/6B8V-F6GN
 (9)
 
 
@@ -689,31 +654,20 @@ During Q4 of 2020, restaurants, markets, stores, and all public schools are open
 During Q1 and Q2 of 2021 the state of emergency applied nationwide and all other barrier gestures were uniform. 
 
 *Sources*:
- https://www.france24.com/fr/20200811-assassinat-des-humanitaires-fran%C3%A7ais-au-niger-l-%C3%A9tat-d-urgence-%C3%A9largi-%C3%A0-kour%C3%A9
+ https://perma.cc/ZVS9-QF23
+https://perma.cc/7V9A-QJVN
+https://perma.cc/XQD7-96PJ
+https://perma.cc/R3YC-QQXT
+https://perma.cc/XLV4-3XC2
 
-https://www.aa.com.tr/fr/afrique/niger-%C3%A9tat-durgence-instaur%C3%A9-dans-toute-la-r%C3%A9gion-de-tillab%C3%A9ri-/1938141
+https://perma.cc/L7DA-37MG
+https://perma.cc/688N-HD2D
 
-https://www.jeuneafrique.com/1027638/politique/niger-apres-lattaque-letat-durgence-elargi-a-koure/
-
-https://www.osac.gov/Country/Niger/Content/Detail/Report/6c42b05c-4a46-468e-9670-184fc373a5a5
-
-
-https://www.niameyetles2jours.com/l-uemoa/gestion-publique/0803-6563-niger-prorogation-de-l-etat-d-urgence-sanitaire
-
-
-https://www.garda.com/crisis24/news-alerts/425966/niger-niger-extends-covid-19-related-state-of-health-emergency-for-three-months-through-early-april-update-12
-
-https://www.ouestaf.com/niger-letat-durgence-sanitaire-et-securitaire-prolonges/
-
-https://www.pouvoirsafrique.com/2021/05/02/niger-letat-durgence-sanitaire-prolonge/
-
-http://www.santetropicale.com/actus.asp?action=lire&id=29796
-
-https://www.presidence.ne/conseils-des-ministres/2021/1/5/5rjvvwlvz5gpflqlk4vsnybgrlxzeh
-
-https://www.presidence.ne/conseils-des-ministres/2021/4/22/conclusions-du-conseil-des-ministres-du-22-avril-2021
-
-https://www.garda.com/crisis24/news-alerts/466171/niger-covid-19-related-restrictions-remain-largely-unchanged-as-of-april-12-by-comparison-with-those-in-force-during-early-january-update-13
+https://perma.cc/CSG2-ZXCJ
+https://perma.cc/3TUJ-VM99
+https://perma.cc/ALM6-J3ZF
+https://perma.cc/NFB8-QJJ4
+https://perma.cc/9BQ7-G7XG
 
 
 
@@ -757,17 +711,12 @@ https://www.garda.com/crisis24/news-alerts/466171/niger-covid-19-related-restric
  There have been reports on discriminatory and non-proportionate measures against civil society activists, and detainees, but these do not relate to the grounds specified in this question. 
 
 *Sources*:
- https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7eceb715eff3354ca7e9b9/1585368760730/MESSAGE+A+LA+NATION+DU+PRESIDENT+DE+LA+REPUBLIQUE+SUR+LA+SITUATION+DE+LA+PANDEMIE+DU+CORONAVIRUS+%28COVID-19%29+27+03+2020.pdf
-
-https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-
-https://www.amnesty.org/en/latest/news/2020/03/niger-societe-civile-demandent-un-terme/
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/niger/
+ https://perma.cc/7ASB-G2MP
+https://perma.cc/ZK87-U7MH
+https://perma.cc/FN77-877L
+https://perma.cc/N7ZL-WNSB
+https://perma.cc/59KS-EP8Y
+https://perma.cc/4CLT-SPWP
 
 
 
@@ -816,17 +765,12 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/nig
  No violation of non-derogable rights. 
 
 *Sources*:
- https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7eceb715eff3354ca7e9b9/1585368760730/MESSAGE+A+LA+NATION+DU+PRESIDENT+DE+LA+REPUBLIQUE+SUR+LA+SITUATION+DE+LA+PANDEMIE+DU+CORONAVIRUS+%28COVID-19%29+27+03+2020.pdf
-
-https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-
-https://www.amnesty.org/en/latest/news/2020/03/niger-societe-civile-demandent-un-terme/
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/niger/
+ https://perma.cc/7ASB-G2MP
+https://perma.cc/ZK87-U7MH
+https://perma.cc/FN77-877L
+https://perma.cc/N7ZL-WNSB
+https://perma.cc/59KS-EP8Y
+https://perma.cc/4CLT-SPWP
 
 
 
@@ -870,15 +814,11 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/nig
  No de jure media limitations. 
 
 *Sources*:
- https://static1.squarespace.com/static/58a4235717bffc153c6d9a3c/t/5e7eceb715eff3354ca7e9b9/1585368760730/MESSAGE+A+LA+NATION+DU+PRESIDENT+DE+LA+REPUBLIQUE+SUR+LA+SITUATION+DE+LA+PANDEMIE+DU+CORONAVIRUS+%28COVID-19%29+27+03+2020.pdf
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://www.presidence.ne/conseils-des-ministres/2021/1/5/5rjvvwlvz5gpflqlk4vsnybgrlxzeh
-
-https://www.presidence.ne/conseils-des-ministres/2021/4/22/conclusions-du-conseil-des-ministres-du-22-avril-2021
+ https://perma.cc/7ASB-G2MP
+https://perma.cc/3SJV-TGU3
+https://perma.cc/CW2C-YUFG
+https://perma.cc/ALM6-J3ZF
+https://perma.cc/NFB8-QJJ4
 
 
 
@@ -1004,27 +944,27 @@ Also: ''Niger police interrogate TV editor and journalist over interview, 14 Mar
 Also, according to Amnesty's 2020 report, ''Journalists in Niger were harassed for criticizing the governments’ response to Covid-19.'' (1) 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+ https://perma.cc/59KS-EP8Y
 (1)
+https://perma.cc/S9HB-R9HB
 
-https://rsf.org/en/niger
 (2)
-
-https://ipi.media/alerts/niger-journalist-kaka-goni-arrested-in-niger-over-covid-19-report/
+https://perma.cc/YN3Q-7RTB
 (3)
+https://perma.cc/7RF7-NDB2
 
-https://ipi.media/alerts/niger-police-interrogate-tv-editor-and-journalist-over-interview/
 (4)
+https://perma.cc/EM5U-Q8LX
 
-https://fr.unesco.org/news/information-desinformation-temps-covid-19-lunesco-renforce-capacites-journalistes-afrique
+(5)
+https://perma.cc/9Q34-SQJT
 
-https://www.zimeye.net/2020/03/25/journalist-kaka-goni-arrested-in-niger-over-covid-19-report/
+(6)
+https://perma.cc/K9EA-965Q
+(7)
+https://perma.cc/4CLT-SPWP
 
-https://globalvoices.org/2020/05/12/amid-covid-19-pandemic-in-niger-government-violates-whistleblowers-freedom-of-speech/#
-
-https://cpj.org/africa/niger/
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/niger/
+(8)
 
 
 
@@ -1072,27 +1012,27 @@ Also: ''Niger police interrogate TV editor and journalist over interview, 14 Mar
 Also, according to Amnesty's 2020 report, ''Journalists in Niger were harassed for criticizing the governments’ response to Covid-19.'' (1) 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+ https://perma.cc/59KS-EP8Y
 (1)
+https://perma.cc/S9HB-R9HB
 
-https://rsf.org/en/niger
 (2)
-
-https://ipi.media/alerts/niger-journalist-kaka-goni-arrested-in-niger-over-covid-19-report/
+https://perma.cc/YN3Q-7RTB
 (3)
+https://perma.cc/7RF7-NDB2
 
-https://ipi.media/alerts/niger-police-interrogate-tv-editor-and-journalist-over-interview/
 (4)
+https://perma.cc/EM5U-Q8LX
 
-https://fr.unesco.org/news/information-desinformation-temps-covid-19-lunesco-renforce-capacites-journalistes-afrique
+(5)
+https://perma.cc/9Q34-SQJT
 
-https://www.zimeye.net/2020/03/25/journalist-kaka-goni-arrested-in-niger-over-covid-19-report/
+(6)
+https://perma.cc/K9EA-965Q
+(7)
+https://perma.cc/4CLT-SPWP
 
-https://globalvoices.org/2020/05/12/amid-covid-19-pandemic-in-niger-government-violates-whistleblowers-freedom-of-speech/#
-
-https://cpj.org/africa/niger/
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/niger/
+(8)
 
 
 
@@ -1134,18 +1074,12 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/nig
  No evidence was found. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
+ https://perma.cc/3SJV-TGU3
 
-
-https://www.zimeye.net/2020/03/25/journalist-kaka-goni-arrested-in-niger-over-covid-19-report/
-
-https://globalvoices.org/2020/05/12/amid-covid-19-pandemic-in-niger-government-violates-whistleblowers-freedom-of-speech/#
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/niger/
-
-
+https://perma.cc/EM5U-Q8LX
+https://perma.cc/9Q34-SQJT
+https://perma.cc/59KS-EP8Y
+https://perma.cc/4CLT-SPWP
 
 
 
@@ -1188,22 +1122,24 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/nig
  According to a journalist from Niger (May 2020): ''...Official information and in the current context, the media are subject to restrictions […] certain media have been arrested for having invited to television sets experts deemed 'unqualified' according to the health authority ” (5). 
 
 *Sources*:
- https://rsf.org/en/niger
+ https://perma.cc/S9HB-R9HB
+(1)
+https://perma.cc/3SJV-TGU3
+(2)
 
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/FN77-877L
+(3)
+https://perma.cc/EM5U-Q8LX
+(4)
 
-https://www.amnesty.org/en/latest/news/2020/03/niger-societe-civile-demandent-un-terme/
-
-https://www.zimeye.net/2020/03/25/journalist-kaka-goni-arrested-in-niger-over-covid-19-report/
-
-https://globalvoices.org/2020/05/12/amid-covid-19-pandemic-in-niger-government-violates-whistleblowers-freedom-of-speech/#
-
-https://fr.unesco.org/news/information-desinformation-temps-covid-19-lunesco-renforce-capacites-journalistes-afrique
+https://perma.cc/7RF7-NDB2
 (5)
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/niger/
+https://perma.cc/9Q34-SQJT
+(6)
+https://perma.cc/59KS-EP8Y
+(7)
+https://perma.cc/4CLT-SPWP
+(8)
 
 
 
@@ -1245,17 +1181,13 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/nig
  No evidence was found. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-
-https://cpj.org/africa/niger/https://rsf.org/en/niger
-
-https://www.amnesty.org/en/latest/news/2020/03/niger-societe-civile-demandent-un-terme/
-
-https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/niger/
+ https://perma.cc/3SJV-TGU3
+https://perma.cc/K9EA-965Q
+https://perma.cc/S9HB-R9HB
+https://perma.cc/FN77-877L
+https://perma.cc/ZK87-U7MH
+https://perma.cc/59KS-EP8Y
+https://perma.cc/4CLT-SPWP
 
 
 
@@ -1303,28 +1235,23 @@ Also: ''In the days before the demonstration, several journalists had been targe
 Also, according to Amnesty's 2020 report, ''Journalists in Niger were harassed for criticizing the governments’ response to Covid-19.'' (1) 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+ https://perma.cc/59KS-EP8Y
 (1)
+https://perma.cc/S9HB-R9HB
 
-https://rsf.org/en/niger
 (2)
-
-https://ipi.media/alerts/niger-journalist-kaka-goni-arrested-in-niger-over-covid-19-report/
+https://perma.cc/YN3Q-7RTB
 (3)
-
-https://ipi.media/alerts/niger-police-interrogate-tv-editor-and-journalist-over-interview/
+https://perma.cc/7KHF-Q7HF
 (4)
-
-https://www.amnesty.org/en/latest/news/2020/03/niger-societe-civile-demandent-un-terme/
+https://perma.cc/FN77-877L
 (5)
-
-https://cpj.org/africa/niger/
-
-https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/niger/
+https://perma.cc/K9EA-965Q
+(6)
+https://perma.cc/ZK87-U7MH
+(7)
+https://perma.cc/4CLT-SPWP
+(8)
 
 
 
@@ -1371,11 +1298,12 @@ No evidence was found on whether the government changed its policy on the use of
  
 
 *Sources*:
- https://www.niameyetles2jours.com/la-gestion-publique/sante/0106-5510-coronavirus-le-niger-va-continuer-le-traitement-des-malades-avec-la-chloroquine
-(1)
-https://twitter.com/minsanteniger/status/1266458992039079938
-https://www.wasexo.bj/niger-covid-19-la-chloroquine-maintenue-dans-traitement-pandemie-ministre-sante/
-https://afriquedecryptages.wordpress.com/2020/07/03/circulation-et-commercialisation-de-chloroquine-en-afrique-de-louest-une-geopolitique-du-medicament-a-la-lumiere-du-covid-19/
+ https://perma.cc/FA6Q-8DDX
+
+(1)
+https://web.archive.org/web/20200529222929/https://twitter.com/minsanteniger/status/1266458992039079938
+https://perma.cc/R2DE-SPEL
+https://perma.cc/MZ6B-WMN7
 
 
 
@@ -1420,14 +1348,10 @@ https://afriquedecryptages.wordpress.com/2020/07/03/circulation-et-commercialisa
  No evidence was found. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/03/niger-societe-civile-demandent-un-terme/
-
-
-https://www.garda.com/crisis24/news-alerts/334861/niger-residents-in-niamey-protest-covid-19-measures-april-17-19-update-3
-z
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/niger/
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+ https://perma.cc/FN77-877L
+https://perma.cc/RK9Y-Z6YM
+https://perma.cc/4CLT-SPWP
+https://perma.cc/59KS-EP8Y
 
 
 
@@ -1469,10 +1393,6 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
  The police is charged and involved with enforcing the Covid-19 measures. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/334861/niger-residents-in-niamey-protest-covid-19-measures-april-17-19-update-3
-
-https://africa.cgtn.com/2020/04/22/niger-jails-10-after-violent-protests-against-coronavirus-lockdown/
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/niger/
-
-
+ https://perma.cc/RK9Y-Z6YM
+https://perma.cc/ETN3-HL2W
+https://perma.cc/4CLT-SPWP

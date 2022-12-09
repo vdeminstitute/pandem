@@ -46,15 +46,49 @@
 A quarantine was declared from 11 September 2020 until 11 January 2021, and was extended until 11 July 2021. 
 
 *Sources*:
- https://www.e-gov.am/gov-decrees/item/35435/
-,
-https://www.garda.com/crisis24/news-alerts/470286/armenia-authorities-continue-to-enforce-international-entry-and-domestic-restrictions-due-to-covid-19-as-of-april-22-update-13
-https://www.arlis.am/DocumentView.aspx?docid=140631
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/
-https://www.e-gov.am/gov-decrees/item/34748/
-https://www.mfa.am/en/press-releases/2020/09/11/quarantaine_RA/10438
-https://www.garda.com/crisis24/news-alerts/368686/armenia-authorities-extend-state-of-emergency-through-september-11-and-ease-other-restrictions-as-of-august-12-update-16
-https://www.azatutyun.am/a/31042361.html
+ https://perma.cc/J35U-DJHP
+
+
+
+
+
+https://perma.cc/2455-ZJNK
+
+
+
+
+
+https://perma.cc/LRC5-MH6B
+
+
+
+
+
+https://perma.cc/4BYX-YT7W
+
+
+
+
+
+https://perma.cc/354R-NU6S
+
+
+
+
+
+https://perma.cc/E3SR-RYHT
+
+
+
+
+
+https://perma.cc/5R82-WJRK
+
+
+
+
+
+https://perma.cc/3NHL-5FZK
 
 
 
@@ -96,14 +130,31 @@ October-December 2020, January-March, April-June 2021: 1) «Հայաստանի �
  
 
 *Sources*:
- https://www.irtek.am/views/act.aspx?aid=153797
-https://www.arlis.am/DocumentView.aspx?docid=140631
-https://www.constituteproject.org/constitution/Armenia_2015?lang=en
+ https://perma.cc/UR6J-SDQ6
 
-(1)
-https://www.arlis.am/DocumentView.aspx?docid=145874
 
-https://www.arlis.am/documentview.aspx?docID=29774
+
+
+
+https://perma.cc/MCG7-E79W
+
+
+
+
+
+https://perma.cc/2PHF-WTRD
+
+
+
+
+
+https://perma.cc/ZP5H-XVWX
+
+
+
+
+
+https://perma.cc/39DY-EVG8
 
 
 
@@ -142,9 +193,19 @@ https://www.arlis.am/documentview.aspx?docID=29774
 *No comment provided* 
 
 *Sources*:
- https://www.irtek.am/views/act.aspx?aid=153797
-https://www.arlis.am/DocumentView.aspx?docid=145874
-https://www.arlis.am/DocumentView.aspx?docid=140631
+ https://perma.cc/NCP8-ZVNC
+
+
+
+
+
+https://perma.cc/6JU3-JF72
+
+
+
+
+
+https://perma.cc/L9QK-DAT6
 
 
 
@@ -183,8 +244,13 @@ https://www.arlis.am/DocumentView.aspx?docid=140631
  On 12 August 2020, the state of emergency was extended until 11 September 2020. The state of emergency ended on 11 September and was replaced by quarantine until 11 January 2021, and again extented until 11 July 2021. 
 
 *Sources*:
- https://www.e-gov.am/gov-decrees/item/34569/
-https://www.e-gov.am/gov-decrees/item/34748/
+ https://perma.cc/GB42-S93F
+
+
+
+
+
+https://perma.cc/B9Y5-8Z74
 
 
 
@@ -226,11 +292,19 @@ https://www.e-gov.am/gov-decrees/item/34748/
  State of emergency was initially declared until 14 April 2020 and was extended several times. Quarantine is currently declared until 11 July 2021. (If source (1) does not open, search for "irtek 153797") 
 
 *Sources*:
- https://www.irtek.am/views/act.aspx?aid=153797
+ https://perma.cc/S4DX-3QBW
 
-(1)
-https://www.arlis.am/DocumentView.aspx?docid=140631
-https://www.azatutyun.am/a/31042361.html
+
+
+
+
+https://perma.cc/HJ5Z-C3RE
+
+
+
+
+
+https://perma.cc/F7J5-QKDS
 
 
 
@@ -270,10 +344,25 @@ https://www.azatutyun.am/a/31042361.html
 Quarantine regime: declared until 11 July 2021. 
 
 *Sources*:
- https://www.irtek.am/views/act.aspx?aid=153797
-https://www.azatutyun.am/a/31042361.html
-https://www.e-gov.am/gov-decrees/item/34569/
-http://www.parliament.am/legislation.php?sel=show&ID=7307&lang=arm
+ https://perma.cc/2CQB-KQH4
+
+
+
+
+
+https://perma.cc/UT8S-QP2C
+
+
+
+
+
+https://perma.cc/4LKC-LT2D
+
+
+
+
+
+https://perma.cc/9NDZ-QNN8
 
 
 
@@ -317,7 +406,7 @@ http://www.parliament.am/legislation.php?sel=show&ID=7307&lang=arm
 October-December 2020, January-March, April-June 2021: the National Assembly does not need to approve the declaration of quarantine. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Armenia_2015?lang=en
+ https://perma.cc/8SYL-RDQL
 
 
 
@@ -361,9 +450,19 @@ October-December 2020, January-March, April-June 2021: the National Assembly doe
 October-December 2020, January-March, April-June 2021: not required by law. 
 
 *Sources*:
- http://www.parliament.am/legislation.php?sel=show&ID=7307&lang=arm
-http://www.parliament.am/news.php?cat_id=2&NewsID=12789&year=2020&month=03&day=16&lang=eng
-http://www.parliament.am/draft_history.php?id=11477&lang=arm
+ https://perma.cc/VTE5-JM7M
+
+
+
+
+
+https://perma.cc/CXY4-HQBD
+
+
+
+
+
+https://perma.cc/K2VN-7X6Y
 
 
 
@@ -411,18 +510,55 @@ http://www.parliament.am/draft_history.php?id=11477&lang=arm
 October-December 2020, January-March, April-June 2021: The parliament passed amendments that defined the general measures under quarantine on 4 September 2020. No further limitations found 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Armenia_2015?lang=en
-https://www.arlis.am/DocumentView.aspx?docID=75358
-https://www.arlis.am/DocumentView.aspx?docID=75358
-http://www.parliament.am/draft_history.php?id=11477&lang=arm
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+ https://perma.cc/LG4Y-LY2H
 
-(1)
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
 
-http://www.parliament.am/news.php?do=view&cat_id=2&day=04&month=09&year=2020&NewsID=13254&lang=arm
-http://www.parliament.am/legislation.php?sel=show&ID=7303&lang=arm
+
+
+
+https://perma.cc/UW3P-BCAQ
+
+
+
+
+
+https://perma.cc/UTP3-A6W2
+
+
+
+
+
+https://perma.cc/7CSF-WQA2
+
+
+
+
+
+https://perma.cc/P7WG-RSU8
+
+
+
+
+
+https://perma.cc/RD24-HPSD
+
+
+
+
+
+https://perma.cc/DN7P-4HTG
+
+
+
+
+
+https://perma.cc/AM9A-7SUQ
+
+
+
+
+
+https://perma.cc/FBG2-BNQE
 
 
 
@@ -544,11 +680,15 @@ http://www.parliament.am/legislation.php?sel=show&ID=7303&lang=arm
  Uniform measures throughout the country. No new information found since June 2020. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/470286/armenia-authorities-continue-to-enforce-international-entry-and-domestic-restrictions-due-to-covid-19-as-of-april-22-update-13
-https://www.garda.com/crisis24/news-alerts/447216/armenia-authorities-continue-to-enforce-international-entry-and-domestic-restrictions-due-to-covid-19-as-of-feb-24-update-11
-https://www.garda.com/crisis24/news-alerts/434116/armenia-authorities-enforcing-international-covid-19-entry-restrictions-as-of-jan-25-update-10
-https://www.arlis.am/DocumentView.aspx?docid=140631
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B371%5D&covid19=1
+ https://perma.cc/TL4N-RHFU
+
+https://perma.cc/JPV8-RRKA
+
+https://perma.cc/25JR-FPXB
+
+https://perma.cc/MLY7-A9EZ
+
+https://perma.cc/F39L-ESD6
 
 
 
@@ -592,8 +732,13 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B37
  No de-jure disciminating provisions and no information on de-facto discrimination found. No new information found since June 2020. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/armenia/
-https://www.hrw.org/europe/central-asia/armenia
+ https://perma.cc/KTY8-4XU8
+
+
+
+
+
+https://perma.cc/CAH3-8XTR
 
 
 
@@ -642,10 +787,19 @@ https://www.hrw.org/europe/central-asia/armenia
  No measures violating non-derogable rights found. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/armenia/
-https://www.hrw.org/europe/central-asia/armenia
+ https://perma.cc/XU27-598P
 
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+
+
+
+
+https://perma.cc/A6HL-KFML
+
+
+
+
+
+https://perma.cc/8R3P-VYR9
 
 
 
@@ -691,11 +845,31 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 July-September 2020, October 2020 - June 2021: no measures limiting media freedom found. 
 
 *Sources*:
- https://www.moj.am/storage/uploads/298voroshum_RUS.pdf
-https://www.moj.am/storage/uploads/298voroshum_RU_24032020.pdf
-https://www.arlis.am/DocumentView.aspx?docid=140631
-https://www.osce.org/representative-on-freedom-of-media/449098
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/freedom-of-expression-during-covid-19.pdf
+ https://perma.cc/53T8-BD9F
+
+
+
+
+
+https://perma.cc/F4UT-XAYG
+
+
+
+
+
+https://perma.cc/NC3V-554A
+
+
+
+
+
+https://perma.cc/67UP-VRQ3
+
+
+
+
+
+https://perma.cc/SY6L-8F8C
 
 
 
@@ -734,7 +908,7 @@ https://www.loc.gov/law/help/covid-19-freedom-of-expression/freedom-of-expressio
 *No comment provided* 
 
 *Sources*:
- https://www.e-gov.am/gov-decrees/item/33613/
+ https://perma.cc/LT9K-BNT2
 
 
 
@@ -773,10 +947,25 @@ https://www.loc.gov/law/help/covid-19-freedom-of-expression/freedom-of-expressio
  The measures applied until 13 April when the state of emergency (but not the media measures) was extended. The Minister of Justice issued a statement that the measures might be restored, which did not happen (the state of emergency ended on 11 September). 
 
 *Sources*:
- https://www.e-gov.am/gov-decrees/item/33613/
-https://www.osce.org/representative-on-freedom-of-media/449098
-https://rm.coe.int/armenia-reply-en-emergency-restrictions-force-media-to-suppress-indepe/16809e4ace
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/freedom-of-expression-during-covid-19.pdf
+ https://perma.cc/R7Z8-22W3
+
+
+
+
+
+https://perma.cc/R4VB-EJRW
+
+
+
+
+
+https://perma.cc/MLD7-JUZ2
+
+
+
+
+
+https://perma.cc/WJ57-BXHW
 
 
 
@@ -818,10 +1007,25 @@ https://www.loc.gov/law/help/covid-19-freedom-of-expression/freedom-of-expressio
  In accordance with Decree N 298 (also see melim), the authorities ordered several media outlets to remove or edit information related to covid-19 (both regarding the virus and the government's response). Since the measures applied until 13 April, merepfact is coded as 0 in July-September 2020. Since the state of emergency ended on 11 September 2020 and I found no new measures limiting media information, merepfact is coded as 0 in October-December 2020. There is no full evidence by May 2021 of any limitation of media information in 2021. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/#
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-2&p_p_col_pos=4&p_p_col_count=9&_sojdashboard_WAR_coesojportlet_alertPK=61621944
-https://rm.coe.int/armenia-reply-en-emergency-restrictions-force-media-to-suppress-indepe/16809e4ace
-https://www.e-gov.am/gov-decrees/item/33613/
+ https://perma.cc/QY9W-L3D9
+
+
+
+
+
+https://perma.cc/7YDL-3NQ8
+
+
+
+
+
+https://perma.cc/7LB2-635E
+
+
+
+
+
+https://perma.cc/NBB8-A3HF
 
 
 
@@ -867,16 +1071,19 @@ https://www.e-gov.am/gov-decrees/item/33613/
 Since the measures applied until 13 April, merepgov is coded as 0 in July-September 2020. Since the state of emergency ended on 11 September 2020 and I found no new measures limiting media information, merepgov is coded as 0 in October-December 2020. No evidence was found of limitations from the government regarding COVID-19 in 2021. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/#
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-2&p_p_col_pos=4&p_p_col_count=9&_sojdashboard_WAR_coesojportlet_alertPK=61621944
-https://www.e-gov.am/gov-decrees/item/33613/
-https://www.azatutyun.am/a/30501332.html
+ https://perma.cc/BM9U-RX7J
 
-(1)
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-2&p_p_col_pos=4&p_p_col_count=9&_sojdashboard_WAR_coesojportlet_alertPK=61621944
-(2)
-https://hetq.am/en/article/114899
-(3)
+
+
+
+
+https://perma.cc/4HUQ-BETK
+
+
+
+
+
+https://perma.cc/7LFH-98BE
 
 
 
@@ -918,9 +1125,19 @@ https://hetq.am/en/article/114899
  No information found on instances of limitations on media reporting on non-Covid-19 related news but with reference to the pandemic. No new information found since June 2020. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/#
-https://ipi.media/armenia/
-https://rsf.org/en/armenia
+ https://perma.cc/39ZJ-WVLS
+
+
+
+
+
+https://perma.cc/CB85-67MP
+
+
+
+
+
+https://perma.cc/6Y4V-MC83
 
 
 
@@ -963,8 +1180,13 @@ https://rsf.org/en/armenia
  No reports on limiting media access to covid-19 information found. No new information found since June 2020. 
 
 *Sources*:
- https://ipi.media/armenia/
-https://rsf.org/en/armenia
+ https://perma.cc/QBK7-Q7QQ
+
+
+
+
+
+https://perma.cc/M8Y6-KCSU
 
 
 
@@ -1006,11 +1228,19 @@ https://rsf.org/en/armenia
  No reports on verbal harrasment regarding COVID-19, however, evidence can be found of harassment against journalists for other reasons, e.g. (1). No new information found since June 2020. 
 
 *Sources*:
- https://ipi.media/armenia/
-https://rsf.org/en/armenia
-https://www.hrw.org/europe/central-asia/armenia
-https://www.independent.co.uk/independentpremium/editors-letters/armenia-azerbaijan-nagorno-karabakh-war-press-freedom-caucasus-b1182317.htm
-(1)
+ https://perma.cc/AHG3-LSF8
+
+
+
+
+
+https://perma.cc/EQQ4-M4G9
+
+
+
+
+
+https://perma.cc/GYX5-MQNH
 
 
 
@@ -1052,11 +1282,19 @@ https://www.independent.co.uk/independentpremium/editors-letters/armenia-azerbai
  No information found since 11 March 2020 regarding COVID-19. However, some reports can be found on general physical harassment against journalists, e.g. 1) 
 
 *Sources*:
- https://ipi.media/armenia/
-https://rsf.org/en/armenia
-https://www.hrw.org/europe/central-asia/armenia
-https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-3&p_p_col_count=7&_sojdashboard_WAR_coesojportlet_alertPK=91117632
-(1)
+ https://perma.cc/92SR-39RN
+
+
+
+
+
+https://perma.cc/A75M-WSP9
+
+
+
+
+
+https://perma.cc/NK3J-V6Y6
 
 
 
@@ -1100,9 +1338,19 @@ https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_co
  Official website with information on covid-19; no reports on disinformation found since 11 March 2020. 
 
 *Sources*:
- https://ncdc.am/
-https://ipi.media/armenia/
-https://rsf.org/en/armenia
+ https://perma.cc/U774-DZ9R
+
+
+
+
+
+https://perma.cc/4KHP-HN4A
+
+
+
+
+
+https://perma.cc/M3CR-YXXH
 
 
 
@@ -1146,10 +1394,13 @@ https://rsf.org/en/armenia
  No information found (there is one video of police violence but I haven't found confirmation in more trusted sources, 1). 
 
 *Sources*:
- https://www.hrw.org/europe/central-asia/armenia
-https://www.amnesty.org/en/countries/europe-and-central-asia/armenia/
-https://en.azvision.az/news/125493/-police-violence-in-armenia-against-citizens-not-wearing-face-masks-video-.html
-(1)
+ https://perma.cc/C9PP-Q52J
+
+
+
+
+
+https://perma.cc/FH86-7648
 
 
 
@@ -1191,5 +1442,10 @@ https://en.azvision.az/news/125493/-police-violence-in-armenia-against-citizens-
  Adopted measures (N 298, point 6) allowed for involving the military in enforcing the measures but the military was not involved. 
 
 *Sources*:
- https://www.arlis.am/DocumentView.aspx?docid=140631
-http://www.mil.am/hy/news
+ https://perma.cc/89NU-U7GQ
+
+
+
+
+
+https://perma.cc/CEV5-FXXH

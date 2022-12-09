@@ -46,23 +46,21 @@
  
 
 *Sources*:
- https://lex.uz/ru/docs/4772484
-https://lex.uz/ru/docs/4770761?otherlang=1#undefined
-https://uz.usembassy.gov/covid-19-information/
-https://lex.uz/ru/docs/4914694
-https://president.uz/ru/lists/view/3958
+ https://perma.cc/29KQ-UJSU
+https://perma.cc/2T8L-QQDS
+https://perma.cc/NM7H-ESX4
+https://perma.cc/ST84-4JNJ
+https://perma.cc/3SP6-MWEY
+https://perma.cc/S7SY-3YTV
+https://perma.cc/J7UH-BULT
 
-
-https://president.uz/ru/lists/view/3478
-
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B704%5D&covid19=1
-https://www.garda.com/crisis24/news-alerts/325731/uzbekistan-government-to-lock-down-tashkent-from-march-24-to-prevent-further-spread-of-covid-19-update-3
-https://www.garda.com/crisis24/news-alerts/328416/uzbekistan-stricter-containment-measures-in-place-as-of-april-1-update-6
-https://www.garda.com/crisis24/news-alerts/333911/uzbekistan-authorities-extend-nationwide-restrictions-until-may-10-update-7
-https://t.me/koronavirusinfouz/2725
-https://www.garda.com/crisis24/news-alerts/342706/uzbekistan-authorities-extend-quarantine-measures-until-june-1-update-11
-https://www.garda.com/crisis24/news-alerts/357721/uzbekistan-authorities-to-introduce-second-lockdown-from-july-10-update-16
-https://www.garda.com/crisis24/news-alerts/363601/uzbekistan-authorities-extend-covid-19-lockdown-measures-until-august-15-update-17
+https://perma.cc/78UZ-AA2U
+https://perma.cc/UC6Q-C6T9
+https://perma.cc/YP42-NHGM
+https://perma.cc/3SM3-2HSG
+https://perma.cc/JW7X-JGNS
+https://perma.cc/UY83-SZQM
+https://perma.cc/VQY4-R7XC
 
 
 
@@ -102,10 +100,16 @@ https://www.garda.com/crisis24/news-alerts/363601/uzbekistan-authorities-extend-
  
 
 *Sources*:
- https://www.lex.uz/docs/4720408
-https://lex.uz/ru/docs/4772484
-https://lex.uz/ru/search/nat?query=%D0%9A%D0%9E%D0%A0%D0%9E%D0%9D%D0%90%D0%92%D0%98%D0%A0%D0%A3%D0%A1
-https://rus.ozodlik.org/a/30532690.html
+ https://perma.cc/DLR7-EFNT
+
+
+https://perma.cc/UL2A-77Q6
+
+
+https://perma.cc/7E75-C5GZ
+
+
+https://perma.cc/MQ7J-PSYY
 
 
 
@@ -144,7 +148,7 @@ https://rus.ozodlik.org/a/30532690.html
  Initial measures were introduced in the presidential order 176 with 24 March 2020 as the start date. 
 
 *Sources*:
- https://lex.uz/ru/docs/4772484
+ https://perma.cc/UL2A-77Q6
 
 
 
@@ -183,8 +187,10 @@ https://rus.ozodlik.org/a/30532690.html
  Restrictions have been eased but some measures remain in place (at the time of coding). 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/368241/uzbekistan-authorities-announce-the-lifting-of-lockdown-from-august-15-update-18
-https://coronavirus.uz/ru/lists/view/1672
+ https://perma.cc/C6X2-8J4B
+
+
+https://perma.cc/N6YJ-XAF7
 
 
 
@@ -226,8 +232,10 @@ https://coronavirus.uz/ru/lists/view/1672
  Presidential order 176 (stopping some business activities, prohibiting all public events, closing access to the capital for everyone excluding its permanent residents) does not mention an end limit. Measures have been in place in all time periods. 
 
 *Sources*:
- https://lex.uz/ru/docs/4772484
-https://www.garda.com/crisis24/news-alerts/486001/uzbekistan-health-officials-maintain-covid-19-related-entry-and-domestic-restrictions-as-of-june-2-update-27
+ https://perma.cc/UL2A-77Q6
+
+
+https://perma.cc/9V4A-HUTQ
 
 
 
@@ -308,7 +316,7 @@ https://www.garda.com/crisis24/news-alerts/486001/uzbekistan-health-officials-ma
  Legislature approval is not mentioned in presidential order 5537. 
 
 *Sources*:
- https://www.lex.uz/docs/4720408
+ https://perma.cc/DLR7-EFNT
 
 
 
@@ -350,8 +358,13 @@ https://www.garda.com/crisis24/news-alerts/486001/uzbekistan-health-officials-ma
  Legislature approval not required and I found no evidence of legislature's approval on its website. 
 
 *Sources*:
- https://www.lex.uz/docs/4720408
-http://parliament.gov.uz/ru/events/chamber/index.php?PAGEN_1=7&SIZEN_1=12
+ https://perma.cc/DLR7-EFNT
+
+
+https://perma.cc/GBC8-LSJZ
+
+
+
 
 
 
@@ -397,9 +410,13 @@ http://parliament.gov.uz/ru/events/chamber/index.php?PAGEN_1=7&SIZEN_1=12
  No limiting provisions in decree 5537; the parliament continues to meet with physical distancing measures. 
 
 *Sources*:
- https://www.lex.uz/docs/4720408
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#U
-http://parliament.gov.uz/ru/events/other/30944/
+ https://perma.cc/DLR7-EFNT
+
+
+https://perma.cc/EQV4-PJTS
+
+
+https://perma.cc/66SJ-8HVG
 
 
 
@@ -523,10 +540,16 @@ http://parliament.gov.uz/ru/events/other/30944/
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: no information on measures implemented on a subnational level found. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/346901/uzbekistan-authorities-announce-changes-in-covid-19-related-restrictions-may-30-update-12
-https://www.garda.com/crisis24/news-alerts/325731/uzbekistan-government-to-lock-down-tashkent-from-march-24-to-prevent-further-spread-of-covid-19-update-3
-https://www.garda.com/crisis24/news-alerts/486001/uzbekistan-health-officials-maintain-covid-19-related-entry-and-domestic-restrictions-as-of-june-2-update-27
-https://www.garda.com/crisis24/news-alerts/437616/uzbekistan-health-officials-extend-coronavirus-disease-related-international-entry-restrictions-through-march-1-update-22
+ https://perma.cc/L9GL-WBSE
+
+
+https://perma.cc/S8JY-3FT6
+
+
+https://perma.cc/4J38-FGNQ
+
+
+https://perma.cc/HL2S-ZYYL
 
 
 
@@ -570,9 +593,13 @@ https://www.garda.com/crisis24/news-alerts/437616/uzbekistan-health-officials-ex
  No de-jure disciminating provisions and no information on de-facto discrimination found. 
 
 *Sources*:
- https://lex.uz/ru/docs/4772484
-https://www.hrw.org/europe/central-asia/uzbekistan
-https://www.amnesty.org/en/countries/europe-and-central-asia/uzbekistan/
+ https://perma.cc/XH7S-74PF
+
+
+https://perma.cc/FYH9-SZZV
+
+
+https://perma.cc/TBN9-MWGN
 
 
 
@@ -621,7 +648,7 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/uzbekistan/
  No measures violating non-derogable rights found 
 
 *Sources*:
- https://lex.uz/ru/docs/4772484
+ https://perma.cc/UL2A-77Q6
 
 
 
@@ -665,10 +692,10 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/uzbekistan/
  I found no emergency measures that limit media freedom. The parliament passed ammendments to the Criminal Code (Article 244) on 23 March 2020 making spreading false information about infections punishable with a fine or imprisonment. Note that the legislation is not part of the emergency measures, applies to "false" information on infectious diseases in general, and constitutes permanent amendments to existing legislation. It is therefore not coded as part of the emergency measures, but is considered in coding merepfact and merepgov. 
 
 *Sources*:
- https://lex.uz/ru/docs/4774974
-https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
-https://ipi.media/rush-to-pass-fake-news-laws-during-covid-19-intensifying-global-media-freedom-challenges/
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#uzbekistan
+ https://perma.cc/B3E7-GWDA
+https://perma.cc/A7DY-GZVL
+https://perma.cc/QJ9P-X7UG
+https://perma.cc/3PME-HABM
 
 
 
@@ -788,18 +815,17 @@ https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#uzbe
  The parliament passed ammendments to the Criminal Code (Article 244) on 23 March 2020 making spreading false information about infections punishable with a fine or imprisonment, which puts limits on media reporting on covid-19. In November 2020, the Agency for Information and Mass Communication sent letters with accusations of "unprofessional activities" and threats of legal consequences to several media outlets that critized the official Covid-19 statistics. (1) 
 
 *Sources*:
- https://lex.uz/ru/docs/4774974
-https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
-https://www.amnesty.org/en/latest/campaigns/2020/06/blogging-in-uzbekistan-welcoming-tourism-silencing-criticism/
-https://ipi.media/rush-to-pass-fake-news-laws-during-covid-19-intensifying-global-media-freedom-challenges/
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#uzbekistan
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-https://www.hrw.org/world-report/2021/country-chapters/uzbekistan
-https://www.hrw.org/news/2021/01/13/central-asia-pandemic-response-threatens-rights
-https://ipi.media/press-struggles-to-regain-strength-after-decades-of-repression-in-uzbekistan/
+ https://perma.cc/J2WS-AHXD
+https://perma.cc/M7G6-5U8G
+https://perma.cc/EV3G-EMHT
+https://perma.cc/T9TL-LLV3
+https://web.archive.org/web/20201018132757/https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php
+https://perma.cc/F9UA-EM2H
+https://perma.cc/ZL8H-RGZ8
+https://perma.cc/ZD7A-UW2H
+https://perma.cc/VZJ8-LU7X
 (1)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/uzbekistan/
+https://perma.cc/RC2F-9UBL
 
 
 
@@ -841,16 +867,16 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/uzb
  The parliament passed ammendments to the Criminal Code (Article 244) on 23 March 2020 making spreading false information about infections punishable with a fine or imprisonment, which puts limits on media reporting. Under this new legislation, several journalists have been detained and their equipment was confiscated since 25 July 2020 in connection to a Covid-19 report. The report concerned an alledged dealth of a public official from Covid-19 that was shared by several news outlets, but later on turned out to be false. 
 
 *Sources*:
- https://lex.uz/ru/docs/4774974
-https://www.amnesty.org/en/latest/news/2020/05/global-crackdown-on-journalists-weakens-efforts-to-tackle-covid19/
-https://cpj.org/2020/07/uzbek-authorities-interrogate-journalists-confiscate-equipment-over-retracted-covid-19-report/
-https://rsf.org/en/news/pressure-karakalpakstan-journalist-wrongly-accused-spreading-false-information
-https://www.amnesty.org/en/latest/campaigns/2020/06/blogging-in-uzbekistan-welcoming-tourism-silencing-criticism/
-https://ipi.media/rush-to-pass-fake-news-laws-during-covid-19-intensifying-global-media-freedom-challenges/
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/post-soviet.php#uzbekistan
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-https://www.hrw.org/world-report/2021/country-chapters/uzbekistan
-https://www.hrw.org/news/2021/01/13/central-asia-pandemic-response-threatens-rights
+ https://perma.cc/J2WS-AHXD
+https://perma.cc/M7G6-5U8G
+https://perma.cc/GEK6-4YXG
+https://perma.cc/MY3T-ZY8K
+https://perma.cc/7R2X-A743
+https://perma.cc/T2TD-CDRZ
+https://perma.cc/3PME-HABM
+https://perma.cc/B554-YU5B
+https://perma.cc/RYQ8-FNWF
+https://perma.cc/NDG3-7WNV
 
 
 
@@ -892,8 +918,10 @@ https://www.hrw.org/news/2021/01/13/central-asia-pandemic-response-threatens-rig
  No information found on instances of limitations on media reporting on non-Covid-19 related news but with reference to the pandemic. 
 
 *Sources*:
- https://rsf.org/en/uzbekistan
-https://ipi.media/uzbekistan/
+ https://perma.cc/F7X4-5EFQ
+
+
+https://perma.cc/GC8C-EBPC
 
 
 
@@ -936,8 +964,10 @@ https://ipi.media/uzbekistan/
  No reports on limiting media access to covid-19 information found. 
 
 *Sources*:
- https://rsf.org/en/uzbekistan
-https://ipi.media/uzbekistan/
+ https://perma.cc/ME3B-49W9
+
+
+https://perma.cc/2JYL-5HA5
 
 
 
@@ -979,8 +1009,10 @@ https://ipi.media/uzbekistan/
  No information found 
 
 *Sources*:
- https://rsf.org/en/uzbekistan
-https://ipi.media/uzbekistan/
+ https://perma.cc/F7X4-5EFQ
+
+
+https://perma.cc/GC8C-EBPC
 
 
 
@@ -1022,7 +1054,7 @@ https://ipi.media/uzbekistan/
  In April 2020, Sharifa Madrahimova was detained "after she filmed a documentary video in local bazaars to report on price gouging on basic food items during the COVID-19 quarantine." (US Department of State report, 1) Since it was a single case and I found no further information about similar cases, mephar is coded as 1 only during Q2 2020. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/uzbekistan/
+ https://perma.cc/6WBD-LSHE
 (1)
 
 
@@ -1067,10 +1099,13 @@ https://ipi.media/uzbekistan/
  official website with information on covid-19; no reports on disinformation found 
 
 *Sources*:
- https://coronavirus.uz/ru
+ https://perma.cc/5T9H-KS2G
 
-https://rsf.org/en/uzbekistan
-https://ipi.media/uzbekistan/
+
+https://perma.cc/4U62-KUUE
+
+
+https://perma.cc/WH5R-8ELA
 
 
 
@@ -1114,9 +1149,16 @@ https://ipi.media/uzbekistan/
  In June 2020, the police allegedly tried to strangle a person for not wearing a mask. In July 2020, a judge was beated by police officers while waiting to pass through checkpoints that were in place as part of the Covid-19 measures. Since I found no further cases of police violence, pomviol is coded as 1 in Q2 2020, Q3 2020. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/uzbekistan/
-https://fergana.agency/news/120152/
-https://rus.ozodlik.org/a/30674521.html
+ https://perma.cc/2K55-4ZYM
+
+
+https://perma.cc/AMX8-G4G9
+
+
+https://perma.cc/J6GU-P2NT
+
+
+
 
 
 

@@ -49,27 +49,16 @@ The state of emergency was lifted on 25 May 2020.
 A state of emergency was declared again four prefectures in Japan on 23 April 2021. 
 
 *Sources*:
- https://www.bloomberg.com/news/articles/2020-04-07/japan-s-abe-declares-state-of-emergency-over-coronavirus
-
-https://www.theguardian.com/world/2020/may/25/japan-lifts-state-of-emergency-after-fall-in-coronavirus-cases
-
-https://www.npr.org/sections/coronavirus-live-updates/2021/04/23/990133421/japan-declares-3rd-state-of-emergency-3-months-ahead-of-olympics?t=1623684114245
-
-https://www.bmj.com/content/372/bmj.n141
-
-
-https://www.theguardian.com/world/2020/apr/07/japan-shinzo-abe-declares-state-of-emergency-over-coronavirus
-
-https://www.japantimes.co.jp/news/2020/05/24/national/japan-completely-lift-state-of-emergency-coronavirus/#.XvM1jGozZTY
-
-https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instead-of-legal-penalty/
-
-
-https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=424AC0000000031#223
-
-https://www.argusmedia.com/en/news/2219521-japan-to-further-extend-covid19-emergency-until-june
-
-https://www.npr.org/sections/coronavirus-live-updates/2021/04/23/990133421/japan-declares-3rd-state-of-emergency-3-months-ahead-of-olympics?t=1623684114245
+ https://web.archive.org/web/20200407120942/https://www.bloomberg.com/news/articles/2020-04-07/japan-s-abe-declares-state-of-emergency-over-coronavirus
+https://perma.cc/UYG2-5WLD
+https://perma.cc/3ERZ-NUNT
+https://perma.cc/2CJ5-R5JV
+https://perma.cc/X23L-JQW3
+https://web.archive.org/web/20200601153324/https://www.japantimes.co.jp/news/2020/05/24/national/japan-completely-lift-state-of-emergency-coronavirus/#.XtUf-y-l39A
+https://perma.cc/Q9CJ-T9LA
+https://perma.cc/AD83-7NX2
+https://perma.cc/XX3X-RJJJ
+https://perma.cc/3ERZ-NUNT
 
 
 
@@ -108,7 +97,10 @@ https://www.npr.org/sections/coronavirus-live-updates/2021/04/23/990133421/japan
 *No comment provided* 
 
 *Sources*:
- https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instead-of-legal-penalty/
+ https://perma.cc/Q9CJ-T9LA
+
+
+
 
 
 
@@ -147,16 +139,10 @@ https://www.npr.org/sections/coronavirus-live-updates/2021/04/23/990133421/japan
  The first state of emergency began on April 7, 2020. The second state of emergency was declared on January 7, 2021 and the third state of emergency began on April 25, 2021. 
 
 *Sources*:
- https://www.bloomberg.com/news/articles/2020-04-07/japan-s-abe-declares-state-of-emergency-over-coronavirus
-
-
-https://www.bmj.com/content/372/bmj.n141
-
-https://www.timeout.com/tokyo/news/tokyo-enters-a-new-state-of-emergency-from-april-25-here-are-the-restrictions-042321
-
-https://www.argusmedia.com/en/news/2219521-japan-to-further-extend-covid19-emergency-until-june
-
-https://www.japantimes.co.jp/news/2021/06/17/national/soe-lifting-nine-prefectures/
+ https://web.archive.org/web/20200407120942/https://www.bloomberg.com/news/articles/2020-04-07/japan-s-abe-declares-state-of-emergency-over-coronavirus
+https://perma.cc/2CJ5-R5JV
+https://perma.cc/PUX3-4GKZ
+https://perma.cc/8WRL-TSQF
 
 
 
@@ -195,7 +181,10 @@ https://www.japantimes.co.jp/news/2021/06/17/national/soe-lifting-nine-prefectur
  The first state of emergency ended on May 25, 2020. The second state of emergency ended on March 21, 2021. The third state of emergency has been extended multiple times; it is currently slated to end on 20 June 2021 in all prefectures except Okinawa. 
 
 *Sources*:
- https://www.timeout.com/tokyo/news/confirmed-greater-tokyos-state-of-emergency-ends-after-sunday-march-21-031821
+ https://perma.cc/EF9Y-Q8ZH
+
+
+
 
 
 
@@ -239,18 +228,27 @@ https://www.japantimes.co.jp/news/2021/06/17/national/soe-lifting-nine-prefectur
  
 
 *Sources*:
- https://www.theguardian.com/world/2020/may/25/japan-lifts-state-of-emergency-after-fall-in-coronavirus-cases
-
-https://www.reuters.com/article/us-health-coronavirus-japan-abe/japan-pm-abe-to-lift-state-of-emergency-for-all-of-japan-today-idUSKBN2310WN
+ https://perma.cc/UYG2-5WLD
 
 
-https://abcnews.go.com/Health/wireStory/latest-south-korea-25-cases-small-outbreaks-70855282
+https://perma.cc/2R99-UWD7
 
-https://www.theguardian.com/world/2021/apr/23/japan-set-to-announce-state-of-emergency-as-covid-cases-surge
 
-https://www.npr.org/sections/coronavirus-live-updates/2021/04/23/990133421/japan-declares-3rd-state-of-emergency-3-months-ahead-of-olympics?t=1623684114245
+https://perma.cc/UYG2-5WLD
 
-https://www.reuters.com/lifestyle/sports/japan-looks-extend-tokyo-state-emergency-june-20-minister-says-2021-05-28/
+
+https://perma.cc/XS34-USSN
+
+
+
+https://perma.cc/U3US-ZKCT
+
+
+https://perma.cc/3ERZ-NUNT
+
+
+
+https://perma.cc/6SKD-9LAX
 
 
 
@@ -289,12 +287,13 @@ https://www.reuters.com/lifestyle/sports/japan-looks-extend-tokyo-state-emergenc
 *No comment provided* 
 
 *Sources*:
- https://www.theguardian.com/world/2020/may/25/japan-lifts-state-of-emergency-after-fall-in-coronavirus-cases
-
-https://www.reuters.com/article/us-health-coronavirus-japan-abe/japan-pm-abe-to-lift-state-of-emergency-for-all-of-japan-today-idUSKBN2310WN
+ https://perma.cc/UYG2-5WLD
 
 
-https://abcnews.go.com/Health/wireStory/latest-south-korea-25-cases-small-outbreaks-70855282
+https://perma.cc/2R99-UWD7
+
+
+https://perma.cc/XS34-USSN
 
 
 
@@ -336,12 +335,10 @@ https://abcnews.go.com/Health/wireStory/latest-south-korea-25-cases-small-outbre
 *No comment provided* 
 
 *Sources*:
- https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instead-of-legal-penalty/
+ https://perma.cc/Q9CJ-T9LA
 
 
-
-
-https://www.aa.com.tr/en/asia-pacific/japans-abe-gets-emergency-powers-to-fight-coronavirus/1764834
+https://perma.cc/S7UZ-7KUV
 
 
 
@@ -383,12 +380,10 @@ https://www.aa.com.tr/en/asia-pacific/japans-abe-gets-emergency-powers-to-fight-
 *No comment provided* 
 
 *Sources*:
- https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instead-of-legal-penalty/
+ https://perma.cc/Q9CJ-T9LA
 
 
-
-
-https://www.aa.com.tr/en/asia-pacific/japans-abe-gets-emergency-powers-to-fight-coronavirus/1764834
+https://perma.cc/S7UZ-7KUV
 
 
 
@@ -434,11 +429,10 @@ https://www.aa.com.tr/en/asia-pacific/japans-abe-gets-emergency-powers-to-fight-
  I did not find any information to suggest that the lawmaking role of the legislature has been limited across all the time periods. 
 
 *Sources*:
- https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=424AC0000000031#223
+ https://perma.cc/AD83-7NX2
 
 
-
-https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instead-of-legal-penalty/
+https://perma.cc/Q9CJ-T9LA
 
 
 
@@ -477,11 +471,10 @@ https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instea
  I did not find any information suggesting that Japan's national legislature was dissolved across all the time periods. 
 
 *Sources*:
- http://www.shugiin.go.jp/internet/index.nsf/html/index_e.htm
+ https://perma.cc/83YK-63EB
 
 
-
-https://www.bbc.com/news/topics/cjnwl8q4g7nt/japan
+https://perma.cc/BSX8-D2TX
 
 
 
@@ -520,11 +513,10 @@ https://www.bbc.com/news/topics/cjnwl8q4g7nt/japan
  I did not find any information suggesting that Japan's national legislature was dissolved across all the time periods. 
 
 *Sources*:
- http://www.shugiin.go.jp/internet/index.nsf/html/index_e.htm
+ https://perma.cc/83YK-63EB
 
 
-
-https://www.bbc.com/news/topics/cjnwl8q4g7nt/japan
+https://perma.cc/BSX8-D2TX
 
 
 
@@ -574,29 +566,17 @@ The state of emergency was progressively increased through out Japan in May and 
 A state of emergency was declared in Tokyo and the surrounding areas of Chiba, Saitama and Kanagawa from 7 February 2021. This emergency declaration was not extended to the rest of the country. This state of emegency was later extended to at least 20 June 2021. 
 
 *Sources*:
- "https://www.theguardian.com/world/2020/may/25/japan-lifts-state-of-emergency-after-fall-in-coronavirus-cases
-
-https://www.reuters.com/article/us-health-coronavirus-japan-abe/japan-pm-abe-to-lift-state-of-emergency-for-all-of-japan-today-idUSKBN2310WN
-
-
-https://abcnews.go.com/Health/wireStory/latest-south-korea-25-cases-small-outbreaks-70855282
-
-https://www.bloomberg.com/news/articles/2020-04-07/japan-s-abe-declares-state-of-emergency-over-coronavirus
-
-https://web.archive.org/web/20200416074627/
-
-https://mainichi.jp/english/articles/20200416/p2g/00m/0na/085000c"
-
-
-https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=424AC0000000031#223
-
-https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instead-of-legal-penalty/
-
-https://edition.cnn.com/2021/01/07/asia/japan-state-of-emergency-tokyo-coronavirus-intl-hnk/index.html
-
-https://english.kyodonews.net/news/2021/05/d35c8e4fadc4-japan-to-expand-extend-covid-19-state-of-emergency.html
-
-https://www.argusmedia.com/en/news/2219521-japan-to-further-extend-covid19-emergency-until-june
+ https://perma.cc/UYG2-5WLD
+https://perma.cc/2R99-UWD7
+https://perma.cc/XS34-USSN
+https://web.archive.org/web/20200407120942/https://www.bloomberg.com/news/articles/2020-04-07/japan-s-abe-declares-state-of-emergency-over-coronavirus
+https://perma.cc/A985-JVRC
+https://perma.cc/36NF-ELJM
+https://perma.cc/AD83-7NX2
+https://perma.cc/Q9CJ-T9LA
+https://perma.cc/3UMG-C9X8
+https://perma.cc/32DJ-8VNR
+https://perma.cc/8WRL-TSQF
 
 
 
@@ -640,9 +620,10 @@ https://www.argusmedia.com/en/news/2219521-japan-to-further-extend-covid19-emerg
  I did not find evidence of the emergency measures discriminating "solely on the grounds of race, colour, sex, language, religion or social origin" across all the time periods. 
 
 *Sources*:
- https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=424AC0000000031#223
+ https://perma.cc/G5XL-JTJT
 
-https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instead-of-legal-penalty/
+
+https://perma.cc/B74E-83F2
 
 
 
@@ -691,9 +672,10 @@ https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instea
  There is no information of the emergency measures de-jure violating non-derogable rights as defined by the ICCPR through out all the time periods. 
 
 *Sources*:
- https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=424AC0000000031#223
+ https://perma.cc/AD83-7NX2
 
-https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instead-of-legal-penalty/
+
+https://perma.cc/Q9CJ-T9LA
 
 
 
@@ -737,11 +719,10 @@ https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instea
  I did not come across new limitations on media freedom due to the emergency measures across all the time periods. 
 
 *Sources*:
- https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=424AC0000000031#223
+ https://perma.cc/AD83-7NX2
 
 
-
-https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instead-of-legal-penalty/
+https://perma.cc/Q9CJ-T9LA
 
 
 
@@ -861,17 +842,16 @@ https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instea
  There are no de-facto limitations on media reporting about the nature of the Covid-19 virus across time periods. 
 
 *Sources*:
- https://rsf.org/en/japan
+ https://perma.cc/6FR3-CGSW
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/japan/
+https://perma.cc/9S8B-6AJZ
 
 
-https://www.bbc.com/news/topics/cjnwl8q4g7nt/japan
+https://perma.cc/KWU9-AR9V
 
 
-
-https://www.hrw.org/asia/japan
+https://perma.cc/7JNS-3WLL
 
 
 
@@ -913,17 +893,16 @@ https://www.hrw.org/asia/japan
  There have not been government placed de-facto limitations on media reporting across all the time periods. 
 
 *Sources*:
- https://rsf.org/en/japan
+ https://perma.cc/6FR3-CGSW
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/japan/
+https://perma.cc/9S8B-6AJZ
 
 
-https://www.bbc.com/news/topics/cjnwl8q4g7nt/japan
+https://perma.cc/KWU9-AR9V
 
 
-
-https://www.hrw.org/asia/japan
+https://perma.cc/7JNS-3WLL
 
 
 
@@ -965,17 +944,16 @@ https://www.hrw.org/asia/japan
  I did not find any information related to this across all time periods. 
 
 *Sources*:
- https://rsf.org/en/japan
+ https://perma.cc/6FR3-CGSW
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/japan/
+https://perma.cc/9S8B-6AJZ
 
 
-https://www.bbc.com/news/topics/cjnwl8q4g7nt/japan
+https://perma.cc/KWU9-AR9V
 
 
-
-https://www.hrw.org/asia/japan
+https://perma.cc/7JNS-3WLL
 
 
 
@@ -1020,12 +998,13 @@ https://www.hrw.org/asia/japan
 Even though the emergency measures were lifted on 25 May 2020, these restrictions have remained in place. I have not found information suggesting that this restriction has been lifted. Hence I have coded Q3 of meinf as 1. 
 
 *Sources*:
- https://rsf.org/en/news/covid-19-rsf-urges-japan-government-lift-restrictions-access-press-conferences
+ https://perma.cc/D885-R8YM
 
 
-http://www.asahi.com/ajw/articles/13222083
+https://perma.cc/DZD8-JBX7
 
-http://shimbunroren.or.jp/200807statement/
+
+https://perma.cc/DMU5-HGYP
 
 
 
@@ -1067,17 +1046,16 @@ http://shimbunroren.or.jp/200807statement/
  There have been no reports of journalists being verbally harassed across all the time periods. 
 
 *Sources*:
- https://rsf.org/en/japan
+ https://perma.cc/6FR3-CGSW
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/japan/
+https://perma.cc/9S8B-6AJZ
 
 
-https://www.bbc.com/news/topics/cjnwl8q4g7nt/japan
+https://perma.cc/KWU9-AR9V
 
 
-
-https://www.hrw.org/asia/japan
+https://perma.cc/7JNS-3WLL
 
 
 
@@ -1119,17 +1097,16 @@ https://www.hrw.org/asia/japan
  There have been no reports of journalists being physically harassed across all the time periods. 
 
 *Sources*:
- https://rsf.org/en/japan
+ https://perma.cc/6FR3-CGSW
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/japan/
+https://perma.cc/9S8B-6AJZ
 
 
-https://www.bbc.com/news/topics/cjnwl8q4g7nt/japan
+https://perma.cc/KWU9-AR9V
 
 
-
-https://www.hrw.org/asia/japan
+https://perma.cc/7JNS-3WLL
 
 
 
@@ -1173,7 +1150,7 @@ https://www.hrw.org/asia/japan
  I did not find any information on covid-19 related matters deviating from the official information provided by the WHO across all the time periods. 
 
 *Sources*:
- https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/newpage_00032.html
+ https://perma.cc/LYN9-3BCF
 
 
 
@@ -1217,17 +1194,16 @@ https://www.hrw.org/asia/japan
  I did not find any information related to this across all the time periods. 
 
 *Sources*:
- https://rsf.org/en/japan
+ https://perma.cc/6FR3-CGSW
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/japan/
+https://perma.cc/9S8B-6AJZ
 
 
-https://www.bbc.com/news/topics/cjnwl8q4g7nt/japan
+https://perma.cc/KWU9-AR9V
 
 
-
-https://www.hrw.org/asia/japan
+https://perma.cc/7JNS-3WLL
 
 
 
@@ -1269,14 +1245,13 @@ https://www.hrw.org/asia/japan
  I did not find any information related to this across all time periods. 
 
 *Sources*:
- https://rsf.org/en/japan
+ https://perma.cc/6FR3-CGSW
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/japan/
+https://perma.cc/9S8B-6AJZ
 
 
-https://www.bbc.com/news/topics/cjnwl8q4g7nt/japan
+https://perma.cc/KWU9-AR9V
 
 
-
-https://www.hrw.org/asia/japan
+https://perma.cc/7JNS-3WLL

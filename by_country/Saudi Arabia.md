@@ -45,23 +45,28 @@
  The Saudi government have taken many emergency measures, such as curfews, lockdowns of some areas and regions, travel bans, border closure and closing of religious and public places. However, this has been without any declared state of emergency, and there's no reference to specific legal instruments under which these actions are taken in the source, nor that they have adopted any new laws. This lack of legal instrument has also remained in the other periods. This is therefore coded as 5. 
 
 *Sources*:
- https://www.sciencedirect.com/science/article/pii/S1876034120304664#bib0085
+ https://perma.cc/F9LZ-J955
 
 
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.garda.com/crisis24/news-alert-full-history/2vkXk5oi3DhYpxPo5/saudi-arabia-temperature-screenings-implemented-for-inbound-flights-from-china-january-23
-
-https://covidlawlab.org/?s&topic&country=Saudi+Arabia
-
-https://www.garda.com/crisis24/news-alerts/409071/saudi-arabia-Covid-19-related-restrictions-remain-in-effect-nationwide-as-of-dec-5-update-44
+https://perma.cc/8U8Q-BC4Z
 
 
-https://www.garda.com/crisis24/news-alerts/439596/saudi-arabia-authorities-maintaining-tightened-domestic-restrictions-as-of-feb-6-amid-efforts-to-combat-Covid-19-update-52
+https://perma.cc/7X5G-7KWL
 
-https://www.garda.com/crisis24/news-alerts/484936/saudi-arabia-authorities-lift-Covid-19-related-travel-ban-on-11-countries-may-30-update-60
 
-https://www.garda.com/crisis24/news-alerts/451796/saudi-arabia-authorities-to-lift-some-domestic-restrictions-nationwide-beginning-march-7-update-54
+https://perma.cc/6STC-4D67
+
+
+https://perma.cc/2VFP-6KDS
+
+
+https://perma.cc/L98D-TZGV
+
+
+https://perma.cc/UYC9-3KQJ
+
+
+https://perma.cc/F3ML-U9XH
 
 
 
@@ -389,7 +394,7 @@ https://www.garda.com/crisis24/news-alerts/451796/saudi-arabia-authorities-to-li
  Saudi Arabia is a monarchy where the king holds absolute power. Saudi Arabias "legislature", the Consultative Assembly of Saudi Arabia, is only an advisory body and has no lawmaking role. Therefore, this is coded as 5. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Saudi_Arabia_2013?lang=en
+ https://perma.cc/9GAX-R6GB
 
 
 
@@ -511,22 +516,14 @@ https://www.garda.com/crisis24/news-alerts/451796/saudi-arabia-authorities-to-li
  During Q2-Q3 of 2020, Saudi Arabia imposed several nationwide emergence measures, but also a number of regional measures, primarily specific lockdowns and curfews (or easing of these). This is therefore coded as 2, as there's some regional variation along with several measures in place for the whole country. From Q4 and onward, however, all restrictions seem to be in place nationwide and no sub-national variation has been found. This is therefore coded as 0. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.garda.com/crisis24/news-alerts/340651/saudi-arabia-authorities-ease-Covid-19-restrictions-in-several-districts-of-medina-may-9-update-33
-
-https://www.garda.com/crisis24/news-alerts/341441/saudi-arabia-lockdown-measures-introduced-in-baish-province-jazan-region-as-of-may-12-to-curb-the-spread-of-Covid-19-update-34
-
-https://www.garda.com/crisis24/news-alerts/409071/saudi-arabia-Covid-19-related-restrictions-remain-in-effect-nationwide-as-of-dec-5-update-44
-
-https://www.garda.com/crisis24/news-alerts/409071/saudi-arabia-Covid-19-related-restrictions-remain-in-effect-nationwide-as-of-dec-5-update-44
-
-
-https://www.garda.com/crisis24/news-alerts/439596/saudi-arabia-authorities-maintaining-tightened-domestic-restrictions-as-of-feb-6-amid-efforts-to-combat-Covid-19-update-52
-
-https://www.garda.com/crisis24/news-alerts/484936/saudi-arabia-authorities-lift-Covid-19-related-travel-ban-on-11-countries-may-30-update-60
-
-https://www.garda.com/crisis24/news-alerts/451796/saudi-arabia-authorities-to-lift-some-domestic-restrictions-nationwide-beginning-march-7-update-54
+ https://perma.cc/H6B7-PWZB
+https://perma.cc/K4E8-Q6EQ
+https://perma.cc/VK53-32WG
+https://perma.cc/YBF4-CFLC
+https://perma.cc/H5JW-C3JD
+https://perma.cc/6DZP-QNB4
+https://perma.cc/9ZC5-WVQV
+https://perma.cc/M26V-2NAQ
 
 
 
@@ -570,28 +567,37 @@ https://www.garda.com/crisis24/news-alerts/451796/saudi-arabia-authorities-to-li
  The Saudi government has taken several discriminating actions toward migrant workers as part of their emergency response. For example, during April 2020 they deported thousands of Ethiopian migrant workers during the pandemic, and as the UN reports the government argued that "Ethiopians were vulnerable to the coronavirus and they have deported some with symptoms and many without, but no testing." Consequently, the government have deported these migrant workers not because the individuals have shown infection of Covid-19, but for being part of that group. Newspaper investigations also show that since those deportations caused international critique, Saudi Arabia has been keeping an unknown but large number of migrant workers in detention centers with horrible standards and under immediate risk of spreading both Covid-19 and other diseases, as well as being subject to extensive violence from guards at the centers. Saudi Arabia faced massive criticism from this, for example by the European Parliament, and eventually started repatriating migrants from these centers to Ethiopia in late January 2021. However, far from all had been repatriated at that time, and no evidence has been found that all have now been repatriated and that these Covid-19 detention centers are no longer in force. Thus, lacking confirmation that this has entirely ended by time of Q2 of 2021 (or time of coding), this is coded 3 for all periods. 
 
 *Sources*:
- https://www.uncdf.org/article/5528/ethiopian-government-on-the-forefront-of-Covid-19
-
-https://www.amnesty.org/en/latest/campaigns/2020/04/covid19-makes-gulf-countries-abuse-of-migrant-workers-impossible-to-ignore/
-
-https://www.reuters.com/article/us-health-coronavirus-ethiopia-migrants/u-n-says-saudi-deportations-of-ethiopian-migrants-risks-spreading-coronavirus-idUSKCN21V1OT
-
-https://www.hrw.org/news/2020/08/13/yemen-houthis-kill-expel-ethiopian-migrants
-
-https://www.telegraph.co.uk/global-health/climate-and-people/investigation-african-migrants-left-die-saudi-arabias-hellish/
-
-https://www.theguardian.com/global-development/2020/aug/04/we-drink-from-the-toilet-migrants-tell-of-hellish-saudi-detention-centres
-
-https://idcoalition.org/wp-content/uploads/2020/10/COVID-19-Impacts-on-Immigration-Detention-Global-Responses-2020.pdf
-
-https://www.amnesty.org/en/latest/news/2020/10/ethiopian-migrants-hellish-detention-in-saudi-arabia/
+ https://perma.cc/EV2C-W8NQ
 
 
-https://www.business-humanrights.org/en/latest-news/eu-parliament-condemns-human-rights-abuses-in-saudi-migrant-camps-after-telegraph-investigation/
+https://perma.cc/Q2VT-4YFP
 
-https://www.telegraph.co.uk/global-health/climate-and-people/first-migrants-released-saudi-detention-centres-arrive-home/
 
-https://www.hrw.org/news/2021/03/01/saudi-arabia-repatriates-hundreds-detained-ethiopians
+https://perma.cc/Q8ZC-B82Q
+
+
+https://perma.cc/JDB6-SC3M
+
+
+https://perma.cc/G3S2-FVQA
+
+
+https://perma.cc/S57B-3GN5
+
+
+https://perma.cc/3KSM-M69D
+
+
+https://perma.cc/PJ4D-5RGC
+
+
+https://perma.cc/AE39-VKVV
+
+
+https://perma.cc/J4ZN-NVYN
+
+
+https://perma.cc/NUD8-BP38
 
 
 
@@ -640,28 +646,17 @@ https://www.hrw.org/news/2021/03/01/saudi-arabia-repatriates-hundreds-detained-e
  Saudi Arabia has both deported migrant workers and put large numbers of them in detention centers since April 2020 as part of their Covid-19 response, arguing that they as a group spread the disease. The treatment these people are subject to in the detention centers are clearly inhuman and cruel (a violation of a non-derogable right), and they have not been given trials or any right to appeal, possibly also violating their right as a person before the law (another non-derogable right). The detention centers for instance reportedly had no access to clean water and sanitation, no access to health care and migrants were subject to violence and torture by guards. Saudi Arabia faced massive criticism from this, for example by the European Parliament, and eventually started repatriating migrants from these centers to Ethiopia in late January 2021. However, far from all had been repatriated at that time, and no evidence has been found that all have now been repatriated and that these Covid-19 detention centers are no longer in force. Thus, lacking confirmation that this has entirely ended by time of Q2 of 2021 (or time of coding), this is coded 1 for all periods. 
 
 *Sources*:
- https://www.uncdf.org/article/5528/ethiopian-government-on-the-forefront-of-Covid-19
-
-https://www.amnesty.org/en/latest/campaigns/2020/04/covid19-makes-gulf-countries-abuse-of-migrant-workers-impossible-to-ignore/
-
-https://www.reuters.com/article/us-health-coronavirus-ethiopia-migrants/u-n-says-saudi-deportations-of-ethiopian-migrants-risks-spreading-coronavirus-idUSKCN21V1OT
-
-https://www.hrw.org/news/2020/08/13/yemen-houthis-kill-expel-ethiopian-migrants
-
-https://www.telegraph.co.uk/global-health/climate-and-people/investigation-african-migrants-left-die-saudi-arabias-hellish/
-
-https://www.theguardian.com/global-development/2020/aug/04/we-drink-from-the-toilet-migrants-tell-of-hellish-saudi-detention-centres
-
-https://idcoalition.org/wp-content/uploads/2020/10/COVID-19-Impacts-on-Immigration-Detention-Global-Responses-2020.pdf
-
-https://www.amnesty.org/en/latest/news/2020/10/ethiopian-migrants-hellish-detention-in-saudi-arabia/
-
-
-https://www.business-humanrights.org/en/latest-news/eu-parliament-condemns-human-rights-abuses-in-saudi-migrant-camps-after-telegraph-investigation/
-
-https://www.telegraph.co.uk/global-health/climate-and-people/first-migrants-released-saudi-detention-centres-arrive-home/
-
-https://www.hrw.org/news/2021/03/01/saudi-arabia-repatriates-hundreds-detained-ethiopians
+ https://perma.cc/3DHY-KGKD
+https://perma.cc/7T9F-DUWP
+https://perma.cc/2643-2MCA
+https://perma.cc/2FVS-75PW
+https://perma.cc/J2HG-83G5
+https://perma.cc/ECT2-CZTP
+https://perma.cc/6S4G-Y4FP
+https://perma.cc/CR9F-YPNK
+https://perma.cc/Y4RD-BXDV
+https://perma.cc/H6ZH-CKNB
+https://perma.cc/ES6W-R4EA
 
 
 
@@ -705,9 +700,13 @@ https://www.hrw.org/news/2021/03/01/saudi-arabia-repatriates-hundreds-detained-e
  There are no reports from Reporters Without Borders or International Press Institute that Saudi Arabias emergency measures have included any de jure limitations on the media going beyond those already in place before the pandemic. This is thereore coded as 0. 
 
 *Sources*:
- https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/thematique/internet?countries%5B153%5D=153
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Saudi%20Arabia
+ https://perma.cc/WBE6-RR6Q
+
+
+https://perma.cc/GEY7-F6W4
+
+
+https://perma.cc/2MMB-XQ3Y
 
 
 
@@ -746,11 +745,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
+ https://perma.cc/WBE6-RR6Q
 
-https://rsf.org/en/thematique/internet?countries%5B153%5D=153
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Saudi%20Arabia
+https://perma.cc/GEY7-F6W4
+
+
+https://perma.cc/2MMB-XQ3Y
 
 
 
@@ -789,11 +790,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
+ https://perma.cc/WBE6-RR6Q
 
-https://rsf.org/en/thematique/internet?countries%5B153%5D=153
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Saudi%20Arabia
+https://perma.cc/GEY7-F6W4
+
+
+https://perma.cc/2MMB-XQ3Y
 
 
 
@@ -835,11 +838,19 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  While no reports have been found on specific instances or measures of censoring or other limitations of the media reporting on Covid-19, the already existing, strong limitations on media in Saudi Arabia should constitute a significant de facto limitation on them reporting on Covid-19. This is therefore coded as 1 for all periods. 
 
 *Sources*:
- https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/thematique/internet?countries%5B153%5D=153
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Saudi%20Arabia
+ https://perma.cc/94LN-M3NV
 
-https://rsf.org/en/news/saudi-media-silent-rsf-complaint-against-mbs
+
+https://perma.cc/W469-A8LZ
+
+
+https://perma.cc/U5H9-H3GD
+
+
+https://perma.cc/YF3C-3TEA
+
+
+
 
 
 
@@ -881,10 +892,16 @@ https://rsf.org/en/news/saudi-media-silent-rsf-complaint-against-mbs
  While no reports have been found on specific instances or measures of censoring or other limitations of the media reporting on the governments response to Covid-19, the already existing, strong limitations on media in Saudi Arabia should constitute a significant de facto limitation on them reporting on Covid-19. This is therefore coded as 1 for all periods. 
 
 *Sources*:
- https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/thematique/internet?countries%5B153%5D=153
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Saudi%20Arabia
-https://rsf.org/en/news/saudi-media-silent-rsf-complaint-against-mbs
+ https://perma.cc/94LN-M3NV
+
+
+https://perma.cc/W469-A8LZ
+
+
+https://perma.cc/U5H9-H3GD
+
+
+https://perma.cc/YF3C-3TEA
 
 
 
@@ -926,9 +943,16 @@ https://rsf.org/en/news/saudi-media-silent-rsf-complaint-against-mbs
  While there are significant de facto limitations facing media in Saudi Arabia, no reports have been found on the government using Covid-19 as an excuse to limit non Covid-19-related news. This is therefore coded as 0 for all periods. 
 
 *Sources*:
- https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/thematique/internet?countries%5B153%5D=153
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Saudi%20Arabia
+ https://perma.cc/94LN-M3NV
+
+
+https://perma.cc/W469-A8LZ
+
+
+https://perma.cc/U5H9-H3GD
+
+
+
 
 
 
@@ -971,9 +995,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  While it is plausible that access to information is limited given the media censorship at large in Saudi Arabia, there are no specific reports found on any limitations to access to information, and this is therefore coded as 0 for all periods. 
 
 *Sources*:
- https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/thematique/internet?countries%5B153%5D=153
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Saudi%20Arabia
+ https://perma.cc/WBE6-RR6Q
+
+
+https://perma.cc/GEY7-F6W4
+
+
+https://perma.cc/2MMB-XQ3Y
 
 
 
@@ -1015,9 +1043,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  No evidence has been found on there being any verbal harassment of journalists reporting on Covid-19 in Saudi Arabia. This is therefore coded as 0 for all three periods. 
 
 *Sources*:
- https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/thematique/internet?countries%5B153%5D=153
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Saudi%20Arabia
+ https://perma.cc/X44A-4SSD
+
+
+https://perma.cc/E9HC-2F2J
+
+
+https://perma.cc/V2DN-67RN
 
 
 
@@ -1059,9 +1091,13 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  No evidence has been found on there being any physical harassment of journalists reporting on Covid-19  in Saudi Arabia (although there is substantial physical harassment of already jailed journalists in Saudi Arabia, but these occurences are not related to Covid-19). This is therefore coded as 0 for all three periods. 
 
 *Sources*:
- https://rsf.org/en/news/middle-east-governments-clamp-down-coronavirus-coverage
-https://rsf.org/en/thematique/internet?countries%5B153%5D=153
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Saudi%20Arabia
+ https://perma.cc/2RNQ-5XCZ
+
+
+https://perma.cc/D7AP-CJXM
+
+
+https://perma.cc/J8K4-29W5
 
 
 
@@ -1105,8 +1141,8 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  The information provided by the Saudi Health Department does not deviate from the information on Covid-19 provided by the WHO. 
 
 *Sources*:
- https://www.moh.gov.sa/en/HealthAwareness/EducationalContent/Corona/Pages/corona.aspx
-https://www.moh.gov.sa/en/Pages/default.aspx
+ https://perma.cc/9M2D-GX7C
+https://perma.cc/93UP-H9KF
 
 
 
@@ -1150,9 +1186,10 @@ https://www.moh.gov.sa/en/Pages/default.aspx
  Neither Human Rights Watch nor Amnesty International has reported any violence when enforcing the emergency measures, and I have found no other indication of such violence. This is therefore coded as 0 for all periods. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38555&resourceType=newsarticle&sort=date
+ https://perma.cc/J42W-2TUD
 
-https://www.hrw.org/news?country[]=9647
+
+https://perma.cc/3RTR-ST3P
 
 
 
@@ -1194,5 +1231,7 @@ https://www.hrw.org/news?country[]=9647
  According to sources found on this, Saudi Arabia has not deployed the military to enforce emergency measures. This is therefore coded as 0 for all three periods. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-https://themedialine.org/by-region/corona-as-security-threat-mideast-states-call-out-army/
+ https://perma.cc/K7DH-9ZTP
+
+
+https://perma.cc/3NHA-MCM7

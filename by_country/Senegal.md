@@ -53,49 +53,21 @@ Senegal lifted the state of health disaster on 19 March 2021, after nearly three
 After the end of the state of emergency, some minimal Covid-19 health restrictions are maintained, like the wearing of face masks and social distancing measures (13). 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Senegal_2016.pdf?lang=en
-(1)
+ perma.cc/J5RT-9Y4A
+perma.cc/X9DE-BY4B
+https://web.archive.org/web/20200329042642/https://www.sec.gouv.sn/actualit<8e>/d<8e>cret-n<a1>-2020-830-du-23-mars-2020-proclamant-lՎtat-d<d5>urgence-sur-le-territoire-national
 
-http://www.dri.gouv.sn/sites/default/files/LOI/1969/69%2029.pdf
-(2)
-
-https://www.sec.gouv.sn/actualit%C3%A9/d%C3%A9cret-n%C2%B0-2020-830-du-23-mars-2020-proclamant-l%E2%80%99%C3%A9tat-d%E2%80%99urgence-sur-le-territoire-national
-(3)
-
-http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
-(4)
-
-https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-minist%C3%A9riel-n%C2%B0-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
-(5)
-
-https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-n%C2%B0024066-du-05-octobre-2020-portant-prorogation-de-larr%C3%AAt%C3%A9-n%C2%B011592-du-10-juillet
-(6)
-
-https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-n%C2%B0-000030-du-06-janvier-2021-portant-interdiction-temporaire-de-manifestations-et
-(7)
-
-https://ze-africanews.com/en/senegal-president-macky-sall-promulgated-the-state-of-emergency-and-state-of-siege-act/
-(8)
-
-https://www.presidence.sn/actualites/le-president-de-la-republique-a-promulgue-la-loi-n-2021-18-modifiant-la-loi-n-69-29-du-29-avril-1969-relative-a-letat-durgence-et-a-letat-de-siege_2169
-(9)
-
-https://www.voaafrique.com/a/le-pr%C3%A9sident-s%C3%A9n%C3%A9galais-obtient-des-pouvoirs-accrus-pour-contrer-le-coronavirus/5734069.html
-(10)
-
-https://www.rfi.fr/en/africa/20210106-senegal-declares-state-of-emergency-curfew-to-combat-spike-in-covid-19-africa-health
-(11)
-
-https://www.garda.com/crisis24/news-alerts/435261/senegal-authorities-invoke-covid-19-state-of-health-disaster-extend-2100-0500-curfew-in-dakar-thies-as-of-jan-26-update-16
-(12)
-https://www.garda.com/crisis24/news-alerts/467136/senegal-minimal-restrictions-remain-in-place-nationwide-as-of-april-13-due-to-covid-19-activity-update-20
-(13)
-
-
-http://www.apanews.net/en/news/covid-19-state-of-emergency-extended-in-dakar-thies-regions
-
-
-
+perma.cc/TQP5-X4A4
+https://web.archive.org/web/20200716073713/https://www.sec.gouv.sn/actualit<8e>/arr<90>t<8e>-minist<8e>riel-n<a1>-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
+https://web.archive.org/web/20201029170930/https://www.sec.gouv.sn/actualit<8e>/arr<90>t<8e>-n<a1>024066-du-05-octobre-2020-portant-prorogation-de-larr<90>t<8e>-n<a1>11592-du-10-juillet
+https://web.archive.org/web/20210114065533/https://www.sec.gouv.sn/actualit<8e>/arr<90>t<8e>-n<a1>-000030-du-06-janvier-2021-portant-interdiction-temporaire-de-manifestations-et
+perma.cc/MBJ5-A9QK
+perma.cc/2B7N-WJ4F
+perma.cc/5AX6-VUYB
+perma.cc/MGZ6-4TRK
+perma.cc/A9NC-MGDZ
+perma.cc/TEH2-RKS5
+perma.cc/6ZQR-F2NE
 
 
 
@@ -139,20 +111,15 @@ Decree on mandatory face masks: Ministerial Decree No. 011592 of 10 July 2020 pr
 Decree on the State of health disaster : ARRÊTÉ N° 000030 of 6 January 2021 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Senegal_2016.pdf?lang=en
+ perma.cc/S9K8-VGPF
+perma.cc/EVP9-VV7H
 
-http://www.dri.gouv.sn/sites/default/files/LOI/1969/69%2029.pdf
+https://web.archive.org/web/20200329042642/https://www.sec.gouv.sn/actualit<8e>/d<8e>cret-n<a1>-2020-830-du-23-mars-2020-proclamant-lՎtat-d<d5>urgence-sur-le-territoire-national
+https://web.archive.org/web/20200716073713/https://www.sec.gouv.sn/actualit<8e>/arr<90>t<8e>-minist<8e>riel-n<a1>-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
+https://web.archive.org/web/20210114065533/https://www.sec.gouv.sn/actualit<8e>/arr<90>t<8e>-n<a1>-000030-du-06-janvier-2021-portant-interdiction-temporaire-de-manifestations-et
+perma.cc/2CG2-4QBA
+perma.cc/X6ND-4WZK
 
-https://www.sec.gouv.sn/actualit%C3%A9/d%C3%A9cret-n%C2%B0-2020-830-du-23-mars-2020-proclamant-l%E2%80%99%C3%A9tat-d%E2%80%99urgence-sur-le-territoire-national
-(3)
-https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-minist%C3%A9riel-n%C2%B0-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
-
-
-https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-n%C2%B0-000030-du-06-janvier-2021-portant-interdiction-temporaire-de-manifestations-et
-
-https://www.presidence.sn/actualites/le-president-de-la-republique-a-promulgue-la-loi-n-2021-18-modifiant-la-loi-n-69-29-du-29-avril-1969-relative-a-letat-durgence-et-a-letat-de-siege_2169
-
-https://www.voaafrique.com/a/le-pr%C3%A9sident-s%C3%A9n%C3%A9galais-obtient-des-pouvoirs-accrus-pour-contrer-le-coronavirus/5734069.html
 
 
 
@@ -198,30 +165,18 @@ Senegal lifted the state of emergency on 19 March 2021, after nearly three month
 After the end of the state of emergency, some minimal Covid-19 health restrictions are maintained, like the wearing of face masks and social distancing measures. 
 
 *Sources*:
- https://www.sec.gouv.sn/actualit%C3%A9/d%C3%A9cret-n%C2%B0-2020-830-du-23-mars-2020-proclamant-l%E2%80%99%C3%A9tat-d%E2%80%99urgence-sur-le-territoire-national
-
-https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emergency-to-curb-covid-19//
-
-https://www.icnl.org/covid19tracker/?location=&issue=5&date=&type=
-
-http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
-
-https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-minist%C3%A9riel-n%C2%B0-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
-
-
-https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-n%C2%B0024066-du-05-octobre-2020-portant-prorogation-de-larr%C3%AAt%C3%A9-n%C2%B011592-du-10-juillet
-
-https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-n%C2%B0-000030-du-06-janvier-2021-portant-interdiction-temporaire-de-manifestations-et
-
-https://www.rfi.fr/en/africa/20210106-senegal-declares-state-of-emergency-curfew-to-combat-spike-in-covid-19-africa-health
-
-https://www.garda.com/crisis24/news-alerts/467136/senegal-minimal-restrictions-remain-in-place-nationwide-as-of-april-13-due-to-covid-19-activity-update-20
-
-https://www.voaafrique.com/a/le-pr%C3%A9sident-s%C3%A9n%C3%A9galais-obtient-des-pouvoirs-accrus-pour-contrer-le-coronavirus/5734069.html
-
-https://www.garda.com/crisis24/news-alerts/435261/senegal-authorities-invoke-covid-19-state-of-health-disaster-extend-2100-0500-curfew-in-dakar-thies-as-of-jan-26-update-16
-
-https://www.presidence.sn/actualites/le-president-de-la-republique-a-promulgue-la-loi-n-2021-18-modifiant-la-loi-n-69-29-du-29-avril-1969-relative-a-letat-durgence-et-a-letat-de-siege_2169
+ https://web.archive.org/web/20200329042642/https://www.sec.gouv.sn/actualit<8e>/d<8e>cret-n<a1>-2020-830-du-23-mars-2020-proclamant-lՎtat-d<d5>urgence-sur-le-territoire-national
+perma.cc/4YWD-2C9U
+perma.cc/VK3U-273U
+perma.cc/WNB6-L285
+https://web.archive.org/web/20200716073713/https://www.sec.gouv.sn/actualit<8e>/arr<90>t<8e>-minist<8e>riel-n<a1>-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
+https://web.archive.org/web/20201029170930/https://www.sec.gouv.sn/actualit<8e>/arr<90>t<8e>-n<a1>024066-du-05-octobre-2020-portant-prorogation-de-larr<90>t<8e>-n<a1>11592-du-10-juillet
+https://web.archive.org/web/20210114065533/https://www.sec.gouv.sn/actualit<8e>/arr<90>t<8e>-n<a1>-000030-du-06-janvier-2021-portant-interdiction-temporaire-de-manifestations-et
+perma.cc/AK39-7DN9
+perma.cc/3WQB-CYUN
+perma.cc/4TQT-D5WR
+perma.cc/R9TW-87LF
+perma.cc/WLU9-MKHJ
 
 
 
@@ -267,27 +222,34 @@ Senegal lifted the state of emergency on 19 March 2021, after nearly three month
 After the end of the state of emergency, some minimal Covid-19 health restrictions are maintained, like the wearing of face masks and social distancing measures. 
 
 *Sources*:
- https://www.bbc.com/afrique/region-53229867
-
-https://www.aa.com.tr/fr/afrique/s%C3%A9n%C3%A9gal-lev%C3%A9e-de-l-%C3%A9tat-d-urgence-et-du-couvre-feu-/1894249
-
-https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-minist%C3%A9riel-n%C2%B0-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
-
-https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-n%C2%B0024066-du-05-octobre-2020-portant-prorogation-de-larr%C3%AAt%C3%A9-n%C2%B011592-du-10-juillet
-
-https://sn.usembassy.gov/covid-19-information/
+ perma.cc/T5VQ-8K5X
 
 
-https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-n%C2%B0-000030-du-06-janvier-2021-portant-interdiction-temporaire-de-manifestations-et
-
-https://www.rfi.fr/en/africa/20210106-senegal-declares-state-of-emergency-curfew-to-combat-spike-in-covid-19-africa-health
-
-https://www.garda.com/crisis24/news-alerts/467136/senegal-minimal-restrictions-remain-in-place-nationwide-as-of-april-13-due-to-covid-19-activity-update-20
+perma.cc/8YPL-CXVG
 
 
-https://www.garda.com/crisis24/news-alerts/458161/senegal-several-covid-19-related-domestic-restrictions-including-a-night-time-curfew-in-dakar-and-thies-lifted-as-of-march-21-update-19
+perma.cc/2Z7Y-9R89
 
-https://www.garda.com/crisis24/news-alerts/445611/senegal-authorities-extend-2100-0500-curfew-in-dakar-and-thies-from-feb-20-update-17
+
+perma.cc/F4LQ-X73C
+
+
+perma.cc/K7XH-GMKJ
+
+
+perma.cc/S2PW-ZATK
+
+
+perma.cc/GYV8-UBSG
+
+
+perma.cc/PA7B-9GKU
+
+
+perma.cc/62XQ-RF37
+
+
+perma.cc/5KSU-P33W
 
 
 
@@ -332,18 +294,13 @@ The 1969 emergency law, article 11,  allows the state of emergency to be applied
 The second state of health disaster was initially declared from 6 to 17 January 2021. It was finally lifted on 19 March 2021. 
 
 *Sources*:
- https://www.sec.gouv.sn/actualit%C3%A9/d%C3%A9cret-n%C2%B0-2020-830-du-23-mars-2020-proclamant-l%E2%80%99%C3%A9tat-d%E2%80%99urgence-sur-le-territoire-national
+ https://web.archive.org/web/20200329042642/https://www.sec.gouv.sn/actualit<8e>/d<8e>cret-n<a1>-2020-830-du-23-mars-2020-proclamant-lՎtat-d<d5>urgence-sur-le-territoire-national
+perma.cc/MNV5-2396
+perma.cc/9A59-YLNB
+https://web.archive.org/web/20210114065533/https://www.sec.gouv.sn/actualit<8e>/arr<90>t<8e>-n<a1>-000030-du-06-janvier-2021-portant-interdiction-temporaire-de-manifestations-et
 
-http://www.dri.gouv.sn/sites/default/files/LOI/1969/69%2029.pdf
-
-http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
-
-https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-n%C2%B0-000030-du-06-janvier-2021-portant-interdiction-temporaire-de-manifestations-et
-
-https://www.garda.com/crisis24/news-alerts/458161/senegal-several-covid-19-related-domestic-restrictions-including-a-night-time-curfew-in-dakar-and-thies-lifted-as-of-march-21-update-19
-
-
-https://www.garda.com/crisis24/news-alerts/445611/senegal-authorities-extend-2100-0500-curfew-in-dakar-and-thies-from-feb-20-update-17
+perma.cc/DPR7-Z3AK
+perma.cc/3RHP-K7WF
 
 
 
@@ -385,18 +342,12 @@ The 1969 emergency law, article 11,  allows the state of emergency to be applied
 The second state of health disaster was initially declared from 6 to 17 January 2021. It was finally lifted on 19 March 2021. 
 
 *Sources*:
- https://www.sec.gouv.sn/actualit%C3%A9/d%C3%A9cret-n%C2%B0-2020-830-du-23-mars-2020-proclamant-l%E2%80%99%C3%A9tat-d%E2%80%99urgence-sur-le-territoire-national
-
-http://www.dri.gouv.sn/sites/default/files/LOI/1969/69%2029.pdf
-
-http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
-
-https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-n%C2%B0-000030-du-06-janvier-2021-portant-interdiction-temporaire-de-manifestations-et
-
-https://www.garda.com/crisis24/news-alerts/458161/senegal-several-covid-19-related-domestic-restrictions-including-a-night-time-curfew-in-dakar-and-thies-lifted-as-of-march-21-update-19
-
-
-https://www.garda.com/crisis24/news-alerts/445611/senegal-authorities-extend-2100-0500-curfew-in-dakar-and-thies-from-feb-20-update-17
+ https://web.archive.org/web/20200329042642/https://www.sec.gouv.sn/actualit<8e>/d<8e>cret-n<a1>-2020-830-du-23-mars-2020-proclamant-lՎtat-d<d5>urgence-sur-le-territoire-national
+perma.cc/MNV5-2396
+perma.cc/9A59-YLNB
+https://web.archive.org/web/20210114065533/https://www.sec.gouv.sn/actualit<8e>/arr<90>t<8e>-n<a1>-000030-du-06-janvier-2021-portant-interdiction-temporaire-de-manifestations-et
+perma.cc/DPR7-Z3AK
+perma.cc/3RHP-K7WF
 
 
 
@@ -441,14 +392,13 @@ After the amendment of the law no.69-29 of April 1969 to include a provision for
  
 
 *Sources*:
- https://www.constituteproject.org/constitution/Senegal_2016.pdf?lang=en
-http://www.dri.gouv.sn/sites/default/files/LOI/1969/69%2029.pdf
-https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-minist%C3%A9riel-n%C2%B0-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
-https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-n%C2%B0024066-du-05-octobre-2020-portant-prorogation-de-larr%C3%AAt%C3%A9-n%C2%B011592-du-10-juillet
+ perma.cc/R6SK-G5FW
+perma.cc/9CLS-E279
 
-https://www.voaafrique.com/a/le-pr%C3%A9sident-s%C3%A9n%C3%A9galais-obtient-des-pouvoirs-accrus-pour-contrer-le-coronavirus/5734069.html
-
-https://www.presidence.sn/actualites/le-president-de-la-republique-a-promulgue-la-loi-n-2021-18-modifiant-la-loi-n-69-29-du-29-avril-1969-relative-a-letat-durgence-et-a-letat-de-siege_2169
+https://web.archive.org/web/20200716073713/https://www.sec.gouv.sn/actualit<8e>/arr<90>t<8e>-minist<8e>riel-n<a1>-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
+https://web.archive.org/web/20201029170930/https://www.sec.gouv.sn/actualit<8e>/arr<90>t<8e>-n<a1>024066-du-05-octobre-2020-portant-prorogation-de-larr<90>t<8e>-n<a1>11592-du-10-juillet
+perma.cc/V2HX-6W7P
+perma.cc/2GUA-C38B
 
 
 
@@ -495,17 +445,19 @@ The new text aims to "cope more quickly with health crises and natural disasters
 The president will henceforth be able to decree a curfew or restrictions on movement without declaring a state of emergency or a state of siege. Depending on the circumstances, he may also delegate these powers to the Minister of the Interior, to regional governors or to departmental prefects.'' (5) 
 
 *Sources*:
- https://www.aa.com.tr/fr/afrique/s%C3%A9n%C3%A9gal-covid-19-le-parlement-vote-une-loi-habilitant-le-pr%C3%A9sident-%C3%A0-prendre-des-mesures-par-ordonnances/1788433
+ perma.cc/FC6D-UQ8L
 
-https://www.jeuneafrique.com/919680/politique/senegal-les-deputes-donnent-a-macky-sall-le-pouvoir-de-legiferer-par-ordonnances/
 
-https://afrique.le360.ma/senegal/politique/2020/04/02/30041-senegal-coronavirus-macky-sall-habilite-par-le-parlement-gouverner-par-ordonnance-30041
+perma.cc/C2C4-V88L
 
-http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
 
-https://www.voaafrique.com/a/le-pr%C3%A9sident-s%C3%A9n%C3%A9galais-obtient-des-pouvoirs-accrus-pour-contrer-le-coronavirus/5734069.html
-(5)
+perma.cc/35Q7-MMWR
 
+
+perma.cc/9GPT-SK76
+
+
+perma.cc/X8BR-C4E5
 
 
 
@@ -559,11 +511,11 @@ After the end of the state of emergency, some minimal Covid-19 health restrictio
 
 *Sources*:
  https://www.facebook.com/assnatsn/posts/3324392247593627
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-https://www.constituteproject.org/constitution/Senegal_2016.pdf?lang=en
-https://www.aa.com.tr/fr/afrique/s%C3%A9n%C3%A9gal-covid-19-le-parlement-vote-une-loi-habilitant-le-pr%C3%A9sident-%C3%A0-prendre-des-mesures-par-ordonnances/1788433
-https://www.jeuneafrique.com/919680/politique/senegal-les-deputes-donnent-a-macky-sall-le-pouvoir-de-legiferer-par-ordonnances/
-https://afrique.le360.ma/senegal/politique/2020/04/02/30041-senegal-coronavirus-macky-sall-habilite-par-le-parlement-gouverner-par-ordonnance-30041
+perma.cc/MWU8-2G2C
+perma.cc/78KZ-3B7A
+perma.cc/52WY-7URM
+perma.cc/U8FT-D9DC
+perma.cc/3HJE-HEW8
 http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdf
 
 
@@ -688,25 +640,17 @@ http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%2
 The state of health disaster, introduced in 5 January 2021 - in place until 19 March 2021, was imposed on the capital Dakar and neighbouring Thies. The measures in place after March 2021 applied nationwide. 
 
 *Sources*:
- https://www.voaafrique.com/a/macky-sall-annonce-la-fin-du-couvre-feu-et-de-l-%C3%A9tat-d-urgence/5486029.html
-
-http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
-
-https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emergency-to-curb-covid-19//
-
-https://www.reuters.com/article/us-health-coronavirus-senegal/senegal-orders-all-schools-closed-in-response-to-coronavirus-idUSKBN211106
-
-https://www.reuters.com/article/health-coronavirus-senegal-ivorycoast/ivory-coast-senegal-declare-emergencies-impose-curfews-in-coronavirus-response-idUSL8N2BG9MO
-
-https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-minist%C3%A9riel-n%C2%B0-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
-
+ perma.cc/8SQ6-6AHL
+perma.cc/N3LV-9WGU
+perma.cc/28G3-9H5L
+perma.cc/8GQY-UWHW
+perma.cc/VQ3L-S3Z9
+https://web.archive.org/web/20200716073713/https://www.sec.gouv.sn/actualit<8e>/arr<90>t<8e>-minist<8e>riel-n<a1>-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
 https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-n%C2%B0024066-du-05-octobre-2020-portant-prorogation-de-larr%C3%AAt%C3%A9-n%C2%B011592-du-10-juillet
 
-https://sn.usembassy.gov/covid-19-information/
-
-https://www.rfi.fr/en/africa/20210106-senegal-declares-state-of-emergency-curfew-to-combat-spike-in-covid-19-africa-health
-
-https://www.garda.com/crisis24/news-alerts/458161/senegal-several-covid-19-related-domestic-restrictions-including-a-night-time-curfew-in-dakar-and-thies-lifted-as-of-march-21-update-19
+perma.cc/6JQE-GXWS
+perma.cc/NYT9-DFGU
+perma.cc/U6DA-KQMD
 
 
 
@@ -750,13 +694,10 @@ https://www.garda.com/crisis24/news-alerts/458161/senegal-several-covid-19-relat
  No discrimination based on these rights. 
 
 *Sources*:
- http://www.sante.gouv.sn/Actualites/covid-19-les-decisions-de-son-execellence-monsieur-macky-sall-president-de-la-republique
-
-https://www.acaps.org/covid19-government-measures-dataseth
-
-ttps://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/senegal/
+ perma.cc/FS4Q-7AGK
+perma.cc/QV69-SKWE
+perma.cc/3KU4-LNR9
+perma.cc/FND8-L3NN
 
 
 
@@ -805,13 +746,16 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/sen
  No violation of non-derogable rights. 
 
 *Sources*:
- http://www.sante.gouv.sn/Actualites/covid-19-les-decisions-de-son-execellence-monsieur-macky-sall-president-de-la-republique
+ perma.cc/FS4Q-7AGK
 
-https://www.acaps.org/covid19-government-measures-dataseth
 
-ttps://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
+perma.cc/QV69-SKWE
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/senegal/
+
+perma.cc/3KU4-LNR9
+
+
+perma.cc/FND8-L3NN
 
 
 
@@ -855,23 +799,14 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/sen
  No de jure media limitations found in the emergency measures. 
 
 *Sources*:
- https://www.sec.gouv.sn/actualit%C3%A9/d%C3%A9cret-n%C2%B0-2020-830-du-23-mars-2020-proclamant-l%E2%80%99%C3%A9tat-d%E2%80%99urgence-sur-le-territoire-national
+ https://web.archive.org/web/20200329042642/https://www.sec.gouv.sn/actualit<8e>/d<8e>cret-n<a1>-2020-830-du-23-mars-2020-proclamant-lՎtat-d<d5>urgence-sur-le-territoire-national
+https://web.archive.org/web/20200329041705/https://www.sec.gouv.sn/actualit<8e>/message-de-sem-le-pr<8e>sident-de-la-r<8e>publique-macky-sall-d<8e>claration-dՎtat-d<d5>urgence-dans
 
-https://www.sec.gouv.sn/actualit%C3%A9/message-de-sem-le-pr%C3%A9sident-de-la-r%C3%A9publique-macky-sall-d%C3%A9claration-d%E2%80%99%C3%A9tat-d%E2%80%99urgence-dans
-
-https://theconversation.com/ce-que-les-senegalais-e-s-pensent-des-mesures-gouvernementales-contre-la-covid-19-146037
-
-
-https://www.lemonde.fr/afrique/article/2020/03/24/coronavirus-etat-d-urgence-et-couvre-feu-en-vigueur-au-senegal_6034223_3212.html
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-n%C2%B0-000030-du-06-janvier-2021-portant-interdiction-temporaire-de-manifestations-et
-
-https://www.sec.gouv.sn/actualit%C3%A9/conseil-des-ministres-du-20-janvier-2021
-
-
+perma.cc/4NYZ-VFKQ
+perma.cc/7G8G-T3SC
+perma.cc/886S-WJE5
+https://web.archive.org/web/20210114065533/https://www.sec.gouv.sn/actualit<8e>/arr<90>t<8e>-n<a1>-000030-du-06-janvier-2021-portant-interdiction-temporaire-de-manifestations-et
+https://web.archive.org/web/20210121071003/https://www.sec.gouv.sn/actualit<8e>/conseil-des-ministres-du-20-janvier-2021
 
 
 
@@ -996,15 +931,19 @@ Also, in March 2021, during  the protests that emerged when opposition figure Ou
 "Network data from the NetBlocks Internet Observatory confirm the disruption of social media and messaging apps in Senegal as of 5 March 2021. Metrics show that Facebook, YouTube, WhatsApp, and some Telegram servers were restricted on leading cellular network operator Orange/Sonatel as of early morning Friday. Affected services have subsequently been restored from 7:30 a.m. UTC," reads a statement by NetBlocks.'' 
 
 *Sources*:
- https://rsf.org/en/senegal
+ perma.cc/BLC3-SJFT
 
-https://www.acaps.org/covid19-government-measures-dataset
 
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/YGB9-SPKY
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
 
-https://iafrikan.com/2021/03/08/senegal-social-media-and-internet-shutdown/
+perma.cc/DD25-WNFZ
+
+
+perma.cc/HB64-ZBA2
+
+
+perma.cc/DDR4-VU52
 
 
 
@@ -1057,26 +996,25 @@ Also, in March 2021, during  the protests that emerged when opposition figure Ou
 "Network data from the NetBlocks Internet Observatory confirm the disruption of social media and messaging apps in Senegal as of 5 March 2021. Metrics show that Facebook, YouTube, WhatsApp, and some Telegram servers were restricted on leading cellular network operator Orange/Sonatel as of early morning Friday. Affected services have subsequently been restored from 7:30 a.m. UTC," reads a statement by NetBlocks.'' (6) 
 
 *Sources*:
- https://www.bbc.com/afrique/region-52363470
-(1)
+ perma.cc/9Z97-YPAU
 
-https://theconversation.com/ce-que-les-senegalais-e-s-pensent-des-mesures-gouvernementales-contre-la-covid-19-146037
-(2)
 
-https://www.lemonde.fr/afrique/article/2020/03/24/coronavirus-etat-d-urgence-et-couvre-feu-en-vigueur-au-senegal_6034223_3212.html
-(3)
+perma.cc/8Y8Q-FJGD
 
-https://www.africanews.com/2021/03/24/senegalese-journalists-allege-increasing-intimidation-over-ousmane-sonko//
-(4)
 
-https://rsf.org/en/senegal
+perma.cc/KH88-YK89
 
-(5)
 
-https://iafrikan.com/2021/03/08/senegal-social-media-and-internet-shutdown/
-(6)
+perma.cc/NM5B-EZAM
 
-https://ipi.media/covid19-media-freedom-monitoring/
+
+perma.cc/E7MW-K6NP
+
+
+perma.cc/2M3H-7S43
+
+
+perma.cc/DFM6-B8ZB
 
 
 
@@ -1129,26 +1067,25 @@ Also, in March 2021, during  the protests that emerged when opposition figure Ou
 "Network data from the NetBlocks Internet Observatory confirm the disruption of social media and messaging apps in Senegal as of 5 March 2021. Metrics show that Facebook, YouTube, WhatsApp, and some Telegram servers were restricted on leading cellular network operator Orange/Sonatel as of early morning Friday. Affected services have subsequently been restored from 7:30 a.m. UTC," reads a statement by NetBlocks.'' (6) 
 
 *Sources*:
- https://www.bbc.com/afrique/region-52363470
-(1)
+ perma.cc/9Z97-YPAU
 
-https://theconversation.com/ce-que-les-senegalais-e-s-pensent-des-mesures-gouvernementales-contre-la-covid-19-146037
-(2)
 
-https://www.lemonde.fr/afrique/article/2020/03/24/coronavirus-etat-d-urgence-et-couvre-feu-en-vigueur-au-senegal_6034223_3212.html
-(3)
+perma.cc/8Y8Q-FJGD
 
-https://www.africanews.com/2021/03/24/senegalese-journalists-allege-increasing-intimidation-over-ousmane-sonko//
-(4)
 
-https://rsf.org/en/senegal
+perma.cc/KH88-YK89
 
-(5)
 
-https://iafrikan.com/2021/03/08/senegal-social-media-and-internet-shutdown/
-(6)
+perma.cc/NM5B-EZAM
 
-https://ipi.media/covid19-media-freedom-monitoring/
+
+perma.cc/E7MW-K6NP
+
+
+perma.cc/2M3H-7S43
+
+
+perma.cc/DFM6-B8ZB
 
 
 
@@ -1202,26 +1139,28 @@ Also, in March 2021, during  the protests that emerged when opposition figure Ou
 "Network data from the NetBlocks Internet Observatory confirm the disruption of social media and messaging apps in Senegal as of 5 March 2021. Metrics show that Facebook, YouTube, WhatsApp, and some Telegram servers were restricted on leading cellular network operator Orange/Sonatel as of early morning Friday. Affected services have subsequently been restored from 7:30 a.m. UTC," reads a statement by NetBlocks.'' (6) 
 
 *Sources*:
- https://www.bbc.com/afrique/region-52363470
-(1)
+ perma.cc/2T9P-M5N8
 
-https://theconversation.com/ce-que-les-senegalais-e-s-pensent-des-mesures-gouvernementales-contre-la-covid-19-146037
-(2)
 
-https://www.lemonde.fr/afrique/article/2020/03/24/coronavirus-etat-d-urgence-et-couvre-feu-en-vigueur-au-senegal_6034223_3212.html
-(3)
+perma.cc/V49E-JMJQ
 
-https://www.africanews.com/2021/03/24/senegalese-journalists-allege-increasing-intimidation-over-ousmane-sonko//
-(4)
 
-https://rsf.org/en/senegal
+perma.cc/Y5CM-RSM5
 
-(5)
 
-https://iafrikan.com/2021/03/08/senegal-social-media-and-internet-shutdown/
-(6)
+perma.cc/L6FT-89FV
 
-https://ipi.media/covid19-media-freedom-monitoring/
+
+perma.cc/AS2E-9QUV
+
+
+perma.cc/CYQ6-AMQW
+
+
+perma.cc/M75D-8RY9
+
+
+
 
 
 
@@ -1263,11 +1202,9 @@ https://ipi.media/covid19-media-freedom-monitoring/
  The only incident found was related to physical harassment. 
 
 *Sources*:
- https://rsf.org/en/senegal
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://twitter.com/RSF_fr/status/1243130431245037569?s=20
+ perma.cc/PXY5-XUWX
+perma.cc/E3RN-HL8F
+perma.cc/2U5M-4PJT
 
 
 
@@ -1310,13 +1247,16 @@ https://twitter.com/RSF_fr/status/1243130431245037569?s=20
 A media outlet was also attacked in August 2020 but not by the government or police forces. 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+ perma.cc/KX6E-9DU2
 
-https://twitter.com/RSF_fr/status/1243130431245037569?s=20
 
-https://rsf.org/en/senegal
+perma.cc/C73M-LC4A
 
-https://www.article19.org/resources/senegal-media-outlet-attacked/
+
+perma.cc/AUK5-T86G
+
+
+perma.cc/KQP7-FZQV
 
 
 
@@ -1364,12 +1304,19 @@ Professor Moussa Seydi, head of the infectious diseases department at Fann hospi
 “Currently, the analysis of our data collected from 838 patients. The results that we have obtained on the use of hydroxychloroquine and azithromycin have confirmed the efficiency of this combination,”'' (1) 
 
 *Sources*:
- https://africa.cgtn.com/2020/07/03/senegals-covid-19-cases-surpass-7000-mark/
-(1)
-https://www.africanews.com/2020/05/28/senegal-to-continue-treating-covid-19-patients-with-hydroxychloroquine//
-https://afrique.le360.ma/maroc-algerie-autres-pays/politique/2020/06/01/30726-covid-19-voici-pourquoi-les-pays-africains-ont-dit-non-loms-et-poursuivent-le
-http://www.xinhuanet.com/english/2020-06/07/c_139119593.htm
-https://enactafrica.org/enact-observer/how-covid-19-is-fuelling-the-trafficking-of-fake-chloroquine-in-senegal
+ perma.cc/J7US-TCA2
+
+
+perma.cc/C78Q-FZLJ
+
+
+perma.cc/7YDD-3QM9
+
+
+perma.cc/AZ9D-W7Q4
+
+
+perma.cc/8P4P-4SEZ
 
 
 
@@ -1416,25 +1363,15 @@ Police in Senegal have fired tear gas and rubber bullets at protesters demanding
 The state of emergency was lifted on 30 June 2020. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/senegal/
-(1)
-
-https://www.youtube.com/watch?v=ADf7lmJDu_0
-(2)
-
-https://www.france24.com/en/20200604-senegal-to-ease-virus-curfew-after-angry-protests
-
-https://www.news24.com/news24/africa/news/lockdown-senegal-arrests-74-people-over-violent-protests-against-coronavirus-curfew-20200604
-
-https://www.reuters.com/article/us-health-coronavirus-africa-police/in-parts-of-africa-police-are-accused-of-excess-force-amid-coronavirus-lockdowns-idUSKCN21S0M9
-
-https://www.france24.com/en/20200401-security-forces-use-violent-tactics-to-enforce-africa-s-coronavirus-shutdowns
-
-https://www.amnesty.org/en/get-involved/take-action/justice-pour-les-victimes-de-la-repression-violente-des-manifestations-au-senegal/
-
-https://www.dw.com/en/at-least-4-dead-in-senegal-protests/a-56782432
-
-https://www.africanews.com/2021/04/09/senegalese-government-announces-probe-into-unrest//
+ perma.cc/4WF7-ELKQ
+perma.cc/2S3Q-6UXH
+perma.cc/P5LH-UC4P
+perma.cc/ASG3-BFMB
+perma.cc/V997-FWKT
+perma.cc/4Q9X-YT3M
+https://web.archive.org/web/20210312170105/https://www.amnesty.org/en/get-involved/take-action/justice-pour-les-victimes-de-la-repression-violente-des-manifestations-au-senegal/
+perma.cc/3UNL-DLA7
+perma.cc/MHU2-KTRB
 
 
 
@@ -1477,8 +1414,10 @@ https://www.africanews.com/2021/04/09/senegalese-government-announces-probe-into
 ''Police and gendarmes are responsible for maintaining law and order. The army shares that responsibility in exceptional cases, such as during a state of emergency. Senegal was under a state of emergency from 23 March to 30 June 2020. The National Police are part of the Ministry of the Interior and operate in major cities. The Gendarmerie is part of the Ministry of Defense and primarily operates outside major cities. The army also reports to the Ministry of Defense. Civilian authorities generally maintained effective control over the security forces.'' 
 
 *Sources*:
- http://apanews.net/en/news/covid-19-senegal-declares-state-of-emergency/
+ perma.cc/Y86U-UZLA
 
-https://www.africanews.com/2020/03/24/senegal-ivory-coast-declare-state-of-emergency-to-curb-covid-19//
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/senegal/
+perma.cc/YTP5-U6X2
+
+
+perma.cc/YVH5-SW4Y

@@ -45,29 +45,17 @@
  The "Public Health Act of Uganda (Cap 281, 2000)", is the main instrument used to make the rules in "The Public Health (Control of COVID - 19) Rules, 2020" and various amendments to them throughout 2020 and 2021 [5]. A state of emergency has not been declared along the lines of Article 110 of Uganda's Constitution. While this Article does not include disease as a reason to declare a state of emergency, this official declaration of a state of emergency would regulate the executive's powers, define the timeline of the state of emergency, and provide parliamentary oversight. [1] There is other legislation that would have supported the declaration of a state of emergency, but it has not been invoked. "The 2011 National Disaster Preparedness Policy, lists pandemics as a disaster that merits government intervention. Section 2.1.8 of the policy anticipates pandemics like COVID-19." [4] There were calls in spring 2020 for the President to declare a State of Emergency by judges and legislators [6][8] but the executive declined to do so. [7]  "The decision not to declare a state of emergency has deprived the Parliament of its constitutional mandate to monitor or balance the Executive powers’ self-assigned ‘exceptional powers’ over the extent of restrictions to rights and freedoms over the past couple of months." [2] There was a nationwide lockdown for almost 3 months in Q2 2020. [9] On June 7, 2021, President Museveni introduced another partial lockdown for 42 days that includes restrictions on inter-district travel, school closures, and suspension of markets and churches. [10] Effective 18 June 2021, the country is under another nationwide lockdown for 42 days, with all private vehicles banned from roadways and schools, bars, restaurants closed; restrictions are also in place on funerals. [11] 
 
 *Sources*:
- [1]
-https://www.constituteproject.org/constitution/Uganda_2017?lang=en
-[2]
-https://www.asf.be/blog/2020/06/11/ugandas-de-facto-state-of-emergency-to-address-the-covid-19-pandemic/
-[3]
-https://perma.cc/E7ZP-68JW
-[4]
-https://www.independent.co.ug/covid-19-is-ugandas-lock-down-equivalent-to-state-of-emergency/
-[5]
-http://library.health.go.ug/sites/default/files/resources/Public%20Health%20Act.pdf
-[6]
-https://www.independent.co.ug/kadaga-katureebe-advised-museveni-to-declare-a-state-of-emergency/
-[7]
-https://www.independent.co.ug/2021-elections-govt-declines-to-declare-state-of-emergency/
-[8]
-https://www.parliament.go.ug/news/4590/mps-call-declaration-state-emergency
-[9]
-https://allafrica.com/stories/202105310324.html
-
-[10]
-https://www.reuters.com/world/africa/uganda-re-imposes-lockdown-beat-back-covid-19-case-surge-2021-06-06/
-[11]
-https://www.monitor.co.ug/uganda/news/national/uganda-goes-into-total-lockdown-as-covid-19-infections-rise-3442464
+ [1]	perma.cc/Z9ZJ-SXDW
+[2]	perma.cc/PKY9-G8B4
+[3]	perma.cc/E7ZP-68JW
+[4]	perma.cc/7LEF-FMRV
+[5]	perma.cc/B2BV-8HJM
+[6]	perma.cc/WGT8-ZY5T
+[7]	perma.cc/ZUR6-54AC
+[8]	perma.cc/4AE2-E5US
+[9]	perma.cc/JEV4-P3CB
+[10]	perma.cc/D2H5-6W5W
+[11]	perma.cc/2NEZ-5TQ3
 
 
 
@@ -106,12 +94,9 @@ https://www.monitor.co.ug/uganda/news/national/uganda-goes-into-total-lockdown-a
  Section 11 and 27 in the Public Health Act are the main instrument used to make the rules in the Public Health (Control of Covid-19) Rules, 2020; and the various amendments to thus throughout 2020 and 2021. 
 
 *Sources*:
- [1]
-http://library.health.go.ug/sites/default/files/resources/Public%20Health%20Act.pdf
-[2]
-https://perma.cc/E7ZP-68JW
-[3]
-https://www.constituteproject.org/constitution/Uganda_2017?lang=en
+ [1]	perma.cc/2R29-EZQG
+[2]	perma.cc/E7ZP-68JW
+[3]	perma.cc/V84P-NW4W
 
 
 
@@ -150,20 +135,12 @@ https://www.constituteproject.org/constitution/Uganda_2017?lang=en
  "On March 18, President Museveni suspended public gatherings, closed schools and worship centres, pubs and cultural meetings for 32 days." [3] "On March 30, a curfew was imposed and a total lockdown declared for 14 days." [3]  "The Minister of Health later formalized them into a number of Rules and Orders,[3] as foreseen in Section 29 of the Public Health Act CAP. 281, which provides the Minister of Health with wide powers to manage and prevent the propagation of pandemics." [1] On 07 June 2021, Museveni announced another partial lockdown. [6] 
 
 *Sources*:
- [1]
-https://www.asf.be/blog/2020/06/11/ugandas-de-facto-state-of-emergency-to-address-the-covid-19-pandemic/
-[2]
-https://thinkwell.global/wp-content/uploads/2020/09/Uganda-COVID-19-Case-Study-_18-Sept-20201.pdf
-[3]
-https://www.theeastafrican.co.ke/tea/news/east-africa/covid-19-uganda-plans-phased-lifting-of-countrywide-lockdown-1440564
-[4]
-https://www.reuters.com/article/health-coronavirus-uganda-idUSL5N2C24SS
-[5]
-https://www.independent.co.ug/uganda-confirms-first-covid-19-case/
-
-[6]
-https://www.reuters.com/world/africa/uganda-re-imposes-lockdown-beat-back-covid-19-case-surge-2021-06-06/
-
+ [1]	perma.cc/QY6B-3RN5
+[2]	perma.cc/BN7Y-G898
+[3]	perma.cc/KY8V-SNZE
+[4]	perma.cc/S9U3-SH6F
+[5]	perma.cc/7EXE-RCY4
+[6]	perma.cc/6RWQ-ZQXE
 
 
 
@@ -202,16 +179,11 @@ https://www.reuters.com/world/africa/uganda-re-imposes-lockdown-beat-back-covid-
  Sections 11 and 27 in the "Public Health Act 1935" do not mention an time limit or sunset clause. Section 14 in the "Public Health (Control of COVID-19) Rules, 2020" states that "These Rules shall expire on notification by the Minister." The Public Health Act section 11 and 27 are still active and, according to the Uganda Legal Information Institute, the Public Health Rules 2020 are still in force. A state of emergency has a 90-day limit but the state of emergency has not been declared. 
 
 *Sources*:
- [1]
-https://www.asf.be/blog/2020/06/11/ugandas-de-facto-state-of-emergency-to-address-the-covid-19-pandemic/#_ftn3
-[2]
-https://perma.cc/E7ZP-68JW
-[3]
-https://www.constituteproject.org/constitution/Uganda_2017?lang=en
-[4]
-http://library.health.go.ug/sites/default/files/resources/Public%20Health%20Act.pdf
-[5]
-https://thinkwell.global/wp-content/uploads/2020/09/Uganda-COVID-19-Case-Study-_18-Sept-20201.pdf
+ [1]	perma.cc/3VM9-TH9K
+[2]	perma.cc/E7ZP-68JW
+[3]	perma.cc/DQ78-LBFB
+[4]	perma.cc/V3P3-F2S7
+[5]	perma.cc/S4C6-JEUG
 
 
 
@@ -253,16 +225,11 @@ https://thinkwell.global/wp-content/uploads/2020/09/Uganda-COVID-19-Case-Study-_
  While some of the most extreme measures have had a time limit, not all of them do. Sections 11 and 27 in the "Public Health Act 1935" do not mention an time limit or sunset clause. Section 14 in the "Public Health (Control of COVID-19) Rules, 2020" states that "These Rules shall expire on notification by the Minister." The Public Health Act section 11 and 27 are still active and, according to the Uganda Legal Information Institute, the Public Health Rules 2020 are still in force. A state of emergency has a 90-day limit but the state of emergency has not been declared. 
 
 *Sources*:
- [1]
-https://www.asf.be/blog/2020/06/11/ugandas-de-facto-state-of-emergency-to-address-the-covid-19-pandemic/#_ftn3
-[2]
-https://perma.cc/E7ZP-68JW
-[3]
-https://www.constituteproject.org/constitution/Uganda_2017?lang=en
-[4]
-http://library.health.go.ug/sites/default/files/resources/Public%20Health%20Act.pdf
-[5]
-https://thinkwell.global/wp-content/uploads/2020/09/Uganda-COVID-19-Case-Study-_18-Sept-20201.pdf
+ [1]	perma.cc/JM3G-FZLU
+[2]	perma.cc/E7ZP-68JW
+[3]	perma.cc/V84P-NW4W
+[4]	perma.cc/2R29-EZQG
+[5]	perma.cc/KH96-ZCW8
 
 
 
@@ -343,12 +310,9 @@ https://thinkwell.global/wp-content/uploads/2020/09/Uganda-COVID-19-Case-Study-_
  The Public Health Act does not require parliamentary approval of emergency measures related to disease or infection. A state of emergency does require parliamentary oversight but a state of emergency has not been declared. 
 
 *Sources*:
- [1]
-http://library.health.go.ug/sites/default/files/resources/Public%20Health%20Act.pdf
-[2]
-https://perma.cc/E7ZP-68JW
-[3]
-https://www.constituteproject.org/constitution/Uganda_2017?lang=en
+ [1]	perma.cc/5SN8-HN2T
+[2]	perma.cc/E7ZP-68JW
+[3]	perma.cc/6NNX-C6ZD
 
 
 
@@ -390,12 +354,9 @@ https://www.constituteproject.org/constitution/Uganda_2017?lang=en
  The Public Health Act does not require parliamentary approval of emergency measures related to disease or infection. A state of emergency does require parliamentary oversight but a state of emergency has not been declared. 
 
 *Sources*:
- [1]
-http://library.health.go.ug/sites/default/files/resources/Public%20Health%20Act.pdf
-[2]
-https://perma.cc/E7ZP-68JW
-[3]
-https://www.constituteproject.org/constitution/Uganda_2017?lang=en
+ [1]	perma.cc/5SN8-HN2T
+[2]	perma.cc/E7ZP-68JW
+[3]	perma.cc/6NNX-C6ZD
 
 
 
@@ -441,22 +402,15 @@ https://www.constituteproject.org/constitution/Uganda_2017?lang=en
  The health minister is allowed to set up rules to combat covid-19. Breaking these rules is an offence. The parliament operated with limited staff during the lockdown in 2020. By not declaring a state of emergency the oversight role of the parliament is restricted and the executive rules by decree, although it seems to have been limited to pandemic response. 
 
 *Sources*:
- [1]
-https://www.parliament.go.ug/news/4599/speaker-issues-new-guidelines-parliament
-[2]
-https://www.constituteproject.org/constitution/Uganda_2017?lang=en
-[3]
-https://perma.cc/E7ZP-68JW
-[4]
-https://www.parliament.go.ug/news/4577/parliament-restricts-access-non-critical-staff-work-home
-[5]
-http://library.health.go.ug/sites/default/files/resources/Public%20Health%20Act.pdf
-[6]
-https://www.asf.be/blog/2020/06/11/ugandas-de-facto-state-of-emergency-to-address-the-covid-19-pandemic/#_ftn3
-[7]
-https://thinkwell.global/wp-content/uploads/2020/09/Uganda-COVID-19-Case-Study-_18-Sept-20201.pdf
-[8]
-https://www.independent.co.ug/covid-19-is-ugandas-lock-down-equivalent-to-state-of-emergency/
+ [1]	perma.cc/Z5GV-3SKQ
+[2]	perma.cc/N7KE-GMG2
+[3]	perma.cc/E7ZP-68JW
+[4]	perma.cc/5CC7-CXHH
+[5]	perma.cc/C9DF-ENFL
+[6]	perma.cc/UL9V-T4PH
+[7]	perma.cc/GJ66-HSYH
+[8]	perma.cc/SJ2L-XWFE
+
 
 
 
@@ -579,18 +533,12 @@ https://www.independent.co.ug/covid-19-is-ugandas-lock-down-equivalent-to-state-
 No hint of subnational variation for July-December 2020. No evidence found for subnational variation Q1 and Q2 2021. 
 
 *Sources*:
- [1]
-https://www.asf.be/blog/2020/06/11/ugandas-de-facto-state-of-emergency-to-address-the-covid-19-pandemic/#_ftn3
-[2]
-https://www.health.go.ug/covid/wp-content/uploads/2020/03/Covid-19-1.png
-[3]
-https://ug.usembassy.gov/health%e2%80%afalert-u-s-embassy-kampala-june-26-2020/
-[4]
-https://www.garda.com/crisis24/news-alerts/459721/uganda-authorities-maintain-covid-19-related-restrictions-as-of-march-24-update-14
-[5]
-https://ug.usembassy.gov/health-alert-u-s-embassy-kampala-may-3-2021/
-[6]
-http://www.xinhuanet.com/english/africa/2021-05/01/c_139919129.htm
+ [1]	perma.cc/Y6R8-TPJM
+[2]	perma.cc/E42Z-ZMEV
+[3]	perma.cc/HU7Y-NMEZ
+[4]	perma.cc/3MGR-CWYT
+[5]	perma.cc/5SF9-HMZG
+[6]	perma.cc/N42N-37XZ
 
 
 
@@ -634,21 +582,11 @@ http://www.xinhuanet.com/english/africa/2021-05/01/c_139919129.htm
  In 2020, the Bureau of Investigative Journalism reported more than 100 cases of discrimination in the enforcement of Covid-19 protocols that targeted LGBTI communities in Uganda [1]. In March 2020, the police raided a shelter for LGBTI persons, arresting and detaining them without access to representation or due process. In May 2020, all charges were dropped and the individuals were released after filing a law suit. Later, they filed suit against the prison and mayor claiming to have experienced torture and inhuman treatment while in custody. According to the U.S. Department of State Human Rights Report for 2020, on July 19 2020, local government authorities in Kyenjojo Town disrupted a meeting of LGBTI persons claiming that it violated Covid-19 rules [2]. We further evidence of such discrimination ongoing in 2021, including the arrest of 44 LGBT people in June 2021 for unlawful gathering, supposedly under the Covid-19 restrictions. The arrests included forced anal examinations, and police leaked video footage, outing these individuals. [5] There is a history of outed LGBT persons being violently attacked in Uganda, including the 2011 murder of David Kato. 
 
 *Sources*:
- [1]
-https://www.scidev.net/global/features/covid-19-controls-used-to-arrest-torture-hiv-sufferers/
-
-[2]
-https://www.state.gov/wp-content/uploads/2021/03/UGANDA-2020-HUMAN-RIGHTS-REPORT.pdf
-
-
-[3]
-https://harvardhrj.com/2021/05/covid-19-emergency-powers-as-a-weapon-for-targeting-lgbtiq-people-in-uganda/
-
-[4]
-https://www.ohchr.org/en/NewsEvents/Pages/DisplayNews.aspx?NewsID=25832&LangID=E
-
-[5]
-https://observers.france24.com/en/africa/20210610-police-arrest-and-out-dozens-at-lgbt-engagement-party-uganda
+ [1]	perma.cc/SL7S-G2X2
+[2]	perma.cc/3YTP-UGSC
+[3]	perma.cc/5N22-NVA6
+[4]	perma.cc/T73H-F8UP
+[5]	perma.cc/24NA-YU78
 
 
 
@@ -697,17 +635,11 @@ https://observers.france24.com/en/africa/20210610-police-arrest-and-out-dozens-a
  No evidence was found that any of the emergency measures de-jure violated non-derogable rights as defined by the ICCPR. 
 
 *Sources*:
- [1]
-https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-[2]
-https://www.amnesty.org/en/countries/africa/uganda/
-[3]
-https://www.hrw.org/africa/uganda
-[4]
-https://crd.org/uganda-en/
-[5]
-https://www.bbc.co.uk/news/topics/cmj34zmwme4t/uganda
-
+ [1]	perma.cc/2DJY-YXQP
+[2]	perma.cc/8KDA-4TZP
+[3]	perma.cc/L3RT-VUJ4
+[4]	perma.cc/4YAX-ERX4
+[5]	perma.cc/48LR-Q46W
 
 
 
@@ -751,22 +683,9 @@ https://www.bbc.co.uk/news/topics/cmj34zmwme4t/uganda
  The statutory instruments published by the government of Uganda do not mention any restrictions on media reporting de jure. In March-April 2020, restrictions on motor vehicles exempted telecommunication services including the media [2]. 
 
 *Sources*:
- [1]
-https://covid19.gou.go.ug/uploads/document_repository/authors/dr._jane_ruth_aceng,_minister_of_health/Statutory_instrument_-_The_Public_Health_(Control_of_COVID_19)_Rules_2020.pdf
-
-[2]
-http://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110090/136775/F1854815533/UGA110090.pdf
-
-[3]
-Additional
-notices
-of
-regulations
-can
-be
-found
-here:
-https://gazettes.africa/gazettes/ug
+ [1]	perma.cc/8UAM-RAZV
+[2]	perma.cc/9YP5-MZN9
+[3]	perma.cc/Y8FD-JDAC
 
 
 
@@ -886,18 +805,10 @@ https://gazettes.africa/gazettes/ug
  Uganda has a vibrant independent press that regularly publishes stories critical of the government. However, media houses are often subject to government restrictions and surveillance. Journalists who criticize the government are routinely harassed [1,2,3]. The restrictions on media freedom typically center on red-line issues that threaten the government and negative reporting about officials, particularly the president and his family. There is no evidence, however, that the Covid-19 protocols or the overall media landscape limited media reporting about the facts concerning Covid-19 itself, such as how it is transmitted, prevented, or treated. 
 
 *Sources*:
- [1]
-https://www.state.gov/wp-content/uploads/2021/03/UGANDA-2020-HUMAN-RIGHTS-REPORT.pdf
-
-[2]
-https://freedomhouse.org/country/uganda/freedom-world/2021
-
-[3]
-https://ijoc.org/index.php/ijoc/article/viewFile/11456/2948
-
-
-[4]
-https://rsf.org/en/uganda
+ [1]	perma.cc/8ACU-PH9X
+[2]	perma.cc/NRY3-QS8W
+[3]	perma.cc/TAQ4-JUSN
+[4]	perma.cc/82DN-YHPK
 
 
 
@@ -939,18 +850,10 @@ https://rsf.org/en/uganda
  Throughout 2020 and 2021, there are numerous reports of security officials using Covid-19 protocols to block access, intimidate, and harass journalists reporting on government responses. At least a dozen journalists were arrested in Q2 2020 alone, under the auspices of the Covid-19 restrictions. In April 2020, the police arrested a journalist from Freedom Radio and questioned him about his reporting on the government's response [2]. 
 
 *Sources*:
- [1]
-https://www.state.gov/wp-content/uploads/2021/03/UGANDA-2020-HUMAN-RIGHTS-REPORT.pdf
-
-[2]
-https://freedomhouse.org/country/uganda/freedom-world/2021
-
-[3]
-https://ijoc.org/index.php/ijoc/article/viewFile/11456/2948
-
-
-[4]
-https://rsf.org/en/uganda
+ [1]	perma.cc/8ACU-PH9X
+[2]	perma.cc/NRY3-QS8W
+[3]	perma.cc/TAQ4-JUSN
+[4]	perma.cc/82DN-YHPK
 
 
 
@@ -992,21 +895,11 @@ https://rsf.org/en/uganda
  Throughout 2020 and 2021, the Ugandan government has routinely used Covid-19 protocols to limit media reporting on a wider range of issues, particularly at the start of the pandemic in March-May 2021 and during the election campaign in late 2020 and early 2021 [1,2,3,4]. Security forces have harassed, intimidated, and arrested journalists, despite their movement being exempted from Covid-19 restrictions [5]. 
 
 *Sources*:
- [1]
-https://www.state.gov/wp-content/uploads/2021/03/UGANDA-2020-HUMAN-RIGHTS-REPORT.pdf
-
-[2]
-https://freedomhouse.org/country/uganda/freedom-world/2021
-
-[3]
-https://ijoc.org/index.php/ijoc/article/viewFile/11456/2948
-
-
-[4]
-https://rsf.org/en/uganda
-
-[5]
-http://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110090/136775/F1854815533/UGA110090.pdf
+ [1]	perma.cc/8ACU-PH9X
+[2]	perma.cc/NRY3-QS8W
+[3]	perma.cc/TAQ4-JUSN
+[4]	perma.cc/82DN-YHPK
+[5]	perma.cc/2ACL-YVB5
 
 
 
@@ -1049,34 +942,15 @@ http://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110090/136775/F1854815533/UGA11009
  Throughout 2020 and 2021, security forces harassed and assaulted journalists while enforcing Covid-19 protocols [1,2,3,4], despite the press being exempt from many of these measures as essential workers [5]. This limited their access to information. In addition, actions taken by the Uganda Communications Commission requiring online media outlets to obtain authorization [6] and traditional and foreign press to re-register in late 2020 [7] meant that many agencies were unable or fearful of operating until such registration was completed. Others may have shut down completely. During elections in January 2021, the government shut off internet access for several days [8], limiting access to information further. Restrictions on access to social media continued for some time after the internet was restored [9]. 
 
 *Sources*:
- [1]
-https://www.state.gov/wp-content/uploads/2021/03/UGANDA-2020-HUMAN-RIGHTS-REPORT.pdf
-
-[2]
-https://freedomhouse.org/country/uganda/freedom-world/2021
-
-[3]
-https://ijoc.org/index.php/ijoc/article/viewFile/11456/2948
-
-
-[4]
-https://rsf.org/en/uganda
-
-[5]
-http://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110090/136775/F1854815533/UGA110090.pdf
-
-
-[6]
-https://www.washingtonpost.com/world/africa/uganda-seeks-to-register-online-bloggers-ahead-of-election/2020/09/08/cff9b38a-f1bf-11ea-8025-5d3489768ac8_story.html
-
-[7]
-https://www.rfi.fr/en/africa/20201210-uganda-journalists-targeted-as-government-revokes-foreign-press-passes-before-elections
-
-[8]
-https://www.reuters.com/article/us-uganda-internet-rights-trfn/100-hours-in-the-dark-how-an-election-internet-blackout-hit-poor-ugandans-idUSKBN29P1V8
-
-[9]
-https://www.bbc.com/news/world-africa-55705404
+ [1]	perma.cc/JFD7-MLS3
+[2]	perma.cc/8PQQ-9UKZ
+[3]	perma.cc/8JSU-FC4T
+[4]	perma.cc/6WZY-TVQR
+[5]	perma.cc/GKC6-5HPR
+[6]	perma.cc/8T43-87XU
+[7]	perma.cc/3NT4-PPEA
+[8]	perma.cc/DGB8-PWLR
+[9]	perma.cc/7YL2-5DA9
 
 
 
@@ -1118,33 +992,15 @@ https://www.bbc.com/news/world-africa-55705404
  Throughout 2020 and 2021, security forces harassed and assaulted journalists while enforcing Covid-19 protocols [1,2,3,4], despite the press being exempt from many of these measures as essential workers [5]. At least 12 cases of assault was reported between just March 19 (beginning of lockdown) and April 24, 2020. Journalists have been beaten, slapped, punched, kicked, and had their camera taken and forced to delete pictures, when reporting on police enforcing lockdown measures [5,6,7,8]. Harassment of journalists before and after national elections in January 2021 supposedly for pandemic response has been widespread [9]. There is no sign of improvement. 
 
 *Sources*:
- [1]
-https://www.state.gov/wp-content/uploads/2021/03/UGANDA-2020-HUMAN-RIGHTS-REPORT.pdf
-
-[2]
-https://freedomhouse.org/country/uganda/freedom-world/2021
-
-[3]
-https://ijoc.org/index.php/ijoc/article/viewFile/11456/2948
-
-
-[4]
-https://rsf.org/en/uganda
-
-[5]
-https://monitor.civicus.org/updates/2020/05/12/dissidents-prosecuted-and-journalists-harassed-while-covering-covid-19-restrictions/
-
-[6]
-https://cpj.org/2020/04/ugandan-security-personnel-enforcing-covid-19-meas/
-
-[7]
-https://www.dw.com/en/ugandan-journalists-assaulted-by-security-forces-amid-coronavirus-lockdowns/a-53235644
-
-[8]
-https://www.hrnjuganda.org/urgent-call-for-safety-of-journalists-covering-the-campaign-to-curb-covid-19-in-uganda/
-
-[9]
-https://cpj.org/2021/02/ugandan-security-personnel-harass-journalists-shut-down-radio-station-during-elections/
+ [1]	perma.cc/8ACU-PH9X
+[2]	perma.cc/NRY3-QS8W
+[3]	perma.cc/TAQ4-JUSN
+[4]	perma.cc/82DN-YHPK
+[5]	perma.cc/39RG-GVN8
+[6]	perma.cc/X7JC-6EBA
+[7]	perma.cc/4UFM-BMGA
+[8]	perma.cc/EEL2-K4T2
+[9]	perma.cc/S8E9-8FL2
 
 
 
@@ -1186,33 +1042,15 @@ https://cpj.org/2021/02/ugandan-security-personnel-harass-journalists-shut-down-
  Throughout 2020 and 2021, security forces harassed and assaulted journalists while enforcing Covid-19 protocols [1,2,3,4], despite the press being exempt from many of these measures as essential workers [5]. At least 12 cases of assault was reported between just March 19 (beginning of lockdown) and April 24, 2020. Journalists have been beaten, slapped, punched, kicked, and had their camera taken and forced to delete pictures, when reporting on police enforcing lockdown measures [5,6,7,8]. Harassment of journalists before and after national elections in January 2021 supposedly for pandemic response has been widespread [9]. There is no sign of improvement. 
 
 *Sources*:
- [1]
-https://www.state.gov/wp-content/uploads/2021/03/UGANDA-2020-HUMAN-RIGHTS-REPORT.pdf
-
-[2]
-https://freedomhouse.org/country/uganda/freedom-world/2021
-
-[3]
-https://ijoc.org/index.php/ijoc/article/viewFile/11456/2948
-
-
-[4]
-https://rsf.org/en/uganda
-
-[5]
-https://monitor.civicus.org/updates/2020/05/12/dissidents-prosecuted-and-journalists-harassed-while-covering-covid-19-restrictions/
-
-[6]
-https://cpj.org/2020/04/ugandan-security-personnel-enforcing-covid-19-meas/
-
-[7]
-https://www.dw.com/en/ugandan-journalists-assaulted-by-security-forces-amid-coronavirus-lockdowns/a-53235644
-
-[8]
-https://www.hrnjuganda.org/urgent-call-for-safety-of-journalists-covering-the-campaign-to-curb-covid-19-in-uganda/
-
-[9]
-https://cpj.org/2021/02/ugandan-security-personnel-harass-journalists-shut-down-radio-station-during-elections/
+ [1]	perma.cc/JFD7-MLS3
+[2]	perma.cc/8PQQ-9UKZ
+[3]	perma.cc/8JSU-FC4T
+[4]	perma.cc/6WZY-TVQR
+[5]	perma.cc/F3UV-86GC
+[6]	perma.cc/JY5P-UDV7
+[7]	perma.cc/V8SQ-KLPV
+[8]	perma.cc/G3ZV-ZFH7
+[9]	perma.cc/HK2U-ZKA2
 
 
 
@@ -1256,27 +1094,13 @@ https://cpj.org/2021/02/ugandan-security-personnel-harass-journalists-shut-down-
  In April the Ugandan government touted hydroxychloroquine as a Covid-19 cure. The World Health Organization decided to discontinue trials with hydroxychloroquine on June 17 and Uganda stopped using it in July, a month after the WHO stopped its trials. Uganda's health ministry has fact sheets on its websites from the WHO and the information it presents is consistent with the WHO. 
 
 *Sources*:
- [1]
-https://www.wsws.org/en/articles/2020/04/15/ugan-a15.html
-
-[2]
-https://www.newvision.co.ug/news/1523847/hydroxychloroquine-removed-covid-19-treatment-experts
-[3]
-https://www.independent.co.ug/uganda-halts-use-of-hdyroxychloroquine-for-covid-19-treatment/
-
-[4]
-https://www.reuters.com/article/uk-factcheck-uganda-idUSKBN26L2KW
-
-[5]
-https://www.independent.co.ug/uganda-using-hydroxychloroquine-to-treat-covid-19-patients/
-[6]
-https://www.newvision.co.ug/news/1523847/hydroxychloroquine-removed-covid-19-treatment-experts
-[7]
-https://www.independent.co.ug/uganda-halts-use-of-hdyroxychloroquine-for-covid-19-treatment/
-[8]
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
-[9]
-https://www.health.go.ug/covid/
+ [1]	perma.cc/P5WP-XM97
+[2]	perma.cc/957A-5NJ7
+[3]	perma.cc/EZT9-9MB7
+[4]	perma.cc/9VPV-8NEY
+[5]	perma.cc/P5BW-9NXG
+[6]	perma.cc/D9CC-6K6P
+[7]	perma.cc/MCD5-E2UJ
 
 
 
@@ -1320,33 +1144,18 @@ https://www.health.go.ug/covid/
  There are many reports of violence by security forces enforcing the emergency restrictions, sometimes with deadly outcomes. 
 
 *Sources*:
- [1]
-https://www.bbc.com/news/world-africa-53450850
-[2]
-https://www.rfi.fr/en/africa/20200806-ugandan-police-vet-presidential-debates-deter-crowds-media-bobi-wine-museveni-2021-election
-[3]
-https://www.monitor.co.ug/News/National/Two-shot-Mukono-defying-presidential-directives/688334-5505644-aro68b/index.html
-[4]
-https://thetowerpost.com/2020/03/30/officer-arrested-for-opening-fire-while-dispersing-bar-goers/
-[5]
-https://www.hrw.org/news/2020/04/02/uganda-respect-rights-covid-19-response
-[6]
-https://www.hrw.org/news/2020/04/03/uganda-lgbt-shelter-residents-arrested-covid-19-pretext
-[7]
-https://www.monitor.co.ug/News/National/Elegu-locals-accuse-forces-brutality/688334-5516804-icokkaz/index.html
-[8]
-https://theconversation.com/ugandas-army-and-violence-how-covid-19-is-offering-hints-of-change-138331
-[9]
-https://www.independent.co.ug/ugandan-security-teams-have-killed-six-people-in-covid-19-operations/
-[10]
-https://rsf.org/en/news/uganda-crackdown-reporters-threatens-ugandan-elections-credibility
-[11]
-https://cpj.org/2021/02/ugandan-soldiers-assault-journalists-at-bobi-wine-event-face-opaque-military-trial/
-[12]
-https://cpj.org/2021/02/ugandan-soldiers-assault-journalists-at-bobi-wine-event-face-opaque-military-trial/
-
-[13]
-https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10532-2
+ [1]	perma.cc/7YXB-JAJG
+[2]	perma.cc/R76V-NRLY
+[3]	perma.cc/N9G5-3LQP
+[4]	perma.cc/WG26-N9QD
+[5]	perma.cc/3R2B-2CYR
+[6]	perma.cc/5TSD-YYQK
+[7]	perma.cc/7VVC-FWWW
+[8]	perma.cc/JP7N-NYHR
+[9]	perma.cc/VW49-F2KZ
+[10]	perma.cc/9GPB-2TVD
+[11]	perma.cc/5546-F658
+[12]	perma.cc/7MRX-UKWY
 
 
 
@@ -1388,11 +1197,7 @@ https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10532-2
  Uganda's inter-agency COVID-19 taskforce is led by the army (UPDF) and its Covid-19 protocols are enforced by the UPDF and police forces. 
 
 *Sources*:
- [1]
-https://nilepost.co.ug/2020/11/20/army-to-increase-presence-in-kampala-more-strict-on-curfew/
-[2]
-https://theconversation.com/ugandas-army-and-violence-how-covid-19-is-offering-hints-of-change-138331
-[3]
-https://www.irishtimes.com/news/world/africa/no-beating-on-patrol-with-the-ugandan-military-enforcing-curfew-1.4227963
-[4]
-https://www.upf.go.ug/inter-agency-task-force-formed-to-combat-covid-19/
+ [1]	perma.cc/G5DN-RXMF
+[2]	perma.cc/WWJ3-4ECB
+[3]	perma.cc/H5FS-APWM
+[4]	perma.cc/L2QA-K6VS

@@ -45,12 +45,9 @@
  No reference to a legal instrument was found regarding the national response to the Covid-19 pandemic. 
 
 *Sources*:
- [1]
-https://dlp.dubai.gov.ae/en/Pages/LegislationSearch.aspx
-[2]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/government-efforts-to-contain-covid-19
-[3]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak
+ [1]	perma.cc/NLQ7-V4C6
+[2]	perma.cc/VDT7-AZJA
+[3]	perma.cc/3NBH-PBX8
 
 
 
@@ -378,14 +375,10 @@ https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the
  Parliamentary committees have moved to 100 per cent remote working. Nothing seems to suggest that they are limited in their work by other means, or that the exectutive has any extra power as a result of the emergency measures. 
 
 *Sources*:
- [1]
-https://dlp.dubai.gov.ae/en/Pages/LegislationSearch.aspx
-[2]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/government-efforts-to-contain-covid-19
-[3]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak
-[4]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#U
+ [1]	perma.cc/9Q76-SNVT
+[2]	perma.cc/XR3Z-7YQQ
+[3]	perma.cc/89LH-3WYN
+[4]	perma.cc/RH2A-Q4GZ
 
 
 
@@ -508,24 +501,13 @@ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#U
  The area lockdowns were lifted in April 2020. 
 
 *Sources*:
- [1]
-https://www.worldaware.com/covid-19-alert-dubai-uae-lifts-full-lockdown-al-ras-naif-districts-april-27
-[2]
-https://www.reuters.com/article/us-health-coronavirus-emirates/dubai-lifts-lockdown-on-two-densely-populated-commercial-districts-idUSKCN2280QZ
-
-
-[3]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/government-efforts-to-contain-covid-19
-[4]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak
-[5]
-https://www.washingtonpost.com/world/middle_east/coronavirus-united-arab-emirates-dubai-abu-dhabi/2020/07/12/23fbfef2-bf89-11ea-8908-68a2b9eae9e0_story.html
-[6]
-https://www.reuters.com/article/idUSKCN26F1IX
-[7]
-https://www.shrm.org/resourcesandtools/hr-topics/global-hr/pages/covid-19-measures-dubai-abu-dhabi.aspx
-[8]
-https://www.worldaware.com/covid-19-alert-dubai-uae-lifts-full-lockdown-al-ras-naif-districts-april-27
+ [1]	perma.cc/M4PQ-9TQM
+[2]	perma.cc/QC8X-VW7D
+[3]	perma.cc/9AJE-Y54M
+[4]	perma.cc/B46A-6AZM
+[5]	perma.cc/GQT2-YREW
+[6]	perma.cc/9CVF-HS5L
+[7]	perma.cc/MHN5-LVRV
 
 
 
@@ -569,16 +551,11 @@ https://www.worldaware.com/covid-19-alert-dubai-uae-lifts-full-lockdown-al-ras-n
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- [1]
-https://dlp.dubai.gov.ae/en/Pages/LegislationSearch.aspx
-[2]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/government-efforts-to-contain-covid-19
-[3]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak
-[4]
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/united-arab-emirates/
-[5]
-https://www.hrw.org/middle-east/n-africa/united-arab-emirates
+ [1]	perma.cc/NLQ7-V4C6
+[2]	perma.cc/VDT7-AZJA
+[3]	perma.cc/3NBH-PBX8
+[4]	perma.cc/9HYX-6DK4
+[5]	perma.cc/6KCV-UZPK
 
 
 
@@ -627,18 +604,12 @@ https://www.hrw.org/middle-east/n-africa/united-arab-emirates
  The emergency measures have not de-jure violated non-derogable rights as defined by the ICCPR. Although certain parts of the population such as prison inmates and migrant workers, are suffering more from the pandemic, this is not as a result of the emergency measures (but perhaps a result of lack of certain measures to protect vulnerable groups), and is therefore not included in this score. 
 
 *Sources*:
- [1]
-https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-[2]
-https://dlp.dubai.gov.ae/en/Pages/LegislationSearch.aspx
-[3]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/government-efforts-to-contain-covid-19
-[4]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak
-[5]
-https://www.hrw.org/news/2020/06/10/uae-reported-covid-19-prison-outbreaks
-[6]
-https://www.amnesty.org/en/latest/research/2020/04/gulf-concerns-regarding-migrant-workers-rights-during-covid19-pandemic/
+ [1]	perma.cc/X6XE-2YTS
+[2]	perma.cc/6EJG-4ZKD
+[3]	perma.cc/NVW2-J7BC
+[4]	perma.cc/9TMW-ADU3
+[5]	perma.cc/FQ6X-NYGD
+[6]	perma.cc/2CLY-MUF2
 
 
 
@@ -682,18 +653,12 @@ https://www.amnesty.org/en/latest/research/2020/04/gulf-concerns-regarding-migra
  "It is forbidden for any individual to publish, re-publish or circulate medical information or guidance which is false, misleading or which hasn't been announced officially ... using print, audiovisual or social media, or online websites or any other way of publication or circulation". The order is strictly limiting the information someone is allowed to publish as it has to be previously announced by the government. It is not clarified whether journalist are excluded of this order. 
 
 *Sources*:
- [1]
-https://theconversation.com/gulf-states-use-coronavirus-threat-to-tighten-authoritarian-controls-and-surveillance-136631
-[2]
-https://gulfnews.com/uae/crime/jail-awaits-those-who-spread-rumours-about-coronavirus-in-uae-1.70422491
-[3]
-https://www.occrp.org/en/coronavirus/arab-reporters-during-COVID-19-lockdown-life-on-the-edge
-[4]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/government-efforts-to-contain-covid-19
-[5]
-https://www.aljazeera.com/news/2020/04/uae-announces-5500-fine-coronavirus-fake-news-200418153715552.html
-[6]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak
+ [1]	perma.cc/H9GH-MEEJ
+[2]	perma.cc/MVV7-3UFH
+[3]	perma.cc/6FHQ-QFQY
+[4]	perma.cc/8K37-9HN2
+[5]	perma.cc/S684-J32U
+[6]	perma.cc/9EFJ-SQ9N
 
 
 
@@ -732,18 +697,12 @@ https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the
  The Council of Ministers adopts a decision regarding the publication and exchange of health information related to communicable diseases and epidemics on 18 April. 
 
 *Sources*:
- [1]
-https://theconversation.com/gulf-states-use-coronavirus-threat-to-tighten-authoritarian-controls-and-surveillance-136631
-[2]
-https://gulfnews.com/uae/crime/jail-awaits-those-who-spread-rumours-about-coronavirus-in-uae-1.70422491
-[3]
-https://www.occrp.org/en/coronavirus/arab-reporters-during-COVID-19-lockdown-life-on-the-edge
-[4]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/government-efforts-to-contain-covid-19
-[5]
-https://www.aljazeera.com/news/2020/04/uae-announces-5500-fine-coronavirus-fake-news-200418153715552.html
-[6]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak
+ [1]	perma.cc/H9GH-MEEJ
+[2]	perma.cc/MVV7-3UFH
+[3]	perma.cc/6FHQ-QFQY
+[4]	perma.cc/8K37-9HN2
+[5]	perma.cc/S684-J32U
+[6]	perma.cc/9EFJ-SQ9N
 
 
 
@@ -782,18 +741,12 @@ https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the
  Left blank as there is no defined end date. 
 
 *Sources*:
- [1]
-https://theconversation.com/gulf-states-use-coronavirus-threat-to-tighten-authoritarian-controls-and-surveillance-136631
-[2]
-https://gulfnews.com/uae/crime/jail-awaits-those-who-spread-rumours-about-coronavirus-in-uae-1.70422491
-[3]
-https://www.occrp.org/en/coronavirus/arab-reporters-during-COVID-19-lockdown-life-on-the-edge
-[4]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/government-efforts-to-contain-covid-19
-[5]
-https://www.aljazeera.com/news/2020/04/uae-announces-5500-fine-coronavirus-fake-news-200418153715552.html
-[6]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak
+ [1]	perma.cc/H9GH-MEEJ
+[2]	perma.cc/MVV7-3UFH
+[3]	perma.cc/6FHQ-QFQY
+[4]	perma.cc/8K37-9HN2
+[5]	perma.cc/S684-J32U
+[6]	perma.cc/9EFJ-SQ9N
 
 
 
@@ -835,22 +788,14 @@ https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the
  Through the Publication and Publishing Act of 1980, the government regulates the media and does not allow criticism of the government. 
 
 *Sources*:
- [1]
-https://freedomhouse.org/country/united-arab-emirates/freedom-world/2020
-[2]
-https://www.ilo.org/dyn/natlex/docs/WEBTEXT/62110/65257/E80ARE01.htm#c8
-[3]
-https://ipi.media/united-arab-emirates/
-[4]
-https://cpj.org/mideast/uae/
-[5]
-https://rsf.org/en/united-arab-emirates
-[6]
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/united-arab-emirates/
-[7]
-https://www.hrw.org/middle-east/n-africa/united-arab-emirates
-[8]
-https://www.bbc.com/news/topics/ce1qrvlexjet/united-arab-emirates
+ [1]	perma.cc/WBG7-C965
+[2]	perma.cc/3Z5U-RZDX
+[3]	perma.cc/4WPA-32BA
+[4]	perma.cc/JFN2-XQDB
+[5]	perma.cc/43ZY-8DAZ
+[6]	perma.cc/5AXF-KRMH
+[7]	perma.cc/KV3E-NZGF
+[8]	perma.cc/L74F-FWTV
 
 
 
@@ -892,22 +837,14 @@ https://www.bbc.com/news/topics/ce1qrvlexjet/united-arab-emirates
  Through the Publication and Publishing Act of 1980, the government regulates the media and does not allow criticism of the government. 
 
 *Sources*:
- [1]
-https://freedomhouse.org/country/united-arab-emirates/freedom-world/2020
-[2]
-https://www.ilo.org/dyn/natlex/docs/WEBTEXT/62110/65257/E80ARE01.htm#c8
-[3]
-https://ipi.media/united-arab-emirates/
-[4]
-https://cpj.org/mideast/uae/
-[5]
-https://rsf.org/en/united-arab-emirates
-[6]
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/united-arab-emirates/
-[7]
-https://www.hrw.org/middle-east/n-africa/united-arab-emirates
-[8]
-https://www.bbc.com/news/topics/ce1qrvlexjet/united-arab-emirates
+ [1]	perma.cc/WBG7-C965
+[2]	perma.cc/3Z5U-RZDX
+[3]	perma.cc/4WPA-32BA
+[4]	perma.cc/JFN2-XQDB
+[5]	perma.cc/43ZY-8DAZ
+[6]	perma.cc/5AXF-KRMH
+[7]	perma.cc/KV3E-NZGF
+[8]	perma.cc/L74F-FWTV
 
 
 
@@ -949,22 +886,14 @@ https://www.bbc.com/news/topics/ce1qrvlexjet/united-arab-emirates
  Through the Publication and Publishing Act of 1980, the government regulates the media and does not allow criticism of the government. However, no evidence indicating that the government is de-facto limiting media reporting about non-Covid-19 related news, but with reference to the pandemic, was found. 
 
 *Sources*:
- [1]
-https://freedomhouse.org/country/united-arab-emirates/freedom-world/2020
-[2]
-https://www.ilo.org/dyn/natlex/docs/WEBTEXT/62110/65257/E80ARE01.htm#c8
-[3]
-https://ipi.media/united-arab-emirates/
-[4]
-https://cpj.org/mideast/uae/
-[5]
-https://rsf.org/en/united-arab-emirates
-[6]
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/united-arab-emirates/
-[7]
-https://www.hrw.org/middle-east/n-africa/united-arab-emirates
-[8]
-https://www.bbc.com/news/topics/ce1qrvlexjet/united-arab-emirates
+ [1]	perma.cc/WBG7-C965
+[2]	perma.cc/3Z5U-RZDX
+[3]	perma.cc/4WPA-32BA
+[4]	perma.cc/JFN2-XQDB
+[5]	perma.cc/43ZY-8DAZ
+[6]	perma.cc/5AXF-KRMH
+[7]	perma.cc/KV3E-NZGF
+[8]	perma.cc/L74F-FWTV
 
 
 
@@ -1007,18 +936,12 @@ https://www.bbc.com/news/topics/ce1qrvlexjet/united-arab-emirates
  No evidence indicating that the government and its agents limits media access to Covid-19 related information, was found. 
 
 *Sources*:
- [1]
-https://ipi.media/united-arab-emirates/
-[2]
-https://cpj.org/mideast/uae/
-[3]
-https://rsf.org/en/united-arab-emirates
-[4]
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/united-arab-emirates/
-[5]
-https://www.hrw.org/middle-east/n-africa/united-arab-emirates
-[6]
-https://www.bbc.com/news/topics/ce1qrvlexjet/united-arab-emirates
+ [1]	perma.cc/H7ZJ-F54B
+[2]	perma.cc/2S48-3SD4
+[3]	perma.cc/BK3Y-5VYD
+[4]	perma.cc/6V83-TAQX
+[5]	perma.cc/EQT9-D7SZ
+[6]	perma.cc/9J2R-QWAS
 
 
 
@@ -1060,18 +983,12 @@ https://www.bbc.com/news/topics/ce1qrvlexjet/united-arab-emirates
  No evidence indicating that the government and its agents have verbally harassed journalists reporting about Covid-19, was found. 
 
 *Sources*:
- [1]
-https://ipi.media/united-arab-emirates/
-[2]
-https://cpj.org/mideast/uae/
-[3]
-https://rsf.org/en/united-arab-emirates
-[4]
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/united-arab-emirates/
-[5]
-https://www.hrw.org/middle-east/n-africa/united-arab-emirates
-[6]
-https://www.bbc.com/news/topics/ce1qrvlexjet/united-arab-emirates
+ [1]	perma.cc/H7ZJ-F54B
+[2]	perma.cc/2S48-3SD4
+[3]	perma.cc/BK3Y-5VYD
+[4]	perma.cc/6V83-TAQX
+[5]	perma.cc/EQT9-D7SZ
+[6]	perma.cc/9J2R-QWAS
 
 
 
@@ -1113,18 +1030,12 @@ https://www.bbc.com/news/topics/ce1qrvlexjet/united-arab-emirates
  No evidence indicating that the government and its agents have physically harassed journalists reporting about Covid-19, was found. 
 
 *Sources*:
- [1]
-https://ipi.media/united-arab-emirates/
-[2]
-https://cpj.org/mideast/uae/
-[3]
-https://rsf.org/en/united-arab-emirates
-[4]
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/united-arab-emirates/
-[5]
-https://www.hrw.org/middle-east/n-africa/united-arab-emirates
-[6]
-https://www.bbc.com/news/topics/ce1qrvlexjet/united-arab-emirates
+ [1]	perma.cc/H7ZJ-F54B
+[2]	perma.cc/2S48-3SD4
+[3]	perma.cc/BK3Y-5VYD
+[4]	perma.cc/6V83-TAQX
+[5]	perma.cc/EQT9-D7SZ
+[6]	perma.cc/9J2R-QWAS
 
 
 
@@ -1168,14 +1079,10 @@ https://www.bbc.com/news/topics/ce1qrvlexjet/united-arab-emirates
  The UAE government's covid-19 information is similar to that of the WHO. 
 
 *Sources*:
- [1]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/2019-novel-coronavirus
-[2]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/tips-to-stay-safe-from-covid-19
-[3]
-https://www.mohap.gov.ae/en/AwarenessCenter/Pages/COVID19-Information-Center.aspx
-[4]
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+ [1]	perma.cc/2M4U-SQYL
+[2]	perma.cc/V5KH-GEYV
+[3]	https://web.archive.org/web/20200515113155/https://www.mohap.gov.ae/en/AwarenessCenter/Pages/COVID19-Information-Center.aspx
+[4]	perma.cc/633J-YW64
 
 
 
@@ -1219,14 +1126,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
  No evidence was found that indicates that security forces, such as the civilian police or military, has engaged in physical violence to execute the emergency measures. 
 
 *Sources*:
- [1]
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/united-arab-emirates/
-[2]
-https://www.hrw.org/middle-east/n-africa/united-arab-emirates
-[3]
-https://www.civicus.org/
-[4]
-https://www.bbc.com/news/topics/ce1qrvlexjet/united-arab-emirates
+ [1]	perma.cc/YA3X-ZYDW
+[2]	perma.cc/DS5L-JFPF
+[3]	perma.cc/78SP-MJ7L
+[4]	perma.cc/9TGD-P3ZN
 
 
 
@@ -1268,9 +1171,6 @@ https://www.bbc.com/news/topics/ce1qrvlexjet/united-arab-emirates
  No information indicating that the military is enforcing confinement measures was found. 
 
 *Sources*:
- [1]
-https://www.bbc.com/news/topics/ce1qrvlexjet/united-arab-emirates
-[2]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/government-efforts-to-contain-covid-19
-[3]
-https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/enforcement-of-law-to-contain-the-spread-of-covid-19
+ [1]	perma.cc/D8WV-K6UV
+[2]	perma.cc/D8CX-9DGS
+[3]	perma.cc/NT7K-F8VK

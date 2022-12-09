@@ -48,23 +48,17 @@ There has been no evidence of other national level emergency response measures b
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Indonesia_2002.pdf?lang=en
-
+https://perma.cc/22UP-FPQM
 [2]
-https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-31-20-intl/h_9d84bdd8b2671de839f5d60a415d275b
-
-
+https://perma.cc/LE4C-DL4C
 [3]
-https://www.thejakartapost.com/news/2020/04/03/indonesias-strategy-to-combat-covid-19-what-we-know-so-far.html
-
+https://perma.cc/W33E-56EF
 [4]
-https://verfassungsblog.de/one-year-after-the-pandemic-in-indonesia-from-health-crisis-to-the-crisis-of-constitutional-democracy/
-
+https://perma.cc/M6RT-MQP9
 [5]
-https://www.asf.be/blog/2020/08/19/indonesia-a-cacophonic-legal-response-to-the-covid-19-pandemic-to-the-expense-of-human-rights/
-
+https://perma.cc/7HNM-3C7E
 [6]
-https://www.hrw.org/news/2021/01/13/indonesia-weak-public-health-response-covid-19
+https://perma.cc/W93R-YH48
 
 
 
@@ -105,19 +99,9 @@ Health Quarantine Law
 
 *Sources*:
  [1]
-https://verfassungsblog.de/indonesias-fight-against-covid-19-a-battle-over-the-meaning-of-emergency/
-
-
-
-
+https://perma.cc/WHT7-MATB
 [2]
-
-https://www.constituteproject.org/constitution/Indonesia_2002.pdf?lang=en
-
-
-
-
-
+https://perma.cc/22UP-FPQM
 
 
 
@@ -157,19 +141,12 @@ https://www.constituteproject.org/constitution/Indonesia_2002.pdf?lang=en
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Indonesia_2002.pdf?lang=en
-
-
-
+https://perma.cc/22UP-FPQM
 [2]
-https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-31-20-intl/h_9d84bdd8b2671de839f5d60a415d275b
-
-
-
+https://perma.cc/LE4C-DL4C
 
 [3]
-
-https://www.thejakartapost.com/news/2020/04/03/indonesias-strategy-to-combat-covid-19-what-we-know-so-far.html
+https://perma.cc/D7JW-2QN4
 
 
 
@@ -209,18 +186,14 @@ https://www.thejakartapost.com/news/2020/04/03/indonesias-strategy-to-combat-cov
 
 *Sources*:
  [1]
-https://www.cnbcindonesia.com/market/20200321130447-17-146650/ini-daftar-pemda-yang-sudah-tetapkan-darurat-corona
-
-
+https://perma.cc/9APH-6GC2
 [2]
-https://www.constituteproject.org/constitution/Indonesia_2002.pdf?lang=en
+https://perma.cc/22UP-FPQM
 
 [3]
-https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-31-20-intl/h_9d84bdd8b2671de839f5d60a415d275b
-
-
+https://perma.cc/LE4C-DL4C
 [4]
-https://www.thejakartapost.com/news/2020/04/03/indonesias-strategy-to-combat-covid-19-what-we-know-so-far.html
+https://perma.cc/W33E-56EF
 
 
 
@@ -263,18 +236,11 @@ https://www.thejakartapost.com/news/2020/04/03/indonesias-strategy-to-combat-cov
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Indonesia_2002.pdf?lang=en
-
-
-
+https://perma.cc/22UP-FPQM
 [2]
-https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-31-20-intl/h_9d84bdd8b2671de839f5d60a415d275b
-
-
-
-
+https://perma.cc/LE4C-DL4C
 [3]
-https://www.thejakartapost.com/news/2020/04/03/indonesias-strategy-to-combat-covid-19-what-we-know-so-far.html
+https://perma.cc/W33E-56EF
 
 
 
@@ -314,19 +280,13 @@ https://www.thejakartapost.com/news/2020/04/03/indonesias-strategy-to-combat-cov
 
 *Sources*:
  [1]
-https://www.cnbcindonesia.com/market/20200321130447-17-146650/ini-daftar-pemda-yang-sudah-tetapkan-darurat-corona
-
-
+https://perma.cc/B5UN-JYB2
 [2]
-https://regional.kontan.co.id/news/cegah-penyebaran-corona-akses-masuk-pelabuhan-di-papua-tutup-mulai-26-maret
-
-
+https://perma.cc/5JG7-YJPW
 [3]
-https://sumsel.antaranews.com/berita/452850/status-sumut-naik-menjadi-tanggap-darurat-covid-19
-
-
+https://perma.cc/76K4-3J2D
 [4]
-https://www.thejakartapost.com/news/2020/04/03/indonesias-strategy-to-combat-covid-19-what-we-know-so-far.html
+https://perma.cc/3KQQ-PGZE
 
 
 
@@ -369,7 +329,7 @@ https://www.thejakartapost.com/news/2020/04/03/indonesias-strategy-to-combat-cov
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Indonesia_2002.pdf?lang=en
+https://perma.cc/22UP-FPQM
 
 
 
@@ -412,7 +372,7 @@ https://www.constituteproject.org/constitution/Indonesia_2002.pdf?lang=en
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Indonesia_2002.pdf?lang=en
+https://perma.cc/22UP-FPQM
 
 
 
@@ -458,15 +418,12 @@ https://www.constituteproject.org/constitution/Indonesia_2002.pdf?lang=en
  The President of Indonesia declared a state of public health emergency under Law No.6/2018 [1,2]. This law allows for the president to implement restrictions related to the pandemic such as social distancing and other measures through declarations or decree [1]. Meanwhile, the legislature continues to meet using video conferencing and remote operations[3]. 
 
 *Sources*:
- 
-[1]
-https://www.thejakartapost.com/news/2020/03/31/dont-declare-civil-emergency-civil-society-group-tells-government.html
-
+ [1]
+https://perma.cc/7TC9-ABQ7
 [2]
-https://www.thejakartapost.com/news/2020/03/31/jokowi-declares-covid-19-health-emergency-imposes-large-scale-social-restrictions.html
-
+https://perma.cc/S3PM-U3FD
 [3]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+https://perma.cc/64FF-69S4
 
 
 
@@ -506,12 +463,9 @@ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
 
 *Sources*:
  [1]
-http://www.dpr.go.id/en/berita/index/category/bksap
-
-
-
+https://perma.cc/D4XQ-28ZC
 [2]
-https://www.bbc.com/news/topics/cmj34zmw7vmt/indonesia
+https://perma.cc/U9N5-TH3D
 
 
 
@@ -551,12 +505,9 @@ https://www.bbc.com/news/topics/cmj34zmw7vmt/indonesia
 
 *Sources*:
  [1]
-http://www.dpr.go.id/en/berita/index/category/bksap
-
-
-
+https://perma.cc/YQ6U-WJZZ
 [2]
-https://www.bbc.com/news/topics/cmj34zmw7vmt/indonesia
+https://perma.cc/TK74-YYZR
 
 
 
@@ -607,29 +558,22 @@ Large scale social restrictions were implemented just in the provinces of Java a
 
 *Sources*:
  [1]
-https://www.cnbcindonesia.com/market/20200321130447-17-146650/ini-daftar-pemda-yang-sudah-tetapkan-darurat-corona
-
-
+https://perma.cc/B5UN-JYB2
 [2]
-https://www.bbc.com/news/world-asia-52124193
-
+https://perma.cc/B2DY-K94A
 [3]
-https://indonesien.ahk.de/en/infocenter/news/news-details/covid-19-developments-in-indonesia
-
+https://perma.cc/4WTM-RWQE
 [4]
-https://setkab.go.id/pemerintah-beri-kewenangan-penuh-pemda-tentukan-izin-pembelajaran-tatap-muka/
-
+https://perma.cc/8WE9-WJPR
 [5]
-https://www.cnnindonesia.com/nasional/20210106125013-20-590125/pemerintah-tetapkan-psbb-jawa-bali-11-25-januari-2021
+https://perma.cc/JC3T-44ZP
 
 [6]
-https://www.garda.com/crisis24/news-alerts/439821/indonesia-authorities-extend-public-activity-restrictions-in-parts-of-java-and-bali-through-feb-22-update-64
-
+https://perma.cc/B22N-BHVR
 [7]
-https://www.garda.com/crisis24/news-alerts/479371/indonesia-officials-extends-covid-19-restrictions-nationwide-through-may-31-update-72
-
+https://perma.cc/A3KS-6RKD
 [8]
-https://www.garda.com/crisis24/news-alerts/474161/indonesia-officials-expanding-public-activity-restrictions-through-may-17-due-to-covid-19-update-71
+https://perma.cc/4HKW-GV4W
 
 
 
@@ -676,17 +620,13 @@ However, there information illustrating how certain groups of society face restr
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Indonesia_2002.pdf?lang=en
-
-
-[2]]
-https://www.amnesty.org/download/Documents/ASA2122382020ENGLISH.PDF
-
+https://perma.cc/8BE5-35TC
+[2]
+https://perma.cc/CG8P-ZHTF
 [3]
-https://restofworld.org/2021/indonesias-invisible-people-face-discrimination-and-sometimes-death-by-database/
-
+https://perma.cc/SWR2-QTK2
 [4]
-https://www.icj.org/indonesia-trans-women-face-discrimination-in-access-to-covid-19-vaccines/
+https://perma.cc/G59X-GETH
 
 
 
@@ -736,10 +676,9 @@ https://www.icj.org/indonesia-trans-women-face-discrimination-in-access-to-covid
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Indonesia_2002.pdf?lang=en
-
-
-[2]https://www.amnesty.org/download/Documents/ASA2122382020ENGLISH.PDF
+https://perma.cc/22UP-FPQM
+[2]
+https://perma.cc/CG8P-ZHTF
 
 
 
@@ -786,13 +725,11 @@ https://www.constituteproject.org/constitution/Indonesia_2002.pdf?lang=en
 
 *Sources*:
  [1]
-https://en.tempo.co/read/1328272/coronavirus-crackdown-aimed-at-anti-president-smears-hoaxes
-
+https://perma.cc/8VBE-L4ME
 [2]
-https://verfassungsblog.de/one-year-after-the-pandemic-in-indonesia-from-health-crisis-to-the-crisis-of-constitutional-democracy/
-
+https://perma.cc/6A77-Y8NF
 [3]
-https://rsf.org/en/news/indonesia-used-covid-19-silence-criticism-government
+https://perma.cc/J97C-EWTJ
 
 
 
@@ -834,16 +771,11 @@ https://rsf.org/en/news/indonesia-used-covid-19-silence-criticism-government
 
 *Sources*:
  [1]
-https://en.tempo.co/read/1328272/coronavirus-crackdown-aimed-at-anti-president-smears-hoaxes
-
-
-
-
+https://perma.cc/8VBE-L4ME
 [2]
-https://verfassungsblog.de/one-year-after-the-pandemic-in-indonesia-from-health-crisis-to-the-crisis-of-constitutional-democracy/
-
+https://perma.cc/6A77-Y8NF
 [3]
-https://rsf.org/en/news/indonesia-used-covid-19-silence-criticism-government
+https://perma.cc/J97C-EWTJ
 
 
 
@@ -883,16 +815,11 @@ https://rsf.org/en/news/indonesia-used-covid-19-silence-criticism-government
 
 *Sources*:
  [1]
-https://en.tempo.co/read/1328272/coronavirus-crackdown-aimed-at-anti-president-smears-hoaxes
-
-
-
-
+https://perma.cc/8VBE-L4ME
 [2]
-https://verfassungsblog.de/one-year-after-the-pandemic-in-indonesia-from-health-crisis-to-the-crisis-of-constitutional-democracy/
-
+https://perma.cc/6A77-Y8NF
 [3]
-https://rsf.org/en/news/indonesia-used-covid-19-silence-criticism-government
+https://perma.cc/J97C-EWTJ
 
 
 
@@ -939,17 +866,13 @@ The Electronic Transaction Law is also a tool that can be used to silence dissen
 
 *Sources*:
  [1]
-https://www.amnesty.org/download/Documents/ASA2122382020ENGLISH.PDF
-
-
+https://perma.cc/CG8P-ZHTF
 [2]
-https://www.thejakartapost.com/news/2020/05/11/govt-covid-19-response-poses-risks-to-human-rights-experts.html
-
+https://perma.cc/D4VA-4RDC
 [3]
-https://verfassungsblog.de/one-year-after-the-pandemic-in-indonesia-from-health-crisis-to-the-crisis-of-constitutional-democracy/
-
+https://perma.cc/6A77-Y8NF
 [4]
-https://www.thejakartapost.com/academia/2020/04/24/the-curious-case-of-ravio-patra-why-indonesian-cyberspace-is-a-dystopian-nightmare.html
+https://perma.cc/TY4A-EJD5
 
 
 
@@ -1000,14 +923,12 @@ I have not found additional instances of the government placing de-facto limitat
 
 *Sources*:
  [1]
-https://www.amnesty.org/download/Documents/ASA2122382020ENGLISH.PDF
-
-
+https://perma.cc/CG8P-ZHTF
 [2]
-https://www.thejakartapost.com/news/2020/05/11/govt-covid-19-response-poses-risks-to-human-rights-experts.html
-
+https://perma.cc/D4VA-4RDC
 [3]
-https://verfassungsblog.de/one-year-after-the-pandemic-in-indonesia-from-health-crisis-to-the-crisis-of-constitutional-democracy/
+https://perma.cc/6A77-Y8NF
+
 
 
 
@@ -1053,18 +974,13 @@ Daniel Bastard, head of RSF’s Asia-Pacific desk has said that ‘In this direc
 At least 57 people have been prosecuted under this law. As the law is still in place, I have continued to code this variable as 1 for Q1 and Q2 of 2021. 
 
 *Sources*:
- 
-
-[1]
-https://en.tempo.co/read/1328272/coronavirus-crackdown-aimed-at-anti-president-smears-hoaxes
-
-
+ [1]
+https://perma.cc/8VBE-L4ME
 [2]
-https://www.ecoi.net/en/file/local/2029209/ASA2122382020ENGLISH.PDF
-
-
+https://perma.cc/UBQ4-6BZW
 [3]
-https://rsf.org/en/news/indonesia-used-covid-19-silence-criticism-government
+https://perma.cc/J97C-EWTJ
+
 
 
 
@@ -1112,17 +1028,13 @@ I did not find new instances of the government and it's agents limiting media ac
 
 *Sources*:
  [1]
-https://www.amnesty.org/download/Documents/ASA2122382020ENGLISH.PDF
-
-
+https://perma.cc/CG8P-ZHTF
 [2]
-https://www.thejakartapost.com/news/2020/05/11/govt-covid-19-response-poses-risks-to-human-rights-experts.html
-
+https://perma.cc/D4VA-4RDC
 [3]
-https://www.hrw.org/news/2020/04/09/indonesia-little-transparency-covid-19-outbreak
-
+https://perma.cc/9YZG-8R7E
 [4]
-https://www.thejakartapost.com/news/2020/09/25/indonesias-real-virus-death-toll-may-be-3-times-reported-figure-epidemiologist.html
+https://perma.cc/4FG3-EE2A
 
 
 
@@ -1166,17 +1078,13 @@ https://www.thejakartapost.com/news/2020/09/25/indonesias-real-virus-death-toll-
 
 *Sources*:
  [1]
-https://rsf.org/en/indonesia
-
-
+https://perma.cc/EDN4-UTGH
 [2]
-https://www.hrw.org/asia/indonesia
-
+https://perma.cc/H5B9-HPBE
 [3]
-https://www.amnesty.org/en/countries/asia-and-the-pacific/indonesia/
-
+https://perma.cc/C8TU-67MU
 [4]
-https://ipi.media/attacks-on-journalists-rise-in-indonesia/
+https://perma.cc/M745-H9LH
 
 
 
@@ -1219,17 +1127,13 @@ https://ipi.media/attacks-on-journalists-rise-in-indonesia/
 
 *Sources*:
  [1]
-https://rsf.org/en/indonesia
-
-
+https://perma.cc/EDN4-UTGH
 [2]
-https://www.hrw.org/asia/indonesia
-
+https://perma.cc/H5B9-HPBE
 [3]
-https://www.amnesty.org/en/countries/asia-and-the-pacific/indonesia/
-
+https://perma.cc/C8TU-67MU
 [4]
-https://ipi.media/attacks-on-journalists-rise-in-indonesia/
+https://perma.cc/M745-H9LH
 
 
 
@@ -1278,14 +1182,11 @@ I have not found more instances of government disinformation in Indonesia in 202
 
 *Sources*:
  [1]
-https://www.theguardian.com/world/2020/jul/07/indonesia-minister-in-row-over-eucalyptus-necklace-covid-19-claim
-
-
+https://perma.cc/3Y8F-ER3C
 [2]
-https://www.reuters.com/article/us-health-coronavirus-indonesia-insight-idUSKCN25G02J
-
+https://perma.cc/B8YK-U7SY
 [3]
-https://covid19.go.id/
+https://perma.cc/LJ6G-EU9J
 
 
 
@@ -1330,11 +1231,10 @@ https://covid19.go.id/
 
 *Sources*:
  [1]
-https://www.reuters.com/article/us-health-coronavirus-indonesia/soldiers-police-enforce-indonesias-new-normal-coronavirus-restrictions-idUSKBN2320IJ
-
-
+https://perma.cc/ETP7-4M5Y
 [2]
-https://thediplomat.com/2020/04/indonesia-needs-to-change-its-security-heavy-approach-to-covid-19/
+https://perma.cc/9356-PJ4D
+
 
 
 
@@ -1379,12 +1279,8 @@ The government increased the deployment of military and police to enforce the va
 
 *Sources*:
  [1]
-https://www.reuters.com/article/us-health-coronavirus-indonesia/soldiers-police-enforce-indonesias-new-normal-coronavirus-restrictions-idUSKBN2320IJ
-
-
+https://perma.cc/ETP7-4M5Y
 [2]
-https://thediplomat.com/2020/04/indonesia-needs-to-change-its-security-heavy-approach-to-covid-19/
-
-
+https://perma.cc/9356-PJ4D
 [3]
-https://www.thejakartapost.com/news/2020/09/20/indonesian-military-deployed-for-coronavirus-fight.html
+https://perma.cc/KJL7-CBPJ

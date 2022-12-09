@@ -59,23 +59,26 @@ On 20 September, the courts had their final say on lockdowns, ruling them to fal
 In 2021, the Public Health Act continues to operate as the main legal instrument for Malawi’s Covid-19 response. Lockdown measures were announced in January, including the closure of schools. In February, schools were reopened, but the government kept many practices such as social distancing and the mandatory use of masks 
 
 *Sources*:
- https://www.telegraph.co.uk/global-health/science-and-disease/malawi-cant-breathe-lord-please-hear-cries-south-africa-variant/
-https://www.voanews.com/africa/malawi-ends-covid-19-school-restrictions-after-infections-drop
-https://www.rfi.fr/en/africa/20210118-malawi-announces-strict-new-covid-19-measures-including-lockdown-health-africa
-https://gazettes.africa/archive/mw/2020/mw-government-gazette-supplement-dated-2020-08-07-no-23A.pdf
-(1)
-https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-2020-5-publication-document.pdf
-(2)
-https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter-mutharika
-(3)
+ [1]
+https://perma.cc/EJR4-XU4U
+[2]
+https://perma.cc/7VY9-7HT5
+[3]
+https://perma.cc/R9FE-D3K6
+[4]
+https://perma.cc/4UVX-TFST
+[5]
+https://perma.cc/QL9K-4JJA
+[6]
+https://perma.cc/9FQW-T6RP
+[7]
 https://www.facebook.com/malawigovernment/posts/press-releasedeclaration-of-state-of-disaster-by-his-excellency-the-presidentthe/1440708896115600/
-(4)
-https://malawilii.org/mw/consolidated_legislation/3305
-(5)
-https://malawilii.org/sites/all/libraries/pdf.js/web/viewer.html?file=https%3A%2F%2Fmalawilii.org%2Fsystem%2Ffiles%2Fconsolidatedlegislation%2F3401%2FPublic%2520Health%2520Act.pdf
-(6)
-https://blogs.lse.ac.uk/africaatlse/2020/11/13/how-have-malawis-courts-law-affected-epidemic-response/
-(7)
+[8]
+https://web.archive.org/web/20201025104019/https://malawilii.org/mw/consolidated_legislation/3305
+[9]
+https://perma.cc/Y33K-N2FT
+[10]
+https://perma.cc/F79K-GAA9
 
 
 
@@ -118,14 +121,16 @@ On 20 March 2020, the President declared a state of disaster in Malawi, under th
 Nevertheless, as Government Notice No. 5 of 2020 states, "These rules are enforceable whether or not a state of disaster in relation to Covid-19 is in force under the Disaster Preparedness and Relief Act" (2). No mention of the state of disaster is made in the subsequent regulations issued after June. Therefore, we code for the entire period the main legal instrument as the Public Health Act, rather than the Disaster Preparedness Act. Further, because the Public Health Act does not provide for a state of public health emergency - and none such emergency has been declared under another legal instrument - we code this as being a case of other legislation, where this differs from a state of emergency, public health emergency, or disaster/catastrophe. 
 
 *Sources*:
- https://malawi.un.org/en/46778-declaration-state-disaster-malawi-president-peter-mutharika
-(3)
+ [1]
+perma.cc/HTM8-JD76
+[2]
 https://www.facebook.com/malawigovernment/posts/press-releasedeclaration-of-state-of-disaster-by-his-excellency-the-presidentthe/1440708896115600/
-(4)
-https://malawilii.org/mw/consolidated_legislation/3305
-(5)
-https://malawilii.org/sites/all/libraries/pdf.js/web/viewer.html?file=https%3A%2F%2Fmalawilii.org%2Fsystem%2Ffiles%2Fconsolidatedlegislation%2F3401%2FPublic%2520Health%2520Act.pdf
-(6)
+
+[3]
+https://web.archive.org/web/20201025104019/https://malawilii.org/mw/consolidated_legislation/3305
+[4]
+https://perma.cc/Y33K-N2FT
+
 
 
 
@@ -166,14 +171,12 @@ https://malawilii.org/sites/all/libraries/pdf.js/web/viewer.html?file=https%3A%2
 In 2021, several emergency measures remain in place. In January, an even harder lockdown was announced following the rise of coronavirus cases and later loosened in February. On 17 May some amendments were announced, but the main measures and restrictions are still in place. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/479436/malawi-officials-amend-covid-19-measures-as-of-may-17-update-14
-https://www.telegraph.co.uk/global-health/science-and-disease/malawi-cant-breathe-lord-please-hear-cries-south-africa-variant/
-https://www.voanews.com/africa/malawi-ends-covid-19-school-restrictions-after-infections-drop
-https://www.rfi.fr/en/africa/20210118-malawi-announces-strict-new-covid-19-measures-including-lockdown-health-africahttps://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-2020-5-publication-document.pdf
-(2)https://gazettes.africa/archive/mw/2020/mw-government-gazette-supplement-dated-2020-08-07-no-23A.pdf
-(1)
-https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-2020-5-publication-document.pdf
-(2)
+ [1]	perma.cc/B5XH-M8XB
+[2]	perma.cc/X9YH-7QCD
+[3]	perma.cc/8RMZ-K94D
+[4]	perma.cc/ZLA5-5ET2
+[5]	https://perma.cc/QL9K-4JJA
+[6]	perma.cc/8DX9-MT2U
 
 
 
@@ -212,10 +215,8 @@ https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-
  On 01 April, the Ministry of Health declared Covid-19 a "formidable disease" under the Public Health Act. On 09 April 2020, the Minister of Health issued a set of rules for Corona Virus Prevention, Containment, and Management (Government Notice No. 5 of 2020) (2). This document states that the Minister may extend the duration of lockdowns for one month at a time - but does not mention limits on the time for other emergency measures. On 07 August 2020, the Minister of Health issued a new set of guidelines that included a ban on public gatherings, with the exception of funerals under 50 people, closure of schools, mandatory mask wearing, among others. None of these regulations appear to have a defined end date (1). 
 
 *Sources*:
- https://gazettes.africa/archive/mw/2020/mw-government-gazette-supplement-dated-2020-08-07-no-23A.pdf
-(1)
-https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-2020-5-publication-document.pdf
-(2)
+ [1]	perma.cc/QE4T-3NF8
+[2]	https://perma.cc/QL9K-4JJA
 
 
 
@@ -259,13 +260,12 @@ https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-
 In January 2021, new measures including school closures were announced, but later eased in February. By the time of coding, some measures are still in place with last amendments occurring on 17 May 2021. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/479436/malawi-officials-amend-covid-19-measures-as-of-may-17-update-14
-https://www.bbc.com/news/topics/clm1wxp5pert/malawi
-https://www.garda.com/crisis24/news-alerts/449771/malawi-covid-19-measures-largely-unchanged-as-of-march-2-update-11
-https://gazettes.africa/archive/mw/2020/mw-government-gazette-supplement-dated-2020-08-07-no-23A.pdf
-(1)
-https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-2020-5-publication-document.pdf
-(2)
+ [1]	perma.cc/XKJ9-4ADJ
+[2]	perma.cc/8AR5-VEBU
+[3]	perma.cc/V3YZ-73FW
+[4]	perma.cc/F9TW-4JQF
+[5]
+https://perma.cc/QL9K-4JJA
 
 
 
@@ -304,10 +304,11 @@ https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-
  On 01 April, the Ministry of Health declared Covid-19 a "formidable disease" under the Public Health Act. On 09 April 2020, the Minister of Health issued a set of rules for Corona Virus Prevention, Containment, and Management (Government Notice No. 5 of 2020) (2). This document states that the Minister may extend the duration of lockdowns for one month at a time - but does not mention limits on the time for other emergency measures. On 07 August 2020, the Minister of Health issued a new set of guidelines that included a ban on public gatherings, with the exception of funerals under 50 people, closure of schools, mandatory mask wearing, among others. None of these regulations appear to have a defined end date (1). 
 
 *Sources*:
- https://gazettes.africa/archive/mw/2020/mw-government-gazette-supplement-dated-2020-08-07-no-23A.pdf
-(1)
-https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-2020-5-publication-document.pdf
-(2)
+ [1]
+perma.cc/ZX8H-4HJ4
+[2]
+https://perma.cc/QL9K-4JJA
+
 
 
 
@@ -349,7 +350,8 @@ https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-
  The Public Health Act allows for the Minister to declare a formidable disease and issue regulations without approval from the parliament. 
 
 *Sources*:
- https://malawilii.org/sites/all/libraries/pdf.js/web/viewer.html?file=https%3A%2F%2Fmalawilii.org%2Fsystem%2Ffiles%2Fconsolidatedlegislation%2F3401%2FPublic%2520Health%2520Act.pdf
+ [1]
+https://perma.cc/Y33K-N2FT
 
 
 
@@ -391,7 +393,8 @@ https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-
  The Public Health Act allows for the Minister to declare a formidable disease and issue regulations without approval from the parliament. 
 
 *Sources*:
- https://malawilii.org/sites/all/libraries/pdf.js/web/viewer.html?file=https%3A%2F%2Fmalawilii.org%2Fsystem%2Ffiles%2Fconsolidatedlegislation%2F3401%2FPublic%2520Health%2520Act.pdf
+ [1]
+https://perma.cc/Y33K-N2FT
 
 
 
@@ -439,7 +442,8 @@ https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-
  
 
 *Sources*:
- https://malawilii.org/sites/all/libraries/pdf.js/web/viewer.html?file=https%3A%2F%2Fmalawilii.org%2Fsystem%2Ffiles%2Fconsolidatedlegislation%2F3401%2FPublic%2520Health%2520Act.pdf
+ [1]
+https://perma.cc/Y33K-N2FT
 
 
 
@@ -563,8 +567,7 @@ https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-
 By May 2021, there is no evidence that any variation in measures was found across the country. 
 
 *Sources*:
- https://gazettes.africa/archive/mw/2020/mw-government-gazette-supplement-dated-2020-08-07-no-23A.pdf
-(1)
+ [1]	perma.cc/C6SQ-EPD6
 
 
 
@@ -608,10 +611,10 @@ By May 2021, there is no evidence that any variation in measures was found acros
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- https://www.bbc.com/news/topics/clm1wxp5pert/malawi
-https://www.amnesty.org/en/countries/africa/malawi/
-https://www.hrw.org/africa/malawi
-https://www.manaonline.gov.mw/index.php/component/k2/item/13931-public-health-corona-virus-prevention-containment-and-management-rules-2020
+ [1]	perma.cc/VT65-6VQC
+[2]	perma.cc/M7HU-7Z36
+[3]	perma.cc/TR9B-M8ZE
+[4]	https://web.archive.org/web/20200524051322/https://www.manaonline.gov.mw/index.php/component/k2/item/13931-public-health-corona-virus-prevention-containment-and-management-rules-2020
 
 
 
@@ -660,12 +663,11 @@ https://www.manaonline.gov.mw/index.php/component/k2/item/13931-public-health-co
  No emergency measures that de-jure violate non-derogable rights as defined by the ICCPR, was found. 
 
 *Sources*:
- https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-2020-5-publication-document.pdf
-https://gazettes.africa/archive/mw/2020/mw-government-gazette-supplement-dated-2020-08-07-no-23A.pdf
-
-https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-https://www.amnesty.org/en/countries/africa/malawi/
-https://www.hrw.org/africa/malawi
+ [1]	https://perma.cc/QL9K-4JJA
+[2]	perma.cc/SF3K-TR9N
+[3]	perma.cc/3TH7-C6RT
+[4]	perma.cc/6FK5-4R8V
+[5]	perma.cc/Z7YQ-CA4S
 
 
 
@@ -709,8 +711,10 @@ https://www.hrw.org/africa/malawi
  The emergency measures do not mention any limits on media and communication services are listed as essential. 
 
 *Sources*:
- https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-2020-5-publication-document.pdf
-https://gazettes.africa/archive/mw/2020/mw-government-gazette-supplement-dated-2020-08-07-no-23A.pdf
+ [1]
+https://perma.cc/QL9K-4JJA
+[2]
+perma.cc/SF3K-TR9N
 
 
 
@@ -830,10 +834,10 @@ https://gazettes.africa/archive/mw/2020/mw-government-gazette-supplement-dated-2
  There are no reports of restrictions on media reporting about the Covid-19 virus. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/malawi
-https://ipi.media/malawi/
-https://cpj.org/africa/malawi/
+ [1]	perma.cc/UG9X-V6PG
+[2]	perma.cc/3RHK-PB9Q
+[3]	perma.cc/E7V9-JQTN
+[4]	perma.cc/4Z6Q-VBMV
 
 
 
@@ -875,10 +879,10 @@ https://cpj.org/africa/malawi/
  There are no reports of restrictions on media reporting about the government response to the Covid-19 pandemic. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/malawi
-https://ipi.media/malawi/
-https://cpj.org/africa/malawi/
+ [1]	perma.cc/UG9X-V6PG
+[2]	perma.cc/3RHK-PB9Q
+[3]	perma.cc/E7V9-JQTN
+[4]	perma.cc/4Z6Q-VBMV
 
 
 
@@ -920,10 +924,10 @@ https://cpj.org/africa/malawi/
  There are no reports of restrictions on the media reporting about other matters with reference to Covid-19 regulations. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/malawi
-https://ipi.media/malawi/
-https://cpj.org/africa/malawi/
+ [1]	perma.cc/UG9X-V6PG
+[2]	perma.cc/3RHK-PB9Q
+[3]	perma.cc/E7V9-JQTN
+[4]	perma.cc/4Z6Q-VBMV
 
 
 
@@ -966,10 +970,10 @@ https://cpj.org/africa/malawi/
  There are no reports of the media being limited access to information. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/malawi
-https://ipi.media/malawi/
-https://cpj.org/africa/malawi/
+ [1]	perma.cc/93X3-6G73
+[2]	perma.cc/LK7S-ZKXD
+[3]	perma.cc/F67J-JJRG
+[4]	perma.cc/2VZQ-X68S
 
 
 
@@ -1013,12 +1017,12 @@ https://cpj.org/africa/malawi/
 In January 2021, a woman was attacked by protesters that alleged that she was an infiltrated police officer. 
 
 *Sources*:
- https://ipi.media/malawi-recent-detentions-of-journalists-overshadow-positive-press-freedom-image/
-https://cpj.org/2020/09/malawi-journalists-threatened-over-commentary-on-education-policies-amid-covid-19/
-https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/malawi
-https://ipi.media/malawi/
-https://cpj.org/africa/malawi/
+ [1]	perma.cc/5QL4-BYQL
+[2]	perma.cc/5UQ3-29KF
+[3]	perma.cc/UG9X-V6PG
+[4]	perma.cc/3RHK-PB9Q
+[5]	perma.cc/E7V9-JQTN
+[6]	perma.cc/4Z6Q-VBMV
 
 
 
@@ -1060,10 +1064,8 @@ https://cpj.org/africa/malawi/
  There are no reports of journalists being physically harassed while reporting about Covid-19 in 2020. In January 2021, a journalist was beaten by the police because he asked to take pictures of COVID-19 related situation. This appears to be an isolated incident with no further reports of harassment of journalists covering Covid-19 in Q2 of 2021 
 
 *Sources*:
- https://ipi.media/alerts/malawian-journalist-assaulted-by-police-while-reporting-on-covid-19/
-http://www.malawivoice.com/2021/01/23/misa-malawi-condemns-assault-of-journalist-henry-mhango-by-mcp-police/
-
-https://ipi.media/alerts/malawian-journalist-assaulted-by-police-while-reporting-on-covid-19/
+ [1]	perma.cc/G3X3-F7B5
+[2]	perma.cc/W87L-PGF5
 
 
 
@@ -1107,9 +1109,13 @@ https://ipi.media/alerts/malawian-journalist-assaulted-by-police-while-reporting
  The information provided by the government is in line with the WHO standards. 
 
 *Sources*:
- https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
-https://www.health.gov.mw
-https://twitter.com/health_malawi?lang=en
+ [1]
+perma.cc/5QT6-8ZV9
+[2]
+perma.cc/9FAJ-9DZF
+[3]
+https://perma.cc/4PHU-7GPU
+[4]
 https://www.facebook.com/malawimoh/
 
 
@@ -1154,8 +1160,10 @@ https://www.facebook.com/malawimoh/
  Since Covid-19 was declared a formidable disease, Malawi has experienced protests surrounding a presidential election re-run. However, police brutality against protestors including the use of tear gas  has not been justified with reference to the Covid-19 regulations. 
 
 *Sources*:
- https://freedomhouse.org/article/heavy-handed-pandemic-responses-could-fuel-unrest-southern-africa
-https://www.voanews.com/covid-19-pandemic/malawi-police-clash-prison-guards-demanding-covid-19-protection-equipment
+ [1]
+perma.cc/UHB2-XT78
+[2]
+perma.cc/BY7L-8YKD
 
 
 
@@ -1197,5 +1205,7 @@ https://www.voanews.com/covid-19-pandemic/malawi-police-clash-prison-guards-dema
  The Covid-19 rules and regulations allow for the government to impose restricted areas and lockdowns that can be enforced by the Defence Force of Malawi; however, these lockdowns have since been ruled unlawful by the courts without ever being implemented. 
 
 *Sources*:
- https://edit.laws.africa/works/akn/mw/act/gn/2020/5/media/publication/mw-act-gn-2020-5-publication-document.pdf
-https://gazettes.africa/archive/mw/2020/mw-government-gazette-supplement-dated-2020-08-07-no-23A.pdf
+ [1]
+https://perma.cc/QL9K-4JJA
+[2]
+perma.cc/SF3K-TR9N

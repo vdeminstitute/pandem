@@ -45,33 +45,19 @@
  A State of Emergency was declared by the Italian Government on 31 January 2020, with reference to the Legislative Decree No. 1 of 2 January 2018. This is thus not a constitutional state of emergency, but one taken with under regular legislation. Note that a number of decrees also have been issued after this to perform a number of emergency measures, but the initial emergency response is this declaration of a state of emergency. In late July 2020, the State of Emergency was extended to October 15 2020. On October 7 2020, it was decided to extend it yet again, to January 31 2021. In January, it was extended until April 30 2021. In April, it was extended to 31 of July 2021, which is the current end date. This is therefore coded 1 for all periods. 
 
 *Sources*:
- https://www.gazzettaufficiale.it/eli/id/2020/02/01/20A00737/sg
+ https://perma.cc/BL3F-D89H
+https://perma.cc/X6FS-U7G4
+https://perma.cc/C7X7-9L7B
+https://perma.cc/5VLU-Z6RZ
 
-https://www.gazzettaufficiale.it/eli/id/2018/1/22/18G00011/sg
-
-https://verfassungsblog.de/fighting-Covid-19-legal-powers-and-risks-italy/
-
-https://fra.europa.eu/sites/default/files/fra_uploads/it_report_on_coronavirus_pandemic_may_2020.pdf
-
-
-
-
-https://www.garda.com/crisis24/news-alerts/310166/italy-council-of-ministers-issue-state-of-emergency-due-to-2019-ncov-as-of-january-31-update-1
-
-
-https://www.garda.com/crisis24/news-alerts/364516/italy-authorities-extend-Covid-19-state-of-emergency-until-october-15-update-37
-
-https://www.reuters.com/article/us-health-coronavirus-italy-emergency-idUSKBN26M4ME
-
-https://www.gazzettaufficiale.it/eli/id/2020/10/07/20A05463/sg
-
-https://www.reuters.com/article/us-health-coronavirus-italy-emergency-idUSKBN29I1L4
-
-https://www.garda.com/crisis24/news-alerts/470411/italy-authorities-to-ease-domestic-Covid-19-related-measures-in-some-areas-april-26-update-43
-
-https://www.gazzettaufficiale.it/eli/id/2021/04/30/21A02610/sg
-https://www.thelocal.it/20210421/latest-italy-set-to-approve-reopening-plan-in-new-covid-emergency-decree/
-
+https://perma.cc/L3BZ-3E48
+https://perma.cc/F45W-52MS
+https://perma.cc/6ZRN-G5AT
+https://perma.cc/3R5D-BBXF
+https://perma.cc/4JQ5-DXNE
+https://perma.cc/WZX8-DTTS
+https://perma.cc/6CCH-7F3N
+https://perma.cc/V7KB-4F89
 https://www.intersentiaonline.com/publication/coronavirus-and-the-law-in-europe/4
 
 
@@ -111,9 +97,10 @@ https://www.intersentiaonline.com/publication/coronavirus-and-the-law-in-europe/
  This is the legal instrument referenced in the declaration of a state of emergency. 
 
 *Sources*:
- https://www.gazzettaufficiale.it/eli/id/2020/02/01/20A00737/sg
+ https://perma.cc/B54U-6YUN
 
-https://www.gazzettaufficiale.it/eli/id/2018/1/22/18G00011/sg
+
+https://perma.cc/KZ3T-9TDH
 
 
 
@@ -152,14 +139,16 @@ https://www.gazzettaufficiale.it/eli/id/2018/1/22/18G00011/sg
 *No comment provided* 
 
 *Sources*:
- https://www.gazzettaufficiale.it/eli/id/2020/02/01/20A00737/sg
-
-https://fra.europa.eu/sites/default/files/fra_uploads/it_report_on_coronavirus_pandemic_may_2020.pdf
+ https://perma.cc/J2KE-6B5C
 
 
 
 
-https://www.garda.com/crisis24/news-alerts/310166/italy-council-of-ministers-issue-state-of-emergency-due-to-2019-ncov-as-of-january-31-update-1
+
+https://perma.cc/34BN-9TRR
+
+
+https://perma.cc/8SA4-T8M4
 
 
 
@@ -198,11 +187,13 @@ https://www.garda.com/crisis24/news-alerts/310166/italy-council-of-ministers-iss
  Implementation of legal instrument has not ended by time of coding. The latest extension was set 2021-07-31. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/364516/italy-authorities-extend-Covid-19-state-of-emergency-until-october-15-update-37
+ https://perma.cc/9KWZ-J79H
 
-https://www.garda.com/crisis24/news-alerts/470411/italy-authorities-to-ease-domestic-Covid-19-related-measures-in-some-areas-april-26-update-43
 
-https://www.gazzettaufficiale.it/eli/id/2021/04/30/21A02610/sg
+https://perma.cc/R3TH-CVX3
+
+
+https://perma.cc/A7PA-9C9W
 
 
 
@@ -244,31 +235,43 @@ https://www.gazzettaufficiale.it/eli/id/2021/04/30/21A02610/sg
  The declaration of a state of emergency states that it will be active for 6 months. It has subsequently been extended, but with explicit end dates. 
 
 *Sources*:
- https://www.gazzettaufficiale.it/eli/id/2020/02/01/20A00737/sg
-
-https://www.gazzettaufficiale.it/eli/id/2018/1/22/18G00011/sg
-
-https://fra.europa.eu/sites/default/files/fra_uploads/it_report_on_coronavirus_pandemic_may_2020.pdf
+ https://perma.cc/B9HR-ZKG7
 
 
+https://perma.cc/H6PD-N78U
 
 
-https://www.garda.com/crisis24/news-alerts/310166/italy-council-of-ministers-issue-state-of-emergency-due-to-2019-ncov-as-of-january-31-update-1
+https://perma.cc/CEU9-3JVW
 
-https://www.garda.com/crisis24/news-alerts/364516/italy-authorities-extend-Covid-19-state-of-emergency-until-october-15-update-37
 
-https://www.garda.com/crisis24/news-alerts/364516/italy-authorities-extend-Covid-19-state-of-emergency-until-october-15-update-37
 
-https://www.reuters.com/article/us-health-coronavirus-italy-emergency-idUSKBN26M4ME
 
-https://www.gazzettaufficiale.it/eli/id/2020/10/07/20A05463/sg
 
-https://www.reuters.com/article/us-health-coronavirus-italy-emergency-idUSKBN29I1L4
+https://perma.cc/KBR2-KE7Z
 
-https://www.garda.com/crisis24/news-alerts/470411/italy-authorities-to-ease-domestic-Covid-19-related-measures-in-some-areas-april-26-update-43
 
-https://www.gazzettaufficiale.it/eli/id/2021/04/30/21A02610/sg
-https://www.thelocal.it/20210421/latest-italy-set-to-approve-reopening-plan-in-new-covid-emergency-decree/
+https://perma.cc/JUC3-DEM4
+
+
+https://perma.cc/JUC3-DEM4
+
+
+https://perma.cc/3BHP-K2F3
+
+
+https://perma.cc/9PR4-CUME
+
+
+https://perma.cc/9RBE-K6F5
+
+
+https://perma.cc/BJZ6-JHFU
+
+
+https://perma.cc/97EB-9XFU
+
+
+https://perma.cc/B737-YLJ5
 
 
 
@@ -307,31 +310,51 @@ https://www.thelocal.it/20210421/latest-italy-set-to-approve-reopening-plan-in-n
  The declaration of a state of emergency initially stated that it will be active for 6 months, thus having an initaial end date of 2020-07-31. It was subsequently extended to October 15 2020, and then on October 7 2020 extended to January 31 2021. In January 2021, it was extended to 2021-04-30. In April 2021, it was extended to 2021-07-31. 
 
 *Sources*:
- https://www.gazzettaufficiale.it/eli/id/2020/02/01/20A00737/sg
-
-https://www.gazzettaufficiale.it/eli/id/2018/1/22/18G00011/sg
-
-https://fra.europa.eu/sites/default/files/fra_uploads/it_report_on_coronavirus_pandemic_may_2020.pdf
+ https://perma.cc/YB3Z-8426
 
 
 
+https://perma.cc/F72G-N9YJ
 
-https://www.garda.com/crisis24/news-alerts/310166/italy-council-of-ministers-issue-state-of-emergency-due-to-2019-ncov-as-of-january-31-update-1
 
-https://www.garda.com/crisis24/news-alerts/364516/italy-authorities-extend-Covid-19-state-of-emergency-until-october-15-update-37
 
-https://www.garda.com/crisis24/news-alerts/364516/italy-authorities-extend-Covid-19-state-of-emergency-until-october-15-update-37
+https://perma.cc/9NSZ-VV86
 
-https://www.reuters.com/article/us-health-coronavirus-italy-emergency-idUSKBN26M4ME
 
-https://www.gazzettaufficiale.it/eli/id/2020/10/07/20A05463/sg
 
-https://www.reuters.com/article/us-health-coronavirus-italy-emergency-idUSKBN29I1L4
+https://perma.cc/NS6Y-8WNF
 
-https://www.garda.com/crisis24/news-alerts/470411/italy-authorities-to-ease-domestic-Covid-19-related-measures-in-some-areas-april-26-update-43
 
-https://www.gazzettaufficiale.it/eli/id/2021/04/30/21A02610/sg
-https://www.thelocal.it/20210421/latest-italy-set-to-approve-reopening-plan-in-new-covid-emergency-decree/
+
+https://perma.cc/8BUE-SE2K
+
+
+
+https://perma.cc/LNK6-3N9B
+
+
+
+https://perma.cc/HX5W-D7BF
+
+
+
+https://perma.cc/P9MQ-AAET
+
+
+
+https://perma.cc/ZF3H-QLUG
+
+
+
+https://perma.cc/4W5Y-XMNA
+
+
+
+https://perma.cc/A4VX-4YMX
+
+
+
+https://perma.cc/KWP9-32N9
 
 
 
@@ -373,16 +396,19 @@ https://www.thelocal.it/20210421/latest-italy-set-to-approve-reopening-plan-in-n
  The Government did not need parliaments approval of declaring a state of emergency, and this is therefore coded as 0. Important to note however is that the government does need parliament to approve any decree laws that have been issued within 60 days, and it is through these decree laws that much of the emergency measures have been taken. But the initial declaration of a state of emergency did not need parliamentary approval. 
 
 *Sources*:
- https://www.gazzettaufficiale.it/eli/id/2020/02/01/20A00737/sg
-
-https://www.gazzettaufficiale.it/eli/id/2018/1/22/18G00011/sg
-
-https://fra.europa.eu/sites/default/files/fra_uploads/it_report_on_coronavirus_pandemic_may_2020.pdf
+ https://perma.cc/JV3P-AS7Y
 
 
+https://perma.cc/Z2GU-C67A
 
 
-https://www.garda.com/crisis24/news-alerts/310166/italy-council-of-ministers-issue-state-of-emergency-due-to-2019-ncov-as-of-january-31-update-1
+https://perma.cc/P48T-TTK7
+
+
+
+
+
+https://perma.cc/W7YY-LNAH
 
 
 
@@ -424,12 +450,19 @@ https://www.garda.com/crisis24/news-alerts/310166/italy-council-of-ministers-iss
  State of emergency did not need parliamentary approval. 
 
 *Sources*:
- https://www.gazzettaufficiale.it/eli/id/2020/02/01/20A00737/sg
-https://www.gazzettaufficiale.it/eli/id/2018/1/22/18G00011/sg
-https://fra.europa.eu/sites/default/files/fra_uploads/it_report_on_coronavirus_pandemic_may_2020.pdf
+ https://perma.cc/JV3P-AS7Y
 
 
-https://www.garda.com/crisis24/news-alerts/310166/italy-council-of-ministers-issue-state-of-emergency-due-to-2019-ncov-as-of-january-31-update-1
+https://perma.cc/Z2GU-C67A
+
+
+https://perma.cc/P48T-TTK7
+
+
+
+
+
+https://perma.cc/W7YY-LNAH
 
 
 
@@ -476,26 +509,17 @@ https://www.garda.com/crisis24/news-alerts/310166/italy-council-of-ministers-iss
 Note also that Italy experienced a political crisis when the party Italia Viva removed their support from the  government led by Prime Minister Conte, which then  resigned in early January 2021. This government was subsequently replaced by a one led by Mario Draghi in early February 2021. No indication has been found that this has affected the parliament or it’s law-making however, and it continues to be the same parliament that sits. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#I
+ https://perma.cc/JGE9-7ZG5
+https://perma.cc/GRC8-D2RZ
+https://perma.cc/4FR9-ZMH2
+https://perma.cc/HJ47-2NX2
 
-https://www.loc.gov/law/help/emergency-legislative-activities/italy.php
-
-https://www.constituteproject.org/constitution/Italy_2012.pdf?lang=en
-
-https://fra.europa.eu/sites/default/files/fra_uploads/it_report_on_coronavirus_pandemic_may_2020.pdf
-
-
-
-
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-Covid-19/
-https://www.gazzettaufficiale.it/eli/id/2021/04/30/21A02610/sg
-
-https://www.venice.coe.int/files/EmergencyPowersObservatory//T13-E.htm
-https://www.theguardian.com/world/2021/feb/06/mario-draghi-secures-support-from-key-parties-to-form-new-italian-government
-
-https://www.intersentiaonline.com/publication/coronavirus-and-the-law-in-europe/4
-
-https://verfassungsblog.de/fighting-Covid-19-legal-powers-and-risks-italy/
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+https://perma.cc/5JAM-KJPJ
+https://perma.cc/3J5Q-H2MM
+https://perma.cc/VCZ8-9UPB
+https://perma.cc/H64L-SGHB
+https://perma.cc/Z85U-TZ3H
 
 
 
@@ -617,20 +641,28 @@ https://verfassungsblog.de/fighting-Covid-19-legal-powers-and-risks-italy/
  Although the Italian Government have had numerous national response measures, the regional variation has during Q2 of 2020 differed substantially, most notably in the beginning of the spread of Covid-19 where only the Northern regions were in lockdown. While several measures later spread to all of Italy's regions, these large discrepancies in emergency responses between regions at parts of the development is enough to code this as 3 in Q2 of 2020, as there was substantial sub-national variation. However, for Q3 and Q4 of 2020, measures seem to have conformed more. Although sub-national variation still exist, and some regions have seen reentrance of some measures that others have not, there are several nationwide measures implemented (or lifted across the nation) during these periods. The system of adopting different measures in regions depending on their level of infections etc. has continued in 2021, and there thus remains sub-national variation. However, as in the latter part of 2020, the variation in practice has not been so significant as to constitute coding 3, as the majority of Italy has been under more extensive lockdown measures and few regions have seen substantial differences from this. Thus, this is coded as 2 in Q1 and Q2 of 2021 as well. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/aiKFCqLFGxWQZ86xz/italy-air-traffic-suspended-to-and-from-china-due-to-novel-coronavirus-as-of-january-30
+ https://perma.cc/3GPS-2PWN
 
-https://www.acaps.org/covid19-government-measures-dataset
 
-https://www.garda.com/crisis24/news-alerts/392941/italy-authorities-announce-new-Covid-19-restrictions-nationwide-from-october-26-update-46
+https://perma.cc/7GAF-W9EQ
 
-https://www.garda.com/crisis24/news-alerts/391781/italy-authorities-to-introduce-night-time-curfew-in-lazio-region-from-october-23-update-45
 
-https://www.garda.com/crisis24/news-alerts/390271/italy-lombardy-and-campania-regions-impose-tighter-Covid-19-restrictions-october-17-update-43
-https://www.garda.com/crisis24/news-alerts/480216/italy-authorities-ease-Covid-19-related-curfew-as-of-may-18-update-49
+https://perma.cc/EDV9-USU8
 
-https://www.garda.com/crisis24/news-alerts/454506/italy-authorities-to-tighten-domestic-Covid-19-restrictions-from-march-15-update-40
 
-https://www.garda.com/crisis24/news-alerts/430441/italy-authorities-extend-Covid-19-related-state-of-emergency-until-april-30-associated-restrictions-in-place-until-at-least-feb-15-update-31
+https://perma.cc/SGF3-ZB47
+
+
+https://perma.cc/785E-QMXD
+
+
+https://perma.cc/RCV2-QJER
+
+
+https://perma.cc/3Q86-35SB
+
+
+https://perma.cc/236Y-KNFH
 
 
 
@@ -674,10 +706,13 @@ https://www.garda.com/crisis24/news-alerts/430441/italy-authorities-extend-Covid
  Human Rights Watch, Amnesty International and the EU Agency for Fundamental rights has not reported any discrimination occuring under the emergency measures, and there are no other indications that such discrimination has occured. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9603
-https://www.amnesty.org/en/search/?country=38466&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/it_report_on_coronavirus_pandemic_may_2020.pdf
+ https://perma.cc/8EJZ-NN57
 
+
+https://perma.cc/XH45-PJE3
+
+
+https://perma.cc/LTD8-XT37
 
 
 
@@ -726,10 +761,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/it_report_on_coronavirus_p
  Neither the EU agency for fundamental rights, Human Rights Watch or Amnesty international has reported any incidents of violations of non-derogable rights, and no other indication has been found that that has occurred in Italy's Covid-19 response. This is therefore coded as 0. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9603
-https://www.amnesty.org/en/search/?country=38466&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/it_report_on_coronavirus_pandemic_may_2020.pdf
+ https://perma.cc/9UG4-JFLR
 
+
+https://perma.cc/KUA3-FDJD
+
+
+https://perma.cc/A9AX-GJTB
 
 
 
@@ -773,11 +811,10 @@ https://fra.europa.eu/sites/default/files/fra_uploads/it_report_on_coronavirus_p
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Italian Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B116%5D=116
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CFrom%20Our%20Network&country=Italy
+ https://perma.cc/QJU4-5KFH
 
 
+https://perma.cc/2QS9-PVNN
 
 
 
@@ -816,11 +853,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CF
  No de jure limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B116%5D=116
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CFrom%20Our%20Network&country=Italy
+ https://perma.cc/QJU4-5KFH
 
 
+https://perma.cc/2QS9-PVNN
 
 
 
@@ -859,11 +895,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CF
  No de jure limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B116%5D=116
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CFrom%20Our%20Network&country=Italy
+ https://perma.cc/QJU4-5KFH
 
 
+https://perma.cc/2QS9-PVNN
 
 
 
@@ -905,9 +940,11 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CF
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Italy, and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B116%5D=116
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CFrom%20Our%20Network&country=Italy
-https://cpj.org/europe/italy/
+ https://perma.cc/XN4E-LSD7
+https://perma.cc/BKP6-82XD
+
+
+https://perma.cc/YT8B-JJTT
 
 
 
@@ -949,9 +986,11 @@ https://cpj.org/europe/italy/
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in Italy, and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B116%5D=116
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CFrom%20Our%20Network&country=Italy
-https://cpj.org/europe/italy/
+ https://perma.cc/XN4E-LSD7
+https://perma.cc/BKP6-82XD
+
+
+https://perma.cc/YT8B-JJTT
 
 
 
@@ -994,13 +1033,14 @@ https://cpj.org/europe/italy/
 However, in Q2 of 2021, there has been reported that a journalist was barred from entering a court room and reporting on a trial on sexual violence due to Covid-19 rules. These rules are not supposed to hinder journalists reporting, and it did constitute a limitation in reporting on this case. This is therefore coded 1 for Q2 of 2021. Note however that it is the only case observed in which such limitation to media has occurred. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B116%5D=116
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CFrom%20Our%20Network&country=Italy
-https://cpj.org/europe/italy/
+ https://perma.cc/XN4E-LSD7
+https://perma.cc/BKP6-82XD
 
-https://ipi.media/alerts/italian-journalist-barred-from-palace-of-justice-for-first-time-under-Covid-19-rules/
 
-https://www.fnsi.it/enna-impedito-a-una-giornalista-laccesso-in-tribunale-assostampa-e-odg-sicilia-inaccettabile
+https://perma.cc/S69W-QKU5
+
+
+https://perma.cc/55TJ-HKSH
 
 
 
@@ -1044,8 +1084,10 @@ https://www.fnsi.it/enna-impedito-a-una-giornalista-laccesso-in-tribunale-assost
 
 *Sources*:
  [1]
-https://ipi.media/access-denied-foi-deadlines-extended-or-suspended-across-europe/
-https://www.gazzettaufficiale.it/eli/id/2020/03/17/20G00034/sg
+https://perma.cc/KB6C-N7CZ
+
+
+https://perma.cc/LV8N-PZHL
 
 
 
@@ -1087,8 +1129,11 @@ https://www.gazzettaufficiale.it/eli/id/2020/03/17/20G00034/sg
  Neither Reporters without Borders nor International Press Institute have reported any verbal harassment of journalists in Italy, and no other indications have been found of there having been any such harassment. Note that journalists have been subject to verbal harassment by protesters during protests over the Covid-19 measures, but this has not involved authorities or were in any way connected to the measures and therefore not regarded here. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B116%5D=116https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CFrom%20Our%20Network&country=Italy
-https://cpj.org/europe/italy/
+ https://perma.cc/XN4E-LSD7
+https://perma.cc/BKP6-82XD
+
+
+https://perma.cc/YT8B-JJTT
 
 
 
@@ -1130,9 +1175,11 @@ https://cpj.org/europe/italy/
  Neither Reporters without Borders nor International Press Institute have reported any physical harassment of journalists in Italy, and no other indications have been found of there having been any such harassment. Note that journalists have been subject to physical harassment by protesters during protests over the Covid-19 measures, but this has not involved authorities or were  in any way connected to the measures and therefore not regarded here. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B116%5D=116
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CFrom%20Our%20Network&country=Italy
-https://cpj.org/europe/italy/
+ https://perma.cc/XN4E-LSD7
+https://perma.cc/BKP6-82XD
+
+
+https://perma.cc/YT8B-JJTT
 
 
 
@@ -1176,7 +1223,7 @@ https://cpj.org/europe/italy/
  There is no deviations from the information provided by WHO and that of the Italian Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
 
 *Sources*:
- http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioFaqNuovoCoronavirus.jsp?lingua=english&id=230#1
+ https://perma.cc/YG65-F3SZ
 
 
 
@@ -1220,17 +1267,19 @@ https://cpj.org/europe/italy/
  Amnesty International reports a few isolated incidents of police using excessive force in enforcing the limit on public gatherings in Q2 of 2020, and this is therefore coded as 1. However, no reports of any incidents of police violence has been found for any of the other periods, and the events the first period seem to be isolated. Furthermore, there have been reports of violent clashes between police and demonstrators against new lockdown measures in some cities in Italy during the fall of 2020  and spring of 2021, but these reports do not indicate any excessive or abusive force from police. This is thus coded as 0 for the other periods. 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
+ https://perma.cc/BEY6-9B8M
 
-https://edition.cnn.com/2020/10/27/europe/italy-coronavirus-protests-intl/index.html
 
-https://www.amnesty.org/en/search/?country=38466&resourceType=newsarticle&sort=date
+https://perma.cc/32W5-TPSV
 
-https://www.hrw.org/news?country[]=9603
 
-www.bbc.com/news/world-europe-54701042
+https://perma.cc/YM6P-6LP8
 
-https://www.thelocal.it/20210412/Covid-19-protesters-clash-with-italian-police-over-business-closures/
+
+https://perma.cc/5HQK-UNSZ
+
+
+https://perma.cc/45LP-RAM2
 
 
 
@@ -1272,7 +1321,10 @@ https://www.thelocal.it/20210412/Covid-19-protesters-clash-with-italian-police-o
  Military personnel has been deployed in Italy to help enforce emergency measures in Q2-Q3 of 2020. In the first period, military took part in enforcing the lockdown in March 2020. In July 2020, the military has also been deployed to specific quarantine centers for migrants, and enforce restrictions within these areas. However, no reports have been found of such military presence in the latter periods, whereas there continues to be reporting on military assisting in other logistics such as vaccination. It thus seems that Italy does not use the military to enforce Covid-19, and this is therefore coded as 0 from Q4 of 2020 and onward. 
 
 *Sources*:
- https://www.washingtonpost.com/world/coronavirus-military-enforce-soldiers-armed-forces/2020/03/25/647cbbb6-6d53-11ea-a156-0048b62cdb51_story.html
-http://euromil.org/armed-forces-and-Covid-19/
-https://www.wsj.com/articles/italy-deploys-troops-to-stop-migrants-breaking-coronavirus-quarantine-11595957404
+ https://perma.cc/L2LL-P733
 
+
+https://perma.cc/U6W2-G3ER
+
+
+https://perma.cc/FK6C-EXLD

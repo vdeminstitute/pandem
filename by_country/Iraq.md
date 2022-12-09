@@ -45,25 +45,10 @@
  Iraq has a state of emergency legislation in their constitution (Article 61), but this has not been activated. Iraq has however had a national-level emergency response, including curfews, school closings and closing of public places, to which no reference to any legal instrument has been found. Rather, the measures seem to have been taken through government decrees lacking references to legal instruments. This continues to be the case in Q1 and Q2 of 2021, where Iraq has several emergency measures in place but without any reference to legal instruments as far as have been found. Therefore, this is coded as 5, a national-level emergency response without reference to a specific legal instrument. 
 
 *Sources*:
- https://gds.gov.iq/blogposts/
-
-https://gds.gov.iq/Covid-19-higher-committee-for-health-and-national-safety-announces-key-measures/
-
-https://gds.gov.iq/Covid-19-iraqi-government-announces-new-measures/
-
-https://gds.gov.iq/Covid-19-iraq-announces-changes-to-curfew-other-restrictions/
-
-https://www.acaps.org/covid19-government-measures-datasethttps://www.constituteproject.org/constitution/Iraq_2005.pdf?lang=en
-
-https://gds.gov.iq/Covid-19-iraqi-government-permits-the-conditional-reopening-of-houses-of-worship-public-parks/
-https://www.garda.com/crisis24/news-alerts/442736/iraq-iraqi-authorities-to-impose-stricter-restrictions-from-feb-18-update-78
-
-
-https://www.garda.com/crisis24/news-alerts/474971/iraq-authorities-plan-to-impose-nationwide-curfew-may-12-22-update-91
+ https://perma.cc/Y3RT-ZPWK
 
 
 
-https://covidlawlab.org/?s=&topic=&country=Iraq
 
 
 
@@ -391,15 +376,22 @@ https://covidlawlab.org/?s=&topic=&country=Iraq
  No information has been found that the parliaments lawmaking role has been restricted in Iraq due to or during the emergency measures. The parliament has also continued to sit and voted on laws, budget changes and the like, indicating that their law making role is intact. This is therefore coded as 0. 
 
 *Sources*:
- https://en.parliament.iq/category/leadership/page/4/
+ https://perma.cc/49FX-7FU9
 
 
-https://gds.gov.iq/blogposts/
+https://perma.cc/LVK6-6JYH
 
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.reuters.com/article/iraq-economy-int-idUSKBN27S1V0
 
-https://www.hrw.org/news/2021/05/07/iraq-parliament-suspends-draconian-cybercrimes-bill 
+https://perma.cc/AF47-RACK
+
+
+https://perma.cc/QPB2-7NGM
+
+
+
+
+
+https://perma.cc/RP99-X8ZN
 
 
 
@@ -521,24 +513,34 @@ https://www.hrw.org/news/2021/05/07/iraq-parliament-suspends-draconian-cybercrim
  Several measures have been taken for the whole country, such as school closing, curfews, limiting public gatherings, but there has also been much regional variation. Baghdad and Najaf have imposed curfews and lockdowns beyond the national-level emergency response, and the Kurdish region of Iraq has have also imposed significant emergency measures such as lockdowns and limitations on movement. These regional differences seem to be fairly constant throughout 2020. However, there is less regional variation and more national-level emergencies in Q1 and Q2 of 2021. Some regional variation remains through independent measures taken in some instances by the Kurdish region, but it has become more nationally homogenous in the restrictions. This is therefore coded 2, some sub-national variation, in Q2-Q4 of 2020, and 1, a little sub-national variation, in Q1-Q2 of 2021. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.garda.com/crisis24/news-alert-full-history/skyyNqiseFrGow3WS/iraq-government-bans-entry-of-travelers-from-china-as-of-february-2-amid-Covid-19-outbreak
+ https://perma.cc/H5SG-VXW3
 
 
-https://www.garda.com/crisis24/news-alerts/320991/iraq-authorities-order-closure-of-najaf-province-over-Covid-19-outbreak-march-11-update-10
+https://perma.cc/5VRV-E4EE
 
 
-https://www.garda.com/crisis24/news-alerts/324521/iraq-lockdown-extended-in-kurdistan-region-march-18-update-14
-
-https://www.garda.com/crisis24/news-alerts/367431/iraq-Covid-19-curfew-extended-nationwide-until-august-15-update-47
-https://www.garda.com/crisis24/news-alerts/442736/iraq-iraqi-authorities-to-impose-stricter-restrictions-from-feb-18-update-78
+https://perma.cc/K5PF-CUT5
 
 
-https://www.garda.com/crisis24/news-alerts/474971/iraq-authorities-plan-to-impose-nationwide-curfew-may-12-22-update-91
+https://perma.cc/4YYQ-E924
 
 
-https://www.garda.com/crisis24/news-alerts/466301/iraq-iraqi-authorities-extend-partial-Covid-19-curfew-as-of-april-13-update-89 
+https://perma.cc/3CVZ-ET54
+
+
+https://perma.cc/E4F5-RKKP
+
+
+
+
+
+https://perma.cc/G8DA-8BUC
+
+
+
+
+
+https://perma.cc/DYF5-3RWP
 
 
 
@@ -582,10 +584,9 @@ https://www.garda.com/crisis24/news-alerts/466301/iraq-iraqi-authorities-extend-
  Human Rights Watch and Amnesty International have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. 
 
 *Sources*:
- :
-https://www.hrw.org/news?country[]=9637
-https://www.amnesty.org/en/search/?country=38535&resourceType=newsarticle&sort=date
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/iraq/
+ https://perma.cc/4KXK-CA7W
+https://perma.cc/A5Y2-XRWH
+https://perma.cc/P5JW-8PV8
 
 
 
@@ -634,10 +635,9 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/ira
  No reports of violations of non-derogable rights in the governments response to Covid-19 has been found, and this is thus coded 0. 
 
 *Sources*:
- :
-https://www.hrw.org/news?country[]=9637
-https://www.amnesty.org/en/search/?country=38535&resourceType=newsarticle&sort=date
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/iraq/
+ https://perma.cc/S8P8-5T4K
+https://perma.cc/NCU5-CHDJ
+https://perma.cc/KBD8-VWGR
 
 
 
@@ -681,25 +681,43 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/ira
  Reporters without Borders, Committee to Protect Journalists and the IPI report a number of de facto restrictions on the media in Iraq, but no de jure limitations taken within the emergency measures. This is therefore coded as 0. Note however that Iraq has defamation legislation and similar legal instruments to prosecute media and individuals (e.g. Article 433 of Iraq’s Penal Code), but these regulations are old and not connected to the Covid-19 response. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B159%5D=159
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Iraq
-https://www.hrw.org/news/2020/06/15/iraq-urgent-need-free-speech-protection
-
-https://www.refworld.org/docid/452524304.html
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/iraq/
+ https://perma.cc/SL4A-24DR
 
 
-https://rsf.org/en/news/three-jailed-reporters-charged-undermining-national-security
-
-https://rsf.org/en/news/iraq-wave-arrests-journalists-covering-protests-iraqi-kurdistan
+https://perma.cc/5ETY-YPZQ
 
 
-https://cpj.org/2021/03/spaghetti-against-the-wall-flimsy-evidence-iraqi-kurdish-journalists-jail/
+https://perma.cc/4JXF-4LDU
 
 
-https://cpj.org/blog/mideast/iraq/
- 
+https://perma.cc/GV25-QZC6
+
+
+https://perma.cc/3YSY-5UUT
+
+
+
+
+
+https://perma.cc/D3TX-U7FQ
+
+
+
+
+
+https://perma.cc/4HK3-DDYK
+
+
+
+
+
+https://perma.cc/FUR4-XM5Y
+
+
+
+
+
+https://perma.cc/QPW8-3YZ8
 
 
 
@@ -738,25 +756,43 @@ https://cpj.org/blog/mideast/iraq/
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B159%5D=159
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Iraq
-https://www.hrw.org/news/2020/06/15/iraq-urgent-need-free-speech-protection
-
-https://www.refworld.org/docid/452524304.html
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/iraq/
+ https://perma.cc/SL4A-24DR
 
 
-https://rsf.org/en/news/three-jailed-reporters-charged-undermining-national-security
-
-https://rsf.org/en/news/iraq-wave-arrests-journalists-covering-protests-iraqi-kurdistan
+https://perma.cc/5ETY-YPZQ
 
 
-https://cpj.org/2021/03/spaghetti-against-the-wall-flimsy-evidence-iraqi-kurdish-journalists-jail/
+https://perma.cc/4JXF-4LDU
 
 
-https://cpj.org/blog/mideast/iraq/
- 
+https://perma.cc/GV25-QZC6
+
+
+https://perma.cc/3YSY-5UUT
+
+
+
+
+
+https://perma.cc/D3TX-U7FQ
+
+
+
+
+
+https://perma.cc/4HK3-DDYK
+
+
+
+
+
+https://perma.cc/FUR4-XM5Y
+
+
+
+
+
+https://perma.cc/QPW8-3YZ8
 
 
 
@@ -795,25 +831,43 @@ https://cpj.org/blog/mideast/iraq/
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B159%5D=159
-
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Iraq
-https://www.hrw.org/news/2020/06/15/iraq-urgent-need-free-speech-protection
-
-https://www.refworld.org/docid/452524304.html
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/iraq/
+ https://perma.cc/SL4A-24DR
 
 
-https://rsf.org/en/news/three-jailed-reporters-charged-undermining-national-security
-
-https://rsf.org/en/news/iraq-wave-arrests-journalists-covering-protests-iraqi-kurdistan
+https://perma.cc/5ETY-YPZQ
 
 
-https://cpj.org/2021/03/spaghetti-against-the-wall-flimsy-evidence-iraqi-kurdish-journalists-jail/
+https://perma.cc/4JXF-4LDU
 
 
-https://cpj.org/blog/mideast/iraq/
- 
+https://perma.cc/GV25-QZC6
+
+
+https://perma.cc/3YSY-5UUT
+
+
+
+
+
+https://perma.cc/D3TX-U7FQ
+
+
+
+
+
+https://perma.cc/4HK3-DDYK
+
+
+
+
+
+https://perma.cc/FUR4-XM5Y
+
+
+
+
+
+https://perma.cc/QPW8-3YZ8
 
 
 
@@ -855,32 +909,55 @@ https://cpj.org/blog/mideast/iraq/
  There are several reports of journalists being arrested and detained for investigating and reporting on Covid-19, for example its prevalence and protests held in relation to emergency measures. In early April 2020, the commission suspended Reuters license and fined it 25 million IQD (US$21,000) for an April 2 article alleging that the number of confirmed Covid-19 cases in the country was much higher than official statistics indicated. The authorities lifted the suspension on April 19 2020. The Reuters report, published on April 2 2020, cited three doctors involved in the testing process, a health ministry official and a senior political official as saying Iraq had thousands of confirmed COVID-19 cases, many times more than the 772 it had publicly reported at that time. In November 2020, journalists (and bloggers) were also charged with defamation cases for investigating the number of Covid-19 cases and deaths. In addition, several journalists have been arrested for covering protests related to the Covid-19 handling of the pandemic and the economic consequences, and two were sentenced to several years in prison in February 2021. There are also vaguely formulated defamation laws and similar regulation (e.g. Article 433 of Iraq’s Penal Code) that Iraqi authorities can prosecute media and individuals of breaking, that constitutes a de facto limitation. This is therefore coded as 1. 
 
 *Sources*:
- https://rsf.org/en/news/iraqi-kurdistan-wave-arrests-journalists-Covid-19s-arrival
-
-https://cpj.org/2020/06/journalists-assaulted-detained-while-covering-Covid-19-protest-in-iraqi-kurdistan/
-
-https://cpj.org/2020/05/journalists-in-iraqi-kurdistan-tell-cpj-of-obstruc/
-
-https://www.hrw.org/news/2020/06/15/iraq-urgent-need-free-speech-protection
-https://www.hrw.org/news/2020/06/15/iraq-urgent-need-free-speech-protection
-
-https://www.reuters.com/article/us-iraq-reuters/iraq-suspends-reuters-for-three-months-over-report-on-coronavirus-cases-idUSKCN21W1RW
-
-https://www.refworld.org/docid/452524304.html
-
-https://rsf.org/en/news/iraq-coronavirus-reporting-triggers-spate-defamation-cases
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/iraq/
+ https://perma.cc/AQ7D-2VK8
 
 
-https://rsf.org/en/news/three-jailed-reporters-charged-undermining-national-security
-
-https://rsf.org/en/news/iraq-wave-arrests-journalists-covering-protests-iraqi-kurdistan
+https://perma.cc/YWD5-8AMT
 
 
-https://cpj.org/2021/03/spaghetti-against-the-wall-flimsy-evidence-iraqi-kurdish-journalists-jail/
+https://perma.cc/XA3K-MNDR
 
 
-https://cpj.org/blog/mideast/iraq/
+https://perma.cc/QKL7-TFHD
+
+
+https://perma.cc/QKL7-TFHD
+
+
+https://perma.cc/5JS6-8S6X
+
+
+https://perma.cc/CK9V-6GKV
+
+
+https://perma.cc/T4TM-6UT6
+
+
+https://perma.cc/LJ8U-NR5B
+
+
+
+
+
+https://perma.cc/GQQ3-UJGW
+
+
+
+
+
+https://perma.cc/2DJJ-Y44X
+
+
+
+
+
+https://perma.cc/EM6V-U7GD
+
+
+
+
+
+https://perma.cc/4PXN-YKQY
 
 
 
@@ -922,32 +999,55 @@ https://cpj.org/blog/mideast/iraq/
  There are several reports of journalists being arrested and detained for investigating and reporting on Covid-19, for example its prevalence and protests held in relation to emergency measures. In early April 2020, the commission suspended Reuters license and fined it 25 million IQD (US$21,000) for an April 2 article alleging that the number of confirmed Covid-19 cases in the country was much higher than official statistics indicated. The authorities lifted the suspension on April 19 2020. The Reuters report, published on April 2 2020, cited three doctors involved in the testing process, a health ministry official and a senior political official as saying Iraq had thousands of confirmed COVID-19 cases, many times more than the 772 it had publicly reported at that time. In November 2020, journalists (and bloggers) were also charged with defamation cases for investigating the number of Covid-19 cases and deaths. In addition, several journalists have been arrested for covering protests related to the Covid-19 handling of the pandemic and the economic consequences, and two were sentenced to several years in prison in February 2021.  There are also vaguely formulated defamation laws and similar regulation (e.g. Article 433 of Iraq’s Penal Code) that Iraqi authorities can prosecute media and individuals of breaking, that constitutes a de facto limitation. This is therefore coded as 1. 
 
 *Sources*:
- https://rsf.org/en/news/iraqi-kurdistan-wave-arrests-journalists-Covid-19s-arrival
-
-https://cpj.org/2020/06/journalists-assaulted-detained-while-covering-Covid-19-protest-in-iraqi-kurdistan/
-
-https://cpj.org/2020/05/journalists-in-iraqi-kurdistan-tell-cpj-of-obstruc/
-
-https://www.hrw.org/news/2020/06/15/iraq-urgent-need-free-speech-protection
-https://www.hrw.org/news/2020/06/15/iraq-urgent-need-free-speech-protection
-
-https://www.reuters.com/article/us-iraq-reuters/iraq-suspends-reuters-for-three-months-over-report-on-coronavirus-cases-idUSKCN21W1RW
-
-https://www.refworld.org/docid/452524304.html
-
-https://rsf.org/en/news/iraq-coronavirus-reporting-triggers-spate-defamation-cases
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/iraq/
+ https://perma.cc/AQ7D-2VK8
 
 
-https://rsf.org/en/news/three-jailed-reporters-charged-undermining-national-security
-
-https://rsf.org/en/news/iraq-wave-arrests-journalists-covering-protests-iraqi-kurdistan
+https://perma.cc/YWD5-8AMT
 
 
-https://cpj.org/2021/03/spaghetti-against-the-wall-flimsy-evidence-iraqi-kurdish-journalists-jail/
+https://perma.cc/XA3K-MNDR
 
 
-https://cpj.org/blog/mideast/iraq/
+https://perma.cc/QKL7-TFHD
+
+
+https://perma.cc/QKL7-TFHD
+
+
+https://perma.cc/5JS6-8S6X
+
+
+https://perma.cc/CK9V-6GKV
+
+
+https://perma.cc/T4TM-6UT6
+
+
+https://perma.cc/LJ8U-NR5B
+
+
+
+
+
+https://perma.cc/GQQ3-UJGW
+
+
+
+
+
+https://perma.cc/2DJJ-Y44X
+
+
+
+
+
+https://perma.cc/EM6V-U7GD
+
+
+
+
+
+https://perma.cc/4PXN-YKQY
 
 
 
@@ -989,32 +1089,55 @@ https://cpj.org/blog/mideast/iraq/
  There are several types of de facto limitations on media in Iraq, but no reports or sources have been found that state Iraqi government and agencies using Covid-19 as an excuse to limit other types of reporting. Rather, they have existing legislation in place such as Article 433 of Iraq’s Penal Code to prosecute journalists and limit media freedom, and this seems to have been the legal reference and also the broader legitimization when limiting media freedom in Iraq during the pandemic.  This is therefore coded as 0. 
 
 *Sources*:
- https://rsf.org/en/news/iraqi-kurdistan-wave-arrests-journalists-Covid-19s-arrival
-
-https://cpj.org/2020/06/journalists-assaulted-detained-while-covering-Covid-19-protest-in-iraqi-kurdistan/
-
-https://cpj.org/2020/05/journalists-in-iraqi-kurdistan-tell-cpj-of-obstruc/
-
-https://www.hrw.org/news/2020/06/15/iraq-urgent-need-free-speech-protection
-https://www.hrw.org/news/2020/06/15/iraq-urgent-need-free-speech-protection
-
-https://www.reuters.com/article/us-iraq-reuters/iraq-suspends-reuters-for-three-months-over-report-on-coronavirus-cases-idUSKCN21W1RW
-
-https://www.refworld.org/docid/452524304.html
-
-https://rsf.org/en/news/iraq-coronavirus-reporting-triggers-spate-defamation-cases
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/iraq/
+ https://perma.cc/AQ7D-2VK8
 
 
-https://rsf.org/en/news/three-jailed-reporters-charged-undermining-national-security
-
-https://rsf.org/en/news/iraq-wave-arrests-journalists-covering-protests-iraqi-kurdistan
+https://perma.cc/YWD5-8AMT
 
 
-https://cpj.org/2021/03/spaghetti-against-the-wall-flimsy-evidence-iraqi-kurdish-journalists-jail/
+https://perma.cc/XA3K-MNDR
 
 
-https://cpj.org/blog/mideast/iraq/
+https://perma.cc/QKL7-TFHD
+
+
+https://perma.cc/QKL7-TFHD
+
+
+https://perma.cc/5JS6-8S6X
+
+
+https://perma.cc/CK9V-6GKV
+
+
+https://perma.cc/T4TM-6UT6
+
+
+https://perma.cc/LJ8U-NR5B
+
+
+
+
+
+https://perma.cc/GQQ3-UJGW
+
+
+
+
+
+https://perma.cc/2DJJ-Y44X
+
+
+
+
+
+https://perma.cc/EM6V-U7GD
+
+
+
+
+
+https://perma.cc/4PXN-YKQY
 
 
 
@@ -1057,33 +1180,55 @@ https://cpj.org/blog/mideast/iraq/
  There are some reports on journalists being obstructed and denied access to information when trying to investigate the Covid-19 situation in Iraq. The Iraqi government also banned Reuters from Iraq for 3 months due to them reporting that the amount of infected people being much higher than the government had stated and that they had deliberately misreported the number of cases. This is coded as 1, since there is indeed obstructions to accessing Covid-19 related information, but there aren't as many such cases reported that it could be argued to be "widespread and ongoing". No indication of improvement has been found for the latter periods, and Iraq’s limiting of media freedom has also been ongoing in many other respects. This is therefore coded 1 for all periods. 
 
 *Sources*:
- https://rsf.org/en/news/iraqi-kurdistan-wave-arrests-journalists-Covid-19s-arrival
-
-https://cpj.org/2020/06/journalists-assaulted-detained-while-covering-Covid-19-protest-in-iraqi-kurdistan/
-
-https://cpj.org/2020/05/journalists-in-iraqi-kurdistan-tell-cpj-of-obstruc/
-
-https://www.hrw.org/news/2020/06/15/iraq-urgent-need-free-speech-protection
-https://www.hrw.org/news/2020/06/15/iraq-urgent-need-free-speech-protection
-
-https://www.reuters.com/article/us-iraq-reuters/iraq-suspends-reuters-for-three-months-over-report-on-coronavirus-cases-idUSKCN21W1RW
-
-https://www.refworld.org/docid/452524304.html
-
-https://rsf.org/en/news/iraq-coronavirus-reporting-triggers-spate-defamation-cases
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/iraq/
+ https://perma.cc/AQ7D-2VK8
 
 
-https://rsf.org/en/news/three-jailed-reporters-charged-undermining-national-security
-
-https://rsf.org/en/news/iraq-wave-arrests-journalists-covering-protests-iraqi-kurdistan
+https://perma.cc/YWD5-8AMT
 
 
-https://cpj.org/2021/03/spaghetti-against-the-wall-flimsy-evidence-iraqi-kurdish-journalists-jail/
+https://perma.cc/XA3K-MNDR
 
 
-https://cpj.org/blog/mideast/iraq/
- 
+https://perma.cc/QKL7-TFHD
+
+
+https://perma.cc/QKL7-TFHD
+
+
+https://perma.cc/5JS6-8S6X
+
+
+https://perma.cc/CK9V-6GKV
+
+
+https://perma.cc/T4TM-6UT6
+
+
+https://perma.cc/LJ8U-NR5B
+
+
+
+
+
+https://perma.cc/GQQ3-UJGW
+
+
+
+
+
+https://perma.cc/2DJJ-Y44X
+
+
+
+
+
+https://perma.cc/EM6V-U7GD
+
+
+
+
+
+https://perma.cc/4PXN-YKQY
 
 
 
@@ -1125,20 +1270,28 @@ https://cpj.org/blog/mideast/iraq/
  There are several cases where journalists have been threatened and verbally harassed when trying to report on Covid-19 in Iraq. In Q2 of 2020, several journalists were detained and arrested for trying to cover authorities handling of Covid-19. In November 2020, journalists (and bloggers) have been targeted with defamation complaints by the government for investigating and reporting on Covid-19 cases and deaths (note also that there is several cases of harassment for reporting on other issues, primarily government protests). In February 2021, three reporters were sentenced to several years in prison for having reported on protests against the governments handling of Covid-19 and its economic consequences. The Iraqi authorities, and especially it seems, the Kurdish region, have continuously verbally harassed journalists through various threats of arrests and sentences (as well as carrying out many of these). This is therefore coded 1 for all periods. 
 
 *Sources*:
- https://rsf.org/en/news/kurdistan-government-threatens-tv-channel-sanctions
+ https://perma.cc/KRT3-DK3V
 
-https://rsf.org/en/news/iraqi-kurdistan-wave-arrests-journalists-Covid-19s-arrival
 
-https://cpj.org/2020/06/journalists-assaulted-detained-while-covering-Covid-19-protest-in-iraqi-kurdistan/
+https://perma.cc/LB5M-D5ZD
 
-https://cpj.org/2020/05/journalists-in-iraqi-kurdistan-tell-cpj-of-obstruc/
 
-https://rsf.org/en/news/iraq-coronavirus-reporting-triggers-spate-defamation-cases
-https://rsf.org/en/news/three-jailed-reporters-charged-undermining-national-security
+https://perma.cc/5GTC-AVLV
 
-https://rsf.org/en/news/iraq-wave-arrests-journalists-covering-protests-iraqi-kurdistan
 
- 
+https://perma.cc/RNX8-WN3J
+
+
+https://perma.cc/J5T8-ZZ3D
+
+
+https://perma.cc/EK9G-9C2L
+
+
+
+
+
+https://perma.cc/73CS-UU6F
 
 
 
@@ -1180,16 +1333,31 @@ https://rsf.org/en/news/iraq-wave-arrests-journalists-covering-protests-iraqi-ku
  There are several cases where journalists have been arrested and detained when trying to report on Covid-19 in Iraq. In Q2 of 2020, several journalists were detained and arrested for trying to cover authorities handling of Covid-19. In November 2020, journalists (and bloggers) have been targeted with defamation complaints by the government for investigating and reporting on Covid-19 cases and deaths (note also that there is several cases of harassment for reporting on other issues, primarily government protests). In February 2021, three reporters were sentenced to several years in prison for having reported on protests against the governments handling of Covid-19 and its economic consequences. The Iraqi authorities, and especially it seems, the Kurdish region, have continuously physically harassed journalists through various arrests and detentions. This is therefore coded 1 for all periods. 
 
 *Sources*:
- https://cpj.org/2020/04/iraqi-security-forces-beat-journalist-mohamed-kade/
-https://rsf.org/en/news/iraqi-kurdistan-wave-arrests-journalists-Covid-19s-arrival
-https://cpj.org/2020/05/security-forces-in-iraqi-kurdistan-detain-8-journa/
-https://cpj.org/2020/06/journalists-assaulted-detained-while-covering-Covid-19-protest-in-iraqi-kurdistan/
-https://cpj.org/2020/05/journalists-in-iraqi-kurdistan-tell-cpj-of-obstruc/
+ https://perma.cc/WRP3-JMFR
 
-https://rsf.org/en/news/iraq-coronavirus-reporting-triggers-spate-defamation-cases
-https://rsf.org/en/news/three-jailed-reporters-charged-undermining-national-security
 
-https://rsf.org/en/news/iraq-wave-arrests-journalists-covering-protests-iraqi-kurdistan
+https://perma.cc/6U7D-ANCA
+
+
+https://perma.cc/4WLL-K297
+
+
+https://perma.cc/D466-Q48W
+
+
+https://perma.cc/2ZA4-JS7J
+
+
+https://perma.cc/GV74-8GMJ
+
+
+https://perma.cc/GR8D-D2Z4
+
+
+
+
+
+https://perma.cc/56MP-FMMA
 
 
 
@@ -1233,9 +1401,10 @@ https://rsf.org/en/news/iraq-wave-arrests-journalists-covering-protests-iraqi-ku
  The Iraqi governments guidance on Covid-19 , how it spreads and what the symtoms are isn't extensive, but all information they have published is in line with that of WHO, and this is therefore coded as 0. 
 
 *Sources*:
- https://gds.gov.iq/novel-coronavirus/
+ https://perma.cc/QJ7S-5MEU
 
-https://gds.gov.iq/novel-coronavirus-%E2%80%AACovid-19-iraqs-ministry-of-health-guidance-to-the-public/
+
+https://perma.cc/E6PW-NUCF
 
 
 
@@ -1279,9 +1448,10 @@ https://gds.gov.iq/novel-coronavirus-%E2%80%AACovid-19-iraqs-ministry-of-health-
  Human Rights Watch and Amnesty International have not reported any incidents of violence in enforcing emergency measures, and there are no other indiciations of such violence in the emergency measures. Note that there has been extensive violence toward protesters in relation to other issues, especially the anti-government protests that occurred in the period before the pandemic. However, no evidence has been found that any violence has been used in enforcing Covid-19 measures, and this is therefore coded 0. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9602
+ https://perma.cc/Q28W-LLNL
 
-https://www.amnesty.org/en/search/?country=38464&resourceType=newsarticle&sort=date
+
+https://perma.cc/WN77-9CN7
 
 
 
@@ -1323,4 +1493,4 @@ https://www.amnesty.org/en/search/?country=38464&resourceType=newsarticle&sort=d
  No sources have been found stating that Iraq has deployed its military to enforce emergency measures. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
+ https://perma.cc/QCZ9-GAFP

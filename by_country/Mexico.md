@@ -46,16 +46,15 @@
 
 *Sources*:
  [1]
-https://www.dof.gob.mx/nota_detalle.php?codigo=5590745&fecha=30/03/2020
+perma.cc/L789-XVBR
 [2]
-https://www.gob.mx/salud/prensa/consejo-de-salubridad-general-declara-emergencia-sanitaria-nacional-a-epidemia-por-coronavirus-covid-19-239301
+https://perma.cc/Q9LF-SNDQ
 [3]
-https://dof.gob.mx/nota_detalle.php?codigo=5593313&fecha=14/05/2020
-
+perma.cc/KA35-2AVX
 [4]
-https://coronavirus.gob.mx/wp-content/uploads/2020/10/SemaforoCOVID_Metodo.pdf
+perma.cc/KG75-4HQB
 [5]
-https://coronavirus.gob.mx/semaforo/
+https://perma.cc/J3CR-AHLS
 
 
 
@@ -95,11 +94,11 @@ https://coronavirus.gob.mx/semaforo/
 
 *Sources*:
  [1]
-http://www.csg.gob.mx/descargas/pdf/normatividad/Reglamento_Interior_del_CSG-2013.pdf
+perma.cc/6WAW-HLJB
 [2]
-http://www.diputados.gob.mx/LeyesBiblio/pdf/153_110121.pdf
+https://web.archive.org/web/20210422201703/http://www.diputados.gob.mx/LeyesBiblio/pdf/153_110121.pdf
 [3]
-http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Salud.pdf
+perma.cc/EEF6-ML3L
 
 
 
@@ -139,13 +138,13 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf_mov/Ley_General_de_Salud.pdf
 
 *Sources*:
  [1]
-https://www.dof.gob.mx/nota_detalle.php?codigo=5590745&fecha=30/03/2020
+perma.cc/7STA-A8MG
 [2]
-https://www.gob.mx/salud/prensa/consejo-de-salubridad-general-declara-emergencia-sanitaria-nacional-a-epidemia-por-coronavirus-covid-19-239301
+perma.cc/W4YQ-6K3R
 [3]
-https://dof.gob.mx/nota_detalle.php?codigo=5593313&fecha=14/05/2020
+perma.cc/KA35-2AVX
 [4]
-https://coronavirus.gob.mx/wp-content/uploads/2020/10/SemaforoCOVID_Metodo.pdf
+perma.cc/KG75-4HQB
 
 
 
@@ -185,13 +184,13 @@ https://coronavirus.gob.mx/wp-content/uploads/2020/10/SemaforoCOVID_Metodo.pdf
 
 *Sources*:
  [1]
-https://www.dof.gob.mx/nota_detalle.php?codigo=5590745&fecha=30/03/2020
+perma.cc/L789-XVBR
 [2]
-https://www.gob.mx/salud/prensa/consejo-de-salubridad-general-declara-emergencia-sanitaria-nacional-a-epidemia-por-coronavirus-covid-19-239301
+https://perma.cc/Q9LF-SNDQ
 [3]
-https://dof.gob.mx/nota_detalle.php?codigo=5593313&fecha=14/05/2020
+perma.cc/KA35-2AVX
 [4]
-https://coronavirus.gob.mx/wp-content/uploads/2020/10/SemaforoCOVID_Metodo.pdf
+perma.cc/KG75-4HQB
 
 
 
@@ -234,14 +233,13 @@ https://coronavirus.gob.mx/wp-content/uploads/2020/10/SemaforoCOVID_Metodo.pdf
 
 *Sources*:
  [1]
-
-http://dof.gob.mx/nota_detalle.php?codigo=5590745&fecha=30/03/2020
+perma.cc/6QQR-96AP
 [2]
-http://dof.gob.mx/nota_detalle.php?codigo=5592067&fecha=21/04/2020
+perma.cc/GTG9-22UK
 [3]
-https://dof.gob.mx/nota_detalle.php?codigo=5593313&fecha=14/05/2020
+perma.cc/KA35-2AVX
 [4]
-https://coronavirus.gob.mx/wp-content/uploads/2020/10/SemaforoCOVID_Metodo.pdf
+perma.cc/KG75-4HQB
 
 
 
@@ -281,14 +279,13 @@ https://coronavirus.gob.mx/wp-content/uploads/2020/10/SemaforoCOVID_Metodo.pdf
 
 *Sources*:
  [1]
-
-http://dof.gob.mx/nota_detalle.php?codigo=5590745&fecha=30/03/2020
+perma.cc/6QQR-96AP
 [2]
-http://dof.gob.mx/nota_detalle.php?codigo=5592067&fecha=21/04/2020
+perma.cc/GTG9-22UK
 [3]
-https://dof.gob.mx/nota_detalle.php?codigo=5593313&fecha=14/05/2020
+perma.cc/KA35-2AVX
 [4]
-https://coronavirus.gob.mx/wp-content/uploads/2020/10/SemaforoCOVID_Metodo.pdf
+perma.cc/KG75-4HQB
 
 
 
@@ -333,9 +330,9 @@ Ley Orgánica de la Administración Pública Federal, Art. 39: The Secretary of 
 
 *Sources*:
  [1]
-http://www.csg.gob.mx/descargas/pdf/normatividad/Reglamento_Interior_del_CSG-2013.pdf
+perma.cc/A4PE-LRV8
 [2]
-http://www.diputados.gob.mx/LeyesBiblio/pdf/153_110121.pdf
+https://web.archive.org/web/20210422201703/http://www.diputados.gob.mx/LeyesBiblio/pdf/153_110121.pdf
 
 
 
@@ -378,9 +375,9 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/153_110121.pdf
 
 *Sources*:
  [1]
-http://www.csg.gob.mx/descargas/pdf/normatividad/Reglamento_Interior_del_CSG-2013.pdf
+perma.cc/A4PE-LRV8
 [2]
-http://www.diputados.gob.mx/LeyesBiblio/pdf/153_110121.pdf
+https://web.archive.org/web/20210422201703/http://www.diputados.gob.mx/LeyesBiblio/pdf/153_110121.pdf
 
 
 
@@ -427,15 +424,15 @@ http://www.diputados.gob.mx/LeyesBiblio/pdf/153_110121.pdf
 
 *Sources*:
  [1]
-http://dof.gob.mx/nota_detalle.php?codigo=5590745&fecha=30/03/2020
+perma.cc/E7TU-N8YA
 [2]
-https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislative-activities.pdf
+perma.cc/62YP-T6R2
 [3]
-http://dof.gob.mx/2020/DOF/COVID19_DOF_160420.pdf
+perma.cc/LY5B-QNZ5
 [4]
-https://dof.gob.mx/nota_detalle.php?codigo=5593313&fecha=14/05/2020
+perma.cc/KA35-2AVX
 [5]
-https://coronavirus.gob.mx/wp-content/uploads/2020/10/SemaforoCOVID_Metodo.pdf
+perma.cc/KG75-4HQB
 
 
 
@@ -558,23 +555,21 @@ https://coronavirus.gob.mx/wp-content/uploads/2020/10/SemaforoCOVID_Metodo.pdf
 
 *Sources*:
  [1]
-http://dof.gob.mx/nota_detalle.php?codigo=5592067&fecha=21/04/2020
+perma.cc/47M4-DETX
 [2]
-http://dof.gob.mx/nota_detalle.php?codigo=5590745&fecha=30/03/2020
+perma.cc/L2ZH-UTQL
 [3]
-https://dof.gob.mx/nota_detalle.php?codigo=5593313&fecha=14%2F05%2F2020
+https://perma.cc/24SK-3BM7
 [4]
-https://coronavirus.gob.mx/semaforo/
+https://perma.cc/J3CR-AHLS
 [5]
-https://www.infobae.com/america/mexico/2020/06/20/gobernadores-de-ocho-estados-solicitaron-a-amlo-suspender-megaobras-y-usar-los-recursos-en-contra-del-coronavirus/
-
+perma.cc/DAQ9-JRX3
 [6]
-https://politica.expansion.mx/estados/2020/04/21/que-implica-la-fase-3-coronavirus-medidas-edomex-guanajuato-valle-de-mexico
+perma.cc/A8RT-R6H3
 [7]
-https://www.xataka.com.mx/medicina-y-salud/yucatan-primer-estado-mexico-que-te-dara-tres-anos-carcel-tienes-covid-19-no-cumples-cuarentena
-
+perma.cc/2CDF-UG2N
 [8]
-https://www.reuters.com/article/salud-coronavirus-mexico-idLTAKBN28S2KA
+perma.cc/56AN-PPA9
 
 
 
@@ -619,14 +614,13 @@ https://www.reuters.com/article/salud-coronavirus-mexico-idLTAKBN28S2KA
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/14/mexico-free-detained-migrants-amid-pandemic
+perma.cc/TN8M-8QRU
 [2]
-https://www.amnesty.org/en/countries/americas/mexico/
+perma.cc/2JCV-8VLS
 [3]
-https://www.hrw.org/americas/mexico
+perma.cc/9FHU-AVRU
 [4]
-https://monitor.civicus.org/country/mexico/
-
+perma.cc/9EH6-T37N
 
 
 
@@ -676,11 +670,11 @@ https://monitor.civicus.org/country/mexico/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/mexico/
+perma.cc/5CLQ-V6XY
 [2]
-https://www.hrw.org/americas/mexico
+perma.cc/EQW7-PLZZ
 [3]
-https://monitor.civicus.org/country/mexico/
+perma.cc/V9LK-WX87
 
 
 
@@ -725,11 +719,11 @@ https://monitor.civicus.org/country/mexico/
 
 *Sources*:
  [1]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/W5M8-QPE2
 [2]
-http://dof.gob.mx/nota_detalle.php?codigo=5592067&fecha=21/04/2020
+perma.cc/355H-FY2U
 [3]
-http://dof.gob.mx/nota_detalle.php?codigo=5590745&fecha=30/03/2020
+perma.cc/2Q35-U7HT
 
 
 
@@ -850,13 +844,13 @@ http://dof.gob.mx/nota_detalle.php?codigo=5590745&fecha=30/03/2020
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/K23V-RNNE
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/N6FK-ATVH
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/9HT3-BYBU
 [4]
-https://cpj.org/americas/mexico/
+perma.cc/ZF38-VCFM
 
 
 
@@ -899,13 +893,13 @@ https://cpj.org/americas/mexico/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/K23V-RNNE
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/N6FK-ATVH
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/9HT3-BYBU
 [4]
-https://cpj.org/americas/mexico/
+perma.cc/ZF38-VCFM
 
 
 
@@ -948,13 +942,13 @@ https://cpj.org/americas/mexico/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/K23V-RNNE
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/N6FK-ATVH
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/9HT3-BYBU
 [4]
-https://cpj.org/americas/mexico/
+perma.cc/ZF38-VCFM
 
 
 
@@ -998,13 +992,13 @@ https://cpj.org/americas/mexico/
 
 *Sources*:
  [1]
-https://www.nytimes.com/2020/05/08/world/americas/mexico-coronavirus-count.html
+perma.cc/9W5N-PUJQ
 [2]
-https://www.bbc.com/mundo/noticias-america-latina-53303437
+perma.cc/BDG2-MEA3
 [3]
-https://www.nytimes.com/2020/12/21/world/americas/mexico-city-covid.html
+perma.cc/445E-X3BT
 [4]
-https://www.hrw.org/news/2021/02/03/will-lopez-obrador-continue-playing-mexicans-health
+perma.cc/L2JJ-8CSJ
 
 
 
@@ -1047,19 +1041,20 @@ https://www.hrw.org/news/2021/02/03/will-lopez-obrador-continue-playing-mexicans
 
 *Sources*:
  [1]
-https://www.dw.com/es/m%C3%A9xico-ni-la-pandemia-ha-logrado-disminuir-las-agresiones-contra-la-prensa/a-53437599
+perma.cc/8BNK-M7SN
 [2]
-https://www.hrw.org/es/news/2020/06/16/al-presidente-de-mexico-lopez-obrador-le-preocupa-el-contagio-del-virus-de-las-fake
+perma.cc/8AX9-5FFR
 [3]
-https://politica.expansion.mx/presidencia/2020/04/22/en-el-inicio-de-la-fase-mas-critica-del-covid-19-amlo-se-lanza-contra-la-prensa
+perma.cc/8P7B-7G6N
 [4]
-https://www.infobae.com/america/mexico/2020/09/18/loret-de-mola-y-brozo-desvirtuan-el-buen-periodismo-horacio-duarte-de-aduanas-respondio-a-las-duras-criticas-contra-la-rifa-del-avion-presidencial/
+perma.cc/89UF-QH5T
 [5]
-https://lasillarota.com/nacion/amlo-contra-los-medios-una-historia-permanente-prensa-periodistas-reforma-el-universal/435579
-[6]
-https://www.washingtonpost.com/es/post-opinion/2020/07/26/amlo-aumenta-su-autoritarismo-contra-la-prensa/
+perma.cc/T7WR-FFPT
 [7]
-https://ipi.media/alerts/local-mexican-politician-in-tamaulipas-state-threatens-journalist-for-reporting-on-party-during-covid-19-spike/
+perma.cc/G52X-4LTP
+[8]
+perma.cc/CNG4-KAP3
+
 
 
 
@@ -1102,11 +1097,11 @@ https://ipi.media/alerts/local-mexican-politician-in-tamaulipas-state-threatens-
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/K23V-RNNE
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/N6FK-ATVH
 [3]
-https://cpj.org/americas/mexico/
+perma.cc/ZF38-VCFM
 
 
 
@@ -1151,24 +1146,23 @@ https://cpj.org/americas/mexico/
 
 *Sources*:
  [1]
-https://www.theguardian.com/world/2020/mar/15/bolsonaro-amlo-coronavirus-warnings
+perma.cc/JT9W-AD6F
 [2]
-https://www.nytimes.com/2020/05/08/world/americas/mexico-coronavirus-count.html
+perma.cc/XVN7-X64Z
 [3]
-https://www.bbc.com/portuguese/internacional-52042531
+perma.cc/WE7Y-DQFS
 [4]
-https://www.youtube.com/watch?v=Fdz8Kwpf9KE
+perma.cc/53WT-WTME
 [5]
-https://cpj.org/2020/05/mexican-government-threatens-outlets-over-covid-19/
+perma.cc/GMR6-9K2Q
 [6]
-https://www.hrw.org/es/news/2020/03/26/mexico-los-mexicanos-necesitan-informacion-veraz-sobre-el-covid-19
-
+perma.cc/LNH8-JD2W
 [7]
-https://www.theguardian.com/world/2020/jul/31/mexico-president-amlo-mask-coronavirus-corruption
+perma.cc/QZ9D-4MNF
 [8]
-https://www.hrw.org/news/2021/02/03/will-lopez-obrador-continue-playing-mexicans-health
+perma.cc/S2P9-B86Z
 [9]
-https://www.theatlantic.com/international/archive/2021/02/why-covid-19-deniers-hold-so-much-power/618033/
+perma.cc/A5WJ-DWPC
 
 
 
@@ -1213,17 +1207,17 @@ https://www.theatlantic.com/international/archive/2021/02/why-covid-19-deniers-h
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/latest/news/2020/05/americas-authorities-must-protect-people-covid19-repressive-measures/
+perma.cc/96RL-6AFW
 [2]
-https://www.clarin.com/internacional/mexico/violencia-policial-mexico-cineasta-guillermo-toro-pidio-justicia-asesinato-giovanni-lopez_0_0aABz2itq.html
+perma.cc/BAG4-JN57
 [3]
-https://www.efe.com/efe/espana/sociedad/la-ira-ante-brutalidad-policial-llega-a-mexico-por-muerte-de-un-detenido/10004-4264668
+perma.cc/J5CT-JYXG
 [4]
-https://www.infobae.com/america/mexico/2020/06/14/primero-se-detiene-y-luego-se-investiga-el-abuso-policial-en-mexico-quedo-expuesto-por-el-covid-19/
+perma.cc/C34Y-F4HK
 [5]
-https://www.dw.com/es/violencia-policial-en-am%C3%A9rica-latina-est%C3%A1-fuera-de-control/a-55209031
+perma.cc/G962-TG56
 [6]
-https://www.theguardian.com/world/2020/jun/05/mexican-arrested-for-not-wearing-face-mask-later-found-dead
+perma.cc/HD23-NZ8H
 
 
 
@@ -1266,14 +1260,14 @@ https://www.theguardian.com/world/2020/jun/05/mexican-arrested-for-not-wearing-f
 
 *Sources*:
  [1]
-https://www.elmundo.es/internacional/2020/05/11/5eb9a3c421efa0486f8b45c7.html
+perma.cc/QRH2-QA65
 [2]
-https://www.bbc.com/mundo/noticias-america-latina-52657194
+perma.cc/W24F-2JVR
 [3]
-https://www.hrw.org/news/2020/08/03/militarization-colossal-error
+perma.cc/TU6E-JQ6S
 [4]
-https://www.infobae.com/america/mexico/2020/12/03/mexico-encargara-al-ejercito-la-distribucion-y-aplicacion-de-la-vacuna-contra-el-covid-19/
+perma.cc/UZ2S-YQFH
 [5]
-https://politica.expansion.mx/mexico/2021/01/08/vacunacion-otra-tarea-que-la-pandemia-de-covid-19-puso-en-manos-del-ejercito
+perma.cc/9VVJ-ZNTA
 [6]
-https://www.gob.mx/sedena/prensa/el-ejercito-mexicano-da-a-conocer-el-plan-de-distribucion-de-vacunas-contra-el-covid-19
+perma.cc/7AHQ-8WFC

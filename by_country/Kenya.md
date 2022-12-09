@@ -58,46 +58,21 @@ Before 26 March 2020 a few other more general measures and guidelines had been i
 Authorities continue legislating on Covid-19 matters based on the PHA and POA as of June 2021 (see 11, 12) 
 
 *Sources*:
- http://extwprlegs1.fao.org/docs/pdf/ken129231.pdf
-(1)
-
-https://www.loc.gov/law/help/health-emergencies/kenya.php
-(2)https://blog.petrieflom.law.harvard.edu/2020/05/21/kenya-global-responses-covid19/
-(2)
-
-https://www.strathmore.edu/news/should-the-kenyan-government-declare-a-state-of-emergency/
-(2)
-
-http://kenyalaw.org/kenya_gazette/gazette/volume/MjEyNA--/Vol.CXXII-No.55/
-(3)
-
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN49_2020.pdf
-(4)
-
-https://www.health.go.ke/first-case-of-coronavirus-disease-confirmed-in-kenya/
-(5)
-
-https://www.president.go.ke/2020/03/15/address-to-the-nation-by-h-e-uhuru-kenyatta-c-g-h-president-of-the-republic-of-kenya-and-commander-in-chief-of-the-defence-forces-on-covid-19-commonly-known-as-coronavirus/
-(6)
-
+ perma.cc/DN58-J9ZT
+perma.cc/G8D7-QF6H
+perma.cc/X7PV-6WRV
+perma.cc/8R6J-ZTB4
+perma.cc/8XMN-3ZRM
+perma.cc/WVJ9-FWPP
+perma.cc/4V4G-EHA3
+perma.cc/976W-DWG2
+[9]
 https://ecsahc.org/2020/03/22/corona-press-statement-march-22-kenya-2/
-(7)
-
-http://kenyalaw.org/kenyalawblog/kenyas-response-to-covid-19/
-(8)
-
-https://www.nis.go.ke/downloads/Public%20Order%20Act,%20Cap%2056.pdf
-(9)
-
-
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN36_2020.pdf
-(10)
-
-https://www.president.go.ke/2021/03/26/the-fifteenth-15th-presidential-address-on-the-coronavirus-pandemic/
-(11)
-
-https://verfassungsblog.de/covid-19-in-kenya-a-year-later-a-case-of-deja-vu/
-(12)
+perma.cc/F24G-RMP7
+perma.cc/LX2R-U73M
+perma.cc/U2FT-TBWU
+perma.cc/GKZ5-YXG3
+perma.cc/XDE8-K9R6
 
 
 
@@ -143,19 +118,19 @@ The Public Order Act (2003) [Rev. 2012] (3)
  Kenya has introduced a combination of protocols and measures in place. The initial measures were implemented by a Presidential Directive on 15 March 2020,  but the legal instruments were activated later: The Public Health Act was updated with Legal Notice No.49 of 3 April 2020 (2) and the Public Order Act (State Curfew) Order 2020, effected by Legal Notice No. 36 of the Kenya Gazette Notice of 26 March 2020. (4) 
 
 *Sources*:
- http://extwprlegs1.fao.org/docs/pdf/ken129231.pdf
-(1)
+ perma.cc/SC6N-EFKW
 
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN49_2020.pdf
-(2)
 
-https://www.nis.go.ke/downloads/Public%20Order%20Act,%20Cap%2056.pdf
-(3)
+perma.cc/FS8D-XJK4
 
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN36_2020.pdf
-(4)
 
-https://blog.petrieflom.law.harvard.edu/2020/05/21/kenya-global-responses-covid19/
+perma.cc/PUR3-NLQ6
+
+
+perma.cc/K672-WTP7
+
+
+perma.cc/4VTT-MLNY
 
 
 
@@ -198,16 +173,16 @@ The Public Order (State Curfew) Order Act that contained the strictest measures 
 Emstart is coded based on the activation of the PHA as the main legal instrument. 
 
 *Sources*:
- http://kenyalaw.org/kenya_gazette/gazette/volume/MjEyNA--/Vol.CXXII-No.55/
-(1)
+ perma.cc/DN8T-PV9N
 
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN49_2020.pdf
-(2)
 
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN36_2020.pdf
-(3)
+perma.cc/C2PK-743K
 
-https://blog.petrieflom.law.harvard.edu/2020/05/21/kenya-global-responses-covid19/
+
+perma.cc/9PKK-2LDW
+
+
+perma.cc/P34B-GU8M
 
 
 
@@ -248,25 +223,23 @@ https://blog.petrieflom.law.harvard.edu/2020/05/21/kenya-global-responses-covid1
 The nationwide curfew has been extended several times since its introduction in March 2020 (and never been lifted). It is currently extended through 27 July 2021. (5) 
 
 *Sources*:
- https://edition.cnn.com/world/live-news/coronavirus-pandemic-11-04-20-intl/h_49b34287c235552f5e7875d1f64f6ec1
-
-https://www.voanews.com/covid-19-pandemic/kenya-reimposes-covid-19-measures-amid-surging-cases
-
-https://www.aa.com.tr/en/africa/covid-19-kenya-bans-political-rallies-extends-curfew/2032358
-
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011887016/kenya-authorities-extend-covid-19-related-curfew-and-gatherings-restrictions-jan-3-through-march-12-update-15
-
-https://www.reuters.com/article/health-coronavirus-kenya-idAFL5N2NH072
+ perma.cc/QFT4-9YB4
+perma.cc/SY5R-8DR6
+perma.cc/6NHZ-VJQV
+perma.cc/8ZBR-386L
+perma.cc/5Z3C-RAD2
 (5)
 
-http://ke.china-embassy.org/chn/lsfw/P020210328027906621415.pdf
+perma.cc/QV7R-6G6R
 (6)
 
-http://ke.china-embassy.org/chn/lsfw/P020210328027906621415.pdf
+perma.cc/D693-Z5BZ
 (7)
 
-https://verfassungsblog.de/covid-19-in-kenya-a-year-later-a-case-of-deja-vu/
+perma.cc/KMA8-TDQY
 (8)
+
+
 
 
 
@@ -312,14 +285,16 @@ The Public Order (State Curfew) Order Act of 26 March 2020 (2), containing provi
 The nationwide curfew has been extended several times since its introduction in March 2020 (and never been lifted). It is currently extended through 27 July 2021 (3). 
 
 *Sources*:
- http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN49_2020.pdf
-(1)
+ perma.cc/MV9E-27AN
 
 
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN36_2020.pdf
-(2)
-https://www.reuters.com/article/health-coronavirus-kenya-idAFL5N2NH072
-(3)
+perma.cc/6ARU-PUFF
+
+
+perma.cc/4R77-WBT4
+
+
+
 
 
 
@@ -363,14 +338,13 @@ The Public Order (State Curfew) Order Act of 26 March 2020 (2), containing provi
 The nationwide curfew has been extended several times since its introduction in March 2020 (and never been lifted). It is currently extended through 27 July 2021 (3). 
 
 *Sources*:
- http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN49_2020.pdf
-(1)
+ perma.cc/MV9E-27AN
 
 
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN36_2020.pdf
-(2)
-https://www.reuters.com/article/health-coronavirus-kenya-idAFL5N2NH072
-(3)
+perma.cc/6ARU-PUFF
+
+
+perma.cc/4R77-WBT4
 
 
 
@@ -418,27 +392,28 @@ https://www.reuters.com/article/health-coronavirus-kenya-idAFL5N2NH072
 The Judiciary has already taken a decision on the legality of the curfew orders, holding that curfew is lawful but finding the use of unreasonable force in its imposition unlawful.'' (3) 
 
 *Sources*:
- https://blog.petrieflom.law.harvard.edu/2020/05/21/kenya-global-responses-covid19/
-(1)
+ perma.cc/UDX5-NQGK
 
-https://www.loc.gov/law/help/health-emergencies/kenya.php
-(2)
 
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/StatutoryInstrumentsActNo23of2013.PDF
-(3)
+perma.cc/N4PE-RD2Z
 
-https://www.cnbcafrica.com/east-africa/2020/04/23/kenyas-parliament-passes-amendments-to-cushion-kenyans-against-covid-19/
-(4)
 
-https://nation.africa/kenya/news/mps-call-for-special-session-on-covid-19-282280
-(4)
+perma.cc/HU5U-3S89
 
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN49_2020.pdf
 
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN36_2020.pdf
+perma.cc/SUE4-FHNC
 
-https://verfassungsblog.de/covid-19-in-kenya-a-year-later-a-case-of-deja-vu/
-(7)
+
+perma.cc/YN33-XGH6
+
+
+perma.cc/UZF6-C5GW
+
+
+perma.cc/772E-EDJQ
+
+
+perma.cc/EK3T-M9MX
 
 
 
@@ -488,27 +463,28 @@ The Judiciary has already taken a decision on the legality of the curfew orders,
 ''Parliament has continued to rubber stamp the actions of the Executive and has in some instances wholly exempted some of the Covid-19 rules from scrutiny pursuant to Section 14 of the Statutory Instruments Act. Therefore, despite being mandated under the Constitution to facilitate public participation, Parliament has allowed this and its oversight role to be reduced to a cosmetic exercise which has unsurprisingly led to public outcry. As of 27 March 2021, government directives imposing movement restrictions and an extended and modified curfew have been put in place in response to the high positivity rates in the country. The executive has validated an illegal process by publishing the rules without parliamentary approval, once again undermining the rule of law. Public participation requests have become 24-hour alerts relayed to only a few select persons or organizations to tick a compliance box which cannot constitute meaningful public participation.'' (7) 
 
 *Sources*:
- https://blog.petrieflom.law.harvard.edu/2020/05/21/kenya-global-responses-covid19/
-(1)
+ perma.cc/UDX5-NQGK
 
-https://www.loc.gov/law/help/health-emergencies/kenya.php
-(2)
 
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/StatutoryInstrumentsActNo23of2013.PDF
-(3)
+perma.cc/N4PE-RD2Z
 
-https://www.cnbcafrica.com/east-africa/2020/04/23/kenyas-parliament-passes-amendments-to-cushion-kenyans-against-covid-19/
-(4)
 
-https://nation.africa/kenya/news/mps-call-for-special-session-on-covid-19-282280
-(4)
+perma.cc/HU5U-3S89
 
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN49_2020.pdf
 
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN36_2020.pdf
+perma.cc/SUE4-FHNC
 
-https://verfassungsblog.de/covid-19-in-kenya-a-year-later-a-case-of-deja-vu/
-(7)
+
+perma.cc/YN33-XGH6
+
+
+perma.cc/UZF6-C5GW
+
+
+perma.cc/772E-EDJQ
+
+
+perma.cc/EK3T-M9MX
 
 
 
@@ -557,15 +533,16 @@ The emergency laws allow the president to widely interpret and implement decrees
 ''Parliament has continued to rubber stamp the actions of the Executive and has in some instances wholly exempted some of the Covid-19 rules from scrutiny pursuant to Section 14 of the Statutory Instruments Act. Therefore, despite being mandated under the Constitution to facilitate public participation, Parliament has allowed this and its oversight role to be reduced to a cosmetic exercise which has unsurprisingly led to public outcry. As of 27 March 2021, government directives imposing movement restrictions and an extended and modified curfew have been put in place in response to the high positivity rates in the country. The executive has validated an illegal process by publishing the rules without parliamentary approval, once again undermining the rule of law. Public participation requests have become 24-hour alerts relayed to only a few select persons or organizations to tick a compliance box which cannot constitute meaningful public participation.'' (1) 
 
 *Sources*:
- https://verfassungsblog.de/covid-19-in-kenya-a-year-later-a-case-of-deja-vu/
-(1)
+ perma.cc/UE4A-FJHS
 
 
+perma.cc/9M75-KYF4
 
-http://www.parliament.go.ke/parliament-proceeds-recess-following-coronavirus-outbreak
 
-https://allafrica.com/stories/202004130117.html
+perma.cc/H5E6-77PR
 
+
+[4]
 http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20as%20of%20March%2020.pdf
 
 
@@ -692,26 +669,15 @@ In 27 March 2021, authorities tightened restrictions in some parts of the countr
 The night curfew in the remainder of the country was between 22:00-04:00. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/BZAeasJyK3nfsL7pM/kenya-kenya-airlines-suspends-flights-to-mainland-china-as-of-january-31-due-to-novel-coronavirus
-
-
-https://www.garda.com/crisis24/news-alerts/372871/kenya-authorities-extend-covid-19-curfew-by-30-days-update-30
-
-https://www.garda.com/crisis24/news-alerts/339936/kenya-authorities-announce-15-day-lockdown-in-eastleigh-nairobi-and-mombasa-city-as-of-may-7-update-19
-
-https://www.garda.com/crisis24/news-alerts/357071/kenya-movement-restrictions-to-be-lifted-in-nairobi-mombasa-and-mandera-counties-july-7-update-25
-
-https://www.garda.com/crisis24/news-alerts/335441/kenya-authorities-implement-ban-on-movement-in-mandera-county-april-22-update-16
-
-https://www.garda.com/crisis24/news-alerts/331191/kenya-authorities-to-lock-down-mandera-county-as-of-april-9-update-14
-
-https://www.garda.com/crisis24/news-alerts/329806/kenya-authorities-announce-21-day-movement-ban-in-nairobi-and-three-counties-april-6-update-12
-
-https://www.garda.com/crisis24/news-alerts/467521/kenya-authorities-extend-existing-covid-19-related-restrictions-through-at-least-may-29-update-21
-
-https://www.garda.com/crisis24/news-alerts/485101/kenya-authorities-extend-nationwide-curfew-until-july-27-update-23
-
-
+ https://perma.cc/P4CJ-DS8J
+https://perma.cc/3QKU-ZR4Y
+https://perma.cc/X3QL-XEBX
+https://perma.cc/9FRK-9GBW
+https://perma.cc/PX8Z-BA8A
+https://perma.cc/RXP2-BM5W
+https://perma.cc/43VV-NVQG
+https://perma.cc/GF98-TN86
+https://perma.cc/M3E7-YWNA
 
 
 
@@ -760,21 +726,14 @@ However, there was no evidence of discrimination found on the ground of race, co
  
 
 *Sources*:
- https://www.hrw.org/news/2020/07/31/kenya-stops-abusive-forced-quarantine-related-covid-19
-
-https://blog.petrieflom.law.harvard.edu/2020/05/21/kenya-global-responses-covid19/
-
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN36_2020.pdf
-
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN36_2020.pdf
-
-https://nhri.ohchr.org/EN/IHRS/TreatyBodies/Page%20Documents/Core%20Human%20Rights.pdf
-
-https://www.bowmanslaw.com/insights/dispute-resolution/newsletter-on-the-publication-of-the-public-health-prevention-control-and-suppression-of-covid-19-rules-2020-and-declaration-of-infected-areas-in-kenya/
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/kenya/
-
-
+ perma.cc/JE8K-HLST
+perma.cc/CN4S-XMXX
+perma.cc/P9GY-5QFA
+perma.cc/UPB2-K9Y6
+[5]
+https://web.archive.org/web/20201115060736/https://nhri.ohchr.org/EN/IHRS/TreatyBodies/Page%20Documents/Core%20Human%20Rights.pdf
+perma.cc/D3UM-CNNY
+perma.cc/H36M-VLGM
 
 
 
@@ -823,19 +782,14 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/ken
  Kenyan authorities have been accused of abusively and by force putting people with Covid-19 symptoms in quarantine in facilities that lacked proper sanitation, were crowded and confined, and did not provide people with personal protective equipment like face masks. This practice stopped in June 2020. 
 
 *Sources*:
- https://www.hrw.org/news/2020/07/31/kenya-stops-abusive-forced-quarantine-related-covid-19
+ https://perma.cc/JE8K-HLST
+https://perma.cc/P34B-GU8M
+https://perma.cc/9PKK-2LDW
+https://perma.cc/9PKK-2LDW
+https://web.archive.org/web/20201115060736/https://nhri.ohchr.org/EN/IHRS/TreatyBodies/Page%20Documents/Core%20Human%20Rights.pdf
 
-https://blog.petrieflom.law.harvard.edu/2020/05/21/kenya-global-responses-covid19/
-
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN36_2020.pdf
-
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN36_2020.pdf
-
-https://nhri.ohchr.org/EN/IHRS/TreatyBodies/Page%20Documents/Core%20Human%20Rights.pdf
-
-https://www.bowmanslaw.com/insights/dispute-resolution/newsletter-on-the-publication-of-the-public-health-prevention-control-and-suppression-of-covid-19-rules-2020-and-declaration-of-infected-areas-in-kenya/
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/kenya/
+https://perma.cc/D3UM-CNNY
+https://perma.cc/F85X-AFVL
 
 
 
@@ -879,9 +833,10 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/ken
  One of the first Government orders on Covid-19 mesures stated that ''Kenyans must not "abuse" social media platforms or spread misinformation that "can cause fear and panic." (1) 
 
 *Sources*:
- https://www.health.go.ke/first-case-of-coronavirus-disease-confirmed-in-kenya/
-(1)
-https://www.icnl.org/covid19tracker/?location=&issue=9&date=&type=#
+ perma.cc/8N76-GFSA
+
+
+perma.cc/7RKG-ADQQ
 
 
 
@@ -921,17 +876,12 @@ https://www.icnl.org/covid19tracker/?location=&issue=9&date=&type=#
 However, since the government has been actively attempting to restrict media reporting on Covid-19, and citizens' freedom of expression (see media variables and links 3, 4), it is assumed that it is an ongoing order. The curfew and the emergency measures are in place until 27 July 2021. (5) 
 
 *Sources*:
- https://www.health.go.ke/first-case-of-coronavirus-disease-confirmed-in-kenya/
-(1)
-https://www.icnl.org/covid19tracker/?location=&issue=9&date=&type=#
+ perma.cc/92ZG-PYS4
+perma.cc/BE7S-H975
+perma.cc/357W-NGU2
+perma.cc/BBF7-7DSK
+perma.cc/UL98-GNQF
 
-https://www.article19.org/resources/kenya-journalists-attacked/#:~:text=According%20to%20ARTICLE%2019%20Eastern,about%20by%20the%20coronavirus%20pandemic.&text=The%20collapse%20of%20markets%20for,lockdowns%20brought%20misery%20for%20them
-(3)
-https://allafrica.com/stories/202011060166.html?aa_source=nwsltr-kenya-en
-(4)
-
-https://www.garda.com/crisis24/news-alerts/485101/kenya-authorities-extend-nationwide-curfew-until-july-27-update-23
-(5)
 
 
 
@@ -1021,34 +971,34 @@ According to the US 2020 report on human rights violations,
 ''NGOs reported an increase of arbitrary arrests and detention of activists, journalists, and bloggers during the year. In October 2020, the Defenders Coalition said it had provided support, including legal representation and bail, to 127 activists who had been arrested or detained since March. Most activists were released within short periods, usually less than 24 hours, and in most cases prosecutors either declined to press charges or courts dismissed the cases. In September, NGO Article 19 stated at least 20 journalists, including online communicators, had been arrested or threatened with prosecution since March while reporting on the government’s efforts to respond to the Covid-19 pandemic.'' (7) 
 
 *Sources*:
- https://www.article19.org/resources/kenya-journalists-attacked/#:~:text=According%20to%20ARTICLE%2019%20Eastern,about%20by%20the%20coronavirus%20pandemic.&text=The%20collapse%20of%20markets%20for,lockdowns%20brought%20misery%20for%20them
-(1)
-
-https://allafrica.com/stories/202011060166.html?aa_source=nwsltr-kenya-en
-(2)
+ perma.cc/6654-45EJ
 
 
-https://theconversation.com/new-media-voices-are-telling-kenyas-covid-19-stories-from-the-ground-up-138452
-(3)
-
-https://www.washingtonpost.com/opinions/2020/05/07/kenya-is-turning-public-health-crisis-into-law-and-order-one/
+perma.cc/A3K3-LN3U
 
 
-https://www.rfi.fr/en/africa/20200414-press-freedom-violations-throughout-african-continent-linked-to-covid-19-coverage
-
-https://www.hrw.org/news/2020/05/04/protect-kenyas-journalists-reporting-covid-19
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/kenya/
-(7)
-
-https://rsf.org/en/kenya
-
-https://theconversation.com/as-press-freedom-continues-to-struggle-in-kenya-alternatives-keep-hope-alive-160019
-
-https://www.article19.org/resources/kenya-world-press-freedom-day-2021/
+perma.cc/2662-MYZH
 
 
+perma.cc/V23C-5DTE
 
+
+perma.cc/UA8M-XMQA
+
+
+perma.cc/BX2N-S67N
+
+
+perma.cc/F85X-AFVL
+
+
+perma.cc/8HBR-Y8CD
+
+
+perma.cc/E6KN-XEHT
+
+
+perma.cc/3YAF-G9X3
 
 
 
@@ -1096,34 +1046,26 @@ https://www.article19.org/resources/kenya-world-press-freedom-day-2021/
 ''Kenyan media reporting, meanwhile, has tended to repeat rather than question the government line. There have been few attempts to distill the reality behind the numbers announced at the daily briefings and probe the choices that the government has been making. While public officials have not made the media's job easy, restricting the flow of information and the number of questions they are willing to answer during press briefings, it is also true that journalists have generally been reluctant to delve beyond official narratives. ''Trust and obey'' has seemed to be the overriding message.'' (3) 
 
 *Sources*:
- https://www.article19.org/resources/kenya-journalists-attacked/#:~:text=According%20to%20ARTICLE%2019%20Eastern,about%20by%20the%20coronavirus%20pandemic.&text=The%20collapse%20of%20markets%20for,lockdowns%20brought%20misery%20for%20them
+ perma.cc/6654-45EJ
 (1)
-
-https://allafrica.com/stories/202011060166.html?aa_source=nwsltr-kenya-en
+perma.cc/A3K3-LN3U
 (2)
-
-
-https://theconversation.com/new-media-voices-are-telling-kenyas-covid-19-stories-from-the-ground-up-138452
+perma.cc/2662-MYZH
 (3)
-
-https://www.washingtonpost.com/opinions/2020/05/07/kenya-is-turning-public-health-crisis-into-law-and-order-one/
-
-
-https://www.rfi.fr/en/africa/20200414-press-freedom-violations-throughout-african-continent-linked-to-covid-19-coverage
-
-https://www.hrw.org/news/2020/05/04/protect-kenyas-journalists-reporting-covid-19
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/kenya/
+perma.cc/V23C-5DTE
+(4)
+perma.cc/UA8M-XMQA
+(5)
+perma.cc/BX2N-S67N
+(6)
+perma.cc/F85X-AFVL
 (7)
-
-https://rsf.org/en/kenya
-
-https://theconversation.com/as-press-freedom-continues-to-struggle-in-kenya-alternatives-keep-hope-alive-160019
-
-https://www.article19.org/resources/kenya-world-press-freedom-day-2021/
-
-
-
+perma.cc/8HBR-Y8CD
+(8)
+perma.cc/E6KN-XEHT
+(9)
+perma.cc/3YAF-G9X3
+(10)
 
 
 
@@ -1171,34 +1113,26 @@ https://www.article19.org/resources/kenya-world-press-freedom-day-2021/
 ''Journalists and media outlets in Kenya faced increased pressure after Uhuru Kenyatta assumed office in 2013. The current administration has continued to enact laws that undermine media freedom. Some of these laws are the Media Act, 2013, Kenya Information, Communication (Amendment) Act, 2013 and Security Laws (Amendment) Act, 2014. These laws imposed tough penalties on journalists and expanded offences for which they could be punished. The government's increased intolerance of the media culminated in the temporary shutdown of four independent TV stations after they covered former opposition chief Raila Odinga's symbolic presidential inauguration in 2017''. (1) 
 
 *Sources*:
- https://www.article19.org/resources/kenya-journalists-attacked/#:~:text=According%20to%20ARTICLE%2019%20Eastern,about%20by%20the%20coronavirus%20pandemic.&text=The%20collapse%20of%20markets%20for,lockdowns%20brought%20misery%20for%20them
+ perma.cc/6654-45EJ
 (1)
-
-https://allafrica.com/stories/202011060166.html?aa_source=nwsltr-kenya-en
+perma.cc/A3K3-LN3U
 (2)
-
-
-https://theconversation.com/new-media-voices-are-telling-kenyas-covid-19-stories-from-the-ground-up-138452
+perma.cc/2662-MYZH
 (3)
-
-https://www.washingtonpost.com/opinions/2020/05/07/kenya-is-turning-public-health-crisis-into-law-and-order-one/
-
-
-https://www.rfi.fr/en/africa/20200414-press-freedom-violations-throughout-african-continent-linked-to-covid-19-coverage
-
-https://www.hrw.org/news/2020/05/04/protect-kenyas-journalists-reporting-covid-19
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/kenya/
+perma.cc/V23C-5DTE
+(4)
+perma.cc/UA8M-XMQA
+(5)
+perma.cc/BX2N-S67N
+(6)
+perma.cc/F85X-AFVL
 (7)
-
-https://rsf.org/en/kenya
-
-https://theconversation.com/as-press-freedom-continues-to-struggle-in-kenya-alternatives-keep-hope-alive-160019
-
-https://www.article19.org/resources/kenya-world-press-freedom-day-2021/
-
-
-
+perma.cc/8HBR-Y8CD
+(8)
+perma.cc/E6KN-XEHT
+(9)
+perma.cc/3YAF-G9X3
+(10)
 
 
 
@@ -1247,29 +1181,34 @@ https://www.article19.org/resources/kenya-world-press-freedom-day-2021/
 ''Kenyan media reporting, meanwhile, has tended to repeat rather than question the government line. There have been few attempts to distill the reality behind the numbers announced at the daily briefings and probe the choices that the government has been making. While public officials have not made the media's job easy, restricting the flow of information and the number of questions they are willing to answer during press briefings, it is also true that journalists have generally been reluctant to delve beyond official narratives. ''Trust and obey'' has seemed to be the overriding message.'' (3) 
 
 *Sources*:
- https://www.article19.org/resources/kenya-journalists-attacked/#:~:text=According%20to%20ARTICLE%2019%20Eastern,about%20by%20the%20coronavirus%20pandemic.&text=The%20collapse%20of%20markets%20for,lockdowns%20brought%20misery%20for%20them
-(1)
-https://allafrica.com/stories/202011060166.html?aa_source=nwsltr-kenya-en
-(2)
-
-https://theconversation.com/new-media-voices-are-telling-kenyas-covid-19-stories-from-the-ground-up-138452
-(3)
-
-https://theconversation.com/how-covid-19-has-worsened-attacks-against-journalists-in-kenya-149296
+ perma.cc/P8KF-8HY8
 
 
-https://www.washingtonpost.com/opinions/2020/05/07/kenya-is-turning-public-health-crisis-into-law-and-order-one/
+perma.cc/6F2V-ZH9Q
 
 
-https://www.rfi.fr/en/africa/20200414-press-freedom-violations-throughout-african-continent-linked-to-covid-19-coverage
+perma.cc/J45K-LPM5
 
-https://www.hrw.org/news/2020/05/04/protect-kenyas-journalists-reporting-covid-19
 
-https://rsf.org/en/kenya
+perma.cc/2WLR-2UXM
 
-https://theconversation.com/as-press-freedom-continues-to-struggle-in-kenya-alternatives-keep-hope-alive-160019
 
-https://www.article19.org/resources/kenya-world-press-freedom-day-2021/
+perma.cc/QVE8-KW3Y
+
+
+perma.cc/EFK7-EW2S
+
+
+perma.cc/EPC4-FEP3
+
+
+perma.cc/ZSZ3-NVLY
+
+
+perma.cc/E875-XW5R
+
+
+perma.cc/LDC6-8WR7
 
 
 
@@ -1317,28 +1256,18 @@ https://www.article19.org/resources/kenya-world-press-freedom-day-2021/
 There are many more attacks on journalists but unrelated to the pandemic. 
 
 *Sources*:
- https://www.article19.org/resources/kenya-journalists-attacked/#:~:text=According%20to%20ARTICLE%2019%20Eastern,about%20by%20the%20coronavirus%20pandemic.&text=The%20collapse%20of%20markets%20for,lockdowns%20brought%20misery%20for%20them
-(1)
-https://allafrica.com/stories/202011060166.html?aa_source=nwsltr-kenya-en
-(2)
+ https://perma.cc/6KYP-6FTD
 
-https://theconversation.com/how-covid-19-has-worsened-attacks-against-journalists-in-kenya-149296
-(3)
+https://perma.cc/C8ZC-8A4B
+https://perma.cc/F8AX-D5K6
 
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://nation.africa/counties/meru/Police-attack-Weru-TV-cameraman-in-Meru-/1183302-5508134-dupwr8/index.html
-
-https://www.hrw.org/news/2020/03/31/kenya-police-abuses-could-undermine-coronavirus-fight
-
-https://www.hrw.org/news/2020/05/04/protect-kenyas-journalists-reporting-covid-19
-
-https://www.the-star.co.ke/news/2020-05-03-press-freedom-day-22-journalists-attacked-between-march-and-april/
-
-https://theconversation.com/as-press-freedom-continues-to-struggle-in-kenya-alternatives-keep-hope-alive-160019
-
-https://www.article19.org/resources/kenya-world-press-freedom-day-2021/
-(10)
+https://perma.cc/3SJV-TGU3
+https://perma.cc/2ZJZ-XGHR
+https://perma.cc/MA52-D6WA
+https://perma.cc/SY6R-GMQE
+https://perma.cc/RMN8-F4ZR
+https://perma.cc/AE2D-93XN
+https://perma.cc/TV63-BVD4
 
 
 
@@ -1386,28 +1315,19 @@ https://www.article19.org/resources/kenya-world-press-freedom-day-2021/
 There are many more attacks on journalists but unrelated to the pandemic. 
 
 *Sources*:
- https://www.article19.org/resources/kenya-journalists-attacked/#:~:text=According%20to%20ARTICLE%2019%20Eastern,about%20by%20the%20coronavirus%20pandemic.&text=The%20collapse%20of%20markets%20for,lockdowns%20brought%20misery%20for%20them
-(1)
-https://allafrica.com/stories/202011060166.html?aa_source=nwsltr-kenya-en
-(2)
+ perma.cc/R2HA-K6AH
 
-https://theconversation.com/how-covid-19-has-worsened-attacks-against-journalists-in-kenya-149296
-(3)
 
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/T3C7-N37P
 
-https://nation.africa/counties/meru/Police-attack-Weru-TV-cameraman-in-Meru-/1183302-5508134-dupwr8/index.html
 
-https://www.hrw.org/news/2020/03/31/kenya-police-abuses-could-undermine-coronavirus-fight
+perma.cc/Y3F6-6LRR
 
-https://www.hrw.org/news/2020/05/04/protect-kenyas-journalists-reporting-covid-19
 
-https://www.the-star.co.ke/news/2020-05-03-press-freedom-day-22-journalists-attacked-between-march-and-april/
+perma.cc/VCJ3-EM9V
 
-https://theconversation.com/as-press-freedom-continues-to-struggle-in-kenya-alternatives-keep-hope-alive-160019
 
-https://www.article19.org/resources/kenya-world-press-freedom-day-2021/
-(10)
+perma.cc/SPE7-XW8F
 
 
 
@@ -1455,17 +1375,10 @@ While the Kenyan Ministry of Health initially approved a trial use of hydroxychl
 Along with 12 other African countries, Kenya is now participating in the ANTICOV trials led by the Drugs for Neglected Diseases Initiative (DNDi), an international non-profit dedicated to finding affordable treatments for diseases (3). The trials began in September and are currently testing the effectiveness of hydroxychloroquine in Covid-19 patients with mild symptoms (4). Because this is a drug trial and not an endorsement by the government, we do not consider it disinformation. 
 
 *Sources*:
- https://www.the-star.co.ke/news/2020-05-26-kenya-stuck-with-379000-tablets-of-controversial-drug-dropped-by-who/
-(1)
-
-https://www.youtube.com/watch?v=Tn4RPdXHgOY
-(2)
-
-https://dndi.org/wp-content/uploads/2020/11/DNDi-ANTICOV-Backgrounder-Nov2020-EN.pdf
-(3)
-
-https://www.sciencemag.org/news/2020/12/first-its-kind-african-trial-tests-common-drugs-prevent-severe-covid-19
-(4)
+ perma.cc/8HRW-X623
+perma.cc/YDY7-Z6A7
+https://web.archive.org/web/20201125065610/https://dndi.org/wp-content/uploads/2020/11/DNDi-ANTICOV-Backgrounder-Nov2020-EN.pdf
+perma.cc/5HSN-QE2P
 
 
 
@@ -1528,36 +1441,26 @@ On the night of 1 June 2020, a homeless man popularly known as Vaite was shot de
 In Q1 and Q2 of 2021, there are a few reports of police brutally enforcing the curfew or other measures, but the situation seems to have improved and there are no widepread reports like the ones in 2020. 
 
 *Sources*:
- https://www.youtube.com/watch?v=5i57ortwbfg
-https://www.bbc.com/news/world-africa-53191358
-https://www.bbc.com/news/av/world-africa-53025934
-https://www.aa.com.tr/en/africa/15-killed-by-kenyan-police-enforcing-covid-19-curfew/1862803
-https://www.article19.org/resources/kenya-coronavirus-pandemic-should-not-be-used-as-excuse-to-stop-protests/
-(1)
-https://www.africanews.com/2020/06/29/kenya-mask-enforcement-protest-leads-to-deaths/
-(2)
-https://www.africanews.com/2020/07/09/kenyans-protest-police-brutality-in-nairobi-yet-again/
-(3)
+ https://perma.cc/MT5X-7EDZ
+https://perma.cc/J8SH-CRJB
+https://perma.cc/7TJF-P5P6
+https://perma.cc/7R34-HWZM
+https://perma.cc/ZSM6-655A
+https://perma.cc/34FG-VJLR
+https://perma.cc/975X-LUZC
+https://perma.cc/QPN5-QQQ8
+https://perma.cc/6SL7-2FHR
+https://perma.cc/8ZM2-WWMG
 
-https://www.theguardian.com/global-development/2020/oct/23/brutal-policing-kenyas-covid-curfew-left-15-dead
-(4)
+https://perma.cc/UU48-HPRA
 
-https://www.standardmedia.co.ke/nairobi/article/2001393465/police-brutality-in-corona-operation-draws-groups-ire
-(5)
+https://perma.cc/HL3V-TQ5X
 
-
-https://www.aljazeera.com/news/2020/04/fury-kenya-police-brutality-coronavirus-curfew-200402125719150.html?xif=;
-
-https://www.the-star.co.ke/news/2020-06-04-6-cops-to-face-murder-assault-charges-while-enforcing-curfew/
-https://www.aljazeera.com/news/2020/04/killed-kenyan-police-enforcing-coronavirus-curfew-hrw-200422144016333.html?utm_source=website&utm_medium=article_page&utm_campaign=read_more_links;
-https://www.hrw.org/news/2020/03/31/kenya-police-abuses-could-undermine-coronavirus-fight
-https://news.trust.org/item/20200928142310-7i546/
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/kenya/
-
-https://www.bbc.com/news/world-africa-56986035
-
-https://newsplex.nation.co.ke/deadlyforce/2021
+https://perma.cc/MA52-D6WA
+https://perma.cc/RX78-LTHB
+https://perma.cc/F85X-AFVL
+https://perma.cc/K9GQ-ZT3Q
+https://perma.cc/FTD8-8UWK
 
 
 
@@ -1599,13 +1502,8 @@ https://newsplex.nation.co.ke/deadlyforce/2021
  The police has been charged and involved in enforcing the Covid-19 measures. A few reports on paramilitary police being involved as well. (1) 
 
 *Sources*:
- https://www.npr.org/sections/coronavirus-live-updates/2020/03/27/822559830/in-kenya-security-forces-attack-ferry-passengers-trying-to-make-coronavirus-curf?t=1591213154556
-(1)
-
-https://www.aljazeera.com/indepth/opinion/problem-army-enforced-lockdowns-time-covid-19-200401101641258.html
-
-https://www.rfi.fr/en/africa/20200422-covid-19-roundup-extra-s-africa-troops-kenyan-abuses-and-ethiopian-airlines-fights-for-survival
-
-https://www.africanews.com/2020/05/10/enforcement-of-coronavirus-lockdown-turns-violent-in-parts-of-africa/
-
-https://www.independent.co.uk/news/world/africa/coronavirus-kenya-lockdown-curfew-police-brutality-deaths-a9468391.html
+ https://perma.cc/C9GF-4TJQ
+https://perma.cc/C74G-MT4D
+https://perma.cc/99P3-NPST
+https://perma.cc/472A-3ZE2
+https://perma.cc/27G5-Y4RX

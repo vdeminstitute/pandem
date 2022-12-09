@@ -48,17 +48,28 @@ Q3 2020, Q4 2020, Q1 2021, Q2 2021: measures have been implemented through amend
 (1) of the Law of Georgia on Public Health, Article 5(c) and Article 6(2)(c) of the Law of Georgia on Personal Data Protection, the Law of Georgia on Healthcare, the Law of Georgia on Social Assistance, the Law of Georgia on Public Procurement, Article 30 of the Law of Georgia on State Budget of Georgia of 2020 and Article 6 of the Law of Georgia on Structure, Powers and Rules of Operation of the Government of Georgia. " Since Georgia has used multiple legal instruments, the Law of Georgia on Public Health is considered the primary legal instrument because it gives the government the power to implement measures related to isolation and quarantine. See the list of all amendments at the bottom of this page: https://matsne.gov.ge/ka/document/view/4877009?publication=114 
 
 *Sources*:
- https://matsne.gov.ge/en/document/view/4830372?publication=0
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-eu-eastern-partner-countries-7759afa3/
+ https://perma.cc/WG22-ZNA6
 
-https://matsne.gov.ge/en/document/download/4877009/8/en/pdf
-https://matsne.gov.ge/ka/document/search?query=StopCoV&type=all&covDocs=1&sort=publishDate_desc
-https://matsne.gov.ge/en/document/download/4877009/8/en/pdf
-https://matsne.gov.ge/ka/document/view/4877009?publication=69
 
-https://ge.usembassy.gov/covid-19-information-on-georgia/
-https://matsne.gov.ge/ka/document/view/5035707?publication=0
-http://gov.ge/index.php?lang_id=GEO&sec_id=541&info_id=77641
+https://perma.cc/RK2Y-KGBS
+
+
+https://perma.cc/9TR4-PT5M
+
+
+https://perma.cc/K3VT-XMGA
+
+
+https://perma.cc/P5X8-PK87
+
+
+https://perma.cc/9UDR-CPTZ
+
+
+https://perma.cc/6MM7-5T2F
+
+
+https://perma.cc/62YP-S53E
 
 
 
@@ -97,9 +108,10 @@ http://gov.ge/index.php?lang_id=GEO&sec_id=541&info_id=77641
 *No comment provided* 
 
 *Sources*:
- https://matsne.gov.ge/en/document/view/4830372?publication=0
+ https://perma.cc/3U2Z-LL83
 
-https://matsne.gov.ge/en/document/download/4877009/8/en/pdf
+
+https://perma.cc/HGK4-L24F
 
 
 
@@ -138,8 +150,10 @@ https://matsne.gov.ge/en/document/download/4877009/8/en/pdf
 *No comment provided* 
 
 *Sources*:
- https://matsne.gov.ge/en/document/view/4830372?publication=0
-https://matsne.gov.ge/en/document/download/4877009/8/en/pdf
+ https://perma.cc/3U2Z-LL83
+
+
+https://perma.cc/HGK4-L24F
 
 
 
@@ -180,9 +194,13 @@ https://matsne.gov.ge/en/document/download/4877009/8/en/pdf
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: The implementation of the legal instrument (the Law of Georgia on Public Health) has not ended at the time of coding. 
 
 *Sources*:
- http://gov.ge/index.php?lang_id=ENG&sec_id=288&info_id=75955
-http://gov.ge/index.php?lang_id=ENG&sec_id=288&info_id=75955
-https://matsne.gov.ge/ka/document/view/4876537?publication=0
+ https://perma.cc/XLG5-9932
+
+
+https://perma.cc/AS2P-LWMS
+
+
+https://perma.cc/ZBU3-UMDY
 
 
 
@@ -228,12 +246,19 @@ Q3 2020:  Initially Ordinance No 322 was declared until 15 July (Art.4), but sin
 Q4 2020, Q1 2021, Q2 2021: The amendments to the Law Georgia on Public Health were extended on 29 December 2020 until 1 July 2021. 
 
 *Sources*:
- http://gov.ge/index.php?lang_id=ENG&sec_id=547&info_id=75682
+ https://perma.cc/2J6F-MXEP
 
-https://matsne.gov.ge/ka/document/view/21784?publication=31
-https://matsne.gov.ge/ka/document/view/4877009?publication=69
 
-https://matsne.gov.ge/ka/document/view/21784?publication=35
+https://perma.cc/NMJ7-QRHF
+
+
+https://perma.cc/V6B6-7C54
+
+
+https://perma.cc/SHX3-66JJ
+
+
+
 
 
 
@@ -276,14 +301,16 @@ Q3 2020:  Initially Ordinance No 322 was declared until 15 July (Art.4), but sin
 Q4 2021, Q1 2021, Q2 2021:  The amendments to the Law Georgia on Public Health were extended on 29 December 2020 until 1 July 2021. 
 
 *Sources*:
- http://gov.ge/index.php?lang_id=ENG&sec_id=547&info_id=75682
-
-https://matsne.gov.ge/ka/document/view/21784?publication=31
-https://matsne.gov.ge/ka/document/view/4877009?publication=69
+ https://perma.cc/2J6F-MXEP
 
 
-https://matsne.gov.ge/ka/document/view/21784?publication=35
+https://perma.cc/NMJ7-QRHF
 
+
+https://perma.cc/V6B6-7C54
+
+
+https://perma.cc/SHX3-66JJ
 
 
 
@@ -327,9 +354,10 @@ https://matsne.gov.ge/ka/document/view/21784?publication=35
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: legislature approval is required for passing amendments to the the Law of Georgia on Public Health. 
 
 *Sources*:
- https://matsne.gov.ge/en/document/view/33472?publication=6
+ https://perma.cc/7ARK-ZP8H
 
-https://matsne.gov.ge/ka/document/view/21784?publication=31
+
+https://perma.cc/2MJJ-FLFV
 
 
 
@@ -373,9 +401,13 @@ https://matsne.gov.ge/ka/document/view/21784?publication=31
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: legislature approved amendments to the Health Law. 
 
 *Sources*:
- https://matsne.gov.ge/en/document/view/33472?publication=6
+ https://perma.cc/4VT9-DLGJ
 
-https://matsne.gov.ge/ka/document/view/21784?publication=31
+
+https://perma.cc/8EZ6-K2F8
+
+
+
 
 
 
@@ -423,14 +455,16 @@ https://matsne.gov.ge/ka/document/view/21784?publication=31
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: Article 45 (3 (1)) of the Law of Georgia on Public Health gives the government the power to temporarily implement measures related to isolation and quarantine. 
 
 *Sources*:
- https://matsne.gov.ge/en/document/view/30346?publication=36
+ https://perma.cc/P2ZU-3XJL
 (1)
-https://matsne.gov.ge/en/document/view/4830372?publication=0
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#G
-https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+
+https://perma.cc/97L3-DBF6
+https://perma.cc/AY7A-X29A
+
+https://perma.cc/9T6F-9JPU
 (2)
 
-https://matsne.gov.ge/ka/document/view/21784?publication=31
+https://perma.cc/X2CF-QJP9
 
 
 
@@ -556,20 +590,41 @@ Q3 2020, Q4 2020: from 9 November vehicular and pedestrian movement in Tbilisi a
 Q1 2021, Q2 2021: Emergency measures were almost uniform. 
 
 *Sources*:
- http://gov.ge/index.php?lang_id=ENG&sec_id=547&info_id=76140
-http://gov.ge/index.php?lang_id=ENG&sec_id=547&info_id=76096
-http://gov.ge/index.php?lang_id=ENG&sec_id=547&info_id=75892
-https://www.gov.uk/foreign-travel-advice/georgia/coronavirus
-https://www.garda.com/crisis24/news-alerts/397366/georgia-authorities-to-introduce-curfew-across-large-cities-due-to-covid-19-from-november-9-update-20
-https://matsne.gov.ge/ka/document/view/5029960?publication=0
-https://matsne.gov.ge/ka/document/view/4896865?publication=0
+ https://perma.cc/2KUN-JYRP
 
-https://www.garda.com/crisis24/news-alerts/479621/georgia-authorities-ease-certain-domestic-covid-19-related-restrictions-as-of-may-17-update-32
-https://www.garda.com/crisis24/news-alerts/469216/georgia-authorities-maintaining-covid-19-related-restrictions-as-of-april-20-update-31
-https://www.garda.com/crisis24/news-alerts/458506/georgia-authorities-continue-to-gradually-ease-domestic-covid-19-restrictions-as-of-march-22-update-30
-https://www.garda.com/crisis24/news-alerts/448096/georgia-authorities-ease-certain-domestic-covid-19-restrictions-as-of-feb-25-international-entry-restrictions-starting-march-1-update-29
-https://www.garda.com/crisis24/news-alerts/438716/georgia-authorities-to-further-ease-domestic-covid-19-restrictions-from-feb-8-update-28
-https://www.garda.com/crisis24/news-alerts/426436/georgia-authorities-maintaining-domestic-coronavirus-restrictions-through-at-least-jan-31-update-26
+
+https://perma.cc/56TY-8QKF
+
+
+https://perma.cc/2DX5-DVZ3
+
+
+https://perma.cc/R4LG-DC8J
+
+
+https://perma.cc/ZX6X-UL6B
+
+
+https://perma.cc/VN8N-VVG8
+
+
+https://perma.cc/PF6S-MF29
+
+
+https://perma.cc/R3G8-RUCF
+
+
+https://perma.cc/56AD-B3RS
+
+
+https://perma.cc/39S6-YC38
+
+
+https://perma.cc/DU7P-AWJS
+
+
+
+https://perma.cc/DR9N-WVC9
 
 
 
@@ -613,7 +668,7 @@ https://www.garda.com/crisis24/news-alerts/426436/georgia-authorities-maintainin
  According to a report by Amnestry International (1, p.6): "Contrary to medical advice, religious gatherings have not been restricted  by law largely to ensure that the Georgian Orthodox Church could conduct liturgies for Orthodox Easter. During Palm Sunday and Easter celebrations on 12 April and 19 April in Georgia, several Orthodox churches hosted dozens of worshippers. All other religious groups in Georgia have voluntarily agreed to close their places of worship to the public. On 15 April, the head of the muslim community of Georgia, Mirtaghi Asadov, declared that when Ramadan begins, they will also open mosques and expect that the government will treat them with the same understanding as they have shown to the Orthodox church. Two days after this statement, Mirtaghi Asadov was summoned for questioning to the State Security Service of Georgia in connection with an attempt to “sabotage” the state." Since both Easter and Ramadan took place in the first time period (Q2 2020), discrim is coded as 0 in Q3 2020. No information on discrimination found in Q4 2020, Q1 2021, Q2 2021. 
 
 *Sources*:
- https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
+ https://perma.cc/A7DY-GZVL
 (1)
 
 
@@ -663,7 +718,7 @@ https://www.garda.com/crisis24/news-alerts/426436/georgia-authorities-maintainin
  No measures violating non-derogable rights found 
 
 *Sources*:
- https://matsne.gov.ge/en/document/view/4830372?publication=0
+ https://perma.cc/3U2Z-LL83
 
 
 
@@ -707,11 +762,19 @@ https://www.garda.com/crisis24/news-alerts/426436/georgia-authorities-maintainin
  No evidence of measures limiting media freedom found 
 
 *Sources*:
- https://matsne.gov.ge/en/document/view/4830372?publication=0
-https://matsne.gov.ge/ka/document/view/4877009?publication=69
-https://ipi.media/georgia/
+ https://perma.cc/NTG6-NR58
 
-https://rsf.org/en/georgia
+
+https://perma.cc/7V2Z-2JF2
+
+
+https://perma.cc/CS4X-QENH
+
+
+https://perma.cc/62FX-G8PQ
+
+
+
 
 
 
@@ -831,10 +894,13 @@ https://rsf.org/en/georgia
  official website with information on Covid-19; no reports on limitations on media reporting on Covid-19 found. 
 
 *Sources*:
- https://stopcov.ge/
-https://ipi.media/georgia/
-
-https://rsf.org/en/georgia
+ https://perma.cc/6RM4-QN7V
+
+
+perma.cc/P4CD-C2M8
+
+
+https://perma.cc/V84E-5GM4
 
 
 
@@ -876,9 +942,10 @@ https://rsf.org/en/georgia
  No information on limitation of media reporting on the government's response found 
 
 *Sources*:
- https://ipi.media/georgia/
+ perma.cc/P4CD-C2M8
 
-https://rsf.org/en/georgia
+
+https://perma.cc/V84E-5GM4
 
 
 
@@ -920,9 +987,10 @@ https://rsf.org/en/georgia
  No information found on instances of limitations on media reporting on non-Covid-19 related news but with reference to the pandemic. 
 
 *Sources*:
- https://ipi.media/georgia/
+ perma.cc/P4CD-C2M8
 
-https://rsf.org/en/georgia
+
+https://perma.cc/V84E-5GM4
 
 
 
@@ -965,9 +1033,10 @@ https://rsf.org/en/georgia
  According to Art 13 (2) of the Ordinance No 181 from 23 March 2020 "On the Approval of Measures to be Implemented in connection with the Prevention of the Spread of the Novel Coronavirus (Covid-19) in Georgia", "The timeframe established by the legislation of Georgia for releasing public information and personal information shall be suspended" for the duration of the state of emergency (1).  It's a case of suspension of freedom of information requests where under a state of emergency the deadlines for releasing public information were suspended. If hypothetical journalists requested information from public authorities, they would not be obliged to reply in a certain time frame. Since the legislation states that the measures apply for the duration of the state of emergency (that ended on 22 May), meinf is coded as 1 only during Q2 2020 period. 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/?location=45&issue=&date=&type=
-https://matsne.gov.ge/en/document/view/4830610?impose=parallelEn&fullscreen=1&publication=0
+ perma.cc/UB7G-ZQRJ
+https://perma.cc/97L3-DBF6
 (1)
+
 
 
 
@@ -1009,11 +1078,16 @@ https://matsne.gov.ge/en/document/view/4830610?impose=parallelEn&fullscreen=1&pu
  No information found 
 
 *Sources*:
- https://ipi.media/georgia/
+ https://perma.cc/QS3N-N6H2
 
-https://rsf.org/en/georgia
-https://www.amnesty.org/en/countries/europe-and-central-asia/georgia/
-https://www.hrw.org/europe/central-asia/georgia
+
+https://perma.cc/E5HL-RAFZ
+
+
+https://perma.cc/T2QR-PLZT
+
+
+https://perma.cc/U335-6JLD
 
 
 
@@ -1055,11 +1129,11 @@ https://www.hrw.org/europe/central-asia/georgia
  No information found 
 
 *Sources*:
- https://ipi.media/georgia/
+ perma.cc/P4CD-C2M8
 
-https://rsf.org/en/georgia
-https://www.amnesty.org/en/countries/europe-and-central-asia/georgia/
-https://www.hrw.org/europe/central-asia/georgia
+perma.cc/72QX-DFKP
+perma.cc/V84E-5GM4
+perma.cc/7KD8-T6JG
 
 
 
@@ -1103,9 +1177,16 @@ https://www.hrw.org/europe/central-asia/georgia
  official website with information on Covid-19; no reports on disinformation found 
 
 *Sources*:
- https://stopcov.ge/
-https://ipi.media/georgia/
-https://rsf.org/en/georgia
+ perma.cc/WCC8-GQ3W
+
+
+https://perma.cc/N885-7XTP
+
+
+https://perma.cc/YJR4-6C8N
+
+
+
 
 
 
@@ -1149,8 +1230,10 @@ https://rsf.org/en/georgia
  No instances of police violence in the execution of the emergency measures found since 11 March 2020. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/georgia/
-https://www.hrw.org/europe/central-asia/georgia
+ perma.cc/2FPV-EV7N
+
+
+perma.cc/SBJ8-Y6R8
 
 
 
@@ -1192,5 +1275,7 @@ https://www.hrw.org/europe/central-asia/georgia
  The military was involved in controling checkpoints and enforcing quarantine during March-May 2020. 
 
 *Sources*:
- https://mod.gov.ge/en/news/read/7858/control-checkpoints-abolished-at-marneuli-municipality
-https://mod.gov.ge/en/news/read/7848/quarantine-restrictions-set-in-gvantkiti-terjola-municipality-
+ https://perma.cc/2SFG-7JGY
+
+
+https://perma.cc/2AQD-U9F6

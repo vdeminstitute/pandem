@@ -45,22 +45,31 @@
  Hong Kong has a type of state of emergency legislation called Emergency Regulations Ordinance (for example used to quell protests in the Fall of 2019), but this has not been used in relation to Covid-19. Instead, the government imposed a number of measures between January and March in 2020 that were based on existing statutes, and on March 27 2020 issued new regulation under the Prevention and Control of Disease Ordinance. On March 27 2020, Hong Kong authorities announced a new regulation called 599G Regulation that controls freedom of assembly, where they can ban any public gatherings over four people (the restriction on gatherings has since changed over time, for instance being at two people at times) under a specified period of no more than 14 days. Within this legislation, authorities are also given extended powers such as entering places without warrants. The overarching and principal legal instrument used to enact these measures has been the Prevention and Control of Disease Ordinance, which was in place before the pandemic. It has been used throughout the whole pandemic to issue measures and restrictions. This is therefore coded 4 for all periods. 
 
 *Sources*:
- https://www.elegislation.gov.hk/hk/cap599G!en?xpid=ID_1585378559003_001
+ https://perma.cc/8FCW-A3TV
 
-https://www.elegislation.gov.hk/hk/cap599
-https://verfassungsblog.de/fear-of-unaccountability-vs-fear-of-a-pandemic-Covid-19-in-hong-kong/
 
-https://www.garda.com/crisis24/news-alerts/327086/hong-kong-government-bans-public-gatherings-from-march-29-update-17
+https://perma.cc/Z7M8-GVQT
 
-https://www.coronavirus.gov.hk/eng/social_distancing-faq.html
 
-https://www.lexology.com/library/detail.aspx?g=3dec8ab8-231d-437c-aedd-490e753f807a
+https://perma.cc/5N73-NT6B
 
-https://www.coronavirus.gov.hk/eng/social_distancing-faq.html
 
-https://www.info.gov.hk/gia/general/202010/27/P2020102700873.htm
+https://perma.cc/9GD2-TGYT
 
-https://verfassungsblog.de/surviving-executive-led-pandemic-control-in-executive-led-hong-kong/ 
+
+https://perma.cc/S75M-7JC4
+
+
+https://perma.cc/ZYZ5-LAWE
+
+
+https://perma.cc/S75M-7JC4
+
+
+https://perma.cc/5WNF-PRBE
+
+
+https://perma.cc/5N73-NT6B
 
 
 
@@ -99,9 +108,13 @@ https://verfassungsblog.de/surviving-executive-led-pandemic-control-in-executive
 *No comment provided* 
 
 *Sources*:
- https://www.elegislation.gov.hk/hk/cap599G!en?xpid=ID_1585378559003_001
-https://verfassungsblog.de/fear-of-unaccountability-vs-fear-of-a-pandemic-Covid-19-in-hong-kong/
-https://verfassungsblog.de/surviving-executive-led-pandemic-control-in-executive-led-hong-kong/
+ https://perma.cc/6QSX-4XC6
+
+
+https://perma.cc/P2A5-JGEB
+
+
+https://perma.cc/P687-7TUL
 
 
 
@@ -140,10 +153,13 @@ https://verfassungsblog.de/surviving-executive-led-pandemic-control-in-executive
  The Prevention and Control of Disease Ordinance is the main legal instrument and was in place before the pandemic, and thus has no start date as such. However, the date reported here is for the first major restriction relating to democratic rights and freedoms imposed, which was the 599G amendment that restricted gatherings and freedom of movement significantly. This was announced on March 27 2020 and came into effect March 29 2020. 
 
 *Sources*:
- https://www.elegislation.gov.hk/hk/cap599G!en?xpid=ID_1585378559003_001
-https://verfassungsblog.de/fear-of-unaccountability-vs-fear-of-a-pandemic-Covid-19-in-hong-kong/
-https://www.garda.com/crisis24/news-alerts/327086/hong-kong-government-bans-public-gatherings-from-march-29-update-17
- 
+ https://perma.cc/6QSX-4XC6
+
+
+https://perma.cc/P2A5-JGEB
+
+
+https://perma.cc/Z7GB-TGCJ
 
 
 
@@ -182,11 +198,19 @@ https://www.garda.com/crisis24/news-alerts/327086/hong-kong-government-bans-publ
  The implementation of the legal instrument has not ended by time of coding. 
 
 *Sources*:
- https://www.elegislation.gov.hk/hk/cap599G!en?xpid=ID_1585378559003_001
-https://verfassungsblog.de/fear-of-unaccountability-vs-fear-of-a-pandemic-Covid-19-in-hong-kong/
-https://www.coronavirus.gov.hk/eng/social_distancing-faq.html
-https://www.lexology.com/library/detail.aspx?g=3dec8ab8-231d-437c-aedd-490e753f807a
-https://verfassungsblog.de/surviving-executive-led-pandemic-control-in-executive-led-hong-kong/ 
+ https://perma.cc/C6LL-L3F4
+
+
+https://perma.cc/QY77-SWYT
+
+
+https://perma.cc/VFK7-N8R9
+
+
+https://perma.cc/4YGJ-TYMV
+
+
+https://perma.cc/29TS-8VT4
 
 
 
@@ -228,12 +252,22 @@ https://verfassungsblog.de/surviving-executive-led-pandemic-control-in-executive
  Hong Kong have taken several measures under the Prevention and Control of Disease Ordinance. The main one in terms of affecting people’s democratic rights and every day life, and also the one addressed in terms of the start date for the regulations, is the 599G amendment that controls freedom of assembly and movement.  Initially, the 599G regulation was set to exist for three months (ending on June 29 2020), but was then extended and the expiration date for the regulation was set to 2020-12-31. It has again been extended and has the current end date of 2021-09-30. Measures taken within it, such as keeping or easing limitations on public gatherings, are made with shorter time intervals however, often in place around one week at a time. Other measures, such as closing business, has also had time limits, and no major restrictions imposed has been found to not have time limits in place. 
 
 *Sources*:
- https://www.elegislation.gov.hk/hk/cap599G!en?xpid=ID_1585378559003_001
-https://verfassungsblog.de/fear-of-unaccountability-vs-fear-of-a-pandemic-Covid-19-in-hong-kong/
-https://www.coronavirus.gov.hk/eng/social_distancing-faq.html
-https://www.lexology.com/library/detail.aspx?g=3dec8ab8-231d-437c-aedd-490e753f807a
-https://verfassungsblog.de/surviving-executive-led-pandemic-control-in-executive-led-hong-kong/
-https://www.elegislation.gov.hk/hk/cap599
+ https://perma.cc/TAV2-XN6A
+
+
+https://perma.cc/AQ67-3MGK
+
+
+https://perma.cc/WGQ8-CSSQ
+
+
+https://perma.cc/XQQ7-9DKH
+
+
+https://perma.cc/7KGB-EGA4
+
+
+https://perma.cc/9978-5UVH
 
 
 
@@ -272,12 +306,22 @@ https://www.elegislation.gov.hk/hk/cap599
  Hong Kong have taken several measures under the Prevention and Control of Disease Ordinance. The main one in terms of affecting people’s democratic rights and every day life, and also the one addressed in terms of the start date for the regulations, is the 599G amendment that controls freedom of assembly and movement.  Initially, the 599G regulation was set to exist for three months (ending on June 29 2020), but was then extended and the expiration date for the regulation was set to 2020-12-31. It has again been extended and has the current end date of 2021-09-30. Measures taken within it, such as keeping or easing limitations on public gatherings, are made with shorter time intervals however, often in place around one week at a time. Other measures, such as closing business, has also had time limits, and no major restrictions imposed has been found to not have time limits in place. 
 
 *Sources*:
- https://www.elegislation.gov.hk/hk/cap599G!en?xpid=ID_1585378559003_001
-https://verfassungsblog.de/fear-of-unaccountability-vs-fear-of-a-pandemic-Covid-19-in-hong-kong/
-https://www.coronavirus.gov.hk/eng/social_distancing-faq.html
-https://www.lexology.com/library/detail.aspx?g=3dec8ab8-231d-437c-aedd-490e753f807a
-https://verfassungsblog.de/surviving-executive-led-pandemic-control-in-executive-led-hong-kong/
-https://www.elegislation.gov.hk/hk/cap599
+ https://perma.cc/TAV2-XN6A
+
+
+https://perma.cc/AQ67-3MGK
+
+
+https://perma.cc/WGQ8-CSSQ
+
+
+https://perma.cc/XQQ7-9DKH
+
+
+https://perma.cc/7KGB-EGA4
+
+
+https://perma.cc/9978-5UVH
 
 
 
@@ -319,12 +363,16 @@ https://www.elegislation.gov.hk/hk/cap599
  The Prevention and Control of Disease Ordinance gives the government the right to execute restrictions without parliament first approving these, and the law itself was in place before the pandemic. Therefore, the legislature need not and has not approved (or disapproved) the legal instrument or restrictions taken under it. 
 
 *Sources*:
- https://www.elegislation.gov.hk/hk/cap599G!en?xpid=ID_1585378559003_001
+ https://perma.cc/9N5T-HFGB
 
-https://www.elegislation.gov.hk/hk/cap599
-https://verfassungsblog.de/fear-of-unaccountability-vs-fear-of-a-pandemic-Covid-19-in-hong-kong/
 
-https://verfassungsblog.de/surviving-executive-led-pandemic-control-in-executive-led-hong-kong/
+https://perma.cc/3W3F-5ZN8
+
+
+https://perma.cc/L68W-5WT6
+
+
+https://perma.cc/3UVR-QM8F
 
 
 
@@ -366,12 +414,16 @@ https://verfassungsblog.de/surviving-executive-led-pandemic-control-in-executive
  The Prevention and Control of Disease Ordinance gives the government the right to execute restrictions without parliament first approving these, and the law itself was in place before the pandemic. Therefore, the legislature need not and has not approved (or disapproved) the legal instrument or restrictions taken under it. 
 
 *Sources*:
- https://www.elegislation.gov.hk/hk/cap599G!en?xpid=ID_1585378559003_001
+ https://perma.cc/9N5T-HFGB
 
-https://www.elegislation.gov.hk/hk/cap599
-https://verfassungsblog.de/fear-of-unaccountability-vs-fear-of-a-pandemic-Covid-19-in-hong-kong/
 
-https://verfassungsblog.de/surviving-executive-led-pandemic-control-in-executive-led-hong-kong/
+https://perma.cc/3W3F-5ZN8
+
+
+https://perma.cc/L68W-5WT6
+
+
+https://perma.cc/3UVR-QM8F
 
 
 
@@ -421,24 +473,34 @@ The parliament has also continued to work during the pandemic, and also has some
 
 *Sources*:
  [1]
-https://www.elegislation.gov.hk/hk/cap241
+https://perma.cc/47ZU-CDD6
 
-https://www.elegislation.gov.hk/hk/cap599G!en?xpid=ID_1585378559003_001
 
-https://www.elegislation.gov.hk/hk/cap599
-https://verfassungsblog.de/fear-of-unaccountability-vs-fear-of-a-pandemic-Covid-19-in-hong-kong/
+https://perma.cc/RA3W-HWED
 
-https://www.coronavirus.gov.hk/eng/social_distancing-faq.html
 
-https://www.lexology.com/library/detail.aspx?g=3dec8ab8-231d-437c-aedd-490e753f807a
+https://perma.cc/EUE6-HNYZ
 
-https://www.coronavirus.gov.hk/eng/social_distancing-faq.html
 
-https://www.info.gov.hk/gia/general/202010/27/P2020102700873.htm
+https://perma.cc/6SS3-2G7F
 
-https://www.coronavirus.gov.hk/eng/social_distancing-faq.html
-https://verfassungsblog.de/surviving-executive-led-pandemic-control-in-executive-led-hong-kong/
- 
+
+https://perma.cc/WNF8-JU3D
+
+
+https://perma.cc/NXH7-84TZ
+
+
+https://perma.cc/WNF8-JU3D
+
+
+https://perma.cc/H848-CZ6T
+
+
+https://perma.cc/WNF8-JU3D
+
+
+https://perma.cc/8VY5-TVWJ
 
 
 
@@ -560,12 +622,16 @@ https://verfassungsblog.de/surviving-executive-led-pandemic-control-in-executive
  No sub-national variation in the emergency measures has been found. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alert-full-history/d5vLuQaeAu3bRjikg/hong-kong-maximum-health-warning-level-implemented-january-25
-https://www.acaps.org/covid19-government-measures-dataset
-https://verfassungsblog.de/fear-of-unaccountability-vs-fear-of-a-pandemic-Covid-19-in-hong-kong/
+ https://perma.cc/8TZJ-BX67
 
-https://verfassungsblog.de/surviving-executive-led-pandemic-control-in-executive-led-hong-kong/
- 
+
+https://perma.cc/AUR6-TPPM
+
+
+https://perma.cc/B3FK-2TVY
+
+
+https://perma.cc/Q6EA-MQ3B
 
 
 
@@ -609,11 +675,10 @@ https://verfassungsblog.de/surviving-executive-led-pandemic-control-in-executive
  Human Rights Watch and Amnesty International have not reported any discrimination within the response to Covid-19, and no other indications of such discrimination has been found. Important to note is that on April 30 2021, Hong Kong introduced some discriminatory measures toward migrant workers. They have been targeted by authorities as being of “high risk” to spread the virus due to their habit of “mingling” with other migrant workers. As a result, the government has ordered the migrant worker group to be mandatorily tested, as well as requiring them to get vaccinated or – if not wanting to get vaccinated – leave the country. Neither testing nor such vaccination policies has been directed to any other group of the population, and NY Times reports that there is no basis in these measures in terms of the extent of viral spread among migrant workers compared to other social groups. The requirement of vaccinations was whitdrawn a couple days later due to protests from parts of the population and officials from other countries, but the testing requirement remained and continues even though the first round of such testing showed a very low level of infections. This, however, is not regarded as discrimination within this coding as it does not affect migrant groups democratic rights such as movement, assembly etc. differently than other people in Hong Kong. Thus, this is coded as 0 for all time periods, although discrimination outside of the scope here considered has been going on. 
 
 *Sources*:
- https://www.hrw.org/news?tags[]=5629
-https://www.amnesty.org/en/search/?q=Hong+Kong
-https://www.nytimes.com/2021/05/18/world/asia/hong-kong-domestic-worker-discrimination.html
-
-https://www.theguardian.com/world/2021/may/03/hong-kong-plan-to-force-covid-vaccines-on-foreign-domestic-workers-sparks-alarm
+ https://perma.cc/GF9A-HNY8
+https://perma.cc/6W2R-XUS4
+https://perma.cc/B8HP-ZKLJ
+https://perma.cc/BGX7-2X5B
 
 
 
@@ -662,13 +727,16 @@ https://www.theguardian.com/world/2021/may/03/hong-kong-plan-to-force-covid-vacc
  While Hong Kong authorities have acted with repression in terms of many measures taken toward the pro-democracy movement and protests, especially under the National Security Law imposed by the Chinese government on June 30 2020, no evidence has been found of any violations of non-derogable rights in their Covid-19 measures, and this is therefore coded 0. Note also that the National Security law is not connected to the Covid-19 response. 
 
 *Sources*:
- https://www.globalasia.org/v15no2/focus/how-Covid-19-has-been-battering-human-rights-an-asia-pacific-perspective_rajiv-narayan
+ https://perma.cc/BKU9-MHE6
 
-https://www.hrw.org/news/2020/07/29/china-new-hong-kong-law-roadmap-repression
 
-https://www.amnesty.org/en/latest/news/2020/07/hong-kong-national-security-law-10-things-you-need-to-know/
+https://perma.cc/79X2-N49R
 
-https://www.hrw.org/news?tags[]=5629https://www.amnesty.org/en/search/?q=Hong+Kong&sort=date
+
+https://perma.cc/228Q-GMTJ
+
+
+https://perma.cc/S6PV-NNHZ
 
 
 
@@ -712,10 +780,16 @@ https://www.hrw.org/news?tags[]=5629https://www.amnesty.org/en/search/?q=Hong+Ko
  While there is legislation in place that can potentially severely limit media freedom (especially the National Security Law that came into effect on June 30 2020), no evidence has been found of any de jure limitations to media under the Covid-19 response in Hong Kong and this is therefore coded as 0. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B68%5D=68
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CFrom%20Our%20Network&country=China
-https://cpj.org/asia/china/
-https://hongkongfp.com/2021/05/03/explainer-the-decline-of-hong-kongs-press-freedom-under-the-national-security-law/
+ https://perma.cc/Q9AT-7WLK
+
+
+https://perma.cc/NN8Q-NUKX
+
+
+https://perma.cc/NE5V-HNRG
+
+
+https://perma.cc/S5AS-FNR5
 
 
 
@@ -754,11 +828,13 @@ https://hongkongfp.com/2021/05/03/explainer-the-decline-of-hong-kongs-press-free
  No de-jure limits on media freedom in the emergency response. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B68%5D=68
+ https://perma.cc/Q9AT-7WLK
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CFrom%20Our%20Network&country=China
 
-https://cpj.org/asia/china/
+https://perma.cc/NN8Q-NUKX
+
+
+https://perma.cc/NE5V-HNRG
 
 
 
@@ -797,11 +873,13 @@ https://cpj.org/asia/china/
  No de-jure limits on media freedom in the emergency response. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B68%5D=68
+ https://perma.cc/Q9AT-7WLK
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring%2CFrom%20Our%20Network&country=China
 
-https://cpj.org/asia/china/
+https://perma.cc/NN8Q-NUKX
+
+
+https://perma.cc/NE5V-HNRG
 
 
 
@@ -843,20 +921,28 @@ https://cpj.org/asia/china/
  There are several restrictions to media in Hong Kong, especially through the National Security Law imposed on June 30 2020. In Q2 of 2020, the media in Hong Kong faced multiple limitations in its reporting, for example illustrated by the arrest of media owner Jimmy Lai in April 2020. While these restrictions mainly pertained to the pro-democracy protests, it is here regarded as constituting such overall limitations that Covid-19 reporting should be affected as well. And after the implementation of the National Security Law, which criminalizes speech and press that could "interfere", "disrupt" or "undermine" the Hong Kong and Chinese government, this constitutes an even greater de facto limitation on media. The implementation of this has continued throughout the coded period, and the media freedom in Hong Kong remains very limited. This is therefore coded as 1 for all periods. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/07/hong-kong-national-security-law-10-things-you-need-to-know/
+ https://perma.cc/3W2J-MVVC
 
-https://www.hrw.org/news/2020/08/11/china/hong-kong-mass-arrests-under-security-law
 
-https://rsf.org/en/news/rsf-decries-hong-kong-media-owners-arbitrary-arrest
+https://perma.cc/98KZ-52WN
 
-https://rsf.org/en/news/hong-kong-under-national-security-law-no-journalist-world-free-chinas-violent-retribution
 
-https://drive.google.com/file/d/1JBoaxj-J9TfLaLVfxLkq_9-JkwZZewmF/view
+https://perma.cc/A6W2-M45A
 
-https://ifex.org/hong-kong-media-in-2020-freedom-in-danger/
 
-https://rsf.org/en/news/hong-kong-government-adopts-accreditation-policy-discriminates-independent-media-and-0
-https://hongkongfp.com/2021/05/03/explainer-the-decline-of-hong-kongs-press-freedom-under-the-national-security-law/
+https://perma.cc/6ZJB-MX8V
+
+
+https://perma.cc/6KHZ-F6Q6
+
+
+https://perma.cc/KVR6-WDEM
+
+
+https://perma.cc/9RXT-QJEV
+
+
+https://perma.cc/G4B8-UJNF
 
 
 
@@ -898,21 +984,31 @@ https://hongkongfp.com/2021/05/03/explainer-the-decline-of-hong-kongs-press-free
  There are several restrictions to media in Hong Kong, especially through the National Security Law imposed on June 30 2020. In Q2 of 2020, the media in Hong Kong faced multiple limitations in its reporting, for example illustrated by the arrest of media owner Jimmy Lai in April 2020. While these restrictions mainly pertained to the pro-democracy protests, it is here regarded as constituting such overall limitations that reporting on the governmetns response to Covid-19 should be affected as well. And after the implementation of the National Security Law, which criminalizes speech and press that could "interfere", "disrupt" or "undermine" the Hong Kong and Chinese government, this constitutes an even greater de facto limitation on media. The implementation of this has continued throughout the coded period, and the media freedom in Hong Kong remains very limited. This is therefore coded as 1 for all periods. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/07/hong-kong-national-security-law-10-things-you-need-to-know/
+ https://perma.cc/3W2J-MVVC
 
-https://www.hrw.org/news/2020/08/11/china/hong-kong-mass-arrests-under-security-law
 
-https://rsf.org/en/news/rsf-decries-hong-kong-media-owners-arbitrary-arrest
+https://perma.cc/98KZ-52WN
 
-https://rsf.org/en/news/hong-kong-under-national-security-law-no-journalist-world-free-chinas-violent-retribution
 
-https://drive.google.com/file/d/1JBoaxj-J9TfLaLVfxLkq_9-JkwZZewmF/view
+https://perma.cc/A6W2-M45A
 
-https://ifex.org/hong-kong-media-in-2020-freedom-in-danger/
 
-https://rsf.org/en/news/hong-kong-government-adopts-accreditation-policy-discriminates-independent-media-and-0
-https://hongkongfp.com/2021/05/03/explainer-the-decline-of-hong-kongs-press-freedom-under-the-national-security-law/
-https://cpj.org/tags/hongkong/
+https://perma.cc/6ZJB-MX8V
+
+
+https://perma.cc/6KHZ-F6Q6
+
+
+https://perma.cc/KVR6-WDEM
+
+
+https://perma.cc/9RXT-QJEV
+
+
+https://perma.cc/G4B8-UJNF
+
+
+https://perma.cc/7C89-Q7TW
 
 
 
@@ -954,12 +1050,22 @@ https://cpj.org/tags/hongkong/
  There are several restrictions to media in Hong Kong, especially through the National Security Law imposed on June 30 2020. However, no evidence has been found that the media has faced limitations on reporting that has been referenced with Covid-19, and this is therefore coded 0 for all periods. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/07/hong-kong-national-security-law-10-things-you-need-to-know/
-https://www.hrw.org/news/2020/08/11/china/hong-kong-mass-arrests-under-security-law
-https://rsf.org/en/news/rsf-decries-hong-kong-media-owners-arbitrary-arrest
-https://rsf.org/en/news/hong-kong-under-national-security-law-no-journalist-world-free-chinas-violent-retribution
-https://hongkongfp.com/2021/05/03/explainer-the-decline-of-hong-kongs-press-freedom-under-the-national-security-law/
-https://cpj.org/tags/hongkong/
+ https://perma.cc/XNQ3-YD7D
+
+
+https://perma.cc/A2E3-3KXL
+
+
+https://perma.cc/9FP3-9BEF
+
+
+https://perma.cc/V5LL-7PYR
+
+
+https://perma.cc/4AYB-XWZD
+
+
+https://perma.cc/EE32-LTKM
 
 
 
@@ -1002,15 +1108,19 @@ https://cpj.org/tags/hongkong/
  The National Security Law impedes access to information in several ways, but no evidence has been found that access to information on Covid-19 related issues has been limited, nor has any accusations of such limitations been found. This is therefore coded 0 for all periods. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B68%5D=68
+ https://perma.cc/GZ3S-DTN4
 
 
-https://ipi.media/countries-see-all/?type_of_content=News+and+Monitoring%2CFrom+Our+Network&country=China&paged=4
+https://perma.cc/LGB2-FTK5
 
-https://cpj.org/asia/china/page/2/
 
-https://rsf.org/en/news/hong-kong-government-adopts-accreditation-policy-discriminates-independent-media-and-0
-https://cpj.org/tags/hongkong/
+https://perma.cc/47KF-8669
+
+
+https://perma.cc/YP7E-6B64
+
+
+https://perma.cc/H4TM-AJQS
 
 
 
@@ -1052,12 +1162,22 @@ https://cpj.org/tags/hongkong/
  There are several cases of verbal harassment of journalist in Hong Kong, but no such cases have been found in relation to them reporting on Covid-19. Rather, such harassment seem to be related to quelling the pro-democracy movement, and harassment has been made with reference to the National Security Law that is not linked to Covid-19 measures. This is therefore coded 0. 
 
 *Sources*:
- https://cpj.org/2020/05/hong-kong-police-attack-and-detain-journalists-cov-1/
-https://rsf.org/en/thematique/internet?countries%5B68%5D=68
-https://ipi.media/countries-see-all/?type_of_content=News+and+Monitoring%2CFrom+Our+Network&country=China&paged=4
-https://cpj.org/asia/china/page/1/
-https://www.hrw.org/news/2020/08/11/china/hong-kong-mass-arrests-under-security-law
-https://cpj.org/tags/hongkong/
+ https://perma.cc/QY3E-WVC6
+
+
+https://perma.cc/58XP-7SD9
+
+
+https://perma.cc/QJ49-XAYB
+
+
+https://perma.cc/2XR5-72AP
+
+
+https://perma.cc/MB4K-LU7W
+
+
+https://perma.cc/RU7Q-3WDH
 
 
 
@@ -1099,12 +1219,22 @@ https://cpj.org/tags/hongkong/
  There are several cases of physical harassment of journalist in Hong Kong, but no such cases have been found in relation to them reporting on Covid-19. Rather, such harassment seem to be related to quelling the pro-democracy movement, and the measures have been taken under the non-Covid-19 related National Security Law. This is therefore coded 0. 
 
 *Sources*:
- https://cpj.org/2020/05/hong-kong-police-attack-and-detain-journalists-cov-1/
-https://rsf.org/en/thematique/internet?countries%5B68%5D=68
-https://ipi.media/countries-see-all/?type_of_content=News+and+Monitoring%2CFrom+Our+Network&country=China&paged=4
-https://cpj.org/asia/china/page/1/
-https://www.hrw.org/news/2020/08/11/china/hong-kong-mass-arrests-under-security-law
-https://cpj.org/tags/hongkong/
+ https://perma.cc/YE4G-X2J3
+
+
+https://perma.cc/H32K-CRJQ
+
+
+https://perma.cc/H849-94E3
+
+
+https://perma.cc/5JDM-GRJ4
+
+
+https://perma.cc/V8CE-2BAQ
+
+
+https://perma.cc/RS84-CUBG
 
 
 
@@ -1148,8 +1278,10 @@ https://cpj.org/tags/hongkong/
  The information provided by the Hong Kong government is in line with WHO, and no evidence has been found of any spreading of disinformation by government officials. 
 
 *Sources*:
- https://www.coronavirus.gov.hk/eng/covid19.html
-https://www.coronavirus.gov.hk/eng/index.html
+ https://perma.cc/2PVH-H7EM
+
+
+https://perma.cc/FWL6-3WZK
 
 
 
@@ -1193,13 +1325,16 @@ https://www.coronavirus.gov.hk/eng/index.html
  There are several reports of law enforcement cracking down on protesters and pro-democracy organizations, but none of these have been found to be in relation to Covid-19 restrictions, or legitimized by them. Rather, such measures have been referenced to other legal instruments, not least the National Security Law when it came into effect on 2020-06-30. No evidence has thus been found that any police violence has occured in relation to the Covid-19 measures, and this is therefore coded as 0. 
 
 *Sources*:
- https://www.hrw.org/news?tags[]=5629
-https://www.hrw.org/news/2020/08/11/china/hong-kong-mass-arrests-under-security-law
+ https://perma.cc/GC4V-G4JL
 
-https://www.amnesty.org/en/search/?q=Hong+Kong&sort=date
 
-https://www.hrw.org/news/2020/11/19/still-no-accountability-hong-kongs-police-force
-https://www.amnesty.org/en/latest/news/2021/01/hong-kong-mass-arrest-of-opposition-figures-highlights-repressive-power-of-national-security-law/
+https://perma.cc/8DWX-G97Q
+
+
+https://perma.cc/UP7M-TF6G
+
+
+https://perma.cc/4KZR-TB9H
 
 
 
@@ -1241,4 +1376,4 @@ https://www.amnesty.org/en/latest/news/2021/01/hong-kong-mass-arrest-of-oppositi
  Acaps has not recorded any military deployment in Hong Kong, and no other indication has been found that the military has been used to enforce Covid-19 measures. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
+ https://perma.cc/QM5K-H7PP

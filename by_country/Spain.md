@@ -45,21 +45,12 @@
  The state of emergency was declared via the Royal Decree nº 463/2020 from March 14 2020, which ended on June 21 2020. On June 9 2020, the Royal Decree-Law 21/2020 defined measures to be implemented with the gradual lift of the measures defined in the state of emergency. On October 25, 2020, a new state of emergency was declared via the Royal Decree nº 926/2020. On November 3, 2020 an extension of the state of emergency was approved. On May 9, 2021, this national state of emergency ended. 
 
 *Sources*:
- [1]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-3692
-
-[2]
-https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5895
-
-[3]
-https://www.lamoncloa.gob.es/covid-19/Paginas/estado-de-alarma.aspx
-
-[4]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-12898
-[5]
-https://www.lamoncloa.gob.es/consejodeministros/Paginas/enlaces/031120-enlace-alarma.aspx
-[6]
-https://www.france24.com/en/europe/20210509-it-s-like-new-year-s-spain-ends-covid-19-state-of-emergency
+ [1]	perma.cc/FEZ3-UQEF
+[2]	perma.cc/E2C3-XV53
+[3]	perma.cc/4EYL-TW4M
+[4]	perma.cc/Q9K6-J2N2
+[5]	perma.cc/HGN5-FWZN
+[6]	perma.cc/G8QE-6LBG
 
 
 
@@ -98,19 +89,11 @@ https://www.france24.com/en/europe/20210509-it-s-like-new-year-s-spain-ends-covi
 *No comment provided* 
 
 *Sources*:
- [1]
-https://www.boe.es/buscar/act.php?id=BOE-A-1981-12774
-
-[2]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-3692
-
-[3]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-12898
-[4]
-https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5895
-
-[5]
-https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229
+ [1]	perma.cc/B5AF-AT74
+[2]	perma.cc/QH8R-NG37
+[3]	perma.cc/U5VC-LA4L
+[4]	perma.cc/Q6HG-68EQ
+[5]	perma.cc/F2N7-DTGC
 
 
 
@@ -149,17 +132,10 @@ https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229
 *No comment provided* 
 
 *Sources*:
- [1]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-3692
-
-[2]
-https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5895
-
-[3]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-12898
-
-[4]
-https://www.lamoncloa.gob.es/covid-19/Paginas/estado-de-alarma.aspx#:~:text=El%20tercer%20estado%20de%20alarma,causadas%20por%20el%20SARSCoV%2D2.
+ [1]	perma.cc/PMW4-73RB
+[2]	perma.cc/PQ9U-Q3PR
+[3]	perma.cc/HQT9-76FY
+[4]	perma.cc/GY3Q-8GME
 
 
 
@@ -198,22 +174,12 @@ https://www.lamoncloa.gob.es/covid-19/Paginas/estado-de-alarma.aspx#:~:text=El%2
  The first national state of emergency ended on June 21, 2020. The second national state of emergency ended on May 9, 2021. 
 
 *Sources*:
- [1]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-3692&p=20200606&tn=1
-
-[2]
-https://www.lamoncloa.gob.es/covid-19/Paginas/estado-de-alarma.aspx
-
-[3]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-12898
-
-[4]
-https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5895
-
-[5]
-https://www.lamoncloa.gob.es/covid-19/Paginas/estado-de-alarma.aspx#:~:text=El%20tercer%20estado%20de%20alarma,causadas%20por%20el%20SARSCoV%2D2.
-[6]
-https://www.france24.com/en/europe/20210509-it-s-like-new-year-s-spain-ends-covid-19-state-of-emergency
+ [1]	perma.cc/4C8G-TXK3
+[2]	perma.cc/EZ6J-9FMP
+[3]	perma.cc/L25N-NLN2
+[4]	perma.cc/RB3D-93GL
+[5]	perma.cc/6VMN-LJ73
+[6]	perma.cc/Y2WB-FNXZ
 
 
 
@@ -255,14 +221,9 @@ https://www.france24.com/en/europe/20210509-it-s-like-new-year-s-spain-ends-covi
  The first state of emergency was initially declared until March 29, but it was postponed six times, until it ended on June 21. The second state of emergency was declared on October 25, 2020, until November 9, and later extended until May 9, 2021. The measures in between do not have a time limit. 
 
 *Sources*:
- [1]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-3692
-
-[2]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-12898
-
-[3]
-https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5895
+ [1]	perma.cc/M2QG-TJPR
+[2]	perma.cc/XS77-JYYN
+[3]	perma.cc/PL7J-42EH
 
 
 
@@ -301,17 +262,10 @@ https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5895
  The first state of emergency was initially declared until March 29, but it was postponed six times, until it ended on June 21. The second state of emergency was declared until November 9, and later extended until May 9, 2021. The measures in between do not have a time limit. 
 
 *Sources*:
- [1]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-3692
-
-[2]
-https://www.lamoncloa.gob.es/covid-19/Paginas/estado-de-alarma.aspx
-
-[3]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-12898
-
-[4]
-https://www.france24.com/en/europe/20210509-it-s-like-new-year-s-spain-ends-covid-19-state-of-emergency
+ [1]	perma.cc/8D3P-74YK
+[2]	perma.cc/EY6V-WH96
+[3]	perma.cc/3CYU-AWYU
+[4]	perma.cc/UHK9-LPDT
 
 
 
@@ -353,11 +307,8 @@ https://www.france24.com/en/europe/20210509-it-s-like-new-year-s-spain-ends-covi
  Ley Orgánica 4/1981 Article 6: The congress does not need to approve the declaration of a state of emergency, but must approve its extension. The measures defined in the Royal Decree-Law 21/2020 were approved by Congress. 
 
 *Sources*:
- [1]
-https://www.boe.es/buscar/act.php?id=BOE-A-1981-12774
-
-[2]
-https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6901
+ [1]	perma.cc/KW5G-P8JC
+[2]	perma.cc/3ZQY-3QPN
 
 
 
@@ -399,23 +350,12 @@ https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6901
  The congress did not need to approve the declaration of a state of emergency, but approved their extensions. The measures defined in the Royal Decree-Law 21/2020 were approved by Congress. 
 
 *Sources*:
- [1]
-https://elpais.com/espana/2020-04-24/el-gobierno-aprueba-la-prorroga-del-estado-de-alarma-hasta-el-9-de-mayo.html
-
-[2]
-https://elpais.com/espana/2020-03-22/el-gobierno-decide-prorrogar-el-estado-de-alarma-15-dias.html
-
-[3]
-https://elpais.com/espana/politica/2020-05-06/pedro-sanchez-pide-al-congreso-que-apruebe-la-cuarta-prorroga-del-estado-de-alarma-en-directo.html
-
-[4]
-https://elpais.com/espana/2020-05-19/el-gobierno-plantea-prorrogar-la-alarma-hasta-el-27-de-junio.html
-
-[5]
-https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13492
-
-[6]
-https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6901
+ [1]	perma.cc/876F-HXHZ
+[2]	perma.cc/AN9A-2TWR
+[3]	perma.cc/PQV2-GXSJ
+[4]	perma.cc/75G7-2ZNW
+[5]	perma.cc/48CW-2KFL
+[6]	perma.cc/D3VS-BLDR
 
 
 
@@ -461,8 +401,7 @@ https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6901
  Disposición adicional sexta/Disposición final segunda: the government can rule by decree on matters regarding covid-19 and must report to the congress weekly on what measures were taken. The measures defined in the Royal Decree-Law 21/2020 do not limit the lawmaking role of the legislature. While the president can rule by decree, this is not novel nor exclusive to the Estado de Alarma. The lawmaking role of the legislature is not affected by the emlaw. 
 
 *Sources*:
- [1]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-3692
+ [1]	perma.cc/P8DM-GT25
 
 
 
@@ -584,26 +523,13 @@ https://www.boe.es/buscar/act.php?id=BOE-A-2020-3692
  During the first state of emergency, the government's plan for reopening the country was gradual, and in each fase some regions are allowed to open to "a new normal". The second state of emergency allows autonomous regions to decide whether or not to close their region, and it declares a mandatory curfew in all of Spain, except the Canary Islands. 
 
 *Sources*:
- [1]
-https://administracion.gob.es/pag_Home/atencionCiudadana/Estado-de-alarma-crisis-sanitaria.html#-5c02617e6a9c
-
-[2]
-https://www.elconfidencial.com/espana/coronavirus/2020-06-19/estado-alarma-cuando-acaba-espana-coronavirus_2534664/
-
-[3]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-12898
-
-[4]
-https://elpais.com/espana/2020-10-25/sanchez-aprueba-un-nuevo-estado-de-alarma-para-toda-espana-con-intencion-de-que-se-prolongue-hasta-el-9-de-mayo.html
-
-[5]
-https://www.abc.es/sociedad/abci-restricciones-semana-santa-comunidades-nsv-202103261218_noticia.html
-
-[6]
-https://www.lavanguardia.com/motor/actualidad/20210326/6610522/semana-santa-2021-debes-quieres-desplazarte-dias-esi.html
-
-[7]
-https://elpais.com/sociedad/2020-12-29/navidad-en-espana-estas-son-las-medidas-y-restricciones-en-las-comunidades-por-el-coronavirus.html
+ [1]	perma.cc/2F9Z-38J5
+[2]	perma.cc/9DWH-VBU6
+[3]	perma.cc/58PV-63EQ
+[4]	perma.cc/SR96-XUFR
+[5]	perma.cc/2MUS-732M
+[6]	perma.cc/8LFH-3HKJ
+[7]	perma.cc/LU6W-VMQX
 
 
 
@@ -647,14 +573,9 @@ https://elpais.com/sociedad/2020-12-29/navidad-en-espana-estas-son-las-medidas-y
  No evidence of discrimination was found. 
 
 *Sources*:
- [1]
-https://www.amnesty.org/en/countries/europe-and-central-asia/spain/
-
-[2]
-https://www.hrw.org/europe/central-asia/spain
-
-[3]
-https://monitor.civicus.org/country/spain/
+ [1]	perma.cc/2UUL-A2WM
+[2]	perma.cc/X2ZK-TWVK
+[3]	perma.cc/A5NA-HUJP
 
 
 
@@ -703,14 +624,9 @@ https://monitor.civicus.org/country/spain/
  No evidence of non-derogable rights violation was found. 
 
 *Sources*:
- [1]
-https://www.amnesty.org/en/countries/europe-and-central-asia/spain/
-
-[2]
-https://www.hrw.org/europe/central-asia/spain
-
-[3]
-https://monitor.civicus.org/country/spain/
+ [1]	perma.cc/8BKX-Y74X
+[2]	perma.cc/8QCC-L3EH
+[3]	perma.cc/74WX-BRAV
 
 
 
@@ -754,11 +670,8 @@ https://monitor.civicus.org/country/spain/
  The emergency measures do not de-jure limit media freedom. 
 
 *Sources*:
- [1]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-3692&p=20200328&tn=1#a5
-
-[2]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-12898
+ [1]	perma.cc/4MPB-TGDD
+[2]	perma.cc/84KK-CGUL
 
 
 
@@ -878,14 +791,9 @@ https://www.boe.es/buscar/act.php?id=BOE-A-2020-12898
  No evidence of de-facto limitations on reporting about the nature of the coronavirus was found. 
 
 *Sources*:
- [1]
-https://rsf.org/en/countries
-
-[2]
-https://ipi.media/covid19-media-freedom-monitoring/
-
-[3]
-https://cpj.org/europe/spain/
+ [1]	perma.cc/G982-MA86
+[2]	perma.cc/LA53-L7RV
+[3]	perma.cc/X6WT-WGSZ
 
 
 
@@ -927,14 +835,9 @@ https://cpj.org/europe/spain/
  No evidence was found of de-facto limitations on reporting about the government response to the pandemic. 
 
 *Sources*:
- [1]
-https://rsf.org/en/countries
-
-[2]
-https://ipi.media/covid19-media-freedom-monitoring/
-
-[3]
-https://cpj.org/europe/spain/
+ [1]	perma.cc/G982-MA86
+[2]	perma.cc/LA53-L7RV
+[3]	perma.cc/X6WT-WGSZ
 
 
 
@@ -976,14 +879,9 @@ https://cpj.org/europe/spain/
  No evidence was found of de-facto limitations on reporting about non-covid-19 related news due to the pandemic. 
 
 *Sources*:
- [1]
-https://rsf.org/en/countries
-
-[2]
-https://ipi.media/covid19-media-freedom-monitoring/
-
-[3]
-https://cpj.org/europe/spain/
+ [1]	perma.cc/G982-MA86
+[2]	perma.cc/LA53-L7RV
+[3]	perma.cc/X6WT-WGSZ
 
 
 
@@ -1026,32 +924,15 @@ https://cpj.org/europe/spain/
  When declaring the first state of emergency (Royal Decree 463/2020 Disposición adicional tercera), the government suspended deadlines to provide information requsted via the Freedom of Information Law, which includes covid-19 related information such as copy of purchase contracts, number of tests per region, etc. The state of emergency ended on June 21, 2020, and the second national state of emergency (October 25, 2020–May 9, 2021) did not impose limitations on access to information. However, there are concerns among journalists about the frequency, consistency, and reliability of case information provided by the ministry of health. [7] 
 
 *Sources*:
- [1]
-https://elpais.com/sociedad/2020-04-16/la-crisis-empana-la-transparencia-del-gobierno.html
-
-[2]
-https://ipi.media/covid19-media-freedom-monitoring/
-
-[3]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-3692&p=20200328&tn=1#a5
-
-[4]
-https://www.rti-rating.org/covid-19-tracker/
-
-[5]
-https://cpj.org/2020/07/data-journalists-describe-challenges-of-reporting-on-the-true-toll-of-covid-19/
-
-[6]
-https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/
-
-[7]
-https://ipi.media/spains-free-press-put-to-test-under-covid-19-restrictions/
-
-[8]
-https://ipi.media/press-freedom-in-spain-in-2020-coronavirus-and-five-years-of-the-gag-laws/
-
-[9]
-https://rsf.org/en/news/coronavirus-spanish-government-yields-pressure-journalists-and-agrees-live-press-conferences-0
+ [1]	perma.cc/NG7H-DETQ
+[2]	perma.cc/LJ45-SVP3
+[3]	perma.cc/4UAT-VCWY
+[4]	perma.cc/8SBD-XED3
+[5]	perma.cc/C6K9-3KGG
+[6]	perma.cc/Y4UF-MB85
+[7]	perma.cc/S9MF-9G5A
+[8]	perma.cc/Q5VV-43F7
+[9]	perma.cc/MVU2-8TNP
 
 
 
@@ -1093,14 +974,9 @@ https://rsf.org/en/news/coronavirus-spanish-government-yields-pressure-journalis
  No evidence of harassment was found. 
 
 *Sources*:
- [1]
-https://rsf.org/en/countries
-
-[2]
-https://ipi.media/covid19-media-freedom-monitoring/
-
-[3]
-https://cpj.org/europe/spain/
+ [1]	perma.cc/G982-MA86
+[2]	perma.cc/LA53-L7RV
+[3]	perma.cc/X6WT-WGSZ
 
 
 
@@ -1142,14 +1018,9 @@ https://cpj.org/europe/spain/
  No reports of physical harassment by the government. IPI cites a case when a journalist was attacked while covering a covid-19 demonstration called by the party Vox, but there is no evidence that violent acts were conducted by members of the party/government. 
 
 *Sources*:
- [1]
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-[2]
-https://ipi.media/covid19-media-freedom-monitoring/
-
-[3]
-https://www.larazon.es/actualidad/20200523/i7fzuqxld5gk7pkqva5twqrsxq.html
+ [1]	perma.cc/2MAN-6PR3
+[2]	perma.cc/W76U-VS4F
+[3]	perma.cc/W76U-VS4F
 
 
 
@@ -1193,11 +1064,8 @@ https://www.larazon.es/actualidad/20200523/i7fzuqxld5gk7pkqva5twqrsxq.html
  The information provided by the government is in acccordance with the WHO. 
 
 *Sources*:
- [1]
-https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/ciudadania.htm
-
-[2]
-https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/situacionActual.htm
+ [1]	perma.cc/WGJ9-2JMW
+[2]	perma.cc/4QK6-8TXF
 
 
 
@@ -1241,16 +1109,11 @@ https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/si
  There were reports of police harassment and violence against people who disrespected the emergency measures during the first state of emergency, which was lifted on June 21. Other instances of police violence were not identified. 
 
 *Sources*:
- [1]
-https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF
-[2]
-https://www.publico.es/tremending/2020/03/23/coronavirus-indignacion-por-unos-videos-de-policias-abofeteando-a-detenidos-los-castigos-los-ponen-los-jueces-no-la-policia/
-[3]
-https://rpp.pe/mundo/actualidad/coronavirus-covid-19-espana-la-policia-agredio-a-un-joven-con-habilidades-especiales-que-no-pudo-justificar-su-salida-a-la-calle-noticia-1255262
-[4]
-https://www.elplural.com/sociedad/cruz-cuarentena-abusos-policiales-jueces-balcones_236144102
-[5]
-https://www.elplural.com/sociedad/polemica-detencion-guardas-no-permiten-trabajador-sacar-autorizacion_236126102
+ [1]	perma.cc/6ZVV-5KCZ
+[2]	perma.cc/2LL9-NQHX
+[3]	perma.cc/K3RJ-8L5G
+[4]	perma.cc/8L7A-FKBQ
+[5]	perma.cc/WCJ9-ERTR
 
 
 
@@ -1292,17 +1155,8 @@ https://www.elplural.com/sociedad/polemica-detencion-guardas-no-permiten-trabaja
  During the first state of emergency, which ended on June 21, the Royal Decree 463/2020, Article 5, defined that the government could call the armed forces to enforce the emergency measures, and Disposición adicional quinta establishes that they had "agent of authority" power, meaning that can give orders to civilians. The second state of emergency does not forsee military participation in enforcing the emergency measures. 
 
 *Sources*:
- [1]
-https://www.boe.es/buscar/act.php?id=BOE-A-2020-3692&p=20200328&tn=1#a5
-
-[2]
-https://elpais.com/espana/2020-03-15/el-gobierno-hace-agentes-de-la-autoridad-a-los-militares-durante-el-estado-de-alarma.html
-
-[3]
-https://www.eldiario.es/sociedad/Ejercito-residencias-patrullara-Guardia-Civil_0_1008949599.html
-
-[4]
-https://www.msn.com/es-es/noticias/internacional/el-gobierno-descarta-que-el-ej%C3%A9rcito-controle-el-toque-de-queda-aprobado-para-frenar-la-expansi%C3%B3n-del-coronavirus/ar-BB1anl2l
-
-[5]
-https://www.vozpopuli.com/espana/despliegue-militar-estado-alarma-coronavirus_0_1404159931.html
+ [1]	perma.cc/GV6N-VKDJ
+[2]	perma.cc/63VJ-GVEB
+[3]	perma.cc/7L9X-HL56
+[4]	perma.cc/4QKN-5DJW
+[5]	perma.cc/VXN6-9DAD

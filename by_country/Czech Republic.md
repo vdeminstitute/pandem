@@ -51,23 +51,17 @@ October-December 2020, January-March 2021: state of emergency declared from 5 Oc
 April-June 2021: with the Pandemic Act, the state of pandemic alert entered into force. Some restrictions are maintained and are being eased gradually. 
 
 *Sources*:
- https://covid.gov.cz/en/situations/infection-and-general-measures/pandemic-act
-https://verfassungsblog.de/czechs-and-balances-one-year-later/
-https://www.vlada.cz/en/media-centrum/aktualne/the-state-of-emergency-to-end-on-monday--some-restrictions-will-be-lifted--first-children-back-in-schools-and-nurseries-187741/
-https://www.mvcr.cz/mvcren/article/state-of-emergency.aspx
-https://fra.europa.eu/sites/default/files/fra_uploads/czechia-report-covid-19-april-2020_en.pdf
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B316%5D&covid19=1
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+ [1]	perma.cc/7SBF-SYMB
+[2]	perma.cc/G8S6-ZXPG
+[3]	perma.cc/5E2J-BTB4
+[4]	perma.cc/G6N5-7ZN3
+[5]	perma.cc/SVE9-AAED
+[6]	https://perma.cc/J7UH-BULT
 
-https://koronavirus.mzcr.cz/en/extraordinary-and-protective-measures-and-recommendations/
-https://www.zakonyprolidi.cz/cs/2000-258#:~:text=(2)%20Ochrana%20ve%C5%99ejn%C3%A9ho%20zdrav%C3%AD%20je,jin%C3%BDch%20v%C3%BDznamn%C3%BDch%20poruch%20zdrav%C3%AD%20a
-
-(1)
-https://www.vlada.cz/assets/media-centrum/aktualne/1_state-of-emergency_30092020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/cz_report_on_coronavirus_pandemic_november_2020.pdf
-
-
-
+[7]	https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+[8]	perma.cc/8KY8-S3LA
+[9]	perma.cc/P52C-QSXR
+[10]	perma.cc/DB4A-LCWP
 
 
 
@@ -110,10 +104,10 @@ July-September 2020:  Zákon č. 258/2000 Sb. "Zákon o ochraně veřejného zdr
 April-June 2021: Zákon č. 94/2021 Sb. (Act No. 94/2021), also known as Pandemic Act that gives limits and enables certain procedures from the government. 
 
 *Sources*:
- https://www.mvcr.cz/mvcren/article/state-of-emergency.aspx
-https://verfassungsblog.de/czechs-and-balances-one-year-later/
-https://www.zakonyprolidi.cz/cs/2021-94
-https://www.zakonyprolidi.cz/cs/2000-258#:~:text=(2)%20Ochrana%20ve%C5%99ejn%C3%A9ho%20zdrav%C3%AD%20je,jin%C3%BDch%20v%C3%BDznamn%C3%BDch%20poruch%20zdrav%C3%AD%20a
+ [1]	perma.cc/RKP2-F5QX
+[2]	perma.cc/V97R-LRVK
+[3]	perma.cc/27J9-ULMT
+[4]	perma.cc/N5PY-BN9S
 
 
 
@@ -158,18 +152,16 @@ October-December 2020, Januar-March 2021: The second state of emergency started 
 April-June 2021: the Pandemic Act entered into force on 11 April 2021, after a postponement due to a new state of emergency. 
 
 *Sources*:
- https://koronavirus.mzcr.cz/en/extraordinary-and-protective-measures-of-the-ministry-of-health
-https://koronavirus.mzcr.cz/wp-content/uploads/2020/05/111_EM_events_more-than-100-people_15052020.pdf
-https://www.vlada.cz/en/media-centrum/aktualne/the-state-of-emergency-to-end-on-monday--some-restrictions-will-be-lifted--first-children-back-in-schools-and-nurseries-187741/
-https://www.garda.com/crisis24/news-alerts/465196/czech-republic-authorities-to-lift-covid-19-state-of-emergency-april-11-update-37
-https://www.mvcr.cz/mvcren/article/state-of-emergency.aspx
-
-https://koronavirus.mzcr.cz/wp-content/uploads/2020/04/06_EM_events_more-than-5000-people_reporting_040320.pdf
-https://koronavirus.mzcr.cz/wp-content/uploads/2020/07/165_EM_inpatient-healthcare-facilities-and-residential-social-care-facilities_29062020.pdf
-https://koronavirus.mzcr.cz/wp-content/uploads/2020/09/205_EM_events-from-18-September_16092020.pdf
-https://koronavirus.mzcr.cz/wp-content/uploads/2020/09/213_EM_events-from-24-September-to-7-October_23092020.pdf
-
-https://www.vlada.cz/assets/media-centrum/aktualne/1_state-of-emergency_30092020.pdf
+ [1]	perma.cc/K77B-VQ4R
+[2]	perma.cc/B3GR-SCPA
+[3]	perma.cc/N4XW-ZRMA
+[4]	perma.cc/DTV2-BU63
+[5]	perma.cc/BYZ6-BJTU
+[6]	perma.cc/GU4U-YQDQ
+[7]	perma.cc/Q4SW-GNAH
+[8]	perma.cc/XR83-MDPU
+[9]	perma.cc/5MVH-86AZ
+[10]	perma.cc/KB9F-PVXY
 
 
 
@@ -208,10 +200,10 @@ https://www.vlada.cz/assets/media-centrum/aktualne/1_state-of-emergency_30092020
  The first state of emergency ended on 17 May 2020. Implementation of Zákon č. 258/2000 Sb. in Q3 2020 ended when the second state of emergency was declared. The second state of emergency ended on 11 April 2021. 
 
 *Sources*:
- https://www.vlada.cz/en/media-centrum/aktualne/measures-adopted-by-the-czech-government-against-coronavirus-180545/
-https://www.zakonyprolidi.cz/cs/2021-94#cast9
-https://www.usoud.cz/fileadmin/user_upload/ustavni_soud_www/Pravni_uprava/AJ/Zakon_o_bezpecnosti_English_version_110_1998.pdf
-https://koronavirus.mzcr.cz/en/extraordinary-and-protective-measures-and-recommendations/
+ [1]	perma.cc/2H6R-6LU9
+[2]	perma.cc/RSK6-R7TD
+[3]	perma.cc/ER84-BCXJ
+[4]	perma.cc/WHM6-XAAV
 
 
 
@@ -253,10 +245,9 @@ https://koronavirus.mzcr.cz/en/extraordinary-and-protective-measures-and-recomme
  Some measures declared based on Zákon č. 258/2000 Sb. have no time limit for example, measures from 4 July 2020 were: “Effective from 0:00 a.m. on 4 July 2020 until the revocation of this extraordinary measure”; measures from 18 September were “effective from 6:00 p.m. on 18 September 2020 until the cancellation of this extraordinary measure”. (1) The states of emergency and their extensions had a time limit. Zákon č. 94/2021 sb. (Act No.94/2021 Coll), in place since 11 April 2021, establishes that it is going to be repealed on 22 February 2022. 
 
 *Sources*:
- https://koronavirus.mzcr.cz/wp-content/uploads/2020/09/205_EM_events-from-18-September_16092020.pdf
-https://www.zakonyprolidi.cz/cs/2021-94#cast9
-https://koronavirus.mzcr.cz/en/extraordinary-and-protective-measures-and-recommendations/
-(1)
+ [1]	perma.cc/S43H-J39B
+[2]	perma.cc/8XZT-LC4P
+[3]	perma.cc/HA9F-AUG6
 
 
 
@@ -299,12 +290,11 @@ Q1 2021: The second state of emergency ended on 14 February 2021, and a new stat
 Zákon č. 94/2021 sb. (Act No.94/2021 Coll), in place since 11 April 2021, establishes that it is going to be repealed on 22 February 2022. 
 
 *Sources*:
- https://www.vlada.cz/assets/media-centrum/aktualne/47_state-of-emergency_1373.pdf
-https://www.vlada.cz/assets/media-centrum/aktualne/1_state-of-emergency_30092020.pdf
-https://www.vlada.cz/assets/media-centrum/aktualne/28_R_state-of-emergency-1195_1.pdf
-https://www.vlada.cz/assets/media-centrum/aktualne/47_state-of-emergency_1373.pdf
-https://www.vlada.cz/en/media-centrum/aktualne/the-state-of-emergency-to-end-on-monday--some-restrictions-will-be-lifted--first-children-back-in-schools-and-nurseries-187741/
-https://www.vlada.cz/en/media-centrum/aktualne/measures-adopted-by-the-czech-government-against-coronavirus-180545/#general
+ [1]	perma.cc/3TFR-ZE46
+[2]	perma.cc/F4DL-CY2F
+[3]	perma.cc/BVW2-2F3Z
+[4]	perma.cc/LL9C-KGYX
+[5]	perma.cc/2MCU-2M86
 
 
 
@@ -351,14 +341,11 @@ April-June 2021: The national legislature adopted the Act No./2021.
 That rules (unofficial translation): "§ 1 (3) On the day this Act enters into force, a state of pandemic alert is declared. The state of pandemic alert can be terminated or restored by a resolution of the Chamber of Deputies adopted on the proposal of the government or one-fifth of all deputies. The resolution on ending the pandemic alert and restoring it is published in the Collection of Laws". (2) 
 
 *Sources*:
- https://www.zakonyprolidi.cz/cs/2021-94#cast9
-(2)
-https://verfassungsblog.de/czechs-and-balances-one-year-later/
-https://www.mvcr.cz/mvcren/article/state-of-emergency.aspx
-https://www.psp.cz/en/docs/laws/1998/110.html
-(1)
-
-https://www.zakonyprolidi.cz/cs/2000-258#:~:text=(2)%20Ochrana%20ve%C5%99ejn%C3%A9ho%20zdrav%C3%AD%20je,jin%C3%BDch%20v%C3%BDznamn%C3%BDch%20poruch%20zdrav%C3%AD%20a
+ [1]	perma.cc/RAN4-X79E
+[2]	perma.cc/H3TZ-WSW6
+[3]	perma.cc/4ZAM-CXBA
+[4]	perma.cc/R6AA-BWP6
+[5]	perma.cc/XGY4-23AF
 
 
 
@@ -406,13 +393,12 @@ October-December 2020, January-March 2021: The legislature approved the extensio
 April-June 2021: The legislature approve the Pandemic Act (Zákon č. 94/2021). 
 
 *Sources*:
- https://verfassungsblog.de/czechs-and-balances-one-year-later/
-https://www.zakonyprolidi.cz/cs/2021-94#cast9
-https://www.psp.cz/sqw/cms.sqw?z=13831
-https://www.psp.cz/sqw/text/text2.sqw?idd=172972
-
-https://www.psp.cz/sqw/cms.sqw?z=14372
-https://www.vlada.cz/cz/media-centrum/aktualne/vlada-prodlouzila-nouzovy-stav-a-s-nim-i-vsechna-dosud-platna-krizova-opatreni-do-20--listopadu-184601/#:~:text=2020%2020%3A01-,Vl%C3%A1da%20prodlou%C5%BEila%20nouzov%C3%BD%20stav%20a%20s%20n%C3%ADm%20i%20v%C5%A1echna%20dosud%20platn%C3%A1,listopadu&text=Na%20z%C3%A1klad%C4%9B%20p%C5%99edchoz%C3%ADho%20souhlasu%20Poslaneck%C3%A9,%C5%99%C3%ADjna%202020.
+ [1]	perma.cc/4WV8-3MWM
+[2]	perma.cc/8YQJ-7Y24
+[3]	perma.cc/4CW2-BUCQ
+[4]	perma.cc/FC3X-R4GE
+[5]	perma.cc/UXL8-8TC9
+[6]	perma.cc/R3AD-WWKE
 
 
 
@@ -462,16 +448,12 @@ July-September 2020: Act No. 258/2000 Coll allows the Minister of Health to make
 April-June 2021: Act No. 94/2021 allows the Minister of Health to make decisions e.g. (unofficial translation) he § 2 (1) "may order extraordinary measures to order the liquidation of the COVID-19 epidemic or the risk of its recurrence. certain activities contributing to the fulfillment of that purpose, or prohibit or restrict certain activities or services the performance of which could spread COVID-19, or lay down the conditions for carrying out such activities or providing such services". (2) 
 
 *Sources*:
- https://www.zakonyprolidi.cz/cs/2021-94#cast9
-(2)
-http://www.hzscr.cz/hasicien/file/crisis-management-act-n-240-2000-coll-pdf.aspx
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#C
-
-https://www.mvcr.cz/mvcren/article/state-of-emergency.aspx
-https://www.psp.cz/sqw/cms.sqw?z=13746
-
-https://www.zakonyprolidi.cz/cs/2000-258#:~:text=(2)%20Ochrana%20ve%C5%99ejn%C3%A9ho%20zdrav%C3%AD%20je,jin%C3%BDch%20v%C3%BDznamn%C3%BDch%20poruch%20zdrav%C3%AD%20a
-(1)
+ [1]	perma.cc/5WBD-EWF2
+[2]	perma.cc/5D4K-PBVX
+[3]	perma.cc/HS3K-VSDQ
+[4]	perma.cc/84MV-PLR2
+[5]	perma.cc/C6JL-B42Q
+[6]	perma.cc/9XRV-XL9G
 
 
 
@@ -595,11 +577,11 @@ https://www.zakonyprolidi.cz/cs/2000-258#:~:text=(2)%20Ochrana%20ve%C5%99ejn%C3%
 January-March, April-June 2021: there is a minimal variation in the easening of the measures. In Febuary, it was forbidden to travel to some regions. In March, residents of Prague could only leave the city with a good reason. In April, the opening of shops was only possible when there is a lower incidence rate. In May, the opening of schools would be possible only in areas with a lower incidence rate. 
 
 *Sources*:
- https://www.vlada.cz/en/media-centrum/aktualne/measures-adopted-by-the-czech-government-against-coronavirus-180545/
-https://www.osu.eu/24712/the-latest-covid-19-related-news/
-https://www.garda.com/crisis24/news-alerts/441926/czech-republic-authorities-suspend-travel-to-and-from-cheb-sokolov-and-trutnov-from-feb-12-due-to-high-covid-19-infection-rates-update-32
-https://fra.europa.eu/sites/default/files/fra_uploads/czechia-report-covid-19-april-2020_en.pdf
-https://koronavirus.mzcr.cz/en/from-july-onwards-strict-anti-epidemic-measures-will-only-apply-in-certain-parts-of-the-moravian-silesian-region/
+ [1]	perma.cc/Q3DC-H5NS
+[2]	perma.cc/275U-SMCE
+[3]	perma.cc/S8PA-FTZA
+[4]	perma.cc/X3DS-27JS
+[5]	perma.cc/V3XP-GJRQ
 
 
 
@@ -645,12 +627,13 @@ https://koronavirus.mzcr.cz/en/from-july-onwards-strict-anti-epidemic-measures-w
 There is a persistent discrimination against Roma people in Czech Republic, but this is not Covid-19 related. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/czech-republic/report-czech-republic/
-https://rm.coe.int/ecri-6th-report-on-the-czech-republic/1680a0a086
-https://fra.europa.eu/sites/default/files/fra_uploads/czechia-report-covid-19-april-2020_en.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/cz_report_on_coronavirus_pandemic_july_2020.pdf
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B316%5D&covid19=1
-https://fra.europa.eu/sites/default/files/fra_uploads/cz_report_-_covid-19_impact_on_roma_en.pdf
+ [1]	perma.cc/7MWZ-ANCY
+[2]	perma.cc/2XT3-2XFC
+[3]	perma.cc/Y56N-32DZ
+[4]	perma.cc/L83S-F6Y7
+[5]	https://perma.cc/J7UH-BULT
+
+[6]	perma.cc/CWD5-XZSE
 
 
 
@@ -699,13 +682,12 @@ https://fra.europa.eu/sites/default/files/fra_uploads/cz_report_-_covid-19_impac
  No measures violating non-derogable rights found. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/czech-republic/report-czech-republic/
-https://fra.europa.eu/sites/default/files/fra_uploads/czechia-report-covid-19-april-2020_en.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/cz_report_on_coronavirus_pandemic_july_2020.pdf
+ [1]	perma.cc/8YB3-JFR9
+[2]	perma.cc/A8FV-RE2F
+[3]	perma.cc/GQ56-TBDT
+[4]	https://perma.cc/J7UH-BULT
 
-
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B316%5D&covid19=1
-https://www.mvcr.cz/mvcren/article/state-of-emergency.aspx
+[5]	perma.cc/R5J9-3N9D
 
 
 
@@ -749,9 +731,8 @@ https://www.mvcr.cz/mvcren/article/state-of-emergency.aspx
  No evidence of measures limiting media freedom found and no provision in law/acts for that. 
 
 *Sources*:
- https://www.vlada.cz/en/media-centrum/aktualne/measures-adopted-by-the-czech-government-against-coronavirus-180545/
-
-https://www.zakonyprolidi.cz/cs/2021-94#cast9
+ [1]	perma.cc/K4AS-ZVZT
+[2]	perma.cc/SE2C-VQF4
 
 
 
@@ -871,12 +852,12 @@ https://www.zakonyprolidi.cz/cs/2021-94#cast9
  Official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. The Ministry of the Interior removed a video of  Malá Vizita & Duše K which discussed covid-19 treatment, but this is not coded since it was a theatre performance. Limitations are a trend in Czech Republic but no real information in media constraints due to COVID-19. In October 2020, there was a call for a better accesibility of online press conferences during Covid-19. Therefore, merepfact is coded 0 for the all the time periods. 
 
 *Sources*:
- https://ipi.media/czech-presidents-office-bars-certain-media-outlets-from-receiving-information/
-https://www.cfr.org/in-brief/covid-19-and-threat-press-freedom-central-and-eastern-europe
-https://monitor.civicus.org/updates/2021/03/18/concern-over-media-freedom-central-european-media-enterprises-after-takeover-czech-billionaire/
-https://ipi.media/critical-media-denied-access-to-online-press-conferences-during-covid-19/
-https://onemocneni-aktualne.mzcr.cz/covid-19
-https://rekonstrukcestatu.s3.amazonaws.com/rekonstrukcestatu/production/files/2020/05/15/13/11/42/ff26ab4e-b44a-46df-8c6e-41f12fa7df4b/doporuceni-rekonstrukce-statu-ochrana-svobody-projevu-v-dobe-pandemie.pdf
+ [1]	perma.cc/8ZX2-8X36
+[2]	perma.cc/U7CR-GULL
+[3]	perma.cc/3F6V-GPV3
+[4]	perma.cc/E536-WKAC
+[5]	perma.cc/BTS2-ZSWY
+[6]	perma.cc/A58E-SM7Z
 
 
 
@@ -918,10 +899,10 @@ https://rekonstrukcestatu.s3.amazonaws.com/rekonstrukcestatu/production/files/20
  No information on limitation of media reporting on the government's response during all 2020. Therefore, merepgov is coded 0 for the all the time periods. 
 
 *Sources*:
- https://ipi.media/czech-presidents-office-bars-certain-media-outlets-from-receiving-information/
-https://rsf.org/en/czech-republic
-https://ipi.media/czech-republic/
-https://www.hrw.org/europe/central-asia/czech-republic
+ [1]	perma.cc/R99J-65ZC
+[2]	perma.cc/ECA3-WUGK
+[3]	perma.cc/7R97-GVDT
+[4]	perma.cc/X7YW-MHBD
 
 
 
@@ -963,10 +944,10 @@ https://www.hrw.org/europe/central-asia/czech-republic
  No information on instances of limitations on media reporting on non-Covid-19 related news but with reference to the pandemic found in 2020 and 2021. 
 
 *Sources*:
- https://ipi.media/czech-presidents-office-bars-certain-media-outlets-from-receiving-information/
-https://rsf.org/en/czech-republic
-https://ipi.media/czech-republic/
-https://www.hrw.org/europe/central-asia/czech-republic
+ [1]	perma.cc/R99J-65ZC
+[2]	perma.cc/ECA3-WUGK
+[3]	perma.cc/7R97-GVDT
+[4]	perma.cc/X7YW-MHBD
 
 
 
@@ -1010,19 +991,15 @@ https://www.hrw.org/europe/central-asia/czech-republic
 2) The Ministry of the Interior removed a video of Malá Vizita & Duše K which discussed Covid-19 treatment in March. 
 
 *Sources*:
- https://ipi.media/czech-presidents-office-bars-certain-media-outlets-from-receiving-information/
-
-(1)
-https://rsf.org/en/news/covid-19-and-press-freedom-europe-must-oppose-measures-proposed-viktor-orban
-https://www.coe.int/en/web/commissioner/-/press-freedom-must-not-be-undermined-by-measures-to-counter-disinformation-about-covid-19
-
-https://echo24.cz/a/S8V78/vlada-kvuli-koronaviru-zredukovala-media-na-konferencich-weby-a-deniky-na-ne-nesmi
-https://hlidacipes.org/ondrej-neumann-nebezpeci-babisovy-medialni-karanteny/
-https://www.oziveni.cz/2020/05/nezhasinat-7-vlada-musi-i-v-krizove-dobe-respektovat-pravidla-pravniho-statu/?utm_source=rss&utm_medium=rss&utm_campaign=nezhasinat-7-vlada-musi-i-v-krizove-dobe-respektovat-pravidla-pravniho-statu
-https://rekonstrukcestatu.s3.amazonaws.com/rekonstrukcestatu/production/files/2020/05/15/13/11/42/ff26ab4e-b44a-46df-8c6e-41f12fa7df4b/doporuceni-rekonstrukce-statu-ochrana-svobody-projevu-v-dobe-pandemie.pdf
-https://ipi.media/critical-media-denied-access-to-online-press-conferences-during-covid-19/
-https://www.coe.int/en/web/commissioner/-/press-freedom-must-not-be-undermined-by-measures-to-counter-disinformation-about-covid-19
-https://www.euractiv.com/section/politics/short_news/certain-czech-media-excluded-from-press-conferences/
+ [1]	perma.cc/J38N-EB49
+[2]	perma.cc/4Q98-SKT8
+[3]	perma.cc/F2KW-N55A
+[4]	perma.cc/JU2H-7S4H
+[5]	perma.cc/WAX7-V7ZP
+[6]	perma.cc/MWV5-83W7
+[7]	perma.cc/57TM-GDQE
+[8]	perma.cc/H49P-YA92
+[9]	perma.cc/L2PE-H4QM
 
 
 
@@ -1064,11 +1041,11 @@ https://www.euractiv.com/section/politics/short_news/certain-czech-media-exclude
  No information found since 11 March 2020. 
 
 *Sources*:
- https://www.mappingmediafreedom.org/
-https://rsf.org/en/czech-republic
-https://ipi.media/czech-republic/
-https://www.hrw.org/europe/central-asia/czech-republic
-https://www.amnesty.org/en/countries/europe-and-central-asia/czech-republic/
+ [1]	perma.cc/MUJ3-54CB
+[2]	perma.cc/MY3G-5LVP
+[3]	perma.cc/SND2-JJ43
+[4]	perma.cc/LJM9-EYG6
+[5]	perma.cc/4U7M-JS3D
 
 
 
@@ -1110,10 +1087,10 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/czech-republic/
  No information found since 11 March 2020. 
 
 *Sources*:
- https://rsf.org/en/czech-republic
-https://ipi.media/czech-republic/
-https://www.hrw.org/europe/central-asia/czech-republic
-https://www.amnesty.org/en/countries/europe-and-central-asia/czech-republic/
+ [1]	perma.cc/JBR2-QPLX
+[2]	https://perma.cc/8U2B-AMR6
+[3]	perma.cc/72P7-D68E
+[4]	perma.cc/7HRK-MAQJ
 
 
 
@@ -1157,11 +1134,11 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/czech-republic/
  Official websites with information on Covid-19 and guidelines. No information found since 11 March 2020. 
 
 *Sources*:
- https://koronavirus.mzcr.cz/en/
-https://onemocneni-aktualne.mzcr.cz/covid-19
-https://ipi.media/czech-republic/
-https://rsf.org/en/czech-republic
-https://www.mvcr.cz/mvcren/article/coronavirus-information-of-moi.aspx
+ [1]	perma.cc/FX6J-YFGY
+[2]	perma.cc/4KLE-5KNQ
+[3]	perma.cc/J9D2-P4DT
+[4]	perma.cc/D5FN-7RPH
+[5]	perma.cc/45MP-9CNV
 
 
 
@@ -1205,8 +1182,8 @@ https://www.mvcr.cz/mvcren/article/coronavirus-information-of-moi.aspx
  No instances of police violence in the execution of the emergency measures found since 11 March 2020. 
 
 *Sources*:
- https://www.hrw.org/europe/central-asia/czech-republic
-https://www.amnesty.org/en/countries/europe-and-central-asia/czech-republic/
+ [1]	perma.cc/KZH9-Y72L
+[2]	perma.cc/KK8Q-CBG3
 
 
 
@@ -1250,13 +1227,21 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/czech-republic/
 There is no evidence for military activity regarding Covid-19 in Q1 and Q2 2021. 
 
 *Sources*:
- https://apnews.com/article/europe-czech-republic-andrej-babis-coronavirus-pandemic-coronavirus-vaccine-de9bba833dd336e2c1d4747842e8482e
-http://euromil.org/armed-forces-and-covid-19/
-http://www.acr.army.cz/informacni-servis/zpravodajstvi/nacelnik-generalniho-stabu-acr-rozhodl-odmenit-vojaky-nasazene-v-ramci-pandemickych-opatreni-221439/
-http://www.acr.army.cz/informacni-servis/covid/nasazeni-prislusniku-armady-cr-a-vojenske-policie-v-obci-litovel-220237/
-http://www.acr.army.cz/informacni-servis/zpravodajstvi/armada-se-opet-zapoji-do-chytre-karanteny-222711/
-https://www.vlada.cz/en/media-centrum/aktualne/measures-adopted-by-the-czech-government-against-coronavirus-180545/
-http://www.acr.army.cz/informacni-servis/zpravodajstvi/armada-se-opet-zapoji-do-chytre-karanteny-222711/
-
-https://www.vlada.cz/en/media-centrum/aktualne/measures-adopted-by-the-czech-government-against-coronavirus-180545/
+ [1]
+https://perma.cc/W9WA-TPVU
+[2]
+https://perma.cc/FSC4-ANHE
+[3]
+https://web.archive.org/web/20200530035413/http://www.acr.army.cz/informacni-servis/zpravodajstvi/nacelnik-generalniho-stabu-acr-rozhodl-odmenit-vojaky-nasazene-v-ramci-pandemickych-opatreni-221439/
+[4]
+https://web.archive.org/web/20200319171555/http://www.acr.army.cz/informacni-servis/covid/nasazeni-prislusniku-armady-cr-a-vojenske-policie-v-obci-litovel-220237/
+[5]
+https://web.archive.org/web/20200731133044/http://www.acr.army.cz/informacni-servis/zpravodajstvi/armada-se-opet-zapoji-do-chytre-karanteny-222711/
+[6]
+https://perma.cc/66DU-YX3F
+[7]
+https://web.archive.org/web/20200731133044/http://www.acr.army.cz/informacni-servis/zpravodajstvi/armada-se-opet-zapoji-do-chytre-karanteny-222711/
+[8]
+https://perma.cc/R43M-349N
+[9]
 https://www.mocr.army.cz/scripts/detail.php?pgid=401&conn=9971&pg=1

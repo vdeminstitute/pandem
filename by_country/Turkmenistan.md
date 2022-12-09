@@ -46,30 +46,33 @@
  
 
 *Sources*:
- http://www.turkmenistan.gov.tm/?id=20961
-https://www.garda.com/crisis24/news-alerts/359861/turkmenistan-authorities-announce-nationwide-social-restrictions-july-13-update-1
+ https://web.archive.org/web/20200518201602/http://www.turkmenistan.gov.tm/?id=20961
+https://perma.cc/T5QK-698G
 (2)
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-central-asia-5305f172/
-(3)
 
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+
+https://perma.cc/CNA2-SYKT
+(3)
+https://perma.cc/TJ3B-4XFV
 (4)
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B701%5D&covid19=1
-https://tm.usembassy.gov/covid-19-information/
-https://www.reuters.com/article/idUSL8N2E05AM
+
+https://perma.cc/XXP9-5Q9Q
+
+https://perma.cc/ZN6L-EFEG
+https://perma.cc/J7UH-BULT
 (1)
 
-https://www.reuters.com/article/idUSL5N2EM4BC
-https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
-https://www.hrw.org/news/2020/06/27/turkmenistan-denies-apparent-covid-19-outbreak
-https://www.garda.com/crisis24/news-alerts/396656/turkmenistan-authorities-extend-suspension-of-international-flights-until-december-31-update-3
-https://www.garda.com/crisis24/news-alerts/385356/turkmenistan-authorities-extend-suspension-of-international-flights-until-october-31-update-2
-https://covid19.who.int/region/euro/country/tm
-https://www.garda.com/crisis24/news-alerts/474251/turkmenistan-authorities-maintain-covid-19-related-domestic-restrictions-and-international-entry-requirements-as-of-may-3-update-12
-https://www.garda.com/crisis24/news-alerts/461981/turkmenistan-authorities-ease-covid-19-related-domestic-travel-restrictions-from-april-1-update-11
-https://www.garda.com/crisis24/news-alerts/437586/turkmenistan-authorities-extend-coronavirus-disease-related-international-and-domestic-travel-restrictions-until-at-least-feb-28-update-9
-https://www.garda.com/crisis24/news-alerts/423761/turkmenistan-authorities-extend-covid-19-related-international-and-domestic-travel-restrictions-until-at-least-jan-31-update-8
-https://www.saglykhm.gov.tm/makala
+https://perma.cc/F6SL-BKKW
+https://perma.cc/PFP3-CBQF
+https://perma.cc/C7JK-Z6XF
+https://perma.cc/FLA8-D6UB
+https://perma.cc/7HE3-QPPY
+https://perma.cc/XFY6-N8FV
+https://perma.cc/W2XE-FXG3
+https://perma.cc/7AFK-9JHE
+https://perma.cc/7TH9-CHVH
+https://perma.cc/MNM4-N3MF
+https://perma.cc/9SET-G6NY
 
 
 
@@ -147,8 +150,8 @@ https://www.saglykhm.gov.tm/makala
  On 15 May 2020, the president approved a preparedness plan for Covid-19 but  coded as "NA" since emlaw = 5 
 
 *Sources*:
- http://www.turkmenistan.gov.tm/?id=20961
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B349%5D&covid19=1
+ https://web.archive.org/web/20200518201602/http://www.turkmenistan.gov.tm/?id=20961
+https://perma.cc/J7UH-BULT
 
 
 
@@ -187,8 +190,8 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B34
  The latest restrictions were introduced on 15 July 2020 and there is no information that they have been lifted;  coded as "NA" since emlaw = 5. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/359861/turkmenistan-authorities-announce-nationwide-social-restrictions-july-13-update-1
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B701%5D&covid19=1
+ https://perma.cc/HUC7-2MVW
+https://perma.cc/J7UH-BULT
 
 
 
@@ -230,9 +233,8 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B70
  I have not found any information on the time limit of the measures in the news coverage of the measures or in the official announcement in the state media.  Coded as "NA" since emlaw = 5. 
 
 *Sources*:
- https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B701%5D&covid19=1
-
-https://www.garda.com/crisis24/news-alerts/359861/turkmenistan-authorities-announce-nationwide-social-restrictions-july-13-update-1
+ https://perma.cc/J7UH-BULT
+https://perma.cc/G5DN-RXMF
 
 
 
@@ -401,8 +403,9 @@ https://www.garda.com/crisis24/news-alerts/359861/turkmenistan-authorities-annou
  I have no found any measures limiting the lawmaking role of the legislature. According to the state media, the parliament met and ratified legislation on 14 March and 22 August 2020, where the last meeting took place online. 
 
 *Sources*:
- http://tdh.gov.tm/news/articles.aspx&article21786&cat11
-http://tdh.gov.tm/news/articles.aspx&article23878&cat11
+ https://web.archive.org/web/20200315145150/http://tdh.gov.tm/news/articles.aspx&article21786&cat11
+
+https://web.archive.org/web/20200824065749/http://tdh.gov.tm/news/articles.aspx&article23878&cat11
 
 
 
@@ -524,8 +527,8 @@ http://tdh.gov.tm/news/articles.aspx&article23878&cat11
  No information found. 
 
 *Sources*:
- https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B349%5D&covid19=1
-https://www.garda.com/crisis24/news-alerts/486586/turkmenistan-authorities-largely-maintain-covid-19-related-domestic-restrictions-and-international-entry-requirements-as-of-june-3-update-13
+ https://perma.cc/J7UH-BULT
+https://perma.cc/DL2V-RXEX
 
 
 
@@ -569,8 +572,10 @@ https://www.garda.com/crisis24/news-alerts/486586/turkmenistan-authorities-large
  No information found. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
-https://www.amnesty.org/en/countries/europe-and-central-asia/turkmenistan/
+ https://perma.cc/H3AG-KBGB
+
+
+https://perma.cc/ZXD3-SJ7L
 
 
 
@@ -619,8 +624,10 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/turkmenistan/
  No information found. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/23/central-asia-respect-rights-covid-19-responses
-https://www.amnesty.org/en/countries/europe-and-central-asia/turkmenistan/
+ https://perma.cc/CA5C-BNVA
+
+
+https://perma.cc/RSS5-2DAZ
 
 
 
@@ -664,10 +671,10 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/turkmenistan/
  No evidence of measures limiting media freedom found 
 
 *Sources*:
- http://www.turkmenistan.gov.tm/?id=20961
-https://www.garda.com/crisis24/news-alerts/359861/turkmenistan-authorities-announce-nationwide-social-restrictions-july-13-update-1
-https://www.oecd.org/coronavirus/policy-responses/covid-19-crisis-response-in-central-asia-5305f172/
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+ https://web.archive.org/web/20200518201602/http://www.turkmenistan.gov.tm/?id=20961
+https://perma.cc/5K4H-8SWS
+https://perma.cc/FF7C-T28X
+https://perma.cc/SW3T-LPXL
 
 
 
@@ -789,13 +796,15 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 According to Human Rights Watch, "The Turkmen government routinely retaliates against independent reporting inside the country." (2) 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-limits-turkmenistan
+ https://perma.cc/LD73-VRL7
 (1)
-https://www.hrw.org/news/2020/06/27/turkmenistan-denies-apparent-covid-19-outbreak
+
+https://perma.cc/3XAE-KCYJ
 (2)
-https://rsf.org/en/news/coronavirus-limits-turkmenistan
-https://cpj.org/reports/2019/09/10-most-censored-eritrea-north-korea-turkmenistan-journalist/
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+
+https://perma.cc/49LS-QRZX
+https://perma.cc/2D9U-RCMJ
+https://perma.cc/6LBC-H49E
 
 
 
@@ -839,14 +848,15 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
 According to Human Rights Watch, "The Turkmen government routinely retaliates against independent reporting inside the country." (2) 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-limits-turkmenistan
+ https://perma.cc/LD73-VRL7
 (1)
-https://www.hrw.org/news/2020/06/27/turkmenistan-denies-apparent-covid-19-outbreak
+
+https://perma.cc/3XAE-KCYJ
 (2)
 
-https://rsf.org/en/news/coronavirus-limits-turkmenistan
-https://cpj.org/reports/2019/09/10-most-censored-eritrea-north-korea-turkmenistan-journalist/
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+https://perma.cc/49LS-QRZX
+https://perma.cc/2D9U-RCMJ
+https://perma.cc/6LBC-H49E
 
 
 
@@ -888,8 +898,10 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
  No information found on instances of limitations on media reporting on non-Covid-19 related news but with reference to the pandemic. 
 
 *Sources*:
- https://ipi.media/turkmenistan/
-https://rsf.org/en/turkmenistan
+ https://perma.cc/B6AZ-95V7
+
+
+https://perma.cc/EP45-FU7T
 
 
 
@@ -932,10 +944,12 @@ https://rsf.org/en/turkmenistan
  Although the country has not officially registered any Covid-18 cases, there are numerous reports that the authorities are concealing the truth, which Human Rights Watch calls "an apparent covid-19 outbreak." Human Rights Watch mentions the main hospital in the capital being placed in quarantine with many “pneumonia-like”  cases, reports of health workers who tested positive for Covid-19, dealths of people with Covid-19-like symptoms. Doctors are reportedly required to quarantine in hospitals and cannot use their phones.  (1) Coded as 2 inall time periods as I did not find further information on whether the situation improved. 
 
 *Sources*:
- https://www.hrw.org/news/2020/06/27/turkmenistan-denies-apparent-covid-19-outbreak
+ https://perma.cc/B3PE-RG7Y
 (1)
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-https://www.hrw.org/world-report/2021/country-chapters/turkmenistan
+
+https://perma.cc/QR3S-UY3P
+
+https://perma.cc/4NBL-EQQF
 
 
 
@@ -977,8 +991,10 @@ https://www.hrw.org/world-report/2021/country-chapters/turkmenistan
  No information found. 
 
 *Sources*:
- https://ipi.media/turkmenistan/
-https://rsf.org/en/turkmenistan
+ https://perma.cc/B6AZ-95V7
+
+
+https://perma.cc/EP45-FU7T
 
 
 
@@ -1020,8 +1036,10 @@ https://rsf.org/en/turkmenistan
  No information found. No new information found since June 2020. 
 
 *Sources*:
- https://www.hrw.org/europe/central-asia/turkmenistan
-https://www.amnesty.org/en/countries/europe-and-central-asia/turkmenistan/
+ https://perma.cc/QPN2-GYC8
+
+
+https://perma.cc/9LJP-NBGP
 
 
 
@@ -1065,14 +1083,16 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/turkmenistan/
  The government removed the word "coronavirus" from its brochures; the president gave an order to use a traditional herb to disinfect public spaces; some travellers had to undergo medical testing unrelated to covid-19 (1). According to a BBC article from 23 October, "alleged virus-laden dust [from China] was the reason citizens were being told to wear masks." (2) 
 
 *Sources*:
- https://tm.usembassy.gov/covid-19-information/
+ https://perma.cc/32MD-T768
 (1)
-https://rsf.org/en/news/coronavirus-limits-turkmenistan
-https://www.nytimes.com/2020/04/02/world/asia/coronavirus-denial-post-soviet.html
-https://www.amnesty.org/download/Documents/EUR0122152020ENGLISH.PDF
-https://www.bbc.com/news/world-asia-54655692
+
+https://perma.cc/5PR2-2QXY
+https://perma.cc/NU8G-NH7E
+https://perma.cc/Q54U-CSE6
+https://perma.cc/9838-ZZNK
 (2)
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+
+https://perma.cc/QR3S-UY3P
 
 
 
@@ -1116,8 +1136,11 @@ https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
  No instances of police violence found 
 
 *Sources*:
- https://www.hrw.org/europe/central-asia/turkmenistan
-https://www.amnesty.org/en/countries/europe-and-central-asia/turkmenistan/
+ https://perma.cc/N6YR-USEU
+
+
+
+https://perma.cc/RSS5-2DAZ
 
 
 
@@ -1159,4 +1182,4 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/turkmenistan/
  No information found. 
 
 *Sources*:
- https://milligosun.gov.tm/
+ https://perma.cc/4PEV-RJDT

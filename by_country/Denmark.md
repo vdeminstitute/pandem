@@ -45,23 +45,37 @@
  The Danish government proposed an amedment to the Act on Measures against Infectious and Other Communicable Diseases (Epidemiloven) that grants the Minister of Health powers that include limiting gatherings of people, prohibiting access to means of transportation and order people who are suspected of being infected to isolate. This amendment is the legal instrument through which the initial emergency measures were taken, and this is therefore coded as 4. The amendment had a sunset clause set to a year, from 2020-03-01 to 2021-03-01. When this amendment expired, it was replaced with a permanent Epidemic Act (in danish also called Epidemiloven) that was prepared and debated in parliament during the fall and winter of 2020. This new and permanent Epidemic Act includes most of possible measures and powers of the temporary amendment, but due to the permanent nature also includes much more parliamentary oversight, veto rights and judicial review of actions taken, and especially so for the more intervening measures. Thus, the new epidemics act solidifies the Danish authorities powers to take measures to mitigate Covid-19 (and other similar diseases) spread if considered to have devastating enough effect on health and society, but it distributes the power of this act to more instances than the government, as well as introduces checks and balances onto the measures taken. Thus, the legal instrument changed as of Q2 in 2021, but it is still a new legislation not representing any state of emergency and thus coded 4 here as well. 
 
 *Sources*:
- https://www.elov.dk/epidemiloven/
-
-https://www.retsinformation.dk/eli/lta/2021/285
-https://www.retsinformation.dk/eli/ft/201913L00133
+ https://perma.cc/3YC5-KGWA
 
 
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.acaps.org/covid19-government-measures-dataset
+https://perma.cc/9BTK-QBQL
 
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.thelocal.dk/20201113/explained-what-is-denmarks-proposed-epidemic-law-and-why-is-it-being-criticised/
 
-https://verfassungsblog.de/the-eternal-emergency-denmarks-legal-response-to-Covid-19-in-review/
+https://perma.cc/573K-K4QB
 
-https://sum.dk/nyheder/2020/december/bred-aftale-om-ny-epidemilov-
+
+https://perma.cc/GN3Y-95PT
+
+
+https://perma.cc/4P3V-KNLM
+
+
+https://perma.cc/D8L8-A56B
+
+
+https://perma.cc/W634-PEDC
+
+
+https://perma.cc/46AV-HSYE
+
+
+https://perma.cc/PF2M-EHAY
+
+
+https://perma.cc/YRF4-5S4P
+
+
+https://perma.cc/B9AA-7XTD
 
 
 
@@ -100,15 +114,19 @@ https://sum.dk/nyheder/2020/december/bred-aftale-om-ny-epidemilov-
  For Q2-Q4 in 2020 and Q1 in 2021, the legal instrument was an amendment with the above title, but which was generally referred to as the Epidemics Act. As of March 1 2021, Denmark instituted a permanent law to handle Covid-19 (and other communicable diseases) which is simply named Epidemiloven (Epidemics Act), and this is thus the name for Q2 in 2021. 
 
 *Sources*:
- https://www.elov.dk/epidemiloven/
-
-https://www.retsinformation.dk/eli/lta/2021/285
-https://www.retsinformation.dk/eli/ft/201913L00133
+ https://perma.cc/7NYX-7WBX
 
 
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
+https://perma.cc/HJ94-R98V
 
-https://verfassungsblog.de/the-eternal-emergency-denmarks-legal-response-to-Covid-19-in-review/
+
+https://perma.cc/4URW-AKNQ
+
+
+https://perma.cc/GBB6-NXAF
+
+
+https://perma.cc/HTE5-WFZG
 
 
 
@@ -147,16 +165,19 @@ https://verfassungsblog.de/the-eternal-emergency-denmarks-legal-response-to-Covi
  The government proposed the amendment on March 12 2021, but it came into force on the 17 of March 2021. This amendment ended due to its sunset clause on March 1 2021, and was replaced with a permanent law. Thus, in Q2, there’s a new starting date signifying a new law. 
 
 *Sources*:
- https://www.elov.dk/epidemiloven/
-
-https://www.retsinformation.dk/eli/lta/2021/285
-https://www.retsinformation.dk/eli/ft/201913L00133
+ https://perma.cc/7NYX-7WBX
 
 
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
+https://perma.cc/HJ94-R98V
 
-https://verfassungsblog.de/the-eternal-emergency-denmarks-legal-response-to-Covid-19-in-review/
- 
+
+https://perma.cc/4URW-AKNQ
+
+
+https://perma.cc/GBB6-NXAF
+
+
+https://perma.cc/HTE5-WFZG
 
 
 
@@ -195,15 +216,19 @@ https://verfassungsblog.de/the-eternal-emergency-denmarks-legal-response-to-Covi
  Implementation of legal instrument has not ended by time of coding. The amendment that was in place from 2020-03-17-2021-03-01 has ended, but it was replaced with the permanent Epidemics Act which in terms of available measures etc. is very similar to the initial amendment. The legal instrument was thus replaced with a very similar one, and therefore this is not regarded to have ended as such. 
 
 *Sources*:
- https://www.elov.dk/epidemiloven/
-
-https://www.retsinformation.dk/eli/lta/2021/285
-https://www.retsinformation.dk/eli/ft/201913L00133
+ https://perma.cc/7NYX-7WBX
 
 
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
+https://perma.cc/HJ94-R98V
 
-https://verfassungsblog.de/the-eternal-emergency-denmarks-legal-response-to-Covid-19-in-review/
+
+https://perma.cc/4URW-AKNQ
+
+
+https://perma.cc/GBB6-NXAF
+
+
+https://perma.cc/HTE5-WFZG
 
 
 
@@ -245,16 +270,22 @@ https://verfassungsblog.de/the-eternal-emergency-denmarks-legal-response-to-Covi
  The first major measures taken were to limit social gatherings to 10 people as well as closing night clubs, bars etc. on the 18 of March 2020, and these were initially set to the 30 of March 2020. There have been different time limits for different measures during the coded period. However, the legal instrument these measures were taken under had a sunset clause set to 2021-03-01, and was then terminated. It was replaced with a permanent law which includes many of the powers of the initial amendment, but also much more oversight, judicial review etc. From 2021-03-01, there is thus no time limit on the legal instrument used to implement measures related to Covid-19, but as far as have been seen, there are time limits on all measures taken under this new law (in general, each measure can not be in place more than 4 weeks at a time, although some longer time periods can be used in exceptions - the amount of time a disease can be regarded as dangerous to society as a whole also has a time limit of 6 months at a time). This is therefore coded as 1 for Q2 in 2021 as well, as there seem to be no measures under it that can or is be implemented indefinetly although the law as an instrument is permanent. 
 
 *Sources*:
- https://www.elov.dk/epidemiloven/
-
-https://www.retsinformation.dk/eli/lta/2021/285
-https://www.retsinformation.dk/eli/ft/201913L00133
+ https://perma.cc/7NYX-7WBX
 
 
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
+https://perma.cc/HJ94-R98V
 
-https://verfassungsblog.de/the-eternal-emergency-denmarks-legal-response-to-Covid-19-in-review/
-https://www.elov.dk/epidemiloven/
+
+https://perma.cc/4URW-AKNQ
+
+
+https://perma.cc/GBB6-NXAF
+
+
+https://perma.cc/HTE5-WFZG
+
+
+https://perma.cc/7NYX-7WBX
 
 
 
@@ -293,17 +324,22 @@ https://www.elov.dk/epidemiloven/
  There have been different time limits for different measures, and extensions of some of them, but the legal instrument under which these measures are taken has a sunset clause on 31 of March 2021, and this is therefore the date coded here. After this legal instrument expired, it was replaced with a similar but permanent legal instrument which in itself has no end date. However, all measures taken under it have end dates, and the general time limit for each measure is four weeks. Denmark made a larger reopening and relaxing of restrictions on April 21 2021. They are expected to relax some further measures on May 2021, by not extending some measures. The different measures have individual time limits, most of which are currently set to end sometime in June 2021. The restriction on assembly, which is one of the main restrictions, has an expiry date on 2021-09-01 currently (although this is for the restriction of no more than 500 people in one place – the current restriction of no more than 50 people is set to expire on 2021-06-11). As this is a central restriction, which is currently set to be expired in full on 2021-09-01, this is the date coded for Q2 of 2021.  Note however that they can still be extended, and new measures could be reintroduced as well. 
 
 *Sources*:
- https://www.elov.dk/epidemiloven/
-
-https://www.retsinformation.dk/eli/lta/2021/285
-https://www.retsinformation.dk/eli/ft/201913L00133
+ https://perma.cc/7NYX-7WBX
 
 
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
+https://perma.cc/HJ94-R98V
 
-https://verfassungsblog.de/the-eternal-emergency-denmarks-legal-response-to-Covid-19-in-review/
 
-https://www.retsinformation.dk/eli/lta/2021/947
+https://perma.cc/4URW-AKNQ
+
+
+https://perma.cc/GBB6-NXAF
+
+
+https://perma.cc/HTE5-WFZG
+
+
+https://perma.cc/RHM9-7GSM
 
 
 
@@ -345,16 +381,19 @@ https://www.retsinformation.dk/eli/lta/2021/947
  Yes, the parliament made a fast-track approvement of the amendment in order for it to come into effect. The parliament also had to approve the permanent law that came into effect on 2021-03-01. This is therefore coded as 1 for all periods. 
 
 *Sources*:
- https://www.elov.dk/epidemiloven/
-
-https://www.retsinformation.dk/eli/lta/2021/285
-https://www.retsinformation.dk/eli/ft/201913L00133
+ https://perma.cc/7NYX-7WBX
 
 
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
+https://perma.cc/HJ94-R98V
 
-https://verfassungsblog.de/the-eternal-emergency-denmarks-legal-response-to-Covid-19-in-review/
- 
+
+https://perma.cc/4URW-AKNQ
+
+
+https://perma.cc/GBB6-NXAF
+
+
+https://perma.cc/HTE5-WFZG
 
 
 
@@ -396,15 +435,19 @@ https://verfassungsblog.de/the-eternal-emergency-denmarks-legal-response-to-Covi
  Yes, the parliament made a fast-track approvement of the amendment in order for it to come into effect. The parliament also had to and did approve the permanent law that came into effect on 2021-03-01. This is therefore coded as 1 for all periods. 
 
 *Sources*:
- https://www.elov.dk/epidemiloven/
-
-https://www.retsinformation.dk/eli/lta/2021/285
-https://www.retsinformation.dk/eli/ft/201913L00133
+ https://perma.cc/7NYX-7WBX
 
 
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
+https://perma.cc/HJ94-R98V
 
-https://verfassungsblog.de/the-eternal-emergency-denmarks-legal-response-to-Covid-19-in-review/
+
+https://perma.cc/4URW-AKNQ
+
+
+https://perma.cc/GBB6-NXAF
+
+
+https://perma.cc/HTE5-WFZG
 
 
 
@@ -450,23 +493,37 @@ https://verfassungsblog.de/the-eternal-emergency-denmarks-legal-response-to-Covi
  The legal instrument, the amendment, does not affect the parliaments lawmaking role. It does provide the Health Minister some extraordinary power, but these powers are defined and demarcated in the amendment that parliament passed, and does not provide measures that could impact the lawmaking role of the parliament as such. When the legal instrument changed to the permanent law in Q2 of 2021, the same principles applied as far as I’ve seen, along with extensions into how parliament can oversee and scrutinize measures taken under it (as well as other instances such as judiciaries). Furthermore, when the government during the fall of 2020 proposed to replace the temporary amendment of the epidemics act with a permanent new law containing virtually the same powers, this was strongly rejected by parliament. This led the government to strike a deal with most parties of the parliament, thus involving them in the process of drafting the law. Thus, the initial permanent legislation proposed by the government could have undermined parliamentary scrutiny and power in the longer run, but it was turned down by the opposition and they arrived at a version of it that as far as has been found has no limiting effect on parliaments power. Finally, parliament has stayed active and working during the pandemic, and as stated been involved in drafting new legislation, as well as approving both the temporary amendment and the permanent law. This is therefore coded 0 for all periods. 
 
 *Sources*:
- https://www.elov.dk/epidemiloven/
-
-https://www.retsinformation.dk/eli/lta/2021/285
-https://www.retsinformation.dk/eli/ft/201913L00133
+ https://perma.cc/S6A2-D2RZ
 
 
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.acaps.org/covid19-government-measures-dataset
+https://perma.cc/A4YY-TSQS
 
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.thelocal.dk/20201113/explained-what-is-denmarks-proposed-epidemic-law-and-why-is-it-being-criticised/
 
-https://verfassungsblog.de/the-eternal-emergency-denmarks-legal-response-to-Covid-19-in-review/
+https://perma.cc/5CF2-NCX2
 
-https://sum.dk/nyheder/2020/december/bred-aftale-om-ny-epidemilov-
+
+https://perma.cc/8RCH-5ZVA
+
+
+https://perma.cc/XK6X-PMPQ
+
+
+https://perma.cc/GLQ2-AVFU
+
+
+https://perma.cc/246C-8UZW
+
+
+https://perma.cc/D5WZ-WN8V
+
+
+https://perma.cc/6QDT-WUTQ
+
+
+https://perma.cc/3MXX-RW2L
+
+
+https://perma.cc/H63J-YW5T
 
 
 
@@ -588,16 +645,22 @@ https://sum.dk/nyheder/2020/december/bred-aftale-om-ny-epidemilov-
  In Q2 of 2020, I haven't found any record of sub-national variation in the policy response to Covid-19. All emergency measures are handled by the Danish Government. In Q3 of 2020, more restrictive measures were declared in the Copenhagen area and Odense Municipality. In Q4 of 2020 and Q1 and Q2 of 2021, No  record of sub-national variation in the policy response to Covid-19 was found in this time period. Denmark has had substantial restrictions nationally, and also seem to have opened up at the same pace and time nationally. 
 
 *Sources*:
- https://en.coronasmitte.dk/latest-updates
+ https://perma.cc/S3FZ-KF9H
 
 
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
+https://perma.cc/T4SJ-UDV4
 
-https://www.acaps.org/covid19-government-measures-dataset
 
-https://www.retsinformation.dk/eli/ft/201913L00133
-https://sum.dk/Aktuelt/Nyheder/Coronavirus/2020/September/Nye-tiltag-mod-COVID-19.aspx
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_november_2020.pdf
+https://perma.cc/GF2P-F94R
+
+
+https://perma.cc/HJ7Q-UCGU
+
+
+https://perma.cc/264N-WWU2
+
+
+https://perma.cc/W4G8-99XE
 
 
 
@@ -641,14 +704,22 @@ https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_p
  Human rights Watch, Amnesty International and the EU agency for fundamental rights report no discrimination in the emergency measures taken by Denmark, and no indications have been found of any such discrimination. This is therefore coded as 0 for all periods. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38444&resourceType=newsarticle&sort=date
+ https://perma.cc/VBL4-HLNG
 
-https://www.hrw.org/sitesearch?search=Denmark
 
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_july_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+https://perma.cc/VJV7-2N5N
+
+
+https://perma.cc/858P-7D4G
+
+
+https://perma.cc/435T-TTJ2
+
+
+https://perma.cc/L6NK-KUNK
+
+
+https://perma.cc/C2TR-32AG
 
 
 
@@ -697,14 +768,22 @@ https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%
  Neither the EU agency for fundamental rights, Human Rights Watch or Amnesty international has reported any incidents of violations of non-derogable rights, and no other indication has been found that that has occurred in Denmark's Covid-19 response. This is therefore coded as 0. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38444&resourceType=newsarticle&sort=date
+ https://perma.cc/7YC4-G2E5
 
-https://www.hrw.org/sitesearch?search=Denmark
 
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_july_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+https://perma.cc/E3BR-EFQJ
+
+
+https://perma.cc/YRX4-2DZQ
+
+
+https://perma.cc/UU72-Q653
+
+
+https://perma.cc/DX4L-ZCQB
+
+
+https://perma.cc/F2W6-HZGL
 
 
 
@@ -748,14 +827,22 @@ https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the Danish Governments response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B105%5D=105
+ https://perma.cc/3L4S-7DKV
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Denmark
-https://cpj.org/europe/denmark/
-https://www.elov.dk/epidemiloven/
 
-https://www.retsinformation.dk/eli/lta/2021/285
-https://www.retsinformation.dk/eli/ft/201913L00133
+https://perma.cc/9ND2-X477
+
+
+https://perma.cc/AGW7-WE96
+
+
+https://perma.cc/2WQG-5Z54
+
+
+https://perma.cc/J7MU-NSXD
+
+
+https://perma.cc/UXD3-BTTZ
 
 
 
@@ -794,10 +881,13 @@ https://www.retsinformation.dk/eli/ft/201913L00133
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B105%5D=105
+ https://perma.cc/3L4S-7DKV
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Denmark
-https://cpj.org/europe/denmark/
+
+https://perma.cc/9ND2-X477
+
+
+https://perma.cc/AGW7-WE96
 
 
 
@@ -836,10 +926,13 @@ https://cpj.org/europe/denmark/
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B105%5D=105
+ https://perma.cc/3L4S-7DKV
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Denmark
-https://cpj.org/europe/denmark/
+
+https://perma.cc/9ND2-X477
+
+
+https://perma.cc/AGW7-WE96
 
 
 
@@ -881,10 +974,13 @@ https://cpj.org/europe/denmark/
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in Denmark, and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B105%5D=105
+ https://perma.cc/3L4S-7DKV
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Denmark
-https://cpj.org/europe/denmark/
+
+https://perma.cc/9ND2-X477
+
+
+https://perma.cc/AGW7-WE96
 
 
 
@@ -926,10 +1022,13 @@ https://cpj.org/europe/denmark/
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in Denmark,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B105%5D=105
+ https://perma.cc/3L4S-7DKV
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Denmark
-https://cpj.org/europe/denmark/
+
+https://perma.cc/9ND2-X477
+
+
+https://perma.cc/AGW7-WE96
 
 
 
@@ -971,10 +1070,13 @@ https://cpj.org/europe/denmark/
  Neither Reporters without Borders nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in Denmark, and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B105%5D=105
+ https://perma.cc/3L4S-7DKV
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Denmark
-https://cpj.org/europe/denmark/
+
+https://perma.cc/9ND2-X477
+
+
+https://perma.cc/AGW7-WE96
 
 
 
@@ -1017,10 +1119,13 @@ https://cpj.org/europe/denmark/
  Neither Reporters without Borders nor International Press Institute have reported any limitations by the government or its agents on access to Covid-19 related information, and no other indications have been found of there being any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B105%5D=105
+ https://perma.cc/3L4S-7DKV
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Denmark
-https://cpj.org/europe/denmark/
+
+https://perma.cc/9ND2-X477
+
+
+https://perma.cc/AGW7-WE96
 
 
 
@@ -1062,10 +1167,13 @@ https://cpj.org/europe/denmark/
  Neither Reporters without Borders nor International Press Institute have reported any verbal harassment of journalists in Denmark, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B105%5D=105
+ https://perma.cc/3L4S-7DKV
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Denmark
-https://cpj.org/europe/denmark/
+
+https://perma.cc/9ND2-X477
+
+
+https://perma.cc/AGW7-WE96
 
 
 
@@ -1107,10 +1215,13 @@ https://cpj.org/europe/denmark/
  Neither Reporters without Borders nor International Press Institute have reported any physical harassment of journalists in Denmark, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B105%5D=105
+ https://perma.cc/3L4S-7DKV
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Denmark
-https://cpj.org/europe/denmark/
+
+https://perma.cc/9ND2-X477
+
+
+https://perma.cc/AGW7-WE96
 
 
 
@@ -1154,10 +1265,10 @@ https://cpj.org/europe/denmark/
  There seem to be no deviations from the information provided by WHO and that of the Danish Government on Covid-19, and no complaints or accusations of any such disinformation has been found. 
 
 *Sources*:
- https://www.sst.dk/da/corona
+ https://perma.cc/XDY9-LGEF
 
 
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_november_2020.pdf
+https://perma.cc/9YN9-FZCY
 
 
 
@@ -1201,18 +1312,28 @@ https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_p
  Neither Human Rights Watch, Amnesty International nor EU agency for fundamental rights have reported any incidents of violence in enforcing emergency measures. There have been a couple of larger demonstrations on restrictions against Covid-19 during Q1 and Q2 of 2021, but no indication has been found that police have used excessive force during these. This is therefore coded 0 for all periods. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38444&resourceType=newsarticle&sort=date
+ https://perma.cc/B6NT-RVLA
 
-https://www.hrw.org/sitesearch?search=Denmark
 
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_july_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+https://perma.cc/TZP2-LK7K
 
-https://www.thelocal.dk/20210110/nine-arrested-in-denmark-after-anti-lockdown-violence/
 
-https://www.garda.com/crisis24/news-alerts/478396/denmark-anti-lockdown-activists-to-rally-at-copenhagen-city-hall-on-may-15 
+https://perma.cc/52KW-WNEN
+
+
+https://perma.cc/QHF7-XXMJ
+
+
+https://perma.cc/4KTT-76YT
+
+
+https://perma.cc/4BXF-Y5PE
+
+
+https://perma.cc/4UNL-GGUM
+
+
+https://perma.cc/VP7K-LZE5
 
 
 
@@ -1254,4 +1375,4 @@ https://www.garda.com/crisis24/news-alerts/478396/denmark-anti-lockdown-activist
  No evidence has been found that the military has been involved in enforcing Covid-19 restrictions in Denmark. 
 
 *Sources*:
- http://euromil.org/armed-forces-and-Covid-19/
+ https://perma.cc/R7Y2-V9YH

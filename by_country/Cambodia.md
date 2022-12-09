@@ -47,32 +47,19 @@
 On 11 March 2021, Law on Measures to Prevent the Spread of COVID-19 and other Serious, Dangerous and Contagious Diseases went in force, which is different from differs from a state of emergency, public health emergency, or disaster/catastrophe and is coded as 4. 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
-
-
-
-https://www.hrw.org/news/2020/04/29/cambodia-covid-19-spurs-bogus-fake-news-arrests
-
-https://www.voacambodia.com/a/cambodia-s-controversial-state-of-emergency-draft-signed-into-law/5398771.html
-
-
-https://www.hrw.org/news/2020/04/02/cambodia-emergency-bill-recipe-dictatorship
-
-https://www.voacambodia.com/a/state-of-emergency-draft-law-gives-gov-t-sweeping-powers-permits-human-rights-restrictions-/5353728.html
-
-https://www.amnesty.org/en/latest/news/2020/04/cambodia-proposed-emergency-power-obliterate-human-rights/
-
-https://www.constituteproject.org/constitution/Cambodia_2008.pdf?lang=en
-
-https://www.justsecurity.org/71194/opportunism-covid-19-and-cambodias-state-of-emergency-law/
-
-https://www.phnompenhpost.com/national/law-covid-19-control-takes-effect
-
-https://www.icnl.org/resources/civic-freedom-monitor/cambodia
-
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26985&LangID=E
-
-https://www.hrw.org/news/2021/03/05/cambodia-scrap-abusive-covid-19-prevention-bill
+ 
+https://perma.cc/KM9L-SCWU
+https://perma.cc/N8HW-BU58
+https://perma.cc/QUU9-CELS
+https://perma.cc/BK2D-DHPZ
+https://perma.cc/R7YS-9CJ8
+https://perma.cc/4SPG-BHPW
+https://perma.cc/2VJK-WXV2
+https://perma.cc/W69K-ZFTE
+https://perma.cc/8YE9-KFXE
+https://perma.cc/T3EH-USPA
+https://perma.cc/AJ3H-WMMP
+https://perma.cc/4W42-ZKQS
 
 
 
@@ -111,15 +98,18 @@ https://www.hrw.org/news/2021/03/05/cambodia-scrap-abusive-covid-19-prevention-b
  On 11 March 2021, Law on Measures to Prevent the Spread of COVID-19 and other Serious, Dangerous and Contagious Diseases went in force, which is new legislation that does not contain references to other legal instruments, and is therefore coded in emname. 
 
 *Sources*:
- https://www.phnompenhpost.com/national/law-covid-19-control-takes-effect
-
-https://www.icnl.org/resources/civic-freedom-monitor/cambodia
-
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26985&LangID=E
+ https://perma.cc/8YE9-KFXE
 
 
+https://perma.cc/T3EH-USPA
 
-https://www.hrw.org/news/2021/03/05/cambodia-scrap-abusive-covid-19-prevention-bill
+
+
+https://perma.cc/AJ3H-WMMP
+
+
+
+https://perma.cc/4W42-ZKQS
 
 
 
@@ -158,9 +148,13 @@ https://www.hrw.org/news/2021/03/05/cambodia-scrap-abusive-covid-19-prevention-b
  The Law on Measures to Prevent the Spread of COVID-19 and other Serious, Dangerous and Contagious Diseases was promulgated on 11 March 2021. 
 
 *Sources*:
- https://www.phnompenhpost.com/national/law-covid-19-control-takes-effect
+ https://perma.cc/8YE9-KFXE
 
-https://www.icnl.org/resources/civic-freedom-monitor/cambodia
+
+https://perma.cc/T3EH-USPA
+
+
+
 
 
 
@@ -199,15 +193,16 @@ https://www.icnl.org/resources/civic-freedom-monitor/cambodia
  The Law on Measures to Prevent the Spread of COVID-19 and other Serious, Dangerous and Contagious Diseases does not have a defined time limit and we found no evidence that its implementation has ended at the time coding. 
 
 *Sources*:
- https://www.phnompenhpost.com/national/law-covid-19-control-takes-effect
-
-https://www.icnl.org/resources/civic-freedom-monitor/cambodia
-
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26985&LangID=E
+ https://perma.cc/X3VQ-4TSF
 
 
+https://perma.cc/W7TA-85TR
 
-https://www.hrw.org/news/2021/03/05/cambodia-scrap-abusive-covid-19-prevention-bill
+
+https://perma.cc/TXS8-D7FT
+
+
+https://perma.cc/KMD3-GD46
 
 
 
@@ -249,9 +244,10 @@ https://www.hrw.org/news/2021/03/05/cambodia-scrap-abusive-covid-19-prevention-b
  Left blank for 2020 because no legal instrument was found. According to Human Rights Watch, “The legislation does not make the measures temporary or subject them to regular review.” No further information about a time limit was found. Emlimit is therefore coded as 0 in 2021. 
 
 *Sources*:
- https://www.icnl.org/resources/civic-freedom-monitor/cambodia
+ https://perma.cc/T3EH-USPA
 
-https://www.hrw.org/news/2021/03/05/cambodia-scrap-abusive-covid-19-prevention-bill
+
+https://perma.cc/4W42-ZKQS
 
 
 
@@ -290,9 +286,10 @@ https://www.hrw.org/news/2021/03/05/cambodia-scrap-abusive-covid-19-prevention-b
  Left blank for 2020 because no legal instrument was found. Left blank for 2021 because there is no time limit for the implementation of the Law on Measures to Prevent the Spread of COVID-19 and other Serious, Dangerous and Contagious Diseases. 
 
 *Sources*:
- https://www.icnl.org/resources/civic-freedom-monitor/cambodia
+ https://perma.cc/T3EH-USPA
 
-https://www.hrw.org/news/2021/03/05/cambodia-scrap-abusive-covid-19-prevention-bill
+
+https://perma.cc/4W42-ZKQS
 
 
 
@@ -334,9 +331,13 @@ https://www.hrw.org/news/2021/03/05/cambodia-scrap-abusive-covid-19-prevention-b
  The parliament had to approve the Law on Measures to Prevent the Spread of COVID-19 and other Serious, Dangerous and Contagious Diseases.  According to Human Rights Watch, “The government has asked the National Assembly to treat the bill [Law on Measures to Prevent the Spread of COVID-19 and other Serious, Dangerous and Contagious Diseases] as “urgent,” minimizing expert review and public input.” 
 
 *Sources*:
- https://www.hrw.org/news/2021/03/05/cambodia-scrap-abusive-covid-19-prevention-bill
+ https://perma.cc/4W42-ZKQS
 
-https://www.business-humanrights.org/es/%C3%BAltimas-noticias/cambodia-govt-introduce-law-on-covid-19-measures-enabling-for-restrictions-on-civic-freedoms-and-suspension-of-business-hrw-claims-the-law-impose-disproportionate-fines-and-imprisonment/
+
+
+
+
+https://perma.cc/966U-JUMT
 
 
 
@@ -378,9 +379,10 @@ https://www.business-humanrights.org/es/%C3%BAltimas-noticias/cambodia-govt-intr
  The National Assembly passed the [Law on Measures to Prevent the Spread of COVID-19 and other Serious, Dangerous and Contagious Diseases on 5 March 2021. 
 
 *Sources*:
- https://www.phnompenhpost.com/national/law-covid-19-control-takes-effect
+ https://perma.cc/8YE9-KFXE
 
-https://www.business-humanrights.org/es/%C3%BAltimas-noticias/cambodia-govt-introduce-law-on-covid-19-measures-enabling-for-restrictions-on-civic-freedoms-and-suspension-of-business-hrw-claims-the-law-impose-disproportionate-fines-and-imprisonment/
+
+https://perma.cc/966U-JUMT
 
 
 
@@ -426,21 +428,22 @@ https://www.business-humanrights.org/es/%C3%BAltimas-noticias/cambodia-govt-intr
  Law on Measures to Prevent the Spread of COVID-19 and other Serious, Dangerous and Contagious Diseases authorizes the government to take emergency measures. According to Human Rights Watch, the bill “fails to provide any independent oversight or procedural safeguards” and “uch vague provisions allow for potential overreach and abuses by the authorities by arbitrarily targeting people and groups in society. Because the scope of the measures is vaguely defined, leglimit is coded as 3 in 2021. 
 
 *Sources*:
- https://www.amnesty.org/en/latest/news/2020/04/cambodia-proposed-emergency-power-obliterate-human-rights/
+ https://perma.cc/4SPG-BHPW
 
 
+https://perma.cc/LU8Z-G5CZ
 
 
-https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
-
-https://www.phnompenhpost.com/national/law-covid-19-control-takes-effect
-https://www.icnl.org/resources/civic-freedom-monitor/cambodia
-
-https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26985&LangID=E
+https://perma.cc/2MCT-FWFU
 
 
+https://perma.cc/VWP8-Y4SW
 
-https://www.hrw.org/news/2021/03/05/cambodia-scrap-abusive-covid-19-prevention-bill
+
+https://perma.cc/S9VQ-3DQL
+
+
+https://perma.cc/7E9P-TPNS
 
 
 
@@ -481,12 +484,10 @@ https://www.hrw.org/news/2021/03/05/cambodia-scrap-abusive-covid-19-prevention-b
 I did not find any information suggesting that Cambodia's national legislature was dissolved in Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia
+ https://perma.cc/8EA7-T787
 
 
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/cambodia/
+https://perma.cc/DP9B-GGL2
 
 
 
@@ -527,12 +528,10 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/cambodia/
 I did not find any information suggesting that Cambodia's national legislature was dissolved in Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia
+ https://perma.cc/8EA7-T787
 
 
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/cambodia/
+https://perma.cc/DP9B-GGL2
 
 
 
@@ -580,19 +579,22 @@ The Cambodian government enacted strict stay at home orders across the cities of
 The lockdowns ended on 6 May 2021. 
 
 *Sources*:
- https://www.hrw.org/asia/cambodia
-"
-
-https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia
+ https://perma.cc/KG9B-LWJV
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/cambodia/
+https://perma.cc/8RKJ-B738
 
-https://asia.nikkei.com/Spotlight/Coronavirus/Thailand-Vietnam-and-Cambodia-hit-COVID-variants-with-iron-fist
 
-https://www.hrw.org/news/2021/05/05/cambodia-end-food-insecurity-abuses-during-lockdown
+https://perma.cc/DP9B-GGL2
 
-https://www.reuters.com/world/asia-pacific/cambodia-ends-blanket-covid-19-lockdown-despite-more-infections-2021-05-06/
+
+https://perma.cc/6UV4-STSR
+
+
+https://perma.cc/RY2U-62C2
+
+
+https://perma.cc/G5EZ-VD9F
 
 
 
@@ -636,10 +638,10 @@ https://www.reuters.com/world/asia-pacific/cambodia-ends-blanket-covid-19-lockdo
  I did not find evidence of the emergency measures discriminating "solely on the grounds of race, colour, sex, language, religion or social origin". 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Cambodia_2008.pdf?lang=en
+ https://perma.cc/Y2CQ-7EFY
 
 
-https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
+https://perma.cc/PEW5-PJJT
 
 
 
@@ -690,21 +692,22 @@ https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20E
 However, a draconian public order law has been drafted by the Cambodian government which could lead to non- derogable rights to be violated in the future. The proposed law would undermine a variety of freedoms. Examples include bans on wearing face masks indoors, restrictions on women’s attire in public, undermining the right to peaceful assembly. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Cambodia_2008.pdf?lang=en
+ https://perma.cc/2VJK-WXV2
 
 
-https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
-
-https://www.amnesty.org/en/latest/news/2020/08/cambodia-repressive-draft-public-order-law-targets-the-most-vulnerable-in-society/
+https://perma.cc/H3K8-WWJZ
 
 
-https://www.hrw.org/news/2020/08/13/civil-society-organizations-call-draft-law-public-order-be-immediately-discarded
+https://perma.cc/W99P-F2EL
 
 
-https://www.voacambodia.com/a/draft-public-order-law-looks-to-control-cambodians-behavior-and-activities/5502253.html
+https://perma.cc/4YXN-7A4S
 
 
-https://www.icj.org/cambodia-icj-and-64-organizations-call-for-immediate-withdrawal-of-draft-law-on-public-order/
+https://perma.cc/FJT4-RHRB
+
+
+https://perma.cc/LCF3-YNPE
 
 
 
@@ -748,12 +751,13 @@ https://www.icj.org/cambodia-icj-and-64-organizations-call-for-immediate-withdra
  As the emergency law that was passed has not been enacted, media freedom is not limited due to the emergency measures across all the time periods. 
 
 *Sources*:
- https://rsf.org/en/news/cambodia-hun-sen-uses-covid-19-crisis-tighten-his-grip
+ https://perma.cc/D77A-34V3
 
 
-https://www.reuters.com/article/us-health-coronavirus-cambodia/cambodia-adopts-law-to-allow-for-emergency-powers-to-tackle-coronavirus-idUSKCN21S0IW
+https://perma.cc/9TYK-S99J
 
-https://www.ifj.org/media-centre/news/detail/category/press-releases/article/cambodia-parliament-approves-state-emergency-law-amid-the-pandemic.html
+
+https://perma.cc/DE2X-HKL8
 
 
 
@@ -877,20 +881,22 @@ https://www.ifj.org/media-centre/news/detail/category/press-releases/article/cam
 I did not find cases of the media facing de-facto limitations on reporting about the nature of Covid-19 in Q2 of 2021. However the media landscape is heavily controlled and multiple people have been arrested for sharing information about Covid-19 in Cambodia since January 2020. As I did not find any information suggesting that the situation has improved, I have continued to code this variable as 1. 
 
 *Sources*:
- https://www.theguardian.com/world/2020/apr/10/fears-as-cambodia-grants-hun-sen-vast-power-under-covid-19-pretext
+ https://perma.cc/LG5H-TPYN
 
 
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/ZC5F-CPMZ
 
 
-https://rsf.org/en/news/cambodia-hun-sen-uses-covid-19-crisis-tighten-his-grip
+https://perma.cc/6WKZ-VUQ4
 
 
-https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
+https://perma.cc/H3K8-WWJZ
 
-https://www.hrw.org/node/339858/printable/print
 
-https://www.business-humanrights.org/en/latest-news/cambodia-rights-group-concerns-over-govts-aggressive-measures-to-contain-the-covid-19-pandemic-while-minority-groups-face-discrimination/
+https://perma.cc/K94B-NVQK
+
+
+https://perma.cc/3ZXQ-K542
 
 
 
@@ -942,27 +948,28 @@ The laws and governments increased ability to control the press would hinder the
 I did not find cases of the media facing limitations on reporting about the government's response to Covid-19 in Q1 of 2021. However the media landscape is heavily controlled and multiple people have been arrested for sharing information about Covid-19 in Cambodia since January 2020. As I did not find any information suggesting that the situation has improved, I have continued to code this variable as 1. 
 
 *Sources*:
- https://www.theguardian.com/world/2020/apr/10/fears-as-cambodia-grants-hun-sen-vast-power-under-covid-19-pretext
+ https://perma.cc/LG5H-TPYN
 
 
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/ZC5F-CPMZ
 
 
-https://rsf.org/en/news/cambodia-hun-sen-uses-covid-19-crisis-tighten-his-grip
+https://perma.cc/6WKZ-VUQ4
 
 
-https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
-
-https://www.voanews.com/press-freedom/cambodias-sentencing-journalist-over-covid-19-comment-threat-freedoms-media-groups
+https://perma.cc/H3K8-WWJZ
 
 
-https://www.ifj.org/media-centre/news/detail/category/press-releases/article/cambodia-publisher-ros-sokhet-sentenced-for-government-criticism.html
+https://perma.cc/7J9R-XCMB
 
 
-https://cpj.org/2020/06/cambodian-journalist-ros-sokhet-detained-charged-with-incitement/
+https://perma.cc/ZA5G-X3RZ
 
 
-https://www.france24.com/en/live-news/20210504-cambodia-bans-media-coverage-from-covid-lockdown-red-zones
+https://perma.cc/QW28-5ZTH
+
+
+https://perma.cc/7N23-QLMT
 
 
 
@@ -1006,13 +1013,16 @@ https://www.france24.com/en/live-news/20210504-cambodia-bans-media-coverage-from
 1:  In May 2021, the Cambodia government banned the media from reporting on Covid-19 related news from 'red zones'. These red zones are areas with high infection rates. As all reporting in the red zones are prohibited, I have coded this variable as 1 in Q2 of 2021. 
 
 *Sources*:
- https://www.hrw.org/news/2020/04/29/cambodia-covid-19-spurs-bogus-fake-news-arrests
+ https://perma.cc/2LD8-EYVN
 
-https://www.hrw.org/video-photos/interactive/2020/03/23/list-arrests-and-persons-detention-covid-19-related-offenses
 
-https://rsf.org/en/news/covid-19-emergency-laws-spell-disaster-press-freedom
+https://perma.cc/ZA9Z-SDFD
 
-https://www.france24.com/en/live-news/20210504-cambodia-bans-media-coverage-from-covid-lockdown-red-zones
+
+https://perma.cc/M5VA-YMZV
+
+
+https://perma.cc/X8RM-NRFW
 
 
 
@@ -1063,12 +1073,13 @@ The information ministry reacted by ordering the revocation of TVFB’s media li
 3: In May 2021, the Cambodia government banned the media from reporting on Covid-19 related news from 'red zones'. These red zones are areas with high infection rates. 
 
 *Sources*:
- https://rsf.org/en/news/cambodia-hun-sen-uses-covid-19-crisis-tighten-his-grip
+ https://perma.cc/D77A-34V3
 
 
-https://rsf.org/en/news/cambodian-reporter-jailed-quoting-pms-comment-about-covid-19
+https://perma.cc/7T6P-QKMC
 
-https://www.france24.com/en/live-news/20210504-cambodia-bans-media-coverage-from-covid-lockdown-red-zones
+
+https://perma.cc/VQ9V-FRTF
 
 
 
@@ -1110,9 +1121,10 @@ https://www.france24.com/en/live-news/20210504-cambodia-bans-media-coverage-from
  In May 2021 the Cambodian government ban journalists from reporting on "red zone' area. These are areas with high prevalence of Covid. The government threatened that journalists who choose to ignore this notice would have legal action taken against them. 
 
 *Sources*:
- https://www.rfa.org/english/news/cambodia/lockdown-coverage-05042021195704.html
+ https://perma.cc/9K6X-Z8NX
 
-https://ipi.media/alerts/cambodian-government-threatens-journalists-over-pandemic-lockdown-coverage-as-cases-surge/
+
+https://perma.cc/Q2XG-9KQ2
 
 
 
@@ -1154,15 +1166,19 @@ https://ipi.media/alerts/cambodian-government-threatens-journalists-over-pandemi
  I did not find instances of the government or its agents physically harrassing journalists reporting on Covid-19. However, physical harrassment of journalists in Cambodia is rampant. And multiple journalists have been arrested due to their Covid-19 coverage. 
 
 *Sources*:
- https://rsf.org/en/cambodia
+ https://perma.cc/HN5T-V9A7
 
-https://www.hrw.org/asia/cambodia
 
-https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia
+https://perma.cc/E7AD-Z7N2
 
-https://www.voanews.com/press-freedom/more-70-journalists-harassed-cambodia-2020-report-finds
 
-https://www.hrw.org/news/2020/11/02/cambodias-government-should-stop-silencing-journalists-media-outlets
+https://perma.cc/8EA7-T787
+
+
+https://perma.cc/NMR3-AXQY
+
+
+https://perma.cc/HMX8-B3B5
 
 
 
@@ -1206,11 +1222,13 @@ https://www.hrw.org/news/2020/11/02/cambodias-government-should-stop-silencing-j
  I did not find any information on the government or its agents about Covid-19 related matter deviate from the official information provided by the WHO. 
 
 *Sources*:
- https://rsf.org/en/cambodia
+ https://perma.cc/HN5T-V9A7
 
-https://www.hrw.org/asia/cambodia
 
-https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia
+https://perma.cc/E7AD-Z7N2
+
+
+https://perma.cc/8EA7-T787
 
 
 
@@ -1254,17 +1272,22 @@ https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia
  Multiple police officers used batons, sticks and rattan canes to chase and beat civilians who were violating the stay home order during the 14 day lockdown in Phnom Penh in April 2021. 
 
 *Sources*:
- https://www.rfa.org/english/news/cambodia/beatings-04212021180816.html
+ https://perma.cc/BF6H-23P4
 
-https://www.reuters.com/world/asia-pacific/cambodia-police-defend-caning-lockdown-offenders-breaching-covid-19-rules-2021-04-21/
 
-https://www.voacambodia.com/a/sar-kheng-issues-warning-against-police-using-violence-in-lockdown-/5862862.html
+https://perma.cc/M4ZU-XB72
 
-https://rsf.org/en/cambodia
 
-https://www.hrw.org/asia/cambodia
+https://perma.cc/6F5Y-NF57
 
-https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia
+
+https://perma.cc/73YX-9G35
+
+
+https://perma.cc/KG9B-LWJV
+
+
+https://perma.cc/8RKJ-B738
 
 
 
@@ -1309,8 +1332,10 @@ management of the country amid the emergency is made under the military junta...
 In May 2021, the military were deployed to implement the compulsory vaccination campaign. Military personnel were involved in administering and managing the Covid-19 vaccination drive in Phnom Penh. 
 
 *Sources*:
- https://www.icnl.org/covid19tracker/covid19uploads/Cambodia%20-%20Unofficial%20ENG%20translation%20-%20State%20of%20Emergency%20Law.pdf
+ https://perma.cc/H3K8-WWJZ
 
-https://www.voacambodia.com/a/cambodia-to-use-military-for-mandatory-vaccinations-in-red-zones-/5871321.html
 
-https://www.reuters.com/world/asia-pacific/cambodia-drafts-army-speed-up-covid-19-vaccinations-2021-05-01/
+https://perma.cc/YEE2-KH8M
+
+
+https://perma.cc/L45V-NF4U

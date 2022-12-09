@@ -51,11 +51,18 @@ Q3 2020: According to Article 101 of the Constitution, normative acts that the f
 Q4 2020, Q1 2021, Q2 2021: legislature approval is not required for the measures restricting freedom of movement because of infectious diseases. Such measures are taken by the Minister of Health on the recommendations of the Institute of Public Health. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Albania_2016?lang=en
-https://www.parlament.al/Projekte/PPPDetails/651
-https://www.parlament.al/Files/Akte/20190724173027ligj%20nr.%2045,%20dt.%2018.7.2019.pdf
-https://www.parlament.al/LibrariaAkteve/LibrariaAkteDetails/5163
-https://www.parlament.al/Files/Integrimi/ligj-nr.-15-dt.-10.3.2016-1.pdf
+ https://perma.cc/P2GR-EZT9
+
+
+
+
+
+
+
+https://perma.cc/K9W9-HSQ6
+https://perma.cc/U8DR-FYJ7
+https://perma.cc/A27M-6Z37
+https://perma.cc/6SAS-KNGK
 
 
 
@@ -86,9 +93,9 @@ Constitution 1989 (reinst. 1996, rev. 2016), article 99 (4): In addition to the 
 Art. 143: Matters other than those earmarked for statutory legislation shall fall within the regulatory power of the President of the Republic. The implementation of the laws shall be a matter for the regulatory field of the Prime Minister. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Algeria_2016.pdf?lang=en
+ https://perma.cc/KV2F-LA5M
 
-https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislative-activities.pdf
+https://perma.cc/TLL4-KMTY
 (2)
 
 
@@ -114,8 +121,13 @@ https://www.loc.gov/law/help/emergency-legislative-activities/emergency-legislat
  Law nº 17/91, Chapter 3, determines that the president needs legislative approval to declare a state of emergency. The Law nº 14/20, Article 11, determines that "The holder of the Executive Branch is responsible for declaring the situation of catastrophe or public calamity". 
 
 *Sources*:
- https://www.governo.gov.ao/download.aspx?id=2411&tipo=legislacao
-https://www.bfa.ao/media/2339/lei-n%C2%BA-14-20-de-22-de-maio-alteracao-a-lei-de-base-da-proteccao-civil.pdf
+ https://perma.cc/3DXL-BN2F
+
+
+
+
+
+https://perma.cc/5J54-HYRL
 
 
 
@@ -141,7 +153,7 @@ https://www.bfa.ao/media/2339/lei-n%C2%BA-14-20-de-22-de-maio-alteracao-a-lei-de
 
 *Sources*:
  [1]
-http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333564/norma.htm
+https://perma.cc/UGH7-GXTS
 
 
 
@@ -168,7 +180,7 @@ http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333564/norm
 October-December 2020, January-March, April-June 2021: the National Assembly does not need to approve the declaration of quarantine. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Armenia_2015?lang=en
+ https://perma.cc/8SYL-RDQL
 
 
 
@@ -193,10 +205,25 @@ October-December 2020, January-March, April-June 2021: the National Assembly doe
  The law does not require that the Australian parliament approves the emergency measures. 
 
 *Sources*:
- https://www.legislation.gov.au/Details/F2020L00266
-https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/FlagPost/2020/March/COVID-19_Biosecurity_Emergency_Declaration
-https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/rp1920/Quick_Guides/AustralianCovid-19ResponseManagement
-https://www.legislation.gov.au/Details/C2017C00303
+ https://perma.cc/F8K4-79VF
+
+
+
+
+
+https://perma.cc/NB3W-MESZ
+
+
+
+
+
+https://perma.cc/9KWN-7MC3
+
+
+
+
+
+https://perma.cc/NC3Z-6VVZ
 
 
 
@@ -221,9 +248,13 @@ https://www.legislation.gov.au/Details/C2017C00303
  The National Council, the lower house in the Austrian parliament, have voted for the Covid-19 Law, so the law needed approval in order to take effect. The parliament have also been involved in amending this law, and for instance voted to wait with an expansion of available restrictions for 8 weeks to be voted on again. 
 
 *Sources*:
- https://www.parlament.gv.at/PAKT/VHG/XXVII/BNR/BNR_00016/index.shtml
-https://www.parlament.gv.at/PAKT/VHG/XXVII/A/A_01324/index.shtml#tab-Uebersicht
- 
+ https://perma.cc/V28M-AVLB
+
+
+
+
+
+https://perma.cc/FNP7-CMMW
 
 
 
@@ -248,7 +279,7 @@ https://www.parlament.gv.at/PAKT/VHG/XXVII/A/A_01324/index.shtml#tab-Uebersicht
  Legislature approval is not required based on Article 25 of Law on Sanitary and Epidemiological Safety or the decision to impose quarantine measures (where it is stated that "All recommendations, proposals and decisions of the Operational Headquarters under the Cabinet of Ministers of the Republic of Azerbaijan must be implemented unconditionally." (1)) 
 
 *Sources*:
- http://www.e-qanun.az/framework/7916
+ https://perma.cc/LXT4-42CZ
 (1)
 
 
@@ -299,8 +330,8 @@ https://www.parlament.gv.at/PAKT/VHG/XXVII/A/A_01324/index.shtml#tab-Uebersicht
  Legislature approval is not required based on Law of the Republic of Belarus from 7 January 2012 on sanitary and epidemiological well-being of the population. 
 
 *Sources*:
- https://pravo.by/document/?guid=12551&p0=C22000171&p1=1
-https://pravo.by/document/?guid=2012&oldDoc=2012-8/2012-8(020-153).pdf&oldDocPage=1
+ https://perma.cc/K67L-SZC3
+https://perma.cc/EC7S-8M6X
 
 
 
@@ -327,10 +358,10 @@ https://pravo.by/document/?guid=2012&oldDoc=2012-8/2012-8(020-153).pdf&oldDocPag
 According to article 105 of the Belgian Constitution (special powers decrees), ''the legislator authorises the Government (formally the King at federal level) to abrogate, complete, modify or replace legislative act through royal decrees, under some conditions. The special powers act adopted under exceptional circumstances determine the rationae materiae scope of the measures that can be taken and is always time-limited. The special powers royal decrees have to be confirmed by an act of the legislator within one year of them coming into effect – which is usually a very formal procedure, even if the minority government makes it slightly less certain in this case –, otherwise they will be considered as never having produced effect. Once they are confirmed, they are considered as legislative acts.'' (2) 
 
 *Sources*:
- https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/649408/EPRS_BRI(2020)649408_EN.pdf
+ https://perma.cc/X2JR-YEXJ
 (1)
 
-https://verfassungsblog.de/belgium-and-covid-19-when-a-health-crisis-replaces-a-political-crisis/
+https://perma.cc/W64F-9J2F
 (2)
 
 
@@ -382,9 +413,10 @@ https://verfassungsblog.de/belgium-and-covid-19-when-a-health-crisis-replaces-a-
 
 *Sources*:
  [1]
-https://www.lexivox.org/norms/BO-COD-DL15629.xhtml
+https://perma.cc/FC8K-76AC
+
 [2]
-https://www.lexivox.org/norms/BO-L-N1293.html?dcmi_identifier=BO-L-N1293&format=html
+https://perma.cc/8H4U-3U7C
 
 
 
@@ -411,7 +443,7 @@ https://www.lexivox.org/norms/BO-L-N1293.html?dcmi_identifier=BO-L-N1293&format=
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: no national-level emergency measures found 
 
 *Sources*:
- http://msb.gov.ba/Zakoni/zakoni/default.aspx?id=1721&langTag=bs-BA
+ https://perma.cc/9GBV-4TWA
 
 
 
@@ -437,7 +469,7 @@ Q3 2020, Q4 2020, Q1 2021, Q2 2021: no national-level emergency measures found
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Botswana_2016?lang=en
+https://perma.cc/7CW9-5Y8B
 
 
 
@@ -463,7 +495,7 @@ https://www.constituteproject.org/constitution/Botswana_2016?lang=en
 
 *Sources*:
  [1]
-http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Decreto/D7616.htm
+https://perma.cc/WC7Q-KSB5
 
 
 
@@ -490,10 +522,11 @@ http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Decreto/D7616.htm
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: Legislature approval is not required for declaring “nationwide epidemic situation" (Health Law) 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Bulgaria_2015?lang=en
+ https://perma.cc/A6FZ-QEF2
 (1)
-https://www.parliament.bg/bills/44/054-01-24.pdf
-https://www.mh.government.bg/media/filer_public/2020/10/05/zakon_za_zdraveto.pdf
+
+https://perma.cc/L64D-HPRL
+https://perma.cc/42WU-FTRT
 
 
 
@@ -519,11 +552,9 @@ https://www.mh.government.bg/media/filer_public/2020/10/05/zakon_za_zdraveto.pdf
 Constitution article 107 on special powers to the executive to rule by Decree requires parliamentary approval. 
 
 *Sources*:
- https://www.studioyafa.org/et-aussi/642-covid-19-au-burkina-la-declaration-de-l-etat-d-alerte-sanitaire-devrait-etre-limitee-dans-le-temps-pr-abdoulaye-soma.html
-(1)https://lavoixdujuristebf.files.wordpress.com/2013/08/loi-nc2b023-94-adp-portant-code-de-la-sante-publique.pdf
-(2)
-
-https://www.constituteproject.org/constitution/Burkina_Faso_2015.pdf?lang=en
+ [1]	perma.cc/2ES9-JRUG
+[2]	perma.cc/YKH8-JM7W
+[3]	perma.cc/52LZ-NV7S
 
 
 
@@ -598,9 +629,13 @@ https://www.constituteproject.org/constitution/Burkina_Faso_2015.pdf?lang=en
  The parliament had to approve the Law on Measures to Prevent the Spread of COVID-19 and other Serious, Dangerous and Contagious Diseases.  According to Human Rights Watch, “The government has asked the National Assembly to treat the bill [Law on Measures to Prevent the Spread of COVID-19 and other Serious, Dangerous and Contagious Diseases] as “urgent,” minimizing expert review and public input.” 
 
 *Sources*:
- https://www.hrw.org/news/2021/03/05/cambodia-scrap-abusive-covid-19-prevention-bill
+ https://perma.cc/4W42-ZKQS
 
-https://www.business-humanrights.org/es/%C3%BAltimas-noticias/cambodia-govt-introduce-law-on-covid-19-measures-enabling-for-restrictions-on-civic-freedoms-and-suspension-of-business-hrw-claims-the-law-impose-disproportionate-fines-and-imprisonment/
+
+
+
+
+https://perma.cc/966U-JUMT
 
 
 
@@ -703,7 +738,8 @@ This period may only be extended after the conforming opinion of the National As
 Article 130 The state of siege and the state of urgency are decreed in the Council of Ministers. The President of the Republic informs the National Assembly of it. Their extension beyond twenty-one (21) days may only be authorized by the National Assembly. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Chad_2018.pdf?lang=en
+ [1]
+perma.cc/F6B6-MEDN
 
 
 
@@ -729,7 +765,7 @@ Article 130 The state of siege and the state of urgency are decreed in the Counc
 
 *Sources*:
  [1]
-https://www.oas.org/dil/esp/Constitucion_Chile.pdf
+https://perma.cc/QJC8-KT2U
 
 
 
@@ -755,7 +791,7 @@ https://www.oas.org/dil/esp/Constitucion_Chile.pdf
 
 *Sources*:
  [1]
-https://www.bbc.com/news/world-asia-pacific-13908155
+https://perma.cc/9T3Y-H3ZN
 
 
 
@@ -781,9 +817,9 @@ https://www.bbc.com/news/world-asia-pacific-13908155
 
 *Sources*:
  [1]
-https://www.corteconstitucional.gov.co/inicio/Constitucion%20politica%20de%20Colombia.pdf
-[2]
-https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=61933
+https://web.archive.org/web/20200322145352/https://www.corteconstitucional.gov.co/inicio/Constitucion%20politica%20de%20Colombia.pdf
+
+[2]https://web.archive.org/web/20200717025456/https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=61933
 
 
 
@@ -809,7 +845,7 @@ https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=61933
 
 *Sources*:
  [1]
-http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=56178
+https://perma.cc/Q3Q5-M4HM
 
 
 
@@ -834,8 +870,8 @@ http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?n
  Yes, the parliament has to approve amendments to the Civil Protection System Act. On 19 March 2020, the parliament amended the Civil Protection System Act authorizing the national Civil Protection Headquarters (HQ) to take action against the incoming thereat of Covid-19. 
 
 *Sources*:
- https://verfassungsblog.de/covid-19-and-the-rule-of-law-in-croatia-majoritarian-or-constitutional-democracy/
-https://www.zakon.hr/z/809/Zakon-o-sustavu-civilne-za%C5%A1tite
+ [1]	perma.cc/3W3Y-9NMJ
+[2]	perma.cc/L7RJ-9QFC
 
 
 
@@ -861,7 +897,7 @@ https://www.zakon.hr/z/809/Zakon-o-sustavu-civilne-za%C5%A1tite
 
 *Sources*:
  [1]
-http://juriscuba.com/wp-content/uploads/2015/10/Decreto-No.-139.pdf
+https://perma.cc/RN8V-2KN4
 
 
 
@@ -891,14 +927,11 @@ April-June 2021: The national legislature adopted the Act No./2021.
 That rules (unofficial translation): "§ 1 (3) On the day this Act enters into force, a state of pandemic alert is declared. The state of pandemic alert can be terminated or restored by a resolution of the Chamber of Deputies adopted on the proposal of the government or one-fifth of all deputies. The resolution on ending the pandemic alert and restoring it is published in the Collection of Laws". (2) 
 
 *Sources*:
- https://www.zakonyprolidi.cz/cs/2021-94#cast9
-(2)
-https://verfassungsblog.de/czechs-and-balances-one-year-later/
-https://www.mvcr.cz/mvcren/article/state-of-emergency.aspx
-https://www.psp.cz/en/docs/laws/1998/110.html
-(1)
-
-https://www.zakonyprolidi.cz/cs/2000-258#:~:text=(2)%20Ochrana%20ve%C5%99ejn%C3%A9ho%20zdrav%C3%AD%20je,jin%C3%BDch%20v%C3%BDznamn%C3%BDch%20poruch%20zdrav%C3%AD%20a
+ [1]	perma.cc/RAN4-X79E
+[2]	perma.cc/H3TZ-WSW6
+[3]	perma.cc/4ZAM-CXBA
+[4]	perma.cc/R6AA-BWP6
+[5]	perma.cc/XGY4-23AF
 
 
 
@@ -928,16 +961,13 @@ Measures in place since the end of the state of emergency have been made by the 
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Democratic_Republic_of_the_Congo_2011.pdf?lang=en
-
+https://perma.cc/K4FZ-8PZE
 [2]
-https://constitutionnet.org/news/drcs-constitutional-court-broken-shield-overseeing-executive-emergencies
-
+https://perma.cc/MX9L-6GP6
 [3]
-https://www.ccife-rdcongo.org/actualites/n/news/17-12-20-ministere-de-linterieur-arrete-precisant-les-modalites-dapplication-des-mesures-de-lutt.html
-
+https://perma.cc/5GQ8-ECWL
 [4]
-https://twitter.com/Presidence_RDC/status/1390042483409686533
+https://web.archive.org/web/20210505204800/https://twitter.com/Presidence_RDC/status/1390042483409686533
 
 
 
@@ -962,16 +992,19 @@ https://twitter.com/Presidence_RDC/status/1390042483409686533
  Yes, the parliament made a fast-track approvement of the amendment in order for it to come into effect. The parliament also had to approve the permanent law that came into effect on 2021-03-01. This is therefore coded as 1 for all periods. 
 
 *Sources*:
- https://www.elov.dk/epidemiloven/
-
-https://www.retsinformation.dk/eli/lta/2021/285
-https://www.retsinformation.dk/eli/ft/201913L00133
+ https://perma.cc/7NYX-7WBX
 
 
-https://fra.europa.eu/sites/default/files/fra_uploads/dk_report_on_coronavirus_pandemic-_may_2020.pdf
+https://perma.cc/HJ94-R98V
 
-https://verfassungsblog.de/the-eternal-emergency-denmarks-legal-response-to-Covid-19-in-review/
- 
+
+https://perma.cc/4URW-AKNQ
+
+
+https://perma.cc/GBB6-NXAF
+
+
+https://perma.cc/HTE5-WFZG
 
 
 
@@ -997,7 +1030,7 @@ https://verfassungsblog.de/the-eternal-emergency-denmarks-legal-response-to-Covi
 
 *Sources*:
  [1]
-http://www.oas.org/juridico/spanish/mesicic3_repdom_constitucion.pdf
+https://perma.cc/H2MA-HQJK
 
 
 
@@ -1023,7 +1056,7 @@ http://www.oas.org/juridico/spanish/mesicic3_repdom_constitucion.pdf
 
 *Sources*:
  [1]
-http://www.oas.org/juridico/PDFs/mesicic5_ecu_panel5_SERCOP_1.3._ley_seg_p%C3%BAblica.pdf
+https://perma.cc/86W3-UV7C
 
 
 
@@ -1055,14 +1088,13 @@ Representatives is dissolved, the matter is submitted to the new House in its fi
 session." 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Egypt_2019.pdf?lang=en
+ https://perma.cc/NH5Z-3VMF
 
 
+https://perma.cc/K8N4-XYWH
 
-https://blog-iacl-aidc.org/2020-posts/2020/7/14/egypt-under-covid-19-normalizing-emergency
 
-
-https://egyptindependent.com/egypts-house-of-representatives-extends-nationwide-state-of-emergency-3-more-months/
+https://perma.cc/BC39-2Q2J
 
 
 
@@ -1088,7 +1120,7 @@ https://egyptindependent.com/egypts-house-of-representatives-extends-nationwide-
 
 *Sources*:
  [1]
-https://www.asamblea.gob.sv/sites/default/files/documents/decretos/171117_073006119_archivo_documento_legislativo.pdf
+https://perma.cc/86DG-8D76
 
 
 
@@ -1140,7 +1172,7 @@ Directive No. 30/2020 was issued by the Ethiopian Public Health Institute and do
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en
+perma.cc/2TMQ-59XG
 
 
 
@@ -1165,15 +1197,13 @@ https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en
  The parliament must pass the Emergency Power Act for the State of Emergency to come into effect. The Comminucable Diseaase Act has already previously been approved by parliament. Any amendments made to the Communicable Disease Act has to be (and has been) passed by parliament. 
 
 *Sources*:
- https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/hallitus-totesi-suomen-olevan-poikkeusoloissa-koronavirustilanteen-vuoksi
+ https://perma.cc/2QSC-XRFU
+https://perma.cc/AP5A-U3AG
+https://web.archive.org/web/20200317064618/https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
+https://perma.cc/SD46-EN85
+https://perma.cc/L3TL-56KC
 
-https://www.finlex.fi/fi/laki/kaannokset/1991/en19911080_20030696.pdf
-
-https://valtioneuvosto.fi/en/information-on-coronavirus/ministry-of-social-affairs-and-health
-https://www.finlex.fi/fi/laki/alkup/2016/20161227
-https://verfassungsblog.de/finland-soft-measures-respect-for-the-rule-of-law-and-plenty-of-good-luck/
-
-https://valtioneuvosto.fi/-/10616/hallitus-linjasi-hybridistrategian-toimintasuunnitelman-taydentamisesta?languageId=en_US
+https://perma.cc/2QSC-XRFU
 
 
 
@@ -1202,21 +1232,14 @@ The law of 11 July 2020 also needed the approval of the Constitutional Court and
  
 
 *Sources*:
- http://codes.droit.org/CodV3/sante_publique.pdf
-(1)
-
+ https://perma.cc/6R47-W9BY
 https://perma.cc/A2H2-YTQW
 (1.1)
 
-https://www.connexionfrance.com/French-news/Covid-19-France-declares-state-of-health-emergency-after-law-voted-through-by-MPs-and-Senators-Assemblee-Nationale
-(2)
-
-https://www.loc.gov/law/foreign-news/article/france-government-adopts-law-declaring-and-defining-a-state-of-health-emergency/
-(3)
-
-https://fra.europa.eu/sites/default/files/fra_uploads/fr_report_on_coronavirus_pandemic_november_2020_.pdf
-
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042101318?r=MKyvM6sgBA
+https://perma.cc/B6AW-3FBQ
+https://perma.cc/KV84-VHJZ
+https://perma.cc/KFV5-YJY3
+https://perma.cc/VJP5-65SX
 
 
 
@@ -1241,7 +1264,7 @@ https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042101318?r=MKyvM6sgBA
  Article 50, Constitution and Art.4.‐ of the Law n°11/90 relative à l’état d’urgence, Modifiée par laLoi n°2020‐01) mentions that the state of emergency cannot be declared for more than 15 days, and its extension can only be authorized by the Parliament. The same applies when a state of emergency is declared based on art 47 of Constitution. 
 
 *Sources*:
- http://www.droit-afrique.com/uploads/Gabon-Loi-1990-11-etat-urgence.pdf
+ perma.cc/5DQW-8UUS
 
 
 
@@ -1268,9 +1291,10 @@ https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042101318?r=MKyvM6sgBA
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: legislature approval is required for passing amendments to the the Law of Georgia on Public Health. 
 
 *Sources*:
- https://matsne.gov.ge/en/document/view/33472?publication=6
+ https://perma.cc/7ARK-ZP8H
 
-https://matsne.gov.ge/ka/document/view/21784?publication=31
+
+https://perma.cc/2MJJ-FLFV
 
 
 
@@ -1295,25 +1319,31 @@ https://matsne.gov.ge/ka/document/view/21784?publication=31
  For Q2-Q4 2020 and Q1 2021, there was no national-level emergency response. With the amendment of the Infection Protection Act on 2021-04-21, however, the German government created a national system for restrictions based on the extent of infections in each state. This amendment had to be passed by the Bundestag (though not the Bundesrat), and was on 2021-04-21. 
 
 *Sources*:
- https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html
-
-https://fra.europa.eu/sites/default/files/fra_uploads/de_report_on_coronavirus_pandemic_-_may_2020.pdf
+ https://perma.cc/AG74-5RHH
 
 
+https://perma.cc/73W7-R5RF
 
 
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-Covid-19/
+https://perma.cc/MSG9-YXLD
 
-https://www.acaps.org/covid19-government-measures-dataset
 
-https://www.deutschland.de/en/news/german-federal-government-informs-about-the-corona-crisis
+https://perma.cc/FG6W-RUNH
 
-https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/guv-19-lp/drittes-bevoelkerungsschutzgesetz.html
 
-https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/B/3._BevSchG_BGBl.pdf
-https://verfassungsblog.de/germany-and-Covid-19-a-most-eventful-year/
+https://perma.cc/9BWM-JEYQ
 
-https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136
+
+https://perma.cc/ET84-P6GV
+
+
+https://perma.cc/C9D8-SVSY
+
+
+https://perma.cc/X6AG-A558
+
+
+https://perma.cc/79KY-S5VB
 
 
 
@@ -1339,11 +1369,11 @@ https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136
 
 *Sources*:
  [1]
-https://ghanalawhub.com/wp-content/uploads/2020/04/Imposition-of-Restrictions-Act-2020-Act-1012.pdf.pdf
+perma.cc/369Y-5LYH
 [2]
-https://acts.ghanajustice.com/actsofparliament/imposition-of-restrictions-act-2020-act-1012/
+perma.cc/SW99-EQD9
 [3]
-https://ghanalawhub.com/overview-of-the-imposition-of-restrictions-act-2020-act-1020/
+perma.cc/YD8D-UZHG
 
 
 
@@ -1369,12 +1399,11 @@ https://ghanalawhub.com/overview-of-the-imposition-of-restrictions-act-2020-act-
 ''Under extraordinary circumstances of an urgent and unforeseeable need, the President of the Republic may, upon the proposal of the Cabinet, issue acts of legislative content. Such acts shall be submitted to Parliament for ratification, as specified in the provisions of article 72 paragraph 1, within forty days of their issuance or within forty days from the convocation of a parliamentary session. Should such acts not be submitted to Parliament within the above time-limits or if they should not be ratified by Parliament within three months of their submission, they will henceforth cease to be in force.'' 
 
 *Sources*:
- https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/001-156%20aggliko.pdf
+ perma.cc/C2FF-LEZ3
 (1)
 
-http://constitutionnet.org/state-of-emergency
-
-https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional-matter-of-life-and-death/
+perma.cc/4J6D-K822
+perma.cc/6HN2-ZV7V
 
 
 
@@ -1400,9 +1429,9 @@ https://verfassungsblog.de/the-coronavirus-crisis-law-in-greece-a-constitutional
 
 *Sources*:
  [1]
-https://www.oas.org/dil/esp/Constitucion_Guatemala.pdf
+perma.cc/SCW5-NM3C
 [2]
-http://www.cicad.oas.org/fortalecimiento_institucional/legislations/pdf/gt/decreto_congresional_90-97.pdf
+perma.cc/95LA-3XCP
 
 
 
@@ -1434,15 +1463,11 @@ Guinea had a Constitutional referendum that led to the Constitution of 14 April 
 ''Unlike the 12-days deadline provided for decreeing a state of emergency by the President of the Republic, the constitution of 14 April 2020 does not set a deadline for the National Assembly as to the extension. However, the state of emergency ceases to be in force at the expiration of the period provided for in the ordinance adopted. And for there to be an extension, an authorization from the National Assembly is required, an ordinance issued for this purpose by the President of the Republic and an announcement of the extension in the official journal. (3) 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Guinea_2010.pdf
-
-https://guilaw.com/la-constitution-de-2020/
-(2)
-
-https://kalenews.org/a-partir-dhier-lundi-15-fevrier-letat-durgence-sanitaire-et-le-couvre-feu-ne-sont-plus-en-vigueur/
-(3)
-
-https://www.refworld.org/docid/3ae6b524c.html
+ perma.cc/FR9P-RCQL
+perma.cc/68JB-3PS5
+[3]
+https://web.archive.org/web/20210216151749/https://kalenews.org/a-partir-dhier-lundi-15-fevrier-letat-durgence-sanitaire-et-le-couvre-feu-ne-sont-plus-en-vigueur/
+perma.cc/S847-YPWZ
 
 
 
@@ -1469,7 +1494,7 @@ https://www.refworld.org/docid/3ae6b524c.html
 However, the Haitian President declared and extended the state of emergency without referring to the Constitution. Also, there is no legislature in place since January 2020. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Haiti_2012?lang=en
+ perma.cc/6FKC-TB2D
 
 
 
@@ -1495,7 +1520,7 @@ However, the Haitian President declared and extended the state of emergency with
 
 *Sources*:
  [1]
-https://pdba.georgetown.edu/Parties/Honduras/Leyes/constitucion.pdf
+perma.cc/3PE3-TMJ5
 
 
 
@@ -1520,12 +1545,16 @@ https://pdba.georgetown.edu/Parties/Honduras/Leyes/constitucion.pdf
  The Prevention and Control of Disease Ordinance gives the government the right to execute restrictions without parliament first approving these, and the law itself was in place before the pandemic. Therefore, the legislature need not and has not approved (or disapproved) the legal instrument or restrictions taken under it. 
 
 *Sources*:
- https://www.elegislation.gov.hk/hk/cap599G!en?xpid=ID_1585378559003_001
+ https://perma.cc/9N5T-HFGB
 
-https://www.elegislation.gov.hk/hk/cap599
-https://verfassungsblog.de/fear-of-unaccountability-vs-fear-of-a-pandemic-Covid-19-in-hong-kong/
 
-https://verfassungsblog.de/surviving-executive-led-pandemic-control-in-executive-led-hong-kong/
+https://perma.cc/3W3F-5ZN8
+
+
+https://perma.cc/L68W-5WT6
+
+
+https://perma.cc/3UVR-QM8F
 
 
 
@@ -1555,10 +1584,11 @@ Q3 2020: no provisions for legislature approval in the Government Decree 283/202
  
 
 *Sources*:
- https://www.constituteproject.org/constitution/Hungary_2016.pdf?lang=en
+ https://perma.cc/9GD6-VJA4
 (1)
-https://net.jogtar.hu/jogszabaly?docid=a2000283.kor
-https://net.jogtar.hu/jogszabaly?docid=99700154.tv
+
+https://perma.cc/JAK6-4VWB
+https://perma.cc/42XR-4VXM
 
 
 
@@ -1611,7 +1641,7 @@ Information related to the issues that are included and not included in the NDMA
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Indonesia_2002.pdf?lang=en
+https://perma.cc/22UP-FPQM
 
 
 
@@ -1686,11 +1716,10 @@ https://www.constituteproject.org/constitution/Indonesia_2002.pdf?lang=en
  The Irish lower house passed the bill on March 19 2020. 
 
 *Sources*:
- https://www.oireachtas.ie/en/bills/bill/2020/3/
-
-https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
+ https://perma.cc/59HS-Y6A8
 
 
+https://perma.cc/495D-DMAB
 
 
 
@@ -1715,27 +1744,38 @@ https://data.oireachtas.ie/ie/oireachtas/act/2020/1/eng/enacted/a0120.pdf
  The constitution states that both the government and the parliament can declare a state of emergency, but that a government-declared state of emergency has a much shorter time limit and can be terminated by the parliament. This was a state of emergency declared by the government, and the parliament did thus not approve it. Note that the system for declaring states of emergencies (and how long they have effect) has been changed by the entrance of the Coronavirus Law (see comments and sources for emlaw for more information), but the SoE is the same in the sense that the government introduced it and parliament did not vote on it. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Israel_2013.pdf?lang=en
+ https://perma.cc/ZY5K-587X
 
-https://www.gov.il/en/departments/news/25032020_01
 
-https://www.garda.com/crisis24/news-alerts/325031/israelpalestinian-terr-prime-minister-declares-state-of-emergency-due-to-Covid-19-implements-domestic-restrictions-march-19-update-10
+https://perma.cc/78WR-W6JK
 
-https://www.garda.com/crisis24/news-alert-full-history/pX7cDbbneik6HZj4a/israelpalestinian-terr-el-al-suspends-all-flights-to-china-due-to-novel-coronavirus-january-30
 
-https://main.knesset.gov.il/EN/News/PressReleases/pages/press23720s.aspx
+https://perma.cc/V8CW-Q4US
 
-https://www.gov.il/en/departments/news/29102020-01
+
+https://perma.cc/2YUF-RHT8
+
+
+https://perma.cc/AAS6-9J8S
+
+
+https://perma.cc/S8DR-UMDX
+
 
 https://perma.cc/R5AE-KMPR
 
-https://www.nevo.co.il/law_html/law01/502_325.htm
 
-https://www.gov.il/en/departments/news/23052021-02
 
-https://verfassungsblog.de/the-paradox-of-israels-coronavirus-law/
+https://perma.cc/EN3Y-UCSS
 
-https://verfassungsblog.de/a-year-in-review-Covid-19-in-israel/
+
+https://perma.cc/VXU8-VG97
+
+
+https://perma.cc/2XFH-354V
+
+
+https://perma.cc/2Q4B-97ZJ
 
 
 
@@ -1760,16 +1800,19 @@ https://verfassungsblog.de/a-year-in-review-Covid-19-in-israel/
  The Government did not need parliaments approval of declaring a state of emergency, and this is therefore coded as 0. Important to note however is that the government does need parliament to approve any decree laws that have been issued within 60 days, and it is through these decree laws that much of the emergency measures have been taken. But the initial declaration of a state of emergency did not need parliamentary approval. 
 
 *Sources*:
- https://www.gazzettaufficiale.it/eli/id/2020/02/01/20A00737/sg
-
-https://www.gazzettaufficiale.it/eli/id/2018/1/22/18G00011/sg
-
-https://fra.europa.eu/sites/default/files/fra_uploads/it_report_on_coronavirus_pandemic_may_2020.pdf
+ https://perma.cc/JV3P-AS7Y
 
 
+https://perma.cc/Z2GU-C67A
 
 
-https://www.garda.com/crisis24/news-alerts/310166/italy-council-of-ministers-issue-state-of-emergency-due-to-2019-ncov-as-of-january-31-update-1
+https://perma.cc/P48T-TTK7
+
+
+
+
+
+https://perma.cc/W7YY-LNAH
 
 
 
@@ -1797,17 +1840,23 @@ And Article 74 - The President of the Republic initiates legislation concurrentl
  
 
 *Sources*:
- https://www.constituteproject.org/constitution/Cote_DIvoire_2016.pdf?lang=en
+ perma.cc/GL57-B9KD
 
-http://www.gouv.ci/doc/1585002313la-bonne-info-numero-17-23-mars-2020.jpg
 
-https://www.village-justice.com/articles/constitution-ivoirienne-lutte-contre-coronavirus-que-deviennent-nos-droits,34722.html
+perma.cc/4GEP-RX3M
 
-https://www.afriksoir.net/amp/cote-divoire-loi-etat-urgence-en-vigueur-depuis-1959/
 
-https://apr-news.fr/fr/actualites/cote-divoire-letat-durgence-que-dit-la-loi
 
-https://www.reuters.com/article/health-coronavirus-senegal-ivorycoast/ivory-coast-senegal-declare-emergencies-impose-curfews-in-coronavirus-response-idUSL8N2BG9MO"
+perma.cc/NG64-VVFK
+
+
+perma.cc/DPR8-F6BZ
+
+
+perma.cc/VGL6-TGN3
+
+
+perma.cc/T4KE-PQBE
 
 
 
@@ -1833,7 +1882,7 @@ https://www.reuters.com/article/health-coronavirus-senegal-ivorycoast/ivory-coas
 
 *Sources*:
  [1]
-https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%20and%20Emergency%20Management%20Act,%202015%20No.1.pdf
+perma.cc/KE4A-LBZS
 
 
 
@@ -1858,12 +1907,10 @@ https://japarliament.gov.jm/attachments/341_The%20Disater%20and%20Preparedness%2
 *No comment provided* 
 
 *Sources*:
- https://verfassungsblog.de/japans-soft-state-of-emergency-social-pressure-instead-of-legal-penalty/
+ https://perma.cc/Q9CJ-T9LA
 
 
-
-
-https://www.aa.com.tr/en/asia-pacific/japans-abe-gets-emergency-powers-to-fight-coronavirus/1764834
+https://perma.cc/S7UZ-7KUV
 
 
 
@@ -1888,11 +1935,11 @@ https://www.aa.com.tr/en/asia-pacific/japans-abe-gets-emergency-powers-to-fight-
  No, the constitution states that a state of emergency is declared by royal decree, i.e. the  Jordanian King. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Jordan_2016.pdf?lang=en
-https://www.loc.gov/law/foreign-news/article/jordan-government-takes-steps-aimed-at-curbing-Covid-19-outbreak/
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.hrw.org/news/2020/03/20/jordan-state-emergency-declared
-https://www.garda.com/crisis24/news-alert-full-history/NFhXD4B95qP4aB2vu/jordan-quarantine-and-screening-measures-implemented-nationwide-february-2
+ https://perma.cc/49M2-FQ9Y
+https://web.archive.org/web/20200523172604/https://www.loc.gov/law/foreign-news/article/jordan-government-takes-steps-aimed-at-curbing-Covid-19-outbreak/
+https://perma.cc/3GR4-XNJR
+https://perma.cc/7UAZ-A25M
+https://perma.cc/5JWB-4XPC
 
 
 
@@ -1919,9 +1966,13 @@ https://www.garda.com/crisis24/news-alert-full-history/NFhXD4B95qP4aB2vu/jordan-
 Q3 2020, Q1 2021, Q2 2021: According to Law of Kazakhstan on public health and the healthcare system resembles the closest state of exception (paragraph 6 of Article 144, paragraph 4 of Article 150), the measures are declared by the state body in the field of sanitary and epidemiological welfare of the population. The measures have been declared by the Chief State Sanitary Doctor and regional authorities. 
 
 *Sources*:
- https://online.zakon.kz/document/?doc_id=1005029#pos=418;40
-http://www.parlam.kz/ru/legislative/1
-https://adilet.zan.kz/rus/docs/K090000193_#z1543
+ https://perma.cc/Y5SB-AXJJ
+
+
+https://perma.cc/7GHH-SYV8
+
+
+https://perma.cc/25Q2-5YJE
 
 
 
@@ -1952,27 +2003,28 @@ https://adilet.zan.kz/rus/docs/K090000193_#z1543
 The Judiciary has already taken a decision on the legality of the curfew orders, holding that curfew is lawful but finding the use of unreasonable force in its imposition unlawful.'' (3) 
 
 *Sources*:
- https://blog.petrieflom.law.harvard.edu/2020/05/21/kenya-global-responses-covid19/
-(1)
+ perma.cc/UDX5-NQGK
 
-https://www.loc.gov/law/help/health-emergencies/kenya.php
-(2)
 
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/StatutoryInstrumentsActNo23of2013.PDF
-(3)
+perma.cc/N4PE-RD2Z
 
-https://www.cnbcafrica.com/east-africa/2020/04/23/kenyas-parliament-passes-amendments-to-cushion-kenyans-against-covid-19/
-(4)
 
-https://nation.africa/kenya/news/mps-call-for-special-session-on-covid-19-282280
-(4)
+perma.cc/HU5U-3S89
 
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN49_2020.pdf
 
-http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2020/LN36_2020.pdf
+perma.cc/SUE4-FHNC
 
-https://verfassungsblog.de/covid-19-in-kenya-a-year-later-a-case-of-deja-vu/
-(7)
+
+perma.cc/YN33-XGH6
+
+
+perma.cc/UZF6-C5GW
+
+
+perma.cc/772E-EDJQ
+
+
+perma.cc/EK3T-M9MX
 
 
 
@@ -2024,8 +2076,10 @@ https://verfassungsblog.de/covid-19-in-kenya-a-year-later-a-case-of-deja-vu/
 Note on state of emergency (declared in certain territories, see emlaw): Chapter 2, Article 5 of the Constitution: only the legislature can impose a state of emergency in the whole country & Chapter 2, Article 6 of the Constitution: the president can impose states of emergency in specific areas immediately and without consulting the legislature. 
 
 *Sources*:
- http://cbd.minjust.gov.kg/act/view/ru-ru/111787?cl=ru-ru#:~:text=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%9A%D0%A0%20%D0%BE%D1%82%2024%20%D0%BC%D0%B0%D1%8F,%E2%84%96%2054%20%22%D0%9E%20%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B5%22&text=%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B8%D0%B9%20%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D0%B8%D1%80%D1%83%D0%B5%D1%82%20%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D1%8F%2C%20%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%B0%D1%8E%D1%89%D0%B8%D0%B5,%D0%B2%20%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B5%20%D0%B8%20%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B2%D1%80%D0%B5%D0%BC%D1%8F
-http://cbd.minjust.gov.kg/act/view/ru-ru/142/10?cl=ru-ru
+ https://perma.cc/L8QN-VUQP
+
+
+https://perma.cc/4W8Y-EAGC
 
 
 
@@ -2050,11 +2104,11 @@ http://cbd.minjust.gov.kg/act/view/ru-ru/142/10?cl=ru-ru
  The decree was issued by the Prime Minister and the parliament has not voted on it. 
 
 *Sources*:
- http://www.mpwt.gov.la/attachments/article/2185/PM%27s%20Order%20No%2006PM%20on%20COVID-19.pdf
-https://la.usembassy.gov/Covid-19-information/
-https://www.osac.gov/Content/Search?contentTypes=Announcement,Incident,News,Report,Media&searchText=Laos
-https://www.garda.com/crisis24/news-alerts/328526/laos-nationwide-lockdown-imposed-due-to-Covid-19-march-30-update-4
-https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
+ https://web.archive.org/web/20200717034652/http://www.mpwt.gov.la/attachments/article/2185/PM's%20Order%20No%2006PM%20on%20COVID-19.pdf
+https://perma.cc/46XT-S9BT
+https://perma.cc/K8AR-2LYX
+https://perma.cc/BCS3-SZ4P
+https://perma.cc/8KGA-YTAF
 
 
 
@@ -2079,15 +2133,12 @@ https://www.osac.gov/Content/Report/39411001-3e28-4652-b3b3-1851a0fe4fad
  No, the parliament did not have to approve a medical state of emergency. Note that the parliament had to and did approve the state of emergency enacted in relation to the Beirut explosion, but this was a general state of emergency which differs from the medical one in place for the Covid-19 restrictions, which does not demand parliamentary approval. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/324021/lebanon-prime-minister-declares-state-of-emergency-march-16-update-8
-https://www.acaps.org/covid19-government-measures-dataset
-https://www.arabstates.undp.org/content/rbas/en/home/library/crisis-response0/covid19--socio-economic-impact.html
+ https://perma.cc/8DJG-2YYK
+https://perma.cc/Q9BQ-32DC
+https://perma.cc/M9CG-BW42
 
-
-
-https://verfassungsblog.de/lebanon-in-times-of-Covid-19-a-series-of-crises/
-
-https://democracy-reporting.org/wp-content/uploads/2018/08/DRI-LEB-DE-SoE-Lebanon_online.pdf
+https://perma.cc/MFZ8-URNW
+https://web.archive.org/web/20210328191815/https://democracy-reporting.org/wp-content/uploads/2018/08/DRI-LEB-DE-SoE-Lebanon_online.pdf
 
 
 
@@ -2112,21 +2163,28 @@ https://democracy-reporting.org/wp-content/uploads/2018/08/DRI-LEB-DE-SoE-Lebano
  Pursuant under 23(2) of the Constitution, any declaration of state of emergency will expire automatically within 14 days without approval by the parliament for an extension of up to six months at a time (7). While one reference mentions the state of emergency extended by parliament for six months (until 18 October 2020), local news reported the contrary (4.6). For this reason, to be conservative, we code the state of disaster from the 14-day expiration of the 15 April 2020 state of emergency. According to the Disaster Management Act 1997 section 2 - such a declaration of a state of disaster shall be in effect for the period specified in the declaration, without requirement of parliamentary approval (8). According to sections 3 and 15 of the  Disaster Management Act, 1997, the Prime Minister may declare a state of disaster him-/herself (8). 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+ https://perma.cc/EXS5-EFSJ
 (1)
-https://www.gov.ls/wp-content/uploads/2020/04/DECLARATION-OF-STATE-OF-EMERGENCY.pdf
+
+https://perma.cc/SU5V-FQPG
 (2)
-https://www.gov.ls/wp-content/uploads/2020/05/LEGAL-NOTICE-NO.-41-OF-2020.pdf
+
+https://perma.cc/JE35-5LTJ
 (3)
-https://www.ahrlj.up.ac.za/shale-i-2-2020
+
+https://perma.cc/2PHT-DALK
 (4)
-https://www.webbernew.com/uploads/SKM_45820110909370.pdf
+
+https://perma.cc/YM8U-2TNW
 (5)
-https://allafrica.com/stories/202005040976.html
+
+https://perma.cc/NN4U-2KAK
 (6)
-https://www.constituteproject.org/constitution/Lesotho_2018.pdf?lang=en
+
+https://perma.cc/UGA5-REAV
 (7)
-https://www.ifrc.org/Docs/idrl/862EN.pdf
+
+https://perma.cc/K5PS-3YX7
 (8)
 
 
@@ -2152,10 +2210,13 @@ https://www.ifrc.org/Docs/idrl/862EN.pdf
  According to article 88 of the Liberian constitution, the legislature needs to approve the declaration of a State of Emergency by the President, within 72 hours, or the declaration is automatically revoked. There is no requirement that the legislature approves the National Health Emergency however, which can be declared by the Health Minister if the spread of a dangerous disease exists within the country. This is therefore coded 0 for Q4 of 2020 and Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Liberia_1986?lang=en
+ https://perma.cc/9M8G-HXXH
 
-http://moh.gov.lr/press-release/2020/revised-Covid-19-declaration-of-national-health-emergency-by-the-ministry-of-health/
-http://extwprlegs1.fao.org/docs/pdf/lbr174510.pdf
+
+https://perma.cc/F58Y-ES5Y
+
+
+https://perma.cc/TB78-YF5A
 
 
 
@@ -2182,10 +2243,8 @@ Q3 2020: According to Article 9, point 11 of the Law on Civil Protection of the 
  
 
 *Sources*:
- https://e-seimas.lrs.lt/portal/legalActPrint/lt?jfwid=-g0zrzend5&documentId=TAIS.373789&category=TAD
-(1)
-https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.69957/WfhSLKZiad
-(2)
+ [1]	perma.cc/D29F-A399
+[2]	perma.cc/8WWM-H9NQ
 
 
 
@@ -2216,11 +2275,8 @@ Art. 3 - The exceptional situation is limited in time. It may however be extende
 Art. 16 - The duration of the emergency situation is fifteen days. It may be extended under the conditions provided for in article 3 of this law.'' 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Madagascar_2010.pdf?lang=en
-(1)
-
-https://jwf-legal2.fr.gd/Lois-245.htm
-(2)
+ https://perma.cc/N4DQ-4MSV
+https://perma.cc/3CB7-SZTC
 
 
 
@@ -2245,7 +2301,8 @@ https://jwf-legal2.fr.gd/Lois-245.htm
  The Public Health Act allows for the Minister to declare a formidable disease and issue regulations without approval from the parliament. 
 
 *Sources*:
- https://malawilii.org/sites/all/libraries/pdf.js/web/viewer.html?file=https%3A%2F%2Fmalawilii.org%2Fsystem%2Ffiles%2Fconsolidatedlegislation%2F3401%2FPublic%2520Health%2520Act.pdf
+ [1]
+https://perma.cc/Y33K-N2FT
 
 
 
@@ -2272,17 +2329,12 @@ https://jwf-legal2.fr.gd/Lois-245.htm
 The parliament does not need to approve of the state of emergency. The King has the responsibility to declare a state of emergency and this was done after it was requested by the Prime Minister. 
 
 *Sources*:
- https://www.pmo.gov.my/2020/03/perutusan-khas-yab-perdana-menteri-mengenai-covid-19-16-mac-2020/
-
-https://www.pmo.gov.my/2020/03/movement-control-order/
-
-https://verfassungsblog.de/covid-19-malaysia-and-the-return-of-rule-by-law/
-
-https://www.garda.com/crisis24/news-alert-full-history/7TqZBkyuLyzLPQAyN/malaysia-first-cases-of-2019-ncov-confirmed-january-25
-
-https://www.acaps.org/covid19-government-measures-dataset
-
-https://www.abc.net.au/news/2021-01-12/malaysia-king-declares-state-of-emergency-to-curb-covid-spread/13051642
+ https://perma.cc/5YMP-Q6UW
+https://perma.cc/559U-6962
+https://perma.cc/MWP2-3ZHT
+https://perma.cc/T73B-G95H
+https://perma.cc/6HLB-5KFN
+https://perma.cc/T97N-DBB2
 
 
 
@@ -2310,9 +2362,9 @@ Article 22 of Law N° 2017-054 of 31 October 2017 on the prorogation of the stat
 ''The date on which the state of siege or the state of emergency ends is set by decree taken by the Council of Ministers when this date is before the expiration of the deadline provided for by the Constitution. It is fixed by law when its extension is authorized by the National Assembly.'' 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Mali_1992.pdf?lang=en
-
-https://sgg-mali.ml/JO/2017/mali-jo-2017-46.pdf
+ https://perma.cc/PT8Y-3TCG
+(1)
+https://perma.cc/HN8S-WEMM
 (2)
 
 
@@ -2339,7 +2391,7 @@ https://sgg-mali.ml/JO/2017/mali-jo-2017-46.pdf
  
 
 *Sources*:
- https://www.constituteproject.org/constitution/Mauritania_2012.pdf?lang=en
+ perma.cc/6JJ2-AGWF
 
 
 
@@ -2367,9 +2419,9 @@ Ley Orgánica de la Administración Pública Federal, Art. 39: The Secretary of 
 
 *Sources*:
  [1]
-http://www.csg.gob.mx/descargas/pdf/normatividad/Reglamento_Interior_del_CSG-2013.pdf
+perma.cc/A4PE-LRV8
 [2]
-http://www.diputados.gob.mx/LeyesBiblio/pdf/153_110121.pdf
+https://web.archive.org/web/20210422201703/http://www.diputados.gob.mx/LeyesBiblio/pdf/153_110121.pdf
 
 
 
@@ -2398,12 +2450,13 @@ Q3 2020, Q1 2021: Art. 58 "LEGE Nr. 10 din 03-02-2009 privind supravegherea de 
 Q4 2020: Art 55 of "LEGE Nr. 10 din 03-02-2009 privind supravegherea de stat a sănătăţii publice"has no privisions for the approval of emergency measures by the parliament. The government is responsible for the declaration and implementation of the measures. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Moldova_2016?lang=en
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-
-https://www.legis.md/cautare/getResults?doc_id=106570&lang=ro
+ https://perma.cc/RN6B-RDRX
 
 
+https://perma.cc/B7WH-NPTX
+
+
+https://perma.cc/2UV4-GFLB
 
 
 
@@ -2428,13 +2481,13 @@ https://www.legis.md/cautare/getResults?doc_id=106570&lang=ro
  The parliament had to approve the new law. 
 
 *Sources*:
- https://www.mn.undp.org/content/mongolia/en/home/coronavirus/support-to-national-response.html
-
-https://www.legalinfo.mn/law/details/15312?lawid=15312
-
-https://montsame.mn/en/read/223999
+ https://perma.cc/LLK3-PD2J
 
 
+https://perma.cc/B27D-AFSH
+
+
+https://perma.cc/XNQ2-TVV2
 
 
 
@@ -2460,17 +2513,11 @@ https://montsame.mn/en/read/223999
 On 23 March 2020, the parliament adopted the bills 2.20.292 / 2.20.293 (2) establishing the state of health emergency on the national territory and empowering the government to take all measures aimed at the containment of Covid-19. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Morocco_2011.pdf?lang=en
-(1)
-÷
-https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110338/137210/F965170133/MAR-110338.pdf
-(2)
-
-https://www.policycenter.ma/opinion/coronavirus-does-state-health-emergency-morocco-comply-international-human-rights-law#.XuD0YFMzbOQ
-
-https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/110338/137210/F965170133/MAR-110338.pdf
-
-http://www.sgg.gov.ma/Portals/1/BO/2020/BO_6867-bis_Ar.pdf?ver=2020-03-24-102522-043
+ https://perma.cc/QBV9-Z7A8
+https://perma.cc/U8SP-44HC
+https://perma.cc/2SWF-RRZ3
+https://perma.cc/U8SP-44HC
+https://perma.cc/N3NW-5FM5
 
 
 
@@ -2495,8 +2542,8 @@ http://www.sgg.gov.ma/Portals/1/BO/2020/BO_6867-bis_Ar.pdf?ver=2020-03-24-102522
  Consitution, Article 285: "Having declared a state of siege or emergency, the President of the Republic submits to the Assembly of the Republic, within twenty-four hours, the declaration with the respective grounds, for ratification purposes". The state of public calamity is declared by the Council of Ministers and does not require legislative approval. The state of public calamity is still active. 
 
 *Sources*:
- https://www.stj.pt/wp-content/uploads/2018/01/mocambique_constituicao.pdf
-https://www.pmaputo.gov.mz/index.php/por/content/download/7394/53460/version/4/file/lei+24-2020+-Gest%C3%A3o+e+Redu%C3%A7%C3%A3o+do+Risco+de+Desastres.pdf
+ [1]	perma.cc/VX58-AD6S
+[2]	perma.cc/GDS7-FQEP
 
 
 
@@ -2522,9 +2569,9 @@ https://www.pmaputo.gov.mz/index.php/por/content/download/7394/53460/version/4/f
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Namibia_2014?lang=en
+https://perma.cc/65GA-7TMM
 [2]
-https://www.lac.org.na/laws/2015/5740.pdf
+https://perma.cc/M9GN-GVJA
 
 
 
@@ -2549,7 +2596,7 @@ https://www.lac.org.na/laws/2015/5740.pdf
  I did not find evidence suuggesting that the national legislature has to approve the implementation of the Infectious Disease Control Act 2020. 
 
 *Sources*:
- https://verfassungsblog.de/emergency-powers-in-nepal-an-ordinary-response/
+ https://perma.cc/R7AQ-R27V
 
 
 
@@ -2575,13 +2622,10 @@ https://www.lac.org.na/laws/2015/5740.pdf
 "Tijdelijke wet maatregelen Covid-19" had to be debated and approved by parliament. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/nl_report_on_coronavirus_pandemic_november_2020.pdf
-
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-
-https://verfassungsblog.de/Covid-19-in-the-netherlands-of-changing-tides-and-constitutional-constants/
-
-https://wetten.overheid.nl/BWBR0044416/2021-05-22
+ https://perma.cc/MQ9M-TFZV
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://perma.cc/AH72-ZZEP
+https://perma.cc/6UYM-RRJR
 
 
 
@@ -2608,9 +2652,8 @@ https://wetten.overheid.nl/BWBR0044416/2021-05-22
 Paliament voted to pass the COVID-19 Public Health Response Act 2020. 
 
 *Sources*:
- http://www.legislation.govt.nz/act/public/2002/0033/51.0/DLM149789.html
-
-https://www.lawsociety.org.nz/news/legal-news/covid-19-public-health-response-bill-passed-under-urgency/
+ [1]	perma.cc/9YSR-M7CX
+[2]	perma.cc/47LH-TSST
 
 
 
@@ -2636,17 +2679,17 @@ https://www.lawsociety.org.nz/news/legal-news/covid-19-public-health-response-bi
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3
 
 
 
@@ -2671,7 +2714,7 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
  According to article 67 of the Constitution, the President may declare a state of emergency after official consultation of the Prime Minister, of the President of the National Assembly and of the President of the Constitutional Court. The National Assembly is required to approve with an absolute majority of its members the duration of the exercise of the emergency powers and to terminate them in the case of abuse. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Niger_2017.pdf?lang=en
+ https://perma.cc/JYE6-G2KW
 
 
 
@@ -2696,15 +2739,9 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
  The Quarantine Act of 1926, which was adopted during the colonial period, does not require that the legislative approval of emergency response measures. 
 
 *Sources*:
- https://verfassungsblog.de/nigerias-emergency-legal-response-to-covid-19-a-worthy-sacrifice-for-public-health/
-
-
-
-https://www.loc.gov/law/help/health-emergencies/nigeria.php
-
-
-
-http://lawsofnigeria.placng.org/laws/Q2.pdf
+ [1]	perma.cc/LR78-8GS7
+[2]	perma.cc/693U-TNST
+[3]	perma.cc/NGD2-27HU
 
 
 
@@ -2758,17 +2795,13 @@ July-September 2020: According to Art. 58 of "Zakon za zaštita na naselenieto o
 October-December 2020, January-March, April-June 2021: A declaration of the state of crisis does not need to be approved by the parliament. A state of crisis cannot last longer than 30 days. However, after 30 days, the parliament can either approve the extension of the state of crisis or declare a state of emergency (Art 31 of the Crisis Management Law). On 1 December 2020, the states of crisis was extended until 30 June 2021. On 9 June 2021, it was extended until 31 December 2021. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Macedonia_2011?lang=en
-http://www.slvesnik.com.mk/Issues/d6c92844ad5a4fe2bc47874b138e97fa.pdfhttp://zdravstvo.gov.mk/zakon-za-zashtita-na-naselenieto-od-zarazni-bolesti/
-
-https://vlada.mk/node/23294
-http://www.macefdrr.gov.mk/files/dokumenti/pzrdo/Zakon%20za%20upravuvanje%20so%20krizi%202005.pdf
-https://koronavirus.gov.mk/vesti/219024
-
-
-https://vlada.mk/node/23392
-
-https://www.mchamber.mk/Default.aspx?mId=28&id=1007&lng=1
+ [1]	perma.cc/LT9H-Y3JD
+[2]	perma.cc/C8WH-83UM
+[3]	perma.cc/FAE7-FFP3
+[4]	perma.cc/TT8D-53PJ
+[5]	https://web.archive.org/web/20171113052603/http://www.macefdrr.gov.mk/files/dokumenti/pzrdo/Zakon%20za%20upravuvanje%20so%20krizi%202005.pdf
+[6]	perma.cc/MSF3-3FFE
+[7]	perma.cc/G5U4-RAU3
 
 
 
@@ -2793,13 +2826,19 @@ https://www.mchamber.mk/Default.aspx?mId=28&id=1007&lng=1
  In Q2 of 2020, the parliament had to pass the Corona Act for it to come in effect. The underlying legislation for the subsequent main legal instrument, "Lov om vern mot smittsomme sykdommer [smittevernloven]" (the Act of 5 August 1994 No. 55 relating to control of communicable diseases) (§ 4-1.), was already in place since 1994. However, the amendments that were made in order to use it for Covid-19 measures had to be and were passed by parliament on June 23 2020. Parliament has also passed several other amendments after that. 
 
 *Sources*:
- https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2019-2020/the-corona-act/
+ https://perma.cc/MEJ4-CJMC
 
-https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2019-2020/vedtak-201920-080/
 
-https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyheter/2019-2020/skal-behandle-fullmaktslov/
-https://lovdata.no/dokument/NL/lov/1994-08-05-55
-https://oxcon.ouplaw.com/view/10.1093/law-occ19/law-occ19-e3
+https://perma.cc/E2KD-C6PM
+
+
+https://perma.cc/PD9F-8RK3
+
+
+https://perma.cc/7TJR-VW8A
+
+
+https://perma.cc/E64S-S2CL
 
 
 
@@ -2875,8 +2914,8 @@ https://omannews.gov.om/Local/ArtMID/416/ArticleID/9985
  According to Código Sanitario, Art. 85: Attributions and duty of the National Department of Public Health, there is no demand for legislative approval. 
 
 *Sources*:
- https://extranet.who.int/nutrition/gina/en/node/17791
-https://data.miraquetemiro.org/sites/default/files/documentos/Codigo_Sanitario.pdf
+ [1]	perma.cc/U99Y-QYBR
+[2]	perma.cc/6P7Q-3HN4
 
 
 
@@ -2901,25 +2940,34 @@ https://data.miraquetemiro.org/sites/default/files/documentos/Codigo_Sanitario.p
  The head of state is allowed to declare a state of national emergency/pandemic situation without needing parliamentary approval (laws made under this state of emergency - emergency laws - does need parliamentary approval however). For the Pandemic Act, this in itself was passed by parliament. However, the activation of that instrument which enables all measures requires no involvement of parliament, as the head of state declares a pandemic situation which triggers available measures (Para 4; National Pandemic act). Thus, this is coded 0 for all periods. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Papua_New_Guinea_2016.pdf?lang=en
+ https://perma.cc/3FAJ-23LM
 
-https://www.coronanet-project.org/data/reports/finished/20200620_Papua.html
 
-https://www.garda.com/crisis24/news-alerts/325816/papua-new-guinea-state-of-emergency-comes-into-effect-march-24-update-2
+https://perma.cc/8N8W-MT2F
 
-https://www.theguardian.com/world/2020/mar/23/papua-new-guinea-declares-state-of-emergency-after-first-coronavirus-case
 
-https://www.ashurst.com/en/news-and-insights/legal-updates/papua-new-guinea-response-to-Covid-19---emergency-legal-regime/
+https://perma.cc/6ZZK-JYWL
 
-https://covid19.info.gov.pg/
 
-https://www.theguardian.com/world/2021/mar/18/papua-new-guinea-to-impose-month-long-restrictions-as-covid-outbreak-spirals
+https://perma.cc/952C-AM3U
 
-http://www.parliament.gov.pg/uploads/acts/20A_08.pdf
 
-http://www.parliament.gov.pg/index.php/bills-and-legislation/view/national-pandemic-act-2020
+https://perma.cc/Q2RX-96KB
 
-https://www.garda.com/crisis24/news-alerts/480906/papua-new-guinea-authorities-easing-some-Covid-19-restrictions-nationwide-as-of-may-20-update-31
+
+https://perma.cc/K4MB-U7FC
+
+
+https://perma.cc/TTG8-USLN
+
+
+https://perma.cc/RAM8-G9JC
+
+
+https://perma.cc/XG77-GPEH
+
+
+https://perma.cc/DZ23-R7F8
 
 
 
@@ -2945,7 +2993,7 @@ https://www.garda.com/crisis24/news-alerts/480906/papua-new-guinea-authorities-e
 
 *Sources*:
  [1]
-https://www.bacn.gov.py/leyes-paraguayas/2399/ley-n-836-codigo-sanitario
+perma.cc/X3LJ-AT54
 
 
 
@@ -2971,7 +3019,7 @@ https://www.bacn.gov.py/leyes-paraguayas/2399/ley-n-836-codigo-sanitario
 
 *Sources*:
  [1]
-https://www.oas.org/juridico/spanish/per_res17.pdf
+perma.cc/YA5H-DLNL
 
 
 
@@ -2996,17 +3044,9 @@ https://www.oas.org/juridico/spanish/per_res17.pdf
  The law requires the national ledislature to approve the implementation of the legal instrument. 
 
 *Sources*:
- http://www.congress.gov.ph/press/details.php?pressid=11841
-
-
-
-
-https://newsinfo.inquirer.net/1246872/house-approves-bill-declaring-national-emergency-due-to-coronavirus
-
-
-
-
-https://newsinfo.inquirer.net/1247363/senate-oks-bill-granting-duterte-special-powers-to-fight-covid-19
+ https://perma.cc/9XFJ-2GHY
+https://perma.cc/W5JX-BJ9P
+https://perma.cc/75TR-6AZB
 
 
 
@@ -3031,8 +3071,10 @@ https://newsinfo.inquirer.net/1247363/senate-oks-bill-granting-duterte-special-p
  Based on the act on specific solutions related to the prevention and combating COVID and other infectious diseases and crises they caused (2 March 2020), the Council of Ministers can declare a state of epidemic or epidemic threat; no provisions on legislature approval 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/poland-report-covid-19-april-2020_en.pdf
-http://www.dziennikustaw.gov.pl/D2020000037401.pdf
+ https://perma.cc/PA3E-F5VG
+
+
+https://perma.cc/A52S-B2WJ
 
 
 
@@ -3058,11 +3100,11 @@ http://www.dziennikustaw.gov.pl/D2020000037401.pdf
 
 *Sources*:
  [1]
-https://dre.pt/web/guest/pesquisa-avancada/-/asearch/221696/details/normal?types=SERIEI&numero=44%2F86&tipo=%22Lei%22
+perma.cc/6NGK-D9X3
 [2]
-https://dre.pt/web/guest/pesquisa/-/search/552035/details/normal?l=1
+perma.cc/TM9M-X8AY
 [3]
-https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
+perma.cc/422Q-TLM9
 
 
 
@@ -3087,35 +3129,46 @@ https://dre.pt/web/guest/pesquisa/-/search/136788888/details/maximized
  Not coded as no reference to any legal instrument was found in emergency measures. 
 
 *Sources*:
- https://portal.www.gov.qa/wps/portal/media-center/news/news-details/hhtheamirdirectsthestartofimplementingapackageofdecisionsandmeasurestocombatthespreadofcoronavirus
+ https://perma.cc/QC79-K86Y
 
-https://www.gco.gov.qa/en/2020/03/12/government-communications-office-statement-regarding-measures-taken-by-the-state-of-qatar-to-combat-coronavirus-Covid-19/
 
-https://www.garda.com/crisis24/news-alerts/328506/qatar-domestic-restrictions-extended-april-1-update-15
+https://perma.cc/TZN5-KU3U
 
-https://www.garda.com/crisis24/news-alerts/324061/qatar-domestic-restrictions-implemented-march-16-update-14
 
-https://portal.www.gov.qa/wps/portal/media-center/news/news-details/detailsofthirdstageofliftingcovisninteenrestrictionsinqatar?searchText=covid
+https://perma.cc/2AN2-HDKN
 
-https://portal.www.gov.qa/wps/portal/media-center/news/news-details/supremecommitteeforcrisismanagementannouncesstartofparttwoofphasefourofliftingcovidnineteenrestrictionsfromtuesday?searchText=covid
 
-https://www.garda.com/crisis24/news-alerts/388831/qatar-officials-extend-quarantine-restrictions-for-arrivals-until-december-31-update-25
+https://perma.cc/M7GS-4ZP7
 
-https://www.gco.gov.qa/en/top-news/statement-supreme-committee-containing-Covid-19/
 
-https://www.garda.com/crisis24/news-alerts/482266/qatar-authorities-to-ease-Covid-19-restrictions-in-four-phases-starting-may-28-update-28
+https://perma.cc/B692-KN9V
 
-https://www.garda.com/crisis24/news-alerts/464616/qatar-authorities-to-further-tighten-Covid-19-restrictions-from-april-9-update-25
 
-https://www.garda.com/crisis24/news-alerts/438611/qatar-authorities-to-reimpose-some-Covid-19-restrictions-nationwide-from-feb-4-update-22
+https://perma.cc/E3FM-RAQ7
 
-https://qa.usembassy.gov/Covid-19-information-11/
 
-https://www.gco.gov.qa/en/focus/Covid-19/
+https://perma.cc/7L8C-RA7L
 
-https://covid19.moph.gov.qa/EN/Precautions-for-lifting-restrictions/Pages/default.aspx
 
- 
+https://perma.cc/Y7K9-K2Z8
+
+
+https://perma.cc/MKM8-S6D5
+
+
+https://perma.cc/B9AB-3AWF
+
+
+https://perma.cc/9L8N-U65E
+
+
+https://perma.cc/MX2W-2XVB
+
+
+https://perma.cc/V3E4-DPBZ
+
+
+https://perma.cc/CRX3-LNPR
 
 
 
@@ -3142,7 +3195,7 @@ https://covid19.moph.gov.qa/EN/Precautions-for-lifting-restrictions/Pages/defaul
 ''Article 93 Constitution - When the institutions of the Republic,(........)  are menaced in a grave and imminent manner[,] and that the regular functioning of the public powers is interrupted, the President of the Republic takes the measures required by the circumstances, after consultation of the Prime Minister and of the Presidents of the two Chambers of the Parliament.The Parliament meets of plain right in extraordinary session.The Parliament establishes the time period at the term of which the President of the Republic can no longer take the exceptional measures.'' 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Congo_2015.pdf?lang=en
+ https://perma.cc/UQ4V-38AZ
 
 
 
@@ -3169,12 +3222,10 @@ https://covid19.moph.gov.qa/EN/Precautions-for-lifting-restrictions/Pages/defaul
 Q3 2020, Q4 2020, Q1 2021, Q2 2021:  On 25 June, the Constitutional Court ruled that the parliament does not need to approve the declaration and the extensions to the state of alert, therefore emlawapp is coded as 0. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Romania_2003?lang=en
-
-
-http://legislatie.just.ro/Public/DetaliiDocumentAfis/225620
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B360%5D&covid19=1
-https://www.ccr.ro/wp-content/uploads/2020/06/Comunicat-de-presa-EN-25-iunie-2020.pdf
+ https://perma.cc/Z459-KM9L
+https://perma.cc/YN7Z-RF22
+https://perma.cc/J7UH-BULT
+https://perma.cc/MVK5-3B82
 
 
 
@@ -3199,7 +3250,7 @@ https://www.ccr.ro/wp-content/uploads/2020/06/Comunicat-de-presa-EN-25-iunie-202
  The measures were declared based on Article 80 of the Constitution (on the role of the President), which contains no provisions for legislature approval. 
 
 *Sources*:
- http://www.constitution.ru/10003000/10003000-6.htm
+ https://perma.cc/7T48-NSP4
 
 
 
@@ -3277,14 +3328,13 @@ After the amendment of the law no.69-29 of April 1969 to include a provision for
  
 
 *Sources*:
- https://www.constituteproject.org/constitution/Senegal_2016.pdf?lang=en
-http://www.dri.gouv.sn/sites/default/files/LOI/1969/69%2029.pdf
-https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-minist%C3%A9riel-n%C2%B0-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
-https://www.sec.gouv.sn/actualit%C3%A9/arr%C3%AAt%C3%A9-n%C2%B0024066-du-05-octobre-2020-portant-prorogation-de-larr%C3%AAt%C3%A9-n%C2%B011592-du-10-juillet
+ perma.cc/R6SK-G5FW
+perma.cc/9CLS-E279
 
-https://www.voaafrique.com/a/le-pr%C3%A9sident-s%C3%A9n%C3%A9galais-obtient-des-pouvoirs-accrus-pour-contrer-le-coronavirus/5734069.html
-
-https://www.presidence.sn/actualites/le-president-de-la-republique-a-promulgue-la-loi-n-2021-18-modifiant-la-loi-n-69-29-du-29-avril-1969-relative-a-letat-durgence-et-a-letat-de-siege_2169
+https://web.archive.org/web/20200716073713/https://www.sec.gouv.sn/actualit<8e>/arr<90>t<8e>-minist<8e>riel-n<a1>-011592-du-10-juillet-2020-prescrivant-le-port-obligatoire-de-masque
+https://web.archive.org/web/20201029170930/https://www.sec.gouv.sn/actualit<8e>/arr<90>t<8e>-n<a1>024066-du-05-octobre-2020-portant-prorogation-de-larr<90>t<8e>-n<a1>11592-du-10-juillet
+perma.cc/V2HX-6W7P
+perma.cc/2GUA-C38B
 
 
 
@@ -3311,11 +3361,16 @@ https://www.presidence.sn/actualites/le-president-de-la-republique-a-promulgue-l
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: parliamentary approval is not required based on  "Zakon o zaštiti stanovništva od zaraznih bolesti". 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Serbia_2006?lang=en
-http://constitutionnet.org/news/critics-allege-serbias-state-emergency-was-declared-unconstitutionally
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#S
+ https://perma.cc/XL8Z-DGSH
 
-https://www.paragraf.rs/propisi/zakon_o_zastiti_stanovnistva_od_zaraznih_bolesti.html
+
+https://perma.cc/2RED-UWTN
+
+
+https://perma.cc/DG5L-ZDAH
+
+
+https://perma.cc/3HNX-MT2E
 
 
 
@@ -3340,10 +3395,10 @@ https://www.paragraf.rs/propisi/zakon_o_zastiti_stanovnistva_od_zaraznih_bolesti
  State of emergency needs to be approved by the parliament or otherwise it expires after 21 days (Article 29, point 3 of the Constitution). 
 
 *Sources*:
- https://www.facebook.com/mic.gov.sl/posts/827797114474969
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011879820/sierra-leone-government-lifts-covid-19-state-of-public-health-emergency-and-curfew-as-of-late-march-update-19
-https://www.garda.com/crisis24/news-alerts/426451/sierra-leone-sierra-leone-maintains-covid-19-restrictions-as-of-jan-7-update-14
-https://www.constituteproject.org/constitution/Sierra_Leone_2013?lang=en
+ [1]	https://www.facebook.com/mic.gov.sl/posts/827797114474969
+[2]	perma.cc/L36K-CHTW
+[3]	perma.cc/GV8X-4HCX
+[4]	perma.cc/F8YG-CCCT
 
 
 
@@ -3368,16 +3423,10 @@ https://www.constituteproject.org/constitution/Sierra_Leone_2013?lang=en
  The implementation of the Covid-19 (Temporary Measures) Act 2020 was approved by the parliament on 07 April 2021. Further extension of one year was also approved by parliament (Act 6 of 2021 wef 01/03/2021). 
 
 *Sources*:
- https://sso.agc.gov.sg/Act/COVID19TMA2020
-https://sso.agc.gov.sg/Bills-Supp/10-2021/Published/20210405?DocDate=20210405
-
-
-
-
-
-https://www.agc.gov.sg/our-roles/drafter-of-laws/the-legislative-process#:~:text=Under%20our%20Constitution%2C%20all%20Bills,against%20any%20racial%20or%20religious
-
-https://www.theregreview.org/2020/06/15/tan-singapore-regulatory-response-covid-19/
+ https://perma.cc/Q4HV-QJTR
+https://perma.cc/54F5-AGZ9
+https://perma.cc/HM2H-G9RM
+https://perma.cc/EMH8-N4KB
 
 
 
@@ -3406,15 +3455,25 @@ Q3 2020: not required based on paragraph 8 of  "Zákon Národnej rady Slovenskej
 Q4 2020, Q1 2021, Q2 2020: on 29 December 2020, the parliament amended  Constitutional Act no. 227/2002 Coll, which made it possible to extend the state of emergency with parliamentary approval (previously, the executive could declare a state of emergency for  45 days and extend it by another 45 days; this amendment allowed to extend the duration of the state of emergency beyond 90 days with parliamentary authorization). 
 
 *Sources*:
- https://www.mosr.sk/data/files/602.pdf
-https://www.constituteproject.org/constitution/Slovakia_2017?lang=en
-https://verfassungsblog.de/slovakias-democracy-and-the-covid-19-pandemic-when-executive-communication-fails/
+ https://perma.cc/RHQ3-R7RQ
 
-https://www.zakonypreludi.sk/zz/1994-42
 
-https://www.nrsr.sk/web/Default.aspx?sid=schodze/schodza&ID=416#current
-https://www.minv.sk/?tlacove-spravy&sprava=nudzovy-stav-bude-mozne-opakovane-predlzovat
-https://www.minv.sk/?tlacove-spravy&sprava=poslanci-narodnej-rady-sr-odsuhlasili-predlzenie-nudzoveho-stavu
+https://perma.cc/S45L-KQXX
+
+
+https://perma.cc/4LPB-JBSZ
+
+
+https://perma.cc/32HM-WHZA
+
+
+https://perma.cc/8DBE-HFDY
+
+
+https://perma.cc/X4PX-8B43
+
+
+https://perma.cc/7RJC-Q7SC
 
 
 
@@ -3439,10 +3498,9 @@ https://www.minv.sk/?tlacove-spravy&sprava=poslanci-narodnej-rady-sr-odsuhlasili
  The measures are declared by the government (Contageous Diseases Act, Article 7) who needs to inform the parliament about the measures (Act on Intervention Measures to Contain the COVID-19 Epidemic and its Mitigation for Citizens and the Economy (ZIUZEOP)); no provisions on legislature approval. 
 
 *Sources*:
- http://www.pisrs.si/Pis.web/pregledPredpisa?id=ZAKO433
-
-http://www.pisrs.si/Pis.web/pregledPredpisa?id=ZAKO8190
-https://verfassungsblog.de/slovenia-second-wave-of-challenges-to-constitutionalism/
+ [1]	perma.cc/ALL9-YZ6E
+[2]	perma.cc/W9X3-G2TP
+[3]	perma.cc/R2KU-RMVT
 
 
 
@@ -3492,11 +3550,8 @@ https://verfassungsblog.de/slovenia-second-wave-of-challenges-to-constitutionali
  The National Disaster Management Act (2002) does not require that the National Assembly approve the declaration of the national state of disaster, its end date, or its extension. These powers belong solely to the executive. However, petitions can be brought before the courts to repeal the measure. 
 
 *Sources*:
- [1]
-https://www.gov.za/sites/default/files/gcis_document/201409/a57-020.pdf
-
-[2]
-https://verfassungsblog.de/covid-19-state-of-disaster-in-south-africa/
+ [1]	perma.cc/6UAW-RDAN
+[2]	perma.cc/WPN2-H9FF
 
 
 
@@ -3521,15 +3576,10 @@ https://verfassungsblog.de/covid-19-state-of-disaster-in-south-africa/
  The Infectious Disease Control and Prevention Act has been in place since 2010. 
 
 *Sources*:
- https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
-
-https://elaw.klri.re.kr/kor_service/lawView.do?hseq=40184&lang=ENG
-
-
-https://www.loc.gov/law/help/health-emergencies/southkorea.php
-
-
-https://www.globalasia.org/v15no1/focus/south-korea-has-the-legal-infrastructure-to-fight-pandemics%3B-the-us-doesnt_brian-j-kim
+ https://perma.cc/RXQ4-69RF
+https://perma.cc/KRA6-S3BB
+https://web.archive.org/web/20201019061249/https://www.loc.gov/law/help/health-emergencies/southkorea.php
+https://perma.cc/R75M-P29N
 
 
 
@@ -3579,11 +3629,8 @@ https://www.globalasia.org/v15no1/focus/south-korea-has-the-legal-infrastructure
  Ley Orgánica 4/1981 Article 6: The congress does not need to approve the declaration of a state of emergency, but must approve its extension. The measures defined in the Royal Decree-Law 21/2020 were approved by Congress. 
 
 *Sources*:
- [1]
-https://www.boe.es/buscar/act.php?id=BOE-A-1981-12774
-
-[2]
-https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6901
+ [1]	perma.cc/KW5G-P8JC
+[2]	perma.cc/3ZQY-3QPN
 
 
 
@@ -3633,8 +3680,7 @@ https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6901
  "The declaration of a state of emergency is extinguished if the Legislative Council does not ratify it" - The Constitution of Sudan, article 40:4. 
 
 *Sources*:
- [1]
-https://www.constituteproject.org/constitution/Sudan_2019?lang=en
+ [1]	perma.cc/N3YU-BX2H
 
 
 
@@ -3661,32 +3707,20 @@ For Q3 and 4 of 2020, using the Public Order Act (Ordningslag [1993:1617]) (exis
 For Q1 and Q2 of 2021, the parliament had to approve and did approve the new Covid-19 Act. 
 
 *Sources*:
- https://www.regeringen.se/rattsliga-dokument/proposition/2020/04/prop.-201920155/
-
-https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H703155/html
-
-https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/tillfalliga-bemyndiganden-i-smittskyddslagen-med_H701SoU20
-
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_may_2020.pdf
-
-https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
-
-https://www.loc.gov/law/foreign-news/article/sweden-swedish-parliament-gives-swedish-government-temporary-emergency-powers-because-of-Covid-19-outbreak/
-
-https://fra.europa.eu/sites/default/files/fra_uploads/se_report_on_coronavirus_pandemic_november_2020.pdf
-
-https://www.regeringen.se/artiklar/2020/03/andring-i-forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://www.regeringen.se/artiklar/2020/03/forordning-om-forbud-mot-att-halla-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://www.regeringen.se/artiklar/2020/03/forbud-mot-allmanna-sammankomster-eller-offentliga-tillstallningar-med-fler-an-50-deltagare/
-
-https://www.regeringen.se/pressmeddelanden/2020/11/max-atta-personer-vid-allmanna-sammankomster-och-offentliga-tillstallningar/
-
-https://verfassungsblog.de/Covid-19-in-sweden-a-soft-power-approach/
-https://www.regeringen.se/regeringens-politik/regeringens-arbete-med-coronapandemin/om-halsovard-sjukvard-och-aldreomsorg-med-anledning-av-Covid-19/fragor-och-svar-om-den-tillfalliga-pandemilagen/
-
-https://www.svt.se/nyheter/inrikes/riksdagen-rostar-ja-till-ny-pandemilag
+ https://perma.cc/ZC9V-ZV7M
+https://perma.cc/S2F7-VSAZ
+https://perma.cc/CN54-SJMV
+https://perma.cc/M59V-C79A
+https://web.archive.org/web/20210328234508/https://democracy-reporting.org/wp-content/uploads/2020/07/Rule-of-Law-Stress-Test-Continued-Layout_JJ_JP.pdf
+https://web.archive.org/web/20200509230542/https://www.loc.gov/law/foreign-news/article/sweden-swedish-parliament-gives-swedish-government-temporary-emergency-powers-because-of-Covid-19-outbreak/
+https://perma.cc/67SN-YWL9
+https://perma.cc/XP3G-6Q39
+https://perma.cc/U2GL-NA6H
+https://perma.cc/36R3-33JJ
+https://perma.cc/Q7W4-7AWJ
+https://perma.cc/537L-8RS8
+https://perma.cc/F6WA-U5P8
+https://perma.cc/B79H-83HJ
 
 
 
@@ -3712,12 +3746,19 @@ https://www.svt.se/nyheter/inrikes/riksdagen-rostar-ja-till-ny-pandemilag
 The Federal Council defined the Covid-19 crisis an “extraordinary situation” under Article 185 al. 3 of the Constitution and under Article 7 of the Epidemics Act, therefore granting the Federal Council (government) with authorization by the Constitution and by law to take this decision without the involvement of Parliament. While parliament approved the Covid-19 Act, the Act does not require parliamentary approval for measures to come into effect, and parliament cannot veto measures (although the government is required to present the measures to parliament, and consult parliamentary committees before executing them). This is therefore coded 0 for all periods, as neither the ordinances nor the Covid-19 act requires parliamentary approval for measures. 
 
 *Sources*:
- https://www.venice.coe.int/files/EmergencyPowersObservatory/SUI-E.htm
-https://fcilsis.wordpress.com/2020/11/18/european-legal-responses-to-Covid-19-switzerland/
-https://verfassungsblog.de/concentration-of-powers-in-the-federal-executive-the-application-of-emergency-powers-in-switzerland/
+ https://perma.cc/Y33P-T3HZ
 
-https://verfassungsblog.de/switzerland-and-the-Covid-19-pandemic-a-look-back-and-a-look-into-the-future/
-https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+
+https://perma.cc/2PX7-45HL
+
+
+https://perma.cc/6FT2-9AED
+
+
+https://perma.cc/J6NG-GNLM
+
+
+https://perma.cc/2WHE-3SF3
 
 
 
@@ -3742,12 +3783,10 @@ https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/
 *No comment provided* 
 
 *Sources*:
- https://verfassungsblog.de/taiwans-fight-against-covid-19-constitutionalism-laws-and-the-global-pandemic/
+ https://perma.cc/2JQ3-UYGX
 
 
-
-
-https://www.loc.gov/law/foreign-news/article/taiwan-special-covid-19-law-revised-to-increase-economic-relief-budget/
+https://perma.cc/28G7-DGVQ
 
 
 
@@ -3772,7 +3811,7 @@ https://www.loc.gov/law/foreign-news/article/taiwan-special-covid-19-law-revised
  Legislature approval is required for declaring a state of emergency but not for other measures (Article 69 of the Constitution) 
 
 *Sources*:
- https://minjust.ww.tj/library/constitution_rus.pdf
+ https://perma.cc/RS8K-WS23
 
 
 
@@ -3825,13 +3864,11 @@ However, as the council of ministers are not part of the legislature, this varia
 
 *Sources*:
  (1)
-http://web.krisdika.go.th/data/document/ext810/810259_0001.pdf
-
+https://perma.cc/E7UG-Z2NX
 (2)
-https://www.bangkokpost.com/thailand/general/2024171/state-of-emergency-extended-to-jan-15
-
+https://perma.cc/F8WK-ZMVQ
 (3)
-https://data.ipu.org/content/thailand?chamber_id=68412
+https://perma.cc/QR78-6WYN
 
 
 
@@ -3857,10 +3894,14 @@ https://data.ipu.org/content/thailand?chamber_id=68412
 The Public Health Act does not require approvement. 
 
 *Sources*:
- https://constituteproject.org/constitution/Gambia_2018.pdf?lang=en
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B420%5D&covid19=1
+ https://perma.cc/QW88-5X3T
 
-https://www.facebook.com/PresidencyGambia/photos/a.666968460301931/1291031134562324/?type=3
+
+https://perma.cc/J7UH-BULT
+
+
+
+https://perma.cc/9RQH-EP49
 
 
 
@@ -3887,10 +3928,16 @@ https://www.facebook.com/PresidencyGambia/photos/a.666968460301931/1291031134562
 Article 86 also reads that the ''Government can, for the execution of its programs, demand of the National Assembly, the authorization to take by ordinances, during a limited time period, the measures that are normally of the domain of the law. These ordinances are taken in the Council of Ministers after the opinion of the Constitutional Court. They enter into force on their publication, but become lapsed if the bill of law of ratification is not deposited with the National Assembly before the date established by the enabling law. At the expiration of the time period defined in the enabling law, these ordinances may only be modified by the law, in that which concerns their provisions which arise in the legislative domain.'' 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Togo_2007.pdf?lang=en
-https://presidence.gouv.tg/2020/04/01/adresse-du-chef-de-letat-sem-faure-essozimna-gnassingbe-au-peuple-togolais-sur-la-riposte-nationale-contre-le-covid-19/
-http://togolex.com/2020/04/loi-n-2020-005-du-30/03/2020-portant-habilitation-du-gouvernement-a-prendre-par-ordonnances-les-mesures-relevant-du-domaine-de-la-lo
-http://togolex.com/2020/04/la-cour-constitutionnelle-valide-l-etat-d-urgence-et-donne-au-gouvernement-un-blanc-seing-pour-restreindre-les-libertes-commentaire
+ perma.cc/T29D-4EH8
+
+
+perma.cc/MP59-8QKL
+
+
+perma.cc/AS24-6M8U
+
+
+perma.cc/5TB7-MLEV
 
 
 
@@ -3915,10 +3962,8 @@ http://togolex.com/2020/04/la-cour-constitutionnelle-valide-l-etat-d-urgence-et-
  Article 70 of the Constitution requires that the national legislature approve the implementation of the legal instruments in emlaw. Article 80 can be triggered without the national legislature's approval. 
 
 *Sources*:
- [1]
-https://www.constituteproject.org/constitution/Tunisia_2014?lang=en
-[2]
-https://www.asf.be/blog/2020/07/01/the-tunisian-response-to-the-covid-19-pandemic-when-the-state-of-exception-overlaps-with-the-state-of-emergency/#_ftn4
+ [1]	perma.cc/SH5E-GB35
+[2]	perma.cc/8K9L-YU4G
 
 
 
@@ -3944,14 +3989,21 @@ https://www.asf.be/blog/2020/07/01/the-tunisian-response-to-the-covid-19-pandemi
 Law on the Protection of Public Health (Law no.1593) also does not seem to need parliamentary approval: ''the General Hygiene Law (Umumi Hıfzıssıhha Kanunu) No. 1593 is accepted as the constitution of healthcare services. The Law allows for quarantine application within the scope of “combating contagious and epidemic diseases”. Isolation practices and the quarantine of a certain region are described in Article 72. Authority to decide on quarantine implementation and other measures within the scope of combating epidemic diseases is given to the Ministry of Health for the country in general by the Article 64 of the Law numbered 1593.'' (4) 
 
 *Sources*:
- https://verfassungsblog.de/fighting-Covid-19-legal-powers-risks-and-the-rule-of-law-turkey/
-https://www.constituteproject.org/constitution/Turkey_2017.pdf?lang=en
-https://www.venice.coe.int/webforms/documents/default.aspx?pdffile=CDL-REF(2016)028-e
+ https://perma.cc/EP4H-A9RV
+
+
+https://perma.cc/RD7D-EGPL
+
+
+https://perma.cc/56UC-6AGJ
 (3)
-https://journals.tubitak.gov.tr/medical/issues/sag-20-50-si-1/sag-50-si-1-9-2004-153.pdf
+
+
+https://perma.cc/H2WP-AZDH
 (4)
 
-https://verfassungsblog.de/year-one-reflections-on-turkeys-legal-responses-to-the-Covid-19-pandemic/
+
+https://perma.cc/54HS-3NJB
 
 
 
@@ -4001,12 +4053,9 @@ https://verfassungsblog.de/year-one-reflections-on-turkeys-legal-responses-to-th
  The Public Health Act does not require parliamentary approval of emergency measures related to disease or infection. A state of emergency does require parliamentary oversight but a state of emergency has not been declared. 
 
 *Sources*:
- [1]
-http://library.health.go.ug/sites/default/files/resources/Public%20Health%20Act.pdf
-[2]
-https://perma.cc/E7ZP-68JW
-[3]
-https://www.constituteproject.org/constitution/Uganda_2017?lang=en
+ [1]	perma.cc/5SN8-HN2T
+[2]	perma.cc/E7ZP-68JW
+[3]	perma.cc/6NNX-C6ZD
 
 
 
@@ -4033,9 +4082,10 @@ https://www.constituteproject.org/constitution/Uganda_2017?lang=en
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: legislature approval is not required based on Law of Ukraine On Protection of Population against Infectious Diseases (Art. 29). 
 
 *Sources*:
- https://zakon.rada.gov.ua/laws/show/5403-17?lang=en
+ https://perma.cc/QTZ2-HH6F
 
-https://zakon.rada.gov.ua/laws/show/1645-14#n241
+
+https://perma.cc/AZ24-RPDF
 
 
 
@@ -4085,15 +4135,13 @@ https://zakon.rada.gov.ua/laws/show/1645-14#n241
  Claiming urgency, the secreterary of state has power to make the regulations come into force immediately, but the House of Commons needs to approve them within 28 days or it expires. Due to this need to approve within a time limit, this is coded as 1. Each legislation as such has also been approved by parliament. 
 
 *Sources*:
- http://www.legislation.gov.uk/uksi/2020/350/contents/made
-http://www.legislation.gov.uk/uksi/2020/350/pdfs/uksi_20200350_en.pdf
-http://www.legislation.gov.uk/ssi/2020/103/contents/made
-http://www.legislation.gov.uk/wsi/2020/353/contents/made
-https://www.health-ni.gov.uk/sites/default/files/publications/health/Coronavirus-Restrictiions-Regs-2020.pdf
-
-https://www.legislation.gov.uk/coronavirus
-
-https://www.legislation.gov.uk/uksi/2021/364/contents
+ https://perma.cc/89Z9-LC94
+https://perma.cc/L3X6-MUVR
+https://perma.cc/HJ5X-T6N6
+https://perma.cc/853K-SKBP
+https://perma.cc/PTF4-K9XE
+https://perma.cc/V3WQ-F7FX
+https://perma.cc/ZDQ9-6XFA
 
 
 
@@ -4118,7 +4166,7 @@ https://www.legislation.gov.uk/uksi/2021/364/contents
  The National Emergency Act states that: "With respect to Acts of Congress authorizing the exercise, during the period of a national emergency, of any special or extraordinary power, the President is authorized to declare such national emergency." The President therefore needs no approval from Congress to declare a national emergency. 
 
 *Sources*:
- https://uscode.house.gov/view.xhtml?path=/prelim@title50/chapter34&edition=prelim
+ https://perma.cc/5JAC-MK2N
 
 
 
@@ -4143,11 +4191,8 @@ https://www.legislation.gov.uk/uksi/2021/364/contents
  Law nº 9.202 attributes the Executive with the competence in public health and the same law affirms that the Ministry of Public Health can adopt the necessary measures. This state was declared in the Council of Ministers with the President. 
 
 *Sources*:
- [1]
-https://www.impo.com.uy/bases/leyes/9202-1934
-
-[2]
-https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
+ [1]	perma.cc/D9XE-HRR7
+[2]	perma.cc/ZRL8-U8FZ
 
 
 
@@ -4172,7 +4217,7 @@ https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
  Legislature approval is not mentioned in presidential order 5537. 
 
 *Sources*:
- https://www.lex.uz/docs/4720408
+ https://perma.cc/DLR7-EFNT
 
 
 
@@ -4198,11 +4243,11 @@ https://medios.presidencia.gub.uy/legal/2020/decretos/03/cons_min_18.pdf
 
 *Sources*:
  [1]
-https://venezuela.justia.com/federales/constitucion-de-la-republica-bolivariana-de-venezuela/titulo-viii/capitulo-ii/
+perma.cc/Z7X7-EJEK
 [2]
-https://covid19.patria.org.ve/noticia/presidente-maduro-extiende-30-dias-estado-de-alarma-constitucional-para-combatir-covid-19/
+perma.cc/GCV7-J3WA
 [3]
-http://vicepresidencia.gob.ve/sala-constitucional-del-tsj-declaro-la-constitucionalidad-del-decreto-que-prorroga-estado-de-alarma-por-pandemia-del-covid-19/
+https://web.archive.org/web/20200820171306/http://vicepresidencia.gob.ve/sala-constitucional-del-tsj-declaro-la-constitucionalidad-del-decreto-que-prorroga-estado-de-alarma-por-pandemia-del-covid-19/
 
 
 
@@ -4252,25 +4297,31 @@ http://vicepresidencia.gob.ve/sala-constitucional-del-tsj-declaro-la-constitucio
  The Statutory Instruments (Chapter 295 of the Public Health Act, sections 9, 28, 30, and 114) specified public health officials as the "authorized officers" to implement Covid-19 regulations and protocols. While the Ministry of Health initially led the response, in coordination with the WHO, the president appeared to have seized control by issuing a series of restrictions in March 2020 that have been amended at various points and continue through Q2 2021. 
 
 *Sources*:
- http://zambialii.org/zm/legislation/statutory-instrument/2020/21
+ https://perma.cc/V262-7AF9
 
 (1)
-http://zambialii.org/zm/legislation/statutory-instrument/2020/22
+https://perma.cc/GH77-GTQ2
 (2)
-
-https://www.parliament.gov.zm/sites/default/files/documents/acts/Public%20Health%20Act.pdf
+https://perma.cc/TT8W-QTVQ
 (3)
-https://zambialii.org/zm/legislation/statutory-instrument/2020/no-62-2020
+
+https://perma.cc/BKW2-RZ3X
+
 (4)
-https://www.mod.gov.zm/?wpfb_dl=41
+
+https://perma.cc/EXY8-L953
 (5)
-https://www.effective-states.org/zambias-response-to-covid-19-part-3-rising-infections-and-falling-confidence-amidst-increased-authoritarianism/
+
+https://perma.cc/5D9Z-6CR7
 (6)
-https://www.themastonline.com/2020/04/16/boma-ni-bowman-the-plight-of-the-rule-of-law-in-zambia-during-covid-19/
+
+https://perma.cc/2BZN-78CG
 (7)
-http://zambiahighcommission.ca/wp/revised-guidelines-for-strengthening-sureillance-at-the-points-of-entry-poe-v2-0/
+
+https://perma.cc/Y9R3-W26S
 (8)
-https://www.swedenabroad.se/globalassets/ambassader/zambia-lusaka/documents/poe-guidelines-version-2.0-with-annex.pdf
+
+https://perma.cc/7ETB-JRF9
 (9)
 
 
@@ -4296,4 +4347,4 @@ https://www.swedenabroad.se/globalassets/ambassader/zambia-lusaka/documents/poe-
  The President does not need the approval of Parliament to declare a state of disaster, according to section 27 of the Civil Protection Act. The Parliament is merely informed that such declaration has been made. Section 28 of the Civil Protection Act states: "Where a state of disaster has been declared in terms of section twenty-seven, the Minister shall communicate such declaration to Parliament on the day that it next sits after the declaration is made." 
 
 *Sources*:
- https://www.global-regulation.com/law/zimbabwe/3374657/civil-protection-act.html
+ https://perma.cc/QU4Q-UDYM

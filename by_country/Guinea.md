@@ -57,39 +57,35 @@ This situation renders de facto null and void the orders issued in application o
 The state of emergency was reintroduced on 26 February 2021 for a period of 3 months, based on the same legal instrument, therefore it is coded as a continuation. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Guinea_2010.pdf
+ perma.cc/7EBJ-EMME
 (1)
 
-https://www.refworld.org/docid/3ae6b524c.html
+perma.cc/E6BZ-YQAZ
 (2)
 
-http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
+https://web.archive.org/web/20200528181921/http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
 (3)
 
-https://twitter.com/alphacondepresi/status/1243260447505203209?s=20
+https://perma.cc/97R8-KC6R
 (4)
 
-https://kalenews.org/a-partir-dhier-lundi-15-fevrier-letat-durgence-sanitaire-et-le-couvre-feu-ne-sont-plus-en-vigueur/
+
+https://web.archive.org/web/20210216151749/https://kalenews.org/a-partir-dhier-lundi-15-fevrier-letat-durgence-sanitaire-et-le-couvre-feu-ne-sont-plus-en-vigueur/
+
 (5)
 
-https://mediaguinee.org/grave-revelation-autour-de-la-prolongation-de-letat-durgence-sanitaire-lassemblee-nationale-na-pas-ete-associee-depute/
+perma.cc/4FPC-CCQD
 (6)
 
-https://guilaw.com/la-constitution-de-2020/
+perma.cc/K5N8-VHLZ
 (7)
 
-https://www.garda.com/crisis24/news-alerts/327766/guinea-authorities-announce-state-of-emergency-march-27-update-2
-
-https://www.garda.com/crisis24/news-alerts/416386/guinea-state-of-health-emergency-extended-through-mid-january-update-12
-
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011880515/guinea-authorities-extend-covid-19-related-state-of-health-emergency-for-a-month-from-jan-15-update-14
-
-https://www.garda.com/crisis24/news-alerts/444151/guinea-nationwide-covid-19-restrictions-remain-largely-unchanged-as-of-feb-17-update-15
-
-
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/h9e7wogkvd4bsihrf/guinea-nationwide-state-of-emergency-extended-through-april-30-due-to-covid-19-update-3
-https://www.garda.com/fr/crisis24/alertes-de-securite/484301/guinea-authorities-extend-covid-19-related-state-of-health-emergency-through-june-26-curfew-hours-reduced-may-27-update-19
-
+perma.cc/Z3TP-LHKX
+perma.cc/X6N4-64BJ
+perma.cc/Z9X6-YJKF
+perma.cc/LU38-6GAX
+perma.cc/D4N3-8CRL
+perma.cc/99CT-XT64
 
 
 
@@ -134,11 +130,12 @@ Loi organique No. L/1991/016 du 1991 relative à l'état d'urgence et a l'état 
  Could not find the decree name with which the state of emergency was declared. Sources mentioned that it was announced in public tv. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Guinea_2010.pdf
-(1)
-https://www.refworld.org/docid/3ae6b524c.html
-(2)
-http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
+ perma.cc/FJQ2-DRHC
+perma.cc/W2B7-95J3
+
+[3]
+https://web.archive.org/web/20200528181921/http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
+
 
 
 
@@ -178,11 +175,9 @@ http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de
  
 
 *Sources*:
- http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
-
-https://www.garda.com/crisis24/news-alerts/327766/guinea-authorities-announce-state-of-emergency-march-27-update-2
-
-https://www.icnl.org/covid19tracker/?location=50&issue=&date=&type=
+ [1]https://web.archive.org/web/20200528181921/http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
+perma.cc/8DER-CVWY
+perma.cc/ZA86-LYQZ
 
 
 
@@ -221,7 +216,7 @@ https://www.icnl.org/covid19tracker/?location=50&issue=&date=&type=
  The state of emergency is still in place and was last extended through 26 June 2021. 
 
 *Sources*:
- https://www.garda.com/fr/crisis24/alertes-de-securite/484301/guinea-authorities-extend-covid-19-related-state-of-health-emergency-through-june-26-curfew-hours-reduced-may-27-update-19
+ perma.cc/9T46-HP8N
 
 
 
@@ -266,21 +261,18 @@ https://www.icnl.org/covid19tracker/?location=50&issue=&date=&type=
  The state of emergency was initially declared on all the national territory for a period of one month. All the later extensions had a limit date. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/416386/guinea-state-of-health-emergency-extended-through-mid-january-update-12
-
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011880515/guinea-authorities-extend-covid-19-related-state-of-health-emergency-for-a-month-from-jan-15-update-14
-
-https://www.garda.com/crisis24/news-alerts/444151/guinea-nationwide-covid-19-restrictions-remain-largely-unchanged-as-of-feb-17-update-15
-
-
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/h9e7wogkvd4bsihrf/guinea-nationwide-state-of-emergency-extended-through-april-30-due-to-covid-19-update-3
-https://www.garda.com/fr/crisis24/alertes-de-securite/484301/guinea-authorities-extend-covid-19-related-state-of-health-emergency-through-june-26-curfew-hours-reduced-may-27-update-19
-https://www.garda.com/crisis24/news-alerts/399851/guinea-health-state-of-emergency-extended-until-december-14-update-13
-https://www.garda.com/crisis24/news-alert-full-history/YuHTQ2WHgsmXENbRd/guinea-authorities-confirm-first-case-of-covid-19-march-13
-https://reliefweb.int/report/guinea/unicef-guinea-covid-19-situation-report-no-14-5-18-august-2020
-https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
-http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
-https://www.constituteproject.org/constitution/Guinea_2010.pdf
+ perma.cc/HB65-WYVG
+perma.cc/T99C-R5M2
+perma.cc/GDN2-Q4R4
+perma.cc/MY8U-BRB8
+perma.cc/W7HG-TMNQ
+perma.cc/5N9P-4THF
+perma.cc/V9HL-ZPW5
+perma.cc/2SR4-KUW8
+perma.cc/3LWE-ZAZ2
+[10]
+https://web.archive.org/web/20200528181921/http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
+perma.cc/TE2A-72RD
 
 
 
@@ -321,28 +313,18 @@ https://www.constituteproject.org/constitution/Guinea_2010.pdf
 The state of emergency was last extended through 26 June 2021. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/416386/guinea-state-of-health-emergency-extended-through-mid-january-update-12
-
-https://www.garda.com/crisis24/news-alerts/382936/guinea-authorities-announce-easing-of-certain-measures-september-22-update-11
-
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011880515/guinea-authorities-extend-covid-19-related-state-of-health-emergency-for-a-month-from-jan-15-update-14
-
-https://www.garda.com/crisis24/news-alerts/444151/guinea-nationwide-covid-19-restrictions-remain-largely-unchanged-as-of-feb-17-update-15
-
-
-https://www.africaguinee.com/articles/2021/02/26/guinee-alpha-conde-proroge-l-etat-d-urgence-pour-trois-mois
-
-https://www.garda.com/fr/crisis24/alertes-de-securite/484301/guinea-authorities-extend-covid-19-related-state-of-health-emergency-through-june-26-curfew-hours-reduced-may-27-update-19
-
-https://www.garda.com/crisis24/news-alerts/399851/guinea-health-state-of-emergency-extended-until-december-14-update-13
-
-https://www.garda.com/crisis24/news-alert-full-history/YuHTQ2WHgsmXENbRd/guinea-authorities-confirm-first-case-of-covid-19-march-13
-
-https://www.garda.com/crisis24/news-alerts/342691/guinea-nationwide-state-of-health-emergency-extended-until-june-14-due-to-covid-19-update-7
-
-http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
-
-https://www.constituteproject.org/constitution/Guinea_2010.pdf
+ perma.cc/X454-QR2X
+perma.cc/9QEF-EJBZ
+perma.cc/6LQ6-FA5U
+perma.cc/6JUD-787J
+perma.cc/3KXK-EKHH
+perma.cc/2DSU-YM6V
+perma.cc/U76K-S7FQ
+perma.cc/ZX4L-5P5E
+perma.cc/S5ZG-2LZW
+[10]
+https://web.archive.org/web/20200528181921/http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
+perma.cc/KP4D-873P
 
 
 
@@ -391,15 +373,11 @@ Guinea had a Constitutional referendum that led to the Constitution of 14 April 
 ''Unlike the 12-days deadline provided for decreeing a state of emergency by the President of the Republic, the constitution of 14 April 2020 does not set a deadline for the National Assembly as to the extension. However, the state of emergency ceases to be in force at the expiration of the period provided for in the ordinance adopted. And for there to be an extension, an authorization from the National Assembly is required, an ordinance issued for this purpose by the President of the Republic and an announcement of the extension in the official journal. (3) 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Guinea_2010.pdf
-
-https://guilaw.com/la-constitution-de-2020/
-(2)
-
-https://kalenews.org/a-partir-dhier-lundi-15-fevrier-letat-durgence-sanitaire-et-le-couvre-feu-ne-sont-plus-en-vigueur/
-(3)
-
-https://www.refworld.org/docid/3ae6b524c.html
+ perma.cc/FR9P-RCQL
+perma.cc/68JB-3PS5
+[3]
+https://web.archive.org/web/20210216151749/https://kalenews.org/a-partir-dhier-lundi-15-fevrier-letat-durgence-sanitaire-et-le-couvre-feu-ne-sont-plus-en-vigueur/
+perma.cc/S847-YPWZ
 
 
 
@@ -448,25 +426,15 @@ Guinea had a Constitutional referendum that led to the Constitution of 14 April 
 ''Unlike the 12-days deadline provided for decreeing a state of emergency by the President of the Republic, the constitution of 14 April 2020 does not set a deadline for the National Assembly as to the extension. However, the state of emergency ceases to be in force at the expiration of the period provided for in the ordinance adopted. And for there to be an extension, an authorization from the National Assembly is required, an ordinance issued for this purpose by the President of the Republic and an announcement of the extension in the official journal. (7) 
 
 *Sources*:
- https://afrique.lalibre.be/54021/guinee-letat-durgence-anti-covid-prolonge-a-un-mois-de-la-presidentielle/
-
-https://www.agpguinee.com/politique-fr_Guinee_Covid_19__L_Etat_d_urgence_prolonge_jusqu_au_15_juin_parlement.html
-
-https://www.africaguinee.com/articles/2020/06/16/guinee-le-parlement-soutient-une-decision-d-alpha-conde
-
-https://reveilguinee.info/covid-19-la-guinee-prolonge-letat-durgence-dun-mois/
-
-https://allodocteurs.africa/actualites/epidemie/covid-19/pour-lutter-contre-le-coronavirus-la-guinee-prolonge-l-etat-d-urgence
-(5)
-
-https://guilaw.com/la-constitution-de-2020/
-(6)
-
-https://kalenews.org/a-partir-dhier-lundi-15-fevrier-letat-durgence-sanitaire-et-le-couvre-feu-ne-sont-plus-en-vigueur/
-(7)
-
-https://mediaguinee.org/letat-durgence-sanitaire-proroge-de-3-mois-en-guinee/
-(8)
+ perma.cc/434Z-TNTG
+perma.cc/8SRQ-EQJV
+perma.cc/5Z55-Y3HX
+perma.cc/YF26-YG84
+perma.cc/M9Z4-QVMS
+perma.cc/NV5H-6Y33
+[7]
+https://web.archive.org/web/20210216151749/https://kalenews.org/a-partir-dhier-lundi-15-fevrier-letat-durgence-sanitaire-et-le-couvre-feu-ne-sont-plus-en-vigueur/
+perma.cc/D6NT-E3C4
 
 
 
@@ -522,25 +490,14 @@ Guinea had a Constitutional referendum that led to the adoption of the Constitut
 ''Unlike the 12-days deadline provided for decreeing a state of emergency by the President of the Republic, the constitution of 14 April 2020 does not set a deadline for the National Assembly as to the extension. However, the state of emergency ceases to be in force at the expiration of the period provided for in the ordinance adopted. And for there to be an extension, an authorization from the National Assembly is required, an ordinance issued for this purpose by the President of the Republic and an announcement of the extension in the official journal. (7) 
 
 *Sources*:
- https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
-(1)
-
-https://www.rfi.fr/fr/afrique/20200422-guin%C3%A9e-amadou-damaro-camara-%C3%A9lu-pr%C3%A9sident-l-assembl%C3%A9e-nationale
-(2)
-
-https://www.constituteproject.org/constitution/Guinea_2010.pdf
-(3)
-
-https://guilaw.com/la-constitution-de-2020/
-(4)
-
-https://allodocteurs.africa/actualites/epidemie/covid-19/pour-lutter-contre-le-coronavirus-la-guinee-prolonge-l-etat-d-urgence
-(5)
-https://kalenews.org/a-partir-dhier-lundi-15-fevrier-letat-durgence-sanitaire-et-le-couvre-feu-ne-sont-plus-en-vigueur/
-(6)
-
-https://mediaguinee.org/letat-durgence-sanitaire-proroge-de-3-mois-en-guinee/
-(7)
+ perma.cc/BT96-Z5EF
+perma.cc/W4FC-QK93
+perma.cc/Y2FE-FXLT
+perma.cc/J4GA-XGXT
+perma.cc/6U7U-JU4T
+[6]
+https://web.archive.org/web/20210216151749/https://kalenews.org/a-partir-dhier-lundi-15-fevrier-letat-durgence-sanitaire-et-le-couvre-feu-ne-sont-plus-en-vigueur/
+perma.cc/8GGC-W9RB
 
 
 
@@ -665,27 +622,19 @@ Despite the extension of the state of emergency, some Covid-19 restrictions in t
 In Q1 and Q2 of 2021, all measures, including the existing 0001-0400 curfew in Greater Conakry (Conakry, Coyah, and Dubreka), remain in effect. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/379846/guinea-authorities-extend-health-emergency-through-at-least-october-15-update-10
-
-https://www.garda.com/crisis24/news-alerts/390171/guinea-authorities-extend-state-of-health-emergency-until-november-15-update-12
-
-https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19#G
-
-https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
-
-https://www.garda.com/crisis24/news-alerts/331731/guinea-nationwide-state-of-emergency-extended-through-april-30-due-to-covid-19-update-3
-
-http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
-
-https://www.garda.com/crisis24/news-alerts/416386/guinea-state-of-health-emergency-extended-through-mid-january-update-12
-
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/wip10011880515/guinea-authorities-extend-covid-19-related-state-of-health-emergency-for-a-month-from-jan-15-update-14
-
-https://www.garda.com/crisis24/news-alerts/444151/guinea-nationwide-covid-19-restrictions-remain-largely-unchanged-as-of-feb-17-update-15
-
-https://crisis24.garda.com/insights-intelligence/intelligence/risk-alerts/h9e7wogkvd4bsihrf/guinea-nationwide-state-of-emergency-extended-through-april-30-due-to-covid-19-update-3
-
-https://www.garda.com/fr/crisis24/alertes-de-securite/484301/guinea-authorities-extend-covid-19-related-state-of-health-emergency-through-june-26-curfew-hours-reduced-may-27-update-19
+ perma.cc/9JE3-BHCZ
+perma.cc/2DE6-3HVX
+perma.cc/U962-9CJ9
+[4]
+https://web.archive.org/web/20200330075009/https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
+perma.cc/PGN4-2Q5U
+[6]
+https://web.archive.org/web/20200528181921/http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
+perma.cc/R2DX-38LR
+perma.cc/9N22-8UJM
+perma.cc/8GTX-E49H
+perma.cc/SN3N-EPUU
+perma.cc/AZ43-98GU
 
 
 
@@ -729,15 +678,15 @@ https://www.garda.com/fr/crisis24/alertes-de-securite/484301/guinea-authorities-
  No incidents of discrimination based on these rights was found. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/guinea/
+ perma.cc/CA4P-MJHZ
 (1)
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+perma.cc/98YU-LB3G
 (2)
 
-https://www.hrw.org/news/2020/04/29/guinea-respecting-rights-key-amid-covid-19-0
-
-http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
+perma.cc/4C6P-RKLF
+[4]
+https://web.archive.org/web/20200528181921/http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
 
 
 
@@ -786,16 +735,11 @@ http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de
  No evidence was found. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/guinea/
-(1)
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-(2)
-
-
-https://www.hrw.org/news/2020/04/29/guinea-respecting-rights-key-amid-covid-19-0
-
-http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
+ perma.cc/2AEA-AX5B
+perma.cc/38SV-7E26
+perma.cc/836N-STDF
+[4]
+https://web.archive.org/web/20200528181921/http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
 
 
 
@@ -839,12 +783,9 @@ http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de
  No de jure media limitations. 
 
 *Sources*:
- http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
-
-https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19#G
-
-https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
-
+ https://web.archive.org/web/20200528181921/http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
+https://perma.cc/U962-9CJ9
+https://web.archive.org/web/20200330075009/https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
 
 
 
@@ -971,23 +912,28 @@ According to the US Department of State's 2020 report on human rights practices,
 However, these violations are unrelated to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/guinea
-(1)
+ perma.cc/N3FA-B7QB
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/guinea/
-(2)
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+perma.cc/T4MT-DVLQ
 
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
 
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/CZ62-LLRL
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
 
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+perma.cc/DZ6S-4BSX
 
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
+
+perma.cc/T48K-547T
+
+
+perma.cc/L94Z-WRC9
+
+
+perma.cc/T3FW-65CS
+
+
+perma.cc/5TGF-ST7S
 
 
 
@@ -1035,23 +981,16 @@ According to the US Department of State's 2020 report on human rights practices,
 However, these violations are unrelated to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/guinea
+ perma.cc/N3FA-B7QB
 (1)
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/guinea/
-(2)
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
+perma.cc/T4MT-DVLQ
+perma.cc/CZ62-LLRL
+perma.cc/DZ6S-4BSX
+perma.cc/T48K-547T
+perma.cc/L94Z-WRC9
+perma.cc/T3FW-65CS
+perma.cc/5TGF-ST7S
 
 
 
@@ -1099,23 +1038,16 @@ According to the US Department of State's 2020 report on human rights practices,
 However, these violations are unrelated to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/guinea
+ perma.cc/N3FA-B7QB
 (1)
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/guinea/
-(2)
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
+perma.cc/T4MT-DVLQ
+perma.cc/CZ62-LLRL
+perma.cc/DZ6S-4BSX
+perma.cc/T48K-547T
+perma.cc/L94Z-WRC9
+perma.cc/T3FW-65CS
+perma.cc/5TGF-ST7S
 
 
 
@@ -1164,23 +1096,28 @@ According to the US Department of State's 2020 report on human rights practices,
 However, these violations are unrelated to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/guinea
-(1)
+ perma.cc/KW4S-6LME
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/guinea/
-(2)
 
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
+perma.cc/TF3P-YHTT
 
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
 
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/QX9A-427U
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
 
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+perma.cc/4NQR-HEAV
 
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
+
+perma.cc/8QDN-UDEB
+
+
+perma.cc/3JUB-AEU5
+
+
+perma.cc/XN2C-ER8T
+
+
+perma.cc/5TGF-ST7S
 
 
 
@@ -1224,22 +1161,17 @@ https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
 'According to the US Department of State's 2020 report on human rights practices (2), there are more reports and incidents of arbitrary arrests, harassment, and intimidation of journalists by the government, but these are unrelated to Covid-19. 
 
 *Sources*:
- https://allafrica.com/stories/202009140921.html
+ perma.cc/4X9U-53R6
 (1)
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/guinea/
+perma.cc/WX9R-PEVB
 (2)
 
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
-
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
+perma.cc/BYL2-4MGX
+perma.cc/LE9U-TB78
+perma.cc/SJ7V-BFQM
+perma.cc/4NB6-752X
+perma.cc/5TGF-ST7S
 
 
 
@@ -1283,22 +1215,25 @@ https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
 'According to the US Department of State's 2020 report on human rights practices (2), there are more reports and incidents of arbitrary arrests, harassment, and intimidation of journalists by the government, but these are unrelated to Covid-19. 
 
 *Sources*:
- https://allafrica.com/stories/202009140921.html
-(1)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/guinea/
-(2)
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+ perma.cc/5DFU-DW9G
 
 
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/5DWP-BTK6
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
 
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+perma.cc/A94Z-6F4G
 
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
+
+perma.cc/H46P-FKM3
+
+
+perma.cc/K2SF-MAKH
+
+
+perma.cc/R33H-BMKT
+
+
+perma.cc/5TGF-ST7S
 
 
 
@@ -1342,9 +1277,10 @@ https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
  l’Agence nationale de la sécurité sanitaire (ANSS), the official body responsible for managing the pandemic, is in line with WHO guidlines. 
 
 *Sources*:
- https://anss-guinee.org/
+ perma.cc/L78P-QVCD
 
-https://www.lemonde.fr/afrique/article/2020/04/27/la-guinee-franchit-la-barre-des-1-000-cas-de-coronavirus_6037877_3212.html
+
+perma.cc/7UP6-5ARJ
 
 
 
@@ -1395,22 +1331,14 @@ In May 2020, six protesters died in Guinea during clashes with the police, where
 In Q3, Q4 of 2020 and Q1 and Q2 of 2021, no more incidents of police brutality were found related to enforcing Covid-19 measures. There are however several occasions of police brutality directed to opposition party members and civil society activists. (see 2, 3) 
 
 *Sources*:
- https://www.aljazeera.com/news/2020/05/guinea-protesters-killed-clashes-police-200513071249521.html
-(1)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/guinea/
-(2)
-
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-(3)
-
-https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
-
-https://www.africanews.com/2020/05/15/covid-19-guinean-security-forces-accused-of-violence//
-
-https://www.hrw.org/fr/news/2020/04/29/guinee-le-respect-des-droits-humains-est-essentiel-dans-la-lutte-contre-le-covid-19
-
-https://reliefweb.int/report/guinea/guinea-respecting-rights-key-amid-covid-19
+ perma.cc/U5YZ-YWHZ
+perma.cc/U49M-T7KT
+perma.cc/5WB4-6ZGN
+[4]
+https://web.archive.org/web/20200330075009/https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/
+perma.cc/CC4Q-Z9LQ
+perma.cc/T5EH-M2HP
+perma.cc/QT29-YUVC
 
 
 
@@ -1452,13 +1380,9 @@ https://reliefweb.int/report/guinea/guinea-respecting-rights-key-amid-covid-19
  The defense and security forces are responsible to enforce the preventive measures, and the gendarmes (military force with law enforcement duties among the civilian population) have been reported to be involved. The authorities also maintain police and local militia checkpoints across the country, but this seems to be related to the upheavals occurring during the past several months, in the lead up to and during the March 22 2020 constitutional referendum and legislative elections. 
 
 *Sources*:
- https://allafrica.com/stories/202009140921.html
-
-http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
-
-
-https://www.hrw.org/news/2020/04/29/guinea-respecting-rights-key-amid-covid-19-0
-
-https://www.gov.uk/foreign-travel-advice/guinea
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/guinea/
+ perma.cc/G9MU-ECZG
+[2]
+https://web.archive.org/web/20200528181921/http://gouvernement.gov.gn/index.php/communique/5048-covid-19-adresse-du-chef-de-l-etat-guineen-a-la-nation
+perma.cc/64A4-3SDM
+perma.cc/54JA-2GZG
+perma.cc/2R34-FNCE

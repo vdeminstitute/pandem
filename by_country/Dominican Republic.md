@@ -46,9 +46,9 @@
 
 *Sources*:
  [1]
-https://conep.org.do/sites/default/files/compendio_de_medidas_oficiales_covid-19_20-07.pdf
+https://perma.cc/8NBQ-BNB9
 [2]
-https://presidencia.gob.do/decretos/245-21
+https://perma.cc/AJ6T-9TWE
 
 
 
@@ -88,9 +88,9 @@ https://presidencia.gob.do/decretos/245-21
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Dominican_Republic_2015?lang=en
+https://perma.cc/G2RU-S3YN
 [2]
-https://do.vlex.com/vid/ley-n-21-18-840896759
+https://perma.cc/B9CU-UZWZ
 
 
 
@@ -130,7 +130,7 @@ https://do.vlex.com/vid/ley-n-21-18-840896759
 
 *Sources*:
  [1]
-https://conep.org.do/sites/default/files/compendio_de_medidas_oficiales_covid-19_20-07.pdf
+https://perma.cc/8NBQ-BNB9
 
 
 
@@ -170,9 +170,9 @@ https://conep.org.do/sites/default/files/compendio_de_medidas_oficiales_covid-19
 
 *Sources*:
  [1]
-https://conep.org.do/sites/default/files/compendio_de_medidas_oficiales_covid-19_20-07.pdf
+https://perma.cc/8NBQ-BNB9
 [2]
-https://presidencia.gob.do/decretos/245-21
+https://perma.cc/AJ6T-9TWE
 
 
 
@@ -215,9 +215,9 @@ https://presidencia.gob.do/decretos/245-21
 
 *Sources*:
  [1]
-https://conep.org.do/sites/default/files/compendio_de_medidas_oficiales_covid-19_20-07.pdf
+https://perma.cc/8NBQ-BNB9
 [2]
-https://presidencia.gob.do/decretos/245-21
+https://perma.cc/AJ6T-9TWE
 
 
 
@@ -257,9 +257,9 @@ https://presidencia.gob.do/decretos/245-21
 
 *Sources*:
  [1]
-https://conep.org.do/sites/default/files/compendio_de_medidas_oficiales_covid-19_20-07.pdf
+https://perma.cc/8NBQ-BNB9
 [2]
-https://presidencia.gob.do/decretos/245-21
+https://perma.cc/AJ6T-9TWE
 
 
 
@@ -302,7 +302,7 @@ https://presidencia.gob.do/decretos/245-21
 
 *Sources*:
  [1]
-http://www.oas.org/juridico/spanish/mesicic3_repdom_constitucion.pdf
+https://perma.cc/H2MA-HQJK
 
 
 
@@ -345,21 +345,21 @@ http://www.oas.org/juridico/spanish/mesicic3_repdom_constitucion.pdf
 
 *Sources*:
  [1]
-http://www.consultoria.gov.do/News/NewsConsult/8351
+https://perma.cc/WD5Q-H4WV
 [2]
-http://www.consultoria.gov.do/News/NewsConsult/9346
+https://perma.cc/64BV-APPN
 [3]
-https://www.senadord.gob.do/el-senado-de-la-republica-aprueba-la-prorroga-del-estado-de-emergencia-por-45-dias-mas/
+https://perma.cc/6LUD-FBWY
 [4]
-https://www.senadord.gob.do/senado-de-la-republica-aprueba-extension-por-c/
+https://perma.cc/NGU2-ZH5K
 [5]
-https://www.senadord.gob.do/el-senado-aprueba-extension-estado-emergencia/
+https://perma.cc/K5G3-D6NL
 [6]
-https://www.senadord.gob.do/el-senado-aprueba-extension-estado-emergenc/
+https://perma.cc/K2KE-EGZ2
 [7]
-https://www.senadord.gob.do/senado-aprueba-extension-estado-de-emergencia-por-45-dias-solicitado/
+https://perma.cc/46J2-K2Z2
 [8]
-https://www.senadord.gob.do/el-senado-autoriza-prorrogar-el-estado-de-emergencia-por-45-dias/
+https://perma.cc/VL2V-CHN3
 
 
 
@@ -406,7 +406,7 @@ https://www.senadord.gob.do/el-senado-autoriza-prorrogar-el-estado-de-emergencia
 
 *Sources*:
  [1]
-http://www.consultoria.gov.do/Documents/GetDocument?reference=b444d39f-2e94-4f9b-82e6-5b0ceb4a72c6
+https://perma.cc/3LNA-JN8Z
 
 
 
@@ -529,9 +529,9 @@ http://www.consultoria.gov.do/Documents/GetDocument?reference=b444d39f-2e94-4f9b
 
 *Sources*:
  [1]
-https://conep.org.do/sites/default/files/compendio_de_medidas_oficiales_covid-19_20-07.pdf
+https://perma.cc/8NBQ-BNB9
 [2]
-https://www.godominicanrepublic.com/newsroom/coronavirus/
+https://perma.cc/A6H8-47YK
 
 
 
@@ -576,11 +576,11 @@ https://www.godominicanrepublic.com/newsroom/coronavirus/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/dominican-republic/
+https://perma.cc/RSD6-RG5Y
 [2]
-https://www.hrw.org/americas/dominican-republic
+https://perma.cc/Q9RL-SSE8
 [3]
-https://monitor.civicus.org/country/dominican-republic/
+https://perma.cc/KB9U-KURC
 
 
 
@@ -630,11 +630,11 @@ https://monitor.civicus.org/country/dominican-republic/
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/dominican-republic/
+https://perma.cc/RSD6-RG5Y
 [2]
-https://www.hrw.org/americas/dominican-republic
+https://perma.cc/Q9RL-SSE8
 [3]
-https://monitor.civicus.org/country/dominican-republic/
+https://perma.cc/KB9U-KURC
 
 
 
@@ -679,9 +679,9 @@ https://monitor.civicus.org/country/dominican-republic/
 
 *Sources*:
  [1]
-http://www.consultoria.gov.do/Documents/GetDocument?reference=ca72d161-e529-433f-8421-371952912c65
+https://perma.cc/HA9Z-9VST
 [2]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/W9R6-4DVJ
 
 
 
@@ -802,13 +802,13 @@ https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/LP3E-5FEP
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/S7TP-HZDL
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/L98Y-JM8Q
 [4]
-https://cpj.org/americas/dominican-republic/
+https://perma.cc/38XM-QJE3
 
 
 
@@ -851,13 +851,13 @@ https://cpj.org/americas/dominican-republic/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/LP3E-5FEP
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/S7TP-HZDL
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/L98Y-JM8Q
 [4]
-https://cpj.org/americas/dominican-republic/
+https://perma.cc/38XM-QJE3
 
 
 
@@ -900,13 +900,13 @@ https://cpj.org/americas/dominican-republic/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/LP3E-5FEP
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/S7TP-HZDL
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/L98Y-JM8Q
 [4]
-https://cpj.org/americas/dominican-republic/
+https://perma.cc/38XM-QJE3
 
 
 
@@ -950,13 +950,13 @@ https://cpj.org/americas/dominican-republic/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/LP3E-5FEP
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/S7TP-HZDL
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/L98Y-JM8Q
 [4]
-https://cpj.org/americas/dominican-republic/
+https://perma.cc/38XM-QJE3
 
 
 
@@ -999,11 +999,11 @@ https://cpj.org/americas/dominican-republic/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/LP3E-5FEP
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/S7TP-HZDL
 [3]
-https://cpj.org/americas/dominican-republic/
+https://perma.cc/38XM-QJE3
 
 
 
@@ -1046,11 +1046,11 @@ https://cpj.org/americas/dominican-republic/
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/LP3E-5FEP
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/S7TP-HZDL
 [3]
-https://cpj.org/americas/dominican-republic/
+https://perma.cc/38XM-QJE3
 
 
 
@@ -1095,8 +1095,8 @@ https://cpj.org/americas/dominican-republic/
 
 *Sources*:
  [1]
-https://coronavirusrd.gob.do/
-https://coronavirusrd.gob.do/wp-content/uploads/2020/03/35-Preguntas-y-Respuestas-Sobre-el-Coronavirus-y-Falsos-Rumores.pdf.pdf.pdf
+https://perma.cc/XN6L-QLE9
+https://perma.cc/L8HJ-24ZQ
 
 
 
@@ -1141,9 +1141,9 @@ https://coronavirusrd.gob.do/wp-content/uploads/2020/03/35-Preguntas-y-Respuesta
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/latest/news/2020/05/americas-authorities-must-protect-people-covid19-repressive-measures/
+https://perma.cc/B7TW-KGB4
 [2]
-https://lta.reuters.com/article/idLTAKCN229235
+https://perma.cc/5YSW-WZRM
 
 
 
@@ -1186,16 +1186,17 @@ https://lta.reuters.com/article/idLTAKCN229235
 
 *Sources*:
  [1]
-https://coronavirusrd.gob.do/2020/04/26/listado-de-medidas-rd-vs-covid-19/
+https://perma.cc/BD38-GWRP
 [2]
-https://eldia.com.do/toque-de-queda-iniciara-a-las-5-de-la-tarde-a-partir-de-manana/
+https://perma.cc/T9HQ-5WEJ
 [3]
-https://www.lavanguardia.com/vida/20200720/482418794223/republica-dominicana-clausura-balnearios-y-playas-publicos-frente-a-covid-19.html
+https://perma.cc/9BTK-3JAR
 [4]
-https://www.armariolibre.com.do/patrullas-pn-y-ejercito-rd-han-apresado-mas-de-123-mil-personas-por-violar-toque-de-queda-y-somete-mas-de-65-mil-500-a-la-justicia-desde-el-20-de-marzo/
+
+https://perma.cc/TC8K-HPPJ
 [5]
-https://www.ejercito.mil.do/noticias/688-ejercito-asegura-toque-de-queda-fue-respetado-por-mas-del-95-de-los-residentes-en-barrios-patrullados
+https://perma.cc/N8SB-P66B
 [6]
-https://eldia.com.do/ministro-de-defensa-instruye-a-militares-hacer-cumplir-horario-toque-de-queda/
+https://perma.cc/N5PT-JQYJ
 [7]
-https://www.elcaribe.com.do/destacado/autoridades-recorren-el-gran-santo-domingo-para-verificar-cumplimiento-del-toque-de-queda/
+https://perma.cc/CF26-Q744

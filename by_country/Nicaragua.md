@@ -46,17 +46,17 @@
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3
 
 
 
@@ -96,17 +96,17 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3
 
 
 
@@ -146,17 +146,17 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3
 
 
 
@@ -196,17 +196,17 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3
 
 
 
@@ -249,17 +249,17 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3
 
 
 
@@ -299,17 +299,17 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3
 
 
 
@@ -352,17 +352,17 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3
 
 
 
@@ -405,17 +405,17 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3
 
 
 
@@ -462,17 +462,17 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3
 
 
 
@@ -595,17 +595,17 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3
 
 
 
@@ -650,17 +650,17 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3
 
 
 
@@ -710,17 +710,17 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3
 
 
 
@@ -765,17 +765,17 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3
 
 
 
@@ -815,17 +815,17 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3
 
 
 
@@ -865,17 +865,17 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3
 
 
 
@@ -918,35 +918,35 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
 
 *Sources*:
  [1]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/42AW-CV2W
 [2]
-https://www.voanoticias.com/centroamerica/periodistas-nicaraguenses-denuncian-aumento-de-censura-para-reportar-sobre-covid19
+perma.cc/8UHW-GVSN
 [3]
-https://100noticias.com.ni/nacionales/99459-periodistas-independientes-censura-coronavirus/
+perma.cc/US6S-HSEQ
 [4]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/C7SM-4U2E
 [5]
-https://www.bbc.com/mundo/noticias-america-latina-52716064
+perma.cc/4C74-6DAE
 [6]
-https://apnews.com/8f21c9f6306d4fb1a1d01d81c3c020d9
+perma.cc/6HN2-K7QY
 [7]
-https://www.nytimes.com/es/2020/06/02/espanol/america-latina/nicaragua-coronavirus-muertes.html
+perma.cc/5YKE-QDNU
 [8]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/W8VU-ZHSP
 [9]
-https://www.hrw.org/es/news/2020/06/23/nicaragua-despiden-medicos-por-criticar-el-manejo-de-la-covid-19
+perma.cc/Y39M-ENE9
 [10]
-https://www.bbc.com/mundo/noticias-america-latina-52716064
+perma.cc/APE4-9YUC
 [11]
-https://www.dw.com/es/eeuu-condena-intimidaci%C3%B3n-a-prensa-independiente-en-nicaragua/a-54372266
+perma.cc/AE47-6LYK
 [12]
-https://www.laprensa.com.ni/2020/09/08/nacionales/2718522-estos-son-los-ataques-contra-el-periodismo-independientes-en-lo-que-va-de-2020
+perma.cc/FT57-BQJW
 [13]
-https://www.voanoticias.com/centroamerica/periodistas-denuncian-agresiones-durante-cobertura-de-pandemia-en-nicaragua
+perma.cc/D8XZ-5BBN
 [14]
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/nicaragua.php
+perma.cc/M9L8-QRMC
 [15]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/4ZV2-76JB
 
 
 
@@ -989,35 +989,35 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
 
 *Sources*:
  [1]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/42AW-CV2W
 [2]
-https://www.voanoticias.com/centroamerica/periodistas-nicaraguenses-denuncian-aumento-de-censura-para-reportar-sobre-covid19
+perma.cc/8UHW-GVSN
 [3]
-https://100noticias.com.ni/nacionales/99459-periodistas-independientes-censura-coronavirus/
+perma.cc/US6S-HSEQ
 [4]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/C7SM-4U2E
 [5]
-https://www.bbc.com/mundo/noticias-america-latina-52716064
+perma.cc/4C74-6DAE
 [6]
-https://apnews.com/8f21c9f6306d4fb1a1d01d81c3c020d9
+perma.cc/6HN2-K7QY
 [7]
-https://www.nytimes.com/es/2020/06/02/espanol/america-latina/nicaragua-coronavirus-muertes.html
+perma.cc/5YKE-QDNU
 [8]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/W8VU-ZHSP
 [9]
-https://www.hrw.org/es/news/2020/06/23/nicaragua-despiden-medicos-por-criticar-el-manejo-de-la-covid-19
+perma.cc/Y39M-ENE9
 [10]
-https://www.bbc.com/mundo/noticias-america-latina-52716064
+perma.cc/APE4-9YUC
 [11]
-https://www.dw.com/es/eeuu-condena-intimidaci%C3%B3n-a-prensa-independiente-en-nicaragua/a-54372266
+perma.cc/AE47-6LYK
 [12]
-https://www.laprensa.com.ni/2020/09/08/nacionales/2718522-estos-son-los-ataques-contra-el-periodismo-independientes-en-lo-que-va-de-2020
+perma.cc/FT57-BQJW
 [13]
-https://www.voanoticias.com/centroamerica/periodistas-denuncian-agresiones-durante-cobertura-de-pandemia-en-nicaragua
+perma.cc/D8XZ-5BBN
 [14]
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/nicaragua.php
+perma.cc/M9L8-QRMC
 [15]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/4ZV2-76JB
 
 
 
@@ -1060,13 +1060,13 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/Y4Y7-KRYY
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/5TT4-V7TP
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+perma.cc/7UMH-G84G
 [4]
-https://cpj.org/americas/nicaragua/
+perma.cc/N3AE-WMMM
 
 
 
@@ -1110,35 +1110,35 @@ https://cpj.org/americas/nicaragua/
 
 *Sources*:
  [1]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/42AW-CV2W
 [2]
-https://www.voanoticias.com/centroamerica/periodistas-nicaraguenses-denuncian-aumento-de-censura-para-reportar-sobre-covid19
+perma.cc/8UHW-GVSN
 [3]
-https://100noticias.com.ni/nacionales/99459-periodistas-independientes-censura-coronavirus/
+perma.cc/US6S-HSEQ
 [4]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/C7SM-4U2E
 [5]
-https://www.bbc.com/mundo/noticias-america-latina-52716064
+perma.cc/4C74-6DAE
 [6]
-https://apnews.com/8f21c9f6306d4fb1a1d01d81c3c020d9
+perma.cc/6HN2-K7QY
 [7]
-https://www.nytimes.com/es/2020/06/02/espanol/america-latina/nicaragua-coronavirus-muertes.html
+perma.cc/5YKE-QDNU
 [8]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/W8VU-ZHSP
 [9]
-https://www.hrw.org/es/news/2020/06/23/nicaragua-despiden-medicos-por-criticar-el-manejo-de-la-covid-19
+perma.cc/Y39M-ENE9
 [10]
-https://www.bbc.com/mundo/noticias-america-latina-52716064
+perma.cc/APE4-9YUC
 [11]
-https://www.dw.com/es/eeuu-condena-intimidaci%C3%B3n-a-prensa-independiente-en-nicaragua/a-54372266
+perma.cc/AE47-6LYK
 [12]
-https://www.laprensa.com.ni/2020/09/08/nacionales/2718522-estos-son-los-ataques-contra-el-periodismo-independientes-en-lo-que-va-de-2020
+perma.cc/FT57-BQJW
 [13]
-https://www.voanoticias.com/centroamerica/periodistas-denuncian-agresiones-durante-cobertura-de-pandemia-en-nicaragua
+perma.cc/D8XZ-5BBN
 [14]
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/nicaragua.php
+perma.cc/M9L8-QRMC
 [15]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/4ZV2-76JB
 
 
 
@@ -1181,27 +1181,25 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
 
 *Sources*:
  [1]
-https://www.laprensa.com.ni/2020/09/08/nacionales/2718522-estos-son-los-ataques-contra-el-periodismo-independientes-en-lo-que-va-de-2020
+perma.cc/R2ER-ZQS9
 [2]
-https://forbescentroamerica.com/2020/05/14/vicepresidenta-de-nicaragua-tilda-de-almas-endemoniadas-a-comunicadores/
+perma.cc/YL95-J7RZ
 [3]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/J4XW-ETUW
 [4]
-https://www.dw.com/es/eeuu-condena-intimidaci%C3%B3n-a-prensa-independiente-en-nicaragua/a-54372266
-
+perma.cc/7Z6M-8YDS
 [5]
-https://www.laprensa.com.ni/2020/09/08/nacionales/2718522-estos-son-los-ataques-contra-el-periodismo-independientes-en-lo-que-va-de-2020
-
+perma.cc/WD5A-ZJV3
 [6]
-https://www.laprensa.com.ni/2020/01/31/nacionales/2634490-censura-represion-y-agresiones-afectan-el-ejercicio-periodistico-independiente-en-nicaragua
+perma.cc/QAE8-D225
 [7]
-https://www.voanoticias.com/centroamerica/periodistas-denuncian-agresiones-durante-cobertura-de-pandemia-en-nicaragua
+perma.cc/B8FZ-MUFX
 [8]
-https://www.voanoticias.com/centroamerica/periodistas-nicaraguenses-denuncian-aumento-de-censura-para-reportar-sobre-covid19
+perma.cc/G5ND-AJ8W
 [9]
-https://www.elsalvador.com/noticias/internacional/nicaragua-crisis-periodistas/765507/2020/
+perma.cc/3A7R-VRW4
 [10]
-https://www.infobae.com/america/america-latina/2021/02/27/periodistas-del-mundo-exigen-libertad-de-expresion-en-nicaragua-el-regimen-de-ortega-ejerce-una-represion-sistematica-contra-los-disidentes/
+perma.cc/WSL7-BH2B
 
 
 
@@ -1244,13 +1242,13 @@ https://www.infobae.com/america/america-latina/2021/02/27/periodistas-del-mundo-
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+perma.cc/YRG4-NTXG
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/6QH2-XUAU
 [3]
-https://www.infobae.com/america/america-latina/2021/02/27/periodistas-del-mundo-exigen-libertad-de-expresion-en-nicaragua-el-regimen-de-ortega-ejerce-una-represion-sistematica-contra-los-disidentes/
+perma.cc/YB9H-Z8XQ
 [4]
-https://cpj.org/americas/nicaragua/
+perma.cc/LUS2-JZG6
 
 
 
@@ -1295,21 +1293,21 @@ https://cpj.org/americas/nicaragua/
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/6EMK-AHTK
 [2]
-https://www.hrw.org/es/news/2020/06/23/nicaragua-despiden-medicos-por-criticar-el-manejo-de-la-covid-19
+perma.cc/5VH3-3SWW
 [3]
-http://www.oas.org/es/cidh/expresion/showarticle.asp?artID=1176&lID=2
+perma.cc/9GRY-Q82U
 [4]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/F87L-3V89
 [5]
-https://www.amnesty.org/download/Documents/AMR4325352020ENGLISH.PDF
+perma.cc/HZ94-TKMB
 [6]
-https://www.loc.gov/law/help/covid-19-freedom-of-expression/nicaragua.php
+perma.cc/M3C5-VPG7
 [7]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/X8AX-G64H
 [8]
-https://www.hrw.org/world-report/2021/country-chapters/nicaragua
+perma.cc/3WV7-26BW
 
 
 
@@ -1354,17 +1352,17 @@ https://www.hrw.org/world-report/2021/country-chapters/nicaragua
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3
 
 
 
@@ -1407,14 +1405,14 @@ https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-tol
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/04/10/nicaragua-reckless-covid-19-response
+perma.cc/Z298-L6CC
 [2]
-https://elpais.com/sociedad/2020-05-04/el-gobierno-de-ortega-minimiza-los-casos-de-la-covid-19-mientras-crecen-las-alarmas-en-los-hospitales.html
+perma.cc/RA87-DGK5
 [3]
-https://cpj.org/2020/04/alvaro-navarro-on-covering-covid-19-in-nicaragua-c/
+perma.cc/25BK-XD95
 [4]
-https://science.sciencemag.org/content/369/6502/385.1
+perma.cc/3JKK-NS22
 [5]
-https://www.theguardian.com/global-development/2021/apr/05/nicaragua-daniel-ortega-vaccine-covid-rollout
+perma.cc/HZ7E-YMCB
 [6]
-https://www.npr.org/2021/05/12/996122094/citizens-work-to-expose-covids-real-toll-in-nicaragua-as-leaders-claim-success?t=1622197099917
+perma.cc/L8Z9-CRZ3

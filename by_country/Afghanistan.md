@@ -50,22 +50,35 @@ There have been no additional lockdowns since August 2020.
 As of May 7 2021, the COVID-19-related restrictions in force in Afghanistan remain largely unchanged by comparison with those in place during the first week of April 2021. 
 
 *Sources*:
- https://reliefweb.int/report/afghanistan/afghanistan-covid-19-multi-sectoral-response-operational-situation-report-8-july
-
-https://www.theguardian.com/world/2020/may/02/afghanistan-in-new-battle-against-ravages-of-covid-19
+ https://perma.cc/EBV6-4K3R
 
 
-https://gandhara.rferl.org/a/afghanistan-locks-down-capital-to-avoid-coronavirus-tide/30513293.html
+
+https://perma.cc/GE4H-9BRD
 
 
-https://www.constituteproject.org/constitution/Afghanistan_2004.pdf?lang=en
 
 
-https://www.thestatesman.com/world/afghan-govt-imposes-lockdown-coronavirus-cases-increase-15-1502870945.html
 
-https://www.garda.com/crisis24/news-alerts/476146/afghanistan-covid-19-related-measures-remain-largely-unchanged-as-of-may-7-by-comparison-with-those-in-effect-during-early-april-update-15
+https://perma.cc/XMA5-YXVB
 
-https://www.garda.com/crisis24/news-alerts/465531/afghanistan-officials-continue-some-covid-19-measures-as-of-april-11-update-14
+
+
+
+
+https://perma.cc/924G-9MVK
+
+
+
+
+
+https://perma.cc/NVS8-PNJ8
+
+
+https://perma.cc/GK6U-CFB5
+
+
+https://perma.cc/VX3C-7YTR
 
 
 
@@ -393,7 +406,7 @@ https://www.garda.com/crisis24/news-alerts/465531/afghanistan-officials-continue
  I did not find any information to suggest that the lawmaking role of the legislature has been limited. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Afghanistan_2004.pdf?lang=en
+ https://perma.cc/3MAF-9YYS
 
 
 
@@ -432,9 +445,7 @@ https://www.garda.com/crisis24/news-alerts/465531/afghanistan-officials-continue
  The Wolesi Jirga (House of People) of Afghanistan has not been suspended. The House continues to meet physically, but with a limited number of plenary sessions and committee meetings. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-
-
+ https://perma.cc/6PWJ-JM24
 
 
 https://www.pajhwok.com/en/tag/parliament-2
@@ -476,7 +487,8 @@ https://www.pajhwok.com/en/tag/parliament-2
  The Wolesi Jirga (House of People) of Afghanistan has not been suspended. The House continues to meet physically, but with a limited number of plenary sessions and committee meetings. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+ https://perma.cc/33V6-UG4V
+
 
 
 
@@ -529,9 +541,13 @@ https://www.pajhwok.com/en/tag/parliament-2
 As of May 7 2021, the COVID-19-related restrictions in force in Afghanistan remain largely unchanged by comparison with those in place during the first week of April 2021. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/476146/afghanistan-covid-19-related-measures-remain-largely-unchanged-as-of-may-7-by-comparison-with-those-in-effect-during-early-april-update-15
+ https://perma.cc/5E6J-5J3B
 
-https://www.garda.com/crisis24/news-alerts/465531/afghanistan-officials-continue-some-covid-19-measures-as-of-april-11-update-14
+
+
+
+
+https://perma.cc/GK25-P6CY
 
 
 
@@ -577,13 +593,10 @@ https://www.garda.com/crisis24/news-alerts/465531/afghanistan-officials-continue
 Women are extra vulnerable as a result of the restrictions, but the restrictions themselves are not discriminatory. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Afghanistan_2004.pdf?lang=en
-
-https://asiapacific.unwomen.org/en/digital-library/publications/2020/04/gender-alert-on-covid-19-l-afghanistan
-
-https://asiapacific.unwomen.org/en/digital-library/publications/2020/04/gender-alert-on-covid-19-in-afghanistan-issue-ii--ensuring-access-to-services-for-survivors-of-vawg
-
-https://www.hrw.org/news/2020/10/14/gender-alert-covid-19-afghanistan
+ https://perma.cc/5LVR-GXVL
+https://perma.cc/U2RU-885V
+https://perma.cc/8F4M-GPLR
+https://perma.cc/J3YD-EZTR
 
 
 
@@ -632,7 +645,7 @@ https://www.hrw.org/news/2020/10/14/gender-alert-covid-19-afghanistan
  I did not find any information related to this. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Afghanistan_2004.pdf?lang=en
+ https://perma.cc/24QC-7282
 
 
 
@@ -676,14 +689,19 @@ https://www.hrw.org/news/2020/10/14/gender-alert-covid-19-afghanistan
  I did not find any information related to this. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Afghanistan_2004.pdf?lang=en
+ https://perma.cc/CB53-2V7Z
 
 
 
 
-https://rsf.org/en/news/information-afghanistan-covid-19-adds-problems-war
 
 
+
+
+
+
+
+https://perma.cc/9W7H-PZ3G
 
 
 
@@ -803,12 +821,19 @@ https://rsf.org/en/news/information-afghanistan-covid-19-adds-problems-war
  I did not find any information related to this. However this variable has been coded as 1 due to the highly controlled nature of Afghanistans press. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
+ https://perma.cc/Q6CV-FDWK
 
 
-https://rsf.org/en/afghanistan
 
-https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
+
+
+https://perma.cc/T7GY-MXJU
+
+
+
+
+
+https://perma.cc/5Q34-YPQT
 
 
 
@@ -852,14 +877,12 @@ https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
 I did not find addition cases of de-facto limitations on reporting no the government’s response to the pandemic since june 2020. However this variable has been coded as 1 due to the highly controlled nature of Afghanistans press. 
 
 *Sources*:
- https://rsf.org/en/afghanistan
+ https://perma.cc/9TWK-PWWF
 
-https://rsf.org/en/news/two-afghan-journalists-arrested-news-agency-harassed
+https://perma.cc/UJ98-LWE5
+https://perma.cc/2V25-9RFA
 
-https://www.pajhwok.com/en/2020/06/22/ventilators-donated-moph-smuggled-pakistan?utm_source=dlvr.it&utm_medium=twitter
-
-
-https://www.rferl.org/a/rsf-urges-kabul-to-observe-media-law-after-journalists-arrested-harassed/30716541.html
+https://perma.cc/PP7Q-5447
 
 
 
@@ -901,12 +924,19 @@ https://www.rferl.org/a/rsf-urges-kabul-to-observe-media-law-after-journalists-a
  I did not find any information related to this. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
+ https://perma.cc/88ER-SHCG
 
 
-https://rsf.org/en/afghanistan
 
-https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
+
+
+https://perma.cc/XCT9-5NL7
+
+
+
+
+
+https://perma.cc/HVT3-UAUV
 
 
 
@@ -949,12 +979,16 @@ https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
  I did not find any information related to this. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
+ https://perma.cc/GF5H-2FR6
 
 
-https://rsf.org/en/afghanistan
+https://perma.cc/34HH-EAUH
 
-https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
+
+
+
+
+https://perma.cc/XS55-FSHT
 
 
 
@@ -998,16 +1032,25 @@ https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
 I have not found more cases of journalists being verbally harassed due to their reporting on Covid-19. However, harassment of journalists does happen frequently in the country. 
 
 *Sources*:
- https://rsf.org/en/news/two-afghan-journalists-arrested-news-agency-harassed
-
-https://www.pajhwok.com/en/2020/06/22/ventilators-donated-moph-smuggled-pakistan?utm_source=dlvr.it&utm_medium=twitter
+ https://perma.cc/3TE9-T4YN
 
 
-https://www.rferl.org/a/rsf-urges-kabul-to-observe-media-law-after-journalists-arrested-harassed/30716541.html
 
-https://www.amnesty.org/en/latest/news/2021/05/afghanistan-authorities-must-protect-journalists-and-journalism-amid-spiralling-violence/
 
-https://www.hrw.org/news/2021/04/01/afghanistan-taliban-target-journalists-women-media
+
+https://perma.cc/V9XC-MGJF
+
+
+
+
+
+https://perma.cc/3LKZ-6FLX
+
+
+https://perma.cc/R2UR-3YJZ
+
+
+https://perma.cc/2LP9-GRQ6
 
 
 
@@ -1049,16 +1092,31 @@ https://www.hrw.org/news/2021/04/01/afghanistan-taliban-target-journalists-women
  I did not find information specific to journalists being harrassed in connection to Covid-19 across all the time periods. However, multiple sources  have reported on how journalists in Afghanistan are frequently harassed. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
+ https://perma.cc/KP62-KX2U
 
 
-https://rsf.org/en/afghanistan
 
-https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
 
-https://www.amnesty.org/en/latest/news/2021/05/afghanistan-authorities-must-protect-journalists-and-journalism-amid-spiralling-violence/
 
-https://www.hrw.org/news/2021/04/01/afghanistan-taliban-target-journalists-women-media
+https://perma.cc/7DXF-938C
+
+
+
+
+
+https://perma.cc/8P2E-MAUP
+
+
+
+
+
+https://perma.cc/J69X-9A4J
+
+
+
+
+
+https://perma.cc/8W3B-BYM4
 
 
 
@@ -1102,12 +1160,19 @@ https://www.hrw.org/news/2021/04/01/afghanistan-taliban-target-journalists-women
  I did not find any information on covid-19 related matters deviating from the official information provided by the WHO. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
+ https://perma.cc/HJ6U-KMYS
 
 
-https://rsf.org/en/afghanistan
 
-https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
+
+
+https://perma.cc/LV5G-JVWX
+
+
+
+
+
+https://perma.cc/2BVQ-HDX4
 
 
 
@@ -1151,12 +1216,19 @@ https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
  There has been no information on security forces engaging in physical violence to execute the emergency measures. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
+ https://perma.cc/8N8D-XTUQ
 
 
-https://rsf.org/en/afghanistan
 
-https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
+
+
+https://perma.cc/E3XQ-ZEV4
+
+
+
+
+
+https://perma.cc/VDV9-RBLW
 
 
 
@@ -1198,7 +1270,11 @@ https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
  No information was found suggesting the military has been tasked with enforcing any confinement measures. 
 
 *Sources*:
- https://www.bbc.com/news/topics/c8nq32jw5r5t/afghanistan
+ https://perma.cc/SA8K-LDB8
 
 
-https://www.reuters.com/places/afghanistan
+
+
+
+
+https://perma.cc/5PXH-LZQW

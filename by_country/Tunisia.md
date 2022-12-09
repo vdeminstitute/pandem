@@ -45,29 +45,14 @@
  No state of emergency is declared, since Tunisia already has an active state of emergency since 2015 (provided for by Decree no.78-50 of 26 January 1978 [8]. However, Articles 70 and 80 of the Constitution have been activated as the main legal instruments to provide the Prime Minister and the President respectively with increased powers to carry out an emergency response to the pandemic. 
 
 *Sources*:
- [1]
-https://africa.cgtn.com/2020/05/30/tunisia-extends-state-of-emergency-for-6-months/
-
-[2]
-https://news-tunisia.tunisienumerique.com/tunisia-president-kais-saied-extends-state-of-emergency-for-six-months-from-may-30-2020/
-
-[3]
-https://news-tunisia.tunisienumerique.com/tunisia-state-of-emergency-extended-in-tunisia/
-
-[4]
-https://www.constituteproject.org/constitution/Tunisia_2014?lang=en
-
-[5]
-https://www.arab-reform.net/publication/tunisia-facing-covid-19-to-exceptional-circumstances-exceptional-measures/
-
-[6]
-https://www.tap.info.tn/en/Portal-Politics/12533648-law-on-delegating
-
-[7]
-https://www.aljazeera.com/news/2020/12/26/tunisia-extends-five-year-state-of-emergency
-
-[8]
-https://www.asf.be/blog/2020/07/01/the-tunisian-response-to-the-covid-19-pandemic-when-the-state-of-exception-overlaps-with-the-state-of-emergency/#_ftn4
+ [1]	perma.cc/CWZ3-7EDY
+[2]	perma.cc/X48T-ZK2H
+[3]	perma.cc/HK3Y-EJE4
+[4]	perma.cc/SH5E-GB35
+[5]	perma.cc/C3XB-CJ6G
+[6]	perma.cc/CZS2-Z4J7
+[7]	perma.cc/DXD4-QWLP
+[8]	perma.cc/8K9L-YU4G
 
 
 
@@ -106,9 +91,8 @@ https://www.asf.be/blog/2020/07/01/the-tunisian-response-to-the-covid-19-pandemi
  No state of emergency is declared, since Tunisia already has an active state of emergency since 2015 (provided for by Decree no.78-50 of 26 January 1978 [8]. However, Articles 70 and 80 of the Constitution have been activated as the main legal instruments to provide the Prime Minister and the President respectively with increased powers to carry out an emergency response to the pandemic. 
 
 *Sources*:
- https://www.arab-reform.net/publication/tunisia-facing-covid-19-to-exceptional-circumstances-exceptional-measures/
-
-https://www.constituteproject.org/constitution/Tunisia_2014?lang=en
+ [1]	perma.cc/C3XB-CJ6G
+[2]	perma.cc/SH5E-GB35
 
 
 
@@ -150,18 +134,12 @@ The state of emergency which is mentioned in emlaw was extended on May 30, 2020 
 The state of emergency which is mentioned in emlaw was extended on December 26, 2020 [6]. 
 
 *Sources*:
- [1]
-https://www.tap.info.tn/en/Portal-Politics/12533648-law-on-delegating
-[2]
-https://www.pist.tn/record/143956/files/Jo0242020.pdf
-[3]
-https://www.asf.be/blog/2020/07/01/the-tunisian-response-to-the-covid-19-pandemic-when-the-state-of-exception-overlaps-with-the-state-of-emergency/#_ftn2
-[4]
-https://legislation-securite.tn/fr/node/104750/compare
-[5]
-https://news-tunisia.tunisienumerique.com/tunisia-president-kais-saied-extends-state-of-emergency-for-six-months-from-may-30-2020/
-[6]
-https://www.aljazeera.com/news/2020/12/26/tunisia-extends-five-year-state-of-emergency
+ [1]	perma.cc/WD56-XWW4
+[2]	perma.cc/YE6J-9P8H
+[3]	perma.cc/6BC4-MRT7
+[4]	perma.cc/BJ2Z-UCU7
+[5]	perma.cc/HC22-5HMM
+[6]	perma.cc/9A4U-2GXT
 
 
 
@@ -201,16 +179,11 @@ https://www.aljazeera.com/news/2020/12/26/tunisia-extends-five-year-state-of-eme
  
 
 *Sources*:
- [1]
-http://www.pm.gov.tn/pm/actualites/actualite.php?id=12837&lang=en
-[2]
-https://www.constituteproject.org/constitution/Tunisia_2014?lang=en
-[3]
-https://af.reuters.com/article/commoditiesNews/idAFL8N2BR404
-[4]
-https://directinfo.webmanagercenter.com/2020/06/03/tunisie-arp-annulation-en-pleniere-des-mesures-exceptionnelles-concernant-le-travail-du-parlement/
-[5]
-https://www.aljazeera.com/news/2020/12/26/tunisia-extends-five-year-state-of-emergency
+ [1]	perma.cc/2W5Q-Q2WF
+[2]	perma.cc/K52G-J3K2
+[3]	perma.cc/JZF8-PE76
+[4]	perma.cc/WLZ6-QZKR
+[5]	perma.cc/64KC-JHY5
 
 
 
@@ -253,10 +226,7 @@ https://www.aljazeera.com/news/2020/12/26/tunisia-extends-five-year-state-of-eme
 Since Article 80 has no time limit, emlimit is coded 0. 
 
 *Sources*:
- [1]
-https://www.constituteproject.org/constitution/Tunisia_2014?lang=en
-
-
+ [1]	perma.cc/SH5E-GB35
 
 
 
@@ -295,10 +265,8 @@ https://www.constituteproject.org/constitution/Tunisia_2014?lang=en
  Per law, powers by article 70 can only last max 2 months. Article 80 has no time limit unless the parliament wants to challenge the necessity of it. Therefore emlimitdate is left blank. 
 
 *Sources*:
- [1]
-https://www.constituteproject.org/constitution/Tunisia_2014?lang=en
-[2]
-https://directinfo.webmanagercenter.com/2020/06/03/tunisie-arp-annulation-en-pleniere-des-mesures-exceptionnelles-concernant-le-travail-du-parlement/
+ [1]	perma.cc/SH5E-GB35
+[2]	perma.cc/ZS89-QK7Y
 
 
 
@@ -340,10 +308,8 @@ https://directinfo.webmanagercenter.com/2020/06/03/tunisie-arp-annulation-en-ple
  Article 70 of the Constitution requires that the national legislature approve the implementation of the legal instruments in emlaw. Article 80 can be triggered without the national legislature's approval. 
 
 *Sources*:
- [1]
-https://www.constituteproject.org/constitution/Tunisia_2014?lang=en
-[2]
-https://www.asf.be/blog/2020/07/01/the-tunisian-response-to-the-covid-19-pandemic-when-the-state-of-exception-overlaps-with-the-state-of-emergency/#_ftn4
+ [1]	perma.cc/SH5E-GB35
+[2]	perma.cc/8K9L-YU4G
 
 
 
@@ -385,8 +351,7 @@ https://www.asf.be/blog/2020/07/01/the-tunisian-response-to-the-covid-19-pandemi
  The Assembly of the Representatives of the People authorized the Prime Minister to issue decree laws, on April 6 
 
 *Sources*:
- [1]
-https://www.tap.info.tn/en/Portal-Politics/12533648-law-on-delegating
+ [1]	perma.cc/QEY9-VDYY
 
 
 
@@ -452,27 +417,13 @@ The Assembly also adopted draft legislation on 19 April to allow the Head of Gov
 After the first few months of the exceptional measures in 2020, the ARP returned to its pre-pandemic functioning [3]. 
 
 *Sources*:
- [1]
-https://www.constituteproject.org/constitution/Tunisia_2014?lang=en
-
-
-[2]
-https://www.arab-reform.net/publication/tunisia-facing-covid-19-to-exceptional-circumstances-exceptional-measures/
-
-[3]
-https://directinfo.webmanagercenter.com/2020/06/03/tunisie-arp-annulation-en-pleniere-des-mesures-exceptionnelles-concernant-le-travail-du-parlement/
-
-[4]
-https://www.asf.be/blog/2020/07/01/the-tunisian-response-to-the-covid-19-pandemic-when-the-state-of-exception-overlaps-with-the-state-of-emergency/#_ftn2
-
-[5]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#T
-
-[6]
-https://www.inter-pares.eu/sites/interpares/files/2020-05/Parliaments%20and%20Crisis%20Challenges%20and%20Innovations%20Primer.pdf
-
-[7]
-https://www.tap.info.tn/en/Portal-Politics/12533648-law-on-delegating
+ [1]	perma.cc/KE9Q-9JXB
+[2]	perma.cc/YSR7-SD9X
+[3]	perma.cc/4Z2C-YX2X
+[4]	perma.cc/S8PE-U9LE
+[5]	perma.cc/94PK-H28D
+[6]	perma.cc/W9RL-F3S9
+[7]	perma.cc/Q86V-APBJ
 
 
 
@@ -597,20 +548,13 @@ On October 16, 2020, a curfew was imposed in 16 of 24 governorates. But it was c
 It appears that the measures adopted during the first two quarters of 2021 have been standardized at the national level. "Update 2021-01-26: The measures in force in Tunisia until recently were renewed on Saturday (23 January). A countrywide curfew remains in force from 08:00 p.m. to 05:00 a.m. (local time). Gatherings as well as travel between cities are prohibited." [7] 
 
 *Sources*:
- [1]
-https://africa.cgtn.com/2020/08/29/curfew-imposed-in-northwestern-tunisia/
-[2]
-https://www.emergency-live.com/news/curfew-in-16-regions-of-tunisia-to-stop-the-coronavirus-1000-contagions-per-day/
-[3]
-https://newsaf.cgtn.com/news/2020-10-30/Tunisia-imposes-nighttime-curfew-in-efforts-to-curb-COVID-19-spread-UZBr9AoTDi/index.html
-[4]
-http://english.ahram.org.eg/NewsContent/2/8/378227/World/Region/Tunisia-imposes-curfew-in-two-southern-towns-to-co.aspx
-[5]
-https://www.reuters.com/article/idUSL8N2FN4FE
-[6]
-https://www.garda.com/crisis24/news-alerts/476176/tunisia-authorities-impose-a-nationwide-partial-lockdown-may-9-16-to-combat-covid-19-update-52
-[7]
-https://global-monitoring.com/gm/page/events/epidemic-0002033.opYWG7G2jfCj.html?lang=en
+ [1]	perma.cc/7ZMB-AZY3
+[2]	perma.cc/7NTV-8T8J
+[3]	perma.cc/7FTS-MLJE
+[4]	perma.cc/8QPT-JB2E
+[5]	perma.cc/6VDG-C7PY
+[6]	perma.cc/EXK5-VAAX
+[7]	perma.cc/B587-LASK
 
 
 
@@ -656,18 +600,12 @@ In February 2021, Human Rights Watch denounced that "Tunisian security forces ha
  
 
 *Sources*:
- [1]
-https://www.hrw.org/middle-east/n-africa/tunisia
-[2]
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/tunisia/
-[3]
-https://www.bbc.com/news/topics/cwlw3xz0lmvt/tunisia
-[4]
-https://www.hrw.org/news/2021/02/23/tunisia-police-arrest-use-violence-against-lgbti-activists
-[5]
-https://www.hrw.org/news/2021/03/09/tunisia-harassment-arbitrary-detention-lgbt-rights-activist
-[6]
-https://www.amnesty.org/en/latest/news/2021/03/tunisia-release-prominent-lgbti-activist-jailed-for-insulting-police/
+ [1]	perma.cc/M2BD-LEMB
+[2]	perma.cc/UP73-KPH5
+[3]	perma.cc/K555-PAP6
+[4]	perma.cc/Q8C9-26VY
+[5]	perma.cc/Z78N-JYMZ
+[6]	perma.cc/4A4K-NRD8
 
 
 
@@ -716,18 +654,12 @@ https://www.amnesty.org/en/latest/news/2021/03/tunisia-release-prominent-lgbti-a
  No emergency measures to specifically combat the pandemic that violate non-derogable rights as defined by the ICCPR were found. 
 
 *Sources*:
- [1]
-https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-[2]
-https://www.hrw.org/middle-east/n-africa/tunisia
-[3]
-https://www.amnesty.org/en/search/?country=38559&resourceType=newsarticle&sort=date
-[4]
-https://www.bbc.com/news/topics/cwlw3xz0lmvt/tunisia
-[5]
-https://www.hrw.org/news/2021/04/29/tunisia-jails-repatriated-women-suspected-isis-ties
-[6]
-https://www.hrw.org/news/2021/03/09/tunisia-harassment-arbitrary-detention-lgbt-rights-activist
+ [1]	perma.cc/ZH8M-KTJK
+[2]	perma.cc/K59T-FWS3
+[3]	perma.cc/JD38-EZKR
+[4]	perma.cc/EP73-FPW7
+[5]	perma.cc/A8ZG-2G9G
+[6]	perma.cc/D8WT-CQBV
 
 
 
@@ -771,12 +703,9 @@ https://www.hrw.org/news/2021/03/09/tunisia-harassment-arbitrary-detention-lgbt-
  No de-jure limitations of media freedom as part of the Covid-19 emergency measures were found. 
 
 *Sources*:
- [1]
-https://ipi.media/tunisia/
-[2]
-https://rsf.org/en/thematique/internet?countries%5B171%5D=171
-[3]
-https://cpj.org/mideast/tunisia/
+ [1]	perma.cc/XGF4-RGJN
+[2]	perma.cc/3SGL-3ZJX
+[3]	perma.cc/2C97-QFNS
 
 
 
@@ -896,14 +825,10 @@ https://cpj.org/mideast/tunisia/
  No evidence indicating that the government is de-facto limiting reporting of Covid-19 facts, was found. 
 
 *Sources*:
- [1]
-https://ipi.media/tunisia/
-[2]
-https://rsf.org/en/thematique/internet?countries%5B171%5D=171
-[3]
-https://cpj.org/mideast/tunisia/
-[4]
-https://www.bbc.com/news/topics/cwlw3xz0lmvt/tunisia
+ [1]	perma.cc/2WJ3-EGS4
+[2]	perma.cc/6CLX-66F4
+[3]	perma.cc/8CQ9-EH5Z
+[4]	perma.cc/9DNL-4Y4K
 
 
 
@@ -947,20 +872,13 @@ On 13 April Tunisian police raided the Tunis Afrique Presse (TAP) news agency "t
 There are no further cases reported. 
 
 *Sources*:
- [1]
-https://www.realites.com.tn/2020/04/un-correspondant-de-shems-fm-arrete-alors-quil-suivait-larrestation-de-lhomme-daffaires-ayant-fuit-sa-quarantaine/
-[2]
-https://nawaat.org/2020/04/28/covid-19-in-tunisia-abuse-of-power-and-arbitrary-law-enforcement/
-[3]
-https://ipi.media/tunisia/
-[4]
-https://rsf.org/en/thematique/internet?countries%5B171%5D=171
-[5]
-https://cpj.org/mideast/tunisia/
-[6]
-https://www.bbc.com/news/topics/cwlw3xz0lmvt/tunisia
-[7]
-https://cpj.org/2021/04/tunisian-police-raid-tap-news-agency-to-enforce-appointment-of-pro-government-director/
+ [1]	perma.cc/G3VX-BW2C
+[2]	perma.cc/9YRV-FHVA
+[3]	perma.cc/6U46-NNJL
+[4]	perma.cc/L9MQ-3YQR
+[5]	perma.cc/N7PP-5GRU
+[6]	perma.cc/FMP5-ULBH
+[7]	perma.cc/DVE9-QVWZ
 
 
 
@@ -1002,14 +920,10 @@ https://cpj.org/2021/04/tunisian-police-raid-tap-news-agency-to-enforce-appointm
  No evidence indicating that the government is de-facto limiting media reporting about non-Covid-19 related news, but with reference to the pandemic, was found. 
 
 *Sources*:
- [1]
-https://ipi.media/tunisia/
-[2]
-https://rsf.org/en/thematique/internet?countries%5B171%5D=171
-[3]
-https://cpj.org/mideast/tunisia/
-[4]
-https://www.bbc.com/news/topics/cwlw3xz0lmvt/tunisia
+ [1]	perma.cc/2WJ3-EGS4
+[2]	perma.cc/6CLX-66F4
+[3]	perma.cc/8CQ9-EH5Z
+[4]	perma.cc/9DNL-4Y4K
 
 
 
@@ -1052,18 +966,12 @@ https://www.bbc.com/news/topics/cwlw3xz0lmvt/tunisia
  "On 16 April 2021, the Tunisian Ministry of Health issued a directive stating that only a specified list of representatives from the health sector are authorized to make statements to the media or on social media in relation to the pandemic." [5] 
 
 *Sources*:
- [1]
-https://ipi.media/tunisia/
-[2]
-https://rsf.org/en/thematique/internet?countries%5B171%5D=171
-[3]
-https://cpj.org/mideast/tunisia/
-[4]
-https://www.bbc.com/news/topics/cwlw3xz0lmvt/tunisia
-[5]
-https://www.amnesty.org/en/latest/news/2021/04/tunisia-rescind-ministerial-order-censoring-health-workers-over-covid19/
-[6]
-https://www.article19.org/resources/tunisia-ministry-of-health-memo-violates-the-right-to-freedom-of-expression-press-and-access-to-information-and-it-should-be-revoked/
+ [1]	perma.cc/XGF4-RGJN
+[2]	perma.cc/3SGL-3ZJX
+[3]	perma.cc/2C97-QFNS
+[4]	perma.cc/J8AS-MDQR
+[5]	perma.cc/GR8V-Q7ZP
+[6]	perma.cc/FDK7-TT7E
 
 
 
@@ -1105,14 +1013,10 @@ https://www.article19.org/resources/tunisia-ministry-of-health-memo-violates-the
  No evidence indicating that the government and its agents have verbally harassed journalists reporting about Covid-19, was found. 
 
 *Sources*:
- [1]
-https://ipi.media/tunisia/
-[2]
-https://rsf.org/en/thematique/internet?countries%5B171%5D=171
-[3]
-https://cpj.org/mideast/tunisia/
-[4]
-https://www.bbc.com/news/topics/cwlw3xz0lmvt/tunisia
+ [1]	perma.cc/2WJ3-EGS4
+[2]	perma.cc/6CLX-66F4
+[3]	perma.cc/8CQ9-EH5Z
+[4]	perma.cc/9DNL-4Y4K
 
 
 
@@ -1155,18 +1059,12 @@ https://www.bbc.com/news/topics/cwlw3xz0lmvt/tunisia
 On 13 April Tunisian police raided the Tunis Afrique Presse (TAP) news agency "to enforce appointment of pro-government director" [6] by the Tunisian HoG Hichem Mechichi, who removed journalist Mouna Mtibaa as the TAP director on 5 April. It is not clear that this was in response to reporting on COVID-19. 
 
 *Sources*:
- [1]
-https://www.amnesty.org/en/latest/news/2020/04/tunisia-end-prosecution-of-bloggers-for-criticizing-governments-response-to-covid19/
-[2]
-https://ipi.media/tunisia/
-[3]
-https://rsf.org/en/thematique/internet?countries%5B171%5D=171
-[4]
-https://cpj.org/mideast/tunisia/
-[5]
-https://www.bbc.com/news/topics/cwlw3xz0lmvt/tunisia
-[6]
-https://cpj.org/2021/04/tunisian-police-raid-tap-news-agency-to-enforce-appointment-of-pro-government-director/
+ [1]	perma.cc/GY39-7E5S
+[2]	perma.cc/2WJ3-EGS4
+[3]	perma.cc/6CLX-66F4
+[4]	perma.cc/8CQ9-EH5Z
+[5]	perma.cc/9DNL-4Y4K
+[6]	perma.cc/6CKX-RYQ5
 
 
 
@@ -1210,12 +1108,9 @@ https://cpj.org/2021/04/tunisian-police-raid-tap-news-agency-to-enforce-appointm
  The information from the government is similar to the information from WHO. 
 
 *Sources*:
- [1]
-http://www.pm.gov.tn/pm/content/?lang=en
-[2]
-http://coronavirus.rns.tn
-[3]
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+ [1]	perma.cc/27YN-M2R9
+[2]	perma.cc/K99Z-VUBW
+[3]	perma.cc/PB8W-CCVK
 
 
 
@@ -1259,21 +1154,13 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
  Violent repression of protests in January and February 2021 was not clearly about enforcing COVID-19 measures. 
 
 *Sources*:
- [1]
-https://www.hrw.org/middle-east/n-africa/tunisia
-[2]
-https://www.amnesty.org/en/search/?country=38559&resourceType=newsarticle&sort=date
-[3]
-https://www.bbc.com/news/topics/cwlw3xz0lmvt/tunisia
-[4]
-https://www.amnesty.org/en/latest/news/2021/01/tunisia-authorities-must-refrain-from-using-unnecessary-and-excessive-force-against-protesters/
-[5]
-https://www.bbc.com/news/topics/cwlw3xz0lmvt/tunisia?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=6063ec810b5e0102e3fc449d%26Tunisian%20police%20fire%20tear%20gas%20on%20protesters%262021-03-31T06%3A19%3A19.266Z&ns_fee=0&pinned_post_locator=urn:asset:8b5aa29e-bb64-45be-a0fa-bbe43cad6b30&pinned_post_asset_id=6063ec810b5e0102e3fc449d&pinned_post_type=share
-[6]
-https://www.hrw.org/news/2021/02/05/tunisia-police-use-violent-tactics-quash-protests
-[7]
-https://www.bbc.com/news/world-africa-55733224
-[7]
+ [1]	perma.cc/R78T-EHPX
+[2]	perma.cc/8V5W-BLEP
+[3]	perma.cc/HF5N-J5TS
+[4]	perma.cc/F9S2-KN32
+[5]	perma.cc/646K-RKM7
+[6]	perma.cc/UC2H-VALZ
+[7]	perma.cc/J6CH-AKR6
 
 
 
@@ -1315,17 +1202,8 @@ https://www.bbc.com/news/world-africa-55733224
  In March 2020, the army was ordered to deploy and enforce a lockdown. The lockdown ended in May 2020. After the end of the lockdown, there are no reports that the army was involved in enforcing later curfews and other restrictions. The army only continued to operate military mobile hospitals. 
 
 *Sources*:
- [1]
-https://www.reuters.com/article/us-health-coronavirus-tunisia-army/tunisia-orders-army-into-streets-to-enforce-coronavirus-lockdown-idUSKBN21A2EH
-
-[2]
-https://thearabweekly.com/army-deployed-tunisias-streets-enforce-lockdown-against-virus-spread
-
-[3]
-https://www.tap.info.tn/en/Portal-Politics/12454533-president-kais
-
-[4]
-https://thearabweekly.com/tunisias-experience-coping-pandemic-worth-wests-attention
-
-[5]
-https://www.theguardian.com/global-development/2021/may/19/tunisia-lockdown-ends-despite-africas-worst-covid-death-rate
+ [1]	perma.cc/PW3G-HCWZ
+[2]	perma.cc/MZ6Q-CLUL
+[3]	perma.cc/T5HC-EBBA
+[4]	perma.cc/G4SW-SZJM
+[5]	perma.cc/98GA-UVCS

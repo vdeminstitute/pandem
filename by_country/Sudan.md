@@ -45,20 +45,13 @@
  Sudan's  Sovereignty Council declared on March 16, 2020, a state of health emergency. Articles 40 and 41 of Sudan's constitution regulate the state of emergency and there is no distinction made in the constitution between types of states of emergency. No separate legislative basis for a state of health emergency was found. 
 
 *Sources*:
- [1]
-https://allafrica.com/stories/202009170954.html
-[2]
-https://allafrica.com/stories/202003240353.html
-[3]
-https://www.garda.com/crisis24/news-alerts/323581/sudan-government-closes-borders-due-to-covid-19-on-march-16-update-1
-[4]
-https://reliefweb.int/report/sudan/sudan-corona-virus-covid-19-country-preparedness-and-response-plan-cprp-may-2020
-[5]
-https://www.dabangasudan.org/en/all-news/article/sudan-declares-health-emergency-to-combat-coronavirus
-[6]
-https://www.constituteproject.org/constitution/Sudan_2019?lang=en
-[7]
-https://www.idea.int/sites/default/files/publications/emergency-law-responses-to-covid19.pdf
+ [1]	perma.cc/MW38-J27N
+[2]	perma.cc/7X6G-5PVU
+[3]	perma.cc/7BNJ-SS4M
+[4]	perma.cc/7Z9H-WV6K
+[5]	perma.cc/75ZY-JFCZ
+[6]	perma.cc/N3YU-BX2H
+[7]	perma.cc/SJ2F-DWDM
 
 
 
@@ -97,20 +90,13 @@ https://www.idea.int/sites/default/files/publications/emergency-law-responses-to
  Sudan's Sovereignty Council declared on March 16, 2020, a state of health emergency. Articles 40 and 41 of Sudan's constitution regulate the state of emergency and there is no distinction made in the constitution between types of states of emergency. No separate legislative basis for a state of health emergency was found. 
 
 *Sources*:
- [1]
-https://allafrica.com/stories/202009170954.html
-[2]
-https://allafrica.com/stories/202003240353.html
-[3]
-https://www.garda.com/crisis24/news-alerts/323581/sudan-government-closes-borders-due-to-covid-19-on-march-16-update-1
-[4]
-https://reliefweb.int/report/sudan/sudan-corona-virus-covid-19-country-preparedness-and-response-plan-cprp-may-2020
-[5]
-https://www.dabangasudan.org/en/all-news/article/sudan-declares-health-emergency-to-combat-coronavirus
-[6]
-https://www.constituteproject.org/constitution/Sudan_2019?lang=en
-[7]
-https://www.idea.int/sites/default/files/publications/emergency-law-responses-to-covid19.pdf
+ [1]	perma.cc/MW38-J27N
+[2]	perma.cc/7X6G-5PVU
+[3]	perma.cc/7BNJ-SS4M
+[4]	perma.cc/7Z9H-WV6K
+[5]	perma.cc/75ZY-JFCZ
+[6]	perma.cc/N3YU-BX2H
+[7]	perma.cc/SJ2F-DWDM
 
 
 
@@ -149,14 +135,10 @@ https://www.idea.int/sites/default/files/publications/emergency-law-responses-to
  A State of (Health) Emergency is declared on 16 March, 2020. 
 
 *Sources*:
- [1]
-https://allafrica.com/stories/202003240353.html
-[2]
-https://www.garda.com/crisis24/news-alerts/323581/sudan-government-closes-borders-due-to-covid-19-on-march-16-update-1
-[3]
-https://reliefweb.int/report/sudan/sudan-corona-virus-covid-19-country-preparedness-and-response-plan-cprp-may-2020
-[4]
-https://www.dabangasudan.org/en/all-news/article/sudan-declares-health-emergency-to-combat-coronavirus
+ [1]	perma.cc/4GWW-EXNQ
+[2]	perma.cc/JLL9-W43M
+[3]	perma.cc/G8F9-6WUR
+[4]	perma.cc/23DH-38UH
 
 
 
@@ -195,18 +177,12 @@ https://www.dabangasudan.org/en/all-news/article/sudan-declares-health-emergency
  No information on an end date for the state of public health emergency was found. Some emergency measures are no longer ongoing, but the state of public health emergency seems to be still in force. The constitution does not explicitly mention end dates for states of emergency. [5] The most recent update from 18 May 2021 included a closure of schools for at least one month, and a continued ban on public gatherings [6]. 
 
 *Sources*:
- [1]
-https://allafrica.com/stories/202009170954.html
-[2]
-https://www.reuters.com/article/us-health-coronavirus-sudan/sudan-extends-lockdown-in-khartoum-state-to-june-29-idUSKBN23O3B3
-[3]
-https://www.garda.com/crisis24/news-alerts/351691/sudan-authorities-extend-covid-19-lockdown-in-khartoum-until-june-29-update-12
-[4]
-https://reliefweb.int/map/sudan/covid-19-movement-restrictions-sudan-mobility-restriction-dashboard-8-18-june-2020
-[5]
-https://www.constituteproject.org/constitution/Sudan_2019?lang=en
-[6]
-https://www.garda.com/crisis24/news-alerts/480446/sudan-authorities-update-covid-19-related-restrictions-as-of-may-18-update-21
+ [1]	perma.cc/R5ZL-GV6F
+[2]	perma.cc/B6GA-CYNV
+[3]	perma.cc/VDD4-DSHR
+[4]	perma.cc/H7M6-KBUN
+[5]	perma.cc/4NCC-P7YF
+[6]	perma.cc/5KDE-4828
 
 
 
@@ -248,18 +224,11 @@ https://www.garda.com/crisis24/news-alerts/480446/sudan-authorities-update-covid
  No information on an end date for the state of public health emergency was found. Some emergency measures are no longer ongoing, but the state of public health emergency seems to be still in force. The constitution does not explicitly mention end dates for states of emergency. [6] 
 
 *Sources*:
- [1]
-https://allafrica.com/stories/202009170954.html
-[2]
-https://www.reuters.com/article/us-health-coronavirus-sudan/sudan-extends-lockdown-in-khartoum-state-to-june-29-idUSKBN23O3B3
-[3]
-https://www.garda.com/crisis24/news-alerts/351691/sudan-authorities-extend-covid-19-lockdown-in-khartoum-until-june-29-update-12
-[4]
-https://reliefweb.int/map/sudan/covid-19-movement-restrictions-sudan-mobility-restriction-dashboard-8-18-june-2020
-[5]
-https://allafrica.com/stories/202009170954.html
-[6]
-https://www.constituteproject.org/constitution/Sudan_2019?lang=en
+ [1]	perma.cc/3Q2S-R2AX
+[2]	perma.cc/EA7D-NGX4
+[3]	perma.cc/ZP9E-23WL
+[4]	perma.cc/2ARM-MR8B
+[5]	perma.cc/G3WA-UFUG
 
 
 
@@ -340,8 +309,7 @@ https://www.constituteproject.org/constitution/Sudan_2019?lang=en
  "The declaration of a state of emergency is extinguished if the Legislative Council does not ratify it" - The Constitution of Sudan, article 40:4. 
 
 *Sources*:
- [1]
-https://www.constituteproject.org/constitution/Sudan_2019?lang=en
+ [1]	perma.cc/N3YU-BX2H
 
 
 
@@ -383,14 +351,11 @@ https://www.constituteproject.org/constitution/Sudan_2019?lang=en
  At the moment Sudan does not have a legislature. Therefore the emergency response could not be approved. "A State of Health Emergency was declared in Sudan, supported by articles 40–41 of the Constitution. The declaration of a state of emergency is not legitimate if the Legislative Council does not ratify it. However, Sudan does not have a legislature and therefore the emergency response could not be approved as required by its Constitution." [4] 
 
 *Sources*:
- [1]
-https://edition.cnn.com/2019/04/11/africa/sudan-unrest-intl/index.html
-[2]
-https://www.aa.com.tr/en/middle-east/sudans-al-bashir-dissolves-state-federal-governments/1400513
-[3]
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B625%5D&covid19=1
-[4]
-https://www.idea.int/sites/default/files/publications/emergency-law-responses-to-covid19.pdf
+ [1]	perma.cc/2S4D-GPVC
+[2]	perma.cc/29W8-2MBA
+[3]	https://perma.cc/J7UH-BULT
+
+[4]	perma.cc/E48H-BPCP
 
 
 
@@ -436,12 +401,9 @@ https://www.idea.int/sites/default/files/publications/emergency-law-responses-to
  The National Assembly is still dissolved since the coup in 2019. 
 
 *Sources*:
- [1]
-https://edition.cnn.com/2019/04/11/africa/sudan-unrest-intl/index.html
-[2]
-https://www.aa.com.tr/en/middle-east/sudans-al-bashir-dissolves-state-federal-governments/1400513
-[3]
-https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B625%5D&covid19=1
+ [1]	perma.cc/BMT2-CD2U
+[2]	perma.cc/WCP4-PBSH
+[3]	https://perma.cc/J7UH-BULT
 
 
 
@@ -563,26 +525,16 @@ https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B62
  On 18 April, 2020, authorities effected a lockdown in Khartoum and North Darfur. From July 8, 2020, these lockdowns have been gradually lifted. In October 2020, a curfew was declared in Port Sudan and Swakin Towns, but with no reference to Covid-19. No evidence found for differing regional measures in Q1 2021. [10] On March 25, 2021, "North Darfur state announced the suspension of studies in basic and secondary schools for a week." [9] On May 2, 2021 the Health Emergency Committee in North Kordofan declared a State of Health Emergency. [8] 
 
 *Sources*:
- [1]
-https://reliefweb.int/report/sudan/sudan-covid-19-situation-overview-response-10-november-2020
-[2]
-https://allafrica.com/stories/202010150410.html
-[3]
-https://allafrica.com/stories/202003240353.html
-[4]
-https://reliefweb.int/report/sudan/sudan-corona-virus-covid-19-country-preparedness-and-response-plan-cprp-may-2020
-[5]
-https://sd.usembassy.gov/health-alert-u-s-embassy-khartoum-sudan-july-7-2020/
-[6]
-https://allafrica.com/stories/202007080364.html
-[7]
-https://www.africanews.com/2020/07/10/sudan-eases-lockdown-restrictions-locals-lament-economic-crunch/
-[8]
-https://www.dabangasudan.org/en/all-news/article/covid-19-in-sudan-state-of-emergency-as-cases-rise-in-north-kordofan
-[9]
-https://www.dabangasudan.org/en/all-news/article/covid-19-in-sudan-face-masks-social-distancing-now-mandatory-in-state-institutions-schools-public-transport
-[10]
-https://www.dabangasudan.org/en/all-news/article/sudan-timeline-january-march-2021-holdout-rebels-in-from-the-cold-sudanese-pound-devalued-covid-19-vaccine-roll-out-begins
+ [1]	perma.cc/ME3Y-5CC2
+[2]	perma.cc/4QBB-DCK5
+[3]	perma.cc/FDH2-Z7KB
+[4]	perma.cc/6YYG-X8HA
+[5]	perma.cc/BW6M-7BRL
+[6]	perma.cc/4QBB-DCK5
+[7]	perma.cc/5KE3-DMTQ
+[8]	perma.cc/Y3XT-YMF7
+[9]	perma.cc/8X8V-MQ2E
+[10]	perma.cc/E3VT-27GB
 
 
 
@@ -626,12 +578,9 @@ https://www.dabangasudan.org/en/all-news/article/sudan-timeline-january-march-20
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- [1]
-https://www.hrw.org/africa/sudan
-[2]
-https://www.amnesty.org/en/search/?country=38641&resourceType=newsarticle&sort=date
-[3]
-https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
+ [1]	perma.cc/XA98-FSL9
+[2]	perma.cc/N2EF-C4KA
+[3]	perma.cc/9KVP-G99B
 
 
 
@@ -680,14 +629,10 @@ https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
  No emergency measures that de-jure violate non-derogable rights as defined by the ICCPR, was found. 
 
 *Sources*:
- [1]
-https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-[2]
-https://www.hrw.org/africa/sudan
-[3]
-https://www.amnesty.org/en/search/?country=38641&resourceType=newsarticle&sort=date
-[4]
-https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
+ [1]	perma.cc/JS2H-56WU
+[2]	perma.cc/N5K9-3C6T
+[3]	perma.cc/Z9DG-3PV6
+[4]	perma.cc/FAC8-KT2Z
 
 
 
@@ -731,13 +676,11 @@ https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
  Lockdown restrictions have stopped printing, making content available only online, meaning that most Sudanese will not have access to them as internet penetration is low. This however, does not allow the government to de-jure control the content of the media. No de-jure limitations of media freedom as part of the Covid-19 emergency measures was found. 
 
 *Sources*:
- [1]
-https://www.bbc.com/news/world-africa-52735520?intlink_from_url=https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan&link_location=live-reporting-story
-[2]
-https://rsf.org/en/thematique/internet?countries%5B48%5D=48
-[3] http://ipi.media/sudan/
-[4]
-https://cpj.org/mideast/sudan/
+ [1]	perma.cc/C4PP-DD5X
+[2]	perma.cc/9FYQ-3J29
+[3]	perma.cc/G6TY-WTTP
+[4]	perma.cc/3YGY-6P45
+[5]	perma.cc/3J63-7QVD
 
 
 
@@ -857,12 +800,9 @@ https://cpj.org/mideast/sudan/
  Under the transitional government, the media environment in Sudan remains constrained due to the fact that draconian laws from the previous regime remain in effect. According to Reporters without Borders, registration of new media outlets remains restrictive to pro-government voices and many media houses engage in self-censorship [1]. This is further constrained by the adoption of an amendment to the Cybercrimes Act in July 2020, which increased penalties for vaguely worded offenses such as spreading false news or indecent materials. That same month, the army appointed a special commissioner to bring suits against those who "insult" the military online [2]. In May 2020, the Committee to Protect Journalists reported that two journalists had been harassed and arrested for reporting about the number of Covid-19 deaths [3]. 
 
 *Sources*:
- [1]
-https://rsf.org/en/sudan
-[2]
-https://www.hrw.org/world-report/2021/country-chapters/sudan#c667ea
-[3]
-https://cpj.org/2020/07/sudanese-authorities-in-north-darfur-state-harass-2-journalists-reporting-on-covid-19/
+ [1]	perma.cc/SL9P-WSRB
+[2]	perma.cc/U4FT-2U6J
+[3]	perma.cc/74C4-P8JH
 
 
 
@@ -904,12 +844,9 @@ https://cpj.org/2020/07/sudanese-authorities-in-north-darfur-state-harass-2-jour
  Under the transitional government, the media environment in Sudan remains constrained due to the fact that draconian laws from the previous regime remain in effect. According to Reporters without Borders, registration of new media outlets remains restrictive to pro-government voices and many media houses engage in self-censorship [1]. This is further constrained by the adoption of an amendment to the Cybercrimes Act in July 2020, which increased penalties for vaguely worded offenses such as spreading false news or indecent materials. That same month, the army appointed a special commissioner to bring suits against those who "insult" the military online [2]. In May 2020, the Committee to Protect Journalists reported that two journalists had been harassed and arrested for reporting about the number of Covid-19 deaths [3]. 
 
 *Sources*:
- [1]
-https://rsf.org/en/sudan
-[2]
-https://www.hrw.org/world-report/2021/country-chapters/sudan#c667ea
-[3]
-https://cpj.org/2020/07/sudanese-authorities-in-north-darfur-state-harass-2-journalists-reporting-on-covid-19/
+ [1]	perma.cc/SL9P-WSRB
+[2]	perma.cc/U4FT-2U6J
+[3]	perma.cc/74C4-P8JH
 
 
 
@@ -951,15 +888,11 @@ https://cpj.org/2020/07/sudanese-authorities-in-north-darfur-state-harass-2-jour
  No evidence indicating that the government is de-facto limiting media reporting about non-Covid-19 related news, but with reference to the pandemic, was found. 
 
 *Sources*:
- [1]
-https://rsf.org/en/sudan
-[2]
-https://en.unesco.org/news/media-reform-sudan-beginning-new-era-freedom-expression
-[3]
-https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
-[4] http://ipi.media/sudan/
-[5]
-https://cpj.org/mideast/sudan/
+ [1]	perma.cc/H3SX-MMDL
+[2]	perma.cc/UPQ8-VYZ7
+[3]	perma.cc/U72R-FAD8
+[4]	perma.cc/FZF8-FY95
+[5]	perma.cc/F35K-J434
 
 
 
@@ -1002,20 +935,13 @@ https://cpj.org/mideast/sudan/
  In December 2020 a report by Imperial College London revealed that only around 2% of COVID-19 deaths in Khartoum had been recorded [5]. There were some concerns in January 2021 [4] about the Ministry of Health not publishing data (individual regions were doing so). 
 
 *Sources*:
- 1]
-https://rsf.org/en/sudan
-[2]
-https://www.amnesty.org/en/countries/africa/sudan/
-[3]
-https://www.hrw.org/africa/sudan
-[4]
-https://www.dabangasudan.org/en/all-news/article/covid-19-dangerous-spread-continues-in-sudan
-[5]
-https://www.dabangasudan.org/en/all-news/article/icl-only-2-of-covid-19-deaths-recorded-in-khartoum
-[6]
-http://ipi.media/sudan/
-[7]
-https://cpj.org/mideast/sudan/
+ [1]	perma.cc/VWP3-ATNK
+[2]	perma.cc/Y75C-X9BF
+[3]	perma.cc/M5GP-VRUF
+[4]	perma.cc/7D58-XETJ
+[5]	perma.cc/UVN2-2WTG
+[6]	perma.cc/UTD9-QAWB
+[7]	perma.cc/SY4B-5GTH
 
 
 
@@ -1057,12 +983,9 @@ https://cpj.org/mideast/sudan/
  In May 2020, the Committee to Protect Journalists reported that two journalists had been harassed and arrested for reporting about the number of Covid-19 deaths [3]. No other incidents were found. 
 
 *Sources*:
- [1]
-https://rsf.org/en/sudan
-[2]
-https://www.hrw.org/world-report/2021/country-chapters/sudan#c667ea
-[3]
-https://cpj.org/2020/07/sudanese-authorities-in-north-darfur-state-harass-2-journalists-reporting-on-covid-19/
+ [1]	perma.cc/SL9P-WSRB
+[2]	perma.cc/U4FT-2U6J
+[3]	perma.cc/74C4-P8JH
 
 
 
@@ -1104,12 +1027,9 @@ https://cpj.org/2020/07/sudanese-authorities-in-north-darfur-state-harass-2-jour
  No evidence indicating that the government and its agents have physically harassed journalists for reporting about Covid-19, was found. 
 
 *Sources*:
- [1]
-https://rsf.org/en/thematique/internet?countries%5B48%5D=48
-[2]
-https://cpj.org/2005/06/sudan/
-[3]
-https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
+ [1]	perma.cc/CKH2-2XFT
+[2]	perma.cc/7BAW-PK2V
+[3]	perma.cc/WYN8-8J24
 
 
 
@@ -1153,12 +1073,9 @@ https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
  No official Covid-19 information from the Sudanese government was found. Therefore, they do not spread misinformation about Covid-19. 
 
 *Sources*:
- [1]
-http://www.sudan.gov.sd/index.php/en/
-[2]
-http://www.fmoh.gov.sd/En/index.php?id=1
-[3]
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+ [1]	perma.cc/GZA4-DK4A
+[2]	perma.cc/8XAR-CWWF
+[3]	perma.cc/49U7-LC38
 
 
 
@@ -1202,14 +1119,10 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
  No evidence was found that indicates that security forces, such as the civilian police or military, has engaged in physical violence to execute the emergency measures for the pandemic response. 
 
 *Sources*:
- [1]
-https://www.hrw.org/africa/sudan
-[2]
-https://www.amnesty.org/en/search/?country=38641&resourceType=newsarticle&sort=date
-[3]
-https://www.bbc.com/news/topics/cq23pdgvgm8t/sudan
-[4]
-https://www.garda.com/crisis24/news-alerts/330896/sudan-protests-possible-in-khartoum-despite-ban-on-public-gatherings-april-9
+ [1]	perma.cc/K3LE-GYAW
+[2]	perma.cc/89LB-GTUV
+[3]	perma.cc/97XT-WSEN
+[4]	perma.cc/Y6TQ-R9YN
 
 
 
@@ -1252,12 +1165,11 @@ https://www.garda.com/crisis24/news-alerts/330896/sudan-protests-possible-in-kha
 Since July 8, 2020, these lockdowns have been gradually lifted. 
 
 *Sources*:
- Interview
+ [1]
+Interview
 with
 Sudanese
 civil
 society
 activist.
-
-[1]
-https://reliefweb.int/report/sudan/sudan-covid-19-situation-overview-response-10-november-2020
+[2]perma.cc/4NT4-DYE6

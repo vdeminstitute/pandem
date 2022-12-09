@@ -52,34 +52,41 @@ On 11 May 2020 the government lifted the health cordon (5). Face masks became ma
 Benin has maintained some restrictions in place throughout Q1 and Q2 of 2021 like the mandatory wearing of masks, regular hand washing with soap and water or the use of hydroalcoholic solution, maintaining the health safety distance at least one meter between people (see 6-10). 
 
 *Sources*:
- https://www.gouv.bj/actualites/coronavirus--covid-19-/
+ https://perma.cc/DQV5-FK89
+
+
 (1)
 
-https://www.gouv.bj/actualite/556/coronavirus-les-11-mesures-prises-par-le-conseil-extraordinaire-des-ministres-au-benin/
+https://perma.cc/K4BL-4AAA
+
 (2)
 
-https://www.gouv.bj/actualite/567/coronavirus---communique-gouvernement-propos-deux-nouvelles-mesures-prises/
+https://perma.cc/FZ4S-XXLN
+
+
 (3)
 
-https://www.gouv.bj/actualite/571/coronavirus---communique-ministre-interieur-sujet-cordon-sanitaire/
+https://perma.cc/AV6L-69DZ
+
 (4)
 
-https://24haubenin.info/?Le-cordon-sanitaire-leve-ce-lundi-a-00h
+https://perma.cc/UW8T-VMTR
 (5)
 
-https://reliefweb.int/report/benin/unicef-benin-covid-19-situation-report-no-23-3-30-october-2020
+https://perma.cc/JQ9Z-FM8B
 (6)
 
-
-https://www.garda.com/crisis24/news-alerts/424891/benin-covid-19-restrictions-ongoing-nationwide-as-of-jan-4-update-11
+https://perma.cc/LHB7-6AF7
 (7)
 
-https://www.garda.com/crisis24/news-alerts/460582/benin-covid-19-restrictions-remain-unchanged-nationwide-as-of-march-24-by-comparison-with-those-in-effect-in-early-february-update-14
+https://perma.cc/GK9P-DXB2
 (8)
-https://www.gouv.bj/actualite/1143/communique-ministere-sante-situation-actuelle-covid-19/
+
+https://perma.cc/Q842-ZT9V
+
 (9)
 
-https://www.gouv.bj/coronavirus/mesures/
+https://perma.cc/M4TU-ZU29
 (10)
 
 
@@ -409,22 +416,11 @@ https://www.gouv.bj/coronavirus/mesures/
 
 *Sources*:
  http://www.parlnet.org/sites/default/files/Parliamentary%20Responses%20March%2021-27.pdf
+https://perma.cc/4SK2-572T
 
-https://www.gouv.bj/actualites/categorie/coronavirus--covid-19-/page/3/
-
-https://www.facebook.com/assembleenationalebenin/
-
-International
-IDEA
-Parliaments
-during
-the
-pandemic
-
-https://lanationbenin.info/assemblee-nationale-deputes-et-personnel-parlementaire-depistes-au-covid-19/
-
-
-https://assemblee-nationale.bj/
+https://perma.cc/AH8C-Q9LJ
+https://perma.cc/HW44-KCGB
+https://perma.cc/9D2L-YWNG
 
 
 
@@ -554,29 +550,28 @@ The health cordon was lifted on 11 May 2020 (4). After this date, there were som
 Benin has maintained some restrictions in place throughout Q1 and Q2 of 2021 like the mandatory wearing of masks, regular hand washing with soap and water or the use of hydroalcoholic solution, maintaining the health safety distance at least one meter between people. 
 
 *Sources*:
- https://www.gouv.bj/actualite/556/coronavirus-les-11-mesures-prises-par-le-conseil-extraordinaire-des-ministres-au-benin/
+ https://perma.cc/K4BL-4AAA
 (1)
 
-https://www.gouv.bj/actualite/567/coronavirus---communique-gouvernement-propos-deux-nouvelles-mesures-prises/
+https://perma.cc/FZ4S-XXLN
+
 (2)
 
-https://www.gouv.bj/actualite/571/coronavirus---communique-ministre-interieur-sujet-cordon-sanitaire/
+https://perma.cc/AV6L-69DZ
+
 (3)
 
-https://24haubenin.info/?Le-cordon-sanitaire-leve-ce-lundi-a-00h
+https://perma.cc/4M8H-XL8W
 (4)
-
-https://www.gouv.bj/actualite/666/
+https://perma.cc/4UBH-DE38
 (5)
-https://tropmedhealth.biomedcentral.com/articles/10.1186/s41182-020-00235-6
 
-https://reliefweb.int/report/benin/unicef-benin-covid-19-situation-report-no-18-25-july-7-august-2020
 
-https://www.garda.com/crisis24/news-alerts/424891/benin-covid-19-restrictions-ongoing-nationwide-as-of-jan-4-update-11
-
-https://www.garda.com/crisis24/news-alerts/460582/benin-covid-19-restrictions-remain-unchanged-nationwide-as-of-march-24-by-comparison-with-those-in-effect-in-early-february-update-14
-
-https://www.gouv.bj/actualite/1143/communique-ministere-sante-situation-actuelle-covid-19/
+https://perma.cc/DG5H-JPKF
+https://perma.cc/LVA6-8B4G
+https://perma.cc/YN6C-VWHD
+https://perma.cc/56EY-249V
+https://perma.cc/Q842-ZT9V
 
 
 
@@ -623,13 +618,10 @@ However, demonstrations by government supporters went ahead without interference
  
 
 *Sources*:
- https://www.gouv.bj/actualite/556/coronavirus-les-11-mesures-prises-par-le-conseil-extraordinaire-des-ministres-au-benin/
-
-https://www.gouv.bj/actualite/567/coronavirus---communique-gouvernement-propos-deux-nouvelles-mesures-prises/
-
-https://www.gouv.bj/actualite/571/coronavirus---communique-ministre-interieur-sujet-cordon-sanitaire/
-
-https://www.amnesty.org/en/countries/africa/benin/report-benin/
+ https://perma.cc/K4BL-4AAA
+https://perma.cc/FZ4S-XXLN
+https://perma.cc/AV6L-69DZ
+https://perma.cc/P5BJ-XC44
 (4)
 
 
@@ -679,13 +671,12 @@ https://www.amnesty.org/en/countries/africa/benin/report-benin/
  No evidence of violation of non-derogable rights was found. 
 
 *Sources*:
- https://www.gouv.bj/actualite/556/coronavirus-les-11-mesures-prises-par-le-conseil-extraordinaire-des-ministres-au-benin/
+ https://perma.cc/K4BL-4AAA
 
-https://www.gouv.bj/actualite/567/coronavirus---communique-gouvernement-propos-deux-nouvelles-mesures-prises/
+https://perma.cc/FZ4S-XXLN
+https://perma.cc/Q842-ZT9V
 
-https://www.gouv.bj/actualite/571/coronavirus---communique-ministre-interieur-sujet-cordon-sanitaire/
-
-https://www.amnesty.org/en/countries/africa/benin/report-benin/
+https://perma.cc/88DD-26LX
 (4)
 
 
@@ -730,17 +721,14 @@ https://www.amnesty.org/en/countries/africa/benin/report-benin/
  No evidence on media limitations found in the emergency measures. 
 
 *Sources*:
- https://www.gouv.bj/actualite/556/coronavirus-les-11-mesures-prises-par-le-conseil-extraordinaire-des-ministres-au-benin/
+ https://perma.cc/K4BL-4AAA
 
-https://www.gouv.bj/actualite/567/coronavirus---communique-gouvernement-propos-deux-nouvelles-mesures-prises/
+https://perma.cc/FZ4S-XXLN
 
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://www.gouv.bj/actualite/1143/communique-ministere-sante-situation-actuelle-covid-19/
+https://perma.cc/QQ7D-565J
+https://perma.cc/7JYC-SZBJ
+https://perma.cc/VS9X-U2M3
+https://perma.cc/Q842-ZT9V
 
 
 
@@ -872,50 +860,51 @@ Further, on 10 December 2020, the Parliament of Benin approved the Law No. 2020-
 Reporters Without Borders (RSF), among others, are calling for an overhaul of the Digital Law, which has been used to throttle free speech and press freedom. RSF stresses that, although initially portrayed as an “appropriate and reliable tool” for combatting cyber-crime, the Digital Law has been used in practice as an instrument to “threaten the exercise of journalism in Benin.” The Law, adopted in 2018, allows the authorities to prosecute journalists as ordinary citizens as soon as what they say or write appears online (16). 
 
 *Sources*:
- https://rsf.org/en/benin
+ https://perma.cc/QZ6S-WNYK
 (1)
 
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/5Q99-T7LB
+(2)
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://perma.cc/K9FR-CZZJ
+(3)
 
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://perma.cc/6HRG-FLG2
+(4)
 
-https://boulevard-des-infos.com/2020/07/08/benin-la-haac-en-guerre-contre-les-promoteurs-de-medias-en-ligne/
+https://perma.cc/HR6N-T3FK
 (5)
-
-https://www.lemonde.fr/afrique/article/2020/07/15/au-benin-les-medias-en-ligne-sommes-de-cesser-leur-activite_6046253_3212.html
+https://perma.cc/YD9P-KF5P
 (6)
 
-https://www.beninplus.com/media/la-haac-ordonne-la-fermeture-des-medias-en-ligne-non-reconnus
+https://perma.cc/P7HD-PTUB
 (7)
 
-https://www.24haubenin.info/?La-position-de-la-HAAC-sur-la-decision-de-la-fermeture-des-medias-en-ligne
+https://perma.cc/XY3C-LNZR
 (8)
 
-https://www.24haubenin.info/?La-HAAC-ordonne-la-fermeture-des-medias-en-ligne-non-reconnus
+https://perma.cc/4XY8-TK9U
 (9)
 
-https://lanationbenin.info/decision-sur-la-regularisation-des-medias-en-ligne-la-haac-apporte-des-clarifications/
+https://perma.cc/3PJN-FA45
 (10)
 
-https://www.wasexo.bj/benin-la-haac-en-guerre-contre-les-promoteurs-de-medias-en-ligne/
+https://perma.cc/K2AX-HAMP
 (11)
 
-https://www.gouv.bj/actualite/789/levee-decision-interdiction-medias-ligne---fructueux-echanges-entre-ministre-alain-orounla-president-haac/
+https://perma.cc/2576-XGXU
 (12)
-
-https://www.mfwa.org/country-highlights/benins-online-media-come-under-callous-regulatory-audit/
+https://perma.cc/8ARZ-KD9R
 (13)
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/benin/
+https://perma.cc/93L8-YBNQ
 (14)
 
-https://www.village-justice.com/articles/overview-the-digital-code-amendment-act-benin-republic,38850.html
+https://perma.cc/6KME-XQSS
 (15)
-
-https://rsf.org/en/news/op-ed-urges-benin-end-digital-law-threat-journalism
+https://perma.cc/9U37-J8B3
 (16)
+
 
 
 
@@ -969,50 +958,51 @@ Further, on 10 December 2020, the Parliament of Benin approved the Law No. 2020-
 Reporters Without Borders (RSF), among others, are calling for an overhaul of the Digital Law, which has been used to throttle free speech and press freedom. RSF stresses that, although initially portrayed as an “appropriate and reliable tool” for combatting cyber-crime, the Digital Law has been used in practice as an instrument to “threaten the exercise of journalism in Benin.” The Law, adopted in 2018, allows the authorities to prosecute journalists as ordinary citizens as soon as what they say or write appears online. (16) 
 
 *Sources*:
- https://rsf.org/en/benin
+ https://perma.cc/QZ6S-WNYK
 (1)
 
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/5Q99-T7LB
+(2)
 
-https://rsf.org/en/tracker19-Coronavirus-Covid19
+https://perma.cc/K9FR-CZZJ
+(3)
 
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://perma.cc/6HRG-FLG2
+(4)
 
-https://boulevard-des-infos.com/2020/07/08/benin-la-haac-en-guerre-contre-les-promoteurs-de-medias-en-ligne/
+https://perma.cc/HR6N-T3FK
 (5)
-
-https://www.lemonde.fr/afrique/article/2020/07/15/au-benin-les-medias-en-ligne-sommes-de-cesser-leur-activite_6046253_3212.html
+https://perma.cc/YD9P-KF5P
 (6)
 
-https://www.beninplus.com/media/la-haac-ordonne-la-fermeture-des-medias-en-ligne-non-reconnus
+https://perma.cc/P7HD-PTUB
 (7)
 
-https://www.24haubenin.info/?La-position-de-la-HAAC-sur-la-decision-de-la-fermeture-des-medias-en-ligne
+https://perma.cc/XY3C-LNZR
 (8)
 
-https://www.24haubenin.info/?La-HAAC-ordonne-la-fermeture-des-medias-en-ligne-non-reconnus
+https://perma.cc/4XY8-TK9U
 (9)
 
-https://lanationbenin.info/decision-sur-la-regularisation-des-medias-en-ligne-la-haac-apporte-des-clarifications/
+https://perma.cc/3PJN-FA45
 (10)
 
-https://www.wasexo.bj/benin-la-haac-en-guerre-contre-les-promoteurs-de-medias-en-ligne/
+https://perma.cc/K2AX-HAMP
 (11)
 
-https://www.gouv.bj/actualite/789/levee-decision-interdiction-medias-ligne---fructueux-echanges-entre-ministre-alain-orounla-president-haac/
+https://perma.cc/2576-XGXU
 (12)
-
-https://www.mfwa.org/country-highlights/benins-online-media-come-under-callous-regulatory-audit/
+https://perma.cc/8ARZ-KD9R
 (13)
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/benin/
+https://perma.cc/93L8-YBNQ
 (14)
 
-https://www.village-justice.com/articles/overview-the-digital-code-amendment-act-benin-republic,38850.html
+https://perma.cc/6KME-XQSS
 (15)
-
-https://rsf.org/en/news/op-ed-urges-benin-end-digital-law-threat-journalism
+https://perma.cc/9U37-J8B3
 (16)
+
 
 
 
@@ -1057,16 +1047,13 @@ The media however are ''closely watched'', and have been subjected to close surv
  
 
 *Sources*:
- https://rsf.org/en/benin
+ https://perma.cc/6R7D-D3K3
 (1)
 
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/benin/
+https://perma.cc/8YU4-467H
+https://perma.cc/4WYZ-78GJ
+https://perma.cc/D42C-3EGJ
+https://perma.cc/X9UQ-ALBV
 
 
 
@@ -1110,18 +1097,14 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/ben
  
 
 *Sources*:
- https://rsf.org/en/benin
+ https://perma.cc/QX7C-VJYW
 (1)
 
-https://rsf.org/en/news/benin-regulator-orders-unauthorized-media-outlets-close
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/benin/
+https://perma.cc/7BL6-AY4K
+https://perma.cc/K8ER-5QPD
+https://perma.cc/9A2L-P2UY
+https://perma.cc/8928-SXEJ
+https://perma.cc/VQ74-AYT4
 
 
 
@@ -1165,16 +1148,13 @@ However, the authorities during 2020 continued to detain and prosecute journalis
  
 
 *Sources*:
- https://www.amnesty.org/en/countries/africa/benin/report-benin/
+ https://perma.cc/WP6Y-4EQP
 (1)
 
-https://cpj.org/africa/2020/page/2/
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://perma.cc/552E-Z5RX
+https://perma.cc/RR22-KDLX
+https://perma.cc/KX2A-YDLY
+https://perma.cc/95H3-CEXJ
 
 
 
@@ -1218,16 +1198,13 @@ However, the authorities during 2020 continued to detain and prosecute journalis
  
 
 *Sources*:
- https://www.amnesty.org/en/countries/africa/benin/report-benin/
+ https://perma.cc/5JU4-4SXG
 (1)
 
-https://cpj.org/africa/2020/page/2/
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/tracker19-Coronavirus-Covid19
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://perma.cc/P78C-MD4Y
+https://perma.cc/349R-8EYQ
+https://perma.cc/ZDF9-H9BL
+https://perma.cc/8P9F-DBT6
 
 
 
@@ -1272,18 +1249,14 @@ https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
  
 
 *Sources*:
- https://www.lespharaons.com/2020/04/28/chloroquine-voici-le-protocole-operationnel-contre-la-covid-19-utilise-au-benin/
-
-https://www.theafricareport.com/25416/to-fight-coronavirus-burkina-faso-is-tempted-by-chloroquine/
-
+ https://perma.cc/N92B-8HP5
+https://perma.cc/ZBD2-25HJ
 https://archives.banouto.info/article/bien-etre/20200428-coronavirus-au-bnin-les-personnes-ligibles-au-traitement--la-chloroquine/
-
-https://www.24haubenin.info/?Le-traitement-preventif-a-la-Chloroquine-deconseille
-
-https://www.dw.com/fr/en-afrique-des-m%C3%A9thodes-alternatives-contre-la-covid-19/a-56402022
+https://perma.cc/CW26-6Y2P
+https://perma.cc/KY3K-BY9Q
 (5)
 
-https://sante.gouv.bj/assets/ressources/pdf/COVID%2019%20-%20COMMUNIQUE%20MS.pdf
+https://perma.cc/8KAY-7LYP
 (6)
 
 
@@ -1330,10 +1303,10 @@ https://sante.gouv.bj/assets/ressources/pdf/COVID%2019%20-%20COMMUNIQUE%20MS.pdf
 In April 2020, videos were distributed on social media showing the police beating people for not wearing face masks. For example, ''on 28 April 1010, a video circulated on social media showing a police officer beating a motorbike taxi rider and his female passenger for failing to wear facemasks mandated by Covid-19 enforcement measures. The beating took place on a Cotonou street in the presence of three other officers''. (1,2) 
 
 *Sources*:
- https://www.amnesty.org/en/countries/africa/benin/report-benin/
+ https://perma.cc/L9BW-76ZK
 (1)
 
-https://www.ecoi.net/en/document/2048380.html
+https://perma.cc/H8J4-WSZU
 (2)
 
 
@@ -1376,6 +1349,6 @@ https://www.ecoi.net/en/document/2048380.html
  'The Defense and Security Forces are trained to ensure compliance with these measures.'' But no evidence of the military being involved as part of the enforcement. 
 
 *Sources*:
- https://www.gouv.bj/actualite/567/coronavirus---communique-gouvernement-propos-deux-nouvelles-mesures-prises/
+ https://perma.cc/FZ4S-XXLN
 
-https://www.amnesty.org/en/countries/africa/benin/report-benin/
+https://perma.cc/YV4R-W57M

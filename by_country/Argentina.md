@@ -46,11 +46,13 @@
 
 *Sources*:
  [1]
-http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333564/norma.htm
+https://perma.cc/4KTV-P65Q
+
 [2]
-https://www.argentina.gob.ar/coronavirus/dnu
+https://perma.cc/GY3Q-BBDB
+
 [3]
-https://www.argentina.gob.ar/normativa/nacional/decreto-167-2021-347809
+https://perma.cc/C7TA-SUH8
 
 
 
@@ -90,11 +92,13 @@ https://www.argentina.gob.ar/normativa/nacional/decreto-167-2021-347809
 
 *Sources*:
  [1]
-https://www.constituteproject.org/constitution/Argentina_1994?lang=em
+https://perma.cc/3KVP-JR8V
+
 [2]
-http://servicios.infoleg.gob.ar/infolegInternet/anexos/115000-119999/118261/norma.htm
+https://perma.cc/4F3Y-NHML
+
 [3]
-http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333564/norma.htm
+https://perma.cc/C3KV-B5B8
 
 
 
@@ -134,11 +138,13 @@ http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333564/norm
 
 *Sources*:
  [1]
-http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333564/norma.htm
+https://perma.cc/J4GQ-USNK
+
 [2]
-https://www.argentina.gob.ar/coronavirus/dnu
+https://perma.cc/FUW5-EHUX
+
 [3]
-https://www.argentina.gob.ar/normativa/nacional/decreto-167-2021-347809
+https://perma.cc/9MJY-KRT2
 
 
 
@@ -178,7 +184,7 @@ https://www.argentina.gob.ar/normativa/nacional/decreto-167-2021-347809
 
 *Sources*:
  [1]
-https://www.argentina.gob.ar/normativa/nacional/decreto-167-2021-347809
+https://perma.cc/C552-4NY3
 
 
 
@@ -221,11 +227,13 @@ https://www.argentina.gob.ar/normativa/nacional/decreto-167-2021-347809
 
 *Sources*:
  [1]
-http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333564/norma.htm
+https://perma.cc/9LVD-9S8Z
+
 [2]
-https://www.argentina.gob.ar/coronavirus/dnu
+https://perma.cc/982Q-SFFW
+
 [3]
-https://www.argentina.gob.ar/normativa/nacional/decreto-167-2021-347809
+https://perma.cc/TV8J-DF6T
 
 
 
@@ -265,11 +273,13 @@ https://www.argentina.gob.ar/normativa/nacional/decreto-167-2021-347809
 
 *Sources*:
  [1]
-http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333564/norma.htm
+https://perma.cc/9M5W-NBB5
+
 [2]
-https://www.argentina.gob.ar/coronavirus/dnu
+https://perma.cc/N2NX-XFSU
+
 [3]
-https://www.argentina.gob.ar/normativa/nacional/decreto-167-2021-347809
+https://perma.cc/R9S4-A3C4
 
 
 
@@ -312,7 +322,7 @@ https://www.argentina.gob.ar/normativa/nacional/decreto-167-2021-347809
 
 *Sources*:
  [1]
-http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333564/norma.htm
+https://perma.cc/UGH7-GXTS
 
 
 
@@ -355,7 +365,7 @@ http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333564/norm
 
 *Sources*:
  [1]
-http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333564/norma.htm
+https://perma.cc/G85V-YVBF
 
 
 
@@ -402,16 +412,16 @@ http://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/333564/norm
 
 *Sources*:
  [1]
-https://www.argentina.gob.ar/justicia/derechofacil/leysimple/emergencia-sanitaria-covid-19
+https://perma.cc/7MAK-P8RB
 
 [2]
-https://www.bbc.com/mundo/noticias-america-latina-52914804
+https://perma.cc/XQ23-6TAY
 
 [3]
-https://www.hcdn.gob.ar/institucional/infGestion/covid19/Protocolo_para_Sesiones_Telematicas.pdf
+https://perma.cc/SV9Y-JYGH
 
 [4]
-https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
+https://perma.cc/WSL3-BCPQ
 
 
 
@@ -534,17 +544,22 @@ https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
 
 *Sources*:
  [1]
-http://servicios.infoleg.gob.ar/infolegInternet/anexos/335000-339999/338406/norma.htm
+https://perma.cc/Q3NR-7CWP
+
 [2]
-https://www.boletinoficial.gob.ar/detalleAviso/primera/234257/20200831
+https://perma.cc/YY6T-F6AC
+
 [3]
-https://www.boletinoficial.gob.ar/detalleAviso/primera/237062/20201107
+https://perma.cc/RS62-ERNZ
+
 [4]
-https://www.argentina.gob.ar/normativa/nacional/decreto-287-2021-349492
+https://perma.cc/9HBQ-F9UF
+
 [5]
-https://www.argentina.gob.ar/normativa/nacional/decreto-334-2021-350159/texto
+https://perma.cc/E8NK-4RFL
+
 [6]
-https://argentina.as.com/argentina/2021/06/07/actualidad/1623056315_266705.html
+https://perma.cc/EJL4-MWK9
 
 
 
@@ -589,11 +604,13 @@ https://argentina.as.com/argentina/2021/06/07/actualidad/1623056315_266705.html
 
 *Sources*:
  [1]
-https://www.amnesty.org/en/countries/americas/argentina/
+https://perma.cc/XT86-SZNX
+
 [2]
-https://www.hrw.org/americas/argentina
+https://perma.cc/LS2C-8RS8
+
 [3]
-https://monitor.civicus.org/country/argentina/
+https://perma.cc/9HET-92D3
 
 
 
@@ -643,9 +660,10 @@ https://monitor.civicus.org/country/argentina/
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2021/03/26/argentina-abusive-covid-19-measures-northern-province
+https://perma.cc/BVK4-VWZY
+
 [2]
-http://hopkinshumanitarianhealth.org/news-events/chh-in-the-news/argentina-abusive-covid-19-measures-in-northern-province#panel1
+https://perma.cc/S8ZS-DZE5
 
 
 
@@ -690,7 +708,7 @@ http://hopkinshumanitarianhealth.org/news-events/chh-in-the-news/argentina-abusi
 
 *Sources*:
  [1]
-http://servicios.infoleg.gob.ar/infolegInternet/anexos/335000-339999/335741/norma.htm
+https://perma.cc/TZ6V-YCEE
 
 
 
@@ -811,14 +829,16 @@ http://servicios.infoleg.gob.ar/infolegInternet/anexos/335000-339999/335741/norm
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/T9N4-H4M7
+
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/2MY8-FZTN
 
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/DTS4-TM5G
+
 [4]
-https://cpj.org/americas/argentina/
+https://perma.cc/2SZH-6KVV
 
 
 
@@ -861,13 +881,16 @@ https://cpj.org/americas/argentina/
 
 *Sources*:
  [1]
-https://www.lanacion.com.ar/politica/prohibido-informar-formosa-donde-leyes-no-rigen-nid2593553/
+https://perma.cc/UB7Y-MWTH
+
 [2]
-https://www.infobae.com/sociedad/2021/02/08/fuerte-repudio-a-la-decision-del-gobierno-de-formosa-de-impedir-el-ingreso-de-una-periodista-de-la-nacion/
+https://perma.cc/B4QJ-9DP7
+
 [3]
-https://www.lanacion.com.ar/politica/ejercer-periodismo-bajo-gobierno-gildo-insfran-ocultamiento-nid2591482/
+https://perma.cc/NZ4L-GKBQ
+
 [4]
-https://www.lanacion.com.ar/politica/formosa-libertad-ingreso-periodistas-gildo-insfran-denuncias-nid2595264/
+https://perma.cc/7B2J-44W7
 
 
 
@@ -910,14 +933,16 @@ https://www.lanacion.com.ar/politica/formosa-libertad-ingreso-periodistas-gildo-
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/J59M-U3JU
+
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/P6R5-9PZJ
 
 [3]
-https://www.sipiapa.org/notas/1213879-covid-19-y-su-impacto-la-libertad-prensa
+https://perma.cc/ABV2-KMZC
+
 [4]
-https://cpj.org/americas/argentina/
+https://perma.cc/64R2-BRRA
 
 
 
@@ -961,13 +986,16 @@ https://cpj.org/americas/argentina/
 
 *Sources*:
  [1]
-https://www.lanacion.com.ar/politica/prohibido-informar-formosa-donde-leyes-no-rigen-nid2593553/
+https://perma.cc/E95B-DSR5
+
 [2]
-https://www.infobae.com/sociedad/2021/02/08/fuerte-repudio-a-la-decision-del-gobierno-de-formosa-de-impedir-el-ingreso-de-una-periodista-de-la-nacion/
+https://perma.cc/C9QZ-QHNX
+
 [3]
-https://www.lanacion.com.ar/politica/ejercer-periodismo-bajo-gobierno-gildo-insfran-ocultamiento-nid2591482/
+https://perma.cc/UQC9-YKSM
+
 [4]
-https://www.lanacion.com.ar/politica/formosa-libertad-ingreso-periodistas-gildo-insfran-denuncias-nid2595264/
+https://perma.cc/DA8A-YNTM
 
 
 
@@ -1010,10 +1038,10 @@ https://www.lanacion.com.ar/politica/formosa-libertad-ingreso-periodistas-gildo-
 
 *Sources*:
  [1]
-https://cpj.org/2021/02/journalists-in-argentinas-formosa-province-detained-harassed-and-blocked-from-reporting/
+https://perma.cc/NYY6-RFC8
 
 [2]
-https://www.lanacion.com.ar/politica/ejercer-periodismo-bajo-gobierno-gildo-insfran-ocultamiento-nid2591482/
+https://perma.cc/R4Z9-72LJ
 
 
 
@@ -1056,11 +1084,13 @@ https://www.lanacion.com.ar/politica/ejercer-periodismo-bajo-gobierno-gildo-insf
 
 *Sources*:
  [1]
-https://rsf.org/en/countries
+https://perma.cc/L95T-8U6N
+
 [2]
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/NP3Z-VXQQ
+
 [3]
-https://cpj.org/americas/argentina/
+https://perma.cc/FB6F-3GAW
 
 
 
@@ -1105,14 +1135,16 @@ https://cpj.org/americas/argentina/
 
 *Sources*:
  [1]
-https://www.argentina.gob.ar/salud/coronavirus-COVID-19
+https://perma.cc/8WZS-QAQ8
+
 [2]
-https://www.argentina.gob.ar/noticias/no-compartamos-noticias-falsas
+https://perma.cc/Q9BF-QSMP
+
 [3]
-https://www.clarin.com/politica/coronavirus-argentina-alberto-fernandez-advirtio-informacion-falsa-whatsapp-redes-sociales_0_bx7N8CrKx.html
+https://perma.cc/5NDB-NQ32
 
 [4]
-https://confiar.telam.com.ar/
+https://perma.cc/89BF-43J6
 
 
 
@@ -1157,35 +1189,49 @@ https://confiar.telam.com.ar/
 
 *Sources*:
  [1]
-https://www.hrw.org/news/2020/11/20/argentinas-violent-enforcement-covid-19-rules
+https://perma.cc/ERN6-K6H4
+
 [2]
-https://amnistia.org.ar/amnistia-internacional-alerta-sobre-la-actuacion-de-las-fuerzas-de-seguridad-durante-la-cuarentena-por-el-coronavirus/
+https://perma.cc/SC4X-KKYE
+
 [3]
-https://www.amnesty.org/en/latest/news/2020/05/americas-authorities-must-protect-people-covid19-repressive-measures/
+https://perma.cc/5YTA-VNRN
+
 [4]
-https://elpais.com/sociedad/2020-03-30/violencia-policial-en-argentina-cualquier-delito-incluso-el-asesinato-sera-legal-durante-12-horas.html
+https://perma.cc/J7M2-RGDB
+
 [5]
-https://www.infobae.com/politica/2020/04/01/la-ministra-de-seguridad-critico-los-abusos-de-las-policias-provinciales-en-el-control-de-la-cuarentena-seran-capacitados/
+https://perma.cc/LYK7-6FHA
+
 [6]
-https://www.infobae.com/politica/2020/04/28/coronavirus-en-argentina-preocupacion-en-el-gobierno-por-el-aumento-de-casos-de-abusos-policiales-durante-la-cuarentena/
+https://perma.cc/LEX2-RN4Z
+
 [7]
-https://www.clarin.com/policiales/coronavirus-argentina-denuncian-caso-abuso-policial-alertan-ministro-berni_0_0tXsh84g9.html
+https://perma.cc/Y3MV-68J7
+
 [8]
-https://acnudh.org/argentina-onu-advierte-discriminacion-y-violencia-policial-en-el-chaco/
+https://perma.cc/AX2E-GLN4
+
 [9]
-https://www.infobae.com/sociedad/policiales/2020/08/16/una-ong-afirma-que-durante-la-cuarentena-hubo-92-muertes-perpetradas-por-fuerzas-estatales/
+https://perma.cc/C2SE-HETW
+
 [10]
-https://www.infobae.com/sociedad/policiales/2020/08/16/por-sacar-a-pasear-al-perro-la-policia-intercepto-y-detuvo-con-violencia-a-una-mujer-en-bariloche/
+https://perma.cc/8D9B-XYK4
+
 [11]
-https://www.infobae.com/america/agencias/2020/08/20/argentina-alarma-por-excesos-policiales-en-cuarentena/
+https://perma.cc/GCQ2-NZMG
+
 [12]
-https://www.lanacion.com.ar/seguridad/cuarentena-empresario-la-pampa-denuncio-policias-irrumpieron-nid2413633
+https://perma.cc/YHE7-UNJU
+
 [13]
-https://www.washingtonpost.com/es/post-opinion/2020/11/19/argentina-aislamiento-covid-represion-violencia-brutalidad-policial/
+https://perma.cc/63LQ-DBU8
+
 [14]
-https://www.infobae.com/politica/2021/05/11/video-la-policia-de-formosa-se-llevo-por-la-fuerza-a-un-hombre-con-covid-19-que-queria-hacer-la-cuarentena-en-su-casa/
+https://perma.cc/99AF-NCXQ
+
 [15]
-https://www.hrw.org/es/news/2021/03/26/argentina-formosa-adopta-medidas-abusivas-en-su-respuesta-al-covid-19
+https://perma.cc/X4DC-U622
 
 
 
@@ -1228,12 +1274,16 @@ https://www.hrw.org/es/news/2021/03/26/argentina-formosa-adopta-medidas-abusivas
 
 *Sources*:
  [1]
-https://www.infodefensa.com/latam/2020/03/25/noticia-paises-latinoamerica-despliegan-combatir-covid19.html
+https://web.archive.org/web/20200326202408/https://www.infodefensa.com/latam/2020/03/25/noticia-paises-latinoamerica-despliegan-combatir-covid19.html
+
 [2]
-http://servicios.infoleg.gob.ar/infolegInternet/anexos/335000-339999/335741/norma.htm
+https://perma.cc/ZXN9-B547
+
 [3]
-https://www.infobae.com/sociedad/2020/04/15/asi-son-los-patrullajes-en-helicoptero-que-realiza-el-ejercito-para-controlar-el-cumplimiento-de-la-cuarentena/
+https://perma.cc/9D2L-5P85
+
 [4]
-https://www.infodefensa.com/latam/2020/05/27/noticia-argentina-organizan-centros-aislamiento-barrios-infraviviendas.html
+https://perma.cc/X6B6-TQ5R
+
 [5]
-https://www.argentina.gob.ar/ejercito/covid-19
+https://perma.cc/XXM5-F6RF

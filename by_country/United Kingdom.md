@@ -47,26 +47,21 @@ Note that The Health Protection (Coronavirus, Restrictions) Regulations 2020 was
 All the aforementioned Regulations were introduced under the same legal instrument, the Public Health (Control of Disease) Act 1984. The slight difference in regulation also continues between England, Wales, Northern Ireland and Scotland who all have their own version of this regulation, all however being based in the Public Health (Control of Disease) Act 1984. 
 
 *Sources*:
- http://www.legislation.gov.uk/uksi/2020/350/contents/made
-http://www.legislation.gov.uk/uksi/2020/350/pdfs/uksi_20200350_en.pdf
-http://www.legislation.gov.uk/ssi/2020/103/contents/made
-http://www.legislation.gov.uk/wsi/2020/353/contents/made
-https://www.health-ni.gov.uk/sites/default/files/publications/health/Coronavirus-Restrictiions-Regs-2020.pdf
-https://blogs.loc.gov/law/2020/05/restrictions-on-movement-due-to-the-coronavirus-pandemic-across-england-part-i/
-https://blogs.loc.gov/law/2020/05/restrictions-on-movement-due-to-the-coronavirus-pandemic-across-england-part-ii/
-https://www.legislation.gov.uk/uksi/2020/684/introduction/made
-https://www.legislation.gov.uk/uksi/2020/1200/made
-https://www.legislation.gov.uk/uksi/2020/1200/pdfs/uksi_20201200_en.pdf
-https://www.legislation.gov.uk/uksi/2020/1374/made
-
-
-https://www.legislation.gov.uk/uksi/2021/8/made
-https://verfassungsblog.de/a-government-ungoverned/
-
-
-https://www.legislation.gov.uk/coronavirus
-
-https://www.legislation.gov.uk/uksi/2021/364/contents
+ https://perma.cc/89Z9-LC94
+https://perma.cc/L3X6-MUVR
+https://perma.cc/HJ5X-T6N6
+https://perma.cc/853K-SKBP
+https://perma.cc/PTF4-K9XE
+https://perma.cc/K8WV-H2PR
+https://perma.cc/CA8U-EMQZ
+https://perma.cc/XY7B-2NRJ
+https://perma.cc/GHL6-82LQ
+https://perma.cc/6PG8-KQ5Z
+https://perma.cc/89W5-8UKV
+https://perma.cc/56FJ-XR4U
+https://perma.cc/ZQ46-3S4C
+https://perma.cc/V3WQ-F7FX
+https://perma.cc/ZDQ9-6XFA
 
 
 
@@ -105,14 +100,16 @@ https://www.legislation.gov.uk/uksi/2021/364/contents
  This the Act that underlies the main regulations and acts as the main legal instrument. 
 
 *Sources*:
- http://www.legislation.gov.uk/uksi/2020/350/contents/made
-
-https://verfassungsblog.de/a-government-ungoverned/
+ https://perma.cc/J2TW-GLAT
 
 
-https://www.legislation.gov.uk/coronavirus
+https://perma.cc/4SHM-PRL2
 
-https://www.legislation.gov.uk/uksi/2021/364/contents
+
+https://perma.cc/B2C9-BVJK
+
+
+https://perma.cc/J95G-CDDW
 
 
 
@@ -151,13 +148,25 @@ https://www.legislation.gov.uk/uksi/2021/364/contents
  The Health Protection (Coronavirus, Restrictions) Regulations 2020 came into force on March 26 2020 in England, Wales and Scotland, whereas it came into force on March 28 2020 in Northern Ireland. March 26 2020 is held as start date as it was so for the majority of the population of the UK. 
 
 *Sources*:
- http://www.legislation.gov.uk/uksi/2020/350/contents/made
-http://www.legislation.gov.uk/uksi/2020/350/pdfs/uksi_20200350_en.pdf
-http://www.legislation.gov.uk/ssi/2020/103/contents/made
-http://www.legislation.gov.uk/wsi/2020/353/contents/made
-https://www.health-ni.gov.uk/sites/default/files/publications/health/Coronavirus-Restrictiions-Regs-2020.pdf
-https://blogs.loc.gov/law/2020/05/restrictions-on-movement-due-to-the-coronavirus-pandemic-across-england-part-i/
-https://blogs.loc.gov/law/2020/05/restrictions-on-movement-due-to-the-coronavirus-pandemic-across-england-part-ii/
+ https://perma.cc/H8TA-LKEL
+
+
+https://perma.cc/JXG7-6SCB
+
+
+https://perma.cc/G2XB-HNDE
+
+
+https://perma.cc/E99Q-VSPK
+
+
+https://perma.cc/WFY5-4QC6
+
+
+https://perma.cc/967V-Y4VB
+
+
+https://perma.cc/9RP3-GCFG
 
 
 
@@ -196,19 +205,31 @@ https://blogs.loc.gov/law/2020/05/restrictions-on-movement-due-to-the-coronaviru
  On July 3 2020, The Health Protection (Coronavirus, Restrictions) Regulations 2020 was repealed on and replaced with The Health Protection (Coronavirus, Restrictions) (No. 2) Regulations 2020, which relaxed some emergency measures. Between October 14 - November 4 2020, the first COVID-19 tier regulations was introduced, which categorized each local authority area under one of three levels of restrictions. This was revoked on November 5 and replaced by The Health Protection (Coronavirus, Restrictions) (England) (No. 4) Regulations 2020 (SI 1200), which enforced the nationwide second lockdown regulations (in effect until 1 December 2020). On 2 December the UK government replaced SI 1200 of November 5 with 2020 SI 2020/1374 which reintroduced a countrywide three-tier legal framework. These Regulations were set to expire at the end of 2nd February 2021, but was subsequently extended to 31 of march 2021. It was replaced on March 29 with the current regulation titled Health Protection (Coronavirus, Restrictions) (Steps) (England) Regulations 2021, which is currently set to expire on 2021-06-30. As the UK still has emergency provisions in place, this does not count as it having ended. 
 
 *Sources*:
- http://www.legislation.gov.uk/uksi/2020/350/contents/made
-https://www.legislation.gov.uk/uksi/2020/684/introduction/made
-https://www.legislation.gov.uk/uksi/2020/684/contents
-https://www.legislation.gov.uk/uksi/2020/1200/made
-https://www.legislation.gov.uk/uksi/2020/1374/made
-
-https://www.legislation.gov.uk/uksi/2021/8/made
-https://verfassungsblog.de/a-government-ungoverned/
+ https://perma.cc/DJ73-VTR5
 
 
-https://www.legislation.gov.uk/coronavirus
+https://perma.cc/C8N7-ZK39
 
-https://www.legislation.gov.uk/uksi/2021/364/contents
+
+https://perma.cc/24V2-X5BH
+
+
+https://perma.cc/8ZZN-4TR6
+
+
+https://perma.cc/HL2T-VQ3R
+
+
+https://perma.cc/735M-CR5C
+
+
+https://perma.cc/CQ43-QV7T
+
+
+https://perma.cc/DC3R-BL7Z
+
+
+https://perma.cc/5P5A-L5GX
 
 
 
@@ -250,24 +271,19 @@ https://www.legislation.gov.uk/uksi/2021/364/contents
  The Health Protection (Coronavirus, Restrictions) Regulations 2020 was set to expire 6 months after it came into force. It was repealed and replaced on July 3. Its replacement, The Health Protection (Coronavirus, Restrictions) (No. 2) Regulations 2020, also has an expiration date 6 months after it coming into force. The Health Protection (Coronavirus, Restrictions) (England) (No. 4) Regulations 2020 (SI 1200) of November 5 was due to expire on December 2 2020, while the SI 2020/1374 of December 2 expires on February 2 2021. This was subsequently extended to 31 of march 2021. It was replaced on March 29 with the current regulation titled Health Protection (Coronavirus, Restrictions) (Steps) (England) Regulations 2021, which is currently set to expire on 2021-06-30.  This is therefore coded as 1. 
 
 *Sources*:
- http://www.legislation.gov.uk/uksi/2020/350/contents/made
-http://www.legislation.gov.uk/uksi/2020/350/pdfs/uksi_20200350_en.pdf
-http://www.legislation.gov.uk/ssi/2020/103/contents/made
-http://www.legislation.gov.uk/wsi/2020/353/contents/made
-https://www.health-ni.gov.uk/sites/default/files/publications/health/Coronavirus-Restrictiions-Regs-2020.pdf
-https://blogs.loc.gov/law/2020/05/restrictions-on-movement-due-to-the-coronavirus-pandemic-across-england-part-i/
-https://blogs.loc.gov/law/2020/05/restrictions-on-movement-due-to-the-coronavirus-pandemic-across-england-part-ii/
-https://www.legislation.gov.uk/uksi/2020/1200/made
-https://www.legislation.gov.uk/uksi/2020/1374/made
-
-https://www.legislation.gov.uk/uksi/2021/8/made
-
-https://verfassungsblog.de/a-government-ungoverned/
-
-
-https://www.legislation.gov.uk/coronavirus
-
-https://www.legislation.gov.uk/uksi/2021/364/contents
+ https://perma.cc/89Z9-LC94
+https://perma.cc/L3X6-MUVR
+https://perma.cc/HJ5X-T6N6
+https://perma.cc/853K-SKBP
+https://perma.cc/PTF4-K9XE
+https://perma.cc/K8WV-H2PR
+https://perma.cc/CA8U-EMQZ
+https://perma.cc/GHL6-82LQ
+https://perma.cc/89W5-8UKV
+https://perma.cc/56FJ-XR4U
+https://perma.cc/ZQ46-3S4C
+https://perma.cc/V3WQ-F7FX
+https://perma.cc/ZDQ9-6XFA
 
 
 
@@ -306,24 +322,19 @@ https://www.legislation.gov.uk/uksi/2021/364/contents
  The Health Protection (Coronavirus, Restrictions) Regulations 2020, which was introduced on March 26 2020, was set to expire 6 months after it came into force (September 26 2020). However, it was repealed and replaced on July 3 by The Health Protection (Coronavirus, Restrictions) (No. 2) Regulations 2020, also with an expiration date 6 months after it coming into force (January 3 2021). The Health Protection (Coronavirus, Restrictions) (England) (No. 4) Regulations 2020 (SI 1200) of November 5 was due to expire on December 2 2020, while its replacement, the SI 2020/1374 of December 2 has an expiration date on February 2 2021. This was subsequently extended to 31 of march 2021. It was replaced on March 29 with the current regulation titled Health Protection (Coronavirus, Restrictions) (Steps) (England) Regulations 2021, which is currently set to expire on 2021-06-30. 
 
 *Sources*:
- http://www.legislation.gov.uk/uksi/2020/350/contents/made
-http://www.legislation.gov.uk/uksi/2020/350/pdfs/uksi_20200350_en.pdf
-http://www.legislation.gov.uk/ssi/2020/103/contents/made
-http://www.legislation.gov.uk/wsi/2020/353/contents/made
-https://www.health-ni.gov.uk/sites/default/files/publications/health/Coronavirus-Restrictiions-Regs-2020.pdf
-https://blogs.loc.gov/law/2020/05/restrictions-on-movement-due-to-the-coronavirus-pandemic-across-england-part-i/
-https://blogs.loc.gov/law/2020/05/restrictions-on-movement-due-to-the-coronavirus-pandemic-across-england-part-ii/
-https://www.legislation.gov.uk/uksi/2020/1200/made
-https://www.legislation.gov.uk/uksi/2020/1374/made
-
-https://www.legislation.gov.uk/uksi/2021/8/made
-
-https://verfassungsblog.de/a-government-ungoverned/
-
-
-https://www.legislation.gov.uk/coronavirus
-
-https://www.legislation.gov.uk/uksi/2021/364/contents
+ https://perma.cc/89Z9-LC94
+https://perma.cc/L3X6-MUVR
+https://perma.cc/HJ5X-T6N6
+https://perma.cc/853K-SKBP
+https://perma.cc/PTF4-K9XE
+https://perma.cc/K8WV-H2PR
+https://perma.cc/CA8U-EMQZ
+https://perma.cc/GHL6-82LQ
+https://perma.cc/89W5-8UKV
+https://perma.cc/56FJ-XR4U
+https://perma.cc/ZQ46-3S4C
+https://perma.cc/V3WQ-F7FX
+https://perma.cc/ZDQ9-6XFA
 
 
 
@@ -365,15 +376,13 @@ https://www.legislation.gov.uk/uksi/2021/364/contents
  Claiming urgency, the secreterary of state has power to make the regulations come into force immediately, but the House of Commons needs to approve them within 28 days or it expires. Due to this need to approve within a time limit, this is coded as 1. Each legislation as such has also been approved by parliament. 
 
 *Sources*:
- http://www.legislation.gov.uk/uksi/2020/350/contents/made
-http://www.legislation.gov.uk/uksi/2020/350/pdfs/uksi_20200350_en.pdf
-http://www.legislation.gov.uk/ssi/2020/103/contents/made
-http://www.legislation.gov.uk/wsi/2020/353/contents/made
-https://www.health-ni.gov.uk/sites/default/files/publications/health/Coronavirus-Restrictiions-Regs-2020.pdf
-
-https://www.legislation.gov.uk/coronavirus
-
-https://www.legislation.gov.uk/uksi/2021/364/contents
+ https://perma.cc/89Z9-LC94
+https://perma.cc/L3X6-MUVR
+https://perma.cc/HJ5X-T6N6
+https://perma.cc/853K-SKBP
+https://perma.cc/PTF4-K9XE
+https://perma.cc/V3WQ-F7FX
+https://perma.cc/ZDQ9-6XFA
 
 
 
@@ -415,20 +424,18 @@ https://www.legislation.gov.uk/uksi/2021/364/contents
  Yes, parliament approved the regulations, with some minor amedments. 
 
 *Sources*:
- http://www.legislation.gov.uk/uksi/2020/350/contents/made
-http://www.legislation.gov.uk/uksi/2020/350/pdfs/uksi_20200350_en.pdf
-http://www.legislation.gov.uk/ssi/2020/103/contents/made
-http://www.legislation.gov.uk/wsi/2020/353/contents/made
-https://www.health-ni.gov.uk/sites/default/files/publications/health/Coronavirus-Restrictiions-Regs-2020.pdf
-https://blogs.loc.gov/law/2020/05/restrictions-on-movement-due-to-the-coronavirus-pandemic-across-england-part-i/
-https://blogs.loc.gov/law/2020/05/restrictions-on-movement-due-to-the-coronavirus-pandemic-across-england-part-ii/
-http://www.legislation.gov.uk/uksi/2020/447/introduction/made
-https://www.legislation.gov.uk/uksi/2020/1200/made
-https://www.legislation.gov.uk/uksi/2020/1374/made
-
-https://www.legislation.gov.uk/coronavirus
-
-https://www.legislation.gov.uk/uksi/2021/364/contents
+ https://perma.cc/89Z9-LC94
+https://perma.cc/L3X6-MUVR
+https://perma.cc/HJ5X-T6N6
+https://perma.cc/853K-SKBP
+https://perma.cc/PTF4-K9XE
+https://perma.cc/K8WV-H2PR
+https://perma.cc/CA8U-EMQZ
+https://perma.cc/XY7B-2NRJ
+https://perma.cc/GHL6-82LQ
+https://perma.cc/89W5-8UKV
+https://perma.cc/V3WQ-F7FX
+https://perma.cc/ZDQ9-6XFA
 
 
 
@@ -474,22 +481,15 @@ https://www.legislation.gov.uk/uksi/2021/364/contents
  For health reasons, parliament worked remotely from 26 March 2020 to 21 April in 2020, but have resumed work although with limited number of MPs present at each time. Committees are also working, and the parliament have both amended and passed laws. In addition, claiming urgency, the secreterary of state has the power to make the regulations come into force immediately, but the House of Commons needs to approve them within 28 days or it expires. The House also has the possibility to terminate it at any point before that. The emergency measures have thus not affected the parliaments law making role, and this is coded as 0. Note however that there has been significant critique toward the UK government for the lack of parliamentary scrutiny toward the measures taken, not least financial packages and spending. Furthermore, the system of operating where the government have enacted several measures through declarations in line with the legislation, and which have then only been subject to parliamentary approval after that (and as noted above, expires by itself after 28 days if the parliament has not voted on it). However, given that parliament continues to be involved in this process, it is not regarded as affecting their law making role. Neither is the law making role affected in other circumstances as far as has been found. Their capacity to scrutinize and oversee government actions, especially in terms of debates and referring questions to the government in relation to decisions, has been limited for various reasons (claiming urgency, the relatively few parliamentarians gathered at one point and the like), this does not impact law making directly, but rather relates to parliamentary oversight. This is therefore coded 0. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic#U
-https://www.bbc.com/news/uk-politics-52032188
-https://www.parliament.uk/business/news/Covid-19/
-https://www.parliament.uk/about/how/Covid-19-hybrid-proceedings-in-the-house-of-commons/
+ https://perma.cc/5XVA-H6XW
+https://perma.cc/8LKW-EEWS
+https://perma.cc/R7RV-NECQ
+https://web.archive.org/web/20200502204125/https://www.parliament.uk/about/how/Covid-19-hybrid-proceedings-in-the-house-of-commons/
 
-https://www.legislation.gov.uk/coronavirus
-
-https://www.legislation.gov.uk/uksi/2021/364/contents
-
-https://doi.org/10.1080/09615768.2020.1759398
-
-https://verfassungsblog.de/a-government-ungoverned/
-
-https://commonslibrary.parliament.uk/coronavirus-parliamentary-scrutiny-and-lockdown-regulations/
-
- 
+https://perma.cc/WYX4-TX94
+https://perma.cc/G2CW-48XZ
+https://perma.cc/3HGW-GE3J
+https://perma.cc/L2QU-BJZA
 
 
 
@@ -611,20 +611,34 @@ https://commonslibrary.parliament.uk/coronavirus-parliamentary-scrutiny-and-lock
  The emergency measures have been implemented across the UK and the response is more or less uniform. The city and the surrounding area of Leicester has been an exception from the beginning, due to the high prevalence of Covid-19 cases. Between July and September, the emergency measures differed slightly more; England for instance started some reopening that differed from other parts of the UK, such as opening school for some age groups and allowing a larger set of people to gather at the same place. These differences were relatively small though, therefore these periods are coded as 1. Since October 14 2020, the first Covid-19 tier regulations came into force, which split the UK in 3 different tiers followed by respective three levels of restrictions. This regulation was replaced by a more rigorous nationwide lockdown regulations on November 5 (until December 1). However, a national countrywide three-tier legal framework was reintroduced on 2 December 2020: ''The government will replace them on 2 December with a regionally-differentiated approach, where different tiers of restrictions apply in different parts of the country. These tiers will be strengthened compared to the previous tiers in order to prevent a return to growing infections''. This tier system was in place until March 29 2021, and the relative sub-national variation continued within England, as well as sub-national variation caused by somewhat different restrictions in the four different countries. For Q2 of 2021, there still remain some sub-national variation, but now pertaining to differences in the speed and phasing of opening up and loosening restrictions. This is therefore coded 2 for both Q1 and Q2 of 2021 as well. 
 
 *Sources*:
- https://www.bbc.com/news/uk-55086621
-https://www.theguardian.com/world/2020/sep/22/local-lockdowns-failing-to-stop-covid-spread-in-england-experts-warn
-https://www.gov.uk/guidance/local-restriction-tiers-what-you-need-to-know
-https://www.gov.uk/government/news/pm-six-people-can-meet-outside-under-new-measures-to-ease-lockdown
-https://www.garda.com/crisis24/news-alert-full-history/7Jh4PXSYFEpgJ6Mi2/uk-british-airways-to-reduce-flights-to-italy-singapore-and-south-korea-february-28
-https://www.acaps.org/covid19-government-measures-dataset
+ https://perma.cc/TAA4-X8L5
 
-https://verfassungsblog.de/a-government-ungoverned/
 
-https://www.garda.com/crisis24/news-alerts/487371/uk-authorities-maintaining-Covid-19-restrictions-as-of-june-7-update-65
+https://perma.cc/NUM6-68U9
 
-https://www.garda.com/crisis24/news-alerts/474286/uk-uk-continuing-to-ease-Covid-19-restrictions-as-of-may-3-update-62
 
-https://www.garda.com/crisis24/news-alerts/452526/uk-authorities-begin-to-ease-Covid-19-related-restrictions-in-england-march-8-update-57
+https://perma.cc/7PET-CBL8
+
+
+https://perma.cc/CRC8-FZGP
+
+
+https://perma.cc/S7X3-BLED
+
+
+https://perma.cc/K852-AXAS
+
+
+https://perma.cc/TSV8-VJ6R
+
+
+https://perma.cc/73YN-TDQZ
+
+
+https://perma.cc/XP82-4W7J
+
+
+https://perma.cc/5ZZT-HYTG
 
 
 
@@ -669,25 +683,40 @@ https://www.garda.com/crisis24/news-alerts/452526/uk-authorities-begin-to-ease-C
 There has also been much debate and criticism about the adverse effect of the pandemic and the restrictions in UK on different minorities and women, but these are not the result of active discrimination within the measures adopted, and thus not accounted for here. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9631
-https://www.amnesty.org/en/search/?country=38510&resourceType=newsarticle&sort=date
-https://www.theguardian.com/uk-news/2020/jul/27/police-in-england-and-wales-twice-as-likely-to-fine-young-bame-men-during-lockdown
-https://www.amnesty.org/en/latest/news/2020/06/europe-covid19-lockdowns-expose-racial-bias-and-discrimination-within-police/
-https://www.opendemocracy.net/en/openjustice/democracy-policing-and-coronavirus-pandemic/
+ https://perma.cc/GQ58-ZRT7
 
-https://theconversation.com/yes-there-is-structural-racism-in-the-uk-Covid-19-outcomes-prove-it-158337
 
-https://theconversation.com/we-asked-70-000-people-how-coronavirus-affected-them-what-they-told-us-revealed-a-lot-about-inequality-in-the-uk-143718
+https://perma.cc/D44T-YRHS
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/united-kingdom/
 
-https://www.hrw.org/world-report/2021/country-chapters/united-kingdom
+https://perma.cc/SAM9-CA27
 
-https://www.amnesty.org/en/countries/europe-and-central-asia/united-kingdom/report-united-kingdom/
 
-https://www.theguardian.com/uk-news/2021/apr/27/all-covid-fines-in-england-should-be-reviewed-mps-say
+https://perma.cc/G34Z-FMD7
 
-https://committees.parliament.uk/committee/93/human-rights-joint-committee/news/154842/joint-committee-on-human-rights-every-fixed-penalty-notice-issued-under-coronavirus-regulations-must-be-reviewed/
+
+https://perma.cc/366G-5HJR
+
+
+https://perma.cc/MGY3-D3XF
+
+
+https://perma.cc/797S-784Z
+
+
+https://perma.cc/7SK6-RAZM
+
+
+https://perma.cc/JXS5-H9TN
+
+
+https://perma.cc/585D-FV67
+
+
+https://perma.cc/ZE8P-4DGJ
+
+
+https://perma.cc/7R45-4U9C
 
 
 
@@ -736,14 +765,19 @@ https://committees.parliament.uk/committee/93/human-rights-joint-committee/news/
  No reports have been found on any violations of non-derogable rights in the emergency measures 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9631
-https://www.amnesty.org/en/search/?country=38510&resourceType=newsarticle&sort=date
+ https://perma.cc/X7K5-CBG6
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/united-kingdom/
 
-https://www.hrw.org/world-report/2021/country-chapters/united-kingdom
+https://perma.cc/9LQP-7QNG
 
-https://www.amnesty.org/en/countries/europe-and-central-asia/united-kingdom/report-united-kingdom/
+
+https://perma.cc/YY9M-H9UK
+
+
+https://perma.cc/9NNL-N9U3
+
+
+https://perma.cc/XK9S-BV3H
 
 
 
@@ -787,9 +821,10 @@ https://www.amnesty.org/en/countries/europe-and-central-asia/united-kingdom/repo
  Neither Reporters Without Borders nor the International Press Institute report any de jure limitations on media having been imposed during the pandemic, and there is no indication of any such de jure limitations in the UK Government response to Covid-19. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B135%5D=135
+ https://perma.cc/QK23-67UR
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
+
+https://perma.cc/KW4A-WD29
 
 
 
@@ -828,9 +863,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B135%5D=135
+ https://perma.cc/QK23-67UR
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
+
+https://perma.cc/KW4A-WD29
 
 
 
@@ -869,9 +905,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  No de jure limits on media freedom in emergency measures. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B135%5D=135
+ https://perma.cc/QK23-67UR
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
+
+https://perma.cc/KW4A-WD29
 
 
 
@@ -913,9 +950,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Neither Reporters Without Borders nor International Press Institute have reported any de facto limitations on media reporting about Covid-19 in UK,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B135%5D=135
+ https://perma.cc/QK23-67UR
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
+
+https://perma.cc/KW4A-WD29
 
 
 
@@ -957,9 +995,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Neither Reporters Without Borders nor International Press Institute have reported any de facto limitations on media reporting about the government response to Covid-19 in UK,  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B135%5D=135
+ https://perma.cc/QK23-67UR
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
+
+https://perma.cc/KW4A-WD29
 
 
 
@@ -1001,9 +1040,10 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Neither Reporters Without Borders nor International Press Institute have reported any de facto limitations on media reporting about non-Covid-19 related news in UK  and no other indications have been found of there having been implemented any such limitations. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B135%5D=135
+ https://perma.cc/QK23-67UR
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
+
+https://perma.cc/KW4A-WD29
 
 
 
@@ -1046,15 +1086,21 @@ https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,Fro
  Reporters Without Borders report that: ”Reporters are also facing restrictions in covering the government’s daily press briefings, during which the Prime Minister or another designated official provides updates to the public on the Covid-19 situation in the country. Journalists are limited to virtual participation, and their microphones are almost always cut immediately after an initial question, with follow-up questions rarely allowed - severely limiting their ability to rigorously question the presiding official.” (1). Furthermore, there are reports that medical personnel have been ordered not to speak publicly about their work and the situation at hospitals, limiting media's access to information within these areas. The Media Freedom Rapid Response also reports that the UK government has banned openDemocracy, the Sunday Times and prevented other outlets from asking questions at the daily news briefings. While some of these issues seem to mainly pertain to the first periods (at least in terms of reports on it), the issue of the limitation in freedom of information remains. For instance, editors for several large news outlets expressed strong concern over the lack of following through on FOI-requests in February 2021. As there is no indication that the situation has improved, this is therefore coded 1 for all periods. 
 
 *Sources*:
- https://rsf.org/en/news/uk-press-freedom-under-threat-lockdown-government-dismisses-reporting-campaigning-newspapers
+ https://perma.cc/GS6W-UZZ6
 (1)
 
-https://www.rcmediafreedom.eu/layout/set/print/News/UK-too-many-violations-and-bans-to-media-outlets
-https://www.theguardian.com/society/2020/apr/09/nhs-staff-forbidden-speaking-out-publicly-about-coronavirus
 
-https://www.documentcloud.org/documents/20415987-art-of-darkness-opendemocracy
 
-https://www.bbc.com/news/uk-55988252
+https://perma.cc/VG5G-KJTF
+
+
+https://perma.cc/K9ZD-7JH3
+
+
+https://perma.cc/HTC9-YBQP
+
+
+https://perma.cc/N7MU-2NVT
 
 
 
@@ -1097,12 +1143,17 @@ https://www.bbc.com/news/uk-55988252
 However, on November 5 2020, ''Journalists and photographers covering an anti-lockdown protest in London were ordered to leave and threatened with arrest by police. Photographers covering the event had reported that police were “hostile and very aggressive” towards members of the press throughout the evening'' (2). A similar situation occurred on March 23 2021 in Bristol, where a police officer threatened two members of the press who covered a protest in Bristol. This protest was however not related to Covid-19, and is thus not accounted for here. As the event on November 5 seems like an isolated incident, this is coded 0 for the rest of the periods. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-https://rsf.org/en/thematique/internet?countries%5B135%5D=135
-https://www.theguardian.com/uk-news/2020/nov/07/lockdown-met-apologises-for-arrest-threats-to-journalists-covering-protest
-(2)
+ https://perma.cc/UM3V-ZR92
 
-https://www.bristolpost.co.uk/news/bristol-news/police-officer-threatened-journalist-doing-5223430
+
+https://perma.cc/8E2H-HJ72
+
+
+https://perma.cc/V3FV-F3SD(2)
+
+
+
+https://perma.cc/ZBR8-FVSE
 
 
 
@@ -1144,11 +1195,13 @@ https://www.bristolpost.co.uk/news/bristol-news/police-officer-threatened-journa
  Neither Reporters Without Borders nor International Press Institute have reported any physical harassment of journalists in UK, and no other indications have been found of there having been any such harassment. 
 
 *Sources*:
- https://rsf.org/en/thematique/internet?countries%5B135%5D=135
+ https://perma.cc/QK23-67UR
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Switzerland
 
-https://ipi.media/covid19-media-freedom-monitoring/
+https://perma.cc/KW4A-WD29
+
+
+https://perma.cc/T2K8-NLR4
 
 
 
@@ -1192,9 +1245,9 @@ https://ipi.media/covid19-media-freedom-monitoring/
  There's no deviations from the information provided by WHO and that of the British Government on Covid-19, and no complaints or accusations of any such disinformation have been found. 
 
 *Sources*:
- https://www.gov.uk/coronavirus
+ https://perma.cc/X9LC-42V3
+https://web.archive.org/web/20200316024926/https://publichealthmatters.blog.gov.uk/2020/01/23/wuhan-novel-coronavirus-what-you-need-to-know/
 
-https://publichealthmatters.blog.gov.uk/2020/01/23/wuhan-novel-coronavirus-what-you-need-to-know/
 
 
 
@@ -1238,18 +1291,28 @@ https://publichealthmatters.blog.gov.uk/2020/01/23/wuhan-novel-coronavirus-what-
  Human Rights Watch and Amnesty International have not reported any incidents of violence in enforcing emergency measures, and there are no other indiciations of such violence in the emergency measures. In November 2020, there have been several police arrests during anti-lockdown and anti-vaccine protests. There have also been protests in 2021, but the reports on these do not record any excessive force, rather that protesters have harmed police officers when protesters turned violent. There has also been critique toward the police during a vigil in London after the murder of Sarah Everard, but it remains contested whether police used excessive force as the event was not allowed and they were ordered to disperse. As it remains unclear whether the arrests made were excessive or not, this is coded 0 here. Thus, this is coded 0 for all periods. 
 
 *Sources*:
- https://www.hrw.org/news?country[]=9631
-https://www.amnesty.org/en/search/?country=38510&resourceType=newsarticle&sort=date
-https://www.reuters.com/article/us-health-coronavirus-britain-demonstrat/british-police-arrest-104-londoners-for-breach-of-lockdown-restrictions-idUSKBN27L31Z
-https://www.reuters.com/article/us-health-coronavirus-britain-protests/uk-police-arrest-over-60-in-anti-lockdown-protests-idUSKBN2880KY
+ https://perma.cc/TNE8-7JAP
 
-https://www.bbc.com/news/uk-england-london-56878486
 
-https://www.globaltimes.cn/page/202103/1218476.shtml
+https://perma.cc/VB6W-EL7Y
 
-https://www.bbc.com/news/uk-56394344
 
-https://www.france24.com/en/europe/20210321-uk-riot-police-deployed-after-kill-the-bill-protest-in-bristol-turns-violent
+https://perma.cc/FT3H-YBLT
+
+
+https://perma.cc/STR7-4VW8
+
+
+https://perma.cc/L4R9-QSBX
+
+
+https://perma.cc/P7Y8-5VMH
+
+
+https://perma.cc/D5Y7-HWH6
+
+
+https://perma.cc/Z8WG-CXM9
 
 
 
@@ -1291,6 +1354,7 @@ https://www.france24.com/en/europe/20210321-uk-riot-police-deployed-after-kill-t
  The British military has aided the emergency response in several ways, but have not been involved in enforcing emergency measures. 
 
 *Sources*:
- http://euromil.org/armed-forces-and-Covid-19/
+ https://perma.cc/7AWX-74L2
 
-https://www.gov.uk/guidance/covid-support-force-the-mods-contribution-to-the-coronavirus-response
+
+https://perma.cc/5ZVD-UC2E

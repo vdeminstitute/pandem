@@ -47,16 +47,13 @@
 According to Article 76 of the South Korean Constitution, the President can call for a State of Emergency. However this has never been enacted across all the time periods. 
 
 *Sources*:
- https://verfassungsblog.de/south-koreas-combating-covid-19-under-the-rule-of-law/
+ https://perma.cc/U5ZA-A7YT
+https://perma.cc/RXQ4-69RF
 
-https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
+https://web.archive.org/web/20201019061249/https://www.loc.gov/law/help/health-emergencies/southkorea.php
 
-
-https://www.loc.gov/law/help/health-emergencies/southkorea.php
-
-https://elaw.klri.re.kr/kor_service/lawView.do?lang=ENG&hseq=53530
-
-https://www.globalasia.org/v15no1/focus/south-korea-has-the-legal-infrastructure-to-fight-pandemics%3B-the-us-doesnt_brian-j-kim
+https://perma.cc/D347-NL4A
+https://perma.cc/R75M-P29N
 
 
 
@@ -95,13 +92,12 @@ https://www.globalasia.org/v15no1/focus/south-korea-has-the-legal-infrastructure
 *No comment provided* 
 
 *Sources*:
- https://verfassungsblog.de/south-koreas-combating-covid-19-under-the-rule-of-law/
+ https://perma.cc/U5ZA-A7YT
+https://perma.cc/RXQ4-69RF
 
-https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
+https://web.archive.org/web/20201019061249/https://www.loc.gov/law/help/health-emergencies/southkorea.php
 
-https://www.loc.gov/law/help/health-emergencies/southkorea.php
-
-https://elaw.klri.re.kr/kor_service/lawView.do?lang=ENG&hseq=53530
+https://perma.cc/D347-NL4A
 
 
 
@@ -140,13 +136,12 @@ https://elaw.klri.re.kr/kor_service/lawView.do?lang=ENG&hseq=53530
 *No comment provided* 
 
 *Sources*:
- https://verfassungsblog.de/south-koreas-combating-covid-19-under-the-rule-of-law/
+ https://perma.cc/U5ZA-A7YT
+https://perma.cc/RXQ4-69RF
 
-https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
+https://web.archive.org/web/20201019061249/https://www.loc.gov/law/help/health-emergencies/southkorea.php
 
-https://www.loc.gov/law/help/health-emergencies/southkorea.php
-
-https://elaw.klri.re.kr/kor_service/lawView.do?lang=ENG&hseq=53530
+https://perma.cc/D347-NL4A
 
 
 
@@ -185,17 +180,12 @@ https://elaw.klri.re.kr/kor_service/lawView.do?lang=ENG&hseq=53530
  The Infectious Disease Control and Prevention Act does not have an end date. 
 
 *Sources*:
- https://verfassungsblog.de/south-koreas-combating-covid-19-under-the-rule-of-law/
+ https://perma.cc/U5ZA-A7YT
+https://perma.cc/RXQ4-69RF
 
-https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
-
-
-https://www.loc.gov/law/help/health-emergencies/southkorea.php
-
-https://elaw.klri.re.kr/kor_service/lawView.do?lang=ENG&hseq=53530
-
-
-https://www.globalasia.org/v15no1/focus/south-korea-has-the-legal-infrastructure-to-fight-pandemics%3B-the-us-doesnt_brian-j-kim
+https://web.archive.org/web/20201019061249/https://www.loc.gov/law/help/health-emergencies/southkorea.php
+https://perma.cc/D347-NL4A
+https://perma.cc/R75M-P29N
 
 
 
@@ -237,18 +227,12 @@ https://www.globalasia.org/v15no1/focus/south-korea-has-the-legal-infrastructure
  The  Infectious Disease Control and Prevention Act does not have an officially declared time limit. The measures have been implemented differently in different areas of South Korea depending on the spread of Covid-19. The individual measures often have a time limit of a few weeks. These time limits were sometimes extended, removed and then re-introduced as the infection rates varied. 
 
 *Sources*:
- http://ncov.mohw.go.kr/en/socdisBoardView.do?brdId=19&brdGubun=191&dataGubun=191&ncvContSeq=&contSeq=&board_id
-
-https://masonkorea.gmu.edu/corona/national-regulations-in-korea/social-distancing
-
-https://www.theguardian.com/world/2020/may/28/south-korea-faces-return-to-coronavirus-restrictions-after-spike-in-new-cases
-
-https://www.garda.com/crisis24/news-alerts/383256/south-korea-authorities-extend-covid-19-restrictions-until-october-11-update-35
-
-https://www.google.com/url?q=https://www.garda.com/crisis24/news-alerts/402481/south-korea-authorities-tighten-covid-19-restrictions-in-seoul-from-november-22-update-40&sa=D&source=editors&ust=1624297348473000&usg=AOvVaw3kjNh61tzc8FmgYAHMylCt
-
-https://www.straitstimes.com/asia/east-asia/south-korea-to-extend-social-distancing-measures-for-3-weeks
-
+ https://perma.cc/M2GD-G2VB
+https://web.archive.org/web/20210120184059/https://masonkorea.gmu.edu/corona/national-regulations-in-korea/social-distancing
+https://perma.cc/B38C-G247
+https://perma.cc/N7LH-86C3
+https://perma.cc/FQ44-TBUH
+https://perma.cc/5HMT-SXSP
 
 
 
@@ -287,16 +271,13 @@ https://www.straitstimes.com/asia/east-asia/south-korea-to-extend-social-distanc
  The Infectious Disease Control and Prevention Act does not have an end date. End dates for specific measures vary 
 
 *Sources*:
- https://verfassungsblog.de/south-koreas-combating-covid-19-under-the-rule-of-law/
+ https://perma.cc/U5ZA-A7YT
+https://perma.cc/RXQ4-69RF
 
-https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
+https://web.archive.org/web/20201019061249/https://www.loc.gov/law/help/health-emergencies/southkorea.php
 
-
-https://www.loc.gov/law/help/health-emergencies/southkorea.php
-
-https://elaw.klri.re.kr/kor_service/lawView.do?lang=ENG&hseq=53530
-
-https://www.globalasia.org/v15no1/focus/south-korea-has-the-legal-infrastructure-to-fight-pandemics%3B-the-us-doesnt_brian-j-kim
+https://perma.cc/D347-NL4A
+https://perma.cc/R75M-P29N
 
 
 
@@ -338,15 +319,10 @@ https://www.globalasia.org/v15no1/focus/south-korea-has-the-legal-infrastructure
  The Infectious Disease Control and Prevention Act has been in place since 2010. 
 
 *Sources*:
- https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
-
-https://elaw.klri.re.kr/kor_service/lawView.do?hseq=40184&lang=ENG
-
-
-https://www.loc.gov/law/help/health-emergencies/southkorea.php
-
-
-https://www.globalasia.org/v15no1/focus/south-korea-has-the-legal-infrastructure-to-fight-pandemics%3B-the-us-doesnt_brian-j-kim
+ https://perma.cc/RXQ4-69RF
+https://perma.cc/KRA6-S3BB
+https://web.archive.org/web/20201019061249/https://www.loc.gov/law/help/health-emergencies/southkorea.php
+https://perma.cc/R75M-P29N
 
 
 
@@ -388,15 +364,11 @@ https://www.globalasia.org/v15no1/focus/south-korea-has-the-legal-infrastructure
  The Infectious Disease Control and Prevention Act has been in place since 2010. 
 
 *Sources*:
- https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
+ https://perma.cc/RXQ4-69RF
+https://perma.cc/KRA6-S3BB
+https://web.archive.org/web/20201019061249/https://www.loc.gov/law/help/health-emergencies/southkorea.php
 
-https://elaw.klri.re.kr/kor_service/lawView.do?hseq=40184&lang=ENG
-
-
-https://www.loc.gov/law/help/health-emergencies/southkorea.php
-
-
-https://www.globalasia.org/v15no1/focus/south-korea-has-the-legal-infrastructure-to-fight-pandemics%3B-the-us-doesnt_brian-j-kim
+https://perma.cc/R75M-P29N
 
 
 
@@ -442,11 +414,9 @@ https://www.globalasia.org/v15no1/focus/south-korea-has-the-legal-infrastructure
  The lawmaking role of the legislature has not been limited due to the emergency measures. South Korea held an election on 15 April 2020. 
 
 *Sources*:
- https://www.cfr.org/blog/implications-south-koreas-historic-covid-19-elections
-
-https://www.bbc.com/news/world-asia-52304781
-
-https://www.theguardian.com/world/2020/apr/16/south-koreas-ruling-party-wins-election-landslide-amid-coronavirus-outbreak
+ https://perma.cc/M4Y4-MG2P
+https://perma.cc/8QF5-XQJR
+https://perma.cc/FST9-UF57
 
 
 
@@ -487,15 +457,9 @@ https://www.theguardian.com/world/2020/apr/16/south-koreas-ruling-party-wins-ele
 There were no instances of the legislature being dissolved due to Covid-19 in Q1 and Q2 in 2021. 
 
 *Sources*:
- https://english.aawsat.com/home/article/2472101/skorea-parliament-closed-over-covid-19-fears
-
-
-
-https://www.euronews.com/2020/08/27/south-korea-shuts-parliament-after-photographer-tests-positive-for-covid-19
-
-
-
-https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=155920
+ https://perma.cc/5HFL-Z5ML
+https://perma.cc/D3RJ-FCTZ
+https://perma.cc/232E-MLBZ
 
 
 
@@ -536,15 +500,9 @@ https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=155920
 There were no instances of the legislature being dissolved due to Covid-19 in Q1 and Q2 in 2021. 
 
 *Sources*:
- https://english.aawsat.com/home/article/2472101/skorea-parliament-closed-over-covid-19-fears
-
-
-
-https://www.euronews.com/2020/08/27/south-korea-shuts-parliament-after-photographer-tests-positive-for-covid-19
-
-
-
-https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=155920
+ https://perma.cc/5HFL-Z5ML
+https://perma.cc/D3RJ-FCTZ
+https://perma.cc/232E-MLBZ
 
 
 
@@ -588,22 +546,14 @@ https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=155920
  The emergency measures have varied slightly at the sub-national level. The more populated cities in South Korea have generally had more Covid-19 related restrictions. 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/320021/south-korea-government-declares-new-special-care-zone-in-north-gyeongsang-province-march-5-update-11
-
-https://www.garda.com/crisis24/news-alerts/465551/south-korea-authorities-extend-covid-19-restrictions-through-may-2-tighter-measures-likely-in-urban-areas-update-58
-
-https://www.garda.com/crisis24/news-alerts/371876/south-korea-authorities-make-face-masks-mandatory-in-seoul-august-24-update-29
-
-https://www.garda.com/crisis24/news-alerts/316596/south-korea-number-of-coronavirus-covid-49-cases-surges-february-22-update-5
-
-https://www.garda.com/crisis24/news-alerts/383256/south-korea-authorities-extend-covid-19-restrictions-until-october-11-update-35
-
-https://www.garda.com/crisis24/news-alerts/400541/authorities-tighten-covid-19-restrictions-in-seoul-november-19
-
-https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/south-korea/
+ https://perma.cc/7JT9-TWK8
+https://perma.cc/9JW2-PZNA
+https://perma.cc/6DJN-76A9
+https://perma.cc/SAK7-JK9S
+https://perma.cc/6NV5-Z5GT
+https://perma.cc/2MRG-NYBK
+https://perma.cc/M5DV-QWLS
+https://perma.cc/LQ2G-LZ7Y
 
 
 
@@ -647,13 +597,9 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/south-korea/
  I did not find evidence of the emergency measures discriminating "solely on the grounds of race, colour, sex, language, religion or social origin" across all time periods. 
 
 *Sources*:
- https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
-
-https://elaw.klri.re.kr/kor_service/lawView.do?hseq=40184&lang=ENG
-
-
-
-https://www.loc.gov/law/help/health-emergencies/southkorea.php
+ https://perma.cc/RXQ4-69RF
+https://perma.cc/KRA6-S3BB
+https://web.archive.org/web/20201019061249/https://www.loc.gov/law/help/health-emergencies/southkorea.php
 
 
 
@@ -702,13 +648,9 @@ https://www.loc.gov/law/help/health-emergencies/southkorea.php
  I did not find information on any of the measures violating the non-derogable rights as defined by the ICCPR across all time periods. 
 
 *Sources*:
- https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
-
-https://elaw.klri.re.kr/kor_service/lawView.do?hseq=40184&lang=ENG
-
-
-
-https://www.loc.gov/law/help/health-emergencies/southkorea.php
+ https://perma.cc/RXQ4-69RF
+https://perma.cc/KRA6-S3BB
+https://web.archive.org/web/20201019061249/https://www.loc.gov/law/help/health-emergencies/southkorea.php
 
 
 
@@ -752,17 +694,9 @@ https://www.loc.gov/law/help/health-emergencies/southkorea.php
  I did not come across new limitations on media freedom due to the emergency measures across all time periods. 
 
 *Sources*:
- https://verfassungsblog.de/fighting-covid-19-legal-powers-and-risks-south-korea/
-
-
-
-https://elaw.klri.re.kr/kor_service/lawView.do?hseq=40184&lang=ENG
-
-
-
-
-
-https://www.loc.gov/law/help/health-emergencies/southkorea.php
+ https://perma.cc/RXQ4-69RF
+https://perma.cc/KRA6-S3BB
+https://web.archive.org/web/20201019061249/https://www.loc.gov/law/help/health-emergencies/southkorea.php
 
 
 
@@ -882,16 +816,10 @@ https://www.loc.gov/law/help/health-emergencies/southkorea.php
  I did not find any information related to this across all time periods. 
 
 *Sources*:
- https://rsf.org/en/south-korea
-
-
-https://www.hrw.org/asia/south-korea
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/south-korea/
-
-
-https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
+ https://perma.cc/67Z5-NR3U
+https://perma.cc/9S8X-MEC6
+https://perma.cc/LQ2G-LZ7Y
+https://perma.cc/M5DV-QWLS
 
 
 
@@ -933,16 +861,10 @@ https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
  I did not find any information related to this across all time periods. 
 
 *Sources*:
- https://rsf.org/en/south-korea
-
-
-https://www.hrw.org/asia/south-korea
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/south-korea/
-
-
-https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
+ https://perma.cc/67Z5-NR3U
+https://perma.cc/9S8X-MEC6
+https://perma.cc/LQ2G-LZ7Y
+https://perma.cc/M5DV-QWLS
 
 
 
@@ -984,16 +906,10 @@ https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
  I did not find any information related to this across all time periods. 
 
 *Sources*:
- https://rsf.org/en/south-korea
-
-
-https://www.hrw.org/asia/south-korea
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/south-korea/
-
-
-https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
+ https://perma.cc/67Z5-NR3U
+https://perma.cc/9S8X-MEC6
+https://perma.cc/LQ2G-LZ7Y
+https://perma.cc/M5DV-QWLS
 
 
 
@@ -1036,16 +952,10 @@ https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
  I did not find any information related to this across all time periods. 
 
 *Sources*:
- https://rsf.org/en/south-korea
-
-
-https://www.hrw.org/asia/south-korea
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/south-korea/
-
-
-https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
+ https://perma.cc/67Z5-NR3U
+https://perma.cc/9S8X-MEC6
+https://perma.cc/LQ2G-LZ7Y
+https://perma.cc/M5DV-QWLS
 
 
 
@@ -1087,16 +997,10 @@ https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
  I did not find any information related to this. 
 
 *Sources*:
- https://rsf.org/en/south-korea
-
-
-https://www.hrw.org/asia/south-korea
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/south-korea/
-
-
-https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
+ https://perma.cc/67Z5-NR3U
+https://perma.cc/9S8X-MEC6
+https://perma.cc/LQ2G-LZ7Y
+https://perma.cc/M5DV-QWLS
 
 
 
@@ -1138,16 +1042,10 @@ https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
  I did not find any information related to this across all time periods. 
 
 *Sources*:
- https://rsf.org/en/south-korea
-
-
-https://www.hrw.org/asia/south-korea
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/south-korea/
-
-
-https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
+ https://perma.cc/67Z5-NR3U
+https://perma.cc/9S8X-MEC6
+https://perma.cc/LQ2G-LZ7Y
+https://perma.cc/M5DV-QWLS
 
 
 
@@ -1191,7 +1089,7 @@ https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
  I did not find any information related to this across all time periods. 
 
 *Sources*:
- http://ncov.mohw.go.kr/en/
+ https://perma.cc/87GD-FZKU
 
 
 
@@ -1235,16 +1133,10 @@ https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
  I did not find any information related to this across all time periods. 
 
 *Sources*:
- https://rsf.org/en/south-korea
-
-
-https://www.hrw.org/asia/south-korea
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/south-korea/
-
-
-https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
+ https://perma.cc/67Z5-NR3U
+https://perma.cc/9S8X-MEC6
+https://perma.cc/LQ2G-LZ7Y
+https://perma.cc/M5DV-QWLS
 
 
 
@@ -1288,15 +1180,8 @@ https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
 However, the military were deployed to public health centers to aid the government's handling of the Covid-19 situation by conducting contact tracing, data management and transferring of samples for virus tests in December 2020 and January 2021. 
 
 *Sources*:
- https://rsf.org/en/south-korea
-
-
-https://www.hrw.org/asia/south-korea
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/south-korea/
-
-
-https://www.bbc.com/news/topics/cnx753jej1xt/south-korea
-
-https://www.aa.com.tr/en/asia-pacific/covid-19-skorea-mobilizes-military-shuts-schools/2075863
+ https://perma.cc/67Z5-NR3U
+https://perma.cc/9S8X-MEC6
+https://perma.cc/LQ2G-LZ7Y
+https://perma.cc/M5DV-QWLS
+https://perma.cc/ZZ8V-JZZB

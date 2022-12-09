@@ -45,19 +45,15 @@
  Emergency situations introduced separately on 16 March 2020 in the Bosniak-Croat Federation (state of disaster) and the Serb Republic (state of emergency); nationwide state of disaster introduced on 17 March 2020, as announced in the Official Gazette of BiH, No. 18/20. Nationwide state of disaster ended on 31 May and since then I found no measures taken at the federal level since then. 
 
 *Sources*:
- http://www.sluzbenilist.ba/page/akt/bTsBUE4N5GM=
-https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/predsednik/odluka/2020/29/1/reg
-http://www.fbihvlada.gov.ba/bosanski/aktuelno_v2.php?akt_id=8417
-http://www.fbihvlada.gov.ba/bosanski/zakoni/2020/Odluke/198.htm
-http://www.oecd.org/south-east-europe/COVID-19-Crisis-in-Bosnia-and-Herzegovina-archive.pdf
-https://www.oecd.org/south-east-europe/COVID-19-Crisis-in-Bosnia-and-Herzegovina.pdf
-http://www.fbihvlada.gov.ba/bosanski/aktuelno_v2.php?akt_id=8914
-
-https://www.garda.com/crisis24/news-alerts/393291/bosnia-and-herzegovina-authorities-introduce-stricter-covid-19-measures-across-the-country-october-26-update-6
-https://www.paragraf.ba/propisi/republika-srpska/zakljucak-o-obaveznom-sprovodjenju-mjera-za-reagovanje-na-pojavu-bolesti-izazvane-novim-virusom-korona-covid-19-u-republici-srpskoj.html
-
-
-
+ https://perma.cc/5DRP-QWW2
+https://perma.cc/YNC7-T4NW
+https://perma.cc/E5UZ-ZVV8
+https://perma.cc/DS5K-VL4D
+https://perma.cc/L2QL-Y6GF
+https://perma.cc/Q4K9-ZC6R
+https://perma.cc/AM2C-L9KN
+https://perma.cc/5B4Z-VXQU
+https://perma.cc/R98N-9SXA
 
 
 
@@ -98,11 +94,12 @@ https://www.paragraf.ba/propisi/republika-srpska/zakljucak-o-obaveznom-sprovodje
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: no national-level emergency measures 
 
 *Sources*:
- http://www.sluzbenilist.ba/page/akt/bTsBUE4N5GM=
-http://msb.gov.ba/Zakoni/zakoni/default.aspx?id=1721&langTag=bs-BA
-https://www.slglasnik.org/cyr/aktuelno/obavjestenja/objavjben-je-sgrs-2520
+ https://perma.cc/S23D-WJFG
+https://perma.cc/94XW-TTL8
+https://perma.cc/PBA2-JPQQ
 (1)
-http://www.fbihvlada.gov.ba/bosanski/zakoni/2020/odluke_registar.html
+
+https://perma.cc/WR65-4TL8
 (2)
 
 
@@ -144,7 +141,7 @@ http://www.fbihvlada.gov.ba/bosanski/zakoni/2020/odluke_registar.html
 July-September and October-December: no national-level emergency measures 
 
 *Sources*:
- http://www.sluzbenilist.ba/page/akt/bTsBUE4N5GM=
+ https://perma.cc/WZR7-N34D
 
 
 
@@ -185,10 +182,10 @@ July-September and October-December: no national-level emergency measures
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: no national-level emergency measures 
 
 *Sources*:
- https://www.idea.int/gsod-indices//#/indices/countries-regions-profile?rsc=%5B346%5D&covid19=1
-https://koronavirususrpskoj.com/usvojena-odluka-o-ukidanju-vanrednog-stanja/
-http://www.fbihvlada.gov.ba/bosanski/zakoni/2020/Odluke/333.htm
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+ https://perma.cc/J7UH-BULT
+https://perma.cc/4PAU-HUW7
+https://perma.cc/C48W-FU8X
+https://perma.cc/TUB3-8W4F
 (1)
 
 
@@ -233,8 +230,8 @@ https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: no national-level emergency measures 
 
 *Sources*:
- http://www.sluzbenilist.ba/page/akt/bTsBUE4N5GM=
-http://msb.gov.ba/Zakoni/zakoni/default.aspx?id=1721&langTag=bs-BA
+ https://perma.cc/B2AT-TRUZ
+https://perma.cc/N8PK-RA8S
 
 
 
@@ -317,7 +314,7 @@ http://msb.gov.ba/Zakoni/zakoni/default.aspx?id=1721&langTag=bs-BA
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: no national-level emergency measures found 
 
 *Sources*:
- http://msb.gov.ba/Zakoni/zakoni/default.aspx?id=1721&langTag=bs-BA
+ https://perma.cc/9GBV-4TWA
 
 
 
@@ -361,7 +358,7 @@ Q3 2020, Q4 2020, Q1 2021, Q2 2021: no national-level emergency measures found
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: no national-level emergency measures found 
 
 *Sources*:
- http://www.parlament.ba/Publication/Read/15971?title=kolegij-predstavnickog-doma-parlamentarne-skupstine-bih-pozdravlja-sve-do-sada-preduzete-mjere-za-zastitu-zdravlja-stanovnistva&pageId=238
+ https://perma.cc/VN29-SDHS
 
 
 
@@ -407,9 +404,9 @@ Q3 2020, Q4 2020, Q1 2021, Q2 2021: no national-level emergency measures found
  No legal limitations and de-facto the legislature continued to meet. Note on subnational variation: in the Serb Republic the legislature gave the president the right to rule by decree (1) 
 
 *Sources*:
- http://www.parlament.ba/Publication/Category/1?page=1&pageId=238
-https://www.parlament.ba/Publication/Read/16017?pageId=238
-https://www.reuters.com/article/us-health-coronavirus-bosnia/bosnian-serb-region-declares-state-of-emergency-over-coronavirus-idUSKBN21F0OQI
+ https://perma.cc/P55A-RAYD
+https://perma.cc/EJP7-UPHC
+https://perma.cc/CC2K-JWYV
 (1)
 
 
@@ -532,14 +529,14 @@ https://www.reuters.com/article/us-health-coronavirus-bosnia/bosnian-serb-region
  Aside from a nationwide state of disaster, the specific measures, duration, implementation etc. were different in the two autonomous regions of Bosniak-Croat Federation (state of disaster) and the Serb Republic (state of emergency). On the structure of BiH government see https://eacea.ec.europa.eu/national-policies/eurydice/content/main-executive-and-legislative-bodies-11_en Also see notes on subantional variation for other variables. 
 
 *Sources*:
- https://www.oecd.org/south-east-europe/COVID-19-Crisis-in-Bosnia-and-Herzegovina.pdf
-https://www.narodnaskupstinars.net/?q=ci/%D0%B2%D0%B8%D1%98%D0%B5%D1%81%D1%82%D0%B8/%D1%81%D0%B0%D1%81%D1%82%D0%B0%D0%BD%D0%B0%D0%BA-%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%87%D0%BD%D0%B8%D0%BA%D0%B0-%D1%81%D1%80%D0%BF%D1%81%D0%BA%D0%B5-%D0%B2%D0%BB%D0%B0%D0%B4%D0%B0-%D0%BF%D1%80%D0%BE%D0%B3%D0%BB%D0%B0%D1%88%D0%B0%D0%B2%D0%B0-%D0%B2%D0%B0%D0%BD%D1%80%D0%B5%D0%B4%D0%BD%D1%83-%D1%81%D0%B8%D1%82%D1%83%D0%B0%D1%86%D0%B8%D1%98%D1%83-%D0%BE%D0%B4-%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B5-%D1%81%D0%BA%D1%83%D0%BF%D1%88%D1%82%D0%B8%D0%BD%D0%B5-%D1%9B%D0%B5-%D0%B7%D0%B0%D1%82%D1%80%D0%B0%D0%B6%D0%B8%D1%82%D0%B8-%D0%BF%D1%80%D0%BE%D0%B3%D0%BB%D0%B0%D1%88e%D1%9A%D0%B5-%D0%B2%D0%B0%D0%BD%D1%80%D0%B5%D0%B4%D0%BD%D0%BE%D0%B3-%D1%81%D1%82%D0%B0%D1%9A%D0%B0
-http://www.fbihvlada.gov.ba/bosanski/aktuelno_v2.php?akt_id=8417
-http://www.fbihvlada.gov.ba/bosanski/zakoni/2020/Odluke/198.htm
-https://www.reuters.com/article/us-health-coronavirus-bosnia/bosnia-declares-nationwide-state-of-emergency-over-coronavirus-pm-idUSKBN2142FH
-https://www.reuters.com/article/us-health-coronavirus-bosnia-emergency/bosnias-serb-republic-lifts-coronavirus-state-of-emergency-idUSKBN22X22I
-https://www.garda.com/crisis24/news-alerts/337196/bosnia-herzegovina-government-eases-covid-19-lockdown-measures-in-republika-srpska-as-of-april-27-update-3
-https://www.garda.com/crisis24/news-alerts/478166/bosnia-and-herzegovina-authorities-maintaining-covid-19-restrictions-as-of-may-13-update-25
+ https://perma.cc/HJ4B-USJR
+https://perma.cc/9M6M-MZQT
+https://perma.cc/BG4S-79JW
+https://perma.cc/FL9S-78WJ
+https://perma.cc/ZA88-F8RH
+https://perma.cc/CNX8-ZGWW
+https://perma.cc/5HRG-TXLV
+https://perma.cc/EBK3-EQ7V
 
 
 
@@ -583,19 +580,21 @@ https://www.garda.com/crisis24/news-alerts/478166/bosnia-and-herzegovina-authori
 *No comment provided* 
 
 *Sources*:
- http://vladausk.ba/v4/novost/operativna-grupa-grupe-za-koordiniranje-aktivnosti-i-nadzora-nad-migrantskom-krizom-na-podrucju-unsko-sanskog-kantona/2101
+ https://perma.cc/XD4G-HYD9
 (1)
-http://vladausk.ba/v4/novost/operativna-grupa-za-koordiniranje-aktivnosti-i-nadzora-nad-migrantskom-krizom-na-podrucju-unsko-sanskog-kantona/2566
-http://vladausk.ba/v4/novost/operativna-grupa-za-koordiniranje-aktivnosti-i-nadzora-nad-migrantskom-krizom-na-podrucju-unsko-sanskog-kantona/2762
-https://vlada.ks.gov.ba/aktuelnosti/novosti-vezane-za-koronu-virus/vlada-i-mup-ks-ogranicavaju-kretanje-migranata-u
-(2);
-https://www.paragraf.ba/propisi/kantona-sarajevo/odluka-o-odredjivanju-mjera-ogranicavanja-kretanja-migranata-na-podrucju-kantona-sarajevo-u-cilju-preveniranja.html
+
+https://perma.cc/QEM7-Y7PW
+https://perma.cc/BT8M-PKLX
+https://perma.cc/C45G-ZHJW
+(2)
+
+https://perma.cc/XV9E-UC8Z
 https://www.care.de/fileadmin/user_upload/Nothilfe/Kontinente/Europa/Balkan/Assessment_Report_-_Bosnia_2020_Policy_final.pdf
-https://www.amnesty.org/en/documents/pol10/3202/2021/en/#:~:text=The%20Amnesty%20International%20Report%202020,was%20rocked%20by%20COVID%2D19
-https://www.coe.int/en/web/special-representative-secretary-general-migration-refugees/newsletter-december-2020/-/asset_publisher/cVKOAoroBOtI/content/commissioner-calls-bosnia-and-herzegovina-to-address-shortcomings-in-the-handling-of-migrants-and-asylum-seekers?_101_INSTANCE_cVKOAoroBOtI_viewMode=view/
-https://www.osce.org/files/f/documents/7/7/470667.pdf
-https://www.paragraf.ba/propisi-naredbe-bosne-i-hercegovine-za-sprecavanje-sirenja-korona-virusa-covid-19.html
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/bosnia-and-herzegovina/
+https://perma.cc/8UTW-4SCE
+https://perma.cc/836N-HLHU
+https://perma.cc/8RQK-4NHC
+https://perma.cc/ZST4-RYCZ
+https://perma.cc/FML8-VMNX
 (3)
 
 
@@ -647,16 +646,18 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/bos
 No information found for Q2 2020, Q3 2020, Q1 2021, Q2 2021. 
 
 *Sources*:
- https://www.hrw.org/news/2021/01/21/bosnia-and-herzegovina-migrants-left-cold
+ https://perma.cc/7AYF-YYQA
 (1)
-https://news.un.org/en/story/2020/12/1080852
-https://balkaninsight.com/2020/12/23/bosnias-troubled-lipa-camp-set-alight-on-closure-day/
-https://www.amnesty.org/download/Documents/POL1032022021ENGLISH.PDF
-(2)
-https://www.coe.int/en/web/special-representative-secretary-general-migration-refugees/newsletter-december-2020/-/asset_publisher/cVKOAoroBOtI/content/commissioner-calls-bosnia-and-herzegovina-to-address-shortcomings-in-the-handling-of-migrants-and-asylum-seekers?_101_INSTANCE_cVKOAoroBOtI_viewMode=view/
-https://www.theguardian.com/global-development/2020/dec/23/fire-destroys-migrant-camp-bosnia-lipa
-https://www.bbc.com/news/world-europe-55427750
-https://www.bbc.com/news/world-europe-55497080
+
+https://perma.cc/Y8WU-DWHS
+https://perma.cc/M9Q8-7JFR
+https://perma.cc/59KS-EP8Y
+(4)
+
+https://perma.cc/9AEK-NGGU
+https://perma.cc/72US-86SW
+https://perma.cc/Q2ZS-LSNL
+https://perma.cc/LX3Z-HL73
 
 
 
@@ -700,14 +701,15 @@ https://www.bbc.com/news/world-europe-55497080
  Article 24 of Protection and Rescue of People and Material Goods from Natural or Other Disasters on ensuring transparency and freedom of information. Note on subnational variation: the Serb Republic passed a law on "fake news" that could limit media freedom (1), and similar measures were adopted in the Brčko District (2) 
 
 *Sources*:
- http://msb.gov.ba/Zakoni/zakoni/default.aspx?id=1721&langTag=bs-BA
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
-https://www.icnl.org/covid19tracker/?location=15&issue=&date=&type=
-https://ipi.media/rush-to-pass-fake-news-laws-during-covid-19-intensifying-global-media-freedom-challenges/
-https://www.osce.org/files/f/documents/7/7/470667.pdf
-https://www.osce.org/representative-on-freedom-of-media/450115
+ https://perma.cc/Q7X4-GMYY
+https://perma.cc/M3DG-7W7Y
+https://perma.cc/L29R-29RG
+https://perma.cc/V2TC-Q58G
+https://perma.cc/P9W6-HZ34
+https://perma.cc/B4CZ-JGXC
 (1)
-https://rsf.org/en/news/repressive-laws-prosecutions-attacks-europe-fails-shield-its-journalists-against-abuse-covid-19
+
+https://perma.cc/27XL-275N
 (2)
 
 
@@ -828,11 +830,11 @@ https://rsf.org/en/news/repressive-laws-prosecutions-attacks-europe-fails-shield
  official website with information on covid-19; no reports on limitations on media reporting on covid-19 found. No new information found since June 2020. 
 
 *Sources*:
- https://covid-19.ba/
-https://koronavirususrpskoj.com/
-https://covid19.fmoh.gov.ba/preporuke
-https://ipi.media/bosnia-and-herzegovina/
-https://rsf.org/en/bosnia-herzegovina
+ https://perma.cc/2WPQ-YDQU
+https://perma.cc/5HR9-3CYJ
+https://perma.cc/8KMM-K4QB
+https://perma.cc/NF4H-N98C
+https://perma.cc/MU2Y-ES4W
 
 
 
@@ -874,9 +876,9 @@ https://rsf.org/en/bosnia-herzegovina
  On 20 April 2020, the police detained TV journalists (for a short period of time). The journalists were reporting on a situation in a covid-19 isolation center and the police deleted the footage from their phones.  Since it was a single incident and no further cases were reported, merepgov is coded as 0 in Q3 2020, Q4 2020, Q1 2021, Q2 2021. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/#
-https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/
-http://ba.n1info.com/Vijesti/a427475/BH-novinari-i-OSCE-reagovali-zbog-brisanja-fotografija-ekipi-RTV-Slon.html
+ https://perma.cc/QV9Q-6BBP
+https://perma.cc/8G6F-SHA2
+https://perma.cc/H6MA-9RS8
 
 
 
@@ -918,11 +920,9 @@ http://ba.n1info.com/Vijesti/a427475/BH-novinari-i-OSCE-reagovali-zbog-brisanja-
  No information found on instances of limitations on media reporting on non-Covid-19 related news but with reference to the pandemic. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/#
-
-
-https://ipi.media/bosnia-and-herzegovina/
-https://rsf.org/en/bosnia-herzegovina
+ https://perma.cc/8A63-Y5GZ
+https://perma.cc/GF2Z-CDNH
+https://perma.cc/M7HM-A2PJ
 
 
 
@@ -971,11 +971,12 @@ Coded as 1 since the decision applies to one subnational entity and not the whol
 Q3 2020, Q4 2020, Q1 2021, Q2 2021: I have not found any limitations on media access to Covid-19 information. 
 
 *Sources*:
- https://ipi.media/media-freedom-violations-in-the-eu-under-covid-19/
-https://www.osce.org/odihr/human-rights-states-of-emergency-covid19
+ https://perma.cc/4PEW-ZYX4
+https://perma.cc/B8MW-BJ35
 (1)
-https://covid-19.ba/dokumenti/civilna_zastita
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/bosnia-and-herzegovina/
+
+https://web.archive.org/web/20200329162203/https://covid-19.ba/dokumenti/civilna_zastita
+https://perma.cc/7U84-M6C5
 (2)
 
 
@@ -1018,10 +1019,9 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/bos
  IPI reports on cases of verbal harassment but not related to covid-19 reporting. No new information found since June 2020. 
 
 *Sources*:
- https://ipi.media/ipi-condemns-assault-death-threat-against-bosnia-tv-journalist/
-
-https://ipi.media/bosnia-and-herzegovina/
-https://rsf.org/en/bosnia-herzegovina
+ https://perma.cc/MCY6-UY27
+https://perma.cc/MHP6-N3M6
+https://perma.cc/9WMG-6GW9
 
 
 
@@ -1063,12 +1063,11 @@ https://rsf.org/en/bosnia-herzegovina
  IPI reports on cases of physical harassment but not related to covid-19 reporting. No new information found since June 2020. 
 
 *Sources*:
- https://ipi.media/ipi-condemns-assault-death-threat-against-bosnia-tv-journalist/
-
-https://ipi.media/bosnia-and-herzegovina/
-https://rsf.org/en/bosnia-herzegovina
-https://www.amnesty.org/en/countries/europe-and-central-asia/bosnia-and-herzegovina/
-https://www.hrw.org/europe/central-asia/bosnia-and-herzegovina
+ https://perma.cc/K4B2-KQPX
+https://perma.cc/42TL-ERZ2
+https://perma.cc/U9K8-TJ7C
+https://perma.cc/E2UR-8JJP
+https://perma.cc/V96M-ELPP
 
 
 
@@ -1112,12 +1111,11 @@ https://www.hrw.org/europe/central-asia/bosnia-and-herzegovina
  official website with information on covid-19; no reports on disinformation found. No new information found since June 2020. 
 
 *Sources*:
- https://covid-19.ba/
-https://koronavirususrpskoj.com/
-https://covid19.fmoh.gov.ba/preporuke
-
-https://ipi.media/bosnia-and-herzegovina/
-https://rsf.org/en/bosnia-herzegovina
+ https://perma.cc/3L6P-8XQA
+https://perma.cc/36MH-LRMG
+https://perma.cc/SJ3Y-9LSQ
+https://perma.cc/9GE3-2JL6
+https://perma.cc/8LR2-3DCJ
 
 
 
@@ -1161,8 +1159,8 @@ https://rsf.org/en/bosnia-herzegovina
  No instances of police violence found. No new information found since June 2020. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/europe-and-central-asia/bosnia-and-herzegovina/
-https://www.hrw.org/europe/central-asia/bosnia-and-herzegovina
+ https://perma.cc/CS93-XN3E
+https://perma.cc/V96M-ELPP
 
 
 
@@ -1204,5 +1202,5 @@ https://www.hrw.org/europe/central-asia/bosnia-and-herzegovina
  The presidency ordered the Defense Forces to establish tents at the borders for the enforcement of quarantine for citizens entering the country, which is not coded since these are not coercive measures. No new information found since June 2020. 
 
 *Sources*:
- http://www.predsjednistvobih.ba/saop/default.aspx?id=87867&langTag=bs-BA
-http://www.predsjednistvobih.ba/saop/default.aspx?id=87900&langTag=bs-BA
+ https://perma.cc/S9E8-WPF6
+https://perma.cc/GX48-TP45

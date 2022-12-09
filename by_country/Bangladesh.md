@@ -50,14 +50,25 @@ The state imposed a lockdown which lasted from 7 April 2021 to 28 April 2021. Ho
  
 
 *Sources*:
- https://verfassungsblog.de/bangladeshs-unofficial-emergency-managing-the-covid-19-crisis-by-notifications/
-
-https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
-
-https://www.dhakatribune.com/bangladesh/2021/04/20/lockdown-extended-till-april-28-as-covid-deaths-continue-to-rise-2
+ https://perma.cc/SF8Z-K5NC
 
 
-https://www.thedailystar.net/bangladesh/news/stricter-weeklong-lockdown-april-22-state-minister-2080045
+
+
+
+https://perma.cc/AP82-MY5C
+
+
+
+
+
+https://perma.cc/5ZVZ-EY6M
+
+
+
+
+
+https://perma.cc/5AE7-DFGH
 
 
 
@@ -137,17 +148,19 @@ Whenever any new COVID-19 case is detected, the concerned suburb, village or dis
 *No comment provided* 
 
 *Sources*:
- https://tbsnews.net/coronavirus-chronicle/covid-19-bangladesh/general-holiday-not-extend-further-state-minister-85870
+ https://perma.cc/3UKU-XHDF
 
 
 
 
-https://verfassungsblog.de/bangladeshs-unofficial-emergency-managing-the-covid-19-crisis-by-notifications/
+
+https://perma.cc/KC76-7VDV
 
 
 
 
-https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
+
+https://perma.cc/T74V-SDMK
 
 
 
@@ -186,20 +199,25 @@ https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
  The 'general holiday' was originally declared for a 10-day period.  This was later extended seven times and finally relaxed on 31 May 2020. 
 
 *Sources*:
- https://verfassungsblog.de/bangladeshs-unofficial-emergency-managing-the-covid-19-crisis-by-notifications/
-
-
-
-https://www.aa.com.tr/en/asia-pacific/covid-19-bangladesh-extends-lockdown-until-may-30/1840126
-
-
-
-https://www.india.com/news/world/bangladesh-govt-decides-not-to-extend-covid-19-shutdown-4042581/
+ https://perma.cc/LK7S-ARN4
 
 
 
 
-https://tbsnews.net/coronavirus-chronicle/covid-19-bangladesh/general-holiday-not-extend-further-state-minister-85870
+
+https://perma.cc/9RZT-ZDRB
+
+
+
+
+
+https://perma.cc/424R-XMFA
+
+
+
+
+
+https://perma.cc/XQ6T-E5E9
 
 
 
@@ -241,15 +259,19 @@ https://tbsnews.net/coronavirus-chronicle/covid-19-bangladesh/general-holiday-no
  End dates for the 'general holidays' were announced and subsequently extended till 31 May 2020. 
 
 *Sources*:
- https://verfassungsblog.de/bangladeshs-unofficial-emergency-managing-the-covid-19-crisis-by-notifications/
+ https://perma.cc/DP29-DDWK
 
 
 
-https://www.aa.com.tr/en/asia-pacific/covid-19-bangladesh-extends-lockdown-until-may-30/1840126
+
+
+https://perma.cc/PN3Z-KJA2
 
 
 
-https://www.india.com/news/world/bangladesh-govt-decides-not-to-extend-covid-19-shutdown-4042581/
+
+
+https://perma.cc/D6EY-YAVQ
 
 
 
@@ -288,20 +310,25 @@ https://www.india.com/news/world/bangladesh-govt-decides-not-to-extend-covid-19-
 *No comment provided* 
 
 *Sources*:
- https://verfassungsblog.de/bangladeshs-unofficial-emergency-managing-the-covid-19-crisis-by-notifications/
-
-
-
-https://www.aa.com.tr/en/asia-pacific/covid-19-bangladesh-extends-lockdown-until-may-30/1840126
-
-
-
-https://www.india.com/news/world/bangladesh-govt-decides-not-to-extend-covid-19-shutdown-4042581/
+ https://perma.cc/XT5A-8ULF
 
 
 
 
-https://tbsnews.net/coronavirus-chronicle/covid-19-bangladesh/general-holiday-not-extend-further-state-minister-85870
+
+https://perma.cc/6MDD-VBWG
+
+
+
+
+
+https://perma.cc/B7DN-L4NT
+
+
+
+
+
+https://perma.cc/BUA5-3Z9K
 
 
 
@@ -431,12 +458,13 @@ https://tbsnews.net/coronavirus-chronicle/covid-19-bangladesh/general-holiday-no
  I did not find any information indicating that the lawmaking role of the legislature has been limited due to the emergency measures taken with reference to the Covid-19 pandemic. 
 
 *Sources*:
- https://verfassungsblog.de/bangladeshs-unofficial-emergency-managing-the-covid-19-crisis-by-notifications/
+ https://perma.cc/343A-VSYF
 
 
 
 
-https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
+
+https://perma.cc/GJ88-RECJ
 
 
 
@@ -475,10 +503,9 @@ https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
  A 'two day special session' was suspended in March 2020. However, I did not find information on other regular sessions within the Bangladesh legislature being postponed or suspended. 
 
 *Sources*:
- https://thefinancialexpress.com.bd/national/special-parliament-session-on-bangabandhu-centenary-suspended-1584795617
+ https://perma.cc/HF56-TE63
 
-
-https://www.deccanherald.com/international/bangladesh-postpones-special-parliament-session-over-coronavirus-816152.html
+https://perma.cc/CG5J-4VFK
 
 
 
@@ -517,12 +544,10 @@ https://www.deccanherald.com/international/bangladesh-postpones-special-parliame
  A 'two day special session' was suspended in March 2020. However, I did not find information on other regular session within the Bangladesh legislature being postponed or suspended. 
 
 *Sources*:
- https://thefinancialexpress.com.bd/national/special-parliament-session-on-bangabandhu-centenary-suspended-1584795617
+ https://perma.cc/HF56-TE63
 
+https://perma.cc/28YZ-8V7M
 
-
-
-https://www.deccanherald.com/international/bangladesh-postpones-special-parliament-session-over-coronavirus-816152.html
 
 
 
@@ -568,19 +593,37 @@ https://www.deccanherald.com/international/bangladesh-postpones-special-parliame
 The lockdown in April 2021 in Bangladesh was imposed on a national level. 
 
 *Sources*:
- https://verfassungsblog.de/bangladeshs-unofficial-emergency-managing-the-covid-19-crisis-by-notifications/
-
-https://www.aa.com.tr/en/asia-pacific/covid-19-bangladesh-extends-lockdown-until-may-30/1840126
-
-https://www.india.com/news/world/bangladesh-govt-decides-not-to-extend-covid-19-shutdown-4042581/
+ https://perma.cc/5Z2U-4DYY
 
 
-https://tbsnews.net/coronavirus-chronicle/covid-19-bangladesh/general-holiday-not-extend-further-state-minister-85870
-
-https://www.dhakatribune.com/bangladesh/2021/04/20/lockdown-extended-till-april-28-as-covid-deaths-continue-to-rise-2
 
 
-https://www.thedailystar.net/bangladesh/news/stricter-weeklong-lockdown-april-22-state-minister-2080045
+
+https://perma.cc/6X8Z-QDVF
+
+
+
+
+
+https://perma.cc/UED9-9KC6
+
+
+
+
+
+https://perma.cc/3PJE-TF5M
+
+
+
+
+
+https://perma.cc/C6JZ-JXET
+
+
+
+
+
+https://perma.cc/QZM2-P5ZB
 
 
 
@@ -626,10 +669,13 @@ https://www.thedailystar.net/bangladesh/news/stricter-weeklong-lockdown-april-22
 However, state run hospitals have been accused of discrimination when it was reported that two hospitals dedicated to fighting Covid-19 turned away patients from the Bihari community. 
 
 *Sources*:
- https://www.dawn.com/news/1551532
+ https://perma.cc/JH2Z-WEM3
 
 
-https://www.hindustantimes.com/world-news/bangladesh-virus-hospitals-accused-of-rejecting-slum-dwellers/story-03LxQiANx3gnomOltJKKKK.html
+
+
+
+https://perma.cc/JE4C-7F6N
 
 
 
@@ -678,10 +724,13 @@ https://www.hindustantimes.com/world-news/bangladesh-virus-hospitals-accused-of-
  I did not find any information related to this. 
 
 *Sources*:
- https://verfassungsblog.de/bangladeshs-unofficial-emergency-managing-the-covid-19-crisis-by-notifications/
+ https://perma.cc/ZYT2-NETS
 
 
-https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
+
+
+
+https://perma.cc/76V9-HYJH
 
 
 
@@ -725,8 +774,13 @@ https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
  The 'general holiday' did not include any measures that limited media freedom. 
 
 *Sources*:
- https://verfassungsblog.de/bangladeshs-unofficial-emergency-managing-the-covid-19-crisis-by-notifications/
-https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
+ https://perma.cc/3HPQ-UUR7
+
+
+
+
+
+https://perma.cc/32K8-X7D8
 
 
 
@@ -854,20 +908,17 @@ https://www.constituteproject.org/constitution/Bangladesh_2014.pdf?lang=en
 I did not find new cases of de-facto limitations on reporting about the nature of Covid-19 in 2021. However, as the media environment in Bangladesh is heavily controlled and there has been no indication of improvements, I have continued to code this variable as 1. 
 
 *Sources*:
- https://rsf.org/en/news/bangladeshi-journalists-cartoonist-arrested-covid-19-coverage
+ https://perma.cc/62KY-NSVG
 
+https://perma.cc/3AST-NDSA
 
-https://www.dw.com/en/attacked-and-harassedhow-bangladeshi-journalists-are-paying-the-price-for-covid-19-reporting/a-53329494
+https://perma.cc/2LE2-GHAZ
 
+https://perma.cc/E7FD-D9SD
 
-https://www.hrw.org/news/2020/03/31/bangladesh-end-wave-covid-19-rumor-arrests
+https://perma.cc/Z2KF-RE3A
 
-"https://www.amnesty.org/en/latest/news/2020/10/bangladesh-escalating-attacks-on-the-media-must-stop/
-
-https://cpj.org/2020/06/bangladeshi-authorities-charge-5-journalists-detain-2-under-digital-security-act-for-covid-19-reporting/"
-
-
-https://www.amnesty.org/download/Documents/ASA1393642018ENGLISH.PDF
+https://perma.cc/AVL8-5CSX
 
 
 
@@ -913,9 +964,13 @@ Police arrested journalists Tasneem Khalil and Shahed Alam, cartoonist Ahmed Kab
 I did not find instances where the media has faced de-facto limitations on reporting about the government response to the pandemic in the first two quarters of 2021. However, there have been instances of authorities arresting doctors, opposition activists and students for the comments on the government's response to the pandemic. 
 
 *Sources*:
- https://www.hrw.org/news/2020/05/07/bangladesh-mass-arrests-over-cartoons-posts
+ https://perma.cc/CF39-888C
 
-https://ipi.media/covid19-media-freedom-monitoring/
+
+
+
+
+https://perma.cc/PPF6-FHLR
 
 
 
@@ -963,20 +1018,37 @@ Reports explain that the law imposes serious restrictions on freedom of expressi
  
 
 *Sources*:
- https://monitor.civicus.org/updates/2020/06/19/journalists-bangladesh-face-criminalisation-amid-pandemic-while-critics-are-silenced/
+ https://perma.cc/L44W-JSMW
 
 
-https://www.cirt.gov.bd/wp-content/uploads/2018/12/Digital-Security-Act-2018-English-version.pdf
-
-https://www.amnesty.org/en/latest/news/2018/09/bangladesh-new-digital-security-act-imposes-dangerous-restrictions-on-freedom-of-expression/
-
-https://rsf.org/en/bangladesh
 
 
-https://www.hrw.org/asia/bangladesh
+
+https://perma.cc/Z4VY-ZWDV
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/bangladesh/
+
+
+
+https://perma.cc/4YYV-9U5G
+
+
+
+
+
+https://perma.cc/AB3B-QRED
+
+
+
+
+
+https://perma.cc/3JTD-J3QS
+
+
+
+
+
+https://perma.cc/3Y76-ZURM
 
 
 
@@ -1019,13 +1091,19 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/bangladesh/
  I did not find any information on this. 
 
 *Sources*:
- https://rsf.org/en/bangladesh
+ https://perma.cc/7248-YGFV
 
 
-https://www.hrw.org/asia/bangladesh
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/bangladesh/
+
+https://perma.cc/SMD7-67R6
+
+
+
+
+
+https://perma.cc/S296-PLED
 
 
 
@@ -1067,17 +1145,31 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/bangladesh/
  I did not find information on the government or it's agents verbally harassing journalists reporting specfically on Covid-19. However journalists in Bangladesh are regularly harassed. And this has continued to be the case in the past year. 
 
 *Sources*:
- https://rsf.org/en/bangladesh
+ https://perma.cc/F7LF-ZA99
 
 
-https://www.hrw.org/asia/bangladesh
 
 
-https://www.amnesty.org/en/countries/asia-and-the-pacific/bangladesh/
 
-https://www.aa.com.tr/en/asia-pacific/bangladesh-senior-journalist-falls-victim-to-controversial-law/2016581
+https://perma.cc/2MDX-B5DT
 
-https://www.dw.com/en/attacked-and-harassedhow-bangladeshi-journalists-are-paying-the-price-for-covid-19-reporting/a-53329494
+
+
+
+
+https://perma.cc/CLW3-NA7N
+
+
+
+
+
+https://perma.cc/JRX8-4HKV
+
+
+
+
+
+https://perma.cc/QB7N-KCNK
 
 
 
@@ -1123,11 +1215,19 @@ https://www.dw.com/en/attacked-and-harassedhow-bangladeshi-journalists-are-payin
 I did not fine instances of the government or its agents physically harassing journalists due to reporting on Covid-19 in 2021. However, harassment of journalists in general in Bangladesh is rampant. Human Rights Watch reported that at least 247 were subjected to attacks, harrassment and intimidation by state officials in 2020. Since there is no evidence that the situation has improved, I have continued to code this variable as 1. 
 
 *Sources*:
- https://www.dw.com/en/attacked-and-harassedhow-bangladeshi-journalists-are-paying-the-price-for-covid-19-reporting/a-53329494
+ https://perma.cc/V42A-LVY6
 
-https://www.aa.com.tr/en/asia-pacific/bangladesh-should-keep-reporters-safe-amid-lockdown/1821757
 
-https://www.hrw.org/news/2021/05/03/un-stand-bangladeshi-journalists-press-freedom-day
+
+
+
+https://perma.cc/N8XD-9CS9
+
+
+
+
+
+https://perma.cc/54HE-2JYX
 
 
 
@@ -1171,7 +1271,7 @@ https://www.hrw.org/news/2021/05/03/un-stand-bangladeshi-journalists-press-freed
  I did not find any information on covid-19 related matters deviating from the official information provided by the WHO. 
 
 *Sources*:
- https://dghs.gov.bd/index.php/en/home/5343-covid-19-update
+ https://perma.cc/2ZNT-KBPT
 
 
 
@@ -1217,9 +1317,13 @@ https://www.hrw.org/news/2021/05/03/un-stand-bangladeshi-journalists-press-freed
 There have been no reported cases of security forces engaging in physical violence to execute the emergency measures since the 10-day “general holiday” ended in March 2020. 
 
 *Sources*:
- https://www.dhakatribune.com/bangladesh/2020/03/27/covid-19-police-action-during-social-distancing-draws-flak
+ https://perma.cc/696P-8Y8J
 
-https://tbsnews.net/coronavirus-chronicle/coronavirus-bangladesh/police-enforce-social-distancing-through-humiliation
+
+
+
+
+https://perma.cc/97U6-6NJU
 
 
 
@@ -1261,17 +1365,14 @@ https://tbsnews.net/coronavirus-chronicle/coronavirus-bangladesh/police-enforce-
  The military has been deployed to enforce the social distancing measures that have been employed in April 2020. Military deployment was again boosted in June 2020. I found no indication that the military deployment has stopped. 
 
 *Sources*:
- https://www.reuters.com/article/health-coronavirus-southasia/bangladesh-extends-coronavirus-lockdown-indias-modi-mulls-longer-restrictions-idUSL3N2BZ028
+ https://perma.cc/GP3S-TCM7
 
+https://perma.cc/7HCS-5TYA
 
-https://www.thehindu.com/news/international/covid-19-bangladesh-army-says-troops-will-be-on-streets-until-govt-recalls/article31197469.ece
+https://perma.cc/4CEX-P3YS
 
+https://perma.cc/G7MZ-C9Y4
 
-https://www.deccanherald.com/international/covid-19-bangladesh-army-says-troops-will-be-on-streets-until-govt-recalls-818851.html
+https://web.archive.org/web/20200927152921/https://www.afd.gov.bd/role-of-armed-forces-against-covid-19
 
-
-https://www.aa.com.tr/en/asia-pacific/bangladesh-to-deploy-more-troops-as-virus-deaths-peak/1878919
-
-https://www.afd.gov.bd/role-of-armed-forces-against-covid-19
-
-https://www.dhakatribune.com/bangladesh/2021/04/20/lockdown-extended-till-april-28-as-covid-deaths-continue-to-rise-2
+https://perma.cc/369C-T7FY

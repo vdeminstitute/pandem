@@ -45,15 +45,43 @@
  Austria has a state of emergency legislation, but this has not been used. Instead, Austria have implemented a number of new laws (e.g. Covid-19 Law, Second Covid-19 Law and then subsequent legislation for the reopening of Austria, as well as a larger amendment of the Covid-19 Law on September 26 2020) within the existing legal framework, and based primarily on the Epidemics Act. These amendments have continued over the year, and they have also issued legislation of gradual re-opening which will come into effect on 2021-05-18. Through the new laws, the government has been given an extraordinary set of powers to address Covid-19, and this is therefore coded as 4. Worth noting is that the current primary legal instrument for taking measures on Covid-19 is the ”COVID-19 Emergency Measures Act - COVID-19-MG”. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2020_I_12/BGBLA_2020_I_12.pdfsig
-https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Rechtliches.html
+ https://perma.cc/Q4E8-W7BA
 
-https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011073
 
-https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Rechtliches.html
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+
+
+
+https://perma.cc/54HG-8SYJ
+
+
+
+
+
+https://perma.cc/P8LG-8HTE
+
+
+
+
+
+https://perma.cc/WB3S-QNDY
+
+
+
+
+
+https://perma.cc/EKT3-ZSX9
+
+
+
+
+
+https://perma.cc/SNZ5-V3R4
+
+
+
+
+
+https://perma.cc/JN57-HZ9B
 
 
 
@@ -92,15 +120,43 @@ https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%
  Austria has introduced several laws to deal with Covid-19 in Austria (e.g. Covid-19 Law, Second Covid-19 Law) but the main legislation is the Covid-19 Law, which was saw a set of larger amendments on September 26 2020 (as well as further amendments over time) that updated the measures that can be taken by the government. The Covid-19 Law is therefore regarded the name of the main legal instrument in all the periods, but it is important to note that the legislation has went through changes during this period, and different versions have had somewhat differing names (e.g. COVID-19 Emergency Measures Act - COVID-19-MG). 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2020_I_12/BGBLA_2020_I_12.pdfsig
-https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Rechtliches.html
+ https://perma.cc/7U9A-GN5C
 
-https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011073
 
-https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Rechtliches.html
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+
+
+
+https://perma.cc/86HZ-C2ZA
+
+
+
+
+
+https://perma.cc/8SX4-QQ35
+
+
+
+
+
+https://perma.cc/KJY4-3LT4
+
+
+
+
+
+https://perma.cc/S256-V4WK
+
+
+
+
+
+https://perma.cc/S4RJ-KT5P
+
+
+
+
+
+https://perma.cc/H2C6-7CV6
 
 
 
@@ -139,15 +195,43 @@ https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%
  This is the initial date when the Covid-19 Law came into force, but amendments to it has been made since. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2020_I_12/BGBLA_2020_I_12.pdfsig
-https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Rechtliches.html
+ https://perma.cc/7U9A-GN5C
 
-https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011073
 
-https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Rechtliches.html
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+
+
+
+https://perma.cc/86HZ-C2ZA
+
+
+
+
+
+https://perma.cc/8SX4-QQ35
+
+
+
+
+
+https://perma.cc/KJY4-3LT4
+
+
+
+
+
+https://perma.cc/S256-V4WK
+
+
+
+
+
+https://perma.cc/S4RJ-KT5P
+
+
+
+
+
+https://perma.cc/H2C6-7CV6
 
 
 
@@ -228,9 +312,13 @@ https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%
  The officially declared time limit for the Covid-19 Law, the main legal instrument, was 31 december 2020. However, when amending the Covid-19 law on September 26 2020, the time limit was changed to 2021-06-30. 
 
 *Sources*:
- https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011073
+ https://perma.cc/ZKW9-GJMM
 
-https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Rechtliches.html
+
+
+
+
+https://perma.cc/ALD9-J9ET
 
 
 
@@ -269,15 +357,43 @@ https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Rec
  In the initial announcement, all measures taken within the Covid-19 Law was due to end at 13th of Apri 2020. The Covid-19 Law had an initial end date in itself as well, which was at 2020-12-31. However, by the amendment on September 26 2020, the end date was changed to 2021-06-30. It also added a clause that makes it possible to extend it to 2021-12-31. The end date as of now is still 2021-06-30, and therefore coded for these periods. Note however that the possibility of extenson to 2021-12-31 remains in the text of the law. Since the end date inQ2 of 2020 was still 2020-12-31, this is the date coded here, but as the end date changed in September 2020, the current end date is coded for the rest of the periods. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2020_I_12/BGBLA_2020_I_12.pdfsig
-https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Rechtliches.html
+ https://perma.cc/7U9A-GN5C
 
-https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011073
 
-https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Rechtliches.html
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+
+
+
+https://perma.cc/86HZ-C2ZA
+
+
+
+
+
+https://perma.cc/8SX4-QQ35
+
+
+
+
+
+https://perma.cc/KJY4-3LT4
+
+
+
+
+
+https://perma.cc/S256-V4WK
+
+
+
+
+
+https://perma.cc/S4RJ-KT5P
+
+
+
+
+
+https://perma.cc/H2C6-7CV6
 
 
 
@@ -319,9 +435,13 @@ https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%
  The National Council, the lower house in the Austrian parliament, have voted for the Covid-19 Law, so the law needed approval in order to take effect. The parliament have also been involved in amending this law, and for instance voted to wait with an expansion of available restrictions for 8 weeks to be voted on again. 
 
 *Sources*:
- https://www.parlament.gv.at/PAKT/VHG/XXVII/BNR/BNR_00016/index.shtml
-https://www.parlament.gv.at/PAKT/VHG/XXVII/A/A_01324/index.shtml#tab-Uebersicht
- 
+ https://perma.cc/V28M-AVLB
+
+
+
+
+
+https://perma.cc/FNP7-CMMW
 
 
 
@@ -363,7 +483,7 @@ https://www.parlament.gv.at/PAKT/VHG/XXVII/A/A_01324/index.shtml#tab-Uebersicht
  The National Council, the lower house in the Austrian parliament, have voted for the Covid-19 Law. 
 
 *Sources*:
- https://www.parlament.gv.at/PAKT/VHG/XXVII/BNR/BNR_00016/index.shtml
+ https://perma.cc/ZU5F-7VV5
 
 
 
@@ -409,18 +529,19 @@ https://www.parlament.gv.at/PAKT/VHG/XXVII/A/A_01324/index.shtml#tab-Uebersicht
  The first Covid-19 Law, and all subsequent laws, amendments and extensions, are passed by the parliament. There's no indication of the lawmaking role of the parliament being decreased during or due to this first Covid-19 Law, and no mention of such measures or consequences in Covid-19 Law text. The parliament has also voted no on some extensions of restrictions, postponing such legislation for 8 weeks to be voted on again. 
 
 *Sources*:
- https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2020_I_12/BGBLA_2020_I_12.pdfsig
-https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Rechtliches.html
+ https://perma.cc/32JV-8HF4
 
-https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011073
+https://perma.cc/WL4S-87XP
 
-https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Rechtliches.html
+https://perma.cc/NJ3Y-LYE5
 
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic-_may_2020.pdf
+https://perma.cc/FU8J-VYCG
 
-https://democracy-reporting.org/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-Covid-19/
+https://perma.cc/726Q-2JUZ
 
-https://www.parlament.gv.at/PAKT/VHG/XXVII/A/A_01324/index.shtml#tab-Uebersicht
+https://web.archive.org/web/20200620225904/https://democracy-reporting.org/ar/dri_publications/the-rule-of-law-stress-test-eu-member-states-responses-to-covid-19/
+
+https://perma.cc/3QGG-PRZF
 
 
 
@@ -542,11 +663,31 @@ https://www.parlament.gv.at/PAKT/VHG/XXVII/A/A_01324/index.shtml#tab-Uebersicht
  From the policy responses recorded by ACAPS, there is some smaller variation in measures taken between different states in the federation. However, the main emergency measures are decided and enacted at the federal level. In the second quarter of 2021, the restrictions have been more specific. While some have been country-wide, such as night-time curfews, extra lockdown measures have been implemented or extended in only parts of the country. This is therefore a larger, sub-national variation, and coded 2 for this period. 
 
 *Sources*:
- https://www.acaps.org/covid19-government-measures-dataset
-https://www.austria.info/en/service-and-facts/coronavirus-information
-https://www.garda.com/crisis24/news-alerts/466186/austria-authorities-extend-Covid-19-lockdown-in-vienna-until-may-2-update-31
-https://www.garda.com/crisis24/news-alerts/462476/austria-local-authorities-extend-Covid-19-lockdowns-until-april-11-in-lower-austria-and-burgenland-update-28
-https://www.garda.com/crisis24/news-alerts/467001/austria-authorities-extend-Covid-19-lockdown-in-lower-austria-until-may-2-update-32
+ https://perma.cc/M937-C5H5
+
+
+
+
+
+https://perma.cc/W87D-BE32
+
+
+
+
+
+https://perma.cc/84GQ-ZEG8
+
+
+
+
+
+https://perma.cc/59A6-YPZT
+
+
+
+
+
+https://perma.cc/V6BB-KAYQ
 
 
 
@@ -590,12 +731,37 @@ https://www.garda.com/crisis24/news-alerts/467001/austria-authorities-extend-Cov
  The EU agency for fundamental rights, Human Rights Watch and Amnesty international report no discrimination within the emergency response, and no other indication of discrimination has been found in the Covid-19 response. This variable is therefore coded as 0 for all periods. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic_november_2020.pdf
-https://www.amnesty.org/en/search/?country=38426&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic_july_2020_.pdf
-https://www.hrw.org/news?country[]=9582
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+ https://perma.cc/9CXM-48PJ
+
+
+
+
+
+https://perma.cc/3Y53-VXR5
+
+
+
+
+
+https://perma.cc/9ACH-VDZC
+
+
+
+
+
+https://perma.cc/G6FV-DA5E
+
+
+
+
+
+https://perma.cc/P5RN-RXEZ
+
+
+
+
+
+https://perma.cc/55S5-MKVP
 
 
 
@@ -644,11 +810,31 @@ https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%
  Neither the EU agency for fundamental rights, Human Rights Watch or Amnesty international has reported any incidents of violations of non-derogable rights, and no other indication has been found that that has occurred in Austria's Covid-19 response. This is therefore coded as 0 for all periods. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic-_may_2020.pdf
-https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2020_I_12/BGBLA_2020_I_12.pdfsig
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic_july_2020_.pdf
-https://www.hrw.org/news?country[]=9582
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+ https://perma.cc/3D33-4588
+
+
+
+
+
+https://perma.cc/4B57-2UC5
+
+
+
+
+
+https://perma.cc/MH95-9HC8
+
+
+
+
+
+https://perma.cc/GQX4-AHJQ
+
+
+
+
+
+https://perma.cc/8SS3-9G2F
 
 
 
@@ -692,12 +878,31 @@ https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%
  The emergency measures do not place any de jure limitations on media. 
 
 *Sources*:
- https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2020_I_12/BGBLA_2020_I_12.pdfsig
+ https://perma.cc/3A9H-G52Z
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Austria
-https://rsf.org/en/austria
-https://cpj.org/europe/austria/
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+
+
+
+
+https://perma.cc/9QWY-NSRU
+
+
+
+
+
+https://perma.cc/54QB-4QUP
+
+
+
+
+
+https://perma.cc/ZH2A-QEN6
+
+
+
+
+
+https://perma.cc/3ZNR-E4GM
 
 
 
@@ -736,12 +941,31 @@ https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%
  The emergency measures do not place any de jure limitations on media. 
 
 *Sources*:
- https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2020_I_12/BGBLA_2020_I_12.pdfsig
+ https://perma.cc/9CX4-WBR7
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Austria
-https://rsf.org/en/austria
-https://cpj.org/europe/austria/
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+
+
+
+
+https://perma.cc/6ARS-9XD6
+
+
+
+
+
+https://perma.cc/4T7X-PE7Q
+
+
+
+
+
+https://perma.cc/2UAE-2UPW
+
+
+
+
+
+https://perma.cc/9XDB-22FE
 
 
 
@@ -780,12 +1004,31 @@ https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%
  The emergency measures do not place any de jure limitations on media. 
 
 *Sources*:
- https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2020_I_12/BGBLA_2020_I_12.pdfsig
+ https://perma.cc/3A9H-G52Z
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Austria
-https://rsf.org/en/austria
-https://cpj.org/europe/austria/
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+
+
+
+
+https://perma.cc/9QWY-NSRU
+
+
+
+
+
+https://perma.cc/54QB-4QUP
+
+
+
+
+
+https://perma.cc/ZH2A-QEN6
+
+
+
+
+
+https://perma.cc/3ZNR-E4GM
 
 
 
@@ -827,15 +1070,17 @@ https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%
  There is no reports from the EU agency of fundamental rights, Reporters Without Borders, Committee to Protect Journalists or International Press Institute that any de facto limitations on media reporting about Covid-19 have been placed, and no other indication of such limitations has been found. 
 
 *Sources*:
- 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Austria
+ https://perma.cc/3HNR-NRY7
 
-https://rsf.org/en/austria
-https://cpj.org/europe/austria/BG6§
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+https://perma.cc/2TPG-GMJT
 
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic_november_2020.pdf
+https://cpj.org/europe/austria/BG6<a4>
+
+https://perma.cc/7T8T-EDPN
+
+https://perma.cc/X97G-2W73
+
+https://perma.cc/U2MB-PE4T
 
 
 
@@ -877,15 +1122,17 @@ https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_p
  There is no reports from the EU agency of fundamental rights, Reporters Without Borders, Committee to Protect Journalists or International Press Institute that any de facto limitations on media reporting about the government response to Covid-19 have been placed, and no other indication of such limitations has been found. 
 
 *Sources*:
- 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Austria
+ https://perma.cc/86LL-U5CM
 
-https://rsf.org/en/austria
-https://cpj.org/europe/austria/BG6§
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+https://perma.cc/4Z67-VK3F
 
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic_november_2020.pdf
+https://cpj.org/europe/austria/BG6<a4>
+
+https://perma.cc/WXD9-RDH5
+
+https://perma.cc/7M4H-FH6J
+
+https://perma.cc/77GX-TQQV
 
 
 
@@ -927,15 +1174,17 @@ https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_p
  There is no reports from the EU agency of fundamental rights, Reporters Without Borders, Committee to Protect Journalists or International Press Institute that any de facto limitations on media reporting about non-Covid-19 related news have been placed, and no other indication of such limitations has been found. 
 
 *Sources*:
- 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Austria
+ https://perma.cc/86LL-U5CM
 
-https://rsf.org/en/austria
-https://cpj.org/europe/austria/BG6§
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+https://perma.cc/4Z67-VK3F
 
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic_november_2020.pdf
+https://cpj.org/europe/austria/BG6<a4>
+
+https://perma.cc/WXD9-RDH5
+
+https://perma.cc/7M4H-FH6J
+
+https://perma.cc/77GX-TQQV
 
 
 
@@ -978,23 +1227,27 @@ https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_p
  There is no reports from the EU agency of fundamental rights, Reporters Without Borders, Committee to Protect Journalists or International Press Institute that there has been any limitations in access to information, and no other indication of such limitations has been found. Note that there has been ongoing criticism toward Austria’s lack of rigorous FOI-legislation, but this critique has been in place long before Covid-19, and has not to do with (nor seems to have exacerbated) by the pandemic. 
 
 *Sources*:
- https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Austria
+ https://perma.cc/7RQF-REVN
 
-https://rsf.org/en/austria
-https://cpj.org/europe/austria/BG6§
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+https://perma.cc/7FNE-NSHE
 
-https://ipi.media/austrias-journalists-face-roadblocks-to-accessing-official-information/
+https://cpj.org/europe/austria/BG6<a4>
 
-"
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Austria
+https://perma.cc/YS38-4GXJ
 
-https://rsf.org/en/austria
-https://cpj.org/europe/austria/BG6§
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+https://perma.cc/H9HB-3FPN
 
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic_november_2020.pdf
+https://perma.cc/QRL9-MNVB
+
+https://perma.cc/7M8N-ZVEQ
+
+https://perma.cc/LFR6-DNK7
+
+https://perma.cc/6JS5-RANW
+
+https://perma.cc/8D4H-R5PC
+
+
 
 
 
@@ -1036,16 +1289,19 @@ https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_p
  There is no reports from the EU agency of fundamental rights, Reporters Without Borders, Committee to Protect Journalists or International Press Institute that there has been any verbal harassment of journalists. 
 
 *Sources*:
- https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Austria
+ https://perma.cc/4LAV-WCDS
 
-https://rsf.org/en/austria
-https://cpj.org/europe/austria/BG6§
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+https://perma.cc/Y9FJ-GDJ2
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Austria
+https://cpj.org/europe/austria/BG6<a4>
 
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic_november_2020.pdf
+https://perma.cc/D8XH-JQ8X
+
+https://perma.cc/H2D6-7PAJ
+
+https://perma.cc/4GRC-CGF2
+
+https://perma.cc/9LJB-AJGE
 
 
 
@@ -1087,16 +1343,19 @@ https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_p
  There is no reports from the EU agency of fundamental rights, Reporters Without Borders, Committee to Protect Journalists or International Press Institute that there has been any physical harassment of journalists. 
 
 *Sources*:
- https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Austria
+ https://perma.cc/CP3H-GS9X
 
-https://rsf.org/en/austria
-https://cpj.org/europe/austria/BG6§
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
+https://perma.cc/KGX9-3RRU
 
-https://ipi.media/countries-see-all/?type_of_content=News%20and%20Monitoring,From%20Our%20Network&country=Austria
+https://cpj.org/europe/austria/BG6<a4>
 
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic-_may_2020.pdf
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic_november_2020.pdf
+https://perma.cc/7A7A-99S5
+
+https://perma.cc/U9BH-YNSD
+
+https://perma.cc/6QBZ-F73L
+
+https://perma.cc/JG99-7BWV
 
 
 
@@ -1140,8 +1399,13 @@ https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_p
  The information provided on Covid-19 are aligned with that of the WHO, and there are no indications that Austria has provided any disinformation. 
 
 *Sources*:
- https://www.sozialministerium.at/en/Coronavirus/New-coronavirus-(COVID-19).html
-https://www.austria.info/en/service-and-facts/coronavirus-information#safety-measures
+ https://perma.cc/PQR5-M6XA
+
+
+
+
+
+https://perma.cc/N6AP-8BTV
 
 
 
@@ -1185,12 +1449,37 @@ https://www.austria.info/en/service-and-facts/coronavirus-information#safety-mea
  The EU agency for fundamental rights, Human Rights Watch and Amnesty International make no mention of any physical violence occurring when enforcing the emergency measures, and no other indications of such violence has been found. There have been some large protests against the restrictions, especially during the first quarter of 2021. These have also been violent in parts, but the news reports on this do not report any abusive enforcement or the like. 
 
 *Sources*:
- https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic-_may_2020.pdf
-https://www.amnesty.org/en/search/?country=38426&resourceType=newsarticle&sort=date
-https://fra.europa.eu/sites/default/files/fra_uploads/at_report_on_coronavirus_pandemic_july_2020_.pdf
-https://www.hrw.org/news?country[]=9582
-https://www.europarl.europa.eu/cmsdata/231907/Overview%20Covid%20Measures%20DRF%2024%20LIBE.pdf
-https://www.thelocal.at/20210201/vienna-coronavirus-protesters-tried-to-storm-and-occupy-austrian-parliament/
+ https://perma.cc/LZ84-FPAS
+
+
+
+
+
+https://perma.cc/83CA-NRVV
+
+
+
+
+
+https://perma.cc/9XBM-V8EZ
+
+
+
+
+
+https://perma.cc/EGK8-H23P
+
+
+
+
+
+https://perma.cc/JAA5-MUZ6
+
+
+
+
+
+https://perma.cc/HX4K-RMF8
 
 
 
@@ -1232,19 +1521,52 @@ https://www.thelocal.at/20210201/vienna-coronavirus-protesters-tried-to-storm-an
  In Q2 of 2020, Reuters report that Austria is mobilizing reserve soldiers to aid various emergency measures, including the police, but there is no mentioning of them enforcing confinement measures themselves. No such indications have been found in the other sources either during Q2 and Q3, and ACAPS for instance does not report any military deployment for enforcing restrictions (although they do report that military has been used to help secure borders in order to relieve the police from these duties). This is therefore coded as 0 for Q2 and Q3 in 2020. However, Austrian authorities report that soldiers have been deployed around the borders of Tyrol, Radstadt and other places to control passings in and out of the region. The earliest reports of this are found in December 18 2020, and is currently in effect (as of May 12), and is thus coded 1 from that point onward. 
 
 *Sources*:
- https://www.reuters.com/article/us-health-coronavirus-austria/austria-mobilizes-military-reserves-to-fight-coronavirus-idUSKBN21A2J8
+ https://perma.cc/4N2Q-ZMPR
 
-https://www.acaps.org/Covid-19-government-measures-dataset
-https://www.bundesheer.at/archiv/a2020/corona/aktuell.php
 
-https://www.bundesheer.at/archiv/a2020/corona/artikel.php?id=5914
 
-https://www.bundesheer.at/archiv/a2020/corona/artikel.php?id=5911
 
-https://www.bundesheer.at/archiv/a2020/corona/artikel.php?id=5901
 
-https://www.bundesheer.at/archiv/a2020/corona/artikel.php?id=5898
+https://perma.cc/R2NT-EGXR
 
-https://www.bundesheer.at/archiv/a2020/corona/artikel.php?id=5881
 
-https://www.bundesheer.at/archiv/a2020/corona/artikel.php?id=5856
+
+
+
+https://perma.cc/Z9BF-65LL
+
+
+
+
+
+https://perma.cc/E7FH-4MHQ
+
+
+
+
+
+https://perma.cc/NZM3-29RP
+
+
+
+
+
+https://perma.cc/L8PP-KCS7
+
+
+
+
+
+https://perma.cc/HGF8-AQNA
+
+
+
+
+
+https://perma.cc/V2NA-GBP9
+
+
+
+
+
+https://perma.cc/JB5Y-NJLJ

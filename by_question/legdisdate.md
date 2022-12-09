@@ -22,9 +22,7 @@
  The Wolesi Jirga (House of People) of Afghanistan has not been suspended. The House continues to meet physically, but with a limited number of plenary sessions and committee meetings. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-
-
+ https://perma.cc/6PWJ-JM24
 
 
 https://www.pajhwok.com/en/tag/parliament-2
@@ -252,10 +250,9 @@ https://www.pajhwok.com/en/tag/parliament-2
  A 'two day special session' was suspended in March 2020. However, I did not find information on other regular sessions within the Bangladesh legislature being postponed or suspended. 
 
 *Sources*:
- https://thefinancialexpress.com.bd/national/special-parliament-session-on-bangabandhu-centenary-suspended-1584795617
+ https://perma.cc/HF56-TE63
 
-
-https://www.deccanherald.com/international/bangladesh-postpones-special-parliament-session-over-coronavirus-816152.html
+https://perma.cc/CG5J-4VFK
 
 
 
@@ -557,12 +554,10 @@ https://www.deccanherald.com/international/bangladesh-postpones-special-parliame
 I did not find any information suggesting that Cambodia's national legislature was dissolved in Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia
+ https://perma.cc/8EA7-T787
 
 
-
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/cambodia/
+https://perma.cc/DP9B-GGL2
 
 
 
@@ -713,16 +708,10 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/cambodia/
  
 
 *Sources*:
- 
-
-
-
-[1]
-https://www.theguardian.com/global-development/2020/feb/24/coronavirus-china-wuhan-lockdown-economy-south-korea-npc-annual-parliament
-
-
+ [1]
+https://perma.cc/86EG-S9DN
 [2]
-https://www.dw.com/en/coronavirus-china-postpones-parliament-meeting-over-virus-outbreak/a-52498526
+https://perma.cc/M56K-FWL2
 
 
 
@@ -1423,12 +1412,9 @@ https://www.dw.com/en/coronavirus-china-postpones-parliament-meeting-over-virus-
 
 *Sources*:
  [1]
-http://www.dpr.go.id/en/berita/index/category/bksap
-
-
-
+https://perma.cc/D4XQ-28ZC
 [2]
-https://www.bbc.com/news/topics/cmj34zmw7vmt/indonesia
+https://perma.cc/U9N5-TH3D
 
 
 
@@ -1628,11 +1614,10 @@ https://www.bbc.com/news/topics/cmj34zmw7vmt/indonesia
  I did not find any information suggesting that Japan's national legislature was dissolved across all the time periods. 
 
 *Sources*:
- http://www.shugiin.go.jp/internet/index.nsf/html/index_e.htm
+ https://perma.cc/83YK-63EB
 
 
-
-https://www.bbc.com/news/topics/cjnwl8q4g7nt/japan
+https://perma.cc/BSX8-D2TX
 
 
 
@@ -1832,13 +1817,16 @@ https://www.bbc.com/news/topics/cjnwl8q4g7nt/japan
  Prime Minister Thomas Thabane initially declared a state of emergency under 23(1) of the Constitution to prevent the spread of Covid-19 on 18 March 2020 (1). Two days after his speech adopting the state of emergency, Prime Minister Thabane issued a legal notice declaring the prorogation (temporary dissolution) of parliament from 20 March to 19 June 2020 (2). On 17 April 2020, the High Court of Lesotho ruled that "the prorogation is not a blunt instrument available to a PM … to fight political battles or to frustrate parliament in the performance of its constitutional roles" (3,4). It immediately reinstated the parliament. 
 
 *Sources*:
- https://www.gov.ls/wp-content/uploads/2020/03/COVID-19-DECLARED-NATIONAL-EMERGENCY.pdf
+ https://perma.cc/EXS5-EFSJ
 (1)
-https://lesotholii.org/ls/ParliamentProrogation.pdf
+
+https://perma.cc/L6XX-C7CD
 (2)
-https://lesotholii.org/ls/judgment/high-court-constitutional-division/2020/1-0
+
+https://perma.cc/AM42-9BRD
 (3)
-https://africanlii.org/article/20200423/suspension-lesotho%27s-parliament-%27irrational%27%2C-%27unlawful%27-court%20
+
+https://perma.cc/5BYL-AK5K
 (4)
 
 
@@ -1964,15 +1952,19 @@ https://africanlii.org/article/20200423/suspension-lesotho%27s-parliament-%27irr
  The Malaysian Parliament was suspended when the State of emergency was introduced on 12 January 2021. It has yet to reconvene. 
 
 *Sources*:
- https://www.arabnews.com/node/1791676/world
+ https://perma.cc/Y6NM-DZB9
 
-https://www.abc.net.au/news/2021-01-12/malaysia-king-declares-state-of-emergency-to-curb-covid-spread/13051642
 
-https://www.theguardian.com/world/2021/jan/12/malaysia-declares-covid-state-of-emergency-amid-political-turmoil
+https://perma.cc/9BL5-GWVF
 
-https://www.straitstimes.com/asia/se-asia/no-malaysian-parliament-sitting-until-emergency-ends-on-aug-1-says-minister
 
-https://www.reuters.com/world/asia-pacific/malaysias-king-calls-parliament-resume-earliest-2021-06-16/
+https://perma.cc/4V78-XFFT
+
+
+https://perma.cc/3PTZ-SX8V
+
+
+https://perma.cc/NDM5-5BYT
 
 
 
@@ -2172,9 +2164,8 @@ https://www.reuters.com/world/asia-pacific/malaysias-king-calls-parliament-resum
  The legislature has not been dissolved, suspended, or equivalent with reference to Covid-19. 
 
 *Sources*:
- https://www.ipu.org/country-compilation-parliamentary-responses-pandemic
-
-https://www.parliament.na
+ https://perma.cc/P2MN-8NYW
+https://perma.cc/P94A-9F7K
 
 
 
@@ -2349,12 +2340,10 @@ https://www.parliament.na
  I did not find any information suggesting that North Korea's national legislature was dissolved across all time periods. 
 
 *Sources*:
- https://www.bbc.com/news/topics/cywd23g0gz5t/north-korea
+ https://perma.cc/5F2F-KXEA
 
 
-
-
-https://www.reuters.com/news/archive/northKorea
+https://perma.cc/KRZ2-JR3Y
 
 
 
@@ -2379,7 +2368,7 @@ https://www.reuters.com/news/archive/northKorea
  The parliament voted to dissolve itself on 16 February 2020 in preparation for general elections. 
 
 *Sources*:
- https://www.sobranie.mk/2016-2020-srm-ns_article-izjava-na-pres-konferencijata-po-povod-raspishuvanjeto-na-predvremenite-parlamentarni-izbori.nspx
+ [1]	perma.cc/2KUK-3V4B
 
 
 
@@ -2829,8 +2818,10 @@ https://www.reuters.com/news/archive/northKorea
  On 4 March 2020, the President dissolved the parliament in preparation for 26 April parliamentary elections (later postponed to 21 June because elections were suspended during the state of emergency (Art 5. of Decree on Measures during the State of Emergency from 16 March 2020)). 
 
 *Sources*:
- https://www.predsednik.rs/lat/pres-centar/vesti/obracanje-predsednika-republike-srbije-07072020
-https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/uredba/2020/31/1/reg
+ https://perma.cc/4MZJ-XD2S
+
+
+https://perma.cc/CR3J-EZRM
 
 
 
@@ -2880,11 +2871,8 @@ https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/ure
  The parliament was dissolved due to an election that took place on 10 July 2020. However, there is no information  suggesting that the parliament was dissolved in reference to Covid-19. 
 
 *Sources*:
- https://www.bbc.com/news/world-asia-53471536
-
-
-
-https://www.reuters.com/article/us-singapore-election-succession/singapore-ruling-party-stung-by-poll-setback-faces-succession-questions-idUSKCN24C09B
+ https://perma.cc/8QKA-D5XM
+https://perma.cc/N7XC-MPCF
 
 
 
@@ -3011,15 +2999,9 @@ https://www.reuters.com/article/us-singapore-election-succession/singapore-rulin
 There were no instances of the legislature being dissolved due to Covid-19 in Q1 and Q2 in 2021. 
 
 *Sources*:
- https://english.aawsat.com/home/article/2472101/skorea-parliament-closed-over-covid-19-fears
-
-
-
-https://www.euronews.com/2020/08/27/south-korea-shuts-parliament-after-photographer-tests-positive-for-covid-19
-
-
-
-https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=155920
+ https://perma.cc/5HFL-Z5ML
+https://perma.cc/D3RJ-FCTZ
+https://perma.cc/232E-MLBZ
 
 
 
@@ -3094,9 +3076,8 @@ https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=155920
  On 02 March, the President dissolved the parliament calling for new elections, originally scheduled for 25 April 2020. Shortly thereafter, the government instituted a 52-day lockdown. Since then, elections have been delayed three times, until 05 August, citing concerns over Covid-19. 
 
 *Sources*:
- https://www.bbc.com/news/world-asia-53694392
-
-https://www.reuters.com/article/us-sri-lanka-election-result-idUSKCN25308L
+ https://perma.cc/M2R5-KPEZ
+https://perma.cc/GN7P-XK2V
 
 
 
@@ -3196,11 +3177,10 @@ https://www.reuters.com/article/us-sri-lanka-election-result-idUSKCN25308L
  I did not find any information suggesting that Taiwan's national legislature was dissolved. 
 
 *Sources*:
- https://www.bbc.com/news/topics/cg41ylwvw2qt/taiwan
+ https://perma.cc/6X9H-QVY3
 
 
-
-https://www.hrw.org/asia/taiwan
+https://perma.cc/H5LZ-6J5E
 
 
 
@@ -3275,21 +3255,10 @@ https://www.hrw.org/asia/taiwan
  I did not find any information suggesting that Thailand's national legislature was dissolved. Instead, there have been peaceful protests calling for the dissolution of parliament. 
 
 *Sources*:
- https://theowp.org/protestors-in-bangkok-call-for-dissolution-of-thai-parliament/
-
-
-
-
-https://www.bangkokpost.com/thailand/politics/382864/academics-call-for-dissolution-of-parliament
-
-
-
-http://constitutionnet.org/news/protests-thailand-call-dissolution-parliament-and-new-constitution
-
-
-
-
-https://www.parliament.go.th/ewtadmin/ewt/parenglish/more_news.php?cid=8
+ https://perma.cc/68KX-DMUP
+https://perma.cc/F5AL-2ME5
+https://perma.cc/6R9Y-UAZM
+https://perma.cc/8M88-85B8
 
 
 
@@ -3639,11 +3608,9 @@ https://www.parliament.go.th/ewtadmin/ewt/parenglish/more_news.php?cid=8
  I did not find any information suggesting that Vietnam's National Assembly was dissolved across all time periods. However, elections were held on 23 May 2021. 
 
 *Sources*:
- http://quochoi.vn/en-US/Pages/default.aspx
-
-https://www.reuters.com/world/asia-pacific/vietnam-holds-parliament-election-amid-new-covid-19-outbreak-2021-05-23/
-
-https://thediplomat.com/2021/05/ahead-of-vietnams-one-party-elections-the-state-punishes-online-calls-for-democracy/
+ https://perma.cc/T5QL-JBGS
+https://perma.cc/X36D-Z34C
+https://perma.cc/5RF9-HXG6
 
 
 
@@ -3670,9 +3637,9 @@ https://thediplomat.com/2021/05/ahead-of-vietnams-one-party-elections-the-state-
 After a legislator died from Covid-19 and a spike in active cases, the Zambia parliament adjourned sine die for the second time in reference to the Covid-19 pandemic on 21 July 2020. The parliament was reopened for the Fifth session of the Twelfth National Assembly on 11 September 2020. 
 
 *Sources*:
- https://www.znbc.co.zm/news/covid-19-parliament-adjourns-sine-die/
-https://www.lusakatimes.com/2020/06/09/zambian-parliament-to-resume-its-sittings-today/
-https://www.facebook.com/watch/live/?v=3468045533211650&ref=watch_permalink
+ https://perma.cc/6A8T-AGVJ
+https://perma.cc/X3ZW-FUC5
+https://perma.cc/5VVE-YVKV
 
 
 

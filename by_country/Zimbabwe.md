@@ -45,11 +45,8 @@
  A state of disaster is declared on March 23, in the "Civil Protection (Declaration of State of Disaster: Rural and Urban Areas of Zimbabwe) (COVID-19) Notice, 2020" 
 
 *Sources*:
- https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
-
-http://zimlii.org/zw/zw/subleg-consol/S.I.%2083%20of%202020%20Public%20Health%20%28COVID-19%20Prevention%2C%20Containment.pdf
-
-
+ https://perma.cc/Q494-97G4
+https://web.archive.org/web/20200926043507/http://zimlii.org/zw/zw/subleg-consol/S.I.%2083%20of%202020%20Public%20Health%20(COVID-19%20Prevention%2C%20Containment.pdf
 
 
 
@@ -88,9 +85,7 @@ http://zimlii.org/zw/zw/subleg-consol/S.I.%2083%20of%202020%20Public%20Health%20
  A state of disaster is declared on March 23, in the "Civil Protection (Declaration of State of Disaster: Rural and Urban Areas of Zimbabwe) (COVID-19) Notice, 2020" 
 
 *Sources*:
- https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
-
-
+ https://perma.cc/Q494-97G
 
 
 
@@ -129,9 +124,7 @@ http://zimlii.org/zw/zw/subleg-consol/S.I.%2083%20of%202020%20Public%20Health%20
  A state of disaster is declared on March 23, in the "Civil Protection (Declaration of State of Disaster: Rural and Urban Areas of Zimbabwe) (COVID-19) Notice, 2020" 
 
 *Sources*:
- https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
-
-
+ https://perma.cc/Q494-97G
 
 
 
@@ -172,37 +165,19 @@ http://zimlii.org/zw/zw/subleg-consol/S.I.%2083%20of%202020%20Public%20Health%20
 While initially the statutory instruments came with specified time frames for restrictions, in May 2020, Public Health (COVID-19 Prevention, Containment and Treatment) (National Lockdown) (Amendment) Order, 2020 (No. 8) established that the restrictions would remain in place indefinitely subject to fortnightly review. The most recent amendments were made on 18 June 2021. 
 
 *Sources*:
- https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
-
-
-
-https://gazettes.africa/gazettes/zw-government-gazette-dated-2020-05-02-no-40
-
-
-
-https://www.garda.com/crisis24/news-alerts/342951/zimbabwe-authorities-indefinitely-extend-covid-19-lockdown-measures-may-16-update-8
-
-
-
-https://allafrica.com/stories/202005160271.html
-
-
-
-https://zw.usembassy.gov/covid-19-information-2/
-
-http://zimlii.org/zw/zw/subleg-consol/S.I.%2083%20of%202020%20Public%20Health%20%28COVID-19%20Prevention%2C%20Containment.pdf
+ https://perma.cc/Q494-97G4
+https://perma.cc/7LX8-HGFR
+https://perma.cc/A7CX-CNCD
+https://perma.cc/QPA5-H24J
+https://perma.cc/BFX4-WSWG
+https://web.archive.org/web/20200926043507/http://zimlii.org/zw/zw/subleg-consol/S.I.%2083%20of%202020%20Public%20Health%20(COVID-19%20Prevention%2C%20Containment.pdf
 
 http://zimlii.org/zw/zw/subleg-consol/SI%202020-099%20Public%20Health%20order%205.pdf
-
-https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-05-05-no-42.pdf
-
-https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-05-06-no-43.pdf
-
-https://www.tralac.org/documents/resources/covid-19/countries/3728-zimbabwe-si-2020-110-public-health-covid-19-national-lockdown-amendment-order-2020-no-8-17-may-2020/file.html
-
-https://gazettes.africa/archive/zw/2021/zw-government-gazette-dated-2021-01-02-no-3.pdf
-
-http://www.cfuzim.com/wp-content/uploads/2021/06/si134acovid.pdf
+https://perma.cc/KL8R-G55A
+https://perma.cc/BEK3-U9DJ
+https://perma.cc/7S2Y-EFLU
+https://perma.cc/89NE-8SYE
+https://perma.cc/M3BG-RSJE
 
 
 
@@ -246,21 +221,14 @@ http://www.cfuzim.com/wp-content/uploads/2021/06/si134acovid.pdf
 While initially the statutory instruments came with specified time frames for restrictions, in May 2020, Public Health (COVID-19 Prevention, Containment and Treatment) (National Lockdown) (Amendment) Order, 2020 (No. 8) established that the restrictions would remain in place indefinitely subject to fortnightly review. The most recent amendments were made on 18 June 2021. 
 
 *Sources*:
- https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
-
-http://zimlii.org/zw/zw/subleg-consol/S.I.%2083%20of%202020%20Public%20Health%20%28COVID-19%20Prevention%2C%20Containment.pdf
-
+ https://perma.cc/Q494-97G4
+https://web.archive.org/web/20200926043507/http://zimlii.org/zw/zw/subleg-consol/S.I.%2083%20of%202020%20Public%20Health%20(COVID-19%20Prevention%2C%20Containment.pdf
 http://zimlii.org/zw/zw/subleg-consol/SI%202020-099%20Public%20Health%20order%205.pdf
-
-https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-05-05-no-42.pdf
-
-https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-05-06-no-43.pdf
-
-https://www.tralac.org/documents/resources/covid-19/countries/3728-zimbabwe-si-2020-110-public-health-covid-19-national-lockdown-amendment-order-2020-no-8-17-may-2020/file.html
-
-https://gazettes.africa/archive/zw/2021/zw-government-gazette-dated-2021-01-02-no-3.pdf
-
-http://www.cfuzim.com/wp-content/uploads/2021/06/si134acovid.pdf
+https://perma.cc/Z8ND-KL9U
+https://perma.cc/3RS9-E9PU
+https://perma.cc/JM7Z-JPKN
+https://perma.cc/U4ZS-AJCN
+https://perma.cc/AG7C-UHZD
 
 
 
@@ -341,7 +309,7 @@ http://www.cfuzim.com/wp-content/uploads/2021/06/si134acovid.pdf
  The President does not need the approval of Parliament to declare a state of disaster, according to section 27 of the Civil Protection Act. The Parliament is merely informed that such declaration has been made. Section 28 of the Civil Protection Act states: "Where a state of disaster has been declared in terms of section twenty-seven, the Minister shall communicate such declaration to Parliament on the day that it next sits after the declaration is made." 
 
 *Sources*:
- https://www.global-regulation.com/law/zimbabwe/3374657/civil-protection-act.html
+ https://perma.cc/QU4Q-UDYM
 
 
 
@@ -383,7 +351,7 @@ http://www.cfuzim.com/wp-content/uploads/2021/06/si134acovid.pdf
  The President does not need the approval of Parliament to declare a state of disaster, according to section 27 of the Civil Protection Act. The Parliament is merely informed that such declaration has been made. Section 28 of the Civil Protection Act states: "Where a state of disaster has been declared in terms of section twenty-seven, the Minister shall communicate such declaration to Parliament on the day that it next sits after the declaration is made." 
 
 *Sources*:
- https://www.global-regulation.com/law/zimbabwe/3374657/civil-protection-act.html
+ https://perma.cc/QU4Q-UDYM
 
 
 
@@ -435,45 +403,19 @@ On 28 July 2020, the legislature adjurned business to 25 August after members of
 The limits on the legislature from the Civil Protection Notice remain in place - allowing the Minister in consultation with the President - to rule by decree on Covid-19 related measures. 
 
 *Sources*:
- https://allafrica.com/stories/202010220733.html
+ https://perma.cc/LY6N-PVPU
+https://perma.cc/Q494-97G
+https://web.archive.org/web/20201231040747/https://www.parlzim.gov.zw/administration/clerk-of-parliament/clerk-s-blog/press-statement-parliament-and-covid-19-response-04-2020
 
-https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
+https://web.archive.org/web/20220812181002/https://parlzim.gov.zw/download/national-assembly-hansard-18-march-2020-46-36/
 
-
-
-https://www.parlzim.gov.zw/administration/clerk-of-parliament/clerk-s-blog/press-statement-parliament-and-covid-19-response-04-2020
-
-
-
-https://www.parlzim.gov.zw/national-assembly-hansard/national-assembly-hansard-18-march-2020-vol-46-no-36
-
-
-
-https://www.parlzim.gov.zw/national-assembly-hansard/national-assembly-hansard-5-may-2020-vol-46-no-37
-
-
-
-https://www.parlzim.gov.zw/national-assembly-hansard/national-assembly-hansard-28-july-2020-vol-46-no-57
-
-
-
-https://allafrica.com/stories/202007290285.html
-
-
-
-https://www.parlzim.gov.zw/national-assembly-hansard/national-assembly-hansard-25-august-2020-vol-46-no-58
-
-
-
-http://www.newsdzezimbabwe.co.uk/2020/08/parly-sits-for-less-than-20-minutes.html
-
-
-
-https://www.insiderzim.com/zimbabwe-parliament-adjourns-until-5-may-due-to-coronavirus/
-
-
-
-https://allafrica.com/stories/202004290621.html
+https://perma.cc/A855-3NNN
+https://perma.cc/AXX8-9UKB
+https://perma.cc/UX94-Y7QF
+https://perma.cc/Q3JT-XKL2
+https://perma.cc/84SE-FACU
+https://perma.cc/7D2S-ACJS
+https://perma.cc/6RLJ-8SRG
 
 
 
@@ -595,17 +537,12 @@ https://allafrica.com/stories/202004290621.html
  The measures appear to have been more or less uniform across the country across all the time periods. 
 
 *Sources*:
- https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
-
-https://gazettes.africa/gazettes/zw-government-gazette-dated-2020-05-02-no-40
-
-https://www.garda.com/crisis24/news-alerts/362041/zimbabwe-government-imposes-new-curfew-and-covid-19-lockdown-measures-amid-surge-in-cases-july-22-update-12
-
-https://www.reuters.com/article/us-health-coronavirus-zimbabwe-lockdown/overwhelmed-zimbabwe-tightens-covid-19-restrictions-orders-most-businesses-closed-idUKKBN2970KQ?edition-redirect=uk
-
-https://www.garda.com/crisis24/news-alerts/461376/zimbabwe-authorities-maintain-covid-19-restrictions-as-of-march-30-update-14
-
-https://www.garda.com/crisis24/news-alerts/449811/zimbabwe-authorities-ease-covid-19-restrictions-from-march-1-update-13
+ https://perma.cc/L4BM-JKK8
+https://perma.cc/W8MP-ZVPS
+https://perma.cc/D5L5-GQX7
+https://perma.cc/T2Q9-6XTC
+https://perma.cc/S75R-SK2C
+https://perma.cc/BEU8-XT3Z
 
 
 
@@ -649,11 +586,9 @@ https://www.garda.com/crisis24/news-alerts/449811/zimbabwe-authorities-ease-covi
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response across all the time periods. 
 
 *Sources*:
- https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
-
-https://www.hrw.org/africa/zimbabwe
-
-https://www.amnesty.org/en/countries/africa/zimbabwe/
+ https://perma.cc/Q494-97G4
+https://perma.cc/9663-9QFS
+https://perma.cc/HJ49-CXF6
 
 
 
@@ -702,15 +637,11 @@ https://www.amnesty.org/en/countries/africa/zimbabwe/
  No evidence was found that any of the emergency measures de-jure violated non-derogable rights as defined by the ICCPR across all the time periods. 
 
 *Sources*:
- https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-
-https://gazettes.africa/archive/zw/2020/zw-government-gazette-dated-2020-03-23-no-24.pdf
-
-https://www.hrw.org/africa/zimbabwe
-
-https://www.amnesty.org/en/countries/africa/zimbabwe/
-
-https://www.hrw.org/world-report/2021/country-chapters/zimbabwe#b15b41
+ https://perma.cc/US4L-C5PC
+https://perma.cc/SU28-4V23
+https://perma.cc/GYL4-ZLRE
+https://perma.cc/YH5C-Q763
+https://perma.cc/FF6L-E2BX
 
 
 
@@ -755,21 +686,15 @@ https://www.hrw.org/world-report/2021/country-chapters/zimbabwe#b15b41
 
 *Sources*:
  [1]
-http://zimlii.org/zw/zw/subleg-consol/S.I.%2083%20of%202020%20Public%20Health%20%28COVID-19%20Prevention%2C%20Containment.pdf
-
-
-
+https://web.archive.org/web/20200926043507/http://zimlii.org/zw/zw/subleg-consol/S.I.%2083%20of%202020%20Public%20Health%20(COVID-19%20Prevention%2C%20Containment.pdf
 [2]
-https://www.reuters.com/article/us-health-coronavirus-zimbabwe/zimbabwe-president-threatens-20-years-jail-over-fake-lockdown-statement-idUSKCN21W1H4
-
+https://perma.cc/4EPR-R735
 [3]
-https://features.hrw.org/features/features/covid/index.html
-
+https://perma.cc/3CCW-VQJ9
 [4]
-https://www.hrw.org/world-report/2021/country-chapters/zimbabwe
-
+https://perma.cc/LL9P-YFZM
 [5]
-https://www.theguardian.com/world/2021/apr/28/zimbabwe-court-quashes-charges-against-journalist-hopewell-chinono
+https://perma.cc/D96T-H48S
 
 
 
@@ -890,13 +815,11 @@ https://www.theguardian.com/world/2021/apr/28/zimbabwe-court-quashes-charges-aga
 
 *Sources*:
  [1]
-https://features.hrw.org/features/features/covid/index.html
-
+https://perma.cc/G6LE-7FWE
 [2]
-https://rsf.org/en/zimbabwe
-
+https://perma.cc/D3TL-XRQS
 [3]
-https://www.state.gov/wp-content/uploads/2021/03/ZIMBABWE-2020-HUMAN-RIGHTS-REPORT.pdf
+https://perma.cc/UYM8-6PVE
 
 
 
@@ -947,39 +870,24 @@ I did not find more cases on this in Q2 of 2021. However as the media situation 
 
 *Sources*:
  [1]
-https://features.hrw.org/features/features/covid/index.html
-
+https://perma.cc/G6LE-7FWE
 [2]
-https://rsf.org/en/zimbabwe
-
+https://perma.cc/D3TL-XRQS
 [3]
-https://www.state.gov/wp-content/uploads/2021/03/ZIMBABWE-2020-HUMAN-RIGHTS-REPORT.pdf
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648907/
-
-https://rsf.org/en/news/five-zimbabwean-reporters-arrested-while-covering-coronavirus-lockdown
-
-https://rsf.org/en/news/zimbabwe-two-journalists-held-violating-coronavirus-lockdown-rules
-
-https://www.amnesty.org/en/latest/news/2020/07/zimbabwe-authorities-continue-their-crackdown-on-dissent-with-arrest-of-investigative-journalist-and-activist/
-
-https://www.hrw.org/news/2020/07/20/zimbabwe-detains-anti-corruption-activists
-
-https://www.hrw.org/news/2020/08/11/end-inhuman-prison-conditions-activists-zimbabwe
-
-https://www.amnesty.org/en/latest/news/2020/05/southern-africa-covid19-a-pretext-for-surge-in-harassment-of-journalists-and-weakening-of-media-houses-by-states/
-
-https://cpj.org/2020/07/journalist-hopewell-chinono-arrested-charged-with-incitement-in-zimbabwe/
-
-https://cpj.org/2020/11/zimbabwean-journalist-hopewell-chinono-rearrested-charged-with-contempt-of-court/
-
-https://cpj.org/2020/11/zimbabwean-journalist-hopewell-chinono-denied-bail-in-obstruction-case/
-
-
-https://cpj.org/2020/09/journalist-hopewell-chinono-released-on-bail-with-restrictions-in-zimbabwe/
-
-https://zimbabwe.misa.org/2021/02/24/journalists-barred-from-covering-vaccination-programme/
-
-https://ipi.media/in-zimbabwe-one-year-of-covid-19-saw-surge-in-harassment-of-free-press/
+https://perma.cc/UYM8-6PVE
+https://perma.cc/6N7S-AE69
+https://perma.cc/DGH3-AD8T
+https://perma.cc/CX7G-B9NW
+https://perma.cc/PRZ9-S87L
+https://perma.cc/JLK4-64S3
+https://perma.cc/CBB8-FXNT
+https://perma.cc/U3JD-W5EV
+https://perma.cc/L8GG-7DGR
+https://perma.cc/SD94-4BJW
+https://perma.cc/4NV5-K743
+https://perma.cc/PNL8-54QP
+https://perma.cc/B76X-SRKF
+https://perma.cc/JMN6-6LPX
 
 
 
@@ -1022,16 +930,13 @@ https://ipi.media/in-zimbabwe-one-year-of-covid-19-saw-surge-in-harassment-of-fr
 
 *Sources*:
  [1]
-https://features.hrw.org/features/features/covid/index.html
-
+https://perma.cc/G6LE-7FWE
 [2]
-https://rsf.org/en/zimbabwe
-
+https://perma.cc/D3TL-XRQS
 [3]
-https://www.state.gov/wp-content/uploads/2021/03/ZIMBABWE-2020-HUMAN-RIGHTS-REPORT.pdf
-
+https://perma.cc/UYM8-6PVE
 [4]
-https://www.voanews.com/africa/zimbabwe-detains-2-journalists-breaking-covid-lockdown-rules
+https://perma.cc/FTL3-NEEV
 
 
 
@@ -1074,17 +979,12 @@ https://www.voanews.com/africa/zimbabwe-detains-2-journalists-breaking-covid-loc
  While the overall media environment is constrained, there is no evidence that the government has used Covid-19 regulations to directly limit media access to information about Covid-19. Attacks on journalists reporting about the government response or other news are captured elsewhere. 
 
 *Sources*:
- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648907/
-
-https://rsf.org/en/news/five-zimbabwean-reporters-arrested-while-covering-coronavirus-lockdown
-
-https://rsf.org/en/news/zimbabwe-two-journalists-held-violating-coronavirus-lockdown-rules
-
-https://www.dw.com/en/ugandan-journalists-assaulted-by-security-forces-amid-coronavirus-lockdowns/a-53235644
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://ipi.media/zimbabwe-press-freedom-suffers-under-pandemic/
+ https://perma.cc/H6NG-36TU
+https://perma.cc/D692-XLG4
+https://perma.cc/XKB2-H89J
+https://perma.cc/ETY2-HK8C
+https://perma.cc/7YWD-Y5XA
+https://perma.cc/F4XR-2ZNJ
 
 
 
@@ -1127,21 +1027,14 @@ https://ipi.media/zimbabwe-press-freedom-suffers-under-pandemic/
 This has continued to be the case in Q1 and Q2 of 2021 and no information was found indicating that the violations stopped. 
 
 *Sources*:
- https://rsf.org/en/news/five-zimbabwean-reporters-arrested-while-covering-coronavirus-lockdown
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648907/
-
-https://www.dw.com/en/ugandan-journalists-assaulted-by-security-forces-amid-coronavirus-lockdowns/a-53235644
-
-https://www.amnesty.org/en/latest/news/2020/05/southern-africa-covid19-a-pretext-for-surge-in-harassment-of-journalists-and-weakening-of-media-houses-by-states/
-
-https://hornobserver.com/articles/551/CAJ-CALLS-ON-ZIMBABWEAN-GOVERNMENT-TO-STOP-HARASSMENT-OF-JOURNALISTS-The-Congress-of-African-Journalists-CAJ-has-expressed-concern-over-the-deteriorating-press-freedom-situation-in-Zimbabwe-and-called-on-the-government-of-Zimbabwe-to-stop-harassing-and-ar
-
-https://rsf.org/en/zimbabwe
-
-https://www.aa.com.tr/en/africa/zimbabwe-journalists-dogged-by-poor-wages-harassment/2104752
-
-https://ipi.media/in-zimbabwe-one-year-of-covid-19-saw-surge-in-harassment-of-free-press/
+ https://perma.cc/83GY-PA5M
+https://perma.cc/6UET-ZHW6
+https://perma.cc/74QF-6PLB
+https://perma.cc/X2F2-6WFL
+https://perma.cc/YS6F-Z6S5
+https://perma.cc/8BE4-CZLU
+https://perma.cc/NJF2-YEQG
+https://perma.cc/L5SW-QU9N
 
 
 
@@ -1184,19 +1077,13 @@ https://ipi.media/in-zimbabwe-one-year-of-covid-19-saw-surge-in-harassment-of-fr
 This has continued to be the case in Q1 and Q2 of 2021 and no information was found indicating that the violations stopped. 
 
 *Sources*:
- https://rsf.org/en/news/five-zimbabwean-reporters-arrested-while-covering-coronavirus-lockdown
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648907/
-
-https://rsf.org/en/news/zimbabwe-two-journalists-held-violating-coronavirus-lockdown-rules
-
-https://www.dw.com/en/ugandan-journalists-assaulted-by-security-forces-amid-coronavirus-lockdowns/a-53235644
-
-https://hornobserver.com/articles/551/CAJ-CALLS-ON-ZIMBABWEAN-GOVERNMENT-TO-STOP-HARASSMENT-OF-JOURNALISTS-The-Congress-of-African-Journalists-CAJ-has-expressed-concern-over-the-deteriorating-press-freedom-situation-in-Zimbabwe-and-called-on-the-government-of-Zimbabwe-to-stop-harassing-and-ar
-
-https://www.aa.com.tr/en/africa/zimbabwe-journalists-dogged-by-poor-wages-harassment/2104752
-
-https://ipi.media/in-zimbabwe-one-year-of-covid-19-saw-surge-in-harassment-of-free-press/
+ https://perma.cc/TH3N-HLCK
+https://perma.cc/YS2G-QV5X
+https://perma.cc/AX9R-JAZ7
+https://perma.cc/C95H-RUZ7
+https://perma.cc/36BN-9WMN
+https://perma.cc/3Y6D-3TUX
+https://perma.cc/P79P-5Y7K
 
 
 
@@ -1240,11 +1127,8 @@ https://ipi.media/in-zimbabwe-one-year-of-covid-19-saw-surge-in-harassment-of-fr
  The government's covid-19 information is similar to that of the WHO. 
 
 *Sources*:
- http://www.mohcc.gov.zw/index.php?option=com_content&view=category&layout=blog&id=103&Itemid=743
-
-
-
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
+ https://perma.cc/E7BR-ZKPX
+https://perma.cc/J4RP-2MFV
 
 
 
@@ -1289,23 +1173,12 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-ans
 No information was found indicating that the violations stopped. 
 
 *Sources*:
- https://allafrica.com/stories/202004090375.html
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7648907/
-
-https://www.aljazeera.com/news/2020/04/anxiety-rights-violations-zimbabwe-enforces-lockdown-200406131100256.html
-
-
-
-https://www.bbc.com/news/world-africa-52726220
-
-
-
-https://www.voanews.com/africa/rights-groups-welcome-court-ban-brutal-zimbabwe-covid-19-lockdown
-
-
-
-https://www.amnesty.org/en/latest/news/2020/07/zimbabwe-authorities-thwart-anti-corruption-protests-launch-a-witchhunt-against-activists/
+ https://perma.cc/67WE-X6RA
+https://perma.cc/HWZ3-4LS4
+https://perma.cc/9MES-JE8A
+https://perma.cc/RDZ8-QCLW
+https://perma.cc/DR4N-87AV
+https://perma.cc/24WL-FY8G
 
 
 
@@ -1347,16 +1220,7 @@ https://www.amnesty.org/en/latest/news/2020/07/zimbabwe-authorities-thwart-anti-
  The army has enforced lockdown, according to media outlets and the Zimbabwe Information Minister Monica Mutsvangwa. I have not found information suggesting that the military has stopped enforcing the lockdowns in Q1 and Q1 of 2021. Hence I have continued to code this variable as 1 
 
 *Sources*:
- https://www.aljazeera.com/indepth/opinion/problem-army-enforced-lockdowns-time-covid-19-200401101641258.html
-
-
-
-https://www.voazimbabwe.com/a/army-to-enforce-21-day-lockdown-says-zimbabwe-information-minister/5350671.html
-
-
-
-https://www.voazimbabwe.com/a/zimbabwe-police-human-rights-violations/5371648.html
-
-
-
-https://www.washingtonpost.com/world/africa/empty-streets-in-zimbabwe-as-security-forces-thwart-protest/2020/07/31/cda13416-d309-11ea-826b-cc394d824e35_story.html
+ https://perma.cc/C74G-MT4D
+https://perma.cc/U5UK-79YF
+https://perma.cc/F7WC-ADRD
+https://perma.cc/NY4E-PSZY

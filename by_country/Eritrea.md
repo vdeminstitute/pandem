@@ -45,18 +45,12 @@
  According to the constitution, article 27, only war, external invasion, civil disorder or natural disaster can be cause for a national state of emergency. Also, the announcement of the guidelines does not refer to any such legal instrument. 
 
 *Sources*:
- http://www.ituc-africa.org/ERITREA-Citizen-participation-in-response-to-COVID-19-and-time-for-renewal.html
-
-
-
-https://www.constituteproject.org/constitution/Eritrea_1997?lang=en
-
-
-
-https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
-https://shabait.com/2020/12/21/guidelines-from-the-high-level-task-force-on-covid-19-5/
-
-https://www.garda.com/crisis24/news-alerts/486171/eritrea-government-eases-certain-domestic-covid-19-restrictions-as-of-june-1-international-entry-controls-remain-largely-unchanged-update-12
+ [1]	perma.cc/HL88-5ABU
+[2]	perma.cc/DPD4-HTSC
+[3]	perma.cc/B2LW-48Z4
+[4]	https://web.archive.org/web/20200402131742/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
+[5]	perma.cc/M5KM-GSC6
+[6]	perma.cc/EL2Q-P448
 
 
 
@@ -386,16 +380,10 @@ https://www.garda.com/crisis24/news-alerts/486171/eritrea-government-eases-certa
  
 
 *Sources*:
- https://covidlawlab.org/wp-content/uploads/2020/07/Guidelines-from-the-High-Level-Task-Force-on-COVID-19.pdf
-(1)
-
-
-
-http://www.ituc-africa.org/ERITREA-Citizen-participation-in-response-to-COVID-19-and-time-for-renewal.html
-
-
-
-https://www.einnews.com/pr_news/525101401/coronavirus-eritrea-global-information-and-early-warning-system-giews-country-brief-eritrea
+ [1]	perma.cc/Z6XJ-LSBE
+[2]	https://web.archive.org/web/20200402131742/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
+[3]	perma.cc/R3NX-GK7L
+[4]	perma.cc/9UBH-BEQY
 
 
 
@@ -517,9 +505,9 @@ https://www.einnews.com/pr_news/525101401/coronavirus-eritrea-global-information
  The guidelines apply to all of Eritrea. 
 
 *Sources*:
- https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
-
-https://www.garda.com/crisis24/news-alerts/328486/eritrea-authorities-implement-21-day-lockdown-from-april-2-update-3
+ [1]	perma.cc/5UDK-WMZF
+[2]	https://web.archive.org/web/20200402131742/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
+[3]	perma.cc/3P76-F4VZ
 
 
 
@@ -563,19 +551,11 @@ https://www.garda.com/crisis24/news-alerts/328486/eritrea-authorities-implement-
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- https://www.amnesty.org/en/search/?country=38593&resourceType=newsarticle&sort=date
-
-
-
-https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
-
-
-
-https://www.hrw.org/africa/eritrea
-
-
-
-https://minorityrights.org/?s=eritrea
+ [1]	perma.cc/V7GP-XPZC
+[2]	perma.cc/88W2-JCJU
+[3]	https://web.archive.org/web/20200402131742/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
+[4]	perma.cc/6FU3-PG56
+[5]	perma.cc/J2TA-QD9G
 
 
 
@@ -624,10 +604,10 @@ https://minorityrights.org/?s=eritrea
  Due to lockdown, prisoners faced even worse conditions without even access to basic things like soap and supplementary food, which their families used to bring them.  As reducing the inmates' access to soap and supplementary food is not part of the emergency measures, but rather an indirect consequence of them, this is coded 0. 
 
 *Sources*:
- https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-https://www.amnesty.org/en/latest/news/2020/05/eritrea-detainees-in-overcrowded-and-unsanitary-conditions-defenceless-against-covid19/
-https://www.amnesty.de/informieren/amnesty-report/eritrea-2020
-https://www.hrw.org/world-report/2021/country-chapters/eritrea
+ [1]	perma.cc/4P8J-3Y2C
+[2]	perma.cc/TDJ5-DF2P
+[3]	perma.cc/BZ7N-SXGL
+[4]	perma.cc/4TN4-BUME
 
 
 
@@ -671,9 +651,10 @@ https://www.hrw.org/world-report/2021/country-chapters/eritrea
  No de-jure limitations of media freedom as part of the Covid-19 emergency measures were found. However, since 2001 all independent media have been shut down. 
 
 *Sources*:
- https://rsf.org/en/eritrea
-https://ipi.media/eritrea/
-https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
+ [1]	perma.cc/83QZ-596E
+[2]	perma.cc/A7LY-D26N
+[3]	perma.cc/QYJ6-9A73
+[4]	https://web.archive.org/web/20200402131742/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
 
 
 
@@ -793,12 +774,12 @@ https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-new
  Since 2001 all independent media have been shut down. In addition, the country's only newspaper was banned from publishing for five months on April 1. The ban has not been lifted. There is no evidence that the situation changed in Q1 or Q2 2021. 
 
 *Sources*:
- https://freedomhouse.org/country/eritrea/freedom-world/2020
-https://africasacountry.com/2020/09/eritreas-deteriorating-state
-https://rsf.org/en/eritrea
-https://ipi.media/eritrea/
-https://cpj.org/africa/eritrea/
-https://www.amnesty.org/en/countries/africa/eritrea/report-eritrea/
+ [1]	perma.cc/6JSD-S5ZA
+[2]	perma.cc/BV33-GN75
+[3]	perma.cc/RMF6-UN4S
+[4]	perma.cc/3E2A-4GK6
+[5]	perma.cc/VW3T-RTE4
+[6]	perma.cc/5YPP-PP95
 
 
 
@@ -840,12 +821,12 @@ https://www.amnesty.org/en/countries/africa/eritrea/report-eritrea/
  Since 2001 all independent media have been shut down. In addition, the country's only newspaper was banned from publishing for five months. There is no evidence that the situation changed in Q1 or Q2 2021. 
 
 *Sources*:
- https://freedomhouse.org/country/eritrea/freedom-world/2020
-https://africasacountry.com/2020/09/eritreas-deteriorating-state
-https://rsf.org/en/eritrea
-https://ipi.media/eritrea/
-https://cpj.org/africa/eritrea/
-https://www.amnesty.org/en/countries/africa/eritrea/report-eritrea/
+ [1]	perma.cc/6JSD-S5ZA
+[2]	perma.cc/BV33-GN75
+[3]	perma.cc/RMF6-UN4S
+[4]	perma.cc/3E2A-4GK6
+[5]	perma.cc/VW3T-RTE4
+[6]	perma.cc/5YPP-PP95
 
 
 
@@ -887,12 +868,12 @@ https://www.amnesty.org/en/countries/africa/eritrea/report-eritrea/
  No information on specific instances of limitations on media reporting on non-Covid-19 related news but with reference to the pandemic found in 2020 and 2021. However, since 2001 all independent media have been shut down. In addition, the country's only newspaper was banned from publishing for five months. 
 
 *Sources*:
- https://freedomhouse.org/country/eritrea/freedom-world/2020
-https://africasacountry.com/2020/09/eritreas-deteriorating-state
-https://rsf.org/en/eritrea
-https://ipi.media/eritrea/
-https://cpj.org/africa/eritrea/
-https://www.amnesty.org/en/countries/africa/eritrea/report-eritrea/
+ [1]	perma.cc/6JSD-S5ZA
+[2]	perma.cc/BV33-GN75
+[3]	perma.cc/RMF6-UN4S
+[4]	perma.cc/3E2A-4GK6
+[5]	perma.cc/VW3T-RTE4
+[6]	perma.cc/5YPP-PP95
 
 
 
@@ -935,27 +916,12 @@ https://www.amnesty.org/en/countries/africa/eritrea/report-eritrea/
  No evidence indicating that the government and its agents limits media access to Covid-19 related information was found. 
 
 *Sources*:
- https://freedomhouse.org/country/eritrea/freedom-world/2020
-
-
-
-https://africasacountry.com/2020/09/eritreas-deteriorating-state
-
-
-
-https://rsf.org/en/eritrea
-
-
-
-https://ipi.media/eritrea/
-
-
-
-https://cpj.org/africa/eritrea/
-
-
-
-https://www.amnesty.org/en/countries/africa/eritrea/report-eritrea/
+ [1]	perma.cc/P64Z-89UP
+[2]	perma.cc/6U6C-6DWH
+[3]	perma.cc/93L2-ZPQ6
+[4]	perma.cc/WHG3-TXTY
+[5]	perma.cc/V8TA-GEPQ
+[6]	perma.cc/3LXM-KSQJ
 
 
 
@@ -997,19 +963,11 @@ https://www.amnesty.org/en/countries/africa/eritrea/report-eritrea/
  No evidence indicating that the government and its agents have verbally harassed journalists reporting about Covid-19 was found. 
 
 *Sources*:
- https://rsf.org/en/eritrea
-
-
-
-https://ipi.media/eritrea/
-
-
-
-https://cpj.org/africa/eritrea/
-
-
-
-https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
+ [1]	perma.cc/TF82-8KRF
+[2]	perma.cc/TB3Q-ZZMA
+[3]	perma.cc/778C-YTH2
+[4]	perma.cc/NT67-XTBK
+[5]	https://web.archive.org/web/20200402131742/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
 
 
 
@@ -1051,19 +1009,11 @@ https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-new
  No evidence indicating that the government and its agents have physically harassed journalists reporting about Covid-19 was found. 
 
 *Sources*:
- https://rsf.org/en/eritrea
-
-
-
-https://ipi.media/eritrea/
-
-
-
-https://cpj.org/africa/eritrea/
-
-
-
-https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
+ [1]	perma.cc/TF82-8KRF
+[2]	perma.cc/TB3Q-ZZMA
+[3]	perma.cc/778C-YTH2
+[4]	perma.cc/NT67-XTBK
+[5]	https://web.archive.org/web/20200402131742/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
 
 
 
@@ -1107,15 +1057,9 @@ https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-new
  No information on Covid-19 from the Eritrean government was found. 
 
 *Sources*:
- http://www.ecss-online.com/2013/wp-content/uploads/2020/06/Corona-.pdf
-
-
-
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
-
-
-
-https://shabait.com/2020/05/09/we-all-need-to-protect-one-another-by-washing-our-hands-a-keeping-the-distance/
+ [1]	perma.cc/P2ZN-LSEL
+[2]	perma.cc/2BFN-RSY7
+[3]	perma.cc/U5V9-DWND
 
 
 
@@ -1159,17 +1103,9 @@ https://shabait.com/2020/05/09/we-all-need-to-protect-one-another-by-washing-our
  No evidence was found that indicates that security forces, such as the civilian police or military, has engaged in physical violence to execute the emergency measures. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/africa/eritrea/
-
-
-
-https://www.hrw.org/africa/eritrea
-
-
-
-https://www.bbc.com/news/topics/cz4pr2gdgjyt/eritrea
-
-
+ [1]	perma.cc/34HX-FVF4
+[2]	perma.cc/5TF4-V49Y
+[3]	perma.cc/9NMJ-L83F
 
 
 
@@ -1211,7 +1147,4 @@ https://www.bbc.com/news/topics/cz4pr2gdgjyt/eritrea
  Security forces have been deployed to enforce lockdown and travel bans in 2020. No evidence found for 2021. 
 
 *Sources*:
- https://disasterlaw.ifrc.org/sites/default/files/media/disaster_law/2021-03/IFRC%20Review%20of%20Emergency%20Decrees%20-%20Eritrea%20v1.0%20%2010.04.20.pdf
-https://web.archive.org/web/20200813185313/http://www.shabait.com/news/local-news/30407-guidelines-from-the-high-level-task-force-on-covid-19
-
-https://shabait.com/2020/10/31/covid-19-eritreas-success-and-challenges-part-i/
+ [1]	perma.cc/6X5L-6FGC

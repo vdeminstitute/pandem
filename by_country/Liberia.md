@@ -45,17 +45,34 @@
  Initially, the government declared a national health emergency under the Public Health Law Title 33 (Chapter 14) Liberian Code of Laws Revised. On April 9 2020, a state of emergency was declared in accordance with Articles 85, 86, 87 and 88 of the Liberian constitution. This state of emergency expired on July 21 2020 and a revised national health emergency was announced on July 22 2020. This National Health Emergency is still in force, and became the main legal instrument after the state of emergency ended. Thus, this is coded as 2 from the first period without the state of emergency and onward. 
 
 *Sources*:
- https://www.emansion.gov.lr/doc/ADDRESS%20TO%20THE%20NATION.pdf
-https://www.constituteproject.org/constitution/Liberia_1986?lang=en
-https://emansion.gov.lr/doc/COVID-19%20Declaration%20of%20National%20Health%20Emergency%20-%20MoH.pdf
-http://extwprlegs1.fao.org/docs/pdf/lbr174510.pdf
-https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
-http://moh.gov.lr/press-release/2020/revised-Covid-19-declaration-of-national-health-emergency-by-the-ministry-of-health/
-https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
+ https://perma.cc/ZK7X-EQED
 
-https://lr.usembassy.gov/Covid-19-information/
 
-https://www.garda.com/crisis24/news-alerts/465851/liberia-health-officials-maintaining-Covid-19-related-restrictions-nationwide-as-of-april-12-update-21
+https://perma.cc/4NC8-H3L4
+
+
+https://perma.cc/F477-M754
+
+
+https://perma.cc/GH43-SGME
+
+
+https://perma.cc/9T7E-XQSK
+
+
+https://perma.cc/HN6T-G94N
+
+
+https://perma.cc/ZQP3-QQX9
+
+
+https://perma.cc/AXG5-CWED
+
+
+https://perma.cc/E4WN-AWWR
+
+
+
 
 
 
@@ -94,17 +111,31 @@ https://www.garda.com/crisis24/news-alerts/465851/liberia-health-officials-maint
  Initially, the government declared a national health emergency under the Public Health Law Title 33 (Chapter 14) Liberian Code of Laws Revised. On April 9 2020, a state of emergency was declared in accordance with Articles 85, 86, 87 and 88 of the Liberian constitution. This state of emergency expired on July 21 2020 and a revised national health emergency was announced on July 22. This National Health Emergency is still in effect. 
 
 *Sources*:
- https://www.emansion.gov.lr/doc/ADDRESS%20TO%20THE%20NATION.pdf
-https://www.constituteproject.org/constitution/Liberia_1986?lang=en
-https://emansion.gov.lr/doc/COVID-19%20Declaration%20of%20National%20Health%20Emergency%20-%20MoH.pdf
-http://extwprlegs1.fao.org/docs/pdf/lbr174510.pdf
-https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
-http://moh.gov.lr/press-release/2020/revised-Covid-19-declaration-of-national-health-emergency-by-the-ministry-of-health/
-https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
+ https://perma.cc/4PEM-7AGP
 
-https://lr.usembassy.gov/Covid-19-information/
 
-https://www.garda.com/crisis24/news-alerts/465851/liberia-health-officials-maintaining-Covid-19-related-restrictions-nationwide-as-of-april-12-update-21
+https://perma.cc/R9ZU-5HTV
+
+
+https://perma.cc/2BQ3-ZGQS
+
+
+https://perma.cc/KT7K-NVBD
+
+
+https://perma.cc/L6B5-TWDQ
+
+
+https://perma.cc/G4LX-YAXH
+
+
+https://perma.cc/8BAX-5BVP
+
+
+https://perma.cc/4MFX-EW9X
+
+
+https://perma.cc/G54R-62Z2
 
 
 
@@ -143,31 +174,25 @@ https://www.garda.com/crisis24/news-alerts/465851/liberia-health-officials-maint
  Initially, the government declared a national health emergency under the Public Health Law Title 33 (Chapter 14) Liberian Code of Laws Revised. On April 9 2020, a state of emergency was declared in accordance with Articles 85, 86, 87 and 88 of the Liberian constitution. This state of emergency expired on July 21 2020 and a revised national health emergency was announced on July 22. This National Health Emergency is still in effect. 
 
 *Sources*:
- https://www.emansion.gov.lr/doc/ADDRESS%20TO%20THE%20NATION.pdf
+ https://perma.cc/7UNC-6Z2T
 
 
-
-https://www.constituteproject.org/constitution/Liberia_1986?lang=en
-
+https://perma.cc/R2JQ-CA89
 
 
-https://emansion.gov.lr/doc/COVID-19%20Declaration%20of%20National%20Health%20Emergency%20-%20MoH.pdf
+https://perma.cc/MDQ8-QJP4
 
 
-
-http://extwprlegs1.fao.org/docs/pdf/lbr174510.pdf
-
+https://perma.cc/K6EV-KFBM
 
 
-https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
+https://perma.cc/U8AB-VTPC
 
 
-
-http://moh.gov.lr/press-release/2020/revised-Covid-19-declaration-of-national-health-emergency-by-the-ministry-of-health/
-
+https://perma.cc/U9ET-G5BF
 
 
-https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
+https://perma.cc/Q3WJ-289U
 
 
 
@@ -206,12 +231,19 @@ https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
  The state of emergency expired on July 21 2020 and a revised national health emergency was announced on July 22 2020. This instrument is still in force, as is measures taken under it. 
 
 *Sources*:
- https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
-https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
-http://moh.gov.lr/press-release/2020/revised-Covid-19-declaration-of-national-health-emergency-by-the-ministry-of-health/
-https://lr.usembassy.gov/Covid-19-information/
+ https://perma.cc/68HL-EMC2
 
-https://www.garda.com/crisis24/news-alerts/465851/liberia-health-officials-maintaining-Covid-19-related-restrictions-nationwide-as-of-april-12-update-21
+
+https://perma.cc/X3HN-L5PW
+
+
+https://perma.cc/4PU3-6BVK
+
+
+https://perma.cc/6W4P-9PKA
+
+
+https://perma.cc/P7LV-A6JG
 
 
 
@@ -253,10 +285,16 @@ https://www.garda.com/crisis24/news-alerts/465851/liberia-health-officials-maint
  The state of emergency expired on July 21 and a revised national health emergency was announced on July 22. The National Health Emergency has not had any time limit or end date in the declaration, nor does the Public Health Law demand one (see paragraph 14). No other evidence of a time limit has been found, and this is therefore coded as 0. 
 
 *Sources*:
- https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
-https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
-http://moh.gov.lr/press-release/2020/revised-Covid-19-declaration-of-national-health-emergency-by-the-ministry-of-health/
-http://extwprlegs1.fao.org/docs/pdf/lbr174510.pdf
+ https://perma.cc/B9ST-QMLS
+
+
+https://perma.cc/7TD8-N7U2
+
+
+https://perma.cc/A54B-73C8
+
+
+https://perma.cc/TB78-YF5A
 
 
 
@@ -295,10 +333,16 @@ http://extwprlegs1.fao.org/docs/pdf/lbr174510.pdf
  The state of emergency expired on July 21 2020 and a revised national health emergency was announced on July 22 2020. The National Health Emergency has not had any time limit or end date in the declaration, nor does the Public Health Law demand one (see paragraph 14). No other evidence of a time limit has been found, and this is therefore not coded. 
 
 *Sources*:
- https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
-https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
-http://moh.gov.lr/press-release/2020/revised-Covid-19-declaration-of-national-health-emergency-by-the-ministry-of-health/
-http://extwprlegs1.fao.org/docs/pdf/lbr174510.pdf
+ https://perma.cc/B9ST-QMLS
+
+
+https://perma.cc/7TD8-N7U2
+
+
+https://perma.cc/A54B-73C8
+
+
+https://perma.cc/TB78-YF5A
 
 
 
@@ -340,10 +384,13 @@ http://extwprlegs1.fao.org/docs/pdf/lbr174510.pdf
  According to article 88 of the Liberian constitution, the legislature needs to approve the declaration of a State of Emergency by the President, within 72 hours, or the declaration is automatically revoked. There is no requirement that the legislature approves the National Health Emergency however, which can be declared by the Health Minister if the spread of a dangerous disease exists within the country. This is therefore coded 0 for Q4 of 2020 and Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Liberia_1986?lang=en
+ https://perma.cc/9M8G-HXXH
 
-http://moh.gov.lr/press-release/2020/revised-Covid-19-declaration-of-national-health-emergency-by-the-ministry-of-health/
-http://extwprlegs1.fao.org/docs/pdf/lbr174510.pdf
+
+https://perma.cc/F58Y-ES5Y
+
+
+https://perma.cc/TB78-YF5A
 
 
 
@@ -385,10 +432,13 @@ http://extwprlegs1.fao.org/docs/pdf/lbr174510.pdf
  The legislature approved the State of Emergency declared by the president, and extended it to 60 days instead of 21. There is no requirement that the legislature approves the National Health Emergency however, which can be declared by the Health Minister if the spread of a dangerous disease exists within the country. This is therefore coded 0 for Q4 of 2020 and Q1 and Q2 of 2021. 
 
 *Sources*:
- https://allafrica.com/stories/202004180007.html
+ https://perma.cc/9TUK-ATNL
 
-http://moh.gov.lr/press-release/2020/revised-Covid-19-declaration-of-national-health-emergency-by-the-ministry-of-health/
-http://extwprlegs1.fao.org/docs/pdf/lbr174510.pdf
+
+https://perma.cc/U93A-DJ56
+
+
+https://perma.cc/TB78-YF5A
 
 
 
@@ -434,9 +484,13 @@ http://extwprlegs1.fao.org/docs/pdf/lbr174510.pdf
  The Liberian constitution, article 86a states that: "...Acting pursuant thereto, the President may suspend or affect certain rights, freedoms and guarantees contained in this Constitution and exercise such other emergency powers as may be necessary and appropriate to take care of the emergency." According to the constitution certain rights cannot be suspended and the legislature must approve and can revoke the SOE. Thus, for the duration of the State of Emergency, the government ruled by decree to a large extent, and with broad powers, but these were constrained by legislative oversight and within certain bounds. Article 87a also states that "Emergency powers do not include the power to suspend or abrogate the Constitution [or] dissolve the Legislature...". 3.3. of the Executive Law also provides the president with the right to declare curfews or quarantines, etc. The state of emergency ended on July 21 2020. Under the public health law § 14.2. the minister of health has extended rights to deal with the emergency. Paragraph 14.2 of the public health act maps out the powers of the minister of health under a declaration of a national health emergency, which allows for various measures to limit the spread of diseases (limiting assemblies and movement, strengthening health care and the like), but does not provide for any arbitrary interpretation of what is Covid-19 related nor any general emergency powers beyond those related to limiting the spread of a disease. The chapter in the Public Health Law makes no mention of the legislatures role in this, and the minister of health has the sole responsibility over these efforts. This is therefore coded 2 Q3 and onward where the public health law is the main legal instrument, as the minister of health has the right to rule by decree, but what the minister is authorized to do is delineated and only disease-related. 
 
 *Sources*:
- http://www.vertic.org/media/National%20Legislation/Liberia/LR_Public%20Health%20Law%20-%20Title%2033%20-%20Liberian%20Code%20of%20Laws%20Revised.pdf
-https://www.constituteproject.org/constitution/Liberia_1986?lang=en
-http://www.liberlii.org/cgi-bin/disp.pl/lr/legis/codes/elt12lcolr429/elt12lcolr429.html?stem=0&synonyms=0&query=state%20of%20emergency
+ https://perma.cc/2QY2-MVPC
+
+
+https://perma.cc/H2HB-CW62
+
+
+https://perma.cc/PSB4-2J7V
 
 
 
@@ -558,16 +612,25 @@ http://www.liberlii.org/cgi-bin/disp.pl/lr/legis/codes/elt12lcolr429/elt12lcolr4
  The measures apply to all of Liberia. During the first two weeks of the state of emergency, "residents within the borders of Montserrado County, Margibi County, Nimba County, and Grand Kru County are to STAY AT HOME". Also prior to this, the counties of Montserrado and Margibi were on lockdown for 21 days as part of the national health emergency. Since then, all measure have been taken nationwide, and this is therefore coded 0 after Q3 of 2020. 
 
 *Sources*:
- https://www.emansion.gov.lr/2press.php?news_id=5159&related=7&pg=sp
-https://www.emansion.gov.lr/doc/ADDRESS%20TO%20THE%20NATION.pdf
-https://medicalxpress.com/news/2020-04-liberia-capital-virus-threat.html
-https://blogs.loc.gov/law/2020/05/liberia-government-measures-to-contain-the-spread-of-Covid-19/
+ https://perma.cc/CJ6L-RPHV
 
-https://www.garda.com/crisis24/news-alerts/479446/liberia-Covid-19-related-protocols-in-place-as-of-may-17-following-may-10-update-update-23
 
-https://www.garda.com/crisis24/news-alerts/465851/liberia-health-officials-maintaining-Covid-19-related-restrictions-nationwide-as-of-april-12-update-21
+https://perma.cc/93MV-QUP4
 
-https://www.garda.com/crisis24/news-alerts/436101/liberia-health-officials-maintain-coronavirus-disease-related-restrictions-as-of-jan-28-update-18
+
+https://perma.cc/2KNX-XJA4
+
+
+https://perma.cc/2P2Y-QSSC
+
+
+https://perma.cc/7HXK-QX2H
+
+
+https://perma.cc/W53P-E8Y6
+
+
+https://perma.cc/5BEH-TFLG
 
 
 
@@ -611,10 +674,13 @@ https://www.garda.com/crisis24/news-alerts/436101/liberia-health-officials-maint
  No discrimination solely based on the ground of race, colour, sex, language, religion or social origin, was found in the emergency response. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/africa/liberia/
-https://www.hrw.org/africa/liberia
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/liberia/
- 
+ https://perma.cc/R82D-AJ82
+
+
+https://perma.cc/J3BY-V848
+
+
+https://perma.cc/LYE5-PTEU
 
 
 
@@ -663,10 +729,13 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/lib
  No emergency measures that de-jure violate non-derogable rights as defined by the ICCPR, was found. 
 
 *Sources*:
- https://www.amnesty.org/en/countries/africa/liberia/
-https://www.hrw.org/africa/liberia
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/liberia/
- 
+ https://perma.cc/4K5J-KF8E
+
+
+https://perma.cc/TW5A-3FMM
+
+
+https://perma.cc/74JE-9J35
 
 
 
@@ -711,13 +780,25 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/lib
 However, these actions were taken under the state of emergency, which ended on 2020-07-21. No evidence of these measures having been enforced after that, nor that it was replaced with any other de jure limitations to media. This is therefore coded as 0 from Q4 of 2020. 
 
 *Sources*:
- https://rsf.org/en/news/Covid-19-emergency-laws-spell-disaster-press-freedom
-https://newspublictrust.com/solicitor-general-vows-to-crack-down-on-media-over-fake-news/
-https://cpj.org/2020/05/liberias-journalists-wary-as-authorities-announce/
-https://www.constituteproject.org/constitution/Liberia_1986?lang=en
-https://rsf.org/en/news/Covid-19-lockdown-forces-liberias-newspapers-suspend-printing-0
-https://rsf.org/en/news/liberian-official-threatens-close-media-under-state-emergency
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/liberia/
+ https://perma.cc/PBT2-SZN8
+
+
+https://perma.cc/U6LR-BBAV
+
+
+https://perma.cc/Y6JD-R7AQ
+
+
+https://perma.cc/7CF6-6LHZ
+
+
+https://perma.cc/3CHY-YMDX
+
+
+https://perma.cc/R7Z9-2RAW
+
+
+https://perma.cc/LT6P-SVED
 
 
 
@@ -756,12 +837,22 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/lib
  The media limitations are made under the authority of the declaration of State of Emergency (articles 85, 86, 87, and 88 of the constitution), which allows the President to "suspend or affect certain rights, freedoms and guarantees" during a State of Emergency. The date is the start date for the State of Emergency declaration (variable emstart). 
 
 *Sources*:
- https://www.emansion.gov.lr/doc/ADDRESS%20TO%20THE%20NATION.pdf
-https://cpj.org/2020/05/liberias-journalists-wary-as-authorities-announce/
-https://www.constituteproject.org/constitution/Liberia_1986?lang=en
-https://rsf.org/en/news/Covid-19-lockdown-forces-liberias-newspapers-suspend-printing-0
-https://newspublictrust.com/solicitor-general-vows-to-crack-down-on-media-over-fake-news/
-https://rsf.org/en/news/liberian-official-threatens-close-media-under-state-emergency
+ https://perma.cc/2UV9-GU5K
+
+
+https://perma.cc/5MKB-U49K
+
+
+https://perma.cc/M2E7-KHS5
+
+
+https://perma.cc/TX9V-6VM3
+
+
+https://perma.cc/WD56-8YRA
+
+
+https://perma.cc/6NCH-XS75
 
 
 
@@ -800,13 +891,19 @@ https://rsf.org/en/news/liberian-official-threatens-close-media-under-state-emer
  The media limitations are made under the authority of the declaration of State of Emergency (articles 85, 86, 87, and 88 of the constitution), which allows the President to "suspend or affect certain rights, freedoms and guarantees" during a State of Emergency. The date is the end date for the State of Emergency declaration (variable emlimitdate). 
 
 *Sources*:
- https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
+ https://perma.cc/WA9V-LRPD
 
 
 
-https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
 
 
+
+
+
+
+
+
+https://perma.cc/MBV9-N6NW
 
 
 
@@ -850,17 +947,25 @@ https://lr.usembassy.gov/alert-u-s-embassy-monrovia-liberia-24-july-2020/
 There is much less reporting on the media situation in Liberia after Q2 of 2020, and the de jure limitation in place on media under the state of emergency seem to have ended when the state of emergency ended on 2020-07-21. The US state department in their human rights report also report that media in Liberia is relatively free, although issues such as self-censorship and government-owned media outlets exist. From the evidence found on this after the end of the limitation to media freedom under the state of emergency, there is not any limitations in place that indicates this should be coded as 1. This is therefore coded as 0 from Q4 and onwards, as no evidence of any limitations to Covid-19 reporting has been found after the end of the state of emergency. 
 
 *Sources*:
- https://rsf.org/en/news/Covid-19-emergency-laws-spell-disaster-press-freedom
-(1)
-https://cpj.org/2020/04/journalists-in-liberia-attacked-harassed-for-repor/
-https://monitor.civicus.org/country/liberia/#newspost-3228
-https://rsf.org/en/news/liberia-urged-guarantee-access-coronavirus-information
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/liberia/
+ https://perma.cc/787J-7385
 
 
-https://cpj.org/blog/africa/liberia/
+https://perma.cc/N4PS-PUJN
 
-https://rsf.org/en/thematique/internet?countries%5B29%5D=29
+
+https://perma.cc/DH47-RYSE
+
+
+https://perma.cc/ZJ7Q-YMWL
+
+
+https://perma.cc/5ZPY-PCVJ
+
+
+https://perma.cc/C4MV-XFHG
+
+
+https://perma.cc/3NH9-9S89
 
 
 
@@ -905,20 +1010,29 @@ There are further reports of journalists getting attacked and arrested, however,
 There is much less reporting on the media situation in Liberia after Q2 of 2020, and the de jure limitation in place on media under the state of emergency seem to have ended when the state of emergency ended on 2020-07-21. The US state department in their human rights report also report that media in Liberia is relatively free, although issues such as self-censorship and government-owned media outlets exist. From the evidence found on this after the end of the limitation to media freedom under the state of emergency, there is not any limitations in place that indicates this should be coded as 1. This is therefore coded as 0 from Q4 and onwards, as no evidence of any limitations to reporting on the governments Covid-19 response has been found after the end of the state of emergency. 
 
 *Sources*:
- https://rsf.org/en/news/Covid-19-emergency-laws-spell-disaster-press-freedom
+ https://perma.cc/LK6G-45N7
 (1)
-https://cpj.org/2020/04/journalists-in-liberia-attacked-harassed-for-repor/
-https://monitor.civicus.org/country/liberia/#newspost-3228
-https://rsf.org/en/news/liberia-urged-guarantee-access-coronavirus-information
-https://rsf.org/en/news/Covid-19-lockdown-forces-liberias-newspapers-suspend-printing
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/liberia/
 
 
-https://cpj.org/blog/africa/liberia/
+https://perma.cc/RF5D-5M67
 
-https://rsf.org/en/thematique/internet?countries%5B29%5D=29
 
- 
+https://perma.cc/6A4V-JX58
+
+
+https://perma.cc/Y78B-7665
+
+
+https://perma.cc/M7TC-28BA
+
+
+https://perma.cc/5F5R-SR3W
+
+
+https://perma.cc/4YYL-7L2G
+
+
+https://perma.cc/ZZ72-5Z4S
 
 
 
@@ -961,18 +1075,28 @@ https://rsf.org/en/thematique/internet?countries%5B29%5D=29
 There is much less reporting on the media situation in Liberia after Q2 of 2020, and the de jure limitation in place on media under the state of emergency seem to have ended when the state of emergency ended on 2020-07-21. The US state department in their human rights report also report that media in Liberia is relatively free, although issues such as self-censorship and government-owned media outlets exist. From the evidence found on this after the end of the limitation to media freedom under the state of emergency, there is not any limitations in place that indicates this should be coded as 1. This is therefore coded as 0 from Q4 and onwards, as no evidence of any limitations to non-Covid-19 related reporting has been found after the end of the state of emergency. 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-https://frontpageafricaonline.com/front-slider/pul-slams-micats-plan-to-issue-new-Covid-19-pass-to-journalists/
-https://cpj.org/2020/05/liberias-journalists-wary-as-authorities-announce-/
+ https://perma.cc/JU57-YJDW
+
+
+https://perma.cc/39SK-KQB6
+
+
+https://perma.cc/X6GA-A9GA
+
+
 (1)
 
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/liberia/
 
 
-https://cpj.org/blog/africa/liberia/
 
-https://rsf.org/en/thematique/internet?countries%5B29%5D=29
+https://perma.cc/5L56-2CCD
+
+
+https://perma.cc/9AL5-SQSH
+
+
+https://perma.cc/RHA8-GMDF
 
 
 
@@ -1015,15 +1139,19 @@ https://rsf.org/en/thematique/internet?countries%5B29%5D=29
  Authorities in Liberia have decided to limit access to the president's office to a handful of media outlets that are nearly all controlled by the government or supportive of it. However, this was part of the measures taken within the state of emergency, and is reported to have ended by the time the state of emergency ended. No evidence of any other limitations to information in relation to Covid-19 has been found, and this is therefore coded as 0 from Q4 and onward. 
 
 *Sources*:
- https://rsf.org/en/news/liberia-urged-guarantee-access-coronavirus-information
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/liberia/
+ https://perma.cc/MBK7-SQH7
 
 
-https://cpj.org/blog/africa/liberia/
+https://perma.cc/YTG9-G8HU
 
-https://rsf.org/en/thematique/internet?countries%5B29%5D=29
+
+https://perma.cc/Z8KW-8UCJ
+
+
+https://perma.cc/B4XS-G69Q
+
+
+https://perma.cc/3AAL-6CV9
 
 
 
@@ -1065,14 +1193,19 @@ https://rsf.org/en/thematique/internet?countries%5B29%5D=29
  Between 19 and 21 March 2020, a journalist was interrogated three times for critical reporting about the governmnet Covid-19 response. The interrogations lasted about five hours on each visit. Another journalist felt threatened after being pressured to reveal his sources on a story on the upcoming lockdown. However, no reports of any threats or other verbal harassment toward journalists has been found in the later periods, and this is therefore only coded 1 in the first period. 
 
 *Sources*:
- https://monitor.civicus.org/country/liberia/#newspost-3228
-https://cpj.org/2020/04/journalists-in-liberia-attacked-harassed-for-repor/
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/liberia/
+ https://perma.cc/R3YQ-XX43
 
 
-https://cpj.org/blog/africa/liberia/
+https://perma.cc/CD9K-3MZ5
 
-https://rsf.org/en/thematique/internet?countries%5B29%5D=29
+
+https://perma.cc/YY48-TC2A
+
+
+https://perma.cc/PH2A-2UAF
+
+
+https://perma.cc/6C7Q-RF7C
 
 
 
@@ -1114,14 +1247,19 @@ https://rsf.org/en/thematique/internet?countries%5B29%5D=29
  On 27 March 2020, a journalist that was attacked by LDEA agents with the apparent aim of preventing him from reporting that around 100 people attended the wake in violation of a ban on large gatherings. On 30 March 2020, a radio director was attacked by officers as he tried to report live on a group of officers enforcing social distancing. However, no reports of any physical harassment toward journalists has been found in the later periods, and this is therefore only coded 1 in the first period. 
 
 *Sources*:
- https://monitor.civicus.org/country/liberia/#newspost-3228
-https://cpj.org/2020/04/journalists-in-liberia-attacked-harassed-for-repor/
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/liberia/
+ https://perma.cc/2V7W-ZN8L
 
 
-https://cpj.org/blog/africa/liberia/
+https://perma.cc/GJR6-TQ42
 
-https://rsf.org/en/thematique/internet?countries%5B29%5D=29
+
+https://perma.cc/TEC9-TGW5
+
+
+https://perma.cc/K3C4-5MAF
+
+
+https://perma.cc/TJL5-G9GP
 
 
 
@@ -1165,10 +1303,16 @@ https://rsf.org/en/thematique/internet?countries%5B29%5D=29
  The information from the government is similar to the information from WHO. However, Liberia received a consignment from the Madagascar's president. WHO advises that there is no proof of its efficiency for the "Covid Organics" medicine (a herbal tonic touted as a cure for  Covid-19). No evidence of any other disinformation in later periods has been found, and this is therefore coded 0 for the other periods. 
 
 *Sources*:
- http://moh.gov.lr/
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses
-https://www.reuters.com/article/us-health-coronavirus-madagascar-idUSKBN22K1HQ
-https://frontpageafricaonline.com/front-slider/liberia-pres-weah-receives-controversial-Covid-19-cure-herbs-from-madagascar/
+ https://perma.cc/MGT6-P8EN
+
+
+https://perma.cc/H6G2-BQPK
+
+
+https://perma.cc/7G22-E54J
+
+
+https://perma.cc/PQX5-MBU4
 
 
 
@@ -1213,17 +1357,15 @@ https://frontpageafricaonline.com/front-slider/liberia-pres-weah-receives-contro
 No further evidence was found that indicates that security forces, such as the civilian police or military, has engaged in physical violence to execute the emergency measures later on. This is therefore coded 0 for all the other periods. 
 
 *Sources*:
- https://www.democracynow.org/2020/4/13/headlines/liberians_say_they_fear_hunger_more_than_covid_19_as_police_violently_enforce_lockdown
-https://www.reuters.com/article/us-health-coronavirus-liberia/liberia-coronavirus-lockdown-off-to-chaotic-start-idUSKCN21U0QU
+ https://perma.cc/DA6A-LC57
+https://perma.cc/AE3Z-4D8Z
+https://perma.cc/V8QF-PXLH
+https://perma.cc/ML8M-UZH7
+https://perma.cc/5M85-MYG2
+https://web.archive.org/web/20200425172830/https://www.liberianobserver.com/news/citizens-retaliate-with-brutality-against-police-abuse/
 
-https://www.amnesty.org/en/countries/africa/liberia/
-https://www.hrw.org/africa/liberia
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/liberia/
-https://www.liberianobserver.com/news/citizens-retaliate-with-brutality-against-police-abuse/
-
-
-https://frontpageafricaonline.com/news/liberia-afl-soldier-found-guilty-of-assaulting-woman-while-enforcing-soe/
-https://www.ghanaweb.com/GhanaHomePage/africa/Three-Liberian-soldiers-investigated-for-lockdown-brutality-927304
+https://perma.cc/P8LX-QDA3
+https://perma.cc/CS6J-NYXF
 
 
 
@@ -1265,8 +1407,16 @@ https://www.ghanaweb.com/GhanaHomePage/africa/Three-Liberian-soldiers-investigat
  The Armed Forces of Liberia were deployed to assist with the fight against the Coronavirus. Military involvement ended on July 21. 
 
 *Sources*:
- https://www.emansion.gov.lr/2press.php?news_id=5178&related=7&pg=sp
+ https://perma.cc/7HAX-J988
 
-https://www.bbc.com/news/topics/c77jz3md70rt/liberia
 
-https://www.garda.com/crisis24/news-alerts/362206/liberia-military-ends-Covid-19-policing-deployment-as-state-of-emergency-expires-july-22-update-12
+
+
+
+https://perma.cc/ZP4B-DN7T
+
+
+
+
+
+https://perma.cc/7RU7-6LLN

@@ -47,12 +47,9 @@
 A joint civilian-military body called the National Command and Operation Centre (NCOC) was established to respond to the Covid-19 situation in Pakistan. However this is not a legal instrument. Hence I have coded this variable as 5 across all the time periods. 
 
 *Sources*:
- https://www.voanews.com/covid-19-pandemic/pakistan-says-its-covid-19-cases-could-rise-12-million-end-july
-
-
-https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755241
-
-https://verfassungsblog.de/democratic-deficits-of-covid-19-crisis-in-pakistan/
+ https://perma.cc/N59C-2NWC
+https://perma.cc/JT6Y-NHC3
+https://perma.cc/7RK4-Q8F6
 
 
 
@@ -380,10 +377,8 @@ https://verfassungsblog.de/democratic-deficits-of-covid-19-crisis-in-pakistan/
  I have not found information that suggests that the power of the national legislature has been diminished in anyway due to the emergency measures that have been employed across all the time periods. 
 
 *Sources*:
- https://www.voanews.com/covid-19-pandemic/pakistan-says-its-covid-19-cases-could-rise-12-million-end-july
-
-
-https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755241
+ https://perma.cc/N59C-2NWC
+https://perma.cc/JT6Y-NHC3
 
 
 
@@ -509,16 +504,11 @@ However from 26 November 2020 to 11 january 2021, the only emergency measure tha
 Pakistan introduced a partial lockdown across the country from 8 to 16 May 2021. The measures were implemented uniformly across the country. Hence I have coded the variable as 1 for Q2 of 2021. 
 
 *Sources*:
- https://www.voanews.com/covid-19-pandemic/pakistan-says-its-covid-19-cases-could-rise-12-million-end-july
-
-
-https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755241
-
-https://www.bmj.com/content/371/bmj.m4113/rr-0
-
-https://www.reuters.com/article/health-coronavirus-pakistan-schools-idUSKBN28618X
-
-https://www.garda.com/crisis24/news-alerts/398316/pakistan-lockdowns-introduced-in-parts-of-lahore-rawalpindi-and-multan-punjab-province-november-10-update-36
+ https://perma.cc/H45P-RZ2K
+https://perma.cc/XS6A-U35E
+https://perma.cc/Y5EV-YLK8
+https://perma.cc/UFU2-LRVY
+https://perma.cc/NHL5-FHG9
 
 
 
@@ -566,13 +556,9 @@ The churches were reopened in May 2020.
 I did not find evidence of other emergency measures discriminating "solely on the grounds of race, colour, sex, language, religion or social origin" in Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.ucanews.com/news/activists-slam-punjabs-discriminatory-policy-on-prayers/87491
-
-
-https://www.arabnews.pk/node/1676101/pakistan.
-
-
-https://www.hrw.org/world-report/2021/country-chapters/pakistan#12ffb1
+ https://perma.cc/FM3B-WSMF
+https://perma.cc/B37N-RMVD
+https://perma.cc/XL3H-TY7N
 
 
 
@@ -623,15 +609,9 @@ https://www.hrw.org/world-report/2021/country-chapters/pakistan#12ffb1
 I did not find evidence of the emergency measures violating non-derogable rights as defined by the ICCPR in Q1 and Q2 of 2021. 
 
 *Sources*:
- https://www.ucanews.com/news/activists-slam-punjabs-discriminatory-policy-on-prayers/87491
-
-
-https://www.arabnews.pk/node/1676101/pakistan.
-
-
-https://www.arabnews.pk/node/1676101/pakistan
-
-https://ipi.media/alerts/two-pakistani-journalists-allegedly-tortured-by-paramilitary-force-for-coronavirus-coverage/
+ https://perma.cc/APM7-W5QY
+https://perma.cc/4W4H-WJYH
+https://perma.cc/LS2D-JP5E
 
 
 
@@ -675,12 +655,8 @@ https://ipi.media/alerts/two-pakistani-journalists-allegedly-tortured-by-paramil
  Did not find info on any emergency measures de-jure limiting media freedom across all the time periods. 
 
 *Sources*:
- https://www.voanews.com/covid-19-pandemic/pakistan-says-its-covid-19-cases-could-rise-12-million-end-july
-
-
-
-
-https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755241
+ https://perma.cc/N59C-2NWC
+https://perma.cc/JT6Y-NHC3
 
 
 
@@ -800,14 +776,10 @@ https://www.dw.com/en/coronavirus-latest-who-urges-pakistan-to-lock-down/a-53755
  There have been no de-facto limitations on reporting on the nature of Covid-19 in Pakistan. However, Pakistan does have an extremely regulated press. As such, I have coded this variable as 1 across all the time periods. 
 
 *Sources*:
- https://ipi.media/covid19-media-freedom-monitoring/
-
-
-https://rsf.org/en/pakistan
-
-https://reutersinstitute.politics.ox.ac.uk/our-research/caught-between-five-extremes-reporting-pakistan
-
-https://www.dw.com/en/matiullah-jan-critical-journalists-routinely-threatened-in-pakistan/a-54620414
+ https://perma.cc/JL9G-SZ2W
+https://perma.cc/LC7N-CM8M
+https://perma.cc/M989-DY2Q
+https://perma.cc/ERX6-UWYC
 
 
 
@@ -851,22 +823,35 @@ https://www.dw.com/en/matiullah-jan-critical-journalists-routinely-threatened-in
 This coupled with the generally controlled press, continued crackdown on press freedom and dissenting voices in Pakistan could cause the media to face continued de-facto limitations on reporting on the government’s response to the pandemic. As the media situation does not seem to have improved in Q1 and Q2 of 2021, I have continued to code this variable as 1. 
 
 *Sources*:
- https://gandhara.rferl.org/a/two-pakistani-journalists-allegedly-tortured-by-paramilitary-force-for-coronavirus-coverage/30687676.html
-
-https://www.rferl.org/a/pakistan-journalists-tortured-for-reporting/30687013.html
-
-https://www.voanews.com/press-freedom/pakistani-security-force-accused-beating-journalists
-
-https://reutersinstitute.politics.ox.ac.uk/our-research/caught-between-five-extremes-reporting-pakistan
-
-https://rsf.org/en/news/pakistani-government-orchestrated-cyber-harassment-women-journalists
-
-https://www.dw.com/en/matiullah-jan-critical-journalists-routinely-threatened-in-pakistan/a-54620414
-
-https://www.hrw.org/news/2020/09/11/pakistans-hypocrisy-press-freedom
+ https://perma.cc/LB4S-FHVT
 
 
-https://rsf.org/en/news/pakistan-surge-harassment-journalists-who-criticize-social-media
+
+https://perma.cc/3XTX-5LE2
+
+
+
+https://perma.cc/W7YT-5SF9
+
+
+
+https://perma.cc/J6PQ-YXCN
+
+
+
+https://perma.cc/ZK68-5V3D
+
+
+
+https://perma.cc/PM94-WJD4
+
+
+
+https://perma.cc/725W-KY44
+
+
+
+https://perma.cc/84SC-HHL4
 
 
 
@@ -908,15 +893,11 @@ https://rsf.org/en/news/pakistan-surge-harassment-journalists-who-criticize-soci
  I did not find evidence of this occuring through out all the time periods. 
 
 *Sources*:
- https://rsf.org/en/pakistan
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://www.bbc.com/news/topics/c008ql15vpyt/pakistan
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/pakistan/
-
-https://verfassungsblog.de/democratic-deficits-of-covid-19-crisis-in-pakistan/
+ https://perma.cc/LC7N-CM8M
+https://perma.cc/JL9G-SZ2W
+https://perma.cc/9WUX-88Q4
+https://perma.cc/Y9CQ-SXKC
+https://perma.cc/83VN-T6MK
 
 
 
@@ -959,13 +940,10 @@ https://verfassungsblog.de/democratic-deficits-of-covid-19-crisis-in-pakistan/
  Did not find information on this happening across all the time periods. 
 
 *Sources*:
- https://rsf.org/en/pakistan
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://www.bbc.com/news/topics/c008ql15vpyt/pakistan
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/pakistan/
+ https://perma.cc/89FU-CLR6
+https://perma.cc/M6HK-JWVB
+https://perma.cc/A3Y5-638G
+https://perma.cc/7AYQ-GMC3
 
 
 
@@ -1009,13 +987,10 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/pakistan/
  
 
 *Sources*:
- https://rsf.org/en/pakistan
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://www.bbc.com/news/topics/c008ql15vpyt/pakistan
-
-https://www.amnesty.org/en/countries/asia-and-the-pacific/pakistan/
+ https://perma.cc/LC7N-CM8M
+https://perma.cc/JL9G-SZ2W
+https://perma.cc/9WUX-88Q4
+https://perma.cc/Y9CQ-SXKC
 
 
 
@@ -1059,23 +1034,35 @@ https://www.amnesty.org/en/countries/asia-and-the-pacific/pakistan/
 As I did not find more cases of journalists being physically harassed due to reporting on Covid-19. I have coded the rest of the time periods as 0. 
 
 *Sources*:
- https://gandhara.rferl.org/a/two-pakistani-journalists-allegedly-tortured-by-paramilitary-force-for-coronavirus-coverage/30687676.html
-
-https://reutersinstitute.politics.ox.ac.uk/our-research/caught-between-five-extremes-reporting-pakistan
-
-https://rsf.org/en/news/pakistani-government-orchestrated-cyber-harassment-women-journalists
-
-https://www.dw.com/en/matiullah-jan-critical-journalists-routinely-threatened-in-pakistan/a-54620414
-
-https://www.rferl.org/a/pakistan-journalists-tortured-for-reporting/30687013.html
-
-https://www.voanews.com/press-freedom/pakistani-security-force-accused-beating-journalists
+ https://perma.cc/H3DH-98BY
 
 
-https://rsf.org/en/news/pakistan-surge-harassment-journalists-who-criticize-social-media
+
+https://perma.cc/JRE7-PFYB
 
 
-https://www.hrw.org/news/2020/09/11/pakistans-hypocrisy-press-freedom
+
+https://perma.cc/3ZZJ-4Q6K
+
+
+
+https://perma.cc/7UJ4-VC4Y
+
+
+
+https://perma.cc/32SC-PPZ5
+
+
+
+https://perma.cc/VPM4-THWJ
+
+
+
+https://perma.cc/WD3U-FYG5
+
+
+
+https://perma.cc/L9AR-354D
 
 
 
@@ -1119,7 +1106,7 @@ https://www.hrw.org/news/2020/09/11/pakistans-hypocrisy-press-freedom
  Did not find information on this happening across all the time periods. 
 
 *Sources*:
- http://covid.gov.pk/
+ https://perma.cc/JGX8-CNMW
 
 
 
@@ -1165,13 +1152,10 @@ https://www.hrw.org/news/2020/09/11/pakistans-hypocrisy-press-freedom
 I have not found other instances of police violence since then. 
 
 *Sources*:
- https://www.theguardian.com/world/2020/apr/09/pakistan-doctors-beaten-police-despair-untreatable-pandemic
-
-https://www.thenews.com.pk/print/633532-cops-in-a-fix-over-how-to-impose-lockdown
-
-https://www.thenews.com.pk/latest/642364-coronavirus-lockdown-woman-sho-wounded-as-mob-attacks-police-outside-karachi-mosque
-
-https://in.news.yahoo.com/upsurge-police-brutality-pakistan-160728874.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAIELIMXplnNSqFOfUVJ5pRUCZKSyHk51c0n2iOAqfpkyGGRq7rj59OZmAPRTfcR33BnAxXlYHGLeDyxjo2B_VK5fcqqA9XVvJ6OtM4DlORiGu79pVvMkxBYXbQm19kYVlz0ooBnTsvYheX_70xbKdBBTX8NHTUqGqpdtXrfHuVXt
+ https://perma.cc/2RWK-DRZL
+https://perma.cc/XG4D-SFAN
+https://perma.cc/WY5C-S7MD
+https://perma.cc/ZWU8-M828
 
 
 
@@ -1217,15 +1201,9 @@ I have not found evidence suggesting that the military continues to  enforce the
 The military was again deployed to 16 cities in April 2021 to help the civilian authorities enforce measures. 
 
 *Sources*:
- https://edition.cnn.com/2020/04/25/opinions/pakistan-coronavirus-lockdown-intl-hnk/index.html
-
-
-https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-26-20-intl-hnk/h_3105cb4328f969214790f647afc89bbf
-
-https://www.ft.com/content/686714d7-ae05-431d-a13d-1966153be151
-
-https://verfassungsblog.de/democratic-deficits-of-covid-19-crisis-in-pakistan/
-
-https://www.reuters.com/world/india/pakistan-deploys-army-16-cities-enforce-covid-19-precautions-2021-04-26/
-
-https://www.dw.com/en/covid-in-pakistan-is-army-deployment-an-admission-of-failure/a-57376149
+ https://perma.cc/Y7CN-RDSB
+https://perma.cc/GY6P-2NZK
+https://perma.cc/839W-FTRR
+https://perma.cc/A695-S6EB
+https://perma.cc/LRD2-92LX
+https://perma.cc/LPS5-8UEF

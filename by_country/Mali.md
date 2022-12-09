@@ -56,50 +56,39 @@ Due to surge in Covid-19 cases, the Malian transition government declared a stat
 The government extended the state of health emergency on 23 December 2020 until 26 June 2021 (13, 14). ''In accordance with Law n ° 2017-055 of 6 November 2017 relating to the state of siege and the state of emergency, its extension beyond 10 days is authorized by law.'' 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Mali_1992.pdf?lang=en
+ https://perma.cc/PT8Y-3TCG
 (1)
-
-http://primature.ml/communique-du-conseil-des-ministres-du-mercredi-25-mars-2020/
+https://web.archive.org/web/20200702105724/http://primature.ml/communique-du-conseil-des-ministres-du-mercredi-25-mars-2020/
 (2)
-
-https://www.amba-mali.be/index.php/14-sample-data-articles/219-adresse-a-la-nation-de-sem-ibrahim-boubacar-keita-president-de-la-republique-chef-de-l-etat-suite-a-la-decouverte-de-cas-de-coronavirus-au-mali
-(2)https://sgg-mali.ml/JO/2017/mali-jo-2017-46.pdf
+https://perma.cc/783V-MR4L
+(2)
+https://perma.cc/HN8S-WEMM
 (3)
-
-https://afrique.latribune.fr/think-tank/tribunes/2020-04-10/le-mali-face-au-covid-19-sommes-nous-a-la-hauteur-3-3-844576.html
+https://perma.cc/3E4V-EJSN
 (4)
-
-https://www.rti.ci/info/3/afrique/26958/le-mali-leve-le-couvre-feu-port-du-masque-obligatoire-en-public
+https://perma.cc/3ENG-TBLQ
 (5)
+https://perma.cc/2VNS-PPKY
 
-https://ouestaf.com/mesures-barrieres-contre-le-covid-19-les-maliens-nen-ont-cure/
 (6)
-
-https://www.liberation.fr/direct/element/le-president-du-mali-demissionne-dissout-le-gouvernement-et-lassemblee-nationale_117761/
+https://perma.cc/VUE7-KJS9
 (7)
+https://perma.cc/ERV2-S23C
 
-https://theconversation.com/la-chute-ineluctable-du-president-malien-ibrahim-boubacar-keita-144787
 (8)
-
-https://www.france24.com/fr/20200819-mali-de-la-crise-politique-au-coup-d-%C3%A9tat-militaire
+https://perma.cc/3CFW-7VB6
 (9)
-
-https://www.dw.com/fr/le-covid-19-remet-en-cause-les-%C3%A9lections-du-29-mars-au-mali/a-52918025
+https://perma.cc/SY3E-87ZP
 (10)
 
-
-http://apf.francophonie.org/Elections-legislatives-au-Mali-l-2180433.html
+https://perma.cc/FW5N-FVTZ
 (11)
-
-
-https://sgg-mali.ml/JO/2020/mali-jo-2020-19-sp.pdf
+https://perma.cc/KDC6-5TDC
 (12)
-
 https://www.facebook.com/563531873666309/posts/3981531871866275/
 (13)
 
-
-https://www.ouestaf.com/mali-letat-durgence-sanitaire-prolonge-jusquau-26-juin-2021/
+https://perma.cc/V5XK-36C8
 (14)
 
 
@@ -143,15 +132,15 @@ Constitution, articles 49 and 50 (1)
 *No comment provided* 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Mali_1992.pdf?lang=en
+ https://perma.cc/PT8Y-3TCG
+
 (1)
-https://sgg-mali.ml/JO/2017/mali-jo-2017-46.pdf
+https://perma.cc/HN8S-WEMM
 (2)
-http://primature.ml/communique-du-conseil-des-ministres-du-mercredi-25-mars-2020/
-
+https://web.archive.org/web/20200702105724/http://primature.ml/communique-du-conseil-des-ministres-du-mercredi-25-mars-2020/
+3)
 https://www.facebook.com/563531873666309/posts/3981531871866275/
-
-
+(4)
 
 
 
@@ -192,15 +181,13 @@ https://www.facebook.com/563531873666309/posts/3981531871866275/
 Due to surge in Covid-19 cases, the Malian government declared a state of health emergency on 18 December 2020, to last initially for 10 days (until 28 December 2020). The government extended the state of health emergency on 23 December 2020 until 26 June 2021. 
 
 *Sources*:
- http://primature.ml/communique-du-conseil-des-ministres-du-mercredi-25-mars-2020/
+ https://web.archive.org/web/20200702105724/http://primature.ml/communique-du-conseil-des-ministres-du-mercredi-25-mars-2020/
+(1)
 
-https://www.amba-mali.be/index.php/14-sample-data-articles/219-adresse-a-la-nation-de-sem-ibrahim-boubacar-keita-president-de-la-republique-chef-de-l-etat-suite-a-la-decouverte-de-cas-de-coronavirus-au-mali
-
+https://perma.cc/783V-MR4L
+(2)
 https://www.facebook.com/563531873666309/posts/3981531871866275/
 (3)
-
-
-
 
 
 
@@ -241,26 +228,28 @@ https://www.facebook.com/563531873666309/posts/3981531871866275/
 Due to surge in Covid-19 cases, the Malian government declared a state of health emergency on 18 December 2020, to last initially for 10 days (until 28 December 2020). The government extended the state of health emergency on 23 December 2020 until 26 June 2021 (10). 
 
 *Sources*:
- http://primature.ml/allocution-du-dr-boubou-cisse-premier-ministre-chef-du-gouvernement-suite-au-conseil-national-de-defense-sur-la-pandemie-du-covid-19/
-(1)
+ https://web.archive.org/web/20200511001518/http://primature.ml/allocution-du-dr-boubou-cisse-premier-ministre-chef-du-gouvernement-suite-au-conseil-national-de-defense-sur-la-pandemie-du-covid-19/
 
-https://www.aa.com.tr/fr/afrique/mali-covid-19-lev%C3%A9e-du-couvre-feu-sur-toute-l%C3%A9tendue-du-territoire/1834861
+(1)
+https://perma.cc/JV7M-93D3
 (2)
 
-https://www.garda.com/crisis24/news-alerts/340831/mali-curfew-lifted-nationwide-may-9-update-4
+https://perma.cc/7W5Q-J69B
 (3)
 
-https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mali/
+https://perma.cc/5TWW-YMNQ
 
-http://www.fao.org/3/ca9432fr/ca9432fr.pdfhttps://ml.usembassy.gov/covid-19-information/
 
-https://www.rti.ci/info/3/afrique/26958/le-mali-leve-le-couvre-feu-port-du-masque-obligatoire-en-public
+https://perma.cc/HL6W-5PG2
 
-https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mali/
+https://perma.cc/6H9J-HPPY
+https://web.archive.org/web/20200808123331/https://www.rti.ci/info/3/afrique/26958/le-mali-leve-le-couvre-feu-port-du-masque-obligatoire-en-public
+https://perma.cc/6V8P-3R25
 
-https://information.tv5monde.com/afrique/coronavirus-le-mali-leve-le-couvre-feu-port-du-masque-obligatoire-en-public-358632
+https://perma.cc/EAB2-TM24
 
-https://ouestaf.com/mesures-barrieres-contre-le-covid-19-les-maliens-nen-ont-cure/
+
+https://perma.cc/2VNS-PPKY
 
 https://www.facebook.com/563531873666309/posts/3981531871866275/
 (10)
@@ -308,30 +297,28 @@ However, no limit date to the state of emergency was found for Q2 2020.
 Due to surge in Covid-19 cases, the Malian government declared a state of health emergency on 18 December 2020, to last initially for 10 days (until 28 December 2020). The government extended the state of health emergency on 23 December 2020 until 26 June 2021 (9, 10, 11). 
 
 *Sources*:
- http://primature.ml/communique-du-conseil-des-ministres-du-mercredi-25-mars-2020/
-
-https://sgg-mali.ml/JO/2017/mali-jo-2017-46.pdf
+ https://web.archive.org/web/20200702105724/http://primature.ml/communique-du-conseil-des-ministres-du-mercredi-25-mars-2020/
+(1)
+https://perma.cc/HN8S-WEMM
 (2)
-
-https://afrique.latribune.fr/think-tank/tribunes/2020-04-10/le-mali-face-au-covid-19-sommes-nous-a-la-hauteur-3-3-844576.html
-
-http://french.xinhuanet.com/afrique/2020-03/26/c_138917242.htm
-
-https://www.dw.com/fr/coronavirus-de-plus-en-plus-de-pays-africains-en-%C3%A9tat-durgence-sanitaire/a-52999087
-
-https://www.amba-mali.be/index.php/14-sample-data-articles/219-adresse-a-la-nation-de-sem-ibrahim-boubacar-keita-president-de-la-republique-chef-de-l-etat-suite-a-la-decouverte-de-cas-de-coronavirus-au-mali
-https://www.bbc.com/afrique/region-52043239
-
-https://www.tralac.org/documents/resources/covid-19/countries/3492-mali-communique-of-the-council-of-ministers-declaration-of-state-of-emergency-and-lockdown-24-march-2020/file.html
-
-https://sgg-mali.ml/JO/2020/mali-jo-2020-19-sp.pdf
+https://perma.cc/3E4V-EJSN
+(3)
+https://perma.cc/D4ZY-LUTW
+(4)
+https://perma.cc/ZAJ7-QLFX
+(5)
+https://perma.cc/783V-MR4L
+(6)
+https://perma.cc/748E-5E2S
+(7)
+https://perma.cc/393L-53SH
+(8)
+https://perma.cc/KDC6-5TDC
 (9)
-
 https://www.facebook.com/563531873666309/posts/3981531871866275/
 (10)
 
-
-https://www.ouestaf.com/mali-letat-durgence-sanitaire-prolonge-jusquau-26-juin-2021/
+https://perma.cc/V5XK-36C8
 (11)
 
 
@@ -374,30 +361,28 @@ However, no limit date to the state of emergency was found.
 Due to surge in Covid-19 cases, the Malian government declared a state of health emergency on 18 December 2020, to last initially for 10 days (until 28 December 2020). The government extended the state of health emergency on 23 December 2020 until 26 June 2021 (9, 10, 11). 
 
 *Sources*:
- http://primature.ml/communique-du-conseil-des-ministres-du-mercredi-25-mars-2020/
-
-https://sgg-mali.ml/JO/2017/mali-jo-2017-46.pdf
+ https://web.archive.org/web/20200702105724/http://primature.ml/communique-du-conseil-des-ministres-du-mercredi-25-mars-2020/
+(1)
+https://perma.cc/HN8S-WEMM
 (2)
-
-https://afrique.latribune.fr/think-tank/tribunes/2020-04-10/le-mali-face-au-covid-19-sommes-nous-a-la-hauteur-3-3-844576.html
-
-http://french.xinhuanet.com/afrique/2020-03/26/c_138917242.htm
-
-https://www.dw.com/fr/coronavirus-de-plus-en-plus-de-pays-africains-en-%C3%A9tat-durgence-sanitaire/a-52999087
-
-https://www.amba-mali.be/index.php/14-sample-data-articles/219-adresse-a-la-nation-de-sem-ibrahim-boubacar-keita-president-de-la-republique-chef-de-l-etat-suite-a-la-decouverte-de-cas-de-coronavirus-au-mali
-https://www.bbc.com/afrique/region-52043239
-
-https://www.tralac.org/documents/resources/covid-19/countries/3492-mali-communique-of-the-council-of-ministers-declaration-of-state-of-emergency-and-lockdown-24-march-2020/file.html
-
-https://sgg-mali.ml/JO/2020/mali-jo-2020-19-sp.pdf
+https://perma.cc/3E4V-EJSN
+(3)
+https://perma.cc/D4ZY-LUTW
+(4)
+https://perma.cc/ZAJ7-QLFX
+(5)
+https://perma.cc/783V-MR4L
+(6)
+https://perma.cc/748E-5E2S
+(7)
+https://perma.cc/393L-53SH
+(8)
+https://perma.cc/KDC6-5TDC
 (9)
-
 https://www.facebook.com/563531873666309/posts/3981531871866275/
 (10)
 
-
-https://www.ouestaf.com/mali-letat-durgence-sanitaire-prolonge-jusquau-26-juin-2021/
+https://perma.cc/V5XK-36C8
 (11)
 
 
@@ -443,9 +428,9 @@ Article 22 of Law N° 2017-054 of 31 October 2017 on the prorogation of the stat
 ''The date on which the state of siege or the state of emergency ends is set by decree taken by the Council of Ministers when this date is before the expiration of the deadline provided for by the Constitution. It is fixed by law when its extension is authorized by the National Assembly.'' 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Mali_1992.pdf?lang=en
-
-https://sgg-mali.ml/JO/2017/mali-jo-2017-46.pdf
+ https://perma.cc/PT8Y-3TCG
+(1)
+https://perma.cc/HN8S-WEMM
 (2)
 
 
@@ -494,36 +479,34 @@ Because of the above, the Cabinet of Ministers of Mali passed a bill on 1 April 
 The second state of emergency of 18 December 2020 (extended until 26 June 2021) has not been approved by the Parliament, since Mali has not held new legislative elections (6). 
 
 *Sources*:
- https://www.liberation.fr/direct/element/le-president-du-mali-demissionne-dissout-le-gouvernement-et-lassemblee-nationale_117761/
+ https://perma.cc/VUE7-KJS9
 (1)
+https://perma.cc/ERV2-S23C
 
-https://theconversation.com/la-chute-ineluctable-du-president-malien-ibrahim-boubacar-keita-144787
 (2)
+https://perma.cc/3CFW-7VB6
 
-https://www.france24.com/fr/20200819-mali-de-la-crise-politique-au-coup-d-%C3%A9tat-militaire
 (3)
-
-https://www.dw.com/fr/le-covid-19-remet-en-cause-les-%C3%A9lections-du-29-mars-au-mali/a-52918025
+https://perma.cc/SY3E-87ZP
 (4)
-
-http://apf.francophonie.org/Elections-legislatives-au-Mali-l-2180433.html
+https://perma.cc/FW5N-FVTZ
 (5)
-
-https://www.reuters.com/world/africa/mali-hold-elections-next-february-following-post-coup-transition-2021-04-15/
+https://perma.cc/4GGE-CH5D
 (6)
+https://perma.cc/6B8V-F6GN
+(7)
+https://perma.cc/K2YC-RKJN
+(8)
 
-https://www.dcaf.ch/sites/default/files/imce/FINAL_EN%20Background%20paper%20C-19%20Parlements%20v1.pdf
+https://perma.cc/YWF7-FHDZ
 
-https://fr.africanews.com/2020/05/12/mali-un-nouveau-president-a-l-assemblee-nationale/
-
-http://bamada.net/rentree-parlementaire-de-la-6eme-legislature-au-cicb-hier-moussa-timbine-plebiscite-par-134-voix-contre-8-pour-mara-disparition-de-lopposition-parlementaire-au-mali
-
+(9)
 https://www.facebook.com/563531873666309/posts/3981531871866275/
 
-
-https://www.ouestaf.com/mali-letat-durgence-sanitaire-prolonge-jusquau-26-juin-2021/
-
-https://www.lessormali.com/mali-letat-durgence-proroge-jusquau-26-juin-2021
+(10)
+https://perma.cc/V5XK-36C8
+https://web.archive.org/web/20201224215255/https://www.lessormali.com/mali-letat-durgence-proroge-jusquau-26-juin-2021
+(11)
 
 
 
@@ -573,40 +556,27 @@ On 18 August 2020 a military coup took place in Mali, leading to the resignation
 Due to surge in Covid-19 cases, the Malian government declared a state of health emergency on 18 December 2020, to last initially for 10 days (until 28 December 2020). The government extended the state of health emergency on 23 December 2020 until 26 June 2021. 
 
 *Sources*:
- https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+ https://perma.cc/B2CV-HXHC
 (1)
-
-https://www.constituteproject.org/constitution/Mali_1992.pdf?lang=en
+https://perma.cc/PT8Y-3TCG
 (2)
-
-https://sgg-mali.ml/JO/2017/mali-jo-2017-46.pdf
+https://perma.cc/HN8S-WEMM
 (3)
-
-https://www.france24.com/fr/20200819-mali-de-la-crise-politique-au-coup-d-%C3%A9tat-militaire
+https://perma.cc/3CFW-7VB6
 (4)
-
-https://www.liberation.fr/direct/element/le-president-du-mali-demissionne-dissout-le-gouvernement-et-lassemblee-nationale_117761/
+https://perma.cc/VUE7-KJS9
 (5)
-
-https://www.theafricareport.com/38911/mali-coup-detat-military-proposes-three-year-transition/
+https://perma.cc/5ASQ-UBSC
 (6)
-
-https://www.bbc.com/afrique/54020425
+https://perma.cc/QCP7-3K32
 (7)
-
 https://www.facebook.com/563531873666309/posts/3981531871866275/
 (8)
-
-https://www.ouestaf.com/mali-letat-durgence-sanitaire-prolonge-jusquau-26-juin-2021/
+https://perma.cc/V5XK-36C8
 (9)
-
-https://www.lessormali.com/mali-letat-durgence-proroge-jusquau-26-juin-2021
+https://web.archive.org/web/20201224215255/https://www.lessormali.com/mali-letat-durgence-proroge-jusquau-26-juin-2021
 (10)
-
-https://www.aljazeera.com/news/2020/9/25/bah-ndaw-sworn-in-as-malis-transitional-president-following-coup
-(11)
-
-https://www.reuters.com/world/africa/mali-hold-elections-next-february-following-post-coup-transition-2021-04-15/
+https://perma.cc/ADD6-VSRA
 (12)
 
 
@@ -731,19 +701,14 @@ https://www.reuters.com/world/africa/mali-hold-elections-next-february-following
 Due to surge in Covid-19 cases, the Malian government declared a nationwide state of health emergency on 18 December 2020, to last initially for 10 days (until 28 December 2020). The government extended the state of health emergency on 23 December 2020 until 26 June 2021. 
 
 *Sources*:
- https://www.aa.com.tr/fr/afrique/mali-covid-19-lev%C3%A9e-du-couvre-feu-sur-toute-l%C3%A9tendue-du-territoire/1834861
-
-https://www.garda.com/crisis24/news-alerts/340831/mali-curfew-lifted-nationwide-may-9-update-4
-
-https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-
-https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mali/
+ https://perma.cc/JV7M-93D3
+https://perma.cc/7W5Q-J69B
+https://perma.cc/ZK87-U7MH
+https://perma.cc/6V8P-3R25
 
 https://www.facebook.com/563531873666309/posts/3981531871866275/
-
-https://www.garda.com/crisis24/news-alerts/455926/mali-domestic-covid-19-restrictions-remain-largely-unchanged-as-of-march-16-by-comparison-with-those-in-effect-in-early-january-update-10
-
-https://www.garda.com/crisis24/news-alerts/463836/mali-domestic-covid-19-restrictions-remain-largely-unchanged-as-of-april-6-update-11
+https://perma.cc/K6TY-QYB7
+https://perma.cc/UY7D-GHX2
 
 
 
@@ -787,15 +752,11 @@ https://www.garda.com/crisis24/news-alerts/463836/mali-domestic-covid-19-restric
  No evidence was found. 
 
 *Sources*:
- https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars-2020-2128
-
-https://www.lepoint.fr/afrique/mali-le-covid-19-en-etau-entre-pouvoir-civil-et-pouvoir-religieux-13-05-2020-2375300_3826.php#
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mali/
+ https://perma.cc/4KLQ-4SJV
+https://perma.cc/N7ZL-WNSB
+https://perma.cc/47NA-CPPS
+https://perma.cc/4YMH-BAE7
+https://perma.cc/8FVG-KU89
 
 
 
@@ -844,15 +805,17 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mal
  No evidence was found. 
 
 *Sources*:
- https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
+ https://perma.cc/ZK87-U7MH
+(1)
 
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars-2020-2128
-
-https://www.lepoint.fr/afrique/mali-le-covid-19-en-etau-entre-pouvoir-civil-et-pouvoir-religieux-13-05-2020-2375300_3826.php#
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mali/
+https://perma.cc/N7ZL-WNSB
+(2)
+https://perma.cc/47NA-CPPS
+(3)
+https://perma.cc/4YMH-BAE7
+(4)
+https://perma.cc/8FVG-KU89
+(5)
 
 
 
@@ -903,22 +866,21 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mal
 The state of emergency is still in place until 26 June 2021. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mali/
+ https://perma.cc/8FVG-KU89
 (1)
-
-https://www.panapress.com/Malian-media-protest-suppression-a_630672857-lang2-free_news.html
+https://perma.cc/TV8S-CM8P
 (2)
-
 https://www.facebook.com/matdmali/posts/1130916104007009
 (3)
+https://perma.cc/E3RN-HL8F
+(4)
+https://perma.cc/3SJV-TGU3
+(5)
 
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars-2020-2128
+https://perma.cc/N7ZL-WNSB
+(6)
+https://perma.cc/47NA-CPPS
+(7)
 
 
 
@@ -964,22 +926,21 @@ https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars
 The state of emergency is still in place until 26 June 2021. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mali/
+ https://perma.cc/8FVG-KU89
 (1)
-
-https://www.panapress.com/Malian-media-protest-suppression-a_630672857-lang2-free_news.html
+https://perma.cc/TV8S-CM8P
 (2)
-
 https://www.facebook.com/matdmali/posts/1130916104007009
 (3)
+https://perma.cc/E3RN-HL8F
+(4)
+https://perma.cc/3SJV-TGU3
+(5)
 
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars-2020-2128
+https://perma.cc/N7ZL-WNSB
+(6)
+https://perma.cc/47NA-CPPS
+(7)
 
 
 
@@ -1025,22 +986,21 @@ https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars
 The state of emergency is still in place until 26 June 2021. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mali/
+ https://perma.cc/8FVG-KU89
 (1)
-
-https://www.panapress.com/Malian-media-protest-suppression-a_630672857-lang2-free_news.html
+https://perma.cc/TV8S-CM8P
 (2)
-
 https://www.facebook.com/matdmali/posts/1130916104007009
 (3)
+https://perma.cc/E3RN-HL8F
+(4)
+https://perma.cc/3SJV-TGU3
+(5)
 
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars-2020-2128
+https://perma.cc/N7ZL-WNSB
+(6)
+https://perma.cc/47NA-CPPS
+(7)
 
 
 
@@ -1087,18 +1047,16 @@ https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars
 The state of emergency is still in place until 26 June 2021. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mali/
+ https://perma.cc/8FVG-KU89
 (1)
-
-https://www.panapress.com/Malian-media-protest-suppression-a_630672857-lang2-free_news.html
+https://perma.cc/TV8S-CM8P
 (2)
-
 https://www.facebook.com/matdmali/posts/1130916104007009
 (3)
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/mali
+https://perma.cc/3SJV-TGU3
+(4)
+https://perma.cc/33UY-4FJR
+(5)
 
 
 
@@ -1147,21 +1105,19 @@ https://rsf.org/en/mali
 The state of emergency is still in place until 26 June 2021. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mali/
+ https://perma.cc/8FVG-KU89
 (1)
-
-https://www.panapress.com/Malian-media-protest-suppression-a_630672857-lang2-free_news.html
+https://perma.cc/TV8S-CM8P
 (2)
-
 https://www.facebook.com/matdmali/posts/1130916104007009
 (3)
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+https://perma.cc/E3RN-HL8F
 (4)
+https://perma.cc/3SJV-TGU3
+(5)
 
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/mali
+https://perma.cc/33UY-4FJR
+(6)
 
 
 
@@ -1208,18 +1164,16 @@ https://rsf.org/en/mali
 The state of emergency is still in place until 26 June 2021. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mali/
+ https://perma.cc/8FVG-KU89
 (1)
-
-https://www.panapress.com/Malian-media-protest-suppression-a_630672857-lang2-free_news.html
+https://perma.cc/TV8S-CM8P
 (2)
-
 https://www.facebook.com/matdmali/posts/1130916104007009
 (3)
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/mali
+https://perma.cc/3SJV-TGU3
+(4)
+https://perma.cc/33UY-4FJR
+(5)
 
 
 
@@ -1267,18 +1221,16 @@ https://rsf.org/en/mali
 The state of emergency is still in place until 26 June 2021. 
 
 *Sources*:
- https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mali/
+ https://perma.cc/8FVG-KU89
 (1)
-
-https://www.panapress.com/Malian-media-protest-suppression-a_630672857-lang2-free_news.html
+https://perma.cc/TV8S-CM8P
 (2)
-
 https://www.facebook.com/matdmali/posts/1130916104007009
 (3)
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://rsf.org/en/mali
+https://perma.cc/3SJV-TGU3
+(4)
+https://perma.cc/33UY-4FJR
+(5)
 
 
 
@@ -1320,22 +1272,19 @@ https://rsf.org/en/mali
  Only one incident found that relates to physical harassment (arrest). 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+ https://perma.cc/E3RN-HL8F
 (1)
-
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars-2020-2128
-
-https://www.lepoint.fr/afrique/mali-le-covid-19-en-etau-entre-pouvoir-civil-et-pouvoir-religieux-13-05-2020-2375300_3826.php#
-
-https://www.amnesty.org/en/latest/news/2020/05/southern-africa-covid19-a-pretext-for-surge-in-harassment-of-journalists-and-weakening-of-media-houses-by-states/
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mali/
+https://perma.cc/3SJV-TGU3
+(2)
+https://perma.cc/N7ZL-WNSB
+(3)
+https://perma.cc/47NA-CPPS
+(4)
+https://perma.cc/4YMH-BAE7
+https://perma.cc/X2F2-6WFL
+(5)
+https://perma.cc/8FVG-KU89
+(6)
 
 
 
@@ -1377,22 +1326,21 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mal
  During Q2 of 2020: ''In Mali, the police briefly arrested a reporter for the L’Indépendant newspaper in connection with a report on the epidemic.'' The article does not specify whether the report on the epidemic was about the nature of Covid-19 or the govenrment response (1). 
 
 *Sources*:
- https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+ https://perma.cc/E3RN-HL8F
 (1)
+https://perma.cc/3SJV-TGU3
+(2)
+https://perma.cc/N7ZL-WNSB
+(3)
+https://perma.cc/47NA-CPPS
+(4)
+https://perma.cc/4YMH-BAE7
+(5)
+https://perma.cc/X2F2-6WFL
+(6)
 
-https://ipi.media/covid19-media-freedom-monitoring/
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://ml.ambafrance.org/Coronavirus-Communique-du-gouvernement-du-Mali-11-Mars-2020-2128
-
-https://www.lepoint.fr/afrique/mali-le-covid-19-en-etau-entre-pouvoir-civil-et-pouvoir-religieux-13-05-2020-2375300_3826.php#
-
-https://www.amnesty.org/en/latest/news/2020/05/southern-africa-covid19-a-pretext-for-surge-in-harassment-of-journalists-and-weakening-of-media-houses-by-states/
-
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mali/
+https://perma.cc/8FVG-KU89
+(7)
 
 
 
@@ -1440,13 +1388,11 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mal
 No evidence was found on whether the government changed its policy on the use of chloroquine after June 2020. We code as 0 for quarters after Q2 2020 because we no longer found reports of the government using or promoting chloroquine. We do not know if it continued in practice. 
 
 *Sources*:
- http://mali-web.org/sante/traitement-du-coronavirus-au-mali-lutilisation-de-la-chloroquine-autorisee-lautomedication-interdite?fbclid=IwAR1Q4XNmQkPcKXJelQi-oWl91fCLrR5n1-9N2gbzW-PtUC4kToN1rucS280
+ https://perma.cc/B9CJ-XDZB
 (1)
-
-https://www.studiotamani.org/index.php/themes/societe/23651-traitement-des-malades-du-covid-19-l-oms-suspend-l-utilisation-de-la-chloroquine
+https://perma.cc/5MNC-S8B2
 (2)
-
-https://www.afrik.com/coronavirus-chloroquine-azythromycine-didier-raoult-donne-l-algerie-le-mali-le-senegal-en-exemple-video
+https://perma.cc/K3A8-KN53
 (3)
 
 
@@ -1491,18 +1437,16 @@ https://www.afrik.com/coronavirus-chloroquine-azythromycine-didier-raoult-donne-
  There are several incidents with police violence against protesters, but these relate either to the political crisis facing Mali during July-August 2020 (see 4), or to isolated incidents unrelated to the emergency measures (see 1, 2) 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/341406/mali-violent-protests-erupt-in-kayes-kayes-region-may-11-12
+ https://perma.cc/9HNK-RH97
 (1)
-
-https://north-africa.com/2020/05/mali-unrest-in-kayes-over-police-violence-three-more-civilians-killed/
+https://perma.cc/74SA-Y72T
 (2)
-
-https://www.ispionline.it/en/pubblicazione/covid-19-and-civil-society-protests-west-africa-26482
-
-https://www.france24.com/en/20200716-coronavirus-pandemic-doctors-forced-to-refuse-patients-in-south-africa
+https://perma.cc/5KV7-Z5P4
+(3)
+https://perma.cc/3D6D-EG94
 (4)
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mali/
+https://perma.cc/8FVG-KU89
+(5)
 
 
 
@@ -1544,8 +1488,9 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mal
  No reports on the military's involvement. Because of the state of emergency and the security situation in Mali however, the army is deployed in the borders but not related to Covid-19. 
 
 *Sources*:
- https://www.acaps.org/sites/acaps/files/products/files/20200429_acaps_vulnerabilities_to_covid-19_containment_measures_in_burkina_faso_mali_and_niger.pdf
-
-https://news.un.org/fr/story/2020/03/1064512
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/mali/
+ https://perma.cc/ZK87-U7MH
+(1)
+https://perma.cc/T2BV-J4M9
+(2)
+https://perma.cc/8FVG-KU89
+(3)

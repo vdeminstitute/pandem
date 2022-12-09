@@ -49,27 +49,15 @@ The state of emergency has been in place continuously since March 2020, after co
 
 *Sources*:
  https://www.constituteproject.org/constitution/Gabon_2011.pdf?lang=en
-(1)
 
 http://www.droit-afrique.com/uploads/Gabon-Loi-1990-11-etat-urgence.pdf
-(2)
-
 https://www.legigabon.com/etat-d-urgence-covid-19
-(3)
-
 https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_bf8817338b3841c0a52d721427c55e55.pdf
-(4)
 
 https://www.union.sonapresse.com/gabon-culture-societe/covid-19-un-nouveau-dispositif-legislatif-se-met-en-place-21834
-(5)
-
 https://info241.com/covid-19-le-gouvernement-gabonais-prolonge-l-etat-d-urgence,797
-(6)
 
 https://www.gabonmediatime.com/maintien-de-letat-durgence-sanitaire-lhistoire-sans-fin/
-(7)
-
-
 
 
 
@@ -111,11 +99,13 @@ https://www.gabonmediatime.com/maintien-de-letat-durgence-sanitaire-lhistoire-sa
 On 11 May 2020 the state of emergency was lifted, and institutionally replaced by a state of health emergency, brought about with a new law (based on Constitution, article 47) allowing the government to take emergency measures without declaring a state of emergency. The law gives the government similar powers as a state of emergency for an additional 45 days, which was renewed for additional days. Under the new law, the state of (health) emergency continued, although under a different legal instrument. 
 
 *Sources*:
- https://www.constituteproject.org/constitution/Gabon_2011.pdf?lang=en
+ perma.cc/ZE9S-RY34
 
-https://www.legigabon.com/etat-d-urgence-covid-19
 
-https://www.union.sonapresse.com/gabon-culture-societe/covid-19-un-nouveau-dispositif-legislatif-se-met-en-place-21834
+perma.cc/Y4U8-FXBQ
+
+
+perma.cc/3B8D-EK3P
 
 
 
@@ -154,13 +144,19 @@ https://www.union.sonapresse.com/gabon-culture-societe/covid-19-un-nouveau-dispo
  The Gabonese government first declared a state of emergency on 10 April 2020. On 11 May 2020 the state of emergency was lifted, and institutionally replaced by a state of health emergency, brought about with a new law. 
 
 *Sources*:
- https://www.legigabon.com/etat-d-urgence-covid-19
+ perma.cc/YTM7-HV5A
 
-https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_bf8817338b3841c0a52d721427c55e55.pdf
 
-http://www.droit-afrique.com/uploads/Gabon-Loi-1990-11-etat-urgence.pdf
+perma.cc/3MFG-S4BA
 
-https://www.gabonmediatime.com/covid-19-ali-bongo-decrete-letat-durgence/
+
+perma.cc/37UH-XL3K
+
+
+perma.cc/LZ82-B9GE
+
+
+
 
 
 
@@ -206,30 +202,16 @@ The government has been continuously prolonging for 45 days each time the state 
  
 
 *Sources*:
- https://www.gabonreview.com/etat-durgence-sanitaire-le-gouvernement-prolonge-jusquau-14-decembre/
-(1)
-
-https://www.gabonmediatime.com/covid-19-vers-une-prolongation-de-letat-durgence-sanitaire-au-14-decembre/
-(2)
-
-https://www.gabonreview.com/etat-durgence-sanitaire-le-senat-accorde-45-jours-de-plus-au-gouvernement/
-
-https://www.union.sonapresse.com/gabon-politique/covid-19-fin-de-letat-durgence-sanitaire-le-4-octobre-22832
-
-https://gabonactu.com/covid-19-reconduire-letat-durgence-sanitaire-au-gabon-sera-un-abus-dautorite-selon-lactiviste-paul-aime-bagafou/
-
-https://www.union.sonapresse.com/gabon-culture-societe/covid-19-un-nouveau-dispositif-legislatif-se-met-en-place-21834
-
-https://www.garda.com/crisis24/news-alerts/414551/gabon-covid-19-related-state-of-health-emergency-extended-through-january-2021-update-11
-
-https://www.lenouveaugabon.com/fr/sante-social/0804-16759-covid-19-le-gouvernement-prolonge-l-etat-d-urgence-sanitaire-de-45-jours
-
-https://www.gabonreview.com/gabon-permanence-pour-45-jours-encore-de-letat-durgence-sanitaire/
-
-https://www.garda.com/crisis24/news-alerts/480971/gabon-covid-19-related-state-of-emergency-in-place-nationwide-through-june-28-update-19
-(10)
-
-
+ https://perma.cc/38T3-DSCK
+https://perma.cc/BJ2Q-PXEB
+https://perma.cc/RR5T-ABUK
+https://perma.cc/8EGV-BD2Y
+https://perma.cc/RJZ2-97FP
+https://perma.cc/K73D-S5HF
+https://perma.cc/CU3K-UGNK
+https://perma.cc/M4HA-7XPW
+https://perma.cc/CW3P-9Q2K
+https://perma.cc/MR54-GFCN
 
 
 
@@ -275,31 +257,22 @@ The Senate granted a 45-days extension of the state of emergency on 3 October 20
 The government has been continuously prolonging for 45 days each time the state of health emergency up until June 2021. The latest extension runs through 28 June 2021. 
 
 *Sources*:
- https://www.gabonreview.com/etat-durgence-sanitaire-le-gouvernement-prolonge-jusquau-14-decembre/
+ perma.cc/Q64C-9V6T
 (1)
 
-https://www.gabonmediatime.com/covid-19-vers-une-prolongation-de-letat-durgence-sanitaire-au-14-decembre/
+perma.cc/8PN8-PKWG
 (2)
 
-https://www.legigabon.com/etat-d-urgence-covid-19
-
-https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_bf8817338b3841c0a52d721427c55e55.pdf
-
-https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_1639685ba92542b09a7f52711860faa6.pdf
-
-http://www.droit-afrique.com/uploads/Gabon-Loi-1990-11-etat-urgence.pdf
-
-https://www.gabonmediatime.com/covid-19-ali-bongo-decrete-letat-durgence/
-
-https://www.gabonreview.com/etat-durgence-sanitaire-le-senat-accorde-45-jours-de-plus-au-gouvernement/
-
-https://www.garda.com/crisis24/news-alerts/414551/gabon-covid-19-related-state-of-health-emergency-extended-through-january-2021-update-11
-
-https://www.lenouveaugabon.com/fr/sante-social/0804-16759-covid-19-le-gouvernement-prolonge-l-etat-d-urgence-sanitaire-de-45-jours
-
-https://www.gabonreview.com/gabon-permanence-pour-45-jours-encore-de-letat-durgence-sanitaire/
-
-https://www.garda.com/crisis24/news-alerts/480971/gabon-covid-19-related-state-of-emergency-in-place-nationwide-through-june-28-update-19
+perma.cc/7542-FDDM
+perma.cc/V6UV-UGKZ
+perma.cc/4M4A-K8HR
+perma.cc/L6RF-Z2GF
+perma.cc/A99X-WVUS
+perma.cc/2AYG-UW9L
+perma.cc/8WFJ-MU3P
+perma.cc/N75K-M3FP
+perma.cc/7PJE-DYGB
+perma.cc/Q6Z5-HBBE
 (12)
 
 
@@ -347,38 +320,26 @@ Q1 2021: 2021-03-30
 Q2 2021: 2021-06-28 
 
 *Sources*:
- https://www.gabonreview.com/etat-durgence-sanitaire-le-gouvernement-prolonge-jusquau-14-decembre/
+ perma.cc/Q64C-9V6T
 (1)
 
-https://www.gabonmediatime.com/covid-19-vers-une-prolongation-de-letat-durgence-sanitaire-au-14-decembre/
+perma.cc/8PN8-PKWG
 (2)
 
-https://www.legigabon.com/etat-d-urgence-covid-19
-
-https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_bf8817338b3841c0a52d721427c55e55.pdf
-
-https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_1639685ba92542b09a7f52711860faa6.pdf
-
-http://www.droit-afrique.com/uploads/Gabon-Loi-1990-11-etat-urgence.pdf
-
-https://www.gabonmediatime.com/covid-19-ali-bongo-decrete-letat-durgence/
-
-https://www.gabonreview.com/etat-durgence-sanitaire-le-senat-accorde-45-jours-de-plus-au-gouvernement/
-
-https://www.garda.com/crisis24/news-alerts/414551/gabon-covid-19-related-state-of-health-emergency-extended-through-january-2021-update-11
-
-https://www.lenouveaugabon.com/fr/sante-social/0804-16759-covid-19-le-gouvernement-prolonge-l-etat-d-urgence-sanitaire-de-45-jours
-
-https://www.gabonreview.com/gabon-permanence-pour-45-jours-encore-de-letat-durgence-sanitaire/
-
-https://www.garda.com/crisis24/news-alerts/480971/gabon-covid-19-related-state-of-emergency-in-place-nationwide-through-june-28-update-19
+perma.cc/7542-FDDM
+perma.cc/V6UV-UGKZ
+perma.cc/4M4A-K8HR
+perma.cc/L6RF-Z2GF
+perma.cc/A99X-WVUS
+perma.cc/2AYG-UW9L
+perma.cc/8WFJ-MU3P
+perma.cc/N75K-M3FP
+perma.cc/7PJE-DYGB
+perma.cc/Q6Z5-HBBE
 (12)
-
-https://www.garda.com/crisis24/news-alerts/453861/gabon-covid-19-measures-unchanged-as-of-march-11-update-16
-
-https://www.garda.com/crisis24/news-alerts/341016/gabon-covid-19-state-of-emergency-lifted-may-11-update-8
-
-https://www.garda.com/crisis24/news-alerts/386741/gabon-state-of-health-emergency-extended-until-november-17-update-10
+perma.cc/H86H-Y4TA
+perma.cc/UG2H-46JU
+perma.cc/3ND2-ULRB
 
 
 
@@ -420,7 +381,7 @@ https://www.garda.com/crisis24/news-alerts/386741/gabon-state-of-health-emergenc
  Article 50, Constitution and Art.4.‐ of the Law n°11/90 relative à l’état d’urgence, Modifiée par laLoi n°2020‐01) mentions that the state of emergency cannot be declared for more than 15 days, and its extension can only be authorized by the Parliament. The same applies when a state of emergency is declared based on art 47 of Constitution. 
 
 *Sources*:
- http://www.droit-afrique.com/uploads/Gabon-Loi-1990-11-etat-urgence.pdf
+ perma.cc/5DQW-8UUS
 
 
 
@@ -468,35 +429,37 @@ All later extensions of the state of health emergency have been approved by the 
 However, there have been criticisms against the government for delaying to get parliament authorization for some of the extensions (see 8, 9, 10). 
 
 *Sources*:
- https://www.gabonreview.com/etat-durgence-le-senat-en-attend-plus-du-gouvernement-2/
-(1)
+ perma.cc/5TUN-5L35
 
-http://info241.com/l-etat-d-urgence-prolonge-au-gabon-jusqu-au-9-mai-prochain-dans,5052
-(2)
 
-https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_b507789792144024b9b51e50f3a9f754.pdf
-(3)
+perma.cc/BKQ5-Y88U
 
-https://www.union.sonapresse.com/gabon-culture-societe/covid-19-un-nouveau-dispositif-legislatif-se-met-en-place-21834
-(4)
 
-https://lalibreville.com/gabon-lassemblee-nationale-et-le-senat-valident-la-prorogation-de-letat-durgence-sanitaire-afin-de-lutter-contre-le-covid-19/
-(5)
+perma.cc/M6PR-R4TM
 
-https://www.gabonreview.com/etat-durgence-sanitaire-le-parlement-accorde-45-jours-de-plus/
-(6)
 
-https://www.gabonreview.com/gabon-permanence-pour-45-jours-encore-de-letat-durgence-sanitaire/
-(7)
+perma.cc/7D4D-3RNG
 
-https://www.gabonreview.com/maintien-de-letat-durgence-sanitaire-soupcons-dinstrumentalisation/
-(8)
 
-https://www.gabonmediatime.com/maintien-de-letat-durgence-sanitaire-lhistoire-sans-fin/
-(9)
+perma.cc/EN4V-UU6W
 
-https://www.gabonreview.com/lutte-contre-la-covid-19-le-gabon-zone-de-non-droit/
-(10)
+
+perma.cc/NA4R-229K
+
+
+perma.cc/D3FQ-2T9K
+
+
+perma.cc/W8QV-QET4
+
+
+perma.cc/2SGB-7V4C
+
+
+perma.cc/V36K-9DK9
+
+
+
 
 
 
@@ -552,25 +515,25 @@ The National Assembly has granted authorization for the declaration of the state
 Also, there have been social distancing measures in place, and a Parliamentary Commission of Inquiry dedicated to the control and evaluation of the management of Covid-19 (1). 
 
 *Sources*:
- https://www.inter-pares.eu/inter-pares-parliamentary-data-tracker
+ perma.cc/289G-MLUV
 (1)
 
-https://www.constituteproject.org/constitution/Gabon_2011.pdf?lang=en
+perma.cc/SHY2-ZEZR
 (2)
 
-https://www.gabonreview.com/etat-durgence-le-senat-en-attend-plus-du-gouvernement-2/
+perma.cc/XU6X-XRJE
 (3)
 
-https://www.union.sonapresse.com/gabon-culture-societe/covid-19-un-nouveau-dispositif-legislatif-se-met-en-place-21834
+perma.cc/U94D-7PBB
 (4)
 
-https://lalibreville.com/gabon-lassemblee-nationale-et-le-senat-valident-la-prorogation-de-letat-durgence-sanitaire-afin-de-lutter-contre-le-covid-19/
+perma.cc/VFG5-YHLY
 (5)
 
-https://www.gabonreview.com/etat-durgence-sanitaire-le-parlement-accorde-45-jours-de-plus/
+perma.cc/HUU7-8K7N
 (6)
 
-http://www.droit-afrique.com/uploads/Gabon-Loi-1990-11-etat-urgence.pdf
+perma.cc/B6FZ-4ZAZ
 (7)
 
 
@@ -697,22 +660,22 @@ In Q3 and Q4 of 2020, the state of health emergency and the curfew are nationwid
 In Q1 and Q2 of 2021, the state of health emergency and the curfew are nationwide, but entry and exit to Greater Libreville is further restricted (5, 6). 
 
 *Sources*:
- https://www.garda.com/crisis24/news-alerts/336411/gabon-authorities-extend-state-of-emergency-due-to-covid-19-until-may-11-update-7
+ perma.cc/QPQ5-STM8
 (1)
 
-https://www.garda.com/crisis24/news-alerts/341016/gabon-covid-19-state-of-emergency-lifted-may-11-update-8
+perma.cc/D55V-VVXJ
 (2)
 
-https://www.garda.com/crisis24/news-alerts/386741/gabon-state-of-health-emergency-extended-until-november-17-update-10
+perma.cc/55AC-R62S
 (3)
 
-https://www.garda.com/crisis24/news-alerts/414551/gabon-covid-19-related-state-of-health-emergency-extended-through-january-2021-update-11
+perma.cc/7CX4-YJAF
 (4)
 
-https://www.garda.com/crisis24/news-alerts/448336/gabon-covid-19-measures-unchanged-as-of-feb-26-update-15
+perma.cc/M3NA-LC3C
 (5)
 
-https://www.garda.com/crisis24/news-alerts/480971/gabon-covid-19-related-state-of-emergency-in-place-nationwide-through-june-28-update-19
+perma.cc/B48Q-C4ZZ
 (6)
 
 
@@ -757,11 +720,9 @@ https://www.garda.com/crisis24/news-alerts/480971/gabon-covid-19-related-state-o
  No evidence was found in the emergency measures, nor in reports on human rights practices. 
 
 *Sources*:
- https://www.legigabon.com/etat-d-urgence-covid-19
-
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gabon/
+ https://perma.cc/BEL4-ZK9C
+https://perma.cc/N7ZL-WNSB
+https://perma.cc/75XY-2QNM
 
 
 
@@ -810,11 +771,13 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gab
  Nothing mentioned in the emergency measures, nor in reports on human rights violations 
 
 *Sources*:
- https://www.legigabon.com/etat-d-urgence-covid-19
+ perma.cc/E5HZ-8DEA
 
-https://www.hrw.org/news/2020/04/14/covid-19-human-rights-checklist
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gabon/
+perma.cc/4ZZ3-PZM2
+
+
+perma.cc/89V8-K938
 
 
 
@@ -859,16 +822,14 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gab
 Yet, Decree no 00106 designating the essential services and personnel (1), does not include journalists and the media in the listed essential services that are exempted from the movement restrictions (curfew) of the emergency measures. 
 
 *Sources*:
- https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_a31073297a784eddad9442bfd866da54.pdf
+ perma.cc/25ZE-67ZV
 (1)
 
-https://www.bbc.com/afrique/region-52363470
+perma.cc/8WCW-SZDU
+perma.cc/C48V-SJWZ
+perma.cc/7P3K-7FHX
+perma.cc/X2FG-PAQD
 
-https://www.legigabon.com/etat-d-urgence-covid-19
-
-https://info241.com/covid-19-le-gouvernement-gabonais-prolonge-l-etat-d-urgence,797
-
-https://www.gabonmediatime.com/maintien-de-letat-durgence-sanitaire-lhistoire-sans-fin/
 
 
 
@@ -988,17 +949,22 @@ https://www.gabonmediatime.com/maintien-de-letat-durgence-sanitaire-lhistoire-sa
  No media limitations on the nature of Covid-19. 
 
 *Sources*:
- https://rsf.org/en/tracker19-Coronavirus-Covid19
+ perma.cc/B3ET-WM4J
 
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
 
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
+perma.cc/B44M-VUHL
 
-https://ipi.media/covid19-media-freedom-monitoring/
 
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
+perma.cc/789V-C9AW
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gabon/
+
+perma.cc/DB64-UL4E
+
+
+perma.cc/QD9T-R8JP
+
+
+perma.cc/VXX9-YX9X
 
 
 
@@ -1044,28 +1010,31 @@ Journalists and editors in Gabon report that this lack of granted authorizations
 In addition, the media in Gabon are facing government censorship (6). The role of HAC (High Authority of Communication) in particular has been extremely problematic the last years (4, 5), suspending several media and newspapers. Although these developments related to facts before Covid-19, it is nevertheless a problem which relates to the current situation. 
 
 *Sources*:
- https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_a31073297a784eddad9442bfd866da54.pdf
-(1)
+ perma.cc/UJC6-3HDX
 
-https://www.bbc.com/afrique/region-52363470
-(2)
 
-https://www.legigabon.com/etat-d-urgence-covid-19
+perma.cc/EE5G-Z77J
 
-https://monitor.civicus.org/updates/2019/09/02/gabon-several-media-outlets-journalist-accreditation-suspended/
-(4)
 
-https://cpj.org/2019/05/gabon-media-regulator-suspends-two-newspapers-over/
-(5)
+perma.cc/8FK4-VEB8
 
-https://rsf.org/en/gabon
-(6)
 
-https://gabonactu.com/covid-19-le-gouvernement-proroge-le-confinement-du-gabon-pour-45-jours
+perma.cc/K22E-VJRA
 
-https://www.garda.com/crisis24/news-alerts/391071/gabon-authorities-to-ease-covid-19-restrictions-and-reduce-curfew-from-october-20-update-11
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gabon/
+perma.cc/9TTR-AVUN
+
+
+perma.cc/3W8F-ERYG
+
+
+perma.cc/H22D-QGZN
+
+
+perma.cc/8J2N-WRUV
+
+
+perma.cc/Z6G7-3RKW
 
 
 
@@ -1111,28 +1080,31 @@ Journalists and editors in Gabon report that this lack of granted authorizations
 In addition, the media in Gabon are facing government censorship (6). The role of HAC (High Authority of Communication) in particular has been extremely problematic the last years (4, 5), suspending several media and newspapers. Although these developments related to facts before Covid-19, it is nevertheless a problem which relates to the current situation. 
 
 *Sources*:
- https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_a31073297a784eddad9442bfd866da54.pdf
-(1)
+ perma.cc/UJC6-3HDX
 
-https://www.bbc.com/afrique/region-52363470
-(2)
 
-https://www.legigabon.com/etat-d-urgence-covid-19
+perma.cc/EE5G-Z77J
 
-https://monitor.civicus.org/updates/2019/09/02/gabon-several-media-outlets-journalist-accreditation-suspended/
-(4)
 
-https://cpj.org/2019/05/gabon-media-regulator-suspends-two-newspapers-over/
-(5)
+perma.cc/8FK4-VEB8
 
-https://rsf.org/en/gabon
-(6)
 
-https://gabonactu.com/covid-19-le-gouvernement-proroge-le-confinement-du-gabon-pour-45-jours
+perma.cc/K22E-VJRA
 
-https://www.garda.com/crisis24/news-alerts/391071/gabon-authorities-to-ease-covid-19-restrictions-and-reduce-curfew-from-october-20-update-11
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gabon/
+perma.cc/9TTR-AVUN
+
+
+perma.cc/3W8F-ERYG
+
+
+perma.cc/H22D-QGZN
+
+
+perma.cc/8J2N-WRUV
+
+
+perma.cc/Z6G7-3RKW
 
 
 
@@ -1179,28 +1151,30 @@ Journalists and editors in Gabon report that this lack of granted authorizations
 In addition, the media in Gabon are facing government censorship (6). The role of HAC (High Authority of Communication) in particular has been extremely problematic the last years (4, 5), suspending several media and newspapers. Although these developments related to facts before Covid-19, it is nevertheless a problem which relates to the current situation. 
 
 *Sources*:
- https://64695626-4c16-4c32-a051-0af78a00c561.filesusr.com/ugd/33bbf3_a31073297a784eddad9442bfd866da54.pdf
+ perma.cc/UJC6-3HDX
 (1)
 
-https://www.bbc.com/afrique/region-52363470
+perma.cc/EE5G-Z77J
+
 (2)
 
-https://www.legigabon.com/etat-d-urgence-covid-19
+perma.cc/8FK4-VEB8
+(3)
 
-https://monitor.civicus.org/updates/2019/09/02/gabon-several-media-outlets-journalist-accreditation-suspended/
+perma.cc/K22E-VJRA
 (4)
 
-https://cpj.org/2019/05/gabon-media-regulator-suspends-two-newspapers-over/
+perma.cc/9TTR-AVUN
 (5)
 
-https://rsf.org/en/gabon
+perma.cc/3W8F-ERYG
 (6)
 
-https://gabonactu.com/covid-19-le-gouvernement-proroge-le-confinement-du-gabon-pour-45-jours
+perma.cc/H22D-QGZN
+(7)
 
-https://www.garda.com/crisis24/news-alerts/391071/gabon-authorities-to-ease-covid-19-restrictions-and-reduce-curfew-from-october-20-update-11
-
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gabon/
+perma.cc/8J2N-WRUV
+perma.cc/Z6G7-3RKW
 
 
 
@@ -1242,18 +1216,22 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gab
  No evidence found. 
 
 *Sources*:
- https://rsf.org/en/tracker19-Coronavirus-Covid19
+ perma.cc/B3ET-WM4J
 
 
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+perma.cc/B44M-VUHL
 
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
 
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/789V-C9AW
 
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gabon/
+perma.cc/DB64-UL4E
+
+
+perma.cc/QD9T-R8JP
+
+
+perma.cc/VXX9-YX9X
 
 
 
@@ -1295,18 +1273,22 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gab
  No evidence found. 
 
 *Sources*:
- https://rsf.org/en/tracker19-Coronavirus-Covid19
+ perma.cc/B3ET-WM4J
 
 
-https://rsf.org/en/news/coronavirus-infects-press-freedom-africa
+perma.cc/B44M-VUHL
 
-https://www.news24.com/news24/opinions/william-gumede-covid-19-is-giving-african-governments-cover-to-crack-down-on-media-20200416
 
-https://ipi.media/covid19-media-freedom-monitoring/
+perma.cc/789V-C9AW
 
-https://democracyworks.org.za/freedom-of-expression-and-covid-19-in-africa/
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gabon/
+perma.cc/DB64-UL4E
+
+
+perma.cc/QD9T-R8JP
+
+
+perma.cc/VXX9-YX9X
 
 
 
@@ -1353,14 +1335,16 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gab
 No evidence was found on whether the government changed its policy on the use of chloroquine after June 2020. We code as 0 for quarters after Q2 2020 because we no longer found reports of the government using or promoting chloroquine. We do not know if it continued in practice. 
 
 *Sources*:
- https://gabonactu.com/le-gabon-va-prescrire-la-chloroquine-aux-personnes-atteintes-du-coronavirus/
-(1)
-https://gabonactu.com/gabon-le-protocole-therapeutique-des-malades-covid-19/
-(2)
-https://lalibreville.com/hydroxychloroquine-et-covid-19-le-gabon-precise-sa-position/
-(3)
-https://afrique.le360.ma/maroc-algerie-autres-pays/politique/2020/06/01/30726-covid-19-voici-pourquoi-les-pays-africains-ont-dit-non-loms-et-poursuivent-le
+ perma.cc/3B65-K5HK
 
+
+perma.cc/Q3XY-9K8A
+
+
+perma.cc/P7EC-AJPT
+
+
+perma.cc/JB8G-RH84
 
 
 
@@ -1404,9 +1388,10 @@ https://afrique.le360.ma/maroc-algerie-autres-pays/politique/2020/06/01/30726-co
  No incidents reported. 
 
 *Sources*:
- https://www.france24.com/en/20200328-virus-prevention-measures-turn-violent-in-parts-of-africa
+ perma.cc/GYW3-87BJ
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gabon/
+
+perma.cc/B9TT-VY99
 
 
 
@@ -1448,13 +1433,16 @@ https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gab
  The security forces have been deployed to enforce the movement restrictions. No indication of the military being charged with enforcing the measures. 
 
 *Sources*:
- https://www.worldaware.com/covid-19-alert-gabon-imposes-movement-restrictions-greater-libreville-april-12-27
+ perma.cc/W3PF-LLDT
 
 
-https://www.garda.com/crisis24/news-alerts/336411/gabon-authorities-extend-state-of-emergency-due-to-covid-19-until-may-11-update-7
+perma.cc/9KFZ-S2FE
 
-https://www.institutmontaigne.org/en/blog/coronavirus-and-africa-rapid-and-progressive-response-gabon
 
-https://www.france24.com/en/20200413-gabon-starts-virus-confinement-in-capital
+perma.cc/D2YH-4KE9
 
-https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/gabon/
+
+perma.cc/8QCT-6DLC
+
+
+perma.cc/8ZRQ-ZZWH
